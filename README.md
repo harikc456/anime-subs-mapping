@@ -2,503 +2,503 @@
  Creating a JP to EN Translation dataset from anime subtitles
 
  
-<ul> [] 07-Ghost<br> 
- [] 5-tou ni Naritai<br> 
- [] 91 Days<br> 
- [] Accel World<br> 
- [] Acchi Kocchi<br> 
- [] Aho Girl<br> 
- [] Ai Shite Knight<br> 
- [] Air<br> 
- [] Ajin<br> 
- [] Akane-iro ni Somaru Saka<br> 
- [] Akira<br> 
- [] Akuma no Riddle<br> 
- [] Aldnoah Zero<br> 
- [] Amaama to Inazuma<br> 
- [] Amagami SS<br> 
- [] Amagami SS Plus<br> 
- [] Amagi Brilliant Park<br> 
- [] Ano Natsu de Matteru<br> 
- [] Another<br> 
- [] Ao no Kanata no Four Rhythm<br> 
- [] Aoharu x Kikanjuu<br> 
- [] Aoi Hana<br> 
- [] Appleseed<br> 
- [] Aquarion Evol<br> 
- [] Arakawa Under the Bridge<br> 
- [] Assassination Classroom<br> 
- [] Baccano!<br> 
- [] Baka to Test to Shoukanjuu<br> 
- [] Bakemono no Ko<br> 
- [] Bakemonogatari<br> 
- [] Bakuman<br> 
- [] Barakamon<br> 
- [] Beelzebub<br> 
- [] Berserk<br> 
- [] Betterman<br> 
- [] Big Order<br> 
- [] Black Bullet<br> 
- [] Black Jack Final<br> 
- [] Black Lagoon<br> 
- [] Bleach<br> 
- [] Boku dake ga Inai Machi<br> 
- [] Bokurano<br> 
- [] Bokutachi wa Benkyou ga Dekinai<br> 
- [] Btooom!<br> 
- [] Bubblegum Crisis<br> 
- [] Bungaku Shoujo<br> 
- [] Busou Renkin<br> 
- [] Busou Shoujo Machiavellianism<br> 
- [] Byousoku 5 Centimeter<br> 
- [] Campione!<br> 
- [] Cap Kakumei Bottleman<br> 
- [] Charlotte<br> 
- [] Chi's Sweet Home<br> 
- [] Chihayafuru<br> 
- [] Chio-chan no Tsuugakuro<br> 
- [] Chobits<br> 
- [] Chuunibyou demo Koi ga Shitai!<br> 
- [] Chuunibyou demo Koi ga Shitai! Ren<br> 
- [] Citrus<br> 
- [] City Hunter<br> 
- [] Classroom Crisis<br> 
- [] Claymore<br> 
- [] Clockwork Planet<br> 
- [] Cobra The Animation<br> 
- [] Cowboy Bebop<br> 
- [] Cross Fight B-Daman<br> 
- [] Cross Game<br> 
- [] D-Frag!<br> 
- [] DARLING in the FRANXX<br> 
- [] Dagashi Kashi<br> 
- [] Danball Senki<br> 
- [] Danshi Koukousei no Nichijou<br> 
- [] Deadman Wonderland<br> 
- [] Death March kara Hajimaru Isekai Kyousoukyoku<br> 
- [] Death Note<br> 
- [] Demi-chan wa Kataritai<br> 
- [] Demon Slayer<br> 
- [] Dennou Coil<br> 
- [] Detective Conan<br> 
- [] Devil Survivor 2 The Animation<br> 
- [] Devilman Crybaby<br> 
- [] Diabolik Lovers<br> 
- [] Digimon Adventure<br> 
- [] Digimon Xros Wars<br> 
- [] Domestic na Kanojo<br> 
- [] Doraemon<br> 
- [] Dr. Stone<br> 
- [] Dragon Ball<br> 
- [] Dragon Ball Kai<br> 
- [] Dragon Ball Super<br> 
- [] Dragon Ball Z<br> 
- [] Drifters<br> 
- [] EVE no Jikan<br> 
- [] Elfen Lied<br> 
- [] Eureka Seven<br> 
- [] FLAG<br> 
- [] Fairy Tail<br> 
- [] Fate Apocrypha<br> 
- [] Fate Stay Night<br> 
- [] Fate Zero<br> 
- [] Final Fantasy XV Kingsglaive<br> 
- [] Fractale<br> 
- [] Free!<br> 
- [] Freedom<br> 
- [] Friends - Mononoke Shima no Naki<br> 
- [] Full Metal Panic Fumoffu<br> 
- [] Full Metal Panic!<br> 
- [] Full Metal Panic! Invisible Victory<br> 
- [] Fullmetal Alchemist<br> 
- [] Fune wo Amu<br> 
- [] Gakkou Gurashi!<br> 
- [] Galilei Donna<br> 
- [] Gantz<br> 
- [] Genji Monogatari Sennenki<br> 
- [] Genshiken Nidaime<br> 
- [] Getter Robo<br> 
- [] Ghost Sweeper Mikami<br> 
- [] Ghost in the Shell 2: Innocence<br> 
- [] Ghost in the Shell Arise<br> 
- [] Ginban Kaleidoscope<br> 
- [] Gintama<br> 
- [] Giovanni no Shima<br> 
- [] Glass no Hana to Kowasu Sekai<br> 
- [] Goblin Slayer<br> 
- [] Golden Kamuy<br> 
- [] Golden Time<br> 
- [] Golgo 13<br> 
- [] Gosick<br> 
- [] Great Mazinger<br> 
- [] Grisaia no Kajitsu<br> 
- [] Guilty Crown<br> 
- [] Guin Saga<br> 
- [] Gundam Build Fighters<br> 
- [] Hachimitsu to Clover<br> 
- [] Hachimitsu to Clover II<br> 
- [] Hai to Gensou no Grimgar<br> 
- [] Haibane Renmei<br> 
- [] Haikyuu!!<br> 
- [] Haiyore! Nyaruko-san W<br> 
- [] Hajimete no Gal<br> 
- [] Hanasakeru Seishounen<br> 
- [] Hanasaku Iroha<br> 
- [] Hanayamata<br> 
- [] Hanbun no Tsuki ga Noboru Sora<br> 
- [] Hanzawa Naoki<br> 
- [] Harmonie<br> 
- [] Harmony<br> 
- [] Hataraku Saibou<br> 
- [] Hayate no Gotoku!!<br> 
- [] Heavy Object<br> 
- [] Hellsing<br> 
- [] Hentai Ouji to Warawanai Neko<br> 
- [] Heroic Age<br> 
- [] Heroman<br> 
- [] Hetalia Axis Powers<br> 
- [] Hiatari Ryoukou<br> 
- [] Hibike! Euphonium<br> 
- [] Hidamari Sketch<br> 
- [] Higashi no Eden<br> 
- [] High School Fleet<br> 
- [] High Score Girl<br> 
- [] Higurashi no Naku Koro ni<br> 
- [] Higurashi no Naku Koro ni Gou<br> 
- [] Hikaru no Go<br> 
- [] Himouto! Umaru-chan<br> 
- [] Hinomaruzumou - Hinomaru Sumo<br> 
- [] Houkago no Pleiades<br> 
- [] Hourou Musuko<br> 
- [] Hyakujuu Sentai Gaoranger<br> 
- [] Hyouge Mono<br> 
- [] Hyouka<br> 
- [] ID-0<br> 
- [] Ichiban Ushiro no Daimaou<br> 
- [] Ichigo Mashimaro Encore<br> 
- [] Ichigo Mashimaro OVA<br> 
- [] Idoly Pride<br> 
- [] Inu to Hasami wa Tsukaiyou<br> 
- [] InuYasha<br> 
- [] Inukami!<br> 
- [] Inuyashiki<br> 
- [] Iriya no Sora, UFO no Natsu<br> 
- [] Isekai Cheat Magician<br> 
- [] Isekai Maou to Shoukan Shoujo no Dorei Majutsu<br> 
- [] Isekai Quartet<br> 
- [] Isshuukan Friends<br> 
- [] Jewelpet Sunshine<br> 
- [] Jigoku Shoujo<br> 
- [] Jinrui wa Suitai Shimashita<br> 
- [] Joker Game<br> 
- [] Jormungand<br> 
- [] Joshiraku<br> 
- [] Jungle Taitei<br> 
- [] K<br> 
- [] Kaiba<br> 
- [] Kaibutsu Oujo<br> 
- [] Kaichou wa Maid-sama<br> 
- [] Kaitou Saint Tail<br> 
- [] Kakegurui<br> 
- [] Kamen Rider<br> 
- [] Kamen Rider 555<br> 
- [] Kamen Rider Decade<br> 
- [] Kamen Rider Drive<br> 
- [] Kamen Rider Kuuga<br> 
- [] Kamen Rider W<br> 
- [] Kamen Rider Zi-O<br> 
- [] Kamisama Hajimemashita<br> 
- [] Kampfer<br> 
- [] Kanokon<br> 
- [] Kantai Collection<br> 
- [] Kappa no Coo to Natsuyasumi<br> 
- [] Kara no Kyoukai<br> 
- [] Karigurashi no Arrietty<br> 
- [] Katanagatari<br> 
- [] Kemono Friends<br> 
- [] Kemono no Souja Erin<br> 
- [] Keroro Gunsou<br> 
- [] Kiki's Delivery Service<br> 
- [] Kill Me Baby<br> 
- [] Kimagure Orange Road<br> 
- [] Kimi ni Todoke<br> 
- [] Kimi no Na wa.<br> 
- [] Kimi to Boku<br> 
- [] Kindaichi Case Files<br> 
- [] Kingdom<br> 
- [] Kishuku Gakkou no Juliet<br> 
- [] Kiznaiver<br> 
- [] Kizumonogatari<br> 
- [] Kobato<br> 
- [] Kobayashi-san Chi no Maid Dragon<br> 
- [] Koi wa Ameagari no You ni<br> 
- [] Kokoro Connect<br> 
- [] Kono Sekai no Katasumi ni<br> 
- [] Koukaku Kidoutai<br> 
- [] Koukaku Kidoutai Stand Alone Complex<br> 
- [] Koukaku no Regios<br> 
- [] Koutetsu Jeeg<br> 
- [] Kuiba<br> 
- [] Kujira no Kora wa Sajou ni Utau<br> 
- [] Kuragehime<br> 
- [] Kuroko no Basket<br> 
- [] Kuromukuro<br> 
- [] Kuroshitsuji<br> 
- [] Kuuchuu Buranko<br> 
- [] Kuzu no Honkai<br> 
- [] Kyoukai No Rinne<br> 
- [] Kyoukai no Kanata<br> 
- [] Last Exile<br> 
- [] Little Witch Academia<br> 
- [] Log Horizon<br> 
- [] Long Riders!<br> 
- [] Lost Song<br> 
- [] Love Lab<br> 
- [] Lovely Complex<br> 
- [] Lucky Star<br> 
- [] Lupin III<br> 
- [] Lupin III Part III<br> 
- [] MM!<br> 
- [] Macross 7<br> 
- [] Macross Delta<br> 
- [] Macross Frontier<br> 
- [] Macross Plus<br> 
- [] Mahou Shoujo Lyrical Nanoha A's<br> 
- [] Mahou Shoujo Lyrical Nanoha StrikerS<br> 
- [] Mahouka Koukou no Rettousei<br> 
- [] Mairimashita! Iruma-kun<br> 
- [] Maison Ikkoku<br> 
- [] Major<br> 
- [] Maoyuu Maou Yuusha<br> 
- [] Mardock Scramble<br> 
- [] Maria-sama ga Miteru<br> 
- [] Marmalade Boy<br> 
- [] Mary to Majo no Hana<br> 
- [] Mawaru Penguindrum<br> 
- [] Mayo Chiki!<br> 
- [] Mazinger Z<br> 
- [] Mikakunin de Shinkoukei<br> 
- [] Miru Tights<br> 
- [] Mister Ajikko<br> 
- [] Mitsuboshi Colors<br> 
- [] Mitsudomoe<br> 
- [] Mob Psycho 100<br> 
- [] Mob Psycho 100 II<br> 
- [] Mobile Suit Gundam 0083 Stardust Memory<br> 
- [] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?<br> 
- [] Monogatari Series (TVDB Order)<br> 
- [] Mononoke<br> 
- [] Mononoke Hime<br> 
- [] Moonlight Mile<br> 
- [] Moshidora<br> 
- [] Mouretsu Pirates<br> 
- [] Mouryou no Hako<br> 
- [] Moyashimon Returns<br> 
- [] Musaigen no Phantom World<br> 
- [] Mushishi<br> 
- [] Mushishi Zoku Shou<br> 
- [] Nagasarete Airantou<br> 
- [] Nagato Yuki-chan no Shoushitsu<br> 
- [] Nagi no Asukara<br> 
- [] Nanatsu no Umi no Tico<br> 
- [] Nande Koko ni Sensei ga!?<br> 
- [] Naruto<br> 
- [] Naruto Shippuuden<br> 
- [] Natsume Yuujinchou<br> 
- [] Neon Genesis Evangelion<br> 
- [] Nerawareta Gakuen<br> 
- [] Nichijou<br> 
- [] Nisekoi<br> 
- [] Nisemonogatari<br> 
- [] No Game No Life<br> 
- [] Nodame Cantabile<br> 
- [] Noir<br> 
- [] Non Non Biyori<br> 
- [] Noragami<br> 
- [] Noragami Aragoto<br> 
- [] Nourin<br> 
- [] Nurarihyon no Mago<br> 
- [] Occultic;Nine<br> 
- [] One Piece<br> 
- [] One Room<br> 
- [] Ookami Kakushi<br> 
- [] Ookami Kodomo no Ame to Yuki<br> 
- [] Ookami-san to Shichinin no Nakama-tachi<br> 
- [] Ore no Kanojo to Osananajimi ga Shuraba Sugiru<br> 
- [] Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru<br> 
- [] Orenchi no Furo Jijou<br> 
- [] Otome wa Boku ni Koishiteru<br> 
- [] Overlord<br> 
- [] Owari no Seraph<br> 
- [] Owarimonogatari<br> 
- [] Pandora Hearts<br> 
- [] Paradise Kiss<br> 
- [] Penguin Highway<br> 
- [] Perfect Blue<br> 
- [] Piano no Mori<br> 
- [] Planetarian ~Chiisana Hoshi no Yume~<br> 
- [] Pokemon<br> 
- [] Pokemon XY<br> 
- [] Pop Team Epic<br> 
- [] Porco Rosso<br> 
- [] Pretty Rhythm Aurora Dream<br> 
- [] Pretty Rhythm Rainbow Live<br> 
- [] Princess Principal<br> 
- [] Psycho-Pass The Movie<br> 
- [] Pupa<br> 
- [] Rainbow days<br> 
- [] ReLIFE<br> 
- [] Rewrite<br> 
- [] Ristorante Paradiso<br> 
- [] Robot Girls Z<br> 
- [] Rokudenashi Majutsu Koushi to Akashic Records<br> 
- [] Romeo no Aoi Sora<br> 
- [] Romeo x Juliet<br> 
- [] Sacred Seven<br> 
- [] Sailor Moon<br> 
- [] Saint Seiya<br> 
- [] Saiunkoku Monogatari<br> 
- [] Sakasama no Patema<br> 
- [] Saki<br> 
- [] Sakigake!! Cromartie Koukou<br> 
- [] Sakura Quest<br> 
- [] Sakura Trick<br> 
- [] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru<br> 
- [] Samurai Champloo<br> 
- [] Samurai Flamenco<br> 
- [] Sankarea<br> 
- [] Sarazanmai<br> 
- [] Sayonara Zetsubou Sensei<br> 
- [] School Days<br> 
- [] School Rumble<br> 
- [] Scrapped Princess<br> 
- [] Seikai no Senki<br> 
- [] Seikimatsu Occult Gakuin<br> 
- [] Seirei no Moribito<br> 
- [] Seiren<br> 
- [] Seitokai Yakuindomo<br> 
- [] Sekaiichi Hatsukoi<br> 
- [] Sekirei<br> 
- [] Sengoku Basara<br> 
- [] Senki Zesshou Symphogear<br> 
- [] Senki Zesshou Symphogear G<br> 
- [] Senki Zesshou Symphogear GX<br> 
- [] Sennen Joyuu<br> 
- [] Serial Experiments Lain<br> 
- [] Servant x Service<br> 
- [] Shakugan no Shana<br> 
- [] Shigofumi<br> 
- [] Shiki<br> 
- [] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai<br> 
- [] Shingeki no Kyojin<br> 
- [] Shingetsutan Tsukihime<br> 
- [] Shinigami no Ballad<br> 
- [] Shinsekai Yori<br> 
- [] Shisha no Teikoku<br> 
- [] Shoujo Kakumei Utena<br> 
- [] Shoujo Shuumatsu Ryokou<br> 
- [] Shoukoku no Altair<br> 
- [] Shouwa Genroku Rakugo Shinjuu<br> 
- [] Shuumatsu no Izetta<br> 
- [] Sirius the Jaeger<br> 
- [] Slayers Next<br> 
- [] Slayers Revolution<br> 
- [] Slayers Try<br> 
- [] Sora no Method<br> 
- [] Sora no Otoshimono<br> 
- [] Sora yori mo Tooi Basho<br> 
- [] Soredemo Machi wa Mawatteiru<br> 
- [] Soul Eater<br> 
- [] Soul land Douluo Dalu<br> 
- [] Space Pirate Captain Harlock<br> 
- [] Star Driver<br> 
- [] Starry Sky<br> 
- [] Steamboy<br> 
- [] Steins;Gate 0<br> 
- [] Strike Witches<br> 
- [] Suisei no Gargantia<br> 
- [] Summer Wars<br> 
- [] Super Cub<br> 
- [] Suzumiya Haruhi no Yuuutsu<br> 
- [] Sword Art Online<br> 
- [] Sword Art Online II<br> 
- [] Sword Art Online: Alicization<br> 
- [] Tales From Earthsea<br> 
- [] Tales of Zestiria the X<br> 
- [] Tales of the Abyss<br> 
- [] Tamako Love Story<br> 
- [] Tamako Market<br> 
- [] Tanaka-kun wa Itsumo Kedaruge<br> 
- [] Tari Tari<br> 
- [] Tate no Yuusha no Nariagari<br> 
- [] Telepathy Shoujo Ran<br> 
- [] Tensei Shitara Slime Datta Ken<br> 
- [] The Big O<br> 
- [] The Borrower Arrietty<br> 
- [] The Five Star Stories<br> 
- [] The Rolling Girls<br> 
- [] The Sky Crawlers<br> 
- [] Thermae Romae<br> 
- [] Toaru Kagaku no Accelerator<br> 
- [] Toaru Kagaku no Railgun<br> 
- [] Toaru Kagaku no Railgun S<br> 
- [] Toaru Majutsu no Index<br> 
- [] Toaru Majutsu no Index II<br> 
- [] Toaru Majutsu no Index III<br> 
- [] Tokimeki Tonight<br> 
- [] Tokyo Ghoul<br> 
- [] Tokyo Godfathers<br> 
- [] Tokyo Magnitude 8.0<br> 
- [] Tokyo Marble Chocolate<br> 
- [] Tokyo Ravens<br> 
- [] Tonari no Seki-kun<br> 
- [] Tonari no Totoro<br> 
- [] Toriko<br> 
- [] Trinity Blood<br> 
- [] Trinity Seven<br> 
- [] Tsubasa Shunraiki<br> 
- [] Tsubasa Tokyo Revelations<br> 
- [] Tsugumomo<br> 
- [] Tsukimonogatari<br> 
- [] Tsuredure Children<br> 
- [] Tsuritama<br> 
- [] Uchiage Hanabi (2017)<br> 
- [] Uchouten Kazoku<br> 
- [] Uchuu Senkan Yamato<br> 
- [] Uchuu Senkan Yamato 2<br> 
- [] Uchuu Senkan Yamato 2199<br> 
- [] Uchuu Senkan Yamato 3<br> 
- [] Uchuu Show e Youkoso<br> 
- [] Uchuu no Stellvia<br> 
- [] Ultraman Orb<br> 
- [] Ultraman R B<br> 
- [] Urara Meirochou<br> 
- [] Usagi Drop<br> 
- [] Utawarerumono<br> 
- [] Vinland Saga<br> 
- [] Violet Evergarden<br> 
- [] Wagaya no Oinari-sama<br> 
- [] Watashi Ga Motete Dou Sunda<br> 
- [] Whisper of the Heart<br> 
- [] Wonder Egg Priority<br> 
- [] World Trigger<br> 
- [] Yakusoku no Neverland<br> 
- [] Yamada-kun to 7-nin no Majo<br> 
- [] Yojouhan Shinwa Taikei<br> 
- [] Yokohama Kaidashi Kikou<br> 
- [] Youkai Watch<br> 
- [] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e<br> 
- [] Yu Yu Hakusho<br> 
- [] Yu-Gi-Oh! 5D's<br> 
- [] Yu-Gi-Oh! ARC-V<br> 
- [] Yumekui Merry<br> 
- [] Yurikuma Arashi<br> 
- [] Yuru Camp<br> 
- [] Yuru Yuri S2<br> 
- [] Yuru Yuri San Hai!<br> 
- [] Zero kara Hajimeru Mahou no Sho<br> 
- [] Zero no Tsukaima<br> 
- [] Zoids Wild<br> 
- [] Zoku Owarimonogatari<br> 
- [] ef - a tale of memories<br> 
+<ul><li> -[] 07-Ghost</li> 
+<li> -[] 5-tou ni Naritai</li> 
+<li> -[] 91 Days</li> 
+<li> -[] Accel World</li> 
+<li> -[] Acchi Kocchi</li> 
+<li> -[] Aho Girl</li> 
+<li> -[] Ai Shite Knight</li> 
+<li> -[] Air</li> 
+<li> -[] Ajin</li> 
+<li> -[] Akane-iro ni Somaru Saka</li> 
+<li> -[] Akira</li> 
+<li> -[] Akuma no Riddle</li> 
+<li> -[] Aldnoah Zero</li> 
+<li> -[] Amaama to Inazuma</li> 
+<li> -[] Amagami SS</li> 
+<li> -[] Amagami SS Plus</li> 
+<li> -[] Amagi Brilliant Park</li> 
+<li> -[] Ano Natsu de Matteru</li> 
+<li> -[] Another</li> 
+<li> -[] Ao no Kanata no Four Rhythm</li> 
+<li> -[] Aoharu x Kikanjuu</li> 
+<li> -[] Aoi Hana</li> 
+<li> -[] Appleseed</li> 
+<li> -[] Aquarion Evol</li> 
+<li> -[] Arakawa Under the Bridge</li> 
+<li> -[] Assassination Classroom</li> 
+<li> -[] Baccano!</li> 
+<li> -[] Baka to Test to Shoukanjuu</li> 
+<li> -[] Bakemono no Ko</li> 
+<li> -[] Bakemonogatari</li> 
+<li> -[] Bakuman</li> 
+<li> -[] Barakamon</li> 
+<li> -[] Beelzebub</li> 
+<li> -[] Berserk</li> 
+<li> -[] Betterman</li> 
+<li> -[] Big Order</li> 
+<li> -[] Black Bullet</li> 
+<li> -[] Black Jack Final</li> 
+<li> -[] Black Lagoon</li> 
+<li> -[] Bleach</li> 
+<li> -[] Boku dake ga Inai Machi</li> 
+<li> -[] Bokurano</li> 
+<li> -[] Bokutachi wa Benkyou ga Dekinai</li> 
+<li> -[] Btooom!</li> 
+<li> -[] Bubblegum Crisis</li> 
+<li> -[] Bungaku Shoujo</li> 
+<li> -[] Busou Renkin</li> 
+<li> -[] Busou Shoujo Machiavellianism</li> 
+<li> -[] Byousoku 5 Centimeter</li> 
+<li> -[] Campione!</li> 
+<li> -[] Cap Kakumei Bottleman</li> 
+<li> -[] Charlotte</li> 
+<li> -[] Chi's Sweet Home</li> 
+<li> -[] Chihayafuru</li> 
+<li> -[] Chio-chan no Tsuugakuro</li> 
+<li> -[] Chobits</li> 
+<li> -[] Chuunibyou demo Koi ga Shitai!</li> 
+<li> -[] Chuunibyou demo Koi ga Shitai! Ren</li> 
+<li> -[] Citrus</li> 
+<li> -[] City Hunter</li> 
+<li> -[] Classroom Crisis</li> 
+<li> -[] Claymore</li> 
+<li> -[] Clockwork Planet</li> 
+<li> -[] Cobra The Animation</li> 
+<li> -[] Cowboy Bebop</li> 
+<li> -[] Cross Fight B-Daman</li> 
+<li> -[] Cross Game</li> 
+<li> -[] D-Frag!</li> 
+<li> -[] DARLING in the FRANXX</li> 
+<li> -[] Dagashi Kashi</li> 
+<li> -[] Danball Senki</li> 
+<li> -[] Danshi Koukousei no Nichijou</li> 
+<li> -[] Deadman Wonderland</li> 
+<li> -[] Death March kara Hajimaru Isekai Kyousoukyoku</li> 
+<li> -[] Death Note</li> 
+<li> -[] Demi-chan wa Kataritai</li> 
+<li> -[] Demon Slayer</li> 
+<li> -[] Dennou Coil</li> 
+<li> -[] Detective Conan</li> 
+<li> -[] Devil Survivor 2 The Animation</li> 
+<li> -[] Devilman Crybaby</li> 
+<li> -[] Diabolik Lovers</li> 
+<li> -[] Digimon Adventure</li> 
+<li> -[] Digimon Xros Wars</li> 
+<li> -[] Domestic na Kanojo</li> 
+<li> -[] Doraemon</li> 
+<li> -[] Dr. Stone</li> 
+<li> -[] Dragon Ball</li> 
+<li> -[] Dragon Ball Kai</li> 
+<li> -[] Dragon Ball Super</li> 
+<li> -[] Dragon Ball Z</li> 
+<li> -[] Drifters</li> 
+<li> -[] EVE no Jikan</li> 
+<li> -[] Elfen Lied</li> 
+<li> -[] Eureka Seven</li> 
+<li> -[] FLAG</li> 
+<li> -[] Fairy Tail</li> 
+<li> -[] Fate Apocrypha</li> 
+<li> -[] Fate Stay Night</li> 
+<li> -[] Fate Zero</li> 
+<li> -[] Final Fantasy XV Kingsglaive</li> 
+<li> -[] Fractale</li> 
+<li> -[] Free!</li> 
+<li> -[] Freedom</li> 
+<li> -[] Friends - Mononoke Shima no Naki</li> 
+<li> -[] Full Metal Panic Fumoffu</li> 
+<li> -[] Full Metal Panic!</li> 
+<li> -[] Full Metal Panic! Invisible Victory</li> 
+<li> -[] Fullmetal Alchemist</li> 
+<li> -[] Fune wo Amu</li> 
+<li> -[] Gakkou Gurashi!</li> 
+<li> -[] Galilei Donna</li> 
+<li> -[] Gantz</li> 
+<li> -[] Genji Monogatari Sennenki</li> 
+<li> -[] Genshiken Nidaime</li> 
+<li> -[] Getter Robo</li> 
+<li> -[] Ghost Sweeper Mikami</li> 
+<li> -[] Ghost in the Shell 2: Innocence</li> 
+<li> -[] Ghost in the Shell Arise</li> 
+<li> -[] Ginban Kaleidoscope</li> 
+<li> -[] Gintama</li> 
+<li> -[] Giovanni no Shima</li> 
+<li> -[] Glass no Hana to Kowasu Sekai</li> 
+<li> -[] Goblin Slayer</li> 
+<li> -[] Golden Kamuy</li> 
+<li> -[] Golden Time</li> 
+<li> -[] Golgo 13</li> 
+<li> -[] Gosick</li> 
+<li> -[] Great Mazinger</li> 
+<li> -[] Grisaia no Kajitsu</li> 
+<li> -[] Guilty Crown</li> 
+<li> -[] Guin Saga</li> 
+<li> -[] Gundam Build Fighters</li> 
+<li> -[] Hachimitsu to Clover</li> 
+<li> -[] Hachimitsu to Clover II</li> 
+<li> -[] Hai to Gensou no Grimgar</li> 
+<li> -[] Haibane Renmei</li> 
+<li> -[] Haikyuu!!</li> 
+<li> -[] Haiyore! Nyaruko-san W</li> 
+<li> -[] Hajimete no Gal</li> 
+<li> -[] Hanasakeru Seishounen</li> 
+<li> -[] Hanasaku Iroha</li> 
+<li> -[] Hanayamata</li> 
+<li> -[] Hanbun no Tsuki ga Noboru Sora</li> 
+<li> -[] Hanzawa Naoki</li> 
+<li> -[] Harmonie</li> 
+<li> -[] Harmony</li> 
+<li> -[] Hataraku Saibou</li> 
+<li> -[] Hayate no Gotoku!!</li> 
+<li> -[] Heavy Object</li> 
+<li> -[] Hellsing</li> 
+<li> -[] Hentai Ouji to Warawanai Neko</li> 
+<li> -[] Heroic Age</li> 
+<li> -[] Heroman</li> 
+<li> -[] Hetalia Axis Powers</li> 
+<li> -[] Hiatari Ryoukou</li> 
+<li> -[] Hibike! Euphonium</li> 
+<li> -[] Hidamari Sketch</li> 
+<li> -[] Higashi no Eden</li> 
+<li> -[] High School Fleet</li> 
+<li> -[] High Score Girl</li> 
+<li> -[] Higurashi no Naku Koro ni</li> 
+<li> -[] Higurashi no Naku Koro ni Gou</li> 
+<li> -[] Hikaru no Go</li> 
+<li> -[] Himouto! Umaru-chan</li> 
+<li> -[] Hinomaruzumou - Hinomaru Sumo</li> 
+<li> -[] Houkago no Pleiades</li> 
+<li> -[] Hourou Musuko</li> 
+<li> -[] Hyakujuu Sentai Gaoranger</li> 
+<li> -[] Hyouge Mono</li> 
+<li> -[] Hyouka</li> 
+<li> -[] ID-0</li> 
+<li> -[] Ichiban Ushiro no Daimaou</li> 
+<li> -[] Ichigo Mashimaro Encore</li> 
+<li> -[] Ichigo Mashimaro OVA</li> 
+<li> -[] Idoly Pride</li> 
+<li> -[] Inu to Hasami wa Tsukaiyou</li> 
+<li> -[] InuYasha</li> 
+<li> -[] Inukami!</li> 
+<li> -[] Inuyashiki</li> 
+<li> -[] Iriya no Sora, UFO no Natsu</li> 
+<li> -[] Isekai Cheat Magician</li> 
+<li> -[] Isekai Maou to Shoukan Shoujo no Dorei Majutsu</li> 
+<li> -[] Isekai Quartet</li> 
+<li> -[] Isshuukan Friends</li> 
+<li> -[] Jewelpet Sunshine</li> 
+<li> -[] Jigoku Shoujo</li> 
+<li> -[] Jinrui wa Suitai Shimashita</li> 
+<li> -[] Joker Game</li> 
+<li> -[] Jormungand</li> 
+<li> -[] Joshiraku</li> 
+<li> -[] Jungle Taitei</li> 
+<li> -[] K</li> 
+<li> -[] Kaiba</li> 
+<li> -[] Kaibutsu Oujo</li> 
+<li> -[] Kaichou wa Maid-sama</li> 
+<li> -[] Kaitou Saint Tail</li> 
+<li> -[] Kakegurui</li> 
+<li> -[] Kamen Rider</li> 
+<li> -[] Kamen Rider 555</li> 
+<li> -[] Kamen Rider Decade</li> 
+<li> -[] Kamen Rider Drive</li> 
+<li> -[] Kamen Rider Kuuga</li> 
+<li> -[] Kamen Rider W</li> 
+<li> -[] Kamen Rider Zi-O</li> 
+<li> -[] Kamisama Hajimemashita</li> 
+<li> -[] Kampfer</li> 
+<li> -[] Kanokon</li> 
+<li> -[] Kantai Collection</li> 
+<li> -[] Kappa no Coo to Natsuyasumi</li> 
+<li> -[] Kara no Kyoukai</li> 
+<li> -[] Karigurashi no Arrietty</li> 
+<li> -[] Katanagatari</li> 
+<li> -[] Kemono Friends</li> 
+<li> -[] Kemono no Souja Erin</li> 
+<li> -[] Keroro Gunsou</li> 
+<li> -[] Kiki's Delivery Service</li> 
+<li> -[] Kill Me Baby</li> 
+<li> -[] Kimagure Orange Road</li> 
+<li> -[] Kimi ni Todoke</li> 
+<li> -[] Kimi no Na wa.</li> 
+<li> -[] Kimi to Boku</li> 
+<li> -[] Kindaichi Case Files</li> 
+<li> -[] Kingdom</li> 
+<li> -[] Kishuku Gakkou no Juliet</li> 
+<li> -[] Kiznaiver</li> 
+<li> -[] Kizumonogatari</li> 
+<li> -[] Kobato</li> 
+<li> -[] Kobayashi-san Chi no Maid Dragon</li> 
+<li> -[] Koi wa Ameagari no You ni</li> 
+<li> -[] Kokoro Connect</li> 
+<li> -[] Kono Sekai no Katasumi ni</li> 
+<li> -[] Koukaku Kidoutai</li> 
+<li> -[] Koukaku Kidoutai Stand Alone Complex</li> 
+<li> -[] Koukaku no Regios</li> 
+<li> -[] Koutetsu Jeeg</li> 
+<li> -[] Kuiba</li> 
+<li> -[] Kujira no Kora wa Sajou ni Utau</li> 
+<li> -[] Kuragehime</li> 
+<li> -[] Kuroko no Basket</li> 
+<li> -[] Kuromukuro</li> 
+<li> -[] Kuroshitsuji</li> 
+<li> -[] Kuuchuu Buranko</li> 
+<li> -[] Kuzu no Honkai</li> 
+<li> -[] Kyoukai No Rinne</li> 
+<li> -[] Kyoukai no Kanata</li> 
+<li> -[] Last Exile</li> 
+<li> -[] Little Witch Academia</li> 
+<li> -[] Log Horizon</li> 
+<li> -[] Long Riders!</li> 
+<li> -[] Lost Song</li> 
+<li> -[] Love Lab</li> 
+<li> -[] Lovely Complex</li> 
+<li> -[] Lucky Star</li> 
+<li> -[] Lupin III</li> 
+<li> -[] Lupin III Part III</li> 
+<li> -[] MM!</li> 
+<li> -[] Macross 7</li> 
+<li> -[] Macross Delta</li> 
+<li> -[] Macross Frontier</li> 
+<li> -[] Macross Plus</li> 
+<li> -[] Mahou Shoujo Lyrical Nanoha A's</li> 
+<li> -[] Mahou Shoujo Lyrical Nanoha StrikerS</li> 
+<li> -[] Mahouka Koukou no Rettousei</li> 
+<li> -[] Mairimashita! Iruma-kun</li> 
+<li> -[] Maison Ikkoku</li> 
+<li> -[] Major</li> 
+<li> -[] Maoyuu Maou Yuusha</li> 
+<li> -[] Mardock Scramble</li> 
+<li> -[] Maria-sama ga Miteru</li> 
+<li> -[] Marmalade Boy</li> 
+<li> -[] Mary to Majo no Hana</li> 
+<li> -[] Mawaru Penguindrum</li> 
+<li> -[] Mayo Chiki!</li> 
+<li> -[] Mazinger Z</li> 
+<li> -[] Mikakunin de Shinkoukei</li> 
+<li> -[] Miru Tights</li> 
+<li> -[] Mister Ajikko</li> 
+<li> -[] Mitsuboshi Colors</li> 
+<li> -[] Mitsudomoe</li> 
+<li> -[] Mob Psycho 100</li> 
+<li> -[] Mob Psycho 100 II</li> 
+<li> -[] Mobile Suit Gundam 0083 Stardust Memory</li> 
+<li> -[] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?</li> 
+<li> -[] Monogatari Series (TVDB Order)</li> 
+<li> -[] Mononoke</li> 
+<li> -[] Mononoke Hime</li> 
+<li> -[] Moonlight Mile</li> 
+<li> -[] Moshidora</li> 
+<li> -[] Mouretsu Pirates</li> 
+<li> -[] Mouryou no Hako</li> 
+<li> -[] Moyashimon Returns</li> 
+<li> -[] Musaigen no Phantom World</li> 
+<li> -[] Mushishi</li> 
+<li> -[] Mushishi Zoku Shou</li> 
+<li> -[] Nagasarete Airantou</li> 
+<li> -[] Nagato Yuki-chan no Shoushitsu</li> 
+<li> -[] Nagi no Asukara</li> 
+<li> -[] Nanatsu no Umi no Tico</li> 
+<li> -[] Nande Koko ni Sensei ga!?</li> 
+<li> -[] Naruto</li> 
+<li> -[] Naruto Shippuuden</li> 
+<li> -[] Natsume Yuujinchou</li> 
+<li> -[] Neon Genesis Evangelion</li> 
+<li> -[] Nerawareta Gakuen</li> 
+<li> -[] Nichijou</li> 
+<li> -[] Nisekoi</li> 
+<li> -[] Nisemonogatari</li> 
+<li> -[] No Game No Life</li> 
+<li> -[] Nodame Cantabile</li> 
+<li> -[] Noir</li> 
+<li> -[] Non Non Biyori</li> 
+<li> -[] Noragami</li> 
+<li> -[] Noragami Aragoto</li> 
+<li> -[] Nourin</li> 
+<li> -[] Nurarihyon no Mago</li> 
+<li> -[] Occultic;Nine</li> 
+<li> -[] One Piece</li> 
+<li> -[] One Room</li> 
+<li> -[] Ookami Kakushi</li> 
+<li> -[] Ookami Kodomo no Ame to Yuki</li> 
+<li> -[] Ookami-san to Shichinin no Nakama-tachi</li> 
+<li> -[] Ore no Kanojo to Osananajimi ga Shuraba Sugiru</li> 
+<li> -[] Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru</li> 
+<li> -[] Orenchi no Furo Jijou</li> 
+<li> -[] Otome wa Boku ni Koishiteru</li> 
+<li> -[] Overlord</li> 
+<li> -[] Owari no Seraph</li> 
+<li> -[] Owarimonogatari</li> 
+<li> -[] Pandora Hearts</li> 
+<li> -[] Paradise Kiss</li> 
+<li> -[] Penguin Highway</li> 
+<li> -[] Perfect Blue</li> 
+<li> -[] Piano no Mori</li> 
+<li> -[] Planetarian ~Chiisana Hoshi no Yume~</li> 
+<li> -[] Pokemon</li> 
+<li> -[] Pokemon XY</li> 
+<li> -[] Pop Team Epic</li> 
+<li> -[] Porco Rosso</li> 
+<li> -[] Pretty Rhythm Aurora Dream</li> 
+<li> -[] Pretty Rhythm Rainbow Live</li> 
+<li> -[] Princess Principal</li> 
+<li> -[] Psycho-Pass The Movie</li> 
+<li> -[] Pupa</li> 
+<li> -[] Rainbow days</li> 
+<li> -[] ReLIFE</li> 
+<li> -[] Rewrite</li> 
+<li> -[] Ristorante Paradiso</li> 
+<li> -[] Robot Girls Z</li> 
+<li> -[] Rokudenashi Majutsu Koushi to Akashic Records</li> 
+<li> -[] Romeo no Aoi Sora</li> 
+<li> -[] Romeo x Juliet</li> 
+<li> -[] Sacred Seven</li> 
+<li> -[] Sailor Moon</li> 
+<li> -[] Saint Seiya</li> 
+<li> -[] Saiunkoku Monogatari</li> 
+<li> -[] Sakasama no Patema</li> 
+<li> -[] Saki</li> 
+<li> -[] Sakigake!! Cromartie Koukou</li> 
+<li> -[] Sakura Quest</li> 
+<li> -[] Sakura Trick</li> 
+<li> -[] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</li> 
+<li> -[] Samurai Champloo</li> 
+<li> -[] Samurai Flamenco</li> 
+<li> -[] Sankarea</li> 
+<li> -[] Sarazanmai</li> 
+<li> -[] Sayonara Zetsubou Sensei</li> 
+<li> -[] School Days</li> 
+<li> -[] School Rumble</li> 
+<li> -[] Scrapped Princess</li> 
+<li> -[] Seikai no Senki</li> 
+<li> -[] Seikimatsu Occult Gakuin</li> 
+<li> -[] Seirei no Moribito</li> 
+<li> -[] Seiren</li> 
+<li> -[] Seitokai Yakuindomo</li> 
+<li> -[] Sekaiichi Hatsukoi</li> 
+<li> -[] Sekirei</li> 
+<li> -[] Sengoku Basara</li> 
+<li> -[] Senki Zesshou Symphogear</li> 
+<li> -[] Senki Zesshou Symphogear G</li> 
+<li> -[] Senki Zesshou Symphogear GX</li> 
+<li> -[] Sennen Joyuu</li> 
+<li> -[] Serial Experiments Lain</li> 
+<li> -[] Servant x Service</li> 
+<li> -[] Shakugan no Shana</li> 
+<li> -[] Shigofumi</li> 
+<li> -[] Shiki</li> 
+<li> -[] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai</li> 
+<li> -[] Shingeki no Kyojin</li> 
+<li> -[] Shingetsutan Tsukihime</li> 
+<li> -[] Shinigami no Ballad</li> 
+<li> -[] Shinsekai Yori</li> 
+<li> -[] Shisha no Teikoku</li> 
+<li> -[] Shoujo Kakumei Utena</li> 
+<li> -[] Shoujo Shuumatsu Ryokou</li> 
+<li> -[] Shoukoku no Altair</li> 
+<li> -[] Shouwa Genroku Rakugo Shinjuu</li> 
+<li> -[] Shuumatsu no Izetta</li> 
+<li> -[] Sirius the Jaeger</li> 
+<li> -[] Slayers Next</li> 
+<li> -[] Slayers Revolution</li> 
+<li> -[] Slayers Try</li> 
+<li> -[] Sora no Method</li> 
+<li> -[] Sora no Otoshimono</li> 
+<li> -[] Sora yori mo Tooi Basho</li> 
+<li> -[] Soredemo Machi wa Mawatteiru</li> 
+<li> -[] Soul Eater</li> 
+<li> -[] Soul land Douluo Dalu</li> 
+<li> -[] Space Pirate Captain Harlock</li> 
+<li> -[] Star Driver</li> 
+<li> -[] Starry Sky</li> 
+<li> -[] Steamboy</li> 
+<li> -[] Steins;Gate 0</li> 
+<li> -[] Strike Witches</li> 
+<li> -[] Suisei no Gargantia</li> 
+<li> -[] Summer Wars</li> 
+<li> -[] Super Cub</li> 
+<li> -[] Suzumiya Haruhi no Yuuutsu</li> 
+<li> -[] Sword Art Online</li> 
+<li> -[] Sword Art Online II</li> 
+<li> -[] Sword Art Online: Alicization</li> 
+<li> -[] Tales From Earthsea</li> 
+<li> -[] Tales of Zestiria the X</li> 
+<li> -[] Tales of the Abyss</li> 
+<li> -[] Tamako Love Story</li> 
+<li> -[] Tamako Market</li> 
+<li> -[] Tanaka-kun wa Itsumo Kedaruge</li> 
+<li> -[] Tari Tari</li> 
+<li> -[] Tate no Yuusha no Nariagari</li> 
+<li> -[] Telepathy Shoujo Ran</li> 
+<li> -[] Tensei Shitara Slime Datta Ken</li> 
+<li> -[] The Big O</li> 
+<li> -[] The Borrower Arrietty</li> 
+<li> -[] The Five Star Stories</li> 
+<li> -[] The Rolling Girls</li> 
+<li> -[] The Sky Crawlers</li> 
+<li> -[] Thermae Romae</li> 
+<li> -[] Toaru Kagaku no Accelerator</li> 
+<li> -[] Toaru Kagaku no Railgun</li> 
+<li> -[] Toaru Kagaku no Railgun S</li> 
+<li> -[] Toaru Majutsu no Index</li> 
+<li> -[] Toaru Majutsu no Index II</li> 
+<li> -[] Toaru Majutsu no Index III</li> 
+<li> -[] Tokimeki Tonight</li> 
+<li> -[] Tokyo Ghoul</li> 
+<li> -[] Tokyo Godfathers</li> 
+<li> -[] Tokyo Magnitude 8.0</li> 
+<li> -[] Tokyo Marble Chocolate</li> 
+<li> -[] Tokyo Ravens</li> 
+<li> -[] Tonari no Seki-kun</li> 
+<li> -[] Tonari no Totoro</li> 
+<li> -[] Toriko</li> 
+<li> -[] Trinity Blood</li> 
+<li> -[] Trinity Seven</li> 
+<li> -[] Tsubasa Shunraiki</li> 
+<li> -[] Tsubasa Tokyo Revelations</li> 
+<li> -[] Tsugumomo</li> 
+<li> -[] Tsukimonogatari</li> 
+<li> -[] Tsuredure Children</li> 
+<li> -[] Tsuritama</li> 
+<li> -[] Uchiage Hanabi (2017)</li> 
+<li> -[] Uchouten Kazoku</li> 
+<li> -[] Uchuu Senkan Yamato</li> 
+<li> -[] Uchuu Senkan Yamato 2</li> 
+<li> -[] Uchuu Senkan Yamato 2199</li> 
+<li> -[] Uchuu Senkan Yamato 3</li> 
+<li> -[] Uchuu Show e Youkoso</li> 
+<li> -[] Uchuu no Stellvia</li> 
+<li> -[] Ultraman Orb</li> 
+<li> -[] Ultraman R B</li> 
+<li> -[] Urara Meirochou</li> 
+<li> -[] Usagi Drop</li> 
+<li> -[] Utawarerumono</li> 
+<li> -[] Vinland Saga</li> 
+<li> -[] Violet Evergarden</li> 
+<li> -[] Wagaya no Oinari-sama</li> 
+<li> -[] Watashi Ga Motete Dou Sunda</li> 
+<li> -[] Whisper of the Heart</li> 
+<li> -[] Wonder Egg Priority</li> 
+<li> -[] World Trigger</li> 
+<li> -[] Yakusoku no Neverland</li> 
+<li> -[] Yamada-kun to 7-nin no Majo</li> 
+<li> -[] Yojouhan Shinwa Taikei</li> 
+<li> -[] Yokohama Kaidashi Kikou</li> 
+<li> -[] Youkai Watch</li> 
+<li> -[] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</li> 
+<li> -[] Yu Yu Hakusho</li> 
+<li> -[] Yu-Gi-Oh! 5D's</li> 
+<li> -[] Yu-Gi-Oh! ARC-V</li> 
+<li> -[] Yumekui Merry</li> 
+<li> -[] Yurikuma Arashi</li> 
+<li> -[] Yuru Camp</li> 
+<li> -[] Yuru Yuri S2</li> 
+<li> -[] Yuru Yuri San Hai!</li> 
+<li> -[] Zero kara Hajimeru Mahou no Sho</li> 
+<li> -[] Zero no Tsukaima</li> 
+<li> -[] Zoids Wild</li> 
+<li> -[] Zoku Owarimonogatari</li> 
+<li> -[] ef - a tale of memories</li> 
 </ul>
