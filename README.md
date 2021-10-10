@@ -1,6 +1,22 @@
 # anime-subs-mapping
  Creating a JP to EN Translation dataset from anime subtitles
 
+ The aim of this project is to create a translation dataset from Japanese to English from anime subs
+ 
+ The japanese subs can be downloaded from <a href = "https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F">here </a>
+ The english subs can be downloaded from <a href = "https://kitsunekko.net/dirlist.php?dir=subtitles%2F">here </a>
+ 
+ ```
+ python subs.py --jp_dir JP_DIR --en_dir EN_DIR
+ ```
+ 
+ The requirement is that the subtitles in the both the directories should be sorted in the ascending or descending order of the episode number. 
+ 
+ <strong> Right now only .ass files are supported </strong>
+ 
+ <strong> If you find any improvements that you can make the dataset, please do help me </strong>
+ 
+ The common titles in both the list are shown below, the checked ones are completed
  
 <ul> 
 <li> -[x] 07-Ghost</li> 
