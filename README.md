@@ -3,7 +3,7 @@
 
  
 <ul> 
-<li> -[ ] 07-Ghost</li> 
+<li> -[x] 07-Ghost</li> 
 <li> -[ ] 5-tou ni Naritai</li> 
 <li> -[ ] 91 Days</li> 
 <li> -[ ] Accel World</li> 
