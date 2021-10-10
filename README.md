@@ -20,7 +20,6 @@
  
 <ul> 
 <li> -[x] 07-Ghost</li> 
-<li> -[ ] 5-tou ni Naritai</li> 
 <li> -[x] 91 Days</li> 
 <li> -[ ] Accel World</li> 
 <li> -[ ] Acchi Kocchi</li> 
