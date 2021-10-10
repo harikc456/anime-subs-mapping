@@ -3,7 +3,7 @@
 
  The aim of this project is to create a translation dataset from Japanese to English from anime subs
  
- The japanese subs can be downloaded from <a href = "https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F">here </a>
+ The japanese subs can be downloaded from <a href = "https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F">here </a> <br>
  The english subs can be downloaded from <a href = "https://kitsunekko.net/dirlist.php?dir=subtitles%2F">here </a>
  
  ```
@@ -14,7 +14,7 @@
  
  <strong> Right now only .ass files are supported </strong>
  
- <strong> If you find any improvements that you can make the dataset, please do help me </strong>
+ <strong> Any help on improving the quality of the dataset will be appreciated as i believe there is a lot of room for improvements for my code </strong>
  
  The common titles in both the list are shown below, the checked ones are completed
  
