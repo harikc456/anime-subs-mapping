@@ -23,6 +23,7 @@ def jaccard(a, b):
 parser = argparse.ArgumentParser("Subtitles Mapping")
 parser.add_argument("--jp_dir", type=str, help="The common width and height for all images")
 parser.add_argument("--en_dir", type=str, help="The common width and height for all images")
+parser.add_argument("--anime_name", type=str, help="The name of the anime for naming the output files")
 parser.add_argument("--threshold_score", type=float, default=0.1, help="The common width and height for all images")
 
 args = parser.parse_args()
@@ -30,6 +31,7 @@ args = parser.parse_args()
 
 en_path = args.en_dir
 jp_path = args.jp_dir
+anime_name = args.anime_name
 
 en_subs_list = os.listdir(en_path)
 jp_subs_list = os.listdir(jp_path)
@@ -46,9 +48,10 @@ for idx in range(len(en_subs_list)):
         with open(en_path+"\\"+en_subs_list[idx], encoding='utf_8_sig') as f:
             doc1 = ass.parse(f)
     
-        with open(jp_path+"\\"+jp_subs_list[idx], encoding='utf-16') as f:
+        with open(jp_path+"\\"+jp_subs_list[idx], encoding='utf_8_sig') as f:
             doc2 = ass.parse(f)
-    except:
+    except Exception as e:
+        print(e)
         continue
 
     d1 = dict()
@@ -136,4 +139,4 @@ for idx in range(len(en_subs_list)):
             df_list.append([en_text, jp_text, translated_text, score])
 
     df = pd.DataFrame(df_list)
-    df.to_csv("subs/07-Ghost-"+str(idx+1)+".csv", index = False)
+    df.to_csv("subs/"+anime_name+"-"+str(idx+1)+".csv", index = False)

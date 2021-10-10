@@ -7,7 +7,7 @@
  The english subs can be downloaded from <a href = "https://kitsunekko.net/dirlist.php?dir=subtitles%2F">here </a>
  
  ```
- python subs.py --jp_dir JP_DIR --en_dir EN_DIR
+ python subs.py --anime_name ANIME_NAME --jp_dir JP_DIR --en_dir EN_DIR
  ```
  
  The requirement is that the subtitles in the both the directories should be sorted in the ascending or descending order of the episode number. 
@@ -21,7 +21,7 @@
 <ul> 
 <li> -[x] 07-Ghost</li> 
 <li> -[ ] 5-tou ni Naritai</li> 
-<li> -[ ] 91 Days</li> 
+<li> -[x] 91 Days</li> 
 <li> -[ ] Accel World</li> 
 <li> -[ ] Acchi Kocchi</li> 
 <li> -[ ] Aho Girl</li> 
