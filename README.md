@@ -2,7 +2,8 @@
  Creating a JP to EN Translation dataset from anime subtitles
 
  
-<ul><li>07-Ghost</li> 
+<ul>
+<li> -[x] 07-Ghost</li> 
 <li>5-tou ni Naritai</li> 
 <li>91 Days</li> 
 <li>Accel World</li> 
