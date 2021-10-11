@@ -1,4 +1,5 @@
 import ass
+import srt
 import os
 import pandas as pd
 import re
@@ -12,7 +13,8 @@ translator = Translator(service_urls=['translate.google.co.in'])
 
 def clean_text(string):
     string = re.sub(r"\{[^{}]*}","",string)
-    return string
+    string = re.sub(r"\([^)]*\)","",string)
+    return string.strip()
 	
 def jaccard(a, b):
     a = set(a)
@@ -44,35 +46,81 @@ print(f"Found {len(en_subs_list)} files")
 
 for idx in range(len(en_subs_list)):
 
-    try:
+    extension = en_subs_list[idx].split(".")[-1]
+
+    if extension == "ass":
         with open(en_path+"\\"+en_subs_list[idx], encoding='utf_8_sig') as f:
             doc1 = ass.parse(f)
+
+        d1 = dict()
+        d1['start'] = []
+        d1['end'] = []
+        d1['text'] = []
+
+        for i in doc1.events:
+            d1['start'].append(i.start.total_seconds())
+            d1['end'].append(i.end.total_seconds())
+            d1['text'].append(i.text)
+
+    elif extension == 'srt':
+        with open(en_path+"\\"+en_subs_list[idx], encoding='utf_8_sig') as f:
+            doc1 = srt.parse(f.read())
+
+        d1 = dict()
+        d1['start'] = []
+        d1['end'] = []
+        d1['text'] = []
+
+
+        for i in doc1:
+            d1['start'].append(i.start.total_seconds())
+            d1['end'].append(i.end.total_seconds())
+            d1['text'].append(i.content)
+
+
+    extension = jp_subs_list[idx].split(".")[-1]
+
+    if extension == 'ass':
+        try:
+            with open(jp_path+"\\"+jp_subs_list[idx], encoding='utf_8_sig') as f:
+                doc2 = ass.parse(f)
+        except UnicodeError as e:
+            with open(jp_path+"\\"+jp_subs_list[idx], encoding='utf16') as f:
+                doc2 = ass.parse(f)
+        except Exception as e:
+            continue
+
+        d2 = dict()
+        d2['start'] = []
+        d2['end'] = []
+        d2['text'] = []
     
-        with open(jp_path+"\\"+jp_subs_list[idx], encoding='utf_8_sig') as f:
-            doc2 = ass.parse(f)
-    except Exception as e:
-        print(e)
-        continue
+        for j in doc2.events:
+            d2['start'].append(j.start.total_seconds())
+            d2['end'].append(j.end.total_seconds())
+            d2['text'].append(j.text)
 
-    d1 = dict()
-    d1['start'] = []
-    d1['end'] = []
-    d1['text'] = []
-
-    d2 = dict()
-    d2['start'] = []
-    d2['end'] = []
-    d2['text'] = []
-
-    for i in doc1.events:
-        d1['start'].append(i.start.total_seconds())
-        d1['end'].append(i.end.total_seconds())
-        d1['text'].append(i.text)
+    elif extension == 'srt':
     
-    for j in doc2.events:
-        d2['start'].append(j.start.total_seconds())
-        d2['end'].append(j.end.total_seconds())
-        d2['text'].append(j.text)
+        try:
+            with open(jp_path+"\\"+jp_subs_list[idx], encoding='utf_8_sig') as f:
+                doc2 = srt.parse(f.read())
+        except UnicodeError as e:
+            with open(jp_path+"\\"+jp_subs_list[idx], encoding='utf16') as f:
+                doc2 = srt.parse(f.read())
+        except Exception as e:
+            continue
+
+        d2 = dict()
+        d2['start'] = []
+        d2['end'] = []
+        d2['text'] = []
+
+        for j in doc2:
+            d2['start'].append(j.start.total_seconds())
+            d2['end'].append(j.end.total_seconds())
+            d2['text'].append(j.content)
+
     
     df1 = pd.DataFrame(d1).sort_values("start")
     df2 = pd.DataFrame(d2).sort_values("start")
@@ -103,11 +151,12 @@ for idx in range(len(en_subs_list)):
             break
     df2['translation'] = translated_text
 
+    df2['translation'] = df2['translation'].apply(clean_text)
+    df2 = df2[df2['translation'] != ""]
+    df2.reset_index(inplace = True)
+
 # Creating a score matrix
 
-    final_df = []
-    previous_index = 0
-    used_indices = []
     scores = np.zeros((len(df1), len(df2)))
     for i, row in df1.iterrows():
         en_tokenized = word_tokenize(row['text'].lower())
@@ -139,4 +188,5 @@ for idx in range(len(en_subs_list)):
             df_list.append([en_text, jp_text, translated_text, score])
 
     df = pd.DataFrame(df_list)
+    df.columns = ["en_text", "jp_text", "google_translated", "score"]
     df.to_csv("subs/"+anime_name+"-"+str(idx+1)+".csv", index = False)
