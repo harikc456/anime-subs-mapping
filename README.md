@@ -12,7 +12,7 @@
  
  The requirement is that the subtitles in the both the directories should be sorted in the ascending or descending order of the episode number. 
  
- <strong> Right now only .ass files are supported </strong>
+ <strong> Right now only .ass and .srt files are supported </strong>
  
  <strong> Any help on improving the quality of the dataset will be appreciated as i believe there is a lot of room for improvements for my code </strong>
  
