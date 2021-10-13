@@ -22,8 +22,7 @@
 <li> -[x] 07-Ghost</li> 
 <li> -[x] 91 Days</li> 
 <li> -[x] Accel World</li> 
-<li> -[x] Acchi Kocchi</li> 
-<li> -[ ] Aho Girl</li> 
+<li> -[] Acchi Kocchi</li> 
 <li> -[ ] Ai Shite Knight</li> 
 <li> -[ ] Air</li> 
 <li> -[ ] Ajin</li> 
