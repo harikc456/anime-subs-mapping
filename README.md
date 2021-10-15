@@ -10,6 +10,12 @@
  python subs.py --anime_name ANIME_NAME --jp_dir JP_DIR --en_dir EN_DIR
  ```
  
+ If the subs are simultaneous i.e both japanese and english subs are in the same file, the use the simul_sub.py script
+ 
+ ```
+ python simul_subs.py --anime_name ANIME_NAME --dir DIRECTORY
+ ```
+ 
  The requirement is that the subtitles in the both the directories should be sorted in the ascending or descending order of the episode number. 
  
  <strong> Right now only .ass and .srt files are supported </strong>
@@ -25,7 +31,7 @@
 <li> -[ ] Acchi Kocchi</li> 
 <li> -[ ] Ai Shite Knight</li> 
 <li> -[ ] Air</li> 
-<li> -[ ] Ajin</li> 
+<li> -[x] Ajin</li> 
 <li> -[ ] Akane-iro ni Somaru Saka</li> 
 <li> -[ ] Akira</li> 
 <li> -[ ] Akuma no Riddle</li> 
