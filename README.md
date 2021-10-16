@@ -37,7 +37,7 @@
 <li> -[ ] Akuma no Riddle</li> 
 <li> -[ ] Aldnoah Zero</li> 
 <li> -[ ] Amaama to Inazuma</li> 
-<li> -[ ] Amagami SS</li> 
+<li> -[x] Amagami SS</li> 
 <li> -[ ] Amagami SS Plus</li> 
 <li> -[ ] Amagi Brilliant Park</li> 
 <li> -[ ] Ano Natsu de Matteru</li> 
