@@ -35,7 +35,7 @@
 <li> -[ ] Akane-iro ni Somaru Saka</li> 
 <li> -[ ] Akira</li> 
 <li> -[ ] Akuma no Riddle</li> 
-<li> -[ ] Aldnoah Zero</li> 
+<li> -[x] Aldnoah Zero</li> 
 <li> -[ ] Amaama to Inazuma</li> 
 <li> -[x] Amagami SS</li> 
 <li> -[ ] Amagami SS Plus</li> 
