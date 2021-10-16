@@ -38,7 +38,7 @@
 <li> -[x] Aldnoah Zero</li> 
 <li> -[ ] Amaama to Inazuma</li> 
 <li> -[x] Amagami SS</li> 
-<li> -[ ] Amagami SS Plus</li> 
+<li> -[x] Amagami SS Plus</li> 
 <li> -[ ] Amagi Brilliant Park</li> 
 <li> -[ ] Ano Natsu de Matteru</li> 
 <li> -[ ] Another</li> 
@@ -522,4 +522,10 @@
 <li> -[ ] Zoids Wild</li> 
 <li> -[ ] Zoku Owarimonogatari</li> 
 <li> -[ ] ef - a tale of memories</li> 
+</ul>
+
+## Things to do while cleaning the data
+<ul>
+<li> Remove duplicate jp_text to eng_text mappings </li>
+<li> Remove rows duplicate translated_text columns with a score of 0 </li>
 </ul>
