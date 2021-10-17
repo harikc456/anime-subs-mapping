@@ -527,4 +527,5 @@
 <ul>
 <li> Remove duplicate jp_text to eng_text mappings </li>
 <li> Remove rows duplicate translated_text columns with a score of 0 </li>
+<li> Normalize English translation of duplicate Japanese text i.e same jp text should have same english translation</li>
 </ul>
