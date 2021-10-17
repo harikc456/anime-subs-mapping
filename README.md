@@ -30,7 +30,6 @@
 <li> -[x] Accel World</li> 
 <li> -[ ] Acchi Kocchi</li> 
 <li> -[ ] Ai Shite Knight</li> 
-<li> -[ ] Air</li> 
 <li> -[x] Ajin</li>  
 <li> -[x] Akira</li> 
 <li> -[ ] Akuma no Riddle</li> 
@@ -45,7 +44,6 @@
 <li> -[x] Aoharu x Kikanjuu</li> 
 <li> -[ ] Aoi Hana</li> 
 <li> -[x] Appleseed</li> 
-<li> -[ ] Aquarion Evol</li> 
 <li> -[ ] Arakawa Under the Bridge</li> 
 <li> -[x] Assassination Classroom</li> 
 <li> -[ ] Baccano!</li> 
