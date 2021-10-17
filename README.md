@@ -31,8 +31,7 @@
 <li> -[ ] Acchi Kocchi</li> 
 <li> -[ ] Ai Shite Knight</li> 
 <li> -[ ] Air</li> 
-<li> -[x] Ajin</li> 
-<li> -[ ] Akane-iro ni Somaru Saka</li> 
+<li> -[x] Ajin</li>  
 <li> -[ ] Akira</li> 
 <li> -[ ] Akuma no Riddle</li> 
 <li> -[x] Aldnoah Zero</li> 
