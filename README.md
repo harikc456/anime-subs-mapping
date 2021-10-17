@@ -32,7 +32,7 @@
 <li> -[ ] Ai Shite Knight</li> 
 <li> -[ ] Air</li> 
 <li> -[x] Ajin</li>  
-<li> -[ ] Akira</li> 
+<li> -[x] Akira</li> 
 <li> -[ ] Akuma no Riddle</li> 
 <li> -[x] Aldnoah Zero</li> 
 <li> -[ ] Amaama to Inazuma</li> 
