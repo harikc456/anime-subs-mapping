@@ -40,11 +40,11 @@
 <li> -[x] Amagami SS Plus</li> 
 <li> -[ ] Amagi Brilliant Park</li> 
 <li> -[x] Ano Natsu de Matteru</li> 
-<li> -[ ] Another</li> 
+<li> -[x] Another</li> 
 <li> -[ ] Ao no Kanata no Four Rhythm</li> 
-<li> -[ ] Aoharu x Kikanjuu</li> 
+<li> -[x] Aoharu x Kikanjuu</li> 
 <li> -[ ] Aoi Hana</li> 
-<li> -[ ] Appleseed</li> 
+<li> -[x] Appleseed</li> 
 <li> -[ ] Aquarion Evol</li> 
 <li> -[ ] Arakawa Under the Bridge</li> 
 <li> -[x] Assassination Classroom</li> 
@@ -528,4 +528,7 @@
 <li> Remove duplicate jp_text to eng_text mappings </li>
 <li> Remove rows duplicate translated_text columns with a score of 0 </li>
 <li> Normalize English translation of duplicate Japanese text i.e same jp text should have same english translation</li>
+	<ol>
+	<li>Check for Named Entity Tags in the original text and translated text</li>
+	</ol>
 </ul>
