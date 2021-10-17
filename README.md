@@ -39,7 +39,7 @@
 <li> -[x] Amagami SS</li> 
 <li> -[x] Amagami SS Plus</li> 
 <li> -[ ] Amagi Brilliant Park</li> 
-<li> -[ ] Ano Natsu de Matteru</li> 
+<li> -[x] Ano Natsu de Matteru</li> 
 <li> -[ ] Another</li> 
 <li> -[ ] Ao no Kanata no Four Rhythm</li> 
 <li> -[ ] Aoharu x Kikanjuu</li> 
