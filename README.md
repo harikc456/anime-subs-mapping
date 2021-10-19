@@ -34,7 +34,7 @@
 <li> -[x] Akira</li> 
 <li> -[ ] Akuma no Riddle</li> 
 <li> -[x] Aldnoah Zero</li> 
-<li> -[ ] Amaama to Inazuma</li> 
+<li> -[x] Amaama to Inazuma</li> 
 <li> -[x] Amagami SS</li> 
 <li> -[x] Amagami SS Plus</li> 
 <li> -[ ] Amagi Brilliant Park</li> 
@@ -44,7 +44,7 @@
 <li> -[x] Aoharu x Kikanjuu</li> 
 <li> -[ ] Aoi Hana</li> 
 <li> -[x] Appleseed</li> 
-<li> -[ ] Arakawa Under the Bridge</li> 
+<li> -[x] Arakawa Under the Bridge</li> 
 <li> -[x] Assassination Classroom</li> 
 <li> -[ ] Baccano!</li> 
 <li> -[ ] Baka to Test to Shoukanjuu</li> 
