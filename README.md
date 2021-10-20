@@ -47,7 +47,7 @@
 <li> -[x] Arakawa Under the Bridge</li> 
 <li> -[x] Assassination Classroom</li> 
 <li> -[x] Baccano!</li> 
-<li> -[ ] Baka to Test to Shoukanjuu</li> 
+<li> -[x] Baka to Test to Shoukanjuu</li> 
 <li> -[x] Bakemono no Ko</li> 
 <li> -[ ] Bakemonogatari</li> 
 <li> -[ ] Bakuman</li> 
