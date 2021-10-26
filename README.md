@@ -49,8 +49,8 @@
 <li> -[x] Baccano!</li> 
 <li> -[x] Baka to Test to Shoukanjuu</li> 
 <li> -[x] Bakemono no Ko</li> 
-<li> -[ ] Bakemonogatari</li> 
-<li> -[ ] Bakuman</li> 
+<li> -[x] Bakemonogatari</li> 
+<li> -[x] Bakuman Season 3</li> 
 <li> -[ ] Barakamon</li> 
 <li> -[ ] Beelzebub</li> 
 <li> -[ ] Berserk</li> 
