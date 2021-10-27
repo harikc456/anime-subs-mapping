@@ -51,7 +51,7 @@
 <li> -[x] Bakemono no Ko</li> 
 <li> -[x] Bakemonogatari</li> 
 <li> -[x] Bakuman Season 3</li> 
-<li> -[ ] Barakamon</li> 
+<li> -[x] Barakamon</li> 
 <li> -[ ] Beelzebub</li> 
 <li> -[ ] Berserk</li> 
 <li> -[ ] Betterman</li> 
