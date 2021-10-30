@@ -52,20 +52,17 @@
 <li> -[x] Bakemonogatari</li> 
 <li> -[x] Bakuman Season 3</li> 
 <li> -[x] Barakamon</li> 
-<li> -[ ] Beelzebub</li> 
+<li> -[x] Beelzebub</li> 
 <li> -[ ] Berserk</li> 
-<li> -[ ] Betterman</li> 
-<li> -[ ] Big Order</li> 
-<li> -[ ] Black Bullet</li> 
+<li> -[x] Betterman</li> 
+<li> -[x] Black Bullet</li> 
 <li> -[ ] Black Jack Final</li> 
 <li> -[ ] Black Lagoon</li> 
 <li> -[ ] Bleach</li> 
-<li> -[ ] Boku dake ga Inai Machi</li> 
-<li> -[ ] Bokurano</li> 
+<li> -[x] Boku dake ga Inai Machi</li> 
+<li> -[x] Bokurano</li> 
 <li> -[ ] Bokutachi wa Benkyou ga Dekinai</li> 
 <li> -[ ] Btooom!</li> 
-<li> -[ ] Bubblegum Crisis</li> 
-<li> -[ ] Bungaku Shoujo</li> 
 <li> -[ ] Busou Renkin</li> 
 <li> -[ ] Busou Shoujo Machiavellianism</li> 
 <li> -[ ] Byousoku 5 Centimeter</li> 
@@ -240,7 +237,6 @@
 <li> -[ ] Kill Me Baby</li> 
 <li> -[ ] Kimagure Orange Road</li> 
 <li> -[ ] Kimi ni Todoke</li> 
-<li> -[ ] Kimi no Na wa.</li> 
 <li> -[ ] Kimi to Boku</li> 
 <li> -[ ] Kindaichi Case Files</li> 
 <li> -[ ] Kingdom</li> 
@@ -503,9 +499,10 @@
 <li> -[ ] Yakusoku no Neverland</li> 
 <li> -[ ] Yamada-kun to 7-nin no Majo</li> 
 <li> -[ ] Yojouhan Shinwa Taikei</li> 
-<li> -[ ] Yokohama Kaidashi Kikou</li> 
+<li> -[ ] Yokohama Kaidashi Kikou</li>  
 <li> -[ ] Youkai Watch</li> 
 <li> -[ ] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</li> 
+<li> -[x] Your Name</li> 
 <li> -[ ] Yu Yu Hakusho</li> 
 <li> -[ ] Yu-Gi-Oh! 5D's</li> 
 <li> -[ ] Yu-Gi-Oh! ARC-V</li> 
@@ -523,10 +520,10 @@
 
 ## Things to do while cleaning the data
 <ul>
-<li> Remove duplicate jp_text to eng_text mappings </li>
+<li> Remove/Merge duplicate jp_text to eng_text mappings </li>
 <li> Remove rows duplicate translated_text columns with a score of 0 </li>
 <li> Normalize English translation of duplicate Japanese text i.e same jp text should have same english translation</li>
 	<ol>
-	<li>Check for Named Entity Tags in the original text and translated text</li>
+	<li>Check for Named Entity Tags in the original text and translated text (sanity checks)</li>
 	</ol>
 </ul>
