@@ -26,6 +26,7 @@
  
 <ul> 
 <li> -[x] 07-Ghost</li> 
+<li> -[x] 5 Centimeter Per Second</li> 
 <li> -[x] 91 Days</li> 
 <li> -[x] Accel World</li> 
 <li> -[ ] Acchi Kocchi</li> 
@@ -63,9 +64,8 @@
 <li> -[x] Bokurano</li> 
 <li> -[ ] Bokutachi wa Benkyou ga Dekinai</li> 
 <li> -[ ] Btooom!</li> 
-<li> -[ ] Busou Renkin</li> 
-<li> -[ ] Busou Shoujo Machiavellianism</li> 
-<li> -[ ] Byousoku 5 Centimeter</li> 
+<li> -[x] Busou Renkin</li> 
+<li> -[x] Busou Shoujo Machiavellianism</li> 
 <li> -[ ] Campione!</li> 
 <li> -[ ] Cap Kakumei Bottleman</li> 
 <li> -[ ] Charlotte</li> 
