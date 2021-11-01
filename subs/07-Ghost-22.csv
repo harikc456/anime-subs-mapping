@@ -1,10 +1,10 @@
-0,1,2,3
+en_text,jp_text,google_translated,score
 "You've done well, Teito.",よく来たね テイト,I came well Tate,0.1
 that you are the heir to throne of the Kingdom of Raggs.,忘れないで欲しい お前はラグスの王子なのだと言う事を,I want you to not forget You are the prince of Rugs,0.29411764705882354
 "Led by the Light at the Bottom of the Water, The Spy... ",その名は…フラウ,The name is ... Flau,0.14285714285714285
 "Well, there was one individual who used those exact words.",否 過去に一人おりましたが,There was one in the past,0.2
 Aren't they similar?,ふん!あいつに似ているのか,Fumu! Is it similar to that guy,0.08333333333333333
-"Look, aren't they monitors?",見ろよ あの床 モニターだ,Look at that floor monitor,0.09090909090909091
+"Look, aren't they monitors?",見ろよ あの床 モニターだ,Look at that floor monitor,0.09090909090909093
 We were watching your progress from here.,我々はここから諸君の行動を監視していたんだよ,We monitored your behavior from here,0.4
 What the heck is this question?,何だ?この問題!俺達を舐めやがって,What is it? This issue! I will give up,0.2857142857142857
 You've been doing well up to this point.,お前はここまで良くやったよ,You did well here,0.16666666666666666
@@ -13,21 +13,21 @@ Halt.,止まれ,stop,0.0
 That guy...,あいつ…あいつは…あいつは賢かった,Atsushi ... Aya ... Aya was wise,0.14285714285714285
 But I've only been able to get this far thanks to him.,あいつのお陰で試験まで来れたんだ,I came to the exam thanks to that,0.17647058823529413
 "If it makes him happy,",あいつが受かれば俺が殴られたのも報われるさ!,It is also rewarded that I was beaten if he received!,0.125
-Of course there is still one more.,もう一人は無論…,Another one is unique ...,0.18181818181818182
+Of course there is still one more.,もう一人は無論…,Another one is unique ...,0.18181818181818185
 "I did it, with this I can pass!",やったぞ!これで合格できる,I did it! You can pass this,0.7
-"Liam, you open the Door of the Victor.",リアム お前が勝者の扉へ行け,Riam Go to the door of the winner,0.23076923076923078
+"Liam, you open the Door of the Victor.",リアム お前が勝者の扉へ行け,Riam Go to the door of the winner,0.2307692307692308
 Brother! What's that?!,兄ちゃん あれ!,My brother!,0.2857142857142857
 Don't write my name on it!,兄ちゃんの名前を勝手に書くな!,Don't write my brother's name without permission!,0.5
 I don't want to be a burden to Brother anymore!,これ以上兄ちゃんに迷惑かけたくない!,I do not want to bother my brother more than this!,0.35294117647058826
-"Idiot! If I can't protect you, then how I am supposed to protect others?",馬鹿野郎!お前すら守れなかったら 俺は誰も守れないだろう!リアム!!,"Idiot Yoshito! If you can not protect it, no one will not keep up! Liam !!",0.23076923076923078
+"Idiot! If I can't protect you, then how I am supposed to protect others?",馬鹿野郎!お前すら守れなかったら 俺は誰も守れないだろう!リアム!!,"Idiot Yoshito! If you can not protect it, no one will not keep up! Liam !!",0.2307692307692308
 Liam!,リアム ウィーダ 共に合格!,Both Liam Weda pass!,0.4
 Do you understand?,分かりましたか?,Do you understand?,1.0
 "From this place, you can see what everyone's heart is.",ここから見えるのは皆の心の内側なんだよ,It is the inside of everyone's mind to see from here,0.25
-Was it is a misunderstanding?,おじいさん!?どうしてこんな所に?,Grandpa!? Why is it such a place?,0.36363636363636365
+Was it is a misunderstanding?,おじいさん!?どうしてこんな所に?,Grandpa!? Why is it such a place?,0.3636363636363637
 "Well, he didn't help that drowning examinee, though.",まあ 溺れてる受験生を助けなかったりするけどな,"Well, I do not help the students who are drowning",0.2222222222222222
 Are they looking good? This year's examinees.,如何でした?今年の受験生達は,How was it? This year's exam will,0.26666666666666666
 Former Archbishops?,元大司教様,Former bishop,0.25
-There are a lot of kids here with bright futures.,うむ 未来のホープ候補がいっぱいおったよ,"Well, there was a lot of future hope candidates",0.23529411764705882
+There are a lot of kids here with bright futures.,うむ 未来のホープ候補がいっぱいおったよ,"Well, there was a lot of future hope candidates",0.2352941176470588
 "I'm sorry, I was very rude to call you grandpas!",おじいさんだなんて失礼しました!,I'm sorry that I'm a grandfather!,0.26666666666666666
 "By the way, did you know that there was a beautiful mermaid with a really nice singing voice here?",ところで ここに水辺で歌う素敵な人魚がおるのは知っとるな?,"By the way, do you know that there is a wonderful mermaid singing here?",0.5652173913043478
 It's good to go there when your heart feels down.,心が落ち着かない時はあそこに行くのが良いぞ,"When the heart is not calm, it is good to go there",0.4117647058823529
@@ -40,7 +40,7 @@ How are the flowers?,花達の様子はどうですか?,How is the flower of flo
 Something is drawing near.,何かが近づいているんだ,Something is approaching,0.3333333333333333
 I don't know.,分からない でも 何だか何時もと違う,I do not know but I'm different from usual,0.2727272727272727
 I'll sweep them away!,ちっ!俺が焙りだしてやる,Chi! I will be roasted,0.2
-"Admiral Oak has ordered us to enter Church airspace, under the ruse of conducting an investigation.",オーク元帥が調査の大義名分で教会に踏みこむんだってさ,Oak treads the church in the majority of the investigation,0.23809523809523808
+"Admiral Oak has ordered us to enter Church airspace, under the ruse of conducting an investigation.",オーク元帥が調査の大義名分で教会に踏みこむんだってさ,Oak treads the church in the majority of the investigation,0.2380952380952381
 "He told us to eliminate anyone who could use the Eye of Mikhail, right?",合格者の皆さーん!お昼御飯はいかが?,Everyone of the successful person! How is lunch?,0.13043478260869565
 "upon partaking of our special ""Stamina Lunch"".",シスター特製スタミナランチですよ～!,Sister special stamina runch ~!,0.14285714285714285
 Our fisheye soup will be your source of energy for this afternoon's exam.,アイフィッシュの目玉のスープは午後からの試験の活躍の源となります,Ayefish's eyeball soup will be a source of activities from the afternoon,0.3333333333333333
@@ -62,16 +62,16 @@ Do you know?,ああ 知ってるか?,"Oh, do you know?",0.6666666666666666
 protect the one precious to him.,ミカゲの三つ目の夢は大切な奴を守りたいだった,The third dream of Mikage wanted to protect the important guy,0.21428571428571427
 "Because of that, he...",それであいつは…,That is ...,0.2857142857142857
 Hakuren.,ハクレン 今はまだそんなに力は無いが 俺が,Hakuren is still no power yet but I,0.1111111111111111
-"but once I've become stronger, I will be able to protect you.",俺がお前を守れるくらい強くなったら ダチになって欲しい!,I want you to become an idap if I get stronger enough to keep you!,0.22727272727272727
+"but once I've become stronger, I will be able to protect you.",俺がお前を守れるくらい強くなったら ダチになって欲しい!,I want you to become an idap if I get stronger enough to keep you!,0.2272727272727273
 I can't forgive the guy who drove Mikage to death.,だから俺はミカゲを死に追い込んだ男が許せない,So I can not forgive a man who driven Mikage,0.2222222222222222
 "I can't forgive my father, who made my mother suffer, either.",俺も母を苦しめた父親が許せない,I can not forgive my father who suffered from my mother,0.35294117647058826
 "That even when my mother was possessed by a Kor,",何時か話しただろう?母がコールに取り憑かれた時も,What time did you talk? Even when my mother was taken up by the call,0.2857142857142857
 "But he's family, after all.",でも家族だからな,But because it is a family,0.16666666666666666
 "To not go into the army or politics, after what my father had expected of me,",事実 今だって父はコネを使ってバルスブルグ王室を動かし,"In fact, my father uses a connection to move the Balvsburg royal family",0.19230769230769232
-is my way of taking revenge on him.,俺の精一杯の復讐さ,My first cup revenge,0.18181818181818182
+is my way of taking revenge on him.,俺の精一杯の復讐さ,My first cup revenge,0.18181818181818185
 pressuring the Barsburg Royal Family to try and stop me.,俺をオーク一族のあるべき姿に閉じ込めようとしているんだ,I'm trying to confuse me in the figure of an oak family,0.2
 "Having a family is good, isn't it?",そうか 家族がいるって良いよな,"Yes, it is good that there is a family",0.5
-"Hey, Teito, are you even listening to me?",テイト おい!人の話聞いてんのか?,Tate! Will you not hear the story?,0.11764705882352941
+"Hey, Teito, are you even listening to me?",テイト おい!人の話聞いてんのか?,Tate! Will you not hear the story?,0.1176470588235294
 My father doesn't even have a human heart.,温かくなど無いぞ!父は人の心なんて持ってない!,"There is no warm, and my father has no heart of people!",0.15
 "But to me, I must thank your father.",でも俺はお前の父さんに感謝しているよ,But I am grateful to my father,0.3076923076923077
 "and I... respect you, too.",俺は尊敬してるんだ!…お前を尊敬してるんだ,I respect you! ... I respect you,0.4444444444444444
@@ -90,7 +90,7 @@ you should be able to see it as well.,貴方も旅立ちの日のために見て
 If you wish for it that much.,貴方が望むのならば,If you want,0.2222222222222222
 That is...,あれが!,that!,0.25
 this is...,まさか…そんな…,Such ...,0.25
-"At that time, the path that you choose will be important.",いつか分かれ道が来るだろう その時に何を選択するかが大事な事なのだ,Sometime I would like to know what I would like to choose at that time it is important,0.23809523809523808
+"At that time, the path that you choose will be important.",いつか分かれ道が来るだろう その時に何を選択するかが大事な事なのだ,Sometime I would like to know what I would like to choose at that time it is important,0.2380952380952381
 I want you to always remember,忘れないで欲しい お前はラグスの王子だと言う事を,I want you to not forget You are the prince of Rugs,0.3076923076923077
 Father!,ファーザー!?,A father!?,0.5
 To the Land of Seele.,行きましょう ゼーレの地へ,Let's go to the land of Zeele,0.4
@@ -111,7 +111,7 @@ Nope.,い～や,Yo,0.0
 What you wish for is the biggest thing here.,お前さんの追い求めるモノはここにいる誰よりも大きいぞ,Your-sought of you are more bigger than anyone who is here,0.16666666666666666
 "Well then, I'll lead you to the second exam location.",それでは…二次試験に案内しよう,Then let's guide you to the secondary exam,0.29411764705882354
 This mark is... Zehel's.,このマークは…ゼヘル,This mark is ...,0.5714285714285714
-It can't be you don't know about them?,まさか知らないんじゃないだろうな?,Shouldn't you know it?,0.45454545454545453
+It can't be you don't know about them?,まさか知らないんじゃないだろうな?,Shouldn't you know it?,0.4545454545454545
 It's really something that you made it this far.,お前良くここまで生きて来られたなあ,You were alive so far,0.15384615384615385
 "Do not allow your heart to be eaten by the Darkness, Teito Klein!",心を闇に喰われるな!テイト·クライン!,Don't get caught in the darkness! Tait Kurin!,0.19047619047619047
 "Protecting people from the Kor is our, the Church's duty.",コールから人々を守るのが我々教会の役目です,It is the role of our church to protect people from call,0.3333333333333333
@@ -123,20 +123,20 @@ Why do you think that each of the Seven Ghosts only possesses one power?,何故�
 In order to prevent a second Verloren from being born into this world.,この世界で第2のフェアローレンを生み出さないため?,Do not produce the second Fairlen in this world?,0.2
 Bingo.,ご名答!,Answer!,0.0
 "But as long as Verloren is sealed on the Earth,",しかしフェアローレンが地上に封印されている限り,"However, as far as Fairlen is sealed on the ground",0.42857142857142855
-"the Seven Ghosts protecting the seal cannot return to Heaven, either.",それを守り続けるセブンゴーストの御霊も天に帰る事は出来ない,"The Spirit of Seven Ghost, which keeps protecting it, can not return to heaven",0.47368421052631576
+"the Seven Ghosts protecting the seal cannot return to Heaven, either.",それを守り続けるセブンゴーストの御霊も天に帰る事は出来ない,"The Spirit of Seven Ghost, which keeps protecting it, can not return to heaven",0.4736842105263158
 That is why this church is here to serve as their shrine.,ここはそれを祭るための教会でもあるのだ,This is also a church for the festival,0.17647058823529413
 Bad news.,悪い知らせです,It is bad news,0.4
 It seems that the Barsburg Empire has sent armies into Church Territory.,バルスブルグが軍を教会に送ったようです,It seems that Balvsburg sent the army to the church,0.375
 What? What does that mean?,何!?どう言う事だ?,What is it? What do you say?,0.2
 So that's the cause for your anxiety?,それが　お前の不安の正体か?,Is it an identity of your anxiety?,0.21428571428571427
 "Yeah... Even so, I still see a shadow apart from that.",ううん それにしてはまだ影が見えている,"Well, I still have a shadow",0.3125
-"The second test is the ""Holy Test"".",二次試験は法術試験である,Secondary test is a legal test,0.18181818181818182
+"The second test is the ""Holy Test"".",二次試験は法術試験である,Secondary test is a legal test,0.18181818181818185
 "Make it through the other side of the door, and you shall pass.",ルールは一つ!向こう側の扉に辿りつけば合格だ,"The rule is one! If you reach the door on the other side, pass",0.3333333333333333
 Even we do not know what will happen when you pass through the door.,扉の向こうでは何が起こるか我々にもわからん,I do not know what happens over the door,0.3333333333333333
 "Well then, see you on the other side.",じゃあな!向こう側で逢おう!,Well then! Let's meet on the other side!,0.42857142857142855
 "This place, haven't I been here before?",ここ…来た事無いか?,Here ... Do you have come?,0.21428571428571427
 This is...,何だ?この道は…,What is this way ...,0.6
-This is the Second Exam's Challenge?!,まずい!まさか　これは!?,It's bad! Is this?,0.45454545454545453
+This is the Second Exam's Challenge?!,まずい!まさか　これは!?,It's bad! Is this?,0.4545454545454545
 And fast.,速いっ！,Fast!,0.25
 Is this also a Kor?,これもコールなのか!?,Is this a call?,0.5714285714285714
 The next one is the legs.,次は足!…,Next is your feet!,0.2222222222222222
@@ -148,7 +148,7 @@ Hakuren...,ハクレン…,Haklen ...,0.3333333333333333
 Help me...,助けてくれ…,help me…,0.25
 I know this place.,俺は…ここを知っている,I know here,0.3333333333333333
 This is the place where I lost you...,ミカゲ…お前を失った場所だ,Mikage ... It is a place where you lost,0.5
-that I would give up that easily?,私がそう簡単に退くと思っていたか?,Did I think that I would retire so easily?,0.45454545454545453
+that I would give up that easily?,私がそう簡単に退くと思っていたか?,Did I think that I would retire so easily?,0.4545454545454545
 Teito Klein.,テイト·クライン,Tate Klein,0.25
 I'll kill you.,殺してやる,Kill,0.2
 The boy didn't think...,少年はかがなう,Boy is broken,0.125

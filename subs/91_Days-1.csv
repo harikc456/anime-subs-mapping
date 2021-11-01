@@ -1,4 +1,4 @@
-0,1,2,3
+en_text,jp_text,google_translated,score
 "It's really coming down, isn't it?",ホントウ よく降るわね,I'm getting down,0.08333333333333333
 The laundry is never going to dry...,洗濯物が乾かないんだよ,The laundry does not dry,0.3
 Mr. Bruno.,Bruno先生,Mr. Bruno,0.6666666666666666
@@ -11,7 +11,7 @@ Vanetti...,Vanetti,Vanetti,0.5
 Night of the Murder,"{\fs50\bord2\an5\c&H0F1D29&\b1\3c&H1C5B95&\pos(639.086,525.715)}Day 1\N殺人之夜","{\ fs50 \ bord2 \ AN5 \ C & H0F1D29 & \ B1 \ 3C & H1C5B95 & \ POS (639.086,525.715)} DAY 1 \ Nriaru Night",0.043478260869565216
 It's really not hot?,本当に熱くない,Not really hot,0.5
 Yeah.,うん,Yes,0.0
-It's not the wick that's burning.,燃えてるのは芯じゃなくて,It is not a core that burning,0.36363636363636365
+It's not the wick that's burning.,燃えてるのは芯じゃなくて,It is not a core that burning,0.3636363636363637
 "It's the paraffin, the stuff the candle's made of.",パラフィンっていう蝋燭の成分だから,Because it is a component of candles called paraffin,0.1875
 "You do it, then!",じゃあ やってよ,Then do it,0.5
 "Yeah, see?",あぁ ほら,Oh,0.0
@@ -84,7 +84,7 @@ You'd make three times what you're getting now.,今の三倍の値で売れる�
 I can't stand the mafia.,マフィアは嫌いなんだ,I hate Mafia,0.25
 "Listen, my brother's working with Fango now.",な 兄貴は今ファンゴさんのとこにいるんだ,My older brother is now on the padd,0.2
 What do I care?,知らないよ,I do not know,0.2857142857142857
-He's a guy who just joined the Orco family.,この間オルコファミリに入った人で,Who entered the Alcoe Family,0.23076923076923078
+He's a guy who just joined the Orco family.,この間オルコファミリに入った人で,Who entered the Alcoe Family,0.2307692307692308
 "Please leave, Cerotto.",給我走 Cerotto,Court Cerotto,0.16666666666666666
 "Listen, Corteo...",你聽我說 Corteo,聽 Corteo,0.2
 Just go!,帰れよ,Return,0.0
@@ -98,8 +98,8 @@ Try it.,飲んでみてよ,Try drinking,0.25
 I know it's good.,うまいのは知ってる,I know good,0.5
 Making moonshine isn't actually something I want to do...,本当は密造酒なんて作りたくないんだけとね,I really don't want to make a tight liquor,0.3125
 I just want to save up money to go to school.,お金を貯めて 学校に行きたいんだ,I want to save money and go to school,0.6363636363636364
-Where were you for the past seven years?,七年間 どうしてたの,How about seven years,0.18181818181818182
-Avilio Bruno. That's what I go by now.,Avilio Bruno 這是我現在的名字,Avilio Bruno Covenue,0.18181818181818182
+Where were you for the past seven years?,七年間 どうしてたの,How about seven years,0.18181818181818185
+Avilio Bruno. That's what I go by now.,Avilio Bruno 這是我現在的名字,Avilio Bruno Covenue,0.18181818181818185
 Is it okay for you to be back in town?,大丈夫なの この町に帰ってきても,Even if you come back to this town,0.26666666666666666
 "You're tired, right?",疲れてるんだろう,I'm tired,0.125
 You can use this room.,この部屋を使ってよ,Use this room,0.5
@@ -108,13 +108,13 @@ Last summer...,去年の夏...,last summer...,1.0
 I want to sell this to the family.,これを売るんだよ ファミリに,I sell this to the family,0.75
 I don't want to get involved with the family.,僕はファミリと関わりたくないんだ,I do not want to be involved with the family,0.6153846153846154
 "Please, Corteo.",拜託了 Corteo,Counting Corteo,0.2
-A raison d'etre gives a person power.,俺達 兄弟だろう,I will be a brother,0.09090909090909091
+A raison d'etre gives a person power.,俺達 兄弟だろう,I will be a brother,0.09090909090909093
 Friendship is a more reliable tool than a knife.,友情はナイフよりも心強い,Friendship is stronger than knife,0.4
 That sandbar is called the Island.,あの中州がアイランドだよ,That Nakanun is island,0.375
 That's probably where it will fetch the highest price.,この辺一番高く売れるのはあそこだと思う,I think it is over there is the highest number of this area,0.15
 "Ever since Prohibition,",禁酒法が出来てから,After prohibition method,0.16666666666666666
-it's become a haven for the dangerous type.,安いもぐり酒場じゃないよ,It's not a cheap barbar,0.23076923076923078
-They say that church was converted into a bar.,あの教会が酒場になってるんだって,That church is a bar,0.36363636363636365
+it's become a haven for the dangerous type.,安いもぐり酒場じゃないよ,It's not a cheap barbar,0.2307692307692308
+They say that church was converted into a bar.,あの教会が酒場になってるんだって,That church is a bar,0.3636363636363637
 "Well? Not bad, huh?",どうだ 悪くねだろう,How is it bad,0.1111111111111111
 "The cream of the crop, fresh over the border!",国境の向こうから来た絶品中の絶品よ,Excellent abrasive excise from the other side of the border,0.2
 I've never had better.,我從未飲過如此美味的酒,I will not drink I drink,0.1111111111111111
@@ -122,7 +122,7 @@ I thought you weren't a drinker.,お前は下戸だろうが,You will be a lower
 Didn't you know?,知らなねのか,Do you know,0.3333333333333333
 "Take a whiff of your own asshole, then.",現今邊境的銷路被Orco家族控制著對吧,"Currently, the area of the area",0.15384615384615385
 I thought the Orco family controlled all the routes over the border.,今 国境のルートはオルコファミリーが抑えてたよな,Now the route of the border has suppressed the orco family,0.25
-How'd you know?,お前らオルコからくすねたのか,I wonder if you're an extra,0.09090909090909091
+How'd you know?,お前らオルコからくすねたのか,I wonder if you're an extra,0.09090909090909093
 Mr. Granchio.,Granchio先生,GRANCHIO teacher,0.25
 Someone swiped a little of our booze.,我們的酒被小偷偷走了,Our Sake-to-Sake,0.1111111111111111
 I'm out looking for it.,探してるんだわ,I'm looking for,0.5714285714285714
@@ -151,14 +151,14 @@ Yeah...,だなぁ,It is,0.0
 Mind if I take this?,もらってもいいか,May I get it,0.1111111111111111
 You son of a...,とりあえず様子見,First of all,0.14285714285714285
 The name's Fango.,我叫Fango,I scream fango,0.14285714285714285
-I just joined up with the Orco family.,最近加入了Orco家族,Recently included Orco family,0.18181818181818182
-I've got business with a kid named Nero Vanetti.,我找一個叫Nero Vanetti的人有事,I 找 個 Nero Vanetti,0.23076923076923078
+I just joined up with the Orco family.,最近加入了Orco家族,Recently included Orco family,0.18181818181818185
+I've got business with a kid named Nero Vanetti.,我找一個叫Nero Vanetti的人有事,I 找 個 Nero Vanetti,0.2307692307692308
 Is he here?,他在不,Non-existence,0.0
 Nero...,ネロ,Nero,0.5
 He's Don Vanetti's son.,ドン バネッティの息子だ,Don Banetti's son,0.42857142857142855
 "Hey, now, don't bring your arguments to the Island.",このアイランドにもめ事を持ち込むな,Don't bring things to this island,0.35714285714285715
 That's the rule here.,それがここのルールだ,That's the rule here,0.8333333333333334
-I just found some booze stolen from us in your parking lot.,その駐車場でうちから盗まれた酒を見つけちまってな,Find a stolen alcohol in the parking lot,0.23529411764705882
+I just found some booze stolen from us in your parking lot.,その駐車場でうちから盗まれた酒を見つけちまってな,Find a stolen alcohol in the parking lot,0.2352941176470588
 Good for you.,それりゃよかった,It was good,0.16666666666666666
 You said something?,なんか言ったか?,Did you say something?,0.5
 "Now, about Nero Vanetti...",我說Nero Vanetti,N 說 Nero Vanetti,0.25
@@ -188,7 +188,7 @@ We can't fight back with pistols.,{\i1}うちとも 拳銃じゃ勝負になん�
 Don't just watch.,見てないで,Do not look,0.14285714285714285
 Got it.,分かった,Do you get it,0.16666666666666666
 That idiot's playing around.,あの野郎 遊んでやがる,I will play that guy playing,0.2
-I heard a crazy guy had joined Orco. I guess that's him.,イカれた奴がOrcoに入ったと聞いたが 彼奴か,"I heard that the guy who was squid got in orco, but he",0.22727272727272727
+I heard a crazy guy had joined Orco. I guess that's him.,イカれた奴がOrcoに入ったと聞いたが 彼奴か,"I heard that the guy who was squid got in orco, but he",0.2272727272727273
 I guess Orco's gotten serious.,果然Orco是來真的,Rumorous Orco Masato,0.1111111111111111
 "Hey, you guys! Come at me!",{\an8}ほおりゃ てめぇら かかって来い,{\ AN8} It will come back to me,0.125
 "Throw this, then head for the exit!",これを投げたら 出口に向かって,Toward the exit if you throw this,0.3333333333333333
@@ -202,7 +202,7 @@ Wake up!,給我振作,Fake work,0.0
 Thanks for before.,先は ありがとう,Thank you for the previous,0.125
 The stuff candles are made of...,蝋燭の成分は,The component of the candle is,0.2
 Paraffin?,パラフィン?,paraffin?,1.0
-"If you liquefy paraffin, then mix it with water...",パラフィンは液化させてから水に混ぜると,When paraffin is liquefied and mixed into water,0.11764705882352941
+"If you liquefy paraffin, then mix it with water...",パラフィンは液化させてから水に混ぜると,When paraffin is liquefied and mixed into water,0.1176470588235294
 "It'll blow, just like you saw.",それにしても お前らの酒は旨かった,"Even so, it was delicious for you",0.21428571428571427
 "Thanks to that, we can't go back there for a while.",おかげで あそこには当分近づけねよな,"Thanks to you, there will be coming soon",0.21052631578947367
 "Look, that's the Vanettis' playhouse.",ほら あれがVanettisの劇場だ,Seeing of Vanettis's theater,0.16666666666666666

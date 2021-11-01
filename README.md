@@ -70,7 +70,7 @@
 <li> -[x] Cap Kakumei Bottleman</li> 
 <li> -[x] Charlotte</li> 
 <li> -[ ] Chihayafuru</li> 
-<li> -[ ] Chio-chan no Tsuugakuro</li> 
+<li> -[x] Chio-chan no Tsuugakuro</li> 
 <li> -[ ] Chobits</li> 
 <li> -[ ] Chuunibyou demo Koi ga Shitai!</li> 
 <li> -[ ] Citrus</li> 

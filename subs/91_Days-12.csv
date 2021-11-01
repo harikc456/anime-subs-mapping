@@ -1,4 +1,4 @@
-0,1,2,3
+en_text,jp_text,google_translated,score
 "With my own hands, I'll...",あいつを この手で...,That guy with this hand ...,0.16666666666666666
 It's me.,俺だ,I'm me,0.16666666666666666
 "Still not interested, huh?",また興味なしってか?,Are you interested again?,0.2222222222222222
@@ -10,13 +10,13 @@ Let's get started!,我不客氣了,Unexplored,0.0
 Throw down your weapons and come out.,武器を捨てて出てこい,Discard the weapon and come out,0.2727272727272727
 "Please, don't shoot!",頼む 打たないでくれ,Do not hit me,0.1111111111111111
 We're coming out now!,今から出て行く,Go out from now,0.25
-Those Galassia guys keep coming in swarms.,Galassia的滾蛋來了一大群人,GALASSIA 滾滾 一 一一,0.09090909090909091
+Those Galassia guys keep coming in swarms.,Galassia的滾蛋來了一大群人,GALASSIA 滾滾 一 一一,0.09090909090909093
 "Even if all our bullets hit, we wouldn't have enough.",全部当たっても タマが足りね,"Even if it is all hit, Tama is enough",0.375
 It's about time.,そろそろ頃合だ,It is time to go,0.25
 Hotel Lawless. Room 501.,Lawless酒店 501號房,Lawless Hotel 501,0.6
-Everyone's been sent over to the Island.,皆アイランドにであらってるぜ,Everyone is in Island,0.18181818181818182
+Everyone's been sent over to the Island.,皆アイランドにであらってるぜ,Everyone is in Island,0.18181818181818185
 Are you going?,行くのか?,Do you go?,0.3333333333333333
-"Yeah, you guys should get out of here as well.",お前らもここを出ろ,Please leave here too,0.06666666666666667
+"Yeah, you guys should get out of here as well.",お前らもここを出ろ,Please leave here too,0.06666666666666668
 Who wants to die in the same place Fango did?,ファンゴの死に場所でくたばるなんて ぞっとしね,I'm going to die in the place of the death of Mango,0.29411764705882354
 Good point.,說的也是,說的也是,0.0
 "You're the one they're after, anyway.",そもそも あいつらのお目当てはお前だしね,"In the first place, you're a guy",0.2857142857142857
@@ -51,7 +51,7 @@ Why didn't you kill me?,なぜやらなかった,Why didn't you do,0.5
 Vincent holed up in his mansion and wouldn't come out.,ヴィンセントは屋敷に籠って出てこない,Vincent does not come out in the house,0.25
 "Obviously, I had to get close to his son first.",まずその息子に近づくのは当然だろう,"First of all, it will be natural to approach its son",0.21052631578947367
 "That day, at the playhouse...",あの日 劇場で,At that day theater,0.375
-You shouldn't have needed me alive anymore.,もう俺を生かしておく必要はなかったはずだ,It should have been not necessary to make use of me anymore,0.23529411764705882
+You shouldn't have needed me alive anymore.,もう俺を生かしておく必要はなかったはずだ,It should have been not necessary to make use of me anymore,0.2352941176470588
 I wanted you and Vincent to feel the same pain I did.,お前とヴィンセントには俺と同じ苦しみを,You and Vincent have the same suffering as,0.3333333333333333
 A shame Vincent died so soon though.,遺憾的是 Vincent死了,Appreciable vincent dead,0.1
 Do it.,やれよ,do it,0.6666666666666666
@@ -65,14 +65,14 @@ The boat's all ready.,艇の準備ができました,The boat is ready,0.4285714
 "Great. Now it's goodbye, Lawless!",是時候跟Lawless Say Goodbye了,LaWless Say Goodbye,0.2
 Go on ahead!,先に行け,Go ahead,0.5
 Go! Run for the boat!,行け 船まで走るだ,Run to the ship,0.25
-"Hey, I'm right here! Bring it on!",ほらほら こっちだ かかってこいだ,I'm sorry I'm sorry,0.18181818181818182
+"Hey, I'm right here! Bring it on!",ほらほら こっちだ かかってこいだ,I'm sorry I'm sorry,0.18181818181818185
 "Hey, take another look around!",給我再去看一遍,Collectible reimbursement,0.0
-"The king's arms are long, Nero.",王の手は長いぞ ネロ,King's hand is long Nero,0.36363636363636365
-Want to get some breakfast?,そろそろ朝飯でも食うぐあ,It's almost time for breakfast,0.09090909090909091
+"The king's arms are long, Nero.",王の手は長いぞ ネロ,King's hand is long Nero,0.3636363636363637
+Want to get some breakfast?,そろそろ朝飯でも食うぐあ,It's almost time for breakfast,0.09090909090909093
 "Whoa, wait... Hey!",は ちょ は...,Hey ...,0.3333333333333333
 I'm hungry.,腹減った,hungry,0.25
 "He had a good, full life, right?",時機太好了,Good luck,0.1
-He was in high spirits to the very end.,最後まで上機嫌だった,I was good at the end,0.23076923076923078
+He was in high spirits to the very end.,最後まで上機嫌だった,I was good at the end,0.2307692307692308
 What?,なんだと,what,0.5
 The Vanettis killed my family.,俺はバネッチィの奴らに家族を殺された,I was killed by the family in Banetchi,0.2727272727272727
 Why did you save me?,まんまとお前に利用されたってわけだ?,Did you use it and you are used?,0.2727272727272727
@@ -88,7 +88,7 @@ Nero killed Ronaldo.,Nero是Ronaldo的仇人,Nero Ronaldo,0.5
 being a man with no inconvenient ambitions.,余計な野心もない,No extra ambition,0.1
 "If you kill a certain someone over there, you can be free.",あそこにる誰かさんをやれば お前は自由になれる,"If you do someone else, you can be free",0.4666666666666667
 Will you come with me?,一緒に来るか,Do you come together,0.25
-I don't care anymore.,もう どうでもいいことだ,It is good to do anything anymore,0.18181818181818182
+I don't care anymore.,もう どうでもいいことだ,It is good to do anything anymore,0.18181818181818185
 Looks delicious!,看來挺美味,East,0.0
 I'm escorting a dangerous prisoner.,凶悪犯を護送中だ,I'm thrilling a thug,0.3333333333333333
 Best not to stare at him too much.,あんまジロジロ見ない方がいい,It is better not to see Anma Gyrosiro,0.13333333333333333
@@ -99,7 +99,7 @@ Go right.,右だ,Right,0.3333333333333333
 The ocean.,海邊,Sea urchin,0.0
 Have you ever seen it?,見たことあるか,Have you ever seen,0.6666666666666666
 Nah.,沒,沒,0.0
-Why didn't you just leave the city?,なんで さっさと町を出なかった,Why didn't you go out,0.36363636363636365
+Why didn't you just leave the city?,なんで さっさと町を出なかった,Why didn't you go out,0.3636363636363637
 I wanted to see my revenge play out.,復讐を見届ける為だ,To watch revenge,0.2
 Were you satisfied?,満足したか,Are you satisfied,0.4
 "I thought that by completing my revenge and making my family's killers pay,",復讐を果たし 家族の死に報いれば,If you play revenge and reward your family's death,0.2
