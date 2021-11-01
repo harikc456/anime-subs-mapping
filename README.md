@@ -66,15 +66,13 @@
 <li> -[ ] Btooom!</li> 
 <li> -[x] Busou Renkin</li> 
 <li> -[x] Busou Shoujo Machiavellianism</li> 
-<li> -[ ] Campione!</li> 
-<li> -[ ] Cap Kakumei Bottleman</li> 
-<li> -[ ] Charlotte</li> 
-<li> -[ ] Chi's Sweet Home</li> 
+<li> -[x] Campione!</li> 
+<li> -[x] Cap Kakumei Bottleman</li> 
+<li> -[x] Charlotte</li> 
 <li> -[ ] Chihayafuru</li> 
 <li> -[ ] Chio-chan no Tsuugakuro</li> 
 <li> -[ ] Chobits</li> 
 <li> -[ ] Chuunibyou demo Koi ga Shitai!</li> 
-<li> -[ ] Chuunibyou demo Koi ga Shitai! Ren</li> 
 <li> -[ ] Citrus</li> 
 <li> -[ ] City Hunter</li> 
 <li> -[ ] Classroom Crisis</li> 
