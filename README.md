@@ -72,9 +72,9 @@
 <li> -[ ] Chihayafuru</li> 
 <li> -[x] Chio-chan no Tsuugakuro</li> 
 <li> -[ ] Chobits</li> 
-<li> -[ ] Chuunibyou demo Koi ga Shitai!</li> 
-<li> -[ ] Citrus</li> 
-<li> -[ ] City Hunter</li> 
+<li> -[x] Chuunibyou demo Koi ga Shitai!</li> 
+<li> -[x] Citrus</li> 
+<li> -[x] City Hunter</li> 
 <li> -[ ] Classroom Crisis</li> 
 <li> -[ ] Claymore</li> 
 <li> -[ ] Clockwork Planet</li> 
