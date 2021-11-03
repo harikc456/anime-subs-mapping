@@ -75,12 +75,10 @@
 <li> -[x] Chuunibyou demo Koi ga Shitai!</li> 
 <li> -[x] Citrus</li> 
 <li> -[x] City Hunter</li> 
-<li> -[ ] Classroom Crisis</li> 
-<li> -[ ] Claymore</li> 
-<li> -[ ] Clockwork Planet</li> 
-<li> -[ ] Cobra The Animation</li> 
+<li> -[x] Classroom Crisis</li> 
+<li> -[x] Claymore</li> 
+<li> -[x] Clockwork Planet</li> 
 <li> -[ ] Cowboy Bebop</li> 
-<li> -[ ] Cross Fight B-Daman</li> 
 <li> -[ ] Cross Game</li> 
 <li> -[ ] D-Frag!</li> 
 <li> -[ ] DARLING in the FRANXX</li> 
