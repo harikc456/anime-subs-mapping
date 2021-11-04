@@ -78,13 +78,11 @@
 <li> -[x] Classroom Crisis</li> 
 <li> -[x] Claymore</li> 
 <li> -[x] Clockwork Planet</li> 
-<li> -[ ] Cowboy Bebop</li> 
+<li> -[x] Cowboy Bebop</li> 
 <li> -[ ] Cross Game</li> 
-<li> -[ ] D-Frag!</li> 
-<li> -[ ] DARLING in the FRANXX</li> 
-<li> -[ ] Dagashi Kashi</li> 
-<li> -[ ] Danball Senki</li> 
-<li> -[ ] Danshi Koukousei no Nichijou</li> 
+<li> -[x] D-Frag!</li> 
+<li> -[x] DARLING in the FRANXX</li> 
+<li> -[x] Danshi Koukousei no Nichijou</li> 
 <li> -[ ] Deadman Wonderland</li> 
 <li> -[ ] Death March kara Hajimaru Isekai Kyousoukyoku</li> 
 <li> -[ ] Death Note</li> 
@@ -518,6 +516,7 @@
 <ul>
 <li> Remove/Merge duplicate jp_text to eng_text mappings </li>
 <li> Remove rows duplicate translated_text columns with a score of 0 </li>
+<li> Keep one word translations with score 0 </li>
 <li> Normalize English translation of duplicate Japanese text i.e same jp text should have same english translation</li>
 	<ol>
 	<li>Check for Named Entity Tags in the original text and translated text (sanity checks)</li>
