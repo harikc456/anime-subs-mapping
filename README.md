@@ -83,16 +83,14 @@
 <li> -[x] D-Frag!</li> 
 <li> -[x] DARLING in the FRANXX</li> 
 <li> -[x] Danshi Koukousei no Nichijou</li> 
-<li> -[ ] Deadman Wonderland</li> 
-<li> -[ ] Death March kara Hajimaru Isekai Kyousoukyoku</li> 
-<li> -[ ] Death Note</li> 
-<li> -[ ] Demi-chan wa Kataritai</li> 
-<li> -[ ] Demon Slayer</li> 
-<li> -[ ] Dennou Coil</li> 
+<li> -[x] Deadman Wonderland</li> 
+<li> -[x] Death March kara Hajimaru Isekai Kyousoukyoku</li> 
+<li> -[x] Death Note</li> 
+<li> -[x] Dennou Coil</li> 
 <li> -[ ] Detective Conan</li> 
 <li> -[ ] Devil Survivor 2 The Animation</li> 
 <li> -[ ] Devilman Crybaby</li> 
-<li> -[ ] Diabolik Lovers</li> 
+<li> -[ ] Diabolik Lovers More, Blood</li> 
 <li> -[ ] Digimon Adventure</li> 
 <li> -[ ] Digimon Xros Wars</li> 
 <li> -[ ] Domestic na Kanojo</li> 
