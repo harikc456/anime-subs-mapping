@@ -88,11 +88,9 @@
 <li> -[x] Death Note</li> 
 <li> -[x] Dennou Coil</li> 
 <li> -[ ] Detective Conan</li> 
-<li> -[ ] Devil Survivor 2 The Animation</li> 
-<li> -[ ] Devilman Crybaby</li> 
-<li> -[ ] Diabolik Lovers More, Blood</li> 
-<li> -[ ] Digimon Adventure</li> 
-<li> -[ ] Digimon Xros Wars</li> 
+<li> -[x] Devilman Crybaby</li> 
+<li> -[x] Diabolik Lovers More, Blood</li> 
+<li> -[x] Digimon Adventure</li> 
 <li> -[ ] Domestic na Kanojo</li> 
 <li> -[ ] Doraemon</li> 
 <li> -[ ] Dr. Stone</li> 
@@ -515,6 +513,7 @@
 <li> Remove/Merge duplicate jp_text to eng_text mappings </li>
 <li> Remove rows duplicate translated_text columns with a score of 0 </li>
 <li> Keep one word translations with score 0 </li>
+<li> Remove words inside {} and <> in jp_text and en_text</li>
 <li> Normalize English translation of duplicate Japanese text i.e same jp text should have same english translation</li>
 	<ol>
 	<li>Check for Named Entity Tags in the original text and translated text (sanity checks)</li>
