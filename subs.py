@@ -27,6 +27,7 @@ parser.add_argument("--jp_dir", type=str, help="The common width and height for 
 parser.add_argument("--en_dir", type=str, help="The common width and height for all images")
 parser.add_argument("--anime_name", type=str, help="The name of the anime for naming the output files")
 parser.add_argument("--threshold_score", type=float, default=0.1, help="The common width and height for all images")
+parser.add_argument("--start", type=int, default=0, help="The episode number where the program ended on the previous run")
 
 args = parser.parse_args()
 
@@ -34,6 +35,7 @@ args = parser.parse_args()
 en_path = args.en_dir
 jp_path = args.jp_dir
 anime_name = args.anime_name
+start = args.start
 
 en_subs_list = os.listdir(en_path)
 jp_subs_list = os.listdir(jp_path)
@@ -44,7 +46,7 @@ assert len(en_subs_list) == len(jp_subs_list), "The number of files in both dire
 
 print(f"Found {len(en_subs_list)} files")
 
-for idx in range(len(en_subs_list)):
+for idx in range(start,len(en_subs_list)):
 
     extension = en_subs_list[idx].split(".")[-1]
 

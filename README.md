@@ -83,6 +83,8 @@
 <li> -[x] D-Frag!</li> 
 <li> -[x] DARLING in the FRANXX</li> 
 <li> -[x] Danshi Koukousei no Nichijou</li> 
+<li> -[x] Dungeon ni Deai wo_Motomeru no wa Machigatteiru Darou ka </li> 
+<li> -[ ] Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka Gaiden: Sword Oratoria </li> 
 <li> -[x] Deadman Wonderland</li> 
 <li> -[x] Death March kara Hajimaru Isekai Kyousoukyoku</li> 
 <li> -[x] Death Note</li> 
@@ -91,17 +93,17 @@
 <li> -[x] Devilman Crybaby</li> 
 <li> -[x] Diabolik Lovers More, Blood</li> 
 <li> -[x] Digimon Adventure</li> 
-<li> -[ ] Domestic na Kanojo</li> 
+<li> -[x] Domestic na Kanojo</li> 
 <li> -[ ] Doraemon</li> 
-<li> -[ ] Dr. Stone</li> 
+<li> -[x] Dr. Stone</li> 
 <li> -[ ] Dragon Ball</li> 
 <li> -[ ] Dragon Ball Kai</li> 
 <li> -[ ] Dragon Ball Super</li> 
 <li> -[ ] Dragon Ball Z</li> 
-<li> -[ ] Drifters</li> 
-<li> -[ ] EVE no Jikan</li> 
-<li> -[ ] Elfen Lied</li> 
+<li> -[x] Drifters</li> 
+<li> -[x] EVE no Jikan</li>  
 <li> -[ ] Eureka Seven</li> 
+<li> -[ ] Eureka Seven AO</li> 
 <li> -[ ] FLAG</li> 
 <li> -[ ] Fairy Tail</li> 
 <li> -[ ] Fate Apocrypha</li> 
@@ -514,6 +516,7 @@
 <li> Remove rows duplicate translated_text columns with a score of 0 </li>
 <li> Keep one word translations with score 0 </li>
 <li> Remove words inside {} and <> in jp_text and en_text</li>
+<li> Remove rows where score is 0 and the en_text has less than 3 characters </li>
 <li> Normalize English translation of duplicate Japanese text i.e same jp text should have same english translation</li>
 	<ol>
 	<li>Check for Named Entity Tags in the original text and translated text (sanity checks)</li>
