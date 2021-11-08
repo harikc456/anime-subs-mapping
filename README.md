@@ -513,7 +513,6 @@
 ## Things to do while cleaning the data
 <ul>
 <li> -[x] Remove/Merge duplicate jp_text to eng_text mappings </li>
-<li> -[x] Remove rows duplicate translated_text columns</li>
 <li> -[ ] Remove words inside {} and <> in jp_text and en_text</li>
 <li> -[ ] Remove rows where en_text has less than 3 characters length </li>
 <li> -[ ] Remove rows with score 0 and number of words greater than 1 </li>
