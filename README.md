@@ -84,7 +84,7 @@
 <li> -[x] DARLING in the FRANXX</li> 
 <li> -[x] Danshi Koukousei no Nichijou</li> 
 <li> -[x] Dungeon ni Deai wo_Motomeru no wa Machigatteiru Darou ka </li> 
-<li> -[ ] Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka Gaiden: Sword Oratoria </li> 
+<li> -[x] Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka Gaiden: Sword Oratoria </li> 
 <li> -[x] Deadman Wonderland</li> 
 <li> -[x] Death March kara Hajimaru Isekai Kyousoukyoku</li> 
 <li> -[x] Death Note</li> 
@@ -102,9 +102,8 @@
 <li> -[ ] Dragon Ball Z</li> 
 <li> -[x] Drifters</li> 
 <li> -[x] EVE no Jikan</li>  
-<li> -[ ] Eureka Seven</li> 
-<li> -[ ] Eureka Seven AO</li> 
-<li> -[ ] FLAG</li> 
+<li> -[x] Eureka Seven</li> 
+<li> -[x] Eureka Seven AO</li> 
 <li> -[ ] Fairy Tail</li> 
 <li> -[ ] Fate Apocrypha</li> 
 <li> -[ ] Fate Stay Night</li> 
@@ -513,9 +512,9 @@
 ## Things to do while cleaning the data
 <ul>
 <li> -[x] Remove/Merge duplicate jp_text to eng_text mappings </li>
-<li> -[ ] Remove words inside {} and <> in jp_text and en_text</li>
-<li> -[ ] Remove rows where en_text has less than 3 characters length </li>
-<li> -[ ] Remove rows with score 0 and number of words greater than 1 </li>
+<li> -[x] Remove words inside {} and <> in jp_text and en_text</li>
+<li> -[x] Remove rows where en_text has less than 3 characters length </li>
+<li> -[x] Remove rows with score 0 and number of words greater than 1 </li>
 <li> Normalize English translation of duplicate Japanese text i.e same jp text should have same english translation</li>
 	<ol>
 	<li>Check for Named Entity Tags in the original text and translated text (sanity checks)</li>
