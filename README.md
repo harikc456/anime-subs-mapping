@@ -105,14 +105,12 @@
 <li> -[x] Eureka Seven</li> 
 <li> -[x] Eureka Seven AO</li> 
 <li> -[ ] Fairy Tail</li> 
-<li> -[ ] Fate Apocrypha</li> 
-<li> -[ ] Fate Stay Night</li> 
-<li> -[ ] Fate Zero</li> 
-<li> -[ ] Final Fantasy XV Kingsglaive</li> 
-<li> -[ ] Fractale</li> 
-<li> -[ ] Free!</li> 
-<li> -[ ] Freedom</li> 
-<li> -[ ] Friends - Mononoke Shima no Naki</li> 
+<li> -[x] Fate Apocrypha</li> 
+<li> -[x] Fate Stay Night</li> 
+<li> -[x] Fate Zero</li> 
+<li> -[x] Fractale</li> 
+<li> -[x] Free!</li> 
+<li> -[x] Freedom</li> 
 <li> -[ ] Full Metal Panic Fumoffu</li> 
 <li> -[ ] Full Metal Panic!</li> 
 <li> -[ ] Full Metal Panic! Invisible Victory</li> 
