@@ -112,9 +112,12 @@
 <li> -[x] Free!</li> 
 <li> -[x] Freedom</li> 
 <li> -[ ] Full Metal Panic Fumoffu</li> 
-<li> -[ ] Full Metal Panic!</li> 
+<li> -[x] Full Metal Panic!</li> 
+<li> -[x] Full Metal Panic! The Second Raid </li> 
 <li> -[ ] Full Metal Panic! Invisible Victory</li> 
-<li> -[ ] Fullmetal Alchemist</li> 
+<li> -[ ] Fullmetal Alchemist</li>
+<li> -[x] Fullmetal Alchemist Brotherhood</li> 
+<li> -[x] Fullmetal Alchemist Conqueror of Shamballa</li> 
 <li> -[ ] Fune wo Amu</li> 
 <li> -[ ] Gakkou Gurashi!</li> 
 <li> -[ ] Galilei Donna</li> 
