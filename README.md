@@ -111,11 +111,11 @@
 <li> -[x] Fractale</li> 
 <li> -[x] Free!</li> 
 <li> -[x] Freedom</li> 
-<li> -[ ] Full Metal Panic Fumoffu</li> 
+<li> -[x] Full Metal Panic Fumoffu</li> 
 <li> -[x] Full Metal Panic!</li> 
 <li> -[x] Full Metal Panic! The Second Raid </li> 
-<li> -[ ] Full Metal Panic! Invisible Victory</li> 
-<li> -[ ] Fullmetal Alchemist</li>
+<li> -[x] Full Metal Panic! Invisible Victory</li> 
+<li> -[x] Fullmetal Alchemist</li>
 <li> -[x] Fullmetal Alchemist Brotherhood</li> 
 <li> -[x] Fullmetal Alchemist Conqueror of Shamballa</li> 
 <li> -[ ] Fune wo Amu</li> 
