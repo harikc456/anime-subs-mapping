@@ -117,21 +117,18 @@
 <li> -[x] Full Metal Panic! Invisible Victory</li> 
 <li> -[x] Fullmetal Alchemist</li>
 <li> -[x] Fullmetal Alchemist Brotherhood</li> 
-<li> -[x] Fullmetal Alchemist Conqueror of Shamballa</li> 
-<li> -[ ] Fune wo Amu</li> 
-<li> -[ ] Gakkou Gurashi!</li> 
-<li> -[ ] Galilei Donna</li> 
-<li> -[ ] Gantz</li> 
-<li> -[ ] Genji Monogatari Sennenki</li> 
-<li> -[ ] Genshiken Nidaime</li> 
-<li> -[ ] Getter Robo</li> 
-<li> -[ ] Ghost Sweeper Mikami</li> 
-<li> -[ ] Ghost in the Shell 2: Innocence</li> 
-<li> -[ ] Ghost in the Shell Arise</li> 
-<li> -[ ] Ginban Kaleidoscope</li> 
+<li> -[x] Fullmetal Alchemist Conqueror of Shamballa</li>  
+<li> -[x] Gakkou Gurashi!</li> 
+<li> -[x] Galilei Donna</li> 
+<li> -[x] Gantz</li> 
+<li> -[x] Genshiken Nidaime</li> 
+<li> -[x] Ghost Sweeper Mikami</li> 
+<li> -[x] Ghost in the Shell (1995)</li>
+<li> -[x] Ghost in the Shell 2: Innocence</li> 
+<li> -[x] Ghost in the Shell Arise</li> 
+<li> -[x] Ginban Kaleidoscope</li> 
 <li> -[ ] Gintama</li> 
-<li> -[ ] Giovanni no Shima</li> 
-<li> -[ ] Glass no Hana to Kowasu Sekai</li> 
+<li> -[x] Glass no Hana to Kowasu Sekai</li> 
 <li> -[ ] Goblin Slayer</li> 
 <li> -[ ] Golden Kamuy</li> 
 <li> -[ ] Golden Time</li> 
