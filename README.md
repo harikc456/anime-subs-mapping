@@ -129,14 +129,14 @@
 <li> -[x] Ginban Kaleidoscope</li> 
 <li> -[ ] Gintama</li> 
 <li> -[x] Glass no Hana to Kowasu Sekai</li> 
-<li> -[ ] Goblin Slayer</li> 
-<li> -[ ] Golden Kamuy</li> 
+<li> -[x] Goblin Slayer</li> 
+<li> -[x] Golden Kamuy</li> 
 <li> -[ ] Golden Time</li> 
 <li> -[ ] Golgo 13</li> 
-<li> -[ ] Gosick</li> 
-<li> -[ ] Great Mazinger</li> 
+<li> -[x] Gosick</li> 
+<li> -[x] Great Mazinger</li> 
 <li> -[ ] Grisaia no Kajitsu</li> 
-<li> -[ ] Guilty Crown</li> 
+<li> -[x] Guilty Crown</li> 
 <li> -[ ] Guin Saga</li> 
 <li> -[ ] Gundam Build Fighters</li> 
 <li> -[ ] Hachimitsu to Clover</li> 
