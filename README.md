@@ -131,19 +131,16 @@
 <li> -[x] Glass no Hana to Kowasu Sekai</li> 
 <li> -[x] Goblin Slayer</li> 
 <li> -[x] Golden Kamuy</li> 
-<li> -[ ] Golden Time</li> 
-<li> -[ ] Golgo 13</li> 
+<li> -[x] Golgo 13</li> 
 <li> -[x] Gosick</li> 
 <li> -[x] Great Mazinger</li> 
-<li> -[ ] Grisaia no Kajitsu</li> 
+<li> -[x] Grisaia no Kajitsu</li> 
 <li> -[x] Guilty Crown</li> 
-<li> -[ ] Guin Saga</li> 
-<li> -[ ] Gundam Build Fighters</li> 
 <li> -[ ] Hachimitsu to Clover</li> 
 <li> -[ ] Hachimitsu to Clover II</li> 
-<li> -[ ] Hai to Gensou no Grimgar</li> 
+<li> -[x] Hai to Gensou no Grimgar</li> 
+<li> -[ ] Haikyuu</li> 
 <li> -[ ] Haibane Renmei</li> 
-<li> -[ ] Haikyuu!!</li> 
 <li> -[ ] Haiyore! Nyaruko-san W</li> 
 <li> -[ ] Hajimete no Gal</li> 
 <li> -[ ] Hanasakeru Seishounen</li> 
