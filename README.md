@@ -136,13 +136,14 @@
 <li> -[x] Great Mazinger</li> 
 <li> -[x] Grisaia no Kajitsu</li> 
 <li> -[x] Guilty Crown</li> 
-<li> -[ ] Hachimitsu to Clover</li> 
-<li> -[ ] Hachimitsu to Clover II</li> 
+<li> -[x] Hachimitsu to Clover</li> 
+<li> -[x] Hachimitsu to Clover II</li> 
 <li> -[x] Hai to Gensou no Grimgar</li> 
-<li> -[ ] Haikyuu</li> 
-<li> -[ ] Haibane Renmei</li> 
-<li> -[ ] Haiyore! Nyaruko-san W</li> 
-<li> -[ ] Hajimete no Gal</li> 
+<li> -[x] Haikyuu</li> 
+<li> -[x] Haiyore! Nyaruko-san W</li> 
+<li> -[ ] Hajime no Ippo</li> 
+<li> -[ ] Hajime no Ippo Champion Road</li> 
+<li> -[ ] Hajime no Ippo New Challenger</li> 
 <li> -[ ] Hanasakeru Seishounen</li> 
 <li> -[ ] Hanasaku Iroha</li> 
 <li> -[ ] Hanayamata</li> 
