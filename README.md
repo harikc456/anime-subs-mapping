@@ -143,25 +143,20 @@
 <li> -[x] Haiyore! Nyaruko-san W</li> 
 <li> -[ ] Hajime no Ippo</li> 
 <li> -[ ] Hajime no Ippo Champion Road</li> 
-<li> -[ ] Hajime no Ippo New Challenger</li> 
-<li> -[ ] Hanasakeru Seishounen</li> 
-<li> -[ ] Hanasaku Iroha</li> 
-<li> -[ ] Hanayamata</li> 
-<li> -[ ] Hanbun no Tsuki ga Noboru Sora</li> 
-<li> -[ ] Hanzawa Naoki</li> 
-<li> -[ ] Harmonie</li> 
-<li> -[ ] Harmony</li> 
-<li> -[ ] Hataraku Saibou</li> 
+<li> -[x] Hajime no Ippo New Challenger</li> 
+<li> -[x] Hanasakeru Seishounen</li> 
+<li> -[x] Hanasaku Iroha</li> 
+<li> -[x] Hanayamata</li> 
+<li> -[x] Hanzawa Naoki</li> 
+<li> -[x] Harmonie</li> 
+<li> -[x] Harmony</li>  
 <li> -[ ] Hayate no Gotoku!!</li> 
-<li> -[ ] Heavy Object</li> 
-<li> -[ ] Hellsing</li> 
-<li> -[ ] Hentai Ouji to Warawanai Neko</li> 
-<li> -[ ] Heroic Age</li> 
-<li> -[ ] Heroman</li> 
-<li> -[ ] Hetalia Axis Powers</li> 
-<li> -[ ] Hiatari Ryoukou</li> 
-<li> -[ ] Hibike! Euphonium</li> 
-<li> -[ ] Hidamari Sketch</li> 
+<li> -[x] Heavy Object</li> 
+<li> -[x] Hellsing</li> 
+<li> -[x] Hentai Ouji to Warawanai Neko</li>  
+<li> -[x] Hibike! Euphonium</li> 
+<li> -[ ] Hibike! Euphonium II</li> 
+<li> -[x] Hidamari Sketch</li> 
 <li> -[ ] Higashi no Eden</li> 
 <li> -[ ] High School Fleet</li> 
 <li> -[ ] High Score Girl</li> 
@@ -507,6 +502,7 @@
 
 ## Things to do while cleaning the data
 <ul>
+<li> -[ ] If the jp_text rows entry is a number then put the same number to en_text, change score to 1
 <li> -[x] Remove/Merge duplicate jp_text to eng_text mappings </li>
 <li> -[x] Remove words inside {} and <> in jp_text and en_text</li>
 <li> -[x] Remove rows where en_text has less than 3 characters length </li>

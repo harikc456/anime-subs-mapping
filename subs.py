@@ -51,8 +51,11 @@ for idx in range(start,len(en_subs_list)):
     extension = en_subs_list[idx].split(".")[-1]
 
     if extension == "ass":
-        with open(en_path+"\\"+en_subs_list[idx], encoding='utf_8_sig') as f:
-            doc1 = ass.parse(f)
+        try:
+            with open(en_path+"\\"+en_subs_list[idx], encoding='utf_8_sig') as f:
+                doc1 = ass.parse(f)
+        except:
+            continue
 
         d1 = dict()
         d1['start'] = []
@@ -123,7 +126,6 @@ for idx in range(start,len(en_subs_list)):
             d2['end'].append(j.end.total_seconds())
             d2['text'].append(j.content)
 
-    
     df1 = pd.DataFrame(d1).sort_values("start")
     df2 = pd.DataFrame(d2).sort_values("start")
 
