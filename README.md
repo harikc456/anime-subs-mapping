@@ -155,41 +155,38 @@
 <li> -[x] Hellsing</li> 
 <li> -[x] Hentai Ouji to Warawanai Neko</li>  
 <li> -[x] Hibike! Euphonium</li> 
-<li> -[ ] Hibike! Euphonium II</li> 
+<li> -[x] Hibike! Euphonium II</li> 
 <li> -[x] Hidamari Sketch</li> 
-<li> -[ ] Higashi no Eden</li> 
-<li> -[ ] High School Fleet</li> 
-<li> -[ ] High Score Girl</li> 
-<li> -[ ] Higurashi no Naku Koro ni</li> 
-<li> -[ ] Higurashi no Naku Koro ni Gou</li> 
+<li> -[ ] Hidamari Sketch Hoshimitsu</li>
+<li> -[x] Higashi no Eden</li> 
+<li> -[x] High School Fleet</li> 
+<li> -[x] High Score Girl</li> 
+<li> -[x] Higurashi no Naku Koro ni</li> 
+<li> -[x] Higurashi no Naku Koro ni Gou</li> 
 <li> -[ ] Hikaru no Go</li> 
-<li> -[ ] Himouto! Umaru-chan</li> 
-<li> -[ ] Hinomaruzumou - Hinomaru Sumo</li> 
-<li> -[ ] Houkago no Pleiades</li> 
-<li> -[ ] Hourou Musuko</li> 
-<li> -[ ] Hyakujuu Sentai Gaoranger</li> 
-<li> -[ ] Hyouge Mono</li> 
-<li> -[ ] Hyouka</li> 
-<li> -[ ] ID-0</li> 
-<li> -[ ] Ichiban Ushiro no Daimaou</li> 
-<li> -[ ] Ichigo Mashimaro Encore</li> 
-<li> -[ ] Ichigo Mashimaro OVA</li> 
-<li> -[ ] Idoly Pride</li> 
-<li> -[ ] Inu to Hasami wa Tsukaiyou</li> 
+<li> -[x] Himouto! Umaru-chan</li> 
+<li> -[x] Hinomaruzumou - Hinomaru Sumo</li> 
+<li> -[x] Hourou Musuko</li> 
+<li> -[x] Hyouka</li> 
+<li> -[x] ID-0</li> 
+<li> -[x] Ichiban Ushiro no Daimaou</li> 
+<li> -[x] Idoly Pride</li> 
 <li> -[ ] InuYasha</li> 
-<li> -[ ] Inukami!</li> 
+<li> -[x] Inukami!</li> 
 <li> -[ ] Inuyashiki</li> 
-<li> -[ ] Iriya no Sora, UFO no Natsu</li> 
+<li> -[x] Iriya no Sora, UFO no Natsu</li> 
 <li> -[ ] Isekai Cheat Magician</li> 
-<li> -[ ] Isekai Maou to Shoukan Shoujo no Dorei Majutsu</li> 
-<li> -[ ] Isekai Quartet</li> 
-<li> -[ ] Isshuukan Friends</li> 
-<li> -[ ] Jewelpet Sunshine</li> 
-<li> -[ ] Jigoku Shoujo</li> 
-<li> -[ ] Jinrui wa Suitai Shimashita</li> 
-<li> -[ ] Joker Game</li> 
-<li> -[ ] Jormungand</li> 
-<li> -[ ] Joshiraku</li> 
+<li> -[x] Isekai Maou to Shoukan Shoujo no Dorei Majutsu</li> 
+<li> -[x] Isekai Quartet</li> 
+<li> -[x] Isshuukan Friends</li>
+<li> -[x] Jojo's Bizarre Adventure</li> 
+<li> -[x] Jojo's Bizarre Adventure Stardust Crusader</li> 
+<li> -[ ] Jojo's Bizarre Adventure Diamond is Unbreakable</li> 
+<li> -[ ] Jojo's Bizarre Adventure Golden Wins</li> 
+<li> -[x] Jigoku Shoujo</li> 
+<li> -[x] Jinrui wa Suitai Shimashita</li> 
+<li> -[x] Joker Game</li> 
+<li> -[x] Jormungand</li> 
 <li> -[ ] Jungle Taitei</li> 
 <li> -[ ] K</li> 
 <li> -[ ] Kaiba</li> 
