@@ -181,46 +181,35 @@
 <li> -[x] Isshuukan Friends</li>
 <li> -[x] Jojo's Bizarre Adventure</li> 
 <li> -[x] Jojo's Bizarre Adventure Stardust Crusader</li> 
-<li> -[ ] Jojo's Bizarre Adventure Diamond is Unbreakable</li> 
-<li> -[ ] Jojo's Bizarre Adventure Golden Wins</li> 
+<li> -[x] Jojo's Bizarre Adventure Diamond is Unbreakable</li> 
+<li> -[x] Jojo's Bizarre Adventure Golden Wind</li> 
 <li> -[x] Jigoku Shoujo</li> 
 <li> -[x] Jinrui wa Suitai Shimashita</li> 
 <li> -[x] Joker Game</li> 
 <li> -[x] Jormungand</li> 
-<li> -[ ] Jungle Taitei</li> 
+<li> -[x] Jujutsu Kaisen</li> 
 <li> -[ ] K</li> 
 <li> -[ ] Kaiba</li> 
-<li> -[ ] Kaibutsu Oujo</li> 
-<li> -[ ] Kaichou wa Maid-sama</li> 
-<li> -[ ] Kaitou Saint Tail</li> 
-<li> -[ ] Kakegurui</li> 
-<li> -[ ] Kamen Rider</li> 
-<li> -[ ] Kamen Rider 555</li> 
-<li> -[ ] Kamen Rider Decade</li> 
-<li> -[ ] Kamen Rider Drive</li> 
-<li> -[ ] Kamen Rider Kuuga</li> 
-<li> -[ ] Kamen Rider W</li> 
-<li> -[ ] Kamen Rider Zi-O</li> 
-<li> -[ ] Kamisama Hajimemashita</li> 
-<li> -[ ] Kampfer</li> 
-<li> -[ ] Kanokon</li> 
+<li> -[x] Kakegurui</li> 
+<li> -[x] Kami nomi zo Shiru Sekai</li> 
+<li> -[x] Kami nomi zo Shiru Sekai S2</li> 
+<li> -[x] Kami nomi zo Shiru Sekai S3</li> 
 <li> -[ ] Kantai Collection</li> 
 <li> -[ ] Kappa no Coo to Natsuyasumi</li> 
 <li> -[ ] Kara no Kyoukai</li> 
 <li> -[ ] Karigurashi no Arrietty</li> 
-<li> -[ ] Katanagatari</li> 
+<li> -[x] Katanagatari</li> 
 <li> -[ ] Kemono Friends</li> 
 <li> -[ ] Kemono no Souja Erin</li> 
 <li> -[ ] Keroro Gunsou</li> 
 <li> -[ ] Kiki's Delivery Service</li> 
-<li> -[ ] Kill Me Baby</li> 
-<li> -[ ] Kimagure Orange Road</li> 
-<li> -[ ] Kimi ni Todoke</li> 
-<li> -[ ] Kimi to Boku</li> 
+<li> -[x] Kill La Kill</li>  
+<li> -[x] Kimagure Orange Road</li> 
+<li> -[x] Kimi to Boku</li> 
 <li> -[ ] Kindaichi Case Files</li> 
-<li> -[ ] Kingdom</li> 
-<li> -[ ] Kishuku Gakkou no Juliet</li> 
-<li> -[ ] Kiznaiver</li> 
+<li> -[x] Kingdom</li> 
+<li> -[x] Kishuku Gakkou no Juliet</li> 
+<li> -[x] Kiznaiver</li> 
 <li> -[ ] Kizumonogatari</li> 
 <li> -[ ] Kobato</li> 
 <li> -[ ] Kobayashi-san Chi no Maid Dragon</li> 
