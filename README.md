@@ -210,24 +210,18 @@
 <li> -[x] Kingdom</li> 
 <li> -[x] Kishuku Gakkou no Juliet</li> 
 <li> -[x] Kiznaiver</li> 
-<li> -[ ] Kizumonogatari</li> 
-<li> -[ ] Kobato</li> 
-<li> -[ ] Kobayashi-san Chi no Maid Dragon</li> 
-<li> -[ ] Koi wa Ameagari no You ni</li> 
-<li> -[ ] Kokoro Connect</li> 
-<li> -[ ] Kono Sekai no Katasumi ni</li> 
-<li> -[ ] Koukaku Kidoutai</li> 
-<li> -[ ] Koukaku Kidoutai Stand Alone Complex</li> 
-<li> -[ ] Koukaku no Regios</li> 
-<li> -[ ] Koutetsu Jeeg</li> 
-<li> -[ ] Kuiba</li> 
+<li> -[x] Kizumonogatari</li> 
+<li> -[x] Kobato</li> 
+<li> -[x] Kobayashi-san Chi no Maid Dragon</li> 
+<li> -[x] Kokoro Connect</li> 
+<li> -[x] Kono Sekai no Katasumi ni</li> 
+<li> -[x] Kono Subarashii Sekai ni Shukufuku wo!</li> 
+<li> -[x] Koukaku Kidoutai Stand Alone Complex</li> 
+<li> -[x] Koukaku no Regios</li> 
+<li> -[x] Kuiba</li> 
 <li> -[ ] Kujira no Kora wa Sajou ni Utau</li> 
-<li> -[ ] Kuragehime</li> 
 <li> -[ ] Kuroko no Basket</li> 
 <li> -[ ] Kuromukuro</li> 
-<li> -[ ] Kuroshitsuji</li> 
-<li> -[ ] Kuuchuu Buranko</li> 
-<li> -[ ] Kuzu no Honkai</li> 
 <li> -[ ] Kyoukai No Rinne</li> 
 <li> -[ ] Kyoukai no Kanata</li> 
 <li> -[ ] Last Exile</li> 
