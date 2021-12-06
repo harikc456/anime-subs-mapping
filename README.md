@@ -219,36 +219,34 @@
 <li> -[x] Koukaku Kidoutai Stand Alone Complex</li> 
 <li> -[x] Koukaku no Regios</li> 
 <li> -[x] Kuiba</li> 
-<li> -[ ] Kujira no Kora wa Sajou ni Utau</li> 
-<li> -[ ] Kuroko no Basket</li> 
-<li> -[ ] Kuromukuro</li> 
+<li> -[x] Kujira no Kora wa Sajou ni Utau</li> 
+<li> -[x] Kuroko no Basket S1</li> 
+<li> -[x] Kuroko no Basket S3</li> 
+<li> -[x] Kuromukuro</li> 
 <li> -[ ] Kyoukai No Rinne</li> 
-<li> -[ ] Kyoukai no Kanata</li> 
-<li> -[ ] Last Exile</li> 
-<li> -[ ] Little Witch Academia</li> 
-<li> -[ ] Log Horizon</li> 
+<li> -[x] Kyoukai no Kanata</li> 
+<li> -[x] Last Exile</li> 
+<li> -[x] Little Witch Academia</li> 
+<li> -[ ] Log Horizon S1</li> 
+<li> -[ ] Log Horizon S2</li> 
 <li> -[ ] Long Riders!</li> 
-<li> -[ ] Lost Song</li> 
-<li> -[ ] Love Lab</li> 
-<li> -[ ] Lovely Complex</li> 
-<li> -[ ] Lucky Star</li> 
+<li> -[x] Lost Song</li>
+<li> -[x] Lovely Complex</li> 
+<li> -[x] Lucky Star</li> 
 <li> -[ ] Lupin III</li> 
 <li> -[ ] Lupin III Part III</li> 
-<li> -[ ] MM!</li> 
-<li> -[ ] Macross 7</li> 
-<li> -[ ] Macross Delta</li> 
 <li> -[ ] Macross Frontier</li> 
 <li> -[ ] Macross Plus</li> 
-<li> -[ ] Mahou Shoujo Lyrical Nanoha A's</li> 
+<li> -[x] Magi Labyrinth of Magic</li>
+<li> -[x] Magi Kingdom of Magic</li> 
 <li> -[ ] Mahou Shoujo Lyrical Nanoha StrikerS</li> 
 <li> -[ ] Mahouka Koukou no Rettousei</li> 
 <li> -[ ] Mairimashita! Iruma-kun</li> 
 <li> -[ ] Maison Ikkoku</li> 
 <li> -[ ] Major</li> 
-<li> -[ ] Maoyuu Maou Yuusha</li> 
+<li> -[x] Maoyuu Maou Yuusha</li> 
 <li> -[ ] Mardock Scramble</li> 
-<li> -[ ] Maria-sama ga Miteru</li> 
-<li> -[ ] Marmalade Boy</li> 
+<li> -[x] Marmalade Boy</li> 
 <li> -[ ] Mary to Majo no Hana</li> 
 <li> -[ ] Mawaru Penguindrum</li> 
 <li> -[ ] Mayo Chiki!</li> 
