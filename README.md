@@ -240,33 +240,27 @@
 <li> -[x] Magi Labyrinth of Magic</li>
 <li> -[x] Magi Kingdom of Magic</li> 
 <li> -[ ] Mahou Shoujo Lyrical Nanoha StrikerS</li> 
-<li> -[ ] Mahouka Koukou no Rettousei</li> 
-<li> -[ ] Mairimashita! Iruma-kun</li> 
+<li> -[x] Mahouka Koukou no Rettousei</li> 
+<li> -[x] Mairimashita! Iruma-kun</li> 
 <li> -[ ] Maison Ikkoku</li> 
 <li> -[ ] Major</li> 
 <li> -[x] Maoyuu Maou Yuusha</li> 
 <li> -[ ] Mardock Scramble</li> 
 <li> -[x] Marmalade Boy</li> 
-<li> -[ ] Mary to Majo no Hana</li> 
-<li> -[ ] Mawaru Penguindrum</li> 
-<li> -[ ] Mayo Chiki!</li> 
+<li> -[x] Mawaru Penguindrum</li> 
 <li> -[ ] Mazinger Z</li> 
-<li> -[ ] Mikakunin de Shinkoukei</li> 
-<li> -[ ] Miru Tights</li> 
-<li> -[ ] Mister Ajikko</li> 
+<li> -[x] Mikakunin de Shinkoukei</li> 
 <li> -[ ] Mitsuboshi Colors</li> 
-<li> -[ ] Mitsudomoe</li> 
-<li> -[ ] Mob Psycho 100</li> 
-<li> -[ ] Mob Psycho 100 II</li> 
+<li> -[x] Mob Psycho 100</li> 
+<li> -[x] Mob Psycho 100 II</li> 
 <li> -[ ] Mobile Suit Gundam 0083 Stardust Memory</li> 
-<li> -[ ] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?</li> 
-<li> -[ ] Monogatari Series (TVDB Order)</li> 
-<li> -[ ] Mononoke</li> 
-<li> -[ ] Mononoke Hime</li> 
-<li> -[ ] Moonlight Mile</li> 
+<li> -[ ] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?</li>
+<li> -[ ] Monster </li> 
+<li> -[x] Monogatari Series (TVDB Order)</li> 
+<li> -[x] Mononoke</li> 
+<li> -[x] Mononoke Hime</li> 
 <li> -[ ] Moshidora</li> 
 <li> -[ ] Mouretsu Pirates</li> 
-<li> -[ ] Mouryou no Hako</li> 
 <li> -[ ] Moyashimon Returns</li> 
 <li> -[ ] Musaigen no Phantom World</li> 
 <li> -[ ] Mushishi</li> 
