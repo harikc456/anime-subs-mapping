@@ -250,59 +250,50 @@
 <li> -[x] Mawaru Penguindrum</li> 
 <li> -[ ] Mazinger Z</li> 
 <li> -[x] Mikakunin de Shinkoukei</li> 
-<li> -[ ] Mitsuboshi Colors</li> 
+<li> -[x] Mitsuboshi Colors</li> 
 <li> -[x] Mob Psycho 100</li> 
 <li> -[x] Mob Psycho 100 II</li> 
 <li> -[ ] Mobile Suit Gundam 0083 Stardust Memory</li> 
-<li> -[ ] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?</li>
-<li> -[ ] Monster </li> 
+<li> -[x] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?</li>
+<li> -[x] Monster </li> 
 <li> -[x] Monogatari Series (TVDB Order)</li> 
 <li> -[x] Mononoke</li> 
 <li> -[x] Mononoke Hime</li> 
-<li> -[ ] Moshidora</li> 
-<li> -[ ] Mouretsu Pirates</li> 
-<li> -[ ] Moyashimon Returns</li> 
-<li> -[ ] Musaigen no Phantom World</li> 
-<li> -[ ] Mushishi</li> 
+<li> -[x] Moshidora</li> 
+<li> -[x] Mouretsu Pirates</li> 
+<li> -[x] Moyashimon Returns</li> 
+<li> -[x] Musaigen no Phantom World</li> 
+<li> -[x] Mushishi</li> 
 <li> -[ ] Mushishi Zoku Shou</li> 
-<li> -[ ] Nagasarete Airantou</li> 
-<li> -[ ] Nagato Yuki-chan no Shoushitsu</li> 
-<li> -[ ] Nagi no Asukara</li> 
-<li> -[ ] Nanatsu no Umi no Tico</li> 
-<li> -[ ] Nande Koko ni Sensei ga!?</li> 
+<li> -[x] Nagasarete Airantou</li> 
+<li> -[x] Nagato Yuki-chan no Shoushitsu</li> 
+<li> -[x] Nagi no Asukara</li> 
+<li> -[x] Nande Koko ni Sensei ga!?</li> 
 <li> -[ ] Naruto</li> 
 <li> -[ ] Naruto Shippuuden</li> 
 <li> -[ ] Natsume Yuujinchou</li> 
 <li> -[ ] Neon Genesis Evangelion</li> 
 <li> -[ ] Nerawareta Gakuen</li> 
-<li> -[ ] Nichijou</li> 
+<li> -[x] Nichijou</li> 
 <li> -[ ] Nisekoi</li> 
-<li> -[ ] Nisemonogatari</li> 
-<li> -[ ] No Game No Life</li> 
-<li> -[ ] Nodame Cantabile</li> 
-<li> -[ ] Noir</li> 
-<li> -[ ] Non Non Biyori</li> 
-<li> -[ ] Noragami</li> 
-<li> -[ ] Noragami Aragoto</li> 
-<li> -[ ] Nourin</li> 
+<li> -[x] No Game No Life</li> 
+<li> -[x] Non Non Biyori</li> 
+<li> -[x] Noragami</li> 
+<li> -[x] Noragami Aragoto</li> 
+<li> -[x] Nourin</li> 
 <li> -[ ] Nurarihyon no Mago</li> 
-<li> -[ ] Occultic;Nine</li> 
+<li> -[x] Occultic;Nine</li> 
 <li> -[ ] One Piece</li> 
 <li> -[ ] One Room</li> 
-<li> -[ ] Ookami Kakushi</li> 
-<li> -[ ] Ookami Kodomo no Ame to Yuki</li> 
+<li> -[x] Ookami Kakushi</li> 
 <li> -[ ] Ookami-san to Shichinin no Nakama-tachi</li> 
 <li> -[ ] Ore no Kanojo to Osananajimi ga Shuraba Sugiru</li> 
-<li> -[ ] Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru</li> 
+<li> -[x] Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru</li> 
 <li> -[ ] Orenchi no Furo Jijou</li> 
-<li> -[ ] Otome wa Boku ni Koishiteru</li> 
 <li> -[ ] Overlord</li> 
 <li> -[ ] Owari no Seraph</li> 
 <li> -[ ] Owarimonogatari</li> 
 <li> -[ ] Pandora Hearts</li> 
-<li> -[ ] Paradise Kiss</li> 
-<li> -[ ] Penguin Highway</li> 
-<li> -[ ] Perfect Blue</li> 
 <li> -[ ] Piano no Mori</li> 
 <li> -[ ] Planetarian ~Chiisana Hoshi no Yume~</li> 
 <li> -[ ] Pokemon</li> 
