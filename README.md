@@ -286,12 +286,13 @@
 <li> -[ ] One Piece</li> 
 <li> -[ ] One Room</li> 
 <li> -[x] Ookami Kakushi</li> 
-<li> -[ ] Ookami-san to Shichinin no Nakama-tachi</li> 
+<li> -[x] Ookami-san to Shichinin no Nakama-tachi</li> 
 <li> -[ ] Ore no Kanojo to Osananajimi ga Shuraba Sugiru</li> 
 <li> -[x] Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru</li> 
-<li> -[ ] Orenchi no Furo Jijou</li> 
-<li> -[ ] Overlord</li> 
-<li> -[ ] Owari no Seraph</li> 
+<li> -[x] Orenchi no Furo Jijou</li> 
+<li> -[x] Overlord S2</li> 
+<li> -[x] Overlord S3</li> 
+<li> -[x] Owari no Seraph</li> 
 <li> -[ ] Owarimonogatari</li> 
 <li> -[ ] Pandora Hearts</li> 
 <li> -[ ] Piano no Mori</li> 
@@ -303,17 +304,17 @@
 <li> -[ ] Pretty Rhythm Aurora Dream</li> 
 <li> -[ ] Pretty Rhythm Rainbow Live</li> 
 <li> -[ ] Princess Principal</li> 
+<li> -[ ] Prison School</li> 
 <li> -[ ] Psycho-Pass The Movie</li> 
 <li> -[ ] Pupa</li> 
 <li> -[ ] Rainbow days</li> 
-<li> -[ ] ReLIFE</li> 
+<li> -[x] ReLIFE</li> 
 <li> -[ ] Rewrite</li> 
-<li> -[ ] Ristorante Paradiso</li> 
-<li> -[ ] Robot Girls Z</li> 
+<li> -[x] ReZero</li> 
 <li> -[ ] Rokudenashi Majutsu Koushi to Akashic Records</li> 
-<li> -[ ] Romeo no Aoi Sora</li> 
 <li> -[ ] Romeo x Juliet</li> 
-<li> -[ ] Sacred Seven</li> 
+<li> -[ ] Saekano S1</li> 
+<li> -[ ] Saekano S2</li>
 <li> -[ ] Sailor Moon</li> 
 <li> -[ ] Saint Seiya</li> 
 <li> -[ ] Saiunkoku Monogatari</li> 
