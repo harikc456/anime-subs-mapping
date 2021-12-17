@@ -303,38 +303,39 @@
 <li> -[ ] Porco Rosso</li> 
 <li> -[ ] Pretty Rhythm Aurora Dream</li> 
 <li> -[ ] Pretty Rhythm Rainbow Live</li> 
-<li> -[ ] Princess Principal</li> 
+<li> -[x] Princess Principal</li> 
 <li> -[ ] Prison School</li> 
 <li> -[ ] Psycho-Pass The Movie</li> 
-<li> -[ ] Pupa</li> 
-<li> -[ ] Rainbow days</li> 
+<li> -[x] Pupa</li> 
+<li> -[x] Rainbow days</li> 
 <li> -[x] ReLIFE</li> 
 <li> -[ ] Rewrite</li> 
 <li> -[x] ReZero</li> 
-<li> -[ ] Rokudenashi Majutsu Koushi to Akashic Records</li> 
-<li> -[ ] Romeo x Juliet</li> 
-<li> -[ ] Saekano S1</li> 
-<li> -[ ] Saekano S2</li>
+<li> -[x] Rokudenashi Majutsu Koushi to Akashic Records</li> 
+<li> -[x] Romeo x Juliet</li> 
+<li> -[x] Saekano S1</li> 
+<li> -[x] Saekano S2</li>
 <li> -[ ] Sailor Moon</li> 
 <li> -[ ] Saint Seiya</li> 
 <li> -[ ] Saiunkoku Monogatari</li> 
 <li> -[ ] Sakasama no Patema</li> 
-<li> -[ ] Saki</li> 
-<li> -[ ] Sakigake!! Cromartie Koukou</li> 
-<li> -[ ] Sakura Quest</li> 
-<li> -[ ] Sakura Trick</li> 
+<li> -[ ] Saki</li> - X 
+<li> -[x] Sakigake!! Cromartie Koukou</li> 
+<li> -[ ] Sakura Quest</li>  -  X
+<li> -[x] Sakura Trick</li> 
 <li> -[ ] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</li> 
-<li> -[ ] Samurai Champloo</li> 
-<li> -[ ] Samurai Flamenco</li> 
-<li> -[ ] Sankarea</li> 
-<li> -[ ] Sarazanmai</li> 
-<li> -[ ] Sayonara Zetsubou Sensei</li> 
+<li> -[x] Samurai 7</li> 
+<li> -[x] Samurai Champloo</li> 
+<li> -[x] Samurai Flamenco</li> 
+<li> -[x] Sankarea</li> 
+<li> -[x] Sarazanmai</li> 
+<li> -[x] Sayonara Zetsubou Sensei</li> 
 <li> -[ ] School Days</li> 
 <li> -[ ] School Rumble</li> 
 <li> -[ ] Scrapped Princess</li> 
-<li> -[ ] Seikai no Senki</li> 
+<li> -[ ] Seikai no Senki</li> - X 
 <li> -[ ] Seikimatsu Occult Gakuin</li> 
-<li> -[ ] Seirei no Moribito</li> 
+<li> -[x] Seirei no Moribito</li> 
 <li> -[ ] Seiren</li> 
 <li> -[ ] Seitokai Yakuindomo</li> 
 <li> -[ ] Sekaiichi Hatsukoi</li> 
