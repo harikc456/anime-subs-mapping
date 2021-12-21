@@ -337,39 +337,44 @@
 <li> -[ ] Seikimatsu Occult Gakuin</li> 
 <li> -[x] Seirei no Moribito</li> 
 <li> -[ ] Seiren</li> 
-<li> -[ ] Seitokai Yakuindomo</li> 
-<li> -[ ] Sekaiichi Hatsukoi</li> 
-<li> -[ ] Sekirei</li> 
+<li> -[x] Seitokai Yakuindomo</li> 
+<li> -[x] Sekaiichi Hatsukoi S1</li>
+<li> -[x] Sekaiichi Hatsukoi S2</li>  
+<li> -[x] Sekirei</li> 
 <li> -[ ] Sengoku Basara</li> 
 <li> -[ ] Senki Zesshou Symphogear</li> 
 <li> -[ ] Senki Zesshou Symphogear G</li> 
 <li> -[ ] Senki Zesshou Symphogear GX</li> 
 <li> -[ ] Sennen Joyuu</li> 
 <li> -[ ] Serial Experiments Lain</li> 
-<li> -[ ] Servant x Service</li> 
+<li> -[x] Servant x Service</li> 
 <li> -[ ] Shakugan no Shana</li> 
+<li> -[x] Shigatsu wa Kimi no Uso</li> 
 <li> -[ ] Shigofumi</li> 
 <li> -[ ] Shiki</li> 
-<li> -[ ] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai</li> 
+<li> -[x] Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai</li> 
 <li> -[ ] Shingeki no Kyojin</li> 
 <li> -[ ] Shingetsutan Tsukihime</li> 
 <li> -[ ] Shinigami no Ballad</li> 
-<li> -[ ] Shinsekai Yori</li> 
+<li> -[x] Shinsekai Yori</li> 
 <li> -[ ] Shisha no Teikoku</li> 
-<li> -[ ] Shoujo Kakumei Utena</li> 
-<li> -[ ] Shoujo Shuumatsu Ryokou</li> 
-<li> -[ ] Shoukoku no Altair</li> 
-<li> -[ ] Shouwa Genroku Rakugo Shinjuu</li> 
-<li> -[ ] Shuumatsu no Izetta</li> 
+<li> -[x] Shokugeki no Soma S1</li>
+<li> -[ ] Shokugeki no Soma S2</li> 
+<li> -[x] Shoujo Kakumei Utena</li> 
+<li> -[x] Shoujo Shuumatsu Ryokou</li> 
+<li> -[ ] Shoukoku no Altair</li> - X
+<li> -[x] Shouwa Genroku Rakugo Shinjuu S1 & S2</li> 
+<li> -[x] Shuumatsu no Izetta</li> 
 <li> -[ ] Sirius the Jaeger</li> 
 <li> -[ ] Slayers Next</li> 
 <li> -[ ] Slayers Revolution</li> 
 <li> -[ ] Slayers Try</li> 
 <li> -[ ] Sora no Method</li> 
 <li> -[ ] Sora no Otoshimono</li> 
+<li> -[ ] Sora no Otoshimono Forte</li> 
 <li> -[ ] Sora yori mo Tooi Basho</li> 
 <li> -[ ] Soredemo Machi wa Mawatteiru</li> 
-<li> -[ ] Soul Eater</li> 
+<li> -[ ] Soul Eater</li> - X
 <li> -[ ] Soul land Douluo Dalu</li> 
 <li> -[ ] Space Pirate Captain Harlock</li> 
 <li> -[ ] Star Driver</li> 
