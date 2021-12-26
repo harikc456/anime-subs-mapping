@@ -370,57 +370,58 @@
 <li> -[ ] Slayers Revolution</li> 
 <li> -[ ] Slayers Try</li> 
 <li> -[ ] Sora no Method</li> 
-<li> -[ ] Sora no Otoshimono</li> 
-<li> -[ ] Sora no Otoshimono Forte</li> 
+<li> -[x] Sora no Otoshimono</li> 
+<li> -[x] Sora no Otoshimono Forte</li> 
 <li> -[ ] Sora yori mo Tooi Basho</li> 
-<li> -[ ] Soredemo Machi wa Mawatteiru</li> 
+<li> -[x] Soredemo Machi wa Mawatteiru</li> 
 <li> -[ ] Soul Eater</li> - X
 <li> -[ ] Soul land Douluo Dalu</li> 
 <li> -[ ] Space Pirate Captain Harlock</li> 
 <li> -[ ] Star Driver</li> 
 <li> -[ ] Starry Sky</li> 
 <li> -[ ] Steamboy</li> 
-<li> -[ ] Steins;Gate 0</li> 
+<li> -[x] Steins;Gate</li>
+<li> -[x] Steins;Gate 0</li> 
 <li> -[ ] Strike Witches</li> 
 <li> -[ ] Suisei no Gargantia</li> 
 <li> -[ ] Summer Wars</li> 
 <li> -[ ] Super Cub</li> 
 <li> -[ ] Suzumiya Haruhi no Yuuutsu</li> 
-<li> -[ ] Sword Art Online</li> 
+<li> -[x] Sword Art Online</li> 
+<li> -[x] Sword Art Online Alternative Gun Gale Online</li> 
 <li> -[ ] Sword Art Online II</li> 
-<li> -[ ] Sword Art Online: Alicization</li> 
-<li> -[ ] Tales From Earthsea</li> 
-<li> -[ ] Tales of Zestiria the X</li> 
+<li> -[x] Sword Art Online: Alicization</li> 
+<li> -[x] Tales From Earthsea</li> 
+<li> -[x] Tales of Zestiria the X</li> 
 <li> -[ ] Tales of the Abyss</li> 
-<li> -[ ] Tamako Love Story</li> 
-<li> -[ ] Tamako Market</li> 
-<li> -[ ] Tanaka-kun wa Itsumo Kedaruge</li> 
-<li> -[ ] Tari Tari</li> 
-<li> -[ ] Tate no Yuusha no Nariagari</li> 
-<li> -[ ] Telepathy Shoujo Ran</li> 
-<li> -[ ] Tensei Shitara Slime Datta Ken</li> 
-<li> -[ ] The Big O</li> 
-<li> -[ ] The Borrower Arrietty</li> 
-<li> -[ ] The Five Star Stories</li> 
-<li> -[ ] The Rolling Girls</li> 
+<li> -[x] Tamako Love Story</li> 
+<li> -[x] Tamako Market</li> 
+<li> -[x] Tanaka-kun wa Itsumo Kedaruge</li> 
+<li> -[x] Tari Tari</li> 
+<li> -[x] Tate no Yuusha no Nariagari</li> 
+<li> -[ ] Telepathy Shoujo Ran</li> - X
+<li> -[x] Tensei Shitara Slime Datta Ken</li> 
+<li> -[x] The Big O</li> 
+<li> -[ ] The Five Star Stories</li> - X
+<li> -[ ] The Rolling Girls</li> - X
 <li> -[ ] The Sky Crawlers</li> 
 <li> -[ ] Thermae Romae</li> 
 <li> -[ ] Toaru Kagaku no Accelerator</li> 
-<li> -[ ] Toaru Kagaku no Railgun</li> 
-<li> -[ ] Toaru Kagaku no Railgun S</li> 
-<li> -[ ] Toaru Majutsu no Index</li> 
-<li> -[ ] Toaru Majutsu no Index II</li> 
+<li> -[x] Toaru Kagaku no Railgun</li> 
+<li> -[x] Toaru Kagaku no Railgun S</li> 
+<li> -[x] Toaru Majutsu no Index</li> 
+<li> -[x] Toaru Majutsu no Index II</li> 
 <li> -[ ] Toaru Majutsu no Index III</li> 
 <li> -[ ] Tokimeki Tonight</li> 
-<li> -[ ] Tokyo Ghoul</li> 
+<li> -[x] Tokyo Ghoul</li>
+<li> -[ ] Tokyo Ghoul Root A</li> 
 <li> -[ ] Tokyo Godfathers</li> 
-<li> -[ ] Tokyo Magnitude 8.0</li> 
-<li> -[ ] Tokyo Marble Chocolate</li> 
-<li> -[ ] Tokyo Ravens</li> 
+<li> -[x] Tokyo Magnitude 8.0</li> 
+<li> -[x] Tokyo Ravens</li> 
 <li> -[ ] Tonari no Seki-kun</li> 
 <li> -[ ] Tonari no Totoro</li> 
 <li> -[ ] Toriko</li> 
-<li> -[ ] Trinity Blood</li> 
+<li> -[ ] Trinity Blood</li> - X 
 <li> -[ ] Trinity Seven</li> 
 <li> -[ ] Tsubasa Shunraiki</li> 
 <li> -[ ] Tsubasa Tokyo Revelations</li> 
