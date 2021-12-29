@@ -419,18 +419,18 @@
 <li> -[x] Tokyo Magnitude 8.0</li> 
 <li> -[x] Tokyo Ravens</li> 
 <li> -[ ] Tonari no Seki-kun</li> 
-<li> -[ ] Tonari no Totoro</li> 
-<li> -[ ] Toriko</li> 
+<li> -[x] Tonari no Totoro</li> 
+<li> -[x] Toriko</li> 
 <li> -[ ] Trinity Blood</li> - X 
-<li> -[ ] Trinity Seven</li> 
+<li> -[x] Trinity Seven</li> 
 <li> -[ ] Tsubasa Shunraiki</li> 
 <li> -[ ] Tsubasa Tokyo Revelations</li> 
-<li> -[ ] Tsugumomo</li> 
-<li> -[ ] Tsukimonogatari</li> 
-<li> -[ ] Tsuredure Children</li> 
+<li> -[x] Tsugumomo</li> 
+<li> -[x] Tsukimonogatari</li> 
+<li> -[x] Tsuredure Children</li> 
 <li> -[ ] Tsuritama</li> 
 <li> -[ ] Uchiage Hanabi (2017)</li> 
-<li> -[ ] Uchouten Kazoku</li> 
+<li> -[x] Uchouten Kazoku</li> 
 <li> -[ ] Uchuu Senkan Yamato</li> 
 <li> -[ ] Uchuu Senkan Yamato 2</li> 
 <li> -[ ] Uchuu Senkan Yamato 2199</li> 
@@ -440,8 +440,9 @@
 <li> -[ ] Ultraman Orb</li> 
 <li> -[ ] Ultraman R B</li> 
 <li> -[ ] Urara Meirochou</li> 
-<li> -[ ] Usagi Drop</li> 
-<li> -[ ] Utawarerumono</li> 
+<li> -[x] Usagi Drop</li> 
+<li> -[x] Utawarerumono</li> 
+<li> -[x] Utawarerumono Itsuwari no Kamen</li> 
 <li> -[ ] Vinland Saga</li> 
 <li> -[ ] Violet Evergarden</li> 
 <li> -[ ] Wagaya no Oinari-sama</li> 
