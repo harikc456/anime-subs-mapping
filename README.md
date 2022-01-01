@@ -443,30 +443,30 @@
 <li> -[x] Usagi Drop</li> 
 <li> -[x] Utawarerumono</li> 
 <li> -[x] Utawarerumono Itsuwari no Kamen</li> 
-<li> -[ ] Vinland Saga</li> 
+<li> -[x] Vinland Saga</li> 
 <li> -[ ] Violet Evergarden</li> 
-<li> -[ ] Wagaya no Oinari-sama</li> 
+<li> -[x] Wagaya no Oinari-sama</li> 
 <li> -[ ] Watashi Ga Motete Dou Sunda</li> 
 <li> -[ ] Whisper of the Heart</li> 
 <li> -[ ] Wonder Egg Priority</li> 
-<li> -[ ] World Trigger</li> 
-<li> -[ ] Yakusoku no Neverland</li> 
-<li> -[ ] Yamada-kun to 7-nin no Majo</li> 
-<li> -[ ] Yojouhan Shinwa Taikei</li> 
-<li> -[ ] Yokohama Kaidashi Kikou</li>  
+<li> -[x] World Trigger</li> 
+<li> -[x] Yakusoku no Neverland</li> 
+<li> -[ ] Yamada-kun to 7-nin no Majo</li> - X
+<li> -[x] Yojouhan Shinwa Taikei</li> 
+<li> -[ ] Yokohama Kaidashi Kikou</li>  - X
 <li> -[ ] Youkai Watch</li> 
-<li> -[ ] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</li> 
+<li> -[x] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</li> 
 <li> -[x] Your Name</li> 
-<li> -[ ] Yu Yu Hakusho</li> 
+<li> -[x] Yu Yu Hakusho</li> 
 <li> -[ ] Yu-Gi-Oh! 5D's</li> 
 <li> -[ ] Yu-Gi-Oh! ARC-V</li> 
-<li> -[ ] Yumekui Merry</li> 
-<li> -[ ] Yurikuma Arashi</li> 
+<li> -[x] Yumekui Merry</li> 
+<li> -[ ] Yurikuma Arashi</li> - X
 <li> -[ ] Yuru Camp</li> 
 <li> -[ ] Yuru Yuri S2</li> 
 <li> -[ ] Yuru Yuri San Hai!</li> 
 <li> -[ ] Zero kara Hajimeru Mahou no Sho</li> 
-<li> -[ ] Zero no Tsukaima</li> 
+<li> -[x] Zero no Tsukaima</li> 
 <li> -[ ] Zoids Wild</li> 
 <li> -[ ] Zoku Owarimonogatari</li> 
 <li> -[ ] ef - a tale of memories</li> 
