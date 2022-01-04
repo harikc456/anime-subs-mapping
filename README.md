@@ -24,14 +24,18 @@
  
  The common titles in both the list are shown below, the checked ones are completed
  
+
 <ul> 
 <li> -[x] 07-Ghost</li> 
 <li> -[x] 5 Centimeter Per Second</li> 
 <li> -[x] 91 Days</li> 
+<li> -[x] A.I.C.O._Incarnation</li> 
 <li> -[x] Accel World</li> 
 <li> -[ ] Acchi Kocchi</li> 
-<li> -[ ] Ai Shite Knight</li> 
-<li> -[x] Ajin</li>  
+<li> -[x] Aggretsuko</li> 
+<li> -[ ] Ai Shite Knight</li>
+<li> -[x] Ajin</li> 
+<li> -[x] Ajin S2</li>  
 <li> -[x] Akira</li> 
 <li> -[ ] Akuma no Riddle</li> 
 <li> -[x] Aldnoah Zero</li> 
@@ -467,7 +471,7 @@
 <li> -[ ] Yuru Yuri San Hai!</li> 
 <li> -[ ] Zero kara Hajimeru Mahou no Sho</li> 
 <li> -[x] Zero no Tsukaima</li> 
-<li> -[ ] Zoids Wild</li> 
+<li> -[x] Zoids Wild</li> 
 <li> -[ ] Zoku Owarimonogatari</li> 
 <li> -[ ] ef - a tale of memories</li> 
 </ul>
