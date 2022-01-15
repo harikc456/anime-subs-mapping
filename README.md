@@ -37,19 +37,24 @@
 <li> -[x] Ajin</li> 
 <li> -[x] Ajin S2</li>  
 <li> -[x] Akira</li> 
+<li> -[x] Akarsuki no Yona</li> 
 <li> -[ ] Akuma no Riddle</li> 
 <li> -[x] Aldnoah Zero</li> 
 <li> -[x] Amaama to Inazuma</li> 
 <li> -[x] Amagami SS</li> 
 <li> -[x] Amagami SS Plus</li> 
-<li> -[ ] Amagi Brilliant Park</li> 
+<li> -[ ] Amagi Brilliant Park</li>
+<li> -[x] Angel Beats</li> 
+<li> -[x] Anohana Movie</li> 
 <li> -[x] Ano Natsu de Matteru</li> 
 <li> -[x] Another</li> 
 <li> -[ ] Ao no Kanata no Four Rhythm</li> 
 <li> -[x] Aoharu x Kikanjuu</li> 
 <li> -[ ] Aoi Hana</li> 
 <li> -[x] Appleseed</li> 
-<li> -[x] Arakawa Under the Bridge</li> 
+<li> -[x] Arakawa Under the Bridge</li>
+<li> -[x] Arakawa Under the Bridge x Bridge</li> 
+<li> -[x] Arslan Senki</li>
 <li> -[x] Assassination Classroom</li> 
 <li> -[x] Baccano!</li> 
 <li> -[x] Baka to Test to Shoukanjuu</li> 
@@ -58,16 +63,24 @@
 <li> -[x] Bakuman Season 3</li> 
 <li> -[x] Barakamon</li> 
 <li> -[x] Beelzebub</li> 
-<li> -[ ] Berserk</li> 
+<li> -[x] Berserk The Golden Age Arc</li> 
 <li> -[x] Betterman</li> 
 <li> -[x] Black Bullet</li> 
 <li> -[ ] Black Jack Final</li> 
 <li> -[ ] Black Lagoon</li> 
+<li> -[x] Blame</li>
+<li> -[x] Blazing Transfer Student</li>
 <li> -[ ] Bleach</li> 
 <li> -[x] Boku dake ga Inai Machi</li> 
 <li> -[x] Bokurano</li> 
+<li> -[x] Bokura wa Minna Kawaisou</li> 
+<li> -[x] Boku no Hero Academia</li> 
 <li> -[ ] Bokutachi wa Benkyou ga Dekinai</li> 
+<li> -[x] Boku wa Tomodachi ga Sukunai</li> 
+<li> -[x] Boku wa Tomodachi ga Sukunai Next</li> 
 <li> -[ ] Btooom!</li> 
+<li> -[x] Bungou Stray Dogs S1</li>
+<li> -[x] Bungou Stray Dogs S2</li> 
 <li> -[x] Busou Renkin</li> 
 <li> -[x] Busou Shoujo Machiavellianism</li> 
 <li> -[x] Campione!</li> 
@@ -82,6 +95,9 @@
 <li> -[x] Classroom Crisis</li> 
 <li> -[x] Claymore</li> 
 <li> -[x] Clockwork Planet</li> 
+<li> -[x] Code Geass Akito the Exiled</li>
+<li> -[x] Code Geass R1</li>
+<li> -[x] Code Geass R2</li> 
 <li> -[x] Cowboy Bebop</li> 
 <li> -[ ] Cross Game</li> 
 <li> -[x] D-Frag!</li> 
@@ -98,13 +114,15 @@
 <li> -[x] Diabolik Lovers More, Blood</li> 
 <li> -[x] Digimon Adventure</li> 
 <li> -[x] Domestic na Kanojo</li> 
-<li> -[ ] Doraemon</li> 
+<li> -[ ] Doraemon</li>
+<li> -[x] Dororo</li> 
 <li> -[x] Dr. Stone</li> 
 <li> -[ ] Dragon Ball</li> 
 <li> -[ ] Dragon Ball Kai</li> 
 <li> -[ ] Dragon Ball Super</li> 
 <li> -[ ] Dragon Ball Z</li> 
 <li> -[x] Drifters</li> 
+<li> -[x] Durarara!!</li> 
 <li> -[x] EVE no Jikan</li>  
 <li> -[x] Eureka Seven</li> 
 <li> -[x] Eureka Seven AO</li> 
@@ -112,6 +130,7 @@
 <li> -[x] Fate Apocrypha</li> 
 <li> -[x] Fate Stay Night</li> 
 <li> -[x] Fate Zero</li> 
+<li> -[x] Final Fantasy VII Advent Children</li> 
 <li> -[x] Fractale</li> 
 <li> -[x] Free!</li> 
 <li> -[x] Freedom</li> 
@@ -124,14 +143,18 @@
 <li> -[x] Fullmetal Alchemist Conqueror of Shamballa</li>  
 <li> -[x] Gakkou Gurashi!</li> 
 <li> -[x] Galilei Donna</li> 
-<li> -[x] Gantz</li> 
+<li> -[x] Gantz</li>
+<li> -[x] Gate Jietai Kanochi nite Kaku Tatakaeri</li> 
 <li> -[x] Genshiken Nidaime</li> 
 <li> -[x] Ghost Sweeper Mikami</li> 
 <li> -[x] Ghost in the Shell (1995)</li>
+<li> -[x] Ghost in the Shell The New Movie</li> 
 <li> -[x] Ghost in the Shell 2: Innocence</li> 
-<li> -[x] Ghost in the Shell Arise</li> 
+<li> -[x] Ghost in the Shell Arise</li>
+<li> -[x] Giant Killing</li> 
 <li> -[x] Ginban Kaleidoscope</li> 
-<li> -[ ] Gintama</li> 
+<li> -[x] Gintama</li> 
+<li> -[x] Girls Und Panzer Der Film</li> 
 <li> -[x] Glass no Hana to Kowasu Sekai</li> 
 <li> -[x] Goblin Slayer</li> 
 <li> -[x] Golden Kamuy</li> 
@@ -143,7 +166,9 @@
 <li> -[x] Hachimitsu to Clover</li> 
 <li> -[x] Hachimitsu to Clover II</li> 
 <li> -[x] Hai to Gensou no Grimgar</li> 
-<li> -[x] Haikyuu</li> 
+<li> -[x] Haikyuu S1</li>
+<li> -[x] Haikyuu S2</li>
+<li> -[x] Haikyuu S3</li> 
 <li> -[x] Haiyore! Nyaruko-san W</li> 
 <li> -[ ] Hajime no Ippo</li> 
 <li> -[ ] Hajime no Ippo Champion Road</li> 
@@ -153,7 +178,8 @@
 <li> -[x] Hanayamata</li> 
 <li> -[x] Hanzawa Naoki</li> 
 <li> -[x] Harmonie</li> 
-<li> -[x] Harmony</li>  
+<li> -[x] Harmony</li> 
+<li> -[x] Hataraku Maou-sama!</li>  
 <li> -[ ] Hayate no Gotoku!!</li> 
 <li> -[x] Heavy Object</li> 
 <li> -[x] Hellsing</li> 
@@ -170,11 +196,14 @@
 <li> -[ ] Hikaru no Go</li> 
 <li> -[x] Himouto! Umaru-chan</li> 
 <li> -[x] Hinomaruzumou - Hinomaru Sumo</li> 
-<li> -[x] Hourou Musuko</li> 
+<li> -[x] Hourou Musuko</li>
+<li> -[x] Hoshi wo Ou Kodomo</li>
+<li> -[x] Howls Moving Castle</li> 
 <li> -[x] Hyouka</li> 
 <li> -[x] ID-0</li> 
 <li> -[x] Ichiban Ushiro no Daimaou</li> 
 <li> -[x] Idoly Pride</li> 
+<li> -[x] Initial D Fifth Stage</li>
 <li> -[ ] InuYasha</li> 
 <li> -[x] Inukami!</li> 
 <li> -[ ] Inuyashiki</li> 
@@ -194,10 +223,13 @@
 <li> -[x] Jujutsu Kaisen</li> 
 <li> -[ ] K</li> 
 <li> -[ ] Kaiba</li> 
+<li> -[x] Kaiji S1</li> 
+<li> -[x] Kaiji S2</li> 
 <li> -[x] Kakegurui</li> 
 <li> -[x] Kami nomi zo Shiru Sekai</li> 
 <li> -[x] Kami nomi zo Shiru Sekai S2</li> 
 <li> -[x] Kami nomi zo Shiru Sekai S3</li> 
+<li> -[x] Kamisama Hajimemashita</li> 
 <li> -[ ] Kantai Collection</li> 
 <li> -[ ] Kappa no Coo to Natsuyasumi</li> 
 <li> -[ ] Kara no Kyoukai</li> 
@@ -217,9 +249,12 @@
 <li> -[x] Kizumonogatari</li> 
 <li> -[x] Kobato</li> 
 <li> -[x] Kobayashi-san Chi no Maid Dragon</li> 
+<li> -[x] Koe no Katachi</li> 
 <li> -[x] Kokoro Connect</li> 
+<li> -[x] Kokoro ga Sakebitagatterunda</li> 
 <li> -[x] Kono Sekai no Katasumi ni</li> 
 <li> -[x] Kono Subarashii Sekai ni Shukufuku wo!</li> 
+<li> -[x] Kotonoha no Niwa</li> 
 <li> -[x] Koukaku Kidoutai Stand Alone Complex</li> 
 <li> -[x] Koukaku no Regios</li> 
 <li> -[x] Kuiba</li> 
@@ -241,19 +276,21 @@
 <li> -[ ] Lupin III Part III</li> 
 <li> -[ ] Macross Frontier</li> 
 <li> -[ ] Macross Plus</li> 
+<li> -[x] Made in Abyss</li> 
 <li> -[x] Magi Labyrinth of Magic</li>
 <li> -[x] Magi Kingdom of Magic</li> 
-<li> -[ ] Mahou Shoujo Lyrical Nanoha StrikerS</li> 
+<li> -[ ] Mahou Shoujo Lyrical Nanoha StrikerS</li>
+<li> -[x] Mahoutsukai_no_Yome</li> 
 <li> -[x] Mahouka Koukou no Rettousei</li> 
 <li> -[x] Mairimashita! Iruma-kun</li> 
 <li> -[ ] Maison Ikkoku</li> 
 <li> -[ ] Major</li> 
 <li> -[x] Maoyuu Maou Yuusha</li> 
-<li> -[ ] Mardock Scramble</li> 
 <li> -[x] Marmalade Boy</li> 
 <li> -[x] Mawaru Penguindrum</li> 
 <li> -[ ] Mazinger Z</li> 
-<li> -[x] Mikakunin de Shinkoukei</li> 
+<li> -[x] Mikakunin de Shinkoukei</li>
+<li> -[x] Mirai no Mirai</li> 
 <li> -[x] Mitsuboshi Colors</li> 
 <li> -[x] Mob Psycho 100</li> 
 <li> -[x] Mob Psycho 100 II</li> 
@@ -268,11 +305,13 @@
 <li> -[x] Moyashimon Returns</li> 
 <li> -[x] Musaigen no Phantom World</li> 
 <li> -[x] Mushishi</li> 
+<li> -[x] Mushibugyo</li> 
 <li> -[ ] Mushishi Zoku Shou</li> 
 <li> -[x] Nagasarete Airantou</li> 
 <li> -[x] Nagato Yuki-chan no Shoushitsu</li> 
 <li> -[x] Nagi no Asukara</li> 
 <li> -[x] Nande Koko ni Sensei ga!?</li> 
+<li> -[x] Nanatsu no Taizai</li> 
 <li> -[ ] Naruto</li> 
 <li> -[ ] Naruto Shippuuden</li> 
 <li> -[ ] Natsume Yuujinchou</li> 
@@ -286,21 +325,28 @@
 <li> -[x] Noragami Aragoto</li> 
 <li> -[x] Nourin</li> 
 <li> -[ ] Nurarihyon no Mago</li> 
+<li> -[ ] Nyan Koi!</li> 
 <li> -[x] Occultic;Nine</li> 
-<li> -[ ] One Piece</li> 
+<li> -[ ] One Piece</li>
+<li> -[ ] One Punch Man</li> 
 <li> -[ ] One Room</li> 
 <li> -[x] Ookami Kakushi</li> 
 <li> -[x] Ookami-san to Shichinin no Nakama-tachi</li> 
 <li> -[ ] Ore no Kanojo to Osananajimi ga Shuraba Sugiru</li> 
 <li> -[x] Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru</li> 
 <li> -[x] Orenchi no Furo Jijou</li> 
+<li> -[ ] Ouran Koukou Host Club</li> 
 <li> -[x] Overlord S2</li> 
 <li> -[x] Overlord S3</li> 
 <li> -[x] Owari no Seraph</li> 
 <li> -[ ] Owarimonogatari</li> 
 <li> -[ ] Pandora Hearts</li> 
+<li> -[ ] Phi_Brain Kami no Puzzle S1</li> 
+<li> -[ ] Phi_Brain Kami no Puzzle S2</li> 
+<li> -[ ] Phi_Brain Kami no Puzzle S3</li> 
 <li> -[ ] Piano no Mori</li> 
 <li> -[ ] Planetarian ~Chiisana Hoshi no Yume~</li> 
+<li> -[ ] Ping Pong The Animation</li> 
 <li> -[ ] Pokemon</li> 
 <li> -[ ] Pokemon XY</li> 
 <li> -[ ] Pop Team Epic</li> 
@@ -309,6 +355,8 @@
 <li> -[ ] Pretty Rhythm Rainbow Live</li> 
 <li> -[x] Princess Principal</li> 
 <li> -[ ] Prison School</li> 
+<li> -[ ] Psycho-Pass S1</li> 
+<li> -[ ] Psycho-Pass S2</li> 
 <li> -[ ] Psycho-Pass The Movie</li> 
 <li> -[x] Pupa</li> 
 <li> -[x] Rainbow days</li> 

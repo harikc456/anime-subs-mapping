@@ -21,10 +21,11 @@ I have to go home before night fall or else...,夜が来る前に帰らんと �
 You'll see soon enough.,まあ 見とりんさい,Well watching,0.0
 What is that? Take a look!,こりゃ 何じゃろうか？ のぞいてみて,What is it?Let's go,0.25
 Too bad he'll miss supper.,こいつも 晩ご飯がのうなって気の毒じゃ,This is also a pit of being a dinner,0.0
-I'm sure I was daydreaming again,じゃけえ あの日のことも きっと 昼間見た夢じゃったに違いない,It must have been a dream that I saw the day of the day.,0.05555555555555555
+Hey! Keep it down!,こりゃ！ うるさい,!noisy,0.16666666666666666
 "The sea was just here last night,",ゆんべの海 こんなじゃったのに,"Yunbe Sea, though",0.2
 but now it's all gone with the spring tide.,大潮の今朝ときたら こうじゃ,Oto's at the morning of this morning,0.125
 Crossing the sea all on our own! First time ever! This is fun!,子供だけで海渡るの 初めてじゃ 楽しいね,It is fun for the first time of the sea with only children,0.3
+"I'll greet our uncle, aunt and grandma in Kusatsu first.",ええか “草津のおじちゃん おばちゃん”,"Yeah or ""Kusatsu's uncle-chan Aunt""",0.10526315789473684
 "I'll say ""Our parents will join us later.""",“お父さんらは 町へ寄るけえ遅うなります”,"""Father will be late to town""",0.17647058823529413
 I wanna hold the watermelon!,ああ すみがスイカ持つ,Amazuma has watermelon,0.1111111111111111
 Hey! There's no time to play around!,ほれ 遊びよる暇なかろうが,I'm going to play my spare time,0.21428571428571427
@@ -32,7 +33,6 @@ My brother was quite the stern type.,お兄ちゃんは なかなか厳しい人
 Good morning...,おはようございます,good morning,0.6666666666666666
 Our parents will...,父と母は… え～,Father and Mother ... Eh ~,0.1111111111111111
 Please...,スイ… キャッ,Sweet ... Cat,0.25
-You look so pretty.,ほうほう べっぴんさんじゃ,Hoho Beppin,0.0
 It's tough.,いやあ 難しいですわい 港を造るからって… のう,"No, it is difficult to build a port ...",0.07692307692307693
 Is that so?,ほうですか,Is it better?,0.3333333333333333
 "There are ups and downs,",いろいろあるが―,There are various things-,0.25
@@ -81,10 +81,8 @@ But marrying close to home isn't very exciting.,あんまり近いんは夢が�
 "Suzu, how old are you?",すずちゃん あんた いくつになった？,Singles have you been there?,0.18181818181818182
 "I'm about 19... Well actually, 18.",19… 満で18,19 ... 18 full,0.2727272727272727
 "You can always turn him down, but at least go and meet him.",気に入らにゃ断りゃええんよ ちいと会うてきてみんさい,I'm going to get in touch with me to meet you,0.08695652173913043
-"Suzu, come here a bit.",すずちゃん ちょっとおいで,I'm a little good at Suzu-chan,0.07692307692307693
 I want you to have this. I made it for the day you wed.,いずれ あんたの嫁入りの時 思うてね,Anyway I think when I was brillior,0.05555555555555555
 I hope it'll work out for you.,ええがに決まりゃええのう,Yeah is decided,0.0
-Thank you.,ありがとう,Thank you,0.6666666666666666
 The wedding will be in their house in Kure.,ほんでのう 向こうの家で祝言挙げるじゃろ,Let's celebrate at the home of the way,0.0625
 "Then he will ask, ""Can I open it?""",ほいで“差してもええかいの” 言われたら,"If you say ""even if you add it""",0.17647058823529413
 But why?,えっ なんで？ なんでもじゃ,What is it?Anywhere,0.14285714285714285
@@ -137,6 +135,7 @@ I'll see you around.,また来ますけえ,I will come again,0.1111111111111111
 "Wait... who was that, again?",ええっと 誰じゃったっけ？,Yes? Who is it?,0.18181818181818182
 "Mom, Dad, it's an honor to be part of your family.",お義父さん お義母さん 末永うお世話になります,Father-in-law's mother-in-law Thank you for your support,0.1
 The honor is ours.,いえのう こちらこそ,Nohou here,0.0
+"I have a bad leg so,",私ゃ 足を痛めてましてのう,I'm hurting my feet,0.09090909090909091
 "I'm counting on you, Suzu.",よろしゅうね すずさん,Yosuzu Szu,0.0
 Right! She's the daughter who got married.,はあ ありゃあ お嫁に 行きんさった お義姉さんでしたか,"Oh, was it a sister-in-law that I went to my daughter-in-law?",0.0
 Naval ships are doing search light drills.,軍艦の照射訓練じゃ わあ,Warship irradiation training,0.0
@@ -153,7 +152,6 @@ I also remember your beauty mark.,ほいで昔も ここへ ほくろがあっ�
 We share the neighborhood well.,井戸はね 下に隣保で 共同のんがあって ほいで…,"Well, I'm jointed in the next indivation below ...",0.13333333333333333
 What might be the address of this house?,ここって呉市の 何町の何番ですか？,How many towns of Sakai City here?,0.13333333333333333
 Everyone around here seems to work for the Navy.,この辺は皆 海軍さんに お勤めなのかしらねえ,All this area works for the navy,0.21428571428571427
-Mrs. Houjo?,北条さん,Mr. Hojo,0.0
 You're eyeballing it!,目分量いうんじゃ あんたのは,I'm going to go,0.0
 You and your ways.,あんたのそういうとこが いけんのでえ,I'm sorry for that kind of cousin,0.0
 first you must timely counter and neutralize...,必要となるのは 一に機転の利いた 処置でありますが これは…,"It is a good action that you need to do, but this is ...",0.1
@@ -188,7 +186,7 @@ Put in a waistband and I'm done!,ゴムを通せば 出来上がり よしよし
 Will this do?,あっ これでええですか？,Oh yeah yeah?,0.16666666666666666
 "Yes, to get rations.",はい 配給所へ,Yes to distribution,0.2857142857142857
 I'll go. Hand me your ration coupon and wallet.,私が行ったげよう 配給切符とお財布 貸し,I went to the delivery ticket and the wallet lending,0.17647058823529413
-Welcome home.,おかえりなさい,welcome home,0.6666666666666666
+Welcome home.,おかえりなさい,Welcome back,0.25
 "Hey, Mom!",ねえ お母ちゃん,Hey Mother,0.2
 "I'm coming. What is it, dear?",よっこら… はいはい,Yes ... yes yes,0.0
 What should we do for soup?,何ね？ おつゆの実じゃけどね,What is it?The fruit of the guy,0.15384615384615385
@@ -208,6 +206,7 @@ I should think about going back to Hiroshima.,ほいで お義姉さんが 広�
 I was puzzled at first.,何のことじゃろ思たんじゃけど…,What's wrong?,0.0
 "Oh, to visit my family!",あっ！ 里帰り ああ？,Ah!Hometown ah?,0.1
 Then my in-laws apologized,ほしたら お義父さん お義母さんも―,"If you want, father-in-law is also a mother-in-law-",0.0
+for not letting me come visit sooner.,“今まで気が利かんで 悪かったのう”,"""I wondered if I had a bad idea to now""",0.0
 They told me to relax for a couple of days.,“２～３日ゆっくりしておいで” 言うてくれんさって,"""2-3 days slowly and saying""",0.058823529411764705
 "Uh, if that's what you want, isn't that nice?",あんたが それでええいうなら よかとじゃない,If you're yeah if you,0.14285714285714285
 - You too? - Nothing.,うちへも？ うん,Is it home?Yes,0.1
@@ -217,9 +216,9 @@ It must be a dangerous job.,危ない仕事なん？ 大変なね,Is it dangerou
 It's not as cold as harvesting seaweed.,ほいでも のりの仕事ほど 寒ないし ええこともあるよ,It may be so cold as the work of the sea,0.2
 A handsome high-ranking officer slips me his meal tickets.,美男子の将校さんが こっそり食堂の食券くれたりね,The Beauty Men's officer secretly cafeteriac food ticket,0.05555555555555555
 I think I just accidentally learned some Army secret!,思いがけず 陸軍の機密 知ってしもうた,I'm unexpectedly I knew the confidentiality of the Army,0.13333333333333333
+How about you? Do you like Kure?,すずちゃんこそ どうなん？ 呉って ええとこ？,What is Suzu-chan?Somehow he is yeah?,0.07692307692307693
 I don't know yet. There's so much to learn.,うーん 覚えることだらけで まだ何とも,"Well, I'm full of things",0.05555555555555555
 - What? - Good night!,な… 何？ もう寝よ,... what?Go to bed already,0.18181818181818182
-You're getting a bald spot.,ハゲが できとるよ,Bald can be done,0.1
 Bye Suzu! I'm off to work.,じゃあね すずちゃん いってまいります,Well then I will come,0.07692307692307693
 Emergency policies start next month.,決戦非常措置じゃけえ,Decisive battle Emergency measures,0.1111111111111111
 Even short travels will be restricted.,月が替わったら 短い旅行も制限になるいうけ,"If the moon is replaced, short trips will be limited",0.2
@@ -251,12 +250,12 @@ born from the Orient's greatest shipyard.,東洋一の軍港で生まれた 世�
 "About 2,700 people.",ざっと2700人,2700 people,0.2
 Two thousand...,2700人…,2700 people ...,0.2
 That's right. Let's welcome them to Kure.,そうじゃ 呉へおかえり 言うたってくれ すずさん,"Well, I would like to say welcome to",0.13333333333333333
-So you knew...,バレとりましたか,Did you go?,0.14285714285714285
 Can I borrow the ink brush? I want to paint Suzu's head.,ねえ 筆貸して すずさんの頭に墨塗ってあげるのん,Neither lining the brush to be charged in the head of Tsuzu,0.19047619047619047
 "Soon, Keiko left and went back to her late husband's family,",そのうち お義姉さんも お嫁入り先へ帰っていきんさって,"Among them, my sister-in-law is also back to the bride.",0.13636363636363635
 so I thought-- all right! now it's my turn to cook!,さあ ほいじゃ うちがご飯の支度を と思うた時にゃ―,When I think that I am ready for rice,0.047619047619047616
 "But by then, rationing became much worse.",配給がだいぶ減っとった,Distribution has led by a lot,0.07142857142857142
 Four dried sardines for three meals for a family of four.,いわしの干物４匹で 一家４人の３食分,Four 4 meals of one house with 4 dried fish,0.26666666666666666
+"It's still better then just being given vegetable leafs,",まあ 菜っ葉だけの日より ましではあるし―,It is more than the day of the loba only-,0.05263157894736842
 and maybe I can buy some soy pulp.,こけえ並んどったら そのうち卯の花も買えるじゃろ,I can buy a flower of the wolf,0.21428571428571427
 "Potatoes, sweet potatoes, flour and pickled plum pits.",馬鈴薯 お芋 小麦粉 梅干しの種,Potato flour plum dried seeds,0.16666666666666666
 Cut and steam a sweet potato.,さつまいもを切りて 蒸す,Cut the sweet potato and steam,0.625
@@ -296,8 +295,9 @@ The family will move to Shimonoseki.,ほいで 家ごと 下関 行くことに�
 There will be more of us now.,入る人数が多なったんじゃけえ,The number of people entering,0.08333333333333333
 Like this?,うん こうですか？,Is it good?,0.16666666666666666
 I heard them over Mt. Haigamine.,昨日は灰ヶ峰の上でも やっとったね,Yesterday I was also on the Seishigamine,0.07692307692307693
+Big guns even up there?,あげなとこにも大砲来たんじゃね,"It was a big funny, and it came to",0.07142857142857142
 Things are getting more precarious.,いよいよ物騒な,Finally noisy,0.0
-Thank you for helping us.,ありがとうございました,thank you very much,0.25
+Thank you for helping us.,ありがとうございました,thank you,0.3333333333333333
 What a fine bomb shelter.,まあ ええ防空壕が 出来上がったこと,"Well, no anti-air blower was completed",0.0
 It is.,ええ よし,Yeah,0.0
 even with all that overtime.,残業続きなんに 張り切りんさったけえね,I'm going to overtime work,0.09090909090909091
@@ -319,7 +319,6 @@ It causes heavy rain.,大雨になります ハァ… えっ！,It will be heavy
 Thanks.,おお すまん すまん,Omorse,0.0
 Did you teach Harumi about warships?,晴美さんから聞きました,I heard from Harumi,0.1
 I didn't teach Harumi. Hi-bo taught her.,晴美に教えたんは わしじゃない ひー坊じゃ,Harumi taught me,0.2
-He?,ひ？ うん,fire?Yes,0.25
 "Is his name Hisao, as etched here?",このヒサオいう人？,A person who is jealousy?,0.15384615384615385
 "I can't believe I'm here, doing this with him.",こんなことしとる うち この人と,While this kind of thing,0.0625
 Let's go while it's only a drizzle.,よし 小降りになったのう,Good luck,0.0
@@ -394,12 +393,14 @@ A box of caramel could cost more than 100 yen.,キャラメルやなんかも 10
 How will we survive in a country like that?,そんとな国で 生きていけるんかね,I can live in a country,0.23076923076923078
 Naganoki? The naval cemetery?,ん？ 長ノ木？ 海軍墓地のある？,Yeah?Nagano wood?Is the naval cemetery?,0.4444444444444444
 It's that way.,ああ あっち こっちよね？,"Oh, right?",0.0
+I'm sorry.,あっ ごめん,Rash,0.0
 Even though you're a grown-up?,大人なのに？ どっから来んさったん？,What is an adult?What did you come?,0.15384615384615385
 Where did you come from?,長ノ木,Long tinch,0.0
 and everyone smells very nice.,みんな あんとに ええ匂いさせて ここは竜宮城か何かかね？,Everyone smells well and here is the Ryumiya Castle or something?,0.2
 you turn that corner and go down to the post office...,長ノ木なら角を曲がって 郵便局まで下りて ほいで…,"If it is Nagano wood, it bends the corner and goes down to the post office ...",0.4
+Wait here.,待っとってね,Welcome,0.0
 Go straight and turn right when you pass the post office.,ここ行って これを出て,Go here and leave this,0.13333333333333333
-Thank you so much.,ありがとうございます,thank you,0.4
+Thank you so much.,ありがとうございます,Thank you,0.4
 People around here are not well informed.,ここいらの人は 皆 不案内なけえね,Everyone here is not aware of,0.16666666666666666
 Most of us aren't locals and we stay within these gates.,ほとんどが よそ者じゃし この門を出もせんし,Most of the people are especially the gate,0.17647058823529413
 Are you also from South Hiroshima? Near the ocean?,あんたも広島の南の… 海のほう？,Ann and Hiroshima south ... the sea?,0.2857142857142857
@@ -412,10 +413,8 @@ Mint candy and bracken dumpling!,はっか糖 わらび餅,Halbrel whari,0.0
 "Sorry, I have to go.",ごめん やっぱし もう行かんと,I'm sorry I'm already going,0.2
 I'll come back another time with more drawings.,ああ ほいじゃ 今度描いてきますよ,Oh I'm drawing this time,0.14285714285714285
 Don't. you shouldn't come back here.,ええよ こんなとこへは さいさい来るもんじゃない,Yeah Yayo This is not coming,0.0
-What took you so long?,遅いわ 市場行ったいうけ 帰り道 間違うとるんか思うたわ,I think I'm late for the market I think I'm going to go home,0.0
 Well. It's sweet and cold.,そりゃ あんた 甘うて 冷うて,That's right sweet and cold,0.4444444444444444
 You eat it with a crispy cracker.,サクサクのおせんべいみたいんで すくうて食べて,Succeeded and eaten,0.0
-Thinking about desserts makes water taste sweet.,久しぶりに甘いもんの話 しようたら,When I will talk to sweet monkeys after a long time,0.05555555555555555
 It's still very hot.,まだまだ暑い,Still hot,0.3333333333333333
 Yes? A phone call for me?,はい うちにですか？,Yes?,0.2857142857142857
 "Ah, this is what he wants.",あっ これこれ,"Oh, this",0.2222222222222222
@@ -435,7 +434,7 @@ Sailors need their break.,ここは まあ譲らんとの,This is a good idea,0.
 We'll go another time.,残念なが またにするか,Unfortunately,0.0
 became a sailor. what if i bump into him?,会うたら どうしよう思うて,I think about what to do when I meet,0.11764705882352941
 I might wake from this dream if I met someone from my past.,昔 知っとった人に 今 会うたら―,When I meet now for a long time ago-,0.05
-"Dream? changing my name and moving was hard for me,",住むとこも名字も変わって 困ることだらけじゃが―,"If you live, the last name is also unusual, it's full of trouble?",0.12
+"Changing my name and moving was hard for me,",住むとこも名字も変わって 困ることだらけじゃが―,"If you live, the last name is also unusual, it's full of trouble?",0.08333333333333333
 but you're so kind to me. And I've made friends.,ほいでも周作さんに 親切にしてもろうて,I would like to be kind to my behavior,0.16666666666666666
 I don't want to wake up because I'm happy to be who I am today.,うん 今覚めたら面白うない,Yeah I won't feel interesting,0.10526315789473684
 "The past and the paths we did not choose,",過ぎたこと 選ばんかった道,The way that I had chosen,0.07142857142857142
@@ -507,6 +506,7 @@ Is he four years older?,４つ上かいのう,Four more,0.14285714285714285
 "They were ordinary choices,",全部 当たり前のことじゃのに―,It is a matter of course of everything-,0.0
 "but somewhere along the way, I derailed from the ordinary.",わしはどこで人間の当たり前から 外されたんじゃろうかのう,Wow where it was removed from the human being,0.1111111111111111
 That's why... i'm relieved to see that you haven't changed.,じゃけえ ここで 普通でおる すずを見て安心した,I was relieved to see the normally sparrow here,0.21052631578947367
+So don't revere me when I'm gone.,わしは英霊呼ばわりは 勘弁じゃけえ,I'm sorry for the English spirit call,0.125
 Smile when you think of me.,わしを思い出すなら 笑うて思い出してくれ,Remember to laugh if you remember,0.09090909090909091
 I want you to stay ordinary and sane in this world,お前だけは最後まで この世界で 普通で まともでおってくれ,You just only be in this world until the end,0.23529411764705882
 until the end.,すず うん？,What is it?,0.0
@@ -530,7 +530,6 @@ You're going the wrong way again.,また道 間違えよってから こっち�
 "I said, I know!",分かっとりますて！,I understand!,0.3333333333333333
 It snowed a lot that winter.,その冬は雪が多うて―,The winter has more snow-,0.09090909090909091
 I couldn't wait for spring to come.,春が待ち遠しかった,Spring was awaited,0.09090909090909091
-More vivid than indigo,♪「空の神兵」,"♪ ""Empty Soldier""",0.0
 Really? School isn't scary?,ほんま？ 学校 怖ないん？,true?Don't you scary school?,0.4444444444444444
 "It's not. You'll make friends, too.",うん 今はお友達おらんでも,"Yeah, now your friends",0.15384615384615385
 "I didn't know anyone here at first,",ほれ うちもここへ来た時は 一人ぼっちじゃったけど,"When I came here, I was alone",0.23076923076923078
@@ -544,6 +543,7 @@ Can you hear that?,鳴らしとるのう え？,Don't ring it?,0.111111111111111
 "That's why we work day and night at the factory,",わしらが日夜 工場で働くんは―,Worse works at the day and night factory-,0.3333333333333333
 to improve their efficiency.,あれを歩留まりよう 仕上げるためじゃ,I'm going to finish it,0.1
 We've come a long way from the Type 91500 horsepower engines.,九一式五〇〇馬力から始めて ここまできたかのう,I wonder if I started here for the beginning of the horsepower,0.09523809523809523
+A unified determination and goal...,♪ 全力集中一念に,♪ On a single intensive,0.1
 What about their engines?,ねえ 敵は何馬力なん？,Hey enemies What is the enemy?,0.2
 What's their horsepower?,ねえ 敵は何馬力…,Hana enemy is ...,0.0
 "I know you worked all night,",そりゃ 夜勤明けじゃし この陽気じゃし,It is a night shift,0.09090909090909091
@@ -573,6 +573,7 @@ It's wrapped up there.,風呂敷の中身じゃ,In the contents of the bathroom,
 I'll go to Navy training and won't be back for 3 months.,今度は軍人じゃから 海兵団で訓練される,"This time, it is trained by the Marineji from the soldier",0.0
 Will you come back after training?,その後は 戻ってこられるんですか？,Do you want to go back after that?,0.3333333333333333
 but you can protect this house all on your own.,誰も男がおらん このうちを 守り切れるんかのう,A man is a guy who falls out of these,0.0
+I can't! That's impossible.,無理です 絶対 無理！,It is impossible absolute impossible!,0.18181818181818182
 I'm sorry. I lied.,ごめんなさい ウソです,I'm sorry I'm sorry,0.6
 I'm so fond of you.,うち あんたが好きです,I like it,0.1111111111111111
 But I might forget your face after 3 months without you.,ほいでも 三月も会わんかったら 顔も忘れてしまうかもしれん,"If you meet again March, you may forget your face",0.2222222222222222
@@ -604,7 +605,7 @@ Hiro Arsenal closed down,広廠も閉庁したし,Hirozan also closed,0.16666666
 Did you know that Yamato sunk?,すずさん 大和が沈没したげな,Suzu Yamato is sinking,0.1
 The Seto Inland Sea is no longer ours.,わしらの海じゃ のうなってしもうたけえ,It's a water's sea,0.07692307692307693
 Which means the white rabbit are...,ほいじゃ 波のウサギも もう…,The rabbit of the waves is already ...,0.2727272727272727
-- What? - Nothing.,うん？ いえ,Yes?House,0.14285714285714285
+- What? - Nothing.,うん？ いえ,Yes?home,0.14285714285714285
 that Harumi should go live with the Kuromuras. It's safer.,黒村のご両親がたへ 晴美を疎開さしてもらえと,If the parents of Kurimura are sparsely sparsely,0.05555555555555555
 I want to tell my brother which ships I saw here.,何の船がおりんさったか お兄さんに教えてあげるん,What ships will be taught for your brother?,0.1111111111111111
 Not sure if we can see them from there.,ええ～ 見えるかねえ,Yeah ~ I can see,0.15384615384615385
@@ -629,9 +630,9 @@ Craters of unexploded bombs are small...,不発弾の漏斗孔は かなり小�
 "Watch out, Harumi!",はっ！ 危ない！ 晴美ちゃん,Hey!Dangerous!Harumi-chan,0.125
 "She warned me many times, but somehow I did marry...",思えば 何べんも言われたが―,"If you think, everyone was said-",0.05555555555555555
 I wish there had been a ditch to jump into.,あの道に溝でもあったら 飛び込めたのに,I jumped into that road if I was a groove,0.17647058823529413
+I held my bag with my left hand.,左手に風呂敷包み,Bath wrapping on the left hand,0.16666666666666666
 I held Harumi with my right hand.,右手に晴美さん,Harumi on the right hand,0.3
 If only I had it the other way around.,反対じゃったらよかったのに,I wish I was opposed,0.07692307692307693
-"If I had at least run barefoot,",せめて ゲタを脱いで走っておれば,If you take off your gaet at least,0.23076923076923078
 We may have made it over the hill... What was there anyway?,坂の向こう,Over the slope,0.13333333333333333
 That's the Tone and that's the Hyuga.,あれは利根 こっちは日向よ,That is the Tokone Kuch,0.2
 "Look, Mommy. It's the Yamato.",お母さん 大和がおってじゃ,My mom Yamato,0.1
@@ -657,11 +658,13 @@ Enemy aircraft in Hiroshima Bay.,23時50分 敵機は広島湾に２目標,23:50
 "There's so many of them, but can't see anything.",ほうほう ようけ来とってじゃ 姿は見えんが,I'm looking forward to seeing you,0.0
 Are those parachute flares?,あれが照明弾かね？,That's the lighting bullet?,0.1
 "Suzu, what are you doing? Hurry!",すずさん！ 何しとるん 早よ！,Sex!What is it!,0.16666666666666666
+One dropped here?,すずさん 落ちたかね,I wonder if I fell,0.0
 Another northbound via Bungo Channel.,さらに豊後水道を 北進する１編隊,"In addition, one part-to-go",0.0
 Three are confirmed in the seas south of Ashizuri.,および足摺の南西海上に ３目標あり,And 3 goals in the southwest sea of the foot,0.1875
 "Hang on, people of Kure!",呉の皆さん 頑張ってください,Good luck to everyone,0.0
 Anyone suffering hardship...,罹災者の皆さんに―,To the victims-,0.0
 Please grab rice balls delivered from Hiroshima!,広島より 握りメシが届いとります,Harish Messi arrives from Hiroshima,0.18181818181818182
+Come get them at Nikou Park.,二河公園にて配給,Distributed at Nii River Park,0.2
 Where can I file a damage report?,罹災証明は どこでくれるんかいねえ,Where is the affliction certificate,0.08333333333333333
 Eat one while it's still warm.,あんた ぬくいうちに食べ,Eat in the middle of the,0.08333333333333333
 It cooked well as my house burned down.,床下へしもうとった芋が ええがに焼けとったけえ,I'm going to get under the floor,0.0
@@ -669,6 +672,7 @@ I've had enough of this heat.,いやあ まいったのう 暑い 暑い…,"No,
 Is there anyone from Shinonome?,おーい 東雲町の人は おってかのう,"Oh, people of Togun-cho",0.0
 The red-light district burned to the ground.,朝日町より南はいけんわ,South of Asahi-cho,0.0
 I'm glad that you're alive.,ともかく よかった あんたが生きとって,"Anyway, I wish you live",0.16666666666666666
+I'm glad it was a dud.,いやあ よかったのう 不発で,"No, it was good",0.18181818181818182
 I'm glad it was put out.,消し止められて よかったねえ,It was good to be erased,0.16666666666666666
 I don't know what I should be glad about.,どこがどう よかったんか うちには さっぱり分からん,Where didn't you do anything?,0.13333333333333333
 My right hand that held Harumi's hand in June.,６月には 晴美さんとつないだ右手,Harumi with Harumi in June right hand,0.45454545454545453
@@ -702,7 +706,6 @@ I know. I'll come back if your officer friend is handsome.,すみちゃんの将
 Come home for the festival next month.,来月の６日は 江波のお祭りじゃけえ,Next month's 6th is Egami's festival,0.25
 I was glad my brother was dead.,お兄ちゃんが 死んでよかったと思うとる,I think my brother was dead,0.625
 "07:00 hours, July 28th",あーあ 今日も来た,Oh I also came today,0.0
-Don't come here.,来たらいけん,If you come,0.14285714285714285
 You can't be here.,今 ここへは来たらいけん,If you come here now,0.2222222222222222
 "Yes! Fly away as far as you can,",そっちじゃ そっちへずーっと逃げ,That's why I escaped,0.0
 "over the mountain, to Hiroshima!",山を越えたら広島じゃ,"If you go over the mountain, it is Hiroshima",0.4166666666666667
@@ -720,7 +723,6 @@ I'm going home to Hiroshima!,帰る 帰る 広島へ帰る！,Back to Hiroshima 
 Do as you please!,勝手にせえ,Unknown,0.0
 No enemy aircraft over the Chugoku military district.,中国軍管区内上空に敵機なし,No enemy aircraft in China Army District,0.3333333333333333
 Air raid warning lifted.,警戒警報が解除されました,Warning alarm has been canceled,0.1111111111111111
-Great timing.,ちょうどええ時間に解除じゃ,It is canceled by the time,0.0
 What a hot morning.,やれ 朝から暑いこと,Hot from morning morning,0.3333333333333333
 "We're going to miss you, Suzu.",寂しいねえ すずさんが おらんくなるんは,I'm sorry I'm sorry,0.0
 So what time is your doctor's appointment?,で 何時からね？,So what time is it?,0.5
@@ -729,11 +731,12 @@ You need to change.,ハア… その格好はいけん,Haa ... that looks good,0
 I guess we won't need to wash this.,ああ… こりゃ洗濯じゃなかったね,Oh ... I was not washed,0.06666666666666667
 Isn't your hometown's festival today?,今日なんね あんたの里のお祭り,Today is the festival of the village,0.2727272727272727
 "You'll never make it today. Doctors are busy too, you know.",どうせ間に合いやせんよ,I'm going to meet you,0.05555555555555555
+You'll need a referral as well.,広島の病院へ紹介状も 書いてもらわにゃならんのじゃろう,It will be a letter of introduction to Hospital in Hiroshima,0.05555555555555555
 Train tickets are usually sold out anyway.,第一 汽車の切符が取れんもん,The first train ticket is taken,0.07692307692307693
 "Here, I've fixed your sister's kimono.",妹さんの純綿 もんぺに直しといたで,Sister's pure cotton Mantope was fixed,0.21428571428571427
 I added rubber straps so you can wear it easily.,ゴムひも通したけえ １人で着られよう,Let's wear a rubber string alone,0.125
 They're all I could scrap together.,ゴムが寄せ集めで申し訳ないが,I'm sorry for collecting rubber,0.07692307692307693
-Thank you very much...,あ… ありがとうございます,"Oh, thank you",0.2857142857142857
+Thank you very much...,あ… ありがとうございます,"Oh, thank you very much",0.5714285714285714
 I'm sorry I blamed you for Harumi's death.,悪かった 晴美が死んだんを あんたのせいにして,Bad Harumi died and faults,0.07142857142857142
 The man I loved died young.,私は好いた人に 早よ死なれた,I was faster to the person I liked,0.16666666666666666
 My shop was destroyed.,店も疎開で壊された,The store was also destroyed,0.25
@@ -765,7 +768,6 @@ You can join us tomorrow.,ほいじゃあ 明日のトラック乗るかね？,"
 I hear it was a new type of bomb.,広島へは 新型爆弾が落とされたらしい,It seems that a new bomb was dropped to Hiroshima,0.3333333333333333
 The navy base sent a relief party.,鎮守府からも救援が出とるし まあ…,Relief from Senzo Fuzu will come out ...,0.06666666666666667
 "You came from Hiroshima, too?",あんたも広島から来たんね,I also came from Hiroshima,0.3333333333333333
-He died sitting here.,座ったまんま亡くなりんさってかね,I'm sitting down,0.125
 He walked all the way from Hiroshima.,広島から ここまで歩いてきて,I have walked from Hiroshima to here,0.25
 But we couldn't tell who he was...,はあ… どこの誰かも分かりゃせん,Yes ... Who knows anyone,0.16666666666666666
 Because his face and clothes had melted...,顔も服もベロベロで,My face and clothes are in Belobero,0.25
@@ -800,6 +802,7 @@ So we surrender to violence?,じゃけえ 暴力にも 屈せんとならんの�
 If only I could stay distracted and oblivious until I die.,ああ… 何も考えん ぼーっとしたうちのまま―,Oh ... I think about what I think I'm sorry-,0.05555555555555555
 So let's enjoy white rice tonight.,今日は 何も混ぜんで炊こうや,I mix and cook today,0.0
 August 15th and 16th...,８月15日も 16日も,August 15th also 16th,0.5
+and 17th.,17日も,17 days,0.0
 "A year later, 10 years later.",再来年も10年後も,10 years later,0.42857142857142855
 "Look, it's a glorious white!",ああ 輝くように真っ白じゃのう,Oh shine and white,0.09090909090909091
 We only have rice.,おかずが何にものうて,What is the side dish,0.0
@@ -820,7 +823,7 @@ The city has changed.,しかし変わったねえ この街も,"But it has chang
 Would Harumi have done the same?,晴美もしたんじゃろうか,Harumi also did it?,0.2
 Paper waste?,紙クズが…,Paper scratch ...,0.2
 This one's flavorless.,こっちは全然 味がない,I have no taste at all this,0.09090909090909091
-I gave the Americans directions and they gave me chocolate.,ほいで うちは アメリカさんに道を教えてあげたら,"If you teach American to America,",0.0
+I gave the Americans directions and they gave me chocolate.,ほいで うちは アメリカさんに道を教えてあげたら,If you give me the way to America,0.125
 You exchanged so many clothes.,ええんですか？ あんとに洋服を交換して,Is it yes?Exchange clothes for your clothes,0.07692307692307693
 It's all right.,ええんよ,Eyen,0.0
 I couldn't recognize my own son.,自分の息子と 気づかんかったんよ うちは,I did not notice my son,0.2727272727272727
