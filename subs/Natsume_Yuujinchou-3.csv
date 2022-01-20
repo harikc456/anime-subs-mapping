@@ -1,11 +1,9 @@
 en_text,jp_text,google_translated,score
 "There you go, making that face again,",またそんな顔して 唇噛み締めて,I also face such a face and tighten my lips,0.0625
-"You're hiding your weak side,",弱さを隠してるけど,I'm hiding weakness,0.1
 "but deep in those eyes,",その瞳の奥 うずくまる君が,Okuro of the eyes of the eyes,0.1111111111111111
-"you would care, cry, call for someone and worry.",思って 泣いて 一人で 不安で,I think and crying alone,0.06666666666666667
 Why are you holding onto the pain?,なんで 痛いの 持ってんだ,Why do you have painful,0.18181818181818182
+Share some of it with me.,僕に そっと 預けてよ,Please leave me a lot,0.09090909090909091
 "If you don't think it's possible right away,",直ぐじゃ無理と思うのならば,If you think that it is impossible,0.2857142857142857
-"you can do it slowly, bit by bit.",少しずつでいい,Little by little,0.1
 but I'm sure we're only finding times that we can't fly.,飛べないと 決め付けてるだけ,Just decide not to fly,0.05555555555555555
 I'll call for you to the limits of my voice,声の限り君を呼ぶよ 迷わないように,As long as you call you,0.15384615384615385
 "Soar up to the sky with your gentle heart,",フワリ心舞い上がれ あの風に乗せて,Fluffy Conditions and put on that wind,0.0
@@ -42,6 +40,7 @@ There is a human that we would like you to exterminate.,夏目様に退治して
 We're just trying to live happily!,我々はただ面白おかしく暮らしくだけなのに,We are just funny and funny,0.18181818181818182
 "Are there really humans who can exterminate Youkai, though?",けど 妖怪を退治できる人間なんて 本当にいるのか,But what is the person who can defeat the monster?,0.16666666666666666
 So I can't. Sorry.,無理だ 悪いな,It is impossible,0.0
+"A Youkai exterminator, huh?",妖怪退治をする人か,Is it a man who defeats a monster,0.08333333333333333
 "Then that means they believe in those things, right?",その人ってそういうのを信じてるってことだよな,That person believes in such a thing,0.125
 Maybe they can see them?,ひょっとして 見えるのかな,I wonder if it looks like,0.0
 Can you see them too?,君にも見えるの,I can see you,0.42857142857142855
@@ -53,6 +52,7 @@ He won't let us see him off and pick him up!,お帰り迎えをさせていた�
 What's this feeling?,何だ この感じ,What this feels,0.3333333333333333
 We've been waiting for you!,お待ちしておりました,I have been waiting for you,0.4444444444444444
 I'll at least listen to your story.,分かった とにかく話だけはこうか,I understand that only the story,0.15384615384615385
+"Ah, thank you, Natsume-sama!",ああ ありがとうございます 夏目様,Oh thank you Natsume,0.25
 So? What kind of people are they?,で 相手はどんなやつだ,And the other party is what,0.07692307692307693
 "They always shoot a spirit wave out of the blue, so we can't get close,",いつも突然強力な霊波を放ってくるので近よれず,It is not near because it always releases powerful waves,0.04
 "They smell human, though.",人の匂いはするのですが,I smell of people,0.1111111111111111
@@ -79,6 +79,7 @@ They just ran in fright.,びびって逃げただけだ,I just escaped,0.125
 So they were chased out of their place?,居場所を追われたってことか,Is it chased by the place?,0.23076923076923078
 This is quite one-sided.,いきなりの攻撃 ずいぶん一方的だな,Sudden attacks are unilaterally,0.0
 Getting into it now?,お やる気なったか,Did you feel motivated,0.0
+"So will you do it, Natsume-sama?",やってくださいますか 夏目様,Do you want to do it Natsume,0.2727272727272727
 I thought you couldn't come back here for a while!,お前達しばらくここに帰れないんじゃ,I can not return here for a while,0.3333333333333333
 We're both different types!,わしら二人は中級なんです,Two people are intermediate,0.0
 Then can't you do something about it yourselves?,だったら自分らでなんとかできんのか,"If so, I can not do something",0.125
@@ -102,19 +103,17 @@ He says he can see strange things.,変なものが見えるって,I can see stra
 What about you?,お姉さんは？,What is your sister?,0.2857142857142857
 I don't feel lonely now that you've come.,夏目が来てくれるから 寂しくないわ,It is not lonely because the summer eyes come,0.1111111111111111
 "You can see them too, right?",お姉さんも見えるんでしょう,I can see my sister,0.18181818181818182
-If it isn't Takashi-kun from next door.,あら お隣の貴志君じゃない,I'm not Kishi next to you,0.06666666666666667
 What are you doing here alone?,こんなところに一人で,One person in such a place,0.0
 In this... unstable world...,そんな不安定な世界,Such an unstable world,0.2857142857142857
-He lives in the Eight Fields neighborhood?,八ツ原附近に住んでるって 住所分かるか,You knowthe addressIlive inHachitsuoriginalvicinity,0.0
-I just thought it was unusual for you to be interested in someone.,夏目が誰かに興味を持つなんて 珍しいなって,INatsumeDo notunusual for youinterested insomeone,0.05555555555555555
-The Youkai exterminator is probably Tanuma.,妖怪退治人は恐らく田沼だ,Specterexterminationwhois probablyTanuma,0.0
-He can probably see them.,田沼はたぶん見えるんだ,Tanuma'mappearMaybe,0.0
-"If that's true, he's the first one like me.",だとしたら 俺にとって初めての仲間だ,This is the first timethefellowfor meif wewe,0.11764705882352941
-"Yes, he's most likely still in the forest.",はい 恐らくはまだ森の中に,Yespossiblystillin the forest,0.16666666666666666
-"But, if they can see them...",けれど…見えるのなら,IfBut...look,0.1
-How can they do something terrible like this?,どうしてこんなひどいことができるのか,Whyit issuch aterrible thing,0.0
-"They aren't all good, but...",確かにいい連中ばかりではないけど,It's nottheonlycertainlygoodguys,0.0
-He's huge!,でか 何者だ,Itbignothing,0.0
+He lives in the Eight Fields neighborhood?,八ツ原附近に住んでるって 住所分かるか,Do you want to live in the neighboring neighborhood?,0.2857142857142857
+I just thought it was unusual for you to be interested in someone.,夏目が誰かに興味を持つなんて 珍しいなって,It is unusual that the summer is interested in someone,0.2777777777777778
+The Youkai exterminator is probably Tanuma.,妖怪退治人は恐らく田沼だ,Youkai veterans are probably Tonuma,0.2
+He can probably see them.,田沼はたぶん見えるんだ,Tanuma is probably visible,0.1111111111111111
+"If that's true, he's the first one like me.",だとしたら 俺にとって初めての仲間だ,"If so, it is the first friend for me",0.29411764705882354
+"Yes, he's most likely still in the forest.",はい 恐らくはまだ森の中に,Yes perhaps still in the forest,0.4166666666666667
+"But, if they can see them...",けれど…見えるのなら,But ... if you see,0.4444444444444444
+How can they do something terrible like this?,どうしてこんなひどいことができるのか,Why can you be so serious?,0.14285714285714285
+"They aren't all good, but...",確かにいい連中ばかりではないけど,Certainly not a good guy,0.08333333333333333
 "Then I, Misuzu, shall help you.",ほう ではこの三篠がお手伝いしましょう,Let's help you,0.2
 "What a good thing you did, Natsume.",よいことはしとくもんだな 夏目,Good thing is the summer season,0.15384615384615385
 As expected from Natsume-sama! You command someone as great as Misuzu!,おお 三篠ほどのものを使役なさってるとわ,I'm going to use something about Oki,0.0
@@ -137,7 +136,6 @@ So I would often go around and purify the area.,まあ 一応こまめにお清�
 "He wasn't born with the power, so he trained and learned it.",生まれ持ったものではなく,Not born,0.06666666666666667
 That's why he still can't see them.,だから未だに見えんのだな,So it's still seen,0.15384615384615385
 "The monsters around here probably aren't very bad,",でもここらの化け物はたぶんそんなに悪さをしませんので,But since these monsters are probably not so bad,0.26666666666666666
-so please keep it to a minimum.,程々にしてやってください,Please do it,0.2222222222222222
 Could it be you can see them?,ひょっとして君は見えるのですか,Maybe you look,0.1
 "No, you don't need to answer.",いいや 答えなくていいんですよ,I do not have to answer,0.25
 "Son? priest, what is your name?",ご住職 お名前は,The name of the person is,0.18181818181818182
@@ -145,6 +143,7 @@ Could it be you can see them?,ひょっとして君は見えるのですか,Mayb
 It's not like I'm partial to them or anything.,別に贔屓したって訳じゃない,It is not translated by another,0.125
 It's just that we exchanged words and became acquaintances.,たぶん 言葉を交わして 知り合いになったからさ,It was probably because I got to know words and got acquainted,0.15789473684210525
 But now that I think about it...,今思うと,When I think now,0.3333333333333333
+"I'm sorry, Natsume. i just wanted to talk to you.",ただどうしても話かけてみたかったの,I just wanted to talk,0.45454545454545453
 "Even so, I'm glad to have met them.",それでも会えてよかったと思うんだ,I think it was good to see it,0.125
 Can you see some strange things in the garden?,裏庭に変なものでも見えるのか,Was it visible to the backyard?,0.13333333333333333
 I'm probably just seeing things again.,たぶんいつもの気のせいなんだ,Maybe I'm sorry,0.2

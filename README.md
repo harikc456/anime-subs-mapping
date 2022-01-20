@@ -258,7 +258,8 @@
 <li> -[x] Koukaku Kidoutai Stand Alone Complex</li> 
 <li> -[x] Koukaku no Regios</li> 
 <li> -[x] Kuiba</li> 
-<li> -[x] Kujira no Kora wa Sajou ni Utau</li> 
+<li> -[x] Kujira no Kora wa Sajou ni Utau</li>
+<li> -[x] Kumo no Mukou, Yakusoku no Basho</li>
 <li> -[x] Kuroko no Basket S1</li> 
 <li> -[x] Kuroko no Basket S3</li> 
 <li> -[x] Kuromukuro</li> 
@@ -286,6 +287,8 @@
 <li> -[ ] Maison Ikkoku</li> 
 <li> -[ ] Major</li> 
 <li> -[x] Maoyuu Maou Yuusha</li> 
+<li> -[x] March Comes in Like a Lion S1</li> 
+<li> -[x] March Comes in Like a Lion S2</li> 
 <li> -[x] Marmalade Boy</li> 
 <li> -[x] Mawaru Penguindrum</li> 
 <li> -[ ] Mazinger Z</li> 
@@ -314,7 +317,8 @@
 <li> -[x] Nanatsu no Taizai</li> 
 <li> -[ ] Naruto</li> 
 <li> -[ ] Naruto Shippuuden</li> 
-<li> -[ ] Natsume Yuujinchou</li> 
+<li> -[x] Natsume Yuujinchou</li> 
+<li> -[x] Neko no Ongaeshi</li> 
 <li> -[ ] Neon Genesis Evangelion</li> 
 <li> -[ ] Nerawareta Gakuen</li> 
 <li> -[x] Nichijou</li> 
@@ -326,27 +330,28 @@
 <li> -[x] Nourin</li> 
 <li> -[ ] Nurarihyon no Mago</li> 
 <li> -[ ] Nyan Koi!</li> 
-<li> -[x] Occultic;Nine</li> 
+<li> -[x] Occultic;Nine</li>
+<li> -[x] Omoide Poro-poro</li> 
 <li> -[ ] One Piece</li>
-<li> -[ ] One Punch Man</li> 
+<li> -[x] One Punch Man</li> 
 <li> -[ ] One Room</li> 
 <li> -[x] Ookami Kakushi</li> 
 <li> -[x] Ookami-san to Shichinin no Nakama-tachi</li> 
 <li> -[ ] Ore no Kanojo to Osananajimi ga Shuraba Sugiru</li> 
 <li> -[x] Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru</li> 
 <li> -[x] Orenchi no Furo Jijou</li> 
-<li> -[ ] Ouran Koukou Host Club</li> 
+<li> -[x] Ouran Koukou Host Club</li> 
 <li> -[x] Overlord S2</li> 
 <li> -[x] Overlord S3</li> 
 <li> -[x] Owari no Seraph</li> 
 <li> -[ ] Owarimonogatari</li> 
 <li> -[ ] Pandora Hearts</li> 
-<li> -[ ] Phi_Brain Kami no Puzzle S1</li> 
-<li> -[ ] Phi_Brain Kami no Puzzle S2</li> 
-<li> -[ ] Phi_Brain Kami no Puzzle S3</li> 
+<li> -[x] Phi_Brain Kami no Puzzle S1</li> 
+<li> -[x] Phi_Brain Kami no Puzzle S2</li> 
+<li> -[x] Phi_Brain Kami no Puzzle S3</li> 
 <li> -[ ] Piano no Mori</li> 
 <li> -[ ] Planetarian ~Chiisana Hoshi no Yume~</li> 
-<li> -[ ] Ping Pong The Animation</li> 
+<li> -[x] Ping Pong The Animation</li> 
 <li> -[ ] Pokemon</li> 
 <li> -[ ] Pokemon XY</li> 
 <li> -[ ] Pop Team Epic</li> 
@@ -355,14 +360,15 @@
 <li> -[ ] Pretty Rhythm Rainbow Live</li> 
 <li> -[x] Princess Principal</li> 
 <li> -[ ] Prison School</li> 
-<li> -[ ] Psycho-Pass S1</li> 
-<li> -[ ] Psycho-Pass S2</li> 
+<li> -[x] Psycho-Pass S1</li> 
+<li> -[x] Psycho-Pass S2</li> 
 <li> -[ ] Psycho-Pass The Movie</li> 
 <li> -[x] Pupa</li> 
 <li> -[x] Rainbow days</li> 
 <li> -[x] ReLIFE</li> 
 <li> -[ ] Rewrite</li> 
-<li> -[x] ReZero</li> 
+<li> -[x] ReZero</li>
+<li> -[x] Robotics Notes</li> 
 <li> -[x] Rokudenashi Majutsu Koushi to Akashic Records</li> 
 <li> -[x] Romeo x Juliet</li> 
 <li> -[x] Saekano S1</li> 
@@ -376,6 +382,7 @@
 <li> -[ ] Sakura Quest</li>  -  X
 <li> -[x] Sakura Trick</li> 
 <li> -[ ] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</li> 
+<li> -[x] Sakurasou no Pet na Kanojo</li>
 <li> -[x] Samurai 7</li> 
 <li> -[x] Samurai Champloo</li> 
 <li> -[x] Samurai Flamenco</li> 
@@ -409,7 +416,8 @@
 <li> -[ ] Shingetsutan Tsukihime</li> 
 <li> -[ ] Shinigami no Ballad</li> 
 <li> -[x] Shinsekai Yori</li> 
-<li> -[ ] Shisha no Teikoku</li> 
+<li> -[ ] Shisha no Teikoku</li>
+<li> -[x] Shirobako</li> 
 <li> -[x] Shokugeki no Soma S1</li>
 <li> -[ ] Shokugeki no Soma S2</li> 
 <li> -[x] Shoujo Kakumei Utena</li> 
@@ -428,10 +436,12 @@
 <li> -[x] Soredemo Machi wa Mawatteiru</li> 
 <li> -[ ] Soul Eater</li> - X
 <li> -[ ] Soul land Douluo Dalu</li> 
-<li> -[ ] Space Pirate Captain Harlock</li> 
+<li> -[x] Space Brothers</li>
+<li> -[x] Space Pirate Captain Harlock</li>
+<li> -[x] Spirted Away</li> 
 <li> -[ ] Star Driver</li> 
 <li> -[ ] Starry Sky</li> 
-<li> -[ ] Steamboy</li> 
+<li> -[x] Steamboy</li> 
 <li> -[x] Steins;Gate</li>
 <li> -[x] Steins;Gate 0</li> 
 <li> -[ ] Strike Witches</li> 
@@ -453,11 +463,13 @@
 <li> -[x] Tate no Yuusha no Nariagari</li> 
 <li> -[ ] Telepathy Shoujo Ran</li> - X
 <li> -[x] Tensei Shitara Slime Datta Ken</li> 
-<li> -[x] The Big O</li> 
+<li> -[x] The Big O</li>
+<li> -[x] The_Book of Bantorra</li> 
 <li> -[ ] The Five Star Stories</li> - X
 <li> -[ ] The Rolling Girls</li> - X
 <li> -[ ] The Sky Crawlers</li> 
 <li> -[ ] Thermae Romae</li> 
+<li> -[ ] Tiger & Bunny</li> 
 <li> -[ ] Toaru Kagaku no Accelerator</li> 
 <li> -[x] Toaru Kagaku no Railgun</li> 
 <li> -[x] Toaru Kagaku no Railgun S</li> 
@@ -473,6 +485,7 @@
 <li> -[ ] Tonari no Seki-kun</li> 
 <li> -[x] Tonari no Totoro</li> 
 <li> -[x] Toriko</li> 
+<li> -[x] Trigun</li>
 <li> -[ ] Trinity Blood</li> - X 
 <li> -[x] Trinity Seven</li> 
 <li> -[ ] Tsubasa Shunraiki</li> 
@@ -485,7 +498,7 @@
 <li> -[x] Uchouten Kazoku</li> 
 <li> -[ ] Uchuu Senkan Yamato</li> 
 <li> -[ ] Uchuu Senkan Yamato 2</li> 
-<li> -[ ] Uchuu Senkan Yamato 2199</li> 
+<li> -[x] Uchuu Senkan Yamato 2199</li> 
 <li> -[ ] Uchuu Senkan Yamato 3</li> 
 <li> -[ ] Uchuu Show e Youkoso</li> 
 <li> -[ ] Uchuu no Stellvia</li> 
@@ -504,8 +517,9 @@
 <li> -[x] World Trigger</li> 
 <li> -[x] Yakusoku no Neverland</li> 
 <li> -[ ] Yamada-kun to 7-nin no Majo</li> - X
-<li> -[x] Yojouhan Shinwa Taikei</li> 
+<li> -[ ] Yojouhan Shinwa Taikei</li> 
 <li> -[ ] Yokohama Kaidashi Kikou</li>  - X
+<li> -[x] Youjou Senki</li> 
 <li> -[ ] Youkai Watch</li> 
 <li> -[x] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</li> 
 <li> -[x] Your Name</li> 
@@ -519,6 +533,7 @@
 <li> -[ ] Yuru Yuri San Hai!</li> 
 <li> -[ ] Zero kara Hajimeru Mahou no Sho</li> 
 <li> -[x] Zero no Tsukaima</li> 
+<li> -[x] Zetsuen no Tempest</li> 
 <li> -[x] Zoids Wild</li> 
 <li> -[ ] Zoku Owarimonogatari</li> 
 <li> -[ ] ef - a tale of memories</li> 

@@ -25,13 +25,13 @@ I used to talk a lot to him when he was young.,若い頃のあの人とはよく
 "For a while, we were always together.",しばらくはずっと一緒にいた,I was with a while,0.16666666666666666
 "But one day, he suddenly couldn't see me anymore.",でも ある日突然 あの人は私のことが見えなくなった,But the person suddenly suddenly disappeared me,0.2
 And that's it.,それっきりだ,It is,0.16666666666666666
-Can that even happen?,見えなくなったって そんなことあるのか,Is there such a thing that it is not visible?,0.15384615384615385
 "When people become adults, those kinds of powers tend to become weaker.",大人になると そういう力が衰えるものもいるらしい,It seems that there is also something that will decline when you become an adult,0.08
 So that happens too...,あ そうか そんなこともあるのか,"Oh, there is such a thing",0.0
 "I heard that he would be getting married soon,",私はあの人が近々結婚すると聞いたので,I heard that that person gets married soon,0.4166666666666667
 so I thought I would at least see his big day.,せめて晴姿を見るだけでもと思ってきたのさ,I just thought that I just looked at the minute,0.1875
 "Well, our relationship was a lot like yours.",まあ 私たちはちょうど お前達のような関係だったんだ,Well we just had a relationship like you,0.2857142857142857
 Our relationship is that of a master and pet!,飼い主とペットの関係だ,The relationship between the owner and pets,0.14285714285714285
+What's your name?,お前 名前は,Your name is,0.3333333333333333
 Try guessing.,当ててみろ,Fit,0.0
 I got it! It's pond woman!,分かった 沼女だ,It is a shabby woman,0.2
 What about Curly-noodles?,縮れ面でどうだ,How about it,0.16666666666666666
@@ -45,6 +45,7 @@ Hey!,おい,Oi,0.0
 "That night, I had a dream where someone was calling out.",その夜 誰かが呼んでいる夢を見た,I dreamed that someone calls for that night,0.25
 "Wake up, I have to go out.",起きてくれ 出かけなきゃ,I have to get up,0.4
 "How about ""Kiyo"" as your name?",名前 キヨってことにしないか,Do not be a name キ ヨ,0.06666666666666667
+Do what you want.,好きにしろ,Do whatever you want,0.5
 Becoming unable to see Youkai...,妖怪が見えなくなる,Youkai can not see,0.25
 So that can happen too?,そんなこともあるのか,Is there such a thing?,0.09090909090909091
 "A long time ago, there was a mountain god in this forest",昔この森に住む山神の一人が,One of the Yamami who lives in the forest,0.1111111111111111
@@ -75,7 +76,7 @@ We talked and talked so much.,いっぱい いっぱい話をして,Talk a lot m
 "Sometimes, we would play together.",時々 一緒に遊びに行って,Sometimes go to play together,0.3333333333333333
 So this is how it feels?,こんな手触りなのか,Is it such a touch?,0.3
 It feels nice.,気持ちいい,Pleasant,0.0
-You're right.,本当だ,Is true,0.0
+You're right...,本当だ,Is true,0.0
 He wouldn't notice even if I touched him.,私が触れても気付かなくなった,"Even if I touch it, I did not notice",0.26666666666666666
 "He would come to the pond and I would call for him several times,",あの人は沼に来て 何度も呼んだけど,That person came to the swamp and called many times,0.2
 yet he couldn't see me even when I stood right in front of him.,目の前に立つ私が見えなかった,I could not see me in front of my eyes,0.3684210526315789
@@ -91,7 +92,6 @@ Is it tough?,辛いかい,Spicy,0.0
 It was tough on me because I was always alone.,僕は辛かったよ,I was painful,0.18181818181818182
 But I was able to get along well with one Ayakashi.,でも 一人の妖と仲良くなってね,But get along with you,0.3076923076923077
 I came to like her.,好きになった,I've come to like it,0.3333333333333333
-"I couldn't say it,",言えなかったけど 愛していたんだ,I was not able to say but I was loved,0.16666666666666666
 "But one day, I suddenly couldn't see Ayakashi anymore.",それが ある日突然 妖のことが全く見えなくなってしまって,One day suddenly I can not see it at all,0.29411764705882354
 But I finally met a girl I could love with all my heart.,やっと やっと心から 愛する女性に会うことができたんだ,I finally could meet the woman who loved from the heart,0.21052631578947367
 "And she's a very nice person, too.",とても心の優しい人にね,Very mind with a very kind person,0.23076923076923078
@@ -105,7 +105,6 @@ Is that okay with you?,キヨ キミはそれでいいのかい,Kiyo is good wit
 It was probably Kiyo's memory that flowed into me.,それは多分 キヨから流れてくる記憶,It is a memory that flows from Kyo,0.1875
 Where are you?!,蛍 どこにいるんだ,Where are the fireflies,0.2857142857142857
 I can't see you! Please come out!,蛍 見えない 出てきてくれ,I can not see the fireflies,0.15384615384615385
-Don't leave...,蛍  俺の傍に,Fully beside me,0.0
 Please come out...,出てきてくれ,Get out,0.2
 Do you hate me now?,俺のこと嫌いになったのかい,I hate me,0.2857142857142857
 "That's what you were called, right?",キミはそう呼ばれていたんだね,You were called so,0.3
@@ -133,6 +132,7 @@ Then...,それじゃ,Well then,0.3333333333333333
 My mom got really mad then.,あの時 お袋 すごく驚いててさ,At that time the bag is very surprised,0.0
 Right?,ねえ,Hey you,0.0
 Did everything go well for the mountain god and his lover that the fireflies protected?,先生 沼の蛍達が見守った山神様と恋人は,Yamami-sama and lover watched by the religious venum,0.15
+"Unlike Ayakashi, humans have a short lifespan.",さあな 妖と違って人の命は短いからな,"Well, unlike the people's life is short",0.2
 Will the day come when I can't see them either?,蛍 僕もいつかは 失う日が来るのだろうか,Will fireflies someday someday,0.07142857142857142
 These one-sided encounters and these troubling days...,一方的に訪れる出会いを 煩わしい日々を,The day when you go one-sided encounter,0.07692307692307693
 Will it be liberating for me?,それは僕にとって 解放だろうか,Will it be released for me,0.625

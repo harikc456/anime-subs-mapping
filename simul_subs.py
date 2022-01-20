@@ -36,16 +36,18 @@ parser = argparse.ArgumentParser("Subtitles Mapping")
 parser.add_argument("--dir", type=str, help="The common width and height for all images")
 parser.add_argument("--anime_name", type=str, help="The name of the anime for naming the output files")
 parser.add_argument("--threshold_score", type=float, default=0.1, help="The common width and height for all images")
+parser.add_argument("--start", type=int, default=0, help="The episode number where the program ended on the previous run")
 
 args = parser.parse_args()
 anime_name = args.anime_name
+start = args.start
 
 en_path = args.dir
 en_subs_list = os.listdir(en_path)
 
 print(f"Found {len(en_subs_list)} files")
 
-for idx in range(len(en_subs_list)):
+for idx in range(start,len(en_subs_list)):
 
     d1 = dict()
     d1['start'] = []

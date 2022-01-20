@@ -1,8 +1,13 @@
 en_text,jp_text,google_translated,score
 "There you go, making that face again,",またそんな顔して 唇噛み締めて,I also face such a face and tighten my lips,0.0625
+"You're hiding your weak side,",弱さを隠してるけど,I'm hiding weakness,0.1
 "but deep in those eyes,",その瞳の奥 うずくまる君が,Okuro of the eyes of the eyes,0.1111111111111111
+"you would care, cry, call for someone and worry.",思って 泣いて 一人で 不安で,I think and crying alone,0.06666666666666667
 Why are you holding onto the pain?,なんで 痛いの 持ってんだ,Why do you have painful,0.18181818181818182
+Share some of it with me.,僕に そっと 預けてよ,Please leave me a lot,0.09090909090909091
 "If you don't think it's possible right away,",直ぐじゃ無理と思うのならば,If you think that it is impossible,0.2857142857142857
+"you can do it slowly, bit by bit.",少しずつでいい,Little by little,0.1
+"We don't have wings,",翼の無い僕等はきっと,I'm sure no wing,0.0
 but I'm sure we're only finding times that we can't fly.,飛べないと 決め付けてるだけ,Just decide not to fly,0.05555555555555555
 I'll call for you to the limits of my voice,声の限り君を呼ぶよ 迷わないように,As long as you call you,0.15384615384615385
 "Soar up to the sky with your gentle heart,",フワリ心舞い上がれ あの風に乗せて,Fluffy Conditions and put on that wind,0.0
@@ -29,7 +34,6 @@ All right. Everyone draw a lot.,それじゃ 全員引いてください,Then pl
 There's a story about this building.,この校舎には逸話があるんだって,There is an anecdote in this school building,0.23076923076923078
 "In the past, there was a god of fortune who loved humans,",昔 人間が好きな招福の神様がいて,"A long time ago, there is a god who likes people who like people",0.25
 and he would appear as a child to play among the villagers.,子供に化けては村に遊びに来ていたらしいの,It seems that I had been playing in the village,0.045454545454545456
-"However,",ところが,However,0.5
 "there was a greedy merchant who wanted more riches,",ある強欲な商人がますますの繁栄を願って,Some greed merchants hope for more and more prosperity,0.058823529411764705
 and he locked him up in his cellar.,地下牢に閉じ込めてしまったそうなの,It seems that it was confined to the dungeon,0.0
 "After that, the merchant would reap huge profits because of the fortune power.",商人はその日から招福パワーで大儲け,Merchants make a big profit from the day of invitation power,0.13636363636363635
@@ -56,6 +60,7 @@ We should've been paired up with girls.,俺らも せっかくなら女子と組
 "Which way were we supposed to go, again?",どっち行くんだっけ,Which one goes,0.08333333333333333
 What are you doing here alone?,一人で何やってんだ,What is done alone,0.2222222222222222
 What about the password?,えっと 相方はどうしちゃったのかなーなんて,What did you do?,0.25
+"So, you've awakened.",目覚めてしまったか,Were you wake up,0.1111111111111111
 Where have I seen that face before?,うん？ その顔どこかで,Yes?The face somewhere,0.18181818181818182
 People are such selfish beings.,とかく 人というものは身勝手なものよ,It is a self-wise thing to say,0.0
 What's wrong?,夏目君 どうしたの 大丈夫？,Natsume how much is it okay?,0.1
@@ -123,6 +128,7 @@ I want do things that I can do!,俺にやれることはやっておきたいん
 The underlings are gathering.,下っ端どもが集まってきているな,The lower part is gathered,0.1111111111111111
 "He's on the roof, Natsume.",やつは屋上だ夏目,Yatsu is a rooftop summer eye,0.0
 The roof?,屋上？ やつって？,rooftop?Are you doing?,0.14285714285714285
+Do you mean...,もしかしてあの人のこと…,Maybe that person ...,0.14285714285714285
 "Where are you going, Sasada?",どこ行くんだ 笹田,Where are you going,0.5714285714285714
 "I want to tell him how precious this charm is,",このお守りがどれだけ私にとって大切だったか,How much this amulet was important for me,0.11764705882352941
 and how happy I was that he found it!,見つけてもらってどれだけ嬉しかったか,How happy did you find it?,0.21428571428571427
@@ -161,12 +167,12 @@ She said you saved her!,救ってもらったんだって,I was saved,0.125
 but at least believe in Sasada's—,どうか 笹田の言葉だけは…,Only the words of Shibata ...,0.0
 "I am sorry, child.",すまなかった 人の子よ,A child of a person who was sorry,0.18181818181818182
 Only you and Reiko did not fear me for being impure.,私を不浄と恐れなかったのは 君とレイコだけなのだ,It was only you and Reiko that I did not fear,0.4375
-Thank you.,ありがとう,Thank you,0.6666666666666666
 "Yeah, what happened?",あ どうしちゃったんだろうな,I wonder what I'm sorry,0.1111111111111111
 Everyone was on the roof and sleeping.,皆して屋上で居眠りなんて,"Everyone, I'm sleeping on the roof",0.45454545454545453
 That's right.,そう そうだね,It looks so,0.0
 "Sasada, the truth is that for a moment, I saw Shigure-sama touch you.",笹田 本当は一瞬君に触れる時雨様を見たよ,Shibata really saw the rain when I touched it for a moment,0.2857142857142857
 I saw your hearts trying to connect.,交差しようとする心が見えたよ,I saw the heart to intersect,0.2727272727272727
+I wonder if you felt anything.,君も何かを感じだろうか,Will you feel something,0.1
 "On that day where the sky was ablaze,",色づく 西空に,In the colored western sky,0.16666666666666666
 "the evening rain had stopped,",夕立の雨上がりに,At the rain of the evening,0.375
 "I noticed the scent of summer,",気付く夏の匂い,Memorious summer smell,0.1111111111111111

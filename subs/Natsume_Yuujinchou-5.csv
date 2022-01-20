@@ -1,11 +1,11 @@
 en_text,jp_text,google_translated,score
 "There you go, making that face again,",またそんな顔して 唇噛み締めて,I also face such a face and tighten my lips,0.0625
+"You're hiding your weak side,",弱さを隠してるけど,I'm hiding weakness,0.1
 "but deep in those eyes,",その瞳の奥 うずくまる君が,Okuro of the eyes of the eyes,0.1111111111111111
-"If you had a true heart,",本当の心なら,If it is a real heart,0.3
+"you would care, cry, call for someone and worry.",思って 泣いて 一人で 不安で,I think and crying alone,0.06666666666666667
 Why are you holding onto the pain?,なんで 痛いの 持ってんだ,Why do you have painful,0.18181818181818182
 Share some of it with me.,僕に そっと 預けてよ,Please leave me a lot,0.09090909090909091
 "If you don't think it's possible right away,",直ぐじゃ無理と思うのならば,If you think that it is impossible,0.2857142857142857
-"you can do it slowly, bit by bit.",少しずつでいい,Little by little,0.1
 "We don't have wings,",翼の無い僕等はきっと,I'm sure no wing,0.0
 but I'm sure we're only finding times that we can't fly.,飛べないと 決め付けてるだけ,Just decide not to fly,0.05555555555555555
 I'll call for you to the limits of my voice,声の限り君を呼ぶよ 迷わないように,As long as you call you,0.15384615384615385
@@ -16,6 +16,7 @@ On the sides of your mouth.,口の横 二つ分,Two sides of the mouth,0.5
 "When I return the names back to the Youkai,",妖怪達に名前を返す度,Develop return to youkai,0.3
 "Reiko-san's memories become my own thoughts,",レイコさんの記憶が思念となって,Leiko's memory is the idea,0.07692307692307693
 and flow into me.,俺の中に流れ込んでくる,I will flow into me,0.42857142857142855
+"And little by little, Reiko-san...",レイコさんという人が少しずつ,A little bit of people called Reiko,0.08333333333333333
 It's a book borrowed from the library.,図書館から借りたんだな,I borrowed from the library,0.4
 "It looks like she forgot to return it, though.",返し忘れたようだが,It seems that I forgot to return,0.3076923076923077
 This guy says that he eats the kitsune first in kitsune udon!,こいつは狐うどんは狐先に食っていうんだぜ,This guy says that it is likely to eat,0.23529411764705882
@@ -24,7 +25,6 @@ What a silly fight.,くっだらない喧嘩ね,I'm sorry,0.0
 "Here. You dropped this, right?",はい これ落としたでしょう,Yes I dropped this,0.2
 "This is an old ticket, right?",これ昔の切符よね,This exact ticket,0.2222222222222222
 It seems to have some kind of history.,なんかいわくありげって感じだけど,It feels like something like,0.08333333333333333
-You're terrible at telling lies.,嘘が下手ね,Lie is not good,0.0
 "You're going to the station on that ticket, aren't you?",あの切符の駅に行くんでしょう,Let's go to that ticket station,0.25
 "That's right! After that test of courage the other day, I've wanted to see a real one up close!",そう 私こないだの肝試し以来 本格的に会いたくないちゃって,So I can't really want to see you in the liver after trial,0.16129032258064516
 "Hey, look, the bus is here.",あ ほら バス来たわよ,"Oh, I'm busy",0.08333333333333333
@@ -46,6 +46,7 @@ Reiko-san was supposed to go with you to Kiriganuma?,レイコさんは君と一
 "and said, ""I can't forgive you!""",そしたらレイコが,Then Reiko,0.0
 He's probably in the Book of Friends.,恐らくこいつは友人帳に載っている,Perhaps this guy is in a friend book,0.13333333333333333
 "If you return his name, I'm sure the thoughts will explain it all.",名前を返してやれば思念が事情を伝えてくれるだろう,I think that the idea will tell the circumstances if you return the name,0.3333333333333333
+So you had a fight.,ふーん 喧嘩しちゃったんだ,I'm hungry,0.0
 "Mikuri was the one who got angry, though.",うん 怒ったのはみくりだけど,It is Mikuri who got angry,0.3333333333333333
 "But Mikuri said that he hates me,",でもみくりはわしのこと嫌いだって,But Makiri hate it,0.09090909090909091
 and that he doesn't want to see me again.,二度と会いたくないって,I do not want to see it twice,0.1875
@@ -83,9 +84,9 @@ It might just be troublesome once he's back.,かえって厄介なことにな�
 Think of something to say before we get there.,さんと 到着するまでに何ていうか考えとけよ,I think about what to say before arrival,0.2857142857142857
 I don't want it!,いらんわい,Innocent,0.0
 This is...,これは…,this is…,0.25
+By the earth spirits? they feed off of anger and hatred.,地霊は怒りや憎しみを好むからな,Because the genten likes anger and hate,0.17647058823529413
 Did Mikuri hate Santo that much?,みくりはそんなにまでさんとを,Mikuri is so far,0.1
 "What do you want to do, Natsume?",どうする 夏目,What to do,0.375
-"I don't care what happens, then.",どうなっても知らんぞ,I know what happens,0.3
 Mikuri! Come on out!,みくり 出て来てくれ,Come out,0.4
 We need to talk!,みくり 話があるんだ,There is a Mikuri story,0.0
 How small?,ちっちゃいって どのくらい,How much is it,0.16666666666666666
@@ -96,8 +97,10 @@ This is no time to be joking around.,ふざけてる場合じゃないだろう,
 Show yourself!,姿を現せ,Figures,0.0
 A catfish?,な…鯰,... 鯰,0.0
 Want to talk to him?,説得するか,Do you persuade,0.0
+Who do you think I am?,私を誰だと思っておるか,Do you think of me?,0.4444444444444444
 "I see, the Book of Friends is in there.",そうか あの中に友人帳が,"Oh, there is a friend book in that",0.3333333333333333
 What are you doing?,きさま 何をするか,What do you do?,0.5
+Mikuri! It's me! Santo!,みくり みくり わしだ さんとだ,It is Mikuri Mikuri,0.2857142857142857
 "I'm sorry! Please, come to your senses!",わしが悪かった だから目を覚ましてくれ,I woke up because I was bad,0.06666666666666667
 "Come back, Mikuri! Please!",みくり戻ってきてくれ お願いだ,Please come back to me,0.375
 No! I won't!,いやだ 渡さない,I do not pass,0.125
@@ -119,7 +122,7 @@ They already made up a long time ago.,もうとっくに仲直りにしておる
 "Thank you so much, Natsume!",夏目 本当にありがとう,Thank you very much for the summer,0.2727272727272727
 Fool! Don't bow your head to a human!,ばか 人間に頭を下げるな,Don't lower my head,0.25
 But he returned my name.,だって名前も返してくれたし,Because I returned my name,0.375
-"I told you not to lower your head, you idiot!",下げるなっつってんだ このあんぽんたーん,I'm getting lowered this Anpon,0.0625
+"Thank you! i told you not to lower your head, you idiot!",下げるなっつってんだ このあんぽんたーん,I'm getting lowered this Anpon,0.058823529411764705
 What? Just going through it again?,何だ またなんとなくか,What is it?,0.375
 Just putting it back to where it was.,元の所に戻すんだよ,I will return to my original place,0.07142857142857142
 "You said Reiko couldn't keep her promise because she had some special reason, right?",お前レイコが約束を守らなかったのは,Your Leiko did not keep the promise,0.09090909090909091
@@ -138,7 +141,6 @@ That's right! how was it yesterday?,そうだ 昨日はどうだった,That's ri
 Do you eat the shrimp in tempura noodles first or last?,お前てんぷらそばのえび 先に食う 後に食う,Eat after eating before you eat,0.13333333333333333
 Thanks for yesterday.,昨日はありがとう,Thank you for yesterday,0.3333333333333333
 You looked troubled.,困ってたみたいだからさ,Because it seems to be in trouble,0.0
-"On that day where the sky was ablaze,",色づく 西空に,In the colored western sky,0.16666666666666666
 "and rays of light were piercing through,",差し込む一筋の陽,Snowy,0.0
 "the evening rain had stopped,",夕立の雨上がりに,At the rain of the evening,0.375
 "I noticed the scent of summer,",気付く夏の匂い,Memorious summer smell,0.1111111111111111

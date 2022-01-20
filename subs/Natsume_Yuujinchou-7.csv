@@ -2,11 +2,11 @@ en_text,jp_text,google_translated,score
 "There you go, making that face again,",またそんな顔して 唇噛み締めて,I also face such a face and tighten my lips,0.0625
 "You're hiding your weak side,",弱さを隠してるけど,I'm hiding weakness,0.1
 "but deep in those eyes,",その瞳の奥 うずくまる君が,Okuro of the eyes of the eyes,0.1111111111111111
-"you would care, cry, call for someone and worry.",思って 泣いて 一人で 不安で,I think and crying alone,0.06666666666666667
 Why are you holding onto the pain?,なんで 痛いの 持ってんだ,Why do you have painful,0.18181818181818182
 Share some of it with me.,僕に そっと 預けてよ,Please leave me a lot,0.09090909090909091
 "If you don't think it's possible right away,",直ぐじゃ無理と思うのならば,If you think that it is impossible,0.2857142857142857
 "you can do it slowly, bit by bit.",少しずつでいい,Little by little,0.1
+"We don't have wings,",翼の無い僕等はきっと,I'm sure no wing,0.0
 but I'm sure we're only finding times that we can't fly.,飛べないと 決め付けてるだけ,Just decide not to fly,0.05555555555555555
 I'll call for you to the limits of my voice,声の限り君を呼ぶよ 迷わないように,As long as you call you,0.15384615384615385
 "Soar up to the sky with your gentle heart,",フワリ心舞い上がれ あの風に乗せて,Fluffy Conditions and put on that wind,0.0
@@ -26,7 +26,6 @@ I just have a small favor to ask of you.,ちょっと頼みことがあるんだ
 "There's a pottery in the mountains near the hot springs,",温泉近くの山にある窯元で茶碗を受け取ってきてくれないか,Could you receive a bowl in the mountain near the hot spring?,0.2777777777777778
 I received a call saying that they were almost done.,もうすぐ出来上がると連絡があったんでね,I was able to contact you when I finished it soon,0.05
 Could I ask you to do this?,頼めるかな,I will ask you,0.3333333333333333
-"Of course, Shigeru-san.",もちろんです 滋さん,Of course it is Sakai,0.25
 "What a weird laugh, Natsume.",不気味な笑いだな 夏目,It's a spiritual laugh,0.2
 Isn't it natural for your bodyguard to follow you?,用心棒がついてくるのは当然だろう,It will be natural that the core bar comes,0.1111111111111111
 "That's true, but...",そうだけど,"that's right, but",0.5714285714285714
@@ -47,7 +46,6 @@ You're still hanging around the forest?,まだ森をウロチョロしてんの�
 Stop!,止めろ,Stop,0.5
 Are you a human child?,きさま 人の子か,Kisama's child,0.125
 How dare a human child look down on us!,人のこのくせに我らを甘く見るとは,When we look at our sweetness of people,0.058823529411764705
-How impetuous! I'll kill you!,食ろうてやろう,Let's eat,0.0
 "You're a real busybody as always, Natsume.",相変わらずおせっかいだな 夏目,It is still a good summer,0.06666666666666667
 We have to come back again.,また出直さねばならんとは,You can also go out again,0.08333333333333333
 Humans are such troublesome creatures.,人間とは面倒くさい生き物だな,It's a troublesome creature,0.1
@@ -71,6 +69,7 @@ Maybe he's lonely like me.,僕と同じ一人ぼっちで,The same alone as me,0
 and I'd feel bad if it got attached to me.,妙ななつき方したら かわいそうだ,It seems cute if it is strange,0.125
 We can't go get the tea cups now.,これは茶碗を取りに行くどころじゃないよ,This is not going to take a bowl,0.0
 Who knows if we can even make it back to class now.,授業までに戻れるかどうか,Whether to return to the class,0.125
+Thank you.,ありがとう,Thank you,0.6666666666666666
 "Mom, I'm useful now.",母様 僕に役に立てましたよ,My mother was useful for me,0.08333333333333333
 "I'm not useless anymore, right?",もう役立たずじゃありませんよね,It is not useless anymore,0.3
 I'll go gather mushrooms tomorrow.,明日はきのこをとろう,Let's take care of tomorrow,0.08333333333333333
@@ -107,7 +106,9 @@ I'm going to change.,着替えてきます,I will change clothes,0.25
 The townsfolk introduced me to a good pottery.,知人からいい窯元を紹介されてね,Get a good kinomoto from acquaintances,0.15384615384615385
 "Our family has grown, so I thought this was a good chance.",家族が増えたのでこの際にと思ったんだ,I thought this happened because my family has increased,0.2777777777777778
 "This is yours, Takashi.",これが君のだ 貴志,This is yours,0.5
+It's just like that little fox said.,あの子狐に言った通りだ,As I said in that,0.16666666666666666
 It's not about whether you're useful or useless.,役に立つ立たないじゃないんだ,It's not useful,0.36363636363636365
+I don't get it at all.,さっぱり分からん,I do not understand,0.2
 It really is pretty!,やっぱり綺麗,After all beautiful,0.0
 I want to show it to Natsume too.,夏目にも見せたいな,I want to show it to the summer,0.5
 I want to see Natsume.,夏目 夏目に会いたい,I want to see Natsume Natsume,0.8333333333333334
@@ -119,7 +120,6 @@ You still can't disguise yourself as a human?,まだ人間に化けられない�
 "If you can fill me up with fish, then I'll tell you a way to see Natsume.",もしわしに腹いっぱい魚を食わせてくれたら,If you let me eat a full of angry fish,0.20833333333333334
 Will you tell me how to see Natsume now?,これで夏目に会える方法を教えてくれる？,Can this tell me how to meet the summer season?,0.3125
 Natsume already forgot about you a long time ago.,夏目はお前のことなどとっくに忘れてるだろうさ,The summer is forgotten such as you,0.0625
-"Take this, little fox.",受け取れ 子狐,Child,0.0
 It's medicine that will allow you to become a human for one day.,一日だけ人間になれる薬だ,It is a medicine that can be human only one day,0.3684210526315789
 Medicine to become a human?,人間になれる薬？,A medication that can be human beings?,0.2727272727272727
 "If you want to see him, you can go see him yourself.",会いなければ自分から会いに行けばいい,"If you don't meet, you should go from yourself",0.3125
@@ -159,8 +159,10 @@ You've got a cute hat.,可愛いぼうしだね,It's a cute blur,0.2
 Let's go have dinner and then I'll take you home.,ご飯食べて一緒に帰ろう,Let's eat rice and go back together,0.23529411764705882
 I didn't even think of doing something about it.,なんとかしようなんて思わなかった,I did not think I'm going to do something,0.25
 I probably didn't notice many things.,だから いっぱいいろんなものに気付けなかったのかもしれないな,So it might not be aware of various things,0.0625
+"On that day where the sky was ablaze,",色づく 西空に,In the colored western sky,0.16666666666666666
 "and rays of light were piercing through,",差し込む一筋の陽,Snowy,0.0
 "the evening rain had stopped,",夕立の雨上がりに,At the rain of the evening,0.375
+"I noticed the scent of summer,",気付く夏の匂い,Memorious summer smell,0.1111111111111111
 "and the crowded, shining lights.",ひしめく光が照らす,Shine light illuminates,0.0
 "If I turned my ear to my thoughts,",想いに耳を澄ませば,If you listen to your thoughts,0.2727272727272727
 I could hear traces of my dear friends.,聴こえし友の面影,A face of a hearing friend,0.07692307692307693
