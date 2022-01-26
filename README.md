@@ -70,7 +70,7 @@
 <li> -[ ] Black Lagoon</li> 
 <li> -[x] Blame</li>
 <li> -[x] Blazing Transfer Student</li>
-<li> -[ ] Bleach</li> 
+<li> -[x] Bleach</li> 
 <li> -[x] Boku dake ga Inai Machi</li> 
 <li> -[x] Bokurano</li> 
 <li> -[x] Bokura wa Minna Kawaisou</li> 
@@ -117,16 +117,16 @@
 <li> -[ ] Doraemon</li>
 <li> -[x] Dororo</li> 
 <li> -[x] Dr. Stone</li> 
-<li> -[ ] Dragon Ball</li> 
+<li> -[x] Dragon Ball</li> 
 <li> -[ ] Dragon Ball Kai</li> 
-<li> -[ ] Dragon Ball Super</li> 
+<li> -[x] Dragon Ball Super</li> 
 <li> -[ ] Dragon Ball Z</li> 
 <li> -[x] Drifters</li> 
 <li> -[x] Durarara!!</li> 
 <li> -[x] EVE no Jikan</li>  
 <li> -[x] Eureka Seven</li> 
 <li> -[x] Eureka Seven AO</li> 
-<li> -[ ] Fairy Tail</li> 
+<li> -[x] Fairy Tail</li> 
 <li> -[x] Fate Apocrypha</li> 
 <li> -[x] Fate Stay Night</li> 
 <li> -[x] Fate Zero</li> 
@@ -315,7 +315,7 @@
 <li> -[x] Nagi no Asukara</li> 
 <li> -[x] Nande Koko ni Sensei ga!?</li> 
 <li> -[x] Nanatsu no Taizai</li> 
-<li> -[ ] Naruto</li> 
+<li> -[x] Naruto</li> 
 <li> -[ ] Naruto Shippuuden</li> 
 <li> -[x] Natsume Yuujinchou</li> 
 <li> -[x] Neko no Ongaeshi</li> 
@@ -444,9 +444,9 @@
 <li> -[x] Steamboy</li> 
 <li> -[x] Steins;Gate</li>
 <li> -[x] Steins;Gate 0</li> 
-<li> -[ ] Strike Witches</li> 
-<li> -[ ] Suisei no Gargantia</li> 
-<li> -[ ] Summer Wars</li> 
+<li> -[x] Strike Witches</li> 
+<li> -[x] Suisei no Gargantia</li> 
+<li> -[x] Summer Wars</li> 
 <li> -[ ] Super Cub</li> 
 <li> -[ ] Suzumiya Haruhi no Yuuutsu</li> 
 <li> -[x] Sword Art Online</li> 
