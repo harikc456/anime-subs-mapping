@@ -49,7 +49,6 @@
 <li> -[x] Ano Natsu de Matteru</li> 
 <li> -[x] Another</li> 
 <li> -[ ] Ao no Kanata no Four Rhythm</li> 
-<li> -[x] Aoharu x Kikanjuu</li> 
 <li> -[ ] Aoi Hana</li> 
 <li> -[x] Appleseed</li> 
 <li> -[x] Arakawa Under the Bridge</li>
@@ -84,17 +83,14 @@
 <li> -[x] Busou Renkin</li> 
 <li> -[x] Busou Shoujo Machiavellianism</li> 
 <li> -[x] Campione!</li> 
-<li> -[x] Cap Kakumei Bottleman</li> 
 <li> -[x] Charlotte</li> 
 <li> -[ ] Chihayafuru</li> 
 <li> -[x] Chio-chan no Tsuugakuro</li> 
 <li> -[ ] Chobits</li> 
-<li> -[x] Chuunibyou demo Koi ga Shitai!</li> 
 <li> -[x] Citrus</li> 
 <li> -[x] City Hunter</li> 
 <li> -[x] Classroom Crisis</li> 
-<li> -[x] Claymore</li> 
-<li> -[x] Clockwork Planet</li> 
+<li> -[x] Claymore</li>  
 <li> -[x] Code Geass Akito the Exiled</li>
 <li> -[x] Code Geass R1</li>
 <li> -[x] Code Geass R2</li> 
@@ -106,21 +102,16 @@
 <li> -[x] Dungeon ni Deai wo_Motomeru no wa Machigatteiru Darou ka </li> 
 <li> -[x] Dungeon ni Deai wo Motomeru no wa Machigatte Iru Darou ka Gaiden: Sword Oratoria </li> 
 <li> -[x] Deadman Wonderland</li> 
-<li> -[x] Death March kara Hajimaru Isekai Kyousoukyoku</li> 
-<li> -[x] Death Note</li> 
 <li> -[x] Dennou Coil</li> 
 <li> -[ ] Detective Conan</li> 
 <li> -[x] Devilman Crybaby</li> 
 <li> -[x] Diabolik Lovers More, Blood</li> 
 <li> -[x] Digimon Adventure</li> 
-<li> -[x] Domestic na Kanojo</li> 
 <li> -[ ] Doraemon</li>
 <li> -[x] Dororo</li> 
 <li> -[x] Dr. Stone</li> 
 <li> -[x] Dragon Ball</li> 
-<li> -[ ] Dragon Ball Kai</li> 
-<li> -[x] Dragon Ball Super</li> 
-<li> -[ ] Dragon Ball Z</li> 
+<li> -[x] Dragon Ball Super</li>
 <li> -[x] Drifters</li> 
 <li> -[x] Durarara!!</li> 
 <li> -[x] EVE no Jikan</li>  
@@ -131,7 +122,6 @@
 <li> -[x] Fate Stay Night</li> 
 <li> -[x] Fate Zero</li> 
 <li> -[x] Final Fantasy VII Advent Children</li> 
-<li> -[x] Fractale</li> 
 <li> -[x] Free!</li> 
 <li> -[x] Freedom</li> 
 <li> -[x] Full Metal Panic Fumoffu</li> 
@@ -146,7 +136,6 @@
 <li> -[x] Gantz</li>
 <li> -[x] Gate Jietai Kanochi nite Kaku Tatakaeri</li> 
 <li> -[x] Genshiken Nidaime</li> 
-<li> -[x] Ghost Sweeper Mikami</li> 
 <li> -[x] Ghost in the Shell (1995)</li>
 <li> -[x] Ghost in the Shell The New Movie</li> 
 <li> -[x] Ghost in the Shell 2: Innocence</li> 
@@ -160,7 +149,6 @@
 <li> -[x] Golden Kamuy</li> 
 <li> -[x] Golgo 13</li> 
 <li> -[x] Gosick</li> 
-<li> -[x] Great Mazinger</li> 
 <li> -[x] Grisaia no Kajitsu</li> 
 <li> -[x] Guilty Crown</li> 
 <li> -[x] Hachimitsu to Clover</li> 
@@ -169,9 +157,7 @@
 <li> -[x] Haikyuu S1</li>
 <li> -[x] Haikyuu S2</li>
 <li> -[x] Haikyuu S3</li> 
-<li> -[x] Haiyore! Nyaruko-san W</li> 
 <li> -[ ] Hajime no Ippo</li> 
-<li> -[ ] Hajime no Ippo Champion Road</li> 
 <li> -[x] Hajime no Ippo New Challenger</li> 
 <li> -[x] Hanasakeru Seishounen</li> 
 <li> -[x] Hanasaku Iroha</li> 
@@ -186,13 +172,11 @@
 <li> -[x] Hentai Ouji to Warawanai Neko</li>  
 <li> -[x] Hibike! Euphonium</li> 
 <li> -[x] Hibike! Euphonium II</li> 
-<li> -[x] Hidamari Sketch</li> 
 <li> -[ ] Hidamari Sketch Hoshimitsu</li>
 <li> -[x] Higashi no Eden</li> 
 <li> -[x] High School Fleet</li> 
 <li> -[x] High Score Girl</li> 
 <li> -[x] Higurashi no Naku Koro ni</li> 
-<li> -[x] Higurashi no Naku Koro ni Gou</li> 
 <li> -[ ] Hikaru no Go</li> 
 <li> -[x] Himouto! Umaru-chan</li> 
 <li> -[x] Hinomaruzumou - Hinomaru Sumo</li> 
@@ -216,7 +200,6 @@
 <li> -[x] Jojo's Bizarre Adventure Stardust Crusader</li> 
 <li> -[x] Jojo's Bizarre Adventure Diamond is Unbreakable</li> 
 <li> -[x] Jojo's Bizarre Adventure Golden Wind</li> 
-<li> -[x] Jigoku Shoujo</li> 
 <li> -[x] Jinrui wa Suitai Shimashita</li> 
 <li> -[x] Joker Game</li> 
 <li> -[x] Jormungand</li> 
@@ -240,7 +223,6 @@
 <li> -[ ] Keroro Gunsou</li> 
 <li> -[ ] Kiki's Delivery Service</li> 
 <li> -[x] Kill La Kill</li>  
-<li> -[x] Kimagure Orange Road</li> 
 <li> -[x] Kimi to Boku</li> 
 <li> -[ ] Kindaichi Case Files</li> 
 <li> -[x] Kingdom</li> 
@@ -264,14 +246,12 @@
 <li> -[x] Kuroko no Basket S3</li> 
 <li> -[x] Kuromukuro</li> 
 <li> -[ ] Kyoukai No Rinne</li> 
-<li> -[x] Kyoukai no Kanata</li> 
-<li> -[x] Last Exile</li> 
+<li> -[x] Kyoukai no Kanata</li>
 <li> -[x] Little Witch Academia</li> 
 <li> -[ ] Log Horizon S1</li> 
 <li> -[ ] Log Horizon S2</li> 
 <li> -[ ] Long Riders!</li> 
 <li> -[x] Lost Song</li>
-<li> -[x] Lovely Complex</li> 
 <li> -[x] Lucky Star</li> 
 <li> -[ ] Lupin III</li> 
 <li> -[ ] Lupin III Part III</li> 
@@ -301,11 +281,8 @@
 <li> -[x] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?</li>
 <li> -[x] Monster </li> 
 <li> -[x] Monogatari Series (TVDB Order)</li> 
-<li> -[x] Mononoke</li> 
 <li> -[x] Mononoke Hime</li> 
-<li> -[x] Moshidora</li> 
-<li> -[x] Mouretsu Pirates</li> 
-<li> -[x] Moyashimon Returns</li> 
+<li> -[x] Mouretsu Pirates</li>  
 <li> -[x] Musaigen no Phantom World</li> 
 <li> -[x] Mushishi</li> 
 <li> -[x] Mushibugyo</li> 
@@ -327,7 +304,6 @@
 <li> -[x] Non Non Biyori</li> 
 <li> -[x] Noragami</li> 
 <li> -[x] Noragami Aragoto</li> 
-<li> -[x] Nourin</li> 
 <li> -[ ] Nurarihyon no Mago</li> 
 <li> -[ ] Nyan Koi!</li> 
 <li> -[x] Occultic;Nine</li>
@@ -335,11 +311,9 @@
 <li> -[ ] One Piece</li>
 <li> -[x] One Punch Man</li> 
 <li> -[ ] One Room</li> 
-<li> -[x] Ookami Kakushi</li> 
 <li> -[x] Ookami-san to Shichinin no Nakama-tachi</li> 
 <li> -[ ] Ore no Kanojo to Osananajimi ga Shuraba Sugiru</li> 
-<li> -[x] Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru</li> 
-<li> -[x] Orenchi no Furo Jijou</li> 
+<li> -[x] Ore no Nounai Sentakushi ga, Gakuen Lovecome o Zenryoku de Jama Shiteiru</li>  
 <li> -[x] Ouran Koukou Host Club</li> 
 <li> -[x] Overlord S2</li> 
 <li> -[x] Overlord S3</li> 
@@ -377,10 +351,7 @@
 <li> -[ ] Saint Seiya</li> 
 <li> -[ ] Saiunkoku Monogatari</li> 
 <li> -[ ] Sakasama no Patema</li> 
-<li> -[ ] Saki</li> - X 
-<li> -[x] Sakigake!! Cromartie Koukou</li> 
-<li> -[ ] Sakura Quest</li>  -  X
-<li> -[x] Sakura Trick</li> 
+<li> -[ ] Saki</li> - X  
 <li> -[ ] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</li> 
 <li> -[x] Sakurasou no Pet na Kanojo</li>
 <li> -[x] Samurai 7</li> 
@@ -391,8 +362,7 @@
 <li> -[x] Sayonara Zetsubou Sensei</li> 
 <li> -[ ] School Days</li> 
 <li> -[ ] School Rumble</li> 
-<li> -[ ] Scrapped Princess</li> 
-<li> -[ ] Seikai no Senki</li> - X 
+<li> -[ ] Scrapped Princess</li>  
 <li> -[ ] Seikimatsu Occult Gakuin</li> 
 <li> -[x] Seirei no Moribito</li> 
 <li> -[ ] Seiren</li> 
@@ -422,7 +392,6 @@
 <li> -[ ] Shokugeki no Soma S2</li> 
 <li> -[x] Shoujo Kakumei Utena</li> 
 <li> -[x] Shoujo Shuumatsu Ryokou</li> 
-<li> -[ ] Shoukoku no Altair</li> - X
 <li> -[x] Shouwa Genroku Rakugo Shinjuu S1 & S2</li> 
 <li> -[x] Shuumatsu no Izetta</li> 
 <li> -[ ] Sirius the Jaeger</li> 
@@ -432,9 +401,7 @@
 <li> -[ ] Sora no Method</li> 
 <li> -[x] Sora no Otoshimono</li> 
 <li> -[x] Sora no Otoshimono Forte</li> 
-<li> -[ ] Sora yori mo Tooi Basho</li> 
-<li> -[x] Soredemo Machi wa Mawatteiru</li> 
-<li> -[ ] Soul Eater</li> - X
+<li> -[ ] Sora yori mo Tooi Basho</li>  
 <li> -[ ] Soul land Douluo Dalu</li> 
 <li> -[x] Space Brothers</li>
 <li> -[x] Space Pirate Captain Harlock</li>
@@ -480,18 +447,15 @@
 <li> -[x] Tokyo Ghoul</li>
 <li> -[ ] Tokyo Ghoul Root A</li> 
 <li> -[ ] Tokyo Godfathers</li> 
-<li> -[x] Tokyo Magnitude 8.0</li> 
 <li> -[x] Tokyo Ravens</li> 
 <li> -[ ] Tonari no Seki-kun</li> 
 <li> -[x] Tonari no Totoro</li> 
-<li> -[x] Toriko</li> 
 <li> -[x] Trigun</li>
 <li> -[ ] Trinity Blood</li> - X 
 <li> -[x] Trinity Seven</li> 
 <li> -[ ] Tsubasa Shunraiki</li> 
 <li> -[ ] Tsubasa Tokyo Revelations</li> 
 <li> -[x] Tsugumomo</li> 
-<li> -[x] Tsukimonogatari</li> 
 <li> -[x] Tsuredure Children</li> 
 <li> -[ ] Tsuritama</li> 
 <li> -[ ] Uchiage Hanabi (2017)</li> 
@@ -541,7 +505,6 @@
 
 ## Things to do while cleaning the data
 <ul>
-<li> -[ ] If the jp_text rows entry is a number then put the same number to en_text, change score to 1
 <li> -[x] Remove/Merge duplicate jp_text to eng_text mappings </li>
 <li> -[x] Remove words inside {} and <> in jp_text and en_text</li>
 <li> -[x] Remove rows where en_text has less than 3 characters length </li>
