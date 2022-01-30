@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774589
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017531
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.60482836
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,11 +68,11 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.55187774
 "We now start the second test
 of the Chunin Exam!","第２の試験を開始する！
 
-",Start the second exam!,0.5
+",Start the second exam!,0.5,0.6438927
 "Those three, right?","(
 忍１
 )
@@ -84,7 +84,7 @@ of the Chunin Exam!","第２の試験を開始する！
 
 ","Looking for a girl!
 
-That three people, right?",0.3333333333333333
+That three people, right?",0.3333333333333333,0.40832472
 All right! Let's go!,"(ﾅﾙﾄ)
 よっしゃ～
  
@@ -92,7 +92,7 @@ All right! Let's go!,"(ﾅﾙﾄ)
 
 ","~
  
-I'll go ~!",0.2222222222222222
+I'll go ~!",0.2222222222222222,0.4765372
 Yes.,"行けるか？
  
 ヒナタ
@@ -107,7 +107,7 @@ Hinata
 .
 
 Yes
-.",0.2857142857142857
+.",0.2857142857142857,0.25717753
 "Slow down, Lee! We just started.","(
 ネジ
 )
@@ -121,7 +121,7 @@ Yes
  
 Lee
 It has just begun
-.",0.23076923076923078
+.",0.2307692307692308,0.6468959
 I know. But...,"(
 リー
 )
@@ -139,7 +139,7 @@ I know. But...,"(
 but…
 .
 
-Yeah?",0.2222222222222222
+Yeah?",0.2222222222222222,0.542802
 "Who knows what kind of
 powerful foe is waiting for us?!","どんな強敵が待っているかと
 思うとね
@@ -147,7 +147,7 @@ powerful foe is waiting for us?!","どんな強敵が待っているかと
 
 ","What kind of strong enemy is waiting
 I think
-.",0.2777777777777778
+.",0.2777777777777778,0.7560073
 I-I'm kinda getting nervous.,"うっ…
  
 何か緊張してきた
@@ -156,22 +156,22 @@ I-I'm kinda getting nervous.,"うっ…
 ","Uey ...
  
 Something is nervous
-.",0.2
+.",0.2,0.5383909
 Y-You... Fool!,"このばか！
 
-",This fool!,0.4
+",This fool!,0.4,0.5944657
 What are you doing in front of a lady!,"レディーの前で
 何さらそうとしてんのよ！
 
 ","In front of lady
-What's wrong!",0.5
+What's wrong!",0.5,0.7923602
 Go to the grass!,"草陰
  
 行きなさいよ！
 
 ","Scales
  
-Go!",0.3333333333333333
+Go!",0.3333333333333333,0.23959748
 <i>Eat or be Eaten. Panic in the Forest</i>,"俺ってば
  
 ちっと
@@ -184,14 +184,14 @@ Go!",0.3333333333333333
 Chicken
  
 Bump
-.",0.125
+.",0.125,0.12987831
 Oh! Ohhh!,"お～
  
 お～！
 
 ","Oh
  
-Oh!",0.6666666666666666
+Oh!",0.6666666666666666,0.896904
 "C'mon Naruto! I told you not to say
 things like that in front of a lady!","だから
  
@@ -201,10 +201,10 @@ things like that in front of a lady!","だから
 ","that's why
  
 In front of lady
-Don't say that!",0.3333333333333333
+Don't say that!",0.3333333333333333,0.55006737
 What?!,"えっ!?
 
-",eh!?,0.5
+",eh!?,0.5,0.4088227
 "no matter what,
 you don't have to go that far.","サスケ君
  
@@ -216,7 +216,7 @@ you don't have to go that far.","サスケ君
  
 Anywhere
 Even if you don't have it ...
-.",0.2631578947368421
+.",0.2631578947368421,0.107782535
 Where's the real Naruto?!,"(ｻｽｹ)
 本物のナルトは
  
@@ -224,10 +224,10 @@ Where's the real Naruto?!,"(ｻｽｹ)
 
 ","Genuine Naruto
  
-Where's?",0.5
+Where's?",0.5,0.8657269
 Huh?,"え!?
 
-",Huh!?,0.6666666666666666
+",Huh!?,0.6666666666666666,0.90637225
 "I don't know what the heck
 you're talking about!","な…
  
@@ -235,7 +235,7 @@ you're talking about!","な…
 
 ","...
  
-What should I do?",0.2
+What should I do?",0.2,0.03978398
 "What happened to the scratch
 you got earlier from the Proctor?!","さっき
  
@@ -249,7 +249,7 @@ you got earlier from the Proctor?!","さっき
 I was attached to that examiner
 Scratch
  
-What happened?",0.25
+What happened?",0.25,0.6104807
 "And... your Shuriken holster
 is on your left leg.","それに手裏剣のホルスターが
 左脚についてる
@@ -257,12 +257,12 @@ is on your left leg.","それに手裏剣のホルスターが
 
 ","Back sword Holster
 On the left leg
-.",0.38461538461538464
+.",0.38461538461538464,0.69561297
 That guy's right handed.,"うっ
 ｡
 
 ","Pet
-.",0.14285714285714285
+.",0.14285714285714285,0.15496628
 Which one of you got the scroll?!,"(
 朧
 )
@@ -270,7 +270,7 @@ Which one of you got the scroll?!,"(
 どっちだ？➡
 
 ","What is a collection of scrolls
-Which one?➡",0.26666666666666666
+Which one?➡",0.26666666666666666,0.51650643
 "Fire Style:
 Phoenix. Flower Jutsu!","《火[外:99C09079206BA433E50523B592C8055A]
  
@@ -278,7 +278,7 @@ Phoenix. Flower Jutsu!","《火[外:99C09079206BA433E50523B592C8055A]
 
 ","""Fire: 99C09079206BA433E50523B592C8055A]
  
-Technology of the Senka!""",0.1875
+Technology of the Senka!""",0.1875,0.43399647
 This is lucky!,"(
 朧
 )
@@ -292,14 +292,14 @@ This is lucky!,"(
  
 There was a gap
  
-lucky!",0.2222222222222222
+lucky!",0.2222222222222222,0.42614314
 Sasuke!,"お～い
  
 サスケ～！
 
 ","Okey
  
-Sasuke ~!",0.5
+Sasuke ~!",0.5,0.85362613
 <i>Y-You're always late Naruto!</i>,"《てめぇは
  
 いつも遅ぇぞ
@@ -308,7 +308,7 @@ Sasuke ~!",0.5
 ","""Temple
  
 Always late
-Naruto!""",0.3076923076923077
+Naruto!""",0.3076923076923077,0.74514294
 "Don't just stand there, Sakura!","サスケ君！
 ボケボケすんな
  
@@ -317,13 +317,13 @@ Naruto!""",0.3076923076923077
 ","Sasuke-kun!
 Bokeh bokeh
  
-Sakura!",0.2
+Sakura!",0.2,0.63103044
 Got it?!,"逃がすか！
 
-",I miss it!,0.3333333333333333
+",I miss it!,0.3333333333333333,0.23107937
 "<i>He got away, huh?</i>","《逃げたか》
 
-","""I ran away""",0.15384615384615385
+","""I ran away""",0.15384615384615385,0.5039267
 "If there's an instance that
 we become separated,","いったん
 ３人
@@ -333,14 +333,14 @@ we become separated,","いったん
 ","Once
 Three
  
-If you become a breaker",0.13333333333333333
+If you become a breaker",0.13333333333333333,0.21308029
 Just like now there's a possibility,"今みたいに敵が変化して
 接近する可能性がある
 ｡
 
 ","The enemy changes like now
 May access
-.",0.15384615384615385
+.",0.15384615384615385,0.30228645
 "- Yeah.
 - So what do we do?","うん
 ｡
@@ -352,7 +352,7 @@ May access
 .
 Like that
  
-What to do?",0.3333333333333333
+What to do?",0.3333333333333333,0.4842321
 We'll decide on a password.,"合言葉を決めておく
 ｡
 ん…
@@ -363,19 +363,19 @@ We'll decide on a password.,"合言葉を決めておく
 .
 Hmm…
  
-A word?",0.25
+A word?",0.25,0.31315354
 presume he is an enemy!,"敵と見なせ
 ｡
 
 ","Looking as an enemy
-.",0.2222222222222222
+.",0.2222222222222222,0.5746076
 "I'll only say it once, so listen closely.","１回しか言わないからな
 よく聞いとけ
 ｡
 
 ","I do not say once
 Listen to
-.",0.35714285714285715
+.",0.35714285714285715,0.73215806
 And the answer is this:,"その答えは
  
 こうだ
@@ -384,14 +384,14 @@ And the answer is this:,"その答えは
 ","The answer is
  
 This
-.",0.5714285714285714
+.",0.5714285714285714,0.7788649
 """The quiet place has no secret hideout.","静かな方に隠れがもなし
 ｡
 ➡
 
 ","There is no hiding in the quiet person
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.56792873
 That's it.,"忍歌
  
 忍機と問う
@@ -400,7 +400,7 @@ That's it.,"忍歌
 ","Ninoba
  
 Ninpa
-.",0.16666666666666666
+.",0.16666666666666666,0.15535976
 Could you say it again?,"もう一回
  
 言ってくんない？
@@ -409,18 +409,18 @@ Could you say it again?,"もう一回
 ","again
  
 Do not say?
-Yeah?",0.3333333333333333
+Yeah?",0.3333333333333333,0.5062416
 I told you I'd only say it once.,"１回だけと言っただろ
 ｡
 
 ","I said only once
-.",0.4
+.",0.4,0.8099675
 "- You fool!
 - Huh?!","ひょっとして
 覚えられなかったの？
 
 ","Hiy
-Did not you remember?",0.2
+Did not you remember?",0.2,0.17663844
 I got it right away!,"お…
  
 俺だって
@@ -431,7 +431,7 @@ I got it right away!,"お…
  
 I am
 If you remember it
-.",0.16666666666666666
+.",0.16666666666666666,0.2152981
 "I thought just in case,
 I'd listen one more time...","ただ
  
@@ -447,12 +447,12 @@ I thought for me
 once again
  
 I heard it
-.",0.15789473684210525
+.",0.15789473684210525,0.4223804
 I'll carry the scroll!,"巻物は俺が持つ
 ｡
 
 ","The scroll has me
-.",0.2222222222222222
+.",0.2222222222222222,0.6600283
 "Hey, wait Sasuke.","おい
  
 待てよ
@@ -463,13 +463,13 @@ I'll carry the scroll!,"巻物は俺が持つ
  
 Wait
  
-Sasuke!",0.2857142857142857
+Sasuke!",0.2857142857142857,0.8789093
 Ouch!,"痛っ！
 
-",ow!,0.3333333333333333
+",ow!,0.3333333333333333,0.5244582
 What is it?,"何だ？
 
-",What?,0.5
+",What?,0.5,0.43106017
 You guys go play around...,"(
 忍
 )
@@ -481,28 +481,28 @@ You guys go play around...,"(
 ","You are
 Play around that side
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.49446937
 I'll go alone...,"ここは私一人で行くわ
 ｡
 
 ","I'm going here alone
-.",0.2222222222222222
+.",0.2222222222222222,0.72833335
 Sakura!,"うわ～！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.2058023
 "It is important for a Shinobi
 to know the right time.","まずは合言葉だ
 ｡
 
 ","First of all, it is a secret word
-.",0.2222222222222222
+.",0.2222222222222222,0.18212181
 Good.,"よし
 ｡
 痛ぇ！
 
 ","Good
 .
-Pain!",0.5
+Pain!",0.5,0.5974562
 "Hey everyone, are you okay?","おい
  
 みんな
@@ -513,7 +513,7 @@ Pain!",0.5
  
 Everyone
  
-Are you okay?",0.625
+Are you okay?",0.625,0.7958372
 "Naruto, wait!","ナルト
  
 ちょい待ちなさい
@@ -522,7 +522,7 @@ Are you okay?",0.625
 ","Naruto
  
 Wait a little
-.",0.2857142857142857
+.",0.2857142857142857,0.8990404
 I know...,"合言葉
 ｡
 分かってるって
@@ -531,19 +531,19 @@ I know...,"合言葉
 ","Secret word
 .
 I know
-.",0.3333333333333333
+.",0.3333333333333333,0.31693023
 "The quiet place has no
 secret hideout.","静かな方に隠れがもなし
 ｡
 
 ","There is no hiding in the quiet person
-.",0.3076923076923077
+.",0.3076923076923077,0.7252644
 "The time when an enemy
 is tired and drops his guard.","敵のつかれと油断するとき
 ｡
 
 ","When the enemy is inserted and off
-.",0.42857142857142855
+.",0.42857142857142855,0.61011446
 "This time it's someone who
 can dodge my attack, huh?","今度は
 俺の攻撃をよけるほどのヤツか
@@ -551,7 +551,7 @@ can dodge my attack, huh?","今度は
 
 ","Next time
 A guy who wears my attack
-.",0.2222222222222222
+.",0.2222222222222222,0.5100577
 "What are you saying, Sasuke?","何言ってるの？
  
 サスケ君
@@ -560,7 +560,7 @@ A guy who wears my attack
 ","What are you saying?
  
 Sasuke
-.",0.75
+.",0.75,0.9758767
 "Naruto just said
 the password properly.","ナルトは
 ちゃんと合言葉を言えたじゃない
@@ -568,13 +568,13 @@ the password properly.","ナルトは
 
 ","Naruto
 He could not say the word
-.",0.25
+.",0.25,0.5890427
 "- Huh?!
 - Wha?","うわ！
 え!?
 
 ","Wow!
-Huh!?",0.5
+Huh!?",0.5,0.42500505
 "Do you really think that guy can
 remember a password that long?","あいつが
  
@@ -584,10 +584,10 @@ remember a password that long?","あいつが
 ","that guy
  
 Anna long match
-Do you think it will be remembered?",0.3888888888888889
+Do you think it will be remembered?",0.3888888888888889,0.31342742
 Oh!,"お？
 
-",Oh?,0.3333333333333333
+",Oh?,0.3333333333333333,0.8481386
 "If we asked the normal Naruto
 what the password is,","もし
  ｢
@@ -599,12 +599,12 @@ what the password is,","もし
  ""
 What is the secret word?
 ""
-If you ask me",0.2222222222222222
+If you ask me",0.2222222222222222,0.33048043
 what do you think he'd say?,"ふだんのナルトなら
 何て答えると思う？
 
 ","If it is usually Naruto
-What do you think?",0.38461538461538464
+What do you think?",0.38461538461538464,0.0924305
 """Sorry. I've forgotten it.""","｢
 悪い
  
@@ -615,19 +615,19 @@ What do you think?",0.38461538461538464
 bad
  
 Forgotten
-"".",0.4444444444444444
+"".",0.4444444444444444,0.53709066
 "Besides, his movements when
 he avoided my attack...","しかも俺の攻撃を避けた時の
 あの動き➡
 
 ","And when you avoid my attack
-That movement ➡",0.1875
+That movement ➡",0.1875,0.5749823
 "It was clearly different
 from Naruto's!","明らかにナルトとは違う
 ｡
 
 ","Clearly different from Naruto
-.",0.4444444444444444
+.",0.4444444444444444,0.8669253
 "But if you knew he would forget it,","(
 忍
 )
@@ -635,7 +635,7 @@ from Naruto's!","明らかにナルトとは違う
 忘れるのが分かってたんなら➡
 
 ","but
-If you know forgetting",0.2727272727272727
+If you know forgetting",0.2727272727272727,0.6649452
 "why didn't you make
 the password shorter?","どうして
  
@@ -645,7 +645,7 @@ the password shorter?","どうして
 ","why
  
 Morely
-Did not you do?",0.3333333333333333
+Did not you do?",0.3333333333333333,0.32259437
 "I knew that you were
 underground","盗み聞きしてるのは
 分かってたんだよ
@@ -653,13 +653,13 @@ underground","盗み聞きしてるのは
 
 ","I'm listening to
 I knew it
-.",0.18181818181818182
+.",0.18181818181818185,0.46141237
 "eavesdropping on
 our conversation.","てめぇが土ん中で
 俺たちの会話を➡
 
 ","Temeshi is in the morning
-Our conversation",0.2
+Our conversation",0.2,0.33779934
 So I chose that password on purpose.,"なるほど
  
 つかれも油断もない
@@ -670,12 +670,12 @@ So I chose that password on purpose.,"なるほど
  
 I have no oil
 I'm sorry
-.",0.26666666666666666
+.",0.26666666666666666,0.05444135
 This will be more fun than I thought.,"思った以上に楽しめそうだわ
 ｡
 
 ","It seems to be able to enjoy more than I thought
-.",0.42857142857142855
+.",0.42857142857142855,0.34436375
 <i>And where's Naruto?</i>,"それに
 ナルトのヤツは
  
@@ -684,7 +684,7 @@ This will be more fun than I thought.,"思った以上に楽しめそうだわ
 ","in addition
 Naruto's guy
  
-where?""",0.3076923076923077
+where?""",0.3076923076923077,0.80028397
 "Huh? Where are Sakura
 and that Sasuke?","あれ？
  
@@ -698,7 +698,7 @@ and that Sasuke?","あれ？
 Sakura-chan
 Sasuke's guy
  
-where?",0.36363636363636365
+where?",0.3636363636363637,0.8633039
 "<i>This is the first time I've seen...</i>
 <i>a snake this huge!</i>","《こんな
  
@@ -708,10 +708,10 @@ where?",0.36363636363636365
 ","""Such
  
 Snake
-I just saw it for the first time",0.22727272727272727
+I just saw it for the first time",0.2272727272727273,0.76899225
 Behind?!,"《後ろ!?》
 
-","""back!?""",0.3333333333333333
+","""back!?""",0.3333333333333333,0.46842626
 T-Tail!,"で…
  
 で…
@@ -722,7 +722,7 @@ T-Tail!,"で…
  
 and…
  
-Hey!",0.25
+Hey!",0.25,0.19431093
 "You want our Earth Scroll,
 don't you?","私たちの地の書
  
@@ -730,17 +730,17 @@ don't you?","私たちの地の書
 
 ","Book of our land
  
-Do you want me?➡",0.35714285714285715
+Do you want me?➡",0.35714285714285715,0.36962616
 'Cause you have the Heaven Scroll.,"君たちは天の書だものね
 ｡
 
 ","You are a letter of heaven
-.",0.2727272727272727
+.",0.2727272727272727,0.45896727
 the battle for the Scrolls.,"巻物の奪い合いを
 ｡
 
 ","Collection of scrolls
-.",0.2857142857142857
+.",0.2857142857142857,0.6876391
 Life or Death!,"(
 忍
 )
@@ -748,7 +748,7 @@ Life or Death!,"(
 ｡
 
 ","In life
-.",0.16666666666666666
+.",0.16666666666666666,0.52105945
 "<i>This is simply</i>
 <i>a thirst for blood.</i>","これは
  
@@ -760,20 +760,20 @@ Life or Death!,"(
  
 It's just a heartache
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.2996546
 "<i>Just looking at her eyes</i>
 <i>made me think of death.</i>","何てことだ
 ヤツの目を見ただけで➡
 
 ","Oh my God
-Just looking at the eyes of the guy",0.2631578947368421
+Just looking at the eyes of the guy",0.2631578947368421,0.39497352
 <i>Who is this... woman?!</i>,"《何者だ？
  
 こいつ》
 
 ","""Who are you? 
  
- this guy""",0.1875
+ this guy""",0.1875,0.4059019
 Sa... kura?,"ハァ
  
 ハァ
@@ -786,7 +786,7 @@ Sa... kura?,"ハァ
 Han
  
 Hua ...
-.",0.14285714285714285
+.",0.14285714285714285,0.35203254
 <i>We have no choice but to flee here.</i>,"《ダメだ
 ここは逃げるしかない
 ｡
@@ -795,7 +795,7 @@ Hua ...
 ","""No good
 I have no choice but to escape
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.58434105
 "<i>Unless we do, the only thing</i>
 <i>waiting for us is...</i>","そうしなければ
 待っているのは…
@@ -805,10 +805,10 @@ I have no choice but to escape
 ","you should do
 What is waiting ...
 .
-➡",0.19047619047619047
+➡",0.19047619047619047,0.4814448
 <i>Death!</i>,"死をイメージさせられた》
 
-",I was able to imagine death,0.2
+",I was able to imagine death,0.2,0.44441763
 The rice ball I took for lunch!,"昼飯に取っておいた
  
 お握り
@@ -816,70 +816,70 @@ The rice ball I took for lunch!,"昼飯に取っておいた
 
 ","I took it to lunch
 rice ball
-.",0.45454545454545453
+.",0.4545454545454545,0.87790084
 It's dissolving!,"い…
  
 嫌だ～！
 
 ","stomach…
  
-I hate it!",0.2857142857142857
+I hate it!",0.2857142857142857,0.27025777
 N-No!,"う～！
 
-",!,0.5
+",!,0.5,0.42192462
 Let me out! Let me... out!,"出せ！
  
 出せってばよ～！
 
 ","Get out!
  
-If you go out!",0.2222222222222222
+If you go out!",0.2222222222222222,0.57295305
 Can't move already?,"もう動けないの？
 
-",Can't move anymore?,0.6666666666666666
+",Can't move anymore?,0.6666666666666666,0.88899994
 <i>Move! Move!</i>,"動け！》
 
-","Move!""",0.2857142857142857
+","Move!""",0.2857142857142857,0.704611
 What do you intend to do... with that?,"それで…
  
 どうする気？
 
 ","So ...
  
-What do you do?",0.5
+What do you do?",0.5,0.5259803
 "Don't worry.
 I'll end this in a second.","一瞬で終わらせてあげる
 ｡
 
 ","I will finish in an instant
-.",0.2
+.",0.2,0.42746642
 I wanted you to entertain me more.,"もう少し
 楽しませてほしかったけど…
 ｡
 
 ","A little more
 I wanted to have fun ...
-.",0.38461538461538464
+.",0.38461538461538464,0.60835534
 It's too bad.,"くっ…
 ｡
 
 ","...
-.",0.16666666666666666
+.",0.16666666666666666,0.1541916
 <i>Am... I going to die here?</i>,"《俺ってば
 ここで死んじまうのかな？》
 
 ","""If I do
-Do you die here?""",0.25
+Do you die here?""",0.25,0.55851716
 <i>Kakashi Sensei.</i>,"カカシ先生➡
 
-",Kakashi teacher ➡,0.125
+",Kakashi teacher ➡,0.125,0.69418544
 "<i>Even though we always squabbled,</i>","いっつも
  
 いがみ合いながらも➡
 
 ","Always
  
-Even though I am jealous",0.3333333333333333
+Even though I am jealous",0.3333333333333333,0.19579178
 "<i>we cooperated and saved Kakashi Sensei</i>
 <i>in that encounter with Zabuz a.</i>","カカシ先生
 助けたこともあった
@@ -889,38 +889,38 @@ Even though I am jealous",0.3333333333333333
 ","teacher Kakashi
 Sometimes I helped
 .
-➡",0.09523809523809523
+➡",0.09523809523809523,0.46814996
 "<i>During our Chakra training in forest,</i>","森の中でのチャクラの修業に
 ２人とも意地になって➡
 
 ","In the study of Chakra in the forest
-The two are also meaningful",0.16666666666666666
+The two are also meaningful",0.16666666666666666,0.6933949
 "- <i>More rice!</i>
 - <i>More rice!</i>","＜お代わり！＞
 
-",<I'm a car!>,0.36363636363636365
+",<I'm a car!>,0.3636363636363637,0.33076176
 I see.,"なるほどね
 ｡
 
 ","I see
-.",1.0
+.",1.0,0.99999994
 "<i>Move. Move. Move.</i>
 <i>Move!</i>","＜うっ！＞
 
-",<Uh!>,0.3333333333333333
+",<Uh!>,0.3333333333333333,0.37751573
 <i>He wiped out the fear with pain.</i>,"(
 忍
 )
 《痛みで恐怖を消し去るとは》
 
-","""If you get off the fear with pain""",0.16666666666666666
+","""If you get off the fear with pain""",0.16666666666666666,0.6047037
 Shadow Clone Jutsu!,"影分身の術！
 
-",Shadow Subordination!,0.4
+",Shadow Subordination!,0.4,0.5519525
 "I... am a Shinobi who
 will become Hokage!","俺は火影になる忍だぞ！
 
-",I'm a fire that will be fire!,0.2857142857142857
+",I'm a fire that will be fire!,0.2857142857142857,0.328678
 "I won't put up with being
 snake dung in this place!","こんなとこで
  
@@ -930,38 +930,38 @@ snake dung in this place!","こんなとこで
 ","In this
  
 Become a snake
-I'm going to get up!",0.3157894736842105
+I'm going to get up!",0.3157894736842105,0.6256199
 Sasuke.,"サスケ君
  
 大丈夫？
 
 ","Sasuke
  
-fine?",0.25
+fine?",0.25,0.8370732
 <i>How should we escape?</i>,"どう逃げる？
 どう逃げればいい？》
 
 ","How to escape?
-How should I run away?""",0.38461538461538464
+How should I run away?""",0.38461538461538464,0.6932223
 <i>I've never seen Sasuke...</i>,"こんなの見たことがない》
 
-",I have never seen this,0.2727272727272727
+",I have never seen this,0.2727272727272727,0.29787073
 "Sasuke, a snake!","サスケ君
  
 蛇！
 
 ","Sasuke
  
-snake!",0.6
+snake!",0.6,0.9596627
 "Shoot! I was too shaken up
 to notice the snake!","気が動転して
 蛇にも気付かねえとは！
 
 ","I feel moved
-Do not care for the snake!",0.23529411764705882
+Do not care for the snake!",0.2352941176470588,0.6200642
 Don't come near me!,"来るな～！
 
-",Don't come!,0.6666666666666666
+",Don't come!,0.6666666666666666,0.7144591
 "Don't lower your guard,
 not even for a moment...","(
 忍
@@ -974,33 +974,33 @@ not even for a moment...","(
 ","Even for a moment
 It is not good to be careful
 .
-➡",0.25
+➡",0.25,0.3538982
 "A prey must always stay tense
 and try to flee desperately...","常に気を張って逃げ惑うものなの
 ｡
 
 ","It's always aware of it and run away
-.",0.10526315789473684
+.",0.10526315789473684,0.37955976
 before a predator.,"捕食者の前ではね
 ｡
 
 ","In front of predator
-.",0.2857142857142857
+.",0.2857142857142857,0.661089
 Sorry Sasuke...,"悪いな
  
 サスケ！
 
 ","sorry 
  
- Sasuke!",0.5
+ Sasuke!",0.5,0.9093742
 Naruto!,"ナルト！
 
-",Naruto!,1.0
+",Naruto!,1.0,0.99999976
 The password... I forgot it!,"忘れちまったぜ
 ｡
 
 ","I forgot
-.",0.25
+.",0.25,0.258409
 "<i>when you want to cry, and you want to run away</i>","♬
  
 君は
@@ -1011,14 +1011,14 @@ The password... I forgot it!,"忘れちまったぜ
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.3908758
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.28646752
 "it's all your fault, isn't it?","♬
  
 もう
@@ -1029,14 +1029,14 @@ Because I'm crying",0.1
  
 Already
  
-it's fine",0.16666666666666666
+it's fine",0.16666666666666666,0.14038102
 You damn snake bastard!,"♬
  
 幸せを忘れてしまったら
 
 ","♬
  
-If you forgot happiness",0.1111111111111111
+If you forgot happiness",0.1111111111111111,0.18421048
 "Next episode: ""Naruto's Counterattack:
 Never Give In!""","♬
  
@@ -1044,11 +1044,11 @@ Never Give In!""","♬
 
 ","♬
  
-A singing",0.0
+A singing",0.0,0.13920917
 Look forward to my kicking butt!,"♬
  
 泣きたくなって
 
 ","♬
  
-I want to cry",0.09090909090909091
+I want to cry",0.09090909090909093,0.28576857

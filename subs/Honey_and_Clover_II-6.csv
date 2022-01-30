@@ -1,273 +1,273 @@
-en_text,jp_text,google_translated,score
-watashi ga umareta asa no machi yuki no naka ni umoreta,♪～,♪ ~,0.0
-Dad...,父さん…,Father ...,0.3333333333333333
-What?,（森田の父）何？ 本当か…,what?Really…,0.6666666666666666
-Got it. I'll be right there.,分かった すぐに行く,I understand immediately,0.1
-What? Isn't he in his office?,え？ 社長室にいない？,picture?Isn't it in the president office?,0.4166666666666667
-But the president...,ええ？ そんなあ  俺 社長に…,Yes?Such a president ...,0.25
-The president already went home.,社長なら もう帰られましたよ,"If it is the president, I was already back",0.23076923076923078
+en_text,jp_text,google_translated,score,semantic_score
+watashi ga umareta asa no machi yuki no naka ni umoreta,♪～,♪ ~,0.0,0.19921556
+Dad...,父さん…,Father ...,0.3333333333333333,0.8879161
+What?,（森田の父）何？ 本当か…,what?Really…,0.6666666666666666,0.62831056
+Got it. I'll be right there.,分かった すぐに行く,I understand immediately,0.1,0.13884343
+What? Isn't he in his office?,え？ 社長室にいない？,picture?Isn't it in the president office?,0.4166666666666667,0.56806874
+But the president...,ええ？ そんなあ  俺 社長に…,Yes?Such a president ...,0.25,0.5139579
+The president already went home.,社長なら もう帰られましたよ,"If it is the president, I was already back",0.2307692307692308,0.58145654
 Tomorrow is the presentation for our new project!,"なんで？
 あさってプレゼンだよ 新企画の","why?
-It's a presentation. Of the new project",0.25
+It's a presentation. Of the new project",0.25,0.54158646
 "But he ran out screaming, ""We're having curry tonight!""","でも“今晩はカレーだ”って叫んで
 飛び出して行ったから…","But ""I'm curry tonight""
-Because she went out and went out ...",0.2857142857142857
-Curry?,カレー？,curry?,1.0
-I guess it can't be helped if it's curry...,カレーじゃ しかたないよな…,It's curry ... ...,0.36363636363636365
-Hey!,（馨・森田）わあ！,Wow!,0.3333333333333333
-"Now, take a look.",（森田の父）ほーら 見てごらん,Hooking,0.0
+Because she went out and went out ...",0.2857142857142857,0.59017503
+Curry?,カレー？,curry?,1.0,1.0000001
+I guess it can't be helped if it's curry...,カレーじゃ しかたないよな…,It's curry ... ...,0.3636363636363637,0.77880096
+Hey!,（馨・森田）わあ！,Wow!,0.3333333333333333,0.3825417
+"Now, take a look.",（森田の父）ほーら 見てごらん,Hooking,0.0,0.062168203
 "When you shine a light on it, it heads toward the light.","光に向かって
 進んでいくんだ","Toward light
-I progress",0.14285714285714285
+I progress",0.14285714285714285,0.47634926
 It's the smallest robot in the world.,"世界で一番 小さなロボット
 名前は“カブたん”","The best robot in the world
-The name is ""Kabi""",0.2857142857142857
-Kabu-tan...,（馨）あ…,...,0.5
+The name is ""Kabi""",0.2857142857142857,0.5675124
+Kabu-tan...,（馨）あ…,...,0.5,0.120604336
 "Kaoru's ""Ka"" and Shinobu's ""Bu"".","（森田の父）そうだ
-馨の“カ”に 忍の“ブ”","Shinobu's ""B""",0.4
+馨の“カ”に 忍の“ブ”","Shinobu's ""B""",0.4,0.7556688
 Isn't it cool?,"（馨）えっ？
 （森田の父）だから カブたん","?
-Because it is",0.5
-I want some curry...,（森田）カレー食いてえ…,Curry eating ...,0.3333333333333333
+Because it is",0.5,0.35160103
+I want some curry...,（森田）カレー食いてえ…,Curry eating ...,0.3333333333333333,0.6356441
 ...and I learned for the first time...,"（竹本祐太(たけもとゆうた)の声）
 でっかい物を作ろうとして
 初めて知った",")
 To make a big thing
-I knew for the first time",0.3333333333333333
+I knew for the first time",0.3333333333333333,0.404317
 "And that the work is simple, boring and endless.","そして その作業は
 地味で単純で果てしないこと","And that work
-Sober and simple and endless",0.45454545454545453
+Sober and simple and endless",0.4545454545454545,0.53673667
 But I'm all right now.,"でも なんか…
 今は大丈夫なんだ","But something ...
-I'm fine now",0.4
+I'm fine now",0.4,0.5147956
 Everyone is amazed when I tell them I rode a bike to Wakkanai...,"“稚内まで自転車で走った”って
 言うと","""I ran by bicycle to Wakkanai""
-Say",0.15789473684210525
-"Right, left, right, left...",右 左 右 左…,Right left right left ...,0.75
+Say",0.15789473684210525,0.7790671
+"Right, left, right, left...",右 左 右 左…,Right left right left ...,0.75,0.78978866
 "I know that, so I'm all right now.","それを知っているから
 もう 僕は大丈夫","Because I know that
-I'm all right",0.5454545454545454
-So smooth...,ただ 果てしなく…,Just endless ...,0.2
+I'm all right",0.5454545454545454,0.59577185
+So smooth...,ただ 果てしなく…,Just endless ...,0.2,0.25027832
 It's like they're made out of cream...,"輪郭(りんかく)が とろけそう
 クリームで出来てるみたい…","Contour  seems to melt
-It looks like it is cream ...",0.25
+It looks like it is cream ...",0.25,0.5397054
 The white marble...,"（はぐみの声）白い大理石…
 いくらぐらいするんだろう？","White Marble ...
-How much would you like to do?",0.25
-I wonder how you carve them...,どうやって彫るんだろう？,How do you carve?,0.3333333333333333
-There's so much I want to do.,やってみたいことが たくさんある,There are many things I want to do,0.4166666666666667
+How much would you like to do?",0.25,0.6851395
+I wonder how you carve them...,どうやって彫るんだろう？,How do you carve?,0.3333333333333333,0.7882585
+There's so much I want to do.,やってみたいことが たくさんある,There are many things I want to do,0.4166666666666667,0.6971721
 I chase after every image that flies out...,"（はぐみの声）私は飛んでいく
 １つ１つのイメージを追いかけて…","I'm flying
-Chapter one image ...",0.23076923076923078
+Chapter one image ...",0.2307692307692308,0.479802
 I name and return them to where they ought to be.,"名前を付けて
 あるべき場所に返していく","Named
-Return to a place to be",0.21428571428571427
-Over and over...,あっ ああ…,Oh Oh ...,0.25
+Return to a place to be",0.21428571428571427,0.4912843
+Over and over...,あっ ああ…,Oh Oh ...,0.25,0.3128858
 I want to open all these boxes...,"（はぐみの声）
-この箱を 全部 開けたい",I want to open all this box,0.5
+この箱を 全部 開けたい",I want to open all this box,0.5,0.90818805
 ...but a mortal life span is too short to do such a thing.,"でも 全部 開けるには
 人間の一生は短すぎる","But to open it all
-Human lifetime is too short",0.2631578947368421
-If I have that person...,その人がいれば…,If there is that person ...,0.5
+Human lifetime is too short",0.2631578947368421,0.5477148
+If I have that person...,その人がいれば…,If there is that person ...,0.5,0.83742964
 """The Gates of Hell"" by Rodin, right?","（花本修司(はなもとしゅうじ)）
 ロダンの「地獄の門」か",")
-Rodin's ""Gate of Hell""",0.35714285714285715
-It's displayed at the National Museum of Western Art.,“国立(こくりつ)西洋美術館”にあるぞ,"""National  Western Museum of Art""",0.38461538461538464
+Rodin's ""Gate of Hell""",0.35714285714285715,0.8387576
+It's displayed at the National Museum of Western Art.,“国立(こくりつ)西洋美術館”にあるぞ,"""National  Western Museum of Art""",0.38461538461538464,0.86426777
 It appears in Dante's Divine Comedy.,"ダンテの
 「神曲」に出てくる門でな—","Dante
-In the gate that appears in ""God song ""-",0.2
+In the gate that appears in ""God song ""-",0.2,0.6600426
 It's the place where people abandon all hope before entering Hell.,"“希望を捨てろ”と
 示唆してくる場所だ","""Discard the hope""
-It is a place to suggest",0.2
+It is a place to suggest",0.2,0.44838607
 "Since they chose this motif, they must've been stressed about something as well.","このモチーフを
 選ぶということは—","This motif
-To choose-",0.11764705882352941
-Hagu?,はぐ？,?,0.5
+To choose-",0.1176470588235294,0.6316469
+Hagu?,はぐ？,?,0.5,0.39275482
 "Seems like there's a dull light coming from the inside, doesn't it?","内側からボーッと
 光ってるように見えるだろ？","From the inside to the boss
-Will it look like shining?",0.2857142857142857
+Will it look like shining?",0.2857142857142857,0.57725763
 That's because the light is being refracted inside.,"入った光が 中で反射し合って
 表面に出てくるからなんだよ","Reflected light reflected in
-It's because it comes out on the surface",0.23529411764705882
+It's because it comes out on the surface",0.2352941176470588,0.57550156
 Shuu-chan...,"（はぐみ）修ちゃん…
 （花本）ん？","House ...
-?",0.25
-"What is it, Hagu?",何だい？ はぐ,What is it?Rag,0.5714285714285714
-It's nothing.,ううん 何でもない,Nothing,0.25
+?",0.25,0.1916409
+"What is it, Hagu?",何だい？ はぐ,What is it?Rag,0.5714285714285714,0.3369576
+It's nothing.,ううん 何でもない,Nothing,0.25,0.60506386
 He has his own life.,"（はぐみの声）
-ダメ  彼には彼の人生がある",His life has his life,0.5
-I...,（野宮(のみや)）スペインに行ってる,) I'm going to Spain,0.14285714285714285
-I don't have the right to take that away.,私には それを奪う権利はない,There is no right to take away it,0.26666666666666666
+ダメ  彼には彼の人生がある",His life has his life,0.5,0.8564622
+I...,（野宮(のみや)）スペインに行ってる,) I'm going to Spain,0.14285714285714285,0.12152338
+I don't have the right to take that away.,私には それを奪う権利はない,There is no right to take away it,0.26666666666666666,0.79116696
 "No way, you f-finally got a call from her?","（美和子）
 なんと つ… ついに
 お呼びがかかったと？","How ... Finally
-Did you call me?",0.1875
-From Rika-san?,（山崎(やまざき)）理花(りか)さんから？,) From Rika ?,0.4
-Yes!,（真山 巧(まやまたくみ)）はい,) Yes,0.3333333333333333
+Did you call me?",0.1875,0.53392
+From Rika-san?,（山崎(やまざき)）理花(りか)さんから？,) From Rika ?,0.4,0.8276291
+Yes!,（真山 巧(まやまたくみ)）はい,) Yes,0.3333333333333333,0.66268176
 "The Spanish architect, Marc Carlos?","（美和子）
 スペインの建築デザイナー
 マック・カルロス","Spanish architecture designer
-Mac Carlos",0.2
+Mac Carlos",0.2,0.7914248
 He's on the project with Rika-san?,"この人が理花さんの
 プロジェクトに参加してんの？","This person is a flower
-Are you participating in the project?",0.17647058823529413
-For real?,マジで？,seriously?,0.25
+Are you participating in the project?",0.17647058823529413,0.36833763
+For real?,マジで？,seriously?,0.25,0.51302004
 "Yeah, seriously... I can figure out the situation just from this picture...","ああ ねえ…
 状況が手に取るように分かるわ","Oh yeah ...
-I can see the situation to get the situation",0.3333333333333333
+I can see the situation to get the situation",0.3333333333333333,0.57827586
 It seems like he's totally in love with Rika.,"この様子だと もう絶対に
 “理花ラブ”って感じよね","Absolutely like this
-I feel that ""Roba Love""",0.10526315789473684
+I feel that ""Roba Love""",0.10526315789473684,0.403093
 Help!,"（カルロス）リカ リカ！ リカー！
 （原田(はらだ)理花）助けて…","Rica Rika!liquor!
- Rossome) Help ...",0.25
+ Rossome) Help ...",0.25,0.26303497
 He's Spain's top runner after all...,"（山崎）スペインの
 トップランナーだからなあ","Spain
-Because it is a top runner",0.25
+Because it is a top runner",0.25,0.6619072
 He must come on strong...,"…で 真山に
 救いを求めるファックスが","... in Miyama
-Fax asking for salvation",0.08333333333333333
-I wonder if Rika-san is okay?,大丈夫かな？ 理花さん,Is it alright?Raw flower,0.18181818181818182
-"She's gonna use him as a guard dog, huh?",番犬 代わりってわけね,Class dog replaced,0.06666666666666667
+Fax asking for salvation",0.08333333333333333,0.17397864
+I wonder if Rika-san is okay?,大丈夫かな？ 理花さん,Is it alright?Raw flower,0.18181818181818185,0.380816
+"She's gonna use him as a guard dog, huh?",番犬 代わりってわけね,Class dog replaced,0.06666666666666668,0.38925108
 Please say what you want.,"フッフッフ
 何とでも言ってください","Fluffy
-Please say anything",0.25
-"Well, as long as I'm with her, I won't let anyone lay a finger on her.",まあ 俺が そばに行くからには—,"Well, because I go to the side-",0.13636363636363635
+Please say anything",0.25,0.41394377
+"Well, as long as I'm with her, I won't let anyone lay a finger on her.",まあ 俺が そばに行くからには—,"Well, because I go to the side-",0.13636363636363635,0.20405726
 Miwako-san!!!\NI smell a beast in this man!?,"ある意味 一番危険な男が
 理花さんの そばに…","In a sense, a dangerous man
-Flower sides by her side ...",0.15789473684210525
-"Instead of a guard dog, he's already turned into a rabid dog!",番犬ていうより すでに狂犬！,Radio already rabies from saying dogs!,0.1111111111111111
+Flower sides by her side ...",0.15789473684210525,0.29250544
+"Instead of a guard dog, he's already turned into a rabid dog!",番犬ていうより すでに狂犬！,Radio already rabies from saying dogs!,0.1111111111111111,0.45714107
 A wolf on the outside and a rabid dog on the inside!,"（山崎）
-外のオオカミと家の中の狂犬！",Radies in the house and the house in the house!,0.23076923076923078
+外のオオカミと家の中の狂犬！",Radies in the house and the house in the house!,0.2307692307692308,0.49005505
 "It must've been a tough choice, after putting those two on the scale.","それを はかりにかけた上での
 苦渋の選択ってわけか","Top on top of it
-Do you choose a problem?",0.13043478260869565
+Do you choose a problem?",0.13043478260869565,0.16686963
 "Oh, Rika-san!","（美和子）ああ 理花さーん
 （山崎）おいたわしい","Oh, there is a raw flower
- delicious",0.2
+ delicious",0.2,0.2028546
 But doesn't Rika-san look even thinner in this picture?,"でもね この写真の理花さん
 かなり また痩せちゃってない？","But this picture of this photo
-Aren't you going to lose much again?",0.25
+Aren't you going to lose much again?",0.25,0.28908607
 "Of course, I'm already prepared for that.","（真山）もちろん
 その辺は ぬかりなく…","Of course
-He is not wet ...",0.13333333333333333
-A miniature rice cooker!,１合炊きの炊飯器！,One co-cooked rice cooker!,0.42857142857142855
-Along with a voltage converter.,変圧器も一緒にね,The transformer is also with me,0.09090909090909091
+He is not wet ...",0.13333333333333333,0.12218678
+A miniature rice cooker!,１合炊きの炊飯器！,One co-cooked rice cooker!,0.42857142857142855,0.71853566
+Along with a voltage converter.,変圧器も一緒にね,The transformer is also with me,0.09090909090909093,0.25573978
 M-Mayama...,"（野宮）ま… 真山
 （美和子）なんか…","... Miyama
- something ...",0.25
+ something ...",0.25,0.38343367
 It's like a care package from home...,"（山崎）田舎の お母さんからの
 宅配便みたいだよ","From the mother of the countryside
-It looks like a courier",0.26666666666666666
-Somen...,（真山）そうめん,Somen,0.5
-But somen is pretty good...,でも そうめん いいわよねえ,But that's nice no good,0.2
-Do they have seasoning for it?,薬味とかあんの？,Is it a pill?,0.2
+It looks like a courier",0.26666666666666666,0.27820086
+Somen...,（真山）そうめん,Somen,0.5,0.85434276
+But somen is pretty good...,でも そうめん いいわよねえ,But that's nice no good,0.2,0.50554895
+Do they have seasoning for it?,薬味とかあんの？,Is it a pill?,0.2,0.21123423
 Somen is flavorless without beefsteak and green onion...,"（美和子）シソとネギがないと
 味気ないわよね","If there is no shisso and green onion
-I'm not tasted",0.23529411764705882
+I'm not tasted",0.2352941176470588,0.656287
 They should have plenty of herbs...,"（美和子）
 ハーブなら たくさんありそうよね
 ミントとかレモンバームとか…","If herb is herbs, there are a lot of she
-Mint or lemon balm ...",0.15
+Mint or lemon balm ...",0.15,0.6136815
 ...like mint and lemon baim.,"そうめんに
 ミントとかレモンバームとか","Soap
-Mint or lemon balm",0.2
+Mint or lemon balm",0.2,0.6524715
 That's on the same level as Yamada's special menus!,"それじゃあ“山田(やまだ)の
 スペシャルメニュー”と同じですよ","Well then, ""Yamada (still
-Same as Special Menu",0.2222222222222222
-M-Mayama!,（真山）もう！,already!,0.3333333333333333
+Same as Special Menu",0.2222222222222222,0.86247844
+M-Mayama!,（真山）もう！,already!,0.3333333333333333,0.2735279
 "Either way, I can't let Rika-san eat something like that...","とにかく 理花さんに
 そんな物を食べさせるわけには…","Anyway,
-In order to eat such things ...",0.15789473684210525
-Daikon sprouts...,いっ か… な…,How ... ...,0.25
+In order to eat such things ...",0.15789473684210525,0.48313692
+Daikon sprouts...,いっ か… な…,How ... ...,0.25,0.212157
 You can eat them after three days if you spread them on top of a damp cloth.,"ぬらした脱脂綿の上に まけば
 ３日で食べられるし—","If it is on the wet skottle
-It can be eaten in 3 days-",0.11538461538461539
+It can be eaten in 3 days-",0.1153846153846154,0.66040576
 I'll try that as soon as I get there.,"（真山の声）分かった
 向こうに着いたら すぐやってみる","I understood
-If you arrive on the other side, she will try soon",0.15
-"Thanks, Yamada.",ありがとう 山田,Thank you Yamada,0.16666666666666666
-Leader...,リーダー,leader,0.5
-W-What is it?,な… 何ですか？,... what is it?,0.5
+If you arrive on the other side, she will try soon",0.15,0.28561643
+"Thanks, Yamada.",ありがとう 山田,Thank you Yamada,0.16666666666666666,0.93936795
+Leader...,リーダー,leader,0.5,0.8148949
+W-What is it?,な… 何ですか？,... what is it?,0.5,0.3475604
 "You really wanted me to come chasing after you, didn't you?","俺に追っかけてきてほしいって
 思ってたでしょ？","I want you to chase me
-Did you think?",0.3125
-Of course not! I really didn't think that!,（山田）お… 思ってません！,... I do not think!,0.3333333333333333
-Morita.,（花本）森田,Morita,0.5
+Did you think?",0.3125,0.7425959
+Of course not! I really didn't think that!,（山田）お… 思ってません！,... I do not think!,0.3333333333333333,0.5024762
+Morita.,（花本）森田,Morita,0.5,0.9672453
 Your paths will separate if you don't talk to her now.,"今 話しをしないと
 このまま道は離れていくよ","If you do not talk now
-This way is going away",0.2631578947368421
-Are you okay with that?,分かるんじゃないのか？,Do you understand?,0.25
-It can't be helped.,しかたない,it can not be helped,0.375
-"Furthermore, split or not...",もともと近くもなかったさ,It was originally not near,0.1
-What are you thinking?,お前 何を考えてる？,What are you thinking about?,0.8333333333333334
-Kaoru...,（森田の声）馨…,馨 ...,0.3333333333333333
-I always thought...,思いたかった,Thought,0.25
+This way is going away",0.2631578947368421,0.47914538
+Are you okay with that?,分かるんじゃないのか？,Do you understand?,0.25,0.35052577
+It can't be helped.,しかたない,it can not be helped,0.375,0.9039901
+"Furthermore, split or not...",もともと近くもなかったさ,It was originally not near,0.1,0.037966724
+What are you thinking?,お前 何を考えてる？,What are you thinking about?,0.8333333333333334,0.8631363
+Kaoru...,（森田の声）馨…,馨 ...,0.3333333333333333,0.24503042
+I always thought...,思いたかった,Thought,0.25,0.4732547
 I always thought that there must be something that only I am capable of.,"自分にしか できないことが
 あるはずだと思ってた","Those who can only do it
-I thought there should be",0.2631578947368421
-"Hey, take a look.",親父(おやじ)の会社を取り戻す,Create a company of father,0.1
+I thought there should be",0.2631578947368421,0.5146795
+"Hey, take a look.",親父(おやじ)の会社を取り戻す,Create a company of father,0.1,0.03868572
 Isn't it amazing?,"すごいだろう？
 光のほうヘ進むんだよ","Is it great?
-I'm going to go back to light",0.23076923076923078
-It heads toward the light.,光のさす方向へ…,In the direction of light,0.2222222222222222
-Forward...,前へ,Forward,0.5
+I'm going to go back to light",0.2307692307692308,0.36970064
+It heads toward the light.,光のさす方向へ…,In the direction of light,0.2222222222222222,0.70065874
+Forward...,前へ,Forward,0.5,0.8767736
 I wonder if Mayama-san is in Spain already...,"（竹本の声）真山さん
 もう スペインに着いたのかな？","Miyama
-Did she already arrived in Spain?",0.21428571428571427
-"Hey, hey, Takemoto-kun.",（山田）ねえねえ 竹本君,Hey Hey Takemoto,0.2
-What's up?,（竹本）何すか？,What is it?,0.3333333333333333
+Did she already arrived in Spain?",0.21428571428571427,0.48586315
+"Hey, hey, Takemoto-kun.",（山田）ねえねえ 竹本君,Hey Hey Takemoto,0.2,0.7253171
+What's up?,（竹本）何すか？,What is it?,0.3333333333333333,0.3336347
 "You got your license, right?","竹本君
 免許取ったんだよね？","Takamoto
-Did you have a license?",0.2727272727272727
+Did you have a license?",0.2727272727272727,0.609681
 "Y-Yeah, it's limited to an automatic though.","（竹本）あっ はい
 オートマ限定ですけど","Yes
-It is an automotive",0.15384615384615385
+It is an automotive",0.15384615384615385,0.35240278
 "Then, do you wanna go for a drive?","だったら
 ドライブに行かない？","If
-Do not go to drive?",0.2857142857142857
-A drive!,ドライブ！,drive!,0.6666666666666666
+Do not go to drive?",0.2857142857142857,0.6602133
+A drive!,ドライブ！,drive!,0.6666666666666666,0.79083675
 I also don't have a car.,"教官 乗っけてしか出たことないし
 それに車もないし","I have only put out the instructor
-There is no car",0.1875
+There is no car",0.1875,0.47506565
 That's right!,"（竹本）そっか
-（はぐみ）そうだよね",That's right,0.75
-"Yeah, it is!",（山田）車ならあるじゃない！,There is no car!,0.25
+（はぐみ）そうだよね",That's right,0.75,0.84444755
+"Yeah, it is!",（山田）車ならあるじゃない！,There is no car!,0.25,0.2190537
 Y-You want to take my car out for an untried driver's first drive?,"め… 免許取り立ての人間の
 ファーストドライブに俺の車を…","Memory of license
-My car on the first drive ...",0.19047619047619047
-What kind of a penalty game is this?!,どんな罰ゲームですか？ それ,What kind of punishment game is it?that,0.46153846153846156
-Let's go to the ocean!,そうだ 海！ 海に行こうよ,That's right!Let's go to the sea,0.6
+My car on the first drive ...",0.19047619047619047,0.5542908
+What kind of a penalty game is this?!,どんな罰ゲームですか？ それ,What kind of punishment game is it?that,0.4615384615384616,0.677544
+Let's go to the ocean!,そうだ 海！ 海に行こうよ,That's right!Let's go to the sea,0.6,0.83456576
 The ocean!,"（竹本）海か
 （はぐみ）海！","Sea
- Sea!",0.25
-Are you listening to me?,人の話 聞いてますか？,Do you listen to people?,0.3333333333333333
+ Sea!",0.25,0.7914577
+Are you listening to me?,人の話 聞いてますか？,Do you listen to people?,0.3333333333333333,0.6482262
 A normal car can only seat five people though...,"あっ そっか 普通の車って
 ５人しか乗れないんだよね","There is an ordinary car
-I can only get five people",0.3125
-So one person won't fit...,１人 はみ出しちゃう,One person will take out,0.2
-"A five seater is okay, right?",５人乗りで大丈夫なのよね,It's okay with 5 seater,0.16666666666666666
+I can only get five people",0.3125,0.7111414
+So one person won't fit...,１人 はみ出しちゃう,One person will take out,0.2,0.5854367
+"A five seater is okay, right?",５人乗りで大丈夫なのよね,It's okay with 5 seater,0.16666666666666666,0.9014121
 He said he'd be back in about a month.,"ひと月ぐらいで戻るって
 言ってたし","I'm going back for a month
-I was saying",0.1875
-It'll be less crowded and better once it's a little colder.,貝殻だって たくさん落ちてるし,It's a shell and I'm falling a lot,0.2222222222222222
-I want to pick up seashells!,はぐ 貝 拾いたい,I want to pick up,0.7142857142857143
+I was saying",0.1875,0.54821044
+It'll be less crowded and better once it's a little colder.,貝殻だって たくさん落ちてるし,It's a shell and I'm falling a lot,0.2222222222222222,0.13837543
+I want to pick up seashells!,はぐ 貝 拾いたい,I want to pick up,0.7142857142857143,0.4676988
 "Now that I think about it, we've never gone to the beach together, have we?","そういえば みんなで
 海で遊んだことってなかったですね","Speaking of which, everyone
-I did not play in the sea",0.11538461538461539
-"That sounds good. The ocean, huh?",いいですね 海かあ,It is good.,0.18181818181818182
-"Let's go, Ayu!",行こう あゆ,Let's go ah,0.42857142857142855
-Yeah!,うん！,Yes!,0.3333333333333333
-And pick up a lot of shells...,いっぱい 写真とか撮って,Take a lot of photos,0.3
-Yeah.,ええ,Yes,0.0
+I did not play in the sea",0.1153846153846154,0.3106321
+"That sounds good. The ocean, huh?",いいですね 海かあ,It is good.,0.18181818181818185,0.24329776
+"Let's go, Ayu!",行こう あゆ,Let's go ah,0.42857142857142855,0.6028651
+Yeah!,うん！,Yes!,0.3333333333333333,0.77566653
+And pick up a lot of shells...,いっぱい 写真とか撮って,Take a lot of photos,0.3,0.26053798
+Yeah.,ええ,Yes,0.0,0.53025174
 "In the end, we never went to the ocean.","（竹本の声）けれど… 僕らは結局
 最後まで海に行くことはなかった","But ... We all eventually
-I did not go to the sea until the end",0.2
+I did not go to the sea until the end",0.2,0.71001464
 Even though we didn't have a single picture...,"なぜか ただの１枚も
 写真が残っていない僕らには—","Why not just one piece
-We do not have a photo-",0.17647058823529413
+We do not have a photo-",0.17647058823529413,0.63022065
 That image of everyone together burned into the back of our eyelids...,"瞳の奥に焼き付いて
 一生 消せない１枚となった","Burned in the back of my eyes
-It became one piece that could not be erased",0.21739130434782608
+It became one piece that could not be erased",0.21739130434782608,0.54632384
 "Next episode: Forward, in the direction of the light.","（竹本の声）
-次回 前に… 光のさす方向に",Next time ... in the direction of light,0.46153846153846156
+次回 前に… 光のさす方向に",Next time ... in the direction of light,0.4615384615384616,0.6662623

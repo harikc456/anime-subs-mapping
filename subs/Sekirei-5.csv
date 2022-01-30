@@ -1,424 +1,424 @@
-en_text,jp_text,google_translated,score
-What's... going on...?,どっ どっ どちら様… ですか？,Which one is ...?,0.2222222222222222
-U-Um...,これは 一体…,This is one ...,0.2
-S-Sekirei?,セ… セキレイ？,Sekirei?,0.3333333333333333
-Welcome ba-,（美哉(みや)）おかえりなさ… あっ！,) Welcome me ...!,0.16666666666666666
-"Oh, your clothes are torn up...",あらあら ボロボロで,"Oh, it's Boroboro",0.18181818181818182
+en_text,jp_text,google_translated,score,semantic_score
+What's... going on...?,どっ どっ どちら様… ですか？,Which one is ...?,0.2222222222222222,0.33568949
+U-Um...,これは 一体…,This is one ...,0.2,0.3101832
+S-Sekirei?,セ… セキレイ？,Sekirei?,0.3333333333333333,0.8929139
+Welcome ba-,（美哉(みや)）おかえりなさ… あっ！,) Welcome me ...!,0.16666666666666666,0.4045655
+"Oh, your clothes are torn up...",あらあら ボロボロで,"Oh, it's Boroboro",0.18181818181818185,0.107790746
 "After I finished shopping, some thing started coming down from the sky.","お買い物してたら
 空から何かが降ってきて","If you shop
-Something came down from the sky",0.21052631578947367
+Something came down from the sky",0.21052631578947367,0.71816456
 Are you hurt?,"（美哉）
-まあ けがはありませんか？",Is there any injury?,0.125
-I also probably bought...,すぐ 行ってきます…,I will go soon ...,0.25
+まあ けがはありませんか？",Is there any injury?,0.125,0.48550823
+I also probably bought...,すぐ 行ってきます…,I will go soon ...,0.25,0.24395029
 Ah! I was in such a rush I forgot to buy the daikon and the cabbage!,"あっ！ 慌てて大根とキャベツ
 買い忘れちゃいました","Ah!A daikon radish and cabbage
-I forgot to buy",0.625
+I forgot to buy",0.625,0.84206665
 "Don't worry about the shopping, so take a bath and change your clothes.","お風呂に入って
 着替えてらっしゃいな","Take a bath
-Don't change clothes",0.4375
-Sahashi Minato. 19 years old.,佐橋(さはし)皆人 19歳,Sasashi everyone 19 years old,0.375
-"Family consists of four members: mother, sister, and grandmother.",（松）家族構成は母 妹 祖母の４人,Family composition is four of mother sister grandmother,0.42857142857142855
-Data related to the father is missing.,父親に関してのデータは不明,Data about father is unknown,0.3
-"Although easily a top scorer back home,",ひと言で言えば いわゆるヘタレ,"Speaking in a word, so-called Hetale",0.15384615384615385
+Don't change clothes",0.4375,0.7543638
+Sahashi Minato. 19 years old.,佐橋(さはし)皆人 19歳,Sasashi everyone 19 years old,0.375,0.6540179
+"Family consists of four members: mother, sister, and grandmother.",（松）家族構成は母 妹 祖母の４人,Family composition is four of mother sister grandmother,0.42857142857142855,0.79521453
+Data related to the father is missing.,父親に関してのデータは不明,Data about father is unknown,0.3,0.8870739
+"Although easily a top scorer back home,",ひと言で言えば いわゆるヘタレ,"Speaking in a word, so-called Hetale",0.15384615384615385,0.07228089
 "the results obtained here are completely opposite of actual ability,","しかし ここ 一番では
 実力以下の結果しか出せず","But the best
-Only the result of the ability to output",0.17647058823529413
-H-How do you know about me?,なっ なんで俺のこと？,What is me?,0.2222222222222222
-You are...,（皆人）ええ…,yeah ...,0.25
+Only the result of the ability to output",0.17647058823529413,0.46997306
+H-How do you know about me?,なっ なんで俺のこと？,What is me?,0.2222222222222222,0.5178924
+You are...,（皆人）ええ…,yeah ...,0.25,0.31211674
 Please satisfy this hot body with your DNA.,"この熱い体
 あなたのＤＮＡで鎮めて下さい","This hot body
-Please calm down with your DNA",0.6363636363636364
+Please calm down with your DNA",0.6363636363636364,0.81591046
 Oh? Is someone in the bath?,"（結）あれ？ お風呂 誰かいます？
 （皆人）あっ！",", what?Who is bathing?
-!",0.16666666666666666
-Minato-san!,皆人さん！,Everyone!,0.3333333333333333
-"Oh, no... Besides that, uhm...",あっ いや… というか え〜と…,There is no ... and it's ... and ...,0.16666666666666666
-Oh? Who would you be?,あれ？ どなたですか？,that? Who are you?,0.375
-"You've appeared, my enemy.",出ましたですね〜 エネミー,It came out ~ Enemy,0.09090909090909091
+!",0.16666666666666666,0.73665446
+Minato-san!,皆人さん！,Everyone!,0.3333333333333333,0.23564456
+"Oh, no... Besides that, uhm...",あっ いや… というか え〜と…,There is no ... and it's ... and ...,0.16666666666666666,0.31859836
+Oh? Who would you be?,あれ？ どなたですか？,that? Who are you?,0.375,0.54208463
+"You've appeared, my enemy.",出ましたですね〜 エネミー,It came out ~ Enemy,0.09090909090909093,0.43896884
 You've returned 300 seconds earlier than expected.,"戻ってくるのが
 予想より300秒ほど早かったです","It will come back
-It was about 300 seconds earlier than expected",0.3333333333333333
-Eh!? Where'd you pull that out from!?,うわ！ どこから〜？,Wow!From where~?,0.25
-Musubi-chan!,結ちゃん！,Single!,0.3333333333333333
-It's an MBI-issue special net made of synthetic fibers.,Ｍ(エム)･Ｂ(ビー)･Ｉ(アイ)製 特殊合成繊維のネット,M  · B  · i  special synthetic fiber net,0.1875
-It's impossible to break.,破ることは不可能です,It is impossible to break,0.5714285714285714
+It was about 300 seconds earlier than expected",0.3333333333333333,0.62423927
+Eh!? Where'd you pull that out from!?,うわ！ どこから〜？,Wow!From where~?,0.25,0.3689893
+Musubi-chan!,結ちゃん！,Single!,0.3333333333333333,0.27393967
+It's an MBI-issue special net made of synthetic fibers.,Ｍ(エム)･Ｂ(ビー)･Ｉ(アイ)製 特殊合成繊維のネット,M  · B  · i  special synthetic fiber net,0.1875,0.7121667
+It's impossible to break.,破ることは不可能です,It is impossible to break,0.5714285714285714,0.9625744
 "Now, come. Let's have a connection filled with love...","邪魔者は封じました
 さっ いざ愛の交合を！","The buddy was sealed
-Surely a combination of love!",0.09523809523809523
-I'll experiment on you gently...,来てみたんですが…,I came ...,0.25
+Surely a combination of love!",0.09523809523809523,0.41988295
+I'll experiment on you gently...,来てみたんですが…,I came ...,0.25,0.30121523
 "Improper relationships between the opposite sex are forbidden in the bath, Matsu-san!","出雲荘(いずもそう)では お風呂場での
 不純異性交遊は禁止ですよ","In the bathroom in Izumo 
-Purpose aborsions are prohibited",0.16666666666666666
+Purpose aborsions are prohibited",0.16666666666666666,0.4357105
 "She's also a tenant here at Izumo House, and lives in room 201.","彼女も出雲荘の住人で
 201号室になります","She is also a residents of Izunoso
-It will be the room 201",0.20833333333333334
-Room 201?,201号室？,Room 2018?,0.5
-"Well, it's like this...",とまあ こんな感じで,I feel like this,0.2222222222222222
+It will be the room 201",0.20833333333333331,0.82679516
+Room 201?,201号室？,Room 2018?,0.5,0.78655285
+"Well, it's like this...",とまあ こんな感じで,I feel like this,0.2222222222222222,0.40833008
 Then the ghost that Kuu-chan saw was...?,"じゃあ
 く〜ちゃんが見た幽霊って…","Surely
-Ku-chan saw the ghost ...",0.36363636363636365
+Ku-chan saw the ghost ...",0.3636363636363637,0.8862509
 "Yes, it was me. I live in hiding.","はい 私です
 隠れて住んでますです","Yes I am
-I live hiding",0.36363636363636365
+I live hiding",0.3636363636363637,0.68550915
 "Uhm, when I left the MBI, a few things happened, so...","あの 私 Ｍ･Ｂ･Ｉを出るとき
 ちょっといろいろありまして…","When I leave me M · B · i
-There are a lot of things ...",0.22727272727272727
-Chased?,あ？,Ah?,0.3333333333333333
-"I've said it before, but...",（美哉）以前にも言いましたけど,I said before,0.375
+There are a lot of things ...",0.2272727272727273,0.31678966
+Chased?,あ？,Ah?,0.3333333333333333,0.23872522
+"I've said it before, but...",（美哉）以前にも言いましたけど,I said before,0.375,0.5868984
 My husband never refused anyone that came.,"うちの主人
 来る者を拒まない人だったので","My husband
-Because he did not refuse those who came",0.2
+Because he did not refuse those who came",0.2,0.6475771
 He made this door half as a joke.,"（美哉）
 この扉も
 主人が面白半分に作ったんですよ","This door is also
-My husband made it in a fun half",0.3125
+My husband made it in a fun half",0.3125,0.66298044
 "The truth is, my husband was once part of MBI.","実はうちの主人
 Ｍ･Ｂ･Ｉにいたんです","In fact, my husband
-M · B · i",0.16666666666666666
-It's fine.,本当ですね？,That's right?,0.14285714285714285
-You really won't?,はい 本当の本当に,Yes really really,0.16666666666666666
-"I'm sorry, everyone.",皆さんもごめんなさい,I'm sorry everyone,0.6666666666666666
-Ghost...,では…,In ...,0.3333333333333333
-How did it go?,（蜜羽(みつは)）どうだった？,How was the ?,0.2857142857142857
-What am I going to tell Master?,マスターに何て言えばいいのよ,What should I say to the master,0.36363636363636365
+M · B · i",0.16666666666666666,0.43760574
+It's fine.,本当ですね？,That's right?,0.14285714285714285,0.32545403
+You really won't?,はい 本当の本当に,Yes really really,0.16666666666666666,0.21942475
+"I'm sorry, everyone.",皆さんもごめんなさい,I'm sorry everyone,0.6666666666666666,0.90371734
+Ghost...,では…,In ...,0.3333333333333333,0.3325165
+How did it go?,（蜜羽(みつは)）どうだった？,How was the ?,0.2857142857142857,0.6633
+What am I going to tell Master?,マスターに何て言えばいいのよ,What should I say to the master,0.3636363636363637,0.8263466
 Truly destined and guided Sekirei and their Ashikabi will...,"（焔(ほむら)）
 正しく運命に導かれた
 セキレイと葦牙は","Correctly guided to fate
-Sekirei and the grip",0.21428571428571427
-be brought together even without knowing it.,それを無視して,Ignore it,0.1111111111111111
-You...,あんた…,Ann ...,0.3333333333333333
+Sekirei and the grip",0.21428571428571427,0.55896384
+be brought together even without knowing it.,それを無視して,Ignore it,0.1111111111111111,0.24824873
+You...,あんた…,Ann ...,0.3333333333333333,0.27241433
 "Ignoring something like that, and winging Sekirei like they're part of a collection...","まるでコレクションのように
 セキレイを羽化させるなんて","Like a collection
-How to emerge Sekirei",0.2222222222222222
-Especially since I already know...,ふん 私 知ってるんだから,I know that I know,0.2857142857142857
+How to emerge Sekirei",0.2222222222222222,0.5878794
+Especially since I already know...,ふん 私 知ってるんだから,I know that I know,0.2857142857142857,0.4496368
 The discarded number. You again?,"ナンバー107は逃がしちゃったけど
 代わりにあんたを連れてこっかな〜","The number 107 missed
-Instead of taking care of you ~",0.21428571428571427
+Instead of taking care of you ~",0.21428571428571427,0.4238503
 Maybe we can take you instead.,"やれやれ
 君じゃ僕には勝てないって","Good grief
-You can not win for me",0.15384615384615385
-Winged by Master himself...,（焔）待っ… うっ！,Wait ...,0.16666666666666666
+You can not win for me",0.15384615384615385,0.3654291
+Winged by Master himself...,（焔）待っ… うっ！,Wait ...,0.16666666666666666,0.18865229
 You should just become a submissive Sekirei.,"こっ ここは
 貸しにしといてあげるわ","Here
-I will give you a lend",0.15384615384615385
-Akizu!,秋津！,Akitsu!,0.3333333333333333
-Bringing him to my room so impulsively...,ヘヘッ ヘヘヘ…,Hehe Hehe Hehe ...,0.1111111111111111
-What should I do?,どうしよう,What should I do,0.8
+I will give you a lend",0.15384615384615385,0.1958786
+Akizu!,秋津！,Akitsu!,0.3333333333333333,0.8622046
+Bringing him to my room so impulsively...,ヘヘッ ヘヘヘ…,Hehe Hehe Hehe ...,0.1111111111111111,0.20875153
+What should I do?,どうしよう,What should I do,0.8,0.74135315
 "But man, he really is cute.","（ユカリ）
 いや〜 しっかし
 ホント かわいいい子だ〜","No ~
-It is a cute child",0.15384615384615385
-Yes?!,はっ はい！,Yes!,0.6666666666666666
-I'm definitely.... your Sekirei.,（椎菜）あっ あの…,I'm ...,0.42857142857142855
-Please mark me.,刻印を… ください,... please ...,0.2
+It is a cute child",0.15384615384615385,0.40780464
+Yes?!,はっ はい！,Yes!,0.6666666666666666,0.7807851
+I'm definitely.... your Sekirei.,（椎菜）あっ あの…,I'm ...,0.42857142857142855,0.39177823
+Please mark me.,刻印を… ください,... please ...,0.2,0.3339291
 I use my full power for a bit... what an annoying body.,"（焔）
 ハア…
 ちょっと全力を出しただけで…","Haa ...
-I just put out my full strength ...",0.21052631578947367
-"There's no helping it, I'll talk with Takami-san...",（月海(つきうみ)）だらしがないぞ 焔！,There is no darling!,0.13333333333333333
+I just put out my full strength ...",0.21052631578947367,0.46562412
+"There's no helping it, I'll talk with Takami-san...",（月海(つきうみ)）だらしがないぞ 焔！,There is no darling!,0.13333333333333333,0.11892943
 "At this rate, will I become ash by morning?","フッ… このままだと
 朝には灰になってるかな？","Hook ...
-Is it as ash in the morning?",0.16666666666666666
+Is it as ash in the morning?",0.16666666666666666,0.73402995
 Tsukiumi.,"一人勝手に逝くなど
 この我が許さん！","One person alone etc.
-This my foreguated!",0.1
-"However, your panties are completely visible.",でも パンツが丸見えだよ,But the pants are all visible,0.16666666666666666
-"What are you looking at, you bastard!",なっ 何を見ている貴様！,What you are looking at?,0.5555555555555556
+This my foreguated!",0.1,0.11557138
+"However, your panties are completely visible.",でも パンツが丸見えだよ,But the pants are all visible,0.16666666666666666,0.70455617
+"What are you looking at, you bastard!",なっ 何を見ている貴様！,What you are looking at?,0.5555555555555556,0.5368109
 Only when Seikirei are winged can they use their true power.,"セキレイは羽化してこそ
 本来の力を発揮できる","Sekirei will be emerging
-Can demonstrate the original power",0.10526315789473684
-Why won't you be winged?,（焔）どうして君は羽化しないの？,Why do you not emerge?,0.3
+Can demonstrate the original power",0.10526315789473684,0.5041033
+Why won't you be winged?,（焔）どうして君は羽化しないの？,Why do you not emerge?,0.3,0.46802786
 "Instead of me, what about yourself?","ひっ 人のことより
 汝のほうこそ どうなのだ？","From the thing of the people
-How is he?",0.13333333333333333
+How is he?",0.13333333333333333,0.24176076
 Those belonging to fire have been hated by the Gods since ages past.,"火に属する者は神話の時代から
 神様に嫌われてるのさ","Those who belong to the fire are from the age of mythology
-I hated by God",0.2608695652173913
-"You're aiming to be the strongest, right?",君は最強を目指してるんだろ？,Are you aiming for the strongest?,0.4166666666666667
-"If that's true, you should hurry and look for your Ashikabi.",それなら早く葦牙を捜して…,"If it is, I search for a gross 葦 牙 ...",0.13043478260869565
-D-Don't say such idiotic things!,たっ たわけたことを申すな！,Don't say something!,0.3333333333333333
-Isn't an Ashikabi just a monkey?,葦牙など ただの猿ではないか！,Isn't it just a monkey such as a gross?,0.5
-Vi-?,ま？,Devil?,0.3333333333333333
+I hated by God",0.2608695652173913,0.86753833
+"You're aiming to be the strongest, right?",君は最強を目指してるんだろ？,Are you aiming for the strongest?,0.4166666666666667,0.9172492
+"If that's true, you should hurry and look for your Ashikabi.",それなら早く葦牙を捜して…,"If it is, I search for a gross 葦 牙 ...",0.13043478260869565,0.23041126
+D-Don't say such idiotic things!,たっ たわけたことを申すな！,Don't say something!,0.3333333333333333,0.4492566
+Isn't an Ashikabi just a monkey?,葦牙など ただの猿ではないか！,Isn't it just a monkey such as a gross?,0.5,0.57773405
+Vi-?,ま？,Devil?,0.3333333333333333,0.31539237
 Violating me! I absolutely won't accept it!,"まぐわうなど 認めん！
 絶対認められん！","I admire it!
-Absolutely appreciated!",0.36363636363636365
-"But, recently I've been feeling strange.",だが… 最近 どうも変なのだ,But ... recently strange,0.3
-"Deep in my chest, this fluttery feeling keeps continuing.",こう… なんぞ胸の奥が,This ... what is the back of the chest,0.11764705882352941
-That's...!,（焔）はっ！ それは…,!that is…,0.4
-I know!,分かっている,I know it,0.5
+Absolutely appreciated!",0.3636363636363637,0.22631472
+"But, recently I've been feeling strange.",だが… 最近 どうも変なのだ,But ... recently strange,0.3,0.7007011
+"Deep in my chest, this fluttery feeling keeps continuing.",こう… なんぞ胸の奥が,This ... what is the back of the chest,0.1176470588235294,0.43102574
+That's...!,（焔）はっ！ それは…,!that is…,0.4,0.6182268
+I know!,分かっている,I know it,0.5,0.7291489
 "If this is a reaction to an Ashikabi, then it's convenient.","これが葦牙の反応だというのなら
 好都合","If this is the reaction of the grip
-Favorable",0.2222222222222222
-Who?,誰？ く〜ちゃ…,Who?...,0.6666666666666666
+Favorable",0.2222222222222222,0.3641866
+Who?,誰？ く〜ちゃ…,Who?...,0.6666666666666666,0.71382505
 Ahh! You appeared again!?,"（松）フフッ
 （皆人）うわ〜！ また出た！","Fufu
- Wow!It came out again!",0.18181818181818182
+ Wow!It came out again!",0.18181818181818185,0.3250907
 "Though I'm usually so prepared, I forgot about...","私ともあろう者が
 忘れてましたですよ","Both me
-I forgot",0.16666666666666666
-The important ritual...,大切な儀式を,Important ritual,0.5
+I forgot",0.16666666666666666,0.29291034
+The important ritual...,大切な儀式を,Important ritual,0.5,0.90280384
 "Next time, let me properly experiment on you, okay?","この次は
 ちゃんと実験させて下さいね","This next
-Please let me experiment properly",0.38461538461538464
-Nightly visits are also forbidden at Izumo House!,（美哉）佐橋さんもですよ！,I'm also Sabashi!,0.16666666666666666
+Please let me experiment properly",0.38461538461538464,0.5750447
+Nightly visits are also forbidden at Izumo House!,（美哉）佐橋さんもですよ！,I'm also Sabashi!,0.16666666666666666,0.17645419
 "As punishment, Matsu-tan will have no breakfast in the morning.","（美哉）
 お仕置きとして
 松さんは朝ごはん抜きです","As a punishment
-Matsu-san is a breakthrough breakfast",0.1875
+Matsu-san is a breakthrough breakfast",0.1875,0.5517819
 "Eh?! Miya-tan, forgive me!","（松）
-え〜！ 美哉たん 許してです〜",Huh~!I forgive you,0.2
-W-Why me too!?,（皆人）な… なんで俺まで〜,... Why to me ~,0.1111111111111111
+え〜！ 美哉たん 許してです〜",Huh~!I forgive you,0.2,0.46492383
+W-Why me too!?,（皆人）な… なんで俺まで〜,... Why to me ~,0.1111111111111111,0.430166
 Number 107 did a good job with the botanical garden after we released him.,"地上に放ったばかりの
 ナンバー107が","I just released on the ground
-Number 107",0.21052631578947367
+Number 107",0.21052631578947367,0.4443063
 I was expecting something more like an epic battle.,"もう少し こう
 壮絶な大乱戦を期待していたんだが","Any more
-I was expecting a fierce man",0.2857142857142857
+I was expecting a fierce man",0.2857142857142857,0.5513747
 90% of the Sekirei have been winged.,"（高美）
 羽化したセキレイが
 ９割を越えたようだ","Feathered Sekirei
-It seems to be over 90%",0.2
-"Minaka! This capital, you actually...",御中 貴様 本気でこの帝都(ていと)を…,You are really serious and this imperial capital ...,0.3076923076923077
+It seems to be over 90%",0.2,0.64909124
+"Minaka! This capital, you actually...",御中 貴様 本気でこの帝都(ていと)を…,You are really serious and this imperial capital ...,0.3076923076923077,0.4087175
 In what way will the next page of this legend open up!?,"さて 次なる神話の 一編は
 いかにしてページを開くのか？","Now the next myth one part
-How do you open the page?",0.23809523809523808
-Let's play close attention to how this unfolds!,ああ！,Ah!,0.09090909090909091
+How do you open the page?",0.2380952380952381,0.70540106
+Let's play close attention to how this unfolds!,ああ！,Ah!,0.09090909090909093,0.11562225
 "If I get anymore Sekirei than this, I'll die!","これ以上セキレイが増えたら
 死んじゃう","If there is more skein more than this
-Dead",0.1875
-"Now, for a morning kiss...",では おはようのキスをば…,So the kiss of good morning ...,0.2727272727272727
-Oh? It's not Minato-san.,あれ？ 皆人さんじゃない…,that?Not everyone ...,0.2
-Good morning.,エヘッ おはようございます,Ehehe Good morning,0.5
-What will happen?,あれ？ 鈿女(うずめ)さんは？,that?What is a woman ?,0.25
+Dead",0.1875,0.25605848
+"Now, for a morning kiss...",では おはようのキスをば…,So the kiss of good morning ...,0.2727272727272727,0.7228909
+Oh? It's not Minato-san.,あれ？ 皆人さんじゃない…,that?Not everyone ...,0.2,0.11420118
+Good morning.,エヘッ おはようございます,Ehehe Good morning,0.5,0.7410446
+What will happen?,あれ？ 鈿女(うずめ)さんは？,that?What is a woman ?,0.25,0.12808718
 Now I don't have to eat my meals in hiding.,"隠れてコソコソ
 食事をしなくてすみますですよ","Hiding Kosokoso
-I'm sorry I don't have to eat",0.4666666666666667
+I'm sorry I don't have to eat",0.4666666666666667,0.520804
 Eating breakfast with everyone really is the best.,"やはり みんなで食べる朝食が
 いちばんですね","After all everyone eats breakfast
-It is the best",0.38461538461538464
-She's still sleeping.,（松）まだ寝てますです,I'm sleeping yet,0.125
+It is the best",0.38461538461538464,0.84731555
+She's still sleeping.,（松）まだ寝てますです,I'm sleeping yet,0.125,0.49136183
 Uzume has been coming home late a lot recently.,"最近 夜 遅くなってからの帰宅が
 多いですし","Recently late from late night
-There are many",0.13333333333333333
+There are many",0.13333333333333333,0.31386828
 Did she get a job?,"（皆人）
-アルバイトでもしてるのかな？",Do you have a part-time job?,0.3
-Here.,（篝）うっ 美哉,う う,0.0
+アルバイトでもしてるのかな？",Do you have a part-time job?,0.3,0.40706313
+Here.,（篝）うっ 美哉,う う,0.0,0.12491552
 "It's okay, I'll do it myself.","あ… ああ
 というか全身なんだけどね","Oh ... ah
-I mean, but it's my whole body",0.23529411764705882
+I mean, but it's my whole body",0.2352941176470588,0.17520007
 "But you can't hold chopsticks, right?","だって お箸なんか
 持てませんでしょ？","Because it is a chopstick
-Can't you have it?",0.26666666666666666
+Can't you have it?",0.26666666666666666,0.7279784
 "Miya, I hate spin-","僕 ほうれん草 嫌いだって…
 うぐっ","I hate me ...
-Fragment",0.25
-I was just burnt a little.,ちょっと やけど,A little burn,0.25
-That was an interesting move just now.,今の面白かったです,It was now interesting,0.3333333333333333
+Fragment",0.25,0.3154591
+I was just burnt a little.,ちょっと やけど,A little burn,0.25,0.66462713
+That was an interesting move just now.,今の面白かったです,It was now interesting,0.3333333333333333,0.49009243
 Who are you?,"（皆人）
-誰？ 誰なの君は…",Who?Who's you ...,0.5
-I've finally found you.,（月海）とうとう見つけたぞ,finally found,0.3333333333333333
-"You bastard, I'll kill you!",貴様を殺す！,Kill your kind!,0.2222222222222222
-A dream?,…と 夢？,... dream?,0.5
-"Ah, I'm sorry.",あ… ごめん　起こしちゃった？,Oh ... I'm sorry?,0.3333333333333333
-What? It's just Yukari...,何だ ユカリか…,What is Yukari ...,0.375
-I'll mail you again later.,またメールするね,I'll email you later,0.5
-Say hi to Musubi-chan for me!,結ちゃんに ヨロシク！,Yoro Shiku!,0.1111111111111111
+誰？ 誰なの君は…",Who?Who's you ...,0.5,0.6948171
+I've finally found you.,（月海）とうとう見つけたぞ,finally found,0.3333333333333333,0.579242
+"You bastard, I'll kill you!",貴様を殺す！,Kill your kind!,0.2222222222222222,0.4667828
+A dream?,…と 夢？,... dream?,0.5,0.8127522
+"Ah, I'm sorry.",あ… ごめん　起こしちゃった？,Oh ... I'm sorry?,0.3333333333333333,0.6231734
+What? It's just Yukari...,何だ ユカリか…,What is Yukari ...,0.375,0.9106897
+I'll mail you again later.,またメールするね,I'll email you later,0.5,0.775617
+Say hi to Musubi-chan for me!,結ちゃんに ヨロシク！,Yoro Shiku!,0.1111111111111111,0.40092695
 The same as always...,"あの感じ
 く〜ちゃんのときと同じ…","That feeling
-Same as in Ku-chan ...",0.3333333333333333
+Same as in Ku-chan ...",0.3333333333333333,0.28245273
 Oh right! Matsu-san might know something!,"（皆人）
-そうだ　松さんなら何か分かるかも",That's right if Matsu-san may know something,0.36363636363636365
+そうだ　松さんなら何か分かるかも",That's right if Matsu-san may know something,0.3636363636363637,0.8986811
 "There's some other things I want to ask her about too, like the Sekirei Plan.","他にも
 いろいろ聞きたいことがあるし","Other
-I want to ask various things",0.3157894736842105
-The Sekirei Plan.,（松）鶺鴒計画,鶺鴒 plan,0.2
+I want to ask various things",0.3157894736842105,0.3635912
+The Sekirei Plan.,（松）鶺鴒計画,鶺鴒 plan,0.2,0.39320633
 "It's a game in which 108 Sekirei are released in the capital,","それは108羽のセキレイを
 帝都に放ち","It is 108 skei
-Rather the imperial capital",0.23529411764705882
+Rather the imperial capital",0.2352941176470588,0.4238112
 and fight with their Ashikabi to be the last ones remaining.,"最後の１羽になるまで
 闘わせるというゲーム","Until the last one
-Game to fight",0.26666666666666666
-"The Game Master, Minaka Hiroto, is a monster who",ゲームマスターたる御中広人(ひろと)は,Game Master Menkan  is,0.2727272727272727
+Game to fight",0.26666666666666666,0.49907073
+"The Game Master, Minaka Hiroto, is a monster who",ゲームマスターたる御中広人(ひろと)は,Game Master Menkan  is,0.2727272727272727,0.545418
 The Sekirei and Ashikabi can't escape from the Sekirei Plan's system.,"鶺鴒計画のシステムから
 逃れることはできませんです","From the system of planning
-I can not escape",0.23529411764705882
+I can not escape",0.2352941176470588,0.44376606
 "Up until now, apart from fighting, winging the released Sekirei has been the most important thing.","今までは 戦いよりも
 放たれたセキレイを","Up to now
-I have released Sekirei",0.2
+I have released Sekirei",0.2,0.56670773
 "Currently, most of the Sekirei have already been winged.","現時点で
 既にほとんどのセキレイが","at the moment
-Most of the Sekirei already",0.38461538461538464
+Most of the Sekirei already",0.38461538461538464,0.7382151
 "Finally, the real game starts now.","いよいよこれからが
 ゲームの本番というわけです","Finally from now on
-It is a production of the game",0.26666666666666666
-The real game?,（皆人）本番？,What is the production?,0.2857142857142857
+It is a production of the game",0.26666666666666666,0.52408564
+The real game?,（皆人）本番？,What is the production?,0.2857142857142857,0.19931549
 "In other words, a battle royal between Sekirei seeking to be the last one remaining.","すなわち セキレイ同士による
 生き残りをかけたバトルロイヤル","That is due to Sekirei
-Battle royal with survival",0.18181818181818182
+Battle royal with survival",0.18181818181818185,0.7289922
 "And the winner's partner, her Ashikabi, will receive an extravagant award from the MBI!","そして 最後まで勝ち残った
 パートナーたる葦牙には","And I won until the end
-Partner to be attached",0.13043478260869565
+Partner to be attached",0.13043478260869565,0.35543004
 Matsu-san.,"（松）エヘッ エヘヘッ…
 （皆人）松さん","Ehe Hehehe ...
- Matsu-san",0.2
-Is there something I can do?,俺なんかで 何かできるのかな？,Can I do something in something?,0.625
+ Matsu-san",0.2,0.84741783
+Is there something I can do?,俺なんかで 何かできるのかな？,Can I do something in something?,0.625,0.39454803
 It's just... I don't care about the award...,"その… ご褒美とか
 俺 どうでもいいけど みんなが…","That ... reward
-I don't even use it, but he all ...",0.2631578947368421
-Everyone...,松… さん,Matsu ...,0.3333333333333333
-"After all, Mina-tan is the Ashikabi that winged me.",大丈夫です　この松がいますです,All right is this pine,0.14285714285714285
-Please be more confident in yourself.,もっと自分に自信を持つですよ,I am confident in myself,0.2
-"Ah, that's right!",あっ！ そうだ,Ah! That's it,0.5714285714285714
-And her appearance?,（松）ん？,?,0.25
-"She had long hair, wore a black dress, and had a scary face.",えっと 髪が長くて黒い服で,Hair is long and black clothes,0.26666666666666666
+I don't even use it, but he all ...",0.2631578947368421,0.32824638
+Everyone...,松… さん,Matsu ...,0.3333333333333333,0.27119595
+"After all, Mina-tan is the Ashikabi that winged me.",大丈夫です　この松がいますです,All right is this pine,0.14285714285714285,0.07936139
+Please be more confident in yourself.,もっと自分に自信を持つですよ,I am confident in myself,0.2,0.8076053
+"Ah, that's right!",あっ！ そうだ,Ah! That's it,0.5714285714285714,0.7246219
+And her appearance?,（松）ん？,?,0.25,0.17573188
+"She had long hair, wore a black dress, and had a scary face.",えっと 髪が長くて黒い服で,Hair is long and black clothes,0.26666666666666666,0.5445633
 Mina-tan met Kusano-tan in a dream right?,"みなたんは 草野たんと
 夢で会っていたですよね？","Mitaka Matsuno
-Did you meet in a dream, right?",0.35714285714285715
+Did you meet in a dream, right?",0.35714285714285715,0.5809622
 Yeah.,"（草野）エヘッ
 （皆人）うん","Ehe
- Yeah",0.3333333333333333
+ Yeah",0.3333333333333333,0.5187529
 "Similar to that, it wouldn't be weird if a special Sekirei reacted to you unconsciously and connected with you.","無意識下でつながっていても
 おかしくないですよ","Even if it is connected unconsciously
-It is not strange",0.16666666666666666
-"In addition, Mina-tan has already winged three of us.",つまり 今のみなたんには,"In other words, for all of you",0.1875
-W-What do you mean?,彼女ですか？,Are you her?,0.2857142857142857
+It is not strange",0.16666666666666666,0.62060463
+"In addition, Mina-tan has already winged three of us.",つまり 今のみなたんには,"In other words, for all of you",0.1875,0.14095564
+W-What do you mean?,彼女ですか？,Are you her?,0.2857142857142857,0.11306047
 "Basically, there's a high probability that a stronger Sekirei is reacting to the current you.","より強いセキレイが
 反応する可能性が高いという…","More strong Sekirei
-It is likely to react ...",0.13043478260869565
-That's right! This person!,あっ！ そうそう この人だ,Ah!Oh yeah he is this person,0.2727272727272727
+It is likely to react ...",0.13043478260869565,0.739881
+That's right! This person!,あっ！ そうそう この人だ,Ah!Oh yeah he is this person,0.2727272727272727,0.6787573
 "Clearly said, this person is really bad.","（松）
 はっきり言って
 この人はヤバヤバです…","Clearly speaking
-This person is Yabayaba ...",0.3333333333333333
-Number 09: Tsukiumi.,（松）ナンバー09 月海,Number 09,0.4
-"She's a Sekirei with water powers, but she's infamous for her hatred toward Ashikabi.",彼女は大の葦牙嫌いで有名なのです,She is famous for hailing a large grip,0.14285714285714285
+This person is Yabayaba ...",0.3333333333333333,0.36528057
+Number 09: Tsukiumi.,（松）ナンバー09 月海,Number 09,0.4,0.65909165
+"She's a Sekirei with water powers, but she's infamous for her hatred toward Ashikabi.",彼女は大の葦牙嫌いで有名なのです,She is famous for hailing a large grip,0.14285714285714285,0.38525254
 And she's reacted to Mina-tan...,"その彼女が
 みなたんに反応してしまった…","That she
-She has responded to Mito ...",0.2727272727272727
+She has responded to Mito ...",0.2727272727272727,0.4932697
 This should have definitely hurt her pride.,"これは 彼女のプライドを
 いたく傷つけたはずですよ","This is her pride
-You should have hurt you",0.6
-I'll kill you!,（月海）殺す！,kill!,0.4
-"Eh, what should I do!?",ひえ〜！ どっ どうしよう,Hey ~!How should we do,0.25
+You should have hurt you",0.6,0.75996435
+I'll kill you!,（月海）殺す！,kill!,0.4,0.69274336
+"Eh, what should I do!?",ひえ〜！ どっ どうしよう,Hey ~!How should we do,0.25,0.37494442
 "In order to win this game, we need to make our party stronger, but...","ゲームを勝ち抜くために
 パーティーの増強は必須なのですが","To win the game
-Party enhancement is essential",0.21052631578947367
+Party enhancement is essential",0.21052631578947367,0.58240116
 "Who would guess that it's the Sekirei who hates Ashikabi, Number 09.","（松）ナンバー09ですか…
 （皆人）あわわわ〜","No. 09 ...
- Awa ~",0.1111111111111111
-It'll be fine.,（結）大丈夫ですよ,It is okay,0.14285714285714285
-"If it's Minato-san, he'll be fine.",皆人さんなら大丈夫です,It is all right if everyone,0.14285714285714285
-Musubi-chan...,結ちゃん…,Single ...,0.3333333333333333
-What's happened to you?,どうしたの それ？,What happened?,0.5
+ Awa ~",0.1111111111111111,0.3020458
+It'll be fine.,（結）大丈夫ですよ,It is okay,0.14285714285714285,0.493183
+"If it's Minato-san, he'll be fine.",皆人さんなら大丈夫です,It is all right if everyone,0.14285714285714285,0.1560929
+Musubi-chan...,結ちゃん…,Single ...,0.3333333333333333,0.20156048
+What's happened to you?,どうしたの それ？,What happened?,0.5,0.47584397
 I'll... Go search for the person in my dream.,"（皆人）俺 夢の人 捜すよ
 （結）あ…","I'm looking for a dream
- ...",0.26666666666666666
-"Somehow, I'll make her come to our side.",何とか仲間になってもらうんだ,I have somehow became friends,0.14285714285714285
-I'll do my best.,俺 頑張ってみるから,Because I try my best,0.375
-But you might be killed.,でも 殺されるかも,May be killed,0.2857142857142857
-Matsu-san!,松さ〜ん！,Matsu-san!,1.0
+ ...",0.26666666666666666,0.5016562
+"Somehow, I'll make her come to our side.",何とか仲間になってもらうんだ,I have somehow became friends,0.14285714285714285,0.312593
+I'll do my best.,俺 頑張ってみるから,Because I try my best,0.375,0.33214554
+But you might be killed.,でも 殺されるかも,May be killed,0.2857142857142857,0.56114566
+Matsu-san!,松さ〜ん！,Matsu-san!,1.0,1.0000001
 "If it's Minato-san, then that person will definitely understand!","皆人さんなら きっと
 その方とも分かり合えるはずです","I will surely everyone
-You should also understand that person",0.2222222222222222
-Use your words as your fist!,言葉と拳で！,Words and fists!,0.25
-F-Fist...,ちょ 餌って…,Cho feed ...,0.25
-I understand.,分かりましたです,I understand,0.6666666666666666
+You should also understand that person",0.2222222222222222,0.37278175
+Use your words as your fist!,言葉と拳で！,Words and fists!,0.25,0.6970396
+F-Fist...,ちょ 餌って…,Cho feed ...,0.25,0.20918247
+I understand.,分かりましたです,I understand,0.6666666666666666,0.8897038
 I'll look for her by satellite from here.,"松はここから
 監視衛星で捜してみるです","Pine is from here
-I'm looking for with a surveillance satellite",0.29411764705882354
+I'm looking for with a surveillance satellite",0.29411764705882354,0.44286123
 Musubi-tan will use her athleticism to go to places where the satellite can't reach.,"衛星の目の届かないところを
 見回ってくださいです","Where the satellite does not reach
-Please see",0.21052631578947367
-Sure!,（結）はい！,Yes!,0.3333333333333333
+Please see",0.21052631578947367,0.40631637
+Sure!,（結）はい！,Yes!,0.3333333333333333,0.63092566
 "If it's the rumoured Sekirei Number 09, then she should head over to kill you.","ナンバー09が
 噂(うわさ)どおりのセキレイなら","Number 09
-If it is a rumor",0.19047619047619047
-"Ah, right. To kill me...",ああ そう　殺しにね…,"Oh, I will kill you ...",0.25
-"That's how it will be, so Kusano-tan, please be Mina-tan's bodyguard.",（松）そういうわけで,That's why,0.14285714285714285
-Bodyguard?,護衛？,escort?,0.3333333333333333
-Now then!,それでは！,Then!,0.6666666666666666
+If it is a rumor",0.19047619047619047,0.49845472
+"Ah, right. To kill me...",ああ そう　殺しにね…,"Oh, I will kill you ...",0.25,0.65290916
+"That's how it will be, so Kusano-tan, please be Mina-tan's bodyguard.",（松）そういうわけで,That's why,0.14285714285714285,0.113517456
+Bodyguard?,護衛？,escort?,0.3333333333333333,0.57332146
+Now then!,それでは！,Then!,0.6666666666666666,0.81585526
 "We'll name this ""The Do or Die! Love Throbbing Sekirei-created Master Strategy!""","名付けて“殺(や)るか殺られるか！
 恋のドキドキセキレイ捜索大作戦”","Named ""I'm killed or killed!
-Love's Dokido Kisekirei Search Large Strategy """,0.2
-Let's go!,レッツゴーです！,Let's go!,1.0
+Love's Dokido Kisekirei Search Large Strategy """,0.2,0.61290526
+Let's go!,レッツゴーです！,Let's go!,1.0,0.9999996
 "Do or die, I guess...","（皆人）
-殺るか殺られるか… ね",Can I kill or kill ...,0.3333333333333333
-Seo-san!,（月海）はっ！,!,0.5
-This feeling...,この感じ 日々 強くなっておる,This feeling is getting stronger,0.3333333333333333
+殺るか殺られるか… ね",Can I kill or kill ...,0.3333333333333333,0.47089738
+Seo-san!,（月海）はっ！,!,0.5,0.284937
+This feeling...,この感じ 日々 強くなっておる,This feeling is getting stronger,0.3333333333333333,0.5120985
 "I'll definitely find you, and kill you myself!","必ず見つけ出して
 この手で殺してやろうぞ！","Be sure to find out
-Let's kill this hand!",0.16666666666666666
-What are you feeling?,（光(ひかり)）何を感じるって？,What do you feel?,0.42857142857142855
+Let's kill this hand!",0.16666666666666666,0.3408151
+What are you feeling?,（光(ひかり)）何を感じるって？,What do you feel?,0.42857142857142855,0.81054044
 "I've heard of you two, a pair that only aims for unwinged Sekirei.","羽化前の個体ばかりを狙う
 双子のセキレイがいると","Aim for only individuals before emerging
-If there is a twin segment",0.12
-Y-You dirty cheaters! You want to survive that much?!,そこまでして勝ち残りたいか！,Want to win there and win it!,0.2
-"As if, bitch!",んだと コラッ！,If it is a crisp!,0.2222222222222222
+If there is a twin segment",0.12,0.25398567
+Y-You dirty cheaters! You want to survive that much?!,そこまでして勝ち残りたいか！,Want to win there and win it!,0.2,0.108032934
+"As if, bitch!",んだと コラッ！,If it is a crisp!,0.2222222222222222,0.23558298
 "Nah, we don't have any interest in that.","いや うちら
 そういうのには興味ないし","Uh
-I'm not interested in that",0.125
+I'm not interested in that",0.125,0.48292795
 We only want to take unwinged Sekirei out of this game.,"羽化前の子たちを
 このゲームから外したいだけさ","Children before emerging
-I just want to remove it from this game",0.2
+I just want to remove it from this game",0.2,0.24062105
 Very well. I was feeling a bit irritated anyway.,"ちょうど
 むしゃくしゃしていたところじゃ","just
-Where I was sorry",0.15384615384615385
-Come!,（月海）ふっ！,!,0.5
-You guys... Are only this strong?,お主ら この程度か？,How much is this?,0.18181818181818182
-Crap!,（光･響）きゃ〜！,!,0.5
-Water Celebration!,水祝(みずいわい)！,Water celebration !,1.0
+Where I was sorry",0.15384615384615385,0.2461385
+Come!,（月海）ふっ！,!,0.5,0.4717927
+You guys... Are only this strong?,お主ら この程度か？,How much is this?,0.18181818181818185,0.055302896
+Crap!,（光･響）きゃ〜！,!,0.5,0.43574303
+Water Celebration!,水祝(みずいわい)！,Water celebration !,1.0,0.99999934
 Geh!? A single number!?,"（光）
-げっ！ シングルナンバーかい？",!Single number?,0.6666666666666666
-Searching for a cat...?,（皆人）猫捜し？,A cat in a cat?,0.42857142857142855
+げっ！ シングルナンバーかい？",!Single number?,0.6666666666666666,0.7744462
+Searching for a cat...?,（皆人）猫捜し？,A cat in a cat?,0.42857142857142855,0.6175906
 "Yeah. I thought, ""After they run away, we catch a similar looking cat,","ああ　逃げられちまったら
 似た猫 捕まえて","Oh, if you run away
-Catch similar cat",0.3157894736842105
+Catch similar cat",0.3157894736842105,0.73545325
 H-How do you know?,"って 松さんのこと
 知ってるんですか？","Matsu-san
-Do you know?",0.6666666666666666
-"And this feeling... It was Matsu from Izumo House, wasn't it?",しかも その感じ 出雲荘の松だな？,And it feels like Matsumi of Izunoso?,0.16666666666666666
+Do you know?",0.6666666666666666,0.22187173
+"And this feeling... It was Matsu from Izumo House, wasn't it?",しかも その感じ 出雲荘の松だな？,And it feels like Matsumi of Izunoso?,0.16666666666666666,0.66507214
 Dumbass. The one who made that hidden door was me.,"バ〜カ
 あの隠し扉 作ったの俺だぜ？","fool
-I made that hidden door?",0.2857142857142857
+I made that hidden door?",0.2857142857142857,0.7423049
 I was asked by Takehito.,"（響）
 それどこじゃないよ
 マズいヤツに追われてて…","It is not where
-I was chased by a mazy guy ...",0.2
-Asame Takehito. He was my friend.,俺の親友だったヤツだ…,It is a guy who was my best friend ...,0.21428571428571427
+I was chased by a mazy guy ...",0.2,0.1633091
+Asame Takehito. He was my friend.,俺の親友だったヤツだ…,It is a guy who was my best friend ...,0.21428571428571427,0.38368267
 Seo.,"（光）瀬尾！
 （瀬尾）ん？","Seo!
-?",0.25
-Yo! I found our money supply!,おう！ 金ヅル 見つかったぞ,King!I found gold,0.3333333333333333
+?",0.25,0.81477195
+Yo! I found our money supply!,おう！ 金ヅル 見つかったぞ,King!I found gold,0.3333333333333333,0.4337792
 This isn't the time for that!,"（月海）
-この猿め！ 邪魔だと言って…",This monkey!Say that it is in the way ...,0.35714285714285715
-The guy over there!,（月海）そこの男！,A man there!,0.2857142857142857
-You're in the way!,（月海）邪魔だ！ のけ！,I'm in the way!New!,0.4444444444444444
-Move!,うわ〜！,Wow!,0.3333333333333333
-I said you were in-,痛たた…,I got a pain ...,0.1111111111111111
+この猿め！ 邪魔だと言って…",This monkey!Say that it is in the way ...,0.35714285714285715,0.23043239
+The guy over there!,（月海）そこの男！,A man there!,0.2857142857142857,0.6492565
+You're in the way!,（月海）邪魔だ！ のけ！,I'm in the way!New!,0.4444444444444444,0.7042327
+Move!,うわ〜！,Wow!,0.3333333333333333,0.28676352
+I said you were in-,痛たた…,I got a pain ...,0.1111111111111111,0.15390106
 W-What's this? It's making me fall to my knees.,"（月海）
 なっ 何じゃ？
 この体を這(は)い回る怖気(おぞけ)","What is it?
-I'm afraid of this body.",0.21052631578947367
-"No, the heat is getting stronger.",いや 熱の塊は…,No heat mass ...,0.2
-This person!,こっ この人…,This person ...,0.5
-You bastard...,貴様 もしや…,Yes ...,0.25
+I'm afraid of this body.",0.21052631578947367,0.3862523
+"No, the heat is getting stronger.",いや 熱の塊は…,No heat mass ...,0.2,0.4874168
+This person!,こっ この人…,This person ...,0.5,0.75894815
+You bastard...,貴様 もしや…,Yes ...,0.25,0.323025
 "Before you can violate this body,","この身が汚される前に
 貴様を葬り去ってくれる！","Before this body is dirty
-You will be buried in your fortune!",0.25
+You will be buried in your fortune!",0.25,0.4407917
 I-It's just like in the dream!,"ひいい〜！
 ゆっ 夢どおりの展開に…","Good ~!
-To the development of Yuko dream ...",0.2
+To the development of Yuko dream ...",0.2,0.4047034
 Why is our Ashikabi such trash?,"（光）
 なんで私らの葦牙は
 こんなにクズなんだろうね？","Why is our ricks
-It's like this?",0.3333333333333333
+It's like this?",0.3333333333333333,0.34013382
 Oh! I lost everything I earned at work at pachinko!,"（瀬尾）
 おう！ 今日もバイト代
 パチンコですっちまった","King!Today also byte
-I'm sorry in pachinko",0.1875
+I'm sorry in pachinko",0.1875,0.51548433
 Episode 6!,"（瀬尾）
-ああ〜！",Ah~!,0.25
+ああ〜！",Ah~!,0.25,0.29099673
 The Flower Army of Izumo House!,"（響･光）
-第六羽「出雲壮花軍(はないくさ)」","The sixth wing ""Izumo Soba Army """,0.2727272727272727
+第六羽「出雲壮花軍(はないくさ)」","The sixth wing ""Izumo Soba Army """,0.2727272727272727,0.54684144
 "Forever next time, too...","（瀬尾）
-次回も幾久しく",Next time,0.3333333333333333
+次回も幾久しく",Next time,0.3333333333333333,0.5655

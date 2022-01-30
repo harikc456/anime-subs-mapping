@@ -1,311 +1,311 @@
-en_text,jp_text,google_translated,score
-re,♪～,♪ ~,0.0
-Se...,（芽衣(めい)）せ…,...,0.5
-Sensei?,先生…？,teacher…?,0.3333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+re,♪～,♪ ~,0.0,0.27786636
+Se...,（芽衣(めい)）せ…,...,0.5,0.23458637
+Sensei?,先生…？,teacher…?,0.3333333333333333,0.07189757
 "Call me ""Dad.""","俺は もう先生じゃないんだ
 “お父さん”って呼んでくれよ","I'm not a teacher anymore
-Call me ""Dad""",0.4166666666666667
-"you're my dad, too?",私のパパ？,My dad?,0.42857142857142855
-Nice to meet you!,よろしくな,nice to meet you,0.8
-"Oh, yeah. They don't get along that well.",あっ… ちょっ…,Oh ... ...,0.08333333333333333
+Call me ""Dad""",0.4166666666666667,0.7288254
+"you're my dad, too?",私のパパ？,My dad?,0.42857142857142855,0.7158795
+Nice to meet you!,よろしくな,nice to meet you,0.8,0.9287185
+"Oh, yeah. They don't get along that well.",あっ… ちょっ…,Oh ... ...,0.08333333333333333,0.20905784
 I brought you—,"（柚子）そういえば
-うまくいってないんだっけ…",I'm not doing well ...,0.125
+うまくいってないんだっけ…",I'm not doing well ...,0.125,0.12143609
 Pardon me.,"（翔）これ…
 （芽衣）失礼します","This ...
-Excuse me",0.16666666666666666
+Excuse me",0.16666666666666666,0.40334737
 H-Hey!,"ちょい待ち！
-（芽衣）あっ",Wait a little bit!,0.16666666666666666
+（芽衣）あっ",Wait a little bit!,0.16666666666666666,0.19670704
 "She's just a freshman, but she's already president of the student council.","芽衣パパ 芽衣は すごいんだよ
 （芽衣）あ…","I'm sorry I'm sorry for the whaling dad
- A ...",0.09523809523809523
+ A ...",0.09523809523809523,0.049841177
 "Plus, she's super smart and incredibly popular,","１年なのに立派に生徒会長してて
 おまけに頭良くて人気者でさ…","Students are president as a year
-Below it is a good and popular person ...",0.09523809523809523
+Below it is a good and popular person ...",0.09523809523809523,0.3436853
 Stop.,"（芽衣）やめて
 （柚子）それに―","Stop
-}",0.3333333333333333
-Stop it!,（芽衣）やめて！,Stop !,0.6666666666666666
+}",0.3333333333333333,0.6887647
+Stop it!,（芽衣）やめて！,Stop !,0.6666666666666666,0.8382895
 Mei?,"芽衣？
 （芽衣）んんっ…","Harrying?
- ...",0.25
+ ...",0.25,0.05393499
 I'm not going back to the academy.,"（翔）
-俺は もう学院には戻らないぞ",I will not return to the academy anymore,0.4166666666666667
+俺は もう学院には戻らないぞ",I will not return to the academy anymore,0.4166666666666667,0.83062154
 Huh?,"（柚子）あっ えっ？
 （芽衣）ハッ…","Yes?
- ...",0.25
-Mei!,芽衣！ 芽衣！,Fusset!Fusset!,0.3333333333333333
-Maybe I said something I shouldn't have.,私 まずいこと言っちゃったかな,I wonder if I said something wrong,0.2727272727272727
-You should give him a name.,（柚子）あ…,A ...,0.125
+ ...",0.25,0.41520628
+Mei!,芽衣！ 芽衣！,Fusset!Fusset!,0.3333333333333333,0.2617419
+Maybe I said something I shouldn't have.,私 まずいこと言っちゃったかな,I wonder if I said something wrong,0.2727272727272727,0.52030575
+You should give him a name.,（柚子）あ…,A ...,0.125,0.2159087
 I'm hungry. Wanna go grab some grub?,"腹 減ったな
 飯でも買いに行くか","I'm hungry
-Do you go to buy even rice",0.23529411764705882
+Do you go to buy even rice",0.2352941176470588,0.5504442
 Think she still likes 'em?,"（翔）芽衣が子供のころ
 好きだったんだよ","Harrying is a child
-She liked",0.09090909090909091
+She liked",0.09090909090909093,0.35195145
 "I mean, she probably still likes sweets.","甘いものは今でも
 好きなんじゃないかな","Sweet things are still
-I do not like it",0.125
+I do not like it",0.125,0.53960204
 We went out and had crêpes together.,"あっ 出かけたとき
 一緒にクレープ食べたし","When I went out
-I ate crepe together",0.25
-That's good to hear.,（翔）そりゃ よかった,It was good,0.125
+I ate crepe together",0.25,0.81158835
+That's good to hear.,（翔）そりゃ よかった,It was good,0.125,0.28028345
 I'm glad you're such a loving sister to her.,"べっ 別に“好き”とか
 言ってねえし","""I like""
-Hey to say",0.11764705882352941
+Hey to say",0.1176470588235294,0.20243917
 I-I never said anything about love...,"（翔）ありがとうな
 （柚子）んん…","Thank you
- ...",0.1111111111111111
+ ...",0.1111111111111111,0.109953746
 If he never intends to come back to the academy...,"もし 父に学院へ戻る意思が
 なかったら…","If my father returns to the Academy
-If not ...",0.35714285714285715
+If not ...",0.35714285714285715,0.774531
 I'd like to move on instead of go back.,"（翔）“戻る”より
 俺は“進む”が好きだな","From ""Back""
-I like ""progress""",0.2
-I do feel sorry for Mei.,芽衣には悪いと思ってる,I think it is bad for shooting,0.16666666666666666
+I like ""progress""",0.2,0.2841282
+I do feel sorry for Mei.,芽衣には悪いと思ってる,I think it is bad for shooting,0.16666666666666666,0.08149317
 But I still haven't finished seeing the world.,"今も まだ
 広い世界を見てる最中だ","Now still
-It is the way to see the wide world",0.17647058823529413
-There's no right answer to how someone should live their life.,生き方に正解なんてないのさ,I do not answer how to live,0.25
-Mei...,（柚子）ん…,...,0.5
+It is the way to see the wide world",0.17647058823529413,0.50302273
+There's no right answer to how someone should live their life.,生き方に正解なんてないのさ,I do not answer how to live,0.25,0.5671107
+Mei...,（柚子）ん…,...,0.5,0.28013474
 I think your dad thinks of you more than you realize.,"芽衣のパパは ちゃんと
 芽衣のことも見てると思う","Daddy of watings properly
-I think I'm also looking at",0.16666666666666666
-"And if that's the case,",（柚子）もし そうなら―,"If so,",0.25
-then there might be something I can do for them.,私にも できることがあるかも,Maybe I may be able to,0.13333333333333333
-"Mei, I'm coming in.",さっきは ごめん,I'm sorry,0.25
+I think I'm also looking at",0.16666666666666666,0.24430424
+"And if that's the case,",（柚子）もし そうなら―,"If so,",0.25,0.43200275
+then there might be something I can do for them.,私にも できることがあるかも,Maybe I may be able to,0.13333333333333333,0.39223146
+"Mei, I'm coming in.",さっきは ごめん,I'm sorry,0.25,0.16385747
 I didn't mean to upset you.,"そんなに悪いことだと
 思わなかったんだよ","It is so bad
-I did not think",0.14285714285714285
+I did not think",0.14285714285714285,0.14409009
 I just wanted your dad to know more about—,"芽衣のパパに
 もっと芽衣のこと知って…","In the dad of the wore
-I know more sowing ...",0.26666666666666666
-It's all over now.,（芽衣）もう全部 終わりだわ,It is all over,0.42857142857142855
+I know more sowing ...",0.26666666666666666,0.33971786
+It's all over now.,（芽衣）もう全部 終わりだわ,It is all over,0.42857142857142855,0.77627
 The father I admired was strict and exceptional.,"私の憧れていた父は
 とても厳格で優秀な人だった","My father who had been in love
-He was a very strict and excellent person",0.2
+He was a very strict and excellent person",0.2,0.7281751
 "He put the academy before anything else, \N including his own happiness.","自分の幸せより
 学院のことを第一に考えて―","From my own happiness
-Think of the Academy First-",0.21052631578947367
+Think of the Academy First-",0.21052631578947367,0.66782314
 It was my life's goal to become like him.,"父のような人になることが
 私の進むべき道だと思ってた","It is a person like a father
-I thought it was a way to go",0.21052631578947367
-I even accepted his divorce with my mother.,母と離婚したのだって納得できたわ,I was convinced that I was divorced with my mother,0.3076923076923077
+I thought it was a way to go",0.21052631578947367,0.3443543
+I even accepted his divorce with my mother.,母と離婚したのだって納得できたわ,I was convinced that I was divorced with my mother,0.3076923076923077,0.6535935
 "I wanted him to come back to the academy,","そんな父に もう一度
 学院に戻ってほしくて―","Such a father again
-I want you to go back to the school-",0.23529411764705882
+I want you to go back to the school-",0.2352941176470588,0.5108888
 "so five years ago, I didn't leave with him\N and stayed with the Aiharas.","５年前 私は父の誘いを断って
 藍原(あいはら)家に残る決意をした","5 years ago I refuse my father's invitation
-I decided to remain in the househara",0.14814814814814814
+I decided to remain in the househara",0.14814814814814814,0.57145566
 Stop trying to do everything on your own!,"父の戻る場所を守るためなら
 何でもできた","If you want to protect your father's return place
-I was able to do anything",0.14285714285714285
+I was able to do anything",0.14285714285714285,0.11793824
 "Then what should I have done, \N instead of protecting the academy?","学院を守る以外に
 何をしたら よかったの？","Besides protecting the academy
-What did he do?",0.2777777777777778
+What did he do?",0.2777777777777778,0.6128828
 "I've lived my entire life trying to support him, \Nso what should I live my life for now?","（芽衣）父のために生きてきた私は
 何を支えに生きたらいいのよ","I have lived for my father
-What should I live?",0.4
-Mei—,め…,eye…,0.0
+What should I live?",0.4,0.6299181
+Mei—,め…,eye…,0.0,0.3317557
 Mei! Mei!,"（柚子）ちょっ… 芽衣！ 芽衣！
 ハア ハア…","Chopsticks ...Fusset!
-Haa Haa ...",0.16666666666666666
+Haa Haa ...",0.16666666666666666,0.23118609
 Will you cherish me?,"あなたは 私を受け入れて
 くれるわよね？","You accept me
-Will it come?",0.5
-Answer me. Please.,お願い 答えて,Please answer,0.5
-You're so simple.,単純…,Simple ...,0.16666666666666666
+Will it come?",0.5,0.5204427
+Answer me. Please.,お願い 答えて,Please answer,0.5,0.65818805
+You're so simple.,単純…,Simple ...,0.16666666666666666,0.6535825
 "Maybe if I had done the same, I would've had it easier.","（芽衣）
-私も そうしたら楽だったかしら",I also wanted to do that if she was so easy,0.09090909090909091
+私も そうしたら楽だったかしら",I also wanted to do that if she was so easy,0.09090909090909093,0.472269
 "It's your first time, right?","（芽衣）
-フッ 簡単に服従しちゃうのね",It's easy to obey,0.18181818181818182
-Don't demean me!,ハッ！,Ha!,0.16666666666666666
+フッ 簡単に服従しちゃうのね",It's easy to obey,0.18181818181818185,0.2284061
+Don't demean me!,ハッ！,Ha!,0.16666666666666666,0.26120567
 You can't just toy with people's feelings!,"バカにすんな！
 人の気持ちを何だと思ってんだ","An idiot!
-I think what the feelings of people",0.17647058823529413
+I think what the feelings of people",0.17647058823529413,0.3903932
 "So, you travel and teach all around the world?","（柚子）じゃあ パパは
 世界中で 先生やってんだ？","Well then dad
-Are you teaching all over the world?",0.29411764705882354
+Are you teaching all over the world?",0.29411764705882354,0.697356
 "I quit one school, only to end up starting and teaching at another.","学校 辞めたのに また学校つくって
 先生やってる","Even though I quit school again
-I'm doing my teacher",0.13636363636363635
-What the heck is up with you?,御飯は？,What is your meal?,0.3
-"Hey, Mei?",あっ？,Ah?,0.2
+I'm doing my teacher",0.13636363636363635,0.71238655
+What the heck is up with you?,御飯は？,What is your meal?,0.3,0.28893146
+"Hey, Mei?",あっ？,Ah?,0.2,0.19828294
 Sorry.,"（翔）ごめんな 俺のせいで
 ぎくしゃくしちゃって","Sorry for me
-I'm sorry",0.16666666666666666
+I'm sorry",0.16666666666666666,0.50469846
 "He goes and spreads his love to kids all over the world,","世界の子供たちには
 愛を振りまけるのに―","For children in the world
-To shake love-",0.16666666666666666
-Sh-Shut up!,うっ うるせえ！,I'm sorry!,0.16666666666666666
+To shake love-",0.16666666666666666,0.49071547
+Sh-Shut up!,うっ うるせえ！,I'm sorry!,0.16666666666666666,0.32626295
 but you never know how to act around her.,"本当は大好きなのに
 素直じゃないって損ね","I really love you
-It is impossible to be honest",0.1111111111111111
-What the heck?,何だ？ それ,What?that,0.4
+It is impossible to be honest",0.1111111111111111,0.24915026
+What the heck?,何だ？ それ,What?that,0.4,0.40926093
 Can we stop talking about me?,"（翔）
-あー もう 俺のことはいいだろ？","Oh, I'm good for me anymore?",0.14285714285714285
-As for Mei...,（翔）んっ んんん…,Non ...,0.2
+あー もう 俺のことはいいだろ？","Oh, I'm good for me anymore?",0.14285714285714285,0.38178515
+As for Mei...,（翔）んっ んんん…,Non ...,0.2,0.18203366
 I know I left her when she needed me the most.,"親が いちばん必要なときに
 離れちまったことも分かってるんだ","When the parent is needed
-I know that I was out",0.3125
+I know that I was out",0.3125,0.40850884
 "But because I lived my whole life according to the Aihara family's ideals,","藍原家のやり方で生きてきた
 俺の言葉じゃ―","I have lived in the way of 藍
-My word is",0.18181818181818182
-can you be her emotional support?,芽衣を支えてやってほしい,I want you to support watings,0.18181818181818182
+My word is",0.18181818181818185,0.3482211
+can you be her emotional support?,芽衣を支えてやってほしい,I want you to support watings,0.18181818181818185,0.25581697
 "Mornin', Yuzucchi!","（はるみ）柚子っち おはー
-（柚子）あっ",Atsushi Yumi,0.0
-Harumin bikes to school?!,はるみん チャリ通だと？,Harumi-san?,0.14285714285714285
+（柚子）あっ",Atsushi Yumi,0.0,0.3528299
+Harumin bikes to school?!,はるみん チャリ通だと？,Harumi-san?,0.14285714285714285,0.2687196
 Is it really that complicated?,"（柚子）
-そんなに難しいことなのかな？",Is it so difficult?,0.375
+そんなに難しいことなのかな？",Is it so difficult?,0.375,0.73765355
 I feel like parent-child relationships are supposed to be more relaxed.,"（柚子）親子って もっと こう
 気楽なものだと思うんだけどな","Parents and children are more
-I think it's easy",0.15789473684210525
+I think it's easy",0.15789473684210525,0.55044705
 Is the president feeling okay?,"（生徒）
-生徒会長 具合でも悪いんですか？",Is it bad even with the student president?,0.36363636363636365
+生徒会長 具合でも悪いんですか？",Is it bad even with the student president?,0.3636363636363637,0.530645
 "I tried to talk to her, \N but she wouldn't say anything...","（生徒）話しかけても
 何も答えてくれないの","Even if you talk
-I can not answer anything",0.15
+I can not answer anything",0.15,0.46122792
 "I'm worried about her,","（生徒）心配だけど
 愁いを帯びた会長も美しいわね","I'm worried
-The deputy president is also beautiful",0.25
+The deputy president is also beautiful",0.25,0.3850597
 "Hey Yuzucchi, the teacher's coming! Get your butt in here!","（はるみ）
-柚子っち 先生 来るぞ 早く入れ",Take a dumpling teacher coming soon,0.11764705882352941
-What can I do for her?,芽衣のために私ができること…,What I can do for woke ...,0.5555555555555556
-Family? Her father?,家族？ お父さん？,family?Father?,0.75
+柚子っち 先生 来るぞ 早く入れ",Take a dumpling teacher coming soon,0.1176470588235294,0.46689093
+What can I do for her?,芽衣のために私ができること…,What I can do for woke ...,0.5555555555555556,0.20247674
+Family? Her father?,家族？ お父さん？,family?Father?,0.75,0.82527685
 What's so funny?,"（柚子）
-何？ 急に笑いだして",what?Suddenly laugh,0.2857142857142857
+何？ 急に笑いだして",what?Suddenly laugh,0.2857142857142857,0.45446208
 You've been making the same goofy face all day!,"朝から ずっと同じ顔してるからさ
 フフッ","Because I have the same face from morning
-Fuf",0.17647058823529413
+Fuf",0.17647058823529413,0.5531648
 So I worry about things! Sue me!,"私だって悩み事ぐらいあるよ！
 （はるみ）アハハハ…","I'm very troubled!
- Ahahaha ...",0.15384615384615385
-"Sorry, you must have it rough.",あー ごめん ごめん,"Uh, sorry",0.2222222222222222
-Harumin!,ううっ はるみん！,Uhuhirumin!,0.3333333333333333
+ Ahahaha ...",0.15384615384615385,0.36910132
+"Sorry, you must have it rough.",あー ごめん ごめん,"Uh, sorry",0.2222222222222222,0.39567897
+Harumin!,ううっ はるみん！,Uhuhirumin!,0.3333333333333333,0.55119663
 Mama Harumin knows how hard you've been working.,"柚子っちが頑張ってるとこ
 見てるからな","The dumplings are working hard
-I'm looking at it",0.1111111111111111
+I'm looking at it",0.1111111111111111,0.3007162
 This?!,"そっか これだ！
 （はるみ）これか！","This is this!
- Is this!",0.5
-"Close, but nope.",惜しいが違う,Lonely,0.0
-Hello? Mom?,（柚子）もしもし ママ？,Mom too?,0.5
-Huh? What's wrong?,（柚子）何？ どうしたの？,What?What's wrong?,0.8
-Is Mei-chan with you?,今 芽衣ちゃんは一緒？,Now Yuki is together?,0.25
+ Is this!",0.5,0.49961892
+"Close, but nope.",惜しいが違う,Lonely,0.0,0.15980625
+Hello? Mom?,（柚子）もしもし ママ？,Mom too?,0.5,0.5252306
+Huh? What's wrong?,（柚子）何？ どうしたの？,What?What's wrong?,0.8,0.83684903
+Is Mei-chan with you?,今 芽衣ちゃんは一緒？,Now Yuki is together?,0.25,0.47370473
 Shou-san just stopped by and said he has to go abroad again this evening.,"今日の夕方 また海外に
 出ちゃうことになったの","Today evening and overseas
-It was decided to come out",0.13636363636363635
+It was decided to come out",0.13636363636363635,0.19416155
 What?!,"えっ！？
 （はるみ）んっ？","eh!?
-?",0.5
+?",0.5,0.39001995
 "I asked the academy to tell her, \Nbut they couldn't get ahold of her.","（梅）芽衣ちゃんにも 学院から
 伝えてもらったんだけど―","From the Academy
-I was asked to tell you-",0.3157894736842105
-"Can you go see him off, Yuzu?",柚子 お見送り行ける？,Dumplings Can you see off?,0.5
-He's going to the airport from Ueno.,“上野(うえの)から 空港に向かう”って,"""From Ueno  to the airport""",0.45454545454545453
+I was asked to tell you-",0.3157894736842105,0.6168564
+"Can you go see him off, Yuzu?",柚子 お見送り行ける？,Dumplings Can you see off?,0.5,0.30250347
+He's going to the airport from Ueno.,“上野(うえの)から 空港に向かう”って,"""From Ueno  to the airport""",0.4545454545454545,0.8067198
 He said he's taking the 6:40 train.,"“６時40分の電車に乗る”って
 言ってたけど…","""Riding a train of 6:40""
-I said but ...",0.1875
-It's already five!,あっ もう５時じゃん！,There is already 5 o'clock!,0.2222222222222222
+I said but ...",0.1875,0.7524926
+It's already five!,あっ もう５時じゃん！,There is already 5 o'clock!,0.2222222222222222,0.6587421
 Yuzucchi!,"（はるみ）柚子っち！
-（柚子）んっ あっ",dumplings!,0.3333333333333333
-Get on!,乗れ！,Get on!,1.0
+（柚子）んっ あっ",dumplings!,0.3333333333333333,0.39124802
+Get on!,乗れ！,Get on!,1.0,1.0
 "Harumin, I'll be right back!","（柚子）はるみん 行ってくる！
 （はるみ）おう！","Harumin will come!
-!",0.2
-Is Mei here?!,おかしいですわね,It is funny,0.14285714285714285
+!",0.2,0.6919276
+Is Mei here?!,おかしいですわね,It is funny,0.14285714285714285,0.09825202
 "The president? \N Why, I believe she already left.","（姫子）会長でしたら 今日は
 もう帰られたんじゃありませんの？","If it is the chairman, today
-Aren't you already returned?",0.19047619047619047
-Huh? No way! \N Her shoes are still in her cubby!,芽衣 いる？,Are you tired?,0.14285714285714285
-"Well, that's strange...",（丸田(まるた)･姫子(ひめこ)）あっ…,", Himeko ) ...",0.25
-"Where did you go, Mei?!",（柚子）どこに行ったの？ 芽衣,Where did you go?Blast,0.5555555555555556
+Aren't you already returned?",0.19047619047619047,0.26946834
+Huh? No way! \N Her shoes are still in her cubby!,芽衣 いる？,Are you tired?,0.14285714285714285,0.20214513
+"Well, that's strange...",（丸田(まるた)･姫子(ひめこ)）あっ…,", Himeko ) ...",0.25,0.16612262
+"Where did you go, Mei?!",（柚子）どこに行ったの？ 芽衣,Where did you go?Blast,0.5555555555555556,0.45925975
 You couldn't take your eyes off that when we went to the amusement park.,"（翔）遊園地に行ったとき
 ずっと見ていただろう？","When I went to the amusement park
-Have you seen it for a long time?",0.28
+Have you seen it for a long time?",0.28,0.51511294
 I thought it'd be perfect for you.,"（翔）授業参観に
 行ってやれなかったからな","For class visuality
-I did not do it",0.21428571428571427
-Thank you!,ありがとう,Thank you,0.6666666666666666
+I did not do it",0.21428571428571427,0.11886832
+Thank you!,ありがとう,Thank you,0.6666666666666666,0.8314241
 "Oh yeah, don't you think \N you should give him a name?","あー そうだ
 何か名前つけてやらないとな","Oh yeah
-I have to name something",0.16666666666666666
-A name?,（芽衣）名前？,name?,0.6666666666666666
-Beary!,芽衣！,Fusset!,0.3333333333333333
-It is now time to leave school.,下校時刻になりました,It became the lower school time,0.2727272727272727
+I have to name something",0.16666666666666666,0.3818285
+A name?,（芽衣）名前？,name?,0.6666666666666666,0.67589056
+Beary!,芽衣！,Fusset!,0.3333333333333333,0.45163432
+It is now time to leave school.,下校時刻になりました,It became the lower school time,0.2727272727272727,0.46582717
 "Students still on campus, please turn off the lights, shut any windows,","校内に残っている生徒は
 電気を消し 窓を閉めて―","Students left in school
-Close the Electric Erased Window-",0.1
-and be mindful of traffic on your way home.,車に気をつけて帰りましょう,Let's take care of the car and go home,0.17647058823529413
+Close the Electric Erased Window-",0.1,0.6598001
+and be mindful of traffic on your way home.,車に気をつけて帰りましょう,Let's take care of the car and go home,0.17647058823529413,0.40260956
 Huh?! What are you doing?,"えっ？
 あなた 何して…","eh?
-What you are ...",0.4444444444444444
-Mei! Listen!,（柚子）芽衣 聞いて！,Hearing habits!,0.2
-Let's go say goodbye to dad!,芽衣！ パパのお見送りに行こう！,Fusset!Let's go out to visit dad!,0.5454545454545454
-I'm waiting for you!,待ってるから！,I'm waiting!,0.6666666666666666
+What you are ...",0.4444444444444444,0.42530787
+Mei! Listen!,（柚子）芽衣 聞いて！,Hearing habits!,0.2,0.37062505
+Let's go say goodbye to dad!,芽衣！ パパのお見送りに行こう！,Fusset!Let's go out to visit dad!,0.5454545454545454,0.64007866
+I'm waiting for you!,待ってるから！,I'm waiting!,0.6666666666666666,0.8282873
 This is the kind of reckless behavior that gets students suspended!,"こんな むちゃなこと していたら
 退学になってしまいますわよ！","If it is such a thing
-It will be out of school!",0.14285714285714285
+It will be out of school!",0.14285714285714285,0.3454587
 Yuzu.,"（芽衣）柚子
-（２人）あっ",dumplings,0.0
-President!,会長！,Chairman!,0.3333333333333333
+（２人）あっ",dumplings,0.0,0.160934
+President!,会長！,Chairman!,0.3333333333333333,0.62440926
 "Let's go, Mei!","（姫子）あっ あっ？
 （柚子）行こう 芽衣！","?
- Let's go!",0.5714285714285714
+ Let's go!",0.5714285714285714,0.5475602
 "Yuzu, why do you always act before you think?","あなたは なぜ
 いつも考えなしに行動するの？","Why are you
-Do you always act without thinking?",0.46153846153846156
-That's not an answer.,そんなの 答えになってないわ,It has not been such an answer,0.3
+Do you always act without thinking?",0.4615384615384616,0.72521204
+That's not an answer.,そんなの 答えになってないわ,It has not been such an answer,0.3,0.5269084
 There is no right answer.,"（柚子）正解なんてないよ
-（芽衣）あっ",There is no correct answer,0.5714285714285714
+（芽衣）あっ",There is no correct answer,0.5714285714285714,0.7946045
 I'm doing it because I want to!,"私がしたいからに
 決まってんじゃん！","Because I want to
-It is decided!",0.6
+It is decided!",0.6,0.5665376
 Sorry!,"（男性）おおっ…
 （柚子）あっ すいません！","Oh ...
- I'm sorry!",0.3333333333333333
+ I'm sorry!",0.3333333333333333,0.58535624
 "Dad's still here, right?","（芽衣）ハア ハア…
 （柚子）芽衣パパ まだいるよね？","Haa ha ha ...
- I'm sorry I'm sorry, right?",0.23076923076923078
+ I'm sorry I'm sorry, right?",0.2307692307692308,0.29383504
 Dad!,"（芽衣）あ…
 （柚子）あっ パパ！","A ...
- A dad!",0.5
-Yuzu-chan? Mei?,（翔）ん？,?,0.3333333333333333
-Sensei...,ううっ…,Uh ...,0.3333333333333333
-Father.,お父さん,Father,0.5
-Come back home soon!,早く帰ってきてね！ ヘヘッ,Come back early!Hehe,0.42857142857142855
+ A dad!",0.5,0.65926456
+Yuzu-chan? Mei?,（翔）ん？,?,0.3333333333333333,0.063728474
+Sensei...,ううっ…,Uh ...,0.3333333333333333,0.20795241
+Father.,お父さん,Father,0.5,0.9039261
+Come back home soon!,早く帰ってきてね！ ヘヘッ,Come back early!Hehe,0.42857142857142855,0.7240151
 Sounds good to me.,"（柚子）パパ 芽衣は自分のために
 進み始めたよ","Papa sober is for me
-I started to advance",0.16666666666666666
+I started to advance",0.16666666666666666,0.124403745
 "Hey, Mei, what did you talk about with Dad at the station?","（柚子）
-芽衣 駅でパパと何話したの？",What did you talk with dad at the wax station?,0.6666666666666666
-The same thing as five years ago.,５年前と同じよ,The same as 5 years ago,0.5555555555555556
+芽衣 駅でパパと何話したの？",What did you talk with dad at the wax station?,0.6666666666666666,0.6733216
+The same thing as five years ago.,５年前と同じよ,The same as 5 years ago,0.5555555555555556,0.92790395
 There was something he wanted to find so badly that he left the Aihara family.,"（芽衣）父には藍原家を出てまで
 探したいものがあった","Father until I left the 藍
-There was something I wanted to look for",0.3333333333333333
-Why are you crying?,（芽衣）あ… なぜ泣いてるの？,... Why are you crying?,0.8333333333333334
+There was something I wanted to look for",0.3333333333333333,0.39523444
+Why are you crying?,（芽衣）あ… なぜ泣いてるの？,... Why are you crying?,0.8333333333333334,0.8856655
 "Sorry. If anyone should be crying, it's you.","ごめん ほんとは芽衣が
 泣きたいところなのにね ヘヘッ","I'm sorry I'm really tired
-If you want to cry, she is Hehe",0.19047619047619047
-Matsuri...,ハア… あ…,Haa ... Oh ...,0.25
+If you want to cry, she is Hehe",0.19047619047619047,0.6429531
+Matsuri...,ハア… あ…,Haa ... Oh ...,0.25,0.12296845
 I can't live without him.,"私 彼がいないと
 生きていけないのに―","I have no him
-He can not live-",0.15384615384615385
-What did I do wrong?,（柚子）な… 何だ？ これ,... What is it?this,0.2
+He can not live-",0.15384615384615385,0.68922716
+What did I do wrong?,（柚子）な… 何だ？ これ,... What is it?this,0.2,0.07045176
 Look at how cute you are.,"（まつり）何も悪くないよ マユ
 こんなに かわいいのに","Nothing is bad
-Such cute",0.09090909090909091
-A dull girl and a stupid guy...,鈍い女とバカな男,Dung woman and stupid man,0.2
-Delete.,削除っと,Remove,0.0
-Yuzu-chan.,柚子ちゃん 懐かしい,Nostalgic,0.0
-"Well, I've got nothing better to do. \N Maybe I'll go see her.",暇だし 会いに行っちゃおうかな,I wonder if I will go to see you,0.2
-I,元気してるかな,I'm fine,0.3333333333333333
-Explain it to me.,（柚子）分かるように教えてよ,Tell me to understand,0.2857142857142857
-What did that kiss mean?,あのときのキスの意味,Meaning of kiss at that time,0.2
+Such cute",0.09090909090909093,0.52613384
+A dull girl and a stupid guy...,鈍い女とバカな男,Dung woman and stupid man,0.2,0.4285902
+Delete.,削除っと,Remove,0.0,0.61919826
+Yuzu-chan.,柚子ちゃん 懐かしい,Nostalgic,0.0,0.16821143
+"Well, I've got nothing better to do. \N Maybe I'll go see her.",暇だし 会いに行っちゃおうかな,I wonder if I will go to see you,0.2,0.5076465
+I,元気してるかな,I'm fine,0.3333333333333333,0.33503744
+Explain it to me.,（柚子）分かるように教えてよ,Tell me to understand,0.2857142857142857,0.5655395
+What did that kiss mean?,あのときのキスの意味,Meaning of kiss at that time,0.2,0.7153133
 Yuzu-chan! Finally found you!,"（まつり）
-柚子ちゃん やっと会えた",Juko-chan finally met,0.14285714285714285
+柚子ちゃん やっと会えた",Juko-chan finally met,0.14285714285714285,0.45187286
 I guess two girls kissing really isn't normal.,"ほんとは
 普通じゃないんだよな","the truth
-It is not normal",0.14285714285714285
+It is not normal",0.14285714285714285,0.5243866
 "Hey, Yuzu-chan.","（まつり）
-ねえ 柚子ちゃん―",Hey Yumiko-chan-,0.2
-"You're in love with someone, aren't you?",好きな人 いるでしょ？,Do you like it?,0.15384615384615385
+ねえ 柚子ちゃん―",Hey Yumiko-chan-,0.2,0.81193304
+"You're in love with someone, aren't you?",好きな人 いるでしょ？,Do you like it?,0.15384615384615385,0.12002126

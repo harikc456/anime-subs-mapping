@@ -1,296 +1,296 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 It just looks like a normal picture to me...,"見たところ
 普通の絵にしか見えませんが…","Seemingly
-It can only be seen by ordinary picture ...",0.17647058823529413
-At first glance.,一見はな,At a look,0.16666666666666666
-I see.,祈り続けていいですか,May I keep praying,0.16666666666666666
-Kaoru-sama!,あっ！,Ah!,0.3333333333333333
-Kaoru... sama?,薫… 様…？,Somewhat ...?,0.4
-"Summer's over, huh?",あーあ 夏も終わりか…,"Oh, summer is over ...",0.3333333333333333
-"Swimsuits, fireworks, yukatas, festivals...",水着 花火 浴衣 お祭り はあ…,Swimwear fireworks yukata Festival is ...,0.2
-"No summer memories with a girl, huh?",あ？,a?,0.2222222222222222
-Keita-sama!,啓太様ー！,Kebita!,0.3333333333333333
-Nadeshiko-chan!,なでしこちゃん！,Nadeshiko!,0.3333333333333333
+It can only be seen by ordinary picture ...",0.17647058823529413,0.6151752
+At first glance.,一見はな,At a look,0.16666666666666666,0.5517603
+I see.,祈り続けていいですか,May I keep praying,0.16666666666666666,0.002263164
+Kaoru-sama!,あっ！,Ah!,0.3333333333333333,0.26755348
+Kaoru... sama?,薫… 様…？,Somewhat ...?,0.4,0.09406155
+"Summer's over, huh?",あーあ 夏も終わりか…,"Oh, summer is over ...",0.3333333333333333,0.8640095
+"Swimsuits, fireworks, yukatas, festivals...",水着 花火 浴衣 お祭り はあ…,Swimwear fireworks yukata Festival is ...,0.2,0.825263
+"No summer memories with a girl, huh?",あ？,a?,0.2222222222222222,0.107446164
+Keita-sama!,啓太様ー！,Kebita!,0.3333333333333333,0.520758
+Nadeshiko-chan!,なでしこちゃん！,Nadeshiko!,0.3333333333333333,0.8300552
 Hurrah! My summer isn't over yet!,"ぬへーい！ 俺の夏は
 まだ終わってなーい！ いやっほーい！","Nouhou!My summer is
-It is still over!I'm sorry!",0.35714285714285715
-Shukuchi!,しゅくち！,Shucchi!,0.3333333333333333
-What's wrong?,どうしたの？,What's wrong?,1.0
-Yes.,ひっ… はい,Hi ... Yes,0.25
-Any clues?,心当たりは？,Who heard?,0.2
-"You two know about Sekidousai, don't you?",お２人は赤道斎をご存じですよね？,"Two people know the Akadai, right?",0.3076923076923077
+It is still over!I'm sorry!",0.35714285714285715,0.8274543
+Shukuchi!,しゅくち！,Shucchi!,0.3333333333333333,0.5942761
+What's wrong?,どうしたの？,What's wrong?,1.0,1.0000004
+Yes.,ひっ… はい,Hi ... Yes,0.25,0.48997352
+Any clues?,心当たりは？,Who heard?,0.2,0.2209614
+"You two know about Sekidousai, don't you?",お２人は赤道斎をご存じですよね？,"Two people know the Akadai, right?",0.3076923076923077,0.3256591
 "That perverted magician who lived\Nseveral hundred years ago, wasn't it?","確か 江戸時代に活躍した
 へんてこ魔導師だろ？","Certainly I was active in the Edo period
-Is it a serious magician?",0.17391304347826086
+Is it a serious magician?",0.17391304347826084,0.5960854
 "He made a grimoire that made people's clothes disappear,","人の服を消す魔導書とか
 人の服を変えるニワトリとか…","A magic book that erases the clothes of people
-Changing the clothes of people ...",0.23529411764705882
+Changing the clothes of people ...",0.2352941176470588,0.56515545
 "Actually, Kaoru-sama is helping Karina-sama with his work...","は… 実は薫様は
 仮名様のお仕事を手伝っていまして","... In fact
-I helped work with a temporary name",0.17647058823529413
-What's this?,ん？ 何これ？,Yeah?What's this?,0.8
+I helped work with a temporary name",0.17647058823529413,0.21646598
+What's this?,ん？ 何これ？,Yeah?What's this?,0.8,0.6584433
 """Answer the question of truth with truth... this will open the door.","真実の問いかけに 真実で答えよ
 さらば扉は開かれん","Answer in the truth with truth questions
-Farewell door is open",0.35294117647058826
-"Sekidousai.""",赤道斎,Equitus,0.0
+Farewell door is open",0.35294117647058826,0.78389245
+"Sekidousai.""",赤道斎,Equitus,0.0,0.26543054
 We tried talking to the painting...,"色々とその絵に向かって
 話しかけてみたのですけど…","Towards that picture
-I tried to talk ...",0.25
-Nothing?,うん？,Yes?,0.3333333333333333
-"Did you try, Tomohane?",ともはねも試したの？,Did you try it?,0.5714285714285714
-"Yeah, but it didn't work.",なにもなかったの？,Didn't it?,0.3333333333333333
-Could this be...,これって もしかして…,Even if this is ...,0.2857142857142857
-Eh?!,えっ？,eh?,0.6666666666666666
-Answer me!,答えて,Please answer,0.25
-Keita!,啓太！ あっ…,Keita!Ah…,0.6666666666666666
+I tried to talk ...",0.25,0.5548193
+Nothing?,うん？,Yes?,0.3333333333333333,0.32455617
+"Did you try, Tomohane?",ともはねも試したの？,Did you try it?,0.5714285714285714,0.50450784
+"Yeah, but it didn't work.",なにもなかったの？,Didn't it?,0.3333333333333333,0.44752192
+Could this be...,これって もしかして…,Even if this is ...,0.2857142857142857,0.495826
+Eh?!,えっ？,eh?,0.6666666666666666,0.90616506
+Answer me!,答えて,Please answer,0.25,0.5085045
+Keita!,啓太！ あっ…,Keita!Ah…,0.6666666666666666,0.9615436
 It's very important!,"答えて！
 これは とっても大事なことなんだ","Please answer!
-This is a very important thing she",0.25
-"Now, what color?!",さっ 下着の色は？,What is the color of the underwear?,0.3
-It-It's white!,し… 白です…,... White ...,0.2
-I thought so.,やっぱりそうだ,I'm sorry,0.16666666666666666
-What do you mean?,どういうこと？,What do you mean?,1.0
+This is a very important thing she",0.25,0.5147306
+"Now, what color?!",さっ 下着の色は？,What is the color of the underwear?,0.3,0.5770593
+It-It's white!,し… 白です…,... White ...,0.2,0.57732075
+I thought so.,やっぱりそうだ,I'm sorry,0.16666666666666666,0.16160224
+What do you mean?,どういうこと？,What do you mean?,1.0,1.0000002
 It's question and answer.,"つまりだな
 “問い”と“答え”だったんだよ","That's why
-""Question"" and ""answer""",0.4
+""Question"" and ""answer""",0.4,0.5132849
 This picture is made to respond when someone asks something and someone answers.,"この絵は反応する
 仕組みになっているんだ","This picture reacts
-It is becoming a mechanism",0.16666666666666666
+It is becoming a mechanism",0.16666666666666666,0.41350573
 I see...,"なるほど… って わざわざ
 なでしこの下着の色聞くことないでしょ！","I see ...
-Nazuki I will not hear the color of this underwear!",0.23076923076923078
-"Nadeshiko-chan, what's your bust size?!",なでしこちゃん バストのサイズは？,What is the size of the busty bust?,0.3076923076923077
-It's closing!,いい加減にしなさいっ！,Make it good!,0.3333333333333333
-I...,そ… そんな…,So ... Such ...,0.25
-I know!,やったあ！,I did it!,0.4
+Nazuki I will not hear the color of this underwear!",0.2307692307692308,0.19879343
+"Nadeshiko-chan, what's your bust size?!",なでしこちゃん バストのサイズは？,What is the size of the busty bust?,0.3076923076923077,0.710545
+It's closing!,いい加減にしなさいっ！,Make it good!,0.3333333333333333,0.36729753
+I...,そ… そんな…,So ... Such ...,0.25,0.4253974
+I know!,やったあ！,I did it!,0.4,0.21697484
 "What's your favorite food, Youko-san?","あ そうだ！ ようこさんの
 好きな食べ物は？","Yes!Yoko
-What is your favorite food?",0.4166666666666667
+What is your favorite food?",0.4166666666666667,0.57237345
 Chocolate cake!,"でかした なでしこ！
 チョコレートケーキ！","I did not do it!
-Chocolate cake!",0.375
-Spaghetti!,スパゲッティーです,Spaghetti,0.5
+Chocolate cake!",0.375,0.7256089
+Spaghetti!,スパゲッティーです,Spaghetti,0.5,0.88764435
 Why doesn't Nadeshiko-chan wear a bra?,"う… 質問 なでしこちゃんが
 ブラをつけない理由は？","Hmm ... Questions
-Why don't you have a bra?",0.35714285714285715
-Because there are huge breasts right in front of me!,そこに 大きな胸があるから…,Because there is a big chest there ...,0.125
-A little more!,あと少し,A little after,0.4
-It opened!,開いた！,Open!,0.25
-Huh?,あれ？,that?,0.3333333333333333
+Why don't you have a bra?",0.35714285714285715,0.5859673
+Because there are huge breasts right in front of me!,そこに 大きな胸があるから…,Because there is a big chest there ...,0.125,0.6620261
+A little more!,あと少し,A little after,0.4,0.53987616
+It opened!,開いた！,Open!,0.25,0.6892918
+Huh?,あれ？,that?,0.3333333333333333,0.6348126
 "She didn't ask or answer any questions, so probably...","おそらく 問いと答えに
 参加しなかったので…","Perhaps ask questions and answers
-Because I did not participate ...",0.21052631578947367
-This is...?,クケ？,Is it?,0.4
-The figurines and pictures of voice actresses are also machos.,フィギュアや人気声優もマッチョだ,Figures and popular voice actors are also Macho,0.26666666666666666
-"The pillow's got a macho on it too, if you look closely.",抱き枕もよく見たらマッチョね…,"If you look closely with the pillow, Match ...",0.3888888888888889
-Something's a bit off...,なにかが微妙にずれてる…,Somehow is slightly off ...,0.2222222222222222
-"Keita Kawahira the Inukami Tsukai, yes?",犬神使いの川平啓太か？,Kawahira Kawahi of the dog god?,0.25
-"Hey, Karina-san, what are you talking about?",おいおい 仮名さん 何言ってんの？,Hey Kana What are you saying?,0.45454545454545453
-I mean you!,仮名さん！,Mr. Kana!,0.16666666666666666
-There are two Karina-sans?,仮名さんが２人？,Two Kana-san?,0.3333333333333333
-My name is Sekidousai.,我が名は赤道斎 仮名史郎は我が子孫,My name is Kana Akira Kana Shiro,0.375
-"If you want him back, then come get him.",取り戻したかったら ここに来い,Come here if you want to get back,0.5
-"If you don't, then leave my world.",嫌なら 我が世界から出ていくがいい,"If you dislike it, it is good to go out of the world",0.21052631578947367
+Because I did not participate ...",0.21052631578947367,0.3877785
+This is...?,クケ？,Is it?,0.4,0.3575552
+The figurines and pictures of voice actresses are also machos.,フィギュアや人気声優もマッチョだ,Figures and popular voice actors are also Macho,0.26666666666666666,0.85086477
+"The pillow's got a macho on it too, if you look closely.",抱き枕もよく見たらマッチョね…,"If you look closely with the pillow, Match ...",0.3888888888888889,0.6095498
+Something's a bit off...,なにかが微妙にずれてる…,Somehow is slightly off ...,0.2222222222222222,0.73357093
+"Keita Kawahira the Inukami Tsukai, yes?",犬神使いの川平啓太か？,Kawahira Kawahi of the dog god?,0.25,0.5363115
+"Hey, Karina-san, what are you talking about?",おいおい 仮名さん 何言ってんの？,Hey Kana What are you saying?,0.4545454545454545,0.51501006
+I mean you!,仮名さん！,Mr. Kana!,0.16666666666666666,0.28916836
+There are two Karina-sans?,仮名さんが２人？,Two Kana-san?,0.3333333333333333,0.53385425
+My name is Sekidousai.,我が名は赤道斎 仮名史郎は我が子孫,My name is Kana Akira Kana Shiro,0.375,0.63416445
+"If you want him back, then come get him.",取り戻したかったら ここに来い,Come here if you want to get back,0.5,0.38322118
+"If you don't, then leave my world.",嫌なら 我が世界から出ていくがいい,"If you dislike it, it is good to go out of the world",0.21052631578947367,0.5314881
 "I don't feel like searching for the exit, so I'll just come to where you are!","偉そうに 出口を探すの面倒だから
 そっちに行ってやるよ","Because it is troublesome to look for the exit
-I will go there",0.18518518518518517
-"How long will that spirit of yours last, I wonder?",その威勢 どこまで続くかな？,How long does it last?,0.2857142857142857
-Where is Kaoru-sama?,薫様はどこですか？,Where is Soya?,0.6
-I'll be waiting.,では待っているぞ,I'm waiting,0.3333333333333333
-"Good work, Xanthippe.",ご苦労 クサンチッペ,Dry Kusanchippe,0.0
-This is what you could call an auspicious moment.,好機とは このこと…,This way is this ...,0.16666666666666666
-I'm surprised Sekidousai is still alive.,赤道斎が生きていたなんて びっくり,I was surprised that the Akai was alive,0.25
+I will go there",0.1851851851851852,0.6961114
+"How long will that spirit of yours last, I wonder?",その威勢 どこまで続くかな？,How long does it last?,0.2857142857142857,0.46503356
+Where is Kaoru-sama?,薫様はどこですか？,Where is Soya?,0.6,0.4075766
+I'll be waiting.,では待っているぞ,I'm waiting,0.3333333333333333,0.7730794
+"Good work, Xanthippe.",ご苦労 クサンチッペ,Dry Kusanchippe,0.0,-0.027825788
+This is what you could call an auspicious moment.,好機とは このこと…,This way is this ...,0.16666666666666666,0.19330189
+I'm surprised Sekidousai is still alive.,赤道斎が生きていたなんて びっくり,I was surprised that the Akai was alive,0.25,0.4441098
 He's a genius at magic.  It's not that surprising.,"奴は魔道の天才
 生きていても おかしくはない","The guy is a genius of Magic
-Even if you live, he is not strange",0.23809523809523808
-Yes!,うん！,Yes!,1.0
-Nadeshiko-chan?,なでしこちゃん…,Nadeshiko ...,0.0
-Let's look for Kaoru-sama.,うっ 薫様を捜しましょ,Let's search for,0.42857142857142855
+Even if you live, he is not strange",0.2380952380952381,0.7037092
+Yes!,うん！,Yes!,1.0,1.0000001
+Nadeshiko-chan?,なでしこちゃん…,Nadeshiko ...,0.0,0.77841127
+Let's look for Kaoru-sama.,うっ 薫様を捜しましょ,Let's search for,0.42857142857142855,0.36864635
 I know him. He has to be around here somewhere.,"薫様のことです
 必ず どこかにいるはずです","It is a thing of
-Be sure to be somewhere in her",0.15789473684210525
+Be sure to be somewhere in her",0.15789473684210525,0.19794933
 Let's find him and surprise him!,"うん こっちから捜して
 薫をびっくりさせよう！","I'm looking for from here
-Let's surprise the 薫!",0.26666666666666666
-From an otaku's room to a temple.,オタク部屋から神殿… すごい落差だ,Temple of nerd room ... It's a great difference,0.26666666666666666
-What kind of person is Kaoru?,ねえねえ 薫ってどんな人？,"Hey, what kind of person?",0.5555555555555556
-I've never met him.,私 会ったことないから,Because I have never met,0.375
-No!,ち 違います！,It is different!,0.2
+Let's surprise the 薫!",0.26666666666666666,0.4443008
+From an otaku's room to a temple.,オタク部屋から神殿… すごい落差だ,Temple of nerd room ... It's a great difference,0.26666666666666666,0.32981774
+What kind of person is Kaoru?,ねえねえ 薫ってどんな人？,"Hey, what kind of person?",0.5555555555555556,0.4326123
+I've never met him.,私 会ったことないから,Because I have never met,0.375,0.6641827
+No!,ち 違います！,It is different!,0.2,0.28478393
 "He's a person with a generous\Nheart, who accepts all inukami.","薫様は全ての犬神を受けとめて下さる
 心の広いお方です","Yoshio receives all dog gods
-It is a wide-minded person",0.15789473684210525
+It is a wide-minded person",0.15789473684210525,0.42086393
 "He's a person that I, as an inukami,\Ncan respect from the bottom of my heart.","犬神として 心から尊敬できる
 ご主人様です","I can respect from the heart as a dog god
-It is a master",0.28
-Are you in love with Kaoru?,薫のこと好き？,Do you like it?,0.2
-I knew it!,図星だ！,It is a star star!,0.2857142857142857
-Please don't tease me!,あ… はっ！ からかわないで下さい,Oh ... Hey!Please do not know,0.2727272727272727
-I'm fine!,し 知りません！ もーっ,I do not know!Too,0.25
-Jeez...,お… ううう…,Oh ... Uuu ...,0.25
-Yes?,はい？,Yes?,1.0
-It touched...,触った！,I touched it!,0.4
+It is a master",0.28,0.44002524
+Are you in love with Kaoru?,薫のこと好き？,Do you like it?,0.2,0.196291
+I knew it!,図星だ！,It is a star star!,0.2857142857142857,0.28967887
+Please don't tease me!,あ… はっ！ からかわないで下さい,Oh ... Hey!Please do not know,0.2727272727272727,0.38071293
+I'm fine!,し 知りません！ もーっ,I do not know!Too,0.25,0.17737415
+Jeez...,お… ううう…,Oh ... Uuu ...,0.25,0.33773047
+Yes?,はい？,Yes?,1.0,1.0000001
+It touched...,触った！,I touched it!,0.4,0.74067545
 "If you want to advance, you'll have to defeat me!","この先に行きたければあ
 ミーを倒すのでーす！","If you want to go ahead
-I defeat me!",0.5
-Dance! Dance!,はははは… 踊れ 踊れい！,Hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha!,0.3333333333333333
-Show me the strength of your emotions.,見せてくれ その思いの強さを…,Show me to the strength of that feeling ...,0.4166666666666667
-"Was it fun, Kaoru Kawahira?",楽しかったわ 川平薫,It was fun Hirakawa Hirakawa,0.375
-Holy Crush!,ホーリークラーッシュ！,Holy Crush!,1.0
-"Come, blood of the Sekidou!",効かぬぞ！ 来たれ 赤道の血よ！,It does not work!Come and the blood of the equatorial!,0.38461538461538464
-Kaoru Kawahira!,川平薫！,Kawahira Hirakawa!,0.5
-"Wind, play a symphony!",大気よ シンフォニーを奏でよ,I play symphony atmosphere,0.25
-Kawahira!,川平ー！ くっ,Kawahira!Mood,0.6666666666666666
-You're the first person to hurt me in over 400 years.,400年以上の中でお前が初めてだ,You are the first time in over 400 years,0.4666666666666667
-Kaoru Kawahira...,川平薫…,Kawahira Hirakawa ...,0.5
+I defeat me!",0.5,0.7087434
+Dance! Dance!,はははは… 踊れ 踊れい！,Hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha!,0.3333333333333333,0.107032284
+Show me the strength of your emotions.,見せてくれ その思いの強さを…,Show me to the strength of that feeling ...,0.4166666666666667,0.6333803
+"Was it fun, Kaoru Kawahira?",楽しかったわ 川平薫,It was fun Hirakawa Hirakawa,0.375,0.5387705
+Holy Crush!,ホーリークラーッシュ！,Holy Crush!,1.0,0.9999998
+"Come, blood of the Sekidou!",効かぬぞ！ 来たれ 赤道の血よ！,It does not work!Come and the blood of the equatorial!,0.38461538461538464,0.2578559
+Kaoru Kawahira!,川平薫！,Kawahira Hirakawa!,0.5,0.7611409
+"Wind, play a symphony!",大気よ シンフォニーを奏でよ,I play symphony atmosphere,0.25,0.6784848
+Kawahira!,川平ー！ くっ,Kawahira!Mood,0.6666666666666666,0.8428073
+You're the first person to hurt me in over 400 years.,400年以上の中でお前が初めてだ,You are the first time in over 400 years,0.4666666666666667,0.7419114
+Kaoru Kawahira...,川平薫…,Kawahira Hirakawa ...,0.5,0.77466065
 In the name of the wise ruler of Hakusan...,"白山名君の名において告ぐ！
 カエルよ 爆砕せよ！","Tell you in the name of Hakusan!
-Frog, let's break!",0.3125
-Jaen!,じゃえーん！,Jaen!,1.0
-Oh no!,いやーん！,no!,0.6666666666666666
-"Hey Sekidousai, just you wait!",おらおら 赤道斎！ 待ってろ！,Otana Akai!Wait!,0.2222222222222222
-"What do you hate, Kappa-san?",河童さんの嫌いなものは？,What do you dislike Mr. Kappa?,0.4
+Frog, let's break!",0.3125,0.5031036
+Jaen!,じゃえーん！,Jaen!,1.0,1.0000001
+Oh no!,いやーん！,no!,0.6666666666666666,0.66995066
+"Hey Sekidousai, just you wait!",おらおら 赤道斎！ 待ってろ！,Otana Akai!Wait!,0.2222222222222222,0.33857843
+"What do you hate, Kappa-san?",河童さんの嫌いなものは？,What do you dislike Mr. Kappa?,0.4,0.74397075
 I'll never be able to get to Keita-sama like this!,"うはあー！ これじゃあ
 啓太様の所に行けないよお！","Uh!Therefore
-I can not go to the place of Keita!",0.15
-I've got a bad feeling about this.,なんか 嫌な予感がする…,I have a bad feeling ...,0.36363636363636365
-Fallen!,んぐっ んぐっ んんー！ んん…,Hmmm!...,0.25
-Keita wins!,動いたあ 啓太の勝ちい！,I won the waters of Keita!,0.25
-Dammit!,はははは！,Hahahahaha!,0.3333333333333333
-Swing. Swing. Swing.,スイング スイング スイング,Swing swing swing,0.5
-Swing. Swing.,スイング スイング,Swing swing,0.5
-Swing. Swing. Hoooo!,スイング スイング フォーッ！,Swing swing for!,0.4
-Over!,終了ー！,End!,0.3333333333333333
-"With 3456 hip shakes, Keita is the winner!",3456腰振りで 啓太の勝ちー！,3456 Winning of Keita with waist swap!,0.2857142857142857
-To think you'd get this far...,へ… へへへへ…,To ... to ...,0.25
-It's more than I expected.,期待以上だ,It is more than expected,0.5
-"Especially from you, Keita Kawahira.",特に川平啓太… お前は素晴らしい,Especially Kawahira Keita ... You are wonderful,0.4
-I want to know you.,お前を知りたい！ お前は底なしなのか？,I want to know you!Are you a bottom?,0.45454545454545453
-"Congratulations on your marriage, Keita-san!",啓太さん 結婚おめでとー！,Keita-san Marriage Omede!,0.375
-Marriage? With Nadeshiko-chan?,結婚？ なでしこちゃんと？,marriage?And?,0.4
+I can not go to the place of Keita!",0.15,0.72727525
+I've got a bad feeling about this.,なんか 嫌な予感がする…,I have a bad feeling ...,0.3636363636363637,0.66135484
+Fallen!,んぐっ んぐっ んんー！ んん…,Hmmm!...,0.25,0.15567987
+Keita wins!,動いたあ 啓太の勝ちい！,I won the waters of Keita!,0.25,0.7850266
+Dammit!,はははは！,Hahahahaha!,0.3333333333333333,0.32653785
+Swing. Swing. Swing.,スイング スイング スイング,Swing swing swing,0.5,0.8510168
+Swing. Swing.,スイング スイング,Swing swing,0.5,0.9112175
+Swing. Swing. Hoooo!,スイング スイング フォーッ！,Swing swing for!,0.4,0.8226954
+Over!,終了ー！,End!,0.3333333333333333,0.6132463
+"With 3456 hip shakes, Keita is the winner!",3456腰振りで 啓太の勝ちー！,3456 Winning of Keita with waist swap!,0.2857142857142857,0.693494
+To think you'd get this far...,へ… へへへへ…,To ... to ...,0.25,0.38928574
+It's more than I expected.,期待以上だ,It is more than expected,0.5,0.8194016
+"Especially from you, Keita Kawahira.",特に川平啓太… お前は素晴らしい,Especially Kawahira Keita ... You are wonderful,0.4,0.798873
+I want to know you.,お前を知りたい！ お前は底なしなのか？,I want to know you!Are you a bottom?,0.4545454545454545,0.4843295
+"Congratulations on your marriage, Keita-san!",啓太さん 結婚おめでとー！,Keita-san Marriage Omede!,0.375,0.75021774
+Marriage? With Nadeshiko-chan?,結婚？ なでしこちゃんと？,marriage?And?,0.4,0.43699646
 You're my husband.,"お前 俺の夫 今夜眠れなーい
 眠らせなーい","You're my husband tonight Sleeping
-I can not sleep",0.36363636363636365
-"Hey, I am not kissing him!",おい！ キスは絶対にしないからな！,Oi!I will never kiss!,0.16666666666666666
-Chop?,誓いのチョップ？,Oath chop?,0.6666666666666666
-Ouch!,んっ！,!,0.5
-We were transported again.,また飛ばされた,I was blown again,0.125
-"Keita-sama isn't here, is he?",ここはどこですか？,Where is here?,0.375
-Need something?,なにか用か？,What do you do?,0.16666666666666666
-I'm so glad it's not another muscleman.,よかった 筋肉もりもりじゃなくて,It's not good Muscle Morimori,0.23076923076923078
-This is a storehouse of magical items.,ここは魔導具の倉庫,This is a warehouse of Magic,0.4
-So is there an item that can get us out of here?,じゃあ ここから出る道具はあるの？,So there is a tool coming out of here?,0.4375
-Is there an item that can save Kaoru-sama?,赤道斎の？,Is it an equidist?,0.2727272727272727
-Which is it?,どっちなの？,Which one?,0.4
+I can not sleep",0.3636363636363637,0.5175861
+"Hey, I am not kissing him!",おい！ キスは絶対にしないからな！,Oi!I will never kiss!,0.16666666666666666,0.6382481
+Chop?,誓いのチョップ？,Oath chop?,0.6666666666666666,0.6969471
+Ouch!,んっ！,!,0.5,0.45185652
+We were transported again.,また飛ばされた,I was blown again,0.125,0.42550454
+"Keita-sama isn't here, is he?",ここはどこですか？,Where is here?,0.375,0.223133
+Need something?,なにか用か？,What do you do?,0.16666666666666666,0.23930986
+I'm so glad it's not another muscleman.,よかった 筋肉もりもりじゃなくて,It's not good Muscle Morimori,0.2307692307692308,0.50533867
+This is a storehouse of magical items.,ここは魔導具の倉庫,This is a warehouse of Magic,0.4,0.76198065
+So is there an item that can get us out of here?,じゃあ ここから出る道具はあるの？,So there is a tool coming out of here?,0.4375,0.59168506
+Is there an item that can save Kaoru-sama?,赤道斎の？,Is it an equidist?,0.2727272727272727,0.13360266
+Which is it?,どっちなの？,Which one?,0.4,0.6800598
 "There's too many, I can't tell.","いっぱいありすぎて分からん
 自分で探すね","I have a lot of too much
-I look for myself",0.1111111111111111
-Find it? In such a large place?,探すって こんな広い場所から？,From such a wide place to look for?,0.3076923076923077
-Nadeshiko?,なでしこ？,Pink?,0.3333333333333333
+I look for myself",0.1111111111111111,0.32251394
+Find it? In such a large place?,探すって こんな広い場所から？,From such a wide place to look for?,0.3076923076923077,0.53686327
+Nadeshiko?,なでしこ？,Pink?,0.3333333333333333,0.19013993
 "But if we do something, we may find a way.","このまま なにもしなければゼロ
 でも 動けば可能性は１にも２にもなる","If nothing is done, zero
-But if it moves, the possibility is 1 or 2",0.13636363636363635
-Nadeshiko...,えっ は…,Eh ...,0.3333333333333333
-That's right.,うん そうだね,It looks like,0.0
-Thank you...,あっ ありがとう…,Thank you ...,1.0
-"Youko-san, aren't you worried?",ようこさんは心配じゃないの？,Aren't you worried about Yoko?,0.5555555555555556
-About what?,何が？,what?,0.6666666666666666
-You just... can?,なんとなく… ですか？,Somehow ...?,0.3333333333333333
-Keita won't die that easily.,啓太様のこと,Keita,0.14285714285714285
+But if it moves, the possibility is 1 or 2",0.13636363636363635,0.23551628
+Nadeshiko...,えっ は…,Eh ...,0.3333333333333333,0.18748999
+That's right.,うん そうだね,It looks like,0.0,0.19295244
+Thank you...,あっ ありがとう…,Thank you ...,1.0,0.99999976
+"Youko-san, aren't you worried?",ようこさんは心配じゃないの？,Aren't you worried about Yoko?,0.5555555555555556,0.4409276
+About what?,何が？,what?,0.6666666666666666,0.5472661
+You just... can?,なんとなく… ですか？,Somehow ...?,0.3333333333333333,0.41173813
+Keita won't die that easily.,啓太様のこと,Keita,0.14285714285714285,0.6231524
 "He has good parts... bad parts... stupid and perverted parts, but he can be nice.","馬鹿でスケベなところもあるけど
 優しいところもある…","There are also stupid places, but
-There is also a kind place ...",0.17391304347826086
-He doesn't get mad when I punch or kick him.,蹴ったり殴ったりしても怒らないしね,"Even if you kick or hit, you won't get angry",0.21052631578947367
+There is also a kind place ...",0.17391304347826084,0.24340296
+He doesn't get mad when I punch or kick him.,蹴ったり殴ったりしても怒らないしね,"Even if you kick or hit, you won't get angry",0.21052631578947367,0.6885155
 "I've seen so much of him for so long, I can tell somehow.","ずっと啓太の色々見てきたから
 なんとなく分かるの","Because I have seen the various ways of Keita
-I know somehow",0.19047619047619047
-"So, he'll be fine.",だから… 啓太は大丈夫 うん,So ... Keita is fine,0.2
-"Come, blood of Sekidou!",赤道の血よ！,Equatorial blood!,0.2857142857142857
-10...,10 ９ ８…,10 9 8 ...,0.5
-Amazing!,いっ！,!,0.5
-Where is your limit?,川平啓太 お前の限界はどこにあるのだ,Kawahira Keita Where is your limit,0.5714285714285714
-1...,いっ… いっ,Here ...,0.3333333333333333
-0!,ん くっ！,!,0.5
-Angel Blade!,エンジェルブレイド！,Angel Blade!,1.0
-What?,何？,what?,1.0
+I know somehow",0.19047619047619047,0.2698003
+"So, he'll be fine.",だから… 啓太は大丈夫 うん,So ... Keita is fine,0.2,0.36291787
+"Come, blood of Sekidou!",赤道の血よ！,Equatorial blood!,0.2857142857142857,0.46838316
+10...,10 ９ ８…,10 9 8 ...,0.5,0.7513488
+Amazing!,いっ！,!,0.5,0.46444362
+Where is your limit?,川平啓太 お前の限界はどこにあるのだ,Kawahira Keita Where is your limit,0.5714285714285714,0.6269245
+1...,いっ… いっ,Here ...,0.3333333333333333,0.35665765
+0!,ん くっ！,!,0.5,0.45477027
+Angel Blade!,エンジェルブレイド！,Angel Blade!,1.0,1.0000001
+What?,何？,what?,1.0,1.0000001
 "In the name of Tousan Shinkun,\NI order thee, air, play a symphony!","東山真君の名において告ぐ
 大気よ シンフォニーを奏でよ！","Tell in Makoto Higashiyama
-The atmosphere plays her symphony!",0.19047619047619047
-Inoki!,だあっ！ 猪木！,!Inoki!,1.0
-Baba!,馬場ー！,Baba!,1.0
-Andre!,アンドレ！,Andre!,1.0
-Misawa!,三沢！ 何やってんだ俺,Misawa!I'm sorry I'm,0.4
-Andy!,ぬうう ブロディ！,Nuhoublody!,0.3333333333333333
-Hokuto!,北斗ー！,Hokuto!,1.0
-Hole! Hole! Hole! Hole!,うあっ！,!,0.5
-"Rotate, rotate, rotate really fast!",あーな あな あなー！,"Oh, Anna!",0.2857142857142857
-I only need one hole!,やめろー！ 穴は１つで十分だあっ！,Stop!One hole is enough!,0.3333333333333333
-The Daisakkai is bright red!,だいさっかい まっかっか,It is quite cool,0.1111111111111111
+The atmosphere plays her symphony!",0.19047619047619047,0.5915074
+Inoki!,だあっ！ 猪木！,!Inoki!,1.0,0.9635395
+Baba!,馬場ー！,Baba!,1.0,1.0
+Andre!,アンドレ！,Andre!,1.0,0.9999998
+Misawa!,三沢！ 何やってんだ俺,Misawa!I'm sorry I'm,0.4,0.87718993
+Andy!,ぬうう ブロディ！,Nuhoublody!,0.3333333333333333,0.3013542
+Hokuto!,北斗ー！,Hokuto!,1.0,0.9999999
+Hole! Hole! Hole! Hole!,うあっ！,!,0.5,0.24593544
+"Rotate, rotate, rotate really fast!",あーな あな あなー！,"Oh, Anna!",0.2857142857142857,0.16535279
+I only need one hole!,やめろー！ 穴は１つで十分だあっ！,Stop!One hole is enough!,0.3333333333333333,0.81721866
+The Daisakkai is bright red!,だいさっかい まっかっか,It is quite cool,0.1111111111111111,0.20601699
 The power supply pipeline has been destroyed.,"魔力伝達のパイプラインが
 破壊されたようや","Pipeline of magic transmission
-It seems to be destroyed",0.13333333333333333
+It seems to be destroyed",0.13333333333333333,0.595953
 "Unfortunately, we can't defeat your magical power fairly.","残念だが 正攻法では
 お前の魔力に勝てないからな","Unfortunately, in the fashion
-I can't beat your magic",0.29411764705882354
-"Let's go, Xanthippe!",行くぞ,let's go,0.5
-Don't we kill him?,こいつ やらないの？,Do you not do this?,0.2222222222222222
+I can't beat your magic",0.29411764705882354,0.6046355
+"Let's go, Xanthippe!",行くぞ,let's go,0.5,0.4784183
+Don't we kill him?,こいつ やらないの？,Do you not do this?,0.2222222222222222,0.3442104
 Wait!,"ま 待て！ くっ いっき うっ…
 うんっ なああ！","Wait!I'm sorry ...
-I'm sorry!",0.3333333333333333
-Rest a bit.,少し 休むね,I'm going to rest a little,0.2222222222222222
+I'm sorry!",0.3333333333333333,0.5497784
+Rest a bit.,少し 休むね,I'm going to rest a little,0.2222222222222222,0.7100489
 "I've seen so much of him so long, I can tell somehow.","啓太の色々見てきたから
 何となく分かるの","Because I have seen the color of Keita
-I can see somehow",0.2631578947368421
-I was jealous of Youko-san...,ようこさんに嫉妬しました…,I was jealous of Mr. Moko ...,0.625
-I want to see you...,会いたいです…,I want to meet you…,0.375
-Nadeshiko!,なでしこー！,Nazuki!,0.3333333333333333
-Kaoru-sama?,は？,teeth?,0.3333333333333333
-Kaoru-sama...,う… ふっ 薫様…,Wow ...,0.3333333333333333
-I was surprised... that you were here...,驚いた… きみが ここにいるなんて,I was surprised ... I'm here here,0.5555555555555556
-I was so worried about you... so I went to Keita-sama...,薫様が心配で 啓太様に…,Something is worried about Keita ...,0.23076923076923078
-"Hey, it's been a while.",よう 久しぶり！,It's been a long time!,0.36363636363636365
-I never thought we'd meet in a place like this.,まさか こんな所で会うとは,When I meet in such a place,0.35714285714285715
-Me too.,お互いな,Each other,0.0
-Youko?,怪我はないかい なでしこ？,There is no injury?,0.16666666666666666
-Nice to meet you.,ようこ… 初めましてだね,Good morning ... Nice to meet you,0.5
-Karina-san!,ぐおおー！ ぐっ のっ おい！,Gooto!Hey!,0.25
-Don't just look. Untie me!,見てないで ほどいてくれ！,Don't look at it!,0.4
-"The two Inukami Tsukai, Kaoru\NKawahira's bitch, and the golden Youko.",川平薫のメス犬 そして金色のようこ,Kawahira's female dog and golden,0.2
-Sekidousai...,赤道斎…,Akira ...,0.3333333333333333
-"Who are you, anyway?",ていうか お前何もんだ？,Do you want it?,0.2222222222222222
-hiding in a painting for hundreds of years...,川平薫… 食えない奴だ,Kawahira Hirakawa ... It's a guy who can not eat,0.1111111111111111
+I can see somehow",0.2631578947368421,0.28813484
+I was jealous of Youko-san...,ようこさんに嫉妬しました…,I was jealous of Mr. Moko ...,0.625,0.60685825
+I want to see you...,会いたいです…,I want to meet you…,0.375,0.66251385
+Nadeshiko!,なでしこー！,Nazuki!,0.3333333333333333,0.5517098
+Kaoru-sama?,は？,teeth?,0.3333333333333333,0.110364005
+Kaoru-sama...,う… ふっ 薫様…,Wow ...,0.3333333333333333,0.19188626
+I was surprised... that you were here...,驚いた… きみが ここにいるなんて,I was surprised ... I'm here here,0.5555555555555556,0.8518538
+I was so worried about you... so I went to Keita-sama...,薫様が心配で 啓太様に…,Something is worried about Keita ...,0.2307692307692308,0.56806797
+"Hey, it's been a while.",よう 久しぶり！,It's been a long time!,0.3636363636363637,0.7197273
+I never thought we'd meet in a place like this.,まさか こんな所で会うとは,When I meet in such a place,0.35714285714285715,0.545131
+Me too.,お互いな,Each other,0.0,0.10545878
+Youko?,怪我はないかい なでしこ？,There is no injury?,0.16666666666666666,0.09299354
+Nice to meet you.,ようこ… 初めましてだね,Good morning ... Nice to meet you,0.5,0.6074456
+Karina-san!,ぐおおー！ ぐっ のっ おい！,Gooto!Hey!,0.25,0.34345642
+Don't just look. Untie me!,見てないで ほどいてくれ！,Don't look at it!,0.4,0.42604098
+"The two Inukami Tsukai, Kaoru\NKawahira's bitch, and the golden Youko.",川平薫のメス犬 そして金色のようこ,Kawahira's female dog and golden,0.2,0.61794704
+Sekidousai...,赤道斎…,Akira ...,0.3333333333333333,0.50951034
+"Who are you, anyway?",ていうか お前何もんだ？,Do you want it?,0.2222222222222222,0.16566801
+hiding in a painting for hundreds of years...,川平薫… 食えない奴だ,Kawahira Hirakawa ... It's a guy who can not eat,0.1111111111111111,0.07893047
 You wouldn't run into this crap even in a gay bar!,"今どき芸人のドッキリでも
 こんな ひでえもんねえよ！","Even if it is the discriminator's disguise
-Such girlfriend is a hide!",0.13043478260869565
-I don't get it!,わけ分かんねえよお！,Do not know!,0.25
-Are you listening to me?,人の話 聞いてんのか？,Are you listening to people?,0.7142857142857143
+Such girlfriend is a hide!",0.13043478260869565,0.20673586
+I don't get it!,わけ分かんねえよお！,Do not know!,0.25,0.38616332
+Are you listening to me?,人の話 聞いてんのか？,Are you listening to people?,0.7142857142857143,0.8303822
 "I was testing your spiritual power, your emotional strength.","ああ きみ達の霊力を
 思いの強さを試していたのだよ","Awa's spiritual power
-I was trying the strength of my thoughts",0.29411764705882354
+I was trying the strength of my thoughts",0.29411764705882354,0.5094667
 "Since the day I lost my power,\NI've awaited the day of my revival.","私は力を失ったあの日から
 復活の時を待っていた","I lost my power from that day
-I was waiting for the time of revival",0.4
-The Inukami Tsukai and their pet dogs...,犬神使いに その飼い犬,The dog god use its own dog,0.07692307692307693
-Revival?,復活？,Resurrection?,0.3333333333333333
-"When I return to Earth, I will remake the world!",地上に戻った私は この世を作り変える,I returned to the ground I will make this world,0.3333333333333333
-Into a world where everyone can live according to their darkest desires!,誰もが欲望のままに生きる世界に,In the world where everyone lives as desires,0.23529411764705882
+I was waiting for the time of revival",0.4,0.8226605
+The Inukami Tsukai and their pet dogs...,犬神使いに その飼い犬,The dog god use its own dog,0.07692307692307693,0.45259866
+Revival?,復活？,Resurrection?,0.3333333333333333,0.6370547
+"When I return to Earth, I will remake the world!",地上に戻った私は この世を作り変える,I returned to the ground I will make this world,0.3333333333333333,0.6814076
+Into a world where everyone can live according to their darkest desires!,誰もが欲望のままに生きる世界に,In the world where everyone lives as desires,0.2352941176470588,0.732292
 A world without restraints is what I desire!,"そして これが私の欲する
 束縛のない世界だああっ！","And this is my favorite
-It is a world without bundle!",0.3333333333333333
-"What do you hate, Maro-chan?",マロちゃんの嫌いなものは？,What do you dislike Maro?,0.4444444444444444
-Inukami!,強く結ばれた絆 友情！！,Strongly tied 絆 friendship!!,0.16666666666666666
+It is a world without bundle!",0.3333333333333333,0.44973603
+"What do you hate, Maro-chan?",マロちゃんの嫌いなものは？,What do you dislike Maro?,0.4444444444444444,0.7624985
+Inukami!,強く結ばれた絆 友情！！,Strongly tied 絆 friendship!!,0.16666666666666666,0.2583141
 The mammoth species of the elephant family...,"マンモス ゾウ科マンモス属に属する
 大型の哺乳類である","Mammoth Elephant family belong to Mammoth
-It is a large mammal",0.21428571428571427
+It is a large mammal",0.21428571428571427,0.8195452
 It's an elephant with a very long nose and sharp tusks.,"太くて長い鼻と
 鋭い牙を持ったゾウである","Flat and long nose
-It is an elephant with sharp fangs",0.5
+It is an elephant with sharp fangs",0.5,0.83470404
 "In other words, an exceptionally strong and splendid elephant.","つまり 普通よりも
 強くて立派なゾウさんなのである","In other words, more than normal
-It is a strong and good elephant",0.3888888888888889
+It is a strong and good elephant",0.3888888888888889,0.793494
 "By the way, it seems they were also hairy.","ついでに
 毛むくじゃらでもあったようである","At the same time
-It seems that it was hairy",0.25
+It seems that it was hairy",0.25,0.77949166
 Next time on Inukami!,"次回 いぬかみっ！
 「まんもすたいへんっ！」","Next time!
-""Mainting!""",0.375
-"If you watch next time, I'll be very happy too.",来週も見てくれると,If you see next week,0.2
+""Mainting!""",0.375,0.3843111
+"If you watch next time, I'll be very happy too.",来週も見てくれると,If you see next week,0.2,0.36901087

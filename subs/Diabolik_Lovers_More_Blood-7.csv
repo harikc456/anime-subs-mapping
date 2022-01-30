@@ -1,45 +1,45 @@
-en_text,jp_text,google_translated,score
-That NEET from the Sakamakis...,{\blur2}逆巻んちのニート…,Neat of the opposite direction ...,0.2
-Loser?,{\blur2}ニート？,neat?,0.3333333333333333
-Who is he?,{\blur2}あいつ　何もんだ,What is he,0.4
-Don't you think I know that already?,{\blur2}んなことぐれい　知ってるに決まってんだろうが,It will be decided to know that it is good,0.125
-Is there a brain in that head of yours?,{\blur2}お前の脳みそは空っぽか,Your brain miso is empty,0.15384615384615385
-I'm asking you what kind of guy he is.,{\blur2}どういうやつかって聞いてんだよ,What kind of guy is listening,0.4166666666666667
-"He doesn't really speak much, and he \Nlistens to music most of the time... I guess.",{\blur2}音楽を聞いていることが多いかな,Is often listening to music,0.09090909090909091
-"Oh, he slept a lot at home too.",{\blur2}家でも寝てることが多かったよ,I often went to bed at home,0.13333333333333333
-Whatever.,{\blur2}まぁ　いいや,Well good,0.0
-Any sign of the awakening?,{\blur2}覚醒の兆候はあるか,Is there sign of awakening?,0.5
-"Me, too... Nothing...",{\blur2}俺も　何も,Nothing,0.2
-We drink her blood all the time.\NIs it still not enough?,{\blur2}まだ吸い足りないのかなぁ,I wonder if it is not sucked,0.11764705882352941
-I see.,{\blur2}いたぞ　捕まえろ,I caught,0.25
-We can't live like this. Let's run.,{\blur2}このままじゃダメだ　逃げよう,Let's run away with this as it is,0.26666666666666666
-You good-for-nothing aristocrat has-been!,{\blur2}貴様が唆したのか,Did you ever suggest,0.125
-Yuma-kun...,{\blur2}ユーマくん,Yuma-kun,0.5
-Shut up and stop squirming around.,{\blur2}うるせぇ　ジタバタすんな,Urusei Jitabata,0.0
-Hang on if you don't wanna fall.,{\blur2}落ちたくなけりゃ　捕まってろ,"If you don't want to fall, you can get caught",0.3125
-Wh-Where are we going?,{\blur2}ど　どこに行くの,Where are you going,0.2857142857142857
-Shu-san...,{\blur2}シュウさん,Shu,0.0
-Him again?,{\blur2}またこいつか,again,0.3333333333333333
-You again?,{\blur2}またあんたか,again,0.3333333333333333
-"Um... Good morning, Shu-san.",{\blur2}あの　シュウさん　おはようございます,Mr. That Shu is good morning,0.18181818181818182
-A truly immoral woman.,{\blur2}本当　節操のない女,A woman without a real cramp,0.25
-I was here first.,{\blur2}先にいたのは俺だ,It is me that I was ahead of,0.18181818181818182
-This is why I hate aristocrats.,{\blur2}これだから貴族様ってのは,Because this is noble,0.2222222222222222
-"Ah, come to think of it,",{\blur2}お前動かなすぎで脳みそまで腐っちまったんじゃねぇの,"Even if it was too long, it's too rotten to the brain.",0.17647058823529413
-Yuma-kun... Why?,{\blur2}ユーマくん　何で,Yuma-kun,0.25
-Pain in the ass.,{\blur2}痛,pain,0.2
-Why... did you suddenly...,{\blur2}何で　急に,Suddenly,0.2
-Why else? I did it to make a point.,{\blur2}吸血したかって,I wanted to h.,0.23076923076923078
-What are you doing?,{\blur2}何してんだよ,What are you doing,0.8
-This is no place for a nobleman like you.,{\blur2}こんなところでどうした,What happened in this place,0.15384615384615385
-Are you lost?,{\blur2}迷ったのか,Did you get lost,0.3333333333333333
-"You don't look like a bad person, so here.",{\blur2}お前　悪いやつじゃなさそうだし,It seems not to be a bad guy,0.1111111111111111
-It's good. I grew these apples.,{\blur2}これやるよ,I will do this,0.09090909090909091
-Thank you.,{\blur2}ありがとう,Thank you,0.6666666666666666
-I'm Edgar. What's your name?,{\blur2}俺はエドガー　お前は？,I'm Edgar?,0.4444444444444444
-But he was a human. \NHow did he become a vampire?,{\blur2}しかし　なぜ人間であるはずの彼がヴァンパイアに…,But why he should be human is Vampire ...,0.25
-Ruki-kun.,{\blur2}ルキくん,Luki-kun,0.0
-What's wrong?,{\blur2}どうしたの,What happened,0.2
-Can we be Adam?,{\blur2}俺たちでは　アダムには…,We are Adam ...,0.2857142857142857
-No. We will become Adam.,{\blur2}いや　俺たちが　アダムになるんだ,"No, we become Adam",0.5714285714285714
-You're burning up... \NAre you waiting for my fangs?,{\blur2}俺の牙を期待してるのか,Do you expect my fang?,0.21428571428571427
+en_text,jp_text,google_translated,score,semantic_score
+That NEET from the Sakamakis...,{\blur2}逆巻んちのニート…,Neat of the opposite direction ...,0.2,0.19262749
+Loser?,{\blur2}ニート？,neat?,0.3333333333333333,0.23985368
+Who is he?,{\blur2}あいつ　何もんだ,What is he,0.4,0.6189301
+Don't you think I know that already?,{\blur2}んなことぐれい　知ってるに決まってんだろうが,It will be decided to know that it is good,0.125,0.19889669
+Is there a brain in that head of yours?,{\blur2}お前の脳みそは空っぽか,Your brain miso is empty,0.15384615384615385,0.5000746
+I'm asking you what kind of guy he is.,{\blur2}どういうやつかって聞いてんだよ,What kind of guy is listening,0.4166666666666667,0.5513366
+"He doesn't really speak much, and he \Nlistens to music most of the time... I guess.",{\blur2}音楽を聞いていることが多いかな,Is often listening to music,0.09090909090909093,0.40534443
+"Oh, he slept a lot at home too.",{\blur2}家でも寝てることが多かったよ,I often went to bed at home,0.13333333333333333,0.5534464
+Whatever.,{\blur2}まぁ　いいや,Well good,0.0,0.2716198
+Any sign of the awakening?,{\blur2}覚醒の兆候はあるか,Is there sign of awakening?,0.5,0.9037724
+"Me, too... Nothing...",{\blur2}俺も　何も,Nothing,0.2,0.5138434
+We drink her blood all the time.\NIs it still not enough?,{\blur2}まだ吸い足りないのかなぁ,I wonder if it is not sucked,0.1176470588235294,0.10945079
+I see.,{\blur2}いたぞ　捕まえろ,I caught,0.25,0.28602827
+We can't live like this. Let's run.,{\blur2}このままじゃダメだ　逃げよう,Let's run away with this as it is,0.26666666666666666,0.54301083
+You good-for-nothing aristocrat has-been!,{\blur2}貴様が唆したのか,Did you ever suggest,0.125,0.09694874
+Yuma-kun...,{\blur2}ユーマくん,Yuma-kun,0.5,0.95131123
+Shut up and stop squirming around.,{\blur2}うるせぇ　ジタバタすんな,Urusei Jitabata,0.0,0.154136
+Hang on if you don't wanna fall.,{\blur2}落ちたくなけりゃ　捕まってろ,"If you don't want to fall, you can get caught",0.3125,0.59287107
+Wh-Where are we going?,{\blur2}ど　どこに行くの,Where are you going,0.2857142857142857,0.66124547
+Shu-san...,{\blur2}シュウさん,Shu,0.0,0.5607189
+Him again?,{\blur2}またこいつか,again,0.3333333333333333,0.45605427
+You again?,{\blur2}またあんたか,again,0.3333333333333333,0.5827669
+"Um... Good morning, Shu-san.",{\blur2}あの　シュウさん　おはようございます,Mr. That Shu is good morning,0.18181818181818185,0.69778347
+A truly immoral woman.,{\blur2}本当　節操のない女,A woman without a real cramp,0.25,0.3779604
+I was here first.,{\blur2}先にいたのは俺だ,It is me that I was ahead of,0.18181818181818185,0.3444474
+This is why I hate aristocrats.,{\blur2}これだから貴族様ってのは,Because this is noble,0.2222222222222222,0.23743159
+"Ah, come to think of it,",{\blur2}お前動かなすぎで脳みそまで腐っちまったんじゃねぇの,"Even if it was too long, it's too rotten to the brain.",0.17647058823529413,0.19828033
+Yuma-kun... Why?,{\blur2}ユーマくん　何で,Yuma-kun,0.25,0.8198953
+Pain in the ass.,{\blur2}痛,pain,0.2,0.7007808
+Why... did you suddenly...,{\blur2}何で　急に,Suddenly,0.2,0.55938876
+Why else? I did it to make a point.,{\blur2}吸血したかって,I wanted to h.,0.2307692307692308,0.29625514
+What are you doing?,{\blur2}何してんだよ,What are you doing,0.8,0.8434332
+This is no place for a nobleman like you.,{\blur2}こんなところでどうした,What happened in this place,0.15384615384615385,0.16477281
+Are you lost?,{\blur2}迷ったのか,Did you get lost,0.3333333333333333,0.697236
+"You don't look like a bad person, so here.",{\blur2}お前　悪いやつじゃなさそうだし,It seems not to be a bad guy,0.1111111111111111,0.4876209
+It's good. I grew these apples.,{\blur2}これやるよ,I will do this,0.09090909090909093,0.039964363
+Thank you.,{\blur2}ありがとう,Thank you,0.6666666666666666,0.7717478
+I'm Edgar. What's your name?,{\blur2}俺はエドガー　お前は？,I'm Edgar?,0.4444444444444444,0.89106697
+But he was a human. \NHow did he become a vampire?,{\blur2}しかし　なぜ人間であるはずの彼がヴァンパイアに…,But why he should be human is Vampire ...,0.25,0.79171526
+Ruki-kun.,{\blur2}ルキくん,Luki-kun,0.0,0.8228518
+What's wrong?,{\blur2}どうしたの,What happened,0.2,0.2683612
+Can we be Adam?,{\blur2}俺たちでは　アダムには…,We are Adam ...,0.2857142857142857,0.84236014
+No. We will become Adam.,{\blur2}いや　俺たちが　アダムになるんだ,"No, we become Adam",0.5714285714285714,0.9543351
+You're burning up... \NAre you waiting for my fangs?,{\blur2}俺の牙を期待してるのか,Do you expect my fang?,0.21428571428571427,0.43239987

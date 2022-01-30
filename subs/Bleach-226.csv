@@ -1,243 +1,243 @@
-en_text,jp_text,google_translated,score
-So this is your Spiritual Pressure?,これが君の霊圧か…,Is this your repass?,0.5
-How wonderful.,すばらしい　よく成長したものだ,It is a wonderful and grown,0.125
-What?!,ンッ…　なに？,... What?,0.5
-Ichigo Kurosaki...,（藍染）黒崎(くろさき)一護…,Kurosaki  Self ...,0.5
-All of the battles you've fought,君の今までの戦いは全て—,All the battle so far-,0.2
-were a part of my plan.,私の思いどおりに,As my mind,0.1111111111111111
-Hirako... Who are you?!,平子…　何者(なにもん)だ？　お前！,He ... who is ?You!,0.5555555555555556
-What is this?,これ な〜んや？,This is it?,0.6
-A Hollow mask!,（一護）ハッ…　虚(ホロウ)の仮面！,Ha ... mask of hollow!,0.42857142857142855
-and a Hollow mask.,せや　斬魄刀(ざんぱくとう)に ホロウの仮面…,Mask of Hollow to Swords and Swords ...,0.3333333333333333
-Now do you understand?,もう分かるやろ？,Do you know anymore?,0.42857142857142855
-I'm a Visored.,俺らんとこへ来い　一護,I'm going to come to me,0.2222222222222222
+en_text,jp_text,google_translated,score,semantic_score
+So this is your Spiritual Pressure?,これが君の霊圧か…,Is this your repass?,0.5,0.31851146
+How wonderful.,すばらしい　よく成長したものだ,It is a wonderful and grown,0.125,0.31000215
+What?!,ンッ…　なに？,... What?,0.5,0.79304254
+Ichigo Kurosaki...,（藍染）黒崎(くろさき)一護…,Kurosaki  Self ...,0.5,0.8005885
+All of the battles you've fought,君の今までの戦いは全て—,All the battle so far-,0.2,0.71904755
+were a part of my plan.,私の思いどおりに,As my mind,0.1111111111111111,0.26131552
+Hirako... Who are you?!,平子…　何者(なにもん)だ？　お前！,He ... who is ?You!,0.5555555555555556,0.47568312
+What is this?,これ な〜んや？,This is it?,0.6,0.38692042
+A Hollow mask!,（一護）ハッ…　虚(ホロウ)の仮面！,Ha ... mask of hollow!,0.42857142857142855,0.83545166
+and a Hollow mask.,せや　斬魄刀(ざんぱくとう)に ホロウの仮面…,Mask of Hollow to Swords and Swords ...,0.3333333333333333,0.65931773
+Now do you understand?,もう分かるやろ？,Do you know anymore?,0.42857142857142855,0.5036121
+I'm a Visored.,俺らんとこへ来い　一護,I'm going to come to me,0.2222222222222222,0.19279496
 You shouldn't be on that side.,"お前は
 そっち側におるべき人間やない","You are
-There is no person who should be on the side",0.3333333333333333
+There is no person who should be on the side",0.3333333333333333,0.68458855
 It appears that the Visored have made\Ncontact with Ichigo Kurosaki.,"平子真子(しんじ)たちが 黒崎一護に
 接触したようでございます","Hirako Mako  is Kurosaki
-It seems like contact",0.11764705882352941
-I see.,そうか,Really,0.0
-What will you do?,どうなされますか？,What is it?,0.2857142857142857
+It seems like contact",0.1176470588235294,0.5382044
+I see.,そうか,Really,0.0,0.33811826
+What will you do?,どうなされますか？,What is it?,0.2857142857142857,0.19602811
 Let's see... Call Ulquiorra.,"（藍染）そうだね…
 ウルキオラを呼んでくれ","That's right ...
-Call Urkiola",0.3
-Let's have him go to the\NWorld of the Living.,彼に 現世に行ってもらおうか,Let him go to the world,0.4166666666666667
-Captain Hirako...,（東仙）はっ…,...,0.3333333333333333
-Bankai!,卍解(ばんかい)！,Subscript !,0.3333333333333333
-Tensa Zangetsu.,天鎖斬月(てんさざんげつ),Tenko Satsuka,0.0
+Call Urkiola",0.3,0.3623476
+Let's have him go to the\NWorld of the Living.,彼に 現世に行ってもらおうか,Let him go to the world,0.4166666666666667,0.6523022
+Captain Hirako...,（東仙）はっ…,...,0.3333333333333333,0.21085167
+Bankai!,卍解(ばんかい)！,Subscript !,0.3333333333333333,0.18622836
+Tensa Zangetsu.,天鎖斬月(てんさざんげつ),Tenko Satsuka,0.0,0.44124898
 Orange hair and a black Bankai.,"（ウルキオラ）
-オレンジの髪に 黒い卍解(ばんかい)",Black solution for orange hair,0.3333333333333333
+オレンジの髪に 黒い卍解(ばんかい)",Black solution for orange hair,0.3333333333333333,0.59963924
 "No doubt about it. He's\Nour target, Yammy.","（ウルキオラ）間違いない
 そいつが標的だ　ヤミー","There is no doubt
-Yummy that is targeted",0.14285714285714285
-Suerte!,スエルテ！,Surete!,0.3333333333333333
+Yummy that is targeted",0.14285714285714285,0.5717702
+Suerte!,スエルテ！,Surete!,0.3333333333333333,0.29251304
 You need to resort to your\NZanpakuto for a foe like him?,"こんなヤツ相手に
 斬魄刀まで使うのか？","To such a guy
-Do you use it to a sword?",0.23529411764705882
-"I said, shut up!",（ヤミー）うるせえっつってんだ！,I'm sorry!,0.25
-Zanpakuto?!,斬魄刀？,Swords?,0.25
+Do you use it to a sword?",0.2352941176470588,0.34721935
+"I said, shut up!",（ヤミー）うるせえっつってんだ！,I'm sorry!,0.25,0.38538802
+Zanpakuto?!,斬魄刀？,Swords?,0.25,0.2577934
 So that sword at his waist\Nis a Zanpakuto!,"腰に差してたあれは
 斬魄刀だったのかよ","That's why
-Was it a sword sword?",0.21428571428571427
+Was it a sword sword?",0.21428571428571427,0.6357917
 The cracked Hollow mask...\NThe hole in his chest...,"割れたホロウの仮面
 胸の穴 斬魄刀…","Broken hollow mask
-Chest hole Sword ...",0.4166666666666667
+Chest hole Sword ...",0.4166666666666667,0.7317674
 "As I was heading over here,","ここに来る前から
 妙な霊圧だとは思ってたが…","From before coming here
-I thought it was a strange repire ...",0.1875
-Who are these two?!,何なんだ？　こいつら,what's that?  These guys,0.2
-Like Hirako and me?,平子や俺と…,He and me ...,0.2857142857142857
-Damn it! I can't\Nmove my body!,くそ！　体が動かねえ！,Fuck!The body can move!,0.18181818181818182
+I thought it was a strange repire ...",0.1875,0.29430744
+Who are these two?!,何なんだ？　こいつら,what's that?  These guys,0.2,0.34722334
+Like Hirako and me?,平子や俺と…,He and me ...,0.2857142857142857,0.32957536
+Damn it! I can't\Nmove my body!,くそ！　体が動かねえ！,Fuck!The body can move!,0.18181818181818185,0.43582678
 I deny you... So now\Nyou'll get in my way?,"俺が てめえを拒否したら 今度は
 俺のジャマをするってわけかよ…","If I refuse me, this time
-I wonder if my jama is ...",0.14285714285714285
+I wonder if my jama is ...",0.14285714285714285,0.3650761
 Damn it!,"（ヤミー）ターッ！
 （一護）アッ！","Tar!
-!",0.25
-Break apart and disappear!,つぶれて消えろ！,Crush and disappear!,0.5
+!",0.25,0.29399544
+Break apart and disappear!,つぶれて消えろ！,Crush and disappear!,0.5,0.66314864
 "I'm sorry I'm late, Kurosaki!","遅くなっちゃって すいません
 黒崎さん","I'm sorry I'm late
-Mr. Kurosaki",0.625
+Mr. Kurosaki",0.625,0.92429495
 Our mission is done for now.,"（ウルキオラ）
-さしあたっての任務は終えた",The mission was finished,0.1
-I shall inform Lord Aizen,（平子）よう ここが分かったなぁ,I understood here,0.14285714285714285
+さしあたっての任務は終えた",The mission was finished,0.1,0.64786774
+I shall inform Lord Aizen,（平子）よう ここが分かったなぁ,I understood here,0.14285714285714285,0.25280583
 was trash that wasn't\Neven worth killing.,"“あなたが目をつけた死神もどきは
 殺すに足りぬゴミでした”","""The death rims that you look at
-It was a bad trash to kill",0.15789473684210525
-Ichigo.,一護,Ichigo,0.5
-Impossible...,（一護）ンッ…,...,0.5
-He finally mastered\NHollowfication?,ついに ホロウ化をマスターしたか,Did you finally master hollowing?,0.25
+It was a bad trash to kill",0.15789473684210525,0.46733123
+Ichigo.,一護,Ichigo,0.5,0.98039913
+Impossible...,（一護）ンッ…,...,0.5,0.3622681
+He finally mastered\NHollowfication?,ついに ホロウ化をマスターしたか,Did you finally master hollowing?,0.25,0.29733962
 So this is it.,"（藍染）ここまでか…
 （東仙）は？","So far ...
-What is Tongsen?",0.2
-Let's leave the rest to Ulquiorra.,あとはウルキオラに任せよう,Let's leave it to Urkiola,0.4
-I...,俺が…　俺が…,I ... I ...,1.0
-I will...protect you!,俺が守る！,I will protect!,0.6666666666666666
-With his bare hands?!,素手で…,With bare hands ...,0.42857142857142855
-All of the battles...I've fought...,てめえの手の上…,Tame of the hand ...,0.3
-What...,何だよ それ…,What is it ...,0.5
-I'm asking you what\Nyou mean by that!,どういうことだって聞いてんだよ！,I heard that it means!,0.25
+What is Tongsen?",0.2,0.11267473
+Let's leave the rest to Ulquiorra.,あとはウルキオラに任せよう,Let's leave it to Urkiola,0.4,0.41116017
+I...,俺が…　俺が…,I ... I ...,1.0,0.82900536
+I will...protect you!,俺が守る！,I will protect!,0.6666666666666666,0.8514201
+With his bare hands?!,素手で…,With bare hands ...,0.42857142857142855,0.8395159
+All of the battles...I've fought...,てめえの手の上…,Tame of the hand ...,0.3,0.23172678
+What...,何だよ それ…,What is it ...,0.5,0.54264927
+I'm asking you what\Nyou mean by that!,どういうことだって聞いてんだよ！,I heard that it means!,0.25,0.37869903
 Your voice...,"（藍染）声を…
 （一護）ハッ…","voice ...
- ...",0.6666666666666666
+ ...",0.6666666666666666,0.8052892
 "Don't raise your voice,\NIchigo Kurosaki.","（藍染）
-そう声を荒らげるな　黒崎一護",Do not void the voice Kurosaki,0.25
-I simply...,私は ただ…,I'm just ...,0.4
+そう声を荒らげるな　黒崎一護",Do not void the voice Kurosaki,0.25,0.7588679
+I simply...,私は ただ…,I'm just ...,0.4,0.67205435
 so I assisted your development.,"そう確信して
 君の成長を手助けしてきた","Convinced
-I have helped your growth",0.2
-That's all I'm saying.,そう言っているだけだ,I'm just saying that,0.5
+I have helped your growth",0.2,0.5688803
+That's all I'm saying.,そう言っているだけだ,I'm just saying that,0.5,0.62651086
 You never thought\Nit was strange?,"（藍染）
-おかしいと思わなかったのか？",Didn't you think it's funny?,0.16666666666666666
+おかしいと思わなかったのか？",Didn't you think it's funny?,0.16666666666666666,0.3734011
 "Rukia Kuchiki, but shortly after doing so,\Nyou were attacked by one.","朽木(くちき)ルキアと出会って
 すぐに ホロウに襲われたことを","Meet the Kushiki Rukia
-Soon she was attacked by Hollow",0.14285714285714285
+Soon she was attacked by Hollow",0.14285714285714285,0.71391606
 "When you began to get used\Nto fighting as a Soul Reaper,","君が 死神としての戦いに
 慣れ始めたころに—","You are fighting as a grim reaper
-When I started to get used to",0.47058823529411764
+When I started to get used to",0.4705882352941176,0.69967884
 detected and reported\Nto Soul Society.,"都合よく発見され
 尸魂界(ソウル･ソサエティ)へ報告されたことを","It is discovered conveniently
-What has been reported to the Soul Society",0.125
+What has been reported to the Soul Society",0.125,0.70714927
 when your power was\Ncomparable to theirs.,"それぞれ皆
 君の力が 彼らの力と—","Everyone
-Your power is with their power-",0.16666666666666666
+Your power is with their power-",0.16666666666666666,0.54776686
 Did you think that\Nyou met by fate?,"（藍染）
-出会いは運命だと思ったか？",Did you think that the encounter was fate?,0.4166666666666667
-Hold on...,朽木白哉(びゃくや)が…,Kidagi Shira  ...,0.2
-Did you think that attack\Nhappened by chance?,襲撃は偶然だと思ったか？,Did you think that the raid was coincidental?,0.4166666666666667
+出会いは運命だと思ったか？",Did you think that the encounter was fate?,0.4166666666666667,0.811608
+Hold on...,朽木白哉(びゃくや)が…,Kidagi Shira  ...,0.2,0.15381387
+Did you think that attack\Nhappened by chance?,襲撃は偶然だと思ったか？,Did you think that the raid was coincidental?,0.4166666666666667,0.5059345
 Wait...,"（一護）ハッ…
 （藍染）落胆させないでくれ","...
- Do not discore",0.2
+ Do not discore",0.2,0.19406706
 Did you think your victories were\Nthe result of your hard work?,"（藍染）戦いの勝利は
 君の努力の結果だと思ったか？","battle victory
-Did you think it was the result of your effort?",0.4117647058823529
+Did you think it was the result of your effort?",0.4117647058823529,0.8046776
 Your power should be much\Ngreater than this.,"（藍染）こんなものじゃないはずだ
 今の君の力は","It should not be such a thing
-Your power now is",0.26666666666666666
-But it's the truth.,だが 事実だ,But it is a fact,0.2222222222222222
+Your power now is",0.26666666666666666,0.66867286
+But it's the truth.,だが 事実だ,But it is a fact,0.2222222222222222,0.6280108
 You planned all of it?!,"今までの戦いが
 全部 てめえのせいだと？","The battle until now
-Is it because of all?",0.3076923076923077
-Who'd believe that?!,そんなもん 誰が信じるかよ！,Who believe that?,0.6666666666666666
+Is it because of all?",0.3076923076923077,0.16417134
+Who'd believe that?!,そんなもん 誰が信じるかよ！,Who believe that?,0.6666666666666666,0.6270254
 You said before that you\Ndiscovered Rukia after,"（一護）
-てめえ 前に言ったじゃねえか",You said before ago,0.375
+てめえ 前に言ったじゃねえか",You said before ago,0.375,0.33525684
 You just called me a liar and said\Nthat you would never believe me.,"今 君は自分で言っただろう
 “ウソだ　そんなものは信じない”","Now you would say by yourself
-""Uso he does not believe such things""",0.13043478260869565
+""Uso he does not believe such things""",0.13043478260869565,0.485778
 You claim that I'm\Nlying right now...,"君は 今の私の言葉は
 ウソだと言うのに—","You are now my words
-I say that it is a lie-",0.1875
+I say that it is a lie-",0.1875,0.45656002
 So why do you think I was\Ntelling the truth back then?,"ルキアに会ったときから
 俺のことを知ってただと？","From when I met Rukia
-Do you know me?",0.2222222222222222
+Do you know me?",0.2222222222222222,0.13680743
 This world was never\Nabout truth or lies.,"この世界には
 最初から 真実もウソもない","In this world
-From the beginning there is no truth or lie",0.25
-There are only hard facts.,あるのは ただ厳然たる事実のみ,There is only a stranger,0.2222222222222222
+From the beginning there is no truth or lie",0.25,0.6630826
+There are only hard facts.,あるのは ただ厳然たる事実のみ,There is only a stranger,0.2222222222222222,0.20081727
 "Despite that,","…にもかかわらず この世界に
 存在する全てのものは—","... Despite this world
-All things that exist-",0.2222222222222222
+All things that exist-",0.2222222222222222,0.36596963
 only facts that are favorable\Nto them are truths.,"自らに都合のいい事実だけを
 真実と誤認して生きる","Only the facts that are good for their own
-Live with the truth",0.25
+Live with the truth",0.25,0.67721355
 "But for the powerless who make\Nup most of the world,","だが 世界の大半を占める
 力なきものにとって—","But the majority of the world
-For things without power-",0.35714285714285715
+For things without power-",0.35714285714285715,0.6649253
 Do you know all of the facts?,"君は
 事実の全てを知っているのか？","You are
-Do you know all of the facts?",0.8888888888888888
+Do you know all of the facts?",0.8888888888888888,0.898356
 Who stationed Rukia Kuchiki\Nin the World of the Living?,"（藍染）朽木ルキアを
 現世駐在の任に就かせたのは誰か","Rukia
-Someone who got the current resident",0.23076923076923078
-the ability to detect\NSpiritual Pressure?,副隊長たちへの報告に—,Report to the Deputy Secretary-,0.2222222222222222
+Someone who got the current resident",0.2307692307692308,0.62421286
+the ability to detect\NSpiritual Pressure?,副隊長たちへの報告に—,Report to the Deputy Secretary-,0.2222222222222222,0.065531775
 Who added information,"君たちの進行方向に関する情報を
 加えたのは誰か","Information on your travel direction
-Someone who added",0.375
+Someone who added",0.375,0.43520778
 Was I really unable to figure\Nout where the Hogyoku,"私は本当に
 崩玉(ほうぎょく)完成から100年以上もの間—","I am really
-Between 100 years from the completion of the broken ball-",0.16666666666666666
+Between 100 years from the completion of the broken ball-",0.16666666666666666,0.100449465
 was for over a hundred years?,"“俺が あんたの探究の
 最高の素材になると確信した”って","""I'm searching for a while
-I was convinced that it became the best material",0.15789473684210525
-There's one thing\NI want to ask you.,ひとつ聞きてえ…,Listen to one ...,0.18181818181818182
+I was convinced that it became the best material",0.15789473684210525,0.2334693
+There's one thing\NI want to ask you.,ひとつ聞きてえ…,Listen to one ...,0.18181818181818185,0.17704678
 Why?,"なんでだ？
 何を根拠に そう確信した？","Why?
-What was the basis of what he was convinced?",0.2222222222222222
+What was the basis of what he was convinced?",0.2222222222222222,0.20965853
 If you saw me when\NI met Rukia...,"ルキアに会ったときから
 俺を見てたってんなら…","From when I met Rukia
-If you look at me ...",0.46153846153846156
+If you look at me ...",0.4615384615384616,0.88348544
 When did you believe that?!,"言ってみろ
 一体 いつ そう確信したんだ？","Let me say
-How did you believe it?",0.3333333333333333
-Since the beginning.,（藍染）最初からだ,From the beginning,0.4
-Quit talking nonsense.,（一護）適当なこと言ってんじゃ…,Talking appropriate things ...,0.14285714285714285
+How did you believe it?",0.3333333333333333,0.48500744
+Since the beginning.,（藍染）最初からだ,From the beginning,0.4,0.6526865
+Quit talking nonsense.,（一護）適当なこと言ってんじゃ…,Talking appropriate things ...,0.14285714285714285,0.42767328
 I'm telling you it was\Nfrom the beginning.,"分からないか？
 最初からだと言っているんだ","Do you know?
-I say it's from the beginning",0.3333333333333333
+I say it's from the beginning",0.3333333333333333,0.55945545
 You were special from the\Nmoment you were born.,"私は
 君が生まれたときから","I
-From when you were born",0.4444444444444444
-You talk too much...,（一心(いっしん)）しゃべりすぎだぜ,I'm talking too much,0.25
-Aizen.,藍染,Indigo,0.0
-Human and what?,“人間と” 何だ？,"""What is human and""?",0.5714285714285714
+From when you were born",0.4444444444444444,0.64153904
+You talk too much...,（一心(いっしん)）しゃべりすぎだぜ,I'm talking too much,0.25,0.5953379
+Aizen.,藍染,Indigo,0.0,0.22374539
+Human and what?,“人間と” 何だ？,"""What is human and""?",0.5714285714285714,0.7750206
 I thought I lost my\Nchance to hear it.,"最後の言葉は 爆音で消えた
 聞き逃したと思った","The last word disappeared with a bombing
-I thought I missed it",0.1875
+I thought I missed it",0.1875,0.4311744
 But I was mistaken.\NI never needed to hear it.,"だけど それは間違いで
 聞く必要は 最初から なくて—","But that is a mistake
-You need to hear it first-",0.23529411764705882
-The answer soon appeared\Nbefore my eyes.,すぐに答えは 目の前に現れた,The answer immediately appeared before the eyes,0.3
-D-Dad?,…か？,…mosquito?,0.3333333333333333
-"Hey, say something.",おい　何とか言えよ,I can say something,0.2857142857142857
-Dad...,ガッ…,Ga ...,0.3333333333333333
+You need to hear it first-",0.2352941176470588,0.6510078
+The answer soon appeared\Nbefore my eyes.,すぐに答えは 目の前に現れた,The answer immediately appeared before the eyes,0.3,0.7785599
+D-Dad?,…か？,…mosquito?,0.3333333333333333,0.22575235
+"Hey, say something.",おい　何とか言えよ,I can say something,0.2857142857142857,0.58902097
+Dad...,ガッ…,Ga ...,0.3333333333333333,0.3089682
 Ow!,"（一心）ンンッ！
 （一護）痛い！","!
- hurts!",0.3333333333333333
+ hurts!",0.3333333333333333,0.48813424
 You bastard!,"（蹴る音）
-ウグッ！　てめえ この野郎〜！",Ugu!Temple This bastard ~!,0.2857142857142857
-A wise decision.,距離を取ったか　賢明な機転だ,It is a wise and wise motion,0.25
+ウグッ！　てめえ この野郎〜！",Ugu!Temple This bastard ~!,0.2857142857142857,0.3201109
+A wise decision.,距離を取ったか　賢明な機転だ,It is a wise and wise motion,0.25,0.42632973
 I know what you want to ask!,"うるせえ！
 聞きてえことは分かってる","shut up!
-I know what to hear",0.45454545454545453
+I know what to hear",0.4545454545454545,0.38470864
 I know I have to be quiet!,"静かにしなきゃ
 いけねえことぐらい分かるわ！","I have to be quiet
-I understand that I can see!",0.5454545454545454
-I'll talk about it later.,（一心）あとで話す,Talk later later,0.2857142857142857
+I understand that I can see!",0.5454545454545454,0.7789503
+I'll talk about it later.,（一心）あとで話す,Talk later later,0.2857142857142857,0.51473737
 "There are probably tons of things\Nyou want to ask me, but all of it-","聞きてえことは山ほどあるだろうが
 全部まとめて…","There will be lots of things to hear
-All together ...",0.19047619047619047
+All together ...",0.19047619047619047,0.28244597
 There isn't anything\NI want to ask you.,"今まで話さなかったなら
 理由があんだろう","If you did not talk until now
-There is a reason",0.17647058823529413
-That's your problem.,そいつは あんたの問題だ,That is the problem of,0.25
-I don't know how to\Nask you about that.,俺は それを聞く方法を知らねえ,I know how to listen to it,0.23076923076923078
-So I'll wait.,だから 待つよ,So wait,0.4
-"Until then, you don't\Nneed to tell me.",いつか あんたが話したくなるまで,Someday until you want to talk,0.25
+There is a reason",0.17647058823529413,0.17534417
+That's your problem.,そいつは あんたの問題だ,That is the problem of,0.25,0.5963459
+I don't know how to\Nask you about that.,俺は それを聞く方法を知らねえ,I know how to listen to it,0.2307692307692308,0.33585247
+So I'll wait.,だから 待つよ,So wait,0.4,0.60165906
+"Until then, you don't\Nneed to tell me.",いつか あんたが話したくなるまで,Someday until you want to talk,0.25,0.4870363
 It seems you've learned\Nsome tact.,"いっぱしの口利くように
 なったじゃねえか","Lookily speaking
-You're not",0.09090909090909091
+You're not",0.09090909090909093,0.19613102
 I picked it up from someone else.,"随分 楽になったのを
 思い出しただけだ","It has been quite easy
-I just remembered",0.14285714285714285
-I feel like...,帰ってきた気分だ,I feel like I'm back,0.5
-Does it really matter?,そこ 別に どっちでもよくねえか？,"Anyway, right away?",0.1111111111111111
-You ruined a good mood.,いい雰囲気が台なしじゃねえか,Good atmosphere is not a stand,0.2
+I just remembered",0.14285714285714285,0.16987452
+I feel like...,帰ってきた気分だ,I feel like I'm back,0.5,0.48610267
+Does it really matter?,そこ 別に どっちでもよくねえか？,"Anyway, right away?",0.1111111111111111,0.15789549
+You ruined a good mood.,いい雰囲気が台なしじゃねえか,Good atmosphere is not a stand,0.2,0.21401203
 He placed a pretty\Npowerful barrier.,"霊圧を消したか
 相当 強力な結界を張ったらしいな","Did you erase the repasses
-It seems that he has put a considerable powerful bond",0.10526315789473684
-"You've been watching\Nfor quite a long time,",随分 長い見物だったね,It was a long point of view,0.14285714285714285
+It seems that he has put a considerable powerful bond",0.10526315789473684,0.32838953
+"You've been watching\Nfor quite a long time,",随分 長い見物だったね,It was a long point of view,0.14285714285714285,0.3628177
 I just couldn't find an opportunity\Nor a need to help you.,"手助けに入る隙も必要も
 見つからへんかったんです","Needs also a gap to help
-I found it",0.2222222222222222
-"This time, I won't\Nbe holding back.",今度は手加減なしや,This time no need,0.2
+I found it",0.2222222222222222,0.17914309
+"This time, I won't\Nbe holding back.",今度は手加減なしや,This time no need,0.2,0.39420223
 "What, really?\NCome on, are you sure?","（一心）お父さんに かつて
 何があったか知らなくていいの？","On my father
-Don't you know what happened?",0.26666666666666666
+Don't you know what happened?",0.26666666666666666,0.17374316
 You wanted me to ask?,"（一心）なあ 一護
-本当に聞かなくていいのか？",Do you really have to ask?,0.4444444444444444
+本当に聞かなくていいのか？",Do you really have to ask?,0.4444444444444444,0.47583562
 "Kurosaki, if you have time to be lazing\Nabout, then help me with my work.","（竜弦(りゅうけん)）黒崎　そこで
 ダラダラしている暇があるなら—","Kurosaki there
-If you have free time-",0.21052631578947367
-Are you listening?!,おい　貴様 聞いているのか？,Have you heard?,0.2857142857142857
-From Isshin.,クッ…,Ku ...,0.0
+If you have free time-",0.21052631578947367,0.7383491
+Are you listening?!,おい　貴様 聞いているのか？,Have you heard?,0.2857142857142857,0.36570498
+From Isshin.,クッ…,Ku ...,0.0,0.23511927

@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,55 +9,55 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825203
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490633
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818449
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120195
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.5344769
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.76468647
 Whoa! Mach 5!,"うお～！
  
 マッハ５！
 
 ","Uo!
  
-Mach 5!",0.6
+Mach 5!",0.6,0.9069007
 Oh!,"ん！
 
-",Hmm!,0.3333333333333333
+",Hmm!,0.3333333333333333,0.64620924
 <i>These two...</i>,"《あ～
  
 まただわ
@@ -68,18 +68,18 @@ Oh!,"ん！
  
 I'm sorry
  
-These two people",0.23076923076923078
+These two people",0.2307692307692308,0.4178573
 "<i>They've been sort of strange since</i>
 <i>we got back from the Land of Waves...</i>","波の国から帰ってきて以来➡
 
-",Since coming back from the country of waves,0.2857142857142857
+",Since coming back from the country of waves,0.2857142857142857,0.6301857
 "<i>Oh, it's almost uncomfortable...</i>","ちょっと変なのよねぇ
 ｡
 ➡
 
 ","It's a bit strange
 .
-➡",0.125
+➡",0.125,0.32124883
 "Well...
 Good morning, everyone...","(ｶｶｼ)
 やぁ
@@ -96,16 +96,16 @@ All
  
 good morning
 .
-➡",0.2
+➡",0.2,0.67220473
 Today I got lost.,"きょうは道に迷ってな
 ｡
 
 ","Today is lost
-.",0.5
+.",0.5,0.8092751
 Hey!,"(ｻｸﾗ･ﾅﾙﾄ)
 おい！
 
-",Oi!,0.3333333333333333
+",Oi!,0.3333333333333333,0.4666931
 "Hey, hey...
 Kakashi Sensei!","あのさ
  
@@ -117,7 +117,7 @@ Kakashi Sensei!","あのさ
  
 That
  
-Kakashi teacher!",0.25
+Kakashi teacher!",0.25,0.55200076
 "Aren't there more exciting
 missions where I can be more active,","俺がもっと活躍できる
 何か
@@ -127,7 +127,7 @@ missions where I can be more active,","俺がもっと活躍できる
 ","I can be more active
 something
  
-➡",0.35714285714285715
+➡",0.35714285714285715,0.5395007
 Oh yes yes...,"(ｶｶｼ)
 あぁ
  
@@ -143,16 +143,16 @@ Yes
  
 Yes
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.5770161
 "I basically understand what
 you're trying to say.","言いたいことは大体分かったから
 ｡
 
 ","I knew what I wanted to say
-.",0.4166666666666667
+.",0.4166666666666667,0.29538855
 "<i>I won't lose, no way!</i>","負けねえぞ》
 
-",I can not lose,0.15384615384615385
+",I can not lose,0.15384615384615385,0.7034407
 "Hey! What're you doing, Naruto?
 We're going on our mission!","(ｶｶｼ)
 おい
@@ -173,10 +173,10 @@ What are you doing?
 mission
  
 let's go
-.",0.35
+.",0.35,0.88237244
 Okay!,"オ～ッス！
 
-",Oh-Susu!,0.3333333333333333
+",Oh-Susu!,0.3333333333333333,0.27560788
 You've been so annoying for a while!,"あんた
 さっきから
  
@@ -185,12 +185,12 @@ You've been so annoying for a while!,"あんた
 ","Aunt
 After a while ago
  
-Urusei!",0.23076923076923078
+Urusei!",0.2307692307692308,0.2588449
 I'm not gonna lose to Sasuke!,"サスケには負けねえってばよ
 ｡
 
 ","You can not lose to Sasuke
-.",0.3333333333333333
+.",0.3333333333333333,0.844215
 I've gotten rid of all the weeds!,"あぁ
  
 おばちゃん
@@ -205,14 +205,14 @@ Aunt
 weed
  
 I'm finished all
-.",0.13333333333333333
+.",0.13333333333333333,0.52548134
 What's wrong?,"あ？
  
 どうしたの？
 
 ","Ah? 
  
- What's wrong?",0.8
+ What's wrong?",0.8,0.6670816
 Those... those aren't weeds.,"(
 女性
 )
@@ -224,20 +224,20 @@ Those... those aren't weeds.,"(
 ","that is
  
 It is not weed
-.",0.09090909090909091
+.",0.09090909090909093,0.6500484
 Huh?,"ん？
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.779013
 "Ouch, ouch, ouch!","ハーブよ！
 
-",Herb!,0.25
+",Herb!,0.25,0.19647464
 No way! Free fall!,"ががっ！
  
 フリーホール‼
 
 ","!
  
-Free Hall!",0.3333333333333333
+Free Hall!",0.3333333333333333,0.45026863
 You idiot.,"お…
  
 おい
@@ -250,7 +250,7 @@ You idiot.,"お…
 Oi
  
 If you go there
-.",0.25
+.",0.25,0.058654666
 That fool...,"あのばか
 ｡
 は～あ…
@@ -259,7 +259,7 @@ That fool...,"あのばか
 ","Thatborough
 .
 Hmm ...
-.",0.16666666666666666
+.",0.16666666666666666,0.24991082
 "Oh no! That's because he
 stubbornly chose that big dog.","無理して
  
@@ -269,7 +269,7 @@ stubbornly chose that big dog.","無理して
 ","Overdoing
  
 Because I have such a dog
-.",0.17647058823529413
+.",0.17647058823529413,0.35182196
 "Hey, hey! Wait a minute,
 wait a minute!","あ…
  
@@ -281,12 +281,12 @@ wait a minute!","あ…
  
 Wait Wait
 Wait
-.",0.125
+.",0.125,0.39798588
 Well! It's because you're so reckless!,"そっちはトラップ原だから～
 ｡
 
 ","Because it is a trap original
-.",0.14285714285714285
+.",0.14285714285714285,0.25525588
 "Geez, you are so much trouble.","フン
  
 ったく
@@ -297,16 +297,16 @@ Well! It's because you're so reckless!,"そっちはトラップ原だから～
  
 Geez
 It is a guy who takes care of care
-.",0.11764705882352941
+.",0.1176470588235294,0.14951825
 Zazuge!,"ザズゲ～！
 
-",Zazuge ~!,0.6666666666666666
+",Zazuge ~!,0.6666666666666666,0.9493052
 "Mmm...
 Teamwork hasn't been good lately.","最近チームワークが乱れてるな
 ｡
 
 ","The teamwork has recently been disturbed
-.",0.3333333333333333
+.",0.3333333333333333,0.58508253
 "Sasuke, you're to blame for
 the poor teamwork!","チームワーク乱してんのは
 てめぇだぞ
@@ -316,10 +316,10 @@ the poor teamwork!","チームワーク乱してんのは
 ","Teamwork disturbance
 I'm sorry
  
-Sasuke!",0.2
+Sasuke!",0.2,0.83669317
 You're always attracting attention!,"いっつも出しゃばりやがって！
 
-",I'm always going to go out!,0.16666666666666666
+",I'm always going to go out!,0.16666666666666666,0.46541625
 "That's you, you idiot.","そりゃ
  
 お前だ
@@ -332,7 +332,7 @@ You're always attracting attention!,"いっつも出しゃばりやがって！
 You are
  
 Passuratonka
-.",0.2222222222222222
+.",0.2222222222222222,0.18923157
 "If you don't want to owe me
 big time...","これ以上
  
@@ -342,7 +342,7 @@ big time...","これ以上
 ","more than this
  
 If
-Do you want to stick?",0.3125
+Do you want to stick?",0.3125,0.17678198
 "I do need to submit a report
 about this mission.","この任務の
 報告書を提出せにゃならんし
@@ -350,7 +350,7 @@ about this mission.","この任務の
 
 ","This task
 If you submit a report
-.",0.35714285714285715
+.",0.35714285714285715,0.514248
 "Okay, then I'm going home.","外には俺より強いヤツが
 ゴロゴロいやがるってのに
 ｡
@@ -359,14 +359,14 @@ If you submit a report
 ","Outside there is a stronger guy than me
 I'm going to go
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.23311454
 Oh! Hey!,"あっ
  
 ねぇ➡
 
 ","Ah
  
-Hey ➡ ➡",0.2
+Hey ➡ ➡",0.2,0.6244319
 "Sasuke, wait for me!","サスケ君
  
 待って～
@@ -383,7 +383,7 @@ Wait ~
 Ah…
  
 Ahh
-.",0.2
+.",0.2,0.8887233
 "Hey, how about...
 Why don't you and...","ねぇ
  
@@ -395,21 +395,21 @@ Why don't you and...","ねぇ
  
 you know what
  
-From now on",0.13333333333333333
+From now on",0.13333333333333333,0.3933334
 You're just like Naruto.,"お前もナルトと同じだな
 ｡
 
 ","You are the same as Naruto
-.",0.3
+.",0.3,0.8688326
 "If you have time to spend on me,
 why don't you practice a Jutsu!","俺に構う暇があったら➡
 
-",If you have time to have me,0.375
+",If you have time to have me,0.375,0.36797965
 "LESS THAN NARUTO... CHA!!
 <i>Less than Naruto! Less than Naruto!</i>
 <i>Less than Naruto! Less than Naruto!</i>","＜ナルト以下だぞ＞
 
-",<Naruto less>,0.4
+",<Naruto less>,0.4,0.80204326
 "Sakura! Just let Sasuke be,
 and let's practice together!","サ～クラちゃ～ん！
 サスケなんか
@@ -419,24 +419,24 @@ and let's practice together!","サ～クラちゃ～ん！
 ","Sa-Khan!
 Sasuke
  
-How to be",0.21428571428571427
+How to be",0.21428571428571427,0.5380323
 <i>Pretending to be...a rock?</i>,"《岩の…つもりか？》
 
-","""Rock ... is it going?""",0.1875
+","""Rock ... is it going?""",0.1875,0.48439258
 "There's no such thing as a perfectly
 square rock with perfect holes!","そんな真四角で適度な穴が
 ２つ開いてる岩があるか！
 
 ","Such a square and moderate holes
-Do you have two open rocks!",0.22727272727272727
+Do you have two open rocks!",0.2272727272727273,0.77567804
 It's totally obvious!,"バレバレだっつうの！
 
-",It's Barbare!,0.5
+",It's Barbare!,0.5,0.24664186
 "You are my rival, aren't you!","俺のライバルだなコレ
 ｡
 
 ","My rival is my rival
-.",0.2222222222222222
+.",0.2222222222222222,0.8444116
 With an adult sexiness!,"大人のお色気
 くノ一
  
@@ -449,14 +449,14 @@ Niece
  
 Senior
  
-Moegu!",0.2222222222222222
+Moegu!",0.2222222222222222,0.2524268
 Udon!,"因数分解大好き
  
 ウドン！
 
 ","Cause of factor
  
-Udon!",0.4
+Udon!",0.4,0.64407796
 "The most brilliant Ninja in the village!
 Konohamaru!","里一番の天才忍者
  
@@ -464,7 +464,7 @@ Konohamaru!","里一番の天才忍者
 
 ","Village Ichi's Genius Ninja
  
-Kuno Leaf round!",0.21428571428571427
+Kuno Leaf round!",0.21428571428571427,0.6609339
 Oh...,"ヘヘヘヘ…
  
 昔の兄ちゃんの
@@ -475,7 +475,7 @@ Oh...,"ヘヘヘヘ…
  
 Older brother
 I'm sorry I'm sorry
-.",0.1111111111111111
+.",0.1111111111111111,0.20921475
 See? Cold.,"ん？
  
 何だ？
@@ -488,10 +488,10 @@ See? Cold.,"ん？
 What?
  
 You guys
-.",0.25
+.",0.25,0.1542595
 Nah!,"ううん！
 
-",No!,0.3333333333333333
+",No!,0.3333333333333333,0.7170662
 Oh...? Is that right?,"あ？
  
 あぁ
@@ -502,7 +502,7 @@ Oh...? Is that right?,"あ？
  
 Ahh
  
-Is that so?",0.3333333333333333
+Is that so?",0.3333333333333333,0.55122364
 "<i>If I played with these guys</i>
 <i>they would make me hang out all day.</i>","《ったく
  
@@ -510,14 +510,14 @@ Is that so?",0.3333333333333333
 
 ","""Geez
  
-If you play with these guys",0.19047619047619047
+If you play with these guys",0.19047619047619047,0.60742956
 W-What is it?,"な…
  
 何でしょう？
 
 ","...
  
-What is it?",0.5
+What is it?",0.5,0.3475608
 "<i>You are making me blush</i>
 <i>with those stares...</i>","《それにしても
  
@@ -525,13 +525,13 @@ What is it?",0.5
 
 ","""Even if
  
-Do you want me to",0.10526315789473684
+Do you want me to",0.10526315789473684,0.24855027
 "<i>She's been staring at him with eyes</i>
 <i>like she's gonna kill him!</i>","食い殺すような目で
 見てるぞコレ》
 
 ","With eyes to eat
-I'm looking at Kore",0.18181818181818182
+I'm looking at Kore",0.18181818181818185,0.3881672
 "You've been busier
 than I thought, bro...","ハハ…
  
@@ -541,12 +541,12 @@ than I thought, bro...","ハハ…
 ","Haha ...
  
 Hahahaha ...
-.",0.07692307692307693
+.",0.07692307692307693,0.2148493
 This?,"コレ
 ｡
 
 ","this
-.",0.3333333333333333
+.",0.3333333333333333,0.7179849
 "Shucks, you guys are
 pretty sharp for kids!","アハッ
  
@@ -556,10 +556,10 @@ pretty sharp for kids!","アハッ
 ","Acupuncture
  
 Already
-You are sharp at the moment of Gaki!",0.23529411764705882
+You are sharp at the moment of Gaki!",0.2352941176470588,0.34423786
 Bro!,"あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.43652067
 What are you doing?!,"ハァ
  
 ハァ…
@@ -572,7 +572,7 @@ What are you doing?!,"ハァ
 Hua ...
 .
 What do you do!? Kore
-.",0.3333333333333333
+.",0.3333333333333333,0.22420399
 No! Leader!,"(ﾓｴｷﾞ)
 やだ
  
@@ -580,7 +580,7 @@ No! Leader!,"(ﾓｴｷﾞ)
 
 ","no
  
-leader!",1.0
+leader!",1.0,0.87696654
 "His pulse, his pulse...!","(ｳﾄﾞﾝ)
 脈拍が…
  
@@ -590,15 +590,15 @@ leader!",1.0
 ","Pulse ...
  
 Pulse ...
-.",0.3333333333333333
+.",0.3333333333333333,0.7624721
 Huh?!,"え？
 
-",picture?,0.25
+",picture?,0.25,0.31992966
 Oweee...,"うっ…
 ｡
 
 ","Uey ...
-.",0.25
+.",0.25,0.3947156
 "Darn that broad foreheaded ugly wench!
 Is she a girl for real?","あれで女かよ？
  
@@ -608,7 +608,7 @@ Is she a girl for real?","あれで女かよ？
 ","Is it a woman?
  
 Seriously
-.",0.16666666666666666
+.",0.16666666666666666,0.40320176
 "So, I have formally received
 the report from you.","(ｲﾙｶ)
 では
@@ -619,7 +619,7 @@ the report from you.","(ｲﾙｶ)
 ","In
  
 Certainly received
-.",0.15384615384615385
+.",0.15384615384615385,0.4567243
 Is Naruto getting along with the others?,"ナルトのヤツ
 仲間と
  
@@ -628,12 +628,12 @@ Is Naruto getting along with the others?,"ナルトのヤツ
 ","Naruto guy
 With friends
  
-Are you doing well?",0.21428571428571427
+Are you doing well?",0.21428571428571427,0.7166369
 Hmm?,"あ？
 あ？
 
 ","Ah? 
- Ah?",0.3333333333333333
+ Ah?",0.3333333333333333,0.5708223
 I've been busy lately.,"最近
  
 忙しくて…
@@ -642,7 +642,7 @@ I've been busy lately.,"最近
 ","Recently
  
 Busy ...
-.",0.25
+.",0.25,0.77723825
 "I haven't had a chance to see him
 even once since his return.","まだ帰ってきて
 一度も会えていませんから
@@ -650,7 +650,7 @@ even once since his return.","まだ帰ってきて
 
 ","I'm still back
 Because I have never seen it once
-.",0.18181818181818182
+.",0.18181818181818185,0.4905331
 I'm a little concerned...,"まぁ…
  
 ぼちぼちね
@@ -659,12 +659,12 @@ I'm a little concerned...,"まぁ…
 ","Well ...
  
 I'm sorry
-.",0.3333333333333333
+.",0.3333333333333333,0.34713984
 "As you know, Iruka Sensei,
 Sasuke is also in our squad,","(ｶｶｼ)
 イルカ先生もご存じのとおり➡
 
-","As you know Mr. Dolphin,",0.2857142857142857
+","As you know Mr. Dolphin,",0.2857142857142857,0.0955481
 "But, the result is that his abilities
 are developing significantly.","実力はバリバリに伸びてますよ
 ｡
@@ -672,7 +672,7 @@ are developing significantly.","実力はバリバリに伸びてますよ
 
 ","The ability is growing in barbarism
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.47237667
 <i>Right now?</i>,"(
 鳥の鳴き声
 )
@@ -683,10 +683,10 @@ are developing significantly.","実力はバリバリに伸びてますよ
 
 ","""Chig
  
-Now right now",0.2222222222222222
+Now right now",0.2222222222222222,0.39803195
 Konohamaru!,"木ノ葉丸！
 
-",Kuno Leaf round!,0.2
+",Kuno Leaf round!,0.2,0.4309812
 Stop that. You'll get yelled at later!,"(ﾃﾏﾘ)
 やめときなって
 後で
@@ -698,7 +698,7 @@ Stop that. You'll get yelled at later!,"(ﾃﾏﾘ)
 later
  
 I will do it
-.",0.1875
+.",0.1875,0.33221316
 "I'm sorry...
 I was fooling around...","ごめんなさい
  
@@ -708,14 +708,14 @@ I was fooling around...","ごめんなさい
 ","sorry
  
 I am playing
-.",0.2
+.",0.2,0.3661578
 <i>What are these two?</i>,"《何なの？
  
 この人たち…》
 
 ","""What's?
  
-This person ...",0.14285714285714285
+This person ...",0.14285714285714285,0.11610691
 "Hey stop!
 Let go of that hand!","おい
  
@@ -725,16 +725,16 @@ Let go of that hand!","おい
 ","Oi
  
 Hey!
-If you leave the hand!",0.23076923076923078
+If you leave the hand!",0.2307692307692308,0.75089824
 Let go!,"(
 木ノ葉丸
 )
 放せコレ！
 
-",Let's leave it!,0.3333333333333333
+",Let's leave it!,0.3333333333333333,0.6113136
 You jerk!,"てめぇ！
 
-",You!,0.6666666666666666
+",You!,0.6666666666666666,0.4741603
 "Wha?!
 What was that?","何だ!?
  
@@ -744,7 +744,7 @@ What was that?","何だ!?
 ","What!?
  
 Now
-.",0.375
+.",0.375,0.39680743
 "Leaf Village's Genin are
 weaker than I thought.","元気じゃん
  
@@ -754,26 +754,26 @@ weaker than I thought.","元気じゃん
 ","I'm fine
  
 Oyster
-.",0.15384615384615385
+.",0.15384615384615385,-0.0065636486
 <i>Why are they here?</i>,"何で
  
 こんなとこに》
 
 ","why
  
-To this",0.09090909090909091
+To this",0.09090909090909093,0.26766503
 Konohamaru...,"《こいつらって国外の…
 ｡
 ➡
 
 ","""These go and go out of the country ...
 .
-➡",0.08333333333333333
+➡",0.08333333333333333,0.15848751
 It... It hurts...,"木ノ葉の下忍ってのはよ
 ｡
 
 ","It is the case of the crush of the tree
-.",0.1
+.",0.1,0.2591043
 "Hey! If you don't let go of him,
 I won't forgive you! You fool!","この俺が許さねえぞ
  
@@ -781,7 +781,7 @@ I won't forgive you! You fool!","この俺が許さねえぞ
 
 ","I can not forgive this
  
-This fool!",0.2222222222222222
+This fool!",0.2222222222222222,0.5997957
 "What are you gonna do
 by getting him worked up!","ばかは
  
@@ -797,7 +797,7 @@ I'm sorry!
 With the other party
  
 What are you gonna do
-.",0.3333333333333333
+.",0.3333333333333333,0.30272353
 You're ticking me off.,"ムカつくじゃん
  
 お前
@@ -808,12 +808,12 @@ You're ticking me off.,"ムカつくじゃん
  
 you
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.14917058
 It's not on me.,"壊したくなっちゃうじゃん
 ｡
 
 ","It will be broken
-.",0.2222222222222222
+.",0.2222222222222222,0.20839459
 "<i>What's with this guy?</i>
 <i>He's crazy...</i>","《何なの？
  
@@ -825,7 +825,7 @@ It's not on me.,"壊したくなっちゃうじゃん
  
  this guy 
  
- Dangerous""",0.3125
+ Dangerous""",0.3125,0.34589598
 "What do you think you're doing
 in someone else's Village, you...","よそんちの里で何やってんだ？
 てめぇは
@@ -833,20 +833,20 @@ in someone else's Village, you...","よそんちの里で何やってんだ？
 
 ","What are you doing in the village of ち?
 Temee
-.",0.25
+.",0.25,0.4890315
 Sasuke!,"サスケく～ん！
 
-",Sasuke!,1.0
+",Sasuke!,1.0,1.0000001
 Wow! So cool!,"キャ～！
  
 カッコいい！
 
 ","Cow!
  
-that's cool!",0.2857142857142857
+that's cool!",0.2857142857142857,0.39963308
 "<i>Sasuke, you!</i>","《サスケの野郎！➡
 
-","""Sasuke's guy!➡",0.16666666666666666
+","""Sasuke's guy!➡",0.16666666666666666,0.8227467
 "You're the kind of smart aleck
 little punk that I despise the most.","利口ぶったガキが
 いちばん嫌いなんだ
@@ -854,7 +854,7 @@ little punk that I despise the most.","利口ぶったガキが
 
 ","The Gakki who has a bruise
 I hate it
-.",0.14285714285714285
+.",0.14285714285714285,0.14128084
 "Wait! You aren't thinking of
 using Crow, are you?!","おい
  
@@ -862,7 +862,7 @@ using Crow, are you?!","おい
 
 ","Oi
  
-Do you want to use to crow?",0.1875
+Do you want to use to crow?",0.1875,0.7672545
 "Kankuro, stop that.","(
 我愛羅
 )
@@ -874,7 +874,7 @@ Do you want to use to crow?",0.1875
 ","Crown
  
 Stop
-.",0.3333333333333333
+.",0.3333333333333333,0.19126832
 "You're an embarrassment
 to our village.","(
 我愛羅
@@ -883,7 +883,7 @@ to our village.","(
 ｡
 
 ","Plash of the village
-.",0.18181818181818182
+.",0.18181818181818185,0.44999883
 G-Gaara...,"ガ…
  
 我愛羅
@@ -892,7 +892,7 @@ G-Gaara...,"ガ…
 ","Gold ...
  
 Usa
-.",0.2
+.",0.2,0.2519272
 <i>When did he get next to me?</i>,"《こいつ
  
 いつの間に俺の隣に
@@ -903,11 +903,11 @@ Usa
  
 Next to me
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.5841756
 "<i>It's stealthy footsteps</i>
 <i>on the level of Kakashi...</i>","カカシ並みの抜き足だぜ》
 
-",It's a stupid feet of Kakashi,0.23529411764705882
+",It's a stupid feet of Kakashi,0.2352941176470588,0.6906946
 "based on the faces
 you can see around...","この顔ぶれで
 もう分かると思うが
@@ -915,7 +915,7 @@ you can see around...","この顔ぶれで
 
 ","With this face
 I think I can see it anymore
-.",0.11764705882352941
+.",0.1176470588235294,0.523276
 So it's already that time...,"(ｶｶｼ)
 もう
  
@@ -925,13 +925,13 @@ So it's already that time...,"(ｶｶｼ)
 ","Already
  
 Is that time?
-.",0.3
+.",0.3,0.8130193
 "The other Lands have already
 been notified, right?","(ｱｽﾏ)すでに他国には
 報告済みなんですね｡
 
 ","already in other countries
-You have been reported.",0.26666666666666666
+You have been reported.",0.26666666666666666,0.26900616
 "I've seen them here and there
 in the village.","里で
  
@@ -941,7 +941,7 @@ in the village.","里で
 ","In a village
  
 Because I saw Chira
-.",0.26666666666666666
+.",0.26666666666666666,0.47708818
 "And, when will it be?","(
 紅
 )
@@ -951,10 +951,10 @@ Because I saw Chira
 
 ","and
  
-When is it?",0.5
+When is it?",0.5,0.77865875
 Seven days from today...,"きょうより７日後➡
 
-",Seven days after today ➡,0.42857142857142855
+",Seven days after today ➡,0.42857142857142855,0.8268679
 "On the first day of July,
 the Chunin Exam will begin!","７の月
  
@@ -962,7 +962,7 @@ the Chunin Exam will begin!","７の月
 
 ","7 months
  
-With one day",0.0625
+With one day",0.0625,0.2406576
 "It's the Chunin Exam,
 it's the Chunin Exam!","♬
  Sneaking out the class room
@@ -970,23 +970,23 @@ by the back door
 
 ","♬
  Sneaking out the class room
-by the back door",0.06666666666666667
+by the back door",0.06666666666666668,0.31008327
 There's no way I can lose!,"♬
  My knee is still shaking
 like I was twelve
 
 ","♬
  My knee is Still Shaking
-Like I Was Twelve",0.058823529411764705
+Like I Was Twelve",0.05882352941176471,0.20554121
 "Konohamaru, you think so too, right?","♬
  Don't cry
 coz you're so right.
 
 ","♬
  Don't Cry
-COZ YOU'RE SO RIGHT.",0.2
+COZ YOU'RE SO RIGHT.",0.2,0.09860014
 "As for me, I'm gonna kick butt again!","♬
  for people like me
 
 ","♬
- for PEOPLE LIKE ME",0.13333333333333333
+ for PEOPLE LIKE ME",0.13333333333333333,0.20817028

@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.69996905
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.6233531
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852413
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.75999033
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372733
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.3079108
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,21 +67,21 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522565
 "This time for sure, the frog will...","今度こそ
  
 カエルが！
 
 ","this time
  
-Frog!",0.3
+Frog!",0.3,0.7384912
 What's a frog anyway?!,"あ～！
  
 カエルって何なのさ～！
 
 ","Oh!
  
-What is the frog?",0.4
+What is the frog?",0.4,0.8914606
 Whew... he collapsed again...,"(
 自来也
 )
@@ -89,17 +89,17 @@ Whew... he collapsed again...,"(
 ｡
 
 ","Nuphufu ...
-.",0.14285714285714285
+.",0.14285714285714285,0.22680654
 "Anko, is it...?","悔いておるのじゃな？
 
-",Do you regret it?,0.2222222222222222
+",Do you regret it?,0.2222222222222222,0.06349728
 "Regretting returning alive
 from the Forest of Death?","(
 猿飛
 )
 死の森から生きて戻ったことを➡
 
-",I live back from the death forest,0.3333333333333333
+",I live back from the death forest,0.3333333333333333,0.60685045
 "That's a needless thing because you and
 Orochimaru have no connection at all.","(
 猿飛
@@ -112,13 +112,13 @@ Orochimaru have no connection at all.","(
 ","It is a good thing
 Already
  
-You and the large snake",0.18181818181818182
+You and the large snake",0.18181818181818185,0.19312952
 "There is no Shinobi who can compete
 against that guy in Hidden Leaf Village.","何の関係もないのじゃし
 ｡
 
 ","There is no relationship
-.",0.25
+.",0.25,0.30626866
 If the Fourth Hokage were still alive...,"もし
  
 四代目が
@@ -129,12 +129,12 @@ If the Fourth Hokage were still alive...,"もし
  
 In the fourth generation
 If you have lived ...
-.",0.2857142857142857
+.",0.2857142857142857,0.44133526
 Don't say that.,"そう言うてやるな
 ｡
 
 ","Don't say so
-.",0.6666666666666666
+.",0.6666666666666666,0.87066936
 He already saved this village and died...,"あやつは
  
 すでに
@@ -147,7 +147,7 @@ He already saved this village and died...,"あやつは
 already
 He saved this village and died
 .
-➡",0.6363636363636364
+➡",0.6363636363636364,0.69611543
 "That's a story from 13 years ago
 He's no longer here.","もう
 13
@@ -159,18 +159,18 @@ He's no longer here.","もう
 13
 A story about the year
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.48493728
 "We have to do something
 with our power.","わしらの力で何とかせねばな
 ｡
 
 ","What should I do with the power of Wora
-.",0.26666666666666666
+.",0.26666666666666666,0.40798965
 Yes.,"はい
 ｡
 
 ","Yes
-.",1.0
+.",1.0,1.0000001
 "C'mon, open your eyes already.","もう
  
 あやつはおらん
@@ -181,10 +181,10 @@ Yes.,"はい
  
 Ayatsu
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.12536952
 Oh! Pervy Sage!,"あ!?
 
-",Ah!?,0.16666666666666666
+",Ah!?,0.16666666666666666,0.2241348
 If you continue like this it's pointless.,"お前
  
 はっきり言って
@@ -199,14 +199,14 @@ Clearly speaking
 sense
  
 It is zero
-.",0.21428571428571427
+.",0.21428571428571427,0.26312378
 That's what I'm doing!,"だから
  
 やってんだろ！
 
 ","that's why
  
-I'm doing!",0.75
+I'm doing!",0.75,0.74311316
 "A trick, huh... A trick.","コツか？
  
 コツはのう…
@@ -215,19 +215,19 @@ I'm doing!",0.75
 ","Is it tips?
  
 Tips ...
-.",0.2
+.",0.2,0.22248177
 What?! You're going to teach me?,"えっ!?
  
 教えてくれんのか？
 
 ","eh!?
  
-Do you teach me?",0.45454545454545453
+Do you teach me?",0.4545454545454545,0.7275594
 You need to risk your life on it.,"命を懸けることだ
 ｡
 
 ","It is about holding life
-.",0.25
+.",0.25,0.30617464
 "It's not a joke.
 Even so, will you do it?","シャレじゃねえのう
 それでも
@@ -237,7 +237,7 @@ Even so, will you do it?","シャレじゃねえのう
 ","It's not a chalet
 Nevertheless
  
-Do you do?",0.4666666666666667
+Do you do?",0.4666666666666667,0.26993954
 I see...,"(
 自来也
 )
@@ -247,13 +247,13 @@ I see...,"(
 
 ","I see
 .
-Yeah?",0.3333333333333333
+Yeah?",0.3333333333333333,0.751441
 Huh?,"命…？
 
-",life…?,0.3333333333333333
+",life…?,0.3333333333333333,0.21800725
 What are we doing at a place like this?,"こんな所で何すんだってばよ？
 
-",What should I do in such a place?,0.26666666666666666
+",What should I do in such a place?,0.26666666666666666,0.55209243
 "Well, that would be nice,
 but today it's a bath.","まぁ
  
@@ -263,20 +263,20 @@ but today it's a bath.","まぁ
 ","Maic
  
 That may be good
-Today's place",0.23529411764705882
+Today's place",0.2352941176470588,0.38034782
 <i>There's something strange going on...</i>,"《何か
  
 変だってばよ…》
 
 ","""something
  
-It's strange ... """,0.3076923076923077
+It's strange ... """,0.3076923076923077,0.41224265
 "Whatever, but how are taking
 a bath and Summoning related?","風呂入んのと口寄せすんのと
 どう関係があんの？
 
 ","With the bath and the mouth
-How are you?",0.3125
+How are you?",0.3125,0.488522
 "Hey, hey, hey, hey...!","なぁ！
  
 なぁ
@@ -293,7 +293,7 @@ Hoped
 Hoped
  
 ...
-Atat!",0.2857142857142857
+Atat!",0.2857142857142857,0.28547806
 What is it?!,"何なんだってばよ！
 (
 自来也
@@ -308,7 +308,7 @@ What is it?!,"何なんだってばよ！
 Oi
  
 Naruto
-.",0.5
+.",0.5,0.39006257
 "Hey, Naruto.","いやぁ
  
 極楽
@@ -321,7 +321,7 @@ Naruto
 Paradise
  
 Alternative ~
-.",0.2857142857142857
+.",0.2857142857142857,0.19431482
 Is there something you want to eat?,"(
 自来也
 )
@@ -331,10 +331,10 @@ Is there something you want to eat?,"(
 
 ","you
  
-Do you want to eat something?",0.6666666666666666
+Do you want to eat something?",0.6666666666666666,0.8639811
 I'm going to eat!,"いっただっきま～す！
 
-",I'm sorry!,0.42857142857142855
+",I'm sorry!,0.42857142857142855,0.36755323
 "It's good! If the training is like this,
 I'll do it every day!","こんな修業だったら
 毎日でもいいってばよ
@@ -342,7 +342,7 @@ I'll do it every day!","こんな修業だったら
 
 ","If it is such a study
 Even if it is fine every day
-.",0.22727272727272727
+.",0.2272727272727273,0.3324816
 Eat up! Because this is the last...,"(
 自来也
 )
@@ -356,7 +356,7 @@ Eat up! Because this is the last...,"(
 What
  
 This is the last ...
-.",0.4166666666666667
+.",0.4166666666666667,0.39245754
 "No, nothing. Anyway, eat!
 Eat a lot!","いやいや
  
@@ -368,7 +368,7 @@ Eat a lot!","いやいや
  
 Anyway
 Gangan eating
-.",0.16666666666666666
+.",0.16666666666666666,0.34743342
 "I don't know what's going on,
 but I should eat, right? Okay!","何だか知んないけど
 食えばいいんだな
@@ -376,10 +376,10 @@ but I should eat, right? Okay!","何だか知んないけど
 
 ","I do not know something
 It is good if you eat
-.",0.16666666666666666
+.",0.16666666666666666,0.3754633
 Gotcha!,"アハハハ…！
 
-",Ahahaha ...!,0.25
+",Ahahaha ...!,0.25,0.31825504
 This time <i>miso char siu!</i>,"今度も
  
 みそチャーシュー
@@ -394,20 +394,20 @@ Miso charsh
 .
 
 Wall
-.",0.23076923076923078
+.",0.2307692307692308,0.693522
 "I ate, I ate.","よ～し
 ｡
 
 ","~
-.",0.2
+.",0.2,0.17188402
 What?!,"な～に～!?
 
-",Now ~!?,0.4
+",Now ~!?,0.4,0.38184178
 I won't even get blood from it...,"もう血も出ねえってばよ
 ｡
 
 ","I'm going to get blood already
-.",0.21428571428571427
+.",0.21428571428571427,0.73773795
 "Yo, are you full?","(
 自来也
 )
@@ -417,7 +417,7 @@ I won't even get blood from it...,"もう血も出ねえってばよ
 
 ","Let
  
-Is it full?",0.2222222222222222
+Is it full?",0.2222222222222222,0.7089828
 "Fool! Who said that
 I was treating you?!","バカめ
  
@@ -425,7 +425,7 @@ I was treating you?!","バカめ
 
 ","Stupidity
  
-Who said that?",0.36363636363636365
+Who said that?",0.3636363636363637,0.2598996
 Aren't you a grown up?! Bastard!,"時にナルト
 お前
  
@@ -434,21 +434,21 @@ Aren't you a grown up?! Bastard!,"時にナルト
 ","Naruto
 you
  
-Are you a favorite woman?",0.3333333333333333
+Are you a favorite woman?",0.3333333333333333,0.1301658
 You could say it's Sakura.,"いやぁ…
 いるというか好きというか…
 ｡
 
 ","No ...
 Do you like it?
-.",0.25
+.",0.25,0.055704303
 So there is?,"それでも大人か？
  
 大人か!?
 
 ","Still adults?
  
-Is it an adult?",0.2222222222222222
+Is it an adult?",0.2222222222222222,0.13476825
 Is that a part of the training?,"それも修業か!?
 まぁ
  
@@ -459,7 +459,7 @@ Is that a part of the training?,"それも修業か!?
 Maic
  
 It's such a place
-.",0.26666666666666666
+.",0.26666666666666666,0.67618597
 Okay! Right away...,"よ～し！
  
 だったら今すぐ…
@@ -468,7 +468,7 @@ Okay! Right away...,"よ～し！
 ","Yo!
  
 If so, right now ...
-.",0.2727272727272727
+.",0.2727272727272727,0.40641063
 "But if I do that, Sakura will...","でも
  
 そんなことしたら
@@ -479,7 +479,7 @@ If so, right now ...
  
 If you do such a thing
 Sakura-chan ...
-.",0.26666666666666666
+.",0.26666666666666666,0.86539435
 "No! This is training too!
 I have to do it or I won't be strong...","やらなきゃ
  
@@ -487,10 +487,10 @@ I have to do it or I won't be strong...","やらなきゃ
 
 ","I have to do it
  
-I'm strong if I'm ...!",0.42105263157894735
+I'm strong if I'm ...!",0.42105263157894735,0.6371131
 For a while she won't talk to me...,"しばらく口利いてくれないかも…｡
 
-",Maybe you can not help for a while ....,0.25
+",Maybe you can not help for a while ....,0.25,0.37023404
 No! But...,"でも
  
 サクラちゃんが…
@@ -499,22 +499,22 @@ No! But...,"でも
 ","but
  
 Sakura-chan ...
-.",0.3333333333333333
+.",0.3333333333333333,0.21739025
 Hurry up and go,"早く行け！
 あっ！
 
 ","Go quickly! 
- Ah!",0.14285714285714285
+ Ah!",0.14285714285714285,0.5486443
 What do you want?,"(ｻｸﾗ)
 何か用？
 
-",What's wrong?,0.2857142857142857
+",What's wrong?,0.2857142857142857,0.19582692
 "If it's money you want,
 I won't lend it to you.","お金なら貸さないわよ
 ｡
 
 ","I will not lend if money
-.",0.3333333333333333
+.",0.3333333333333333,0.795683
 Well...,"いや
  
 そうじゃなくってさ
@@ -525,20 +525,20 @@ Well...,"いや
  
 It is not so
 Well ...
-.",0.25
+.",0.25,0.21417487
 "If there's nothing you want,
 then I'll go home.","用がないなら帰るわよ
 ｡
 
 ","I will return if there is no use
-.",0.2222222222222222
+.",0.2222222222222222,0.20157848
 W-Wait a minute!,"あ～
  
 ちょっと待った！
 
 ","Oh ~
  
-wait a moment!",0.25
+wait a moment!",0.25,0.62225425
 "<i>This is it!</i>
 <i>This is my chance!</i>","《これってば
 もうチャンスだってばよ
@@ -548,13 +548,13 @@ wait a moment!",0.25
 ","""If this is
 It is already a chance
 .
-➡",0.25
+➡",0.25,0.58884877
 What are you doing?!,"何すんのよ！
 
-",What's wrong!,0.25
+",What's wrong!,0.25,0.30254406
 Cha!,"あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.37358317
 Ow... Ouch...,"い…
  
 痛いってばよ…
@@ -563,7 +563,7 @@ Ow... Ouch...,"い…
 ","stomach…
  
 It hurts ...
-.",0.14285714285714285
+.",0.14285714285714285,0.35134396
 This is a part of being young...,"ふぅ…
  
 これもまた青春だの
@@ -572,7 +572,7 @@ This is a part of being young...,"ふぅ…
 ","Fu ...
  
 This is also youth again
-.",0.23076923076923078
+.",0.2307692307692308,0.4201377
 "Yes, that's a definite.","おう
  
 それはもう間違いなしだの
@@ -583,7 +583,7 @@ This is also youth again
  
 It's no doubt anymore
 .
-realy?",0.14285714285714285
+realy?",0.14285714285714285,0.146894
 Really?,"なぁ
  
 こんなんで
@@ -592,12 +592,12 @@ Really?,"なぁ
 ","Hoped
  
 Such
-Aren't the frogs really?",0.25
+Aren't the frogs really?",0.25,0.18285373
 Is there anything you've left undone?,"ん？
 ないのか？
 
 ","Yeah?
-Is there no?",0.3
+Is there no?",0.3,0.16243029
 "<i>To pull out enormous Chakra</i>
 <i>and use it.</i>","(
 自来也
@@ -614,7 +614,7 @@ Pull out
  
 Use
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.77128834
 "<i>It is also certain that this body</i>
 <i>is a vessel too small</i>","器が小さすぎるのも確かだ
 ｡
@@ -622,12 +622,12 @@ Use
 
 ","It is also true that the bowl is too small
 .
-➡",0.3
+➡",0.3,0.46281943
 <i>to absorb the Nine Tailed Fox Chakra...</i>,"な～に言って…
 ｡
 
 ","To say ...
-.",0.14285714285714285
+.",0.14285714285714285,0.1015303
 "<i>It's likely that Naruto's body normally</i>
 <i>tends to reject</i>","この体では
  
@@ -637,20 +637,20 @@ Use
 ","In this body
  
 Koji's chakra
-To accept it",0.21052631578947367
+To accept it",0.21052631578947367,0.41703215
 "<i>If the excitement of danger and</i>
 <i>emotion are the key</i>","(
 自来也
 )
 《身の危険や感情の高ぶりが➡
 
-","""Hazards of your danger and emotions",0.17647058823529413
+","""Hazards of your danger and emotions",0.17647058823529413,0.66483235
 "<i>to drawing out the</i>
 <i>Nine Tailed Fox's Chakra...</i>","九尾のチャクラを
 引き出す鍵なら➡
 
 ","Koji's chakra
-If it is the key to pull out",0.25
+If it is the key to pull out",0.25,0.4558145
 "<i>he has to learn physically until</i>
 <i>he can automatically use that key.</i>","その鍵の使い方を
 体で覚えさせるまでだ
@@ -660,7 +660,7 @@ If it is the key to pull out",0.25
 ","How to use the key
 It is until you let me remember
 .
-➡",0.11538461538461539
+➡",0.1153846153846154,0.58603024
 "<i>Nothing personal...</i>
 <i>Fourth Hokage!</i>","悪く思うな
  
@@ -668,7 +668,7 @@ It is until you let me remember
 
 ","Do not think bad
  
-Fourth generation """,0.0625
+Fourth generation """,0.0625,0.2582199
 Huh? Where... is this?,"あれ？
  
 どこだってば？
@@ -681,17 +681,17 @@ Huh? Where... is this?,"あれ？
 Where is it?
  
 here
-.",0.3
+.",0.3,0.68004256
 Stand up!,"立て！
 
-",stand up!,1.0
+",stand up!,1.0,0.9999997
 W-What's going on?!,"今から死んでこいのう
 ｡
 死？
 
 ","Dead from now on
 .
-death?",0.18181818181818182
+death?",0.18181818181818185,0.20379065
 Your training ends here.,"修業は
  
 ここまでだ
@@ -700,7 +700,7 @@ Your training ends here.,"修業は
 ","Study is
  
 Here
-.",0.2857142857142857
+.",0.2857142857142857,0.3981475
 Huh? I haven't done anything yet...!,"ん？
  
 ってまだ何にもしてねえ…！
@@ -713,11 +713,11 @@ Huh? I haven't done anything yet...!,"ん？
  
 What is still done ...!
 
-Naruto!➡",0.25
+Naruto!➡",0.25,0.2651597
 "From within the dreadfulness of death,
 squeeze out enormous Chakra!","その死の恐怖の中から➡
 
-",From among the fear of that death,0.26666666666666666
+",From among the fear of that death,0.26666666666666666,0.40839756
 "Experience it with your own body,
 and grasp the technique of it!","そして
  
@@ -729,7 +729,7 @@ and grasp the technique of it!","そして
  
 Experience it with your body
 Grasp the tips
-.",0.5333333333333333
+.",0.5333333333333333,0.8231125
 "If you don't want to die,
 do something about it yourself... Got it?","死にたくなかったら
 自分で何とかしろ！
@@ -741,7 +741,7 @@ do something about it yourself... Got it?","死にたくなかったら
 What do you do with yourself!
  
 brain
-.",0.3333333333333333
+.",0.3333333333333333,0.72561836
 "<i>Now...we'll see if the strength given</i>
 <i>to you is really yours.</i>","(
 自来也
@@ -752,17 +752,17 @@ brain
 
 ","""Now
  
-The power given to you",0.25
+The power given to you",0.25,0.4657908
 <i>If I don't grab onto this... I'll die!</i>,"《これにつかまらなきゃ
  
 死ぬ！》
 
 ","""I have to catch this
  
-die!""",0.21052631578947367
+die!""",0.21052631578947367,0.38636774
 <i>Now!</i>,"《今だ！》
 
-","""now!""",0.25
+","""now!""",0.25,0.46704054
 <i>It's impossible...</i>,"(
 自来也
 )
@@ -772,13 +772,13 @@ die!""",0.21052631578947367
 
 ","""It's impossible
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.55270296
 "<i>Besides, falling in that speed</i>
 <i>with the control of Chakra that you have,</i>","お前の
 チャクラコントロールくらいで➡
 
 ","your
-With about chakra control",0.15789473684210525
+With about chakra control",0.15789473684210525,0.649924
 "<i>Open up the key...</i>
 <i>This time from your side!</i>","鍵を開けてみろ
 ｡
@@ -786,13 +786,13 @@ With about chakra control",0.15789473684210525
 
 ","Open the key
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.6754395
 <i>Die!</i>,"マジで死ぬ！》
 (
 鼓動
 )
 
-","I will die seriously!""",0.3333333333333333
+","I will die seriously!""",0.3333333333333333,0.51493406
 "Today, we'll have
 a history lesson outside.","(ｲﾙｶ)
 きょうは屋外で歴史の授業です
@@ -801,23 +801,23 @@ a history lesson outside.","(ｲﾙｶ)
 
 ","Today is a history of history outdoors
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.697881
 "As you know, this rock face has
 the faces of the Hokage line.","君らも知ってるとおり
 この顔岩は➡
 
 ","As you also know
-This facial rock is ➡",0.2777777777777778
+This facial rock is ➡",0.2777777777777778,0.60403603
 "In order from the left,
 they're lined up fom the First,","左から順に初代➡
 
-","First from the left, the first generation",0.38461538461538464
+","First from the left, the first generation",0.38461538461538464,0.5211528
 "the Second...
 the Third... and the Fourth.","四代目と並んでいて…
 ｡
 
 ","Lined with the fourth generation ...
-.",0.4
+.",0.4,0.41945884
 Iruka Sensei! Who's the Fifth?,"(
 生徒１
 )
@@ -827,7 +827,7 @@ Iruka Sensei! Who's the Fifth?,"(
 
 ","Dolphin teacher
  
-Who is the five generations?",0.23076923076923078
+Who is the five generations?",0.2307692307692308,0.33844313
 "Well, that hasn't been decided yet...","ん？
  
 ん～…
@@ -836,7 +836,7 @@ Who is the five generations?",0.23076923076923078
 ","Yeah?
  
 ...
-I have not decided yet, but",0.26666666666666666
+I have not decided yet, but",0.26666666666666666,0.7035947
 "Oh, it's the Third.","(
 木ノ葉丸
 )
@@ -848,7 +848,7 @@ I have not decided yet, but",0.26666666666666666
 ","""What is the right now
 It's a big difference
 .
-➡",0.25
+➡",0.25,0.1160582
 "Hey! Old man!
 What did you come to do?","あっ
  
@@ -862,7 +862,7 @@ What did you come to do?","あっ
 Great!
  
 What did you come?this
-.",0.4
+.",0.4,0.42542884
 I wanted to see the rock faces too.,"ちょっと
  
 わしも
@@ -873,7 +873,7 @@ I wanted to see the rock faces too.,"ちょっと
  
 Others
 I want to worship my face rock
-.",0.25
+.",0.25,0.55826014
 "You've come at a good time.
 Over this way, my lord.","よいところへ来られました
 どうぞ
@@ -885,7 +885,7 @@ Over this way, my lord.","よいところへ来られました
 please
  
 This way
-.",0.2631578947368421
+.",0.2631578947368421,0.3866261
 "This is the real man of
 the third rock face!","この方が
  
@@ -895,7 +895,7 @@ the third rock face!","この方が
 ","This person
  
 That third
-The person of the face rock",0.5
+The person of the face rock",0.5,0.77271056
 "Hey! Iruka, don't say it
 in the past tense.","こら
  
@@ -909,7 +909,7 @@ in the past tense.","こら
 Dolphin
  
 Not in the past
-.",0.3333333333333333
+.",0.3333333333333333,0.2876806
 S-Sorry.,"(
 猿飛
 )
@@ -917,7 +917,7 @@ S-Sorry.,"(
 ｡
 
 ","Mum
-.",0.3333333333333333
+.",0.3333333333333333,0.26829594
 Are you really strong?,"(
 生徒３
 )
@@ -931,7 +931,7 @@ Are you really strong?,"(
 ","Is it really strong?
 
 That's right
-.",0.2727272727272727
+.",0.2727272727272727,0.71593857
 "To take over the name of Hokage
 means you're the strongest in this village!","この里で
  
@@ -941,7 +941,7 @@ means you're the strongest in this village!","この里で
 ","In this village
  
 Best
-That's why!",0.21052631578947367
+That's why!",0.21052631578947367,0.40843123
 "It won't work with
 the scores you have now!","(
 生徒５
@@ -954,7 +954,7 @@ the scores you have now!","(
 ","~
  
 Well then
-It will be the girlfriend!",0.17647058823529413
+It will be the girlfriend!",0.17647058823529413,0.12431909
 "You all are quite young,
 unlike me!","君らは
  
@@ -968,7 +968,7 @@ unlike me!","君らは
 Differently
 Greatly young
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.75662845
 "There might be someone who will
 take the name of Hokage in this group.","この中から火影の名を継ぐ者も
 出るやもしれんの
@@ -976,7 +976,7 @@ take the name of Hokage in this group.","この中から火影の名を継ぐ者
 
 ","People who succeed the name of fire shadow from this
 I'm going out
-.",0.25
+.",0.25,0.3581229
 Don't choose an impossible road.,"人生
  
 ただ一度じゃ
@@ -987,7 +987,7 @@ Don't choose an impossible road.,"人生
  
 Just once
 I do not choose an impossible way
-.",0.38461538461538464
+.",0.38461538461538464,0.6375767
 However...,"うぅ…
 ｡
 (
@@ -998,20 +998,20 @@ However...,"うぅ…
 ","Uh ...
 .
 
-Hahahaha ...!",0.16666666666666666
+Hahahaha ...!",0.16666666666666666,0.28623348
 "no matter what route you take,","どんな道を生きるとも
 忘れてはならん
 ｡
 
 ","No matter what the path
 Forgetting
-.",0.2727272727272727
+.",0.2727272727272727,0.5569967
 Important people?,"(
 猿飛
 )
 大切な人を守ることだけは➡
 
-",Only protecting important people,0.4
+",Only protecting important people,0.4,0.5270856
 "That you acknowledge...
 trust and love from your heart.","好きに生き
 好きに死んでもかまわん
@@ -1019,7 +1019,7 @@ trust and love from your heart.","好きに生き
 
 ","Lively live
 I love you
-.",0.21428571428571427
+.",0.21428571428571427,0.17079039
 "and I hate him a little,
 but my big brother too.","それに
  
@@ -1031,7 +1031,7 @@ but my big brother too.","それに
  
 I hate a little
 Brother
-.",0.4
+.",0.4,0.7906179
 "And...
 my dog Gonta...","お父ちゃんと
  
@@ -1039,7 +1039,7 @@ my dog Gonta...","お父ちゃんと
 
 ","Father and father
  
-Mother and ➡",0.125
+Mother and ➡",0.125,0.32167363
 "Yes, of course I do!","おお
  
 もちろんおるとも
@@ -1048,7 +1048,7 @@ Mother and ➡",0.125
 ","Oh
  
 Of course
-.",0.2222222222222222
+.",0.2222222222222222,0.31230593
 "Really! Who, who?","(
 生徒
 10)
@@ -1062,7 +1062,7 @@ Of course
  
 Who?
  
-Who?",0.3333333333333333
+Who?",0.3333333333333333,0.6752384
 All of the people in this village!,"この里
  
 すべての者たちじゃ
@@ -1071,26 +1071,26 @@ All of the people in this village!,"この里
 ","This village
  
 All people are
-.",0.4
+.",0.4,0.85446626
 <i>This feeling... It's that Chakra...</i>,"《この感じ…
  
 あのチャクラだ》
 
 ","""This feeling…
  
-That chakra """,0.23076923076923078
+That chakra """,0.2307692307692308,0.8413319
 This is...,"これは…
 ｡
 
 ","this is…
-.",0.2
+.",0.2,0.9135478
 <i>I-It's huge... What is it?</i>,"《でけぇ…
  
 何だ？》
 
 ","""In addition ...
  
-What?""",0.1875
+What?""",0.1875,0.05552091
 "I want to eat and kill you,
 but this gate won't open...","≪
  
@@ -1098,25 +1098,25 @@ but this gate won't open...","≪
 
 ","«
  
-I want to kill you",0.3125
+I want to kill you",0.3125,0.3892844
 the Nine-Tailed Fox!,"う…
  
 うわっ！
 
 ","Cormorant…
  
-Wow!",0.16666666666666666
+Wow!",0.16666666666666666,0.24914713
 "<i>I see... the red Chakra</i>
 <i>was this guy's Chakra.</i>","こいつのチャクラだったのか》
 
-",Was this chakra?,0.2
+",Was this chakra?,0.2,0.78025943
 What business brought you here?,"何の用で
  
 ここへ来た？
 
 ","For what
  
-Come here?",0.375
+Come here?",0.375,0.32458377
 "Since you're staying in my body,
 as your rent, lend me your Chakra!","家賃として
  
@@ -1126,7 +1126,7 @@ as your rent, lend me your Chakra!","家賃として
 ","As a rent
  
 Your chakra
-Lending!",0.29411764705882354
+Lending!",0.29411764705882354,0.8670089
 "After all, if you die I die.","どの道
  
 お前が死ねば
@@ -1139,21 +1139,21 @@ Lending!",0.29411764705882354
 If you die
 I also die
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.6591214
 That's fine...,"(
 九尾
 )
 フフハハハ…！➡
 
-",Huhhahaha ...!➡,0.14285714285714285
+",Huhhahaha ...!➡,0.14285714285714285,0.27852988
 <i>This is the feeling!</i>,"《この感じだ！》
 
-","""This feeling!""",0.2727272727272727
+","""This feeling!""",0.2727272727272727,0.54876775
 Well done.,"よくやった
 ｡
 
 ","well done
-.",1.0
+.",1.0,1.0000006
 Where am I?!,"(ｶﾞﾏﾌﾞﾝ
 太
 )
@@ -1167,7 +1167,7 @@ Where am I?!,"(ｶﾞﾏﾌﾞﾝ
  
 Where is it?
  
-Kowa!",0.3333333333333333
+Kowa!",0.3333333333333333,0.37919608
 "I will be your henchman, boss.","♬
  
 お手を拝借
@@ -1180,7 +1180,7 @@ Kowa!",0.3333333333333333
 Bearing your hands
 Japanese
 ·
-Pepo",0.07142857142857142
+Pepo",0.07142857142857142,0.16254908
 I'm so happy...,"♬
  
 皆頑張って
@@ -1191,4 +1191,4 @@ I'm so happy...,"♬
  
 Good luck
  
-SO standing up",0.1
+SO standing up",0.1,0.18022892

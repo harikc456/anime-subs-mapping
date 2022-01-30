@@ -1,216 +1,216 @@
-en_text,jp_text,google_translated,score
-"Sahashi Minato-kun, I presume?",（皆人）え？ あ… はい,"?Oh, yes",0.25
-Attack... then you are the East's...!,攻撃… じゃあ あなたが東の,Attack ... Well then you,0.4
-Nice to finally meet you.,（氷峨）はじめまして 私は氷峨泉(いずみ),Nice to meet you I'm Ice Ten,0.4
-And this...?,あ？ これは…,Ah?this is…,0.3333333333333333
-This is what you guys have been looking for.,君たちが欲しがっているものさ,What you want,0.18181818181818182
+en_text,jp_text,google_translated,score,semantic_score
+"Sahashi Minato-kun, I presume?",（皆人）え？ あ… はい,"?Oh, yes",0.25,0.14044884
+Attack... then you are the East's...!,攻撃… じゃあ あなたが東の,Attack ... Well then you,0.4,0.6141257
+Nice to finally meet you.,（氷峨）はじめまして 私は氷峨泉(いずみ),Nice to meet you I'm Ice Ten,0.4,0.5355528
+And this...?,あ？ これは…,Ah?this is…,0.3333333333333333,0.33680856
+This is what you guys have been looking for.,君たちが欲しがっているものさ,What you want,0.18181818181818185,0.27275723
 Then... this has Chiho-san's treatment data in it!,"じゃあ
 これに千穂(ちほ)さんの治療データが","Surely
-Chiho 's therapeutic data",0.14285714285714285
+Chiho 's therapeutic data",0.14285714285714285,0.7674541
 "Just so's you know,","私は その意思を
 尊重しただけにすぎない","I will
-I just respect you",0.2222222222222222
+I just respect you",0.2222222222222222,0.23826365
 that Ashikabi's illness cannot be cured using current medical knowledge.,"それに彼女が機能停止したのは
 事故であって 私の本意ではない","That's why she stopped working
-It is an accident and not my goodness",0.125
+It is an accident and not my goodness",0.125,0.22946073
 "That data will only extend her life, by preventing her situation from worsening.","葦牙(あしかび)の命が
 少しでも長らえるなら","The life of the 葦 
-If it will be a little long",0.08695652173913043
-How could that be? Then Chiho-san is...,（皆人）どうして鈿女(うずめ)さんを,How is the wolf,0.18181818181818182
-MBI...,残念に思っているよ,I think I'm sorry,0.0
+If it will be a little long",0.08695652173913042,0.21781042
+How could that be? Then Chiho-san is...,（皆人）どうして鈿女(うずめ)さんを,How is the wolf,0.18181818181818185,0.13792765
+MBI...,残念に思っているよ,I think I'm sorry,0.0,0.11666654
 What's the matter?,"（氷峨）
-そう 御中広人(みなかひろと)という男のためにね",That's why the man of the hall,0.2
+そう 御中広人(みなかひろと)という男のためにね",That's why the man of the hall,0.2,0.17849043
 I have something to ask of you.,"Ｍ･Ｂ･Ｉという巨大な力に
 振り回されて","To the huge power called M · B · i
-Being swayed",0.11764705882352941
-Something you need?,理不尽だとは思わないか？,Don't you think it's unreasonableness?,0.2
-"Indeed, I think it is possible with the MBI's technology.",仕組まれているという事実だよ,It is the fact that it is organized,0.1875
+Being swayed",0.1176470588235294,0.17848684
+Something you need?,理不尽だとは思わないか？,Don't you think it's unreasonableness?,0.2,0.024993494
+"Indeed, I think it is possible with the MBI's technology.",仕組まれているという事実だよ,It is the fact that it is organized,0.1875,0.0070515284
 "But, you know, for a ronin like you who twice failed to rely on your parents...","たった１人の男が
 面白おかしく遊ぶためにだけ","A single man
-Only to play funny",0.09090909090909091
-"Thanks to that data, we can keep Chiho-tan alive. Which is nice, isn't it?",（氷峨）そのデータは,The data is,0.1111111111111111
+Only to play funny",0.09090909090909093,0.06271069
+"Thanks to that data, we can keep Chiho-tan alive. Which is nice, isn't it?",（氷峨）そのデータは,The data is,0.1111111111111111,0.31332755
 Actually... there's something I want you guys to help me with.,"君が あの葦牙を
 本当に救いたいなら 手段は１つだ","You are the guy
-If you really want to save, there is only one way",0.16
+If you really want to save, there is only one way",0.16,0.24193558
 What was that?,"（車のドアが閉まる音）
-（皆人）ん？",?,0.25
+（皆人）ん？",?,0.25,0.2626664
 I see. Mom told you.,"（電話:皆人）
-母ちゃんに頼みがあって",I'm asking her mother,0.1
-Really?,頼み？,Request?,0.3333333333333333
-"Ah, no, no...",（皆人）う… うん,... yeah,0.2
+母ちゃんに頼みがあって",I'm asking her mother,0.1,0.44640625
+Really?,頼み？,Request?,0.3333333333333333,0.16084218
+"Ah, no, no...",（皆人）う… うん,... yeah,0.2,0.38707387
 Only if you can climb to the highest level of the capital tower tomorrow under your own steam.,"（電話:高美）
 確かにＭ･Ｂ･Ｉの持つ技術なら
 何とかできるとは思う","Certainly if it is the technology of M · B · i
-I think I can do something",0.13793103448275862
+I think I can do something",0.13793103448275862,0.36821526
 "The highest level? Umm, what?","（電話:高美）
-でも 何だね？ スネかじりの浪人が",But what is it?Snowy ronin,0.16666666666666666
-"Well then, I wish you luck!",じゃあ！,Well then!,0.375
+でも 何だね？ スネかじりの浪人が",But what is it?Snowy ronin,0.16666666666666666,0.17875376
+"Well then, I wish you luck!",じゃあ！,Well then!,0.375,0.49025756
 Seems like a few more of the little birds have torn wings.,"男なら 母ちゃんなんか頼らず
 てめえの力で どうにかしな","Mother without a man
-She is not hungry with the power of",0.13636363636363635
+She is not hungry with the power of",0.13636363636363635,0.041786015
 Yeah... the number is half what it was.,"まだ油断はできない
 って話だけど とりあえずは…","I can not cut off yet
-It's a story, but for the time being ...",0.125
-Caring...,（皆人）は… 話？,... talk?,0.25
-I told you not to eavesdrop on others ever again!,俺 Ｍ･Ｂ･Ｉに行こうと思う,I'm going to go to M · B · i,0.11764705882352941
+It's a story, but for the time being ...",0.125,0.16271529
+Caring...,（皆人）は… 話？,... talk?,0.25,0.26370215
+I told you not to eavesdrop on others ever again!,俺 Ｍ･Ｂ･Ｉに行こうと思う,I'm going to go to M · B · i,0.1176470588235294,0.03624208
 Oh no!,"（皆人）わっ！
 （篝）御中！","!
-!",0.3333333333333333
+!",0.3333333333333333,0.34705287
 This is a perfect ending for the second phase.,"難病の治療に この私の助力が
 欲しいそうじゃないか","This is my help for the treatment of incurable diseases
-I want it",0.21052631578947367
+I want it",0.21052631578947367,0.062149953
 The climax is finally about to begin!,"（結(むすび)）
-何だか 社長が お優しいです！",Somehow the president is his kind!,0.25
-"Ashikabi who still haven't won a match,",え？,picture?,0.0
-Please participate even if you have already won.,自力で来ることができたら… だ！,If you can come by yourself ...!,0.13333333333333333
-TS for phone - end,それでは 健闘を祈る！,Well then pray for good luck!,0.09090909090909091
-There's gonna be a reward!,相当ヤバい話かもしれませんです,It may be a fairly bad story,0.15384615384615385
+何だか 社長が お優しいです！",Somehow the president is his kind!,0.25,0.1183667
+"Ashikabi who still haven't won a match,",え？,picture?,0.0,0.05256926
+Please participate even if you have already won.,自力で来ることができたら… だ！,If you can come by yourself ...!,0.13333333333333333,0.1962477
+TS for phone - end,それでは 健闘を祈る！,Well then pray for good luck!,0.09090909090909093,0.04557904
+There's gonna be a reward!,相当ヤバい話かもしれませんです,It may be a fairly bad story,0.15384615384615385,0.07231674
 Who knows...,"（高美）
-ああ… およそ半数は減った",Oh ... About half have decreased,0.125
-Why?,ん？,Yeah?,0.3333333333333333
+ああ… およそ半数は減った",Oh ... About half have decreased,0.125,0.2684398
+Why?,ん？,Yeah?,0.3333333333333333,0.35274518
 "Looking at what happened with Kusano-tan and Kagari-tan back then, we should have expected this.","（御中）
-面白くて そして親切なことさ",Interesting and helpful things,0.05
+面白くて そして親切なことさ",Interesting and helpful things,0.05,0.0014001075
 "It's okay! No matter who gets in our way, Musubi will defeat them with her fists!","人の通話を盗聴するなと
 言ってるだろう！","Don't worryfing a person's call
-It will be said!",0.14814814814814814
+It will be said!",0.14814814814814814,0.14836699
 nearly every Ashikabi in the capital will head to the MBI.,"（御中）
 フフフッ
 第２段階の締めに ふさわしい","Hood
-It is appropriate to tighten the second stage",0.1111111111111111
+It is appropriate to tighten the second stage",0.1111111111111111,-0.00044307858
 But it seems like it's turning into a pretty interesting situation.,"（御中）
-御中広人である",It is a long time,0.13333333333333333
+御中広人である",It is a long time,0.13333333333333333,0.20415595
 Who cares.,"彼らの侵入を
 見事 阻止することができた者には","Their intrusion
-For those who could stop watching",0.1
+For those who could stop watching",0.1,0.15329315
 There is no need for such a hassle.,"更に 倒した者には
 すんごい ご褒美が与えられるので","For those who have already defeated
-Because a great reward is given",0.16666666666666666
-But... this is the MBI's headquarters after all.,一体 どんなヤツなんだろ？,What is the wrong guy?,0.13333333333333333
-Then... could Matsu-san also be...,（椎菜(しいな)）さあ…,) ...,0.14285714285714285
-Yes... I will enter the tower and control it from within.,まあ 予想の範囲内ですが,Well within the scope of expected,0.11764705882352941
+Because a great reward is given",0.16666666666666666,0.1638555
+But... this is the MBI's headquarters after all.,一体 どんなヤツなんだろ？,What is the wrong guy?,0.13333333333333333,-0.017756658
+Then... could Matsu-san also be...,（椎菜(しいな)）さあ…,) ...,0.14285714285714285,0.13629168
+Yes... I will enter the tower and control it from within.,まあ 予想の範囲内ですが,Well within the scope of expected,0.1176470588235294,0.11754574
 Everybody's in this together!,"大丈夫です
 どんな邪魔が入っても 結の拳で！","fine
-No matter what kind of obstrance is in the fist of the same!",0.11764705882352941
+No matter what kind of obstrance is in the fist of the same!",0.1176470588235294,0.25345048
 All right! It's the night before the fight!,"そうじゃ 我(われ)の水は
 葦牙の行く手を遮る者を許さぬ！","So that's the water of
-I can not forgive the person who shielded the hand of the grips!",0.13636363636363635
+I can not forgive the person who shielded the hand of the grips!",0.13636363636363635,0.22268298
 It's not just a normal bath.,"（氷峨）
 即答できるほど
 簡単な仕事だとは思えないが","An immediate answer
-I do not think it is a simple job",0.17647058823529413
+I do not think it is a simple job",0.17647058823529413,0.18080088
 It's a meeting for Sekirei!,"（着信音）
-（柿崎）あっ！",!,0.14285714285714285
+（柿崎）あっ！",!,0.14285714285714285,0.19275787
 Right?,"（柿崎）
 あんなヤツらで
 うまくいくでしょうか？","In such guys
-Will you work well?",0.1111111111111111
-This is...,明快だね,It is clear,0.2
+Will you work well?",0.1111111111111111,0.1249475
+This is...,明快だね,It is clear,0.2,0.24971052
 No! I don't really intend to peek!,"松がタワーに乗り込んで
 操作するしかないわけで","Matsu gets into the tower
-I have no choice but to operate",0.16666666666666666
-"If you let that meal go to waste, I'll add the bill to your rent.",最上階へ上ることなど不可能ですね,It is impossible to go to the top floor,0.13636363636363635
-Landlady...,エヘヘ フフフ…,Ehe Hifff ...,0.25
-Please come back safely.,（松）はいです,Yes,0.0
-Sorry for giving you all this trouble.,（風花(かぜはな)）全員出撃ってわけね,) All shall be dispatched,0.08333333333333333
-I... all of us want to fulfill his wish.,闘う前に身を清めないとね,I have to clean myself before fighting,0.125
-That's all that is.,ですしね〜,It is ...,0.14285714285714285
+I have no choice but to operate",0.16666666666666666,0.093512505
+"If you let that meal go to waste, I'll add the bill to your rent.",最上階へ上ることなど不可能ですね,It is impossible to go to the top floor,0.13636363636363635,0.052388184
+Landlady...,エヘヘ フフフ…,Ehe Hifff ...,0.25,0.27249753
+Please come back safely.,（松）はいです,Yes,0.0,0.12982813
+Sorry for giving you all this trouble.,（風花(かぜはな)）全員出撃ってわけね,) All shall be dispatched,0.08333333333333333,0.1939872
+I... all of us want to fulfill his wish.,闘う前に身を清めないとね,I have to clean myself before fighting,0.125,0.029909182
+That's all that is.,ですしね〜,It is ...,0.14285714285714285,0.29984564
 "To think about, and to be thought of.","事にかかったほうがよい
 かもですしね〜","It would be better to
-It may be ...",0.14285714285714285
-There are also times when we must fight.,（一同）おおお〜,oh ~,0.0
-That's what everyone... everybody taught me.,（皆人）な… 何か にぎやかだな,... Something is wrong,0.08333333333333333
+It may be ...",0.14285714285714285,0.17766827
+There are also times when we must fight.,（一同）おおお〜,oh ~,0.0,-0.0013913149
+That's what everyone... everybody taught me.,（皆人）な… 何か にぎやかだな,... Something is wrong,0.08333333333333333,0.1333116
 How should I put it?,"い… いえ
 別に見に行きたいわけじゃ…","no
-I want to go to see it separately ...",0.15384615384615385
-"They pass on love, and are also told about love.",大家さん,Landlord,0.0
-Miracles...,（篝）フウ… なるほどね,フ ... I see,0.2
+I want to go to see it separately ...",0.15384615384615385,0.17914532
+"They pass on love, and are also told about love.",大家さん,Landlord,0.0,-0.042277392
+Miracles...,（篝）フウ… なるほどね,フ ... I see,0.2,0.16780137
 I was just remembering something someone told me once.,"あのバカに盗聴されてて
 大ごとに…","I was eager to that idiot
-Large ...",0.125
+Large ...",0.125,0.16586259
 "Are you all ready, Minato-san?","だから 皆人に
 自力で乗り込んででも奪え","So everyone
-Even if you get in your own",0.06666666666666667
-Isn't it a little too daring to go in bright daylight?,それだけだ,It is only,0.14285714285714285
-We are the MBI.,僕らも彼の望みをかなえたい,We also want to see him,0.1
-We are the MBI...,クフ クフフ… 久方ぶりのお外です,Kuhkuhufu ... It is outside the first time in a long time,0.14285714285714285
-"Yeah, that's right.",理屈じゃないんだ,It's not theory,0.1111111111111111
-"Well then, let us depart!",うむ！,Um!,0.125
-We're leaving!,よし 行こう！,Let's go!,0.14285714285714285
+Even if you get in your own",0.06666666666666668,0.06857375
+Isn't it a little too daring to go in bright daylight?,それだけだ,It is only,0.14285714285714285,0.17366284
+We are the MBI.,僕らも彼の望みをかなえたい,We also want to see him,0.1,0.18704844
+We are the MBI...,クフ クフフ… 久方ぶりのお外です,Kuhkuhufu ... It is outside the first time in a long time,0.14285714285714285,0.09554255
+"Yeah, that's right.",理屈じゃないんだ,It's not theory,0.1111111111111111,0.091799796
+"Well then, let us depart!",うむ！,Um!,0.125,0.33278558
+We're leaving!,よし 行こう！,Let's go!,0.14285714285714285,0.5967945
 I'll leave the preparations for the banquet to you.,"そこには大切な絆があって
 それを守るためなら","There is an important bond there
-If you want to protect it",0.10526315789473684
-"Musubi-tan, Tsukiumi-tan, and Kazehana-tan will be guarding Mina-tan.",恋を教え そして教えられて,Teaching love and taught,0.07692307692307693
-Our goal is to take over the MBI's server room.,セキレイは“恋教(おし)へ鳥”,"Sekirei is a bird to ""Love Chi""",0.10526315789473684
-Are you using just that to disguise yourself?,奇跡？,miracle?,0.1
-"Yup, Takami-chan often takes me here for a walk.",セキレイは そのために生(せい)を受けた,Sekirei received a raw thing for that,0.125
-But... then some bad guys came here.,（一同）あ…,...,0.1111111111111111
+If you want to protect it",0.10526315789473684,0.0628473
+"Musubi-tan, Tsukiumi-tan, and Kazehana-tan will be guarding Mina-tan.",恋を教え そして教えられて,Teaching love and taught,0.07692307692307693,0.03519398
+Our goal is to take over the MBI's server room.,セキレイは“恋教(おし)へ鳥”,"Sekirei is a bird to ""Love Chi""",0.10526315789473684,0.040707685
+Are you using just that to disguise yourself?,奇跡？,miracle?,0.1,0.090405986
+"Yup, Takami-chan often takes me here for a walk.",セキレイは そのために生(せい)を受けた,Sekirei received a raw thing for that,0.125,0.094827764
+But... then some bad guys came here.,（一同）あ…,...,0.1111111111111111,0.17628098
 Was that how she turned into the girl in green?,"本日 帝都全域において
 戒厳令が敷かれました","Today in the whole day
-A martial law was laid",0.16666666666666666
-"It's a botany facility, after all.",あ〜ら 社長も むちゃするわね,"Well, the president is also difficult",0.06666666666666667
+A martial law was laid",0.16666666666666666,0.092510894
+"It's a botany facility, after all.",あ〜ら 社長も むちゃするわね,"Well, the president is also difficult",0.06666666666666668,-0.024831058
 They don't have enough people to guard every place.,"許可なく外出するのは
 お控えください","To go out without permission
-Please",0.0625
-"I'll do my best for you, Natsuo!",いってきます 大家さん！,I will come to a large house!,0.125
+Please",0.0625,0.20602842
+"I'll do my best for you, Natsuo!",いってきます 大家さん！,I will come to a large house!,0.125,0.25920016
 Oh? Your Sekirei core is shining this bright.,"（松）
 草野たん この先にＭ･Ｂ･Ｉに
 直結するルートがあるですね？","Kusano Tan to M · B · i
-Is there a route to direct connection?",0.09090909090909091
+Is there a route to direct connection?",0.09090909090909093,0.117022425
 Yes! I learned the Bear Fist!,"Ｍ･Ｂ･Ｉのサーバールームを
 掌握するです","M · B · i server room
-Grasp",0.07692307692307693
-Even if Yume is no longer here...,（焔）ん…,...,0.125
-It's really quiet.,（焔）随分 無防備だな,It is quite unprotected,0.125
-To be deserted at this time of the day.,意地悪な人が やって来て,Necessary people come to come,0.07692307692307693
-There isn't anything strange.,あっ あそこ,There is,0.3333333333333333
-Seems like they came after reading the message.,（夏朗(なつお)）来たみたいだよ,It seems that you came ),0.15384615384615385
-We're completely surrounded!,（焔･松）あっ！,!,0.2
+Grasp",0.07692307692307693,0.10751548
+Even if Yume is no longer here...,（焔）ん…,...,0.125,0.13258195
+It's really quiet.,（焔）随分 無防備だな,It is quite unprotected,0.125,0.14165875
+To be deserted at this time of the day.,意地悪な人が やって来て,Necessary people come to come,0.07692307692307693,0.29098475
+There isn't anything strange.,あっ あそこ,There is,0.3333333333333333,0.24058472
+Seems like they came after reading the message.,（夏朗(なつお)）来たみたいだよ,It seems that you came ),0.15384615384615385,0.26573694
+We're completely surrounded!,（焔･松）あっ！,!,0.2,0.29483023
 "I see. It's fine as long as we defeat them, right?","派手にガードを立たせとくわけにも
 いかないのですよ","It's a flashy guard
-I can not go",0.15
-"That way, we don't have to be separated.",うん　じゃあ みんな頑張ってね,"Yeah, everyone will do my best",0.125
+I can not go",0.15,0.014280677
+"That way, we don't have to be separated.",うん　じゃあ みんな頑張ってね,"Yeah, everyone will do my best",0.125,0.0833341
 "Mina-tan, I'm sorry, but...","（紅翼(べにつばさ)）
-ここに乗り込んでくるなんて",I'm going to get here,0.18181818181818182
+ここに乗り込んでくるなんて",I'm going to get here,0.18181818181818185,0.048959583
 We meet... again.,"ク… クク…
 ガチホモ相手 ムダな努力","... Kuku ...
-Gachihomo partner unmudent effort",0.1
+Gachihomo partner unmudent effort",0.1,0.18864712
 "All right, in order for us to get the rare item,","（鴉羽(からすば)）
 鶺鴒基幹(せきれいきかん)が輝きを増している",")
-The core  is increasing",0.0625
-Go!,うるさい！ 灰翅！,noisy!Ashuhuho!,0.25
-No!!,う… うん,No,0.5
-Yes!,ストップ,stop,0.0
-We meet at such a bad time.,こんな時間に誰もいないなんて,There is no one in such a time,0.23076923076923078
+The core  is increasing",0.0625,0.11373254
+Go!,うるさい！ 灰翅！,noisy!Ashuhuho!,0.25,0.20657282
+No!!,う… うん,No,0.5,0.7066814
+Yes!,ストップ,stop,0.0,0.15224625
+We meet at such a bad time.,こんな時間に誰もいないなんて,There is no one in such a time,0.2307692307692308,0.37151134
 "The same goes for you, 05.","Ｍ･Ｂ･Ｉの軍隊とか
 いると思ったのに","M · B · i army or
-I thought I was",0.0
-This is bad.,すっかり囲まれておるぞ,It is completely surrounded,0.14285714285714285
+I thought I was",0.0,0.03771032
+This is bad.,すっかり囲まれておるぞ,It is completely surrounded,0.14285714285714285,0.060637817
 "Matsu-san, what happened?!","（電話:皆人）
-まっ 松さん？",Matsu-san?,0.3333333333333333
-Something has probably happened to them too.,廃棄ナンバー 君か,Discount number,0.0
-"You can't, Tsukiumi!",（焔）うっ！,!,0.16666666666666666
-What?,霧？,fog?,0.3333333333333333
-These people don't really want to fight.,（多姫(たき)）セキレイナンバー65 多姫,Sekirei Number 65 Motoya,0.0
-That's why...,は… はいです！,... Yes!,0.16666666666666666
+まっ 松さん？",Matsu-san?,0.3333333333333333,0.7378112
+Something has probably happened to them too.,廃棄ナンバー 君か,Discount number,0.0,0.01655443
+"You can't, Tsukiumi!",（焔）うっ！,!,0.16666666666666666,0.20777766
+What?,霧？,fog?,0.3333333333333333,0.12987442
+These people don't really want to fight.,（多姫(たき)）セキレイナンバー65 多姫,Sekirei Number 65 Motoya,0.0,-0.0021965364
+That's why...,は… はいです！,... Yes!,0.16666666666666666,0.21688524
 "It's you, right?","彼女の力を少しお借りしましたの
 いかが？","I borrowed her power a little
-How is it?",0.14285714285714285
-Ashikabi-sama!,なっ！,Come!,0.3333333333333333
-You bastards...!,松さん… 松さん！,Matsu-san ... Matsu-san!,0.4
-W-what just happened?,（皆人）松さん どうしたの？,What happened to Matsu-san?,0.2857142857142857
+How is it?",0.14285714285714285,0.18599766
+Ashikabi-sama!,なっ！,Come!,0.3333333333333333,0.25258327
+You bastards...!,松さん… 松さん！,Matsu-san ... Matsu-san!,0.4,0.13238263
+W-what just happened?,（皆人）松さん どうしたの？,What happened to Matsu-san?,0.2857142857142857,0.27896458
 "Anyways, let's make use of this.","ならば 我が まとめて
 こやつらの相手をしてやろうぞ！","If so,
-Let's do the other party of this!",0.3125
-It opened!,ダメだ 月海！,"It is no good, Moonkei!",0.25
-Oh? Closed for today?,（風花･皆人）あ？,Oh?,0.4
+Let's do the other party of this!",0.3125,0.3583065
+It opened!,ダメだ 月海！,"It is no good, Moonkei!",0.25,0.18878973
+Oh? Closed for today?,（風花･皆人）あ？,Oh?,0.4,0.3208472
 There's nobody here.,"よお 面白(おもしれ)えことしてんのは
 ここか？","It's funny 
-Is it here?",0.2222222222222222
-Minaka is playing with his toys again...,（くずり･くじか･しじめ）は〜い,is ~,0.1111111111111111
+Is it here?",0.2222222222222222,0.1615073
+Minaka is playing with his toys again...,（くずり･くじか･しじめ）は〜い,is ~,0.1111111111111111,0.16552055
 "Now, everyone.","おう！ 今
 バカっつったのは どいつだ！","King!now
-He is hit that he was!",0.09090909090909091
-"Let's go, Haihane!",（真田）でっ！,!,0.16666666666666666
-We will be punished if we lose again...,てっめえら…,Temple ...,0.1111111111111111
-Punished?,あ？ お前か？,Ah?Are you?,0.2
-"Next time, now and forever, too!",とにかく 今のうちじゃ,"Anyway, now",0.2222222222222222
+He is hit that he was!",0.09090909090909093,0.22421947
+"Let's go, Haihane!",（真田）でっ！,!,0.16666666666666666,0.24477918
+We will be punished if we lose again...,てっめえら…,Temple ...,0.1111111111111111,0.17431185
+Punished?,あ？ お前か？,Ah?Are you?,0.2,0.21809088
+"Next time, now and forever, too!",とにかく 今のうちじゃ,"Anyway, now",0.2222222222222222,0.4057674

@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Connecting old words</i>
 <i>that have been used up</i>","♬
  
@@ -6,7 +6,7 @@ en_text,jp_text,google_translated,score
 
 ","♬
  
-Now connect words",0.06666666666666667
+Now connect words",0.06666666666666668,0.57157856
 "<i>I just want to convey</i>
 <i>my simple thoughts</i>","♬
  
@@ -14,7 +14,7 @@ Now connect words",0.06666666666666667
 
 ","♬
  
-I just want to convey my thoughts",0.5833333333333334
+I just want to convey my thoughts",0.5833333333333334,0.65650606
 <i>That day's faint wind blows away</i>,"♬
  
 吹き抜ける
@@ -23,7 +23,7 @@ I just want to convey my thoughts",0.5833333333333334
 ","♬
  
 Blow through
-The wind of that day is",0.17647058823529413
+The wind of that day is",0.17647058823529413,0.71850526
 "<i>I'll laugh with you</i>
 <i>and live for the moment</i>","♬
  
@@ -35,7 +35,7 @@ The wind of that day is",0.17647058823529413
  
 Laugh with you
  
-Live now",0.26666666666666666
+Live now",0.26666666666666666,0.70497173
 "<i>Still that incident</i>
 <i>will continue to trouble you, right?</i>","♬
  
@@ -43,14 +43,14 @@ Live now",0.26666666666666666
 
 ","♬
  
-Will you suffer from you?",0.16666666666666666
+Will you suffer from you?",0.16666666666666666,0.39365226
 <i>That's why it must be good bye</i>,"♬
  
 だからこそサヨナラなんだ
 
 ","♬
  
-That's why it is a goodbye",0.25
+That's why it is a goodbye",0.25,0.67026657
 "<i>Leaving nothing behind,</i>
 <i>let us share what is left</i>","♬
  
@@ -58,7 +58,7 @@ That's why it is a goodbye",0.25
 
 ","♬
  
-Nothing remains as it is",0.1111111111111111
+Nothing remains as it is",0.1111111111111111,0.42120814
 "<i>In time, we'll realize</i>
 <i>that it was everything</i>","♬
  
@@ -66,7 +66,7 @@ Nothing remains as it is",0.1111111111111111
 
 ","♬
  
-I realize that it is everything",0.3125
+I realize that it is everything",0.3125,0.4916104
 "<i>And sadness will touch our cheeks,</i>
 <i>creating a river of tears</i>","♬
  
@@ -74,7 +74,7 @@ I realize that it is everything",0.3125
 
 ","♬
  
-Just become a river of tears",0.21052631578947367
+Just become a river of tears",0.21052631578947367,0.61679107
 "<i>Trembling thoughts swept into a vortex</i>
 <i>and melting away</i>","♬
  
@@ -82,7 +82,7 @@ Just become a river of tears",0.21052631578947367
 
 ","♬
  
-I'm melting",0.13333333333333333
+I'm melting",0.13333333333333333,0.40056193
 Okay! Drink! Sing!,"さぁさぁ
  
 飲めや
@@ -93,7 +93,7 @@ Okay! Drink! Sing!,"さぁさぁ
  
 Drinking
  
-Sing!",0.3333333333333333
+Sing!",0.3333333333333333,0.6114782
 "Good grief... This is too much for...
 a pre celebration.","前祝いにしちゃ
 派手に
@@ -105,10 +105,10 @@ a pre celebration.","前祝いにしちゃ
 Flashy
  
 It is too much
-.",0.25
+.",0.25,0.16895863
 Did you take care of the business?,"始末してきたか？
 
-",Did you have started?,0.3
+",Did you have started?,0.3,0.47138637
 "Shouldn't you quickly put an end
 to this farce of a race?","こんな茶番レース
  
@@ -118,19 +118,19 @@ to this farce of a race?","こんな茶番レース
 ","Such a tea ceremony
  
 quickly
-Aren't you finished?",0.2631578947368421
+Aren't you finished?",0.2631578947368421,0.3352392
 Fine.,"ええ
 ｡
 
 ","Yes
-.",0.3333333333333333
+.",0.3333333333333333,0.39805454
 Guess I'll go for a run!,"一っ走り
  
 行ってくるか！
 
 ","Run
  
-Do you go!",0.3
+Do you go!",0.3,0.67424005
 "It's a quite a long staircase,
 believe it.","かぁ～
  
@@ -142,7 +142,7 @@ believe it.","かぁ～
  
 Sluggish
 It is a staircase
-.",0.3076923076923077
+.",0.3076923076923077,0.50960755
 "They're also called
 the Stone Steps that Tear Hearts Apart.","(ｲﾀﾞﾃ)
 別名
@@ -155,7 +155,7 @@ the Stone Steps that Tear Hearts Apart.","(ｲﾀﾞﾃ)
  
 Stone stood of heart break
 Be called
-.",0.16666666666666666
+.",0.16666666666666666,0.56871307
 Let's go at a sprint!,"ヘッ
  
 おもしれぇ
@@ -166,7 +166,7 @@ Let's go at a sprint!,"ヘッ
  
 I'm sorry
  
-Go at once!",0.25
+Go at once!",0.25,0.2188523
 What kind of stamina does he have?,"(ｻｽｹ)
 どんなスタミナしてるんだ？
 あいつは
@@ -174,7 +174,7 @@ What kind of stamina does he have?,"(ｻｽｹ)
 
 ","What stamina do you do?
 Aya
-.",0.25
+.",0.25,0.648293
 Boss.,"(
 大政
 )
@@ -188,7 +188,7 @@ Boss.,"(
 ","boss
 .
 
-Yeah?",0.5
+Yeah?",0.5,0.7634522
 It seems Idate is heading this way!,"(
 大政
 )
@@ -198,10 +198,10 @@ It seems Idate is heading this way!,"(
 
 ","Idate's guy
 It seems to be headed here
-.",0.2
+.",0.2,0.79740614
 Of course...,"ドリャ～ラララ…！
 
-",Dora ~ Larala ...!,0.14285714285714285
+",Dora ~ Larala ...!,0.14285714285714285,0.19832347
 "<i>Now, it's just a little more!</i>
 <i>Run Idate!</i>","(
 次郎長
@@ -218,7 +218,7 @@ Of course...,"ドリャ～ラララ…！
 More
 Driving
  
-Idate!""",0.15789473684210525
+Idate!""",0.15789473684210525,0.40069622
 <i>A Fierce Battle of Rolling Thunder</i>,"(
 次郎長
 )
@@ -228,7 +228,7 @@ Idate!""",0.15789473684210525
 
 ","""Atsu
  
-A man who was expected",0.0625
+A man who was expected",0.0625,0.2029437
 Huh?,"(ｲﾀﾞﾃ)
 なぁ
  
@@ -240,7 +240,7 @@ Huh?,"(ｲﾀﾞﾃ)
  
 you…
 .
-Has?",0.16666666666666666
+Has?",0.16666666666666666,0.14899988
 "It's not like I trust you
 or anything yet, okay?","言っとくが
  
@@ -256,26 +256,26 @@ I'm still
  
 You
 I believe I'm not sure
-.",0.15789473684210525
+.",0.15789473684210525,0.35806364
 "Yeah, yeah whatever.","(ｲﾀﾞﾃ)
 ヘッ
 ｡
 
 ","Hem
-.",0.2
+.",0.2,0.1225293
 "<i>There's a person</i>
 <i>who still trusts you, right?!</i>","信じてくれる人が
 １人いるんだろ！＞
 
 ","There are people who believe
-There is one person!>",0.23809523809523808
+There is one person!>",0.2380952380952381,0.45631
 During the Chunin Exam...,"中忍試験の時…
 ｡
 あ？
 
 ","At the time of midway test ...
 .
-Ah?",0.15384615384615385
+Ah?",0.15384615384615385,0.41945332
 "You said that a tenth problem
 appeared, right?","あぁ
  
@@ -285,17 +285,17 @@ appeared, right?","あぁ
 ","Ahh
  
 Do you not receive a problem?
-What does it say?",0.2222222222222222
+What does it say?",0.2222222222222222,0.26585168
 "Yeah. It was a weird problem to determine
 whether you'd take the problem or not.","変な問題だったぜ
 ｡
 
 ","It was a strange problem
-.",0.29411764705882354
+.",0.29411764705882354,0.7392632
 Three years ago...,"(ｲﾀﾞﾃ)
 ３年前➡
 
-",3 years ago,0.4
+",3 years ago,0.4,0.79385924
 I got a similar problem...,"俺の時も
  
 似たような問題だった
@@ -304,7 +304,7 @@ I got a similar problem...,"俺の時も
 ","At my time
  
 It was a similar problem
-.",0.25
+.",0.25,0.672373
 <i>The tenth problem...</i>,"(ｲﾋﾞｷ)
 ＜よし
 これから第
@@ -314,7 +314,7 @@ It was a similar problem
 ","<Good
 From now on
 Ten
-Get questions>",0.13333333333333333
+Get questions>",0.13333333333333333,0.35614634
 "<i>What kind of problem is</i>
 <i>Big Brother going to give?!</i>","兄貴は
  
@@ -324,11 +324,11 @@ Get questions>",0.13333333333333333
 ","My brother
  
 What problems
-I'm going to put out?""",0.2727272727272727
+I'm going to put out?""",0.2727272727272727,0.53221
 "And among you...
 one of you will be failed!","その中の１人は確実に➡
 
-",One of them is surely ➡,0.14285714285714285
+",One of them is surely ➡,0.14285714285714285,0.38707775
 "Then for what purpose
 were we together until now?","(
 忍１
@@ -349,7 +349,7 @@ Such!>
 
 <Well then
  
-For what",0.1875
+For what",0.1875,0.2459493
 I make the rules here.,"(ｲﾋﾞｷ)
 ＜ここでは
  
@@ -363,7 +363,7 @@ I make the rules here.,"(ｲﾋﾞｷ)
 I am a rule
 All answers
  
-Human",0.15384615384615385
+Human",0.15384615384615385,0.48866087
 "If you want to withdraw,
 you should do so.","(ｲﾋﾞｷ)
 ＜棄権をしたければ
@@ -372,7 +372,7 @@ you should do so.","(ｲﾋﾞｷ)
 
 ","<If you want to abstain
  
-Good if you do",0.38461538461538464
+Good if you do",0.38461538461538464,0.31022462
 "Withdrawing here and
 waiting half a year is also a way.","＜ここで棄権し
 半年後を待つのも手だぞ
@@ -382,13 +382,13 @@ waiting half a year is also a way.","＜ここで棄権し
 ","<Abandoned here
 It is also good to wait for half a year later
 .
-➡",0.35
+➡",0.35,0.4576632
 "If one person among
 the three withdraws,","３人の中で１人でも
 棄権した者が出た場合➡
 
 ","Even in three people alone
-If a person who abstressed comes out",0.17647058823529413
+If a person who abstressed comes out",0.17647058823529413,0.48942816
 "of course all three members
 will be disqualified.","もちろん全員失格
 ｡
@@ -396,7 +396,7 @@ will be disqualified.","もちろん全員失格
 
 ","Of course all disqualification
 .
-➡",0.36363636363636365
+➡",0.3636363636363637,0.6432187
 "But you will be allowed
 to take the Chunin Exam","中忍試験を
 受けることが許される
@@ -406,7 +406,7 @@ to take the Chunin Exam","中忍試験を
 ","Nakanobu test
 Be allowed to receive
 .
-➡",0.2
+➡",0.2,0.44732094
 "one more time, in half a year.","だが
  
 半年後に
@@ -417,21 +417,21 @@ Be allowed to receive
  
 Half a year later
  
-Once again",0.23076923076923078
+Once again",0.2307692307692308,0.7608663
 "So, what will you do?","さぁ
  
 どうする？＞
 
 ","In
  
-what will you do?>",0.5555555555555556
+what will you do?>",0.5555555555555556,0.654431
 "<i>But, one of them will remain</i>
 <i>a Genin for life.</i>","(ｲﾀﾞﾃ)
 《でも
 あいつらのどちらか１人は➡
 
 ","""but
-One of them is one of them",0.23529411764705882
+One of them is one of them",0.2352941176470588,0.37386712
 "It's a choice between
 comrades and your life.","＜仲間と人生を懸けた選択だ
 ｡
@@ -439,7 +439,7 @@ comrades and your life.","＜仲間と人生を懸けた選択だ
 
 ","<It is a choice who has a life with friends
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.56084675
 "If you're going to quit,
 now's the time.","やめるなら
  
@@ -447,14 +447,14 @@ now's the time.","やめるなら
 
 ","If you stop
  
-Now>",0.21428571428571427
+Now>",0.21428571428571427,0.53565794
 "Is there nobody else
 who's going to withdraw?","(ｲﾋﾞｷ)
 ＜棄権する者は
 もういないのか？＞
 
 ","The person who abstained
-Is there any more?>",0.25
+Is there any more?>",0.25,0.39624193
 "Okay, to everyone who
 has remained here...","＜では
  
@@ -464,14 +464,14 @@ has remained here...","＜では
 ","<In
  
 Person who remained here
-To everyone ... ➡",0.46153846153846156
+To everyone ... ➡",0.4615384615384616,0.5772813
 Wh-Why...?,"＜な…
  
 何で？＞
 
 ","<...
  
-why?>",0.3333333333333333
+why?>",0.3333333333333333,0.5113704
 H-Hold on a minute!,"(
 忍３
 )
@@ -481,7 +481,7 @@ H-Hold on a minute!,"(
 
 ","<Cho ...
  
-wait a moment!>",0.18181818181818182
+wait a moment!>",0.18181818181818185,0.40174478
 I prepared myself and remained here!,"(
 忍４
 )
@@ -489,15 +489,15 @@ I prepared myself and remained here!,"(
 ここに残ったんだぞ!?＞
 
 ","<I'm prepared here
-I left here!?>",0.3333333333333333
+I left here!?>",0.3333333333333333,0.6866341
 Such preparedness is below contempt!,"貴様らみてぇなカスに
 中忍になる資格なんてねえ！➡
 
 ","Only a bad cass
-It is qualification to be Nakanobu!➡",0.125
+It is qualification to be Nakanobu!➡",0.125,0.23521058
 That's all!,"失格を言い渡す！＞
 
-",Watch out of disqualry!>,0.1111111111111111
+",Watch out of disqualry!>,0.1111111111111111,0.18232083
 "What kind of a test was it
 for you guys?","お前らの時は
  
@@ -505,12 +505,12 @@ for you guys?","お前らの時は
 
 ","When you are
  
-What kind of test was it?",0.6153846153846154
+What kind of test was it?",0.6153846153846154,0.86249834
 I forgot...,"う～ん…
 ｡
 
 ","Hmm ...
-.",0.2
+.",0.2,0.3209283
 "Trusting in my big brother's words,
 I remained in the classroom.","(ｲﾀﾞﾃ)
 俺は
@@ -525,18 +525,18 @@ I remained in the classroom.","(ｲﾀﾞﾃ)
 Believe in the words of my brother
 I left in the classroom
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.6836235
 And yet I was failed!,"すっかり忘れちまった
 ｡
 
 ","I was completely forgotten
-.",0.2222222222222222
+.",0.2222222222222222,0.30728415
 "No way could I take that.
 I questioned my big brother.","俺は兄貴に問いただした
 ｡
 
 ","I asked my brother
-.",0.3333333333333333
+.",0.3333333333333333,0.534029
 "Big Brother!
 What's up with that test?!","＜兄貴
  
@@ -548,7 +548,7 @@ What's up with that test?!","＜兄貴
  
 What
  
-That exam!>",0.2857142857142857
+That exam!>",0.2857142857142857,0.6268072
 A Shinobi reads the double bluff.,"(ｲﾋﾞｷ)
 ＜忍は裏の裏を読め
 ｡
@@ -556,7 +556,7 @@ A Shinobi reads the double bluff.,"(ｲﾋﾞｷ)
 
 ","<Shinobu Reads the back of the back
 .
-➡",0.25
+➡",0.25,0.63299155
 "You should've understood
 that was the test.","それは
  
@@ -566,13 +566,13 @@ that was the test.","それは
 ","that is
  
 Through that test
-You should have understood>",0.38461538461538464
+You should have understood>",0.38461538461538464,0.8038874
 "isn't it necessary to have
 the courage to plunge into any mission?!","飛び込んでく
 勇気が必要なんじゃねえのか!?＞
 
 ","Dive into
-Do you need courage??>",0.15789473684210525
+Do you need courage??>",0.15789473684210525,0.61049724
 Idate.,"(ｲﾋﾞｷ)
 ＜イダテ
 ｡
@@ -580,10 +580,10 @@ Idate.,"(ｲﾋﾞｷ)
 
 ","<Idate
 .
-➡",0.5
+➡",0.5,0.73695105
 Can you really not accept it?,"本当に納得が行かないのか？＞
 
-",Isn't it really convincing?>,0.2727272727272727
+",Isn't it really convincing?>,0.2727272727272727,0.19884528
 You... quit as a Ninja.,"(ｲﾋﾞｷ)
 ＜お前
  
@@ -591,7 +591,7 @@ You... quit as a Ninja.,"(ｲﾋﾞｷ)
 
 ","<You
  
-Stop Ninja>",0.2
+Stop Ninja>",0.2,0.7730676
 "If you're telling me to quit,
 then I will.","(ｲﾀﾞﾃ)
 ＜やめろって言うなら
@@ -602,7 +602,7 @@ then I will.","(ｲﾀﾞﾃ)
 ","<If you say
 Stop
 .
-➡",0.1875
+➡",0.1875,0.41100016
 But tell me why I'm no good!,"だけど
  
 どうして俺がダメなのか
@@ -611,7 +611,7 @@ But tell me why I'm no good!,"だけど
 ","However
  
 Why is I am no good
-teach me!>",0.42857142857142855
+teach me!>",0.42857142857142855,0.6518368
 "That's something you should
 realize yourself,","＜当然だろ
  
@@ -619,10 +619,10 @@ realize yourself,","＜当然だろ
 
 ","<Naturally
  
-That's ...>",0.16666666666666666
+That's ...>",0.16666666666666666,0.27641863
 with your own power.,"自分自身の力で気付くものだ＞
 
-",I notice with my own power>,0.3333333333333333
+",I notice with my own power>,0.3333333333333333,0.51681745
 "To this day... I don't understand
 the answer to that.","いまだに
 あの時の答えは分からねえ
@@ -630,7 +630,7 @@ the answer to that.","いまだに
 
 ","Still
 I know the answer at that time
-.",0.3125
+.",0.3125,0.45616007
 "So after that,
 you were deceived by Aoi, huh?","そのあと
  
@@ -640,7 +640,7 @@ you were deceived by Aoi, huh?","そのあと
 ","after that
  
 In Aoi
-Did you get rid of it?",0.29411764705882354
+Did you get rid of it?",0.29411764705882354,0.5846842
 "Yeah, that's right.","ああ
  
 そうだ…
@@ -649,7 +649,7 @@ Did you get rid of it?",0.29411764705882354
 ","Ah
  
 That's it…
-.",0.375
+.",0.375,0.46734285
 We made it... to the top!,"そ～ら
  
 着いたぞ
@@ -662,7 +662,7 @@ We made it... to the top!,"そ～ら
 I arrived
  
 The top ...
-.",0.25
+.",0.25,0.5075468
 "I'm going by myself from here.
 You rest!","こっからは俺一人で行く
 お前は休んでろ
@@ -670,7 +670,7 @@ You rest!","こっからは俺一人で行く
 
 ","Going alone I will go alone
 You are resting
-.",0.25
+.",0.25,0.6133568
 Huh?! You still saying stuff like that?!,"あ？
  
 お前
@@ -683,7 +683,7 @@ Huh?! You still saying stuff like that?!,"あ？
 you
 not yet
  
-Do you say that?",0.21428571428571427
+Do you say that?",0.21428571428571427,0.44337675
 "There's no point if I don't win by myself,
 on my own strength!","自分で…
  
@@ -693,7 +693,7 @@ on my own strength!","自分で…
 ","by myself…
  
 With your own power
-I have to win, I have a meaning!",0.24
+I have to win, I have a meaning!",0.24,0.71792233
 Oh... hey! Idate!,"あっ
  
 おい
@@ -704,14 +704,14 @@ Oh... hey! Idate!,"あっ
  
 Oi
  
-Idate!",0.2857142857142857
+Idate!",0.2857142857142857,0.68984723
 Blast!,"ぐっ！
  
 くそっ！➡
 
 ","!
  
-Come!➡",0.25
+Come!➡",0.25,0.43175742
 "If we cross this suspension bridge,
 it's Ouzu Island, huh?","この
  
@@ -723,7 +723,7 @@ it's Ouzu Island, huh?","この
  
 If you cross the branch bridge
 Ows Island
-.",0.2777777777777778
+.",0.2777777777777778,0.6158304
 "It seems Idate has made it
 to the Modoroki Shrine.","イダテのヤツが
 藻土呂木神社まで来たようです
@@ -731,14 +731,14 @@ to the Modoroki Shrine.","イダテのヤツが
 
 ","Idate's guy
 It seems to come to the bargain earthworm shrine
-.",0.4666666666666667
+.",0.4666666666666667,0.6709802
 What?!,"何!?
 (ｱｵｲ)
 木ノ葉の下忍を➡
 
 ","what!?
 
-Shimonobu of the tree",0.42857142857142855
+Shimonobu of the tree",0.42857142857142855,0.25085676
 "It seems we underestimated
 the Leaf Genin a bit...","少々
   
@@ -748,7 +748,7 @@ the Leaf Genin a bit...","少々
 ","a little
   
 It seems to have been scolded
-.",0.1875
+.",0.1875,0.21040185
 "You jerk!
 You didn't finish them?!","このくそ野郎！
  
@@ -758,7 +758,7 @@ You didn't finish them?!","このくそ野郎！
 ","This Koiso!
  
 You
-Didn't you start it properly?",0.38461538461538464
+Didn't you start it properly?",0.38461538461538464,0.31364048
 "Now's not the time to be talking
 about stuff like that.","(ｱｵｲ)
 今は
@@ -773,7 +773,7 @@ about stuff like that.","(ｱｵｲ)
 That thing
 It is not the case
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.36303705
 Please cross the bridge quickly!,"早く橋を渡ってください
 ｡
 (ﾌｸｽｹ)
@@ -788,7 +788,7 @@ Please cross the bridge quickly!,"早く橋を渡ってください
 Geez
  
 It is a ninja
-.",0.3076923076923077
+.",0.3076923076923077,0.6094719
 "I'll waste you if you keep
 talking smart to me.","おい
  
@@ -800,7 +800,7 @@ talking smart to me.","おい
  
 Because I work
 I just help me
-.",0.1875
+.",0.1875,0.23257056
 I-I'm sorry...,"(ﾌｸｽｹ)
 うっ…
  
@@ -814,7 +814,7 @@ I-I'm sorry...,"(ﾌｸｽｹ)
 vinegar…
  
 I'm sorry ...
-.",0.375
+.",0.375,0.40057114
 "If you've understood,
 then get a move on!","(ｱｵｲ)
 分かったら
@@ -831,7 +831,7 @@ I will go!
 
 teeth…
  
-Yes!",0.17647058823529413
+Yes!",0.17647058823529413,0.20272097
 <i>There he is! That Fukusuke jerk!</i>,"(ｲﾀﾞﾃ)
 《いた！
  
@@ -839,7 +839,7 @@ Yes!",0.17647058823529413
 
 ","""board!
  
-It is a bastard of Fukusuke!""",0.16666666666666666
+It is a bastard of Fukusuke!""",0.16666666666666666,0.6538813
 "I never thought
 you'd make it this far.","これ以上
  
@@ -851,7 +851,7 @@ you'd make it this far.","これ以上
  
 Gap
 I'm going
-.",0.2
+.",0.2,0.3278974
 "<i>That's the...</i>
 <i>Blade of the Thunder God!</i>","(ｲﾀﾞﾃ)
 《あれは
@@ -860,7 +860,7 @@ I'm going
 
 ","""That is
  
-Thunder god's sword ... """,0.3125
+Thunder god's sword ... """,0.3125,0.65845704
 Stop!,"やめろ！
 (ｱｵｲ)
 フン
@@ -869,7 +869,7 @@ Stop!,"やめろ！
 ","Stop!
 
 Hung
-.",0.5
+.",0.5,0.56366897
 "Nobody is a match for
 the legendary Blade of the Thunder God,","二代目火影が使ったといわれる
 伝説の刀
@@ -879,7 +879,7 @@ the legendary Blade of the Thunder God,","二代目火影が使ったといわ�
 ","It is said that the second generation
 Legendary sword
  
-The sword of thunder god",0.3333333333333333
+The sword of thunder god",0.3333333333333333,0.66403997
 You should know this well.,"(ｱｵｲ)
 お前も
  
@@ -891,7 +891,7 @@ You should know this well.,"(ｱｵｲ)
  
 You should know well
 .
-➡",0.625
+➡",0.625,0.5562472
 "Sorry, I didn't have
 any Kunai Knives.","悪ぃな！
  
@@ -901,13 +901,13 @@ any Kunai Knives.","悪ぃな！
 ","Bad!
  
 There is no Kunai
-.",0.13333333333333333
+.",0.13333333333333333,0.59314036
 Naruto...,"ナルト！
 
-",Naruto!,0.3333333333333333
+",Naruto!,0.3333333333333333,0.89811635
 Shadow Clone Jutsu!,"影分身の術！
 
-",Shadow Subordination!,0.4
+",Shadow Subordination!,0.4,0.55195224
 "He's concentrating
 the Chakra in his palm.","チャクラを
 手のひらに集中させてる
@@ -915,10 +915,10 @@ the Chakra in his palm.","チャクラを
 
 ","Chakra
 I am concentrated on the palm
-.",0.3076923076923077
+.",0.3076923076923077,0.761843
 Here I come!,"行くぞ～！
 
-",I'll go ~!,0.2857142857142857
+",I'll go ~!,0.2857142857142857,0.36028722
 "I don't know what
 you intend to do, but...","フフフ…
 何をするつもりか知らんが…
@@ -926,14 +926,14 @@ you intend to do, but...","フフフ…
 
 ","Fuhufu ...
 I do not know what to do ...
-.",0.42857142857142855
+.",0.42857142857142855,0.3998851
 Ninja Art: Senbon Rainstorm!,"忍法
  
 如雨露千本！
 
 ","Ninja method
  
-Hitomi Suiwaku!",0.2222222222222222
+Hitomi Suiwaku!",0.2222222222222222,0.50104374
 "This Blade of the Thunder God
 cuts through anything","この雷神の剣は
 どんなものでも切り裂く
@@ -941,15 +941,15 @@ cuts through anything","この雷神の剣は
 
 ","The sword of this thunder god is
 Anything cuts
-.",0.5833333333333334
+.",0.5833333333333334,0.869211
 Even Chakra itself is no exception.,"チャクラの塊でも例外ではない
 ｡
 
 ","It is not an exception even with chakra chunks
-.",0.4166666666666667
+.",0.4166666666666667,0.8608575
 Naruto!,"ドリャ～！
 
-",Dora ~!,0.25
+",Dora ~!,0.25,0.39656088
 "I'm your opponent!
 Keep your hands off Idate!","てめぇの相手は
  
@@ -959,7 +959,7 @@ Keep your hands off Idate!","てめぇの相手は
 ","The other party of Temeshi
  
 This is me
-I'm not going to Idate!",0.2
+I'm not going to Idate!",0.2,0.33811718
 "The weak can't survive
 if they don't support each other.","弱いヤツらは
  
@@ -971,7 +971,7 @@ if they don't support each other.","弱いヤツらは
  
 If not supported
 Do not live
-.",0.25
+.",0.25,0.6924667
 "So they trust people easily
 and are betrayed.","だから
  
@@ -989,7 +989,7 @@ and
  
 Be betrayed
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.6008541
 "Weaklings like you guys
 should just run about and away.","お前らみたいな弱いヤツは
 逃げ回ってりゃいいんだ
@@ -999,13 +999,13 @@ should just run about and away.","お前らみたいな弱いヤツは
 ","The weak guy like you
 It would be nice to run away
 .
-➡",0.25
+➡",0.25,0.66258806
 "Right, Idate?","そうだったよな？
 
-",That was right?,0.3333333333333333
+",That was right?,0.3333333333333333,0.32921094
 "this Blade of the Thunder God, right?","この雷神の剣を盗み出した時も➡
 
-",When I steal the sword of this thunder god ➡,0.35714285714285715
+",When I steal the sword of this thunder god ➡,0.35714285714285715,0.6339588
 "I can see it.
 That's the Village Hidden in the Rain.","＜見えたぞ
 あれが雨隠れの里だ
@@ -1015,10 +1015,10 @@ That's the Village Hidden in the Rain.","＜見えたぞ
 ","<I saw it
 That's a village of the rain
 .
-➡",0.47058823529411764
+➡",0.4705882352941176,0.75762784
 Aoi Sensei!,"アオイ先生！＞
 
-",Aoi sensei!>,0.75
+",Aoi sensei!>,0.75,0.977236
 Idate...,"なぁ
  
 イダテ
@@ -1029,7 +1029,7 @@ Idate...,"なぁ
  
 Idate
 .
-➡",0.2
+➡",0.2,0.59516996
 "Go back to the village immediately
 and surrender yourself!","＜このバカ者！
  
@@ -1039,24 +1039,24 @@ and surrender yourself!","＜このバカ者！
 ","<This stupid!
  
 Return to the village soon
-I'm addicted!>",0.21052631578947367
+I'm addicted!>",0.21052631578947367,0.6124435
 You?!,"ん!?＞
 
-",!?>,0.5
+",!?>,0.5,0.5176519
 Aoi Sensei...,"＜アオイ先生…＞
 
-",<Aoi sensei ...>,0.6
+",<Aoi sensei ...>,0.6,0.91861326
 "This forbidden Jutsu scroll
 can't be deciphered","(ｱｵｲ)
 ＜この禁術の巻物は➡
 
-",<This scroll of this disguise is ➡,0.15384615384615385
+",<This scroll of this disguise is ➡,0.15384615384615385,0.4027694
 "I'll have the brothers
 betray the Leaf Village together.","兄弟そろって
 木ノ葉を裏切ってもらいますよ＞
 
 ","In the brothers
-I will be betrayed by the tree>",0.17647058823529413
+I will be betrayed by the tree>",0.17647058823529413,0.7160525
 "Ibiki, please decipher it already.","＜イビキさん
  
 いいかげん
@@ -1065,24 +1065,24 @@ I will be betrayed by the tree>",0.17647058823529413
 ","<Ibiki
  
 Good
-Please decode>>",0.18181818181818182
+Please decode>>",0.18181818181818185,0.58545655
 I refuse.,"(ｲﾋﾞｷ)
 ＜断る＞
 
-",<Refuse>,0.2
+",<Refuse>,0.2,0.44093454
 "So are you choosing death,
 together with Idate?","＜死を選ぶんですか？
 イダテと一緒に＞
 
 ","<Do you choose death?
-With Idate>",0.35714285714285715
+With Idate>",0.35714285714285715,0.89497435
 This face is one taut with fear.,"この顔は恐怖に
  
 ひきつった顔だ＞
 
 ","This face is fear
  
-It is a fearful face>",0.3333333333333333
+It is a fearful face>",0.3333333333333333,0.76456004
 "I'm quitting as a Ninja!
 So please don't kill me!","＜忍者なんか
  
@@ -1092,14 +1092,14 @@ So please don't kill me!","＜忍者なんか
 ","<Ninja
  
 gave up!
-I stop ninja!➡",0.16666666666666666
+I stop ninja!➡",0.16666666666666666,0.7357884
 Please decipher it.,"＜読み解いてくださいよ
 ｡
 ➡
 
 ","<Please read again
 .
-➡",0.25
+➡",0.25,0.20153178
 "You don't want to see
 your cute little brother killed","目の前で
  
@@ -1109,10 +1109,10 @@ your cute little brother killed","目の前で
 ","In front of you
  
 Cute younger brother
-Where to be killed",0.29411764705882354
+Where to be killed",0.29411764705882354,0.7170919
 Big Brother...,"＜兄貴…＞
 
-",<My brother ...>,0.3333333333333333
+",<My brother ...>,0.3333333333333333,0.5055764
 Such a threat means nothing to me.,"＜俺には
  
 その程度の脅しなど
@@ -1121,7 +1121,7 @@ Such a threat means nothing to me.,"＜俺には
 ","<For me
  
 That degree of threat
-Unpleted>",0.13333333333333333
+Unpleted>",0.13333333333333333,0.6207163
 "Hey, Ibiki, is the Village Hidden
 in the Leaves that important?","(ｱｵｲ)
 ＜おい
@@ -1136,7 +1136,7 @@ in the Leaves that important?","(ｱｵｲ)
 Ibiki
 The village of the tree
  
-Is it so important?>",0.3888888888888889
+Is it so important?>",0.3888888888888889,0.8081723
 "So that's why
 you became a traitor?","＜フッ
  
@@ -1150,51 +1150,51 @@ you became a traitor?","＜フッ
 that's why
 Are you betrayed?
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.31069264
 You're a pathetic man!,"てめぇなんか
 ただの駒じゃねえか！＞
 
 ","Somehow
-It's just a piece!>",0.16666666666666666
+It's just a piece!>",0.16666666666666666,0.1327418
 Idate!,"＜イダテ！➡
 
-",<Idate!➡,0.5
+",<Idate!➡,0.5,0.8028154
 "You, run away!","お前は逃げろ！＞
 
-",You run away!>,0.6666666666666666
+",You run away!>,0.6666666666666666,0.8234224
 "What about you, Big Brother?","＜兄貴は？＞
 
-",<What is your brother?>,0.2727272727272727
+",<What is your brother?>,0.2727272727272727,0.54962397
 "I'll go, after I clean up
 the mess here!","(ｲﾋﾞｷ)
 ＜俺は後始末をつけてから行く＞
 
-",<I will go after the start of the start>,0.25
+",<I will go after the start of the start>,0.25,0.32273394
 I don't think so!,"(ｱｵｲ)
 ＜そうはいくか！＞
 
-",<So how do you go!>,0.2727272727272727
+",<So how do you go!>,0.2727272727272727,0.15963714
 But Big Brother...!,"＜でも
  
 兄貴！＞
 
 ","<But
  
-Big brother!>",0.5714285714285714
+Big brother!>",0.5714285714285714,0.8773489
 Go! Having you stay is a burden!,"＜行け！
  
 お前がいると邪魔だ！＞
 
 ","<Go!
  
-It is in the way that you are!>",0.25
+It is in the way that you are!>",0.25,0.48574877
 Go!,"＜兄貴！＞
 (ｲﾋﾞｷ)
 ＜早く行け！＞
 
 ","<My brother!>
 
-<Go early!>",0.2857142857142857
+<Go early!>",0.2857142857142857,0.3411306
 "that he'd risk
 his life for such an idiotic guy.","こんなバカなヤツのために
 命を懸けるとはな
@@ -1202,7 +1202,7 @@ his life for such an idiotic guy.","こんなバカなヤツのために
 
 ","For such stupid guys
 It is not a life
-.",0.2222222222222222
+.",0.2222222222222222,0.36800295
 "All you could do after that
 was run.","お前は
  
@@ -1216,7 +1216,7 @@ was run.","お前は
 after that
  
 Just running away
-.",0.3076923076923077
+.",0.3076923076923077,0.43913412
 "You could've returned
 to the village and called for help.","里に戻って
 助けを呼ぶこともできたはずだ
@@ -1224,7 +1224,7 @@ to the village and called for help.","里に戻って
 
 ","Return to a village
 You should have also called help
-.",0.35294117647058826
+.",0.35294117647058826,0.85512185
 But you didn't do that.,"しかし
  
 それをしなかった
@@ -1235,7 +1235,7 @@ But you didn't do that.,"しかし
  
 It did not do that
 .
-➡",0.36363636363636365
+➡",0.3636363636363637,0.5000634
 "The fact is, he was alive...","…などという言い訳は利かん
 事実
  
@@ -1246,7 +1246,7 @@ It did not do that
 fact
  
 Because it was alive
-.",0.3076923076923077
+.",0.3076923076923077,0.7673704
 "In that regard,
 Ibiki was admirable.","その点
  
@@ -1256,17 +1256,17 @@ Ibiki was admirable.","その点
 ","That point
  
 Ibiki was good
-.",0.4
+.",0.4,0.7927543
 "Not only did he completely endure
 repeated interrogation,","たび重なる
 拷問に耐え抜いたばかりでなく➡
 
 ","Fully
-Not only withstand torture",0.16666666666666666
+Not only withstand torture",0.16666666666666666,0.45936906
 "And to think that he did
 all this","それもこれも➡
 
-",That is also this too,0.18181818181818182
+",That is also this too,0.18181818181818185,0.20181243
 "You betrayed your village,
 abandoned your older brother,","お前は里を裏切り
  
@@ -1274,14 +1274,14 @@ abandoned your older brother,","お前は里を裏切り
 
 ","You betray the village
  
-Abandoned the big brother",0.36363636363636365
+Abandoned the big brother",0.3636363636363637,0.8017538
 and came to think of only yourself.,"自分のことだけしか
 考えられなくなった
 ｡
 
 ","Only myself
 I can not think
-.",0.25
+.",0.25,0.5350013
 "Even Ibiki who is blood-related
 and risked his life to save you,","血を分けた
  
@@ -1291,7 +1291,7 @@ and risked his life to save you,","血を分けた
 ","Bloody
  
 You
-Even Ibiki helped with life",0.25
+Even Ibiki helped with life",0.25,0.7474622
 "you didn't trust the Village Hidden
 in the Leaves, your birthplace...","お前は生まれ故郷である
 木ノ葉の里を信じなかった
@@ -1301,14 +1301,14 @@ in the Leaves, your birthplace...","お前は生まれ故郷である
 ","You are born and hometown
 I did not believe in the village of the wood
 .
-➡",0.20833333333333334
+➡",0.20833333333333331,0.6718318
 You're not trusted by anyone.,"お前は信じなかった
 ｡
 ➡
 
 ","You did not believe
 .
-➡",0.3
+➡",0.3,0.40086016
 "For me, there is no pupil
 as excellent as you.","俺にとって
 お前ほど優秀な生徒はいない
@@ -1316,13 +1316,13 @@ as excellent as you.","俺にとって
 
 ","For me
 There is no excellent student you
-.",0.6666666666666666
+.",0.6666666666666666,0.5002458
 "As a reward,
 I'll let you die in one instant.","褒美に一瞬で死なせてやるよ
 ｡
 
 ","I will die in an instant for rewards
-.",0.29411764705882354
+.",0.29411764705882354,0.83053356
 Sasuke... Sakura!,"イダテさん！
 サスケ！
  
@@ -1331,7 +1331,7 @@ Sasuke... Sakura!,"イダテさん！
 ","Idate!
 Sasuke!
  
-Sakura-chan!",0.3333333333333333
+Sakura-chan!",0.3333333333333333,0.8923987
 "Rest, Naruto!","休んでろ
  
 ナルト
@@ -1340,19 +1340,19 @@ Sakura-chan!",0.3333333333333333
 ","Rest
  
 Naruto
-.",0.4
+.",0.4,0.94206476
 I'll beat this guy!,"こいつは
  
 俺が倒す！
 
 ","This guy
  
-I beat!",0.8333333333333334
+I beat!",0.8333333333333334,0.79303396
 Interesting.,"おもしろいじゃねえか
 ｡
 
 ","Isn't it interesting?
-.",0.3333333333333333
+.",0.3333333333333333,0.36490834
 "The Blade of the Thunder God
 and my Chidori!","雷神の剣と
  
@@ -1360,14 +1360,14 @@ and my Chidori!","雷神の剣と
 
 ","With the sword of thunder god
  
-This is my cheetle and ➡",0.4
+This is my cheetle and ➡",0.4,0.6175956
 Let's test which is better!,"どっちが上か
  
 試してやるぜ！
 
 ","Which one is up
  
-Try it!",0.2727272727272727
+Try it!",0.2727272727272727,0.5113894
 The rumors were true.,"フン
  
 うわさは本当だったな
@@ -1376,7 +1376,7 @@ The rumors were true.,"フン
 ","Hung
  
 The rumor was true
-.",0.375
+.",0.375,0.7208519
 "The survivor of the village's honorable
 Uchiha Clan...","里の名門
  
@@ -1386,10 +1386,10 @@ Uchiha Clan...","里の名門
 ","Prestigious
  
 Of the family members
-I survived",0.14285714285714285
+I survived",0.14285714285714285,0.37280673
 Sasuke!,"あ～！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.2668285
 "Run, Sakura!","サスケ君！
 (ｲﾀﾞﾃ)
 サクラさん
@@ -1400,24 +1400,24 @@ Sasuke!,"あ～！
 
 Mr. Sakura
  
-Run away!➡",0.375
+Run away!➡",0.375,0.77804124
 "He'll show no mercy,
 no matter who the person is.","いちばん出来の悪いヤツだってな
 ｡
 
 ","It is a bad guy who is the best
-.",0.23529411764705882
+.",0.2352941176470588,0.24557334
 Everyone will be killed!,"皆殺しにされちまう！
 
-",It will be killed by everyone!,0.7142857142857143
+",It will be killed by everyone!,0.7142857142857143,0.849569
 Huh?!,"嫌よ！
 えっ？
 
 ","I hate it!
-eh?",0.2857142857142857
+eh?",0.2857142857142857,0.32193273
 "and the excellent pupil, huh?","あとは手負いのうさぎちゃんと➡
 
-","After that, the handling rabbit and",0.2727272727272727
+","After that, the handling rabbit and",0.2727272727272727,0.14159426
 "You two together,
 go to the next world.","２人そろって
  
@@ -1427,21 +1427,21 @@ go to the next world.","２人そろって
 ","There are two people
  
 Go to that world
-.",0.35714285714285715
+.",0.35714285714285715,0.5449053
 What're you talking about?,"(ｱｵｲ)
 何をだ？
 
-",What is it?,0.25
+",What is it?,0.25,0.25347838
 earlier!,"あたしたちを信じて！
 
-",Believe in me!,0.2
+",Believe in me!,0.2,0.2665951
 Sasuke! Get up!,"サスケ君
  
 起きて！
 
 ","Sasuke
  
-wake up!",0.6
+wake up!",0.6,0.8802986
 "How very cold the bottom
 of the ocean must be.","海の底は
  
@@ -1451,10 +1451,10 @@ of the ocean must be.","海の底は
 ","The bottom of the sea is
  
 I'm cool
-.",0.26666666666666666
+.",0.26666666666666666,0.61457205
 Sakura!,"サクラちゃ～ん！
 
-",Sakura!,1.0
+",Sakura!,1.0,1.0
 "<i>Shake shake shake</i>
 <i>Let's look</i>","♬
  
@@ -1462,7 +1462,7 @@ Sakura!,"サクラちゃ～ん！
 
 ","♬
  
-I am sometime",0.09090909090909091
+I am sometime",0.09090909090909093,0.2847711
 "That sword of the Second Hokage
 won't budge an inch","♬
  
@@ -1472,4 +1472,4 @@ won't budge an inch","♬
 ","♬
  
 Not over
-In the rhythm of bye",0.11764705882352941
+In the rhythm of bye",0.1176470588235294,0.23797947

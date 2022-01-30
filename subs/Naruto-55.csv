@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.69996905
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.62335306
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852413
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.75999033
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372733
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.3079108
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522565
 I'm researching now.,"(
 女性１
 )
@@ -79,10 +79,10 @@ I'm researching now.,"(
 
 ","I'm sorry!
 
-stop!",0.25
+stop!",0.25,0.10083803
 Do it yourself!,"ハハハハ…！
 
-",Hahahaha ...!,0.16666666666666666
+",Hahahaha ...!,0.16666666666666666,0.14985232
 What part of that's a frog?!,"(
 自来也
 )
@@ -92,7 +92,7 @@ What part of that's a frog?!,"(
 
 ","Yeah?
  
-What happened?",0.18181818181818182
+What happened?",0.18181818181818185,0.096311934
 "If you don't get serious,
 I won't help you!","真面目にやらんと
 面倒
@@ -102,7 +102,7 @@ I won't help you!","真面目にやらんと
 ","Seriously
 Troublesome
  
-See you!",0.14285714285714285
+See you!",0.14285714285714285,0.25709257
 That's what I'm doing!,"うるせぇな！
  
 こっちだって
@@ -111,10 +111,10 @@ That's what I'm doing!,"うるせぇな！
 ","Urusei!
  
 Here
-I'm really doing it!",0.36363636363636365
+I'm really doing it!",0.3636363636363637,0.42830464
 Sasuke...,"《サスケ君…》
 
-","""Sasuke-kun ...""",0.2
+","""Sasuke-kun ...""",0.2,0.7311654
 Hey Sakura!,"≪
 (ｻｸﾗ
 の母
@@ -129,7 +129,7 @@ Hey Sakura!,"≪
 A little
  
 Sakura!
-Ah!",0.2857142857142857
+Ah!",0.2857142857142857,0.73279214
 "Sakura! It's about time you wake
 and help me over here!","(ｻｸﾗ
 の母
@@ -142,7 +142,7 @@ and help me over here!","(ｻｸﾗ
 ","Don't sleep forever
 here
  
-Help me!",0.23529411764705882
+Help me!",0.2352941176470588,0.45358452
 "I'm not sleeping!
 I'm busy right now!","寝てない！
  
@@ -154,7 +154,7 @@ I'm busy right now!","寝てない！
  
 now
  
-I am busy!",0.45454545454545453
+I am busy!",0.4545454545454545,0.8809647
 "Yes, yes...
 Then when won't you be busy?","(ｻｸﾗ
 の母
@@ -167,10 +167,10 @@ Then when won't you be busy?","(ｻｸﾗ
 ","Yes
  
 Surely
-Do you have any busy?",0.26666666666666666
+Do you have any busy?",0.26666666666666666,0.7019252
 Later!,"後で！
 
-",later!,1.0
+",later!,1.0,1.0
 I can't believe it... Geez!,"(ｻｽｹ)
 ＜うわ…
  
@@ -178,14 +178,14 @@ I can't believe it... Geez!,"(ｻｽｹ)
 
 ","<Wow ...
  
-Oh!>",0.16666666666666666
+Oh!>",0.16666666666666666,0.26646763
 "Some of you have probably
 already heard but...","(
 猿飛
 )
 すでに聞いておる者もおろうが➡
 
-",Those who have already heard are also,0.23076923076923078
+",Those who have already heard are also,0.2307692307692308,0.7166387
 "Gekko Hayate's corpse was
 found near Kikyo Castle...","桔梗城の傍らで
 月光ハヤテの死体が発見された
@@ -193,7 +193,7 @@ found near Kikyo Castle...","桔梗城の傍らで
 
 ","By the side of the bellflower
 Moonlight Hayate's corpse was discovered
-.",0.2222222222222222
+.",0.2222222222222222,0.5703708
 What... Hayate?,"(ｱｽﾏ)
 えっ
  
@@ -211,7 +211,7 @@ Hayate ...
 .
 
 Such ...
-.",0.2857142857142857
+.",0.2857142857142857,0.8384487
 Is the opponent Orochimaru?,"(ｱﾝｺ)
 相手は
  
@@ -219,7 +219,7 @@ Is the opponent Orochimaru?,"(ｱﾝｺ)
 
 ","Opponent
  
-Are you a big snake?",0.2
+Are you a big snake?",0.2,0.40856382
 "No... we shouldn't jump to
 that conclusion so easily.","(ｶｶｼ)
 いや
@@ -234,7 +234,7 @@ that conclusion so easily.","(ｶｶｼ)
 So easily
 It will not be decided
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.3400554
 "The one Hayate was following
 was likely a Sound spy called Kabuto...","ハヤテがついていたのは
  
@@ -248,7 +248,7 @@ was likely a Sound spy called Kabuto...","ハヤテがついていたのは
 perhaps
 It is a spy of the sound of Kabuto
 .
-➡",0.3684210526315789
+➡",0.3684210526315789,0.8712604
 "Well, it's certain that Orochimaru
 is trying to do something but...","まっ
  
@@ -264,7 +264,7 @@ Large snake
  
 something
 It is true that you are trying to do
-.",0.3333333333333333
+.",0.3333333333333333,0.08190347
 "No, he revealed his identity to Anko...","(
 猿飛
 )
@@ -276,7 +276,7 @@ It is true that you are trying to do
 ","Disagreeable
  
 Ayatsu
-Reveal the identity into Anko ➡",0.13333333333333333
+Reveal the identity into Anko ➡",0.13333333333333333,0.68024385
 sending us a threat not to cancel.,"中止するなと
 脅しをかけてきておる
 ｡
@@ -285,11 +285,11 @@ sending us a threat not to cancel.,"中止するなと
 ","To cancel
 I'm threatening
 .
-➡",0.25
+➡",0.25,0.77831155
 What does it mean?,"(ﾎﾑﾗ)
 どういうことだ？
 
-",What does it mean?,1.0
+",What does it mean?,1.0,0.9999999
 "Orochimaru possesses enough power
 to take down a small Land on his own.","(
 猿飛
@@ -302,7 +302,7 @@ to take down a small Land on his own.","(
 ","The large snake is one person
 The owner of the power to drop the small country
 .
-➡",0.16
+➡",0.16,0.38293344
 "He's a Ninja that probably
 every land has eyes on.","どの国も
 目を付けておった忍じゃ
@@ -310,7 +310,7 @@ every land has eyes on.","どの国も
 
 ","Any country
 It is a nose who gave eyes
-.",0.15789473684210525
+.",0.15789473684210525,0.32568818
 "against this Village Hidden
 in the Leaves.","その上
  
@@ -324,7 +324,7 @@ in the Leaves.","その上
 Conveniently
 Live grudge in this tree no leaves
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.46870834
 "that any Land in the Alliance
 would unite with Orochimaru","では
  
@@ -334,11 +334,11 @@ would unite with Orochimaru","では
 ","In
  
 Masaka allied countries
-Meeting with a large snake",0.11764705882352941
+Meeting with a large snake",0.1176470588235294,0.3457459
 "and betray the Village Hidden
 in the Leaves?!","木ノ葉を裏切るとでも!?
 
-",Even if you betray the wooden leaves?,0.3076923076923077
+",Even if you betray the wooden leaves?,0.3076923076923077,0.6648587
 "Well, the Alliance Treaty is at
 the same level as a verbal agreement!","(ｶｶｼ)
 まっ
@@ -351,13 +351,13 @@ the same level as a verbal agreement!","(ｶｶｼ)
  
 Alliance Treaty
 It is the same level as a group bundle
-.",0.42105263157894735
+.",0.42105263157894735,0.5310322
 "there's too little information
 right now.","今は情報が少なすぎる
 ｡
 
 ","Now the information is too small
-.",0.36363636363636365
+.",0.3636363636363637,0.78185946
 "the black ops to each Land
 to collect information.","(ｺﾊﾙ)
 すでに
@@ -370,12 +370,12 @@ to collect information.","(ｺﾊﾙ)
  
 For information gathering to each country
 I'm running the dark part
-.",0.2777777777777778
+.",0.2777777777777778,0.42394593
 It's dangerous to act carelessly...,"うかつに動くのは危険じゃ
 ｡
 
 ","It is dangerous to move in
-.",0.2727272727272727
+.",0.2727272727272727,0.47339666
 "That could be what the enemy
 is aiming for.","そこに敵の狙いが
 あるやもしれん
@@ -383,13 +383,13 @@ is aiming for.","そこに敵の狙いが
 
 ","The aim of the enemy there
 There is a certainty
-.",0.26666666666666666
+.",0.26666666666666666,0.63050586
 And also...,"(
 猿飛
 )
 とにかく…➡
 
-",Anyway ... ➡,0.2
+",Anyway ... ➡,0.2,0.26829258
 I trust all of you!,"わしは
  
 貴様らを信頼しておる
@@ -398,7 +398,7 @@ I trust all of you!,"わしは
 ","Wow
  
 I trust you
-.",0.375
+.",0.375,0.6612945
 At that time...,"(
 猿飛
 )
@@ -406,21 +406,21 @@ At that time...,"(
 木ノ葉の力を総結集して➡
 
 ","At the time of
-Collect the power of Kunano leaves",0.2
+Collect the power of Kunano leaves",0.2,0.17335415
 <i>Be quiet about this bruise!</i>,"＜あっ！＞
 ＜このアザのことは黙ってろ！＞
 
 ","<Ah!>
-<Shut up this aza!>",0.2857142857142857
+<Shut up this aza!>",0.2857142857142857,0.30961457
 "That's correct.
 I'm sorry but...","＜入院は分かるけど
 面会謝絶って➡
 
 ","<I know hospitalization
-I'm sorry I'm sorry",0.25
+I'm sorry I'm sorry",0.25,0.31983426
 What's going on?,"どういうことなんですか？＞
 
-",What does that mean?>,0.2222222222222222
+",What does that mean?>,0.2222222222222222,0.255664
 There's no use worrying about it here.,"ここで
  
 心配してても
@@ -431,7 +431,7 @@ There's no use worrying about it here.,"ここで
  
 Even if you are worried
 Unbelievable
-.",0.13333333333333333
+.",0.13333333333333333,0.5247676
 Should I bring get well flowers?,"ん？
  
 お見舞い…
@@ -444,7 +444,7 @@ Should I bring get well flowers?,"ん？
 Discussion ...
  
 I wonder if the flowers are good
-.",0.1875
+.",0.1875,0.6431698
 <i>Oh no!</i>,"(
 女性
 )
@@ -452,7 +452,7 @@ I wonder if the flowers are good
 分かりかねますので…＞
 
 ","<Tomo is also detailed
-I can understand it ...>",0.2
+I can understand it ...>",0.2,0.2501111
 "Oh... How unusual for you to come
 by to buy our flowers.","(
 いの
@@ -465,13 +465,13 @@ by to buy our flowers.","(
 ","ら
  
 Aunt
-I will come to buy my flower",0.15789473684210525
+I will come to buy my flower",0.15789473684210525,0.56071174
 "Besides, isn't it unusual that
 you're minding the shop?","あんたこそ
 店番なんて珍しいんじゃない？
 
 ","Anti
-Isn't it unusual for the store number?",0.35294117647058826
+Isn't it unusual for the store number?",0.35294117647058826,0.45337376
 "since they don't want to
 be ""rooted"" in the hospital...","｢
 ねつく
@@ -483,7 +483,7 @@ be ""rooted"" in the hospital...","｢
 Be tightened
 ""
 It is disgusted
-.",0.15789473684210525
+.",0.15789473684210525,0.21155646
 So cut flowers are fundamental.,"だから
  
 基本は切り花
@@ -492,26 +492,26 @@ So cut flowers are fundamental.,"だから
 ","that's why
  
 The basics are cut flowers
-.",0.36363636363636365
+.",0.3636363636363637,0.86857957
 "You're going to see Sasuke, right?","あんた
 サスケ君とこ行く気でしょ？
 
 ","Aunt
-Will you feel like Sasuke-kun?",0.14285714285714285
+Will you feel like Sasuke-kun?",0.14285714285714285,0.63611317
 Mom! I'm going out for a bit!,"母さん！
 ちょっと出かけてくるわ
 ｡
 
 ","mother!
 I'm going out a little
-.",0.5
+.",0.5,0.87403333
 I-Ino?!,"えっ
  
 いの！
 
 ","eh
  
-!",0.25
+!",0.25,0.21159694
 "One ""rose"" of love!","愛のバラ
  
 １本
@@ -520,7 +520,7 @@ I-Ino?!,"えっ
 ","Love rose
  
 One
-.",0.375
+.",0.375,0.7610163
 "Then I'll make mine this.
 ""Narcissus!","あたしは
  
@@ -530,13 +530,13 @@ One
 ","I
  
 Let's make this flower
-.",0.3076923076923077
+.",0.3076923076923077,0.31536072
 "A noble flower that doesn't
 succumb to the cold of the winter,","りりしい姿で
 冬の寒さにも負けず➡
 
 ","In a rirable appearance
-It is not loseless to the cold of winter",0.3157894736842105
+It is not loseless to the cold of winter",0.3157894736842105,0.62674975
 "but hopes for the spring and
 waits with dignified presence...","春を希望して待ち続ける
 けなげな花
@@ -544,13 +544,13 @@ waits with dignified presence...","春を希望して待ち続ける
 
 ","Wait for spring and keep waiting
 Key flower
-.",0.17647058823529413
+.",0.17647058823529413,0.42938402
 "<i>with the wish for release from</i>
 <i>the hospital as soon as possible.</i>","《一日も早く退院できるよう
 願いを込めて》
 
 ","""Let's discharge as soon as possible
-With a wish",0.2
+With a wish",0.2,0.48483098
 You've gotten pretty knowledgeable.,"フフッ
  
 ベタね
@@ -559,12 +559,12 @@ You've gotten pretty knowledgeable.,"フフッ
 ","Fuf
  
 Sticky
-.",0.125
+.",0.125,0.18675978
 I told you I wouldn't lose to you!,"あんたには負けないって
 言ったでしょ！
 
 ","I can not lose
-I said!",0.2727272727272727
+I said!",0.2727272727272727,0.7300027
 "Oh, yes yes, so one narcissus, right?","(
 いの
 )
@@ -582,7 +582,7 @@ Yes
 Surely
  
 I have one narcissus
-.",0.23076923076923078
+.",0.2307692307692308,0.84297055
 Uh... I need two.,"あっ
  
 私は２本
@@ -591,7 +591,7 @@ Uh... I need two.,"あっ
 ","Ah
  
 I am two
-.",0.375
+.",0.375,0.5011292
 Why? One is fine.,"(
 いの
 )
@@ -603,7 +603,7 @@ Why? One is fine.,"(
 ","why?
  
 It is good with one
-.",0.5555555555555556
+.",0.5555555555555556,0.59464496
 No... One for Lee too.,"いや
  
 リーさんの分もね
@@ -612,7 +612,7 @@ No... One for Lee too.,"いや
 ","Disagreeable
  
 Lee's minute
-.",0.2
+.",0.2,0.5612838
 "- Huh?!
 - Huh?","≪
 (ﾁｮｳｼﾞ)
@@ -626,7 +626,7 @@ Lee's minute
 
 Second helping!
 
-Yeah?",0.25
+Yeah?",0.25,0.26940978
 Ten orders of <i>kalbi!</i>,"(ﾁｮｳｼﾞ)
 カルビ
 10
@@ -634,7 +634,7 @@ Ten orders of <i>kalbi!</i>,"(ﾁｮｳｼﾞ)
 
 ","Carbi
 Ten
-public!",0.18181818181818182
+public!",0.18181818181818185,0.25732392
 "You sure can eat.
 Just watching you makes me feel ill.","見てるだけで
 気分が悪くなってくる
@@ -642,7 +642,7 @@ Just watching you makes me feel ill.","見てるだけで
 
 ","Just look
 I feel sick
-.",0.21428571428571427
+.",0.21428571428571427,0.45052177
 Here you are!,"(
 店員
 )
@@ -658,7 +658,7 @@ Here you are!,"(
 
 Ugly
  
-I came!",0.18181818181818182
+I came!",0.18181818181818185,0.33194637
 "This is mine, all right?
 Don't eat any of it, Shikamaru!","(ﾁｮｳｼﾞ)
 これ
@@ -675,13 +675,13 @@ I'm sorry
 Don't eat it
  
 Shikamaru
-.",0.3157894736842105
+.",0.3157894736842105,0.79001004
 Ino and Sakura...,"(ｼｶﾏﾙ)
 いのとサクラか
 ｡
 
 ","Is it easy and sakura?
-.",0.2222222222222222
+.",0.2222222222222222,0.67949444
 "Shikamaru, shouldn't you be going through
 some special training or something","シカマル
  
@@ -695,7 +695,7 @@ some special training or something","シカマル
 Aunt
  
 In preparation for winning
-Do you have to do special training?",0.18181818181818182
+Do you have to do special training?",0.18181818181818185,0.72233707
 I am...,"(ｼｶﾏﾙ)
 食わねえよ
 ｡
@@ -707,7 +707,7 @@ I am...,"(ｼｶﾏﾙ)
 .
 
 ~
-.",0.14285714285714285
+.",0.14285714285714285,0.41523227
 Every single day...,"やってるよ
  
 毎日
@@ -720,7 +720,7 @@ Every single day...,"やってるよ
 every day
  
 every day
-.",0.18181818181818182
+.",0.18181818181818185,0.5773344
 "Actually, Choji's been joining us
 in the special training.","実はな
  
@@ -736,7 +736,7 @@ Hyokiji
  
 For its special training
 I'm getting along
-.",0.21052631578947367
+.",0.21052631578947367,0.60955703
 Really?,"(
 いの
 )
@@ -748,7 +748,7 @@ Really?,"(
 ","What
  
 Animal
-Yakini from daytime?",0.14285714285714285
+Yakini from daytime?",0.14285714285714285,0.12904839
 "There are numerous people who
 want to participate, but can't!","出たくても出られない人間が
 たくさんいるんだぞ
@@ -756,21 +756,21 @@ want to participate, but can't!","出たくても出られない人間が
 
 ","People who can not get out
 I have a lot
-.",0.09090909090909091
+.",0.09090909090909093,0.2602665
 That's right!,"そうよ！
  
 そうよ！
 
 ","that's right! 
  
- that's right!",1.0
+ that's right!",1.0,0.92631775
 "Aw man, what a drag...","な…
  
 何だよ？
 
 ","...
  
-What?",0.25
+What?",0.25,0.18904144
 "we've exceeded
 a human being's limits.","一瞬で
  
@@ -780,7 +780,7 @@ a human being's limits.","一瞬で
 ","in a moment
  
 Kobinpan
-.",0.16666666666666666
+.",0.16666666666666666,0.101491034
 So I've used too much Chakra...,"(
 ネジ
 )
@@ -788,7 +788,7 @@ So I've used too much Chakra...,"(
 ｡
 
 ","Was it too easy to use Chakra ...
-.",0.21428571428571427
+.",0.21428571428571427,0.8160915
 What?! A tadpole again?!,"(ﾃﾝﾃﾝ)
 大丈夫？
  
@@ -796,7 +796,7 @@ What?! A tadpole again?!,"(ﾃﾝﾃﾝ)
 
 ","fine?
  
-screw!",0.25
+screw!",0.25,0.19313951
 "You haven't made
 any progress whatsoever!","お前
  
@@ -808,7 +808,7 @@ any progress whatsoever!","お前
  
 at all
  
-Do not advance!",0.15384615384615385
+Do not advance!",0.15384615384615385,0.35309708
 "See how it's bigger
 than the ones earlier?!","な～っ！
  
@@ -818,20 +818,20 @@ than the ones earlier?!","な～っ！
 ","Now!
  
 After a while ago
-It's decal!",0.17647058823529413
+It's decal!",0.17647058823529413,0.30020127
 How the heck should I know?!,"(
 自来也
 )
 んなの分かんないっての！
 
-",I do not know what to do!,0.25
+",I do not know what to do!,0.25,0.35384157
 Just five minutes.,"５分だけですよ
 ｡
 ➡
 
 ","It is only 5 minutes
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.69694525
 "I can't allow you to visit
 any longer than that.","それ以上の面会は
 許可できません
@@ -841,7 +841,7 @@ any longer than that.","それ以上の面会は
 ","More than that
 Can not be permitted
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.44178444
 His body still needs to rest...,"まだ
  
 安静にしていないといけない
@@ -852,12 +852,12 @@ His body still needs to rest...,"まだ
  
 I have to rest
 Because it is a body
-.",0.1875
+.",0.1875,0.48180386
 Yes...,"はい
 ｡
 
 ","Yes
-.",0.3333333333333333
+.",0.3333333333333333,0.71168894
 Sasuke. You have visitors...,"(
 看護師
 )
@@ -869,12 +869,12 @@ Sasuke. You have visitors...,"(
 ","Sasuke
  
 Around
-.",0.2857142857142857
+.",0.2857142857142857,0.77762866
 Two cute young ladies...,"かわいいお嬢さんが２人…
 ｡
 
 ","Two cute girls ...
-.",0.42857142857142855
+.",0.42857142857142855,0.8108702
 "Sasuke, Sasuke?","(
 看護師
 )
@@ -886,14 +886,14 @@ Two cute young ladies...,"かわいいお嬢さんが２人…
 ","Sasuke?
  
 Sasuke
-.",0.5
+.",0.5,0.9631471
 Doctor! Doctor!,"先生
  
 先生！
 
 ","teacher
  
-teacher!",0.3333333333333333
+teacher!",0.3333333333333333,0.48920283
 "<i>Sasuke will, without</i>
 <i>a doubt, desire me...</i>","(
 大蛇丸
@@ -904,7 +904,7 @@ teacher!",0.3333333333333333
 
 ","<Sasuke always
  
-Seeking me>",0.26666666666666666
+Seeking me>",0.26666666666666666,0.8035923
 <i>Could cliff climbing be so taxing...?</i>,"(ｶｶｼ)
 《崖登りの業が
 ここまでキツいとは…
@@ -914,7 +914,7 @@ Seeking me>",0.26666666666666666
 ","""The work of cliff climb
 It is good so far ...
 .
-➡",0.13043478260869565
+➡",0.13043478260869565,0.6293132
 "<i>Damn, my body is sluggish...</i>","ったく
  
 体が鈍ってやがる
@@ -925,18 +925,18 @@ It is good so far ...
  
 Body is dull
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.46824017
 <i>Will I make it in time...?</i>,"間に合うか？》
 
-","Will it be in time?""",0.38461538461538464
+","Will it be in time?""",0.38461538461538464,0.60225874
 <i>Open!</i>,"(ｶｶｼ)
 《開！》
 
-","""Open!""",0.25
+","""Open!""",0.25,0.6190191
 Yo!,"(ｶｶｼ)
 ん～！
 
-",!,0.5
+",!,0.5,0.6093274
 Huh... You finally made it here...,"(ｶｶｼ)
 フフ…
  
@@ -946,13 +946,13 @@ Huh... You finally made it here...,"(ｶｶｼ)
 ","Fufu ...
  
 Finally came
-.",0.2
+.",0.2,0.46986982
 "We'll search for Sasuke
 on our end.","サスケ君の行方は
 こちらでも捜すけど➡
 
 ","Sasuke's way
-I'm looking for here, but",0.11764705882352941
+I'm looking for here, but",0.1176470588235294,0.80096
 "And also... you wanted to see Lee, right?","あなたたちも
  
 もし
@@ -961,7 +961,7 @@ I'm looking for here, but",0.11764705882352941
 ","You are also
  
 if
-If you see something like",0.2
+If you see something like",0.2,0.17487198
 "- Yes.
 - Yes.","連絡してね
 ｡
@@ -975,7 +975,7 @@ If you see something like",0.2
 .
 
 Yes
-.",0.25
+.",0.25,0.263985
 "Lee, you have visitors.","(
 看護師
 )
@@ -987,14 +987,14 @@ Yes
 ","Lee
  
 Around
-.",0.2857142857142857
+.",0.2857142857142857,0.6552971
 Lee?!,"リー君？
  
 リー君！
 
 ","Lee?
  
-Lee!",1.0
+Lee!",1.0,0.9537502
 "Sakura, let's go!","(
 いの
 )
@@ -1006,7 +1006,7 @@ Lee!",1.0
 ","Cherry blossoms
  
 go!
-Yes!",0.2222222222222222
+Yes!",0.2222222222222222,0.3153082
 Okay!,"(
 リー
 )
@@ -1016,7 +1016,7 @@ Okay!,"(
 
 ","Cormorant…
  
-Ahh!",0.25
+Ahh!",0.25,0.17301582
 200 one armed pushups...,"(
 リー
 )
@@ -1032,7 +1032,7 @@ Ahh!",0.25
 One-handed arms
  200
 times
-.",0.2
+.",0.2,0.55135953
 "If I can't do them,
 100 one legged squats...","できなかったら
 片足スクワット
@@ -1044,14 +1044,14 @@ times
 One foot squat
  100
 times
-.",0.17647058823529413
+.",0.17647058823529413,0.7463188
 190...!,"う～…
  190
 …➡
 
 ","Wow ...
  190
-... ➡",0.4
+... ➡",0.4,0.8266765
 "Lee! Stop it!
 Lee! Stop it!","リー君
  
@@ -1059,7 +1059,7 @@ Lee! Stop it!","リー君
 
 ","Lee
  
-stop it!",1.0
+stop it!",1.0,0.95022386
 191...,"(
 リー
 )191
@@ -1074,7 +1074,7 @@ Lee
 ...
  
 Wow ...
-.",0.3333333333333333
+.",0.3333333333333333,0.59619385
 Please don't touch me!,"(
 看護師
 )
@@ -1086,10 +1086,10 @@ Please don't touch me!,"(
 
 ","Lee!
 
-Please do not touch!➡",0.4444444444444444
+Please do not touch!➡",0.4444444444444444,0.4861524
 <i>I need two...</i>,"＜私は２本＞
 
-",<I am 2 bottles>,0.3
+",<I am 2 bottles>,0.3,0.42699996
 <i>Why? One is fine.</i>,"(
 いの
 )
@@ -1099,14 +1099,14 @@ Please do not touch!➡",0.4444444444444444
 
 ","<What?
  
-It is good with one piece>",0.35714285714285715
+It is good with one piece>",0.35714285714285715,0.43356928
 <i>No... One for Lee too...</i>,"＜いや
  
 リーさんの分もね＞
 
 ","<No
  
-Lee's minute>",0.3333333333333333
+Lee's minute>",0.3333333333333333,0.6755457
 What? Hear what?,"リーさんのこと聞いた？＞
 ＜えっ
  
@@ -1115,7 +1115,7 @@ What? Hear what?,"リーさんのこと聞いた？＞
 ","Did you hear Mr. Lee?>
 <Eh
  
-what?>",0.3
+what?>",0.3,0.37801093
 "Well, that Lee...","＜そういえば
  
 サクラ
@@ -1126,14 +1126,14 @@ what?>",0.3
  
 Cherry blossoms
  
-That ... ➡",0.18181818181818182
+That ... ➡",0.18181818181818185,0.20213675
 195...,"195
 …
 ｡
 
 ","195
 ...
-.",0.6666666666666666
+.",0.6666666666666666,0.99230355
 196...,"196
 …
  
@@ -1150,7 +1150,7 @@ Han
  
 Hua ...
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.64428186
 197...,"197
 …
  
@@ -1167,7 +1167,7 @@ Han
  
 Hua ...
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6600601
 198...,"198
 …
 ｡
@@ -1176,7 +1176,7 @@ Hua ...
 ","198
 ...
 .
-➡",0.5
+➡",0.5,0.9132187
 <i>I'm...not finished...yet!</i>,"僕は
  
 まだ終わっちゃいない
@@ -1187,7 +1187,7 @@ Hua ...
  
 It is not over yet
 .
-➡",0.2
+➡",0.2,0.47371703
 <i>who doesn't believe in himself!</i>,"(
 ガイ
 )
@@ -1195,12 +1195,12 @@ It is not over yet
 努力する価値はない＞
 
 ","<In a guy who does not believe in yourself
-Not worth making efforts>",0.3333333333333333
+Not worth making efforts>",0.3333333333333333,0.5689004
 One more time...!,"１回…
 ｡
 
 ","One time ...
-.",0.5
+.",0.5,0.76090056
 "- Huh?!
 - Oh!","あ～！
  
@@ -1210,7 +1210,7 @@ One more time...!,"１回…
 ","Oh!
  
 Pet
-.",0.2857142857142857
+.",0.2857142857142857,0.29342
 Yes.,"あと…
  
 あと…
@@ -1219,13 +1219,13 @@ Yes.,"あと…
 ","another thing…
  
 another thing…
-.",0.25
+.",0.25,0.1827206
 "Why do boys...
 have to push themselves?","どうして男の子って
 無理ばっかりしちゃうのかな？
 
 ","Why is a boy
-Is it not impossible?",0.13333333333333333
+Is it not impossible?",0.13333333333333333,0.5189065
 "Don't ask me that.
 I'm a girl you know!","(
 いの
@@ -1236,16 +1236,16 @@ I'm a girl you know!","(
 
 ","That kind of thing
 Don't ask for a woman
-.",0.3333333333333333
+.",0.3333333333333333,0.56872344
 Sorry...,"ごめん
 ｡
 
 ","sorry
-.",0.3333333333333333
+.",0.3333333333333333,0.7363748
 The Human... Boulder!,"(ｼｶﾏﾙ)
 ん～！
 
-",!,0.2
+",!,0.2,0.22249807
 Ninja Art: Shadow Possession Ju...!,"(ｼｶﾏﾙ)
 《忍法
  
@@ -1253,7 +1253,7 @@ Ninja Art: Shadow Possession Ju...!,"(ｼｶﾏﾙ)
 
 ","""Shinobu method
  
-Shadow imitation ... ➡",0.15384615384615385
+Shadow imitation ... ➡",0.15384615384615385,0.582202
 "<i>Darn it, I don't have enough Chakra!</i>","あっ
  
 しまった！
@@ -1262,7 +1262,7 @@ Shadow imitation ... ➡",0.15384615384615385
 ","Ah
  
 Oops!
-Chakra is enough """,0.17647058823529413
+Chakra is enough """,0.17647058823529413,0.7787601
 "What's the matter, Shikamaru?!","どうした？
  
 シカマル
@@ -1271,7 +1271,7 @@ Chakra is enough """,0.17647058823529413
 ","What happened?
  
 Shikamaru
-Is it the limit?",0.3333333333333333
+Is it the limit?",0.3333333333333333,0.62222654
 "All right, Choji!
 One more time!","よし
  
@@ -1283,10 +1283,10 @@ One more time!","よし
  
 Chow
  
-Another one!",0.18181818181818182
+Another one!",0.18181818181818185,0.3853397
 Who brought that...?,"誰でしょう？
 
-",Who is it?,0.2857142857142857
+",Who is it?,0.2857142857142857,0.27082545
 "The rose I went to the trouble
 of bringing was a waste.","(
 いの
@@ -1297,37 +1297,37 @@ of bringing was a waste.","(
 
 ","Successful rose
 It became
-.",0.13333333333333333
+.",0.13333333333333333,0.49740428
 My narcissus too...,"私の水仙だって
 ｡
 
 ","My narcissus
-.",0.4
+.",0.4,0.85778785
 I'm hungry. And I'm pretty tired too.,"わしは腹が減った
 いいかげん疲れたしのう
 ｡
 
 ","I'm hungry
 Good Kagon I'm tired
-.",0.5
+.",0.5,0.6790967
 "All right, I got it... Sexy Jutsu!","お前につきあってやっとるだけ
 ありがたいと思え～！
 
 ","I just got it and just
-Thank you very much!",0.25
+Thank you very much!",0.25,0.35715222
 Oh!,"ウッフ～ン
 ｡
 お～！
 
 ","Uju-N
 .
-Oh!",0.5
+Oh!",0.5,0.23424295
 "What I want to do isn't the Sexy Jutsu,
 but Summoning Jutsu!","俺がやりたいのは
 おいろけの術じゃなくて➡
 
 ","I want to do
-It's not a long-eared skill",0.2
+It's not a long-eared skill",0.2,0.33908373
 "All right, all right...
 Then try it out.","何じゃ
  
@@ -1337,10 +1337,10 @@ Then try it out.","何じゃ
 ","What
  
 Is it already out
-.",0.25
+.",0.25,0.12468901
 I did it!,"行くぜ～！
 
-",Go!,0.2
+",Go!,0.2,0.42354313
 "You should die!
 You have no talent!","もう
  
@@ -1356,7 +1356,7 @@ you
  
 Death!
  
-No talent!",0.4444444444444444
+No talent!",0.4444444444444444,0.85744554
 "Shut your mouth!
 Having legs is better than before!","足
  
@@ -1366,7 +1366,7 @@ Having legs is better than before!","足
 ","leg
  
 Only grown
-It's not better than ever!",0.17647058823529413
+It's not better than ever!",0.17647058823529413,0.6366156
 <i>Four! Sanchez is a lousy bullfighter. Ole!</i>,"後ろ足
  
 生えてんじゃねえかよ
@@ -1375,7 +1375,7 @@ It's not better than ever!",0.17647058823529413
 ","Back feet
  
 I'm not growing
-.",0.1111111111111111
+.",0.1111111111111111,0.049016688
 "If the training continues like this,
 I don't mind doing it forever!","♬
  
@@ -1387,7 +1387,7 @@ I don't mind doing it forever!","♬
  
 Look up
  
-It stands up",0.05263157894736842
+It stands up",0.05263157894736842,0.020376287
 "Good. Just keep eating away so
 you'll have no regrets about your life.","♬
  
@@ -1399,4 +1399,4 @@ you'll have no regrets about your life.","♬
  
 Good luck
  
-SO standing up",0.10526315789473684
+SO standing up",0.10526315789473684,0.19371563

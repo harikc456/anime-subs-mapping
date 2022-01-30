@@ -1,329 +1,329 @@
-en_text,jp_text,google_translated,score
-What's wrong?,（祭主）どうした？,What happened?,0.4
-Hmm... I wonder what this is...,なんだろ これ,What is this,0.42857142857142855
-"Say, dear...",（祭主の妻）あ…,A ...,0.2
-"I walk ten thousand miles,",♪～,♪ ~,0.0
+en_text,jp_text,google_translated,score,semantic_score
+What's wrong?,（祭主）どうした？,What happened?,0.4,0.3835217
+Hmm... I wonder what this is...,なんだろ これ,What is this,0.42857142857142855,0.4165633
+"Say, dear...",（祭主の妻）あ…,A ...,0.2,0.18569641
+"I walk ten thousand miles,",♪～,♪ ~,0.0,0.13774459
 Oh seedling that sprouts from \Nour ancestor's flesh and blood...,"（ナレーション）
-先祖(ちちはは)の血肉に根を張りし苗よ",Seedlings and seedlings,0.07692307692307693
-"Grow green, green leaves.",青い青い 葉を伸ばせ,Stretch blue blue leaves,0.14285714285714285
-The Heavy Seed,重い重い 実を付けよ,Heavy heavy fruit,0.25
+先祖(ちちはは)の血肉に根を張りし苗よ",Seedlings and seedlings,0.07692307692307693,0.483434
+"Grow green, green leaves.",青い青い 葉を伸ばせ,Stretch blue blue leaves,0.14285714285714285,0.40351668
+The Heavy Seed,重い重い 実を付けよ,Heavy heavy fruit,0.25,0.572329
 Can you sell me something to eat?,"（ギンコ）なんか 食うもん
 売ってもらえねえか？","Something
-Can you sell it?",0.5555555555555556
+Can you sell it?",0.5555555555555556,0.6482978
 Take a look at these rice paddies! \NThis summer has been too cold.,"この田 見ろ ひどい冷夏で
 蓄えするので 手一杯だ","This field is a terrible cold summer
-It is a handful because it stores",0.13043478260869565
-Just give it up.,諦めな,Giving up,0.16666666666666666
+It is a handful because it stores",0.13043478260869565,0.493615
+Just give it up.,諦めな,Giving up,0.16666666666666666,0.5389743
 Go to the village past the next mountain.,"（農民２）
-ひと山 向こうの村に行きなよ",I'm going to the village there,0.25
-"Hey, don't give him bad advice.",おい 妙なこと 勧めんなよ,Good things recommended,0.0
+ひと山 向こうの村に行きなよ",I'm going to the village there,0.25,0.6214626
+"Hey, don't give him bad advice.",おい 妙なこと 勧めんなよ,Good things recommended,0.0,0.24928397
 You'd better not go there. \NThe rice there is not normal.,"やめときなよ
 あそこの米は 普通じゃねえ","I'm sorry
-It is not normal rice",0.26666666666666666
-They get a bountiful harvest every time \Nwhen there's a disaster.,天災のたびに豊作になる,Become a good harvest every time of natural disaster,0.3125
-"It's a ""parting harvest.""",（村人１）別れ作だ,It is a separate work,0.18181818181818182
+It is not normal rice",0.26666666666666666,0.8013972
+They get a bountiful harvest every time \Nwhen there's a disaster.,天災のたびに豊作になる,Become a good harvest every time of natural disaster,0.3125,0.72036636
+"It's a ""parting harvest.""",（村人１）別れ作だ,It is a separate work,0.18181818181818185,0.280083
 "Meaning, someone will be taken by our ancestors again.","（村人３）また誰かが
 ご先祖様に取られるぞ","Also someone
-It will be taken by his ancestors",0.42857142857142855
-Who will it be this year?,（村人１）今年は誰が…,Who is this year ...,0.3333333333333333
+It will be taken by his ancestors",0.42857142857142855,0.63909686
+Who will it be this year?,（村人１）今年は誰が…,Who is this year ...,0.3333333333333333,0.7696526
 The ancestors choose from the weakest among us.,"（村人３）ご先祖様は
 弱い者から取りなさる","The ancestors
-Remove from a weak person",0.25
-Who are you? What do you want?,（サネ）誰？ 何か用？,Who?What's wrong?,0.3333333333333333
+Remove from a weak person",0.25,0.7601539
+Who are you? What do you want?,（サネ）誰？ 何か用？,Who?What's wrong?,0.3333333333333333,0.37102172
 We've to store our harvest when we can.,"蓄えられる時に
 蓄えとかなきゃならねえ","When accumulated
-If you have to store it",0.21428571428571427
+If you have to store it",0.21428571428571427,0.4053046
 "I see, then you're saying that this year's \Nbountiful harvest is a miracle?","今年の豊作は
 奇跡ってわけか","This year's good harvest
-I wonder if it is a miracle",0.38095238095238093
+I wonder if it is a miracle",0.3809523809523809,0.83879995
 That's right.,"そうだよ 俺らがしっかり
 ご先祖様をお祭りしてきたから―","That's right I'm firm
-Because we have fed your ancestors-",0.23076923076923078
+Because we have fed your ancestors-",0.2307692307692308,0.12318768
 Our ancestors watch over us \Nsince we always worship them.,"土になったご先祖様が
 守ってくださってるんだ","An ancestors who became soil
-I'm protecting",0.05555555555555555
+I'm protecting",0.05555555555555555,0.36312523
 "And in exchange, they take a life, right?","（ギンコ）その代わり
-１人 連れてく… か？",Take one person ...?,0.15384615384615385
+１人 連れてく… か？",Take one person ...?,0.15384615384615385,0.28758472
 That's a pretty harsh thing for your ancestors to do.,"ご先祖の所業にしちゃあ
 あんまりだよな～","I'm addicted to your ancestors
-It's so much ~",0.21052631578947367
-We don't have... a choice.,（サネ）仕方が… ないんだ,how ...,0.1111111111111111
-Will you tell me what's going on?,ちいと 話 聞かせてくれんか？,Do you let me talk to me?,0.23076923076923078
+It's so much ~",0.21052631578947367,0.5107235
+We don't have... a choice.,（サネ）仕方が… ないんだ,how ...,0.1111111111111111,0.17700824
+Will you tell me what's going on?,ちいと 話 聞かせてくれんか？,Do you let me talk to me?,0.2307692307692308,0.44355476
 "Every time a natural disaster occurs, the fields of this village produce a bountiful harvest.","（サネ）この村の田畑が ひどい
 天災のたびに豊作になるのは―","The field of this village is terrible
-What is a good harvest every time of natural disaster-",0.4090909090909091
-"And, in such years, without fail, in the autumn,",そして そんな年には必ず―,And always in such a year-,0.25
+What is a good harvest every time of natural disaster-",0.4090909090909091,0.87296075
+"And, in such years, without fail, in the autumn,",そして そんな年には必ず―,And always in such a year-,0.25,0.43980417
 someone sprouts an auspicious tooth in their mouth.,"秋に 誰かの口の中に
 “瑞歯(みずは)”が生えてくる","In the fall of someone in the fall
-""Mizu toe "" will grow",0.1111111111111111
+""Mizu toe "" will grow",0.1111111111111111,0.23403874
 That tooth falls out at the end of autumn \Nand that person... dies.,"その歯は 秋の終わりには
 抜け落ちて その人は―","The teeth are at the end of the fall
-I missed it, he is-",0.17391304347826086
+I missed it, he is-",0.17391304347826084,0.6613058
 It's been told through the generations that the life is an offering to the ancestors for the bountiful harvest.,"その命は 豊作をもたらした
 ご先祖様への供え物だって―","That life brought a good harvest
-Province for your ancestors-",0.16666666666666666
+Province for your ancestors-",0.16666666666666666,0.66409075
 "Still, we all have been thankful for it.","俺たちは今まで 生き延びては
 こられなかっただろうから","We have ever surged
-Because it would have come",0.2
+Because it would have come",0.2,0.18247887
 Did those who lose their lives have anything in common?,"命を落とす者に
 共通する点はあるのか？","For those who drop life
-Is there a common point?",0.2222222222222222
+Is there a common point?",0.2222222222222222,0.45056236
 It is said... the weakest go first.,"（サネ）弱い者から…
 と言われている","From weak ...
-It is said that",0.3333333333333333
-What about the tooth?,（ギンコ）抜けた歯は？,What is the teeth?,0.42857142857142855
+It is said that",0.3333333333333333,0.6717912
+What about the tooth?,（ギンコ）抜けた歯は？,What is the teeth?,0.42857142857142855,0.6500108
 The tooth is kept in the shrine by the head priest.,"歯は祭主様にしか
 見えなくなるんだって","Teeth are only in the festival
-It is not visible",0.17647058823529413
-Head priest?,祭主？,Festival owner?,0.2
+It is not visible",0.17647058823529413,0.4360094
+Head priest?,祭主？,Festival owner?,0.2,0.28610054
 He's the person who takes care of \Nall the religious services in this village.,"この村である 祭りの一切を
 取りしきる人だよ","At all of the festival, which is this village
-It is a person who gets",0.25
+It is a person who gets",0.25,0.45317072
 Why were you chosen to be his successor?,"（ギンコ）
-お前は なんで跡継ぎに？",You're going to join me?,0.23076923076923078
+お前は なんで跡継ぎに？",You're going to join me?,0.2307692307692308,0.10151322
 "Because, like the head priest, sometimes I'm able to see things that others can't.","（ギンコ）その祭主ってのに
 会いたいんだが","That's the festival
-I want to see you",0.22727272727272727
-Head priest!,（サネ）祭主様～,Festival Lord-,0.0
-"Agricultural literature, and a journal...",（ギンコ）農学書に 日誌,Journal for agriculture,0.1111111111111111
-Hm?,（祭主）一体 どちらさんで？,Which one?,0.25
+I want to see you",0.2272727272727273,0.090698764
+Head priest!,（サネ）祭主様～,Festival Lord-,0.0,0.41317588
+"Agricultural literature, and a journal...",（ギンコ）農学書に 日誌,Journal for agriculture,0.1111111111111111,0.82088214
+Hm?,（祭主）一体 どちらさんで？,Which one?,0.25,0.26737562
 I'm looking for something called the Narazu seed.,"“ナラズの実”というのを
 探しておるんですが","""Narrats's real""
-I'm looking for",0.26666666666666666
+I'm looking for",0.26666666666666666,0.17270099
 Well...,"しっかり準備しねえと
 追っつかねえぞ","Preparing well
-I'm sorry",0.16666666666666666
-"Sane, aren't you in the middle of your fieldwork?",お前 まだ 畑仕事の途中だろ,You are still in the middle of the field,0.42857142857142855
-"This year, we have a bountiful harvest.",今年は豊作だ,This year is a good harvest,0.36363636363636365
-Okay.,大丈夫 大丈夫だよ 心配すんな,All right is okay,0.2
+I'm sorry",0.16666666666666666,0.2559636
+"Sane, aren't you in the middle of your fieldwork?",お前 まだ 畑仕事の途中だろ,You are still in the middle of the field,0.42857142857142855,0.5285469
+"This year, we have a bountiful harvest.",今年は豊作だ,This year is a good harvest,0.3636363636363637,0.83291
+Okay.,大丈夫 大丈夫だよ 心配すんな,All right is okay,0.2,0.3616667
 What? Are you still worried about your mother?,"（祭主）なんだ まだ
 おっかさんのこと 心配か？","What is it?
-Are you worried about the ho?",0.46153846153846156
-Don't worry.,どら これ食わせてやりな,Dora and do this,0.14285714285714285
-"I've heard that some mushi-shi came to these parts during the previous head priest's time, as well.",ここへ来たと聞いている,I heard that I came here,0.18181818181818182
+Are you worried about the ho?",0.4615384615384616,0.35703334
+Don't worry.,どら これ食わせてやりな,Dora and do this,0.14285714285714285,0.14627205
+"I've heard that some mushi-shi came to these parts during the previous head priest's time, as well.",ここへ来たと聞いている,I heard that I came here,0.18181818181818185,0.1686356
 So you're saying this good harvest is \Nbecause of your ancestors' grace?,"では この実りは
 先祖の力によるものだと？","So this fruit
-Is it due to the power of the ancestors?",0.2857142857142857
-"Of course, that is a factor, too.",むろん それもある,Of course it is,0.3
-"Because of everyone's faith, we're able to work without abandoning this village.",皆の信仰があるからこそ―,Because there is everyone's faith-,0.15789473684210525
-But that's not all.,だが それだけじゃない,But not that,0.5
+Is it due to the power of the ancestors?",0.2857142857142857,0.54333574
+"Of course, that is a factor, too.",むろん それもある,Of course it is,0.3,0.3536853
+"Because of everyone's faith, we're able to work without abandoning this village.",皆の信仰があるからこそ―,Because there is everyone's faith-,0.15789473684210525,0.4824863
+But that's not all.,だが それだけじゃない,But not that,0.5,0.552874
 "For many years, we've all been \Nstudying ways to enrich the soil.","長年 土を肥やすすべを
 皆で研究し続けてきた","Heavy for many years
-We have been studying together",0.2631578947368421
+We have been studying together",0.2631578947368421,0.17890342
 The result can be seen at times \Nwith harvests like this one.,"その結果が 時に
 こういう実りを生むのだ","The result is sometimes
-I will create such fruit",0.1
-"Every year, our crops increase, too.",毎年の収穫も増えている,Every year's harvest is also increasing,0.15384615384615385
-Then what about the auspicious tooth?,では“瑞歯”については？,"Then about """"?",0.3333333333333333
-Please be on your way now.,さあ もう帰ってくれ,Please come back again,0.1
-May I ask just one more question?,もう１つだけ 聞いていいか？,Can I ask one more?,0.5555555555555556
-What is it?,なんだ？,what?,0.5
-"Yes, I've heard about it from the previous head priest.",ああ 先代から聞いた,Oh I heard from the previous year,0.3333333333333333
+I will create such fruit",0.1,0.58918154
+"Every year, our crops increase, too.",毎年の収穫も増えている,Every year's harvest is also increasing,0.15384615384615385,0.77353513
+Then what about the auspicious tooth?,では“瑞歯”については？,"Then about """"?",0.3333333333333333,0.21550167
+Please be on your way now.,さあ もう帰ってくれ,Please come back again,0.1,0.45993236
+May I ask just one more question?,もう１つだけ 聞いていいか？,Can I ask one more?,0.5555555555555556,0.7469655
+What is it?,なんだ？,what?,0.5,0.43106017
+"Yes, I've heard about it from the previous head priest.",ああ 先代から聞いた,Oh I heard from the previous year,0.3333333333333333,0.32181552
 "It's a seed that a mushi-shi sealed a ""light vein"", \Nor something like that, into it, I think...","“ナラズの実”のことは
 ご存じのようで","""Narras fruit"" is
-I like it",0.22727272727272727
+I like it",0.2272727272727273,0.13693509
 "You probably can even intuitively \Nunderstand what a ""light vein"" is,","ある１人の蟲師が“光脈(こうみゃく)”だかを
 封じ込めたもの…―","One acupuncturist is ""bright vein""
-Contained ...-",0.2
+Contained ...-",0.2,0.50287664
 "That's because it's so similar to the Kouki,\Nwhich is the basis of mushi.","蟲の根源たる
 光酒(こうき)というモノに近いからだ","The root of the wolf
-It is because it is close to the thing of Mitsu",0.2857142857142857
-The light vein is the path in which the Kouki runs.,光脈とは 光酒の流れる筋,The light speech flows,0.16666666666666666
+It is because it is close to the thing of Mitsu",0.2857142857142857,0.31044838
+The light vein is the path in which the Kouki runs.,光脈とは 光酒の流れる筋,The light speech flows,0.16666666666666666,0.20407651
 "If you can manipulate it, it can be used for anything—","操作できれば 不死や蘇生…
 いかようにも使い道はある","If you can operate, it is not dead and resuscitation ...
-There is also a way to use",0.21739130434782608
+There is also a way to use",0.21739130434782608,0.28849062
 "Of course, doing so is the biggest\N taboo among mushi-shi.","むろん それは蟲師最大の
 禁じ手ではある","Of course it is the biggest
-It is forbidden",0.26666666666666666
+It is forbidden",0.26666666666666666,0.31780735
 "However, there've been many cases of it happening.","が 例外も幾度となく
 存在してきた","However, no exceptions
-Existence",0.14285714285714285
-That seed is one of them.,この実も その１つ,This fruit is one of them,0.4444444444444444
+Existence",0.14285714285714285,0.26655453
+That seed is one of them.,この実も その１つ,This fruit is one of them,0.4444444444444444,0.55423003
 "If you plant it in the ground, it'll bring a good\N harvest for that year in that area","土に埋めれば 周囲に
 １年限りの豊穣をもたらし―","Once you fill in the soil,
-Bring a rich harvest of one year-",0.2916666666666667
+Bring a rich harvest of one year-",0.2916666666666667,0.7386796
 And? What do you plan to do \Nwith that seed once you find?,"その実を見つけ出して
 どうするつもりなんだ？","Find that fruit
-What are you going to do?",0.4666666666666667
-Would you destroy it or would you use it?,抹消するのか？ 活用するのか？,Do you delete it?Do you use it?,0.4444444444444444
+What are you going to do?",0.4666666666666667,0.4565017
+Would you destroy it or would you use it?,抹消するのか？ 活用するのか？,Do you delete it?Do you use it?,0.4444444444444444,0.56809294
 the person who dies is forced to be \Na sacrifice regardless of his or her will.,"死ぬ者は意と関係なく
 贄(にえ)にされる","Those who die are regardless
-It is made to",0.18181818181818182
-"If that's the cost of the sin,",その程度の罪ならば―,If it is a sin of that extent-,0.3333333333333333
-then anyone would dirty their hands...,誰もが手を染めるだろう,Everyone will dye your hands,0.09090909090909091
+It is made to",0.18181818181818185,0.54662573
+"If that's the cost of the sin,",その程度の罪ならば―,If it is a sin of that extent-,0.3333333333333333,0.60890526
+then anyone would dirty their hands...,誰もが手を染めるだろう,Everyone will dye your hands,0.09090909090909093,0.5267698
 "Indeed, when you look at it from the short span of one year, it'd be senseless not to use it.","確かに １年きりという
 短い目で見りゃあ―","Certainly one year
-Look at a short eye-",0.20833333333333334
+Look at a short eye-",0.20833333333333331,0.5187066
 "But once you use it, you'll keep using it.","だが 一度 使えば
 何度も使うことになる","But if it uses it once
-It will be used many times",0.17647058823529413
-"And, that seed is alive.",そして あの実は生きている,And that fact is alive,0.5
-"Each time you use it, more powerful the effect is.",使うごとに 影響力は増してゆく,The influence will increase each time you use,0.3333333333333333
-Could you afford... not to?,使わずに いられるのか？,Is it not used?,0.2
+It will be used many times",0.17647058823529413,0.8083941
+"And, that seed is alive.",そして あの実は生きている,And that fact is alive,0.5,0.5263031
+"Each time you use it, more powerful the effect is.",使うごとに 影響力は増してゆく,The influence will increase each time you use,0.3333333333333333,0.70633805
+Could you afford... not to?,使わずに いられるのか？,Is it not used?,0.2,0.14423352
 I don't know. I've never lived in a village.,"分からんねえ
 里で生きた覚えがないし","I do not know
-I do not remember lived in the village",0.42857142857142855
+I do not remember lived in the village",0.42857142857142855,0.77898574
 Here... in this land...,"この土地を開き
 ようやく ここまでにしてきた","Open this land
-Finally she has been here",0.3
-Our ancestor's flesh and blood sleep here!,先祖の血肉が眠ってんだよ,An ancestor's bloody blood is sleeping,0.23076923076923078
-They pioneered the land and made it what it's today.,そうなる前に 土地を捨てる,Discard the land before,0.15384615384615385
+Finally she has been here",0.3,0.5188416
+Our ancestor's flesh and blood sleep here!,先祖の血肉が眠ってんだよ,An ancestor's bloody blood is sleeping,0.2307692307692308,0.74924535
+They pioneered the land and made it what it's today.,そうなる前に 土地を捨てる,Discard the land before,0.15384615384615385,0.41680807
 That's our only pride!,"それが俺らにとって
 唯一の誇りなんだよっ","That's for us
-The only proud of",0.2727272727272727
+The only proud of",0.2727272727272727,0.7110552
 Doesn't planting something abnormal in that ground mean you're violating the soil?,"その土に異形のモノを埋めるのは
 土を汚(けが)すことにはならんのか？","It is to fill the minor things on the soil
-Isn't it to be injured ?",0.16666666666666666
-I know what you're saying.,そんなことは 分かってる,I know that,0.25
+Isn't it to be injured ?",0.16666666666666666,0.59748954
+I know what you're saying.,そんなことは 分かってる,I know that,0.25,0.3921516
 If there really is such a seed...,"そんな実が
 もしも本当にあったなら―","Such fruit
-If it was really",0.2727272727272727
-...I would think about it more carefully.,もっと… 慎重に考える,More ... Think carefully,0.4444444444444444
+If it was really",0.2727272727272727,0.41214058
+...I would think about it more carefully.,もっと… 慎重に考える,More ... Think carefully,0.4444444444444444,0.64669394
 That's right...,"そののちの 人の苦しみを
 知るべくもなく","That person's suffering
-Without knowing",0.25
-Such a seed is too much for one man to handle.,そんな実は １人の人の手に余る,Such a real thing is about one person's hand,0.2222222222222222
-Oh! Are you done chatting already?,（サネ）ハァ ハァ… あ！,Ha ha ... Oh!,0.2
+Without knowing",0.25,0.13817063
+Such a seed is too much for one man to handle.,そんな実は １人の人の手に余る,Such a real thing is about one person's hand,0.2222222222222222,0.29590935
+Oh! Are you done chatting already?,（サネ）ハァ ハァ… あ！,Ha ha ... Oh!,0.2,0.17194006
 Yeah. But I first need to get \Nthe consent of the entire village...,"ああ だが それには
 村全体の承諾が要る","Oh, but that
-Our consent of the whole village",0.25
+Our consent of the whole village",0.25,0.71379113
 Can you have everyone gather somewhere?,"それで あなたは皆を
 助けてくれるの？","So you all
-Can you help?",0.3
-S-sure. But... just what are you planning to...,う うん… でも 一体どういう…,Umm ... But what is it?,0.21428571428571427
-Are you suggesting we burn down the rice paddies...,（祭主）田を焼くというのか？,Do you bake the rice field?,0.21428571428571427
+Can you help?",0.3,0.19484453
+S-sure. But... just what are you planning to...,う うん… でも 一体どういう…,Umm ... But what is it?,0.21428571428571427,0.2628692
+Are you suggesting we burn down the rice paddies...,（祭主）田を焼くというのか？,Do you bake the rice field?,0.21428571428571427,0.56209445
 "Yeah, that's right. So you're finally admitting the truth.","ああ そうだ
 ようやく 認めなすったか","Oh yeah
-I finally admitted",0.125
+I finally admitted",0.125,0.49839312
 Are you trying to make everyone starve to death?,"そんなことをしても 誰も助からん
 皆を餓死させるつもりか？","Even if you do such a thing, everyone is helpful
-Are you going to death everyone?",0.3157894736842105
-All you've to do is live somewhere else for a year.,１年 ここを離れれば 済むことだ,It is about to leave here a year,0.23529411764705882
+Are you going to death everyone?",0.3157894736842105,0.470495
+All you've to do is live somewhere else for a year.,１年 ここを離れれば 済むことだ,It is about to leave here a year,0.2352941176470588,0.5603888
 "By spring, the ashes should have fertilized the soil.","春には 燃やした灰が
 土を肥やしてくれてるはずだ","Ash buried in spring
-You should be fertilizing the soil",0.25
+You should be fertilizing the soil",0.25,0.81743443
 How many do you think will return \Nonce they leave this land?,"ここを離れて 一体
 何人が戻るというのか","One out of this
-How many people go back",0.15789473684210525
+How many people go back",0.15789473684210525,0.5083876
 They're able to tolerate it because none of them know...,"皆 知らぬから
 耐えていられるのだ","Because everyone knows
-It can endure",0.125
-what a real bountiful harvest is!,本当の豊穣というものを！,A real fertility!,0.375
-I won't allow you to tell everyone such strange tales!,皆に… 妙なことを―,Everyone ... strange thing-,0.14285714285714285
-Does he have some kind of illness?,おっさん なんか 病持ちか,Some sickness,0.1111111111111111
+It can endure",0.125,0.43984947
+what a real bountiful harvest is!,本当の豊穣というものを！,A real fertility!,0.375,0.4373331
+I won't allow you to tell everyone such strange tales!,皆に… 妙なことを―,Everyone ... strange thing-,0.14285714285714285,0.3160129
+Does he have some kind of illness?,おっさん なんか 病持ちか,Some sickness,0.1111111111111111,0.556912
 "I'm not sure, but he didn't seem well of late,","（サネ）
-よくは 分からないけど―",I do not know well-,0.125
+よくは 分からないけど―",I do not know well-,0.125,0.2546641
 and I saw him taking medicine sometimes.,"このごろ 体調が悪いみたいで
 時々 薬 飲んでた","It looks like you're feeling bad
-Sometimes I drank medicine",0.1875
-Medicine?,（ギンコ）薬？,Medicine?,1.0
+Sometimes I drank medicine",0.1875,0.47109812
+Medicine?,（ギンコ）薬？,Medicine?,1.0,0.9999999
 "I'm not sure for what reason \Nyou've been taking this poison,","こんな毒
 飲んでたんだか知らんが―","Such poison
-I do not know if I was drinking-",0.15
+I do not know if I was drinking-",0.15,0.72496307
 but isn't it irresponsible to die \Nleaving things the way they're?,"このまま死んじまうのは
 無責任なんじゃないか？","It will die as it is
-Isn't it irresponsible?",0.375
-"Since you're suggesting we burn the rice paddies,",田を焼こうなんざ…―,Burn the rice field ...-,0.23076923076923078
+Isn't it irresponsible?",0.375,0.68377703
+"Since you're suggesting we burn the rice paddies,",田を焼こうなんざ…―,Burn the rice field ...-,0.2307692307692308,0.6324795
 it doesn't seem like you came hoping to use that seed.,"あんた あの実を利用する気で
 来たんじゃあなさそうだな","I feel like using that fruit
-It looks like it came",0.2222222222222222
-Please... I've made the decision to be \Nthe last sacrifice for the seed.,俺にすると決めてたんだ,I decided to be me,0.17647058823529413
-"Thereafter, every time a natural disaster occurred, the seed was used,",先々代の祭主だったという,It was said that it was the festival of the previous time,0.16666666666666666
-"but in order to prevent panic, \Nonly the head priests knew the truth.",混乱を防ぐため その実は代々―,"In fact, it is actually a student to prevent confusion",0.19047619047619047
-"It was 20 years ago when the first natural disaster occurred after I became the head priest,",今から20年前のことだ,It is 20 years ago from now,0.2
+It looks like it came",0.2222222222222222,0.49776888
+Please... I've made the decision to be \Nthe last sacrifice for the seed.,俺にすると決めてたんだ,I decided to be me,0.17647058823529413,0.33056402
+"Thereafter, every time a natural disaster occurred, the seed was used,",先々代の祭主だったという,It was said that it was the festival of the previous time,0.16666666666666666,0.18688326
+"but in order to prevent panic, \Nonly the head priests knew the truth.",混乱を防ぐため その実は代々―,"In fact, it is actually a student to prevent confusion",0.19047619047619047,0.19503526
+"It was 20 years ago when the first natural disaster occurred after I became the head priest,",今から20年前のことだ,It is 20 years ago from now,0.2,0.3094837
 I have to use it! If I don't...,"祭主のみ
 知るところとされてきた","Festival
-It has been said to know",0.13333333333333333
-I'm stepping out.,（祭主）出かけてくる,comes out,0.16666666666666666
+It has been said to know",0.13333333333333333,0.06396458
+I'm stepping out.,（祭主）出かけてくる,comes out,0.16666666666666666,0.4484887
 I was only thinking of the best \Ninterest of the entire village.,"（祭主）
-俺は 村全体のことばかり考え…",I think about the whole of the village ...,0.26666666666666666
+俺は 村全体のことばかり考え…",I think about the whole of the village ...,0.26666666666666666,0.721768
 So I was unaware that my wife was\N hiding her illness from me.,"（祭主）妻が変調を
 隠しているのに 気づかずにいた","wife modulated
-She was not aware that she was hiding",0.2222222222222222
-"Please, dear.",（祭主の妻）ねえ お願いよ,Hey please,0.2
-"or you will die, too...",お米… 食べて,Thank you ...,0.25
-What are you doing?,あっ 何してんだ!?,What do you do?,0.5
-Please eat it even if it hurts.,（祭主の妻）つらくとも食べて,Eat too,0.125
+She was not aware that she was hiding",0.2222222222222222,0.6247357
+"Please, dear.",（祭主の妻）ねえ お願いよ,Hey please,0.2,0.5717758
+"or you will die, too...",お米… 食べて,Thank you ...,0.25,0.19575243
+What are you doing?,あっ 何してんだ!?,What do you do?,0.5,0.5785356
+Please eat it even if it hurts.,（祭主の妻）つらくとも食べて,Eat too,0.125,0.36157486
 "If you eat my life, I don't feel afraid of dying.","私の命を あんたが
 食べてくれるなら―","My life is
-If you eat-",0.25
-"Despite it being the rice that it was,",体は貪欲に吸収していった,The body was absorbed by greed,0.16666666666666666
-I was going to throw out the seed which had eventually fallen out of my wife.,俺は捨てにいくつもりだった,I'm going to throw away,0.2222222222222222
+If you eat-",0.25,0.5239643
+"Despite it being the rice that it was,",体は貪欲に吸収していった,The body was absorbed by greed,0.16666666666666666,0.269625
+I was going to throw out the seed which had eventually fallen out of my wife.,俺は捨てにいくつもりだった,I'm going to throw away,0.2222222222222222,0.4153761
 "But... I started to think about the next natural disaster, which was sure to come sooner or later.","だが いずれまた くるであろう
 天災のことを思った","But all will come again
-I thought of a natural disaster",0.19230769230769232
+I thought of a natural disaster",0.19230769230769232,0.72311926
 Then I realized I could use the seed one more time without having to sacrifice someone's life.,"誰の犠牲も見ずに
 実を使えることに気づいた","Nobody's sacrifice
-He noticed that he could use fruit",0.17391304347826086
-"Finally, this year,the time had come to use it.",そして今年 時はきた…,And this year I came ...,0.125
+He noticed that he could use fruit",0.17391304347826084,0.44576946
+"Finally, this year,the time had come to use it.",そして今年 時はきた…,And this year I came ...,0.125,0.53562945
 I plan to have Sane destroy the seed \Nthat falls out of my mouth.,"俺から抜け落ちた実は
 サネに処分してもらうつもりだ","Actually falling from me
-I'm going to be disposed of Sane",0.17391304347826086
+I'm going to be disposed of Sane",0.17391304347826084,0.58865935
 I hear it'll be destroyed if it's buried in the place that you call the path of the light vein.,"あの実は あんたらの言う
 光脈筋に埋めれば 取り込まれ―","That actually says
-It is captured if it is filled with the spain-",0.14814814814814814
-But I don't plan to tell him about the seed.,姿をなくすという,To eliminate the figure,0.14285714285714285
+It is captured if it is filled with the spain-",0.14814814814814814,0.33217084
+But I don't plan to tell him about the seed.,姿をなくすという,To eliminate the figure,0.14285714285714285,0.07925905
 "More than anyone, you want to live here and see the future of this land, right?","ここで生きて この土地の
 行く末を 見たいはずだろ","Live here
-I should see the end of going",0.22727272727272727
+I should see the end of going",0.2272727272727273,0.475163
 "I can see it; if we don't give up, \Nthis land will slowly become fertile.","（祭主）見えるさ
-このまま 諦めなければ―",If you do not give up as it is-,0.21739130434782608
+このまま 諦めなければ―",If you do not give up as it is-,0.21739130434782608,0.3830766
 "Surely, the day should come someday \Nwhere we can live comfortably.","いつか必ず 何不自由なく
 暮らせる日がくるはずだ","Someday there will be no deaf
-The day you can live will come",0.3157894736842105
+The day you can live will come",0.3157894736842105,0.48916975
 All right. I'll let it play out as you wish.,"（ギンコ）分かった
 あんたの望むとおりにすればいい","I understand
-You should do it as you want",0.25
-My mom... She's gonna be okay now.,（サネ）ハァ… ハァ…,Hua ...,0.08333333333333333
-I told you so.,お前に話があるんだ,I have a story in you,0.2222222222222222
+You should do it as you want",0.25,0.32509395
+My mom... She's gonna be okay now.,（サネ）ハァ… ハァ…,Hua ...,0.08333333333333333,0.18800601
+I told you so.,お前に話があるんだ,I have a story in you,0.2222222222222222,0.27687338
 It's really important. I want you to listen carefully.,"そうか よかったな
 だから言ったろうが","It was good
-So I would like to say",0.17647058823529413
+So I would like to say",0.17647058823529413,0.085089214
 "Hey, Sane, the ritual prayer sounds \Ndifferent from last year's.","（村人１）ハハハ おいサネ
 なんか 祝詞 去年と違うぞ","Hahaha Hey Saine
-Something is different from last year",0.2222222222222222
+Something is different from last year",0.2222222222222222,0.25742546
 "Yeah, I haven't heard any news of it yet.","（村人３）それじゃあ 正真正銘
 わしらの努力で 実った稲なのか？","Well then, genuine
-Is it rice that is raw rice with the efforts of Writer?",0.125
+Is it rice that is raw rice with the efforts of Writer?",0.125,0.046032473
 "Maybe this year's bountiful harvest \Nwasn't a ""parting harvest.""","（村人２）ひょっとすると
 今年の豊作は―","Hiyoshi
-This year's good harvest-",0.1875
-Hey.,よう,Let,0.0
-The festival... is carrying on fine.,（サネ）祭りは 事なく進んでるよ,festival is not going to go,0.16666666666666666
-Everyone is having fun.,みんな楽しそうだ,Everybody looks fun,0.14285714285714285
-Head priest...,祭主様…,Festival principle ...,0.2
+This year's good harvest-",0.1875,0.5654094
+Hey.,よう,Let,0.0,0.3759161
+The festival... is carrying on fine.,（サネ）祭りは 事なく進んでるよ,festival is not going to go,0.16666666666666666,0.67419463
+Everyone is having fun.,みんな楽しそうだ,Everybody looks fun,0.14285714285714285,0.61230415
+Head priest...,祭主様…,Festival principle ...,0.2,0.1901742
 Why does it have to be this way?,"（サネ）なんでこんなの…
 こんなの やだよう","Why is this ...
-Such girlfriend seems to be",0.2857142857142857
+Such girlfriend seems to be",0.2857142857142857,0.25101897
 Don't tell anyone what I'm about to do.,"これから俺がすることは
 一切 他言しないでくれよ","I will do it from now on
-Don't say anything else",0.16666666666666666
+Don't say anything else",0.16666666666666666,0.5201308
 "I told you that the light vein is like life itself,","光脈は生命そのものだと
 言ったが―","The vein is life itself
-I said-",0.46153846153846156
+I said-",0.4615384615384616,0.78684974
 "It's a gamble but, even animals would be able to come back to life, if that seed is ingested.","そのまま生物に流し込んでも
 蘇生まではできない","Even if it is poured into organisms
-I can not get to resuscitation",0.1724137931034483
-"Only, unlike vegetation, the light vein will probably continue to live within you.",あんたの中に 宿り続けるだろう,It will continue to stay in you,0.2222222222222222
-"If that happens, you'll become an immortal being...",そうなると それは 不死の…―,"That happens, it is immortal ...-",0.35714285714285715
+I can not get to resuscitation",0.1724137931034483,0.3495688
+"Only, unlike vegetation, the light vein will probably continue to live within you.",あんたの中に 宿り続けるだろう,It will continue to stay in you,0.2222222222222222,0.35768175
+"If that happens, you'll become an immortal being...",そうなると それは 不死の…―,"That happens, it is immortal ...-",0.35714285714285715,0.7403917
 Can you handle that?,"あんたは それを
 受け入れられるか？","Any
-Is it acceptable?",0.1111111111111111
-I don't even know if it'll work.,成功するかは 分からんし―,I do not know if it succeeds-,0.4166666666666667
-But if you're willing to take a chance...,だが 賭けてみるなら―,But if you want to bet-,0.3333333333333333
-This is my apology to you for wrangling out the\Ntruth about the seed from your wounds.,これくらい 手を汚してもいい,You can get dirty about this,0.15
-Give it a lot of thought.,（祭主）考えたところで―,I thought about,0.1111111111111111
-I want to see it through after all...,俺はなあ… やはり見届けたい,I'm ... I want to see it again,0.5454545454545454
+Is it acceptable?",0.1111111111111111,0.42584574
+I don't even know if it'll work.,成功するかは 分からんし―,I do not know if it succeeds-,0.4166666666666667,0.5404974
+But if you're willing to take a chance...,だが 賭けてみるなら―,But if you want to bet-,0.3333333333333333,0.537174
+This is my apology to you for wrangling out the\Ntruth about the seed from your wounds.,これくらい 手を汚してもいい,You can get dirty about this,0.15,0.11651309
+Give it a lot of thought.,（祭主）考えたところで―,I thought about,0.1111111111111111,0.3214305
+I want to see it through after all...,俺はなあ… やはり見届けたい,I'm ... I want to see it again,0.5454545454545454,0.5663746
 how this land will develop...,"この土地がこの先
 どうなってゆくのかを","This land is
-What's wrong",0.2
+What's wrong",0.2,0.51982754
 the story of that year's bountiful harvest was forever talked about in that village.,"その年の豊作は のちのちまで
 語り草になったという","The good harvest of that year
-It is said that it became the grass",0.23809523809523808
-"At the same time, a strange legend had also begun.",奇妙な伝説も生まれた,A strange legend was also born,0.2857142857142857
+It is said that it became the grass",0.2380952380952381,0.47342613
+"At the same time, a strange legend had also begun.",奇妙な伝説も生まれた,A strange legend was also born,0.2857142857142857,0.69367003
 "The man became ageless and immortal, \Ntraveling around the country,","その男は 不老不死となり
 諸国を歩き―","That man is immortal immortal
-He walks through countries-",0.125
+He walks through countries-",0.125,0.7220345
 and at times returning to convey new farming methods to enrich the land.,"時折 戻っては
 その地を潤す 新たな農法を―","Occasionally back
-New farming methods that moisturize the land-",0.2222222222222222
+New farming methods that moisturize the land-",0.2222222222222222,0.71955657

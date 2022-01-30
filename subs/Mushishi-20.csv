@@ -1,236 +1,236 @@
-en_text,jp_text,google_translated,score
-Mushi-Shi,～♪,~ ♪,0.0
-"It's you, Ginko.",まあ 相変わらずだよ,"Well, it's not dependent",0.3333333333333333
-How's work?,（たま）どうだ 仕事の方は？,How is your job?,0.2857142857142857
-"Here to view the archives again today, right?",今日も書庫に行くのだろ？,Will you go to the archive today?,0.2857142857142857
-What would you like to read?,（たま）どの辺りを読みたい？,Which part do you want to read?,0.36363636363636365
-It starts from that shelf.,そっちの棚からだよ,It is from the shelf of that,0.4444444444444444
+en_text,jp_text,google_translated,score,semantic_score
+Mushi-Shi,～♪,~ ♪,0.0,0.36015734
+"It's you, Ginko.",まあ 相変わらずだよ,"Well, it's not dependent",0.3333333333333333,0.11720527
+How's work?,（たま）どうだ 仕事の方は？,How is your job?,0.2857142857142857,0.64326435
+"Here to view the archives again today, right?",今日も書庫に行くのだろ？,Will you go to the archive today?,0.2857142857142857,0.7327172
+What would you like to read?,（たま）どの辺りを読みたい？,Which part do you want to read?,0.3636363636363637,0.6931579
+It starts from that shelf.,そっちの棚からだよ,It is from the shelf of that,0.4444444444444444,0.782707
 "Thanks, I appreciate it.","（ギンコ）先代までのは
 あらかた読んだな","until the previous year
-I read it",0.18181818181818182
-"Oh, and give me that thing... your cigar.",ああ そうだ,Oh yeah,0.08333333333333333
-I'm not going to smoke in here.,ここで吸ったりしねえよ,I will suck here,0.18181818181818182
-These are not merely guides to sealing away mushi.,内容はもちろんのこと―,Not to mention content-,0.16666666666666666
-I realize that.,分かってるよ,I know,0.2
+I read it",0.18181818181818185,0.127883
+"Oh, and give me that thing... your cigar.",ああ そうだ,Oh yeah,0.08333333333333333,0.18772621
+I'm not going to smoke in here.,ここで吸ったりしねえよ,I will suck here,0.18181818181818185,0.41097203
+These are not merely guides to sealing away mushi.,内容はもちろんのこと―,Not to mention content-,0.16666666666666666,0.107823
+I realize that.,分かってるよ,I know,0.2,0.5526983
 these are indisputably secret documents.,"これらの書物は
 紛れもなく秘書である","These books
-It is a secretary without being confused",0.07142857142857142
-but more so for their raison d'etre...,その存在理由において 主に…,Lord for the reason for that existence ...,0.15384615384615385
+It is a secretary without being confused",0.07142857142857142,0.37731215
+but more so for their raison d'etre...,その存在理由において 主に…,Lord for the reason for that existence ...,0.15384615384615385,0.2258339
 """Forward: Circumstances regarding the birth of","“淡幽の生誕についての
 もろもろ”","""About the birth of soil
-""",0.36363636363636365
-This is...,（淡幽の父）これは…,This is ...,1.0
-There is no mistake.,間違いございません,There is no mistake,0.8
+""",0.3636363636363637,0.39917392
+This is...,（淡幽の父）これは…,This is ...,1.0,1.0000004
+There is no mistake.,間違いございません,There is no mistake,0.8,0.95844805
 The black birthmark...,"墨色のあざ…
 四代目の“筆記者”です","Black colored bruise ...
-It is the ""brush reporter"" of the fourth generation",0.2
-Tanyu-ojousan.,（たま）淡幽お嬢さん,Little Doso,0.0
-Please return to your room.,部屋にお戻りください,Please return to the room,0.5714285714285714
-No!,（淡幽）やだ！,Yada!,0.3333333333333333
-I want to play outside like the others.,私も… 外で遊びたい,I also want to play outside,0.5
+It is the ""brush reporter"" of the fourth generation",0.2,0.4338785
+Tanyu-ojousan.,（たま）淡幽お嬢さん,Little Doso,0.0,0.28903058
+Please return to your room.,部屋にお戻りください,Please return to the room,0.5714285714285714,0.9104428
+No!,（淡幽）やだ！,Yada!,0.3333333333333333,0.3827757
+I want to play outside like the others.,私も… 外で遊びたい,I also want to play outside,0.5,0.9172177
 Why is studying how to read and write all I ever do?,"なんで読み書きの
 勉強ばかりなの？","Why read and write
-Are you just studying?",0.375
+Are you just studying?",0.375,0.83931583
 Why won't this leg move?,"なんで この足
 動かないの？","Why is this foot
-Isn't it moving?",0.36363636363636365
-I will tell you... everything.,すべて お話しいたしましょう,Let's talk about everything,0.09090909090909091
+Isn't it moving?",0.3636363636363637,0.75064903
+I will tell you... everything.,すべて お話しいたしましょう,Let's talk about everything,0.09090909090909093,0.49136132
 That birthmark on your right leg is a remnant of mushi sealed away inside you.,"（たま）その右足のあざは
 蟲を封じた跡なのです","The right foot bruise
-It is a mark sealed",0.19047619047619047
+It is a mark sealed",0.19047619047619047,0.45946878
 My mushi-shi ancestor sealed the forbidden mushi in your ancestor's body.,"お嬢さんのご先祖のお体に
 禁種(きんしゅ)の蟲を封じたのです","To the body of your ancestors
-I sealed the wolf of the discretion",0.2222222222222222
-Forbidden?,（淡幽）禁種？,?,0.5
-Yes.,（たま）はい,Yes,0.5
-"By nature, flora and fauna are in harmony with mushi.",動植物栄える所 蟲も栄え―,The flora and plants are prosperous,0.2
-"following a terrible natural catastrophe,",けれど その昔の大天災の折―,But the old natural disaster is,0.09090909090909091
+I sealed the wolf of the discretion",0.2222222222222222,0.5018587
+Forbidden?,（淡幽）禁種？,?,0.5,0.32044008
+Yes.,（たま）はい,Yes,0.5,0.8368556
+"By nature, flora and fauna are in harmony with mushi.",動植物栄える所 蟲も栄え―,The flora and plants are prosperous,0.2,0.46305174
+"following a terrible natural catastrophe,",けれど その昔の大天災の折―,But the old natural disaster is,0.09090909090909093,0.6079989
 One that attempted to erase all other life.,"他のすべての生命を
 消さんとしたのです","All other lives
-It was an eraser",0.14285714285714285
-What was that mushi like?,どんな蟲なの？,What kind of moth is it?,0.18181818181818182
+It was an eraser",0.14285714285714285,0.64943725
+What was that mushi like?,どんな蟲なの？,What kind of moth is it?,0.18181818181818185,0.20935053
 The story passed down in my family is that,"ご先祖様は出産後
 命を落とされたということです","The ancestors are after delivery
-It is said that lives were dropped",0.16666666666666666
+It is said that lives were dropped",0.16666666666666666,0.44331726
 "your ancestor was pregnant when the mushi was sealed inside of her,","身重でありながら蟲を封じた
 ご先祖様のお体は―","I sealed a wolf but
-My body of your ancestors-",0.15789473684210525
-causing her entire body to turn coal black...,全身 墨の色となり―,Full-body black color-,0.09090909090909091
-"The mushi continued to live inside her body,",蟲は体内で生き続けましたが―,The wolf continued to live in the body-,0.3333333333333333
+My body of your ancestors-",0.15789473684210525,0.42667776
+causing her entire body to turn coal black...,全身 墨の色となり―,Full-body black color-,0.09090909090909093,0.38400117
+"The mushi continued to live inside her body,",蟲は体内で生き続けましたが―,The wolf continued to live in the body-,0.3333333333333333,0.44507962
 You mean it's still alive in here?,"（淡幽）ここに
 それが まだ生きてるの？","here
-Is that he still live?",0.23076923076923078
-"Am I going to die soon, too?!",私も そのうち死んじゃうの？,I will die soon?,0.36363636363636365
-You should have the power to put\N the mushi to sleep for good.,蟲を眠らす お力も―,The ability to sleep,0.23076923076923078
-I will help you do it.,たまが お手伝いいたします,I will help you,0.5714285714285714
+Is that he still live?",0.2307692307692308,0.5842711
+"Am I going to die soon, too?!",私も そのうち死んじゃうの？,I will die soon?,0.3636363636363637,0.8055245
+You should have the power to put\N the mushi to sleep for good.,蟲を眠らす お力も―,The ability to sleep,0.2307692307692308,0.4136449
+I will help you do it.,たまが お手伝いいたします,I will help you,0.5714285714285714,0.71925646
 "When you have gotten a little \Nbetter at reading and writing,","いま少し読み書きが
 お達者になられた日には―","Little reading and writing
-On the day of the day",0.25
-"There, we will bury the forbidden\N mushi underground forever.",そうすれば 体のあざは消え―,"If so, the bruises of the body disappear-",0.11764705882352941
-"Then, your black birthmark will disappear and you will be able to walk.",歩けるようにもなるでしょう,It will be able to walk,0.3333333333333333
-That was a dream of long ago...,ずいぶんと昔の夢だったな…,It was a long time ago ...,0.5
+On the day of the day",0.25,0.49084783
+"There, we will bury the forbidden\N mushi underground forever.",そうすれば 体のあざは消え―,"If so, the bruises of the body disappear-",0.1176470588235294,0.06303878
+"Then, your black birthmark will disappear and you will be able to walk.",歩けるようにもなるでしょう,It will be able to walk,0.3333333333333333,0.4582526
+That was a dream of long ago...,ずいぶんと昔の夢だったな…,It was a long time ago ...,0.5,0.6180894
 Please write down everything \NI am about to tell you later.,"後から紙に
 写し取ってくださいまし","Later on paper
-Please copy",0.13333333333333333
-All of Tama's stories were about how\Nshe defeated mushi as a mushi-shi.,（淡幽）たまの話は すべて―,All stories are all-,0.125
-and told sad stories by dim lantern light...,悲しい話は あんどんの下(もと)で,Sad stories are under the underbrow,0.15384615384615385
-"But, when I wrote them down, an intense pain ran through my birthmark.",足のあざには激痛が走った,Huge pain ran on the tooth,0.10526315789473684
+Please copy",0.13333333333333333,0.3565823
+All of Tama's stories were about how\Nshe defeated mushi as a mushi-shi.,（淡幽）たまの話は すべて―,All stories are all-,0.125,0.32771072
+and told sad stories by dim lantern light...,悲しい話は あんどんの下(もと)で,Sad stories are under the underbrow,0.15384615384615385,0.49606332
+"But, when I wrote them down, an intense pain ran through my birthmark.",足のあざには激痛が走った,Huge pain ran on the tooth,0.10526315789473684,0.34044564
 Are the mushi leaving my body right now?,"（淡幽）今 蟲が
-体から出てきているの？",Are you out of your body?,0.23076923076923078
-That's right.,そうです,that's right,0.75
-The fact that I have defeated many mushi\Nis a curse to the forbidden one.,その蟲にとっては呪(じゅ)なのです,It is a curse  for that,0.17647058823529413
+体から出てきているの？",Are you out of your body?,0.2307692307692308,0.43932173
+That's right.,そうです,that's right,0.75,0.88832206
+The fact that I have defeated many mushi\Nis a curse to the forbidden one.,その蟲にとっては呪(じゅ)なのです,It is a curse  for that,0.17647058823529413,0.44754168
 "I realize it's painful, but please bear it...","おつらいでしょうが
 こらえてください","It will be good
-Please come",0.14285714285714285
-Tama...,（淡幽）ああ…,Oh ...,0.3333333333333333
-"Now, I am grateful.",今は感謝しておりますよ,I am grateful now,0.6666666666666666
+Please come",0.14285714285714285,0.15040632
+Tama...,（淡幽）ああ…,Oh ...,0.3333333333333333,0.22536446
+"Now, I am grateful.",今は感謝しておりますよ,I am grateful now,0.6666666666666666,0.8353622
 Tell me the rest of the story.,"それは やがて時が過ぎ
 たまの話も尽き―","It is eventually past time
-Tama's story is also exhausted-",0.0625
-Will you be all right?,大丈夫で？,Are you okay?,0.25
+Tama's story is also exhausted-",0.0625,0.3170235
+Will you be all right?,大丈夫で？,Are you okay?,0.25,0.3844374
 How hard Tama was trying to ease my pain...,"いかに私の痛みを紛らわそうと
 苦心してくれていたか","How to conflict my pain
-Did you struggle",0.2857142857142857
+Did you struggle",0.2857142857142857,0.44935545
 "and began inviting other mushi-shi \Nto tell theirs, that I realized it...","ほかの蟲師を
 招くようになるころに分かった","Other acupunctives
-I understanded when it comes to",0.15789473684210525
-"And in order to wipe out the vermin mushi,\NI used its natural enemy...",山中に 天敵である蟲を…,A snack that is a natural enemy in the mountains ...,0.23809523809523808
-I knew how to get rid of them...,方法は分かっておりましたので…,Because I knew how ...,0.4
+I understanded when it comes to",0.15789473684210525,0.01887447
+"And in order to wipe out the vermin mushi,\NI used its natural enemy...",山中に 天敵である蟲を…,A snack that is a natural enemy in the mountains ...,0.2380952380952381,0.43063372
+I knew how to get rid of them...,方法は分かっておりましたので…,Because I knew how ...,0.4,0.44365868
 The pain in my leg was joined by a pain in my heart...,"心の痛みも伴うものに
 なっていった","For things with heart pain
-It was",0.2
-"Killing brought on by arrogance \Ntoward tiny, lower life forms",微小で下等なる生命へのおごり,Good for life that makes,0.06666666666666667
-that is something only one who has actually faced mushi should say...,言えぬことかと…,It is something to say ...,0.26666666666666666
+It was",0.2,0.65885794
+"Killing brought on by arrogance \Ntoward tiny, lower life forms",微小で下等なる生命へのおごり,Good for life that makes,0.06666666666666668,0.19273354
+that is something only one who has actually faced mushi should say...,言えぬことかと…,It is something to say ...,0.26666666666666666,0.20512384
 But there was nothing I could do about it.,"けれど 私には
 どうしようもないことだった","But to me
-I was not able to do anything",0.26666666666666666
-If only I could use this leg...,私だって この足さえ動けば…,If this foot makes this foot ...,0.3
-Excuse me...,（ギンコ）あの… もし,That ...,0.25
-Might you be the daughter of the Karibusa family?,蟲の話 集めてんだろ？,Did you collect the story of your wolf?,0.2857142857142857
+I was not able to do anything",0.26666666666666666,0.5826907
+If only I could use this leg...,私だって この足さえ動けば…,If this foot makes this foot ...,0.3,0.4603609
+Excuse me...,（ギンコ）あの… もし,That ...,0.25,0.42268184
+Might you be the daughter of the Karibusa family?,蟲の話 集めてんだろ？,Did you collect the story of your wolf?,0.2857142857142857,0.23563492
 "Oh, so this is the black birthmark I've heard about?","あ… じゃあ これが
 うわさの墨色のあざ？","Oh ... this is
-A brazing of the irrigation ink color?",0.25
-"Are you a mushi-shi, too?",お前も蟲師か,You are also an acupuncture,0.2
-"I'm sorry, but please leave.",（淡幽）悪いが帰ってくれ,bad but back,0.1
+A brazing of the irrigation ink color?",0.25,0.4352923
+"Are you a mushi-shi, too?",お前も蟲師か,You are also an acupuncture,0.2,0.16541319
+"I'm sorry, but please leave.",（淡幽）悪いが帰ってくれ,bad but back,0.1,0.1732532
 I've heard enough about killing mushi.,"協力すれば “狩房文庫”
 閲覧できると聞いたんだが","If you cooperate with ""Histor Bunko""
-I heard that I can view it",0.1
-A story about the mushi that eat moles...,じゃあ 殺さねえ話な,Then it is a story that kills,0.23076923076923078
-Moles?,（淡幽）ほくろ？,?,0.5
-"No, nothing...",いや それでは役に立たない…,"No, it is useless ...",0.42857142857142855
+I heard that I can view it",0.1,0.11790768
+A story about the mushi that eat moles...,じゃあ 殺さねえ話な,Then it is a story that kills,0.2307692307692308,0.24127437
+Moles?,（淡幽）ほくろ？,?,0.5,0.19161259
+"No, nothing...",いや それでは役に立たない…,"No, it is useless ...",0.42857142857142855,0.30262968
 But Tama probably wouldn't want \Nto hire a mushi-shi like you...,"きっと たまは お前のような
 蟲師は雇いたがらんだろうし―","Surely Tama is like you
-The acupuncturist will hire-",0.15789473684210525
-Incredible...,（ギンコ）すげえ…,...,0.5
+The acupuncturist will hire-",0.15789473684210525,0.6098064
+Incredible...,（ギンコ）すげえ…,...,0.5,0.43326965
 Be very careful how you handle the documents.,"ただし 扱いには
 十分 気をつけてくれ","However, in handling
-Please be careful enough",0.13333333333333333
-"Yeah, I've heard.",ああ その話は聞いてる,"Oh, I hear that story",0.2
-It won't kill me that easily.,そう簡単には くたばらねえ,So easily,0.1111111111111111
+Please be careful enough",0.13333333333333333,0.32612276
+"Yeah, I've heard.",ああ その話は聞いてる,"Oh, I hear that story",0.2,0.5010132
+It won't kill me that easily.,そう簡単には くたばらねえ,So easily,0.1111111111111111,0.29057002
 "At any rate, this is quite a treasure for mushi-shi.","それにしても
 こいつは蟲師にゃ宝だな","As well
-This guy is a treasure guy",0.26666666666666666
-"Yes, it is...",禁種の蟲だろ？,Is it a mushroom?,0.25
+This guy is a treasure guy",0.26666666666666666,0.261896
+"Yes, it is...",禁種の蟲だろ？,Is it a mushroom?,0.25,0.2924874
 But everything in here is a record of death.,"だが これらは
 すべて死の目録だ","But these are
-It is a catalog of death",0.35714285714285715
+It is a catalog of death",0.35714285714285715,0.5837554
 I want to hear more stories of animals \Nand mushi living together.,"生物と蟲が共に生きている話を
 もっと聞きたい","A story where living things and wolf are living together
-I want to hear more",0.35
-So will you come and talk with me?,また話をしに来てくれるか？,Will you talk again?,0.4
-It'd be my pleasure.,おや お目覚めでしたか,Was it a good job?,0.09090909090909091
-Huh? What's this?!,なんだ これ？,what's this?,0.6666666666666666
-Bookworm eggs...,紙魚(しみ)の卵…,Paper fish  eggs ...,0.4
-Is it... happening?!,起きた… のか？,What happened ...?,0.25
-Ginko...,（たま）ギンコ,Ginko,0.5
+I want to hear more",0.35,0.54890364
+So will you come and talk with me?,また話をしに来てくれるか？,Will you talk again?,0.4,0.6990284
+It'd be my pleasure.,おや お目覚めでしたか,Was it a good job?,0.09090909090909093,0.07835191
+Huh? What's this?!,なんだ これ？,what's this?,0.6666666666666666,0.62705255
+Bookworm eggs...,紙魚(しみ)の卵…,Paper fish  eggs ...,0.4,0.6414695
+Is it... happening?!,起きた… のか？,What happened ...?,0.25,0.43659583
+Ginko...,（たま）ギンコ,Ginko,0.5,0.9249204
 Otama-san! The bookworms are\Nstarting to eat the paper!,"（ギンコ）おたまさん
 紙魚が紙を食い始めてるぞ！","Otama
-Paper fish is beginning to eat paper!",0.3333333333333333
-Oh no!,なんと！,What!,0.25
-What's the matter?,どうした？,What happened?,0.3333333333333333
-The seal is partially broken!,（たま）封の一部が解けました,Some of the seal was solved,0.2
-They're heading your way!,そちらへ向かっておりまする！,I'm heading for it!,0.2
+Paper fish is beginning to eat paper!",0.3333333333333333,0.68045205
+Oh no!,なんと！,What!,0.25,0.4424776
+What's the matter?,どうした？,What happened?,0.3333333333333333,0.29228994
+The seal is partially broken!,（たま）封の一部が解けました,Some of the seal was solved,0.2,0.68825376
+They're heading your way!,そちらへ向かっておりまする！,I'm heading for it!,0.2,0.6170431
 Not to worry. They can't leave this room.,"（淡幽）なに この部屋からは
 出られん","Now from this room
-Come out",0.14285714285714285
+Come out",0.14285714285714285,0.5216273
 Yes... It's hard to believe that\Nthey had been dormant for centuries...,"いや
 お前のことだよ ギンコ","Disagreeable
-It's your thing Ginko",0.11764705882352941
+It's your thing Ginko",0.1176470588235294,-0.007212296
 "No, I was talking about you, Ginko.","ハハ…
 ちゃんと生きておったのだな","Haha ...
-I was alive properly",0.15384615384615385
-You don't seem fazed... Can you return these things to the way they were?,こいつら 元に戻せるのか？,Can you go back to the original?,0.2631578947368421
+I was alive properly",0.15384615384615385,0.26676768
+You don't seem fazed... Can you return these things to the way they were?,こいつら 元に戻せるのか？,Can you go back to the original?,0.2631578947368421,0.3909914
 "I know a few mushi control methods as well, you know.","私にだって
 できる蟲封じはあるのだぞ","As
-There is a pleasure that you can do",0.16666666666666666
+There is a pleasure that you can do",0.16666666666666666,0.101061486
 The character strings have stopped moving...,"（ギンコ）
-文字列の動きが止まってる",The movement of the string is stopped,0.18181818181818182
+文字列の動きが止まってる",The movement of the string is stopped,0.18181818181818185,0.67416155
 The walls and ceiling of this room\Nare covered with a special paste.,"この部屋の壁と天井には
 特別な のりが塗ってあるのだ","This room's wall and ceiling
-Special her lion is painted",0.2
-Chapter two.,二の章,Chapter,0.3333333333333333
-You memorized the entire contents?,内容… 全部覚えてるのか,Content ... Do you remember all?,0.18181818181818182
+Special her lion is painted",0.2,0.5786955
+Chapter two.,二の章,Chapter,0.3333333333333333,0.7883282
+You memorized the entire contents?,内容… 全部覚えてるのか,Content ... Do you remember all?,0.18181818181818185,0.63264966
 I need to copy the text from time to time like this.,"少しずつ こうして
 写しをせねばならんのだ","Such a little
-I have to make a copy",0.1875
+I have to make a copy",0.1875,0.38673332
 But just copying it in a normal \Nway doesn't seal the mushi.,"かといって 普通に写したのでは
 封じたことにならぬ","If it was copied normally
-It is not a seal",0.15
+It is not a seal",0.15,0.5767057
 This is the way of copying passed down in my family.,"これが家に伝わる
 写しのやり方だ","This is transmitted home
-It is a way of image",0.23529411764705882
-Don't you think they've proliferated a bit too much?,少し増えすぎなんじゃねえか？,Isn't it too much more?,0.26666666666666666
+It is a way of image",0.2352941176470588,0.3485284
+Don't you think they've proliferated a bit too much?,少し増えすぎなんじゃねえか？,Isn't it too much more?,0.26666666666666666,0.3934055
 It's okay... as long as I make copies \Nin a proper way like this.,"私がこうして
 きっちり写しをすればよいことだ","In this way
-It is good if you make a copy",0.22727272727272727
-Such a dangerous pastime...,またそれは危険な遊びを…,Also it is dangerous play ...,0.2222222222222222
-"since this is, after all, my job.",それが私の務めなのだから,Because it is my way,0.16666666666666666
+It is good if you make a copy",0.2272727272727273,0.73379064
+Such a dangerous pastime...,またそれは危険な遊びを…,Also it is dangerous play ...,0.2222222222222222,0.50890785
+"since this is, after all, my job.",それが私の務めなのだから,Because it is my way,0.16666666666666666,0.26259965
 There is a young woman who lives in a sea of writings as if she's drowning in it.,"（ギンコ）文字の海に
 溺れるように生きている娘が―","to the sea of letters
-Daughter who lives as drowning-",0.21739130434782608
-Any other stories?,ほかには？,Other than anything else?,0.2857142857142857
-Well...,（ギンコ）うーん…,Hmm ...,0.3333333333333333
+Daughter who lives as drowning-",0.21739130434782608,0.6650975
+Any other stories?,ほかには？,Other than anything else?,0.2857142857142857,0.43792334
+Well...,（ギンコ）うーん…,Hmm ...,0.3333333333333333,0.46301344
 Let's call it a day.,"（淡幽）ハハハ…
 それで一件落着か","Hahaha ...
-So it's allocated",0.18181818181818182
-We can still continue.,まだ いいぞ,It is still good,0.125
+So it's allocated",0.18181818181818185,0.10530354
+We can still continue.,まだ いいぞ,It is still good,0.125,0.3832417
 Less than half of what you told me\Nis useful for sealing away mushi.,"蟲封じに使えそうな話は
 ５割もなかったろ","The story that seems to be used for
-There were no more than 50%",0.07407407407407407
+There were no more than 50%",0.07407407407407407,0.21653298
 You had a hard day yesterday and\Nyou must be tired. Don't overdo it.,"（ギンコ）
-昨日の今日で疲れてんだろ",I'm tired today yesterday,0.1111111111111111
+昨日の今日で疲れてんだろ",I'm tired today yesterday,0.1111111111111111,0.72795856
 "Ginko, stay there until I finish, okay?","ギンコ 終わるまで
 そこにいてくれな","Until the end of Ginko
-It is not there",0.2
-Sure.,ああ,Ah,0.0
-"Yes, please prepare her bedding.",（淡幽）ギンコ,Ginko,0.0
-I'll be fine without rest...,（淡幽）この足…,This foot ...,0.1111111111111111
-I want to go outside instead.,それより外が見たい,I want to see the outside,0.4444444444444444
-Will you take me there?,連れてってくれるか？,Will you take it?,0.5714285714285714
+It is not there",0.2,0.6549971
+Sure.,ああ,Ah,0.0,0.19622639
+"Yes, please prepare her bedding.",（淡幽）ギンコ,Ginko,0.0,0.11895467
+I'll be fine without rest...,（淡幽）この足…,This foot ...,0.1111111111111111,0.19442514
+I want to go outside instead.,それより外が見たい,I want to see the outside,0.4444444444444444,0.5716592
+Will you take me there?,連れてってくれるか？,Will you take it?,0.5714285714285714,0.6282024
 When will I ever be able to use this leg?,"一体 いつになれば
 動かせるようになるんだろうな","If it becomes an integrated
-It will be possible to move",0.16666666666666666
-Don't rush it.,焦るなよ,Don't be burnt,0.2857142857142857
+It will be possible to move",0.16666666666666666,0.11357884
+Don't rush it.,焦るなよ,Don't be burnt,0.2857142857142857,0.25431064
 "Yes, though little by little.","少しずつでも
 あざは減ってきてるんだろ","Little by little
-Affa is decreasing",0.2222222222222222
+Affa is decreasing",0.2222222222222222,0.48755154
 my descendants will inherit the birthmark...,"いずれ私の子孫が
 引き継ぐことになる","Any of my descendants
-Will be taken over",0.25
-Just as it's always been...,ほんの少しずつだ,It's just a little bit,0.3
+Will be taken over",0.25,0.61454076
+Just as it's always been...,ほんの少しずつだ,It's just a little bit,0.3,0.23667304
 "It may not happen in my lifetime, either...","私の代でも 結局
 かなわないのかもしれないな","In the end of my age
-It may not be possible",0.3125
+It may not be possible",0.3125,0.31489667
 What will you do if your leg heals?,"足 治ったら
 どうすんだ？","If it's cured
-What is it?",0.23076923076923078
-I want to travel with you.,お前と旅がしたいな,I want to travel with you,0.8571428571428571
-Just a thought...,なんてな ハハ…,What a ha ha ...,0.3333333333333333
+What is it?",0.2307692307692308,0.38933823
+I want to travel with you.,お前と旅がしたいな,I want to travel with you,0.8571428571428571,0.968089
+Just a thought...,なんてな ハハ…,What a ha ha ...,0.3333333333333333,0.33028647
 "Even in the best case, I'll be an old lady by then.","よくても そのころ
 私は老婆だがな","Even if it is good
-I am an old woman",0.19047619047619047
+I am an old woman",0.19047619047619047,0.5926557
 ...I'm still alive and well at that time.,"（淡幽）
-それでも生きてるんだよ",Still I'm alive,0.36363636363636365
+それでも生きてるんだよ",Still I'm alive,0.3636363636363637,0.56598264
 You never know... I might be eaten by a mushi tomorrow.,"（ギンコ）いや 明日にでも
 蟲に食われてっかもしんねーし…","No and tomorrow
-It's been eaten by a wolf ...",0.2631578947368421
+It's been eaten by a wolf ...",0.2631578947368421,0.43948558

@@ -1,325 +1,325 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "I think it was on a bright, clear day, just like this.","（ベル）そう あの時も確か
 こんなふうに よく晴れた日だった","That time also
-Such a day she was a sunny day",0.15
-"Hey, Bell! Come quick!",（村人）おい 大変だ ベル！,A lot of trouble Bell!,0.2
+Such a day she was a sunny day",0.15,0.47541314
+"Hey, Bell! Come quick!",（村人）おい 大変だ ベル！,A lot of trouble Bell!,0.2,0.6492235
 "They said he'd fallen into a deep valley, so they were unable to search for him.","捜しにも行けない
 深い谷に落ちていったらしい","I can not go to search
-It seems to have fallen into a deep valley",0.28
+It seems to have fallen into a deep valley",0.28,0.6465623
 I'm going to become an adventurer.,"（ベル）決めたよ おじいちゃん
 僕 冒険者になる","I decided Grandpa
-I will be an adventurer",0.25
+I will be an adventurer",0.25,0.6565736
 "But I looked weak,","（ベル）
-だけど こんな弱そうな僕を―",But I do not like such weak-,0.2
+だけど こんな弱そうな僕を―",But I do not like such weak-,0.2,0.6157061
 so no familia would accept me.,"冒険者として受け入れてくれる
 ファミリアは見つからなかった","Accept as an adventurer
-Familia was not found",0.15384615384615385
-"Get lost, kid!",（門番）持参金でも持っておいで！,Hold yourself!,0.14285714285714285
+Familia was not found",0.15384615384615385,0.52786905
+"Get lost, kid!",（門番）持参金でも持っておいで！,Hold yourself!,0.14285714285714285,0.3673925
 "You could do the cleaning, I guess.","（門番）掃除係なら
 雇ってやってもいいぞ","if the cleaning office
-You can hire it",0.21428571428571427
+You can hire it",0.21428571428571427,0.5996097
 "Please, let me into your familia!","（ベル）お願いします
 僕をファミリアに","please
-I to Familia",0.2
+I to Familia",0.2,0.78405094
 Come back when you're stronger.,"（番人）もっと強くなってから
 来るんだな","after getting stronger
-I will come",0.18181818181818182
+I will come",0.18181818181818185,0.7016567
 Are you looking for a familia?,"（ヘスティア）
-ファミリアを探しているのかい？",Are you looking for Familia?,0.8571428571428571
-There was a goddess...,（ベル）神様が そこにいた,God was there,0.3333333333333333
+ファミリアを探しているのかい？",Are you looking for Familia?,0.8571428571428571,0.9895067
+There was a goddess...,（ベル）神様が そこにいた,God was there,0.3333333333333333,0.51226586
 I'll buy you some time.,"（ベル）僕が時間を稼ぎます
 神様は このまま逃げてください","I earn time
-God should run away as he",0.14285714285714285
+God should run away as he",0.14285714285714285,0.3589204
 Open this gate right now!,"何を言ってるんだ ベル君
 今すぐ ここを開けるんだ！","What I'm saying Bell
-Now open here!",0.25
-Goddess...,（ベル）僕の… 神様,My ... God,0.25
+Now open here!",0.25,0.43789592
+Goddess...,（ベル）僕の… 神様,My ... God,0.25,0.51486576
 I don't want to lose my family again.,"僕は もう
 家族を失いたくないです","I already
-I do not want to lose my family",0.5833333333333334
-Bell!,ベル君！　ベルくーん！,Bell!Belka!,0.6666666666666666
-m 78.14 30.21 b 77.98 34.48 77.33 38.67 76.13 42.78 74.54 49.17 70.52 52.07 64.44 50.88 61.71 50.35 60.07 51.68 58.32 53.29 52.88 58.26 49.93 58.69 43.77 54.79 41 53.04 38.92 53.03 36.11 54.78 29.8 58.71 26.65 58.21 21.07 53.17 19.7 51.94 18.23 50.14 16.4 50.81 9.87 53.2 6.58 49.07 3.22 44.8 0 39.17 1 33.03 1.01 27.01 1.05 26.49 1.15 25.97 1.29 25.46 3.17 20.81 4.36 15.72 9.33 13.08 12.19 11.16 14.29 8.88 14.45 5.1 14.61 1.27 17.36 0 20.36 1.5 30.32 6.49 41.03 1.34 51.19 4.1 53.28 4.66 56.09 2.49 58.59 1.63 62.24 0.38 65 0.99 65.19 5.46 65.37 9.71 68.46 11.72 71.17 14.09 75.46 16.33 75.98 20.96 77.92 24.7 78.36 26.29 78.23 27.91 78.2 29.52 78.18 29.75 78.16 29.98 78.14 30.21,♪～,♪ ~,0.0
+I do not want to lose my family",0.5833333333333334,0.80546886
+Bell!,ベル君！　ベルくーん！,Bell!Belka!,0.6666666666666666,0.80522454
+m 78.14 30.21 b 77.98 34.48 77.33 38.67 76.13 42.78 74.54 49.17 70.52 52.07 64.44 50.88 61.71 50.35 60.07 51.68 58.32 53.29 52.88 58.26 49.93 58.69 43.77 54.79 41 53.04 38.92 53.03 36.11 54.78 29.8 58.71 26.65 58.21 21.07 53.17 19.7 51.94 18.23 50.14 16.4 50.81 9.87 53.2 6.58 49.07 3.22 44.8 0 39.17 1 33.03 1.01 27.01 1.05 26.49 1.15 25.97 1.29 25.46 3.17 20.81 4.36 15.72 9.33 13.08 12.19 11.16 14.29 8.88 14.45 5.1 14.61 1.27 17.36 0 20.36 1.5 30.32 6.49 41.03 1.34 51.19 4.1 53.28 4.66 56.09 2.49 58.59 1.63 62.24 0.38 65 0.99 65.19 5.46 65.37 9.71 68.46 11.72 71.17 14.09 75.46 16.33 75.98 20.96 77.92 24.7 78.36 26.29 78.23 27.91 78.2 29.52 78.18 29.75 78.16 29.98 78.14 30.21,♪～,♪ ~,0.0,0.19730403
 Some monsters escaped?,"（ガネーシャ）
-モンスターが逃げた？",Did the monster escaped?,0.2857142857142857
-What about the guards?,見張りは？,What is the purpose?,0.42857142857142855
-Nine!,９匹です,9 animals,0.0
+モンスターが逃げた？",Did the monster escaped?,0.2857142857142857,0.8530346
+What about the guards?,見張りは？,What is the purpose?,0.42857142857142855,0.12397994
+Nine!,９匹です,9 animals,0.0,0.48936462
 Ask the other gods in the stadium for their cooperation!,"我々だけでは間に合わん
 他のファミリアとも連携をとる","We only fit in time
-Cooperation with other families",0.1875
+Cooperation with other families",0.1875,0.19749197
 "Responsibility for the monsters escaping lies with us, the Ganesha Familia!","私たちガネーシャ･ファミリアの
 失態です","Our Ganesha Familia
-Deaf",0.14285714285714285
+Deaf",0.14285714285714285,0.51788926
 "I am Ganesha, the lord of the masses!","（ガネーシャ）
-俺は群衆の主(あるじ) ガネーシャだ",I'm a crowd's Lord  Ganesha,0.23076923076923078
+俺は群衆の主(あるじ) ガネーシャだ",I'm a crowd's Lord  Ganesha,0.2307692307692308,0.82736474
 Forget about honor and glory!,"我らの至福は子供たちの笑顔
 地位と名誉など捨て置け！","Our bliss smiles children
-Place the status and honor!",0.23076923076923078
-The safety of the people comes before all else!,市民の安全が最優先！,Citizen's safety is the best!,0.23076923076923078
+Place the status and honor!",0.2307692307692308,0.48460498
+The safety of the people comes before all else!,市民の安全が最優先！,Citizen's safety is the best!,0.2307692307692308,0.60002863
 "To minimize panic, continue the festival as planned.","混乱を避けるため
 祭りは このまま続ける","To avoid confusion
-The festival continues as it is",0.26666666666666666
-Don't let this problem get any worse.,騒ぎを大きくするなよ 行け！,Don't make a big noise!,0.14285714285714285
-"Yes, sir!",（メンバーたち）はい！,Yes!,0.5
-What are they after?,（ガネーシャ）狙いは何だ？,What is the aim?,0.25
-Or perhaps...,陽動か かく乱か あるいは…,Heel or disturb or ...,0.4
+The festival continues as it is",0.26666666666666666,0.7275133
+Don't let this problem get any worse.,騒ぎを大きくするなよ 行け！,Don't make a big noise!,0.14285714285714285,0.18943544
+"Yes, sir!",（メンバーたち）はい！,Yes!,0.5,0.7108766
+What are they after?,（ガネーシャ）狙いは何だ？,What is the aim?,0.25,0.21960185
+Or perhaps...,陽動か かく乱か あるいは…,Heel or disturb or ...,0.4,0.18407619
 The hieroglyphs you carved into that knife gave it a status of its own.,"そのナイフは あんたが
 ヒエログリフを刻んだとおり―","The knife is
-As a hieroglyph",0.16666666666666666
+As a hieroglyph",0.16666666666666666,0.7773498
 That weapon is alive.,"（ヘファイストス）
-生きているのよ その武器は","I'm alive, the weapon",0.2222222222222222
-Alive?,生きてる？,alive?,1.0
+生きているのよ その武器は","I'm alive, the weapon",0.2222222222222222,0.6897087
+Alive?,生きてる？,alive?,1.0,0.9999999
 "When it comes into the hands of your child, Bell Cranel,","（ヘファイストス）あんたの子
 ベル･クラネルに渡った時に―","Annota
-When crossing to Bell Cleans-",0.125
-"it will awaken for the first time, and grow as he does.",初めて息づいて 共に育っていく,I will grow together for the first time,0.375
-Thank you!,（男性）ありがとう,Thank you,0.6666666666666666
+When crossing to Bell Cleans-",0.125,0.28615907
+"it will awaken for the first time, and grow as he does.",初めて息づいて 共に育っていく,I will grow together for the first time,0.375,0.51797646
+Thank you!,（男性）ありがとう,Thank you,0.6666666666666666,0.8314234
 Yeah!,"（エイナ）本当なの？
 （ミィシャ）うん","Reality?
- Yeah",0.25
+ Yeah",0.25,0.23762564
 Somebody from the Ganesha Familia was saying that,"（ミィシャ）ガネーシャ･
 ファミリアの人が言ってた","Ganesha
-Familian people said",0.09090909090909091
+Familian people said",0.09090909090909093,0.8764939
 some monsters escaped through the stadium's west gate!,"西ゲートでモンスターが
 逃げたんだって！　んっ","Monster at West Gate
-I ran away!N'",0.17647058823529413
+I ran away!N'",0.17647058823529413,0.72410166
 What if you cause a panic?,"声が大きいよ
 パニックになったら どうするの","Voice is big
-What if you become a panic",0.45454545454545453
-But the odds of any being around are...,でも そう都合よく近くには…,But so convenient well ...,0.16666666666666666
-I wonder if the goddess got away okay.,うまく… 逃げてくれたかな 神様,Good ... I wondered for the Running God,0.13333333333333333
+What if you become a panic",0.4545454545454545,0.55966
+But the odds of any being around are...,でも そう都合よく近くには…,But so convenient well ...,0.16666666666666666,0.23734248
+I wonder if the goddess got away okay.,うまく… 逃げてくれたかな 神様,Good ... I wondered for the Running God,0.13333333333333333,0.4110812
 I wanted to see her one last time.,"（ベル）もう一度
 会いたかったけど―","again
-I wanted to meet-",0.2727272727272727
-Maybe this is actually a good thing.,よかったのかもな,It may be good,0.09090909090909091
-Way to go!,恐らく あと３～４匹は,Perhaps 3 to 4 animals,0.125
-How many monsters are left?,あと何匹ですか？,What animated?,0.125
+I wanted to meet-",0.2727272727272727,0.3669688
+Maybe this is actually a good thing.,よかったのかもな,It may be good,0.09090909090909093,0.41344348
+Way to go!,恐らく あと３～４匹は,Perhaps 3 to 4 animals,0.125,0.09060478
+How many monsters are left?,あと何匹ですか？,What animated?,0.125,0.25631347
 "We've asked other adventurers for their assistance,","他の冒険者にも
 討伐をお願いしていますが―","For other adventurers
-I'm asking for a defeat-",0.21428571428571427
+I'm asking for a defeat-",0.21428571428571427,0.61567146
 "Yeah, I can see why Bell admires her so much.","うん ベル君が憧れちゃうのも
 無理はないかな","Yupo Bell is also longing
-I wonder if it is impossible",0.1
+I wonder if it is impossible",0.1,0.47608566
 I hope he's not caught up in all this.,"（エイナ）
-まさか 巻き込まれてないよね",I'm not getting caught up,0.3076923076923077
-No...,（ベル）そんな どうして…,Which way ...,0.25
-Why did you come back?!,何で来ちゃうんですか！,What does it come!,0.2
-Goddess!,（ベル）神様！,God!,0.3333333333333333
-Goddess! Are you okay?,か… 神様 大丈夫ですか？,Is it ... God okay?,0.2
+まさか 巻き込まれてないよね",I'm not getting caught up,0.3076923076923077,0.49633557
+No...,（ベル）そんな どうして…,Which way ...,0.25,0.3695677
+Why did you come back?!,何で来ちゃうんですか！,What does it come!,0.2,0.27852738
+Goddess!,（ベル）神様！,God!,0.3333333333333333,0.531756
+Goddess! Are you okay?,か… 神様 大丈夫ですか？,Is it ... God okay?,0.2,0.5934866
 I told you to run away!,"何で ここにいるんですか
 逃げてくださいって言ったのに！","What is it here?
-I told you to run away!",0.5833333333333334
+I told you to run away!",0.5833333333333334,0.7403588
 "You really are hopeless, aren't you?","本当に しょうがない子だなあ
 君は","It is a child who is not really sorry
-You are",0.21428571428571427
+You are",0.21428571428571427,0.16886535
 "You want to protect me, you say?","（ヘスティア）
-ボクを守りたいだって？",Want to protect me?,0.625
+ボクを守りたいだって？",Want to protect me?,0.625,0.7953345
 Then I'll say the same thing to you.,"なら その言葉
 そっくり君に返してあげるよ","If it is the word
-I will return to you just",0.23529411764705882
-"And you promised me, right?",それに約束してくれただろ？,Did you promise it?,0.2
+I will return to you just",0.2352941176470588,0.3164973
+"And you promised me, right?",それに約束してくれただろ？,Did you promise it?,0.2,0.61328757
 Don't leave me alone.,"（ヘスティア）お願いだから
 ボクを１人にしないでおくれ","please
-Do not leave me alone",0.5
+Do not leave me alone",0.5,0.8122291
 But...,"でも… でも このままじゃ
 ２人とも！","But ... but this is
-2 people!",0.2857142857142857
-"It's too early to give up, Bell!",諦めるのは早いぜ ベル君,It is early to give up Bell,0.5454545454545454
-"Forgive me, Goddess!",（住人たち）うわあっ！,Wow!,0.16666666666666666
-"I'm sorry, Bell!",すまない ベル君,I'm sorry Bell,0.6666666666666666
+2 people!",0.2857142857142857,0.37678027
+"It's too early to give up, Bell!",諦めるのは早いぜ ベル君,It is early to give up Bell,0.5454545454545454,0.8960764
+"Forgive me, Goddess!",（住人たち）うわあっ！,Wow!,0.16666666666666666,0.17947549
+"I'm sorry, Bell!",すまない ベル君,I'm sorry Bell,0.6666666666666666,0.90165734
 "What are you talking about, Goddess?","（ベル）
-何 言ってるんですか 神様",What are you saying? God,0.4
-I wonder...,（ベル）もしかして…,Maybe ...,0.25
+何 言ってるんですか 神様",What are you saying? God,0.4,0.3718582
+I wonder...,（ベル）もしかして…,Maybe ...,0.25,0.5774639
 "He's after you, Goddess.","（ヘスティア）
-だったら 考えを変えよう","If so, let's change your thoughts",0.15384615384615385
-Then it's time for a change of plan.,見つかるのも時間の問題です,It is also a problem of time to be found,0.25
+だったら 考えを変えよう","If so, let's change your thoughts",0.15384615384615385,0.08187673
+Then it's time for a change of plan.,見つかるのも時間の問題です,It is also a problem of time to be found,0.25,0.343383
 "Bell, you will slay that monster!","ベル君 君が あのモンスターを
 倒すんだ","Bell you are that monster
-Bold",0.4
-I'll update your status now.,ここでステイタスを更新する,Update Status here,0.25
+Bold",0.4,0.72971684
+I'll update your status now.,ここでステイタスを更新する,Update Status here,0.25,0.6776382
 "Even if I get a little stronger,","少しくらい強くなったところで
 僕の攻撃じゃ―","Where it became a little stronger
-My attack is",0.21428571428571427
-can't kill it.,僕じゃ あいつを… 倒せません,I can't beat it ...,0.375
-Bell...,ベル君,Bell,0.5
+My attack is",0.21428571428571427,0.45660108
+can't kill it.,僕じゃ あいつを… 倒せません,I can't beat it ...,0.375,0.48206604
+Bell...,ベル君,Bell,0.5,0.90341544
 When did you start being so pessimistic?,"いつから君は そんな卑屈なヤツに
 なったんだい？","From time to time you are such a cramped guy
-What happened?",0.1111111111111111
-I believe in you.,ボクは君のこと信じてるぜ,I believe me,0.3333333333333333
+What happened?",0.1111111111111111,0.21550627
+I believe in you.,ボクは君のこと信じてるぜ,I believe me,0.3333333333333333,0.60188764
 could defeat that monster easy-peasy.,"あんなモンスター
 チョチョイのチョイさ","That monster
-Chochoy's choy",0.2222222222222222
-Goddess?,だって そうだろ？,That's right?,0.2
-What's this?,これは…,this is…,0.2
+Chochoy's choy",0.2222222222222222,0.42526084
+Goddess?,だって そうだろ？,That's right?,0.2,0.10944166
+What's this?,これは…,this is…,0.2,0.37874243
 I call it...,"やっと渡せるよ
 （ベル）えっ？","I can pass it
-?",0.2857142857142857
+?",0.2857142857142857,0.13816667
 I will bring you victory.,"ボクが君を勝たせてやる
 勝たせてみせる","I will give you you
-Let's win",0.3
-"Please, won't you believe in me?",信じてくれないか,Can you believe,0.2
+Let's win",0.3,0.6414198
+"Please, won't you believe in me?",信じてくれないか,Can you believe,0.2,0.31012747
 Of course!,"（モンスターの叫び声）
-（一同）おお～！",!,0.3333333333333333
-And now Ganesha owes me one too.,ガネーシャへの貸しもできたしな,I was able to lend you to Ganesha,0.07142857142857142
+（一同）おお～！",!,0.3333333333333333,0.44827285
+And now Ganesha owes me one too.,ガネーシャへの貸しもできたしな,I was able to lend you to Ganesha,0.07142857142857142,0.6625476
 The silverback is still out there.,"（ギルド職員）
-まだシルバーバックが残っています",Silver back still remains,0.1
-A witness saw it chasing a young \Nadventurer down Daedalus Street.,若い冒険者を追って―,Follow Young Adventurer-,0.07692307692307693
+まだシルバーバックが残っています",Silver back still remains,0.1,0.7027248
+A witness saw it chasing a young \Nadventurer down Daedalus Street.,若い冒険者を追って―,Follow Young Adventurer-,0.07692307692307693,0.28754961
 Daedalus Street? Of all the places...,"（ロキ）これで あらかた
-片づいたんとちゃうか？",Will it be tired?,0.08333333333333333
+片づいたんとちゃうか？",Will it be tired?,0.08333333333333333,-0.070388444
 "The Ganesha Familia's strike force went after it,","（ギルド職員）
 はい ガネーシャ･ファミリアの
 討伐隊が向かいましたが―","Yes Ganesha Familia
-I went to a defeat bowl-",0.1875
+I went to a defeat bowl-",0.1875,0.56364197
 "but due to the district's layout, \Nthey're having trouble finding it.","ダイダロス通り？
 また やっかいなとこに","Dydurnos?
-In addition to it",0.10526315789473684
+In addition to it",0.10526315789473684,0.175402
 Let's take a break!,"（ロキ）んっ 少し休もうや
 アイズたーん","a little rest
-Eyes",0.1111111111111111
+Eyes",0.1111111111111111,0.19625919
 This knife has that kind of power?,"（ヘスティア）
-このナイフに そんな力が？",In this knife he is such a power?,0.3076923076923077
+このナイフに そんな力が？",In this knife he is such a power?,0.3076923076923077,0.7828034
 "That's the Divine Smith of Heaven, Hephaestus, for you!","すごいよ さすがは天界の神匠(しんしょう)
 ヘファイストスだ","It's amazing, the Masters of the heaven
-Hephiistus",0.3125
+Hephiistus",0.3125,0.65763295
 "Thank you, Hephaestus!","（ヘスティア）
-ありがとう ヘファイストス",Thank you Hephizstus,0.3333333333333333
-"The question is,",一級品の武器ってわけ,The first class weapon is,0.2857142857142857
+ありがとう ヘファイストス",Thank you Hephizstus,0.3333333333333333,0.7418309
+"The question is,",一級品の武器ってわけ,The first class weapon is,0.2857142857142857,0.15933523
 how much Bell's status has gone up by?,"問題は どれだけベル君の
 ステイタスが上がっているのか","How much problem is Bell
-Is Status go up?",0.46153846153846156
+Is Status go up?",0.4615384615384616,0.89264727
 Oh my!,"（衝撃音）
-（ベル）神様 来ます！",God comes!,0.2
+（ベル）神様 来ます！",God comes!,0.2,0.35384208
 It's grown by over 600 points in total?,"熟練度トータル600オーバー？
 これなら！","Total skilled degree 600 over?
-If this!",0.26666666666666666
+If this!",0.26666666666666666,0.24419186
 "Calm down, Bell.","（ヘスティア）大丈夫だ ベル君
 （ベル）あ…","okay Bell
- ...",0.14285714285714285
+ ...",0.14285714285714285,0.73283374
 I'll say it again.,"もう一度 言うよ
 ボクが君を勝たせてみせる","I will say again
-I will try to win you",0.2727272727272727
-Yeah.,はい,Yes,0.0
-"You'll believe in me, right?",信じてくれるね？,Can you believe it?,0.3
+I will try to win you",0.2727272727272727,0.5349286
+Yeah.,はい,Yes,0.0,0.5302519
+"You'll believe in me, right?",信じてくれるね？,Can you believe it?,0.3,0.39017025
 "Okay, go for it!","はい！
 （ヘスティア）よし 行こう！","Yes!
- Let's go!",0.2222222222222222
-This is...,（ベル）これって…,This is ...,1.0
+ Let's go!",0.2222222222222222,0.41028297
+This is...,（ベル）これって…,This is ...,1.0,1.0000006
 "That's your power right now, Bell!","（ヘスティア）
-それが今の君の力だ ベル君！",That's your power of your power Bell!,0.6
-That knife is alive!,そのナイフは生きてる,The knife is alive,0.5
+それが今の君の力だ ベル君！",That's your power of your power Bell!,0.6,0.8418718
+That knife is alive!,そのナイフは生きてる,The knife is alive,0.5,0.86079437
 "The more you grow, the stronger it will become!","使い手が 君が成長すれば するほど
 強くなるんだ！","The more you grow up
-It will be strong!",0.5384615384615384
-Believe in...,（ベル）信じる,Believe,0.3333333333333333
-Believe in me!,信じるんだ ボクを！,Believe me!,0.75
-I'll believe!,信じる！,believe!,0.5
-For my goddess!,神様のために！,For God!,0.4
+It will be strong!",0.5384615384615384,0.7256312
+Believe in...,（ベル）信じる,Believe,0.3333333333333333,0.59473974
+Believe in me!,信じるんだ ボクを！,Believe me!,0.75,0.74386466
+I'll believe!,信じる！,believe!,0.5,0.6750248
+For my goddess!,神様のために！,For God!,0.4,0.63368624
 "I did it, Goddess!","（ヘスティア）
-やった！　やったよ ベル君！",Hooray!I did it Bell!,0.5
-"Thank you, Goddess!",ありがとうございます 神様,Thank you God,0.3333333333333333
-What? It's over already?,それはボクのセリフだ ベル君,It's a venue of Bell,0.2
-I chased after your ass... as fast as I could.,う… 何や もう終わってたんか,Oh ... I already finished,0.15384615384615385
-Yeah... you're right.,ベル君 本当に よく頑張ったね…,Bell You really worked hard ...,0.2
-Go...,ウフフフ…,Uhhufu ...,0.3333333333333333
+やった！　やったよ ベル君！",Hooray!I did it Bell!,0.5,0.55652857
+"Thank you, Goddess!",ありがとうございます 神様,Thank you God,0.3333333333333333,0.40730366
+What? It's over already?,それはボクのセリフだ ベル君,It's a venue of Bell,0.2,0.14777541
+I chased after your ass... as fast as I could.,う… 何や もう終わってたんか,Oh ... I already finished,0.15384615384615385,0.3289152
+Yeah... you're right.,ベル君 本当に よく頑張ったね…,Bell You really worked hard ...,0.2,0.1683406
+Go...,ウフフフ…,Uhhufu ...,0.3333333333333333,0.25748706
 Maybe that wasn't a very nice thing to do to Hestia.,"（フレイヤ）ヘスティアには
 悪いことしたかしら","Hestia
-Bad things",0.07142857142857142
-Let's play again sometime...,（フレイヤ）また遊びましょう,Let's play again,0.6666666666666666
-Bell.,ベル,Bell,0.5
+Bad things",0.07142857142857142,0.5761993
+Let's play again sometime...,（フレイヤ）また遊びましょう,Let's play again,0.6666666666666666,0.82986784
+Bell.,ベル,Bell,0.5,0.9590634
 but you all did really well!,"いろいろあったが
 みんな よくやってくれた","There were various things
-Everyone did it well",0.15384615384615385
-Ganesha is extremely satisfied!,ガネーシャ 超満足！,Ganesha super satisfied!,0.5
-"By the way, I'm Ganesha!",ちなみに俺がガネーシャだ,"By the way, I am Ganesha",0.6666666666666666
+Everyone did it well",0.15384615384615385,0.52002215
+Ganesha is extremely satisfied!,ガネーシャ 超満足！,Ganesha super satisfied!,0.5,0.9474324
+"By the way, I'm Ganesha!",ちなみに俺がガネーシャだ,"By the way, I am Ganesha",0.6666666666666666,0.95274484
 No fatalities or serious injuries.,"（エイナ）
-“死亡者 重傷者 共になし”と","""Death Sembars""",0.0
-What was that?,どういうことなんだろう,What does it mean,0.14285714285714285
+“死亡者 重傷者 共になし”と","""Death Sembars""",0.0,0.15791796
+What was that?,どういうことなんだろう,What does it mean,0.14285714285714285,0.25502136
 How is your goddess doing?,"（シル）
-いかがです？　女神様のご様子は",How about?My Goddess is,0.5
+いかがです？　女神様のご様子は",How about?My Goddess is,0.5,0.6837288
 It seems that she was just \Nexhausted and needed to rest.,"（ベル）疲れが出て
 眠っているだけみたいです","Tired
-I just want to sleep",0.125
+I just want to sleep",0.125,0.23573565
 You even lent us a bed.,"お騒がせしました
 ベッドまで貸してもらっちゃって","I apologize to you for a fuss over
-Have lent to bed",0.2857142857142857
+Have lent to bed",0.2857142857142857,0.5617428
 We have to help each other out when we can.,"（シル）
-困った時は お互いさまです","When I was troubled, he is each other",0.1875
+困った時は お互いさまです","When I was troubled, he is each other",0.1875,0.41429275
 This all happened because I forgot my wallet.,"それに元はといえば
 私が お財布を忘れたせいで―","Besides, the original
-Because I forgot his wallet-",0.2
+Because I forgot his wallet-",0.2,0.39949298
 It's my fault that you got caught up in all this.,"ベルさんを騒動に
 巻き込んでしまったんですよね","Bell's turmoil
-I got involved",0.11764705882352941
-I'm sorry.,ごめんなさい,sorry,0.25
+I got involved",0.1176470588235294,0.14011689
+I'm sorry.,ごめんなさい,sorry,0.25,0.54203176
 "No, it's not your fault at all, Syr.","（ベル）い… いえ
 シルさんのせいじゃ","...
-It's because of Mr. Sil",0.125
+It's because of Mr. Sil",0.125,0.23164243
 They said you were very brave when you fought the monster.,"そうそう
 街の皆さんが言ってましたよ","Oh yeah
-The city said",0.14285714285714285
+The city said",0.14285714285714285,0.22024658
 Not really. All I did was run away.,"いや そんな
 逃げ回ってただけですし","Such
-I just run away",0.2727272727272727
+I just run away",0.2727272727272727,0.5095613
 "Actually, I saw a little of the fight, too.","そんなことありません
 実は私も 少しお見かけして―","There is no such thing
-Actually I see a little bit-",0.2222222222222222
+Actually I see a little bit-",0.2222222222222222,0.29858673
 "See you later, Bell!","（シル）お店の手伝いしてきます
 またあとで ベルさん","I will help you
-Also after her Bell",0.16666666666666666
+Also after her Bell",0.16666666666666666,0.50769466
 You scared me when you collapsed like that!,"（ヘスティア）いやあ
-さすがに疲れが出たらしいね",It seems that tiredness came out,0.07692307692307693
+さすがに疲れが出たらしいね",It seems that tiredness came out,0.07692307692307693,0.2035942
 that all the other monsters were also defeated.,"あのシルバーバック以外の
 モンスターも―","Other than that silver back
-Monster also-",0.14285714285714285
-"It was mostly thanks to Aiz Wallenstein, they say.",全部 倒されたそうです,It seems to have been defeated,0.13333333333333333
-Oh. I see.,シルさんたちに聞いたんですが―,I asked Sir-san-,0.16666666666666666
+Monster also-",0.14285714285714285,0.46904725
+"It was mostly thanks to Aiz Wallenstein, they say.",全部 倒されたそうです,It seems to have been defeated,0.13333333333333333,0.18557441
+Oh. I see.,シルさんたちに聞いたんですが―,I asked Sir-san-,0.16666666666666666,0.1755229
 Where did you get this knife?,"（ベル）
-このナイフ どうしたんですか？",What happened to this knife?,0.3
+このナイフ どうしたんですか？",What happened to this knife?,0.3,0.71263
 "It says ""Hephaestus"" on the scabbard...","鞘(さや)に“ヘファイストス”って
 あの…","""Hephizstus"" to the sheath
-that…",0.23076923076923078
+that…",0.2307692307692308,0.6967388
 Isn't that—,"あのヘファイストスさ
 正真正銘のね","That Hephistos
-It is true true",0.14285714285714285
-"It was Hephaestus, sure enough!",知ってたよ,I knew it,0.1111111111111111
+It is true true",0.14285714285714285,0.20028877
+"It was Hephaestus, sure enough!",知ってたよ,I knew it,0.1111111111111111,0.18106449
 I saw how you always used to have your face,"君がヘファイストスの店の窓に
 いつも顔を張り付けていたのを","You are the window of the Store of Hefizists
-I always put my face",0.2222222222222222
+I always put my face",0.2222222222222222,0.4525695
 It might not be exactly what you wanted...,"君の欲しがっていた物とは
 違うかもしれないけど―","What is your desired thing
-It may be different-",0.2
+It may be different-",0.2,0.5419459
 But that knife is the only one of its kind in the world.,"でも これ
 世界に１つしかないんだ","But this
-I only have one in the world",0.375
-What about the money?,でも お金は？,But the money?,0.5
+I only have one in the world",0.375,0.43649793
+What about the money?,でも お金は？,But the money?,0.5,0.74570227
 Weapons made by the Hephaestus Familia are really expensive.,"ヘファイストス･ファミリアの
 武器は すごく高くて…","Hephizstus Familia
-The weapon is very high height ...",0.11764705882352941
+The weapon is very high height ...",0.1176470588235294,0.577108
 I struck a deal!,"話は つけてきた
-（ベル）えっ",I talked about,0.14285714285714285
+（ベル）えっ",I talked about,0.14285714285714285,0.33531103
 "You said you want to get stronger, right?","強くなりたいんだろ？
 言ったじゃないか 手を貸すって","Do you want to be strong?
-I said that I said that I would like to lend my hand",0.2631578947368421
+I said that I said that I would like to lend my hand",0.2631578947368421,0.6534264
 At least let me do this much.,"これくらいの おせっかいは
 させてくれよ","About this
-Let me",0.3333333333333333
+Let me",0.3333333333333333,0.4460971
 "More than anyone and anything,","（ヘスティア）誰よりも何よりも
 ボクは君の力になりたいんだよ","More than anyone
-I want to be your power",0.25
-Because I love you!,だってボクは君のことが好きだから,Because I like you,0.5
+I want to be your power",0.25,0.4955404
+Because I love you!,だってボクは君のことが好きだから,Because I like you,0.5,0.76877236
 You can always rely on me.,"（ヘスティア）
-いつだって頼ってくれよ",I will rely on,0.2222222222222222
-Because I'm your goddess.,ボクは君の神様なんだから,Because I'm your god,0.5714285714285714
-"Hey, the hell are you doing?",まっ モンスターに囲まれたら―,If you surround the monster-,0.18181818181818182
+いつだって頼ってくれよ",I will rely on,0.2222222222222222,0.6543164
+Because I'm your goddess.,ボクは君の神様なんだから,Because I'm your god,0.5714285714285714,0.8159462
+"Hey, the hell are you doing?",まっ モンスターに囲まれたら―,If you surround the monster-,0.18181818181818185,0.07634868
 Hurry up.,"（ゲド）おい 何してやがる
 早くしろ","Hey what to do
-hurry up",0.2857142857142857
+hurry up",0.2857142857142857,0.6376471
 What a useless supporter.,"（ゲド）チンタラしやがって
 能なしのサポーター風情が","Tintara
-Normal supporter style",0.125
+Normal supporter style",0.125,0.2993711
 I can't afford to pay somebody who can't do her job,"おとりくらいには
 してやるからな 役立たず","To the one
-It is not useful because I will do",0.15789473684210525
+It is not useful because I will do",0.15789473684210525,0.09593846
 "Are you serious about this, Hephaestus?","（ヘスティア）う…
 これ 本気かい？　ヘファイストス","...
-Is this really serious?Hephiistus",0.25
-"Yes, of course!",（ヘファイストス）ええ もちろん,Yes Of course,0.6
+Is this really serious?Hephiistus",0.25,0.7177822
+"Yes, of course!",（ヘファイストス）ええ もちろん,Yes Of course,0.6,0.7908875

@@ -1,249 +1,249 @@
-en_text,jp_text,google_translated,score
-"I walk ten thousand miles,",♪～,♪ ~,0.0
-Hey... Kid...,～♪,~ ♪,0.0
-Are you still alive?,生きてるのか？,Are you alive?,0.8
-You've the ability to see mushi?,（ぬい）お前 蟲(むし)が見えるのか？,Do you see the ?,0.4444444444444444
-There is no need to be afraid.,（ぬい）おびえることはない,There is no obvious,0.3333333333333333
-Or is it me you're afraid of?,それとも 私の方が恐ろしいか？,Or are you horrible?,0.2727272727272727
-Drink this. It'll help with your injury.,これを飲め ケガによい,Let's drink this,0.18181818181818182
-Mom...,（ヨキ）うわっ…,Wow ...,0.3333333333333333
-Mom!,母さん！,mother!,0.3333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+"I walk ten thousand miles,",♪～,♪ ~,0.0,0.13774477
+Hey... Kid...,～♪,~ ♪,0.0,0.16962138
+Are you still alive?,生きてるのか？,Are you alive?,0.8,0.88932043
+You've the ability to see mushi?,（ぬい）お前 蟲(むし)が見えるのか？,Do you see the ?,0.4444444444444444,0.3244812
+There is no need to be afraid.,（ぬい）おびえることはない,There is no obvious,0.3333333333333333,0.22692789
+Or is it me you're afraid of?,それとも 私の方が恐ろしいか？,Or are you horrible?,0.2727272727272727,0.48223886
+Drink this. It'll help with your injury.,これを飲め ケガによい,Let's drink this,0.18181818181818185,0.48167294
+Mom...,（ヨキ）うわっ…,Wow ...,0.3333333333333333,0.23411041
+Mom!,母さん！,mother!,0.3333333333333333,0.94478685
 "What, Yoki, are you seeing those weird things again?","なんだい ヨキ
 また奇妙なものが見えるのかい？","What is Yoki
-Can you see strange things again?",0.4
-You've to be strong.,心を強く持つんだよ,I have a strong heart,0.1
+Can you see strange things again?",0.4,0.84359694
+You've to be strong.,心を強く持つんだよ,I have a strong heart,0.1,0.5895387
 I can move my foot a lot better now.,"（ヨキ）
-だいぶ 動かせるようになった",I was able to move,0.15384615384615385
-I wonder what kind of fish they are?,なんて魚だろう,What a fish will,0.18181818181818182
-They're pure white with green eyes.,真っ白で 目が緑…,White white eyes green ...,0.3333333333333333
-It's because of the mushi living in the pond.,（ぬい）池に棲(す)む 蟲のせいだ,It's because of the ripples in the pond,0.6363636363636364
+だいぶ 動かせるようになった",I was able to move,0.15384615384615385,0.49112484
+I wonder what kind of fish they are?,なんて魚だろう,What a fish will,0.18181818181818185,0.5592869
+They're pure white with green eyes.,真っ白で 目が緑…,White white eyes green ...,0.3333333333333333,0.80646324
+It's because of the mushi living in the pond.,（ぬい）池に棲(す)む 蟲のせいだ,It's because of the ripples in the pond,0.6363636363636364,0.54929936
 "Uhm... those are not... illusions, are they?","あの… あれらは
 幻じゃないんだよね？","That ...
-You're not a phantom?",0.21428571428571427
-Are they totally different from us?,俺らとは まったく違うものなの？,What is quite different from us?,0.4
-I see. I get it.,ただ 影響は及ぼしてくる,Just affect it,0.14285714285714285
+You're not a phantom?",0.21428571428571427,0.34221363
+Are they totally different from us?,俺らとは まったく違うものなの？,What is quite different from us?,0.4,0.76424736
+I see. I get it.,ただ 影響は及ぼしてくる,Just affect it,0.14285714285714285,0.11456074
 I can walk now without a cane.,"（ヨキ）
-杖なしで 歩けるようになった",I was able to walk without a cane,0.45454545454545453
+杖なしで 歩けるようになった",I was able to walk without a cane,0.4545454545454545,0.9215937
 "Yoki, isn't your foot better by now?","そろそろ 足は
 いいんじゃないのか？","Soon the feet
-Isn't it good?",0.2
-"You've a home to go back to, right?",帰るうちも あるんだろ？,Are you going home?,0.25
+Isn't it good?",0.2,0.6215946
+"You've a home to go back to, right?",帰るうちも あるんだろ？,Are you going home?,0.25,0.6414987
 "I tagged along with my mom,\N who was a traveling peddler.","ずっと母さんと
 物売りして 歩いてたんだ","With my mother
-I was walking for sale",0.2222222222222222
-And... my foot... it still hurts when I walk.,それに 足… まだ 歩くと痛い,Beetle ... I still hurt when I walk,0.38461538461538464
+I was walking for sale",0.2222222222222222,0.4775402
+And... my foot... it still hurts when I walk.,それに 足… まだ 歩くと痛い,Beetle ... I still hurt when I walk,0.38461538461538464,0.51343715
 What kind of mushi live in the pond? Tell me.,"池の蟲って
 どんなやつなの？ 教えてよ","I'm sorry
-What kind of?Tell me",0.4
-Darkness?,闇？,darkness?,1.0
-Yes. There are two types of darkness.,（ぬい）そう 闇には２つある,so there are two in the dark,0.25
+What kind of?Tell me",0.4,0.18824251
+Darkness?,闇？,darkness?,1.0,0.9999998
+Yes. There are two types of darkness.,（ぬい）そう 闇には２つある,so there are two in the dark,0.25,0.59535205
 "One is inside a shed, a moonless night,\Nor when you close your eyes.","１つは 目を閉じたり
 蔵の中や 月のない夜―","One closes eyes
-Night without middle and moon-",0.15
+Night without middle and moon-",0.15,0.6660706
 It's the darkness that happens \Nwhen the sun or light is obscured.,"日や明かりを
 遮った時に できる闇","Sun and light
-Darkness that can be interrupted",0.23529411764705882
-"The other darkness is ""perpetual darkness"".",姿は… “闇”としか言えない,"The figure is ... ""darkness"" can only be said",0.35714285714285715
+Darkness that can be interrupted",0.2352941176470588,0.6889147
+"The other darkness is ""perpetual darkness"".",姿は… “闇”としか言えない,"The figure is ... ""darkness"" can only be said",0.35714285714285715,0.6741807
 "but at night, they come out of \Nthe pond to eat smaller mushi.","夜になると 池を出て
 小さき蟲を食う","Get out the pond at night
-Eat a small snack",0.25
+Eat a small snack",0.25,0.606529
 Why did the eye and hair color \Nchange for you and the fish in the pond?,"池の魚や ぬいさんが
 そんな髪や目になったのは…","Pond fish and nap
-That's how hair or eyes ...",0.19047619047619047
+That's how hair or eyes ...",0.19047619047619047,0.5959169
 "At dawn, sometimes the pond sparkles silver.","（ぬい）明け方 時に池が
 銀色に光ってることがある","The pond is
-Silver is shining",0.2727272727272727
+Silver is shining",0.2727272727272727,0.7654916
 It's probably decomposing the mushi it ate into light.,"おそらく食った蟲を
 光に分解してるんだろう","Probably eaten
-It will be decomposed into light",0.2857142857142857
+It will be decomposed into light",0.2857142857142857,0.6361637
 "It seems that if you're constantly\Nexposed to that, you become like this.","あれを繰り返し浴びると
 こうなるようだ","If you take it repeatedly
-It seems like this",0.4
-"Then, won't you lose your other eye if you stay here?",それじゃあ ここにいたら―,Well then if you are here-,0.1875
-"You saw the fish in the pond, didn't you?",（ぬい）池の魚を見たろ？,saw the fish of the pond?,0.45454545454545453
-"Oddly, there are no fish with both eyes gone.",不思議と 両目のない魚はいない,Wonders and no fish have no eyes,0.21428571428571427
+It seems like this",0.4,0.416019
+"Then, won't you lose your other eye if you stay here?",それじゃあ ここにいたら―,Well then if you are here-,0.1875,0.33231148
+"You saw the fish in the pond, didn't you?",（ぬい）池の魚を見たろ？,saw the fish of the pond?,0.4545454545454545,0.87234545
+"Oddly, there are no fish with both eyes gone.",不思議と 両目のない魚はいない,Wonders and no fish have no eyes,0.21428571428571427,0.71833587
 That's probably the way it happens.,"そういうふうに
 できてるんだろうさ","That way
-I can do it",0.2727272727272727
-"Come now, the sun will soon set. We'd better go in.",さあ 日が暮れる 中へ入るよ,"Well, I will go inside",0.17647058823529413
-What are those mushi called?,その蟲 なんていう名前なの？,What is the name of that?,0.18181818181818182
-but I don't know if those mushi have a name.,そいつに名があるかは 知らない,I do not know if there is a name,0.4
-"I call them ""Ginko"".",私は“銀蟲(ぎんこ)”と呼んでいる,"I call it ""Ginko """,0.5
-Don't swallow it.,のみ込むなよ,Don't fit,0.3333333333333333
-It's hot!,かっ 辛っ！ ぶへっ べっ,It is hot!Bubble,0.5
-"Ick, what is this?",（ヨキ）これは？,Is this?,0.5
-Oh! They're balled up!,あっ… なんだこれ,Oh ...,0.14285714285714285
-You broke them up?,散らしたの？,Did you scatter?,0.2857142857142857
-"Whenever I walk through the mountains,\Nit's a common occurrence.",私が山を歩くと いつもこうだ,"When I walk the mountain, always",0.25
-"Hey, can I do that, too?",ねえ 俺にもできる？,Hey you can do it?,0.4
-I know.,（ヨキ）分かってる,I understand,0.25
-It's a bit strong.,（ぬい）少々 クセがきついぞ,A little bit,0.2857142857142857
-Nui!,（ヨキ）ぬい！,Noodle!,0.3333333333333333
-Let's turn on the light.,明かり つけようよ,Let's go to light,0.3333333333333333
-Is it because of the Ginko?,銀蟲のせい？,Is it because of silver cream?,0.5555555555555556
+I can do it",0.2727272727272727,0.27480766
+"Come now, the sun will soon set. We'd better go in.",さあ 日が暮れる 中へ入るよ,"Well, I will go inside",0.17647058823529413,0.45405683
+What are those mushi called?,その蟲 なんていう名前なの？,What is the name of that?,0.18181818181818185,0.35600826
+but I don't know if those mushi have a name.,そいつに名があるかは 知らない,I do not know if there is a name,0.4,0.32992905
+"I call them ""Ginko"".",私は“銀蟲(ぎんこ)”と呼んでいる,"I call it ""Ginko """,0.5,0.92296046
+Don't swallow it.,のみ込むなよ,Don't fit,0.3333333333333333,0.41392782
+It's hot!,かっ 辛っ！ ぶへっ べっ,It is hot!Bubble,0.5,0.67646664
+"Ick, what is this?",（ヨキ）これは？,Is this?,0.5,0.2871607
+Oh! They're balled up!,あっ… なんだこれ,Oh ...,0.14285714285714285,0.27154008
+You broke them up?,散らしたの？,Did you scatter?,0.2857142857142857,0.29570222
+"Whenever I walk through the mountains,\Nit's a common occurrence.",私が山を歩くと いつもこうだ,"When I walk the mountain, always",0.25,0.64749116
+"Hey, can I do that, too?",ねえ 俺にもできる？,Hey you can do it?,0.4,0.6701048
+I know.,（ヨキ）分かってる,I understand,0.25,0.57559013
+It's a bit strong.,（ぬい）少々 クセがきついぞ,A little bit,0.2857142857142857,0.40712112
+Nui!,（ヨキ）ぬい！,Noodle!,0.3333333333333333,0.44671562
+Let's turn on the light.,明かり つけようよ,Let's go to light,0.3333333333333333,0.8175436
+Is it because of the Ginko?,銀蟲のせい？,Is it because of silver cream?,0.5555555555555556,0.3213578
 "if it seems as though you're starting \Nto forget your name and past,","さらに自分の名前や 過去のことも
 思い出せなくなってるようなら―","Furthermore, your name or past
-If you can't remember-",0.3
+If you can't remember-",0.3,0.41338763
 it means the Tokoyami is getting near.,"それはトコヤミが
 そばに来ているためだ","It is Tokyaami
-Because it is coming to the side",0.23076923076923078
+Because it is coming to the side",0.2307692307692308,0.5357434
 It's said that you can escape if you can \Nsomehow remember something.,"どうにか思い出せれば
 抜けられるという","If you remember it
-It is said that",0.46153846153846156
+It is said that",0.4615384615384616,0.5133374
 And what if I just can't remember anything?,"（ヨキ）どうしても
 思い出せない時は？","Why
-When I can not remember?",0.21428571428571427
-It doesn't matter what it is.,それは 普通にもあることだが―,It is usually that it is normal-,0.2
+When I can not remember?",0.21428571428571427,0.71027493
+It doesn't matter what it is.,それは 普通にもあることだが―,It is usually that it is normal-,0.2,0.041882236
 They say to come up with a name for yourself.,"すぐ思い付く名を
 付ければいいそうだ","Name to come up immediately
-It seems that it should be attached",0.2222222222222222
-That'll do?,（ヨキ）そんなんでいいの？,That's why?,0.3333333333333333
+It seems that it should be attached",0.2222222222222222,0.47648317
+That'll do?,（ヨキ）そんなんでいいの？,That's why?,0.3333333333333333,0.36436588
 from the time you'd the previous name.,"（ぬい）その代わり
-前の名だったころのことは―",What was the previous name-,0.18181818181818182
-"Sure, I don't mind.",ああ 構わないよ,"Oh, I don't mind",0.625
-Past these mountains lies my hometown.,この山の先には 私の故郷がある,There is my hometown ahead of this mountain,0.15384615384615385
-"Although it's isolated, it's a beautiful village.",閉ざされているが 美しい里だ,It is a beautiful village that is closed,0.3333333333333333
-"so I became a mushi-shi who traveled \Naround the villages, driving mushi away.",蟲師(むしし)をして 旅をしていた,I was traveling with a mushi,0.16666666666666666
-"Still, I frequently returned to my village.",それでも足しげく 私は里へ戻った,"Still, I returned to a village",0.6
+前の名だったころのことは―",What was the previous name-,0.18181818181818185,0.6836394
+"Sure, I don't mind.",ああ 構わないよ,"Oh, I don't mind",0.625,0.6955819
+Past these mountains lies my hometown.,この山の先には 私の故郷がある,There is my hometown ahead of this mountain,0.15384615384615385,0.8042092
+"Although it's isolated, it's a beautiful village.",閉ざされているが 美しい里だ,It is a beautiful village that is closed,0.3333333333333333,0.71593004
+"so I became a mushi-shi who traveled \Naround the villages, driving mushi away.",蟲師(むしし)をして 旅をしていた,I was traveling with a mushi,0.16666666666666666,0.7685008
+"Still, I frequently returned to my village.",それでも足しげく 私は里へ戻った,"Still, I returned to a village",0.6,0.9075559
 "To meet my parents and friends, \Nbut above all my husband and child.","そして何より
 夫と子どもに会うために","and more than anything
-To meet her husband and child",0.29411764705882354
+To meet her husband and child",0.29411764705882354,0.45313388
 "including my husband and child, father and friends, went into the mountains, never to return.","ある時 夫と子 そして
 父や友人を含む多くの者が―","Husband and child and
-Many people including father and friends-",0.2631578947368421
-"After searching around in the mountains,",私は山中を捜し回ったあげく―,I'm looking for a mountain in the mountains-,0.14285714285714285
+Many people including father and friends-",0.2631578947368421,0.33374324
+"After searching around in the mountains,",私は山中を捜し回ったあげく―,I'm looking for a mountain in the mountains-,0.14285714285714285,0.6278938
 I realized that Tokoyami lived in this pond.,"この池にいるのが
 トコヤミだと気づいた","I'm in this pond
-She noticed that it was Tokoyami",0.42857142857142855
+She noticed that it was Tokoyami",0.42857142857142855,0.8302293
 I'd heard from other mushi-shi,"どうすればいいのかは
 ほかの蟲師より 伝え聞いていた","What should I do?
-I heard it from another acupuncturist",0.23076923076923078
+I heard it from another acupuncturist",0.2307692307692308,0.08419079
 what happens and what to do \Nwhen captured by the Tokoyami.,"山へ入ったきり戻らないと
 聞かされた","If you do not return to the mountain
-Asked",0.17647058823529413
-"So I continue to live here,",諦めきれずに ここにいるのさ,I'm here without being able to give up,0.23076923076923078
-How long have you been here?,どれくらいになるの？,How long?,0.42857142857142855
+Asked",0.17647058823529413,0.24316701
+"So I continue to live here,",諦めきれずに ここにいるのさ,I'm here without being able to give up,0.2307692307692308,0.3372613
+How long have you been here?,どれくらいになるの？,How long?,0.42857142857142855,0.4766084
 I wonder if the others have \Nthe same appearance as you do now?,"その人たちさ ぬいと
 同じ姿になってるのかな","That person
-I wonder if it is the same figure",0.2631578947368421
+I wonder if it is the same figure",0.2631578947368421,0.48298612
 I'm sure... they do.,"彼らはきっとまだ
 さまよっているのだと―","They are surely still
-I'm sorry-",0.2727272727272727
-"That's okay, right?",そうだな きっと,It's probably,0.125
+I'm sorry-",0.2727272727272727,0.35469443
+"That's okay, right?",そうだな きっと,It's probably,0.125,0.16186714
 So let me just stay...,"だからここに…
 （ぬい）だめだ！","So here ...
-It is not good!",0.16666666666666666
-Why not? Why can't I?,どうして… 何がいけないの？,Why ... what do you have?,0.18181818181818182
-Because I want to do this alone.,これは 私だけでやりたい,I want to do this alone,0.75
-"If you say any more, I'll have you leave right now.",それ以上 言ったら―,If you say more-,0.21428571428571427
-Nui is hiding something.,ぬいは 何か隠してる,Something hiding something,0.4
+It is not good!",0.16666666666666666,0.28384307
+Why not? Why can't I?,どうして… 何がいけないの？,Why ... what do you have?,0.18181818181818185,0.20609151
+Because I want to do this alone.,これは 私だけでやりたい,I want to do this alone,0.75,0.7899034
+"If you say any more, I'll have you leave right now.",それ以上 言ったら―,If you say more-,0.21428571428571427,0.4728985
+Nui is hiding something.,ぬいは 何か隠してる,Something hiding something,0.4,0.4812651
 There's a reason why she doesn't want me to stay.,"俺がいちゃ 困る理由が
 何かあるんだ","There is a reason to be troubled
-I have something",0.21052631578947367
-"Come on out, Tokoyami, Ginko.",出てこい トコヤミ 銀蟲…,Get out Toko Yami Ginkgo ...,0.08333333333333333
-What's with that fish?,（ヨキ）なんだ あの魚…,What is that fish ...,0.375
-Yoki!,（ぬい）ヨキッ,Yoki,0.5
+I have something",0.21052631578947367,0.29042962
+"Come on out, Tokoyami, Ginko.",出てこい トコヤミ 銀蟲…,Get out Toko Yami Ginkgo ...,0.08333333333333333,0.7455721
+What's with that fish?,（ヨキ）なんだ あの魚…,What is that fish ...,0.375,0.8129177
+Yoki!,（ぬい）ヨキッ,Yoki,0.5,0.8915047
 What are you doing?,"何してんだい
 光を浴びるのは よくないと…","What are you doing
-She is not good to take light ...",0.3076923076923077
-they disappear when both eyes are gone.,残った方の目が潰れて…,The eyes of those who left are crushed ...,0.13333333333333333
-You knew that?,ねえ 知ってたの？,Hey?,0.2
-It's not that they disappear.,（ぬい）消えるのではない,not disappear,0.2857142857142857
+She is not good to take light ...",0.3076923076923077,0.31857952
+they disappear when both eyes are gone.,残った方の目が潰れて…,The eyes of those who left are crushed ...,0.13333333333333333,0.5337094
+You knew that?,ねえ 知ってたの？,Hey?,0.2,0.28444806
+It's not that they disappear.,（ぬい）消えるのではない,not disappear,0.2857142857142857,0.7061914
 "If you knew that, why didn't you do anything about it?","どうして 知ってて
 そのままにしておいたの？","Why know
-Did you leave it as it is?",0.29411764705882354
+Did you leave it as it is?",0.29411764705882354,0.4500267
 Why do you allow such a terrifying mushi to live?,"こんな恐ろしい蟲
 どうして生かしておくんだよ","Such a horrible
-How do you use it?",0.3333333333333333
+How do you use it?",0.3333333333333333,0.12369157
 Do not let fear and anger cloud your vision.,"恐れや怒りに
 目を くらまされるな","For fear and anger
-Don't get her eyes",0.26666666666666666
+Don't get her eyes",0.26666666666666666,0.6207213
 They're all just being as they're.,"皆 ただ それぞれが
 あるように あるだけ","Everyone just
-Just like it",0.1
+Just like it",0.1,0.36760247
 "We're the ones with wisdom,","蟲師とはずっと
 はるか古来から―","Masaturi with the acupuncturist
-From Haruka old-",0.16666666666666666
+From Haruka old-",0.16666666666666666,0.028332155
 "And, by the time I finally realized the fate of the fish,","そして魚の行く末に
 気づいた時には―","And at the end of the fish
-When noticed-",0.26666666666666666
-I'd already been exposed to too much light as well.,私も もう光を浴びすぎていた,I was already taking too much light,0.35714285714285715
+When noticed-",0.26666666666666666,0.64098096
+I'd already been exposed to too much light as well.,私も もう光を浴びすぎていた,I was already taking too much light,0.35714285714285715,0.6795451
 and tried repeatedly to protect them from the light.,"光を浴びぬよう
 繰り返し 試しもした","Let's take a light
-I also tried repeatedly",0.1875
+I also tried repeatedly",0.1875,0.52407074
 "once the fish started turning white,","一度 白化の始まった
 魚たちは―","Once while it has started
-Fish is-",0.2727272727272727
-No... then you're saying...,それじゃ ぬい…,Well then ...,0.2857142857142857
+Fish is-",0.2727272727272727,0.6781018
+No... then you're saying...,それじゃ ぬい…,Well then ...,0.2857142857142857,0.45192972
 "Still, I refused to believe that \Nmy husband and child became Tokoyami.","それでも 夫や子らが
 トコヤミになってしまったと―","Still her husband and son
-If it became Toko Yami-",0.2
+If it became Toko Yami-",0.2,0.60574657
 I stayed alive by avoiding exposure to \Nthe light and searched for them.,"光を浴びぬようにして
 生き長らえ 捜し歩いた","Make sure to take light
-Lively looking for a living",0.14285714285714285
-It's too late to do anything.,もう全部 手遅れなんだ,It is all too late,0.3
+Lively looking for a living",0.14285714285714285,0.47748968
+It's too late to do anything.,もう全部 手遅れなんだ,It is all too late,0.3,0.74865705
 "Yoki, if you understand what I'm saying, leave here.","ヨキ 分かったら
 お前はもう 出ておゆき","If you understand Yaki
-You are already out",0.1875
-Don't be silly!,んっ やだ！,Hey!,0.16666666666666666
+You are already out",0.1875,0.66118747
+Don't be silly!,んっ やだ！,Hey!,0.16666666666666666,0.26700094
 "I'm beyond help, and I thought \NI really didn't care anymore...","（ぬい）バカ言うんじゃないよ
 （ヨキ）ハッ…！","I'm not stupid
- Ha ...!",0.16666666666666666
-"Please, leave already.",頼むから もう行ってくれ,Please go to me,0.125
+ Ha ...!",0.16666666666666666,0.2295475
+"Please, leave already.",頼むから もう行ってくれ,Please go to me,0.125,0.40369612
 I'm sure you can live on the road.,"お前なら
 旅の暮らしもできるだろう","If you
-You can also live on travel",0.3076923076923077
-No! My home is here!,いやだ！ 俺の故郷ならここだ,I refuse!If my hometown is here,0.4
-It's where I've lived the longest.,一番 長くいた土地だ,It is the longest land,0.2727272727272727
-It's not a place for you.,お前のいていい場所じゃない,It is not a good place for you,0.6
-Don't go! Don't go!,行くなよ,Don't go,0.75
-Nui?!,（ヨキ）池…？ ぬい！,Pond ...?Noodle!,0.3333333333333333
-Wait!,待ってよ,wait,0.5
-"Nui? It's you, isn't it?",ぬい？,Is it wet?,0.3333333333333333
-Go back!,（ぬい）戻るんだ,Back,0.3333333333333333
-What about you?!,ぬいは？,What happens?,0.3333333333333333
-Ginko will awaken soon. \NGet as far away as you can.,できる限り 遠くへ行くんだ,I'm going to go far as far as possible,0.11764705882352941
-Your hand... I don't feel anything.,（ぬい）私は もう…,I already ...,0.2
-It's neither cold nor warm.,冷たくも温かくもない,Cold or warm,0.25
-Your hand is still warm.,（ぬい）お前の手は まだ温かいよ,You are still warm yet,0.2222222222222222
+You can also live on travel",0.3076923076923077,0.5440023
+No! My home is here!,いやだ！ 俺の故郷ならここだ,I refuse!If my hometown is here,0.4,0.5523956
+It's where I've lived the longest.,一番 長くいた土地だ,It is the longest land,0.2727272727272727,0.5728829
+It's not a place for you.,お前のいていい場所じゃない,It is not a good place for you,0.6,0.85759646
+Don't go! Don't go!,行くなよ,Don't go,0.75,0.8131678
+Nui?!,（ヨキ）池…？ ぬい！,Pond ...?Noodle!,0.3333333333333333,0.19730462
+Wait!,待ってよ,wait,0.5,0.842268
+"Nui? It's you, isn't it?",ぬい？,Is it wet?,0.3333333333333333,0.1335533
+Go back!,（ぬい）戻るんだ,Back,0.3333333333333333,0.5529353
+What about you?!,ぬいは？,What happens?,0.3333333333333333,0.2725643
+Ginko will awaken soon. \NGet as far away as you can.,できる限り 遠くへ行くんだ,I'm going to go far as far as possible,0.1176470588235294,0.2312829
+Your hand... I don't feel anything.,（ぬい）私は もう…,I already ...,0.2,0.15477602
+It's neither cold nor warm.,冷たくも温かくもない,Cold or warm,0.25,0.71973914
+Your hand is still warm.,（ぬい）お前の手は まだ温かいよ,You are still warm yet,0.2222222222222222,0.72837454
 "After living near that dim pond,","あの ほの暗い池の傍らで
 それが どんなに懐かしかったか…","By the side of that dark pond
-How did she did not miss ...",0.1111111111111111
-"Now, Yoki. From here on, walk with one eye closed.",だが もう１つは 固く閉じろ,But one more thing is closed,0.125
+How did she did not miss ...",0.1111111111111111,0.54173446
+"Now, Yoki. From here on, walk with one eye closed.",だが もう１つは 固く閉じろ,But one more thing is closed,0.125,0.27388167
 Give one eye to Ginko,"さあ ヨキ この先は
 片目を閉じて おゆき","Sayaki This ahead
-Close up one eye and her ゆ",0.15384615384615385
-in order to get away from the Tokoyami.,また日の光を見るために,Also in order to see the light of the day,0.2857142857142857
-Nu!,（ヨキ）あ… ぬ…！,A ...!,0.25
-So that's Ginko...,あれが 銀蟲…,That is silver ...,0.2857142857142857
+Close up one eye and her ゆ",0.15384615384615385,0.41737422
+in order to get away from the Tokoyami.,また日の光を見るために,Also in order to see the light of the day,0.2857142857142857,0.38215476
+Nu!,（ヨキ）あ… ぬ…！,A ...!,0.25,0.3459667
+So that's Ginko...,あれが 銀蟲…,That is silver ...,0.2857142857142857,0.3262029
 I don't know anymore.,"（ぬい）恐れや怒りに
 目を くらまされるな","fear or anger
-Don't get her eyes",0.16666666666666666
-My name...,俺の名前…,My name ...,1.0
+Don't get her eyes",0.16666666666666666,0.063460976
+My name...,俺の名前…,My name ...,1.0,0.9999999
 "In times like this, what was I supposed to do?","こういう時 どうすれば
 いいんだったっけ…","What if this happens
-Good ...",0.125
-The next day...,（ヨキ）その翌日―,The next day-,0.4
-...my right eye was staring at the sunlight.,右目は日の光を見ていた,The right eye was watching the light of the day,0.2857142857142857
-H-hey!,お おい！,Oop!,0.3333333333333333
-"Hey, I'm back.",おう 戻ったぞ,I'm back,0.5
+Good ...",0.125,0.26516655
+The next day...,（ヨキ）その翌日―,The next day-,0.4,0.81922716
+...my right eye was staring at the sunlight.,右目は日の光を見ていた,The right eye was watching the light of the day,0.2857142857142857,0.80317295
+H-hey!,お おい！,Oop!,0.3333333333333333,0.34601197
+"Hey, I'm back.",おう 戻ったぞ,I'm back,0.5,0.74017835
 Are you well enough to be up? Don't overdo it.,"起きてて平気か？
 無理すんな","Is it awake and it's okay?
-Impulsive",0.10526315789473684
+Impulsive",0.10526315789473684,0.31519118
 So were you able to remember anything \Nelse besides your name?,"名前以外に
 何か 思い出せたか？","Other than name
-Did you remember something?",0.25
-No.,いいや,No,0.5
+Did you remember something?",0.25,0.7453773
+No.,いいや,No,0.5,0.8128344
 "In any case, let's pay a visit \Nto the village head tomorrow.","ともかく 明日 村長のとこ
 顔 出しとこう","Anyway, tomorrow's village chief
-Let's go out",0.2631578947368421
+Let's go out",0.2631578947368421,0.6797227
 "The hole of my left eye, even in the sunlight, was black as if it was seeped in darkness.","左目の穴は 日の下においても
 闇をすくいとったかのように暗く―","The hole of the left eye is also under the day
-Darkness as if it was scooped down-",0.4166666666666667
+Darkness as if it was scooped down-",0.4166666666666667,0.7264696
 And it attracted weird things.,"それは奇妙なものを
 寄せつけた","It's strange
-Dip",0.1111111111111111
-"If it continues to do that, misfortune is sure to follow.",このまま ここに寄せ続けたら―,If you continue to come here as it is-,0.16666666666666666
-That's the feeling I get.,そんな気がする…,That's how it felt…,0.2
-Ginko? Hey!,ギンコ～ お～い,Ginko ~ ~,0.2
-Where did he go?,どこ 行っちまったんだ,Where did you go,0.5
+Dip",0.1111111111111111,0.3108382
+"If it continues to do that, misfortune is sure to follow.",このまま ここに寄せ続けたら―,If you continue to come here as it is-,0.16666666666666666,0.24246402
+That's the feeling I get.,そんな気がする…,That's how it felt…,0.2,0.5816427
+Ginko? Hey!,ギンコ～ お～い,Ginko ~ ~,0.2,0.8243772
+Where did he go?,どこ 行っちまったんだ,Where did you go,0.5,0.695255

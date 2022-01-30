@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,45 +9,45 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825215
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490623
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818448
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120192
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.53447694
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.7646863
 "I see. Sakura, you've come, too.","(ｶｶｼ)
 そうか
  
@@ -59,7 +59,7 @@ I love you",0.2
  
 Sakura also came
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.7842673
 "Now you can formally register
 for the Chunin Exam.","中忍試験
  
@@ -71,11 +71,11 @@ for the Chunin Exam.","中忍試験
  
 Now formally
 I can not apply
-.",0.26666666666666666
+.",0.26666666666666666,0.28339094
 What do you mean?,"(ｻｸﾗ)
 どういうこと？
 
-",What do you mean?,1.0
+",What do you mean?,1.0,1.0000004
 "Actually, from the start,","(ｶｶｼ)
 実のところ
  
@@ -89,7 +89,7 @@ What do you mean?,"(ｻｸﾗ)
 This test
 From the beginning
  
-3 people 1 set",0.15384615384615385
+3 people 1 set",0.15384615384615385,0.10235754
 Yes... I said that.,"個人の自由だって…
 ｡
 (ｶｶｼ)
@@ -104,20 +104,20 @@ Yes... I said that.,"個人の自由だって…
 Ah
  
 Said
-.",0.23076923076923078
+.",0.2307692307692308,0.30460355
 "If I said that,","もし
  
 そのことを言ったなら➡
 
 ","if
  
-If you said that ➡",0.42857142857142855
+If you said that ➡",0.42857142857142855,0.67400736
 "Even if you didn't have
 the will to apply,","たとえ志願する意志がなくても
 サスケに言われれば➡
 
 ","Even if there is no will to
-If you are told by Sasuke",0.2777777777777778
+If you are told by Sasuke",0.2777777777777778,0.4886967
 "you would attempt to take
 the exams half heartedly.","お前は
  
@@ -131,7 +131,7 @@ the exams half heartedly.","お前は
 Good friend
 Try to take
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.32102317
 "For Sasuke's sake and,
 well, Naruto's.","サスケと…
 まっ
@@ -143,7 +143,7 @@ well, Naruto's.","サスケと…
 Mine
  
 For Naruto
-.",0.45454545454545453
+.",0.4545454545454545,0.84163874
 "But... you guys came here
 on your own will.","だが
  
@@ -161,7 +161,7 @@ In your own will
  
 I came here
 .
-➡",0.6428571428571429
+➡",0.6428571428571429,0.8881761
 Naruto!,"ナルト
 ｡
 (ﾅﾙﾄ)
@@ -172,7 +172,7 @@ Naruto!,"ナルト
 .
 
 Yes
-.",0.25
+.",0.25,0.86479855
 "And, Sasuke!","(ｶｶｼ)
 そして
  
@@ -182,21 +182,21 @@ Yes
 ","and
  
 Sasuke
-.",0.4
+.",0.4,0.88505787
 You're a team I'm proud of.,"お前たちは俺の自慢のチームだ
 ｡
 ➡
 
 ","You are my proud team
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.76960325
 Okay! Let's go!,"よし
  
 行くってばよ！
 
 ","Good
  
-You're going to go!",0.2
+You're going to go!",0.2,0.41989368
 W-What's with... this?,"な…
  
 何よ？
@@ -209,7 +209,7 @@ W-What's with... this?,"な…
 What?
  
 this
-.",0.375
+.",0.375,0.28733337
 "Sasuke, you're late!","≪
 (
 いの
@@ -222,7 +222,7 @@ this
 
 Sasuke
  
-Slow ~!➡",0.2
+Slow ~!➡",0.2,0.6704833
 "I thought I'd be able to see you
 for the first time in awhile,","私ったら
  
@@ -232,12 +232,12 @@ for the first time in awhile,","私ったら
 ","If you
  
 For the first time in many years
-I think I can see Sasuke-kun ➡",0.36363636363636365
+I think I can see Sasuke-kun ➡",0.3636363636363637,0.39238748
 so I was waiting in excitement.,"ワクワクして
 待ってたんだから～！
 
 ","Exciting
-Because I was waiting!",0.3
+Because I was waiting!",0.3,0.7411218
 "Get away from Sasuke!
 Ino Pig!","サスケ君から離れい！
  
@@ -245,10 +245,10 @@ Ino Pig!","サスケ君から離れい！
 
 ","Sasuke away from you!
  
-Pig!",0.625
+Pig!",0.625,0.8570162
 What's up with this?,"何ですって？
 
-",What's that?,0.42857142857142855
+",What's that?,0.42857142857142855,0.2759453
 "Are you guys going to take
 this bothersome Exam, too?","(ｼｶﾏﾙ)
 こんな
@@ -259,24 +259,24 @@ this bothersome Exam, too?","(ｼｶﾏﾙ)
 ","Such
  
 Manto test
-Do you also have you too much?",0.15789473684210525
+Do you also have you too much?",0.15789473684210525,0.42534238
 Quit calling us that!,"う～！
 
-",!,0.2
+",!,0.2,0.24766177
 Shikamaru Nara.,"ベェ～
 ｡
 う～！
 
 ","Verb
 .
-!",0.2
+!",0.2,0.1673357
 He's always eating something.,"〈いっつも何か食ってる
 ｡
 ➡
 
 ","<I'm eating something
 .
-➡",0.3
+➡",0.3,0.4933469
 Sasuke... is mine. Bleah!,"サスケ君は
  
 あたしのもの
@@ -289,13 +289,13 @@ Sasuke... is mine. Bleah!,"サスケ君は
 My
  
 Verb
-.",0.3333333333333333
+.",0.3333333333333333,0.7756983
 "She's always fighting with Sakura.
 She's her rival.","サクラちゃんのライバル
 サスケおバカ〉
 
 ","Sakura's rival
-Sasuke Baka>",0.25
+Sasuke Baka>",0.25,0.7475503
 "Yahoo, I found you!","(
 キバ
 )
@@ -309,7 +309,7 @@ Sasuke Baka>",0.25
  
 Point
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.24095763
 "My my, everybody's here.","これはこれは
  
 皆さんおそろいで
@@ -318,17 +318,17 @@ Point
 ","This is this
  
 Everybody
-.",0.25
+.",0.25,0.4842185
 Hinata Hyuga.,"あっ…
 ｡
 
 ","Ah…
-.",0.25
+.",0.25,0.14896867
 "She's a gloomy and shy girl, I guess.","暗くて恥ずかしがり屋な
 女の子か？〉
 
 ","It is dark and shy
-Is it a girl?>",0.25
+Is it a girl?>",0.25,0.59905857
 They're louder than I am!,"〈俺より
  
 うるさい！
@@ -341,7 +341,7 @@ They're louder than I am!,"〈俺より
 noisy!
 I am always a dog
  
-Take it",0.1875
+Take it",0.1875,0.4780143
 "You guys, too?!
 Man.","何だと？
  
@@ -355,7 +355,7 @@ Man.","何だと？
 You guys
  
 Geez
-.",0.3333333333333333
+.",0.3333333333333333,0.38426912
 Now then...,"〈う～んと
  
 う～んと…
@@ -366,7 +366,7 @@ Now then...,"〈う～んと
  
 Hmm ...
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.26226717
 How far can we go?,"さて
  
 どこまで行けますかねぇ？
@@ -377,7 +377,7 @@ How far can we go?,"さて
  
 How far can I go?
 We're
-.",0.5
+.",0.5,0.8660021
 Eh... Sasuke?,"ねぇ
  
 サスケ君
@@ -386,7 +386,7 @@ Eh... Sasuke?,"ねぇ
 ","Hey
  
 Sasuke
-.",0.16666666666666666
+.",0.16666666666666666,0.844665
 You're mighty confident. Kiba.,"(ｻｽｹ)
 フン
  
@@ -400,12 +400,12 @@ You're mighty confident. Kiba.,"(ｻｽｹ)
 It's a margin
  
 Kiba
-.",0.18181818181818182
+.",0.18181818181818185,0.4135035
 We won't lose to you guys!,"お前らには負けねえぜ
 ｡
 
 ","You can not lose to you
-.",0.2727272727272727
+.",0.2727272727272727,0.51068294
 I'm sorry. Naruto...,"ご…
  
 ごめん
@@ -418,11 +418,11 @@ I'm sorry. Naruto...,"ご…
 sorry
  
 Naruto
-.",0.375
+.",0.375,0.82435614
 What?,"(ﾁｮｳｼﾞ)
 何だよ？
 
-",What?,1.0
+",What?,1.0,1.0000002
 Don't step on it.,"(
 シノ
 )
@@ -434,7 +434,7 @@ Don't step on it.,"(
 ","Do not step
 .
 
-Has?",0.3333333333333333
+Has?",0.3333333333333333,0.650526
 "I said, don't step on it.","(
 シノ
 )
@@ -442,7 +442,7 @@ Has?",0.3333333333333333
 ｡
 
 ","I said that I'm going to step
-.",0.3076923076923077
+.",0.3076923076923077,0.7304164
 You're... gonna eat that?,"(ﾁｮｳｼﾞ)
 お前
  
@@ -450,7 +450,7 @@ You're... gonna eat that?,"(ﾁｮｳｼﾞ)
 
 ","you
  
-Do you eat this?",0.3
+Do you eat this?",0.3,0.5689678
 "Hey, you guys!","(ｶﾌﾞﾄ)
 おい
  
@@ -462,7 +462,7 @@ Do you eat this?",0.3
  
 you guys
 .
-➡",0.25
+➡",0.25,0.5357537
 You should be a little quieter.,"もう少し静かにしたほうが
 いいな
 ｡
@@ -471,13 +471,13 @@ You should be a little quieter.,"もう少し静かにしたほうが
 ","If you make a little bit quieter
 Good
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.7382698
 "You guys are the ""rookie nine""...
 fresh out of the academy, right?","アカデミー出たてホヤホヤの
 新人９人だろ？➡
 
 ","Academy came out of Hoyahoya
-It's 9 newcomers?➡",0.17391304347826086
+It's 9 newcomers?➡",0.17391304347826084,0.61064816
 Who're you? Acting all haughty!,"誰よ？
  
 あんた！
@@ -490,7 +490,7 @@ Who're you? Acting all haughty!,"誰よ？
 Ah!
  
 In great
-.",0.25
+.",0.25,0.38868514
 "I'm Kabuto Yakushi.
 Anyway, take a good look around you.","僕は薬師カブト
 それより
@@ -502,7 +502,7 @@ Anyway, take a good look around you.","僕は薬師カブト
 Same
  
 Don't look around
-.",0.2631578947368421
+.",0.2631578947368421,0.21662836
 "Behind you...
 They're from the Rain Village.","君の後ろ
  
@@ -518,7 +518,7 @@ A guy
 It is a raindrop guy
  
 Fantastic
-.",0.1875
+.",0.1875,0.4847978
 Everyone's tense before the Exam.,"試験前で
  
 みんなピリピリしてる
@@ -527,14 +527,14 @@ Everyone's tense before the Exam.,"試験前で
 ","Before the exam
  
 Everyone is doing piri
-.",0.5
+.",0.5,0.61802393
 I guess it can't be helped.,"ど突かれる前に
 注意しておこうと思ってね
 ｡
 
 ","Before it
 I think I'll be careful
-.",0.3333333333333333
+.",0.3333333333333333,0.19807982
 "You're rookies who don't know
 left from right...","右も左も分からない
 新人さんたちだしな
@@ -542,14 +542,14 @@ left from right...","右も左も分からない
 
 ","I do not know right and left
 Newcomers
-.",0.25
+.",0.25,0.6060952
 "Then, is this your second time?","じゃあ
  
 あなたは２回目なの？
 
 ","Surely
  
-Are you the second time?",0.25
+Are you the second time?",0.25,0.8184095
 It's my seventh time.,"７回目
 ｡
 (ｼｶﾏﾙ)
@@ -558,7 +558,7 @@ It's my seventh time.,"７回目
 ","Seventh
 .
 
-picture?",0.25
+picture?",0.25,0.5416804
 "This Exam is only held twice a year,
 so it's now my fourth year.","(ｶﾌﾞﾄ)
 この試験は
@@ -575,7 +575,7 @@ Only twice a year
 Because it is not done
  
 It is already the fourth year
-.",0.4090909090909091
+.",0.4090909090909091,0.7137936
 "No kidding.
 Kabuto, you're pretty awesome, huh?","カブトさん…でしたっけ？
 (ｶﾌﾞﾄ)
@@ -585,7 +585,7 @@ Kabuto, you're pretty awesome, huh?","カブトさん…でしたっけ？
 ","Mr. Kabuto ...?
 
 Ah
-.",0.21428571428571427
+.",0.21428571428571427,0.63832873
 But you haven't passed.,"でも
  
 受かってねえんだぜ
@@ -594,7 +594,7 @@ But you haven't passed.,"でも
 ","but
  
 You're right
-.",0.375
+.",0.375,0.26071876
 Is the Chunin Exam that high a hurdle?,"中忍試験って
  
 そんな
@@ -605,32 +605,32 @@ Is the Chunin Exam that high a hurdle?,"中忍試験って
  
 Such
 Hardle high
-.",0.2
+.",0.2,0.16111998
 "Man, this is utterly bothersome...","…っていうことは
 この試験について➡
 
 ","... That's what
-About this test ➡",0.15384615384615385
+About this test ➡",0.15384615384615385,0.12101769
 "Then, maybe I'll give a bit of
 information to my cute juniors.","ちょっとだけ情報をあげようかな
 ｡
 
 ","I wonder if I will give you a little more information
-.",0.23809523809523808
+.",0.2380952380952381,0.34597838
 With these Ninja Info Cards.,"この忍識札で
 ｡
 
 ","With this Shinobu
-.",0.25
+.",0.25,0.36690375
 Ninja Info Cards?,"忍識札？
 
-",Shinobu aid?,0.16666666666666666
+",Shinobu aid?,0.16666666666666666,0.29473084
 "they're cards that have information burned
 into them and coded with Chakra.","簡単に言えば
 情報をチャクラで記号化して➡
 
 ","Simply speaking
-Sign information with chakra ➡",0.16666666666666666
+Sign information with chakra ➡",0.16666666666666666,0.4889866
 "I spent four whole years gathering
 information for this Exam.","(ｶﾌﾞﾄ)
 この試験用に
@@ -641,7 +641,7 @@ information for this Exam.","(ｶﾌﾞﾄ)
 ","For this test
 We did information collection for 4 years
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.63723135
 "There are close to two hundred
 of these cards.","カードは全部で
 200
@@ -653,12 +653,12 @@ of these cards.","カードは全部で
 200
 Close
 .
-➡",0.125
+➡",0.125,0.6074002
 To open the data on these cards...,"このカードの情報を開くには…
 ｡
 
 ","To open this card information ...
-.",0.25
+.",0.25,0.8309831
 What're you doing?,"(
 いの
 )
@@ -668,13 +668,13 @@ What're you doing?,"(
 
 ","What are you doing?
 
-If you do not use my chakra",0.3333333333333333
+If you do not use my chakra",0.3333333333333333,0.42176494
 "The way it works is that
 no one can see the info","焼き付けてある札のことだ
 ｡
 
 ","It is a bill that is baked
-.",0.2
+.",0.2,0.071394816
 For example... Like this...,"例えば
  
 こんなの
@@ -683,7 +683,7 @@ For example... Like this...,"例えば
 ","for example
  
 Such
-.",0.2857142857142857
+.",0.2857142857142857,0.650175
 "Whoa, awesome!
 What information is this?","うわ～
  
@@ -699,25 +699,25 @@ very!
 What information?
  
 this
-.",0.4166666666666667
+.",0.4166666666666667,0.74896646
 "The number of test takers and
 participating nations,","(ｶﾌﾞﾄ)
 今回の中忍試験の
 総受験者数と総参加国➡
 
 ","This time
-Number of total examines and total participating countries",0.2857142857142857
+Number of total examines and total participating countries",0.2857142857142857,0.56234235
 "and the number of applicants
 from each respective village","そして
 それぞれの隠れ里の受験者数を➡
 
 ","and
-The number of cans for each hidden village",0.5
+The number of cans for each hidden village",0.5,0.580201
 is individually displayed.,"個別に表示したものだ
 ｡
 
 ","It is displayed separately
-.",0.5
+.",0.5,0.78846353
 "the Chunin Exam is jointly
 conducted in the first place?","そもそも中忍試験を
 なぜ
@@ -727,7 +727,7 @@ conducted in the first place?","そもそも中忍試験を
 ","In the first place, Nakanobu Test
 why
  
-Do you think jointly?",0.35294117647058826
+Do you think jointly?",0.35294117647058826,0.4543906
 "It's said it's done to deepen
 friendship among nations first","まず
 国どうしの友好を深めるため
@@ -735,10 +735,10 @@ friendship among nations first","まず
 
 ","first
 To deepen the friendship of the country
-.",0.2857142857142857
+.",0.2857142857142857,0.6560648
 """It's said""?","といわれている？
 
-",It is said that?,0.375
+",It is said that?,0.375,0.5132196
 "The real aim is in the checking of
 Shinobi levels of neighboring nations","(ｶﾌﾞﾄ)
 そう
@@ -747,7 +747,7 @@ Shinobi levels of neighboring nations","(ｶﾌﾞﾄ)
 
 ","Yes
  
-The real purpose is",0.23076923076923078
+The real purpose is",0.2307692307692308,0.22765088
 Power... Equal?,"パワー
  
 均等…
@@ -758,20 +758,20 @@ Power... Equal?,"パワー
  
 Equal ...
  
-Yeah?",0.8
+Yeah?",0.8,0.96056783
 Why such bothersome things?,"何で
  
 そんなめんどくせぇことを？
 
 ","why
  
-Do you like that?",0.2222222222222222
+Do you like that?",0.2222222222222222,0.27311227
 "the weak nations will be invaded by
 the strong nations in no time at all","弱い国は強い国に
 あっという間に攻め込まれ➡
 
 ","Weak country is a strong country
-It is attacked in no time",0.2777777777777778
+It is attacked in no time",0.2777777777777778,0.6829203
 "and may end up being
 controlled unilaterally.","一方的に支配されかねない
 ｡
@@ -779,7 +779,7 @@ controlled unilaterally.","一方的に支配されかねない
 
 ","It may be unacconducted unilaterally
 .
-➡",0.25
+➡",0.25,0.3754024
 "There's a point to mutual supervision.
 Probably.","お互い
  
@@ -793,7 +793,7 @@ Probably.","お互い
 To share
 Meaningful
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.21323787
 Are there ones you're concerned about?,"あるよ
  
 気になるヤツでも
@@ -802,19 +802,19 @@ Are there ones you're concerned about?,"あるよ
 ","There
  
 Even guys who are concerned about
-Is there something?",0.38461538461538464
+Is there something?",0.38461538461538464,0.60793865
 "The information for the applicants
 this time around is not perfect,","(ｶﾌﾞﾄ)
 今回の受験者の情報は
 完璧とまではいかないが➡
 
 ","Information on this candidate
-I can not go until perfect",0.23529411764705882
+I can not go until perfect",0.2352941176470588,0.4330882
 but is burned in and saved.,"焼き付けて保存している
 ｡
 
 ","Burned and saved
-.",0.5714285714285714
+.",0.5714285714285714,0.7585343
 "Anything's fine, tell me their information
 and I'll retrieve it for you.","何でもいいから言ってみな
 検索してあげよう
@@ -822,17 +822,17 @@ and I'll retrieve it for you.","何でもいいから言ってみな
 
 ","Don't say anything
 Let's search
-.",0.14285714285714285
+.",0.14285714285714285,0.40155652
 "Oh, you even know names.","君たちのも含めてね
 ｡
 
 ","Including you
-.",0.25
+.",0.25,0.17070612
 Please show me.,"見せてくれ
 ｡
 
 ","Show me
-.",0.75
+.",0.75,0.7330097
 "<i>I don't really get what's going on,</i>
 <i>but I'll pretend like I do.</i>","何か
  
@@ -842,7 +842,7 @@ Please show me.,"見せてくれ
 ","something
  
 I do not understand well
-I understand that I know """,0.08
+I understand that I know """,0.08,0.31972778
 "Well then, first is Rock Lee.","じゃあ
  
 まず
@@ -859,7 +859,7 @@ first
 rock
 ·
 Lee
-.",0.4
+.",0.4,0.7569282
 His squad leader is Guy...,"Ｃランク
  11
 回
@@ -874,7 +874,7 @@ times
  
 The chief is a guy
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.5017344
 His other skills are not good at all.,"ほかは
  
 てんでダメだな
@@ -883,7 +883,7 @@ His other skills are not good at all.,"ほかは
 ","Other than
  
 It is no good
-.",0.23076923076923078
+.",0.2307692307692308,0.40728265
 "Last year, he'd attracted attention as
 a Genin rookie with his ability,","昨年
  
@@ -893,13 +893,13 @@ a Genin rookie with his ability,","昨年
 ","last year
  
 As a new newcomer
-I was watched but",0.2
+I was watched but",0.2,0.43094596
 "but didn't participate
 in the Chunin Exam.","この中忍試験には出てこなかった
 ｡
 
 ","I did not appear in this Nakanobu test
-.",0.2
+.",0.2,0.5017379
 "This is his first time taking the exams,
 same as you guys...","君たちと同じく
  
@@ -915,7 +915,7 @@ this time
  
 First exam
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.6290576
 Tenten and Neji Hyuga are on his team...,"チームには
  
 テンテンと日向ネジ
@@ -924,14 +924,14 @@ Tenten and Neji Hyuga are on his team...,"チームには
 ","Team
  
 Tenten and Hinata Screw
-.",0.25
+.",0.25,0.6481029
 Huh? Hyuga?,"あ？
  
 日向？
 
 ","Ah?
  
-Did you go?",0.14285714285714285
+Did you go?",0.14285714285714285,0.28705165
 Next... is Gaara of the Desert.,"(ｶﾌﾞﾄ)
 次は
  
@@ -941,7 +941,7 @@ Next... is Gaara of the Desert.,"(ｶﾌﾞﾄ)
 ","next
  
 Gora of the sand
-.",0.4
+.",0.4,0.5327719
 "His mission experience,
 eight C ranks. B ranks...","(ｶﾌﾞﾄ)
 任務経験
@@ -956,7 +956,7 @@ eight C ranks. B ranks...","(ｶﾌﾞﾄ)
 C rank
  
 Eight times
-B rank ... ➡",0.35714285714285715
+B rank ... ➡",0.35714285714285715,0.72658396
 "so there is no further
 detailed information.","他国の忍で
  
@@ -974,20 +974,20 @@ more than this
  
 There is no more information
 .
-➡",0.21739130434782608
+➡",0.21739130434782608,0.3665379
 "It seems he has returned from
 all of his missions uninjured.","無傷で帰ってきたそうだ
 ｡
 
 ","It seems that I came home
-.",0.1875
+.",0.1875,0.24511889
 What is this guy?,"こいつ
  
 何者？
 
 ","this guy
  
-Who?",0.5
+Who?",0.5,0.67344207
 "Leaf, Sand, Rain, Grass,
 Waterfall, Sound...","(ｶﾌﾞﾄ)
 木ノ葉
@@ -1016,7 +1016,7 @@ waterfall
  
 sound
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.67247605
 "who have come to take
 the Exam this year as well.","たくさんの優秀な下忍が
 受験に来ている
@@ -1024,7 +1024,7 @@ the Exam this year as well.","たくさんの優秀な下忍が
 
 ","Many excellent Shimono
 I'm coming to the exam
-.",0.2222222222222222
+.",0.2222222222222222,0.5624674
 "As far as the Village Hidden
 in Sound goes,","まっ
  
@@ -1032,7 +1032,7 @@ in Sound goes,","まっ
 
 ","Mine
  
-Little the village of the sound",0.25
+Little the village of the sound",0.25,0.54572856
 "it's a village of a small nation that
 just sprang up in recent years,","近年
  
@@ -1042,7 +1042,7 @@ just sprang up in recent years,","近年
 ","recent years
  
 I just born
-Because it is a village of a small country",0.4
+Because it is a village of a small country",0.4,0.70614284
 so there isn't much information...,"情報は
  
 あまりないが
@@ -1051,7 +1051,7 @@ so there isn't much information...,"情報は
 ","Information
  
 There is not much
-.",0.4444444444444444
+.",0.4444444444444444,0.83037597
 That's right!,"何言ってんのよ！
  
 いまさら
@@ -1060,14 +1060,14 @@ That's right!,"何言ってんのよ！
 ","What's up!
  
 Now
-.",0.25
+.",0.25,0.22129571
 "Not just Lee and Gaara,","そう
  
 リーや我愛羅ばかりでなく➡
 
 ","Yes
  
-Lee and no Gara",0.2222222222222222
+Lee and no Gara",0.2222222222222222,0.76726973
 "but they're all choice top elite
 Genin from each nation.","みんなが各国から
  
@@ -1079,7 +1079,7 @@ Genin from each nation.","みんなが各国から
  
 Eri quickly
 Shimono's top elite
-.",0.2631578947368421
+.",0.2631578947368421,0.6432959
 This isn't going to be easy.,"(ｶﾌﾞﾄ)
 そんなに甘いもんじゃ
 ないですよ
@@ -1087,7 +1087,7 @@ This isn't going to be easy.,"(ｶﾌﾞﾄ)
 
 ","It is so sweet
 Not
-.",0.16666666666666666
+.",0.16666666666666666,0.12347904
 "<i>They may be your subordinates now,</i>","今は
  
 あなたの
@@ -1096,18 +1096,18 @@ Not
 ","nowadays
  
 your
-It may be a subordinate",0.2
+It may be a subordinate",0.2,0.708982
 "<i>It's as you say, Iruka.</i>","イルカの言うとおりだな
 ｡
 ➡
 
 ","As I say
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.31696638
 <i>It's not going to be that easy.</i>,"(ｲﾙｶ)
 ＜納得できません！➡
 
-",<I can not be convinced!➡,0.25
+",<I can not be convinced!➡,0.25,0.3631931
 "<i>I postponed my team's test taking</i>
 <i>for one year</i>","俺の班も
 １年
@@ -1117,13 +1117,13 @@ It may be a subordinate",0.2
 ","My group
 One year
  
-Prepare the exam first",0.16666666666666666
+Prepare the exam first",0.16666666666666666,0.4569159
 "<i>Have them take the Exam after</i>
 <i>they've enjoyed their life a little bit more.</i>","もうちょい青春してから
 受けさせな＞
 
 ","After a little more youth
-Do not receive>",0.16666666666666666
+Do not receive>",0.16666666666666666,0.25630924
 <i>Hmph...</i>,"彼らのことは私にも…＞
 (
 ガイ
@@ -1132,17 +1132,17 @@ Do not receive>",0.16666666666666666
 
 ","Their things are also me ...>
 
-<Certainly ➡",0.23076923076923078
+<Certainly ➡",0.2307692307692308,0.2563343
 <i>That's enough.</i>,"(
 ガイ
 )
 ＜ん？＞
 
-",<Did?>,0.2222222222222222
+",<Did?>,0.2222222222222222,0.46310973
 "<i>I'll take recommendations for Genin</i>
 <i>other than rookies.</i>","新人以外の下忍の推薦を取る＞
 
-",Take a recommendation for Shimonoba other than newcomers>,0.3125
+",Take a recommendation for Shimonoba other than newcomers>,0.3125,0.4401876
 <i>Well! Don't pour cold water on this...</i>,"(ｶｶｼ)
 ＜まっ
  
@@ -1150,7 +1150,7 @@ Do not receive>",0.16666666666666666
 
 ","<Ma
  
-Don't touch me>",0.23529411764705882
+Don't touch me>",0.2352941176470588,0.3172638
 "<i>I wonder if even the fearless ones</i>
 <i>are frightened just this time around.</i>","な～に
  
@@ -1164,7 +1164,7 @@ Don't touch me>",0.23529411764705882
 If you and this guy
 I will pull it out soon
  
-A guy>",0.15384615384615385
+A guy>",0.15384615384615385,0.05904828
 "<i>he's still consumed by this atmosphere</i>
 <i>and number of people.</i>","この人数と雰囲気にのまれて
 緊張しちゃってる
@@ -1174,7 +1174,7 @@ A guy>",0.15384615384615385
 ","Born in this number and atmosphere
 I'm nervous
 .
-➡",0.23809523809523808
+➡",0.2380952380952381,0.3234696
 "<i>Even though everyone is a Genin,</i>
 <i>we're the newest most inexperienced rookies.</i>","無理ないわ
  
@@ -1182,14 +1182,14 @@ I'm nervous
 
 ","I can not help
  
-Everyone is also the same Shimono",0.16666666666666666
+Everyone is also the same Shimono",0.16666666666666666,0.21134424
 <i>But...</i>,"(ｶｶｼ)
 《とは言ってみたものの➡
 
-","""I tried to say",0.1
+","""I tried to say",0.1,0.20274308
 <i>Maybe I'll cheer him up a bit.</i>,"ちょっと励ましてやろうかな》
 
-",I wonder if I will encourage it a little,0.11764705882352941
+",I wonder if I will encourage it a little,0.1176470588235294,0.2921416
 Say... Naruto! Don't be so scared.,"ねぇ
  
 ナルト
@@ -1200,20 +1200,20 @@ Say... Naruto! Don't be so scared.,"ねぇ
  
 Naruto
 Even if you don't get so much ...
-.",0.375
+.",0.375,0.6655306
 My name's Naruto Uzumaki!,"俺の名は
  
 うずまきナルトだ！
 
 ","My name is
  
-Uzumaki Naruto!",0.7142857142857143
+Uzumaki Naruto!",0.7142857142857143,0.96873975
 "I won't lose to any of you!
 Got it?!","てめぇらには負けねえぞ！
 分かったか～!?
 
 ","You can lose it!
-Did you understand!?",0.3333333333333333
+Did you understand!?",0.3333333333333333,0.60291016
 Say! What's with him?!,"ねぇ！
  
 何なの？
@@ -1224,7 +1224,7 @@ Say! What's with him?!,"ねぇ！
  
 What's?
  
-this guy!",0.4
+this guy!",0.4,0.52745
 "It won't do any good to
 provoke everyone!","みんなを挑発して
  
@@ -1234,7 +1234,7 @@ provoke everyone!","みんなを挑発して
 ","Provide everyone
  
 What are you gonna do!
-Don't say!",0.23529411764705882
+Don't say!",0.2352941176470588,0.39337227
 "The dog's bark is
 bigger than its bite.","(ﾃﾏﾘ)
 弱い犬ほど
@@ -1245,7 +1245,7 @@ bigger than its bite.","(ﾃﾏﾘ)
 ","Weak dog
  
 Faintly
-.",0.16666666666666666
+.",0.16666666666666666,0.41922638
 He's mighty high-spirited.,"あ～
  
 スキッとしたってばよ
@@ -1254,7 +1254,7 @@ He's mighty high-spirited.,"あ～
 ","Oh ~
  
 It's ski
-.",0.2222222222222222
+.",0.2222222222222222,0.09587456
 "Lee, maybe you did
 not bully him enough.","いじめが足りなかったんじゃ
 ないか？
@@ -1266,13 +1266,13 @@ not bully him enough.","いじめが足りなかったんじゃ
 Isn't there?
  
 Lee
-.",0.25
+.",0.25,0.7540104
 Did you hear?,"(
 ザク
 )
 聞いたか？➡
 
-",Were you heard?➡,0.2857142857142857
+",Were you heard?➡,0.2857142857142857,0.66178554
 "Sound Village is a minor
 Hidden Village of a small nation.","音隠れは小国の
 マイナーな隠れ里だとよ
@@ -1280,7 +1280,7 @@ Hidden Village of a small nation.","音隠れは小国の
 
 ","The taught is a small country
 It is a minor hidden villa
-.",0.4
+.",0.4,0.48765934
 That's offensive.,"(ｶﾝｸﾛｳ)
 フッ
  
@@ -1292,7 +1292,7 @@ That's offensive.,"(ｶﾝｸﾛｳ)
  
 Guess
 That time's guy
-.",0.375
+.",0.375,0.12462628
 Maybe I'II... play with them a bit.,"(
 キン
 )
@@ -1304,14 +1304,14 @@ Maybe I'II... play with them a bit.,"(
 ","Girly
  
 Do you play for a moment
-.",0.21428571428571427
+.",0.21428571428571427,0.46201986
 We'll add this to his data.,"彼のデータに加えてあげようよ
 ｡
 ➡
 
 ","Let's add to his data
 .
-➡",0.45454545454545453
+➡",0.4545454545454545,0.825868
 "Those Sound Shinobis
 are brutal in their own way.","音隠れの忍は
 それなりに残忍だってね
@@ -1319,7 +1319,7 @@ are brutal in their own way.","音隠れの忍は
 
 ","Shinobu of the sound
 It is a brutal
-.",0.1875
+.",0.1875,0.83538705
 "I won't lose to any of you,
 you say?","｢
 てめぇらには負けねえぞ
@@ -1333,7 +1333,7 @@ You can lose it
 ""
 How
 I say
-.",0.23529411764705882
+.",0.2352941176470588,0.46132416
 That idiot...,"あのバカ
  
 一瞬にして
@@ -1348,7 +1348,7 @@ In an instant
 Surroundings
  
 Seisful enemy
-.",0.2
+.",0.2,0.5047671
 "But, I just said what was true, I say!","だって
  
 ホントのこと
@@ -1359,16 +1359,16 @@ Seisful enemy
  
 Real
 I just say
-.",0.23076923076923078
+.",0.2307692307692308,0.38833606
 "so please don't concern
 yourself with him.","どうか気になさらないでください
 ｡
 
 ","Please do not worry about
-.",0.25
+.",0.25,0.565522
 I'm going to kick your butt!,"ぶっ飛ばすわよ！
 
-",I'm sorry!,0.3333333333333333
+",I'm sorry!,0.3333333333333333,0.32484815
 Let's do it.,"(
 ドス
 )
@@ -1384,14 +1384,14 @@ Let's do it.,"(
 .
 
 Let's do it
-.",0.8333333333333334
+.",0.8333333333333334,0.7595872
 Fine!,"覚えなさいよ！
 はい
 ｡
 
 ","Remember!
 Yes
-.",0.2
+.",0.2,0.3015963
 <i>These guys...are the Sound Village...</i>,"(ｶﾌﾞﾄ)
 《こいつら
  
@@ -1399,7 +1399,7 @@ Yes
 
 ","""These guys
  
-Hidden ... """,0.23076923076923078
+Hidden ... """,0.2307692307692308,0.4029175
 Why'd that happen to his glasses?,"どういうことだ？
  
 かわしたはずだ
@@ -1414,7 +1414,7 @@ It should have been
 why
  
 Glasses ...
-.",0.17647058823529413
+.",0.17647058823529413,0.6078968
 "He's trying to act strong, so. That punk.","なるほど
  
 こういう攻撃ね
@@ -1423,7 +1423,7 @@ Glasses ...
 ","So that's it
  
 Such an attack
-.",0.26666666666666666
+.",0.26666666666666666,0.26305372
 Hah!,"(
 おう吐する音
 )
@@ -1433,10 +1433,10 @@ Hah!,"(
 
 ","Ah
  
-threw up!",0.2
+threw up!",0.2,0.34428683
 "Hey, Kabuto!","カブトさん!?
 
-",Mr. Kabuto!?,0.2857142857142857
+",Mr. Kabuto!?,0.2857142857142857,0.78679925
 "Even though he's a veteran who's
 been taking the exams for four whole years.","４年も受験してる
 ベテランのくせに
@@ -1444,7 +1444,7 @@ been taking the exams for four whole years.","４年も受験してる
 
 ","I have taken four years
 To veteran
-.",0.2
+.",0.2,0.59924924
 Write this on your card.,"(
 ザク
 )
@@ -1454,7 +1454,7 @@ Write this on your card.,"(
 
 ","When writing to your card
 .
-➡",0.3
+➡",0.3,0.6577057
 "The three from Sound village...
 Doubtless Chunin.","｢
 音隠れ３名
@@ -1470,7 +1470,7 @@ Three people
 Crushing
 ""
 In
-.",0.14285714285714285
+.",0.14285714285714285,0.30335292
 <i>But why did he vomit?</i>,"なのに
  
 なぜ
@@ -1481,7 +1481,7 @@ In
  
 why
  
-Did you wander?""",0.21428571428571427
+Did you wander?""",0.21428571428571427,0.25653905
 Lee. How about that technique just now?,"リー
  
 今の技
@@ -1492,14 +1492,14 @@ Lee. How about that technique just now?,"リー
  
 Now
  
-How is it?",0.36363636363636365
+How is it?",0.3636363636363637,0.7409774
 I had no problem reading the speed.,"見切りに問題はなかった
 ネタがあるな
 ｡
 
 ","There was no problem in the climax
 There is a neta
-.",0.26666666666666666
+.",0.26666666666666666,0.25461373
 Silence! Degenerates!,"≪
 (ｲﾋﾞｷ)
 静かにしやがれ！
@@ -1508,25 +1508,25 @@ Silence! Degenerates!,"≪
 ","«
 
 Quietly!
-Any rotant bastard!",0.125
+Any rotant bastard!",0.125,0.4753246
 Sorry to keep you waiting... I,"(ｲﾋﾞｷ)
 待たせたな
 ｡
 
 ","I kept you waiting
-.",0.3333333333333333
+.",0.3333333333333333,0.6375226
 "I'm Ibiki Morino, proctor for the
 first test of the Chunin Exam.","森乃イビキだ
 ｡
 
 ","Morino Ibiki
-.",0.21428571428571427
+.",0.21428571428571427,0.50983745
 "It feels like the chance to show off
 the fruits of our training has finally come.","♬
  to live so wise.
 
 ","♬
- To Live So Wise.",0.1
+ To Live So Wise.",0.1,0.0953753
 "I'm picturing Sasuke and them
 bowing to me and saying,","♬
  A man railed at me twice
@@ -1534,16 +1534,16 @@ but I didn't care
 
 ","♬
  A man railed at me tweed
-BUT I DIDN'T CARE",0.09523809523809523
+BUT I DIDN'T CARE",0.09523809523809523,0.21241014
 """Naruto, we're really no match for you.""","♬
  Don't cry
 coz you're so right.
 
 ","♬
  Don't Cry
-COZ YOU'RE SO RIGHT.",0.15789473684210525
+COZ YOU'RE SO RIGHT.",0.15789473684210525,0.20659551
 Huh? Is this for real?!,"♬
  Waiting is wasting
 
 ","♬
- Waiting is Wasting",0.1
+ Waiting is Wasting",0.1,0.11862891

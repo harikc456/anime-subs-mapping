@@ -1,31 +1,31 @@
-en_text,jp_text,google_translated,score
-You should see a neurologist.,今度は神経内科へ…｡,This time to neurology ....,0.09090909090909091
-What's going on?,《なんだよ…!?》,"""what is it…!?""",0.2
-...I won't be able to keep my promise to Sharon.,《シャロンとの約束が…》,"""Promise with Sharon ...""",0.2
-The other is in Japan.,もう１人は日本にいます｡,Another one is in Japan.,0.5
-"Then, please fill in their contact information.",では ここに連絡先を…｡,Then the contact information here ....,0.3333333333333333
-It's a very serious disease.,とても…重い病気ですので｡,Very ... because it is a heavy illness.,0.3333333333333333
-Sharon must have realized that she had a serious disorder.,自分が何らかの病気である事は➡,That I have some diseases,0.14285714285714285
-But she never stopped smiling...,彼女は笑顔をやめなかった＞,She did not stop smile>,0.09090909090909091
-what is ALS?,何なの？…ＡＬＳって？,What's?... ALS?,0.5
-It's the disease that killed my father.,私の父が亡くなった病気です｡,My father is a disease died.,0.3333333333333333
-"You become unable to talk, eat,",食べることも 話すことも…➡,You can also talk to eat ... ➡,0.36363636363636365
-Not Sharon...,《あの シャロンが…》,"""That Sharon is ...""",0.2857142857142857
-H-How fast?,⦅は…速いって？⦆,⦅... fast?⦆,0.3333333333333333
-My test scores were terrible.,＜テストの結果は…最悪だった＞,<The result of the test is ... the worst>,0.07142857142857142
-"Eight days after her examination ended,",＜シャロンの検査から８日後…➡,<8 days after inspection of Sharon ... ➡,0.14285714285714285
-"In a few months, Sharon will no longer be able to play the piano anymore.",あと数ヵ月で シャロンは➡,Some months in a few months,0.2222222222222222
-But she continued to smile.,それでも彼女は笑っていた＞,Still she was laughing>,0.1
-Sharon!,シャロン！,Sharon!,1.0
-I can't wait to see it happen.,ありがと 楽しみにしてる｡,I look forward to it.,0.36363636363636365
-Since I'll probably be saying it all the time.,なんか俺 よく使いそうだから｡,Something seems to use well.,0.0625
-Very well.,そうね…｡,That's right ....,0.14285714285714285
-"Uh, ""It's...""",え～と イッツ ア…｡,Eh ~ and It's ....,0.2727272727272727
-Say that whenever you want.,自由に使っていいわよ｡,I can use it freely.,0.09090909090909091
-"“It's a piece of cake""って英語 have you ever used the phrase, ""it's a piece of cake""?",使った事ある？せりかさん｡,Have you used it?Mr. Sariko.,0.23809523809523808
-"but I know what it means. it means that something is easy, right?","“楽勝だよ""って事ですよね｡","""It's easy victory"".",0.16666666666666666
-"Yes, that it's easy.","そう…“楽勝だよ""｡","Yes ... ""It's easy victory"".",0.45454545454545453
-I was actually requesting a self-derogatory English phrase.,でも そん時 本当は➡,But the time is true,0.0
-She lied.,って 堂々とウソを！,A lot of lie!,0.0
-"In three or four years,",私も ３年後か４年後かに…➡,I also or after 3 years or 4 years ...,0.16666666666666666
-"That's the spirit, Mutta!",言ってくれるじゃないの ムッタ｡,Mutta who does not say.,0.08333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+You should see a neurologist.,今度は神経内科へ…｡,This time to neurology ....,0.09090909090909093,0.5635573
+What's going on?,《なんだよ…!?》,"""what is it…!?""",0.2,0.16937624
+...I won't be able to keep my promise to Sharon.,《シャロンとの約束が…》,"""Promise with Sharon ...""",0.2,0.7815536
+The other is in Japan.,もう１人は日本にいます｡,Another one is in Japan.,0.5,0.9169286
+"Then, please fill in their contact information.",では ここに連絡先を…｡,Then the contact information here ....,0.3333333333333333,0.7369364
+It's a very serious disease.,とても…重い病気ですので｡,Very ... because it is a heavy illness.,0.3333333333333333,0.58449113
+Sharon must have realized that she had a serious disorder.,自分が何らかの病気である事は➡,That I have some diseases,0.14285714285714285,0.2839371
+But she never stopped smiling...,彼女は笑顔をやめなかった＞,She did not stop smile>,0.09090909090909093,0.7961743
+what is ALS?,何なの？…ＡＬＳって？,What's?... ALS?,0.5,0.9040465
+It's the disease that killed my father.,私の父が亡くなった病気です｡,My father is a disease died.,0.3333333333333333,0.71888727
+"You become unable to talk, eat,",食べることも 話すことも…➡,You can also talk to eat ... ➡,0.3636363636363637,0.43867907
+Not Sharon...,《あの シャロンが…》,"""That Sharon is ...""",0.2857142857142857,0.734705
+H-How fast?,⦅は…速いって？⦆,⦅... fast?⦆,0.3333333333333333,0.5678209
+My test scores were terrible.,＜テストの結果は…最悪だった＞,<The result of the test is ... the worst>,0.07142857142857142,0.5610536
+"Eight days after her examination ended,",＜シャロンの検査から８日後…➡,<8 days after inspection of Sharon ... ➡,0.14285714285714285,0.4768721
+"In a few months, Sharon will no longer be able to play the piano anymore.",あと数ヵ月で シャロンは➡,Some months in a few months,0.2222222222222222,0.22875561
+But she continued to smile.,それでも彼女は笑っていた＞,Still she was laughing>,0.1,0.5756794
+Sharon!,シャロン！,Sharon!,1.0,1.0
+I can't wait to see it happen.,ありがと 楽しみにしてる｡,I look forward to it.,0.3636363636363637,0.5105232
+Since I'll probably be saying it all the time.,なんか俺 よく使いそうだから｡,Something seems to use well.,0.0625,0.12064839
+Very well.,そうね…｡,That's right ....,0.14285714285714285,0.27298993
+"Uh, ""It's...""",え～と イッツ ア…｡,Eh ~ and It's ....,0.2727272727272727,0.50583977
+Say that whenever you want.,自由に使っていいわよ｡,I can use it freely.,0.09090909090909093,0.2482343
+"“It's a piece of cake""って英語 have you ever used the phrase, ""it's a piece of cake""?",使った事ある？せりかさん｡,Have you used it?Mr. Sariko.,0.2380952380952381,0.21167998
+"but I know what it means. it means that something is easy, right?","“楽勝だよ""って事ですよね｡","""It's easy victory"".",0.16666666666666666,0.5469824
+"Yes, that it's easy.","そう…“楽勝だよ""｡","Yes ... ""It's easy victory"".",0.4545454545454545,0.5538638
+I was actually requesting a self-derogatory English phrase.,でも そん時 本当は➡,But the time is true,0.0,0.04757807
+She lied.,って 堂々とウソを！,A lot of lie!,0.0,0.40658438
+"In three or four years,",私も ３年後か４年後かに…➡,I also or after 3 years or 4 years ...,0.16666666666666666,0.5566696
+"That's the spirit, Mutta!",言ってくれるじゃないの ムッタ｡,Mutta who does not say.,0.08333333333333333,0.7148285

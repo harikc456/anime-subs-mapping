@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774589
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048283
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387683
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,12 +68,12 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.5518779
 The first test...,"第１の試験…
 ｡
 
 ","First exam ...
-.",0.3333333333333333
+.",0.3333333333333333,0.733172
 you have passed it!,"(ｲﾋﾞｷ)
 いい決意だ
 ｡
@@ -81,7 +81,7 @@ you have passed it!,"(ｲﾋﾞｷ)
 
 ","It is a good determination
 .
-➡",0.09090909090909091
+➡",0.09090909090909093,0.24289201
 You've passed through the gates!,"(ｲﾋﾞｷ)
 入り口は突破した
 ｡
@@ -89,13 +89,13 @@ You've passed through the gates!,"(ｲﾋﾞｷ)
 
 ","The entrance broke through
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.4294513
 I wish you well.,"(ｲﾋﾞｷ)
 合格を申し渡す
 ｡
 
 ","Pass passing
-.",0.14285714285714285
+.",0.14285714285714285,0.09855926
 <i>What a funny guy...</i>,"(ｲﾋﾞｷ)
 《フフフ…
  
@@ -103,14 +103,14 @@ I wish you well.,"(ｲﾋﾞｷ)
 
 ","""Fuhufu ...
  
-It's an interesting guy",0.13333333333333333
+It's an interesting guy",0.13333333333333333,0.3217403
 "There's something kind
 of creepy about this place.","(ｻｸﾗ)
 何か薄気味悪い所ね
 ｡
 
 ","Something is wrong
-.",0.16666666666666666
+.",0.16666666666666666,0.2328468
 """The Forest of Death,
 you'll soon realize why.""","｢
 死の森と呼ばれるゆえん
@@ -120,10 +120,10 @@ you'll soon realize why.""","｢
 ","""
 It is called dead forest
 It will be realized immediately
-"".",0.19047619047619047
+"".",0.19047619047619047,0.7417001
 I'm not scared!,"怖くないってばよ！
 
-",You're not scared!,0.42857142857142855
+",You're not scared!,0.42857142857142855,0.94617766
 You've got a lot of energy.,"そう…
  
 君は元気がいいのね
@@ -132,7 +132,7 @@ You've got a lot of energy.,"そう…
 ","Yes…
  
 You are fine
-.",0.18181818181818182
+.",0.18181818181818185,0.17923787
 dappled with the red blood I like.,"フフ…
  
 私の好きな赤い血
@@ -143,7 +143,7 @@ dappled with the red blood I like.,"フフ…
  
 My favorite red blood
 I'm sorry
-.",0.2857142857142857
+.",0.2857142857142857,0.63968426
 Thank you for taking the trouble...,"わざわざ
  
 ありがと
@@ -152,7 +152,7 @@ Thank you for taking the trouble...,"わざわざ
 ","Violet
  
 thank you
-.",0.2222222222222222
+.",0.2222222222222222,0.24121884
 "But... don't stand behind me,
 thirsty for blood.","でもね
  
@@ -164,29 +164,29 @@ thirsty for blood.","でもね
  
 With the heartache
 Don't stand behind me
-.",0.4117647058823529
+.",0.4117647058823529,0.5652622
 If you don't want a quick death...,"早死にしたくなければね
 ｡
 
 ","If you don't want to die early
-.",0.38461538461538464
+.",0.38461538461538464,0.6673652
 "And my precious hair was cut,
 so I got excited...","それに
 私の大切な髪を切られたんで➡
 
 ","in addition
-I was cut my important hair ➡",0.3125
+I was cut my important hair ➡",0.3125,0.6376293
 Naruto...,"(ﾋﾅﾀ)
 ナルト君…
 ｡
 
 ","Naruto ...
-.",0.6666666666666666
+.",0.6666666666666666,0.9972366
 I'm sorry...,"興奮しちゃって
 ｡
 
 ","I'm excited
-.",0.3333333333333333
+.",0.3333333333333333,0.33358815
 "<i>That girl, why was her tongue so long?</i>","《あいつ
 何で
  
@@ -199,7 +199,7 @@ why
  
 That tongue
  
-Is it long?""",0.2631578947368421
+Is it long?""",0.2631578947368421,0.7033372
 "Evidently, we've got
 a lot of hot blooded kids this time.","どうやら今回は血の気の多い
 ﾔﾂ
@@ -211,14 +211,14 @@ a lot of hot blooded kids this time.","どうやら今回は血の気の多い
 Guy
 But
 It looks like I gathered
-.",0.24
+.",0.24,0.26608682
 "Well, before we start the second exam,
 I have to pass this out to you!","(ｱﾝｺ)
 それじゃ
 第２の試験を始める前に➡
 
 ","Well then
-Before starting the second test",0.21052631578947367
+Before starting the second test",0.21052631578947367,0.54196525
 "It's a consent form,","《あんたが
  
 いちばん
@@ -227,7 +227,7 @@ Before starting the second test",0.21052631578947367
 ","""Anti
  
 number one
-If there are a lot of blood, it's a lot of blood!""",0.2222222222222222
+If there are a lot of blood, it's a lot of blood!""",0.2222222222222222,-0.007898339
 "before you can take part
 in the test you have to sign this.","まず
  
@@ -239,17 +239,17 @@ in the test you have to sign this.","まず
  
 to this
 I'm asking you to sign
-.",0.29411764705882354
+.",0.29411764705882354,0.53052557
 Why?,"何で？
 
-",why?,1.0
+",why?,1.0,0.99999964
 I have to get your consent to that!,"それについて
 同意を取っとかないとね
 ｡
 
 ","about it
 I have to get consent
-.",0.45454545454545453
+.",0.4545454545454545,0.7781966
 "Well, I'm going to start
 the explanation for the second exam.","じゃ
 第２の試験の説明を始めるわ
@@ -257,7 +257,7 @@ the explanation for the second exam.","じゃ
 
 ","well
 Start a description of the second exam
-.",0.375
+.",0.375,0.8027009
 "In a word, the limits of
 your survival will be challenged.","極限のサバイバルに
 挑んでもらうわ
@@ -265,7 +265,7 @@ your survival will be challenged.","極限のサバイバルに
 
 ","In the limit of survival
 I will challenge
-.",0.375
+.",0.375,0.85153246
 "First, I'll give you step-by-step instruction
 on the terrain of this Training Field.","まず
  
@@ -279,7 +279,7 @@ on the terrain of this Training Field.","まず
 From the topography of this practice area
 I will explain in order
 .
-➡",0.24
+➡",0.24,0.4168508
 "Training Field Number 44 is surrounded
 by 44 locked entrance gates,","鍵の掛かった
 44
@@ -293,7 +293,7 @@ by 44 locked entrance gates,","鍵の掛かった
 Individual
 Gate
 At the entrance
-Surrounded by a circle",0.21052631578947367
+Surrounded by a circle",0.21052631578947367,0.5694727
 "there are rivers and a forest
 and a tower in the middle.","川と森
  
@@ -305,7 +305,7 @@ and a tower in the middle.","川と森
  
 There is a tower in the center
 .
-➡",0.5333333333333333
+➡",0.5333333333333333,0.8641124
 "It's about 10 kilometers
 from the towers to the gate...","その塔からゲートまでは約
 10km｡
@@ -313,12 +313,12 @@ from the towers to the gate...","その塔からゲートまでは約
 
 ","From that tower to gate
 10 km.
-➡",0.25
+➡",0.25,0.87702763
 The contents of which are...,"その内容は…
 ｡
 
 ","The contents are ...
-.",0.5714285714285714
+.",0.5714285714285714,0.7745605
 anything goes scroll battle!,"(ｱﾝｺ)
 何でもありありの
 巻物争奪戦よ
@@ -326,7 +326,7 @@ anything goes scroll battle!,"(ｱﾝｺ)
 
 ","There is nothing
 Cross-wound battle
-.",0.1
+.",0.1,0.33456784
 "I want you to fight for two scrolls,
 the Heaven Scroll and the Earth Scroll.","この２つの巻物を巡って
 戦ってもらうわ
@@ -334,10 +334,10 @@ the Heaven Scroll and the Earth Scroll.","この２つの巻物を巡って
 
 ","Taking around these two scrolls
 I will fight
-.",0.2631578947368421
+.",0.2631578947368421,0.7588092
 Half of them...,"もう半分には地の書を➡
 
-",In the other half of the land book,0.2222222222222222
+",In the other half of the land book,0.2222222222222222,0.34875238
 "13 teams get the Heaven scroll,
 the other half get the Earth Scroll.","その半分の
 13
@@ -345,7 +345,7 @@ the other half get the Earth Scroll.","その半分の
 
 ","Half
 13
-The team is the book of heaven",0.26666666666666666
+The team is the book of heaven",0.26666666666666666,0.61901563
 I'll hand over one scroll to each team.,"それぞれ１チーム
 一巻ずつ渡す
 ｡
@@ -354,7 +354,7 @@ I'll hand over one scroll to each team.,"それぞれ１チーム
 ","Each team
 Pass by one volume
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.5183446
 "To put it simply,
 that's what you're vying for.","簡単に言うと
  
@@ -364,10 +364,10 @@ that's what you're vying for.","簡単に言うと
 ","Put simply
  
 Collect it
-.",0.2857142857142857
+.",0.2857142857142857,0.27847975
 And the conditions to pass?,"それで合格条件は？
 
-",So what pass the passing condition?,0.3
+",So what pass the passing condition?,0.3,0.7430381
 "Three of you bring both the Heaven and
 Earth Scrolls to the tower in the center.","(ｱﾝｺ)
 天地両方の書を持って
@@ -376,12 +376,12 @@ Earth Scrolls to the tower in the center.","(ｱﾝｺ)
 
 ","Hold both Tenchi books
 Three people come to the central tower
-.",0.2857142857142857
+.",0.2857142857142857,0.5433897
 Except it has to be in time.,"ただし時間内にね
 ｡
 
 ","However, in time
-.",0.3
+.",0.3,0.6261288
 "For this second exam,
 the time limit is 120 hours.","この第２試験
  
@@ -395,7 +395,7 @@ the time limit is 120 hours.","この第２試験
 Deadline
 120
 time
-.",0.35714285714285715
+.",0.35714285714285715,0.6862049
 Do it in exactly five days!,"ちょうど
  
 ５日間でやってもらう
@@ -404,7 +404,7 @@ Do it in exactly five days!,"ちょうど
 ","just
  
 Get it in 5 days
-.",0.2727272727272727
+.",0.2727272727272727,0.6986448
 "Be self sufficient! It's a treasure trove
 in the wilderness.","自給自足！
  
@@ -416,7 +416,7 @@ in the wilderness.","自給自足！
  
 Forest is a wild treasure
 Food is enough
-.",0.21052631578947367
+.",0.21052631578947367,0.6704554
 "poison bugs, poisonous weeds and
 much more.","毒草は
  
@@ -428,7 +428,7 @@ much more.","毒草は
  
 More
 I'm gorogoro
-.",0.25
+.",0.25,0.5565786
 No way...,"そんな…
 ｡
 (
@@ -441,7 +441,7 @@ No way...,"そんな…
 .
 
 Vague
-.",0.16666666666666666
+.",0.16666666666666666,0.15757306
 "Besides, it's improbable that 39 people,
 13 teams will pass.","(
 ネジ
@@ -456,7 +456,7 @@ Vague
 13
 team
  39
-People pass ➡➡",0.23529411764705882
+People pass ➡➡",0.2352941176470588,0.7546366
 "The interval for activity gets longer
 with passing each day,","(
 リー
@@ -465,7 +465,7 @@ with passing each day,","(
 日を追うごとに長くなり➡
 
 ","The behavior distance is
-It will be long each time you follow the day",0.14285714285714285
+It will be long each time you follow the day",0.14285714285714285,0.5703063
 "while the time for recovery
 gets shorter...","回復に充てる時間は
 逆に短くなっていく
@@ -473,13 +473,13 @@ gets shorter...","回復に充てる時間は
 
 ","Time to be used for recovery
 Conversely shorter
-.",0.3076923076923077
+.",0.3076923076923077,0.85017693
 "are unable to endure
 the rigors of the course.","コースプログラムの厳しさに
 耐えきれない者も➡
 
 ","To the severity of the course program
-Those who can not withstand",0.25
+Those who can not withstand",0.25,0.727258
 Umm... so you can quit in the middle of it?,"(ｼｶﾏﾙ)
 あの
  
@@ -489,7 +489,7 @@ Umm... so you can quit in the middle of it?,"(ｼｶﾏﾙ)
 ","that
  
 Stop on the way
-Can you do it?",0.29411764705882354
+Can you do it?",0.29411764705882354,0.5457602
 "I want you to spend
 five days in the forest.","５日間は
 森の中で過ごしてもらうわ
@@ -497,7 +497,7 @@ five days in the forest.","５日間は
 
 ","5 days
 I'm asking you to spend in the woods
-.",0.5333333333333333
+.",0.5333333333333333,0.82784706
 Just like I thought...,"やっぱりか…
  
 めんどくせぇな
@@ -506,7 +506,7 @@ Just like I thought...,"やっぱりか…
 ","Just as I thought…
  
 Manto
-.",0.2222222222222222
+.",0.2222222222222222,0.33543244
 "Moving on, conditions of disqualification.","じゃ
  
 ついでだから
@@ -519,7 +519,7 @@ Manto
 Because
  
 Condition of disqualification
-.",0.3
+.",0.3,0.7422424
 "Number 1, if all three members
 of the team can't make it to the tower","塔まで３人で
 持ってこられなかったチーム
@@ -529,7 +529,7 @@ of the team can't make it to the tower","塔まで３人で
 ","Three people to the tower
 Team that could not be brought
 .
-➡",0.20833333333333334
+➡",0.20833333333333331,0.76168376
 "Number 2, if a team loses a member
 or if a member became incapacitated.","または
 再起不能者を出したチーム
@@ -539,7 +539,7 @@ or if a member became incapacitated.","または
 ","or
 A team that has made a reward person
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.3996845
 "There's that, and this is a supplement...","それと
  
 これは補足
@@ -550,12 +550,12 @@ A team that has made a reward person
  
 This is a supplement
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.7802997
 until you have reached the tower!,"巻物の中身は
 塔の中にたどりつくまで➡
 
 ","The contents of the scroll
-Until the tower",0.3
+Until the tower",0.3,0.56123966
 "W-What happens if we look
 at it halfway through?","と…
  
@@ -565,15 +565,15 @@ at it halfway through?","と…
 ","When…
  
 If you look at it on the way
-What happens?",0.375
+What happens?",0.375,0.65662384
 When you look at it you'll find... out!,"決して見ないこと
 ｡
 
 ","I never look at it
-.",0.23076923076923078
+.",0.2307692307692308,0.4032259
 Huh?,"はぁ？
 
-",Has?,0.3333333333333333
+",Has?,0.3333333333333333,0.37345126
 This is to test your reliability.,"信頼性を見るためよ
  
 説明は以上
@@ -582,10 +582,10 @@ This is to test your reliability.,"信頼性を見るためよ
 ","To see reliability
  
 Description is more than
-.",0.36363636363636365
+.",0.3636363636363637,0.7308728
 That's all the explanation!,"それは見たときの➡
 
-",That's when I saw it,0.2
+",That's when I saw it,0.2,0.17509896
 "I'll exchange your three consent forms for
 the scrolls in that hut over there.","同意書３枚と巻物を
 あそこの小屋で交換するから
@@ -595,7 +595,7 @@ the scrolls in that hut over there.","同意書３枚と巻物を
 ","3 consent books and scrolls
 Because it is replaced in a hut
 .
-➡",0.2
+➡",0.2,0.696073
 "After that, pick your entrance,
 and all the gates will open simultaneously!","そのあとゲート入り口を決めて
 一斉にスタートよ
@@ -603,27 +603,27 @@ and all the gates will open simultaneously!","そのあとゲート入り口を�
 
 ","After that, decide the gate entrance
 Start at once
-.",0.25
+.",0.25,0.78682154
 "Finally, just a word of advice...","最後にアドバイスをひと言
 ｡
 
 ","Finally the advice
-.",0.2
+.",0.2,0.7577369
 Don't die!,"死ぬな！
 
-",Do not die!,0.6
+",Do not die!,0.6,0.9010245
 "<i>I see, so you won't know which</i>
 <i>scroll was given to each team...</i>","《なるほど
 各チームが渡される巻物の種類➡
 
 ","""So that's it
-Type of scroll to which each team is passed ➡",0.21428571428571427
+Type of scroll to which each team is passed ➡",0.21428571428571427,0.7603177
 "<i>and you won't know which of</i>
 <i>the three people is carrying the scroll.</i>","そして３人のうち
 誰が巻物を持っているかも➡
 
 ","And out of three
-Who may have a scroll?",0.125
+Who may have a scroll?",0.125,0.7465696
 "<i>there will be life or death</i>
 <i>struggles for information in this test.</i>","この試験では情報の奪い合いが
 命懸けで行われる
@@ -633,27 +633,27 @@ Who may have a scroll?",0.125
 ","In this study,
 It takes place in life
 .
-➡",0.13043478260869565
+➡",0.13043478260869565,0.47386104
 <i>Everyone is an enemy!</i>,"全員が敵》
 
-","Everyone is enemies """,0.18181818181818182
+","Everyone is enemies """,0.18181818181818185,0.78848505
 "<i>It looks like they understand the meaning</i>
 <i>of the consent form a little bit...</i>","同意書の意味
 少しは分かったみたいね》
 
 ","Meaning of consent
-It seems that I understand a little",0.4
+It seems that I understand a little",0.4,0.75277805
 "It's Billboard Brow, isn't it?","殺し合うことにもなる
 ってわけだ》
 
 ","It will also be killed
-That's why",0.14285714285714285
+That's why",0.14285714285714285,0.044563867
 "I thought you went home long ago,
 I never imagined you were still here.","とっくに家に帰ったと
 思ってたけど➡
 
 ","When I returned home
-I thought but I thought",0.17647058823529413
+I thought but I thought",0.17647058823529413,0.47023752
 "Ooooh? Look who's here,
 the ugly Inopig","《ここにいるヤツらの
 決意は固い
@@ -663,7 +663,7 @@ the ugly Inopig","《ここにいるヤツらの
 ","""The guy who is here
 Determination is hard
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.16668156
 "Starting now, it's five days of
 the survival test with Sasuke.","これからサスケ君と
 ５日間のサバイバルなのよ
@@ -671,12 +671,12 @@ the survival test with Sasuke.","これからサスケ君と
 
 ","From now on with Sasuke
 5 days of survival
-.",0.4117647058823529
+.",0.4117647058823529,0.8313697
 There's no reason to go home.,"帰るわけないじゃないのよ
 ｡
 
 ","I can not go home
-.",0.2727272727272727
+.",0.2727272727272727,0.6331686
 "- Ugly! Ugly!
 - Billboard! Billboard!","(
 いの
@@ -689,7 +689,7 @@ There's no reason to go home.,"帰るわけないじゃないのよ
 
 ","""Muka!""
 
-!",0.14285714285714285
+!",0.14285714285714285,0.17744392
 "Sakura, this is impossible for you.","あ～ら
  
 誰かと思えば
@@ -700,12 +700,12 @@ There's no reason to go home.,"帰るわけないじゃないのよ
  
 If you think of someone
 Bai Cycle pig
-.",0.125
+.",0.125,0.21374449
 I could say the exact same thing to you!,"悪いこと言わないから
 早く帰りなさい！
 
 ","Because I do not say bad things
-Return soon!",0.17647058823529413
+Return soon!",0.17647058823529413,0.26483947
 "Hey, why are those two
 on such bad terms?","ねぇ
  
@@ -719,7 +719,7 @@ on such bad terms?","ねぇ
 That two
 why
  
-Is it so friend?",0.25
+Is it so friend?",0.25,0.30869567
 why does it take this much time!,"こんな時間
  
 取るってばよ…
@@ -728,7 +728,7 @@ why does it take this much time!,"こんな時間
 ","Such time
  
 You should take it ...
-Ah?""",0.2
+Ah?""",0.2,0.36843854
 "Hey! Hinata! What are you
 doing over there?","お～
  
@@ -738,7 +738,7 @@ doing over there?","お～
 ","Oh
  
 Hinata!
-What do you do in such a place?",0.3125
+What do you do in such a place?",0.3125,0.81198055
 A scratch...,"あっ…
  
 傷
@@ -747,14 +747,14 @@ A scratch...,"あっ…
 ","Ah…
  
 scratch
-.",0.2
+.",0.2,0.6885925
 Uh um... this... is,"《やっぱ
  
 こいつってば変なヤツ》
 
 ","""After all
  
-This is a strange guy """,0.18181818181818182
+This is a strange guy """,0.18181818181818185,0.23858906
 See ya!,"じゃあな
 ｡
 あっ
@@ -763,7 +763,7 @@ See ya!,"じゃあな
 ","See you
 .
 Ah
-.",0.16666666666666666
+.",0.16666666666666666,0.52673936
 "It's about time for
 the scroll exchange.","(
 試験官
@@ -772,7 +772,7 @@ the scroll exchange.","(
 ｡
 
 ","It is time for replacement with scrolls soon
-.",0.2857142857142857
+.",0.2857142857142857,0.70477533
 "<i>Well, I wonder how</i>
 <i>many teams will survive...</i>","(ｱﾝｺ)
 《フッ
@@ -783,19 +783,19 @@ the scroll exchange.","(
 ","""Hu
  
 Well
-How many teams survive?""",0.29411764705882354
+How many teams survive?""",0.29411764705882354,0.5946075
 "Teams who have
 taken the scroll,","巻物を受け取ったチームから
 担当の者へついて➡
 
 ","From the team that received the scroll
-To the person in charge",0.13333333333333333
+To the person in charge",0.13333333333333333,0.6716193
 "stay with the representative
 and move to the gate!","それぞれのゲートへ移動
 ｡
 
 ","Move to each gate
-.",0.2727272727272727
+.",0.2727272727272727,0.5033346
 "We'll all start simultaneously
 in 30 minutes!!","これより
 30
@@ -805,7 +805,7 @@ in 30 minutes!!","これより
 ","Than this
 30
 Minute
-Start simultaneously!",0.3333333333333333
+Start simultaneously!",0.3333333333333333,0.8572353
 Yeah! Survival is our forte!,"(
 キバ
 )
@@ -815,7 +815,7 @@ Yeah! Survival is our forte!,"(
 
 ","I ~ Yahu ~!
 If it is Survival, our good morning
-.",0.26666666666666666
+.",0.26666666666666666,0.52054685
 "Hinata, don't show your weakness.","ヒナタ
  
 甘えは見せんじゃねえぜ
@@ -824,7 +824,7 @@ If it is Survival, our good morning
 ","Hinata
  
 I'm not looking at sweetness
-.",0.14285714285714285
+.",0.14285714285714285,0.50088775
 Life or death...,"お菓子は…
  
 ポテチは…
@@ -833,7 +833,7 @@ Life or death...,"お菓子は…
 ","Sweets are ...
  
 Potech ...
-.",0.125
+.",0.125,0.1520809
 "Since it's come to this,
 Naruto will be our target.","こうなったら
  
@@ -843,7 +843,7 @@ Naruto will be our target.","こうなったら
 ","When it comes to this
  
 Naruto aim
-.",0.3125
+.",0.3125,0.7448534
 Okaaaay! I won't lose!,"近づくヤツは
 片っ端から
  
@@ -852,13 +852,13 @@ Okaaaay! I won't lose!,"近づくヤツは
 ","The guy who approaches
 one after another
  
-I will beat it!",0.125
+I will beat it!",0.125,0.36232832
 "- Yes!
 - Cha!","うん！
 《しゃ～んなろ～！》
 
 ","Yes!
-""Shi-Nanaro-!""",0.2857142857142857
+""Shi-Nanaro-!""",0.2857142857142857,0.45021042
 Heh heh... finally the opportunity is here...,"(
 ドス
 )
@@ -874,18 +874,18 @@ at last
  
 This opportunity came
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.313079
 "We have the chance to fulfill
 our mission in earnest...","公然とわれわれの使命が果たせる
 チャンスが》
 
 ","Were always our mission
-Chance",0.23076923076923078
+Chance",0.2307692307692308,0.6037469
 which makes it easier.,"かえって簡単だわ
 ｡
 
 ","It's easy to return
-.",0.2222222222222222
+.",0.2222222222222222,0.29103702
 "<i>Master Guy, I'll do my best!</i>
 <i>I'll definitely succeed!</i>","(
 リー
@@ -900,13 +900,13 @@ which makes it easier.,"かえって簡単だわ
  
 I will do my best
 .
-➡",0.2631578947368421
+➡",0.2631578947368421,0.5565988
 "We now start the second
 test of the Chunin Exam!","これより中忍選抜試験
 第２の試験を開始する！
 
 ","Neverbe chopsticks
-Start the second exam!",0.4166666666666667
+Start the second exam!",0.4166666666666667,0.6226681
 "Those three, right?","(
 忍１
 )
@@ -918,14 +918,14 @@ Start the second exam!",0.4166666666666667
 
 ","Looking for a girl!
 
-That three people, right?",0.3333333333333333
+That three people, right?",0.3333333333333333,0.40832457
 All right! Let's go!,"よっしゃ～
  
 行くぞ～！
 
 ","~
  
-I'll go ~!",0.2222222222222222
+I'll go ~!",0.2222222222222222,0.4765368
 "Can you do it, Hinata?","行けるか？
  
 ヒナタ
@@ -940,13 +940,13 @@ Hinata
 .
 
 Yes
-.",0.4
+.",0.4,0.7922851
 Yes.,"(ﾋﾅﾀ)
 白眼
 ｡
 
 ","Novel
-.",0.3333333333333333
+.",0.3333333333333333,0.26282042
 "Slow down, Lee!
 We just started.","(
 ネジ
@@ -961,7 +961,7 @@ We just started.","(
  
 Lee
 It has just begun
-.",0.23076923076923078
+.",0.2307692307692308,0.6468958
 I know. But...,"分かってますよ
  
 でも…
@@ -976,7 +976,7 @@ I know. But...,"分かってますよ
 but…
 .
 
-Yeah?",0.2222222222222222
+Yeah?",0.2222222222222222,0.54280216
 "Who knows what kind of
 powerful foe is waiting for us.","どんな強敵が待っているかと
 思うとね
@@ -984,7 +984,7 @@ powerful foe is waiting for us.","どんな強敵が待っているかと
 
 ","What kind of strong enemy is waiting
 I think
-.",0.375
+.",0.375,0.75551826
 Hot-blooded fool...,"フッ
  
 熱血ばかが
@@ -993,7 +993,7 @@ Hot-blooded fool...,"フッ
 ","Hook
  
 Hot-blooded fool
-.",0.4
+.",0.4,0.80569607
 "Just a little break...
 I'm already tired, and hungry...","もう疲れたっていうか
 おなかすいちゃったよ
@@ -1001,7 +1001,7 @@ I'm already tired, and hungry...","もう疲れたっていうか
 
 ","I'm already tired
 I'm sorry
-.",0.2857142857142857
+.",0.2857142857142857,0.54246765
 What are you suddenly saying?!,"(
 いの
 )
@@ -1013,7 +1013,7 @@ What are you suddenly saying?!,"(
 ","In
  
 Suddenly
-What are you saying!?",0.875
+What are you saying!?",0.875,0.8343088
 "It hasn't been five minutes
 since we started!","(ｼｶﾏﾙ)
 まだ始まって
@@ -1022,7 +1022,7 @@ since we started!","(ｼｶﾏﾙ)
 
 ","Still started
 Hey 5 minutes
-.",0.14285714285714285
+.",0.14285714285714285,0.6537869
 But I can't help it. I'm hungry...,"だって
  
 しょうがないじゃん
@@ -1033,7 +1033,7 @@ But I can't help it. I'm hungry...,"だって
  
 I can not help
 Because it is a stomach
-.",0.25
+.",0.25,0.54932916
 "You! If you were able to bring snacks,","あんたね！
  
 お菓子
@@ -1046,7 +1046,7 @@ Because it is a stomach
 snack
  
 bring up
-Somewhat rooms",0.14285714285714285
+Somewhat rooms",0.14285714285714285,0.62355655
 "you should have been able
 to bring one Kunai knife!","クナイの一つも
 持ってきなさいよね！
@@ -1058,25 +1058,25 @@ to bring one Kunai knife!","クナイの一つも
 Bring it!
  
 Geez
-.",0.26666666666666666
+.",0.26666666666666666,0.70868707
 Ino! Hide!,"いの
  
 隠れろ！
 
 ","For
  
-Hide!",0.5
+Hide!",0.5,0.6062865
 <i>Uh oh!</i>,"(
 いの
 )
 フ～！
 
-",Fu!,0.125
+",Fu!,0.125,0.2070217
 "<i>This kind of thing continuing</i>
 <i>for five days...?</i>","(ｼｶﾏﾙ)
 《こんなのが５日も続くのか》
 
-","""Do you last 5 days?""",0.1
+","""Do you last 5 days?""",0.1,0.49718866
 "Anyway, the tower is the
 goal for everyone, right?","(
 キバ
@@ -1089,7 +1089,7 @@ goal for everyone, right?","(
 ","for now
 All
  
-You're going to go to the tower?",0.23529411764705882
+You're going to go to the tower?",0.2352941176470588,0.6730368
 "So it would be clever for us to make
 a trap in the vicinity of the tower.","だったら
  
@@ -1101,10 +1101,10 @@ a trap in the vicinity of the tower.","だったら
  
 As can only be done near the tower
 It is a plan to put in
-.",0.3076923076923077
+.",0.3076923076923077,0.6115053
 Where are they?,"どこだ？
 
-",Where's?,0.4
+",Where's?,0.4,0.5370494
 "What happened?
 You're pale.","(
 忍３
@@ -1117,7 +1117,7 @@ You're pale.","(
 ","What happened?
  
 My face color is bad
-.",0.3333333333333333
+.",0.3333333333333333,0.5740924
 W-What is that?!,"(
 忍３
 )
@@ -1131,7 +1131,7 @@ W-What is that?!,"(
  
 What?
  
-that is!",0.5714285714285714
+that is!",0.5714285714285714,0.39913514
 "The Flying Leeches of Leaf Village
 sense body temperature and perspiration,","(
 キバ
@@ -1144,7 +1144,7 @@ sense body temperature and perspiration,","(
 ","Tobi Hill of Kuno Leaves
 sweating
  
-Sense the body temperature ➡",0.2777777777777778
+Sense the body temperature ➡",0.2777777777777778,0.5040855
 "then in mass, swoop down
 on their prey.","集団で獲物に飛びかかる
 ｡
@@ -1152,7 +1152,7 @@ on their prey.","集団で獲物に飛びかかる
 
 ","Fly to prey in a group
 .
-➡",0.2
+➡",0.2,0.5234999
 "If they continue to suck
 your blood for five minutes,","５分も血を吸われ続ければ
 あの世行きだ
@@ -1160,7 +1160,7 @@ your blood for five minutes,","５分も血を吸われ続ければ
 
 ","If blood is continued to be blessed for 5 minutes
 That's the world
-.",0.23809523809523808
+.",0.2380952380952381,0.6379857
 D-Damn it...,"(
 忍１
 )
@@ -1168,14 +1168,14 @@ D-Damn it...,"(
 ｡
 
 ","Uey ...
-.",0.2
+.",0.2,0.37295592
 That's one team gone!,"その習性を利用して
 敵の逃げ道にわなを張る
 ｡
 
 ","Using that habit
 Enemy's escape road
-.",0.16666666666666666
+.",0.16666666666666666,0.040281218
 It sounds like they've already started.,"フフフ…
  
 早速
@@ -1188,7 +1188,7 @@ It sounds like they've already started.,"フフフ…
 immediately
  
 Were you started
-.",0.15384615384615385
+.",0.15384615384615385,0.25823852
 "Wasn't that someone screaming
 just now?","ん？
 今
@@ -1198,7 +1198,7 @@ just now?","ん？
 ","Yeah?
 now
  
-Are you screaming?",0.2727272727272727
+Are you screaming?",0.2727272727272727,0.6373109
 I-I'm kinda getting nervous.,"うっ…
  
 何か緊張してきた
@@ -1207,7 +1207,7 @@ I-I'm kinda getting nervous.,"うっ…
 ","Uey ...
  
 Something is nervous
-.",0.2
+.",0.2,0.5383909
 "I-It was nothing. Sakura.
 Believe it!","ど…
  
@@ -1219,23 +1219,23 @@ Believe it!","ど…
  
 What is it?
 Sakura-chan
-.",0.15384615384615385
+.",0.15384615384615385,0.4678296
 Y-You... fool!,"このばか！
 
-",This fool!,0.4
+",This fool!,0.4,0.59446555
 "What are you doing
 in front of a lady!","レディーの前で
 何さらそうとしてんのよ！
 
 ","In front of lady
-What's wrong!",0.5
+What's wrong!",0.5,0.7923601
 Go to the grass!,"草陰
  
 行きなさいよ！
 
 ","Scales
  
-Go!",0.3333333333333333
+Go!",0.3333333333333333,0.23959759
 "What you ask? That's my line, isn't it?","何をだと？
 それは
  
@@ -1246,10 +1246,10 @@ Go!",0.3333333333333333
 that is
  
 It's a serif
-.",0.4
+.",0.4,0.13535438
 Sasuke!,"うわ！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.20614532
 "Sasuke, please stop!","サスケ君
  
 お願い
@@ -1262,29 +1262,29 @@ Sasuke!,"うわ！
 Please
  
 stop
-.",0.5
+.",0.5,0.96866727
 Look closely at him!,"あいつをよく見ろ
 ｡
 え？
 
 ","Look at that guy well
 .
-picture?",0.18181818181818182
+picture?",0.18181818181818185,0.54045075
 Talk! Where's the real Naruto!,"言え！
  
 本物のナルトはどこだ？
 
 ","say!
  
-Where is the real Naruto?",0.5
+Where is the real Naruto?",0.5,0.8834479
 "I have no idea what
 you're talking about!","しかたがないってばよ！
 
-",You're not there!,0.25
+",You're not there!,0.25,0.3075233
 "What happened to the scratch
 on you face?","顔の傷はどうした？
 
-",What happened to face scratches?,0.5
+",What happened to face scratches?,0.5,0.85425115
 "I'm asking what happened to the scratch
 you got before from the Proctor!","さっき
  
@@ -1296,7 +1296,7 @@ you got before from the Proctor!","さっき
  
 Wounds attached to the examiner
 I'm asking what happened
-.",0.3333333333333333
+.",0.3333333333333333,0.3979702
 "And your Shuriken holster
 is on your left leg.","それに手裏剣のホルスターが
 左脚についてる
@@ -1304,7 +1304,7 @@ is on your left leg.","それに手裏剣のホルスターが
 
 ","Back sword Holster
 On the left leg
-.",0.4166666666666667
+.",0.4166666666666667,0.675916
 "Unlucky! You got me.
 In that case...","え!?
 な…
@@ -1320,14 +1320,14 @@ In that case...","え!?
 What are you saying?
  
 Division
-.",0.25
+.",0.25,0.10616192
 Which one of you got the scroll?,"巻物持ってんのは
  
 どっちだ？
 
 ","What is a collection of scrolls
  
-Which one?",0.3076923076923077
+Which one?",0.3076923076923077,0.5184114
 "If you listen to me obediently,
 I'll spare your lives.","(
 朧
@@ -1338,7 +1338,7 @@ I'll spare your lives.","(
 
 ","If you put it honestly
 Only life will help
-.",0.15
+.",0.15,0.38609448
 "<i>when you want to cry, and you want to run away</i>","♬
  
 君は
@@ -1349,25 +1349,25 @@ Only life will help
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.39087588
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.28646743
 I messed up just a little bit.,"♬
  
 みな歌え
 
 ","♬
  
-A singing",0.1
+A singing",0.1,0.014723856
 Will I return to action?!,"♬
  
 泣きたくなって
 
 ","♬
  
-I want to cry",0.2
+I want to cry",0.2,0.19190657

@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774589
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017531
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048283
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,7 +68,7 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.5518779
 "I have two pieces
 of advice for you.","(
 ネジ
@@ -79,7 +79,7 @@ of advice for you.","(
 
 ","I advise about two about you
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6350631
 stop that revolting cheering of yours.,"忍なら
 見苦しい他人の応援などやめろ
 ｡
@@ -88,7 +88,7 @@ stop that revolting cheering of yours.,"忍なら
 ","Ninhen
 Stop the support of others who are unsightly
 .
-➡",0.2
+➡",0.2,0.27409565
 And second...,"そして
  
 もう一つ
@@ -99,21 +99,21 @@ And second...,"そして
  
 one more
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.56721586
 "a failure will
 always be a failure.","フッ
 ｡
 
 ","Hook
-.",0.14285714285714285
+.",0.14285714285714285,0.0544105
 Do you want to see about that?,"(ﾅﾙﾄ)
 試してみるか？
 
-",Do you try it?,0.3
+",Do you try it?,0.3,0.28357682
 You!,"(ｻｸﾗ)
 あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.36250588
 "Naruto, I get where you're
 coming from, believe me.","お前…
 ｡
@@ -125,7 +125,7 @@ coming from, believe me.","お前…
 ","you…
 .
 
-Naruto's feelings",0.14285714285714285
+Naruto's feelings",0.14285714285714285,0.6455563
 "But all fighting must be done
 officially in a match!","勝負は
  
@@ -139,7 +139,7 @@ officially in a match!","勝負は
 In a proper game
 Should be done
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.42814177
 "The failure beats the gifted genius
 through sheer effort...","落ちこぼれが天才を
 努力の力で打ち負かす
@@ -149,14 +149,14 @@ through sheer effort...","落ちこぼれが天才を
 ","Falling is a genius
 Cause with the power of the effort
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.55613446
 I will win no matter what!,"絶対
  
 勝つ！
 
 ","absolutely
  
-win!",0.25
+win!",0.25,0.63253576
 You're in trouble.,"(ｼｶﾏﾙ)
 おい
  
@@ -174,14 +174,14 @@ Chow
 you
  
 Yabe
-.",0.25
+.",0.25,0.13438131
 Only the strong ones are left.,"あと強いのしか残ってねえぞ
 ｡
 ➡
 
 ","It's only stronger
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.3810146
 "And Lee is apparently strong
 enough to take on Sasuke!","リーはサスケと
  
@@ -195,7 +195,7 @@ enough to take on Sasuke!","リーはサスケと
 It can be done
 It seems to be strong
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.86018485
 And particularly that Sand guy!,"特に
  
 あの砂の野郎
@@ -206,7 +206,7 @@ And particularly that Sand guy!,"特に
  
 That sandy guy
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.75595075
 "...you plan to forego
 all you can eat BBQ, too, then.","そんときは
  
@@ -216,7 +216,7 @@ all you can eat BBQ, too, then.","そんときは
 ","Santo
  
 I'm going to abstain ...
-.",0.16666666666666666
+.",0.16666666666666666,0.29548243
 Don't worry.,"え～！
  
 そんな～
@@ -225,7 +225,7 @@ Don't worry.,"え～！
 ","Eh!
  
 Such
-.",0.14285714285714285
+.",0.14285714285714285,0.25097167
 "If things start getting ugly,","(ｱｽﾏ)
 な～に
  
@@ -233,7 +233,7 @@ Such
 
 ","To
  
-If you get rid of it",0.08333333333333333
+If you get rid of it",0.08333333333333333,0.22368588
 "I'll step in and stop the fight,
 like I did for Hinata. Okay?","ヒナタの時みたいに
 俺が止めに入ってやるよ
@@ -245,40 +245,40 @@ like I did for Hinata. Okay?","ヒナタの時みたいに
 I will do it in
  
 Hoped
-.",0.2727272727272727
+.",0.2727272727272727,0.49205714
 "Prime beef tongue, short ribs...","特上牛タンでも
 骨付きカルビでも…
 ｡
 
 ","Special gray tongue
 Even with bonous carbi ...
-.",0.14285714285714285
+.",0.14285714285714285,0.43158725
 <i>Watching the previous fight...</i>,"(ﾃﾏﾘ)
 《さっきの戦いを見て…》
 
-","""Look at the battle ear ...""",0.13333333333333333
+","""Look at the battle ear ...""",0.13333333333333333,0.3053876
 <i>His inner demon!</i>,"焼き肉
  
 行くぞ～！➡
 
 ","Grilled meat
  
-I'll go ~!➡",0.14285714285714285
+I'll go ~!➡",0.14285714285714285,0.16175164
 "<i>I'm curious about that guy, Neji, too...</i>","(ｶﾝｸﾛｳ)
 《あのネジって野郎も
 気になるし…》
 
 ","""That screw is also a guy
-I'm worried about ...",0.3157894736842105
+I'm worried about ...",0.3157894736842105,0.2387723
 <i>Here's a plan.</i>,"(ｶﾝｸﾛｳ)
 《ヤベェ感じだぜ》
 
-","""It's a feeling of Yabe""",0.14285714285714285
+","""It's a feeling of Yabe""",0.14285714285714285,0.08925995
 Hey!,"おい！
 ん？
 
 ","Oi!
-Yeah?",0.2
+Yeah?",0.2,0.3232676
 "I-It's none of your business, is it?!","(ﾃﾏﾘ)
 カンクロウ？
 (ｶﾝｸﾛｳ)
@@ -288,7 +288,7 @@ Yeah?",0.2
 ","Cancer?
 
 It is information collection
-.",0.2
+.",0.2,0.13476697
 "<i>Hmmm. Well, well...</i>","べ…
  
 別に
@@ -301,7 +301,7 @@ It is information collection
 Separately
  
 It is good
-.",0.15384615384615385
+.",0.15384615384615385,0.26702127
 "Well, it seems to me that","(ｶﾝｸﾛｳ)
 《フフン
  
@@ -309,19 +309,19 @@ It is good
 
 ","""Fuhun
  
-So that's it""",0.16666666666666666
+So that's it""",0.16666666666666666,0.14728726
 What's he about?,"仲間のとこに
 行かなくていいのか？
 
 ","To the friend's cousin
-Do you have to go?",0.15384615384615385
+Do you have to go?",0.15384615384615385,0.038127508
 I'm going to crush him!,"俺が
  
 ぶっ倒す！
 
 ","I
  
-Beat it!",0.2222222222222222
+Beat it!",0.2222222222222222,0.2764615
 "Err, that's not what
 I was asking.","あいつ
  
@@ -331,7 +331,7 @@ I was asking.","あいつ
 ","that person
  
 I went to the sunset screw
-.",0.1875
+.",0.1875,0.047034133
 "You seem like a fun guy.
 I quite like you.","お前
  
@@ -343,7 +343,7 @@ I quite like you.","お前
  
 It is not interesting
 I like it
-.",0.3076923076923077
+.",0.3076923076923077,0.2726709
 We will now resume the battle.,"(ﾊﾔﾃ)
 では
  
@@ -353,7 +353,7 @@ We will now resume the battle.,"(ﾊﾔﾃ)
 ","In
  
 Resume the game
-.",0.3333333333333333
+.",0.3333333333333333,0.41886112
 "You'll be up this time for sure.
 Go for it, Lee!","(
 ガイ
@@ -366,21 +366,21 @@ Go for it, Lee!","(
 ","Yo!
  
 This time is the turn
-.",0.2222222222222222
+.",0.2222222222222222,0.26751688
 No!,"それ行け
  
 リー！
 
 ","Serpress
  
-Lee!",0.25
+Lee!",0.25,0.28057247
 <i>Is Lee sulking?</i>,"《リーさん
  
 すねてる？》
 
 ","""Lee
  
-Are you going?""",0.15384615384615385
+Are you going?""",0.15384615384615385,0.45650044
 Hurry up and get down here...,"(
 我愛羅
 )
@@ -388,10 +388,10 @@ Hurry up and get down here...,"(
 ｡
 
 ","Get down soon
-.",0.2222222222222222
+.",0.2222222222222222,0.45885503
 Safe!,"セーフ！
 
-",safe!,1.0
+",safe!,1.0,0.9999999
 "- Hey!
 - Don't do anything misleading, idiot!","(
 いの
@@ -402,10 +402,10 @@ Safe!,"セーフ！
 
 ","Hey!
 
-I'm a misleading Mane!",0.23076923076923078
+I'm a misleading Mane!",0.2307692307692308,0.4927423
 It worked!,"引っ掛かりましたね！
 
-",It was caught!,0.4
+",It was caught!,0.4,0.2857683
 "If you say you want to go last,
 then you won't be last.","最後がいいと言ったなら
 そうならない
@@ -413,19 +413,19 @@ then you won't be last.","最後がいいと言ったなら
 
 ","If you said the last
 Not
-.",0.25
+.",0.25,0.5864206
 "that says a stone thrown to hit
 a telephone pole will miss,","電柱に当てるつもりで
 投げた石は当たらず➡
 
 ","I intend to apply to a telephone pole
-The stone thrown is not hit",0.3888888888888889
+The stone thrown is not hit",0.3888888888888889,0.7276713
 "I absolutely did not
 want to go last!","見事に引っ掛けることが
 できました！
 
 ","It is possible to hook wonderfully
-I was able to!",0.1875
+I was able to!",0.1875,0.15834847
 "Okay, so let me give you
 a little piece of ""nice"" advice.","そんなお前に一つ
 ナイスなアドバイスをしてやろう
@@ -433,10 +433,10 @@ a little piece of ""nice"" advice.","そんなお前に一つ
 
 ","One of you
 Let's do a nice advice
-.",0.3684210526315789
+.",0.3684210526315789,0.6752504
 Right!,"オッス！
 
-",Oss!,0.3333333333333333
+",Oss!,0.3333333333333333,0.31381682
 That gourd is suspicious!,"あの
  
 ひょうたんが怪しいぞ
@@ -445,21 +445,21 @@ That gourd is suspicious!,"あの
 ","that
  
 Hyotan is suspicious
-.",0.42857142857142855
+.",0.42857142857142855,0.41938066
 <i>He didn't realize that?</i>,"(ｶｶｼ)
 《気付いてなかったのか…》
 
-","""I did not notice ...""",0.13333333333333333
+","""I did not notice ...""",0.13333333333333333,0.40581945
 "<i>Wow, is Lee going to be all right?</i>","《大丈夫かな？
  
 リーさん》
 
 ","""Is it alright?
  
-Mr. Lee",0.16666666666666666
+Mr. Lee",0.16666666666666666,0.5130489
 Yeah!,"よ～っしゃ！
 
-",Yo!,0.3333333333333333
+",Yo!,0.3333333333333333,0.5476079
 "I am very happy to be squaring
 off with you so early in the match.","早々に
  
@@ -471,39 +471,39 @@ off with you so early in the match.","早々に
  
 I can do it with you
 I am glad
-.",0.3
+.",0.3,0.4161134
 "I don't know what kind of moves
 that bowl cut guy has,","(ｶﾝｸﾛｳ)
 あのオカッパが
 どんな攻撃するか知らねえがな➡
 
 ","That okappa
-What kind of attack is noticeable ➡",0.21052631578947367
+What kind of attack is noticeable ➡",0.21052631578947367,0.1958408
 Never!,"お～！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.28635955
 No...,"蹴りは大したレベルじゃ
 なかったからな》
 
 ","Kick is a big level
-Because there was no",0.1
+Because there was no",0.1,0.13647106
 He's... strong.,"あいつは強ぇ
 ｡
 
 ","He is strong
-.",0.5
+.",0.5,0.8606933
 Please don't be in such a hurry.,"そう慌てないでください
 ｡
 
 ","Please do not hate so
-.",0.25
+.",0.25,0.45182523
 <i>Lee...</i>,"＜うお～！＞
 (ｻｽｹ)
 ＜がっ！＞
 
 ","<Uo!>
 
-<<>",0.25
+<<>",0.25,0.27655986
 "<i>Be careful, Lee.</i>","(
 ガイ
 )
@@ -513,7 +513,7 @@ Please don't be in such a hurry.,"そう慌てないでください
 
 ","""Be careful
  
-Lee """,0.2
+Lee """,0.2,0.76306087
 Now then... The 9th match...,"それでは
  
 第９回戦…
@@ -522,10 +522,10 @@ Now then... The 9th match...,"それでは
 ","Then
  
 The ninth battle ...
-.",0.3333333333333333
+.",0.3333333333333333,0.62597096
 Leaf Hurricane!,"木ノ葉旋風！
 
-",Taiwan leaf play!,0.4
+",Taiwan leaf play!,0.4,0.52938354
 Sand?,"(
 いの
 )
@@ -535,32 +535,32 @@ Sand?,"(
 
 ","That is…
 .
-sand?",0.4
+sand?",0.4,0.88572466
 <i>That's it?</i>,"(
 我愛羅
 )
 ＜それだけか？➡
 
-",<Is it all?➡,0.2727272727272727
+",<Is it all?➡,0.2727272727272727,0.47513464
 <i>Desert Burial!</i>,"(
 我愛羅
 )
 ＜砂瀑送葬！＞
 
-",<Sabuki commissioning!>,0.3333333333333333
+",<Sabuki commissioning!>,0.3333333333333333,0.15793662
 Even that Lee's fast strikes...,"あの速いリーさんの攻撃が
 全然効かないなんて…
 ｡
 
 ","That fast Lee's attack
 I do not work at all ...
-.",0.3333333333333333
+.",0.3333333333333333,0.74839365
 have no effect at all!,"(
 リー
 )
 ハァ～！
 
-",Hua!,0.14285714285714285
+",Hua!,0.14285714285714285,0.16559793
 What's the deal?!,"一体
  
 どうなってるんだってばよ
@@ -569,7 +569,7 @@ What's the deal?!,"一体
 ","Integral
  
 What's wrong
-.",0.2222222222222222
+.",0.2222222222222222,0.1299926
 "No physical strike is going to
 have any effect on him.","あいつには
 どんな物理攻撃も通用しねえ
@@ -577,7 +577,7 @@ have any effect on him.","あいつには
 
 ","Atsushi
 No physical attack
-.",0.21428571428571427
+.",0.21428571428571427,0.5164381
 "Injure Gaara, that is.","だから
  
 今まで
@@ -590,13 +590,13 @@ No physical attack
 until now
 Who is doing one person
 .
-➡",0.2
+➡",0.2,0.17739038
 Is that it?,"(
 我愛羅
 )
 それだけか？➡
 
-",Is it just?➡,0.5
+",Is it just?➡,0.5,0.44214487
 Entertain me a bit more...,"楽しませてくれよ
  
 もっと
@@ -605,15 +605,15 @@ Entertain me a bit more...,"楽しませてくれよ
 ","Get fun
  
 more
-.",0.1111111111111111
+.",0.1111111111111111,0.53455925
 There's not enough yet!,"足りないんだ
 ｡
 
 ","I'm not enough
-.",0.2222222222222222
+.",0.2222222222222222,0.5335189
 Blood!,"ぐわっ！
 
-",Hey!,0.3333333333333333
+",Hey!,0.3333333333333333,0.2832988
 Why is Lee only using Taijutsu?,"どうして
  
 リーさん
@@ -622,12 +622,12 @@ Why is Lee only using Taijutsu?,"どうして
 ","why
  
 Lee
-Are you only using the body?",0.45454545454545453
+Are you only using the body?",0.4545454545454545,0.584503
 It's not that he doesn't use it.,"あれじゃ接近戦は厳しいわ
 ｡
 
 ","That's why it is tough
-.",0.3333333333333333
+.",0.3333333333333333,0.13228577
 "Lee has almost no Ninjutsu
 or Genjutsu skills.","リーには
  
@@ -643,7 +643,7 @@ Ninjut
  
 Illus's skills
 rare
-.",0.21428571428571427
+.",0.21428571428571427,0.6640823
 "When I first met Lee,
 he was completely inept.","俺が初めてリーに会った頃は
 完璧ノーセンス
@@ -651,12 +651,12 @@ he was completely inept.","俺が初めてリーに会った頃は
 
 ","When I first met Lee
 Perfect Novice
-.",0.46153846153846156
+.",0.4615384615384616,0.6518292
 He had no talent whatsoever.,"何の才能もなかった
 ｡
 
 ","There was no talent
-.",0.375
+.",0.375,0.88625264
 Hey hey!,"(
 リー
 )
@@ -664,7 +664,7 @@ Hey hey!,"(
 あっ！
 
 ","Wow!
-Ah!",0.25
+Ah!",0.25,0.23512457
 Certainly...,"(
 ガイ
 )
@@ -672,7 +672,7 @@ Certainly...,"(
 ｡
 
 ","Hahaha ...
-.",0.25
+.",0.25,0.5127625
 "A ninja who can't do Ninjutsu
 and Genjutsu is a rarity.","(
 ガイ
@@ -685,7 +685,7 @@ and Genjutsu is a rarity.","(
 ","surely
  
 Ninjutsu and illusion
-Ninja that can not be used",0.15789473684210525
+Ninja that can not be used",0.15789473684210525,0.70034105
 "That's why, the only path open to Lee
 as a Ninja was Taijutsu.","だから
  
@@ -695,7 +695,7 @@ as a Ninja was Taijutsu.","だから
 ","that's why
  
 Ninja
-To live",0.29411764705882354
+To live",0.29411764705882354,0.53161734
 "Lee, take them off!","え？
 (
 ガイ
@@ -708,7 +708,7 @@ To live",0.29411764705882354
 
 Lee
  
-Remove!",0.2222222222222222
+Remove!",0.2222222222222222,0.70720595
 "to protect a large group
 of very important people!","でも
  
@@ -722,14 +722,14 @@ of very important people!","でも
 Teacher
 that is
  
-Many important people",0.13333333333333333
+Many important people",0.13333333333333333,0.2874725
 I give you permission!,"かまわん！
  
 俺が許す！
 
 ","I do not care!
  
-I will forgive!",0.2
+I will forgive!",0.2,0.24580877
 "All right, now I can
 move easily!","よ～し
  
@@ -737,7 +737,7 @@ move easily!","よ～し
 
 ","~
  
-This will make it easy to move easily!",0.1875
+This will make it easy to move easily!",0.1875,0.71541005
 "<i>is going to enable him to</i>
 <i>outmaneuver Gaara's sand...?</i>","(
 いの
@@ -750,7 +750,7 @@ This will make it easy to move easily!",0.1875
 ","That's ...
 .
 
-Is it a fun?",0.2
+Is it a fun?",0.2,0.09657396
 "<i>A bit extreme, I'd say, Guy.</i>","(ﾃﾏﾘ)
 《フン
  
@@ -760,7 +760,7 @@ Is it a fun?",0.2
 ","""Hun
  
 A little
-Where I removed the weight",0.1111111111111111
+Where I removed the weight",0.1111111111111111,0.10016469
 "Go, Lee!","行け～！
  
 リー！
@@ -773,14 +773,14 @@ Where I removed the weight",0.1111111111111111
  
 Lee!
 
-Oss!",0.6
+Oss!",0.6,0.77704406
 <i>Fast!</i>,"惜しい！
 (ｶｶｼ)
 《速い！》
 
 ","Lonely!
 
-""fast!""",0.2222222222222222
+""fast!""",0.2222222222222222,0.62712103
 "Because he can't use
 Ninjutsu or Genjutsu...","(ｶｶｼ)
 《やり過ぎでしょ…
@@ -789,13 +789,13 @@ Ninjutsu or Genjutsu...","(ｶｶｼ)
 
 ","""Don't do it too much ...
  
-Guy """,0.13333333333333333
+Guy """,0.13333333333333333,0.055509638
 "Therefore, he channeled all
 of his time,","だからこそ
 体術のために時間を費やし➡
 
 ","Because
-Spend time for body techniques",0.07692307692307693
+Spend time for body techniques",0.07692307692307693,0.2028175
 all of his energy and...,"(
 ガイ
 )
@@ -803,29 +803,29 @@ all of his energy and...,"(
 ｡
 
 ","Ninjutsu and illusion can not be used
-.",0.07692307692307693
+.",0.07692307692307693,0.0015965301
 Though he can't do any other Jutsu...,"たとえ
  
 ほかの術はできぬとも➡
 
 ","for example
  
-Other technologies can not be done",0.0625
+Other technologies can not be done",0.0625,0.20927693
 He won't lose to anyone...,"あいつは誰にも負けない➡
 
-",That guy does not lose to anyone,0.2727272727272727
+",That guy does not lose to anyone,0.2727272727272727,0.70853966
 He is a Taijutsu specialist!,"体術のスペシャリストだ
 ｡
 
 ","It is a specialist of body
-.",0.3
+.",0.3,0.4244944
 "<i>I can't believe it!</i>
 <i>Gaara's been injured!</i>","(ﾃﾏﾘ)
 《信じられない
 あの我愛羅が傷を…》
 
 ","""can not believe it
-That gasilla wounds ...",0.1
+That gasilla wounds ...",0.1,0.25032917
 "Bushy Brows is even
 faster than before!","ゲジマユのヤツ
 前より
@@ -837,7 +837,7 @@ faster than before!","ゲジマユのヤツ
 More than before
  
 If you are faster
-.",0.2
+.",0.2,0.28491235
 Was he this strong?!,"あいつ
  
 あんなに強かったのか
@@ -846,22 +846,22 @@ Was he this strong?!,"あいつ
 ","that person
  
 Was that strong?
-.",0.3333333333333333
+.",0.3333333333333333,0.74823564
 Youth is... explosion!,"爆発だ～！
 
-",It is an explosion!,0.42857142857142855
+",It is an explosion!,0.42857142857142855,0.53028834
 Over here!,"(
 リー
 )
 こっちですよ！
 
-",I'm here!,0.4
+",I'm here!,0.4,0.57879484
 Good!,"(
 我愛羅
 )
 うわ～！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.3362156
 "The Sand Shield can't keep
 up with him!","砂のガードが
 完全に追いついてない！
@@ -871,32 +871,32 @@ up with him!","砂のガードが
 ","Sand guard
 Not completely catch up!
  
-Nice shoot!",0.1875
+Nice shoot!",0.1875,0.5758443
 A-Amazing.,"よし
 ｡
 
 ","Good
-.",0.3333333333333333
+.",0.3333333333333333,0.34174797
 His strikes are lightning fast!,"すごい！
  
 速い！
 
 ","very!
  
-fast!",0.2857142857142857
+fast!",0.2857142857142857,0.35008207
 "I can't even track him
 with my eyes!","目で追うことができないよ
 ｡
 
 ","I can not chase with my eyes
-.",0.2857142857142857
+.",0.2857142857142857,0.6157664
 That's not what I meant.,"そっちのヤバいじゃねえよ
 ｡
 え？
 
 ","It's not there
 .
-picture?",0.2727272727272727
+picture?",0.2727272727272727,0.106405266
 W-What the...?!,"な…
  
 何だ？
@@ -907,7 +907,7 @@ W-What the...?!,"な…
  
 What?
 If the face is broken in Boroboro
-.",0.23076923076923078
+.",0.2307692307692308,0.18074557
 W-What's with this guy?!,"何なの？
  
 あいつ
@@ -916,7 +916,7 @@ W-What's with this guy?!,"何なの？
 ","What's?
  
 that person
-.",0.18181818181818182
+.",0.18181818181818185,0.24834645
 "<i>But, it's been a long time since</i>","しかし
  
 我愛羅の
@@ -929,20 +929,20 @@ that person
 Gala
  
 That look
-It's been a long time to see it",0.3157894736842105
+It's been a long time to see it",0.3157894736842105,0.28528377
 "<i>I felt that he was becoming</i>
 <i>more and more unstable</i>","だんだん不安定になりつつ
 あるとは感じていたけど…》
 
 ","Without becoming unstable
-I felt that there is ... """,0.29411764705882354
+I felt that there is ... """,0.29411764705882354,0.628659
 Hey! What is that?,"おい
  
 あれって何だってばよ？
 
 ","Oi
  
-What is that?",0.5714285714285714
+What is that?",0.5714285714285714,0.49959728
 Yes... It's Sand Armor.,"ああ
  
 ありゃ砂のよろいだ
@@ -953,14 +953,14 @@ Yes... It's Sand Armor.,"ああ
  
 It's a sandy
 .
-?",0.2727272727272727
+?",0.2727272727272727,0.4490826
 "Ordinarily, the Sand Shield
 functions to protect him automatically,","(ｶﾝｸﾛｳ)
 ふだんは砂の盾が
 オートで我愛羅を守り➡
 
 ","Sand shields
-Auto protects the shrine",0.14285714285714285
+Auto protects the shrine",0.14285714285714285,0.70156866
 "but, if by chance,
 the Shield is penetrated,","万が一
  
@@ -974,17 +974,17 @@ the Shield is penetrated,","万が一
 Even if the sand shield is broken
 Sand toroid prevents attack
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.42302203
 That's Gaara's... absolute defense!,"あれが我愛羅の絶対防御だ
 ｡
 
 ","That's the absolute defense of ourselves
-.",0.36363636363636365
+.",0.3636363636363637,0.51980907
 He doesn't have any weak points.,"弱点なんかねえじゃん
 ｡
 
 ","Weakness
-.",0.1111111111111111
+.",0.1111111111111111,0.47247538
 <i>No. That's not entirely true...</i>,"(ｶﾝｸﾛｳ)
 《いや
  
@@ -996,7 +996,7 @@ He doesn't have any weak points.,"弱点なんかねえじゃん
  
 That's not to say
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.22435379
 "<i>The Sand Armor is actually</i>
 <i>riddled with weak points.</i>","むしろ
  
@@ -1010,19 +1010,19 @@ That's not to say
 Sand oysters
 It is pushed down of the weakness
 .
-➡",0.13636363636363635
+➡",0.13636363636363635,0.576051
 "<i>First of all, because it's not automatic,</i>
 <i>it uses up a lot of Chakra.</i>","オートでない分
 チャクラを膨大に消費するし➡
 
 ","Not auto
-Consume a lot of chakras",0.19047619047619047
+Consume a lot of chakras",0.19047619047619047,0.6880331
 "<i>to keep the sand clinging</i>
 <i>to the body like that.</i>","砂が体に密着するため
 体力も消耗しちまう》
 
 ","In order for the sand to adhere to the body
-My physical strength is also consumed",0.18181818181818182
+My physical strength is also consumed",0.18181818181818185,0.6453312
 <i>That Lee is really good...</i>,"あのリーとかいうヤツ
 かなりやるじゃない
 ｡
@@ -1031,7 +1031,7 @@ My physical strength is also consumed",0.18181818181818182
 ","That Lee's guy
 I'm not pretty
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.6963342
 "<i>But, the outcome of the match</i>
 <i>is already a given.</i>","でも
  
@@ -1043,36 +1043,36 @@ I'm not pretty
  
 I can see the game
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.2936013
 <i>He will never beat Gaara!</i>,"我愛羅には絶対勝てないわ》
 
-","I can not beat Ira """,0.14285714285714285
+","I can not beat Ira """,0.14285714285714285,0.36112267
 Is that all?,"それだけか？
 
-",Is it just?,0.3333333333333333
+",Is it just?,0.3333333333333333,0.5436743
 "<i>I'll have to do major damage</i>
 <i>from above the sand guard.</i>","こうなったら
 砂のガードの上から➡
 
 ","When it comes to this
-From the top of the sand guard",0.18181818181818182
+From the top of the sand guard",0.18181818181818185,0.6500938
 Yes.,"うん
 ｡
 
 ","Yes
-.",1.0
+.",1.0,1.0000001
 Be ready!,"(
 リー
 )
 覚悟！
 
-",Get ready!,0.5
+",Get ready!,0.5,0.9142339
 "<i>A thin sand guard like that</i>
 <i>will be inconsequential</i>","あの程度の薄い砂のガードなど
 関係ない》
 
 ","That degree of thin sand guard etc
-does not matter""",0.2
+does not matter""",0.2,0.60843587
 "<i>in the face of Lee's high speed</i>
 <i>Lotus slamming down from above.</i>","(
 ガイ
@@ -1085,21 +1085,21 @@ does not matter""",0.2
 ","""Lee
 At high speed
  
-Obscribing [Outside: 9A4D3B93F5ABFF78DA43BEB12CF7F1BE] Chinese Chinese",0.11538461538461539
+Obscribing [Outside: 9A4D3B93F5ABFF78DA43BEB12CF7F1BE] Chinese Chinese",0.1153846153846154,0.4571666
 You asked for it!,"お望みどおりに！
 
-",As you wish!,0.2857142857142857
+",As you wish!,0.2857142857142857,0.3380793
 He didn't float.,"浮かない
 ｡
 
 ","Not float
-.",0.3333333333333333
+.",0.3333333333333333,0.757313
 Not just yet!,"(
 リー
 )
 まだまだ！
 
-",not yet!,0.75
+",not yet!,0.75,0.86272734
 "<i>Even an ordinary Lotus has</i>
 <i>a tremendous strain on the body...!</i>","体には
  
@@ -1113,10 +1113,10 @@ Not just yet!,"(
 Unexpectedly
 Burden
 .
-➡",0.09090909090909091
+➡",0.09090909090909093,0.44465652
 Take this!,"ぐおっ！
 
-",Take!,0.6666666666666666
+",Take!,0.6666666666666666,0.8347845
 I got him...,"ハァ
  
 ハァ
@@ -1129,27 +1129,27 @@ I got him...,"ハァ
 Han
  
 Hua ...
-.",0.14285714285714285
+.",0.14285714285714285,0.18109404
 good!,"よっしゃ～！
 
-",Yes!,0.3333333333333333
+",Yes!,0.3333333333333333,0.4604225
 He did it! Lee's won!,"やった～！
  
 リーさんが勝った～！
 
 ","I did!
  
-Lee won!",0.5
+Lee won!",0.5,0.8343466
 "Hey, he isn't dead, is he?","おいおい
  
 死んだんじゃねえか？
 
 ","little by little
  
-Isn't it dead?",0.4
+Isn't it dead?",0.4,0.44922012
 What?!,"何!?
 
-",what!?,1.0
+",what!?,1.0,0.8981637
 "<i>when you want to cry,</i>
 <i>and you want to run away</i>","♬
  
@@ -1161,21 +1161,21 @@ What?!,"何!?
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.3938254
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.28646743
 "But, hey, Bushy-Brows is smiling","♬
  
 光が生まれ
 
 ","♬
  
-Light is born",0.1111111111111111
+Light is born",0.1111111111111111,0.09928245
 "How can he continue to keep up
 a fighting stance","♬
  
@@ -1183,11 +1183,11 @@ a fighting stance","♬
 
 ","♬
  
-A singing",0.08333333333333333
+A singing",0.08333333333333333,0.08506443
 when he's being routed like this?!,"♬
  
 この手の中には
 
 ","♬
  
-In this hand",0.08333333333333333
+In this hand",0.08333333333333333,0.20421788

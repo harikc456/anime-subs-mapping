@@ -1,168 +1,168 @@
-en_text,jp_text,google_translated,score
-What happened?,何があった？,What happened?,1.0
-Boss!,（手下）ボス！,Boss!,1.0
-What? Dammit! Where...?!,なに？　くそっ　どこだ？,what?Where is it?,0.375
-"Well done, Golgo 13.",さすがだ ゴルゴ13,Sexual Golgo 13,0.2857142857142857
-"Golgo 13. Here is the remainder, as promised.",ゴルゴ13 約束の残金だ,It is a remark of the Golgo 13 promise,0.1875
-"Count it, Natalie.",数えてくれ ナタリー,Count Natalie,0.4
-Are you really Golgo 13?,あんた 本当にゴルゴ13なのか？,Is it really Golgo 13?,0.5
+en_text,jp_text,google_translated,score,semantic_score
+What happened?,何があった？,What happened?,1.0,1.0000001
+Boss!,（手下）ボス！,Boss!,1.0,1.0
+What? Dammit! Where...?!,なに？　くそっ　どこだ？,what?Where is it?,0.375,0.45561826
+"Well done, Golgo 13.",さすがだ ゴルゴ13,Sexual Golgo 13,0.2857142857142857,0.7097326
+"Golgo 13. Here is the remainder, as promised.",ゴルゴ13 約束の残金だ,It is a remark of the Golgo 13 promise,0.1875,0.6789967
+"Count it, Natalie.",数えてくれ ナタリー,Count Natalie,0.4,0.8805318
+Are you really Golgo 13?,あんた 本当にゴルゴ13なのか？,Is it really Golgo 13?,0.5,0.8529604
 "Ah! I simply mean, I hadn't heard that\NGolgo 13 had an assistant.","ああ… いや ゴルゴ13に
 助手がいるとは⸺","Oh ... No Golgo 13
-It is ⸺ to have an assistant",0.13043478260869565
-Or are you saying you have\Na problem with my work?,それとも俺の仕事に文句があるのか,Or do you complain about my work,0.3076923076923077
-"No, that's not what I...",（依頼主）いや そんなつもりじゃ…,"No, I'm going to say that ...",0.4166666666666667
-Let's go.,出せ,Gain,0.0
+It is ⸺ to have an assistant",0.13043478260869565,0.703534
+Or are you saying you have\Na problem with my work?,それとも俺の仕事に文句があるのか,Or do you complain about my work,0.3076923076923077,0.69659287
+"No, that's not what I...",（依頼主）いや そんなつもりじゃ…,"No, I'm going to say that ...",0.4166666666666667,0.4985164
+Let's go.,出せ,Gain,0.0,0.068751454
 "Florida... No, even\NSoutheast Asia would be nice.","（ナタリー）フロリダ… ううん
 東南アジアでもいい","Florida ... Uwan
-Southeast Asia",0.25
-Let's go someplace\Nwhere no one knows who we are.,誰も知らない所に行こう,Let's go to a place where no one knows,0.4
-"Ben, it's $2 million. We've saved $2 million!",ベン ２百万ドルよ,Ben $ 2 million,0.3333333333333333
-Yeah.,ああ,Ah,0.0
-What's wrong? Aren't you happy?,どうしたの　うれしくないの？,What's wrong with you?,0.5555555555555556
+Southeast Asia",0.25,0.71132123
+Let's go someplace\Nwhere no one knows who we are.,誰も知らない所に行こう,Let's go to a place where no one knows,0.4,0.74417675
+"Ben, it's $2 million. We've saved $2 million!",ベン ２百万ドルよ,Ben $ 2 million,0.3333333333333333,0.72568804
+Yeah.,ああ,Ah,0.0,0.510036
+What's wrong? Aren't you happy?,どうしたの　うれしくないの？,What's wrong with you?,0.5555555555555556,0.6377313
 "When you escaped from that\Ntouring circus and first met me,","あなたがドサまわりのサーカスから
 逃げ出して 私と知り合った時","You are from the circus of Dosa
-When I got rid of me and I met me",0.3888888888888889
-"Look at you now! You get $500,000 for a\Nsingle job. You've reached $2 million in no time!",あっという間に２百万ドルよ,$ 2 million in no time,0.3157894736842105
-Golgo 13...,ゴルゴ13…,Golgo 13 ...,1.0
+When I got rid of me and I met me",0.3888888888888889,0.5592371
+"Look at you now! You get $500,000 for a\Nsingle job. You've reached $2 million in no time!",あっという間に２百万ドルよ,$ 2 million in no time,0.3157894736842105,0.59357506
+Golgo 13...,ゴルゴ13…,Golgo 13 ...,1.0,1.0
 I want more money!,"俺は もっと稼ぐ
-（ナタリーの息をのむ声）",I earn more,0.3333333333333333
+（ナタリーの息をのむ声）",I earn more,0.3333333333333333,0.6246105
 "Not as a fake Golgo, but as my own person!","ゴルゴのニセモノじゃなく
 俺の手でな","Not a golgo niseemon
-My hand",0.3076923076923077
-What are you talking about?,何を言ってるのよ,What are you saying,0.42857142857142855
-It's because you've used the name of Golgo 13\Nthat clients have put their trust in you.,ゴルゴ13の名を使ってるから,Because I use the name of Golgo 13,0.23809523809523808
-"$500,000 a pop, just by claiming to be Golgo 13!",ゴルゴ13と名乗っただけで,Just called Golgo 13,0.21428571428571427
+My hand",0.3076923076923077,0.59592134
+What are you talking about?,何を言ってるのよ,What are you saying,0.42857142857142855,0.49870202
+It's because you've used the name of Golgo 13\Nthat clients have put their trust in you.,ゴルゴ13の名を使ってるから,Because I use the name of Golgo 13,0.2380952380952381,0.71851236
+"$500,000 a pop, just by claiming to be Golgo 13!",ゴルゴ13と名乗っただけで,Just called Golgo 13,0.21428571428571427,0.5614215
 "I've had it with being a fake! I'll be the greatest\Nprofessional there is, by my own hands!","俺は俺の腕で最高の
 プロフェッショナルになってやる","I am the best in my arms
-Professional",0.12
+Professional",0.12,0.34408915
 Wipe out Golgo's name? You don't mean...!,"ゴルゴの名をぬりつぶして…
 あなた まさか","Sudden the name of Golgo ...
-You are not good",0.2222222222222222
+You are not good",0.2222222222222222,0.7188618
 "If I have your help, I can make\Nwhat I mean happen for sure!","お前さえ協力してくれれば
 必ずやれる","If you cooperate
-Be sure",0.125
-Ben! You don't know anything about him.\NWhat kind of man Golgo 13 is.,ゴルゴ13が どんな男か,What kind of man is Golgo 13,0.35294117647058826
-How fearsome he is...,彼の怖さを…,His scary ...,0.14285714285714285
+Be sure",0.125,0.3462539
+Ben! You don't know anything about him.\NWhat kind of man Golgo 13 is.,ゴルゴ13が どんな男か,What kind of man is Golgo 13,0.35294117647058826,0.7706783
+How fearsome he is...,彼の怖さを…,His scary ...,0.14285714285714285,0.6718521
 "Later, I found out that the man was Golgo 13.","あとで その男がゴルゴ13だと
 わかったわ","After that a man is Golgo 13
-I got it",0.29411764705882354
+I got it",0.29411764705882354,0.79788464
 "Golgo 13 had killed those trained\Nbodyguards single-handedly,","（ナタリー）ゴルゴ13ひとりに
 腕利(うでき)きの用心棒たちは","13 Golgo
-Beware bars of",0.18181818181818182
+Beware bars of",0.18181818181818185,0.3906359
 "He had been killed too, all too easily.\NEven though he was proud of his fast draw...","（ナタリー）そして 彼も
 あっけなく殺されたわ","And he
-He was killed without",0.16666666666666666
+He was killed without",0.16666666666666666,0.5409198
 I planned the sort of revenge that I could do.,"ゴルゴに払われるはずの金(かね)を
 くすねてやった","The gold that should be paid to Golgo
-I did it",0.16666666666666666
-But now I'm in love with that\Nstrong-willed young man!,でも今は その鼻っ柱の強い若者を,But now the strong young people of the nasal column,0.17647058823529413
+I did it",0.16666666666666666,0.285374
+But now I'm in love with that\Nstrong-willed young man!,でも今は その鼻っ柱の強い若者を,But now the strong young people of the nasal column,0.17647058823529413,0.30498916
 "Please, give up this idea of killing Golgo!","お願い　ゴルゴを殺すなんて考えは
 捨てて","Please think about killing Golgo
-Throw away",0.21428571428571427
-"Yeah but still, I...",それでも 俺は…,Still I ...,0.5
-"Come on, calm down and think this through.\NYou don't know what a real professional is like.",ねえ 落ち着いて よく考えるのよ,Hey calm and think carefully,0.14285714285714285
+Throw away",0.21428571428571427,0.89590013
+"Yeah but still, I...",それでも 俺は…,Still I ...,0.5,0.6971525
+"Come on, calm down and think this through.\NYou don't know what a real professional is like.",ねえ 落ち着いて よく考えるのよ,Hey calm and think carefully,0.14285714285714285,0.39782172
 And Golgo has a body that's made of steel.,"それにゴルゴって男は
 鋼(はがね)のような体を持ってる","Golgo with it
-He has a body like steel",0.3333333333333333
+He has a body like steel",0.3333333333333333,0.84220386
 "That's not all. Golgo's will is\Nas hard as the Rock of Gibraltar,","ゴルゴはジブラルタルの
 岸壁のような固い意志と","Golgo is a gibraltar
-With a hard sense like a quay",0.14285714285714285
-"and he has deadly accurate sharp-shooting\Nskills. Ben, do you have those things?",ベン あなたに それがある？,Ben is it?,0.11764705882352941
-I have...,俺だって負けてない,I'm not losing,0.16666666666666666
+With a hard sense like a quay",0.14285714285714285,0.7705263
+"and he has deadly accurate sharp-shooting\Nskills. Ben, do you have those things?",ベン あなたに それがある？,Ben is it?,0.1176470588235294,0.48894632
+I have...,俺だって負けてない,I'm not losing,0.16666666666666666,0.24407873
 "I have a weapon called the knife,","音を立てずに相手を倒せる
 ナイフって武器がある","You can defeat the other party without making a sound
-A knife has a weapon",0.23529411764705882
-It's more accurate than a silenced gun.\NSo that's one advantage that he...,ゴルゴ13より有利な物がひとつ,One thing that is more advantageous than Golgo 13,0.2222222222222222
-"Natalie, make me into a man!",ナタリー 俺を男にしてくれ,Natalie Make me a man,0.625
-Natalie!,ナタリー！,Natalie!,1.0
-"It's no use trying to stop you, is it?",いくら止めてもムダなのね,It's a waste but no longer,0.2
+A knife has a weapon",0.2352941176470588,0.5693417
+It's more accurate than a silenced gun.\NSo that's one advantage that he...,ゴルゴ13より有利な物がひとつ,One thing that is more advantageous than Golgo 13,0.2222222222222222,0.28202128
+"Natalie, make me into a man!",ナタリー 俺を男にしてくれ,Natalie Make me a man,0.625,0.8992485
+Natalie!,ナタリー！,Natalie!,1.0,1.0
+"It's no use trying to stop you, is it?",いくら止めてもムダなのね,It's a waste but no longer,0.2,0.16016242
 "You'll do this with me, right? Natalie!","一緒にやってくれるんだな？
 ナタリー","Are you doing together?
-Natalie",0.21428571428571427
-It's for you. Natalie!,お前のためだ　ナタリー…,Natalie for you ...,0.375
-I'll kill Golgo for you!,お前のためにゴルゴを殺(や)ってやる,I will kill Golgo for you,0.625
+Natalie",0.21428571428571427,0.682729
+It's for you. Natalie!,お前のためだ　ナタリー…,Natalie for you ...,0.375,0.8325575
+I'll kill Golgo for you!,お前のためにゴルゴを殺(や)ってやる,I will kill Golgo for you,0.625,0.96347946
 "That's Warren Cole's pride and joy,\Nthe El Castillo.","あれがウォーレン･コールご自慢の
 エル･カスティージョ号","That's wholen call
-El Castillo",0.2857142857142857
-"In a chase, that ship can outrun\Neven the FBI's patrol boats.",たしかに あの船に現れるんだな,Certainly it appears in that ship,0.17647058823529413
-"Golgo 13 will definitely be on that boat, right?",ゴルゴ13は,Golgo 13,0.18181818181818182
+El Castillo",0.2857142857142857,0.6199254
+"In a chase, that ship can outrun\Neven the FBI's patrol boats.",たしかに あの船に現れるんだな,Certainly it appears in that ship,0.17647058823529413,0.3729757
+"Golgo 13 will definitely be on that boat, right?",ゴルゴ13は,Golgo 13,0.18181818181818185,0.69772464
 I'm sure of it.,"私が必死に追ってつかんだ
 たしかな情報よ","I was grabbed in desperately
-I'm sorry",0.18181818181818182
-Warren Cole...,（ベン）ウォーレン･コール,Warren Call,0.25
+I'm sorry",0.18181818181818185,0.17983969
+Warren Cole...,（ベン）ウォーレン･コール,Warren Call,0.25,0.42119253
 "A major player in the financial world,\Nand well known in underworld circles, too.","財界の大物であり
 裏の世界でも名を馳(は)せている","It is a great company
-Even in the back of the world",0.18181818181818182
+Even in the back of the world",0.18181818181818185,0.30411834
 He has no idea that he's been targeted by Golgo.,"（ベン）自分がゴルゴに
 狙(ねら)われているとも知らずに","I am a golgo
-Not knowing that you are singing",0.10526315789473684
-Very well. I look forward to your show.,採用だ　ショーを楽しみにしてるよ,I'm looking forward to the show,0.3333333333333333
-Thank you very much.,（ナタリー）ありがとうございます,Thank you,0.4
+Not knowing that you are singing",0.10526315789473684,0.47068858
+Very well. I look forward to your show.,採用だ　ショーを楽しみにしてるよ,I'm looking forward to the show,0.3333333333333333,0.6570335
+Thank you very much.,（ナタリー）ありがとうございます,Thank you,0.4,0.5571999
 "If any of you have firearms or other weapons,\Nwe will hold onto them for you until you return.","（船員）拳銃 その他の武器を
 お持ちの方は","Handgun and other weapons
-If you have anyone",0.22727272727272727
+If you have anyone",0.2272727272727273,0.5631167
 "is ensuring that everyone has a safe,\Nenjoyable time aboard the El Castillo.","快適にお遊びいただけるようにとの
 配慮のもと とられた措置ですので","To play comfortably
-Because it is a measure that is taken to consider",0.13043478260869565
-Your cooperation is appreciated.,ご協力願います,Thank you for your cooperation,0.25
-"The rich folk make their appearance, eh?",金持ちたちの ご登場か,Is it the airport of riches?,0.14285714285714285
-That man is Golgo 13.,彼が ゴルゴ13よ,He is Golgo 13,0.42857142857142855
-Ben. Where are you going?,ベン どこに行くの？,Where are you going?,0.7142857142857143
-"Gonna say a quick ""Hello.""",ちょっと あいさつだ,A little greeting,0.09090909090909091
+Because it is a measure that is taken to consider",0.13043478260869565,0.26870131
+Your cooperation is appreciated.,ご協力願います,Thank you for your cooperation,0.25,0.746662
+"The rich folk make their appearance, eh?",金持ちたちの ご登場か,Is it the airport of riches?,0.14285714285714285,0.31992817
+That man is Golgo 13.,彼が ゴルゴ13よ,He is Golgo 13,0.42857142857142855,0.8964164
+Ben. Where are you going?,ベン どこに行くの？,Where are you going?,0.7142857142857143,0.6313097
+"Gonna say a quick ""Hello.""",ちょっと あいさつだ,A little greeting,0.09090909090909093,0.5899284
 Need some help?,"（ベン）手伝おう
 （船員）助かる","helping
- help",0.2
-I'm fine.,大丈夫だ,Should be fine,0.16666666666666666
-Shit! Havin' to eat dinner here!\NMakes me remember bein' in the circus.,サーカスにいた頃を思い出しちまう,I remember when I was in Circus,0.15789473684210525
-"Still, I might be worrying needlessly. To think, a\Nman like Golgo 13 couldn't dodge that luggage...",ゴルゴ13ともあろう男が,Both Golgo 13,0.09523809523809523
-No.,（ベン）いや,No,0.5
+ help",0.2,0.281637
+I'm fine.,大丈夫だ,Should be fine,0.16666666666666666,0.35108393
+Shit! Havin' to eat dinner here!\NMakes me remember bein' in the circus.,サーカスにいた頃を思い出しちまう,I remember when I was in Circus,0.15789473684210525,0.6350233
+"Still, I might be worrying needlessly. To think, a\Nman like Golgo 13 couldn't dodge that luggage...",ゴルゴ13ともあろう男が,Both Golgo 13,0.09523809523809523,0.45803016
+No.,（ベン）いや,No,0.5,0.8128343
 It's like you said: the man's a well-oiled machine.,"ヤツは お前の言ってた通り
 精密機械みたいなヤツだ","The guy said as you said
-It is a guy like a precision machine",0.4375
+It is a guy like a precision machine",0.4375,0.4272928
 "In that instant, he verified everything in his\Nsurroundings and then made the best choice.","それでベストな選択を
 しやがったんだ","So the best choice
-I'm sorry",0.15789473684210525
+I'm sorry",0.15789473684210525,0.1469835
 "If he had dodged, the window\Nwould've gotten broken.","もしヤツが避けていたら
 ガラスが割れていた","If the guy is avoided
-Glass was broken",0.1875
+Glass was broken",0.1875,0.5971473
 He wanted to avoid any unnecessary prying.\NThat's why he even propped my luggage up.,"奴は余計な詮索をされるのを
 避けたかったんだ","Those are extra snooped
-I wanted to avoid",0.15
+I wanted to avoid",0.15,0.2245715
 "What's more, he friggin' made sure\NI wasn't carrying a weapon.","しかも 俺が武器を
 持ってないことを","And I have a weapon
-What you do not have",0.14285714285714285
-He got out of there making sure that\Nnobody noticed him; nobody saw him.,誰にも気づかれず,Not noticed anyone,0.0625
-That moth sure is a pain.,バレたってことはないかしら？,Isn't it?,0.1
-Quit complainin'. It's a job.,ぼやきなさんな　仕事だよ,It's a blurry job,0.4444444444444444
-Huh? Have you seen my sax?,俺のサックス知らないか？,Do you know my saxophone?,0.3
-"Ladies and gentlemen,",おいしい料理と年代物のワイン,Delicious food and age of age,0.125
+What you do not have",0.14285714285714285,0.3539364
+He got out of there making sure that\Nnobody noticed him; nobody saw him.,誰にも気づかれず,Not noticed anyone,0.0625,0.50030684
+That moth sure is a pain.,バレたってことはないかしら？,Isn't it?,0.1,0.14873452
+Quit complainin'. It's a job.,ぼやきなさんな　仕事だよ,It's a blurry job,0.4444444444444444,0.32869565
+Huh? Have you seen my sax?,俺のサックス知らないか？,Do you know my saxophone?,0.3,0.7349522
+"Ladies and gentlemen,",おいしい料理と年代物のワイン,Delicious food and age of age,0.125,0.15558264
 "And now, we present this show for your\Nentertainment. Please, enjoy your evening!","そして楽しいショーを
 用意いたしました","And a fun show
-We prepared",0.16666666666666666
-Is he here?,ヤツはいるか？,Is there a guy?,0.2857142857142857
+We prepared",0.16666666666666666,0.46240973
+Is he here?,ヤツはいるか？,Is there a guy?,0.2857142857142857,0.45899698
 That's when I'm going to use this knife\Nto pin his neck to the wall!,"その時こそ このナイフで
 ヤツの首を","That time is this knife
-The neck of the guy",0.19047619047619047
-He's here.,来たわ,Coming,0.0
+The neck of the guy",0.19047619047619047,0.711619
+He's here.,来たわ,Coming,0.0,0.27613
 "Come next showtime, only the stage will be lit.\NThat's your chance.","次のショータイムの時
 明かりは舞台だけになるわ","At the next show time
-The lights will only be the stage",0.3333333333333333
-"Yeah, I know.",（ベン）ああ わかってる,Oh I know,0.3333333333333333
-Ben!,（ナタリー）あっ…！　ベン！,...!Ben!,0.6666666666666666
-Where's the engine room?!,電源はどこだ,Where is the power supply,0.2
+The lights will only be the stage",0.3333333333333333,0.6928704
+"Yeah, I know.",（ベン）ああ わかってる,Oh I know,0.3333333333333333,0.7603634
+Ben!,（ナタリー）あっ…！　ベン！,...!Ben!,0.6666666666666666,0.8948355
+Where's the engine room?!,電源はどこだ,Where is the power supply,0.2,0.40744764
 I knew it. I knew this would happen...,"わかっていたのよ
 こうなるってことは","I knew it
-That's why",0.2727272727272727
+That's why",0.2727272727272727,0.6283753
 "Atop raging waters, a tanker carrying\Ncrude oil is hijacked at sea.","原油を積む大型船が
 シージャックされた","A large ship with crude oil
-Seajacked",0.1111111111111111
+Seajacked",0.1111111111111111,0.6532923
 More than 20 crewmembers\Nare taken as hostages.,"20名を超える乗組員が
 人質にとられる","More than 20 crew members
-Be served as a hostage",0.2857142857142857
+Be served as a hostage",0.2857142857142857,0.81170315
 "and from beneath the ocean, he heads toward\Nhis targets in an underwater scooter.","海の中から水中スクーターで
 ターゲットに近づく","Underwater scooter from the sea
-Be close to the target",0.2
-"Next time on Golgo 13,\N""Angry Waves""",次回 「ゴルゴ13」,"Next time ""Golgo 13""",0.45454545454545453
+Be close to the target",0.2,0.71345615
+"Next time on Golgo 13,\N""Angry Waves""",次回 「ゴルゴ13」,"Next time ""Golgo 13""",0.4545454545454545,0.72586346
 "Do not stand behind him, if you value your life!","ヤツの後ろに立つな
 命が惜しければ","Do not stand behind the guy
-If you are lonely",0.375
+If you are lonely",0.375,0.64631474

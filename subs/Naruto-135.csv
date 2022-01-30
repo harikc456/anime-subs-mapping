@@ -1,251 +1,251 @@
-en_text,jp_text,google_translated,score
-"<i>Hey boys, listen up!</i>",♬ 少年よ聞いてくれ,"♬ Boy, listen",0.16666666666666666
-"<i>Who needs tomorrow anyway,</i>",♬ 明日なんてもういらないから,♬ Because I do not want to tomorrow,0.13333333333333333
-<i>so don't hide your fists</i>,♬ 握った拳を隠すなよ,Don't hide the fist you hold,0.21428571428571427
-<i>You're not old enough</i>,♬ 人間なんて たいしたもんじゃないさ,♬ I'm not a human being,0.14285714285714285
-<i>who can pull the trigger in your heart</i>,♬ 引き金を引けるのは君だけさ,It is only you who can trigger,0.1875
-<i>All the kids said</i>,♬ すべての若者は言った,♬ All young people said,0.18181818181818182
-"<i>awesome world right at this moment,</i>",♬ この素晴らしい世界に,♬ In this wonderful world,0.14285714285714285
-<i>Don't forget every truth or lie</i>,♬ 決して忘れてしまわないように,♬ Do not forget it,0.14285714285714285
-<i>We're way too young to die</i>,♬ 死ぬには若すぎるだろう,♬ It would be too young to die,0.26666666666666666
-<i>into this windless night</i>,♬ 風の無いこの夜に,♬ Night without wind,0.09090909090909091
-<i>Because they want to change something</i>,♬ 何かを変えようとしてるから,♬ I'm trying to change something,0.3076923076923077
-Kakashi Sensei...,(ﾅﾙﾄ) ん… ｡,....,0.25
-Kakashi!,( 忍１ ) カカシさん ｡ ➡,Kakashi. ➡,0.25
-How is Naruto Uzumaki's condition?,うずまきナルトの容体は？ (ｶｶｼ) 大丈夫だ ｡,What is the vessel of Naruto Uzumaki? It's okay.,0.35714285714285715
+en_text,jp_text,google_translated,score,semantic_score
+"<i>Hey boys, listen up!</i>",♬ 少年よ聞いてくれ,"♬ Boy, listen",0.16666666666666666,0.6530667
+"<i>Who needs tomorrow anyway,</i>",♬ 明日なんてもういらないから,♬ Because I do not want to tomorrow,0.13333333333333333,0.63679063
+<i>so don't hide your fists</i>,♬ 握った拳を隠すなよ,Don't hide the fist you hold,0.21428571428571427,0.7157618
+<i>You're not old enough</i>,♬ 人間なんて たいしたもんじゃないさ,♬ I'm not a human being,0.14285714285714285,0.37642795
+<i>who can pull the trigger in your heart</i>,♬ 引き金を引けるのは君だけさ,It is only you who can trigger,0.1875,0.5361385
+<i>All the kids said</i>,♬ すべての若者は言った,♬ All young people said,0.18181818181818185,0.622417
+"<i>awesome world right at this moment,</i>",♬ この素晴らしい世界に,♬ In this wonderful world,0.14285714285714285,0.5135738
+<i>Don't forget every truth or lie</i>,♬ 決して忘れてしまわないように,♬ Do not forget it,0.14285714285714285,0.5459358
+<i>We're way too young to die</i>,♬ 死ぬには若すぎるだろう,♬ It would be too young to die,0.26666666666666666,0.68858486
+<i>into this windless night</i>,♬ 風の無いこの夜に,♬ Night without wind,0.09090909090909093,0.6819738
+<i>Because they want to change something</i>,♬ 何かを変えようとしてるから,♬ I'm trying to change something,0.3076923076923077,0.4510755
+Kakashi Sensei...,(ﾅﾙﾄ) ん… ｡,....,0.25,0.12681095
+Kakashi!,( 忍１ ) カカシさん ｡ ➡,Kakashi. ➡,0.25,0.90007854
+How is Naruto Uzumaki's condition?,うずまきナルトの容体は？ (ｶｶｼ) 大丈夫だ ｡,What is the vessel of Naruto Uzumaki? It's okay.,0.35714285714285715,0.6370355
 "What about Sasuke?
-Where's Sasuke Uchiha?!",( 忍１ ) サスケは… うちはサスケは どこですか？,Sasuke ... Where is Sasuke?,0.3
-How are the other Genin?,(ｶｶｼ) ほかの下忍たちの状況は？ ( 忍１ ) はい ｡ ➡,What is the situation of other Shimono? Yes. ➡,0.21428571428571427
+Where's Sasuke Uchiha?!",( 忍１ ) サスケは… うちはサスケは どこですか？,Sasuke ... Where is Sasuke?,0.3,0.8843857
+How are the other Genin?,(ｶｶｼ) ほかの下忍たちの状況は？ ( 忍１ ) はい ｡ ➡,What is the situation of other Shimono? Yes. ➡,0.21428571428571427,0.25134045
 "the first and second medical corps
-have been dispatched...",火影様の命により 第一 第二医療班が出動 ｡,The first second medical group will be dispatched by the life of fire.,0.2777777777777778
+have been dispatched...",火影様の命により 第一 第二医療班が出動 ｡,The first second medical group will be dispatched by the life of fire.,0.2777777777777778,0.72268736
 "The wounded from all areas have
-already been gathered.",すでに負傷者を各地で回収 ｡,Already collected in various places.,0.14285714285714285
+already been gathered.",すでに負傷者を各地で回収 ｡,Already collected in various places.,0.14285714285714285,0.34848535
 "They were convoyed after
-administering emergency treatment.",緊急治療を施したあと 護送しました ｡,"After emergency treatment, I fell off.",0.3333333333333333
-Yes! Shikamaru Nara has minor injuries...,奈良シカマルは軽傷 犬塚キバは➡,Nara Shikamaru Lights Inuyuka Kiba,0.18181818181818182
+administering emergency treatment.",緊急治療を施したあと 護送しました ｡,"After emergency treatment, I fell off.",0.3333333333333333,0.4618643
+Yes! Shikamaru Nara has minor injuries...,奈良シカマルは軽傷 犬塚キバは➡,Nara Shikamaru Lights Inuyuka Kiba,0.18181818181818185,0.5698627
 "Neji Hyuga and Choji Akimichi
-are in serious condition...",( 忍２ ) 日向ネジ そして 秋道チョウジの２名は重体 ｡ ➡,Two people in Hyangle screw and autumn choro are heavy. ➡,0.15789473684210525
+are in serious condition...",( 忍２ ) 日向ネジ そして 秋道チョウジの２名は重体 ｡ ➡,Two people in Hyangle screw and autumn choro are heavy. ➡,0.15789473684210525,0.35640886
 "At this point,
-there's no telling what will happen.",今のところ 予測がつきません ｡,There is no prediction for the moment.,0.17647058823529413
+there's no telling what will happen.",今のところ 予測がつきません ｡,There is no prediction for the moment.,0.17647058823529413,0.49847725
 "<i>The ingredients and</i>
-<i>effects of the medicine</i>",( 綱手 ) 《薬の成分と効果… ｡ ➡,"""The ingredients of medicine and effect ... ➡",0.35714285714285715
-How is he... Big Sister?,( キバ ) どうだ？ 姉ちゃん ｡,How is Kiba?My sister.,0.4
-No walks for him for quite a while...,( ハナ ) 当分は散歩もなしだ 手足の筋が切れちまってる ｡,"for a while, there is no walk.",0.3076923076923077
+<i>effects of the medicine</i>",( 綱手 ) 《薬の成分と効果… ｡ ➡,"""The ingredients of medicine and effect ... ➡",0.35714285714285715,0.72193104
+How is he... Big Sister?,( キバ ) どうだ？ 姉ちゃん ｡,How is Kiba?My sister.,0.4,0.4933621
+No walks for him for quite a while...,( ハナ ) 当分は散歩もなしだ 手足の筋が切れちまってる ｡,"for a while, there is no walk.",0.3076923076923077,0.6994292
 "The muscles of his limbs
-have been severely damaged.",( 綱手 ) あと 鹿の角 持ってきな ｡ ( 看護師 ) はい ｡,I brought the corner of the deer.  Yes.,0.2
-It'll be okay.,よく調べてある ｡ ➡,It is checked well. ➡,0.2222222222222222
+have been severely damaged.",( 綱手 ) あと 鹿の角 持ってきな ｡ ( 看護師 ) はい ｡,I brought the corner of the deer.  Yes.,0.2,0.025888735
+It'll be okay.,よく調べてある ｡ ➡,It is checked well. ➡,0.2222222222222222,0.17118135
 "It'll take time. But there's no threat
-to his life, so rest easy.",時間は かかるけど 命に 別状はないんだから安心しな ｡,"It takes time, but it is safe because there is no difference in life.",0.34782608695652173
-"Yeah, I know...",エッヘヘ… ああ 分かってるよ ｡,Egheehe ... Oh I know.,0.375
+to his life, so rest easy.",時間は かかるけど 命に 別状はないんだから安心しな ｡,"It takes time, but it is safe because there is no difference in life.",0.3478260869565217,0.5409475
+"Yeah, I know...",エッヘヘ… ああ 分かってるよ ｡,Egheehe ... Oh I know.,0.375,0.49883366
 "It'll soon be three hours...
-Please take over.",( 忍１ ) そろそろ３時間だ 交代してくれ ｡,Significant to 3 hours.,0.14285714285714285
+Please take over.",( 忍１ ) そろそろ３時間だ 交代してくれ ｡,Significant to 3 hours.,0.14285714285714285,0.46218187
 "Although we're making
-this kid's hair into a conductor,",(ｼｽﾞﾈ) この子の髪を 媒体にしているとはいえ➡,It is said that this child's hair is made to medium ➡,0.14285714285714285
+this kid's hair into a conductor,",(ｼｽﾞﾈ) この子の髪を 媒体にしているとはいえ➡,It is said that this child's hair is made to medium ➡,0.14285714285714285,0.50725687
 "please don't mistake the cellular rate
-of the deficient parts!",欠損部分の細胞比率を 間違えないでください！,Do not mistake the cell ratio of the missing part!,0.3125
+of the deficient parts!",欠損部分の細胞比率を 間違えないでください！,Do not mistake the cell ratio of the missing part!,0.3125,0.5661683
 "As for the Chakra control, handle it
-as if we're threading a needle!",(ｼｽﾞﾈ) チャクラコントロールは 針を通すつもりで！,Chakra control intends to pass through the needle!,0.2631578947368421
-Intensive Care Unit 6,( 忍２ ) 分かりました ｡,I understand.,0.0
-Missions come with sacrifice...,( ネジ ) あっ… ｡,....,0.16666666666666666
-"You took the mental training, right?",精神訓練は受けたんだろ？,Did you receive mental training?,0.4
+as if we're threading a needle!",(ｼｽﾞﾈ) チャクラコントロールは 針を通すつもりで！,Chakra control intends to pass through the needle!,0.2631578947368421,0.86461735
+Intensive Care Unit 6,( 忍２ ) 分かりました ｡,I understand.,0.0,0.033691674
+Missions come with sacrifice...,( ネジ ) あっ… ｡,....,0.16666666666666666,0.16408195
+"You took the mental training, right?",精神訓練は受けたんだろ？,Did you receive mental training?,0.4,0.84076643
 "Training and actual battle
-are different, you know...",(ｼｶﾏﾙ) 訓練と実践は違うだろ ｡ ➡,training and practice are different. ➡,0.3076923076923077
-I know what missions are about...,任務が どういうもんかは 分かってるし➡,What does the mission know?,0.18181818181818182
+are different, you know...",(ｼｶﾏﾙ) 訓練と実践は違うだろ ｡ ➡,training and practice are different. ➡,0.3076923076923077,0.6962924
+I know what missions are about...,任務が どういうもんかは 分かってるし➡,What does the mission know?,0.18181818181818185,0.7544452
 "And I thought I knew what
-the Shinobi world is like.",忍の世界が こういうもんだ ってのも分かってたつもりだ ｡,I intend to know that Shinobu's world is like this.,0.2777777777777778
+the Shinobi world is like.",忍の世界が こういうもんだ ってのも分かってたつもりだ ｡,I intend to know that Shinobu's world is like this.,0.2777777777777778,0.8329317
 "I became a platoon leader
-for the first time on this mission.",(ｼｶﾏﾙ) 俺はよ 今回の任務で 初めて小隊長に就いた ｡ ➡,I was the first took place for the first time in this task. ➡,0.3684210526315789
-"With that, I understood...",それで 分かった ｡,So I understood.,0.25
-I'm not cut out to be a Shinobi.,案外 もろいんだな 男のくせしやがって ｡,I'm sorry I'm sorry.,0.2727272727272727
+for the first time on this mission.",(ｼｶﾏﾙ) 俺はよ 今回の任務で 初めて小隊長に就いた ｡ ➡,I was the first took place for the first time in this task. ➡,0.3684210526315789,0.384314
+"With that, I understood...",それで 分かった ｡,So I understood.,0.25,0.68028706
+I'm not cut out to be a Shinobi.,案外 もろいんだな 男のくせしやがって ｡,I'm sorry I'm sorry.,0.2727272727272727,0.17164777
 "The only thing I was able to do
-as platoon leader...",(ｼｶﾏﾙ) 今回 俺が小隊長として できたことといや➡,This time I was able to be a platoon director,0.29411764705882354
-was to believe in everyone.,みんなを信じることだけだった ｡,It was only to believe everyone.,0.625
-I didn't have enough power...,俺が甘かった… 力が足らなかった… ｡ ➡,I was sweet ... I did not have enough power ....➡,0.5454545454545454
-It's all my fault!,全部 俺のせいだ ｡,All my fault.,0.42857142857142855
-Are you afraid of getting hurt?,傷つくのが怖いのか？,Is it scared to hurt?,0.18181818181818182
-Shikamaru...,(ｼｶｸ) シカマルよぉ ｡ ➡,Shikamaru. ➡,0.25
+as platoon leader...",(ｼｶﾏﾙ) 今回 俺が小隊長として できたことといや➡,This time I was able to be a platoon director,0.29411764705882354,0.7279298
+was to believe in everyone.,みんなを信じることだけだった ｡,It was only to believe everyone.,0.625,0.8150305
+I didn't have enough power...,俺が甘かった… 力が足らなかった… ｡ ➡,I was sweet ... I did not have enough power ....➡,0.5454545454545454,0.59358215
+It's all my fault!,全部 俺のせいだ ｡,All my fault.,0.42857142857142855,0.7729285
+Are you afraid of getting hurt?,傷つくのが怖いのか？,Is it scared to hurt?,0.18181818181818185,0.81526625
+Shikamaru...,(ｼｶｸ) シカマルよぉ ｡ ➡,Shikamaru. ➡,0.25,0.8808547
 "Are you going to be argued down
-by a girl and run away?",女の子に言い負かされて 逃げんのか？ あぁ？,Will the girl saying and flee?Ahh?,0.15789473684210525
+by a girl and run away?",女の子に言い負かされて 逃げんのか？ あぁ？,Will the girl saying and flee?Ahh?,0.15789473684210525,0.5712946
 "I don't want to have arguments.
-I'm not a woman.",俺は女じゃねえからよ ｡,I'm not a woman.,0.5
-"Yeah... But you're not a man, either.",ああ… けど 男でもねえ ｡,Oh ... but also a man.,0.38461538461538464
+I'm not a woman.",俺は女じゃねえからよ ｡,I'm not a woman.,0.5,0.65545
+"Yeah... But you're not a man, either.",ああ… けど 男でもねえ ｡,Oh ... but also a man.,0.38461538461538464,0.6495022
 "Even if you quit being Shinobi,
-the missions will continue.",お前が忍をやめても任務は続く ｡ ➡,"Even if you stop Shinobu, the task continues. ➡",0.35294117647058826
-Someone has to do it.,誰かが やらなきゃなんねえんだ ｡,I have to do someone.,0.5
-under a different platoon leader.,てめぇは ただの腰抜けだ ｡ ➡,Temee is just a waist.,0.2
-And your comrades might die there.,そこで お前の仲間は 死ぬかもしれねえ ｡ ➡,So your fellow may die. ➡,0.2727272727272727
+the missions will continue.",お前が忍をやめても任務は続く ｡ ➡,"Even if you stop Shinobu, the task continues. ➡",0.35294117647058826,0.7396702
+Someone has to do it.,誰かが やらなきゃなんねえんだ ｡,I have to do someone.,0.5,0.7004027
+under a different platoon leader.,てめぇは ただの腰抜けだ ｡ ➡,Temee is just a waist.,0.2,0.12850322
+And your comrades might die there.,そこで お前の仲間は 死ぬかもしれねえ ｡ ➡,So your fellow may die. ➡,0.2727272727272727,0.49882063
 "But if at that time,
-<i>you</i> were the platoon leader...",だが もし そのとき 隊長が お前だったら…➡,But then if the captain is you ... ➡,0.25
+<i>you</i> were the platoon leader...",だが もし そのとき 隊長が お前だったら…➡,But then if the captain is you ... ➡,0.25,0.43699968
 "If you reflect on this time,
-make use of the experience and learn,",今回を反省し 経験を生かして学べば➡,If you learn about this time and learn about the experience,0.5333333333333333
+make use of the experience and learn,",今回を反省し 経験を生かして学べば➡,If you learn about this time and learn about the experience,0.5333333333333333,0.76993114
 "you might be able to carry out missions
-with more perfection.",任務を より完璧に こなせるかもしれねえ ｡,You may make your task more perfect.,0.17647058823529413
+with more perfection.",任務を より完璧に こなせるかもしれねえ ｡,You may make your task more perfect.,0.17647058823529413,0.4204987
 "If you really think your comrades
-are important to you,",(ｼｶｸ) 本当に仲間を大切に思うならな➡,If you really think of friends,0.3333333333333333
-before you think about running away...,逃げることを考える前に➡,Before thinking about running away,0.5
+are important to you,",(ｼｶｸ) 本当に仲間を大切に思うならな➡,If you really think of friends,0.3333333333333333,0.33551696
+before you think about running away...,逃げることを考える前に➡,Before thinking about running away,0.5,0.9051496
 "That's what real comrades are,
-you coward!",それが 本当の仲間 ってもんだろうが ｡,That's a real friend.,0.23076923076923078
-caused by the side effects of the Pills.,( 綱手 ) 薬の副作用で 進行し続けていた細胞の死滅を➡,The killing of the cells that continued to proceed with the side effects of the medicine,0.25
-"You were a big help this time, Shikaku!",この腰抜けが！,This lumbar!,0.18181818181818182
+you coward!",それが 本当の仲間 ってもんだろうが ｡,That's a real friend.,0.2307692307692308,0.28416616
+caused by the side effects of the Pills.,( 綱手 ) 薬の副作用で 進行し続けていた細胞の死滅を➡,The killing of the cells that continued to proceed with the side effects of the medicine,0.25,0.42412606
+"You were a big help this time, Shikaku!",この腰抜けが！,This lumbar!,0.18181818181818185,0.13423522
 "The Nara Clan's secret medicinal
-preparation manual was very useful.",奈良一族秘伝の薬剤調合の マニュアルが役に立った ｡,The manual of the Hakuto Hakuhen of Nara Association was useful.,0.375
-It's the result of day to day study.,日頃の研さんの たまものだな ｡,It is a day of the day of Japan.,0.4166666666666667
-Thanks...,どうも ｡,Thanks .,0.3333333333333333
-Lady Tsunade!,(ｼｽﾞﾈ) 綱手様！ ( 綱手 ) ん？,Tope!?,0.2
+preparation manual was very useful.",奈良一族秘伝の薬剤調合の マニュアルが役に立った ｡,The manual of the Hakuto Hakuhen of Nara Association was useful.,0.375,0.59003985
+It's the result of day to day study.,日頃の研さんの たまものだな ｡,It is a day of the day of Japan.,0.4166666666666667,0.37892112
+Thanks...,どうも ｡,Thanks .,0.3333333333333333,0.711074
+Lady Tsunade!,(ｼｽﾞﾈ) 綱手様！ ( 綱手 ) ん？,Tope!?,0.2,0.3876366
 "Neji Hyugan.
-His safety line has been secured.",日向ネジ 安全ライン 確保しました！,Hinata screw safety line secured!,0.25
+His safety line has been secured.",日向ネジ 安全ライン 確保しました！,Hinata screw safety line secured!,0.25,0.4858774
 "Kakashi Hatake and Naruto Uzumaki
-have just now returned.",はたけカカシと うずまきナルトの２名が帰還 ｡,Two people of Hatake Kakashi and Uzumaki Naruto return.,0.42857142857142855
+have just now returned.",はたけカカシと うずまきナルトの２名が帰還 ｡,Two people of Hatake Kakashi and Uzumaki Naruto return.,0.42857142857142855,0.84707814
 "Although seriously injured,
-it seems it's not life threatening.",重傷を負ってはいるものの 命に別状はないそうです ｡,It seems that there is no difference in life of things that are seriously injured.,0.3
+it seems it's not life threatening.",重傷を負ってはいるものの 命に別状はないそうです ｡,It seems that there is no difference in life of things that are seriously injured.,0.3,0.61160934
 "Shikamaru...
-It seems the mission is a failure.",シカマル どうやら 任務失敗のようだね ｡,It looks like a mission failure.,0.4166666666666667
+It seems the mission is a failure.",シカマル どうやら 任務失敗のようだね ｡,It looks like a mission failure.,0.4166666666666667,0.5506106
 "But, everyone is alive!
-That's the most important thing.",でも みんな生きてる それが何よりだ ｡,But everyone is alive that above all.,0.4
-Next time for sure...,次こそは… 完璧に こなしてみせます…！,Next time ... I will try to make it perfect ...!,0.23076923076923078
-Sasuke... You're the chosen one.,君は選ばれた人間よ ｡,You are chosen human.,0.3
-"Whatever... Just give me ""power.""",(ｻｽｹ) どうでもいい さっさと力をくれ ｡,Please give me a powerfulness.,0.25
+That's the most important thing.",でも みんな生きてる それが何よりだ ｡,But everyone is alive that above all.,0.4,0.62290955
+Next time for sure...,次こそは… 完璧に こなしてみせます…！,Next time ... I will try to make it perfect ...!,0.2307692307692308,0.5182926
+Sasuke... You're the chosen one.,君は選ばれた人間よ ｡,You are chosen human.,0.3,0.44725677
+"Whatever... Just give me ""power.""",(ｻｽｹ) どうでもいい さっさと力をくれ ｡,Please give me a powerfulness.,0.25,0.5687814
 "Even though the form is different,
-it's still Lord Orochimaru before your eyes.",(ｶﾌﾞﾄ) 姿形は違えども➡,Joint is different.,0.17647058823529413
+it's still Lord Orochimaru before your eyes.",(ｶﾌﾞﾄ) 姿形は違えども➡,Joint is different.,0.17647058823529413,0.114472695
 "If you don't want to die,
-use more care in how you talk.",死にたくなければ もう少し 口を慎むことだよ ｡,"If you don't want to die, you're a little more.",0.5555555555555556
-<i>Wh-What? This quality of Chakra...</i>,(ｶﾌﾞﾄ) 《な… 何だ!? このチャクラの質は…》,"""What!? What? The quality of this chakra is ...""",0.35294117647058826
-<i>Yes... My future is inside this kid...</i>,( 大蛇丸 ) 《あぁ… 私の未来は この子の中にある》,"""Oh ... my future is in this child""",0.29411764705882354
-<i>I'm going to where Orochimaru is!</i>,＜俺は大蛇丸の所へ行く＞,<I go to the area of the Snake Maru>,0.23529411764705882
-<i>Please...bring back Sasuke!</i>,(ｻｸﾗ) ＜サスケ君を… サスケ君を連れ戻して！＞,<Sasuke ... Take Sasuke Take me!>,0.4166666666666667
-Shikamaru!,シカマル！,Shikamaru!,1.0
+use more care in how you talk.",死にたくなければ もう少し 口を慎むことだよ ｡,"If you don't want to die, you're a little more.",0.5555555555555556,0.5989853
+<i>Wh-What? This quality of Chakra...</i>,(ｶﾌﾞﾄ) 《な… 何だ!? このチャクラの質は…》,"""What!? What? The quality of this chakra is ...""",0.35294117647058826,0.68384844
+<i>Yes... My future is inside this kid...</i>,( 大蛇丸 ) 《あぁ… 私の未来は この子の中にある》,"""Oh ... my future is in this child""",0.29411764705882354,0.68572074
+<i>I'm going to where Orochimaru is!</i>,＜俺は大蛇丸の所へ行く＞,<I go to the area of the Snake Maru>,0.2352941176470588,0.4830544
+<i>Please...bring back Sasuke!</i>,(ｻｸﾗ) ＜サスケ君を… サスケ君を連れ戻して！＞,<Sasuke ... Take Sasuke Take me!>,0.4166666666666667,0.82804126
+Shikamaru!,シカマル！,Shikamaru!,1.0,0.99999964
 "I'm going on ahead to Choji!
-What about you?",( いの ) あたしは チョウジのとこ 先に行くわ！,I will go ahead of Choji!,0.26666666666666666
+What about you?",( いの ) あたしは チョウジのとこ 先に行くわ！,I will go ahead of Choji!,0.26666666666666666,0.8995026
 "I'm going on ahead to...
-Naruto and Sasuke!",私は先に ナルトと サスケ君の所に ｡,I first go to Naruto and Sasuke.,0.35714285714285715
+Naruto and Sasuke!",私は先に ナルトと サスケ君の所に ｡,I first go to Naruto and Sasuke.,0.35714285714285715,0.7961908
 "I see... So everyone's okay.
-That's good.",よかった ｡,Was good .,0.18181818181818182
-"Then, Sasuke...",んじゃ サスケは… ｡,Sasuke is ....,0.3333333333333333
+That's good.",よかった ｡,Was good .,0.18181818181818185,0.29336712
+"Then, Sasuke...",んじゃ サスケは… ｡,Sasuke is ....,0.3333333333333333,0.871379
 "Yeah... But Lady Tsunade said that
-he should regain consciousness soon.",(ﾁｮｳｻﾞ) ああ… けど すぐに意識が戻るって➡,Oh ... but soon a consciousness will come back,0.2222222222222222
-It's really a great help that,ホントに助かった ｡,It was really saved.,0.2
+he should regain consciousness soon.",(ﾁｮｳｻﾞ) ああ… けど すぐに意識が戻るって➡,Oh ... but soon a consciousness will come back,0.2222222222222222,0.58501667
+It's really a great help that,ホントに助かった ｡,It was really saved.,0.2,0.25793263
 "Lady Tsunade returned
-to the Leaf Village.",綱手様が言ってくれた ｡,The tugs said.,0.2
+to the Leaf Village.",綱手様が言ってくれた ｡,The tugs said.,0.2,0.07590769
 "If she hadn't, right about now,
-Choji would be...",でなけりゃ 今頃 チョウジは… ｡,"If it is not, Chojiji is ....",0.17647058823529413
-You've come to visit?,( 綱手 ) 見舞いか？ あっ ｡,Visit?Ah .,0.25
-Information sure travels fast.,情報が早いな ｡,Information is early.,0.2857142857142857
-Naruto...,《サクラちゃん…》,"""Sakura-chan ...""",0.2
+Choji would be...",でなけりゃ 今頃 チョウジは… ｡,"If it is not, Chojiji is ....",0.17647058823529413,0.6960697
+You've come to visit?,( 綱手 ) 見舞いか？ あっ ｡,Visit?Ah .,0.25,0.67176205
+Information sure travels fast.,情報が早いな ｡,Information is early.,0.2857142857142857,0.6144416
+Naruto...,《サクラちゃん…》,"""Sakura-chan ...""",0.2,0.5128283
 "I heard you suffered
-quite a serious injury...",かなりの深手を負ったと 聞いていたが➡,I heard that he had a pretty deep hand,0.2
-I'm sorry... I...,ごめん… 俺ってば… ｡,Sorry ... I'm sorry ....,0.8
+quite a serious injury...",かなりの深手を負ったと 聞いていたが➡,I heard that he had a pretty deep hand,0.2,0.28966993
+I'm sorry... I...,ごめん… 俺ってば… ｡,Sorry ... I'm sorry ....,0.8,0.86067027
 "Hey... The weather's nice today.
-So open the curtains.",カーテン開けて ｡,Open the curtain.,0.25
-Sakura! I...,サクラちゃん！ 俺➡,Sakura-chan!I,0.4
-"It's okay already, Naruto...",いいのよ ナルト もう… ｡,Good Naruto ....,0.2222222222222222
-I always...,(ｼｶﾏﾙ) サクラ こいつはな… ｡ いつも…➡,Sakura Koh this .... Always ... ➡,0.25
-"said that, so... I...",一生の約束だって 言ったからな 俺ってば！,Because I said that it was a lifetime promise!,0.23076923076923078
-That's my Way of Ninja!,それが俺の忍道だからよ！,Because it is my Shinin!,0.18181818181818182
-"<i>Thanks, Naruto...</i>",《ありがとう ナルト…》,"""Thank you Naruto ...""",0.16666666666666666
+So open the curtains.",カーテン開けて ｡,Open the curtain.,0.25,0.52130973
+Sakura! I...,サクラちゃん！ 俺➡,Sakura-chan!I,0.4,0.84607756
+"It's okay already, Naruto...",いいのよ ナルト もう… ｡,Good Naruto ....,0.2222222222222222,0.8078322
+I always...,(ｼｶﾏﾙ) サクラ こいつはな… ｡ いつも…➡,Sakura Koh this .... Always ... ➡,0.25,0.32134485
+"said that, so... I...",一生の約束だって 言ったからな 俺ってば！,Because I said that it was a lifetime promise!,0.2307692307692308,0.31159094
+That's my Way of Ninja!,それが俺の忍道だからよ！,Because it is my Shinin!,0.18181818181818185,0.37370712
+"<i>Thanks, Naruto...</i>",《ありがとう ナルト…》,"""Thank you Naruto ...""",0.16666666666666666,0.8300963
 "<i>I'll get right to healing this injury</i>
-<i>and I've got to bring Sasuke back!</i>",サスケを連れ戻しに 行かなきゃなんねえ！》,"I have to go back the Sasuke!""",0.22727272727272727
-Yo!,エ… エロ仙人!?,Erotic Sennin!,0.25
+<i>and I've got to bring Sasuke back!</i>",サスケを連れ戻しに 行かなきゃなんねえ！》,"I have to go back the Sasuke!""",0.2272727272727273,0.7310973
+Yo!,エ… エロ仙人!?,Erotic Sennin!,0.25,0.34856987
 "I've come today to tell you
-something important.",( 自来也 ) きょうは お前に 大事なことを言いに来た ｡ ➡,Today came to say important things. ➡,0.2857142857142857
+something important.",( 自来也 ) きょうは お前に 大事なことを言いに来た ｡ ➡,Today came to say important things. ➡,0.2857142857142857,0.7077055
 "From here on,
-as my official disciple,",これから わしの正式な弟子として➡,From now on as a formal disciple,0.36363636363636365
+as my official disciple,",これから わしの正式な弟子として➡,From now on as a formal disciple,0.3636363636363637,0.79108256
 "I'll train you to become
-a full fledged Shinobi in three years.",３年間で お前を一人前に育てる ｡,Grow yourself in three years alone.,0.23529411764705882
-Three years...?,３年間…？,3 years ...?,0.6
+a full fledged Shinobi in three years.",３年間で お前を一人前に育てる ｡,Grow yourself in three years alone.,0.2352941176470588,0.35802725
+Three years...?,３年間…？,3 years ...?,0.6,0.97894543
 "I've received some credible information
-from a certain source",( 自来也 ) ある筋から 暁に関する確かな情報が入った ｡,Incorrect information about the 暁 from a certain muscle.,0.25
-<i>Akatsuki...</i>,《暁…》,"""...""",0.125
-before they come after you next.,ヤツらが 次 お前を狙ってくるのは➡,The guy aims for the next you,0.18181818181818182
+from a certain source",( 自来也 ) ある筋から 暁に関する確かな情報が入った ｡,Incorrect information about the 暁 from a certain muscle.,0.25,0.178224
+<i>Akatsuki...</i>,《暁…》,"""...""",0.125,0.15196256
+before they come after you next.,ヤツらが 次 お前を狙ってくるのは➡,The guy aims for the next you,0.18181818181818185,0.34602037
 "I don't have the time
-to be doing slowpoke training!",ちんたら修業してる暇なんて ねえんだってばよ！,"I'm going to have a time to study, I'm sorry!",0.2777777777777778
-What do you mean?,どういうことだ？,What does it mean?,0.42857142857142855
+to be doing slowpoke training!",ちんたら修業してる暇なんて ねえんだってばよ！,"I'm going to have a time to study, I'm sorry!",0.2777777777777778,0.26744202
+What do you mean?,どういうことだ？,What does it mean?,0.42857142857142855,0.49988604
 "If I don't go after
-Sasuke immediately,",すぐにでも サスケを追わねえと！,I immediately chase Sasuke!,0.2727272727272727
-he might be killed by Orochimaru!,サスケは 大蛇丸に 殺されちまうかもしれねえんだ！,Sasuke may be killed by a large snake!,0.3333333333333333
+Sasuke immediately,",すぐにでも サスケを追わねえと！,I immediately chase Sasuke!,0.2727272727272727,0.7427771
+he might be killed by Orochimaru!,サスケは 大蛇丸に 殺されちまうかもしれねえんだ！,Sasuke may be killed by a large snake!,0.3333333333333333,0.5002104
 "<i>""Immortal"" doesn't mean that</i>
-<i>the flesh is being maintained as is.</i>",肉体が そのまま 保ち続けるわけではない ｡ ➡,It does not mean that the body keeps keeping it as it is. ➡,0.25
-"<i>Before his body decays,</i>",体が朽ちる前に➡,Before the body decays,0.3
+<i>the flesh is being maintained as is.</i>",肉体が そのまま 保ち続けるわけではない ｡ ➡,It does not mean that the body keeps keeping it as it is. ➡,0.25,0.5150684
+"<i>Before his body decays,</i>",体が朽ちる前に➡,Before the body decays,0.3,0.7320374
 "<i>a strong and new flesh will be made</i>
-<i>into a vessel for his soul.</i>",強く新しい肉体を魂の器にする＞,Make a strong new body to a soul instrument>,0.18181818181818182
+<i>into a vessel for his soul.</i>",強く新しい肉体を魂の器にする＞,Make a strong new body to a soul instrument>,0.18181818181818185,0.53121346
 "It seems you've learned
-of the true purpose",どうやら 大蛇丸がサスケを求める 真の目的を知ったらしいな ｡,"Apparently, it seems that the big snake knows the true purpose of seeking Sasuke.",0.3333333333333333
+of the true purpose",どうやら 大蛇丸がサスケを求める 真の目的を知ったらしいな ｡,"Apparently, it seems that the big snake knows the true purpose of seeking Sasuke.",0.3333333333333333,0.28131616
 "I was looking into
-Orochimaru's Immortality Jutsu.",( 自来也 ) わしは 大蛇丸の 不死の術を調べていたんだがのう ｡,I was examining the immortal art of the large snake circle.,0.17647058823529413
+Orochimaru's Immortality Jutsu.",( 自来也 ) わしは 大蛇丸の 不死の術を調べていたんだがのう ｡,I was examining the immortal art of the large snake circle.,0.17647058823529413,0.42618692
 "he can't reincarnate into
-the next body for three years.",次の体に転生は できないらしい ｡,It seems that you can not reincarnate the next body.,0.2777777777777778
+the next body for three years.",次の体に転生は できないらしい ｡,It seems that you can not reincarnate the next body.,0.2777777777777778,0.66490906
 "And unable to wait for Sasuke,
-he just recently reincarnated...",それに ヤツは サスケを待ちきれず➡,"Besides, the guy can not wait for Sasuke",0.23529411764705882
+he just recently reincarnated...",それに ヤツは サスケを待ちきれず➡,"Besides, the guy can not wait for Sasuke",0.2352941176470588,0.8045479
 "It'll be okay for three years from now...
-There is time.",今から３年間は 大丈夫だ ｡,It is all right for three years from now.,0.5
-"Not a lie, is it?!",それ うそじゃないよな？,Isn't it not so?,0.4
-However...,はぁ… ｡,Ha ....,0.25
-Forget about Sasuke...,( 自来也 ) サスケのことは もう忘れろ ｡ ➡,Please forget about Sasuke anymore. ➡,0.375
+There is time.",今から３年間は 大丈夫だ ｡,It is all right for three years from now.,0.5,0.79982865
+"Not a lie, is it?!",それ うそじゃないよな？,Isn't it not so?,0.4,0.45146492
+However...,はぁ… ｡,Ha ....,0.25,0.39626253
+Forget about Sasuke...,( 自来也 ) サスケのことは もう忘れろ ｡ ➡,Please forget about Sasuke anymore. ➡,0.375,0.92549527
 "Sasuke went to Orochimaru
-on his own accord.",サスケは 己から進んで 大蛇丸の所へ行った ｡ ➡,Sasuke went from myself and went to a large snake circle. ➡,0.23529411764705882
+on his own accord.",サスケは 己から進んで 大蛇丸の所へ行った ｡ ➡,Sasuke went from myself and went to a large snake circle. ➡,0.2352941176470588,0.6658364
 "No matter what you do,
-he won't change.",お前が何をしようと あいつは変わらん ｡,What to do if you do what you do.,0.3076923076923077
-"I've seen many Shinobi, so I know...",多くの忍を見てきたから分かる ｡,I understand that I have seen many Shinobu.,0.21428571428571427
+he won't change.",お前が何をしようと あいつは変わらん ｡,What to do if you do what you do.,0.3076923076923077,0.379867
+"I've seen many Shinobi, so I know...",多くの忍を見てきたから分かる ｡,I understand that I have seen many Shinobu.,0.21428571428571427,0.915981
 "Sasuke is the same kind
-as Orochimaru.",サスケは 大蛇丸と同じタイプだ ｡,Sasuke is the same type as a large snake.,0.5
+as Orochimaru.",サスケは 大蛇丸と同じタイプだ ｡,Sasuke is the same type as a large snake.,0.5,0.74824953
 "If you're thinking about bringing him back,
-just forget it.",( 自来也 ) あいつを連れ戻してやる とか思ってんなら やめとけ ｡ ➡,If you think that he will take back he will take place.,0.21052631578947367
-Would a friend hurt his comrade?!,俺にとって あいつは 友達なんだよ！,"For me, he is a friend!",0.23076923076923078
-Take a look at your current plight!,今の お前の その ありさまを見てみろ！,Let's look at your name now!,0.3333333333333333
-We were called Sannin together...,俺たちは三忍と呼ばれ➡,We are called Sanbu ➡,0.2222222222222222
+just forget it.",( 自来也 ) あいつを連れ戻してやる とか思ってんなら やめとけ ｡ ➡,If you think that he will take back he will take place.,0.21052631578947367,0.5435241
+Would a friend hurt his comrade?!,俺にとって あいつは 友達なんだよ！,"For me, he is a friend!",0.2307692307692308,0.29894876
+Take a look at your current plight!,今の お前の その ありさまを見てみろ！,Let's look at your name now!,0.3333333333333333,0.2705198
+We were called Sannin together...,俺たちは三忍と呼ばれ➡,We are called Sanbu ➡,0.2222222222222222,0.60603225
 "You lack thought
-in everything you do.",何をするにも考えが足りない ｡ ➡,There is not enough notion to do anything. ➡,0.13333333333333333
+in everything you do.",何をするにも考えが足りない ｡ ➡,There is not enough notion to do anything. ➡,0.13333333333333333,0.36329952
 "That's why you didn't notice
-what I was doing.",そんなんだから 私のやっていた ことにも気が付かないのよ＞,That's why I can't notice what I was doing>,0.6428571428571429
-"Can't you rethink it, Orochimaru?",ガキの頃からの 同志じゃなかったのか？＞,Didn't it come from the time of Gaki?>,0.1875
-Absurd!,( 大蛇丸 ) ＜笑止！➡,<laugh!➡,0.2
+what I was doing.",そんなんだから 私のやっていた ことにも気が付かないのよ＞,That's why I can't notice what I was doing>,0.6428571428571429,0.8304084
+"Can't you rethink it, Orochimaru?",ガキの頃からの 同志じゃなかったのか？＞,Didn't it come from the time of Gaki?>,0.1875,0.16431077
+Absurd!,( 大蛇丸 ) ＜笑止！➡,<laugh!➡,0.2,0.30318898
 "<i>I don't want you to go through</i>
-<i>the same thing...</i>",わしと同じ道を 歩ませたくないんだ ｡ ➡,I do not want to walk the same way as I,0.3157894736842105
+<i>the same thing...</i>",わしと同じ道を 歩ませたくないんだ ｡ ➡,I do not want to walk the same way as I,0.3157894736842105,0.22063169
 "If you're going to go after Sasuke,
-then there'll be no training.",( 自来也 ) サスケを追うなら 修業の話はなしだ ｡ ➡,"If you chase Sasuke, there is no story of training. ➡",0.38095238095238093
+then there'll be no training.",( 自来也 ) サスケを追うなら 修業の話はなしだ ｡ ➡,"If you chase Sasuke, there is no story of training. ➡",0.3809523809523809,0.8275941
 "and depending on the case,
-prohibit you from leaving the village.",木ノ葉からの外出を禁ずる ｡,Prohibit going out from Kuno Leaves.,0.1875
-You're not just an ordinary kid...,( 自来也 ) お前は ただのガキではない ｡ ➡,You are not just a gun. ➡,0.23076923076923078
+prohibit you from leaving the village.",木ノ葉からの外出を禁ずる ｡,Prohibit going out from Kuno Leaves.,0.1875,0.44407055
+You're not just an ordinary kid...,( 自来也 ) お前は ただのガキではない ｡ ➡,You are not just a gun. ➡,0.2307692307692308,0.363239
 "You possess the Nine Tail Fox.
-That the Akatsuki is after!",苦しんだあげく 残ったのは 己の無力さと後悔 ｡ ➡,It is the lack of use and regret that the remaining suffering is. ➡,0.19047619047619047
+That the Akatsuki is after!",苦しんだあげく 残ったのは 己の無力さと後悔 ｡ ➡,It is the lack of use and regret that the remaining suffering is. ➡,0.19047619047619047,0.1280957
 "This is serious.
-I'll just have to do that...",そうするしかない ｡,I have no choice.,0.21428571428571427
+I'll just have to do that...",そうするしかない ｡,I have no choice.,0.21428571428571427,0.24528421
 "if you're going to act on your own
-without listening to what I say.",事が事だ わしの言うことを聞かず 勝手なことをするというなら➡,"If you do not listen to what you say, you will",0.25
-Give up on Sasuke.,サスケのことは 諦めるんだの ｡ ➡,I will give up about Sasuke. ➡,0.4444444444444444
+without listening to what I say.",事が事だ わしの言うことを聞かず 勝手なことをするというなら➡,"If you do not listen to what you say, you will",0.25,0.5517766
+Give up on Sasuke.,サスケのことは 諦めるんだの ｡ ➡,I will give up about Sasuke. ➡,0.4444444444444444,0.8863211
 "Don't suffer anymore!
-Forget and dismiss him.",もう苦しむな 忘れて切り捨てろ ｡ ➡,"I will not suffer, I forgot and truncate. ➡",0.17647058823529413
-It's not just Jutsu or power...,術や力だけじゃない ｡ ➡,Not only techniques and power. ➡,0.15384615384615385
+Forget and dismiss him.",もう苦しむな 忘れて切り捨てろ ｡ ➡,"I will not suffer, I forgot and truncate. ➡",0.17647058823529413,0.54686147
+It's not just Jutsu or power...,術や力だけじゃない ｡ ➡,Not only techniques and power. ➡,0.15384615384615385,0.5148135
 "If you're a Shinobi, develop eyes that
-can make the right judgment.",忍なら正しい判断や 選択をする目を養え ｡ ➡,Ninnoba Nourishing the right judgment and choice. ➡,0.2
+can make the right judgment.",忍なら正しい判断や 選択をする目を養え ｡ ➡,Ninnoba Nourishing the right judgment and choice. ➡,0.2,0.47513556
 "And if you're going to live
-as a Shinobi, become wise.",忍として生きるなら もっと賢くなれ ｡,"If you live as Shinobu, it is more wise.",0.3888888888888889
+as a Shinobi, become wise.",忍として生きるなら もっと賢くなれ ｡,"If you live as Shinobu, it is more wise.",0.3888888888888889,0.85000485
 "the reality is that it will be tough
-living in this world.",バカのままじゃ この世界 生きづらいのが現実だぞ ｡,It's a reality that I'm going to live this world.,0.3
-Fine.,分かったよ ｡,OK .,0.3333333333333333
-If that's what being wise is...,賢いってのが そういうことなら➡,"If it is wise, if so",0.2727272727272727
+living in this world.",バカのままじゃ この世界 生きづらいのが現実だぞ ｡,It's a reality that I'm going to live this world.,0.3,0.6990892
+Fine.,分かったよ ｡,OK .,0.3333333333333333,0.66942376
+If that's what being wise is...,賢いってのが そういうことなら➡,"If it is wise, if so",0.2727272727272727,0.70346314
 "If someone like you
-were to do it alone...",( 自来也 ) お前みたいなのが １人で やっても➡,"Even if you do it alone, even if you do it alone",0.4166666666666667
+were to do it alone...",( 自来也 ) お前みたいなのが １人で やっても➡,"Even if you do it alone, even if you do it alone",0.4166666666666667,0.7380234
 "would be some
-stupid erotic Jutsu, anyway.",どうせ くだらんエロ忍術を 思いつくのが関の山だのう ｡,"Anyway, it is a mountainous mountain that comes to erotic ninjutsu.",0.2222222222222222
+stupid erotic Jutsu, anyway.",どうせ くだらんエロ忍術を 思いつくのが関の山だのう ｡,"Anyway, it is a mountainous mountain that comes to erotic ninjutsu.",0.2222222222222222,0.4934349
 "Be prepared once
-you're out of the hospital,",退院したら 覚悟しとけのう ｡,"If you are discharged, it will be prepared.",0.25
-you big fool.,この大バカ者が ｡,This big stupid.,0.3333333333333333
-See you then.,じゃあの ｡,Well then.,0.4
-Roger!,オッス！,Oss!,0.3333333333333333
+you're out of the hospital,",退院したら 覚悟しとけのう ｡,"If you are discharged, it will be prepared.",0.25,0.5421923
+you big fool.,この大バカ者が ｡,This big stupid.,0.3333333333333333,0.49547902
+See you then.,じゃあの ｡,Well then.,0.4,0.5033262
+Roger!,オッス！,Oss!,0.3333333333333333,0.25760043
 "- It's been seven years since...
-...all the members gathered like this.",( 男２ ) ７年前 大蛇丸が 組織を抜けた時以来だな ｡,"Since seven years ago, it is since the time when the Sennobe gets out of the organization.",0.24
-Itachi... Your little brother?,( 男４ ) イタチ お前の弟か ｡,Itachi Your brother?,0.6666666666666666
+...all the members gathered like this.",( 男２ ) ７年前 大蛇丸が 組織を抜けた時以来だな ｡,"Since seven years ago, it is since the time when the Sennobe gets out of the organization.",0.24,0.5725185
+Itachi... Your little brother?,( 男４ ) イタチ お前の弟か ｡,Itachi Your brother?,0.6666666666666666,0.9254211
 "More importantly,
-there are only three years left.",そいよか あと３年しかねえぞ？➡,"Well, more than three years?➡",0.2857142857142857
+there are only three years left.",そいよか あと３年しかねえぞ？➡,"Well, more than three years?➡",0.2857142857142857,0.63270104
 "Can everyone accomplish
-the work required of them?",( 男６ ) そう われわれの目的は➡,That's the purpose of our purpose,0.15384615384615385
-"Yes, our goal is...",いずれ大蛇丸は ぶっ殺す うん ｡ ➡,"Anyway, the large snake is killed. ➡",0.15384615384615385
+the work required of them?",( 男６ ) そう われわれの目的は➡,That's the purpose of our purpose,0.15384615384615385,0.25020325
+"Yes, our goal is...",いずれ大蛇丸は ぶっ殺す うん ｡ ➡,"Anyway, the large snake is killed. ➡",0.15384615384615385,0.10967522
 "to get everything,
-including the Nine Tail Fox in question!",すべてを手にすることだ ｡,It is to get everything.,0.2
+including the Nine Tail Fox in question!",すべてを手にすることだ ｡,It is to get everything.,0.2,0.54891926
 "<i>Softly clutching forgotten memories</i>
-<i>Lost words</i>",♬ 色褪せた 言葉は,Word faded words,0.08333333333333333
-"I can't put it well,",♬ ただそれだけを,♬ I just,0.1111111111111111
-What the heck does that mean?,♬ この両手に 抱えているもの,♬ What is held on both hands,0.07692307692307693
-"It's bugging me, it's bugging me!",♬ 時のしずく,Shizuku when,0.0
+<i>Lost words</i>",♬ 色褪せた 言葉は,Word faded words,0.08333333333333333,0.46398997
+"I can't put it well,",♬ ただそれだけを,♬ I just,0.1111111111111111,0.23437706
+What the heck does that mean?,♬ この両手に 抱えているもの,♬ What is held on both hands,0.07692307692307693,0.04812212
+"It's bugging me, it's bugging me!",♬ 時のしずく,Shizuku when,0.0,0.057356097
 "This isn't the time for me
-to be relaxing in the hospital!",♬ この思いは,♬ This thought,0.06666666666666667
+to be relaxing in the hospital!",♬ この思いは,♬ This thought,0.06666666666666668,0.19148685

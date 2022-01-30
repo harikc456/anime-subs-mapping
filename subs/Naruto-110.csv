@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Connecting old words</i>
 <i>that have been used up</i>","♬
  
@@ -6,7 +6,7 @@ en_text,jp_text,google_translated,score
 
 ","♬
  
-Now connect words",0.06666666666666667
+Now connect words",0.06666666666666668,0.57157856
 "<i>I just want to convey</i>
 <i>my simple thoughts</i>","♬
  
@@ -14,7 +14,7 @@ Now connect words",0.06666666666666667
 
 ","♬
  
-I just want to convey my thoughts",0.5833333333333334
+I just want to convey my thoughts",0.5833333333333334,0.65650606
 <i>That day's faint wind blows away</i>,"♬
  
 吹き抜ける
@@ -23,7 +23,7 @@ I just want to convey my thoughts",0.5833333333333334
 ","♬
  
 Blow through
-The wind of that day is",0.17647058823529413
+The wind of that day is",0.17647058823529413,0.71850526
 "<i>I'll laugh with you</i>
 <i>and live for the moment</i>","♬
  
@@ -35,7 +35,7 @@ The wind of that day is",0.17647058823529413
  
 Laugh with you
  
-Live now",0.26666666666666666
+Live now",0.26666666666666666,0.7049719
 "<i>Still that incident</i>
 <i>will continue to trouble you, right?</i>","♬
  
@@ -43,14 +43,14 @@ Live now",0.26666666666666666
 
 ","♬
  
-Will you suffer from you?",0.16666666666666666
+Will you suffer from you?",0.16666666666666666,0.3936523
 <i>That's why it must be good bye</i>,"♬
  
 だからこそサヨナラなんだ
 
 ","♬
  
-That's why it is a goodbye",0.25
+That's why it is a goodbye",0.25,0.6702667
 "<i>Leaving nothing behind,</i>
 <i>let us share what is left</i>","♬
  
@@ -58,7 +58,7 @@ That's why it is a goodbye",0.25
 
 ","♬
  
-Nothing remains as it is",0.1111111111111111
+Nothing remains as it is",0.1111111111111111,0.42120817
 "<i>In time, we'll realize</i>
 <i>that it was everything</i>","♬
  
@@ -66,7 +66,7 @@ Nothing remains as it is",0.1111111111111111
 
 ","♬
  
-I realize that it is everything",0.3125
+I realize that it is everything",0.3125,0.49161038
 "<i>And sadness will touch our cheeks,</i>
 <i>creating a river of tears</i>","♬
  
@@ -74,7 +74,7 @@ I realize that it is everything",0.3125
 
 ","♬
  
-Just become a river of tears",0.21052631578947367
+Just become a river of tears",0.21052631578947367,0.6167911
 "<i>Trembling thoughts swept into a vortex</i>
 <i>and melting away</i>","♬
  
@@ -82,18 +82,18 @@ Just become a river of tears",0.21052631578947367
 
 ","♬
  
-I'm melting",0.13333333333333333
+I'm melting",0.13333333333333333,0.40056193
 <i>Don't go!</i>,"(ｻｸﾗ)
 ＜行かないで‼＞
 
-",<Don't go!>,0.75
+",<Don't go!>,0.75,0.9107568
 <i>Thank you...</i>,"(ｻｽｹ)
 ＜ありがとう…＞
 
-",<Thank you ...>,0.7142857142857143
+",<Thank you ...>,0.7142857142857143,0.82252264
 Sasuke...,"《サスケ君…》
 
-","""Sasuke-kun ...""",0.2
+","""Sasuke-kun ...""",0.2,0.7311653
 "It's already four o'clock
 in the morning...","(ｺﾃﾂ
 のあくび
@@ -105,13 +105,13 @@ in the morning...","(ｺﾃﾂ
 
 ","It's already 4 o'clock in the morning
 .
-➡",0.5833333333333334
+➡",0.5833333333333334,0.91649413
 "She ought to retrieve
 the documents she forgot herself...","忘れてきた書類ぐらい自分で…
 ｡
 
 ","I forgot about my own documents ...
-.",0.21428571428571427
+.",0.21428571428571427,0.5982881
 Huh... What's the matter?,"(ｲｽﾞﾓ)
 ん？
  
@@ -119,14 +119,14 @@ Huh... What's the matter?,"(ｲｽﾞﾓ)
 
 ","Yeah?
  
-What happened?",0.2222222222222222
+What happened?",0.2222222222222222,0.27841625
 Hey! Wake up!,"はっ！
  
 サスケ君！
 
 ","Hey!
  
-Sasuke-kun!",0.4
+Sasuke-kun!",0.4,0.29531115
 "You'll catch cold if you sleep
 in a place like this.","(ｺﾃﾂ)
 おい
@@ -147,7 +147,7 @@ In this
 Sleep
  
 Corrugated
-.",0.25
+.",0.25,0.46139377
 Good work...,"(
 綱手
 )
@@ -155,7 +155,7 @@ Good work...,"(
 ｡
 
 ","Hard work
-.",0.2
+.",0.2,0.29571322
 "Fifth Hokage! You were asleep
 just now, weren't you?","あ～！
  
@@ -169,13 +169,13 @@ just now, weren't you?","あ～！
 Fifth generation
 now
  
-I slept!➡",0.1875
+I slept!➡",0.1875,0.56115603
 "When you made us
 go to fetch the documents!","俺たちに書類を取りに行かせて
 自分だけ寝てたでしょ！
 
 ","Let us go to put the documents
-I just slept myself!",0.375
+I just slept myself!",0.375,0.55901414
 "there's something
 I want to report to you.","そんなことより
  
@@ -187,7 +187,7 @@ I want to report to you.","そんなことより
  
 Pounding
 What you want to report
-.",0.3333333333333333
+.",0.3333333333333333,0.6861632
 What is it?,"(
 綱手
 )
@@ -201,7 +201,7 @@ What is it?,"(
  
 For
  
-realy!?",0.5714285714285714
+realy!?",0.5714285714285714,0.40591398
 Yes...,"アハハ…
  
 ハハ…
@@ -210,29 +210,29 @@ Yes...,"アハハ…
 ","Ahaha ...
  
 Haha ...
-.",0.2
+.",0.2,0.39589217
 "According to Sakura Haruno,
 it appears that there's no mistake...","どうやら間違いないようです
 ｡
 
 ","It seems that there is no doubt
-.",0.23529411764705882
+.",0.2352941176470588,0.22370288
 <i>In addition to getting what I want...</i>,"(
 大蛇丸
 )
 ＜欲しいものを頂くついでに➡
 
-",<Next to see what you want,0.2857142857142857
+",<Next to see what you want,0.2857142857142857,0.6221329
 "<i>This time, I will completely</i>
 <i>destroy Leaf Village.</i>","今度こそ➡
 
-",This time,0.16666666666666666
+",This time,0.16666666666666666,0.28624126
 "There's not that much time
 for morning training!","朝修業の時間は
 そんなにないわよ！
 
 ","The time of morning training
-There is no such thing!",0.3125
+There is no such thing!",0.3125,0.88295
 "OK, OK.","イズモ
  
 コテツ
@@ -241,7 +241,7 @@ There is no such thing!",0.3125
 ","Idle
  
 Cottets
-.",0.2
+.",0.2,0.08466408
 One OK is enough!,"(ﾖｼﾉ)｢
 はい
 ｣
@@ -250,7 +250,7 @@ One OK is enough!,"(ﾖｼﾉ)｢
 ","""
 Yes
 ""
-One time!",0.2222222222222222
+One time!",0.2222222222222222,0.34201804
 "<i>Nag, nag, nag from early</i>
 <i>in the morning...</i>","(ｼｶﾏﾙ)
 《あぁ～
@@ -261,11 +261,11 @@ One time!",0.2222222222222222
 ","""Oh ~
  
 from morning
-Gamigami Mendo ... """,0.17647058823529413
+Gamigami Mendo ... """,0.17647058823529413,0.29006517
 "I wonder who it could be
 so early in the morning?","こんな朝早くから誰かしら？
 
-",Such a morning early in the morning?,0.35714285714285715
+",Such a morning early in the morning?,0.35714285714285715,0.60748726
 Maybe that's why...,"(ｼｶｸ)
 ん～…
  
@@ -277,7 +277,7 @@ Maybe that's why...,"(ｼｶｸ)
  
 That's right
 .
-➡",0.375
+➡",0.375,0.20568791
 Shikamaru!,"(ﾖｼﾉ)
 シカマル
 ｡
@@ -287,7 +287,7 @@ Shikamaru!,"(ﾖｼﾉ)
 ","Shikamaru
 .
 
-Ah?",0.2
+Ah?",0.2,0.8700374
 "A messenger of the Fifth Hokage
 is here.","五代目の使者の方々が
  
@@ -297,7 +297,7 @@ is here.","五代目の使者の方々が
 ","The people of the third generation
  
 Show
-.",0.23076923076923078
+.",0.2307692307692308,0.22132666
 "Sasuke Uchiha apparently slipped out
 of the village late last night.","ゆうべ遅くに
 うちはサスケが里を抜けた
@@ -305,7 +305,7 @@ of the village late last night.","ゆうべ遅くに
 
 ","Lately
 Sasuke missed the village
-.",0.2857142857142857
+.",0.2857142857142857,0.7265259
 "that he is headed for
 the Village Hidden in the Sound!","ほぼ間違いなく
 音の里に向かっている
@@ -313,14 +313,14 @@ the Village Hidden in the Sound!","ほぼ間違いなく
 
 ","Almost certainly
 I'm heading for the village of sound
-.",0.2222222222222222
+.",0.2222222222222222,0.6089709
 Slipped out?! Why...,"抜けた!?
  
 どうして？
 
 ","I missed it!?
  
-Why?",0.3333333333333333
+Why?",0.3333333333333333,0.30035844
 "Because he was enticed by
 that Orochimaru!","(
 綱手
@@ -331,7 +331,7 @@ that Orochimaru!","(
 
 ","To that big snake
 It's because I'm invited
-.",0.11764705882352941
+.",0.1176470588235294,0.20269078
 "Why does Sasuke have to be enticed
 by a risky guy like that?!","何で
  
@@ -339,7 +339,7 @@ by a risky guy like that?!","何で
 
 ","why
  
-In such a guy",0.17647058823529413
+In such a guy",0.17647058823529413,0.3157052
 "The reason doesn't matter.
 In any case, there's no time.","そんな理由は
  
@@ -349,7 +349,7 @@ In any case, there's no time.","そんな理由は
 ","Such reason is
  
 Does not matter
-.",0.23529411764705882
+.",0.2352941176470588,0.6948377
 "You will perform your first mission
 as a Chunin...","とりあえず
  
@@ -361,19 +361,19 @@ as a Chunin...","とりあえず
  
 From now on
 Get your first mission
-.",0.1875
+.",0.1875,0.54540884
 "So all I have to do
 is bring Sasuke back?","サスケが誘われなきゃ
 いけないんすか？
 
 ","If Sasuke is invited
-Do you not go?",0.25
+Do you not go?",0.25,0.7194862
 "Yes... However, not only is time
 of the essence on this mission,","とにかく時間が惜しい
 ｡
 
 ","Anyway, the time is lonely
-.",0.23529411764705882
+.",0.2352941176470588,0.30013
 "but it may turn into something
 quite difficult.","やっかいなことに
 なるかもしれなくてな
@@ -381,15 +381,15 @@ quite difficult.","やっかいなことに
 
 ","What is a good thing
 It may be
-.",0.2
+.",0.2,0.29294252
 Huh?!,"(ｼｶﾏﾙ)
 え？
 
-",picture?,0.25
+",picture?,0.25,0.3199297
 "those under the control of Orochimaru
 are guiding Sasuke.","サスケを連れ戻すだけっすか？
 
-",Are you going back the Sasuke?,0.21428571428571427
+",Are you going back the Sasuke?,0.21428571428571427,0.59593827
 "<i>This is turning into a real pain</i>
 <i>in the neck.</i>","ただし
  
@@ -399,12 +399,12 @@ are guiding Sasuke.","サスケを連れ戻すだけっすか？
 ","However
  
 This task is
-In a hurry",0.23529411764705882
+In a hurry",0.2352941176470588,0.07277527
 composed only of Jonin and Chunin.,"上忍と中忍だけにしてくださいよ
 ｡
 
 ","Please be only Shinobu and Nakanobu
-.",0.2727272727272727
+.",0.2727272727272727,0.2517533
 I'm afraid I can't do that...,"それは
  
 できないんだよ
@@ -413,14 +413,14 @@ I'm afraid I can't do that...,"それは
 ","that is
  
 I can not do it
-.",0.23076923076923078
+.",0.2307692307692308,0.6161933
 Huh! Why?!,"えっ…
  
 何で!?
 
 ","eh… 
  
- why!?",0.6
+ why!?",0.6,0.7587488
 "Right now, only the barest minimum
 number of Jonin have been left behind","今
  
@@ -428,7 +428,7 @@ number of Jonin have been left behind","今
 
 ","now
  
-Most of the luts are ➡",0.16666666666666666
+Most of the luts are ➡",0.16666666666666666,0.20550199
 "Within the next 30 minutes,","(
 綱手
 )
@@ -438,7 +438,7 @@ Most of the luts are ➡",0.16666666666666666
 
 ","Than this
 30
-Within minutes",0.375
+Within minutes",0.375,0.6472637
 "I want you to gather all the Genin you
 consider the best, and leave this village!","お前が優秀だと思う下忍を
 集めるだけ集めて里を出ろ
@@ -446,7 +446,7 @@ consider the best, and leave this village!","お前が優秀だと思う下忍�
 
 ","I think you are excellent
 Collect only collect and leave the village
-.",0.2727272727272727
+.",0.2727272727272727,0.602013
 "I know the guy,
 so I just can't just let the matter go.","知ってるヤツのことだけに
 ほっとけねえしなぁ
@@ -454,12 +454,12 @@ so I just can't just let the matter go.","知ってるヤツのことだけに
 
 ","Only the guy who knows
 I'm relieved
-.",0.2222222222222222
+.",0.2222222222222222,0.4492204
 "What shall be, shall be...","ん～…
 ｡
 
 ","...
-.",0.16666666666666666
+.",0.16666666666666666,0.12813197
 "There's one guy
 I want to recommend.","１人
  
@@ -471,7 +471,7 @@ I want to recommend.","１人
  
 The guy who wants to recommend
 I have ...
-.",0.4
+.",0.4,0.7821694
 What! You've gotta be kidding!,"(ﾅﾙﾄ)
 何!?
  
@@ -479,7 +479,7 @@ What! You've gotta be kidding!,"(ﾅﾙﾄ)
 
 ","what!?
  
-Let's go!",0.16666666666666666
+Let's go!",0.16666666666666666,0.4474117
 "You are such a drag starting
 so early in the morning...","朝っぱらから
 うるせぇヤツだなぁ
@@ -487,7 +487,7 @@ so early in the morning...","朝っぱらから
 
 ","From the morning
 It's a wolf guy
-.",0.16666666666666666
+.",0.16666666666666666,0.2725042
 <i>But why this guy?</i>,"(ｼｶﾏﾙ)
 《しっかし
 何で
@@ -497,12 +497,12 @@ It's a wolf guy
 ","""Skin
 why
  
-What is this?""",0.21428571428571427
+What is this?""",0.21428571428571427,0.21235895
 "Hey, just wait here!","ちょっと待ってろ！
 すぐ着替えっからよ！
 
 ","Wait a minute!
-I'm coming soon!",0.16666666666666666
+I'm coming soon!",0.16666666666666666,0.54939413
 "on any other guys besides me
 who are excellent?","んで
  
@@ -512,10 +512,10 @@ who are excellent?","んで
 ","In
  
 Excellent guy other than me
-Are you looking for a star?",0.2777777777777778
+Are you looking for a star?",0.2777777777777778,0.5569484
 Yeah...,"《あの野郎…》
 
-","""That guy ...""",0.16666666666666666
+","""That guy ...""",0.16666666666666666,0.31594187
 "You said excellent guys, right...","起きろよ
  
 おい
@@ -526,10 +526,10 @@ Yeah...,"《あの野郎…》
  
 Oi
 .
-Did you say an excellent guy?",0.125
+Did you say an excellent guy?",0.125,0.6579456
 Potato chips?,"ポテトチップス？
 
-",Crisps?,0.25
+",Crisps?,0.25,0.5298703
 "I won't let anybody else have
 the last piece, no matter who you are.","(ﾁｮｳｼﾞ)
 ポテチとて
@@ -542,7 +542,7 @@ the last piece, no matter who you are.","(ﾁｮｳｼﾞ)
  
 Any number of people
 The last one tone is not passed
-.",0.1111111111111111
+.",0.1111111111111111,0.2658659
 "so coordinating with him
 is easiest for me.","俺との連携は
 いちばん
@@ -554,12 +554,12 @@ is easiest for me.","俺との連携は
 number one
  
 Easy to do
-.",0.2
+.",0.2,0.4868322
 "I understand that,","そりゃあ分かるけど
 こういう場合➡
 
 ","Well, I understand
-Such a case",0.375
+Such a case",0.375,0.6916009
 "Oh, shut up.","あぁ～
  
 うるせぇ
@@ -572,7 +572,7 @@ Such a case",0.375
 shut up
  
 shut up
-.",0.42857142857142855
+.",0.42857142857142855,0.79455554
 "Shino is on a special mission
 with his father.","(
 キバ
@@ -587,10 +587,10 @@ with his father.","(
  
 With oyaji
 I can not do it specially
-.",0.2222222222222222
+.",0.2222222222222222,0.5153244
 No way!,"んが～！
 
-",!,0.3333333333333333
+",!,0.3333333333333333,0.32232383
 I see... Sounds interesting...,"おい
  
 まさか…
@@ -607,7 +607,7 @@ Masaka ...
 Yes
  
 Decision
-.",0.1
+.",0.1,0.0885566
 "It looks like it was worth getting up early
 and going for a walk, doesn't it?","やっぱ
  
@@ -619,7 +619,7 @@ and going for a walk, doesn't it?","やっぱ
  
 Get up early
 I will take a walk
-.",0.16666666666666666
+.",0.16666666666666666,0.7090047
 "Shikamaru, what about the other guys?","おい
  
 シカマル
@@ -630,7 +630,7 @@ I will take a walk
  
 Shikamaru
  
-What is another guy?",0.25
+What is another guy?",0.25,0.75580645
 "It appears that your operation
 was a success.","(
 キバ
@@ -643,14 +643,14 @@ was a success.","(
 ","got it
 It's interesting
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.16073512
 "Is it okay for you
 to be released already?","(
 ネジ
 )
 もう出てきても大丈夫なのか？
 
-",Is it okay if you come out anymore?,0.35714285714285715
+",Is it okay if you come out anymore?,0.35714285714285715,0.5592402
 "I was told that I would be able
 to undertake light training soon.","もう少しで軽い修業くらいは
 できるようになると言われました
@@ -658,7 +658,7 @@ to undertake light training soon.","もう少しで軽い修業くらいは
 
 ","Light training in a little more
 It was said that it will be possible
-.",0.2857142857142857
+.",0.2857142857142857,0.8036596
 "<i>Damn... At a time like this, I...</i>","(
 リー
 )
@@ -668,7 +668,7 @@ It was said that it will be possible
 
 ","""At this time
  
-I…""",0.2
+I…""",0.2,0.4056241
 Lee! Do what you need to do.,"リー
  
 お前は
@@ -679,7 +679,7 @@ Lee! Do what you need to do.,"リー
  
 You are
 Do what you want to do
-.",0.6
+.",0.6,0.84701246
 "I'll climb these steps alone
 starting tomorrow!","(
 リー
@@ -694,12 +694,12 @@ starting tomorrow!","(
  
 This stairs
 I can get one person
-.",0.11764705882352941
+.",0.1176470588235294,0.5259329
 Lee...,"リー
 ｡
 
 ","Lee
-.",0.3333333333333333
+.",0.3333333333333333,0.93319803
 I'll be fine! You go!,"大丈夫です
  
 行ってきてください
@@ -708,12 +708,12 @@ I'll be fine! You go!,"大丈夫です
 ","fine
  
 Please go
-.",0.2222222222222222
+.",0.2222222222222222,0.65378237
 We're at our time limit!,"タイムリミットだ
 ｡
 
 ","It is time limit
-.",0.2
+.",0.2,0.61846304
 "Well, I've assembled five people...","(ｼｶﾏﾙ)
 とりあえず
  
@@ -723,10 +723,10 @@ We're at our time limit!,"タイムリミットだ
 ","for now
  
 5 people have been
-.",0.07142857142857142
+.",0.07142857142857142,0.56280166
 "All right! Everybody, follow me!","んじゃ！
 
-",!,0.14285714285714285
+",!,0.14285714285714285,0.29577637
 "Hey, Naruto...","(ｼｶﾏﾙ)
 おい
  
@@ -740,7 +740,7 @@ We're at our time limit!,"タイムリミットだ
 That
  
 Naruto
-.",0.14285714285714285
+.",0.14285714285714285,0.7887155
 "I'm supposed to be the squad leader.
 Though it sure is a drag...","よ～し！
  
@@ -754,7 +754,7 @@ Though it sure is a drag...","よ～し！
 Everyone
 To me
  
-It is a good idea!",0.18181818181818182
+It is a good idea!",0.18181818181818185,0.14782995
 "You really think everything will be okay
 if things are left in your hands?","ホントに
  
@@ -764,7 +764,7 @@ if things are left in your hands?","ホントに
 ","Really
  
 Please leave it to you
-Is it okay?",0.2
+Is it okay?",0.2,0.40349224
 "What's up with you acting
 like the boss, Naruto?","てめぇがボス面して
  
@@ -776,7 +776,7 @@ like the boss, Naruto?","てめぇがボス面して
  
 How are you
 Naruto
-.",0.23529411764705882
+.",0.2352941176470588,0.68961143
 But Shikamaru is already a Chunin!,"でも
  
 シカマルは
@@ -789,23 +789,23 @@ But Shikamaru is already a Chunin!,"でも
 Shikamaru
  
 I'm already hungry
-.",0.2727272727272727
+.",0.2727272727272727,0.62871605
 We have to follow his orders.,"何か頼りねえってばよ
 ｡
 
 ","I hope to rely on
-.",0.18181818181818182
+.",0.18181818181818185,0.30671763
 "What that means is that
 the elders of the village recognized him","里の上の人が➡
 
-",People above the village are ➡,0.14285714285714285
+",People above the village are ➡,0.14285714285714285,0.5041068
 as capable of being a leader.,"リーダーとしてやれるって
 認めたってことなんだから
 ｡
 
 ","I can do it as a leader
 Because it is recognized
-.",0.2857142857142857
+.",0.2857142857142857,0.58864385
 "Since that's the case,
 come up with some strategy and plan.","それなら
  
@@ -817,7 +817,7 @@ come up with some strategy and plan.","それなら
  
 Correspondingly
 Make a strategy or plan
-.",0.2631578947368421
+.",0.2631578947368421,0.7919321
 "and there's a strong possibility
 that they're gonna ambush us.","釈然としねえもんがあるが…
 ｡
@@ -826,7 +826,7 @@ that they're gonna ambush us.","釈然としねえもんがあるが…
 )
 
 ","There is a clearness and no
-.",0.23529411764705882
+.",0.2352941176470588,0.102289446
 "we will be in the position
 of pursuit.","とりあえず
  
@@ -838,7 +838,7 @@ of pursuit.","とりあえず
  
 As a rescue operation
 It will be in the standpoint of this
-.",0.3333333333333333
+.",0.3333333333333333,0.4507803
 we will <i>all</i> die.,"全員
  
 死ぬぜ
@@ -847,14 +847,14 @@ we will <i>all</i> die.,"全員
 ","All
  
 I die
-.",0.4444444444444444
+.",0.4444444444444444,0.5817385
 We will go in a single file formation.,"フォーメーションは
 一列縦隊で行く
 ｡
 
 ","Formation
 Go in a single row
-.",0.6
+.",0.6,0.5031815
 "Kiba, that's you!","キバ
  
 お前だ
@@ -863,7 +863,7 @@ Go in a single row
 ","Kiba
  
 You are
-.",0.25
+.",0.25,0.7788235
 "and are therefore well versed in the terrain
 and geography of the Land of Fire.","火の国の地形と地理に詳しい
 ｡
@@ -871,13 +871,13 @@ and geography of the Land of Fire.","火の国の地形と地理に詳しい
 
 ","Learn more about terrain and geography of the country of fire
 .
-➡",0.3888888888888889
+➡",0.3888888888888889,0.5961669
 "you can track Sasuke
 with your sense of smell and,","また鼻が利くから
 サスケをにおいで追えるうえ➡
 
 ","Also from the nose
-Sasuke smell and follows",0.1875
+Sasuke smell and follows",0.1875,0.7602565
 "which makes them
 easy to find...","敵のにおいの付いた
 ﾌﾞｰﾋﾞｰﾄﾗｯﾌﾟ
@@ -891,7 +891,7 @@ Booby trap
 of
 It is easy to find out
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.27459678
 "And... second in line will be me,
 the squad leader.","んで
  
@@ -901,7 +901,7 @@ the squad leader.","んで
 ","In
  
 The second is me of the platoon head
-.",0.29411764705882354
+.",0.29411764705882354,0.55035233
 "from my position
 directly behind Kiba","状況に応じて
  
@@ -911,7 +911,7 @@ directly behind Kiba","状況に応じて
 ","According to the situation
  
 To Kiba just before
-Make instructions from behind",0.21428571428571427
+Make instructions from behind",0.21428571428571427,0.6295486
 "and can give orders to those behind me
 using only hand signals.","ハンドシグナルだけで
 命令が下せる
@@ -921,7 +921,7 @@ using only hand signals.","ハンドシグナルだけで
 ","Only hand signal
 Make an order
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.69047445
 "And in the middle...
 in the number three position is Naruto.","それから中心
  
@@ -933,7 +933,7 @@ in the number three position is Naruto.","それから中心
  
 The third is Naruto
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.8012762
 "and are able to respond immediately
 to anything in front or behind.","前方
  
@@ -947,7 +947,7 @@ to anything in front or behind.","前方
 Rear
  
 Both helping
-It can respond immediately ➡",0.10526315789473684
+It can respond immediately ➡",0.10526315789473684,0.527355
 And fourth in line is Choji.,"で
  
 ４番目がチョウジ
@@ -962,7 +962,7 @@ The fourth is Chouji
  
 You are
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6408728
 "You. You don't have speed,","お前にゃ
  
 スピードはねえけど
@@ -979,7 +979,7 @@ In a corps
  
 I have the best hit
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.43466538
 "You are assigned to
 the most difficult position of rear lookout.","最も難しい
 後方の警戒をやってもらうぜ
@@ -989,7 +989,7 @@ the most difficult position of rear lookout.","最も難しい
 ","Most difficult
 Get the backward warning
 .
-➡",0.25
+➡",0.25,0.33379498
 Got it? Take a careful look at this.,"(ｼｶﾏﾙ)
 いいか？
  
@@ -999,7 +999,7 @@ Got it? Take a careful look at this.,"(ｼｶﾏﾙ)
 ","Is it okay?
  
 Please look well
-.",0.2857142857142857
+.",0.2857142857142857,0.24151252
 "Kiba watches the front,","キバは前方
 俺は
  
@@ -1008,7 +1008,7 @@ Please look well
 ","Kiba is forward
 I am
  
-Further extensive front ➡",0.16666666666666666
+Further extensive front ➡",0.16666666666666666,0.65129626
 "Naruto watches left, Choji right,
 and Neji...","ナルトが左
  
@@ -1016,7 +1016,7 @@ and Neji...","ナルトが左
 
 ","Naruto left
  
-Chozji is right ➡",0.25
+Chozji is right ➡",0.25,0.8048895
 "Using your Byakugan,
 you cover the entire area to the rear.","で
  
@@ -1032,7 +1032,7 @@ screw…
  
 You are using a white eye
 Ask all the back
-.",0.19047619047619047
+.",0.19047619047619047,0.1763488
 "I want to familiarize myself
 with our current military potential.","それと
  
@@ -1044,7 +1044,7 @@ with our current military potential.","それと
  
 What is the current strength
 I want to be familiar
-.",0.3333333333333333
+.",0.3333333333333333,0.36285138
 "Let me check all the Ninja equipment
 each of you currently has...","各自
  
@@ -1060,29 +1060,29 @@ A tablet that has
 now
  
 Please check all
-.",0.14285714285714285
+.",0.14285714285714285,0.22638
 Any questions?,"何か質問あるか？
 
-",Do you have any questions?,0.5
+",Do you have any questions?,0.5,0.7437123
 "<i>he's already created</i>
 <i>the best possible formation...</i>","最高のフォーメーションを
 こんなに早く…》
 
 ","Best formation
-Such fast ... """,0.1875
+Such fast ... """,0.1875,0.596232
 "If not, I want to tell you
 the most important thing last.","いちばん大切なことを言っとく
 ｡
 
 ","I say the most important thing
-.",0.4
+.",0.4,0.5088678
 "In fact, I don't particularly like him.","即行で覚える
 ｡
 ➡
 
 ","Remember in immediate
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.037296906
 "However, he is also a Shinobi belonging
 to the Village Hidden in the Leaves.","けど
  
@@ -1098,14 +1098,14 @@ Sasuke is the same
 It is a Shinobu of Kuno Leaves Hidden
  
 I'm a friend
-.",0.24
+.",0.24,0.6535512
 He is a comrade!,"これが木ノ葉流だ
 ｡
 ➡
 
 ","This is a tree
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.18760763
 "That's the way
 of the Leaf Village.","だから
  
@@ -1115,7 +1115,7 @@ of the Leaf Village.","だから
 ","that's why
  
 Help with life
-.",0.25
+.",0.25,0.2483958
 "Because I am responsible
 for your lives.","お前らの命
  
@@ -1125,7 +1125,7 @@ for your lives.","お前らの命
 ","Your life
  
 Because I'm deposited
-.",0.36363636363636365
+.",0.3636363636363637,0.2790953
 "Wow... You're acting kind of
 like a Chunin, aren't you?!","ヘッ
  
@@ -1137,7 +1137,7 @@ like a Chunin, aren't you?!","ヘッ
  
 Slightly
 You're getting nervous
-.",0.1
+.",0.1,0.21849354
 "<i>Sasuke wouldn't fall victim</i>
 <i>to that kind of guy's enticement...</i>","＜サスケは
  
@@ -1147,16 +1147,16 @@ You're getting nervous
 ","<Sasuke
  
 Such guy
-Somewhat on the invitation",0.13636363636363635
+Somewhat on the invitation",0.13636363636363635,0.7738322
 "<i>He's already</i>
 <i>a really powerful guy,</i>","んなことしなくても
 すっげぇ強ぇヤツだってばよ！➡
 
 ","Even if not
-It's a good guy!➡",0.15789473684210525
+It's a good guy!➡",0.15789473684210525,0.33795834
 "<i>Damn... Why, Sasuke...?!</i>","俺が保証する！＞
 
-",I guarantee!>,0.25
+",I guarantee!>,0.25,0.20083173
 All right! Let's go!,"(
 ネジ
 )
@@ -1172,10 +1172,10 @@ All right! Let's go!,"(
 Check the ninja
 let's go
 .
-➡",0.25
+➡",0.25,0.30556664
 Sakura!,"サクラちゃん！
 
-",Sakura-chan!,0.3333333333333333
+",Sakura-chan!,0.3333333333333333,0.8826181
 "I heard the whole story
 from Lady Hokage.","(ｼｶﾏﾙ)
 話は火影様から聞いてる
@@ -1184,7 +1184,7 @@ from Lady Hokage.","(ｼｶﾏﾙ)
 
 ","The story is heard from the fire shadow
 .
-➡",0.38461538461538464
+➡",0.38461538461538464,0.41001928
 "Even you weren't able
 to convince Sasuke, right?","お前でも
  
@@ -1194,7 +1194,7 @@ to convince Sasuke, right?","お前でも
 ","Even you
  
 Sasuke
-Didn't you persuade?",0.38461538461538464
+Didn't you persuade?",0.38461538461538464,0.8754126
 "All that can be done now is for us
 to use force to convince him...","あとは力ずくで
 俺らが説得するしかねえからな
@@ -1202,7 +1202,7 @@ to use force to convince him...","あとは力ずくで
 
 ","After that
 I can only persuade us
-.",0.15
+.",0.15,0.5816421
 "Sakura, your role in this has ended.","サクラ
  
 お前の出番は終わってる
@@ -1211,17 +1211,17 @@ I can only persuade us
 ","Cherry blossoms
  
 Your turn is over
-.",0.14285714285714285
+.",0.14285714285714285,0.3097407
 <i>Sakura...</i>,"(
 リー
 )
 《サクラさん…》
 
-","""Sakura ...""",0.25
+","""Sakura ...""",0.25,0.7684404
 "Please bring...
 please bring Sasuke back.","サスケ君を連れ戻して！
 
-",Back Sasuke!,0.2857142857142857
+",Back Sasuke!,0.2857142857142857,0.7448643
 "I couldn't do it!
 I wasn't able to stop Sasuke!","私じゃ
  
@@ -1231,7 +1231,7 @@ I wasn't able to stop Sasuke!","私じゃ
 ","Me
  
 Sasuke
-I could not stop it!",0.46153846153846156
+I could not stop it!",0.4615384615384616,0.8626137
 is you... Naruto...,"ナルト
  
 あんただけ…
@@ -1240,13 +1240,13 @@ is you... Naruto...,"ナルト
 ","Naruto
  
 Only you ...
-.",0.5
+.",0.5,0.9031507
 "how painful it must be
 for you right now, Sakura.","痛いほど分かるってばよ…
 ｡
 
 ","If you understand the pain, you can see ...
-.",0.15789473684210525
+.",0.15789473684210525,0.45295253
 "<i>Sakura, there's one thing</i>
 <i>I want to ask you.</i>","＜サクラ
  
@@ -1256,7 +1256,7 @@ for you right now, Sakura.","痛いほど分かるってばよ…
 ","<Sakura
  
 Over
-I want to listen to one thing>",0.5
+I want to listen to one thing>",0.5,0.77327484
 <i>How do you feel about...Naruto?</i>,"＜え？＞
 ＜ナルト…
  
@@ -1265,7 +1265,7 @@ I want to listen to one thing>",0.5
 ","<Eh?>
 <Naruto ...
  
-What do you think?>",0.4666666666666667
+What do you think?>",0.4666666666666667,0.8943512
 Naruto... thank you...,"ナルト…
  
 ありがとう
@@ -1274,13 +1274,13 @@ Naruto... thank you...,"ナルト…
 ","Naruto…
  
 Thank you
-.",0.3333333333333333
+.",0.3333333333333333,0.9252029
 <i>You always helped me...</i>,"いつも私を助けてくれた…》
 
-","I always helped me ... """,0.5
+","I always helped me ... """,0.5,0.7297093
 "Hey, hey, Naruto!","《ナルト！》
 
-","""Naruto!""",0.3333333333333333
+","""Naruto!""",0.3333333333333333,0.78034174
 "You really think you're gonna be okay
 saying that kind of thing?!","そんなこと言って
 ホントに大丈夫なのか？
@@ -1292,10 +1292,10 @@ saying that kind of thing?!","そんなこと言って
 Is it okay really?
  
 you
-.",0.23809523809523808
+.",0.2380952380952381,0.51748955
 That's my Way of the Ninja!,"それが俺の忍道だい！
 
-",That's my ninja!,0.625
+",That's my ninja!,0.625,0.86579305
 "We've lost a little time...
 Let's hurry!","少しばかり
 時間をロスしちまった
@@ -1303,14 +1303,14 @@ Let's hurry!","少しばかり
 
 ","Little
 I lost my time
-.",0.21428571428571427
+.",0.21428571428571427,0.4824522
 OK!,"急ぐぞ
 ｡
 おう！
 
 ","Hurry
 .
-King!",0.2
+King!",0.2,0.32975176
 "Naruto struck the pose of
 a nice guy as he said that...","ナルト君がナイスガイなポーズで
 言ったんです
@@ -1320,12 +1320,12 @@ a nice guy as he said that...","ナルト君がナイスガイなポーズで
 ","Naruto is a nice pose
 I said
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.8126948
 It'll all be all right now.,"もう大丈夫ですよ
 ｡
 
 ","It is all right
-.",0.5
+.",0.5,0.5008846
 "I'm positive...
 I'm positive that it will all go well!","きっと…
  
@@ -1339,13 +1339,13 @@ I'm positive that it will all go well!","きっと…
 surely
  
 I go well
-.",0.21428571428571427
+.",0.21428571428571427,0.40693775
 "We've already exited
 the Village Hidden in the Leaves.","もう木ノ葉の里は抜けました
 ｡
 
 ","The village of Kunano has already missed
-.",0.2857142857142857
+.",0.2857142857142857,0.53148013
 What is that?,"だから
  
 何の話か聞いてる
@@ -1354,13 +1354,13 @@ What is that?,"だから
 ","that's why
  
 I hear what to talk about
-.",0.16666666666666666
+.",0.16666666666666666,0.17922755
 "Orochimaru has given us
 one important task...","大切なことが１つあります
 ｡
 
 ","There is one important thing
-.",0.16666666666666666
+.",0.16666666666666666,0.43117267
 So... what is it?,"(
 左近
 )
@@ -1368,7 +1368,7 @@ So... what is it?,"(
 ｡
 
 ","Fuhufu ...
-.",0.125
+.",0.125,0.22547764
 "It will be necessary for you
 to die once...","あなたに一度
 死んでもらわなきゃなりません
@@ -1376,7 +1376,7 @@ to die once...","あなたに一度
 
 ","Once
 I will not be dead
-.",0.21428571428571427
+.",0.21428571428571427,0.6475955
 "<i>The remnants of a person</i>
 <i>broken by dreams</i>","(
 左近
@@ -1385,7 +1385,7 @@ I will not be dead
 大蛇丸様から仰せつかった➡
 
 ","actually
-I was told from the large snake",0.1111111111111111
+I was told from the large snake",0.1111111111111111,0.12349351
 "<i>Shake shake shake</i>
 <i>Let's look</i>","♬
  
@@ -1395,7 +1395,7 @@ I was told from the large snake",0.1111111111111111
 ","♬
  
 I'm crying
-People's Kakera",0.15384615384615385
+People's Kakera",0.15384615384615385,0.28063107
 "- And any signs of the enemy
 - Right!","♬
  
@@ -1403,7 +1403,7 @@ People's Kakera",0.15384615384615385
 
 ","♬
  
-In the rhythm of the buying",0.15384615384615385
+In the rhythm of the buying",0.15384615384615385,0.17759418
 "I'll thrash him with
 my new technique!","♬
  
@@ -1413,7 +1413,7 @@ my new technique!","♬
 ","♬
  
 With dunran dance
-Rendezvous",0.07692307692307693
+Rendezvous",0.07692307692307693,0.16276462
 "I'm a fool to
 even attempt to explain.","♬
  
@@ -1427,7 +1427,7 @@ even attempt to explain.","♬
 Shake
  
 Shake
-I'm not looking for",0.14285714285714285
+I'm not looking for",0.14285714285714285,0.06169135
 "Next time:
 ""Sound vs. Leaf""","♬
  
@@ -1435,4 +1435,4 @@ I'm not looking for",0.14285714285714285
 
 ","♬
  
-It looks like Yama ...",0.0
+It looks like Yama ...",0.0,0.046435155

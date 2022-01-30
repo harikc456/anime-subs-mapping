@@ -1,335 +1,335 @@
-en_text,jp_text,google_translated,score
-Wait!,待てえ～！,Wait!,1.0
-Damn it!,くそぉ！ 逃がすかぁ！,く!I miss it!,0.3333333333333333
-Did you find them?,はあ… いたか？,Has ...?,0.14285714285714285
-No.,はあ… いない…,No ... is not ...,0.2
-Where are they hiding?,くそぉ どこに隠れた…？,Where is it hidden ...?,0.2222222222222222
+en_text,jp_text,google_translated,score,semantic_score
+Wait!,待てえ～！,Wait!,1.0,1.0000001
+Damn it!,くそぉ！ 逃がすかぁ！,く!I miss it!,0.3333333333333333,0.3571696
+Did you find them?,はあ… いたか？,Has ...?,0.14285714285714285,0.18284702
+No.,はあ… いない…,No ... is not ...,0.2,0.2915501
+Where are they hiding?,くそぉ どこに隠れた…？,Where is it hidden ...?,0.2222222222222222,0.73190606
 The girl who asked if one should watch fireworks from above or below...,"打ち上げ花火を下から見るか
 上から見るかと言っていた少女は今","View launch fireworks from below
-The girl who said she said from above is now",0.35
+The girl who said she said from above is now",0.35,0.7871513
 ...ended up watching the fireworks from a helicopter.,"ヘリコプターの上から
 花火を見ていました","From the top of the helicopter
-I was watching fireworks",0.35714285714285715
-Death NEET,ああ…,Ah…,0.0
-Okay...,じい～っ…,Just ...,0.3333333333333333
-Testing begins tomorrow.,さて 明日からテストですが,"By the way, it is a test from tomorrow",0.07692307692307693
-That would be dandy,気になります,Be worried,0.2
-I do mind.,気にしないで下さい,Do not mind,0.4
-I don't get it.,あまり慣れたくないですねぇ…,I do not want to get used to it very much ...,0.3076923076923077
-That's for today...,それはどうも,That's why,0.3333333333333333
-Sensei.,先生！,teacher!,0.0
-"Yes, Kitsu-san?",ん？,Yeah?,0.2
-...and please continue.,遊んでないで 続けて下さい,Please continue without playing,0.2857142857142857
-You just have to ignore them.,好きで遊んでいるわけではありません,I do not have to play and play,0.16666666666666666
-I would do that if I could.,それで事が済むならそうしています,That's why if it is done,0.16666666666666666
-Then once again...,では改めて… 皆さん 明日からテストです,Then again ... everyone will be tested from tomorrow,0.3
-...everyone...,ええっ…,Yes ...,0.3333333333333333
+I was watching fireworks",0.35714285714285715,0.79515153
+Death NEET,ああ…,Ah…,0.0,0.20146587
+Okay...,じい～っ…,Just ...,0.3333333333333333,0.48021713
+Testing begins tomorrow.,さて 明日からテストですが,"By the way, it is a test from tomorrow",0.07692307692307693,0.68901587
+That would be dandy,気になります,Be worried,0.2,0.11823962
+I do mind.,気にしないで下さい,Do not mind,0.4,0.65439403
+I don't get it.,あまり慣れたくないですねぇ…,I do not want to get used to it very much ...,0.3076923076923077,0.04205892
+That's for today...,それはどうも,That's why,0.3333333333333333,0.29517925
+Sensei.,先生！,teacher!,0.0,0.18317834
+"Yes, Kitsu-san?",ん？,Yeah?,0.2,0.19243966
+...and please continue.,遊んでないで 続けて下さい,Please continue without playing,0.2857142857142857,0.48523614
+You just have to ignore them.,好きで遊んでいるわけではありません,I do not have to play and play,0.16666666666666666,0.1834058
+I would do that if I could.,それで事が済むならそうしています,That's why if it is done,0.16666666666666666,0.3679524
+Then once again...,では改めて… 皆さん 明日からテストです,Then again ... everyone will be tested from tomorrow,0.3,0.29802838
+...everyone...,ええっ…,Yes ...,0.3333333333333333,0.30316323
 But there's no reason to worry.,"でも安心して下さい
 皆さんには 何も期待していません","But please rest assured
-Nothing is expecting to everyone",0.13333333333333333
-The overseas class is returning!,海外組が帰ってくるのです！,Overseas pairs come back!,0.2222222222222222
-Overseas class?,海外組？,Overseas group?,0.5
-What's that?,その心は？,What is that heart?,0.5
-"A class that's overseas, Nami-chan.",海外の組の事だよ 奈美ちゃん,It is a group of overseas sets Nami-chan,0.23076923076923078
-"Yeah, I could have guessed that much.",いや それは私にも分かる…,"No, I understand for me ...",0.14285714285714285
-Mail.  Mail.,メールメール,Mail mail,0.5
-That's right.,そうよ サッカーじゃあるまいし,Yes it's a football,0.125
-Please quiet down.,はーい 静かに！ 静かにして下さい！,Hey quiet!please be quiet!,0.2857142857142857
+Nothing is expecting to everyone",0.13333333333333333,0.37212938
+The overseas class is returning!,海外組が帰ってくるのです！,Overseas pairs come back!,0.2222222222222222,0.60901034
+Overseas class?,海外組？,Overseas group?,0.5,0.562717
+What's that?,その心は？,What is that heart?,0.5,0.273731
+"A class that's overseas, Nami-chan.",海外の組の事だよ 奈美ちゃん,It is a group of overseas sets Nami-chan,0.2307692307692308,0.6900838
+"Yeah, I could have guessed that much.",いや それは私にも分かる…,"No, I understand for me ...",0.14285714285714285,0.10647715
+Mail.  Mail.,メールメール,Mail mail,0.5,0.8195934
+That's right.,そうよ サッカーじゃあるまいし,Yes it's a football,0.125,0.19900674
+Please quiet down.,はーい 静かに！ 静かにして下さい！,Hey quiet!please be quiet!,0.2857142857142857,0.6513981
 If you don't shut up...,"黙らないと 口に握り拳を
 差し込みますよ～？","If you don't shut up, you will hold a fist
-I will insert it?",0.375
-...I'll introduce your mouth to my fist.,聞いた事ないよねえ…,I have not heard ...,0.15384615384615385
-"It just so happens, that our school...",それを海外組と呼んでいるそうです,It seems that it is called an overseas group,0.13333333333333333
+I will insert it?",0.375,0.5378232
+...I'll introduce your mouth to my fist.,聞いた事ないよねえ…,I have not heard ...,0.15384615384615385,0.15133421
+"It just so happens, that our school...",それを海外組と呼んでいるそうです,It seems that it is called an overseas group,0.13333333333333333,0.091522194
 ...has classes in other countries...,"実は うちの学校は 日本以外の
 国々にもクラスがあって","In fact, my school is other than Japan
-Classes are also classes",0.2
-Year 2 Overseas Class,海外のクラスって要するに,In short overseas class,0.3333333333333333
+Classes are also classes",0.2,0.70159245
+Year 2 Overseas Class,海外のクラスって要するに,In short overseas class,0.3333333333333333,0.76345444
 "...or the Morocco division of Shocker, something like that?","ジョッカー・モロッコ支部とか
 そういう感じですか？","Joker Morocco Branch
-Is it that kind of feeling?",0.2222222222222222
-"...well, I didn't want to say this...",そして… まあ… 言いにくい事ですが,And ... Well ... It is difficult to say,0.2857142857142857
+Is it that kind of feeling?",0.2222222222222222,0.43783897
+"...well, I didn't want to say this...",そして… まあ… 言いにくい事ですが,And ... Well ... It is difficult to say,0.2857142857142857,0.44461533
 ...than those of you in Japan.,"日本の君達に比べて
 レベルは格段に上だとか","Compared to you in Japan
-Level is much above",0.21428571428571427
+Level is much above",0.21428571428571427,0.71034336
 And a member of the overseas class...,"その海外組から１人 うちのクラスに
 編入が決まりました","One of the classes in the class
-Transfer has been decided",0.2
+Transfer has been decided",0.2,0.4061911
 ...even if you all score miserably on the test...,"つまり 皆さんがテストでそこそこの
 点数しか取れなかったとしても！","In other words, everyone is tested
-Even if only the score was taken!",0.19047619047619047
+Even if only the score was taken!",0.19047619047619047,0.69659245
 ...that person will simply raise the class average!,"その人が さりげなくクラスの
 点数を上げてくれるのです！","The person is casually class
-It will raise the score!",0.42857142857142855
-Also...,ほお～…,Lo ~ ...,0.25
+It will raise the score!",0.42857142857142855,0.70643413
+Also...,ほお～…,Lo ~ ...,0.25,0.492169
 ...I doubt one exceptional student...,"そう簡単に平均が
 上がるとは思えないけど…","That's right
-I do not think it would go up ...",0.125
-Ooh-Ooh-,うう…,UU…,0.0
-He turned pale.,青ざめた,Pale,0.25
+I do not think it would go up ...",0.125,0.05773704
+Ooh-Ooh-,うう…,UU…,0.0,0.24513341
+He turned pale.,青ざめた,Pale,0.25,0.6519341
 "Like I said, drop \Nthe drill already...","おっ あおっ おっ うっ う？
 あっ うっ うっ ふ…","Oh, let's go?
-I'm sorry ...",0.1875
-Counseling Office,えっ…,eh…,0.0
-Sorry about that.,さて… すいませんね,Well ... I'm sorry,0.125
-It's an eyesore.,いえ 気になるんで,I can't feel it,0.1111111111111111
-When is the overseas student going to be here?,先生 海外組の人はいつ来るんですかぁ？,Teacher When is the person in the overseas group coming?,0.3333333333333333
-"Ah, they'll be here soon.",ああ もうすぐ来ます,Oh I will come soon,0.08333333333333333
-Pink Supervisor.,桃色係長！,Pink Chronicles!,0.2
-Yes?,はい,Yes,0.5
-A...returnee?,えっ… 帰国… 子女…？,Eh ... Returning ... Key ...?,0.2857142857142857
-A returnee?,帰国子女！,Returnee!,0.25
+I'm sorry ...",0.1875,0.13212632
+Counseling Office,えっ…,eh…,0.0,0.08049237
+Sorry about that.,さて… すいませんね,Well ... I'm sorry,0.125,0.28242192
+It's an eyesore.,いえ 気になるんで,I can't feel it,0.1111111111111111,0.21042694
+When is the overseas student going to be here?,先生 海外組の人はいつ来るんですかぁ？,Teacher When is the person in the overseas group coming?,0.3333333333333333,0.72112465
+"Ah, they'll be here soon.",ああ もうすぐ来ます,Oh I will come soon,0.08333333333333333,0.41000363
+Pink Supervisor.,桃色係長！,Pink Chronicles!,0.2,0.51138204
+Yes?,はい,Yes,0.5,0.7687326
+A...returnee?,えっ… 帰国… 子女…？,Eh ... Returning ... Key ...?,0.2857142857142857,0.47698158
+A returnee?,帰国子女！,Returnee!,0.25,0.68534106
 The kind that always have a decisive yes or no?,"あの イエスかノーが やたらに
 はっきりしている帰国子女ですか！","That Jesus or no
-Are you a good returning home?",0.29411764705882354
+Are you a good returning home?",0.29411764705882354,0.128167
 "The kind that go ""Sensei, your English pronunciation is off.""","“先生 英語の発音が違います”
 と言ったり","""The pronunciation of teacher English is different""
-Say",0.3333333333333333
-The overseas class has left me in despair!,絶望したあ！ 海外組に絶望したあ！,I was despaired!I was despaired in the overseas group!,0.3076923076923077
+Say",0.3333333333333333,0.41629633
+The overseas class has left me in despair!,絶望したあ！ 海外組に絶望したあ！,I was despaired!I was despaired in the overseas group!,0.3076923076923077,0.6712232
 I'll be told off in five or more languages!,"もうおしまいだ！
 五ヶ国語でなじられる！","it's the end!
-It is made in five languages!",0.23529411764705882
-The rope.,木津さん ロープを,Kizu-san rope,0.25
-I absolutely must die.,死なずにいられません！,I can not help you die!,0.2
-I just finished winding it up neatly!,ダメ！ せっかくきちんと巻いたのに！,No good!Even though I wore it a long time!,0.1875
-I have a rope...,ロープならあるよ 桃色係長！,"There is a rope, a pink support!",0.18181818181818182
-Kafuka-san!,可符香さん！,Yuka-san!,0.3333333333333333
+It is made in five languages!",0.2352941176470588,0.67934483
+The rope.,木津さん ロープを,Kizu-san rope,0.25,0.58280677
+I absolutely must die.,死なずにいられません！,I can not help you die!,0.2,0.4824731
+I just finished winding it up neatly!,ダメ！ せっかくきちんと巻いたのに！,No good!Even though I wore it a long time!,0.1875,0.275158
+I have a rope...,ロープならあるよ 桃色係長！,"There is a rope, a pink support!",0.18181818181818185,0.6209503
+Kafuka-san!,可符香さん！,Yuka-san!,0.3333333333333333,0.8260064
 I'll just have to wind it up again!,"渡しちゃダメ！ また
 巻かなくちゃいけないでしょー！","I'm sorry to pass!also
-I have to be winded!",0.25
-Seacat,うあっ…,...,0.0
-The returnee hath returned!,子女様が帰国なさった！,A child girl has returned home!,0.2
-Why old dialect?,なぜに敬語,Why honorific,0.2
-B-B-blond hair!,きっ きっ 金髪だあ～！,It's a blonde hair!,0.2857142857142857
-Nice to meet you.,はじめまして 木村カエレです,Nice to meet you Kimura Kaere,0.5714285714285714
-Are you the homeroom Sensei?,担任の先生ですかあ？,Are you a homeroom teacher?,0.5
-...something like that.,ええ まあ… そのようなものです,Yeah Well ... That's something like that,0.5
-Why do you avert your eyes when you speak?,なぜ 目を見て話さないのですか？,Why don't you talk about your eyes?,0.5
+I have to be winded!",0.25,0.50989896
+Seacat,うあっ…,...,0.0,0.1963051
+The returnee hath returned!,子女様が帰国なさった！,A child girl has returned home!,0.2,0.3685786
+Why old dialect?,なぜに敬語,Why honorific,0.2,0.15801278
+B-B-blond hair!,きっ きっ 金髪だあ～！,It's a blonde hair!,0.2857142857142857,0.643479
+Nice to meet you.,はじめまして 木村カエレです,Nice to meet you Kimura Kaere,0.5714285714285714,0.48309833
+Are you the homeroom Sensei?,担任の先生ですかあ？,Are you a homeroom teacher?,0.5,0.5989637
+...something like that.,ええ まあ… そのようなものです,Yeah Well ... That's something like that,0.5,0.61938477
+Why do you avert your eyes when you speak?,なぜ 目を見て話さないのですか？,Why don't you talk about your eyes?,0.5,0.67039204
 I won't fall for that trick.,"あっははは！
 その手には乗りませんよー！","Oh yes!
-I do not get on that hand!",0.125
+I do not get on that hand!",0.125,0.2651262
 "You intend to sue me for sexual harassment once I look at you, right?","見たらセクハラで
 訴えるつもりなんでしょう？","If you look at sexual harassment
-Are you going to appeal?",0.3684210526315789
+Are you going to appeal?",0.3684210526315789,0.69078493
 You'll say I was looking at you with perverted eyes...,"いやらしい目つきで見たとか言って
 何十億もの慰謝料を請求する気でしょう！","I told you that I saw it with my eyes
-You will be concerned about billions of compensation charges!",0.16
+You will be concerned about billions of compensation charges!",0.16,0.329567
 "In foreign countries, coffee that's too hot...","外国ではコーヒーが熱いというだけで
 賠償金３百万ドルですよ！","Just because coffee is hot in foreign countries
-It is $ 3 million for compensation!",0.25
-I will not be fooled!,騙されない… 私は騙されません！,Not deceived ... I will not be deceived!,0.625
-What are you talking about?,何 言ってるんですか？,What are you saying?,0.5714285714285714
+It is $ 3 million for compensation!",0.25,0.694431
+I will not be fooled!,騙されない… 私は騙されません！,Not deceived ... I will not be deceived!,0.625,0.63385636
+What are you talking about?,何 言ってるんですか？,What are you saying?,0.5714285714285714,0.6114279
 "and then turn my over to the station attendant, right?","ちょーっと肩が触れただけで 痴漢と
 叫んで駅員に突き出す気なんでしょう！","It's just a pervert with a little shoulder
-Screaming to get out of the station staff!",0.11538461538461539
-My hands are up here!,私の両手はここです！ ここですよ～！,My both hands are here!Here!,0.7142857142857143
-What's with this person?,なんなの？ あの人,What is it?that person,0.3333333333333333
-That's just how he is.,ああいう先生なんです,That's a teacher,0.2222222222222222
-Pink?,桃色？,Pink?,1.0
-Age...,どき…,Dogo ...,0.3333333333333333
-You haven't?,ないんですか？,Isn't there?,0.3333333333333333
+Screaming to get out of the station staff!",0.1153846153846154,0.44498947
+My hands are up here!,私の両手はここです！ ここですよ～！,My both hands are here!Here!,0.7142857142857143,0.83201236
+What's with this person?,なんなの？ あの人,What is it?that person,0.3333333333333333,0.5071208
+That's just how he is.,ああいう先生なんです,That's a teacher,0.2222222222222222,0.2079255
+Pink?,桃色？,Pink?,1.0,0.99999976
+Age...,どき…,Dogo ...,0.3333333333333333,0.3169912
+You haven't?,ないんですか？,Isn't there?,0.3333333333333333,0.30724835
 Y-You're wrong!,"私は個人的に
 鎖国しているだけなんです！","I personally
-I'm just holding it up!",0.09090909090909091
-Not just isolation from foreign countries.,外国に対してばかりではありません,Not only foreign countries,0.375
+I'm just holding it up!",0.09090909090909093,0.23988868
+Not just isolation from foreign countries.,外国に対してばかりではありません,Not only foreign countries,0.375,0.5817459
 This is the only place where I'm willing to deal with you people.,"私はここでしか
 皆さんとは関わりません！","I only here
-I will not interact with you!",0.2
-Please do not approach me...,外で見かけても 声を掛けないで下さい,Please do not speak outside with you,0.3
-...if you see me outside the classroom.,言わば この教室は 出島なのです！,If you say this classroom is island!,0.21428571428571427
-Understood?,あ？,Ah?,0.3333333333333333
-It was Dejima!,出島だったんですね！,It was Oshima!,0.6
-The teachers in this country are strange!,先生は この国でもおかしいんです,The teacher is also funny in this country,0.3333333333333333
+I will not interact with you!",0.2,0.40645903
+Please do not approach me...,外で見かけても 声を掛けないで下さい,Please do not speak outside with you,0.3,0.43544835
+...if you see me outside the classroom.,言わば この教室は 出島なのです！,If you say this classroom is island!,0.21428571428571427,0.43610767
+Understood?,あ？,Ah?,0.3333333333333333,0.4555927
+It was Dejima!,出島だったんですね！,It was Oshima!,0.6,0.6751233
+The teachers in this country are strange!,先生は この国でもおかしいんです,The teacher is also funny in this country,0.3333333333333333,0.70938945
 This country is full of strange things!,"帰って来て思ったけど 先生だけじゃなく
 この国は変な事だらけよ！","I thought I came back but not only the teacher
-This country is full of strange things!",0.47058823529411764
-People are scared of sleeping with their pillow facing north.,北に枕を置くのを怖がったり,Scared to put pillows in the north,0.125
-They take off their shoes when they get in a car.,車に乗る時 靴を脱いだり,Take off your shoes when riding a car,0.46153846153846156
-They're thankful for married women.,人妻をありがたがったり,Thank you for the married woman,0.18181818181818182
-Japanese people also find those things strange.,それは日本人も変だと思ってるから,Because I think that Japanese is strange,0.15384615384615385
-That's what a sailor would wear!,それは 水兵さんが着るものよ！,That's what Ms. Miles wear!,0.5
-This uniform has it's merits.,だいたい 女子の制服からしておかしい！,It is funny from the girl's uniform!,0.23076923076923078
-I can't believe this!,信じられない！,can not believe it!,0.2222222222222222
-Something the matter?,何か？,something?,0.5
-This week's goal-\NLive Action,いやあ これはこれで いいものですよ,"No, this is fine with this",0.1
-In the country I just came from...,私のいた国では,In my country,0.2222222222222222
+This country is full of strange things!",0.4705882352941176,0.5107608
+People are scared of sleeping with their pillow facing north.,北に枕を置くのを怖がったり,Scared to put pillows in the north,0.125,0.78625137
+They take off their shoes when they get in a car.,車に乗る時 靴を脱いだり,Take off your shoes when riding a car,0.4615384615384616,0.76987004
+They're thankful for married women.,人妻をありがたがったり,Thank you for the married woman,0.18181818181818185,0.5730797
+Japanese people also find those things strange.,それは日本人も変だと思ってるから,Because I think that Japanese is strange,0.15384615384615385,0.7596174
+That's what a sailor would wear!,それは 水兵さんが着るものよ！,That's what Ms. Miles wear!,0.5,0.5266832
+This uniform has it's merits.,だいたい 女子の制服からしておかしい！,It is funny from the girl's uniform!,0.2307692307692308,0.44924253
+I can't believe this!,信じられない！,can not believe it!,0.2222222222222222,0.855857
+Something the matter?,何か？,something?,0.5,0.56585485
+This week's goal-\NLive Action,いやあ これはこれで いいものですよ,"No, this is fine with this",0.1,0.098450765
+In the country I just came from...,私のいた国では,In my country,0.2222222222222222,0.50119054
 ...7-3 split bangs are only worn by dead people about to enter their coffin!,"七三分けは 男の人が死んで
 棺に入れられる時にする髪型！","Seven three minutes are dead
-Hairstyle to get in the coffin!",0.21739130434782608
-Are you a corpse?,あなたは死体ですか！,Are you a corpse!,0.6666666666666666
-Really?,ほんとに…？,really…?,0.3333333333333333
-How vulgar!,ええっ！,Yeah!,0.25
+Hairstyle to get in the coffin!",0.21739130434782608,0.6538335
+Are you a corpse?,あなたは死体ですか！,Are you a corpse!,0.6666666666666666,0.8869913
+Really?,ほんとに…？,really…?,0.3333333333333333,0.8111862
+How vulgar!,ええっ！,Yeah!,0.25,0.24613796
 In my country...,"まあ…！ 私の国では
 苺模様の物を持っている男子は","Oh dear…!In my country
-Men who have something",0.2727272727272727
-Why...,がーん…,...,0.5
+Men who have something",0.2727272727272727,0.41473478
+Why...,がーん…,...,0.5,0.6251551
 ...is basically telling the whole world that he's a virgin!,"童貞をカーミングアーウト
 している証拠でーす！","Caming Arout
-It is the evidence that is doing!",0.2222222222222222
-It's despicable!, そうよ そうよ！,That's right!,0.3333333333333333
-"Wait a minute, you!",ちょっとあなた！,A little bit!,0.25
-Cut it out.,いい加減にしてよ…,Make it good ...,0.14285714285714285
-I love this country.,私はこの国が好き,I like this country,0.5
-Me too!,えっ…！,eh…!,0.25
+It is the evidence that is doing!",0.2222222222222222,0.16920927
+It's despicable!, そうよ そうよ！,That's right!,0.3333333333333333,0.25740418
+"Wait a minute, you!",ちょっとあなた！,A little bit!,0.25,0.2793667
+Cut it out.,いい加減にしてよ…,Make it good ...,0.14285714285714285,0.31256106
+I love this country.,私はこの国が好き,I like this country,0.5,0.8615311
+Me too!,えっ…！,eh…!,0.25,0.3235263
 "If you don't like it here, why don't you go back?","あなたそんなに嫌なら
 自分の国へ帰れば？","You are so bad
-Should I go home?",0.16666666666666666
-This is Japan!,ここは日本だぞ！,This is Japan!,1.0
-"Go home, Kimura!",帰れよ 木村あ！,Kimura Ah!,0.3333333333333333
-N-No...,ダ ダメ… ダメ…,Daddy ... No Money ...,0.2
-It?,奴？,guy?,0.3333333333333333
-I am Kimura Kaede.,わたくし 木村楓でございます,I am Wakura Kimura,0.5
-Let us please get along peacefully.,和をもって良しとしましょう,Let's make it good with sum,0.07692307692307693
-How could I wear such a short skirt?,私ったら こんなに短いスカートで…,I'm so short skirt ...,0.25
-Embarrassing.,恥ずかしい 恥ずかしい…,Shameful embarrassing ...,0.25
-What exactly is this?,なんなんだ？ これは…,what's with that?this is…,0.3333333333333333
+Should I go home?",0.16666666666666666,0.34580186
+This is Japan!,ここは日本だぞ！,This is Japan!,1.0,1.0000002
+"Go home, Kimura!",帰れよ 木村あ！,Kimura Ah!,0.3333333333333333,0.7294528
+N-No...,ダ ダメ… ダメ…,Daddy ... No Money ...,0.2,0.24740164
+It?,奴？,guy?,0.3333333333333333,0.39132062
+I am Kimura Kaede.,わたくし 木村楓でございます,I am Wakura Kimura,0.5,0.72738475
+Let us please get along peacefully.,和をもって良しとしましょう,Let's make it good with sum,0.07692307692307693,0.26122478
+How could I wear such a short skirt?,私ったら こんなに短いスカートで…,I'm so short skirt ...,0.25,0.7658129
+Embarrassing.,恥ずかしい 恥ずかしい…,Shameful embarrassing ...,0.25,0.71645147
+What exactly is this?,なんなんだ？ これは…,what's with that?this is…,0.3333333333333333,0.2903891
 ...two egos representing Japan and foreign countries...,"木村さんは 日本と外国
 異なる２つの習慣に戸惑い","Mr. Kimura and foreign countries
-Puzzled by two different customs",0.2857142857142857
+Puzzled by two different customs",0.2857142857142857,0.4743049
 ...in response to the dilemma of appropriate behavior in each of the countries.,"どちらかに合わせると どちらかに摩擦が
 生じるというジレンマに苦しんだ結果…","If you want to match either friction
-Results that suffered from the dilemma that produced ...",0.17391304347826086
-Multiple personalities?!,多重人格ぅ？,Multiple people?,0.4
-Currently her personality is the Japanese one...,今出ている人格は 日本人の木村楓,The personality that is present now is Japanese Kimura,0.3333333333333333
-"Then, when she was in the classroom...",では 教室での彼女は…,So she in the classroom ...,0.5
-"...she was the foreigner, Kimura Kaere.",外国人の木村カエレ,Foreigner Kimura Kaere,0.3333333333333333
-That's how it is.,へえ～ という事はこれって,That's why,0.2857142857142857
-Which means this is...,がはっ…！,...!,0.16666666666666666
-You're wrong.,違います！,wrong!,0.2
-She isn't listening to you.,思えば私も 小２の時,If you think is small 2,0.18181818181818182
+Results that suffered from the dilemma that produced ...",0.17391304347826084,0.23591988
+Multiple personalities?!,多重人格ぅ？,Multiple people?,0.4,0.6318209
+Currently her personality is the Japanese one...,今出ている人格は 日本人の木村楓,The personality that is present now is Japanese Kimura,0.3333333333333333,0.71964717
+"Then, when she was in the classroom...",では 教室での彼女は…,So she in the classroom ...,0.5,0.7972258
+"...she was the foreigner, Kimura Kaere.",外国人の木村カエレ,Foreigner Kimura Kaere,0.3333333333333333,0.81919795
+That's how it is.,へえ～ という事はこれって,That's why,0.2857142857142857,0.5183384
+Which means this is...,がはっ…！,...!,0.16666666666666666,0.27400067
+You're wrong.,違います！,wrong!,0.2,0.5067425
+She isn't listening to you.,思えば私も 小２の時,If you think is small 2,0.18181818181818185,0.059603114
 "...I transferred to Nagoya, and was confused about the difference in customs between Tokyo and Nagoya.","東京と名古屋の異なる
 ２つの生活習慣に戸惑って","Tokyo and Nagoya are different
-I am puzzled by two lifestyles",0.16666666666666666
+I am puzzled by two lifestyles",0.16666666666666666,0.73093957
 "So I created Hiroko, who put sweet miso on everything...","なんにでも甘い味噌をかけて
 食べる“ひろこ”と","Anyway, wear sweet miso
-With ""Hiroko""",0.23529411764705882
+With ""Hiroko""",0.2352941176470588,0.6974806
 "...and Yoshie, who put soy sauce on everything.","なんにでも醤油をかけて
 食べる“よしえ”という","Anyway soy sauce
-Let's eat ""Yoshie""",0.17647058823529413
+Let's eat ""Yoshie""",0.17647058823529413,0.7738024
 "Furthermore, Hiroko and Yoshie make two more besides your own.","しかも“ひろこ”と“よしえ”って
 自分とは別に２つ作ってるし","Moreover, ""Hiroko"" and ""Yoshie""
-I make two separate from myself",0.3157894736842105
-What a wonderful man.,なんて素敵な殿方かしら…,What a wonderful girl ...,0.42857142857142855
-Chom chom....,じぃーっ…,...,0.3333333333333333
-When did she...?,いつの間に…？,What time ...?,0.2857142857142857
+I make two separate from myself",0.3157894736842105,0.78725123
+What a wonderful man.,なんて素敵な殿方かしら…,What a wonderful girl ...,0.42857142857142855,0.66810894
+Chom chom....,じぃーっ…,...,0.3333333333333333,0.18344575
+When did she...?,いつの間に…？,What time ...?,0.2857142857142857,0.32552963
 I can't beat that woman by silently watching.,"つつましく見守っていては
 あの女に勝てない…","Sitively watching
-I can't beat that woman ...",0.5833333333333334
-"One, two, three, four.",いち にぃ さん し,Ichibune,0.0
-This love will never work.,ダメ… この恋は叶わない…,Noh ... This love does not come true ...,0.16666666666666666
-Dear beloved...,ああ… 愛しき人,Oh ... love,0.2
-My heart feels as though it is about to burst.,楓は胸が張り裂けそうです,The chest is likely to tear,0.13333333333333333
-I may as well...,うっ うっ うっ…,I'm sorry ...,0.2857142857142857
-Stop it.,やめなさい！,stop it!,0.5
+I can't beat that woman ...",0.5833333333333334,0.8467168
+"One, two, three, four.",いち にぃ さん し,Ichibune,0.0,0.16997208
+This love will never work.,ダメ… この恋は叶わない…,Noh ... This love does not come true ...,0.16666666666666666,0.5271927
+Dear beloved...,ああ… 愛しき人,Oh ... love,0.2,0.49787349
+My heart feels as though it is about to burst.,楓は胸が張り裂けそうです,The chest is likely to tear,0.13333333333333333,0.43030584
+I may as well...,うっ うっ うっ…,I'm sorry ...,0.2857142857142857,0.31250387
+Stop it.,やめなさい！,stop it!,0.5,0.8767376
 This location is an important candidate for a lover's suicide!,"ここは私の大切な
 心中予定地の１つです！","This is my important
-It is one of the planned areas!",0.21052631578947367
-I won't let you have it!,あなたには譲らなーいっ！,You have to give you!,0.3
-Kimura-san!,木村さん！,Mr.Kimura!,0.3333333333333333
+It is one of the planned areas!",0.21052631578947367,0.3525573
+I won't let you have it!,あなたには譲らなーいっ！,You have to give you!,0.3,0.49885347
+Kimura-san!,木村さん！,Mr.Kimura!,0.3333333333333333,0.706777
 This is totally sexual harassment.,"これは完全なるセクハラです
 あなたを告訴します！","This is a perfect sexual harassment
-I will sue you!",0.3076923076923077
-"As I thought, you're going to sue me!",告訴します！,I will sue!,0.25
-Noooo!,嫌だあ～っ！,I hate it!,0.2
-I don't want to end up in a courtroom sketch!,法廷画になるのは嫌だあ！,I hate to be a court picture!,0.25
-Huh?,告訴？,Affice?,0.3333333333333333
-What happened to Pink Supervisor?,何かあったんですか？,What happened?,0.5
-Because I paid 150 yen.,だってちゃんと105円払ってるもん,Even if it is paid 105 yen,0.18181818181818182
-That's not the issue here.,そういう問題でなく…,That's not the problem ...,0.4444444444444444
-Courtroom sketches...,法廷画…？,Court picture ...?,0.16666666666666666
-Band-aid shot,ふん！ 自業自得よ,Hmm!My self-employed,0.0
-What is Kaere-chan angry about?,カエレちゃん 何怒ってるの？,Caere-chan What is angry?,0.5714285714285714
-Who knows.,さあ～,Nao ~,0.0
-"Okay, I'll be taking attendance now.",はい では出席を取りまーす,"Yes, take attending",0.08333333333333333
-I'm sure you'll look wonderful in a courtroom sketch.,それが… 嫌なんです,That's ... I'm disgusting,0.125
-Tsunetsuki-san.,常月さん,Mr. Clam,0.0
-Tsunetsuki Matoi-san is absent?,常月まといさんは 欠席？,Is it absent?,0.5
-Then moving on...,ふう… じゃあ次,Fu ... Well then next,0.2857142857142857
-Sekiutsu-kun.,関内君,Mr. Kannai,0.0
-Yes.,はい！,Yes!,0.3333333333333333
-"You're a girl, right?",女の子よねぇ？,"A girl, right?",0.7142857142857143
-Who's she?,誰？,Who?,0.5
-I've never seen you before.,え？ 関内君でしょ？ ねえ？,picture?Mr. Kannai?Hey you?,0.16666666666666666
+I will sue you!",0.3076923076923077,0.7439416
+"As I thought, you're going to sue me!",告訴します！,I will sue!,0.25,0.80173403
+Noooo!,嫌だあ～っ！,I hate it!,0.2,0.31832105
+I don't want to end up in a courtroom sketch!,法廷画になるのは嫌だあ！,I hate to be a court picture!,0.25,0.54316217
+Huh?,告訴？,Affice?,0.3333333333333333,0.2475927
+What happened to Pink Supervisor?,何かあったんですか？,What happened?,0.5,0.38592243
+Because I paid 150 yen.,だってちゃんと105円払ってるもん,Even if it is paid 105 yen,0.18181818181818185,0.6696325
+That's not the issue here.,そういう問題でなく…,That's not the problem ...,0.4444444444444444,0.6023705
+Courtroom sketches...,法廷画…？,Court picture ...?,0.16666666666666666,0.49681127
+Band-aid shot,ふん！ 自業自得よ,Hmm!My self-employed,0.0,0.08193778
+What is Kaere-chan angry about?,カエレちゃん 何怒ってるの？,Caere-chan What is angry?,0.5714285714285714,0.8111432
+Who knows.,さあ～,Nao ~,0.0,0.17276745
+"Okay, I'll be taking attendance now.",はい では出席を取りまーす,"Yes, take attending",0.08333333333333333,0.70885086
+I'm sure you'll look wonderful in a courtroom sketch.,それが… 嫌なんです,That's ... I'm disgusting,0.125,0.1155303
+Tsunetsuki-san.,常月さん,Mr. Clam,0.0,0.04912562
+Tsunetsuki Matoi-san is absent?,常月まといさんは 欠席？,Is it absent?,0.5,0.46817303
+Then moving on...,ふう… じゃあ次,Fu ... Well then next,0.2857142857142857,0.3247381
+Sekiutsu-kun.,関内君,Mr. Kannai,0.0,0.3442693
+Yes.,はい！,Yes!,0.3333333333333333,0.73999083
+"You're a girl, right?",女の子よねぇ？,"A girl, right?",0.7142857142857143,0.8114869
+Who's she?,誰？,Who?,0.5,0.59923196
+I've never seen you before.,え？ 関内君でしょ？ ねえ？,picture?Mr. Kannai?Hey you?,0.16666666666666666,0.24711996
 "That's fine, isn't it?","いいんじゃないですか？
 うちのクラスそんな人ばっかりですよ","L think it is good?
-My class is just like that",0.26666666666666666
-You suppose that's true...?,それもそうねって…,That's also so ...,0.3333333333333333
-How far have you gotten?,どこまで進んでるの？,How far are you going?,0.5
+My class is just like that",0.26666666666666666,0.18967856
+You suppose that's true...?,それもそうねって…,That's also so ...,0.3333333333333333,0.2479916
+How far have you gotten?,どこまで進んでるの？,How far are you going?,0.5,0.67416155
 A student I've never seen before is in our class...,"見た事もない生徒が
 クラスにいるなんて…","Students who have never seen
-I'm in a class ...",0.4375
-...really  irritates me!,ふにっ！,Fu!,0.16666666666666666
-I'll uncover your identity.,正体をつきとめてやるわ,I will do my best,0.1
-What?,何？,what?,1.0
-Are you going to her house?,あの子んちに行くの？,Are you going to that child?,0.5555555555555556
-Welcome back!,お帰り！,welcome home!,0.5
-These people...,あそこか…,Over that ...,0.2
-...are illegal immigrants!?,こっ この人達… 不法入国者？,This person ... 不 者?,0.2
-"Then so are you, right?",じゃあ あなたもそうなのね！,Well then you are so!,0.4444444444444444
-These people are returnees from Asia.,この人達は アジアからの帰国子女だよ,This person is a returning home from Asia,0.15384615384615385
-Returnees!?,うん！,Yes!,0.25
-I'm Honda.,ワタシ ホンダ,Watasashi Honda,0.2
-I'm Matsushita.,ワ ワタシハ マツシタ,Watashiha Matsushita,0.2
-I'm Mitsubishi.,ワタシ ミツビシ,Watasushi Mitsubishi,0.2
-Don't lie to me.,嘘つけ 嘘！,Your lie!,0.125
-I also have a Japanese name.,私も日本人の名前 関内太郎,I am also Japanese names,0.3333333333333333
-I even have a middle name.,あ ミドルネームもあるよー,There is also a middle name,0.3
-Maria?,マリアぁ？,Maria?,1.0
-Maria-chan.,マリアちゃん！,Maria-chan!,0.3333333333333333
-I'm getting irritated again.,ああ… またイライラしてきたー,Oh ... I'm frustrated again,0.3333333333333333
-But wait.,あれ… んでも待って…,Well ... Wait for ...,0.16666666666666666
-Why is your name on the roster?,なんであなた 出席簿に名前があるわけ？,Why is there a name in the attendance book?,0.38461538461538464
-I bought a student number from this person.,この人から 出席番号買ったよ,I bought attendance number from this person,0.6
+I'm in a class ...",0.4375,0.78896457
+...really  irritates me!,ふにっ！,Fu!,0.16666666666666666,0.24751092
+I'll uncover your identity.,正体をつきとめてやるわ,I will do my best,0.1,0.26333335
+What?,何？,what?,1.0,1.0000001
+Are you going to her house?,あの子んちに行くの？,Are you going to that child?,0.5555555555555556,0.58488125
+Welcome back!,お帰り！,welcome home!,0.5,0.7451799
+These people...,あそこか…,Over that ...,0.2,0.32959706
+...are illegal immigrants!?,こっ この人達… 不法入国者？,This person ... 不 者?,0.2,0.21942563
+"Then so are you, right?",じゃあ あなたもそうなのね！,Well then you are so!,0.4444444444444444,0.6301906
+These people are returnees from Asia.,この人達は アジアからの帰国子女だよ,This person is a returning home from Asia,0.15384615384615385,0.67219234
+Returnees!?,うん！,Yes!,0.25,0.39503777
+I'm Honda.,ワタシ ホンダ,Watasashi Honda,0.2,0.4541906
+I'm Matsushita.,ワ ワタシハ マツシタ,Watashiha Matsushita,0.2,0.65448034
+I'm Mitsubishi.,ワタシ ミツビシ,Watasushi Mitsubishi,0.2,0.6541415
+Don't lie to me.,嘘つけ 嘘！,Your lie!,0.125,0.4884048
+I also have a Japanese name.,私も日本人の名前 関内太郎,I am also Japanese names,0.3333333333333333,0.90096885
+I even have a middle name.,あ ミドルネームもあるよー,There is also a middle name,0.3,0.70031697
+Maria?,マリアぁ？,Maria?,1.0,1.0000005
+Maria-chan.,マリアちゃん！,Maria-chan!,0.3333333333333333,0.9321972
+I'm getting irritated again.,ああ… またイライラしてきたー,Oh ... I'm frustrated again,0.3333333333333333,0.52071583
+But wait.,あれ… んでも待って…,Well ... Wait for ...,0.16666666666666666,0.4996483
+Why is your name on the roster?,なんであなた 出席簿に名前があるわけ？,Why is there a name in the attendance book?,0.38461538461538464,0.34367663
+I bought a student number from this person.,この人から 出席番号買ったよ,I bought attendance number from this person,0.6,0.78145915
 I sold everything I could.,"ああ 売ったさ 売れるものは
 なんでも売ったさ…","Oh selling what I sold
-I sold anything ...",0.2
-My uniform.,制服も 鞄も 出席番号も…,The uniform and the bag are also attendance numbers ...,0.09090909090909091
-Even my pride.,プライドもなぁ…！,Pride also ...!,0.14285714285714285
-"Then, you'd be the former Sekiutsu-san, right?",じゃあ 元 関内さんですね！,"Well then, Mr. Mide-san!",0.14285714285714285
-If you sold your student number...,出席番号を売ってしまったという事は,It is said that the attendance number has been sold,0.13333333333333333
+I sold anything ...",0.2,0.718226
+My uniform.,制服も 鞄も 出席番号も…,The uniform and the bag are also attendance numbers ...,0.09090909090909093,0.3813799
+Even my pride.,プライドもなぁ…！,Pride also ...!,0.14285714285714285,0.69518447
+"Then, you'd be the former Sekiutsu-san, right?",じゃあ 元 関内さんですね！,"Well then, Mr. Mide-san!",0.14285714285714285,0.3787235
+If you sold your student number...,出席番号を売ってしまったという事は,It is said that the attendance number has been sold,0.13333333333333333,0.4861493
 ...then you no longer belong to the class...,"現在は帰るクラスがない
 クラスレスの身なんですね","Currently there is no class to return
-I'm a classless",0.17647058823529413
-That's what you call true freedom.,それがほんとの自由ってもんよ…,That's really free ...,0.18181818181818182
-What's going on..?,なんなのよ もう…,What is it?,0.2857142857142857
-Did you really buy a student number?,買ったのね？,Did you buy it?,0.4444444444444444
-"Yup, I bought it.",うん 買ったー,I bought it,0.5
-"Wait a minute, Chiri-chan.",ああ ちょっと千里ちゃん…,Oh a little thousand ...,0.1
-Then it's fine.,ええ きちんとしていればそれで良し,"Yeah, if you are doing it, it's good",0.16666666666666666
-There's no problem if a proper deal took place.,きちんとした取引なら問題ありません,There is no problem if it is a proper deal,0.5384615384615384
-There's no problem...?,問題ないんだ…,There is no problem ...,0.5714285714285714
-Ah!  Someone dropped something.,あ 落ちてる！,I'm falling!,0.1111111111111111
+I'm a classless",0.17647058823529413,0.608859
+That's what you call true freedom.,それがほんとの自由ってもんよ…,That's really free ...,0.18181818181818185,0.24675325
+What's going on..?,なんなのよ もう…,What is it?,0.2857142857142857,0.18050744
+Did you really buy a student number?,買ったのね？,Did you buy it?,0.4444444444444444,0.45005974
+"Yup, I bought it.",うん 買ったー,I bought it,0.5,0.71251655
+"Wait a minute, Chiri-chan.",ああ ちょっと千里ちゃん…,Oh a little thousand ...,0.1,0.18650013
+Then it's fine.,ええ きちんとしていればそれで良し,"Yeah, if you are doing it, it's good",0.16666666666666666,0.34119746
+There's no problem if a proper deal took place.,きちんとした取引なら問題ありません,There is no problem if it is a proper deal,0.5384615384615384,0.85773224
+There's no problem...?,問題ないんだ…,There is no problem ...,0.5714285714285714,0.66323924
+Ah!  Someone dropped something.,あ 落ちてる！,I'm falling!,0.1111111111111111,0.3971022
 It's not trash.,"ダメじゃない！
 こんなにゴミ拾ってきちゃ…","It is not no good!
-Such a trash picked up ...",0.21428571428571427
-But...,え でも…,Even ...,0.3333333333333333
-Japan is a land of abundance.,日本すごく豊かネ 色んな物捨ててある,Japan is very rich and loded,0.18181818181818182
-Babies.,赤ちゃん,baby,0.0
-Babies!?,赤ちゃん？,baby?,0.25
-Somehow...,えへっ…,Ehen ...,0.3333333333333333
+Such a trash picked up ...",0.21428571428571427,0.6732367
+But...,え でも…,Even ...,0.3333333333333333,0.48921743
+Japan is a land of abundance.,日本すごく豊かネ 色んな物捨ててある,Japan is very rich and loded,0.18181818181818185,0.6942849
+Babies.,赤ちゃん,baby,0.0,0.60428685
+Babies!?,赤ちゃん？,baby?,0.25,0.70509875
+Somehow...,えへっ…,Ehen ...,0.3333333333333333,0.3652674
 ...when I look at her I can't seem to leave her alone.,"なんか… この子を見てると
 放っておけない気がする…","Something ... I'm looking at this child
-I feel that I can not leave it ...",0.17391304347826086
+I feel that I can not leave it ...",0.17391304347826084,0.5400948
 I feel like I have to protect her.,"なんだか私が 守ってあげないと
 いけない気がするの！","Somehow I have to protect
-I feel like I can not do it!",0.42857142857142855
-As expected of Chiri-chan!,さすが千里ちゃん！ 正義の粘着質！,Susumu Senri!Terms of tightness!,0.2222222222222222
-The meddler of justice!,誰が正義の粘着質だっ！,Who is the sticky quality of justice!,0.4444444444444444
-Chiri's words...,あ あっ…,Aya ...,0.2
-Butterfly.,あ 蝶々！,Ah butterfly!,0.25
-Yay!,やっ！,!,0.5
-I caught it.,やったあ！ 捕まえたあ！,I did it!I caught it!,0.5
-"For some reason, I want to protect her.",なんだか 守ってあげたい…,I want to protect something ...,0.3333333333333333
-You're most welcome.,どういたしまして,you're welcome,0.6
-That's great.,良かったわね,It was good,0.0
-Is everyone in Japan a hypocrite?,何あれ… 日本人はみんな偽善者？,Anything ... Japanese is everyone hypocrite?,0.4
-How much would you like?,ドルでもいいかしら？,Don't you like dollars?,0.3333333333333333
-Everyone is really kind.,ありがと！ みんなすごく優しいネ,thank you!Everyone is very kind,0.3333333333333333
-"Oh my, you're so cute.",やだかわいい～,Yada cute,0.1111111111111111
-No way!  You're cute too.,うっそ そっちもかわい～い！,It is also cute!,0.18181818181818182
+I feel like I can not do it!",0.42857142857142855,0.5520113
+As expected of Chiri-chan!,さすが千里ちゃん！ 正義の粘着質！,Susumu Senri!Terms of tightness!,0.2222222222222222,0.31820375
+The meddler of justice!,誰が正義の粘着質だっ！,Who is the sticky quality of justice!,0.4444444444444444,0.54877514
+Chiri's words...,あ あっ…,Aya ...,0.2,0.2891242
+Butterfly.,あ 蝶々！,Ah butterfly!,0.25,0.70883185
+Yay!,やっ！,!,0.5,0.49907517
+I caught it.,やったあ！ 捕まえたあ！,I did it!I caught it!,0.5,0.7070492
+"For some reason, I want to protect her.",なんだか 守ってあげたい…,I want to protect something ...,0.3333333333333333,0.5755021
+You're most welcome.,どういたしまして,you're welcome,0.6,0.84926486
+That's great.,良かったわね,It was good,0.0,0.32576782
+Is everyone in Japan a hypocrite?,何あれ… 日本人はみんな偽善者？,Anything ... Japanese is everyone hypocrite?,0.4,0.85782576
+How much would you like?,ドルでもいいかしら？,Don't you like dollars?,0.3333333333333333,0.4024473
+Everyone is really kind.,ありがと！ みんなすごく優しいネ,thank you!Everyone is very kind,0.3333333333333333,0.7039964
+"Oh my, you're so cute.",やだかわいい～,Yada cute,0.1111111111111111,0.42489514
+No way!  You're cute too.,うっそ そっちもかわい～い！,It is also cute!,0.18181818181818185,0.42501786
 "They say people are cute, when they really aren't.","かわいくないのに
 かわいいと言ってくれる","I'm not cute
-I say cute",0.15384615384615385
-They're kind to little children.,小さい子にも 親切,Parent for small children,0.1
-Everyone in this country is nice.,この国の人は みーんな優しい！,Many people in this country are kind!,0.25
-It's a good country.  I like it.,いい国！ 気に入った！,Good country!favorite!,0.2
-Lawsuit,三日月の夜,Crescent moon night,0.0
+I say cute",0.15384615384615385,0.69234484
+They're kind to little children.,小さい子にも 親切,Parent for small children,0.1,0.48510715
+Everyone in this country is nice.,この国の人は みーんな優しい！,Many people in this country are kind!,0.25,0.68490493
+It's a good country.  I like it.,いい国！ 気に入った！,Good country!favorite!,0.2,0.72236747
+Lawsuit,三日月の夜,Crescent moon night,0.0,0.10631939

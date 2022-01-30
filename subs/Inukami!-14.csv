@@ -1,251 +1,251 @@
-en_text,jp_text,google_translated,score
-[Episode 14 SIGNS],ぐるるううーっ,Guru Uu,0.0
-Otosan?,オトサン？,Otosan?,1.0
-"Hey, Maiko-chan.",ヤッホー 舞子ちゃん 僕 川平啓太,Yaho Maiko-chan,0.2
-What? You don't remember?,え？ 憶えてない？,picture?Do not remember?,0.375
+en_text,jp_text,google_translated,score,semantic_score
+[Episode 14 SIGNS],ぐるるううーっ,Guru Uu,0.0,0.10546991
+Otosan?,オトサン？,Otosan?,1.0,1.0
+"Hey, Maiko-chan.",ヤッホー 舞子ちゃん 僕 川平啓太,Yaho Maiko-chan,0.2,0.8040481
+What? You don't remember?,え？ 憶えてない？,picture?Do not remember?,0.375,0.5694636
 "Yeah, Kawahira Keita, the one with the dog collar.","やっだなあ あーそれそれ
 首に犬の首輪付けた… 川平啓太だよ","I'm sorry
-The dog's collar was attached to the neck ... It is Kawahira Keita",0.23809523809523808
-All right! I did it!,いよしっ やったあ,I did it,0.5
-"Keita, dinner will be ready soon!",啓太ぁ もうすぐご飯だよー,Keita It is a good food soon,0.15384615384615385
+The dog's collar was attached to the neck ... It is Kawahira Keita",0.2380952380952381,0.76092094
+All right! I did it!,いよしっ やったあ,I did it,0.5,0.5554511
+"Keita, dinner will be ready soon!",啓太ぁ もうすぐご飯だよー,Keita It is a good food soon,0.15384615384615385,0.7328921
 "It was fun, wasn't it?","楽しかったねえ
 また今度？ ああ いいねえ","It was fun
-Maybe next time?Oh good",0.36363636363636365
-Shoo! Shoo!,むう！,Mu!,0.3333333333333333
+Maybe next time?Oh good",0.3636363636363637,0.6538705
+Shoo! Shoo!,むう！,Mu!,0.3333333333333333,0.36257645
 "Oh, sorry, I have a really disobedient dog.","え？ ああごめん
 躾の悪ーい犬を飼っててね","picture?Aoi
-Please keep a bad dog",0.125
-Don't mind me.,あはは 気にしないで いつもの事だから,"Oh, don't worry, so it's always",0.16666666666666666
+Please keep a bad dog",0.125,0.41297534
+Don't mind me.,あはは 気にしないで いつもの事だから,"Oh, don't worry, so it's always",0.16666666666666666,0.2208769
 "T-To tell you the truth, I lost my house, and I was wondering if you'd let me stay with you...","じ 実はさあ 家がなくなったから
 居候させて欲しいんだけど…","In fact, because there was no house
-I want you to be astore ...",0.20689655172413793
-With my dog!,ぬおが 犬と一緒にいっ,Put with a dog,0.3333333333333333
-Hello?,あ… もしもし？ もしもーし,Oh ... no?Bean,0.16666666666666666
-Hello?!,いい加減に せーいっ！,I'm sorry!,0.16666666666666666
+I want you to be astore ...",0.20689655172413796,0.57012624
+With my dog!,ぬおが 犬と一緒にいっ,Put with a dog,0.3333333333333333,0.5924941
+Hello?,あ… もしもし？ もしもーし,Oh ... no?Bean,0.16666666666666666,0.2592266
+Hello?!,いい加減に せーいっ！,I'm sorry!,0.16666666666666666,0.30493492
 "If you hadn't interrupted me, we might have escaped from this pitiful life!","お前が邪魔しなかったら
 この悲惨な生活から脱出出来たのに","If you do not disturb you
-I was able to escape from this disastrous life",0.2
-I made a good impression on her.,今回は好感触だったんだぞ,This time I was a good feeling,0.25
-The last one in my address book...,はあ 最後のメモリーが…,Is the last memory ...,0.3
-"At night, I can't sleep because I get bitten by mosquitoes.",嫌だあ！ 夜は蚊に刺され寝られず,"I hate it!At night, mosquitoes are bitten and sleepless",0.3157894736842105
-"And in the morning, I'm forcibly woken up by the cicadas!",朝はセミの鳴き声で叩き起こされて！,"In the morning, it is beaten by the sound of semi!",0.3157894736842105
-I've had enough of this!,もお嫌だ こんな生活ーっ！,I hate this life!,0.3333333333333333
-I'm hungry...,腹減ったぁ,I'm hungry,0.75
-Did it calm you down?,落ち着いた？,Did you settle down?,0.5714285714285714
-Youko.,ようこ,Outright,0.0
-You're so energetic.,お前は元気だなあ,You are fine,0.14285714285714285
-Huh?,ええ？,Yes?,0.3333333333333333
+I was able to escape from this disastrous life",0.2,0.57745147
+I made a good impression on her.,今回は好感触だったんだぞ,This time I was a good feeling,0.25,0.33064607
+The last one in my address book...,はあ 最後のメモリーが…,Is the last memory ...,0.3,0.37159467
+"At night, I can't sleep because I get bitten by mosquitoes.",嫌だあ！ 夜は蚊に刺され寝られず,"I hate it!At night, mosquitoes are bitten and sleepless",0.3157894736842105,0.81794906
+"And in the morning, I'm forcibly woken up by the cicadas!",朝はセミの鳴き声で叩き起こされて！,"In the morning, it is beaten by the sound of semi!",0.3157894736842105,0.3854507
+I've had enough of this!,もお嫌だ こんな生活ーっ！,I hate this life!,0.3333333333333333,0.25145411
+I'm hungry...,腹減ったぁ,I'm hungry,0.75,0.8824679
+Did it calm you down?,落ち着いた？,Did you settle down?,0.5714285714285714,0.56379706
+Youko.,ようこ,Outright,0.0,0.24970344
+You're so energetic.,お前は元気だなあ,You are fine,0.14285714285714285,0.24466234
+Huh?,ええ？,Yes?,0.3333333333333333,0.5965157
 Life's been full of misfortune ever since we got involved with him.,"あーあ
 アイツに絡んでから不幸の連続だぜ","Oh
-It's an unhappy continuous from getting involved",0.09523809523809523
-My bank account disappeared...,口座は無くなっちまうし,Account is gone,0.14285714285714285
-Negative force?!,負の力？,Negative power?,0.4
+It's an unhappy continuous from getting involved",0.09523809523809523,0.2959747
+My bank account disappeared...,口座は無くなっちまうし,Account is gone,0.14285714285714285,0.7065911
+Negative force?!,負の力？,Negative power?,0.4,0.6780225
 "Because you defeated the shinigami that was attached to the Shindou family, it seems calamity has fallen upon you.","新堂家に憑りついていた死神を倒した事で
 お前に災いが降りかかってしまったようだ","During defeating the death rims who were fascinated by the Shinodo family
-It seems that I got off my disaster",0.15151515151515152
-What's that supposed to mean?,な 何だよ？ それ,What is it?that,0.3333333333333333
-"Well, I think it's something temporary, but...",ま 一時的なものだと思うが…,I think it is a temporary one ...,0.38461538461538464
-Ka-Karina-san?!,うっ！,Uh!,0.25
+It seems that I got off my disaster",0.15151515151515152,0.6912986
+What's that supposed to mean?,な 何だよ？ それ,What is it?that,0.3333333333333333,0.3599076
+"Well, I think it's something temporary, but...",ま 一時的なものだと思うが…,I think it is a temporary one ...,0.38461538461538464,0.77399385
+Ka-Karina-san?!,うっ！,Uh!,0.25,0.14071994
 It seems anyone who becomes involved with you will experience misfortune.,"どうやら お前に関わろうとする者は
 皆不幸になるようだ うっ！ つううー！","Apparently those who want to be related to you
-It seems that everyone will be unhappy!!",0.22727272727272727
+It seems that everyone will be unhappy!!",0.2272727272727273,0.4566109
 "Thanks to that, I haven't gotten any job offers.","お陰で仕事まで無し…
 俺のライフラインは完全封鎖だ","Thanks to my job ...
-My lifeline is a complete blockade",0.15789473684210525
-"But it's just temporary, right?",でも 一時的なものなんでしょう？,But is it temporary?,0.4444444444444444
+My lifeline is a complete blockade",0.15789473684210525,0.23341931
+"But it's just temporary, right?",でも 一時的なものなんでしょう？,But is it temporary?,0.4444444444444444,0.86752445
 It'll be sunny again.,"通り雨みたいなもんだよ
 いつか晴れるって","I want to rain through
-It will be fine someday",0.14285714285714285
-You haven't changed.,お前は変わらないな,You don't change,0.2857142857142857
-Where to?,どこへ？,where?,0.6666666666666666
-It's a secret.,ちょっと 出てくるね,It will come out a little,0.2222222222222222
-Is that so?,えへっ そう？,Is it right?,0.3333333333333333
-I'm hired?,採用ですかあ？,Are you hired?,0.3333333333333333
-It's cute!,うん うん！,Yes Yes!,0.2
-What for?,何でです？,What is it?,0.4
+It will be fine someday",0.14285714285714285,0.31926003
+You haven't changed.,お前は変わらないな,You don't change,0.2857142857142857,0.6984756
+Where to?,どこへ？,where?,0.6666666666666666,0.61039037
+It's a secret.,ちょっと 出てくるね,It will come out a little,0.2222222222222222,0.16899915
+Is that so?,えへっ そう？,Is it right?,0.3333333333333333,0.5263107
+I'm hired?,採用ですかあ？,Are you hired?,0.3333333333333333,0.75581306
+It's cute!,うん うん！,Yes Yes!,0.2,0.3188193
+What for?,何でです？,What is it?,0.4,0.2677247
 Don't worry and just say it.,"すっごくいいー
 お帰りなさいませ ご主人様って言ってみてー","It is so good
-Please go home and say the master",0.1875
-"Yes, go ahead.",あ それじゃあ,"Oh, then",0.14285714285714285
-"Welcome home, Master.",お帰りなさいませ ご主人様,"Welcome back, master",0.5
-Moe!,萌えー キター 萌え来たー！,Moe Kwa Moe came!,0.5
-You came here not knowing what this place is?,知らないで来たの？,Did not you know?,0.25
-And also...,ああ… ええー？,Oh ... yeah?,0.16666666666666666
+Please go home and say the master",0.1875,0.21299529
+"Yes, go ahead.",あ それじゃあ,"Oh, then",0.14285714285714285,0.1949477
+"Welcome home, Master.",お帰りなさいませ ご主人様,"Welcome back, master",0.5,0.77133054
+Moe!,萌えー キター 萌え来たー！,Moe Kwa Moe came!,0.5,0.79351777
+You came here not knowing what this place is?,知らないで来たの？,Did not you know?,0.25,0.31582394
+And also...,ああ… ええー？,Oh ... yeah?,0.16666666666666666,0.3432347
 Please excuse me!,"ま 待ってくれー！
 キミならナンバーワンに","Wait me!
-If it is Kimi",0.2222222222222222
-W-Wait up!,ごめんなさーい！,Sorry!,0.25
+If it is Kimi",0.2222222222222222,0.276602
+W-Wait up!,ごめんなさーい！,Sorry!,0.25,0.33325812
 You'll be able to become number one!,"探り合い
 むんにゃむんにゃする所なんだよ！","Search
-It's a place to do it!",0.13333333333333333
+It's a place to do it!",0.13333333333333333,0.16827044
 And I thought I finally found a job.,"はあ…
 やっとお仕事見つけたと思ったのに…","...
-I finally thought I was able to find a job ...",0.38461538461538464
-Is this all due to that misfortune?,これも例の不幸のせいなのかな？,Is this also an example of the case?,0.21428571428571427
-Keita...,啓太…,Keita ...,1.0
-I have changed...,私は変わったよ,I changed,0.5
+I finally thought I was able to find a job ...",0.38461538461538464,0.740552
+Is this all due to that misfortune?,これも例の不幸のせいなのかな？,Is this also an example of the case?,0.21428571428571427,0.20010035
+Keita...,啓太…,Keita ...,1.0,1.0000001
+I have changed...,私は変わったよ,I changed,0.5,0.69606936
 "When I first met you, I thought it would be easy to tell you about my true identity.","啓太に会った頃は私の本当の姿を言う事なんて
 簡単な事だと思ってた","When I met Keita, what I say my true figure
-I thought it was a simple thing",0.3076923076923077
+I thought it was a simple thing",0.3076923076923077,0.3545731
 "When that time came, I was going to tell you right away.","そういう時が来れば
 いつでも言うつもりだった","If such a time comes
-I was always going to say",0.25
-I...,私は…,I am…,0.3333333333333333
-A golden fox... huh...,金色のきつね… か,Golden tightness ...,0.3333333333333333
-"Red, green, golden...",赤い 緑の 金色の…,Red green golden ...,0.8
-A green kappa...,緑の河童…,Green Kappa ...,0.75
-What the hell's that?,なんだ ありゃあ？,What is it?,0.25
-"That one day can be right now as well, if you wish.",いつかと言わず 今でも構わん,Now saying now,0.06666666666666667
-Keita-sama!,啓太様ぁ,Keizawa,0.0
+I was always going to say",0.25,0.5842995
+I...,私は…,I am…,0.3333333333333333,0.32774732
+A golden fox... huh...,金色のきつね… か,Golden tightness ...,0.3333333333333333,0.4274796
+"Red, green, golden...",赤い 緑の 金色の…,Red green golden ...,0.8,0.88842386
+A green kappa...,緑の河童…,Green Kappa ...,0.75,0.9078946
+What the hell's that?,なんだ ありゃあ？,What is it?,0.25,0.2617727
+"That one day can be right now as well, if you wish.",いつかと言わず 今でも構わん,Now saying now,0.06666666666666668,0.21721783
+Keita-sama!,啓太様ぁ,Keizawa,0.0,0.43150115
 "She's the one who gave me the job, but when I asked for help, she totally ignored me!","ばあちゃん ひでーよなー
 こっちに仕事振ったくせに 助け求めたら無視だぜ","Grandma Hidey
-I'm ignoring if I asked for a work",0.12
+I'm ignoring if I asked for a work",0.12,0.54026645
 I insisted she help you out.,"あたしは啓太様を呼ぶようにって
 言ったんだよー","I will call you how to call
-I said",0.16666666666666666
-"So, I brought food, and these as well.",なので せめて食べ物と… それから,So at least food and ... then then,0.21428571428571427
-"As expected from you, Nadeshiko-chan!",お！ ふふーん,Oh!Fur,0.1111111111111111
-There's fireworks as well.,花火もあるよ,There is also fireworks,0.25
-"Umm, where's Youko-san?",お？,Oh?,0.14285714285714285
-She's out right now.,今 出てる,I'm out now,0.25
-I see...,そう… ですか…,I see…,0.25
-Did you have something to tell Youko?,行き違いだったりして？,Are you different?,0.2
-N-Not really.,い いいえ,Noble,0.0
+I said",0.16666666666666666,0.27215773
+"So, I brought food, and these as well.",なので せめて食べ物と… それから,So at least food and ... then then,0.21428571428571427,0.42971677
+"As expected from you, Nadeshiko-chan!",お！ ふふーん,Oh!Fur,0.1111111111111111,0.17897578
+There's fireworks as well.,花火もあるよ,There is also fireworks,0.25,0.96695125
+"Umm, where's Youko-san?",お？,Oh?,0.14285714285714285,0.17087837
+She's out right now.,今 出てる,I'm out now,0.25,0.5179005
+I see...,そう… ですか…,I see…,0.25,0.8481435
+Did you have something to tell Youko?,行き違いだったりして？,Are you different?,0.2,0.20870021
+N-Not really.,い いいえ,Noble,0.0,0.2273218
 It would be great if Youko were here.,"だったらいいな
 ようこがいれば万々歳だよね？","I wish I could
-It is a wonderful thing if it is like?",0.1111111111111111
-"Oh, it's nothing at all.",あ いえ 何でもありません,"No, nothing",0.2222222222222222
-"Wow, it's beautiful.",はああ キレイ…,Heavenly beautiful ...,0.125
-That's what I wanted; however...,私もそう申し上げたのですが…,I also mentioned so ...,0.18181818181818182
-"""However""?",ですが？,but?,0.2
+It is a wonderful thing if it is like?",0.1111111111111111,0.26156455
+"Oh, it's nothing at all.",あ いえ 何でもありません,"No, nothing",0.2222222222222222,0.46025345
+"Wow, it's beautiful.",はああ キレイ…,Heavenly beautiful ...,0.125,0.4069985
+That's what I wanted; however...,私もそう申し上げたのですが…,I also mentioned so ...,0.18181818181818185,0.23256163
+"""However""?",ですが？,but?,0.2,0.37069446
 Souke said that kind of misfortune is contagious.,"宗家が あの手の不幸はうつる…
 と おっしゃいまして","Souema is the unhappiness of that hand ...
-And he said",0.25
-So what did you want to tell me?,遊びに来たわけじゃないんでしょう？,You're not coming to play?,0.23076923076923078
-"Well, let me get straight to the point.",では 単刀直入に,"Then, to the single sword",0.23076923076923078
-Dai Youko is about to release himself.,大妖狐が動き出そうとしています,Daiko is about to move,0.3
+And he said",0.25,0.42828855
+So what did you want to tell me?,遊びに来たわけじゃないんでしょう？,You're not coming to play?,0.2307692307692308,0.22648375
+"Well, let me get straight to the point.",では 単刀直入に,"Then, to the single sword",0.2307692307692308,0.20142126
+Dai Youko is about to release himself.,大妖狐が動き出そうとしています,Daiko is about to move,0.3,0.7817195
 "shakes the universe with just a single leap,\Nand can do anything with that breath of his.","その息吹で
 いかなる事もやってのける大妖怪","In the breath
-Large Yokai who can do anything",0.22727272727272727
-He is strong and arrogant.,強くて傍若無人,Strong and later,0.2857142857142857
+Large Yokai who can do anything",0.2272727272727273,0.43093967
+He is strong and arrogant.,強くて傍若無人,Strong and later,0.2857142857142857,0.4921632
 "We have been able to seal him away with the power of the Kawahira family; however,","これまで川平家の力で
 何とか封印してきましたが","So far with the power of Kawahira
-I have somehow sealed",0.2727272727272727
+I have somehow sealed",0.2727272727272727,0.71537936
 the barrier is falling apart due to his raging spirit.,"大妖狐の荒ぶる魂に
 結界が綻び始めています","To the rough soul of the big faunago
-Background is starting to share",0.15789473684210525
-Otosan!,オトサンっ！,Otosan!,1.0
-"With these hands, I sealed Otosan away.",そう 私は この手でオトサンを…,Yes I am this hand Otosan ...,0.14285714285714285
-So he wants me.,欲しいんだ 私が…,I want me ...,0.125
-This Youko.,この“ようこ”が,"This ""like""",0.16666666666666666
+Background is starting to share",0.15789473684210525,0.16099752
+Otosan!,オトサンっ！,Otosan!,1.0,0.9999999
+"With these hands, I sealed Otosan away.",そう 私は この手でオトサンを…,Yes I am this hand Otosan ...,0.14285714285714285,0.6021656
+So he wants me.,欲しいんだ 私が…,I want me ...,0.125,0.60072803
+This Youko.,この“ようこ”が,"This ""like""",0.16666666666666666,0.30381155
 "However, you have the right to refuse.","はい…
 ですが あなたには拒否する権利があります","Yes…
-But you have the right to reject",0.4166666666666667
-Although this is just based on my speculation.,これは私の心情としてですが,This is my heart,0.3
+But you have the right to reject",0.4166666666666667,0.71886706
+Although this is just based on my speculation.,これは私の心情としてですが,This is my heart,0.3,0.18085258
 "It's not easy for you to ask me to seal away my own father again, now is it?","娘に再び父を封じろなんて そっちとしてみれば
 なんともお願いしにくいよね","If you look at my father again to my daughter, if I look like it
-It's hard to ask you",0.34615384615384615
-I'm sorry.,かあ かあ かあ かあ かあ,I wonder if,0.16666666666666666
-It's just that...,おとさんに背中を押されるなんて…,It is pushed back to the back ...,0.2
-I'll go talk to Otosan.,ん… 話に行こう オトサンに,... I will go to the story,0.2727272727272727
-Hey!,よう,NS,0.0
-Do you remember this place?,あ… 憶えてる？ この場所,Oh ... Are you remembering?this place,0.4
-"This is where I sealed the contract with you, Keita.",私が啓太と契約した場所ね,Where I contracted with Keita,0.3076923076923077
+It's hard to ask you",0.3461538461538461,0.59845173
+I'm sorry.,かあ かあ かあ かあ かあ,I wonder if,0.16666666666666666,0.18130139
+It's just that...,おとさんに背中を押されるなんて…,It is pushed back to the back ...,0.2,0.12373652
+I'll go talk to Otosan.,ん… 話に行こう オトサンに,... I will go to the story,0.2727272727272727,0.21474135
+Hey!,よう,NS,0.0,0.14853464
+Do you remember this place?,あ… 憶えてる？ この場所,Oh ... Are you remembering?this place,0.4,0.7402802
+"This is where I sealed the contract with you, Keita.",私が啓太と契約した場所ね,Where I contracted with Keita,0.3076923076923077,0.75224394
 "If the evil spirits hadn't interrupted me back then, I would've won.","ちぇっ あん時 変な邪霊が邪魔しなかったら
 俺の勝ちだったのによ","If the strange evil spirit does not disturb you
-According to my win",0.11538461538461539
-I'm not a sore loser!,負け惜しみじゃない！,I'm not losing!,0.5
-You were shivering in fear at a puppy.,子犬に震えるお前の姿,You shake the puppy,0.18181818181818182
-"""I'll listen to anything you say! So please get rid of the dog!""",何でも言う事聞くから この犬取ってえ,This dog takes from listening to anything,0.14285714285714285
+According to my win",0.1153846153846154,0.5789763
+I'm not a sore loser!,負け惜しみじゃない！,I'm not losing!,0.5,0.5166273
+You were shivering in fear at a puppy.,子犬に震えるお前の姿,You shake the puppy,0.18181818181818185,0.52060217
+"""I'll listen to anything you say! So please get rid of the dog!""",何でも言う事聞くから この犬取ってえ,This dog takes from listening to anything,0.14285714285714285,0.6338566
 "It's just weird that an inukami is afraid of dogs, isn't it?","でも 犬神なのに犬嫌いだなんて
 やっぱ変だよな？","But it's a dog god but I hate dogs
-After all right?",0.17391304347826086
-I'm...,私… 犬神じゃないから…,I'm not a dog god ...,0.42857142857142855
-I'm an enemy of the Kawahira family...,私は 川平家の敵… そして犬神の敵…,I am an enemy of Kawahira House ... And the enemy of the dog god ...,0.5
+After all right?",0.17391304347826084,0.453701
+I'm...,私… 犬神じゃないから…,I'm not a dog god ...,0.42857142857142855,0.30909878
+I'm an enemy of the Kawahira family...,私は 川平家の敵… そして犬神の敵…,I am an enemy of Kawahira House ... And the enemy of the dog god ...,0.5,0.8156576
 "The daughter of the great monster fox, Dai Youko, who's been sealed.","封印されし 大いなるアヤカシの狐…
 大妖狐の娘なの","Sealed and great Ayakashi's wolf ...
-Of the daughter of the big boy",0.3
-And you sealed a contract with me thinking that I was an inukami...,啓太は犬神だと思って私と契約したのに,I thought that Keita was a dog god and contracted with me,0.3684210526315789
-I'm sorry for keeping it a secret all this time.,今まで黙ってて ごめんなさい,Sorry for silent until now,0.13333333333333333
-I've heard of it once from Grandma.,ばあちゃんから聞いた事があったな,I heard from my grandma,0.4
-"And you're that daughter, huh?",う  啓太！ あ 聞いてる？,Enlighten!Are you heard?,0.16666666666666666
+Of the daughter of the big boy",0.3,0.6066281
+And you sealed a contract with me thinking that I was an inukami...,啓太は犬神だと思って私と契約したのに,I thought that Keita was a dog god and contracted with me,0.3684210526315789,0.3470576
+I'm sorry for keeping it a secret all this time.,今まで黙ってて ごめんなさい,Sorry for silent until now,0.13333333333333333,0.4281357
+I've heard of it once from Grandma.,ばあちゃんから聞いた事があったな,I heard from my grandma,0.4,0.7827913
+"And you're that daughter, huh?",う  啓太！ あ 聞いてる？,Enlighten!Are you heard?,0.16666666666666666,0.2122256
 Were you listening to what I just said?,"だから お前から言わない限り
 俺も聞くつもりはなかった","So unless you say from you
-I did not intend to hear",0.17647058823529413
+I did not intend to hear",0.17647058823529413,0.43327314
 "I sealed a contract with you, Youko.","犬だろうが狐だろうが
 俺は“ようこ”と契約したんだ","It will be a dog, but it will be a wolf
-I agree with ""Ko""",0.21052631578947367
-"That's why as long as you didn't bring it up,\NI wasn't going to say anything about it either.",やー なんていうか どうでもいいじゃん,It doesn't matter if you say,0.16666666666666666
-"But I came to check up on you, to see if you were brooding over it.",へっ ちょっと様子を見に来たわけだ,I came to see a little bit,0.21052631578947367
-This is a good time for it.,ちょうどいい ここでもう一度契約だ,It is just a good deal here again,0.3333333333333333
-Here's the contract payment.,ほい 契約金,Hodo contract gold,0.125
-I think so too.,へっ 俺もそう思う,I also think so,0.5
-What's the matter?,どうした？,What happened?,0.3333333333333333
-"I have to go, okay?",行って来るね,I will go,0.25
-Bye.,じゃ…,well…,0.0
-See you later.,おう！ 後でな,King!Later,0.16666666666666666
+I agree with ""Ko""",0.21052631578947367,0.088872775
+"That's why as long as you didn't bring it up,\NI wasn't going to say anything about it either.",やー なんていうか どうでもいいじゃん,It doesn't matter if you say,0.16666666666666666,0.3823445
+"But I came to check up on you, to see if you were brooding over it.",へっ ちょっと様子を見に来たわけだ,I came to see a little bit,0.21052631578947367,0.324693
+This is a good time for it.,ちょうどいい ここでもう一度契約だ,It is just a good deal here again,0.3333333333333333,0.31406134
+Here's the contract payment.,ほい 契約金,Hodo contract gold,0.125,0.41471654
+I think so too.,へっ 俺もそう思う,I also think so,0.5,0.7943016
+What's the matter?,どうした？,What happened?,0.3333333333333333,0.29229006
+"I have to go, okay?",行って来るね,I will go,0.25,0.5637929
+Bye.,じゃ…,well…,0.0,0.3302635
+See you later.,おう！ 後でな,King!Later,0.16666666666666666,0.36717063
 Let's sing together.,"さあさー 踊りましょう 歌いーいましょーう
 にゃんにゃん","Let's dance and sing
-Nyan",0.375
-"In the name of the nekomata, the traveling cat, Tomekichi!",猫又の渡り猫 留吉の名において！,In the name of the cat or a cat in Yoshido!,0.46153846153846156
-Barrier reinforcement!,にゃにおいて！,Nya!,0.25
-We did it!,やった やったわ ふふふ,I did I did it,0.4
-Thank you very much.,ありがとうございます,thank you,0.4
-This seal is pointless!,がうううう まだ勝負はついてなーい！,There is still a game yet!,0.2
-I will be freed very soon!,もう少しで 俺は解き放たれる！,I will be released a little more!,0.36363636363636365
-Just like that time...,やはり あの時と同じく…,After all it is like that time ...,0.4444444444444444
-That fox...,あの娘が,That daughter,0.25
-Youko...,ようこ… か,Good morning ...,0.25
-Otosan.,オトサン,Otosan,0.5
-You're so beautiful.,こんなに可愛くなって…,This is so cute ...,0.1111111111111111
-I'm sorry about back then.,おとさん ごめんね,I'm sorry,0.42857142857142855
-"Now let me out of here, Youko.",さあ ここから出してくれ ようこ,"Well, let's go out from here",0.3076923076923077
-Let me see your face up close.,もっと良く顔を見せてくれ,Please show me a better face,0.16666666666666666
-Otosan...,オトサン あたしは元気だよ,Otosan is fine,0.25
-What did you say?!,んっ,N',0.0
-I'm doing well.,おとさん あたしは元気だよ,I'm fine I'm fine,0.3333333333333333
-"I met Keita and found out what ""fun"" is.",啓太といると 毎日が楽しい,Daily is fun and fun,0.23076923076923078
-"When I'm with Keita, I can laugh from deep down in my heart.",啓太といると 心の底から笑える,Laughter from the bottom of the heart when it is Keita,0.19047619047619047
+Nyan",0.375,0.5768712
+"In the name of the nekomata, the traveling cat, Tomekichi!",猫又の渡り猫 留吉の名において！,In the name of the cat or a cat in Yoshido!,0.4615384615384616,0.57094264
+Barrier reinforcement!,にゃにおいて！,Nya!,0.25,0.15677348
+We did it!,やった やったわ ふふふ,I did I did it,0.4,0.55476266
+Thank you very much.,ありがとうございます,thank you,0.4,0.55719966
+This seal is pointless!,がうううう まだ勝負はついてなーい！,There is still a game yet!,0.2,0.15845394
+I will be freed very soon!,もう少しで 俺は解き放たれる！,I will be released a little more!,0.3636363636363637,0.5297528
+Just like that time...,やはり あの時と同じく…,After all it is like that time ...,0.4444444444444444,0.7863085
+That fox...,あの娘が,That daughter,0.25,0.31712425
+Youko...,ようこ… か,Good morning ...,0.25,0.27045324
+Otosan.,オトサン,Otosan,0.5,0.9814712
+You're so beautiful.,こんなに可愛くなって…,This is so cute ...,0.1111111111111111,0.44220442
+I'm sorry about back then.,おとさん ごめんね,I'm sorry,0.42857142857142855,0.46048358
+"Now let me out of here, Youko.",さあ ここから出してくれ ようこ,"Well, let's go out from here",0.3076923076923077,0.47452325
+Let me see your face up close.,もっと良く顔を見せてくれ,Please show me a better face,0.16666666666666666,0.54375553
+Otosan...,オトサン あたしは元気だよ,Otosan is fine,0.25,0.78143895
+What did you say?!,んっ,N',0.0,0.145837
+I'm doing well.,おとさん あたしは元気だよ,I'm fine I'm fine,0.3333333333333333,0.56872845
+"I met Keita and found out what ""fun"" is.",啓太といると 毎日が楽しい,Daily is fun and fun,0.2307692307692308,0.34714538
+"When I'm with Keita, I can laugh from deep down in my heart.",啓太といると 心の底から笑える,Laughter from the bottom of the heart when it is Keita,0.19047619047619047,0.83558947
 "Even if there's nothing, it's fun as long as I'm with Keita.","何も無くても啓太がいれば
 それだけで楽しいんだ","If there is no Keita without anything
-It's fun alone",0.3
+It's fun alone",0.3,0.92553365
 "I want to experience more fun times with Keita, so...","あたし 啓太といっぱい
 楽しいをしたいから！","I'm full of Keita
-I want to have fun!",0.29411764705882354
-"Keita, you say?!",啓太だと？,Is it Keita?,0.25
-"In the name of Youko, the daughter of Dai Youko...",大妖狐の娘 ようこの名において！,In this name as a daughter of a large ocean!,0.26666666666666666
-"Youko, what are you doing?!",ようこ！ 何をする！,Good morning!What to do!,0.16666666666666666
-Additional barrier reinforcement spell!,更なる結界の持続を！,Sustain for further bindings!,0.1111111111111111
-Papa will never allow you to be with a human being!,人間となんて パパは絶対許しませーん！,What is human beings and dad never forgive you!,0.2222222222222222
-"Otosan, I'm sorry.",はあ… おとさん ごめんなさい,Haa ... I'm sorry,0.375
-We're saved.,はああ 助かったー,I was saved Oh,0.14285714285714285
-"Hey, you guys!",うん！ こらあ！ お前達も拍手せんか！,Yes!Kowa!Are you applauding!,0.2222222222222222
+I want to have fun!",0.29411764705882354,0.8386208
+"Keita, you say?!",啓太だと？,Is it Keita?,0.25,0.7636785
+"In the name of Youko, the daughter of Dai Youko...",大妖狐の娘 ようこの名において！,In this name as a daughter of a large ocean!,0.26666666666666666,0.36525217
+"Youko, what are you doing?!",ようこ！ 何をする！,Good morning!What to do!,0.16666666666666666,0.3677593
+Additional barrier reinforcement spell!,更なる結界の持続を！,Sustain for further bindings!,0.1111111111111111,0.28753084
+Papa will never allow you to be with a human being!,人間となんて パパは絶対許しませーん！,What is human beings and dad never forgive you!,0.2222222222222222,0.4330933
+"Otosan, I'm sorry.",はあ… おとさん ごめんなさい,Haa ... I'm sorry,0.375,0.35230878
+We're saved.,はああ 助かったー,I was saved Oh,0.14285714285714285,0.65255153
+"Hey, you guys!",うん！ こらあ！ お前達も拍手せんか！,Yes!Kowa!Are you applauding!,0.2222222222222222,0.2463166
 "As the chief of the inukami, I apologize for the impoliteness of the clan.","全く… 犬神の長として
 一族の非礼をお詫びする","At the whole ... as a long manager
-Arian afraid",0.1
-Go return to your master's side.,行きなさい お前の主人の許へ,Go to your husband's,0.4444444444444444
+Arian afraid",0.1,0.14652978
+Go return to your master's side.,行きなさい お前の主人の許へ,Go to your husband's,0.4444444444444444,0.37537184
 I'm surprised you managed to put a bell on the cat's collar.,"いやはや うまく猫の首に
 鈴を付けたもんじゃ","No way to go to the neck of the cat
-I put a bell",0.35
+I put a bell",0.35,0.7987886
 It's just that Youko has changed on her own.,"私は何もしておりません
 ようこが自ら変わったのです","I do not do anything
-It has changed itself",0.1875
-Ever since she met Keita-sama.,啓太様と出会ってから,Because we meet Keita,0.0
-Kappa!,河童！,Kappa!,1.0
-Why don't you help out too?,お前も手伝え,Help you,0.25
-"Hey, welcome home.",よお！ お帰り,Oh!welcome home,0.2857142857142857
-Thanks.,えへ… ただいまっ,Yes ... just,0.0
-Want to have some breakfast?,朝飯 食うか？,Will you eat breakfast?,0.2222222222222222
-Yeah?,ん？,Yeah?,1.0
-H-Hey!,わあっ のおおお おい！,Oh oh!,0.3333333333333333
-I love you!,だーい好き！,I like it!,0.3333333333333333
-Inukami!,強く結ばれた絆 友情！！,Strongly tied 絆 friendship!!,0.16666666666666666
+It has changed itself",0.1875,0.2950904
+Ever since she met Keita-sama.,啓太様と出会ってから,Because we meet Keita,0.0,0.566622
+Kappa!,河童！,Kappa!,1.0,0.99999964
+Why don't you help out too?,お前も手伝え,Help you,0.25,0.4181798
+"Hey, welcome home.",よお！ お帰り,Oh!welcome home,0.2857142857142857,0.7555858
+Thanks.,えへ… ただいまっ,Yes ... just,0.0,0.1388233
+Want to have some breakfast?,朝飯 食うか？,Will you eat breakfast?,0.2222222222222222,0.7759276
+Yeah?,ん？,Yeah?,1.0,0.99999994
+H-Hey!,わあっ のおおお おい！,Oh oh!,0.3333333333333333,0.24544322
+I love you!,だーい好き！,I like it!,0.3333333333333333,0.355642
+Inukami!,強く結ばれた絆 友情！！,Strongly tied 絆 friendship!!,0.16666666666666666,0.2583141
 """While I'm weaving, please do not peek inside at all costs.""","私が機を織っている間
 絶対覗かないで下さいね","While I weave the machine
-Please do not know",0.25
-"However, those two peeked.",でも ２人は覗いてしまいました,But two people have peeked,0.2222222222222222
-"And so, the young lady turned into a swan and flew away.",娘は鶴になって 飛んで行きましたとさ,My daughter went to a crane and flew,0.16666666666666666
+Please do not know",0.25,0.3876683
+"However, those two peeked.",でも ２人は覗いてしまいました,But two people have peeked,0.2222222222222222,0.67535174
+"And so, the young lady turned into a swan and flew away.",娘は鶴になって 飛んで行きましたとさ,My daughter went to a crane and flew,0.16666666666666666,0.41515183
 Next time on Inukami!,"次回 いぬかみっ！
 「ウハウハ啓太に恩返しっ！」","Next time!
-""Uhauha Keitta!""",0.3333333333333333
-The moral of the story is that it's not good to peek.,つまり 覗きは良くないという話である,"In other words, it is a story that peep is not good",0.3157894736842105
+""Uhauha Keitta!""",0.3333333333333333,0.42085218
+The moral of the story is that it's not good to peek.,つまり 覗きは良くないという話である,"In other words, it is a story that peep is not good",0.3157894736842105,0.4406252

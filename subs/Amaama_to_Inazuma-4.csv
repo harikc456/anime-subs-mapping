@@ -1,354 +1,354 @@
-en_text,jp_text,google_translated,score
-Good morning!,（桃谷(ももや)先生）おはようございます！,teacher) Good morning!,0.6
-Wow!,（熊谷(くまがや)先生）うわぁ すごっ！,teacher) Wow!,0.5
-My family in the countryside sent them to me.,田舎から送られてきちゃって,It has been sent from the countryside,0.21428571428571427
-So I'm giving some to everyone!,お裾分けして回ってるんですよ,I'm going around and I'm going around,0.18181818181818182
-Lucky us!,ラッキー！,lucky!,0.6666666666666666
+en_text,jp_text,google_translated,score,semantic_score
+Good morning!,（桃谷(ももや)先生）おはようございます！,teacher) Good morning!,0.6,0.6492744
+Wow!,（熊谷(くまがや)先生）うわぁ すごっ！,teacher) Wow!,0.5,0.47492027
+My family in the countryside sent them to me.,田舎から送られてきちゃって,It has been sent from the countryside,0.21428571428571427,0.6193989
+So I'm giving some to everyone!,お裾分けして回ってるんですよ,I'm going around and I'm going around,0.18181818181818185,0.2492446
+Lucky us!,ラッキー！,lucky!,0.6666666666666666,0.79025495
 Is it okay for me to take so much?,"（犬塚(いぬづか)公平(こうへい)）
 えっ いいんですか こんなに…","fair)
-Yes She is good or so ...",0.11764705882352941
+Yes She is good or so ...",0.1176470588235294,-0.023809057
 They're great just stir-fried \Nwith salt and pepper!,"塩こしょうで炒めるだけでも
 おいしいっすよ","Even salt and pepper fry
-Good morning",0.21428571428571427
-"Eat a lot, okay?",いっぱい食べてください,Please eat a lot,0.42857142857142855
-Yeah...,（公平）はあ…,...,0.5
-Package for you.,お届けものでーす,Delivery,0.0
-What is it? What is it?,何それ 何それ？,What is it?,1.0
+Good morning",0.21428571428571427,0.60282457
+"Eat a lot, okay?",いっぱい食べてください,Please eat a lot,0.42857142857142855,0.8148405
+Yeah...,（公平）はあ…,...,0.5,0.68880326
+Package for you.,お届けものでーす,Delivery,0.0,0.46106315
+What is it? What is it?,何それ 何それ？,What is it?,1.0,0.8302249
 It looks like it's from Grandma.,"うん おばあちゃんが
 送ってくれたみたいだけど…","Yeah grandma
-It looks like I sent me ...",0.3333333333333333
-Lots of stuff!,なんかたくさん！,Many lots!,0.4
-A letter from Granny?,ばぁばから手紙？,A letter from the fool?,0.5714285714285714
-"""Be sure... to give...",“…さんと—”,"""... and-""",0.25
-lots of... to...,（公平）あ…,...,0.25
-"Tsumugi-chan.""",“つむぎちゃんに…”,"""Tsumugi-chan ...""",0.4
-Kiss! Kiss! atarashii mirai heto,これ つむぎに！,This tight!,0.14285714285714285
-mori he hibiku koushinkyoku,〜♪,~ ♪,0.0
-"Cut, fry...",“切って炒める”,"""Cut and fry""",0.2857142857142857
-There's no meat...,お肉 ない…,Meat ...,0.4
-Meat!,あっ お肉！,A meat!,0.6666666666666666
+It looks like I sent me ...",0.3333333333333333,0.59612805
+Lots of stuff!,なんかたくさん！,Many lots!,0.4,0.57228184
+A letter from Granny?,ばぁばから手紙？,A letter from the fool?,0.5714285714285714,0.5498321
+"""Be sure... to give...",“…さんと—”,"""... and-""",0.25,0.3715142
+lots of... to...,（公平）あ…,...,0.25,0.2852873
+"Tsumugi-chan.""",“つむぎちゃんに…”,"""Tsumugi-chan ...""",0.4,0.957003
+Kiss! Kiss! atarashii mirai heto,これ つむぎに！,This tight!,0.14285714285714285,0.22457986
+mori he hibiku koushinkyoku,〜♪,~ ♪,0.0,0.20423023
+"Cut, fry...",“切って炒める”,"""Cut and fry""",0.2857142857142857,0.8573108
+There's no meat...,お肉 ない…,Meat ...,0.4,0.77786684
+Meat!,あっ お肉！,A meat!,0.6666666666666666,0.84918797
 I've got those Hamburg steak \Npatties I made for lunch.,"お弁当用に作っといた
 ハンバーグのタネがあるから…","I made a lunch box
-Because there is a hamburger seed ...",0.15789473684210525
-I'll write a letter to Granny!,ばぁばに お手紙書く！,Write your letter to Baaba!,0.4
-Meat! I wanna eat meat!,♪ 肉 肉が食べたい,♪ I want to eat meat meat,0.3333333333333333
-Meat! Meat!,（公平）おお！,!,0.5
-It's done!,できた！,did it!,0.4
-Let's eat!,食べよう 食べよう,Let's eat,0.75
-I think it's okay.,たぶん大丈夫,it's probably OK,0.25
-Huh?,つむぎ どう？,How about it?,0.2
+Because there is a hamburger seed ...",0.15789473684210525,0.5865616
+I'll write a letter to Granny!,ばぁばに お手紙書く！,Write your letter to Baaba!,0.4,0.47933966
+Meat! I wanna eat meat!,♪ 肉 肉が食べたい,♪ I want to eat meat meat,0.3333333333333333,0.80697525
+Meat! Meat!,（公平）おお！,!,0.5,0.28862473
+It's done!,できた！,did it!,0.4,0.6051319
+Let's eat!,食べよう 食べよう,Let's eat,0.75,0.908293
+I think it's okay.,たぶん大丈夫,it's probably OK,0.25,0.6567618
+Huh?,つむぎ どう？,How about it?,0.2,0.35055256
 Try eating the vegetable with the meat.,"あ… お肉と一緒に
 ガブッて かんでみなさい","Oh ... along with the meat
-Let's try it",0.3076923076923077
+Let's try it",0.3076923076923077,0.6235069
 I don't think you'll taste \Nthe green pepper that much.,"そんなにピーマンの味
 気にならないから","That pepper taste so much
-Because I do not mind",0.35294117647058826
-I think it came out pretty good...,おいしくできたと思うんだけど…,I think it was delicious ...,0.4
-"Just eat what you can, okay?",食べられるとこだけ 食べようか,Can you eat only cousin?,0.4
+Because I do not mind",0.35294117647058826,0.72969764
+I think it came out pretty good...,おいしくできたと思うんだけど…,I think it was delicious ...,0.4,0.523805
+"Just eat what you can, okay?",食べられるとこだけ 食べようか,Can you eat only cousin?,0.4,0.4481954
 "Kouhei, you can't eat pork cutlets?","（公平の兄）公平
 おまえ トンカツ食べられないの？","fair
-You can't eat tonkatsu?",0.45454545454545453
-Then I'll trade you.,じゃあ 交換してやるよ,Then I will exchange it,0.2222222222222222
+You can't eat tonkatsu?",0.4545454545454545,0.4990661
+Then I'll trade you.,じゃあ 交換してやるよ,Then I will exchange it,0.2222222222222222,0.6003413
 "Mom, Nii-chan took Kouhei's meat!","（公平の姉）あっ 母さん！
 兄ちゃんが公平の肉とった！","A mother!
-My brother was a fair meat!",0.14285714285714285
-"We traded, right, Kouhei?",（公平）え？,?,0.16666666666666666
-"Come on, Onii-chan...",うえっ…,...,0.2
+My brother was a fair meat!",0.14285714285714285,0.33921388
+"We traded, right, Kouhei?",（公平）え？,?,0.16666666666666666,0.09237688
+"Come on, Onii-chan...",うえっ…,...,0.2,0.20081702
 It's fine.,"（公平の兄）
-交換したんだよな 公平",I replaced it fairly,0.14285714285714285
-"so they judge anything bitter or sour \Nas potentially dangerous, I've heard.",苦かったり酸っぱいものは—,Those who are bitter or sour are-,0.15789473684210525
-"So even if a young child can't eat them,",だから 今 食べられなくても—,So if you can not eat now-,0.2
-I've heard that before.,その話は聞いたことあります,I have heard that story,0.375
+交換したんだよな 公平",I replaced it fairly,0.14285714285714285,0.21642712
+"so they judge anything bitter or sour \Nas potentially dangerous, I've heard.",苦かったり酸っぱいものは—,Those who are bitter or sour are-,0.15789473684210525,0.687081
+"So even if a young child can't eat them,",だから 今 食べられなくても—,So if you can not eat now-,0.2,0.5531844
+I've heard that before.,その話は聞いたことあります,I have heard that story,0.375,0.62277687
 "I hated green peppers when I was a kid, too.","僕も子どものころは
 ピーマン嫌いで…","When I am also a child
-I hate peppers ...",0.25
-"You don't look like a picky eater, though.",君は好き嫌いなんてなさそうですね,You seem to be dislike you like,0.13333333333333333
-There were vegetables I didn't like.,苦手な野菜とかありましたし,There was a bad vegetables,0.18181818181818182
-But my mom,（公平）ほう…,...,0.0
-It's okay.,（飯田(いいだ) 恵(めぐみ)）大丈夫よ,) okay,0.2
-I know you can eat them.,小鳥なら食べられるわ,I can eat with a little bird,0.2727272727272727
+I hate peppers ...",0.25,0.8065868
+"You don't look like a picky eater, though.",君は好き嫌いなんてなさそうですね,You seem to be dislike you like,0.13333333333333333,0.31416973
+There were vegetables I didn't like.,苦手な野菜とかありましたし,There was a bad vegetables,0.18181818181818185,0.75697076
+But my mom,（公平）ほう…,...,0.0,0.18596996
+It's okay.,（飯田(いいだ) 恵(めぐみ)）大丈夫よ,) okay,0.2,0.46604165
+I know you can eat them.,小鳥なら食べられるわ,I can eat with a little bird,0.2727272727272727,0.5183033
 "She said it was rude to the food, and the \Nperson who made it, to not eat it all.","（小鳥）作った人と食べ物に
 失礼だから—","to those who made people and food
-Because it is rude-",0.2727272727272727
+Because it is rude-",0.2727272727272727,0.68203306
 "Now I can eat anything, thanks to her.","おかげで 何でも
 食べられるようになりましたけどね","Thanks to anything
-I can now eat it",0.6363636363636364
+I can now eat it",0.6363636363636364,0.6813398
 I see.,"野菜を余らせるのは
 もったいないです","What is vegetable
-I'm sorry",0.125
-"What do you want to do, Sensei?",先生は どうしたいんですか？,What do you want to do?,0.75
-Yes.,はい,Yes,0.5
-But I don't want to force her to eat them.,でも 無理に食べさせたくないな,But I do not want to eat it forcibly,0.42857142857142855
-"Because they're good for you,",それは体にいいとか—,It is good for the body-,0.18181818181818182
+I'm sorry",0.125,0.122377984
+"What do you want to do, Sensei?",先生は どうしたいんですか？,What do you want to do?,0.75,0.6388656
+Yes.,はい,Yes,0.5,0.83685553
+But I don't want to force her to eat them.,でも 無理に食べさせたくないな,But I do not want to eat it forcibly,0.42857142857142855,0.65567803
+"Because they're good for you,",それは体にいいとか—,It is good for the body-,0.18181818181818185,0.48116192
 or because it's better not to be a picky eater?,"好き嫌いがない方がいいとか
 じゃないですか？","It is better not to dislike it
-is not it?",0.35714285714285715
-"Those are both true, but...",（公平）はい…,Yes ...,0.125
-That's true.,確かに,surely,0.0
+is not it?",0.35714285714285715,0.3552085
+"Those are both true, but...",（公平）はい…,Yes ...,0.125,0.1974812
+That's true.,確かに,surely,0.0,0.24366969
 Am I spoiling her as a parent?,"あ… 今 親として
 甘いこと言っちゃいました？","Oh ... as a parent
-Did you say sweet things?",0.26666666666666666
+Did you say sweet things?",0.26666666666666666,0.38803756
 "Well, each family has its \Nown way of thinking, right?","まあ 考え方は
 おうちそれぞれじゃないですか？","Well the way of thinking
-Isn't it each one?",0.35294117647058826
+Isn't it each one?",0.35294117647058826,0.5478794
 Why did I want Tsumugi to eat green peppers?,"つむぎにピーマンを食べてほしいと
 思ったんだろう","I want you to eat peppers in Tsumugi
-I thought",0.46153846153846156
-"I wasn't thinking about \Nwhether it was good for her,",あのときは 体にいいからとか—,"At that time, because it is good for the body-",0.2222222222222222
+I thought",0.4615384615384616,0.82878435
+"I wasn't thinking about \Nwhether it was good for her,",あのときは 体にいいからとか—,"At that time, because it is good for the body-",0.2222222222222222,0.36370206
 or whether it was better \Nto not be a picky eater.,"好き嫌いがない方がいいとか
 そういう考えはなくて—","It is better not to dislike it
-There is no such idea-",0.15789473684210525
+There is no such idea-",0.15789473684210525,0.23526591
 when I ate something delicious.,"僕がおいしいって感じた
 うれしさを—","I felt delicious
-う -",0.2222222222222222
+う -",0.2222222222222222,0.51364297
 Then let's make something delicious \Nwith them that she can eat!,"じゃあ おいしく作って
 食べてもらいましょう！","Then make deliciously
-Let's eat it!",0.4
-C-Can we do that?,で… できます？,... Can you do?,0.25
+Let's eat it!",0.4,0.7304547
+C-Can we do that?,で… できます？,... Can you do?,0.25,0.39132077
 I'll talk to my mom about it.,"つむぎにも味わってほしかった
 のかもしれないですね","I wanted to taste my tightness
-It may be",0.2857142857142857
+It may be",0.2857142857142857,0.15543002
 "Even if she can't eat it, instead \Nof just setting it on the table,","今 食べられなくても
 食卓に出さないんじゃなくて—","Even if you can not eat now
-I do not go to the table-",0.16666666666666666
+I do not go to the table-",0.16666666666666666,0.6233359
 she might be more interested if she saw\Nhow much you enjoyed eating it.,"つむぎちゃんも
 興味わくかもしれませんよ","Tsumugi-chan
-You may be interested",0.2
-Let's come up with a schedule.,はい　予定立てましょう,Let's schedule,0.375
+You may be interested",0.2,0.14560601
+Let's come up with a schedule.,はい　予定立てましょう,Let's schedule,0.375,0.8477264
 "By the way, what vegetables \Ndoes Tsumugi-chan like?","ちなみに つむぎちゃんの
 好きな野菜って何です？","By the way, Tsumugi's
-What is your favorite vegetables?",0.5
-Cherry tomatoes?,プチトマトとかは喜んで食べますよ,Petit tomatoes are delighted and eaten,0.125
+What is your favorite vegetables?",0.5,0.8373378
+Cherry tomatoes?,プチトマトとかは喜んで食べますよ,Petit tomatoes are delighted and eaten,0.125,0.59612286
 What vegetable didn't you like?,"あっ 君の嫌いな野菜って
 何だったんですか？","There is a vegetable vegetables that you hate
-What did you do?",0.35714285714285715
-Wasabi!,わさび！,wasabi!,1.0
-"That's a condiment, isn't it?",それ 薬味だよね,It's a taste,0.3
-Cherry Tomatoes,（小鳥）うーん,Hmm,0.0
-Make vegetables taste good...,野菜をおいしく…,Vegetables delicious ...,0.3333333333333333
-Is Iida-san talking to herself?,（ちよ）飯田さん 独り言？,Iida-san alone?,0.2857142857142857
-Go talk to her.,（生徒２）自分で声かけなよ,Don't speak yourself,0.0
+What did you do?",0.35714285714285715,0.7878563
+Wasabi!,わさび！,wasabi!,1.0,0.9999997
+"That's a condiment, isn't it?",それ 薬味だよね,It's a taste,0.3,0.35848925
+Cherry Tomatoes,（小鳥）うーん,Hmm,0.0,0.15101735
+Make vegetables taste good...,野菜をおいしく…,Vegetables delicious ...,0.3333333333333333,0.8209283
+Is Iida-san talking to herself?,（ちよ）飯田さん 独り言？,Iida-san alone?,0.2857142857142857,0.6579054
+Go talk to her.,（生徒２）自分で声かけなよ,Don't speak yourself,0.0,0.12305454
 She's always eating something during breaks.,"いつも
 何か食べてるし—","everytime
-I'm eating something-",0.08333333333333333
-Kotori!,まだ！,yet!,0.3333333333333333
-You make any friends?,友達できたか？,Did you have friends?,0.42857142857142855
+I'm eating something-",0.08333333333333333,0.54136354
+Kotori!,まだ！,yet!,0.3333333333333333,0.34046248
+You make any friends?,友達できたか？,Did you have friends?,0.42857142857142855,0.6929466
 "Even if you're fine without them, \Nat least make a few.","ぼっち 平気でも
 ちょっとは作っとけよ！","Even if it is okay
-I will make a little bit!",0.18181818181818182
-"You're in the next class over, right?",しのぶ 隣のクラスでしょ？,Is it the class next to you?,0.38461538461538464
-What are you doing here?,何しに来たの？,What did you come?,0.375
+I will make a little bit!",0.18181818181818185,0.3390218
+"You're in the next class over, right?",しのぶ 隣のクラスでしょ？,Is it the class next to you?,0.38461538461538464,0.7122075
+What are you doing here?,何しに来たの？,What did you come?,0.375,0.3225063
 I came to check up on you.,"おまえの様子
 見に来てやったんだよ","You're
-I came to see",0.3
-I've been busy helping at the family store.,店の手伝いが忙しくてさ,The help of the store is busy,0.23076923076923078
-What about you?,そっちはどうなんだよ？,What is that?,0.3333333333333333
-Me?,うち？,home?,0.3333333333333333
+I came to see",0.3,0.51047236
+I've been busy helping at the family store.,店の手伝いが忙しくてさ,The help of the store is busy,0.2307692307692308,0.6250646
+What about you?,そっちはどうなんだよ？,What is that?,0.3333333333333333,0.2005274
+Me?,うち？,home?,0.3333333333333333,0.35565278
 "Megumi-san hasn't come to buy \Nvegetables that often lately,","（しのぶ）ここんとこ 恵さん
 あんま野菜買いに来ないからさ—","Mego Megumi
-I will not come to buy anoma vegetables-",0.16666666666666666
-Why do you ask that?,は？ 何でそんなこと聞くんだ？,teeth?What do you hear that?,0.4444444444444444
-Let me see...,えっ？ まあ いろいろあって…,eh?There are many things ...,0.1
+I will not come to buy anoma vegetables-",0.16666666666666666,0.5032399
+Why do you ask that?,は？ 何でそんなこと聞くんだ？,teeth?What do you hear that?,0.4444444444444444,0.12977242
+Let me see...,えっ？ まあ いろいろあって…,eh?There are many things ...,0.1,0.27280283
 I chop them up into little pieces \Nand mix them with foods they like.,"そうですね… うちは細かく刻んで
 好きな料理と混ぜちゃいますね","That's right ... my house is finely chopped
-I mix with my favorite food",0.12
+I mix with my favorite food",0.12,0.54257673
 Really? But isn't that a lot of work?,"（ゆうかの母）
-子どもが苦手な野菜ですか？",Is it a vegetable who is not good at a child?,0.17647058823529413
+子どもが苦手な野菜ですか？",Is it a vegetable who is not good at a child?,0.17647058823529413,0.026389569
 "I just make my boy eat them, \Nwhether he likes it or not!","（ミキオ）母ちゃん トマトは
 もう絶対(ぜってい) 食わないからな！","Mother's tomato
-I will not eat it anymore!",0.25
-"Hey, Mikio! Your shoes!",こら ミキオ！ 靴！,Mikio!shoes!,0.5
+I will not eat it anymore!",0.25,0.35892987
+"Hey, Mikio! Your shoes!",こら ミキオ！ 靴！,Mikio!shoes!,0.5,0.8866245
 "So for today, I'd like to make a gratin.","（小鳥）というわけで 今日は
 グラタンを作りたいと思います",", today
-I want to make Gratin",0.46153846153846156
-Mom's Recipes,さあ 食べよう,Let's eat,0.2
-We're eating gratin?!,グ… グラタン？,... Gratin?,0.2857142857142857
-Why are we making a gratin?,（公平）なぜグラタンを？,Why gratin?,0.42857142857142855
+I want to make Gratin",0.4615384615384616,0.9310994
+Mom's Recipes,さあ 食べよう,Let's eat,0.2,0.30580217
+We're eating gratin?!,グ… グラタン？,... Gratin?,0.2857142857142857,0.7829106
+Why are we making a gratin?,（公平）なぜグラタンを？,Why gratin?,0.42857142857142855,0.8821153
 "The plan is to cut the \Nvegetables into tiny bits,","同じぐらいの大きさに切って
 混ぜちゃって—","Cut it to the same size
-Mix-",0.21428571428571427
+Mix-",0.21428571428571427,0.4475828
 "and hide them in a bechamel sauce, \Nwhich everyone loves!","みんな大好きなベシャメルソースで
 隠しちゃおうって作戦です","Everyone loves Beshamel sauce
-It is a strategy to hide",0.29411764705882354
+It is a strategy to hide",0.29411764705882354,0.6042166
 "there'll be lots of different colors and \Ntastes, so it should be a lot of fun!","いろんな味と色がいっぱいあって
 楽しいねってならないかなと…","There are many tastes and colors
-I wonder if it's fun ...",0.2
+I wonder if it's fun ...",0.2,0.5987539
 Won't she realize there are green peppers in it?,"ピーマン入ってるって
 バレませんかね？","I'm in the peppers
-Do you not barre?",0.16666666666666666
-Tsumugi's smarter than you'd think.,つむぎは なかなか手ごわいですよ,Tsumugi is pretty good,0.09090909090909091
-Let's make it fun!,楽しくやりましょう,Let's do fun,0.42857142857142855
+Do you not barre?",0.16666666666666666,0.39415842
+Tsumugi's smarter than you'd think.,つむぎは なかなか手ごわいですよ,Tsumugi is pretty good,0.09090909090909093,0.6886587
+Let's make it fun!,楽しくやりましょう,Let's do fun,0.42857142857142855,0.78995246
 you can eat things you wouldn't \Nnormally be able to.,"食べれちゃったりすることも
 あるらしいので…","It is also possible to eat
-Because there seems to be ...",0.15789473684210525
-I actually got this idea,実は このアイデア—,Actually this idea-,0.3333333333333333
+Because there seems to be ...",0.15789473684210525,0.6270465
+I actually got this idea,実は このアイデア—,Actually this idea-,0.3333333333333333,0.7299712
 from someone who knows all about vegetables.,"これから 野菜を
 ジャブジャブ洗います","From now on vegetables
-Jab jab wash",0.16666666666666666
-Will you help me?,手伝ってくれるか？,Can you help me?,0.6666666666666666
-It's cold!,冷たっ！,Cold!,0.5
-Does it feel good?,気持ちいいですか？,Is it pleasant?,0.2857142857142857
-Yup!,ギャハッ ウケる！,Gahaha!,0.3333333333333333
-Did you learn that in kindergarten?,えっ？ 幼稚園で覚えたのかな？,eh?Did you remember in kindergarten?,0.5555555555555556
-Next is...,（つむぎ）次は…,Next ...,0.6666666666666666
-What's this red thing?,赤いの これ何？,What is red?,0.42857142857142855
-A red bell pepper.,あ… 赤ピーマンだよ,Oh ... It's a red pepper,0.3333333333333333
-Pep...,（つむぎ）ピ…,P ...,0.3333333333333333
-It's okay!,（公平）大丈夫だって！,is okay!,0.4
-"Sensei, can I have a word?",先生　ちょっといいですか？,Teacher is a little good?,0.16666666666666666
-Here you go.,はい どうぞ,here you are,0.4
-More!,おかわり！,seconds!,0.3333333333333333
-It's sweet!,甘い！,sweet!,0.5
+Jab jab wash",0.16666666666666666,0.40056214
+Will you help me?,手伝ってくれるか？,Can you help me?,0.6666666666666666,0.8269554
+It's cold!,冷たっ！,Cold!,0.5,0.8493984
+Does it feel good?,気持ちいいですか？,Is it pleasant?,0.2857142857142857,0.6275423
+Yup!,ギャハッ ウケる！,Gahaha!,0.3333333333333333,0.3389151
+Did you learn that in kindergarten?,えっ？ 幼稚園で覚えたのかな？,eh?Did you remember in kindergarten?,0.5555555555555556,0.7590063
+Next is...,（つむぎ）次は…,Next ...,0.6666666666666666,0.81284887
+What's this red thing?,赤いの これ何？,What is red?,0.42857142857142855,0.76538026
+A red bell pepper.,あ… 赤ピーマンだよ,Oh ... It's a red pepper,0.3333333333333333,0.7748111
+Pep...,（つむぎ）ピ…,P ...,0.3333333333333333,0.26330864
+It's okay!,（公平）大丈夫だって！,is okay!,0.4,0.79669386
+"Sensei, can I have a word?",先生　ちょっといいですか？,Teacher is a little good?,0.16666666666666666,0.07773683
+Here you go.,はい どうぞ,here you are,0.4,0.45819739
+More!,おかわり！,seconds!,0.3333333333333333,0.3562119
+It's sweet!,甘い！,sweet!,0.5,0.665238
 "Okay, now that the veggies are clean,","（小鳥）ではでは
-きれいになった野菜たちを—",Vegetables that became beautiful-,0.09090909090909091
-To cut hard squash easily...,（公平）かぼちゃ硬い…,Pumpkin Hard ...,0.2857142857142857
-"You can use this, it says.",これを使うといいそうです,It seems to be good to use this,0.25
-Just one?,１本だけですか？,Only one book?,0.4
+きれいになった野菜たちを—",Vegetables that became beautiful-,0.09090909090909093,0.48910314
+To cut hard squash easily...,（公平）かぼちゃ硬い…,Pumpkin Hard ...,0.2857142857142857,0.4590613
+"You can use this, it says.",これを使うといいそうです,It seems to be good to use this,0.25,0.5749475
+Just one?,１本だけですか？,Only one book?,0.4,0.49567983
 "You stick it into the center of the squash,","かぼちゃの中心に
 その箸を刺して—","In the heart of pumpkin
-Stick the chopsticks-",0.23076923076923078
+Stick the chopsticks-",0.2307692307692308,0.45832917
 Take out the chopstick and stick \Nthe knife in the hole from above.,"その穴に包丁を
 上から突き立てると…","A knife in the hole
-If you put it from above ...",0.3157894736842105
-From above?,立てる？,Start?,0.25
-It went in easily!,（公平･つむぎ）おお！,!,0.2
+If you put it from above ...",0.3157894736842105,0.7105103
+From above?,立てる？,Start?,0.25,0.31809208
+It went in easily!,（公平･つむぎ）おお！,!,0.2,0.32234123
 Then we cut the other \Nvegetables into bite-sized bits.,"他の野菜も一緒に
 一口サイズにコロコロ切ります","Other vegetables together
-Correct to one sizer",0.0625
-Like this?,これくらいかな？,Is this about this?,0.4
-Let's make them a little smaller.,もうちょっと小さくしましょう,Let's do a little more,0.4
-Roger.,了解,Roger that,0.3333333333333333
+Correct to one sizer",0.0625,0.31077844
+Like this?,これくらいかな？,Is this about this?,0.4,0.38110003
+Let's make them a little smaller.,もうちょっと小さくしましょう,Let's do a little more,0.4,0.5158959
+Roger.,了解,Roger that,0.3333333333333333,0.7945501
 Parboil the carrots and fava beans.,"にんじんとそら豆は
 下ゆでして—","Carrot and Sora Beans
-It is under the lower one-",0.21428571428571427
+It is under the lower one-",0.21428571428571427,0.6567881
 "Put olive oil in the frying pan,","オリーブオイルを引いた
 フライパンで—","I pulled olive oil
-In a frying pan-",0.3333333333333333
+In a frying pan-",0.3333333333333333,0.8202398
 then fry the chicken thigh \Nyou've cut into bite-size pieces.,"一口サイズに切った
 鶏もも肉を炒めて—","I cut it into a single size
-Chicken stir-fry meat-",0.15789473684210525
-Fry the harder vegetables first.,野菜を硬いのから炒めて…,Stir-fry vegetables from hard ...,0.1
-Should we take the chicken out first?,あっ 鶏肉を 一回出しましょうか,Let's put out the chicken once,0.25
-"Oh, right.",あっ はい,Yes,0.0
-Squash.,（小鳥）かぼちゃ,pumpkin,0.0
-Zucchini.,ズッキーニ,zucchini,0.5
-In!,ドーン！,Dawn!,0.3333333333333333
-and the parboiled veggies go in.,最後 オーブンで焼くんで—,Burned in the last oven-,0.2
+Chicken stir-fry meat-",0.15789473684210525,0.6415959
+Fry the harder vegetables first.,野菜を硬いのから炒めて…,Stir-fry vegetables from hard ...,0.1,0.7770269
+Should we take the chicken out first?,あっ 鶏肉を 一回出しましょうか,Let's put out the chicken once,0.25,0.78752625
+"Oh, right.",あっ はい,Yes,0.0,0.25330886
+Squash.,（小鳥）かぼちゃ,pumpkin,0.0,0.5822723
+Zucchini.,ズッキーニ,zucchini,0.5,0.978779
+In!,ドーン！,Dawn!,0.3333333333333333,0.3715101
+and the parboiled veggies go in.,最後 オーブンで焼くんで—,Burned in the last oven-,0.2,0.23681784
 so you don't need to be super careful \Nabout making sure it's cooked.,"そこまでしっかり
 火を通さなくても大丈夫ですよ","It is firmly
-It is okay if you don't pass fire",0.18181818181818182
-And then...,鶏肉と—,Chicken and,0.25
-We put this in an oven-safe pan.,これを耐熱容器に入れて…,Put this in a heat resistant container ...,0.23076923076923078
-"Tsumugi, will you help?",つむぎ 手伝ってくれるか？,Do you want to help me?,0.3
+It is okay if you don't pass fire",0.18181818181818185,0.36851993
+And then...,鶏肉と—,Chicken and,0.25,0.20841853
+We put this in an oven-safe pan.,これを耐熱容器に入れて…,Put this in a heat resistant container ...,0.2307692307692308,0.55965626
+"Tsumugi, will you help?",つむぎ 手伝ってくれるか？,Do you want to help me?,0.3,0.46962962
 Spatula!,"（つむぎ）へら！
 （小鳥）はい","!
- Yes",0.3333333333333333
-Well?,どう？,copper?,0.3333333333333333
-Splendid!,すばらしい！,wonderful!,0.3333333333333333
-A genius!,かわいい上に 天才だ！,It is a genius on cute!,0.42857142857142855
-Now the fillings are all set.,（小鳥）これで具はできました,I made this ingredient,0.0
-It's time to make the sauce!,いよいよソース作りです,It is finally made of sauce,0.16666666666666666
+ Yes",0.3333333333333333,0.26008752
+Well?,どう？,copper?,0.3333333333333333,0.1376581
+Splendid!,すばらしい！,wonderful!,0.3333333333333333,0.70825523
+A genius!,かわいい上に 天才だ！,It is a genius on cute!,0.42857142857142855,0.48527744
+Now the fillings are all set.,（小鳥）これで具はできました,I made this ingredient,0.0,0.1481687
+It's time to make the sauce!,いよいよソース作りです,It is finally made of sauce,0.16666666666666666,0.69648945
 A white sauce?,"ホワイトソース科
 ベシャメルソース属みたいな？","White Source
-Is it like Beshamel Source?",0.2222222222222222
-A becha...,えーと…,Ei ...,0.25
-Bechamel.,ベシャメル,béchamel,0.0
-How are they different?,（公平）どう違うんでしょうか？,How is it different?,0.42857142857142855
-but the bechamel sauce is a particular one\N made with a milk base and a roux...,ベシャメルソースといいまして…,It is good with the Behamel Source ...,0.21052631578947367
-A roux?,ルー？,Roux?,0.6666666666666666
-We're about to make that now.,今から作ります,I will make from now,0.18181818181818182
+Is it like Beshamel Source?",0.2222222222222222,0.39937797
+A becha...,えーと…,Ei ...,0.25,0.2778993
+Bechamel.,ベシャメル,béchamel,0.0,0.97469413
+How are they different?,（公平）どう違うんでしょうか？,How is it different?,0.42857142857142855,0.86277276
+but the bechamel sauce is a particular one\N made with a milk base and a roux...,ベシャメルソースといいまして…,It is good with the Behamel Source ...,0.21052631578947367,0.36669663
+A roux?,ルー？,Roux?,0.6666666666666666,0.86483306
+We're about to make that now.,今から作ります,I will make from now,0.18181818181818185,0.46425742
 "Take the sliced onions and \Nfry them in plenty of butter,","その中でも牛乳をベースに
 ルーを延ばしたものを—","Among them, based on milk
-An extended thing-to",0.10526315789473684
+An extended thing-to",0.10526315789473684,0.085960135
 being careful not to burn them.,"たっぷりのバターで
 焦がさないように炒めて…","With plenty butter
-Stir fry so as not to burn ...",0.2
-"Slowly, on low heat.",弱火でゆっくり,Low heat,0.3333333333333333
+Stir fry so as not to burn ...",0.2,0.43819052
+"Slowly, on low heat.",弱火でゆっくり,Low heat,0.3333333333333333,0.6904709
 "add the weak flour, and then stir.","やわらかくなったら
 薄力粉を加えて あとは混ぜる","When it gets soft
-Add flour and mix later",0.2
-Did I mess up?,失敗？,Fail?,0.16666666666666666
-Lets keep at it until there are no more clumps.,だまが消えるまで頑張りましょう,Let's do our best until it disappears,0.11764705882352941
-Okay.,（公平）はい,Yes,0.0
+Add flour and mix later",0.2,0.6656178
+Did I mess up?,失敗？,Fail?,0.16666666666666666,0.20180522
+Lets keep at it until there are no more clumps.,だまが消えるまで頑張りましょう,Let's do our best until it disappears,0.1176470588235294,0.45286664
+Okay.,（公平）はい,Yes,0.0,0.2961397
 Can you cast a spell so there \Nwon't be any clumps?,"だまにならないように
 呪文を唱えてもらえるか？","Don't go out
-Can you cast a spell?",0.4375
-"Clump, clump...",（小鳥）だ… 大丈夫ですよ,... It is all right,0.14285714285714285
-It's starting to come together... maybe?,あ… まとまってきたかな？,Oh ... Did you get together?,0.23076923076923078
-Then let's put the milk in.,じゃあ牛乳を入れてみましょうか,Then let's put milk,0.625
+Can you cast a spell?",0.4375,0.48032326
+"Clump, clump...",（小鳥）だ… 大丈夫ですよ,... It is all right,0.14285714285714285,0.20618969
+It's starting to come together... maybe?,あ… まとまってきたかな？,Oh ... Did you get together?,0.2307692307692308,0.43415165
+Then let's put the milk in.,じゃあ牛乳を入れてみましょうか,Then let's put milk,0.625,0.9113945
 Add just a little at a time \Nso that it doesn't clump up.,"だまにならないように
 ちょっとずつ加えて—","Don't go out
-Add a little bit-",0.2222222222222222
-Then mix with a whisk.,泡立て器で混ぜます,Mix with a whisk,0.6666666666666666
+Add a little bit-",0.2222222222222222,0.31464845
+Then mix with a whisk.,泡立て器で混ぜます,Mix with a whisk,0.6666666666666666,0.9366868
 Tomorrow will come!,"（つむぎ）
-♪ あしたは来るよ",♪ I will come,0.3333333333333333
-No clumps!,ぬお〜！,No!,0.6666666666666666
-Sensei!,あっ 先生！,A teacher!,0.25
-This is an onion!,これは たまねぎです,This is onion,0.6
-"Oh, it is.",だまになってる,It is,0.4
-It's looking really good!,よかったですね,It was good,0.2857142857142857
-"The clumps are gone, and it's pretty now!",だま消えて きれいになったね,It became clean and clean,0.15384615384615385
+♪ あしたは来るよ",♪ I will come,0.3333333333333333,0.55238503
+No clumps!,ぬお〜！,No!,0.6666666666666666,0.28100792
+Sensei!,あっ 先生！,A teacher!,0.25,0.23202233
+This is an onion!,これは たまねぎです,This is onion,0.6,0.88717085
+"Oh, it is.",だまになってる,It is,0.4,0.59288806
+It's looking really good!,よかったですね,It was good,0.2857142857142857,0.32899323
+"The clumps are gone, and it's pretty now!",だま消えて きれいになったね,It became clean and clean,0.15384615384615385,0.39253256
 Yeah! Looks like your magic spell worked!,"うん つむぎちゃんの呪文が
 効いたみたい","Your spell of Mt.
-It looks like it works",0.3076923076923077
-Really?,ほんと？,real?,0.3333333333333333
-Clump! Clump!,♪ だまっ！ だまっ！,♪ Ma!I'm sorry!,0.14285714285714285
-"Thank you, Tsumugi!",ありがとな つむぎ,Thank you,0.4
-Now we pour this on...,（公平）あとはこれをかけて…,"After that, put this ...",0.2
-Tsumugi-chan.,（小鳥）つむぎちゃん,Tsumugi-chan,0.5
-What?,何？,what?,1.0
+It looks like it works",0.3076923076923077,0.5425269
+Really?,ほんと？,real?,0.3333333333333333,0.46313038
+Clump! Clump!,♪ だまっ！ だまっ！,♪ Ma!I'm sorry!,0.14285714285714285,0.27397308
+"Thank you, Tsumugi!",ありがとな つむぎ,Thank you,0.4,0.3384494
+Now we pour this on...,（公平）あとはこれをかけて…,"After that, put this ...",0.2,0.3646927
+Tsumugi-chan.,（小鳥）つむぎちゃん,Tsumugi-chan,0.5,0.98539317
+What?,何？,what?,1.0,1.0000001
 Will you put these on top of the gratin?,"これ グラタンの上に
 のせてくれる？","On this gratin
-Can you do it?",0.2857142857142857
-Cherry tomatoes!,プチトマト！,Petit tomatoes!,0.5
-You went out and got some for us?,わざわざ用意してくれたんですか？,Did you prepare for it?,0.25
+Can you do it?",0.2857142857142857,0.7171214
+Cherry tomatoes!,プチトマト！,Petit tomatoes!,0.5,0.73863995
+You went out and got some for us?,わざわざ用意してくれたんですか？,Did you prepare for it?,0.25,0.39612854
 The goal for today is to \Nmake vegetables yummy.,"（小鳥）はい　今日は
 野菜をおいしく食べる会なので","Yes Today
-Because it is a meeting to eat vegetables deliciously",0.23529411764705882
+Because it is a meeting to eat vegetables deliciously",0.2352941176470588,0.6513711
 "You like cherry tomatoes, \Ndon't you, Tsumugi-chan?","つむぎちゃん
 プチトマト好きなんだよね？","Tsumugi-chan
-I like petit tomatoes, right?",0.4166666666666667
-I do!,好き！,like!,0.25
-Put on the cheese.,（公平）チーズかけて,Cheese,0.2
+I like petit tomatoes, right?",0.4166666666666667,0.81197786
+I do!,好き！,like!,0.25,0.33570725
+Put on the cheese.,（公平）チーズかけて,Cheese,0.2,0.6766279
 Cook for fifteen minutes in\Na 250-degree Celsius oven.,"（小鳥）250度のオーブンで
 15分焼くっと","in oven of 250 degrees
-Bake for 15 minutes",0.2
-Good work.,お疲れさまです,Good work,0.6666666666666666
-"Tsumugi-chan, it looks good, huh?",つむぎちゃん おいしそうだね,Tsumugi-chan looks delicious,0.25
-Yeah!,（３人）おお！,!,0.5
+Bake for 15 minutes",0.2,0.83615524
+Good work.,お疲れさまです,Good work,0.6666666666666666,0.8659777
+"Tsumugi-chan, it looks good, huh?",つむぎちゃん おいしそうだね,Tsumugi-chan looks delicious,0.25,0.81749386
+Yeah!,（３人）おお！,!,0.5,0.65133625
 "I washed the veggies and flattened them,","これ つむぎがジャバジャバ洗って
 平らにして—","This might washed Javajaba
-Flat-",0.08333333333333333
-Now we'll dish it up.,それじゃあ取り分けますね,Then I will take it up,0.18181818181818182
-I can eat four cherry tomatoes!,できてる できてる！,I can do it!,0.3333333333333333
-"Yes, this is better than I'd hoped!",はい　これは予想以上ですね,Yes this is more than expected,0.3333333333333333
-This goo!,なーんじゃ これ！,This!,0.6666666666666666
-It's sauce. A white sauce.,ホワイトソース,White sauce,0.3333333333333333
-Becha-sauce!,ソース！,sauce!,0.3333333333333333
-This is wonderful!,うわぁ たまりませんね これは！,"Wow, this is this!",0.5
-The vegetables inside are...,中の野菜も えーと…,Vegetables inside and ...,0.5
-Um... They're just good!,べちゃ… ソース！,Book ... Source!,0.2222222222222222
+Flat-",0.08333333333333333,0.42775637
+Now we'll dish it up.,それじゃあ取り分けますね,Then I will take it up,0.18181818181818185,0.3973232
+I can eat four cherry tomatoes!,できてる できてる！,I can do it!,0.3333333333333333,0.30591294
+"Yes, this is better than I'd hoped!",はい　これは予想以上ですね,Yes this is more than expected,0.3333333333333333,0.46641728
+This goo!,なーんじゃ これ！,This!,0.6666666666666666,0.57498085
+It's sauce. A white sauce.,ホワイトソース,White sauce,0.3333333333333333,0.8843841
+Becha-sauce!,ソース！,sauce!,0.3333333333333333,0.66909474
+This is wonderful!,うわぁ たまりませんね これは！,"Wow, this is this!",0.5,0.4995931
+The vegetables inside are...,中の野菜も えーと…,Vegetables inside and ...,0.5,0.8942056
+Um... They're just good!,べちゃ… ソース！,Book ... Source!,0.2222222222222222,0.2199845
 "Daddy, this is a tomato!","（つむぎ）おとさん！
 これね トマト！","Oto!
-This is a tomato!",0.625
+This is a tomato!",0.625,0.77280235
 "You squish it and eat it, and it's good!","ブチャッて潰して食べて
 おいしいよ！","Blow and eat and eat
-delicious!",0.2727272727272727
-It's asparagus.,（公平）アスパラガスな,Asparagus,0.25
+delicious!",0.2727272727272727,0.5067431
+It's asparagus.,（公平）アスパラガスな,Asparagus,0.25,0.92344403
 It's friends with the red thing.,"あすぱーす！
 赤のやつと仲良くして…","Asappa!
-Get along with the red guy ...",0.21428571428571427
-I ate something bitter.,今 苦いの食べた,I ate now,0.3333333333333333
-You ate the bell pepper?,えっ？ ピーマン食べたのか？,eh?Did you eat peppers?,0.2
-Yeah. It was bitter.,うん 苦かったよ,I was bitter,0.3333333333333333
-I'll eat something sweet.,甘いの食べよ,I eat sweet,0.5
-Good for me!,よいしょ よいしょ,Good job,0.2
-Ahh!,（つむぎ）あ〜ん！,Oh!,0.3333333333333333
-"What's wrong, Sensei?",どうしたんですか 先生？,What happened?,0.2857142857142857
-Under the cheese...,チーズの下に—,Under the cheese-,0.4
-The becha sauce is yummy!,（つむぎ）べしゃソース うま！,is good sauce!,0.42857142857142855
-"Well, let's take our time.",（公平）まあ ゆっくりやろうか,"Well, let's do it slowly",0.36363636363636365
+Get along with the red guy ...",0.21428571428571427,0.35736117
+I ate something bitter.,今 苦いの食べた,I ate now,0.3333333333333333,0.55313474
+You ate the bell pepper?,えっ？ ピーマン食べたのか？,eh?Did you eat peppers?,0.2,0.7872662
+Yeah. It was bitter.,うん 苦かったよ,I was bitter,0.3333333333333333,0.8164611
+I'll eat something sweet.,甘いの食べよ,I eat sweet,0.5,0.79675096
+Good for me!,よいしょ よいしょ,Good job,0.2,0.20216097
+Ahh!,（つむぎ）あ〜ん！,Oh!,0.3333333333333333,0.74474114
+"What's wrong, Sensei?",どうしたんですか 先生？,What happened?,0.2857142857142857,0.21555161
+Under the cheese...,チーズの下に—,Under the cheese-,0.4,0.93140674
+The becha sauce is yummy!,（つむぎ）べしゃソース うま！,is good sauce!,0.42857142857142855,0.6582589
+"Well, let's take our time.",（公平）まあ ゆっくりやろうか,"Well, let's do it slowly",0.3636363636363637,0.61737514
 "She can get used to it little by little, \Nand we'll hope for the best in the future.","少しずつ慣れてもらって
 未来に期待かな","Get used to it little by little
-I hope for the future",0.5
-I saw a reflection of our window. It was so beautiful.,（つむぎ）ごちそうさまでした！,I've got a feast!,0.125
+I hope for the future",0.5,0.4798472
+I saw a reflection of our window. It was so beautiful.,（つむぎ）ごちそうさまでした！,I've got a feast!,0.125,0.097519316

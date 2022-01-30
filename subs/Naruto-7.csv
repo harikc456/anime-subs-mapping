@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,45 +9,45 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825215
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490633
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818445
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120192
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.53447694
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.7646863
 The bridge should be visible soon.,"(
 カジ
 )
@@ -61,7 +61,7 @@ The bridge should be visible soon.,"(
  
 Bridge can be seen
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.7296471
 "Wooow!
 It's huge!","うっひょ～！
  
@@ -69,7 +69,7 @@ It's huge!","うっひょ～！
 
 ","Ho ~!
  
-Hey!",0.125
+Hey!",0.125,0.28979167
 "H-Hey!
 Please keep it down.","こら
  
@@ -78,7 +78,7 @@ Please keep it down.","こら
 
 ","from
 Please be quiet
-.",0.2
+.",0.2,0.3026436
 I took this boat out under cover of fog.,"この霧に隠れて
  
 舟
@@ -91,7 +91,7 @@ I took this boat out under cover of fog.,"この霧に隠れて
 boat
  
 I'm out
-.",0.38461538461538464
+.",0.38461538461538464,0.66658115
 "And I cut the engine
 and am rowing by hand.","エンジン切って
  
@@ -103,7 +103,7 @@ and am rowing by hand.","エンジン切って
  
 With a hand
 .
-➡",0.38461538461538464
+➡",0.38461538461538464,0.5815787
 "If they find us,
 we'll be in deep trouble.","ヤツらに見つかったら
 大変なことになる
@@ -111,23 +111,23 @@ we'll be in deep trouble.","ヤツらに見つかったら
 
 ","If you find it
 It will be difficult
-.",0.25
+.",0.25,0.3888014
 Mr. Tazuna.,"(ｶｶｼ)
 タズナさん
 ｡
 
 ","Mr. Tazna
-.",0.5
+.",0.5,0.8836538
 "I want to ask you something
 before we arrive at the pier.","(ｶｶｼ)
 舟が桟橋に着く前に➡
 
-",Before the spring arrives on the pier,0.1875
+",Before the spring arrives on the pier,0.1875,0.7137805
 "The identity of your assailants,
 and the reason why they are after you.","(ｶｶｼ)
 あなたを襲う者の正体➡
 
-",The true character of the person who attacks you,0.15789473684210525
+",The true character of the person who attacks you,0.15789473684210525,0.389672
 "our mission may end
 when you make landfall.","聞いておかなければ
 ならないことがあります
@@ -135,7 +135,7 @@ when you make landfall.","聞いておかなければ
 
 ","If you ask
 There may be no
-.",0.21428571428571427
+.",0.21428571428571427,0.101338744
 "Frankly, I'd like you to listen.","いや
  
 ぜひ聞いてもらいたい
@@ -146,10 +146,10 @@ There may be no
  
 I want to ask by all means
 .
-➡",0.1875
+➡",0.1875,0.21531451
 "Just as you said,","あんたらの言うとおり➡
 
-",As you say,0.3333333333333333
+",As you say,0.3333333333333333,0.7201146
 "this may be beyond
 the scope of your mission.","恐らく
  
@@ -163,7 +163,7 @@ the scope of your mission.","恐らく
 This job is
 Let's go out of mission
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.5637772
 "Actually, I am being targeted
 by a terrifying man.","実は
  
@@ -171,7 +171,7 @@ by a terrifying man.","実は
 
 ","actually
  
-I'm superior man",0.23076923076923078
+I'm superior man",0.2307692307692308,0.32195505
 A terrifying man?,"(ｶｶｼ)
 超恐ろしい男？
 (ﾀｽﾞﾅ)
@@ -181,11 +181,11 @@ A terrifying man?,"(ｶｶｼ)
 ","Superfront man?
 
 Ah
-.",0.2857142857142857
+.",0.2857142857142857,0.2508127
 Who?,"(ｶｶｼ)
 誰です？
 
-",Who?,1.0
+",Who?,1.0,1.0000005
 "You guys have probably heard at
 least his name before.","あんたらも
  
@@ -197,7 +197,7 @@ least his name before.","あんたらも
  
 About the name
 I have heard that I have heard
-.",0.25
+.",0.25,0.54264736
 What? Gato... of the Gato Company?,"(ｶｶｼ)
 えっ
  
@@ -207,12 +207,12 @@ What? Gato... of the Gato Company?,"(ｶｶｼ)
 ","eh
  
 Gateau
-Is that Gateau Company?➡",0.16666666666666666
+Is that Gateau Company?➡",0.16666666666666666,0.33303612
 One of the world's richest men?,"世界有数の大金持ちといわれる…
 ｡
 
 ","It is said that the world is one of the world's leading gold ...
-.",0.3125
+.",0.3125,0.40449193
 Who? What?,"ん～
  
 誰
@@ -231,21 +231,21 @@ Who?
  
 what
  
-what?",0.75
+what?",0.75,0.5976061
 Yes...,"そう
  
 表向きは➡
 
 ","Yes
  
-Floor side",0.25
+Floor side",0.25,0.26478705
 "Moreover, he runs a despicable business,","あくどい商売を
 なりわいとしている男じゃ
 ｡
 
 ","Akudo business
 A man who is worried
-.",0.15384615384615385
+.",0.15384615384615385,0.41682288
 It was about one year ago...,"１年ほど前じゃ
  
 そんな
@@ -256,14 +256,14 @@ It was about one year ago...,"１年ほど前じゃ
  
 Such
  
-The guy is",0.36363636363636365
+The guy is",0.3636363636363637,0.6716281
 "He used his wealth and violence
 to enter this country,","裏ではギャングや忍を使い➡
 
-",Back to use gang and Shinobu,0.13333333333333333
+",Back to use gang and Shinobu,0.13333333333333333,0.11549896
 "and before anyone knew it,","企業や国の乗っ取りといった➡
 
-",It was said that companies and countries,0.18181818181818182
+",It was said that companies and countries,0.18181818181818185,0.2032144
 "he had taken complete control of the island's
 maritime transportation and shipping.","麻薬や禁制品の密売
  
@@ -271,25 +271,25 @@ maritime transportation and shipping.","麻薬や禁制品の密売
 
 ","Seal of drugs and forbidden goods
  
-The end is ➡",0.15
+The end is ➡",0.15,0.11869331
 "Having a tight grip on the ocean, in an
 island nation like the Land of the Waves,","波の国のような島国で
 海を牛耳るということは➡
 
 ","In the island country like the country of waves
-It means that the sea beef",0.2727272727272727
+It means that the sea beef",0.2727272727272727,0.6410275
 is the completion of the bridge...,"橋の完成なのじゃ
 ｡
 
 ","It's completed the bridge
-.",0.2
+.",0.2,0.90034485
 I see.,"そっか
  
 それで➡
 
 ","I see
  
-Then",0.5
+Then",0.5,0.75016177
 "Since you're the one building the bridge,
 you've become a hindrance.","橋を作ってる
  
@@ -301,7 +301,7 @@ you've become a hindrance.","橋を作ってる
  
 Uncle
 I'm getting in the way
-.",0.2
+.",0.2,0.495388
 "Then, those Ninjas from before
 were Gato's men...?","う～ん…
  
@@ -309,7 +309,7 @@ were Gato's men...?","う～ん…
 
 ","Hmm ...
  
-Yeah?",0.14285714285714285
+Yeah?",0.14285714285714285,0.18556863
 But I don't understand.,"(ｶｶｼ)
 しかし
  
@@ -321,7 +321,7 @@ But I don't understand.,"(ｶｶｼ)
  
 I do not know
 .
-➡",0.3
+➡",0.3,0.40748435
 "Your opponent is a dangerous one,
 who will even use Ninja.","相手は忍すら使う
  
@@ -333,7 +333,7 @@ who will even use Ninja.","相手は忍すら使う
  
 Dangerous opponent
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.58993703
 "Why did you hide that fact from us
 when you made your request?","なぜ
  
@@ -343,10 +343,10 @@ when you made your request?","なぜ
 ","why
  
 Hiding it
-Were you asked?",0.17647058823529413
+Were you asked?",0.17647058823529413,0.6177486
 The Land of the Waves...,"波の国は➡
 
-",The country of waves is ➡,0.375
+",The country of waves is ➡,0.375,0.64788413
 "Of course, we ordinary citizens
 have no money either.","(ﾀｽﾞﾅ)
 もちろん
@@ -359,7 +359,7 @@ have no money either.","(ﾀｽﾞﾅ)
  
 There is no money for others
 .
-➡",0.3125
+➡",0.3125,0.6400655
 "We cannot afford to make requests of
 Rank B or higher...","高額なＢランク以上の依頼を
 するような金はない
@@ -369,23 +369,23 @@ Rank B or higher...","高額なＢランク以上の依頼を
 ","Request for higher B rank or higher
 There is no money
 .
-➡",0.19047619047619047
+➡",0.19047619047619047,0.7286202
 "Well, if you pull out
 of the mission when I land ashore,","わしの上陸と同時に
 取りやめれば➡
 
 ","At the same time as landing
-If you take it",0.15
+If you take it",0.15,0.54471695
 Killed sometime before I make it home.,"家にたどりつくまでの間にな
 ｡
 
 ","Before you get home
-.",0.3
+.",0.3,0.45222795
 Oh!,"泣いて泣いて
 泣きまくるだけじゃ！
 
 ","Crying and crying
-Just crying!",0.2
+Just crying!",0.2,0.21282184
 "And... my daughter will only blame
 the Hidden Leaves Ninja","あ～
  
@@ -399,13 +399,13 @@ the Hidden Leaves Ninja","あ～
 in addition
  
 Also my daughter
-A ninja of the wooden leaf lifetime",0.19047619047619047
+A ninja of the wooden leaf lifetime",0.19047619047619047,0.64825225
 "for the rest of her life
 and grieve in solitude!","恨んで恨んで恨みまくって
 寂しく生きていくだけじゃ！
 
 ","I'm jealous of myself
-Just lonely life!",0.17647058823529413
+Just lonely life!",0.17647058823529413,0.3073415
 "Oh, it's not your fault at all!","(ﾀｽﾞﾅ)
 いや
  
@@ -417,7 +417,7 @@ Just lonely life!",0.17647058823529413
  
 what
 It's not because of you
-.",0.1875
+.",0.1875,0.35148793
 Let's continue as his bodyguards.,"(ｶｶｼ)
 まっ
  
@@ -429,17 +429,17 @@ Let's continue as his bodyguards.,"(ｶｶｼ)
  
 It's not
 Continue to escort
-.",0.25
+.",0.25,0.34390524
 We'll be arriving soon.,"もうすぐ到着だ
 ｡
 
 ","It will arrive soon
-.",0.2222222222222222
+.",0.2222222222222222,0.6957122
 Thanks.,"すまんな
 ｡
 
 ","Sincerely
-.",0.3333333333333333
+.",0.3333333333333333,0.44489473
 This is as far as I go.,"ああ
  
 超悪かったな
@@ -448,7 +448,7 @@ This is as far as I go.,"ああ
 ","Ah
  
 I was very excited
-.",0.18181818181818182
+.",0.18181818181818185,0.09076494
 Right.,"(
 カジ
 )
@@ -456,14 +456,14 @@ Right.,"(
 ｡
 
 ","Grid
-.",0.3333333333333333
+.",0.3333333333333333,0.29915464
 "<i>When they next attack,</i>
 <i>it won't be Chunin, but elite level Jonin.</i>","(ｶｶｼ)
 《次にヤツらが
 襲ってくるとしたら➡
 
 ","""Next, guys
-If you hit it",0.13043478260869565
+If you hit it",0.13043478260869565,0.21699388
 "<i>I won't let this guy do</i>
 <i>all the fun stuff anymore!</i>","《もう
  
@@ -477,10 +477,10 @@ If you hit it",0.13043478260869565
 In this guy
 Good cousin
  
-I'm sorry",0.13043478260869565
+I'm sorry",0.13043478260869565,0.17412913
 There!,"わぁ～！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.35078976
 "There was nothing there
 in the first place!","そんなとこ初めっから
 何にもいないわよ
@@ -488,7 +488,7 @@ in the first place!","そんなとこ初めっから
 
 ","From the first time
 I have nothing to do
-.",0.2
+.",0.2,0.38177532
 Don't use Kunai Knives recklessly.,"(ｶｶｼ)
 頼むからナルト
 やたらめったら
@@ -502,12 +502,12 @@ If you try
  
 Do not use Kunai
 .
-➡",0.25
+➡",0.25,0.42511165
 They're really dangerous.,"マジで危ない
 ｡
 
 ","Seriously dangerous
-.",0.3333333333333333
+.",0.3333333333333333,0.7128128
 "Hey brat!
 Don't be doing anything confusing!","こら
  
@@ -517,7 +517,7 @@ Don't be doing anything confusing!","こら
 ","Hey
  
 Chibi!
-It's confusing!",0.25
+It's confusing!",0.25,0.5200406
 "No, over here?!","いや
  
 こっちか？
@@ -530,14 +530,14 @@ It's confusing!",0.25
 Is it here?
  
 Hmm…
-.",0.18181818181818182
+.",0.18181818181818185,0.17930233
 Yeah right!,"そこ！
  
 フハ～！
 
 ","There!
  
-Fuha!",0.2
+Fuha!",0.2,0.38349822
 "Naruto!
 What have you done?!","ナルト！
  
@@ -547,14 +547,14 @@ What have you done?!","ナルト！
 ","Naruto!
  
 What is it?
-.",0.4
+.",0.4,0.742087
 It's a bunny!,"だから
  
 やめろ！
 
 ","that's why
  
-Stop!",0.25
+Stop!",0.25,0.23194914
 I'm sorry.,"ごめんよ
  
 そんなつもりは…
@@ -563,7 +563,7 @@ I'm sorry.,"ごめんよ
 ","Sorry
  
 Such intention ...
-.",0.2857142857142857
+.",0.2857142857142857,0.4079527
 "It's just a rabbit, eh.","(ｶｶｼ)
 《あれはユキウサギだ
 ｡
@@ -571,7 +571,7 @@ Such intention ...
 
 ","""That's Yuki Rabbit
 .
-➡",0.25
+➡",0.25,0.5105385
 "<i>But that doesn't explain</i>
 <i>its fur color...</i>","だが
  
@@ -579,7 +579,7 @@ Such intention ...
 
 ","But
  
-What is that hair color?➡",0.16666666666666666
+What is that hair color?➡",0.16666666666666666,0.6147221
 "<i>The coat turns white only during winter</i>
 <i>when there is little sunlight.</i>","白い毛並みは
 日照時間の短い
@@ -589,36 +589,36 @@ What is that hair color?➡",0.16666666666666666
 ","White hair
 Short daylight time
  
-Winter thing is pretty",0.13636363636363635
+Winter thing is pretty",0.13636363636363635,0.56738544
 "<i>that snow rabbit was raised indoors</i>
 <i>without sunlight to be used as a substitution.</i>","あれは日の当たらない
 室内で育てられた➡
 
 ","That does not hit the day
-I was raised in the room",0.16
+I was raised in the room",0.16,0.30748385
 I'm sorry...,"ごめんよ
 ｡
 
 ","Sorry
-.",0.2
+.",0.2,0.5174725
 "<i>The Copy Ninja from the</i>
 <i>Village of the Hidden Leaves.</i>","木ノ葉隠れのコピー忍者➡
 
-",Copy of Ko no Hidden Ninja,0.2857142857142857
+",Copy of Ko no Hidden Ninja,0.2857142857142857,0.69643414
 "<i>""Sharingan"" Kakashi is with them...</i>","(ｶｶｼ)
 《となると➡
 
-","""If it becomes""",0.06666666666666667
+","""If it becomes""",0.06666666666666668,0.005413923
 "Everyone, get down!","あっ！
 
-",Ah!,0.16666666666666666
+",Ah!,0.16666666666666666,0.15176417
 "<i>If I'm not mistaken, he's...</i>","(ｶｶｼ)
 《あいつは確か…》
 
-","""He is sure ...""",0.125
+","""He is sure ...""",0.125,0.2548665
 <i>I won't lose to Sasuke!</i>,"サスケには負けねえぞ！》
 
-","You can lose to Sasuke!""",0.3076923076923077
+","You can lose to Sasuke!""",0.3076923076923077,0.9032688
 "Well, well.","(
 一同
 )
@@ -626,11 +626,11 @@ I'm sorry...,"ごめんよ
 ｡
 
 ","Ah
-.",0.25
+.",0.25,0.3480892
 "If it isn't the Rogue Ninja
 of the Hidden Mist, Zabuza Momochi!","桃地再不斬君じゃないですか？
 
-",Isn't it a reunion of Momo?,0.2222222222222222
+",Isn't it a reunion of Momo?,0.2222222222222222,0.33419797
 You're in the way.,"(ｶｶｼ)
 邪魔だ
 ｡
@@ -638,7 +638,7 @@ You're in the way.,"(ｶｶｼ)
 
 ","in the way
 .
-➡",0.5714285714285714
+➡",0.5714285714285714,0.6449274
 Why?!,"下がってろ
  
 お前ら
@@ -649,7 +649,7 @@ Why?!,"下がってろ
  
 You guys
 .
-why!?",0.375
+why!?",0.375,0.24995127
 "He's on a totally different level from
 the guys from the other day.","(ｶｶｼ)
 こいつは
@@ -658,7 +658,7 @@ the guys from the other day.","(ｶｶｼ)
 
 ","This guy
 The digit is different from the guys during this time
-.",0.2631578947368421
+.",0.2631578947368421,0.3162516
 Oh.,"あ…
 ｡
 あ～
@@ -667,12 +667,12 @@ Oh.,"あ…
 ","Ah…
 .
 Oh ~
-.",0.5
+.",0.5,0.6633574
 "I assume you are Kakashi,
 the Sharingan user...","(ｶｶｼ)
 《こいつが相手となると…》
 
-","""When this is the other party ...""",0.11764705882352941
+","""When this is the other party ...""",0.1176470588235294,0.09482126
 "<i>Huh? Huh? Sharingan?</i>
 <i>What's that?</i>","《え…
  
@@ -690,21 +690,21 @@ picture?
 Middle-ring eyes?
 What?
  
-That""",0.1875
+That""",0.1875,0.19813557
 <i>What? What is he talking about?</i>,"《何よ
  
 何言ってんの？➡
 
 ","""What
  
-What are you talking about?➡",0.2857142857142857
+What are you talking about?➡",0.2857142857142857,0.50561666
 <i>Is this guy strong?</i>,"こいつ強いの？》
 (ﾀｽﾞﾅ)
 《写輪眼…》
 
 ","Is this strong?""
 
-""Machine eyes ...""",0.2857142857142857
+""Machine eyes ...""",0.2857142857142857,0.51246554
 "Get in Manji battle formation, you guys.","(ｶｶｼ)
 お前ら
  
@@ -716,14 +716,14 @@ What are you talking about?➡",0.2857142857142857
  
 It's a team
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.21303147
 Don't involve yourselves in the fight.,"お前たちは戦いに加わるな
 ｡
 え？
 
 ","You do not join the battle
 .
-picture?",0.21428571428571427
+picture?",0.21428571428571427,0.49715003
 "That's the teamwork
 in this situation.","(ｶｶｼ)
 それが
@@ -732,13 +732,13 @@ in this situation.","(ｶｶｼ)
 
 ","that is
 It is a teamwork here
-.",0.25
+.",0.25,0.7786311
 Fight me.,"(ｶｶｼ)
 俺と戦え
 ｡
 
 ","Fight with me
-.",0.75
+.",0.75,0.88222694
 <i>W-What's this eye...?</i>,"《な…
  
 何だ？
@@ -749,7 +749,7 @@ Fight me.,"(ｶｶｼ)
  
 What?
  
-This eye",0.3333333333333333
+This eye",0.3333333333333333,0.63994265
 This is an honor.,"早速
  
 見られるとは光栄だね
@@ -758,7 +758,7 @@ This is an honor.,"早速
 ","immediately
  
 It is an honor to be seen
-.",0.4
+.",0.4,0.6210197
 What is it?!,"さっきっから写輪眼
  
 写輪眼って
@@ -771,17 +771,17 @@ What is it?!,"さっきっから写輪眼
 Sinking
 What?
  
-That!",0.25
+That!",0.25,0.20383401
 "Power that the light of the eye generates,
 and the pupil emanates.","瞳が発する力
 ｡
 
 ","The power that pupil emits
-.",0.38461538461538464
+.",0.38461538461538464,0.8353163
 "The user of
 the so-called Visual Jutsu","いわゆる瞳術の使い手は➡
 
-",The use of so-called pupils is ➡,0.3
+",The use of so-called pupils is ➡,0.3,0.22342879
 "Is said to possess the vision to see through
 all Genjutsu ,","(
 再不斬
@@ -790,7 +790,7 @@ all Genjutsu ,","(
 うわさに聞く写輪眼を➡
 
 ","Ho
-The moss eyes to hear",0.13333333333333333
+The moss eyes to hear",0.13333333333333333,0.22641489
 "Taijutsu ,
 and Ninjutsu ,","すべての幻術
  
@@ -802,28 +802,28 @@ and Ninjutsu ,","すべての幻術
  
 Taijutsu
   
-Ninjutsu",0.3333333333333333
+Ninjutsu",0.3333333333333333,0.60198313
 to the user of the Visual Art.,"瞳の種類の一つ
 ｡
 
 ","One of the types of pupil
-.",0.3
+.",0.3,0.21618547
 Well said.,"眼力を持つという
 ｡
 
 ","Having toughness
-.",0.2
+.",0.2,0.18258125
 That is not all.,"それだけじゃない
 ｡
 え？
 
 ","Not only that
 .
-picture?",0.375
+picture?",0.375,0.38517314
 "What's more frightening is that
 such an eye","その眼で相手の技を見極め➡
 
-",Identify the opponent's skill with that eye ➡,0.2
+",Identify the opponent's skill with that eye ➡,0.2,0.42946056
 "When I was in the Anbu Black Ops
 of the Hidden Mist,","(
 再不斬
@@ -832,22 +832,22 @@ of the Hidden Mist,","(
 霧隠れの暗殺部隊にいた頃➡
 
 ","I am
-When I was in the assassination unit of the fog",0.375
+When I was in the assassination unit of the fog",0.375,0.53183925
 "There was also something
 else in the book...","携帯していた手配帳に➡
 
-",In the carried arrangement book,0.2727272727272727
+",In the carried arrangement book,0.2727272727272727,0.3720056
 "About the man who has copied
 over one thousand skills...","｢1,000
 以上の術をコピーした男➡
 
 ","""1,000
-A man who copied more",0.2
+A man who copied more",0.2,0.6610605
 Kakashi the Copy Ninja.,"コピー忍者のカカシ
 ｣｡
 
 ","Copy Ninja Kakashi
-"".",0.6666666666666666
+"".",0.6666666666666666,0.91692466
 "<i>What? Kakashi Sensei</i>
 <i>is that incredible a Ninja?</i>","《何なの？
  
@@ -855,17 +855,17 @@ Kakashi the Copy Ninja.,"コピー忍者のカカシ
 
 ","""What's?
  
-Mr. Kakashi teacher",0.17647058823529413
+Mr. Kakashi teacher",0.17647058823529413,0.5188604
 W-Wow!,"す…
  
 すっげぇってばよ！
 
 ","vinegar…
  
-It's huge!",0.16666666666666666
+It's huge!",0.16666666666666666,0.21527621
 <i>What does this mean?</i>,"《どういうことだ？➡
 
-","""What does it mean?➡",0.3333333333333333
+","""What does it mean?➡",0.3333333333333333,0.4886064
 <i>The Sharingan...is a special trait</i>,"一部の者にだけ表れる
 特異体質だぞ
 ｡
@@ -874,7 +874,7 @@ It's huge!",0.16666666666666666
 ","Visit only for some people
 It is a singular constitution
 .
-➡",0.09523809523809523
+➡",0.09523809523809523,0.18910782
 Let's end the talking here.,"(
 再不斬
 )
@@ -886,7 +886,7 @@ Let's end the talking here.,"(
 ","The story is
 Let's go around
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.3574387
 "But, Kakashi, it seems
 I have to defeat you first.","お前を倒さなきゃ
 ならねえようだな
@@ -894,13 +894,13 @@ I have to defeat you first.","お前を倒さなきゃ
 
 ","I have to defeat you
 If not
-.",0.42857142857142855
+.",0.42857142857142855,0.5476282
 <i>He's building up quite a bit of Chakra!</i>,"(ｶｶｼ)
 《かなりのチャクラを
 練り込んでやがる》
 
 ","""A pretty chakra
-I will do it",0.15789473684210525
+I will do it",0.15789473684210525,0.63965154
 "Ninja Art, Hidden Mist Jutsu.","(
 再不斬
 )
@@ -912,7 +912,7 @@ I will do it",0.15789473684210525
 ","Ninja method
  
 Foggy Truck
-.",0.2
+.",0.2,0.49905977
 He's vanished?!,"あそこだ！
 しかも
  
@@ -921,10 +921,10 @@ He's vanished?!,"あそこだ！
 ","That's right!
 Morely
  
-Water!?",0.3333333333333333
+Water!?",0.3333333333333333,0.09240706
 Sensei!,"先生！
 
-",teacher!,0.3333333333333333
+",teacher!,0.3333333333333333,0.2844239
 He'll probably come to erase me first...,"(ｶｶｼ)
 まずは
 俺を消しに来るだろうが…
@@ -932,19 +932,19 @@ He'll probably come to erase me first...,"(ｶｶｼ)
 
 ","First
 I will come to erase me ...
-.",0.5
+.",0.5,0.71461266
 What is he?,"あいつ
  
 何なの？
 
 ","that person 
  
- What's?",0.2857142857142857
+ What's?",0.2857142857142857,0.49879953
 Zabuza Momochi.,"消えた
 ｡
 
 ","Had disappeared
-.",0.2
+.",0.2,0.080406785
 "is known as ""the silent killing""
 technique expert.","無音殺人術の達人として
 知られた男だ
@@ -952,7 +952,7 @@ technique expert.","無音殺人術の達人として
 
 ","As a master of non-sound killing art
 He is a man who is known
-.",0.2631578947368421
+.",0.2631578947368421,0.5275446
 As the name suggests...,"サ…
  
 サイレン…？
@@ -967,7 +967,7 @@ siren…?
 
 The name
  
-Silence ➡➡",0.2
+Silence ➡➡",0.2,0.17906676
 "it's a killing skill that's implemented
 in an instant in silence.","一瞬のうちに遂行する
 殺人術のことだ
@@ -975,7 +975,7 @@ in an instant in silence.","一瞬のうちに遂行する
 
 ","Do it in a moment
 It is a murderer
-.",0.25
+.",0.25,0.24018013
 "I haven't totally mastered
 the use of my Sharingan.","俺も写輪眼をすべて
  
@@ -989,12 +989,12 @@ the use of my Sharingan.","俺も写輪眼をすべて
 successfully
 I can not use it
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.3368792
 "So don't lower your guard, you guys.","お前たちも気を抜くな
 ｡
 
 ","Don't worry about you
-.",0.3333333333333333
+.",0.3333333333333333,0.27741382
 "Well, if we fail, we'll only die.","(ｶｶｼ)
 まっ
  
@@ -1004,18 +1004,18 @@ I can not use it
 ","Mine
  
 I just die even if it is no good
-.",0.17647058823529413
+.",0.17647058823529413,0.34244722
 The mist is steadily getting thicker!,"どんどん
 霧が濃くなっていくってばよ
 ｡
 
 ","More and more
 The mist is getting darker
-.",0.36363636363636365
+.",0.3636363636363637,0.7135249
 "The Land of the Waves
 is surrounded by ocean.","波の国は海に囲まれとるから➡
 
-",Because the country of waves is surrounded by the sea,0.5
+",Because the country of waves is surrounded by the sea,0.5,0.7823075
 Huh? What?,"(
 再不斬
 )
@@ -1029,7 +1029,7 @@ Huh? What?,"(
 .
 eh
  
-What's?",0.25
+What's?",0.25,0.18617289
 "The larynx, the spine,
 the lungs, the liver...","(
 再不斬
@@ -1048,7 +1048,7 @@ Spine
   
 lung
  
-Liver ➡",0.3333333333333333
+Liver ➡",0.3333333333333333,0.7402866
 "The kidneys, the heart.","腎臓
  
 心臓
@@ -1059,7 +1059,7 @@ Liver ➡",0.3333333333333333
  
 heart
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.81848556
 "Now then, which vulnerable spot
 would be good?","さて
  
@@ -1067,17 +1067,17 @@ would be good?","さて
 
 ","Now
  
-Which hurry?",0.2727272727272727
+Which hurry?",0.2727272727272727,0.22040041
 "<i>If I take even one breath,</i>
 <i>or move my eyes,</i>","呼吸の一回
 眼球の動き一つでさえ➡
 
 ","One time of breathing
-Even one movement of the eyeball",0.1
+Even one movement of the eyeball",0.1,0.60818505
 "<i>No way! I'd rather die</i>
 <i>to escape this feeling!</i>","死んで楽になりたいくらいだ！》
 
-","I want to be dead and easier!""",0.15
+","I want to be dead and easier!""",0.15,0.47751406
 Sasuke.,"(ｶｶｼ)
 サスケ
 ｡
@@ -1085,7 +1085,7 @@ Sasuke.,"(ｶｶｼ)
 
 ","Sasuke
 .
-➡",0.6666666666666666
+➡",0.6666666666666666,0.9094561
 "Don't worry.
 I'll protect you with my life.","安心しろ
  
@@ -1097,7 +1097,7 @@ I'll protect you with my life.","安心しろ
  
 You are
 I will protect even if I die
-.",0.35294117647058826
+.",0.35294117647058826,0.78163797
 "I will <i>not</i> allow
 my comrades to get killed.","(ｶｶｼ)
 俺の仲間は
@@ -1110,7 +1110,7 @@ my comrades to get killed.","(ｶｶｼ)
 absolutely
  
 I can not kill
-.",0.23529411764705882
+.",0.2352941176470588,0.43881688
 I wonder about that...,"(
 再不斬
 )
@@ -1120,27 +1120,27 @@ I wonder about that...,"(
 
 ","that is
  
-How about?",0.25
+How about?",0.25,0.24337889
 Die!,"(
 再不斬
 )
 うお～！
 
-",Uo!,0.3333333333333333
+",Uo!,0.3333333333333333,0.26839614
 <i>In this mist...</i>,"(
 再不斬
 )
 《この霧の中で…》
 
-","""In this mist ...""",0.4
+","""In this mist ...""",0.4,0.7468676
 Don't move.,"(ｶｶｼ)
 動くな
 ｡
 
 ","Freeze
-.",0.2
+.",0.2,0.3454023
 This pain.,"♬
  fakes or fears.
 
 ","♬
- Fakes or Fears.",0.14285714285714285
+ Fakes or Fears.",0.14285714285714285,0.15893085

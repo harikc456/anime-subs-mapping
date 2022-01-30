@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,51 +9,51 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.3182523
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490628
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818446
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120192
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.53447694
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.76468617
 "Hey, you there.","(ｻｽｹ)
 答える義務はないな
 ｡
 
 ","There is no obligation to answer
-.",0.2
+.",0.2,0.1361201
 What...?!,"何!?
 (ﾃﾝﾃﾝ)
 《フフ…
@@ -64,7 +64,7 @@ What...?!,"何!?
 
 ""Huff ...
  
-Tiny""",0.5
+Tiny""",0.5,0.2543959
 "So those are Kakashi and
 Guy's treasured brats...","(
 忍１
@@ -77,7 +77,7 @@ Guy's treasured brats...","(
 ","Fuhufu ...
 that
  
-Kakashi and Guy",0.3333333333333333
+Kakashi and Guy",0.3333333333333333,0.66099566
 "Well, for the time being,
 their applications will pass.","秘蔵っ子ってガキたちか
 ｡
@@ -85,7 +85,7 @@ their applications will pass.","秘蔵っ子ってガキたちか
 
 ","The treasured child is a girl
 .
-➡",0.11764705882352941
+➡",0.1176470588235294,-0.059135325
 "It appears this year's
 test takers will be amusing.","(ｺﾃﾂ)
 ことしの受験生は
@@ -94,7 +94,7 @@ test takers will be amusing.","(ｺﾃﾂ)
 
 ","The student
 It seems to be enjoyable
-.",0.2
+.",0.2,0.3319122
 "Now then!
 Sasuke, Naruto, let's go!","(ｻｸﾗ)
 さぁ
@@ -111,12 +111,12 @@ Sasuke
  
 Naruto
  
-I'm going!",0.23076923076923078
+I'm going!",0.2307692307692308,0.7651008
 Don't pull.,"引っ張るな
 ｡
 
 ","Pull
-.",0.5
+.",0.5,0.7941827
 Does that kid concern you?,"(ﾃﾝﾃﾝ)
 気になるの？
 あの子のこと
@@ -124,7 +124,7 @@ Does that kid concern you?,"(ﾃﾝﾃﾝ)
 
 ","Do you care?
 That girl
-.",0.3
+.",0.3,0.48507482
 What're you doing?,"リー
  
 行くわよ
@@ -135,7 +135,7 @@ What're you doing?,"リー
  
 I will go
  
-What are you doing?",0.4
+What are you doing?",0.4,0.44344196
 "You guys go on ahead.
 I have something I want to check out.","(
 リー
@@ -144,7 +144,7 @@ I have something I want to check out.","(
 ｡
 
 ","You go ahead
-.",0.3076923076923077
+.",0.3076923076923077,0.44145736
 What's that about?,"何なの？
 (
 ネジ
@@ -155,7 +155,7 @@ What's that about?,"何なの？
 ","What's?
 
 Do you know
-.",0.3333333333333333
+.",0.3333333333333333,0.44481274
 "You, with the unpleasant look.
 Wait a minute!","≪
 (
@@ -167,11 +167,11 @@ Wait a minute!","≪
 ","«
 
 Bad-you're a bad girl!
-wait a moment!",0.17647058823529413
+wait a moment!",0.17647058823529413,0.39063507
 Huh?,"(ﾅﾙﾄ･ｻｸﾗ)
 ん？
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.7790129
 "- Oh!
 - Yikes!","(ﾅﾙﾄ)
 おっ
@@ -180,10 +180,10 @@ Huh?,"(ﾅﾙﾄ･ｻｸﾗ)
 
 ","Oh
 .
-Get!",0.3333333333333333
+Get!",0.3333333333333333,0.3631779
 What is it?,"何だ？
 
-",What?,0.5
+",What?,0.5,0.43106046
 "Why don't you fight with me
 here now?","今ここで
  
@@ -191,20 +191,20 @@ here now?","今ここで
 
 ","Now here
  
-Would you like to play with me?",0.42857142857142855
+Would you like to play with me?",0.42857142857142855,0.49265888
 A fight here now...?,"今ここで
  
 勝負だと？
 
 ","Now here
  
-Is it a match?",0.4444444444444444
+Is it a match?",0.4444444444444444,0.52860713
 Yes.,"(
 リー
 )
 はい！
 
-",Yes!,0.3333333333333333
+",Yes!,0.3333333333333333,0.7399909
 My name's Rock Lee.,"僕の名は
  
 ロック
@@ -219,19 +219,19 @@ rock
 ·
 Lee
 .
-➡",0.5555555555555556
+➡",0.5555555555555556,0.8311099
 "When asking a person their name,","人に名を尋ねるときには➡
 
-",When asking people to name,0.3333333333333333
+",When asking people to name,0.3333333333333333,0.9103144
 "I'm supposed to give
 my own name first, right?","自分から
 名乗るもんでしたよね？➡
 
 ","From yourself
-It was a name of the name, right?➡",0.2
+It was a name of the name, right?➡",0.2,0.532758
 I want to fight with you!,"君と戦いたい！➡
 
-",I want to fight you!➡,0.75
+",I want to fight you!➡,0.75,0.91910607
 "I want to test out how effective
 my techniques will be","僕の技が
 どこまで通用するのか試したい
@@ -239,13 +239,13 @@ my techniques will be","僕の技が
 
 ","My technique
 I want to try it
-.",0.26666666666666666
+.",0.26666666666666666,0.65738744
 "against the descendant of the
 clan reputed for genius Ninjas.","あの天才忍者とうたわれた
 一族の末えいに➡
 
 ","That genius Ninja
-In the end of the family",0.2
+In the end of the family",0.2,0.60868865
 Sakura. Love.,"サクラさん
  
 ラブ
@@ -254,14 +254,14 @@ Sakura. Love.,"サクラさん
 ","Mr. Sakura
  
 love
-.",0.75
+.",0.75,0.88485765
 "The hairstyle is awful, too!","濃すぎるのよ
  
 何もかも！
 
 ","It's too dark
  
-Nothing!",0.18181818181818182
+Nothing!",0.18181818181818185,0.3335799
 You're an angel!,"天使だ
  
 君は
@@ -270,17 +270,17 @@ You're an angel!,"天使だ
 ","Angel
  
 You are
-.",0.2857142857142857
+.",0.2857142857142857,0.7070754
 Noooooo!,"う～！
 
-",!,0.5
+",!,0.5,0.4729762
 <i>Really... That was super close.</i>,"《マジ
  
 危ねぇ》
 
 ","""Really
  
-""",0.08333333333333333
+""",0.08333333333333333,0.33934996
 I was dodging for my life!,"何か
  
 命懸けで
@@ -289,12 +289,12 @@ I was dodging for my life!,"何か
 ","something
  
 In life
-I'm not good!",0.25
+I'm not good!",0.25,0.38416877
 You don't have to resent me that much.,"そんなに嫌がらなくても…
 ｡
 
 ","Even if you don't hate it so much ...
-.",0.3125
+.",0.3125,0.237974
 "<i>It's Sasuke again!</i>
 <i>Darn it! Darn it!</i>","《またまたサスケじゃん
 クソ～
@@ -304,7 +304,7 @@ You don't have to resent me that much.,"そんなに嫌がらなくても…
 ","""Sasuke again
 Fucking ~
  
-Fucking ~!""",0.21428571428571427
+Fucking ~!""",0.21428571428571427,0.69941294
 "Do you want to realize
 what this name is, Bushy Brow?","この名が
  
@@ -320,14 +320,14 @@ Anymore
 Do you know?
  
 Gejima Yu
-.",0.2777777777777778
+.",0.2777777777777778,0.2934993
 I insist.,"うちはの名を知ってて
 挑んでくるなんてな
 ｡
 
 ","Know your name
 I'm going to challenge
-.",0.2
+.",0.2,0.221153
 "<i>to be able to have a bout with</i>
 <i>the number one rookie right away.</i>","(
 リー
@@ -336,7 +336,7 @@ I'm going to challenge
 ナンバーワンルーキーと➡
 
 ","""Tsui
-Number One Rookie and ➡",0.14285714285714285
+Number One Rookie and ➡",0.14285714285714285,0.48254496
 "<i>And, I'll prove it to you, Guy Sensei!</i>","そして
  
 証明してやります
@@ -345,10 +345,10 @@ Number One Rookie and ➡",0.14285714285714285
 ","and
  
 I will prove
-Guy teacher",0.25
+Guy teacher",0.25,0.4412347
 Wait!,"待て！
 
-",wait!,1.0
+",wait!,1.0,1.0000002
 "I AM going to take out
 the Bushy Brow. Believe it!","ゲジマユは
  
@@ -358,7 +358,7 @@ the Bushy Brow. Believe it!","ゲジマユは
 ","Gezimayu
  
 I will do it
-.",0.1875
+.",0.1875,0.16743323
 "The one I want to fight isn't you...
 It's Uchiha.","僕が戦いたいのは君じゃない
 うちはです
@@ -366,7 +366,7 @@ It's Uchiha.","僕が戦いたいのは君じゃない
 
 ","I'm not a boy who wants to fight
 It is
-.",0.3
+.",0.3,0.50316995
 "keep saying Sasuke, Sasuke.
 How annoying!","サスケ
  
@@ -376,10 +376,10 @@ How annoying!","サスケ
 ","Sasuke
  
 Sasuke
-If you're going to go!",0.14285714285714285
+If you're going to go!",0.14285714285714285,0.74449855
 Leaf Whirlwind!,"タァ！
 
-",Da!,0.25
+",Da!,0.25,0.18176626
 "<i>As I thought, he's strong...</i>","《やっぱ
  
 こいつ
@@ -390,7 +390,7 @@ Leaf Whirlwind!,"タァ！
  
 this guy
  
-strong""",0.2
+strong""",0.2,0.6070715
 "I declare. You are absolutely
 no match for me.","宣言します
  
@@ -404,7 +404,7 @@ no match for me.","宣言します
 You are to me
 It is absolutely not
 .
-➡",0.3125
+➡",0.3125,0.33813944
 Because...,"なぜなら…
 ｡
 クッ…
@@ -413,7 +413,7 @@ Because...,"なぜなら…
 ","because…
 .
 Ku ...
-.",0.2
+.",0.2,0.43389723
 "among the Leaf Village Genin,
 I'm the strongest now.","今
  
@@ -425,21 +425,21 @@ I'm the strongest now.","今
  
 I
  
-Among the Shimonobu of the wooden leaves",0.26666666666666666
+Among the Shimonobu of the wooden leaves",0.26666666666666666,0.41176808
 <i>He stopped my kick...</i>,"＜俺の蹴りを…
 ｡
 ➡
 
 ","<My kick ...
 .
-➡",0.36363636363636365
+➡",0.3636363636363637,0.7428742
 <i>What's with that Chakra in his arm...?</i>,"何だ？
  
 こいつの腕のチャクラは＞
 
 ","What?
  
-The chakra of this arm is>",0.2777777777777778
+The chakra of this arm is>",0.2777777777777778,0.8464577
 Interesting. I'll do it.,"フッ
  
 おもしろい
@@ -452,7 +452,7 @@ Interesting. I'll do it.,"フッ
 Interesting
  
 Do
-.",0.42857142857142855
+.",0.42857142857142855,0.23923007
 Stop! Sasuke!,"やめて
  
 サスケ君
@@ -461,18 +461,18 @@ Stop! Sasuke!,"やめて
 ","stop
  
 Sasuke
-.",0.5
+.",0.5,0.90086704
 Don't worry.,"心配するな
 ｡
 
 ","Do not worry
-.",0.6
+.",0.6,0.8697767
 Leaf Hurricanes!,"(
 リー
 )
 木ノ葉旋風！
 
-",Taiwan leaf play!,0.4
+",Taiwan leaf play!,0.4,0.532554
 "<i>I can't get completely out</i>
 <i>of the way...</i>","受け付けの３時までに
 あと
@@ -482,23 +482,23 @@ Leaf Hurricanes!,"(
 ","By 3 o'clock of acceptance
 another thing
 30
-Isn't there anything wrong?",0.08
+Isn't there anything wrong?",0.08,0.09821849
 <i>Guard!</i>,"(
 リー
 )
 《来た！➡
 
-","""I came!➡",0.2222222222222222
+","""I came!➡",0.2222222222222222,0.35436547
 <i>What...?!</i>,"何!?
  
 うわ！》
 
 ","what!?
  
-Wow!""",0.3
+Wow!""",0.3,0.3478036
 Sasuke!,"サスケ君！
 
-",Sasuke-kun!,0.3333333333333333
+",Sasuke-kun!,0.3333333333333333,0.84763235
 "<i>But...he did guard himself</i>
 <i>just now, no mistake.</i>","《今
  
@@ -508,7 +508,7 @@ Sasuke!,"サスケ君！
 ","""now
  
 surely
-I should have guarded """,0.1
+I should have guarded """,0.1,0.45640078
 "<i>Is it Ninjutsu...?</i>
 <i>Or is it Genjutsu...?!</i>","何だ？
  
@@ -518,7 +518,7 @@ I should have guarded """,0.1
 ","What?
  
 Is it Ninjutsu?
-Or it is an illusion?""",0.3125
+Or it is an illusion?""",0.3125,0.717145
 "<i>this is a good opportunity</i>
 <i>to get used to THAT.</i>","こうなったら
  
@@ -532,12 +532,12 @@ Or it is an illusion?""",0.3125
 That
 Usage
  
-Good chance """,0.15
+Good chance """,0.15,0.29767078
 I'll do it.,"やってやろうじゃねえか
 ｡
 
 ","Do you do it?
-.",0.42857142857142855
+.",0.42857142857142855,0.30211696
 "<i>Sasuke, when has he...</i>
 <i>Why is that in his eyes...</i>","何で
  
@@ -545,14 +545,14 @@ I'll do it.,"やってやろうじゃねえか
 
 ","why
  
-Sasuke's eyes?➡",0.15789473684210525
+Sasuke's eyes?➡",0.15789473684210525,0.82422686
 <i>And in both eyes...!</i>,"しかも
  
 両目》
 
 ","Morely
  
-Both eyes",0.18181818181818182
+Both eyes",0.18181818181818185,0.6849759
 <i>Is that the Sharingan?</i>,"《えっ
  
 まさか
@@ -563,35 +563,35 @@ Both eyes",0.18181818181818182
  
 Masadish
  
-That ➡",0.07692307692307693
+That ➡",0.07692307692307693,0.25525513
 "<i>If this is the same Kekkei Genkai</i>
 <i>as Kakashi Sensei's...</i>","これがカカシ先生のと同じ
 血継限界なら➡
 
 ","This is the same as Kakashi teacher
-If it is the hemodellant",0.3684210526315789
+If it is the hemodellant",0.3684210526315789,0.47452793
 "<i>It's some kind of magic either way...</i>
 <i>I'll reveal that!</i>","それを暴いてやる！》
 
-","I will go out of it!""",0.19047619047619047
+","I will go out of it!""",0.19047619047619047,0.23876694
 <i>The Sharingan...!</i>,"《えっ！
  
 写輪眼が…》
 
 ","""eh!
  
-Machine eyes ... """,0.16666666666666666
+Machine eyes ... """,0.16666666666666666,0.1473133
 "<i>To not be able to discern the Jutsu</i>
 <i>with the Sharingan...</i>","《写輪眼で見切れねえなんて！➡
 
-","""You can not stand with the moss!➡",0.14285714285714285
+","""You can not stand with the moss!➡",0.14285714285714285,0.09680269
 That's right...,"《そうよね
  
 サスケ君が➡
 
 ","""That's right
  
-Sasuke-kun",0.5
+Sasuke-kun",0.5,0.16016777
 "My technique is
 mere Taijutsu... Sasuke.","そう
  
@@ -599,7 +599,7 @@ mere Taijutsu... Sasuke.","そう
 
 ","Yes
  
-My technique is ➡",0.3
+My technique is ➡",0.3,0.6013862
 "You may not be able to
 believe it just like that, but...","にわかには
 信じられないかもしれませんが
@@ -607,10 +607,10 @@ believe it just like that, but...","にわかには
 
 ","Wear
 It may be unbelievable
-.",0.17647058823529413
+.",0.17647058823529413,0.2826471
 Punk!,"この！
 
-",this!,0.3333333333333333
+",this!,0.3333333333333333,0.3591356
 "the Sharingan reads Ninjutsu
 and Genjutsu that","写輪眼には
  
@@ -626,20 +626,20 @@ Illusion
  
 Taijutsu
   
-Ninjutsu",0.16666666666666666
+Ninjutsu",0.16666666666666666,0.44026512
 "require the principle of building up
 Chakra and weaving Signs,","チャクラを練るという
 法則性が必要な忍術や幻術は➡
 
 ","Take a chakra
-Ninjuts and illusions that require laws",0.17647058823529413
+Ninjuts and illusions that require laws",0.17647058823529413,0.49494082
 and can most surely handle such Jutsu.,"見破って
 確実に対処できるでしょう
 ｡
 
 ","In
 It will surely be dealt with
-.",0.14285714285714285
+.",0.14285714285714285,0.391904
 "However, only Taijutsu is
 a little bit different...","しかし
  
@@ -651,14 +651,14 @@ a little bit different...","しかし
  
 Only body articles
 It's a bit different
-.",0.3333333333333333
+.",0.3333333333333333,0.31711233
 W-What do you mean?!,"ど…
  
 どういうことだ？
 
 ","degree…
  
-What does it mean?",0.2
+What does it mean?",0.2,0.16171356
 "your body is not equipped with
 the speed to respond to my Taijutsu.","君の体は
  
@@ -668,7 +668,7 @@ the speed to respond to my Taijutsu.","君の体は
 ","Your body
  
 To my body
-Speed that can react",0.3125
+Speed that can react",0.3125,0.5635106
 "In other words, even if you understand
 with your eyes,","つまり
  
@@ -676,14 +676,14 @@ with your eyes,","つまり
 
 ","in short
  
-Even if you know with eyes",0.46153846153846156
+Even if you know with eyes",0.4615384615384616,0.652923
 Do you know?,"知っていますか？
  
 強いヤツには➡
 
 ","Do you know?
  
-In a strong guy",0.5
+In a strong guy",0.5,0.44055706
 "There are two types of strong people,
 genius types and effort types.","天才型と努力型がいます
 ｡
@@ -691,7 +691,7 @@ genius types and effort types.","天才型と努力型がいます
 
 ","There is a genius type and effort type
 .
-➡",0.3125
+➡",0.3125,0.6800191
 "If your Sharingan is
 a genius type drawing Uchiha ability...","君の写輪眼が
 うちはの能力を引く
@@ -701,7 +701,7 @@ a genius type drawing Uchiha ability...","君の写輪眼が
 ","Your mochi eyes
 Our ability
  
-If it is a genius type ➡",0.4375
+If it is a genius type ➡",0.4375,0.37407047
 "I'm an effort type who has
 patiently mastered only Taijutsu.","僕は
  
@@ -713,13 +713,13 @@ patiently mastered only Taijutsu.","僕は
  
 I'm just
 It is an effort type that has only works
-.",0.47058823529411764
+.",0.4705882352941176,0.5523991
 "your Sharingan and my ultimate
 Taijutsu have the worst compatibility...","僕の究極の体術は最悪の相性
 ｡
 
 ","My Ultimate Body Art is the worst
-.",0.26666666666666666
+.",0.26666666666666666,0.27145016
 Huh?! Dancing Leaf Shadow!,"あっ！
  
 か…
@@ -732,7 +732,7 @@ Huh?! Dancing Leaf Shadow!,"あっ！
 mosquito…
  
 Shadow dance
-.",0.2
+.",0.2,0.7103165
 And I shall prove it with this technique.,"(
 リー
 )
@@ -742,7 +742,7 @@ And I shall prove it with this technique.,"(
 
 ","and
 Let's prove this technique
-.",0.45454545454545453
+.",0.4545454545454545,0.8163165
 Prove that effort exceeds the genius.,"努力が
  
 天才を上回ることを
@@ -751,30 +751,30 @@ Prove that effort exceeds the genius.,"努力が
 ","Effort
  
 Getting a genius
-.",0.3333333333333333
+.",0.3333333333333333,0.6955195
 <i>W-What's he going to do...?!</i>,"《な…
  
 何をする気だ？》
 
 ","""...
  
-What do you want to do?""",0.2222222222222222
+What do you want to do?""",0.2222222222222222,0.35946307
 It's my victory!,"(
 リー
 )
 僕の勝ちだ！
 
-",My win!,0.3333333333333333
+",My win!,0.3333333333333333,0.6147696
 Huh?!,"はっ！
 
-",Hey!,0.25
+",Hey!,0.25,0.41604903
 That's...!,"あっ
 ｡
 あれは！
 
 ","Ah
 .
-That is!",0.2857142857142857
+That is!",0.2857142857142857,0.53849363
 That's as far as it goes! Lee!,"(
 忍亀
 )
@@ -786,13 +786,13 @@ That's as far as it goes! Lee!,"(
 ","It is so far!
  
 Lee
-.",0.36363636363636365
+.",0.3636363636363637,0.83847934
 "<i>What happened while</i>
 <i>I was knocked out?!</i>","俺が気絶してる間に
 何があったんだってばよ？》
 
 ","While I'm fainting
-What happened?""",0.3333333333333333
+What happened?""",0.3333333333333333,0.51631933
 Are you okay?! Sasuke.,"大丈夫？
  
 サスケ君
@@ -801,7 +801,7 @@ Are you okay?! Sasuke.,"大丈夫？
 ","fine?
  
 Sasuke
-.",0.375
+.",0.375,0.82467717
 "Lee! That technique just now
 is prohibited, you know!","(
 忍亀
@@ -816,7 +816,7 @@ is prohibited, you know!","(
  
 This technique is
 It will be forbidden
-.",0.17647058823529413
+.",0.17647058823529413,0.86390644
 <i>W-What's with that turtle...?</i>,"《な…
  
 何だ？
@@ -827,7 +827,7 @@ It will be forbidden
  
 What?
  
-That turtle """,0.3076923076923077
+That turtle """,0.3076923076923077,0.6768779
 "B-But, of course,","し…
  
 しかし
@@ -840,10 +840,10 @@ That turtle """,0.3076923076923077
 However
  
 Of course I
-I feel like I use the back of the skill",0.15384615384615385
+I feel like I use the back of the skill",0.15384615384615385,0.14653437
 <i>There's no mistake!</i>,"《間違いないってばよ》
 
-","""There is no doubt""",0.15384615384615385
+","""There is no doubt""",0.15384615384615385,0.22324453
 Hey-hey.,"うわっ
  
 あ…
@@ -854,7 +854,7 @@ Hey-hey.,"うわっ
  
 Ah…
 .
-➡",0.2
+➡",0.2,0.22295853
 What...?,"なぁ
  
 なぁ
@@ -865,7 +865,7 @@ What...?,"なぁ
  
 Hoped
 .
-What?",0.4
+What?",0.4,0.14659525
 "That thing... It's a turtle, right?
 Right?","あれってば亀だよな？
  
@@ -873,7 +873,7 @@ Right?","あれってば亀だよな？
 
 ","If it is, it is a turtle?
  
-?",0.4166666666666667
+?",0.4166666666666667,0.78889966
 "Say! Say! Can even a turtle
 become a Ninja teacher?","あのさ
  
@@ -883,10 +883,10 @@ become a Ninja teacher?","あのさ
 ","That
  
 That
-Have you been a ninja teacher or a ninja?",0.26666666666666666
+Have you been a ninja teacher or a ninja?",0.26666666666666666,0.6915415
 I don't know!,"そんなの知らないわよ！
 
-",I don't know that!,0.8333333333333334
+",I don't know that!,0.8333333333333334,0.8484509
 Fool!,"バカめ！
 (
 リー
@@ -897,12 +897,12 @@ Fool!,"バカめ！
 ","Vaccaphto!
 
 Pet
-.",0.2
+.",0.2,0.1830227
 You think such subterfuge will work?!,"そんな言い逃れが
 通用すると思うのか？
 
 ","Such said saying
-Do you think it's pass?",0.2857142857142857
+Do you think it's pass?",0.2857142857142857,0.14111985
 Have you prepared yourself?,"(
 忍亀
 )
@@ -912,7 +912,7 @@ Have you prepared yourself?,"(
 
 ","Be prepared
  
-Can you do it?",0.3333333333333333
+Can you do it?",0.3333333333333333,0.740511
 "Yo, Lee!","よう
  
 リー
@@ -921,7 +921,7 @@ Can you do it?",0.3333333333333333
 ","Let
  
 Lee
-.",0.16666666666666666
+.",0.16666666666666666,0.6633088
 "I've never seen anything like that
 in my life.","俺ってば
  
@@ -935,7 +935,7 @@ in my life.","俺ってば
 Such
  
 I saw for the first time
-.",0.16666666666666666
+.",0.16666666666666666,0.41509545
 "H-Hey! You guys!
 Don't mock Guy Sensei!","コラ～！
  
@@ -945,7 +945,7 @@ Don't mock Guy Sensei!","コラ～！
 ","Color ~!
  
 you guys
-Don't make Guay stupid!",0.35714285714285715
+Don't make Guay stupid!",0.35714285714285715,0.34063363
 What?!,"何を～！
 (
 ガイ
@@ -964,13 +964,13 @@ Oi
 Lee
  
 Good
-.",0.2222222222222222
+.",0.2222222222222222,0.23725304
 Idiot!,"(
 ガイ
 )
 こ～の～！➡
 
-",~ ~!➡,0.25
+",~ ~!➡,0.25,0.23290913
 "Lee, you... you...","リー
  
 お前…
@@ -983,7 +983,7 @@ Idiot!,"(
 you…
  
 You guys ...
-.",0.42857142857142855
+.",0.42857142857142855,0.87678117
 "Enough, Lee!
 Don't say anything!","もういい
  
@@ -997,17 +997,17 @@ Don't say anything!","もういい
 Lee
  
 Do nothing
-.",0.3
+.",0.3,0.7864823
 Lee!,"リー！
 
-",Lee!,1.0
+",Lee!,1.0,0.99999934
 <i>I lost to a guy like that...</i>,"《あんなヤツに
  
 俺は…》
 
 ","""In such a guy
  
-I am…""",0.1875
+I am…""",0.1875,0.3429488
 Yes... <i>this</i> is adolescence!,"(
 ガイ
 )
@@ -1017,7 +1017,7 @@ Yes... <i>this</i> is adolescence!,"(
 
 ","Yes
  
-This is youth!",0.36363636363636365
+This is youth!",0.3636363636363637,0.6838706
 "That sort of tone's kind of nice, too.","あぁ…
 ｡
 うわ～
@@ -1026,7 +1026,7 @@ This is youth!",0.36363636363636365
 ","Ahh…
 .
 Wow
-.",0.08333333333333333
+.",0.08333333333333333,0.033544153
 "It's okay, Lee!","いいんだよ
  
 リー
@@ -1035,7 +1035,7 @@ Wow
 ","it's fine
  
 Lee
-.",0.375
+.",0.375,0.80915195
 "Now then, take a hundred laps around
 the Training Field toward that setting sun!","さぁ
  
@@ -1049,14 +1049,14 @@ the Training Field toward that setting sun!","さぁ
 Towards the sunset
 Around the practice area
 100
-It is a round!",0.16
+It is a round!",0.16,0.45353112
 Yes! Sensei!,"はい
  
 先生！
 
 ","Yes
  
-teacher!",0.5
+teacher!",0.5,0.3393603
 Let's go!,"行くぞ
 ｡
 (
@@ -1067,11 +1067,11 @@ Let's go!,"行くぞ
 ","let's go
 .
 
-Oh-Susu!",0.6666666666666666
+Oh-Susu!",0.6666666666666666,0.5774185
 "We're still in the middle
 of the conversation!","まだ話の途中だってばよ！
 
-",It is still in the middle of the story!,0.5
+",It is still in the middle of the story!,0.5,0.5008077
 "What're you going to do
 about the Chunin Exam?!","中忍試験は
  
@@ -1083,7 +1083,7 @@ about the Chunin Exam?!","中忍試験は
  
 What do you do?
 I have no time
-.",0.21052631578947367
+.",0.21052631578947367,0.45365638
 "Huh? Oh, that's right...","(
 ガイ
 )
@@ -1099,7 +1099,7 @@ I have no time
 Hoping
  
 That was right
-.",0.25
+.",0.25,0.3855002
 "Lee, you will be punished for attempting
 to break the prohibition on top of fighting...","(
 ガイ
@@ -1112,17 +1112,17 @@ to break the prohibition on top of fighting...","(
 ","Lee
  
 Take a fight
-The punishment you tried to break the prohibition is ➡",0.25
+The punishment you tried to break the prohibition is ➡",0.25,0.81390667
 Say! Say!,"はい！
 
-",Yes!,0.3333333333333333
+",Yes!,0.3333333333333333,0.2572962
 "By the way, what's with that turtle?","ところで
  
 あの亀は何なのかな？
 
 ","by the way
  
-What is that turtle?",0.6363636363636364
+What is that turtle?",0.6363636363636364,0.89676845
 "Oh! No, he's looking this way!","うわっ
  
 嫌っ
@@ -1133,7 +1133,7 @@ What is that turtle?",0.6363636363636364
  
 Dislike
  
-I'm looking here!",0.14285714285714285
+I'm looking here!",0.14285714285714285,0.31289446
 You guys... how's Kakashi Sensei?,"(
 ガイ
 )
@@ -1143,10 +1143,10 @@ You guys... how's Kakashi Sensei?,"(
 
 ","you guys
  
-Is Kakashi teacher doing well?",0.3333333333333333
+Is Kakashi teacher doing well?",0.3333333333333333,0.6613133
 You know Kakashi...?,"カカシを知ってんのか？
 
-",Do you know Kakashi?,0.6666666666666666
+",Do you know Kakashi?,0.6666666666666666,0.910446
 I know him all too well.,"バカね
 ｡
 あのさ
@@ -1157,14 +1157,14 @@ I know him all too well.,"バカね
 .
 That
  
-That ➡",0.1
+That ➡",0.1,0.18517812
 "People call us...
 eternal rivals.","人は僕らのことを➡
 
-",People are us,0.25
+",People are us,0.25,0.40915084
 Sounds like a lie!,"ウソくせ～！
 
-",Uso!,0.16666666666666666
+",Uso!,0.16666666666666666,0.20681491
 "What're you saying?!
 Guy Sensei really is...","何を言うんだ！
 ガイ先生は本当に…
@@ -1172,7 +1172,7 @@ Guy Sensei really is...","何を言うんだ！
 
 ","What do you say!
 Guy is really ...
-.",0.5
+.",0.5,0.49882588
 """Action speaks louder than words""
 anyway.","｢
 永遠のライバル
@@ -1184,7 +1184,7 @@ anyway.","｢
 Eternal rival
 ""
 Called
-.",0.25
+.",0.25,0.19565883
 "By the way, my record is fifty wins
 and forty-nine losses.","(
 ガイ
@@ -1201,10 +1201,10 @@ and forty-nine losses.","(
 Win
 49
 Lose
-.",0.3333333333333333
+.",0.3333333333333333,0.6348978
 When did he.?,"《ん？➡
 
-","""Hmm?➡",0.125
+","""Hmm?➡",0.125,0.1447465
 "One thing, I'm stronger than Kakashi...","言っておくが
 カカシより強いよ
  
@@ -1215,7 +1215,7 @@ When did he.?,"《ん？➡
 It is stronger than Kakashi
  
 I am
-.",0.2857142857142857
+.",0.2857142857142857,0.8756994
 "How about that?!
 Guy Sensei is awesome, isn't he?!","どうです？
 ガイ先生は
@@ -1225,29 +1225,29 @@ Guy Sensei is awesome, isn't he?!","どうです？
 ","how is it?
 Guy
  
-It's amazing!",0.3333333333333333
+It's amazing!",0.3333333333333333,0.21530294
 "This time around,
 Lee caused the trouble.","今回はリーが迷惑をかけたが➡
 
-",This time Lee bothered but,0.2727272727272727
+",This time Lee bothered but,0.2727272727272727,0.7369439
 "Out of consideration for my face,
 forgive him.","俺の顔に免じて許してくれ
 ｡
 
 ","Please forgive me with my face
-.",0.3076923076923077
+.",0.3076923076923077,0.6690292
 "Out of consideration for
 this pleasant face.","この爽やかフェースに免じてな
 ｡
 
 ","Do not try this refreshing face
-.",0.25
+.",0.25,0.48736987
 <i>He's better than that Kakashi...?</i>,"《あのカカシより上だと？➡
 
-","""Is it above that kakashi?➡",0.17647058823529413
+","""Is it above that kakashi?➡",0.17647058823529413,0.646332
 <i>not just all talk...</i>,"ハッタリじゃない》
 
-",Not hatty,0.1
+",Not hatty,0.1,0.04665154
 "You guys and Lee should probably go
 to the classroom pretty soon.","リーも君たちも
  
@@ -1259,7 +1259,7 @@ to the classroom pretty soon.","リーも君たちも
  
 gradually
 I wish I went to the classroom
-.",0.4117647058823529
+.",0.4117647058823529,0.789419
 "Then, do your best, Lee!
 Farewell!","じゃあ
  
@@ -1271,12 +1271,12 @@ Farewell!","じゃあ
  
 Do your best
  
-Lee!",0.5555555555555556
+Lee!",0.5555555555555556,0.6907032
 Sasuke...,"サスケ君
 ｡
 
 ","Sasuke
-.",0.3333333333333333
+.",0.3333333333333333,0.94749784
 "I actually came here to
 verify my own ability.","実のところ
  
@@ -1286,7 +1286,7 @@ verify my own ability.","実のところ
 ","Inactivity
  
 I have my own ability
-To confirm",0.38461538461538464
+To confirm",0.38461538461538464,0.49858567
 I lied before.,"最後にひと言
  
 言っておきます
@@ -1295,7 +1295,7 @@ I lied before.,"最後にひと言
 ","Finally
  
 I will say
-.",0.2857142857142857
+.",0.2857142857142857,0.26522368
 "I'm entering in order
 to defeat that person.","そいつを倒すために
 僕は出場するんです
@@ -1303,7 +1303,7 @@ to defeat that person.","そいつを倒すために
 
 ","To defeat that
 I will compete
-.",0.4166666666666667
+.",0.4166666666666667,0.4836314
 "And, you are one of my targets.","そして君も
  
 ターゲットの一人
@@ -1312,22 +1312,22 @@ I will compete
 ","And you too
  
 One of the targets
-.",0.5454545454545454
+.",0.5454545454545454,0.81337404
 Please prepare yourself for the Exam!,"試験
  
 覚悟しといてください！
 
 ","test
  
-Please be prepared!",0.2
+Please be prepared!",0.2,0.6388428
 Naruto!,"ナルト！
 
-",Naruto!,1.0
+",Naruto!,1.0,0.99999976
 "You saw it, didn't you? His hand...","うちは一族も
 大したことねえんじゃねぇの？
 
 ","My family is also
-Isn't it a big deal?",0.17647058823529413
+Isn't it a big deal?",0.17647058823529413,0.00018979139
 "That Bushy Brow probably did a heck
 of a lot of special training.","あのゲジマユは
 すっげぇ特訓したんだろ
@@ -1335,7 +1335,7 @@ of a lot of special training.","あのゲジマユは
 
 ","That Geisimayu
 I guess I'm training
-.",0.1875
+.",0.1875,0.3551439
 More than you have...,"毎日毎日
  
 お前よりもな
@@ -1344,15 +1344,15 @@ More than you have...,"毎日毎日
 ","Every day
  
 More than you
-.",0.375
+.",0.375,0.4645182
 That's all it is.,"そんだけのことだってばよ
 ｡
 
 ","That's why
-.",0.42857142857142855
+.",0.42857142857142855,0.37019953
 Yeah!,"お～！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.64038783
 "Let's go, Naruto! Sakura!","行くか
  
 ナルト！
@@ -1363,13 +1363,13 @@ Yeah!,"お～！
  
 Naruto!
  
-Sakura!",0.4444444444444444
+Sakura!",0.4444444444444444,0.9230413
 "Are they all here to take
 the Chunin Exam?","♬
  Don't try to
 
 ","♬
- Don't try to",0.07142857142857142
+ Don't try to",0.07142857142857142,0.18808962
 "Ino, Shikamaru, Choji, Kiba,
 Shino, Hinata and Rock Lee?","♬
  Don't dry with
@@ -1377,9 +1377,9 @@ fakes or fears.
 
 ","♬
  Don't Dry With With
-Fakes or Fears.",0.0
+Fakes or Fears.",0.0,0.07683695
 "So you're all here, too?","♬
  coz you're so right.
 
 ","♬
- COZ YOU'RE SO RIGHT.",0.25
+ COZ YOU'RE SO RIGHT.",0.25,0.25366074

@@ -1,28 +1,28 @@
-en_text,jp_text,google_translated,score
-dame da yo koko kara saki wa,{\blur3}别再靠近 那前方,} 靠 靠 靠 前,0.0
-tobitachitai no habatakitai,{\blur3}振翅欲飞上九霄,振 欲 上 霄 霄,0.0
-"I want to fly, I want to beat my wings",{\blur3}我无力改变,I'm sorry,0.1
-A red butterfly flutters around me,{\blur3}摇摇欲坠之红蝶,摇摇 摇摇 butterfly,0.14285714285714285
-She's always been like this.,彼女にはなにか倫理というものが欠けていた,She lacked something like ethics,0.2
-She can't seem to understand \Nwhy it is that others laugh or cry.,昔からそうだった,It was so long,0.05555555555555555
-"From her perspective, everything is just a guinea pig.",彼女にとっては周りの存在はすべてモルモットなのだ,"For her, all the surrounding existence is guinea pig",0.3125
-Yes?,ええ？,Yes?,1.0
-Prepare the sperm we collected from Hasegawa Utsutsu,採取しておいた長谷川現の精子と長谷川夢の卵子を準備してちょうだい,"Prepare the spermatozoon of the Hasegawa Kawakawa, which has been collected and the Yuko Hasegawa",0.23529411764705882
-I could feel my sister's teeth digging into my body.,体に食い込む妹の歯列,Sister's teeth to eat in the body,0.26666666666666666
-"Parts of me were sliding down her throat, into her stomach.",彼女の腹に流し込まれる肉片,Meat pieces to be poured into her belly,0.1111111111111111
-"When I opened my eyes, fighting a pain that may as well have been bliss,",快楽にも似た痛みに耐えて目を開けると,When I open my eyes with a good pain in pleasure,0.2857142857142857
-"I saw my sister, covered in blood and gorging herself on my flesh.",妹が食事をするたびに　悲しそうに見えた,I saw sad every time my sister eats,0.2222222222222222
-ever since that day.,妹はあの日からずっと涙を流さずに泣き続けていたのだろうか,My sister has been crying without tearing since that day,0.25
-Why don't you come out now?,あちゃー　バレてました？,Are you stupid?,0.2
-Your inner sanctum never ceases to amaze me.,では　おっぱい揉ませてください,Please give me your tits,0.16666666666666666
-I'm just kidding.,そんなことを言いに来たんじゃないでしょ,I'm not coming to say that,0.2
-"Yeah, that sketchy medical company.",ええ　非正規の医療研究組織,Yes Non-regular medical research organization,0.09090909090909091
-"By the way, Maria-san, \Ndon't you think you should get dressed?",ところで　マリアさん　前は隠さないんですか,"By the way, Mary does not hide before",0.2222222222222222
-I don't see the need to do so.,仏木　裏切ったら承知しないわよ,I do not know if I betrayed the Buddha tree,0.2
-But you somehow see the need for the hat?,あ　帽子はかぶるんっすね,A hat is covered,0.08333333333333333
-you know I'm your loyal servant.,僕がマリアさん一筋なのを知ってるくせに,I know that I am Maria's one,0.15384615384615385
-Now and forever?,これからも？,From now on?,0.3333333333333333
-"If you wish me to, I'll swear to it...",何なら誓ってもいいですよ,It is okay to vow anything,0.13333333333333333
-with that monster as witness.,あの化け物に,In that monster,0.2857142857142857
-Very nice.,そう,Yes,0.0
-are looking forward to \Nmeeting their mom and dad.,自分たちのパパとママに,For their own dad and mom,0.3333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+dame da yo koko kara saki wa,{\blur3}别再靠近 那前方,} 靠 靠 靠 前,0.0,0.24130417
+tobitachitai no habatakitai,{\blur3}振翅欲飞上九霄,振 欲 上 霄 霄,0.0,0.2500576
+"I want to fly, I want to beat my wings",{\blur3}我无力改变,I'm sorry,0.1,0.17883101
+A red butterfly flutters around me,{\blur3}摇摇欲坠之红蝶,摇摇 摇摇 butterfly,0.14285714285714285,0.47633904
+She's always been like this.,彼女にはなにか倫理というものが欠けていた,She lacked something like ethics,0.2,0.28955856
+She can't seem to understand \Nwhy it is that others laugh or cry.,昔からそうだった,It was so long,0.05555555555555555,0.030782659
+"From her perspective, everything is just a guinea pig.",彼女にとっては周りの存在はすべてモルモットなのだ,"For her, all the surrounding existence is guinea pig",0.3125,0.87225235
+Yes?,ええ？,Yes?,1.0,1.0000001
+Prepare the sperm we collected from Hasegawa Utsutsu,採取しておいた長谷川現の精子と長谷川夢の卵子を準備してちょうだい,"Prepare the spermatozoon of the Hasegawa Kawakawa, which has been collected and the Yuko Hasegawa",0.2352941176470588,0.78623736
+I could feel my sister's teeth digging into my body.,体に食い込む妹の歯列,Sister's teeth to eat in the body,0.26666666666666666,0.6881732
+"Parts of me were sliding down her throat, into her stomach.",彼女の腹に流し込まれる肉片,Meat pieces to be poured into her belly,0.1111111111111111,0.45153618
+"When I opened my eyes, fighting a pain that may as well have been bliss,",快楽にも似た痛みに耐えて目を開けると,When I open my eyes with a good pain in pleasure,0.2857142857142857,0.6965066
+"I saw my sister, covered in blood and gorging herself on my flesh.",妹が食事をするたびに　悲しそうに見えた,I saw sad every time my sister eats,0.2222222222222222,0.4942245
+ever since that day.,妹はあの日からずっと涙を流さずに泣き続けていたのだろうか,My sister has been crying without tearing since that day,0.25,0.2235938
+Why don't you come out now?,あちゃー　バレてました？,Are you stupid?,0.2,0.25297928
+Your inner sanctum never ceases to amaze me.,では　おっぱい揉ませてください,Please give me your tits,0.16666666666666666,0.1567931
+I'm just kidding.,そんなことを言いに来たんじゃないでしょ,I'm not coming to say that,0.2,0.33063594
+"Yeah, that sketchy medical company.",ええ　非正規の医療研究組織,Yes Non-regular medical research organization,0.09090909090909093,0.5120939
+"By the way, Maria-san, \Ndon't you think you should get dressed?",ところで　マリアさん　前は隠さないんですか,"By the way, Mary does not hide before",0.2222222222222222,0.33135837
+I don't see the need to do so.,仏木　裏切ったら承知しないわよ,I do not know if I betrayed the Buddha tree,0.2,0.11518532
+But you somehow see the need for the hat?,あ　帽子はかぶるんっすね,A hat is covered,0.08333333333333333,0.59522676
+you know I'm your loyal servant.,僕がマリアさん一筋なのを知ってるくせに,I know that I am Maria's one,0.15384615384615385,0.32264805
+Now and forever?,これからも？,From now on?,0.3333333333333333,0.48080516
+"If you wish me to, I'll swear to it...",何なら誓ってもいいですよ,It is okay to vow anything,0.13333333333333333,0.38315308
+with that monster as witness.,あの化け物に,In that monster,0.2857142857142857,0.6363614
+Very nice.,そう,Yes,0.0,0.2361925
+are looking forward to \Nmeeting their mom and dad.,自分たちのパパとママに,For their own dad and mom,0.3333333333333333,0.56379104

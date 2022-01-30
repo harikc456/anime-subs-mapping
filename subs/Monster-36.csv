@@ -1,289 +1,289 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 Is there a change in his condition?,"（テンマ）
-クランケの容体に変化は？",What is the change in cranket cord?,0.3333333333333333
-Well... but...,（医師）あっ いや しかし…,there is no but ...,0.3333333333333333
-What about his blood pressure and pulse rate?,（テンマ）血圧 脈拍は？,What is the blood pressure pulse?,0.45454545454545453
-I am starting the operation.,（テンマ）オペを開始します,starts the operation,0.2857142857142857
-Yes...,（医師）あっ はい,Yes,0.5
-Huh?,（看護師）は？,?,0.5
-What's this young boy's name?,（テンマ）この少年の名前は？,What is the name of this boy?,0.5
+クランケの容体に変化は？",What is the change in cranket cord?,0.3333333333333333,0.15735607
+Well... but...,（医師）あっ いや しかし…,there is no but ...,0.3333333333333333,0.37994683
+What about his blood pressure and pulse rate?,（テンマ）血圧 脈拍は？,What is the blood pressure pulse?,0.4545454545454545,0.65728545
+I am starting the operation.,（テンマ）オペを開始します,starts the operation,0.2857142857142857,0.79075354
+Yes...,（医師）あっ はい,Yes,0.5,0.6261136
+Huh?,（看護師）は？,?,0.5,0.66354716
+What's this young boy's name?,（テンマ）この少年の名前は？,What is the name of this boy?,0.5,0.91307396
 We don't know his name... do we?,"（テンマ）
-名前… 分からないんですね",Name ... I do not know,0.4
-Kill... him...,（アンナ）殺して…,killing ...,0.25
-Did you look everywhere?,（医師）よく捜したのか？,Did you find well?,0.42857142857142855
-"""Perhaps they're playing hide-and-seek or something,"" eh?",（テンマ）“どこかで”,"""Somewhere""",0.15384615384615385
+名前… 分からないんですね",Name ... I do not know,0.4,0.43558046
+Kill... him...,（アンナ）殺して…,killing ...,0.25,0.6839198
+Did you look everywhere?,（医師）よく捜したのか？,Did you find well?,0.42857142857142855,0.59686935
+"""Perhaps they're playing hide-and-seek or something,"" eh?",（テンマ）“どこかで”,"""Somewhere""",0.15384615384615385,0.31784
 Scaredy cat Tenma... Scaredy Cat Tenma... YAY!,"（男の子）
-弱虫テンマ 弱虫テンマ やーい！",Yowamushi Tenma Yuma Tenma!,0.25
+弱虫テンマ 弱虫テンマ やーい！",Yowamushi Tenma Yuma Tenma!,0.25,0.5870414
 "If you try to hide, you'll just wet your pants again!","無理して隠れてると
 また しょんべん漏らすぞ","If you get hidden
-He also leaks",0.1111111111111111
-"Hey guys! It's getting late, just how much\Nlonger are you guys going to play?",いつまで遊んでるの？,How long are you playing?,0.21052631578947367
+He also leaks",0.1111111111111111,0.4564526
+"Hey guys! It's getting late, just how much\Nlonger are you guys going to play?",いつまで遊んでるの？,How long are you playing?,0.21052631578947367,0.51457
 See ya!,"（男の子）じゃあね
 （男の子）バイバーイ","Well then
- Bybaii",0.0
-What about me?,（テンマ）あっ 僕は？,"Oh, what?",0.3333333333333333
-Hey everyone... I'm right here.,ねえ みんな 僕は ここだよ,Hey everyone I'm here,0.625
-Find me!,僕を見つけてよ！,Find me!,1.0
-I'm right here!,僕は ここだよ！,I'm here!,0.8
+ Bybaii",0.0,0.11023543
+What about me?,（テンマ）あっ 僕は？,"Oh, what?",0.3333333333333333,0.32679212
+Hey everyone... I'm right here.,ねえ みんな 僕は ここだよ,Hey everyone I'm here,0.625,0.77930087
+Find me!,僕を見つけてよ！,Find me!,1.0,1.0
+I'm right here!,僕は ここだよ！,I'm here!,0.8,0.7413551
 The guy who came earlier this evening\Nis still in front of the house.,"夕方 やってきた男
 まだ屋敷の前に立っていますが…","A man who came in the evening
-I'm still standing in front of the house ...",0.4
-Who is he?,（シューバルト）何者だ？,Who is it?,0.6
+I'm still standing in front of the house ...",0.4,0.7170212
+Who is he?,（シューバルト）何者だ？,Who is it?,0.6,0.8107155
 "He's Richard Brown's psychiatrist, the\Ndetective that we've previously hired.","（クンツ）以前 雇っていた探偵
 リヒァルト･ブラウンの⸺","I was hired before the detective
-Lehilt Brown's ⸺",0.15
+Lehilt Brown's ⸺",0.15,0.47573796
 "Karl, I can't see well.","（シューバルト）
-カール 私は目が見えない",Karl I can not see eyes,0.2727272727272727
-What does he look like?,どんな男だ？,What a man?,0.25
-"Yes, he's an old man.",（カール）はい 初老の男性です,Yes elder man,0.2222222222222222
-What do you think of him?,お前が見て どう思う？,What do you think?,0.7142857142857143
-He doesn't seem like a bad man...,悪い人間じゃなさそうな…,It looks like a bad person ...,0.3333333333333333
+カール 私は目が見えない",Karl I can not see eyes,0.2727272727272727,0.7504512
+What does he look like?,どんな男だ？,What a man?,0.25,0.28540486
+"Yes, he's an old man.",（カール）はい 初老の男性です,Yes elder man,0.2222222222222222,0.56811696
+What do you think of him?,お前が見て どう思う？,What do you think?,0.7142857142857143,0.4217304
+He doesn't seem like a bad man...,悪い人間じゃなさそうな…,It looks like a bad person ...,0.3333333333333333,0.5621797
 and it seems like he's in a real pinch.,"そして 何だか ひどく
 切羽詰まっているような…","And it's awful
-It seems like I'm cutting ...",0.3125
+It seems like I'm cutting ...",0.3125,0.2544743
 "Thank you for seeing me, Herr Schubert","（ライヒワイン）
-お会いいただけて感謝しますよ",Thank you for the meeting,0.3
-Let us skip the useless pleasantries.,くだらん前置きは やめよう,Let's stop the pretty,0.2
-It's getting late.,なるほど,So that's it,0.2857142857142857
-I don't have much time myself.,こちらも そんなに時間はない,Here too much time,0.2
+お会いいただけて感謝しますよ",Thank you for the meeting,0.3,0.44136465
+Let us skip the useless pleasantries.,くだらん前置きは やめよう,Let's stop the pretty,0.2,0.3580568
+It's getting late.,なるほど,So that's it,0.2857142857142857,0.28547195
+I don't have much time myself.,こちらも そんなに時間はない,Here too much time,0.2,0.39591756
 "You didn't come here to ask about him, did you?","彼のことで
 来たんじゃないのかね？","His
-Aren't you coming?",0.21428571428571427
-About Johan.,ヨハンだよ,It is Johan,0.2
-I thought that someone like you\Nwould come to me some day...,いつか 私のもとに,Someday to me,0.15384615384615385
-in order to solve the mystery.,謎を解いてくれるためにね,To solve mystery,0.42857142857142855
-Mystery?,（ライヒワイン）謎？,Mystery?,1.0
-He's just too perfect.,完璧すぎるんだよ 彼は,It's too perfect He is,0.5
+Aren't you coming?",0.21428571428571427,0.40014437
+About Johan.,ヨハンだよ,It is Johan,0.2,0.8203761
+I thought that someone like you\Nwould come to me some day...,いつか 私のもとに,Someday to me,0.15384615384615385,0.43055394
+in order to solve the mystery.,謎を解いてくれるためにね,To solve mystery,0.42857142857142855,0.8171635
+Mystery?,（ライヒワイン）謎？,Mystery?,1.0,0.9999999
+He's just too perfect.,完璧すぎるんだよ 彼は,It's too perfect He is,0.5,0.81266403
 "People who can see may not know it, but I can feel it...","目の見える者には
 分からんかもしれない","For those visible
-I can not understand",0.17647058823529413
+I can not understand",0.17647058823529413,0.31698596
 Isn't that like he doesn't really exist?,"それが この世に存在して
 いないのではないか… とね","That exists in this world
-Isn't it not ...",0.1875
+Isn't it not ...",0.1875,0.3847577
 "It's all here, the fragments of his past, that is.","ここに記してあります
 彼の過去の断片がね","It is noted here
-His past fragment",0.3333333333333333
+His past fragment",0.3333333333333333,0.6811563
 you'll see that he is not an illusion.,"彼が幻でも何でもないことが
 分かるでしょう","He is not a vision or anything
-you understand",0.26666666666666666
+you understand",0.26666666666666666,0.534444
 "The story begins when a young boy, who was fatally\Nwounded, was taken to a hospital in 1986.","話は 1986年
 ある少年が瀕死(ひんし)の重傷で","The story is 1986
-One boy is a serious injury",0.23809523809523808
-"And then, he showed up in front of you.",そして 彼は あなたの前に現れた,And he appeared in front of you,0.5
+One boy is a serious injury",0.2380952380952381,0.774109
+"And then, he showed up in front of you.",そして 彼は あなたの前に現れた,And he appeared in front of you,0.5,0.90016127
 "According to the dead... no, murdered, Richard,","死んだ… いや
 殺されたリヒァルトの推理では","Dead ... No
-In the reasoning of the killed Richall",0.2857142857142857
+In the reasoning of the killed Richall",0.2857142857142857,0.6617193
 "Johan was controlling Farhen, the student\Nwho pretended to be your son.","あなたの息子をかたらせたのも
 ヨハンだ","I also put your son
-Johan",0.1875
+Johan",0.1875,0.51412076
 "But, when your real son, Karl, showed up, he\Nchanged his tactics and got close to him.","ところが そこに本物の息子
 カールが現れるやいなや","However, there is a real son there
-A curl appears",0.125
+A curl appears",0.125,0.34194216
 "And in these last few years, how many\Npeople have died around you?","あなたが心を許していた人たちが
 何人 死にましたか？","People who were forgiven
-How many people did you die?",0.14285714285714285
-The chauffer who served you for all those years.,長年 あなたに仕えていた運転手,Driver who served you for many years,0.4166666666666667
+How many people did you die?",0.14285714285714285,0.70490235
+The chauffer who served you for all those years.,長年 あなたに仕えていた運転手,Driver who served you for many years,0.4166666666666667,0.62452585
 The maid who read you books.,"あなたに
 本を読んで聞かせたメイド","for you
-Maid who read books and heard",0.5
+Maid who read books and heard",0.5,0.7837768
 The accountant who was your bird-watching partner.,"あなたの心の隙間に
 入り込むためだ","To the gap of your heart
-To enter",0.15384615384615385
-Every one of them died.,みんな死んでいった,Everyone died,0.14285714285714285
-"I beg you, please help me.",お願いだ 力を貸してほしい,I want you to lend me the power,0.23076923076923078
-Everything must be brought to daylight.,全てを白日の下にさらすんだ,Everything is under white day,0.09090909090909091
+To enter",0.15384615384615385,0.120784625
+Every one of them died.,みんな死んでいった,Everyone died,0.14285714285714285,0.6663875
+"I beg you, please help me.",お願いだ 力を貸してほしい,I want you to lend me the power,0.2307692307692308,0.37662023
+Everything must be brought to daylight.,全てを白日の下にさらすんだ,Everything is under white day,0.09090909090909093,0.52316105
 "If you don't, that Japanese doctor, Dr. Tenma will...","でなければ あの日本人の医者が
 Dr.テンマが…","If not, that Japanese doctor
-Dr. Temma ...",0.5
+Dr. Temma ...",0.5,0.7513583
 Do you know what people call me?,"私が世間で何と呼ばれているか
 知っているかね？","What is I called in the world?
-Do you know?",0.35714285714285715
-"When I took that role to its logical conclusion, I don't\Nknow how, but it became bigger and bigger...",ところが どうだ,But how is it,0.15789473684210525
-"The monster inside me, that is.",私の中の怪物がね,My monster in me,0.2
-But what about now?,今 思えば,Now,0.2
+Do you know?",0.35714285714285715,0.6917413
+"When I took that role to its logical conclusion, I don't\Nknow how, but it became bigger and bigger...",ところが どうだ,But how is it,0.15789473684210525,0.15206428
+"The monster inside me, that is.",私の中の怪物がね,My monster in me,0.2,0.78287745
+But what about now?,今 思えば,Now,0.2,0.52412236
 "The nickname is imposing, but I'm so weak.","呼び名は大層なものだが
 私は こんなにちっぽけだ","The call name is almost like
-She is so tired",0.17647058823529413
+She is so tired",0.17647058823529413,0.24515983
 "Come to think of it, I also wanted to play with the ant line...","私もアリの行列を
 いじくるようになりたかった","I also have a matrix of Ali
-I wanted to be like",0.23809523809523808
-in this manner...,こうやってね,This way,0.2
-He's going to become what I wanted to be.,私が なりたかったものに,What I wanted to be,0.5
+I wanted to be like",0.2380952380952381,0.23938496
+in this manner...,こうやってね,This way,0.2,0.4958428
+He's going to become what I wanted to be.,私が なりたかったものに,What I wanted to be,0.5,0.6894587
 "Who can become like that monster?""","“誰が
 その怪物のようになれるのか”","""Who
-Can you be like that monster?",0.5454545454545454
+Can you be like that monster?",0.5454545454545454,0.8953202
 Who can challenge and fight that monster?,"“誰が その怪物に逆らって
 戦うことができるのか”","""Who is against that monster
-Can he fight?",0.5
-"The only thing that can defeat this\Nmonster, is another bigger monster.",その怪物を倒せるのは,It is possible to defeat the monster,0.25
-Father...,（シューバルト）ああ…,Oh ...,0.3333333333333333
+Can he fight?",0.5,0.79355913
+"The only thing that can defeat this\Nmonster, is another bigger monster.",その怪物を倒せるのは,It is possible to defeat the monster,0.25,0.7533458
+Father...,（シューバルト）ああ…,Oh ...,0.3333333333333333,0.28394365
 What was that about?,"（カール）
-何のお話だったんですか？",What was the story?,0.42857142857142855
-It's morning already.,もう朝ですよ,It is already morning,0.5
-"By the way, where is Johan?",ところで ヨハンは？,"By the way, what is Johan?",0.7777777777777778
+何のお話だったんですか？",What was the story?,0.42857142857142855,0.4615338
+It's morning already.,もう朝ですよ,It is already morning,0.5,0.92799217
+"By the way, where is Johan?",ところで ヨハンは？,"By the way, what is Johan?",0.7777777777777778,0.9173227
 He seems to be heading straight from the\NEast Hohen office to the ceremony hall.,"直接 セレモニー会場へ
 向かうそうです","Directly to the ceremony venue
-It seems to face",0.2222222222222222
+It seems to face",0.2222222222222222,0.55045724
 "More importantly, you look very tired.\NShould I cancel today's ceremony?","キャンセルしましょうか？
 今日のセレモニー","Cancel?
-Today's ceremony",0.38461538461538464
+Today's ceremony",0.38461538461538464,0.6901047
 No... Get me ready to go out.,"{\an8}いや
 出かける準備をしてくれ","No
-Prepare to go out",0.4
+Prepare to go out",0.4,0.59662247
 "Dr. Tenma, it wasn't your fault.","（ニナ）
-Dr.テンマ あなたは悪くない",Dr. Temma You are not bad,0.07142857142857142
+Dr.テンマ あなたは悪くない",Dr. Temma You are not bad,0.07142857142857142,0.45366096
 You only did your duty as a doctor.,"あなたは 医者としての仕事を
 全うしただけです","You work as a doctor
-It is only full",0.38461538461538464
-Please stay alive.,あなたは生き延びてください,Please survive,0.2
-Nina...,ニナ…,Nina ...,1.0
+It is only full",0.38461538461538464,0.55499053
+Please stay alive.,あなたは生き延びてください,Please survive,0.2,0.7078301
+Nina...,ニナ…,Nina ...,1.0,1.0000002
 Are you really going to quit?,"（店主）残念だよ
 ホントに辞めちゃうのかい？","I'm sorry
-Do you want to quit really?",0.4166666666666667
-And you just got used to the job too.,やっと仕事にも慣れてきたのに,I finally got used to work,0.23076923076923078
+Do you want to quit really?",0.4166666666666667,0.7986187
+And you just got used to the job too.,やっと仕事にも慣れてきたのに,I finally got used to work,0.2307692307692308,0.59523714
 "If you are ever around these parts again, give me a call.","（店主）また こっちに戻ったら
 連絡くれよ","If you return here again
-I will contact you",0.15789473684210525
+I will contact you",0.15789473684210525,0.5361683
 "Man, and she was a good girl too...","（店主）
-ハァ… いい子だったのになあ",Hua ... I was a good boy,0.3076923076923077
+ハァ… いい子だったのになあ",Hua ... I was a good boy,0.3076923076923077,0.39620125
 Hello? Is Lotte Frank there?,"（ニナ）あっ もしもし
 そちらにロッテ･フランクさんは？","also
-What is Lotte Frank?",0.5
+What is Lotte Frank?",0.5,0.80901116
 Lotte is not in right now.,"（女性）ロッテなら
 今 出かけてますけど","if Lotte
-I'm out now",0.18181818181818182
+I'm out now",0.18181818181818185,0.68822813
 "Oh yeah, may I have your name again?","（女性）はい 伝えます
 あっ もう一度 お名前を","I will tell you
-Another name again",0.21428571428571427
-Nina Fortner.,（ニナ）ニナです,Nina,0.3333333333333333
+Another name again",0.21428571428571427,0.5631262
+Nina Fortner.,（ニナ）ニナです,Nina,0.3333333333333333,0.7658184
 He's here. His car just pulled up at the back entrance.,"（来賓）来ました
 裏口に車が到着しました","came
-A car arrived at the back",0.25
+A car arrived at the back",0.25,0.6480419
 The Vampire of Bayern has finally arrived.,"（来賓）いよいよ
 バイエルンの吸血鬼のお出ましだ","Finally
-Bavarian vampire comes out",0.18181818181818182
-Shh... He'll hear you.,（来賓）シーッ！　聞こえるぞ,Sei!I can hear,0.09090909090909091
-Did you see the guests out there?,（来賓）会場の客を見たか？,Did you see the customer of the venue?,0.45454545454545453
-and lots of ambassadors and politicians...,欧米各国や日本の企業,Western and Japanese companies,0.1111111111111111
+Bavarian vampire comes out",0.18181818181818185,0.69126576
+Shh... He'll hear you.,（来賓）シーッ！　聞こえるぞ,Sei!I can hear,0.09090909090909093,0.39579228
+Did you see the guests out there?,（来賓）会場の客を見たか？,Did you see the customer of the venue?,0.4545454545454545,0.63345623
+and lots of ambassadors and politicians...,欧米各国や日本の企業,Western and Japanese companies,0.1111111111111111,0.20586944
 It's hard to believe this is just a book donation ceremony.,"（来賓）ただの大学への
 蔵書寄贈式とは思えんな","Just to university
-It is thought that the collection formula",0.21052631578947367
+It is thought that the collection formula",0.21052631578947367,0.2514662
 "Well, they do say that Mr. Schubert's every\Nmovement affects Europe's economy.","（来賓）ああ 何しろ
 シューバルト氏の動向の一つ一つが","Oh what to do
-One of the trends of Mr. Schwart",0.09090909090909091
+One of the trends of Mr. Schwart",0.09090909090909093,0.17716968
 "He rarely appears in public, so lots of people came for this.","（来賓）めったに
 人前に顔を見せない人物だけに","Meika
-Only those who do not show their face in front of people",0.125
+Only those who do not show their face in front of people",0.125,0.2955742
 But his sudden donation of books...,"（来賓）しかし ここに来て
 突然 蔵書の寄贈とは","But come here
-Suddenly the donation of the book",0.25
-it's like he's giving away his keepsakes.,まるで形見分けみたいですねえ,It looks like a form,0.16666666666666666
-He's an important piece of the European economy.,（来賓）彼は ＥＵ経済の要なんだ,He is the essential EU economy,0.23076923076923078
-Karl.,カール,curl,0.0
-Yes?,はい,Yes,0.5
+Suddenly the donation of the book",0.25,0.74605167
+it's like he's giving away his keepsakes.,まるで形見分けみたいですねえ,It looks like a form,0.16666666666666666,0.14877404
+He's an important piece of the European economy.,（来賓）彼は ＥＵ経済の要なんだ,He is the essential EU economy,0.2307692307692308,0.87205946
+Karl.,カール,curl,0.0,0.09983411
+Yes?,はい,Yes,0.5,0.7687324
 Can you get me a document that I forgot?,"取ってきてほしい書類があることを
 忘れていた","That there is a document that you want to get
-forgot",0.42857142857142855
-"Don't worry about it, just go back to the estate and get it.",いいから屋敷に取りに行け,I'm going to get in the house because it is good,0.17391304347826086
-It's on top of my desk in the study.,書斎の机の上だ,It is on the desk of the study,0.5
-"But, father...",でも お父さん…,But my father ...,0.6
+forgot",0.42857142857142855,0.7739943
+"Don't worry about it, just go back to the estate and get it.",いいから屋敷に取りに行け,I'm going to get in the house because it is good,0.17391304347826084,0.13575251
+It's on top of my desk in the study.,書斎の机の上だ,It is on the desk of the study,0.5,0.85294646
+"But, father...",でも お父さん…,But my father ...,0.6,0.82747656
 Leave everything here to him.,"もうすぐヨハンが来る
 ここは彼に任せろ","Johan comes soon
-Leave here to him",0.4444444444444444
-Going smoothly?,（ルーディ）順調ですと？,Is it going well?,0.3333333333333333
+Leave here to him",0.4444444444444444,0.36015686
+Going smoothly?,（ルーディ）順調ですと？,Is it going well?,0.3333333333333333,0.66496015
 That's why I told you Tenma was in Munich.,"テンマがミュンヘンにいることを
 教えたんだ","That the Temma is in Munich
-I taught",0.26666666666666666
-But what are you doing?,なのに あなたは何をやってる,But what is you doing,0.5714285714285714
+I taught",0.26666666666666666,0.56264853
+But what are you doing?,なのに あなたは何をやってる,But what is you doing,0.5714285714285714,0.8983478
 "Did you investigate Schubert's secretary, Johan Liebert?","シューバルトの秘書に納まった
 ヨハン･リーベルトを調べたのか？","I fell in the secretary of Schwart
-Did you examine Johann Lie Belt?",0.2
+Did you examine Johann Lie Belt?",0.2,0.5566961
 There's no doubt that he's the real serial killer.,"彼が一連の殺人事件の
 真犯人であることは間違いないんだ","He is a series of murder cases
-There is no doubt that he is a true offender",0.2631578947368421
+There is no doubt that he is a true offender",0.2631578947368421,0.65481955
 "If you don't hurry up and arrest him, Tenma is going to...","聞いてるんですか？
 早くしないとテンマが…","Are you listening?
-If you don't go fast, the team is ...",0.3181818181818182
+If you don't go fast, the team is ...",0.3181818181818182,0.1883785
 Tenma is going to try and end this by himself!,"テンマは 自らの手で全てに
 決着をつけようとしているんだ！","Temma is everything with his own hand
-I'm trying to make a decision!",0.13043478260869565
-Excuse me.,失礼,impoliteness,0.0
+I'm trying to make a decision!",0.13043478260869565,0.31327242
+Excuse me.,失礼,impoliteness,0.0,0.253817
 Johan is right in front of our eyes.,"ヨハンは目の前に存在してるんだ
 早く彼を！","Johann is present in front of you
-His quickly!",0.26666666666666666
-That is a good description.,いい表現ですね,It is a good expression,0.375
-"Johan does exist, undoubtedly.",確かに ヨハンは存在していますよ,Certainly Johann exists,0.0
-Johan does exist...,ヨハンは存在している,Johann exists,0.0
-inside Tenma's head.,テンマの頭の中に,In the head of the temma,0.1111111111111111
+His quickly!",0.26666666666666666,0.5465026
+That is a good description.,いい表現ですね,It is a good expression,0.375,0.38597643
+"Johan does exist, undoubtedly.",確かに ヨハンは存在していますよ,Certainly Johann exists,0.0,0.63019866
+Johan does exist...,ヨハンは存在している,Johann exists,0.0,0.57854635
+inside Tenma's head.,テンマの頭の中に,In the head of the temma,0.1111111111111111,0.39799702
 Were you able to get any new information from it?,"あれから 何か新しい供述は
 得られたかね？","Something new from that
-Did you get it?",0.42857142857142855
+Did you get it?",0.42857142857142855,0.50450075
 He's been saying the same thing over and over again.,"（カウフマン）いえ
-もう同じことの繰り返しですね",It is the repetition of the same thing,0.2
-The gun model was a Mauser SR-93.,銃の種類は モーゼルのＳＲ93,The type of gun is Mosel's SR93,0.14285714285714285
-The buyer was a Japanese person.,売った相手は日本人,The other party sold is Japanese,0.18181818181818182
+もう同じことの繰り返しですね",It is the repetition of the same thing,0.2,0.43006667
+The gun model was a Mauser SR-93.,銃の種類は モーゼルのＳＲ93,The type of gun is Mosel's SR93,0.14285714285714285,0.7207748
+The buyer was a Japanese person.,売った相手は日本人,The other party sold is Japanese,0.18181818181818185,0.6595514
 "No, that's probably all he knows.","（ルンゲ）いや 彼の
 知っていることは それだけだろう","No
-What he knows is that",0.36363636363636365
+What he knows is that",0.3636363636363637,0.7290842
 "The Mauser SR-93 is a sniper rifle, right?","モーゼルのＳＲ93といえば
 狙撃銃だな","Speaking of Moselle's SR93
-It is a sniper gun",0.17647058823529413
-I wonder who his target is.,（カウフマン）はあ…,is ...,0.125
-I just got an excellent sniper rifle.,私は 高性能の狙撃銃を手に入れた,I got a high-performance sniper gun,0.2727272727272727
-I am Johan.,私はヨハンだ,I am Johan,0.75
-Who would I shoot with these hands?,この銃で誰を撃つ？,Who shoot with this gun?,0.4
-I killed the hospital directors.,私は病院の院長たちを殺した,I killed the hospital hospital,0.6666666666666666
-And now... who am I going to kill?,そして 今 私は誰を殺す？,And now I kill Who?,0.6
-I...,私は… 混沌(こんとん),I ... Chaos,0.6666666666666666
-I love chaos.,混沌が好きだ,I like chaos,0.4
+It is a sniper gun",0.17647058823529413,0.73859555
+I wonder who his target is.,（カウフマン）はあ…,is ...,0.125,0.18668231
+I just got an excellent sniper rifle.,私は 高性能の狙撃銃を手に入れた,I got a high-performance sniper gun,0.2727272727272727,0.8661188
+I am Johan.,私はヨハンだ,I am Johan,0.75,0.98053473
+Who would I shoot with these hands?,この銃で誰を撃つ？,Who shoot with this gun?,0.4,0.63809144
+I killed the hospital directors.,私は病院の院長たちを殺した,I killed the hospital hospital,0.6666666666666666,0.7916015
+And now... who am I going to kill?,そして 今 私は誰を殺す？,And now I kill Who?,0.6,0.77010673
+I...,私は… 混沌(こんとん),I ... Chaos,0.6666666666666666,0.4637133
+I love chaos.,混沌が好きだ,I like chaos,0.4,0.91024506
 You should have something to eat.,"（ディーター）
-何か食べたほうがいいよ",You should eat something,0.5714285714285714
-I'm not going to quit this easily.,私は このくらいでは諦めん,I gave up this much,0.16666666666666666
-"It may not seem like it, but when I was\Na doctor for the National Border Patrol,",大丈夫だ 心配いらない,I can not worried about it,0.15789473684210525
-I trained my body and mind.,体と精神は鍛え上げているんだ,My body and spirit are trained,0.4444444444444444
-"I will save your friend,",君の友達は何としても救い出す,Your friends will rescue as anything,0.2
-no matter what.,何としてもな,Anything,0.0
-Don't underestimate a doctor who was an ex-cop.,元警察医をなめるなよ,Don't lick the former police doctor,0.21428571428571427
-This is it!,これだ,This is it,0.75
-Did you figure something out?,何か分かったの？,Did you understand something?,0.5714285714285714
-Schubert's book donation ceremony!,シューバルトの蔵書寄贈セレモニー,Sho Balt Collection Ceremony,0.1111111111111111
+何か食べたほうがいいよ",You should eat something,0.5714285714285714,0.8534545
+I'm not going to quit this easily.,私は このくらいでは諦めん,I gave up this much,0.16666666666666666,0.3075368
+"It may not seem like it, but when I was\Na doctor for the National Border Patrol,",大丈夫だ 心配いらない,I can not worried about it,0.15789473684210525,0.09567633
+I trained my body and mind.,体と精神は鍛え上げているんだ,My body and spirit are trained,0.4444444444444444,0.7179447
+"I will save your friend,",君の友達は何としても救い出す,Your friends will rescue as anything,0.2,0.5340978
+no matter what.,何としてもな,Anything,0.0,0.47359377
+Don't underestimate a doctor who was an ex-cop.,元警察医をなめるなよ,Don't lick the former police doctor,0.21428571428571427,0.6263254
+This is it!,これだ,This is it,0.75,0.8600691
+Did you figure something out?,何か分かったの？,Did you understand something?,0.5714285714285714,0.5918653
+Schubert's book donation ceremony!,シューバルトの蔵書寄贈セレモニー,Sho Balt Collection Ceremony,0.1111111111111111,0.36632377
 Is Tenma there?,"（ディーター）
-そこにテンマがいるの？",Is there a Tenma there?,0.8
+そこにテンマがいるの？",Is there a Tenma there?,0.8,0.89201224
 "Dieter, you wait here!","（ライヒワイン）
-ディーターは ここで待ってろ！",Ditter he waits here!,0.2222222222222222
-Don't follow me!,ついてくるな！,Don't follow!,0.8
-It's Schubert!,シューバルトだ,It is Schuvalt,0.16666666666666666
+ディーターは ここで待ってろ！",Ditter he waits here!,0.2222222222222222,0.50043017
+Don't follow me!,ついてくるな！,Don't follow!,0.8,0.90363944
+It's Schubert!,シューバルトだ,It is Schuvalt,0.16666666666666666,0.2840755
 I want to see Hans Georg Schubert.,"（ルンゲ）ハンス･ゲオルグ･
 シューバルトに面会したい","Hans Georg
-I want to meet Sunbart",0.5
-Contact him.,連絡を取れ,Contact,0.3333333333333333
-"Yes, sir.",（カウフマン）はい,Yes,0.25
-"If I'm not mistaken, he's at the University of Munich\Nfor a book donation ceremony today.",蔵書寄贈のセレモニーに…,For the ceremony of the book donation ...,0.23809523809523808
+I want to meet Sunbart",0.5,0.537229
+Contact him.,連絡を取れ,Contact,0.3333333333333333,0.5118575
+"Yes, sir.",（カウフマン）はい,Yes,0.25,0.6087672
+"If I'm not mistaken, he's at the University of Munich\Nfor a book donation ceremony today.",蔵書寄贈のセレモニーに…,For the ceremony of the book donation ...,0.2380952380952381,0.5660254
 What?,"（ルンゲ）そこへ緊急配備だ
 （カウフマン）えっ？","There is an emergency deployment there
- Eh?",0.125
+ Eh?",0.125,0.07398914
 "Now, please welcome Hans Georg Schubert, who donated his huge collection of books.","貴重にして膨大な蔵書を
 当館に寄贈していただいた⸺","Valuable and huge books
-Donated to the hotel",0.15
-Is my secretary here?,ヨハンは… 私の秘書はいるかね？,Johann ... Is there my secretary?,0.5
-"Oh yes, he's right over there.",ああ あちらに,"Oh, over there",0.4444444444444444
+Donated to the hotel",0.15,0.37501982
+Is my secretary here?,ヨハンは… 私の秘書はいるかね？,Johann ... Is there my secretary?,0.5,0.6477311
+"Oh yes, he's right over there.",ああ あちらに,"Oh, over there",0.4444444444444444,0.6202691
 I was the one who saved his life.,"（テンマ）
-私が生き返らせてしまった",I have made a life,0.16666666666666666
-I was the one who saved that monster...,私が あのモンスターを…,I am that monster ...,0.4
+私が生き返らせてしまった",I have made a life,0.16666666666666666,0.3839382
+I was the one who saved that monster...,私が あのモンスターを…,I am that monster ...,0.4,0.6264325
 Nina!,"（ロッテ）ニナ！
-（ニナ）あっ",Nina!,1.0
+（ニナ）あっ",Nina!,1.0,0.9999999
 "I'm sorry. I looked all over for him,\Nbut he doesn't seem to be here.","ごめんね ここで
 いろいろ調べてたけど","Sorry here
-I checked variously",0.15
+I checked variously",0.15,0.42267257
 "You and I just got to be good friends, too.","せっかく仲良くなれたのに
 残念だけど","Even though I got along well
-sorry but",0.1111111111111111
-It's such a shame.,そうなのね？　そうなのね？,that's it?  that's it?,0.25
+sorry but",0.1111111111111111,0.4178401
+It's such a shame.,そうなのね？　そうなのね？,that's it?  that's it?,0.25,0.17709914
 You guys aren't twins are you?,"（ロッテ）あなたたち
 もしかして 双子じゃないの？","you
-Aren't you a twin?",0.5
-What is this picture book?,この絵本 何なの？,What is this picture book?,1.0
+Aren't you a twin?",0.5,0.7987515
+What is this picture book?,この絵本 何なの？,What is this picture book?,1.0,0.9999998
 He saw this and suddenly fainted.,"彼はこれを見て
 突然 倒れたのよ","He looked at this
-He suddenly falled down",0.2727272727272727
-Picture book?,絵本…,Picture book ...,0.5
+He suddenly falled down",0.2727272727272727,0.6688248
+Picture book?,絵本…,Picture book ...,0.5,0.6402771

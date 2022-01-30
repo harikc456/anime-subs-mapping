@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,45 +9,45 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825206
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490634
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818446
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120192
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.53447694
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.76468635
 Die.,"(ｻｽｹ)
 あぁ…
 ｡
@@ -61,14 +61,14 @@ Die.,"(ｻｽｹ)
 .
 
 Death
-.",0.25
+.",0.25,0.5481305
 Darn!,"(ﾅﾙﾄ)
 くっそ～！
 
-",Clues ~!,0.25
+",Clues ~!,0.25,0.3274536
 Shadow Clone Jutsu!,"影分身の術！
 
-",Shadow Subordination!,0.4
+",Shadow Subordination!,0.4,0.5519521
 "Hmm... Shadow Clone Jutsu.
 And there are quite a few of them.","それも
  
@@ -78,21 +78,21 @@ And there are quite a few of them.","それも
 ","that too
  
 It is quite a few
-.",0.2222222222222222
+.",0.2222222222222222,0.20123497
 Here I go!,"♬～
 行くぜ！
 
 ","♬ ~
-let's go!",0.25
+let's go!",0.25,0.27911416
 "<i>There is only one way left</i>
 <i>to defeat this guy.</i>","《こいつを倒すには
 もうこの手しかねえ！》
 
 ","""To defeat this guy
-This kind of hand!""",0.14285714285714285
+This kind of hand!""",0.14285714285714285,0.43449762
 Sasuke!,"サスケ！
 
-",Sasuke!,1.0
+",Sasuke!,1.0,0.9999999
 "<i>So that's your plan, Naruto!</i>","《なるほど
 そういうことかよ
  
@@ -105,14 +105,14 @@ That's how
  
 Naruto
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.66463995
 <i>That's pretty good for you!</i>,"お前にしちゃ
  
 上出来だ！》
 
 ","You
  
-It's done!""",0.21428571428571427
+It's done!""",0.21428571428571427,0.22768052
 I see.,"(
 再不斬
 )
@@ -124,21 +124,21 @@ I see.,"(
 ","Shiro keen
  
 I'm sorry for me
-.",0.2222222222222222
+.",0.2222222222222222,0.14462067
 This time it's aiming for my real body...,"今度は本体を狙ってきたわけか
 ｡
 ➡
 
 ","This time I'm aiming for the main unit
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.3596486
 But...,"が
  
 甘い！➡
 
 ","But
  
-sweet!➡",0.2
+sweet!➡",0.2,0.31844306
 It's not so easy!,"(
 再不斬
 )
@@ -148,7 +148,7 @@ It's not so easy!,"(
 
 ","So that's it
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.2637754
 <i>This is...</i>,"(ｶｶｼ)
 《これは
  
@@ -156,21 +156,21 @@ It's not so easy!,"(
 
 ","""this is
  
-Shadow cards of the back sword """,0.14285714285714285
+Shadow cards of the back sword """,0.14285714285714285,0.21258557
 <i>The Shadow Shuriken Jutsu!</i>,"手裏剣の影に手裏剣が！
 
-",Shuriken!,0.2222222222222222
+",Shuriken!,0.2222222222222222,0.6018278
 <i>A second Shuriken in his blind spot!</i>,"《死角に２枚目の手裏剣》
 
-","""The 2nd Shuriken for the blind spot""",0.17647058823529413
+","""The 2nd Shuriken for the blind spot""",0.17647058823529413,0.792711
 Still too naive.,"フッ
 ｡
 
 ","Hook
-.",0.2
+.",0.2,0.17091063
 <i>He dodged it!</i>,"《よけられた！》
 
-","""I was caught!""",0.16666666666666666
+","""I was caught!""",0.16666666666666666,0.4637888
 Here it is!,"(
 再不斬
 )
@@ -178,20 +178,20 @@ Here it is!,"(
 ここだ～！
 
 ","Yeah?
-Here is!",0.5
+Here is!",0.5,0.6725691
 Kakashi Sensei!,"あっ
  
 カカシ先生！
 
 ","Ah 
  
- teacher Kakashi!",0.4
+ teacher Kakashi!",0.4,0.71009153
 Naruto...,"(ｶｶｼ)
 ハァ…
 ｡
 
 ","Hua ...
-.",0.25
+.",0.25,0.286964
 Your strategy was outstanding.,"(ｶｶｼ)
 ナルト
 作戦
@@ -205,33 +205,33 @@ Operation
  
 It was wonderful
 .
-➡",0.2
+➡",0.2,0.28429466
 "The purpose of the Shadow Clones
 was not to take down Zabuza,","あの影分身の狙いは
 再不斬を倒すことじゃなくて➡
 
 ","That shadow aim is
-It is not to defeat reincarnation",0.16666666666666666
+It is not to defeat reincarnation",0.16666666666666666,0.4499876
 "I left one clone behind, then
 transformed into Demon Wind Shuriken.","俺は風魔手裏剣に変化する
 ｡
 
 ","I change to a wind magic hand sword
-.",0.15789473684210525
+.",0.15789473684210525,0.4815184
 <i>Sasuke!</i>,"＜サスケ！＞
 
-",<Sasuke!>,0.6666666666666666
+",<Sasuke!>,0.6666666666666666,0.94550633
 <i>Demon Wind Shuriken...</i>,"＜風魔手裏剣
  
 影風車＞
 
 ","<Fengma Shuriken
  
-Shadow Wind>",0.4
+Shadow Wind>",0.4,0.7082793
 "Hidden in the shadow of the real Shuriken,
 I aimed for Zabuza.","本物の手裏剣の影に隠れた俺は➡
 
-",I was hidden in the shadow of real shuriken,0.5714285714285714
+",I was hidden in the shadow of real shuriken,0.5714285714285714,0.74498767
 "Of course I didn't think
 I would defeat Zabuza!","もちろん
  
@@ -241,14 +241,14 @@ I would defeat Zabuza!","もちろん
 ","of course
  
 So re-deny
-I did not think that I could beat it",0.29411764705882354
+I did not think that I could beat it",0.29411764705882354,0.42794478
 <i>in this desperate situation.</i>,"《でも
  
 この状況で➡
 
 ","""but
  
-In this situation",0.18181818181818182
+In this situation",0.18181818181818185,0.41901731
 "<i>that those two always</i>
 <i>fight like cats and dogs.</i>","この２人
 あんなに
@@ -258,15 +258,15 @@ In this situation",0.18181818181818182
 ","These two people
 Such
  
-Even though I was fitted",0.1
+Even though I was fitted",0.1,0.22506732
 Hmph...,"おまけに水分身まで倒せて
 アハ…➡
 
 ","Collect to moisture
-Aha ... ➡",0.14285714285714285
+Aha ... ➡",0.14285714285714285,0.21746208
 That's not it!,"大成功だってばよ！
 
-",It's a great success!,0.375
+",It's a great success!,0.375,0.20915759
 They <i>forced</i> you to break it.,"こうも見事な連携プレーが
 できるなんて
 ｡
@@ -275,7 +275,7 @@ They <i>forced</i> you to break it.,"こうも見事な連携プレーが
 ","This is also a wonderful collaboration play
 I can do it
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.08819793
 "I'll tell you now,
 the same Jutsu won't work on me twice.","(ｶｶｼ)
 言っておくが
@@ -290,22 +290,22 @@ I twice to me
  
 The same technique does not pass
 .
-➡",0.2608695652173913
+➡",0.2608695652173913,0.43889964
 So what will you do?,"どうする？
 
-",what will you do?,0.8333333333333334
+",what will you do?,0.8333333333333334,0.8804695
 "Sakura!
 Stay alert.","(ｶｶｼ)
 う～
 ｡
 
 ","Yu
-.",0.16666666666666666
+.",0.16666666666666666,0.12093118
 "Mi, inoshishi, hitsuji ne.","写輪眼
 ｡
 
 ","Moth
-.",0.14285714285714285
+.",0.14285714285714285,0.16546749
 "<i>Tora, mi, ne, saru.</i>
 <i>U, inoshishi, tatsu, hitsuji.</i>","(ｶｶｼ)
 丑
@@ -348,20 +348,20 @@ Rooster
  
 Child
  
-寅",0.0
+寅",0.0,0.13633172
 Tori!,"(
 再不斬
 ･ｶｶｼ)
 酉！
 
-",!,0.5
+",!,0.5,0.38107076
 "Water Style!
 Water Dragon Jutsu!","(
 再不斬
 ･ｶｶｼ)
 水[外:99C09079206BA433E50523B592C8055A]水龍弾の術！
 
-",Water [Outside: 99C09079206BA433E50523B592C8055A] Water dragon bullet!,0.2727272727272727
+",Water [Outside: 99C09079206BA433E50523B592C8055A] Water dragon bullet!,0.2727272727272727,0.5865125
 "<i>He copied that chant</i>
 <i>in seconds...</i>","《あの量の印を数秒で…
 ｡
@@ -369,25 +369,25 @@ Water Dragon Jutsu!","(
 
 ","""A few seconds of signs of that amount ...
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.36739826
 <i>W-What is this?</i>,"《何なの？
  
 これって忍術なの？》
 
 ","""What's?
  
-Is this ninjutsu?""",0.23076923076923078
+Is this ninjutsu?""",0.2307692307692308,0.20126772
 <i>Tori!</i>,"(
 再不斬
 ･ｶｶｼ)
 ＜酉！＞
 
-",<!!>,0.5
+",<!!>,0.5,0.45554394
 The same identical movement!,"超同じ動きじゃ
 ｡
 
 ","Super the same move
-.",0.25
+.",0.25,0.5191084
 "Furthermore, at exactly
 the same time!","しかも
  
@@ -397,7 +397,7 @@ the same time!","しかも
 ","Morely
  
 At the same timing
-.",0.2727272727272727
+.",0.2727272727272727,0.6340894
 <i>This guy...</i>,"(
 再不斬
 )
@@ -407,13 +407,13 @@ At the same timing
 
 ","""this guy
  
-My movement",0.2
+My movement",0.2,0.33654326
 Reading them.,"(ｶｶｼ)｢
 読み取ってやがる
 ｣｡
 
 ","Read and do
-"".",0.14285714285714285
+"".",0.14285714285714285,0.54056096
 <i>He's reading my mind?!</i>,"(
 再不斬
 )
@@ -425,7 +425,7 @@ Reading them.,"(ｶｶｼ)｢
 ","""what!?
  
 My heart
-Did you look ahead?""",0.15789473684210525
+Did you look ahead?""",0.15789473684210525,0.32255659
 "Hah! You're just copying...
 You're a pale imitation.","(
 再不斬
@@ -440,7 +440,7 @@ You're a pale imitation.","(
  
 Copy
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.46495894
 <i>Me?</i>,"(
 再不斬
 )
@@ -454,16 +454,16 @@ Copy
  
 Such a fool
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.38805604
 <i>R-Ridiculous!</i>,"二度と開かねえようにしてやる！
 
-",I will open it again!,0.2
+",I will open it again!,0.2,0.150677
 <i>Is that his Genjutsu ?</i>,"ヤツの幻術か？》
 
-","Is it a guy of the guy?""",0.13333333333333333
+","Is it a guy of the guy?""",0.13333333333333333,0.27068245
 W-Wha!,"あ～！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.39260453
 "<i>I was just about to</i>
 <i>set forth that Jutsu...</i>","(
 再不斬
@@ -472,7 +472,7 @@ W-Wha!,"あ～！
 この俺のほうが…》
 
 ","""Trying to spend
-This me is ... """,0.10526315789473684
+This me is ... """,0.10526315789473684,0.15310955
 <i>I can't keep up with...</i>,"(
 再不斬
 )
@@ -480,22 +480,22 @@ This me is ... """,0.10526315789473684
 追いつけない》
 
 ","""In the art of guy ...
-can not catch up with""",0.15
+can not catch up with""",0.15,0.33288038
 Why...?,"(
 再不斬
 )
 なぜだ？➡
 
-",Why?➡,0.5
+",Why?➡,0.5,0.47324306
 Are you able to see into the future...?,"お前には未来が見えるのか？
 
-",Do you see the future?,0.45454545454545453
+",Do you see the future?,0.4545454545454545,0.7692943
 He's definitely dead.,"(ｶｶｼ)
 確かに死んでるな
 ｡
 
 ","Certainly dead
-.",0.3333333333333333
+.",0.3333333333333333,0.7631536
 I thank you.,"(
 白
 )
@@ -505,7 +505,7 @@ I thank you.,"(
 
 ","thank you
 .
-➡",0.6
+➡",0.6,0.59446657
 "I have been waiting for the chance
 to kill Zabuza.","僕は
  
@@ -515,7 +515,7 @@ to kill Zabuza.","僕は
 ","I
  
 all the time
-The opportunity to kill re-denomination surely",0.25
+The opportunity to kill re-denomination surely",0.25,0.24259846
 By the looks of that mask...,"(ｶｶｼ)
 確か
  
@@ -527,7 +527,7 @@ By the looks of that mask...,"(ｶｶｼ)
  
 That face ...
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.43967938
 "You don't know what
 a Tracker Ninja is?","追い忍？
 あんた
@@ -537,15 +537,15 @@ a Tracker Ninja is?","追い忍？
 ","A longe?
 Aunt
  
-Do you not know the draft?",0.3333333333333333
+Do you not know the draft?",0.3333333333333333,0.08505234
 "We learned it at
 the Academy, didn't we?","アカデミーで習ったでしょ？
 
-",Did you learn by academy?,0.23076923076923078
+",Did you learn by academy?,0.2307692307692308,0.721934
 "guys like Zabuza who turn against
 the village where they were born and raised.","生まれ育った里に刃向かい➡
 
-",The born and raised village,0.3333333333333333
+",The born and raised village,0.3333333333333333,0.40127215
 "in order to avoid having
 the secrets of the village being leaked.","里の秘密が漏れるのを
 防ぐためにね
@@ -553,23 +553,23 @@ the secrets of the village being leaked.","里の秘密が漏れるのを
 
 ","The secret of the village leaks
 To prevent it
-.",0.3125
+.",0.3125,0.82864887
 You should study more!,"もっと勉強しなさいよ
 ｡
 
 ","Study more
-.",0.3333333333333333
+.",0.3333333333333333,0.82627404
 "whose mission is to
 hunt Rogue Ninja.","暗殺する忍者のことよ
 ｡
 
 ","The ninja to assassinate
-.",0.3
+.",0.3,0.7215359
 "<i>From his height and voice,</i>
 <i>he's not all that different from Naruto...</i>","(ｶｶｼ)
 《背丈や声からして➡
 
-","""From taps and voices",0.09523809523809523
+","""From taps and voices",0.09523809523809523,0.12572283
 <i>A Tracker Ninja...?</i>,"(
 白
 )
@@ -577,7 +577,7 @@ hunt Rogue Ninja.","暗殺する忍者のことよ
 僕は抜け忍狩りを任務とする➡
 
 ","Yes
-I have a punching ninja husk",0.23076923076923078
+I have a punching ninja husk",0.2307692307692308,0.39936894
 <i>He's not just an ordinary kid...</i>,"(ｶｶｼ)
 《ただのガキじゃないね
  
@@ -585,17 +585,17 @@ I have a punching ninja husk",0.23076923076923078
 
 ","""It's not just a girl
  
-Thanks""",0.16666666666666666
+Thanks""",0.16666666666666666,0.26490167
 What <i>are</i> you?!,"何なんだってばよ！
  
 お前は！
 
 ","What is it!
  
-You are!",0.36363636363636365
+You are!",0.3636363636363637,0.53772956
 Hey you!,"お前はよ！
 
-",You are!,0.5
+",You are!,0.5,0.473167
 "Don't worry, Naruto.
 He's not an enemy.","(ｶｶｼ)
 安心しろ
@@ -608,20 +608,20 @@ He's not an enemy.","(ｶｶｼ)
  
 Naruto
 It's not an enemy
-.",0.6666666666666666
+.",0.6666666666666666,0.91227895
 "That Zabuza...
 That Zabuza was killed!","あの再不斬が
 殺されちまったんだぞ！
 
 ","That redeeming
-It was killed!",0.5
+It was killed!",0.5,0.47386083
 "He was killed so easily... by a kid
 who's no different from me!","簡単に殺されちまったんだぞ！
 
-",It was easily killed!,0.23529411764705882
+",It was easily killed!,0.2352941176470588,0.54491043
 Well!,"納得できるか！
 
-",Can you convince!,0.2
+",Can you convince!,0.2,0.33472133
 I understand your disbelief.,"(ｶｶｼ)
 まっ
 信じられない気持ちも分かる
@@ -631,7 +631,7 @@ I understand your disbelief.,"(ｶｶｼ)
 ","Mine
 I understand that I can not believe
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.38344803
 "But... this, too, is reality.","が
  
 これも事実だ
@@ -640,14 +640,14 @@ I understand that I can not believe
 ","But
  
 This is also true
-.",0.4
+.",0.4,0.48049492
 "In this world, there are kids
 who are younger than you...","(ｶｶｼ)
 この世界には
 お前より年下で➡
 
 ","In this world
-Lower than you",0.38461538461538464
+Lower than you",0.38461538461538464,0.41505265
 Your battle is over for now.,"ひとまず
 ここで終わりでしょう
 ｡
@@ -656,7 +656,7 @@ Your battle is over for now.,"ひとまず
 ","for now
 It will be over here
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.5723357
 I must get rid of this corpse...,"僕は
  
 この死体を始末しなければ
@@ -669,7 +669,7 @@ I must get rid of this corpse...,"僕は
 If you do not start this corpse
 Not
 .
-➡",0.2
+➡",0.2,0.60236263
 "Now then, please excuse me.","それじゃ
  
 失礼します
@@ -678,10 +678,10 @@ Not
 ","Well then
  
 Excuse me
-.",0.5
+.",0.5,0.713338
 He's disappeared!,"ん！
 
-",Hmm!,0.2
+",Hmm!,0.2,0.27157223
 He's not here anymore.,"(ｶｶｼ)
 もう
  
@@ -691,10 +691,10 @@ He's not here anymore.,"(ｶｶｼ)
 ","Already
  
 Not here
-.",0.42857142857142855
+.",0.42857142857142855,0.41423714
 What are we anyway?!,"何だったんだってばよ～！
 
-",What did you do?!,0.3333333333333333
+",What did you do?!,0.3333333333333333,0.24263123
 "Things like this happen
 when you're a Ninja.","(ｶｶｼ)
 忍者やってれば
@@ -705,7 +705,7 @@ when you're a Ninja.","(ｶｶｼ)
 ","If you do a ninja
 These may be
 .
-➡",0.25
+➡",0.25,0.61691767
 "If you're frustrated,
 apply it next time!","悔しかったら
  
@@ -715,7 +715,7 @@ apply it next time!","悔しかったら
 ","If you regret
  
 Next
-.",0.25
+.",0.25,0.22997026
 Our mission hasn't ended yet.,"(ｶｶｼ)
 俺たちの任務は
 まだ終わったわけじゃない
@@ -725,14 +725,14 @@ Our mission hasn't ended yet.,"(ｶｶｼ)
 ","Our mission
 It's not yet over
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.7821059
 We must take Mr. Tazuna home.,"タズナさんを家まで
 連れていかなきゃならない
 ｡
 
 ","Tazna to House
 I have to take
-.",0.16666666666666666
+.",0.16666666666666666,0.7019491
 "So sorry, everyone!","アハハハ！
 みんな
  
@@ -743,7 +743,7 @@ I have to take
 Everyone
  
 It was super
-.",0.2
+.",0.2,0.3147781
 You can rest at my house!,"まぁ
  
 わしの家で
@@ -752,7 +752,7 @@ You can rest at my house!,"まぁ
 ","Maic
  
 At the house
-Slowly!",0.3
+Slowly!",0.3,0.3630038
 Okay!,"くそ
  
 くそ
@@ -763,20 +763,20 @@ Okay!,"くそ
  
 Fuck
  
-Fuck!",0.3333333333333333
+Fuck!",0.3333333333333333,0.1702714
 W-What!,"カカシ先生！
 
-",teacher Kakashi!,0.25
+",teacher Kakashi!,0.25,0.23921646
 What'll we do?!,"♬
  Don't try to live so wise.
 
 ","♬
- Don't Try To Live So Wise.",0.07142857142857142
+ Don't Try To Live So Wise.",0.07142857142857142,0.16223904
 I'll definitely get stronger.,"♬
  you're so right.
 
 ","♬
- You'Re So Right.",0.09090909090909091
+ You'Re So Right.",0.09090909090909093,0.17426006
 "Next time:
 ""The Forest of Chakra.""","♬
  Coz you will hate yourself
@@ -784,4 +784,4 @@ in the end.
 
 ","♬
  COZ YOU WILL HATE YOURSELF
-in the end.",0.11764705882352941
+in the end.",0.1176470588235294,0.074183986

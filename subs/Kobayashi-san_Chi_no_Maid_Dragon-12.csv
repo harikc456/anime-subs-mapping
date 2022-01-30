@@ -1,461 +1,461 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "Miss Kobayashi, your coffee's ready.","（トール）小林(こばやし)さん
 コーヒーが入りましたよ","Kobayashi 
-Coffee has entered",0.2
-"Oh, thank you.",（小林）おッ サンキュー,Thank you thousand,0.3333333333333333
+Coffee has entered",0.2,0.7524184
+"Oh, thank you.",（小林）おッ サンキュー,Thank you thousand,0.3333333333333333,0.30589414
 "Kanna, if you don't eat quick, you'll be late.","カンナ 早く食べないと
 遅刻しちゃいますよ","Canna not eat quickly
-I'm late",0.11764705882352941
+I'm late",0.1176470588235294,0.7520617
 "Here's your hot milk, Kanna.","（トール）カンナはホットミルクです
-（小林）ふー",Canna is hot milk,0.2
+（小林）ふー",Canna is hot milk,0.2,0.6850974
 Hmm?,"（トール）あッ 小林さん
 （小林）ん？","Harabayashi-san
-?",0.3333333333333333
+?",0.3333333333333333,0.18549486
 What would you like for dinner this evening?,"今日の晩ご飯
 何がいいですか？","Today's dinner 
- what would you like?",0.5454545454545454
-"Hmm, well, anything works.",別に何でもいい,Anything good,0.14285714285714285
-Or maybe not.,…わけじゃないな,... that is not,0.14285714285714285
+ what would you like?",0.5454545454545454,0.89493465
+"Hmm, well, anything works.",別に何でもいい,Anything good,0.14285714285714285,0.39257637
+Or maybe not.,…わけじゃないな,... that is not,0.14285714285714285,0.21812478
 "Is there anything you'd like to eat, Tohru?","トールは何か
 食べたいもの ないの？","What is the toll
-Do you want to eat?",0.3125
-Me?,私ですか？,Is me?,0.6666666666666666
+Do you want to eat?",0.3125,0.48154488
+Me?,私ですか？,Is me?,0.6666666666666666,0.6175059
 "Oh! Nice! Let's go with that, then.","（小林）おッ いいね
 じゃあ それでいこう","Good morning
-Then let's go",0.3076923076923077
-"Make us good ones, please.",おいしいの お願いね,Good morning,0.125
-Leave it to me!,了解です　任せてください！,Please leave it to be an understanding!,0.4444444444444444
+Then let's go",0.3076923076923077,0.23769677
+"Make us good ones, please.",おいしいの お願いね,Good morning,0.125,0.20600331
+Leave it to me!,了解です　任せてください！,Please leave it to be an understanding!,0.4444444444444444,0.31073102
 "Hmm, I want to be home by ten.","（小林）んー
-10時頃には帰りたい",I want to go back around 10 o'clock,0.2
-Understood.,分かりました,understand,0.0
+10時頃には帰りたい",I want to go back around 10 o'clock,0.2,0.5442022
+Understood.,分かりました,understand,0.0,0.6322222
 "I'm heading out, too.","（カンナ）トール様 いってきま～す
 （小林）いってきまーす","Tall-sama
- I will come",0.1
-All right!,よし！,OK!,0.25
-Time to give my best again today.,頑張りますよ～！,I will do my best ~!,0.15384615384615385
+ I will come",0.1,0.23941478
+All right!,よし！,OK!,0.25,0.5649406
+Time to give my best again today.,頑張りますよ～！,I will do my best ~!,0.15384615384615385,0.45159745
 "Cleaning, cleaning.","（トール）
-♪ お掃除 お掃除 ランララ～ン",♪ Cleaning cleaning Lan La La,0.16666666666666666
-wipe it out!,without you!,without you!,0.16666666666666666
-Huh?! Bring it on!,はぁ？ 上等ですよ,Has?It is above,0.2222222222222222
-"Bedrooms, check!",水回り よし,Water,0.0
-"Rooster, check!",玄関 よし,Lying,0.0
-"Living room, check!",リビング よ～し,Living ~,0.16666666666666666
+♪ お掃除 お掃除 ランララ～ン",♪ Cleaning cleaning Lan La La,0.16666666666666666,0.48712203
+wipe it out!,without you!,without you!,0.16666666666666666,0.40702936
+Huh?! Bring it on!,はぁ？ 上等ですよ,Has?It is above,0.2222222222222222,0.25567585
+"Bedrooms, check!",水回り よし,Water,0.0,0.10607488
+"Rooster, check!",玄関 よし,Lying,0.0,0.19572549
+"Living room, check!",リビング よ～し,Living ~,0.16666666666666666,0.44929168
 "Perfect timing on the laundry, too.","洗濯機のタイミングも
 バッチリですね","Washing machine timing is also
-It is a batch",0.06666666666666667
+It is a batch",0.06666666666666668,0.51874685
 "The weather's nice today, so they should dry quickly.","今日は お天気もいいし
 早く乾きそうですね","Today is fine weather
-It seems to dry quickly",0.23529411764705882
+It seems to dry quickly",0.2352941176470588,0.7522575
 Coming.,"（玄関チャイム）
-（トール）あッ は～い",Ha,0.0
+（トール）あッ は～い",Ha,0.0,0.17353722
 Please stamp here.,"（宅配便業者）
-ハンコくださ～い",Handko ~,0.0
+ハンコくださ～い",Handko ~,0.0,0.16924496
 Thank you.,"（宅配便業者）
-ありがとうございました～",Thank you ~,0.5
+ありがとうございました～",Thank you ~,0.5,0.6421668
 "The cushion to help with Miss\NKobayashi's lower back pain, huh?","（トール）小林さんの
 腰痛対策クッションですね","Mr. Kobayashi
-It is a back pain countermeasure cushion",0.15789473684210525
-"Well, the laundry's finished.",さて 洗濯も終わりました,Well the washing is over,0.2
-It's all for Miss Kobayashi.,すべては小林さんのため,Everything is for Mr. Kobayashi,0.2
+It is a back pain countermeasure cushion",0.15789473684210525,0.7597053
+"Well, the laundry's finished.",さて 洗濯も終わりました,Well the washing is over,0.2,0.6787595
+It's all for Miss Kobayashi.,すべては小林さんのため,Everything is for Mr. Kobayashi,0.2,0.72021717
 I must prepare the best omurice ever!,"最ッ高のオムライスを
 用意せねば！","Big high omelet
-Please prepare!",0.16666666666666666
-"First, some trial runs.",まずは試作です,"First of all, it is a trial production",0.25
-How's that?,ふッふふ どうですか～？,How about it?,0.3333333333333333
+Please prepare!",0.16666666666666666,0.6790213
+"First, some trial runs.",まずは試作です,"First of all, it is a trial production",0.25,0.65950537
+How's that?,ふッふふ どうですか～？,How about it?,0.3333333333333333,0.4167092
 "Fluffy, juicy eggs, hot rice with\Nketchup, all at restaurant quality!","ふわとろの卵に
 熱々のケチャップライス","Fluffy eggs
-Hot ketchup rice",0.3076923076923077
-And the taste...,そして味も,And taste,0.5
-is average?!,（トール）完成です！,is completed!,0.4
+Hot ketchup rice",0.3076923076923077,0.68603206
+And the taste...,そして味も,And taste,0.5,0.7796568
+is average?!,（トール）完成です！,is completed!,0.4,0.034998495
 "It's not that it isn't good, but...","おいしくないわけでは
 ないですが… う～ん","It is not delicious
-There is no ...",0.3076923076923077
-Ah!,普通だ！,Normal!,0.3333333333333333
+There is no ...",0.3076923076923077,0.4443969
+Ah!,普通だ！,Normal!,0.3333333333333333,0.3332258
 I want it to be a little more special.,"もう少し特別な
 何かが欲しいです","A little more special
-I want something",0.5454545454545454
+I want something",0.5454545454545454,0.7885439
 Thank you very much.,"（トール）
-ありがとうございます",thank you,0.4
+ありがとうございます",thank you,0.4,0.55719966
 "Everyone was always saying something\Nto me, so I tried toning down the exposure.","いつも言われるから
 露出度 抑えたんだ","Because it is always said
-I suppressed the degree of exposure",0.18181818181818182
+I suppressed the degree of exposure",0.18181818181818185,0.46755123
 How is it?,"（ルコア）お菓子
 持ってきたんだけど どうかな？","sweets
-I brought it, but how is it?",0.4444444444444444
+I brought it, but how is it?",0.4444444444444444,0.39858624
 You should change your body next.,"（トール）
-次は体を変えると いいですよ","Next, he is good if you change your body",0.4166666666666667
-Huh?,（ルコア）え？,?,0.5
+次は体を変えると いいですよ","Next, he is good if you change your body",0.4166666666666667,0.60761774
+Huh?,（ルコア）え？,?,0.5,0.66354746
 "Please, come inside.","（トール）どうぞ
 上がってください","Please
-Please go up",0.14285714285714285
-Yeah. Pardon me.,（ルコア）うん　お邪魔しま～す,Yeah,0.25
-No wonder that shop receives such praise.,ふ～,~,0.0
-I'll put on another cup for you.,紅茶のおかわり いれますね,You can work with tea,0.07692307692307693
+Please go up",0.14285714285714285,0.42513093
+Yeah. Pardon me.,（ルコア）うん　お邪魔しま～す,Yeah,0.25,0.35961214
+No wonder that shop receives such praise.,ふ～,~,0.0,0.101236336
+I'll put on another cup for you.,紅茶のおかわり いれますね,You can work with tea,0.07692307692307693,0.28838032
 "Oh, but I need to be going.","（ルコア）あぁ
-でも もう行かなきゃ",But I have to go anymore,0.25
-Right!,あッ そうだ,It looks like,0.0
+でも もう行かなきゃ",But I have to go anymore,0.25,0.60550034
+Right!,あッ そうだ,It looks like,0.0,0.26536587
 I was in the middle of making trial\Nbatches of omurice for Miss Kobayashi to eat.,"小林さんに食べてもらう
 オムライスを試作中なんですけど","Get to Kobayashi
-I'm trying to prototype omelet",0.15
+I'm trying to prototype omelet",0.15,0.49271092
 Do you know any techniques to make them taste good?,"何か おいしく作る方法は
 ないですかね？","How to make something delicious
-Isn't there?",0.17647058823529413
-I see.,なるほど～,I see ~,0.5
+Isn't there?",0.17647058823529413,0.4745977
+I see.,なるほど～,I see ~,0.5,0.74423665
 Later! The tea was delicious.,"それじゃ
 紅茶 おいしかったよ","Well then
-Tea was delicious",0.3333333333333333
-It was nothing.,お粗末さまでした,It was a poor,0.3333333333333333
-"Ingredients, huh?",材料ですか,Is it a material?,0.125
+Tea was delicious",0.3333333333333333,0.7790163
+It was nothing.,お粗末さまでした,It was a poor,0.3333333333333333,0.50641215
+"Ingredients, huh?",材料ですか,Is it a material?,0.125,0.18635829
 "If I gather good rice, vegetables, and eggs...","卵も いいものを
 そろえたとして","Eggs are good
-As if they were",0.21428571428571427
-"Yeah, all right.",うん よし,Yonder,0.0
-Over budget?!,予算オーバー！,Budget over!,0.75
+As if they were",0.21428571428571427,0.45640722
+"Yeah, all right.",うん よし,Yonder,0.0,0.14634746
+Over budget?!,予算オーバー！,Budget over!,0.75,0.7955969
 "Shopping for dinner, Tohru-chan?","（辰田(たった)）夕飯の買い物かい？
 トールちゃん",") Do you want to shop for dinner?
-Tall",0.23076923076923078
-"This chicken is expensive, isn't it?",この鶏肉 高いですね,This chicken is high,0.3333333333333333
+Tall",0.2307692307692308,0.50465024
+"This chicken is expensive, isn't it?",この鶏肉 高いですね,This chicken is high,0.3333333333333333,0.636346
 Could you give me a discount?,"（トール）もう少し
 安くなりませんかね？","a little more
-Aren't you cheap?",0.25
+Aren't you cheap?",0.25,0.42238182
 "Hmm, it's already priced as low as I can go.","（辰田）ん～ これ以上は
 こっちも生活できなくなっちまうし","-On no more
-I can not live here",0.1111111111111111
+I can not live here",0.1111111111111111,0.13035531
 "But I wanted to thank you for the other day, too.","（辰田）
 あ～ でもトールちゃんには
 この間の お礼もしたいし―","Oh, but also to Tall
-Her thank you for this time-",0.3157894736842105
+Her thank you for this time-",0.3157894736842105,0.31385237
 It would?,"これじゃ意味がないんです
 （辰田）そうなのかい？","I have no meaning
- Is it so?",0.2222222222222222
+ Is it so?",0.2222222222222222,0.11223951
 Hereabouts should be good.,"（ドラゴントール）
-ここら辺で いいですかね",She is good here,0.125
-I'm home!,ただいま,I'm back,0.4
-"Welcome home, Kanna!",（トール）おかえり カンナ,Welcome Cancona,0.16666666666666666
-"Lady Tohru, what's this?",これ 何の卵？,What is this egg?,0.3333333333333333
+ここら辺で いいですかね",She is good here,0.125,0.30478242
+I'm home!,ただいま,I'm back,0.4,0.5904047
+"Welcome home, Kanna!",（トール）おかえり カンナ,Welcome Cancona,0.16666666666666666,0.3122889
+"Lady Tohru, what's this?",これ 何の卵？,What is this egg?,0.3333333333333333,0.2830319
 Only for a moment.,"また戻ったの？
 （トール）一瞬だけ","Was it back again?
- Only for a moment",0.4
+ Only for a moment",0.4,0.49420658
 The one serving as Valhalla's alarm clock?,"あのヴァルハラの
 目覚まし時計の？","That Valhala
-What is alarm clock?",0.23076923076923078
-Yes.,ええ,Yes,0.5
+What is alarm clock?",0.2307692307692308,0.7739943
+Yes.,ええ,Yes,0.5,0.83685565
 They're damn good!,"（グリンカムビ）
-コケキョッコ",Kakekeckco,0.0
-And this?,これは？,this is?,0.5
+コケキョッコ",Kakekeckco,0.0,0.105106354
+And this?,これは？,this is?,0.5,0.48942477
 That's...,"（エインヘリャル）
-あれ クソうまいよ",It's delicious,0.2
+あれ クソうまいよ",It's delicious,0.2,0.2551413
 spring water from an elf village.,"（トール）それは
 エルフの里の湧き水ですね","It is
-It is a spring water of the village of Elf",0.3333333333333333
-I was planning to cook the rice with it. Just...,こっそり もらってきました,I got it secretly,0.14285714285714285
+It is a spring water of the village of Elf",0.3333333333333333,0.8878436
+I was planning to cook the rice with it. Just...,こっそり もらってきました,I got it secretly,0.14285714285714285,0.20263256
 "I've fought with the elves before, so I took it in secret.","エルフたちとは
 一戦やらかしてるので","With elves
-Because I do one battle",0.16666666666666666
+Because I do one battle",0.16666666666666666,0.70589894
 You couldn't complain if they killed you over that.,"（カンナ）それ 殺されても
 文句 言えない","Even if it is killed
-Unexpected",0.14285714285714285
+Unexpected",0.14285714285714285,0.3165061
 "There's also meat from bull demons,\Nand fruits that only grow in that world.","他には牛魔の肉とか
 向こうにしかない果物とかですね","Besides, meat of beef
-It is a fruit that is only the other side",0.15384615384615385
-What about the rice and vegetables?,お米とか野菜とかは？,Is it rice or vegetables?,0.3
+It is a fruit that is only the other side",0.15384615384615385,0.6073035
+What about the rice and vegetables?,お米とか野菜とかは？,Is it rice or vegetables?,0.3,0.71881944
 "True, the rice in this nation is delicious.","確かに この国の
 ご飯は おいしい","Certainly in this country
-Rice is delicious",0.4166666666666667
+Rice is delicious",0.4166666666666667,0.85269266
 "Apparently they use some\Nmagic called ""selective breeding.""","“品種改良”とかいう魔法を
 使ったものらしいですが","""Product Improvement"" magic
-It seems to be used",0.1111111111111111
+It seems to be used",0.1111111111111111,0.16558413
 I should have them teach me the incantation some time.,"今度 詠唱術式を
 教えてもらいましょうかね","This time the casting ceremony
-Shall we tell me",0.17647058823529413
-"Now, then.",それじゃ早速 作りますよ,Then I will make it quickly,0.1111111111111111
+Shall we tell me",0.17647058823529413,0.38393515
+"Now, then.",それじゃ早速 作りますよ,Then I will make it quickly,0.1111111111111111,0.3616851
 "Kanna, could you help me, too?","カンナも手伝ってください
-（カンナ）お～",Please help Kanna,0.2222222222222222
-Demons out! Blessings in!,（ルコア）ガオ～,Gao-,0.0
+（カンナ）お～",Please help Kanna,0.2222222222222222,0.8085025
+Demons out! Blessings in!,（ルコア）ガオ～,Gao-,0.0,0.073064156
 "Roar, roar!","（真ケ土(まがつち)翔太(しょうた)）悪魔は～外 福は～内
 （ルコア）ガウガウ～　ガウガウ～","Shota Shota  Devil ~ 外 外 内 ~
- Gau Gau ~ Gau Gau ~",0.0
-Lucoa!,ルコア！,Rcore!,0.3333333333333333
-"Oh, were you worried about me?",あ もしかして心配してくれ…,"Oh, I'm worried about it ...",0.3333333333333333
+ Gau Gau ~ Gau Gau ~",0.0,0.11550016
+Lucoa!,ルコア！,Rcore!,0.3333333333333333,0.38675395
+"Oh, were you worried about me?",あ もしかして心配してくれ…,"Oh, I'm worried about it ...",0.3333333333333333,0.56941897
 "If I recall, the first normal meal she cooked was omurice.","確か 初めて作ってくれた
 普通の料理 オムライスだったな","Certainly I made it for the first time
-It was an ordinary cooking omelet",0.18181818181818182
-"It's done, Miss Kobayashi!",できましたよ 小林さん,Mr. Kobayashi,0.125
-It's been a long time since I had\Nsomeone willing to cook for me.,久しぶりだったんだよなー,It was after a long time,0.23529411764705882
-it's... good...,言って… あげよう…,Say ... Let's give it ...,0.42857142857142855
+It was an ordinary cooking omelet",0.18181818181818185,0.5915396
+"It's done, Miss Kobayashi!",できましたよ 小林さん,Mr. Kobayashi,0.125,0.60908574
+It's been a long time since I had\Nsomeone willing to cook for me.,久しぶりだったんだよなー,It was after a long time,0.2352941176470588,0.27027678
+it's... good...,言って… あげよう…,Say ... Let's give it ...,0.42857142857142855,0.30979615
 "Hey, hurry up and pass that my way!","あの時は “まあまあ”なんて
 言っちゃったけど","At that time, ""Well""
-I said",0.11764705882352941
+I said",0.1176470588235294,0.053265244
 Help me out here!,"（男性社員Ｄ）
-こっち手伝って",Help me,0.4
-Kobayashi!,小林～ 小林～ 小林～！,Kobayashi ~ Kobayashi ~ Kobayashi-!,0.5
-Yes!,うるせ～!!,Uruse ~ !!,0.25
+こっち手伝って",Help me,0.4,0.70387954
+Kobayashi!,小林～ 小林～ 小林～！,Kobayashi ~ Kobayashi ~ Kobayashi-!,0.5,0.90008444
+Yes!,うるせ～!!,Uruse ~ !!,0.25,0.39002302
 I'll fix them at once!,"（男性社員Ｃ）
 バックアップ
 ちゃんと取っとけよ","backup
-I'll keep it properly",0.18181818181818182
+I'll keep it properly",0.18181818181818185,0.30389696
 Kobayashi! Help out over here!,"小林～！ エラー出てんぞ！
 （小林）すぐ直します","Kobayashi ~!Error coming out!
- Retriever",0.3
+ Retriever",0.3,0.654681
 Coming up.,"おっちゃん おかわり
-（飲み屋の大将）はいよ",Occhan,0.0
+（飲み屋の大将）はいよ",Occhan,0.0,0.21725628
 Where am I going now?,"あははは
 私 どこ行くんだ？","Hahaha
-Where are you going?",0.3333333333333333
-Huh?! A bear?!,って 熊!?,A bear!?,0.8
-Bear...,あッ ぐへッ…,Give me ...,0.25
+Where are you going?",0.3333333333333333,0.5585101
+Huh?! A bear?!,って 熊!?,A bear!?,0.8,0.90762776
+Bear...,あッ ぐへッ…,Give me ...,0.25,0.26367956
 Bring it on!,"熊 熊うめえ
 かかってこいや！","Bear bear
-It depends on the way!",0.375
+It depends on the way!",0.375,0.20662265
 Dragonslayer,"あは あははは
 あは えへ えへへ","Ahahaha
-Oh yeah",0.0
-What?,ん～？,What?,1.0
+Oh yeah",0.0,0.20518567
+What?,ん～？,What?,1.0,1.0000002
 "Where did you come from, human?","（ドラゴントール）人間
 どこから入ってきた？","Human
-Where did you get from?",0.6666666666666666
+Where did you get from?",0.6666666666666666,0.8724449
 Whoa! It's a dragon! Hug me!,"うひょ～！ ドラゴンだ
 抱いて～","Uh!It is a dragon
-Hug",0.5
+Hug",0.5,0.8615723
 "Leave, you insolent human!","（ドラゴントール）不遜(ふそん)な人間よ
 去れ！ 食い殺すぞ！","Human  Human
-Get away!I will kill you!",0.2727272727272727
+Get away!I will kill you!",0.2727272727272727,0.5189683
 "Well, either way, I'm going to die, too.","（ドラゴントール）
-まあ どのみち我も死ぬ","Well, I will die",0.3333333333333333
+まあ どのみち我も死ぬ","Well, I will die",0.3333333333333333,0.68768996
 How pathetic that the last being I meet is a human.,"ふッ 最後に会ったのが人間とは
 惨めなものだ","What was the human being last met
-It is miserable",0.29411764705882354
+It is miserable",0.29411764705882354,0.66422826
 "Hey, don't you get tired of talking that way?","（小林）
-ねえ その話し方 疲れない？",Hey he's going to talk about that tired?,0.2222222222222222
-You need this pulled out?,（小林）これ抜けばいいの？,Why should this be missed?,0.2
+ねえ その話し方 疲れない？",Hey he's going to talk about that tired?,0.2222222222222222,0.5283892
+You need this pulled out?,（小林）これ抜けばいいの？,Why should this be missed?,0.2,0.21222846
 Huh? Well...,"（ドラゴントール）え？ まあ…
-（小林）よッ",?Oh dear…,0.16666666666666666
-Hey!,（ドラゴントール）って おい！,!,0.5
+（小林）よッ",?Oh dear…,0.16666666666666666,0.4271086
+Hey!,（ドラゴントール）って おい！,!,0.5,0.58058757
 "If God exists, then... Hngh!","愚かな　人間なんぞが
 神の剣に触れれば 精神は…","A foolish person
-If you touch the sword of God, the spirit is ...",0.2222222222222222
-extending my deadline right now!,締め切りを延ばしてみろ～い！,Let's extend the deadline!,0.2
+If you touch the sword of God, the spirit is ...",0.2222222222222222,0.2806348
+extending my deadline right now!,締め切りを延ばしてみろ～い！,Let's extend the deadline!,0.2,0.856727
 I'm sorry.,"（ドラゴントール）
-あ… すみません",Oh ... sorry,0.16666666666666666
-Yet you saved me...,本当にありが…,Thank you very much ...,0.25
+あ… すみません",Oh ... sorry,0.16666666666666666,0.47382525
+Yet you saved me...,本当にありが…,Thank you very much ...,0.25,0.24439111
 "I was defeated in battle with\Nthe gods, and escaped to this world.","私は神との戦いに敗れ
 この世界に逃げ延びてきました","I lost to the battle with God
-I flew away in this world",0.3
-I imagine you managed to remove\Nthat sword because you lack faith.,あの剣を抜けたのでしょう,I missed that sword,0.15384615384615385
-Drink!,飲め！ 一緒に飲め ドラゴン,Drink!Dragon withdragons together,0.4
+I flew away in this world",0.3,0.6953469
+I imagine you managed to remove\Nthat sword because you lack faith.,あの剣を抜けたのでしょう,I missed that sword,0.15384615384615385,0.6070323
+Drink!,飲め！ 一緒に飲め ドラゴン,Drink!Dragon withdragons together,0.4,0.5256323
 "Dragon, listen to my story!","そして私の話を聞け～い
 （ドラゴントール）え… あ…","And listen to my story
- E ... Oh ...",0.36363636363636365
-Huh? Uh...,トゥ トゥ…,Two ...,0.2
+ E ... Oh ...",0.3636363636363637,0.5181461
+Huh? Uh...,トゥ トゥ…,Two ...,0.2,0.31893438
 I don't like using this spell though.,"この魔法 使うの
 好きじゃないんですよね","Using this magic
-I don't like it",0.5454545454545454
-Oh! You're a good drinker!,（小林）おッ いい飲みっぷり！,Good drink!,0.25
+I don't like it",0.5454545454545454,0.62327915
+Oh! You're a good drinker!,（小林）おッ いい飲みっぷり！,Good drink!,0.25,0.69478226
 Oh! I'm sorry.,"（小林）女だ！
 （トール）あ すいません","Woman!
- I'm sorry",0.5714285714285714
+ I'm sorry",0.5714285714285714,0.5561108
 "I'm out there working so hard, for what?!","だから！ 世の中 理不尽なのよ～
 私は こんなに頑張ってんのに","that's why!The world's innocence
-I'm doing so hard",0.2631578947368421
+I'm doing so hard",0.2631578947368421,0.26810476
 "That's right, you tell them! Let me bring an end to it all!","そ～だぁ 言ってやれ～
 おとなしく終焉(しゅうえん)させろ～","Well, let's say
-Let's do the end of the day",0.18181818181818182
+Let's do the end of the day",0.18181818181818185,0.38776746
 And what the hell?! Don't make me\Ncover for your subordinate's mistakes!,"何だ コラァ
 下っ端のミス 私にやらせんな～！","What is Cora
-Miss of the lower end I do not want to me!",0.15384615384615385
-Why am I all alone?,何で私 １人なんだろ,What is I alone,0.25
-Same.,私も,Me too,0.0
-I'm all alone in this world now...,１人になりました　この世界で,It became one person in this world,0.23076923076923078
+Miss of the lower end I do not want to me!",0.15384615384615385,0.17664117
+Why am I all alone?,何で私 １人なんだろ,What is I alone,0.25,0.6897886
+Same.,私も,Me too,0.0,0.590328
+I'm all alone in this world now...,１人になりました　この世界で,It became one person in this world,0.2307692307692308,0.32511857
 Do you have anywhere to go?,"（小林）行く当て あるの？
-（トール）いえ",Is it going to go?,0.3
-Then...,（トール）い… 行きます！,... I will go!,0.16666666666666666
-Want to come to my place?,私のとこ 来る？,Come to me?,0.42857142857142855
+（トール）いえ",Is it going to go?,0.3,0.3695704
+Then...,（トール）い… 行きます！,... I will go!,0.16666666666666666,0.14870676
+Want to come to my place?,私のとこ 来る？,Come to me?,0.42857142857142855,0.51488703
 "Normally they're divided by their\Nroles into house maids, laundry maids,","本来は“ハウスメイド”とか
 “ランドリーメイド”とか―","Originally ""House Made""
-""Laundry Made"" or",0.125
+""Laundry Made"" or",0.125,0.35402057
 "and so forth, and it takes training to be\None, unlike those girls at maid cafés—Oh!","なるのにだって訓練が必要で
 そこらのメイドカフェとは わけ…","Even if it is, training is necessary
-There is a maid cafe.",0.16666666666666666
+There is a maid cafe.",0.16666666666666666,0.72794706
 I'm not out to deny the existence of maid cafés.,"別にメイドカフェを
 否定してるんじゃなくて","Another maid cafe
-Not denied",0.13333333333333333
-but they're a problem that\Nhelps contribute to the growing,トールです,It is a tall,0.07692307692307693
+Not denied",0.13333333333333333,0.7181911
+but they're a problem that\Nhelps contribute to the growing,トールです,It is a tall,0.07692307692307693,0.026120277
 trend of the maid profession being taken lightly...,"メイドって職業への
 軽視につながりかねない","Maid to profession
-It may lead to negligence",0.14285714285714285
+It may lead to negligence",0.14285714285714285,0.7617779
 Oborozuka. Oborozuka.,"（車内アナウンス）
-朧塚(おぼろづか)～ 朧塚～",~ ~,0.0
+朧塚(おぼろづか)～ 朧塚～",~ ~,0.0,0.17081718
 I feel like I dreamt about something important...,"なんか… 大事な夢
 見てた気がする","Something ... Important Dream
-I feel like I saw it",0.5454545454545454
+I feel like I saw it",0.5454545454545454,0.7549664
 I'm home.,"ただいまー
 （カンナ）コバヤシ～","I'm home
- Kobayashi ~",0.5
+ Kobayashi ~",0.5,0.46550715
 "Miss Kobayashi, welcome home!","（トール）小林さん
 おかえりなさい","Mr. Kobayashi
-welcome home",0.42857142857142855
-"I helped, too.",（カンナ）私も手伝った,I also helped,0.3333333333333333
-I'm confident in it!,自信作です！,It is self-confidence!,0.25
+welcome home",0.42857142857142855,0.8200189
+"I helped, too.",（カンナ）私も手伝った,I also helped,0.3333333333333333,0.81058097
+I'm confident in it!,自信作です！,It is self-confidence!,0.25,0.4379929
 "The omurice was delicious,","そのオムライスは
 おいしかったけど―","The omelet is
-It was delicious-",0.2222222222222222
+It was delicious-",0.2222222222222222,0.7941205
 "but because I had to point out so many issues,","色々ツッコんだせいか 私は
 また“おいしい”って言いそびれた","I wonder if I'm going to
-Also, ""delicious"" said",0.15
-I again failed to tell her they were good.,オムライス ちょうど できましたよ,Om Rice Just I was able to,0.13333333333333333
+Also, ""delicious"" said",0.15,0.028592497
+I again failed to tell her they were good.,オムライス ちょうど できましたよ,Om Rice Just I was able to,0.13333333333333333,0.19029915
 I can't believe it's raining all of a sudden!,"絶対 降らないって
 言ったのに～","It is absolutely left
-I said ~",0.11764705882352941
-"Help me, Takiya.",あ…,a…,0.0
+I said ~",0.1176470588235294,0.0690888
+"Help me, Takiya.",あ…,a…,0.0,0.18238805
 It's a guerrilla event.,"（ファフニール）手伝え 滝谷
 ゲリライベントだ","Handing Takaya
-It is a guerrilla event",0.4444444444444444
-"Coming, coming!",はいはい　へへッ,Yes yes,0.0
+It is a guerrilla event",0.4444444444444444,0.67953146
+"Coming, coming!",はいはい　へへッ,Yes yes,0.0,0.14979509
 I guess we'll be having this for lunch for a while.,"（トール）う～ん
-しばらく お昼はこれですね",It is this for a while,0.2857142857142857
+しばらく お昼はこれですね",It is this for a while,0.2857142857142857,0.3460601
 So cute!,"（女性芸能人Ａ）
-かわいい～",Cute ~,0.25
-Is it okay if I pet him?,私でも大丈夫ですか？,Is I okay?,0.5
-World Wide Dogs,（女性芸能人Ｂ）はい,Yes,0.0
+かわいい～",Cute ~,0.25,0.58381253
+Is it okay if I pet him?,私でも大丈夫ですか？,Is I okay?,0.5,0.38398582
+World Wide Dogs,（女性芸能人Ｂ）はい,Yes,0.0,0.16034795
 "Oh, hey, it's cramped.","（トール）滑稽ですねぇ
 （小林）あー ちょっ… 狭い","is funny
- Oh ... narrow",0.09090909090909091
+ Oh ... narrow",0.09090909090909093,0.40727457
 "What mere pets, acting affectionate with humans.","人と なれ合うなんて
 所詮はペット","What to get with people
-After all pets",0.21428571428571427
-You're one to talk.,お前が言うな,You can not say,0.1111111111111111
+After all pets",0.21428571428571427,0.5341517
+You're one to talk.,お前が言うな,You can not say,0.1111111111111111,0.18995255
 Kanna.,"カンナ
-（カンナ）嫌",Kanna,0.5
+（カンナ）嫌",Kanna,0.5,0.9734205
 "Speaking of which, were there any\Nhumans you were close to in your old world?","そういえばトールは 元の世界に
 親しい人間って いなかったの？","Speaking of which Tall is the original world
-Didn't you have a close person?",0.2916666666666667
-Humans?,人間ですか？,Are you a human?,0.16666666666666666
+Didn't you have a close person?",0.2916666666666667,0.5386235
+Humans?,人間ですか？,Are you a human?,0.16666666666666666,0.59410286
 "Well, if I had to say, there was one\Nhuman I associated with for a time.","ほんの一時
 交流した人間なら いますけど","Temporary time
-If he is a person who interacted, he is",0.18181818181818182
+If he is a person who interacted, he is",0.18181818181818185,0.13750441
 Oh? What were they like?,"へー どんな人？
 （トール）うふふッ","What kind of person?
- Ufu",0.2
+ Ufu",0.2,0.19977468
 "Well, allow me to talk about my former self a bit.","では少し 以前の私を
 お話ししましょうか","Then me a little
-Shall we talk",0.17647058823529413
+Shall we talk",0.17647058823529413,0.41627154
 "I first met that human in an empty, ruined village.","私が その人間に会ったのは
 滅び朽ちた村の中でした","I met the human being
-It was in the ruined village",0.375
+It was in the ruined village",0.375,0.8860781
 It's rare to see a dragon in a place like this!,"（少女）ドラゴンが
 こんな所に 珍しいな","Dragon
-It is rare in such a place",0.42857142857142855
+It is rare in such a place",0.42857142857142855,0.77943295
 Let me stay with you for a while!,"ちょっと 身を隠しててさ
 しばらく同席させてね","Hiding a little
-Let me be present for a while",0.38461538461538464
-A bandit?,盗賊か？,Is it a thief?,0.3333333333333333
+Let me be present for a while",0.38461538461538464,0.48535702
+A bandit?,盗賊か？,Is it a thief?,0.3333333333333333,0.3838722
 "I mistook a noble for a merchant\Nand attacked them, now I'm on the run.","そうそう　商人と間違って
 貴族 襲っちゃって","That's wrong with the merchant
-I attacked nobles",0.14285714285714285
-"All my comrades have been captured,",追われてんの,Chased,0.0
+I attacked nobles",0.14285714285714285,0.6863383
+"All my comrades have been captured,",追われてんの,Chased,0.0,0.25836986
 so I'm all alone now and I\Nwas wondering what to do next.,"１人になっちゃって
 どうしよっかな～って","I'm alone
-What is it?",0.23529411764705882
+What is it?",0.2352941176470588,0.5473751
 I'm not interested in you.,"（ドラゴントール）
-お前に興味はない",I'm not interested in you,0.8571428571428571
+お前に興味はない",I'm not interested in you,0.8571428571428571,0.95771474
 How dare you... Why do you laugh?,"（ドラゴントール）
-貴様 なぜ笑う",Why laugh,0.25
-"Oh, sorry!",あ ごめん,"Oh, sorry",0.75
+貴様 なぜ笑う",Why laugh,0.25,0.6996451
+"Oh, sorry!",あ ごめん,"Oh, sorry",0.75,0.8621449
 This is the first time I've ever heard anyone say,"言葉に これほど意志が乗ってない
 “殺す”は 初めて聞いた","I do not have a sense of going to words
-""Kill"" was heard for the first time",0.20833333333333334
+""Kill"" was heard for the first time",0.20833333333333331,0.33361137
 "Miss Dragon, you're not used\Nto threatening people, are you?","ドラゴンさん
 脅すの慣れてないでしょ？ うふふ…","Dragon
-Aren't you familiar with threat?Ufufu ...",0.23529411764705882
+Aren't you familiar with threat?Ufufu ...",0.2352941176470588,0.70159644
 It's not just a threat!,"（ドラゴントール）
-脅しなどではない！",It is not a threat!,0.625
-See?,ほらね,you see,0.3333333333333333
+脅しなどではない！",It is not a threat!,0.625,0.9353799
+See?,ほらね,you see,0.3333333333333333,0.6005345
 Let me stay for a while.,"（少女）ね？ いいでしょ
 しばらく いさせて","right?Good idea
-For a while",0.2727272727272727
+For a while",0.2727272727272727,0.33692032
 But at the time I couldn't let myself yield to a human.,"でも あの時の私は
 人間に譲るなんて できませんでした","But at that time I
-She couldn't handle human beings",0.3888888888888889
+She couldn't handle human beings",0.3888888888888889,0.6163375
 "Hey, hey, what's it feel like being a dragon?","（少女）ねえねえ
 ドラゴンってさ どんな気分なの？","Hey
-What kind of feeling is the dragon?",0.25
+What kind of feeling is the dragon?",0.25,0.8349505
 What do you mean?,"（ドラゴントール）
-どういう意味だ？",What do you mean?,1.0
+どういう意味だ？",What do you mean?,1.0,1.0
 "You can fly through the sky, and possess\Nsuch power you'll never lose to anyone.","空を駆け回って どんなやつにも
 負けない力を持ってる","Running the sky and every guy
-Have power that can not lose",0.2727272727272727
+Have power that can not lose",0.2727272727272727,0.6926352
 I want to know what it feels like\Nto be able to live freely in this world.,"この世を自由に生きていける気持ち
 知りたいな～","I feel like I can live freely
-I want to know ~",0.3
-No way!,って 無視!?,Is ignored!?,0.16666666666666666
+I want to know ~",0.3,0.743552
+No way!,って 無視!?,Is ignored!?,0.16666666666666666,0.0719827
 At the time I found myself thinking.,"（トール）その時
 ふと考えたんです","At that time
-I thought it was",0.25
-You responded to me! Hey!,ねえ～ も～,Hey ~ ~,0.14285714285714285
-What was my freedom like?,自分の自由とは何だろう？,What is your freedom?,0.375
-"I was born with the chaos faction,\Nlived with chaos, and fought the divine.",混沌(こんとん)勢力として生まれ―,Born as chaos  power-,0.13333333333333333
+I thought it was",0.25,0.47807336
+You responded to me! Hey!,ねえ～ も～,Hey ~ ~,0.14285714285714285,0.3937329
+What was my freedom like?,自分の自由とは何だろう？,What is your freedom?,0.375,0.7482695
+"I was born with the chaos faction,\Nlived with chaos, and fought the divine.",混沌(こんとん)勢力として生まれ―,Born as chaos  power-,0.13333333333333333,0.68990785
 Would it ever end?,"それが終わったら
 自由ということなのか","When it is over
-Is it freedom?",0.2222222222222222
+Is it freedom?",0.2222222222222222,0.24208231
 What would you do if you had freedom?,"（ドラゴントール）お前は
 自由を手にしたら どうする？","You
-What if I get freedom?",0.5
-Be a maid!,メイドになる！,Become a maid!,0.6
-"greet guests with my best\Nsmile, fall in love with my master.",ご主人様と恋に落ちたりさ～,Fall in love with my husband ~,0.38461538461538464
+What if I get freedom?",0.5,0.7864087
+Be a maid!,メイドになる！,Become a maid!,0.6,0.973353
+"greet guests with my best\Nsmile, fall in love with my master.",ご主人様と恋に落ちたりさ～,Fall in love with my husband ~,0.38461538461538464,0.42372978
 "If I could choose my own life,","選べたら 私の人生も
 違ってたのかな～って","If you choose, my life
-I wonder if it was different",0.46153846153846156
+I wonder if it was different",0.4615384615384616,0.6026163
 "and my only two choices were becoming\Na bandit or becoming a slave, then...","奴隷になるか 盗賊になるかって
 二択くらいだったから","Become a slave or a thief
-Because it was about two choices",0.23809523809523808
+Because it was about two choices",0.2380952380952381,0.7196247
 and I thought that was fine.,"でも それでいいと
 思っていました","But that's fine
-I thought",0.4444444444444444
+I thought",0.4444444444444444,0.67765135
 There wasn't anyone I wanted to see anyway.,"会いたい誰かも
 いませんでしたし","Everyone who wants to meet
-It was not",0.125
+It was not",0.125,0.559289
 So I chatted with that girl for a while after that.,"その後も彼女とは
 しばらく雑談して…","After that, with her
-Chat for a while ...",0.4
+Chat for a while ...",0.4,0.7873131
 You're leaving?,"（ドラゴントール）行くのか？
 （少女）うん","Do you go?
- Yeah",0.2857142857142857
+ Yeah",0.2857142857142857,0.44871756
 I'm going to cross the mountains\Nand try heading to the next nation over.,"とりあえず山を越えて
 隣の国に行ってみるよ","For the time being, beyond the mountain
-I will go to the next country",0.18181818181818182
-I'm sure there'll be something there.,きっと何かあるはず,Surely there should be something,0.3
+I will go to the next country",0.18181818181818185,0.71123075
+I'm sure there'll be something there.,きっと何かあるはず,Surely there should be something,0.3,0.58407146
 "Oh, Miss Dragon, let me ride you.","あ ドラゴンさん
 乗せてってよ","Oh, Dragon
-I'll put it on",0.21428571428571427
+I'll put it on",0.21428571428571427,0.56854963
 I'll die before I let a human ride me.,"（ドラゴントール）
-人間なんぞ 死ぬまで乗せん！","Human, I can get to die!",0.2
-"Well, later.",それじゃあね,"Well then, see ya",0.2857142857142857
-"Thank you, Miss Dragon!",ドラゴンさん ありがとう！,Thank you Dragon!,0.6666666666666666
-For what?,（ドラゴントール）何の礼だ？,What's your thankful?,0.3333333333333333
-Yet I felt a little sad...,不自由さを感じたんです,I felt the disapproval,0.2222222222222222
-Then maybe that person had something\Nto do with why you're my maid now.,その人が いたからかもね,Maybe because of that person,0.17647058823529413
+人間なんぞ 死ぬまで乗せん！","Human, I can get to die!",0.2,0.64815664
+"Well, later.",それじゃあね,"Well then, see ya",0.2857142857142857,0.43892962
+"Thank you, Miss Dragon!",ドラゴンさん ありがとう！,Thank you Dragon!,0.6666666666666666,0.77272844
+For what?,（ドラゴントール）何の礼だ？,What's your thankful?,0.3333333333333333,0.19568007
+Yet I felt a little sad...,不自由さを感じたんです,I felt the disapproval,0.2222222222222222,0.39730164
+Then maybe that person had something\Nto do with why you're my maid now.,その人が いたからかもね,Maybe because of that person,0.17647058823529413,0.5420162
 You're right.,"それはそうと トール
 （トール）はい","That's right
- Yes",0.14285714285714285
+ Yes",0.14285714285714285,0.5546825
 "It's rare of me to say this, but I\Nwouldn't mind seeing that human again.","（トール）そうですね
 私にしては 珍しいですが","That's right
-It is rare for me",0.23809523809523808
+It is rare for me",0.2380952380952381,0.27873617
 The way you used to talk sounds like an old man.,"（小林）昔のトールの口調って
 オッサンくさいよね","Talk of the old tall
-Ossant",0.2
+Ossant",0.2,0.3243635
 But it's cool!,"えッ!? かっこいいですよ～
 （小林）えー？","Eh!? It is cool ~
- Eh?",0.3333333333333333
-The weather's nice.,いい天気,Good weather,0.16666666666666666
+ Eh?",0.3333333333333333,0.5458424
+The weather's nice.,いい天気,Good weather,0.16666666666666666,0.81246644
 "Tohru, do you think that bandit girl is still alive?","（小林）トール 盗賊の女の子は
 まだ生きてるのかな？","Tour Thieves Girl
-Is she still alive?",0.3333333333333333
+Is she still alive?",0.3333333333333333,0.66584677
 "Same as you, then.","ジョーシキを
 　　滅しちゃえば","Joziki
-If you destroy",0.1111111111111111
+If you destroy",0.1111111111111111,0.111140944
 Emperor of Demise Arrives!,"パラダイス！
 　　パラダイス！","Paradise!
-Paradise!",0.16666666666666666
+Paradise!",0.16666666666666666,0.26147932
 "I hope so, too.","（小林）元気にやってるといいね
 （トール）そう願います","I hope I'm doing well
- Please do so",0.2727272727272727
+ Please do so",0.2727272727272727,0.34349585

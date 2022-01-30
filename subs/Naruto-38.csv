@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774589
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.60482836
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,7 +68,7 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.5518779
 "This is the friendship
 of the Shinobi world.","忍の世界の友好
 ｡
@@ -76,7 +76,7 @@ of the Shinobi world.","忍の世界の友好
 
 ","Ninhen world friendship
 .
-➡",0.3
+➡",0.3,0.4617644
 "This is a fight for life with the pride
 of the village and","己の夢と里の威信を懸けた
 命懸けの戦いなのじゃ
@@ -84,7 +84,7 @@ of the village and","己の夢と里の威信を懸けた
 
 ","I had the prestige of my dream and village
 It's a battle of life
-.",0.2857142857142857
+.",0.2857142857142857,0.5413946
 "Heh, I'm convinced.","(ﾅﾙﾄ)
 ヘッ
  
@@ -94,7 +94,7 @@ It's a battle of life
 ","Hem
  
 I was convinced
-.",0.375
+.",0.375,0.4199037
 Anything is fine.,"(
 我愛羅
 )
@@ -104,7 +104,7 @@ Anything is fine.,"(
 
 ","What is
  
-Faster faster",0.16666666666666666
+Faster faster",0.16666666666666666,-0.032030705
 "Just tell us the content
 of that fight for life test.","その命懸けの試験ってやつの
 内容を聞かせろ
@@ -112,13 +112,13 @@ of that fight for life test.","その命懸けの試験ってやつの
 
 ","Testing of that life is
 Let me hear the content
-.",0.35294117647058826
+.",0.35294117647058826,0.69393045
 "Now then, this is where I'd
 like to explain the third exam.","第３の試験の
 説明をしたいところなのじゃが➡
 
 ","Third test
-It's where I would like to explain",0.2631578947368421
+It's where I would like to explain",0.2631578947368421,0.71264905
 But actually...,"実はのう…
 ｡
 (
@@ -126,24 +126,24 @@ But actually...,"実はのう…
 )
 
 ","Actually ...
-.",0.5
+.",0.5,0.8265609
 before the third exam.,"(ﾊﾔﾃ)
 皆さんには第３の試験前に…
 ｡
 
 ","Everyone is before the third test ...
-.",0.4444444444444444
+.",0.4444444444444444,0.6422198
 "with participation in
 the main battle on the line.","え～ それは本選の出場を懸けた➡
 
-",Eh-it had a main election participation ➡,0.14285714285714285
+",Eh-it had a main election participation ➡,0.14285714285714285,0.3893898
 Preliminary?,"ん？
 (ｻｸﾗ)
 予選？
 
 ","Yeah?
 
-Qualifying?",0.25
+Qualifying?",0.25,0.26435256
 What do you mean... preliminary?!,"(ｼｶﾏﾙ)
 予選って
  
@@ -151,7 +151,7 @@ What do you mean... preliminary?!,"(ｼｶﾏﾙ)
 
 ","Eliminate
  
-What does it mean?",0.2727272727272727
+What does it mean?",0.2727272727272727,0.21866916
 "Sensei, I don't understand
 the point of that preliminary.","先生
  
@@ -163,7 +163,7 @@ the point of that preliminary.","先生
  
 That qualifying
 I do not know the meaning ...
-.",0.2777777777777778
+.",0.2777777777777778,0.29848364
 "Why aren't we doing the next exam
 with the remaining test takers?","何で
  
@@ -173,14 +173,14 @@ with the remaining test takers?","何で
 ","why
  
 The next third exam
-Do you not do it?",0.2777777777777778
+Do you not do it?",0.2777777777777778,0.70975304
 "This time around,","ええ
  
 今回は➡
 
 ","Yes
  
-This time ➡",0.3333333333333333
+This time ➡",0.3333333333333333,0.56584287
 "perhaps because the first and
 second exams were easy,","第１
  
@@ -190,7 +190,7 @@ second exams were easy,","第１
 ","First
  
 The second test
-Is it sweet?",0.2
+Is it sweet?",0.2,0.45865178
 "there are a few too many
 people left, you see.","少々
  
@@ -204,19 +204,19 @@ people left, you see.","少々
 Number of people
 I'm overnight
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.46988344
 N-No way!,"えっ
  
 そんな！
 
 ","eh
  
-Such!",0.2
+Such!",0.2,0.2624662
 "As Lord Hokage said before,","先ほどの火影様のお話にも
 あったように➡
 
 ","The story of the previous fire-like story
-As there was ➡",0.07142857142857142
+As there was ➡",0.07142857142857142,0.15933111
 "many guests will be coming
 to the third exam.","第３の試験進出者を
 減らす必要があるのです
@@ -224,7 +224,7 @@ to the third exam.","第３の試験進出者を
 
 ","3rd exam leader
 It is necessary to reduce it
-.",0.1875
+.",0.1875,0.5236786
 "So we can't have long pointless matches
 and our time is limited as well.","時間も限られてくるんですね
 ｡
@@ -232,7 +232,7 @@ and our time is limited as well.","時間も限られてくるんですね
 
 ","Time is also limited
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.5317284
 "Therefore, those of you
 not in top physical condition...","えぇ
  
@@ -244,7 +244,7 @@ not in top physical condition...","えぇ
  
 so
 If you are not good for your physical condition ...
-.",0.2631578947368421
+.",0.2631578947368421,0.5005319
 <i>The teacher doesn't look well himself?!</i>,"(ﾋﾅﾀ)
 《先生のほうこそ
  
@@ -252,12 +252,12 @@ If you are not good for your physical condition ...
 
 ","""The teacher
  
-Body harvested """,0.125
+Body harvested """,0.125,0.3928709
 Excuse me.,"今すぐ申し出てください
 ｡
 
 ","Please give me now
-.",0.3333333333333333
+.",0.3333333333333333,0.33215913
 "But we finally made it through
 the second exam.","(
 いの
@@ -268,13 +268,13 @@ the second exam.","(
 
 ","Finally passed the secondary test
 Even though it is only ...
-.",0.2222222222222222
+.",0.2222222222222222,0.6687078
 This is a pain...,"(
 いの
 )
 《ちょっと大丈夫なの？》
 
-","""Is it a bit okay?""",0.18181818181818182
+","""Is it a bit okay?""",0.18181818181818185,0.13311946
 Huh? What about our meal?,"(
 キバ
 )
@@ -284,7 +284,7 @@ Huh? What about our meal?,"(
 
 ","from now
  
-What's right?",0.2
+What's right?",0.2,0.1654455
 "<i>I'm going to do my best, no matter what!</i>","《よ～し
  
 絶対
@@ -299,10 +299,10 @@ absolutely
  
 I will do my best
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.58841544
 "<i>I promised Kabuto, too...</i>","カブトさんとも約束したし》
 
-","Mr. Kabuto promised """,0.18181818181818182
+","Mr. Kabuto promised """,0.18181818181818185,0.82720715
 "I forgot to mention this, but it will
 be individual battles from now on.","これからは個人戦ですからね
 ｡
@@ -310,7 +310,7 @@ be individual battles from now on.","これからは個人戦ですからね
 
 ","It is because it is a personal game from now on
 .
-➡",0.22727272727272727
+➡",0.2272727272727273,0.15599132
 "It is your decision, so feel free
 to raise your hands and drop out.","ご自由に
 手を挙げて辞退してください
@@ -318,30 +318,30 @@ to raise your hands and drop out.","ご自由に
 
 ","Feel free to
 Please give me your hand and decline
-.",0.3
+.",0.3,0.56241876
 "<i>The waves of pain are</i>
 <i>coming faster...</i>","《痛みの波が
 どんどん短くなってきやがった》
 
 ","""The waves of the pain
-It became more and more shorter",0.2222222222222222
+It became more and more shorter",0.2222222222222222,0.65630984
 Huh?!,"え？
 だって➡
 
 ","picture?
-➡ ➡",0.2
+➡ ➡",0.2,0.22351581
 <i>Bruise...?</i>,"サスケ君…
 ｡
 ん？
 
 ","Sasuke-kun ...
 .
-Yeah?",0.2
+Yeah?",0.2,0.09063529
 At this rate...!,"このままで行けば…
 ｡
 
 ","If you go this time ...
-.",0.2
+.",0.2,0.43084577
 <i>I gave him a parting gift.</i>,"(
 大蛇丸
 )
@@ -353,7 +353,7 @@ At this rate...!,"このままで行けば…
 ","<Present of farewell
 I gave it
 .
-➡",0.2
+➡",0.2,0.5787313
 "<i>Sasuke will definitely seek me...</i>
 <i>in search of power.</i>","サスケ君は必ず
  
@@ -363,28 +363,28 @@ I gave it
 ","Sasuke always
  
 Ask for me
-In search of the power>",0.3157894736842105
+In search of the power>",0.3157894736842105,0.888977
 <i>You're the only one left.</i>,"＜残るは
  
 お前だけだな＞
 
 ","<Remaining
  
-You are only you>",0.3333333333333333
+You are only you>",0.3333333333333333,0.6484662
 Please...,"お願い
 ｡
 
 ","Please
-.",0.3333333333333333
+.",0.3333333333333333,0.8087292
 What shall we do?,"(ｲﾋﾞｷ)
 どうします？
 
-",What do you do?,0.5
+",What do you do?,0.5,0.39925554
 "We should remove him
 from the exams","(ｱﾝｺ)
 彼は試験から降ろし➡
 
-",He loses down from the exam,0.18181818181818182
+",He loses down from the exam,0.18181818181818185,0.61059535
 "We should recommend that
 he retire immediately.","即刻
  
@@ -394,14 +394,14 @@ he retire immediately.","即刻
 ","Immediately
  
 Recommend to decline ...
-.",0.2727272727272727
+.",0.2727272727272727,0.33803657
 "After all, he's of the Uchiha clan.","暗部の護衛をつけて
 隔離すべきです
 ｡
 
 ","With the escort of the darkness
 Should be isolated
-.",0.1875
+.",0.1875,0.0818188
 "I'll make him stop, by force if needed!","何
  
 バカなこと言ってんの!?
@@ -414,13 +414,13 @@ Should be isolated
 What is stupid thing?
 As well as
  
-I'll stop it!",0.21052631578947367
+I'll stop it!",0.21052631578947367,0.29605192
 "The Curse Mark responds even
 when one's just building up Chakra","チャクラを練り込んだだけでも
 呪印が反応しちゃって➡
 
 ","Just kneading chakras
-The curse responds ➡➡",0.26666666666666666
+The curse responds ➡➡",0.26666666666666666,0.7288203
 It's a wonder that kid is even enduring it.,"何せ
  
 あのうちは一族ですから
@@ -429,7 +429,7 @@ It's a wonder that kid is even enduring it.,"何せ
 ","What
  
 Because of that, because it is a family
-.",0.3333333333333333
+.",0.3333333333333333,0.2584882
 He should really already be dead!,"ホントなら
  
 もう死んでるわ
@@ -438,7 +438,7 @@ He should really already be dead!,"ホントなら
 ","If
  
 I'm dead already
-.",0.18181818181818182
+.",0.18181818181818185,0.47939947
 "You're in no condition to
 fight properly, Sasuke...!","今のサスケ君は
 まともに戦える状態じゃないわ
@@ -446,22 +446,22 @@ fight properly, Sasuke...!","今のサスケ君は
 
 ","Now Sasuke is
 It's not a condition that can fight properly
-.",0.19047619047619047
+.",0.19047619047619047,0.8561405
 Be quiet!,"静かにしろ
 ｡
 
 ","be quiet
-.",0.5
+.",0.5,0.8995651
 <i>Please</i> be quiet!,"静かにしてくれ！
 
-",Please be quiet!,0.5
+",Please be quiet!,0.5,0.73046356
 "No matter what you say, Sasuke...","サスケ君が何と言おうと
  
 あたし➡
 
 ","Sasuke says what to say
  
-I'm sorry",0.23076923076923078
+I'm sorry",0.2307692307692308,0.7988401
 "I'm going to tell the teachers
 about the bruise!","アザのこと
  
@@ -471,7 +471,7 @@ about the bruise!","アザのこと
 ","Aza
  
 I say the teachers
-.",0.23076923076923078
+.",0.2307692307692308,0.28244954
 What...?,"(ﾋﾅﾀ)
 あっ
 ｡
@@ -483,7 +483,7 @@ What...?,"(ﾋﾅﾀ)
 ","Ah
 .
 
-What?",0.4
+What?",0.4,0.55277085
 Excuse me... I'll quit.,"(ｶﾌﾞﾄ)
 あの
  
@@ -493,28 +493,28 @@ Excuse me... I'll quit.,"(ｶﾌﾞﾄ)
 ","that
  
 I will stop
-.",0.2
+.",0.2,0.48048148
 K-Kabuto...?,"え？
 
-",picture?,0.25
+",picture?,0.25,0.16594231
 "Kabuto Yakushi of
 the Leaf Village, correct?","木ノ葉の薬師カブト君ですね
 ｡
 
 ","It is Kabuto Kabuto of the wooden leaf
-.",0.3076923076923077
+.",0.3076923076923077,0.684005
 Okay.,"はい
 ｡
 
 ","Yes
-.",0.3333333333333333
+.",0.3333333333333333,0.4358796
 Why're you quitting?!,"カブトさん！
  
 何でやめちゃうの？
 
 ","Mr. Kabuto!
  
-What do you stop?",0.2727272727272727
+What do you stop?",0.2727272727272727,0.35155088
 "I'm sorry, Naruto...","すまない
  
 ナルト君
@@ -523,7 +523,7 @@ What do you stop?",0.2727272727272727
 ","Absent
  
 Naruto
-.",0.125
+.",0.125,0.6832637
 But my body is worn out.,"けど
  
 僕の体は
@@ -534,7 +534,7 @@ But my body is worn out.,"けど
  
 My body is
 It's already Boroboro
-.",0.45454545454545453
+.",0.4545454545454545,0.36793438
 Actually before the first exam...,"(ｶﾌﾞﾄ)
 実は
  
@@ -542,7 +542,7 @@ Actually before the first exam...,"(ｶﾌﾞﾄ)
 
 ","actually
  
-Prior to the first test",0.3333333333333333
+Prior to the first test",0.3333333333333333,0.7684237
 "when I wrangled with
 the guys from Sound Village","音のヤツらと
  
@@ -550,20 +550,20 @@ the guys from Sound Village","音のヤツらと
 
 ","With the guy of the sound
  
-From time to time",0.3076923076923077
+From time to time",0.3076923076923077,0.560651
 I've had no hearing at all in my left ear.,"左の耳が全く聞こえないんだ
 ｡
 
 ","I can not hear the left ear at all
-.",0.375
+.",0.375,0.8357379
 To fight right away...,"とても今すぐ戦うなんて➡
 
-",Very now fight,0.14285714285714285
+",Very now fight,0.14285714285714285,0.37628633
 I've seen that face a few times.,"何度か見る顔じゃな
 ｡
 
 ","It is not a face to see several times
-.",0.26666666666666666
+.",0.26666666666666666,0.7184649
 "As I recall, I think he dropped out
 of the main battle before, as well.","確か前回も
  
@@ -575,7 +575,7 @@ of the main battle before, as well.","確か前回も
  
 Elected
 I think he was abstained
-.",0.19047619047619047
+.",0.19047619047619047,0.30929458
 Anko.,"アンコ
 ｡
 (ｱﾝｺ)
@@ -586,14 +586,14 @@ Anko.,"アンコ
 .
 
 Yes
-.",0.6666666666666666
+.",0.6666666666666666,0.9140847
 Kabuto Yakushi.,"｢
 薬師カブト
 ｣｡
 
 ","""
 Kabuto Kabuto
-"".",0.4
+"".",0.4,0.7098703
 "According to the data,
 he has failed six straight times.","データでは
  
@@ -603,44 +603,44 @@ he has failed six straight times.","データでは
 ","In the data
  
 Six times continuous failure
-.",0.3333333333333333
+.",0.3333333333333333,0.6765247
 What about his background?,"一体
  
 何を考えとるんじゃ？
 
 ","Integral
  
-What do you think about?",0.3333333333333333
+What do you think about?",0.3333333333333333,0.13505433
 "he was a student who did
 not really stand out,","アカデミー時代から
 あまり目立つ生徒ではなく➡
 
 ","From the academy era
-Not a lot of students who stand out",0.2777777777777778
+Not a lot of students who stand out",0.2777777777777778,0.62415874
 and his grades were ordinary.,"成績も平凡
  
 ３度目にして➡
 
 ","Grades and ordinary
  
-Take the third time ➡",0.2727272727272727
+Take the third time ➡",0.2727272727272727,0.5710253
 "He finally passed the graduation
 exam on his third try.","ようやく卒業試験に合格
 ｡
 
 ","Finally passing graduation exam
-.",0.3333333333333333
+.",0.3333333333333333,0.7251201
 It's about before the Academy.,"アカデミー以前の話なんですが…
 ｡
 
 ","It's a story before Academy ...
-.",0.5
+.",0.5,0.8146699
 Hmm?,"(
 猿飛
 )
 ただ？
 
-",just?,0.3333333333333333
+",just?,0.3333333333333333,0.39197344
 Do you remember the story...,"ん～
 ｡
 (ｱﾝｺ)
@@ -649,18 +649,18 @@ Do you remember the story...,"ん～
 ","~
 .
 
-Do you remember?",0.3333333333333333
+Do you remember?",0.3333333333333333,0.5942049
 I remember.,"覚えておる
 ｡
 
 ","Remember
-.",0.6666666666666666
+.",0.6666666666666666,0.7498641
 "As I recall, I heard an enemy boy survivor
 at the battlefield","確か戦場で生き残っていた
 敵の少年を➡
 
 ","Certainly survived on the battlefield
-Enemy boy",0.26666666666666666
+Enemy boy",0.26666666666666666,0.69603914
 "was taken back by a Jonin from
 the medical unit.","医療部隊の上忍が
 引き取ったという話じゃったな
@@ -670,7 +670,7 @@ the medical unit.","医療部隊の上忍が
 ","Understanding the medical unit
 He was talking about taking over
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.58989686
 So he's that boy...?,"ヤツが
  
 その子というわけか
@@ -679,7 +679,7 @@ So he's that boy...?,"ヤツが
 ","Guy
  
 Is that child?
-.",0.18181818181818182
+.",0.18181818181818185,0.5326874
 Don't take arbitrary actions.,"(ﾖﾛｲ)
 勝手な行動を取るな
 ｡
@@ -687,12 +687,12 @@ Don't take arbitrary actions.,"(ﾖﾛｲ)
 
 ","Do not take selfish action
 .
-➡",0.3
+➡",0.3,0.53969336
 I leave it to you guys.,"あんたたちに任せるよ
 ｡
 
 ","I will leave it to the house
-.",0.5
+.",0.5,0.46835914
 "There should be no problems
 here with your ability.","ここは
  
@@ -702,7 +702,7 @@ here with your ability.","ここは
 ","here
  
 There should be no problem
-.",0.5454545454545454
+.",0.5454545454545454,0.5600454
 "Those of you who are irritated that
 I'm ahead of you.","最近
  
@@ -712,7 +712,7 @@ I'm ahead of you.","最近
 ","Recently
  
 Take me ahead
-I'm sorry ➡",0.1875
+I'm sorry ➡",0.1875,0.26305914
 "Don't get all high and mighty, kid.","図に乗るな
  
 ガキめ
@@ -721,7 +721,7 @@ I'm sorry ➡",0.1875
 ","Don't get on the figure
  
 Criminal
-.",0.2857142857142857
+.",0.2857142857142857,0.3085253
 "I understand, Yoroi sir.","分かりましたよ
  
 先輩
@@ -730,12 +730,12 @@ Criminal
 ","I understand
  
 upperclassman
-.",0.42857142857142855
+.",0.42857142857142855,0.2431042
 Oh.,"あんたのね
 ｡
 
 ","Amanata
-.",0.3333333333333333
+.",0.3333333333333333,0.18181297
 <i>Naruto... Sasuke...</i>,"(ｶﾌﾞﾄ)
 《ナルト君
  
@@ -747,7 +747,7 @@ Oh.,"あんたのね
  
 Sasuke
 .
-➡",0.2
+➡",0.2,0.8420699
 "<i>I wanted to play with you guys</i>
 <i>a little more.</i>","もう少し
  
@@ -761,10 +761,10 @@ Sasuke
 With you
 I wanted to play
 .
-➡",0.5
+➡",0.5,0.7054648
 <i>But if I do more than this...</i>,"これ以上やると➡
 
-",If you do more than this,0.4166666666666667
+",If you do more than this,0.4166666666666667,0.63623434
 <i>I am a spy so far as it goes.</i>,"これでも
  
 一応スパイなんでね
@@ -775,7 +775,7 @@ I wanted to play
  
 It is a spy for a while
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.72445
 "<i>I cannot expose myself, here.</i>","本当の顔を
  
 ここで
@@ -788,7 +788,7 @@ It is a spy for a while
 here
 I can not go
 .
-➡",0.1875
+➡",0.1875,0.42729148
 "<i>My role of information collecting</i>
 <i>has served its purpose...</i>","僕の情報収集役も
  
@@ -796,14 +796,14 @@ I can not go
 
 ","My information collection role
  
-It is done ➡",0.15789473684210525
+It is done ➡",0.15789473684210525,0.6352169
 <i>And Naruto...</i>,"そして
  
 ナルト君➡
 
 ","and
  
-Naruto-kun ➡",0.1111111111111111
+Naruto-kun ➡",0.1111111111111111,0.74239075
 "<i>I must tell the teachers,</i>
 <i>about Sasuke's bruise!</i>","《あっ
  
@@ -813,19 +813,19 @@ Naruto-kun ➡",0.1111111111111111
 ","""Ah
  
 Sasuke's Aza
-To teachers ... """,0.15789473684210525
+To teachers ... """,0.15789473684210525,0.6609419
 Be quiet about this bruise.,"このアザのことは黙ってろ
 ｡
 
 ","While shutting down this aza
-.",0.2
+.",0.2,0.16859967
 Why're you acting tough like that?!,"どうして
  
 そう強がるのよ？
 
 ","why
  
-Is that stronger?",0.2727272727272727
+Is that stronger?",0.2727272727272727,0.33192706
 "I don't want to watch you suffer
 all the time anymore!","ずっと苦しんでるサスケ君なんて
 もう見たくない
@@ -833,10 +833,10 @@ all the time anymore!","ずっと苦しんでるサスケ君なんて
 
 ","Sasuke who suffered for a long time
 I do not want to see anymore
-.",0.2727272727272727
+.",0.2727272727272727,0.40912405
 This has nothing to do with you!,"お前には関係ないだろ！
 
-",It doesn't matter to you!,0.25
+",It doesn't matter to you!,0.25,0.5220766
 I said it once before...,"前に一度
  
 言ったはずだ
@@ -845,12 +845,12 @@ I said it once before...,"前に一度
 ","Once before
  
 Supposed
-.",0.25
+.",0.25,0.4588787
 I'm an avenger.,"俺は復しゅう者だ
 ｡
 
 ","I'm a recovery
-.",0.42857142857142855
+.",0.42857142857142855,0.3574971
 This is not just a mere exam to me.,"これは
  
 俺にとって
@@ -861,7 +861,7 @@ This is not just a mere exam to me.,"これは
  
 For me
 It is not just a test
-.",0.5384615384615384
+.",0.5384615384615384,0.6837857
 """Am I strong?""
 All I want is the answer to that.","俺は強いのか？
 ただ
@@ -873,10 +873,10 @@ All I want is the answer to that.","俺は強いのか？
 just
  
 I want that answer
-.",0.5333333333333333
+.",0.5333333333333333,0.8122099
 <i>I'm Gaara of the desert.</i>,"＜砂瀑の我愛羅＞
 
-",<Gora of the sand bona>,0.3333333333333333
+",<Gora of the sand bona>,0.3333333333333333,0.46219888
 "<i>Hey, you there...</i>
 <i>Identify yourself.</i>","(
 ネジ
@@ -891,7 +891,7 @@ I want that answer
  
 You
  
-Name>",0.3333333333333333
+Name>",0.3333333333333333,0.60755515
 <i>You are absolutely no match for me.</i>,"(
 リー
 )
@@ -903,7 +903,7 @@ Name>",0.3333333333333333
 ","<Declarate
  
 you guys
-I'm absolutely not to me>",0.29411764705882354
+I'm absolutely not to me>",0.29411764705882354,0.4684448
 "<i>If I have the opportunity to fight you</i>
 <i>in the next exam,</i>","(
 ドス
@@ -916,19 +916,19 @@ I'm absolutely not to me>",0.29411764705882354
 ","<In this test
  
 next
-If there is an opportunity to fight you",0.4
+If there is an opportunity to fight you",0.4,0.7903877
 And they're... here!,"そして
  
 そいつらは➡
 
 ","and
  
-Those are ➡",0.1111111111111111
+Those are ➡",0.1111111111111111,0.47868192
 Sasuke...,"サスケ君…
 ｡
 
 ","Sasuke-kun ...
-.",0.25
+.",0.25,0.834259
 You!,"てめぇ
  
 何
@@ -941,7 +941,7 @@ You!,"てめぇ
 what
 If you are wearing it
  
-fool!",0.25
+fool!",0.25,0.27011847
 "I want to fight you, too.","俺は
  
 お前とも戦いたい
@@ -950,7 +950,7 @@ fool!",0.25
 ","I am
  
 I want to fight with you
-.",0.6
+.",0.6,0.85858375
 I will let Sasuke do the test...,"サスケは
  
 このままやらせ
@@ -961,18 +961,18 @@ I will let Sasuke do the test...,"サスケは
  
 Let's do this
 I will look at the situation
-.",0.42857142857142855
+.",0.42857142857142855,0.78366864
 "However, if the Curse Mark opens","ただし
  
 呪印が開き➡
 
 ","However
  
-The curse opens ➡➡",0.5
+The curse opens ➡➡",0.5,0.80712825
 "and the power gets even a little bit
 out of control,","力が少しでも暴走したら➡
 
-",If the power runs a little,0.2857142857142857
+",If the power runs a little,0.2857142857142857,0.6088757
 get in there and stop it.,"止めに入れ
 ｡
 (ｲﾋﾞｷ)
@@ -983,12 +983,12 @@ get in there and stop it.,"止めに入れ
 .
 
 Yes
-.",0.2222222222222222
+.",0.2222222222222222,0.45248902
 I understand.,"分かりました
 ｡
 
 ","I understand
-.",1.0
+.",1.0,1.0000002
 "The preliminaries to come
 will be one on one individual battles.","これからの予選は
 １対１の個人戦
@@ -998,7 +998,7 @@ will be one on one individual battles.","これからの予選は
 ","The future qualifying is
 One-to-one individual battle
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.6453068
 "In other words,
 actual battle format.","つまり
  
@@ -1012,7 +1012,7 @@ actual battle format.","つまり
 Match of actual battle type
 Let me do it
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.48711047
 "The winners will be able to
 advance to the third exam.","え～
  
@@ -1024,12 +1024,12 @@ advance to the third exam.","え～
  
 The winner
 You can advance to the third exam
-.",0.4
+.",0.4,0.8597139
 There are no rules at all.,"ルールは一切なしです
 ｡
 
 ","There is no rule
-.",0.3333333333333333
+.",0.3333333333333333,0.8070885
 "You will fight until someone dies,
 collapses... or admits defeat.","あるいは
  
@@ -1043,7 +1043,7 @@ collapses... or admits defeat.","あるいは
 Until the loss
 I will fight
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.6700522
 "And... please admit defeat right away
 if you don't want to die.","え～
  
@@ -1051,7 +1051,7 @@ if you don't want to die.","え～
 
 ","Eh ~
  
-If you don't want to die",0.4117647058823529
+If you don't want to die",0.4117647058823529,0.568179
 "However, in case I judge
 that a match is over...","ただし
  
@@ -1063,7 +1063,7 @@ that a match is over...","ただし
  
 When the match was clear
 If I judge ...
-.",0.2777777777777778
+.",0.2777777777777778,0.7239774
 "err... I don't want to needlessly increase
 dead bodies,","え～
  
@@ -1073,25 +1073,25 @@ dead bodies,","え～
 ","Eh ~
  
 Immoderately
-I do not want to increase the corpse",0.2777777777777778
+I do not want to increase the corpse",0.2777777777777778,0.73095864
 "so I will intervene and stop the match
 or something to that effect.","止めに入ったりなんかします
 ｡
 
 ","I'm going to stop or something
-.",0.375
+.",0.375,0.41280168
 What holds the key to your destinies is...,"これから
 君たちの命運を握るのは…
 ｡
 
 ","from now
 Holding your life ...
-.",0.14285714285714285
+.",0.14285714285714285,0.44163373
 Open it.,"開け
 ｡
 
 ","open
-.",0.6666666666666666
+.",0.6666666666666666,0.7340825
 "The names of two foes will be
 randomly selected and","１回戦ごと
  
@@ -1101,25 +1101,25 @@ randomly selected and","１回戦ごと
 ","Every round
  
 Randomly elected
-The name of the opponent",0.2
+The name of the opponent",0.2,0.58352906
 displayed on this electronic signboard.,"２名ずつ表示します
 ｡
 
 ","2 people will be displayed
-.",0.2
+.",0.2,0.3373176
 "Now then, let's get right down to it","では
  
 早速ですが➡
 
 ","In
  
-It is immediately ➡",0.07142857142857142
+It is immediately ➡",0.07142857142857142,0.24065194
 "and announce the two names
 for the first battle.","第１回戦の２名を発表します
 ｡
 
 ","We announce 2 people of the first round
-.",0.2857142857142857
+.",0.2857142857142857,0.5530167
 No way!,"(ﾖﾛｲ)
 《フッ
  
@@ -1127,7 +1127,7 @@ No way!,"(ﾖﾛｲ)
 
 ","""Hu
  
-I have no hope",0.125
+I have no hope",0.125,0.089440495
 Why Sasuke?!,"《そんな
  
 何で
@@ -1138,7 +1138,7 @@ Why Sasuke?!,"《そんな
  
 why
  
-Sasuke-kun ...",0.125
+Sasuke-kun ...",0.125,0.7868694
 "Now then, the two displayed on
 the signboard, come forward.","では
  
@@ -1152,7 +1152,7 @@ the signboard, come forward.","では
 2 people shown on the bulletin board
  
 Forward
-.",0.23529411764705882
+.",0.2352941176470588,0.5601469
 "For the 1st battle, Yoroi Akado and
 Sasuke Uchiha have been selected.","赤胴ヨロイ
  
@@ -1162,39 +1162,39 @@ Sasuke Uchiha have been selected.","赤胴ヨロイ
 ","Red vessel
  
 My house decided to Sasuke
-.",0.1
+.",0.1,0.43363273
 "No objections, right?","異存ありませんね？
 
-",Is there no difference?,0.25
+",Is there no difference?,0.25,0.2377675
 "- Right.
 - No!","うっ
 ｡
 
 ","Pet
-.",0.16666666666666666
+.",0.16666666666666666,0.22493458
 "<i>If you want to fight me, don't lose!</i>","《サスケ
 俺と戦いたいんだったら➡
 
 ","""Sasuke
-If you want to fight with me",0.3333333333333333
+If you want to fight with me",0.3333333333333333,0.4708846
 <i>Sasuke... You're acting strange...</i>,"負けんじゃねえぞ！》
 
-","You're not losing!""",0.14285714285714285
+","You're not losing!""",0.14285714285714285,0.20973709
 <i>Is it because of the Curse Mark...?</i>,"(
 ドス
 )
 《呪印のせいか…》
 
-","""Because of the curse ...""",0.3333333333333333
+","""Because of the curse ...""",0.3333333333333333,0.5785017
 <i>The pain won't go away!</i>,"《痛みが引かねえ》
 
-","""Pain is pulled""",0.06666666666666667
+","""Pain is pulled""",0.06666666666666668,0.4449655
 <i>It appears the Curse Mark hurts.</i>,"(ﾖﾛｲ)
 《フフ…
 呪印が痛むようだな》
 
 ","""Huff ...
-It seems that the curse hurts """,0.1875
+It seems that the curse hurts """,0.1875,0.527316
 "Now then, we will begin the first battle.","(ﾊﾔﾃ)
 え～
  
@@ -1210,13 +1210,13 @@ In
  
 from now
 I will start the first round
-.",0.29411764705882354
+.",0.29411764705882354,0.41258928
 "Everyone other than the two foes,
 please move to the upper area.","上のほうに移動してください
 ｡
 
 ","Please move to the top
-.",0.35714285714285715
+.",0.35714285714285715,0.5824112
 Hey! Kakashi Sensei!,"ん？
  
 お～い！
@@ -1227,29 +1227,29 @@ Hey! Kakashi Sensei!,"ん？
  
 Oh!
  
-teacher Kakashi!",0.25
+teacher Kakashi!",0.25,0.6319336
 Sasuke!,"(ｶｶｼ)
 サスケ
 ｡
 
 ","Sasuke
-.",0.3333333333333333
+.",0.3333333333333333,0.90816414
 Don't use the Sharingan.,"(ｶｶｼ)
 写輪眼は使うな
 ｡
 
 ","Do not use the moss eyes
-.",0.4444444444444444
+.",0.4444444444444444,0.25198776
 "If that Curse Mark on your neck
 gets out of control,","(ｶｶｼ)
 その首の呪印が暴走すれば➡
 
-",If the neck curse runs away,0.2
+",If the neck curse runs away,0.2,0.7915158
 it could endanger your life.,"お前の命に関わる
 ｡
 
 ","Related to your life
-.",0.375
+.",0.375,0.292112
 "Well, the match will be
 called off at that time.","(ｶｶｼ)
 まっ
@@ -1262,7 +1262,7 @@ called off at that time.","(ｶｶｼ)
  
 At that time, the game is canceled
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.34121308
 "I'll be coming in to stop it,
 so good luck.","俺がお前を止めに入るから
 よろしく
@@ -1270,14 +1270,14 @@ so good luck.","俺がお前を止めに入るから
 
 ","Because I will stop you
 nice to meet you
-.",0.2222222222222222
+.",0.2222222222222222,0.2564376
 "<i>Called off, you say?!</i>","《中止だと!?》
 
-","""If it is canceled!?""",0.11764705882352941
+","""If it is canceled!?""",0.1176470588235294,0.26864004
 "<i>It seems this Curse Mark thing</i>
 <i>is responding to my Chakra.</i>","《この呪印とやらは➡
 
-","""This curse and the like",0.10526315789473684
+","""This curse and the like",0.10526315789473684,0.43293914
 <i>This is my final Chakra...</i>,"《これが
  
 最後のチャクラだ
@@ -1288,10 +1288,10 @@ nice to meet you
  
 It is the last chakra
 .
-➡",0.1875
+➡",0.1875,0.79933983
 <i>Sharingan!</i>,"＜あぁ！＞
 
-",<Oh!>,0.42857142857142855
+",<Oh!>,0.42857142857142855,0.3991335
 "<i>Sasuke, stop using the Sharingan!</i>","＜サスケ君
 写輪眼を使うのは
  
@@ -1300,30 +1300,30 @@ It is the last chakra
 ","<Sasuke-kun
 Using the mossing eyes
  
-stop!>",0.42857142857142855
+stop!>",0.42857142857142855,0.69855535
 "<i>and bring out the Chakra</i>
 <i>inside my body to no end.</i>","体中のチャクラを
 際限なく引き出してしまう》
 
 ","Chakra in the body
-I will draw out without limit",0.25
+I will draw out without limit",0.25,0.68900675
 "<i>I can hardly use even my regular Jutsu,</i>
 <i>not to mention the Sharingan!</i>","普通の術でさえ
 そうそう使えないってわけか》
 
 ","Even ordinary techniques
-Oh yeah I can not use it",0.21739130434782608
+Oh yeah I can not use it",0.21739130434782608,0.34288025
 "<i>However... Yoroi's ability is</i>
 <i>the worst for you, Sasuke.</i>","ところがヨロイの能力は➡
 
-","However, the ability of Yoroi is ➡",0.3333333333333333
+","However, the ability of Yoroi is ➡",0.3333333333333333,0.7108458
 <i>Now then... How will I go...?</i>,"《さ～て
  
 どう行くかな？》
 
 ","""さ
  
-What do you go?""",0.11764705882352941
+What do you go?""",0.1176470588235294,0.3326198
 <i>Don't act rashly...Sasuke.</i>,"(ｶｶｼ)
 《むちゃはするなよ
  
@@ -1331,7 +1331,7 @@ What do you go?""",0.11764705882352941
 
 ","""Don't do it
  
-Sasuke""",0.14285714285714285
+Sasuke""",0.14285714285714285,0.67958164
 "Now then, please begin.","それでは
  
 始めてください
@@ -1340,23 +1340,23 @@ Sasuke""",0.14285714285714285
 ","Then
  
 Please start
-.",0.42857142857142855
+.",0.42857142857142855,0.77022755
 Let's go!,"(ﾖﾛｲ)
 行こうか！
 ああ！
 
 ","lets go!
-Ah!",0.3333333333333333
+Ah!",0.3333333333333333,0.7773584
 Yeah!,"うあ～！
 
-",Uh!,0.3333333333333333
+",Uh!,0.3333333333333333,0.70365465
 <i>My body strength has suddenly...!</i>,"《何だ？
  
 急に体の力が…》
 
 ","""What?
  
-Suddenly the power of the body ... """,0.17647058823529413
+Suddenly the power of the body ... """,0.17647058823529413,0.42154494
 <i>Sasuke...!</i>,"(ﾖﾛｲ)
 フフフフ…！
 今頃
@@ -1368,7 +1368,7 @@ Suddenly the power of the body ... """,0.17647058823529413
 Nowadays
  
 I realized
-.",0.2727272727272727
+.",0.2727272727272727,0.14189167
 You... my Chakra...,"お前
  
 俺のチャクラを…
@@ -1377,7 +1377,7 @@ You... my Chakra...,"お前
 ","you
  
 My chakra ...
-.",0.8
+.",0.8,0.9433219
 "<i>when you want to cry, and you want to run away</i>","♬
  
 君は
@@ -1388,7 +1388,7 @@ My chakra ...
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.3908758
 "Damn it!
 The pain won't go away!","♬
  
@@ -1400,14 +1400,14 @@ The pain won't go away!","♬
  
 Already
  
-it's fine",0.07692307692307693
+it's fine",0.07692307692307693,0.2275955
 All I want is the answer to that.,"♬
  
 泣きたくなって
 
 ","♬
  
-I want to cry",0.2727272727272727
+I want to cry",0.2727272727272727,0.2392826
 "I won't let this thing swallow me up
 in a place like this!","♬
  
@@ -1415,4 +1415,4 @@ in a place like this!","♬
 
 ","♬
  
-A singing",0.0625
+A singing",0.0625,0.1751675

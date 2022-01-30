@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.69996905
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.6233531
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852413
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.7599903
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372732
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.3079108
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,41 +67,41 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522565
 "- <i>Start the operation!</i>
 - <i>Start the operation!</i>","(ｶﾝｸﾛｳ･
 バキ
 ･ﾃﾏﾘ)
 《作戦開始！》
 
-","""Start strategy!""",0.16666666666666666
+","""Start strategy!""",0.16666666666666666,0.4084569
 Leave it to me!,"(
 暗部
 )
 任せろ！
 
-",Leave it!,0.6
+",Leave it!,0.6,0.8042626
 Gaara!,"(ﾗｲﾄﾞｳ)
 火影様！
 
-",Surface!,0.3333333333333333
+",Surface!,0.3333333333333333,0.32601336
 "Squad One, above.","あっ
 ｡
 
 ","Ah
-.",0.16666666666666666
+.",0.16666666666666666,0.2294857
 You're in the way!,"(
 暗部
 )
 邪魔だ！
 
-",in the way!,0.6666666666666666
+",in the way!,0.6666666666666666,0.7495237
 "Lord Hokage...
 Please... flee...","逃げて…ください…
 ｡
 
 ","Run away ... please ...
-.",0.25
+.",0.25,0.4685262
 "It's finally our time to
 come on the scene.","(
 鬼童丸
@@ -114,14 +114,14 @@ come on the scene.","(
 ","Hae ~
  
 Finally the speed
-.",0.21428571428571427
+.",0.21428571428571427,0.2700441
 I'm totally pent up with frustration.,"ギンギンに
 欲求不満たまってんだよ
 ｡
 
 ","Gingine
 I'm sorry I'm frustrated
-.",0.2727272727272727
+.",0.2727272727272727,0.3870697
 You guys smell all sweaty!,"(
 多由也
 )
@@ -133,13 +133,13 @@ You guys smell all sweaty!,"(
 ","I'm sweaty
  
 You guys
-.",0.3333333333333333
+.",0.3333333333333333,0.73280066
 <i>Sound Ninja...!</i>,"(
 猿飛
 )
 《音忍…》
 
-","""Sound Shinobu ...""",0.18181818181818182
+","""Sound Shinobu ...""",0.18181818181818185,0.39469096
 Raido...,"(
 暗部１
 )
@@ -149,7 +149,7 @@ Raido...,"(
 
 ","Rideo ...
 .
-➡",0.2
+➡",0.2,0.47646958
 "We're heading out to
 back up Lord Hokage.","火影様の援護に向かうぞ
 わなに注意しろ
@@ -157,7 +157,7 @@ back up Lord Hokage.","火影様の援護に向かうぞ
 
 ","I will go to the hoist support
 Weather to
-.",0.11764705882352941
+.",0.1176470588235294,0.41570848
 Do it...,"(
 風影
 )
@@ -165,7 +165,7 @@ Do it...,"(
 ｡
 
 ","Do it
-.",0.5
+.",0.5,0.8314482
 "- Ninja Art!
 - Ninja Art!","(
 一同
@@ -176,13 +176,13 @@ Do it...,"(
 
 ","Ninja method
  
-Four criminal fire!",0.25
+Four criminal fire!",0.25,0.554864
 Barrier!,"(
 鬼童丸
 )
 ハッ！
 
-",Ha!,0.3333333333333333
+",Ha!,0.3333333333333333,0.26424032
 "What are you doing here?!
 Lord Hokage is in danger!","(ｶｶｼ)
 ん？
@@ -193,7 +193,7 @@ Lord Hokage is in danger!","(ｶｶｼ)
 
 ","Yeah?
 
-What are you doing?",0.38461538461538464
+What are you doing?",0.38461538461538464,0.2742108
 "So it was also that guy
 who used Genjutsu!","幻術を使ったのも
  
@@ -201,7 +201,7 @@ who used Genjutsu!","幻術を使ったのも
 
 ","I also used illusion
  
-Is it master?",0.2
+Is it master?",0.2,0.22099087
 Yeah... there's no mistake.,"(ｶｶｼ)
 ああ
  
@@ -211,7 +211,7 @@ Yeah... there's no mistake.,"(ｶｶｼ)
 ","Ah
  
 no doubt
-.",0.2222222222222222
+.",0.2222222222222222,0.19781104
 Sand Village would betray Leaf Village.,"まさか
  
 砂が木ノ葉を裏切るとは
@@ -220,7 +220,7 @@ Sand Village would betray Leaf Village.,"まさか
 ","Masadish
  
 Sand betrayed wooden leaves
-.",0.2
+.",0.2,0.6100017
 "The treaty is simply a camouflage to
 make the enemy let down their guard.","(
 風影
@@ -229,7 +229,7 @@ make the enemy let down their guard.","(
 相手を油断させるための➡
 
 ","The treaty is
-To oil the other party",0.23529411764705882
+To oil the other party",0.2352941176470588,0.6025
 "From this point on, the course
 of history will change!","ここからは
  
@@ -239,11 +239,11 @@ of history will change!","ここからは
 ","From here
  
 History move
-.",0.13333333333333333
+.",0.13333333333333333,0.5676254
 "Are you saying that
 you're starting a war?","戦争でも始めようと言うのか？
 
-",Will you say it will start in war?,0.21428571428571427
+",Will you say it will start in war?,0.21428571428571427,0.7230153
 That's right.,"(
 風影
 )
@@ -251,17 +251,17 @@ That's right.,"(
 ｡
 
 ","that's right
-.",1.0
+.",1.0,1.0000001
 "One should avoid resolution
 through armed force","武力による解決は避け➡
 
-",Avoid resolution by armed power,0.3333333333333333
+",Avoid resolution by armed power,0.3333333333333333,0.776942
 "and should rather seek
 a solution through negotiations.","話し合いでの解決を模索すべきだ
 ｡
 
 ","Should be explored a discussion solution
-.",0.3333333333333333
+.",0.3333333333333333,0.5846109
 You're...,"(
 風影
 )
@@ -271,7 +271,7 @@ You're...,"(
 
 ","Fuhufu ...
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.2377737
 "to have lookout duty
 on a day like this.","(
 忍１
@@ -284,14 +284,14 @@ on a day like this.","(
 ","I'm not happy
 Such a day
 .
-➡",0.1875
+➡",0.1875,0.1358826
 I wanted to watch Chunin Exam too.,"俺も中忍試験
 見たかったんだけどなぁ
 ｡
 
 ","I also joined by Nakanobu
 I wanted to see it
-.",0.2857142857142857
+.",0.2857142857142857,0.4143071
 Stop fussing.,"(
 猿飛
 )
@@ -299,7 +299,7 @@ Stop fussing.,"(
 ｡
 
 ","you…
-.",0.25
+.",0.25,0.25651175
 "The Chunin Exam takes
 place twice a year.","(
 忍２
@@ -310,13 +310,13 @@ place twice a year.","(
 
 ","Boy
 Nakanobu test is twice every year
-.",0.21428571428571427
+.",0.21428571428571427,0.4861406
 "You'll have many more chances
 to see it.","いくらでも見る機会はある
 ｡
 
 ","There are many opportunities to see
-.",0.3076923076923077
+.",0.3076923076923077,0.4372574
 "But this year, that kid from
 the Uchiha Clan is taking part, right?","でも
  
@@ -332,22 +332,22 @@ This time
  
 Of the other family
 Gaki comes out
-.",0.13043478260869565
+.",0.13043478260869565,0.33907887
 "And I won't have
 a chance to see that...","それが見られないなんて➡
 
-",I can't see it,0.23076923076923078
+",I can't see it,0.2307692307692308,0.33275637
 I won't be able to die peacefully.,"死んでも死にきれないぜ
 ｡
 
 ","I can not die even if I die
-.",0.23076923076923078
+.",0.2307692307692308,0.60770166
 What's that?!,"(
 忍２
 )
 何だ!?
 
-",What!?,0.6
+",What!?,0.6,0.47225878
 It's time! Begin!,"(
 忍３
 )
@@ -357,7 +357,7 @@ It's time! Begin!,"(
 
 ","it's time!
  
-Start!",0.6666666666666666
+Start!",0.6666666666666666,0.94591933
 The Summoning has succeeded.,"口寄せ
  
 成功
@@ -366,22 +366,22 @@ The Summoning has succeeded.,"口寄せ
 ","Dip
  
 success
-.",0.14285714285714285
+.",0.14285714285714285,0.24519937
 Huge boa!,"(
 忍４
 )
 ハァ～！
 
-",Hua!,0.25
+",Hua!,0.25,0.36877266
 I'm not letting you in the village!,"(
 忍５
 )
 里には入れん！
 
-",In the village!,0.4444444444444444
+",In the village!,0.4444444444444444,0.6894048
 Sand Ninja!,"うわ～！
 
-",Wow!,0.25
+",Wow!,0.25,0.20851928
 "Stop that, Gaara!","(ﾃﾏﾘ)
 やめろ
  
@@ -389,11 +389,11 @@ Sand Ninja!,"うわ～！
 
 ","Stop
  
-Seller!",0.3333333333333333
+Seller!",0.3333333333333333,0.39174145
 Don't forget our mission!,"(ﾃﾏﾘ)
 われわれの使命を忘れるな！
 
-",Do not forget our mission!,0.7142857142857143
+",Do not forget our mission!,0.7142857142857143,0.97734356
 What are you guys doing?!,"(
 バキ
 )
@@ -403,25 +403,25 @@ What are you guys doing?!,"(
 
 ","you
  
-What are you doing!? ➡",0.75
+What are you doing!? ➡",0.75,0.6580046
 The operation is already underway!,"もう作戦は始まっているんだぞ
 ｡
 
 ","The operation is already beginning
-.",0.5
+.",0.5,0.7876372
 What's the matter?!,"何なんだよ？
  
 一体！
 
 ","What is it?
  
-Sole!",0.3333333333333333
+Sole!",0.3333333333333333,0.24319468
 "His wound is deeper than
 I thought!","思ったより傷が深い
 ｡
 
 ","It is deeper than I thought
-.",0.5
+.",0.5,0.5393826
 "Idiot! It's all because
 you didn't wait for the signal","ばかめ
  
@@ -437,7 +437,7 @@ Do not wait for a signal
  
 Without permission
 Because I try to become a complete
-.",0.20833333333333334
+.",0.20833333333333331,0.7373624
 "and tried to become
 the Perfect Possession...","(ｶﾝｸﾛｳ)
 それじゃあ
@@ -448,7 +448,7 @@ the Perfect Possession...","(ｶﾝｸﾛｳ)
 ","Well then
  
 What to use ...
-.",0.15384615384615385
+.",0.15384615384615385,0.15571333
 What should we do?!,"(
 我愛羅
 )
@@ -458,7 +458,7 @@ What should we do?!,"(
 
 ","Wow ...!
 
-What happened?",0.3333333333333333
+What happened?",0.3333333333333333,0.2600226
 "Are you saying we have to do
 this without Gaara?","(ｶﾝｸﾛｳ)
 俺たち
@@ -473,7 +473,7 @@ this without Gaara?","(ｶﾝｸﾛｳ)
 What's wrong?
 With no Japanese
  
-Do you have?",0.2222222222222222
+Do you have?",0.2222222222222222,0.2291807
 Gaara is Sand's trump card.,"我愛羅は
  
 砂の切り札なのだ
@@ -482,13 +482,13 @@ Gaara is Sand's trump card.,"我愛羅は
 ","Seller
  
 It's a trump card
-.",0.4
+.",0.4,0.34422013
 Got it!,"(
 忍１
 )
 うわっ！
 
-",Wow!,0.25
+",Wow!,0.25,0.28760594
 I'm gonna suppress those guys!,"俺は
  
 こいつらを食い止める
@@ -497,22 +497,22 @@ I'm gonna suppress those guys!,"俺は
 ","I am
  
 I stop eating these guys
-.",0.15384615384615385
+.",0.15384615384615385,0.4679296
 "Do you think things will
 go according to your plan?","(ｹﾞﾝﾏ)
 思惑どおりに行くと思うのか？
 
-",Do you think you will go as a matter?,0.42857142857142855
+",Do you think you will go as a matter?,0.42857142857142855,0.6404817
 Go!,"(
 バキ
 )
 行け！
 
-",go!,1.0
+",go!,1.0,0.9999998
 Is Orochimaru the host of this party?,"(ｹﾞﾝﾏ)
 このパーティーの主催者は➡
 
-",The organizer of this party is ➡,0.5
+",The organizer of this party is ➡,0.5,0.45036197
 Sasuke...,"(ｹﾞﾝﾏ)
 サスケ
 ｡
@@ -520,7 +520,7 @@ Sasuke...,"(ｹﾞﾝﾏ)
 
 ","Sasuke
 .
-➡",0.25
+➡",0.25,0.8846242
 You've already achieved Chunin level.,"(ｹﾞﾝﾏ)
 お前は
  
@@ -532,19 +532,19 @@ You've already achieved Chunin level.,"(ｹﾞﾝﾏ)
  
 It is already Nakanobu Level
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.5428672
 "If you're a Leaf Shinobi,
 be of service to the Leaf!","要は我愛羅の野郎を
 ぶっ倒せばいいんだろ？
 
 ","The point is the bastard of
-You should beat it?",0.15
+You should beat it?",0.15,0.15537593
 "In other words, I'm supposed to
 take down that jerk Gaara, right?","盛り上がっていこうぜ
 ｡
 
 ","I'm excited
-.",0.11764705882352941
+.",0.1176470588235294,0.13846637
 Don't pursue too far.,"さっきの続きで
 ｡
 深追いはするなよ
@@ -553,7 +553,7 @@ Don't pursue too far.,"さっきの続きで
 ","With a continuation
 .
 Don't deeply chase
-.",0.2727272727272727
+.",0.2727272727272727,0.5446197
 "From here on, it's no longer an exam.
 It's the real thing!","悪いが
 中忍試験は
@@ -565,7 +565,7 @@ It's the real thing!","悪いが
 Nakanobu test
  
 It is the end here
-.",0.2
+.",0.2,0.2633919
 "What I have to do though...
 is the same!","やることは
  
@@ -573,23 +573,23 @@ is the same!","やることは
 
 ","What do you do
  
-Together!",0.23076923076923078
+Together!",0.2307692307692308,0.392017
 "We intended to take Sasuke
 while Gaara was causing the trouble.","サスケ君を頂くつもりでしたが➡
 
-","I intended to get Sasuke, but",0.1875
+","I intended to get Sasuke, but",0.1875,0.7166018
 But not everything goes as planned.,"すべて思いどおりというわけには
 いかないようですね
 ｡
 
 ","Everything is as usual
 It seems not to go
-.",0.3076923076923077
+.",0.3076923076923077,0.55065775
 I see... Is that so?,"サスケが目的ということか
 ｡
 
 ","Is Sasuke's purpose?
-.",0.18181818181818182
+.",0.18181818181818185,0.19963428
 Is the Leaf such a big catch?,"(
 風影
 )
@@ -601,7 +601,7 @@ Is the Leaf such a big catch?,"(
 ","This tree no leaves
 Is it such a major?
 .
-➡",0.25
+➡",0.25,0.6506041
 "I'll be able to show you something
 much more interesting.","もっと
  
@@ -615,19 +615,19 @@ much more interesting.","もっと
 Funny things
 It can be shown ...
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.4370921
 "Well, anyway...","まぁ
  
 ともかく➡
 
 ","Maic
  
-Anyway",0.2
+Anyway",0.2,0.28217372
 It's <i>my</i> win.,"私の勝ちだ
 ｡
 
 ","My win
-.",0.3333333333333333
+.",0.3333333333333333,0.46864972
 "Nothing is decided
 until the very end.","フン
  
@@ -639,12 +639,12 @@ until the very end.","フン
  
 All things
 I do not know until the end
-.",0.26666666666666666
+.",0.26666666666666666,0.31588027
 I believe that's what I taught you...,"そう教えたはずだったな
 ｡
 
 ","That should be taught
-.",0.18181818181818182
+.",0.18181818181818185,0.6117459
 "I thought this day would
 eventually arrive.","いずれ
  
@@ -656,7 +656,7 @@ eventually arrive.","いずれ
  
 Such a day comes
 had thought
-.",0.23076923076923078
+.",0.2307692307692308,0.597996
 "It is preferable to decide
 the Fifth Hokage quickly...","わしの首は
  
@@ -666,10 +666,10 @@ the Fifth Hokage quickly...","わしの首は
 ","The neck is
  
 It's not so easy
-.",0.1875
+.",0.1875,0.20226416
 Third Hokage...,"三代目➡
 
-",Third generation,0.25
+",Third generation,0.25,0.3213282
 because you will... die here.,"あなた
  
 ここで死ぬのだから
@@ -678,7 +678,7 @@ because you will... die here.,"あなた
 ","you
  
 Because it will die here
-.",0.75
+.",0.75,0.7666143
 "A teacher mustn't root for
 one particular student!","(ｲﾙｶ)
 いかん
@@ -693,14 +693,14 @@ one particular student!","(ｲﾙｶ)
 Iken!
  
 Teacher
-I support one student!",0.2857142857142857
+I support one student!",0.2857142857142857,0.5693515
 <i>But I still...want Naruto to win...</i>,"ナルトには
  
 勝ってほしいよな》
 
 ","Naruto
  
-I want you to win """,0.38461538461538464
+I want you to win """,0.38461538461538464,0.82783705
 Y-You guys...,"(
 木ノ葉丸
 )
@@ -712,7 +712,7 @@ Y-You guys...,"(
 ","Hahaha ...
  
 on second thoughts
-.",0.125
+.",0.125,0.2142924
 "I told you to do ten laps around
 the school grounds, didn't I?!","校庭
 10
@@ -720,7 +720,7 @@ the school grounds, didn't I?!","校庭
 
 ","Schoolyard
 Ten
-I said that I was around!",0.2
+I said that I was around!",0.2,0.5336464
 We finished that long ago.,"そりゃあ
  
 もちろん…
@@ -729,7 +729,7 @@ We finished that long ago.,"そりゃあ
 ","That
  
 of course…
-.",0.25
+.",0.25,0.15600868
 "While you were daydreaming, Sensei.","(ﾓｴｷﾞ)
 先生が
  
@@ -745,7 +745,7 @@ While blurry
 .
 
 Uey ...
-.",0.18181818181818182
+.",0.18181818181818185,0.26576468
 "N-No, no!
 I'm continuing with class.","先生がこんな調子じゃ
 授業にならないんだなコレ
@@ -753,7 +753,7 @@ I'm continuing with class.","先生がこんな調子じゃ
 
 ","Teacher is like this
 I'm not a class
-.",0.25
+.",0.25,0.42161655
 I wonder what that smoke is...?,"あっ
  
 何だろう？
@@ -770,22 +770,22 @@ What is it?
 That smoke
 .
 
-Yeah?➡",0.38461538461538464
+Yeah?➡",0.38461538461538464,0.73119015
 What should we do?,"(ｳﾄﾞﾝ)
 何かあったのかな？
 
-",What happened?,0.3333333333333333
+",What happened?,0.3333333333333333,0.19426632
 what the situation is.,"試験会場のほうだな
 ｡
 
 ","It is the examination hall
-.",0.375
+.",0.375,0.16109152
 even more so.,"(ｲﾋﾞｷ)
 大蛇丸め
 ｡
 
 ","Large snake round
-.",0.14285714285714285
+.",0.14285714285714285,0.08267691
 "Originally... he was a student
 of the Third Hokage.","(ｲﾋﾞｷ)
 もともとな
@@ -796,7 +796,7 @@ of the Third Hokage.","(ｲﾋﾞｷ)
 ","Originally
  
 It is a third-generation girl
-.",0.2
+.",0.2,0.38001773
 "Long ago, when the Fourth Hokage
 was decided...","昔な
  
@@ -806,7 +806,7 @@ was decided...","昔な
 ","Old-fashioned
  
 It is when deciding on the fourth generation
-.",0.17647058823529413
+.",0.17647058823529413,0.40610862
 "Orochimaru apparently asserted that
 he was capable of taking on that role.","大蛇丸は
  
@@ -816,7 +816,7 @@ he was capable of taking on that role.","大蛇丸は
 ","Great serpent
  
 Oneself
-He said that he claimed that it was a bowl",0.15
+He said that he claimed that it was a bowl",0.15,0.25670603
 "And shortly afterwards,
 that guy slipped out of this village","それから少しして
 ヤツは
@@ -830,7 +830,7 @@ The guy
  
 He missed this village
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.649302
 the Third Hokage because of that.,"恐らく大蛇丸は
  
 そのことから
@@ -841,21 +841,21 @@ the Third Hokage because of that.,"恐らく大蛇丸は
  
 From that
 I am habit of the third generation
-.",0.3333333333333333
+.",0.3333333333333333,0.33078077
 Revenge... is it?,"それが
  
 何で抜け忍なんかに？
 
 ","that is
  
-What a loneliness Shinobu?",0.2
+What a loneliness Shinobu?",0.2,0.2265091
 Probably.,"受け入れてもらえなかった
 ｡
 ➡
 
 ","I did not receive it
 .
-➡",0.125
+➡",0.125,-0.027629321
 "there's one thing I remember
 thinking when I saw that guy...","ヤツを見て思ったことが
 １つだけある
@@ -863,11 +863,11 @@ thinking when I saw that guy...","ヤツを見て思ったことが
 
 ","I thought I saw a guy
 Only one
-.",0.25
+.",0.25,0.37734005
 "That he seems to be something
 that just took on a human form...","人間じゃないみたいな➡
 
-",It looks like it's not a human,0.1111111111111111
+",It looks like it's not a human,0.1111111111111111,0.46567017
 Simply... frightening.,"あぁ…
 ｡
 (
@@ -875,7 +875,7 @@ Simply... frightening.,"あぁ…
 )
 
 ","Ahh…
-.",0.2
+.",0.2,0.18972717
 "A large boa has appeared near
 the eastern gate of the Leaf Village!","(
 忍２
@@ -888,7 +888,7 @@ the eastern gate of the Leaf Village!","(
 ","report
  
 Nice Gate of Kuno Leaves
-Great snake appears!➡",0.14285714285714285
+Great snake appears!➡",0.14285714285714285,0.51027286
 "They are currently engaged in
 armed conflict with our Shinobi","現在
  
@@ -898,18 +898,18 @@ armed conflict with our Shinobi","現在
 ","Current
  
 In the battle with Shinobu on the vicinity
-.",0.11764705882352941
+.",0.1176470588235294,0.66646886
 <i>The Sand...?!</i>,"(ｲﾋﾞｷ)
 《砂か…》
 
-","""Sand ...""",0.18181818181818182
+","""Sand ...""",0.18181818181818185,0.6981089
 "Leave Squad One and Two behind
 and make for the eastern gate.","(ｲﾋﾞｷ)
 １班と２班を残し
 東門に向かう！➡
 
 ","Leave one group and two
-Go to the Tomon!➡",0.2777777777777778
+Go to the Tomon!➡",0.2777777777777778,0.39274853
 Immediately!,"急げ！
 (
 忍たち
@@ -918,13 +918,13 @@ Immediately!,"急げ！
 
 ","hurry up!
 
-Hey!",0.2
+Hey!",0.2,0.480951
 There's quite a large number.,"(ｶｶｼ)
 かなりの数だな
 ｡
 
 ","It is quite a few
-.",0.3
+.",0.3,0.740739
 Kakashi! Look inside the Barrier!,"カカシ
  
 結界の中を見てみろ
@@ -937,14 +937,14 @@ Kakashi! Look inside the Barrier!,"カカシ
 Look at the juice
 .
 
-Yeah?",0.2727272727272727
+Yeah?",0.2727272727272727,0.580879
 <i>What...?</i>,"(ｻｸﾗ)
 《何？》
 
-","""what?""",0.2222222222222222
+","""what?""",0.2222222222222222,0.31180647
 Sasuke!,"サスケ君！
 
-",Sasuke-kun!,0.3333333333333333
+",Sasuke-kun!,0.3333333333333333,0.84763265
 "Sakura, stay there for a while.","(ｶｶｼ)
 サクラ
  
@@ -960,13 +960,13 @@ For a short time
  
 So
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.25368002
 "I'm gonna go reduce
 the number of enemies.","敵の数を減らすから
 ｡
 
 ","Because the number of enemies is reduced
-.",0.35714285714285715
+.",0.35714285714285715,0.6234692
 "Darn! I'm worried about
 Lord Hokage, but...","(
 ガイ
@@ -977,7 +977,7 @@ Lord Hokage, but...","(
 
 ","Chikusho ~
 I'm worried about the fire shadow ...
-.",0.29411764705882354
+.",0.29411764705882354,0.4085931
 Leave above to Anbu.,"(ｶｶｼ)
 上は暗部に任せろ
  
@@ -985,7 +985,7 @@ Leave above to Anbu.,"(ｶｶｼ)
 
 ","Leave it to the dark
  
-➡ ➡",0.2222222222222222
+➡ ➡",0.2222222222222222,0.23759586
 "Lord Hokage isn't the kind of guy
 who can be taken down that easily.","火影様は
  
@@ -1001,7 +1001,7 @@ Yes
  
 Ease
 It is not a person who can do it
-.",0.16666666666666666
+.",0.16666666666666666,0.18177973
 "After all, he <i>is</i> the Hokage
 the Village Hidden in the Leaves.","木ノ葉隠れの里の
  
@@ -1011,7 +1011,7 @@ the Village Hidden in the Leaves.","木ノ葉隠れの里の
 ","Wooden leaf hidden village
  
 Because it is fire shadow
-.",0.18181818181818182
+.",0.18181818181818185,0.48439285
 Or...,"(
 大蛇丸
 )
@@ -1023,12 +1023,12 @@ Or...,"(
 ","Fuhufu ...
  
 Huhhahaha ...
-.",0.2
+.",0.2,0.2468897
 but I'm finally awake.,"やっと目が覚めました
 ｡
 
 ","I finally woke up
-.",0.375
+.",0.375,0.7500399
 That's what I thought.,"フン
  
 そんなことだろうと
@@ -1039,7 +1039,7 @@ That's what I thought.,"フン
  
 It would be like that
 Thought
-.",0.2727272727272727
+.",0.2727272727272727,0.24784608
 "I know you aren't someone
 who would hold a grudge.","お前が恨みで動くような
 男でないことは分かっている
@@ -1047,7 +1047,7 @@ who would hold a grudge.","お前が恨みで動くような
 
 ","You can move in a grudge
 He knows that he is not a man
-.",0.19047619047619047
+.",0.19047619047619047,0.60909396
 I <i>do</i> kind of have a goal.,"目的なら
  
 何となくありますよ
@@ -1058,10 +1058,10 @@ I <i>do</i> kind of have a goal.,"目的なら
  
 I have somehow
 .
-➡",0.1875
+➡",0.1875,0.38722852
 If I were to explain it...,"あえて言うならば➡
 
-",If you say it,0.2222222222222222
+",If you say it,0.2222222222222222,0.3463742
 "It's interesting to watch things
 that move.","動いているものを見るのは
 おもしろい
@@ -1069,14 +1069,14 @@ that move.","動いているものを見るのは
 
 ","To see what is moving
 Interesting
-.",0.23076923076923078
+.",0.2307692307692308,0.65569293
 Like a windmill that doesn't turn...,"回ってない
  
 風車なんて➡
 
 ","Not rounded
  
-It is a windmill",0.16666666666666666
+It is a windmill",0.16666666666666666,0.6500883
 "Well, it may have some kind
 of appeal once in a while.","まっ
  
@@ -1090,7 +1090,7 @@ of appeal once in a while.","まっ
 Sometimes there is an emotion
 I have a good time
 .
-➡",0.125
+➡",0.125,0.18197496
 "Right now... with a wind called
 ""Destroy the Leaf Village","今
  ｢
@@ -1102,16 +1102,16 @@ I have a good time
  ""
 Criminal collapse
 ""
-In the wind",0.25
+In the wind",0.25,0.44415268
 I want to turn that windmill.,"私が風車を回したい
 ｡
 
 ","I want to turn the windmill
-.",0.75
+.",0.75,0.97230285
 Sakura!,"(ｶｶｼ)
 サクラ！➡
 
-",Sakura!➡,0.6666666666666666
+",Sakura!➡,0.6666666666666666,0.9394621
 You truly have a talent for it.,"お前には
  
 やはり
@@ -1122,7 +1122,7 @@ You truly have a talent for it.,"お前には
  
 also
 There is a talent of illusion
-.",0.3076923076923077
+.",0.3076923076923077,0.54766166
 "Release the Genjutsu and
 wake up Naruto and Shikamaru!","(ｶｶｼ)
 幻術を解いて
@@ -1131,7 +1131,7 @@ wake up Naruto and Shikamaru!","(ｶｶｼ)
 
 ","Solve the illusion
 Naruto and shikamaru
-.",0.3333333333333333
+.",0.3333333333333333,0.66960335
 Naruto will be delighted.,"(ｶｶｼ)
 ナルトも喜ぶだろうよ
 ｡
@@ -1139,14 +1139,14 @@ Naruto will be delighted.,"(ｶｶｼ)
 
 ","Naruto will be pleased
 .
-➡",0.5714285714285714
+➡",0.5714285714285714,0.9231494
 What do you mean by a mission?,"任務って？
 
-",Is it mission?,0.2
+",Is it mission?,0.2,0.77782845
 "It's the first A ranked mission
 since the Land of the Waves.","波の国以来のＡランク任務だ！
 
-",It is an A-rank task since the country of wave!,0.21052631578947367
+",It is an A-rank task since the country of wave!,0.21052631578947367,0.5803004
 "<i>So many regrets</i>
 <i>Don't let this scar be for naught</i>","♬
  
@@ -1154,7 +1154,7 @@ since the Land of the Waves.","波の国以来のＡランク任務だ！
 
 ","♬
  
-Don't waste this scratch",0.16666666666666666
+Don't waste this scratch",0.16666666666666666,0.35812047
 "<i>Transform sadness into the wind</i>
 <i>and continue to forge on</i>","♬
  
@@ -1164,7 +1164,7 @@ Don't waste this scratch",0.16666666666666666
 ","♬
  
 Then the destination
-Near the wind blows",0.10526315789473684
+Near the wind blows",0.10526315789473684,0.42773604
 "As long as I'm with you,
 it will be an easy one.","♬
  
@@ -1174,7 +1174,7 @@ it will be an easy one.","♬
 ","♬
  
 Anyone
-I will fail",0.11764705882352941
+I will fail",0.1176470588235294,0.2252755
 "Next time: ""Village in Distress:
 A New A Ranked Mission!""","♬
  
@@ -1188,7 +1188,7 @@ Show Time
 Lifetime
  
 So far
-Show time",0.05555555555555555
+Show time",0.05555555555555555,0.18899131
 Let's go! Let's go! Let's go,"♬
  
 強く進んで
@@ -1197,4 +1197,4 @@ Let's go! Let's go! Let's go,"♬
 ","♬
  
 Advanced
-I should go",0.125
+I should go",0.125,0.14819509

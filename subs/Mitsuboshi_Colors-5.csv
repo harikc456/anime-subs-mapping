@@ -1,337 +1,337 @@
-en_text,jp_text,google_translated,score
-They don't fly very far.,（結衣(ゆい)）あんまり飛ばないね,) I can't fly much,0.18181818181818182
-No! I lost!,（さっちゃん）だあ～ 負けたー！,~ I lost!,0.6
-It's all about the wind.,やっぱ 風だな,After all,0.125
-Yah!,たあー！,Oh!,0.3333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+They don't fly very far.,（結衣(ゆい)）あんまり飛ばないね,) I can't fly much,0.18181818181818185,0.558209
+No! I lost!,（さっちゃん）だあ～ 負けたー！,~ I lost!,0.6,0.7678875
+It's all about the wind.,やっぱ 風だな,After all,0.125,0.16795449
+Yah!,たあー！,Oh!,0.3333333333333333,0.61135346
 FALL!,"（さっちゃん）
-落ちろー！ 落ちろー！",Fall!Fall!,1.0
-Why did you take it?!,何で取ったの？ もう！,What did you get?Already!,0.4
-Stupid Saito-san!,斎藤さんのバカ！,Mr. Saito's stupid!,0.3333333333333333
-What do you kids think you're doing?,お前ら 何する気だ,What do you want to do,0.3
+落ちろー！ 落ちろー！",Fall!Fall!,1.0,0.9491132
+Why did you take it?!,何で取ったの？ もう！,What did you get?Already!,0.4,0.31309208
+Stupid Saito-san!,斎藤さんのバカ！,Mr. Saito's stupid!,0.3333333333333333,0.8124321
+What do you kids think you're doing?,お前ら 何する気だ,What do you want to do,0.3,0.36815456
 I don't know what any of this stuff is.,"（さっちゃん）
-よく分からんのばっかだー",I don't know well,0.3333333333333333
-This could be good!,あっ これ いいかも,It may be good,0.2857142857142857
-It looks cool!,これは かっこいい,This is cool,0.16666666666666666
-"Leave something good for me, too!",あっ！ 私にもいいの残してね,Ah!Leave me for me,0.4444444444444444
-Rah!,（琴葉）おりゃー！,Ca!,0.3333333333333333
-Hey. Don't hit anybody with that.,（斎藤）おい 人に当てるなよ,Don't apply to people,0.18181818181818182
-Is there anything else good in here?,ほか 何かいいのあるかな,I wonder if there is something good,0.25
+よく分からんのばっかだー",I don't know well,0.3333333333333333,0.20476829
+This could be good!,あっ これ いいかも,It may be good,0.2857142857142857,0.63636243
+It looks cool!,これは かっこいい,This is cool,0.16666666666666666,0.57599145
+"Leave something good for me, too!",あっ！ 私にもいいの残してね,Ah!Leave me for me,0.4444444444444444,0.4271935
+Rah!,（琴葉）おりゃー！,Ca!,0.3333333333333333,0.40596116
+Hey. Don't hit anybody with that.,（斎藤）おい 人に当てるなよ,Don't apply to people,0.18181818181818185,0.24673356
+Is there anything else good in here?,ほか 何かいいのあるかな,I wonder if there is something good,0.25,0.60408354
 What's this?,"（さっちゃん）
-はー 何だ これ？",What is it?,0.3333333333333333
-A card game?,カードゲームかな？,Is it a card game?,0.6666666666666666
-That's Menko.,そりゃー！,That's right!,0.3333333333333333
+はー 何だ これ？",What is it?,0.3333333333333333,0.6598816
+A card game?,カードゲームかな？,Is it a card game?,0.6666666666666666,0.8685844
+That's Menko.,そりゃー！,That's right!,0.3333333333333333,0.27032542
 Menko?,"（さっちゃん）ん？
 （結衣）メンコ？","?
- Menko?",1.0
+ Menko?",1.0,0.9679011
 "You lay the cards out on the ground,\Nthen you throw one down at them.","地面に並べて
 上から１枚たたきつけて","Slide on the ground
-One piece from the top",0.21052631578947367
-I think that's how it's played.,確か そんな感じだ,Certainly it feels like that,0.18181818181818182
-Let's try it!,やってみよう！,let's try it!,1.0
-These cards don't flip over at all!,全然ひっくり返りませんが！,I can't get over at all!,0.4166666666666667
-"Okay, my turn.",じゃあ 私の番,Well then my turn,0.2857142857142857
-Did you get all this from Pops?,お前ら これ おやじさんのか？,Are you a goodbye?,0.18181818181818182
+One piece from the top",0.21052631578947367,0.32234815
+I think that's how it's played.,確か そんな感じだ,Certainly it feels like that,0.18181818181818185,0.308569
+Let's try it!,やってみよう！,let's try it!,1.0,0.9999999
+These cards don't flip over at all!,全然ひっくり返りませんが！,I can't get over at all!,0.4166666666666667,0.24333373
+"Okay, my turn.",じゃあ 私の番,Well then my turn,0.2857142857142857,0.6895635
+Did you get all this from Pops?,お前ら これ おやじさんのか？,Are you a goodbye?,0.18181818181818185,0.14115682
 He said it's all the stuff he played with when he was a kid.,"おやじが子供の頃
 遊んだやつだって","My father was a child
-It is a guy who played",0.2
-It's so retro.,レトロだなー,It is a retro,0.2857142857142857
-Yeah!,はっ！,Hey!,0.3333333333333333
-This is pretty good.,これは なかなかいいな,This is quite good,0.5
-That's not how kendama works.,けん玉 そういうんじゃねえからな,It's because you're not doing it,0.16666666666666666
+It is a guy who played",0.2,0.43483338
+It's so retro.,レトロだなー,It is a retro,0.2857142857142857,0.7793642
+Yeah!,はっ！,Hey!,0.3333333333333333,0.545379
+This is pretty good.,これは なかなかいいな,This is quite good,0.5,0.8034121
+That's not how kendama works.,けん玉 そういうんじゃねえからな,It's because you're not doing it,0.16666666666666666,0.15114531
 Let's pick something else.,"（さっちゃん）違うのにしよう
 （琴葉）しゅっ
 しゃっ しょわっ！","Let's do it different
 
-Shake!",0.18181818181818182
+Shake!",0.18181818181818185,0.32744846
 Yeah.,"（結衣）うん
 （琴葉）しゅっ
 しゃっ しょわっ！","Yeah
 
-Shake!",0.25
-I like it.,ふーって するんだよ,I will do it,0.3333333333333333
-I know that one!,あっ それ知ってる,I know that,0.6
-You blow into this thing.,じゃなくて―,Not-,0.0
-I see!,（さっちゃん）なるほど！,I see!,1.0
-"Oh, wait, wait!",おお～！,Oh!,0.5
-Go!,（結衣）いけー！,!,0.5
-It won't fly!,（さっちゃん）飛ばないぞー！,I can't fly!,0.42857142857142855
-"Oh, I think this is...",んー あっ これは確か…,I'm sure this is ...,0.4444444444444444
-"Well, whatever.",まっ いいや,Barely,0.0
-"Oh, no!",おっ,Oh,0.25
+Shake!",0.25,0.32196474
+I like it.,ふーって するんだよ,I will do it,0.3333333333333333,0.2757196
+I know that one!,あっ それ知ってる,I know that,0.6,0.62225205
+You blow into this thing.,じゃなくて―,Not-,0.0,0.17317596
+I see!,（さっちゃん）なるほど！,I see!,1.0,1.0000001
+"Oh, wait, wait!",おお～！,Oh!,0.5,0.41987994
+Go!,（結衣）いけー！,!,0.5,0.43204293
+It won't fly!,（さっちゃん）飛ばないぞー！,I can't fly!,0.42857142857142855,0.73133403
+"Oh, I think this is...",んー あっ これは確か…,I'm sure this is ...,0.4444444444444444,0.7150072
+"Well, whatever.",まっ いいや,Barely,0.0,0.18015708
+"Oh, no!",おっ,Oh,0.25,0.55200577
 How do you spin a top again?,"コマって
 どうやって回すんだっけ？","Come
-How do you turn it?",0.36363636363636365
-What's-so-fun-about-this attack!,何が面白いんだアタック！,What is interesting!,0.16666666666666666
-"""How to spin a top""...",コマの回し方っと…,How to turn the frame ...,0.2727272727272727
+How do you turn it?",0.3636363636363637,0.51469415
+What's-so-fun-about-this attack!,何が面白いんだアタック！,What is interesting!,0.16666666666666666,0.39179614
+"""How to spin a top""...",コマの回し方っと…,How to turn the frame ...,0.2727272727272727,0.34509343
 I see.,"（斎藤）ふむ… なるほど
 （さっちゃん）もういっちょ～！","Fuku ... I see
- already ~!",0.25
-Kendama!,（琴葉）とうっ！,!,0.5
+ already ~!",0.25,0.20351972
+Kendama!,（琴葉）とうっ！,!,0.5,0.40830567
 I told you that's not how kendama works!,"けん玉 そういうんじゃ
 ねえっつってんだろ！","It's kind of friend
-You're tired!",0.1875
-Sorry. Reflex.,ごめん つい…,I'm sorry ...,0.16666666666666666
-We don't really get any of this stuff.,分かんないのばっかだね,I do not know,0.07692307692307693
-Did you find anything fun?,言いたかったのかな？,Did you want to say?,0.3333333333333333
+You're tired!",0.1875,0.17142716
+Sorry. Reflex.,ごめん つい…,I'm sorry ...,0.16666666666666666,0.34703794
+We don't really get any of this stuff.,分かんないのばっかだね,I do not know,0.07692307692307693,0.12024149
+Did you find anything fun?,言いたかったのかな？,Did you want to say?,0.3333333333333333,0.2928704
 Nope!,"（さっちゃん）
-きゃはははっ ない ない！",There is no need!,0.16666666666666666
-I guess we'll have to go play with him sometime!,しょうがない 今度 遊んでやろう,I will not help you play this time,0.1111111111111111
-Is that kendama fun?,（結衣）けん玉 面白い？,Kenballs funny?,0.14285714285714285
-"Yeah, this one was good.",（琴葉）これは よかった,This was good,0.42857142857142855
+きゃはははっ ない ない！",There is no need!,0.16666666666666666,0.18605758
+I guess we'll have to go play with him sometime!,しょうがない 今度 遊んでやろう,I will not help you play this time,0.1111111111111111,0.22743301
+Is that kendama fun?,（結衣）けん玉 面白い？,Kenballs funny?,0.14285714285714285,0.52049494
+"Yeah, this one was good.",（琴葉）これは よかった,This was good,0.42857142857142855,0.6345233
 "Koto-chan, let me try!","（さっちゃん）
-琴ちゃん 貸してよー",Koto-chan and lend me,0.25
+琴ちゃん 貸してよー",Koto-chan and lend me,0.25,0.72579837
 "Oh, yay!","おお… なかなか
 （さっちゃん）
 やったあ！","Oh ... it's quite
 
-I did it!",0.2
-Oh. Not bad.,おお… なかなか,Oh ... it's quite,0.125
-Th-that's just too sad!,かわいそすぎるじゃんかあ…,It's too cute ...,0.2222222222222222
-The Poor Elephants,あ…,Ah…,0.0
-Did you guys know about this book?,みんな この絵本 知ってた？,Did everyone know this picture book?,0.5
-This elephant story...,このゾウってな… うっ…,This elephant is ...,0.6
-It's just zoo sad!,かわいそうなんだゾウ～！,It's a cute elephant!,0.3333333333333333
-What happens in it?,どういう話なの？,What kind of story is it?,0.3333333333333333
+I did it!",0.2,0.36941284
+Oh. Not bad.,おお… なかなか,Oh ... it's quite,0.125,0.44579908
+Th-that's just too sad!,かわいそすぎるじゃんかあ…,It's too cute ...,0.2222222222222222,0.26804152
+The Poor Elephants,あ…,Ah…,0.0,0.1172532
+Did you guys know about this book?,みんな この絵本 知ってた？,Did everyone know this picture book?,0.5,0.7482676
+This elephant story...,このゾウってな… うっ…,This elephant is ...,0.6,0.773786
+It's just zoo sad!,かわいそうなんだゾウ～！,It's a cute elephant!,0.3333333333333333,0.4780117
+What happens in it?,どういう話なの？,What kind of story is it?,0.3333333333333333,0.22657962
 "There was a war, so they decided\Nto kill the elephants by poisoning their food.","戦争があるから ゾウを
 毒のエサで殺すことにしたんだ","Because there is a war,
-I decided to kill with poisonous food",0.2608695652173913
-And they died of mal-peanut-rition.,飢え死にしたんだゾウ…,I was starved and died elephane ...,0.18181818181818182
+I decided to kill with poisonous food",0.2608695652173913,0.5191398
+And they died of mal-peanut-rition.,飢え死にしたんだゾウ…,I was starved and died elephane ...,0.18181818181818185,0.36697608
 Ugh! Stop putting gags in the sad stories!,"（結衣）もう！ 悲しい話に
 ギャグ挟むのやめてよ！","already!Sad story
-I'll stop the gag pinch!",0.26666666666666666
+I'll stop the gag pinch!",0.26666666666666666,0.7328082
 I'll just read it myself.,"よく分かんなかったから
 自分で読む","Because I was well divided
-Read by yourself",0.15384615384615385
-It happened during the war.,（ナレーター）戦争中のことです,It is about war,0.25
+Read by yourself",0.15384615384615385,0.34631547
+It happened during the war.,（ナレーター）戦争中のことです,It is about war,0.25,0.45901898
 The people were afraid of what would happen \Nif the cages at the Ueno Zoo broke open in an air raid.,"空襲で おりが壊れたときの
 危険を考えて―","When the air raid is broken
-Thinking about danger-",0.11538461538461539
+Thinking about danger-",0.1153846153846154,0.4949662
 "Lions, tigers, bears were all given poison and died.","ライオンもトラもクマも
 毒で死にました","Lions and tigers are also bears
-I died with poison",0.4
-Then it was the elephants' turn.,次はゾウの番です,Next is the turn of the elephant,0.16666666666666666
+I died with poison",0.4,0.88375103
+Then it was the elephants' turn.,次はゾウの番です,Next is the turn of the elephant,0.16666666666666666,0.7750894
 The zookeepers had no choice but to\Nstop giving them food and water altogether.,"しかたなく 食べ物や水を
 あげるのを 一切やめました","Food and water
-I stopped at all",0.16666666666666666
+I stopped at all",0.16666666666666666,0.33780095
 The elephants quickly grew thinner and thinner.,"ゾウたちは どんどんと
 痩せ細っていきました","The elephants are more and more
-I was thin",0.25
+I was thin",0.25,0.7677013
 "Nevertheless, whenever someone passed by their cage,","それでも
 おりの前を誰かが通ると―","Nevertheless
-When someone passes before",0.18181818181818182
-It's just too sad!,かわいそすぎるよ～,It's too cute ~,0.375
-Let me see.,見せて,show me,0.2
-O-okay...,（結衣）ううっ…,Uh ...,0.3333333333333333
+When someone passes before",0.18181818181818185,0.59434634
+It's just too sad!,かわいそすぎるよ～,It's too cute ~,0.375,0.44339174
+Let me see.,見せて,show me,0.2,0.47876063
+O-okay...,（結衣）ううっ…,Uh ...,0.3333333333333333,0.48323813
 Let's go to the zoo right now!,"そうだ！ 今日はこれから
 動物園に行こう！","That's it!Today is from now on
-Let's go to the zoo!",0.5333333333333333
-"Yeah! I want to go, too!",うん 行きたい！,I want to go!,0.625
-Are you crying?,（結衣）泣いてる？,Are you crying?,1.0
-I'm not crying.,（琴葉）泣いてない,I'm not crying,0.8
-Okay! First we'll stop at my house!,よし！ まず うちの店に寄るぞ！,OK!At first we come to her shop!,0.2857142857142857
+Let's go to the zoo!",0.5333333333333333,0.85014015
+"Yeah! I want to go, too!",うん 行きたい！,I want to go!,0.625,0.8580183
+Are you crying?,（結衣）泣いてる？,Are you crying?,1.0,0.99999976
+I'm not crying.,（琴葉）泣いてない,I'm not crying,0.8,0.9702265
+Okay! First we'll stop at my house!,よし！ まず うちの店に寄るぞ！,OK!At first we come to her shop!,0.2857142857142857,0.47839466
 Kise Fruits,"（さっちゃん･琴葉･結衣）
-ハァ ハァ ハァ ハァ…",Hua Ha Ha ...,0.0
-I'm home!,（さっちゃん）ただいまー！,I'm sorry!,0.6
+ハァ ハァ ハァ ハァ…",Hua Ha Ha ...,0.0,0.1756478
+I'm home!,（さっちゃん）ただいまー！,I'm sorry!,0.6,0.40306553
 Hello!,"（さっちゃん母）ん？
 （琴葉･結衣）こんにちは！","?
- Hello!",0.6666666666666666
-Goodbye!,（琴葉･結衣）さようならー！,Goodbye !,1.0
-What were they even doing here?,何しに来たんだろ？,What did you come?,0.2
+ Hello!",0.6666666666666666,0.91777843
+Goodbye!,（琴葉･結衣）さようならー！,Goodbye !,1.0,0.99999994
+What were they even doing here?,何しに来たんだろ？,What did you come?,0.2,0.31902617
 Kids through sixth grade get in free?,"（さっちゃん）
-小学６年生まで無料？",Free to sixth grader?,0.3
+小学６年生まで無料？",Free to sixth grader?,0.3,0.8309231
 "I knew it would be cheaper because we're kids,\Nbut I didn't expect THIS.","子供だから多少は安いと
 思っていたけど まさかこんな…","Because it is a child, somewhat cheap
-I thought, but she is really like this ...",0.17857142857142858
+I thought, but she is really like this ...",0.17857142857142858,0.47889778
 "When I came here on that field trip,\NI didn't realize it was free.","（結衣）遠足で来たときは
 無料なんて気付かなかった","When I came in an excursion
-I did not notice free",0.22727272727272727
+I did not notice free",0.2272727272727273,0.65503365
 This must mean...,"（琴葉･結衣）ん？
 （さっちゃん）これは やっぱり…","?
- This is still ...",0.2857142857142857
+ This is still ...",0.2857142857142857,0.3468501
 The animals aren't getting any food! I just know it!,"動物たちが
 エサをもらってないに違いない！","Animals
-You must not get the food!",0.25
-We are the peacekeepers of this town!,私たちは この街の平和を守る…,We protect the peace of this city ...,0.3333333333333333
-Colors!,（３人）カラーズ！,Colors!,1.0
+You must not get the food!",0.25,0.75879645
+We are the peacekeepers of this town!,私たちは この街の平和を守る…,We protect the peace of this city ...,0.3333333333333333,0.68388873
+Colors!,（３人）カラーズ！,Colors!,1.0,0.9999997
 Our mission is to make sure\Nthe animals are alive and well!,"動物たちが元気で生きてるか
 確かめ作戦だ！","Whether the animals live well?
-Make sure it is a strategy!",0.25
-Right!,（結衣･琴葉）おー！,!,0.5
+Make sure it is a strategy!",0.25,0.601852
+Right!,（結衣･琴葉）おー！,!,0.5,0.5856235
 Do we really get in free?,"（さっちゃん）
-ほんとにタダなのか？",Aren't you really tad?,0.18181818181818182
-"Three children, please!",（結衣）子供３人です！,I am 3 children!,0.25
-What?!,（結衣）あれっ!?,!,0.3333333333333333
-It's a panda! A real panda!,パンダじゃーん！,Panda!,0.3333333333333333
-And there's a flash panty!,おっ あっちはパンチラ！,There is a pantyla!,0.3333333333333333
-"Sat-chan, settle down!",さっちゃん 落ち着いて！,Sacchan calm!,0.14285714285714285
+ほんとにタダなのか？",Aren't you really tad?,0.18181818181818185,0.100745715
+"Three children, please!",（結衣）子供３人です！,I am 3 children!,0.25,0.6988852
+What?!,（結衣）あれっ!?,!,0.3333333333333333,0.5665832
+It's a panda! A real panda!,パンダじゃーん！,Panda!,0.3333333333333333,0.7868312
+And there's a flash panty!,おっ あっちはパンチラ！,There is a pantyla!,0.3333333333333333,0.66448265
+"Sat-chan, settle down!",さっちゃん 落ち着いて！,Sacchan calm!,0.14285714285714285,0.4150026
 "Hey, that panda is eating.","あれ？
 ねえ ちゃんと ごはん食べてるね","that?
-You're eating rice with Hey",0.25
-Was that funny?,面白い？,interesting?,0.2
-It's a bone!,スマトラトラだってー！,It's a Sumatratra!,0.6666666666666666
-What? You don't mean that that bone is from a person?,えっ まさか人なの？ あの骨,What is it?That bone,0.38461538461538464
-That bone is pretty big.,（琴葉）あの骨 かなり大きい,That bone is quite big,0.5714285714285714
+You're eating rice with Hey",0.25,0.47056836
+Was that funny?,面白い？,interesting?,0.2,0.3229317
+It's a bone!,スマトラトラだってー！,It's a Sumatratra!,0.6666666666666666,0.36970347
+What? You don't mean that that bone is from a person?,えっ まさか人なの？ あの骨,What is it?That bone,0.38461538461538464,0.6484248
+That bone is pretty big.,（琴葉）あの骨 かなり大きい,That bone is quite big,0.5714285714285714,0.97055197
 If I know one person in this town who's pretty big...,"この街で
 かなり大きな人といったら…","In this city
-Some people are pretty big ...",0.29411764705882354
+Some people are pretty big ...",0.29411764705882354,0.75872207
 Pops!,"（さっちゃん･結衣･琴葉）
-おやじー！",Oya!,0.3333333333333333
-What?,（結衣）えっ？,Eh?,0.3333333333333333
-I will defeat that tiger.,（琴葉）私が あのトラを倒す,I defeat that tiger,0.6666666666666666
+おやじー！",Oya!,0.3333333333333333,0.39496195
+What?,（結衣）えっ？,Eh?,0.3333333333333333,0.32428205
+I will defeat that tiger.,（琴葉）私が あのトラを倒す,I defeat that tiger,0.6666666666666666,0.9227237
 She's right! We are the peacekeepers of this town!,"（さっちゃん）そうだ！
 私たちは この街の平和を守る…","That's right!
-We keep her peace of this city ...",0.35294117647058826
-"Today, I will defeat a tiger!",私は今日 トラを倒す！,I will defeat Tiga today!,0.5555555555555556
-But I think we're already too late.,もう手遅れだと思うんだけど…,I think it's too late ...,0.3333333333333333
-"Wait, Kotoha!",待って 琴葉ー！,Wait and lobet!,0.3333333333333333
-Take that!,（おやじ）そりゃ！,That's right!,0.4
-"Um, can I go now?",俺 もう行っていいっすか,I'm going to go anymore,0.18181818181818182
+We keep her peace of this city ...",0.35294117647058826,0.7068313
+"Today, I will defeat a tiger!",私は今日 トラを倒す！,I will defeat Tiga today!,0.5555555555555556,0.6318798
+But I think we're already too late.,もう手遅れだと思うんだけど…,I think it's too late ...,0.3333333333333333,0.73538613
+"Wait, Kotoha!",待って 琴葉ー！,Wait and lobet!,0.3333333333333333,0.36564428
+Take that!,（おやじ）そりゃ！,That's right!,0.4,0.4802269
+"Um, can I go now?",俺 もう行っていいっすか,I'm going to go anymore,0.18181818181818185,0.49837998
 "Dammit, we couldn't save Pops.","（琴葉）
-クソ… おやじを救えなかった",Fucking ... I could not save my father,0.14285714285714285
-Nocturnal house?,“夜の森”,"""Night forest""",0.0
-Wait!,あっ 待ってー！,Wait!,1.0
-You see anything?,（さっちゃん）何かいた？,What happened?,0.16666666666666666
-Over there!,（さっちゃん）あっ あれ！,!,0.3333333333333333
+クソ… おやじを救えなかった",Fucking ... I could not save my father,0.14285714285714285,0.4200751
+Nocturnal house?,“夜の森”,"""Night forest""",0.0,0.39460176
+Wait!,あっ 待ってー！,Wait!,1.0,1.0000002
+You see anything?,（さっちゃん）何かいた？,What happened?,0.16666666666666666,0.29728413
+Over there!,（さっちゃん）あっ あれ！,!,0.3333333333333333,0.3663186
 "Yeah, I see it.","（さっちゃん）やーい
-（琴葉）あっ こっち見た",I saw it here,0.25
+（琴葉）あっ こっち見た",I saw it here,0.25,0.45918152
 Wow.,"（結衣･さっちゃん）おお～
 （琴葉）すごい","Oo ~
- す",0.0
-Come over here!,（さっちゃん）こっち来てみろー！,Let's come here!,0.5
+ す",0.0,0.12058722
+Come over here!,（さっちゃん）こっち来てみろー！,Let's come here!,0.5,0.7432312
 "It's free to get in the zoo, but not to use the monorail?","（係員）このモノレールは
 動物園がやってるんじゃないんだ","This monorail is
-I'm not doing a zoo",0.15
+I'm not doing a zoo",0.15,0.84324056
 It's about the same as taking the subway.\NBut there's only one station.,"地下鉄とおんなじくらい
 するんだね １駅しかないのに","Metro and the same
-I'm doing one station",0.2222222222222222
-Extortion.,あくどい,Mood,0.0
+I'm doing one station",0.2222222222222222,0.59218603
+Extortion.,あくどい,Mood,0.0,0.25966987
 "And by the way, this was the first monorail in Japan.","あっ ちなみにここ 日本で
 一番最初に開業したモノレールでね","In this way in Japan
-In the first one opened monorail",0.5
+In the first one opened monorail",0.5,0.8738686
 If it will help the animals to get even a little more food.,"しかたない これで少しでも動物が
 エサを食べれるなら","There is only a little animal
-If you can eat food",0.19047619047619047
-Yeah. It's for the animals.,うん 動物たちのためだもんね,Yes for animals,0.25
+If you can eat food",0.19047619047619047,0.50942177
+Yeah. It's for the animals.,うん 動物たちのためだもんね,Yes for animals,0.25,0.7676199
 "No, I told you, the zoo doesn't make any money from...","（係員）いや だから
 動物園がもうけてるわけじゃ…","Because it is no longer
-The zoo is already over ...",0.2
+The zoo is already over ...",0.2,0.5242197
 "It is! There are humans at this zoo, too?","（さっちゃん）
-ほんとだ！ ここ人間もいるのか！",It's true!Are there any people here!,0.23529411764705882
-Penguins!,ペンギン！,Penguin!,0.3333333333333333
-Kangaroos!,カンガルー！,Kangaroo!,0.3333333333333333
-Flamingos!,フラミンゴ！,Flamingo!,0.3333333333333333
-What IS this one?,何だろ これ？,What is it?,0.5
-It's a weird bird.,変な鳥だ,It is a strange bird,0.375
-With a weird face.,変な顔だ,It is a strange face,0.25
-Shoob... ill?,ハシビ… ロコウ？,Hashiba ... Locou?,0.3333333333333333
-Hey!,おーい！,Hey!,1.0
-"Come on, are you free right now?",ねえねえ 今 暇ですかー？,"Hey, is it free?",0.25
-It won't react!,あはははっ 反応しないな！,"Oh, don't react!",0.375
-HYAAAH!,（琴葉）とおー！,and Oo!,0.25
-Nope.,（琴葉）ダメだ,No good,0.0
-"Oh, look! What's that?",あっ 見て あれ何だろう？,What is it?,0.2
+ほんとだ！ ここ人間もいるのか！",It's true!Are there any people here!,0.2352941176470588,0.30543023
+Penguins!,ペンギン！,Penguin!,0.3333333333333333,0.8472275
+Kangaroos!,カンガルー！,Kangaroo!,0.3333333333333333,0.8933058
+Flamingos!,フラミンゴ！,Flamingo!,0.3333333333333333,0.924246
+What IS this one?,何だろ これ？,What is it?,0.5,0.56072736
+It's a weird bird.,変な鳥だ,It is a strange bird,0.375,0.927925
+With a weird face.,変な顔だ,It is a strange face,0.25,0.5635104
+Shoob... ill?,ハシビ… ロコウ？,Hashiba ... Locou?,0.3333333333333333,0.3146263
+Hey!,おーい！,Hey!,1.0,0.99999994
+"Come on, are you free right now?",ねえねえ 今 暇ですかー？,"Hey, is it free?",0.25,0.5785901
+It won't react!,あはははっ 反応しないな！,"Oh, don't react!",0.375,0.5935163
+HYAAAH!,（琴葉）とおー！,and Oo!,0.25,0.34585258
+Nope.,（琴葉）ダメだ,No good,0.0,0.25640523
+"Oh, look! What's that?",あっ 見て あれ何だろう？,What is it?,0.2,0.3002307
 Right this way for your guided tour!,"（ガイド）
-はーい こちらはガイドツアーだよ","Hey, this is a guide tour",0.15384615384615385
-Guided tour?,（さっちゃん）ガイドツアー？,Guide Tour?,0.5
+はーい こちらはガイドツアーだよ","Hey, this is a guide tour",0.15384615384615385,0.7275808
+Guided tour?,（さっちゃん）ガイドツアー？,Guide Tour?,0.5,0.8598749
 Today our theme is animal eating habits.,"（ガイド）本日のテーマは
 “動物たちの食生活”だよ","Today's theme
-It is ""food life of animals""",0.1875
-You know there was a tiger eating a guy over there.,あっちでトラが人を食べてたぞ,Tiger eats people at all,0.07142857142857142
-"Oh, you mean that bone?",あの骨のこと？,That bone?,0.42857142857142855
-Don't worry. That was a cow bone.,安心して あれは牛の骨だから,Because it is a bone of cow that is safe,0.2857142857142857
+It is ""food life of animals""",0.1875,0.7827778
+You know there was a tiger eating a guy over there.,あっちでトラが人を食べてたぞ,Tiger eats people at all,0.07142857142857142,0.7350694
+"Oh, you mean that bone?",あの骨のこと？,That bone?,0.42857142857142855,0.84915096
+Don't worry. That was a cow bone.,安心して あれは牛の骨だから,Because it is a bone of cow that is safe,0.2857142857142857,0.6046415
 "Mm-hm, yeah!","（ガイド）えっ？
 （結衣）うん うん！","Eh?
- Yeah!",0.3333333333333333
+ Yeah!",0.3333333333333333,0.3595401
 I thought this was a zoo!,"だって牛も動物だろ？
 ここは動物園だぞ","Well, beef and animals?
-This is a zoo",0.21428571428571427
-"Uh, well...",あ… じゃあ パンダ,Oh ... Well then panda,0.2857142857142857
+This is a zoo",0.21428571428571427,0.62587917
+"Uh, well...",あ… じゃあ パンダ,Oh ... Well then panda,0.2857142857142857,0.24864538
 "All they eat is bamboo,\Nbut it costs more than ten thousand yen a day.","あのササだけで１日１万円以上
 かかってるんだよ","That sasa alone over 10,000 yen a day
-It's about",0.16666666666666666
-Ten thousand yen?,（３人）１万円!?,"10,000 yen!?",0.3333333333333333
-Are the pandas making you poor?,ツアーはいいの？,Is the tour good?,0.2
-We have to check on all the other animals!,もっと ほかの動物も確かめなきゃ,I have to check more other animals,0.4166666666666667
-"You're right, Leader! Let's go!",そうだな リーダー！ 行くぞ！,That's right leader!let's go!,0.6
+It's about",0.16666666666666666,0.5536521
+Ten thousand yen?,（３人）１万円!?,"10,000 yen!?",0.3333333333333333,0.8689682
+Are the pandas making you poor?,ツアーはいいの？,Is the tour good?,0.2,0.15824679
+We have to check on all the other animals!,もっと ほかの動物も確かめなきゃ,I have to check more other animals,0.4166666666666667,0.84885764
+"You're right, Leader! Let's go!",そうだな リーダー！ 行くぞ！,That's right leader!let's go!,0.6,0.921356
 Yeah!\NWhat? Don't you want a tour?,"（琴葉･結衣）おー！
 （ガイド）あれ？","!
-?",0.2
-It's a goat.,ヤギだ,It is a goat,0.5
+?",0.2,0.2069202
+It's a goat.,ヤギだ,It is a goat,0.5,0.9494069
 It's a Genghis Khan!,"（さっちゃん）
-くさい！ ジンギスカンだ！",stink!It is Genghis Khan!,0.5
-Would anyone like to try it?,（さっちゃん）なに!?,What is it?,0.2222222222222222
-We can hold them?,どうやって見分けるんだろう？,How can I see it?,0.2222222222222222
-It's so little! So cute!,（さっちゃん）おお～！,Oh!,0.14285714285714285
-I thought so.,やっぱりか,Just as I thought,0.3333333333333333
+くさい！ ジンギスカンだ！",stink!It is Genghis Khan!,0.5,0.88805026
+Would anyone like to try it?,（さっちゃん）なに!?,What is it?,0.2222222222222222,0.12947561
+We can hold them?,どうやって見分けるんだろう？,How can I see it?,0.2222222222222222,0.03365256
+It's so little! So cute!,（さっちゃん）おお～！,Oh!,0.14285714285714285,0.15660654
+I thought so.,やっぱりか,Just as I thought,0.3333333333333333,0.5570276
 "Huh? What is it, Kotoha?","（結衣）えっ 何？ 琴葉
 （さっちゃん）ん？","What is it?Folio
-?",0.5
+?",0.5,0.114636436
 "They multiply quickly, but there are only a few here.","（琴葉）どんどん増えるのに
 ここには ちょっとしかいない","More and more
-She is only a bit here",0.17647058823529413
+She is only a bit here",0.17647058823529413,0.2702759
 I bet they're using these house mice\Nas food for the other animals.,"きっと このハツカネズミが
 ほかの動物のエサになってるんだ","Surely this hatche
-I'm getting elephants of other animals",0.14285714285714285
+I'm getting elephants of other animals",0.14285714285714285,0.38950545
 That's the face of a liar.,"少し斎藤に似てる
 あれはウソつきの顔だ","Somewhat similar to Saito
-That's a lie of a lie",0.3076923076923077
-You may be right.,そうかも,So be,0.16666666666666666
-I'm gonna be Urashima!,（さっちゃん）浦島になるんだ,I will be Urashima,0.375
+That's a lie of a lie",0.3076923076923077,0.40282953
+You may be right.,そうかも,So be,0.16666666666666666,0.14212447
+I'm gonna be Urashima!,（さっちゃん）浦島になるんだ,I will be Urashima,0.375,0.9206309
 "It looks good, Kotoha!","（結衣）琴葉 似合う
-（琴葉）いいな",Good,0.16666666666666666
+（琴葉）いいな",Good,0.16666666666666666,0.20577131
 It's so tall!,"（さっちゃん）やーい 悔しいか！
 （琴葉）こっち向け","or regret!
- For this",0.1111111111111111
+ For this",0.1111111111111111,0.13607754
 "Jeez, you don't have to say that, Sat-chan.","もう 言わなくていいよ
 さっちゃん","You don't have to say
-Sacchan",0.5
+Sacchan",0.5,0.39746344
 "Come to think of it,\Nthat's the first time I said poop all day!","そういえば 今日
 うんこって言ったの初めてだな","Speaking of which, today
-It is the first time I said that",0.36363636363636365
-The zoo sure is a lot of fun!,動物園 やっぱり楽しいな！,The zoo is fun!,0.5555555555555556
-"What's wrong, Sat-chan?",（結衣）えっ 何？ さっちゃん,What is it?Sacchan,0.2222222222222222
-It's elephant!,って そうじゃないでっしゃろ！,It's not so!,0.5
-"Oh yeah, elephants! I forgot!",（結衣）ああ ゾウ！ 忘れてた,Ao Ao!I forgot,0.375
-By the entrance!,入り口の近く！,Close to the entrance!,0.5
-Elephants!,ゾウー！,Souhou!,0.3333333333333333
-Elephants...,（結衣）あ…,...,0.5
-Sat-chan!,ゾウ！,elephant!,0.3333333333333333
-I finally found you!,やっと会えた,I finally met,0.3333333333333333
-They look healthy!,元気そう,looks healthy,0.2
-What a relief. They're getting enough to eat.,なんちゃって,What,0.1
-But their skin's so dry and leathery.,すごい乾燥肌だけど！,It's a great dry skin!,0.23076923076923078
+It is the first time I said that",0.3636363636363637,0.41029534
+The zoo sure is a lot of fun!,動物園 やっぱり楽しいな！,The zoo is fun!,0.5555555555555556,0.9387949
+"What's wrong, Sat-chan?",（結衣）えっ 何？ さっちゃん,What is it?Sacchan,0.2222222222222222,0.29337355
+It's elephant!,って そうじゃないでっしゃろ！,It's not so!,0.5,0.40326953
+"Oh yeah, elephants! I forgot!",（結衣）ああ ゾウ！ 忘れてた,Ao Ao!I forgot,0.375,0.3730579
+By the entrance!,入り口の近く！,Close to the entrance!,0.5,0.860919
+Elephants!,ゾウー！,Souhou!,0.3333333333333333,0.32326192
+Elephants...,（結衣）あ…,...,0.5,0.24045575
+Sat-chan!,ゾウ！,elephant!,0.3333333333333333,0.27909163
+I finally found you!,やっと会えた,I finally met,0.3333333333333333,0.5434964
+They look healthy!,元気そう,looks healthy,0.2,0.70914936
+What a relief. They're getting enough to eat.,なんちゃって,What,0.1,0.12751637
+But their skin's so dry and leathery.,すごい乾燥肌だけど！,It's a great dry skin!,0.2307692307692308,0.49661213
 Am I right?,"さっき さっちゃんちに
 寄ったの それ？","I'm sure
-I stopped?",0.2857142857142857
-They're huge. They must be strong.,でかい これは強い,This is strong,0.1111111111111111
+I stopped?",0.2857142857142857,0.34822625
+They're huge. They must be strong.,でかい これは強い,This is strong,0.1111111111111111,0.4697101
 But I guess that's a wasted apple.\NI brought it in case they weren't doing so good.,"ダメだよ 勝手にエサあげちゃ
-（シャッター音）",It is no good.,0.14285714285714285
+（シャッター音）",It is no good.,0.14285714285714285,0.19153646
 I know that! There's only one thing to do.,"分かってるよ しかたないなあ
-（シャッター音）",I know I'm not sure,0.13333333333333333
-It ate it!,食べた！,ate!,0.6666666666666666
-In one bite!,一口か,Bite,0.25
+（シャッター音）",I know I'm not sure,0.13333333333333333,0.2647797
+It ate it!,食べた！,ate!,0.6666666666666666,0.6460693
+In one bite!,一口か,Bite,0.25,0.5921778
 Did you like my family's apple?,"（さっちゃん）
-うまいかー？ うちのリンゴ！",Good morning?Our apple!,0.16666666666666666
+うまいかー？ うちのリンゴ！",Good morning?Our apple!,0.16666666666666666,0.49210033
 "I'll bring more, so wait with your nose outstretched!","また持ってきてあげるから
 鼻 長くして待ってろよー！","I will bring it again
-Don't wait for your nose!",0.3333333333333333
-It's a happy-derm.,うれしゾウだね,It is a joyful elephant,0.25
+Don't wait for your nose!",0.3333333333333333,0.75131506
+It's a happy-derm.,うれしゾウだね,It is a joyful elephant,0.25,0.5073181
 "Well, we took a break last week, but this week, \Nwe're having our Colors Evaluation Meeting!","（結衣）というわけで
-先週はサボっちゃったけど―",Last week I got a Sabo-,0.14285714285714285
+先週はサボっちゃったけど―",Last week I got a Sabo-,0.14285714285714285,0.15782452
 I couldn't save Pops from the tiger at the zoo.,"動物園のトラから
 おやじを救えなかった","From the zoo tiger
-I could not save my father",0.5
+I could not save my father",0.5,0.7114762
 "Huh? But on the way home,\Nwe saw him in front of his shop, didn't we?","（結衣）あれ？ でも帰りがけに
 お店の前で おやじ見たよね？","?But on the way back
-She showed her fun in front of the shop, right?",0.4
+She showed her fun in front of the shop, right?",0.4,0.48157644
 "Oh, is THAT what it was?!","（さっちゃん）
-おおっ そうだったのか！","Oh, she was so!",0.36363636363636365
+おおっ そうだったのか！","Oh, she was so!",0.3636363636363637,0.4208229
 Maybe I was the only one who saw him.,"（結衣）もしかして
-見たのは私だけだったのかな…",I wondered if I saw it alone ...,0.13333333333333333
+見たのは私だけだったのかな…",I wondered if I saw it alone ...,0.13333333333333333,0.56218535
 "I got to feed the piti-phants, so it was a good day!","（さっちゃん）かわいゾウに
 エサをあげられたので よかった！","In a cute elephant
-She was good because I gave food!",0.23809523809523808
-"Don't you have anything to say, Yui?",（結衣）えっ？ えーと 私は―,Eh?Eh and I-,0.07692307692307693
+She was good because I gave food!",0.2380952380952381,0.35215828
+"Don't you have anything to say, Yui?",（結衣）えっ？ えーと 私は―,Eh?Eh and I-,0.07692307692307693,0.33289918
 I was really happy to get to go to the zoo with-,"みんなで一緒に動物園に行けて
 すごく うれしかっ…","Let's go to the zoo together together
-It is very happy ...",0.29411764705882354
+It is very happy ...",0.29411764705882354,0.7160422

@@ -1,225 +1,225 @@
-en_text,jp_text,google_translated,score
-MARMALADE BOY,♪～,♪ ~,0.0
-ima ichiban aitsu no egao wo mitai,～♪,~ ♪,0.0
-Yuu!,遊！,Yu!,0.3333333333333333
-Yuu...,遊…,Yu ...,0.3333333333333333
-"Are you ready, Brian?",（女子生徒）ブライアン まだ？,yet Brian?,0.2857142857142857
+en_text,jp_text,google_translated,score,semantic_score
+MARMALADE BOY,♪～,♪ ~,0.0,0.119944766
+ima ichiban aitsu no egao wo mitai,～♪,~ ♪,0.0,0.16933626
+Yuu!,遊！,Yu!,0.3333333333333333,0.87904954
+Yuu...,遊…,Yu ...,0.3333333333333333,0.8428353
+"Are you ready, Brian?",（女子生徒）ブライアン まだ？,yet Brian?,0.2857142857142857,0.6101314
 Let's go!,"（男子生徒）早く行こうぜ
 （女子生徒）行こう ブライアン","Let's go early
- Let's go Brian",0.5
+ Let's go Brian",0.5,0.43191049
 Brian! Hurry up!,"（男子生徒）
-ブライアン 早く来て～ん",Brian coming soon,0.16666666666666666
+ブライアン 早く来て～ん",Brian coming soon,0.16666666666666666,0.66306436
 "Brian, couldn't you be obsessed with me?","私のことだけ
 見つめてくれないかしら？","Only me
-Do you not look at it?",0.1875
+Do you not look at it?",0.1875,0.26871777
 "No, me!","ダメよ 私よ！
 （女子生徒）あっ！ 私だって！","I'm sorry!
-!I am!",0.125
+!I am!",0.125,0.461384
 "Come on, Jinny! Let's go.","なあ ジニー 行こうぜ
 いいだろう？","Let's go Giny
-All right?",0.23076923076923078
-No.,（ジニー）イヤよ,Ia,0.0
-Darn!,（ジニー）あっ… もう,...,0.0
+All right?",0.2307692307692308,0.35740197
+No.,（ジニー）イヤよ,Ia,0.0,0.27193263
+Darn!,（ジニー）あっ… もう,...,0.0,0.1496412
 I thought you liked Arthur Crichton movies.,"アーサー･クライトン監督
 好きだって言ってたじゃないか","Arthur Criton Director
-I said that I liked it",0.23076923076923078
-Him? Not anymore.,えっ？,eh?,0.16666666666666666
-Just give up and go.,（ドリス）諦めて出かけたら？,If you give up and go out?,0.4
-Doris!,ドリス…,Doris ...,0.3333333333333333
+I said that I liked it",0.2307692307692308,0.72819394
+Him? Not anymore.,えっ？,eh?,0.16666666666666666,0.32671946
+Just give up and go.,（ドリス）諦めて出かけたら？,If you give up and go out?,0.4,0.5654458
+Doris!,ドリス…,Doris ...,0.3333333333333333,0.8791752
 Jinny is more important to me.,"いいんだよ あいつらは…
 俺にはジニーのほうが大切なんだ","Good guys ...
-Ginny is more important for me",0.3333333333333333
-"Right, Jinny?",なっ？ ジニー,?Ginny,0.2
+Ginny is more important for me",0.3333333333333333,0.444668
+"Right, Jinny?",なっ？ ジニー,?Ginny,0.2,0.39453453
 I wouldn't mind if I weren't important to you.,"私は 別に
 大切じゃなくても かまわないけど","I
-I do not want to be important",0.21428571428571427
+I do not want to be important",0.21428571428571427,0.54923373
 Brian!,"そりゃないぜ
 （女子生徒）ブライアン！","I guess
- Brian!",0.5
-We'll be late for the movie.,急がないと 映画 始まっちまうぜ,"If there is no suddenness, the movie starts",0.13333333333333333
-Hi!,やあ,Hi,0.5
+ Brian!",0.5,0.8776211
+We'll be late for the movie.,急がないと 映画 始まっちまうぜ,"If there is no suddenness, the movie starts",0.13333333333333333,0.44361874
+Hi!,やあ,Hi,0.5,0.9025295
 "Jinny, let's go, okay?","（ブライアン）
-ジニー 行こうぜ　なっ？",Ginny will go?,0.2222222222222222
+ジニー 行こうぜ　なっ？",Ginny will go?,0.2222222222222222,0.41421294
 "Brian Grant, right?","ブライアン
 ブライアン･グラントだろう？","Brian
-Is it Brian Grant?",0.42857142857142855
+Is it Brian Grant?",0.42857142857142855,0.83256793
 Michael showed me your picture.,"（遊）マイケルからさ
 写真を見せてもらったんだ 君の","Michael
-I was asked to show a picture",0.16666666666666666
+I was asked to show a picture",0.16666666666666666,0.84963167
 You're the exchange student from Japan...,"お前 日本からの交換留学生だな？
 マイケルのホームステイ先の","Are you an exchange student from Japan?
-Michael's homestay destination",0.3333333333333333
-...where Michael is staying.,ハハッ…,Haha ...,0.14285714285714285
-Yuu Matsuura. Nice to meet you!,ユウ･マツウラだ　よろしく,Yume Matsuura Regards,0.1
-"""You""?",（生徒たち）“ユウ”？,"? ""Yuu""?",0.6
+Michael's homestay destination",0.3333333333333333,0.7556355
+...where Michael is staying.,ハハッ…,Haha ...,0.14285714285714285,0.11932394
+Yuu Matsuura. Nice to meet you!,ユウ･マツウラだ　よろしく,Yume Matsuura Regards,0.1,0.7649807
+"""You""?",（生徒たち）“ユウ”？,"? ""Yuu""?",0.6,0.4350355
 You're right. It's a funny name.,"え～っと…
 確か おかしな名前なんだよな","Eh ~ ...
-It's a certainly strange name",0.2857142857142857
+It's a certainly strange name",0.2857142857142857,0.61953175
 "It sounds like ""you"" in English...","（遊）英語の“You(ユー)”と
 発音が一緒だからね","English in English ""You)
-Because pronunciation is together",0.2857142857142857
+Because pronunciation is together",0.2857142857142857,0.5630891
 "Come on, Yuu!\NI'll introduce you to your advisor.","ねえ ユウ　いらっしゃい
 アドバイザーに紹介するわ","Hey Yuu
-I will introduce the advisor",0.17647058823529413
-"Right, Doris?",ねっ？ ドリス,Hey?Doris,0.4
-Okay!,お… おい ジニー！,Ogi ... Gonney!,0.2
+I will introduce the advisor",0.17647058823529413,0.7841045
+"Right, Doris?",ねっ？ ドリス,Hey?Doris,0.4,0.775077
+Okay!,お… おい ジニー！,Ogi ... Gonney!,0.2,0.17920388
 "Come on, we have to go.","ほら 行きましょうよ
 （女子生徒）早く","Let's go
- early",0.09090909090909091
-"Hurry, Brian!",ダ～メ　ブライアンは こっち,Da-M Brian is here,0.14285714285714285
+ early",0.09090909090909093,0.4041022
+"Hurry, Brian!",ダ～メ　ブライアンは こっち,Da-M Brian is here,0.14285714285714285,0.491758
 I'll make her loneliness disappear!,"よ～し　ミキの寂しさなんて
 僕が忘れさせてみせる","Yo ~ Miki's loneliness
-I can not forget",0.14285714285714285
-Miki!,ミキ きっと遊のことを…,Miki surely play ...,0.2
+I can not forget",0.14285714285714285,0.37688637
+Miki!,ミキ きっと遊のことを…,Miki surely play ...,0.2,0.67028415
 I'm sorry I came in without your permission.,"ご… ごめん マイケル
 勝手に 部屋に入っちゃって","Game ... Sorry Michael
-I entered the room without permission",0.26666666666666666
+I entered the room without permission",0.26666666666666666,0.55140805
 I needed Yuu's reference books.,"そうだ！ 参考書 僕も
 ちょうど欲しいと思ってたんだよね","That's it!For reference book
-I thought I wanted just",0.2
-You're always welcome here.,ミキなら いつでも大歓迎だよ,Miki is always welcome,0.25
-Um... thanks.,ウッ…,W ...,0.2
-"I wanted to buy some reference books, too.",ちょっと 遊の参考書 借りたくて,I wanted to borrow a letter for a moment,0.2
-"Miki, come to the bookstore with me.",ミキ これから本屋つきあってよ,Miki I have a bookstore from now on,0.13333333333333333
+I thought I wanted just",0.2,0.4626674
+You're always welcome here.,ミキなら いつでも大歓迎だよ,Miki is always welcome,0.25,0.3385247
+Um... thanks.,ウッ…,W ...,0.2,0.30245563
+"I wanted to buy some reference books, too.",ちょっと 遊の参考書 借りたくて,I wanted to borrow a letter for a moment,0.2,0.3107371
+"Miki, come to the bookstore with me.",ミキ これから本屋つきあってよ,Miki I have a bookstore from now on,0.13333333333333333,0.83566207
 Right now?,"えっ 今すぐ？
 （マイケル）今すぐ","Eh Now?
- right now",0.75
-Right now. Let's go!,さあ 行こう,"Alright, let's go",0.3333333333333333
-Michael!,アアッ！,Ah!,0.3333333333333333
+ right now",0.75,0.7908561
+Right now. Let's go!,さあ 行こう,"Alright, let's go",0.3333333333333333,0.685344
+Michael!,アアッ！,Ah!,0.3333333333333333,0.34641713
 Which one is better?,"（シャッター音）
-（２人）うん？",yes?,0.16666666666666666
-This is so funny!,だってさ… ハハハッ！,Because it is ... ha ha ha!,0.2222222222222222
-But...,すずちゃん…,Ichin ...,0.3333333333333333
-Hello!,（すず）こんにちは,Hello,0.5
+（２人）うん？",yes?,0.16666666666666666,0.11289257
+This is so funny!,だってさ… ハハハッ！,Because it is ... ha ha ha!,0.2222222222222222,0.2907546
+But...,すずちゃん…,Ichin ...,0.3333333333333333,0.20124191
+Hello!,（すず）こんにちは,Hello,0.5,0.9232582
 "You're very pretty, Michael.","だって とっても きれいなんだもん
 マイケルって","Because it is very beautiful
-Michael",0.18181818181818182
+Michael",0.18181818181818185,0.47940284
 "Should I thank you,\Neven though I'm a guy?","光希さんも
 参考書 買いに来たんだ？","Mr. Mochiso
-I came to buy a reference book?",0.16666666666666666
+I came to buy a reference book?",0.16666666666666666,0.13963658
 It's better than\Nnot being told you're pretty.,"私なんか すずちゃんに
 一度だって言われたことないもんね","I'm going to
-I have never been told it once",0.1111111111111111
-"Well, then, thank you!",じゃ すずちゃんも？,Well then?,0.2857142857142857
-It's the truth!,そ… そうだね,That's right ...,0.125
+I have never been told it once",0.1111111111111111,0.36114138
+"Well, then, thank you!",じゃ すずちゃんも？,Well then?,0.2857142857142857,0.4640593
+It's the truth!,そ… そうだね,That's right ...,0.125,0.22494274
 "You, too?","遊 今どうしてるのかな…
 もう学校には着いてるよね？","How are you doing now ...
-You already arrived at school, right?",0.21428571428571427
+You already arrived at school, right?",0.21428571428571427,0.22487834
 I guess so.,"マズイ… ミキ
 せっかく ユウのこと忘れてたのに","Mazui ... Miki
-I forgot about Yuu",0.1
-Yeah.,ねえ マイケル,Hey Michael,0.0
-"Oh, no! Miki is starting\Nto think of Yuu again.",あっ… これ どうかな？,Oh ... this is how?,0.125
+I forgot about Yuu",0.1,0.07417769
+Yeah.,ねえ マイケル,Hey Michael,0.0,0.18517686
+"Oh, no! Miki is starting\Nto think of Yuu again.",あっ… これ どうかな？,Oh ... this is how?,0.125,-0.0053028874
 I'll take it!,"やるやる！ ちょうど アルバイト
 見つけようと思ってたんだ","I will do it!Just part-time job
-I was thinking of finding",0.21428571428571427
-Would you be my teacher?,先生？,teacher?,0.3333333333333333
-"Jinny, Doris...",（レイニー）ジニー ドリス,Giny Doris,0.2
+I was thinking of finding",0.21428571428571427,0.2597571
+Would you be my teacher?,先生？,teacher?,0.3333333333333333,0.6630362
+"Jinny, Doris...",（レイニー）ジニー ドリス,Giny Doris,0.2,0.5772269
 ...please show him to his room.,"ユウを
 部屋まで案内してあげてください","Yuu
-Please give me to the room",0.25
-We were planning to.,最初っから そのつもりです,I'm going to,0.125
-"If you ever have any problems,\Nplease come talk to me.",もちろん何かなくても大歓迎です,Of course you are welcome even if you don't have anything,0.14285714285714285
-Thank you very much!,ありがとうございます,thank you,0.4
+Please give me to the room",0.25,0.44202992
+We were planning to.,最初っから そのつもりです,I'm going to,0.125,0.48471016
+"If you ever have any problems,\Nplease come talk to me.",もちろん何かなくても大歓迎です,Of course you are welcome even if you don't have anything,0.14285714285714285,0.22286236
+Thank you very much!,ありがとうございます,thank you,0.4,0.51744384
 Mr. Rainy seems like a nice person.,"（遊）ミスター･レイニーって
 すごくいい人みたいだね","Mr. Raine
-It looks like a very good person",0.3076923076923077
+It looks like a very good person",0.3076923076923077,0.69311833
 His name reminds me of a rainy day...,"（ジニー）“レイニー”なんて
 雨の日みたいな名前だけど","""Rainy""
-It is a name like a rainy day",0.2857142857142857
-This is your room.,ここよ 遊の部屋,Your room here,0.3333333333333333
-Come in.,さあ 上がって,Come up,0.25
+It is a name like a rainy day",0.2857142857142857,0.654756
+This is your room.,ここよ 遊の部屋,Your room here,0.3333333333333333,0.77213645
+Come in.,さあ 上がって,Come up,0.25,0.5628167
 "You're lucky, Yuu.\NThis room has a loft.","あなたはラッキーよ ユウ
 この部屋にはロフトがついてるの","You are lucky Yuu
-This room has a loft",0.46153846153846156
+This room has a loft",0.4615384615384616,0.9540527
 But you may not have been\Nso lucky with your roommate.,"でも ルームメートまでは
 ラッキーかどうか…","But until room met
-Lucky or not ...",0.1875
-You're Yuu Matsuura?,（ウィル）君が ユウ･マツウラ？,You are Yu Matsuura?,0.42857142857142855
+Lucky or not ...",0.1875,0.5632862
+You're Yuu Matsuura?,（ウィル）君が ユウ･マツウラ？,You are Yu Matsuura?,0.42857142857142855,0.93385625
 Hello. Mr. Rainy told me about you.,"よろしく
 ミスター･レイニーから聞いてるよ","nice to meet you
-I'm listening from Mr. Rainy",0.2
+I'm listening from Mr. Rainy",0.2,0.70766765
 I'm William Matheson. Call me Bill.,"あのブライアンとも
 すっごく仲がいいし","Also with that Brian
-I'm really good",0.14285714285714285
+I'm really good",0.14285714285714285,0.1415607
 Bill comes up here every night\Nto look at the stars.,"ウィルったら 毎晩
 ここに閉じこもって 星見てるのよ","Every night when Will
-I'm looking at the stars",0.23529411764705882
-"Yeah, just now.",ああ たった今…,"Oh, now ...",0.2857142857142857
+I'm looking at the stars",0.2352941176470588,0.5777827
+"Yeah, just now.",ああ たった今…,"Oh, now ...",0.2857142857142857,0.5020551
 "Be careful, Yuu.","気をつけてね ユウ
 （遊）えっ？","Please be careful
- Eh?",0.25
+ Eh?",0.25,0.6469292
 Bill isn't interested in any of the girls.,"ウィルは
 どんな女の子にも興味を持たないの","Will
-She is not interested in any girl",0.2857142857142857
-To Brian?,ブライアンと？,Is it Brian?,0.4
+She is not interested in any girl",0.2857142857142857,0.5791601
+To Brian?,ブライアンと？,Is it Brian?,0.4,0.71890146
 This must be the view of Manhattan\Nthat Michael mentioned.,"これか… マイケルが
 言ってたマンハッタンの夜景って","Is this ... Michael
-At the night of Manhattan, said",0.23529411764705882
+At the night of Manhattan, said",0.2352941176470588,0.71791285
 This is the best view in our dorm.,"（ドリス）ウチの寮では
 ここが いちばん眺めがいいのよ","In the dormitory of Uchi
-Here is the one who has the most",0.17647058823529413
+Here is the one who has the most",0.17647058823529413,0.3669192
 Isn't it?,"（遊）きれいだな…
 （ジニー）でしょう？","clean ...
- Is it?",0.5
-I hate it.,（ウィル）僕は嫌いだ…,I hate ...,0.4
+ Is it?",0.5,0.31598455
+I hate it.,（ウィル）僕は嫌いだ…,I hate ...,0.4,0.71876955
 Don't mind him. He's a little different.,"（ドリス）気にしないで
 ウィルは ちょっと変わってるのよ","Don't worry
-Will is a little different from she",0.3333333333333333
+Will is a little different from she",0.3333333333333333,0.30943668
 ...I'd be able to see a lot more stars.,"もっともっと
 たくさんの星が見えるはずなんだ","more and more
-Many stars should see",0.2
-Stars...,（ジニー）ハッ…,...,0.5
+Many stars should see",0.2,0.7246462
+Stars...,（ジニー）ハッ…,...,0.5,0.31349656
 "To me, the lights\Nof Manhattan look like stars, too.","でも 俺には あのマンハッタンの
 明かりも 星に見えるよ","But I have that Manhattan
-The light looks like a star",0.15789473684210525
-I want to be an architect.,建築家志望なんだ,I'm an architect,0.375
+The light looks like a star",0.15789473684210525,0.8043174
+I want to be an architect.,建築家志望なんだ,I'm an architect,0.375,0.78646255
 Something that would dim\Nthe stars of Manhattan.,"マンハッタンの星も
 かすんじまうようなさ","Manhattan's stars
-か よう さ",0.16666666666666666
-"I like you, Yuu.",気に入ったよ ユウ,I liked it,0.125
+か よう さ",0.16666666666666666,0.5372514
+"I like you, Yuu.",気に入ったよ ユウ,I liked it,0.125,0.27214816
 I'm this lonely after just one day.,"たった１日だって
 こんなに寂しいのに―","It is only one day
-Such lonely-",0.14285714285714285
+Such lonely-",0.14285714285714285,0.836782
 Can I handle this for a year and a half?,"こんなんで これから１年半も
 耐えられるのかな？","This is a year and a half from now
-Is it possible to withstand?",0.35294117647058826
+Is it possible to withstand?",0.35294117647058826,0.6033855
 I decided on\Nthe long distance relationship...,"だから 遠距離恋愛でも頑張るって
 決心したんだもん","So I will do my best even in long distance love
-I decided to make a decision",0.21052631578947367
+I decided to make a decision",0.21052631578947367,0.72903544
 ...for Yuu's sake.,"いけない いけない！
 遊のためだもん","Don't do!
-It's for playing",0.18181818181818182
+It's for playing",0.18181818181818185,0.21440318
 There's something\NI want to give you before I leave.,"出発する前に
 渡しときたい物があって","Before leaving
-There is something that wants to pass",0.17647058823529413
-It's called a dialer.,ダイヤラーっていうんだ,I say a dialer,0.25
-What is it?,なに？ これ,what?this,0.4
-Thank you.,ありがとう…,Thank you…,0.25
+There is something that wants to pass",0.17647058823529413,0.4827448
+It's called a dialer.,ダイヤラーっていうんだ,I say a dialer,0.25,0.8260477
+What is it?,なに？ これ,what?this,0.4,0.36350965
+Thank you.,ありがとう…,Thank you…,0.25,0.7809207
 "No matter how far apart we are,\Nour hearts are one, right?","どんなに遠く離れても
 ２人の気持ちは ひとつだよね？","No matter how far away
-Two feelings are one of them, right?",0.5
+Two feelings are one of them, right?",0.5,0.596207
 It's 7:30 A.M. where he is...,"（呼び出し音）
-遊の所はと… 今 朝の７時半か",The place of play ... is half past 7 of this morning,0.11764705882352941
-...so he should still be in the dorm.,じゃ きっと まだ寮にいるよね,"Well, I'm still in the dormitory",0.2
-"You're not crying, are you?",な… 泣いてないったら…,... if you're not crying ...,0.4444444444444444
-I'm not crying.,（光希）泣いてない…,I'm not crying ...,0.6666666666666666
+遊の所はと… 今 朝の７時半か",The place of play ... is half past 7 of this morning,0.1176470588235294,0.50568056
+...so he should still be in the dorm.,じゃ きっと まだ寮にいるよね,"Well, I'm still in the dormitory",0.2,0.5375593
+"You're not crying, are you?",な… 泣いてないったら…,... if you're not crying ...,0.4444444444444444,0.682492
+I'm not crying.,（光希）泣いてない…,I'm not crying ...,0.6666666666666666,0.9097279
 You sure?,"ホントか？
 お前 ガキみたいに よく泣くからな","realy?
-I often cry like you",0.25
+I often cry like you",0.25,0.20470874
 "It's sad to be apart, but...","光希
 （光希）えっ…","Phosphorus
- Eh ...",0.09090909090909091
+ Eh ...",0.09090909090909093,0.1462631
 Yuu is starting\Na new life on his own.,"遊なんか 独りぼっちで
 新生活を始めるんだもん","Playing alone
-I will start a new life",0.13333333333333333
-"Yeah, let's be strong.\NI'll be strong!",うん 頑張ろう！ 私 頑張るから,Let's do my best!I will do my best,0.21428571428571427
-I promise I will!,絶対 頑張るから！,I will do my best!,0.42857142857142855
-"Hello? Are you there, Yuu?",もしもし？ 聞いてる？ 遊,Hello?listening?Play,0.2222222222222222
-Of course... I'm here.,もちろん　聞いてるよ,Of course I'm listening,0.5
+I will start a new life",0.13333333333333333,0.39105755
+"Yeah, let's be strong.\NI'll be strong!",うん 頑張ろう！ 私 頑張るから,Let's do my best!I will do my best,0.21428571428571427,0.45419735
+I promise I will!,絶対 頑張るから！,I will do my best!,0.42857142857142855,0.61802816
+"Hello? Are you there, Yuu?",もしもし？ 聞いてる？ 遊,Hello?listening?Play,0.2222222222222222,0.47903377
+Of course... I'm here.,もちろん　聞いてるよ,Of course I'm listening,0.5,0.47769368
 Your moms got a cake for us.,"ママたちが
 ケーキのお土産買ってきてくれたよ","Moms
-I bought a souvenir of cake",0.25
-Let's head out.,さあ 出かけようぜ,Let's go out,0.5
-Aren't we?,遊 今ごろ どうしてるんだろう？,How are you doing?,0.2857142857142857
-It's the brightly glittering thread,（光希）遊の声が聞きたい,I want to hear the voice of play,0.07692307692307693
+I bought a souvenir of cake",0.25,0.73162043
+Let's head out.,さあ 出かけようぜ,Let's go out,0.5,0.641195
+Aren't we?,遊 今ごろ どうしてるんだろう？,How are you doing?,0.2857142857142857,0.26822805
+It's the brightly glittering thread,（光希）遊の声が聞きたい,I want to hear the voice of play,0.07692307692307693,0.07402406

@@ -1,402 +1,402 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "We gather all the soil collected from villages,\Nstore it in the former administrative office first...","（ミルズ）
 各村から集めた土を
 一旦 旧庁で集めて…","Soils collected from each village
-Collect at the old office once ...",0.20833333333333334
+Collect at the old office once ...",0.20833333333333331,0.7498467
 ...or if each village can bring it to us...,"（ミルズ）いや 各村で
 抽出まで やってもらえば","and in each village
-If you try to extract",0.26666666666666666
-Oh my God!,（エルフ）大変だー！,It is difficult!,0.14285714285714285
-A strange carriage is approaching here.,変な馬車が近づいてる,A strange carriage is approaching,0.7142857142857143
-A strange... carriage?,変な馬車？,A strange carriage?,0.8
-...a powerful aristocrat from Orte!,オルテの大貴族の… あっ！,Olyte Oisto's Oisto ...!,0.2
-"You Elven girls, no need to hide.",女の子は隠れなくていい,Girls don't want to hide,0.25
+If you try to extract",0.26666666666666666,0.63429826
+Oh my God!,（エルフ）大変だー！,It is difficult!,0.14285714285714285,0.25607434
+A strange carriage is approaching here.,変な馬車が近づいてる,A strange carriage is approaching,0.7142857142857143,0.9492525
+A strange... carriage?,変な馬車？,A strange carriage?,0.8,0.96048105
+...a powerful aristocrat from Orte!,オルテの大貴族の… あっ！,Olyte Oisto's Oisto ...!,0.2,0.2948251
+"You Elven girls, no need to hide.",女の子は隠れなくていい,Girls don't want to hide,0.25,0.6761175
 Wh-Wh-Who are you?!,"（エルフ）止まれ！
 （サン･ジェルミ）ん？","Stopped!
-?",0.3333333333333333
+?",0.3333333333333333,0.13380672
 This really isn't what I was expecting.,"（フラメ）
-ほんと シケたとこですわ",It is really a case,0.16666666666666666
+ほんと シケたとこですわ",It is really a case,0.16666666666666666,0.25479096
 I imagined some place more\Ntwinkling and glittering...,"想像してたのは もっとこう
 キラッキラ キラッキラ…","I imagined more
-Kirakira Kirakira ...",0.3
-Count Saint-Germi...,い… いえ 違います,... Even wrong,0.2
+Kirakira Kirakira ...",0.3,0.31948358
+Count Saint-Germi...,い… いえ 違います,... Even wrong,0.2,0.15109634
 Why did you personally\Ncome to a place like this?,"なぜ あなた様が じきじきに
 このような所に？","Why are you
-Where is this?",0.3076923076923077
-"Now, the Elves have locked me up and...",今はエルフたちに捕らわれて…,Now I'm caught by the elves ...,0.2857142857142857
+Where is this?",0.3076923076923077,0.45669666
+"Now, the Elves have locked me up and...",今はエルフたちに捕らわれて…,Now I'm caught by the elves ...,0.2857142857142857,0.846945
 "Hmm, you look like a virgin.","（サン･ジェルミ）ふーん
-童貞くさいツラね",I'm a virgin,0.2
-I came to see the Drifters.,私は漂流者に会いに来たの,I came to see the drift,0.625
+童貞くさいツラね",I'm a virgin,0.2,0.694761
+I came to see the Drifters.,私は漂流者に会いに来たの,I came to see the drift,0.625,0.7838525
 That's right. That's right. Bring them to us!,"それが その…
 今 ここにいません","That's that ...
-I have not been here now",0.125
-Bring them out!,お出しなさいよ,Please come out,0.16666666666666666
-Huh?,（３人）え？,?,0.5
+I have not been here now",0.125,0.2747573
+Bring them out!,お出しなさいよ,Please come out,0.16666666666666666,0.4602646
+Huh?,（３人）え？,?,0.5,0.663547
 What do you mean by that?! Where are they?!,"（サン･ジェルミ）いないって
 どういうことよ！","is not
-What does it mean!",0.2
-I'm sorry. I'm sowwy.,すいません すいません,I'm sorry I'm sorry,0.6
+What does it mean!",0.2,0.2214361
+I'm sorry. I'm sowwy.,すいません すいません,I'm sorry I'm sorry,0.6,0.4163911
 Wh...?!,"かかか…　火薬は？
 火薬はどうすんのよ！","Yellow ... What is the gunpow?
-What is the gunpowder!",0.3
+What is the gunpowder!",0.3,0.096813396
 Di... Di... Did you say they were going\Nto have the Dwarves make firearms?!,"じゅ じゅじゅ… 銃
 ドワーフに作らすですって？","Jujuju ... gun
-Do you make a dwarf?",0.2
+Do you make a dwarf?",0.2,0.47114015
 They already have black powder.,"火薬は もうあります
 モリモリ作ってます","There is already a gunpow
-I'm making Morimori",0.07142857142857142
+I'm making Morimori",0.07142857142857142,0.23172103
 It's over. Orte is finished.,"（サン･ジェルミ）終わったー
 オルテ 終わったー","ended
-Orte is over",0.375
-"So, you are the Black King and his subjects.",お前たちが黒王(こくおう)と その臣(おみ)か,You are black king and the person,0.5
-and treated them like your own pets...,（青銅竜(せいどうりゅう)）ハァ…,Hua ...,0.1111111111111111
-I am the Black King.,（黒王）私が黒王だ,I am a black king,0.5714285714285714
+Orte is over",0.375,0.8838374
+"So, you are the Black King and his subjects.",お前たちが黒王(こくおう)と その臣(おみ)か,You are black king and the person,0.5,0.7347566
+and treated them like your own pets...,（青銅竜(せいどうりゅう)）ハァ…,Hua ...,0.1111111111111111,0.14706552
+I am the Black King.,（黒王）私が黒王だ,I am a black king,0.5714285714285714,0.94883853
 "If you intend to join my alliance,\Nyou may take your place in line.","我らが盟に加わるつもりなら
 列に並ぶがいい","If we intend to join
-It is good to line up in the column",0.2608695652173913
+It is good to line up in the column",0.2608695652173913,0.46981505
 How dare you speak in such an arrogant\Nmanner to this Bronze Dragon?!,"この我… 青銅竜に向かって
 ようも壮語を吐きよる","This me ... towards the bronze dragon
-I will spit my sight",0.13043478260869565
+I will spit my sight",0.13043478260869565,0.60558075
 Who the hell you think you are?!,"飢えたゴブリンの子も
 お前も同じだ","Hungry Goblin Children
-You are the same",0.25
+You are the same",0.25,0.19542763
 It matters not to me whoever \Nor whatever you are.,"お前が どのような 何であれ
 関係ない","What if you are
-does not matter",0.2
+does not matter",0.2,0.6160331
 "Will you follow us, or \Nwill you die with them?","（黒王）我らと共に行くか
 彼らと共に死ぬか","Do you go with us
-Do you die with them",0.38461538461538464
-"You may no longer stand on the fence, Bronze.",傍観はないのだ 青銅竜,There is no hide bronze dragon,0.13333333333333333
+Do you die with them",0.38461538461538464,0.6834469
+"You may no longer stand on the fence, Bronze.",傍観はないのだ 青銅竜,There is no hide bronze dragon,0.13333333333333333,0.38793275
 Cease! Stop! Stop it!,"（青銅竜）よせっ
-やめろ… やめろー！",Stop ... Stop!,0.4
-"I welcome you, Bronze.",（黒王）歓迎する 青銅竜,Welcome bronze dragon,0.2857142857142857
+やめろ… やめろー！",Stop ... Stop!,0.4,0.7228934
+"I welcome you, Bronze.",（黒王）歓迎する 青銅竜,Welcome bronze dragon,0.2857142857142857,0.6947079
 You have now become one who is scorned\Nrather than one who is feared.,"今やお前は 畏れられるより
 蔑まれる姿となった","Now you are more fear
-It became a horn",0.1111111111111111
-"Hence, you have the right \Nto join my alliance.",我らの盟に加わる権利がある,There is the right to join us,0.2
-The power of our Black Lord\Nis the replication of life.,我らが王の力は 生命の増殖だ,Our king's power is life growth,0.23076923076923078
-His healing power is one derivation of it.,（土方(ひじかた)）すさまじい力だ,) It is a strong power,0.25
+It became a horn",0.1111111111111111,0.48696667
+"Hence, you have the right \Nto join my alliance.",我らの盟に加わる権利がある,There is the right to join us,0.2,0.61359864
+The power of our Black Lord\Nis the replication of life.,我らが王の力は 生命の増殖だ,Our king's power is life growth,0.2307692307692308,0.5241821
+His healing power is one derivation of it.,（土方(ひじかた)）すさまじい力だ,) It is a strong power,0.25,0.3990037
 "However, uncontrolled reproduction could\Nresult in cancerous growth, leading to death.","だが 無制限の増殖は腫となり
 死に直結する","But unlimited growth is tumor
-Directly connected to death",0.16666666666666666
-Black Lord!,プギャー！,Pogy!,0.25
+Directly connected to death",0.16666666666666666,0.6345775
+Black Lord!,プギャー！,Pogy!,0.25,0.43453914
 You don't need to prostrate\Nyourselves before me.,"（黒王）そう いちいち
 ひれ伏さなくてよい","That's right
-I do not have to come down",0.11764705882352941
+I do not have to come down",0.1176470588235294,0.28363508
 Allow me some room to make use of my power.,"力を使うから
 向こうに行きなさい","Because we use power
-Go to the other side",0.17647058823529413
+Go to the other side",0.17647058823529413,0.42238384
 "To those who stand against the Black King,","通常なら 再起不能や
 死んでしまう者すら―","Normally, it is impossible to recover
-Even those who die-",0.25
+Even those who die-",0.25,0.13217857
 "recognizing him as the commander\Nof the opposing force,","王と敵対する者にとって
 王を 軍の指揮者として考えた場合","For the king and the hostile
-If you consider the king as a military conductor",0.1111111111111111
+If you consider the king as a military conductor",0.1111111111111111,0.4802412
 his power must be nothing\Nshort of a nightmare.,"王の力は
 悪夢としか思えぬだろうな","The power of the king
-I only think that it is a nightmare",0.23529411764705882
-He can instantly cure those who are injured.,負傷者は すぐに治してしまう,The injured person will cure soon,0.15384615384615385
-could return to the front lines in no time.,すぐに戦列に戻ってしまう,Return to the line immediately,0.25
-The concept of logistics falls apart.,兵站(へいたん)という概念が崩れる,The concept of the Latistics  is broken,0.3
-"Then, why does he have\Nthem cultivate the earth?!",ならば なぜ耕作などさせる,"If so, let's cultivate",0.13333333333333333
-That's because...,（黒王）それは…,That's ...,0.75
+I only think that it is a nightmare",0.2352941176470588,0.63127464
+He can instantly cure those who are injured.,負傷者は すぐに治してしまう,The injured person will cure soon,0.15384615384615385,0.7972115
+could return to the front lines in no time.,すぐに戦列に戻ってしまう,Return to the line immediately,0.25,0.4669372
+The concept of logistics falls apart.,兵站(へいたん)という概念が崩れる,The concept of the Latistics  is broken,0.3,0.20664631
+"Then, why does he have\Nthem cultivate the earth?!",ならば なぜ耕作などさせる,"If so, let's cultivate",0.13333333333333333,0.2816072
+That's because...,（黒王）それは…,That's ...,0.75,0.6288113
 "...I am not God, who possesses eternal life.","私は永遠に生きる
 神などではないからだ","I live forever
-It is not a god etc.",0.23529411764705882
+It is not a god etc.",0.2352941176470588,0.70742637
 "Rasputin, is it completed?","（黒王）ラスプーチン
 できているか？","Rasputin
-Are you buzzing?",0.2222222222222222
+Are you buzzing?",0.2222222222222222,0.61764467
 "from Varuna, Egyptian and Celtic mythos.","モデルは拝火や それ以前のヴァルナ
 エジプトやケルト","The model is a light fire and the previous Valna
-Egypt and Celtic",0.11764705882352941
-"Also, these were...",シンボルは 目にしました,Symbols were eye,0.14285714285714285
+Egypt and Celtic",0.1176470588235294,0.48623616
+"Also, these were...",シンボルは 目にしました,Symbols were eye,0.14285714285714285,0.3305162
 "Even so, it may take a long time\Nto make them understand.","理解させるのに
 時間がかかるでしょうね","To understand
-It will take time",0.1875
+It will take time",0.1875,0.4658711
 What do you have planned?,"（黒王）一体
-何をさせるつもりか？",What are you going to do?,0.4444444444444444
-We are a multi-racial community.,我らは多種族の共同体だ,We are a community of a variety,0.5
+何をさせるつもりか？",What are you going to do?,0.4444444444444444,0.6600458
+We are a multi-racial community.,我らは多種族の共同体だ,We are a community of a variety,0.5,0.62879246
 "Primitive agriculture, a new\Nwriting system, unified religion...","共通の文字を作り
 統一宗教を作り 教化する","Create common characters
-Create unified religion",0.16666666666666666
-"They, who have been teased\Nby being called monsters,",化け物と揶揄された彼らは―,They were deceived as a monster-,0.07142857142857142
+Create unified religion",0.16666666666666666,0.40739557
+"They, who have been teased\Nby being called monsters,",化け物と揶揄された彼らは―,They were deceived as a monster-,0.07142857142857142,0.5051031
 will take the place of humans and forge\Ntheir own civilization in this world.,"人間に取って代わり
 地上に文明を作るのだ","In terms of people
-Make civilization on the ground",0.21052631578947367
-Where...?,ここは？,here?,0.25
+Make civilization on the ground",0.21052631578947367,0.5580107
+Where...?,ここは？,here?,0.25,0.48169544
 You were retrieved by dragon cavalry.,"（アナスタシア）北壁よ
 飛竜が あなたを回収したの","North wall
-Flying dragon collected her you",0.16666666666666666
+Flying dragon collected her you",0.16666666666666666,0.53045785
 Dead... Became a lump of salt.,"（アナスタシア）死んだわ
 塩の塊となって","dead
-Become a chunk of salt",0.4
-What is your intent?,ジルドレは？,What is Zilde?,0.5
-You mustn't take the Drifters lightly.,ジルドレの敵(かたき)を取るんだ！,Take the enemy of Zirdore !,0.16666666666666666
+Become a chunk of salt",0.4,0.76765674
+What is your intent?,ジルドレは？,What is Zilde?,0.5,0.07462307
+You mustn't take the Drifters lightly.,ジルドレの敵(かたき)を取るんだ！,Take the enemy of Zirdore !,0.16666666666666666,0.1489416
 This time I will kill them!\NI will be sure to kill them all!,"次は殺すよ
 ちゃんと ちゃんと殺す！","Next is killed
-Kill properly!",0.125
-You must not.,ドリフターズは侮れない,Drifters can not be disgusted,0.125
-You will wait for your chance.,機を待ちなさい,Wait for a machine,0.2222222222222222
+Kill properly!",0.125,0.40910468
+You must not.,ドリフターズは侮れない,Drifters can not be disgusted,0.125,0.11608566
+You will wait for your chance.,機を待ちなさい,Wait for a machine,0.2222222222222222,0.40117627
 "For, in the end, I will certainly\Nensure your desire comes to pass.","最後には必ず あなたの
 思うとおりにさせてあげるから","At the end is always your
-Because I will try",0.2631578947368421
-Bastard...,（ジャンヌ）あいつ…,Atsushi ...,0.3333333333333333
+Because I will try",0.2631578947368421,0.42010882
+Bastard...,（ジャンヌ）あいつ…,Atsushi ...,0.3333333333333333,0.18674394
 I will burn him until not \Neven his ashes remain!,"炭も残さず
 念入りに焼いてやる！","Neither coal remain
-I will bake carefully!",0.26666666666666666
+I will bake carefully!",0.26666666666666666,0.4084156
 How did it go... with her?,"（ラスプーチン）
-どうでした？　彼女",How was? she,0.2
-"The Black Lord healed her wound,",黒王様が治してくださったが,Black king cureed,0.1111111111111111
+どうでした？　彼女",How was? she,0.2,0.58720326
+"The Black Lord healed her wound,",黒王様が治してくださったが,Black king cureed,0.1111111111111111,0.5864788
 but it wouldn't have been strange\Nif she had died before arriving here.,"ここに着く前に 死んでいても
 おかしくはなかった","Even if you are dead before arriving here
-It was not strange",0.18181818181818182
-The Drifter leader named Toyohisa...,漂流者の あの豊久(とよひさ)という頭目,The head of the drift of the drifter,0.2222222222222222
+It was not strange",0.18181818181818185,0.69277495
+The Drifter leader named Toyohisa...,漂流者の あの豊久(とよひさ)という頭目,The head of the drift of the drifter,0.2222222222222222,0.59695214
 He does not seem the type to stay his hand\Njust because his enemy is a woman.,"女だからと
 手加減をする者ではないようで","Because it is a woman
-She seems not to be a person who does",0.3181818181818182
-His existence itself is an\Nembodiment of complacency.,存在自体が自己満足の集合体よ,The presence itself is a collection of self-satisfaction,0.23076923076923078
+She seems not to be a person who does",0.3181818181818182,0.45440778
+His existence itself is an\Nembodiment of complacency.,存在自体が自己満足の集合体よ,The presence itself is a collection of self-satisfaction,0.2307692307692308,0.4384581
 "So, that is what ""samurai"" is.","その末えいに わたくしたちの
 ロシアは負けたじゃないの","After that end of me
-Russia is not lost",0.125
-It's been 800 years since\Ntheir feudal system was born...,アレが生まれて800年間…,Alle is born for 800 years ...,0.2857142857142857
-"You're angry because Joan\Nwas bullied, aren't you, princess?",怒っているもんですか,Are you angry?,0.36363636363636365
+Russia is not lost",0.125,0.123345084
+It's been 800 years since\Ntheir feudal system was born...,アレが生まれて800年間…,Alle is born for 800 years ...,0.2857142857142857,0.41773745
+"You're angry because Joan\Nwas bullied, aren't you, princess?",怒っているもんですか,Are you angry?,0.3636363636363637,0.46343294
 I have not been angered.,"互いに殺し合うことしか
 しない連中よ","Must kill each other
-I will not",0.18181818181818182
-Stop! Stop it!,（青銅竜）やめろー！,Stop!,0.6666666666666666
-"Black King, stop this! Have them cease!",黒王 止めろ　やめさせろ！,Stop the black king!,0.4
+I will not",0.18181818181818185,0.30393407
+Stop! Stop it!,（青銅竜）やめろー！,Stop!,0.6666666666666666,0.85126317
+"Black King, stop this! Have them cease!",黒王 止めろ　やめさせろ！,Stop the black king!,0.4,0.8537563
 "If you cannot walk beside us,\Nyou are mere meat.","（黒王）共に歩めぬなら
 ただの肉","If you do not walk
-Just meat",0.3333333333333333
-Keep this to yourself.,（黒王）黙っていよ,I'm silent,0.0
-Which are you?,あんたは どっち？,Which one?,0.4
+Just meat",0.3333333333333333,0.71725374
+Keep this to yourself.,（黒王）黙っていよ,I'm silent,0.0,0.1991477
+Which are you?,あんたは どっち？,Which one?,0.4,0.45517865
 That damn jackass is pretending\Nto be a government official...,"（EASY(イージー)）あの役人気取りの
 クソバカ",") That of that
-Fucking",0.07692307692307693
+Fucking",0.07692307692307693,0.14953053
 Is it edible?,"何？　てぽう？
 てぽうって何じゃい","what?Oh, right?
-What is it",0.375
-Musket! It's called a musket!,食えんのか それ,It's a food,0.42857142857142855
-We can fight as well.,（ドワーフ長）わしらも戦うぞい～,Wasa also fight,0.125
-Bring us more booze and food!,もっと酒と飯 持ってこんか！,Have more drinks and rice!,0.3
+What is it",0.375,0.20492247
+Musket! It's called a musket!,食えんのか それ,It's a food,0.42857142857142855,0.18561888
+We can fight as well.,（ドワーフ長）わしらも戦うぞい～,Wasa also fight,0.125,0.42415836
+Bring us more booze and food!,もっと酒と飯 持ってこんか！,Have more drinks and rice!,0.3,0.55620074
 "Also, you guys recovered\Nway too quickly after you ate!","で 食ったら
 元気になりすぎだろ お前ら","If you eat
-You're too good",0.14285714285714285
+You're too good",0.14285714285714285,0.36795557
 There should've been tons\Nof food in this arsenal...,"（オルミーヌ）この兵廠には
 大量の食料もあったはずなのに…","This soldier
-Even though there should be a large amount of food ...",0.2777777777777778
+Even though there should be a large amount of food ...",0.2777777777777778,0.49811986
 Wh-What happened?!,"（ドワーフたち）ああ？
 やんのかコラ おお？","Oh?
-Yan or Kora?",0.125
+Yan or Kora?",0.125,0.1402989
 "Olminu, we just got an additional order.","（エルフ）オルミーヌさん
 追加注文 来ました","Ormine
-Additional order came",0.18181818181818182
-Soup for a hundred people!,（エルフ）スープ100人前,Soup 100 people,0.2857142857142857
-What kind of place do they think this is?!\NJust serve them water!,何の店だ　水でも出しとけ！,Some stores are out of water!,0.15789473684210525
+Additional order came",0.18181818181818185,0.50676763
+Soup for a hundred people!,（エルフ）スープ100人前,Soup 100 people,0.2857142857142857,0.852751
+What kind of place do they think this is?!\NJust serve them water!,何の店だ　水でも出しとけ！,Some stores are out of water!,0.15789473684210525,0.43656805
 "The more they eat,\Nthe more muscular they become.","飯 食うたびに
 体がモリモリになってくぞ","Every time eating rice
-The body is morimori",0.0625
-Yeah.,（エルフたち）うん…,Yeah ...,0.3333333333333333
+The body is morimori",0.0625,0.31811562
+Yeah.,（エルフたち）うん…,Yeah ...,0.3333333333333333,0.7837381
 "What's with that? Why are you smiling, Shara?","シャラ 何で笑ってんだ？
 （シャラ）ん？","What's laughing at Shara?
-?",0.3076923076923077
-The Dwarves are back. The Dwarves\Nfrom our bedtime stories are back.,寝物語のドワーフが帰ってきた,The dwarf of sleeping story came back,0.14285714285714285
-"Don't ""Ahhh"" me.",“ハァ～”じゃねえよ,"""Hu ~""",0.2222222222222222
-"So... hey, listen to me.",聞いてまふか～ おいちゃん,Listen to Mafuka-Ochan,0.2222222222222222
-I am... I am listening.,やってらんないっふうの…,I'm sorry ...,0.2857142857142857
+?",0.3076923076923077,0.73194367
+The Dwarves are back. The Dwarves\Nfrom our bedtime stories are back.,寝物語のドワーフが帰ってきた,The dwarf of sleeping story came back,0.14285714285714285,0.72137564
+"Don't ""Ahhh"" me.",“ハァ～”じゃねえよ,"""Hu ~""",0.2222222222222222,0.4544459
+"So... hey, listen to me.",聞いてまふか～ おいちゃん,Listen to Mafuka-Ochan,0.2222222222222222,0.44047716
+I am... I am listening.,やってらんないっふうの…,I'm sorry ...,0.2857142857142857,0.27083492
 "Suddenly, he was like, ""Shoot the fan!""\NThat didn't make any sense!","いきなり 扇なんか
 撃ち落とせっつーのが","Suddenly a fan
-There is a shooting down",0.09523809523809523
+There is a shooting down",0.09523809523809523,0.6046255
 That's some nasty booze.,"水夫 撃てとか
 頭おかしいよねー","Water shot
-It's funny",0.1
-Put your clothes back on.\NYou may give them the wrong idea.,悪い酒だな,Bad liquor,0.0
-D-Don't break it.,こ… 壊すなよ？,Hmm ... Don't break it?,0.3333333333333333
-What is this? It's an iron cylinder.,何じゃ？　鉄の筒じゃな,What is it?Iron cylinder,0.6
-It looks like it's made of rolled iron.,巻き鉄で作っておるようじゃのう,It will be made with winding iron,0.23076923076923078
+It's funny",0.1,0.2572273
+Put your clothes back on.\NYou may give them the wrong idea.,悪い酒だな,Bad liquor,0.0,0.034517888
+D-Don't break it.,こ… 壊すなよ？,Hmm ... Don't break it?,0.3333333333333333,0.63966715
+What is this? It's an iron cylinder.,何じゃ？　鉄の筒じゃな,What is it?Iron cylinder,0.6,0.96140695
+It looks like it's made of rolled iron.,巻き鉄で作っておるようじゃのう,It will be made with winding iron,0.2307692307692308,0.5362265
 Does the spring cause this iron bit\Nto drop down onto the metal pan?,"（ドワーフ）この棒鉄が
 この皿にバネで落ちるのか","This stick iron
-Do you fall with spring on this plate?",0.2
+Do you fall with spring on this plate?",0.2,0.69068664
 What does that do? Is this\Nsome sort of projectile device?,"何の意味があるんじゃ？
 何らかの射撃装置かのう","What does that mean?
-Some shooting equipment",0.26666666666666666
+Some shooting equipment",0.26666666666666666,0.5094767
 "So, what on earth is this for?","で これは一体
 何に使うもんじゃい","This is one
-What to use",0.25
+What to use",0.25,0.28203115
 "Gunpowder is ignited in the cylinder,\Npropelling a lead bullet.","その筒で 火薬をはぜさせて
 鉛の弾を撃ち出す武器だ","Let's put the gun in the tube
-It is a weapon that shoots lead bullets",0.22727272727272727
-...launches a lead bullet?,鉛の弾を撃ち出す…,Shoot lead bullets ...,0.25
+It is a weapon that shoots lead bullets",0.2272727272727273,0.6584591
+...launches a lead bullet?,鉛の弾を撃ち出す…,Shoot lead bullets ...,0.25,0.620892
 ...why go through so much\Neffort for such a thing?,"なぜ わざわざ
 そんな面倒なことをするんじゃ","Why
-Don't do such a troublesome thing",0.2857142857142857
+Don't do such a troublesome thing",0.2857142857142857,0.37840214
 Aren't bows and crossbows just as good?\NWhat is so special about this?,"弓やクロスボウでいいではないか
 これでなければ ダメなのか？","Isn't it good with a bow or crossbow
-Is it not good if this is not good?",0.21739130434782608
-"So, why a musket?",なぜ それに こだわるんです？,Why do you stick to it?,0.18181818181818182
+Is it not good if this is not good?",0.21739130434782608,0.79254144
+"So, why a musket?",なぜ それに こだわるんです？,Why do you stick to it?,0.18181818181818185,0.24439687
 ...both sound and smoke are necessary.\NHow should I put it...,"ああ うん…
 音も煙も必要なのだ","Oh yeah ...
-You also need noise and smoke",0.17647058823529413
+You also need noise and smoke",0.17647058823529413,0.6878655
 The roar of the musket is its battle cry.,"（豊久）鉄火は鉄砲の
 “ときの声”ぞ","Iron fire is a gun
-""The voice of the time""",0.1875
-"A musket has long range\Nand commanding power,",長い射程 高い威力,Long range high power,0.2
+""The voice of the time""",0.1875,0.39605743
+"A musket has long range\Nand commanding power,",長い射程 高い威力,Long range high power,0.2,0.4983021
 but that's not the only \Nreal advantage it holds.,"だが 銃の真の利点は
 それだけではない","But the true advantage of the gun is
-That is not all",0.3125
-It is a path for all civilians \Nto become warriors.,戦バカではあるが,It is a battle stupid,0.23076923076923078
-Huh? What?!,ん？　何？,Yeah? what?,0.4
+That is not all",0.3125,0.6591987
+It is a path for all civilians \Nto become warriors.,戦バカではあるが,It is a battle stupid,0.2307692307692308,0.30914724
+Huh? What?!,ん？　何？,Yeah? what?,0.4,0.7736467
 I'm talking about the iron cylinder.,"お前らの この鉄筒じゃい
 鉄砲とか言うとったの","You are this iron tube
-I said that I could",0.13333333333333333
+I said that I could",0.13333333333333333,0.50492984
 "You told me it was called \Na musket, didn't you?","昨日の今日だぞ
 もう作ったってのか？","It is yesterday's today
-Did you make it already?",0.2222222222222222
+Did you make it already?",0.2222222222222222,0.23523352
 The blacksmiths of your\Ncountry are pretty skilled.,"（ドワーフ長）
-図面だけからなら まだしも",If only the drawings are still,0.16666666666666666
+図面だけからなら まだしも",If only the drawings are still,0.16666666666666666,0.15131736
 ...we have the real thing. There is no\Nreason it couldn't be done quickly.,"物がもうあるんじゃ
 わしらが作れるに決まっとろうが","There is already something
-It will be decided to be able to make others",0.16666666666666666
-how many can we make?,こいつを どれだけ作れる？,How much can you make this guy?,0.4
+It will be decided to be able to make others",0.16666666666666666,0.5181313
+how many can we make?,こいつを どれだけ作れる？,How much can you make this guy?,0.4,0.5846938
 This town provided more than half\Nof the Orte's armaments.,"この工房都市は オルテの武器の
 半分以上を賄っておった","This studio city is a weapon of Orte
-I got more than half",0.2
-That was while we were starved and lazy.,そうじゃな,That's right,0.09090909090909091
+I got more than half",0.2,0.5633032
+That was while we were starved and lazy.,そうじゃな,That's right,0.09090909090909093,0.14139976
 "If all of us work at full force, let's see...","（信長）この工房都市を
 全力で稼働させたら…","This studio city
-If you work with all your power ...",0.2
+If you work with all your power ...",0.2,0.40096048
 so it will take some time to get used to it.,"剣や鎧と勝手が違うでな
 慣れるまで 時はかかろうが…","Swords and armor and selfish are different
-If you get used to it ...",0.21052631578947367
+If you get used to it ...",0.21052631578947367,0.3032912
 Is that all?! You were so\Nfull of confidence earlier.,"たったそれだけか？
 自信満々のくせに","Is it just that?
-In the case of confidence",0.29411764705882354
+In the case of confidence",0.29411764705882354,0.49497655
 Don't be unreasonable!,"時々 ああなるんです
 そっとしておいてあげて","Sometimes it will be
-Gently leave it",0.1
-Per day?!,（信長）日？,?,0.25
-What an evil look!,何か ひどく悪い顔をしとる,Take a bad face,0.0
+Gently leave it",0.1,0.16760494
+Per day?!,（信長）日？,?,0.25,0.12711431
+What an evil look!,何か ひどく悪い顔をしとる,Take a bad face,0.0,0.3501748
 "By the way, where did Toyohisa go?\NIs he eating again?","で 豊久はどこ行った
 また 飯食ってんのか？","Where did you go
-Are you eating again?",0.4
+Are you eating again?",0.4,0.5422431
 "Oh, him. He said he was\Ngoing to do something","わしらの若い衆を集めて
 何かしとる","Collect the young people of Writer
-Do something",0.125
+Do something",0.125,0.12013252
 "Frankly, I can't tell whether\Nyou guys are young or old.","お前らって正直 年寄りと若者の
 区別がつかないんだけど","You guys honest and young people
-I can't distinguish it",0.2631578947368421
+I can't distinguish it",0.2631578947368421,0.6188342
 You all look like old men.\NIs it some sort of curse?,"全員おっさんに見える
 何かの呪いか？","Everyone looks like an old man
-Something curse?",0.23529411764705882
-Shut up!,黙れい！,Shut up!,1.0
-We can also fight!,俺たちも戦う,We also fight,0.6
-Our fighting style is to put\Neverything behind one ax strike.,オノの一撃に 全てを懸ける闘法だ,It is a fighting method to spend everything on Ono's blow,0.15
-Jige... What? What the heck is that?,じげ… 何？　何じゃ？,... What?What is it?,0.4444444444444444
+Something curse?",0.2352941176470588,0.87576973
+Shut up!,黙れい！,Shut up!,1.0,0.99999994
+We can also fight!,俺たちも戦う,We also fight,0.6,0.7717746
+Our fighting style is to put\Neverything behind one ax strike.,オノの一撃に 全てを懸ける闘法だ,It is a fighting method to spend everything on Ono's blow,0.15,0.39775985
+Jige... What? What the heck is that?,じげ… 何？　何じゃ？,... What?What is it?,0.4444444444444444,0.32171014
 It was popular among young men \Nin the main branch of the school.,"ご本家ん若い二子(にせ)で
 はやっちょった","In the family young dumpling
-It was done",0.23529411764705882
+It was done",0.2352941176470588,0.2779666
 I learned the Taisha fighting style,"示現は あまり学ぶヒマが
 ないごてじゃったが","The realization is very learned
-It was not",0.16666666666666666
+It was not",0.16666666666666666,0.214277
 "No matter how far away your world is\Nfrom ours, your way of thinking is the same...","（ドワーフ）
-遠い世界で考えることは同じ",Thinking in the distant world is the same,0.2631578947368421
-Interesting.,面白いものじゃ,It is interesting,0.25
+遠い世界で考えることは同じ",Thinking in the distant world is the same,0.2631578947368421,0.72126013
+Interesting.,面白いものじゃ,It is interesting,0.25,0.50804466
 "Who are you? I mean, what the heck are you?","（ドワーフ）誰じゃ！
 いや 何じゃ お前ら","Who is!
-No, what if you",0.2857142857142857
+No, what if you",0.2857142857142857,0.39681768
 I never would have expected...,"（サン･ジェルミ）
-まさかとは思ってたけど",I thought it was,0.1111111111111111
-What are you?!,何て おっかないのかしら,What doesn't come?,0.25
-Saint-Germi's wagon is outside...,外にサン･ジェルミの馬車が！,Outside San Jermi's carriage!,0.2
-The powerful twinkie count...,あのオカマ大藩地伯が,That okama Daigei,0.0
-How rude!,失礼しちゃう,Rude,0.3333333333333333
-"Hey, Boobienu. What the hell is he,\Nan entertainer or something?",芸人か？　つか 人か？,Is it an entertainer?Is it?,0.1875
-He is a powerful aristocrat who \Nowns a third of the Orte empire!,オルテの３分の１を支配する大貴族,A large number of ordinary people who govern one third of the Orte,0.3157894736842105
-Wh-Why are you here?!,な… 何でここに？,... What is here?,0.2222222222222222
+まさかとは思ってたけど",I thought it was,0.1111111111111111,0.29753453
+What are you?!,何て おっかないのかしら,What doesn't come?,0.25,0.22604018
+Saint-Germi's wagon is outside...,外にサン･ジェルミの馬車が！,Outside San Jermi's carriage!,0.2,0.6535493
+The powerful twinkie count...,あのオカマ大藩地伯が,That okama Daigei,0.0,0.14390518
+How rude!,失礼しちゃう,Rude,0.3333333333333333,0.76483965
+"Hey, Boobienu. What the hell is he,\Nan entertainer or something?",芸人か？　つか 人か？,Is it an entertainer?Is it?,0.1875,0.6764537
+He is a powerful aristocrat who \Nowns a third of the Orte empire!,オルテの３分の１を支配する大貴族,A large number of ordinary people who govern one third of the Orte,0.3157894736842105,0.52085215
+Wh-Why are you here?!,な… 何でここに？,... What is here?,0.2222222222222222,0.3753893
 "Or as we suspect, are you with the Ends?!","こんな廃棄物いるか バカ
 （オルミーヌ）なっ！","Such waste or stupid
-!",0.13333333333333333
-"Oh dear, you are treating \Nme like I'm criminal.",あら！　人を犯罪者みたいに,Oh!Like a criminal,0.21428571428571427
+!",0.13333333333333333,0.14374644
+"Oh dear, you are treating \Nme like I'm criminal.",あら！　人を犯罪者みたいに,Oh!Like a criminal,0.21428571428571427,0.52548385
 "Whether you believe me \Nor not, I am a Drifter.","こんな むさ苦しい所
 来てあげたんじゃないの","Such a difficult place
-I'm not going to come",0.15789473684210525
+I'm not going to come",0.15789473684210525,0.09608254
 "Th-Then, why on earth did you help\N""Father"" found an empire like Orte?!","じゃ… じゃあ 何で
 あの国父と オルテなんて帝国を？","Well ... that's why
-That domicated father and he are the Empire?",0.15384615384615385
+That domicated father and he are the Empire?",0.15384615384615385,0.6950245
 How dare you?! Orte is a great empire.,"国父は効率的な
 官僚帝国を作り上げた","Father is efficient
-Creating a bureaucracy Empire",0.2
+Creating a bureaucracy Empire",0.2,0.35504556
 """Father,"" Adolf Hitler,\Nwas also a respectable Drifter.","あの国父アドルフ･ヒトラーだって
 れっきとした漂流者よ","That domicated adolf Hitler
-Reiki drifting person",0.11764705882352941
+Reiki drifting person",0.1176470588235294,0.55611205
 He eliminated nepotism\Nand centralized the wealth.,"世襲による悪癖を取り除き
 富を分配した","Remove the bad habits due to
-Distributed wealth",0.15384615384615385
-"Then, he meticulously \Ncrafted a strict hierarchy.",エンズの所業みたいに言うな バカ,A fool who says like Ens,0.07142857142857142
+Distributed wealth",0.15384615384615385,0.39634174
+"Then, he meticulously \Ncrafted a strict hierarchy.",エンズの所業みたいに言うな バカ,A fool who says like Ens,0.07142857142857142,0.16446938
 "Thus, he unified the people and\Nformed a centralized government...","それをもって民衆をまとめ
 中央集権を成した","Summary the people with it
-Maintained Central Publication",0.11764705882352941
-We did such incredible work.,私たちは いい仕事したわよ,We worked good,0.125
+Maintained Central Publication",0.1176470588235294,0.31924906
+We did such incredible work.,私たちは いい仕事したわよ,We worked good,0.125,0.5221205
 other races surrounding us for fifty years?!,"でなければ 四方諸族を相手に
 50年も戦えるもんですか","If it is not, the partner
-Can you fight for 50 years?",0.15
+Can you fight for 50 years?",0.15,0.24296932
 "You, I saw a man who\Nhad the same eyes as yours.","お前… 同じ目をしたやつ
 前にも見たわ","You are ... guy with the same eyes
-I saw it before",0.3157894736842105
+I saw it before",0.3157894736842105,0.684361
 "I didn't know who he was\Nor what he was talking about,","何者か知らんし
 何言ってるか よう知らんが","Anyone I do not know
-I'm telling what he wants to know",0.21052631578947367
+I'm telling what he wants to know",0.21052631578947367,0.44466472
 Are you talking about Matsunaga Danjo?,"松永弾正(まつながだんじょう)　あらやだ
 あんなのと一緒？","Matsunaga bullet  Aura
-What is that?",0.16666666666666666
+What is that?",0.16666666666666666,0.46400136
 "So, what brought you here, Count Saint-Germi?","そのサン･ジェルミ伯が
 何用でここに？","That San Gehemi
-What's here?",0.23076923076923078
+What's here?",0.2307692307692308,0.33299765
 I came to verify that you are\Nworth joining forces with.,"（サン･ジェルミ）
 手を組むに値するかどうか
 確かめに来たのよ","Whether or not
-I came to check",0.2
-"You are the leader,\NShimazu Toyohisa, are you not?",あなたが頭目の 島津(しまづ)豊久かしら,You're the head Shimadzu,0.16666666666666666
+I came to check",0.2,0.45815036
+"You are the leader,\NShimazu Toyohisa, are you not?",あなたが頭目の 島津(しまづ)豊久かしら,You're the head Shimadzu,0.16666666666666666,0.5249479
 Who the hell are you?! Are you a man of Orte?,"何だ 貴様ら
 オルテの手の者か？","What kind of
-Orte's hand person?",0.1875
+Orte's hand person?",0.1875,0.49975055
 "Well, I may be a man of Orte...","そうねえ
 オルテの手の者… だわね","Sound
-Person of Orte's hand ...",0.21428571428571427
-...yet...!,まだ！,yet!,0.6666666666666666
-He read my move!,読まれてた！,I was read!,0.2857142857142857
-"It's too bad. In thirty years,\Nyou would totally be my type.",あと30年もしたら好みのタイプ,"If you have 30 years, your favorite type",0.14285714285714285
-But there's nothing I can do about it.\NI am sorry if I end up killing you!,でも仕方ないわ,But I can not help,0.15789473684210525
-Curse yourself for being young!,年若い自分を呪うことね！,A young young myself curse!,0.375
-"What's wrong, Allister?!",どうした アレスタ！,What is the Arrest!,0.2
-I didn't do anything.,この私は負けたりしない,I do not lose this,0.2222222222222222
-Here I come!,ゆくぞ！,I'm sorry!,0.3333333333333333
+Person of Orte's hand ...",0.21428571428571427,0.6047742
+...yet...!,まだ！,yet!,0.6666666666666666,0.6531944
+He read my move!,読まれてた！,I was read!,0.2857142857142857,0.5654548
+"It's too bad. In thirty years,\Nyou would totally be my type.",あと30年もしたら好みのタイプ,"If you have 30 years, your favorite type",0.14285714285714285,0.56301796
+But there's nothing I can do about it.\NI am sorry if I end up killing you!,でも仕方ないわ,But I can not help,0.15789473684210525,0.35480568
+Curse yourself for being young!,年若い自分を呪うことね！,A young young myself curse!,0.375,0.8411958
+"What's wrong, Allister?!",どうした アレスタ！,What is the Arrest!,0.2,0.11201434
+I didn't do anything.,この私は負けたりしない,I do not lose this,0.2222222222222222,0.27895984
+Here I come!,ゆくぞ！,I'm sorry!,0.3333333333333333,0.355119
 unless a boy with a ponytail \Nand bangs over one eye appears!,"片目隠れ ホーステールの少年でも
 出てこないかぎり！","Even a single-eye hidden hose tale boy
-As long as you come out!",0.13636363636363635
-"Toyohisa, we have a problem.",豊久殿 大変ですぞ,It is a great deal of,0.08333333333333333
-Princess!,ギャー！,Gy!,0.3333333333333333
-Help!,助けて～,Help me,0.3333333333333333
-"Oh, Toyo. What happened?",おお 豊(とよ)　どうした？,What happened?,0.42857142857142855
+As long as you come out!",0.13636363636363635,0.5031435
+"Toyohisa, we have a problem.",豊久殿 大変ですぞ,It is a great deal of,0.08333333333333333,0.10221008
+Princess!,ギャー！,Gy!,0.3333333333333333,0.46830449
+Help!,助けて～,Help me,0.3333333333333333,0.6999021
+"Oh, Toyo. What happened?",おお 豊(とよ)　どうした？,What happened?,0.42857142857142855,0.42548788
 "I don't know what is going on,\Nbut I hit him hard.","何が何でん 分からんで
 ぶん殴っちやった","What do you know what
-I'm beaten",0.23529411764705882
-A traitor?,売国奴？,traitor?,0.6666666666666666
-That's right.,（サン･ジェルミ）そうよ,That's right,0.75
+I'm beaten",0.2352941176470588,0.4150388
+A traitor?,売国奴？,traitor?,0.6666666666666666,0.9326483
+That's right.,（サン･ジェルミ）そうよ,That's right,0.75,0.8883224
 I came to sell off the Orte Empire.,"私はね オルテを
 売り飛ばしに来たの","I am an Orte
-I came to sell",0.45454545454545453
+I came to sell",0.4545454545454545,0.73189986
 --The empire...?\N--Sell off...?,"（信長）国を…
 （オルミーヌ）売り飛ばす？","country ...
- Sell Sell?",0.3333333333333333
-That's correct...\Nwhile it is still worth something.,商品価値の まだあるうちにね,Now that there is still a product value,0.1875
+ Sell Sell?",0.3333333333333333,0.5006485
+That's correct...\Nwhile it is still worth something.,商品価値の まだあるうちにね,Now that there is still a product value,0.1875,0.58809686
 "When a country falls,\Nit must fall in the proper way.","諸国軍が押し寄せて
 城下の盟(ちかい)で降伏して","Country military army is crowded
-Saddle in the Castle",0.15789473684210525
+Saddle in the Castle",0.15789473684210525,0.080956444
 "So, what do you expect us to do?","そいで おまあは わいらに
 ないがさせたかど？","Well, oh oh
-Isn't it not?",0.13333333333333333
+Isn't it not?",0.13333333333333333,0.027589513
 We need to destroy Orte effectively\Nwith one blow while it still holds power.,"たった一撃で 効率よく
 国を滅亡させる必要がある","Efficient with just one blow
-Need to destroy the country",0.2631578947368421
-Sound good?,いかが？,How is it?,0.16666666666666666
+Need to destroy the country",0.2631578947368421,0.61128336
+Sound good?,いかが？,How is it?,0.16666666666666666,0.35527402

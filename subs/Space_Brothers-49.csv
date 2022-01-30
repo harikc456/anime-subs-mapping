@@ -1,47 +1,47 @@
-en_text,jp_text,google_translated,score
-It's taking place in the desert?,＜その舞台は砂漠！＞,<The stage is desert!>,0.15384615384615385
-"The leader's job is to decide such matters as daily schedule, travel direction and distance, meals, etc.",リーダーの仕事は タイムテーブル,Leader's work is a timetable,0.13043478260869565
-I could really go for some churros now...,ハァ…チュロス食べたいなぁ｡,Hua ... I want to eat Churos.,0.13333333333333333
-Hey! Everyone!,お～い！みんな～！,Oh!Everyone!,0.5
-I found it! Over here!,あったよ～！こっちこっち！,There was!over here!,0.375
-Huh? Why the silence?,あれ？意外な間｡,that?.,0.14285714285714285
-"Oh, you mean the team assignments.",ああ…チーム分けのとこな｡,Oh ... Team division.,0.3
-I kept candidates from each nation together,できるだけ国を固めることで➡,By solidifying the country as much as possible,0.0
-Desert nights are pretty chilly.,砂漠の夜は冷えるよ～｡,The night of the desert is cold ~.,0.16666666666666666
-I guessed right.,全く俺の予想通り｡俺 的中！,All my expectations are as expected at all.,0.09090909090909091
-Which puts you in last place.,つまり５位だ｡,"That is, it is 5th.",0.08333333333333333
-"Damn, this is my fault.",《くそっ！俺のミスだ｡➡,"""Keep!My mistake is my mistake.",0.2727272727272727
-Does that suggest that the other teams kept walking after reaching their food?,《他の班は食料を確保した後➡,"""After 他 班 ➡ ➡ ➡ ➡ ➡ ➡",0.058823529411764705
-Instructor Vince has a penalty for the team that comes in last.,訓練教官のビンスさんから➡,From the training instructor's Bins,0.11764705882352941
-Only one member?,１人だけ!?,Only one person!?,0.5
-Why is the leader exempt?,《なんでリーダー以外なんだ》,"""Why is it other than the leader.""",0.3333333333333333
-and then he'd punish me.,と言って俺を罰していたぞ｡,I was punishable to say.,0.08333333333333333
-No one wanted to know that.,《また誰も聞いてないことを》,"""Nobody listen to everyone""",0.08333333333333333
-Don't worry...,心配ないって｡,I do not worry.,0.2857142857142857
-I won't be the cause of any extra stress.,君達に負担は負わせないよ｡,You won't burden your burden.,0.21428571428571427
-But there's nothing hard about this punishment.,なぁに この罰は難しくない｡,Well this punishment is not difficult.,0.23076923076923078
-Efficient and effective...,効率的で効果的なのさ｡,Efficient and effective.,0.6
-"I wouldn't have had any examples,",見本が あるわけでもねぇし➡,"There is a sample, but it is",0.07142857142857142
-O-Oh... When did that happen?,あっ おおっ… いつの間に｡,"Oh, ... in any time.",0.07692307692307693
-It's incredible.,こりゃすげえな｡,I'm sorry.,0.14285714285714285
-Really?,そうか…ハァ…んぐんぐ…！,Oh yeah ... Hua ...!,0.0
-Today's leader is Nitta Reiji.,今日のリーダーは ニッタ･レイジ｡,Today's leader is Nitta Rage.,0.75
-He left me a note.,メモでね｡そう…｡➡,Notes. That's right ....,0.09090909090909091
-I'll call him tomorrow if I'm up to it,うん ねえ 零ちゃん…➡,Yeah Ney Zero Chan ... ➡,0.0
-I won't lose my temper.,キレたりしねえよ｡➡,I'm sorry.,0.2222222222222222
-Seriously?,マジかよ…無理じゃね？,Seriously ... it's impossible?,0.3333333333333333
-"We break too often, and for too long.",休憩が多いし 長い｡,There are many breaks and long.,0.23076923076923078
-Your talented little brother achieved that.,お前の優秀な弟がそうだろ｡,Your talented brother is so.,0.4444444444444444
-we have to finish on top!,全部トップを狙わなきゃダメだ！,I have to aim at all the top!,0.3333333333333333
-Hibito has nothing to do with this.,負けたままでいいのか？,Is it okay to lose?,0.07692307692307693
-That hurt!,ってえな！何すんだ てめえ‼,It is good!What's wrong!,0.1111111111111111
-No! Look over there!,違うって‼あれ見ろ‼,Different!See you!,0.125
-Stay back.,寄るなよ｡ガラガラヘビだ｡,Don't stop. It is a galagara snake.,0.09090909090909091
-So it's time to give the leader this. carry it with you.,これを持ってろ｡,Have this.,0.14285714285714285
-Day five of our survival training. day 5,＜サバイバル訓練５日目＞,<Survival Training 5th Day>,0.2727272727272727
-It's a heavy burden in multiple ways.,＜いろんな意味で重い＞,<Heavy in various ways>,0.25
-we've made it up to fourth.,誰も罰を受けずに済んだせいか➡,It's because no one did not punish it?,0.0625
-Sorry...,悪い…｡,bad….,0.0
-everyone.,ごめん…みんな…｡,Sorry ... everyone ....,0.5
-I have to go back...,俺…戻るわ｡,I ... back.,0.42857142857142855
-If something is more important to him now...,＜その新田が 順位よりも 今➡,<The Nitta is now ➡ from the ranking,0.13333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+It's taking place in the desert?,＜その舞台は砂漠！＞,<The stage is desert!>,0.15384615384615385,0.6062246
+"The leader's job is to decide such matters as daily schedule, travel direction and distance, meals, etc.",リーダーの仕事は タイムテーブル,Leader's work is a timetable,0.13043478260869565,0.7412046
+I could really go for some churros now...,ハァ…チュロス食べたいなぁ｡,Hua ... I want to eat Churos.,0.13333333333333333,0.5506962
+Hey! Everyone!,お～い！みんな～！,Oh!Everyone!,0.5,0.80258423
+I found it! Over here!,あったよ～！こっちこっち！,There was!over here!,0.375,0.65922034
+Huh? Why the silence?,あれ？意外な間｡,that?.,0.14285714285714285,0.1944688
+"Oh, you mean the team assignments.",ああ…チーム分けのとこな｡,Oh ... Team division.,0.3,0.48605347
+I kept candidates from each nation together,できるだけ国を固めることで➡,By solidifying the country as much as possible,0.0,0.3107465
+Desert nights are pretty chilly.,砂漠の夜は冷えるよ～｡,The night of the desert is cold ~.,0.16666666666666666,0.79450184
+I guessed right.,全く俺の予想通り｡俺 的中！,All my expectations are as expected at all.,0.09090909090909093,0.106746085
+Which puts you in last place.,つまり５位だ｡,"That is, it is 5th.",0.08333333333333333,0.21435994
+"Damn, this is my fault.",《くそっ！俺のミスだ｡➡,"""Keep!My mistake is my mistake.",0.2727272727272727,0.28333592
+Does that suggest that the other teams kept walking after reaching their food?,《他の班は食料を確保した後➡,"""After 他 班 ➡ ➡ ➡ ➡ ➡ ➡",0.05882352941176471,0.21508083
+Instructor Vince has a penalty for the team that comes in last.,訓練教官のビンスさんから➡,From the training instructor's Bins,0.1176470588235294,0.27104282
+Only one member?,１人だけ!?,Only one person!?,0.5,0.5782623
+Why is the leader exempt?,《なんでリーダー以外なんだ》,"""Why is it other than the leader.""",0.3333333333333333,0.5064739
+and then he'd punish me.,と言って俺を罰していたぞ｡,I was punishable to say.,0.08333333333333333,0.5297651
+No one wanted to know that.,《また誰も聞いてないことを》,"""Nobody listen to everyone""",0.08333333333333333,0.23130053
+Don't worry...,心配ないって｡,I do not worry.,0.2857142857142857,0.69890857
+I won't be the cause of any extra stress.,君達に負担は負わせないよ｡,You won't burden your burden.,0.21428571428571427,0.5444504
+But there's nothing hard about this punishment.,なぁに この罰は難しくない｡,Well this punishment is not difficult.,0.2307692307692308,0.8424737
+Efficient and effective...,効率的で効果的なのさ｡,Efficient and effective.,0.6,0.94713527
+"I wouldn't have had any examples,",見本が あるわけでもねぇし➡,"There is a sample, but it is",0.07142857142857142,0.24510029
+O-Oh... When did that happen?,あっ おおっ… いつの間に｡,"Oh, ... in any time.",0.07692307692307693,0.36694014
+It's incredible.,こりゃすげえな｡,I'm sorry.,0.14285714285714285,0.34559938
+Really?,そうか…ハァ…んぐんぐ…！,Oh yeah ... Hua ...!,0.0,0.15074027
+Today's leader is Nitta Reiji.,今日のリーダーは ニッタ･レイジ｡,Today's leader is Nitta Rage.,0.75,0.7466016
+He left me a note.,メモでね｡そう…｡➡,Notes. That's right ....,0.09090909090909093,0.4439696
+I'll call him tomorrow if I'm up to it,うん ねえ 零ちゃん…➡,Yeah Ney Zero Chan ... ➡,0.0,0.122699544
+I won't lose my temper.,キレたりしねえよ｡➡,I'm sorry.,0.2222222222222222,0.2721242
+Seriously?,マジかよ…無理じゃね？,Seriously ... it's impossible?,0.3333333333333333,0.38933355
+"We break too often, and for too long.",休憩が多いし 長い｡,There are many breaks and long.,0.2307692307692308,0.5981523
+Your talented little brother achieved that.,お前の優秀な弟がそうだろ｡,Your talented brother is so.,0.4444444444444444,0.76092947
+we have to finish on top!,全部トップを狙わなきゃダメだ！,I have to aim at all the top!,0.3333333333333333,0.48072636
+Hibito has nothing to do with this.,負けたままでいいのか？,Is it okay to lose?,0.07692307692307693,-0.020000385
+That hurt!,ってえな！何すんだ てめえ‼,It is good!What's wrong!,0.1111111111111111,0.26980454
+No! Look over there!,違うって‼あれ見ろ‼,Different!See you!,0.125,0.27025872
+Stay back.,寄るなよ｡ガラガラヘビだ｡,Don't stop. It is a galagara snake.,0.09090909090909093,0.23988512
+So it's time to give the leader this. carry it with you.,これを持ってろ｡,Have this.,0.14285714285714285,0.28076908
+Day five of our survival training. day 5,＜サバイバル訓練５日目＞,<Survival Training 5th Day>,0.2727272727272727,0.8769804
+It's a heavy burden in multiple ways.,＜いろんな意味で重い＞,<Heavy in various ways>,0.25,0.506782
+we've made it up to fourth.,誰も罰を受けずに済んだせいか➡,It's because no one did not punish it?,0.0625,0.08092834
+Sorry...,悪い…｡,bad….,0.0,0.40228415
+everyone.,ごめん…みんな…｡,Sorry ... everyone ....,0.5,0.54180443
+I have to go back...,俺…戻るわ｡,I ... back.,0.42857142857142855,0.649853
+If something is more important to him now...,＜その新田が 順位よりも 今➡,<The Nitta is now ➡ from the ranking,0.13333333333333333,0.14565217

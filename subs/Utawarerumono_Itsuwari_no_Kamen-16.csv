@@ -1,224 +1,224 @@
-en_text,jp_text,google_translated,score
-Wow! He's so cool!,わああー！,Wow!,0.3333333333333333
-It's a miracle we made it home alive.,生きて帰れたのが奇跡でおじゃる,It is a miracle that I was alive and returned,0.26666666666666666
-Utawarerumono,わが道しるべとなりて,I'm going to do my best,0.0
-Episode 16\NBanquet,心はひとつになりて　なりて,My heart is becoming one,0.0
-Stop it...,やめろ… はあ,Stop ...,0.6666666666666666
-Those given the power of the masks.,仮面の力,Masked power,0.125
-Stop!,やめろおおー！,Stop Oh!,0.6666666666666666
-Haku?,ハク？,Haku?,1.0
-U-Um...,あ ああ…,Oh ...,0.3333333333333333
-The sun's setting.,まだ寝てたですか もう日が暮れるのです,I'm sleeping yet I'm already at the day,0.08333333333333333
-"Yeah, but...",んん…,...,0.25
-"There's a place we'd like you \Nto go to with us, I think.",ちょっと付き合って欲しい所があるかな,I wonder if there is a place to get along,0.22727272727272727
-"Please, I think?",お願い,Please,0.2
+en_text,jp_text,google_translated,score,semantic_score
+Wow! He's so cool!,わああー！,Wow!,0.3333333333333333,0.5440117
+It's a miracle we made it home alive.,生きて帰れたのが奇跡でおじゃる,It is a miracle that I was alive and returned,0.26666666666666666,0.6703309
+Utawarerumono,わが道しるべとなりて,I'm going to do my best,0.0,0.12962285
+Episode 16\NBanquet,心はひとつになりて　なりて,My heart is becoming one,0.0,0.069889456
+Stop it...,やめろ… はあ,Stop ...,0.6666666666666666,0.82604134
+Those given the power of the masks.,仮面の力,Masked power,0.125,0.67293894
+Stop!,やめろおおー！,Stop Oh!,0.6666666666666666,0.8192666
+Haku?,ハク？,Haku?,1.0,1.0000001
+U-Um...,あ ああ…,Oh ...,0.3333333333333333,0.51592034
+The sun's setting.,まだ寝てたですか もう日が暮れるのです,I'm sleeping yet I'm already at the day,0.08333333333333333,0.32085317
+"Yeah, but...",んん…,...,0.25,0.46572733
+"There's a place we'd like you \Nto go to with us, I think.",ちょっと付き合って欲しい所があるかな,I wonder if there is a place to get along,0.2272727272727273,0.46959898
+"Please, I think?",お願い,Please,0.2,0.20698975
 It's been a long time since \Nwe've all gone out like this.,"こうしてお出かけするのも
 久しい気がします","It is also possible to go out this way
-I feel a long time",0.2608695652173913
-"Since we first came to the capital, I think?",初めて都に来た時以来かなあ,I wonder if I came to the city for the first time,0.3125
+I feel a long time",0.2608695652173913,0.4349811
+"Since we first came to the capital, I think?",初めて都に来た時以来かなあ,I wonder if I came to the city for the first time,0.3125,0.41274977
 "That was when Haku-san was just \Nlazing around, not even working.","そ その時はまだ
 色々分からなかったからですよ","At that time
-It was because I did not understand",0.15789473684210525
-Yeah! I couldn't believe \Nhe didn't know how to read.,まさか字が読めなかったとはねえ,I could not read the letters,0.1875
+It was because I did not understand",0.15789473684210525,0.26014212
+Yeah! I couldn't believe \Nhe didn't know how to read.,まさか字が読めなかったとはねえ,I could not read the letters,0.1875,0.49982998
 He was such a layabout back then.,"ハクさんが仕事もせずに
 ブラブラしてた頃なのです","Haku not work
-He was about to have a blurring",0.2
-"That's the place, I think.",あの頃は とんだ穀潰しだったのです,At that time I was crushed,0.16666666666666666
-It's so cute.,そうですね,is that so,0.14285714285714285
-"This would be perfect for your hair, Sister!",これなんか 姉様の髪にぴったりなのです,This is perfect for my sister's hair,0.38461538461538464
-Interested?,ん？,Yeah?,0.3333333333333333
-"Listen, Haku...",今日はハクに…,Today is Haku ...,0.3333333333333333
-What?,何だ？,What?,1.0
+He was about to have a blurring",0.2,0.23661864
+"That's the place, I think.",あの頃は とんだ穀潰しだったのです,At that time I was crushed,0.16666666666666666,0.11610302
+It's so cute.,そうですね,is that so,0.14285714285714285,0.17654978
+"This would be perfect for your hair, Sister!",これなんか 姉様の髪にぴったりなのです,This is perfect for my sister's hair,0.38461538461538464,0.89908195
+Interested?,ん？,Yeah?,0.3333333333333333,0.38051894
+"Listen, Haku...",今日はハクに…,Today is Haku ...,0.3333333333333333,0.7102692
+What?,何だ？,What?,1.0,1.0000002
 "Nothing! Anyway, you should wait \Nfor us in front of the store, I think.","とにかく ちょっとお店の前で
 待ってて欲しいかな","Anyway, in front of the shop
-I want you to wait",0.45
-"Hey, come on...",おい ちょっとー,Hey,0.2
-Sorry we took so long.,遅くなっちゃって ごめんね,Sorry for being late,0.1111111111111111
-You guys done?,うん？,Yes?,0.2
-Just a second.,ああ ちょっと待って,Oh waiting for a while,0.125
-Here you go. It's from everyone.,はい これ 皆から,Yes from everyone,0.2222222222222222
-Open it later.,後で開けてみて,Open later,0.5
+I want you to wait",0.45,0.6396013
+"Hey, come on...",おい ちょっとー,Hey,0.2,0.46455488
+Sorry we took so long.,遅くなっちゃって ごめんね,Sorry for being late,0.1111111111111111,0.45121348
+You guys done?,うん？,Yes?,0.2,0.3821496
+Just a second.,ああ ちょっと待って,Oh waiting for a while,0.125,0.40611747
+Here you go. It's from everyone.,はい これ 皆から,Yes from everyone,0.2222222222222222,0.49298352
+Open it later.,後で開けてみて,Open later,0.5,0.7664134
 What are you thinking?,"何を考えているのですか
 は 破廉恥なのです！","What are you thinking about
-Is a shame!",0.4
-Th-That's perverted!,わっ は！,Wow!,0.2
-I see.,そっか,I see,0.6666666666666666
-I was the first to find you...,うん 帰ってから１人で見て欲しいんだ,I want you to see alone after returning,0.23076923076923078
-Then we met all kinds of people.,いろんな人とも出会って,Meet various people,0.1
-I couldn't do anything.,自分は 何もできなかったんだ,I couldn't do anything,0.8333333333333334
+Is a shame!",0.4,0.48436877
+Th-That's perverted!,わっ は！,Wow!,0.2,0.3133223
+I see.,そっか,I see,0.6666666666666666,0.8909206
+I was the first to find you...,うん 帰ってから１人で見て欲しいんだ,I want you to see alone after returning,0.2307692307692308,0.34280077
+Then we met all kinds of people.,いろんな人とも出会って,Meet various people,0.1,0.5259945
+I couldn't do anything.,自分は 何もできなかったんだ,I couldn't do anything,0.8333333333333334,0.9554473
 Hey! How can you worry my sister like that?,"こらああー！
 姉様に何て顔させるですか！","Whether it is!
-What do you face your sister?",0.2222222222222222
-Nekone!,うっ は！,Uh!,0.3333333333333333
+What do you face your sister?",0.2222222222222222,0.5217311
+Nekone!,うっ は！,Uh!,0.3333333333333333,0.34289134
 "Everybody's got things that bother them, \Nbut they still have to do their best to survive!","それでも頑張って
 生き抜いてゆくしかないのです！","Still work hard
-I can only survive!",0.13043478260869565
-Haku!,ハク様！,Haku!,1.0
-Haku-sama! Haku-sama!,ハク様ああー！,Haku-sama Oh!,0.6666666666666666
-What is this?,何だよ これ…,What is this ...,0.6
-Yeah!,おおー！,Oh!,0.3333333333333333
-To Yamato's victory!,ヤマトの勝利を祝って,Celebrating Yamato's victory,0.5
-It's on me tonight!,始めるかあ！,Start it!,0.2857142857142857
-"Drink all you want, everyone.",皆 好きなだけ飲んでくれえ！,Please drink as much as you like!,0.16666666666666666
-Cheers!,カンパーイ！,Campai!,0.3333333333333333
-No need to worry about appearances \Nwhen the girls aren't around.,女どもがいねえと気ぃ使う必要もねえし,Women also need to use it,0.11764705882352941
-"This isn't so bad every once in a while, is it?",たまにはいいだろ？,Is it good for a while?,0.3333333333333333
-I got us some good sake.,いい酒 用意させたんだぜ,I made a good sake,0.3333333333333333
-Have you started drinking yet?,ハクさーん へへへへっ 飲んでますか？,Do you drink to Hakusan?,0.2
-I missed you!,おっじゃああーん！,"Oh, I'm sorry!",0.25
+I can only survive!",0.13043478260869565,0.32509506
+Haku!,ハク様！,Haku!,1.0,1.0000001
+Haku-sama! Haku-sama!,ハク様ああー！,Haku-sama Oh!,0.6666666666666666,0.9087154
+What is this?,何だよ これ…,What is this ...,0.6,0.7354676
+Yeah!,おおー！,Oh!,0.3333333333333333,0.64038795
+To Yamato's victory!,ヤマトの勝利を祝って,Celebrating Yamato's victory,0.5,0.86003375
+It's on me tonight!,始めるかあ！,Start it!,0.2857142857142857,0.3234269
+"Drink all you want, everyone.",皆 好きなだけ飲んでくれえ！,Please drink as much as you like!,0.16666666666666666,0.61337346
+Cheers!,カンパーイ！,Campai!,0.3333333333333333,0.18252008
+No need to worry about appearances \Nwhen the girls aren't around.,女どもがいねえと気ぃ使う必要もねえし,Women also need to use it,0.1176470588235294,0.23034859
+"This isn't so bad every once in a while, is it?",たまにはいいだろ？,Is it good for a while?,0.3333333333333333,0.48288032
+I got us some good sake.,いい酒 用意させたんだぜ,I made a good sake,0.3333333333333333,0.7665063
+Have you started drinking yet?,ハクさーん へへへへっ 飲んでますか？,Do you drink to Hakusan?,0.2,0.46171528
+I missed you!,おっじゃああーん！,"Oh, I'm sorry!",0.25,0.32198566
 Don't be so cold...,"そんなに邪険にしないで
 欲しいでおじゃる うう…","Don't get so bad
-I want her girlfriend ...",0.3333333333333333
-I want love...,愛が欲しいでおじゃるよ,I want love and I'm sorry,0.42857142857142855
-"Oh? Now that I have a good look,\Nyou're actually rather cute, Kiuru-dono.",おじゃ？ よくよく見るとキウル殿,"Oh?If you look closely, Kiwuru",0.19047619047619047
-H-Huh?!,へっ えっ？,Hey?,0.25
+I want her girlfriend ...",0.3333333333333333,0.40264052
+I want love...,愛が欲しいでおじゃるよ,I want love and I'm sorry,0.42857142857142855,0.7073632
+"Oh? Now that I have a good look,\Nyou're actually rather cute, Kiuru-dono.",おじゃ？ よくよく見るとキウル殿,"Oh?If you look closely, Kiwuru",0.19047619047619047,0.5450904
+H-Huh?!,へっ えっ？,Hey?,0.25,0.4494996
 Your skin is so pretty...,"わ 私にはネコネさんが…
 えっと お おりますゆ！","Wow, Mr. Necone is ...
-Your good morning!",0.23076923076923078
-Stop it!,だああ！ ううっ いっ やめてください！,Oh!Please stop it!,0.6
-You sure are a lively bunch.,賑やかな連中だあ,It is a lively consistent,0.2
-S-Stop that!,うわあああー！,Wow ah!,0.2
-I've heard you're good with a sword.,なかなかの手練れと聞いとるぞ,I heard that it is quite handle,0.13333333333333333
-"What, you're drunk already?",おいおい もう酔っちまったのかあ？,Did you get drunk?,0.3333333333333333
-You can't be a strong father like that!,そんなことでは強い父親にはなれんのう,That's why it's a strong father,0.3076923076923077
-It's definitely good sake.,うまい酒には違いないからな,It must be a good sake,0.3333333333333333
-"They're idiots, aren't they?",ははっ そのとおりだ,Ha n't,0.125
+Your good morning!",0.2307692307692308,0.2167319
+Stop it!,だああ！ ううっ いっ やめてください！,Oh!Please stop it!,0.6,0.74386215
+You sure are a lively bunch.,賑やかな連中だあ,It is a lively consistent,0.2,0.51810634
+S-Stop that!,うわあああー！,Wow ah!,0.2,0.27322033
+I've heard you're good with a sword.,なかなかの手練れと聞いとるぞ,I heard that it is quite handle,0.13333333333333333,0.35088038
+"What, you're drunk already?",おいおい もう酔っちまったのかあ？,Did you get drunk?,0.3333333333333333,0.48655766
+You can't be a strong father like that!,そんなことでは強い父親にはなれんのう,That's why it's a strong father,0.3076923076923077,0.78705657
+It's definitely good sake.,うまい酒には違いないからな,It must be a good sake,0.3333333333333333,0.82415664
+"They're idiots, aren't they?",ははっ そのとおりだ,Ha n't,0.125,0.15315717
 "But they're worried about you, \Neven if they don't look it.","でもよ あれでも
 お前さんを心配してんだぜ","But that
-I'm worried about you",0.23529411764705882
-"Listen, why don't you just get it \Noff your chest, whatever it is?",あいつらバカだろ？,Is it a stupid idiot?,0.16666666666666666
-Do you?,分かるかよ,Do you understand,0.5
-Do you understand how terrified I am now?,今の怖さが分かるかよ,Do you understand the scary of now?,0.4166666666666667
-Do you really?!,分かるかよ！ 強いお前に,Do you understand!Strongly,0.42857142857142855
-You're used to war.,戦に慣れた お前に…,You got used to the war ...,0.4444444444444444
-I...,自分は…,I am ...,0.6666666666666666
-I couldn't protect anything.,何も守れなかった,I could not keep anything,0.375
-Everyone on the battlefield knows that.,戦場に身を置く奴は,Those who put their own in the battlefield,0.15384615384615385
+I'm worried about you",0.2352941176470588,0.5263234
+"Listen, why don't you just get it \Noff your chest, whatever it is?",あいつらバカだろ？,Is it a stupid idiot?,0.16666666666666666,0.07873618
+Do you?,分かるかよ,Do you understand,0.5,0.5134448
+Do you understand how terrified I am now?,今の怖さが分かるかよ,Do you understand the scary of now?,0.4166666666666667,0.7353517
+Do you really?!,分かるかよ！ 強いお前に,Do you understand!Strongly,0.42857142857142855,0.38435283
+You're used to war.,戦に慣れた お前に…,You got used to the war ...,0.4444444444444444,0.8008202
+I...,自分は…,I am ...,0.6666666666666666,0.539044
+I couldn't protect anything.,何も守れなかった,I could not keep anything,0.375,0.675936
+Everyone on the battlefield knows that.,戦場に身を置く奴は,Those who put their own in the battlefield,0.15384615384615385,0.579535
 And I'm saying that I don't ever \Nwant to go back to that battlefield!,"だから そんな戦場ってのが
 もう嫌なんだよ","So that kind of battlefield is
-I'm not good",0.2
-That's not all.,はあ　それだけじゃない,"Well, not that",0.2857142857142857
-They fight like it's the most \Nnormal thing in the world.,戦うことが当たり前みたいに,It is natural to fight,0.13333333333333333
-And I can't stop it...,自分には それを止められないなんて,I can not stop it for myself,0.2727272727272727
-I can't take that!,うっ そうか,Won't,0.14285714285714285
-"Yeah, that's right.",ああ そうだ,Oh yeah,0.14285714285714285
+I'm not good",0.2,0.5807788
+That's not all.,はあ　それだけじゃない,"Well, not that",0.2857142857142857,0.33325157
+They fight like it's the most \Nnormal thing in the world.,戦うことが当たり前みたいに,It is natural to fight,0.13333333333333333,0.5820066
+And I can't stop it...,自分には それを止められないなんて,I can not stop it for myself,0.2727272727272727,0.65746266
+I can't take that!,うっ そうか,Won't,0.14285714285714285,0.17357036
+"Yeah, that's right.",ああ そうだ,Oh yeah,0.14285714285714285,0.42429966
 I'm happiest when I'm goofing \Naround with them every day.,"あんちゃんは いつもの
 あいつらが好きなんだな","Anchan is usual
-I like them",0.13333333333333333
+I like them",0.13333333333333333,0.19064185
 I felt like I'd finally found \Na place where I belonged.,"自分の居場所ってやつを
 ようやく見つけられた気がしたんだ","I have a guy
-I felt like I finally found it",0.3333333333333333
+I felt like I finally found it",0.3333333333333333,0.4732131
 "But in that case, your only \Nchoice is to hang in there.","しかし それなら
 踏ん張るより仕方がねえなあ","But that
-It is more than the way to step tense",0.2
+It is more than the way to step tense",0.2,0.3114354
 "Even if you close your eyes and run away,","目をつぶって逃げ出しても
 その先には誰もいねえ","Even if you get rid of eyes and run away
-Nobody's nice ahead",0.4117647058823529
-I've decided I'm going to protect \Nthe emperor and the capital.,俺は帝と この都を守ると決めてる,I'm deciding to protect this city,0.25
-"It's the same for you, right?",同じことだろ お前も,It is the same thing,0.2727272727272727
-I know that!,分かってる,I know,0.5
-I'm afraid.,怖いんだよ…,I'm scared ...,0.3333333333333333
+Nobody's nice ahead",0.4117647058823529,0.6309034
+I've decided I'm going to protect \Nthe emperor and the capital.,俺は帝と この都を守ると決めてる,I'm deciding to protect this city,0.25,0.54935807
+"It's the same for you, right?",同じことだろ お前も,It is the same thing,0.2727272727272727,0.4270213
+I know that!,分かってる,I know,0.5,0.77873564
+I'm afraid.,怖いんだよ…,I'm scared ...,0.3333333333333333,0.7282888
 H-Haku-dono!,"ハク殿ぉー！ マロは
 マロはハク殿がいなくて","Hakuho!Maro
-Maro has no Hakuhage",0.14285714285714285
+Maro has no Hakuhage",0.14285714285714285,0.61777854
 But I need to work to pay \Noff my family's debts.,"でも お家の借金のためには
 マロが稼ぐしかないのでおじゃる","But for the debt of the house
-I have no choice but to make Malo",0.13636363636363635
-Haku-san...,うわああー！ ふぅゆ…,Wow!Fuyu ...,0.2
-I'm so happy!,ふう ふっ 嬉しいです,I'm happy,0.6
-"I'll do my best too, even if I'm scared!",私も… 私も怖くても頑張りますから！,I'm too ... I will do my best even if I'm scared!,0.7142857142857143
+I have no choice but to make Malo",0.13636363636363635,0.4131292
+Haku-san...,うわああー！ ふぅゆ…,Wow!Fuyu ...,0.2,0.34080496
+I'm so happy!,ふう ふっ 嬉しいです,I'm happy,0.6,0.708407
+"I'll do my best too, even if I'm scared!",私も… 私も怖くても頑張りますから！,I'm too ... I will do my best even if I'm scared!,0.7142857142857143,0.85447794
 "Doing your best for others \Nis important, isn't it?","誰かのためにってのが
 大切なことじゃない？","For someone
-Isn't it important?",0.46153846153846156
-I'm able to fight because I have Shinonon.,俺だってシノノンがいるから戦える,I can fight because I have Synonon,0.36363636363636365
-What's so funny?,なあ なーにがおかしい,It's funny,0.3333333333333333
-Nekone?,えにしは深まったのかい？,Has deepened?,0.25
-You!,おぬし！,you!,1.0
-We're settling things right here and now!,今ここで決着つけてくれるわあー！,It will be settled here now!,0.23076923076923078
-Do I look good?,似合いますかね？,Do you look good?,0.6666666666666666
-Everyone's scared of war.,な？ 皆 戦は怖ぇのさ,Is it?Everyone's battle is scared,0.3
-"I believe in you, and so do they.",俺も あいつらも おめえさんを信じてる,I also believe that guys also,0.15384615384615385
+Isn't it important?",0.4615384615384616,0.58617735
+I'm able to fight because I have Shinonon.,俺だってシノノンがいるから戦える,I can fight because I have Synonon,0.3636363636363637,0.7568249
+What's so funny?,なあ なーにがおかしい,It's funny,0.3333333333333333,0.44095707
+Nekone?,えにしは深まったのかい？,Has deepened?,0.25,0.15415554
+You!,おぬし！,you!,1.0,1.0000002
+We're settling things right here and now!,今ここで決着つけてくれるわあー！,It will be settled here now!,0.2307692307692308,0.67655265
+Do I look good?,似合いますかね？,Do you look good?,0.6666666666666666,0.85097086
+Everyone's scared of war.,な？ 皆 戦は怖ぇのさ,Is it?Everyone's battle is scared,0.3,0.6808542
+"I believe in you, and so do they.",俺も あいつらも おめえさんを信じてる,I also believe that guys also,0.15384615384615385,0.42467695
 "Don't you think you can believe in them, too?","おめえも もうちっと
 信じてやってもいいんじゃねえか？","Someday
-Can you believe it?",0.3076923076923077
+Can you believe it?",0.3076923076923077,0.47644162
 But I kind of feel like \NUkon's trying to seduce me.,"しかし 何かウコンに
 口説かれてるみたいだな","But something in turmeric
-It looks like it's been aware of",0.2
-"Believing in your friends, huh?",仲間を信じるか,Do you believe in friends,0.2
-"We're strong, you know.",ああ 何しろ俺達は強ぇからな,"Oh, what we are strong",0.3
-By the way...,はははは… はははは…！ はあ,Hahahahahahahahahahahahahahahahahahahahahahahahahahahahaha ...In,0.16666666666666666
-You dummies!,バカ バカ！,Stupid idiot!,0.2
-To make you feel better?,ああ？ お前さんを慰めるため？,Ah?To comfort you?,0.375
-Was that the point of this?,そうだったのかあ？,Was that so?,0.375
-Damn you guys...,うくっ くっ クッソ こいつら…,Ukko Kuso Kusho ...,0.14285714285714285
+It looks like it's been aware of",0.2,0.12645313
+"Believing in your friends, huh?",仲間を信じるか,Do you believe in friends,0.2,0.74812436
+"We're strong, you know.",ああ 何しろ俺達は強ぇからな,"Oh, what we are strong",0.3,0.803646
+By the way...,はははは… はははは…！ はあ,Hahahahahahahahahahahahahahahahahahahahahahahahahahahahaha ...In,0.16666666666666666,0.3089328
+You dummies!,バカ バカ！,Stupid idiot!,0.2,0.26911378
+To make you feel better?,ああ？ お前さんを慰めるため？,Ah?To comfort you?,0.375,0.3477046
+Was that the point of this?,そうだったのかあ？,Was that so?,0.375,0.5065698
+Damn you guys...,うくっ くっ クッソ こいつら…,Ukko Kuso Kusho ...,0.14285714285714285,0.07546079
 "I was really worried about you, Haku-san.","わ 私はハクさんのこと
 ちゃんと心配してましたよ 多分","I'm Haku-san
-I was worried properly",0.36363636363636365
-Probably?,さあ？,here we go?,0.2
-Right!,おうよ！,Sure!,0.3333333333333333
-"Well, Nekone?",あ 多分かよ,"Well, maybe",0.4
-"I can hear Haku-san, and he \Nsounds like he's having fun.",ハクさんの楽しそうな声が聞こえるです,I can hear Haku's fun voice,0.3333333333333333
+I was worried properly",0.3636363636363637,0.8922532
+Probably?,さあ？,here we go?,0.2,0.21633767
+Right!,おうよ！,Sure!,0.3333333333333333,0.37643158
+"Well, Nekone?",あ 多分かよ,"Well, maybe",0.4,0.29349202
+"I can hear Haku-san, and he \Nsounds like he's having fun.",ハクさんの楽しそうな声が聞こえるです,I can hear Haku's fun voice,0.3333333333333333,0.81067425
 It sounds like Haku's feeling better.,"ああ よかったあ
 ハク 元気になったみたい","Oh yeah
-It looks like it's getting well",0.23076923076923078
-"Jeez, he's such a handful.",おぬしらも用意せい,Prepare a lottery,0.1
+It looks like it's getting well",0.2307692307692308,0.36165714
+"Jeez, he's such a handful.",おぬしらも用意せい,Prepare a lottery,0.1,-0.011518747
 "Nothing helps more than hanging \Nout with other men, I think.","やっぱり男同士の
 付き合いには勝てないかな","After all men
-I wonder if I can not win",0.1
+I wonder if I can not win",0.1,0.31401145
 I guess I don't have a choice.\NI'll lend him my brother for a little while.,"仕方ないので 兄様を
 少しだけ貸してあげるのです","I can not help my brother
-I will lend a little bit",0.2857142857142857
-"By the way,",ところで…,by the way…,0.4
-Leave it to us!,任せといてやあ,Leave it,0.4
-"Thanks, Rurutie.",あの,that,0.0
-"Haku, everyone?",ハク 皆 入るよー,I will enter everyone,0.14285714285714285
-I'm coming in!,はあああー！,Oh yeah!,0.14285714285714285
-I see... Like this?,おあ なるほど こうか…,Hopefully ...,0.14285714285714285
-Master the technique!,精進せよ！,Get prominent!,0.16666666666666666
+I will lend a little bit",0.2857142857142857,0.5701517
+"By the way,",ところで…,by the way…,0.4,0.89625204
+Leave it to us!,任せといてやあ,Leave it,0.4,0.68294066
+"Thanks, Rurutie.",あの,that,0.0,0.16875942
+"Haku, everyone?",ハク 皆 入るよー,I will enter everyone,0.14285714285714285,0.2373326
+I'm coming in!,はあああー！,Oh yeah!,0.14285714285714285,0.32958835
+I see... Like this?,おあ なるほど こうか…,Hopefully ...,0.14285714285714285,0.16455808
+Master the technique!,精進せよ！,Get prominent!,0.16666666666666666,0.3758559
 I can see it! I can see it!,"なっはっはっ…！ 見えてる 見えてる
 はははは！ はっはっはっはっ！","Ha ...!I see it
-Hahahahaha!Ha ha ha ha ha!",0.5
+Hahahahaha!Ha ha ha ha ha!",0.5,0.4220671
 "It's time for you to strip, too.","旦那の旦那が
 めっさ見えてるじゃなーい！ あははっ","My husband's husband
-You're looking for me!Ahaha",0.17647058823529413
-Everyone...,ハク様が皆さんと… うっ,Haku-sama with everyone ...,0.5
-Is this a dream? A fantasy?,これは夢か幻かぁ,This is a dream or illusion,0.5
-I guess the men do the \Nsame things we girls do.,なーんや 男衆のやることは,What do you do with naughty men,0.14285714285714285
-"N-No, Nekone-san!",ぐはぁ！,Give!,0.2
-Behold my toned body!,ふんがっ この鍛え上げた肉体！,Fluffy body!,0.3333333333333333
-I'm not embarrassed at all—,ネ ネコネ？ 目が怖いぞ,Nennet?I'm scared,0.2222222222222222
-Filthy.,不潔なのです,It is filthy,0.25
-Nekone-san!,むう！,Mu!,0.3333333333333333
-"Shinonon, let's go over there.",うふふ シノノン あっち行こっかあ,Ufufu Shinonon,0.1111111111111111
-Kiuru's is the cutest!,キウルのが一番可愛いなあ,Kiuru is the most cute,0.375
-"Live strong, Kiuru.",強く生きろキウル 元気出せって,Strongly live kiul,0.14285714285714285
-Cheer up.,はあ　はあっ,Oh yes,0.0
-"Um, well...",ううん いいか… な　はっ！,"Umm, is it ...",0.2857142857142857
-I'm sorry.,すまなかった,I'm sorry,0.75
-"What's wrong, Kuon?",ん？ どうした？ クオン,Yeah?What happened?Quad,0.2222222222222222
-"Haku... Haku, you dummy!",うあああー…！,Oh yeah ...!,0.25
-Ow...,ああー…,Oh ...,0.3333333333333333
-The handwriting's too good.,達筆すぎるだろ これ,It's too good to take it,0.3333333333333333
-It says they're worried about you.,お前さんが心配だ とさ,I'm worried about you,0.3
-It's like a love letter.,ふっ 恋文だな まるで,It's a lover,0.375
-Maybe I'll show it to Kiuru later.,後でキウルに見せてやるかあ,I will show you to Kiuru later,0.45454545454545453
-I'm grateful to them.,あいつらには感謝している,I am grateful for them,0.375
+You're looking for me!Ahaha",0.17647058823529413,0.12201718
+Everyone...,ハク様が皆さんと… うっ,Haku-sama with everyone ...,0.5,0.28485718
+Is this a dream? A fantasy?,これは夢か幻かぁ,This is a dream or illusion,0.5,0.56843543
+I guess the men do the \Nsame things we girls do.,なーんや 男衆のやることは,What do you do with naughty men,0.14285714285714285,0.45893374
+"N-No, Nekone-san!",ぐはぁ！,Give!,0.2,0.23696008
+Behold my toned body!,ふんがっ この鍛え上げた肉体！,Fluffy body!,0.3333333333333333,0.50800955
+I'm not embarrassed at all—,ネ ネコネ？ 目が怖いぞ,Nennet?I'm scared,0.2222222222222222,0.16681728
+Filthy.,不潔なのです,It is filthy,0.25,0.596419
+Nekone-san!,むう！,Mu!,0.3333333333333333,0.36964846
+"Shinonon, let's go over there.",うふふ シノノン あっち行こっかあ,Ufufu Shinonon,0.1111111111111111,0.6522252
+Kiuru's is the cutest!,キウルのが一番可愛いなあ,Kiuru is the most cute,0.375,0.93842196
+"Live strong, Kiuru.",強く生きろキウル 元気出せって,Strongly live kiul,0.14285714285714285,0.6979908
+Cheer up.,はあ　はあっ,Oh yes,0.0,0.15120572
+"Um, well...",ううん いいか… な　はっ！,"Umm, is it ...",0.2857142857142857,0.4812142
+I'm sorry.,すまなかった,I'm sorry,0.75,0.89931345
+"What's wrong, Kuon?",ん？ どうした？ クオン,Yeah?What happened?Quad,0.2222222222222222,0.24128145
+"Haku... Haku, you dummy!",うあああー…！,Oh yeah ...!,0.25,0.21645893
+Ow...,ああー…,Oh ...,0.3333333333333333,0.6088689
+The handwriting's too good.,達筆すぎるだろ これ,It's too good to take it,0.3333333333333333,0.3392783
+It says they're worried about you.,お前さんが心配だ とさ,I'm worried about you,0.3,0.5757764
+It's like a love letter.,ふっ 恋文だな まるで,It's a lover,0.375,0.4390213
+Maybe I'll show it to Kiuru later.,後でキウルに見せてやるかあ,I will show you to Kiuru later,0.4545454545454545,0.8881045
+I'm grateful to them.,あいつらには感謝している,I am grateful for them,0.375,0.8649516
 "Can you really keep from changing, though?","しかしお前 本当に
 変わらずにいられるのか？","But you really
-Is it possible to change?",0.2
-It may be more powerful \Nthan most can handle.,人が持つには過ぎた力かもしれねえ,It may be a power that people have passed,0.1875
-But it's a sign of the emperor's trust in me.,だが 帝に認められた証だ,But it is a proof that was recognized for the emperor,0.2777777777777778
-I believe in him.,俺は 帝を信じる,I believe in the emperor,0.42857142857142855
+Is it possible to change?",0.2,0.74979186
+It may be more powerful \Nthan most can handle.,人が持つには過ぎた力かもしれねえ,It may be a power that people have passed,0.1875,0.31470564
+But it's a sign of the emperor's trust in me.,だが 帝に認められた証だ,But it is a proof that was recognized for the emperor,0.2777777777777778,0.60449713
+I believe in him.,俺は 帝を信じる,I believe in the emperor,0.42857142857142855,0.5978998
 War won't vanish from this world anytime soon.,"この世から
 そうそう戦は無くならんだろう","From this world
-Yes the battle will not be lost",0.17647058823529413
-But someday...,だが いつかは,But someday,0.6666666666666666
+Yes the battle will not be lost",0.17647058823529413,0.57306623
+But someday...,だが いつかは,But someday,0.6666666666666666,0.8683708
 "And when that happens, \Nyou do what we did today.","そういう時は今日みてえに
 思いっきり飲んで 笑い飛ばしちまうに限る","At that time, see today
-Learn to laugh and smile",0.21052631578947367
-That sounds like you.,お前らしいな,You guys,0.16666666666666666
+Learn to laugh and smile",0.21052631578947367,0.46798256
+That sounds like you.,お前らしいな,You guys,0.16666666666666666,0.11520567
 But eventually I stopped thinking about it.,"でもな いつの間にか
 そういうことは考えなくなっちまってた","But what time
-That means I was not thinking",0.21428571428571427
-Even about whether it's good or bad.,いいのか悪いのか そんなことすらな,Good or bad or bad,0.3333333333333333
-But I still don't like war...,でもな やっぱり戦は嫌だなあ,But after all I don't like the battle,0.4166666666666667
+That means I was not thinking",0.21428571428571427,0.36644706
+Even about whether it's good or bad.,いいのか悪いのか そんなことすらな,Good or bad or bad,0.3333333333333333,0.6370823
+But I still don't like war...,でもな やっぱり戦は嫌だなあ,But after all I don't like the battle,0.4166666666666667,0.67348236

@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,45 +9,45 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825215
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490633
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818445
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120192
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.53447694
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.7646866
 <i>The Demon in the Snow</i>,"♬
  
 胸に
@@ -56,7 +56,7 @@ ROCKS
 ","♬
  
 In the chest
-Rocks",0.18181818181818182
+Rocks",0.18181818181818185,0.19125293
 "Gatô, why did you come here?","(
 再不斬
 )
@@ -72,7 +72,7 @@ why
  
 you
  
-come here?➡",0.5
+come here?➡",0.5,0.47067145
 "Our strategy has changed
 a little...","(ｶﾞﾄｰ)
 ヘッヘッ
@@ -85,20 +85,20 @@ a little...","(ｶﾞﾄｰ)
 a little
   
 The operation changes
-.",0.16666666666666666
+.",0.16666666666666666,0.4041121
 but you will die here.,"お前には
 ここで死んでもらうんだ
 ｡
 
 ","You
 I'm dead here
-.",0.3333333333333333
+.",0.3333333333333333,0.44639763
 What?!,"(
 再不斬
 )
 何だと？
 
-",What did you say?,0.3333333333333333
+",What did you say?,0.3333333333333333,0.47791368
 "Since hiring a regular Shinobi
 costs a lot of money,","(ｶﾞﾄｰ)
 正規の忍を雇えば
@@ -109,7 +109,7 @@ costs a lot of money,","(ｶﾞﾄｰ)
 ","If you hire a regular Shinobu
 It takes money
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.872689
 I hired Rouge Ninjas like you.,"そこで
  
 お前らのような
@@ -122,7 +122,7 @@ I hired Rouge Ninjas like you.,"そこで
 Guys like
 I hired Shinobu Shinobu
 .
-➡",0.36363636363636365
+➡",0.3636363636363637,0.4206457
 Kakashi... I apologize.,"(
 再不斬
 )
@@ -136,20 +136,20 @@ Kakashi... I apologize.,"(
  
 I'm sorry
 .
-➡",0.375
+➡",0.375,0.88325983
 there is no reason to fight you either.,"お前と戦う理由も
 なくなったわけだ
 ｡
 
 ","The reason for fighting you
 I'm sorry
-.",0.2
+.",0.2,0.73716694
 That reminds me...,"(
 手下たち
 )
 ハハハ…！
 
-",Hahaha ...!,0.16666666666666666
+",Hahaha ...!,0.16666666666666666,0.47659045
 "Huh, he's dead.","(ｶﾞﾄｰ)
 フン！
  
@@ -163,7 +163,7 @@ That reminds me...,"(
 I'm dead
  
 this guy
-.",0.16666666666666666
+.",0.16666666666666666,0.47624657
 Stop! Don't act so recklessly...!,"(ｶｶｼ)
 よせ
  
@@ -171,13 +171,13 @@ Stop! Don't act so recklessly...!,"(ｶｶｼ)
 
 ","Good
  
-Don't move!",0.3
+Don't move!",0.3,0.45078233
 "You say something, too!
 He was your comrade, right?","お前も何とか言えよ！
 仲間だったんだろ!?
 
 ","You can say somehow!
-It was a friend!",0.23529411764705882
+It was a friend!",0.2352941176470588,0.3655467
 "Shut up, punk.
 Haku is already dead.","(
 再不斬
@@ -196,7 +196,7 @@ Young monk
 White
  
 I already died
-.",0.2857142857142857
+.",0.2857142857142857,0.27694634
 "Don't you feel anything watching
 him doing that!","てめぇ～！
 何やってんだってば
@@ -206,14 +206,14 @@ him doing that!","てめぇ～！
 ","Temee!
 If you do anything
  
-Color ~!",0.2857142857142857
+Color ~!",0.2857142857142857,0.11550977
 "As Gatô used me...
 I was simply using Haku.","(
 再不斬
 )
 ガトーが俺を利用したように➡
 
-",As Gateau uses me,0.15384615384615385
+",As Gateau uses me,0.15384615384615385,0.30791435
 We Shinobi are merely tools.,"俺たち忍は
  
 ただの道具だ
@@ -224,7 +224,7 @@ We Shinobi are merely tools.,"俺たち忍は
  
 It's just a tool
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.83082193
 "What I wanted were his skills
 and not Haku himself.","あいつ自身じゃない
 ｡
@@ -232,7 +232,7 @@ and not Haku himself.","あいつ自身じゃない
 
 ","It is not himself
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.18591864
 "Do you...
 Do you really mean that?","お前ってば
 本気で
@@ -242,7 +242,7 @@ Do you really mean that?","お前ってば
 ","If you
 seriously
  
-Do you say that?",0.4
+Do you say that?",0.4,0.49180245
 "Naruto, stop.","(ｶｶｼ)
 やめろ
  
@@ -260,7 +260,7 @@ Already
  
 There is no need to compete with this
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.8157334
 "Shut up!
 My enemy is still... this one!","俺の敵は
  
@@ -272,28 +272,28 @@ My enemy is still... this one!","俺の敵は
  
 not yet
  
-This guy!",0.38461538461538464
+This guy!",0.38461538461538464,0.7297728
 He...,"あいつは…
  
 あいつは➡
 
 ","That guy ...
  
-That guy",0.25
+That guy",0.25,0.3135778
 He really liked you!,"お前のことが
 ホントに好きだったんだぞ！
 
 ","You
-I really liked it!",0.5714285714285714
+I really liked it!",0.5714285714285714,0.4214699
 <i>Is there someone special in your life?</i>,"(
 白
 )
 ＜君には大切な人がいますか？＞
 
-",<Are there any important people to you?>,0.2222222222222222
+",<Are there any important people to you?>,0.2222222222222222,0.61500216
 He liked you that much!,"あんなに大好きだったんだぞ！
 
-",I loved that much!,0.375
+",I loved that much!,0.375,0.40573716
 "<i>When a person feels he wants</i>
 <i>to protect a person special to him,</i>","(
 白
@@ -302,10 +302,10 @@ He liked you that much!,"あんなに大好きだったんだぞ！
 守りたいと思ったときに➡
 
 ","<People are important something
-When I want to protect",0.25
+When I want to protect",0.25,0.5617081
 <i>that person can truly become strong.</i>,"本当に強くなれるものなんです＞
 
-",It is something that can really be strong>,0.1875
+",It is something that can really be strong>,0.1875,0.5514504
 "<i>It's difficult for me to completely</i>
 <i>become a Shinobi.</i>","(
 白
@@ -314,7 +314,7 @@ When I want to protect",0.25
 忍になりきることは難しい＞
 
 ","<For me
-It is difficult to be Shinobu>",0.4117647058823529
+It is difficult to be Shinobu>",0.4117647058823529,0.8323018
 You really... honestly...,"ホントに…
  
 ホントに
@@ -325,13 +325,13 @@ You really... honestly...,"ホントに…
  
 Really
  
-You are ➡",0.2857142857142857
+You are ➡",0.2857142857142857,0.49030957
 "Does that person really
 behave like you?","それなのに
 ホントに何とも思わねえのか？
 
 ","That
-What do you really think?",0.36363636363636365
+What do you really think?",0.3636363636363637,0.27863723
 "He threw his life away
 for you!","あいつは
  
@@ -339,7 +339,7 @@ for you!","あいつは
 
 ","Aya
  
-For you",0.2222222222222222
+For you",0.2222222222222222,0.15874092
 "<i>I'd like to make that</i>
 <i>person's dream come true...</i>","(
 白
@@ -350,30 +350,30 @@ For you",0.2222222222222222
 
 ","<I want to make a dream of that person
 .
-➡",0.35
+➡",0.35,0.76089036
 <i>That is my dream.</i>,"それが僕の夢＞
 
-",That is my dream>,0.4444444444444444
+",That is my dream>,0.4444444444444444,0.73831105
 <i>I was happy.</i>,"＜うれしかった＞
 
-",<I was happy>,0.5714285714285714
+",<I was happy>,0.5714285714285714,0.8956987
 To die as a tool...!,"道具として死ぬなんて➡
 
-",I will die as a tool,0.4444444444444444
+",I will die as a tool,0.4444444444444444,0.7060543
 "That's...
 That's... too painful...","自分の夢も見れねえで…
 ｡
 
 ","You can see your dreams too ...
-.",0.18181818181818182
+.",0.18181818181818185,0.18362172
 Kid...,"そんなの…➡
 
-",Such ... ➡,0.25
+",Such ... ➡,0.25,0.24920696
 Don't say anything... anymore.,"何も言うな
 ｡
 
 ","Do nothing
-.",0.25
+.",0.25,0.43303773
 "He was feeling pain inside
 for you","お前らのためにも
 心を痛めながら戦っていた
@@ -381,7 +381,7 @@ for you","お前らのためにも
 
 ","For you
 I was fighting while hurting my heart
-.",0.21428571428571427
+.",0.21428571428571427,0.45541155
 "I know.
 He was too kind...","あいつは優しすぎた
 ｡
@@ -389,7 +389,7 @@ He was too kind...","あいつは優しすぎた
 
 ","He was too kind
 .
-➡",0.5555555555555556
+➡",0.5555555555555556,0.8075998
 "I'm glad we could fight with you
 at the end.","結局
  
@@ -401,13 +401,13 @@ at the end.","結局
  
 As you say
 .
-➡",0.25
+➡",0.25,0.39884153
 Huh?,"ん？
 (
 破る音
 )
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.77901304
 I've lost.,"(
 再不斬
 )
@@ -417,7 +417,7 @@ I've lost.,"(
 
 ","I understand
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.23404095
 Enough! Take them down!,"もういい！
  
 お前ら
@@ -426,13 +426,13 @@ Enough! Take them down!,"もういい！
 ","enough!
  
 You guys
-I will do something!",0.18181818181818182
+I will do something!",0.18181818181818185,0.52893084
 Right!,"(
 手下たち
 )
 お～！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.50226897
 "Do you think you can win by yourself
 against this many of us?","(
 手下１
@@ -443,10 +443,10 @@ against this many of us?","(
 
 ","To this person's person
 I think I can win alone ...
-.",0.2
+.",0.2,0.6429241
 D-Demon!,"あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.24740183
 "If you're so anxious
 to join your friend...","そ…
  
@@ -456,41 +456,41 @@ to join your friend...","そ…
 ","ancestor…
  
 so much
-If you want to go to the origin of the fellow",0.2222222222222222
+If you want to go to the origin of the fellow",0.2222222222222222,0.17971087
 you go ahead... alone!,"お前一人で行け～！
 
-",Go alone!,0.5
+",Go alone!,0.5,0.80196667
 Unfortunately...,"うぅ…
 ｡
 
 ","Uh ...
-.",0.25
+.",0.25,0.39090052
 "I don't... intend on going...
 to the same place... as Haku!","白と同じ所へ行くつもりはねえ
 ｡
 
 ","I'm going to go to the same place as White
-.",0.3888888888888889
+.",0.3888888888888889,0.33804542
 You're going to hell with me!,"地獄へ行くんだよ！➡
 
-",I'm going to hell!➡,0.36363636363636365
+",I'm going to hell!➡,0.3636363636363637,0.8037117
 It's no big deal...,"大したことはねえ
 ｡
 ➡
 
 ","A big deal
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.598368
 Look forward to it!,"楽しみにしとけ
 ｡
 
 ","I'm looking forward to it
-.",0.3333333333333333
+.",0.3333333333333333,0.72290534
 if I'm a cute little demon or not in hell!,"死んで地獄なら
 本物の鬼になれるぜ！
 
 ","If it is dead and hell
-I can be a real demon!",0.3157894736842105
+I can be a real demon!",0.3157894736842105,0.70483387
 Haku...,"(
 手下たち
 )
@@ -498,18 +498,18 @@ Haku...,"(
 ｡
 
 ","Uey ...
-.",0.25
+.",0.25,0.35656166
 Don't look away.,"白…
 ｡
 
 ","White…
-.",0.16666666666666666
+.",0.16666666666666666,0.1981157
 "It's the end for
 a man who lived fiercely.","必死に生きた男の最期だ
 ｡
 
 ","The end of a desperately lived man
-.",0.46153846153846156
+.",0.4615384615384616,0.7877407
 <i>Did I...die...?</i>,"(ｻｽｹ)
 《俺は
  
@@ -517,7 +517,7 @@ a man who lived fiercely.","必死に生きた男の最期だ
 
 ","""I am
  
-Did you die?""",0.3333333333333333
+Did you die?""",0.3333333333333333,0.6264505
 "Sakura, you're heavy.","サクラ
  
 重いぞ
@@ -530,23 +530,23 @@ Did you die?""",0.3333333333333333
 Heavy
 .
 Hour
-.",0.2222222222222222
+.",0.2222222222222222,0.35822666
 Huh?!,"(ｻｸﾗ)
 サスケ君！
 《サクラ？➡
 
 ","Sasuke-kun!
-""Sakura?➡",0.2857142857142857
+""Sakura?➡",0.2857142857142857,0.17539498
 Sasuke...,"サスケ君…？
 
-",Sasuke ...?,0.6666666666666666
+",Sasuke ...?,0.6666666666666666,0.9170238
 "Sasuke, Sasuke, Sasuke!","サスケ君
  
 サスケ君！
 
 ","Sasuke
  
-Sasuke-kun!",0.5
+Sasuke-kun!",0.5,0.87975734
 "And also,
 what happened to that mask guy?","それに
  
@@ -560,17 +560,17 @@ what happened to that mask guy?","それに
 that
 Fasyo
  
-What happened?",0.3076923076923077
+What happened?",0.3076923076923077,0.35795435
 Naruto's fine.,"死んだわ
 ｡
 
 ","Deadly
-.",0.2
+.",0.2,0.2460205
 Died? Did Naruto get him?,"死んだって…
 ナルトがやったのか？
 
 ","I'm dead ...
-Did you do Naruto?",0.25
+Did you do Naruto?",0.25,0.7583851
 "Well... I'm not really sure,
 but he protected Zabuza...","ううん
 私も
@@ -580,32 +580,32 @@ but he protected Zabuza...","ううん
 ","No
 me too
  
-I do not know well",0.17647058823529413
+I do not know well",0.17647058823529413,0.089647606
 I had faith in you.,"さすがサスケ君
 致命傷を避けてたのね
 ｡
 
 ","Susumu Sasuke
 I avoided the dead case
-.",0.16666666666666666
+.",0.16666666666666666,0.1399875
 <i>From the beginning...he intended to...</i>,"《あいつ
  
 初めから…》
 
 ","""that person 
  
- From the beginning…""",0.125
+ From the beginning…""",0.125,0.38284573
 Naruto!,"ナルト～！
 《サクラちゃん…》
 
 ","Naruto ~!
-""Sakura-chan ...""",0.2857142857142857
+""Sakura-chan ...""",0.2857142857142857,0.7865584
 "Sasuke's all right!
 He's alive!","サスケ君は無事よ～！
 ちゃんと生きてるわ～！
 
 ","Sasuke is safe!
-I'm alive properly ~!",0.23076923076923078
+I'm alive properly ~!",0.2307692307692308,0.82745934
 "<i>He was feeling pain inside</i>
 <i>for you while he battled you guys too...</i>","(
 再不斬
@@ -616,15 +616,15 @@ I'm alive properly ~!",0.23076923076923078
 
 ","<White
  
-For you guys",0.23529411764705882
+For you guys",0.2352941176470588,0.19306204
 <i>He was too kind...</i>,"あいつは優しすぎた＞
 
-",He was too kind>,0.5555555555555556
+",He was too kind>,0.5555555555555556,0.83881336
 That's a relief...,"ハハハ…
 ｡
 
 ","Hahaha ...
-.",0.14285714285714285
+.",0.14285714285714285,0.34667593
 You guys are too relaxed!,"お前ら安心し過ぎ
 ｡
 (
@@ -635,7 +635,7 @@ You guys are too relaxed!,"お前ら安心し過ぎ
 ","Too relieved you
 .
 
-Fucking Ninja!",0.3
+Fucking Ninja!",0.3,0.37099186
 "there's no choice but to attack
 the whole town and","こうなったら
  
@@ -643,7 +643,7 @@ the whole town and","こうなったら
 
 ","When it comes to this
  
-Attack the town ➡",0.25
+Attack the town ➡",0.25,0.6323702
 Kakashi Sensei!,"(
 手下１
 )
@@ -653,7 +653,7 @@ Kakashi Sensei!,"(
 
 ","little by little
  
-little by little!➡",0.16666666666666666
+little by little!➡",0.16666666666666666,0.23472731
 "Don't you have a Jutsu
 to annihilate them all at once?","ドカ～っと
  
@@ -663,7 +663,7 @@ to annihilate them all at once?","ドカ～っと
 ","Duck
  
 I will do it
-Do you have anything to do?",0.2777777777777778
+Do you have anything to do?",0.2777777777777778,0.15514104
 "That's impossible!
 I've used too much Chakra!","(ｶｶｼ)
 無理だ
@@ -674,7 +674,7 @@ I've used too much Chakra!","(ｶｶｼ)
 ","It impossible
  
 I used chakra too much
-.",0.5
+.",0.5,0.92189354
 Here we go!,"行くぞ～！
 (
 手下たち
@@ -683,14 +683,14 @@ Here we go!,"行くぞ～！
 
 ","I'll go ~!
 
-Oh!",0.25
+Oh!",0.25,0.49505922
 "With all the might of
 all the island's people...","全島民の勢力をもって➡
 
-",With the power of the Night Island,0.36363636363636365
+",With the power of the Night Island,0.3636363636363637,0.6206498
 will not be allowed to live!,"生かしちゃおかねえ！
 
-",How to use it!,0.2
+",How to use it!,0.2,0.033495516
 Inari!,"(
 一同
 )
@@ -698,7 +698,7 @@ Inari!,"(
 イナリ！
 
 ","Oh!
-Inari!",0.6666666666666666
+Inari!",0.6666666666666666,0.90237105
 "Heroes always arrive
 on the scene late!","(ｲﾅﾘ)
 ヘヘッ
@@ -709,7 +709,7 @@ on the scene late!","(ｲﾅﾘ)
 ","Hehe
  
 Hero
-Because it appears late!",0.15384615384615385
+Because it appears late!",0.15384615384615385,0.69656396
 Inari... You guys...,"(ﾀｽﾞﾅ)
 イナリ…
  
@@ -719,34 +719,34 @@ Inari... You guys...,"(ﾀｽﾞﾅ)
 ","Inari ...
  
 you…
-.",0.3333333333333333
+.",0.3333333333333333,0.864798
 "Okay, I'm gonna help out, too!","《よ～し
 俺も加勢するってばよ！》
 
 ","""Yo ~
-If I also add up!""",0.1111111111111111
+If I also add up!""",0.1111111111111111,0.2468152
 Shadow Clone Jutsu!,"影分身の術！
 
-",Shadow Subordination!,0.4
+",Shadow Subordination!,0.4,0.55195236
 "I can do that even
 with my scarce Chakra...","(ｶｶｼ)
 《あの程度なら
 今のチャクラでも➡
 
 ","""If that degree
-Now in the current chakra",0.11764705882352941
+Now in the current chakra",0.1176470588235294,0.49131685
 "At least, it will bluff...","はったりにはなるか…》
 
-","Is it warm ... """,0.2
+","Is it warm ... """,0.2,0.011377397
 Kakashi Version!,"カカシバージョン！
 
-",Kakashi Version!,1.0
+",Kakashi Version!,1.0,1.000001
 "No, we're not!","(
 手下たち
 )
 やりませ～ん！
 
-",Do not do!,0.2857142857142857
+",Do not do!,0.2857142857142857,0.22485536
 Sounds like it's over.,"(
 再不斬
 )
@@ -754,26 +754,26 @@ Sounds like it's over.,"(
 ｡
 
 ","It looks like it is over
-.",0.5
+.",0.5,0.7718132
 Yeah...,"あいつの…➡
 
-",Aya ... ➡,0.25
+",Aya ... ➡,0.25,0.1879095
 What is it?,"(ｶｶｼ)
 何だ？
 
-",What?,0.5
+",What?,0.5,0.43106046
 "His...
 I want to see his face...","あいつの顔が見てぇんだ
 ｡
 
 ","I saw the face of that guy
-.",0.15384615384615385
+.",0.15384615384615385,0.47247186
 All right.,"(ｶｶｼ)
 ああ
 ｡
 
 ","Ah
-.",0.25
+.",0.25,0.2971263
 "<i>Haku...</i>
 <i>Are you crying?</i>","(
 再不斬
@@ -784,36 +784,36 @@ All right.,"(ｶｶｼ)
 
 ","""White
  
-Are you crying?""",0.3076923076923077
+Are you crying?""",0.3076923076923077,0.3973127
 I can be at your side in the end.,"せめて最期も
  
 お前のそばで…》
 
 ","At the end
  
-By your side ... """,0.38461538461538464
+By your side ... """,0.38461538461538464,0.650611
 If it's possible...,"(
 再不斬
 )
 できるなら➡
 
-","If possible,",0.3333333333333333
+","If possible,",0.3333333333333333,0.40342346
 to the same place...,"お前と同じ所に➡
 
-",In the same place as you,0.375
+",In the same place as you,0.375,0.6512785
 He was a boy as pure as snow...,"雪のように真っ白な少年だったな
 ｡
 
 ","It was a white boy like snow
-.",0.3333333333333333
+.",0.3333333333333333,0.7547279
 Hmm?,"(ｶｶｼ)
 ん？
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.6045308
 "I wonder if the way a Ninja
 should be","忍者の在り方って➡
 
-",The ninja is,0.2
+",The ninja is,0.2,0.75966114
 "is really as these
 two were saying.","(ｶｶｼ)
 そうか
@@ -822,7 +822,7 @@ two were saying.","(ｶｶｼ)
 
 ","Really
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.27388173
 "Shinobi should not seek
 the reason for their own existence.","(ｶｶｼ)
 忍ってのは自分の存在理由を
@@ -833,7 +833,7 @@ the reason for their own existence.","(ｶｶｼ)
 ","The reason for your own existence
 I can not seek
 .
-➡",0.5333333333333333
+➡",0.5333333333333333,0.37410212
 "What's important is to
 exist merely as tools.","ただ道具として
 存在することが大切
@@ -843,12 +843,12 @@ exist merely as tools.","ただ道具として
 ","Just as a tool
 It is important to exist
 .
-➡",0.4
+➡",0.4,0.81880736
 That's the same in the Land of Leaves.,"それは木ノ葉でも同じだよ
 ｡
 
 ","That's the same with wooden leaves
-.",0.5454545454545454
+.",0.5454545454545454,0.7586037
 I don't like that!,"俺ってば
  
 それ
@@ -859,14 +859,14 @@ I don't like that!,"俺ってば
  
 That
  
-no!",0.2222222222222222
+no!",0.2222222222222222,0.21028599
 "Do you think so, too?","あんたも
  
 そう思うのか？
 
 ","Any
  
-Do you think so?",0.625
+Do you think so?",0.625,0.7351325
 Hmm...,"(ｶｶｼ)
 ん～
  
@@ -878,7 +878,7 @@ Hmm...,"(ｶｶｼ)
  
 No ...
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.347497
 Well... That's why all Ninja live,"だから
  
 忍者ってやつは
@@ -891,7 +891,7 @@ Well... That's why all Ninja live,"だから
 Ninja is
 all
  
-Do not know",0.4166666666666667
+Do not know",0.4166666666666667,0.79206806
 Like Zabuza... and that kid...,"再不斬や
  
 あの子のようにな
@@ -900,7 +900,7 @@ Like Zabuza... and that kid...,"再不斬や
 ","Reimportation
  
 That girl
-.",0.1111111111111111
+.",0.1111111111111111,0.17357922
 Okay!,"よし！
 (
 一同
@@ -909,7 +909,7 @@ Okay!,"よし！
 
 ","OK!
 
-Yeah?",0.2
+Yeah?",0.2,0.6652326
 "I'm going to pursue my
 own Way of Ninja!","今
  
@@ -919,7 +919,7 @@ own Way of Ninja!","今
 ","now
  
 I hope you decide!
-I will do my ninja!",0.23529411764705882
+I will do my ninja!",0.2352941176470588,0.7937907
 "I'm gonna sprint straight
 ahead and pursue","そのことに悩んで生きてるのさ
 ｡
@@ -927,7 +927,7 @@ ahead and pursue","そのことに悩んで生きてるのさ
 
 ","I'm troubled by that
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.25073916
 "a way that I absolutely
 won't regret!","絶対
  
@@ -935,24 +935,24 @@ won't regret!","絶対
 
 ","absolutely
  
-I regret my way.",0.36363636363636365
+I regret my way.",0.3636363636363637,0.57831055
 "Thanks to you the bridge
 was safely completed,","(ﾀｽﾞﾅ)
 おかげで橋は無事完成したが➡
 
-","Thanks to you, the bridge was successfully completed.",0.7272727272727273
+","Thanks to you, the bridge was successfully completed.",0.7272727272727273,0.8879517
 Take care.,"(ﾂﾅﾐ)
 お元気でね
 ｡
 
 ","stay well
-.",0.2
+.",0.2,0.5724269
 Thank you for everything.,"(ｶｶｼ)
 お世話になりました
 ｡
 
 ","thank you for helping me
-.",0.5714285714285714
+.",0.5714285714285714,0.48935774
 "Inari... you're gonna
 miss us, aren't you?","イナリ…
  
@@ -962,7 +962,7 @@ miss us, aren't you?","イナリ…
 ","Inari ...
  
 If you
-Are you sorry?",0.35714285714285715
+Are you sorry?",0.35714285714285715,0.6892241
 "It's all right if you cry,
 Naruto!","泣いたっていいってばよ
  
@@ -970,23 +970,23 @@ Naruto!","泣いたっていいってばよ
 
 ","It is good if you cry
  
-Cry!",0.4166666666666667
+Cry!",0.4166666666666667,0.528792
 "Oh, is that so?","絶対か？
 ん？
 
 ","Is it absolutely?
-Yeah?",0.2222222222222222
+Yeah?",0.2222222222222222,0.37184197
 See ya!,"じゃあな！
 あっ！
 
 ","See you! 
- Ah!",0.4
+ Ah!",0.4,0.6643775
 "and Inari changed the minds
 of the village people.","イナリが町民の心を変えた
 ｡
 
 ","Inari changed the mind of townspeople
-.",0.45454545454545453
+.",0.4545454545454545,0.8282381
 "That boy created a bridge
 linking us to hope,","あの少年は
  
@@ -996,7 +996,7 @@ linking us to hope,","あの少年は
 ","That boy is
  
 Names of courage
-Hope to hope",0.2857142857142857
+Hope to hope",0.2857142857142857,0.5960093
 So a linking bridge...,"(ｷﾞｲﾁ)
 懸け橋か…
 ｡
@@ -1004,7 +1004,7 @@ So a linking bridge...,"(ｷﾞｲﾁ)
 
 ","Will the bridge ...
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.6312058
 "I have a perfect name
 for this bridge.","橋っていやぁ
 この橋にも名前を付けんとなぁ
@@ -1012,7 +1012,7 @@ for this bridge.","橋っていやぁ
 
 ","Bridge
 This bridge also gives you a name
-.",0.4166666666666667
+.",0.4166666666666667,0.8563722
 "Yeah, what is it?","(ｷﾞｲﾁ)
 おぉ
  
@@ -1020,14 +1020,14 @@ This bridge also gives you a name
 
 ","Hoping
  
-What is it?",0.5714285714285714
+What is it?",0.5714285714285714,0.4456061
 "The Naruto Great Bridge!?
 How's that?","(ﾀｽﾞﾅ)
 ナルト大橋ってのは
 どうだ？
 
 ","Naruto Bridge
-How is it?",0.36363636363636365
+How is it?",0.3636363636363637,0.93377787
 "Okay! I'll get back soon
 and have Iruka Sensei treat me","よ～し！
  
@@ -1035,7 +1035,7 @@ and have Iruka Sensei treat me","よ～し！
 
 ","Yo!
  
-Return soon",0.13333333333333333
+Return soon",0.13333333333333333,0.38277546
 "to ramen as
 the mission completion celebration!","イルカ先生に
  
@@ -1045,7 +1045,7 @@ the mission completion celebration!","イルカ先生に
 ","To the teacher dolphin
  
 Mission end celebration
-Ramen I'm addicted!",0.42857142857142855
+Ramen I'm addicted!",0.42857142857142855,0.67369395
 "Hey! Sasuke, do you want to go
 on a date","ねぇ
  
@@ -1059,7 +1059,7 @@ on a date","ねぇ
 Sasuke
 When I returned to a village
  
-Do not date?",0.3333333333333333
+Do not date?",0.3333333333333333,0.6816135
 Shut up! Naruto!,"うるさい！
  
 黙れ
@@ -1070,13 +1070,13 @@ Shut up! Naruto!,"うるさい！
  
 shut up
  
-Naruto!",0.8
+Naruto!",0.8,0.7666767
 "This name is to wish that
 this bridge will never collapse...","この橋が
 決して崩れることのない➡
 
 ","This bridge
-Never collapse",0.36363636363636365
+Never collapse",0.3636363636363637,0.8414008
 "And someday, it'll be the name
 of a very famous bridge...","そして
  
@@ -1084,7 +1084,7 @@ of a very famous bridge...","そして
 
 ","and
  
-Someday",0.14285714285714285
+Someday",0.14285714285714285,0.4095293
 A name heard around the world.,"(ｷﾞｲﾁ)
 何だ
  
@@ -1096,7 +1096,7 @@ A name heard around the world.,"(ｷﾞｲﾁ)
  
 Is it all right?
 With such a name
-.",0.2
+.",0.2,0.50514203
 That's truly what I hope.,"あのさ
  
 あのさ
@@ -1113,7 +1113,7 @@ That
 In case
  
 OK
-.",0.2
+.",0.2,0.3074088
 "Aren't there more exciting missions
 where I can be more active?","♬
  A man railed at me twice
@@ -1121,9 +1121,9 @@ but I didn't care
 
 ","♬
  A man railed at me tweed
-BUT I DIDN'T CARE",0.09090909090909091
+BUT I DIDN'T CARE",0.09090909090909093,-0.015509753
 This is my Way of Ninja!,"♬
  Waiting is wasting
 
 ","♬
- Waiting is Wasting",0.1
+ Waiting is Wasting",0.1,0.114342995

@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,45 +9,45 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825215
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490633
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818445
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120192
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.53447694
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.7646866
 <i>Sasuke here at Point B!</i>,"[外:4E034EE6D3C44A0FD18752B344B9784E]
  
 サスケ
@@ -64,7 +64,7 @@ Sasuke
 B point
  
 arrival
-.",0.16666666666666666
+.",0.16666666666666666,0.5948072
 <i>Sakura here at Point C!</i>,"[外:4E034EE6D3C44A0FD18752B344B9784E]
  
 サクラ
@@ -81,7 +81,7 @@ Cherry blossoms
 C point
  
 arrival
-.",0.1
+.",0.1,0.31921214
 <i>Naruto here. I'm at Point A!</i>,"[外:4E034EE6D3C44A0FD18752B344B9784E]
 (ｶｶｼ)
 遅いぞ
@@ -96,19 +96,19 @@ I'm late
  
 Naruto
 .
-➡",0.2
+➡",0.2,0.6424577
 <i>Follow it!</i>,"ターゲット移動！
  
 追え！
 
 ","Target movement!
  
-Follow!",0.2222222222222222
+Follow!",0.2222222222222222,0.48512423
 "What's your distance
 from the target?","(ｶｶｼ)
 目標との距離は？
 
-",What is the distance to the goal?,0.36363636363636365
+",What is the distance to the goal?,0.3636363636363637,0.7533583
 "Five meters!
 I can go at anytime!","５ｍ
  
@@ -118,7 +118,7 @@ I can go at anytime!","５ｍ
 ","5 m
  
 If you can go anytime
-.",0.23076923076923078
+.",0.2307692307692308,0.6562196
 "Me, too...!","俺も
  
 いいぜ
@@ -131,18 +131,18 @@ If you can go anytime
 It is good
 .
 me too
-.",0.2222222222222222
+.",0.2222222222222222,0.4937319
 Do it!,"やれ！
 
-",Do it!,1.0
+",Do it!,1.0,1.0000001
 Uryaaah!,"お～りゃ～！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.35325274
 "It's the target, no mistake.","ターゲットに間違いない
 ｡
 
 ","There is no doubt for the target
-.",0.3333333333333333
+.",0.3333333333333333,0.68426985
 "Isn't there a mission
 with a greater sense of urgency?!","[外:4E034EE6D3C44A0FD18752B344B9784E]
  
@@ -152,14 +152,14 @@ with a greater sense of urgency?!","[外:4E034EE6D3C44A0FD18752B344B9784E]
 ","[Out of: 4E034EE6D3C44A0FD18752B344B9784E]
  
 The mission with a sense of tension is
-Hey!",0.35
+Hey!",0.35,0.49595734
 "Ohhh! My cute Tora!
 I was worried to death!","死ぬほど心配したのよ～！
 (ﾄﾗ
 の鳴き声
 )
 
-",I was worried about dead ~!,0.3076923076923077
+",I was worried about dead ~!,0.3076923076923077,0.55616575
 "Serves him right, that stupid cat!","《カ～ハハハ…！
 ざまぁねえってばよ
  
@@ -168,21 +168,21 @@ I was worried to death!","死ぬほど心配したのよ～！
 ","""Kaha ha ha ...!
 It is true
  
-That stupid cat """,0.26666666666666666
+That stupid cat """,0.26666666666666666,0.5326634
 "The next mission for
 Kakashi's seventh squad is...","次の任務は…
 ｡
 
 ","The next task is ...
-.",0.3333333333333333
+.",0.3333333333333333,0.336098
 "No! No, thank you!","ダメ～！
 
-",No!,0.4
+",No!,0.4,0.47518474
 "As for me,","芋掘りの手伝い…
 ｡
 
 ","Help for ...
-.",0.14285714285714285
+.",0.14285714285714285,0.29608703
 "I want to do like
 a more exciting mission!","俺ってば
  
@@ -198,7 +198,7 @@ more
  
 shell
 I will do my best to work
-.",0.2222222222222222
+.",0.2222222222222222,0.27904075
 <i>He's got a point...</i>,"《一理ある》
 《も～
  
@@ -207,13 +207,13 @@ I will do my best to work
 ","""Have a point""
 ""Also ~
  
-Mendo guy """,0.11764705882352941
+Mendo guy """,0.1176470588235294,0.4053667
 "<i>I thought it was about time</i>
 <i>for him to get fretful...</i>","そろそろ
 だだこねる頃だと思った》
 
 ","gradually
-I thought it was about",0.3125
+I thought it was about",0.3125,0.38135603
 "by gaining experience
 from simple missions!","誰でも初めは
  
@@ -221,14 +221,14 @@ from simple missions!","誰でも初めは
 
 ","Everyone is first
  
-From a simple task",0.16666666666666666
+From a simple task",0.16666666666666666,0.26852924
 Naruto!,"だって
  
 だって！
 
 ","Because
  
-!",0.3333333333333333
+!",0.3333333333333333,0.22579749
 "It's necessary to explain to you
 what a mission is...","(
 猿飛
@@ -245,7 +245,7 @@ what a mission is...","(
 You
 Mission
  
-What kind of thing is ➡",0.25
+What kind of thing is ➡",0.25,0.43335018
 "Requests pour into the village
 every day.","いいか
  
@@ -253,7 +253,7 @@ every day.","いいか
 
 ","Good
  
-Every day in the village",0.4
+Every day in the village",0.4,0.5412812
 "They range from babysitting
 to assassinations...","子守から暗殺までな
 ｡
@@ -261,7 +261,7 @@ to assassinations...","子守から暗殺までな
 
 ","From lilly to assassination
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.35861638
 "A wide spectrum of requests are
 recorded on the request list...","依頼リストには
  
@@ -271,7 +271,7 @@ recorded on the request list...","依頼リストには
 ","For request list
  
 A wide variety of requests
-Please note that",0.35294117647058826
+Please note that",0.35294117647058826,0.79608953
 "They are separated into A, B, C,
 and D ranks in order of difficulty.","難易度の高い順に
 Ａ
@@ -289,7 +289,7 @@ B
  
 C
  
-D and ➡",0.5
+D and ➡",0.5,0.70047146
 "In the village,
 everyone below me","里では
  
@@ -297,7 +297,7 @@ everyone below me","里では
 
 ","In the village
  
-Divide roughly",0.3333333333333333
+Divide roughly",0.3333333333333333,0.5704783
 "is divided up by ability in the order of
 Jonin, Chunin, and Genin.","わしから順に
  
@@ -313,7 +313,7 @@ Ninhen
  
 Middle Shinobu
  
-Shimojo and ➡",0.2
+Shimojo and ➡",0.2,0.48016107
 "to Ninjas who have abilities
 that suit said mission.","任務として振り分ける
 ｡
@@ -321,7 +321,7 @@ that suit said mission.","任務として振り分ける
 
 ","Distribution as a mission
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.31605378
 "And, if the mission is successful,
 the fee comes in from the client.","で
  
@@ -329,7 +329,7 @@ the fee comes in from the client.","で
 
 ","and
  
-If the task is successful",0.35714285714285715
+If the task is successful",0.35714285714285715,0.29928854
 "rank D is about
 the best you can do...","Ｄランクが
 せいぜい
@@ -341,10 +341,10 @@ the best you can do...","Ｄランクが
 At best
  
 Good cousin
-.",0.21428571428571427
+.",0.21428571428571427,0.44420347
 Hm?!,"ん？
 
-",Yeah?,0.25
+",Yeah?,0.25,0.57766956
 "Yesterday's lunch was pork bone
 broth noodles,","きのうの昼は
  
@@ -360,7 +360,7 @@ Because it was a pork bone
 today
  
 Miserable
-.",0.1875
+.",0.1875,0.52721393
 Listen!,"(
 猿飛
 )
@@ -380,7 +380,7 @@ degree…
 Thanks
  
 Excuse me
-.",0.2857142857142857
+.",0.2857142857142857,0.40719828
 "But I'm not that little prankster
 that you think I am!","けど俺ってば
  
@@ -394,7 +394,7 @@ that you think I am!","けど俺ってば
 Already
  
 forever and ever
-It seems like you think that you think",0.25
+It seems like you think that you think",0.25,0.22938345
 "<i>Maaan, I'm going to get scolded later...</i>","(ｶｶｼ)
 《はぁ…
 後で
@@ -408,12 +408,12 @@ later
  
 Whisper
  
-me""",0.1111111111111111
+me""",0.1111111111111111,0.2579118
 I'll have you do a Rank C mission...,"Ｃランクの任務をやってもらう
 ｡
 
 ","Get C rank mission
-.",0.25
+.",0.25,0.8255371
 Really?!,"ホント!?
  
 アハ～！
@@ -428,7 +428,7 @@ Aha ~!
  
 Who?
  
-Who?",0.5
+Who?",0.5,0.3443293
 "Or, a princess?!","大名様？
 それとも
  
@@ -441,7 +441,7 @@ Or
  
 Or
  
-Princess?",0.375
+Princess?",0.375,0.6518333
 Don't get so hasty.,"(
 猿飛
 )
@@ -455,7 +455,7 @@ Don't get so hasty.,"(
  
 Do you get it
 .
-Yeah?",0.2727272727272727
+Yeah?",0.2727272727272727,0.14547893
 I'll introduce you now!,"そう慌てるな
  
 今
@@ -470,14 +470,14 @@ now
  
 introduce
 .
-➡",0.3
+➡",0.3,0.6489266
 Could you please come in...?,"入ってきてもらえますかな？
 
-",Can you come in?,0.5
+",Can you come in?,0.5,0.79532045
 Huh?,"(ﾅﾙﾄ･ｻｸﾗ)
 ん？
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.77901304
 Are you really a Ninja?,"お前
  
 それ
@@ -488,13 +488,13 @@ Are you really a Ninja?,"お前
  
 That
  
-Really a ninja?",0.7142857142857143
+Really a ninja?",0.7142857142857143,0.9015156
 What?!,"えっ？
 
-",eh?,0.25
+",eh?,0.25,0.32111534
 I'll kill him!!,"ぶっ殺す！
 
-",Kill!,0.4
+",Kill!,0.4,0.6543042
 "What good will it do to
 kill the old man","(ｶｶｼ)
 これから護衛するじいさん殺して
@@ -507,13 +507,13 @@ kill the old man","(ｶｶｼ)
 what will you do!
  
 Ghost
-.",0.2222222222222222
+.",0.2222222222222222,0.3968348
 "until I return to my land and
 complete my bridge!","わしが国に帰って
 橋を完成させるまでの間➡
 
 ","I'm back to Japan
-Until the bridge is completed",0.25
+Until the bridge is completed",0.25,0.68546563
 What're you so excited about?!,"何
  
 はしゃいじゃってんの？
@@ -524,7 +524,7 @@ What're you so excited about?!,"何
  
 Aren't you?
 Aunt
-.",0.25
+.",0.25,0.19034797
 "You see, I've never left
 the village before!","だって
  
@@ -538,7 +538,7 @@ the village before!","だって
 In case
  
 Never
-It's from the things that came out of the village!",0.18181818181818182
+It's from the things that came out of the village!",0.18181818181818185,0.62159985
 Hey! A m I really okay with this squirt?!,"おい
  
 本当に
@@ -549,11 +549,11 @@ Hey! A m I really okay with this squirt?!,"おい
  
 very
 It's okay with such a crop
-.",0.16666666666666666
+.",0.16666666666666666,0.29105946
 <i>...okay with this squirt?!</i>,"(ﾀｽﾞﾅ)
 ＜ガキで大丈夫なのかよ＞
 
-",<Are you okay with oysters>,0.2857142857142857
+",<Are you okay with oysters>,0.2857142857142857,0.3075336
 <i>He's really the worst client!</i>,"《このじじいだけは
  
 ったく
@@ -566,12 +566,12 @@ It's okay with such a crop
 Geez
 It is the worst client
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.72832114
 "I'm awesome, you see!","そう心配いりませんよ
 ｡
 
 ","I'm not worried so
-.",0.18181818181818182
+.",0.18181818181818185,0.07583273
 My name's Naruto Uzumaki.,"名を
  
 うずまきナルトという
@@ -580,13 +580,13 @@ My name's Naruto Uzumaki.,"名を
 ","Name
  
 Uzumaki Naruto
-Remember!",0.375
+Remember!",0.375,0.8322871
 "The Hokage's the super top-dog
 Ninja in the village, right?","火影っていや
 里一番の超忍者だろ？
 
 ","Soundproof
-It is a village 's best ulina dog?",0.16666666666666666
+It is a village 's best ulina dog?",0.16666666666666666,0.46774864
 "I'm prepared to do whatever
 it takes to become the Hokage!","ダァ～
  
@@ -594,7 +594,7 @@ it takes to become the Hokage!","ダァ～
 
 ","Da ~
  
-I'm sorry!",0.2
+I'm sorry!",0.2,0.16637447
 "You'll have no choice
 but to acknowledge me then!!","俺のこと
  
@@ -602,7 +602,7 @@ but to acknowledge me then!!","俺のこと
 
 ","About me
  
-I have to admit!",0.2857142857142857
+I have to admit!",0.2857142857142857,0.41662464
 "No! At least let me have
 one shot, just one...","やだ！
  
@@ -620,13 +620,13 @@ no!
 at least
  
 One shot…
-.",0.35714285714285715
+.",0.35714285714285715,0.82799494
 "Your country is
 ""The Land of the Waves,"" right?","タズナさんの国って
 波の国でしょ？
 
 ","Tazna's country
-Wave country?",0.14285714285714285
+Wave country?",0.14285714285714285,0.5989408
 What of it?,"(ﾀｽﾞﾅ)
 それが
  
@@ -634,7 +634,7 @@ What of it?,"(ﾀｽﾞﾅ)
 
 ","that is
  
-What happened?",0.2857142857142857
+What happened?",0.2857142857142857,0.3397969
 "Are there Ninjas in that land, too?","ねぇ
  
 カカシ先生
@@ -643,7 +643,7 @@ What happened?",0.2857142857142857
 ","Hey
  
 teacher Kakashi
-Are you a ninja in that country?",0.25
+Are you a ninja in that country?",0.25,0.6612616
 "No, there aren't Ninjas in
 the Land of the Waves...","(ｶｶｼ)
 いや
@@ -654,17 +654,17 @@ the Land of the Waves...","(ｶｶｼ)
 ","Disagreeable
 There is no ninja in the country of waves
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.85895026
 "But in other nations, while cultures
 and customs are different,","文化や風習こそ違うが➡
 
-",Culture and customs are different though,0.3076923076923077
+",Culture and customs are different though,0.3076923076923077,0.8886368
 "To the many nations on the continent,","(ｶｶｼ)
 大陸にある
 たくさんの国々にとって➡
 
 ","In the continent
-For many countries",0.3
+For many countries",0.3,0.77464586
 "the existence of Shinobi Villages is
 a measure of the nation's military strength.","忍の里の存在ってのは
 国の軍事力に当たる
@@ -674,14 +674,14 @@ a measure of the nation's military strength.","忍の里の存在ってのは
 ","It is the existence of Shinobu village
 Hit the military power of the country
 .
-➡",0.3
+➡",0.3,0.7705759
 "In other words,","が
  
 大抵のほかの国には➡
 
 ","But
  
-In most other countries",0.2857142857142857
+In most other countries",0.2857142857142857,0.31648615
 They are equal in rank.,"隠れ里が存在し
  
 忍者がいる
@@ -690,17 +690,17 @@ They are equal in rank.,"隠れ里が存在し
 ","Hideaki exists
  
 Ninja
-.",0.1111111111111111
+.",0.1111111111111111,0.12930465
 "On a small island like
 the Land of the Waves,","小さな島国なんかでは➡
 
-",In a small island country,0.25
+",In a small island country,0.25,0.65287536
 "where it is difficult to be
 influenced by other nations,","波の国のように
 他国の干渉を受けにくい➡
 
 ","Like a wave country
-It is difficult to receive interference from other countries",0.2631578947368421
+It is difficult to receive interference from other countries",0.2631578947368421,0.49361503
 "there is no need
 for a Shinobi village.","忍の里が必要でない
 場合もあるし
@@ -708,7 +708,7 @@ for a Shinobi village.","忍の里が必要でない
 
 ","Ninho no Sato is not necessary
 Sometimes
-.",0.21428571428571427
+.",0.21428571428571427,0.33684683
 "the five nations of ""Fire,"" ""Water,""
 ""Lightning,"" ""Wind,"" and ""Earth,""","火
  
@@ -728,7 +728,7 @@ Thunder
   
 Wind
  
-The five countries of the soil are ➡",0.3333333333333333
+The five countries of the soil are ➡",0.3333333333333333,0.698182
 "are called the ""Five Great Nations.""","｢
 忍び五大国
 ｣
@@ -741,7 +741,7 @@ Five countries
 ""
 It is called
 .
-➡",0.38461538461538464
+➡",0.38461538461538464,0.73538285
 "The ""Hokage""
 ,""","｢
 影
@@ -757,7 +757,7 @@ Shadow
 To talk about the name of
 Be allowed
 .
-➡",0.2
+➡",0.2,0.18523575
 "the so-called
 Five Kage ,","風影
  
@@ -765,7 +765,7 @@ Five Kage ,","風影
 
 ","Wind shadow
  
-The so-called scene of the earth is ➡",0.16666666666666666
+The so-called scene of the earth is ➡",0.16666666666666666,0.06710267
 "in each nation
 of the whole world.","全世界
  
@@ -777,7 +777,7 @@ of the whole world.","全世界
  
 Antifugal ninja
 A ninja who reigns at the top
-.",0.26666666666666666
+.",0.26666666666666666,0.24549721
 Hey!,"へぇ～！
  
 火影様って
@@ -790,7 +790,7 @@ Hey!,"へぇ～！
 Visit
  
 It is amazing
-.",0.2857142857142857
+.",0.2857142857142857,0.40520823
 "You guys just doubted
 Lord Hokage now, didn't you...?","(ｶｶｼ)
 お前ら
@@ -805,7 +805,7 @@ Lord Hokage now, didn't you...?","(ｶｶｼ)
 now
 Pounding
  
-Did you doubt?",0.35714285714285715
+Did you doubt?",0.35714285714285715,0.42452312
 Well... don't worry.,"(ｶｶｼ)
 まっ
  
@@ -817,7 +817,7 @@ Well... don't worry.,"(ｶｶｼ)
  
 do not worry
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.45344636
 "There are no Ninja battles
 in Rank C missions.","Ｃランクの任務で
 忍者対決なんて
@@ -829,16 +829,16 @@ in Rank C missions.","Ｃランクの任務で
 Ninja confrontation
  
 I can not shine
-.",0.25
+.",0.25,0.647659
 W-What?,"(ｶｶｼ)
 何!?
 えっ！
 
 ","what!?
-eh!",0.2
+eh!",0.2,0.15356898
 K- Kakashi Sensei!,"カカシ先生～！
 
-",Mr. Kakashi ~!,0.3333333333333333
+",Mr. Kakashi ~!,0.3333333333333333,0.7788231
 The second one...,"(
 冥頭
 )
@@ -846,16 +846,16 @@ The second one...,"(
 ｡
 
 ","Second
-.",0.2
+.",0.2,0.5555527
 <i>It doesn't come off!</i>,"(
 業頭
 )
 《外れぬ！》
 
-","""Don't come out!""",0.21428571428571427
+","""Don't come out!""",0.21428571428571427,0.38987657
 Ugh!!,"うわ！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.39232075
 "<i>I have to do it...</i>
 <i>I have to!!</i>","《来る！
  
@@ -865,16 +865,16 @@ Ugh!!,"うわ！
 ","""come!
  
 I have to do it
-I have to do it!""",0.46153846153846156
+I have to do it!""",0.4615384615384616,0.573903
 <i>Kakashi Sensei...! He's alive!</i>,"《生きてた！》
 
-","""I was alive!""",0.21428571428571427
+","""I was alive!""",0.21428571428571427,0.38327247
 Whaa?!,"(
 業頭
 )
 うお！
 
-",U!,0.25
+",U!,0.25,0.43944654
 "Then, what was that...?","《カカシ先生
 変わり身
  
@@ -883,14 +883,14 @@ Whaa?!,"(
 ","""teacher Kakashi
 Change
  
-What did you use?",0.14285714285714285
+What did you use?",0.14285714285714285,0.25560313
 I got you hurt.,"ケガさせちまった
 ｡
 ➡
 
 ","I got injured
 .
-➡",0.42857142857142855
+➡",0.42857142857142855,0.45490444
 "I didn't think you'd be
 incapable of moving...","お前が
  
@@ -902,7 +902,7 @@ incapable of moving...","お前が
  
 If you can't move here
 I did not think
-.",0.29411764705882354
+.",0.29411764705882354,0.5989798
 "You, too, Sakura.","(ｶｶｼ)
 とりあえず
 サスケ
@@ -918,37 +918,37 @@ Sasuke
 well done
  
 Sakura
-.",0.2
+.",0.2,0.6238124
 <i>I...couldn't do anything...</i>,"《俺ってば何もできなかった
 ｡
 ➡
 
 ","""I couldn't do anything
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.7144693
 <i>It was his first real battle...</i>,"なのにサスケは
 初めての実戦なのに➡
 
 ","Even though Sasuke is
-Even though it is the first actual battle",0.17647058823529413
+Even though it is the first actual battle",0.17647058823529413,0.54512304
 "<i>Didn't he feel scared, at all?</i>","ちっとも怖いって
 思わなかったのか？➡
 
 ","I'm afraid
-Did not you think?➡",0.15789473684210525
+Did not you think?➡",0.15789473684210525,0.5421618
 "<i>He saved me like it was nothing and</i>
 <i>without getting any dirt on his clothes...</i>","平気な顔して
 服に汚れ一つ付けずに➡
 
 ","Passie
-Do not get one dirt on the clothes",0.11538461538461539
+Do not get one dirt on the clothes",0.1153846153846154,0.42584673
 Sasuke!,"サスケ～！
 (ｶｶｼ)
 ナルト！➡
 
 ","Sasuke ~!
 
-Naruto!➡",0.4
+Naruto!➡",0.4,0.8651093
 "These guys have poison
 on their claws.","こいつらの爪には
 毒が塗ってある
@@ -958,7 +958,7 @@ on their claws.","こいつらの爪には
 ","On these nails
 Poisonous
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.65903485
 "You need to
 take out the poison quickly.","お前は早く毒抜きする必要がある
 ｡
@@ -968,7 +968,7 @@ take out the poison quickly.","お前は早く毒抜きする必要がある
 ","You need to be poisoned quickly
 .
 eh
-.",0.4166666666666667
+.",0.4166666666666667,0.8340126
 "You have to open the wound and
 drain the poisoned blood.","(ｶｶｼ)
 傷口を開いて
@@ -979,7 +979,7 @@ drain the poisoned blood.","(ｶｶｼ)
 ","Open the wound
 I have to pull out of poisonous blood
 .
-➡",0.4117647058823529
+➡",0.4117647058823529,0.80790126
 Don't move so much.,"あまり動くな
  
 毒が回るぞ
@@ -990,7 +990,7 @@ Don't move so much.,"あまり動くな
  
 Poison will turn
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.49918813
 "By the way, Mr. Tazuna...","ところで
  
 タズナさん
@@ -1007,7 +1007,7 @@ Mr. Tazna
 
 ...
  
-What is it?",0.38461538461538464
+What is it?",0.38461538461538464,0.7279986
 "How were you able
 to detect our movements?","(
 業頭
@@ -1016,7 +1016,7 @@ to detect our movements?","(
 われわれの動きを見切れた？
 
 ","why
-Did you miss our movement?",0.23076923076923078
+Did you miss our movement?",0.2307692307692308,0.43612528
 "on a clear day like today,
 when it hasn't rained for days.","(ｶｶｼ)
 数日
@@ -1029,7 +1029,7 @@ when it hasn't rained for days.","(ｶｶｼ)
  
 It is not raining
 .
-➡",0.15
+➡",0.15,0.6238383
 "If I felt like it,
 I could kill these guys instantly...","(ｶｶｼ)
 私が
@@ -1044,7 +1044,7 @@ I could kill these guys instantly...","(ｶｶｼ)
 If you are concerned
 You can kill about these things
 .
-➡",0.2
+➡",0.2,0.36282775
 "But...
 I had to know...","が
  
@@ -1058,7 +1058,7 @@ I had to know...","が
 To me
 I needed to know
 .
-➡",0.4
+➡",0.4,0.57233554
 Hm?! What do you mean?,"あんた
  
 それ知ってて
@@ -1067,7 +1067,7 @@ Hm?! What do you mean?,"あんた
 ","Aunt
  
 Know
-What did you do to do?",0.36363636363636365
+What did you do to do?",0.3636363636363637,0.13440986
 "or one of us Shinobi...
 who was being targeted.","それとも
  
@@ -1077,7 +1077,7 @@ who was being targeted.","それとも
 ","Or
  
 Of us
-Someone?",0.23076923076923078
+Someone?",0.2307692307692308,0.2827592
 "We haven't heard anything about
 you being targeted by Ninjas.","ということです
 ｡
@@ -1085,7 +1085,7 @@ you being targeted by Ninjas.","ということです
 
 ","about it
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.20894925
 "protection from gangs,
 thieves, and the like...","依頼内容は
  
@@ -1093,7 +1093,7 @@ thieves, and the like...","依頼内容は
 
 ","Request contents
  
-Gangs and thieves etc",0.25
+Gangs and thieves etc",0.25,0.5626169
 "This is a mission with
 a B rank or higher.","これだと
 Ｂランク以上の任務だ
@@ -1103,14 +1103,14 @@ a B rank or higher.","これだと
 ","This
 B rank or higher
 .
-➡",0.5454545454545454
+➡",0.5454545454545454,0.6666967
 The request was supposed to be,"依頼は
  
 橋を作るまでの支援護衛➡
 
 ","For request
  
-Support escort to make a bridge",0.16666666666666666
+Support escort to make a bridge",0.16666666666666666,0.41178405
 "but being lied to in the request
 won't do.","依頼でウソをつかれると
 困ります
@@ -1120,7 +1120,7 @@ won't do.","依頼でウソをつかれると
 ","If you get a lie at the request
 Troubled
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.69318396
 "This is beyond the scope
 of our mission.","これだと
  
@@ -1132,7 +1132,7 @@ of our mission.","これだと
  
 Outside of our mission
 It will be
-.",0.38461538461538464
+.",0.38461538461538464,0.6534267
 This mission is too soon for us...,"この任務
  
 まだ私たちには早いわ
@@ -1141,17 +1141,17 @@ This mission is too soon for us...,"この任務
 ","This task
  
 I'm still fast for us
-.",0.21428571428571427
+.",0.21428571428571427,0.32604408
 Let's give it up!,"やめましょう！
 
-",let's stop!,0.42857142857142855
+",let's stop!,0.42857142857142855,0.59161735
 "We need an anesthetic to
 open Naruto's wound","ナルトの傷口を開いて➡
 
-",Open the wound of Naruto ➡,0.25
+",Open the wound of Naruto ➡,0.25,0.7315669
 and get out the poisoned blood...,"毒血を抜くにも麻酔がいるし➡
 
-",There is an anesthesia to unplug the poisonous blood,0.14285714285714285
+",There is an anesthesia to unplug the poisonous blood,0.14285714285714285,0.55954814
 "We have to return to the village
 and take him to a doctor...","里に帰って
  
@@ -1159,29 +1159,29 @@ and take him to a doctor...","里に帰って
 
 ","I'm back to a village
  
-I can not check my doctor!",0.2
+I can not check my doctor!",0.2,0.6650049
 Hmmm...,"(ｶｶｼ)
 ん～…
 ｡
 
 ","...
-.",0.3333333333333333
+.",0.3333333333333333,0.42171952
 "Since we need to treat Naruto's wound,
 shall we go back to the village...?","ナルトの治療ついでに里へ戻るか
 ｡
 
 ","Do you want to return to the village by the treatment of Naruto
-.",0.16666666666666666
+.",0.16666666666666666,0.8509357
 Oh!,"あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.7981599
 <i>Why am I so different?!</i>,"《どうして
  
 こんなに違う？➡
 
 ","""why
  
-Such different?➡",0.23076923076923078
+Such different?➡",0.2307692307692308,0.48645678
 "<i>Why's it always me...</i>
 <i>Damn it!</i>","どうして俺のほうが
  
@@ -1193,7 +1193,7 @@ Such different?➡",0.23076923076923078
  
 everytime…
 .
-➡",0.125
+➡",0.125,0.630208
 Naruto! What're you doing?!,"ナルト！
  
 何やってんのよ
@@ -1206,7 +1206,7 @@ Naruto! What're you doing?!,"ナルト！
 What's wrong
  
 Aunt
-.",0.2727272727272727
+.",0.2727272727272727,0.6422553
 <i>I should be getting stronger...</i>,"《俺ってば
 強くなってるはずなのに
 ｡
@@ -1215,7 +1215,7 @@ Aunt
 ","""If I do
 It should be stronger
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.5438104
 "<i>Here I'm steadily carrying</i>
 <i>out missions and</i>","《俺ってば
  
@@ -1229,26 +1229,26 @@ It should be stronger
 never again
 I'm sorry I can help you
 .
-➡",0.09090909090909091
+➡",0.09090909090909093,0.16015945
 "<i>doing special skill training</i>
 <i>by myself every day...</i>","１人で毎日
 術の特訓もしてんのに》
 
 ","Every day
-Even for special training of surgery """,0.2222222222222222
+Even for special training of surgery """,0.2222222222222222,0.46560335
 <i>I won't lose to Sasuke...</i>,"俺はサスケには負けねえ
 ｡
 ➡
 
 ","I can not lose to Sasuke
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.9178086
 "I'm going to swear on
 the pain of my left hand!","この左手の痛みに
 誓うんだってばよ！》
 
 ","To the pain of this left hand
-If you're a vow!""",0.35
+If you're a vow!""",0.35,0.7271516
 "I'll protect you, old man...
 with this Kunai knife!!","俺が
  
@@ -1258,19 +1258,19 @@ with this Kunai knife!!","俺が
 ","I
  
 In this kunai
-Old man protects!",0.4
+Old man protects!",0.4,0.8127101
 The mission continues!!,"ヘヘヘ…
  
 任務続行だ！
 
 ","Hehehe ...
  
-It is continuing the mission!",0.3333333333333333
+It is continuing the mission!",0.3333333333333333,0.8251082
 Naruto...,"くっ…
 ｡
 
 ","...
-.",0.3333333333333333
+.",0.3333333333333333,0.12101272
 "It's all well and good to
 rid yourself of the poisoned blood,","(ｶｶｼ)
 ナルト
@@ -1281,13 +1281,13 @@ rid yourself of the poisoned blood,","(ｶｶｼ)
 ","Naruto
  
 Economically
-It is good to remove the poisonous blood",0.2631578947368421
+It is good to remove the poisonous blood",0.2631578947368421,0.5679688
 "but any more than that and
 you'll bleed to death.","それ以上は出血多量で死ぬぞ
 ｡
 
 ","More than that, it will die in a large amount of hemorrhage
-.",0.18181818181818182
+.",0.18181818181818185,0.6293684
 "Things will get hairy if you don't
 stop the bleeding quick... Seriously!","(ｶｶｼ)
 早く止めないと
@@ -1300,10 +1300,10 @@ stop the bleeding quick... Seriously!","(ｶｶｼ)
 I'm sorry
  
 seriously
-.",0.19047619047619047
+.",0.19047619047619047,0.22905871
 "I can't die like this, I say!","こんなんで死ねるかってばよ～！
 
-",I wonder if I'm going to die!,0.21428571428571427
+",I wonder if I'm going to die!,0.21428571428571427,0.5822332
 Show me your hand.,"(ｶｶｼ)
 ちょっと
  
@@ -1317,7 +1317,7 @@ Show me your hand.,"(ｶｶｼ)
 hand
  
 Show me
-.",0.5714285714285714
+.",0.5714285714285714,0.7495462
 Nooo! Help me!!,"あ～
  
 嫌～！
@@ -1328,7 +1328,7 @@ Nooo! Help me!!,"あ～
  
 I hate!
  
-help me!",0.375
+help me!",0.375,0.5733682
 That's masochistic!,"あ～
  
 ダメ！
@@ -1341,7 +1341,7 @@ That's masochistic!,"あ～
 No good!
 That's good!
  
-Dammed!",0.3333333333333333
+Dammed!",0.3333333333333333,0.30899382
 <i>The wound is...</i>,"(ｶｶｼ)
 《傷口が
  
@@ -1351,7 +1351,7 @@ Dammed!",0.3333333333333333
 ","""The wound
  
 Already
-Curious """,0.18181818181818182
+Curious """,0.18181818181818185,0.58860743
 Well... You should be okay.,"(ｶｶｼ)
 まっ
  
@@ -1361,35 +1361,35 @@ Well... You should be okay.,"(ｶｶｼ)
 ","Mine
  
 It is okay
-.",0.2
+.",0.2,0.4029075
 "<i>Is it...the power of</i>
 <i>the Nine Tailed Fox...?</i>","俺ってば大丈夫？
 
-",Is it okay?,0.2
+",Is it okay?,0.2,0.1201049
 Did you say you failed?!,"(ｶﾞﾄｰ)
 失敗したじゃと!?➡
 
-",Failed!? ➡,0.42857142857142855
+",Failed!? ➡,0.42857142857142855,0.7480408
 "I paid a lot of money to hire
 you guys","高い金を出して雇ったんじゃぞ！
 
-",I hired it out with a high money!,0.1875
+",I hired it out with a high money!,0.1875,0.561263
 "because you said
 you were once hot shot Ninjas!","お前たちが
 元腕利きの忍者だというから➡
 
 ","You
-Because it is a former army ninja",0.13333333333333333
+Because it is a former army ninja",0.13333333333333333,0.63129264
 Stop your damned grumbling...!!,"うっ！
 
-",Uh!,0.14285714285714285
+",Uh!,0.14285714285714285,0.21389353
 "Next time, I'll kill him with this...
 head chopper!","(
 再不斬
 )
 今度は俺様が➡
 
-",This time I'm me,0.2
+",This time I'm me,0.2,0.24775277
 "On top of that, a tightened guard
 on account of the Demon Brothers' failure","そのうえ
  
@@ -1397,7 +1397,7 @@ on account of the Demon Brothers' failure","そのうえ
 
 ","Over
  
-On the assassination of the demon brother",0.23529411764705882
+On the assassination of the demon brother",0.2352941176470588,0.5935227
 means that it won't be easy...,"(ｶﾞﾄｰ)
 ほ…
  
@@ -1407,13 +1407,13 @@ means that it won't be easy...,"(ｶﾞﾄｰ)
 ","Ne ...
  
 very
-Is it all right?➡",0.13333333333333333
+Is it all right?➡",0.13333333333333333,0.076793894
 Just who do you think I am?!,"(
 再不斬
 )
 この俺様を誰だと思ってる？
 
-",Who do you think of this?,0.45454545454545453
+",Who do you think of this?,0.4545454545454545,0.24102353
 "We've finally landed ashore
 in the Land of the Waves.","♬
  Coz you will hate yourself
@@ -1421,7 +1421,7 @@ in the end.
 
 ","♬
  COZ YOU WILL HATE YOURSELF
-in the end.",0.16666666666666666
+in the end.",0.16666666666666666,-0.026232585
 "The guys before were
 all well and good,","♬
  Sneaking out the class room
@@ -1429,18 +1429,18 @@ by the back door
 
 ","♬
  Sneaking out the class room
-by the back door",0.058823529411764705
+by the back door",0.05882352941176471,0.070308685
 "Okay! I'm going to regain
 my honor and continue the mission.","♬
  Don't try to live so wise.
 
 ","♬
- Don't Try To Live So Wise.",0.09523809523809523
+ Don't Try To Live So Wise.",0.09523809523809523,0.1489882
 "Oh, they wasted no time.","♬
  you're so right.
 
 ","♬
- You'Re So Right.",0.08333333333333333
+ You'Re So Right.",0.08333333333333333,0.12161114
 "An impressive looking guy with
 a huge Katana has come.","♬
  Don't dry with
@@ -1448,4 +1448,4 @@ fakes or fears.
 
 ","♬
  Don't Dry With With
-Fakes or Fears.",0.1111111111111111
+Fakes or Fears.",0.1111111111111111,0.07251918

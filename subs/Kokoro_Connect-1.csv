@@ -1,394 +1,394 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 Big brother!,"（莉奈(りな)）
-お兄ちゃん 朝だよ 起きて",My brother is in the morning,0.125
-You'll be late for school \Nif you don't get up now!,もう起きないと遅刻するよ,I'm late if I won't get up,0.23529411764705882
-Yeah...,（太一(たいち)）うっ うん…,) I'm sorry ...,0.16666666666666666
-It wasn't a dream?,（唯(ゆい)）夢じゃなかった,) It was not a dream,0.5
+お兄ちゃん 朝だよ 起きて",My brother is in the morning,0.125,0.3302127
+You'll be late for school \Nif you don't get up now!,もう起きないと遅刻するよ,I'm late if I won't get up,0.2352941176470588,0.79519635
+Yeah...,（太一(たいち)）うっ うん…,) I'm sorry ...,0.16666666666666666,0.37613893
+It wasn't a dream?,（唯(ゆい)）夢じゃなかった,) It was not a dream,0.5,0.8624542
 "Sis, breakfast is ready.","（伊織）いいよ いいよ
 疲れてるんだから ゆっくりしてて","Good It is good
-Because she is tired, she is slow",0.16666666666666666
+Because she is tired, she is slow",0.16666666666666666,0.27633867
 "Sorry, Iori.","（伊織の母）ごめんね 伊織(いおり)
 お母さん また寝坊しちゃって","Sorry Iori Iori 
-My mom also overslept",0.25
+My mom also overslept",0.25,0.6080695
 You can drink this before you go.,"（伊織の母）せめて これだけでも
 飲んでいきなさい","at least this alone
-Drink",0.2
-"Oh, I forgot the sugar.",あっ あとお砂糖ね,After there is sugar,0.1
-Thank you.,ありがとう いただきます,Thank you very much,0.4
-"Oh, was it too hot?",あっ 熱かった？,Was it hot?,0.5714285714285714
+Drink",0.2,0.5125864
+"Oh, I forgot the sugar.",あっ あとお砂糖ね,After there is sugar,0.1,0.6788699
+Thank you.,ありがとう いただきます,Thank you very much,0.4,0.48502886
+"Oh, was it too hot?",あっ 熱かった？,Was it hot?,0.5714285714285714,0.83219796
 Talking to a friend?,"（義文(よしふみ)の父）
-何だ？ 義文 友達か？",What?Is it a friendly friend?,0.3333333333333333
+何だ？ 義文 友達か？",What?Is it a friendly friend?,0.3333333333333333,0.5204757
 I-It's nothing!,"（義文）あっ 何でもない
 いきなり のぞかないでくれよ","There is nothing
-Suddenly she is not hungry",0.1
+Suddenly she is not hungry",0.1,0.21114148
 You'll never get a boyfriend like that.,"（姫子の兄）無愛想なヤツだな
 そんなこっちゃ 彼氏できねえぞ","It's a stupid guy
-Such a boyfriend can be done",0.11764705882352941
-You're always fired up in the morning.,お前は毎朝 テンション高いな,You are high tension every morning,0.15384615384615385
+Such a boyfriend can be done",0.1176470588235294,0.49245375
+You're always fired up in the morning.,お前は毎朝 テンション高いな,You are high tension every morning,0.15384615384615385,0.4852183
 That's because I don't stay up late \Nwatching pro wrestling like you.,"太一みたいに夜中まで
 プロレスとか見てないからね","It is until the night like Taichi
-I'm not looking at the wrestling",0.12
+I'm not looking at the wrestling",0.12,0.52268344
 Oh.,"（太一）ああ…
 （伊織）おはよう 太一","Oh ...
- Good morning",0.2
+ Good morning",0.2,0.45948288
 "Oh, you guys came to school together today?","何だ お前ら
 待ち合わせでもしてきたのか？","What a
-Did you meet?",0.14285714285714285
-"Yui and Aoki, morning!",おっ 唯と青木(あおき)も おはよう,Otoi and Aoki,0.2857142857142857
-Morning.,（義文たち）おはよう,Good morning,0.3333333333333333
+Did you meet?",0.14285714285714285,0.41586202
+"Yui and Aoki, morning!",おっ 唯と青木(あおき)も おはよう,Otoi and Aoki,0.2857142857142857,0.614166
+Morning.,（義文たち）おはよう,Good morning,0.3333333333333333,0.72978586
 This is just how I like it.,"（太一）俺は これくらいで
 ちょうどいいな","I am about this
-Just right",0.2727272727272727
+Just right",0.2727272727272727,0.43354127
 Right?,"えっ？ そうだな
-（笑い声）",eh?Yes,0.25
+（笑い声）",eh?Yes,0.25,0.5439998
 "the private school we attend, \Nevery student is required to join a club.","（太一）俺たちが通う
 私立山星(やまぼし)高校では—","We attend
-Private Yamaru  High School-",0.16666666666666666
+Private Yamaru  High School-",0.16666666666666666,0.5337071
 "However, every organization is bound \Nto have a few rogue elements.","そこに集団があるかぎり
 存在するのだ","As long as there is a group there
-It exists",0.10526315789473684
+It exists",0.10526315789473684,0.45728627
 "For example,","例えば それは
 プロレスをこよなく愛し—","For example
-Love wrestling",0.4
+Love wrestling",0.4,0.3166688
 "and applied to join the Fancy Club, \Nwhich had already closed down.","既に消滅している
 “ファンシー部”に—","It has already disappeared
-""Fancy club ""-",0.15
+""Fancy club ""-",0.15,0.4518086
 who tried to join the Player's Club \Nbecause he believed the rumors,"あるというウワサを信じ込み
 入ろうとした青木義文であったり","Believe the Uwasa
-It is a picture of Aoki who tried to enter",0.19047619047619047
+It is a picture of Aoki who tried to enter",0.19047619047619047,0.25173956
 "take Nagase Iori, who figured that choosing \None club out of so many would be too hard,","部活を担任に一任した
 永瀬(ながせ)伊織であったり","I was one of my homeroom responsibilities
-Nagase  Iori Iori",0.125
+Nagase  Iori Iori",0.125,0.5105727
 "and that the new and exciting option \Nwould be to leave the decision to chance,","選ぶのも面倒だし
 逆に運を天に任せたほうが—","It is also troublesome to choose
-On the contrary, if you leave luck to heaven-",0.16666666666666666
+On the contrary, if you leave luck to heaven-",0.16666666666666666,0.421238
 "take Inaba Himeko, who \Njoined the Computer Club","たちまち部長と衝突し 別な道を
 模索した稲葉姫子であったり","Collision with the manager and another path
-It is an explored Inaba Himeko",0.15789473684210525
-"Huh? You're the only one here, Inaba?",あれ まだ稲葉だけなのか？,Is it still only Inaba?,0.23076923076923078
+It is an explored Inaba Himeko",0.15789473684210525,0.46796536
+"Huh? You're the only one here, Inaba?",あれ まだ稲葉だけなのか？,Is it still only Inaba?,0.2307692307692308,0.66045105
 That should be obvious.,"（太一）つまり そういう
 行き場のない１年生が—","That's why
-1st grader without going",0.09090909090909091
+1st grader without going",0.09090909090909093,0.2239441
 Student Cultural Society,"５人寄り集まって結成されたのが
 “文化研究部”","5 people gathered and formed
-""Cultural Research Department""",0.09090909090909091
+""Cultural Research Department""",0.09090909090909093,0.47125107
 "Taichi, do you have a topic for the \Nnext edition of the StuCS paper?","太一は もう次の文研新聞に
 載せるネタを用意できているのか？","Taichi is already next to the next Senko Shimbun
-Are you able to prepare a neta to be listed?",0.18518518518518517
+Are you able to prepare a neta to be listed?",0.1851851851851852,0.45138437
 "The title is ""The History of Brainbuster \NDrop Methods in Pro Wrestling.""","タイトルは“ブレーンバスターの
 落とし方に見る プロレス史”","Title is ""Brainbuster
-Pro-wrestling history seen in how to drop",0.3157894736842105
+Pro-wrestling history seen in how to drop",0.3157894736842105,0.8486629
 Most people believe that \Nthe Brainbuster involves,"ブレーンバスターは 背中から
 落とすのが一般的といわれているが","Brainbuster from his back
-It is said that it is common to drop",0.125
-Zip it.,相変わらずストレートだな,It is still straight,0.16666666666666666
+It is said that it is common to drop",0.125,0.4827047
+Zip it.,相変わらずストレートだな,It is still straight,0.16666666666666666,0.15822157
 I only wanted to know if you had a topic.,"私は ネタを用意できたか
 聞いただけだ","Did I prepare a neta
-I heard",0.13333333333333333
-"I don't want to hear it, either.",つうか 聞きたくない,I do not want to hear,0.45454545454545453
+I heard",0.13333333333333333,0.05185361
+"I don't want to hear it, either.",つうか 聞きたくない,I do not want to hear,0.4545454545454545,0.77425325
 'Sup! Sorry about being late!,"それ以上の内容 言及について
 頼んだ覚えはない","About more content
-I'm sorry I asked",0.18181818181818182
-"Oh, it's just Taichi and Inaban?",ああ 桐山も青木も まだだ,"Oh, Aoki is still",0.16666666666666666
-Iori...,伊織,Iori,0.5
-You realize I'm in this room.,俺も いるんだぞ,I'm also,0.2222222222222222
-120 yen for every peek.,（伊織）ひとチラにつき 120円,120 yen per chira,0.25
-You're charging money?,金 取るのかよ,Do you get money,0.2857142857142857
+I'm sorry I asked",0.18181818181818185,0.18508932
+"Oh, it's just Taichi and Inaban?",ああ 桐山も青木も まだだ,"Oh, Aoki is still",0.16666666666666666,0.29001096
+Iori...,伊織,Iori,0.5,0.923558
+You realize I'm in this room.,俺も いるんだぞ,I'm also,0.2222222222222222,0.31844193
+120 yen for every peek.,（伊織）ひとチラにつき 120円,120 yen per chira,0.25,0.6592199
+You're charging money?,金 取るのかよ,Do you get money,0.2857142857142857,0.42996466
 But that's a pretty reasonable price.,"そのわりには
 良心的な価格設定だな あっ","Thatually
-It is a conscientious price setting",0.15384615384615385
-"What's your next topic, Nagase?",永瀬の次のネタは何なんだ？,What is the next story of Nagase?,0.3333333333333333
+It is a conscientious price setting",0.15384615384615385,0.45028493
+"What's your next topic, Nagase?",永瀬の次のネタは何なんだ？,What is the next story of Nagase?,0.3333333333333333,0.6868462
 "Yup, I've been thinking about","文研新聞に足りないものについて
 考えてたんだけどね","About something that is not enough for Senken Shimbun
-I thought, though",0.17647058823529413
-and I concluded that we need to add,足りないという結論に至りました,It was concluded that it is not enough,0.15384615384615385
+I thought, though",0.17647058823529413,0.17918144
+and I concluded that we need to add,足りないという結論に至りました,It was concluded that it is not enough,0.15384615384615385,0.47107488
 a sexy and dangerous element!,"エロティックで
 デンジャラスな成分が—","Erotic
-Dangerous ingredients-",0.125
+Dangerous ingredients-",0.125,0.44895977
 It can't hurt to spice \Nthings up once in a while.,"たまには
 そういうのもありだと思う","Once in a while
-I think that is also that",0.2222222222222222
+I think that is also that",0.2222222222222222,0.26011565
 "So Inaban, go for the sexy angle this time.","…てなわけで 稲葉ん
 今度はエロにも挑戦","... Inaba-san
-This time also challenged erotic",0.125
+This time also challenged erotic",0.125,0.44474027
 Don't ask an innocent high school \Ngirl to write something erotic.,"高１の純情な乙女に
 エロネタを書かそうとするな","To a high 1 pure maiden
-Don't write eroneta",0.2777777777777778
+Don't write eroneta",0.2777777777777778,0.26910216
 You just have to model \Nfor a couple sexy shots.,"つうか お前のほうが
 美少女なんだから—","You are
-Because it is a beautiful girl-",0.11764705882352941
+Because it is a beautiful girl-",0.1176470588235294,0.23211977
 Wouldn't this be right up your alley?,"そういうのに
 向いてるんじゃないのか","Anywhere
-Aren't you right?",0.25
+Aren't you right?",0.25,0.33351728
 I'm more like an idol who's \Nnot supposed to show any skin.,"ノンノン
 私は脱いだらダメなアイドルタイプ","Non-no
-I'm sorry I'm sorry Idol Type",0.16666666666666666
+I'm sorry I'm sorry Idol Type",0.16666666666666666,0.4737769
 we turn to you.,"いや 案外 大人っぽい魅力のほうが
 受けるんじゃない？","It is better to be an unexpected adult-like attraction
-Aren't you going to receive?",0.1111111111111111
+Aren't you going to receive?",0.1111111111111111,0.16222711
 I don't think boys in high \Nschool are looking for that.,"妖艶さなんて 高校生男子に
 需要があるとも思えんぞ","Bewitching to high school girls
-I think there is a demand",0.14285714285714285
-Then let's ask one of those \Nboys in high school.,じゃ 高校生男子に聞いてみよう,Let's ask high school boys,0.38461538461538464
-Y-You want me to pick?,あっ お… 俺？,Oh ... me?,0.25
-Well...,ど… どっちにって,... Which one,0.25
+I think there is a demand",0.14285714285714285,0.5839565
+Then let's ask one of those \Nboys in high school.,じゃ 高校生男子に聞いてみよう,Let's ask high school boys,0.38461538461538464,0.84516
+Y-You want me to pick?,あっ お… 俺？,Oh ... me?,0.25,0.20374957
+Well...,ど… どっちにって,... Which one,0.25,0.31792247
 Yaegashi Taichi demands that \Ntwo female club members strip.,"女子部員２人に対して
 服を脱ぐよう要求","For 2 female members
-Request to take off her clothes",0.1111111111111111
+Request to take off her clothes",0.1111111111111111,0.42790452
 Of course.,"（姫子）もちろんだ 今月の
 編集後記は これで決まりだな","Of course this month's
-Editor's later she is decided by this",0.16666666666666666
+Editor's later she is decided by this",0.16666666666666666,0.13709502
 "I-I know I already said it, \Nso I can't take it back,","い… 一応 言ったのは事実だから
 否定できないけど—","... because it is a fact that I said
-I can not deny-",0.14285714285714285
-but can you at least \Nleave my name out of it?,えっと どうしたのかな,How did you do it?,0.2
-Um...,結構 勇気がいるっていうか…,It is quite courage ...,0.16666666666666666
+I can not deny-",0.14285714285714285,0.4317231
+but can you at least \Nleave my name out of it?,えっと どうしたのかな,How did you do it?,0.2,0.20156063
+Um...,結構 勇気がいるっていうか…,It is quite courage ...,0.16666666666666666,0.21047607
 "Well, we figured it would be a good \Nidea to talk to someone else.","（義文）
-ああ ホント 話そうとすると—","Oh, I try to talk about",0.15789473684210525
-I guess...,実は俺たち 昨日の夜…,Actually I'm yesterday night ...,0.2857142857142857
-Spit it out!,いざとなると やっぱりね,After all it is,0.14285714285714285
+ああ ホント 話そうとすると—","Oh, I try to talk about",0.15789473684210525,0.37840867
+I guess...,実は俺たち 昨日の夜…,Actually I'm yesterday night ...,0.2857142857142857,0.21601391
+Spit it out!,いざとなると やっぱりね,After all it is,0.14285714285714285,0.21138956
 Our souls traded places!,"（姫子）フン！
 （義文）アアッ…","Hun!
- AAA ...",0.125
-"Oh, overhead chop.",おお 脳天唐竹割,Brain carpenter,0.0
-That wasn't a joke!,魂が入れ代わってたんだ！,The soul was replaced!,0.2222222222222222
+ AAA ...",0.125,0.18932557
+"Oh, overhead chop.",おお 脳天唐竹割,Brain carpenter,0.0,0.25144103
+That wasn't a joke!,魂が入れ代わってたんだ！,The soul was replaced!,0.2222222222222222,0.23195486
 I'm more shocked,"（義文）ボケじゃないって
 大真面目に言ってるんだよ 俺は","It is not a blur
-I'm telling you seriously",0.16666666666666666
+I'm telling you seriously",0.16666666666666666,0.11884959
 by the fact that Inaba hits \Npeople for making bad jokes.,"稲葉に殴られるという事実のほうが
 衝撃なんだが","The fact that it is beaten by Inaba
-I'm an impact",0.2631578947368421
+I'm an impact",0.2631578947368421,0.6377934
 Did you escape to the world of dreams,"ひょっとして 唯にフラれすぎて
 ドリームの世界に行っちゃったとか","It is too much to be him
-I went to the world of dream",0.23529411764705882
+I went to the world of dream",0.2352941176470588,0.42747504
 That's not what this is about!,"そういう話じゃない
 唯も同じ経験したんだから なあ","It's not like that
-Because Yui also experienced, she",0.1875
-Yeah.,うん,Yes,0.0
+Because Yui also experienced, she",0.1875,0.23811193
+Yeah.,うん,Yes,0.0,0.5302519
 "Yesterday, I woke up in \Nthe middle of the night","ゆうべ 夜中に目が覚めてさ
 見回したら見たことない部屋にいて","I woke up in the middle of the night
-In a room that has never been seen when looking around",0.38095238095238093
+In a room that has never been seen when looking around",0.3809523809523809,0.6045444
 "When I looked in the mirror, \NI saw Yui's face and panicked.","鏡 見たら
 唯の顔になってパニクって","If you look at the mirror
-It became the only face and panic",0.17391304347826086
+It became the only face and panic",0.17391304347826084,0.60416394
 "I thought it was just a bad dream,","これは悪い夢だって思ったから
 すぐベッドに潜り込んで","Because I thought this was a bad dream
-Divide into the bed soon",0.375
-so I hid under the covers.,私も同じ,I'm the same,0.2222222222222222
+Divide into the bed soon",0.375,0.6813349
+so I hid under the covers.,私も同じ,I'm the same,0.2222222222222222,0.20292743
 "When I opened my eyes again, \Neverything was back to normal.","気がついたら
 元に戻ってたんだけど","When you care
-I was back to the original",0.29411764705882354
+I was back to the original",0.29411764705882354,0.33889338
 That couldn't have been real!,"やっぱり あれが現実とか
 ありえない","After all that is reality
-Impossible",0.08333333333333333
+Impossible",0.08333333333333333,0.37073162
 Aoki! Don't make me part \Nof your creepy fantasies!,"青木 勝手に変な妄想に
 巻き込まないでくれる","Aoki's funny delusion
-Do not get caught up",0.1111111111111111
+Do not get caught up",0.1111111111111111,0.5340325
 You're turning on me?!,"（義文）えっ？
 （唯）うん ない やっぱりない","?
- no no good",0.1111111111111111
-That had to be a nightmare!,あれは やっぱり悪い夢だったの,That was a bad dream after all,0.16666666666666666
+ no no good",0.1111111111111111,0.21299095
+That had to be a nightmare!,あれは やっぱり悪い夢だったの,That was a bad dream after all,0.16666666666666666,0.5284324
 "in which we happened to switch \Nbodies at the same time,","（義文）じゃ 俺たちは
 同じような夢を見て—","Let us
-Look at the same dream-",0.1875
+Look at the same dream-",0.1875,0.21047325
 was also moved around in the real world?,"偶然 同じように
 現実世界で動いてたって？","In the same way
-Did you move in the real world?",0.35714285714285715
+Did you move in the real world?",0.35714285714285715,0.7044549
 Did that make sense to you?,"（伊織）今の分かった？
 （姫子）大体はな","did you understand now?
- roughly",0.3
+ roughly",0.3,0.4070014
 "Besides, why would it be you and me?!","だから もうこのまま
 つきあったらいいじゃん","So this is already
-It would be nice if there is",0.16666666666666666
+It would be nice if there is",0.16666666666666666,0.14966685
 "Well, you could chalk it up to \Nfate or karma from a past life.","まあ それは運命っつうか
 前世からの因縁っつうか","Well, it's fate
-Is it the cause from the previous life?",0.21739130434782608
+Is it the cause from the previous life?",0.21739130434782608,0.46150306
 Iori!,"（唯）伊織 変態が
 キモい言いがかりつけてくるよ","Iori Hentai
-I'm sorry I caught it",0.125
-You don't have to be so mean about it.,うう… そこまで嫌がらなくても,Um ... Even if you don't hate it,0.25
-"Okay, but...",…て言われても,... even if it is said,0.1111111111111111
+I'm sorry I caught it",0.125,0.58303106
+You don't have to be so mean about it.,うう… そこまで嫌がらなくても,Um ... Even if you don't hate it,0.25,0.3470649
+"Okay, but...",…て言われても,... even if it is said,0.1111111111111111,0.29506803
 I left my notebook in the classroom!,"（伊織）
-あっ！ 教室にノート 忘れた",Ah!I forgot the notes in the classroom,0.45454545454545453
+あっ！ 教室にノート 忘れた",Ah!I forgot the notes in the classroom,0.4545454545454545,0.5900636
 Don't ask me for permission.,"ここの部長は お前だろう
 私の許可を求めるな","The manager here will be you
-Don't ask for my permission",0.35714285714285715
+Don't ask for my permission",0.35714285714285715,0.66526693
 Iori is the only person \Nwho can give Inaba fits.,"うっ… 稲葉も伊織にだけは
 お手上げね","Uh ... Inaba and Iori only
-Brise",0.2
+Brise",0.2,0.8035842
 Or maybe she's just clueless?,"伊織ちゃんなりの気配りかな
 それとも天然？","Iori's attentive
-Or is it natural?",0.25
+Or is it natural?",0.25,0.08424401
 "Well, why don't we have tea now?","とりあえず お茶でも飲むか
 永瀬の分も入れといてやろう","For now, do you drink too much?
-Let's do the minutes of Nagase",0.19047619047619047
-"Yeah, you're...",ああ そうだな,Oh yeah,0.16666666666666666
-I was...,俺は… 声が,I ...,0.6666666666666666
-My voice?,（伊織：太一）えっ？,?,0.3333333333333333
-This is...,ウソだろう これは…,This is a lie ...,0.6
-Th-These are...,あっ おっ あっ…,Oh ...,0.25
-It's my first time touching them.,初めて触ったけど,I touched it for the first time,0.25
+Let's do the minutes of Nagase",0.19047619047619047,0.33031163
+"Yeah, you're...",ああ そうだな,Oh yeah,0.16666666666666666,0.27061626
+I was...,俺は… 声が,I ...,0.6666666666666666,0.47484973
+My voice?,（伊織：太一）えっ？,?,0.3333333333333333,0.23926675
+This is...,ウソだろう これは…,This is a lie ...,0.6,0.41027528
+Th-These are...,あっ おっ あっ…,Oh ...,0.25,0.21502355
+It's my first time touching them.,初めて触ったけど,I touched it for the first time,0.25,0.7114665
 But these are a girl's...,"女の子の 女性の
 “お”から始まる…","Girl woman
-Starting with ""O"" ...",0.15384615384615385
-"Nagase-san, what are you doing?",（麻衣子(まいこ)）永瀬さん 何してるの？,) Nagase What are you doing?,0.5555555555555556
-Nagase?,永瀬さん？,Nagase?,1.0
-U-Um...,（伊織：太一）あっ えっ えっと…,Yes Ehen ...,0.25
+Starting with ""O"" ...",0.15384615384615385,0.33598474
+"Nagase-san, what are you doing?",（麻衣子(まいこ)）永瀬さん 何してるの？,) Nagase What are you doing?,0.5555555555555556,0.8150591
+Nagase?,永瀬さん？,Nagase?,1.0,1.0000001
+U-Um...,（伊織：太一）あっ えっ えっと…,Yes Ehen ...,0.25,0.306839
 It's more effective when someone \Nelse fondles them for you.,"人にやってもらったほうが
 いいじゃない いろいろと","If you get to people
-It is not good she is various",0.09523809523809523
-I'll be fine.,（麻衣子）自分でやるより—,than I do myself-,0.125
-I'm very good with my hands.,い… いえ 間に合ってるんで,Yes ... I'm in time,0.16666666666666666
-We can talk this through.,ええ 話し合いましょう 体で,Yeah talking,0.0
+It is not good she is various",0.09523809523809523,0.20267195
+I'll be fine.,（麻衣子）自分でやるより—,than I do myself-,0.125,0.18703036
+I'm very good with my hands.,い… いえ 間に合ってるんで,Yes ... I'm in time,0.16666666666666666,0.1845229
+We can talk this through.,ええ 話し合いましょう 体で,Yeah talking,0.0,0.35974196
 B-Bodies?!,"（伊織：太一）か… 体？
 （太一：伊織）太一！","... Body?
-!",0.4
+!",0.4,0.6575563
 Me?!,"（伊織：太一）俺？
 （麻衣子）八重樫君","me?
- Yao Ohaki",0.4
-I need me... That's not it either.,私… でもなくて,I'm not ...,0.2727272727272727
+ Yao Ohaki",0.4,0.39706272
+I need me... That's not it either.,私… でもなくて,I'm not ...,0.2727272727272727,0.2690982
 "Sorry, but I need Nagase Iori for something.","永瀬伊織に用があったんなら
 ごめん","Nagase Iori was used
-sorry",0.25
-"This is an emergency, so we're leaving.",今 大事なところなのよ,It is an important thing now,0.14285714285714285
+sorry",0.25,0.85499346
+"This is an emergency, so we're leaving.",今 大事なところなのよ,It is an important thing now,0.14285714285714285,0.2205922
 "I can't deny that it was about to get busy,","何か２人とも
 話し方がおかしくない？","Anything
-Isn't it funny?",0.125
-"but please let me go, Fujishima!",離してくれ 藤島,Release me Fujishi,0.1
+Isn't it funny?",0.125,0.16910388
+"but please let me go, Fujishima!",離してくれ 藤島,Release me Fujishi,0.1,0.63896644
 "See? Taichi says, I mean...","（太一：伊織）いいから 離して
 （伊織：太一）ウアーッ…","Release
- Wear ...",0.1
-Nagase says to let her go!,こうなったら！,When it comes to this!,0.18181818181818182
+ Wear ...",0.1,0.15575777
+Nagase says to let her go!,こうなったら！,When it comes to this!,0.18181818181818185,0.17544714
 before I let you take Nagase-san!,"とにかく
 永瀬さんを連れていくのなら—","anyway
-If you take Nagase-san-",0.2
+If you take Nagase-san-",0.2,0.8352562
 Stop!,"（太一：伊織）うりうり うりうり…
 （麻衣子）アッ やめて ワワワッ","Uri Ri Ri ...
- I stop myself",0.14285714285714285
+ I stop myself",0.14285714285714285,0.3343481
 "You're Nagase, right?","お… おい 永瀬
 お前 永瀬なんだろう？","Oh ... Nagase
-Are you Nagase?",0.3333333333333333
-Let's just run away!,つうか もういいから逃げるぞ,I'm going to run away because I'm already good,0.15384615384615385
-"I was looking for my notebook,",ああ びっくりした,"Oh, I was surprised",0.3333333333333333
+Are you Nagase?",0.3333333333333333,0.935706
+Let's just run away!,つうか もういいから逃げるぞ,I'm going to run away because I'm already good,0.15384615384615385,0.4742727
+"I was looking for my notebook,",ああ びっくりした,"Oh, I was surprised",0.3333333333333333,0.16070132
 "when all of a sudden, I \Nwas back in the club room.","忘れたノート 探してたら
 急に目の前が部室になってさ","If you look for a forgotten notebook
-Suddenly the front of the eyes is in the club room",0.25
+Suddenly the front of the eyes is in the club room",0.25,0.5351598
 Everyone was calling me Taichi.,"みんなが私のこと 太一って呼ぶし
 焦って飛び出してきちゃった","Everyone calls me one thigh
-I flew out",0.16666666666666666
+I flew out",0.16666666666666666,0.36573547
 So Aoki and Kiriyama,"青木と桐山が言ってたの
 ホントだったんだな","Aoki and Mountain said
-It was true",0.2222222222222222
-What is it this time?,…で今度は何の冗談だ,This time is what jokes,0.5714285714285714
-Looks like Taichi and I traded places.,私と太一,I and Taichi,0.375
+It was true",0.2222222222222222,0.4225664
+What is it this time?,…で今度は何の冗談だ,This time is what jokes,0.5714285714285714,0.58747786
+Looks like Taichi and I traded places.,私と太一,I and Taichi,0.375,0.66372526
 Is my normal laugh really that bad?,"ふだんの俺の笑い方って
 そんなにひどいのか","I usually laugh
-Is it so bad?",0.3333333333333333
+Is it so bad?",0.3333333333333333,0.84659904
 Why you...,"いつもの感じで
 物理攻撃 加えようと思ったら…","With the usual feeling
-If you want to add physical attacks ...",0.15384615384615385
-Shut up!,あっ…,Ah…,0.0
-I got it.,今 絶対 手ぇ痛かったろう,It's absolutely aching now,0.125
+If you want to add physical attacks ...",0.15384615384615385,0.23141955
+Shut up!,あっ…,Ah…,0.0,0.27169296
+I got it.,今 絶対 手ぇ痛かったろう,It's absolutely aching now,0.125,0.13052574
 "was that Taichi mumbled one \Nof his signature one-liners,","今のは あれだ
 多分 太一が得意とする—","That's now
-Many Taichi I'm good at",0.11764705882352941
-but he looks like Iori-chan now!,“姿 形は伊織ちゃんじゃん！”,"""The shape is Iori-chan!""",0.16666666666666666
+Many Taichi I'm good at",0.1176470588235294,0.5635216
+but he looks like Iori-chan now!,“姿 形は伊織ちゃんじゃん！”,"""The shape is Iori-chan!""",0.16666666666666666,0.6933514
 But I've never seen Inaba look so happy.,"青木ごときに上から目線で
 語られてる稲葉があわれだわ","Looking from above by Aoki
-I'm talking about Inaba",0.1111111111111111
+I'm talking about Inaba",0.1111111111111111,0.58383924
 That's because you guys are \Nputting on such a weird act.,"うっ… それは
 お前らが変な演技をするから","Uh ... it
-Because you make strange performance",0.10526315789473684
+Because you make strange performance",0.10526315789473684,0.32940015
 I'm Yaegashi Taichi.,"信じてくれ
 俺が八重樫太一なんだ","Believe
-I'm Hakata Taichi",0.42857142857142855
+I'm Hakata Taichi",0.42857142857142855,0.7347768
 "Yui, Aoki, what do you think?","（姫子）
-唯と青木は どう思うんだ？",What do you think of Yui and Aoki?,0.7
-"I hate to admit it, but I agree.",うん 認めるしかないわね,I have no choice but to admit,0.3333333333333333
+唯と青木は どう思うんだ？",What do you think of Yui and Aoki?,0.7,0.86766243
+"I hate to admit it, but I agree.",うん 認めるしかないわね,I have no choice but to admit,0.3333333333333333,0.45997182
 "I mean, after seeing Iori \Nand Taichi like this...","そうよ だって伊織と太一の
 こんなとこ 見せられたら…","That's right, Iori and Taichi
-If you can see such a cousin ...",0.18181818181818182
+If you can see such a cousin ...",0.18181818181818185,0.7293302
 "Well, once you've experienced the \Nswitch, it's like, so that's it?","あっ そうなんだって
 感じなんだってば","That's right
-If it feels like",0.23529411764705882
-I'm getting a headache.,あっ 頭痛くなってきた,There is a headache,0.25
+If it feels like",0.2352941176470588,0.32150513
+I'm getting a headache.,あっ 頭痛くなってきた,There is a headache,0.25,0.6931735
 I'll ask you one more time.,"すると お前は
 太一しか知らないことを—","Then you
-I do not know only Tai-",0.14285714285714285
+I do not know only Tai-",0.14285714285714285,0.14129208
 You guys aren't fooling around \Nor anything like that?,"お前ら おふざけでも
 何でもなくて—","You guys
-Nothing-",0.16666666666666666
+Nothing-",0.16666666666666666,0.42501023
 Iori and Taichi have really switched bodies?,"本当に伊織と太一の人格が
 入れ代わったっていうんだな","Really Iori and Taichi Personality
-I say that I was replaced",0.2857142857142857
-"Yeah, you can ask me anything.",ああ 何でもいいから質問してくれ,"Oh, ask questions because anything",0.2727272727272727
+I say that I was replaced",0.2857142857142857,0.6782946
+"Yeah, you can ask me anything.",ああ 何でもいいから質問してくれ,"Oh, ask questions because anything",0.2727272727272727,0.56752324
 I expect an answer in a split second.,"（姫子）コンマ数秒で答えろよ
 （伊織：太一）分かった","Answer in a few seconds in commas
- I understood",0.3076923076923077
-Got it.,知っているということになる,It will be known,0.16666666666666666
+ I understood",0.3076923076923077,0.40765318
+Got it.,知っているということになる,It will be known,0.16666666666666666,0.14124115
 What's the title of the last adult \Nfilm that Taichi borrowed from Aoki?!,"最近 太一が青木から借りた
 アダルトビデオのタイトルは？","Recently Taiichi borrowed from Aoki
-What is the title of the adult videos?",0.47368421052631576
+What is the title of the adult videos?",0.4736842105263158,0.7873354
 You don't even know the \Nanswer to that question!,"そこは今 関係ない
 答え合わせは青木がやってくれる","I have nothing to do there
-Aoki will do the answer",0.16666666666666666
-What's the answer?,…で太一 答えは？,... What is the answer?,0.5714285714285714
-Uh...,えっと…,Well ...,0.3333333333333333
-"Big jugs, huh?",巨乳ね,Big tits,0.16666666666666666
+Aoki will do the answer",0.16666666666666666,0.28805634
+What's the answer?,…で太一 答えは？,... What is the answer?,0.5714285714285714,0.7797973
+Uh...,えっと…,Well ...,0.3333333333333333,0.6265383
+"Big jugs, huh?",巨乳ね,Big tits,0.16666666666666666,0.44692856
 Could you let me whisper \Nthe answer in Aoki's ear?,"青木に耳打ちするという形で
 勘弁してもらえませんか","In the form of playing with Aoki
-Could you forgive me",0.2777777777777778
-"Well, Aoki?",（姫子）どうだった？ 青木,How was it?Aoki,0.2857142857142857
-"Wait, did I just get hosed?",あれ？ 何かすげえ損した気分,that?I felt something bad,0.16666666666666666
-"Now that we've established that both of \Nthe male club members like big jugs,",巨乳好きと分かったところで,I understand that I love big tits,0.10526315789473684
+Could you forgive me",0.2777777777777778,0.5553293
+"Well, Aoki?",（姫子）どうだった？ 青木,How was it?Aoki,0.2857142857142857,0.66877246
+"Wait, did I just get hosed?",あれ？ 何かすげえ損した気分,that?I felt something bad,0.16666666666666666,0.21260287
+"Now that we've established that both of \Nthe male club members like big jugs,",巨乳好きと分かったところで,I understand that I love big tits,0.10526315789473684,0.33309546
 Is that true?!,"えっ ちょ…
 稲葉ん それ ホントなの？","E.
-Inabaan It is true?",0.375
+Inabaan It is true?",0.375,0.27172628
 But I guess that's what \Nit means to grow up.,"絶対に稲葉だけは
 敵に回したくないわね","Absolutely only Inabe
-I do not want to turn to the enemy",0.09523809523809523
+I do not want to turn to the enemy",0.09523809523809523,0.12554342
 What did Inaba-chan just tell her?,"今 稲葉ちゃん
 何言ったんだろうな","Now Inaba-chan
-What did you say?",0.4
-But if I compare the likelihood of Taichi \Nreacting in such an animated fashion,（姫子）演技でも太一が—,Even in the acting theater-,0.11764705882352941
+What did you say?",0.4,0.79089415
+But if I compare the likelihood of Taichi \Nreacting in such an animated fashion,（姫子）演技でも太一が—,Even in the acting theater-,0.1176470588235294,0.18067805
 "to the likelihood of two \Npeople swapping bodies,","人と人の間で人格が
 入れ代わる可能性を考えたら—","Personality among people and people
-When considering the possibility of replacing",0.11764705882352941
-the latter is easier to swallow.,後者のほうが まだありそうだ,The latter is still likely,0.3333333333333333
+When considering the possibility of replacing",0.1176470588235294,0.22088495
+the latter is easier to swallow.,後者のほうが まだありそうだ,The latter is still likely,0.3333333333333333,0.2894193
 How am I supposed to \Ninterpret that statement?,"（伊織：太一）その見解に
-俺は どう反応すればいいんだ",I should respond to him,0.16666666666666666
-"Hm, what to do?",うん… どうしますかな,Yeah ... what do you do?,0.3333333333333333
-"Aoki, Kiriyama, how long were \Nyou in each other's bodies?",どれくらいだったんだ？,How long was it?,0.2
-"Thirty or forty minutes, I think.",（義文）30〜40分ってとこかな,30-40 minutes,0.1111111111111111
+俺は どう反応すればいいんだ",I should respond to him,0.16666666666666666,0.08503473
+"Hm, what to do?",うん… どうしますかな,Yeah ... what do you do?,0.3333333333333333,0.50826323
+"Aoki, Kiriyama, how long were \Nyou in each other's bodies?",どれくらいだったんだ？,How long was it?,0.2,0.40055242
+"Thirty or forty minutes, I think.",（義文）30〜40分ってとこかな,30-40 minutes,0.1111111111111111,0.7988225
 Is time a factor?,"やっぱり時間が
 関係しているのかしら","After all time
-Is it related to",0.2
-Or mayb—,それとも…,Or ...,0.3333333333333333
-Are you okay?,どうした？ 大丈夫か？,What happened? Are you okay?,0.6666666666666666
-We're back to normal!,（太一･伊織）ああ… 元に戻った,Oh ... I returned to the original,0.08333333333333333
+Is it related to",0.2,0.3097949
+Or mayb—,それとも…,Or ...,0.3333333333333333,0.32454178
+Are you okay?,どうした？ 大丈夫か？,What happened? Are you okay?,0.6666666666666666,0.7722941
+We're back to normal!,（太一･伊織）ああ… 元に戻った,Oh ... I returned to the original,0.08333333333333333,0.22515209
 "Well, let's just say that \Nit's been a strange day.","あんまり
 人に言わないことにしようよ","not really
-Let's say that people do not say",0.23529411764705882
+Let's say that people do not say",0.2352941176470588,0.3132315
 Was this a one day phenomenon?,"分からん この現象が
 今日１日だけのものだったのか","I do not know this phenomenon
-Was it only one day today?",0.42857142857142855
+Was it only one day today?",0.42857142857142855,0.8674267
 Or something that only \Nhappens to the four of you?,"お前ら４人だけに
 生じたことだったのか","Only four people
-Was it happened?",0.2
-Was this really a one day thing?,ホントに今日１日で済むのかな,I really have one day today,0.2727272727272727
-"Hey, welcome home.",（義文の父）おう おかえり,Welcome,0.2
-"Hey, Himeko.",おう 姫子 帰ってたのか,Himeko returned home,0.16666666666666666
-Isn't that obvious?,あっ ただいま,There is,0.16666666666666666
-"Oh, I'm fine.",ああ 平気よ 平気,"Oh, I'm fine",0.8333333333333334
+Was it happened?",0.2,0.31488118
+Was this really a one day thing?,ホントに今日１日で済むのかな,I really have one day today,0.2727272727272727,0.57840586
+"Hey, welcome home.",（義文の父）おう おかえり,Welcome,0.2,0.4416762
+"Hey, Himeko.",おう 姫子 帰ってたのか,Himeko returned home,0.16666666666666666,0.6480084
+Isn't that obvious?,あっ ただいま,There is,0.16666666666666666,0.16354999
+"Oh, I'm fine.",ああ 平気よ 平気,"Oh, I'm fine",0.8333333333333334,0.95828474
 Nothing you need to worry about.,"ちょっと寝不足だっただけ
 心配しなくていいわ","I just lacked in bed
-I do not need to worry",0.21428571428571427
-Bye.,（莉奈）お兄ちゃん,Brother,0.0
-I'm in fifth grade now!,私 もう５年生なんだからね,I'm already fifth grade,0.5
-You don't want any?,ご苦労さん アイスでも食べるか？,Do you eat with your hardships?,0.3
+I do not need to worry",0.21428571428571427,0.36551207
+Bye.,（莉奈）お兄ちゃん,Brother,0.0,0.22428949
+I'm in fifth grade now!,私 もう５年生なんだからね,I'm already fifth grade,0.5,0.8020344
+You don't want any?,ご苦労さん アイスでも食べるか？,Do you eat with your hardships?,0.3,0.19005549
 Did three people switch bodies this time?,"（伊織）ひょっとして 今度は
 ３人で入れ代わっちゃったのかな","Hiyoshi this time
-I wondered if I put it in three people",0.26666666666666666
+I wondered if I put it in three people",0.26666666666666666,0.47350273
 That's not who I am.,"（後藤(ごとう)）
 僕 その人じゃないですしね",")
-I'm not a person",0.18181818181818182
+I'm not a person",0.18181818181818185,0.5114713

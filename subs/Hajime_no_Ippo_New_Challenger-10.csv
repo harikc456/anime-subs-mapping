@@ -1,16 +1,16 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 Tell Makunouchi Ippo...,"幕之内一歩に
 伝えておいてください","Makumonouchi one step
-Please tell me",0.1111111111111111
+Please tell me",0.1111111111111111,0.4272809
 that I'm serious...,"自分は本気で
 ベルトを狙ってる…
 
 とね","I'm serious
 I'm aiming for a belt ...
 
-In",0.4
-Wanpo! You came to get us?,情にもろいか…,Do you want to feel?,0.2727272727272727
-Everyone noticed that I wasn't doing well hitting the mitt.,皆に見抜かれちゃいましたね,I was able to see everyone,0.2
+In",0.4,0.22584392
+Wanpo! You came to get us?,情にもろいか…,Do you want to feel?,0.2727272727272727,0.20696124
+Everyone noticed that I wasn't doing well hitting the mitt.,皆に見抜かれちゃいましたね,I was able to see everyone,0.2,0.36668995
 Upper and lower classmen must punch each other in front of 3000 spectators.,"3000
 人の前で
 
@@ -23,43 +23,43 @@ In front of people
 upperclassman
 
 Junior
-I have to fight",0.19047619047619047
+I have to fight",0.19047619047619047,0.6760442
 But I must do it.,"でも…
 
 やらなきゃ","but…
 
-I have to do it",0.3333333333333333
-I can't give up the belt.,ベルトは渡せないし,I can not pass the belt,0.2727272727272727
-Can you really do it?,やれるかしら？,Can you do it?,0.8333333333333334
+I have to do it",0.3333333333333333,0.8072366
+I can't give up the belt.,ベルトは渡せないし,I can not pass the belt,0.2727272727272727,0.7676557
+Can you really do it?,やれるかしら？,Can you do it?,0.8333333333333334,0.7162584
 You may not be able to punch at all.,"パンチそのものが
 出せなくなるかもしれないわよ","Punch itself
-It may not be possible to go out",0.3333333333333333
+It may not be possible to go out",0.3333333333333333,0.74764615
 a boxer who's sent in to be beaten up in public.,"大衆の面前で
 
 やられ役として
 リングに上がるボクサー","In front of the public
 
 As a result
-Boxer going up to the ring",0.3157894736842105
+Boxer going up to the ring",0.3157894736842105,0.7272596
 Some do it for the love of boxing.,"ある者は
 
 ボクシングが
 好きだという理由で","Is
 
 Boxing
-Because it likes",0.16666666666666666
+Because it likes",0.16666666666666666,0.6789023
 Some do it for money.,"ある者は
 
 お金のため
 勝てないと知りつつ","Is
 
 For money
-While he can not win",0.16666666666666666
+While he can not win",0.16666666666666666,0.32497185
 And that's...,"つまり
 
 それが…","in short
 
-that is…",0.14285714285714285
+that is…",0.14285714285714285,0.3757445
 Hammer Nao; Yamada Naomichi.,"ハンマー
 ･
 ナオ
@@ -68,7 +68,7 @@ Hammer Nao; Yamada Naomichi.,"ハンマー
 ·
 Nao
 
-Yamada Right",0.375
+Yamada Right",0.375,0.7913092
 Do you know Hammer Nao's record?,"一歩君は
 
 ハンマー
@@ -79,34 +79,34 @@ Do you know Hammer Nao's record?,"一歩君は
 hammer
 ·
 Nao
-Did you know your grades?",0.35714285714285715
+Did you know your grades?",0.35714285714285715,0.3949962
 "He has 8 matches, 8 wins, with 5 KOs, right?","え？
 確か…
 
 ８戦８勝５ＫＯですよね","picture?
 Certainly ...
 
-8 Battle 8 wins 5ko",0.1875
+8 Battle 8 wins 5ko",0.1875,0.43012342
 But was the Yamada Naomichi you knew the type who could reach the title match with only 8 matches?,"８勝でタイトルに
 
 たどり着ける
 器だったかしら","In the title with 8 wins
 
 Arrive
-It was a bowl",0.20833333333333334
-"Right, he didn't participate in either the Rookie King Tournament or the A-Class Tournament.",Ａ級トーナメントにも出ていない,Not in the class A tournament,0.16666666666666666
+It was a bowl",0.20833333333333331,0.31644097
+"Right, he didn't participate in either the Rookie King Tournament or the A-Class Tournament.",Ａ級トーナメントにも出ていない,Not in the class A tournament,0.16666666666666666,0.6125385
 How did he take the shortest route possible?,"ほとんど最短距離で
 
 どうやって","Almost the shortest distance
 
-how",0.2727272727272727
+how",0.2727272727272727,0.6299384
 "He's a no-name boxer who let's his opponent hit him,","無名で
 しかも
 
 打たせるボクサーだから","Anonymous
 Morely
 
-Because he is a boxer to hit",0.23529411764705882
+Because he is a boxer to hit",0.2352941176470588,0.61644864
 "No matter how much stronger the opponent was, Hammer Nao got into the ring without hesitation.","ハンマー
 ･
 ナオは
@@ -117,197 +117,197 @@ Because he is a boxer to hit",0.23529411764705882
 Nao
 Without hesitation
 
-I went up to the ring",0.2727272727272727
+I went up to the ring",0.2727272727272727,0.6588518
 And each time he won while getting badly beaten up.,"そして
 
 ボロボロになりながら","and
 
-While becoming boroboro",0.15384615384615385
+While becoming boroboro",0.15384615384615385,0.27269349
 Perhaps it's more accurate to say that he crawled up this far.,"はい上がってきたと言う方が
 適切かもしれないわね","If you say that it has come up
-It may be appropriate",0.19047619047619047
+It may be appropriate",0.19047619047619047,0.28051794
 But why?,"どうしてですか
 そんな危ない橋渡るより","Why
-Such dangerous bridge rather than",0.125
+Such dangerous bridge rather than",0.125,0.22685729
 "He hasn't changed inside, despite how different he looks.","外見は変わっても
 芯は変わってないのよ","Even though the appearance changes
-The core has not changed",0.1111111111111111
-He started boxing with Makunouchi Ippo as his goal.,彼はボクシングを始めた,He started boxing,0.3
+The core has not changed",0.1111111111111111,0.49829996
+He started boxing with Makunouchi Ippo as his goal.,彼はボクシングを始めた,He started boxing,0.3,0.62760127
 "And his goal didn't change, even after he became a boxer.","自分がボクサーになっても
 やっぱり
 
 目標は幕之内一歩なのよ","Even if you become a boxer
 on second thoughts
 
-The goal is Maku Nobo one step",0.15384615384615385
+The goal is Maku Nobo one step",0.15384615384615385,0.46363
 Senpai!,"先輩！
 なぜ彼が
 
 そこまで","upperclassman!
 Why he
 
-There",0.16666666666666666
+There",0.16666666666666666,0.22633526
 But he must have reached his final goal through extremely hard work.,"けど
 
 彼は必死になって","but
 
-He is desperate",0.13333333333333333
+He is desperate",0.13333333333333333,0.3270597
 His final goal...,"最終目標まで
 たどり着いたんだわ","To the final goal
-I arrived",0.25
+I arrived",0.25,0.65770286
 Yes.,"そう
 
 幕之内一歩との試合","Yes
 
-Maku Nonouchi match with one step",0.125
+Maku Nonouchi match with one step",0.125,0.21286193
 A match against Makunouchi Ippo must be a bigger goal for him than a world title.,"彼にとって
 
 それは
 世界タイトル以上の夢のはずよ","for him
 
 that is
-It should be a dream more than the world title",0.3181818181818182
+It should be a dream more than the world title",0.3181818181818182,0.47917295
 I'm sure he will fight you very desperately.,"それこそ
 
 死に物狂いで
 かみついてくるはず","It is
 
 I'm crazy
-It should come back",0.125
-Setting me as his goal...,僕を目標にして…,Target me ...,0.2857142857142857
-"and yet, Yamada-kun...",山田君は…,Yamada-kun ...,0.4
+It should come back",0.125,0.060309034
+Setting me as his goal...,僕を目標にして…,Target me ...,0.2857142857142857,0.504782
+"and yet, Yamada-kun...",山田君は…,Yamada-kun ...,0.4,0.8731481
 You met Yamada-kun?,"え？会ってきたんですか
 山田君に","picture?Did you meet
-To Yamada",0.2222222222222222
+To Yamada",0.2222222222222222,0.74235374
 He looked mean.,"嫌な感じだったぜ
 あいつは
 
 もうゲロ道じゃねえ","It was a disgusting feeling
 Aya
 
-It's already Gero",0.0
+It's already Gero",0.0,0.18234462
 The old man won't let you hit the mitt yet?,"脇を締めんか！
 じじぃ
 
 まだミット","Tighten the side!
 Feisure
 
-Mitt still",0.125
+Mitt still",0.125,0.4541062
 I guess I made him very mad.,"ほんとに
 
 ふ抜けに
 なっちまったのかよ","very
 Cowardly
-I wondered",0.2222222222222222
+I wondered",0.2222222222222222,0.272098
 "I know, sorry.","うん
 
 ごめん","Yes
 
-sorry",0.16666666666666666
+sorry",0.16666666666666666,0.29305875
 "Yes, I want to be a world-class boxer.","そりゃあ
 
 世界に通用する
 ボクサーになりたいですね","That
 
 Take over the world
-I want to be a boxer",0.4
+I want to be a boxer",0.4,0.87694263
 "The higher the goal is, the more it's worth achieving.","高ければ高いほど
 やりがいがあるし","The higher the height
-There is a problem",0.2
+There is a problem",0.2,0.2691974
 Wh-What's the matter?,"板垣君
 
 君は目標とか
 そういうのってある？","Wood-old
 
 You are the goal
-That's why?",0.2727272727272727
+That's why?",0.2727272727272727,0.17064321
 A goal must be set high.,"目標は
 
 高くなきゃいけない","The goal
 
-I have to be high",0.2727272727272727
+I have to be high",0.2727272727272727,0.7531507
 I've been chosen as Yamada-kun's goal.,"僕は選ばれたんだ
 山田君の目標に","I was chosen
-Yamada's goal",0.36363636363636365
+Yamada's goal",0.3636363636363637,0.8795247
 I must respond to that...,"応えなきゃいけない
 
 この拳で","I have to respond
 
-With this fist",0.3
+With this fist",0.3,0.39150238
 If you try another wimpy punch...,"分かっとるな
 
 ここでまた
 ふ抜けたパンチを打ちおったら…","I understand
 
 Here again
-If you hit a punched punch ...",0.2857142857142857
+If you hit a punched punch ...",0.2857142857142857,0.5402184
 What is it?,"会長
 何じゃ？","Chairman
-What is it?",0.8
+What is it?",0.8,0.19455339
 Will Yamada-kun be okay with his weight control?,"山田君は
 減量
 
 大丈夫なんでしょうか？","Yamada
 Weight loss
 
-Will it be okay?",0.4166666666666667
+Will it be okay?",0.4166666666666667,0.7124798
 I see.,"ナチュラルウエートと判断する
 そうですか","Natural weight
-I see",0.4
-I can punch my best without worrying!,打てます！,I'm hitting!,0.2
+I see",0.4,0.12239832
+I can punch my best without worrying!,打てます！,I'm hitting!,0.2,0.39729413
 I will respond to your challenge.,"山田君
 
 君の思いに応えるよ","Yamada
 
-I will respond to your thoughts",0.5555555555555556
+I will respond to your thoughts",0.5555555555555556,0.25829998
 What's going to happen to a man who's hit by him?,"うわあ
 どうした？","Wow
-What happened?",0.14285714285714285
+What happened?",0.14285714285714285,0.23971023
 Anyone will be knocked out cold with just one shot.,"そりゃ
 一発で気持ちよくしてもらえるよ","For
-You can feel comfortable in one shot",0.11764705882352941
+You can feel comfortable in one shot",0.1176470588235294,0.49405485
 I wonder about that.,"ようやく
 
 本調子ですね
 どうかなあ","at last
 
 It is this tone
-I wonder if",0.16666666666666666
-Ippo's naiveté is well proven.,サンドバッグが縦揺れですよ,Sandbag is vertical,0.1111111111111111
+I wonder if",0.16666666666666666,0.21048623
+Ippo's naiveté is well proven.,サンドバッグが縦揺れですよ,Sandbag is vertical,0.1111111111111111,0.045569353
 "Right, Aoki?","なあ
 
 青木
 ん？","In
 
 Aoki
-Yeah?",0.3333333333333333
+Yeah?",0.3333333333333333,0.810701
 "Aoki, get in the ring!","青木
 
 リングに上がれ
 小僧とスパーじゃ","Aoki
 
 Up to the ring
-The small man and the spar",0.23076923076923078
+The small man and the spar",0.2307692307692308,0.7341353
 I think he will.,"打つと思うよ
 だよね","I think it strikes
-right",0.25
+right",0.25,0.2725302
 "So, Aoki-san is always the lab rat.","いつも
 
 青木さんが実験台なのか","everytime
 
-Is Aoki-san, is a laboratory?",0.23076923076923078
+Is Aoki-san, is a laboratory?",0.2307692307692308,0.76615125
 Not bad.,"まずまずじゃな　ええか
 
 小僧","It is not good
 
-Young monk",0.125
+Young monk",0.125,0.22870933
 "Remember, Hammer Nao is an unskilled boxer.","ハンマー
 ･
 ナオは
 不器用なファイターじゃ","hammer
 ·
 Nao
-It is a winter fighter",0.21428571428571427
+It is a winter fighter",0.21428571428571427,0.4917453
 It'll be at this distance.,"つまり
 
 この距離
@@ -318,19 +318,19 @@ It'll be at this distance.,"つまり
 This distance
 always
 
-It will fight with this",0.23076923076923078
+It will fight with this",0.2307692307692308,0.59964836
 "I am normally the one who must close in to the opponent,","いつもなら
 
 僕が
 間合いを詰めなきゃいけないのに","If always
 
 I
-I have to pack the interaction",0.17647058823529413
+I have to pack the interaction",0.17647058823529413,0.34470937
 "but this time, the opponent will come to me.","今回は
 
 相手から来てくれる","This time
 
-I will come from the other party",0.3333333333333333
+I will come from the other party",0.3333333333333333,0.5710793
 "But your best move, the Dempsey roll...","しかし
 
 逆に貴様の必勝パターン
@@ -341,18 +341,18 @@ I will come from the other party",0.3333333333333333
 Conversely, you have a victory pattern
 Dentay
 ·
-Roll ...",0.16666666666666666
-will be unusable.,使えないでしょうね,It can not be used,0.125
+Roll ...",0.16666666666666666,0.24924582
+will be unusable.,使えないでしょうね,It can not be used,0.125,0.5249179
 He won't use the Dempsey roll?,"え？デンプシー
 ･
 ロール
 使わないんですか？","picture?Dentay
 ·
 roll
-Do not use it?",0.21428571428571427
+Do not use it?",0.21428571428571427,0.35883623
 It's a move that requires some space between boxers.,"ある程度
 距離が必要な武器だからな","To some extent
-Because it is a weapon that requires distance",0.29411764705882354
+Because it is a weapon that requires distance",0.29411764705882354,0.2902209
 "We have the upper hand on every aspect, \Nincluding power, speed, and experience.","パワー
 
 スピード
@@ -361,10 +361,10 @@ Because it is a weapon that requires distance",0.29411764705882354
 
 speed
 
-Career",0.125
+Career",0.125,0.37098458
 "As a champion, face him head on,","チャンピオンとして
 正面から受けて立て","As a champion
-Trained from the front",0.25
+Trained from the front",0.25,0.60629416
 Yes!,"その上で
 
 力で
@@ -375,70 +375,70 @@ Yes!,"その上で
 With
 
 Let's screw
-Yes!",0.2857142857142857
-What great spirit!,すごい気迫を感じますよ,I feel great,0.16666666666666666
+Yes!",0.2857142857142857,0.33636755
+What great spirit!,すごい気迫を感じますよ,I feel great,0.16666666666666666,0.38832974
 I'm sure it'll be incredible if he carries that into the ring!,"これ
 このままリングに持ち込んだら","this
-If you bring it to this ring",0.15789473684210525
+If you bring it to this ring",0.15789473684210525,0.56558233
 "Yeah, it will.","すごいことになりますよ
 なるだろうなあ","It will be amazing
-It will be",0.2857142857142857
+It will be",0.2857142857142857,0.3593871
 But that's only if he can keep that spirit up.,"だが
 
 あくまで
 この気迫を持続出来たらの話だ","But
 
 Only
-It's a story when this is happening",0.16666666666666666
+It's a story when this is happening",0.16666666666666666,0.18572003
 "Yeah, Ippo has only seen Geromichi on video and in papers.","ええ
 一歩はビデオや資料の上でしか","Yes
-One step is only on video and materials",0.2222222222222222
+One step is only on video and materials",0.2222222222222222,0.20364022
 When he sees him in person...,"ああっ…
 
 あっ…","Oh ...
 
-Ah…",0.1111111111111111
+Ah…",0.1111111111111111,0.18060459
 "They didn't spend their time together all that much,","それほど長い間
 一緒に過ごしたわけじゃない","So long
-I'm not spending together",0.058823529411764705
+I'm not spending together",0.05882352941176471,0.4429128
 but they had a lot in common.,"けど
 
 あいつらには
 共通点が多かった","but
 
 There is
-There were many common points",0.15384615384615385
+There were many common points",0.15384615384615385,0.52443707
 But now they're enemies...,"それが今では敵…
 
 ですか","That's now an enemy ...
 
-Is it?",0.15384615384615385
+Is it?",0.15384615384615385,0.6167202
 "We'll find out tomorrow if he really considers Geromichi his enemy,","嫌でも顔を合わせなきゃ
 ならねえからな　明日の計量で","If you dislike your face
-If so, it's a tomorrow's weighing",0.13636363636363635
+If so, it's a tomorrow's weighing",0.13636363636363635,0.22369201
 They'll have to face each other at the weigh-in tomorrow.,"だからこそ
 本気でお互いを応援し合えた","Because
-I really helped each other",0.125
-Makunouchi-senpai!,先輩！幕之内先輩！,upperclassman!Maku no senior!,0.16666666666666666
-"At first, I was glad that he continued boxing in Hachinohe.",ほほ笑ましく思っていたんだけど,I was thinking that I laughed,0.2
+I really helped each other",0.125,0.08260786
+Makunouchi-senpai!,先輩！幕之内先輩！,upperclassman!Maku no senior!,0.16666666666666666,0.4484847
+"At first, I was glad that he continued boxing in Hachinohe.",ほほ笑ましく思っていたんだけど,I was thinking that I laughed,0.2,0.13594627
 and it still doesn't feel real that we're about to see Yamada-kun.,"これから会うのが
 山田君って実感ないんだよね","I will meet you
-Yamada You don't feel it",0.14285714285714285
+Yamada You don't feel it",0.14285714285714285,0.6261704
 He's not Yamada-kun.,"山田君じゃありません
 え？一歩君","Yamada-kun is not
-picture?One step",0.2
+picture?One step",0.2,0.8181071
 The man we're about to meet is a boxer named Hammer Nao.,"これから会うのは
 ハンマー
 ･
 ナオ選手です","From now on
 hammer
 ·
-It is Nao",0.15789473684210525
+It is Nao",0.15789473684210525,0.6241301
 Here comes Kamogawa's group.,"おっ
 
 鴨川陣営の到着だぞ","Oh
 
-It is an arrival of Kamogawa camp",0.07692307692307693
+It is an arrival of Kamogawa camp",0.07692307692307693,0.6391769
 "Ippo-kun, the challenger is already in the room.","一歩君
 
 挑戦者
@@ -447,47 +447,47 @@ It is an arrival of Kamogawa camp",0.07692307692307693
 
 challenger
 
-I'm already in",0.23076923076923078
+I'm already in",0.2307692307692308,0.48077908
 It must be difficult talking to him when you'll be fighting tomorrow.,"明日
 
 闘うのに
 そりゃあ話しづらいよねえ","tomorrow
 
 To fight
-Well, it is hard to talk",0.15789473684210525
+Well, it is hard to talk",0.15789473684210525,0.7535756
 Then would you shake hands?,"握手ですか
 そうですね
 
 それじゃあ","Is it handshake?
 is that so
 
-Well then",0.16666666666666666
-Shake hands?,失礼じゃないか,Isn't it rude?,0.14285714285714285
-"Senpai,",先輩,upperclassman,0.0
+Well then",0.16666666666666666,0.4622198
+Shake hands?,失礼じゃないか,Isn't it rude?,0.14285714285714285,0.35647318
+"Senpai,",先輩,upperclassman,0.0,0.21871698
 I'm grateful...,"先輩には
 
 感謝しています","For seniors
 
-I am grateful",0.2857142857142857
+I am grateful",0.2857142857142857,0.37920138
 "that you taught me the ABCs of boxing,","自分にボクシングの
 いろはを教えてくれて
 
 しかも","Boxing
 Tell me how
 
-Morely",0.16666666666666666
+Morely",0.16666666666666666,0.6667248
 and now you will give me the belt.,"あえて
 先輩と呼ばせてもらいますよ","Gently
-You will be called a senior",0.14285714285714285
+You will be called a senior",0.14285714285714285,0.12829752
 "Champion, any comment about that?","チャンピオン
 今のコメントについて
 
 何か","champion
 About now
 
-something",0.2222222222222222
-"Well, I don't think he needs to thank me.",感謝する必要はないと思いますよ,I think it is not necessary to thank,0.25
-What do you mean?,というと？,Mean?,0.4
+something",0.2222222222222222,0.7017002
+"Well, I don't think he needs to thank me.",感謝する必要はないと思いますよ,I think it is not necessary to thank,0.25,0.7232087
+What do you mean?,というと？,Mean?,0.4,0.2662211
 "It's true that we practiced together for a period of time,","あっ…
 
 いや
@@ -496,29 +496,29 @@ What do you mean?,というと？,Mean?,0.4
 
 no
 
-That's right",0.125
-however...,でもですね,But,0.0
+That's right",0.125,0.17264386
+however...,でもですね,But,0.0,0.66617346
 I never taught him how to get the belt.,"ベルトの取り方は
 教えてないですから","How to take the belt
-I have not teached",0.35714285714285715
+I have not teached",0.35714285714285715,0.70260894
 "Let's head back, kid.","帰るぞ
 
 小僧","I will go back
 
-Young monk",0.08333333333333333
+Young monk",0.08333333333333333,0.2712386
 "Oh, okay!","あっ…
 
 はい","Ah…
 
-Yes",0.0
+Yes",0.0,0.5300316
 I've never heard of Hammer Nao!,"ハンマー
 ･
 ナオなんて知らねえよ","hammer
 ·
-I know Nao",0.3
+I know Nao",0.3,0.73827004
 He'll show us a flashy KO today!,"今日は
 豪快なＫＯを見せてくれるぜ","Today is
-I will show you a louder ko",0.2857142857142857
+I will show you a louder ko",0.2857142857142857,0.59564006
 "All right, is it my turn now?","かませ犬だよ
 
 楽勝
@@ -527,12 +527,12 @@ I will show you a louder ko",0.2857142857142857
 
 Excessive victory
 
-Excessive victory",0.15384615384615385
+Excessive victory",0.15384615384615385,0.09416106
 "Good luck, Aoki-san.","頑張ってくださいね
 
 青木さん","Please do your best
 
-Mr. Aoki",0.0
+Mr. Aoki",0.0,0.6165646
 My opponent is only a 10th place man from the Philippines.,"心配ねえよ　相手は
 フィリピンの
 10
@@ -543,58 +543,58 @@ Philippines
 Ten
 It is the place
 
-Easy victory",0.19047619047619047
-No prob!,うーし！そろそろ出番かいな,Wow!It's almost time to go out,0.09090909090909091
+Easy victory",0.19047619047619047,0.5365218
+No prob!,うーし！そろそろ出番かいな,Wow!It's almost time to go out,0.09090909090909093,0.1697901
 I know!,"分かってるって
 自慢じゃねえが","I know
-It is not proud",0.2857142857142857
+It is not proud",0.2857142857142857,0.32043076
 "Not to brag, but I'm used to fighting underdogs!","俺は
 
 かませ犬とはやり慣れてんだ
 自慢じゃねえな","I am
 
 I'm used to it with a dog
-It's not proud",0.2777777777777778
+It's not proud",0.2777777777777778,0.3899805
 "I, the Underdog Hunter Aoki Masaru, \Nwill show you how to handle weaklings!","かませ犬ハンター
 
 青木様が
 格下の料理法を見せてやるぜ","Base dog hunter
 
 Aoki-sama
-I will show you a downtown cooking method",0.17391304347826086
-That's bullying the weak!,弱い者いじめじゃねえか,It's a weak person?,0.2
+I will show you a downtown cooking method",0.17391304347826084,0.35459897
+That's bullying the weak!,弱い者いじめじゃねえか,It's a weak person?,0.2,0.579375
 Off I go!,"んじゃ
 
 行ってくりゃあ
 早く用意しとけよ","Nja
 
 I'm going to go
-Prepare early",0.2
+Prepare early",0.2,0.20623258
 "It'll be over in one round, so you'll be up in no time!","１ラウンドで終わるから
 出番すぐだぜ","Because it ends in one round
-It is right away",0.21052631578947367
-"8 matches, 8 wins, 5 KOs...",８戦８勝５ＫＯ,8 Battle 8 wins 5ko,0.2222222222222222
-His Sunday punch is a hook from each side.,得意パンチは左右のフック,Good punch is a hook on the left and right,0.25
-I need to watch out for his left body hooks.,左ボディーフックは要注意,Left body hook should be careful,0.13333333333333333
+It is right away",0.21052631578947367,0.4208927
+"8 matches, 8 wins, 5 KOs...",８戦８勝５ＫＯ,8 Battle 8 wins 5ko,0.2222222222222222,0.5479462
+His Sunday punch is a hook from each side.,得意パンチは左右のフック,Good punch is a hook on the left and right,0.25,0.72361755
+I need to watch out for his left body hooks.,左ボディーフックは要注意,Left body hook should be careful,0.13333333333333333,0.7304113
 I couldn't believe that was really Yamada-kun when we met yesterday.,"昨日会った時は
 
 とても
 あの山田君とは思えなかった","When I met yesterday
 
 very
-I did not think that that Yamada",0.2777777777777778
+I did not think that that Yamada",0.2777777777777778,0.80735105
 He's changed a lot over the past two and a half years.,"２年半で
 
 随分変わった","In two and a half years
 
-It has changed",0.375
+It has changed",0.375,0.59595615
 But he kept me as his goal the whole time.,"でも
 
 ずっと僕を
 目標にしてくれてたんだ","but
 
 I have been
-I was aiming for the goal",0.17647058823529413
+I was aiming for the goal",0.17647058823529413,0.53560555
 Already?,"え…
 
 もう？
@@ -605,7 +605,7 @@ Already?,"え…
 already?
 Just as expected
 
-Mr. Aoki",0.25
+Mr. Aoki",0.25,0.40410393
 "That's pathetic, Aoki!","何
 
 伸びてやがる
@@ -616,49 +616,49 @@ Mr. Aoki",0.25
 Grow
 Neither Match
 
-Aoki",0.1
+Aoki",0.1,0.5178711
 "What the hell are you doing, idiot?!","何やってんだ
 
 この馬鹿","What are you doing
 
-This stupid",0.3333333333333333
+This stupid",0.3333333333333333,0.5973839
 Stop counting.,"カウントやめな
 これからだぜ
 
 レフェリーさん","Counting
 It is from now on
 
-Lederie",0.1111111111111111
+Lederie",0.1111111111111111,0.51227885
 "I'm ready to go, Ref.","４…
 出会い頭
 
 もらっちまったぜ","4 ...
 Encounter
 
-I'm sorry",0.16666666666666666
+I'm sorry",0.16666666666666666,0.16599742
 He's taking it to the finish!,"効いてんじゃねえか
 
 アホ","It's not effective
 
-Fool",0.18181818181818182
+Fool",0.18181818181818185,0.11800544
 There he goes!,"おおー！
 出た","Oh!
-Out",0.16666666666666666
+Out",0.16666666666666666,0.39141417
 The Frog Punch!,"うおっ
 カエルパンチだー！","Ue
-Frog punch!",0.6
+Frog punch!",0.6,0.8834872
 I was waiting for this!,"倒し返したぞ！
 待ってました！","I've returned!
-I've been waiting!",0.3333333333333333
-Such an idiotic match...,でたらめな試合やりやがって,Take a match,0.14285714285714285
+I've been waiting!",0.3333333333333333,0.57004523
+Such an idiotic match...,でたらめな試合やりやがって,Take a match,0.14285714285714285,0.50392777
 They both went for knock outs from the beginning. Aoki is now pushing the match.,"しょっぱなから倒し合いで
 今は青木が
 
 押せ押せだべ","Because it is shabby
 Now Aoki is
 
-It should be pressed",0.14285714285714285
-Nao...,ナオ…,Nao ...,1.0
+It should be pressed",0.14285714285714285,0.5580717
+Nao...,ナオ…,Nao ...,1.0,0.9999999
 "Calm down, Nao!","落ち着くんだ
 
 ナオ
@@ -669,7 +669,7 @@ Nao...,ナオ…,Nao ...,1.0
 Nao
 Heart
 
-Disturb",0.2222222222222222
+Disturb",0.2222222222222222,0.5500513
 "Everyone from the gym, people from the shopping district...","ジムの皆も
 
 商店街の皆さんも
@@ -680,161 +680,161 @@ Disturb",0.2222222222222222
 Everyone in the shopping street
 You
 
-I'm expecting",0.26666666666666666
+I'm expecting",0.26666666666666666,0.7341635
 Imagine how excited they'll be if we take the belt home!,"ベルトさ
 
 持ち帰ったら
 どったらに喜んでくれることか","Belt
 
 Once you take home
-Will you be delighted",0.23529411764705882
+Will you be delighted",0.2352941176470588,0.68899184
 "No, no matter how the match turns out, it's okay as long as you fight well!","いや
 
 勝負よりも
 おめえの頑張る姿ば見せられたら","no
 
 More than the match
-If you can see it, if you see it",0.2727272727272727
+If you can see it, if you see it",0.2727272727272727,0.3752117
 M-Makunouchi Ippo said yesterday...,"き…
 
 昨日
 幕之内一歩が言っていました","tree…
 
 yesterday
-Makumonouchi one step was said",0.2
-that he didn't teach me how to get the belt.,ベルトの取り方を教えてないと,I have not told the way of taking the belt,0.10526315789473684
+Makumonouchi one step was said",0.2,0.39742848
+that he didn't teach me how to get the belt.,ベルトの取り方を教えてないと,I have not told the way of taking the belt,0.10526315789473684,0.5953277
 He was serious.,"本気だった
 あの人は
 
 本気で打ってくる","It was serious
 That person
 
-I really hit",0.2
+I really hit",0.2,0.46933308
 I'm scared.,"怖いんです
 あの人のパンチは
 
 尋常じゃない","I'm scared
 That person's punch
 
-Unusual",0.3333333333333333
+Unusual",0.3333333333333333,0.37346536
 I couldn't sleep at all!,"怖くて
 
 一睡も出来なかった","scared
 
-I could not sleep",0.3333333333333333
+I could not sleep",0.3333333333333333,0.69457257
 That's perfectly normal!,"それが普通だべ
 今まで
 
 強がりば言ってきて","That's normal
 until now
 
-I'm getting stronger",0.2727272727272727
+I'm getting stronger",0.2727272727272727,0.5238057
 I was wondering what you were thinking not accepting a handshake from Makunouchi.,"握手ば
 
 無視したりして
 わしも気になってた","With a handshake
 
 Ignore
-I was worried",0.23529411764705882
+I was worried",0.2352941176470588,0.5780191
 "No, I'm glad he'll be serious.","いえ
 
 本気になってくれたのは
 うれしい","House
 
 It was serious
-glad",0.15384615384615385
+glad",0.15384615384615385,0.3805044
 It'd be meaningless otherwise.,"そうじゃないと
 
 意味ないんです","Otherwise
 
-It does not mean",0.2222222222222222
+It does not mean",0.2222222222222222,0.37554258
 What?,"えっ…
 
 何だって？","eh…
 
-What is it?",0.4
+What is it?",0.4,0.34525776
 I wanted to fight against Makunouchi Ippo at his best.,"自分は
 
 あくまでも
 本気の幕之内一歩とやりたかった","Self
 
 Too
-I wanted to do with a serious step",0.16666666666666666
+I wanted to do with a serious step",0.16666666666666666,0.16114901
 I'm only scared about whether I can stand up to his punches or not.,"怖いのは
 
 自分があのパンチに","I'm scared
 
-I am in that punch",0.15789473684210525
+I am in that punch",0.15789473684210525,0.66117144
 I didn't want to lose sight of his back.,"あの人の
 後ろ姿を見失いたくなかった","That person
-I did not want to lose my eyes back",0.375
+I did not want to lose my eyes back",0.375,0.6157396
 I thought I'd be able to meet him again if I continued boxing.,"ボクシングを続けていれば
 いつか
 
 また会えると思った","If you continue boxing
 sometimes
 
-I thought I could see you again",0.2777777777777778
+I thought I could see you again",0.2777777777777778,0.7713302
 I wanted to tell Senpai that even I could manage to come this far!,"先輩に
 
 こんな自分でも
 出来ましたって伝えたかった","Senior
 
 Even so
-I wanted to tell me",0.3125
+I wanted to tell me",0.3125,0.20631333
 I will tell him today.,"伝えます
 
 今日","Tell you
 
-today",0.2857142857142857
+today",0.2857142857142857,0.66379267
 I will show all of me in the ring.,"リング上で
 
 自分の全てを伝えます","On the ring
 
-I will tell all myself",0.38461538461538464
+I will tell all myself",0.38461538461538464,0.68592626
 """I became strong!""","一発一発
 
 報告したいんです！","One shot
 
-I want to report!",0.18181818181818182
+I want to report!",0.18181818181818185,0.13583578
 I was aware that I have a short career as a boxer.,"ボクサーとしての寿命が短いのは
 分かっていた","The short life as a boxer is short
-I knew it",0.3125
+I knew it",0.3125,0.80741876
 I wanted to show him while I could still maintain my best condition.,"ベストの状態でいられるうちに
 先輩に見せたかった","Before it is in the best state
-I wanted to show my seniors",0.3
+I wanted to show my seniors",0.3,0.36767632
 That's why you rushed to challenge the Japanese title.,"わずか８戦で
 
 日本タイトルさ","In just 8 battles
 
-Japanese title",0.13333333333333333
-And it will end today.,思い残すことはないでしょう,It will not be remedy,0.2222222222222222
+Japanese title",0.13333333333333333,0.6858166
+And it will end today.,思い残すことはないでしょう,It will not be remedy,0.2222222222222222,0.2080338
 My goal is not the world.,"目標は世界でも
 
 何でもない","The goal is also in the world
 
-Nothing",0.4
+Nothing",0.4,0.6952376
 "I will have no regrets after this match, no matter what the outcome is.","この試合が終われば
 結果はどうあれ","If this match is over
-What is the result",0.2777777777777778
-I will retire.,引退します,Retire,0.25
+What is the result",0.2777777777777778,0.43372062
+I will retire.,引退します,Retire,0.25,0.7797608
 "I'm sorry, Coach,","申し訳ありませんでした
 
 会長","I am sorry 
 
- Chairman",0.2857142857142857
+ Chairman",0.2857142857142857,0.472455
 but I feel better after telling you everything.,"でも
 
 やっと
 本音を言えて楽になれた","but
 
 at last
-I could not say that I could say",0.13333333333333333
+I could not say that I could say",0.13333333333333333,0.35488772
 No need to apologize!,"謝る必要はねえ　胸ば
 
 張れ","I need to apologize
 
-Stretch",0.42857142857142855
+Stretch",0.42857142857142855,0.5345357
 Keep your chin up and report to the champion!,"胸ば
 
 張って
@@ -845,12 +845,12 @@ Keep your chin up and report to the champion!,"胸ば
 In
 Champion
 
-Report",0.16666666666666666
+Report",0.16666666666666666,0.58864564
 "Yes, sir!","会長…
 
 はい","Chairman…
 
-Yes",0.2
+Yes",0.2,0.37920076
 Winner - Aoki of the red corner!,"勝者
 
 赤コーナー
@@ -859,32 +859,32 @@ Winner - Aoki of the red corner!,"勝者
 
 Red corner
 
-Aoki!",0.625
-Stop the mockery!,泥仕合やりやがって！,Mud work!,0.16666666666666666
+Aoki!",0.625,0.95359886
+Stop the mockery!,泥仕合やりやがって！,Mud work!,0.16666666666666666,0.24345964
 How did Aoki-san do?,"どうよ！
 かっこつけてんじゃねえよ","How!
-Don't let it go",0.2
+Don't let it go",0.2,0.1101794
 He was far from being a hunter though.,"とてもハンターって
 内容じゃなかったがな","Very hunter
-It was not the content",0.14285714285714285
+It was not the content",0.14285714285714285,0.5881621
 Don't mimic how he handled that match.,"あの料理法を
 まねするんじゃねえぞ","That cooking method
-Don't imitate",0.25
-O-Okay! I'll give it my best!,全力を尽くす　それが,I will do my best,0.3
+Don't imitate",0.25,0.28887674
+O-Okay! I'll give it my best!,全力を尽くす　それが,I will do my best,0.3,0.48608714
 "And now, today's main event...","続きまして
 
 本日のメーンイベント","Continued
 
-Today's Main Event",0.4444444444444444
-a 10-round match for the Japan Featherweight Class Title.,日本フェザー級タイトルマッチ,Japan Featherweight Title Match,0.4
+Today's Main Event",0.4444444444444444,0.76135063
+a 10-round match for the Japan Featherweight Class Title.,日本フェザー級タイトルマッチ,Japan Featherweight Title Match,0.4,0.8399442
 "What's the matter, Nao?","どうしたんだ
 
 ナオ","What happened
 
-Nao",0.25
+Nao",0.25,0.63181937
 Do you know what they are?,"通路のあちこちに染みが
 あるでしょ　何だか分かる？","Stained around the passage
-Do you know something?",0.3333333333333333
+Do you know something?",0.3333333333333333,0.27845582
 They tell themselves to calm down.,"落ち着け
 
 落ち着けって
@@ -895,12 +895,12 @@ They tell themselves to calm down.,"落ち着け
 Calm
 all
 
-I tell myself",0.2
+I tell myself",0.2,0.5399194
 By hitting the wall like this.,"こうやって
 
 パンパンッてね","like this
 
-Pampeng",0.25
+Pampeng",0.25,0.21444522
 Calm down...,"落ち着け
 
 落ち着け
@@ -909,14 +909,14 @@ Calm down...,"落ち着け
 
 Calm
 
-Calm",0.3333333333333333
+Calm",0.3333333333333333,0.5698013
 I just need to do what I practiced for two years.,"２年間
 
 やってきたことを
 そのまま出せばいいんだ","Two years
 
 What I came
-I wish I could go out",0.25
+I wish I could go out",0.25,0.23435345
 Hey...,"はあ…
 
 はあ…
@@ -925,8 +925,8 @@ Hey...,"はあ…
 
 ...
 
-...",0.5
-I'll show my best to Makunouchi-senpai!,最高の自分を見せるんだ！,I show my best!,0.625
+...",0.5,0.419367
+I'll show my best to Makunouchi-senpai!,最高の自分を見せるんだ！,I show my best!,0.625,0.48842657
 Don't hurt your hands before the match!,"そのへんさ
 
 しとけ
@@ -937,7 +937,7 @@ Don't hurt your hands before the match!,"そのへんさ
 Masquerade
 Hand before the game
 
-I'm sorry!",0.1875
+I'm sorry!",0.1875,0.54333705
 I'm fine now.,"だ…
 
 大丈夫です
@@ -946,26 +946,26 @@ I'm fine now.,"だ…
 
 fine
 
-It is all right now",0.2
+It is all right now",0.2,0.58019054
 but I don't think so!,"思ってるんだろうけども
 わしゃ
 
 それでいいとは思ってねえ","I think I'm thinking
 Speaker
 
-So I think it is good",0.23076923076923078
+So I think it is good",0.2307692307692308,0.12592785
 And I want you to win.,"だけど
 
 わしは
 その上で勝ってほしいと","However
 
 Wow
-I want you to win on it",0.45454545454545453
+I want you to win on it",0.4545454545454545,0.66967
 I want you to take the belt!,"ベルトさ
 
 奪ってほしいと","Belt
 
-I want you to take it away",0.6
+I want you to take it away",0.6,0.8359922
 "The challenger, Hammer Nao, arrives from the blue corner.","青コーナーより
 挑戦者
 
@@ -976,86 +976,86 @@ challenger
 
 hammer
 ·
-Nao player",0.5833333333333334
+Nao player",0.5833333333333334,0.75874025
 The match between the two former teammates is about to begin.,"元同門同士の戦いが
 
 始まります","The battle between the principal
 
-to start",0.21428571428571427
+to start",0.21428571428571427,0.37027186
 "Tokyo is the champion's home, but we'll cheer for you!","東京は
 チャンピオンの地元だけんども","Tokyo is
-The local area of the champion",0.23529411764705882
+The local area of the champion",0.2352941176470588,0.643459
 Nao! You can do it!,"皆さん…
 ナオ
 
 けっぱってけろ！","everyone…
 Nao
 
-It is hard!",0.3333333333333333
+It is hard!",0.3333333333333333,0.41439426
 Nao!,"あっ…
 ナオ！ベルト取って！","Ah…
-Nao!Take a belt!",0.3333333333333333
+Nao!Take a belt!",0.3333333333333333,0.4375325
 You'll be the champion at the end of this match!,"試合さ
 
 終われば
 おめえがチャンピンだ！","Match
 
 End
-Thank you very much!",0.2857142857142857
+Thank you very much!",0.2857142857142857,0.5498279
 He carries thirteen KO marks with him.,"トランクスに光る
 13
 個のＫＯマーク","Glow trunks
 13
-KO mark",0.08333333333333333
+KO mark",0.08333333333333333,0.56058955
 Will he gain another star?,"星は増えるのか
 ２度目の防衛は
 
 成功するのか","Is the star more?
 The second defense is
 
-Is it successful",0.15384615384615385
+Is it successful",0.15384615384615385,0.47989783
 It's an extra large cheer!,"ひときわ
 
 大きな声援","Lively
 
-Large cheering",0.1111111111111111
+Large cheering",0.1111111111111111,0.63402224
 The champion has a very strong following here at Korakuen!,"後楽園ホールでは
 絶大な人気を誇る
 
 チャンピオン","In Korakuen Hall
 Boast a great popularity
 
-champion",0.1875
-Makunouchi!,幕之内！,Maku Nonouchi!,0.25
+champion",0.1875,0.75242466
+Makunouchi!,幕之内！,Maku Nonouchi!,0.25,0.7448417
 Here comes Champion Makunouchi Ippo.,"来たど
 チャンピオンの幕之内一歩だ","Coming
-Champion's Makuminoichi step",0.1
+Champion's Makuminoichi step",0.1,0.57689184
 approach center ring.,"両者
 
 リングの中央へ","Both
 
-To the center of the ring",0.25
+To the center of the ring",0.25,0.71936554
 "Former upper and lower classmen face each other as champion and challenger,","チャンピオンと挑戦者として
 にらみ合う","As champion and challenger
-Mate",0.3076923076923077
+Mate",0.3076923076923077,0.6599702
 but there is no feeling of nostalgia between them.,"しかし両者の目に
 懐かしさの色は
 
 うかがえません","But in the eyes of both
 The color of the nostalgic
 
-I can not see",0.1
+I can not see",0.1,0.538725
 They are clearly enemies now!,"はっきりと敵として
 対じしています","As clearly
-It is",0.1111111111111111
+It is",0.1111111111111111,0.22688162
 Yamada-kun!,"山田君…
 力で
 ねじ伏せるか
 幕之内一歩","Yamada-kun ...
 With
 Do you screw
-Makumino one step",0.1
+Makumino one step",0.1,0.75869465
 Or will Hammer Nao overcome his teacher?!,"先輩を超えるか
 ハンマー･ナオ 先輩…","Is your senior exceeding your seniors
-Hammer Nao senior ...",0.13333333333333333
-How will the drama of this ironic reunion unfold?,どんなドラマを生み出すのか,What kind of drama will you create,0.21428571428571427
+Hammer Nao senior ...",0.13333333333333333,0.52378327
+How will the drama of this ironic reunion unfold?,どんなドラマを生み出すのか,What kind of drama will you create,0.21428571428571427,0.39635733

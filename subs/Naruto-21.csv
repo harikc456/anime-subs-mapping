@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,45 +9,45 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825215
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490637
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818439
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.381202
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.53447694
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.76468635
 "You're an embarrassment
 to our village.","(
 我愛羅
@@ -56,7 +56,7 @@ to our village.","(
 ｡
 
 ","Plash of the village
-.",0.18181818181818182
+.",0.18181818181818185,0.44999874
 "Why do you think we came all
 the way here to Leaf Village!?","何しに
  
@@ -66,7 +66,7 @@ the way here to Leaf Village!?","何しに
 ","What
  
 When I came to the wooden niece
-Do you think?",0.35
+Do you think?",0.35,0.33759522
 "P-Please listen to me, Gaara.","(ｶﾝｸﾛｳ)
 聞いてくれ
  
@@ -78,12 +78,12 @@ Do you think?",0.35
  
 Usa
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.3728918
 Shut up!,"黙れ
 ｡
 
 ","shut up
-.",0.5
+.",0.5,0.90563095
 I'll kill you.,"(
 我愛羅
 )
@@ -91,7 +91,7 @@ I'll kill you.,"(
 ｡
 
 ","I will kill
-.",0.5
+.",0.5,0.8248729
 "I-I'm sorry...
 I'm really sorry.","ごめんな
  
@@ -105,7 +105,7 @@ I'm really sorry.","ごめんな
 really
  
 sorry
-.",0.7142857142857143
+.",0.7142857142857143,0.6815288
 <i>This guy's...good.</i>,"(ｻｽｹ)
 《こいつ
  
@@ -113,7 +113,7 @@ sorry
 
 ","""this guy
  
-I'm disgusting """,0.25
+I'm disgusting """,0.25,0.2858225
 "We didn't come here
 to play around.","(
 我愛羅
@@ -128,7 +128,7 @@ to play around.","(
  
 We are
 It's notcome toplay
-.",0.125
+.",0.125,0.21103908
 "by the darkest place being
 under the candlestick.","忍の勝手な出はいりは
 条約で禁じられているはず
@@ -136,12 +136,12 @@ under the candlestick.","忍の勝手な出はいりは
 
 ","Shinobuselfishoutgoof
 It should havebeenprohibited by thetreaty
-.",0.15384615384615385
+.",0.15384615384615385,0.19470322
 Don't you know anything about it?,"あなたたち
 砂隠れの里の忍者よね？
 
 ","you
-It'sninjaofthe sandhiddenvillage?",0.2
+It'sninjaofthe sandhiddenvillage?",0.2,0.30510783
 "We came to this village to
 take the Chunin Exam.","中忍選抜試験を受けに
 この里へ来た
@@ -149,17 +149,17 @@ take the Chunin Exam.","中忍選抜試験を受けに
 
 ","Inresponse to theChuninselectiontest
 We cametothisvillage
-.",0.23076923076923078
+.",0.2307692307692308,0.36020398
 Chunin Exam...?,"(ﾅﾙﾄ)
 中忍選抜試験？
 
-",Chuninselectiontest?,0.2
+",Chuninselectiontest?,0.2,0.7843721
 "You really don't know
 anything, do you?","本当に何も知らないんだな
 ｡
 
 ","ReallyyouI do notknow anything
-.",0.18181818181818182
+.",0.18181818181818185,0.4425043
 "Bro, if you pass the exam,
 you can become a Chunin from a Genin!","(
 木ノ葉丸
@@ -168,7 +168,7 @@ you can become a Chunin from a Genin!","(
 その試験に受かれば➡
 
 ","Older brother
-If you receive the exam",0.23529411764705882
+If you receive the exam",0.2352941176470588,0.4485211
 Heh!,"(
 我愛羅
 )
@@ -178,7 +178,7 @@ Heh!,"(
 
 ","Hook
 .
-Oi!",0.2
+Oi!",0.2,0.31567797
 What's your name?,"名は何という？
 えっ
  
@@ -187,7 +187,7 @@ What's your name?,"名は何という？
 ","What is the name?
 eh
  
-DoI?",0.3333333333333333
+DoI?",0.3333333333333333,0.3160895
 No! The gourd next to you!,"違う
  
 その隣の
@@ -200,12 +200,12 @@ No! The gourd next to you!,"違う
 Next to it
  
 Itgourd
-.",0.18181818181818182
+.",0.18181818181818185,0.40856543
 Sasuke Uchiha.,"砂瀑の我愛羅
 ｡
 
 ","WeofSuna瀑Ira
-.",0.25
+.",0.25,0.37817144
 "Say! Say! What about me?
 What about me?","あのさ
  
@@ -221,23 +221,23 @@ That!
  
 I am?
  
-I am?",0.2222222222222222
+I am?",0.2222222222222222,0.38925013
 Not interested.,"興味ない
 ｡
 
 ","Am not interested
-.",0.75
+.",0.75,0.91401505
 What do you think?,"(
 ザク
 )
 どう思う？
 
-",What do you think?,1.0
+",What do you think?,1.0,1.0000001
 those two need to be checked.,"あの２人は要チェックだ
 ｡
 
 ","That two people are checked
-.",0.3
+.",0.3,0.6547601
 "Now then, in conjunction
 with beginning the Chunin Exam,","(
 猿飛
@@ -250,7 +250,7 @@ with beginning the Chunin Exam,","(
 ","Now
  
 TheChuninselectiontest
-➡get started",0.07692307692307693
+➡get started",0.07692307692307693,0.39294785
 "let us first have those in charge
 of the rookie Genin come forward.","まず新人の下忍を担当している者
 前へ
@@ -260,7 +260,7 @@ of the rookie Genin come forward.","まず新人の下忍を担当している�
 ","Whofirstis in charge of theGeninrookie
 Forward
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.33820474
 Kakashi and Kurenai and Asuma...,"カカシに
  
 紅に
@@ -275,10 +275,10 @@ Inred
  
 Asma
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.7052358
 "It goes without saying,","言うまでもないことだが➡
 
-",It goes without saying that➡,0.6666666666666666
+",It goes without saying that➡,0.6666666666666666,0.6874617
 "you can recommend them
 for the exams if you wish.","お前たちの意向で
 試験に推薦できる
@@ -288,7 +288,7 @@ for the exams if you wish.","お前たちの意向で
 ","In the intention of you
 It can be recommended for exam
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.5424361
 <i>There's no need to hear this...</i>,"(ｲﾙｶ)
 《聞くまでもない
 あいつらには
@@ -298,7 +298,7 @@ It can be recommended for exam
 ","""I have no need to hear
 There is
  
-It's too early",0.3888888888888889
+It's too early",0.3888888888888889,0.44484603
 The Kakashi led Group Seven...,"(ｶｶｼ)
 カカシ率いる第七班
 ｡
@@ -306,7 +306,7 @@ The Kakashi led Group Seven...,"(ｶｶｼ)
 
 ","Seven Seventy of Kakashi
 .
-➡",0.2
+➡",0.2,0.6266171
 "Sasuke Uchiha. Naruto Uzumaki.
 Sakura Haruno.","うちはサスケ
  
@@ -320,11 +320,11 @@ Sakura Haruno.","うちはサスケ
 Uzumaki Naruto
 Haruno sakura
 .
-➡",0.5454545454545454
+➡",0.5454545454545454,0.7498518
 Huh?,"(ｲﾙｶ)
 《えっ？》
 
-","""eh?""",0.2
+","""eh?""",0.2,0.38499212
 "Hinata Hyuga, Kiba Inuzuka,
 Shino Aburame.","日向ヒナタ
  
@@ -338,7 +338,7 @@ Shino Aburame.","日向ヒナタ
 Kiba Inuyuka
  
 Oil woman
-.",0.25
+.",0.25,0.65889275
 "These three, I, Asuma Sarutobi,
 recommend the same.","以上３名
 夕日
@@ -350,7 +350,7 @@ recommend the same.","以上３名
 Sunset
  
 Same as the left of the red name
-.",0.15
+.",0.15,0.14991376
 Wait a minute!,"(
 猿飛
 )
@@ -362,7 +362,7 @@ Wait a minute!,"(
 ","~
 .
 
-wait a minute!",0.6666666666666666
+wait a minute!",0.6666666666666666,0.74800503
 "What is it, Iruka?","(
 猿飛
 )
@@ -374,7 +374,7 @@ wait a minute!",0.6666666666666666
 ","What is it?
  
 Dolphin
-.",0.5
+.",0.5,0.24872358
 "Lord Hokage, please let me
 say one thing.","(ｲﾙｶ)
 火影様
@@ -387,11 +387,11 @@ say one thing.","(ｲﾙｶ)
 Word
  
 Please let me say
-.",0.4166666666666667
+.",0.4166666666666667,0.34442523
 "but as for the nine names
 that were given,","差し出がましいようですが➡
 
-","It seems that the difference is good, but",0.26666666666666666
+","It seems that the difference is good, but",0.26666666666666666,0.001177696
 I was in charge of them at the Academy.,"アカデミーで
 私の受け持ちでした
 ｡
@@ -400,7 +400,7 @@ I was in charge of them at the Academy.,"アカデミーで
 ","At an academy
 I was my chore
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.60950685
 "They should be tested after
 having gained more experience!","もっと場数を踏ませてから
 受験させるべきです
@@ -408,7 +408,7 @@ having gained more experience!","もっと場数を踏ませてから
 
 ","After taking more
 Should be taken
-.",0.3076923076923077
+.",0.3076923076923077,0.24611679
 "I became a Chunin when I was
 six years younger than Naruto is now.","(ｶｶｼ)
 私が中忍になったのは
@@ -417,14 +417,14 @@ six years younger than Naruto is now.","(ｶｶｼ)
 
 ","What I became Nakabe
 It is about six from Naruto
-.",0.3157894736842105
+.",0.3157894736842105,0.6701539
 Naruto is different from you!,"ナルトは
  
 あなたとは違う！➡
 
 ","Naruto
  
-It is different from you!➡",0.75
+It is different from you!➡",0.75,0.92847407
 "They always do nothing but complain
 about important missions...","(ｶｶｼ)
 大切な任務に
@@ -439,7 +439,7 @@ A guy
  
 Always complain
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.38524938
 "Teaching them a lesson
 once would be fun.","一度
  
@@ -453,14 +453,14 @@ once would be fun.","一度
 It is also a painful eyes
 fun
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.24630922
 W-What did you say?!,"な…
  
 何だと!?
 
 ","...
  
-What did you say!?",0.625
+What did you say!?",0.625,0.6273913
 I understand what you want to say.,"あなたの言いたいことも
 分かります
 ｡
@@ -469,14 +469,14 @@ I understand what you want to say.,"あなたの言いたいことも
 ","What you want to say
 I understand
 .
-➡",0.8888888888888888
+➡",0.8888888888888888,0.7442441
 Kakashi...,"イルカ先生…
 ｡
 ➡
 
 ","Dolphin teacher ...
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.15921949
 Don't do it.,"腹も立つでしょう
  
 しかし…
@@ -485,32 +485,32 @@ Don't do it.,"腹も立つでしょう
 ","It will be angry
  
 However…
-.",0.25
+.",0.25,0.18600588
 Iruka...,"ハァ…
 ｡
 
 ","Hua ...
-.",0.25
+.",0.25,0.28456497
 I understand your point.,"お前の言い分も
 分からぬでもない
 ｡
 
 ","You also
 I can not understand
-.",0.3333333333333333
+.",0.3333333333333333,0.41949537
 "a special preliminary exam
 for these rookie Genins.","特別な予備試験を行うことにする
 ｡
 
 ","Make a special preliminary test
-.",0.36363636363636365
+.",0.3636363636363637,0.4693629
 P-Preliminary exam?!,"よ…
  
 予備試験!?
 
 ","world…
  
-Preliminary test!?",0.2857142857142857
+Preliminary test!?",0.2857142857142857,0.64065754
 That's right! That's right!,"そうだ
  
 そうだ！
@@ -519,19 +519,19 @@ That's right! That's right!,"そうだ
 ","That's it
  
 That's it!
-I overslept unexpectedly ➡",0.3333333333333333
+I overslept unexpectedly ➡",0.3333333333333333,0.38370863
 "What's he going to do about
 the feelings of a maiden","ブロー諦めてくる乙女の気持ち
 どうしてくれんのよ！
 
 ","The feeling of the maiden who gives up
-What do you do!",0.2777777777777778
+What do you do!",0.2777777777777778,0.65284616
 "I overslept, so I haven't washed my face
 and didn't brush my teeth.","俺なんか寝坊したから
 顔も洗ってないし➡
 
 ","Because I overslept
-I have not wash my face and",0.35294117647058826
+I have not wash my face and",0.35294117647058826,0.75161034
 Y-You... That's dirty.,"あ…
  
 あんた…
@@ -544,7 +544,7 @@ Y-You... That's dirty.,"あ…
 Ann ...
  
 That's dirty
-.",0.625
+.",0.625,0.53852665
 "<i>Why're these guys so hyper</i>
 <i>first thing in the morning?!</i>","《朝っぱらから何で
  
@@ -560,7 +560,7 @@ so
 High-tension
 what?
  
-These guys""",0.2608695652173913
+These guys""",0.2608695652173913,0.516887
 "Hey, good morning, folks!","(ｶｶｼ)
 やぁ
  
@@ -576,7 +576,7 @@ good morning
  
 All
 .
-➡",0.2
+➡",0.2,0.68577665
 "Today, I got a bit lost on the path of life...","きょうは
  
 ちょっと
@@ -587,7 +587,7 @@ All
  
 A little
 I'm lost in the way of life
-.",0.3888888888888889
+.",0.3888888888888889,0.75402015
 Right! That's a lie!!,"(ﾅﾙﾄ･ｻｸﾗ)
 はい
  
@@ -595,7 +595,7 @@ Right! That's a lie!!,"(ﾅﾙﾄ･ｻｸﾗ)
 
 ","Yes
  
-lie!",0.2857142857142857
+lie!",0.2857142857142857,0.66535753
 "Uh, well...","(ｶｶｼ)
 まっ
  
@@ -607,7 +607,7 @@ lie!",0.2857142857142857
  
 What
  
-Suddenly, but",0.125
+Suddenly, but",0.125,0.21063237
 "Here, these are your applications.","お前たちを中忍選抜試験に
 推薦しちゃったから
 ｡
@@ -616,7 +616,7 @@ Suddenly, but",0.125
 ","For your chopsticks
 Because it was recommended
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.11182679
 "That being said, the recommendations
 are not compulsory.","(ｶｶｼ)
 といっても
@@ -627,7 +627,7 @@ are not compulsory.","(ｶｶｼ)
 ","But
 No recommendation is not forced
 .
-➡",0.125
+➡",0.125,0.7111769
 "You guys are free to decide whether
 you take the Exam or not.","受験するかしないかを決めるのは
 お前たちの自由だ
@@ -635,7 +635,7 @@ you take the Exam or not.","受験するかしないかを決めるのは
 
 ","It is to decide whether to take the exam
 It's freedom of you
-.",0.4444444444444444
+.",0.4444444444444444,0.716809
 "All right! I love you, Kakashi Sensei!","やった～！
 カカシ先生
  
@@ -644,7 +644,7 @@ It's freedom of you
 ","I did!
 teacher Kakashi
  
-I love!",0.36363636363636365
+I love!",0.3636363636363637,0.5741939
 "Hey, cut it out. Get away already...","(ｶｶｼ)
 よせ
  
@@ -656,13 +656,13 @@ I love!",0.36363636363636365
  
 Iget away
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.3314607
 "Only those who want to take the Exam,
 sign that application and","受けたい者だけ
 その志願書にサインして➡
 
 ","Only those who want to receive
-Sign to the application letter",0.5333333333333333
+Sign to the application letter",0.5333333333333333,0.7057605
 That's it!,"学校の
 301
 号室に来ること
@@ -675,7 +675,7 @@ That's it!,"学校の
 Cominginroom No.
  
 that's all
-.",0.2
+.",0.2,0.16747366
 "<i>For example, that guy!</i>","例えば
  
 あいつ
@@ -686,18 +686,18 @@ that's all
  
 that person
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.57105434
 <i>And this guy!</i>,"それに
  
 こいつ》
 
 ","in addition 
  
- this guy""",0.18181818181818182
+ this guy""",0.18181818181818185,0.39930317
 "If I take the first place, the path to
 the Hokage is right there!","負けねえってばよ！➡
 
-",If you have lost it!➡,0.10526315789473684
+",If you have lost it!➡,0.10526315789473684,0.22738254
 "<i>Sure enough, it's decided that Naruto</i>
 <i>will be the Hokage...</i>","(
 猿飛
@@ -714,17 +714,17 @@ the Hokage is right there!","負けねえってばよ！➡
 After all fire shadow is
 It is not decided to Naruto
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.50845593
 <i>Yaaaay!</i>,"《よ～し！
  
 絶対誰にも➡
 
 ","""Yo!
  
-Absolute anyone",0.1
+Absolute anyone",0.1,0.3443802
 <i>I might be able to fight him.</i>,"《あいつと戦えるかもしれない》
 
-","""You may be able to fight up""",0.26666666666666666
+","""You may be able to fight up""",0.26666666666666666,0.574461
 "<i>keep up with Sasuke,</i>
 <i>and not even with Naruto...</i>","サスケ君に…
  
@@ -738,7 +738,7 @@ Absolute anyone",0.1
 Even in Naruto
 I can not follow
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.83492094
 "Oh, Brother Naruto! Let's play!","あっ
  
 ナルト兄ちゃん
@@ -747,20 +747,20 @@ I can not follow
 ","Ah
  
 Naruto brother
-Let's play together!",0.6
+Let's play together!",0.6,0.9093097
 Oh!,"(ﾓｴｷﾞ)
 あ～！➡
 
-",Oh!➡,0.6666666666666666
+",Oh!➡,0.6666666666666666,0.79829955
 What're you going to do with Moegi?!,"(
 木ノ葉丸
 )
 モエギをどうするつもりだコレ!?
 
-",How to do Megogi How are you going?,0.38461538461538464
+",How to do Megogi How are you going?,0.38461538461538464,0.39330786
 "Hey, you! Let Moegi go!","やい こら！ モエギを放せ！
 
-",Yohonara!Leave Moegi!,0.2222222222222222
+",Yohonara!Leave Moegi!,0.2222222222222222,0.7533833
 Yo.,"(
 木ノ葉丸
 )
@@ -776,7 +776,7 @@ Yo.,"(
 Ah
  
 hang on
-.",0.14285714285714285
+.",0.14285714285714285,0.224534
 "S-Sasuke, what's up?","よう
 ｡
 あっ
@@ -791,17 +791,17 @@ Ah
  
 Sasuke-kun!
  
-What's wrong?",0.25
+What's wrong?",0.25,0.7452089
 How about we go for a little walk?,"ちょっと歩かないか？
 
-",A littlewhether or not there?,0.15384615384615385
+",A littlewhether or not there?,0.15384615384615385,0.3391543
 No way! For real?!,"うっそ～！
  
 マジ!?
 
 ","Uhsu ~!
  
-Really!?",0.2222222222222222
+Really!?",0.2222222222222222,0.30434155
 Wait for me! Moegi!,"待ってろってばよ！
  
 モエギ
@@ -810,7 +810,7 @@ Wait for me! Moegi!,"待ってろってばよ！
 ","IfIIrowait!
  
 Moegi
-.",0.2857142857142857
+.",0.2857142857142857,0.7852227
 "Bro, where'd you go?","ん～
  
 兄ちゃん
@@ -819,7 +819,7 @@ Moegi
 ","~
  
 Older brother
-Where did you go?",0.36363636363636365
+Where did you go?",0.3636363636363637,0.651497
 "is mine if I slip in the
 middle of Chunin Exam's ruckus.","(ﾓｴｷﾞ)
 いや
@@ -838,26 +838,26 @@ I'll release it!
 
 Hehehehe ...
 .
-➡",0.09090909090909091
+➡",0.09090909090909093,0.3003629
 Hey! You fat old man!,"やいやい
  
 このデブおやじ！
 
 ","Fantastic
  
-This fat fun!",0.2222222222222222
+This fat fun!",0.2222222222222222,0.4079308
 Don't move!,"モエギを
 どうする気なんだってばよ！
 
 ","Moegi
-What should I do!",0.25
+What should I do!",0.25,0.26141748
 Y-You. Why're you doing this?!,"知りたいか？
 あっ
 ｡
 
 ","Do you want to know?
 Ah
-.",0.21428571428571427
+.",0.21428571428571427,0.25805312
 "I want the first Hokage's
 Scroll of Sealing!","(
 忍１
@@ -868,7 +868,7 @@ Scroll of Sealing!","(
 
 ","It is a written book of the first fire shadow
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.22271755
 "If you bring it to me,
 I'll return the brat!","持ってくれば
 このガキを返してやる
@@ -876,12 +876,12 @@ I'll return the brat!","持ってくれば
 
 ","If you bring it
 I will return this oyster
-.",0.35294117647058826
+.",0.35294117647058826,0.62113065
 Scroll of Sealing...,"封印の書…
 ｡
 
 ","Book of seal ...
-.",0.2857142857142857
+.",0.2857142857142857,0.49830654
 Sasuke...,"あの…
  
 サスケ君
@@ -890,10 +890,10 @@ Sasuke...,"あの…
 ","that…
  
 Sasuke
-.",0.25
+.",0.25,0.8871336
 "What's up, all of a sudden?","急にどうしたの？
 
-",What happened suddenly?,0.18181818181818182
+",What happened suddenly?,0.18181818181818185,0.71043444
 Sakura...,"サクラ…
  
 中忍試験は諦めろ
@@ -902,7 +902,7 @@ Sakura...,"サクラ…
 ","Sakura ...
  
 I will give up
-.",0.2857142857142857
+.",0.2857142857142857,0.83131534
 Is it...?,"お前には
  
 まだ無理だ
@@ -911,24 +911,24 @@ Is it...?,"お前には
 ","You
  
 It is still impossible
-.",0.25
+.",0.25,0.14941685
 "So you're worried about me, right?","サスケ君！
 私のこと心配してくれるのね！
 
 ","Sasuke-kun!
-I'm worried about me!",0.23076923076923078
+I'm worried about me!",0.2307692307692308,0.37216076
 Get lost! If you don't want to die.,"下手をすると死ぬかもしれない
 ｡
 
 ","You may die if you get bad
-.",0.38461538461538464
+.",0.38461538461538464,0.45522335
 Don't make me angry!,"俺を怒らせるなよ！
 サスケ君
 ｡
 
 ","Don't get angry!
 Sasuke
-.",0.4444444444444444
+.",0.4444444444444444,0.44661975
 Sasuke!!,"(ﾓｴｷﾞ)
 ん～！
  
@@ -936,7 +936,7 @@ Sasuke!!,"(ﾓｴｷﾞ)
 
 ","!
  
-!",0.5
+!",0.5,0.29155627
 What're you doing?,"(
 忍１
 )
@@ -946,12 +946,12 @@ What're you doing?,"(
 
 ","What are you doing?
 Bring a note of the seal quickly
-.",0.2857142857142857
+.",0.2857142857142857,0.32571405
 "What'll happen... if I say, heck no?","嫌だねって言ったら
 どうなるんだ？
 
 ","If you say it's disgusting
-What will happen?",0.3125
+What will happen?",0.3125,0.46772832
 "Wha?!
 When did he do that?!","(
 忍１
@@ -966,7 +966,7 @@ When did he do that?!","(
  
 what…
  
-When!",0.3
+When!",0.3,0.46426082
 "As expected great leader!
 Moegi respects you.","(ﾓｴｷﾞ)
 さすが
@@ -983,22 +983,22 @@ leader
  
 Moegi
  
-respect!",0.2727272727272727
+respect!",0.2727272727272727,0.91338474
 You don't know when to give up!,"どうなったって平気だってばよ！
 
-",What happened to you!,0.2727272727272727
+",What happened to you!,0.2727272727272727,0.30503866
 Naruto!,"(
 木ノ葉丸
 )
 ナルト兄ちゃん！
 
-",Naruto brother!,0.6666666666666666
+",Naruto brother!,0.6666666666666666,0.90045047
 "Konohamaru, I was scared.","(ﾓｴｷﾞ)
 木ノ葉丸ちゃん
 怖かったよ！
 
 ","Kuno Maru-chan
-I was scared!",0.3333333333333333
+I was scared!",0.3333333333333333,0.59649074
 "Oh, there there...","(
 忍１
 )
@@ -1006,7 +1006,7 @@ I was scared!",0.3333333333333333
 ｡
 
 ","Oh
-.",0.2
+.",0.2,0.3772016
 "Leader, did you catch him?","(ｳﾄﾞﾝ)
 リーダー
  
@@ -1014,10 +1014,10 @@ I was scared!",0.3333333333333333
 
 ","leader
  
-Did you get caught?",0.4444444444444444
+Did you get caught?",0.4444444444444444,0.79753125
 "Oh, it's the Substitution Jutsu!","往生際が悪いんだってばよ！
 
-",If it is bad at the time of life!,0.2
+",If it is bad at the time of life!,0.2,0.14962292
 "If you don't want to turn out
 like this,","(
 忍２
@@ -1026,13 +1026,13 @@ like this,","(
 こうなりたくなかったら➡
 
 ","Hehehe ...
-If you don't want to",0.46153846153846156
+If you don't want to",0.4615384615384616,0.49523142
 "you'll give up on
 the Chunin Exam, too.","貴様も中忍試験を諦めるんだな
 ｡
 
 ","You also give up your Nakanobu Test
-.",0.26666666666666666
+.",0.26666666666666666,0.4652304
 "Big mistake if you think
 I'd say that.","な～んて言うと思ったら
 大間違いよ
@@ -1040,11 +1040,11 @@ I'd say that.","な～んて言うと思ったら
 
 ","If you think that you say
 Daimyo
-.",0.5454545454545454
+.",0.5454545454545454,0.27623436
 "I was aware of this Genjutsu
 right from the start!","変わり身の術だコレ！
 
-",Correspondence of the change of change!,0.23076923076923078
+",Correspondence of the change of change!,0.2307692307692308,0.086617306
 What?!,"(
 忍２
 )
@@ -1052,12 +1052,12 @@ What?!,"(
 本物のサスケ君はね➡
 
 ","what?
-Genuine Sasuke-kun",0.4
+Genuine Sasuke-kun",0.4,0.13631092
 invite me to go for a walk!,"私を散歩に誘ったりしないのよ
 ｡
 
 ","I will not invite me to take a walk
-.",0.38461538461538464
+.",0.38461538461538464,0.64774096
 That's right!,"そうよ！
  
 ついでに言うと
@@ -1066,22 +1066,22 @@ That's right!,"そうよ！
 ","that's right!
  
 To say
-You too vision",0.4444444444444444
+You too vision",0.4444444444444444,0.40411735
 "Incidentally, I've seen through that
 you're also an illusion","こんな幻術
 はなから気付いていたわ｡
 
 ","Such illusion
-I noticed that it was not.",0.16666666666666666
+I noticed that it was not.",0.16666666666666666,0.5709995
 that!,"悔しいこと言わせんな！
 
-",I'm sorry to say that!,0.2857142857142857
+",I'm sorry to say that!,0.2857142857142857,0.425581
 See?,"(
 忍２
 )
 初歩的だと？
 
-",Is it sage?,0.2
+",Is it sage?,0.2,0.07907932
 "Just what I'd expect of
 Kakashi's subordinate.","(
 忍２
@@ -1094,7 +1094,7 @@ Kakashi's subordinate.","(
 ","Hehehehe ...
 As expected, it is a part of Kakashi
 .
-➡",0.15
+➡",0.15,0.59728515
 "However, this will become reality
 in the Chunin Exam!","だが中忍試験では
 これが現実になるのだ
@@ -1104,28 +1104,28 @@ in the Chunin Exam!","だが中忍試験では
 ","But in Nakanobu Testing
 This is a reality
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.45867777
 I wonder if you can endure that...?,"お前に耐えられるかな？
 
-",Can you endure you?,0.4444444444444444
+",Can you endure you?,0.4444444444444444,0.79723036
 "The Chunin Exam isn't...
 The Chunin Exam isn't...!","中忍試験なんか…
 中忍試験なんか！
 
 ","Nakanobu Test ...
-Nakanobu Test!",0.2222222222222222
+Nakanobu Test!",0.2222222222222222,0.374603
 I'm still not sure if I can do it...,"上等よ
 いつでも受けて立ってやるわよ
 ｡
 
 ","Above
 I will do it at any time
-.",0.1875
+.",0.1875,0.40626472
 <i>That was a stupid thing to do...</i>,"くだらねえマネしやがる
 ｡
 
 ","I will do a crazy mane
-.",0.1875
+.",0.1875,0.10637573
 How was it?,"(ｶｶｼ)
 どうでした？
 (
@@ -1135,12 +1135,12 @@ How was it?,"(ｶｶｼ)
 
 ","How was?
 
-Successful ➡",0.5
+Successful ➡",0.5,0.535108
 but all nine of the rookies passed.,"合格しましたよ
 ｡
 
 ","I passed
-.",0.2222222222222222
+.",0.2222222222222222,0.36225045
 "Hey, have you heard?","(
 リー
 )
@@ -1152,14 +1152,14 @@ but all nine of the rookies passed.,"合格しましたよ
 ","Oi
  
 Were you heard?
-Nakanobu this time ➡",0.25
+Nakanobu this time ➡",0.25,0.3418076
 for the first time in five years.,"５年ぶりに
 ルーキーが出てくるって
 ｡
 
 ","For the first time in five years
 Rookie comes out
-.",0.7272727272727273
+.",0.7272727272727273,0.59570396
 "It's probably just a Jonin battle of wills
 or something anyway.","(ﾃﾝﾃﾝ)
 ま～さか…
@@ -1170,7 +1170,7 @@ or something anyway.","(ﾃﾝﾃﾝ)
 ","Mayo ...
  
 Anyway
-Is it the mean or something?",0.21052631578947367
+Is it the mean or something?",0.21052631578947367,0.1441977
 "The story is that three among them
 are that Kakashi's unit.","あのカカシの部隊だ
 っていう話だぜ
@@ -1178,7 +1178,7 @@ are that Kakashi's unit.","あのカカシの部隊だ
 
 ","That Kakashi's unit
 It is the story of
-.",0.5714285714285714
+.",0.5714285714285714,0.8580745
 That's interesting...,"(
 ネジ
 )
@@ -1190,7 +1190,7 @@ That's interesting...,"(
 ","Interesting
  
 That
-.",0.4
+.",0.4,0.6688023
 That's a sad story...,"(
 ネジ
 )
@@ -1204,7 +1204,7 @@ That's a sad story...,"(
 .
 
 Fufu ...
-.",0.4
+.",0.4,0.45540574
 "Sakura, you're late!","サクラちゃん！
  
 遅いってばよ
@@ -1213,7 +1213,7 @@ Fufu ...
 ","Sakura-chan!
  
 It is late
-.",0.2
+.",0.2,0.87896603
 Yeah... sorry...,"あっ…
  
 ごめん
@@ -1222,7 +1222,7 @@ Yeah... sorry...,"あっ…
 ","Ah…
  
 sorry
-.",0.2
+.",0.2,0.47476912
 "Morning, Sasuke.","おはよう
  
 サスケ君
@@ -1231,7 +1231,7 @@ sorry
 ","good morning
  
 Sasuke
-.",0.6
+.",0.6,0.9077588
 Yeah...,"(ﾃﾝﾃﾝ)
 まぁ
  
@@ -1241,14 +1241,14 @@ Yeah...,"(ﾃﾝﾃﾝ)
 ","Maic
  
 Anyway ...
-.",0.2
+.",0.2,0.31797227
 <i>Something's strange about Sakura.</i>,"《サクラのヤツ
  
 何か変だな》
 
 ","""Sakura guy
  
-Something strange",0.16666666666666666
+Something strange",0.16666666666666666,0.75038093
 May it'd be best if you runts quit.,"(
 忍２
 )
@@ -1258,7 +1258,7 @@ May it'd be best if you runts quit.,"(
 
 ","You should stop it?
 We
-.",0.21428571428571427
+.",0.21428571428571427,0.20450719
 Please let us through.,"(ﾃﾝﾃﾝ)
 お願いですから
 そこを通してください
@@ -1266,7 +1266,7 @@ Please let us through.,"(ﾃﾝﾃﾝ)
 
 ","So
 Please pass through
-.",0.42857142857142855
+.",0.42857142857142855,0.6562927
 That's... mean...,"(
 忍１
 )
@@ -1281,19 +1281,19 @@ That's... mean...,"(
 ","Bull of ass
 Gook
 That's why
-.",0.2
+.",0.2,0.14533179
 What did you say?!,"何だって？
  
 いいか？
 
 ","What is it?
  
-Is it okay?",0.2222222222222222
+Is it okay?",0.2222222222222222,0.19960985
 just because they took this Exam.,"この試験を受験したばっかりに
 忍をやめていく者➡
 
 ","It is just the exam of this exam
-Person who stops Shinobu",0.2
+Person who stops Shinobu",0.2,0.46491948
 "Mission failures,
 death of subordinates,","任務の失敗
  
@@ -1301,7 +1301,7 @@ death of subordinates,","任務の失敗
 
 ","Mission failure
  
-Death of the subordinates",0.5
+Death of the subordinates",0.5,0.9511999
 "it's all part of the
 responsibilities of a leader!","それは
  
@@ -1315,7 +1315,7 @@ responsibilities of a leader!","それは
 all
 It is the responsibility of the captain
 .
-➡",0.25
+➡",0.25,0.503132
 "What's so bad about weeding out
 those who won't pass anyway?!","どっち道
  
@@ -1329,19 +1329,19 @@ those who won't pass anyway?!","どっち道
 Those who do not receive
 here
  
-What is bad for sieves?",0.20833333333333334
+What is bad for sieves?",0.20833333333333331,0.30051404
 A just argument.,"正論だな
  
 だが➡
 
 ","It is a positive argument
  
-But",0.25
+But",0.25,0.48241174
 "However, you will let me through.","俺は通してもらおう
 ｡
 
 ","Let me go through
-.",0.4444444444444444
+.",0.4444444444444444,0.6978151
 "And could you also immediately
 undo this barrier created with Genjutsu?","そして
  
@@ -1349,12 +1349,12 @@ undo this barrier created with Genjutsu?","そして
 
 ","and
  
-Band bound by this illusion",0.125
+Band bound by this illusion",0.125,0.08434148
 I have business on the third floor.,"俺は３階に用があるんでな
 ｡
 
 ","I have a use on the third floor
-.",0.7
+.",0.7,0.733931
 What's this guy talking about...?,"それをこんなガキが…
 ｡
 (
@@ -1362,7 +1362,7 @@ What's this guy talking about...?,"それをこんなガキが…
 )
 
 ","That's like this ...
-.",0.2727272727272727
+.",0.2727272727272727,0.2051152
 "- Well, well...
 - So you noticed, eh?","ほう
 ｡
@@ -1380,7 +1380,7 @@ What's this guy talking about...?,"それをこんなガキが…
 Were you noticed?
  
 you
-.",0.25
+.",0.25,0.49005836
 "You should've been
 the first one to realize it.","サクラ
  
@@ -1396,7 +1396,7 @@ How is it?
  
 If you
 It should be noticed most
-.",0.2
+.",0.2,0.1254604
 "Your analytical strength and
 Genjutsu know how","え…
 ｡
@@ -1404,7 +1404,7 @@ Genjutsu know how","え…
 
 ","Huh…
 .
-Your analytical power and ➡",0.2727272727272727
+Your analytical power and ➡",0.2727272727272727,0.5258574
 Thank you...,"サスケ君…
  
 ありがとう
@@ -1413,15 +1413,15 @@ Thank you...,"サスケ君…
 ","Sasuke-kun ...
  
 Thank you
-.",0.6
+.",0.6,0.14865737
 Of course. I realized it ages ago!,"もちろん
 とっくに気付いてるわよ！
 
 ","of course
-I will not notice it!",0.4166666666666667
+I will not notice it!",0.4166666666666667,0.31008875
 Yup!,"うん！
 
-",Yes!,0.3333333333333333
+",Yes!,0.3333333333333333,0.7263056
 "He's a different person from
 when he was getting punched before!","この人
  
@@ -1431,7 +1431,7 @@ when he was getting punched before!","この人
 ","this person
  
 until a few minutes ago
-It is another person from the person who was beaten",0.17391304347826086
+It is another person from the person who was beaten",0.17391304347826084,0.5085859
 <i>He stopped my kick...</i>,"(
 リー
 )
@@ -1445,20 +1445,20 @@ It is another person from the person who was beaten",0.17391304347826086
 .
 ""My kick ...
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.66214263
 <i>What's with that Chakra in his arm?</i>,"何だ？
  
 こいつの腕のチャクラは》
 
 ","What?
  
-The chakra of this arm is """,0.2222222222222222
+The chakra of this arm is """,0.2222222222222222,0.8322507
 "you didn't want to carelessly
 attract attention and be watched.","下手に注目されて
 警戒されたくないと言ったのは➡
 
 ","Noticeable badly
-I said that I did not want to be alert",0.21052631578947367
+I said that I did not want to be alert",0.21052631578947367,0.42189693
 <i>This guy...</i>,"《こいつ
 打たれた痕が消えてやがる
 ｡
@@ -1467,10 +1467,10 @@ I said that I did not want to be alert",0.21052631578947367
 ","""this guy
 The strangled cham will disappear
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.24007814
 <i>Was he faking?</i>,"フェイクか》
 
-",Is it fake?,0.09090909090909091
+",Is it fake?,0.09090909090909093,0.35824123
 "My name's Rock Lee.
 Your name's Sakura, right...?","僕の名前はロック
 ･
@@ -1480,7 +1480,7 @@ Your name's Sakura, right...?","僕の名前はロック
 ","My name is rock
 ·
 Lee
-.",0.35714285714285715
+.",0.35714285714285715,0.6407386
 "Please go out with me!
 I'll protect you until I die!","死ぬまで
  
@@ -1488,7 +1488,7 @@ I'll protect you until I die!","死ぬまで
 
 ","until death
  
-I will protect you!",0.35714285714285715
+I will protect you!",0.35714285714285715,0.69121015
 Absolutely... not.,"絶対
  
 嫌
@@ -1497,7 +1497,7 @@ Absolutely... not.,"絶対
 ","absolutely
  
 Haughtiness
-.",0.4
+.",0.4,0.29799733
 You're... too intense.,"あんた
  
 濃ゆい
@@ -1514,7 +1514,7 @@ Dough
 .
 
 Gakun ...
-.",0.2222222222222222
+.",0.2222222222222222,0.16566452
 <i>Dang it! Again?</i>,"《ん？
  
 くっそ～
@@ -1525,7 +1525,7 @@ Gakun ...
  
 Clues ~
  
-See you again!➡",0.1875
+See you again!➡",0.1875,0.27467635
 "You're... a rookie, right?
 How old are you?","お前
  
@@ -1539,15 +1539,15 @@ How old are you?","お前
 Is it rookie?
 Year
  
-How many?",0.26666666666666666
+How many?",0.26666666666666666,0.73685795
 I'm not obliged to answer.,"答える義務はないな
 ｡
 
 ","There is no obligation to answer
-.",0.2727272727272727
+.",0.2727272727272727,0.7131604
 What...?,"何!?
 
-",what!?,0.5
+",what!?,0.5,0.7429951
 "Now then!
 Sasuke, Naruto, let's go!","さぁ
  
@@ -1563,7 +1563,7 @@ Sasuke
  
 Naruto
  
-I'm going!",0.23076923076923078
+I'm going!",0.2307692307692308,0.7651008
 "So those are Kakashi and
 Guy's treasured brats.","フフフ…
  
@@ -1577,7 +1577,7 @@ Guy's treasured brats.","フフフ…
 That is Kakashi and Guy
 The treasured child is a girl
 .
-➡",0.2631578947368421
+➡",0.2631578947368421,0.6943284
 "It appears this year's test takers
 will be amusing...","(ｺﾃﾂ)
 ことしの受験生は
@@ -1586,7 +1586,7 @@ will be amusing...","(ｺﾃﾂ)
 
 ","The student
 It seems to be enjoyable
-.",0.11764705882352941
+.",0.1176470588235294,0.32447493
 "For us proctors too, eh.","まっ
  
 とりあえず志願書提出は
@@ -1597,7 +1597,7 @@ It seems to be enjoyable
  
 First of all, submission
 It's a passing
-.",0.125
+.",0.125,0.1586328
 <i>Good grief...</i>,"《やれやれ
  
 化け物ぞろいだぜ
@@ -1608,7 +1608,7 @@ It's a passing
  
 It is a good thing
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.43984988
 "You're the overly intense guy
 who just got rejected by Sakura.","♬
  Don't cry
@@ -1616,7 +1616,7 @@ coz you're so right.
 
 ","♬
  Don't Cry
-COZ YOU'RE SO RIGHT.",0.15
+COZ YOU'RE SO RIGHT.",0.15,0.21787536
 "What's with your bizarre
 green jumpsuit?","♬
  Don't dry with
@@ -1624,10 +1624,10 @@ fakes or fears.
 
 ","♬
  Don't Dry With With
-Fakes or Fears.",0.0625
+Fakes or Fears.",0.0625,0.16819759
 "As for me,
 I'm going to kick butt once again!","♬
  for people like me
 
 ","♬
- for PEOPLE LIKE ME",0.125
+ for PEOPLE LIKE ME",0.125,0.1747442

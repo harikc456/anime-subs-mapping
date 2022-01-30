@@ -1,184 +1,184 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 Today we're hiking up a mountain\Nfor an extracurricular lesson...,"（高橋(たかはし)）
 今日は課外授業で山登りなんだけど",")
-Today I'm climbing in extracurricular classes",0.11764705882352941
-"""B-Big Sis"" Hika!",（高橋）えっ！　ひ… ひか姉,!Hika sister,0.2857142857142857
-T-Taka...?,（葉桜）タ… タカ？,Ta ... Taka?,0.4
-"Since that incident with her a bit ago,\NI'm strangely conscious of ""Big Sis"" Hika...",ひか姉のことを妙に意識しちゃって,I am strangely conscious about Hika sister,0.125
+Today I'm climbing in extracurricular classes",0.1176470588235294,0.70653665
+"""B-Big Sis"" Hika!",（高橋）えっ！　ひ… ひか姉,!Hika sister,0.2857142857142857,0.705616
+T-Taka...?,（葉桜）タ… タカ？,Ta ... Taka?,0.4,0.8582245
+"Since that incident with her a bit ago,\NI'm strangely conscious of ""Big Sis"" Hika...",ひか姉のことを妙に意識しちゃって,I am strangely conscious about Hika sister,0.125,0.8063592
 Taka!,"（高橋）うわっ
 （葉桜）タカ！","Wow
- Taka!",0.6666666666666666
-Alright!,（葉桜）よし！,good!,0.3333333333333333
-Huh?,あれ？,that?,0.3333333333333333
-Eighth Period,〜♪,~ ♪,0.0
+ Taka!",0.6666666666666666,0.80052435
+Alright!,（葉桜）よし！,good!,0.3333333333333333,0.60801107
+Huh?,あれ？,that?,0.3333333333333333,0.6348128
+Eighth Period,〜♪,~ ♪,0.0,0.12633888
 "Sorry, ""Bis Sis"" Hika, \Nthis is all my fault...","（高橋）
-ごめん ひか姉 僕のせいで…",Sorry for my sister mine ...,0.1875
+ごめん ひか姉 僕のせいで…",Sorry for my sister mine ...,0.1875,0.49304864
 "Well, it was also my bad for\Nhassling you in a place like that.","まあ あんなとこで
 絡んだアタシも悪かったし","Well in such a cousin
-The entangled Atashi was bad",0.25
-"Taka, you alright?",タカは大丈夫か？,Is Taka all right?,0.25
-"""Big Sis"" Hika, I'm cold.",ひか姉 寒い,Hika sister cold,0.18181818181818182
+The entangled Atashi was bad",0.25,0.21853682
+"Taka, you alright?",タカは大丈夫か？,Is Taka all right?,0.25,0.6487247
+"""Big Sis"" Hika, I'm cold.",ひか姉 寒い,Hika sister cold,0.18181818181818185,0.799078
 "All the same, there's not \Nexactly a way to warm you up.","んなこと言っても
 温める方法なんて…","Even if you say something
-How to warm ...",0.14285714285714285
-"Hmm, but that would be...",あ〜 でも それは…,"Oh, that's ...",0.3333333333333333
+How to warm ...",0.14285714285714285,0.5455165
+"Hmm, but that would be...",あ〜 でも それは…,"Oh, that's ...",0.3333333333333333,0.32450005
 This is no time to worry about that!,"あっ いや そういや
 この前 テレビで…","There is no way
-On this TV ...",0.21428571428571427
+On this TV ...",0.21428571428571427,0.13831982
 They say in times like this it's best to warm\Nsomeone up with the warmth of your bare skin.,"（葉桜）
 こういうときは
 人肌で温めるのがいいんだってさ","In such a case
-It is good to warm up with human skin",0.2222222222222222
-Hey!,ほら 脱げ！,Remove me!,0.25
-"""Bare... skin""...?",（高橋）人肌…,people skin ...,0.2857142857142857
-"Look, it's fine. Come over here.",ほら いいよ　こっち来い,You come here,0.2
-"""Big Sis"" Hika...",（高橋）ひか姉,Hika sister,0.14285714285714285
-How's that? Nice and warm?,どうだ？　あったかいか？,How is it?Is it?,0.2222222222222222
-Y-you alright?!,へ？,fart?,0.2
-I'm thirsty.,喉 渇いた,Thirsty,0.25
+It is good to warm up with human skin",0.2222222222222222,0.72059155
+Hey!,ほら 脱げ！,Remove me!,0.25,0.3050846
+"""Bare... skin""...?",（高橋）人肌…,people skin ...,0.2857142857142857,0.55614763
+"Look, it's fine. Come over here.",ほら いいよ　こっち来い,You come here,0.2,0.46574765
+"""Big Sis"" Hika...",（高橋）ひか姉,Hika sister,0.14285714285714285,0.7678614
+How's that? Nice and warm?,どうだ？　あったかいか？,How is it?Is it?,0.2222222222222222,0.39146194
+Y-you alright?!,へ？,fart?,0.2,0.19513527
+I'm thirsty.,喉 渇いた,Thirsty,0.25,0.8231585
 O-oh!,"（葉桜）
-ええ〜！",Yes~!,0.3333333333333333
+ええ〜！",Yes~!,0.3333333333333333,0.4394608
 Hold on a sec. I'll grab the water bottle...,"ちょっと待っとけ
 今 水筒を…","I will wait for a while
-Now the water bottle now ...",0.35294117647058826
-"Taka, what're you-?!",（葉桜）タカ 何して…,Taka what ...,0.25
+Now the water bottle now ...",0.35294117647058826,0.72766674
+"Taka, what're you-?!",（葉桜）タカ 何して…,Taka what ...,0.25,0.70692706
 "I-I have some barley tea \Nhere, so drink that, 'kay?!","む… 麦茶あるから こっち飲め！
 な！","I can drink it because there is a barley tea!
-!",0.2
-"Oh, crap!",（葉桜）ああ〜！,Oh ~!,0.4
-Tea...,（高橋）お茶…,Tea ...,1.0
-Ta-?!,んっ！,!,0.3333333333333333
-"H-hold up. Taka, don't drink that!",タカ 飲むな,Don't drink Taka,0.4
+!",0.2,0.7799159
+"Oh, crap!",（葉桜）ああ〜！,Oh ~!,0.4,0.5522635
+Tea...,（高橋）お茶…,Tea ...,1.0,1.0000001
+Ta-?!,んっ！,!,0.3333333333333333,0.38280407
+"H-hold up. Taka, don't drink that!",タカ 飲むな,Don't drink Taka,0.4,0.7074671
 It's still not enough...,"（高橋）
-足りない",not enough,0.3333333333333333
-"So you've finally settled down, huh?",（葉桜）やっと落ち着いたか,finally settled,0.2222222222222222
+足りない",not enough,0.3333333333333333,0.60922575
+"So you've finally settled down, huh?",（葉桜）やっと落ち着いたか,finally settled,0.2222222222222222,0.63223374
 There's nothing I hate more than\Nthe thought of something happening to you.,"（高橋）
-僕がひか姉を意識しているのは",I am aware of my sister,0.1111111111111111
+僕がひか姉を意識しているのは",I am aware of my sister,0.1111111111111111,0.08749506
 has always been a bit \Nill-natured and rough...,"だから もしかしたら
 僕は昔からずっと…","So if it is
-I have always been ...",0.2
+I have always been ...",0.2,0.35372534
 "But, she's incredibly kind, so...","（高橋）
-でも すごく優しくて",But it is very kind,0.18181818181818182
-Hm? You awake?,ん？　起きたのか,Yeah?Were you wake up,0.25
-Go ahead and sleep a bit longer.,もう少し寝ててもいいぞ,You can sleep a little more,0.16666666666666666
-Hm?,えっ？,eh?,0.3333333333333333
-"I love you, ""Big Sis"" Hika.",（高橋）好きだよ ひか姉,I like Takahashi,0.08333333333333333
-Wh-what do you mean by that?!,そ… それ どういう意味だ？,So ... that mean?,0.3
-"Hey, Taka?!",おい タカ！,Good Taka!,0.3333333333333333
-Don't go to sleep! Wake up!,寝るな　起きろ〜！,Do not go to sleep!,0.5555555555555556
+でも すごく優しくて",But it is very kind,0.18181818181818185,0.59689194
+Hm? You awake?,ん？　起きたのか,Yeah?Were you wake up,0.25,0.55994236
+Go ahead and sleep a bit longer.,もう少し寝ててもいいぞ,You can sleep a little more,0.16666666666666666,0.68248546
+Hm?,えっ？,eh?,0.3333333333333333,0.53562206
+"I love you, ""Big Sis"" Hika.",（高橋）好きだよ ひか姉,I like Takahashi,0.08333333333333333,0.21871114
+Wh-what do you mean by that?!,そ… それ どういう意味だ？,So ... that mean?,0.3,0.18457057
+"Hey, Taka?!",おい タカ！,Good Taka!,0.3333333333333333,0.7635161
+Don't go to sleep! Wake up!,寝るな　起きろ〜！,Do not go to sleep!,0.5555555555555556,0.83371574
 "Today's the day of the\NKawanuma Festival, a joint event.","（鈴木(すずき)）
 今日は合同イベントの川沼(かわぬま)祭",")
-Today is the Joint Event Kawanuma Festival",0.3333333333333333
-"Within this bustling crowd of students,\Ntoday I am once again alone.",僕は今日も独り,I am alone today,0.2
-"At least, that's how it was supposed to be...",…のはずだったのに,I was supposed to be ...,0.38461538461538464
-Why is this happening?!,というか なんで制服なんですか？,Why is it uniform?,0.375
-"No problem at all. After \Nall, I was all on my own.",（鈴木）全然　どうせ独りでしたし,I was alone at all at all,0.2857142857142857
-No! You don't look the least bit outta place.,いえ 全く違和感ないですよ,No sense of discomfort,0.06666666666666667
+Today is the Joint Event Kawanuma Festival",0.3333333333333333,0.7890128
+"Within this bustling crowd of students,\Ntoday I am once again alone.",僕は今日も独り,I am alone today,0.2,0.46951896
+"At least, that's how it was supposed to be...",…のはずだったのに,I was supposed to be ...,0.38461538461538464,0.53030634
+Why is this happening?!,というか なんで制服なんですか？,Why is it uniform?,0.375,0.11952624
+"No problem at all. After \Nall, I was all on my own.",（鈴木）全然　どうせ独りでしたし,I was alone at all at all,0.2857142857142857,0.43829638
+No! You don't look the least bit outta place.,いえ 全く違和感ないですよ,No sense of discomfort,0.06666666666666668,0.15306905
 "I invited Suzuki-kun with the hope of\Ngetting on a bit better with him,","（松風）
 鈴木君と
 少しでも仲良くなりたくって","With Suzuki-kun
-I wanted to get along well even a little",0.2
-"but, sure enough, I'm nervous.",やっぱり緊張して…,After all I'm nervous ...,0.2727272727272727
-"Huh? Why, if it isn't Matsukaze-chan!",な… なら いいんですが,It is good if ...,0.25
+I wanted to get along well even a little",0.2,0.7544364
+"but, sure enough, I'm nervous.",やっぱり緊張して…,After all I'm nervous ...,0.2727272727272727,0.74533004
+"Huh? Why, if it isn't Matsukaze-chan!",な… なら いいんですが,It is good if ...,0.25,0.20083767
 Hazakura-sensei?!,"（葉桜）
-あれ？　松風ちゃんじゃん！",that?Matsukaze Chan!,0.3333333333333333
-"Well, this is perfect.\NGo and try the program I'm putting on!",（葉桜）いわゆるケイドロだな,I'm so-called cydro,0.125
+あれ？　松風ちゃんじゃん！",that?Matsukaze Chan!,0.3333333333333333,0.32187393
+"Well, this is perfect.\NGo and try the program I'm putting on!",（葉桜）いわゆるケイドロだな,I'm so-called cydro,0.125,0.039962903
 Wh-what exactly are you putting on?,"（松風）
-な… 何をやってるんですか",... What are you doing?,0.3
-The goal's to find the criminals\Nrunning around the school...,学校中で逃げ回る犯人たちを,The criminal who runs away in school,0.14285714285714285
-"Despite your age, you've gone\Noutta your way to wear a school uniform",その歳で わざわざ制服まで着て,Wear up to uniforms in that age,0.17647058823529413
-"and come here on a date,",デートしちゃうぐらいなんだから,Because I'm going to date,0.08333333333333333
+な… 何をやってるんですか",... What are you doing?,0.3,0.33745563
+The goal's to find the criminals\Nrunning around the school...,学校中で逃げ回る犯人たちを,The criminal who runs away in school,0.14285714285714285,0.54328537
+"Despite your age, you've gone\Noutta your way to wear a school uniform",その歳で わざわざ制服まで着て,Wear up to uniforms in that age,0.17647058823529413,0.66063225
+"and come here on a date,",デートしちゃうぐらいなんだから,Because I'm going to date,0.08333333333333333,0.48398265
 "so you must really have a thing for\Nthat Suzuki guy, huh?","あの鈴木ってヤツに
 気があるんじゃない？","That Suzuki is a guy
-Aren't you feeling?",0.2777777777777778
-"Now, come on!",ななな… 何を突然！,Nana ... What suddenly!,0.1111111111111111
+Aren't you feeling?",0.2777777777777778,0.7691567
+"Now, come on!",ななな… 何を突然！,Nana ... What suddenly!,0.1111111111111111,0.2347409
 The key for the handcuffs is on top of\Nthe shelf just beyond this door.,"（葉桜）
 さあさあ 手錠の鍵は
 ドアを開けて すぐの棚の上","Case of handcuffs key
-Open the door and above her shelf",0.25
+Open the door and above her shelf",0.25,0.81183505
 "But, inside there is a space for\Njust the two of you that nobody'll interrupt!","でも 中は誰の邪魔も入らない
 ２人だけの空間だ","But all do not get in the way of anyone
-It is only two people",0.18518518518518517
+It is only two people",0.1851851851851852,0.35170928
 "Which is to say, you can do as you like!","ということで あとはお好きに
 ダッハッハッ！","I like it after that
-Dachhaha!",0.125
-What a free spirit.,（鈴木）なんて自由な人だ,is a free person,0.2857142857142857
+Dachhaha!",0.125,0.3198472
+What a free spirit.,（鈴木）なんて自由な人だ,is a free person,0.2857142857142857,0.4726705
 "Uh, so the key's on top of the shelf, right?","（鈴木）
-ええと 鍵 棚の上でしたよね",Yeah and it was on the key shelf,0.25
-This thing here?,これか,This,0.25
-"U-um, Suzuki-kun, did you overhear\Nthat discussion a moment ago?",さっきの話 聞こえてましたか？,Did you hear the story?,0.21428571428571427
+ええと 鍵 棚の上でしたよね",Yeah and it was on the key shelf,0.25,0.7431798
+This thing here?,これか,This,0.25,0.40759403
+"U-um, Suzuki-kun, did you overhear\Nthat discussion a moment ago?",さっきの話 聞こえてましたか？,Did you hear the story?,0.21428571428571427,0.21436536
 "So you must really have a thing for\Nthat Suzuki guy, huh?","（葉桜）
 あの鈴木ってヤツに
 気があるんじゃない？","That Suzuki is a guy
-Aren't you feeling?",0.2777777777777778
+Aren't you feeling?",0.2777777777777778,0.7691567
 I heard it loud and clear!,"（鈴木）
-めっちゃ聞こえてました！",I heard it!,0.5714285714285714
+めっちゃ聞こえてました！",I heard it!,0.5714285714285714,0.5659845
 S-she has a thing for me? What the...?!,"ぼ… 僕に気があるって
 どういうこと？","... I feel like I
-What do you mean?",0.17647058823529413
-"But, if she really does....",でも 本当にそうなら…,But it's really true ...,0.2727272727272727
-What's the matter?,どうしました？,What's wrong?,0.5
-"Oh, I got the key.",ああ 鍵ありましたよ,"Oh, there was a key",0.3
-Uh-oh!,しまった！,Oops!,0.3333333333333333
-U-unbelievable! My clothes got\Ncaught on the handcuffs...,そんな… 服が手錠に引っかかって,Such ... The clothes are caught in handcuffs,0.3076923076923077
-Please don't look!,見ないでください,dont look,0.16666666666666666
-I won't! I'm gonna search for the key!,（鈴木）見ません　鍵を探します,I will not see the key,0.21428571428571427
-"But, the key is...",（松風）でも 鍵は お尻にあります,But the key is in the buttocks,0.5
+What do you mean?",0.17647058823529413,0.28960353
+"But, if she really does....",でも 本当にそうなら…,But it's really true ...,0.2727272727272727,0.5078789
+What's the matter?,どうしました？,What's wrong?,0.5,0.44577813
+"Oh, I got the key.",ああ 鍵ありましたよ,"Oh, there was a key",0.3,0.732269
+Uh-oh!,しまった！,Oops!,0.3333333333333333,0.44059008
+U-unbelievable! My clothes got\Ncaught on the handcuffs...,そんな… 服が手錠に引っかかって,Such ... The clothes are caught in handcuffs,0.3076923076923077,0.6087897
+Please don't look!,見ないでください,dont look,0.16666666666666666,0.5977859
+I won't! I'm gonna search for the key!,（鈴木）見ません　鍵を探します,I will not see the key,0.21428571428571427,0.65822077
+"But, the key is...",（松風）でも 鍵は お尻にあります,But the key is in the buttocks,0.5,0.555318
 Why?!,"（鈴木）
-な〜んで？",why?,0.6666666666666666
-You can't get it yourself?!,取れないんですか？,Can't get it?,0.625
+な〜んで？",why?,0.6666666666666666,0.800082
+You can't get it yourself?!,取れないんですか？,Can't get it?,0.625,0.46643516
 If he was to open the door right now...,"（鈴木）
 マズいですよ
 今 ドアを開けられたら…","It is palm
-If you can open the door now ...",0.4
-Now that it's come to this...,こうなったら,When it comes to this,0.3
+If you can open the door now ...",0.4,0.4057628
+Now that it's come to this...,こうなったら,When it comes to this,0.3,0.48843935
 "Um, can you close your eyes\Nand make sure not to look?","あの そのまま目を閉じて
 見ないでもらえますか","Close your eyes as it is
-Can you not see it",0.2777777777777778
-"Uh, sure.",あ… はい,"Oh, yes",0.16666666666666666
-"But, what're you gonna do?",でも どうするんですか,But what do you do?,0.5555555555555556
-I-I'll give you instructions...,わ… 私が指示を出すので,Wow ... I will give an instruction,0.18181818181818182
-s-so put your hands out in front of you...,そ… そのまま手を前に出して,So ... I put my hand in front of it,0.3333333333333333
-"and take off my panties, please.",パ… パンツ脱がしてください,... Please take off your pants,0.2727272727272727
-"Huh?! Uh, that's a bit...",は？　いや それは…,"teeth?No, it's ...",0.3076923076923077
+Can you not see it",0.2777777777777778,0.75923854
+"Uh, sure.",あ… はい,"Oh, yes",0.16666666666666666,0.416387
+"But, what're you gonna do?",でも どうするんですか,But what do you do?,0.5555555555555556,0.6589639
+I-I'll give you instructions...,わ… 私が指示を出すので,Wow ... I will give an instruction,0.18181818181818185,0.7079582
+s-so put your hands out in front of you...,そ… そのまま手を前に出して,So ... I put my hand in front of it,0.3333333333333333,0.6435127
+"and take off my panties, please.",パ… パンツ脱がしてください,... Please take off your pants,0.2727272727272727,0.69051933
+"Huh?! Uh, that's a bit...",は？　いや それは…,"teeth?No, it's ...",0.3076923076923077,0.26989585
 "But, I wouldn't dare ask \Nanyone but you, Suzuki-kun.","でも こんなこと
 鈴木君以外に言いません","But this
-I do not say anything other than Suzuki-kun",0.16666666666666666
+I do not say anything other than Suzuki-kun",0.16666666666666666,0.82950747
 "I'm not sure exactly what \NSensei thinks of me,","（鈴木）
 先生が僕のことを
 どう思ってるのかは分からないけど","The teacher is me
-I do not know what I think",0.23529411764705882
-but I can at least see that she trusts me.,信頼されてるのだけは分かった,I understand that it was trusted,0.13333333333333333
+I do not know what I think",0.2352941176470588,0.30363443
+but I can at least see that she trusts me.,信頼されてるのだけは分かった,I understand that it was trusted,0.13333333333333333,0.41611594
 I can't simply betray that \Nimpression she has of me!,"（鈴木）
 その気持ちを
 裏切るわけにはいかない！","The feeling
-I can not betray it!",0.17647058823529413
+I can not betray it!",0.17647058823529413,0.6192932
 Oh? Seems kinda soft...,"（鈴木）
-あれ？　なんか柔らか…",that?Something soft ...,0.375
+あれ？　なんか柔らか…",that?Something soft ...,0.375,0.76481426
 M-my panties are lower down!,"（松風）
-パ… パンツはもっと下です",Pants are more,0.125
-The key...,（鈴木）鍵が…,key ...,0.6666666666666666
-I am concerned about it!,（鈴木）気にしますよ！,I will care about!,0.375
-"You placed your trust in me,\Nand yet I always... I always...",せっかく信頼してくれたのに,I trusted me a lot,0.13333333333333333
-"""Trouble,"" you say?",迷惑ですか？,Are you annoying?,0.2222222222222222
+パ… パンツはもっと下です",Pants are more,0.125,0.4776215
+The key...,（鈴木）鍵が…,key ...,0.6666666666666666,0.7495297
+I am concerned about it!,（鈴木）気にしますよ！,I will care about!,0.375,0.43833148
+"You placed your trust in me,\Nand yet I always... I always...",せっかく信頼してくれたのに,I trusted me a lot,0.13333333333333333,0.62762153
+"""Trouble,"" you say?",迷惑ですか？,Are you annoying?,0.2222222222222222,0.35773998
 "Suzuki-kun, even if other people might say\Nthe things you do to me are troublesome...","（松風）
 鈴木君が私にしたことを
 ほかの人が迷惑と言っても","Suzuki-kun was to me
-Even if other people say they are annoying",0.4
-I don't feel that way.,私は そう感じません,I do not feel so,0.3333333333333333
-I mean...,私 何言って…,What I say ...,0.4
-"after all, I love you, Suzuki-kun.",私は鈴木君のことが大好きですから,I love Suzuki-kun,0.375
+Even if other people say they are annoying",0.4,0.76128006
+I don't feel that way.,私は そう感じません,I do not feel so,0.3333333333333333,0.7820627
+I mean...,私 何言って…,What I say ...,0.4,0.47965804
+"after all, I love you, Suzuki-kun.",私は鈴木君のことが大好きですから,I love Suzuki-kun,0.375,0.8489984
 I said it! I've gone and \Nsaid it! How embarrassing.,"（松風）
 言っちゃった 言っちゃった
 恥ずかしい","I said that I said
-Embarrassing",0.25
-Matsukaze-sensei... really \Nhas feelings for me...,本当に僕のこと…,Really me ...,0.42857142857142855
-"But, what should I do?",でも どうすれば,But what if,0.25
-"Sato!\NHey now, Taka!",（児嶋(こじま)）佐藤(さとう)！,) Sato !,0.2857142857142857
-"What is it?!\NHey now, Taka!",（佐藤）何ですか？,What is it?,0.4444444444444444
-"Good work, Taka!",ご苦労！　タカ,Drying!Taka,0.3333333333333333
-"Where'd you go, anyway?!",どこ行ってたの？,where did you go?,0.4444444444444444
+Embarrassing",0.25,0.568502
+Matsukaze-sensei... really \Nhas feelings for me...,本当に僕のこと…,Really me ...,0.42857142857142855,0.14254096
+"But, what should I do?",でも どうすれば,But what if,0.25,0.38801226
+"Sato!\NHey now, Taka!",（児嶋(こじま)）佐藤(さとう)！,) Sato !,0.2857142857142857,0.8044268
+"What is it?!\NHey now, Taka!",（佐藤）何ですか？,What is it?,0.4444444444444444,0.3400826
+"Good work, Taka!",ご苦労！　タカ,Drying!Taka,0.3333333333333333,0.4792859
+"Where'd you go, anyway?!",どこ行ってたの？,where did you go?,0.4444444444444444,0.6379152
 "Well, seems everyone around me\Nis doing basically just that, though.","（鈴木）
 まあ 僕の周り
 そんな感じの人ばっかりだけど","Well around me
-It's just like that",0.25
+It's just like that",0.25,0.6004502

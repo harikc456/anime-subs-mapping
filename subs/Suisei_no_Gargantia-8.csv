@@ -1,281 +1,281 @@
-en_text,jp_text,google_translated,score
-Ridget...,（フェアロック）んんっ… うん,...,0.5
-"Yes, Commodore?",（リジット）はい　船団長,Yes Holder,0.2
-Take this.,これは…,this is…,0.25
-But...,（クラウン）はあっ…,...,0.5
-Take good care of the fleet.,船団を…,The fleet ...,0.25
+en_text,jp_text,google_translated,score,semantic_score
+Ridget...,（フェアロック）んんっ… うん,...,0.5,0.27346385
+"Yes, Commodore?",（リジット）はい　船団長,Yes Holder,0.2,0.36400497
+Take this.,これは…,this is…,0.25,0.25018814
+But...,（クラウン）はあっ…,...,0.5,0.6556241
+Take good care of the fleet.,船団を…,The fleet ...,0.25,0.69051725
 "Commodore Fairlock,\N Gargantia needs you!","ガルガンティアには
 あなたが必要です","Gargantia
-You need",0.2222222222222222
-I don't think...,私にはとても…,I am very ...,0.2857142857142857
-I can hold my head high when\N.I give my report to your father.,君の父上にも胸を張って,I put my chest on your father,0.25
-Commodore!,船団長！,Road chief!,0.25
-No...,（オルダム）ん…,...,0.5
+You need",0.2222222222222222,0.4752904
+I don't think...,私にはとても…,I am very ...,0.2857142857142857,0.23074204
+I can hold my head high when\N.I give my report to your father.,君の父上にも胸を張って,I put my chest on your father,0.25,0.42622927
+Commodore!,船団長！,Road chief!,0.25,0.35375628
+No...,（オルダム）ん…,...,0.5,0.660704
 Earth coordinates confirmed.,"（チェインバー）
-地球の位置座標を確認",Check the position coordinates of the earth,0.25
+地球の位置座標を確認",Check the position coordinates of the earth,0.25,0.6867602
 Current Galactic Alliance \Nstandard coordinates confirmed.,"（チェインバー）
 銀河同盟標準座標による
 現在位置を確認","Galactic alliance with standard coordinates
-Check the current position",0.3333333333333333
-Really?,（レド）本当か？ 帰還は可能か？,true?Is it possible to return?,0.125
-I am incapable of such actions.,そんな… バカな…,It is a such a fool…,0.09090909090909091
-What about the distress beacon?,なに！ 救難信号は？,what!What is the rescue signal?,0.3
+Check the current position",0.3333333333333333,0.74260104
+Really?,（レド）本当か？ 帰還は可能か？,true?Is it possible to return?,0.125,0.17734458
+I am incapable of such actions.,そんな… バカな…,It is a such a fool…,0.09090909090909093,0.27822667
+What about the distress beacon?,なに！ 救難信号は？,what!What is the rescue signal?,0.3,0.5516837
 The estimated time of arrival of the first signals sent out upon crash-landing on Earth,"最初に発信した信号が
 到達するまでに","The first signal sent out
-By the time",0.3333333333333333
+By the time",0.3333333333333333,0.6109902
 "is 6582 years, 16 hours,\N and 20 minutes.","およそ 6582年と
 16時間20分を要する","About 6582 years
-It takes 16 hours 20 minutes",0.42857142857142855
+It takes 16 hours 20 minutes",0.42857142857142855,0.84543145
 Returning to the fleet is\N.realistically unfeasible.,"（チェインバー）
 本体への帰還は
 事実上 不可能と断定","Feedback to the main unit
-Virtually impossible and refusal",0.14285714285714285
-I can't go back...,帰れない…,I can not go back ...,0.5
-Separation,〜♪,~ ♪,0.0
-Ridget?,（船主Ａ）リジットを？,Rigid?,0.3333333333333333
+Virtually impossible and refusal",0.14285714285714285,0.23824783
+I can't go back...,帰れない…,I can not go back ...,0.5,0.9491009
+Separation,〜♪,~ ♪,0.0,0.118461944
+Ridget?,（船主Ａ）リジットを？,Rigid?,0.3333333333333333,0.4215404
 That little girl?,"（船主Ｂ）
-ホントかよ　あんな小娘が！",She is really a little girl!,0.2222222222222222
+ホントかよ　あんな小娘が！",She is really a little girl!,0.2222222222222222,0.62246996
 Ship commanders!,"（リジット）船主連の皆さん
 （船主たち）おっ？","Every of the ship
-?",0.14285714285714285
-I'm glad you're all here.,今する話かよ,I'm talking about now,0.18181818181818182
+?",0.14285714285714285,0.5461617
+I'm glad you're all here.,今する話かよ,I'm talking about now,0.18181818181818185,0.20637141
 We need to discuss Flange's request to split off from the fleet.,"フランジの離船問題で
 ご相談をさせて頂きたいのですが","In the flange leaving problem
-I would like to ask you",0.14285714285714285
-"Oh, please.",（船主Ａ）お〜い おい,Oh ~,0.2
+I would like to ask you",0.14285714285714285,0.5764513
+"Oh, please.",（船主Ａ）お〜い おい,Oh ~,0.2,0.44120032
 He thought of you as his own daughter.,"（船主Ｃ）娘同然のあんたが
 （リジット）あっ…","Daughter Anynata
- ...",0.09090909090909091
-He took you under his wing\N after Chevron died!,だいたいシュブロンが死んだ後,After a long time Surblon died,0.14285714285714285
-What are all of you doing?,（クラウン）何をしてる？,What are you doing?,0.7142857142857143
-Let's go.,（船主Ａ）すまん すまん 行こう,Let's go,0.75
-Opposition will always exist.,早く舳先に集まってくれんと,I will gather at the tip soon,0.09090909090909091
-You can't go back?,（ピニオン）帰れないだと？,can't you go home?,0.7142857142857143
-Killing them is my duty.,（レド）奴を殺すのが 俺の使命だ,is my mission to kill the guy,0.18181818181818182
-There is a nest?!,あるのか！ そんなものが！,Is there a lot!Such things!,0.4444444444444444
-Calm down.,まあ 落ち着け,Well calm down,0.5
-Money does not interest me.,金には興味ない,I'm interested in money,0.1
+ ...",0.09090909090909093,0.24691916
+He took you under his wing\N after Chevron died!,だいたいシュブロンが死んだ後,After a long time Surblon died,0.14285714285714285,0.25896883
+What are all of you doing?,（クラウン）何をしてる？,What are you doing?,0.7142857142857143,0.73191786
+Let's go.,（船主Ａ）すまん すまん 行こう,Let's go,0.75,0.88774914
+Opposition will always exist.,早く舳先に集まってくれんと,I will gather at the tip soon,0.09090909090909093,-0.008775069
+You can't go back?,（ピニオン）帰れないだと？,can't you go home?,0.7142857142857143,0.6368039
+Killing them is my duty.,（レド）奴を殺すのが 俺の使命だ,is my mission to kill the guy,0.18181818181818185,0.527632
+There is a nest?!,あるのか！ そんなものが！,Is there a lot!Such things!,0.4444444444444444,0.27177346
+Calm down.,まあ 落ち着け,Well calm down,0.5,0.8052915
+Money does not interest me.,金には興味ない,I'm interested in money,0.1,0.4466922
 "You kill the whalesquids,","（ピニオン）
-お前はクジライカを殺せる",You can kill the kushiika,0.42857142857142855
+お前はクジライカを殺せる",You can kill the kushiika,0.42857142857142855,0.4206856
 How about it?,"俺はお宝を手に入れられる
 どうだ？","I can get a treasure
-How is it?",0.3
+How is it?",0.3,0.17876752
 "To release all the ships that want to leave, we'll have to unfasten thirty connectors.","（ジョー）
 離船希望の船を出すには
 30の連結器を解かなきゃならん","To put out a boat of hope
-I have to solve the 30 connector",0.11538461538461539
+I have to solve the 30 connector",0.1153846153846154,0.5934949
 Get to it!,"もう一度 考え直して
 もらえませんか？","Reclamation again
-Can't get it?",0.2222222222222222
-"Flange, I beg you to reconsider.",（リジット）フランジ,flange,0.125
+Can't get it?",0.2222222222222222,0.1676482
+"Flange, I beg you to reconsider.",（リジット）フランジ,flange,0.125,0.8432516
 A huge fleet with weak leadership is the perfect target for pirates.,"統制の甘くなった大船団は
 海賊のよい標的だ","The sweetened large fleet of control
-Pirate good target",0.15789473684210525
-But still...,（リジット）ですが…,but ...,0.6666666666666666
+Pirate good target",0.15789473684210525,0.7276596
+But still...,（リジット）ですが…,but ...,0.6666666666666666,0.80800927
 The heritage Pinion talked about,"（フランジ）
-ピニオンの言う過去の遺産が",Past heritage of pinions,0.125
+ピニオンの言う過去の遺産が",Past heritage of pinions,0.125,0.8362618
 might become the foundation of our future.,"我々の将来を支えてくれる
 可能性がある","Support our future
-there is a possibility",0.15384615384615385
+there is a possibility",0.15384615384615385,0.6841115
 "Besides, many people wish\N.to leave with my ships.","私の船と一緒に出たい
 という人間も大勢いる","I want to go with my ship
-There are many people",0.23529411764705882
-Protecting the peaceful lives\N of those on my ships,私の船に住む民の暮らしを,The living of the people living in my ship,0.23076923076923078
-"is my duty, you know.",守る義務があるのだよ,There is a duty to protect,0.18181818181818182
+There are many people",0.2352941176470588,0.6178409
+Protecting the peaceful lives\N of those on my ships,私の船に住む民の暮らしを,The living of the people living in my ship,0.2307692307692308,0.5604531
+"is my duty, you know.",守る義務があるのだよ,There is a duty to protect,0.18181818181818185,0.5001002
 Anytime!,"（屋台主）あんがとよ
 （メルティ）毎度ありい","Anaga
- Every time",0.0
-Melty!,（エイミー）メルティ,Melty,0.5
-Amy? Saya?,エイミー　サーヤ,Amy Saya,0.6666666666666666
+ Every time",0.0,0.014862132
+Melty!,（エイミー）メルティ,Melty,0.5,0.8547185
+Amy? Saya?,エイミー　サーヤ,Amy Saya,0.6666666666666666,0.912039
 "Melty, are you really leaving?","（エイミー）本当に行っちゃうの？
 （メルティ）うん","Do you really go?
- Yeah",0.3
+ Yeah",0.3,0.39684063
 I can't just leave my granddad alone.,"じいちゃんのこと
 放っては おけないって","Pedestrian
-I can not leave her",0.15384615384615385
-I see...,そっか…,I see…,0.25
+I can not leave her",0.15384615384615385,0.3249683
+I see...,そっか…,I see…,0.25,0.84814346
 Who would've thought my home ship \Nwould ever leave Gargantia?,"（メルティ）
 まさか私んちの船が
 ガルガンティアを離れるなんてね","Masaka's ship
-I leave Gargantia",0.2
-I was the most surprised.,私もびっくり,I'm too surprised,0.25
+I leave Gargantia",0.2,0.65407825
+I was the most surprised.,私もびっくり,I'm too surprised,0.25,0.66570723
 I might even meet a nice guy out there!,"あの空飛ぶユンボロがいたら
 クジライカも怖くないって","If there is a flying Yumboro
-There is no scary",0.125
+There is no scary",0.125,0.09142275
 Yeah!,"そうそう それに
 イケメンも一緒に来るらしいし","Oh yeah
-It seems that handsome will come together",0.1
+It seems that handsome will come together",0.1,0.2521102
 Ledo?,"（エイミー）レドが？
 （サーヤ）ん？","Led?
-?",0.3333333333333333
-I don't have much time left myself.,私とて 先は長くない,I do not have longer,0.2727272727272727
-Train her as best you can.,せいぜい鍛えてやってくれ,Let me train at most,0.09090909090909091
-"Commodore Fairlock,",（フランジ）フェアロック船団長,Fairlock fleet length,0.2
+?",0.3333333333333333,0.62478095
+I don't have much time left myself.,私とて 先は長くない,I do not have longer,0.2727272727272727,0.338136
+Train her as best you can.,せいぜい鍛えてやってくれ,Let me train at most,0.09090909090909093,0.4359754
+"Commodore Fairlock,",（フランジ）フェアロック船団長,Fairlock fleet length,0.2,0.5746985
 May the green waves be with you.,"船団長は 君が継いでほしかったよ
 クラウン","The fleet manager wanted you
-Crown",0.16666666666666666
+Crown",0.16666666666666666,0.15507309
 Not putting on your mourning gown?,"（ピニオン）
-喪服には着替えないのか？",Don't you change your mourning clothes?,0.25
-Pinion!,（リジット）ピニオン,Pinion,0.5
+喪服には着替えないのか？",Don't you change your mourning clothes?,0.25,0.7289673
+Pinion!,（リジット）ピニオン,Pinion,0.5,0.8977086
 Can you sign my parting request?,"ここに残ったほうが得だって
 証明できんのか","It is better to remain here
-Can you prove?",0.21428571428571427
+Can you prove?",0.21428571428571427,0.18691047
 How many times do I have to repeat myself?,"（リジット）
-何度も同じことを言わせないで",Don't let the same thing as many times,0.1875
-I just—,（リジット）私は…,I ...,0.3333333333333333
+何度も同じことを言わせないで",Don't let the same thing as many times,0.1875,0.6514945
+I just—,（リジット）私は…,I ...,0.3333333333333333,0.4416793
 Don't stop people from leaving if you're\N.not confident you can protect them.,"守れる自信もねえくせに
 人を引き止めてんじゃねえよ","I am self-confident that can be protected
-Don't stop people",0.25
-What's wrong?,どうしたの？,What's wrong?,1.0
-Saya!,あっ サーヤ,Sahata,0.0
+Don't stop people",0.25,0.5977754
+What's wrong?,どうしたの？,What's wrong?,1.0,1.0000002
+Saya!,あっ サーヤ,Sahata,0.0,0.3030143
 "You're worrying about Ledo, aren't you?","（サーヤ）
-レド君のこと 気になるんでしょ？",Do you want to worry about Ledo?,0.3076923076923077
-"No, I'm not!",なんでもないよ,I can not do anything,0.2222222222222222
-With Melty?,メルティと一緒に,Together with Melty,0.5
+レド君のこと 気になるんでしょ？",Do you want to worry about Ledo?,0.3076923076923077,0.89707184
+"No, I'm not!",なんでもないよ,I can not do anything,0.2222222222222222,0.10123306
+With Melty?,メルティと一緒に,Together with Melty,0.5,0.8193887
 Huh?,"彼について行っても
 いいんじゃない？","Even if he goes
-Why not?",0.125
+Why not?",0.125,0.100897454
 "One look at your face, and you'd\N.think the world was ending.","（サーヤ）
-この世の終わりみたいな顔してる",I look like the end of this world,0.16666666666666666
+この世の終わりみたいな顔してる",I look like the end of this world,0.16666666666666666,0.6424553
 Although that's probably \N.how it feels to you right now.,"（サーヤ）
-そりゃあ 淋しくはなるけどさ","Well, it's lonely but",0.125
+そりゃあ 淋しくはなるけどさ","Well, it's lonely but",0.125,0.3180664
 No!,"（サーヤ）はっ じゃあ…
 （エイミー）ダメだよ","Hao ...
- It is no good",0.14285714285714285
-I have to stay here.,私… ここに残らないと,I ... I have to leave here,0.5
-Are you sure?,（サーヤ）いいの？,good?,0.2
+ It is no good",0.14285714285714285,0.20498477
+I have to stay here.,私… ここに残らないと,I ... I have to leave here,0.5,0.70124227
+Are you sure?,（サーヤ）いいの？,good?,0.2,0.2534144
 I can't leave Bevel behind.,"（エイミー）
-ベベルを置いていけないし",I can not put the bevel,0.18181818181818182
+ベベルを置いていけないし",I can not put the bevel,0.18181818181818185,0.8023943
 "I'd miss you if you left, Amy!","私だって エイミーが
 いなくなったら淋しいもん","I am Emmy
-I'm sorry if I'm gone",0.14285714285714285
-I'm fine.,（リジット）私なら大丈夫よ,I'm okay,0.4
+I'm sorry if I'm gone",0.14285714285714285,0.5037143
+I'm fine.,（リジット）私なら大丈夫よ,I'm okay,0.4,0.8124732
 How about taking a break?,"（ベローズ）
 まあ ちょっとは
 休んだらどうだ？","Well, a little bit
-How is it rest?",0.23076923076923078
+How is it rest?",0.2307692307692308,0.31296468
 I know how hard you're working.,"（ベローズ）
 あんたが頑張ってるのは
 知ってるさ","I'm working hard
-I know",0.4444444444444444
+I know",0.4444444444444444,0.7172667
 "If I were, we wouldn't be in such a mess.","（リジット）
 船団長のいない今
 私がしっかりしなければ","Now that is not a fleet
-If I do not firmly",0.15
+If I do not firmly",0.15,0.17172712
 "There's a difference between ""enough"" and ""perfect.""","（ベローズ）
-ふふ… 充分と完璧は違うよ",Fufu ... perfect and perfect are different,0.13333333333333333
-"Back when my old man\N.left me the business,",親方から仕事を任された頃でさ,When I was at work from my parents,0.13333333333333333
-"One day, I found a huge catch.",ある日 大物を見つけてね,Find a big game,0.08333333333333333
+ふふ… 充分と完璧は違うよ",Fufu ... perfect and perfect are different,0.13333333333333333,0.49657843
+"Back when my old man\N.left me the business,",親方から仕事を任された頃でさ,When I was at work from my parents,0.13333333333333333,0.48358646
+"One day, I found a huge catch.",ある日 大物を見つけてね,Find a big game,0.08333333333333333,0.30413485
 "I tried to show off all the skills I'd learned,","自分の腕を見せてやろうと
 意気込んでたら","I would like to show my arms
-If you are enthusiastic",0.15789473684210525
-I thought I was going to die there.,死ぬかと思ったよ,I thought I would die,0.3333333333333333
+If you are enthusiastic",0.15789473684210525,0.2530452
+I thought I was going to die there.,死ぬかと思ったよ,I thought I would die,0.3333333333333333,0.6529118
 He said what I did was the same\N.as not trusting my shipmates.,"それじゃ 仲間を信用してないのと
 一緒だって","Well then I have not trusted my friends
-In the same way",0.19047619047619047
-You don't have to do everything by yourself.,周りが見えてねえ,You can see the surroundings,0.07692307692307693
-But Commodore Fairlock did just that!,だから…,that's why…,0.1111111111111111
-That old man relied on you a lot!,（リジット）頼る？,How do you rely on?,0.15384615384615385
-Entrust?,考えることじゃないのか？,Aren't you thinking?,0.16666666666666666
+In the same way",0.19047619047619047,0.46816587
+You don't have to do everything by yourself.,周りが見えてねえ,You can see the surroundings,0.07692307692307693,0.14396368
+But Commodore Fairlock did just that!,だから…,that's why…,0.1111111111111111,0.16623348
+That old man relied on you a lot!,（リジット）頼る？,How do you rely on?,0.15384615384615385,0.3513844
+Entrust?,考えることじゃないのか？,Aren't you thinking?,0.16666666666666666,0.23725082
 You use the stuff I salvage \N.for the sake of the entire fleet.,"でも フェアロック船団長は
 やっていた","But the fairock fleet length is
-I was doing",0.16666666666666666
+I was doing",0.16666666666666666,0.37147
 I'd consider myself lucky if my ships were\N.under the command of someone like that.,"あの じいさんだって
 あんたを頼ってた","That's right
-I asked for",0.1
-I'm home!,今すぐ ご飯 作るからね,I'm making a meal now,0.25
+I asked for",0.1,0.15202694
+I'm home!,今すぐ ご飯 作るからね,I'm making a meal now,0.25,0.382171
 Welcome back.,"（エイミー）ただいま
-（ベベル）あっ お帰りなさい",Returning,0.0
-Sorry I'm late.,（エイミー）遅くなってごめんね,Sorry for the late,0.2857142857142857
-"Hey, is it true that Ledo's leaving?",そう 残念だよね,That's right,0.18181818181818182
-"Where'd you hear that, Bevel?",（エイミー）ベベル なんで？,Bevel?,0.25
+（ベベル）あっ お帰りなさい",Returning,0.0,0.45793268
+Sorry I'm late.,（エイミー）遅くなってごめんね,Sorry for the late,0.2857142857142857,0.80555737
+"Hey, is it true that Ledo's leaving?",そう 残念だよね,That's right,0.18181818181818185,0.1987239
+"Where'd you hear that, Bevel?",（エイミー）ベベル なんで？,Bevel?,0.25,0.75540125
 I overheard the neighbors saying Pinion was talking about it.,"（ベベル）
 ピニオンが言ってたって
 近所の人たちが…","Pinion said
-People in the neighborhood ...",0.125
-"Yeah. It's a shame, huh?",（エイミー）ホントだよ,It's really true,0.18181818181818182
+People in the neighborhood ...",0.125,0.79215497
+"Yeah. It's a shame, huh?",（エイミー）ホントだよ,It's really true,0.18181818181818185,0.25385854
 I wonder why he'd want to do something so dangerous.,"どうして わざわざ
 危ないことをするんだろう","How do you do it
-I will do dangerous things",0.17647058823529413
-What an idiot!,あのバカ！,That stupid!,0.16666666666666666
-Why doesn't he value his life?,姉さん？,My sister?,0.1
-It looked like he was having\N...so much fun at the festival...,お祭りの時 レド楽しそうだった,When the festival was fun,0.2857142857142857
-He was laughing!,笑ってたんだよ,I was laughing,0.4
-"But now,",でも今は…,But now ...,0.5
-he seems to be suffering even more than when we first met!,初めて会った時より苦しそう,I will suffer from when I first met,0.17647058823529413
-"Some chose to stay here, too.",こっちへ残る人もいる,Some people remain,0.1
-Trust...,（リジット）任せる…,leave ...,0.3333333333333333
-Bevel?,（レド）ベベル,Bevel,0.5
-"Yeah, I am.",（ベベル）行っちゃうんだね,I'm going,0.14285714285714285
+I will do dangerous things",0.17647058823529413,0.4437929
+What an idiot!,あのバカ！,That stupid!,0.16666666666666666,0.4872421
+Why doesn't he value his life?,姉さん？,My sister?,0.1,0.0030370506
+It looked like he was having\N...so much fun at the festival...,お祭りの時 レド楽しそうだった,When the festival was fun,0.2857142857142857,0.6053424
+He was laughing!,笑ってたんだよ,I was laughing,0.4,0.6940013
+"But now,",でも今は…,But now ...,0.5,0.8140637
+he seems to be suffering even more than when we first met!,初めて会った時より苦しそう,I will suffer from when I first met,0.17647058823529413,0.58326006
+"Some chose to stay here, too.",こっちへ残る人もいる,Some people remain,0.1,0.35941172
+Trust...,（リジット）任せる…,leave ...,0.3333333333333333,0.38874483
+Bevel?,（レド）ベベル,Bevel,0.5,0.9501198
+"Yeah, I am.",（ベベル）行っちゃうんだね,I'm going,0.14285714285714285,0.29123738
 Do you have to?,"どうしても
 行かなきゃならないの？","no matter what
-Do you have to go?",0.5555555555555556
+Do you have to go?",0.5555555555555556,0.46075356
 "Is that really what you want to do, Ledo?","それが ホントに
 レドのやりたいことなの？","It is really
-What do you want to do with red?",0.5714285714285714
-It's for the sake of mankind.,そうだ,That's it,0.2222222222222222
+What do you want to do with red?",0.5714285714285714,0.49443504
+It's for the sake of mankind.,そうだ,That's it,0.2222222222222222,0.14675835
 I want you to have this.,"（レド）
-これは 君が持っていてほしい",I want you to have this,0.8571428571428571
-Isn't this important to you?,大切な物なんでしょ？,What is an important thing?,0.3
+これは 君が持っていてほしい",I want you to have this,0.8571428571428571,0.90811634
+Isn't this important to you?,大切な物なんでしょ？,What is an important thing?,0.3,0.545988
 It was made by a child\N.who looked just like I did.,"それは 元々 俺に似た子供が
 作っていた物だ","It is originally a child similar to me
-It is a thing made",0.15789473684210525
-Just like you?,（ベベル）え？,?,0.25
+It is a thing made",0.15789473684210525,0.66111994
+Just like you?,（ベベル）え？,?,0.25,0.3069717
 "Thinking back, he might\N.have been my little brother.","（レド）
 今 思えば
 弟だったのかもしれない","Now
-It may have been a younger brother",0.125
+It may have been a younger brother",0.125,0.54036146
 "In the Galactic Alliance, a child\N.who cannot fight cannot survive.","（レド）
 銀河同盟では 戦えない子供は
 生き残れない","Kids who can not fight in the Galaxy Alliance
-I can not survive",0.4375
-"If they one day decide\N.to expand their territory,",あっ それなら…,"Oh, if it ...",0.16666666666666666
+I can not survive",0.4375,0.8045021
+"If they one day decide\N.to expand their territory,",あっ それなら…,"Oh, if it ...",0.16666666666666666,0.19973183
 a clash with mankind will be inevitable.,"違う 違うよ レド
 そんな事にはならないよ","Different different red
-It will not be such a thing",0.21428571428571427
-But the whalesquids—,でも クジライカは…,But there is a kugeika ...,0.125
+It will not be such a thing",0.21428571428571427,0.108122565
+But the whalesquids—,でも クジライカは…,But there is a kugeika ...,0.125,0.25010356
 "If a similar situation to the Galactic Alliance arises here, you will not survive.","銀河同盟と同じになれば
 ベベルは生きてはいけない","If it is the same as the galaxy alliance
-Bevel does not live",0.16666666666666666
+Bevel does not live",0.16666666666666666,0.5477648
 I do not want Amy to\N.experience such a loss.,"エイミーには そんな別れを
 味わわせたくない","Such farewell for Amy
-I do not want to taste",0.42857142857142855
-It won't come to that!,（レド）あれは ヒディアーズだ,That's Hiddy,0.1111111111111111
+I do not want to taste",0.42857142857142855,0.6870058
+It won't come to that!,（レド）あれは ヒディアーズだ,That's Hiddy,0.1111111111111111,0.13154803
 I don't want to make Amy sad.,"（レド）
-エイミーを悲しませたくない",I do not want to be sad,0.45454545454545453
-Please wait!,（リジット）待ってください！,Please wait!,1.0
-I humbly apologize for my tardiness.,遅くなって 申し訳ありません,Sorry I'm late,0.1
-Thank you... so much.,ありがとう,Thank you,0.3333333333333333
+エイミーを悲しませたくない",I do not want to be sad,0.4545454545454545,0.64263314
+Please wait!,（リジット）待ってください！,Please wait!,1.0,0.9999999
+I humbly apologize for my tardiness.,遅くなって 申し訳ありません,Sorry I'm late,0.1,0.25918785
+Thank you... so much.,ありがとう,Thank you,0.3333333333333333,0.5033024
 The future of the fleet occupied his thoughts until his very last moments.,"前船団長は 最後まで
 この船団の行く末を考えていました","Previous blade leader is until the end
-I was thinking of the end of this fleet",0.19047619047619047
-I want to live up to his expectations.,私は それに応えたいのです,I want to respond to it,0.3
+I was thinking of the end of this fleet",0.19047619047619047,0.46942118
+I want to live up to his expectations.,私は それに応えたいのです,I want to respond to it,0.3,0.26404992
 "By myself, I was helpless to even\N.stop those who wanted to leave.","ですが 私の力では
 ここを去りたいという人々を","But in my power
-People who want to leave here",0.15
-I... am powerless.,引き止めることすらできなかった,I could not even stop,0.1111111111111111
+People who want to leave here",0.15,0.47328994
+I... am powerless.,引き止めることすらできなかった,I could not even stop,0.1111111111111111,0.17455475
 That is why I'm turning to you for help!,"だからこそ 皆さんに
 力を貸していただきたい","That's why everyone
-I want to lend my strength",0.23529411764705882
-"then I implore you, please help me!",私を助けてください,Please help me,0.3333333333333333
-Who do you think we are?,そう思ってくださるのなら,If you think so,0.2222222222222222
+I want to lend my strength",0.2352941176470588,0.37161046
+"then I implore you, please help me!",私を助けてください,Please help me,0.3333333333333333,0.6040692
+Who do you think we are?,そう思ってくださるのなら,If you think so,0.2222222222222222,0.25400493
 You can count on us to get things done!,"（親方）
 おうよ 任せるところは
 任せてもらわねえとな","Where to leave it
-I can not leave it",0.13333333333333333
+I can not leave it",0.13333333333333333,-0.011021557
 "Just stand in the middle,\N.and rebuild the fleet around you.","（主任）
 あんたが真ん中に立って
 また新しく船団を作ればいい","Annot stands in the middle
-You can also make a new fleet",0.2631578947368421
-That'll do.,それでいい,That's fine,0.16666666666666666
-What are you doing down there?,そんなとこで どうしちゃったの？,What did you do in such a cousin?,0.23076923076923078
+You can also make a new fleet",0.2631578947368421,0.62529635
+That'll do.,それでいい,That's fine,0.16666666666666666,0.25771767
+What are you doing down there?,そんなとこで どうしちゃったの？,What did you do in such a cousin?,0.2307692307692308,0.27603406
 I'm about to leave.,"（ベベル）
-レド… 行っちゃうんだね",Red ... I'm going,0.2222222222222222
-But listen!,ああ,Ah,0.0
-Be sure to come back!,だから いつでも戻ってきて,So come back at any time,0.2
-Thank you for everything.,今まで ありがとう,Thank you so far,0.2857142857142857
-"Fools, the lot of them...",ホントに あのバカどもが…,Really stupid ...,0.1111111111111111
+レド… 行っちゃうんだね",Red ... I'm going,0.2222222222222222,0.41045374
+But listen!,ああ,Ah,0.0,0.17890166
+Be sure to come back!,だから いつでも戻ってきて,So come back at any time,0.2,0.5518648
+Thank you for everything.,今まで ありがとう,Thank you so far,0.2857142857142857,0.39387214
+"Fools, the lot of them...",ホントに あのバカどもが…,Really stupid ...,0.1111111111111111,0.11351431
 kimi no hitomi ni kono sekai wa,"（ベローズ）
 仕方がないさ
 向こうは すべて 覚悟の上だ","There is no choice
-Beyond he is upset all",0.07142857142857142
+Beyond he is upset all",0.07142857142857142,0.107677676

@@ -1,222 +1,222 @@
-en_text,jp_text,google_translated,score
-Love?,恋？,love?,1.0
-"Um, could you say that again, I think?",えっと もう一度言ってくれるかな？,Will you say again?,0.36363636363636365
-Who are you in love with?,誰に恋してるって？,Who are you in love with you?,1.0
-That's right.,だから,that's why,0.4
-Love is so wonderful.,ええな 恋,Yeah love,0.16666666666666666
-I want to help her.,うち 応援してあげたいえ,I want to support me,0.375
-"But Atui, love is...",だけどアトゥイ そもそも恋なんて,But at the attuie in love,0.2
+en_text,jp_text,google_translated,score,semantic_score
+Love?,恋？,love?,1.0,1.0000005
+"Um, could you say that again, I think?",えっと もう一度言ってくれるかな？,Will you say again?,0.3636363636363637,0.49567237
+Who are you in love with?,誰に恋してるって？,Who are you in love with you?,1.0,0.9123142
+That's right.,だから,that's why,0.4,0.39514565
+Love is so wonderful.,ええな 恋,Yeah love,0.16666666666666666,0.5302294
+I want to help her.,うち 応援してあげたいえ,I want to support me,0.375,0.40134066
+"But Atui, love is...",だけどアトゥイ そもそも恋なんて,But at the attuie in love,0.2,0.62596315
 I'll say it again.,"もう一度言うです
 お子様はもうお休みの時間なのです","I will say again
-Children are already a day off",0.23076923076923078
-I guess this is why...,これですか,Is this,0.3333333333333333
-But you know...,急に呼び出されたと思ったら,If you think suddenly called,0.125
-It's a job from the big brother \Nyou respect so much.,お前の尊敬する兄上からの仕事だからな,Because it is a job from your respected brother,0.29411764705882354
-What's that?,何でしょう,What is,0.2
-Leave it to me.,フフ うちに任せるえ,Let's leave it to Fuf,0.375
+Children are already a day off",0.2307692307692308,0.26152453
+I guess this is why...,これですか,Is this,0.3333333333333333,0.13253628
+But you know...,急に呼び出されたと思ったら,If you think suddenly called,0.125,0.13146241
+It's a job from the big brother \Nyou respect so much.,お前の尊敬する兄上からの仕事だからな,Because it is a job from your respected brother,0.29411764705882354,0.6645787
+What's that?,何でしょう,What is,0.2,0.30163914
+Leave it to me.,フフ うちに任せるえ,Let's leave it to Fuf,0.375,0.43190554
 That's right!,"そうじゃ そうじゃ
 せっかく来たのじゃぞ","That's right
-I came a lot",0.375
+I came a lot",0.375,0.41395628
 "If you're out at this hour, there'll be\Nan uproar at the palace, I think.","こんな時間に出てたら
 宮中は大騒ぎになってるかな","If you go out for such a time
-I wonder if the Miyanaka is a fuss",0.19230769230769232
+I wonder if the Miyanaka is a fuss",0.19230769230769232,0.32561707
 I prepared a double!,"心配はいらぬ
 ちゃんと身代わりを用意してあるのじゃ","I do not worry
-It has been prepared for a substitute",0.23076923076923078
-I'll go call Munechika-sama.,行ってもおらんぞ,I'm going to go,0.2222222222222222
+It has been prepared for a substitute",0.2307692307692308,0.40411976
+I'll go call Munechika-sama.,行ってもおらんぞ,I'm going to go,0.2222222222222222,0.22212914
 "and she brought her eyebrows together \Nlike this, even closer than usual,","いつもより眉根をこんなに寄せてじゃな
 出て行きおった","Don't always call the eyebrows than usual
-I went out",0.14285714285714285
-and she left!,軍事じゃ 演習じゃ と,In military exercises,0.0
-For a night battle exercise.,夜の軍事演習にな,Night military exercises,0.125
+I went out",0.14285714285714285,0.5495803
+and she left!,軍事じゃ 演習じゃ と,In military exercises,0.0,0.0157391
+For a night battle exercise.,夜の軍事演習にな,Night military exercises,0.125,0.7559306
 Have you ever heard of the Noble Thieves?,"そういえばハクさん
 義賊の話って聞いたことあります？","Speaking of that, Haku
-Have you ever heard of a peek?",0.4
-Noble Thieves?,義賊？,ZIP?,0.25
+Have you ever heard of a peek?",0.4,0.20952462
+Noble Thieves?,義賊？,ZIP?,0.25,0.19098617
 "and give it to the common people \Nof the capital, supposedly.","都の民たちに
 ばら撒いている輩がいるらしいんです","To the people of the city
-It seems that there are people who are sorming",0.2
+It seems that there are people who are sorming",0.2,0.22725573
 "But if they only steal from \Nbad guys, what's the problem?","だが
 悪い奴からならいいんじゃないのか？","But
-Isn't it good from a bad guy?",0.14285714285714285
-From what I've heard...,聞いたところによるとですね,According to what I heard,0.375
-It's the Noble Thieves!,その義賊というのが,That's the lady,0.25
-Hide the children!,子どもは隠れろ 貴重品はしまえ！,Children are hidden valuables!,0.2857142857142857
-Capture them! Capture them!,捕らえろ 捕らえろー！,Capture capture!,0.6666666666666666
+Isn't it good from a bad guy?",0.14285714285714285,0.273207
+From what I've heard...,聞いたところによるとですね,According to what I heard,0.375,0.57164836
+It's the Noble Thieves!,その義賊というのが,That's the lady,0.25,0.24883446
+Hide the children!,子どもは隠れろ 貴重品はしまえ！,Children are hidden valuables!,0.2857142857142857,0.6723018
+Capture them! Capture them!,捕らえろ 捕らえろー！,Capture capture!,0.6666666666666666,0.8025485
 "For the sake of people everywhere,","世のため人のため
 私腹を肥やす悪漢どもを","For people for people
-Believable of hungry hierarchy",0.3
-in the name of Heaven!,天に代わって成敗いたす,I will defeat it on behalf of the sky,0.15384615384615385
-Hey!,りるれろ！,Ripho!,0.3333333333333333
+Believable of hungry hierarchy",0.3,0.28460887
+in the name of Heaven!,天に代わって成敗いたす,I will defeat it on behalf of the sky,0.15384615384615385,0.3692192
+Hey!,りるれろ！,Ripho!,0.3333333333333333,0.37109402
 "I finally got her to sleep,\Nand now she's awake again!","ちょっと せっかく寝かしつけたのに
 起きちまったじゃないのさ","I was able to go to bed a little
-I'm not going up",0.08333333333333333
+I'm not going up",0.08333333333333333,0.38117102
 "You can throw this thing at me,\Nbut you think I can use it?!","こんなお宝投げ込まれたって
 使えるわけねえだろ","Such a treasure threatened
-It can not be used",0.09090909090909091
-Sister.,姉上,Sister,0.5
+It can not be used",0.09090909090909093,0.28502387
+Sister.,姉上,Sister,0.5,0.8760482
 A good woman is one that has\Nmany people waiting for her.,"いい女とは待ち焦がれる者が
 たくさんおるのだな？","A person who is waiting for a good woman
-Do you have a lot?",0.3157894736842105
-It stinks!,まったくです,It is quite,0.2
-That's the story.,へえ そりゃはた迷惑な話だな,It's a nuisance story,0.25
-Then how about this?,なら これ どうやえ？,If this is done?,0.25
-A book?,ご本？,A book?,1.0
-What?,お話とな？,Talk?,0.3333333333333333
-I'm not sleepy yet.,なんじゃ？　余はまだ眠くないぞ？,What?Extra is not sleepy yet?,0.3
-"Hey, Anju.",ねえアンジュ,Hey Ange,0.2
-We'll tell you a story.,お話を聞かせてあげる,I will tell you the story,0.3
+Do you have a lot?",0.3157894736842105,0.7190169
+It stinks!,まったくです,It is quite,0.2,0.255215
+That's the story.,へえ そりゃはた迷惑な話だな,It's a nuisance story,0.25,0.44618738
+Then how about this?,なら これ どうやえ？,If this is done?,0.25,0.3268206
+A book?,ご本？,A book?,1.0,1.0000001
+What?,お話とな？,Talk?,0.3333333333333333,0.29666215
+I'm not sleepy yet.,なんじゃ？　余はまだ眠くないぞ？,What?Extra is not sleepy yet?,0.3,0.6233633
+"Hey, Anju.",ねえアンジュ,Hey Ange,0.2,0.4317268
+We'll tell you a story.,お話を聞かせてあげる,I will tell you the story,0.3,0.78282356
 This is the proper setting for telling a story.,"お話を読み聞かせるといえば
 これが正式な所作なんですよ","Speaking of reading the story
-This is a formal point",0.3333333333333333
-a young god who didn't \Neven have a name yet...,まだ名前もない若い神様が…,Young gods that have no name yet ...,0.35714285714285715
+This is a formal point",0.3333333333333333,0.59293026
+a young god who didn't \Neven have a name yet...,まだ名前もない若い神様が…,Young gods that have no name yet ...,0.35714285714285715,0.77894455
 I won't let them cause chaos in the \Ncity right under my big brother's nose!,"兄上のお膝元で
 市中を荒らし回るとは 許せません","In my brother's knee
-I can not forgive the city",0.2608695652173913
+I can not forgive the city",0.2608695652173913,0.29710418
 Why don't we go around and try to catch them?,"私たちで見回って
 捕らえるというのはどうですか？","I look around by us
-How about getting caught?",0.1
+How about getting caught?",0.1,0.48125306
 There's no such thing as \Na job that doesn't matter.,"そのためにも
 早くこんな仕事は終わらせましょうよ","To that end
-Let's finish such a job early",0.21052631578947367
+Let's finish such a job early",0.21052631578947367,0.32017863
 "Once you do this for a while, you'll realize...","仕事に貴賎はないぞ
 やってみればこの仕事もなかなか","There is no value for work
-If you try it, this job is quite",0.19047619047619047
-"And at last, having won \Nthe power of the girl's love,",娘の愛の力を得た若き神は,Young God who got the power of my daughter's love,0.2631578947368421
-What happens next?,どうなるのじゃ,What happens,0.5
-"Wait, this is a love story!",て これ 恋物語じゃない,This is not a love story,0.5555555555555556
+If you try it, this job is quite",0.19047619047619047,0.13526799
+"And at last, having won \Nthe power of the girl's love,",娘の愛の力を得た若き神は,Young God who got the power of my daughter's love,0.2631578947368421,0.4697308
+What happens next?,どうなるのじゃ,What happens,0.5,0.6720965
+"Wait, this is a love story!",て これ 恋物語じゃない,This is not a love story,0.5555555555555556,0.7918491
 "If she hears this, she'll have an even \Nharder time getting to sleep!","こんなの聞かされたら
 ますます眠れないってば","If you are asked like this
-If you can't sleep more and more",0.13043478260869565
-Atui-sama?,アトゥイ様？,Atuis?,0.3333333333333333
-What is it?,口づけとはなんじゃ？,What is the mouth?,0.5
-What is a kiss?,口づけとは 何なのじゃ？,What is a mouth?,0.6666666666666666
-"U-Um, you see...",と その…,And its…,0.0
-"A kiss is, simply put...",簡単に言うと,Put simply,0.2857142857142857
-When you touch your lips to someone else's.,自分と相手の唇を重ね合わせることやえ,Do not overlay your own lips,0.14285714285714285
-It's a way of showing your love.,そ そうそう　愛情表現の一つかな,That's one of the love expressions,0.23076923076923078
-Why would you do such a thing?,なにゆえそんなことをするのじゃ？,What do you do?,0.3333333333333333
-Why would you touch your lips to someone else's?,なにゆえ 唇を重ねるのじゃ？,How do you overlay your lips?,0.2857142857142857
-Nekone-sama is so cute!,かわいいです ネコネ様,It is cute Nekonone,0.2857142857142857
-I'm jealous.,寝てるし,I'm sleeping,0.4
-Look at how bright her cheeks are.,ほっぺがこんなにつやつややえ　フフ,The cheeks are so sunny,0.18181818181818182
-She's such a child.,ま 子どもとはこういうものではあるが,It is such a thing with the child child,0.2727272727272727
-"Well, that's how kids are.",それは その,That,0.125
-"Okay, now I'll read.",はいでは 次は私が続けてお読みしますね,"Yes, next will continue and read",0.16666666666666666
-"Once upon a time, there was a very lazy man.",たいそう怠け者の男がおりました,There was a lazy man,0.45454545454545453
-What about the story we were just reading?,ん？　先ほどの話は？,Yeah?How about the previous story?,0.3333333333333333
-I want to go home.,眠い 寒い 帰りたい,I want to go home,0.8333333333333334
-"And then, when he thought he was done for...",もう駄目かと思ったその時,At that time I thought it was already,0.125
-He finally grabbed on to something.,ようやく男は掴みました,A man finally grabbed,0.2222222222222222
-What are you doing?,何 うう 何をしている！,What are you doing anything!,0.5714285714285714
+If you can't sleep more and more",0.13043478260869565,0.391293
+Atui-sama?,アトゥイ様？,Atuis?,0.3333333333333333,0.52294093
+What is it?,口づけとはなんじゃ？,What is the mouth?,0.5,0.28010407
+What is a kiss?,口づけとは 何なのじゃ？,What is a mouth?,0.6666666666666666,0.6225899
+"U-Um, you see...",と その…,And its…,0.0,0.2121054
+"A kiss is, simply put...",簡単に言うと,Put simply,0.2857142857142857,0.34996495
+When you touch your lips to someone else's.,自分と相手の唇を重ね合わせることやえ,Do not overlay your own lips,0.14285714285714285,0.4739832
+It's a way of showing your love.,そ そうそう　愛情表現の一つかな,That's one of the love expressions,0.2307692307692308,0.45368785
+Why would you do such a thing?,なにゆえそんなことをするのじゃ？,What do you do?,0.3333333333333333,0.299465
+Why would you touch your lips to someone else's?,なにゆえ 唇を重ねるのじゃ？,How do you overlay your lips?,0.2857142857142857,0.51548386
+Nekone-sama is so cute!,かわいいです ネコネ様,It is cute Nekonone,0.2857142857142857,0.6754615
+I'm jealous.,寝てるし,I'm sleeping,0.4,0.23972675
+Look at how bright her cheeks are.,ほっぺがこんなにつやつややえ　フフ,The cheeks are so sunny,0.18181818181818185,0.63502336
+She's such a child.,ま 子どもとはこういうものではあるが,It is such a thing with the child child,0.2727272727272727,0.5310067
+"Well, that's how kids are.",それは その,That,0.125,0.2556555
+"Okay, now I'll read.",はいでは 次は私が続けてお読みしますね,"Yes, next will continue and read",0.16666666666666666,0.31662527
+"Once upon a time, there was a very lazy man.",たいそう怠け者の男がおりました,There was a lazy man,0.4545454545454545,0.8527859
+What about the story we were just reading?,ん？　先ほどの話は？,Yeah?How about the previous story?,0.3333333333333333,0.5753359
+I want to go home.,眠い 寒い 帰りたい,I want to go home,0.8333333333333334,0.95050997
+"And then, when he thought he was done for...",もう駄目かと思ったその時,At that time I thought it was already,0.125,0.3886582
+He finally grabbed on to something.,ようやく男は掴みました,A man finally grabbed,0.2222222222222222,0.7671762
+What are you doing?,何 うう 何をしている！,What are you doing anything!,0.5714285714285714,0.76743853
 "And he fell to the bottom of \Nthe abyss anyway, they say.","やっぱり
 奈落の底に落ちていきました とさ","on second thoughts
-I fell to the bottom of the abyss",0.3333333333333333
-Is that love?,それが恋なのか？,Is that love?,1.0
+I fell to the bottom of the abyss",0.3333333333333333,0.599567
+Is that love?,それが恋なのか？,Is that love?,1.0,1.0000001
 "It says so in the book, so I guess it is...","ほ 本に書いてあるんだから
 そうなんじゃ","Because it is written in a book
-So",0.35714285714285715
+So",0.35714285714285715,0.404444
 How can I make Oshutoru fall in love with me?!,"どうすれば
 オシュトルと恋ができるのじゃ","what should I do
-You can fall in love with Oshtles",0.35294117647058826
-"You came here, I think...",思いっきりここに来てるかな,I'm here to come here,0.2
-"The last time she came, she took my book.",この前いらしたときは 私の本を,"When this was done, my book",0.21428571428571427
+You can fall in love with Oshtles",0.35294117647058826,0.6452491
+"You came here, I think...",思いっきりここに来てるかな,I'm here to come here,0.2,0.5704388
+"The last time she came, she took my book.",この前いらしたときは 私の本を,"When this was done, my book",0.21428571428571427,0.42995313
 "And it was only Oshutoru who \Nshowed me how big, and how fun,","楽しさを教えてくれたのは う
 オシュトルだけなのじゃ","It was a good idea to tell me the fun
-It's only Oshtor",0.25
-the outside world is!,そんな余に外の世界の広さや,Such an extraordinary world,0.125
-"Well, a man like that...",まあ あれだけの男やえ,Well that's only man,0.3333333333333333
-I can see how a princess \Nwould fall in love with him.,はあ 仕方ないな,I can not help it,0.125
-Is there nothing we can do for her?,この間 一緒に買い物したえ,You can shop for this time,0.15384615384615385
-"To win a man's heart,",男を落とそう思ったら,If you want to drop a man,0.2727272727272727
-Or this?,こうとか,Or,0.3333333333333333
-Is this sexy?,これなんかもどうやろ 色っぽいえ？,This is different from this?,0.5
+It's only Oshtor",0.25,0.44603512
+the outside world is!,そんな余に外の世界の広さや,Such an extraordinary world,0.125,0.470698
+"Well, a man like that...",まあ あれだけの男やえ,Well that's only man,0.3333333333333333,0.35684603
+I can see how a princess \Nwould fall in love with him.,はあ 仕方ないな,I can not help it,0.125,0.09517906
+Is there nothing we can do for her?,この間 一緒に買い物したえ,You can shop for this time,0.15384615384615385,0.03917966
+"To win a man's heart,",男を落とそう思ったら,If you want to drop a man,0.2727272727272727,0.38236785
+Or this?,こうとか,Or,0.3333333333333333,0.56099546
+Is this sexy?,これなんかもどうやろ 色っぽいえ？,This is different from this?,0.5,0.24346437
 "Oh, right, um...","ああ えっとね アンジュのお願いを
 聞いてあげてる かな","Oh yes, please ask for Ange
-I wonder if I heard",0.14285714285714285
-Big sister!,姉様,sister,0.3333333333333333
-Wh-What is it?,う な 何なのです,What is it?,0.6
-"You come, too!",そなたも来るのじゃ,You will come to you,0.2857142857142857
-It's fun!,楽しいぞ,It is fun,0.4
-Try it!,わぁ！,Wow!,0.25
-a woman must always respond \Nwhen she's challenged.,女なら売られた喧嘩は買うもんやえ,A woman who was sold by a woman buys,0.13333333333333333
-R-Really?,そ そうですか？,Is that so?,0.2
+I wonder if I heard",0.14285714285714285,0.16875602
+Big sister!,姉様,sister,0.3333333333333333,0.68588525
+Wh-What is it?,う な 何なのです,What is it?,0.6,0.39522806
+"You come, too!",そなたも来るのじゃ,You will come to you,0.2857142857142857,0.5033117
+It's fun!,楽しいぞ,It is fun,0.4,0.8264325
+Try it!,わぁ！,Wow!,0.25,0.31673387
+a woman must always respond \Nwhen she's challenged.,女なら売られた喧嘩は買うもんやえ,A woman who was sold by a woman buys,0.13333333333333333,0.19671641
+R-Really?,そ そうですか？,Is that so?,0.2,0.3054729
 I knew it!,"ていうか
 ネコネならかわいいからいけるかな","I mean
-If it is cute if it is Nekone",0.2222222222222222
-That's cute!,ほらやっぱり,Solitary,0.0
-But how about this next one?,だが次はどうじゃ？,But how is it?,0.3333333333333333
-I won't lose!,負けないのです,I do not lose,0.2857142857142857
-"Sister, I've been waiting.",姉上 お待ちしておりました,I was waiting for my sister,0.3
-"I'm sorry, Ougi.",すまぬな オウギ,I'm sorry,0.5
-It's just not coming together.,仕方ない,it can not be helped,0.2
-"You must have some good ideas, right?",そなたならよい知恵があろう？,You may have a good wisdom?,0.3333333333333333
-Let's hear them.,うう…,UU…,0.0
+If it is cute if it is Nekone",0.2222222222222222,0.1442215
+That's cute!,ほらやっぱり,Solitary,0.0,0.079607934
+But how about this next one?,だが次はどうじゃ？,But how is it?,0.3333333333333333,0.23644465
+I won't lose!,負けないのです,I do not lose,0.2857142857142857,0.72416437
+"Sister, I've been waiting.",姉上 お待ちしておりました,I was waiting for my sister,0.3,0.7287395
+"I'm sorry, Ougi.",すまぬな オウギ,I'm sorry,0.5,0.4292803
+It's just not coming together.,仕方ない,it can not be helped,0.2,0.22334579
+"You must have some good ideas, right?",そなたならよい知恵があろう？,You may have a good wisdom?,0.3333333333333333,0.36551082
+Let's hear them.,うう…,UU…,0.0,0.21247268
 "If you want to tell someone you love them,","想いを伝えるなら
 やはり恋文とかでしょうか","If you want to convey your thoughts
-After all it is a love text",0.2777777777777778
-So how do I write a love letter?,して 恋文とはどう書けばよいのじゃ？,How should I write with love text?,0.4166666666666667
-If a picture would do...,絵でしたら,If it is a picture,0.375
-"Oh, um... Thank you.",あ ですけど,"Oh, though",0.25
-They say Heaven never \Ngrants a person two gifts.,あやや 天は二物を与えずって言うけど,Aya and heaven give two things,0.14285714285714285
-I guess it wasn't true.,うまいのです,It is delicious,0.1111111111111111
-Two men!,おお ２人の男じゃな？　素晴らしい,Are you two men? splendid,0.2857142857142857
-Wonderful!,あ！,Ah!,0.3333333333333333
+After all it is a love text",0.2777777777777778,0.55478495
+So how do I write a love letter?,して 恋文とはどう書けばよいのじゃ？,How should I write with love text?,0.4166666666666667,0.76901203
+If a picture would do...,絵でしたら,If it is a picture,0.375,0.5657801
+"Oh, um... Thank you.",あ ですけど,"Oh, though",0.25,0.2729653
+They say Heaven never \Ngrants a person two gifts.,あやや 天は二物を与えずって言うけど,Aya and heaven give two things,0.14285714285714285,0.5698952
+I guess it wasn't true.,うまいのです,It is delicious,0.1111111111111111,0.04165293
+Two men!,おお ２人の男じゃな？　素晴らしい,Are you two men? splendid,0.2857142857142857,0.5473044
+Wonderful!,あ！,Ah!,0.3333333333333333,0.4033564
 "By the way, why aren't \Nthese men wearing clothes?","ところでなにゆえ
 この男たちは服を着ておらんのじゃ？","By the way
-This man is wearing clothes?",0.4
-Draw some more!,もっと書いてみよ,Let's write more,0.14285714285714285
-Here I go!,が み みみ 見えない服を着てるのです,I wear clothes that can not be seen,0.09090909090909091
-"And this is good, too!",これもよいの,It is good,0.25
-From behind?,後ろからか,Behind,0.3333333333333333
-Such passion!,手枷とか,Tender,0.0
-And then... And then...,布で目隠しとか,Blindfold and blindfold,0.25
-This is wonderful.,これは熱いのう,This is hot,0.4
+This man is wearing clothes?",0.4,0.5732718
+Draw some more!,もっと書いてみよ,Let's write more,0.14285714285714285,0.44710693
+Here I go!,が み みみ 見えない服を着てるのです,I wear clothes that can not be seen,0.09090909090909093,0.023274567
+"And this is good, too!",これもよいの,It is good,0.25,0.43964392
+From behind?,後ろからか,Behind,0.3333333333333333,0.8059583
+Such passion!,手枷とか,Tender,0.0,0.13849218
+And then... And then...,布で目隠しとか,Blindfold and blindfold,0.25,0.045006987
+This is wonderful.,これは熱いのう,This is hot,0.4,0.34497622
 I'm confiscating this!,"-なんで私がこんな目に
 -なんで俺がこんな目に","-How I like this
--How I'm like this",0.42857142857142855
-"This is going too far, I think!",こうなったら私が,"If this happens, I",0.2727272727272727
-I'll just have to...,聞くところによれば,According to the place,0.1111111111111111
-"Uh, what was his name, again?",何？,what?,0.25
-That's right! Haku!,そうじゃ ハクじゃ,That's right,0.6
-That's what the man named Haku said!,あの男に言われたのじゃが,It was said that that man was told,0.25
-Jeez. What was her problem?,たく 何だったんだ あいつは,What did you do?,0.2
-It had to be!,そうに違いない,It must be so,0.2857142857142857
-Today was just an awful day.,とにかく今日は本当に散々だった,"Anyway, today was really scattered",0.18181818181818182
-"Oh, excuse me.",あ いえ こちらこそ,"Oh, this is here",0.25
-A Nugisomukami...,禍日神だ,It is a sight god,0.14285714285714285
-That was definitely a Nugisomukami.,あれは 絶対 禍日神だ,That is absolute,0.125
-So I'm,何の話かさっぱり分かりませんが,I do not know what kind of story,0.1
-Huh?,え え？,Yes?,0.3333333333333333
+-How I'm like this",0.42857142857142855,0.12560537
+"This is going too far, I think!",こうなったら私が,"If this happens, I",0.2727272727272727,0.24766053
+I'll just have to...,聞くところによれば,According to the place,0.1111111111111111,0.15504646
+"Uh, what was his name, again?",何？,what?,0.25,0.105256386
+That's right! Haku!,そうじゃ ハクじゃ,That's right,0.6,0.32779068
+That's what the man named Haku said!,あの男に言われたのじゃが,It was said that that man was told,0.25,0.43118256
+Jeez. What was her problem?,たく 何だったんだ あいつは,What did you do?,0.2,0.322823
+It had to be!,そうに違いない,It must be so,0.2857142857142857,0.5247995
+Today was just an awful day.,とにかく今日は本当に散々だった,"Anyway, today was really scattered",0.18181818181818185,0.54843366
+"Oh, excuse me.",あ いえ こちらこそ,"Oh, this is here",0.25,0.39232257
+A Nugisomukami...,禍日神だ,It is a sight god,0.14285714285714285,0.1572236
+That was definitely a Nugisomukami.,あれは 絶対 禍日神だ,That is absolute,0.125,0.16222148
+So I'm,何の話かさっぱり分かりませんが,I do not know what kind of story,0.1,0.10114218
+Huh?,え え？,Yes?,0.3333333333333333,0.5965159
 "Uh, what are you talking about?","あ ああ な いや待て
 自分は大食い怪力女とは","Oh, wait
-What is a gluttony of a large salmon?",0.1875
-Anju told me.,アンジュが言ってたんだ,Anju said,0.2
-But knowing Oshutoru...,ふーん,Fur,0.0
-Then what should I do?,あ なら どうしたらよいというのじゃ,"If you do, what should I do?",0.5555555555555556
-We could say you were kidnapped.,とか言ったりしてな,Do not say,0.1111111111111111
-You're being stupid again!,また馬鹿なこと言ってるのです,I'm saying stupid things again,0.2
-It was a joke!,だから冗談だって,So it is a joke,0.42857142857142855
-That's it!,そうだな　さらわれた,That's right,0.4
-The man who loves me comes to save me?,愛する男が助けに来るなど,A loving man comes to help,0.25
-Is there no one who will grant my wish?,誰かおらぬか？　余の願いを,Someone?My wish,0.2727272727272727
-Well?,それじゃ,Well then,0.3333333333333333
-"Girl who is unlucky in love,",恋に悩みし乙女よ　この義賊,I'm troubled in love Maiden This is a tidust,0.21428571428571427
-"I, Nosuri, the Noble Thief,",話は聞かせてもらった,I was asked to hear the story,0.18181818181818182
-will grant your wish!,ノスリがお前の願いを,Nosri is your wish,0.2857142857142857
-Truly?,おお まことか？,Oh Momoko?,0.25
-A good woman,いい女に,Good woman,0.6666666666666666
-never goes back on her word!,二言はない,There is no word,0.1
-Splendid!,叶えてやろう！,Let's get it!,0.16666666666666666
+What is a gluttony of a large salmon?",0.1875,0.08539149
+Anju told me.,アンジュが言ってたんだ,Anju said,0.2,0.8740811
+But knowing Oshutoru...,ふーん,Fur,0.0,0.12934473
+Then what should I do?,あ なら どうしたらよいというのじゃ,"If you do, what should I do?",0.5555555555555556,0.49832883
+We could say you were kidnapped.,とか言ったりしてな,Do not say,0.1111111111111111,0.22980626
+You're being stupid again!,また馬鹿なこと言ってるのです,I'm saying stupid things again,0.2,0.673426
+It was a joke!,だから冗談だって,So it is a joke,0.42857142857142855,0.6569098
+That's it!,そうだな　さらわれた,That's right,0.4,0.53523415
+The man who loves me comes to save me?,愛する男が助けに来るなど,A loving man comes to help,0.25,0.5517289
+Is there no one who will grant my wish?,誰かおらぬか？　余の願いを,Someone?My wish,0.2727272727272727,0.5850896
+Well?,それじゃ,Well then,0.3333333333333333,0.7250921
+"Girl who is unlucky in love,",恋に悩みし乙女よ　この義賊,I'm troubled in love Maiden This is a tidust,0.21428571428571427,0.39999586
+"I, Nosuri, the Noble Thief,",話は聞かせてもらった,I was asked to hear the story,0.18181818181818185,0.1321145
+will grant your wish!,ノスリがお前の願いを,Nosri is your wish,0.2857142857142857,0.3090377
+Truly?,おお まことか？,Oh Momoko?,0.25,0.2172424
+A good woman,いい女に,Good woman,0.6666666666666666,0.7030723
+never goes back on her word!,二言はない,There is no word,0.1,0.33324522
+Splendid!,叶えてやろう！,Let's get it!,0.16666666666666666,0.40316805
 "I don't know who you are,","どこぞの者かは知らぬが
 よろしく頼むのじゃ","I do not know where people
-He asks for a long time",0.17647058823529413
+He asks for a long time",0.17647058823529413,0.17449807
 but I'm counting on you!,"-フフ
 -大船に乗った","-Fhh
-- I got on the land",0.16666666666666666
-Leave it to me!,うむ 任せろ,Let's leave,0.14285714285714285
-"Haku, you know them?",ハク 知り合い？,Hax acquaintance?,0.125
-"Well, uh...",それでは これにて,Then this is,0.0
+- I got on the land",0.16666666666666666,0.21564302
+Leave it to me!,うむ 任せろ,Let's leave,0.14285714285714285,0.45017952
+"Haku, you know them?",ハク 知り合い？,Hax acquaintance?,0.125,0.38129234
+"Well, uh...",それでは これにて,Then this is,0.0,0.20431611
 I'm sure your friends took her seriously.,"きっと真に受けちゃったんだよ
 ハクの知り合い","I'm sure I received true
-Haku's acquaintance",0.21428571428571427
+Haku's acquaintance",0.21428571428571427,0.23821768

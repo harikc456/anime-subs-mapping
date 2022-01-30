@@ -1,412 +1,412 @@
-en_text,jp_text,google_translated,score
-"I'll investigate here, too.",（リーゼ）了解しました,I understand,0.125
-I'll contact you again later.,また追って 連絡します,I will contact you again later,0.625
-I-I'm sorry...,ご ごめんなさい！,Sorry!,0.2
-It's nothing.,こちらでも調べてみます,Let's check here,0.14285714285714285
-I know this is an important time.,何でもないです 大事な時なのに,It is not an important time,0.4
+en_text,jp_text,google_translated,score,semantic_score
+"I'll investigate here, too.",（リーゼ）了解しました,I understand,0.125,0.19484185
+I'll contact you again later.,また追って 連絡します,I will contact you again later,0.625,0.93198717
+I-I'm sorry...,ご ごめんなさい！,Sorry!,0.2,0.4381696
+It's nothing.,こちらでも調べてみます,Let's check here,0.14285714285714285,0.17906095
+I know this is an important time.,何でもないです 大事な時なのに,It is not an important time,0.4,0.6169929
 You don't need to put up a brave front.,"（ヘンリエッタ）そんなに
 強がらなくてもいいんですよ","so much
-You don't have to strengthen",0.26666666666666666
+You don't have to strengthen",0.26666666666666666,0.26102847
 Would you like to tell me what happened?,"もしよかったら 何があったのか
 話してくれませんか？","What happened if it was good
-Could you talk?",0.26666666666666666
+Could you talk?",0.26666666666666666,0.50920343
 Takayama's weapon went out of control?,"（ヘンリエッタ）
-高山(たかやま)さんの武器が暴走？",Takayama's weapon runs away?,0.4
-And Crusty disappeared?,クラスティ様も消えてしまったと,Claustee also disappeared,0.16666666666666666
+高山(たかやま)さんの武器が暴走？",Takayama's weapon runs away?,0.4,0.8958963
+And Crusty disappeared?,クラスティ様も消えてしまったと,Claustee also disappeared,0.16666666666666666,0.5232638
 "Until more details are known, \ND.D.D. doesn't want word to get out.","殺人鬼討伐の件もありますし
 詳細がはっきりするまで","There are also cases of murderer killing
-Until details clear",0.13636363636363635
+Until details clear",0.13636363636363635,0.23940939
 "Yeah, it may be best to wait \Nbefore we tell the Round Table.","ええ 円卓会議への報告は
 待ったほうがいいかもしれません","Yeah report to a round table
-You may want to wait",0.3157894736842105
-"There are Minami spies around, too.",ミナミの間者のこともありますしね,There are also people between mini,0.16666666666666666
-"We shouldn't tell Princess Lenessia, either.",レイネシア姫にも このことは,This is also a princess of LeiNesia,0.06666666666666667
-Thanks.,お願いします,please,0.0
-You're right.,そうですね,is that so,0.0
+You may want to wait",0.3157894736842105,0.78016275
+"There are Minami spies around, too.",ミナミの間者のこともありますしね,There are also people between mini,0.16666666666666666,0.26271874
+"We shouldn't tell Princess Lenessia, either.",レイネシア姫にも このことは,This is also a princess of LeiNesia,0.06666666666666668,0.4687077
+Thanks.,お願いします,please,0.0,0.3081113
+You're right.,そうですね,is that so,0.0,0.30437043
 "Henrietta, big trouble!","（ミカカゲ）
-ヘンリエッタさん 大変 大変！",Henrietta is very serious!,0.25
-What's going on?,どうかしたんですか？,What happened?,0.3333333333333333
+ヘンリエッタさん 大変 大変！",Henrietta is very serious!,0.25,0.78179806
+What's going on?,どうかしたんですか？,What happened?,0.3333333333333333,0.48672843
 "Yeah. Originally, it was just backstories for items.","アイテムの
 あおり文句だったのに―","Itemous
-Even though it was a temple complaint-",0.125
+Even though it was a temple complaint-",0.125,0.34879294
 "But now, the stuff in the text is \Ncoming true or happening in reality.","書かれた意味が本当になったり
 現実に起こったりするんだって","The meaning of the written meaning is true
-It happens in reality",0.2631578947368421
+It happens in reality",0.2631578947368421,0.73616487
 Then we'll also need to be mindful \Nof the flavor text in the future.,"では 今後は
 フレーバーテキストにも","So in the future
-For flavor text",0.29411764705882354
+For flavor text",0.29411764705882354,0.7490486
 "Yeah, we don't know what will happen.","（ミカカゲ）どんな事例が
 出てくるか分からないからね","What cases are
-I do not know if it comes out",0.16666666666666666
+I do not know if it comes out",0.16666666666666666,0.070130005
 Which means Misa's weapon's going out of control,"（リーゼ）ということは
-三佐(みさ)さんの武器の暴走も―",Misa  's weapon runaway-,0.3
+三佐(みさ)さんの武器の暴走も―",Misa  's weapon runaway-,0.3,0.81467503
 might be related to that.,"このことが
 関係しているのかもしれない","This thing
-May be related",0.2222222222222222
+May be related",0.2222222222222222,0.6564311
 The murderer's Byakumaru...,"殺人鬼は
 衛兵の動力甲冑(かっちゅう)とともに","Murderer
-With the power of guards",0.2222222222222222
+With the power of guards",0.2222222222222222,0.4778336
 "Byakumaru is a raid drop, isn't it?","白魔丸は確か レイドの報酬で
 もらえるんですよね？","White Magic Maru is surely rewarding of Raid
-You can get it?",0.2222222222222222
+You can get it?",0.2222222222222222,0.45315138
 "Yes, it's from a raid monster in \Nthe tenth expansion pack,","ええ 10番目の拡張パックの
 レイドモンスター…","Yes 10th Expansion Pack
-Raid Monster ...",0.3333333333333333
-Rugrius?,ルグリウス？,Lugrius?,0.3333333333333333
-What does its flavor text say?,何が書かれているんですか？,What is written?,0.2222222222222222
+Raid Monster ...",0.3333333333333333,0.7881856
+Rugrius?,ルグリウス？,Lugrius?,0.3333333333333333,0.44605178
+What does its flavor text say?,何が書かれているんですか？,What is written?,0.2222222222222222,0.35333228
 "It describes the legend of Rugrius, \Nand how he became a monster.","ルグリウスの伝説と
 モンスターになった経緯です","Legend of Lugrius
-It is the process that became a monster",0.3888888888888889
+It is the process that became a monster",0.3888888888888889,0.47034284
 "He was originally one of the Izumo \NKnights, a hero of the Ice Wall,","イズモ騎士団で100年戦っていた
 氷壁の英雄でした","I was 100 years with Izmo Knights
-It was a hero of Ice Wall",0.3
+It was a hero of Ice Wall",0.3,0.6726862
 who fought for a century.,"（ヘンリエッタ）
-フレーバーテキストには―",For flavor text-,0.125
+フレーバーテキストには―",For flavor text-,0.125,-0.0023943987
 "He fought to protect the happiness \Nof the people of Susukino,","ススキノの人々の笑顔を
 守るために戦い続け―","Susukino people smile
-Continue to fight to protect-",0.2
-and he drove away the evil giants.,邪悪な巨人を退けました,I reveded the evil giant,0.18181818181818182
-But...,しかし…,However…,0.0
-"He was betrayed by the Daughter of Elm,",ルグリウスは春楡(はるにれ)の娘―,Lugrius is a daughter of spring 楡 -,0.13333333333333333
+Continue to fight to protect-",0.2,0.63828
+and he drove away the evil giants.,邪悪な巨人を退けました,I reveded the evil giant,0.18181818181818185,0.6074449
+But...,しかし…,However…,0.0,0.61680675
+"He was betrayed by the Daughter of Elm,",ルグリウスは春楡(はるにれ)の娘―,Lugrius is a daughter of spring 楡 -,0.13333333333333333,0.2838661
 "Sutu Inaw, and poisoned to death.","ストゥイナウに裏切られ
 毒殺されました","Bed to Stwe Nau
-It was poisoned",0.15384615384615385
+It was poisoned",0.15384615384615385,0.52960455
 "So, as a raid monster, Rugrius was \Ndescribed as angry and hateful.","レイドモンスターになった
 ルグリウスは―","Laid Monster became
-Lugrius-",0.0625
-That's quite a dark story.,なかなか いわくつきですね,It is quite awkward,0.1
+Lugrius-",0.0625,0.3347327
+That's quite a dark story.,なかなか いわくつきですね,It is quite awkward,0.1,0.13395095
 and is giving the murderer power?,"その恨みや憎しみを
 抱いているという設定です","The grudge and hate
-It is the setting that is holding",0.23076923076923078
-"S-Sorry, I just...",あっ すみません つい…,I'm sorry I'm sorry ...,0.2857142857142857
-No... No!,うう… 違う！ 違う！,Uh ... different!different!,0.4
-I'm not Rugrius!,オレは… ルグリウスじゃない！,I'm not ... Rug Rius!,0.5
-I am a proud Defender!,誇り高き衛士(えじ)だ！,Proud sexual coast !,0.25
-You aren't the town guard dog.,お前は街の番犬ではない,You are not a town's first dog,0.3333333333333333
-"Together, we shall avenge ourselves \Nupon the Daughter of Elm",我とともに春楡の娘を…,Together with me with my daughter ...,0.13333333333333333
-and the humans...,人間どもに復讐を…,Human to revenge ...,0.14285714285714285
+It is the setting that is holding",0.2307692307692308,0.2152723
+"S-Sorry, I just...",あっ すみません つい…,I'm sorry I'm sorry ...,0.2857142857142857,0.48004898
+No... No!,うう… 違う！ 違う！,Uh ... different!different!,0.4,0.30414075
+I'm not Rugrius!,オレは… ルグリウスじゃない！,I'm not ... Rug Rius!,0.5,0.6492447
+I am a proud Defender!,誇り高き衛士(えじ)だ！,Proud sexual coast !,0.25,0.42138022
+You aren't the town guard dog.,お前は街の番犬ではない,You are not a town's first dog,0.3333333333333333,0.75186986
+"Together, we shall avenge ourselves \Nupon the Daughter of Elm",我とともに春楡の娘を…,Together with me with my daughter ...,0.13333333333333333,0.33605805
+and the humans...,人間どもに復讐を…,Human to revenge ...,0.14285714285714285,0.42420998
 The flavor text is becoming real.,"（アカツキ）
-フレーバーテキストの具現化",Frame text implementation,0.1111111111111111
+フレーバーテキストの具現化",Frame text implementation,0.1111111111111111,0.26394713
 "If I'd had Byakumaru, what would \Nhave happened to me?","もし 私が白魔丸を持っていたら
 どうなっていただろう？","If I have a white Magumaru
-What happened?",0.29411764705882354
+What happened?",0.29411764705882354,0.48423418
 With that ugly jealousy I felt toward Minori...,"ミノリに嫉妬して…
 あんな醜い気持ちで","I am jealous of Minori ...
-With such an ugly feeling",0.3333333333333333
-Are you sure?,（ソウジロウ）ありがとう,Thank you,0.2
-I think it's better to stay out of it.,いいと思うんだよね,I think it's good,0.36363636363636365
-Will it really be in the Teachings?,（ナズナ）本当にいいのかい？,really good?,0.2222222222222222
+With such an ugly feeling",0.3333333333333333,0.88320255
+Are you sure?,（ソウジロウ）ありがとう,Thank you,0.2,0.1603491
+I think it's better to stay out of it.,いいと思うんだよね,I think it's good,0.3636363636363637,0.43330166
+Will it really be in the Teachings?,（ナズナ）本当にいいのかい？,really good?,0.2222222222222222,0.11220638
 I believe in the strength of girls.,"ボクは
 女の子たちの強さを信じるよ","Boku
-I believe in the strength of the girls",0.7777777777777778
-Our goal is to take out the murderer.,目的は あくまでも殺人鬼討伐,The purpose is to kill the killer demon,0.23076923076923078
-to learn about each other and fight effectively.,効率よく戦うための訓練だ,It is training to fight efficiently,0.15384615384615385
+I believe in the strength of the girls",0.7777777777777778,0.5930897
+Our goal is to take out the murderer.,目的は あくまでも殺人鬼討伐,The purpose is to kill the killer demon,0.2307692307692308,0.49100456
+to learn about each other and fight effectively.,効率よく戦うための訓練だ,It is training to fight efficiently,0.15384615384615385,0.5180684
 She wants to know the Teachings.,"あ そうそう この子が
 口伝を知りたいんだと","Oh yeah I'm here
-I want to know the veteran",0.21428571428571427
+I want to know the veteran",0.21428571428571427,0.07177773
 Everyone teach her what you know.,"みんな 持ってるもん
 いろいろ教えてやってよ","Everyone has
-Tell me various things",0.08333333333333333
+Tell me various things",0.08333333333333333,0.35133627
 "If Henrietta heard that, she'd be freaking out!","ヘンリエッタさんがいたら
 大騒ぎだったよ きっと","If Henrietta is
-It was a fuss, she surely",0.23529411764705882
+It was a fuss, she surely",0.2352941176470588,0.79204905
 "We want to be strong, too!","（チカ）
-私たちも強くなりたいんです！",We also want to be strong!,0.6666666666666666
+私たちも強くなりたいんです！",We also want to be strong!,0.6666666666666666,0.96354103
 "Let's all do our best, Akatsuki!","（キョウコ）
-一緒に頑張ろう アカツキちゃん！",Let's do our best together Akatsuki-chan!,0.5454545454545454
-Is everyone ready?,（ナズナ）みんな いいね？,Everyone likes?,0.4
+一緒に頑張ろう アカツキちゃん！",Let's do our best together Akatsuki-chan!,0.5454545454545454,0.8528841
+Is everyone ready?,（ナズナ）みんな いいね？,Everyone likes?,0.4,0.32574418
 "First, you need to be able \Nto judge distance by sight.","まずは目視での正確な距離感の
 把握ができるようになること！","First of all, the exact distance feeling visually
-Be able to grasp!",0.2857142857142857
+Be able to grasp!",0.2857142857142857,0.56955516
 Teachings? I'm not sure...,"会得できるわけでも
 ないんだよなあ","Even if you can get
-I'm not",0.25
-Anything you know would help. Please.,何でもいいから教えてほしい,I want you to tell me anything,0.16666666666666666
-It's nothing that special.,（狐猿）口伝といってもなあ,It is also true that,0.2222222222222222
+I'm not",0.25,-0.006906409
+Anything you know would help. Please.,何でもいいから教えてほしい,I want you to tell me anything,0.16666666666666666,0.2542954
+It's nothing that special.,（狐猿）口伝といってもなあ,It is also true that,0.2222222222222222,0.16865577
 "For example, our guild master's Teachings \Ngive him an ability called Eyes of the Void.","例えば うちのギルマスが
 会得した口伝は","For example, Gilmas of
-The convinced vulgar",0.23809523809523808
-"It lets him visualize a target's HP and \Nstatus, even if he can't see them.",対象のＨＰやステータスを,Target HP and status,0.15
+The convinced vulgar",0.2380952380952381,0.38760594
+"It lets him visualize a target's HP and \Nstatus, even if he can't see them.",対象のＨＰやステータスを,Target HP and status,0.15,0.4287025
 "With this ability,","視線で捉えずとも
 参照できる能力でござる","Even with the eyes
-It is possible with the ability to reference",0.16666666666666666
+It is possible with the ability to reference",0.16666666666666666,0.2779792
 "I can know the HP of players \Nbehind me, so it's pretty handy.","自分の後ろにいる味方のＨＰも
 知ることができて 便利なんだぜ","HP of allies behind yourself
-It is convenient to know",0.18181818181818182
+It is convenient to know",0.18181818181818185,0.51731855
 so I don't know if you can learn it.,"（狐猿）でも それができるのは
 ギルマスだけでござるからして…","Even if you can do it
-Because it is only Gilmouth ...",0.29411764705882354
-That's fine! Teach me anyway!,そうなのか！,Is that so!,0.2222222222222222
-Again!,もう１回！,Another time!,0.25
+Because it is only Gilmouth ...",0.29411764705882354,0.2862142
+That's fine! Teach me anyway!,そうなのか！,Is that so!,0.2222222222222222,0.22898407
+Again!,もう１回！,Another time!,0.25,0.70272636
 If only I had more of a clue.,"（アカツキ）口伝…
 何か少しでも手がかりがあれば…","Varies ...
-If there is a clue in a little bit ...",0.1875
-Akatsuki!,なっ！ あ…,Come!a…,0.25
-This is especially for you!,アカツキちゃんには特別！,Special for Akatsuki-chan!,0.25
-Especially?,特別？,special?,0.3333333333333333
+If there is a clue in a little bit ...",0.1875,0.41498253
+Akatsuki!,なっ！ あ…,Come!a…,0.25,0.2248616
+This is especially for you!,アカツキちゃんには特別！,Special for Akatsuki-chan!,0.25,0.19777195
+Especially?,特別？,special?,0.3333333333333333,0.43378457
 "The murderer is a Person of the Land,","（ヘンリエッタ）殺人鬼である
 大地人は 衛兵であったため―","is a murderer
-Because the earthman was guards-",0.3333333333333333
+Because the earthman was guards-",0.3333333333333333,0.59689033
 "and since he was a Royal Guard, \Nhe has the movable armor's power.","動力甲冑の戦力を
 持ち合わせています","Power armor's strength
-I have together",0.15
-"And the Graupel Sword Byakumaru, as well.",そして 霰刀(せんとう) 白魔丸,And the dazzle,0.2
+I have together",0.15,0.507909
+"And the Graupel Sword Byakumaru, as well.",そして 霰刀(せんとう) 白魔丸,And the dazzle,0.2,0.3676023
 "With normal attacks, the Byakumaru \Ncan deal blizzard and cold damage.","白魔丸は 通常の攻撃であれば
 吹雪や冷気でダメージを与えます","White Mage Maru is a normal attack
-Damage with snowstorm and cold air",0.23809523809523808
+Damage with snowstorm and cold air",0.2380952380952381,0.5089172
 "Rugrius was a raid boss, right?","（ミチタカ）ルグリウスは
 レイドボスだったよな？","Lugrius
-Was it a raid boss?",0.5
-Yes.,はい その事実を加味すると,Yes if you add that fact,0.14285714285714285
+Was it a raid boss?",0.5,0.7325221
+Yes.,はい その事実を加味すると,Yes if you add that fact,0.14285714285714285,0.3116547
 "with the flavor text now becoming \Nreal, it has three effects.","フレーバーテキストが
 具現化した場合 派生効果は３つ","Flavar text
-When embodied, the derivative effect is three",0.21052631578947367
+When embodied, the derivative effect is three",0.21052631578947367,0.533032
 "First, freeze status from the blizzard.","まずは 吹雪による
 凍結のバッドステータス","First of all, with snowstorm
-Frozen Bad Status",0.21428571428571427
+Frozen Bad Status",0.21428571428571427,0.6667551
 "For every adventurer within fifty meters,","半径50メートル以内に存在する
 冒険者の数に応じて―","It exists within a radius of 50 meters
-Depending on the number of adventurers-",0.1111111111111111
+Depending on the number of adventurers-",0.1111111111111111,0.6918333
 his attack and defense increase.,"攻撃力 防御力などを
 増強させるのです","Attack power defense
-It enhances",0.2222222222222222
-"Then we can't all fight him at once, huh?",みんなで一斉に戦うのは無理か,It is impossible to fight all at once,0.25
-So the plan is...,そこで作戦ですが,So it is a strategy,0.25
+It enhances",0.2222222222222222,0.63100034
+"Then we can't all fight him at once, huh?",みんなで一斉に戦うのは無理か,It is impossible to fight all at once,0.25,0.7287894
+So the plan is...,そこで作戦ですが,So it is a strategy,0.25,0.48742712
 "Instead of six-member raid teams, \Nwe'll use teams of two or three.","通常は６人で構成される
 レイドチームを","Normally six people consist of
-Raid team",0.1111111111111111
+Raid team",0.1111111111111111,0.8101175
 We'll deploy them around Akihabara like a net.,"２～３人単位に分け アキバの街に
 網のように配置します","2 to 3 people in the city of Akiba
-Arrange like a net",0.15
-Rieze is amazing...,（レイネシア）すごい リーゼさん,Amazing Lease,0.2
+Arrange like a net",0.15,0.51812696
+Rieze is amazing...,（レイネシア）すごい リーゼさん,Amazing Lease,0.2,0.16866873
 "I'd heard she was the leader of \NCrusty's guild's training division,","クラスティ様のギルドの教導部隊の
 隊長とは聞いていましたが…","Cluster-like guild teaching unit
-I was listening to the captain ...",0.19047619047619047
+I was listening to the captain ...",0.19047619047619047,0.55980307
 but she's explaining her strategy to these \Nmen without the slightest hesitation.,"殿方に臆することなく
 自らの戦術を語るなんて","Without hesitation
-What to talk about his own tactics",0.15
+What to talk about his own tactics",0.15,0.44296774
 Aren't those teams a little too small?,"チームを細かく
 分けすぎじゃないですか？","Team fine
-Isn't it too divided?",0.21428571428571427
+Isn't it too divided?",0.21428571428571427,0.5042617
 We'll use the raid party chat for communication.,"連絡用にレイドパーティー用の
 チャットも使用します","For Raid Party for Contact
-I also use chat",0.38461538461538464
+I also use chat",0.38461538461538464,0.81636876
 "So, what is Byakumaru's third effect?","（ウッドストック）で 白魔丸の
 ３つ目の派生効果は… あれか？","White Magumaru at 
-The third derivative effect ... is that?",0.25
+The third derivative effect ... is that?",0.25,0.4693621
 What I think it is?,"（ウッドストック）
-相変わらず厄介だな",It is awkwardless,0.2857142857142857
-A huge boost to his HP.,ええ ＨＰの大幅上昇,Yes HP significantly rise,0.1
+相変わらず厄介だな",It is awkwardless,0.2857142857142857,0.21997398
+A huge boost to his HP.,ええ ＨＰの大幅上昇,Yes HP significantly rise,0.1,0.5586986
 "Depending on the number of people in the zone,","ゾーンに存在する人数によって
 その最大ＨＰが大きく変わります","Depending on the number of people in the zone
-The maximum HP changes significantly",0.6153846153846154
-Then what's the plan?,で どうする？,What do you do?,0.25
-I'd like to issue a curfew confining people \Nto their homes until New Year's.,今日から年明けまでの,From today to the new year,0.15
-Please have the Round Table ask the \NPeople of the Land to stay inside.,円卓会議から呼びかけてください,Please call from a round table,0.1875
-"Well, we can do it, but...",まあ できなくもないが…,"I can not do it, but ...",0.6
-Will it really work?,本当にうまくいくのか？,Do you really go well?,0.2222222222222222
-The key to that,その鍵は…,The key is ...,0.3333333333333333
+The maximum HP changes significantly",0.6153846153846154,0.6226243
+Then what's the plan?,で どうする？,What do you do?,0.25,0.2794506
+I'd like to issue a curfew confining people \Nto their homes until New Year's.,今日から年明けまでの,From today to the new year,0.15,0.24735895
+Please have the Round Table ask the \NPeople of the Land to stay inside.,円卓会議から呼びかけてください,Please call from a round table,0.1875,0.5424321
+"Well, we can do it, but...",まあ できなくもないが…,"I can not do it, but ...",0.6,0.5346415
+Will it really work?,本当にうまくいくのか？,Do you really go well?,0.2222222222222222,0.31041494
+The key to that,その鍵は…,The key is ...,0.3333333333333333,0.60972255
 is in Princess Lenessia's hands.,"アキバの街を瞬間移動するのも
 お手のものだ","Moving Akiba's city instantly
-It is a hand",0.14285714285714285
+It is a hand",0.14285714285714285,0.3104448
 You want me to cut off the power \Nto the large magic circle?,"（レイネシア）私に 巨大魔法陣の
 魔力供給を断ってほしいと","I am a huge magic
-I want you to refuse the magic supply",0.2631578947368421
+I want you to refuse the magic supply",0.2631578947368421,0.6521565
 "Of course, if we shut off the magic supply,","（菫星(きんじょう)）魔力供給を停止すれば
 動力甲冑は機能を失います","If you stop the magic supply
-Power armor loses its function",0.23529411764705882
+Power armor loses its function",0.2352941176470588,0.62872547
 "But at the same time, it would \Ndisable the city's magic defenses,","しかし 同時に都市の
 防衛用魔法陣も消失し―","But at the same time
-Defense Magic Semicles also disappear-",0.35294117647058826
+Defense Magic Semicles also disappear-",0.35294117647058826,0.49749076
 C-Can't you reboot it?,"もう一度 すぐ動かすことは
 できないのですか？","Run immediately again
-Can you not do it?",0.25
+Can you not do it?",0.25,0.37451544
 All I can say is that it would take decades.,"モンスターの侵入を
 防げなくなります","Monster intrusion
-I can not prevent it",0.2
+I can not prevent it",0.2,-0.08702861
 I'm well aware of the risks.,"（リーゼ）
-リスクが伴うのは百も承知です",Hundreds of risks with risks,0.2
+リスクが伴うのは百も承知です",Hundreds of risks with risks,0.2,0.6188934
 "If you accept, Lenessia... Princess...","姫が引き受けてくださったら
 作戦が成功するかもしれない","If the princess accepts
-The operation may be successful",0.15384615384615385
-"No, I'll make it succeed!",いえ 成功させます！,I will succeed!,0.3333333333333333
+The operation may be successful",0.15384615384615385,0.48852447
+"No, I'll make it succeed!",いえ 成功させます！,I will succeed!,0.3333333333333333,0.70791805
 Does that mean you're asking \Nme in my official capacity?,"それは 公の立場の私に頼んでいる
 ということでしょうか？","It is asked me in public position
-Is that mean?",0.2222222222222222
-I believe it does.,気にすることもあれへんよ,I also care about it,0.25
+Is that mean?",0.2222222222222222,0.3617927
+I believe it does.,気にすることもあれへんよ,I also care about it,0.25,0.15986168
 "if it's your will as the princess, \Nno one will blame you.","どんな答えだろうと
 姫の意志なら誰も責めません","What answered
-No one will blame if the princess will",0.35294117647058826
+No one will blame if the princess will",0.35294117647058826,0.74028105
 "Even if you refuse, it won't affect \Nyour friendships with us.","（マリエール）断っても
-うちらとの関係は何も変わらん",Any relationship with us,0.125
+うちらとの関係は何も変わらん",Any relationship with us,0.125,0.32184684
 "In the end, I couldn't say whether I'd do it or not.","（レイネシア）結局 やるとも
 やらないとも言えなかった","After all
-I could not say that I did not do it",0.3157894736842105
+I could not say that I did not do it",0.3157894736842105,0.51825386
 "As their friend, I want to do it.","友達として みんなの願いを
 聞いてあげたい","As a friend of everyone
-I want to hear",0.35714285714285715
-But as the Marquis's ambassador...,でも 侯爵家の大使としては…,But as an ambassador of the family ...,0.5
-What should I do?,どうすれば…,what should I do…,0.5
+I want to hear",0.35714285714285715,0.4626074
+But as the Marquis's ambassador...,でも 侯爵家の大使としては…,But as an ambassador of the family ...,0.5,0.688644
+What should I do?,どうすれば…,what should I do…,0.5,0.798951
 There isn't much time left.,"（アカツキ）
-もう あまり時間がない",She is no longer time,0.2
-How's it coming along?,（にゃん太(た)）調子はどうですにゃ？,) How is your condition?,0.2
-When's the operation?,作戦の決行は いつですかにゃ？,When is the decision on the operation?,0.5
+もう あまり時間がない",She is no longer time,0.2,0.51366127
+How's it coming along?,（にゃん太(た)）調子はどうですにゃ？,) How is your condition?,0.2,0.32135805
+When's the operation?,作戦の決行は いつですかにゃ？,When is the decision on the operation?,0.5,0.8116234
 I see.,"なるほど 今年の憂いは
 今年のうちに ですにゃ","I see, this year's ugly
-What is she is this year",0.18181818181818182
+What is she is this year",0.18181818181818185,0.12831898
 "I want to learn the Teachings, \Nbut I still don't know anything.","口伝を会得したいのだが
 まだ何もつかめていない","I want to get a meeting
-Nothing has been caught yet",0.13636363636363635
-Is there anything I can do?,ありますかにゃ？,Do you have?,0.2222222222222222
-Thank you.,（シロエ）ありがとう,Thank you,0.6666666666666666
-I'm all right.,そうですか,I see,0.16666666666666666
+Nothing has been caught yet",0.13636363636363635,0.07428288
+Is there anything I can do?,ありますかにゃ？,Do you have?,0.2222222222222222,0.04838135
+Thank you.,（シロエ）ありがとう,Thank you,0.6666666666666666,0.77174777
+I'm all right.,そうですか,I see,0.16666666666666666,0.18272798
 But I think you may be trying a bit too hard.,"でも アカツキさんは 少し
 頑張りすぎかもしれませんにゃ","But Akatsuki is a little
-It may be too hard",0.375
+It may be too hard",0.375,0.32922402
 "My lord, why not take a break?","（アカツキ）
-主君 少し休んだらどうだ？",How about the Lord Lord?,0.16666666666666666
+主君 少し休んだらどうだ？",How about the Lord Lord?,0.16666666666666666,0.38074976
 But I want to do everything I can.,"でも やれることは
 全部やっておきたいんだ","But what can be done
-I want to do everything",0.6363636363636364
+I want to do everything",0.6363636363636364,0.8505094
 I can try hard because I want to.,"無理はしてないよ
 そうしたいから頑張れるんだ","I'm not overdoing
-I'm going hard because I want to do that",0.35714285714285715
+I'm going hard because I want to do that",0.35714285714285715,0.51345867
 I don't know why my lord is trying so hard.,"主君が なぜあれほどまで
 頑張っているのかは分からない","The Lord why
-I do not know if he is working hard",0.4117647058823529
-But he is.,でも 無理することはない,But there is no impossible,0.2857142857142857
-"So I'll do my best, too.",だから 私も頑張る,So I will do my best,0.5
+I do not know if he is working hard",0.4117647058823529,0.7091077
+But he is.,でも 無理することはない,But there is no impossible,0.2857142857142857,0.2549549
+"So I'll do my best, too.",だから 私も頑張る,So I will do my best,0.5,0.85605216
 I can't worry about my own pride \Nif I want to defeat the murderer.,"殺人鬼に勝つために
 なりふりかまってなど いられない","To win the murderer
-I can't help me",0.3333333333333333
-Because I'm weak.,私は… 弱いのだから,Because I'm weak,0.8
+I can't help me",0.3333333333333333,0.5522825
+Because I'm weak.,私は… 弱いのだから,Because I'm weak,0.8,0.9797157
 "Hey, keep your distance, and go around.","（ナズナ）ほら！
 ちゃんと距離とって回り込む！","!
-I will turn around for a distance!",0.13333333333333333
-Don't let those buffs wear off.,バフも途切れないように！,Don't miss the buff!,0.16666666666666666
-What's important is to truly know your enemy.,明確にしていくことです,It is to clarify,0.16666666666666666
-I'm weak.,（アカツキ）私は 弱い,I am weak,0.4
+I will turn around for a distance!",0.13333333333333333,0.5540036
+Don't let those buffs wear off.,バフも途切れないように！,Don't miss the buff!,0.16666666666666666,0.6585936
+What's important is to truly know your enemy.,明確にしていくことです,It is to clarify,0.16666666666666666,0.17293185
+I'm weak.,（アカツキ）私は 弱い,I am weak,0.4,0.8860507
 There are things you can only learn \Nby accepting your weakness.,"でも 弱さを認めることでしか
 分からないこともある","But by admitting weakness
-I can not understand",0.1111111111111111
-I can't do anything on my own.,１人では何もできない でも…,Even one person can not do anything ...,0.13333333333333333
+I can not understand",0.1111111111111111,0.74731386
+I can't do anything on my own.,１人では何もできない でも…,Even one person can not do anything ...,0.13333333333333333,0.4972827
 "Akatsuki, do you use these?","（桃色姉）
-アカツキちゃん こういうの使う？",Azuki-chan How do you use this?,0.4
-They're good for defense.,（桃色妹）防御に役立つんだよ,I'm helpful for defense,0.2222222222222222
+アカツキちゃん こういうの使う？",Azuki-chan How do you use this?,0.4,0.44194746
+They're good for defense.,（桃色妹）防御に役立つんだよ,I'm helpful for defense,0.2222222222222222,0.6599246
 "Here, have some strawberries, Akatsuki.","（カワラ）ほらほら
-アカツキちゃんもイチゴ食べなよ！",Akatsuki is also a strawberry!,0.08333333333333333
+アカツキちゃんもイチゴ食べなよ！",Akatsuki is also a strawberry!,0.08333333333333333,0.7632491
 I can become strong with everyone.,"（アカツキ）
-みんなと強くなっていけばいい",You should be strong with everyone,0.3
-You are small...,（アカツキ）ありがとう,Thank you,0.2
-But that's actually an advantage.,でも かえって有利だよ,But it is advantageous,0.1
-"He's huge, right?",えっ？,eh?,0.14285714285714285
-It makes it easy to get in his blind spots.,死角も生まれやすいし,It is easy to burn a blind spot,0.2857142857142857
-But I never thought that weakness \Ncould also be a strength.,でも 短所が長所になるなんて,But the disadvantages will be the strength,0.2
+みんなと強くなっていけばいい",You should be strong with everyone,0.3,0.82780147
+You are small...,（アカツキ）ありがとう,Thank you,0.2,0.18583028
+But that's actually an advantage.,でも かえって有利だよ,But it is advantageous,0.1,0.72293615
+"He's huge, right?",えっ？,eh?,0.14285714285714285,0.23640533
+It makes it easy to get in his blind spots.,死角も生まれやすいし,It is easy to burn a blind spot,0.2857142857142857,0.6357118
+But I never thought that weakness \Ncould also be a strength.,でも 短所が長所になるなんて,But the disadvantages will be the strength,0.2,0.59239995
 Know exactly what they can and can't do!,"（アカツキ）何ができて
 何ができないのかを明確にする","What happens
-Clarify what can not be done",0.13333333333333333
-This is it!,（白虹）あっ ここだ ここだ！,here is here!,0.4
-"You're training to defeat the murderer, right?",殺人鬼討伐の作戦訓練ですね？,It is the operation of the murderer's cancellation?,0.1875
+Clarify what can not be done",0.13333333333333333,0.4341577
+This is it!,（白虹）あっ ここだ ここだ！,here is here!,0.4,0.41875324
+"You're training to defeat the murderer, right?",殺人鬼討伐の作戦訓練ですね？,It is the operation of the murderer's cancellation?,0.1875,0.44092005
 and decided I wanted to help.,"お手伝いしたいなあ
 と思って フフッ","I want to help
-I think it is fluffy",0.25
-Are you still recruiting?,まだ募集していますか？,Are you recruiting yet?,0.6666666666666666
+I think it is fluffy",0.25,0.20161349
+Are you still recruiting?,まだ募集していますか？,Are you recruiting yet?,0.6666666666666666,0.8821996
 Of course.,"もちろんです
 えーと セイネさんも？","of course
-Eh and he also Seine?",0.2222222222222222
-"Nah, it's nothing...",（セイネ）そ… そうだ,... That's right,0.25
-This gives us twenty-four members.,24人 そろいましたね,There were 24 people,0.0
+Eh and he also Seine?",0.2222222222222222,0.30503473
+"Nah, it's nothing...",（セイネ）そ… そうだ,... That's right,0.25,0.33075467
+This gives us twenty-four members.,24人 そろいましたね,There were 24 people,0.0,0.5367744
 I'll ask you to take care of that other matter.,"ヘンリエッタさんには
 あちらをお願いしますよ","Henrietta
-I ask you",0.23076923076923078
-As a twenty-fifth member.,25人目として,As a 25th,0.3333333333333333
+I ask you",0.2307692307692308,0.23588665
+As a twenty-fifth member.,25人目として,As a 25th,0.3333333333333333,0.5940033
 "I'm so happy you came, Princess Lenessia!","レイネシア姫が来てくれるなんて
 すごくうれしい！","Princess Reinesia comes
-I am very happy!",0.2857142857142857
+I am very happy!",0.2857142857142857,0.6921623
 "Mikakage, are the rice balls ready?","（アオモリ）
-ミカカゲ！ おにぎりの準備は？",Mikagae!How are you ready for rice balls?,0.38461538461538464
-"It's hardly ""already""...",“お昼か”じゃないよ,"It's not ""lunch""",0.4444444444444444
-"If you don't hurry, you won't make it in time.",早くしないと間に合わなくなるぜ,I will not fit in time,0.125
-Sorry!,（ミカカゲ）ああっ ごめん,"Oh, sorry",0.25
+ミカカゲ！ おにぎりの準備は？",Mikagae!How are you ready for rice balls?,0.38461538461538464,0.87915385
+"It's hardly ""already""...",“お昼か”じゃないよ,"It's not ""lunch""",0.4444444444444444,0.17325826
+"If you don't hurry, you won't make it in time.",早くしないと間に合わなくなるぜ,I will not fit in time,0.125,0.5064191
+Sorry!,（ミカカゲ）ああっ ごめん,"Oh, sorry",0.25,0.5166272
 Please let me help with something.,"（レイネシア）あ あの…
 私にも何か手伝わせてください","Aoi ...
-Please let me help me",0.4444444444444444
-"Huh? You, Princess?",えっ！ 姫が？,eh!Princess?,0.2857142857142857
-Do you have the cooking skill?,姫って調理スキルあるの？,Is there a princess cooking skill?,0.2727272727272727
-"Eh? Um, I don't know...",えっ？ あー どうでしょう…,"eh?Oh, how ...",0.36363636363636365
-Want to try?,やってみる？,Try?,0.5
+Please let me help me",0.4444444444444444,0.43960404
+"Huh? You, Princess?",えっ！ 姫が？,eh!Princess?,0.2857142857142857,0.82082844
+Do you have the cooking skill?,姫って調理スキルあるの？,Is there a princess cooking skill?,0.2727272727272727,0.6983748
+"Eh? Um, I don't know...",えっ？ あー どうでしょう…,"eh?Oh, how ...",0.3636363636363637,0.6191514
+Want to try?,やってみる？,Try?,0.5,0.62629193
 I'm starved.,"（キョウコ）
-あー！ もう お腹ペコペコ！",Ah!I'm already hungry!,0.25
-Let's dig in.,（ドルチェ）食べよ 食べよ,eats eating,0.0
-May I sit here?,（レイネシア）ここ いいですか？,Is it good here?,0.25
-I made that.,それ 私が作ったんです,I made it,0.4
-"It doesn't look like much, but it's good.",見た目はあれだけど おいしい,It looks like it looks delicious,0.15384615384615385
-I'm sorry.,ごめんなさい,sorry,0.25
-I thought it was convenient for me.,都合がいいって思ってしまいました,I thought it was convenient,0.625
-What was?,何のこと？,What is it?,0.4
-"It was only for a second,",ほんの一瞬ですが,It is only a moment,0.3333333333333333
+あー！ もう お腹ペコペコ！",Ah!I'm already hungry!,0.25,0.5020711
+Let's dig in.,（ドルチェ）食べよ 食べよ,eats eating,0.0,0.09017271
+May I sit here?,（レイネシア）ここ いいですか？,Is it good here?,0.25,0.46482024
+I made that.,それ 私が作ったんです,I made it,0.4,0.76569206
+"It doesn't look like much, but it's good.",見た目はあれだけど おいしい,It looks like it looks delicious,0.15384615384615385,0.5196692
+I'm sorry.,ごめんなさい,sorry,0.25,0.54203176
+I thought it was convenient for me.,都合がいいって思ってしまいました,I thought it was convenient,0.625,0.92875415
+What was?,何のこと？,What is it?,0.4,0.60286707
+"It was only for a second,",ほんの一瞬ですが,It is only a moment,0.3333333333333333,0.51511115
 "but I thought that if you defeated the murderer,","もし アカツキさんが
 殺人鬼を倒してくれたら","Akatsuki is
-If you defeat the murderer",0.3076923076923077
+If you defeat the murderer",0.3076923076923077,0.5016486
 I could avoid a conflict between \Nadventurers and People of the Land.,"大地人と冒険者の間の
 対立を回避できると","During the Daichi and Adventurer
-If you can avoid conflict",0.21052631578947367
+If you can avoid conflict",0.21052631578947367,0.4092921
 I thought of crying to my grandfather or to Crusty.,"おじい様や クラスティ様に
 泣きつくことも考えました","Grandpa and cluster
-I also thought about crying",0.2
-But that would be no different from before.,でも それでは今までと同じ,But that is the same as before,0.23076923076923078
+I also thought about crying",0.2,0.6291795
+But that would be no different from before.,でも それでは今までと同じ,But that is the same as before,0.2307692307692308,0.7838637
 But I'm still uneasy.,"でも まだ不安なんです
 決断できないんです","But I'm still anxious
-I can not make a decision",0.3333333333333333
+I can not make a decision",0.3333333333333333,0.5688365
 "When you said I was your friend,","（アカツキ）
-友達だって言ってくれたこと―",What I said that my friend-,0.16666666666666666
-it made me happy.,責任を回避するだけになってしまう,It will only be responsible,0.1111111111111111
+友達だって言ってくれたこと―",What I said that my friend-,0.16666666666666666,0.58020693
+it made me happy.,責任を回避するだけになってしまう,It will only be responsible,0.1111111111111111,0.06672145
 but everyone is here.,"何が不安なのか分からないけど…
 でも みんないる","I do not know what is anxious ...
-But she is everyone",0.23076923076923078
-I'm your friend.,私もいる 友達だ,I am a friend who is also a friend,0.2
-Akatsuki...,アカツキさん…,Akatsuki ...,1.0
-Okay!,はい！,Yes!,0.3333333333333333
-Friends...,（アカツキ）うっ…,Uh ...,0.3333333333333333
-Getting close to figuring something out?,どうだい？ 何かつかめそうかい？,How is it?Something looks like?,0.16666666666666666
-Tatara?,（リーゼ）多々良(たたら)さん？,A lot ?,0.25
-If I'd known...,（多々良）知ってたら…,If you know ...,0.2857142857142857
+But she is everyone",0.2307692307692308,0.13708992
+I'm your friend.,私もいる 友達だ,I am a friend who is also a friend,0.2,0.57201135
+Akatsuki...,アカツキさん…,Akatsuki ...,1.0,0.99999946
+Okay!,はい！,Yes!,0.3333333333333333,0.5089255
+Friends...,（アカツキ）うっ…,Uh ...,0.3333333333333333,0.3912205
+Getting close to figuring something out?,どうだい？ 何かつかめそうかい？,How is it?Something looks like?,0.16666666666666666,0.16864032
+Tatara?,（リーゼ）多々良(たたら)さん？,A lot ?,0.25,0.16804399
+If I'd known...,（多々良）知ってたら…,If you know ...,0.2857142857142857,0.62931633
 Of course not. I know that.,"もちろん分かってます
 みんなも","Of course I understand
-Everyone",0.3333333333333333
+Everyone",0.3333333333333333,0.36524156
 "If I turn this over to someone \Nelse because I'm weak,","力が弱いからと
 全てを委ねてしまえば―","Because power is weak
-If you leave everything-",0.17647058823529413
+If you leave everything-",0.17647058823529413,0.3144638
 "I'll be admitting that I'm not \Nonly weak, but also inferior.","弱いだけでなく 劣っていることを
 認めてしまうことになる","Not only is weak but also inferior
-It will be recognized",0.3157894736842105
-I couldn't be their friend.,友達にはなれませんもの,I can not be friends,0.2
-Princess Lenessia...,（ヘンリエッタ）レイネシア姫,Princess Reinesia,0.25
-"Please let me participate, too!",私も参加させてください！,Please join me too!,0.5
+It will be recognized",0.3157894736842105,0.56705225
+I couldn't be their friend.,友達にはなれませんもの,I can not be friends,0.2,0.63730496
+Princess Lenessia...,（ヘンリエッタ）レイネシア姫,Princess Reinesia,0.25,0.7324235
+"Please let me participate, too!",私も参加させてください！,Please join me too!,0.5,0.652904
 You'll be the twenty-sixth maiden of Watermaple.,"26人目の水楓(すいふう)の乙女
 ですわね","The 26th Water Mao  Maiden
-I'm sorry",0.13333333333333333
-Now I have everyone with me!,今は みんながいる,Now there is everyone,0.2222222222222222
-Yeah!,（一同）お～っ！,!,0.5
-It's finally time.,いよいよですわね,It is finally,0.3333333333333333
-I've been underestimated...,（マリエール）あっ…,...,0.2
-It's not enough.,足りぬ,Not enough,0.4
+I'm sorry",0.13333333333333333,0.5487095
+Now I have everyone with me!,今は みんながいる,Now there is everyone,0.2222222222222222,0.58764845
+Yeah!,（一同）お～っ！,!,0.5,0.6513359
+It's finally time.,いよいよですわね,It is finally,0.3333333333333333,0.6134747
+I've been underestimated...,（マリエール）あっ…,...,0.2,0.32117802
+It's not enough.,足りぬ,Not enough,0.4,0.73097783
 "Gather many subjects,","多くの民草を集め
 ひざまずかせ","Collect many civilians
-Kneeling",0.14285714285714285
+Kneeling",0.14285714285714285,0.33580256
 I'll destroy them all!,"（アカツキ）いくぞ！
 （マリエール）うん！","I'm going!
- Yeah!",0.2222222222222222
+ Yeah!",0.2222222222222222,0.31924498
 The murderer's blade shines within the blizzard.,"26人の仲間の思いを胸に
 戦うアカツキ","In the chest of 26 people's thoughts
-Fight Akatsuki",0.125
+Fight Akatsuki",0.125,0.21985184
 "But her blade shatters, and her \Nfate is about to be sealed.","だが 刀は折れ
 その運命は風前のともしび","But the sword is broken
-The fate is",0.11764705882352941
+The fate is",0.1176470588235294,0.52497834
 "When despair rules the town, \Nthe twenty-seventh maiden appears.","街が絶望に覆われた その瞬間
 現れた27人目の乙女","The moment the city was covered with despair
-27th maiden that appeared",0.15789473684210525
-Akatsuki's Teaching is about to be unleashed.,アカツキの口伝が今 解き放たれる,Akatsuki's veterans are released now,0.15384615384615385
+27th maiden that appeared",0.15789473684210525,0.7484598
+Akatsuki's Teaching is about to be unleashed.,アカツキの口伝が今 解き放たれる,Akatsuki's veterans are released now,0.15384615384615385,0.6251308
 Akihabara Raid,"（アカツキ）
-ついにレイドが始まった",Finally Raid has started,0.2
-Rise up once more.,（シロエ）立ち上がれ もう一度,standing up again,0.14285714285714285
+ついにレイドが始まった",Finally Raid has started,0.2,0.5204444
+Rise up once more.,（シロエ）立ち上がれ もう一度,standing up again,0.14285714285714285,0.6295106

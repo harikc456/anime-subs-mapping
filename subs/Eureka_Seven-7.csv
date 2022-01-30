@@ -1,584 +1,584 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "Norma 02 to 01. I have
-reached the target point.",目標ポイントに到達しました,I reached the target point,0.45454545454545453
-This is 01. Any response from the sensors?,各種センターに反応は？,What is the reaction to various centers?,0.21428571428571427
+reached the target point.",目標ポイントに到達しました,I reached the target point,0.4545454545454545,0.5244398
+This is 01. Any response from the sensors?,各種センターに反応は？,What is the reaction to various centers?,0.21428571428571427,0.117618926
 "No response on the heat sensor
 or the Compac interferometer.","（隊員）熱源およびコンパク
 干渉計にも反応はありません","heat source and compact
-There is no response to the interferometer",0.3125
+There is no response to the interferometer",0.3125,0.7713165
 "<i>Headquarters to Norma 01.</i>
-<i>Status report, please.</i>",（通信兵）本部よりノーマ01,Headquarters Noma 01,0.07142857142857142
+<i>Status report, please.</i>",（通信兵）本部よりノーマ01,Headquarters Noma 01,0.07142857142857142,0.4690917
 "We've reached the point where
 White KLF squad last reported in.","（隊長）ワイトＫＬＦ小隊が
 消息を絶ったポイントに到達した","Wight KLF platoon
-I reached the point at the end of the game",0.2
-Number of survivors is currently unknown.,今現在 生存者は不明…,"Currently, survivors are unknown ...",0.3
-<i>Captain!</i>,（隊員）隊長！,captain!,0.3333333333333333
-03! What's wrong?!,（隊長）03 どうした！？,03 What happened!?,0.5714285714285714
+I reached the point at the end of the game",0.2,0.53409743
+Number of survivors is currently unknown.,今現在 生存者は不明…,"Currently, survivors are unknown ...",0.3,0.8734812
+<i>Captain!</i>,（隊員）隊長！,captain!,0.3333333333333333,0.74975306
+03! What's wrong?!,（隊長）03 どうした！？,03 What happened!?,0.5714285714285714,0.7508324
 "<i>Right front!</i>
 <i>Confirm heat source at 2400!</i>","（隊員）
-右前方 2400に熱源を確認！",Check the heat source to the right forward 2400!,0.3125
-I think it's an enemy ship!,（隊員）敵機と思われます,It seems to be an enemy machine,0.25
+右前方 2400に熱源を確認！",Check the heat source to the right forward 2400!,0.3125,0.7471646
+I think it's an enemy ship!,（隊員）敵機と思われます,It seems to be an enemy machine,0.25,0.6204293
 "This is 02! Another heat
-source confirmed at left front!",（隊員）左前方にも熱源を確認！,Check the heat source to the left front!,0.35714285714285715
+source confirmed at left front!",（隊員）左前方にも熱源を確認！,Check the heat source to the left front!,0.35714285714285715,0.5626926
 "<i>Headquarters to Norma 01!</i>
 <i>01, do you copy?!</i>","（通信兵）
-本部よりノーマ01！",Noma 01 from Headquarters!,0.1875
+本部よりノーマ01！",Noma 01 from Headquarters!,0.1875,0.449706
 "This marks the 6th, starting from Asyris.","（クゼミ）アシリスから数えて
 これで６つ…","counted from ASIRIS
-This is 6 ...",0.14285714285714285
+This is 6 ...",0.14285714285714285,0.56877464
 "I'm sure the media will no
 longer keep quiet about this.","（コーダ）もはやメディアも
 黙ってはいないでしょう","no longer
-It will not shut up",0.17647058823529413
+It will not shut up",0.17647058823529413,0.29409826
 It's not that we were avoiding this issue!,"（ブラヤ）我々とて
 猶予していたわけではない！","with us
-It is not a suspension!",0.2
+It is not a suspension!",0.2,0.30061272
 "Even so, where has that
 man strolled off to now?!","だというのに あの男は今
 どこをほっつき歩いている！","Even though that man is now
-He is walking where he is smoked!",0.3333333333333333
-Cold!,（ムーンドギー）うわっ 寒っ！,Wow cold!,0.6666666666666666
+He is walking where he is smoked!",0.3333333333333333,0.6054965
+Cold!,（ムーンドギー）うわっ 寒っ！,Wow cold!,0.6666666666666666,0.7048462
 "Hey, wake up! Come on!","（ハップ）おい 起きろ！ おい！
 （レントン）んっ…","Starting up!Oi!
- ...",0.2
-Time for work!,仕事の時間だ,It is time of work,0.2857142857142857
+ ...",0.2,0.37118286
+Time for work!,仕事の時間だ,It is time of work,0.2857142857142857,0.6657743
 "You must be tired from
 being in the brig all week.","（ストナー）１週間も営倉入りじゃ
 疲れたろう","1 week is also
-Tired",0.13333333333333333
+Tired",0.13333333333333333,0.49845275
 "I thought that you guys
 had forgotten about me.","（レイトン）忘れられてるのかと
 思いました","I'm forgotten
-thought",0.2727272727272727
-"Well, honestly, we HAD forgotten...",ん… ああ？,... Oh?,0.1111111111111111
+thought",0.2727272727272727,0.6180731
+"Well, honestly, we HAD forgotten...",ん… ああ？,... Oh?,0.1111111111111111,0.24047676
 "Don't worry about it. That's Stoner's
 best attempt at a sense of humor.","（マシュー）気にすんな
 ストナー 一流のユーモアだ","Watch
-It is a ster-out humor",0.15789473684210525
+It is a ster-out humor",0.15789473684210525,0.4576788
 "But, is it all right? Holland said that
 I was to be locked up for 10 days...","でも いいんですか？
 俺 確か ホランドからは―","But is it okay?
-I'm sure from Holland-",0.2
+I'm sure from Holland-",0.2,0.5311237
 "I told you, right? I have a
 job I wanted you to work on.","お前にやってもらいたい
 仕事があるって","I want you to do
-There is a job",0.2777777777777778
+There is a job",0.2777777777777778,0.51880264
 "Or rather, this important job
 can only be done by you.","というより
 この大事な仕事は―","Or rather
-This important work is-",0.26666666666666666
+This important work is-",0.26666666666666666,0.59361935
 Look out! What are you doing?!,"（ストナー）何やってんだ！
 （レントン）えっ！？","What is it!
- Eh!?",0.2727272727272727
+ Eh!?",0.2727272727272727,0.38293606
 "I can't believe this! You'd touch
 it with your bare hands?!","（ハップ）信じられん
 素手で触るか 普通…","believe
-It touches with bare hands or normal ...",0.2631578947368421
+It touches with bare hands or normal ...",0.2631578947368421,0.6879305
 "You understand that this is an extremely
 dangerous item we have here?","（マシュー）非常に危険な
 シロモノってこと分かってるよね？","Very dangerous
-It is understood that it is Silmono, right?",0.21052631578947367
-What do you mean?,（レントン）どういうこと？,What does it mean?,0.42857142857142855
+It is understood that it is Silmono, right?",0.21052631578947367,0.5201406
+What do you mean?,（レントン）どういうこと？,What does it mean?,0.42857142857142855,0.49988604
 Hey! You can tell him all about it.,"おい！
 お前から教えてやってくれ","Oi!
-Tell me from you",0.23076923076923078
-Sure.,ういっす,Lose,0.0
-Roger!,了解！,Roger that!,0.6666666666666666
-Be careful...,気をつけろよ,Be careful,0.6666666666666666
+Tell me from you",0.2307692307692308,0.24475378
+Sure.,ういっす,Lose,0.0,0.13187987
+Roger!,了解！,Roger that!,0.6666666666666666,0.8614298
+Be careful...,気をつけろよ,Be careful,0.6666666666666666,0.7878814
 "This is ordinary ramen noodles, right?","これって
 普通のラーメン… ですよね？","is this
-Ordinary ramen ... is it?",0.5
-That's right!,（ハップ）そのとおり,That's right,0.75
+Ordinary ramen ... is it?",0.5,0.86031055
+That's right!,（ハップ）そのとおり,That's right,0.75,0.8444477
 It looks just like a bowl of pork ramen soup.,"（ストナー）見た目は
 さっぱりトンコツ系だ","looks
-It is a tonkotsu system",0.21428571428571427
+It is a tonkotsu system",0.21428571428571427,0.23895162
 to deliver this to a certain individual.,"これを ある人物に
 届けなくてはならなくなった","To the person who is this
-I have to deliver",0.23076923076923078
+I have to deliver",0.2307692307692308,0.72193223
 I know that you're not quite up for this job.,"それ以上は聞くな
 知らないほうが幸せだ","Do not listen more than that
-I'm happy to know",0.21052631578947367
+I'm happy to know",0.21052631578947367,0.26725397
 "If I could, I wouldn't be
-asking you such a thing.",できれば 俺だって―,"If you can, I'm me-",0.25
+asking you such a thing.",できれば 俺だって―,"If you can, I'm me-",0.25,0.47553265
 "But, there's no other way.","だが こうするより
 他に手がなかったんだ","But this is more
-There was no other hand",0.3076923076923077
+There was no other hand",0.3076923076923077,0.43433306
 All I can do is to ask you to help us out.,"お前にこんなこと
 頼みたくはない","Such a thing
-I do not want to ask",0.23529411764705882
-I'll do it.,（レントン）やります,I do,0.4
+I do not want to ask",0.2352941176470588,0.2333654
+I'll do it.,（レントン）やります,I do,0.4,0.2978808
 "I mean, please let me do it!","…っていうか
 俺にやらせてください！","...
-Please let me do it!",0.6
-Seriously? You're one in a million!,えっ マジで！？,Ehen serious!?,0.18181818181818182
-"Aw, you're exaggerating...",いやあ そんな…,"No, so ...",0.25
-Wh-What is this outfit?,な 何ですか これ？,What is it?,0.2857142857142857
-It's a type of urban camouflage.,（ストナー）都市型迷彩の一種,A kind of urban camouflage,0.4444444444444444
+Please let me do it!",0.6,0.7641963
+Seriously? You're one in a million!,えっ マジで！？,Ehen serious!?,0.18181818181818185,0.23860304
+"Aw, you're exaggerating...",いやあ そんな…,"No, so ...",0.25,0.33537212
+Wh-What is this outfit?,な 何ですか これ？,What is it?,0.2857142857142857,0.27323288
+It's a type of urban camouflage.,（ストナー）都市型迷彩の一種,A kind of urban camouflage,0.4444444444444444,0.92964655
 "It's so that you won't be
 spotted by the enemies!","敵から姿を
 くらますことができる","A figure from the enemy
-Can be",0.1111111111111111
+Can be",0.1111111111111111,0.3321792
 A good answer!,"頼んだぞ 少年！
 （レントン）はいっ！","I ask you a boy!
- is!",0.2222222222222222
+ is!",0.2222222222222222,0.26816592
 <i>Renton here. Mr. Hap?</i>,"こちら レントン
 ハップさん？","Renton here
-Hap?",0.4
-"<i>About this ""urban camouflage""...</i>",この都市型迷彩なんすけど―,This urban type camouflage is-,0.23076923076923078
+Hap?",0.4,0.8408297
+"<i>About this ""urban camouflage""...</i>",この都市型迷彩なんすけど―,This urban type camouflage is-,0.2307692307692308,0.84160924
 "<i>Doesn't it make me stand</i>
 <i>out more than blend in?</i>","何か 逆に
 メチャクチャ目立ってません？","Verse
-Aren't you standing out?",0.15
+Aren't you standing out?",0.15,0.4213476
 "But because of that,
 nobody would believe...","（ストナー）フフフ…
 （ハップ）だが それにより―","Huhufu ...
- but he",0.18181818181818182
+ but he",0.18181818181818185,0.15311308
 "<i>I suppose, but... I feel like</i>
 <i>everyone's staring at me.</i>","熱いまなざしを
 感じるんだよな…","Hotness
-I feel ...",0.1875
+I feel ...",0.1875,0.37226114
 "Don't worry. That's what
 adolescence is all about.","そりゃそうですけど…
 何というか―","That's right ...
-What is it-",0.2857142857142857
-<i>What's wrong?</i>,（ハップ）どうした！？,What happened!?,0.2
+What is it-",0.2857142857142857,0.148078
+<i>What's wrong?</i>,（ハップ）どうした！？,What happened!?,0.2,0.2435091
 "I just saw a man with a camera!
-It looks like I'm under surveillance!",今 カメラを持った男が！,A man with a camera now is!,0.3125
+It looks like I'm under surveillance!",今 カメラを持った男が！,A man with a camera now is!,0.3125,0.6863707
 "Get away from there for now! I'll ask
-for the deal location to be changed.",ひとまず その場を離れろ！,I will leave the place for a while!,0.18181818181818182
+for the deal location to be changed.",ひとまず その場を離れろ！,I will leave the place for a while!,0.18181818181818185,0.48457545
 <i>R-Roger that!</i>,"（レントン）
-りょ… 了解しました！",I understand! I understand!,0.25
+りょ… 了解しました！",I understand! I understand!,0.25,0.24853685
 "Is Renton psychic?
-He's pretty keen on things.",レントンってエスパー？,Renton is an Esper?,0.23076923076923078
+He's pretty keen on things.",レントンってエスパー？,Renton is an Esper?,0.2307692307692308,0.4789466
 It's Moondoggie's fault!,"ムーンドギーのせいだよ
 （マシュー）えっ？","It's because of the movie
-?",0.2
+?",0.2,0.241339
 "He insisted on being the cameraman,
 but he's doing no good at all.","あいつ 自分でカメラやるって
 言ったわりには 全然ダメだな","I do my camera myself
-It is no good at all",0.18181818181818182
-"Hey, Moondoggie!",おーい ムーンドギー！,Hey Moon Gye!,0.3333333333333333
-I hear you!,お～い 聞こえるか～！,How can I hear!,0.5
-I-I'm getting with it!,ちゃ… ちゃんとやってる！,Chan ... I'm doing it properly!,0.2727272727272727
+It is no good at all",0.18181818181818185,0.40188318
+"Hey, Moondoggie!",おーい ムーンドギー！,Hey Moon Gye!,0.3333333333333333,0.68183947
+I hear you!,お～い 聞こえるか～！,How can I hear!,0.5,0.39978638
+I-I'm getting with it!,ちゃ… ちゃんとやってる！,Chan ... I'm doing it properly!,0.2727272727272727,0.27154696
 on the monitor for a while now!,"モニターにさっきから お前さんの
 股間が大写しになっちゃってるよ！","Yof of yourself on the monitor
-The crotch has become a major picture!",0.3125
+The crotch has become a major picture!",0.3125,0.43301612
 "Gidget... By any chance, have
 you been there for a while?","もしかして… ギジェット
 さっきからそこにいる？","Maybe ... Giggett
-Are you there from just before?",0.2
+Are you there from just before?",0.2,0.46007228
 "It's crazy how much junk
 food they eat around here...","（ヒルダ）ジャンクフードの
 減り方が異常ね","Junk Food
-How to reduce it is unusual",0.25
+How to reduce it is unusual",0.25,0.52567047
 Hilda!,"（エウレカ）ヒルダ！
 （ヒルダ）わっ！ びっくりした！","Hilda!
-!I was surprised!",0.4
+!I was surprised!",0.4,0.8768208
 "Don't just pop in like that!
 What's wrong?","いきなり現れないでよ！
 どうしたの？","Don't appear suddenly!
-What's wrong?",0.5
+What's wrong?",0.5,0.43730348
 "Have you seen Renton? It's time
 to eat, but he's not in the brig.","食事の時間なのに
 営倉にいないの","Even though it is a meal time
-Not in Makura",0.16666666666666666
+Not in Makura",0.16666666666666666,0.3343238
 "He was wearing a jersey outfit
 that was too small for him.","ツンツルテンの
 ジャージ着てね","Tuntluten
-Wear jersey",0.07142857142857142
-I see...,そっか…,I see…,0.25
+Wear jersey",0.07142857142857142,0.46674967
+I see...,そっか…,I see…,0.25,0.84814334
 "Renton here. I've entered the
 Rainbow sauna, as instructed.","指定されたサウナ
 レインボーに潜入しました！","Specified sauna
-I infilted in Rainbow!",0.1875
+I infilted in Rainbow!",0.1875,0.64079374
 "Hap is currently performing
 emergency hazardous waste disposal.","ハップは今
 緊急の老廃物処理に向かった","Hap is now
-I went to the emergency waste disposal",0.35714285714285715
+I went to the emergency waste disposal",0.35714285714285715,0.7195515
 "First, find the recipient
 among the sauna customers.","まず サウナのお客の中にいる
 受取人を探し出すんだ","First of all in the customer of the sauna
-I search for a recipient",0.23529411764705882
-Okay!,はい！,Yes!,0.3333333333333333
+I search for a recipient",0.2352941176470588,0.8500225
+Okay!,はい！,Yes!,0.3333333333333333,0.5089253
 That's right! A tattoo of a legendary figure!,"そうだ それも
 伝説の生き物の入れ墨だ！","That's too
-Legendary creature tattoo!",0.45454545454545453
-<i>Do you understand?</i>,分かるか？,Do you understand?,0.5
+Legendary creature tattoo!",0.4545454545454545,0.80647725
+<i>Do you understand?</i>,分かるか？,Do you understand?,0.5,0.6246021
 "There are an awful lot of
 guys in here like that...","いっぱい いらっしゃる
 ようなんですけれども…","There are a lot
-It looks like ...",0.3333333333333333
+It looks like ...",0.3333333333333333,0.42266738
 "What should we do?
-What should we do?",どうする？ どうする？,what will you do? what will you do?,0.42857142857142855
+What should we do?",どうする？ どうする？,what will you do? what will you do?,0.42857142857142855,0.50840676
 Sure!,"（指を鳴らす音）
-（ストナー）それ いっただきっ！",I'm sorry!,0.2
+（ストナー）それ いっただきっ！",I'm sorry!,0.2,0.3511754
 <i>It seems that the recipient wears a wig.</i>,"（ストナー）どうやら受取人は
 ズラであり…","Apparently the recipient
-It is Zura ...",0.1875
+It is Zura ...",0.1875,0.47099787
 "Which is it?!
 You're not being clear at all!","全然言い切ってないですよ
 それ！","I'm not saying at all
-that!",0.25
-Mission aborted... Come back up.,（レントン）ん…,...,0.14285714285714285
+that!",0.25,0.3342046
+Mission aborted... Come back up.,（レントン）ん…,...,0.14285714285714285,0.17566876
 I'll do it!,"やります！
 （ドギー）はあ！？","I'll do it!
-!?",0.8333333333333334
+!?",0.8333333333333334,0.67839485
 "Continuing with the mission.
-I'll search inside the sauna room!",サウナ室の中を捜索してみます,Let's search inside the sauna room,0.35714285714285715
-Right!,作戦続行！,Strategycontinues!,0.3333333333333333
-He's for real.,ありゃ 本物だな,AryaItis real,0.16666666666666666
+I'll search inside the sauna room!",サウナ室の中を捜索してみます,Let's search inside the sauna room,0.35714285714285715,0.79527843
+Right!,作戦続行！,Strategycontinues!,0.3333333333333333,0.2638221
+He's for real.,ありゃ 本物だな,AryaItis real,0.16666666666666666,0.27240562
 "Yeah, a genius. No wonder
-why Moondoggie gets jealous.",ああ… 天才だ,Oh...a genius,0.15384615384615385
+why Moondoggie gets jealous.",ああ… 天才だ,Oh...a genius,0.15384615384615385,0.35351613
 Jealous?,"（ギジェット）嫉妬？
 （一同）あ？","jealousy?
-Oh?",0.25
+Oh?",0.25,0.7251997
 Did he give up? Is it all over?,"ハァッ ハァッ…
 ギブアップ？","Huhhuh...
-Give up?",0.2727272727272727
-"No, we're just getting to the good part!",最高の展開！,The bestdeployment!,0.16666666666666666
+Give up?",0.2727272727272727,0.521278
+"No, we're just getting to the good part!",最高の展開！,The bestdeployment!,0.16666666666666666,0.20193416
 "It's not certain if there is a guy
-with a wig inside that sauna.",カツラの人が―,Wigofhuman-,0.0
-"Oh, true...",（ハップ）あ… ああ…,Oh...Oh...,0.5
+with a wig inside that sauna.",カツラの人が―,Wigofhuman-,0.0,0.37822676
+"Oh, true...",（ハップ）あ… ああ…,Oh...Oh...,0.5,0.48211133
 "<i>Hey, wipe the lens!</i>
 <i>The lens, Moondoggie!</i>","（ストナー）おい！
 レンズを拭け レンズを！","Hey!
-Wipethelensof the lens!",0.3333333333333333
+Wipethelensof the lens!",0.3333333333333333,0.74918336
 "What's wrong, honey?","（マシュー）
-おっ どうしたの ハニー？",OhWhat happenedhoney?,0.125
+おっ どうしたの ハニー？",OhWhat happenedhoney?,0.125,0.28763956
 "Don't ""honey"" me!
 For now, junk food is off-limits!","ジャンクフード 当分禁止！
 （マシュー）ええ～！？","Junk foodfor the time beingprohibited!
-yeah~!?",0.1
+yeah~!?",0.1,0.6085487
 It's a traditional event!,"それにこれって
 一種の愛情表現なのね～","AndIthis
-A kindofaffectionrepresentationofNoI-",0.125
+A kindofaffectionrepresentationofNoI-",0.125,0.11768557
 "Besides, do Holland and
 Talho know about this?","ホランドとタルホは
 知ってるの？","HollandandTaruhois
-Do you know?",0.25
+Do you know?",0.25,0.62707734
 Talho's the one that brought the idea up.,"（ストナー）
-言いだしっぺは タルホさ",IdashippeisTaruhoof,0.0
+言いだしっぺは タルホさ",IdashippeisTaruhoof,0.0,0.13879836
 "Holland was all excited about it, too!","（メーテル）ホランドも
 ノリノリだったよ～","Hollandalso
-It was ahigh spirits-",0.16666666666666666
-Each and every one of you...,（ヒルダ）どいつもこいつも…,etc.alwaysbethis guy...,0.1111111111111111
+It was ahigh spirits-",0.16666666666666666,0.5147513
+Each and every one of you...,（ヒルダ）どいつもこいつも…,etc.alwaysbethis guy...,0.1111111111111111,0.27812612
 Here we go!,"（リンク）
-ねえ ママも一緒に見よう！",HeyhermomLet'stogether!,0.2
+ねえ ママも一緒に見よう！",HeyhermomLet'stogether!,0.2,0.2641773
 Mr. Moondoggie? Why are you here?,"どうしてここに…
 （ドギー）え？","Why are you here…
-What?",0.4444444444444444
-Renton?,レントン…,Renton ...,0.3333333333333333
+What?",0.4444444444444444,0.4318545
+Renton?,レントン…,Renton ...,0.3333333333333333,0.9205434
 "Three days ago, a tectonic shift was
 observed in this area at a depth of 45.","（ドミニク）３日前 現地点にて
 深度45の地殻変動を観測","in thethree days beforelocalpoint
-Observedcrustal deformationdepth45",0.09523809523809523
+Observedcrustal deformationdepth45",0.09523809523809523,0.5029805
 "a 20 kilometer radius of this
 point was completely sealed off.","同 日没までに
 半径20キロ圏内を完全封鎖","Untilthesunset
-Completelyblocking theradius of 20kilometers",0.0625
-"At 0740, all communications were severed.",７時40分 交信が途絶,7:0040minutescommunication isdisrupted,0.0
+Completelyblocking theradius of 20kilometers",0.0625,0.37159523
+"At 0740, all communications were severed.",７時40分 交信が途絶,7:0040minutescommunication isdisrupted,0.0,0.45767927
 "Two hours later, communications from
 KLF squad Norma were also severed.","そして２時間後 同じく
 ノーマＫＬＦ小隊の交信も途絶","And 2 hours later
-Noma KLF platoon communication is also interrupted",0.2
-Look at this.,（デューイ）見てみろ,look,0.25
-Th-This is!,中佐？ ん！,Is it?Hmm!,0.3333333333333333
-Norma 01!,ノーマ01！？,Noma 01!?,0.4
-Your report?,（デューイ）報告は？,report?,0.6666666666666666
+Noma KLF platoon communication is also interrupted",0.2,0.6055733
+Look at this.,（デューイ）見てみろ,look,0.25,0.48324543
+Th-This is!,中佐？ ん！,Is it?Hmm!,0.3333333333333333,0.44536856
+Norma 01!,ノーマ01！？,Noma 01!?,0.4,0.45782682
+Your report?,（デューイ）報告は？,report?,0.6666666666666666,0.81813854
 "Th-The fact that the enemy fire is
 concentrated on the captain's unit...","（ドミニク）た 隊長機に
 攻撃が集中している点が―","to the captain
-Points that attacks are concentrated-",0.16666666666666666
-is the same as in the preceding five cases...,先立つ５つと 同じ現象です,It is the same phenomenon as the first five,0.4166666666666667
+Points that attacks are concentrated-",0.16666666666666666,0.6223362
+is the same as in the preceding five cases...,先立つ５つと 同じ現象です,It is the same phenomenon as the first five,0.4166666666666667,0.5065498
 What the hell is Moondoggie thinking?,"ムーンドギーのやつは
 何考えてんだ 一体？","The guy of the movie
-What is your thoughts?",0.3333333333333333
+What is your thoughts?",0.3333333333333333,0.26033
 "What are you talking about? You're
-always making googly-eyes at him!",何言ってんだ,What are you saying,0.21428571428571427
+always making googly-eyes at him!",何言ってんだ,What are you saying,0.21428571428571427,0.22836971
 At least say that we make a cute couple!,"“お似合いね”とか言いなさいよ！
 （マシュー）イタタ 痛い！","Let's say ""Your good match""!
- Itasu painful!",0.10526315789473684
-He's jealous...,嫉妬してんのよ,I'm jealous,0.16666666666666666
+ Itasu painful!",0.10526315789473684,0.3313127
+He's jealous...,嫉妬してんのよ,I'm jealous,0.16666666666666666,0.6172927
 "That's the case, isn't it?","（ハップ）
-まあ いずれにせよ―","Well, let's do it",0.25
+まあ いずれにせよ―","Well, let's do it",0.25,0.16546065
 "But still, this is some
 picture we got here...","それにしても…
 すっげえ画(え)だよな","Even so ...
-It is a good picture",0.1875
+It is a good picture",0.1875,0.46303672
 What are you recording with that?,"あれ 一体
 何 撮ってるんです？","Inattent
-What are you taking?",0.4444444444444444
-Don't touch it!,（ムーンドギー）触んなよ！,Please touch me!,0.2857142857142857
+What are you taking?",0.4444444444444444,0.24486956
+Don't touch it!,（ムーンドギー）触んなよ！,Please touch me!,0.2857142857142857,0.5716151
 "This is your camera,
 right, Mr. Moondoggie?","ムーンドギーさんのですよね
 このカメラ","It is Moondogy
-This camera",0.2727272727272727
+This camera",0.2727272727272727,0.76957434
 That's rare talent...,"あいつ
 狙ってやってないからね","that person
-I'm not aiming for",0.09090909090909091
-Go!,（若者）行けっ！,go!,1.0
-Wow! A Roundhouse Cutback!,うわあっ！,Wow!,0.4
-After all...,やっぱり―,on second thoughts-,0.0
+I'm not aiming for",0.09090909090909093,0.23378487
+Go!,（若者）行けっ！,go!,1.0,0.9999997
+Wow! A Roundhouse Cutback!,うわあっ！,Wow!,0.4,0.3757937
+After all...,やっぱり―,on second thoughts-,0.0,0.18253015
 "It's because I'm so pathetic that
 you came here to help me out.","俺が情けないから
 ヘルプに来たってことですよね？","Because I can not
-You're coming to Help, right?",0.21739130434782608
+You're coming to Help, right?",0.21739130434782608,0.52428913
 Am I undependable?,"俺１人なんかには
 任せられないですよね","I am one person
-I can not leave it",0.2
-"That's right, isn't it?",そうですよね,That's right,0.375
-"Honestly, I was relieved to see...",俺 ホッとしちゃって…,I'm sorry ...,0.2
+I can not leave it",0.2,0.32848275
+"That's right, isn't it?",そうですよね,That's right,0.375,0.57265013
+"Honestly, I was relieved to see...",俺 ホッとしちゃって…,I'm sorry ...,0.2,0.39348507
 "Why is he crying here?
-It's game over, man!",えっ 何でここで泣くの？,What's wrong here?,0.2
-"No, tears of frustration don't count.",いや 悔し涙は別だ,No regrettable tears,0.2
+It's game over, man!",えっ 何でここで泣くの？,What's wrong here?,0.2,0.23303784
+"No, tears of frustration don't count.",いや 悔し涙は別だ,No regrettable tears,0.2,0.5080779
 "Yeah. I'm looking forward to seeing
-how Moondoggie gets by this one.",期待大だな,I'm expecting,0.13333333333333333
+how Moondoggie gets by this one.",期待大だな,I'm expecting,0.13333333333333333,0.24208188
 "Let's see which side the gods
 of laughter are smiling upon!","笑いの神がどっちに
 ほほえむかを…","Which one of the laughter
-Hoho Muka ...",0.23529411764705882
-"Leaving already, honey?",おおっ？,"Oh, right?",0.2857142857142857
-I've got work to do!,（ヒルダ）さあ 仕事 仕事！,Sao work work!,0.25
+Hoho Muka ...",0.2352941176470588,0.44109932
+"Leaving already, honey?",おおっ？,"Oh, right?",0.2857142857142857,0.2173517
+I've got work to do!,（ヒルダ）さあ 仕事 仕事！,Sao work work!,0.25,0.45058414
 <i>What the hell are you up to?!</i>,"（ドギー）
-一体 何たくらんでんだよ！",What is the one?,0.2
-What do you mean by that?,どういう… 意味ですか？,What do you mean?,0.7142857142857143
-He's self-destructing.,自爆だな こりゃ,It's a self-destruction,0.14285714285714285
-He's just honest with his feelings.,自分に素直なのよ,I'm honest with myself,0.18181818181818182
+一体 何たくらんでんだよ！",What is the one?,0.2,0.15222183
+What do you mean by that?,どういう… 意味ですか？,What do you mean?,0.7142857142857143,0.7340888
+He's self-destructing.,自爆だな こりゃ,It's a self-destruction,0.14285714285714285,0.64623344
+He's just honest with his feelings.,自分に素直なのよ,I'm honest with myself,0.18181818181818185,0.46990168
 "Don't pretend you're crying!
 You're making fun of me!","泣きマネなんか
 してんじゃねえよ！","Crying Mane
-Don't do it!",0.3076923076923077
-Mr. Moondoggie...,ムーンドギーさんって…,Moon Dogie ...,0.2
+Don't do it!",0.3076923076923077,0.49485987
+Mr. Moondoggie...,ムーンドギーさんって…,Moon Dogie ...,0.2,0.74468327
 I'm sorry. I'm really embarrassed right now!,"すいません
 俺 恥ずかしいです","Excuse me
-I'm embarrassed",0.2727272727272727
-I was taking my position too lightly.,自分の立場を軽く見てました,I saw my position lightly,0.4444444444444444
-What are you saying?,お前 何言ってんの？,What are you saying?,1.0
+I'm embarrassed",0.2727272727272727,0.6452936
+I was taking my position too lightly.,自分の立場を軽く見てました,I saw my position lightly,0.4444444444444444,0.824778
+What are you saying?,お前 何言ってんの？,What are you saying?,1.0,1.0000006
 I was scared!,"俺 怖かったんです
 （ドギー）はっ？","I was scared
-?",0.6
+?",0.6,0.74570715
 "I was afraid that someone innocent
 would get hurt by me delivering this.","（レントン）誰かの手に
 これを届けることで―","Someone's hand
-By delivering this-",0.17647058823529413
+By delivering this-",0.17647058823529413,0.40989864
 "But, that's not how I should look at it!","でも…
 それじゃあ ダメなんですよね！","but…
-That's no good!",0.2
-Shut up.,黙れよ,Shut up,0.6666666666666666
+That's no good!",0.2,0.38780463
+Shut up.,黙れよ,Shut up,0.6666666666666666,0.88582903
 I decided when I boarded the Gekko...,"俺 月光(げっこう)号に乗り込んだ時に
 決めたんです！","When I got on the moonlight
-I decided!",0.36363636363636365
+I decided!",0.3636363636363637,0.37323737
 "<i>that even if I made the entire world my</i>
 <i>enemy, I was going to help Eureka!</i>","たとえ世界中を敵に回しても
 エウレカの力になるって！","Even if you turn the world to the enemy
-It will be the power of Eureka!",0.2962962962962963
+It will be the power of Eureka!",0.2962962962962963,0.7513179
 "Thanks to you,
 I've finally made up my mind!","（レントン）あなたのおかげで
 やっと決心がつきました","Thanks to you
-I finally decided",0.38461538461538464
+I finally decided",0.38461538461538464,0.56136054
 "Thank you, Brother Doggie!","ありがとう
 ドギー兄さん！","Thank you
-Doggy brother!",0.5714285714285714
-Brother?,兄さん？,Brother?,1.0
+Doggy brother!",0.5714285714285714,0.909881
+Brother?,兄さん？,Brother?,1.0,1.0000001
 "Wait... Brother, what's wrong?","ちょ… ちょっと兄さん
 どうしたの？","Cho ... A little brother
-What's wrong?",0.5454545454545454
+What's wrong?",0.5454545454545454,0.6351967
 I AM NOT YOUR BROTHER!,"俺は てめえの
 兄さんなんかじゃねえっ！","I'm sorry
-My brother isn't it!",0.25
+My brother isn't it!",0.25,0.6809105
 "Shut up! Until you showed up, I... I was!","（ドギー）黙れ！
 おめえが来るまでは―","Shut up!
-Until you come-",0.45454545454545453
+Until you come-",0.4545454545454545,0.54137194
 "Too strict! You're being
 too strict, Brother Doggie!","（レントン）厳しすぎる…
 厳しすぎますよ ドギー兄さん！","too strict ...
-It's too hard Doggy Brother!",0.2857142857142857
-DAMMIT!!!,ちぐしょー！,Chiguushi!,0.3333333333333333
+It's too hard Doggy Brother!",0.2857142857142857,0.90108716
+DAMMIT!!!,ちぐしょー！,Chiguushi!,0.3333333333333333,0.26205468
 "That's enough.
-Forgive him already, brother.",（大男）そうだ,That's right,0.2
+Forgive him already, brother.",（大男）そうだ,That's right,0.2,0.20362708
 "Yeah. Fights don't fit the
 atmosphere of this lifting spot.","このリフスポットに
 争い事は似合わないぜ","To this rifos spot
-I do not suit the contest",0.2222222222222222
+I do not suit the contest",0.2222222222222222,0.23867923
 Well... We're just kidding around.,"（ドギー）いや… これは
 ただの じゃれ合いでして…","No ... This is
-Just she is jealous ...",0.15384615384615385
-A tattoo of Holland...,ホランドのタトゥー…,Holland tattoo ...,0.6
-Mr. Hap!,ハップさん,Hap,0.3333333333333333
+Just she is jealous ...",0.15384615384615385,0.11836511
+A tattoo of Holland...,ホランドのタトゥー…,Holland tattoo ...,0.6,0.9450193
+Mr. Hap!,ハップさん,Hap,0.3333333333333333,0.50722486
 I found the tattoo of the legendary figure!,"伝説の生き物のタトゥー
 見つかりました！","Legendary creature tattoo
-Found!",0.4444444444444444
+Found!",0.4444444444444444,0.85776275
 "That's him!
 He's the recipient, little Renton!","そいつだ！ そいつこそが
 受取人だよ レントン少年！","That's it!It is
-It is a recipient he is a lenton boy!",0.3333333333333333
+It is a recipient he is a lenton boy!",0.3333333333333333,0.5861206
 "I told you that you were the
 only one that could pull it off!","この作戦は
 お前にしかできないと","This strategy
-If you can only do it",0.16666666666666666
+If you can only do it",0.16666666666666666,0.2320149
 "Because you're shorter
 than anyone else aboard!","お前の背が
 誰よりも小さかったからだ","Your back
-It was smaller than anyone",0.14285714285714285
-That felt good.,（レントン）あの～,That ~,0.2
+It was smaller than anyone",0.14285714285714285,0.349028
+That felt good.,（レントン）あの～,That ~,0.2,0.3177932
 Yeah... It's about time we headed home.,"（大男）ああ…
 そろそろ帰ろうか","ah ...
-Let's go back soon",0.13333333333333333
-He's huge!,デカッ！,Decach!,0.2
+Let's go back soon",0.13333333333333333,0.3860906
+He's huge!,デカッ！,Decach!,0.2,0.27814624
 "Oh, what's up, shrimp?","おお…
 どうした チビッ子","Oh…
-What's wrong",0.2222222222222222
+What's wrong",0.2222222222222222,0.29269573
 Cry! Cry and give up!,"泣け！
 泣いてギブアップしろ！","Crying!
-Create and give up!",0.5714285714285714
+Create and give up!",0.5714285714285714,0.7454738
 "Hey, bro!","（レントン）
-ねえ お兄ちゃん",Hey brother,0.2
+ねえ お兄ちゃん",Hey brother,0.2,0.69974774
 What do ya have to eat to grow so big?,"何食ったら
 そんなにデカくなれるわけ？","If you eat
-Do you get so big?",0.38461538461538464
-Yeah...,（若者）ああ…,Oh ...,0.3333333333333333
-"The operation was a huge success,",（ストナー）作戦は大成功！,Operation is a great success!,0.3
+Do you get so big?",0.38461538461538464,0.69088376
+Yeah...,（若者）ああ…,Oh ...,0.3333333333333333,0.662541
+"The operation was a huge success,",（ストナー）作戦は大成功！,Operation is a great success!,0.3,0.689998
 "even if the candid camera
 was a total failure!","ドッキリは大失敗…
 だったけどな","Dokkiri is a big failure ...
-But it was",0.1875
-"You're the real thing, kid!",（ハップ）お前は本物だ！,You are real!,0.3333333333333333
-Right?,（マシュー）え？,?,0.5
-"Yeah, that sounds right...",ああ… そうだな,Oh ... that's right,0.375
+But it was",0.1875,0.26498443
+"You're the real thing, kid!",（ハップ）お前は本物だ！,You are real!,0.3333333333333333,0.6610216
+Right?,（マシュー）え？,?,0.5,0.6605891
+"Yeah, that sounds right...",ああ… そうだな,Oh ... that's right,0.375,0.56716365
 You knew?,"（レントン）
-知ってたんですか？",Do you know?,0.4
+知ってたんですか？",Do you know?,0.4,0.57045054
 There's no way I could laugh.,"そんでもよぉ
 俺はうれしかったしぃ―","That's why
-I was happy-",0.16666666666666666
+I was happy-",0.16666666666666666,0.24581799
 "But, I was still really happy about it,","みんなのこと
 “仲間だなぁ”って思えたしぃ…","Everyone
-""I'm a friend,"" I thought it was ...",0.25
-Moondoggie...,ムーンドギー…,Moundoge ...,0.3333333333333333
-"So, how do I put it?",だから 何つうのぉ？,So what is it?,0.3
+""I'm a friend,"" I thought it was ...",0.25,0.24571393
+Moondoggie...,ムーンドギー…,Moundoge ...,0.3333333333333333,0.41019905
+"So, how do I put it?",だから 何つうのぉ？,So what is it?,0.3,0.19445562
 "For today, I admit defeat.","今日 みんなが
 求めてることにぃ―","Everyone today
-I'm looking for",0.3
+I'm looking for",0.3,0.31625044
 "But! Next time, I am sure to be the winner!","けんどぉ
 次は絶対俺が勝づ！ フフッ","Crunchy
-Next is absolutely won!Fuf",0.11764705882352941
+Next is absolutely won!Fuf",0.1176470588235294,0.45035985
 What?,"（レントン）ギジェットさん
 （ギジェット）何？","Mr. Gigerette
- What?",0.5
+ What?",0.5,0.19040036
 Can you translate what he just said?,"（レントン）
-訳してもらえますか？",Can you translate it?,0.4444444444444444
+訳してもらえますか？",Can you translate it?,0.4444444444444444,0.74433154
 So? How was it?,"（ヒルダ）
-で？ どうだったの？",so?How was it?,1.0
+で？ どうだったの？",so?How was it?,1.0,1.0000001
 Bingo. He was released.,"（タルホ）
-ビンゴよ 釈放されたって…","Bingo, it was released ...",0.375
+ビンゴよ 釈放されたって…","Bingo, it was released ...",0.375,0.74610215
 "You didn't think that he'd
 croak in prison, did you?","やつが牢獄の中でくたばるとは
 思ってなかっただろ？","A guy is in a prison
-Didn't you think?",0.5
+Didn't you think?",0.5,0.64322346
 How about you take a hot bath and relax?,"（ヒルダ）熱いお風呂にでも入って
 ゆっくりしたら？","In hot bathing
-What if you slowly?",0.2
+What if you slowly?",0.2,0.62149036
 "Yeah! And I'm sure you were
 looking forward to watching this!","（ハップ）だな！ そんで
 お待ちかねの これを見よう！","!and
-Watch this!",0.21428571428571427
-So stupid...,（ヒルダ）バカバカしい,stupid,0.3333333333333333
+Watch this!",0.21428571428571427,0.4586288
+So stupid...,（ヒルダ）バカバカしい,stupid,0.3333333333333333,0.60955626
 "Come on, Hilda, be honest!","（ハップ）
-素直になろう ヒルダ",Hilda who will be honest,0.3333333333333333
+素直になろう ヒルダ",Hilda who will be honest,0.3333333333333333,0.8468711
 The gods of laughter smile down upon us!,"笑いの神は
 ほほえみたまえり！","The god of laughter
-Hohoi Tama!",0.3333333333333333
+Hohoi Tama!",0.3333333333333333,0.6608909
 It's coincidence that the squads...,"命令系統を失った部隊が
 結果 全滅したのは偶然です","The unit of lost the order system
-It is coincidental that the result is annihilated",0.1875
+It is coincidental that the result is annihilated",0.1875,0.18301208
 "For them, the commander is merely a point...","彼らにとって指揮官は
 情報が集積するポイントにすぎない","The commander is
-Not just points to accumulate information",0.1875
+Not just points to accumulate information",0.1875,0.7320805
 "Thus, if we maintain the
 traditional form of a syndicate,","故に 我々が旧来の組織形態を
 維持し続けたとしたら―","Therefore we have an old tissue form
-If you keep maintaining it-",0.15
+If you keep maintaining it-",0.15,0.23630664
 "then I'd have to say we have no chance
 for victory in the battle against them.","彼らとの戦闘において
 勝機はなしと言わざるを得ない","In combat with them
-I can not say that the winner is not",0.20833333333333334
+I can not say that the winner is not",0.20833333333333331,0.564659
 "What really is important here is
 the existence of the Three Sages...","そして
 本当に大切なこととは―","and
-What is really important?",0.3076923076923077
-They have not evolved!,彼らは進化などしていない！,They do not evolve!,0.42857142857142855
-They are Corallians.,彼ら コーラリアンはね,They are Corarians,0.4
+What is really important?",0.3076923076923077,0.409174
+They have not evolved!,彼らは進化などしていない！,They do not evolve!,0.42857142857142855,0.8809643
+They are Corallians.,彼ら コーラリアンはね,They are Corarians,0.4,0.61743224
 What has he been doing?,"（メーテル）さっきから
 何やってんだろ？","From a while
-What do you do?",0.18181818181818182
+What do you do?",0.18181818181818185,0.36110523
 "It's because he can't go see Mama.
-'Cuz he's so embarrassed.",赤っ恥かかされたから,Because it was broken in red,0.11764705882352941
-Uncool! So uncool!,（リンク）ダセえ！ 超ダセえ！,dasuke!Super Daisuke!,0.16666666666666666
+'Cuz he's so embarrassed.",赤っ恥かかされたから,Because it was broken in red,0.1176470588235294,0.2579491
+Uncool! So uncool!,（リンク）ダセえ！ 超ダセえ！,dasuke!Super Daisuke!,0.16666666666666666,0.1963471
 "<i>Especially to get all serious about a
 prank and then depressed about it...</i>","たかがイタズラで マジになって
 落ち込むなんてなぁ…","Taka is serious and it becomes serious
-It's going to fall ...",0.21739130434782608
+It's going to fall ...",0.21739130434782608,0.18197
 Renton.,"（エウレカ）レントン
-（レントン）あっ",Renton,0.5
-"Wh-What's up, Eureka?",ど どうしたの？ エウレカ,What happened?Eureka,0.25
-"You haven't eaten yet, right?",食事 まだなんでしょ？,Diet yet?,0.2222222222222222
-Here!,はい,Yes,0.0
+（レントン）あっ",Renton,0.5,0.97420585
+"Wh-What's up, Eureka?",ど どうしたの？ エウレカ,What happened?Eureka,0.25,0.7638186
+"You haven't eaten yet, right?",食事 まだなんでしょ？,Diet yet?,0.2222222222222222,0.5753204
+Here!,はい,Yes,0.0,0.19675705
 <i>This is harsh!</i>,"（レントン）
-うわ～ これはつらい",Wow ~ This is hard,0.18181818181818182
+うわ～ これはつらい",Wow ~ This is hard,0.18181818181818185,0.3155732
 <i>Eureka's kindness is too harsh to take!</i>,"エウレカの優しさが
 つらすぎる…","Eureka's kindness
-Too much ...",0.26666666666666666
+Too much ...",0.26666666666666666,0.8700876
 "<i>No, wait...</i>","ヤバい…
 マジ泣いちゃうかも 俺…","Dangerous…
-Maji crying I may ...",0.16666666666666666
+Maji crying I may ...",0.16666666666666666,0.34114897
 <i>What if this isn't kindness?</i>,"もしかして
 これ 優しさじゃない？","As well
-Isn't it good for this?",0.25
-"<i>Then, what is it? Can it be pity?</i>",じゃあ 何？,What is it?,0.3076923076923077
+Isn't it good for this?",0.25,0.04236025
+"<i>Then, what is it? Can it be pity?</i>",じゃあ 何？,What is it?,0.3076923076923077,0.2758361
 "This looks tasty! I'll bet this ramen
 will be salty from all the tears...","きっと このラーメン
 涙の塩味だねって…","Surely this ramen
-It is salty of tears ...",0.25
+It is salty of tears ...",0.25,0.8669424
 WHAT?! Amazing?!,"えっ すごい！？
 （エウレカ）あ…","Effortable!?
- ...",0.3333333333333333
+ ...",0.3333333333333333,0.26912117
 "Yeah! Everyone has changed
 since you came aboard, Renton.","うん レントンが来てから
 みんな変わったよ","After the roenton came
-Everyone has changed",0.26666666666666666
+Everyone has changed",0.26666666666666666,0.442503
 "They all seem to have so
 much fun interacting with you!","関わることが
 すごく楽しそう！","It is related to
-Very fun!",0.1875
+Very fun!",0.1875,0.40216523
 "The Nirvash isn't the only
 one you've made happy!","喜んでるのは ニルヴァーシュ
 だけじゃないんだね！","It is the best to be happy Niru
-It's not only!",0.2777777777777778
+It's not only!",0.2777777777777778,0.6733987
 "That's what everyone was
 saying as they laughed...","みんな そう言って
 笑ってたけど…","Everyone says so
-I was laughing ...",0.21428571428571427
-"Hey, what does ""uncool"" mean?",ねえ ダサいって何？,Hey Dasa?,0.2
-There's something I'm worried about.,気になることがあるの,I have to worry about,0.18181818181818182
+I was laughing ...",0.21428571428571427,0.70693755
+"Hey, what does ""uncool"" mean?",ねえ ダサいって何？,Hey Dasa?,0.2,0.077132225
+There's something I'm worried about.,気になることがあるの,I have to worry about,0.18181818181818185,0.74631375
 "<i>At this time, just vaguely, I thought I saw</i>
 <i>a glimpse of my place in Gekkostate.</i>","ゲッコーステイトにおける
 俺の居場所が少し見えた気がして…","In Gecko State
-I felt like I saw my house a little ...",0.19230769230769232
+I felt like I saw my house a little ...",0.19230769230769232,0.5906232
 "I'll take a look right now!
 I can eat while I walk, anyway!","俺 歩きながら
 食べられるからっ！","While walking
-It's because you can eat!",0.21052631578947367
+It's because you can eat!",0.21052631578947367,0.63545793
 "<i>""I'm sorry! I was taking</i>
 <i>my position too lightly.""</i>","俺 自分の立場を
 軽く見てました","I have my own position
-I saw it lightly",0.2
-I'm so uncool.,（ホランド）ダセえな 俺…,I'm sorry I'm ...,0.2857142857142857
+I saw it lightly",0.2,0.48208696
+I'm so uncool.,（ホランド）ダセえな 俺…,I'm sorry I'm ...,0.2857142857142857,0.30654874
 "TO BE CONTINUED
-To be continued!",（レントン）つづく！,continuing!,0.2
+To be continued!",（レントン）つづく！,continuing!,0.2,0.5906982
 "A Terminus pursues a key person
 in an antigovernment organization.","（ナレーション）反政府組織の
-重要人物を追うターミナス",Terminus chasing important person,0.16666666666666666
+重要人物を追うターミナス",Terminus chasing important person,0.16666666666666666,0.71314096
 "The boy encounters the
 door that leads to the world.","少年は
 世界へと通じる扉と出会う","a boy
-He encounters the door to the world",0.5454545454545454
+He encounters the door to the world",0.5454545454545454,0.9401336

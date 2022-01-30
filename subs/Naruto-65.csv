@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.6999691
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.62335306
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852414
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.7599903
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372732
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.3079108
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522565
 The winner is Temari.,"(ｹﾞﾝﾏ)
 勝者
  
@@ -77,7 +77,7 @@ The winner is Temari.,"(ｹﾞﾝﾏ)
 ","winner
  
 Temari
-.",0.6
+.",0.6,0.9191431
 "Oh, I'm tired...","(ｼｶﾏﾙ)
 あ～
  
@@ -87,7 +87,7 @@ Temari
 ","Oh ~
  
 tired
-.",0.25
+.",0.25,0.6802013
 "Oh, what a waste!","(
 いの
 )
@@ -97,7 +97,7 @@ tired
 
 ","Oh!
  
-It becomes too!➡",0.2
+It becomes too!➡",0.2,0.2627693
 "Why?! He had a chance to
 become a Chunin!","何で!?
  
@@ -107,7 +107,7 @@ become a Chunin!","何で!?
 ","why!?
  
 Become neat
-Even though it was a chance!",0.4
+Even though it was a chance!",0.4,0.42197278
 Even I'm not sure about it.,"(ｱｽﾏ)
 俺も
  
@@ -117,7 +117,7 @@ Even I'm not sure about it.,"(ｱｽﾏ)
 ","me too
  
 I do not understand well
-.",0.23076923076923078
+.",0.2307692307692308,0.23524395
 "<i>But his intelligence and strategies</i>
 <i>are no longer at the Genin level.</i>","(
 紅
@@ -130,7 +130,7 @@ I do not understand well
 ","""but
  
 The intelligence and strategy of that child
-It is not the Shimoba level already """,0.14814814814814814
+It is not the Shimoba level already """,0.14814814814814814,0.5006392
 "<i>If it had been an actual mission</i>
 <i>for a basic platoon,</i>","(
 紅
@@ -147,7 +147,7 @@ It is not the Shimoba level already """,0.14814814814814814
 Basic platoon
 Team
 Move with
-If it is the actual task",0.21739130434782608
+If it is the actual task",0.21739130434782608,0.6093337
 "<i>the win was decided when</i>
 <i>he captured Temari...</i>","テマリを捕獲した時点で
 この勝利は確定したも同然
@@ -157,14 +157,14 @@ If it is the actual task",0.21739130434782608
 ","When you capture Temari
 This victory was determined as well
 .
-➡",0.13636363636363635
+➡",0.13636363636363635,0.84029967
 "<i>It's unfortunate he shows no</i>
 <i>signs of being motivated,</i>","(ｱｽﾏ)
 《やる気が見えないのは
 残念だが➡
 
 ","""I can't see it
-Unfortunately, but",0.14285714285714285
+Unfortunately, but",0.14285714285714285,0.14066784
 "<i>That could be attributed to</i>
 <i>calm judgment.</i>","それは
  
@@ -178,20 +178,20 @@ Unfortunately, but",0.14285714285714285
 Calm
 It can be said by judgment
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.73043793
 "In order to evaluate someone
 as a leader of a platoon...","(ｲｽﾞﾓ)
 小隊のリーダーとして
 評価するなら➡
 
 ","As a platoon leader
-If evaluated,",0.2857142857142857
+If evaluated,",0.2857142857142857,0.92082584
 "it's much more important to
 protect the platoon from danger,","任務を遂げる以上に
 小隊を危機から守り抜くほうが➡
 
 ","More than the mission
-If you protect the platoon from the crisis ➡",0.2777777777777778
+If you protect the platoon from the crisis ➡",0.2777777777777778,0.6511413
 "Yeah... it'd hardly be worth mentioning
 a completed mission","(ｺﾃﾂ)
 ああ
@@ -204,7 +204,7 @@ a completed mission","(ｺﾃﾂ)
  
 Mission
  
-I did it ➡",0.13333333333333333
+I did it ➡",0.13333333333333333,0.41303068
 if everyone was annihilated.,"全滅しましたじゃ
  
 話にならねえ
@@ -213,13 +213,13 @@ if everyone was annihilated.,"全滅しましたじゃ
 ","It was annihilated
  
 Not talked
-.",0.375
+.",0.375,0.45604068
 "surviving should be thought of first,
 and then action should be taken.","生き残ることを第一に考え
 動けなきゃ➡
 
 ","First thinking about surviving
-I have to move",0.1111111111111111
+I have to move",0.1111111111111111,0.5329958
 "Hyuga and Naruto from earlier
 fail on that point.","この点じゃ
 さっきの日向やナルトはダメだな
@@ -227,7 +227,7 @@ fail on that point.","この点じゃ
 
 ","In this point
 The sun and Naruto are no good
-.",0.23529411764705882
+.",0.2352941176470588,0.60215575
 "Well, I do feel like Shikamaru
 gave up too soon too.","まぁ
  
@@ -239,10 +239,10 @@ gave up too soon too.","まぁ
  
 Shikamaru
 I feel that I'm too early
-.",0.3125
+.",0.3125,0.6169163
 What do you think?,"どう思う？
 
-",What do you think?,1.0
+",What do you think?,1.0,1.0
 "He has more of a chance
 than Naruto, for sure!","ナルトよりは
  
@@ -252,13 +252,13 @@ than Naruto, for sure!","ナルトよりは
 ","From Naruto
  
 Probability
-.",0.06666666666666667
+.",0.06666666666666668,0.67251056
 Shoot...!,"(ﾅﾙﾄ)
 く～っ…
 ｡
 
 ","Ku ~ ...
-.",0.16666666666666666
+.",0.16666666666666666,0.29585359
 Why the heck did he give up!,"何で
  
 あいつ
@@ -271,12 +271,12 @@ Why the heck did he give up!,"何で
 that person
  
 Give up
-I will do it!",0.2857142857142857
+I will do it!",0.2857142857142857,0.46811992
 You idiot!,"俺がビシッと
 説教してやるってばよ！
 
 ","I am busy
-You're going to preach!",0.2
+You're going to preach!",0.2,0.27161318
 "Shut up, super idiot!","(ｼｶﾏﾙ)
 うるせぇ
  
@@ -286,11 +286,11 @@ You're going to preach!",0.2
 ","shut up
  
 Super idiot
-.",0.5714285714285714
+.",0.5714285714285714,0.86973584
 "It's not all right! It was a match
 you were close to winning!","バッカじゃねえの！
 
-",It's a backaka!,0.26666666666666666
+",It's a backaka!,0.26666666666666666,0.20700616
 "- Let's just watch the next match.
 - But you just gave up! Unimaginable!","それより
  
@@ -302,20 +302,20 @@ you were close to winning!","バッカじゃねえの！
  
 Next game
 Let's watch slowly
-.",0.2777777777777778
+.",0.2777777777777778,0.3743936
 Simply unimaginable!,"このバカ！
 
-",This stupid!,0.2
+",This stupid!,0.2,0.3111958
 Huh? The next match?,"あ？
  
 次って？
 
 ","Ah?
  
-Next?",0.3333333333333333
+Next?",0.3333333333333333,0.5360455
 Sasuke...!,"サスケ！
 
-",Sasuke!,0.6666666666666666
+",Sasuke!,0.6666666666666666,0.9149383
 "At last, Uchiha's match is next.","(
 観客１
 )
@@ -329,7 +329,7 @@ Sasuke...!,"サスケ！
 next
  
 It is a game of
-.",0.21428571428571427
+.",0.21428571428571427,0.34737077
 Do you know?,"(
 観客３
 )
@@ -347,7 +347,7 @@ My house
 This game
  
 It seems to abstain
-.",0.3076923076923077
+.",0.3076923076923077,0.28618434
 "Yeah, he apparently sustained a serious
 injury while training before the match...","何でも
 試合前の修業で大ケガしたらしい
@@ -355,7 +355,7 @@ injury while training before the match...","何でも
 
 ","anything
 It seems that it was a big hit in the training before the game
-.",0.16666666666666666
+.",0.16666666666666666,0.5834587
 Are you serious?,"(
 観客２
 )
@@ -367,20 +367,20 @@ Are you serious?,"(
 ","Ah
  
 But the opponent's opponent
-What are you doing?",0.2727272727272727
+What are you doing?",0.2727272727272727,0.082653575
 "And to think I took time off
 specifically to see this match!","マジかよ！
 この試合が見たいがために➡
 
 ","Are you serious!
-I want to see this game",0.29411764705882354
+I want to see this game",0.29411764705882354,0.32358015
 "I'm counting on you, come on!","頼むぞ
  
 おい！
 
 ","I'll ask you
  
-Oi!",0.2727272727272727
+Oi!",0.2727272727272727,0.221019
 "As you'd expect, this match
 will be won by Uchiha.","(
 大名１
@@ -395,7 +395,7 @@ will be won by Uchiha.","(
  
 This match is
 My house is decided
-.",0.16666666666666666
+.",0.16666666666666666,0.525008
 "No way, I've got high hope
 for the new one of the Sand.","(
 大名２
@@ -406,7 +406,7 @@ for the new one of the Sand.","(
 
 ","Unwillingly
 I hope for the sand newcomer
-.",0.35294117647058826
+.",0.35294117647058826,0.66176045
 "As they say about the world
 of competition...","(
 大名１
@@ -419,7 +419,7 @@ of competition...","(
 ","Hahahaha ...!
 Unwillingly
  
-The world of game is ➡",0.26666666666666666
+The world of game is ➡",0.26666666666666666,0.42993602
 "It's impossible to predict
 what will occur...","常に何が起こるか
 予測不可能というもの
@@ -427,18 +427,18 @@ what will occur...","常に何が起こるか
 
 ","What happens?
 It is not possible to predict
-.",0.26666666666666666
+.",0.26666666666666666,0.8657855
 "Lord Hokage, about Uchiha Sasuke,","(ﾗｲﾄﾞｳ)
 火影様
 うちはサスケなんですが➡
 
 ","Pounding
-My house is Sasuke, but",0.18181818181818182
+My house is Sasuke, but",0.18181818181818185,0.54202646
 he has not yet arrived at the arena.,"まだ会場に到着しておりません
 ｡
 
 ","We have not arrived at the venue yet
-.",0.5
+.",0.5,0.5854423
 Umm... it's unavoidable...,"(
 猿飛
 )
@@ -452,7 +452,7 @@ Umm... it's unavoidable...,"(
  
 Do you want to do it
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.25306582
 "We can't make the guests
 wait any longer.","これ以上
 客人を待たすわけにも…
@@ -460,7 +460,7 @@ wait any longer.","これ以上
 
 ","more than this
 I also wait for the guests ...
-.",0.23529411764705882
+.",0.2352941176470588,0.63750905
 Another ten minutes.,"(
 風影
 )
@@ -478,7 +478,7 @@ Ten
 Minute
 .
 
-Yeah?",0.375
+Yeah?",0.375,0.71007663
 "Why don't we wait just
 another ten minutes?","(
 風影
@@ -491,7 +491,7 @@ another ten minutes?","(
 ","another thing
 Ten
 Only
-Do you not wait?",0.35714285714285715
+Do you not wait?",0.35714285714285715,0.5786768
 "The guests are looking forward
 to the next match above all else.","(
 風影
@@ -508,7 +508,7 @@ to the next match above all else.","(
 More than anything
 I am looking forward to the next game
 .
-➡",0.3
+➡",0.3,0.32898584
 "Since it's come to this,
 waiting another ten minutes wouldn't hurt.","な～に
  
@@ -528,7 +528,7 @@ Ten
 Minute
  
 Wait, etc.
-.",0.2727272727272727
+.",0.2727272727272727,0.68236065
 Umm...,"(ﾗｲﾄﾞｳ)
 火影様
 ｡
@@ -542,7 +542,7 @@ Umm...,"(ﾗｲﾄﾞｳ)
 .
 
 Murder ...
-.",0.2
+.",0.2,0.09260575
 "Uchiha, where are you!","(
 観客１
 )
@@ -552,7 +552,7 @@ Murder ...
 
 ","we are!
  
-What happened!",0.2222222222222222
+What happened!",0.2222222222222222,0.2644818
 "What's keeping you?
 Hurry up!","(
 観客２
@@ -563,20 +563,20 @@ Hurry up!","(
 
 ","Still!
  
-hurry up!",0.3333333333333333
+hurry up!",0.3333333333333333,0.54690653
 "There is some truth to what
 Kazekage says.","風影殿の言うのも一理ありますな
 ｡
 
 ","It is also unusual to say the wind-head hall
-.",0.1875
+.",0.1875,0.1580209
 "<i>If it stays like this, Uchiha will really</i>
 <i>be forced to withdraw.</i>","(ｹﾞﾝﾏ)
 《このまま行くと
 うちはは本当に棄権だな》
 
 ","""If you go
-My house is really abstained """,0.08333333333333333
+My house is really abstained """,0.08333333333333333,0.27203065
 <i>I see...a ten minute extension...</i>,"では
  
 これより
@@ -587,12 +587,12 @@ My house is really abstained """,0.08333333333333333
  
 Than this
 Ten
-In terms of extension of the minute",0.1875
+In terms of extension of the minute",0.1875,0.6487955
 Y-You are...,"ん～…
 ｡
 
 ","...
-.",0.25
+.",0.25,0.35302514
 "But, what's that idiot doing
 He's still not here?!","しっかし
  
@@ -602,7 +602,7 @@ He's still not here?!","しっかし
 ","Hidden
  
 What are you doing
-That stupid!",0.23529411764705882
+That stupid!",0.2352941176470588,0.2740787
 Good of the two of you to make it!,"さぁ
  
 早く会場のほうへ
@@ -611,13 +611,13 @@ Good of the two of you to make it!,"さぁ
 ","In
  
 To the venue early
-.",0.15384615384615385
+.",0.15384615384615385,0.076315254
 Yeah!,"(
 リー
 )
 オッス！
 
-",Oss!,0.3333333333333333
+",Oss!,0.3333333333333333,0.30367696
 All right! Here we go!,"(
 ガイ
 )
@@ -641,7 +641,7 @@ let's go
  
 Lee!
 
-Oss!",0.16666666666666666
+Oss!",0.16666666666666666,0.2860959
 "Most of the first round is finished,","(
 門番２
 )
@@ -649,7 +649,7 @@ Oss!",0.16666666666666666
 ほとんど消化していて➡
 
 ","The first round
-Almost digested ➡",0.2727272727272727
+Almost digested ➡",0.2727272727272727,0.55572665
 "and the only one left is
 Sasuke Uchiha and Gaara.","残るは
  
@@ -661,12 +661,12 @@ Sasuke Uchiha and Gaara.","残るは
  
 My house is Sasuke
 I'm only Gora
-.",0.25
+.",0.25,0.55560094
 That Hyuga lost...,"あの日向が負けたんですよ
 ｡
 
 ","That sun is lost
-.",0.2857142857142857
+.",0.2857142857142857,0.4094474
 <i>Naruto beat Neji...</i>,"(
 リー
 )
@@ -676,7 +676,7 @@ That Hyuga lost...,"あの日向が負けたんですよ
 
 ","""Screw
  
-Naruto ... """,0.2
+Naruto ... """,0.2,0.62491053
 <i>You did it!</i>,"(
 リー
 )
@@ -686,7 +686,7 @@ Naruto ... """,0.2
 
 ","""You did it, did not you
  
-Naruto!""",0.3076923076923077
+Naruto!""",0.3076923076923077,0.3774972
 "<i>You're such a...</i>
 <i>good guy really...</i>","(
 ガイ
@@ -697,7 +697,7 @@ Naruto!""",0.3076923076923077
 
 ","""You are a guy
  
-not at all…""",0.16666666666666666
+not at all…""",0.16666666666666666,0.27919835
 Isn't Uchiha up yet?!,"(
 リー
 )
@@ -705,7 +705,7 @@ Isn't Uchiha up yet?!,"(
 ｡
 
 ","Is that so
-.",0.1
+.",0.1,0.13190016
 We want Uchiha! Uchiha!,"うちはを出せ！
 うちは！
  
@@ -714,7 +714,7 @@ We want Uchiha! Uchiha!,"うちはを出せ！
 ","Get out of the house!
 we are!
  
-we are!",0.2
+we are!",0.2,0.2983611
 Uchiha!,"(
 観客
 )
@@ -724,14 +724,14 @@ Uchiha!,"(
 
 ","My house
  
-Still!➡",0.16666666666666666
+Still!➡",0.16666666666666666,0.28778544
 Is he really gonna come?!,"あいつ
  
 ホントに来んのかよ？
 
 ","that person
  
-Are you really coming?",0.15384615384615385
+Are you really coming?",0.15384615384615385,0.52996284
 He'll come...,"(
 我愛羅
 )
@@ -745,10 +745,10 @@ He'll come...,"(
 .
 
 Ah
-.",0.16666666666666666
+.",0.16666666666666666,0.31855142
 What the heck is Uchiha doing?!,"何やってんだってばよ！
 
-",What should I do!,0.18181818181818182
+",What should I do!,0.18181818181818185,0.11126648
 "It seems the rumor that
 he'd had a serious injury was true.","本当だったようですな
 ｡
@@ -756,7 +756,7 @@ he'd had a serious injury was true.","本当だったようですな
 
 ","It seems to have been true
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.30432874
 "If there's a win by default,
 then this match is mine.","不戦勝となれば
 この試合は頂きですな
@@ -766,21 +766,21 @@ then this match is mine.","不戦勝となれば
 ","If it becomes unfriendly
 This game is received
 .
-➡",0.2
+➡",0.2,0.20161797
 Sasuke!,"サスケ！
  
 早く来いってばよ！
 
 ","Sasuke!
  
-If you come early!",0.3333333333333333
+If you come early!",0.3333333333333333,0.8031036
 It won't be good if it stays this way!,"このままじゃ
  
 マズいってばよ！
 
 ","Let's leave this
  
-If you don't go!",0.25
+If you don't go!",0.25,0.31570396
 <i>The time limit is up.</i>,"(ｹﾞﾝﾏ)
 《制限時間いっぱい
 ｡
@@ -788,7 +788,7 @@ If you don't go!",0.25
 
 ","""Limit time full
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.5166457
 "Because the time limit has expired,
 the last match...","制限時間いっぱいと
 なりましたので…
@@ -796,31 +796,31 @@ the last match...","制限時間いっぱいと
 
 ","Limit time full
 Because it became ...
-.",0.2857142857142857
+.",0.2857142857142857,0.4518926
 Sasu...,"《あぁ
  
 サス…！》
 
 ","""Ahh
  
-SAS ...!""",0.14285714285714285
+SAS ...!""",0.14285714285714285,0.5850006
 Your name?,"(ｹﾞﾝﾏ)
 名は？
 
-",name is?,0.5
+",name is?,0.5,0.6231367
 Sasuke... Uchiha.,"うちはサスケ
 ｡
 
 ","My house is Sasuke
-.",0.2857142857142857
+.",0.2857142857142857,0.7054461
 It looks like he made it in time.,"間に合ったようですね
 ｡
 
 ","It seems that it was in time
-.",0.36363636363636365
+.",0.3636363636363637,0.664935
 Lee!,"サスケ君！
 
-",Sasuke-kun!,0.3333333333333333
+",Sasuke-kun!,0.3333333333333333,0.43847942
 "I thought you weren't coming
 'cause you were scared to take me on!","俺とやんのをビビって
 もう来ねえと思ってたのによ
@@ -828,23 +828,23 @@ Lee!,"サスケ君！
 
 ","Bibi with me
 According to what I thought was already
-.",0.2
+.",0.2,0.12949273
 The first round... did you win?,"１回戦
  
 勝ったのか？
 
 ","First round
  
-Was it won?",0.2727272727272727
+Was it won?",0.2727272727272727,0.78812784
 Of course!,"もちろん！
 
-",of course!,1.0
+",of course!,1.0,1.0000002
 Don't get too carried away...,"偉そうに…》
 
-","Good luck ... """,0.1
+","Good luck ... """,0.1,0.2494314
 disqualified?,"失格になっちゃった？
 
-",Did you get disqualified?,0.4
+",Did you get disqualified?,0.4,0.71291596
 "So your habit of tardiness
 rubbed off on him? Cripes...","あなたの遅刻癖が
 うつったんでしょう
@@ -856,7 +856,7 @@ rubbed off on him? Cripes...","あなたの遅刻癖が
 I'm going to
  
 Geez
-.",0.10526315789473684
+.",0.10526315789473684,0.26929992
 And... what about it?,"(ｶｶｼ)
 で
  
@@ -864,43 +864,43 @@ And... what about it?,"(ｶｶｼ)
 
 ","and
  
-What about?",0.6666666666666666
+What about?",0.6666666666666666,0.72217923
 "It's all right, Sasuke's match
 has been postponed anyway.","サスケの試合は
 後回しにされてましたし➡
 
 ","Sasuke match
-It was done later",0.2
+It was done later",0.2,0.7724408
 "Your arrival was barely in time, but...","時間ギリギリの到着ですが➡
 
-","Arrival of the time girry, but",0.3333333333333333
+","Arrival of the time girry, but",0.3333333333333333,0.49787214
 he hasn't been disqualified.,"失格にはなってません
 ｡
 
 ","It is not disqualified
-.",0.2222222222222222
+.",0.2222222222222222,0.749094
 Don't lose to a guy like that!,"あんなヤツに負けんじゃねえぞ
 ｡
 
 ","You're not losing to such a guy
-.",0.2
+.",0.2,0.65628356
 <i>I want to fight you too...</i>,"＜俺は
  
 お前とも戦いたい＞
 
 ","<I
  
-I want to fight with you>",0.6363636363636364
+I want to fight with you>",0.6363636363636364,0.9094665
 "Yay, Sasuke!","キャ～！
  
 サスケく～ん！
 
 ","Cow!
  
-Sasuke!",0.4
+Sasuke!",0.4,0.77405894
 <i>I'm looking forward to it too.</i>,"俺だって楽しみだしな》
 
-",I'm looking forward to it,0.6
+",I'm looking forward to it,0.6,0.69200873
 What is?,"何が？
 だって
  
@@ -909,13 +909,13 @@ What is?,"何が？
 ","what?
 Because
  
-I made it naruto",0.25
+I made it naruto",0.25,0.08113035
 "Sasuke is an elite member
 of the Uchiha...","サスケ君だって
 うちはのエリート➡
 
 ","It is Sasuke
-My elite ➡",0.25
+My elite ➡",0.25,0.6952468
 "and it seems like everyone's
 anxious to see Sasuke's match.","みんな
 サスケ君の試合
@@ -925,7 +925,7 @@ anxious to see Sasuke's match.","みんな
 ","Everyone
 Sasuke's game
  
-I want to see it",0.3125
+I want to see it",0.3125,0.7193334
 "<i>Sasuke will face that Gaara</i>
 <i>of the Sand whom I couldn't beat...</i>","僕が
  
@@ -939,19 +939,19 @@ I want to see it",0.3125
 It was not good
 That sand of Japan
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.4024612
 "<i>And Naruto beat that Neji</i>
 <i>that I had hoped to take down.</i>","僕が倒したいと願い続けた
 あのネジを…》
 
 ","I continued to ask if I wanted to defeat
-That screw ... """,0.13636363636363635
+That screw ... """,0.13636363636363635,0.2643688
 <i>Lee...!</i>,"(
 ガイ
 )
 《リー…》
 
-","""Lee ...""",0.2222222222222222
+","""Lee ...""",0.2222222222222222,0.70300144
 Naruto! Let's go up!,"(ｼｶﾏﾙ)
 ナルト
  
@@ -961,7 +961,7 @@ Naruto! Let's go up!,"(ｼｶﾏﾙ)
 ","Naruto
  
 Giving up
-.",0.25
+.",0.25,0.68774295
 "When we go up,
 we'll leisurely take the stairs.","(ｼｶﾏﾙ)
 上がるときぐらい
@@ -970,7 +970,7 @@ we'll leisurely take the stairs.","(ｼｶﾏﾙ)
 
 ","When I go up
 Go on the stairs slowly
-.",0.42857142857142855
+.",0.42857142857142855,0.6183747
 "Are you still upset that
 I pushed you down?!","何だってばよ
  
@@ -980,7 +980,7 @@ I pushed you down?!","何だってばよ
 ","What is it
  
 Thrust
-Do you still bring it to the roots?",0.15789473684210525
+Do you still bring it to the roots?",0.15789473684210525,0.15025334
 H-Hey... Gaara.,"(
 我愛羅
 )
@@ -988,7 +988,7 @@ H-Hey... Gaara.,"(
 ｡
 
 ","Hofhufu ...
-.",0.4
+.",0.4,0.3456027
 Don't talk to Gaara right now!,"(ﾃﾏﾘ)
 今
  
@@ -998,13 +998,13 @@ Don't talk to Gaara right now!,"(ﾃﾏﾘ)
 ","now
  
 Don't talk to Gira
-.",0.5
+.",0.5,0.6890373
 You'll be killed.,"(ﾃﾏﾘ)
 殺されるぞ
 ｡
 
 ","It will be killed
-.",0.42857142857142855
+.",0.42857142857142855,0.63142735
 Let's go,"おい
  
 行くぞ
@@ -1013,21 +1013,21 @@ Let's go,"おい
 ","Oi
  
 let's go
-.",0.6
+.",0.6,0.6731566
 "Hey, hurry up!","おい
  
 急げってばよ！
 
 ","Oi
  
-If you get hurry!",0.2222222222222222
+If you get hurry!",0.2222222222222222,0.60314274
 What's wrong?,"(ｼｶﾏﾙ)
 どうした？
 
-",What happened?,0.4
+",What happened?,0.4,0.3835217
 Huh?,"ん？
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.7790127
 "Low level tournaments like this
 Chunin Examination are ideal","(
 忍１
@@ -1036,7 +1036,7 @@ Chunin Examination are ideal","(
 レベルの低いトーナメントは➡
 
 ","I want to see this
-Low level tournament",0.21428571428571427
+Low level tournament",0.21428571428571427,0.63294804
 as gambling matches.,"(
 忍
 )
@@ -1046,7 +1046,7 @@ as gambling matches.,"(
 
 ","Haze
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.06960589
 "A number of feudal lords
 are here for that purpose.","何人かの大名は
 それが目的で来ている
@@ -1054,7 +1054,7 @@ are here for that purpose.","何人かの大名は
 
 ","Some of the great names
 That is coming for the purpose
-.",0.29411764705882354
+.",0.29411764705882354,0.35077795
 So... would you lose this match for us.,"(
 忍２
 )
@@ -1066,10 +1066,10 @@ So... would you lose this match for us.,"(
 ","In
  
 This game
-Lose to lose?",0.14285714285714285
+Lose to lose?",0.14285714285714285,0.50678384
 H-Help!,"うわ～！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.27962056
 "If those two in front of us
 hadn't been there,","たぶん
  
@@ -1077,7 +1077,7 @@ hadn't been there,","たぶん
 
 ","maybe
  
-If there are no two people before",0.17647058823529413
+If there are no two people before",0.17647058823529413,0.4524406
 we probably would've been killed...,"俺たちが
  
 やられてたな
@@ -1086,7 +1086,7 @@ we probably would've been killed...,"俺たちが
 ","We are
  
 I was killed
-.",0.18181818181818182
+.",0.18181818181818185,0.4710266
 "This is the first I've seen anyone
 kill people without hesitation like that...","あんな
  
@@ -1102,7 +1102,7 @@ Echo
 Now who kills people
  
 The first time I saw
-.",0.17391304347826086
+.",0.17391304347826084,0.5737312
 "This isn't looking good
 even for Sasuke.","サスケでもヤバいぞ
  
@@ -1112,7 +1112,7 @@ even for Sasuke.","サスケでもヤバいぞ
 ","Sasuke is also good
  
 In case
-.",0.3333333333333333
+.",0.3333333333333333,0.74012816
 "<i>Everyone makes mistakes</i>
 <i>It's nothing to be ashamed about</i>","♬
  
@@ -1120,7 +1120,7 @@ In case
 
 ","♬
  
-Everyone fails",0.0625
+Everyone fails",0.0625,0.35459995
 "<i>So many regrets</i>
 <i>Don't let this scar be for naught</i>","♬
  
@@ -1128,7 +1128,7 @@ Everyone fails",0.0625
 
 ","♬
  
-Don't waste this scratch",0.16666666666666666
+Don't waste this scratch",0.16666666666666666,0.35812044
 "<i>Let's go carve the badges</i>
 <i>in our chest</i>","♬
  
@@ -1138,7 +1138,7 @@ Don't waste this scratch",0.16666666666666666
 ","♬
  
 In a large sky
-Flying in the face",0.10526315789473684
+Flying in the face",0.10526315789473684,0.16266719
 "<i>Yes, it's Show Time,</i>
 <i>life begins now.</i>","♬
  
@@ -1148,7 +1148,7 @@ Flying in the face",0.10526315789473684
 ","♬
  
 Waste this scratch
-Let's do it",0.10526315789473684
+Let's do it",0.10526315789473684,0.19152221
 "<i>Transform sadness into the wind</i>
 <i>and continue to forge on</i>","♬
  
@@ -1158,7 +1158,7 @@ Let's do it",0.10526315789473684
 ","♬
  
 Then the destination
-Near the wind blows",0.10526315789473684
+Near the wind blows",0.10526315789473684,0.42773604
 <i>Forge on strong</i>,"♬
  
 誰だって
@@ -1167,7 +1167,7 @@ Near the wind blows",0.10526315789473684
 ","♬
  
 Anyone
-I will fail",0.09090909090909091
+I will fail",0.09090909090909093,0.28891283
 "Darn it!
 What kind of guy is that?!","♬
  
@@ -1177,4 +1177,4 @@ What kind of guy is that?!","♬
 ","♬
  
 Embarrassing
-It is not",0.15384615384615385
+It is not",0.15384615384615385,0.06257875

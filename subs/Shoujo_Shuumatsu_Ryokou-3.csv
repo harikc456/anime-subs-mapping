@@ -1,233 +1,233 @@
-en_text,jp_text,google_translated,score
-What?,（ユーリ）何？,What?,1.0
+en_text,jp_text,google_translated,score,semantic_score
+What?,（ユーリ）何？,What?,1.0,1.0000001
 Why do people live?,"（チト）
-人は なぜ生きるんだろうね",People will live why,0.5
-Hiya!,うわあっ,Leward,0.0
-Why'd you hit me?,なんで殴ったの？,Why did you scold?,0.375
-I haven't!,頭がおかしくなったと思って,I think my head became funny,0.1111111111111111
+人は なぜ生きるんだろうね",People will live why,0.5,0.7143543
+Hiya!,うわあっ,Leward,0.0,0.1858057
+Why'd you hit me?,なんで殴ったの？,Why did you scold?,0.375,0.46848324
+I haven't!,頭がおかしくなったと思って,I think my head became funny,0.1111111111111111,0.13907163
 "We go around looking for food, right?","こうやって食料を探して
 さまよっているでしょ","Looking for food this way
-It is good",0.21428571428571427
-"We find it, save it, then go on the move again,",見つけて補給して また移動して,Find and replenish it again,0.23076923076923078
-always thinking there might be something\Nwaiting for us at our destination...,（チト）ハァ…,Hua ...,0.07692307692307693
-I'm also interested in learning\Nwhere that fish came from.,気になるし,I'm worried,0.16666666666666666
-Well? You find a bridge?,どう？ 橋 あった？,copper?Did you have a bridge?,0.4444444444444444
-"No bridge, huh.",（ユーリ）ん… ないねえ 橋,... no nor bridge,0.2857142857142857
+It is good",0.21428571428571427,0.62819105
+"We find it, save it, then go on the move again,",見つけて補給して また移動して,Find and replenish it again,0.2307692307692308,0.5356738
+always thinking there might be something\Nwaiting for us at our destination...,（チト）ハァ…,Hua ...,0.07692307692307693,0.13652596
+I'm also interested in learning\Nwhere that fish came from.,気になるし,I'm worried,0.16666666666666666,0.08400689
+Well? You find a bridge?,どう？ 橋 あった？,copper?Did you have a bridge?,0.4444444444444444,0.574995
+"No bridge, huh.",（ユーリ）ん… ないねえ 橋,... no nor bridge,0.2857142857142857,0.75229305
 Wish there was something\Nwe could do to help us cross.,"（チト）何とかして
 渡りたいんだけどなあ","Somehow
-I want to cross it",0.13333333333333333
-What's up?,どしたの？,what happened?,0.4
-What's that?,何それ？,What that?,0.75
-A cigarette.,（チト）タバコだ,Cigarette,0.3333333333333333
-It's still burning.,まだ火がついている,It is still on fire,0.25
-No.,いや…,Disagreeable…,0.0
-Someone's here.,あっ… 誰かいる！,Oh ... someone is!,0.125
-Chi.,うっ… ちーちゃん,Uh ... Chi-chan,0.0
-"Yuu, load your gun.",ユー 弾込めとけ,U-Bullet,0.0
-I think so.,（ユーリ）たぶん,Maybe  Maybe,0.0
-What the heck was that...,何なんだ？ あっ…,what's that? Ah…,0.2222222222222222
-Hey!,おいっ！,Hey!,1.0
-Are you okay?,（ユーリ）大丈夫？,okay?,0.5
+I want to cross it",0.13333333333333333,0.5959657
+What's up?,どしたの？,what happened?,0.4,0.4244573
+What's that?,何それ？,What that?,0.75,0.64622617
+A cigarette.,（チト）タバコだ,Cigarette,0.3333333333333333,0.8750027
+It's still burning.,まだ火がついている,It is still on fire,0.25,0.7839902
+No.,いや…,Disagreeable…,0.0,0.17617662
+Someone's here.,あっ… 誰かいる！,Oh ... someone is!,0.125,0.44628537
+Chi.,うっ… ちーちゃん,Uh ... Chi-chan,0.0,0.64861196
+"Yuu, load your gun.",ユー 弾込めとけ,U-Bullet,0.0,0.3387532
+I think so.,（ユーリ）たぶん,Maybe  Maybe,0.0,0.41414797
+What the heck was that...,何なんだ？ あっ…,what's that? Ah…,0.2222222222222222,0.42611107
+Hey!,おいっ！,Hey!,1.0,1.0000001
+Are you okay?,（ユーリ）大丈夫？,okay?,0.5,0.44979554
 "Sorry, it's been so long since I spoke,\NI can't speak well...","ごめん 久しぶりすぎて
 うまくしゃべれなくて…","I'm sorry for a long time
-I can't talk well ...",0.3333333333333333
-Are you the one who took down that building?,ビルを倒したのは あんたか？,Are you defeating the building?,0.45454545454545453
-Never figured there were people around.,いや まさか 人がいるとは,There is no people,0.2222222222222222
-I'm glad you didn't get caught up in the explosion.,巻き込まれなくてよかった,I'm glad I didn't get caught,0.5384615384615384
-I'm Kanazawa.,（カナザワ）僕はカナザワ,I am Kanazawa,0.4
-I'm making a map as I go on my way.,地図を作りながら旅をしてる,I'm traveling while making a map,0.38461538461538464
-Can I put it down?,下ろしていい？,May I lower?,0.25
-Yeah.,ん？,Yeah?,0.3333333333333333
-"Good idea, right?",いい案だろ？,Is it a good idea?,0.375
-We can cross on top of this.,これの上を登る,Climb this,0.1111111111111111
-Yeah...,（ユーリ）こっちも ん…,Kokichi ...,0.3333333333333333
-Is that your vehicle?,（カナザワ）行き先は？,What is the destination?,0.25
+I can't talk well ...",0.3333333333333333,0.6169721
+Are you the one who took down that building?,ビルを倒したのは あんたか？,Are you defeating the building?,0.4545454545454545,0.7107447
+Never figured there were people around.,いや まさか 人がいるとは,There is no people,0.2222222222222222,0.5159317
+I'm glad you didn't get caught up in the explosion.,巻き込まれなくてよかった,I'm glad I didn't get caught,0.5384615384615384,0.59660584
+I'm Kanazawa.,（カナザワ）僕はカナザワ,I am Kanazawa,0.4,0.95900273
+I'm making a map as I go on my way.,地図を作りながら旅をしてる,I'm traveling while making a map,0.38461538461538464,0.81713593
+Can I put it down?,下ろしていい？,May I lower?,0.25,0.46394715
+Yeah.,ん？,Yeah?,0.3333333333333333,0.806589
+"Good idea, right?",いい案だろ？,Is it a good idea?,0.375,0.54143006
+We can cross on top of this.,これの上を登る,Climb this,0.1111111111111111,0.43792832
+Yeah...,（ユーリ）こっちも ん…,Kokichi ...,0.3333333333333333,0.1723468
+Is that your vehicle?,（カナザワ）行き先は？,What is the destination?,0.25,0.24005371
 Tower?,"（カナザワ）塔？
 （チト･ユーリ）あ…","Tower?
- A ...",0.5
+ A ...",0.5,0.8601499
 Thought it might be a way to get to a higher level.,"（チト）
-上層の入り口じゃないかなって",It is not a mouth of the upper layer,0.1111111111111111
-there's a little favor I'd like to ask of you...,少し頼みを聞いてほしいんだが…,I want you to ask for a little more ...,0.4375
-Favor?,（ユーリ）頼み？,request?,0.3333333333333333
-Don't mind letting you ride.,（チト）これを登るのは苦労するな,Do not struggle to climb this,0.08333333333333333
-"You made us a bridge, after all.",橋も作ってもらったし,I also made a bridge,0.2727272727272727
-Stop!,ストップ,stop,0.5
-What do you think?,どうかな？,How about?,0.14285714285714285
-Think I can get up...,（チト）何とか登れるけど…,I can clink somehow ...,0.375
-It's pretty hard...,かなりきつい…,It is quite tight ...,0.25
-"Did you have a vehicle, Kanazawa?",（チト）カナザワの車両は？,What is Kanazawa's vehicle?,0.2727272727272727
-"I had a motorbike, but...",バイクがあったんだけど…,There was a bike but ...,0.3
-That's why you want a ride with us.,（チト）それで乗せてほしいって…,I want you to put it with it ...,0.2
-Just to the entrance to the higher level.,上層の入り口まででいいんだ,It is good to the upper entrance,0.2727272727272727
-I'll find a way to manage from there.,そこから先は何とかするよ,I will do anything from there,0.23076923076923078
-You made it up.,おおっ 登り切ったね,"Oh, I climbed it",0.1111111111111111
-So tired...,（カナザワ）生きてる…,Living ...,0.25
-"Working up a sweat for the first time in a while\Nreally makes you feel alive, huh?",久しぶりに汗を流すと―,When sweating for the first time in a long time,0.3
+上層の入り口じゃないかなって",It is not a mouth of the upper layer,0.1111111111111111,0.16473956
+there's a little favor I'd like to ask of you...,少し頼みを聞いてほしいんだが…,I want you to ask for a little more ...,0.4375,0.56436074
+Favor?,（ユーリ）頼み？,request?,0.3333333333333333,0.32084993
+Don't mind letting you ride.,（チト）これを登るのは苦労するな,Do not struggle to climb this,0.08333333333333333,0.31917274
+"You made us a bridge, after all.",橋も作ってもらったし,I also made a bridge,0.2727272727272727,0.73806113
+Stop!,ストップ,stop,0.5,0.8235952
+What do you think?,どうかな？,How about?,0.14285714285714285,0.19539236
+Think I can get up...,（チト）何とか登れるけど…,I can clink somehow ...,0.375,0.3603107
+It's pretty hard...,かなりきつい…,It is quite tight ...,0.25,0.2924878
+"Did you have a vehicle, Kanazawa?",（チト）カナザワの車両は？,What is Kanazawa's vehicle?,0.2727272727272727,0.7409863
+"I had a motorbike, but...",バイクがあったんだけど…,There was a bike but ...,0.3,0.6558153
+That's why you want a ride with us.,（チト）それで乗せてほしいって…,I want you to put it with it ...,0.2,0.1995932
+Just to the entrance to the higher level.,上層の入り口まででいいんだ,It is good to the upper entrance,0.2727272727272727,0.60487646
+I'll find a way to manage from there.,そこから先は何とかするよ,I will do anything from there,0.2307692307692308,0.44997
+You made it up.,おおっ 登り切ったね,"Oh, I climbed it",0.1111111111111111,0.3392073
+So tired...,（カナザワ）生きてる…,Living ...,0.25,0.42685896
+"Working up a sweat for the first time in a while\Nreally makes you feel alive, huh?",久しぶりに汗を流すと―,When sweating for the first time in a long time,0.3,0.6101848
 I'm Chito. That's Yuuri.,"（チト）
-私がチトで そっちがユーリ",I am in Chito he is Yuri,0.16666666666666666
-I see. Nice to meet you.,（カナザワ）そうか よろしく,Thank you,0.125
-Same.,（ユーリ）よろしく,Regards,0.0
-It's really here.,（ユーリ）ホントにあったね～,was really hunt ~,0.125
+私がチトで そっちがユーリ",I am in Chito he is Yuri,0.16666666666666666,0.5242689
+I see. Nice to meet you.,（カナザワ）そうか よろしく,Thank you,0.125,0.24403065
+Same.,（ユーリ）よろしく,Regards,0.0,0.27590606
+It's really here.,（ユーリ）ホントにあったね～,was really hunt ~,0.125,0.18522102
 This is the last one around this area.,"（カナザワ）この辺じゃ
 最後の１か所のはずだよ","This area
-It should be the last one",0.45454545454545453
-It's a legit refueling station.,（チト）立派な給油設備だ,It is a good refueling equipment,0.3
-Let's see...,えっと…,Well ...,0.2
-No hose.,ホースは…,Hose ...,0.25
-A little more right.,（チト）もうちょっと右,a little more right,0.8
-Here?,この辺？,Around here?,0.6666666666666666
-Okay.,よし,Good,0.0
-"Oh, it's coming out!",おっ 出るな,I will not come out,0.09090909090909091
-We'll transfer it to the tank...,（ユーリ）本体に移して,Transfer to the main body,0.3
-"...fill it up once more, and head out.",（ユーリ）おっととと…,Oops and ...,0.16666666666666666
-Lift your legs.,（ユーリ）足上げて～,Legging ~,0.0
-"Oh, sorry.",あ ごめん,"Oh, sorry",0.75
+It should be the last one",0.4545454545454545,0.75385743
+It's a legit refueling station.,（チト）立派な給油設備だ,It is a good refueling equipment,0.3,0.7579389
+Let's see...,えっと…,Well ...,0.2,0.49519184
+No hose.,ホースは…,Hose ...,0.25,0.73501706
+A little more right.,（チト）もうちょっと右,a little more right,0.8,0.9367991
+Here?,この辺？,Around here?,0.6666666666666666,0.7067168
+Okay.,よし,Good,0.0,0.504564
+"Oh, it's coming out!",おっ 出るな,I will not come out,0.09090909090909093,0.45307633
+We'll transfer it to the tank...,（ユーリ）本体に移して,Transfer to the main body,0.3,0.39073554
+"...fill it up once more, and head out.",（ユーリ）おっととと…,Oops and ...,0.16666666666666666,0.14076051
+Lift your legs.,（ユーリ）足上げて～,Legging ~,0.0,0.39877707
+"Oh, sorry.",あ ごめん,"Oh, sorry",0.75,0.9254517
 But it was thanks to your map that we\Nfound a refueling station right away.,"（チト）
-でもカナザワの地図のおかげで―",But thanks to the map of Canazawa-,0.2222222222222222
+でもカナザワの地図のおかげで―",But thanks to the map of Canazawa-,0.2222222222222222,0.43917364
 There are a lot of residential buildings in this area.,"（ユーリ）この辺りは
 住宅型の建物が多いね","This area
-There are many house-type buildings",0.38461538461538464
-The area around a connection tower\Nto a higher level is always densely populated.,かつての人口密集地だからね,Because it is a former population dense area,0.16666666666666666
-Though nobody lives here now...,今じゃ誰もいないが…,There is no one now ...,0.2
+There are many house-type buildings",0.38461538461538464,0.8309218
+The area around a connection tower\Nto a higher level is always densely populated.,かつての人口密集地だからね,Because it is a former population dense area,0.16666666666666666,0.53667533
+Though nobody lives here now...,今じゃ誰もいないが…,There is no one now ...,0.2,0.5321675
 Then maybe the people who lived here built the tower.,"じゃあ ここに住んでた人たちが
 塔を作ったのかな？","Well, those who lived here
-Did you make a tower?",0.2222222222222222
-"No, I don't think so.",僕は思うけど,I think,0.25
-"Oh, left there.",（カナザワ）あっ そこを左,left there,0.4
-Got it.,なかなか近づかないねえ 塔,It does not approach it easily,0.14285714285714285
+Did you make a tower?",0.2222222222222222,0.7932899
+"No, I don't think so.",僕は思うけど,I think,0.25,0.41646606
+"Oh, left there.",（カナザワ）あっ そこを左,left there,0.4,0.74121934
+Got it.,なかなか近づかないねえ 塔,It does not approach it easily,0.14285714285714285,0.089806244
 This area's really complicated.,"（カナザワ）この辺りは
 入り組んでて複雑だからね","This area is
-Because it is complicated and complicated",0.3
+Because it is complicated and complicated",0.3,0.80040747
 "The refueling station was where I said it was, right?","給油設備の位置だって
 間違えなかっただろ？","It is the position of the refueling equipment
-Did not make a mistake?",0.2
+Did not make a mistake?",0.2,0.81884867
 How'd you make that map?,"その地図ってさ
 どうやって作ったの？","The map is
-how did you make it?",0.45454545454545453
-"I traveled all around on my bike,",だいぶ回り道が必要なんだ,I need a way to go around,0.15384615384615385
-then climbed up to high places\Nto check if it was right.,高い所に登って確認したりしてね,Climb and check for a high place,0.11764705882352941
+how did you make it?",0.4545454545454545,0.89817697
+"I traveled all around on my bike,",だいぶ回り道が必要なんだ,I need a way to go around,0.15384615384615385,0.29908302
+then climbed up to high places\Nto check if it was right.,高い所に登って確認したりしてね,Climb and check for a high place,0.1176470588235294,0.7163868
 "Yeah, back when there was a bridge over that gorge.","ああ あの溝に
 まだ橋が架かってたころにね","Oh, in that groove
-I still had a bridge",0.2222222222222222
-I've mapped out most of this level.,この階層は ほとんど地図にしたよ,This hierarchy was almost mapped,0.16666666666666666
-"Wow! Lemme see, lemme see!",（ユーリ）すげえ 見して見して！,I see and see!,0.25
-Be careful. She burns other people's books.,気をつけろよ,Be careful,0.2222222222222222
+I still had a bridge",0.2222222222222222,0.567794
+I've mapped out most of this level.,この階層は ほとんど地図にしたよ,This hierarchy was almost mapped,0.16666666666666666,0.5511098
+"Wow! Lemme see, lemme see!",（ユーリ）すげえ 見して見して！,I see and see!,0.25,0.51307327
+Be careful. She burns other people's books.,気をつけろよ,Be careful,0.2222222222222222,0.36446515
 I won't burn it.,"燃やしゃしないよ
 （カナザワ）ん？","I won't burn
-?",0.5714285714285714
-Is it really that important?,（ユーリ）そんなに大事なの？,Is it so important?,0.5714285714285714
-What you live for?,（カナザワ）生きがいだよ,Live,0.2
-"You don't run into other people that often\Nin this world, so there's not much else to do.",他にすべきこともない,There is nothing to do,0.13636363636363635
-"If I lost this, I'd probably die.",こいつをなくしたら僕は―,"If you get rid of this, I-",0.21428571428571427
-"Alright, let's burn it!",よし 燃やそう,Yealy burn,0.125
+?",0.5714285714285714,0.75204116
+Is it really that important?,（ユーリ）そんなに大事なの？,Is it so important?,0.5714285714285714,0.93772733
+What you live for?,（カナザワ）生きがいだよ,Live,0.2,0.5077204
+"You don't run into other people that often\Nin this world, so there's not much else to do.",他にすべきこともない,There is nothing to do,0.13636363636363635,0.3670888
+"If I lost this, I'd probably die.",こいつをなくしたら僕は―,"If you get rid of this, I-",0.21428571428571427,0.32235685
+"Alright, let's burn it!",よし 燃やそう,Yealy burn,0.125,0.47105128
 "P-please, don't! Wait, why?!","や やめてくれ！
 というか なぜ！？","Please stop!
-Why!?",0.3
+Why!?",0.3,0.49061322
 "You've got something important to you too, don't you?","君たちにもあるだろう？
 大切な物が","Is there anyone?
-It is important",0.13333333333333333
-"Something important, huh...",ハァ…,Hua ...,0.16666666666666666
+It is important",0.13333333333333333,0.49991554
+"Something important, huh...",ハァ…,Hua ...,0.16666666666666666,0.17279446
 "Yuu, you wouldn't give up your food\Neven if you were dead, huh?","ユーは自分の食料は
 死んでも離さないだろ","You are your food
-It will not be released even if you die",0.13043478260869565
-It isn't.,（チト）まあ 大事だな,It is important,0.4
-I said it's not.,でも死ぬほどじゃないけど,But it's not enough to die,0.3
-"Oh, turn right there.",（カナザワ）あっ そこを右に,"Oh, right there",0.6666666666666666
-We should be really close.,（カナザワ）もうすぐのはずだよ,It should be soon,0.25
+It will not be released even if you die",0.13043478260869565,0.7040598
+It isn't.,（チト）まあ 大事だな,It is important,0.4,0.23548622
+I said it's not.,でも死ぬほどじゃないけど,But it's not enough to die,0.3,0.2758452
+"Oh, turn right there.",（カナザワ）あっ そこを右に,"Oh, right there",0.6666666666666666,0.6059584
+We should be really close.,（カナザワ）もうすぐのはずだよ,It should be soon,0.25,0.42575407
 "Hey, if you go up there, are you gonna\Nmake a map of the higher levels?","ねえ これ登ったらさ
 上の階も また地図にするの？","Hey I climbed
-Do you want to map the upper floor again?",0.19230769230769232
-"The real elevator's supposed to be inside the tower,",（カナザワ）本来の昇降機は―,The original elevator is-,0.16666666666666666
+Do you want to map the upper floor again?",0.19230769230769232,0.6384664
+"The real elevator's supposed to be inside the tower,",（カナザワ）本来の昇降機は―,The original elevator is-,0.16666666666666666,0.6964165
 but nobody knew how to make it work.,"どうやって動かすのか
 誰にも分からなかったらしい","How to move
-It seems that I did not understand anyone",0.17647058823529413
+It seems that I did not understand anyone",0.17647058823529413,0.2964469
 "So instead, they made this thing.","代わりに こいつを
 作ったというわけさ","Instead of this
-I made it",0.2727272727272727
-That's old.,古いな,Old,0.25
-"It's alright, looks like it'll move.",大丈夫でしょう,It would be alright,0.18181818181818182
-"You're good, you're good.",オ～ライ オ～ライ,O-Leo-Rye,0.0
-"It's not gonna break down while we're on it, right?",昇る途中で壊れたりしないだろうな,It will not be broken on the way to rising,0.14285714285714285
-I don't know...,ウヒヒヒ…,Uhihi ...,0.16666666666666666
-You sure are optimistic.,楽観的なんだね,It is optimistic,0.14285714285714285
+I made it",0.2727272727272727,0.5792945
+That's old.,古いな,Old,0.25,0.5025605
+"It's alright, looks like it'll move.",大丈夫でしょう,It would be alright,0.18181818181818185,0.40008312
+"You're good, you're good.",オ～ライ オ～ライ,O-Leo-Rye,0.0,0.14555275
+"It's not gonna break down while we're on it, right?",昇る途中で壊れたりしないだろうな,It will not be broken on the way to rising,0.14285714285714285,0.48293412
+I don't know...,ウヒヒヒ…,Uhihi ...,0.16666666666666666,0.17868285
+You sure are optimistic.,楽観的なんだね,It is optimistic,0.14285714285714285,0.7393413
 "If we go to a higher level,\Nmaybe we'll find way more food,","でもさ 上に行ったら
 案外 食料もあって―","But if you go above
-There is also an outdoor food-",0.08695652173913043
+There is also an outdoor food-",0.08695652173913042,0.45798963
 and lots of people living happily up there...,"人もいっぱい楽しく暮らしてたり…
 するかもね","People are full and enjoyable ...
-Maybe",0.23076923076923078
-Wow!,（チト）うわ…,wow ...,0.3333333333333333
+Maybe",0.2307692307692308,0.36033583
+Wow!,（チト）うわ…,wow ...,0.3333333333333333,0.68272597
 It's true that there aren't many places left\Nwhere you can find food on this level.,"食料を調達できる場所が
 ほとんど残っていない","There is a place where food can be procured
-Little remains",0.11538461538461539
-Chi? What's wrong?,ちーちゃん どしたの？ うわっ,Chi-chan?Wow,0.14285714285714285
-Nothing.,何でもない…,Nothing…,0.0
-You don't have to force yourself to stand.,無理して立たなくても,Even if you do not stand,0.25
-"No, I'm fine.",いや 大丈夫,Okay,0.0
+Little remains",0.1153846153846154,0.6404737
+Chi? What's wrong?,ちーちゃん どしたの？ うわっ,Chi-chan?Wow,0.14285714285714285,0.58990246
+Nothing.,何でもない…,Nothing…,0.0,0.86237556
+You don't have to force yourself to stand.,無理して立たなくても,Even if you do not stand,0.25,0.70436114
+"No, I'm fine.",いや 大丈夫,Okay,0.0,0.3731936
 Are you bad with heights?,"（カナザワ）
-高い所が苦手なのかい？",Are you not good at high places?,0.2727272727272727
-Why isn't there a chain-link fence on here?!,（チト）なんで金網とかないんだ？,Why isn't a wire mesh?,0.38461538461538464
+高い所が苦手なのかい？",Are you not good at high places?,0.2727272727272727,0.5604518
+Why isn't there a chain-link fence on here?!,（チト）なんで金網とかないんだ？,Why isn't a wire mesh?,0.38461538461538464,0.38366354
 They probably thought it was a waste of materials.,"きっと資材の無駄だと
 判断したんだろう","Surely the waste of materials
-It will be judged",0.26666666666666666
-What if it tilts and we fall?,傾いて落ちたらどうするんだ！？,What do you do if you fall and fall!?,0.45454545454545453
-It's not gonna tilt all that easily.,そんな簡単に傾くわけないじゃん,I can not make it easy,0.14285714285714285
-It tilted!,（ユーリ･チト）ううっ！,Uh!,0.25
+It will be judged",0.26666666666666666,0.64014745
+What if it tilts and we fall?,傾いて落ちたらどうするんだ！？,What do you do if you fall and fall!?,0.4545454545454545,0.58170056
+It's not gonna tilt all that easily.,そんな簡単に傾くわけないじゃん,I can not make it easy,0.14285714285714285,0.3003269
+It tilted!,（ユーリ･チト）ううっ！,Uh!,0.25,0.2876318
 "Stop it, Kanazawa!","カナザワ 止めてっ！
 （カナザワ）あっ！","Stop kanazawa!
-!",0.6
-It stopped.,（チト）止まった…,stopped ...,0.25
+!",0.6,0.96331954
+It stopped.,（チト）止まった…,stopped ...,0.25,0.6717701
 It might've hit something on the rail.,"レールに何か
 引っ掛かったのかもしれない","Something on the rail
-Maybe it was caught",0.4166666666666667
-Are you hurt?,（カナザワ）ん？,?,0.25
-I'm fine.,大丈夫,Fine,0.25
+Maybe it was caught",0.4166666666666667,0.88363
+Are you hurt?,（カナザワ）ん？,?,0.25,0.21004942
+I'm fine.,大丈夫,Fine,0.25,0.6178586
 My map!,"地図がっ！！
 （チト）あ… あっ","Map!!
- ...",0.5
+ ...",0.5,0.77750695
 You idiot!,"（チト）バカッ！！
-（ユーリ）あっ",Baca!!,0.25
-"Let go of me. Let me fall, too.",僕も落ちるよ…,I will fall too ...,0.18181818181818182
-"Ready, up!",せ～の！ よっ！ よっ！,!Oh!Oh!,0.2
+（ユーリ）あっ",Baca!!,0.25,0.4512649
+"Let go of me. Let me fall, too.",僕も落ちるよ…,I will fall too ...,0.18181818181818185,0.53215724
+"Ready, up!",せ～の！ よっ！ よっ！,!Oh!Oh!,0.2,0.04341736
 Why wasn't there a chain-link fence...,"（カナザワ）
-なんで金網とかないんだ…",Why doesn't you get a wire mesh ...,0.3076923076923077
-We're all going to die anyway...,どうせ みんな死ぬんだ…,Everybody I will die ...,0.18181818181818182
-There's no point in living.,生きる意味もない…,There is no meaning to live ...,0.16666666666666666
+なんで金網とかないんだ…",Why doesn't you get a wire mesh ...,0.3076923076923077,0.38319996
+We're all going to die anyway...,どうせ みんな死ぬんだ…,Everybody I will die ...,0.18181818181818185,0.64183354
+There's no point in living.,生きる意味もない…,There is no meaning to live ...,0.16666666666666666,0.693211
 "In any case, we've gotta take a look at the rail.","（ユーリ）とにかくレールを
 見てみなきゃね","Anyway, rail
-I have to look at it",0.2
-I wasn't sure what we'd do if we couldn't get it to work.,どうしようかと思ったよ,I thought what to do,0.25
-"It's gotten pretty dark, huh.",（ユーリ）だいぶ暗くなったね～,It became dark and dark ~,0.18181818181818182
-He's still depressed.,まだ落ち込んでる,Still depressed,0.4
-"Hey, Kanazawa.",ねえ カナザワ～,Hey Kanazawa-,0.2
-The streetlights...,（ユーリ･チト）あっ あ…,there ...,0.25
+I have to look at it",0.2,0.8196251
+I wasn't sure what we'd do if we couldn't get it to work.,どうしようかと思ったよ,I thought what to do,0.25,0.23937958
+"It's gotten pretty dark, huh.",（ユーリ）だいぶ暗くなったね～,It became dark and dark ~,0.18181818181818185,0.6291189
+He's still depressed.,まだ落ち込んでる,Still depressed,0.4,0.7160667
+"Hey, Kanazawa.",ねえ カナザワ～,Hey Kanazawa-,0.2,0.9072505
+The streetlights...,（ユーリ･チト）あっ あ…,there ...,0.25,0.22942916
 I wonder what's at that really bright place.,"あの一番明るい場所
 何があるんだろう？","That's the bright place
-What is there?",0.35714285714285715
-Kanazawa.,（ユーリ）カナザワ,Kanazawa,0.5
-You can have this.,これあげる,L give this to you,0.25
-It's fruit flavored.,フルーツ味,Fruit flavor,0.16666666666666666
-Even in this world?,（カナザワ）こんな世界でも？,In this world?,0.8
-It's good!,たまにはいいことあるよ,I have a good thing,0.125
-Right?,でしょ？,right?,1.0
+What is there?",0.35714285714285715,0.78397244
+Kanazawa.,（ユーリ）カナザワ,Kanazawa,0.5,0.98110986
+You can have this.,これあげる,L give this to you,0.25,0.2656259
+It's fruit flavored.,フルーツ味,Fruit flavor,0.16666666666666666,0.85119474
+Even in this world?,（カナザワ）こんな世界でも？,In this world?,0.8,0.76624054
+It's good!,たまにはいいことあるよ,I have a good thing,0.125,0.34752792
+Right?,でしょ？,right?,1.0,1.0000001
 "Oh, right. As thanks for sharing food with me...","（カナザワ）そうだ 食料を
 分けてもらったお礼というか…","That's right food
-Thank you for your division ...",0.2222222222222222
-It's a photograph machine.,写真機だよ,It is a photographic machine,0.375
-"The machine they call a ""camera""?",（チト）カメラってやつ？,Camera?,0.2222222222222222
-Thank you.,（チト）ありがとう,Thank you,0.6666666666666666
-"Well, then...",じゃあ,Surely,0.0
-Where are you going?,どこへ行くの？,Where are you going?,1.0
+Thank you for your division ...",0.2222222222222222,0.58737046
+It's a photograph machine.,写真機だよ,It is a photographic machine,0.375,0.93249714
+"The machine they call a ""camera""?",（チト）カメラってやつ？,Camera?,0.2222222222222222,0.66558695
+Thank you.,（チト）ありがとう,Thank you,0.6666666666666666,0.7717476
+"Well, then...",じゃあ,Surely,0.0,0.21826135
+Where are you going?,どこへ行くの？,Where are you going?,1.0,0.9999999
 Thought I'd head north.,"（カナザワ）
-北に向かおうと思うんだ",I'm going to go to the north,0.18181818181818182
-I'm gonna make a map again.,また地図でも作るよ,I will also make a map again,0.45454545454545453
-I wonder if we'll meet him again.,（ユーリ）また会えたりしないかな,I wonder if I can see again,0.36363636363636365
-Who knows.,（チト）どうだろう,What is,0.0
+北に向かおうと思うんだ",I'm going to go to the north,0.18181818181818185,0.6172658
+I'm gonna make a map again.,また地図でも作るよ,I will also make a map again,0.4545454545454545,0.8539965
+I wonder if we'll meet him again.,（ユーリ）また会えたりしないかな,I wonder if I can see again,0.3636363636363637,0.5278594
+Who knows.,（チト）どうだろう,What is,0.0,0.1749435
 "Wasn't bad having three people, though.","（ユーリ）
-３人も悪くなかったけどね",Three people were not bad,0.2727272727272727
+３人も悪くなかったけどね",Three people were not bad,0.2727272727272727,0.8206993
 "For now, let's head towards that really bright place.","あの一番光ってる所を
 目指してみるか","That most bright place
-Do you want to aim",0.16666666666666666
-I wonder what's over there.,（ユーリ）何があるんだろうねえ,What's wrong,0.25
+Do you want to aim",0.16666666666666666,0.5595584
+I wonder what's over there.,（ユーリ）何があるんだろうねえ,What's wrong,0.25,0.30813676
 Wonder how far I can make it on foot.,"（カナザワ）
-歩きでどこまで行けるかな…",How far can I go in walk ...,0.2857142857142857
+歩きでどこまで行けるかな…",How far can I go in walk ...,0.2857142857142857,0.6659828

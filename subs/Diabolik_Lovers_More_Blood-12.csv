@@ -1,45 +1,45 @@
-en_text,jp_text,google_translated,score
-Damn!,{\blur2}くそ　なんだよ　さっきの狼は,}},0.0
-it's probably...,{\blur2}おそらく…,probably ...,0.5
-You know something?,{\blur2}何か知ってんのかよ,I know something,0.4
-The remaining survivors of the Founders.,{\blur2}始祖の生き残りだ,The survival of the foundor,0.25
-The Founders?,{\blur2}始祖？,Oppono?,0.25
-"Another target, huh? Could that possibly be...",{\blur2}それってもしかして…,But but ...,0.09090909090909091
-Pancake?,{\blur2}チチナシか,Chichinashi,0.0
-Most likely. She was the only one \Nnot here during the attack.,{\blur2}ここにいなかったのは彼女だけですから,Because it was not a girl who was not here,0.1111111111111111
-"Presumably, they're after her blood.",{\blur2}おそらく彼女の血でしょ,Perhaps her blood,0.2222222222222222
-I'm certain they're looking \Nfor her right this minute.,{\blur2}今も　彼女の行方を探しているに違いありません,Now you must be looking for her,0.11764705882352941
-The Founders exert maximum strength \Nduring the lunar eclipse.,{\blur2}始祖は月蝕の時　最大の力を発揮する,The foundor demonstrates the largest power of the month,0.06666666666666667
-It's reckless to face them.,{\blur2}戦うのは無茶だ,It's a stupid thing to fight,0.2727272727272727
-"Ruki-kun, are you feeling better?",{\blur2}んなこと知るか,Do you know ?,0.2222222222222222
-Yeah.,{\blur2}ああ,ah,0.0
-Good. I'm glad.,{\blur2}ユイを渡してたまるか,I'm passing Yui,0.2857142857142857
-Ayato-kun? How did you get those cuts?,{\blur2}チチナシ　お前もつくづく悪運が強えな,Chichinashi You can also get bad luck,0.15384615384615385
-Me?,{\blur2}私？,me?,1.0
-It seems they're after your blood.,{\blur2}そいつら　お前の血を狙ってるらしい,It seems that you are aiming for your blood,0.3076923076923077
-But why?,{\blur2}けど　どうして,But why,0.6666666666666666
-"If they are after your blood, \Nthey'll be here soon.",{\blur2}その狙いがお前の血なら　直にここへ来るだろう,The aim will come here directly if you are your blood,0.2631578947368421
-Once the time comes to \Nreach their full strength.,{\blur2}力が完全に満ちる時を迎えたらな,When the power is full of fully filled,0.125
-I don't want to cause any more \Ntrouble than I already have.,{\blur2}これ以上　皆に迷惑かけられない,I can not bother everyone more than this,0.16666666666666666
-I don't want all of you to get involved.,{\blur2}今お前を一人にしたら　始祖の連中に連れ去られるだけだ,"If you make one of you now, you just can get along",0.15789473684210525
-Don't be stupid! What \Ncan you do by yourself?!,{\blur2}んざけんな　お前一人で何ができるんだよ,Men What can you do with one person alone,0.17647058823529413
-But...,{\blur2}でも…,...,0.5
-What?,{\blur2}何だ,what,0.5
-Vampire powers decrease \Nduring the lunar eclipse.,{\blur2}月蝕中はヴァンパイアの力が落ちる,Vampire power falls during the moon erosion,0.15384615384615385
-You purebloods will especially be affected.,{\blur2}純血のお前たちは　特に影響を受けるだろ,Pure bloody is especially affected,0.2
-We need to work together.,{\blur2}仕方ねえ,How to help,0.125
-To protect Eve from the Founders.,{\blur2}イブを始祖から守るために,To protect  Eve from the founder,0.625
-Is that all right with you?,{\blur2}それでいいか,Is it okay?,0.2222222222222222
-I'm asking if you agree.,{\blur2}でもな　これだけは言っておく,I'm just saying,0.2222222222222222
-Yes.,{\blur2}はい,yes,0.5
-You're my one and only Eve.,{\blur2}お前は俺だけのイブだ,You are only my only,0.3333333333333333
-Feel only my fangs on your skin.,{\blur2}俺の牙だけを感じろ,Feel only my fang,0.3333333333333333
-"Freedom taken away, imprisoned... \NPerpetually suffering...",{\blur2}自由を奪われ　囚われ　苦しみ続ける,Liberty is robbed and caught and suffering,0.07692307692307693
-But that won't work.,{\blur2}だが　それではダメなんだ,but it is no good,0.1
-I believe we can become Adam only,{\blur2}俺たちは　アダムになれるんじゃないかと思う,We think that we can become Adam,0.4444444444444444
-when Eve has free will and free choice.,{\blur2}イブの自由な意志と選択があってこそ,If there is a free will and choice of Eve,0.38461538461538464
-I wanted to know what you'd want to do.,{\blur2}お前の意思を確認しておきたかった,I wanted to confirm your intention,0.23076923076923078
-So I can be chosen as Adam by Eve.,{\blur2}アダムとして　イブに選ばれるためにも,Even to be selected as Eve as Adam,0.3076923076923077
-"I'm not gonna give up either, masochistic kitten.",{\blur2}おれだって諦めないよ　エム猫ちゃん,I can not give up,0.3076923076923077
-You're our...,{\blur2}君は　俺たちの,You are our,0.4
-Pre-ordained destiny... To the future beyond.,{\blur2}その先にある未来へ,To the future ahead,0.3333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+Damn!,{\blur2}くそ　なんだよ　さっきの狼は,}},0.0,0.23655985
+it's probably...,{\blur2}おそらく…,probably ...,0.5,0.75216496
+You know something?,{\blur2}何か知ってんのかよ,I know something,0.4,0.7837126
+The remaining survivors of the Founders.,{\blur2}始祖の生き残りだ,The survival of the foundor,0.25,0.3634144
+The Founders?,{\blur2}始祖？,Oppono?,0.25,0.15581393
+"Another target, huh? Could that possibly be...",{\blur2}それってもしかして…,But but ...,0.09090909090909093,0.17178151
+Pancake?,{\blur2}チチナシか,Chichinashi,0.0,0.28874537
+Most likely. She was the only one \Nnot here during the attack.,{\blur2}ここにいなかったのは彼女だけですから,Because it was not a girl who was not here,0.1111111111111111,0.41166744
+"Presumably, they're after her blood.",{\blur2}おそらく彼女の血でしょ,Perhaps her blood,0.2222222222222222,0.66331714
+I'm certain they're looking \Nfor her right this minute.,{\blur2}今も　彼女の行方を探しているに違いありません,Now you must be looking for her,0.1176470588235294,0.5283021
+The Founders exert maximum strength \Nduring the lunar eclipse.,{\blur2}始祖は月蝕の時　最大の力を発揮する,The foundor demonstrates the largest power of the month,0.06666666666666668,0.35127634
+It's reckless to face them.,{\blur2}戦うのは無茶だ,It's a stupid thing to fight,0.2727272727272727,0.33528867
+"Ruki-kun, are you feeling better?",{\blur2}んなこと知るか,Do you know ?,0.2222222222222222,0.1142263
+Yeah.,{\blur2}ああ,ah,0.0,0.510036
+Good. I'm glad.,{\blur2}ユイを渡してたまるか,I'm passing Yui,0.2857142857142857,0.14632595
+Ayato-kun? How did you get those cuts?,{\blur2}チチナシ　お前もつくづく悪運が強えな,Chichinashi You can also get bad luck,0.15384615384615385,0.29661018
+Me?,{\blur2}私？,me?,1.0,1.0
+It seems they're after your blood.,{\blur2}そいつら　お前の血を狙ってるらしい,It seems that you are aiming for your blood,0.3076923076923077,0.616917
+But why?,{\blur2}けど　どうして,But why,0.6666666666666666,0.86628234
+"If they are after your blood, \Nthey'll be here soon.",{\blur2}その狙いがお前の血なら　直にここへ来るだろう,The aim will come here directly if you are your blood,0.2631578947368421,0.5590336
+Once the time comes to \Nreach their full strength.,{\blur2}力が完全に満ちる時を迎えたらな,When the power is full of fully filled,0.125,0.25072813
+I don't want to cause any more \Ntrouble than I already have.,{\blur2}これ以上　皆に迷惑かけられない,I can not bother everyone more than this,0.16666666666666666,0.25783405
+I don't want all of you to get involved.,{\blur2}今お前を一人にしたら　始祖の連中に連れ去られるだけだ,"If you make one of you now, you just can get along",0.15789473684210525,0.3829518
+Don't be stupid! What \Ncan you do by yourself?!,{\blur2}んざけんな　お前一人で何ができるんだよ,Men What can you do with one person alone,0.17647058823529413,0.41083568
+But...,{\blur2}でも…,...,0.5,0.6556245
+What?,{\blur2}何だ,what,0.5,0.70340073
+Vampire powers decrease \Nduring the lunar eclipse.,{\blur2}月蝕中はヴァンパイアの力が落ちる,Vampire power falls during the moon erosion,0.15384615384615385,0.78378993
+You purebloods will especially be affected.,{\blur2}純血のお前たちは　特に影響を受けるだろ,Pure bloody is especially affected,0.2,0.67847633
+We need to work together.,{\blur2}仕方ねえ,How to help,0.125,0.31179863
+To protect Eve from the Founders.,{\blur2}イブを始祖から守るために,To protect  Eve from the founder,0.625,0.9482775
+Is that all right with you?,{\blur2}それでいいか,Is it okay?,0.2222222222222222,0.42028546
+I'm asking if you agree.,{\blur2}でもな　これだけは言っておく,I'm just saying,0.2222222222222222,0.3919779
+Yes.,{\blur2}はい,yes,0.5,0.83685577
+You're my one and only Eve.,{\blur2}お前は俺だけのイブだ,You are only my only,0.3333333333333333,0.5211235
+Feel only my fangs on your skin.,{\blur2}俺の牙だけを感じろ,Feel only my fang,0.3333333333333333,0.58420014
+"Freedom taken away, imprisoned... \NPerpetually suffering...",{\blur2}自由を奪われ　囚われ　苦しみ続ける,Liberty is robbed and caught and suffering,0.07692307692307693,0.5953967
+But that won't work.,{\blur2}だが　それではダメなんだ,but it is no good,0.1,0.3402633
+I believe we can become Adam only,{\blur2}俺たちは　アダムになれるんじゃないかと思う,We think that we can become Adam,0.4444444444444444,0.92094445
+when Eve has free will and free choice.,{\blur2}イブの自由な意志と選択があってこそ,If there is a free will and choice of Eve,0.38461538461538464,0.86975765
+I wanted to know what you'd want to do.,{\blur2}お前の意思を確認しておきたかった,I wanted to confirm your intention,0.2307692307692308,0.43007684
+So I can be chosen as Adam by Eve.,{\blur2}アダムとして　イブに選ばれるためにも,Even to be selected as Eve as Adam,0.3076923076923077,0.720732
+"I'm not gonna give up either, masochistic kitten.",{\blur2}おれだって諦めないよ　エム猫ちゃん,I can not give up,0.3076923076923077,0.60480464
+You're our...,{\blur2}君は　俺たちの,You are our,0.4,0.7666707
+Pre-ordained destiny... To the future beyond.,{\blur2}その先にある未来へ,To the future ahead,0.3333333333333333,0.60374314

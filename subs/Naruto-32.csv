@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774586
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048281
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 I'll show you there are walls,"♬
  
 君じゃないなら
@@ -68,10 +68,10 @@ I'll show you there are walls,"♬
 ","♬
  
 If you are not
-There is no meaning",0.23076923076923078
+There is no meaning",0.2307692307692308,0.19792224
 Huh?!,"ん!?
 
-",Hmm!?,0.5
+",Hmm!?,0.5,0.58194107
 Your Jutsu is indeed fast.,"(
 ドス
 )
@@ -81,23 +81,23 @@ Your Jutsu is indeed fast.,"(
 
 ","Your technique is certainly fast
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.5492917
 "But our Jutsu exceeds that
 and is the speed of sound!","それを超える音速だ
 ｡
 
 ","It is the speed of velocity beyond that
-.",0.3125
+.",0.3125,0.37197953
 Lee!,"(ｻｸﾗ)
 リーさん！
 
-",Lee!,1.0
+",Lee!,1.0,0.99999917
 <i>My left ear...</i>,"(
 リー
 )
 《左耳が…》
 
-","""Left ears ...""",0.18181818181818182
+","""Left ears ...""",0.18181818181818185,0.6800605
 There's a little gimmick I have.,"(
 ドス
 )
@@ -109,14 +109,14 @@ There's a little gimmick I have.,"(
 ","It was a little
 There is a device
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.24456479
 It's sound.,"音だよ
 ｡
 ➡
 
 ","It is a sound
 .
-➡",0.42857142857142855
+➡",0.42857142857142855,0.6506085
 "Even though you evaded my fist,
 sound assaulted you.","拳は
  
@@ -128,7 +128,7 @@ sound assaulted you.","拳は
  
 Evenly
 The sound attacked you
-.",0.3076923076923077
+.",0.3076923076923077,0.7206389
 "Do you know what sound is
 all about in the first place?","(
 ドス
@@ -145,7 +145,7 @@ all about in the first place?","(
 in the first place
 What is it?
  
-Do you know?",0.7142857142857143
+Do you know?",0.7142857142857143,0.37469426
 Vibration?,"振動？
 (
 ドス
@@ -158,17 +158,17 @@ Vibration?,"振動？
 
 Repo
 .
-➡",0.4
+➡",0.4,0.8147493
 "Correct. In other words,
 hearing sounds means,","音が聞こえるということは
 つまり➡
 
 ","It is possible to hear the sound
-In other words,",0.25
+In other words,",0.25,0.76687235
 "that the eardrum is
 catching vibrating air.","空気が揺れているのを➡
 
-",The air is shaking,0.3333333333333333
+",The air is shaking,0.3333333333333333,0.47628513
 "And the human eardrum breaks
 with sounds over 150 Mhz.","150
 ホンを超える音で破れる
@@ -178,7 +178,7 @@ with sounds over 150 Mhz.","150
 ","150
 Burned with sound beyond Hong
 .
-➡",0.1875
+➡",0.1875,0.30262163
 "Also, by assaulting the semicircular canal
 which is located even deeper,","また
  
@@ -188,12 +188,12 @@ which is located even deeper,","また
 ","also
  
 It is deeper
-By impacting a three-half pipe ➡",0.2222222222222222
+By impacting a three-half pipe ➡",0.2222222222222222,0.59525454
 I can make you totally lose balance.,"全身のバランスを失う
 ｡
 
 ","Lose balance of the whole body
-.",0.25
+.",0.25,0.5876426
 "You won't be able to move your body
 freely for sometime.","君は当分
  
@@ -205,7 +205,7 @@ freely for sometime.","君は当分
  
 It is also possible to move the body satisfied
 I can not do it
-.",0.20833333333333334
+.",0.20833333333333331,0.6616077
 "Well, you were doing good
 up to a certain point,","(
 ザク
@@ -220,26 +220,26 @@ up to a certain point,","(
  
 On the way
  
-Good, but",0.125
+Good, but",0.125,0.14970341
 but I brought forth my Jutsu.,"俺の術まで披露したんだ
 そううまくは行かねえよ
 ｡
 
 ","I showed off my work
 So I can go well
-.",0.21428571428571427
+.",0.21428571428571427,0.32357612
 "I freely manipulate ultrasonic waves
 and air pressure,","俺は超音波と空気圧を
 自由に操り➡
 
 ","I have ultrasound and pneumatic pressure
-Manipulate freely",0.4166666666666667
+Manipulate freely",0.4166666666666667,0.6990639
 "and have the power to
 obliterate even boulders!","岩ですら破壊する力を持つ
 ｡
 
 ","It has the power to destroy if it is a rock
-.",0.17647058823529413
+.",0.17647058823529413,0.6067269
 I can send air into the ground,"(
 ザク
 )
@@ -247,7 +247,7 @@ I can send air into the ground,"(
 土をクッションに変えることも➡
 
 ","Put air on the ground
-Changing the soil into cushions",0.3333333333333333
+Changing the soil into cushions",0.3333333333333333,0.44995955
 "and change the dirt into
 a cushion as I please.","(
 ザク
@@ -262,7 +262,7 @@ a cushion as I please.","(
  
 古
 I'm sorry for the body
-.",0.17647058823529413
+.",0.17647058823529413,0.057412703
 "It's different from
 your silly Jutsu.","お前の
  
@@ -274,7 +274,7 @@ your silly Jutsu.","お前の
  
 What is a habitual skill
 It's different
-.",0.38461538461538464
+.",0.38461538461538464,0.40234837
 <i>Blast it!</i>,"(
 リー
 )
@@ -284,7 +284,7 @@ It's different
 
 ","<Table
 ·
-[Outside: 9A4D3B93F5ABFF78DA43BEB12CF7F1BE] Hana!>",0.2
+[Outside: 9A4D3B93F5ABFF78DA43BEB12CF7F1BE] Hana!>",0.2,0.28448817
 "<i>Lee, it is all right to use</i>
 <i>this Jutsu</i>","(
 ガイ
@@ -301,13 +301,13 @@ It's different
 This technique
 When it is good
  
-It is ➡",0.2777777777777778
+It is ➡",0.2777777777777778,0.5048673
 <i>Protect...someone precious?</i>,"＜大切な人を守るとき…＞
 
-",<When we protect important person ...>,0.3076923076923077
+",<When we protect important person ...>,0.3076923076923077,0.67927235
 You!,"次は君だ～！
 
-",Next is you!,0.5
+",Next is you!,0.5,0.47007105
 What?!,"(
 ドス
 )
@@ -319,17 +319,17 @@ What?!,"(
 ","what!?
  
 stupid!
-""Lee!?""",0.42857142857142855
+""Lee!?""",0.42857142857142855,0.26161066
 <i>Lee!</i>,"よくやったぞ
  
 リー＞
 
 ","I did well
  
-Lee>",0.375
+Lee>",0.375,0.6477636
 Hurricane!,"あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.28030205
 "It looks like my earlier attack
 is having an effect!","(
 ドス
@@ -346,21 +346,21 @@ is having an effect!","(
 Spray attack
 It looks like it works
 .
-➡",0.25
+➡",0.25,0.5018083
 I'm somewhat surprised...,"少々
   
 驚かされましたが➡
 
 ","a little
   
-I was surprised but",0.2222222222222222
+I was surprised but",0.2222222222222222,0.6178914
 It's a speaker of sorts!,"極限にまで増幅する
 いわばスピーカーなんだよ
 ｡
 
 ","Amplify to the limit
 I'm a speaker
-.",0.14285714285714285
+.",0.14285714285714285,0.43867534
 "And the assault sound isn't limited
 by the direction of my arm...","(
 ドス
@@ -369,7 +369,7 @@ by the direction of my arm...","(
 内部で発生した音を➡
 
 ","This arm is
-The sound generated internally",0.25
+The sound generated internally",0.25,0.534408
 "it always converges on
 the targeted prey by my Chakra!","狙った獲物に必ず集束される
 ｡
@@ -381,10 +381,10 @@ the targeted prey by my Chakra!","狙った獲物に必ず集束される
 ","Be sure to focus on the targeted prey
 .
 
-Oh!",0.29411764705882354
+Oh!",0.29411764705882354,0.45154062
 I won't let you!,"させないわ！
 
-",I can't let it go!,0.4444444444444444
+",I can't let it go!,0.4444444444444444,0.5951507
 "Oh, well.","(
 ドス
 )
@@ -400,7 +400,7 @@ I won't let you!,"させないわ！
 Surely
  
 Finished
-.",0.3333333333333333
+.",0.3333333333333333,0.27827364
 "Hey, let's get outta here!","(ﾁｮｳｼﾞ)
 ねぇ
  
@@ -416,14 +416,14 @@ Let's run away
 Girly
  
 I'm sorry
-.",0.2
+.",0.2,0.47450128
 "It looks like Sasuke and Naruto
 are only unconscious, but...","(ｼｶﾏﾙ)
 サスケとナルトは
 気絶してるだけみてぇだが➡
 
 ","Sasuke and Naruto
-I'm just fainting, but it's",0.35294117647058826
+I'm just fainting, but it's",0.35294117647058826,0.7649455
 What do you mean?,"(
 いの
 )
@@ -431,7 +431,7 @@ What do you mean?,"(
 ｡
 
 ","What do you do ...
-.",0.42857142857142855
+.",0.42857142857142855,0.25905293
 "You two were once close friends,
 weren't you?","(ｼｶﾏﾙ)
 お前ら
@@ -444,26 +444,26 @@ weren't you?","(ｼｶﾏﾙ)
  
 long ago
  
-Was it a close friend?",0.1875
+Was it a close friend?",0.1875,0.7776953
 "<i>Ino, I hear you also...</i>","＜あのね
  
 いのちゃんもさ…＞
 
 ","<That's
  
-Each Chan also ...>",0.3076923076923077
+Each Chan also ...>",0.3076923076923077,0.23238868
 <i>...like Sasuke.</i>,"＜サスケ君のこと
 好きなんだってね＞
 
 ","<Sasuke's thing
-I like it>",0.36363636363636365
+I like it>",0.3636363636363637,0.84122247
 "<i>Then, that means from now on,</i>","＜じゃあ
  
 これからは私たち➡
 
 ","<Well then
  
-From now on we",0.38461538461538464
+From now on we",0.38461538461538464,0.6085236
 "<i>Why...why am I recalling things</i>
 <i>from that time?</i>","何で
  
@@ -473,7 +473,7 @@ From now on we",0.38461538461538464
 ","why
  
 That time
-I remember """,0.26666666666666666
+I remember """,0.26666666666666666,0.62288094
 "Hey, Ino!","(ｼｶﾏﾙ)
 おい
  
@@ -481,20 +481,20 @@ I remember """,0.26666666666666666
 
 ","Oi
  
-!➡",0.16666666666666666
+!➡",0.16666666666666666,0.4143507
 "I know, but there's nothing I can do!","分かってるけど
 どうしようもないじゃない
 ｡
 
 ","I know
 I can not help
-.",0.23076923076923078
+.",0.2307692307692308,0.5316091
 "I can't heedlessly
 go out there, can I?!","うかつには出ていけないでしょ
 ｡
 
 ","You can not go out to U
-.",0.1875
+.",0.1875,0.49636388
 <i>Even if I went out now...</i>,"(
 いの
 )
@@ -504,34 +504,34 @@ go out there, can I?!","うかつには出ていけないでしょ
 
 ","""now
  
-I came out ➡",0.23076923076923078
+I came out ➡",0.2307692307692308,0.45303228
 <i>I'd be taken down without a doubt.</i>,"ライバルだね＞
 
-",It is a rival>,0.14285714285714285
+",It is a rival>,0.14285714285714285,-0.020272044
 <i>I also...!</i>,"《私だって…
  
 私だって！》
 
 ","""I'm ...
  
-I am!""",0.2727272727272727
+I am!""",0.2727272727272727,0.32098055
 Your hair's shinier than mine.,"うっ
 ｡
 
 ","Pet
-.",0.125
+.",0.125,0.21476652
 "Hey! If you have time to worry
 about your hair,","髪に気を使う暇があったら
 修業しろ！➡
 
 ","If you have time to use your hair
-Study!➡",0.5333333333333333
+Study!➡",0.5333333333333333,0.711914
 you should practice!,"(
 ザク
 )
 ハッ！
 
-",Ha!,0.2
+",Ha!,0.2,0.2048271
 "Why don't you kill that Sasuke guy
 right in front of this sexy bug, Zaku?","ザク
  
@@ -539,26 +539,26 @@ right in front of this sexy bug, Zaku?","ザク
 
 ","Zaku
  
-In front of this colored paradise",0.25
+In front of this colored paradise",0.25,0.43203953
 Hey hey...,"(
 リー
 )
 《サクラさん…》
 
-","""Sakura ...""",0.2
+","""Sakura ...""",0.2,0.15456441
 <i>I won't let you do such a thing!</i>,"《そんなこと
  
 させないわ！》
 
 ","""That kind of thing
  
-I can't let it go!""",0.23809523809523808
+I can't let it go!""",0.2380952380952381,0.2821446
 Don't move!,"(
 キン
 )
 動くな！
 
-",Freeze!,0.2
+",Freeze!,0.2,0.41253358
 <i>Sakura.</i>,"(
 キン
 )
@@ -572,17 +572,17 @@ Don't move!,"(
 I'm not good
  
 this
-.",0.1
+.",0.1,0.16743055
 <i>My body... It has no strength.</i>,"《体に…
  
 力が入らない》
 
 ","""In the body ...
  
-I do not enter",0.17647058823529413
+I do not enter",0.17647058823529413,0.2899696
 <i>I...</i>,"《私…➡
 
-","""I ... ➡",0.2857142857142857
+","""I ... ➡",0.2857142857142857,0.47222406
 "<i>This time for sure...</i>
 <i>I had thought!</i>","今度こそはって思ってた
 ｡
@@ -590,11 +590,11 @@ I do not enter",0.17647058823529413
 
 ","I thought this time
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.5811303
 "<i>I must protect people precious to me...</i>
 <i>so I thought!</i>","私が守らなきゃって》
 
-","I have to protect """,0.1875
+","I have to protect """,0.1875,0.626406
 "Hey! Sasuke and Naruto are
 gonna get it, too!","おい
  
@@ -604,7 +604,7 @@ gonna get it, too!","おい
 ","Oi
  
 Sasuke and Naruto Naruto
-.",0.21428571428571427
+.",0.21428571428571427,0.74858403
 <i>W-What should I do?!</i>,"(
 いの
 )
@@ -614,7 +614,7 @@ Sasuke and Naruto Naruto
 
 ","""degree…
  
-What should I do?""",0.3076923076923077
+What should I do?""",0.3076923076923077,0.20689447
 That won't work on me!,"私に
  
 そんなものは効かない
@@ -623,22 +623,22 @@ That won't work on me!,"私に
 ","to me
  
 Such things do not work
-.",0.15384615384615385
+.",0.15384615384615385,0.49697718
 What are you saying?,"何を言ってるの？
 
-",What are you saying?,1.0
+",What are you saying?,1.0,1.0000005
 <i>I always...</i>,"《私は
  
 いつも➡
 
 ","""I
  
-Always ➡",0.25
+Always ➡",0.25,0.6382412
 <i>act as if I'm a full fledged Ninja.</i>,"むだよ
 ｡
 
 ","I'm sorry
-.",0.14285714285714285
+.",0.14285714285714285,0.15739062
 <i>I always say that I like Sasuke.</i>,"《サスケ君のこと
  
 いつも
@@ -647,18 +647,18 @@ Always ➡",0.25
 ","""Sasuke's thing
  
 everytime
-I say that I like ... """,0.26666666666666666
+I say that I like ... """,0.26666666666666666,0.80394065
 <i>I always just...watch them from behind.</i>,"いつも２人の後ろ姿を
 見てただけ》
 
 ","Always behind two people
-I just saw it """,0.17647058823529413
+I just saw it """,0.17647058823529413,0.44423687
 <i>Sasuke!</i>,"＜サスケ！＞
 
-",<Sasuke!>,0.6666666666666666
+",<Sasuke!>,0.6666666666666666,0.9455065
 <i>Here it is!</i>,"＜ここだ～！＞
 
-",<Here ~!>,0.4444444444444444
+",<Here ~!>,0.4444444444444444,0.7339298
 "<i>Lee, you say that you like me...</i>","《リーさん
  
 あなたは
@@ -667,7 +667,7 @@ I just saw it """,0.17647058823529413
 ","""Lee
  
 you
-I say I like me ... """,0.5384615384615384
+I say I like me ... """,0.5384615384615384,0.817858
 <i>I'll protect you until I die!</i>,"(
 リー
 )
@@ -677,7 +677,7 @@ I say I like me ... """,0.5384615384615384
 
 ","<Until you die
  
-Protect you>",0.6
+Protect you>",0.6,0.84012103
 <i>With me at your back...</i>,"《私を背に
 命懸けで戦ってくれた
 ｡
@@ -686,14 +686,14 @@ Protect you>",0.6
 ","""Back to me
 I fought with my life
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.47897875
 "<i>you risked your life and</i>
 <i>fought for me.</i>","私をかばって戦ってくれた》
 
-","I fought me for me """,0.21428571428571427
+","I fought me for me """,0.21428571428571427,0.6584301
 Sakura!,"《サクラさん》
 
-","""Sakura""",0.25
+","""Sakura""",0.25,0.8413607
 <i>I want to be like all of you!</i>,"《私も
  
 あなたたちみたいに
@@ -702,25 +702,25 @@ Sakura!,"《サクラさん》
 ","""me too
  
 Like you
-want to become""",0.23529411764705882
+want to become""",0.2352941176470588,0.50013626
 <i>This time...</i>,"《みんな
  
 今度は➡
 
 ","""Everyone
  
-This time",0.2222222222222222
+This time",0.2222222222222222,0.5454873
 <i>Sakura?</i>,"(
 いの
 )
 《サクラ？》
 
-","""Sakura?""",0.25
+","""Sakura?""",0.25,0.6649226
 Sakura...,"サクラさん…
 ｡
 
 ","Sakura ...
-.",0.6666666666666666
+.",0.6666666666666666,0.9969924
 Kin! Kill her!,"チッ…
  
 キン
@@ -731,7 +731,7 @@ Kin! Kill her!,"チッ…
  
 Kin
  
-Do it!",0.25
+Do it!",0.25,0.43823123
 <i>Huh! That sign...</i>,"(
 ザク
 )
@@ -741,7 +741,7 @@ Do it!",0.25
 
 ","""Hun
  
-That seal ...",0.16666666666666666
+That seal ...",0.16666666666666666,0.26770514
 "<i>On the right, huh?</i>
 <i>You think I'm a fool?</i>","(
 ザク
@@ -752,13 +752,13 @@ That seal ...",0.16666666666666666
 
 ","""To the right
  
-Is it a temple?➡",0.19047619047619047
+Is it a temple?➡",0.19047619047619047,0.44141722
 <i>With such a simple and basic Ninjutsu...</i>,"そんな基礎中の基礎忍術で➡
 
-",Underlying basic ninjutsu in such a basis,0.26666666666666666
+",Underlying basic ninjutsu in such a basis,0.26666666666666666,0.58899635
 <i>you think you can come at me?!</i>,"俺に向かってくるなんてよ》
 
-","I will come to me """,0.2
+","I will come to me """,0.2,0.6174121
 "Kin, get out of the way!","(
 ザク
 )
@@ -768,13 +768,13 @@ Is it a temple?➡",0.19047619047619047
 
 ","Kin
  
-Get away!",0.3333333333333333
+Get away!",0.3333333333333333,0.83290046
 Useless!,"(
 キン
 )
 変わり身の術！
 
-",Variable surgery!,0.25
+",Variable surgery!,0.25,0.23097558
 "<i>Air pressure 100 percent,</i>
 <i>ultrasonic waves 0%, output...</i>","(
 ザク
@@ -791,23 +791,23 @@ Useless!,"(
 %
 Ultrasonic wave 0%
  
-output""",0.3888888888888889
+output""",0.3888888888888889,0.8085392
 <i>You're above!</i>,"むだだ！
 
-",I'm sorry!,0.2
+",I'm sorry!,0.2,0.26904535
 "I've said it two or three times that
 that won't work!","２度も３度も通用しねえって
 言ってんだろうがよ！➡
 
 ","Just three times again
-It will be said!➡",0.2777777777777778
+It will be said!➡",0.2777777777777778,0.65450627
 This is enough... for you!,"てめぇは
  
 これで十分だ！
 
 ","Temee
  
-This is enough!",0.5
+This is enough!",0.5,0.50640064
 Where next?,"ヘッ
  
 次は
@@ -818,16 +818,16 @@ Where next?,"ヘッ
  
 next
  
-Where's?",0.6
+Where's?",0.6,0.5114934
 What.?!,"(
 ザク
 )
 《何だと!?➡
 
-","""What is it!?",0.2857142857142857
+","""What is it!?",0.2857142857142857,0.29622483
 <i>This time...it's not a substitution!</i>,"今度は変わり身じゃねえ！》
 
-","Now it's not a chance!""",0.3125
+","Now it's not a chance!""",0.3125,0.19382551
 Get off me! Hey!,"(
 ザク
 )
@@ -837,7 +837,7 @@ Get off me! Hey!,"(
 
 ","Let go
  
-Hey!➡",0.25
+Hey!➡",0.25,0.5619116
 <i>Sakura...</i>,"(
 殴る音
 )
@@ -846,7 +846,7 @@ Hey!➡",0.25
 )
 《サクラ…》
 
-","""Sakura ...""",0.25
+","""Sakura ...""",0.25,0.76844066
 <i>Who're you?</i>,"＜誰？＞
 (
 いの
@@ -859,7 +859,7 @@ Hey!➡",0.25
 
 <I am in the mountains
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.501651
 "<i>Huh? I can't hear you.</i>
 <i>Say it louder.</i>","(
 いの
@@ -874,20 +874,20 @@ Hey!➡",0.25
  
 I can not hear
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.6619749
 <i>Sakura Haruno!</i>,"＜春野サクラ！＞
 
-",<Haruno Sakura!>,0.7142857142857143
+",<Haruno Sakura!>,0.7142857142857143,0.96715516
 <i>Like a ghost...</i>,"幽霊みたいに＞
 ＜うぅ…＞
 
 ","Like a ghost>
-<Ugu ...>",0.6666666666666666
+<Ugu ...>",0.6666666666666666,0.7294584
 "<i>Sakura, was it?</i>","＜サクラだっけ？＞
 ＜うん…＞
 
 ","<Is it Sakura?>
-<Yup ...>",0.4166666666666667
+<Yup ...>",0.4166666666666667,0.8599811
 <i>Come back here tomorrow.</i>,"＜あんた
 あしたも
  
@@ -900,14 +900,14 @@ Too
  
 I'm here
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.47175804
 <i>I'll give you that ribbon.</i>,"そのリボン
  
 あげる＞
 
 ","That ribbon
  
-I'll give you>",0.6
+I'll give you>",0.6,0.9144596
 <i>But what?</i>,"＜でも…＞
 ＜でも
  
@@ -916,17 +916,17 @@ I'll give you>",0.6
 ","<But ...>
 <But
  
-what?>",0.625
+what?>",0.625,0.748371
 <i>More confident!</i>,"堂々としてればいいの
  
 堂々と！＞
 
 ","I wish I could
  
-Loudly!>",0.3
+Loudly!>",0.3,0.30898687
 <i>Ino...</i>,"＜おデコが…＞
 
-",<Deco ...>,0.42857142857142855
+",<Deco ...>,0.42857142857142855,0.45561355
 "<i>Hey, who's that?</i>
 <i>Who's she, Ino?</i>","(
 女の子
@@ -947,24 +947,24 @@ Who?
  
 That child
  
-Ni-Chan>",0.375
+Ni-Chan>",0.375,0.414841
 "<i>There's someone I like!</i>
 <i>Who do you think it is?</i>","誰だと思う？＞
 
-",Who do you think?>,0.375
+",Who do you think?>,0.375,0.45885548
 <i>Don't say it's Sasuke?</i>,"(
 女の子１
 )
 ＜サスケ君とか言わないでよ＞
 
-",<Don't say Sasuke-kun>,0.4166666666666667
+",<Don't say Sasuke-kun>,0.4166666666666667,0.8086816
 <i>What're you talking about?</i>,"＜えっ
  
 何で分かったの？＞
 
 ","<Eh
  
-What did you understand?>",0.38461538461538464
+What did you understand?>",0.38461538461538464,0.45929828
 <i>Huh? Is that so?</i>,"＜えっ
  
 そうなんだ
@@ -975,7 +975,7 @@ What did you understand?>",0.38461538461538464
  
 is that so
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.5925035
 "<i>Oh no! I'll have a lot of rivals.</i>
 <i>What should I do?!</i>","うわ～
  
@@ -985,10 +985,10 @@ is that so
 ","Wow
  
 Is there a lot of rivals?
-What to do>",0.3181818181818182
+What to do>",0.3181818181818182,0.8171061
 "<i>From now on, we're rivals.</i>","これからはライバルだね＞
 
-",It is rival from now on>,0.2857142857142857
+",It is rival from now on>,0.2857142857142857,0.66348946
 <i>Your hair. It's grown quite a bit.</i>,"＜いのちゃんも
  
 サスケ君のこと
@@ -1001,7 +1001,7 @@ What to do>",0.3181818181818182
 Sasuke's thing
 I like it
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.23026855
 "<i>Why are you on the</i>
 <i>same team as Sasuke?!</i>","何で
  
@@ -1011,30 +1011,30 @@ I like it
 ","why
  
 Annot with Sasuke
-It's a team together!>",0.23809523809523808
+It's a team together!>",0.2380952380952381,0.78005075
 "<i>I will not lose anymore... to you, Ino!</i>","＜いのには
  
 もう負けない＞
 
 ","<
  
-I will not lose anymore>",0.5
+I will not lose anymore>",0.5,0.8264879
 "<i>Me too! I won't lose to you, Sakura.</i>
 <i>No matter what!</i>","どんなことだって負けないわよ＞
 
-",No matter what kind of thing you do not lose>,0.2727272727272727
+",No matter what kind of thing you do not lose>,0.2727272727272727,0.39454052
 It's really bad...,"いいかげんにしろ
 ｡
 
 ","That's enough
-.",0.125
+.",0.125,0.059815537
 <i>I must...protect everyone!</i>,"《私が
  
 みんなを守んなきゃ！》
 
 ","""I
  
-I have to keep everyone!""",0.21428571428571427
+I have to keep everyone!""",0.21428571428571427,0.4873002
 You punk!,"(ｼｶﾏﾙ)
 おい
  
@@ -1042,10 +1042,10 @@ You punk!,"(ｼｶﾏﾙ)
 
 ","Oi
  
-!",0.25
+!",0.25,0.4490368
 Ino?,"《え？》
 
-","""Huh?""",0.2
+","""Huh?""",0.2,0.17465112
 "Sakura! I promised
 I wouldn't lose to you, didn't I?!","サクラ
  
@@ -1055,7 +1055,7 @@ I wouldn't lose to you, didn't I?!","サクラ
 ","Cherry blossoms
  
 I can not lose
-Did you promise?",0.29411764705882354
+Did you promise?",0.29411764705882354,0.47422728
 "<i>when you want to cry, and you want to run away</i>","♬
  
 君は
@@ -1066,21 +1066,21 @@ Did you promise?",0.29411764705882354
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.39087588
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.2864674
 What a formation based on calculations!,"♬
  
 みな歌え
 
 ","♬
  
-A singing",0.1111111111111111
+A singing",0.1111111111111111,0.097869866
 "I hate to admit it,
 but they're strong!","♬
  
@@ -1088,7 +1088,7 @@ but they're strong!","♬
 
 ","♬
  
-I want to cry",0.14285714285714285
+I want to cry",0.14285714285714285,0.09397942
 "Even the Sound Village ones
 would be no match for them!","♬
  
@@ -1096,18 +1096,18 @@ would be no match for them!","♬
 
 ","♬
  
-Even if you do not see around",0.05263157894736842
+Even if you do not see around",0.05263157894736842,0.14397281
 Huh?! What's this feeling?,"♬
  
 この手の中には
 
 ","♬
  
-In this hand",0.1
+In this hand",0.1,0.19889197
 What in the world is going on?!,"♬
  
 光が生まれ
 
 ","♬
  
-Light is born",0.08333333333333333
+Light is born",0.08333333333333333,0.17882505

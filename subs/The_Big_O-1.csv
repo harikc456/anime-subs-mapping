@@ -1,140 +1,140 @@
-en_text,jp_text,google_translated,score
-My name is Roger Smith.,私の名はロジャー・スミス,My name is Roger Smith,0.8333333333333334
-I perform a much-needed job here in this city of Amnesia.,この記憶喪失の街には必要な仕事をしている,I have a necessary job in the city of this memory loss,0.4117647058823529
-Leave it right there.,そこに置け,Put there,0.16666666666666666
-Is this a deal or isn't it?,これは取引だ 違うか？,Is this different?,0.3333333333333333
-"All right, Paradigm City Negotiator.",ヘ 分かったよ　パラダイムシティのネゴシエイター,I saw the paradigm city negotiator,0.3
-Soldano haggled for his own daughter. That's the kind of man he is.,ソルダーノは自分の娘を値切った そういう男さ,Soldano has a proud of his daughter,0.2222222222222222
-I believe the amount has been agreed upon.,額は合意している筈だが,The amount is agreed,0.3
-"You can take off the blindfold, Miss Soldano.",もう目隠しは取っていいですよ,You can take a blindfold anymore,0.3333333333333333
-Dorothy!,ドロシー ドロシー,Dorothy Dorothy,0.5
-"As you can see, the deal has been concluded.",ご覧の通り 取引は成立しました,Trading was established as you can see,0.2857142857142857
-What?,何,what,0.5
-"Now, about the other half of my fee...",もっとも あの父親の元では…,The original of the father ...,0.25
-This isn't Dorothy!,これであなたは自由だ,This is freedom,0.3333333333333333
-Sir?,は？,teeth?,0.3333333333333333
-An android?,アンドロイド,Android,0.3333333333333333
-This is Dorothy's dummy!,これはドロシーのダミーだ,This is a dori dummy,0.375
-And you call yourself Paradigm City's top negotiator?!,何がパラダイムシティ一のネゴシエイターだ,What is the paradigm city's negotiator,0.2857142857142857
-What have you done?!,何だと,What did you say,0.25
-I still don't have my daughter back!,何をした まだ娘は帰ってきていないのだぞ,What did your daughter have not come back yet,0.2
-This wasn't a fair deal. I'm taking it back.,フェアな取引ではなかった　こちらも取り戻します,It was not a fair trading here too,0.25
-Good faith is needed during negotiations.,交渉事には誠意というものが必要だ,Negotiations need sincerity,0.1111111111111111
-"In this case, it was lacking in both parties.",今回のケースでは双方にそれが欠如していた,"In this case, it was lacking in both sides",0.7272727272727273
-Negotiations should be carried out between pros.,ネゴシエイションとはプロとプロが交わすべきもの,Negotilation is what professional and professional should be exchanged,0.14285714285714285
+en_text,jp_text,google_translated,score,semantic_score
+My name is Roger Smith.,私の名はロジャー・スミス,My name is Roger Smith,0.8333333333333334,0.9799818
+I perform a much-needed job here in this city of Amnesia.,この記憶喪失の街には必要な仕事をしている,I have a necessary job in the city of this memory loss,0.4117647058823529,0.71964514
+Leave it right there.,そこに置け,Put there,0.16666666666666666,0.48673713
+Is this a deal or isn't it?,これは取引だ 違うか？,Is this different?,0.3333333333333333,0.28345844
+"All right, Paradigm City Negotiator.",ヘ 分かったよ　パラダイムシティのネゴシエイター,I saw the paradigm city negotiator,0.3,0.82340086
+Soldano haggled for his own daughter. That's the kind of man he is.,ソルダーノは自分の娘を値切った そういう男さ,Soldano has a proud of his daughter,0.2222222222222222,0.8050792
+I believe the amount has been agreed upon.,額は合意している筈だが,The amount is agreed,0.3,0.8398059
+"You can take off the blindfold, Miss Soldano.",もう目隠しは取っていいですよ,You can take a blindfold anymore,0.3333333333333333,0.6445008
+Dorothy!,ドロシー ドロシー,Dorothy Dorothy,0.5,0.86149985
+"As you can see, the deal has been concluded.",ご覧の通り 取引は成立しました,Trading was established as you can see,0.2857142857142857,0.4023199
+What?,何,what,0.5,0.70340025
+"Now, about the other half of my fee...",もっとも あの父親の元では…,The original of the father ...,0.25,0.16440603
+This isn't Dorothy!,これであなたは自由だ,This is freedom,0.3333333333333333,0.28696853
+Sir?,は？,teeth?,0.3333333333333333,0.25114095
+An android?,アンドロイド,Android,0.3333333333333333,0.8220221
+This is Dorothy's dummy!,これはドロシーのダミーだ,This is a dori dummy,0.375,0.41003418
+And you call yourself Paradigm City's top negotiator?!,何がパラダイムシティ一のネゴシエイターだ,What is the paradigm city's negotiator,0.2857142857142857,0.8154609
+What have you done?!,何だと,What did you say,0.25,0.3529477
+I still don't have my daughter back!,何をした まだ娘は帰ってきていないのだぞ,What did your daughter have not come back yet,0.2,0.7394231
+This wasn't a fair deal. I'm taking it back.,フェアな取引ではなかった　こちらも取り戻します,It was not a fair trading here too,0.25,0.5378904
+Good faith is needed during negotiations.,交渉事には誠意というものが必要だ,Negotiations need sincerity,0.1111111111111111,0.6623749
+"In this case, it was lacking in both parties.",今回のケースでは双方にそれが欠如していた,"In this case, it was lacking in both sides",0.7272727272727273,0.7048193
+Negotiations should be carried out between pros.,ネゴシエイションとはプロとプロが交わすべきもの,Negotilation is what professional and professional should be exchanged,0.14285714285714285,0.20043306
 I was only hired to learn Dorothy's whereabouts in exchange for money.,"金と引き換えにドロシーの
 居場所を聞き出すということまでだった","Dorothy in exchange for gold
-It was until I heard her place",0.3
-It was only out of goodwill that I said I'd retrieve the girl herself.,身柄を引き取ろうというのは,It is said that to take measures,0.15789473684210525
-Still... How could he create an android that could nearly pass for human?,あんな人間に近いアンドロイドを作っていたとは,When I made Android near such a human being,0.09523809523809523
-Good question.,こちらの厚意で申し出たまで,Until this kind of good offer,0.125
+It was until I heard her place",0.3,0.7196681
+It was only out of goodwill that I said I'd retrieve the girl herself.,身柄を引き取ろうというのは,It is said that to take measures,0.15789473684210525,0.06614938
+Still... How could he create an android that could nearly pass for human?,あんな人間に近いアンドロイドを作っていたとは,When I made Android near such a human being,0.09523809523809523,0.71762204
+Good question.,こちらの厚意で申し出たまで,Until this kind of good offer,0.125,0.1335866
 All I know is that rumor says Soldano's gotten his hands on a Memory fragment.,"ソルダーノがメモリーの
 断片を手に入れたという噂だけさ","Soldano's memory
-Only the rumor that I got a fragment",0.4
-Memory?,メモリー,memory,0.5
-That's all I know.,俺が知っていることは,What I know,0.2857142857142857
-"This town, Paradigm City, is a city of Amnesia.",この街 パラダイムシティは記憶喪失の街,This city paradigm City is a city of memory loss,0.5
-...lost their memory of everything before that day.,それ以前の記憶を全て失っている,I have lost all the memories before that,0.2
-But humans are creatures that manage to make do and go on with life.,過去の歴史など無くとも文化とやらは装える,Culture and strike with no historical history,0.1
+Only the rumor that I got a fragment",0.4,0.8456135
+Memory?,メモリー,memory,0.5,0.9110998
+That's all I know.,俺が知っていることは,What I know,0.2857142857142857,0.6378864
+"This town, Paradigm City, is a city of Amnesia.",この街 パラダイムシティは記憶喪失の街,This city paradigm City is a city of memory loss,0.5,0.7740381
+...lost their memory of everything before that day.,それ以前の記憶を全て失っている,I have lost all the memories before that,0.2,0.62831604
+But humans are creatures that manage to make do and go on with life.,過去の歴史など無くとも文化とやらは装える,Culture and strike with no historical history,0.1,0.04238532
 "If they can figure out how to operate machines and get electricity,","どうすれば機械が動き
 電気が得られるのかさえ分かれば","How do the machine moves
-If you know that electricity can get",0.25
-They can live their lives just fine without knowing what did or didn't happen.,気にせずに生活だって出来る,I can live without worrying,0.17647058823529413
-"But Memories... Like nightmares, they sometimes appear when you least expect it.",悪夢のように いきなりその姿を現す時がある,There is a time to appear like a nightmare,0.09523809523809523
-"Welcome home, Master Roger.",お帰りなさいませ ロジャー様,Return Return Roger,0.14285714285714285
-"Norman, the brakes' efficiency has dropped by one-eighth.",ノーマン,Norman,0.09090909090909091
-"Really, sir?",おや そうでしたか,Was it?,0.16666666666666666
-I'll look into it after I've prepared dinner.,お食事の用意の後 見ておきます,I will look after the preparation of food,0.2
-"Don't you think criminals should act like professionals, too, Norman?",犯罪者もプロたるべきだとは思わないか ノーマン,I do not think that the criminal should also be professional or Norman,0.18181818181818182
-"Yes, sir.",はい,Yes,0.25
-...can unconditionally enter this mansion.,この屋敷へ無条件で入れるのは,It is unconditionally put unconditionally to this house,0.16666666666666666
-I'm sorry I kept you waiting. I'm Roger Smith.,お待たせしました ロジャー・スミスです,It is Roger Smith who kept you waiting,0.4166666666666667
-You're Miss Wayneright?,ウェインライト嬢というのは,Wayne Light Miss,0.14285714285714285
-Norman must be getting senile.,ノーマンも老いたな,Norman is also old,0.1111111111111111
-How could he mistake an android for a woman?,アンドロイドを女性客と見紛うなどと,Android looked as a female customer,0.14285714285714285
-"You couldn't tell at first, either.",あなただって最初は分からなかった,I did not know at first,0.15384615384615385
-It was dark in there.,あそこは暗かったからだ,That's because it was dark,0.3333333333333333
-"So, what do you want from me?",どんなお力になりましょう か,What kind of power are you,0.15384615384615385
-The Soldano kidnapping case is already being investigated...,既に軍警察が大掛かりな捜査をしている,The military police has already been investigated,0.23076923076923078
-The real Dorothy will be found soon enough.,じきに本物のドロシーは発見されるさ,The real droth will be discovered,0.36363636363636365
-"But still, you are amazingly well-built.",しかしよく出来ている,But well done,0.1
+If you know that electricity can get",0.25,0.5417323
+They can live their lives just fine without knowing what did or didn't happen.,気にせずに生活だって出来る,I can live without worrying,0.17647058823529413,0.34272438
+"But Memories... Like nightmares, they sometimes appear when you least expect it.",悪夢のように いきなりその姿を現す時がある,There is a time to appear like a nightmare,0.09523809523809523,0.48280895
+"Welcome home, Master Roger.",お帰りなさいませ ロジャー様,Return Return Roger,0.14285714285714285,0.52493316
+"Norman, the brakes' efficiency has dropped by one-eighth.",ノーマン,Norman,0.09090909090909093,0.3071782
+"Really, sir?",おや そうでしたか,Was it?,0.16666666666666666,0.25175095
+I'll look into it after I've prepared dinner.,お食事の用意の後 見ておきます,I will look after the preparation of food,0.2,0.6117375
+"Don't you think criminals should act like professionals, too, Norman?",犯罪者もプロたるべきだとは思わないか ノーマン,I do not think that the criminal should also be professional or Norman,0.18181818181818185,0.84460187
+"Yes, sir.",はい,Yes,0.25,0.60876703
+...can unconditionally enter this mansion.,この屋敷へ無条件で入れるのは,It is unconditionally put unconditionally to this house,0.16666666666666666,0.56384647
+I'm sorry I kept you waiting. I'm Roger Smith.,お待たせしました ロジャー・スミスです,It is Roger Smith who kept you waiting,0.4166666666666667,0.7293711
+You're Miss Wayneright?,ウェインライト嬢というのは,Wayne Light Miss,0.14285714285714285,0.7133131
+Norman must be getting senile.,ノーマンも老いたな,Norman is also old,0.1111111111111111,0.64263415
+How could he mistake an android for a woman?,アンドロイドを女性客と見紛うなどと,Android looked as a female customer,0.14285714285714285,0.7380565
+"You couldn't tell at first, either.",あなただって最初は分からなかった,I did not know at first,0.15384615384615385,0.44023955
+It was dark in there.,あそこは暗かったからだ,That's because it was dark,0.3333333333333333,0.7747345
+"So, what do you want from me?",どんなお力になりましょう か,What kind of power are you,0.15384615384615385,0.33984542
+The Soldano kidnapping case is already being investigated...,既に軍警察が大掛かりな捜査をしている,The military police has already been investigated,0.2307692307692308,0.49315688
+The real Dorothy will be found soon enough.,じきに本物のドロシーは発見されるさ,The real droth will be discovered,0.3636363636363637,0.3405893
+"But still, you are amazingly well-built.",しかしよく出来ている,But well done,0.1,0.39412814
 I'm amazed a money-grubber like Soldano could build a marvel like you.,"あの強欲なソルダーノが
 君のような芸術品をよく作ったものだ","That greed soldano
-It is a good thing like you like you",0.2222222222222222
-Soldano only put up the money.,ソルダーノはお金を出しただけだわ,Soldano has only made money,0.3333333333333333
-Of course.,で 何の用事かね,What kind of business,0.16666666666666666
-I want you to protect me.,あたしを守ってほしいの,I want you to protect me,0.8571428571428571
-Are you sure you don't have me mistaken for a P.I. or something?,君は私を探偵か何かだと勘違いしているのか？,Are you misunderstood that you are detective or something?,0.2777777777777778
+It is a good thing like you like you",0.2222222222222222,0.520324
+Soldano only put up the money.,ソルダーノはお金を出しただけだわ,Soldano has only made money,0.3333333333333333,0.8996378
+Of course.,で 何の用事かね,What kind of business,0.16666666666666666,0.012921616
+I want you to protect me.,あたしを守ってほしいの,I want you to protect me,0.8571428571428571,0.96966255
+Are you sure you don't have me mistaken for a P.I. or something?,君は私を探偵か何かだと勘違いしているのか？,Are you misunderstood that you are detective or something?,0.2777777777777778,0.41347826
 "No, being an android's bodyguard isn't a job for a P.I., either.","いや アンドロイドのボディーガードなど
 探偵の仕事ですらない","No android bodyguard etc.
-Do not do detective work",0.2
-"It's your job, Roger Smith.",あなたの仕事よ ロジャー・スミス,Your job Roger Smith,0.5
-"I'm terribly sorry to interrupt you, Master Roger,",お目にかかりたいと申されておりますが,I'm sorry I wanted to see you,0.4166666666666667
-but Major Dastun of the Military Police says he wishes to see you.,軍警察のダストン少佐が,Major Duston of Military Police,0.26666666666666666
-You really shouldn't fiddle around with other people's things.,あまり他人の家の物に勝手に触らない方がいい,It is better not to touch the things of other people's homes,0.19047619047619047
-"Assuming the things here are your own memories, that is.",特にそれがあんた自身のメモリーだとすればな,Especially if it is your own memory,0.1875
-"You were more than willing to start a war,",戦争でも始めようという勢いだったが,It was the momentum to start in war,0.2
-"but the girl had already been rescued, I presume?",当然既に令嬢は救出したんだろうね,Of course I already rescued my older,0.2
-we found that Soldano doesn't have a daughter.,それがおかしい　誘拐だという知らせだったんだが,It was the news that it was a funny abduction,0.125
-"Anyway, it looks like Soldano tried to deal...",勝手に犯人と交渉しようとしたらしい,It seems that I tried to negotiate with the criminal,0.17647058823529413
-...with the kidnappers without telling the authorities.,ま ソルダーノも当局に知らせず,And Sordano also not informed the authorities,0.15384615384615385
-He's a factory owner with a lot of power outside the domes.,ドームの外じゃ羽振りのいい工場主だ,It is a good factory that is feathered outside the dome,0.21052631578947367
+Do not do detective work",0.2,0.6583514
+"It's your job, Roger Smith.",あなたの仕事よ ロジャー・スミス,Your job Roger Smith,0.5,0.89779794
+"I'm terribly sorry to interrupt you, Master Roger,",お目にかかりたいと申されておりますが,I'm sorry I wanted to see you,0.4166666666666667,0.34273714
+but Major Dastun of the Military Police says he wishes to see you.,軍警察のダストン少佐が,Major Duston of Military Police,0.26666666666666666,0.4231842
+You really shouldn't fiddle around with other people's things.,あまり他人の家の物に勝手に触らない方がいい,It is better not to touch the things of other people's homes,0.19047619047619047,0.45612514
+"Assuming the things here are your own memories, that is.",特にそれがあんた自身のメモリーだとすればな,Especially if it is your own memory,0.1875,0.57433903
+"You were more than willing to start a war,",戦争でも始めようという勢いだったが,It was the momentum to start in war,0.2,0.55972993
+"but the girl had already been rescued, I presume?",当然既に令嬢は救出したんだろうね,Of course I already rescued my older,0.2,0.52992415
+we found that Soldano doesn't have a daughter.,それがおかしい　誘拐だという知らせだったんだが,It was the news that it was a funny abduction,0.125,0.22162531
+"Anyway, it looks like Soldano tried to deal...",勝手に犯人と交渉しようとしたらしい,It seems that I tried to negotiate with the criminal,0.17647058823529413,0.26870716
+...with the kidnappers without telling the authorities.,ま ソルダーノも当局に知らせず,And Sordano also not informed the authorities,0.15384615384615385,0.31425855
+He's a factory owner with a lot of power outside the domes.,ドームの外じゃ羽振りのいい工場主だ,It is a good factory that is feathered outside the dome,0.21052631578947367,0.5533631
 "If we had gotten too close, his dirty secrets might've been exposed.","我々に近づかれると色々
 埃が出てくるってところだろうが","If we get close to us
-Dust will come out",0.13636363636363635
-"If you're trying to be sarcastic, you're going too far!",わざとなら嫌みが過ぎるぞ,"If you work, I'm too disgusted",0.25
-I'm not one of your men!,私はあなたの部下ではない,I am not your part,0.3
-I'd appreciate it if you'd never call me that again!,その呼び方は二度としないでほしい,I want you to call it twice,0.26666666666666666
+Dust will come out",0.13636363636363635,0.3550368
+"If you're trying to be sarcastic, you're going too far!",わざとなら嫌みが過ぎるぞ,"If you work, I'm too disgusted",0.25,0.2180438
+I'm not one of your men!,私はあなたの部下ではない,I am not your part,0.3,0.44062084
+I'd appreciate it if you'd never call me that again!,その呼び方は二度としないでほしい,I want you to call it twice,0.26666666666666666,0.54627025
 "At any rate, I want to say one thing to Paradigm City's top negotiator:","パラダイムシティ一番の
 ネゴシエイターに一つだけ言いたいのさ","Paradigm City's best
-I want to say only one to Negociate",0.42105263157894735
-I'll take you up on that drink next time.,今度はその酒いただくよ,This time I'm drinking it,0.13333333333333333
-"You're going to the Soldano factory, aren't you?",ソルダーノの工場へ行くんでしょ,I will go to the factory of Sordano,0.1875
-I don't think a mere human has the strength.,ただの人間がそんな力 持ってないと思うけど,I think that only human beings have such power,0.17647058823529413
-Why did you come to my place rather than go straight back to Soldano's?,なぜ真っすぐソルダーノのところに帰らずに,Why don't go back to Sordano straight,0.2777777777777778
-Parent?,親？,parent?,1.0
-Dorothy?,ドロシー,Dorothy,0.5
-What the...?,アンドロイドが作り主をどう認識しているのか,How do Android recognizes the Main?,0.2222222222222222
-Soldano!,あ,Ah,0.0
-I didn't want to build it for people like them...,あんな奴らのために作りたくなかった,I did not want to make it for such guys,0.375
-What did you build?,何を作ったんだ,What did you make,0.5
-You're the one who's my real daughter.,帰ってきてくれたのか お前の方が本当の娘,Do you come back? The real daughter,0.2857142857142857
-"This man put me together by following a blueprint, that's all.",よせ そういう言い方をするもんじゃない,It's not a way of saying that,0.15789473684210525
-"I suppose you're right, Nightingale...",そうだな ナイチンゲール,That's right Nightingale,0.2
-Are you praying?,お祈りをしているの？,Are you praying?,1.0
-RUN!,逃げろ,Run away,0.3333333333333333
-I don't walk around carrying missiles!,いちいちミサイルなんか持ち歩かないんだ 私は,I can not walk one by one missile,0.15384615384615385
-"Miss ""no mere human"" Dorothy?",ただの人間じゃないドロシー君？,It is not just a human being Dorothy?,0.21428571428571427
-Bingo!,ビンゴ,bingo,0.5
-"What is it, Norman?",いかがなさいますか,How is it?,0.42857142857142855
-"Master Roger, a giant robot has appeared in West Dome #5.",西５番ドームに 巨大なロボットが現れています,A huge robot appears in the west 5nd dome,0.2777777777777778
-It's attacking the Mint Bureau.,造幣局の建物を襲撃しておりますが,I'm attacking the building of the Mint,0.2727272727272727
-"Dorothy, we just found your big sister.",ドロシー お姉さんが見つかったよ,Dolicy sister was found,0.18181818181818182
-What are you going to do?,どうするの,What to do,0.42857142857142855
-"I'm going to get your big sister back, according to contract.",契約通りに姉上を取り戻しに行く,Go to regain my sister as a contract,0.16666666666666666
-Your client is already dead.,クライアントはもう死んだのよ,The client has already died,0.2222222222222222
-That's how I do things.,それが俺の流儀だ,That's my style,0.2222222222222222
-I have a contract with you now.,たった今 君と契約することにした,I decided to contract with you now,0.5
-Hold it!,決まっているさ,It is decided,0.2
-This dome is cordoned off! Let me see your ID.,このドームは現在封鎖中だ IDを見せなさい,This dome shows the ID currently blocked,0.1875
-It wouldn't hurt to remember my face.,新人か 私の顔くらい覚えておいて損はないぞ,There is no loss of remembering my face or my face,0.125
-H-Hey! Wait!,待て ちょっと待て,Wait for a while,0.16666666666666666
-Father...,お父様,father,0.5
-Now I get it. So that's what Soldano built on the sly.,なるほど あれがソルダーノが密造していた,"Well, so I was tired of Soldano",0.15789473684210525
+I want to say only one to Negociate",0.42105263157894735,0.77909005
+I'll take you up on that drink next time.,今度はその酒いただくよ,This time I'm drinking it,0.13333333333333333,0.56524044
+"You're going to the Soldano factory, aren't you?",ソルダーノの工場へ行くんでしょ,I will go to the factory of Sordano,0.1875,0.49947947
+I don't think a mere human has the strength.,ただの人間がそんな力 持ってないと思うけど,I think that only human beings have such power,0.17647058823529413,0.6200026
+Why did you come to my place rather than go straight back to Soldano's?,なぜ真っすぐソルダーノのところに帰らずに,Why don't go back to Sordano straight,0.2777777777777778,0.38912633
+Parent?,親？,parent?,1.0,1.0
+Dorothy?,ドロシー,Dorothy,0.5,0.9295662
+What the...?,アンドロイドが作り主をどう認識しているのか,How do Android recognizes the Main?,0.2222222222222222,-0.020962609
+Soldano!,あ,Ah,0.0,0.1811323
+I didn't want to build it for people like them...,あんな奴らのために作りたくなかった,I did not want to make it for such guys,0.375,0.45807445
+What did you build?,何を作ったんだ,What did you make,0.5,0.6328533
+You're the one who's my real daughter.,帰ってきてくれたのか お前の方が本当の娘,Do you come back? The real daughter,0.2857142857142857,0.5715617
+"This man put me together by following a blueprint, that's all.",よせ そういう言い方をするもんじゃない,It's not a way of saying that,0.15789473684210525,0.048282243
+"I suppose you're right, Nightingale...",そうだな ナイチンゲール,That's right Nightingale,0.2,0.8596637
+Are you praying?,お祈りをしているの？,Are you praying?,1.0,1.0
+RUN!,逃げろ,Run away,0.3333333333333333,0.6430656
+I don't walk around carrying missiles!,いちいちミサイルなんか持ち歩かないんだ 私は,I can not walk one by one missile,0.15384615384615385,0.66069335
+"Miss ""no mere human"" Dorothy?",ただの人間じゃないドロシー君？,It is not just a human being Dorothy?,0.21428571428571427,0.7818418
+Bingo!,ビンゴ,bingo,0.5,0.8728324
+"What is it, Norman?",いかがなさいますか,How is it?,0.42857142857142855,0.1450741
+"Master Roger, a giant robot has appeared in West Dome #5.",西５番ドームに 巨大なロボットが現れています,A huge robot appears in the west 5nd dome,0.2777777777777778,0.795189
+It's attacking the Mint Bureau.,造幣局の建物を襲撃しておりますが,I'm attacking the building of the Mint,0.2727272727272727,0.6976117
+"Dorothy, we just found your big sister.",ドロシー お姉さんが見つかったよ,Dolicy sister was found,0.18181818181818185,0.44738245
+What are you going to do?,どうするの,What to do,0.42857142857142855,0.53624904
+"I'm going to get your big sister back, according to contract.",契約通りに姉上を取り戻しに行く,Go to regain my sister as a contract,0.16666666666666666,0.7649113
+Your client is already dead.,クライアントはもう死んだのよ,The client has already died,0.2222222222222222,0.9091966
+That's how I do things.,それが俺の流儀だ,That's my style,0.2222222222222222,0.34950233
+I have a contract with you now.,たった今 君と契約することにした,I decided to contract with you now,0.5,0.8441414
+Hold it!,決まっているさ,It is decided,0.2,0.20086579
+This dome is cordoned off! Let me see your ID.,このドームは現在封鎖中だ IDを見せなさい,This dome shows the ID currently blocked,0.1875,0.6181955
+It wouldn't hurt to remember my face.,新人か 私の顔くらい覚えておいて損はないぞ,There is no loss of remembering my face or my face,0.125,0.69178325
+H-Hey! Wait!,待て ちょっと待て,Wait for a while,0.16666666666666666,0.2522307
+Father...,お父様,father,0.5,0.73021156
+Now I get it. So that's what Soldano built on the sly.,なるほど あれがソルダーノが密造していた,"Well, so I was tired of Soldano",0.15789473684210525,0.724979
 Now I understand why those folks thought you were useless.,"君じゃ役に立たないと思った奴らの
 気持ちがようやく分かったよ","Those who thought that they would not be useful
-I finally understood",0.15
-Big O! Showtime!,ビッグオー ショータイム,Big Osho Time,0.16666666666666666
-"Stop it, Father...",やめて お父様,Stop and father,0.3333333333333333
-It's not after money! It's going for the printing plates!,賊が狙っているのは金じゃない その原盤だ,It is not a gold that is aiming for the bet,0.23529411764705882
-What the...? Now what?!,な 何だ 今度は何だ,What is this time now,0.2222222222222222
-Don't tell me...,おお,Oh,0.0
-Big O! Action!,ビッグオー アクション,Big o action,0.75
-Yeah! Go for it!,ああいいぞ,Oh yeah,0.16666666666666666
-An evacuation order has been issued for West Dome #5.,西５番ドームには退避命令が出ました,A retreatment order came out to the west 5nd dome,0.15789473684210525
-What's that girl doing?,ああ なんてことを,Oh what to do,0.1111111111111111
-Hey! You there!,おい 君,Hey,0.25
-"Be a good girl and behave yourself, Dorothy I!",よし いい子にしなさい ドロシーワン,Good child Drone One,0.07142857142857142
-Dorothy I...,バイバイ ドロシーワン,Bye Bi Dorothy One,0.16666666666666666
-What are you doing down there?!,バカ野郎 何をしてるんだ,What is stupid guy doing,0.18181818181818182
-Get away from there!,早くそこから離れろ,Get away from there early,0.6666666666666666
+I finally understood",0.15,0.6199118
+Big O! Showtime!,ビッグオー ショータイム,Big Osho Time,0.16666666666666666,0.469657
+"Stop it, Father...",やめて お父様,Stop and father,0.3333333333333333,0.6399932
+It's not after money! It's going for the printing plates!,賊が狙っているのは金じゃない その原盤だ,It is not a gold that is aiming for the bet,0.2352941176470588,0.17841835
+What the...? Now what?!,な 何だ 今度は何だ,What is this time now,0.2222222222222222,0.4403573
+Don't tell me...,おお,Oh,0.0,0.20749718
+Big O! Action!,ビッグオー アクション,Big o action,0.75,0.7909233
+Yeah! Go for it!,ああいいぞ,Oh yeah,0.16666666666666666,0.18717909
+An evacuation order has been issued for West Dome #5.,西５番ドームには退避命令が出ました,A retreatment order came out to the west 5nd dome,0.15789473684210525,0.7157257
+What's that girl doing?,ああ なんてことを,Oh what to do,0.1111111111111111,0.2661302
+Hey! You there!,おい 君,Hey,0.25,0.5482793
+"Be a good girl and behave yourself, Dorothy I!",よし いい子にしなさい ドロシーワン,Good child Drone One,0.07142857142857142,0.045327287
+Dorothy I...,バイバイ ドロシーワン,Bye Bi Dorothy One,0.16666666666666666,0.67570794
+What are you doing down there?!,バカ野郎 何をしてるんだ,What is stupid guy doing,0.18181818181818185,0.31885624
+Get away from there!,早くそこから離れろ,Get away from there early,0.6666666666666666,0.61514425

@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.69996905
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.623353
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.28524128
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.7599902
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.53727317
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -52,7 +52,7 @@ Someday with your own arms",0.058823529411764705
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522577
 Dang it! What should we do?,"(ｶﾝｸﾛｳ)
 くそ！
  
@@ -60,20 +60,20 @@ Dang it! What should we do?,"(ｶﾝｸﾛｳ)
 
 ","Fuck!
  
-what will you do?",0.36363636363636365
+what will you do?",0.3636363636363637,0.5158319
 Leave it to me.,"(ﾃﾏﾘ)
 あたしに任せて
 ｡
 
 ","Leave it to me
-.",1.0
+.",1.0,1.0
 That was close.,"そう簡単には
 くたばらねえってばよ
 ｡
 
 ","That so easy
 It's a shame
-.",0.2
+.",0.2,0.12694493
 What was that noise?,"(ｻｸﾗ)
 何？
  
@@ -83,7 +83,7 @@ What was that noise?,"(ｻｸﾗ)
 ","what?
  
 Sound of this sound
-.",0.2222222222222222
+.",0.2222222222222222,0.65411437
 "An explosion...
 Perhaps it was a trap set for Sasuke.","恐らく
  
@@ -95,13 +95,13 @@ Perhaps it was a trap set for Sasuke.","恐らく
  
 Sasuke was settled
 It is a trap
-.",0.5
+.",0.5,0.7553736
 I wonder if he's okay.,"(ｻｽｹ)
 やってくれるぜ
 ｡
 
 ","I will do it
-.",0.2
+.",0.2,0.086177185
 "Before that, I must have you both
 return to your original forms.","本来の姿に
 戻っていただかないとね
@@ -111,7 +111,7 @@ return to your original forms.","本来の姿に
 ","In the original figure
 I have not returned
 .
-➡",0.2
+➡",0.2,0.19901887
 "Please prepare yourself,
 Sarutobi Sensei.","覚悟してください
  
@@ -121,7 +121,7 @@ Sarutobi Sensei.","覚悟してください
 ","Please be prepared
  
 Saruhi-sensei
-.",0.2
+.",0.2,0.79973066
 What is that... Jutsu?,"何なんですか？
  
 あの術
@@ -130,7 +130,7 @@ What is that... Jutsu?,"何なんですか？
 ","What is it?
  
 That technique
-.",0.4444444444444444
+.",0.4444444444444444,0.40363044
 Reanimation.,"(
 暗部１
 )
@@ -140,14 +140,14 @@ Reanimation.,"(
 
 ","I'm going to see
 .
-➡",0.125
+➡",0.125,0.15914713
 "But I've heard that with this Jutsu,","生きている人間の体をいけにえに
 使うと聞いたことがある
 ｡
 
 ","A live human body
 I have heard that I use it
-.",0.17647058823529413
+.",0.17647058823529413,0.30726632
 "in order to summon
 a dead soul to this world...","この術は死者の魂を
  
@@ -161,7 +161,7 @@ a dead soul to this world...","この術は死者の魂を
 In this world
 Call
  
-To stay",0.375
+To stay",0.375,0.70207465
 "the body of a living person is sacrificed
 as a container for the soul.","通常
  
@@ -169,7 +169,7 @@ as a container for the soul.","通常
 
 ","Normal
  
-The mouth is as a compensation ➡",0.23529411764705882
+The mouth is as a compensation ➡",0.2352941176470588,-0.02359055
 "Then, the bodies of those two
 are of the sacrificed...","(
 暗部１
@@ -188,13 +188,13 @@ The body of that two
 the
  
 Eat ...
-.",0.26666666666666666
+.",0.26666666666666666,0.50094247
 "Perhaps dust and dirt cover
 the sacrificial body","そのいけにえの体の周りを
 ちりあくたが覆い➡
 
 ","Around the body of that piece
-Dinpota Cover",0.23076923076923078
+Dinpota Cover",0.2307692307692308,0.33055356
 "and take on the original form
 of the summoned soul.","呼び寄せた魂の本来の姿を
 かたどったものだ
@@ -204,7 +204,7 @@ of the summoned soul.","呼び寄せた魂の本来の姿を
 ","The original figure of the called soul
 It's a rare
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.46307036
 "And by way of the charm
 embedded in the head,","そして
  
@@ -214,10 +214,10 @@ embedded in the head,","そして
 ","and
  
 I was embedded in my head
-Depending on the tag",0.3125
+Depending on the tag",0.3125,0.31851396
 the personality of the soul is killed,"その魂の人格すら殺し➡
 
-",The personality of the soul kills ➡➡,0.5
+",The personality of the soul kills ➡➡,0.5,0.9165735
 They're complete.,"(
 大蛇丸
 )
@@ -229,13 +229,13 @@ They're complete.,"(
 ","Fuhufu ...
  
 Complete
-.",0.3333333333333333
+.",0.3333333333333333,0.45890963
 "Do you know the joy and sense
 of accomplishment","傷つけるという達成感と喜び
 ｡
 
 ","A sense of accomplishment and pleasure to hurt
-.",0.2857142857142857
+.",0.2857142857142857,0.54436815
 "of hurting one whom
 you once called Sensei?","(
 大蛇丸
@@ -244,18 +244,18 @@ you once called Sensei?","(
 かつて師と呼んだ者を➡
 
 ","did you know?
-Those who called for a teacher",0.1875
+Those who called for a teacher",0.1875,0.2503197
 "I prepared this scenario
 so that you might know that joy.","その喜びを
 あなたに知ってもらおうと➡
 
 ","That joy
-If you know you",0.3333333333333333
+If you know you",0.3333333333333333,0.69863254
 So please enjoy it.,"せいぜい楽しんでください
 ｡
 
 ","Please enjoy
-.",0.6
+.",0.6,0.749405
 "Even if the shape and form
 are the same...","(
 暗部
@@ -268,16 +268,16 @@ are the same...","(
 ","Surface-like!
 figure
  
-The shape is the same",0.23076923076923078
+The shape is the same",0.2307692307692308,0.51892036
 "they're neither the First Hokage
 nor the Second!","その者たちは初代様でも
 二代目様でもありません！
 
 ","The persons are even for the first time
-It is not a second generation!",0.21052631578947367
+It is not a second generation!",0.21052631578947367,0.28046954
 Here I go!,"行きますぞ！
 
-",I will go!,0.6
+",I will go!,0.6,0.40440738
 Fire Style: Fire Dragon Flame Bombs.,"(
 猿飛
 )
@@ -287,7 +287,7 @@ Fire Style: Fire Dragon Flame Bombs.,"(
 
 ","""Fire: 99C09079206BA433E50523B592C8055A]
  
-Fire dragonfly!""",0.15384615384615385
+Fire dragonfly!""",0.15384615384615385,0.6160022
 <i>Water Style. Water Wall.</i>,"このレベルの水[外:99C09079206BA433E50523B592C8055A]を
 発動できるなんて
 ｡
@@ -296,20 +296,20 @@ Fire dragonfly!""",0.15384615384615385
 ","This level of water [outside: 99C09079206BA433E50523B592C8055A]
 I can activate
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.39110178
 No way!,"(
 猿飛
 )
 ん～！
 
-",!,0.3333333333333333
+",!,0.3333333333333333,0.3223241
 I can't believe it.,"さすがは
 先代といったところですね
 ｡
 
 ","Sexual
 It is a place where I was
-.",0.25
+.",0.25,0.11280303
 <i>Water Style. Water Shock Wave!</i>,"(
 二代目
 )
@@ -319,7 +319,7 @@ It is a place where I was
 
 ","""Water [outside: 99C09079206BA433E50523B592C8055A]
  
-Water wave!""",0.17647058823529413
+Water wave!""",0.17647058823529413,0.5901188
 "<i>Having two of you is quite a challenge,</i>
 <i>as might be expected...</i>","(
 猿飛
@@ -336,14 +336,14 @@ Water wave!""",0.17647058823529413
 With the two opponents
 As might be expected
  
-""I'm sorry""",0.2222222222222222
+""I'm sorry""",0.2222222222222222,0.30933926
 This is bad.,"マズい…
 これは初代様だけの秘術
 ｡
 
 ","Masu ...
 This is the primary science
-.",0.3333333333333333
+.",0.3333333333333333,0.12722735
 His Chakra became a source for life.,"(
 暗部
 )
@@ -353,7 +353,7 @@ His Chakra became a source for life.,"(
 
 ","""Chakra is a source of life ...
 .
-➡",0.38461538461538464
+➡",0.38461538461538464,0.7966757
 "who brought turbulent times under control
 and built the Leaf Village.","すごい…
  
@@ -363,7 +363,7 @@ and built the Leaf Village.","すごい…
 ","very…
  
 This cure the ruling
-I built a wooden leaf ➡",0.15
+I built a wooden leaf ➡",0.15,0.4421259
 "You're finally caught... eh, Sensei.","(
 大蛇丸
 )
@@ -377,7 +377,7 @@ I built a wooden leaf ➡",0.15
 I was caught
  
 teacher
-.",0.25
+.",0.25,0.3735504
 "Okay everyone, let's evacuate quickly.","さぁ
  
 みんな
@@ -390,7 +390,7 @@ teacher
 Everyone
  
 Hurry and evacuate
-.",0.2727272727272727
+.",0.2727272727272727,0.7550442
 "What's the matter, Konohamaru?","(ﾓｴｷﾞ)
 木ノ葉丸ちゃん…
  
@@ -398,10 +398,10 @@ Hurry and evacuate
 
 ","Kuno Maru-chan ...
  
-What's wrong?➡",0.25
+What's wrong?➡",0.25,0.3888352
 Does your stomach hurt or something?,"おなかでも痛いの？
 
-",Is it painful in your stomach?,0.2727272727272727
+",Is it painful in your stomach?,0.2727272727272727,0.7815039
 No... it's not that.,"(
 木ノ葉丸
 )
@@ -413,10 +413,10 @@ No... it's not that.,"(
 ","No
  
 I'm not there
-.",0.3
+.",0.3,0.28755558
 Appear!,"んっ！
 
-",!,0.5
+",!,0.5,0.511722
 Old Monkey Enma.,"(
 大蛇丸
 )
@@ -428,7 +428,7 @@ Old Monkey Enma.,"(
 ","Old age
  
 Monkey
-.",0.6
+.",0.6,0.7344449
 "Orochimaru...
 I knew this would happen.","やはり
  
@@ -438,13 +438,13 @@ I knew this would happen.","やはり
 ","also
  
 Is this this?
-.",0.18181818181818182
+.",0.18181818181818185,0.19641386
 "You're pathetic, Sarutobi...
 It's because you didn't kill him back then.","あの時に殺しておかぬからだ
 ｡
 
 ","It's because I will kill you at that time
-.",0.2857142857142857
+.",0.2857142857142857,0.39629894
 I'm going to do it now!,"(
 猿飛
 )
@@ -452,7 +452,7 @@ I'm going to do it now!,"(
 ｡
 
 ","I will do it from now on
-.",0.3333333333333333
+.",0.3333333333333333,0.6402941
 It's too late.,"ヘッ
  
 もう遅ぇよ
@@ -461,10 +461,10 @@ It's too late.,"ヘッ
 ","Hem
  
 It is already late
-.",0.375
+.",0.375,0.51927745
 Transform!,"変化！
 
-",change!,0.3333333333333333
+",change!,0.3333333333333333,0.5633594
 Wow... What level of Ninjutsu battle!,"(
 暗部
 )
@@ -478,28 +478,28 @@ Wow... What level of Ninjutsu battle!,"(
  
 What a level of ninjuts battle
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.8189055
 This is Hokage level!,"これが火影というレベル…
 ｡
 
 ","This is the level of fire lap ...
-.",0.2727272727272727
+.",0.2727272727272727,0.38111553
 "Let's do it, Enma!","行くぞ
  
 猿魔！
 
 ","let's go
  
-Monkey Ma!",0.3
+Monkey Ma!",0.3,0.35662603
 "No matter how strong the body,
 the Snake Sword still hurts.","草薙の剣は痛ぇぜ
 ｡
 
 ","Kusanagi's sword hurts
-.",0.21428571428571427
+.",0.21428571428571427,0.56128275
 You're mine!,"ん～！
 
-",!,0.25
+",!,0.25,0.4148395
 "To think you'd strike without even
 using the Shadow Clone Jutsu.","影分身も使わずに
 突っ込んでくるなんてねぇ
@@ -507,7 +507,7 @@ using the Shadow Clone Jutsu.","影分身も使わずに
 
 ","Do not use the shadow
 It's going to stick in
-.",0.19047619047619047
+.",0.19047619047619047,0.5129248
 "<i>It's not that he didn't use it.</i>
 <i>He can't use it.</i>","使わないのではなく
 使えないのだ
@@ -517,7 +517,7 @@ It's going to stick in
 ","Not not to use
 I can not use it
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.5937458
 "<i>The amount of Chakra the Third Hokage</i>
 <i>has differs from the past.</i>","三代目は昔と違い
 チャクラの量が…
@@ -527,13 +527,13 @@ I can not use it
 ","The third generation is different from the old days
 The amount of chakra ...
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.6800287
 "<i>The Shadow Clone Jutsu that</i>
 <i>evenly disperses Chakra,</i>","現存するチャクラを
 均等に分散してしまう影分身は➡
 
 ","Current chakra
-The picture of the shadow that is evenly distributed",0.2777777777777778
+The picture of the shadow that is evenly distributed",0.2777777777777778,0.6872661
 "<i>if things go wrong,</i>
 <i>would be like throwing away Chakra.</i>","下手をすれば
 チャクラを捨てるようなもの
@@ -543,12 +543,12 @@ The picture of the shadow that is evenly distributed",0.2777777777777778
 ","If not
 Things like throwing away chakras
 .
-➡",0.2631578947368421
+➡",0.2631578947368421,0.74421537
 Please hang in there.,"しっかりしてください
 ｡
 
 ","Please be careful
-.",0.2857142857142857
+.",0.2857142857142857,0.36717343
 You are called...,"プロフェッサーと呼ばれた
 あなたでしょう
 ｡
@@ -557,25 +557,25 @@ You are called...,"プロフェッサーと呼ばれた
 ","It was called a professional
 You will
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.2994467
 """the Professor who knows and uses all
 of the Jutsu existent in Leaf Village,"" right?","木ノ葉に存在する術の
 すべてを知り扱う➡
 
 ","Of technologies present in the tree
-Know everything",0.13043478260869565
+Know everything",0.13043478260869565,0.2932418
 Please don't disappoint me too much.,"あんまり
 がっかりさせないでくださいよ
 ｡
 
 ","not really
 Please do not make it disappointed
-.",0.23076923076923078
+.",0.2307692307692308,0.5536969
 And please save the Leaf Village!,"そして
 木ノ葉の里をお救いください！➡
 
 ","and
-Save the village of the tree!➡",0.5
+Save the village of the tree!➡",0.5,0.7601602
 Fool... It is too late.,"ばかめが
  
 もう遅いのよ
@@ -586,7 +586,7 @@ Fool... It is too late.,"ばかめが
  
 It's late
 .
-➡",0.3
+➡",0.3,0.48330274
 "<i>Sarutobi, what's wrong?</i>","(
 猿魔
 )
@@ -596,23 +596,23 @@ It's late
 
 ","Sarutobi
  
-What happened?➡",0.25
+What happened?➡",0.25,0.7629418
 <i>Now's the time to draw the line.</i>,"今こそ
  
 けじめをつけろ！
 
 ","now is the time
  
-Get up!",0.2
+Get up!",0.2,0.33856642
 You... fool!,"ハハハ…！
 
-",Hahaha ...!,0.4
+",Hahaha ...!,0.4,0.22186852
 Orochimaru...,"(
 猿飛
 )
 《大蛇丸…》
 
-","""Great snake circle ...""",0.14285714285714285
+","""Great snake circle ...""",0.14285714285714285,0.13444006
 This is the end.,"(
 猿魔
 )
@@ -626,12 +626,12 @@ This is the end.,"(
  
 This is the end
 .
-➡",0.5555555555555556
+➡",0.5555555555555556,0.4164947
 I'll snap your neck.,"首の骨をへし折ってやるぜ
 ｡
 
 ","I will fold my neck bones
-.",0.3
+.",0.3,0.6925367
 "<i>It looks like there's no point if</i>
 <i>I don't do something about the soul itself</i>","(
 猿飛
@@ -644,7 +644,7 @@ I'll snap your neck.,"首の骨をへし折ってやるぜ
 ","""also
  
 In the year-round reincarnation
-The tied soul itself",0.12
+The tied soul itself",0.12,0.40812188
 "<i>If so, all I can do is to use...</i>
 <i>the Fourth Hokage's Jutsu.</i>","なれば
  
@@ -652,11 +652,11 @@ The tied soul itself",0.12
 
 ","If
  
-After all the fourth generation",0.19047619047619047
+After all the fourth generation",0.19047619047619047,0.18706062
 "<i>Lord First Hokage, Lord Second Hokage,</i>
 <i>please forgive me for using that Jutsu!</i>","あの術をかけまする！》
 
-","I will spend that operation!""",0.14285714285714285
+","I will spend that operation!""",0.14285714285714285,0.25006694
 Sensei... it seems you're out of breath.,"だいぶ息が
 上がっているようですが
 ｡
@@ -665,15 +665,15 @@ Sensei... it seems you're out of breath.,"だいぶ息が
 ","Blowing
 It seems to be up
 .
-➡",0.2
+➡",0.2,0.2006303
 I've never seen such a pained look.,"見たことがない
 ｡
 
 ","I have never seen it
-.",0.36363636363636365
+.",0.3636363636363637,0.46928257
 What's so funny?,"何がおかしい？
 
-",What's wrong?,0.5
+",What's wrong?,0.5,0.33814707
 "Old age beats even you,
 once renowned as the god of Shinobi.","かつては
  
@@ -687,7 +687,7 @@ once renowned as the god of Shinobi.","かつては
 Until God of Shinobu
 Smashed
  
-If you are ➡",0.13043478260869565
+If you are ➡",0.13043478260869565,0.6760496
 "What's that...?!
 What the heck is going on?","(
 暗部１
@@ -704,7 +704,7 @@ What the heck is going on?","(
 That is…
 Integral
  
-how is it going?",0.3333333333333333
+how is it going?",0.3333333333333333,0.16269818
 Who the heck are you?!,"(
 猿飛
 )
@@ -718,7 +718,7 @@ Who the heck are you?!,"(
  
 Integral
  
-Who are you!?",0.625
+Who are you!?",0.625,0.20995192
 It's me. Orochimaru.,"私です
  
 大蛇丸ですよ
@@ -727,14 +727,14 @@ It's me. Orochimaru.,"私です
 ","Is me
  
 It is a great snake
-.",0.3333333333333333
+.",0.3333333333333333,0.3254701
 It can't be...,"まさか
  
 貴様…➡
 
 ","Masadish
  
-Your ... ➡",0.125
+Your ... ➡",0.125,0.19562116
 I finally caught up.,"≪
  
 やっと追いついたぜ
@@ -743,7 +743,7 @@ I finally caught up.,"≪
 ","«
  
 I finally caught up
-.",0.8333333333333334
+.",0.8333333333333334,0.6553273
 This is as far as you guys go.,"ここまでだ
  
 お前たち
@@ -752,16 +752,16 @@ This is as far as you guys go.,"ここまでだ
 ","Here
  
 you
-.",0.2222222222222222
+.",0.2222222222222222,0.28667337
 Dang it!,"(ｶﾝｸﾛｳ)
 くそ！
 
-",Fuck!,0.25
+",Fuck!,0.25,0.38442183
 Sasuke Uchiha.,"うちはサスケ…
 ｡
 
 ","My house is Sasuke ...
-.",0.2857142857142857
+.",0.2857142857142857,0.7063689
 "<i>So many regrets</i>
 <i>Don't let this scar be for naught</i>","♬
  
@@ -769,7 +769,7 @@ Sasuke Uchiha.,"うちはサスケ…
 
 ","♬
  
-Don't waste this scratch",0.16666666666666666
+Don't waste this scratch",0.16666666666666666,0.35812062
 "<i>Transform sadness into the wind</i>
 <i>and continue to forge on</i>","♬
  
@@ -779,7 +779,7 @@ Don't waste this scratch",0.16666666666666666
 ","♬
  
 Then the destination
-Near the wind blows",0.10526315789473684
+Near the wind blows",0.10526315789473684,0.4277364
 and one of a kind in decades.,"♬
  
 たくさんの
@@ -788,7 +788,7 @@ and one of a kind in decades.,"♬
 ","♬
  
 lots of
-Regret",0.09090909090909091
+Regret",0.09090909090909093,0.16699229
 "I will bury you now and
 correct my old mistake.","♬
  
@@ -798,4 +798,4 @@ correct my old mistake.","♬
 ","♬
  
 Anyone
-I will fail",0.14285714285714285
+I will fail",0.14285714285714285,0.2567929

@@ -1,48 +1,48 @@
-en_text,jp_text,google_translated,score
-"And on July 9th, 2006... sunday, july 9th 2006",＜そして2006年７月９日＞,"<And July 9, 2006>",0.36363636363636365
-we brothers were...,僕達兄弟は…＞,Opportunity is ...>,0.14285714285714285
-I'm going to explore farther out than last time.,俺は前回より先を調査する！,I will investigate ahead of last time!,0.1875
-"Mu, over here! Quick!",ムッちゃん こっち来いよ！早く！,Much-chan come here!quickly!,0.2222222222222222
-"Hurry up, Mu!",早く来いってば！ムッちゃん！,If you come early!Mucchan!,0.1
-P-Put me down...,はなして～！,Has!,0.0
-Hibito! Come on...,日々人 お前な～！あ？,Daily day!Ah?,0.1111111111111111
-Oh... What's it doing?,うわあ！なんだよ｡,Wow!what is it.,0.18181818181818182
-I-It went to the moon?,つ 月…行った？,Moon ... went there?,0.375
-"Next spring, we will be heading to the moon.",来年の春 我々は月へ旅立ちます｡,Spring next year we will travel to the moon.,0.6153846153846154
-"Yes, please don't worry.",コホン！え～ご心配なく｡,Chohon!Eh ~ Don't worry.,0.36363636363636365
-"Excuse me, could you let go of the mic?",すいません マイク持たないで｡,I'm sorry I do not have a microphone.,0.0
-"I, Nanba Mutta, lost my job with an automobile manufacturer.",晴れて自動車開発会社を退職＞,Sunny and retiring a car develop company>,0.0
-"Naturally, I was fired immediately.",＜もちろん一発退場＞,<Of course there is one shot>,0.0
-Please take care then.,では お気をつけて｡,"Well, please be careful.",0.2222222222222222
-What am I supposed to do with all these boxes?,どうすんだ？この荷物｡,What is it?This luggage.,0.125
-Unemployed...,無職かぁ…アハハ｡,No job ... Ahaha.,0.16666666666666666
-I'll cry when I get home.,帰ったら泣こう…｡,I will cry when I get home ....,0.6666666666666666
-"Mutta, dinner's ready!",六太～ごはん～！,Rokkata-rice!,0.14285714285714285
-"Yeah, I'm coming...",グア…あ…今いく｡,Good ... Oh ... now.,0.1
-I'm off!,いってきます｡,See you.,0.0
-But why would you headbutt your supervisor?,でも どうして頭突きなどを？,But why do you have a clerk?,0.3333333333333333
-I doubt I'll ever work for an auto company again.,戻れそうにない＞,I'm not going back>,0.0625
-"That's why... oh, i was supposed to keep it secret.",あっ！これ内緒の話だったんだ｡,Ah!It was a story of this.,0.15
-As if he were giving us a push...,＜まるで力をくれるように＞,<Alive to give power>,0.0
-He's going to the moon. but i'm all washed up...,《ちなみに僕は…もうダメです》,"""By the way, I am no good""",0.09090909090909091
-Where I did put it?,どこ置いたっけ？,Where did you leave?,0.375
-This isn't it.,全然違った…｡,It was totally different ....,0.2222222222222222
-July 9th.,７月９日｡,July 9th.,1.0
-Why would he want me to listen to it now?,《何で 今頃このテープを？》,"""Why do this tape now?""",0.2
-This is when the UFO showed up.,《ここでＵＦＯが…》,"""UFO here ...""",0.08333333333333333
-Wh-Why is there static?,な 何だ？ このノイズ!?,What is it?This noise!?,0.2
-"Mu, I really think...",[ﾃｰﾌﾟ]ムッちゃん 俺 今なんとなく➡,[Tape] Much-chan,0.0
-I believe I can make it to the moon.,月に行くような気がしたよ｡,I felt like I went to the moon.,0.4166666666666667
-H-He beat me to it!,《先に言われた！》,"""I was told ahead!""",0.08333333333333333
-"If you're going to the moon,",[ﾃｰﾌﾟ]お前が月に行くんなら➡,[Tape] If you go to the moon,0.4166666666666667
-going to Mars.,火星に行くよ！,I will go to Mars!,0.25
-T-Ten thousand?!,い １万だと？ふざけるな!!,"Is it 10,000?Do not be silly!!",0.18181818181818182
-"Uh, actually, it's fifteen thousand yen.",いや あの…１万５千円です｡,"That's ... 5,000 yen.",0.25
-And though it wasn't meant to be...,叶わぬ夢とはわかってるけど…➡,I know that it is a dream that does not come true ...,0.10526315789473684
-I ended up quitting another job.,《結局 また仕事辞めてしまった》,"""After all, I have quit work again""",0.0625
-Hurry up! Hurry up!,≪早く来いよ！早く早く！≫,"«Come early!hurry, hurry!»",0.25
-Welcome home.,おけ～りっ！,Own!,0.0
-Why would JAXA send me anything?,何でＪＡＸＡが 俺宛てに？,What JAXA is to me?,0.3
-"Come soon, Mu.",《早く来いよ ムッちゃん！》,"""Come soon!""",0.25
-This Week's Space Photo,パンパカパ－ン！,Pampacaper!,0.0
-"Every week, we'll present photographs",まもなく宇宙に行く,I will go to space soon,0.0
+en_text,jp_text,google_translated,score,semantic_score
+"And on July 9th, 2006... sunday, july 9th 2006",＜そして2006年７月９日＞,"<And July 9, 2006>",0.3636363636363637,0.76736903
+we brothers were...,僕達兄弟は…＞,Opportunity is ...>,0.14285714285714285,0.21988028
+I'm going to explore farther out than last time.,俺は前回より先を調査する！,I will investigate ahead of last time!,0.1875,0.31411773
+"Mu, over here! Quick!",ムッちゃん こっち来いよ！早く！,Much-chan come here!quickly!,0.2222222222222222,0.4628548
+"Hurry up, Mu!",早く来いってば！ムッちゃん！,If you come early!Mucchan!,0.1,0.58199847
+P-Put me down...,はなして～！,Has!,0.0,0.16542733
+Hibito! Come on...,日々人 お前な～！あ？,Daily day!Ah?,0.1111111111111111,0.16568707
+Oh... What's it doing?,うわあ！なんだよ｡,Wow!what is it.,0.18181818181818185,0.2990568
+I-It went to the moon?,つ 月…行った？,Moon ... went there?,0.375,0.8012443
+"Next spring, we will be heading to the moon.",来年の春 我々は月へ旅立ちます｡,Spring next year we will travel to the moon.,0.6153846153846154,0.920102
+"Yes, please don't worry.",コホン！え～ご心配なく｡,Chohon!Eh ~ Don't worry.,0.3636363636363637,0.42663288
+"Excuse me, could you let go of the mic?",すいません マイク持たないで｡,I'm sorry I do not have a microphone.,0.0,0.6319139
+"I, Nanba Mutta, lost my job with an automobile manufacturer.",晴れて自動車開発会社を退職＞,Sunny and retiring a car develop company>,0.0,0.3960958
+"Naturally, I was fired immediately.",＜もちろん一発退場＞,<Of course there is one shot>,0.0,0.1913521
+Please take care then.,では お気をつけて｡,"Well, please be careful.",0.2222222222222222,0.43446183
+What am I supposed to do with all these boxes?,どうすんだ？この荷物｡,What is it?This luggage.,0.125,0.22874595
+Unemployed...,無職かぁ…アハハ｡,No job ... Ahaha.,0.16666666666666666,0.63441306
+I'll cry when I get home.,帰ったら泣こう…｡,I will cry when I get home ....,0.6666666666666666,0.8934863
+"Mutta, dinner's ready!",六太～ごはん～！,Rokkata-rice!,0.14285714285714285,0.50012416
+"Yeah, I'm coming...",グア…あ…今いく｡,Good ... Oh ... now.,0.1,0.26308107
+I'm off!,いってきます｡,See you.,0.0,0.2673493
+But why would you headbutt your supervisor?,でも どうして頭突きなどを？,But why do you have a clerk?,0.3333333333333333,0.44008696
+I doubt I'll ever work for an auto company again.,戻れそうにない＞,I'm not going back>,0.0625,0.2148037
+"That's why... oh, i was supposed to keep it secret.",あっ！これ内緒の話だったんだ｡,Ah!It was a story of this.,0.15,0.29297954
+As if he were giving us a push...,＜まるで力をくれるように＞,<Alive to give power>,0.0,0.19362527
+He's going to the moon. but i'm all washed up...,《ちなみに僕は…もうダメです》,"""By the way, I am no good""",0.09090909090909093,0.17796151
+Where I did put it?,どこ置いたっけ？,Where did you leave?,0.375,0.38079882
+This isn't it.,全然違った…｡,It was totally different ....,0.2222222222222222,0.18834564
+July 9th.,７月９日｡,July 9th.,1.0,1.0000001
+Why would he want me to listen to it now?,《何で 今頃このテープを？》,"""Why do this tape now?""",0.2,0.421391
+This is when the UFO showed up.,《ここでＵＦＯが…》,"""UFO here ...""",0.08333333333333333,0.71159333
+Wh-Why is there static?,な 何だ？ このノイズ!?,What is it?This noise!?,0.2,0.162716
+"Mu, I really think...",[ﾃｰﾌﾟ]ムッちゃん 俺 今なんとなく➡,[Tape] Much-chan,0.0,0.16624856
+I believe I can make it to the moon.,月に行くような気がしたよ｡,I felt like I went to the moon.,0.4166666666666667,0.5088743
+H-He beat me to it!,《先に言われた！》,"""I was told ahead!""",0.08333333333333333,0.28463483
+"If you're going to the moon,",[ﾃｰﾌﾟ]お前が月に行くんなら➡,[Tape] If you go to the moon,0.4166666666666667,0.6619023
+going to Mars.,火星に行くよ！,I will go to Mars!,0.25,0.82264054
+T-Ten thousand?!,い １万だと？ふざけるな!!,"Is it 10,000?Do not be silly!!",0.18181818181818185,0.6174577
+"Uh, actually, it's fifteen thousand yen.",いや あの…１万５千円です｡,"That's ... 5,000 yen.",0.25,0.84272766
+And though it wasn't meant to be...,叶わぬ夢とはわかってるけど…➡,I know that it is a dream that does not come true ...,0.10526315789473684,0.2717525
+I ended up quitting another job.,《結局 また仕事辞めてしまった》,"""After all, I have quit work again""",0.0625,0.56416595
+Hurry up! Hurry up!,≪早く来いよ！早く早く！≫,"«Come early!hurry, hurry!»",0.25,0.47444463
+Welcome home.,おけ～りっ！,Own!,0.0,0.22400981
+Why would JAXA send me anything?,何でＪＡＸＡが 俺宛てに？,What JAXA is to me?,0.3,0.71570456
+"Come soon, Mu.",《早く来いよ ムッちゃん！》,"""Come soon!""",0.25,0.5180556
+This Week's Space Photo,パンパカパ－ン！,Pampacaper!,0.0,0.20830043
+"Every week, we'll present photographs",まもなく宇宙に行く,I will go to space soon,0.0,0.22285327

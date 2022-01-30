@@ -1,349 +1,349 @@
-en_text,jp_text,google_translated,score
-i\Nn\N \Np\Nr\No\Ng\Nr\Ne\Ns\Ns,はあ はあ はあ…,Has Ah!,0.0
-"Well then, before we begin the meeting, I'll take the attendance.",それでは 会議に先立って出席を取ります,Then take attendance prior to the meeting,0.3333333333333333
-Tayune.,たゆね,Yun,0.0
-Gokyouya.,ごきょうや,Gang,0.0
-Tensou.,てんそう てんそう？,Don't transfer?,0.0
-"Yes, I'm here.",はい います,"Yes, I'm here",0.8333333333333334
-Furano.,フラノ,Furano,0.5
-"Yes, yes.",はい はーい,Yes,0.3333333333333333
-Imari. Sayoka.,いまり さよか,Good luck,0.0
-Tomohane.,ともはね,Splash,0.0
-1...,１ ２ ３ ４ ５ ６ ７ ８ ９…,1 2 3 4 5 6 7 8 9 ...,0.2
-9...,ということは…,That's why ...,0.2
+en_text,jp_text,google_translated,score,semantic_score
+i\Nn\N \Np\Nr\No\Ng\Nr\Ne\Ns\Ns,はあ はあ はあ…,Has Ah!,0.0,0.08132585
+"Well then, before we begin the meeting, I'll take the attendance.",それでは 会議に先立って出席を取ります,Then take attendance prior to the meeting,0.3333333333333333,0.8130721
+Tayune.,たゆね,Yun,0.0,0.40463132
+Gokyouya.,ごきょうや,Gang,0.0,0.15774935
+Tensou.,てんそう てんそう？,Don't transfer?,0.0,0.14231083
+"Yes, I'm here.",はい います,"Yes, I'm here",0.8333333333333334,0.94502795
+Furano.,フラノ,Furano,0.5,0.9741422
+"Yes, yes.",はい はーい,Yes,0.3333333333333333,0.69740367
+Imari. Sayoka.,いまり さよか,Good luck,0.0,0.09141906
+Tomohane.,ともはね,Splash,0.0,0.23893955
+1...,１ ２ ３ ４ ５ ６ ７ ８ ９…,1 2 3 4 5 6 7 8 9 ...,0.2,0.38387188
+9...,ということは…,That's why ...,0.2,0.10588934
 Sheesh. Why is she always like this?,"全く… あの子はどうして
 いつも いつも…","At all ... Why is that girl
-Always she always ...",0.2857142857142857
-For being late.,ふん！,Hmm!,0.0
+Always she always ...",0.2857142857142857,0.5599711
+For being late.,ふん！,Hmm!,0.0,0.17831983
 "You don't understand the\Nmeaning of teamwork, do you?","なでしこ あなたは 集団行動というものを
 全く分かっていないようですわね","Nadeshiko you are collective action
-It seems that you don't know at all",0.15789473684210525
+It seems that you don't know at all",0.15789473684210525,0.3963606
 "I'm sorry, it's because I suddenly\Nreceived a phone call from Kaoru-sama.","すみません 薫様からの
 お電話だったものですから…","Excuse me
-Because it was a phone call ...",0.2777777777777778
-What?!,ええ？,Yes?,0.25
-From Kaoru-sama...?,薫様から… な… なぜ いつもあなただけ,From Soya ... Nome ... Why are you only you,0.2
-"Yes, ma'am. I'm truly sorry.",はい すみませんでした…,Yes I'm sorry ...,0.4444444444444444
+Because it was a phone call ...",0.2777777777777778,0.38457724
+What?!,ええ？,Yes?,0.25,0.2946257
+From Kaoru-sama...?,薫様から… な… なぜ いつもあなただけ,From Soya ... Nome ... Why are you only you,0.2,0.4067107
+"Yes, ma'am. I'm truly sorry.",はい すみませんでした…,Yes I'm sorry ...,0.4444444444444444,0.55044055
 "Well then, the client for this job is my brother.","さて 今回のお仕事の依頼人は
 わたくしの兄です","By the way, the client of this work is
-It is a brother of my brother",0.3888888888888889
-What for?,どういうこと？,What do you mean?,0.3333333333333333
+It is a brother of my brother",0.3888888888888889,0.7745646
+What for?,どういうこと？,What do you mean?,0.3333333333333333,0.23846708
 "To be precise, I've received a request from Kaoru-sama.","正確には 薫様から私に
 お話があったのです","To be precisely from Somizuki
-There was a story",0.23529411764705882
-Onii-sama?,はけ様？,Is it?,0.25
-This is Kaoru-sama's message:,薫様からのご伝言です,It is a message from Yoshio,0.2
-Kaoru-sama,うわああ…,Wow ...,0.0
+There was a story",0.2352941176470588,0.1761338
+Onii-sama?,はけ様？,Is it?,0.25,0.15638012
+This is Kaoru-sama's message:,薫様からのご伝言です,It is a message from Yoshio,0.2,0.47318006
+Kaoru-sama,うわああ…,Wow ...,0.0,0.15540206
 """This job, please take care of it together.","“今度の仕事は
 あなた達だけで頑張るように","""This job is
-As you will do our best only",0.15789473684210525
-"I'm counting on everyone.""",期待しているよ” とのことでした,I'm expecting it.,0.3333333333333333
-Just leave it to us!,お任せ下さい！,Please leave it to me!,0.5
-I'll do my best!,頑張りまーす！,I will do my best!,0.7142857142857143
-What is it?,何ですって？,What's that?,0.3333333333333333
-Nadeshiko!,やめなさい たゆね！,I'm sorry!,0.2
-You say that every time...!,あの… せんだん,That ...,0.2857142857142857
-"Yeah, she always stays home.",いっつも留守番だもんねえ,I'm also an answering machine,0.0
+As you will do our best only",0.15789473684210525,0.63154066
+"I'm counting on everyone.""",期待しているよ” とのことでした,I'm expecting it.,0.3333333333333333,0.25577167
+Just leave it to us!,お任せ下さい！,Please leave it to me!,0.5,0.7285155
+I'll do my best!,頑張りまーす！,I will do my best!,0.7142857142857143,0.9344727
+What is it?,何ですって？,What's that?,0.3333333333333333,0.55548656
+Nadeshiko!,やめなさい たゆね！,I'm sorry!,0.2,0.19517808
+You say that every time...!,あの… せんだん,That ...,0.2857142857142857,0.3537336
+"Yeah, she always stays home.",いっつも留守番だもんねえ,I'm also an answering machine,0.0,0.07333434
 All right. Do as you want.,"なでしこ！ あんた そうやって
 いっつも いっつも！","Pink!I will do it
-At all!",0.15384615384615385
-"Thank you, Sendan.",ありがとう せんだん,Thank you very much,0.2857142857142857
+At all!",0.15384615384615385,0.26885167
+"Thank you, Sendan.",ありがとう せんだん,Thank you very much,0.2857142857142857,0.30812228
 "To meet Kaoru-sama's faith in us, we have to make this job a success at all costs.","今回のお仕事は
 何としても成功させねばなりません","This job is
-I have to succeed as anything",0.16666666666666666
-I truly don't know... how to comment...,「水着でたいじっ！」,"""I'm going to swims!""",0.13333333333333333
+I have to succeed as anything",0.16666666666666666,0.4761911
+I truly don't know... how to comment...,「水着でたいじっ！」,"""I'm going to swims!""",0.13333333333333333,0.15159102
 "The moment she found the erotic magazines under my bed, she suddenly went into a rage.","ベッドの下にエロ本見つけただけで
 いきなり大暴れ…","Just found erotic books under the bed
-Suddenly big rampage ...",0.2857142857142857
-It's not even a big deal.,別にいいじゃねえか そんくらい,It's not good enough,0.3
-"Just a moment, okay.",もーちょっと待っててねえー,Well waiting for a while,0.1
+Suddenly big rampage ...",0.2857142857142857,0.5994408
+It's not even a big deal.,別にいいじゃねえか そんくらい,It's not good enough,0.3,0.26437065
+"Just a moment, okay.",もーちょっと待っててねえー,Well waiting for a while,0.1,0.4294135
 "Normally, you prepare a meal after you clean up, right?","はあ… 普通
 部屋を片付けてから飯だろ？","Has ... normal
-Is it rice after cleaning the room?",0.1
+Is it rice after cleaning the room?",0.1,0.49705726
 "I just wanted an obedient inukami, who's able to do some housework.","人並みに家事ができて
 それなりに従順な犬神が欲しい！","People can do housework
-I want a reasonable dog god to be so",0.16666666666666666
+I want a reasonable dog god to be so",0.16666666666666666,0.39042413
 That's all I wanted...,"そういう基本的なことが
 全くできてないんだよ あいつ…","That basic thing
-I have not done at all ...",0.3333333333333333
-"Keita, thanks for waiting.",啓太 お待たせー！,Keita kept waiting!,0.25
+I have not done at all ...",0.3333333333333333,0.15560691
+"Keita, thanks for waiting.",啓太 お待たせー！,Keita kept waiting!,0.25,0.74227166
 "Huh, but it tastes better when you cook.","えー だって
 啓太が作ったほうがおいしいもん","Eh
-It is better to make Keita",0.13333333333333333
-Why don't you clean up the room or something?,部屋の掃除とか しませんかね？,Do you not clean the room?,0.5
-"But when Keita does it, it's so much cleaner.",だって 元はといえば啓太のせいだもん！,"Because of the former, it's because of the crisp!",0.17647058823529413
+It is better to make Keita",0.13333333333333333,0.28848693
+Why don't you clean up the room or something?,部屋の掃除とか しませんかね？,Do you not clean the room?,0.5,0.7843949
+"But when Keita does it, it's so much cleaner.",だって 元はといえば啓太のせいだもん！,"Because of the former, it's because of the crisp!",0.17647058823529413,0.27865496
 I think you should at least clean up your own mess...,"自分が散らかした分ぐらいは
 自分で片付けるべきじゃないかなあ","About the minute I was scattered
-I should not get up myself",0.15
+I should not get up myself",0.15,0.20449768
 Because you were hiding things like this from me.,"あたしに内緒で
 こーんなの隠し持ってるから","In secret with me
-Because I have a hidden",0.11764705882352941
-My Yukari-chan...!,ああーっ！ 俺のゆかりちゃんがああー！,Oh!My Yukari-chan!,0.6
-"Well then, thanks for the meal.",ふう それじゃあ いただきまーす！,"Well then, I have received it!",0.23076923076923078
-What? What is it?,どうよ？,How is it?,0.6
-What are you guys talking about?,何 何？ 何の話？,What?What are you talking about?,0.8571428571428571
-"Well then, about this job...",さて 今回のお仕事ですが…,Well this time ...,0.375
+Because I have a hidden",0.1176470588235294,0.4576749
+My Yukari-chan...!,ああーっ！ 俺のゆかりちゃんがああー！,Oh!My Yukari-chan!,0.6,0.92688733
+"Well then, thanks for the meal.",ふう それじゃあ いただきまーす！,"Well then, I have received it!",0.2307692307692308,0.397546
+What? What is it?,どうよ？,How is it?,0.6,0.43683684
+What are you guys talking about?,何 何？ 何の話？,What?What are you talking about?,0.8571428571428571,0.64167154
+"Well then, about this job...",さて 今回のお仕事ですが…,Well this time ...,0.375,0.29528183
 We've been asked to destroy a suspicious spirit that's been haunting the Water Garden indoor swimming pool.,"室内型温水プール・ウォーターガーデンに
 出没する妖の者を退治してほしいとのことです","In indoor type hot water pool and water garden
-It is said that I want you to get rid of the thorns that are out",0.2
+It is said that I want you to get rid of the thorns that are out",0.2,0.4566743
 "Oh, I know that place.","そこ 知ってます
 この前できたばかりの所ですね","I know there
-It is a place just before this",0.21428571428571427
+It is a place just before this",0.21428571428571427,0.55017835
 It's the place that just opened recently.,"そう ですが オープン当初から
 霊的な現象が多発しているらしいの","That's right but from the beginning
-It seems that the spiritual phenomenon has many",0.2222222222222222
-"My, that is troublesome.",しかるのちに これを撃退します,After that we will repel this,0.09090909090909091
-Yay! We have the whole pool to ourselves!,わーい プール！ プール貸し切りー！,Wow pool!Swimming pool lending!,0.16666666666666666
-"Tomohane, we're here for work.",ともはね 仕事だぞ,Tomo no work,0.1
+It seems that the spiritual phenomenon has many",0.2222222222222222,0.1236114
+"My, that is troublesome.",しかるのちに これを撃退します,After that we will repel this,0.09090909090909093,0.1315919
+Yay! We have the whole pool to ourselves!,わーい プール！ プール貸し切りー！,Wow pool!Swimming pool lending!,0.16666666666666666,0.6010004
+"Tomohane, we're here for work.",ともはね 仕事だぞ,Tomo no work,0.1,0.5410265
 "Well then, what should we do?","じゃあ じゃあ
 私達は何をすればいいの？","Well then
-What should we do?",0.875
+What should we do?",0.875,0.953848
 "Please refrain from acting on your own, understood?","勝手な行動は慎むように
 分かりましたね？","Let's refresh the selfish behavior
-You understood?",0.11764705882352941
-"Hey, Keita!",おおおーっ！,"Oh, oh!",0.4
-Hurry! Hurry!,ほら啓太 早く早くう！,Hotto quickly!,0.25
-But today's a regular holiday...,早くって言ったって 今日は定休日じゃ…,"Today, today is a regular holiday ...",0.5555555555555556
-You want it?,んふっ どう？ 欲情した？,How is it?Did you lose?,0.375
+You understood?",0.1176470588235294,0.45269755
+"Hey, Keita!",おおおーっ！,"Oh, oh!",0.4,0.2596793
+Hurry! Hurry!,ほら啓太 早く早くう！,Hotto quickly!,0.25,0.449445
+But today's a regular holiday...,早くって言ったって 今日は定休日じゃ…,"Today, today is a regular holiday ...",0.5555555555555556,0.8814312
+You want it?,んふっ どう？ 欲情した？,How is it?Did you lose?,0.375,0.11433731
 I'm coming! I'm coming!,"あ ああ… きた…
 きた きた きた きた… きたああー！","Oh yeah ... I got ...
-I've been there ... I'm sorry!",0.25
-Shuku--,しゅく…,accommodation…,0.0
-Hurray!,たあーい！,Oh!,0.3333333333333333
+I've been there ... I'm sorry!",0.25,0.29320624
+Shuku--,しゅく…,accommodation…,0.0,0.13256222
+Hurray!,たあーい！,Oh!,0.3333333333333333,0.4323552
 Viva pool!,"あーははっ！ ほーい！ ビバ プール！
 ビバ水着ー ビバ女体ー！","Ah!Hey!Viva Pool!
-Viva swimsuit Biba woman",0.375
+Viva swimsuit Biba woman",0.375,0.6780864
 "Oh? I was wondering who all these familiar faces were,","ああ どっかで見たと思ったら10人いないと
 なんにもできない弱虫な犬神さん達じゃない","Oh, if I thought I saw it somewhere
-It is not a lewd dog god who can not do anything",0.15384615384615385
-What did you say?!,何だと！,What did you say!,0.8333333333333334
+It is not a lewd dog god who can not do anything",0.15384615384615385,0.06861193
+What did you say?!,何だと！,What did you say!,0.8333333333333334,0.8924539
 "Oh, I'm so sorry.","あっ ごめんなさーい 今日は８人だから
 さらに なんにもできないわねえ","I'm sorry I'm 8 people today
-Furthermore, she can not do anything",0.25
+Furthermore, she can not do anything",0.25,0.33231795
 "So, what brings you here today?","それで？ なぜ
 あなたが ここにいるのかしら？","So?why
-Do you have she here?",0.3333333333333333
+Do you have she here?",0.3333333333333333,0.34412482
 We received a request to destroy a strange spirit.,"仕事よ このプールに出る
 変なのを退治してくれって依頼があってね","Working on this pool
-There is a request to defeat strange things",0.23529411764705882
-Then it's the same as us.,それじゃ 僕達と同じじゃないか,"Well then, it is not the same as us",0.5
-What's this?,何これ？,What's this?,1.0
-It's dissolving my clothes...!,服が溶けちゃうよお！,The clothes will melt!,0.2
+There is a request to defeat strange things",0.2352941176470588,0.46511424
+Then it's the same as us.,それじゃ 僕達と同じじゃないか,"Well then, it is not the same as us",0.5,0.8842448
+What's this?,何これ？,What's this?,1.0,1.0000001
+It's dissolving my clothes...!,服が溶けちゃうよお！,The clothes will melt!,0.2,0.47456086
 "Everyone, calm down!","みんな 落ち着きなさい！
 それでも薫様の犬神ですか！","Everybody calms down!
-Still, is it a Sakami Sagami?",0.21428571428571427
-"You guys are useless, even\Nthough there's eight of you.",だらしないのね ８人もいるのに,There are 8 people who are alone,0.13333333333333333
-"Youko, let's go!",ようこ 行くぞ！,I will go to work!,0.2
+Still, is it a Sakami Sagami?",0.21428571428571427,0.40306616
+"You guys are useless, even\Nthough there's eight of you.",だらしないのね ８人もいるのに,There are 8 people who are alone,0.13333333333333333,0.4698604
+"Youko, let's go!",ようこ 行くぞ！,I will go to work!,0.2,0.27106556
 In the name of the wise ruler of Hakusan...,"白山名君の名において命ず
 カエルよ 燃え上がれーっ！","I do not order in the name of Hakusan name
-Frog Burning up!",0.3125
-...burn!,うん！,Yes!,0.25
-"Now's your chance, Youko!",今だ！ ようこ！,now!Good morning!,0.2222222222222222
-Leave it to me!,任せて！,Leave it to me!,1.0
-Dai Jaen!,だいじゃえーん！,Daisuja!,0.25
+Frog Burning up!",0.3125,0.47673574
+...burn!,うん！,Yes!,0.25,0.20272559
+"Now's your chance, Youko!",今だ！ ようこ！,now!Good morning!,0.2222222222222222,0.31812146
+Leave it to me!,任せて！,Leave it to me!,1.0,1.0000002
+Dai Jaen!,だいじゃえーん！,Daisuja!,0.25,0.7000437
 "I'm Kaoru's cousin, Kawahira Keita.","俺 薫のいとこの川平啓太！
 よろしくうー！","I am a good morning and Kawahira this Kawahira!
-Yeah yeah!",0.11764705882352941
-Nice to meet you.,ん んふ,Mt.,0.16666666666666666
-No!,ねっ お友達！,Neko friends!,0.25
-Keita...,啓太ー…,Keito ...,0.3333333333333333
-You don't have to improve that!,そんなの… 深めなくていい,Such ... I don't have to deepen,0.3333333333333333
-"The request was made by the pool's manager personally, so I neglected to reconfirm.",なるほど 依頼が重複していたわけですね,The request was duplicated.,0.23529411764705882
+Yeah yeah!",0.1176470588235294,0.4935849
+Nice to meet you.,ん んふ,Mt.,0.16666666666666666,0.2098191
+No!,ねっ お友達！,Neko friends!,0.25,0.27289882
+Keita...,啓太ー…,Keito ...,0.3333333333333333,0.8622085
+You don't have to improve that!,そんなの… 深めなくていい,Such ... I don't have to deepen,0.3333333333333333,0.3907646
+"The request was made by the pool's manager personally, so I neglected to reconfirm.",なるほど 依頼が重複していたわけですね,The request was duplicated.,0.2352941176470588,0.45271766
 It's not your fault.,"お前のせいじゃねえよ
 ちょっとしたミスだ","You're not your fault
-It is a little mistake",0.3333333333333333
-But those girls won't be content to let it go at that.,でも… あいつらは納得しねえだろうな,But ... A guy will be convinced,0.10526315789473684
-Manager!,社長さん！,boss!,0.3333333333333333
-What's the meaning of this?,これは いったい どういうことですか！,What does this mean?,0.3333333333333333
+It is a little mistake",0.3333333333333333,0.77500695
+But those girls won't be content to let it go at that.,でも… あいつらは納得しねえだろうな,But ... A guy will be convinced,0.10526315789473684,0.3599263
+Manager!,社長さん！,boss!,0.3333333333333333,0.59095484
+What's the meaning of this?,これは いったい どういうことですか！,What does this mean?,0.3333333333333333,0.76660264
 That's my line!,"それは こっちのセリフ！ 私達は直接
 社長さんから依頼されたんだから！","It's a line here!We are directly
-Because I was asked by the president!",0.16666666666666666
+Because I was asked by the president!",0.16666666666666666,0.41182813
 We personally received the request from you!,"なぜ わたくし達以外の犬神が
 ここにいるのですか！","Why the dog god other than me
-Are you here!",0.1875
+Are you here!",0.1875,0.1559732
 "Well, umm... About that...","い いやあ それが その…
 えー なんと言いましょうかー…","No, that is ...
-Eh What do you say ...",0.23076923076923078
-How should I put it...,ひどいと思います…,I think it is awful ...,0.3333333333333333
-Fraud!,詐欺よ！,Fraud!,1.0
-I-I'm sorry.,呪ってやるうー,I'm cursed,0.16666666666666666
+Eh What do you say ...",0.2307692307692308,0.50828123
+How should I put it...,ひどいと思います…,I think it is awful ...,0.3333333333333333,0.13265902
+Fraud!,詐欺よ！,Fraud!,1.0,0.99999964
+I-I'm sorry.,呪ってやるうー,I'm cursed,0.16666666666666666,0.29743844
 "Well, are you saying you didn't trust us?","では 我々が信用できなかったと
 そう仰るのですか？","So if we could not trust
-Do you say that?",0.16666666666666666
+Do you say that?",0.16666666666666666,0.804544
 "Well, I can understand his feelings.","ふーん まっ その気持ちは
 分からなくないけどお","The feeling of the fence
-I can not understand",0.23076923076923078
-"Well, umm...",つい間違えて 啓太様のほうにも…,The mistake is a mistake ...,0.125
-"It's really hard to tell you this, but I made a mistake by calling you.",間違って連絡してしまいまして,I will contact you by mistake,0.21052631578947367
-What?,は？,teeth?,0.3333333333333333
-Shut up!,やーい やーい！,Yaito!,0.25
+I can not understand",0.2307692307692308,0.2722022
+"Well, umm...",つい間違えて 啓太様のほうにも…,The mistake is a mistake ...,0.125,0.2327126
+"It's really hard to tell you this, but I made a mistake by calling you.",間違って連絡してしまいまして,I will contact you by mistake,0.21052631578947367,0.4880132
+What?,は？,teeth?,0.3333333333333333,0.18975602
+Shut up!,やーい やーい！,Yaito!,0.25,0.24654149
 But it was all thanks to me that the enemy has been defeated!,"うるさーい！
 でも 敵を倒したのは私の力！","Urusa!
-But my power was killed!",0.16666666666666666
+But my power was killed!",0.16666666666666666,0.37746242
 That doesn't change the fact\Nthat you guys are incompetent!,"あんた達が無能ってことに
 変わりないでしょ！","Antow is not possible
-It does not change!",0.1875
-"What, you want to fight?",何よ やる気？,What do you do?,0.375
-I'm truly sorry.,ふう やっぱり揉めてるなあ,I'm going to give up,0.2222222222222222
+It does not change!",0.1875,0.24147132
+"What, you want to fight?",何よ やる気？,What do you do?,0.375,0.28991586
+I'm truly sorry.,ふう やっぱり揉めてるなあ,I'm going to give up,0.2222222222222222,0.25031468
 "In Youko's case, taking physical measures is an option.","ようこの場合 物理的な手段を執るのも
 選択肢の１つだと思いますが","Like this in this case, it is also possible to take a physical means
-I think it is one of the options",0.18518518518518517
-That's impossible.,力ずくってかあ？ 無理無理,Are you doing it?That's impossible,0.3333333333333333
+I think it is one of the options",0.1851851851851852,0.48201594
+That's impossible.,力ずくってかあ？ 無理無理,Are you doing it?That's impossible,0.3333333333333333,0.63511324
 "This month, I spent more days in the holding cell than in my own home...","知ってるだろ？ 今月なんて自宅より
 留置所に泊まった日のほうが多いんだぜ…","Do you know?What is this month from home
-There are many days when I stayed at the stool ...",0.23333333333333334
-How unfortunate...,それは また…,That's again ...,0.16666666666666666
-What if...,例えば… ああ…,For example ... ah ...,0.16666666666666666
-Keita-sama?,啓太様？,Keizawa?,0.3333333333333333
+There are many days when I stayed at the stool ...",0.2333333333333333,0.43036413
+How unfortunate...,それは また…,That's again ...,0.16666666666666666,0.1442617
+What if...,例えば… ああ…,For example ... ah ...,0.16666666666666666,0.2520584
+Keita-sama?,啓太様？,Keizawa?,0.3333333333333333,0.46504647
 I have no choice but to endure this!,"やっぱり俺は耐えるしかないんだ！
 この地獄のような暴力の日々に…","After all I have no choice but to endure!
-On the day of violence like this hell ...",0.47368421052631576
-Keita-sama.,啓太様,Leopardy,0.0
-Do you want to hear it?,聞きたい？,I want to hear?,0.5
-Do you want to hear my suggestion?,俺の考え聞きたい？,Want to hear my thoughts?,0.5555555555555556
-"W-Well, sure...",えっ ええ まあ…,Eh yeah ...,0.16666666666666666
+On the day of violence like this hell ...",0.4736842105263158,0.73837554
+Keita-sama.,啓太様,Leopardy,0.0,0.22263424
+Do you want to hear it?,聞きたい？,I want to hear?,0.5,0.617589
+Do you want to hear my suggestion?,俺の考え聞きたい？,Want to hear my thoughts?,0.5555555555555556,0.5839835
+"W-Well, sure...",えっ ええ まあ…,Eh yeah ...,0.16666666666666666,0.3707736
 "In other words, let's get a smart inukami that can do general housework.","見本を見せるんだよ！
 つまり 家事全般こなせて 頭もよくて","I show a sample!
-In other words, the house making is all the head and the head is good",0.17857142857142858
+In other words, the house making is all the head and the head is good",0.17857142857142858,0.3329674
 "This is the most important part, we have to find a really obedient inukami somewhere.","何よりここが重要なんだけど すごーく従順な
 犬神をどっかから借りてくるんだよ！","Anything is important here, but it's great
-I borrow a dog god from somewhere!",0.1724137931034483
-"""Somewhere""?",どこかからって… どこからです？,Somewhere ... Where are you from?,0.2222222222222222
-"Well, I'll leave that part to you.",そこら辺はお前に任せっからさあ,I leave it in front of you,0.21428571428571427
+I borrow a dog god from somewhere!",0.1724137931034483,0.23206687
+"""Somewhere""?",どこかからって… どこからです？,Somewhere ... Where are you from?,0.2222222222222222,0.55660903
+"Well, I'll leave that part to you.",そこら辺はお前に任せっからさあ,I leave it in front of you,0.21428571428571427,0.46104577
 "And that might lead Youko into following her example, don't you think?","そしたらさ ようこも少しはそいつを
 見習うようになるかもしんねえだろ？","Thank you very much
-You might be an apprentice?",0.14285714285714285
+You might be an apprentice?",0.14285714285714285,0.09661108
 "Oh yeah. If possible, I think it would be\Nbetter if it's a really cute female inukami.","いひ あ！ できれば とびっきり可愛い
 女の子の犬神がいいと思うんだよなあ","Perhaps!If possible, it's pretty cute
-I think the girl's dog god is good",0.3076923076923077
-Why's that?,なぜです？,why?,0.5
-R-Really?!,ほ ほんとにっ？,Honeful?,0.25
-I think it's a good idea.,ええ さすが啓太様 名案だと思います,I think it is a high-hearted man,0.36363636363636365
-"Well then, I'll be going now.",では 私はこれで…,Then I am this ...,0.16666666666666666
+I think the girl's dog god is good",0.3076923076923077,0.48535195
+Why's that?,なぜです？,why?,0.5,0.6839106
+R-Really?!,ほ ほんとにっ？,Honeful?,0.25,0.11690604
+I think it's a good idea.,ええ さすが啓太様 名案だと思います,I think it is a high-hearted man,0.3636363636363637,0.22601008
+"Well then, I'll be going now.",では 私はこれで…,Then I am this ...,0.16666666666666666,0.3436486
 "Well Sendan, that's how it is.","まあね… じゃあ せんだん
 そういうことで","Well ... that's not
-By such a thing",0.2
+By such a thing",0.2,0.2711938
 What do you mean you won't accept the payment?,"お待ちなさい！ 報酬を
 受け取らないとは どういうことですか","Please wait!Remuneration
-What does it mean if you do not receive it",0.21052631578947367
+What does it mean if you do not receive it",0.21052631578947367,0.45546156
 I'm giving it to you guys since I don't want it.,"どうもこうもないわよ いらないから
 あんた達にあげるって言ってるの","I do not know anything
-I'm saying that I will give you",0.21052631578947367
+I'm saying that I will give you",0.21052631578947367,0.36830238
 I refuse to take money for a job we got by mistake.,"間違ってきた仕事のお金なんて
 こっちから願い下げよ","What a mistake of work
-Wish down from here",0.1
+Wish down from here",0.1,0.4034208
 Are you trying to pick a fight with me?,"私とやるつもり？
 ほんと 馬鹿ばっかだね","Are you going with me?
-It's really stupid",0.3333333333333333
-Bring her with you the next time we meet.,今度来る時は あの子も連れてきなさい,"When you come next time, bring that child too",0.25
-Well then.,ふっ それじゃ…,Well then ...,0.5
-Why the hell did you decide that on your own?!,おい ようこ！ 何 勝手に決めてんだよ！,Good morning!I have decided on my own!,0.16666666666666666
+It's really stupid",0.3333333333333333,0.46536815
+Bring her with you the next time we meet.,今度来る時は あの子も連れてきなさい,"When you come next time, bring that child too",0.25,0.5218898
+Well then.,ふっ それじゃ…,Well then ...,0.5,0.85743994
+Why the hell did you decide that on your own?!,おい ようこ！ 何 勝手に決めてんだよ！,Good morning!I have decided on my own!,0.16666666666666666,0.37905762
 "Not to mention, we're not finished with this job yet either!","ガスだって 水道だって それに
 この仕事はまだ終わったわけじゃなく…","It is a water and it is a water supply
-This job is not over yet ...",0.19047619047619047
+This job is not over yet ...",0.19047619047619047,0.25702992
 You stupid dog!,"うわっ はあーっ！ はっ！
 この馬鹿犬ううー！","Wow!Hey!
-This stupid dog is!",0.375
-I'm curious about something....,ちょっと気になることがあるのですが…,I'm a little worried about ...,0.4
+This stupid dog is!",0.375,0.6182941
+I'm curious about something....,ちょっと気になることがあるのですが…,I'm a little worried about ...,0.4,0.43543264
 W-What did you say?!,"お前 だいじゃえんで
 相手を蒸発させただろ？","I'm sorry
-Did you evaporate the other party?",0.23076923076923078
-What do you mean by that?!,どういうことよ！,What does it mean!,0.3
+Did you evaporate the other party?",0.2307692307692308,0.19788454
+What do you mean by that?!,どういうことよ！,What does it mean!,0.3,0.4285691
 Steam will return to water once it condenses.,"でも水蒸気は冷めたら
 また水に戻るわけで","But if water vapor cools
-In addition, I return to water",0.17647058823529413
-"If that happens, there's a possibility that the enemy...",そうなると もしかしたら敵は…,"If you do so, the enemy is ...",0.3333333333333333
+In addition, I return to water",0.17647058823529413,0.6463206
+"If that happens, there's a possibility that the enemy...",そうなると もしかしたら敵は…,"If you do so, the enemy is ...",0.3333333333333333,0.58472085
 "If you knew that, why didn't you tell me sooner?!","って 分かってたなら
 どうして早く言わないのよ！","If you understand it
-Why don't say quickly!",0.2777777777777778
-Idiot! Idiot!,啓太の馬鹿 馬鹿 馬鹿 馬鹿…！,A foolish foolish idiot ...!,0.4
-This time Midori-chan has...!,今度はみどりちゃんがああー！,"This time, Midori-chan Oh!",0.5
-Like I care!,知らないっ！,I do not know!,0.2857142857142857
+Why don't say quickly!",0.2777777777777778,0.435515
+Idiot! Idiot!,啓太の馬鹿 馬鹿 馬鹿 馬鹿…！,A foolish foolish idiot ...!,0.4,0.61651725
+This time Midori-chan has...!,今度はみどりちゃんがああー！,"This time, Midori-chan Oh!",0.5,0.9019766
+Like I care!,知らないっ！,I do not know!,0.2857142857142857,0.22490859
 That's why I think there's a possibility that the enemy's still in here.,"確かに その可能性は
 十分にありますわねえ","Certainly the possibility
-There is enough",0.17647058823529413
-You're right. It's highly likely.,それって まさか…,That's right ...,0.2
-"But if we're to defeat the enemy completely, we'll need a power that can surpass Youko's dai jaen.",でも そうなると 敵を完全に倒すには,But to defeat the enemy so completely,0.2608695652173913
-Rengoku.,煉獄,Purgatory,0.0
-I understand.,分かりました ごきょうや達に連絡を！,I understand that I will contact you!,0.25
+There is enough",0.17647058823529413,0.38634402
+You're right. It's highly likely.,それって まさか…,That's right ...,0.2,0.3697207
+"But if we're to defeat the enemy completely, we'll need a power that can surpass Youko's dai jaen.",でも そうなると 敵を完全に倒すには,But to defeat the enemy so completely,0.2608695652173913,0.5208468
+Rengoku.,煉獄,Purgatory,0.0,0.24334273
+I understand.,分かりました ごきょうや達に連絡を！,I understand that I will contact you!,0.25,0.30610102
 "And as I've explained just now, we'll\Nneed all ten of us for this plan to work.","というわけで… この作戦には
 10人全員の力が必要となります","So ... in this operation
-All 10 people are required",0.07407407407407407
-I'm against fighting...,あの… 私は戦うのは…,That ... I'm fighting ...,0.6666666666666666
+All 10 people are required",0.07407407407407407,0.4844476
+I'm against fighting...,あの… 私は戦うのは…,That ... I'm fighting ...,0.6666666666666666,0.7362289
 "Like now, you never try to fight.","あなたは いつも
 そうやって戦おうとしない！","You are always
-I will not try to fight so!",0.25
-The enemy is an evil nature spirit that harms people.,敵は 人間に仇なす魑魅魍魎なのですよ！,The enemy is a jealousy of humans!,0.1875
+I will not try to fight so!",0.25,0.7249131
+The enemy is an evil nature spirit that harms people.,敵は 人間に仇なす魑魅魍魎なのですよ！,The enemy is a jealousy of humans!,0.1875,0.6548489
 "But still, we could ask it to move to a place where there's no people around.","でも… 人間のいない
 別の場所へ移住して頂くとか","But ... no human
-Move to another place",0.23809523809523808
+Move to another place",0.2380952380952381,0.6770581
 You're very persuasive when you say that.,"ふっ… あなたが言うと
 説得力がありますわねえ","Fu ... If you say
-There is persuasive power",0.21428571428571427
-It's above us!,はっ！ 上よ！,Hey!Above!,0.3333333333333333
-"Ah, please help us!",いやーん お助けー！,Help!,0.3333333333333333
+There is persuasive power",0.21428571428571427,0.5968434
+It's above us!,はっ！ 上よ！,Hey!Above!,0.3333333333333333,0.5805131
+"Ah, please help us!",いやーん お助けー！,Help!,0.3333333333333333,0.57154095
 Remember our daily training.,"落ち着きなさい！ 日々の訓練を思い出して
 二式で行きます！","calm down!Remember daily training
-I will go in the form!",0.21428571428571427
-Roger.,了解,Roger that,0.3333333333333333
-Yes. Yes.,うんうん,Yes Yes,0.5
-Now's our chance!,今です！,Now!,0.4
-A tremendous power.,煉獄… 凄まじいものです,Purgatory ... It is a great deal,0.1
+I will go in the form!",0.21428571428571427,0.60912037
+Roger.,了解,Roger that,0.3333333333333333,0.7945503
+Yes. Yes.,うんうん,Yes Yes,0.5,0.7608686
+Now's our chance!,今です！,Now!,0.4,0.55380434
+A tremendous power.,煉獄… 凄まじいものです,Purgatory ... It is a great deal,0.1,0.19628742
 "If only power is taken into account, it may be stronger than Youko's dai jaen.","威力だけなら… ようこのだいじゃえんより
 上かもしれませんね","If it is only the power ...
-It may be above",0.3333333333333333
-"Everyone, we did it!",やったねー みんな！,I did it! Everyone!,0.5714285714285714
-"Yeah, I agree.",そうそう！,Oh yeah!,0.14285714285714285
-Everyone has been trained very well.,ええ 皆 よく鍛えられています,Yes everyone is trained well,0.3333333333333333
+It may be above",0.3333333333333333,0.4866089
+"Everyone, we did it!",やったねー みんな！,I did it! Everyone!,0.5714285714285714,0.855358
+"Yeah, I agree.",そうそう！,Oh yeah!,0.14285714285714285,0.19125697
+Everyone has been trained very well.,ええ 皆 よく鍛えられています,Yes everyone is trained well,0.3333333333333333,0.89079976
 "I can report to Kaoru-sama, without hesitation, about the result.","うふっ これなら薫様に
 堂々とご報告できますわね","Ufu, if this is a shame
-You can report anymore",0.15
+You can report anymore",0.15,0.3904709
 "However, it's still a life...","人間に仇なすもの…
 だけど… それでも命です","Those who are human beings ...
-But ... it is still life",0.26666666666666666
-It's delicious!,んー おいしーい！,Hey!,0.2
-"Not yet, Hake?",いやあ 別に？ 何でもないよー,"No, please?It is not anything",0.3
-What are you talking about?,何の話？,What are you talking about?,1.0
-"Well then, we will now hold an emergency meeting.",では 緊急会議を開きます,Open an emergency meeting,0.25
+But ... it is still life",0.26666666666666666,0.5144676
+It's delicious!,んー おいしーい！,Hey!,0.2,0.2929093
+"Not yet, Hake?",いやあ 別に？ 何でもないよー,"No, please?It is not anything",0.3,0.24629416
+What are you talking about?,何の話？,What are you talking about?,1.0,0.9999999
+"Well then, we will now hold an emergency meeting.",では 緊急会議を開きます,Open an emergency meeting,0.25,0.8073166
 Don't worry about her.,"その点について皆さん
 異議はありますか！","Everyone about that point
-Do you have an objection!",0.14285714285714285
+Do you have an objection!",0.14285714285714285,0.044157803
 "Yeah, she doesn't have to be here!","あの子はいいんです
 ええ いなくて結構です","That girl is good
-Yeah she is not good",0.13333333333333333
-I'm at my limit!,異議なーし！,I'm objected!,0.42857142857142855
+Yeah she is not good",0.13333333333333333,0.33474815
+I'm at my limit!,異議なーし！,I'm objected!,0.42857142857142855,0.3582052
 Her selfish behavior disturbs our teamwork.,"チームワークを乱す身勝手な振る舞い
 ようやく分かりました","Disrupted behavior that disturbs teamwork
-I finally understood",0.25
-No objection.,異議なし,No objection,0.6666666666666666
+I finally understood",0.25,0.5621484
+No objection.,異議なし,No objection,0.6666666666666666,0.9154127
 "As long as she's gone, our teamwork is perfect.","あの子さえいなければ
 わたくし達のチームワークは完璧です","If that child is not even
-My teamwork is perfect",0.17647058823529413
+My teamwork is perfect",0.17647058823529413,0.5174383
 I'm Kawahira Keita!,"はーい！ はい はい はい はい はーい！
 川平啓太でございまあーす！","Yes!Yes Yes Yes Yes!
-It is Kawahira Keita!",0.375
-Welcome!,いらっしゃーい！,welcome!,1.0
-S-She's cute...,ああ か 可愛い…,Oh cute ...,0.4
-Why are you here?!,な なでしこ？ なんで あんたがここに？,What is it?Why is it here?,0.3333333333333333
+It is Kawahira Keita!",0.375,0.8120287
+Welcome!,いらっしゃーい！,welcome!,1.0,1.0000004
+S-She's cute...,ああ か 可愛い…,Oh cute ...,0.4,0.25349262
+Why are you here?!,な なでしこ？ なんで あんたがここに？,What is it?Why is it here?,0.3333333333333333,0.52799535
 Hake-sama told me to take care of Keita-sama.,"はけ様から言われて
 啓太様のお世話をすることになりました","It is said from
-We will take care of Keita",0.1875
-This is it! This is what I've been waiting for!,んーっ！ これだよ これえー！,Hmm!This is this!,0.2727272727272727
+We will take care of Keita",0.1875,0.6245939
+This is it! This is what I've been waiting for!,んーっ！ これだよ これえー！,Hmm!This is this!,0.2727272727272727,0.5360035
 "Well then, we will now begin the first Nadeshiko Banishing Committee.","では 第１回
 なでしこ追放委員会を開きます！","Then the first
-Open the Senkiko Opportunity Committee!",0.23529411764705882
-Inukami!,強く結ばれた絆 友情！！,Strongly tied 絆 friendship!!,0.16666666666666666
+Open the Senkiko Opportunity Committee!",0.2352941176470588,0.6146866
+Inukami!,強く結ばれた絆 友情！！,Strongly tied 絆 friendship!!,0.16666666666666666,0.25831395
 "Note: ""Reluctant rain"" or ""Yarazu no ame"" is a pun on Nadeshiko's nickname, ""Yarazu no Nadeshiko"" or ""Nadeshiko the Reluctant.""","“ほら 雨が降ってきたよ
 傘もないでしょ？","""The rain has fallen
-Is there no umbrella?",0.2
+Is there no umbrella?",0.2,0.3597842
 "The meaning behind a ""reluctant rain"" is that it rains when it doesn't want to let its love go.","遣らずの雨とは 恋しい人を帰さないために
 降るかのような雨のことである","In order not to come back to the rain without sending
-It is a rain like whether to fall",0.1875
+It is a rain like whether to fall",0.1875,0.6366089
 "Why don't you spend the night?""","今夜は泊まっていかない？”
 と誘うための","Aren't you staying tonight?""
-To invite",0.2857142857142857
-It's a bold yet happy and embarrassing rain that provides an excuse to invite people.,大胆かつ嬉し恥ずかしい雨なのである,Bold and joyful embarrassed rain,0.15789473684210525
+To invite",0.2857142857142857,0.5853242
+It's a bold yet happy and embarrassing rain that provides an excuse to invite people.,大胆かつ嬉し恥ずかしい雨なのである,Bold and joyful embarrassed rain,0.15789473684210525,0.7574959
 Next time on Inukami!,"次回 いぬかみっ！
 「やらずのかっぽう着っ！」","Next time!
-""Wearing a noble!""",0.3
-What? Kawahira...,何だ川平 もう帰るのか？,What is Kawahira?,0.6
+""Wearing a noble!""",0.3,0.36885047
+What? Kawahira...,何だ川平 もう帰るのか？,What is Kawahira?,0.6,0.8115057

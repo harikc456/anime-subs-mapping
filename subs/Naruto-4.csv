@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,44 +9,44 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825215
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490623
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120192
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.53447706
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.7646863
 He's late.,"(ﾅﾙﾄ)
 遅ぇな
 ｡
 
 ","Late
-.",0.5
+.",0.5,0.67555314
 "The other squads have gone off
 somewhere with their new teachers,","ほかの班は
 み～んな
@@ -56,7 +56,7 @@ somewhere with their new teachers,","ほかの班は
 ","Other groups
 な な
  
-New teacher and ➡",0.11764705882352941
+New teacher and ➡",0.1176470588235294,0.52279073
 Don't look at me.,"(ｻｸﾗ)
 ナルト
  
@@ -66,7 +66,7 @@ Don't look at me.,"(ｻｸﾗ)
 ","Naruto
  
 Please do it
-.",0.2222222222222222
+.",0.2222222222222222,0.15068108
 "Hey, what're you doing, Naruto?!","ちょっと
  
 何やってんの？
@@ -79,22 +79,22 @@ Please do it
 What are you doing?
  
 Naruto
-.",0.38461538461538464
+.",0.38461538461538464,0.8540967
 Hey!,"あ～！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.5887816
 Lt'll be his fault because he's late.,"こんなに遅ぇんだってばよ
 ｡
 
 ","If you are so late
-.",0.14285714285714285
+.",0.14285714285714285,0.5111727
 I like stuff like this!,"《こういうの結構
  
 好き～！》
 
 ","""Such a good thing
  
-I like it!""",0.25
+I like it!""",0.25,0.40219992
 "A Jonin wouldn't get caught
 in such a weak booby trap.","(ｻｽｹ)
 フッ
@@ -109,7 +109,7 @@ in such a weak booby trap.","(ｻｽｹ)
 Lobster
  
 Such solid
-In the booby trap",0.25
+In the booby trap",0.25,0.5458203
 That's right. You're such an idiot!,"引っ掛かるかよ
 ｡
 そうよ
@@ -122,10 +122,10 @@ That's right. You're such an idiot!,"引っ掛かるかよ
 that's right
  
 that's right
-.",0.38461538461538464
+.",0.38461538461538464,0.27927935
 "I got him, I got him...","ウハハハ…！
 
-",Uhahaha ...!,0.14285714285714285
+",Uhahaha ...!,0.14285714285714285,0.24219386
 "I-I'm sorry, sir.","ごめんなさい
  
 先生
@@ -134,7 +134,7 @@ that's right
 ","sorry
  
 teacher
-.",0.2857142857142857
+.",0.2857142857142857,0.39633584
 "As for my first impression
 of you guys?","(ｶｶｼ)
 う～ん
@@ -145,7 +145,7 @@ of you guys?","(ｶｶｼ)
 ","Ugly
  
 What do you say?
-You guys' first impression ... ➡",0.3125
+You guys' first impression ... ➡",0.3125,0.6308127
 Let's see.,"まっ
  
 嫌いだ
@@ -154,7 +154,7 @@ Let's see.,"まっ
 ","Mine
  
 Dislike
-.",0.16666666666666666
+.",0.16666666666666666,0.1437871
 "First off, let me have
 you guys introduce yourselves.","(ｶｶｼ)
 そうだな
@@ -167,16 +167,16 @@ you guys introduce yourselves.","(ｶｶｼ)
  
 First
 I wonder if I will introduce myself
-.",0.17647058823529413
+.",0.17647058823529413,0.56309336
 What should we say?,"自己紹介って…
 どんなこと言えばいいの？
 
 ","Self-introduction ...
-What should I say?",0.5
+What should I say?",0.5,0.4108327
 "Your likes, dislikes, your future dream,
 hobbies, things like that!","将来の夢とか趣味とか➡
 
-",Future dreams or hobbies,0.15384615384615385
+",Future dreams or hobbies,0.15384615384615385,0.5310694
 Me? My name's Kakashi Hatake.,"自分のこと紹介してくれよ
 ｡
 (ｶｶｼ)
@@ -185,7 +185,7 @@ Me? My name's Kakashi Hatake.,"自分のこと紹介してくれよ
 ","Please introduce yourself
 .
 
-Is it me?➡",0.21428571428571427
+Is it me?➡",0.21428571428571427,0.395514
 "I don't feel like telling you
 guys about my likes and dislikes.","好き嫌いを
 お前らに教える気はない
@@ -193,12 +193,12 @@ guys about my likes and dislikes.","好き嫌いを
 
 ","Dislike
 I do not feel like teaching you
-.",0.35294117647058826
+.",0.35294117647058826,0.5589398
 Yeah.,"ん？
 え？
 
 ","Yeah?
-picture?",0.25
+picture?",0.25,0.48755577
 Let's start with you.,"うん
 ｡
 (ｶｶｼ)
@@ -215,21 +215,21 @@ next
  
 You are
 .
-➡",0.2
+➡",0.2,0.2059335
 What I dislike is the three minutes,"一楽のラーメン
  
 嫌いなものは➡
 
 ","Ramen in a woman
  
-What I hate is ➡",0.23076923076923078
+What I hate is ➡",0.2307692307692308,0.25630265
 And my future dream...,"そんで
  
 将来の夢は火影を超す！
 
 ","and
  
-Future dreams exceed fire shadow!",0.2
+Future dreams exceed fire shadow!",0.2,0.5391429
 "And so I'm going to get
 the entire village","んでもって
  
@@ -237,7 +237,7 @@ the entire village","んでもって
 
 ","So
  
-To all the villas of the village",0.3076923076923077
+To all the villas of the village",0.3076923076923077,0.614565
 "<i>this kid's grown up in</i>
 <i>an interesting way.</i>","なかなか
 おもしろい成長をしたな
@@ -247,7 +247,7 @@ To all the villas of the village",0.3076923076923077
 ","Quite
 I did interesting growth
  
-this guy""",0.16666666666666666
+this guy""",0.16666666666666666,0.4945248
 "Okay, next.","(ｶｶｼ)
 はい
  
@@ -257,19 +257,19 @@ this guy""",0.16666666666666666
 ","Yes
  
 Next
-.",0.4
+.",0.4,0.65402657
 I'm Sakura Haruno.,"春野サクラです
 ｡
 
 ","It is Haruno Sakura
-.",0.42857142857142855
+.",0.42857142857142855,0.83117056
 "What I like... I <i>mean, who</i> I like is...","好きなものは…
  
 っていうか➡
 
 ","What I like ...
  
-I say ➡",0.3076923076923077
+I say ➡",0.3076923076923077,0.566054
 "And, my hobby is,
 I mean...","で…
  
@@ -277,12 +277,12 @@ I mean...","で…
 
 ","and…
  
-Hobby I say",0.2
+Hobby I say",0.2,0.800854
 And lastly.,"将来の夢は…
 ｡
 
 ","The future of the dream…
-.",0.14285714285714285
+.",0.14285714285714285,0.23703927
 My name's... Sasuke Uchiha.,"名は
  
 うちはサスケ
@@ -291,7 +291,7 @@ My name's... Sasuke Uchiha.,"名は
 ","name is
  
 My house is Sasuke
-.",0.4444444444444444
+.",0.4444444444444444,0.8112721
 "I don't feel like summing up
 my ambition as just a dream","好きなものは別にない
 ｡
@@ -301,17 +301,17 @@ my ambition as just a dream","好きなものは別にない
 ","I do not like what you like
 .
 Ah
-.",0.16666666666666666
+.",0.16666666666666666,0.16454087
 but I do have an ambition!,"野望はある
 ｡
 
 ","There is an ambition
-.",0.2
+.",0.2,0.7818189
 to kill a certain man!,"殺すことだ
 ｡
 
 ","It is to kill
-.",0.2222222222222222
+.",0.2222222222222222,0.6436628
 "The three of you are very distinctive
 and interesting!","(ｶｶｼ)
 よ～し
@@ -326,7 +326,7 @@ and interesting!","(ｶｶｼ)
 3 people are also unique
 Interesting
 .
-➡",0.11764705882352941
+➡",0.1176470588235294,0.68645066
 "First, we'll do what we can do
 with just four people.","(ｶｶｼ)
 まずは
@@ -339,7 +339,7 @@ with just four people.","(ｶｶｼ)
  
 Only four people
 Do what you can do
-.",0.5
+.",0.5,0.73806065
 What what what?!,"何
  
 何
@@ -358,19 +358,19 @@ what
  
 what?
  
-What?",0.6666666666666666
+What?",0.6666666666666666,0.71498364
 A survival exercise.,"(ｶｶｼ)
 サバイバル演習だ
 ｡
 
 ","Survival exercise
-.",0.75
+.",0.75,0.96661276
 "even though this is supposed
 to be a mission?","任務なのに
 何で演習なんかやんのよ？
 
 ","Even though it is a mission
-What is the exercise?",0.42857142857142855
+What is the exercise?",0.42857142857142855,0.7410169
 "Uh, well, if I tell you,
 I know you'll grow disenchanted.","(ｶｶｼ)
 いや
@@ -385,14 +385,14 @@ I know you'll grow disenchanted.","(ｶｶｼ)
 Mine
 I
  
-If you say this,",0.25
+If you say this,",0.25,0.14660218
 What?,"ちょっと何がおかしいのよ？
 先生
 ｡
 
 ","What's wrong?
 teacher
-.",0.3333333333333333
+.",0.3333333333333333,0.17028159
 with a failure rate of 66% or higher!,"つまり
  
 この演習は
@@ -405,7 +405,7 @@ with a failure rate of 66% or higher!,"つまり
 This exercise is
 Deviation rate
 66
-More than%",0.16666666666666666
+More than%",0.16666666666666666,0.41423088
 "T-Then, what was
 the graduation test for?","じゃ
  
@@ -419,12 +419,12 @@ the graduation test for?","じゃ
 Surely
  
 For what
-It's a graduation test!",0.26666666666666666
+It's a graduation test!",0.26666666666666666,0.73451173
 "Oh, that.","超難関テスト
 ｡
 
 ","Ultra-trade test
-.",0.16666666666666666
+.",0.16666666666666666,0.14676794
 "It was just to select those who have
 the potential of becoming Genin.","(ｶｶｼ)
 あれか？
@@ -437,10 +437,10 @@ the potential of becoming Genin.","(ｶｶｼ)
  
 Be understood
 Just select people who are likely
-.",0.22727272727272727
+.",0.2272727272727273,0.41193345
 Whaaaat?!,"な～に～!?
 
-",Now ~!?,0.4
+",Now ~!?,0.4,0.441903
 "I'll be determining whether
 you pass or fail.","お前らの合格
  
@@ -454,7 +454,7 @@ you pass or fail.","お前らの合格
 Fail
 judge
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.67664665
 "Bring your complete set
 of Ninja tools!","忍道具一式持って
  
@@ -462,7 +462,7 @@ of Ninja tools!","忍道具一式持って
 
 ","With a set of ninja
  
-5 o'clock set in the morning!",0.26666666666666666
+5 o'clock set in the morning!",0.26666666666666666,0.62505215
 "<i>I've got to have my strength</i>
 <i>recognized for real.</i>","俺の力
  
@@ -476,19 +476,19 @@ of Ninja tools!","忍道具一式持って
 I have to recognize ...
 seriously
  
-seriously!""",0.21052631578947367
+seriously!""",0.21052631578947367,0.5585809
 <i>This is an exercise of love!</i>,"これは愛の試練ね》
 
-","This is a test of love """,0.2857142857142857
+","This is a test of love """,0.2857142857142857,0.5870337
 Morning.,"おはよう
 ｡
 
 ","good morning
-.",0.6666666666666666
+.",0.6666666666666666,0.70607376
 You're late!,"(ｻｸﾗ･ﾅﾙﾄ)
 遅～い！
 
-",Slow ~!,0.16666666666666666
+",Slow ~!,0.16666666666666666,0.43415233
 "Well, a black cat crossed
 my path, you see.","(ｶｶｼ)
 やぁ
@@ -501,17 +501,17 @@ my path, you see.","(ｶｶｼ)
  
 In a black cat
 I'm crossing the front
-.",0.2222222222222222
+.",0.2222222222222222,0.7275779
 Ahem! Oh well...,"お～…
 ｡
 
 ","Oh ...
-.",0.3333333333333333
+.",0.3333333333333333,0.43471044
 <i>So that was the point...</i>,"えっ!?
 (ｶｶｼ)あれに縛りつけたうえ➡
 
 ","eh!?
- I tied to that ➡",0.125
+ I tied to that ➡",0.125,0.2701652
 <i>for us not to eat breakfast...</i>,"あ～
 ｡
 《朝飯
@@ -522,7 +522,7 @@ Ahem! Oh well...,"お～…
 .
 ""breakfast
  
-Eat ...",0.2
+Eat ...",0.2,0.6954378
 "one will have to
 go to the logs.","(ｶｶｼ)
 フフ…
@@ -537,7 +537,7 @@ go to the logs.","(ｶｶｼ)
 Because there are only two
 Minimum one person goes to log
 .
-➡",0.15
+➡",0.15,0.4590197
 or it could be all three of you.,"最低１人かもしれんし
 ３人全員かもしれん
 ｡
@@ -546,7 +546,7 @@ or it could be all three of you.,"最低１人かもしれんし
 ","It may be at least one
 All three may be
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.4424724
 You can use your Shuriken.,"手裏剣
  
 使ってもいいぞ
@@ -557,7 +557,7 @@ You can use your Shuriken.,"手裏剣
  
 You may use it
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.5517716
 "You won't be able to take the bells
 unless you come with the intent to kill me.","俺を殺す気で来ないと
 取れないからな
@@ -565,7 +565,7 @@ unless you come with the intent to kill me.","俺を殺す気で来ないと
 
 ","I have to kill me
 I can not get it
-.",0.18181818181818182
+.",0.18181818181818185,0.34892127
 "But, that's dangerous, sir!","でも
  
 危ないわよ！
@@ -578,7 +578,7 @@ I can not get it
 I'm dangerous!
  
 teacher
-.",0.2727272727272727
+.",0.2727272727272727,0.5362486
 "Y-Yeah, that's right!","そいつは任務失敗ってことで
 失格だ
 ｡
@@ -587,13 +587,13 @@ teacher
 ","That's why the mission fails
 Disqualified
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.21039483
 "In this world,","(ｶｶｼ)
 世間じゃさ
 実力のないヤツに限って➡
 
 ","It is a world
-Limited to no ability guy",0.08333333333333333
+Limited to no ability guy",0.08333333333333333,0.2703349
 "those who aren't skilled enough
 tend to complain more.","アカデミーに戻ってもらう
 ｡
@@ -601,7 +601,7 @@ tend to complain more.","アカデミーに戻ってもらう
 
 ","Get back to Academy
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.06032334
 "Well, just ignore the loser...","用意
  
 スタートの合図で…
@@ -610,10 +610,10 @@ tend to complain more.","アカデミーに戻ってもらう
 ","Preparation
  
 In the start of the start ...
-.",0.16666666666666666
+.",0.16666666666666666,0.08231075
 <i>No way...!</i>,"ク～！
 
-",~!,0.1111111111111111
+",~!,0.1111111111111111,0.35569772
 <i>I didn't see him at all.</i>,"《うそ…
  
 全然
@@ -624,10 +624,10 @@ In the start of the start ...
  
 at all
  
-I could not see it",0.1875
+I could not see it",0.1875,0.35152513
 <i>So this is a Jonin.</i>,"《これが上忍か》
 
-","""Is this the Kamen?""",0.14285714285714285
+","""Is this the Kamen?""",0.14285714285714285,0.15377499
 "But, that's fine.","(ｶｶｼ)
 そう慌てんなよ
 ｡
@@ -635,34 +635,34 @@ I could not see it",0.1875
 
 ","That's right
 .
-➡",0.375
+➡",0.375,0.3849768
 to like you guys.,"好きになれそうだ
 ｡
 ➡
 
 ","I likely like it
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.2218623
 We're going to start.,"始めるぞ
 ｡
 ➡
 
 ","I will start
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.5897489
 Ready... start!,"用意…
  
 スタート！
 
 ","Preparation…
  
-start!",0.4
+start!",0.4,0.5977319
 What do you want to know?,"(
 猿飛
 )
 何が知りたい？➡
 
-",What do you want to know?➡,0.875
+",What do you want to know?➡,0.875,0.8499641
 "I didn't think you just
 came here to drink tea.","別に茶が飲みたかったわけでは
 あるまい
@@ -670,13 +670,13 @@ came here to drink tea.","別に茶が飲みたかったわけでは
 
 ","I wanted to drink tea separately
 Mine
-.",0.3333333333333333
+.",0.3333333333333333,0.6228697
 "What kind of teacher is he?
 Is he strict?","どんな先生なんです？
 厳しい方なんですか？
 
 ","What kind of teacher is it?
-What is a tough person?",0.5
+What is a tough person?",0.5,0.7309742
 "You mean Kakashi?
 Does he concern you?","(
 猿飛
@@ -685,23 +685,23 @@ Does he concern you?","(
 気になるのか？
 
 ","Is it Kakashi?
-Do you care?",0.2727272727272727
+Do you care?",0.2727272727272727,0.8199321
 I heard a rumor that concerns me.,"ちょっと気になるうわさを
 聞いたものですから
 ｡
 
 ","A little bit worrying
 Because I heard
-.",0.3333333333333333
+.",0.3333333333333333,0.6866682
 What's this?,"これは？
 
-",this is?,0.4
+",this is?,0.4,0.5097221
 "It's a pass fail list of
 the junior ninjas","下忍の合否のリストじゃ
 ｡
 
 ","It is a list of subnowings of Shimono
-.",0.2857142857142857
+.",0.2857142857142857,0.23598546
 "Kakashi has been
 in charge of up until now.","今まで
  
@@ -709,13 +709,13 @@ in charge of up until now.","今まで
 
 ","until now
  
-Kakashi was in charge",0.45454545454545453
+Kakashi was in charge",0.4545454545454545,0.9095832
 Let me have a look.,"(ｲﾙｶ)
 拝見します
 ｡
 
 ","take a look
-.",0.42857142857142855
+.",0.42857142857142855,0.65484697
 "Okay, everyone is hidden pretty well...","(ｶｶｼ)
 《よ～し
  
@@ -731,10 +731,10 @@ Everyone
  
 Well hidden ...
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.67893046
 Oh?,"あ？》
 
-","Ah?""",0.25
+","Ah?""",0.25,0.7080182
 That goof.,"あの
  
 ウスラトンカチ
@@ -743,7 +743,7 @@ That goof.,"あの
 ","that
  
 Passuratonka
-.",0.5
+.",0.5,0.24395582
 "Say, aren't you a bit
 off kilter?","(ｶｶｼ)
 あのさ
@@ -754,25 +754,25 @@ off kilter?","(ｶｶｼ)
 ","That
 you
  
-Isn't it?",0.23076923076923078
+Isn't it?",0.2307692307692308,0.30264792
 "What's off kilter
 is your hairstyle!","ズレてんのは
 そっちの髪形のセンスだろ！
 
 ","I'm sorry
-It's a sense of your haired shape!",0.17647058823529413
+It's a sense of your haired shape!",0.17647058823529413,0.49931586
 Why do you ask?,"なのに武器
  
 使う気か？》
 
 ","Although it is a weapon
  
-Do you want to use?""",0.21428571428571427
+Do you want to use?""",0.21428571428571427,0.22054057
 Don't worry.,"体術を教えてやる
 ｡
 
 ","Tell me the body
-.",0.125
+.",0.125,0.16981737
 "it makes no difference
 if I'm reading or not.","話の続きが
 気になってたからだよ
@@ -782,30 +782,30 @@ if I'm reading or not.","話の続きが
 ","Continue to talk
 It's because I was worried
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.25374502
 Damn! This time a spin kick!,"(ｶｶｼ)
 フッ！
 
-",Hu!,0.125
+",Hu!,0.125,0.25755695
 "Ninja shouldn't let the enemy take them
 from behind multiple times, fool.","ク～
 ｡
 
 ","~
-.",0.0625
+.",0.0625,0.12982427
 <i>The way his hands are positioned...</i>,"気にすんな
  
 お前ら相手じゃ➡
 
 ","Don `t worry
  
-You guys are the other party",0.10526315789473684
+You guys are the other party",0.10526315789473684,0.031928726
 <i>Is that the Sign of the Tiger?!</i>,"あれ？
 
-",that?,0.16666666666666666
+",that?,0.16666666666666666,0.21104124
 <i>No way!</i>,"ボッコボコにしてやる！
 
-",I will do it in Bokkoboko!,0.16666666666666666
+",I will do it in Bokkoboko!,0.16666666666666666,0.15327604
 "<i>that's too strong a Ninjutsu</i>
 <i>no matter how you look at it.</i>","本
  
@@ -815,10 +815,10 @@ You guys are the other party",0.10526315789473684
 ","Book
  
 Because it does not matter even if you read
-.",0.07692307692307693
+.",0.07692307692307693,0.1052981
 You'll die!,"お～！
 
-",Oh!,0.2
+",Oh!,0.2,0.3886242
 Too late.,"(ｶｶｼ)
 忍者が何べんも
 後ろ取られんな
@@ -830,7 +830,7 @@ Too late.,"(ｶｶｼ)
 Behind
  
 fool
-.",0.14285714285714285
+.",0.14285714285714285,0.17903168
 "Oh, it's not a Ninjutsu.","たかがナルト相手に
 いくら何でも
  
@@ -839,7 +839,7 @@ fool
 ","Takaho to Naruto
 Anywhere
  
-Ninjutsu to it ... """,0.14285714285714285
+Ninjutsu to it ... """,0.14285714285714285,0.6381353
 Kakashi has never had someone pass.,"(
 猿飛
 )
@@ -849,7 +849,7 @@ Kakashi has never had someone pass.,"(
 
 ","Kakashi test
 It may be difficult
-.",0.16666666666666666
+.",0.16666666666666666,0.536388
 They have all...,"すべて
  
 全滅しておる
@@ -858,7 +858,7 @@ They have all...,"すべて
 ","all
  
 Annihilate
-.",0.16666666666666666
+.",0.16666666666666666,0.275557
 "You won't get lunch if you can't
 take the bell by noon.","昼までに鈴
  
@@ -874,13 +874,13 @@ Unless taken
 food
  
 I'm sorry
-.",0.21052631578947367
+.",0.21052631578947367,0.76864487
 "considering you said that
 you'd surpass the Hokage.","んなの分かってるってばよ
 ｡
 
 ","It is said that you know
-.",0.3333333333333333
+.",0.3333333333333333,0.23518308
 I'm... not...,"元気ないね
  
 お前
@@ -892,14 +892,14 @@ I'm... not...,"元気ないね
 ","I'm fine
  
 you
-.",0.2857142857142857
+.",0.2857142857142857,0.31558415
 Security is your greatest enemy!,"へへ～！
  
 油断大敵！
 
 ","To!
  
-Oil-speaking enemy!",0.25
+Oil-speaking enemy!",0.25,0.39008552
 <i>What? They're not just images?</i>,"《何？
  
 残像じゃない
@@ -910,7 +910,7 @@ Oil-speaking enemy!",0.25
  
 It is not an afterimage
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.42068925
 "Not the clone,
 but the shadow clone, eh.","(ｶｶｼ)
 分身じゃなくて
@@ -921,7 +921,7 @@ but the shadow clone, eh.","(ｶｶｼ)
 ","Not from
  
 Shadow
-.",0.3333333333333333
+.",0.3333333333333333,0.50893307
 "<i>Show me what you can do, Demon Fox!</i>","(ﾐｽﾞｷ)
 ＜やれるもんなら
  
@@ -931,7 +931,7 @@ Shadow
 ","<If you can do it
  
 Letting
-I'm sorry!>",0.3684210526315789
+I'm sorry!>",0.3684210526315789,0.3174687
 W-What?! Behind me?!,"(ｶｶｼ)
 《な…
  
@@ -943,7 +943,7 @@ W-What?! Behind me?!,"(ｶｶｼ)
  
 what!?
  
-back?""",0.2
+back?""",0.2,0.40488008
 I had one of them come up,"影分身の術で
  
 １人だけ
@@ -956,20 +956,20 @@ I had one of them come up,"影分身の術で
 Only one person
 From downstream
  
-I'm sorry",0.17647058823529413
+I'm sorry",0.17647058823529413,0.13386706
 "<i>Naruto, not bad!</i>","《ナルト
  
 結構やるじゃない》
 
 ","""Naruto
  
-I'm not sure",0.25
+I'm not sure",0.25,0.6654434
 What?!,"カカシ先生ってばよ！
 
-",Mr. Kakashi Teacher!,0.16666666666666666
+",Mr. Kakashi Teacher!,0.16666666666666666,0.17479098
 You!,"殴らせてもらうってばよ！
 
-",You will be asked to beat!,0.2857142857142857
+",You will be asked to beat!,0.2857142857142857,0.29748765
 "You're Kakashi Sensei, I say.","お前…
  
 お前ってば
@@ -978,10 +978,10 @@ You!,"殴らせてもらうってばよ！
 ","you…
  
 If you
-Mr. Kakashi.",0.2727272727272727
+Mr. Kakashi.",0.2727272727272727,0.73384565
 The smell of an old guy!,"変化の術で化けてんだろ？
 
-",Did you use the change of change?,0.16666666666666666
+",Did you use the change of change?,0.16666666666666666,0.019560196
 Why you!,"≪
  
 お前こそ！
@@ -994,7 +994,7 @@ Why you!,"≪
 You!
 «
  
-You're it!",0.3333333333333333
+You're it!",0.3333333333333333,0.3096912
 "Hey! For the time being,
 let's try undoing the Jutsu.","≪
  
@@ -1010,7 +1010,7 @@ Oyaji's smell
 .
 «
  
-Father!",0.17647058823529413
+Father!",0.17647058823529413,0.2343687
 "<i>Essentially, it's a skill used</i>
 <i>to quickly switch one's own body</i>","《今のは変わり身の術だ
  
@@ -1022,7 +1022,7 @@ Father!",0.17647058823529413
  
 fool
 .
-➡",0.125
+➡",0.125,0.314068
 "<i>the Jonin fool switched bodies</i>
 <i>with one of the clone Narutos.</i>","その隙を突く術
 ｡
@@ -1030,13 +1030,13 @@ fool
 
 ","Articles with the gap
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.08114467
 What the heck is this?!,"今のは上忍の野郎➡
 
-",Now is the bastard,0.2222222222222222
+",Now is the bastard,0.2222222222222222,0.15209357
 The bell!,"鈴！
 
-",bell!,0.6666666666666666
+",bell!,0.6666666666666666,0.8715153
 "...don't get caught in
 an obvious trap, you fool.","だから
  
@@ -1050,7 +1050,7 @@ an obvious trap, you fool.","だから
 It is used in reverse
 .
 ...
-.",0.15
+.",0.15,0.14637852
 "You know, I'm telling you
 because you <i>don't</i> get it.","バレバレのわなに引っ掛かるな
 ば～か
@@ -1058,10 +1058,10 @@ because you <i>don't</i> get it.","バレバレのわなに引っ掛かるな
 
 ","Do not get caught in Barbare
 Indeed
-.",0.15
+.",0.15,0.21649379
 Listen up!,"ムッキ～！
 
-",Mukki ~!,0.2
+",Mukki ~!,0.2,0.23826817
 Your movements are wasteful.,"あ…
  
 あ…
@@ -1070,7 +1070,7 @@ Your movements are wasteful.,"あ…
 ","Ah…
  
 Ah…
-.",0.16666666666666666
+.",0.16666666666666666,0.081615515
 You're so...,"(ｶｶｼ)
 それと…
 ｡
@@ -1078,17 +1078,17 @@ You're so...,"(ｶｶｼ)
 
 ","And ...
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.3285598
 No way!,"フッ！
 
-",Hu!,0.25
+",Hu!,0.25,0.39189622
 But if I don't take the bell...,"♬
  A man railed at me twice
 but I didn't care
 
 ","♬
  A man railed at me tweed
-BUT I DIDN'T CARE",0.16666666666666666
+BUT I DIDN'T CARE",0.16666666666666666,0.16334188
 "How in the world can I take
 the bell back","♬
  Sneaking out the class room
@@ -1096,9 +1096,9 @@ by the back door
 
 ","♬
  Sneaking out the class room
-by the back door",0.125
+by the back door",0.125,0.22269127
 Don't miss my outstanding performance!,"♬
  Don't cry coz
 
 ","♬
- Don't Cry Coz",0.2
+ Don't Cry Coz",0.2,0.15230304

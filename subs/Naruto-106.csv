@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Connecting old words</i>
 <i>that have been used up</i>","♬
  
@@ -6,7 +6,7 @@ en_text,jp_text,google_translated,score
 
 ","♬
  
-Now connect words",0.06666666666666667
+Now connect words",0.06666666666666668,0.5715785
 "<i>I just want to convey</i>
 <i>my simple thoughts</i>","♬
  
@@ -14,7 +14,7 @@ Now connect words",0.06666666666666667
 
 ","♬
  
-I just want to convey my thoughts",0.5833333333333334
+I just want to convey my thoughts",0.5833333333333334,0.65650594
 <i>That day's faint wind blows away</i>,"♬
  
 吹き抜ける
@@ -23,7 +23,7 @@ I just want to convey my thoughts",0.5833333333333334
 ","♬
  
 Blow through
-The wind of that day is",0.17647058823529413
+The wind of that day is",0.17647058823529413,0.71850526
 "<i>I'll laugh with you</i>
 <i>and live for the moment</i>","♬
  
@@ -35,7 +35,7 @@ The wind of that day is",0.17647058823529413
  
 Laugh with you
  
-Live now",0.26666666666666666
+Live now",0.26666666666666666,0.7049717
 "<i>Still that incident</i>
 <i>will continue to trouble you, right?</i>","♬
  
@@ -43,14 +43,14 @@ Live now",0.26666666666666666
 
 ","♬
  
-Will you suffer from you?",0.16666666666666666
+Will you suffer from you?",0.16666666666666666,0.39365232
 <i>That's why it must be good bye</i>,"♬
  
 だからこそサヨナラなんだ
 
 ","♬
  
-That's why it is a goodbye",0.25
+That's why it is a goodbye",0.25,0.67026657
 "<i>Leaving nothing behind,</i>
 <i>let us share what is left</i>","♬
  
@@ -58,7 +58,7 @@ That's why it is a goodbye",0.25
 
 ","♬
  
-Nothing remains as it is",0.1111111111111111
+Nothing remains as it is",0.1111111111111111,0.42120796
 "<i>In time, we'll realize</i>
 <i>that it was everything</i>","♬
  
@@ -66,7 +66,7 @@ Nothing remains as it is",0.1111111111111111
 
 ","♬
  
-I realize that it is everything",0.3125
+I realize that it is everything",0.3125,0.49161032
 "<i>And sadness will touch our cheeks,</i>
 <i>creating a river of tears</i>","♬
  
@@ -74,7 +74,7 @@ I realize that it is everything",0.3125
 
 ","♬
  
-Just become a river of tears",0.21052631578947367
+Just become a river of tears",0.21052631578947367,0.616791
 "<i>Trembling thoughts swept into a vortex</i>
 <i>and melting away</i>","♬
  
@@ -82,7 +82,7 @@ Just become a river of tears",0.21052631578947367
 
 ","♬
  
-I'm melting",0.13333333333333333
+I'm melting",0.13333333333333333,0.400562
 "Not yet? Idate hasn't come, yet?","(
 次郎長
 )
@@ -96,12 +96,12 @@ I'm melting",0.13333333333333333
 Can't come yet
  
 Idate
-.",0.3333333333333333
+.",0.3333333333333333,0.70451254
 "Oh, I see.","やっと証拠をつかみました
 ｡
 
 ","I finally grasp evidence
-.",0.25
+.",0.25,0.071222425
 "Mm, good work.","うむ
  
 ご苦労
@@ -110,7 +110,7 @@ Idate
 ","Mum
  
 Hard work
-.",0.2857142857142857
+.",0.2857142857142857,0.28168425
 "My lord, is there something amiss?","(
 家老
 )
@@ -120,7 +120,7 @@ Hard work
 
 ","Palace
  
-something?",0.2222222222222222
+something?",0.2222222222222222,0.15071249
 We're saved.,"はぁ…
  
 助かった
@@ -129,14 +129,14 @@ We're saved.,"はぁ…
 ","...
  
 Was saved
-.",0.3333333333333333
+.",0.3333333333333333,0.71310544
 "Sasuke, are you okay?","サスケ君
  
 大丈夫？
 
 ","Sasuke
  
-fine?",0.2857142857142857
+fine?",0.2857142857142857,0.86507577
 "Naruto, I'm counting on you.","ナルト
  
 頼んだわよ
@@ -145,12 +145,12 @@ fine?",0.2857142857142857
 ","Naruto
  
 I asked
-.",0.3333333333333333
+.",0.3333333333333333,0.7345248
 Protect Idate.,"イダテさんを守って
 ｡
 
 ","Protecting Idate
-.",0.5
+.",0.5,0.9709947
 "How dare you do that
 to Sasuke and Sakura?!","てめぇ
  
@@ -160,36 +160,36 @@ to Sasuke and Sakura?!","てめぇ
 ","You
  
 Well
-Sasuke and Sakura-chan!",0.3076923076923077
+Sasuke and Sakura-chan!",0.3076923076923077,0.77556306
 Rest easy.,"(ｱｵｲ)
 フッ
 ｡
 
 ","Hook
-.",0.25
+.",0.25,0.25469968
 "I'll send you to the place
 where they are real soon.","ヤツらの所に送ってやる
 ｡
 
 ","I will send it to the place of the guys
-.",0.35294117647058826
+.",0.35294117647058826,0.48782393
 I won't go so easily!,"そう簡単に
  
 やられてたまるか！
 
 ","So easily
  
-I wonder if it was done!",0.3333333333333333
+I wonder if it was done!",0.3333333333333333,0.32003292
 <i>But what do I do?</i>,"《けど
  
 どうする？➡
 
 ","""but
  
-what will you do?➡",0.3333333333333333
+what will you do?➡",0.3333333333333333,0.39942905
 Those two are waiting for my help!,"２人が俺の助けを待ってる！
 
-",Two people are waiting for my help!,0.7777777777777778
+",Two people are waiting for my help!,0.7777777777777778,0.80351347
 "They wouldn't survive
 falling off this cliff.","この崖から落ちて
 生きているわけないだろう
@@ -197,14 +197,14 @@ falling off this cliff.","この崖から落ちて
 
 ","Fall from this cliff
 It will not be alive
-.",0.1875
+.",0.1875,0.7675215
 Shut up!,"うるせぇ！
  
 多重影分身の術！
 
 ","shut up!
  
-Multi-reflective efforts!",0.6
+Multi-reflective efforts!",0.6,0.5222967
 Multi Shadow Clone Jutsu.,"(ｱｵｲ)
 フン
  
@@ -214,11 +214,11 @@ Multi Shadow Clone Jutsu.,"(ｱｵｲ)
 ","Hung
  
 Also help or
-.",0.1111111111111111
+.",0.1111111111111111,0.06701026
 "Oh... you're going to run away
 from here using such a diversion?","ここから逃げようというのか？
 
-",Do you try to run away from here?,0.4117647058823529
+",Do you try to run away from here?,0.4117647058823529,0.5591268
 "Naruto, it's futile.
 That technique won't work on that sword!","(ｲﾀﾞﾃ)
 ナルト
@@ -233,14 +233,14 @@ That technique won't work on that sword!","(ｲﾀﾞﾃ)
 It impossible!
 To that sword
  
-That technique is effective!",0.3333333333333333
+That technique is effective!",0.3333333333333333,0.92736924
 Naruto!,"がっ！
 (ｲﾀﾞﾃ)
 ナルト！
 
 ","!
 
-Naruto!",1.0
+Naruto!",1.0,0.97406244
 "Just like the Uchiha loser earlier,","さっきの
  
 うちはの
@@ -249,7 +249,7 @@ Naruto!",1.0
 ","earlier
  
 Of the
-Falling and good",0.18181818181818182
+Falling and good",0.18181818181818185,0.30463317
 "why is it that each and every
 Leaf Village Ninja is an idiot?","どうして木ノ葉は
 こうも
@@ -259,26 +259,26 @@ Leaf Village Ninja is an idiot?","どうして木ノ葉は
 ","Why is the tree
 this way, too
  
-Is it stupid?",0.2
+Is it stupid?",0.2,0.41899332
 I'm going to save those two!,"ムダだ！
 
-",I'm sorry!,0.3333333333333333
+",I'm sorry!,0.3333333333333333,0.29713807
 As if...,"誰が…➡
 
-",Who ... ➡,0.2
+",Who ... ➡,0.2,0.21727598
 "I'd abandon my comrades
 and run away!","とっとと逃げればいいものを
 ｡
 
 ","I have to run away
-.",0.25
+.",0.25,0.41057473
 That's my answer to the tenth problem!,"それが俺の
 10
 問目の答えだ！
 
 ","That's my
 Ten
-I have an answer to the question!",0.5
+I have an answer to the question!",0.5,0.60557693
 What're you saying?,"フン
  
 何言ってるんだ？
@@ -291,15 +291,15 @@ What're you saying?,"フン
 What are you saying?
  
 you
-.",0.5
+.",0.5,0.28229138
 Idiot.,"バカ…
 ｡
 
 ","fool…
-.",0.3333333333333333
+.",0.3333333333333333,0.43040627
 Rasengan!,"ハァ～！
 
-",Hua!,0.3333333333333333
+",Hua!,0.3333333333333333,0.42807147
 "You still don't get it?!
 You don't have a chance of winning!","(ｱｵｲ)
 分からないのか？
@@ -308,22 +308,22 @@ You don't have a chance of winning!","(ｱｵｲ)
 
 ","Do you know?
 There is no win in you
-.",0.15
+.",0.15,0.4763825
 Damn!,"ぐっ！
 ハッ！
 
 ","!
-Ha!",0.3333333333333333
+Ha!",0.3333333333333333,0.4483453
 <i>If I aim for that...</i>,"そうだ
  
 あそこを狙えば…➡
 
 ","That's it
  
-If you aim for you ... ➡",0.38461538461538464
+If you aim for you ... ➡",0.38461538461538464,0.6684964
 <i>I can win!</i>,"勝てる！》
 
-","Win!""",0.25
+","Win!""",0.25,0.58132666
 "You saying you still want to fight?
 Give it up, already!","まだやろうってのか？
 もう諦めろよ
@@ -331,28 +331,28 @@ Give it up, already!","まだやろうってのか？
 
 ","Are you still doing?
 I will give up
-.",0.2777777777777778
+.",0.2777777777777778,0.45944923
 Shut up! Shadow Clone Jutsu!,"うっせぇ！
  
 影分身の術！
 
 ","I'm sorry!
  
-Shadow Subordination!",0.2
+Shadow Subordination!",0.2,0.5095782
 "Sasuke gave me a chance!
 I won't waste it!","サスケの…
 サスケがくれたチャンスを➡
 
 ","Sasuke ...
-The chance of Sasuke gave me",0.2857142857142857
+The chance of Sasuke gave me",0.2857142857142857,0.8396389
 <i>I know!</i>,"(ｻｽｹ)
 ＜分かってる！＞
 
-",<I know!>,0.8333333333333334
+",<I know!>,0.8333333333333334,0.85915655
 I...,"(ｱｵｲ)
 俺は…➡
 
-",I ... ➡,0.6666666666666666
+",I ... ➡,0.6666666666666666,0.6762785
 "I hate people who don't know
 when to quit.","俺は諦めの悪いヤツは
 大っ嫌いなんだよ
@@ -360,33 +360,33 @@ when to quit.","俺は諦めの悪いヤツは
 
 ","I'm a bad guy
 I hate much
-.",0.1875
+.",0.1875,0.3567734
 This is the end.,"これで最後だ！
 
-",This is the end!,0.6666666666666666
+",This is the end!,0.6666666666666666,0.89916664
 What?!,"何!?
 
-",what!?,1.0
+",what!?,1.0,0.8981636
 Idate!,"イダテ！
 
-",Idate!,1.0
+",Idate!,1.0,0.9999998
 "Naruto, you did it!","ナルト
  
 やったのね！
 
 ","Naruto
  
-I did it!",0.5714285714285714
+I did it!",0.5714285714285714,0.9651672
 Sakura!,"うわ～！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.20580247
 Naruto! Idate...!,"ナルト～！
  
 イダテさ～ん！
 
 ","Naruto ~!
  
-Idate!",0.6
+Idate!",0.6,0.9621099
 "I'm coming to save you now,
 believe it.","今
  
@@ -394,7 +394,7 @@ believe it.","今
 
 ","now
  
-You're going to help!",0.2
+You're going to help!",0.2,0.38247025
 But what should we do about this?,"だけど
  
 これって
@@ -407,15 +407,15 @@ But what should we do about this?,"だけど
 is this
  
 what should I do…
-.",0.23076923076923078
+.",0.2307692307692308,0.46045676
 Leave it to me.,"(ｲﾀﾞﾃ)
 俺に任せろ！
 
-",Leave it to me!,0.6666666666666666
+",Leave it to me!,0.6666666666666666,0.9217156
 "We'll cut the rope and go
 to the opposite bank in one swing!","早くゴールに向かいなさいよ！
 
-",Go to the goal quickly!,0.25
+",Go to the goal quickly!,0.25,0.27490616
 I thought the worst of myself.,"俺は
  
 自分を
@@ -426,12 +426,12 @@ I thought the worst of myself.,"俺は
  
 myself
 I thought it was a minimum guy
-.",0.3076923076923077
+.",0.3076923076923077,0.41943392
 <i>I trust you more than anyone.</i>,"＜俺は誰よりも
 お前を信じている＞
 
 ","<I have more than anyone
-I believe in you>",0.46153846153846156
+I believe in you>",0.4615384615384616,0.62684995
 "It was the first time
 I was trusted by someone.","(ｲﾀﾞﾃ)
 生まれて初めてだったんだ
@@ -440,7 +440,7 @@ I was trusted by someone.","(ｲﾀﾞﾃ)
 
 ","It was the first time I was born
 .
-➡",0.5833333333333334
+➡",0.5833333333333334,0.49726737
 "So I wanted to win this race
 for the boss, no matter what.","このレースに
 絶対勝ちたいと思った
@@ -450,7 +450,7 @@ for the boss, no matter what.","このレースに
 ","In this race
 I wanted to win absolutely
 .
-➡",0.3888888888888889
+➡",0.3888888888888889,0.6569792
 "So many times along the way,
 I felt like giving up.","何度も途中で
 くじけそうになった
@@ -458,7 +458,7 @@ I felt like giving up.","何度も途中で
 
 ","Once on the way
 I was looking forward to
-.",0.21052631578947367
+.",0.21052631578947367,0.48234355
 <i>Watch out!</i>,"＜危ない！＞
 (ｲﾀﾞﾃ)
 だけど
@@ -469,7 +469,7 @@ I was looking forward to
 
 However
  
-It is",0.2727272727272727
+It is",0.2727272727272727,0.38223025
 "Naruto, I'm sorry.","ナルト
  
 悪かった
@@ -478,7 +478,7 @@ It is",0.2727272727272727
 ","Naruto
  
 It was bad
-.",0.2222222222222222
+.",0.2222222222222222,0.7358077
 "I should've trusted you guys
 from the start.","最初から
  
@@ -490,7 +490,7 @@ from the start.","最初から
  
 You guys
 I should have believed
-.",0.5384615384615384
+.",0.5384615384615384,0.6874242
 "Say stuff like that
 after winning the race.","そういうことは
 レースに勝ってから言えって
@@ -498,11 +498,11 @@ after winning the race.","そういうことは
 
 ","That is
 It can be said after winning the race
-.",0.42857142857142855
+.",0.42857142857142855,0.7002851
 Boo! Boo! Boo!,"(ｲﾀﾞﾃ)
 だぁ～！
 
-",Oh yeah!,0.25
+",Oh yeah!,0.25,0.21355471
 Now that's a rousing welcome.,"(ﾌｸｽｹ)
 ヘッヘヘ…
  
@@ -512,7 +512,7 @@ Now that's a rousing welcome.,"(ﾌｸｽｹ)
 ","Hehe Hehe ...
  
 It's a pleasant cheering
-.",0.25
+.",0.25,0.3563047
 "Naruto, at this rate,
 we'll crash into the rocks!","ナルト～！
  
@@ -520,14 +520,14 @@ we'll crash into the rocks!","ナルト～！
 
 ","Naruto ~!
  
-This is a rock and it!",0.16666666666666666
+This is a rock and it!",0.16666666666666666,0.76756656
 I know. Leave it to me!,"分～ってらぁ！
  
 任せろ！
 
 ","Minutes ~!
  
-Leave it!",0.3
+Leave it!",0.3,0.47807714
 "Release Chakra from
 the bottom of my feet.","足の裏から
  
@@ -535,17 +535,17 @@ the bottom of my feet.","足の裏から
 
 ","From the back of the foot
  
-Release Chakra ~!",0.38461538461538464
+Release Chakra ~!",0.38461538461538464,0.7297051
 It's the very last Chakra!,"最後の最後のチャクラだ～！
 
-",The last Last Chakra ~!,0.5
+",The last Last Chakra ~!,0.5,0.91453284
 "All right, Naruto!","やった～
  
 ナルト～！
 
 ","I did ~
  
-Naruto ~!",0.25
+Naruto ~!",0.25,0.7055817
 "Sakura, I'll come back
 to help you right away!","すぐ
  
@@ -553,7 +553,7 @@ to help you right away!","すぐ
 
 ","soon
  
-Get back to help!",0.2857142857142857
+Get back to help!",0.2857142857142857,0.44384724
 "Okay. Let's go, Idate.","さぁ
  
 行こうぜ
@@ -566,10 +566,10 @@ Get back to help!",0.2857142857142857
 Let's go
  
 Idate!
-King!",0.4
+King!",0.4,0.58425367
 "Run steady, Fukusuke!","サ～クラちゃ～ん！
 
-",Sa-Khan!,0.16666666666666666
+",Sa-Khan!,0.16666666666666666,0.30474234
 Stay sharp until the end.,"(
 男１
 )
@@ -585,7 +585,7 @@ Stay sharp until the end.,"(
  
 Fukusuke!
 
-Don't mind until the end!",0.25
+Don't mind until the end!",0.25,0.1074137
 Shut up! I know.,"(ﾌｸｽｹ)
 うるせぇな！
  
@@ -593,7 +593,7 @@ Shut up! I know.,"(ﾌｸｽｹ)
 
 ","Urusei!
  
-I know!",0.42857142857142855
+I know!",0.42857142857142855,0.2884382
 Geez... spoiling my good mood.,"ったく
  
 人が気分よく
@@ -604,12 +604,12 @@ Geez... spoiling my good mood.,"ったく
  
 People feel well
 By running
-.",0.16666666666666666
+.",0.16666666666666666,0.095847525
 Idate.,"おっ
 ｡
 
 ","Oh
-.",0.3333333333333333
+.",0.3333333333333333,0.20701201
 Idate of the Wasabi Family's here!,"(
 観客１
 )
@@ -617,18 +617,18 @@ Idate of the Wasabi Family's here!,"(
 ワサビ一家のイダテが来た！
 
 ","I came!
-Idate of Wasabi family came!",0.5
+Idate of Wasabi family came!",0.5,0.8315177
 You can still catch up!,"(観客２)行け～！
 (観客３)まだ追いつけんぞ！
 
 ","Go!
- Still catch up yet!",0.5
+ Still catch up yet!",0.5,0.6493731
 Idiot!,"うお～！
 
-",Uo!,0.3333333333333333
+",Uo!,0.3333333333333333,0.34863004
 "What're you doing, Fukusuke?! Run!","何？
 
-",what?,0.2222222222222222
+",what?,0.2222222222222222,0.13243105
 I won't give up until the very end!,"(ｲﾀﾞﾃ)
 最後の最後まで
  
@@ -636,7 +636,7 @@ I won't give up until the very end!,"(ｲﾀﾞﾃ)
 
 ","To the end of the last
  
-Please give up!",0.35714285714285715
+Please give up!",0.35714285714285715,0.77500355
 "- All right!
 - He caught up.","よっしゃ～！
 (
@@ -646,13 +646,13 @@ Please give up!",0.35714285714285715
 
 ","Yes!
 
-I caught up!",0.3
+I caught up!",0.3,0.5033495
 Idate...!,"(
 次郎長
 )
 イダテ！
 
-",Idate!,0.6666666666666666
+",Idate!,0.6666666666666666,0.8910481
 "Come on, Idate!","さぁ
  
 来い
@@ -663,11 +663,11 @@ Idate...!,"(
  
 come
  
-Idate!",0.5
+Idate!",0.5,0.751038
 <i>Boss!</i>,"(ｲﾀﾞﾃ)
 《親分！》
 
-","""boss!""",0.25
+","""boss!""",0.25,0.63141924
 You ran a fine race.,"(
 次郎長
 )
@@ -679,12 +679,12 @@ You ran a fine race.,"(
 ","Idate
  
 It was a nice race
-.",0.3
+.",0.3,0.6227109
 You did well.,"頑張ったな
 ｡
 
 ","I did my best
-.",0.2857142857142857
+.",0.2857142857142857,0.6546999
 "Boss, I'm sorry. I'm truly sorry.","親分
  
 すまねえ
@@ -693,12 +693,12 @@ You did well.,"頑張ったな
 ","boss
  
 Spoon
-.",0.25
+.",0.25,0.35878098
 You won.,"てめぇは勝ったんだぞ
 ｡
 
 ","Temeshi won
-.",0.5
+.",0.5,0.40157574
 "I really want to apologize now.
 I'm truly sorry!","いえ
  
@@ -716,7 +716,7 @@ I am now
  
 I want to apologize
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.64752585
 "You're making no sense to me.
 What a totally weird guy.","バカ野郎
  
@@ -730,7 +730,7 @@ What a totally weird guy.","バカ野郎
 what
  
 Apologize
-.",0.2
+.",0.2,0.27005574
 "Well done, Idate.","よくやったな
  
 イダテ
@@ -747,7 +747,7 @@ Idate
 .
 
 I reviewed it
-.",0.3333333333333333
+.",0.3333333333333333,0.43044403
 "Okay, Idate.
 Go receive the winner's blessing.","さぁ
  
@@ -759,11 +759,11 @@ Go receive the winner's blessing.","さぁ
  
 go
 Receive the blessing of the winner
-.",0.5
+.",0.5,0.6852796
 Yes!,"(ｲﾀﾞﾃ)
 へい！
 
-",Wall!,0.3333333333333333
+",Wall!,0.3333333333333333,0.37884542
 "Hey, Idate!","(
 観客
 )
@@ -776,15 +776,15 @@ Yes!,"(ｲﾀﾞﾃ)
 
 ","In
  
-Idate!",0.4
+Idate!",0.4,0.70170313
 I-I'm sorry!,"覚悟は できてんだろうな!?
 (ﾌｸｽｹ)うぅ… す… すいません｡
 
 ","Are you ready!?
- ... I'm sorry.",0.2727272727272727
+ ... I'm sorry.",0.2727272727272727,0.4904053
 The winner!,"だっ！
 
-",!,0.3333333333333333
+",!,0.3333333333333333,0.35963678
 Idate Morino of the Wasabi Family!,"(
 男性
 )
@@ -794,7 +794,7 @@ Idate Morino of the Wasabi Family!,"(
 
 ","winner
  
-Wasabi family Morino Idata!",0.4444444444444444
+Wasabi family Morino Idata!",0.4444444444444444,0.82970023
 He finally did it.,"あいつ
  
 とうとう
@@ -807,7 +807,7 @@ He finally did it.,"あいつ
 finally
  
 Exchanged
-.",0.25
+.",0.25,0.4089073
 "Hey, hey... Just a minute.","ヘヘヘ…
 ｡
 (
@@ -815,7 +815,7 @@ Exchanged
 )
 
 ","Hehehe ...
-.",0.25
+.",0.25,0.20655265
 "Along the way, he rode
 on the back of a hired Ninja.","イダテはレースの途中で
 雇った忍者に
@@ -827,7 +827,7 @@ on the back of a hired Ninja.","イダテはレースの途中で
 To the ninja who hired
  
 Be born
-.",0.22727272727272727
+.",0.2272727272727273,0.55275965
 This is a violation.,"こりゃ
  
 反則だ
@@ -836,7 +836,7 @@ This is a violation.,"こりゃ
 ","In case
  
 It is a foul
-.",0.3333333333333333
+.",0.3333333333333333,0.27274132
 W-What?,"あ？
  
 九六
@@ -845,7 +845,7 @@ W-What?,"あ？
 ","Ah?
  
 Nine six
-.",0.16666666666666666
+.",0.16666666666666666,0.16487274
 There's proof.,"な…
  
 何？
@@ -864,12 +864,12 @@ what?
 With evidence
  
 There is
-.",0.2
+.",0.2,0.5381579
 Look at this photo.,"この写真を見てくれ
 ｡
 
 ","Look at this picture
-.",0.6666666666666666
+.",0.6666666666666666,0.92862844
 "Racing until the end on your own strength
 is the rule of this race.","このレースのルールである
 ｡
@@ -877,7 +877,7 @@ is the rule of this race.","このレースのルールである
 
 ","It is a rule of this race
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.5483013
 "Therefore, Idate is disqualified.","よって
  
 イダテは失格だ
@@ -886,7 +886,7 @@ is the rule of this race.","このレースのルールである
 ","By all means
  
 Idate is disqualified
-.",0.4444444444444444
+.",0.4444444444444444,0.9459307
 "The winner is Fukusuke Hikyakuya
 of the Wagarashi Family.","勝者は
  
@@ -898,7 +898,7 @@ of the Wagarashi Family.","勝者は
  
 Wagarashi family
 It is a flying house fksuke
-.",0.42857142857142855
+.",0.42857142857142855,0.7745905
 H-Hold it. That was...!,"あ…
  
 そんな…
@@ -919,7 +919,7 @@ Devil…
  
 Wait please
  
-That is…!",0.3076923076923077
+That is…!",0.3076923076923077,0.23862837
 "I'll hear no excuses!
 Jirocho, it's a promise.","え～い！
  
@@ -937,7 +937,7 @@ Jiro
  
 It is a promise
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.83843637
 "I order the Wasabi Family
 dissolved immediately.","ワサビ一家は
 即刻
@@ -949,7 +949,7 @@ dissolved immediately.","ワサビ一家は
 Immediately
  
 Apply
-.",0.4444444444444444
+.",0.4444444444444444,0.7295148
 "There is no such rule anywhere.
 Do not speak nonsense!","そんなルールは
 どこにもない
@@ -961,13 +961,13 @@ Do not speak nonsense!","そんなルールは
 Nowhere
  
 Do stupid
-.",0.2
+.",0.2,0.5916608
 Or perhaps...,"(
 大名
 )
 それとも何か？➡
 
-",Or anything?➡,0.16666666666666666
+",Or anything?➡,0.16666666666666666,0.34940997
 "you have a reason for wanting
 the Wagarashi to win at all cost?","どうしても
  
@@ -981,7 +981,7 @@ the Wagarashi to win at all cost?","どうしても
 I want to win the wagash
 Too
  
-Is there a lot?",0.20833333333333334
+Is there a lot?",0.20833333333333331,0.6048832
 "No, nothing like that.","いえ…
  
 そのような…
@@ -990,7 +990,7 @@ Is there a lot?",0.20833333333333334
 ","home…
  
 like that…
-.",0.25
+.",0.25,0.309582
 "Could it be because you would
 not be able to do things like this?","恐らく
  
@@ -1004,7 +1004,7 @@ not be able to do things like this?","恐らく
 You are
  
 Such a thing
-Because it can not be done",0.23809523809523808
+Because it can not be done",0.2380952380952381,0.6063235
 Look.,"と…
  
 殿
@@ -1013,7 +1013,7 @@ Look.,"と…
 ","When…
  
 Palace
-.",0.25
+.",0.25,0.17235602
 "You fool!
 Retire and enter the monastery!","この
  
@@ -1023,10 +1023,10 @@ Retire and enter the monastery!","この
 ","this
  
 A depression!
-You are retired and put in the French gate!",0.23529411764705882
+You are retired and put in the French gate!",0.2352941176470588,0.4179326
 "Yes, yes, my lord!","うあっ！
 
-",!,0.2
+",!,0.2,0.25684482
 Kyuroku Wagarashi.,"は…
  
 ははあ
@@ -1035,7 +1035,7 @@ Kyuroku Wagarashi.,"は…
 ","teeth…
  
 Has
-.",0.2
+.",0.2,0.08686445
 "Your sins against the people
 of Degarashi Port are severe.","出芥港の民を苦しめた罪は重い
 ｡
@@ -1043,7 +1043,7 @@ of Degarashi Port are severe.","出芥港の民を苦しめた罪は重い
 
 ","Sin who suffered the people of the pure port is heavy
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.5922428
 "Thanks for the help, Naruto.","(ｲﾀﾞﾃ)
 世話になったな
  
@@ -1053,10 +1053,10 @@ of Degarashi Port are severe.","出芥港の民を苦しめた罪は重い
 ","I was taken care of
  
 Naruto
-.",0.16666666666666666
+.",0.16666666666666666,0.59786695
 "Idate, this is good bye, huh?","よいな？
 
-",Is it a good?,0.3
+",Is it a good?,0.3,0.1983286
 I've come to get the wounded.,"イダテ
  
 お別れだな
@@ -1065,7 +1065,7 @@ I've come to get the wounded.,"イダテ
 ","Idate
  
 I'm going to say
-.",0.25
+.",0.25,0.1740073
 Ibiki.,"イビキさん
 ｡
 あ…
@@ -1076,7 +1076,7 @@ Ibiki.,"イビキさん
 .
 Ah…
  
-Big brother!",0.3333333333333333
+Big brother!",0.3333333333333333,0.8062585
 Where are the wounded?,"(ｲﾋﾞｷ)
 ケガ人は
  
@@ -1084,7 +1084,7 @@ Where are the wounded?,"(ｲﾋﾞｷ)
 
 ","Injured
  
-Where's?",0.2857142857142857
+Where's?",0.2857142857142857,0.586245
 "Okay, get him on the boat, quickly.","フン
  
 早く
@@ -1097,7 +1097,7 @@ Where's?",0.2857142857142857
 quickly
  
 Put on the ship
-.",0.3333333333333333
+.",0.3333333333333333,0.51065636
 R-Right.,"あ…
  
 うん
@@ -1106,7 +1106,7 @@ R-Right.,"あ…
 ","Ah…
  
 Yes
-.",0.25
+.",0.25,0.3770175
 What is it?,"あ…
  
 あの
@@ -1117,28 +1117,28 @@ What is it?,"あ…
  
 that
 .
-What?",0.2857142857142857
+What?",0.2857142857142857,0.1641443
 "Wait, Big Brother!","待ってくれ
  
 兄貴！
 
 ","Wait please 
  
- Big brother!",0.6666666666666666
+ Big brother!",0.6666666666666666,0.89695936
 "The man who called me
 Big Brother died three years ag","(ｲﾋﾞｷ)
 どなたかな？
 俺を兄と呼ぶ男は➡
 
 ","Anyone?
-A man calling me a brother",0.2
+A man calling me a brother",0.2,0.63865215
 <i>I can trust others now!</i>,"今なら
  
 他人を信じられる》
 
 ","now
  
-""I believe others",0.2727272727272727
+""I believe others",0.2727272727272727,0.52004474
 "'Bye, Idate. Let's meet again.","じゃあな
  
 イダテ
@@ -1151,7 +1151,7 @@ A man calling me a brother",0.2
 Idate
  
 Let's meet again
-.",0.6
+.",0.6,0.8529729
 Good bye. See you around.,"さよなら
  
 またね
@@ -1160,7 +1160,7 @@ Good bye. See you around.,"さよなら
 ","Goodbye
  
 see you
-.",0.42857142857142855
+.",0.42857142857142855,0.74508905
 "Yeah. You guys come again, too, okay?","(ｲﾀﾞﾃ)
 ああ
  
@@ -1174,12 +1174,12 @@ see you
 You guys
  
 See you again
-.",0.3333333333333333
+.",0.3333333333333333,0.5895436
 See ya!,"またな～！
 じゃあね！
 
 ","See you again!
-See ya!",0.6
+See ya!",0.6,0.71962345
 <i>An interesting guy as always.</i>,"(ｲﾋﾞｷ)
 《相変わらず
 おもしろいヤツだ
@@ -1189,7 +1189,7 @@ See ya!",0.6
 ","""As usual
 It is an interesting guy
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.67056245
 "<i>No wonder the Fifth Hokage</i>
 <i>sees potential in him.</i>","さすがは
  
@@ -1199,7 +1199,7 @@ It is an interesting guy
 ","Sexual
  
 Fifth generation
-There is only a recognized thing",0.047619047619047616
+There is only a recognized thing",0.047619047619047616,0.29762262
 Naruto! Thanks!,"(ｲﾀﾞﾃ)
 ナルト～！
  
@@ -1207,7 +1207,7 @@ Naruto! Thanks!,"(ｲﾀﾞﾃ)
 
 ","Naruto ~!
  
-Thank you!",0.3333333333333333
+Thank you!",0.3333333333333333,0.96520466
 "Idate! Next time,
 it'll be a battle with me, believe it.","イダテ～！
  
@@ -1217,7 +1217,7 @@ it'll be a battle with me, believe it.","イダテ～！
 ","Idate ~!
  
 This time with me
-It's a game!",0.3888888888888889
+It's a game!",0.3888888888888889,0.7150591
 "Sasuke, does it hurt?","サスケ君
  
 痛む？
@@ -1228,7 +1228,7 @@ It's a game!",0.3888888888888889
  
 Do you hurt?
 Disagreeable
-.",0.3
+.",0.3,0.8248318
 "Those wounds will heal immediately
 once we get back to the village.","よかった
  
@@ -1244,7 +1244,7 @@ Such injury
 If you go home
  
 It will be cured soon
-.",0.08
+.",0.08,0.42163557
 Right.,"(ｱｵｲ)
 ＜うわさは本当だったな
 ｡
@@ -1252,7 +1252,7 @@ Right.,"(ｱｵｲ)
 
 ","<Wow was true
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.18167178
 "<i>The survivor of</i>
 <i>the village's honorable Uchiha Clan...</i>","里の名門
  
@@ -1262,12 +1262,12 @@ Right.,"(ｱｵｲ)
 ","Prestigious
  
 Of the family members
-I survived",0.17647058823529413
+I survived",0.17647058823529413,0.36653864
 <i>is just a good for nothing kid...</i>,"いちばん出来の悪い
 ヤツだってな＞
 
 ","I'm a bad thing
-It's a guy>",0.16666666666666666
+It's a guy>",0.16666666666666666,0.27438262
 <i>I couldn't beat him!</i>,"《俺は
  
 ヤツを倒せなかった…
@@ -1278,17 +1278,17 @@ It's a guy>",0.16666666666666666
  
 I could not beat the guy ...
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.7088899
 <i>that Naruto...!</i>,"あのナルトが…》
 
-","That Naruto ... """,0.3333333333333333
+","That Naruto ... """,0.3333333333333333,0.88067883
 <i>Rendezvous with a happy dance circle</i>,"♬
  
 ダンランダンスでランデブー
 
 ","♬
  
-Rendezvous at Dunran Dance",0.15384615384615385
+Rendezvous at Dunran Dance",0.15384615384615385,0.65351194
 "<i>This is my victory pose, round and around</i>
 <i></i>","♬
  
@@ -1306,7 +1306,7 @@ me
 Victory
 Pose
 is
-Round Around",0.3333333333333333
+Round Around",0.3333333333333333,0.83784366
 "<i>Shake shake shake</i>
 <i>Let's look</i>","♬
  
@@ -1314,4 +1314,4 @@ Round Around",0.3333333333333333
 
 ","♬
  
-I am sometime",0.09090909090909091
+I am sometime",0.09090909090909093,0.284771

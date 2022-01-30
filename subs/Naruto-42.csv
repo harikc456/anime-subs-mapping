@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774589
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.60482836
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,7 +68,7 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.5518779
 "At this point in time,","♬
  
 だから
@@ -81,7 +81,7 @@ There is no meaning",0.2
 that's why
 ,
 Oh
-,",0.09090909090909091
+,",0.09090909090909093,0.18864064
 "I don't even plan to fight
 over Sasuke with you.","あんたとサスケ君を
 取り合うつもりもないわ
@@ -89,7 +89,7 @@ over Sasuke with you.","あんたとサスケ君を
 
 ","Ann and Sasuke
 I'm not going to keep up
-.",0.21052631578947367
+.",0.21052631578947367,0.62275016
 "Do you know who
 you're lipping off to?!","(
 いの
@@ -106,7 +106,7 @@ you're lipping off to?!","(
 Aunt
  
 Who
-I know about the mouth of the mouth!?",0.23529411764705882
+I know about the mouth of the mouth!?",0.2352941176470588,0.32058033
 "Don't press your luck,
 crybaby Sakura!","図に乗んなよ！
  
@@ -114,7 +114,7 @@ crybaby Sakura!","図に乗んなよ！
 
 ","Take a picture!
  
-Crying cough Sakura!",0.14285714285714285
+Crying cough Sakura!",0.14285714285714285,0.67469114
 Hmm.,"(ｶｶｼ)
 う～ん…
  
@@ -126,14 +126,14 @@ Hmm.,"(ｶｶｼ)
  
 Different
 .
-Yeah?",0.3333333333333333
+Yeah?",0.3333333333333333,0.41509545
 That's not it...,"サクラちゃん
 言い過ぎだってばよ
 ｡
 
 ","Sakura-chan
 It's too much
-.",0.2222222222222222
+.",0.2222222222222222,0.16709861
 "Sakura's not the kind of kid
 to do things","(ｶｶｼ)
 サクラは
@@ -144,7 +144,7 @@ to do things","(ｶｶｼ)
 ","Sakura
  
 Mischief
-Shortly the power of your own power",0.2
+Shortly the power of your own power",0.2,0.6222317
 "She doesn't like having Ino
 taking pity on her and pulling punches.","いのに容赦されたり
 手加減されるのが嫌なんだよ
@@ -152,26 +152,26 @@ taking pity on her and pulling punches.","いのに容赦されたり
 
 ","I am forgiven
 I don't like to have a good time
-.",0.13043478260869565
+.",0.13043478260869565,0.2648616
 "- <i>This time for sure,</i>
 - <i>This time for sure,</i>","(ｻｸﾗ･
 いの
 )
 《今度こそ➡
 
-","""This time",0.18181818181818182
+","""This time",0.18181818181818185,0.48751786
 "This isn't a Ninja Academy's
 graduation exam!","忍者アカデミーの
 卒業試験じゃないのよ！
 
 ","Ninja academy
-It's not a graduation test!",0.2857142857142857
+It's not a graduation test!",0.2857142857142857,0.8996107
 You think you can beat me...,"あたしを倒せると思ってんの!?
 
-",Do you think you can beat me!?,0.5555555555555556
+",Do you think you can beat me!?,0.5555555555555556,0.72934663
 with a textbook ninja art?!,"そんな教科書忍法で➡
 
-",Such a textbook,0.25
+",Such a textbook,0.25,0.40806106
 "<i>If I look carefully, I can find out,</i>
 <i>which is the real one right away...</i>","(
 いの
@@ -184,29 +184,29 @@ with a textbook ninja art?!,"そんな教科書忍法で➡
 ","""If you look carefully
 Which is the real thing
  
-straight away…""",0.28
+straight away…""",0.28,0.49813646
 <i>Chakra to my feet at a burst... Then...</i>,"《チャクラを一気に足へ
 ｡
 ➡
 
 ","""A chakra to feet at once
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.7573836
 <i>repel off the ground!</i>,"そして地面をはじく！》
 
-","And the ground!""",0.2727272727272727
+","And the ground!""",0.2727272727272727,0.47339767
 <i>Fast!</i>,"(
 いの
 )
 《速い！》
 
-","""fast!""",0.25
+","""fast!""",0.25,0.620527
 "If you think I'm the crybaby Sakura
 I was until recently,","今までの泣き虫サクラだと
 思ってると➡
 
 ","If it is a crying insect Sakura so far
-If you think",0.21052631578947367
+If you think",0.21052631578947367,0.59580046
 I appreciate you saying that...,"そう言ってもらえると
 うれしいわ
 ｡
@@ -215,20 +215,20 @@ I appreciate you saying that...,"そう言ってもらえると
 ","If you say so
 I'm glad
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.38003427
 "I'll go like I mean it, as you wish!","お望みどおり
  
 本気で行くわよ！
 
 ","As desired
  
-I will go seriously!",0.2857142857142857
+I will go seriously!",0.2857142857142857,0.48934954
 Great!,"(
 いの
 )
 うっ！➡
 
-",Uh!➡,0.25
+",Uh!➡,0.25,0.4114309
 Really great!,"さすが
  
 サクラちゃん！
@@ -245,7 +245,7 @@ Susumu!
  
 Really
  
-Susumu!",0.3333333333333333
+Susumu!",0.3333333333333333,0.1319843
 Sakura is at her best.,"(ｶｶｼ)
 サクラのヤツ
  
@@ -255,7 +255,7 @@ Sakura is at her best.,"(ｶｶｼ)
 ","Sakura guy
  
 I'm fulfilling
-.",0.2
+.",0.2,0.6942951
 "That means...
 Is she better than me?","俺より
  
@@ -269,7 +269,7 @@ Is she better than me?","俺より
 Is it delicious?
  
 After all
-.",0.125
+.",0.125,0.16078657
 That's right.,"(ｶｶｼ)
 まっ
  
@@ -283,14 +283,14 @@ That's right.,"(ｶｶｼ)
 That's it
 .
 Oh ~
-.",0.375
+.",0.375,0.21247119
 "Sending,""Chakra all throughout
 the body and","(ｶｶｼ)
 全身の隅々まで
 チャクラを巡らし➡
 
 ","Until everything of the whole body
-Clakra",0.14285714285714285
+Clakra",0.14285714285714285,0.34185368
 "using the technique
 with it at a right timing...","新人じゃ
  
@@ -302,7 +302,7 @@ with it at a right timing...","新人じゃ
  
 Pikaichi
 .
-Ah?",0.13333333333333333
+Ah?",0.13333333333333333,0.15538985
 "Those techniques alone
 are better than Sasuke.","あれだけなら
 サスケよりも上だよ
@@ -312,7 +312,7 @@ are better than Sasuke.","あれだけなら
 ","If only
 It is above Sasuke
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.6003306
 "<i>However, her opponent is good too.</i>","(
 リー
 )
@@ -326,7 +326,7 @@ It is above Sasuke
  
 Partner
 .
-➡",0.06666666666666667
+➡",0.06666666666666668,0.2485489
 "<i>This evenly matched battle</i>
 <i>looks to take awhile!</i>","互角の戦い
  
@@ -334,7 +334,7 @@ Partner
 
 ","Total battle
  
-It looks longer """,0.11764705882352941
+It looks longer """,0.1176470588235294,0.51307106
 "<i>Since when did this girl</i>
 <i>get this strong?!</i>","(
 いの
@@ -347,21 +347,21 @@ It looks longer """,0.11764705882352941
 ","""this child
  
 Always
-Did you get so strong?""",0.2631578947368421
+Did you get so strong?""",0.2631578947368421,0.4566647
 "<i>I can make it, too!</i>","《行ける！
  
 私だって！》
 
 ","""Can go!
  
-I am!""",0.21428571428571427
+I am!""",0.21428571428571427,0.31925616
 Whoa!,"この！
 
-",this!,0.3333333333333333
+",this!,0.3333333333333333,0.4413982
 <i>This is long...</i>,"(ｶｶｼ)
 《このままじゃ切りがないな》
 
-","""There is no cut in this way""",0.13333333333333333
+","""There is no cut in this way""",0.13333333333333333,0.21288303
 "<i>They've been going at it</i>
 <i>for ten minutes, at the least.</i>","10
 分間は
@@ -371,7 +371,7 @@ Whoa!,"この！
 ","Ten
 For the minute
  
-""I'm done""",0.2
+""I'm done""",0.2,0.4706131
 You!,"(
 いの
 )
@@ -379,7 +379,7 @@ You!,"(
 あたしをナメるのも大概にしろ！
 
 ","Aunt
-It is also mainly that you can see me!",0.18181818181818182
+It is also mainly that you can see me!",0.18181818181818185,0.20456442
 Idiot.,"ハァ
  
 ハァ
@@ -392,7 +392,7 @@ Idiot.,"ハァ
 Han
  
 Hua ...
-.",0.2
+.",0.2,0.0902119
 You're simple minded...,"フフ…
  
 単純ね
@@ -401,21 +401,21 @@ You're simple minded...,"フフ…
 ","Fufu ...
  
 Simple
-.",0.2857142857142857
+.",0.2857142857142857,0.39949918
 I'll make you say that you lost!,"さっさと
  
 けりつけてやるわ！
 
 ","quickly
  
-I'll do it!",0.2727272727272727
+I'll do it!",0.2727272727272727,0.2784851
 "<i>As I recall, that Sign is...</i>","《あっ
  
 あの印は確か…》
 
 ","""Ah
  
-That sign is sure ... """,0.2857142857142857
+That sign is sure ... """,0.2857142857142857,0.4678248
 "I understand your feelings of frustration,
 but that's futile.","焦る気持ちも分かるけど
 それは
@@ -427,7 +427,7 @@ but that's futile.","焦る気持ちも分かるけど
 that is
  
 I'm sorry
-.",0.2
+.",0.2,0.3254929
 Humph!,"あっ…
  
 つうか
@@ -442,13 +442,13 @@ Him
  
 Oi
  
-Masao!",0.16666666666666666
+Masao!",0.16666666666666666,0.27085018
 "by discharging all of
 their own spiritual energy","術者が自分の精神エネルギーを
 丸ごと放出し➡
 
 ","The operator has his own spiritual energy
-Really released",0.21428571428571427
+Really released",0.21428571428571427,0.46577877
 "Second, even in the case of failing
 to hit the enemy and missing,","相手に
  
@@ -458,23 +458,23 @@ to hit the enemy and missing,","相手に
 ","To the other party
  
 Lose up
-Even if it is",0.15
+Even if it is",0.15,0.19718212
 "the user can't return to her
 own body for several minutes.","数分間は術者の体に戻れない
 ｡
 
 ","I can not return to the body of the operator for a few minutes
-.",0.35
+.",0.35,0.57944053
 "<i>In the first place,</i>","(ｱｽﾏ)
 《そもそも心転身の術は
 スパイ用で➡
 
 ","""The spirit of heart rolling in the first place
-For spy",0.25
+For spy",0.25,0.123500675
 "<i>Ino, using that Jutsu here</i>
 <i>would be equal to suicide...</i>","自殺行為に等しいぞ》
 
-",It is equal to suicide activity,0.15789473684210525
+",It is equal to suicide activity,0.15789473684210525,0.42374486
 "<i>she can beat the heck out</i>
 <i>of the non moving opponent.</i>","動かない相手を
 たこ殴りにできる
@@ -484,24 +484,24 @@ For spy",0.25
 ","The other party that does not move
 I can do it
 .
-➡",0.125
+➡",0.125,0.36155048
 "<i>If that happens, Hayate will be forced</i>
 <i>to put an end to the match...</i>","ハヤテも
 試合を止めざるをえないな》
 
 ","Hayate
-I have to stop the game """,0.17391304347826086
+I have to stop the game """,0.17391304347826084,0.61854565
 So what?!,"(
 いの
 )
 だからって何よ!?➡
 
-",So what!? ➡,0.8
+",So what!? ➡,0.8,0.76193255
 "If you miss, it's over.","やってみないと
 分かんないでしょ！
 
 ","If you do not do it
-I can not understand!",0.21428571428571427
+I can not understand!",0.21428571428571427,0.090063125
 "You know that, right?","外したら終わりよ
 分かってるの？
  
@@ -510,17 +510,17 @@ I can not understand!",0.21428571428571427
 ","It is over when it is off
 Do you know?
  
-Hey?",0.23076923076923078
+Hey?",0.2307692307692308,0.13168316
 "<i>In the first place,</i>
 <i>it's a combination Jutsu to be used</i>","(ｼｶﾏﾙ)
 《そもそも戦闘中は
 俺の影真似の術で➡
 
 ","""In the first place in battle
-In my shadow equivalence",0.18181818181818182
+In my shadow equivalence",0.18181818181818185,0.25479314
 "<i>There is no way, it will hit...</i>","無理だっつうんだよ》
 
-","It is impossible. """,0.13333333333333333
+","It is impossible. """,0.13333333333333333,0.26301926
 Idiot! Stop!,"あっ！
 ばか
  
@@ -529,17 +529,17 @@ Idiot! Stop!,"あっ！
 ","Ah!
 fool
  
-Yes!",0.16666666666666666
+Yes!",0.16666666666666666,0.40625203
 "Ninja Art, Mind Transfer Jutsu!","忍法
  
 心転身の術！
 
 ","Ninja method
  
-Heart bleback!",0.2
+Heart bleback!",0.2,0.45181754
 Which one?,"どっちだ？
 
-",Which one?,1.0
+",Which one?,1.0,1.0000001
 That was unfortunate...,"フフフ…
  
 残念だったわね
@@ -548,7 +548,7 @@ That was unfortunate...,"フフフ…
 ","Fuhufu ...
  
 It was disappointing
-.",0.25
+.",0.25,0.35771504
 Ino.,"いの
 ｡
 万事休すか
@@ -557,10 +557,10 @@ Ino.,"いの
 ","For
 .
 Vacuinant
-.",0.25
+.",0.25,0.24950798
 This is?!,"あっ！
 
-",Ah!,0.2
+",Ah!,0.2,0.34837213
 I finally caught you!,"(
 いの
 )
@@ -568,7 +568,7 @@ I finally caught you!,"(
 ｡
 
 ","I finally got caught
-.",0.42857142857142855
+.",0.42857142857142855,0.6433916
 "Yes, it can.","(
 いの
 )
@@ -580,20 +580,20 @@ I finally caught you!,"(
 ","Was it
  
 Cherry blossoms
-.",0.25
+.",0.25,0.11013497
 "My Sign weaving earlier was just an act,","さっきの印を結ぶ行為は
 ただの芝居
 ｡
 
 ","The act of connecting the sign
 Just play
-.",0.21428571428571427
+.",0.21428571428571427,0.60371083
 "to drive you who was running
 about into this contrivance.","これは…
 ｡
 
 ","this is…
-.",0.16666666666666666
+.",0.16666666666666666,0.16320476
 "You can't move at all, can you?","どう？
  
 全然
@@ -608,7 +608,7 @@ at all
  
 I can not move
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.4849682
 "It's special rope that's my hair
 with Chakra poured in!","私の髪にチャクラを流し込んだ
 特製の縄よ
@@ -616,7 +616,7 @@ with Chakra poured in!","私の髪にチャクラを流し込んだ
 
 ","I poured chakra on my hair
 Special rope
-.",0.4
+.",0.4,0.89891356
 "With this, it will be over when
 I enter your body and say ""give up!""","これで
  
@@ -624,13 +624,13 @@ I enter your body and say ""give up!""","これで
 
 ","with this
  
-Enter your body",0.2631578947368421
+Enter your body",0.2631578947368421,0.4094421
 <i>I see...</i>,"(ｶｶｼ)
 なるほどね
 ｡
 
 ","I see
-.",0.2857142857142857
+.",0.2857142857142857,0.38965926
 "That idiot... Her losing it
 was also an act?","(ｼｶﾏﾙ)
 あのばか
@@ -639,7 +639,7 @@ was also an act?","(ｼｶﾏﾙ)
 
 ","Thatborough
 It was also a play that was a play
-.",0.26666666666666666
+.",0.26666666666666666,0.25418252
 "Get out of there, Sakura!","100
 ％
  
@@ -648,10 +648,10 @@ It was also a play that was a play
 ","100
 %
  
-I can not go out!",0.15384615384615385
+I can not go out!",0.15384615384615385,0.3153719
 <i>I can't move!</i>,"《動けない！》
 
-","""I can not move!""",0.25
+","""I can not move!""",0.25,0.73480284
 Sakura...,"(
 リー
 )
@@ -661,17 +661,17 @@ Sakura...,"(
 
 ","Sakura ...
 .
-Sakura-chan!",0.4
+Sakura-chan!",0.4,0.8725821
 "Do it, Sakura!","サクラ！
 
-",Sakura!,0.4
+",Sakura!,0.4,0.7914158
 Sakura's had it.,"サクラちゃんの様子が
 何か変だってばよ
 ｡
 
 ","Sakura-chan's appearance
 It's strange
-.",0.375
+.",0.375,0.6208145
 That means Sakura right now is...,"今
  
 サクラさんは…
@@ -680,7 +680,7 @@ That means Sakura right now is...,"今
 ","now
  
 Sakura is ...
-.",0.5
+.",0.5,0.89858097
 "Sakura's spirit has been
 completely taken over by Ino.","サクラの精神は完全に
 いのに乗っ取られた
@@ -688,10 +688,10 @@ completely taken over by Ino.","サクラの精神は完全に
 
 ","Sakura spirit is completely
 I was taken over
-.",0.42857142857142855
+.",0.42857142857142855,0.71737766
 What?!,"え!?
 
-",Huh!?,0.5
+",Huh!?,0.5,0.45487544
 Well.,"(ｶｶｼ)
 ああ
 ｡
@@ -699,7 +699,7 @@ Well.,"(ｶｶｼ)
 
 ","Ah
 .
-➡",0.25
+➡",0.25,0.45721948
 I... Sakura Haruno concede...,"私
  
 春野サクラは
@@ -710,16 +710,16 @@ I... Sakura Haruno concede...,"私
  
 Haruno Sakura
  
-This match ... ➡",0.3333333333333333
+This match ... ➡",0.3333333333333333,0.79154277
 Tsk!,"サクラちゃ～ん！
 
-",Sakura!,0.3333333333333333
+",Sakura!,0.3333333333333333,0.4137066
 "You'll disgrace women if you lose
 to that Sasuke-obsessed girl!","サスケばか女なんかに負けたら
 女が廃るぞ！
 
 ","If it loses to Sasuke ore woman
-Women will get lost!",0.21052631578947367
+Women will get lost!",0.21052631578947367,0.78355896
 <i>What's...</i>,"だから
 そんなこと言ったって
  
@@ -730,7 +730,7 @@ Women will get lost!",0.21052631578947367
 That said that
  
 Mud ...
-.",0.16666666666666666
+.",0.16666666666666666,0.08288261
 <i>Naruto is annoying!</i>,"《
 ﾅﾙﾄ
 のヤツ
@@ -743,7 +743,7 @@ Naruto
 Guy
  
 It's noisy!""
-Ah!",0.13333333333333333
+Ah!",0.13333333333333333,0.7082471
 Sakura?!,"サクラ？
  
 そんなばかな…
@@ -752,25 +752,25 @@ Sakura?!,"サクラ？
 ","Sakura?
  
 Such stupid ...
-.",0.2857142857142857
+.",0.2857142857142857,0.864542
 This can't be happening...,"この悪寒…
 ｡
 
 ","This chill ...
-.",0.25
+.",0.25,0.36709124
 What's the matter?,"(ﾊﾔﾃ)
 どうしたんですか？➡
 
-",What happened?➡,0.2857142857142857
+",What happened?➡,0.2857142857142857,0.18814392
 Are you conceding?,"棄権ですか？
 
-",Are you abandoned?,0.6
+",Are you abandoned?,0.6,0.347331
 Cha!,"うっ！
 
-",Uh!,0.3333333333333333
+",Uh!,0.3333333333333333,0.39973974
 <i>Which is it?</i>,"たまるもんですか～！
 
-",Is it Mitaka-!,0.2
+",Is it Mitaka-!,0.2,0.25392237
 "Ino... You'll have a terrible time of it
 if you don't get out of me quick!","《いの
  
@@ -780,7 +780,7 @@ if you don't get out of me quick!","《いの
 ","""
  
 Among me
-If you do not go out early",0.21739130434782608
+If you do not go out early",0.21739130434782608,0.3453028
 "What's wrong, with Ino?","(
 いの
 )
@@ -790,10 +790,10 @@ If you do not go out early",0.21739130434782608
 
 ","""...
  
-What's that?""",0.2727272727272727
+What's that?""",0.2727272727272727,0.052760713
 Release!,"解！》
 
-","Solution!""",0.25
+","Solution!""",0.25,0.37762582
 "<i>She used too much energy</i>
 <i>before the Jutsu...</i>","(ｱｽﾏ)
 《術の前に力を使い過ぎた
@@ -802,18 +802,18 @@ Release!,"解！》
 
 ","""I used power before the art
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.4287797
 <i>So she didn't have enough Chakra?!</i>,"チャクラ不足だった
 ってことか？》
 
 ","It was a short chakra
-Is it?""",0.10526315789473684
+Is it?""",0.10526315789473684,0.6440243
 "To think she has two spirits...
 What are you?!","精神が２つあるなんて…
 ｡
 
 ","There are two spirituality ...
-.",0.2
+.",0.2,0.54764
 Strength that ranks with beauty.,"美しさと並び立つ
  
 強さ
@@ -822,29 +822,29 @@ Strength that ranks with beauty.,"美しさと並び立つ
 ","Beauty and stand
  
 strength
-.",0.375
+.",0.375,0.824719
 Girls can't survive if they're not tough!,"女の子はタフじゃないと
 生き残れないのよ
 ｡
 
 ","The girl is not tough
 She can not survive
-.",0.1875
+.",0.1875,0.71091676
 "<i>If caught in that spell,</i>","(ｶｶｼ)
 《あの術にかかれば➡
 
-","""If you have that technique",0.14285714285714285
+","""If you have that technique",0.14285714285714285,0.17243549
 <i>Ino's lack of Chakra...</i>,"いののチャクラ不足
 それもあるが➡
 
 ","Lack of Ayakura
-It is also ➡",0.13333333333333333
+It is also ➡",0.13333333333333333,0.40221566
 "<i>But what was more effective</i>
 <i>than that...</i>","それ以上に効いたのは
 サクラの心の内にある➡
 
 ","It worked more than that
-Sakura's heart",0.17647058823529413
+Sakura's heart",0.17647058823529413,0.28394258
 "<i>So that was awakened with Naruto's voice</i>
 <i>as the trigger and she cast Ino out?</i>","それが
  
@@ -854,14 +854,14 @@ Sakura's heart",0.17647058823529413
 ","that is
  
 Take Naruto's voice
-Called ➡",0.16
+Called ➡",0.16,0.5841426
 <i>There's nothing to it.</i>,"いのというライバルへの闘争心
 ｡
 ➡
 
 ","Thinking to rivals
 .
-➡",0.07692307692307693
+➡",0.07692307692307693,0.14923264
 <i>Like Naruto...</i>,"何てことはない
 ナルトと同じ
  
@@ -870,14 +870,14 @@ Called ➡",0.16
 ","Nothing
 Same as Naruto
  
-Sakura also ➡",0.07692307692307693
+Sakura also ➡",0.07692307692307693,0.68689084
 "- This is!
 - This is!","(ｻｸﾗ･
 いの
 )
 《これが…》
 
-","""This is…""",0.14285714285714285
+","""This is…""",0.14285714285714285,0.5647782
 "<i>But, both of them should</i>
 <i>have hardly any Chakra left.</i>","２人とも
  
@@ -887,7 +887,7 @@ Sakura also ➡",0.07692307692307693
 ","Both of them
  
 Chakra is already
-Little remains should not be left """,0.21739130434782608
+Little remains should not be left """,0.21739130434782608,0.79977965
 "By double knockout,","ダブルノックダウンにより
 予選
  
@@ -896,7 +896,7 @@ Little remains should not be left """,0.21739130434782608
 ","Double knockdown
 Qualifying
  
-4th battle ➡",0.1111111111111111
+4th battle ➡",0.1111111111111111,0.5269918
 Good grief.,"(ｱｽﾏ)
 さてと…
 ｡
@@ -908,7 +908,7 @@ Good grief.,"(ｱｽﾏ)
 .
 
 Good grief…
-.",0.3333333333333333
+.",0.3333333333333333,0.63708615
 "Hey, Ino!","(ｼｶﾏﾙ)
 おい
  
@@ -916,7 +916,7 @@ Good grief…
 
 ","Oi
  
-!",0.2
+!",0.2,0.4755299
 A-A-Are you okay?!,"だ
  
 だ
@@ -931,19 +931,19 @@ is
  
 is…
  
-Are you okay?",0.375
+Are you okay?",0.375,0.5777113
 They'll probably wake up after awhile.,"しばらくすれば目を覚ますだろう
 ｡
 
 ","After a while, I will wake up
-.",0.3076923076923077
+.",0.3076923076923077,0.61507773
 Naruto and Sasuke aside...,"ナルトとサスケは
  
 ともかく➡
 
 ","Naruto and Sasuke
  
-Anyway",0.5
+Anyway",0.5,0.9236768
 "to think even that Sakura who didn't
 have what it took has grown this much...","あの頼りなかったサクラまでが
 こんなに成長してるとはな
@@ -951,13 +951,13 @@ have what it took has grown this much...","あの頼りなかったサクラま�
 
 ","Up to the Sakura who did not rely
 It is not so growing
-.",0.16
+.",0.16,0.83939654
 "<i>but I really feel like it</i>
 <i>was a good thing...</i>","この中忍試験に
 出してよかったと➡
 
 ","In this Nakaji Test
-If it was good to put out",0.13636363636363635
+If it was good to put out",0.13636363636363635,0.12533236
 Now...,"うっ…
  
 ん…
@@ -966,7 +966,7 @@ Now...,"うっ…
 ","Uey ...
  
 Hmm…
-.",0.2
+.",0.2,0.23142812
 "The second one from the
 Land of Sand, huh...","(
 ネジ
@@ -981,7 +981,7 @@ Land of Sand, huh...","(
  
 The second person of the sand country
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.63278157
 "- This looks to be an interesting match.
 - Do your best, Tenten!","おもしろい試合になりそうだな
 ｡
@@ -997,7 +997,7 @@ The second person of the sand country
 
 It is Gamba!
  
-Tenten!",0.42105263157894735
+Tenten!",0.42105263157894735,0.6845753
 "It looks like you finally
 woke up, eh... Sakura.","(
 いの
@@ -1006,7 +1006,7 @@ woke up, eh... Sakura.","(
 ｡
 
 ","I finally woke up
-.",0.3076923076923077
+.",0.3076923076923077,0.5366743
 "Tenten, power of youth!","はっ！
 (
 リー
@@ -1019,7 +1019,7 @@ woke up, eh... Sakura.","(
 
 Tenten
  
-It is a youth power!",0.4
+It is a youth power!",0.4,0.84707075
 There is no limit to your youth!,"(
 ガイ
 )
@@ -1027,7 +1027,7 @@ There is no limit to your youth!,"(
 青春に限界はな～い！
 
 ","Go, go!
-The limit is limited to youth!",0.4166666666666667
+The limit is limited to youth!",0.4166666666666667,0.7736947
 Our match is already over.,"(
 いの
 )
@@ -1037,10 +1037,10 @@ Our match is already over.,"(
 
 ","Our game is
 It has already ended
-.",0.4
+.",0.4,0.6902721
 Did I... lose?,"負けたの？
 
-",Did you lose?,0.5
+",Did you lose?,0.5,0.7248484
 I'm the one who wants to cry...,"泣きたいのは
  
 こっちのほうよ
@@ -1049,15 +1049,15 @@ I'm the one who wants to cry...,"泣きたいのは
 ","I want to cry
  
 Here
-.",0.25
+.",0.25,0.7346432
 Here!,"フン！
 
-",Hun!,0.3333333333333333
+",Hun!,0.3333333333333333,0.41569653
 However...,"いの…
 ｡
 
 ","...
-.",0.3333333333333333
+.",0.3333333333333333,0.5319481
 "the next time we fight,","だけどね
  
 次
@@ -1068,7 +1068,7 @@ However...,"いの…
  
 Next
  
-When fighting",0.1111111111111111
+When fighting",0.1111111111111111,0.6316664
 "And... I won't hand over
 Sasuke to you!","それから
  
@@ -1078,7 +1078,7 @@ Sasuke to you!","それから
 ","after that
  
 Sasuke also
-I'm not going to pass it!",0.21052631578947367
+I'm not going to pass it!",0.21052631578947367,0.7516427
 I return the same line to you!,"そのセリフ
  
 そっくりそのまま
@@ -1087,14 +1087,14 @@ I return the same line to you!,"そのセリフ
 ","That line
  
 Such as it is
-I'll return!",0.2857142857142857
+I'll return!",0.2857142857142857,0.7805881
 "- Humph!
 - Humph!","(ｻｸﾗ･
 いの
 )
 ん～！➡
 
-",!➡,0.25
+",!➡,0.25,0.29148746
 "Tenten, Temari...
 come forward!","テンテン
  
@@ -1108,21 +1108,21 @@ come forward!","テンテン
 Temari
  
 Forward
-.",0.375
+.",0.375,0.832801
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.2864675
 You know! You know!,"♬
  
 幸せを忘れてしまったら
 
 ","♬
  
-If you forgot happiness",0.14285714285714285
+If you forgot happiness",0.14285714285714285,0.17258446
 "This isn't the time to be
 withdrawing, Shikamaru.","♬
  
@@ -1130,7 +1130,7 @@ withdrawing, Shikamaru.","♬
 
 ","♬
  
-In this hand",0.07142857142857142
+In this hand",0.07142857142857142,0.20264836
 "Next episode:
 ""Killer Kunoichi and a Shaky Shikamaru""","♬
  
@@ -1138,11 +1138,11 @@ In this hand",0.07142857142857142
 
 ","♬
  
-A singing",0.08333333333333333
+A singing",0.08333333333333333,0.17105128
 "This is really, seriously bad!","♬
  
 光が生まれ
 
 ","♬
  
-Light is born",0.1
+Light is born",0.1,0.104066335

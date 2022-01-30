@@ -1,39 +1,39 @@
-en_text,jp_text,google_translated,score
-"Each team received an advisor, and in Team E's case...",＜私達 Ｅ班のサポート役は…＞,<We are the support of our E-班 ...>,0.047619047619047616
-Just between you and me...,ここだけの話な｡,It's just here.,0.1
-Drown my fears? Really?,恐怖心だぁ!?俺がか？,It's a fear!? I'm me?,0.07692307692307693
-It comes down to whether the parachute you designed will deploy properly or not.,君が仕込んだパラシュートが➡,Parachute that you are charged,0.1111111111111111
-"Enjoy some more happy time, with Serika taking care of me!",ハッピータイムを！》,"Happy time!""",0.21428571428571427
-"Well, this also works.",《いや これはこれで…アリ！》,"""No this is this ... Ali!""",0.07692307692307693
-"Take that, a new record!",ザマミロ 新記録だぜっ グフッ！,Zammiro new record is all!,0.3
-About where we should start?,何から始めるべきとか｡,What should I start from?,0.3333333333333333
-"The moment you got stuck with me,",俺に聞いている時点で➡,When I was listening to me,0.07692307692307693
-your chances were shot.,お前らには無理だ｡,It is impossible for you.,0.1
-Then the rover must find its way on its own.,向かわなければならない＞,Must have been directed>,0.07142857142857142
-Each team received a different amount to spend.,支給される額が違うんだね｡,The amount to be paid is different.,0.3076923076923077
-Team A gets eight hundred dollars.,Ａ班は 800ドルも使えるんだ｡,A group can be 800 dollars.,0.2727272727272727
-Eight hundred dollars.,800ドル…８万円弱か｡,"$ 800 ... 80,000 yen weak?",0.0
-I'd say there's more than one.,《たしかに不利 いろんな意味で》,"""Certainly in many ways""",0.0
-Your switch is set to off.,スイッチが…オフだぜ｡,Switch is ... off.,0.5
-He's in charge.,サブプロジェクトの,Sub-project,0.0
-He's in charge of the parachute deployment system?,《パラシュｰトの責任者だって!?》,"""Is it responsible for parachute!?""",0.11764705882352941
-A participant from last year's contest uploaded it to the internet.,去年の大会に出場した人が➡,People who participated in last year's tournament,0.16666666666666666
-"It isn't that easy, fool.",甘くねえんだよ バカヤロウ》,"It's sweet, stupid",0.18181818181818182
-"Wait, you misunderstand, Brian.",いやっ 違うんだ ブライアン｡,I'm different Brian.,0.2222222222222222
-"To share a drink with the astronauts, once they return to Earth.",一緒に 酒を飲むこと！,Drinking alcohol together!,0.0
-It's because none of those engineers are still around.,ＮＡＳＡにもういなかったからだ｡,It was because NASA wasn't it.,0.21428571428571427
-"but for some reason, it won't work.",なぜか うまくいかない｡,Why doesn't go well.,0.14285714285714285
-"It's ""pride""!",⦅イッツ プラ～イド‼⦆,⦅It's Pula ~ Ido!⦆,0.18181818181818182
-"Then after all those failures, the engineer who developed a workable parachute system...",まあ とにかく そんな失敗に➡,"Well, anyway, such a failure",0.10526315789473684
-Was Pico Norton.,あのピコ･ノートンってわけだ｡,That Pico Norton is.,0.5
-Hey!,お～い！,Oh!,0.3333333333333333
-What are you doing?,なんだい君ら｡,What is it?,0.2857142857142857
-"In India, programming is taught in grade school.",プログラミングを勉強しますから｡,I will study programming.,0.16666666666666666
-We have to put Mu there.,アッハハ ムッ君は はずせないね｡,Ahaha Muu can not she.,0.08333333333333333
-This won't work.,それじゃ ダメだ｡,That's no good.,0.1111111111111111
-"As the report states, we were anticipating a possible crash. the test's purpose was to determine the capsule's limitations.",知るための試験だったんです｡,It was a test to know.,0.22727272727272727
-The manual doesn't mention anything about needing to test limits.,なかったぞ 試験手順書に｡,There was no test procedure.,0.125
-I found myself regretting it many times.,＜この時のミスさえなければと➡,<If you can not even miss this time,0.0
-"Sorry, but there won't be a next time, Pico.",悪いけど 次はないよ ピコ｡,"It's bad, but I'm not next.",0.2222222222222222
-Wh-Wh-What was that?,な…っ なんだって!?,What is ...?,0.14285714285714285
-You asked if Pico was responsible for the deaths of Brian's crew.,ブライアン達の事故機が➡,Brian accident machine is ➡,0.05555555555555555
+en_text,jp_text,google_translated,score,semantic_score
+"Each team received an advisor, and in Team E's case...",＜私達 Ｅ班のサポート役は…＞,<We are the support of our E-班 ...>,0.047619047619047616,0.28018063
+Just between you and me...,ここだけの話な｡,It's just here.,0.1,0.4412803
+Drown my fears? Really?,恐怖心だぁ!?俺がか？,It's a fear!? I'm me?,0.07692307692307693,0.6523446
+It comes down to whether the parachute you designed will deploy properly or not.,君が仕込んだパラシュートが➡,Parachute that you are charged,0.1111111111111111,0.6051563
+"Enjoy some more happy time, with Serika taking care of me!",ハッピータイムを！》,"Happy time!""",0.21428571428571427,0.39641362
+"Well, this also works.",《いや これはこれで…アリ！》,"""No this is this ... Ali!""",0.07692307692307693,0.056084022
+"Take that, a new record!",ザマミロ 新記録だぜっ グフッ！,Zammiro new record is all!,0.3,0.5983577
+About where we should start?,何から始めるべきとか｡,What should I start from?,0.3333333333333333,0.6469884
+"The moment you got stuck with me,",俺に聞いている時点で➡,When I was listening to me,0.07692307692307693,0.4282735
+your chances were shot.,お前らには無理だ｡,It is impossible for you.,0.1,0.2396192
+Then the rover must find its way on its own.,向かわなければならない＞,Must have been directed>,0.07142857142857142,0.21556348
+Each team received a different amount to spend.,支給される額が違うんだね｡,The amount to be paid is different.,0.3076923076923077,0.4501565
+Team A gets eight hundred dollars.,Ａ班は 800ドルも使えるんだ｡,A group can be 800 dollars.,0.2727272727272727,0.6306606
+Eight hundred dollars.,800ドル…８万円弱か｡,"$ 800 ... 80,000 yen weak?",0.0,0.4303599
+I'd say there's more than one.,《たしかに不利 いろんな意味で》,"""Certainly in many ways""",0.0,0.2739631
+Your switch is set to off.,スイッチが…オフだぜ｡,Switch is ... off.,0.5,0.75062865
+He's in charge.,サブプロジェクトの,Sub-project,0.0,0.15151238
+He's in charge of the parachute deployment system?,《パラシュｰトの責任者だって!?》,"""Is it responsible for parachute!?""",0.1176470588235294,0.6709018
+A participant from last year's contest uploaded it to the internet.,去年の大会に出場した人が➡,People who participated in last year's tournament,0.16666666666666666,0.4049477
+"It isn't that easy, fool.",甘くねえんだよ バカヤロウ》,"It's sweet, stupid",0.18181818181818185,0.31555313
+"Wait, you misunderstand, Brian.",いやっ 違うんだ ブライアン｡,I'm different Brian.,0.2222222222222222,0.6968906
+"To share a drink with the astronauts, once they return to Earth.",一緒に 酒を飲むこと！,Drinking alcohol together!,0.0,0.4089138
+It's because none of those engineers are still around.,ＮＡＳＡにもういなかったからだ｡,It was because NASA wasn't it.,0.21428571428571427,0.4555804
+"but for some reason, it won't work.",なぜか うまくいかない｡,Why doesn't go well.,0.14285714285714285,0.34220746
+"It's ""pride""!",⦅イッツ プラ～イド‼⦆,⦅It's Pula ~ Ido!⦆,0.18181818181818185,0.2754387
+"Then after all those failures, the engineer who developed a workable parachute system...",まあ とにかく そんな失敗に➡,"Well, anyway, such a failure",0.10526315789473684,0.30169874
+Was Pico Norton.,あのピコ･ノートンってわけだ｡,That Pico Norton is.,0.5,0.87681234
+Hey!,お～い！,Oh!,0.3333333333333333,0.5887816
+What are you doing?,なんだい君ら｡,What is it?,0.2857142857142857,0.30636197
+"In India, programming is taught in grade school.",プログラミングを勉強しますから｡,I will study programming.,0.16666666666666666,0.61645293
+We have to put Mu there.,アッハハ ムッ君は はずせないね｡,Ahaha Muu can not she.,0.08333333333333333,0.41497242
+This won't work.,それじゃ ダメだ｡,That's no good.,0.1111111111111111,0.31952873
+"As the report states, we were anticipating a possible crash. the test's purpose was to determine the capsule's limitations.",知るための試験だったんです｡,It was a test to know.,0.2272727272727273,0.38790953
+The manual doesn't mention anything about needing to test limits.,なかったぞ 試験手順書に｡,There was no test procedure.,0.125,0.36620778
+I found myself regretting it many times.,＜この時のミスさえなければと➡,<If you can not even miss this time,0.0,0.29864076
+"Sorry, but there won't be a next time, Pico.",悪いけど 次はないよ ピコ｡,"It's bad, but I'm not next.",0.2222222222222222,0.34751135
+Wh-Wh-What was that?,な…っ なんだって!?,What is ...?,0.14285714285714285,0.2824831
+You asked if Pico was responsible for the deaths of Brian's crew.,ブライアン達の事故機が➡,Brian accident machine is ➡,0.05555555555555555,0.44944912

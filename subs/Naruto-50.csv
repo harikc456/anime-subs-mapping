@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774589
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048283
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,7 +68,7 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.55187774
 "<i>There is no way that I alone can</i>
 <i>lose in a place like this!</i>","(
 リー
@@ -81,7 +81,7 @@ There is no meaning",0.2
 ","""I only
  
 In such a place
-I can not lose it!➡",0.2916666666666667
+I can not lose it!➡",0.2916666666666667,0.58932334
 <i>Guy Sensei... please allow it.</i>,"ガイ先生
  
 認めてください
@@ -92,16 +92,16 @@ I can not lose it!➡",0.2916666666666667
  
 Please admit
 .
-➡",0.07142857142857142
+➡",0.07142857142857142,0.24766693
 <i>It is now...</i>,"今こそ…》
 
-","now is the time…""",0.18181818181818182
+","now is the time…""",0.18181818181818185,0.45792648
 The color of his body changed...!,"(ｻｸﾗ)
 体の色が…
 ｡
 
 ","The color of the body ...
-.",0.5555555555555556
+.",0.5555555555555556,0.65453875
 He's red?!,"(ﾃﾏﾘ)
 あっ！
 (ﾅﾙﾄ)
@@ -111,7 +111,7 @@ He's red?!,"(ﾃﾏﾘ)
 ","Ah!
 
 Red ...
-.",0.25
+.",0.25,0.6734045
 "He's opened the third gate,
 the Gate of Life...","(ｶｶｼ)
 《第三の門
@@ -122,7 +122,7 @@ the Gate of Life...","(ｶｶｼ)
 ","""Third Gate
  
 I opened the gateway
-I will move!""",0.23529411764705882
+I will move!""",0.2352941176470588,0.63088715
 What?!,"(ｶﾝｸﾛｳ)
 何だ？
  
@@ -132,7 +132,7 @@ What?!,"(ｶﾝｸﾛｳ)
 ","What?
  
 that person
-.",0.3333333333333333
+.",0.3333333333333333,0.43589544
 <i>What an incredible guy...</i>,"(ｶｶｼ)
 《何てヤツだ
 ｡
@@ -140,7 +140,7 @@ that person
 
 ","""What is a guy
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.39681852
 "<i>It's not as though effort alone</i>
 <i>can make this happen...</i>","努力で
  
@@ -154,21 +154,21 @@ that person
 However
 It is not something
 .
-➡",0.13043478260869565
+➡",0.13043478260869565,0.55746245
 <i>is he in fact a genius...?</i>,"あの子
  
 やっぱり天才か？》
 
 ","That girl
  
-After all it is a genius?""",0.2222222222222222
+After all it is a genius?""",0.2222222222222222,0.5437872
 Gaara!,"う～！
  
 あ～！
 
 ","!
  
-Oh!",0.3333333333333333
+Oh!",0.3333333333333333,0.30039194
 But we can't find Lee!,"(
 いの
 )
@@ -180,11 +180,11 @@ But we can't find Lee!,"(
 ","but
  
 Lee can not be seen
-.",0.16666666666666666
+.",0.16666666666666666,0.7430525
 Where?!,"(ﾁｮｳｼﾞ)
 どこ？
 
-",Where?,0.6666666666666666
+",Where?,0.6666666666666666,0.80782896
 <i>The sand isn't keeping up at all!</i>,"(
 リー
 )
@@ -198,7 +198,7 @@ Where?!,"(ﾁｮｳｼﾞ)
  
 Is the sand of the sand
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.61176586
 <i>Then how's this?!</i>,"それでは
  
 これなら
@@ -209,7 +209,7 @@ Is the sand of the sand
  
 If this
  
-how is it!?",0.38461538461538464
+how is it!?",0.38461538461538464,0.4579888
 <i>What...?!</i>,"(
 我愛羅
 )
@@ -219,22 +219,22 @@ how is it!?",0.38461538461538464
 
 ","""what!?
  
-This sand is good ... """,0.3076923076923077
+This sand is good ... """,0.3076923076923077,0.2169222
 <i>being peeled away...!</i>,"(
 我愛羅
 )
 《剥がされていく…》
 
-","""It will be peeled off ...""",0.13333333333333333
+","""It will be peeled off ...""",0.13333333333333333,0.6166728
 <i>Since it comes to this...</i>,"こうなったら…》
 
-","When it comes to this…""",0.23076923076923078
+","When it comes to this…""",0.2307692307692308,0.5167323
 This is the end!,"(
 リー
 )
 これで最後です！
 
-",This is the last!,0.6666666666666666
+",This is the last!,0.6666666666666666,0.7306099
 <i>The Fifth Gate of Closing...open!</i>,"(
 リー
 )
@@ -248,35 +248,35 @@ This is the end!,"(
  
 Fingery
  
-Open!""",0.2
+Open!""",0.2,0.5789347
 "<i>Is this the movement of</i>
 <i>a human being?!</i>","これが人間の動きか？》
 
-","Is this human movement?""",0.3333333333333333
+","Is this human movement?""",0.3333333333333333,0.6856172
 <i>Neji...</i>,"いつの間に
  
 こんな…》
 
 ","Always
  
-Such ... """,0.1111111111111111
+Such ... """,0.1111111111111111,0.15510689
 <i>but I will specially show it to you!</i>,"特別
  
 見せてあげます！》
 
 ","special
  
-I will show you!""",0.35714285714285715
+I will show you!""",0.35714285714285715,0.5350839
 Huh?!,"(
 我愛羅
 )
 うおっ！
 
-",Ue!,0.25
+",Ue!,0.25,0.23813938
 <i>The Sand Shield can't keep up!</i>,"(ﾃﾏﾘ)
 《砂の盾が追いつかない》
 
-","""Sand shield does not catch up""",0.17647058823529413
+","""Sand shield does not catch up""",0.17647058823529413,0.7873494
 "<i>Most of the armor has also</i>
 <i>been peeled off...</i>","(ｶﾝｸﾛｳ)
 《よろいも
@@ -287,7 +287,7 @@ Huh?!,"(
 ","""Yoji
 It was quite peeled off
  
-Yabe """,0.1
+Yabe """,0.1,0.34130046
 "<i>The answer to take Neji down is</i>
 <i>that high speed combination...</i>","打倒ネジの答えは
 そのハイスピードコンボ
@@ -297,36 +297,36 @@ Yabe """,0.1
 ","The answer of the hit screw
 Its high speed combo
 .
-➡",0.17391304347826086
+➡",0.17391304347826084,0.42279533
 "<i>There is no way that</i>
 <i>the sand can keep up!</i>","砂が追いつくはずがない》
 
-",Sand should not catch up,0.1111111111111111
+",Sand should not catch up,0.1111111111111111,0.7339084
 <i>This technique will be the last!</i>,"(
 リー
 )
 《この技で最後です》
 
-","""This technique is the last""",0.2857142857142857
+","""This technique is the last""",0.2857142857142857,0.61346066
 Hidden Lotus!,"ハァ～！
 
-",Hua!,0.25
+",Hua!,0.25,0.38242686
 He's done it this time!,"今度こそ決まった！
 我愛羅！
 
 ","This time it was decided!
-Seller!",0.4
+Seller!",0.4,0.2675662
 Lee...,"リーさん…
 ｡
 
 ","Lee ...
-.",0.6666666666666666
+.",0.6666666666666666,0.9961764
 Oh!,"(
 リー
 )
 うわっ！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.43676054
 What's... that?,"(ｼｶﾏﾙ)
 あ…
 ｡
@@ -344,23 +344,23 @@ What's... that?,"(ｼｶﾏﾙ)
 What?
  
 that
-.",0.42857142857142855
+.",0.42857142857142855,0.4818983
 <i>That technique is...!</i>,"(
 シノ
 )
 《あの技は…》
 
-","""That technique is ...""",0.36363636363636365
+","""That technique is ...""",0.3636363636363637,0.5334514
 <i>No way!</i>,"＜砂縛柩！＞
 
-",<Sand-down!>,0.375
+",<Sand-down!>,0.375,0.39407626
 "<i>and is still able to bring</i>
 <i>forth a technique...!</i>","まだ技をかけられるなんて…》
 
-","It is still a skill ... """,0.2222222222222222
+","It is still a skill ... """,0.2222222222222222,0.48594558
 Sand Coffin!,"あっ！
 
-",Ah!,0.25
+",Ah!,0.25,0.22016203
 <i>I just can not lose in a place like this...</i>,"(
 リー
 )
@@ -368,7 +368,7 @@ Sand Coffin!,"あっ！
 負けるわけには…》
 
 ","""In this place
-I can not lose ... """,0.5333333333333333
+I can not lose ... """,0.5333333333333333,0.6126538
 <i>my Way of the Ninja...</i>,"(
 リー
 )
@@ -378,13 +378,13 @@ I can not lose ... """,0.5333333333333333
 
 ","""I
  
-My Ninx ... """,0.25
+My Ninx ... """,0.25,0.2811592
 Die!,"死ね！
 
-",Death!,0.3333333333333333
+",Death!,0.3333333333333333,0.81595105
 Why...?,"なぜ？
 
-",why?,0.6666666666666666
+",why?,0.6666666666666666,0.6694512
 <i>I'm strong so...</i>,"(
 リー
 )
@@ -400,12 +400,12 @@ Why...?,"なぜ？
 fine
 Because I am strong
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.8134626
 <i>That would be the ultimate for me!</i>,"証明したいんです！
 それが僕のすべてです！＞
 
 ","I want to proof!
-That's all of me!>",0.2777777777777778
+That's all of me!>",0.2777777777777778,0.28599873
 He is...,"愛すべき
  
 俺の大切な部下だ
@@ -414,10 +414,10 @@ He is...,"愛すべき
 ","lovable
  
 It is my important part
-.",0.1111111111111111
+.",0.1111111111111111,0.17109402
 He quit?,"ん？
 
-",Yeah?,0.25
+",Yeah?,0.25,0.1913025
 "The moment Guy jumped in,
 Lee lost.","(ｶｶｼ)
 ガイが飛び込んだ時点で
@@ -426,7 +426,7 @@ Lee lost.","(ｶｶｼ)
 
 ","When guy jumped in
 Lose of Lee
-.",0.4166666666666667
+.",0.4166666666666667,0.8882894
 The winner...,"(ﾊﾔﾃ)
 勝者
  
@@ -436,18 +436,18 @@ The winner...,"(ﾊﾔﾃ)
 ","winner
  
 I…
-.",0.2
+.",0.2,0.73397064
 Wha?!,"(
 いの
 )
 え？
 
-",picture?,0.25
+",picture?,0.25,0.3224667
 That's impossible...,"まさか…
 ｡
 
 ","Masaka ...
-.",0.16666666666666666
+.",0.16666666666666666,0.24743842
 It's over!,"リー
  
 もういい
@@ -460,33 +460,33 @@ It's over!,"リー
 enough
  
 It was over
-.",0.25
+.",0.25,0.41898707
 You are...,"お前ってヤツは…
 ｡
 
 ","You guys ...
-.",0.4
+.",0.4,0.45722124
 "You still want to prove your
 own Way of the Ninja...?","自分の忍道を
 証明しようというのか？》
 
 ","My nitro
-Do you want to prove?""",0.29411764705882354
+Do you want to prove?""",0.29411764705882354,0.47159666
 <i>So he had already...</i>,"(ｶｶｼ)
 《すでに意識はなかったのか…》
 
-","""I had no awareness ...""",0.23076923076923078
+","""I had no awareness ...""",0.2307692307692308,0.27634868
 a respectable Ninja...!,"(
 ガイ
 )
 立派な忍者だ！
 
-",It is a good ninja!,0.375
+",It is a good ninja!,0.375,0.70917946
 Gaara.,"リー
 ｡
 
 ","Lee
-.",0.3333333333333333
+.",0.3333333333333333,0.34786767
 Lee!,"リーさん！
 (ｶｶｼ)
 サクラ
@@ -497,7 +497,7 @@ Lee!,"リーさん！
 
 Cherry blossoms
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6431075
 "Even if you went down
 what could you do?","お前が行って
  
@@ -505,24 +505,24 @@ what could you do?","お前が行って
 
 ","You go
  
-What can you do?",0.36363636363636365
+What can you do?",0.3636363636363637,0.58133256
 "<i>He was faced with a tougher battle</i>
 <i>than we thought...</i>","(ｶﾝｸﾛｳ)
 《思ったより
 苦戦させられたじゃん》
 
 ","""more than I thought
-I was struggled """,0.2222222222222222
+I was struggled """,0.2222222222222222,0.50318223
 <i>That Naruto...</i>,"(ｶｶｼ)
 《ナルトのヤツ…》
 
-","""Naruto no Yatsu ...""",0.18181818181818182
+","""Naruto no Yatsu ...""",0.18181818181818185,0.68253917
 "<i>Bushy Brow lost</i>
 <i>to a guy like this...!</i>","《こんなヤツに
 ゲジマユが負けるなんて…》
 
 ","""In such a guy
-Gezimay loses ... """,0.15789473684210525
+Gezimay loses ... """,0.15789473684210525,0.31811535
 "Medics, please hurry.","(ﾊﾔﾃ)
 医療班
  
@@ -532,17 +532,17 @@ Gezimay loses ... """,0.15789473684210525
 ","Medical team
  
 Please hurry
-.",0.42857142857142855
+.",0.42857142857142855,0.7313934
 <i>Lee...</i>,"《リーさん…》
 
-","""Lee ...""",0.25
+","""Lee ...""",0.25,0.7007377
 "You are the Jonin in charge of him,
 aren't you?","(
 忍１
 )
 あなたが担当上忍ですね？
 
-",Are you in charge of it?,0.5
+",Are you in charge of it?,0.5,0.49411777
 Y-Yes.,"(
 忍１
 )
@@ -550,7 +550,7 @@ Y-Yes.,"(
 ｡
 
 ","Ah
-.",0.3333333333333333
+.",0.3333333333333333,0.26509574
 "Please come with me
 for a minute.","ちょっと
  
@@ -560,7 +560,7 @@ for a minute.","ちょっと
 ","A little
  
 This way
-.",0.18181818181818182
+.",0.18181818181818185,0.21704488
 Don't shake him.,"(
 忍２
 )
@@ -572,19 +572,19 @@ Don't shake him.,"(
 ","Somewhat
  
 Don't shake
-.",0.6666666666666666
+.",0.6666666666666666,0.63477004
 There is faint breathing...,"(
 忍１
 )
 かろうじて呼吸はありますが➡
 
-",Barely breathing is,0.3333333333333333
+",Barely breathing is,0.3333333333333333,0.58830714
 "but because of comminuted fractures
 and muscle tears to his entire body,","全身の粉砕骨折と筋肉断裂
 ｡
 
 ","Whole body grinding fracture and muscle tear
-.",0.16666666666666666
+.",0.16666666666666666,0.6215704
 "recovery will likely to take
 quite some time...","回復には
  
@@ -596,14 +596,14 @@ quite some time...","回復には
  
 Very time
 It seems to come
-.",0.2
+.",0.2,0.7025523
 "If that was all, it wouldn't be so bad, but...","それだけなら
 よかったのですが…
 ｡
 
 ","If that's only
 It was good ...
-.",0.29411764705882354
+.",0.29411764705882354,0.58197695
 "The damage to the left arm
 and leg which received the attack is severe...","(
 忍１
@@ -620,15 +620,15 @@ Damage of the left foot foot
  
 Terrible
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.6593222
 <i>Oh...!</i>,"うわ～！＞
 
-",Wow!>,0.25
+",Wow!>,0.25,0.3140543
 "I don't want to say this,","こんなことを
 言いたくはないんですが➡
 
 ","Such a thing
-I do not want to say",0.4166666666666667
+I do not want to say",0.4166666666666667,0.5719388
 "but he won't be able to...
 live as a Shinobi again.","忍として生きていくことは
 できない体です
@@ -636,7 +636,7 @@ live as a Shinobi again.","忍として生きていくことは
 
 ","To live as Shinobu
 It is a body that can not be done
-.",0.2727272727272727
+.",0.2727272727272727,0.71412814
 T-That...,"そ…
  
 そんな…
@@ -651,20 +651,20 @@ Such ...
 such a thing
  
 It is a lie
-.",0.1
+.",0.1,0.10886055
 "<i>It is not you whom I want to fight,</i>
 <i>it's Uchiha!</i>","＜僕が戦いたいのは君じゃない
 うちはです＞
 
 ","<I'm not a boy who wants to fight
-My house>",0.2608695652173913
+My house>",0.2608695652173913,0.49641642
 <i>You...!</i>,"＜あっ！
  
 お前！＞
 
 ","<Ah!
  
-you!>",0.5
+you!>",0.5,0.6856082
 "<i>But all fighting must be done</i>
 <i>officially in a match!</i>","しかし勝負は
  
@@ -678,10 +678,10 @@ you!>",0.5
 In a proper game
 Should be done
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.551781
 <i>I wanted to let you fulfill...</i>,"かなえさせてやりたかった》
 
-",I wanted to do it,0.25
+",I wanted to do it,0.25,0.46787336
 <i>I finally mastered it!</i>,"＜やった～！
  
 ついに
@@ -694,7 +694,7 @@ Should be done
 finally
 I could get award!
  
-Yasha!>",0.38461538461538464
+Yasha!>",0.38461538461538464,0.33570468
 "after all, only Lee managed to master...","(
 ガイ
 )
@@ -706,7 +706,7 @@ Yasha!>",0.38461538461538464
 ","""This technique
  
 After all Lee only
-I could not do anything",0.23529411764705882
+I could not do anything",0.2352941176470588,0.649471
 "<i>Okay, you became Genin</i>
 <i>from today.</i>","(
 ガイ
@@ -723,13 +723,13 @@ I could not do anything",0.23529411764705882
 from today
 I also became Shimono
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.5205067
 "<i>I want to hear what it is</i>
 <i>you all are aiming for!</i>","お前たちの目指すものを
 聞いてみたいぞ＞
 
 ","What you aim for you
-I would like to hear you>",0.3684210526315789
+I would like to hear you>",0.3684210526315789,0.6033188
 <i>Please forgive me for not...</i>,"(
 ガイ
 )
@@ -737,14 +737,14 @@ I would like to hear you>",0.3684210526315789
 できなかった俺を➡
 
 ","""Stop
-I could not do me",0.21428571428571427
+I could not do me",0.21428571428571427,0.18369621
 <i>stopping it...!</i>,"＜僕は
  
 僕は➡
 
 ","<I
  
-I am ➡",0.2
+I am ➡",0.2,0.37322268
 It's not true... it's not true.,"ウソだろ…
  
 ウソだろ
@@ -753,30 +753,30 @@ It's not true... it's not true.,"ウソだろ…
 ","It is a lie ...
  
 It is a lie
-.",0.3333333333333333
+.",0.3333333333333333,0.548814
 "After hearing that,
 what should Bushy Brow do...?!","ゲジマユは
 どうすりゃいいんだってばよ！
 
 ","Gezimayu
-What should I do!",0.2857142857142857
+What should I do!",0.2857142857142857,0.16046302
 This guy...,"こいつ
  
 落ちこぼれが天才を➡
 
 ","this guy
  
-Falling is a genius",0.2857142857142857
+Falling is a genius",0.2857142857142857,0.24245523
 "He said the failure would take
 down a genius with effort!","努力で打ち負かすって
 言ってたのに➡
 
 ","I will strive with an effort
-I said that I said",0.17647058823529413
+I said that I said",0.17647058823529413,0.37538823
 "Isn't there something that
 can be done?!","どうにかなんないのかよ～！
 
-",How is it?,0.16666666666666666
+",How is it?,0.16666666666666666,0.024324035
 "Calm down, Naruto.","(ｶｶｼ)
 落ち着け
  
@@ -786,7 +786,7 @@ can be done?!","どうにかなんないのかよ～！
 ","Calm
  
 Naruto
-.",0.6
+.",0.6,0.9325509
 B-But... Kakashi Sensei!,"でもよ
  
 カカシ先生！
@@ -799,14 +799,14 @@ B-But... Kakashi Sensei!,"でもよ
 teacher Kakashi!
 Aya
  
-That ➡",0.2
+That ➡",0.2,0.69119346
 To fulfill that dream...,"あの子は
  
 その夢をかなえるため➡
 
 ","That girl
  
-To make the dream come true",0.3
+To make the dream come true",0.3,0.5129303
 The result is what you see...,"(ｶｶｼ)
 その結果が
  
@@ -816,14 +816,14 @@ The result is what you see...,"(ｶｶｼ)
 ","The result is
  
 That
-.",0.3333333333333333
+.",0.3333333333333333,0.7359007
 Sasuke and Neji...,"サスケやネジと戦いたいって
 言ってたのに…
 ｡
 
 ","I want to fight Sasuke and screw
 I said ...
-.",0.2727272727272727
+.",0.2727272727272727,0.65925175
 "he sacrificed himself to
 a promise he never spoke of.","(ｶｶｼ)
 あるいは
@@ -836,16 +836,16 @@ a promise he never spoke of.","(ｶｶｼ)
  
 It was a disaster
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.0996326
 He risked his life...,"彼は命懸けで➡
 
-",He is in life ➡,0.25
+",He is in life ➡,0.25,0.34000623
 Don't forget that...,"(ｶｶｼ)
 それを忘れるな
 ｡
 
 ","Don't forget it
-.",0.42857142857142855
+.",0.42857142857142855,0.8138822
 <i>You didn't realize it even at the end...</i>,"(
 ネジ
 )
@@ -857,16 +857,16 @@ Don't forget that...,"(ｶｶｼ)
 ","""Lee
  
 You are until the end
-I did not notice.",0.23809523809523808
+I did not notice.",0.2380952380952381,0.34871906
 <i>Heaven does not allow it.</i>,"駒を先に進めることを
 天は許しはしない》
 
 ","Promote the piece first
-Heaven does not forgive",0.21428571428571427
+Heaven does not forgive",0.21428571428571427,0.451513
 "<i>One who tries to move ahead</i>
 <i>while achieving victory</i>","勝利を目指せぬ者が➡
 
-",A person who wants to win the victory,0.16666666666666666
+",A person who wants to win the victory,0.16666666666666666,0.72999656
 Welcome back Gaara.,"おかえり
  
 我愛羅
@@ -875,14 +875,14 @@ Welcome back Gaara.,"おかえり
 ","Welcome back
  
 Usa
-.",0.6
+.",0.6,0.47535065
 I spoke self importantly earlier but...,"まっ
  
 さっきは偉そうに言ったが➡
 
 ","Mine
  
-I told you a great time ago",0.07142857142857142
+I told you a great time ago",0.07142857142857142,0.28349093
 "I've thought about it and
 had I been in your position...","よくよく考えて
 俺も
@@ -892,7 +892,7 @@ had I been in your position...","よくよく考えて
 ","Think well
 me too
  
-If you were your position",0.10526315789473684
+If you were your position",0.10526315789473684,0.6191326
 "I probably... wouldn't have
 been able to stop him.","やっぱ
  
@@ -904,7 +904,7 @@ been able to stop him.","やっぱ
  
 Stop
 I could not do it
-.",0.16666666666666666
+.",0.16666666666666666,0.5256369
 Guy.,"(ｶｶｼ)
 ガイ
 ｡
@@ -912,7 +912,7 @@ Guy.,"(ｶｶｼ)
 
 ","Guy
 .
-➡",0.6666666666666666
+➡",0.6666666666666666,0.8042465
 "We're in the way of the
 next tournament... let's go up.","ほら
  
@@ -926,7 +926,7 @@ next tournament... let's go up.","ほら
 Up
  
 let's go
-.",0.3333333333333333
+.",0.3333333333333333,0.50957566
 "Then, the tenth and final round is next,
 both contestants come forward!","両者
  
@@ -936,7 +936,7 @@ both contestants come forward!","両者
 ","Both
  
 Forward
-.",0.13333333333333333
+.",0.13333333333333333,0.28264406
 <i>So it's finally my turn...</i>,"(
 ドス
 )
@@ -948,7 +948,7 @@ Forward
 ","Fuhufu ...
  
 Is it finally on the turn
-.",0.25
+.",0.25,0.35973388
 "<i>I'm gonna win and have</i>
 <i>some barbecued beef!</i>","(ﾁｮｳｼﾞ)
 《勝って
@@ -961,7 +961,7 @@ Is it finally on the turn
  
 Grilled meat
  
-I will eat!""",0.09523809523809523
+I will eat!""",0.09523809523809523,0.6499378
 "<i>In any case, I need to last until</i>
 <i>the main tournament and battle Sasuke.</i>","(
 ドス
@@ -978,7 +978,7 @@ I will eat!""",0.09523809523809523
 I remain in the main election
 I have to fight with Sasuke
 .
-➡",0.17857142857142858
+➡",0.17857142857142858,0.63154495
 "<i>Or I will not have met your expectations,</i>
 <i>Lord Orochimaru...</i>","大蛇丸様
 あなたの期待に沿えない
@@ -988,7 +988,7 @@ I have to fight with Sasuke
 ","Large-sized
 I can not follow your expectations
 .
-➡",0.2
+➡",0.2,0.20334451
 "<i>putting a Curse Mark on him</i>
 <i>without killing him...</i>","殺さず
  
@@ -1000,30 +1000,30 @@ I can not follow your expectations
  
 Reason for raising a curse
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.67415863
 "<i>In other words,</i>","僕たちは
  
 つまり➡
 
 ","We
  
-In other words,",0.4444444444444444
+In other words,",0.4444444444444444,0.40742284
 "<i>What you wanted isn't Sasuke's life,</i>
 <i>but Sasuke himself...</i>","欲しいのは
 サスケ君の命じゃなく➡
 
 ","I want
-Sasuke-kun's life",0.16666666666666666
+Sasuke-kun's life",0.16666666666666666,0.7903411
 <i>I was also taken for a fool...</i>,"僕もナメられたもんだよ》
 
-","I was also a name. """,0.3076923076923077
+","I was also a name. """,0.3076923076923077,0.35140523
 "Now, let the tenth round begin.","彼そのもの
 ｡
 ➡
 
 ","Him
 .
-➡",0.1
+➡",0.1,0.13752294
 "<i>when you want to cry,</i>
 <i>and you want to run away</i>","♬
  
@@ -1035,7 +1035,7 @@ Sasuke-kun's life",0.16666666666666666
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.3938254
 "Do you know where
 Kakashi Sensei is?","♬
  
@@ -1043,7 +1043,7 @@ Kakashi Sensei is?","♬
 
 ","♬
  
-Even if you do not see around",0.14285714285714285
+Even if you do not see around",0.14285714285714285,0.20168993
 "I'm gonna have him watch
 my training until the main tournament.","♬
  
@@ -1051,14 +1051,14 @@ my training until the main tournament.","♬
 
 ","♬
  
-Because I'm crying",0.11764705882352941
+Because I'm crying",0.1176470588235294,0.14487416
 Kakashi Sensei is probably with Sasuke.,"♬
  
 光が生まれ
 
 ","♬
  
-Light is born",0.1
+Light is born",0.1,0.14174962
 "Next episode: ""A Shadow in Darkness:
 Danger Approaches Sasuke","♬
  
@@ -1066,7 +1066,7 @@ Danger Approaches Sasuke","♬
 
 ","♬
  
-A singing",0.07692307692307693
+A singing",0.07692307692307693,0.105937906
 I feel uneasy for some reason...,"♬
  
 ハルモニア
@@ -1077,4 +1077,4 @@ I feel uneasy for some reason...,"♬
  
 Harmonia
  
-Feel",0.1111111111111111
+Feel",0.1111111111111111,0.24161533

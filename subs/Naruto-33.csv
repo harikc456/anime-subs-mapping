@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.2477459
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.60482836
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,7 +68,7 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.55187774
 <i>Where is...this place...?</i>,"(ｻｽｹ)
 《どこだ？
  
@@ -76,15 +76,15 @@ There is no meaning",0.2
 
 ","""Where's?
  
-here""",0.14285714285714285
+here""",0.14285714285714285,0.51923394
 <i>Who is it?</i>,"《誰だ？》
 
-","""Who?""",0.2
+","""Who?""",0.2,0.34950852
 <i>Father and mother didn't need to die!</i>,"《父さんも母さんも
 死なずに済んだんだ》
 
 ","""Father and Mother
-I did not dying",0.3125
+I did not dying",0.3125,0.7770348
 <i>Everyone was killed.</i>,"《みんな
  
 殺された
@@ -95,17 +95,17 @@ I did not dying",0.3125
  
 killed
 .
-➡",0.09090909090909091
+➡",0.09090909090909093,0.6908368
 <i>I had no power so...</i>,"僕に力がなかったから
 ｡
 ➡
 
 ","Because I had no power
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.7276588
 <i>the clan vanished.</i>,"一族は滅んだんだ》
 
-","The family is destroyed """,0.09090909090909091
+","The family is destroyed """,0.09090909090909093,0.28264964
 Ino... Why?,"(ｻｸﾗ)
 いの…
  
@@ -113,7 +113,7 @@ Ino... Why?,"(ｻｸﾗ)
 
 ","...
  
-Why?",0.75
+Why?",0.75,0.33806932
 "I can't let you upstage me
 in front of Sasuke!","(
 いの
@@ -122,21 +122,21 @@ in front of Sasuke!","(
 あんたばっかり➡
 
 ","In front of Sasuke
-Annota",0.3076923076923077
+Annota",0.3076923076923077,0.63542205
 The Leaf Village worms wandered in.,"木ノ葉の虫けらたちが
 迷い込んできましたね
 ｡
 
 ","The insects of the wooden leaves
 I'm getting lost
-.",0.13333333333333333
+.",0.13333333333333333,0.5325592
 "It's a pain, but it can't be helped!","こいつら
  
 ヤバすぎるって！
 
 ","These guys
  
-It's too bad!",0.2
+It's too bad!",0.2,0.35172722
 Sorry to get you involved.,"エヘヘ…
  
 巻き込んじゃって
@@ -147,7 +147,7 @@ Sorry to get you involved.,"エヘヘ…
  
 Invollector
 Sorry ~
-.",0.2
+.",0.2,0.19414799
 "But anyway we're
 a Three-Man Squad, after all.","だけど
  
@@ -163,7 +163,7 @@ Anyway
  
 Sleima Cell
 It is not a fate community
-.",0.16666666666666666
+.",0.16666666666666666,0.13822871
 "Well, we'll see.","まっ
  
 なるようになるさ
@@ -172,14 +172,14 @@ It is not a fate community
 ","Mine
  
 Become so
-.",0.1111111111111111
+.",0.1111111111111111,0.08076765
 No! I don't want to die yet!,"嫌だ～！
  
 まだ死にたくな～い！➡
 
 ","I hate it!
  
-I still want to die!➡",0.38461538461538464
+I still want to die!➡",0.38461538461538464,0.6336079
 You're annoying! Quit wiggling!,"(
 ザク
 )
@@ -189,7 +189,7 @@ You're annoying! Quit wiggling!,"(
 
 ","Fuhufu ...
 You're missing you
-.",0.2
+.",0.2,0.23157956
 What did that guy just say?,"(ﾁｮｳｼﾞ)
 今
  
@@ -205,7 +205,7 @@ What did you say?
  
 that person
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.39463162
 I... didn't quite catch it.,"僕
  
 よく聞き取れなかったよ
@@ -220,7 +220,7 @@ I... didn't quite catch it.,"僕
 I could not hear it well
 .
 
-Ah?",0.21428571428571427
+Ah?",0.21428571428571427,0.34117717
 Huh?!,"マ…
  
 マフラー離してよ！
@@ -235,7 +235,7 @@ Muffler release!
 
 shut up
  
-Jitabata!",0.1111111111111111
+Jitabata!",0.1111111111111111,0.22236831
 <i>That word is taboo to Choji.</i>,"(ｼｶﾏﾙ)
 《チョウジに
 そのことばはタブーだ
@@ -245,7 +245,7 @@ Jitabata!",0.1111111111111111
 ","""Choji
 That word is taboo
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.9302134
 "I said if you have a problem,
 pull out, fatso.","嫌なら引っ込んでろ
 っつったんだよ
@@ -253,7 +253,7 @@ pull out, fatso.","嫌なら引っ込んでろ
 
 ","If you don't like it
 I'm sticking
-.",0.2222222222222222
+.",0.2222222222222222,0.26632592
 "I'm not fat, I'm just big boned!
 Blast it!","僕はデブじゃない！
 ポッチャリ系だ～！
@@ -263,7 +263,7 @@ Blast it!","僕はデブじゃない！
 ","I am not a fat!
 It is a pochari system!
  
-Like!",0.29411764705882354
+Like!",0.29411764705882354,0.4991041
 "All right! You understand this, right?!","よ～し！
 お前ら
  
@@ -272,10 +272,10 @@ Like!",0.29411764705882354
 ","Yo!
 You guys
  
-Do you know?",0.25
+Do you know?",0.25,0.32412085
 This is a battle between Leaf and Sound!,"これは木ノ葉と音の戦いだぜ！
 
-",This is the battle of the wood and sound!,0.5
+",This is the battle of the wood and sound!,0.5,0.63693726
 That's my line.,"そりゃ
  
 こっちのセリフだ
@@ -284,7 +284,7 @@ That's my line.,"そりゃ
 ","For
  
 It's a serif
-.",0.2222222222222222
+.",0.2222222222222222,0.14400192
 "<i>I was told to get Sasuke</i>
 <i>by the end of the test...</i>","(
 ザク
@@ -295,7 +295,7 @@ It's a serif
 
 ","""Chig
  
-By the end of the exam",0.2222222222222222
+By the end of the exam",0.2222222222222222,0.32252154
 Sasuke...,"サスケ君
 ｡
 (
@@ -308,7 +308,7 @@ Sasuke...,"サスケ君
 .
 
 Cherry blossoms
-.",0.2
+.",0.2,0.7107778
 "The two behind...
 take care of them.","(
 いの
@@ -321,7 +321,7 @@ take care of them.","(
 ","Two people behind
  
 I asked
-.",0.25
+.",0.25,0.5152929
 "Well then, Team Ino,
 let's go full throttle!","うん
 ｡
@@ -333,21 +333,21 @@ let's go full throttle!","うん
 .
 Well then
  
-Team ➡",0.21428571428571427
+Team ➡",0.21428571428571427,0.3302664
 Formation Ino!,"フォーメーション
  
 いの！
 
 ","formation
  
-!",0.6666666666666666
+!",0.6666666666666666,0.7736579
 "Next, Leaf Style Taijutsu!","続いて
  
 木ノ葉流体術！➡
 
 ","continue
  
-Wooden Leaf Flower Tour!➡",0.18181818181818182
+Wooden Leaf Flower Tour!➡",0.18181818181818185,0.4848171
 What is this Jutsu?,"(
 ザク
 )
@@ -359,13 +359,13 @@ What is this Jutsu?,"(
 ","What?
  
 This technique
-.",0.42857142857142855
+.",0.42857142857142855,0.23219916
 You!,"斬空波！
 
-",Sky waves!,0.25
+",Sky waves!,0.25,0.24251737
 He jumped?!,"なっ!?➡
 
-",Is it!?,0.3333333333333333
+",Is it!?,0.3333333333333333,0.19396807
 "<i>The air pressure of</i>
 <i>Slicing Sound Wave</i>","(
 ザク
@@ -382,23 +382,23 @@ He jumped?!,"なっ!?➡
 Now
 Eye wave of air pressure is effective
 .
-➡",0.2
+➡",0.2,0.34167627
 "<i>Even if I do the Super Sound Wave,</i>
 <i>if I'm touched by something like that</i>","かといって
 超音波をやるにしても➡
 
 ","Or
-Even if you do ultrasound",0.14285714285714285
+Even if you do ultrasound",0.14285714285714285,0.31680986
 Ninja Art!,"忍法
  
 影真似の術！》
 
 ","Ninja method
  
-Shadow equivalent technique!""",0.25
+Shadow equivalent technique!""",0.25,0.4822044
 <i>My body!</i>,"跳ねやがった！
 
-",I bounced!,0.25
+",I bounced!,0.25,0.24280038
 What are you doing at a time like this?!,"(
 キン
 )
@@ -406,7 +406,7 @@ What are you doing at a time like this?!,"(
 こんなときに何をやってる！
 
 ","Dos!
-What is doing in such a case!",0.25
+What is doing in such a case!",0.25,0.29992953
 Shadow Paralysis Jutsu?,"(
 ドス
 )
@@ -414,7 +414,7 @@ Shadow Paralysis Jutsu?,"(
 ｡
 
 ","Science of shadow
-.",0.14285714285714285
+.",0.14285714285714285,0.52747357
 "Okay, Shikamaru, look after my body.","シカマル
  
 あたしの体
@@ -427,7 +427,7 @@ Shadow Paralysis Jutsu?,"(
 My body
  
 Please, thanks
-.",0.5
+.",0.5,0.79360086
 Huh?,"おう
 ｡
 (
@@ -438,23 +438,23 @@ Huh?,"おう
 ","King
 .
 
-eh?",0.2
+eh?",0.2,0.32343394
 "Ninja Art, Mind Transfer Jutsu!","忍法
  
 心転身の術！
 
 ","Ninja method
  
-Heart bleback!",0.2
+Heart bleback!",0.2,0.45181742
 Kin!,"キン！
 
-",Kin!,1.0
+",Kin!,1.0,1.0000002
 What happened?,"(
 ドス
 )
 どうした!?
 
-",What happened!?,0.75
+",What happened!?,0.75,0.7969387
 "If you make one move,
 this girl named Kin is dead meat!","あんたたち
  
@@ -462,7 +462,7 @@ this girl named Kin is dead meat!","あんたたち
 
 ","Animal
  
-If you move even one step",0.23529411764705882
+If you move even one step",0.2352941176470588,0.3933433
 "If you don't want this
 to end right here,","ここで終わりたくなければ
 巻物を置いて立ち去るのね
@@ -472,14 +472,14 @@ to end right here,","ここで終わりたくなければ
 ","If you don't want to end here
 Place the scroll and leave
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.54038787
 I'll release this girl!,"遠のいたら
 この子を解放してあげるわ
 ｡
 
 ","If
 I'll release this child
-.",0.4444444444444444
+.",0.4444444444444444,0.6199402
 "<i>These guys...</i>
 <i>What are they grinning about?</i>","(
 いの
@@ -492,7 +492,7 @@ I'll release this child
 ","""These guys
 what
  
-Is it funny?""",0.2222222222222222
+Is it funny?""",0.2222222222222222,0.55584955
 This isn't good! They won't...!,"ヤバい！
  
 そいつらは…
@@ -501,10 +501,10 @@ This isn't good! They won't...!,"ヤバい！
 ","Dangerous!
  
 Those ...
-.",0.18181818181818182
+.",0.18181818181818185,0.30813134
 Ino!,"あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.34414953
 Careless.,"(ﾁｮｳｼﾞ)
 う～
  
@@ -514,7 +514,7 @@ Careless.,"(ﾁｮｳｼﾞ)
 ","Yu
  
 Eyesight
-.",0.25
+.",0.25,0.19693129
 "Our goal is not the scrolls or
 to pass this test playing by the rules.","な…
  
@@ -524,10 +524,10 @@ to pass this test playing by the rules.","な…
 ","...
  
 What is the guy
-.",0.16666666666666666
+.",0.16666666666666666,0.032066505
 What?,"何!?
 
-",what!?,0.6666666666666666
+",what!?,0.6666666666666666,0.80055624
 It's Sasuke.,"(
 ドス
 )
@@ -535,7 +535,7 @@ It's Sasuke.,"(
 ｡
 
 ","It is Sasuke-kun
-.",0.3333333333333333
+.",0.3333333333333333,0.8405595
 <i>My Jutsu...</i>,"(ｼｶﾏﾙ)
 《チッ
  
@@ -543,7 +543,7 @@ It's Sasuke.,"(
 
 ","""Chig
  
-My art ... """,0.2
+My art ... """,0.2,0.19473498
 "So your much precious
 Shadow Paralysis Jutsu","(
 ドス
@@ -554,10 +554,10 @@ Shadow Paralysis Jutsu","(
 
 ","~
  
-Skillo shadow tied up",0.09090909090909091
+Skillo shadow tied up",0.09090909090909093,0.46057844
 is limited to 5 minutes?,"５分が限界ってとこですか？
 
-",Is it the limit of 5 minutes?,0.4
+",Is it the limit of 5 minutes?,0.4,0.89702517
 "It's not Shadow Paralysis.
 It's Shadow Possession Jutsu.","影縛りじゃねえ
  
@@ -567,26 +567,26 @@ It's Shadow Possession Jutsu.","影縛りじゃねえ
 ","It's not a shadow
  
 It is a shadow equation
-.",0.45454545454545453
+.",0.4545454545454545,0.5674835
 "seems to be a Jutsu to
 take over the other's body.","体を乗っ取る術のようですが➡
 
-",It seems like a technique to get on the body,0.29411764705882354
+",It seems like a technique to get on the body,0.29411764705882354,0.5433395
 "From the looks of the blood
 she's spitting up,","その吐血から見て➡
 
-",From the vesting blood,0.2727272727272727
+",From the vesting blood,0.2727272727272727,0.463534
 "if I kill Kin, that girl will die too...","キンを殺せば
 その子も死ぬことになるようだね
 ｡
 
 ","If you kill Kin
 It seems that the child will die
-.",0.35294117647058826
+.",0.35294117647058826,0.71441597
 "Are you going to do in...
 your teammate?","仲間をやるのか？
 
-",Do you have friends?,0.25
+",Do you have friends?,0.25,0.27415785
 This is no good.,"こりゃダメだ
 ｡
 (ﾁｮｳｼﾞ)
@@ -597,12 +597,12 @@ This is no good.,"こりゃダメだ
 .
 
 Kusso-
-.",0.5714285714285714
+.",0.5714285714285714,0.4620635
 You're too easy going.,"残念だったな
 ｡
 
 ","Shame for you
-.",0.25
+.",0.25,0.15726845
 "Hmph, I don't like this at all.","≪
 (
 ネジ
@@ -619,7 +619,7 @@ Hung
  
 I do not like it
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.24894156
 "Bullying the second rate guys and
 putting on airs like a winner.","そんな二線級をいじめて
 勝利者気取りか
@@ -627,13 +627,13 @@ putting on airs like a winner.","そんな二線級をいじめて
 
 ","Bully bully such a second line class
 Winner
-.",0.23529411764705882
+.",0.2352941176470588,0.5747008
 What?!,"(
 ドス
 )
 何？
 
-",what?,0.6666666666666666
+",what?,0.6666666666666666,0.84850585
 They're Lee's teammates...,"あれは
  
 リーさんのチームの…
@@ -642,7 +642,7 @@ They're Lee's teammates...,"あれは
 ","That is
  
 Lee's team ...
-.",0.3
+.",0.3,0.8385018
 Lee!,"(ﾃﾝﾃﾝ)
 リー！
 (
@@ -654,7 +654,7 @@ Lee!,"(ﾃﾝﾃﾝ)
 ","Lee!
 
 Hema
-.",0.5
+.",0.5,0.8243709
 "Hah! Coming out of nowhere
 like cockroaches...","(
 ザク
@@ -669,10 +669,10 @@ like cockroaches...","(
  
 With a worer
 I'm going to go out of the cockroach
-.",0.09523809523809523
+.",0.09523809523809523,0.48023242
 "But you messed with him, didn't you?!","好き勝手やってくれたな！
 
-",I did my best!,0.15384615384615385
+",I did my best!,0.15384615384615385,0.2827011
 <i>What's with his eyes?</i>,"(
 ドス
 )
@@ -686,7 +686,7 @@ I'm going to go out of the cockroach
  
 Aya no eyes
 .
-➡",0.2
+➡",0.2,0.48907956
 What's wrong? Neji...,"どうしたの？
  
 ネジ
@@ -695,13 +695,13 @@ What's wrong? Neji...,"どうしたの？
 ","What's wrong?
  
 screw
-.",0.5
+.",0.5,0.427893
 <i>This Chakra...</i>,"(
 ネジ
 )
 《このチャクラは…》
 
-","""This chakra is ...""",0.3
+","""This chakra is ...""",0.3,0.78915775
 "If you don't like me,
 don't play cool, come down here.","(
 ドス
@@ -712,7 +712,7 @@ don't play cool, come down here.","(
 
 ","Hook
  
-If you don't like it",0.3333333333333333
+If you don't like it",0.3333333333333333,0.32216433
 "No. Evidently, there's no need for that.","いや
  
 どうやら
@@ -723,34 +723,34 @@ If you don't like it",0.3333333333333333
  
 Apparently
 It seems that there is no need
-.",0.35714285714285715
+.",0.35714285714285715,0.6373826
 <i>I can't do anything!</i>,"何もできないじゃないか
 ｡
 ➡
 
 ","I can not do anything
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.7450019
 "<i>Because I had no power...</i>
 <i>Everyone was killed!</i>","僕には力がなかったから➡
 
-",Because I had no power,0.38461538461538464
+",Because I had no power,0.38461538461538464,0.7319949
 That's...,"あれは➡
 
-",That is ➡,0.2
+",That is ➡,0.2,0.35354924
 Sasuke?,"サスケ君？
 
-",Sasuke?,1.0
+",Sasuke?,1.0,0.99999976
 Who is it?,"誰だ？
 
-",Who?,0.5
+",Who?,0.5,0.575756
 "<i>The Curse Marks run</i>
 <i>around his entire body?!</i>","(
 ドス
 )
 《呪印が体中を取り巻いている》
 
-","""The curse surrounds the body""",0.17647058823529413
+","""The curse surrounds the body""",0.17647058823529413,0.5192198
 "Sasuke...
 That body?","サスケ君
  
@@ -760,12 +760,12 @@ That body?","サスケ君
 ","Sasuke
  
 The body ...
-.",0.42857142857142855
+.",0.42857142857142855,0.93060374
 Right now I feel good.,"今は気分がいい
 ｡
 
 ","I feel good now
-.",0.8333333333333334
+.",0.8333333333333334,0.8194435
 That guy gave this to me.,"あいつが
  
 くれたんだ
@@ -776,49 +776,49 @@ That guy gave this to me.,"あいつが
  
 I gave me
 .
-picture?",0.5
+picture?",0.5,0.4067399
 I'm an Avenger...,"俺は復しゅう者
 ｡
 
 ","I'm recovering
-.",0.2857142857142857
+.",0.2857142857142857,0.2565262
 "even if it means abandoning
 myself to the devil.","たとえ悪魔に身を委ねようとも➡
 
-",Even if you leave the body to the devil,0.38461538461538464
+",Even if you leave the body to the devil,0.38461538461538464,0.7412367
 "<i>So the mark on the neck</i>
 <i>that this girl called Sakura spoke of</i>","あのサクラとかいうヤツが言った
 首のアザとは➡
 
 ","The guy saying that Sakura
-What is the neck aza",0.19047619047619047
+What is the neck aza",0.19047619047619047,0.7339876
 <i>is this Curse Mark.</i>,"この呪印のことだったのか
 ｡
 ➡
 
 ","Was this curse?
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.64411783
 <i>I didn't think he could stand up...</i>,"しかし
  
 立ち上がってくるとはね》
 
 ","However
  
-When I get up,",0.125
+When I get up,",0.125,0.29636002
 Who harmed you?,"お前を傷つけたのは
  
 どいつだ？
 
 ","What I hurt you
  
-What?",0.2857142857142857
+What?",0.2857142857142857,0.4470948
 Me!,"俺だよ！
 
-",It's me!,0.5
+",It's me!,0.5,0.65026605
 Come back to this body!,"こっちの体へ戻れ！➡
 
-",Return to this body!➡,0.5
+",Return to this body!➡,0.5,0.83307576
 "Choji, you too,
 come over here and hide.","チョウジも
  
@@ -828,7 +828,7 @@ come over here and hide.","チョウジも
 ","Chow
  
 Come here!
-Hide!",0.25
+Hide!",0.25,0.47358775
 Y-Yeah.,"サクラ
  
 言え
@@ -837,14 +837,14 @@ Y-Yeah.,"サクラ
 ","Cherry blossoms
  
 say
-.",0.2
+.",0.2,0.14960524
 Shikamaru!,"お…
  
 おう！
 
 ","Oh…
  
-King!",0.25
+King!",0.25,0.3529922
 What's going to happen now?,"(ﾁｮｳｼﾞ)
 シカマル
 どうなっちゃうんだよ
@@ -856,7 +856,7 @@ What's going to happen now?,"(ﾁｮｳｼﾞ)
 What's wrong
  
 from now
-.",0.2727272727272727
+.",0.2727272727272727,0.2966179
 W-What's this?,"(
 ドス
 )
@@ -870,16 +870,16 @@ W-What's this?,"(
  
 child…
  
-this is…""",0.1111111111111111
+this is…""",0.1111111111111111,0.25444448
 <i>how you look at it...</i>,"(
 ドス
 )
 《いくら何でも➡
 
-","""How much",0.08333333333333333
+","""How much",0.08333333333333333,0.17048822
 <i>too big!</i>,"デカすぎる！》
 
-","It's too big!""",0.3
+","It's too big!""",0.3,0.67959046
 "Stop, Zaku! Don't you understand?!","(
 ドス
 )
@@ -891,10 +891,10 @@ this is…""",0.1111111111111111
 ","Good
  
 Zaku!
-Do you not understand?",0.5454545454545454
+Do you not understand?",0.5454545454545454,0.8557992
 Super Sonic Slicing Wave!,"斬空極波！
 
-",Square wind wave!,0.2857142857142857
+",Square wind wave!,0.2857142857142857,0.48516947
 "- Who did?
 - Huh?!","誰が？
 (
@@ -904,7 +904,7 @@ Super Sonic Slicing Wave!,"斬空極波！
 
 ","Who?
 
-Hmm!?",0.42857142857142855
+Hmm!?",0.42857142857142855,0.43290168
 Zaku!,"(
 ドス
 )
@@ -913,7 +913,7 @@ Zaku!,"(
 のせきこみ
 )
 
-",Zaku!,1.0
+",Zaku!,1.0,0.99999994
 "<i>Moreover, he took in those two,</i>
 <i>and in the blink of an eye.</i>","(
 ドス
@@ -926,7 +926,7 @@ Zaku!,"(
 ","""fast
  
 Morely
-Hide that two in a moment",0.08333333333333333
+Hide that two in a moment",0.08333333333333333,0.36797306
 Don't push your luck!,"(
 ザク
 )
@@ -934,10 +934,10 @@ Don't push your luck!,"(
 かき消してやる！
 
 ","Don't get on the figure!
-I will erase it!",0.21428571428571427
+I will erase it!",0.21428571428571427,0.2461055
 Shuriken's in the fire?!,"火の中に手裏剣が！➡
 
-",Shuriken is in the fire!➡,0.5555555555555556
+",Shuriken is in the fire!➡,0.5555555555555556,0.9165881
 "Zaku, below you!","(
 ドス
 )
@@ -947,7 +947,7 @@ Shuriken's in the fire?!,"火の中に手裏剣が！➡
 
 ","Zaku!
  
-Below!",0.6
+Below!",0.6,0.9372433
 "<i>The quality of the Chakra</i>
 <i>is completely different...</i>","(
 いの
@@ -958,14 +958,14 @@ Below!",0.6
 
 ","""The quality of Chakra is totally different
 .
-➡",0.375
+➡",0.375,0.8629086
 <i>Is that really Sasuke?</i>,"ホントに
  
 あれがサスケ君なの？➡
 
 ","Really
  
-That's Sasuke?➡",0.36363636363636365
+That's Sasuke?➡",0.3636363636363637,0.9032757
 "<i>What happened?</i>
 <i>What in the world...?</i>","何があったの？
  
@@ -973,10 +973,10 @@ That's Sasuke?➡",0.36363636363636365
 
 ","What happened?
  
-Main ...",0.3333333333333333
+Main ...",0.3333333333333333,0.4745123
 S-Stop it!,"うわ～！
 
-",Wow!,0.25
+",Wow!,0.25,0.2841128
 <i>Sasuke will definitely come for me.</i>,"(
 大蛇丸
 )
@@ -984,7 +984,7 @@ S-Stop it!,"うわ～！
 必ず私を求める＞
 
 ","<Sasuke-kun
-Be sure to ask for me>",0.1875
+Be sure to ask for me>",0.1875,0.7512131
 You're the only one left.,"残るは
  
 お前だけだな
@@ -993,7 +993,7 @@ You're the only one left.,"残るは
 ","Remaining
  
 You only
-.",0.375
+.",0.375,0.6439516
 make it a little more fun for me.,"お前は
  
 もっと楽しませてくれよ
@@ -1002,15 +1002,15 @@ make it a little more fun for me.,"お前は
 ","You are
  
 Get more fun
-.",0.25
+.",0.25,0.55115676
 <i>Sasuke!</i>,"サスケ君じゃない！》
 
-","It is not Sasuke!""",0.2
+","It is not Sasuke!""",0.2,0.796506
 Stop.,"やめて
 ｡
 
 ","stop
-.",1.0
+.",1.0,1.0
 <i>The Curse Mark is withdrawing...</i>,"(
 ドス
 )
@@ -1020,15 +1020,15 @@ Stop.,"やめて
 
 ","""The curse will pull
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.65551466
 <i>We're saved for now.</i>,"とりあえずは助かったか》
 
-","For the time being, was it saved?",0.125
+","For the time being, was it saved?",0.125,0.4662331
 Sasuke!,"サスケ君
 ｡
 
 ","Sasuke
-.",0.3333333333333333
+.",0.3333333333333333,0.90816414
 You're strong.,"(
 ドス
 )
@@ -1036,7 +1036,7 @@ You're strong.,"(
 ｡
 
 ","You are strong
-.",0.6
+.",0.6,0.93238956
 "Sasuke... We can't defeat you
 the way you are now.","(
 ドス
@@ -1047,21 +1047,21 @@ the way you are now.","(
 
 ","Sasuke
  
-You are now ➡",0.3076923076923077
+You are now ➡",0.3076923076923077,0.73401624
 Please let us withdraw from here.,"これは手打ち料
 ここは引かせてください
 ｡
 
 ","This is hand-made fee
 Please let me draw here
-.",0.3076923076923077
+.",0.3076923076923077,0.27115628
 "It seems selfish, but we now have
 something we need to confirm, too.","(
 ドス
 )
 虫がよすぎるようですが➡
 
-","It seems that the insect is too good, but",0.2631578947368421
+","It seems that the insect is too good, but",0.2631578947368421,0.04760521
 "That being said,
 let's make a promise.","その代わり
  
@@ -1073,7 +1073,7 @@ let's make a promise.","その代わり
  
 Let's promise
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6769579
 "If there's another opportunity to
 battle with you in this test,","今回の試験で
  
@@ -1083,22 +1083,22 @@ battle with you in this test,","今回の試験で
 ","In this test
  
 next
-If there is an opportunity to fight you",0.47058823529411764
+If there is an opportunity to fight you",0.4705882352941176,0.861109
 we won't run or hide.,"僕たちは逃げも隠れもしない
 ｡
 
 ","We do not hide the flee
-.",0.2727272727272727
+.",0.2727272727272727,0.622586
 Who in the world is Orochimaru?,"大蛇丸って一体
  
 何者なの？
 
 ","Salups round
  
-Who is it?",0.3
+Who is it?",0.3,0.369996
 What did he do to Sasuke?!,"サスケ君に何をしたのよ！
 
-",What did Sasuke did!,0.5
+",What did Sasuke did!,0.5,0.9267386
 I don't know...,"(
 ドス
 )
@@ -1108,7 +1108,7 @@ I don't know...,"(
 
 ","I do not understand
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.32667664
 "We were just given orders to
 make the hit on Sasuke.","僕らは
  
@@ -1120,14 +1120,14 @@ make the hit on Sasuke.","僕らは
  
 Just Sasuke
 It is only ordered to do
-.",0.2777777777777778
+.",0.2777777777777778,0.77839357
 Hey! Are you okay?!,"一体
  
 何をお考えなのか》
 
 ","Integral
  
-What do you think?",0.2
+What do you think?",0.2,-0.006431407
 "<i>That Chakra...</i>
 <i>It's abnormal.</i>","(
 ネジ
@@ -1142,7 +1142,7 @@ What do you think?",0.2
  
 Abnormally
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.7886688
 Sakura's in danger!,"いのは
  
 リーってヤツを頼む
@@ -1157,7 +1157,7 @@ Sakura's in danger!,"いのは
 Lee asks for a guy
 .
 
-Yes!",0.16666666666666666
+Yes!",0.16666666666666666,0.12614071
 "Well, what should we do
 with this guy?","つうか
  
@@ -1171,7 +1171,7 @@ with this guy?","つうか
 what will you do?
  
 this guy
-.",0.35714285714285715
+.",0.35714285714285715,0.6342959
 Can I do it?,"蹴り起こすか？
 (ﾁｮｳｼﾞ)
 僕が
@@ -1182,12 +1182,12 @@ Can I do it?,"蹴り起こすか？
 
 I
  
-Can I do it?",0.7142857142857143
+Can I do it?",0.7142857142857143,0.40977326
 What am I?,"俺は一体…
 ｡
 
 ","I am one ...
-.",0.2857142857142857
+.",0.2857142857142857,0.38556087
 "<i>when you want to cry, and you want to run away</i>","♬
  
 君は
@@ -1198,14 +1198,14 @@ What am I?,"俺は一体…
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.3908758
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.2864675
 "Hey, what's up Akamaru?","♬
  
 もう
@@ -1216,7 +1216,7 @@ Because I'm crying",0.1
  
 Already
  
-it's fine",0.09090909090909091
+it's fine",0.09090909090909093,0.11816091
 "Wait a minute, Naruto,
 he's acting strange.","♬
  
@@ -1224,11 +1224,11 @@ he's acting strange.","♬
 
 ","♬
  
-A singing",0.08333333333333333
+A singing",0.08333333333333333,0.13888596
 "What, are you hungry?","♬
  
 幸せを忘れてしまったら
 
 ","♬
  
-If you forgot happiness",0.1
+If you forgot happiness",0.1,0.18665528

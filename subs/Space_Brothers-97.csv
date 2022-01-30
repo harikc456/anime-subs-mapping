@@ -1,45 +1,45 @@
-en_text,jp_text,google_translated,score
-And he's catching up to Hibito.,着実に日々人へと近づいている＞,"Steady, approaching people every day>",0.0
-"#97 Won't Go Away hey, aren't you taro?",お～う！太郎じゃねぇか！,Oh!Taro isn't it!,0.125
-Shrimp going round and round...,ぷ～らぷら,Pu-Pura,0.0
-Watch them bob up and down!,ぷらんぷら～んか,Plan Pura,0.0
-Save it for the first laugh of the year!,それは初笑いにとっといて｡,It's my first laugh.,0.25
-"That was a wonderful performance,",見事の演奏だったな…ヒビト｡,It was a wonderful performance ... Hibito.,0.4
-"I haven't had much training to do,",未だに訓練が少なくて➡,I still have few training ➡,0.25
-"Wow! Amazing, Dad...",うわぁ！すごいよお父さん｡,Wow!It's amazing.,0.3333333333333333
-Then do Conan!,じゃあ コナンやって！,Well then I'm doing Conan!,0.375
-"Yeah, I'll be there in a bit.",もうちょいしたら行くよ｡,I will go there any more.,0.21428571428571427
-if I'll be able to return to the moon...,俺はもう 月に行けないかも｡,I may not go to the moon anymore.,0.26666666666666666
-Your backyard rocks.,最高じゃねぇか…この庭｡,It's not the best ... this garden.,0.08333333333333333
-I'm not going to make it there.,俺に行けるわけねぇだろ？,You can go to me?,0.07142857142857142
-And that's when I realized it...,それで…何となく気づいたんだ｡,So ... I noticed somehow.,0.16666666666666666
-just won't go away.,もう 消せねぇんだよ｡,I'm sorry I'm sorry.,0.1111111111111111
-"In this situation, that's the older brother's duty!",《兄として こんな時こそ！》,"""Such as my brother!""",0.125
-"Happy New Year. yeah, happy new year.",おお おめでとう｡,Happy New Year.,0.6666666666666666
-Huh? Where's Hibito?,あれ？日々人は？,that?Daily day?,0.125
-"He already left in a ""whoosh.""",先に行ったわよ サーッて｡,I went ahead.,0.08333333333333333
-You'll be in the lunar MCC?,南波さんは月の方ですか？,Mr. Minamiwanami is the moon?,0.16666666666666666
-What are they arguing about?,《なに話してんだろ？》,"""I'm talking about?""",0.18181818181818182
-"I'll see you later, then.",それじゃあ また｡,see you soon.,0.3333333333333333
-"Yeah, I know what you mean.",ああ～ あるね｡,Oh yes.,0.1
-And it turns into chaos.,ぐだぐだになっちゃう あれね｡,It will be gum.,0.2222222222222222
-"When communicating with the moon, there's about a 2.5-second lag.",月との交信タイムラグは,Communication time lag with the moon,0.26666666666666666
-"Roger that. during real landings, this is standard procedure.",本番でも毎回やる工程だよ｡,It is a process of doing every time in production.,0.1
-Check the landing site.,[TV]着陸ポイントの確認をしてくれ｡,[TV] Please check the landing point.,0.4
-"In accordance with step 7-12,",ステップ７－１２➡,Step 7-12,0.3333333333333333
-"If we switch to the line used for simulations,",訓練用の別回線に繋げば➡,If you connect to another line for training ➡,0.26666666666666666
-"In ten minutes, we'll begin your training, Mutta.",通話訓練開始だ ムッタ｡➡,Mutta who starts call training.,0.21428571428571427
-And he passed the test!,そして彼は見事それに合格した！,And he passed it!,0.5714285714285714
-the entire barrel will be full of dirty water.,それは樽いっぱいの汚水になる｡,It will be a follent sewage with full barrel.,0.3333333333333333
-would you do it?,君なら飲むか？そんなワインを｡,Do you drink it?Such wine.,0.4444444444444444
-This is Houston. It's Nanba Mutta.,続けてナンバ ムッタです｡,It is Number Mutter.,0.3
-We will contact you once step 3-10 is complete.,ステップ３－１０まで,Step 3-10,0.2
-"Heh, maybe I'm actually good at this stuff.",いやぁ～ フフフ…｡,Haya ~ Hofufu ....,0.06666666666666667
-"Have a seat, and let's talk.",とりあえず 座って話そうか｡,"For now, can you sit and talk?",0.2
-There has to be a way.,《なんとかなるもんだ》,"""It's a wonderful thing""",0.07692307692307693
-Wh-What's going on?!,な…なんだ!?あっ！,... What!?,0.25
-"It's okay, Butler...",大丈夫ですよ｡バトラーさん｡,It is okay. Butler.,0.375
-I had a feeling this would happen.,こうなる予感はありました｡,There was a feeling of this.,0.36363636363636365
-"Somehow, I knew I wouldn't be going back to space...",俺はもう 宇宙へ行けないって…｡,I can not go to space anymore ....,0.23529411764705882
-But it appears that I was too late.,《どうやらその判断が遅すぎた》,"""Apparently the judgment was too late.""",0.2857142857142857
-I missed my chance...,《私は 何も伝えられずに》,"""I can not tell anything""",0.09090909090909091
+en_text,jp_text,google_translated,score,semantic_score
+And he's catching up to Hibito.,着実に日々人へと近づいている＞,"Steady, approaching people every day>",0.0,0.18070737
+"#97 Won't Go Away hey, aren't you taro?",お～う！太郎じゃねぇか！,Oh!Taro isn't it!,0.125,0.5679685
+Shrimp going round and round...,ぷ～らぷら,Pu-Pura,0.0,0.12847453
+Watch them bob up and down!,ぷらんぷら～んか,Plan Pura,0.0,0.11413177
+Save it for the first laugh of the year!,それは初笑いにとっといて｡,It's my first laugh.,0.25,0.46029395
+"That was a wonderful performance,",見事の演奏だったな…ヒビト｡,It was a wonderful performance ... Hibito.,0.4,0.60927916
+"I haven't had much training to do,",未だに訓練が少なくて➡,I still have few training ➡,0.25,0.626999
+"Wow! Amazing, Dad...",うわぁ！すごいよお父さん｡,Wow!It's amazing.,0.3333333333333333,0.5118607
+Then do Conan!,じゃあ コナンやって！,Well then I'm doing Conan!,0.375,0.853269
+"Yeah, I'll be there in a bit.",もうちょいしたら行くよ｡,I will go there any more.,0.21428571428571427,0.34219497
+if I'll be able to return to the moon...,俺はもう 月に行けないかも｡,I may not go to the moon anymore.,0.26666666666666666,0.7441195
+Your backyard rocks.,最高じゃねぇか…この庭｡,It's not the best ... this garden.,0.08333333333333333,0.43677485
+I'm not going to make it there.,俺に行けるわけねぇだろ？,You can go to me?,0.07142857142857142,0.19817197
+And that's when I realized it...,それで…何となく気づいたんだ｡,So ... I noticed somehow.,0.16666666666666666,0.47229072
+just won't go away.,もう 消せねぇんだよ｡,I'm sorry I'm sorry.,0.1111111111111111,0.30721492
+"In this situation, that's the older brother's duty!",《兄として こんな時こそ！》,"""Such as my brother!""",0.125,0.4105499
+"Happy New Year. yeah, happy new year.",おお おめでとう｡,Happy New Year.,0.6666666666666666,0.8782706
+Huh? Where's Hibito?,あれ？日々人は？,that?Daily day?,0.125,0.09450631
+"He already left in a ""whoosh.""",先に行ったわよ サーッて｡,I went ahead.,0.08333333333333333,0.27318305
+You'll be in the lunar MCC?,南波さんは月の方ですか？,Mr. Minamiwanami is the moon?,0.16666666666666666,0.4294806
+What are they arguing about?,《なに話してんだろ？》,"""I'm talking about?""",0.18181818181818185,0.24362376
+"I'll see you later, then.",それじゃあ また｡,see you soon.,0.3333333333333333,0.70522994
+"Yeah, I know what you mean.",ああ～ あるね｡,Oh yes.,0.1,0.39958978
+And it turns into chaos.,ぐだぐだになっちゃう あれね｡,It will be gum.,0.2222222222222222,0.27031767
+"When communicating with the moon, there's about a 2.5-second lag.",月との交信タイムラグは,Communication time lag with the moon,0.26666666666666666,0.85062313
+"Roger that. during real landings, this is standard procedure.",本番でも毎回やる工程だよ｡,It is a process of doing every time in production.,0.1,0.26330572
+Check the landing site.,[TV]着陸ポイントの確認をしてくれ｡,[TV] Please check the landing point.,0.4,0.46264023
+"In accordance with step 7-12,",ステップ７－１２➡,Step 7-12,0.3333333333333333,0.7342123
+"If we switch to the line used for simulations,",訓練用の別回線に繋げば➡,If you connect to another line for training ➡,0.26666666666666666,0.4435444
+"In ten minutes, we'll begin your training, Mutta.",通話訓練開始だ ムッタ｡➡,Mutta who starts call training.,0.21428571428571427,0.72392106
+And he passed the test!,そして彼は見事それに合格した！,And he passed it!,0.5714285714285714,0.81020623
+the entire barrel will be full of dirty water.,それは樽いっぱいの汚水になる｡,It will be a follent sewage with full barrel.,0.3333333333333333,0.73957145
+would you do it?,君なら飲むか？そんなワインを｡,Do you drink it?Such wine.,0.4444444444444444,0.20832133
+This is Houston. It's Nanba Mutta.,続けてナンバ ムッタです｡,It is Number Mutter.,0.3,0.2252106
+We will contact you once step 3-10 is complete.,ステップ３－１０まで,Step 3-10,0.2,0.7241502
+"Heh, maybe I'm actually good at this stuff.",いやぁ～ フフフ…｡,Haya ~ Hofufu ....,0.06666666666666668,0.076122895
+"Have a seat, and let's talk.",とりあえず 座って話そうか｡,"For now, can you sit and talk?",0.2,0.6423224
+There has to be a way.,《なんとかなるもんだ》,"""It's a wonderful thing""",0.07692307692307693,0.06749811
+Wh-What's going on?!,な…なんだ!?あっ！,... What!?,0.25,0.2440393
+"It's okay, Butler...",大丈夫ですよ｡バトラーさん｡,It is okay. Butler.,0.375,0.93836296
+I had a feeling this would happen.,こうなる予感はありました｡,There was a feeling of this.,0.3636363636363637,0.6536695
+"Somehow, I knew I wouldn't be going back to space...",俺はもう 宇宙へ行けないって…｡,I can not go to space anymore ....,0.2352941176470588,0.7148503
+But it appears that I was too late.,《どうやらその判断が遅すぎた》,"""Apparently the judgment was too late.""",0.2857142857142857,0.5083536
+I missed my chance...,《私は 何も伝えられずに》,"""I can not tell anything""",0.09090909090909093,0.049516577

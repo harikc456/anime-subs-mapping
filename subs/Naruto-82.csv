@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.7113181
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.86280525
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207105
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.6541097
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.38045898
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851644
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.40009788
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.5800125
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,13 +97,13 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.3699327
 The same Jutsu as me?!,"(
 鬼鮫
 )
 私と同じ術!?
 
-",The same technique as me!?,0.75
+",The same technique as me!?,0.75,0.38586205
 "But I kinda felt uneasy, you know.","(ｱｽﾏ)
 何で
  
@@ -115,25 +115,25 @@ The same Jutsu as me?!,"(
  
 You
 I'm going out
-.",0.23076923076923078
+.",0.2307692307692308,0.17542015
 "What business does
 a Rogue Ninja like you","(ｶｶｼ)
 お前のような抜け忍が➡
 
-",Your lugs like you,0.2
+",Your lugs like you,0.2,0.11043651
 have in this village now?,"いまさら
  
 この里に何の用だ？
 
 ","Now
  
-What is it for this village?",0.4
+What is it for this village?",0.4,0.7339472
 Hatake Kakashi...,"(ｲﾀﾁ)
 はたけカカシ…
 ｡
 
 ","Hatoken Kakashi ...
-.",0.4
+.",0.4,0.8702385
 What?! Why?! Why?!,"(ﾅﾙﾄ)
 えぇ!?
  
@@ -145,13 +145,13 @@ What?! Why?! Why?!,"(ﾅﾙﾄ)
  
 why?
  
-why?",0.6
+why?",0.6,0.68568903
 "Why do I have to go on a research trip
 with you, Pervy Sage?","取材旅行なんか
 しなきゃなんねえんだってばよ？
 
 ","Material travel
-If you have to do it?",0.25
+If you have to do it?",0.25,0.25949255
 "Oh no, this isn't just any research trip.","(
 自来也
 )
@@ -165,10 +165,10 @@ If you have to do it?",0.25
  
 this is
 Just not traveling
-.",0.2857142857142857
+.",0.2857142857142857,0.40185648
 Because I have training,"修業しなきゃなんねえんだから！
 
-",I have to study it!,0.25
+",I have to study it!,0.25,0.2045445
 "Well, I think that technique
 is impossible for you to learn.","あの技は
  
@@ -180,7 +180,7 @@ is impossible for you to learn.","あの技は
  
 You
 I think it is impossible
-.",0.5714285714285714
+.",0.5714285714285714,0.8089707
 "You want to meet her, don't you?!","その女
  
 すっごい美人だぞ
@@ -189,12 +189,12 @@ I think it is impossible
 ","That woman
  
 It's a great beauty
-I want to meet you?",0.2777777777777778
+I want to meet you?",0.2777777777777778,0.63094294
 Not at all.,"全然
 ｡
 
 ","at all
-.",0.75
+.",0.75,0.8409343
 "Oh, well... I know Jutsu more amazing
 than Chidori, but...","あ～あ
  
@@ -210,7 +210,7 @@ Tougle
 Great surgery
  
 I know it
-.",0.16666666666666666
+.",0.16666666666666666,0.15528467
 "It can't be helped...
 Maybe I'll take Sasuke?","しかたない
 サスケを連れてこっかのう
@@ -218,21 +218,21 @@ Maybe I'll take Sasuke?","しかたない
 
 ","it can not be helped
 Take the Sasuke
-.",0.3125
+.",0.3125,0.7855786
 Of course I'll go!,"やっぱ
  
 行く！
 
 ","After all
  
-go!",0.25
+go!",0.25,0.6143483
 "Pervy Sage, don't move!","エロ仙人はそこ
  
 動かないでよ～！
 
 ","Erotic Senni
  
-Don't move!",0.4444444444444444
+Don't move!",0.4444444444444444,0.39926726
 I'll be darned... He's really a cute kid.,"全く
  
 かわいいガキじゃのう
@@ -241,13 +241,13 @@ I'll be darned... He's really a cute kid.,"全く
 ","not at all
  
 Cute oysters
-.",0.125
+.",0.125,0.17272383
 "<i>I have to assume the worst case scenario,</i>
 <i>just in case.</i>","最悪の事態も想定しておかなきゃ
 ならないな》
 
 ","I wonder if the worst situation is also assumed
-""",0.13636363636363635
+""",0.13636363636363635,0.6156598
 "So there really is a fellow
 besides Itachi who has that eye.","(ｶｶｼ)
 《あの眼は昔のまま…
@@ -256,7 +256,7 @@ besides Itachi who has that eye.","(ｶｶｼ)
 
 ","""That eye is the old-fashioned ...
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.43226507
 "Your name is Kakashi,
 the Copy Ninja, wasn't it?","名は確か
  
@@ -266,7 +266,7 @@ the Copy Ninja, wasn't it?","名は確か
 ","Name is certain
  
 Copy Ninja Kakashi
-.",0.35714285714285715
+.",0.35714285714285715,0.83661175
 I'm the one who was surprised.,"(ｶｶｼ)
 驚いたのは
  
@@ -278,7 +278,7 @@ I'm the one who was surprised.,"(ｶｶｼ)
  
 It's here
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.3849153
 "the Mystery Man of Hidden Mist Village
 Kisame Hoshigaki.","霧隠れの怪人
  
@@ -288,7 +288,7 @@ Kisame Hoshigaki.","霧隠れの怪人
 ","Misty of hiding
  
 Washishi Onisho
-.",0.14285714285714285
+.",0.14285714285714285,0.44856057
 "I see. You're one of the
 ""Seven Ninja Swordsmen of the Mist.""","(ｶｶｼ)
 なるほど
@@ -299,12 +299,12 @@ Washishi Onisho
 ","So that's it
 Fog
  
-One of the seven people",0.21052631578947367
+One of the seven people",0.21052631578947367,0.41125932
 "That huge sword is the ""Shark Skin,"" right?","そのデカい刀が鮫肌というわけか
 ｡
 
 ","The big sword is 肌
-.",0.2
+.",0.2,0.6468618
 "I heard that kid Zabuza
 had it out with you?","再不斬の小僧は
  
@@ -314,7 +314,7 @@ had it out with you?","再不斬の小僧は
 ","Re-denomination
  
 You and
-Did you hear that you have done it?",0.23529411764705882
+Did you hear that you have done it?",0.2352941176470588,0.16665067
 Stop it... Kisame.,"(
 鬼鮫
 )
@@ -324,7 +324,7 @@ Stop it... Kisame.,"(
 
 ","Fuhufu ...
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.2983319
 "Don't lose sight of the goal...
 You didn't come here to get injured!","(ｲﾀﾁ)
 お前が
@@ -339,17 +339,17 @@ You didn't come here to get injured!","(ｲﾀﾁ)
 With the person
 Properly
  
-If you do",0.15
+If you do",0.15,0.11328892
 "Just came to find something
 we're looking for.","探し物を見つけに来ただけです
 ｡
 
 ","I just came to find a search
-.",0.38461538461538464
+.",0.38461538461538464,0.6726296
 Something you're looking for?,"(ｶｶｼ)
 探し物？
 
-",Find something?,0.2857142857142857
+",Find something?,0.2857142857142857,0.5622055
 "The thing you're looking for...
 What is it?","(ｶｶｼ)
 探し物とは
@@ -358,7 +358,7 @@ What is it?","(ｶｶｼ)
 
 ","What is a search
  
-What?",0.23076923076923078
+What?",0.2307692307692308,0.3177063
 "I'm different from Kisame,
 I won't take time.","(ｲﾀﾁ)
 俺なら
@@ -375,7 +375,7 @@ Unlike demons
 the time is
  
 Scatter
-.",0.17647058823529413
+.",0.17647058823529413,0.2597491
 "Ninja Art: Water Style.
 Water wall!","(ｶｶｼ)
 《忍法
@@ -388,7 +388,7 @@ Water wall!","(ｶｶｼ)
  
 Water [Outside: 99C09079206BA433E50523B592C8055A]
  
-Water soldier wall!""",0.23529411764705882
+Water soldier wall!""",0.2352941176470588,0.6213457
 "<i>That's some Jutsu speed.</i>
 <i>My eyes couldn't follow the Sign.</i>","(ｶｶｼ)
 《何て術のスピードだ
@@ -399,13 +399,13 @@ Water soldier wall!""",0.23529411764705882
 ","""What is the speed of art
 The seal did not follow my eyes
 .
-➡",0.14814814814814814
+➡",0.14814814814814814,0.47620565
 "<i>That Shuriken in the right hand</i>
 <i>was a decoy...</i>","あの右手の手裏剣を
 おとりにして➡
 
 ","The hand sword of that right hand
-Take it up",0.21052631578947367
+Take it up",0.21052631578947367,0.45337602
 "<i>to use a Water Style Jutsu to launch</i>
 <i>an attack below my foot...</i>","水[外:99C09079206BA433E50523B592C8055A]で
  
@@ -415,12 +415,12 @@ Take it up",0.21052631578947367
 ","Water [outside: 99C09079206BA433E50523B592C8055A]
  
 At the foot
-When attacking attacks",0.07407407407407407
+When attacking attacks",0.07407407407407407,0.5859096
 Your power of analytical eye... is great.,"ですね
 ｡
 
 ","is not it
-.",0.18181818181818182
+.",0.18181818181818185,0.14493795
 "A Shadow Clone?!
 His Jutsu speed is too fast!","(
 紅
@@ -431,13 +431,13 @@ His Jutsu speed is too fast!","(
 
 ","Shadow Sorter!?
  
-The surgery speed is too fast!",0.5
+The surgery speed is too fast!",0.5,0.5730781
 <i>A water clone?!</i>,"(
 鬼鮫
 )
 《水分身だと!?➡
 
-","""If it is a water distribution!?",0.2857142857142857
+","""If it is a water distribution!?",0.2857142857142857,0.42570502
 "<i>The Copy Ninja has done well this far</i>
 <i>with Jutsu of my village.</i>","ヘッ
  
@@ -451,14 +451,14 @@ The surgery speed is too fast!",0.5
 Copy ninja
 Well so far
  
-The art of the village",0.2857142857142857
+The art of the village",0.2857142857142857,0.7906299
 Nice! Kakashi!,"ナイス
  
 カカシ！
 
 ","nice
  
-Kakashi!",1.0
+Kakashi!",1.0,0.9248229
 "Get down, Kurenai!","(ｶｶｼ)
 伏せろ
  
@@ -466,7 +466,7 @@ Kakashi!",1.0
 
 ","Fush down
  
-deep red!➡",0.2222222222222222
+deep red!➡",0.2222222222222222,0.3570364
 This one is the Shadow Clone...,"こっちは影分身だ
 ｡
 (
@@ -477,12 +477,12 @@ This one is the Shadow Clone...,"こっちは影分身だ
 ","This is a shadow
 .
 
-eh?",0.2727272727272727
+eh?",0.2727272727272727,0.6111686
 "<i>He made the Shadow Clone</i>
 <i>body explode?!</i>","(ｱｽﾏ)
 《影分身体を爆発させただと!?》
 
-","""If you explode the body of the picture?""",0.21052631578947367
+","""If you explode the body of the picture?""",0.21052631578947367,0.37992698
 "Kakashi Sensei and Sasuke
 will be surprised!","カカシ先生も
  
@@ -494,7 +494,7 @@ will be surprised!","カカシ先生も
  
 Sasuke
 I'm surprised
-.",0.25
+.",0.25,0.75953484
 "He's the guy who became a division chief
 of Anbu Black Ops at 13 years old...","(ｶｶｼ)
 気を抜くな
@@ -511,7 +511,7 @@ Aya
 13
 In an old age
 He is a man who became a squad of the dark
-.",0.2857142857142857
+.",0.2857142857142857,0.49048278
 "No, you haven't seen
 this guy's strength yet.","(ｶｶｼ)
 いや
@@ -528,7 +528,7 @@ The power of
 not yet
  
 Not like this
-.",0.16666666666666666
+.",0.16666666666666666,0.3064765
 "I didn't expect that you who are not
 a member of the Uchiha clan","(ｲﾀﾁ)
 うちは一族ではない
@@ -537,7 +537,7 @@ a member of the Uchiha clan","(ｲﾀﾁ)
 
 ","My house is not a family
  
-You ➡",0.15
+You ➡",0.15,0.2434517
 "But your body isn't the Uchiha clan body
 that goes with the eye.","だが
  
@@ -545,14 +545,14 @@ that goes with the eye.","だが
 
 ","But
  
-Your body is ➡",0.2857142857142857
+Your body is ➡",0.2857142857142857,0.5019815
 "<i>That's right. As a result,</i>
 <i>my stamina doesn't last...</i>","(ｶｶｼ)
 《そのとおり
 すぐバテちゃうからな》
 
 ","""that's right
-It's right for me",0.13636363636363635
+It's right for me",0.13636363636363635,0.16961287
 "There's a reason why the Uchiha Clan
 was deemed the strongest and feared...","(ｲﾀﾁ)
 うちはの一族が
@@ -569,7 +569,7 @@ why
 Strongest
  
 Uta Warriurbed ...
-.",0.15
+.",0.15,0.436114
 Both of you! Don't look at his eyes!,"(ｶｶｼ)
 ２人とも
  
@@ -577,7 +577,7 @@ Both of you! Don't look at his eyes!,"(ｶｶｼ)
 
 ","Both of them
  
-Don't look at the eyes of the guy!",0.6153846153846154
+Don't look at the eyes of the guy!",0.6153846153846154,0.733836
 "Both of you,
 absolutely do <i>not</i> open your eyes...","(ｶｶｼ)
 ２人とも
@@ -588,7 +588,7 @@ absolutely do <i>not</i> open your eyes...","(ｶｶｼ)
 ","Both of them
 Do not open your eyes absolutely
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.6623744
 "you can resist this Mangekyo Sharingan
 to a certain extent.","この万華鏡写輪眼に
 多少の抵抗はできる
@@ -598,11 +598,11 @@ to a certain extent.","この万華鏡写輪眼に
 ","This kaleida maple eye
 Some resistances can be done
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.3655567
 "this special Visual Jutsu of Sharingan,","(ｲﾀﾁ)
 この特別な写輪眼の瞳術➡
 
-",Pupar of this special moss eye ➡ ➡,0.2727272727272727
+",Pupar of this special moss eye ➡ ➡,0.2727272727272727,0.23977175
 "The only person who can bring me down
 is someone","あれと
  
@@ -614,27 +614,27 @@ is someone","あれと
  
 It is probably possible to meet
 Only those who have the eyes
-.",0.2
+.",0.2,0.19477388
 "I wonder how much you can take
 without the Kekkei Genkai?","どれだけ耐えられるかな？
 
-",How much can you endure?,0.38461538461538464
+",How much can you endure?,0.38461538461538464,0.34818512
 The one just now was... Genjutsu?,"(ｶｶｼ)
 《今のは幻術…》
 
-","""Now is an illusion ...""",0.15384615384615385
+","""Now is an illusion ...""",0.15384615384615385,0.13389018
 In the world of Tsukuyomi...,"(ｲﾀﾁ)
 月読の世界では…
 ｡
 
 ","In the moon reading world ...
-.",0.4444444444444444
+.",0.4444444444444444,0.36315367
 Both space and time...,"(ｲﾀﾁ)
 空間も時間も…
 ｡
 
 ","Space and time ...
-.",0.6666666666666666
+.",0.6666666666666666,0.89716035
 I'll stab you continually with swords.,"(ｲﾀﾁ)
 これから
 72
@@ -646,7 +646,7 @@ I'll stab you continually with swords.,"(ｲﾀﾁ)
 72
 time
 Continue with a sword
-.",0.13333333333333333
+.",0.13333333333333333,0.55687153
 "It's best not to be optimistic
 and think it's an illusion.","(ｲﾀﾁ)
 幻と思って
@@ -655,13 +655,13 @@ and think it's an illusion.","(ｲﾀﾁ)
 
 ","I think
 It is better not to make high
-.",0.29411764705882354
+.",0.29411764705882354,0.30789196
 This pain is not an illusion.,"(ｲﾀﾁ)
 この苦痛は幻ではない
 ｡
 
 ","This pain is not a vision
-.",0.5555555555555556
+.",0.5555555555555556,0.7074124
 "This pain is absolutely
 no different from reality.","(ｲﾀﾁ)
 この苦痛は
@@ -674,7 +674,7 @@ no different from reality.","(ｲﾀﾁ)
  
 Reality
 No change
-.",0.5
+.",0.5,0.7979375
 How long will your spirit sustain?,"(ｲﾀﾁ)
 いつまで
  
@@ -686,7 +686,7 @@ How long will your spirit sustain?,"(ｲﾀﾁ)
  
 Your spirit
 Can you bring it?
-.",0.21428571428571427
+.",0.21428571428571427,0.6995345
 "There's...
 71 hours 59 minutes 59 seconds left.","(ｲﾀﾁ)
 あと
@@ -705,7 +705,7 @@ time
 Minute
 59
 Second
-.",0.2
+.",0.2,0.7766004
 <i>Wha...?!</i>,"(ｶｶｼ)
 うっ…
  
@@ -713,7 +713,7 @@ Second
 
 ","Uey ...
  
-Uh!➡",0.18181818181818182
+Uh!➡",0.18181818181818185,0.39796346
 N-Not... yet...,"ハァ
  
 ハァ
@@ -726,12 +726,12 @@ N-Not... yet...,"ハァ
 Han
  
 Hua ...
-.",0.16666666666666666
+.",0.16666666666666666,0.20593058
 What happened?!,"何があった!?
 ヤツがしゃべり終わったとたん➡
 
 ","What happened?
-The guy ended with the guy",0.375
+The guy ended with the guy",0.375,0.54603255
 "Three days in that world is less than
 a moment in the actual world, huh...","現実世界での一瞬にも
 満たないというわけか
@@ -741,7 +741,7 @@ a moment in the actual world, huh...","現実世界での一瞬にも
 ","In a moment in the real world
 I wonder if it is not satisfied
 .
-➡",0.25
+➡",0.25,0.3656664
 But... why doesn't he kill me?,"だが
  
 なぜ
@@ -752,10 +752,10 @@ But... why doesn't he kill me?,"だが
  
 why
  
-Aren't you killed?➡",0.3076923076923077
+Aren't you killed?➡",0.3076923076923077,0.6376632
 "He could easily do so, if he wants to...","その気になれば簡単に…》
 
-","If you care, it is easy ... """,0.1875
+","If you care, it is easy ... """,0.1875,0.23502897
 "Whoa... To take that Jutsu without causing
 his spirit to collapse.","(
 鬼鮫
@@ -772,13 +772,13 @@ his spirit to collapse.","(
 Putting about that
 Do not cause mental collapse
 .
-➡",0.15
+➡",0.15,0.20430171
 "it's also dangerous for you
 to overuse those eyes.","あなたにとっても危険
 ｡
 
 ","Dangerous for you
-.",0.36363636363636365
+.",0.3636363636363637,0.51246834
 is it Sasuke?,"(ｶｶｼ)
 探し物とは…
  
@@ -786,12 +786,12 @@ is it Sasuke?,"(ｶｶｼ)
 
 ","What is a search ...
  
-Is it about Sasuke?",0.4444444444444444
+Is it about Sasuke?",0.4444444444444444,0.7196543
 No... the legacy of the Fourth Hokage...,"四代目火影の遺産ですよ
 ｡
 
 ","It is a heritage of the fourth trap
-.",0.23076923076923078
+.",0.2307692307692308,0.4335457
 "These guys.
 What the heck are they planning...?","(
 紅
@@ -804,16 +804,16 @@ What the heck are they planning...?","(
 ","These guys
  
 ...
-.",0.36363636363636365
+.",0.3636363636363637,0.29953104
 "How many years has it been
 since you returned to the village?","里に戻ってこられたのは
 何年ぶりです？＞
 
 ","It was returned to the village
-How many years are you?>",0.625
+How many years are you?>",0.625,0.92882216
 Kakashi...,"＜カカシ＞
 
-",<Kakashi>,0.25
+",<Kakashi>,0.25,0.82433826
 "But even at your level,
 you may not be able to handle it properly.","お前のレベルでも
  
@@ -823,13 +823,13 @@ you may not be able to handle it properly.","お前のレベルでも
 ","Even at your level
  
 I can not turn
-It may be about>",0.38095238095238093
+It may be about>",0.3809523809523809,0.5527484
 "I've been observing Orochimaru
 ever since he left the village...","＜わしは
 大蛇丸が里を抜けてから➡
 
 ","<<
-After the Great Sea Manso missed the village",0.1111111111111111
+After the Great Sea Manso missed the village",0.1111111111111111,0.46788856
 "It was obvious that he would return
 to this village sooner or later.","明白だったからのう
 ｡
@@ -837,7 +837,7 @@ to this village sooner or later.","明白だったからのう
 
 ","It was obvious
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.20151934
 "All told, at first I was concerned
 only about him, but...","そんなこんなで
  
@@ -847,34 +847,34 @@ only about him, but...","そんなこんなで
 ","That's why
  
 At first
-I was wary of the guy but ...>",0.2857142857142857
+I was wary of the guy but ...>",0.2857142857142857,0.5647177
 What is it?,"(ｶｶｼ)
 ＜何です？＞
 
-",<What?>,0.3333333333333333
+",<What?>,0.3333333333333333,0.34637025
 The guy joined an organization.,"ヤツをずっと監視してきた
 ｡
 ➡
 
 ","I have been monitoring a guy
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.2093086
 An organization?,"(ｶｶｼ)
 ＜組織？➡
 
-",<Organization?➡,0.4
+",<Organization?➡,0.4,0.7183568
 What are the details of the organization?,"その組織の詳細は？＞
 
-",What is the details of the organization?>,0.6666666666666666
+",What is the details of the organization?>,0.6666666666666666,0.9710551
 "I don't know much of the details,","＜詳しいことは分からんが➡
 
-",<I do not know the details,0.45454545454545453
+",<I do not know the details,0.4545454545454545,0.60335433
 "Until recently, they weren't making
 any dramatic moves","最近まで
 大して派手な動きはなく➡
 
 ","Until recently
-There is no flashy movement",0.13333333333333333
+There is no flashy movement",0.13333333333333333,0.5012969
 "The biggest concern is
 the members of that organization.","問題は
  
@@ -886,20 +886,20 @@ the members of that organization.","問題は
  
 It is that
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.16792554
 "Almost all of them are listed
 on the Bingo Book,","そいつらのほとんどが
 手配書に載ってる➡
 
 ","Most of them
-It is listed in the handbook",0.25
+It is listed in the handbook",0.25,0.37824857
 That Itachi is among them.,"あのイタチもいる
 ｡
 ➡
 
 ","There is also that itachi
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.84443694
 "If the nine of them get together,
 their intent will not be volunteer activities.","そんなのが
  
@@ -913,7 +913,7 @@ their intent will not be volunteer activities.","そんなのが
 Nine people gather
 Volunteer will be hey
 .
-➡",0.22727272727272727
+➡",0.2272727272727273,0.5595109
 "Since you've been told this much,
 you already know what it means.","ここまで話したら
 もう
@@ -923,7 +923,7 @@ you already know what it means.","ここまで話したら
 ","If you talk to here
 Already
  
-You will also know you>",0.14285714285714285
+You will also know you>",0.14285714285714285,0.2948199
 "But recently, Orochimaru pulled out
 of the organization.","(
 自来也
@@ -940,17 +940,17 @@ of the organization.","(
 The essential large snake
 Get out of the organization
 .
-➡",0.4117647058823529
+➡",0.4117647058823529,0.34144416
 in pairs gathering Jutsu and things.,"術やら何やら集めてる＞
 
-",Good and good things Collected>,0.2
+",Good and good things Collected>,0.2,0.29323453
 "Is there proof that one of those
 things is the Nine Tailed Fox?","(ｶｶｼ)
 ＜その一つが
 九尾だという確証は？＞
 
 ","<One of them
-What is the confirmation that it is Nikke?>",0.3
+What is the confirmation that it is Nikke?>",0.3,0.20217746
 It's possible.,"(
 自来也
 )
@@ -960,7 +960,7 @@ It's possible.,"(
 
 ","<It is the story of possibility
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.25841373
 "Because it's one of the spirits
 who possess the strongest Chakra...","ありゃ
  
@@ -970,16 +970,16 @@ who possess the strongest Chakra...","ありゃ
 ","There
  
 Have the strongest chakra
-Because it is one of the magic>",0.4117647058823529
+Because it is one of the magic>",0.4117647058823529,0.7536843
 "Sooner or later, that Naruto will have
 to live watching his back...","背中に気を付けて
 生きていかなきゃならなくなる＞
 
 ","Be careful with your back
-I have to live>",0.2
+I have to live>",0.2,0.31964144
 That's his destiny.,"＜そういう運命だ＞
 
-",<That fate>,0.125
+",<That fate>,0.125,0.35099164
 "For now, you should keep
 your eyes on Sasuke.","(
 自来也
@@ -996,7 +996,7 @@ your eyes on Sasuke.","(
 nowadays
 Look at Sasuke
 .
-➡",0.1875
+➡",0.1875,0.78367126
 "It's necessary for you to teach him
 how to use his Sharingan.","写輪眼の使い方を
 教える必要もあるだろう
@@ -1006,7 +1006,7 @@ how to use his Sharingan.","写輪眼の使い方を
 ","How to use the mochi eyes
 There will be necessary to teach
 .
-➡",0.3
+➡",0.3,0.3681856
 I'll take care of Naruto for a while.,"ナルトは
  
 しばらくの間
@@ -1015,7 +1015,7 @@ I'll take care of Naruto for a while.,"ナルトは
 ","Naruto
  
 For a while
-I will grow>",0.38461538461538464
+I will grow>",0.38461538461538464,0.685734
 "The Nine Tailed Fox inside Naruto
 is your target?","狙いは
  
@@ -1023,7 +1023,7 @@ is your target?","狙いは
 
 ","Aim is
  
-Is it Naruto?",0.25
+Is it Naruto?",0.25,0.6016901
 "I know that you two aren't
 the only ones on the move...","お前らだけじゃないのは
 知っている
@@ -1033,7 +1033,7 @@ the only ones on the move...","お前らだけじゃないのは
 ","It is not only you guys
 know
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.36939082
 "The name of your organization is
 Akatsuki, right?","組織名は
  
@@ -1041,13 +1041,13 @@ Akatsuki, right?","組織名は
 
 ","The organization name
  
-Was it?",0.3333333333333333
+Was it?",0.3333333333333333,0.5799374
 Akatsuki?,"(ｱｽﾏ･
 紅
 )
 えっ？
 
-",eh?,0.3333333333333333
+",eh?,0.3333333333333333,0.24696496
 "Kisame! We'll take Kakashi.
 Erase the other two.","(ｲﾀﾁ)
 鬼鮫
@@ -1060,23 +1060,23 @@ Erase the other two.","(ｲﾀﾁ)
  
 Mr. Kakashi
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.53537565
 Severe Leaf Hurricanes!,"(
 ガイ
 )
 木ノ葉剛力旋風！
 
-",Kuno Leaf Rigid Route!,0.2857142857142857
+",Kuno Leaf Rigid Route!,0.2857142857142857,0.41800576
 Who are you?,"何者です？
 
-",Who is it?,0.3333333333333333
+",Who is it?,0.3333333333333333,0.62458366
 Mighty Guy!,"マイト
 ･
 ガイ！
 
 ","Might
 ·
-Guy!",0.4
+Guy!",0.4,0.44205582
 "What a sight...
 Shouldn't you be called a strange beast?","何て格好だ
  
@@ -1084,13 +1084,13 @@ Shouldn't you be called a strange beast?","何て格好だ
 
 ","What is it?
  
-Is it a mistake in a rare animal?",0.16666666666666666
+Is it a mistake in a rare animal?",0.16666666666666666,0.3746274
 Don't underestimate that man...,"(ｲﾀﾁ)
 あの人を甘く見るな
 ｡
 
 ","Don't look sweet
-.",0.2222222222222222
+.",0.2222222222222222,0.21979024
 "Don't look at Itachi's eyes, Guy!
 You'll be caught up in his Jutsu!","イタチと目を合わせるな
  
@@ -1102,7 +1102,7 @@ You'll be caught up in his Jutsu!","イタチと目を合わせるな
  
 Guy
 It will be subject to
-.",0.25
+.",0.25,0.46671176
 "In order to fight Kakashi,
 I devised ways to battle the Sharingan.","写輪眼に対する
 戦い方も考慮してる
@@ -1110,14 +1110,14 @@ I devised ways to battle the Sharingan.","写輪眼に対する
 
 ","For mossing eyes
 Consider how to fight
-.",0.16666666666666666
+.",0.16666666666666666,0.26638472
 "Open your eyes, both of you!","２人とも
  
 目を開けろ！
 
 ","Both of them
  
-Open your eyes!",0.6666666666666666
+Open your eyes!",0.6666666666666666,0.6543462
 B-But...,"(
 ガイ
 )
@@ -1127,7 +1127,7 @@ B-But...,"(
 
 ","""also
  
-Itachi ... """,0.2
+Itachi ... """,0.2,0.2227578
 "When you battle with the Sharingan,","で…
  
 でも…
@@ -1142,7 +1142,7 @@ Itachi ... """,0.2
 but…
 .
 
-When fighting with the moss eye",0.23076923076923078
+When fighting with the moss eye",0.2307692307692308,0.3279751
 "it's not a problem if
 you don't look at those eyes!","目と目を合わせなければ
 問題ない
@@ -1152,7 +1152,7 @@ you don't look at those eyes!","目と目を合わせなければ
 ","If you do not match eyes
 no problem
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.62642354
 by looking constantly at his feet.,"常に
  
 相手の足だけを見て
@@ -1163,7 +1163,7 @@ by looking constantly at his feet.,"常に
  
 Look at only the other party's feet
 I insight and deal with the movement
-.",0.15
+.",0.15,0.4630555
 "Now that you mention it,
 you're probably right, but...","確かに
  
@@ -1175,14 +1175,14 @@ you're probably right, but...","確かに
  
 If you say
 It may be so ...
-.",0.16666666666666666
+.",0.16666666666666666,0.4002293
 You're the only one who can do that.,"そんなことができんのは
 お前だけだぞ
 ｡
 
 ","I can do that
 You only
-.",0.5454545454545454
+.",0.5454545454545454,0.62939763
 "But I can't teach it to you
 in this emergency.","コツがいる
  
@@ -1200,7 +1200,7 @@ But
 In this emergency
 I can not say that
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.5029785
 Just get used to it right now!,"ともかく
  
 今すぐ慣れろ
@@ -1209,7 +1209,7 @@ Just get used to it right now!,"ともかく
 ","anyway
  
 Get used to it right now
-.",0.6
+.",0.6,0.7845378
 "Kurenai, get Kakashi to the medical team.","(ｱｽﾏ)
 どうする？
 (
@@ -1221,7 +1221,7 @@ Get used to it right now
 ","what will you do?
 
 Red is a kakashi to a medical group
-.",0.2222222222222222
+.",0.2222222222222222,0.66178805
 "And until the reinforcements of
 Anbu Black Ops I arranged for arrive,","あとは
  
@@ -1231,7 +1231,7 @@ Anbu Black Ops I arranged for arrive,","あとは
 ","later
  
 I arranged
-Until the dark part reinforcement unit comes",0.21052631578947367
+Until the dark part reinforcement unit comes",0.21052631578947367,0.481272
 I will hang out with you guys.,"少しの間
  
 相手をしてやる
@@ -1240,14 +1240,14 @@ I will hang out with you guys.,"少しの間
 ","For a short time
  
 I will do my opponent
-.",0.2
+.",0.2,0.20478077
 We didn't come to have a war.,"俺たちは
 戦争をしに来たんじゃない
 ｡
 
 ","We are
 I'm not coming to war
-.",0.2857142857142857
+.",0.2857142857142857,0.650568
 "It's too bad,
 but no more of this nonsense.","残念だが
  
@@ -1259,20 +1259,20 @@ but no more of this nonsense.","残念だが
  
 More
 Nonsense
-.",0.23076923076923078
+.",0.2307692307692308,0.55286926
 We're leaving.,"よし
 ｡
 
 ","Good
-.",0.2
+.",0.2,0.36658832
 It can't be helped.,"しかたないですね
 ｡
 
 ","It's not
-.",0.25
+.",0.25,0.29145968
 All right!,"よ～し！
 
-",Yo!,0.25
+",Yo!,0.25,0.34363142
 Y-You're putting too much spirit into it.,"(
 自来也
 )
@@ -1282,12 +1282,12 @@ Y-You're putting too much spirit into it.,"(
 
 ","It's too hot
 you
-.",0.25
+.",0.25,0.3697559
 <i>a role in the shadows</i>,"山に籠もって
 修業するんじゃないんだぞ？
 
 ","Mountain in the mountains
-I'm not studying?",0.2
+I'm not studying?",0.2,0.07555259
 "<i>Over and over,</i>
 <i>we've stood in the shadows of others</i>","♬
  
@@ -1295,7 +1295,7 @@ I'm not studying?",0.2
 
 ","♬
  
-It is a side of the side",0.1
+It is a side of the side",0.1,0.25221452
 "<i>Now, it's our turn...</i>
 <i>Let us bask in our dreams</i>","♬
  
@@ -1305,7 +1305,7 @@ It is a side of the side",0.1
 ","♬
  
 Many times until now
-I wonder if it has come up",0.12
+I wonder if it has come up",0.12,0.20848708
 "There's a super beautiful
 young lady over there!","♬
  
@@ -1313,7 +1313,7 @@ young lady over there!","♬
 
 ","♬
  
-I'm a person",0.07692307692307693
+I'm a person",0.07692307692307693,0.16760635
 "Look, Naruto!
 She must be interested in us!","♬
  
@@ -1323,14 +1323,14 @@ She must be interested in us!","♬
 ","♬
  
 Let me be in the middle
-Let me be honest",0.125
+Let me be honest",0.125,0.174625
 You always do that to me!,"♬
  
 わがままでいさせて
 
 ","♬
  
-Let me be selfish",0.09090909090909091
+Let me be selfish",0.09090909090909093,0.29194698
 "What are we gonna do
 about my training?!","♬
  
@@ -1338,4 +1338,4 @@ about my training?!","♬
 
 ","♬
  
-My dream",0.07692307692307693
+My dream",0.07692307692307693,0.21818198

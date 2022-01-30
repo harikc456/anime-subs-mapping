@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.69996905
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.62335306
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852413
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.75999033
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372733
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -52,7 +52,7 @@ Someday with your own arms",0.058823529411764705
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.4552255
 Dang it!,"(ﾅﾙﾄ)
 ダァ～！
  
@@ -60,13 +60,13 @@ Dang it!,"(ﾅﾙﾄ)
 
 ","Da ~!
  
-Wow!",0.16666666666666666
+Wow!",0.16666666666666666,0.4109919
 <i>I'll have to...</i>,"(ｻｸﾗ)
 うっ…
 ｡
 
 ","Uey ...
-.",0.1
+.",0.1,0.28264803
 "I'll have to save...
 everyone for sure!","絶対
  
@@ -76,10 +76,10 @@ everyone for sure!","絶対
 ","absolutely
  
 Everyone
-I hope you will help!",0.2
+I hope you will help!",0.2,0.4312501
 So you'll fight for the sake of others?!,"他人のために戦うのか？
 
-",Do you fight for others?,0.4166666666666667
+",Do you fight for others?,0.4166666666666667,0.7693951
 "That's why you guys are
 only at that level!","(
 我愛羅
@@ -96,14 +96,14 @@ You guys
  
 That's right
 .
-➡",0.38461538461538464
+➡",0.38461538461538464,0.5401238
 You don't need a reason to fight!,"戦うのに理由なんていらない
 ｡
 ➡
 
 ","I do not need to fight
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.7307147
 "Only the one who remains undefeated
 can actually feel his own existence!","勝ち残った者だけが
 自分の存在を実感できる
@@ -113,7 +113,7 @@ can actually feel his own existence!","勝ち残った者だけが
 ","Only those who won
 I can feel my own existence
 .
-➡",0.3157894736842105
+➡",0.3157894736842105,0.55431014
 "Come on, forget about
 your insignificant friends","さぁ
  
@@ -123,26 +123,26 @@ your insignificant friends","さぁ
 ","In
  
 Hopefully
-Forget the stupid friends etc",0.15384615384615385
+Forget the stupid friends etc",0.15384615384615385,0.5628652
 "and fight only for the sake
 of your own existence!","お前の存在のためにだけ戦え
 ｡
 
 ","Take the fight only for your existence
-.",0.46153846153846156
+.",0.4615384615384616,0.80495477
 Insignificant...,"くだらない…➡
 
-",Squid ... ➡,0.25
+",Squid ... ➡,0.25,0.2011942
 friends?,"えっ？
 
-",eh?,0.3333333333333333
+",eh?,0.3333333333333333,0.31995535
 I'm sick of listening to you talk!,"絶対
  
 ぶっ飛ばしてやる！
 
 ","absolutely
  
-I'm sorry!",0.2727272727272727
+I'm sorry!",0.2727272727272727,0.26992792
 You guys misunderstand real strength!,"(
 我愛羅
 )
@@ -156,10 +156,10 @@ You guys misunderstand real strength!,"(
  
 You guys
 I'm wrong with the real strength
-.",0.3076923076923077
+.",0.3076923076923077,0.7532425
 Shut up!,"うるせぇ！
 
-",shut up!,1.0
+",shut up!,1.0,1.0000001
 W-Why...? Why is it?!,"(
 我愛羅
 )
@@ -169,10 +169,10 @@ W-Why...? Why is it?!,"(
 
 ","why…
  
-What is it?➡",0.3
+What is it?➡",0.3,0.45108142
 Why...?,"どうして？
 
-",Why?,0.6666666666666666
+",Why?,0.6666666666666666,0.6694513
 <i>Love is...</i>,"(
 夜叉丸
 )
@@ -182,21 +182,21 @@ Why...?,"どうして？
 
 ","<Love
  
-I am familiar with my own",0.25
+I am familiar with my own",0.25,0.5209508
 <i>Just like my older sister did.</i>,"姉さんのようにね＞
 
-",Like my sister>,0.4
+",Like my sister>,0.4,0.6399892
 "Always...
 only Yashamaru would always...","夜叉丸…だけは…
 ｡
 
 ","Yashamaru ... only ...
-.",0.5
+.",0.5,0.8609558
 It was an order.,"命令です
 ｡
 
 ","It is an instruction
-.",0.42857142857142855
+.",0.42857142857142855,0.4067418
 I was commissioned to kill you...,"(
 夜叉丸
 )
@@ -206,13 +206,13 @@ I was commissioned to kill you...,"(
 
 ","Kill you
 I was asked
-.",0.4444444444444444
+.",0.4444444444444444,0.60258085
 By your father...,"(
 夜叉丸
 )
 あなたの父親➡
 
-",Your father ➡,0.4
+",Your father ➡,0.4,0.47551394
 My father...?,"(
 我愛羅
 )
@@ -222,7 +222,7 @@ My father...?,"(
 
 ","Father ...
  
-Uh!",0.3333333333333333
+Uh!",0.3333333333333333,0.4991132
 Why did my father...?,"父様が
  
 何で…
@@ -233,7 +233,7 @@ Why did my father...?,"父様が
  
 why…
  
-Why?",0.42857142857142855
+Why?",0.42857142857142855,0.649132
 "have been watched over
 as an experiment.","実験体として
 今まで見守られていたのです
@@ -241,7 +241,7 @@ as an experiment.","実験体として
 
 ","As an experiment
 I was watching it so far
-.",0.2857142857142857
+.",0.2857142857142857,0.7394258
 "the Sand Spirit which possesses
 the power of the sand.","(
 夜叉丸
@@ -254,7 +254,7 @@ the power of the sand.","(
 ","However
 Lively spirit
  
-The power of Morinaki",0.36363636363636365
+The power of Morinaki",0.3636363636363637,0.44162196
 "Eventually your existence would
 become too dangerous for the village.","危険すぎる存在となる
 ｡
@@ -262,17 +262,17 @@ become too dangerous for the village.","危険すぎる存在となる
 
 ","It will be too dangerous
 .
-➡",0.2
+➡",0.2,0.4109811
 Before that occurred...,"そうなる前に…
 ｡
 
 ","Before that ...
-.",0.6
+.",0.6,0.83153147
 but to comply with my father's order...?,"父様の命令で…
 ｡
 
 ","In the father's instruction ...
-.",0.21428571428571427
+.",0.21428571428571427,0.43102598
 "But if I had wanted to turn it down,
 I could have turned it down.","しかし
  
@@ -284,7 +284,7 @@ I could have turned it down.","しかし
  
 If you want to refuse
 It should have been refused
-.",0.23809523809523808
+.",0.2380952380952381,0.4752484
 hated you.,"生まれ落ちた
  
 あなたをね
@@ -295,7 +295,7 @@ hated you.,"生まれ落ちた
  
 You
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.23280959
 "You, whose birth took the life
 of my beloved older sister.","(
 夜叉丸
@@ -308,12 +308,12 @@ of my beloved older sister.","(
 ","surely
 The life of the wind shadow received
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.2367121
 However... I was not able to.,"恨んでいた
 ｡
 
 ","I was jealous
-.",0.3333333333333333
+.",0.3333333333333333,0.2881367
 My sister didn't choose to have you.,"姉は
  
 あなたを産むことを
@@ -326,11 +326,11 @@ My sister didn't choose to have you.,"姉は
 To give birth to you
 I did not want
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6135754
 "My sister became a sacrifice
 for the village,","姉は里の犠牲になり➡
 
-",My sister is sacrificed by the village,0.3333333333333333
+",My sister is sacrificed by the village,0.3333333333333333,0.91953844
 "and she died while
 cursing this village!","この里を呪いながら死んだ
 ｡
@@ -338,7 +338,7 @@ cursing this village!","この里を呪いながら死んだ
 
 ","I died while cursing this village
 .
-➡",0.45454545454545453
+➡",0.4545454545454545,0.7769525
 "From that time, I probably...","その時から私は
  
 一生
@@ -349,22 +349,22 @@ cursing this village!","この里を呪いながら死んだ
  
 lifetime
  
-I can not cure",0.36363636363636365
+I can not cure",0.3636363636363637,0.2781804
 "have been burdened with a wound
 of the heart that could never heal.","心の傷を負っていたのでしょう
 ｡
 
 ","Did you have a scratch of hearts
-.",0.2222222222222222
+.",0.2222222222222222,0.47213647
 "<i>Unlike a wound on the body,</i>
 <i>there is no ointment and sometimes,</i>","＜体の傷と違って
 塗り薬もなければ➡
 
 ","<Unlike the wound of the body
-If there is no filling drug",0.38095238095238093
+If there is no filling drug",0.3809523809523809,0.6787917
 <i>A wound of the heart?</i>,"＜心の傷？＞
 
-",<Heart scratch?>,0.36363636363636365
+",<Heart scratch?>,0.3636363636363637,0.5901734
 "Your name...
 is the name my sister gave you.","あなたの名は
 姉さんが付けた名です
@@ -372,7 +372,7 @@ is the name my sister gave you.","あなたの名は
 
 ","Your name
 It is the name of my sister attached
-.",0.5384615384615384
+.",0.5384615384615384,0.8080495
 """This child's name is Gaara...","(
 夜叉丸
 )
@@ -382,14 +382,14 @@ It is the name of my sister attached
 
 ","The name of this child is usa
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.4793462
 """Love only yourself...","自分だけを愛しなさい
 ｡
 ➡
 
 ","Love yourself
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.5212302
 """And fight only for
 your own sake.","そして
  
@@ -403,13 +403,13 @@ your own sake.","そして
 For yourself
 Fit
 .
-➡",0.25
+➡",0.25,0.19517612
 """If you do that,
 you will continue to exist.""","そうすれば
 あなたは存在し続ける➡
 
 ","that way
-You keep existing ➡",0.125
+You keep existing ➡",0.125,0.2785909
 However...,"しかし
  
 姉さんは
@@ -418,7 +418,7 @@ However...,"しかし
 ","However
  
 Her sister
-Presidential",0.2
+Presidential",0.2,0.27469957
 my sister did not give you this name,"愛して
  
 この名前を
@@ -431,7 +431,7 @@ my sister did not give you this name,"愛して
 This name
 I'm not attached
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.44940937
 "The reason she gave you this name,
 a name so you would continue to exist...","あなたが存在し続けるようにと
 その名を付けたのは…
@@ -439,7 +439,7 @@ a name so you would continue to exist...","あなたが存在し続けるよう�
 
 ","As you continue to exist
 It is ...
-.",0.2631578947368421
+.",0.2631578947368421,0.31838188
 "...was so that the deep seated hatred
 of my sister","…という願いを込めて
 ｡
@@ -447,14 +447,14 @@ of my sister","…という願いを込めて
 
 ","With the wish of ...
 .
-➡",0.2
+➡",0.2,0.24090654
 "who died hating and cursing
 this village...","(
 夜叉丸
 )
 この里を恨んで➡
 
-",Just habit this village,0.2
+",Just habit this village,0.2,0.48523122
 would remain...,"存在させ
  
 残し…
@@ -463,46 +463,46 @@ would remain...,"存在させ
 ","Existence
  
 Leave ...
-.",0.16666666666666666
+.",0.16666666666666666,0.47605646
 You were never... loved!,"(
 夜叉丸
 )
 あなたは愛されてなど➡
 
-","You are loved, etc.",0.2
+","You are loved, etc.",0.2,0.42469034
 This is the last...,"最期です
 ｡
 
 ","The end
-.",0.14285714285714285
+.",0.14285714285714285,0.3782149
 Please die...,"死んでください
 ｡
 
 ","Please die
-.",0.5
+.",0.5,0.822012
 "<i>I believe that my sister loved you, Gaara.</i>","＜姉さんは我愛羅様を
 愛していたのだと思います＞
 
 ","<My sister is Ira-sama
-I think she loved>",0.375
+I think she loved>",0.375,0.5977217
 <i>Love?</i>,"＜愛情？＞
 
-",<Love?>,0.6666666666666666
+",<Love?>,0.6666666666666666,0.86056125
 "<i>The sand automatically trying to</i>
 <i>protect you is like the love of a mother.</i>","＜砂が自動的に
 我愛羅様を守ろうとするのは➡
 
 ","<Sand automatically
-I'm trying to protect Gora",0.3684210526315789
+I'm trying to protect Gora",0.3684210526315789,0.6154764
 "<i>I believe that sand is filled</i>
 <i>with your mother's will.</i>","母親の意志が
 込められているんだと思います＞
 
 ","Mother's will
-I think it is included>",0.2777777777777778
+I think it is included>",0.2777777777777778,0.37288857
 <i>Love.</i>,"＜愛情です＞
 
-",<Loving>,0.3333333333333333
+",<Loving>,0.3333333333333333,0.7673992
 <i>Love only yourself.</i>,"(
 夜叉丸
 )
@@ -512,12 +512,12 @@ I think it is included>",0.2777777777777778
 
 ","<Love yourself
 .
-➡",0.2
+➡",0.2,0.76058084
 <i>And fight only for your own sake.</i>,"そして
 自分だけのために戦いなさい＞
 
 ","and
-Fight for yourself>",0.3333333333333333
+Fight for yourself>",0.3333333333333333,0.7381158
 "So that is Gaara...
 That is me.","(
 我愛羅
@@ -532,15 +532,15 @@ That is me.","(
  
 Me
 .
-➡",0.4
+➡",0.4,0.6659837
 I finally understand.,"ようやく分かった
 ｡
 
 ","I finally understood
-.",0.6
+.",0.6,0.90546423
 I am alone!,"僕は一人》
 
-",I am alone,0.75
+",I am alone,0.75,0.9043415
 "What's the matter?
 Hurry up and come at me!","(
 我愛羅
@@ -551,10 +551,10 @@ Hurry up and come at me!","(
 
 ","What happened?
  
-come quickly!➡",0.26666666666666666
+come quickly!➡",0.26666666666666666,0.4217711
 Sakura!,"くっそ～！
 
-",Clues ~!,0.25
+",Clues ~!,0.25,0.34335387
 <i>Naruto's not his usual self...</i>,"(
 我愛羅
 )
@@ -570,35 +570,35 @@ Sakura!,"くっそ～！
 That's it
  
 I
-It is only one person",0.10526315789473684
+It is only one person",0.10526315789473684,0.19395685
 <i>Did something happen between them?</i>,"あいつとの間で
 何かあったのか？》
 
 ","Between that
-Did something happen?""",0.4166666666666667
+Did something happen?""",0.4166666666666667,0.5757469
 <i>In any case...</i>,"《とにかく…➡
 
-","""Anyway ... ➡",0.09090909090909091
+","""Anyway ... ➡",0.09090909090909093,0.250884
 "<i>In any case,</i>
 <i>I need to save Sakura!</i>","とにかく
 サクラちゃんを助けなきゃ！➡
 
 ","Anyways
-I have to help Sakura!➡",0.23529411764705882
+I have to help Sakura!➡",0.2352941176470588,0.7312612
 <i>But... what to do?!</i>,"でも
  
 どうする？➡
 
 ","but
  
-what will you do?➡",0.2857142857142857
+what will you do?➡",0.2857142857142857,0.52205485
 <i>That's it!</i>,"あっ
  
 そうだってばよ！➡
 
 ","Ah
  
-That's right!➡",0.2727272727272727
+That's right!➡",0.2727272727272727,0.36493543
 "<i>Since it's come to this...</i>
 <i>Though it's gonna use up a lot of Chakra...</i>","こうなったら
  
@@ -608,14 +608,14 @@ That's right!➡",0.2727272727272727
 ","When it comes to this
  
 Chakra
-It's pretty good ...",0.25
+It's pretty good ...",0.25,0.7895426
 "If you don't, I won't play with you!","用があるなら
  
 おやつくれ～や！
 
 ","If you have
  
-Good morning ~!",0.21428571428571427
+Good morning ~!",0.21428571428571427,0.28741825
 <i>Darn! Why is it...?</i>,"《くそ～！
  
 何でだ？
@@ -628,7 +628,7 @@ Good morning ~!",0.21428571428571427
 What is it?
 I studied myself
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.18956621
 "<i>I practiced for so long, but with this,</i>
 <i>there's no other way...</i>","これじゃ
  
@@ -640,14 +640,14 @@ I studied myself
  
 Other hands ...
 .
-➡",0.13043478260869565
+➡",0.13043478260869565,0.3471413
 I need to save everyone!,"俺が
  
 みんなを助けなきゃ！》
 
 ","I
  
-I have to help everyone!""",0.4444444444444444
+I have to help everyone!""",0.4444444444444444,0.5955729
 Everyone... you say?,"(
 我愛羅
 )
@@ -655,14 +655,14 @@ Everyone... you say?,"(
 みんなをだと？
 
 ","Fuchfufu ...
-What is everyone?",0.375
+What is everyone?",0.375,0.38397452
 Don't make me laugh.,"笑わせるな
 俺は自分のためだけに戦う
 ｡
 
 ","Do not make me laugh
 I fight only for myself
-.",0.4166666666666667
+.",0.4166666666666667,0.4924932
 "If you don't take me down,
 the sand over this girl won't fall away!","(
 我愛羅
@@ -673,27 +673,27 @@ the sand over this girl won't fall away!","(
 
 ","If you do not defeat me
 I can not solve the sand of this woman
-.",0.28
+.",0.28,0.6217676
 <i>Sakura!</i>,"う～！
 
-",!,0.16666666666666666
+",!,0.16666666666666666,0.21836875
 "<i>That Jutsu hasn't been activated yet,</i>","まだ
  
 あの術は発動してないが➡
 
 ","not yet
  
-That technologies are not activated but",0.1875
+That technologies are not activated but",0.1875,0.31275082
 "<i>but at this rate, I'll also be...!</i>","このままじゃ
  
 あたしまで…》
 
 ","Let's leave this
  
-Up to me ...",0.1
+Up to me ...",0.1,0.2389633
 Sand Shuriken!,"あっ！
 
-",Ah!,0.25
+",Ah!,0.25,0.2260847
 You're... really weak!,"お前
  
 弱ぇな
@@ -702,7 +702,7 @@ You're... really weak!,"お前
 ","you
  
 Weak
-.",0.2857142857142857
+.",0.2857142857142857,0.7374187
 But what is that guy?,"うるせぇ！
 しかし
  
@@ -717,7 +717,7 @@ However
 Who is it?
  
 That is
-.",0.23076923076923078
+.",0.2307692307692308,0.5243745
 "Do you still not understand, Orochimaru?","(
 猿飛
 )
@@ -727,7 +727,7 @@ That is
 
 ","Do you still know?
  
-Great snake circle!",0.3076923076923077
+Great snake circle!",0.3076923076923077,0.22605416
 "I told you I am the pillar
 of that house!","わしは
  
@@ -737,7 +737,7 @@ of that house!","わしは
 ","Wow
  
 With the pillar of the house
-I would like to say!",0.375
+I would like to say!",0.375,0.7766896
 "That's why I'm saying
 I will break that pillar!","(
 大蛇丸
@@ -748,7 +748,7 @@ I will break that pillar!","(
 
 ","that's why
  
-I",0.4
+I",0.4,0.13987567
 As long as the people of the village,"(
 猿飛
 )
@@ -762,19 +762,19 @@ As long as the people of the village,"(
  
 Woman's house
 .
-➡",0.25
+➡",0.25,0.35855144
 "fiercely fight to protect
 their dear comrades,","必死で大切な仲間を守ろうとして
 戦っておるかぎり➡
 
 ","I'm desperately trying to protect important friends
-As far as fighting",0.11764705882352941
+As far as fighting",0.1176470588235294,0.61171675
 "the pillar of the Leaf Village will not
 be broken by the likes of you!","木ノ葉の柱は
 貴様ごときには折れん！
 
 ","The pillar of the wooden leaf is
-Visually breaks up!",0.2777777777777778
+Visually breaks up!",0.2777777777777778,0.6472456
 Do not underestimate the Hokage!,"(
 猿飛
 )
@@ -784,7 +784,7 @@ Do not underestimate the Hokage!,"(
 
 ","Hung
  
-Don't look like fire shadow!",0.16666666666666666
+Don't look like fire shadow!",0.16666666666666666,0.1305822
 "Where is...?
 Most of your Chakra should be gone!","もうチャクラは
 ほとんどないはず
@@ -792,14 +792,14 @@ Most of your Chakra should be gone!","もうチャクラは
 
 ","Chakra is already
 There should be little
-.",0.25
+.",0.25,0.7364259
 "Chakra and Ninjutsu are
 not all there is to strength!","チャクラや忍術だけが➡
 
-",Chakra and Ninjutsu,0.2727272727272727
+",Chakra and Ninjutsu,0.2727272727272727,0.783089
 <i>Such lonely eyes...</i>,"とても孤独な目》
 
-","Very lonely eyes """,0.2
+","Very lonely eyes """,0.2,0.75126255
 "<i>This guy is also turning into a monster...</i>
 <i>the same as me.</i>","《こいつも
  
@@ -811,13 +811,13 @@ not all there is to strength!","チャクラや忍術だけが➡
  
 To the monster ...
 .
-➡",0.23809523809523808
+➡",0.2380952380952381,0.6637358
 "<i>you're the Nine Tailed Fox who killed</i>
 <i>Iruka's parents and ruined the village!</i>","イルカの両親を殺し
 里を壊滅させた➡
 
 ","Kill dolphin parents
-I destroyed a village ➡",0.125
+I destroyed a village ➡",0.125,0.44631872
 "<i>You've been deceived by everyone</i>
 <i>in the village all along!</i>","お前は里のみんなに
 ずっと
@@ -827,7 +827,7 @@ I destroyed a village ➡",0.125
 ","You are all the villas
 all the time
  
-It was fooled>",0.18181818181818182
+It was fooled>",0.18181818181818185,0.5028743
 <i>I...</i>,"(ﾐｽﾞｷ)
 ＜つまり
  
@@ -835,7 +835,7 @@ It was fooled>",0.18181818181818182
 
 ","<Ie
  
-You are ➡",0.1111111111111111
+You are ➡",0.1111111111111111,0.51180243
 "<i>everyone in the village seemed</i>
 <i>even more cold hearted...</i>","里のヤツらは
 もっと冷たく見えた
@@ -845,19 +845,19 @@ You are ➡",0.1111111111111111
 ","The guys of the village are
 I saw more cold
 .
-➡",0.25
+➡",0.25,0.73065066
 <i>I was so deeply troubled...</i>,"何で存在してんのか
 分かんなかった》
 
 ","What exists
-I was not understandable",0.15384615384615385
+I was not understandable",0.15384615384615385,0.26871333
 "Naruto! Let's go have
 ramen for a change!","(ｲﾙｶ)
 ＜ナルト！
 久しぶりにラーメン行くか？＞
 
 ","<Naruto!
-Do you go to ramen after a long time?>",0.2631578947368421
+Do you go to ramen after a long time?>",0.2631578947368421,0.7765483
 "Yay! I will, I will!","＜イエ～イ！
  
 俺さ
@@ -868,12 +868,12 @@ Do you go to ramen after a long time?>",0.2631578947368421
  
 I am
  
-I!➡",0.2
+I!➡",0.2,0.46254987
 Shut up! I won't lose to you!,"＜うるせぇってばよ！
 お前には負けねえぞ＞
 
 ","<I'm sorry!
-You can lose in you>",0.26666666666666666
+You can lose in you>",0.26666666666666666,0.59586954
 "Hey Naruto!
 What did Sasuke say about me?","＜ねぇ
  
@@ -891,7 +891,7 @@ Naruto
 Sasuke
 Has
  
-What did you say?>",0.4
+What did you say?>",0.4,0.8123036
 "By the way! By the way!
 Wouldn't you rather know how I feel...?","＜あのさ
  
@@ -909,7 +909,7 @@ Ah!
 Same
  
 I
-I want to know what I think ... ➡",0.17391304347826086
+I want to know what I think ... ➡",0.17391304347826084,0.19085519
 "Um... Naruto, you'll really die if you eat
 only noodles and sweet red bean porridge.","お前
  
@@ -923,7 +923,7 @@ only noodles and sweet red bean porridge.","お前
 Ramen and soup flicker
 I will die
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.44549358
 "You're a Ninja,
 so eat more vegetables!","忍者たる者
  
@@ -931,7 +931,7 @@ so eat more vegetables!","忍者たる者
 
 ","Ninja
  
-Eat more vegetables!➡",0.45454545454545453
+Eat more vegetables!➡",0.4545454545454545,0.91749895
 "Here, have some!","あっ
  
 あっ！
@@ -940,7 +940,7 @@ Eat more vegetables!➡",0.45454545454545453
 ","Ah
  
 Ah!
-Sakura-chan➡",0.14285714285714285
+Sakura-chan➡",0.14285714285714285,0.11975234
 "<i>People appeared</i>
 <i>who acknowledged me...</i>","＜別に
  
@@ -950,7 +950,7 @@ Sakura-chan➡",0.14285714285714285
 ","<Alternative
  
 Nothing>
-<Ha ...>",0.23076923076923078
+<Ha ...>",0.2307692307692308,0.13282453
 "<i>That's why I became all right,</i>","だから
  
 俺は
@@ -959,7 +959,7 @@ Nothing>
 ","that's why
  
 I am
-It seems that the mushrooms will be in the body ➡",0.19047619047619047
+It seems that the mushrooms will be in the body ➡",0.19047619047619047,0.097666584
 "<i>or even if the people of the village</i>
 <i>looked at me with cold eyes.</i>","里のヤツらに
  
@@ -973,7 +973,7 @@ It seems that the mushrooms will be in the body ➡",0.19047619047619047
 With a cold eye
 It was seen to be seen
 .
-➡",0.18518518518518517
+➡",0.1851851851851852,0.66169137
 <i>How really...really...</i>,"＜え～
  
 俺ってば
@@ -986,7 +986,7 @@ It was seen to be seen
 In case
 vegetable
  
-Favorite Hey>",0.15384615384615385
+Favorite Hey>",0.15384615384615385,0.269805
 "<i>That's why it scares me</i>
 <i>to think about the past...</i>","だから昔のことを考えると
 ぞっとする
@@ -996,21 +996,21 @@ Favorite Hey>",0.15384615384615385
 ","So when I think about the old days
 Indistinct
 .
-➡",0.17391304347826086
+➡",0.17391304347826084,0.3643077
 <i>That suffering is agonizing...</i>,"あの苦しみは半端じゃない
 ｡
 ➡
 
 ","That suffering is not half
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.6104738
 <i>It's a pitch black hell!</i>,"真っ暗な地獄だ
 ｡
 ➡
 
 ","It is a dark hell
 .
-➡",0.2
+➡",0.2,0.6435089
 "<i>Lf...I had remained that way, all alone...</i>","もし
  
 あのまま
@@ -1019,12 +1019,12 @@ Indistinct
 ","if
  
 Inhal
-If it was alone ...",0.11764705882352941
+If it was alone ...",0.1176470588235294,0.21064329
 <i>That's precisely why I understand!</i>,"《だからこそ
 分かったんだってばよ》
 
 ","""That's why
-I understand that """,0.45454545454545453
+I understand that """,0.4545454545454545,0.3454622
 "<i>So what did I have in this life,</i>
 <i>why did I keep living?</i>","(
 我愛羅
@@ -1037,7 +1037,7 @@ I understand that """,0.45454545454545453
 ","<In
  
 I am for what
-Are you living and live?➡",0.2608695652173913
+Are you living and live?➡",0.2608695652173913,0.5785721
 <i>This is the answer I came to...</i>,"俺は
  
 こう結論した
@@ -1048,7 +1048,7 @@ Are you living and live?➡",0.2608695652173913
  
 This conclusion
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.28832316
 "<i>I am living in order to kill</i>
 <i>human beings other than myself.</i>","俺は
  
@@ -1058,10 +1058,10 @@ This conclusion
 ","I am
  
 Presence other than me
-To kill everything",0.3333333333333333
+To kill everything",0.3333333333333333,0.6163105
 "<i>I don't know what happened, but...</i>","《何があったかは知んねえけど➡
 
-","""I'm not sure what happened",0.1875
+","""I'm not sure what happened",0.1875,0.49226955
 "<i>This guy's always been</i>
 <i>suffering all alone...</i>","こいつは
  
@@ -1071,7 +1071,7 @@ To kill everything",0.3333333333333333
 ","This guy
  
 I have been alone
-Continue to suffer",0.29411764705882354
+Continue to suffer",0.29411764705882354,0.6960862
 <i>Only able to believe in himself...</i>,"いまだに
  
 自分だけしか
@@ -1080,7 +1080,7 @@ Continue to suffer",0.29411764705882354
 ","Still
  
 Only yourself
-I can not believe",0.2
+I can not believe",0.2,0.54901075
 "<i>Even now, he's battling in hell...</i>","地獄で
  
 今も戦ってる
@@ -1091,10 +1091,10 @@ I can not believe",0.2
  
 I'm fighting now
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.62029606
 <i>That's how it is...</i>,"存在している＞
 
-",It exists>,0.18181818181818182
+",It exists>,0.18181818181818185,0.24121155
 "<i>might seem like a weakling in</i>
 <i>a world of happiness without tension...</i>","緊張のない幸せな世界にいる
 弱虫みたいなもんかもしんねえ
@@ -1104,13 +1104,13 @@ I'm fighting now
 ","I am in a happy world without tension
 Momon Mons like Yowa
 .
-➡",0.30434782608695654
+➡",0.3043478260869565,0.46733412
 "<i>Can I really win against</i>
 <i>a guy like this?</i>","こんなヤツに
 ホントに勝てんのか？》
 
 ","In such a guy
-Are you really won?""",0.21052631578947367
+Are you really won?""",0.21052631578947367,0.5987149
 "To fight for the sake of oneself?
 To fight for the sake of others?","自分のために戦うか
 他人のために戦うか
@@ -1120,11 +1120,11 @@ To fight for the sake of others?","自分のために戦うか
 ","Do you fight for yourself
 Do you fight for others?
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.67858654
 "You should just love yourself,
 and fight for yourself!","自分だけを愛してやればいい！➡
 
-",You should love only yourself!➡,0.4166666666666667
+",You should love only yourself!➡,0.4166666666666667,0.64412796
 "That is the definition of
 the strongest one!","それが
  
@@ -1138,7 +1138,7 @@ the strongest one!","それが
 Ichiban's stronger
 It is definition
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.4921598
 "What happened to
 the boldness you had earlier?!","さぁ
  
@@ -1148,7 +1148,7 @@ the boldness you had earlier?!","さぁ
 ","In
  
 Fight with me
-What happened to the majesty?➡",0.3125
+What happened to the majesty?➡",0.3125,0.32630208
 "Now what's the matter?!
 If you don't fight me, I'll kill that girl!","さぁ
  
@@ -1158,16 +1158,16 @@ If you don't fight me, I'll kill that girl!","さぁ
 ","In
  
 What happened?
-If you don't do it",0.2727272727272727
+If you don't do it",0.2727272727272727,0.23296829
 Wind Style!,"くっ！
 
-",Come!,0.25
+",Come!,0.25,0.2693377
 "<i>This isn't good...</i>
 <i>He really got me.</i>","この女を殺すぞ
 ｡
 
 ","I will kill this woman
-.",0.11764705882352941
+.",0.1176470588235294,0.16283995
 "First, I'll toy with you
 without killing you!","まずは死なない程度に
 遊んでやる
@@ -1177,7 +1177,7 @@ without killing you!","まずは死なない程度に
 ","First of all, to some extent
 Play
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.30516827
 "I look forward to seeing
 when and how you give up","お前が
  
@@ -1195,17 +1195,17 @@ Always
 Give up my friends
 I'm looking forward to running away
 .
-➡",0.3
+➡",0.3,0.49765006
 Naruto...,"《ヤベェ
  
 マジ効いた…》
 
 ","""Yabe
  
-Seriously ... """,0.2
+Seriously ... """,0.2,0.21927759
 D-Dang it!,"うわっ！
 
-",Wow!,0.25
+",Wow!,0.25,0.28184554
 "<i>What is this?!</i>
 <i>This feeling that's overcoming me?</i>","《何なんだ？
  
@@ -1213,10 +1213,10 @@ D-Dang it!,"うわっ！
 
 ","""what's that?
  
-This feeling",0.4
+This feeling",0.4,0.47380254
 <i>Naruto...!</i>,"《ナルト！》
 
-","""Naruto!""",0.2222222222222222
+","""Naruto!""",0.2222222222222222,0.7811009
 "<i>For some reason...</i>
 <i>I don't want to lose to this guy...</i>","《何でか
  
@@ -1224,10 +1224,10 @@ This feeling",0.4
 
 ","""What
  
-Only this guy ... """,0.16666666666666666
+Only this guy ... """,0.16666666666666666,0.3078774
 You...,"貴様！
 
-",you!,0.3333333333333333
+",you!,0.3333333333333333,0.6355374
 "<i>Yes, breathe in the air</i>
 <i>Lift your face to the sky and jump</i>","(
 我愛羅
@@ -1248,13 +1248,13 @@ In the hope of chasing
  
 That Sama
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.19938637
 "<i>If it rains, take a break</i>
 <i>Go where the wind takes you</i>","俺に触れることすら
 できないとは➡
 
 ","Even if I touch me
-If you can not do it ➡",0.16666666666666666
+If you can not do it ➡",0.16666666666666666,0.28592944
 "<i>So many regrets</i>
 <i>Don't let this scar be for naught</i>","♬
  
@@ -1262,7 +1262,7 @@ If you can not do it ➡",0.16666666666666666
 
 ","♬
  
-Don't waste this scratch",0.16666666666666666
+Don't waste this scratch",0.16666666666666666,0.35812044
 "<i>Transform sadness into the wind</i>
 <i>and continue to forge on</i>","♬
  
@@ -1272,10 +1272,10 @@ Don't waste this scratch",0.16666666666666666
 ","♬
  
 Then the destination
-Near the wind blows",0.10526315789473684
+Near the wind blows",0.10526315789473684,0.4277361
 Hear! Hear! Hear! Hear!,"オ～ラッ！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.17355755
 "If you're far away,
 listen well.","(
 我愛羅
@@ -1284,7 +1284,7 @@ listen well.","(
 ｡
 
 ","Hook
-.",0.1
+.",0.1,0.16535947
 "I turn the biggest pinch
 into opportunity","♬
  
@@ -1292,16 +1292,16 @@ into opportunity","♬
 
 ","♬
  
-Sadness also turns into the wind",0.16666666666666666
+Sadness also turns into the wind",0.16666666666666666,0.164207
 "with Transform Jutsu, Summoning Jutsu,
 and Shadow Clone Jutsu.","(ﾊﾟｯｸﾝ)
 かん腸かい…
 ｡
 
 ","Chicken ...
-.",0.09090909090909091
+.",0.09090909090909093,0.074878484
 I'm the hyperactive knucklehead Ninja!,"食らえ！
 カカシ先生から教わった➡
 
 ","Eat!
-I was taught from Kakashi teacher ➡",0.14285714285714285
+I was taught from Kakashi teacher ➡",0.14285714285714285,0.35114622

@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.7113179
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.86280525
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207105
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.65410954
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.38045898
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851642
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.40009782
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.5800125
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.3699327
 "<i>I never thought he'd attempt to use</i>
 <i>the Fourth Hokage's Jutsu.</i>","(
 綱手
@@ -114,7 +114,7 @@ I'm sorry
 Surgery of the fourth generation
 I will try to use it
 .
-➡",0.19230769230769232
+➡",0.19230769230769232,0.38002664
 "<i>That Tsunade...</i>
 <i>Incredibly strong as always.</i>","あの術とは
  
@@ -122,14 +122,14 @@ I will try to use it
 
 ","With that operation
  
-Similar things ...",0.13333333333333333
+Similar things ...",0.13333333333333333,0.08548226
 "<i>I remember a long time ago,</i>","昔
  
 あいつに殴られて➡
 
 ","long ago
  
-He is beaten by",0.14285714285714285
+He is beaten by",0.14285714285714285,0.30445346
 "<i>At any rate, Naruto's hopeless.</i>","(
 自来也
 )
@@ -141,7 +141,7 @@ He is beaten by",0.14285714285714285
 ","""even if
 Naruto's guy
  
-No good""",0.1111111111111111
+No good""",0.1111111111111111,0.70665103
 Are you okay?,"(ｼｽﾞﾈ)
 大丈夫？
  
@@ -154,10 +154,10 @@ Are you okay?,"(ｼｽﾞﾈ)
 ","fine?
  
 you
-.",0.3333333333333333
+.",0.3333333333333333,0.5503311
 <i>Rasengan...?!</i>,"がっ！
 
-",!,0.125
+",!,0.125,0.23057084
 "Humph... You and the Fourth Hokage are
 the only ones who can use that Jutsu.","(
 綱手
@@ -178,7 +178,7 @@ In the fourth generation
  
 It is about you
 .
-➡",0.18518518518518517
+➡",0.1851851851851852,0.25502533
 "That's why the moony kid starts joking
 about becoming a Hokage!","その気にさせんのは
  
@@ -186,7 +186,7 @@ about becoming a Hokage!","その気にさせんのは
 
 ","That's why
  
-Good!",0.2857142857142857
+Good!",0.2857142857142857,0.23577845
 "If I have three days,
 I'll master this Jutsu!","３日もありゃ
  
@@ -196,7 +196,7 @@ I'll master this Jutsu!","３日もありゃ
 ","3 days
  
 Such technical
-Master!",0.21428571428571427
+Master!",0.21428571428571427,0.54275507
 "You said it, kid.","フッ
  
 言ったね
@@ -209,7 +209,7 @@ Master!",0.21428571428571427
 I said
  
 Gook
-.",0.2222222222222222
+.",0.2222222222222222,0.29524356
 Hah! I stand by my words.,"フン
  
 まっすぐ
@@ -220,10 +220,10 @@ Hah! I stand by my words.,"フン
  
 Straight
 My words are bent
-.",0.25
+.",0.25,0.38199517
 That's my Ninja Way.,"それが俺の忍道だ！
 
-",That's my noblis!,0.375
+",That's my noblis!,0.375,0.33887884
 A wager...?,"(
 綱手
 )
@@ -237,12 +237,12 @@ A wager...?,"(
  
 Bet
 .
-Bet?",0.14285714285714285
+Bet?",0.14285714285714285,0.47036585
 I'll give you one week.,"１週間やる
 ｡
 
 ","Week for a week
-.",0.2222222222222222
+.",0.2222222222222222,0.5216774
 "If you can master that Jutsu,","もし
  
 お前が
@@ -251,7 +251,7 @@ I'll give you one week.,"１週間やる
 ","if
  
 you
-If you master the art",0.3333333333333333
+If you master the art",0.3333333333333333,0.47033438
 and give you this necklace.,"この首飾りを
  
 お前にやろう
@@ -260,14 +260,14 @@ and give you this necklace.,"この首飾りを
 ","This necklace
  
 Let's do it
-.",0.3
+.",0.3,0.73480916
 I don't need such a sorry necklace!,"そんなショボい首飾りなんか
 いらねえよ
 ｡
 
 ","Such a shocked neck
 I'm sorry
-.",0.3076923076923077
+.",0.3076923076923077,0.38544878
 "Don't say such things, Naruto...","(
 自来也
 )
@@ -279,7 +279,7 @@ I'm sorry
 ","Not say so
  
 Naruto
-.",0.18181818181818182
+.",0.18181818181818185,0.90384877
 "And you could buy three mountains
 if you were to sell it.","売れば山３つは買える
 ｡
@@ -287,15 +287,15 @@ if you were to sell it.","売れば山３つは買える
 
 ","You can buy three mountains
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.8623324
 It belonged to the First Hokage.,"初代火影が持ってた代物だぞ
 ｡
 
 ","It is a substitute that the first fire shadow has
-.",0.2857142857142857
+.",0.2857142857142857,0.22004414
 Good...,"《すっげぇ…》
 
-","""Sun ...""",0.2
+","""Sun ...""",0.2,0.16612823
 "However, you lose if you can't master
 the Jutsu in one week!","よし！
  
@@ -309,7 +309,7 @@ the Jutsu in one week!","よし！
 However
  
 In one week
-If you can not master the art",0.5
+If you can not master the art",0.5,0.46051398
 "And you'll give me all the money
 you have on you.","お前の負け
 有り金は
@@ -321,7 +321,7 @@ you have on you.","お前の負け
 There is a good money
  
 I'll get everything
-.",0.15
+.",0.15,0.47012943
 When did she...?!,"あっ！
  
 ガマちゃん!?
@@ -332,7 +332,7 @@ When did she...?!,"あっ！
  
 Gama!?
 Always ...
-.",0.3
+.",0.3,0.17454599
 That necklace is...,"綱手様
  
 どうしてです？
@@ -343,7 +343,7 @@ That necklace is...,"綱手様
  
 Why?
 The neck is ...
-.",0.2
+.",0.2,0.33818293
 "He won't be able to do it, anyway...","フン
  
 どうせ
@@ -358,7 +358,7 @@ Anyway
  
 I can not do it
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.29230857
 "Let's go, Shizune.","行くよ
  
 シズネ
@@ -367,7 +367,7 @@ I can not do it
 ","go
  
 Shizune
-.",0.5
+.",0.5,0.83302426
 "<i>She never once used</i>
 <i>that necklace for a bet...</i>","(ｼｽﾞﾈ)
 《今まで一度も
@@ -378,7 +378,7 @@ Shizune
 ","""Even now
  
 That neck
-Even though I had never bet ...",0.25
+Even though I had never bet ...",0.25,0.4932806
 <i>You don't have to answer right now.</i>,"(ｶﾌﾞﾄ)
 ＜お答えは
 今すぐでなくとも結構です
@@ -388,14 +388,14 @@ Even though I had never bet ...",0.25
 ","<Answer
 Not right now
 .
-➡",0.1875
+➡",0.1875,0.62914896
 "<i>However, I want it in a week.</i>","ただし
  
 １週間後にはもらいたい＞
 
 ","However
  
-I want to get one week later>",0.25
+I want to get one week later>",0.25,0.62833667
 Huh? Who is it this late at night?,"こんな夜中に
  
 誰だってばよ
@@ -405,7 +405,7 @@ Huh? Who is it this late at night?,"こんな夜中に
 ","In such a night
  
 Who is it?
-.",0.38461538461538464
+.",0.38461538461538464,0.73419
 "I'm sorry. But I didn't want you
 to misunderstand Lady Tsunade...","でも
  
@@ -417,7 +417,7 @@ to misunderstand Lady Tsunade...","でも
  
 That's about Tsuggu-sama
 I do not want to misunderstand ...
-.",0.35
+.",0.35,0.47552988
 As well as the necklace...,"それに
  
 首飾りのことも…
@@ -426,7 +426,7 @@ As well as the necklace...,"それに
 ","in addition
  
 The neck is also ...
-.",0.18181818181818182
+.",0.18181818181818185,0.45541778
 "Lady Tsunade is not the type
 of person you think she is!","(ｼｽﾞﾈ)
 綱手様は
@@ -437,7 +437,7 @@ of person you think she is!","(ｼｽﾞﾈ)
 ","The torture
  
 you
-It is not a person who thinks!➡",0.3333333333333333
+It is not a person who thinks!➡",0.3333333333333333,0.29096806
 "Don't speak of her like that
 when you don't even know her!","何も知らないで
  
@@ -447,7 +447,7 @@ when you don't even know her!","何も知らないで
 ","Don't know anything
  
 Such a thing
-Please do not say!",0.21052631578947367
+Please do not say!",0.21052631578947367,0.2032497
 I-I'm sorry... for raising my voice.,"あしたっから修業なの
 ｡
 ごめんなさい
@@ -456,7 +456,7 @@ I-I'm sorry... for raising my voice.,"あしたっから修業なの
 ","I'm studying
 .
 sorry
-.",0.2727272727272727
+.",0.2727272727272727,0.25069398
 "She was a kind person
 who loved the village.","心の優しい
 里を愛する人だった
@@ -466,10 +466,10 @@ who loved the village.","心の優しい
 ","Friendly
 It was a person who loved the village
 .
-➡",0.6153846153846154
+➡",0.6153846153846154,0.7324548
 That day?,"あの日？
 
-",That day?,1.0
+",That day?,1.0,1.0000001
 What's that day?,"何だよ？
  
 あの日って
@@ -478,13 +478,13 @@ What's that day?,"何だよ？
 ","What?
  
 That day
-.",0.6666666666666666
+.",0.6666666666666666,0.6442319
 "The day she lost her dreams,
 her love, her hopes... Everything.","すべてを失った日です
 ｡
 
 ","It is the day when everything lost
-.",0.3333333333333333
+.",0.3333333333333333,0.6184536
 It's as precious as life to Lady Tsunade.,"でも…
  
 変わってしまった
@@ -493,7 +493,7 @@ It's as precious as life to Lady Tsunade.,"でも…
 ","but…
  
 It has changed
-.",0.16666666666666666
+.",0.16666666666666666,0.12782969
 "It's really not something
 to be offered in a bet.","到底
  
@@ -505,7 +505,7 @@ to be offered in a bet.","到底
  
 Such a bet
 It is not a product
-.",0.3125
+.",0.3125,0.42257455
 "Besides... that necklace is really
 not something for you to wear.","あれは
  
@@ -517,22 +517,22 @@ not something for you to wear.","あれは
  
 For tugs
 Life is important
-.",0.25
+.",0.25,0.229635
 It's not just a necklace!,"ただの首飾りではありません！
 
-",It is not just a neck!,0.5555555555555556
+",It is not just a neck!,0.5555555555555556,0.5730707
 "It doesn't acknowledge anyone
 other than Lady Tsunade.","向こうが勝手に賭けたんだろ
 ｡
 
 ","The other side was betrayed
-.",0.14285714285714285
+.",0.14285714285714285,0.13129114
 "If someone else wears it,
 that person inevitably...","あの首飾りを
 ほかの人間がすれば➡
 
 ","That neck
-If there are other people",0.13333333333333333
+If there are other people",0.13333333333333333,0.42322952
 "Nawaki, happy twelfth birthday!","＜縄樹
  12
 歳の誕生日
@@ -541,13 +541,13 @@ If there are other people",0.13333333333333333
 ","<Roma
  12
 Old birthday
-congratulation!>",0.16666666666666666
+congratulation!>",0.16666666666666666,0.5250689
 "I'm not a kid anymore,
 so I don't need gifts on my birthday!","誕生日にプレゼントなんか
 いらねえよ＞
 
 ","Some give a gift on my birthday
-Noh yeah>",0.18181818181818182
+Noh yeah>",0.18181818181818185,0.626025
 "What're you saying?
 You're still a kid, aren't you?!","(
 縄樹
@@ -556,7 +556,7 @@ You're still a kid, aren't you?!","(
 もうガキじゃねえんだから➡
 
 ","<Did?
-Because it is no longer a girl",0.1
+Because it is no longer a girl",0.1,0.25141835
 "But never mind that.
 Hurry up and open your present!","それより
 早くプレゼント開けてみな
@@ -566,7 +566,7 @@ Hurry up and open your present!","それより
 ","Same
 Do not open a present quickly
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.661841
 "Big Sister, could this be?","＜姉ちゃん
 これって
  
@@ -575,7 +575,7 @@ Do not open a present quickly
 ","<My sister
 is this
  
-Maybe ...>",0.15384615384615385
+Maybe ...>",0.15384615384615385,0.6613552
 "I love you, Big Sister!","火影の首飾り＞
 (
 縄樹
@@ -588,7 +588,7 @@ Maybe ...>",0.15384615384615385
 
 <I love you
  
-My sister!>",0.38461538461538464
+My sister!>",0.38461538461538464,0.47491267
 I thought it'd be better than me having it.,"＜あたしが持ってるよりは
 いいと思って
 ｡
@@ -597,7 +597,7 @@ I thought it'd be better than me having it.,"＜あたしが持ってるより�
 ","<Rather than I have
 I think it's good
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.42438266
 "You've been wanting it all along, right?
 Take good care of it.","縄樹
  
@@ -611,14 +611,14 @@ Take good care of it.","縄樹
 Did you always want?
 That
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.20011558
 Not just this necklace!,"＜この首飾りだけじゃねえよ
 ｡
 ➡
 
 ","<Just this necklace
 .
-➡",0.375
+➡",0.375,0.8139568
 "This village is grandfather's treasure!
 I'm going to protect it!","この里は
  
@@ -626,10 +626,10 @@ I'm going to protect it!","この里は
 
 ","This village
  
-It is a treasure of a grandfather!➡",0.4375
+It is a treasure of a grandfather!➡",0.4375,0.86703783
 Nawaki...,"＜縄樹…＞
 
-",<Romain ...>,0.2
+",<Romain ...>,0.2,0.2536419
 "I'm the grandson of the Hokage who
 built the Village Hidden in Leaves, so...!","(
 縄樹
@@ -638,10 +638,10 @@ built the Village Hidden in Leaves, so...!","(
 初代火影の孫だからよ＞
 
 ","<I made a hidden wooden leaf
-Because it is the grandson of the first fire shadow>",0.17857142857142858
+Because it is the grandson of the first fire shadow>",0.17857142857142858,0.580993
 Becoming the Hokage is my dream!,"火影は俺の夢だから！＞
 
-",Because the fire candy is my dream!>,0.45454545454545453
+",Because the fire candy is my dream!>,0.4545454545454545,0.3090959
 "It's a charm to make
 your dream come true.","(
 綱手
@@ -650,19 +650,19 @@ your dream come true.","(
 おまじない＞
 
 ","<A dream come true
-Oghafi>",0.2857142857142857
+Oghafi>",0.2857142857142857,0.4458972
 "It's best if you don't look
 at the remains.","＜お前は
 なきがらを見ないほうがいい＞
 
 ","<Your
-It is better not to look at",0.16666666666666666
+It is better not to look at",0.16666666666666666,0.4657803
 "she wouldn't be able to determine
 that it's her little brother.","弟だと判別できや
 しないんだから＞
 
 ","It can be determined that it is a brother
-Because I do not know>",0.16666666666666666
+Because I do not know>",0.16666666666666666,0.6649134
 "Enough, Orochimaru!","＜イヒヒ！＞
 (
 綱手
@@ -671,7 +671,7 @@ Because I do not know>",0.16666666666666666
 
 ","<Ihich!>
 
-<Ihich!>",0.14285714285714285
+<Ihich!>",0.14285714285714285,0.24183878
 "There are no doctors on
 the battlefield, so...","戦場では医者なんて
 いないんだからね
@@ -681,7 +681,7 @@ the battlefield, so...","戦場では医者なんて
 ","Doctors on the battlefield
 It's not
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.7833803
 "However, children really get
 much too excited, don't they?","しかし
  
@@ -695,7 +695,7 @@ much too excited, don't they?","しかし
 Children are
 It is too shady
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.4301823
 "Especially on the day after
 they receive a present.","特に
  
@@ -705,13 +705,13 @@ they receive a present.","特に
 ","In particular
  
 I got a present
-What is the next day?",0.2222222222222222
+What is the next day?",0.2222222222222222,0.41831303
 <i>Not just this necklace...</i>,"(
 縄樹
 )
 ＜この首飾りだけじゃねえよ＞
 
-",<Just this necklace>,0.5555555555555556
+",<Just this necklace>,0.5555555555555556,0.8793455
 "<i>This village is grandfather's treasure!</i>
 <i>I'm going to protect it!</i>","(
 縄樹
@@ -720,13 +720,13 @@ What is the next day?",0.2222222222222222
 じいちゃんの宝物だ！➡
 
 ","<This village is
-It is a treasure of a grandfather!➡",0.42105263157894735
+It is a treasure of a grandfather!➡",0.42105263157894735,0.86269844
 "for a long period of time
 in enemy territory,","敵地で長期単独行動をしなければ
 ならない任務において➡
 
 ","If you do not act for a long time in the enemy location
-In the task that does not",0.3
+In the task that does not",0.3,0.5626402
 "by deploying one of the four
 to be a medical specialist,","そのうちの一人に
 医療
@@ -736,7 +736,7 @@ to be a medical specialist,","そのうちの一人に
 ","One of them
 medical care
 Specialist
-By deploying",0.42857142857142855
+By deploying",0.42857142857142855,0.7544587
 "the survival rate as well as
 the mission success rate","小隊の生存率
  
@@ -744,20 +744,20 @@ the mission success rate","小隊の生存率
 
 ","Possible survival rate
  
-Mission success rate is ➡",0.4
+Mission success rate is ➡",0.4,0.9127468
 should go up significantly.,"大幅にアップするはずです
 ｡
 ➡
 
 ","It should be greatly improved
 .
-➡",0.2
+➡",0.2,0.40402362
 "and the development of
 a medical institution","医療機関の開発
 その体制を確立することこそ➡
 
 ","Development of medical institution
-Will be establishing that system",0.3333333333333333
+Will be establishing that system",0.3333333333333333,0.80254006
 "Yes indeed, it's as you say.","(
 猿飛
 )
@@ -769,34 +769,34 @@ Will be establishing that system",0.3333333333333333
 ","<Um
  
 surely
-As you say,",0.3333333333333333
+As you say,",0.3333333333333333,0.47512442
 But we're in the middle of a war now.,"今は戦争中だ
 ｡
 ➡
 
 ","Now it is in war
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.5758872
 "It takes too much time to
 establish a medical framework.","医療体制を確立するには
 時間がかかり過ぎるうえ➡
 
 ","To establish a medical system
-It takes too much time",0.75
+It takes too much time",0.75,0.7811611
 Enemies don't wait.,"敵は
  
 そう待ってはくれんからな＞
 
 ","Enemies
  
-Wait so, from me>",0.2
+Wait so, from me>",0.2,0.8305774
 Then we'll never...,"それじゃあ
  
 いつまでたっても…＞
 
 ","Well then
  
-How long ...>",0.2222222222222222
+How long ...>",0.2222222222222222,0.4111729
 I agree with her.,"(
 ダン
 )
@@ -806,7 +806,7 @@ I agree with her.,"(
 
 ","<I also agree with her opinion
 .
-➡",0.5555555555555556
+➡",0.5555555555555556,0.6687567
 "I don't want the lives of the Shinobi
 who died to be for naught.","今まで犠牲になった忍たちの命を
 ムダにしたくありません
@@ -816,7 +816,7 @@ who died to be for naught.","今まで犠牲になった忍たちの命を
 ","Nobe's life that was sacrificed so far
 I do not want to be a mud
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.39931324
 "There should be something
 we can learn from that.","そこから
  
@@ -824,14 +824,14 @@ we can learn from that.","そこから
 
 ","From there
  
-You should learn something>",0.4166666666666667
+You should learn something>",0.4166666666666667,0.56348825
 What you said was right.,"＜君の言ったことは正しいよ
 ｡
 ➡
 
 ","<It is correct what you said
 .
-➡",0.36363636363636365
+➡",0.3636363636363637,0.52267396
 Umm...,"(
 綱手
 )
@@ -841,14 +841,14 @@ Umm...,"(
 
 ","<Oh ...
  
-that!➡",0.14285714285714285
+that!➡",0.14285714285714285,0.26883277
 The other way.,"あの…
 ｡
 ➡
 
 ","that…
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.15086493
 "I don't mind.
 I also want to talk with you.","少し君と話もしたいし
 ｡
@@ -856,7 +856,7 @@ I also want to talk with you.","少し君と話もしたいし
 
 ","I want to talk a little with you
 .
-➡",0.5
+➡",0.5,0.64414364
 "And I would always use this path
 to the Academy to pick up my little sister.","それに
  
@@ -870,7 +870,7 @@ to the Academy to pick up my little sister.","それに
 This way
  
 everytime
-Go to the academy to pick up her sister",0.3181818181818182
+Go to the academy to pick up her sister",0.3181818181818182,0.7981751
 "Yeah. In the battle when the Leaf
 was attacked at night one year ago,","１年前
  
@@ -880,7 +880,7 @@ was attacked at night one year ago,","１年前
 ","One year ago
  
 When the tree is received at night
-In the war ...>",0.38095238095238093
+In the war ...>",0.3809523809523809,0.61277246
 <i>This man...is the same as me.</i>,"(
 綱手
 )
@@ -890,7 +890,7 @@ In the war ...>",0.38095238095238093
 
 ","""This person too
  
-Same as ... """,0.26666666666666666
+Same as ... """,0.26666666666666666,0.41518733
 "<i>Tomorrow's mission will be</i>
 <i>within enemy lines...</i>","(
 綱手
@@ -899,7 +899,7 @@ Same as ... """,0.26666666666666666
 敵戦線での任務になるわ＞
 
 ","<し
-It will be a mission on the enemy battle line>",0.3
+It will be a mission on the enemy battle line>",0.3,0.6786668
 "I'm living in a world of Shinobi
 where death always hovers.","(
 ダン
@@ -908,7 +908,7 @@ where death always hovers.","(
 忍の世界に生きてるからこそ➡
 
 ","<Death of death
-Because I live in Shinobu's world",0.2777777777777778
+Because I live in Shinobu's world",0.2777777777777778,0.72526205
 "I want to risk my life to bring
 this war torn world under control.","命を懸けたい
 ｡
@@ -916,29 +916,29 @@ this war torn world under control.","命を懸けたい
 
 ","I want to spend my life
 .
-➡",0.375
+➡",0.375,0.4013846
 "Since my little sister died,
 that sole thought has sustained me.","妹が死んだ時から
 その思いだけが➡
 
 ","From when my sister died
-That thought only",0.3125
+That thought only",0.3125,0.7024867
 An existence that protects everyone...,"みんなを守る存在
 ｡
 ➡
 
 ","Protecting everyone
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.61178803
 Becoming the Hokage is my dream.,"火影は俺の夢だから＞
 
-",Because the fire shadow is my dream>,0.36363636363636365
+",Because the fire shadow is my dream>,0.3636363636363637,0.27381328
 Dan...,"(
 綱手
 )
 ＜ダン…＞
 
-",<Dan ...>,0.5
+",<Dan ...>,0.5,0.7524638
 I'd like you... to take this.,"(
 綱手
 )
@@ -950,7 +950,7 @@ I'd like you... to take this.,"(
 ","<For you
  
 this
-I want you to receive>",0.2857142857142857
+I want you to receive>",0.2857142857142857,0.4383671
 Tsunade... I don't want... to die yet.,"(
 ダン
 )
@@ -962,7 +962,7 @@ Tsunade... I don't want... to die yet.,"(
 ","<Tanke ...
  
 I'm still
-I do not want die!➡",0.29411764705882354
+I do not want die!➡",0.29411764705882354,0.49175954
 I have many things that I must... do.,"や…
  
 やらなきゃならないことが
@@ -975,14 +975,14 @@ I have many things that I must... do.,"や…
 I have to do it
 Mountain lot ...
  
->",0.26666666666666666
+>",0.26666666666666666,0.40373975
 "Don't talk, Dan!","＜しゃべるな
  
 ダン！＞
 
 ","<Don't talk
  
-group!>",0.4444444444444444
+group!>",0.4444444444444444,0.5067004
 It'll be okay. I stopped the bleeding.,"＜大丈夫だよ
  
 血は止めたから
@@ -993,14 +993,14 @@ It'll be okay. I stopped the bleeding.,"＜大丈夫だよ
  
 Because blood stopped
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.57536864
 Dan! Hang on!,"＜ダン！
  
 しっかりしろ！➡
 
 ","<Dan!
  
-come on!➡",0.42857142857142855
+come on!➡",0.42857142857142855,0.70257115
 Dang it! Don't come out...,"(
 綱手
 )
@@ -1010,7 +1010,7 @@ Dang it! Don't come out...,"(
 
 ","<Chiki Shishi!
  
-Don't come out!➡",0.4166666666666667
+Don't come out!➡",0.4166666666666667,0.5131338
 Stop! Stop! Stop! Stop! Stop!,"止まれ！
  
 止まれ！
@@ -1023,7 +1023,7 @@ Stop! Stop! Stop! Stop! Stop!,"止まれ！
 stop!
 stop!
  
-stop!➡",0.6666666666666666
+stop!➡",0.6666666666666666,0.93703336
 "You understand, don't you, Naruto...?","分かってくれますね？
 ナルト君
 ｡
@@ -1032,7 +1032,7 @@ stop!➡",0.6666666666666666
 ","You know, right?
 Naruto
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.82815295
 "Ever since that day,","綱手様は
  
 あの日から
@@ -1043,7 +1043,7 @@ Naruto
  
 From that day
  
-Several ... ➡",0.18181818181818182
+Several ... ➡",0.18181818181818185,0.2610055
 "Lady Tsunade has been...
 in a constant turmoil.","ずっと
  
@@ -1053,10 +1053,10 @@ in a constant turmoil.","ずっと
 ","all the time
  
 I am in confusion
-.",0.125
+.",0.125,0.10340622
 Naruto?,"ナルト君？
 
-","Naruto, right?",0.5
+","Naruto, right?",0.5,0.9466206
 "Oh, you are already at it, I see!","(
 自来也
 )
@@ -1074,7 +1074,7 @@ Naruto?,"ナルト君？
 I'm doing
 .
 
-I'm sorry!",0.13333333333333333
+I'm sorry!",0.13333333333333333,0.22833617
 You're cold. Don't say that.,"何しに来た？
 (
 自来也
@@ -1085,7 +1085,7 @@ You're cold. Don't say that.,"何しに来た？
 ","What did you come?
 
 Cold
-.",0.25
+.",0.25,0.50935847
 "It's been a while.
 I want to drink with her again.","久々に
  
@@ -1099,7 +1099,7 @@ I want to drink with her again.","久々に
 With this guy
 I want to drink
 .
-➡",0.2608695652173913
+➡",0.2608695652173913,0.5858883
 Your radish is ready.,"オヤジ
  
 酒
@@ -1128,7 +1128,7 @@ Japanese white radish
 .
 
 Wall
-.",0.15384615384615385
+.",0.15384615384615385,0.3097401
 Ooh. This looks good.,"(
 店員
 )
@@ -1156,7 +1156,7 @@ Hoping
 In case
  
 It looks good
-.",0.1875
+.",0.1875,0.16820194
 "At any rate, to think you'd still be taking
 good care of that necklace...","にしても
  
@@ -1168,7 +1168,7 @@ good care of that necklace...","にしても
  
 The necklace
 It is still important to be careful
-.",0.16
+.",0.16,0.802355
 "I thought you'd have lost it
 long since to gambling.","とっくにギャンブルで
 手放しているものと思ったが…
@@ -1176,15 +1176,15 @@ long since to gambling.","とっくにギャンブルで
 
 ","Gambling with gambling
 I thought I was trying to go back ...
-.",0.2777777777777778
+.",0.2777777777777778,0.6787492
 "It's a memento of those two, right?","あの２人の形見なんだろ？
 
-",You're the shape of that two people?,0.1875
+",You're the shape of that two people?,0.1875,0.35918292
 Naruto.,"ナルトだよ
 ｡
 
 ","It is Naruto
-.",0.5
+.",0.5,0.9077671
 "Still, it's immature,
 taking on that kid as an opponent...","(
 自来也
@@ -1197,12 +1197,12 @@ taking on that kid as an opponent...","(
 ","It is
 It is very popular with children's opponent
 .
-➡",0.15
+➡",0.15,0.50707287
 That's not what's called a bet.,"あんなの賭けとは言わんの
 ｡
 
 ","It is said that such a bet
-.",0.3333333333333333
+.",0.3333333333333333,0.71173114
 What's with the fit of despair?,"気になるか？
 (
 綱手
@@ -1211,7 +1211,7 @@ What's with the fit of despair?,"気になるか？
 
 ","Do you care?
 
-what?",0.18181818181818182
+what?",0.18181818181818185,0.10801938
 It's not a fit of despair!,"(
 綱手
 )
@@ -1225,7 +1225,7 @@ It's not a fit of despair!,"(
 nothing
  
 It is not done
-.",0.15384615384615385
+.",0.15384615384615385,0.013633503
 "Are you going to meet
 Orochimaru again?","何
  
@@ -1233,12 +1233,12 @@ Orochimaru again?","何
 
 ","what
  
-Do you have to do it?",0.25
+Do you have to do it?",0.25,0.11586835
 I can tell by looking at Shizune's face.,"シズネの顔を見れば分かる
 ｡
 
 ","You can see if you look at the face of Shizune
-.",0.3125
+.",0.3125,0.90971816
 "I don't know what kind of deal
 he proposed,","ヤツが
  
@@ -1248,14 +1248,14 @@ he proposed,","ヤツが
 ","Guy
  
 what kind
-Whether you have dealt with the deal",0.16666666666666666
+Whether you have dealt with the deal",0.16666666666666666,0.509447
 And... let me just tell you one thing.,"これだけは言っておく
 ｡
 ➡
 
 ","I just say this
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.3427074
 "They brought troubled times under control
 and helped the village to prosper.","乱世を治め
  
@@ -1265,7 +1265,7 @@ and helped the village to prosper.","乱世を治め
 ","Cure the rupier
  
 It is said to prosper
-Ideal ➡",0.15
+Ideal ➡",0.15,0.24419186
 "You're not someone who can't understand
 the feelings of the previous Hokages.","先代たちの気持ちが分からぬ
 お前じゃないだろう
@@ -1275,7 +1275,7 @@ the feelings of the previous Hokages.","先代たちの気持ちが分からぬ
 ","I do not understand the feeling of the progeny
 I will not you
 .
-➡",0.3
+➡",0.3,0.3770175
 "Just try doing something
 to betray the Leaf Village","もし
  
@@ -1287,7 +1287,7 @@ to betray the Leaf Village","もし
  
 The wooden no leaves
 Let's go to betray
-.",0.17647058823529413
+.",0.17647058823529413,0.6091613
 "When that happens, I'll kill you myself!","そのときは
  
 わしがお前を殺すぞ
@@ -1296,7 +1296,7 @@ Let's go to betray
 ","That time
  
 I will kill you
-.",0.3076923076923077
+.",0.3076923076923077,0.59425867
 It has nothing to do with me now!,"あたしには
  
 もう関係ないでしょ
@@ -1305,7 +1305,7 @@ It has nothing to do with me now!,"あたしには
 ","For me
  
 I have nothing to do
-.",0.3076923076923077
+.",0.3076923076923077,0.43474662
 "A person who has experienced
 the death of people close to them","(
 自来也
@@ -1314,12 +1314,12 @@ the death of people close to them","(
 何も感じないのは➡
 
 ","Know the death of familiar people
-I do not feel anything",0.21052631578947367
+I do not feel anything",0.21052631578947367,0.64396614
 "You're different, aren't you?","お前は違うだろ
 ｡
 
 ","You are different
-.",0.375
+.",0.375,0.616259
 "No one cared for the welfare
 of the villagers more than you.","お前ほど
  
@@ -1331,22 +1331,22 @@ of the villagers more than you.","お前ほど
  
 The body of the villains
 There was no guy who
-.",0.2777777777777778
+.",0.2777777777777778,0.18566471
 "At that time, too...","あの時だって…
 ｡
 
 ","That time ...
-.",0.42857142857142855
+.",0.42857142857142855,0.69762355
 That's enough with the lecture!,"それくらいで説教は
  
 やめろ！
 
 ","That's right and sermon
  
-Stop!",0.2727272727272727
+Stop!",0.2727272727272727,0.34972563
 Why... did you bring that kid?,"あんなガキを連れてきた？
 
-",Have you taken that oyster?,0.2727272727272727
+",Have you taken that oyster?,0.2727272727272727,0.2847528
 "His age is about the same, too...","似てるだろ？
  
 年の頃も同じだよ
@@ -1355,13 +1355,13 @@ Why... did you bring that kid?,"あんなガキを連れてきた？
 ","Is it similar?
  
 It is the same as the year
-.",0.2
+.",0.2,0.3207711
 <i>Becoming the Hokage is my dream!</i>,"(
 縄樹
 )
 ＜火影は俺の夢だから！＞
 
-",<Because the fire candy is my dream!>,0.5
+",<Because the fire candy is my dream!>,0.5,0.42988205
 Do you want to die?,"＜全く
  
 むちゃばかりして
@@ -1370,7 +1370,7 @@ Do you want to die?,"＜全く
 ","<At all
  
 Muddy
-Is it okay to die?➡",0.21428571428571427
+Is it okay to die?➡",0.21428571428571427,0.44235906
 "You're still a Genin,
 so on the battlefield just run away.","縄樹は
  
@@ -1380,12 +1380,12 @@ so on the battlefield just run away.","縄樹は
 ","Of the rope
  
 Because it is still Shimono
-He should escape on the battlefield>",0.16666666666666666
+He should escape on the battlefield>",0.16666666666666666,0.24419293
 "Don't tell a man to ""run away!""","＜男に向かって
 逃げろだなんて言うな！＞
 
 ","<Toward a man
-Don't say that you're running away!>",0.3157894736842105
+Don't say that you're running away!>",0.3157894736842105,0.705218
 "No good! Dang it! Dang it!
 Tomorrow, for sure!","ダメだ…
  
@@ -1397,7 +1397,7 @@ Tomorrow, for sure!","ダメだ…
  
 Fuck…
  
-Come!",0.3076923076923077
+Come!",0.3076923076923077,0.2713582
 My head hurts.,"(
 自来也のあくび
 )
@@ -1412,7 +1412,7 @@ My head hurts.,"(
 ","Head
  
 Hurt
-.",0.4
+.",0.4,0.84136146
 "I totally got sick from drinking,
 thanks to her...","あ～
  
@@ -1424,7 +1424,7 @@ thanks to her...","あ～
  
 Because of their
 I was completely sick
-.",0.10526315789473684
+.",0.10526315789473684,0.3998867
 <i>He's such a fool.</i>,"(
 自来也
 )
@@ -1434,7 +1434,7 @@ I was completely sick
 
 ","""I'm a fool
  
-He is",0.23076923076923078
+He is",0.2307692307692308,0.65797067
 "<i>I'll resurrect the little brother</i>
 <i>and man, both of whom you loved...</i>","＜お前の愛した弟と男を
 生き返らせてあげるわ
@@ -1444,7 +1444,7 @@ He is",0.23076923076923078
 ","<Your brother and man
 I will live back
 .
-➡",0.20833333333333334
+➡",0.20833333333333331,0.58718634
 "<i>Don't you want to see those two,</i>
 <i>Tsunade?</i>","２人に会いたくないの？
  
@@ -1452,7 +1452,7 @@ I will live back
 
 ","Do you not want to meet two people?
  
-Torsee>",0.3684210526315789
+Torsee>",0.3684210526315789,0.36104324
 <i>What do you intend to do with them?</i>,"(
 綱手
 )
@@ -1460,7 +1460,7 @@ Torsee>",0.3684210526315789
 お前は何をするつもりだ？＞
 
 ","<If you cure that arm
-What are you going to do?>",0.3888888888888889
+What are you going to do?>",0.3888888888888889,0.233685
 "<i>This time, I will completely</i>
 <i>destroy Leaf Village!</i>","(
 大蛇丸
@@ -1473,32 +1473,32 @@ What are you going to do?>",0.3888888888888889
 ","<This time
  
 perfectly
-Crush the wooden leaves>",0.2222222222222222
+Crush the wooden leaves>",0.2222222222222222,0.5925541
 <i>Their wishes...</i>,"２人の願いを…
  
 あなたの願いを➡
 
 ","Two wishes ...
  
-Your wish",0.2
+Your wish",0.2,0.51893765
 "<i>Moreover, Tsunade, your wishes...</i>
 <i>And dreams... Did you forget them?!</i>","夢を忘れたんですか!?＞
 
-",Did you forget your dream?>,0.3157894736842105
+",Did you forget your dream?>,0.3157894736842105,0.60440063
 <i>like the rainbow after the storm</i>,"♬
  
 明日へ向かう風を感じてた
 
 ","♬
  
-I felt the wind towards tomorrow",0.14285714285714285
+I felt the wind towards tomorrow",0.14285714285714285,0.4043785
 <i>You bring light into my heart</i>,"♬
  
 笑う君が
 
 ","♬
  
-Laughing you",0.08333333333333333
+Laughing you",0.08333333333333333,0.28202003
 "<i>Uh...like a shooting star,</i>
 <i>we do go ahead.</i>","♬
  
@@ -1506,7 +1506,7 @@ Laughing you",0.08333333333333333
 
 ","♬
  
-Dreams like meteor",0.05555555555555555
+Dreams like meteor",0.05555555555555555,0.37620026
 Darn it! What am I doing,"♬
  
 一番眩しく
@@ -1515,7 +1515,7 @@ Darn it! What am I doing,"♬
 ","♬
  
 Dazzling
-I see it",0.2
+I see it",0.2,0.25633246
 "Moreover, today is the day
 of the bet!","♬
  
@@ -1525,4 +1525,4 @@ of the bet!","♬
 ","♬
  
 After the rain
-Like rainbow",0.07142857142857142
+Like rainbow",0.07142857142857142,0.14094087

@@ -1,52 +1,52 @@
-en_text,jp_text,google_translated,score
-"Oh, really...",あ…そう｡,Oh so.,0.16666666666666666
-"Man, that really scared me.",《ふ～ なんだビビッたぜ》,"""Fu- what is Bibit""",0.0
-"Yes, I'll see you then.",ええ またね｡,Yeah again.,0.1
-I dropped my phone again.,ん～ また落としちゃった｡,I dropped again.,0.6666666666666666
-"These days, I keep dropping things...",最近よくモノを落とすなぁ｡,Recently I will drop things well.,0.15384615384615385
-Someone you know very well,ムッタのよく知る誰か…➡,Someone who knows Mutta well ... ➡,0.2
-will soon be stricken by serious illness.,誰かが近いうちに重い病気になる｡,Someone gets heavy in the near future.,0.06666666666666667
-"Starting tomorrow, you will have three days to learn what Air Force students do in three weeks.",３週間かけて習う内容を➡,The content to learn three weeks,0.2
-Oof...,よいしょっと｡,Good snack.,0.0
-So who gets what?,え～と どれが誰のだ？,Who is it?,0.2857142857142857
-That box contains the materials for one person.,その１箱で１人分です｡,It is one person in one box.,0.3333333333333333
-"Right, I knew that...",ですよねっ やはり！,That's right!,0.25
-Very painful.,キツイぜェ？,Kitsuisa?,0.0
-We have to learn all this in three days?,《この量を３日でか…》,"""This amount is 3 days ...""",0.125
-That's all.,《テ テストか…｡➡,"""Testing? ...",0.0
-"Oh, I forgot to introduce myself.",あっと 申し遅れました｡➡,Thank you very much.,0.08333333333333333
-I know you very well.,よく 存じ上げております｡,We are familiar with it.,0.09090909090909091
-We all think alike.,お互いやる事は同じですな｡,It is the same thing to do each other.,0.07142857142857142
-"I agree that, as a motive, it's selfish.",確かに とても個人的で➡,Certainly very personal ➡,0.0
-But it's also very beautiful.,とても素敵な理由です｡,Very nice reason.,0.2222222222222222
-was met with some resistance.,反対派も まだ いましたが…｡➡,The opponent was still ....,0.2
-How silly of me.,わあ～ やっちゃった｡,Wow ~ I did it.,0.1
-"Are you all right, ma'am?",大丈夫？お客さん｡,fine?customer.,0.1
-Sorry about that.,ごめんなさい｡,sorry.,0.5
-"Is something wrong, Dr. Sharon?",せ…先生 どうしたんですか？,Let's ... what happened to the teacher?,0.06666666666666667
-I only spilled some water.,水 こぼしただけよ｡,Just burn it.,0.1111111111111111
-I'm so excited.,なんか ワクワクするわね｡,I'm excited about something.,0.5714285714285714
-Aunt Sharon!,シャロンおばちゃん！,Sharon Aunt!,1.0
-Welcome to Houston.,ようこそ ヒューストンへ！,Welcome to Houston!,0.6
-We finally meet again!,やっと会えたわね｡,I finally met.,0.125
-You're supposed to die if you're hit with the light saber!,ﾗｲﾄｾｰﾊﾞｰ当たったら死ねよっ！,"If you hit the light saver, it will die!",0.4375
-Hurry up!,早く！,quickly!,0.25
-Find a table. are you sure about this?,大丈夫ですか 先生？,Are you okay?,0.2727272727272727
-"Are you okay, Aunt Sharon?",おばちゃん！大丈夫!?,Aunt!Fine!?,0.2222222222222222
-"Um, Sharon...",あの…先生➡,That ... teacher ➡,0.14285714285714285
-"Well, I think you should get a checkup.",いえ 体調を診てもらいに…｡,"No, I would like to see my physical condition ....",0.15789473684210525
-Nothing to worry about. see? i told you so.,ほら 言った通りでしょ｡,"As you said, they say.",0.125
-but Hibito requested...,日々人君 本人の希望もあり…｡,Everyday people are also the hope of the person ....,0.07692307692307693
-Japan's first moon-walker!,日本人初のムーンウォーカー！,Japanese first Moon Walker!,0.25
-Same here.,こちらこそ！,you're welcome!,0.0
-Dr. Sharon! and the other astronomers on her team!,天文チームの みなさ～ん！,Astronomical team everyone!,0.16666666666666666
-because of the excitement I felt in my youth.,ドキドキを信じたからです｡➡,I believe in pounding.,0.25
-They have udon.,へぇ～ うどん あんだってよ｡,Hey ~ Udon Anya.,0.2857142857142857
-Would you like to exchange e-mail addresses?,アドレス交換しない？,Do not exchange address?,0.18181818181818182
-"Really? Yes, please...",いいんですか!?ぜひ！,Is it okay?!,0.1
-It just slips out of my hand.,手から すっぽり抜けちゃって…｡,I'm sorry from my hand ....,0.23076923076923078
-Maybe with my right leg...,右…かな｡,Right ...,0.3333333333333333
-What? Is something wrong?,何？どしたの？,what?what happened?,0.3333333333333333
-It's twitching...,ピクピクしてる…｡,I'm picking up ....,0.1111111111111111
-You should see a neurologist.,今度は神経内科へ…｡,This time to neurology ....,0.09090909090909091
-What's going on?,《なんだよ…!?》,"""what is it…!?""",0.2
+en_text,jp_text,google_translated,score,semantic_score
+"Oh, really...",あ…そう｡,Oh so.,0.16666666666666666,0.48378652
+"Man, that really scared me.",《ふ～ なんだビビッたぜ》,"""Fu- what is Bibit""",0.0,0.04168051
+"Yes, I'll see you then.",ええ またね｡,Yeah again.,0.1,0.32046366
+I dropped my phone again.,ん～ また落としちゃった｡,I dropped again.,0.6666666666666666,0.78455603
+"These days, I keep dropping things...",最近よくモノを落とすなぁ｡,Recently I will drop things well.,0.15384615384615385,0.7620939
+Someone you know very well,ムッタのよく知る誰か…➡,Someone who knows Mutta well ... ➡,0.2,0.4490806
+will soon be stricken by serious illness.,誰かが近いうちに重い病気になる｡,Someone gets heavy in the near future.,0.06666666666666668,0.34955984
+"Starting tomorrow, you will have three days to learn what Air Force students do in three weeks.",３週間かけて習う内容を➡,The content to learn three weeks,0.2,0.5243387
+Oof...,よいしょっと｡,Good snack.,0.0,0.12975556
+So who gets what?,え～と どれが誰のだ？,Who is it?,0.2857142857142857,0.13981321
+That box contains the materials for one person.,その１箱で１人分です｡,It is one person in one box.,0.3333333333333333,0.763015
+"Right, I knew that...",ですよねっ やはり！,That's right!,0.25,0.2864163
+Very painful.,キツイぜェ？,Kitsuisa?,0.0,0.16044384
+We have to learn all this in three days?,《この量を３日でか…》,"""This amount is 3 days ...""",0.125,0.50695777
+That's all.,《テ テストか…｡➡,"""Testing? ...",0.0,0.081474334
+"Oh, I forgot to introduce myself.",あっと 申し遅れました｡➡,Thank you very much.,0.08333333333333333,0.1233764
+I know you very well.,よく 存じ上げております｡,We are familiar with it.,0.09090909090909093,0.3010872
+We all think alike.,お互いやる事は同じですな｡,It is the same thing to do each other.,0.07142857142857142,0.36798507
+"I agree that, as a motive, it's selfish.",確かに とても個人的で➡,Certainly very personal ➡,0.0,0.12238346
+But it's also very beautiful.,とても素敵な理由です｡,Very nice reason.,0.2222222222222222,0.24233325
+was met with some resistance.,反対派も まだ いましたが…｡➡,The opponent was still ....,0.2,0.22697578
+How silly of me.,わあ～ やっちゃった｡,Wow ~ I did it.,0.1,0.15694267
+"Are you all right, ma'am?",大丈夫？お客さん｡,fine?customer.,0.1,0.23050404
+Sorry about that.,ごめんなさい｡,sorry.,0.5,0.73199284
+"Is something wrong, Dr. Sharon?",せ…先生 どうしたんですか？,Let's ... what happened to the teacher?,0.06666666666666668,0.28574347
+I only spilled some water.,水 こぼしただけよ｡,Just burn it.,0.1111111111111111,0.21115375
+I'm so excited.,なんか ワクワクするわね｡,I'm excited about something.,0.5714285714285714,0.74641955
+Aunt Sharon!,シャロンおばちゃん！,Sharon Aunt!,1.0,0.9835563
+Welcome to Houston.,ようこそ ヒューストンへ！,Welcome to Houston!,0.6,0.9274874
+We finally meet again!,やっと会えたわね｡,I finally met.,0.125,0.68228054
+You're supposed to die if you're hit with the light saber!,ﾗｲﾄｾｰﾊﾞｰ当たったら死ねよっ！,"If you hit the light saver, it will die!",0.4375,0.5608592
+Hurry up!,早く！,quickly!,0.25,0.63476515
+Find a table. are you sure about this?,大丈夫ですか 先生？,Are you okay?,0.2727272727272727,0.14755511
+"Are you okay, Aunt Sharon?",おばちゃん！大丈夫!?,Aunt!Fine!?,0.2222222222222222,0.6153617
+"Um, Sharon...",あの…先生➡,That ... teacher ➡,0.14285714285714285,0.31447357
+"Well, I think you should get a checkup.",いえ 体調を診てもらいに…｡,"No, I would like to see my physical condition ....",0.15789473684210525,0.2077257
+Nothing to worry about. see? i told you so.,ほら 言った通りでしょ｡,"As you said, they say.",0.125,0.19572547
+but Hibito requested...,日々人君 本人の希望もあり…｡,Everyday people are also the hope of the person ....,0.07692307692307693,0.13427141
+Japan's first moon-walker!,日本人初のムーンウォーカー！,Japanese first Moon Walker!,0.25,0.9469162
+Same here.,こちらこそ！,you're welcome!,0.0,0.08290531
+Dr. Sharon! and the other astronomers on her team!,天文チームの みなさ～ん！,Astronomical team everyone!,0.16666666666666666,0.59240526
+because of the excitement I felt in my youth.,ドキドキを信じたからです｡➡,I believe in pounding.,0.25,0.2012046
+They have udon.,へぇ～ うどん あんだってよ｡,Hey ~ Udon Anya.,0.2857142857142857,0.47867823
+Would you like to exchange e-mail addresses?,アドレス交換しない？,Do not exchange address?,0.18181818181818185,0.6255803
+"Really? Yes, please...",いいんですか!?ぜひ！,Is it okay?!,0.1,0.27462518
+It just slips out of my hand.,手から すっぽり抜けちゃって…｡,I'm sorry from my hand ....,0.2307692307692308,0.3886695
+Maybe with my right leg...,右…かな｡,Right ...,0.3333333333333333,0.24266484
+What? Is something wrong?,何？どしたの？,what?what happened?,0.3333333333333333,0.5274787
+It's twitching...,ピクピクしてる…｡,I'm picking up ....,0.1111111111111111,0.27293152
+You should see a neurologist.,今度は神経内科へ…｡,This time to neurology ....,0.09090909090909093,0.5635573
+What's going on?,《なんだよ…!?》,"""what is it…!?""",0.2,0.16937625

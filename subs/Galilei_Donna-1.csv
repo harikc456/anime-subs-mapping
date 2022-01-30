@@ -1,234 +1,234 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "Hey, is it an earthquake?","どうした！？
 （作業員）おい！　地震か！？","What happened!?
-!Is it an earthquake!?",0.5
-Why? Why?,（星月）どうして！？　どうして！？,Why!? why!?,0.6666666666666666
-Why are you after me?!,どうして　追い掛けてくるの～！？,Why will you chase!?,0.4444444444444444
+!Is it an earthquake!?",0.5,0.7947906
+Why? Why?,（星月）どうして！？　どうして！？,Why!? why!?,0.6666666666666666,0.7019092
+Why are you after me?!,どうして　追い掛けてくるの～！？,Why will you chase!?,0.4444444444444444,0.54569983
 Ferrari!,"（教師）フェラーリ！
 神月フェラーリ君は？","Ferrari!
-God Ferrari?",0.5
+God Ferrari?",0.5,0.8162942
 "Whenever we have group activities, she always pulls this stunt!","またか。　集団行動になると
 いつも　これだ！","again.When it becomes collective action
-Always he is this!",0.15789473684210525
-"Hazuki, did you pass out?",葉月。　寝ちゃった？,Hazuki. fell asleep?,0.2
+Always he is this!",0.15789473684210525,0.3490777
+"Hazuki, did you pass out?",葉月。　寝ちゃった？,Hazuki. fell asleep?,0.2,0.7127694
 I'll take you to court.,"だって！
 （学生）フフッ。","!
- fluffy.",0.1111111111111111
+ fluffy.",0.1111111111111111,0.13399036
 "A university, taking your tuition without giving you the units...","（葉月）授業料を取りながら
 単位を　くれない大学なんて→","while taking tuition
-Universities that can not give me a unit →",0.14285714285714285
-I'll take you to court!,訴えてやる！,I will appeal!,0.2222222222222222
-I feel sick...,ウプッ…。,U-pu ....,0.16666666666666666
+Universities that can not give me a unit →",0.14285714285714285,0.71303046
+I'll take you to court!,訴えてやる！,I will appeal!,0.2222222222222222,0.6012851
+I feel sick...,ウプッ…。,U-pu ....,0.16666666666666666,0.32986295
 Wh-What?,"≪（足音）
 うん？","«
-Yes?",0.25
-Who are you—,えっ！？　何？　誰よ　あんた…！,eh!? what?Who are you ...!,0.2222222222222222
+Yes?",0.25,0.22440204
+Who are you—,えっ！？　何？　誰よ　あんた…！,eh!? what?Who are you ...!,0.2222222222222222,0.47503904
 Sexual assault is a felony!,"てめえ　性犯罪は重罪だぞ！
 強姦で　懲役１０年。","Temoei crime is a felony!
-Ten years in prison in rape.",0.2857142857142857
+Ten years in prison in rape.",0.2857142857142857,0.66241914
 Add assault to that and you could get a death sentence!,"傷害付けたら
 場合によっちゃ死刑だ！","If you get injured
-It is a death penalty according to the case!",0.3
+It is a death penalty according to the case!",0.3,0.554138
 "We can settle out of court, but if you don't let me go right now, I will press charges!","今すぐ　放さないと
 絶対に起訴されるぞ！","If you do not release it now
-It will be prosecuted absolutely!",0.21428571428571427
+It will be prosecuted absolutely!",0.21428571428571427,0.34345043
 I'm a future prosecutor!,"私は　将来の検事候補だからな！
 ああっ！","Because I am a future assessment candidate!
-Oh!",0.36363636363636365
-You're a law student flunk-out.,騒ぐな。,Don't make a noise.,0.18181818181818182
-Shut up!,法学部の　びりが。　黙れ！,The law of law. shut up!,0.42857142857142855
-Don't make a sound.,（男性）声を出すな。,Do not give me a voice.,0.3
-Who was that?,誰なの？　何で！？　何で…！？,Who are you? why!? why…!?,0.2222222222222222
-Why? Why was he...,（神月）あ…？,...?,0.4
-"Someone, call the police!",（アンナ）誰か！　警察　呼んで！,Someone!Call the police!,0.8333333333333334
-Wait!,（アンナ）待ちなさい！,Wait!,1.0
-Stun Gun Launcher...,スタンガン　ランチャー。,Stan gun launcher.,0.3333333333333333
-Sorry.,ごめんなさい。,sorry.,1.0
+Oh!",0.3636363636363637,0.46131164
+You're a law student flunk-out.,騒ぐな。,Don't make a noise.,0.18181818181818185,0.18068264
+Shut up!,法学部の　びりが。　黙れ！,The law of law. shut up!,0.42857142857142855,0.4208618
+Don't make a sound.,（男性）声を出すな。,Do not give me a voice.,0.3,0.5577105
+Who was that?,誰なの？　何で！？　何で…！？,Who are you? why!? why…!?,0.2222222222222222,0.28781912
+Why? Why was he...,（神月）あ…？,...?,0.4,0.13210908
+"Someone, call the police!",（アンナ）誰か！　警察　呼んで！,Someone!Call the police!,0.8333333333333334,0.9688678
+Wait!,（アンナ）待ちなさい！,Wait!,1.0,1.0
+Stun Gun Launcher...,スタンガン　ランチャー。,Stan gun launcher.,0.3333333333333333,0.5299071
+Sorry.,ごめんなさい。,sorry.,1.0,1.0
 "Three attempted abductions on the same day, at the same time.","（刑事）同日　同時刻に
 誘拐未遂事件が３件なんて…。","at the same day at the same day
-There are 3 abduction attempts ....",0.29411764705882354
-"It must be a human trafficking ring, or a bunch of pervs...",人身売買組織か　変質者の集団か。,Is a group of human trafficking organizations or alumneas?,0.2777777777777778
+There are 3 abduction attempts ....",0.29411764705882354,0.89434606
+"It must be a human trafficking ring, or a bunch of pervs...",人身売買組織か　変質者の集団か。,Is a group of human trafficking organizations or alumneas?,0.2777777777777778,0.52643335
 "Galileo sisters, your mother's here.","（カッシーニ）ガリレオ三姉妹。
 お母さんが到着したぞ。","Galileo three sisters.
-Her mother arrived.",0.36363636363636365
-Why would I?,（刑事）不可解ですねぇ。,I'm sorry.,0.14285714285714285
+Her mother arrived.",0.3636363636363637,0.78863895
+Why would I?,（刑事）不可解ですねぇ。,I'm sorry.,0.14285714285714285,0.23074809
 There must be something.,"拉致ろうとしたやつらだぞ？
 何かあるはずだ。","Did you try to abduct?
-There should be something.",0.3333333333333333
+There should be something.",0.3333333333333333,0.24274838
 And it's your job to figure that out!,"（シルヴィア）それを調べるのが
 あんたたちの仕事！","to check it
-Anti work!",0.23076923076923078
+Anti work!",0.2307692307692308,0.3170642
 Have you been drinking?,"あなた　お酒　飲んでるの？
 こんな時間から！","Are you drinking drinks?
-From such a time!",0.25
-What about your classes?,大学は　どうしたの？,What happened to university?,0.25
-Kazuki!,（シルヴィア）ハーちゃん！,Har!,0.3333333333333333
+From such a time!",0.25,0.68310076
+What about your classes?,大学は　どうしたの？,What happened to university?,0.25,0.36014116
+Kazuki!,（シルヴィア）ハーちゃん！,Har!,0.3333333333333333,0.27365038
 I heard you were skipping class\N again to hang out in the infirmary.,"保健室に入り浸ってたそうね。
 だって　群れる…。","It seems to be in the health room.
-Because it is a group ....",0.16666666666666666
-"I heard you've been holed up as usual, barely going out!",星月！　相変わらず→,Moon!As usual →,0.1875
+Because it is a group ....",0.16666666666666666,0.34393358
+"I heard you've been holed up as usual, barely going out!",星月！　相変わらず→,Moon!As usual →,0.1875,0.23923938
 Here we go.,"まったく。　揃いも揃って…。
 出るよ。","Jeez.Align with alignment ....
-I will go out.",0.18181818181818182
+I will go out.",0.18181818181818185,0.19258818
 There she goes.,"えっ…。
 それは　やりたいことがある…。","eh….
-That's what she wants to do ....",0.16666666666666666
+That's what she wants to do ....",0.16666666666666666,0.2988841
 How can you call yourselves \Ndescendants of Galileo Galilei?!,"あなたたち　それでも
 ガリレオ・ガリレイの子孫なの！？","You still
-Galileo Galilei's descendants!?",0.35714285714285715
-May I object?,異議を申し立てていい？,May I have an objection?,0.42857142857142855
+Galileo Galilei's descendants!?",0.35714285714285715,0.7170435
+May I object?,異議を申し立てていい？,May I have an objection?,0.42857142857142855,0.52436984
 Your morally bankrupt lifestyle taints the great deeds of your ancestor!,"ふしだらな生活は　ご先祖さまの
 偉業に傷をつけるのよ！","Slut life is your ancestors
-Wray the feat!",0.17647058823529413
-"Well, isn't it enough that you\N inherited his engineering ability?",いやぁ　もう　いいんじゃない？,"No, isn't it good?",0.3333333333333333
-I'm going to be a prosecutor.,私は検事。,I am a prosecutor.,0.4444444444444444
-As for Kakkii and Hocchii...,カッキーとホッチィは…。,Cucky and Hotcy ....,0.2222222222222222
+Wray the feat!",0.17647058823529413,0.48114502
+"Well, isn't it enough that you\N inherited his engineering ability?",いやぁ　もう　いいんじゃない？,"No, isn't it good?",0.3333333333333333,0.17599052
+I'm going to be a prosecutor.,私は検事。,I am a prosecutor.,0.4444444444444444,0.83413875
+As for Kakkii and Hocchii...,カッキーとホッチィは…。,Cucky and Hotcy ....,0.2222222222222222,0.27756104
 "Well, they're working toward some future of their own.","まあ　何かの未来に向かって
 突き進むってことで。","Well towards the future of something
-By pushing it.",0.2222222222222222
+By pushing it.",0.2222222222222222,0.49360394
 Galileo laid the foundations,"（シルヴィア）そもそも　ガリレオは…。
 ママ　エンジンかかっちゃった。","Galileo is also Galileo.
-Mommy he said engine.",0.09090909090909091
-as well as his astronomical observations.,むちゃくちゃ…。,....,0.14285714285714285
+Mommy he said engine.",0.09090909090909093,0.63267004
+as well as his astronomical observations.,むちゃくちゃ…。,....,0.14285714285714285,0.11370599
 Copernicus first proposed that theory.,"地動説は
 それまでの天動説を覆す…。","Glaw
-Cover the ventilation theory until then ....",0.15384615384615385
-Dad!,パパ！,Daddy!,0.3333333333333333
-I'm glad you're are safe...,無事で　よかったわ。,I'm glad it was safe.,0.36363636363636365
+Cover the ventilation theory until then ....",0.15384615384615385,0.20195678
+Dad!,パパ！,Daddy!,0.3333333333333333,0.78281647
+I'm glad you're are safe...,無事で　よかったわ。,I'm glad it was safe.,0.3636363636363637,0.69917023
 Weren't you worried about them?,"この子たちが
 心配じゃなかったの？","These children
-Didn't you worry?",0.2727272727272727
-I understand.,（シルヴィア）遅かったわね　夏至生。,I was late.,0.4
+Didn't you worry?",0.2727272727272727,0.66844445
+I understand.,（シルヴィア）遅かったわね　夏至生。,I was late.,0.4,0.31633
 The commonality among them is they're Galileo's descendants.,"発表は１５４３年。
 ガリレオが生まれる１１年も前やで。","The announcement is 1543.
-11 years ago for Galileo.",0.23529411764705882
+11 years ago for Galileo.",0.2352941176470588,0.447828
 Who'd see any value in Galileo?,"ガリレオに
 どんな価値があるってんだ？","In Galileo
-What value is it?",0.36363636363636365
-What was that?,何ですって！？,What's that!?,0.5
+What value is it?",0.3636363636363637,0.81648505
+What was that?,何ですって！？,What's that!?,0.5,0.5793676
 That won't be enough.,"足りない。
 （カッシーニ）あぁ？","not enough.
-?",0.25
-I live alone.,私　今　１人暮らし。,I live alone now.,0.8
+?",0.25,0.5742796
+I live alone.,私　今　１人暮らし。,I live alone now.,0.8,0.9011978
 I don't wanna go.,"行きたくないな…。
 行きたくない。","I do not want to go ....
-Unwilling to go.",0.3333333333333333
-"Oh, it's been a while...",うわぁ　久しぶり。,It's been a long time.,0.36363636363636365
+Unwilling to go.",0.3333333333333333,0.77740896
+"Oh, it's been a while...",うわぁ　久しぶり。,It's been a long time.,0.3636363636363637,0.7411749
 "In any case, Hozuki will be staying with me for a while.","とにかく　しばらく
 星月は　私が預かります。→","For a while
-I will store the moon.→",0.2222222222222222
+I will store the moon.→",0.2222222222222222,0.25297603
 I have good security.,"セキュリティーは
 しっかりしてるから。","Security
-I'm firm.",0.42857142857142855
-"Sorry, are you hungry?",ごめんね。　おなか　すいた？,sorry.  I am hungry?,0.3333333333333333
+I'm firm.",0.42857142857142855,0.6845552
+"Sorry, are you hungry?",ごめんね。　おなか　すいた？,sorry.  I am hungry?,0.3333333333333333,0.882349
 "Picco Rosso, I have to move to Mom's apartment...","ピッコロッソ。
 ママのマンションに移動だって。","Piccolosso.
-Moving to Mom's apartment.",0.2857142857142857
-What should I do?,どうしよう…。,What should I do….,0.42857142857142855
-Guess I'll eat some candy.,コンペイトー　食べよ。,I eat competing.,0.375
-Yeah?,何？,what?,0.3333333333333333
-It's easy.,ぺっこぺこだね。,It's a peak peak.,0.5
-But it can get lonely at times...,時々　寂しいこともあるけど→,Sometimes it is sometimes lonely →,0.18181818181818182
-I can forget everything by drinking.,お酒を飲んだら忘れるし。,I forget to drink alcohol.,0.3
+Moving to Mom's apartment.",0.2857142857142857,0.5326618
+What should I do?,どうしよう…。,What should I do….,0.42857142857142855,0.7430948
+Guess I'll eat some candy.,コンペイトー　食べよ。,I eat competing.,0.375,0.35013676
+Yeah?,何？,what?,0.3333333333333333,0.3004453
+It's easy.,ぺっこぺこだね。,It's a peak peak.,0.5,0.1706182
+But it can get lonely at times...,時々　寂しいこともあるけど→,Sometimes it is sometimes lonely →,0.18181818181818185,0.6947114
+I can forget everything by drinking.,お酒を飲んだら忘れるし。,I forget to drink alcohol.,0.3,0.8109429
 "And it isn't like living here was all that fun, anyway.","ここにいたときも　そんなに
 楽しかったわけじゃないし。","Even when I was here too
-It was fun.",0.2777777777777778
-Don't come live with me.,うちには来ないでよ。,Don't come in my house.,0.4
-Need.,いる…。,....,0.3333333333333333
+It was fun.",0.2777777777777778,0.58282304
+Don't come live with me.,うちには来ないでよ。,Don't come in my house.,0.4,0.6372656
+Need.,いる…。,....,0.3333333333333333,0.18632662
 Don't need!,"いらない。
 いらない！","I do not need. 
- I do not need!",0.42857142857142855
+ I do not need!",0.42857142857142855,0.7034325
 You really lack even basic life skills.,"（シルヴィア）ホントに
 生活能力が　ないんだから。","really
-Because my life is not she.",0.23076923076923078
-"It's your home, isn't it?",自分のうちだろ？,Is it your own?,0.4444444444444444
-Who the hell are you?,誰や？　お前ら。,Who? You guys.,0.375
-Italians have two weaknesses... Food and women.,イタリア人の弱点は　２つ。,Two of the Italian weaknesses.,0.25
+Because my life is not she.",0.2307692307692308,0.2987643
+"It's your home, isn't it?",自分のうちだろ？,Is it your own?,0.4444444444444444,0.46904108
+Who the hell are you?,誰や？　お前ら。,Who? You guys.,0.375,0.31746086
+Italians have two weaknesses... Food and women.,イタリア人の弱点は　２つ。,Two of the Italian weaknesses.,0.25,0.8007781
 I can eat goat vomit and have no interest in women.,"俺は　ヤギの吐いたものも食うし
 女には興味がない。→","I also eat a goat's spit
-I'm not interested in a woman.→",0.2
-I'm invincible.,（シシーニョ）ゆっくりしていけよ。,I will slowly.,0.3333333333333333
-Why are you after our girls?,何で　娘たちを狙うんや？,Why do you look for daughters?,0.2727272727272727
+I'm not interested in a woman.→",0.2,0.8257539
+I'm invincible.,（シシーニョ）ゆっくりしていけよ。,I will slowly.,0.3333333333333333,0.27489445
+Why are you after our girls?,何で　娘たちを狙うんや？,Why do you look for daughters?,0.2727272727272727,0.5277156
 Let's see you raise your hand before you ask any questions.,"質問は
 手を挙げてからにしましょう。","Question
-Let's take a hand.",0.26666666666666666
-Didn't you learn that in school?,学校で習わなかった？,Did not you learn at school?,0.5
-"If you move an inch, I'll shoot.",動いたら撃つ。,Shoot if you move.,0.5
-"I heard that, girlie.",（シシーニョ）聞こえてるよ　女子。→,I heard girls.→,0.2857142857142857
+Let's take a hand.",0.26666666666666666,0.568947
+Didn't you learn that in school?,学校で習わなかった？,Did not you learn at school?,0.5,0.7319717
+"If you move an inch, I'll shoot.",動いたら撃つ。,Shoot if you move.,0.5,0.7011202
+"I heard that, girlie.",（シシーニョ）聞こえてるよ　女子。→,I heard girls.→,0.2857142857142857,0.6990592
 The World Cup qualifiers are tonight.,"今夜は
 ワールドカップの予選がある。→","tonight
-There is a World Cup qualifying.→",0.2727272727272727
+There is a World Cup qualifying.→",0.2727272727272727,0.8322382
 "Let's get this over with, shall we?","あっ。　べただけど
 これも付け足しておこう。","Ah.I'm sorry
-Let's add this.",0.2
-Where is Galileo's inheritance?,ガリレオの遺産は　どこにある？,Where is Galileo's heritage?,0.7142857142857143
-"Don't give me that, Madre.",知らないは　ないぜぇ。　マードレ。,I do not know.Madre.,0.18181818181818182
+Let's add this.",0.2,0.13579859
+Where is Galileo's inheritance?,ガリレオの遺産は　どこにある？,Where is Galileo's heritage?,0.7142857142857143,0.8313171
+"Don't give me that, Madre.",知らないは　ないぜぇ。　マードレ。,I do not know.Madre.,0.18181818181818185,0.7514868
 Want me to help you remember by putting a hole in your head?,"思い出せるように
 ど頭に　穴　開けてみるか？","Remember
-Do you want to open a hole in your head?",0.625
-"Salvatore, she said that I'm misunderstanding.",勘違いねぇ。,I'm misunderstood.,0.3
-"Next, it'll be punches.",勘違いかぁ。,I wonder if it is misunderstood.,0.16666666666666666
+Do you want to open a hole in your head?",0.625,0.76096314
+"Salvatore, she said that I'm misunderstanding.",勘違いねぇ。,I'm misunderstood.,0.3,0.39773154
+"Next, it'll be punches.",勘違いかぁ。,I wonder if it is misunderstood.,0.16666666666666666,0.066689774
 You!,"やめろ！
 （シシーニョ）あぁ？　何か言った？","Stop!
- Oh?Did you say something?",0.25
+ Oh?Did you say something?",0.25,0.26690802
 "Unlawful entry and detention, destruction of property, illegal possession of firearms, and extortion!","銃器不法所持。
 監禁と脅迫の現行犯だ！","Firearm illegal possession.
-It is a current offense of confinement and intimidation!",0.22727272727272727
+It is a current offense of confinement and intimidation!",0.2272727272727273,0.65992785
 What's with your slimy attitude?,"何だ？
 その　ねちねちした態度は！？","What?
-The attitude of her nicketto is!?",0.23076923076923078
+The attitude of her nicketto is!?",0.2307692307692308,0.36805952
 You're the worst male scumbag in all of Italy...,"あんた　イタリアの全男性の中で
 ぶっちぎりの最低男よ！","Among all men in the Italian
-The minimum man of the buckwheat!",0.2222222222222222
+The minimum man of the buckwheat!",0.2222222222222222,0.5769521
 "Oh, and you'd make the top three for all Europe too!","ちなみに　ヨーロッパでも
 ベスト３に入るから！","By the way, even in Europe
-Because you enter the best 3!",0.22727272727272727
+Because you enter the best 3!",0.2272727272727273,0.6745173
 Congrats!,"文句なしの優勝候補！
 おめでとう！","A candidate for winning without complaints!
-Congrats!",0.25
-"Girlie, what's your name?",そこの女子。　名前は？,Women there.What is her name?,0.18181818181818182
-Hazuki Ferrari!,葉月フェラーリ。　文句ある！？,Hazuki Ferrari.Complaints!?,0.4
-Love it!,気に入った！,favorite!,0.25
+Congrats!",0.25,0.41662532
+"Girlie, what's your name?",そこの女子。　名前は？,Women there.What is her name?,0.18181818181818185,0.54362583
+Hazuki Ferrari!,葉月フェラーリ。　文句ある！？,Hazuki Ferrari.Complaints!?,0.4,0.7285564
+Love it!,気に入った！,favorite!,0.25,0.41863874
 I said it's Hazuki Ferrari!,"バンビーナと呼ばせてくれ。
 だから　葉月フェラーリだっての！","Let me call Bambina.
-So it's Hazuki Ferrari!",0.38461538461538464
-You're all invited to my gorgeous mecha.,俺のゴージャスメカに招待するよ。,I'm invited to my Gorgeous Mecha.,0.5454545454545454
-Let's go!,行くよ。,go.,0.2
+So it's Hazuki Ferrari!",0.38461538461538464,0.80579853
+You're all invited to my gorgeous mecha.,俺のゴージャスメカに招待するよ。,I'm invited to my Gorgeous Mecha.,0.5454545454545454,0.9210846
+Let's go!,行くよ。,go.,0.2,0.44179058
 I've been waiting for this moment!,"（グランデロッソ）
-この瞬間が　ついに来た！",This moment came last!,0.3
-It's coming from the basement...,これは地下からだわ。,This is from the basement.,0.3
-What the hell is going on?,今度は何！？,What is this time!?,0.3
-"Leonardo, what's happening?",レオナルド。　何だ？　これ。→,Leonardo. What? this.→,0.375
+この瞬間が　ついに来た！",This moment came last!,0.3,0.6060107
+It's coming from the basement...,これは地下からだわ。,This is from the basement.,0.3,0.78339237
+What the hell is going on?,今度は何！？,What is this time!?,0.3,0.39763108
+"Leonardo, what's happening?",レオナルド。　何だ？　これ。→,Leonardo. What? this.→,0.375,0.7728212
 "Sorry, boss.","（シシーニョ）気を付けろ　ジョバンニ！
 （ジョバンニ）すいません　お頭。","Be careful Giovanni!
- I'm sorry.",0.2
-Get out!,ここから出てけ！,Get out of here!,0.6
-It isn't loaded.,弾は入ってない。,There is no bullet.,0.25
-Bastard.,ムカつく。,Muka.,0.3333333333333333
-A goldfish?,金魚？,Goldfish?,0.6666666666666666
+ I'm sorry.",0.2,0.30987132
+Get out!,ここから出てけ！,Get out of here!,0.6,0.770011
+It isn't loaded.,弾は入ってない。,There is no bullet.,0.25,0.30861574
+Bastard.,ムカつく。,Muka.,0.3333333333333333,0.15731394
+A goldfish?,金魚？,Goldfish?,0.6666666666666666,0.94164324
 Not mine.,"（夏至生）俺やない。
 （シルヴィア）私じゃない。","I'm not.
- I am not.",0.3333333333333333
-Take it down!,やれ！,Do it!,0.4
+ I am not.",0.3333333333333333,0.25111136
+Take it down!,やれ！,Do it!,0.4,0.40181392
 We'll get hit.,"星月ちゃん　回避して。
 当たっちゃうよ。","Avoid Hoshitsuki-chan.
-I'll hit it.",0.3333333333333333
-What?!,えぇ！？,Eh!?,0.5
-Our house!,あっ。　おうちが！,Ah.House!,0.25
+I'll hit it.",0.3333333333333333,0.25335872
+What?!,えぇ！？,Eh!?,0.5,0.4088229
+Our house!,あっ。　おうちが！,Ah.House!,0.25,0.64047647
 "Wanna go head-to-head with my Black Ganymede, Goldfish?","俺のブラックガニメデ号と
 ガチで　火花　散らすか？　金魚！","My Black Ganimede
-Do you spend sparks with Gachi? Goldfish!",0.2777777777777778
-Fire!,撃つね！,Shoot!,0.3333333333333333
-"Wait, seriously?",おいおい。　マジか？,little by little.Seriously?,0.14285714285714285
+Do you spend sparks with Gachi? Goldfish!",0.2777777777777778,0.64429605
+Fire!,撃つね！,Shoot!,0.3333333333333333,0.56914026
+"Wait, seriously?",おいおい。　マジか？,little by little.Seriously?,0.14285714285714285,0.2605428
 I'm sorry.,"へえ～。　武装してるのか。
 おもしれえ。","Hey.Are you armed?
-I'm sorry.",0.5
+I'm sorry.",0.5,0.3454648
 "Unless you activate the speakers, they can't hear you, Hozuki.","（グランデロッソ）外部音声にしないと
 聞こえないよ　星月ちゃん。","If you do not make an external voice
-I can't hear it.",0.23809523809523808
-"Later, Bambina.",またな。　バンビーナ。,See you.Bambina.,0.16666666666666666
+I can't hear it.",0.2380952380952381,0.5454086
+"Later, Bambina.",またな。　バンビーナ。,See you.Bambina.,0.16666666666666666,0.75677085
 I'll press charges one day!,"今日は見逃してやる！
 今日だけ見逃してやる！","I miss it today!
-I miss it today!",0.2
-Hozuki?,星月？,Stars month?,0.25
-The three Galileo sisters.,ガリレオ三姉妹。,Galileo three sisters.,0.8
+I miss it today!",0.2,0.22344118
+Hozuki?,星月？,Stars month?,0.25,0.09608452
+The three Galileo sisters.,ガリレオ三姉妹。,Galileo three sisters.,0.8,0.98516476

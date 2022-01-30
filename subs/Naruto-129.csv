@@ -1,257 +1,257 @@
-en_text,jp_text,google_translated,score
-"<i>Hey boys, listen up!</i>",♬少年よ聞いてくれ,"♬ Boy, listen",0.16666666666666666
-"<i>Who needs tomorrow anyway,</i>",♬明日なんてもういらないから,♬ Because I do not want to tomorrow,0.13333333333333333
-<i>so don't hide your fists</i>,♬握った拳を隠すなよ,Don't hide the fist you hold,0.21428571428571427
-<i>You're not old enough</i>,♬人間なんてたいしたもんじゃないさ,♬ I'm not a human being,0.14285714285714285
-<i>who can pull the trigger in your heart</i>,♬引き金を引けるのは君だけさ,It is only you who can trigger,0.1875
-<i>All the kids said</i>,♬すべての若者は言った,♬ All young people said,0.18181818181818182
-"<i>awesome world right at this moment,</i>",♬この素晴らしい世界に,♬ In this wonderful world,0.14285714285714285
-<i>Don't forget every truth or lie</i>,♬決して忘れてしまわないように,♬ Do not forget it,0.14285714285714285
-<i>We're way too young to die</i>,♬死ぬには若すぎるだろう,♬ It would be too young to die,0.26666666666666666
-<i>into this windless night</i>,♬風の無いこの夜に,♬ Night without wind,0.09090909090909091
-<i>Because they want to change something</i>,♬何かを変えようとしてるから,♬ I'm trying to change something,0.3076923076923077
-Sasuke!,(ﾅﾙﾄ)サスケ～！,Sasuke ~!,0.6666666666666666
-<i>What's with... this guy?</i>,何だよ？こいつ…｡➡,What?This guy ....,0.4166666666666667
-Don't mock me!,ナメんな！,Namame!,0.16666666666666666
-<i>You are weak.</i>,(ｲﾀﾁ)＜お前は弱い｡➡,<You are weak.,0.3333333333333333
-If I kept playing comrade with you guys...,お前たちと仲間ごっこしてたら…｡,If you're a friend with you ....,0.3076923076923077
-That's right... I need...,そう…俺には必要なんだ｡,Yes ... I need it for me.,0.2727272727272727
+en_text,jp_text,google_translated,score,semantic_score
+"<i>Hey boys, listen up!</i>",♬少年よ聞いてくれ,"♬ Boy, listen",0.16666666666666666,0.6530667
+"<i>Who needs tomorrow anyway,</i>",♬明日なんてもういらないから,♬ Because I do not want to tomorrow,0.13333333333333333,0.63679063
+<i>so don't hide your fists</i>,♬握った拳を隠すなよ,Don't hide the fist you hold,0.21428571428571427,0.7157618
+<i>You're not old enough</i>,♬人間なんてたいしたもんじゃないさ,♬ I'm not a human being,0.14285714285714285,0.37642795
+<i>who can pull the trigger in your heart</i>,♬引き金を引けるのは君だけさ,It is only you who can trigger,0.1875,0.5361385
+<i>All the kids said</i>,♬すべての若者は言った,♬ All young people said,0.18181818181818185,0.622417
+"<i>awesome world right at this moment,</i>",♬この素晴らしい世界に,♬ In this wonderful world,0.14285714285714285,0.5135738
+<i>Don't forget every truth or lie</i>,♬決して忘れてしまわないように,♬ Do not forget it,0.14285714285714285,0.54593575
+<i>We're way too young to die</i>,♬死ぬには若すぎるだろう,♬ It would be too young to die,0.26666666666666666,0.6885848
+<i>into this windless night</i>,♬風の無いこの夜に,♬ Night without wind,0.09090909090909093,0.68197376
+<i>Because they want to change something</i>,♬何かを変えようとしてるから,♬ I'm trying to change something,0.3076923076923077,0.4510755
+Sasuke!,(ﾅﾙﾄ)サスケ～！,Sasuke ~!,0.6666666666666666,0.94530714
+<i>What's with... this guy?</i>,何だよ？こいつ…｡➡,What?This guy ....,0.4166666666666667,0.40709585
+Don't mock me!,ナメんな！,Namame!,0.16666666666666666,0.2531443
+<i>You are weak.</i>,(ｲﾀﾁ)＜お前は弱い｡➡,<You are weak.,0.3333333333333333,0.9050852
+If I kept playing comrade with you guys...,お前たちと仲間ごっこしてたら…｡,If you're a friend with you ....,0.3076923076923077,0.32546666
+That's right... I need...,そう…俺には必要なんだ｡,Yes ... I need it for me.,0.2727272727272727,0.49313158
 "Both power... and hatred...
-in order to catch up with him.",あいつに追いつくためには｡,To catch up with them.,0.35714285714285715
-Don't push it...,(ｲﾀﾁ)無理するな｡うん…｡,Do not overdo it. Yeah ....,0.3333333333333333
-What's up?,あっ…｡どうした？,What happened?,0.4
+in order to catch up with him.",あいつに追いつくためには｡,To catch up with them.,0.35714285714285715,0.23877516
+Don't push it...,(ｲﾀﾁ)無理するな｡うん…｡,Do not overdo it. Yeah ....,0.3333333333333333,0.4624272
+What's up?,あっ…｡どうした？,What happened?,0.4,0.42445746
 "This is the place...
-where Father works, right?",ここでしょ？父さんが働いてる所｡,Is it here?A place where my father works.,0.375
+where Father works, right?",ここでしょ？父さんが働いてる所｡,Is it here?A place where my father works.,0.375,0.7803093
 "Yeah... The headquarters
-of the Leaf Police Force.",(ｲﾀﾁ)あぁ…木ノ葉警務部隊の本部だ｡,Aa ... It is the headquarters of Koho Leaf Personal Forces.,0.4
-"I was curious about it from before,",前から気になってたんだけど➡,I was worried about before,0.4444444444444444
-"Oh... so you noticed, huh?",何だ気付いてたのか｡当たり前だろ｡,What did you notice? It is natural.,0.13333333333333333
+of the Leaf Police Force.",(ｲﾀﾁ)あぁ…木ノ葉警務部隊の本部だ｡,Aa ... It is the headquarters of Koho Leaf Personal Forces.,0.4,0.5911935
+"I was curious about it from before,",前から気になってたんだけど➡,I was worried about before,0.4444444444444444,0.42264
+"Oh... so you noticed, huh?",何だ気付いてたのか｡当たり前だろ｡,What did you notice? It is natural.,0.13333333333333333,0.35518408
 "it seems the previous generations
-of the Uchiha Clan",うちは一族の先代たちだったらしい｡➡,It seems that my family was the one of the family.,0.2857142857142857
-set up and established the Police Force.,何で警務部隊のマークに➡,What is the mark of the police unit.,0.23076923076923078
+of the Uchiha Clan",うちは一族の先代たちだったらしい｡➡,It seems that my family was the one of the family.,0.2857142857142857,0.26161802
+set up and established the Police Force.,何で警務部隊のマークに➡,What is the mark of the police unit.,0.2307692307692308,0.38772938
 "So they used their own crest for
-the symbol mark of this organization.",だからこの組織のシンボルマークに➡,"So, in the symbol mark of this organization",0.4375
+the symbol mark of this organization.",だからこの組織のシンボルマークに➡,"So, in the symbol mark of this organization",0.4375,0.7499412
 "From olden times,
-the Uchiha Clan has always been",昔からうちは一族は➡,"From the past, the family is ➡",0.21428571428571427
+the Uchiha Clan has always been",昔からうちは一族は➡,"From the past, the family is ➡",0.21428571428571427,0.33956274
 "in charge of protecting
-the public and the peace of this village.",この里の治安をずっと預かり守ってきた｡➡,I have been keeping the security of this village much.,0.29411764705882354
+the public and the peace of this village.",この里の治安をずっと預かり守ってきた｡➡,I have been keeping the security of this village much.,0.29411764705882354,0.6348028
 "The Uchiha crest is
-a testament to the proud clan.",その誇り高き一族の証しでもあるんだよ｡➡,It is also a provision of its proud family. ➡,0.23529411764705882
-The Uchiha Clan has gotten small now.,今やうちは一族も小さくなってしまったけど➡,Now my family has become smaller,0.16666666666666666
+a testament to the proud clan.",その誇り高き一族の証しでもあるんだよ｡➡,It is also a provision of its proud family. ➡,0.2352941176470588,0.45086128
+The Uchiha Clan has gotten small now.,今やうちは一族も小さくなってしまったけど➡,Now my family has become smaller,0.16666666666666666,0.4056166
 "But even now, nearly all members
-belong to this first force here.",今でもほぼ全員がここの第一部隊に所属し➡,Now almost all belongs to the first unit here,0.2777777777777778
+belong to this first force here.",今でもほぼ全員がここの第一部隊に所属し➡,Now almost all belongs to the first unit here,0.2777777777777778,0.58799696
 "And contribute to maintaining
-peace in the village.",里の治安維持に貢献してる｡,I contribute to the security of the village.,0.4166666666666667
-"Sure enough, father's awesome!",《やっぱり父さんはすごいや！》,"""After all my father is amazing!""",0.14285714285714285
+peace in the village.",里の治安維持に貢献してる｡,I contribute to the security of the village.,0.4166666666666667,0.6854548
+"Sure enough, father's awesome!",《やっぱり父さんはすごいや！》,"""After all my father is amazing!""",0.14285714285714285,0.53301334
 "When I grow up, I'm also going
-to enter the Police Force, so!",大きくなったら俺も警務部隊に入るからさ｡,"If you grow up, I will enter the police unit.",0.35
+to enter the Police Force, so!",大きくなったら俺も警務部隊に入るからさ｡,"If you grow up, I will enter the police unit.",0.35,0.7606295
 "Father's also coming to
-tomorrow's entrance ceremony.",あしたの入学式には父さんも来てくれる｡,My father also comes to the entrance ceremony of tomorrow.,0.5384615384615384
-It's the first step to my dream.,俺の夢の第一歩だ｡(ｲﾀﾁ)そうだな｡,It is the first step of my dream.  That's right.,0.6153846153846154
-That's right.,そうしなよ｡,That's why.,0.6
-You're late... What were you doing?,(ﾌｶﾞｸ)遅かったな何をしてた？,What did you do? What did you do?,0.3
-Father...,父さん…｡,Father ....,0.6666666666666666
+tomorrow's entrance ceremony.",あしたの入学式には父さんも来てくれる｡,My father also comes to the entrance ceremony of tomorrow.,0.5384615384615384,0.89365065
+It's the first step to my dream.,俺の夢の第一歩だ｡(ｲﾀﾁ)そうだな｡,It is the first step of my dream.  That's right.,0.6153846153846154,0.8666677
+That's right.,そうしなよ｡,That's why.,0.6,0.43794602
+You're late... What were you doing?,(ﾌｶﾞｸ)遅かったな何をしてた？,What did you do? What did you do?,0.3,0.5544277
+Father...,父さん…｡,Father ....,0.6666666666666666,0.99115586
 "I have something to talk to you about.
-Come quickly.",今から話がある早く来い｡,I will come soon from now.,0.21428571428571427
+Come quickly.",今から話がある早く来い｡,I will come soon from now.,0.21428571428571427,0.43009496
 "You've come this far just half a year
-after being promoted to Chunin.",中忍に昇格してからたった半年でここまで来た｡,"After being promoted to Nakanobu, I came here in half a year.",0.38095238095238093
-About tomorrow's special mission...,あしたの特別任務だが➡,It is a special task of tomorrow but,0.16666666666666666
-"I've decided to go with you, too.",俺もついていくことにした｡,I decided to follow.,0.36363636363636365
-<i>Tomorrow?</i>,《あした？》,"""tomorrow?""",0.25
-"If you complete this mission, Itachi...",この任務が成功すれば➡,If this mission is successful,0.3
+after being promoted to Chunin.",中忍に昇格してからたった半年でここまで来た｡,"After being promoted to Nakanobu, I came here in half a year.",0.3809523809523809,0.5474367
+About tomorrow's special mission...,あしたの特別任務だが➡,It is a special task of tomorrow but,0.16666666666666666,0.5493953
+"I've decided to go with you, too.",俺もついていくことにした｡,I decided to follow.,0.3636363636363637,0.45922863
+<i>Tomorrow?</i>,《あした？》,"""tomorrow?""",0.25,0.6062711
+"If you complete this mission, Itachi...",この任務が成功すれば➡,If this mission is successful,0.3,0.45799685
 "your entrance into
-the Anbu Black Ops is almost assured!",イタチ…お前の暗部への入隊がほぼ内定する｡,Itachi ... Admission to your dark part is almost considered.,0.15789473684210525
-"You understand, right?",(ﾌｶﾞｸ)分かってるな？,I know?,0.14285714285714285
+the Anbu Black Ops is almost assured!",イタチ…お前の暗部への入隊がほぼ内定する｡,Itachi ... Admission to your dark part is almost considered.,0.15789473684210525,0.35952055
+"You understand, right?",(ﾌｶﾞｸ)分かってるな？,I know?,0.14285714285714285,0.3369313
 "You don't have to be so worried.
-More importantly...",(ｲﾀﾁ)そんなに心配しなくても大丈夫ですよ｡➡,It is okay if you don't worry so much.,0.2777777777777778
-Umm... Father...,あの…父さん｡,That ... Father.,0.4
+More importantly...",(ｲﾀﾁ)そんなに心配しなくても大丈夫ですよ｡➡,It is okay if you don't worry so much.,0.2777777777777778,0.67058396
+Umm... Father...,あの…父さん｡,That ... Father.,0.4,0.7369793
 "Tomorrow's mission will be
-a very important mission not just for you,",あしたの任務はお前だけではなく➡,The mission of tomorrow is not only you,0.23529411764705882
-"I'm quitting tomorrow's mission, after all.",あしたは俺の…｡,I'm sorry ....,0.25
-What're you doing talking insanity?!,何を血迷ったことを言ってる!?,What did you think of blood?,0.25
+a very important mission not just for you,",あしたの任務はお前だけではなく➡,The mission of tomorrow is not only you,0.2352941176470588,0.7701159
+"I'm quitting tomorrow's mission, after all.",あしたは俺の…｡,I'm sorry ....,0.25,0.21661791
+What're you doing talking insanity?!,何を血迷ったことを言ってる!?,What did you think of blood?,0.25,0.053749043
 "You should know how important
-a day tomorrow is!",あしたがどれほど大事な日かお前にも分かっているはずだ！,It should be understood any important day or before tomorrow!,0.3125
+a day tomorrow is!",あしたがどれほど大事な日かお前にも分かっているはずだ！,It should be understood any important day or before tomorrow!,0.3125,0.68262905
 "I'm going to Sasuke's Academy
-entrance ceremony tomorrow...",あしたはサスケのアカデミーの入学式についてくよ｡,I'm sorry about the entrance ceremony of Sasuke's Academy.,0.4375
+entrance ceremony tomorrow...",あしたはサスケのアカデミーの入学式についてくよ｡,I'm sorry about the entrance ceremony of Sasuke's Academy.,0.4375,0.7598993
 "The general rule is for relatives
-to attend the Academy entrance ceremony.",身内が参列するのが通例｡,It is customary for the attention to attend.,0.4
-"There was the notice, right... Father?",通達があったでしょ？父上｡,There was a notification?father.,0.3333333333333333
-I'll go to the Academy...,もう分かったアカデミーへは俺が行く｡,I will go to the academy already understood.,0.45454545454545453
-Your left leg...,左足ちゃんと冷やしとけよ｡,Left foot and cold.,0.125
-Entrance Ceremony,アカデミーの入学式には➡,In the entrance ceremony of the academy,0.3333333333333333
+to attend the Academy entrance ceremony.",身内が参列するのが通例｡,It is customary for the attention to attend.,0.4,0.42000547
+"There was the notice, right... Father?",通達があったでしょ？父上｡,There was a notification?father.,0.3333333333333333,0.7469851
+I'll go to the Academy...,もう分かったアカデミーへは俺が行く｡,I will go to the academy already understood.,0.4545454545454545,0.76778597
+Your left leg...,左足ちゃんと冷やしとけよ｡,Left foot and cold.,0.125,0.6138758
+Entrance Ceremony,アカデミーの入学式には➡,In the entrance ceremony of the academy,0.3333333333333333,0.7484806
 "Everyone! Congratulations
-on your entrance!",(猿飛)皆さん入学おめでとう｡➡,Congratulations to everyone.,0.25
+on your entrance!",(猿飛)皆さん入学おめでとう｡➡,Congratulations to everyone.,0.25,0.5996685
 "From here on, please work very hard
-towards striving for the Shinobi path.",これからは忍の道を目指す者として大いに励んでください｡➡,"From now on, please be a great person who aims to be a Shinobu. ➡",0.2
+towards striving for the Shinobi path.",これからは忍の道を目指す者として大いに励んでください｡➡,"From now on, please be a great person who aims to be a Shinobu. ➡",0.2,0.6844422
 "Gee... I remember
-the time when Itachi entered.",(教師)いやぁイタチ君が入ってきた時のことを思い出しますよ｡,I remember when you came in.,0.3076923076923077
-Just what I'd expect from his brother.,《兄さん…何て遠いんだ…》,"""My brother ... I'm far from ...""",0.2
+the time when Itachi entered.",(教師)いやぁイタチ君が入ってきた時のことを思い出しますよ｡,I remember when you came in.,0.3076923076923077,0.4556453
+Just what I'd expect from his brother.,《兄さん…何て遠いんだ…》,"""My brother ... I'm far from ...""",0.2,0.43236807
 "The first prodigy since the beginning
-of the Academy...",アカデミー始まって以来の天才｡,A genius since the beginning of the academy.,0.45454545454545453
+of the Academy...",アカデミー始まって以来の天才｡,A genius since the beginning of the academy.,0.4545454545454545,0.66445535
 "There were no students
-as exceptional as that boy.",あの子ほど優秀な生徒はいませんでしたよ｡,There was no excellent student as much as that child.,0.35714285714285715
-That's a bit too much praise.,(ﾌｶﾞｸ)それはちと褒め過ぎですな｡,It's too much praising.,0.4
-"I'm hopeful for you, too.",君にも期待してるよ｡,I'm expecting you to you.,0.4
+as exceptional as that boy.",あの子ほど優秀な生徒はいませんでしたよ｡,There was no excellent student as much as that child.,0.35714285714285715,0.8380623
+That's a bit too much praise.,(ﾌｶﾞｸ)それはちと褒め過ぎですな｡,It's too much praising.,0.4,0.6637534
+"I'm hopeful for you, too.",君にも期待してるよ｡,I'm expecting you to you.,0.4,0.500799
 "Become a fine Shinobi
-like your big brother.",兄さんのように立派な忍になれよ｡,Become a good Shinobu like my brother.,0.4166666666666667
-"Hey... That's Uchiha, right?",(生徒１)おいあれってうちはだよな？,It's all right now?,0.2727272727272727
-Yeah.,はい…｡,Yes….,0.3333333333333333
-Hmm... Must be.,(教師)いやいやいやいや…｡➡,No No No Noh Yey ....,0.25
-"You want some too, Shikamaru?",(ﾁｮｳｼﾞ)シカマルも食う？,Do you eat Shikamaru?,0.3333333333333333
+like your big brother.",兄さんのように立派な忍になれよ｡,Become a good Shinobu like my brother.,0.4166666666666667,0.8818884
+"Hey... That's Uchiha, right?",(生徒１)おいあれってうちはだよな？,It's all right now?,0.2727272727272727,0.20297296
+Yeah.,はい…｡,Yes….,0.3333333333333333,0.57422805
+Hmm... Must be.,(教師)いやいやいやいや…｡➡,No No No Noh Yey ....,0.25,0.24065436
+"You want some too, Shikamaru?",(ﾁｮｳｼﾞ)シカマルも食う？,Do you eat Shikamaru?,0.3333333333333333,0.628908
 "I mean, all of your recesses
-have become meal times.",つうかお前休み時間が全部食事時間になってんぞ｡,Tsuruka Your Holiday All time is eating time.,0.17647058823529413
-Really...,ハァハァ…｡,Ha ha ....,0.25
+have become meal times.",つうかお前休み時間が全部食事時間になってんぞ｡,Tsuruka Your Holiday All time is eating time.,0.17647058823529413,0.28002357
+Really...,ハァハァ…｡,Ha ha ....,0.25,0.34048417
 "You should rest your body
-on your days off at least.",ちゃんと体を休めなさい｡,Put your body properly.,0.23076923076923078
-You don't have to push it.,痛っ｡(ﾐｺﾄ)無理しなくていいのよ｡,It hurts.  Don't overdo it.,0.4
+on your days off at least.",ちゃんと体を休めなさい｡,Put your body properly.,0.2307692307692308,0.44050017
+You don't have to push it.,痛っ｡(ﾐｺﾄ)無理しなくていいのよ｡,It hurts.  Don't overdo it.,0.4,0.27727646
 "I heard... that Big Brother graduated
-from the Academy in just one year.",兄さんたった１年でｱｶﾃﾞﾐｰを卒業したんだってさ｡,My brother graduated from Academy in just a year.,0.47058823529411764
-"The times are different, then and now.",(ﾐｺﾄ)あのころと今とじゃ時代が違うわ｡➡,That's right and now the times are different. ➡,0.5384615384615384
-"Besides, that kid is a bit special, so...",あの子はちょっと特別だから｡,That child is a bit special.,0.4166666666666667
-<i>That's my boy...</i>,(ﾌｶﾞｸ)＜さすが俺の子だ＞,<It is my child>,0.25
+from the Academy in just one year.",兄さんたった１年でｱｶﾃﾞﾐｰを卒業したんだってさ｡,My brother graduated from Academy in just a year.,0.4705882352941176,0.775987
+"The times are different, then and now.",(ﾐｺﾄ)あのころと今とじゃ時代が違うわ｡➡,That's right and now the times are different. ➡,0.5384615384615384,0.8184105
+"Besides, that kid is a bit special, so...",あの子はちょっと特別だから｡,That child is a bit special.,0.4166666666666667,0.8287766
+<i>That's my boy...</i>,(ﾌｶﾞｸ)＜さすが俺の子だ＞,<It is my child>,0.25,0.7050233
 "Do a fine job in this vein like
-your big brother.",この調子で兄さんのように立派にやりなさい｡,Do it as an older brother in this condition.,0.29411764705882354
+your big brother.",この調子で兄さんのように立派にやりなさい｡,Do it as an older brother in this condition.,0.29411764705882354,0.455583
 "<i>Father... I wanted you to say,</i>
-<i>""That's my boy,"" to me...</i>",｢さすが俺の子だ｣って言ってほしかったんだ…》,"I wanted to say ""I'm a child"" ... """,0.2857142857142857
+<i>""That's my boy,"" to me...</i>",｢さすが俺の子だ｣って言ってほしかったんだ…》,"I wanted to say ""I'm a child"" ... """,0.2857142857142857,0.55369973
 "What do you mean you can't participate
-in the assembly tomorrow?!",(ﾌｶﾞｸ)何だと？あしたの会合に出られないとはどういうことだ！,What?What does it mean that you can not go to the meeting of tomorrow!,0.3181818181818182
-You don't understand your own position!,お前は自分の立場が分かっていない｡,You do not know your position.,0.36363636363636365
-I'm setting out on a mission tomorrow.,(ｲﾀﾁ)俺はあした任務に就く｡,I will go to the mission for tomorrow.,0.2857142857142857
-What mission?!,何の任務だ？,What's the task?,0.2857142857142857
-with the keystone of the village.,(ﾌｶﾞｸ)イタチお前は一族と里の中枢をつなぐ➡,Itachi You will connect the central of the family and the village,0.23076923076923078
-"You know that, don't you?",それは分かってるな？,Do you know that?,0.7142857142857143
+in the assembly tomorrow?!",(ﾌｶﾞｸ)何だと？あしたの会合に出られないとはどういうことだ！,What?What does it mean that you can not go to the meeting of tomorrow!,0.3181818181818182,0.6613005
+You don't understand your own position!,お前は自分の立場が分かっていない｡,You do not know your position.,0.3636363636363637,0.6842127
+I'm setting out on a mission tomorrow.,(ｲﾀﾁ)俺はあした任務に就く｡,I will go to the mission for tomorrow.,0.2857142857142857,0.8219367
+What mission?!,何の任務だ？,What's the task?,0.2857142857142857,0.3265132
+with the keystone of the village.,(ﾌｶﾞｸ)イタチお前は一族と里の中枢をつなぐ➡,Itachi You will connect the central of the family and the village,0.2307692307692308,0.49223903
+"You know that, don't you?",それは分かってるな？,Do you know that?,0.7142857142857143,0.50101274
 "Keep that well in mind!
-And come to tomorrow's assembly!",そしてあしたの会合には来い｡,And come to the meeting of tomorrow.,0.25
+And come to tomorrow's assembly!",そしてあしたの会合には来い｡,And come to the meeting of tomorrow.,0.25,0.51572704
 "Get to bed after
-you've gone to the bathroom.",トイレに行ったら早く寝ろよ｡,Go to bed early if you go to the bathroom.,0.46153846153846156
+you've gone to the bathroom.",トイレに行ったら早く寝ろよ｡,Go to bed early if you go to the bathroom.,0.4615384615384616,0.8684714
 "What're you doing hanging around
-this late at night?",(ﾌｶﾞｸ)こんな夜中に何をウロウロしてる！➡,What is it in such a night?➡,0.17647058823529413
-Okay.,サスケ｡(ﾌｶﾞｸ･ﾐｺﾄ)あっ…｡,Sasuke. .,0.3333333333333333
-Am I loathsome to you?,俺が疎ましいか？,Is I sparse?,0.25
-It's okay.,道理ってもんだからな｡,It is because it is a promise.,0.25
+this late at night?",(ﾌｶﾞｸ)こんな夜中に何をウロウロしてる！➡,What is it in such a night?➡,0.17647058823529413,0.58392924
+Okay.,サスケ｡(ﾌｶﾞｸ･ﾐｺﾄ)あっ…｡,Sasuke. .,0.3333333333333333,0.13173741
+Am I loathsome to you?,俺が疎ましいか？,Is I sparse?,0.25,0.19619222
+It's okay.,道理ってもんだからな｡,It is because it is a promise.,0.25,0.21169011
 "It's logical for Shinobi to be
-ill thought of by people, so...",忍ってのは人に憎まれ生きていくのが➡,It is hate and lives to people,0.15789473684210525
+ill thought of by people, so...",忍ってのは人に憎まれ生きていくのが➡,It is hate and lives to people,0.15789473684210525,0.18030168
 "If you have power,
-you become alienated and also arrogant.",力を持てば孤立もするし傲慢にもなってくる｡,"If you have power, it will be isolated and arrogant.",0.5333333333333333
+you become alienated and also arrogant.",力を持てば孤立もするし傲慢にもなってくる｡,"If you have power, it will be isolated and arrogant.",0.5333333333333333,0.77549267
 "Even if you're coveted
-and sought after at first.",最初は望まれ求められていたとしてもだ｡,At first it is also desired and required.,0.25
+and sought after at first.",最初は望まれ求められていたとしてもだ｡,At first it is also desired and required.,0.25,0.47659305
 "I will continue to exist with you
-as a wall you must get over...",俺はお前と共にあり続けるのさ｡,I will continue with you.,0.3333333333333333
+as a wall you must get over...",俺はお前と共にあり続けるのさ｡,I will continue with you.,0.3333333333333333,0.51864314
 "Even if I'm ill-thought of...
-That's what a big brother is.",それが兄貴ってもんだ｡(戸が開く音),That's my brother.,0.25
-Is Itachi home?!,(ｲﾅﾋﾞ)イタチはいるか!?話がある！,Is there a Itachi?,0.42857142857142855
+That's what a big brother is.",それが兄貴ってもんだ｡(戸が開く音),That's my brother.,0.25,0.43462107
+Is Itachi home?!,(ｲﾅﾋﾞ)イタチはいるか!?話がある！,Is there a Itachi?,0.42857142857142855,0.7918562
 "There are two people who didn't come
-to yesterday's assembly.",きのうの会合に来なかったヤツが２人いる｡,There are two guys who did not come to the Meeting.,0.47058823529411764
-Why didn't you come?!,お前はなぜ来なかった？,Why didn't you come?,0.8571428571428571
+to yesterday's assembly.",きのうの会合に来なかったヤツが２人いる｡,There are two guys who did not come to the Meeting.,0.4705882352941176,0.6325327
+Why didn't you come?!,お前はなぜ来なかった？,Why didn't you come?,0.8571428571428571,0.9242525
 "<i>He didn't go to the assembly Father</i>
-<i>was talking about last night, after all.</i>",会合には行かなかったんだ》,"I did not go to the meeting. """,0.21739130434782608
+<i>was talking about last night, after all.</i>",会合には行かなかったんだ》,"I did not go to the meeting. """,0.21739130434782608,0.39230895
 "Your father also said something
-like that in your defense.",お前の父上もそう言い何かとかばってはいるが…｡,Some of your father also say something ....,0.35714285714285715
+like that in your defense.",お前の父上もそう言い何かとかばってはいるが…｡,Some of your father also say something ....,0.35714285714285715,0.7044903
 "But for us, we don't intend
-to treat you special.",(ﾔｼﾛ)しかしわれわれとしてはお前を特別扱いする気はない｡,only seems to be treated as special as you are.,0.21052631578947367
-Understood. I shall be careful next time.,以後気を付けましょう｡,Let's be careful.,0.3
+to treat you special.",(ﾔｼﾛ)しかしわれわれとしてはお前を特別扱いする気はない｡,only seems to be treated as special as you are.,0.21052631578947367,0.6386817
+Understood. I shall be careful next time.,以後気を付けましょう｡,Let's be careful.,0.3,0.58753926
 "Right... But before that,
-there's a little more I want to ask you...",だがその前にもう少しだけ聞きたいことがあってな…｡,But there is something I want to hear a little more before ....,0.5
+there's a little more I want to ask you...",だがその前にもう少しだけ聞きたいことがあってな…｡,But there is something I want to hear a little more before ....,0.5,0.62624395
 "It's about Shisui Uchiha who threw himself
-into the Nakano River to kill himself.",(ﾔｼﾛ)昨夜南賀ノ川に身投げして自殺した➡,Last night I threw suicide in the South Happy River,0.13636363636363635
+into the Nakano River to kill himself.",(ﾔｼﾛ)昨夜南賀ノ川に身投げして自殺した➡,Last night I threw suicide in the South Happy River,0.13636363636363635,0.24959487
 "The other person who didn't come
-to the assembly is that Shisui.",会合に来なかったもう一人がそのシスイだ｡,Another one who did not come to the meeting is that shisy.,0.4444444444444444
-I see... I hadn't seen him at all recently.,最近は全く会ってなかったが…｡,Recently I did not meet at all ....,0.42857142857142855
-That's too bad.,そうですか…｡,Is that so….,0.2857142857142857
+to the assembly is that Shisui.",会合に来なかったもう一人がそのシスイだ｡,Another one who did not come to the meeting is that shisy.,0.4444444444444444,0.6215792
+I see... I hadn't seen him at all recently.,最近は全く会ってなかったが…｡,Recently I did not meet at all ....,0.42857142857142855,0.38992614
+That's too bad.,そうですか…｡,Is that so….,0.2857142857142857,0.26788792
 "And we the Police Force have decided
-to launch an all-out investigation.",全力で捜査に乗り出すことを決定した｡,It was decided to embark on the investigation with all power.,0.25
-Investigation?!,(ｲﾀﾁ)捜査？,investigation?,0.6666666666666666
-This is the will Shisui wrote.,これがシスイの書いた遺書だ｡,This is the lummer of Sysny.,0.4
+to launch an all-out investigation.",全力で捜査に乗り出すことを決定した｡,It was decided to embark on the investigation with all power.,0.25,0.6225411
+Investigation?!,(ｲﾀﾁ)捜査？,investigation?,0.6666666666666666,0.89709765
+This is the will Shisui wrote.,これがシスイの書いた遺書だ｡,This is the lummer of Sysny.,0.4,0.13055399
 "The analysis of the handwriting
-has been completed.",筆跡の鑑定は済んでる｡,Appraisal of handwriting is completed.,0.4
-"No mistake, he did indeed write it.",間違いなく本人が書いたものだ｡,It is definitely what he writes.,0.23076923076923078
+has been completed.",筆跡の鑑定は済んでる｡,Appraisal of handwriting is completed.,0.4,0.83471954
+"No mistake, he did indeed write it.",間違いなく本人が書いたものだ｡,It is definitely what he writes.,0.2307692307692308,0.5910004
 "If there are no murder leads,
-then what's the investigation?",他殺の線がないなら何の捜査ですか？,What is an investigation if there is no other kill line?,0.3333333333333333
+then what's the investigation?",他殺の線がないなら何の捜査ですか？,What is an investigation if there is no other kill line?,0.3333333333333333,0.7218708
 "It'd be easy for a person who can use
-Sharingan to copy handwriting, you see...",写輪眼を使える者なら➡,If it is a person who can use the mochi eyes,0.2608695652173913
+Sharingan to copy handwriting, you see...",写輪眼を使える者なら➡,If it is a person who can use the mochi eyes,0.2608695652173913,0.23225492
 "He was a man who would take
-the lead no matter what the mission",一族のためならどんな任務でも先立ってやる男だった｡,It was a man who played before any mission for the family.,0.3
-It's tough to think that,(ｲﾅﾋﾞ)そんな男がこんなものを残して自殺するとは考えづらい｡,It is hard to think that such a man will commit suicide with such a thing.,0.23529411764705882
+the lead no matter what the mission",一族のためならどんな任務でも先立ってやる男だった｡,It was a man who played before any mission for the family.,0.3,0.6058865
+It's tough to think that,(ｲﾅﾋﾞ)そんな男がこんなものを残して自殺するとは考えづらい｡,It is hard to think that such a man will commit suicide with such a thing.,0.2352941176470588,0.35230646
 "You shouldn't judge people...
-only on looks and speculation.",人を判断しないほうがいいですよ｡,You should not judge people.,0.38461538461538464
+only on looks and speculation.",人を判断しないほうがいいですよ｡,You should not judge people.,0.38461538461538464,0.7303061
 "For the time being,
-I leave the will with you.",(ｲﾅﾋﾞ)とりあえずその遺書をお前に預ける｡➡,"For the time being, I will leave the leuko in your",0.5714285714285714
+I leave the will with you.",(ｲﾅﾋﾞ)とりあえずその遺書をお前に預ける｡➡,"For the time being, I will leave the leuko in your",0.5714285714285714,0.38745597
 "Take that and you request cooperation
-in the investigation from Anbu Black Ops.",それを持ってお前から暗部にも捜査協力を要請しろ｡,Have it asked for investigation to cooperate in the dark.,0.19047619047619047
-I hope we get a lead.,(ｲﾀﾁ)了解しました｡,I understand.,0.25
+in the investigation from Anbu Black Ops.",それを持ってお前から暗部にも捜査協力を要請しろ｡,Have it asked for investigation to cooperate in the dark.,0.19047619047619047,0.5859287
+I hope we get a lead.,(ｲﾀﾁ)了解しました｡,I understand.,0.25,0.07759302
 "Also, we have a different route
-to Anbu Black Ops.",それと俺たちにも暗部には別ルートだってある｡,And we also have a separate route on the dark part.,0.3333333333333333
+to Anbu Black Ops.",それと俺たちにも暗部には別ルートだってある｡,And we also have a separate route on the dark part.,0.3333333333333333,0.5461006
 "We'll know right away if you do something
-like crushing the investigation request.",捜査要請を握りつぶしたりすれば➡,If you hold a request for investigation requests,0.21052631578947367
+like crushing the investigation request.",捜査要請を握りつぶしたりすれば➡,If you hold a request for investigation requests,0.21052631578947367,0.71321326
 "Why don't you just come right out
-and say it?",(ｲﾀﾁ)もっと直接的に言ったらどうです？,How is it if you say more directly?,0.23529411764705882
-"You suspect me, right?",俺を疑ってるってわけか｡,Do you suspect me?,0.5714285714285714
-"Yeah. That's right, you little punk...",ああそうだくそガキ｡,Oh yeah Gaki.,0.16666666666666666
-it'll cost you!,いいか？イタチ！,Is it okay?Itachi!,0.2222222222222222
-I told you before.,さっきも言ったはずだ｡,I should have said it just.,0.2
+and say it?",(ｲﾀﾁ)もっと直接的に言ったらどうです？,How is it if you say more directly?,0.2352941176470588,0.44957095
+"You suspect me, right?",俺を疑ってるってわけか｡,Do you suspect me?,0.5714285714285714,0.8643756
+"Yeah. That's right, you little punk...",ああそうだくそガキ｡,Oh yeah Gaki.,0.16666666666666666,0.049622227
+it'll cost you!,いいか？イタチ！,Is it okay?Itachi!,0.2222222222222222,0.09920402
+I told you before.,さっきも言ったはずだ｡,I should have said it just.,0.2,0.41456693
 "It's because you take the liberty to
-judge me as patient and take me lightly.",見た目や思い込みだけで人を判断しないほうがいい｡,It is better not to judge the person only with the appearance and the idea.,0.2608695652173913
-Clan... Clan...,(ｲﾅﾋﾞたち)あ…あぁ…｡,A ....,0.25
+judge me as patient and take me lightly.",見た目や思い込みだけで人を判断しないほうがいい｡,It is better not to judge the person only with the appearance and the idea.,0.2608695652173913,0.26577732
+Clan... Clan...,(ｲﾅﾋﾞたち)あ…あぁ…｡,A ....,0.25,0.2529591
 "You measure incorrectly
-the size of your own vessels",そういうあんたらは己の器の大きさを量り違え➡,Such an anchoroids the size of the theater,0.23076923076923078
+the size of your own vessels",そういうあんたらは己の器の大きさを量り違え➡,Such an anchoroids the size of the theater,0.2307692307692308,0.18444048
 "and don't know the depth of mine,
-so you grovel there...",俺の器の深さを知らぬから➡,I do not know the depth of my bowl ➡,0.2631578947368421
-<i>I've never seen him like this...</i>,《こんな兄さん今まで見たこと…》,"""I have seen such an older brother ...""",0.16666666666666666
-Shisui... was monitoring you recently...,シスイは…最近のお前を監視していた｡,Sysny ... I was monitoring the recent.,0.2727272727272727
-Half a year after entering Anbu...,暗部に入って半年…｡,Half year in the dark part ....,0.25
+so you grovel there...",俺の器の深さを知らぬから➡,I do not know the depth of my bowl ➡,0.2631578947368421,0.56729805
+<i>I've never seen him like this...</i>,《こんな兄さん今まで見たこと…》,"""I have seen such an older brother ...""",0.16666666666666666,0.39859483
+Shisui... was monitoring you recently...,シスイは…最近のお前を監視していた｡,Sysny ... I was monitoring the recent.,0.2727272727272727,0.35133108
+Half a year after entering Anbu...,暗部に入って半年…｡,Half year in the dark part ....,0.25,0.4463099
 "the strangeness of your behavior
-couldn't be overlooked.",最近のお前の言動のおかしさは➡,The details of your story recent,0.23076923076923078
+couldn't be overlooked.",最近のお前の言動のおかしさは➡,The details of your story recent,0.2307692307692308,0.26892507
 "fixated on the clan,
-fixated on the name.",(ｲﾀﾁ)組織に執着し一族に執着し名に執着する｡➡,obsessed with the organization and obsessed the family and obsessed with the name. ➡,0.23076923076923078
-And it's a foolish thing...,知らぬものを恐れ憎しむ愚かしきこと｡,A foolish thing to be afraid of something unknown.,0.21428571428571427
-"Stop, Itachi!",(ﾌｶﾞｸ)やめろイタチ！,Yamaro Itachi!,0.4
+fixated on the name.",(ｲﾀﾁ)組織に執着し一族に執着し名に執着する｡➡,obsessed with the organization and obsessed the family and obsessed with the name. ➡,0.2307692307692308,0.29700032
+And it's a foolish thing...,知らぬものを恐れ憎しむ愚かしきこと｡,A foolish thing to be afraid of something unknown.,0.21428571428571427,0.4482854
+"Stop, Itachi!",(ﾌｶﾞｸ)やめろイタチ！,Yamaro Itachi!,0.4,0.7382816
 "Itachi...
-You've been a little strange lately.",イタチお前最近少し変だぞ｡,Itachi I'm a little strange recently.,0.38461538461538464
+You've been a little strange lately.",イタチお前最近少し変だぞ｡,Itachi I'm a little strange recently.,0.38461538461538464,0.92974627
 "I'm carrying out my own role...
-That's it.",自分の役割を果たしているそれだけだ｡,That's the only way of playing my role.,0.29411764705882354
-Then why didn't you come last night?,じゃあなぜゆうべは来なかった？,"Well, did you not come?",0.3333333333333333
-What're you talking about?,一体どうしたというんだ？➡,What did you do?➡,0.3333333333333333
+That's it.",自分の役割を果たしているそれだけだ｡,That's the only way of playing my role.,0.29411764705882354,0.5787589
+Then why didn't you come last night?,じゃあなぜゆうべは来なかった？,"Well, did you not come?",0.3333333333333333,0.5905351
+What're you talking about?,一体どうしたというんだ？➡,What did you do?➡,0.3333333333333333,0.14687765
 "My vessel is dismayed
-at this foolish clan!",俺の器は➡,My bowl is ➡,0.18181818181818182
+at this foolish clan!",俺の器は➡,My bowl is ➡,0.18181818181818185,0.099232756
 "<i>been in charge protecting</i>
-<i>the peace of this village.</i>",このくだらぬ一族に絶望している｡,I am despairing this silly family.,0.1111111111111111
+<i>the peace of this village.</i>",このくだらぬ一族に絶望している｡,I am despairing this silly family.,0.1111111111111111,0.18361636
 "<i>The Uchiha crest is a testament</i>
-<i>to the proud clan.</i>",その誇り高き一族の証しでもあるんだよ＞,It is also a provision of its proud family>,0.21052631578947367
-you lose sight of what's truly important.,本当に大切なものを見失う｡,Call the things really important.,0.15384615384615385
+<i>to the proud clan.</i>",その誇り高き一族の証しでもあるんだよ＞,It is also a provision of its proud family>,0.21052631578947367,0.419188
+you lose sight of what's truly important.,本当に大切なものを見失う｡,Call the things really important.,0.15384615384615385,0.4724775
 "True change cannot be made if stuck
-within the restrictions of regulations,",規制に制約予感や想像の枠に収まりきっていてはできない｡,Regulations can not be fitted to constraints for constraints and imagination frames.,0.18181818181818182
-Saying such arrogant things!,傲慢なことを…｡(ﾔｼﾛ)もういい！,Arrogant thing ....  already good!,0.2
+within the restrictions of regulations,",規制に制約予感や想像の枠に収まりきっていてはできない｡,Regulations can not be fitted to constraints for constraints and imagination frames.,0.18181818181818185,0.6430236
+Saying such arrogant things!,傲慢なことを…｡(ﾔｼﾛ)もういい！,Arrogant thing ....  already good!,0.2,0.62579644
 "Enough! You'll be imprisoned
-if you say any more foolish nonsense.",それ以上くだらぬざれ言を言うなら➡,If you say something more than that,0.25
+if you say any more foolish nonsense.",それ以上くだらぬざれ言を言うなら➡,If you say something more than that,0.25,0.32663873
 "<i>If you have power,</i>
-<i>you become alienated and also arrogant...</i>",力を持てば孤立もするし傲慢にもなってくる｡➡,"If you have power, it will be isolated and arrogant.",0.35
+<i>you become alienated and also arrogant...</i>",力を持てば孤立もするし傲慢にもなってくる｡➡,"If you have power, it will be isolated and arrogant.",0.35,0.7244944
 "<i>even if you're coveted</i>
-<i>and sought after at first...</i>",最初は望まれ求められていたとしてもだ＞,"At first, it is also desired and required.",0.13636363636363635
-<i>Why... Big Brother?</i>,《何で…兄さん…》,"""Which ... brother ...""",0.16666666666666666
-What do you say?!,(ﾔｼﾛ)さぁどうするんだ!?,Well what do you do?,0.5714285714285714
-Big Brother! Stop it already!,兄さんもうやめてよ！,My brother should stop!,0.375
-I'm not the one who killed Shisui.,(ｲﾀﾁ)シスイを殺したのは俺じゃない｡➡,I'm not me who killed Sisui.,0.5454545454545454
+<i>and sought after at first...</i>",最初は望まれ求められていたとしてもだ＞,"At first, it is also desired and required.",0.13636363636363635,0.39572993
+<i>Why... Big Brother?</i>,《何で…兄さん…》,"""Which ... brother ...""",0.16666666666666666,0.42830914
+What do you say?!,(ﾔｼﾛ)さぁどうするんだ!?,Well what do you do?,0.5714285714285714,0.34531128
+Big Brother! Stop it already!,兄さんもうやめてよ！,My brother should stop!,0.375,0.6249464
+I'm not the one who killed Shisui.,(ｲﾀﾁ)シスイを殺したのは俺じゃない｡➡,I'm not me who killed Sisui.,0.5454545454545454,0.62936294
 "But I apologize for
-my numerous slips of the tongue.",けれど数々の失言は謝ります｡➡,I apologize for a number of words.,0.35714285714285715
-I'm very sorry...,申し訳ありません｡,I'm sorry.,0.5
-and was a little tired...,少し疲れていたようだな｡,It seems to have been a little tired.,0.25
-Captain!,隊長！,Captain!,1.0
+my numerous slips of the tongue.",けれど数々の失言は謝ります｡➡,I apologize for a number of words.,0.35714285714285715,0.6756484
+I'm very sorry...,申し訳ありません｡,I'm sorry.,0.5,0.7455917
+and was a little tired...,少し疲れていたようだな｡,It seems to have been a little tired.,0.25,0.5867911
+Captain!,隊長！,Captain!,1.0,1.0000004
 "The Anbu Black Ops is a force
-under the direct control of Lord Hokage...",(ﾌｶﾞｸ)暗部は火影様の直轄部隊｡➡,The dark part is a direct controlling unit of fire-like.,0.25
+under the direct control of Lord Hokage...",(ﾌｶﾞｸ)暗部は火影様の直轄部隊｡➡,The dark part is a direct controlling unit of fire-like.,0.25,0.3171409
 "Even we the Police Force can't arrest him,
-if we don't have an arrest warrant.",いくらわれわれ警務部隊でも➡,How about the police unit,0.10526315789473684
-And as for Itachi...,(ﾌｶﾞｸ)それにイタチのことは…➡,That's about Itachi ... ➡,0.2222222222222222
-"With this, you've woken up, right?",お前のほうこそこれで目が覚めたんじゃないか？,You won't wake up with you this?,0.4166666666666667
-But it won't be like that this time.,今度はそうはいかない｡,This time I can not do it.,0.2857142857142857
+if we don't have an arrest warrant.",いくらわれわれ警務部隊でも➡,How about the police unit,0.10526315789473684,0.34716955
+And as for Itachi...,(ﾌｶﾞｸ)それにイタチのことは…➡,That's about Itachi ... ➡,0.2222222222222222,0.8648907
+"With this, you've woken up, right?",お前のほうこそこれで目が覚めたんじゃないか？,You won't wake up with you this?,0.4166666666666667,0.66193926
+But it won't be like that this time.,今度はそうはいかない｡,This time I can not do it.,0.2857142857142857,0.33871934
 "I'll show you...
-the true power of Sharingan.",見せてやるよ｡,I will show you.,0.3333333333333333
+the true power of Sharingan.",見せてやるよ｡,I will show you.,0.3333333333333333,0.45697606
 "<i>Held in my two hands</i>
-<i>A droplet of time</i>",♬この両手に抱えているもの,♬ What is held on both hands,0.1111111111111111
+<i>A droplet of time</i>",♬この両手に抱えているもの,♬ What is held on both hands,0.1111111111111111,0.49051553
 "<i>Softly clutching forgotten memories</i>
-<i>Lost words</i>",♬色褪せた言葉は,Daddy Words,0.09090909090909091
-<i>I'll keep these thoughts...</i>,♬ただそれだけを,♬ I just,0.09090909090909091
+<i>Lost words</i>",♬色褪せた言葉は,Daddy Words,0.09090909090909093,0.334548
+<i>I'll keep these thoughts...</i>,♬ただそれだけを,♬ I just,0.09090909090909093,0.38757685
 "You were talking impudently
-about your Way of Ninja",♬一片の温もりと,♬ Moon of one piece,0.07692307692307693
-and this is all you've got?,♬この思いは,♬ This thought,0.1
+about your Way of Ninja",♬一片の温もりと,♬ Moon of one piece,0.07692307692307693,0.049743105
+and this is all you've got?,♬この思いは,♬ This thought,0.1,0.047816563
 "You've gotta be kidding! Right now,
-you're not even worth beating!",♬時のしずく,Shizuku when,0.0
+you're not even worth beating!",♬時のしずく,Shizuku when,0.0,0.070343226

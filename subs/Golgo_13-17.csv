@@ -1,235 +1,235 @@
-en_text,jp_text,google_translated,score
-Gomez!,（女）ゴメス！,Gomez!,1.0
-Search over there!,（手下）あっちを探せ,Find there,0.2
+en_text,jp_text,google_translated,score,semantic_score
+Gomez!,（女）ゴメス！,Gomez!,1.0,1.0
+Search over there!,（手下）あっちを探せ,Find there,0.2,0.554343
 "Your streak of evil luck has\Njust run out, Golgo 13.","（レオン）お前の悪運もここまでだ
 ゴルゴ13","Your bad luck is also up to here
-Golgo 13",0.2222222222222222
+Golgo 13",0.2222222222222222,0.7821851
 "Regarding this shooting incident\Nthat occurred in San Francisco,","{\an8}サンフランシスコでの
 狙撃(そげき)射殺事件","in San Francisco
-Sniper  shooting case",0.36363636363636365
+Sniper  shooting case",0.3636363636363637,0.7001419
 but I'm going to collect enough\Nevidence to send you to the chair.,"{\an8}一応 今の段階では
 まだ参考人だが","At the moment at this stage
-I'm still a guide",0.15789473684210525
-"I'm Leon Goldman, and I bet my career\Nas an FBI agent on it.",この私 レオン･ゴールドマンが,This private Leon Goldman,0.11764705882352941
+I'm still a guide",0.15789473684210525,0.13138719
+"I'm Leon Goldman, and I bet my career\Nas an FBI agent on it.",この私 レオン･ゴールドマンが,This private Leon Goldman,0.1176470588235294,0.6232851
 "That man from six years ago, eh?","（ゴルゴ13 心の声）
-６年前の あの男か",That man 6 years ago,0.4
-Excellent work. Got the target with one shot.,標的を見事一発で,At the point of striking the target,0.15384615384615385
+６年前の あの男か",That man 6 years ago,0.4,0.8117208
+Excellent work. Got the target with one shot.,標的を見事一発で,At the point of striking the target,0.15384615384615385,0.49792683
 "I can't find any witnesses\Nwho saw the culprit, sir.","（刑事１）犯人らしき奴(やつ)を見かけた
 目撃者は拾えません 警部","I saw the criminals 
-Witnesses can not pick up police",0.15789473684210525
-Where did he shoot from?,どこから撃ったんだ,Where did you shoot from,0.5714285714285714
-"It'd be impossible from there, don't you think?",無理でしょう　あそこからでは,It is impossible from there,0.3076923076923077
-"It's too far, Agent Goldman.",遠すぎますよ 捜査官,It's too far. Investigator,0.5555555555555556
-But...,（レオン）いや…,No ...,0.3333333333333333
+Witnesses can not pick up police",0.15789473684210525,0.52356505
+Where did he shoot from?,どこから撃ったんだ,Where did you shoot from,0.5714285714285714,0.7780657
+"It'd be impossible from there, don't you think?",無理でしょう　あそこからでは,It is impossible from there,0.3076923076923077,0.73654556
+"It's too far, Agent Goldman.",遠すぎますよ 捜査官,It's too far. Investigator,0.5555555555555556,0.6100713
+But...,（レオン）いや…,No ...,0.3333333333333333,0.44721633
 Yes?,"（レオン）だが…
 （警部）はい？","...
- Yes?",0.6666666666666666
+ Yes?",0.6666666666666666,0.78588283
 "It's the FBI's job to give us detectives orders,","俺(おれ)たち警察の捜査を指揮するのが
 ＦＢＩの仕事なのに","I'm going to direct the police investigation
-I'm working on FBI",0.15789473684210525
+I'm working on FBI",0.15789473684210525,0.6620981
 Say something! Your own boss was just killed!,"何とか言え
 お前らのボスがやられたんだぞ","Somehow
-You were killed by your boss",0.23076923076923078
+You were killed by your boss",0.2307692307692308,0.7257948
 How many times we gotta tell ya?,"何度言や わかる
 追ったんじゃなく探そうとしたんだ","Many times and understand
-I tried not to see but I tried to find",0.1111111111111111
+I tried not to see but I tried to find",0.1111111111111111,0.27171165
 But there wasn't no one suspicious nowhere!,"だけどよ どこにも
 怪しいヤツなんていなかった","But everywhere
-There was no suspicious guy",0.45454545454545453
+There was no suspicious guy",0.4545454545454545,0.8595127
 Welcome back.,"（レオン）ただいま
-（アニタ）おかえりなさい",Welcome back,0.6666666666666666
+（アニタ）おかえりなさい",Welcome back,0.6666666666666666,0.896755
 How's the case coming?,"（アニタ）事件の方はどう？
 （レオン）ん？","What is the  case?
-?",0.375
-Have you learned anything?,何かわかって？,Do you understand something?,0.25
+?",0.375,0.5864932
+Have you learned anything?,何かわかって？,Do you understand something?,0.25,0.5508251
 We have zero leads.\NNo clue at all who the killer is.,"手がかりゼロでね
 犯人の目星は全くつかない","At a hand-only zero
-There is no criminal eye star",0.15789473684210525
-Oh...,（アニタ）そう…,so ...,0.3333333333333333
-Let's eat.,いただこう,Ask,0.0
-All right.,はい,Yes,0.0
+There is no criminal eye star",0.15789473684210525,0.36019838
+Oh...,（アニタ）そう…,so ...,0.3333333333333333,0.6618313
+Let's eat.,いただこう,Ask,0.0,0.11220966
+All right.,はい,Yes,0.0,0.27437985
 Send backup at once! Stay on them and\Ndo not let them out of your sight!,"（警部）すぐに応援を回す
 はりついて絶対に目を放すな","Turn your support right away
-Don't let go of the eye",0.125
+Don't let go of the eye",0.125,0.25383413
 "Sure enough, they came in from Chicago.","やっぱり駆けつけてきましたね
 シカゴから","After all it has been rushing
-From Chicago",0.13333333333333333
+From Chicago",0.13333333333333333,0.45981225
 To find the killer themselves and\Navenge their boss's death.,"自分たちの手で犯人を見つけだし
 ボスの仇(かたき)をとるために","I found a criminal with my hand
-To take the boss of the boss",0.15
-That's right!,我々 警察のメンツが！,We are the police 's knees!,0.2222222222222222
+To take the boss of the boss",0.15,0.39451814
+That's right!,我々 警察のメンツが！,We are the police 's knees!,0.2222222222222222,0.16884097
 "This is about more than just being ""disgraced""!","何より恐れるのは一般市民が
 その報復戦の巻きぞいになることだ","General citizens are more than anything
-It is about winding the reinstatement",0.21052631578947367
+It is about winding the reinstatement",0.21052631578947367,0.18586588
 "What's with you, fool? You scared of this ball?","（男１）あ？　なに お前
 このボールが怖いのか？","Oh?In addition
-Is this ball scary?",0.1875
-I just don't like people passing behind me.,後ろへ回られるのが嫌いなだけだ,I just dislike it behind,0.25
+Is this ball scary?",0.1875,0.7113862
+I just don't like people passing behind me.,後ろへ回られるのが嫌いなだけだ,I just dislike it behind,0.25,0.5360228
 "Oh, this is rich. Hey everyone, c'mere!\NWe got us a live one!","おい みんな 来てみろ
 元気な野郎がいるぜ","Good morning everyone
-There is a good guy",0.15
+There is a good guy",0.15,0.20103243
 The General here says he won't allow\Nyou maggots to walk behind him!,"この大将がな
 てめえの後ろを歩いたら","This general
-If you walk behind the sky",0.2222222222222222
+If you walk behind the sky",0.2222222222222222,0.49339116
 "just returned from a terrorist search-and-destroy\Noperation in the Middle East, sir!","閣下(かっか) マイケル伍長(ごちょう)
 中近東におけるゲリラ掃討(そうとう)作戦より","Kakaku  Michael Chief
-Guerrilla sweeping in the middle of the east  strategy",0.2
-Move!,うりゃあっ！,Ura!,0.3333333333333333
+Guerrilla sweeping in the middle of the east  strategy",0.2,0.36010337
+Move!,うりゃあっ！,Ura!,0.3333333333333333,0.3147686
 "I used to be a little famous myself,\Nback in Wisconsin.","俺もなウィスコンシン州じゃ
 少しは鳴らしたもんさ","I am in Wisconsin
-A little ring",0.3333333333333333
-As a heavyweight title holder.,ヘビー級選手権者としてな,As a senior championship,0.25
+A little ring",0.3333333333333333,0.4717657
+As a heavyweight title holder.,ヘビー級選手権者としてな,As a senior championship,0.25,0.5312551
 "I let my guard down, thinkin'\Nyou were an amateur...","素人だと思って油断したぜ
 ぶっ殺してやる","I thought it was an amateur and shot
-I will kill",0.16666666666666666
+I will kill",0.16666666666666666,0.43256497
 "You couldn't take this guy,\Neven if you teamed up on him.","（レオン）お前たちが束になっても
 敵(かな)う相手じゃない","Even if you are bundled
-It is not the enemy",0.09090909090909091
-FBI?!,（二人同時に）ＦＢＩ！,FBI!,0.6666666666666666
-"It's been a while, Mr. Togo.",久しぶりだな ミスター東郷(とうごう),It's been a long time Mister Togo,0.4166666666666667
-"I trust you haven't forgotten me, hm?",まさか私のことを忘れてはいまいね,I'm sorry I forgot me,0.15384615384615385
+It is not the enemy",0.09090909090909093,0.15840471
+FBI?!,（二人同時に）ＦＢＩ！,FBI!,0.6666666666666666,0.90097404
+"It's been a while, Mr. Togo.",久しぶりだな ミスター東郷(とうごう),It's been a long time Mister Togo,0.4166666666666667,0.8954228
+"I trust you haven't forgotten me, hm?",まさか私のことを忘れてはいまいね,I'm sorry I forgot me,0.15384615384615385,0.61476475
 "From the moment I saw the crime scene,\NI knew it had to be your work.","私は君の仕事に違いないと
 にらんでいた","I must be your job
-It was",0.2
-"Now, seeing you again like this,\NI know my assumption was correct.",そして こうして今 君と再会し,And this way again again,0.125
-It's already been six years. Since last time.,６年だ　もうあれから…,It is six years later ...,0.23076923076923078
+It was",0.2,0.45910376
+"Now, seeing you again like this,\NI know my assumption was correct.",そして こうして今 君と再会し,And this way again again,0.125,0.30800623
+It's already been six years. Since last time.,６年だ　もうあれから…,It is six years later ...,0.2307692307692308,0.75458974
 "of that lawyer, Graham,\Nin San Francisco, I was electrified.","（レオン）サンフランシスコでの
 グラハム弁護士射殺事件で","in San Francisco
-Graham lawyer shooting incident",0.26666666666666666
+Graham lawyer shooting incident",0.26666666666666666,0.65435356
 "I thought, ""At last, I can send\NGolgo 13 to the electric chair.""","あのゴルゴ13を ついに電気イスに
 送ってやれるんだと思ってね","Finally the Golgo 13 finally
-I think I can send it",0.2
+I think I can send it",0.2,0.51077545
 "I went all over, working hard to collect evidence.","（レオン）証拠を固めるため
 私は必死に飛び回った","To solidify evidence
-I flew desperately",0.21428571428571427
-But then one day...,ところが ある日…,There is a day ...,0.25
-"We finally had you in custody,",やっと拘留できた君を,You can finally detained you,0.2222222222222222
-"who asked you to do some\N""work"" for our country.",君に国の仕事を依頼するためだ,You are to ask you to work,0.21428571428571427
-I could care less about the country's motives.,捜査官の使命として私は,I am the mission of the investigator,0.14285714285714285
+I flew desperately",0.21428571428571427,0.50835794
+But then one day...,ところが ある日…,There is a day ...,0.25,0.55526793
+"We finally had you in custody,",やっと拘留できた君を,You can finally detained you,0.2222222222222222,0.54235846
+"who asked you to do some\N""work"" for our country.",君に国の仕事を依頼するためだ,You are to ask you to work,0.21428571428571427,0.56214774
+I could care less about the country's motives.,捜査官の使命として私は,I am the mission of the investigator,0.14285714285714285,0.1589938
 "so I went to the Pentagon,\Nwhich sought your extradition","ペンタゴンの連中が
 いきなり連れ去った","Pentagon's series
-Suddenly I went away",0.2
+Suddenly I went away",0.2,0.46336174
 """Stop your investigation of Golgo 13.""","“ゴルゴ13に関する捜査は
 打ち切れ”と","""Investigation about Golgo 13
-""",0.5
-But I couldn't give up.,だが私は あきらめきれなかった,But I could not give up,0.625
+""",0.5,0.8906456
+But I couldn't give up.,だが私は あきらめきれなかった,But I could not give up,0.625,0.9223954
 "I was determined, and I dug up\Nall the data on you I could find.","その一念で私は君に関するデータを
 徹底的に調べた","At one time I have data about you
-Examined thoroughly",0.14285714285714285
+Examined thoroughly",0.14285714285714285,0.4385114
 "At the same time, I made protests\Nto the directors of the CIA and FBI.","同時にＣＩＡとＦＢＩ長官に
 抗議し続けた","At the same time CIA and FBI Secretary
-I continued to protest",0.4444444444444444
-And what I received for my efforts was...,その結果 私が得たものは…,"As a result, what I got ...",0.21428571428571427
-It's been six years.\NSince they sent me here to Hawaii.,６年だよ　このハワイに飛ばされて,"It is six years, it is skipped by this Hawaii",0.16666666666666666
+I continued to protest",0.4444444444444444,0.81498605
+And what I received for my efforts was...,その結果 私が得たものは…,"As a result, what I got ...",0.21428571428571427,0.54550284
+It's been six years.\NSince they sent me here to Hawaii.,６年だよ　このハワイに飛ばされて,"It is six years, it is skipped by this Hawaii",0.16666666666666666,0.5812398
 "Get out of Hawaii, at once.","さっさと このハワイから
 立ち去ってくれ","From this Hawaii quickly
-Get left",0.16666666666666666
-You really are a troublesome bastard.,（レオン）君は実に厄介な存在だ,You are really nasty,0.375
+Get left",0.16666666666666666,0.6667541
+You really are a troublesome bastard.,（レオン）君は実に厄介な存在だ,You are really nasty,0.375,0.4821003
 "Even if I managed to gather enough\Nevidence to arrest you,","仮に証拠をつかんで
 逮捕できたとしても","Tentative proof
-Even if I could arrest",0.3076923076923077
-there's no way it would make it to trial.,とても公判まで持ちこめない,I can not bring it to the trial,0.2
+Even if I could arrest",0.3076923076923077,0.6876109
+there's no way it would make it to trial.,とても公判まで持ちこめない,I can not bring it to the trial,0.2,0.56991315
 Both the FBI and the CIA\Nwant to keep you a secret.,"ＣＩＡもＦＢＩも君のことは
 秘密にしたがっているからね","CIA and FBI are also
-Because I felt secret",0.17647058823529413
+Because I felt secret",0.17647058823529413,0.79089606
 "With you as an opponent,\Nno matter what I do, it's a waste of effort.","君が相手では 何をしても
 ムダな努力なんだ","Whatever you do with your opponent
-Unmudable effort",0.23809523809523808
+Unmudable effort",0.2380952380952381,0.74054015
 That's why I'm looking the other way\Non this Gomez killing.,"だから私は
 今回のゴメス殺しに関しては","so I
-About this Gomez killing",0.26666666666666666
+About this Gomez killing",0.26666666666666666,0.8564277
 "And because you're looking the other way,\Nyou're telling me to leave?","見逃してやるから
 俺に立ち去れと言うのか？","Because I miss it
-Do you say that you leave?",0.19047619047619047
-Right now. Before anyone at\NHeadquarters realizes you're here.,今すぐにだ,Now,0.1
+Do you say that you leave?",0.19047619047619047,0.4721176
+Right now. Before anyone at\NHeadquarters realizes you're here.,今すぐにだ,Now,0.1,0.25980344
 Everyone's out on assignment?,"（刑事）みんな 出払っているのか
 ああ…！","Are everyone offered?
-Ah…!",0.2
+Ah…!",0.2,0.34281862
 "It was bothering me, so I did some asking\Naround at that hotel you had your eye on.","捜査官が目をつけた あのホテルで
 聞き込みを重ねたんです","That hotel was looking at the investigator
-I heard it",0.2608695652173913
-I found a witness.,（刑事）目撃者が拾えました,I picked up the witness,0.25
+I heard it",0.2608695652173913,0.5593514
+I found a witness.,（刑事）目撃者が拾えました,I picked up the witness,0.25,0.80334234
 He says he saw a suspicious guy\Naround the time of the shooting.,"事件の前後に不審な男を見かけたと
 言うんです","I saw a suspicious man before and after the case
-I say",0.2222222222222222
+I say",0.2222222222222222,0.6019139
 "The guy was well-built,\Nhad a piercing stare and was Asian.","捜査官 やはり捜査官の読みは
 正しかったんですよ","Investigator and say the investigator
-It was correct",0.1875
+It was correct",0.1875,0.24947102
 All right. I'll look into this personally\Ntomorrow morning.,"わかった　私が直接
 明朝にでも調べてみよう","I understand I directly
-Let's check it in the morning",0.1111111111111111
-Wait!,待て,wait,0.5
+Let's check it in the morning",0.1111111111111111,0.43545064
+Wait!,待て,wait,0.5,0.8422681
 Let's go out to eat tonight. It's our anniversary.,"今夜は どこかで食事をしよう
 結婚記念日だ","Let's eat somewhere tonight
-It is a marriage anniversary",0.4
-"So you showed up after all, huh?",やっぱり現れやがった,After all it appeared,0.18181818181818182
-They're doing what?! I'll be there at once!,何してる　すぐ行く！,What are you doing soon!,0.2
+It is a marriage anniversary",0.4,0.84549826
+"So you showed up after all, huh?",やっぱり現れやがった,After all it appeared,0.18181818181818185,0.5460853
+They're doing what?! I'll be there at once!,何してる　すぐ行く！,What are you doing soon!,0.2,0.4478648
 It looks like someone's been\Nsurrounded by Gomez's men.,"ゴメスの手下たちに
 巻かれたようです","To the children of Gomez
-It seems that it was rolled",0.1111111111111111
+It seems that it was rolled",0.1111111111111111,0.6222677
 "This is bad, isn't it?","（レオン）ギャングどもにか
 （刑事）まずいですね","Gang
- It is bad",0.375
+ It is bad",0.375,0.45388734
 Apprehending them takes precedence\Nover searching for the killer.,"犯人探しより
 そいつらの確保が先だな","From the search of the criminal
-Securing there",0.06666666666666667
-What are you doing?!,何をやってる！　この大変な時に,what you doing!At this time,0.4444444444444444
+Securing there",0.06666666666666668,0.40199703
+What are you doing?!,何をやってる！　この大変な時に,what you doing!At this time,0.4444444444444444,0.62622654
 I'm sorry... I'm sorry!,"（警官）すいません
 （レオン）釈放しろ","I'm sorry
- release",0.5
-"All of them, right now!",（レオン）即刻 全員だ,It is all immediately,0.1
+ release",0.5,0.38862807
+"All of them, right now!",（レオン）即刻 全員だ,It is all immediately,0.1,0.2744296
 I thought I told you. To get out of Hawaii at once.,"私は指図したんじゃない
 頼んだんだよ 君に","I'm not going to
-I asked you",0.1875
+I asked you",0.1875,0.24340774
 I don't take orders from anyone.,"（ゴルゴ13）俺は誰からの
 指図も受けない","I am from anyone
-I do not receive an order",0.3076923076923077
-It looks like my wording\Nyesterday wasn't very good.,昨日は私の言い方が悪かったようだ,It seems that my way of saying was bad yesterday,0.17647058823529413
+I do not receive an order",0.3076923076923077,0.62467253
+It looks like my wording\Nyesterday wasn't very good.,昨日は私の言い方が悪かったようだ,It seems that my way of saying was bad yesterday,0.17647058823529413,0.57160825
 "Gomez's grunts are out in force,\Nlooking for the culprit in order to get revenge.","ゴメスの手下どもが
 犯人を見つけだし","Gomez's hand is
-I find a criminal",0.08695652173913043
-That is where the problem lies.,それが困ると言ってるんだ,I'm saying that it is troubled,0.16666666666666666
-"Six years ago, I hated you... But not anymore.",６年前 恨んだよ 私は君を,I'm jealous for six years ago I,0.26666666666666666
+I find a criminal",0.08695652173913042,0.6150071
+That is where the problem lies.,それが困ると言ってるんだ,I'm saying that it is troubled,0.16666666666666666,0.32187593
+"Six years ago, I hated you... But not anymore.",６年前 恨んだよ 私は君を,I'm jealous for six years ago I,0.26666666666666666,0.6071404
 This is the ideal place for growing old.,"ここは老後を送るには
 理想的な所だからね","To send old age here
-Because it is an ideal place",0.25
-I want you to understand that.,今では君に感謝しているぐらいだ,Now I am grateful to you,0.3
+Because it is an ideal place",0.25,0.5816442
+I want you to understand that.,今では君に感謝しているぐらいだ,Now I am grateful to you,0.3,0.25250512
 I don't want to get involved in any trouble.,"若く魅力的な妻もいる
 面倒に巻き込まれたくないんだよ","Young and attractive wife
-I do not want to get caught up trouble",0.3333333333333333
+I do not want to get caught up trouble",0.3333333333333333,0.4126909
 The person I am now isn't\Nthe same one you knew.,"今の私は もう
 君の知っているような","Now I already
-I know you",0.23076923076923078
+I know you",0.2307692307692308,0.4737159
 I'm already facing my twilight years.,"すでに人生の黄昏(たそがれ)を
 迎えているんだ","Already the twilight of life
-I'm welcoming",0.3333333333333333
+I'm welcoming",0.3333333333333333,0.6272531
 Yesterday...,"（ゴルゴ13）昨日…
 （レオン）ん？","yesterday ...
-?",0.6666666666666666
-How did you know I'd be at that gym?,どうしてわかった？,Why did you understand?,0.23076923076923078
+?",0.6666666666666666,0.7754735
+How did you know I'd be at that gym?,どうしてわかった？,Why did you understand?,0.2307692307692308,0.14724503
 It was just a hunch.,"（レオン）勘(かん)というやつだよ
 それは","It is a guy
-that is",0.2222222222222222
+that is",0.2222222222222222,0.13680175
 so you wouldn't miss a training\Nsession even on assignment.,"そう考えれば
 君が どう動くかくらい…","If you think so
-How is she moves ...",0.1111111111111111
-"With that in mind, guessing your actions was...",さて それじゃあ失礼するよ,"Well, that's rude",0.15384615384615385
-Golgo...,ゴルゴ…　ミスター東郷,Golgo ... Mister Togo,0.5
+How is she moves ...",0.1111111111111111,0.054654025
+"With that in mind, guessing your actions was...",さて それじゃあ失礼するよ,"Well, that's rude",0.15384615384615385,0.24163201
+Golgo...,ゴルゴ…　ミスター東郷,Golgo ... Mister Togo,0.5,0.686326
 How'd it go? That lead about the Asian guy.,"あの捜査官 本当に
 腕利きだったんですか？","That investigator is true
-Was it an army?",0.16666666666666666
-What about Leon?,捜査官は？,What is an investigator?,0.2857142857142857
-"What a ""splendid"" FBI agent!",立派なＦＢＩだ,It is a good FBI,0.18181818181818182
-So I've heard. Before.,そう聞いてる　かつてはな,It is what you heard so,0.2
-"A long time ago, huh?",遠い昔は…か,Long ago ...,0.25
+Was it an army?",0.16666666666666666,0.15242115
+What about Leon?,捜査官は？,What is an investigator?,0.2857142857142857,0.108476296
+"What a ""splendid"" FBI agent!",立派なＦＢＩだ,It is a good FBI,0.18181818181818185,0.6411966
+So I've heard. Before.,そう聞いてる　かつてはな,It is what you heard so,0.2,0.46229768
+"A long time ago, huh?",遠い昔は…か,Long ago ...,0.25,0.7344722
 "A double agent takes refuge inside a castle,\Nwhere sniping is impossible.","（ナレーター）狙撃不可能な古城に
 閉じこもる二重スパイ","In old castle that can not be sniped
-Closed double spy",0.09090909090909091
+Closed double spy",0.09090909090909093,0.67404693
 "When the mailman appears\Nat the castle as always,","いつものように郵便配達員が
 屋敷に現れた時","As always, the postal delivery staff
-When it appeared in the house",0.3333333333333333
-Golgo takes aim with his rifle!,ゴルゴはライフルを構えた,Golgo had a rifle,0.2222222222222222
-"Next time on Golgo 13,\N""Steinbeck the Third""",次回 「ゴルゴ13」,"Next time ""Golgo 13""",0.4166666666666667
+When it appeared in the house",0.3333333333333333,0.4217019
+Golgo takes aim with his rifle!,ゴルゴはライフルを構えた,Golgo had a rifle,0.2222222222222222,0.8329203
+"Next time on Golgo 13,\N""Steinbeck the Third""",次回 「ゴルゴ13」,"Next time ""Golgo 13""",0.4166666666666667,0.58301735
 Do not stand behind him if you value your life!,"ヤツの後ろに立つな
 命が惜しければ","Do not stand behind the guy
-If you are lonely",0.4
+If you are lonely",0.4,0.63286024

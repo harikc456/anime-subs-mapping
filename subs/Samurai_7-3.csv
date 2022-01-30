@@ -1,170 +1,170 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 """Beyond the flames of war,\nthe merchants watched.""","（サムライ）
 おのれ 拙者を愚弄するか
 拙者の志はもっと大きい","Do you fool the prisoner?
-The spirit of the prisoner is larger",0.1
-"""It was the samurai who held the era.""",おサムライ様,Samurai,0.1
+The spirit of the prisoner is larger",0.1,0.19223881
+"""It was the samurai who held the era.""",おサムライ様,Samurai,0.1,0.65367085
 """The peasants still remained on the land.""","おらたち農民ができる礼は
 これしかねえ","Thank you for the farmers
-This possibilities",0.06666666666666667
+This possibilities",0.06666666666666668,0.23361689
 O- okay...,"（キララ）あ… キララ
 （ウキョウ）キララ！","... Kirara
- Kirara!",0.2
-akirameteta anata ni au made wa,～♪,~ ♪,0.0
+ Kirara!",0.2,0.11461216
+akirameteta anata ni au made wa,～♪,~ ♪,0.0,0.1098671
 deai no kiseki wo ima dakishimete,"（コマチ）姉様！
 （リキチ）水分(みくま)り様","sister!
- water",0.0
-"Embrace this miracle\nof an encounter now,",己を知る… こうき？,Know yourself ... like this?,0.08333333333333333
-mitsume attara tsuyoku nareru,あっ,Ah,0.0
+ water",0.0,0.15060788
+"Embrace this miracle\nof an encounter now,",己を知る… こうき？,Know yourself ... like this?,0.08333333333333333,0.2138601
+mitsume attara tsuyoku nareru,あっ,Ah,0.0,0.11156802
 kore wo ai to yobanai tosuru nara,"（カンベエ）かの者には
-己を知る好機となろう",Let's have a good opportunity to know,0.07142857142857142
-then what is it you call love now?,あ… それが…,Oh ... it's ...,0.08333333333333333
-Sister!,（キクチヨ）おりゃー！,!,0.5
-Samurai-sama...,ああ… うう…,Oh ... yu ...,0.25
-Kanbe-sama saved me.,（カツシロウ）キクチヨ殿,Kikuchiyosa,0.0
-Um... what about Katsushiro-sama?,うう… このポンコツめ！,Um ... this ponkotsu!,0.2222222222222222
-Are you alive?,（カツシロウ）そなたは？,?,0.25
-Kikuchiyo-dono!,サムライが 僕を斬ろうとしたんだ,Samurai tried to kill me,0.0
-It's no use... it's no use...,余の息子じゃ,It's a son,0.2857142857142857
-"Sonny, bring that arm that's hanging\nthere behind you over here, would you?",（ウキョウ）そうだねえ,That's right,0.14285714285714285
-Samurai came!,サムライ… ですか？,Samurai ...?,0.2
-You are my son.\NNo samurai can cut you down.,やめときな,Quite,0.0
-That's right...,（ゴロベエ）そうだ お主だ,That's right,0.75
-"I should do that to him, huh?",そのほう 何者だ？,Who is that one?,0.16666666666666666
+己を知る好機となろう",Let's have a good opportunity to know,0.07142857142857142,-0.002946034
+then what is it you call love now?,あ… それが…,Oh ... it's ...,0.08333333333333333,0.25475448
+Sister!,（キクチヨ）おりゃー！,!,0.5,0.44618392
+Samurai-sama...,ああ… うう…,Oh ... yu ...,0.25,0.14230868
+Kanbe-sama saved me.,（カツシロウ）キクチヨ殿,Kikuchiyosa,0.0,0.4007454
+Um... what about Katsushiro-sama?,うう… このポンコツめ！,Um ... this ponkotsu!,0.2222222222222222,0.28131256
+Are you alive?,（カツシロウ）そなたは？,?,0.25,0.20104772
+Kikuchiyo-dono!,サムライが 僕を斬ろうとしたんだ,Samurai tried to kill me,0.0,0.38722646
+It's no use... it's no use...,余の息子じゃ,It's a son,0.2857142857142857,0.07497625
+"Sonny, bring that arm that's hanging\nthere behind you over here, would you?",（ウキョウ）そうだねえ,That's right,0.14285714285714285,0.09093717
+Samurai came!,サムライ… ですか？,Samurai ...?,0.2,0.7308719
+You are my son.\NNo samurai can cut you down.,やめときな,Quite,0.0,0.15891755
+That's right...,（ゴロベエ）そうだ お主だ,That's right,0.75,0.78859353
+"I should do that to him, huh?",そのほう 何者だ？,Who is that one?,0.16666666666666666,0.08585575
 What shall we do about the girl?,"（ゴロベエ）
-少々 遊んでいかぬか？",Do you play a little?,0.16666666666666666
-"Yo, Katsu-noji!",以降 お見知りおきを,"Since then,",0.16666666666666666
-"Cut it out. I don't know\nwhat's going on, exactly,",こんな時代だ,It's such a time,0.125
-"Yes, you!",（カツシロウ）キクチヨ殿！,Kikuchiyosa!,0.2
+少々 遊んでいかぬか？",Do you play a little?,0.16666666666666666,0.04235181
+"Yo, Katsu-noji!",以降 お見知りおきを,"Since then,",0.16666666666666666,0.03524047
+"Cut it out. I don't know\nwhat's going on, exactly,",こんな時代だ,It's such a time,0.125,0.19130091
+"Yes, you!",（カツシロウ）キクチヨ殿！,Kikuchiyosa!,0.2,0.26539758
 What's this?,"（キクチヨ）
-どんな芸なんだ あん？",What kind of technique is it?,0.2222222222222222
-Search me. First time I've seen him.,いけねえなあ,I'm sorry,0.09090909090909091
+どんな芸なんだ あん？",What kind of technique is it?,0.2222222222222222,0.24142899
+Search me. First time I've seen him.,いけねえなあ,I'm sorry,0.09090909090909093,0.13935006
 I seem to have developed a bad\nhabit of being too forward.,"お主 ひとつ
 それがしと賭けをせぬか","One of the mains
-Does it make a bet",0.10526315789473684
-"Who are you, then?",じゃあ そりゃ一体 何だ？,"Well then, what is it?",0.3
-If you could remember me henceforth...,なっ…,...,0.14285714285714285
+Does it make a bet",0.10526315789473684,-0.014825045
+"Who are you, then?",じゃあ そりゃ一体 何だ？,"Well then, what is it?",0.3,0.53397095
+If you could remember me henceforth...,なっ…,...,0.14285714285714285,0.19277701
 I used the skills I gained during the\ntime of war to earn my daily bread.,"この場にて
 一巻の終わりという大一番だ","At this place
-The biggest thing of the end of one volume",0.08695652173913043
+The biggest thing of the end of one volume",0.08695652173913042,-0.041779287
 "What kind of tricks, eh?","勝てば そのほう 今日の飯を
 それがしに世話すると―","If you win, the rice of today
-If you take care of you-",0.125
-"At your age, you shouldn't\nbe thinking about anything,",負ければ死すべし,"If you lose, death",0.16666666666666666
-except enjoying yourself and\nhaving a good time of it!,まあ かようなことでな ほれ,"Well, it is a thing",0.14285714285714285
-"Sir, how good of you to mention\nthe same thing I was thinking.",生きるも死ぬも 運しだい,I'm going to live even if I live,0.10526315789473684
+If you take care of you-",0.125,0.10546005
+"At your age, you shouldn't\nbe thinking about anything,",負ければ死すべし,"If you lose, death",0.16666666666666666,0.09792613
+except enjoying yourself and\nhaving a good time of it!,まあ かようなことでな ほれ,"Well, it is a thing",0.14285714285714285,0.17962769
+"Sir, how good of you to mention\nthe same thing I was thinking.",生きるも死ぬも 運しだい,I'm going to live even if I live,0.10526315789473684,0.17216632
 "This is going to be cool, huh?","戯れで 命のやり取りなど
 サムライのすることではない","Exchange of lives and life
-It is not to be a samurai",0.16666666666666666
-I will catch in my hand the\narrow that you shoot at me.,臆したか 若いの,I was young,0.06666666666666667
-That guy is no samurai any longer!,（ゴロベエ）ほれ！,!,0.125
-where whether I live or\ndie is up to destiny!,何を言う！　愚弄するか！,What to say!Do you want to fool!,0.125
+It is not to be a samurai",0.16666666666666666,0.16316608
+I will catch in my hand the\narrow that you shoot at me.,臆したか 若いの,I was young,0.06666666666666668,0.10497674
+That guy is no samurai any longer!,（ゴロベエ）ほれ！,!,0.125,0.21692947
+where whether I live or\ndie is up to destiny!,何を言う！　愚弄するか！,What to say!Do you want to fool!,0.125,0.14759447
 "Look now, right here.","（キクチヨ）やりやがった
-（マサムネ）ああ",Oh,0.0
-This is absurd.,これだからサムライってやつは,Because this is Samurai,0.3333333333333333
-Flirting around with the taking of life\nis not a thing a samurai would do.,ここは アキンドの街,Here is the city of Aquin,0.1111111111111111
-"Are you too nervous, young one?",あれに死なれては―,If you died that,0.09090909090909091
+（マサムネ）ああ",Oh,0.0,0.09025012
+This is absurd.,これだからサムライってやつは,Because this is Samurai,0.3333333333333333,0.18519457
+Flirting around with the taking of life\nis not a thing a samurai would do.,ここは アキンドの街,Here is the city of Aquin,0.1111111111111111,0.010941844
+"Are you too nervous, young one?",あれに死なれては―,If you died that,0.09090909090909093,0.128732
 What did you say!? Would you mock me!?,"ウキョウを よくぞ
 連れてきてくれたものじゃ","I often go
-What took me",0.15384615384615385
-"All right, just for you, I will come\na little closer. Come on, right here.",（キクチヨ）いっちまってやがる,I will do it,0.11764705882352941
-Come on!,恐らく規格外かと,Perhaps out-of-standard,0.0
+What took me",0.15384615384615385,0.12526968
+"All right, just for you, I will come\na little closer. Come on, right here.",（キクチヨ）いっちまってやがる,I will do it,0.1176470588235294,0.20288405
+Come on!,恐らく規格外かと,Perhaps out-of-standard,0.0,0.2079787
 He went and did it.,"（テッサイ）
-いえ 見たことのない型でした",It was a type that I had never seen,0.07142857142857142
+いえ 見たことのない型でした",It was a type that I had never seen,0.07142857142857142,-0.030941494
 Yeah...,"（テッサイ）
-若様は 娘を欲しておりますが…",Young want a daughter ...,0.16666666666666666
-This is why I can't abide samurai!,キララ殿 ご無事で！,Kirara Hall is safe!,0.16666666666666666
-Thank you for bringing Ukyo back.,カンベエ様,Kamibe,0.0
+若様は 娘を欲しておりますが…",Young want a daughter ...,0.16666666666666666,0.16697377
+This is why I can't abide samurai!,キララ殿 ご無事で！,Kirara Hall is safe!,0.16666666666666666,0.22751006
+Thank you for bringing Ukyo back.,カンベエ様,Kamibe,0.0,0.09841633
 "If he had died on me,","（カンベエ）
-やはり お主であったか",After all he was main,0.09090909090909091
-Is that mechanical samurai\nan associate of the bandits?,その闘争心 大事にしろ,It is important to take care of their struggle,0.125
-Hmm. I heard that he had company.,今 伺いました,I came,0.1111111111111111
+やはり お主であったか",After all he was main,0.09090909090909093,0.18008092
+Is that mechanical samurai\nan associate of the bandits?,その闘争心 大事にしろ,It is important to take care of their struggle,0.125,0.0928466
+Hmm. I heard that he had company.,今 伺いました,I came,0.1111111111111111,0.087490514
 There was one youngster with him.,"キララ殿を助けたのは
 あなただったのですか","I helped Kiralama
-Was it?",0.08333333333333333
-As you wish.,ありがとうございます,Thank you,0.2
-Katsushiro-sama!,（カツシロウ）キララ殿 すまぬ！,Kiralaka Samurai!,0.25
-What!? Did you say Kanbe!?,カンベエ殿の言うとおりだ,As you say Kameve,0.2222222222222222
+Was it?",0.08333333333333333,0.14845203
+As you wish.,ありがとうございます,Thank you,0.2,0.23878494
+Katsushiro-sama!,（カツシロウ）キララ殿 すまぬ！,Kiralaka Samurai!,0.25,0.6107914
+What!? Did you say Kanbe!?,カンベエ殿の言うとおりだ,As you say Kameve,0.2222222222222222,0.41363335
 "So, it is you.","私は 早々に
 倒されるというありさまだ","I am early
-It is possible to be defeated",0.15384615384615385
-Take good care of that\nfighting spirit of yours.,（キララたち）うわっ,Wow,0.0
-I just heard. You were the\none who saved Kirara-dono?,うわ 壊しちゃったです,I'm broken,0.07692307692307693
+It is possible to be defeated",0.15384615384615385,0.31088102
+Take good care of that\nfighting spirit of yours.,（キララたち）うわっ,Wow,0.0,0.13188921
+I just heard. You were the\none who saved Kirara-dono?,うわ 壊しちゃったです,I'm broken,0.07692307692307693,0.10648216
 Thank you very much!,"汗水 垂らしてんのか
 分かってんのか！","Water drilling
-Do you understand!",0.2222222222222222
-"Kirara-dono, forgive me!",俺様 ここで てめえを斬る！,I will kill me here!,0.2222222222222222
-I was the one who let go of yours!,負け戦が何だってんだ！,What is the losing battle!,0.14285714285714285
+Do you understand!",0.2222222222222222,0.049832672
+"Kirara-dono, forgive me!",俺様 ここで てめえを斬る！,I will kill me here!,0.2222222222222222,0.2996989
+I was the one who let go of yours!,負け戦が何だってんだ！,What is the losing battle!,0.14285714285714285,0.24290806
 "What's worse, it was Kikuchiyo-dono\nthat cut down those outlaws.","分かんねえだろ
 てめえはサムライだもんな","I'm sorry
-It's Samurai",0.125
+It's Samurai",0.125,0.45656782
 "I was felled immediately\nby them, and in my state...","てめえらに 米食わせて
 こいつらは―","Filter rice in
-These guys-",0.06666666666666667
-How pathetic I am! I am ashamed\nto have called myself a samurai!,（キクチヨ）てめえ 放しやがれ！,Take a break!,0.15384615384615385
+These guys-",0.06666666666666668,0.10888006
+How pathetic I am! I am ashamed\nto have called myself a samurai!,（キクチヨ）てめえ 放しやがれ！,Take a break!,0.15384615384615385,0.17104803
 "Kanbe-dono was right.\NIf I cannot even protect you,","話すいとまを
 与えなかったのは 誰だ","Speaking
-Who was not given",0.15384615384615385
-how am I to protect a whole\nvillage from the bandits?,村へ行こう,Let's go to the village,0.13333333333333333
-"That won't cut it, Katsu-noji!",（キクチヨ）うおー！,Uo!,0.1111111111111111
-Look here! This is your rice!,この飯 おろそかには食わんぞ,I'm eating this rice,0.2
-"No, you don't!\NYou're a samurai, after all!",ああっ,After,0.08333333333333333
+Who was not given",0.15384615384615385,0.18870032
+how am I to protect a whole\nvillage from the bandits?,村へ行こう,Let's go to the village,0.13333333333333333,0.22120613
+"That won't cut it, Katsu-noji!",（キクチヨ）うおー！,Uo!,0.1111111111111111,0.1780951
+Look here! This is your rice!,この飯 おろそかには食わんぞ,I'm eating this rice,0.2,0.66118914
+"No, you don't!\NYou're a samurai, after all!",ああっ,After,0.08333333333333333,0.1916565
 "Why, you... let go!","先生 この街で武器を求め
 村人たちに訓練を施せば…","Seeking weapons in this city
-If you train the villagers ...",0.125
+If you train the villagers ...",0.125,0.0541864
 What are you talking about now!?,"（マサムネ）どうだ？
 （キクチヨ）うん","How about Masamune?
- Yeah",0.18181818181818182
+ Yeah",0.18181818181818185,0.13024135
 I will go to your village.,"（カンベエ）
-周りに遮るものなしか",Should I block around,0.1
+周りに遮るものなしか",Should I block around,0.1,0.18267956
 I shall not eat this rice uncaringly.,"やめろ
 お前に 先生と呼ばれる覚えはない","Stop
-I do not remember called my teacher",0.14285714285714285
-Thank you so much!,やはり あなたは師,After all you are a teacher,0.1
-Bite your tongue!,先生！,teacher!,0.2
-"Sensei, if we procure weapons in the city\nhere, and then train the villagers...",あっ んっ…,...,0.07142857142857142
+I do not remember called my teacher",0.14285714285714285,0.19058864
+Thank you so much!,やはり あなたは師,After all you are a teacher,0.1,0.15329206
+Bite your tongue!,先生！,teacher!,0.2,0.2578876
+"Sensei, if we procure weapons in the city\nhere, and then train the villagers...",あっ んっ…,...,0.07142857142857142,0.08568704
 "This is a battle, not a game. Defending\nis a more difficult task than attacking.","戦を生きた者でなければ
 とても戦えるものではない","If you are not a person who lives a battle
-It is not something to fight very much",0.15384615384615385
+It is not something to fight very much",0.15384615384615385,0.58086944
 I'm just expressing my honest feelings.,"（リキチ）おサムライ様には
 逆らえねえだよ","for Samurai
-I'm sorry",0.18181818181818182
+I'm sorry",0.18181818181818185,0.23749618
 Both Katsushiro-sama and Nunky there are\nsamurai that are coming to the village.,"カンベエ様が そう言うなら
 しかたありません","If you say that Cambee says
-There is nothing",0.1
-"No, we're not taking either\nof them to the village.",恐れていては 村を守れません,I can not protect the village,0.2
-You're not what!?,どうして？,Why?,0.14285714285714285
-What we need are samurai.,もっともっと おっかねえ所です,It is more more open place,0.0
-I'm gonna get some sleep!,物見で来るとこじゃないです,I'm not going to come by things,0.14285714285714285
-You say the main force of the\nbandits consists of 40 units...,だども…,Oridotes ...,0.08333333333333333
-Benigumo and Raiden models. Sounds like\nreinforcing our arms will be inevitable.,まあ力抜けや,Well powerful,0.0
-War is not something you can\nfight without warm bodies.,（ゴロベエ）うむ それは面白い,Umu It is interesting,0.07692307692307693
-"Now then, I'd like to have\nseven of us, including myself.",米を食わすから 顔を貸せとは,"Since I eat rice, please lend a face",0.1
-We can't go against the samurai-sama.,入り口に身を隠して 上段に構えろ,Hide yourself at the entrance and make it up,0.0625
-"Mikumari-sama, if you would,\nplease stay here.",（マサムネ）こちらにお入りを,Enter here,0.1
-Why?,何を？,what?,0.3333333333333333
-"Hmm, that does sound interesting.",知行や恩賞には 全く縁のない戦だ,It is a battle that does not have an edge at all for the intentions and benefits,0.09090909090909091
-Sister! They're back!,うむ お見事！,Um is wonderful!,0.125
-What for?,（リキチ）ありがとう存じますだ,Thank you for,0.2
-Understood.,ああ よしてくれ,Oh yeah,0.0
-If you would come through here...,（３人）わあ…,Wow ...,0.125
+There is nothing",0.1,0.059929274
+"No, we're not taking either\nof them to the village.",恐れていては 村を守れません,I can not protect the village,0.2,0.5049903
+You're not what!?,どうして？,Why?,0.14285714285714285,0.22439384
+What we need are samurai.,もっともっと おっかねえ所です,It is more more open place,0.0,0.019811694
+I'm gonna get some sleep!,物見で来るとこじゃないです,I'm not going to come by things,0.14285714285714285,0.3518604
+You say the main force of the\nbandits consists of 40 units...,だども…,Oridotes ...,0.08333333333333333,0.11519091
+Benigumo and Raiden models. Sounds like\nreinforcing our arms will be inevitable.,まあ力抜けや,Well powerful,0.0,0.16189457
+War is not something you can\nfight without warm bodies.,（ゴロベエ）うむ それは面白い,Umu It is interesting,0.07692307692307693,0.10923086
+"Now then, I'd like to have\nseven of us, including myself.",米を食わすから 顔を貸せとは,"Since I eat rice, please lend a face",0.1,0.14369303
+We can't go against the samurai-sama.,入り口に身を隠して 上段に構えろ,Hide yourself at the entrance and make it up,0.0625,0.10601981
+"Mikumari-sama, if you would,\nplease stay here.",（マサムネ）こちらにお入りを,Enter here,0.1,0.16988978
+Why?,何を？,what?,0.3333333333333333,0.5708281
+"Hmm, that does sound interesting.",知行や恩賞には 全く縁のない戦だ,It is a battle that does not have an edge at all for the intentions and benefits,0.09090909090909093,0.15309277
+Sister! They're back!,うむ お見事！,Um is wonderful!,0.125,0.23028013
+What for?,（リキチ）ありがとう存じますだ,Thank you for,0.2,0.32050762
+Understood.,ああ よしてくれ,Oh yeah,0.0,0.32636613
+If you would come through here...,（３人）わあ…,Wow ...,0.125,0.2220599
 I appreciate it.,"情けゆえでも
 飯が食えるからでもない","Even if you are
-It is neither because I can eat rice",0.14285714285714285
-Well done!,（キクチヨ）うっせえー！,Uh!,0.25
+It is neither because I can eat rice",0.14285714285714285,0.07558797
+Well done!,（キクチヨ）うっせえー！,Uh!,0.25,0.33685297
 "Oh, you're calling me to be a\nmultitude of reinforcements, then?","（キクチヨ）
-ああ どいつもこいつも―","Oh, this always-",0.13333333333333333
-It is a battle with utterly no\nchance of distinction or prize.,（キクチヨ）懐かしいにおいだと？,Is it a nostalgic smell?,0.2
+ああ どいつもこいつも―","Oh, this always-",0.13333333333333333,0.12112577
+It is a battle with utterly no\nchance of distinction or prize.,（キクチヨ）懐かしいにおいだと？,Is it a nostalgic smell?,0.2,0.062296405
 "Cut it out, all of you! I am not Buddha.","久しく感じていなかった
 懐かしいにおいゆえ―","I did not feel a long time
-Nostalgic smell-",0.1
-"I do not go to the village out of pity,\nneither for what there is for me to eat.",（キクチヨ）何だ？　そりゃ,What is it?For,0.14285714285714285
-"I go, Kanbe-dono, because I wish to stand\ntogether on the battlefield with you.",血にまみれておったぞ,I was covered with blood,0.11764705882352941
-I haven't trembled like\nthat in a long time.,だが 久しぶりに楽しめそうだ,But it seems to be able to enjoy it after a long time,0.16666666666666666
-Shut up!,（ゴロベエ）さすが！,!,0.3333333333333333
-It was the smell. Both the scent\nand the current of the air,釣れた,Was fished,0.09090909090909091
+Nostalgic smell-",0.1,0.06779155
+"I do not go to the village out of pity,\nneither for what there is for me to eat.",（キクチヨ）何だ？　そりゃ,What is it?For,0.14285714285714285,0.09465988
+"I go, Kanbe-dono, because I wish to stand\ntogether on the battlefield with you.",血にまみれておったぞ,I was covered with blood,0.1176470588235294,0.114379
+I haven't trembled like\nthat in a long time.,だが 久しぶりに楽しめそうだ,But it seems to be able to enjoy it after a long time,0.16666666666666666,0.24909157
+Shut up!,（ゴロベエ）さすが！,!,0.3333333333333333,0.3582662
+It was the smell. Both the scent\nand the current of the air,釣れた,Was fished,0.09090909090909093,0.18317026
 What are you talking about?,"（ゴロベエ）何故？
 （ボウガン男）知ってどうする","Why?
- What do you know",0.3333333333333333
-I'll agree with you there.,あんた いい腕だ ほれるね,I hope you have a good arm,0.16666666666666666
-Are you another samurai that\nwas purchased by the peasants?,フン お主たち 賭けをせぬか？,Do you want to bet the main bet?,0.2
+ What do you know",0.3333333333333333,0.33784342
+I'll agree with you there.,あんた いい腕だ ほれるね,I hope you have a good arm,0.16666666666666666,0.16468951
+Are you another samurai that\nwas purchased by the peasants?,フン お主たち 賭けをせぬか？,Do you want to bet the main bet?,0.2,0.1441844

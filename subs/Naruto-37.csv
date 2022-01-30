@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774589
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048281
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,7 +68,7 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.5518779
 "<i>If ""Heaven"" does not exist,</i>","(ｻｸﾗ)
 ｢“
 天
@@ -82,7 +82,7 @@ Heaven
 ""
 Without
  
-Prepare for the machine",0.17647058823529413
+Prepare for the machine",0.17647058823529413,0.5832944
 What's that?,"(ﾅﾙﾄ)
 何だ？
  
@@ -92,7 +92,7 @@ What's that?,"(ﾅﾙﾄ)
 ","What?
  
 For
-.",0.3333333333333333
+.",0.3333333333333333,0.32163173
 It probably has to do with the scroll.,"たぶん
  
 巻物のことよ
@@ -101,7 +101,7 @@ It probably has to do with the scroll.,"たぶん
 ","maybe
  
 It is a scroll
-.",0.25
+.",0.25,0.8576994
 "I think this means we're supposed
 to open the Heaven & Earth scroll.","これって
  
@@ -113,7 +113,7 @@ to open the Heaven & Earth scroll.","これって
  
 Open the scroll of the heavens
 I think it is
-.",0.3684210526315789
+.",0.3684210526315789,0.6870372
 "Okay then, I'm going to open it.","それじゃ
  
 開くってばよ
@@ -122,14 +122,14 @@ I think it is
 ","Well then
  
 It will be open
-.",0.3076923076923077
+.",0.3076923076923077,0.70749754
 A person...?,"ひと？
  
 じん？
 
 ","people?
  
-person?",0.4
+person?",0.4,0.50246066
 This is... a Summoning Jutsu!,"(ｻｽｹ)
 これは
  
@@ -137,7 +137,7 @@ This is... a Summoning Jutsu!,"(ｻｽｹ)
 
 ","this is
  
-Museum of mouth!",0.3
+Museum of mouth!",0.3,0.17322282
 "Naruto! Sakura!
 Let go of the scroll!","ナルト
  
@@ -149,7 +149,7 @@ Let go of the scroll!","ナルト
  
 Cherry blossoms
  
-Release the scroll!",0.36363636363636365
+Release the scroll!",0.3636363636363637,0.7543388
 Wha?!,"え？
 あ…
  
@@ -160,7 +160,7 @@ Wha?!,"え？
 Ah…
  
 Ah!
-.",0.2857142857142857
+.",0.2857142857142857,0.39938837
 It's been a long time.,"(ｲﾙｶ)
 よう
  
@@ -170,10 +170,10 @@ It's been a long time.,"(ｲﾙｶ)
 ","Let
  
 long time no see
-.",0.3
+.",0.3,0.4478434
 What?!,"どういうこと？
 
-",What do you mean?,0.3333333333333333
+",What do you mean?,0.3333333333333333,0.38744614
 "Why are you appearing with
 a Summoning?","あ？
  
@@ -185,11 +185,11 @@ a Summoning?","あ？
  
 picture?
  
-why?",0.2
+why?",0.2,0.22271317
 "At the end of this second exam,","(ｲﾙｶ)
 この第２の試験の最後は➡
 
-",The end of this second examination is ➡,0.45454545454545453
+",The end of this second examination is ➡,0.4545454545454545,0.7824804
 "we Chunin are to
 welcome the test takers.","俺たち中忍が受験生を
 迎えることになっててな
@@ -199,20 +199,20 @@ welcome the test takers.","俺たち中忍が受験生を
 ","We do not have a student
 It will be welcome
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.33490384
 I just happened to be given,"たまたま俺が
  
 お前たちへの➡
 
 ","I happened to happen
  
-➡ ➡ ➡",0.375
+➡ ➡ ➡",0.375,0.36018547
 Messenger...?!,"伝令役？
 
-",Origin?,0.2
+",Origin?,0.2,0.13529979
 Everyone...,"みんな➡
 
-",Everyone,0.5
+",Everyone,0.5,0.82024884
 "Congratulations on surviving
 the second exam.","第２の試験
  
@@ -222,7 +222,7 @@ the second exam.","第２の試験
 ","Second test
  
 Congratulations on breakthrough
-.",0.4444444444444444
+.",0.4444444444444444,0.6845569
 "- Listen to the end...
 - Cool! Cool!","おい
  
@@ -242,7 +242,7 @@ The story is until the end ...
 .
 You're done!
  
-Haha!",0.2222222222222222
+Haha!",0.2222222222222222,0.298488
 "Ramen! Ramen!
 Believe it!","ラーメン！
  
@@ -250,7 +250,7 @@ Believe it!","ラーメン！
 
 ","ramen!
  
-It's ramen!",0.6
+It's ramen!",0.6,0.8885351
 "I've done great job!
 I'm the greatest!","俺ってば偉い！
  
@@ -258,7 +258,7 @@ I'm the greatest!","俺ってば偉い！
 
 ","I am great!
  
-I am the best!",0.36363636363636365
+I am the best!",0.3636363636363637,0.6991102
 "I so want to eat ramen!
 Believe it!","俺ってば
  ﾗｰﾒﾝ
@@ -270,17 +270,17 @@ Believe it!","俺ってば
  Ramen
 I want to eat it!
 Hae ~
-.",0.5
+.",0.5,0.8278409
 He's got so much energy.,"元気なヤツだな
 ｡
 
 ","It's a good guy
-.",0.18181818181818182
+.",0.18181818181818185,0.25791982
 Yaaaay!,"イエイ！
 うるさい！
 
 ","Yay!
-noisy!",0.25
+noisy!",0.25,0.50194144
 Huh?,"フン
  
 なるほどな
@@ -291,13 +291,13 @@ Huh?,"フン
  
 got it
 .
-picture?",0.14285714285714285
+picture?",0.14285714285714285,0.1313988
 "If we had looked at the scroll
 in the middle of the exam,","もし俺らが
 試験の途中で巻物を見たら➡
 
 ","If they are
-If you look at the scroll in the middle of the exam",0.5
+If you look at the scroll in the middle of the exam",0.5,0.64697224
 "what were you going to do, Iruka Sensei?","イルカ先生
  
 あんたは
@@ -306,7 +306,7 @@ If you look at the scroll in the middle of the exam",0.5
 ","Dolphin teacher
  
 Ah!
-What did you intend to do?",0.3125
+What did you intend to do?",0.3125,0.34614778
 "Sasuke, you're a sharp one,
 as usual.","(ｲﾙｶ)
 サスケ
@@ -319,7 +319,7 @@ as usual.","(ｲﾙｶ)
  
 Hopefully
 It is a sharp guy as usual
-.",0.42857142857142855
+.",0.42857142857142855,0.81903255
 You guessed right.,"相変わらずだな
  
 お前
@@ -328,13 +328,13 @@ You guessed right.,"相変わらずだな
 ","It is still useless
  
 you
-.",0.25
+.",0.25,0.049888566
 "The rules of this exam were to test
 your conclusive mission execution ability.","察しのとおりだ
 この試験のルールは➡
 
 ","It is as desk
-The rules for this test are ➡",0.19047619047619047
+The rules for this test are ➡",0.19047619047619047,0.48795563
 "in the case of the scrolls being opened
 contrary to the rules...","つまり
  
@@ -348,15 +348,15 @@ contrary to the rules...","つまり
 if
  
 During the exam
-Under conditions that violate rules",0.15789473684210525
+Under conditions that violate rules",0.15789473684210525,0.25309289
 "I was ordered to knock unconscious
 the test takers in front of me","(ｲﾙｶ)
 その目の前の受験者には➡
 
-",For the examine in front of the eyes,0.25
+",For the examine in front of the eyes,0.25,0.320599
 until the end of the exam.,"第２の試験終了時刻まで➡
 
-",Up to the end of the second test,0.3
+",Up to the end of the second test,0.3,0.683212
 Good thing you didn't open the scroll.,"フッ
  
 開かなくてよかったなぁ
@@ -367,7 +367,7 @@ Good thing you didn't open the scroll.,"フッ
  
 I'm glad I didn't open it
 You guys
-.",0.3333333333333333
+.",0.3333333333333333,0.38384125
 "Kabuto, thank you!","カブトさん
  
 ありがとだってばよ
@@ -376,10 +376,10 @@ You guys
 ","Mr. Kabuto
  
 Thank you
-.",0.42857142857142855
+.",0.42857142857142855,0.7876307
 Phew!,"いっ!?
 
-",!?,0.3333333333333333
+",!?,0.3333333333333333,0.23089898
 That was seriously close...,"ふぅ～
 ｡
 《マジ
@@ -390,7 +390,7 @@ That was seriously close...,"ふぅ～
 .
 ""Really
  
-It was dangerous ~ """,0.09090909090909091
+It was dangerous ~ """,0.09090909090909093,0.24617687
 "By the way,
 what're the letters on that wall?","ん？
 ところで
@@ -400,7 +400,7 @@ what're the letters on that wall?","ん？
 ","Yeah?
 by the way
  
-What is the character of that wall?",0.4666666666666667
+What is the character of that wall?",0.4666666666666667,0.6884948
 "we don't understand
 their meaning at all.","私たちじゃ
 全然
@@ -412,7 +412,7 @@ their meaning at all.","私たちじゃ
 at all
  
 I do not know the meaning
-.",0.46153846153846156
+.",0.4615384615384616,0.67113113
 I'm saying that's right.,"(ｲﾙｶ)
 だから
 そうだって言ってるだろ
@@ -422,17 +422,17 @@ I'm saying that's right.,"(ｲﾙｶ)
 ","that's why
 That's right
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.5335588
 Give it a read.,"読んでみろ
 ｡
 ➡
 
 ","Read
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.34565413
 Instructions?!,"心得？
 
-",Sender?,0.25
+",Sender?,0.25,0.19289875
 "Heaven in this text
 refers to the human head.","これは火影様が記した
 中忍の心得だ
@@ -440,7 +440,7 @@ refers to the human head.","これは火影様が記した
 
 ","This was written like fire
 It is the knowledge of Nakaboko
-.",0.15789473684210525
+.",0.15789473684210525,0.17446071
 Earth refers to the human body.,"｢
 地
 ｣
@@ -455,14 +455,14 @@ Land
 Is pointing with human body
 .
 Fur
-.",0.21428571428571427
+.",0.21428571428571427,0.4378047
 In other words...,"あれは
  
 つまり➡
 
 ","That is
  
-In other words,",0.42857142857142855
+In other words,",0.42857142857142855,0.6948965
 "learn various logics in
 preparing for your missions.","さまざまな
  
@@ -474,13 +474,13 @@ preparing for your missions.","さまざまな
  
 Learn something
 Prepare for the task
-.",0.3076923076923077
+.",0.3076923076923077,0.5628236
 "If your weaknesses are in
 your physical strength, Sakura,","サクラの弱点が
 体力にあるのなら➡
 
 ","Sakura's weakness
-If it is in the physical strength",0.35714285714285715
+If it is in the physical strength",0.35714285714285715,0.923868
 "it means you must not
 slack off on your daily training.","…という意味だ
 ｡
@@ -490,7 +490,7 @@ slack off on your daily training.","…という意味だ
 ","... it means
 .
 Ehehe ...
-.",0.21428571428571427
+.",0.21428571428571427,0.38482368
 "And if you combine both
 Heaven and Earth...","そして
  
@@ -500,7 +500,7 @@ Heaven and Earth...","そして
 ","and
  
 Both the heaven earth
-If it is equipped with",0.38461538461538464
+If it is equipped with",0.38461538461538464,0.74764514
 "what can also be called a rule
 of might and become a safe mission.","つまり
  
@@ -510,7 +510,7 @@ of might and become a safe mission.","つまり
 ","in short
  
 Sometimes it is
-It can be a safe mission",0.2631578947368421
+It can be a safe mission",0.2631578947368421,0.6147992
 "The one letter for ""person"" that
 was in the scroll from earlier goes there.","｢
 人
@@ -526,7 +526,7 @@ Man
 One letter
 It is said that
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.49606723
 "the test-takers' fundamental
 abilities as Chunin.","受験生の中忍としての
 基本能力を試すためのもの
@@ -536,7 +536,7 @@ abilities as Chunin.","受験生の中忍としての
 ","Aside from the examine
 Things to try basic ability
 .
-➡",0.11764705882352941
+➡",0.1176470588235294,0.49168384
 And you guys cleared it in fine style.,"そして
  
 お前たちは
@@ -549,14 +549,14 @@ And you guys cleared it in fine style.,"そして
 You are
 Cleared it
 .
-➡",0.45454545454545453
+➡",0.4545454545454545,0.5837638
 Chunin is of unit leader class.,"中忍とは部隊長クラス
 ｡
 ➡
 
 ","Nakanobu is a formal class
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.32426873
 "They have the responsibility
 of leading a team.","チームを導く義務がある
 ｡
@@ -564,7 +564,7 @@ of leading a team.","チームを導く義務がある
 
 ","There is a duty to guide the team
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.6263587
 "Be more deeply aware of
 the necessity of physical strength...","体力の必要性を
 さらに心底
@@ -578,16 +578,16 @@ Further
  
 Sincerely
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.6283723
 and knowledge in missions!,"任務における知識の重要性➡
 
-",Importance of knowledge in missions,0.42857142857142855
+",Importance of knowledge in missions,0.42857142857142855,0.7297954
 "I want you to take on
 the next step,","次のステップへ挑んでほしい
 ｡
 
 ","I want you to challenge the next step
-.",0.5833333333333334
+.",0.5833333333333334,0.75231856
 "That is all of the messenger task
 I was given.","これが
  
@@ -599,16 +599,16 @@ I was given.","これが
  
 I was told
 All of the trading
-.",0.5
+.",0.5,0.25656334
 Got it!,"了解！
 
-",Roger that!,0.2
+",Roger that!,0.2,0.32563025
 "But, as for the final third exam,
 don't push it too far.","むちゃはするなよ
 ｡
 
 ","Don't do it
-.",0.26666666666666666
+.",0.26666666666666666,0.2583007
 "Especially you, Naruto.","特にナルト
  
 お前がいちばん…
@@ -621,13 +621,13 @@ don't push it too far.","むちゃはするなよ
 You are the best ...
 .
 Dolphin teacher
-.",0.36363636363636365
+.",0.3636363636363637,0.70511705
 "From when I received the
 Leaf headband,","この木ノ葉の額当て
 もらった時から➡
 
 ","The amount of this tree no leaves
-From when I got it",0.25
+From when I got it",0.25,0.37176052
 "I was no longer
 an Academy student, you know?!","俺ってば
  
@@ -639,7 +639,7 @@ an Academy student, you know?!","俺ってば
  
 Already
 It's not an academy student
-.",0.15789473684210525
+.",0.15789473684210525,0.6342188
 "Also, this is the proof you
 gave me that I'm full fledged, right?!","それに
  
@@ -649,10 +649,10 @@ gave me that I'm full fledged, right?!","それに
 ","in addition
  
 this is
-Dolphin teacher gave me ➡",0.18181818181818182
+Dolphin teacher gave me ➡",0.18181818181818185,0.2751844
 A Ninja!,"忍者なんだからな！
 
-",Because it is a ninja!,0.5
+",Because it is a ninja!,0.5,0.66069776
 "I'm sorry, Naruto.","そうか
  
 悪かったな
@@ -665,7 +665,7 @@ A Ninja!,"忍者なんだからな！
 It was bad
  
 Naruto
-.",0.2
+.",0.2,0.7197859
 <i>I know their strength the best.</i>,"＜あいつらの力は
 私が
  
@@ -678,12 +678,12 @@ I
  
 I know the most well
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.682675
 "<i>If it's futile anyway,</i>","どうせ無理なら
 私が引導を渡したいんです＞
 
 ","If it is impossible
-I want to pass the lead>",0.23529411764705882
+I want to pass the lead>",0.2352941176470588,0.41450605
 "<i>If you're that hung up on it,</i>
 <i>I can leave that team to you.</i>","そいつらのチームは
 お前に任せるけど…
@@ -693,10 +693,10 @@ I want to pass the lead>",0.23529411764705882
 ","Those team
 I leave it to you ...
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.694846
 <i>Thank you very much.</i>,"＜ありがとうございます＞
 
-",<Thank you>,0.5
+",<Thank you>,0.5,0.7422237
 "<i>But, they're Kakashi's, right?</i>","＜でも
  
 こいつら
@@ -705,16 +705,16 @@ I leave it to you ...
 ","<But
  
 These guys
-Kakashi's and this?➡",0.29411764705882354
+Kakashi's and this?➡",0.29411764705882354,0.8568154
 <i>Stay out of it!</i>,"わざわざ恨まれ役を
 買って出るとはね＞
 
 ","It is a role
-When I buy it>",0.21428571428571427
+When I buy it>",0.21428571428571427,0.11581057
 "<i>They're not your students anymore.</i>
 <i>They're my subordinates now.</i>","私の部下です＞
 
-",I am my part>,0.2
+",I am my part>,0.2,0.30214494
 How is it?,"(
 猿飛
 )
@@ -724,13 +724,13 @@ How is it?,"(
 
 ","How is it?
  
-Is the curse still pain?",0.5
+Is the curse still pain?",0.5,0.31900772
 No.,"(ｱﾝｺ)
 ん…
 ｡
 
 ","Hmm…
-.",0.3333333333333333
+.",0.3333333333333333,0.39184085
 "Thanks to you,
 it's gotten quite a bit better.","いえ
  
@@ -746,29 +746,29 @@ thanks to
 Doubt
  
 have become better
-.",0.25
+.",0.25,0.331547
 "Anyway, Orochimaru is one
 of those three legendary Leaf Ninjas, right?","木ノ葉伝説の
 あの三忍のうちの一人ですよね？
 
 ","Legendary
-It is one of that sanbuku, right?",0.4375
+It is one of that sanbuku, right?",0.4375,0.60308164
 "I heard that he'd already died, but...","すでに死んだとも
 聞いていましたが➡
 
 ","I already died
-I was listening, but",0.4166666666666667
+I was listening, but",0.4166666666666667,0.413596
 Why'd he come to this village now...?,"この里なんかに…
 ｡
 
 ","This village is ...
-.",0.25
+.",0.25,0.5622971
 "<i>There's a kid I want, you see.</i>","(
 大蛇丸
 )
 ＜欲しい子がいてね＞
 
-",<There is a girl who wants>,0.25
+",<There is a girl who wants>,0.25,0.5082155
 "It's probably Sasuke, right?","サスケじゃろ
 ｡
 (ｱﾝｺ)
@@ -777,7 +777,7 @@ Why'd he come to this village now...?,"この里なんかに…
 ","Sasuke
 .
 
-picture?",0.2222222222222222
+picture?",0.2222222222222222,0.779974
 "<i>Twenty one second exam</i>
 <i>finishers have been confirmed.</i>","第２の試験通過者
  21
@@ -789,13 +789,13 @@ picture?",0.2222222222222222
  twenty one
 Confirm name
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.57760596
 "<i>As for the third exam, according</i>
 <i>to the regulations of the Chunin Exams,</i>","中忍試験規定により
 第３の試験は➡
 
 ","By Nakabe test regulations
-The third test is",0.15
+The third test is",0.15,0.56695944
 "<i>preliminaries are planned for</i>
 <i>the first time in five years.</i>","５年ぶりに
 予選を予定いたします
@@ -805,7 +805,7 @@ The third test is",0.15
 ","For the first time in five years
 We plan to qualify
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.60769874
 "For the time being
 continue the exams as is,","とりあえず
 試験は
@@ -817,18 +817,18 @@ continue the exams as is,","とりあえず
 Test
  
 Continue as it is
-.",0.3076923076923077
+.",0.3076923076923077,0.58110213
 "but while keeping
 an eye on his movements.","あやつの動きを見ながらじゃがな
 ｡
 
 ","A potato while watching the movement of the ayatsu
-.",0.125
+.",0.125,0.36990765
 Yes...,"はい
 ｡
 
 ","Yes
-.",0.3333333333333333
+.",0.3333333333333333,0.7116893
 "First off, congratulations on
 finishing the second exam.","(ｱﾝｺ)
 まずは
@@ -841,7 +841,7 @@ finishing the second exam.","(ｱﾝｺ)
 Second test
  
 Congratulations on passing
-.",0.4166666666666667
+.",0.4166666666666667,0.7478184
 "<i>To think twenty one have</i>
 <i>made it this far.</i>","ここまで
 21
@@ -853,17 +853,17 @@ Congratulations on passing
 twenty one
 I will remain
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.63123715
 "<i>I said to make it less than half,</i>
 <i>but I'd really thought about single digits.</i>","半分以下にするとは言ったけど➡
 
-",I said that it would be less than half but,0.3181818181818182
+",I said that it would be less than half but,0.3181818181818182,0.6193323
 I'm hungry!,"(ﾁｮｳｼﾞ)
 腹減った
 ｡
 
 ","hungry
-.",0.2
+.",0.2,0.6820363
 This is such a major pain.,"(ｼｶﾏﾙ)
 まだ
  
@@ -879,7 +879,7 @@ Such a remaining
 Fuck
  
 Manto
-.",0.25
+.",0.25,0.09706296
 "Sasuke and others have passed, too.","(
 いの
 )
@@ -889,14 +889,14 @@ Manto
 
 ","Ahaha
 Sasuke also passed ~
-.",0.2727272727272727
+.",0.2727272727272727,0.8545464
 It'd all be for naught if they didn't pass.,"合格してもらわねえと
 合わねえよ
 ｡
 
 ","If you pass it
 I'm sorry
-.",0.25
+.",0.25,0.4910624
 Your team didn't do too bad.,"(
 ガイ
 )
@@ -910,7 +910,7 @@ Your team didn't do too bad.,"(
  
 well done
 Your team
-.",0.2727272727272727
+.",0.2727272727272727,0.6302043
 "But as long as my team is around,
 they can't go any higher.","だが
  
@@ -922,7 +922,7 @@ they can't go any higher.","だが
  
 As long as my team has
 It is impossible than this
-.",0.35
+.",0.35,0.66067976
 ability talks at the next barrier.,"何せ
  
 次の関門では
@@ -931,7 +931,7 @@ ability talks at the next barrier.,"何せ
 ","What
  
 In the next barrier
-No, no",0.2727272727272727
+No, no",0.2727272727272727,0.5954977
 "Well, adolescence can sometimes
 be bittersweet and","まぁ
  
@@ -941,12 +941,12 @@ be bittersweet and","まぁ
 ","Maic
  
 Sometimes sweet and sour
-Sometimes it is tough ➡",0.13333333333333333
+Sometimes it is tough ➡",0.13333333333333333,0.22754787
 "can sometimes be harsh, Kakashi...","カカシ
 ｡
 
 ","Kakashi
-.",0.125
+.",0.125,0.73574907
 Did you say something?,"(ｶｶｼ)
 ん？
  
@@ -954,10 +954,10 @@ Did you say something?,"(ｶｶｼ)
 
 ","Yeah?
  
-Did you say something?",0.8333333333333334
+Did you say something?",0.8333333333333334,0.86894906
 <i>Oh my God!</i>,"オーマイガー‼
 
-",Oh my god!,0.5
+",Oh my god!,0.5,0.56969136
 "<i>Not bad, my rival Kakashi.</i>","(
 ガイ
 )
@@ -973,7 +973,7 @@ My rival
  
 Kakashi
 .
-➡",0.125
+➡",0.125,0.7723378
 "<i>So that's Guy Sensei's eternal rival, eh?</i>","(ﾃﾝﾃﾝ)
 《へぇ～
  
@@ -987,7 +987,7 @@ Kakashi
 that
 Guy teacher's eternal rival
 .
-➡",0.25
+➡",0.25,0.462934
 <i>Guy Sensei totally loses visually...</i>,"ビジュアル的には
  
 ガイ先生
@@ -996,20 +996,20 @@ Guy teacher's eternal rival
 ","Visually
  
 Teacher
-I'm perfectly lost but",0.13333333333333333
+I'm perfectly lost but",0.13333333333333333,0.31970537
 "<i>Guy Sensei is the hippest</i>
 <i>of all the teachers!</i>","ガイ先生が
 いちばんナウいです！➡
 
 ","Guy
-It is the best Now!➡",0.23529411764705882
+It is the best Now!➡",0.2352941176470588,0.26325336
 <i>Okay!</i>,"光ってます！
  
 よ～し！》
 
 ","I am shining!
  
-Yo!""",0.2
+Yo!""",0.2,0.25980893
 "Please watch, Guy Sensei!
 I'll shine, too!","(
 リー
@@ -1020,7 +1020,7 @@ I'll shine, too!","(
 
 ","Please look at
  
-Guy teacher!",0.23076923076923078
+Guy teacher!",0.2307692307692308,0.30188137
 "<i>I don't ever want to see</i>
 <i>tears of those dear to me again.</i>","見たくない
  
@@ -1032,7 +1032,7 @@ Guy teacher!",0.23076923076923078
  
 that's why…
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.35917807
 <i>I won't ever lose again!</i>,"もう二度と
  
 僕は負けません
@@ -1041,13 +1041,13 @@ that's why…
 ","never again
  
 I will not lose
-Guy teacher!""",0.25
+Guy teacher!""",0.25,0.4485677
 "<i>Sasuke Uchiha, eh?</i>","(
 ネジ
 )
 《うちはサスケか》
 
-","""My house is Sasuke?""",0.14285714285714285
+","""My house is Sasuke?""",0.14285714285714285,0.5968836
 "<i>I'll get you back for my arms,</i>
 <i>Sasuke Uchiha...</i>","(
 ザク
@@ -1060,13 +1060,13 @@ Guy teacher!""",0.25
 ","""I'll do my best to return
 My house is Sasuke
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.6908797
 "<i>To think a mere seven teams</i>
 <i>are left of the twenty six...</i>","たった７チームしか
 残らないとはな》
 
 ","Only seven teams
-It does not remain """,0.08695652173913043
+It does not remain """,0.08695652173913042,0.6545907
 "<i>Sure enough, Gaara is unhurt.</i>","(
 ネジ
 )
@@ -1078,13 +1078,13 @@ It does not remain """,0.08695652173913043
 ","""also
 There is a pleasant place
  
-I'm sorry. """,0.1111111111111111
+I'm sorry. """,0.1111111111111111,0.1103407
 <i>Those Sand Village guys...</i>,"(
 キバ
 )
 《砂のヤツら…》
 
-","""Sand guy ...""",0.16666666666666666
+","""Sand guy ...""",0.16666666666666666,0.57415646
 "<i>Naruto passed, too.</i>","(ﾋﾅﾀ)
 《ナルト君も合格したんだ
 ｡
@@ -1092,7 +1092,7 @@ I'm sorry. """,0.1111111111111111
 
 ","""Naruto also passed
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.88183534
 It feels like everyone's assembled.,"ゲキマユまでいるってばよ
 みんな
  
@@ -1103,7 +1103,7 @@ It feels like everyone's assembled.,"ゲキマユまでいるってばよ
 Everyone
  
 It feels like a lot
-.",0.3125
+.",0.3125,0.31642976
 Humph... I don't have a very good feeling.,"(
 猿飛
 )
@@ -1113,7 +1113,7 @@ Humph... I don't have a very good feeling.,"(
 
 ","""Don't leave this much
 .
-➡",0.1875
+➡",0.1875,0.18895599
 "Now then, we will now have
 the explanation of the third exam","それでは
  
@@ -1125,7 +1125,7 @@ the explanation of the third exam","それでは
  
 From now on fire
 There is a description of the third test
-.",0.25
+.",0.25,0.6642861
 All right.,"(
 猿飛
 )
@@ -1133,7 +1133,7 @@ All right.,"(
 ｡
 
 ","Mum
-.",0.25
+.",0.25,0.21939984
 "I have just one thing I want
 to tell everyone flat out.","はっきり
  
@@ -1145,15 +1145,15 @@ to tell everyone flat out.","はっきり
  
 To you
 I have something to tell
-.",0.3333333333333333
+.",0.3333333333333333,0.40524918
 About the true purpose of these exams.,"この試験の真の目的についてじゃ
 ｡
 
 ","About the true purpose of this exam
-.",0.6
+.",0.6,0.8966804
 <i>True purpose...?!</i>,"《真の目的？》
 
-","""True purpose?""",0.2727272727272727
+","""True purpose?""",0.2727272727272727,0.6317536
 "Why do allied nations conduct
 the exams on a conjoint basis?","なぜ
  
@@ -1163,7 +1163,7 @@ the exams on a conjoint basis?","なぜ
 ","why
  
 Allies
-Do you join the exam jointly?",0.23529411764705882
+Do you join the exam jointly?",0.2352941176470588,0.78099465
 "It won't do to have the wrong idea
 of the true meaning of that statement.","その本当の意味を
 はき違えてもらっては困る
@@ -1173,12 +1173,12 @@ of the true meaning of that statement.","その本当の意味を
 ","The true meaning
 I'm troubled to get a mistake
 .
-➡",0.22727272727272727
+➡",0.2272727272727273,0.47363794
 These exams are so to speak...,"この試験はいわば…
 ｡
 
 ","This test is so-called ...
-.",0.08333333333333333
+.",0.08333333333333333,0.51077676
 "A microcosm of battle
 between allied nations.","(
 猿飛
@@ -1187,15 +1187,15 @@ between allied nations.","(
 ｡
 
 ","It is a collection of battle between allies
-.",0.4166666666666667
+.",0.4166666666666667,0.70301104
 What does that mean?,"(ﾃﾝﾃﾝ)
 どういうこと？
 
-",What do you mean?,0.42857142857142855
+",What do you mean?,0.42857142857142855,0.6106753
 "the allied nations of today were
 once neighboring nations","忍のレベルを高め合う➡
 
-",Improve the level of Shinobu,0.18181818181818182
+",Improve the level of Shinobu,0.18181818181818185,-0.06684347
 "that continued to vie with
 each other and battle for power.","かつて勢力を競い合い
 争い続けた隣国どうし
@@ -1205,11 +1205,11 @@ each other and battle for power.","かつて勢力を競い合い
 ","Competing to the power once
 What is the neighboring country that has been fighting
 .
-➡",0.17391304347826086
+➡",0.17391304347826084,0.54906785
 "In order to avoid a futile crushing
 of each others' military strength,","潰し合いを避けるために➡
 
-",In order to avoid crushing,0.35714285714285715
+",In order to avoid crushing,0.35714285714285715,0.4346976
 "those nations mutually selected
 a place to battle.","あえて選んだ戦いの場
 ｡
@@ -1217,13 +1217,13 @@ a place to battle.","あえて選んだ戦いの場
 
 ","A place for the battle chosen
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.5324631
 "And that was how the
 Chunin Exams originally began.","そもそもの始まりなのじゃ
 ｡
 
 ","That's the beginning of the first place
-.",0.2
+.",0.2,0.23407726
 "W-Why do we have
 to do such a thing?","な…
  
@@ -1233,14 +1233,14 @@ to do such a thing?","な…
 ","...
  
 What is that
-If you have to do it?",0.25
+If you have to do it?",0.25,0.49339083
 "But on the other hand,","だが
  
 その一方➡
 
 ","But
  
-One of them",0.1111111111111111
+One of them",0.1111111111111111,0.46921158
 "who request Shinobi for work
 are invited to this third exam as guests.","(
 猿飛
@@ -1249,14 +1249,14 @@ are invited to this third exam as guests.","(
 われら忍に仕事の依頼をすべき➡
 
 ","For this third examination
-I should ask for a request to work",0.3157894736842105
+I should ask for a request to work",0.3157894736842105,0.5589211
 of the nations will watch your battles.,"国の威信？
 
-",Is the prestige of the country?,0.16666666666666666
+",Is the prestige of the country?,0.16666666666666666,0.26399332
 "If the gap in national power
 becomes unbridgeable,","国力の差が歴然となれば➡
 
-",If the difference in national power is clear,0.4166666666666667
+",If the difference in national power is clear,0.4166666666666667,0.67901117
 "we can exert pressure upon
 each neighboring nation...","隣国各国に対し
  
@@ -1264,13 +1264,13 @@ each neighboring nation...","隣国各国に対し
 
 ","Each country for neighboring countries
  
-I am ➡",0.13333333333333333
+I am ➡",0.13333333333333333,0.44836235
 "The Village's strength is
 the Shinobi's strength.","里の力は忍の力
 ｡
 
 ","The power of the village is the power of Shinobu
-.",0.4
+.",0.4,0.79601854
 "And the true strength of the Shinobi
 is created only in a fight for one's life!","命懸けの戦いの中でしか
 生まれてこぬ
@@ -1278,7 +1278,7 @@ is created only in a fight for one's life!","命懸けの戦いの中でしか
 
 ","Only in the battle of life
 Born
-.",0.25
+.",0.25,0.37209463
 "This exam is a place to see
 the strength of home country Shinobi,","この試験は
  
@@ -1288,14 +1288,14 @@ the strength of home country Shinobi,","この試験は
 ","This test is
  
 National Shinobu
-It is a place where you can see the power",0.2727272727272727
+It is a place where you can see the power",0.2727272727272727,0.7184107
 and a place to display this as well.,"見せつける場でもある
 ｡
 ➡
 
 ","It is also a place to show
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.5696776
 "It is because it's an exam where
 you truly fight for your life","(
 キバ
@@ -1308,13 +1308,13 @@ you truly fight for your life","(
 ","Because
  
 What is your life
-You need to fight?",0.35294117647058826
+You need to fight?",0.35294117647058826,0.5801
 "It's for this very reason that
 your forerunners fought in this exam,","中忍試験を戦ってきた
 ｡
 
 ","I've fought Nakanobu Exam
-.",0.11764705882352941
+.",0.1176470588235294,0.47452375
 a dream worth striving for.,"だからこそ
  
 先人たちも目指す
@@ -1323,7 +1323,7 @@ a dream worth striving for.,"だからこそ
 ","Because
  
 Aim for the ancestors
-As a dream that is valuable only",0.2
+As a dream that is valuable only",0.2,0.42915818
 "Then why...
 use the expression ""friendship""?!","では
  
@@ -1337,13 +1337,13 @@ use the expression ""friendship""?!","では
 why
  
 Friendship
-Do you want to say?",0.17647058823529413
+Do you want to say?",0.17647058823529413,0.7256161
 "This is the friendship
 of the Shinobi world.","忍の世界の友好
 ｡
 
 ","Ninhen world friendship
-.",0.3333333333333333
+.",0.3333333333333333,0.48408237
 "This is a fight for life with
 the pride of the village and","己の夢と里の威信を懸けた
 命懸けの戦いなのじゃ
@@ -1351,7 +1351,7 @@ the pride of the village and","己の夢と里の威信を懸けた
 
 ","I had the prestige of my dream and village
 It's a battle of life
-.",0.2857142857142857
+.",0.2857142857142857,0.5413946
 "Heh, I'm convinced.","ヘッ
  
 納得行ったぜ
@@ -1360,7 +1360,7 @@ It's a battle of life
 ","Hem
  
 I was convinced
-.",0.375
+.",0.375,0.41990364
 Anything is fine.,"(
 我愛羅
 )
@@ -1370,7 +1370,7 @@ Anything is fine.,"(
 
 ","What is
  
-Faster faster",0.16666666666666666
+Faster faster",0.16666666666666666,-0.032030705
 "Just tell us the content of
 that fight-for-life test.","その命懸けの試験ってやつの
 内容を聞かせろ
@@ -1378,13 +1378,13 @@ that fight-for-life test.","その命懸けの試験ってやつの
 
 ","Testing of that life is
 Let me hear the content
-.",0.3125
+.",0.3125,0.66465044
 "Now then, this is where I'd like to
 explain the third exam.","第３の試験の
 説明をしたいところなのじゃが➡
 
 ","Third test
-It's where I would like to explain",0.3157894736842105
+It's where I would like to explain",0.3157894736842105,0.71264905
 But actually...,"実はのう…
 ｡
 (
@@ -1392,7 +1392,7 @@ But actually...,"実はのう…
 )
 
 ","Actually ...
-.",0.5
+.",0.5,0.826561
 "Nice to meet you, everyone...","(ﾊﾔﾃ)
 皆さん
  
@@ -1402,7 +1402,7 @@ But actually...,"実はのう…
 ","everyone
  
 Nice to meet you
-.",0.625
+.",0.625,0.8311447
 "Umm, there's something...
 I'd like you all to do...","やってもらいたいことが
 あるんですね
@@ -1410,13 +1410,13 @@ I'd like you all to do...","やってもらいたいことが
 
 ","What I want to do
 There is
-.",0.23529411764705882
+.",0.2352941176470588,0.4535294
 before the third exam.,"(ﾊﾔﾃ)
 皆さんには第３の試験前に…
 ｡
 
 ","Everyone is before the third test ...
-.",0.4444444444444444
+.",0.4444444444444444,0.64221984
 "<i>when you want to cry, and you want to run away</i>","♬
  
 君は
@@ -1427,14 +1427,14 @@ before the third exam.,"(ﾊﾔﾃ)
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.3908758
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.28646743
 "It's too much for you, Sasuke!
 Please, drop out!","♬
  
@@ -1446,7 +1446,7 @@ Please, drop out!","♬
  
 Already
  
-it's fine",0.13333333333333333
+it's fine",0.13333333333333333,0.20856543
 "You're in no condition
 to fight properly!","♬
  
@@ -1454,14 +1454,14 @@ to fight properly!","♬
 
 ","♬
  
-In this hand",0.08333333333333333
+In this hand",0.08333333333333333,0.21065918
 "No matter what you say,","♬
  
 幸せを忘れてしまったら
 
 ","♬
  
-If you forgot happiness",0.1
+If you forgot happiness",0.1,0.18446149
 "I'm going to tell the teachers
 about that bruise.","♬
  
@@ -1469,7 +1469,7 @@ about that bruise.","♬
 
 ","♬
  
-I want to cry",0.14285714285714285
+I want to cry",0.14285714285714285,0.1527987
 "Next episode: ""Narrowing the Field:
 Sudden Death Elimination!""","♬
  
@@ -1477,4 +1477,4 @@ Sudden Death Elimination!""","♬
 
 ","♬
  
-A singing",0.0
+A singing",0.0,0.04519052

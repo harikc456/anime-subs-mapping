@@ -1,364 +1,364 @@
-en_text,jp_text,google_translated,score
-nakushita yakusoku wa hoshi ni,♪～,♪ ~,0.0
-"Hey, Mayama...",（山田(やまだ)あゆみ）ねえ 真山(まやま),Ayumi) Hey Miyama,0.14285714285714285
-P-Please...,お願い,please,0.0
-Show us how to do this!,（真山）怖がらなくていいんだよ,You don't have to be scared,0.16666666666666666
-But either way...,…にしても—,…even if-,0.0
-I wonder if dinosaurs were like this...,恐竜とかって こんなだったのかな,I wonder if it was a dinosaur,0.25
-What is it?,（真山）ん？ 何だよ,?What,0.5
-Nothing.,何でもない,Nothing,0.5
-"Hey now, Mayama...",ちょっと 真山…,A little Miyama ...,0.125
-"It's actually from a warm country, but\Nit's been brought to such a cold place.",こんな寒い所に連れてこられて,It is taken to such a cold place,0.3333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+nakushita yakusoku wa hoshi ni,♪～,♪ ~,0.0,0.19094339
+"Hey, Mayama...",（山田(やまだ)あゆみ）ねえ 真山(まやま),Ayumi) Hey Miyama,0.14285714285714285,0.36356094
+P-Please...,お願い,please,0.0,0.5150902
+Show us how to do this!,（真山）怖がらなくていいんだよ,You don't have to be scared,0.16666666666666666,-0.042900722
+But either way...,…にしても—,…even if-,0.0,0.3067407
+I wonder if dinosaurs were like this...,恐竜とかって こんなだったのかな,I wonder if it was a dinosaur,0.25,0.7480049
+What is it?,（真山）ん？ 何だよ,?What,0.5,0.34722465
+Nothing.,何でもない,Nothing,0.5,0.88346446
+"Hey now, Mayama...",ちょっと 真山…,A little Miyama ...,0.125,0.3208611
+"It's actually from a warm country, but\Nit's been brought to such a cold place.",こんな寒い所に連れてこられて,It is taken to such a cold place,0.3333333333333333,0.705727
 "There's a good number of giraffes in Japan, but\Nit's not like it'll ever meet another of its kind...","キリンは日本に数頭いるけど
 仲間に会えるわけでも—","Kirin has several heads in Japan
-Even if you can meet friends-",0.1
+Even if you can meet friends-",0.1,0.4153139
 ...and will spend the rest of its life here in\Nsolitude without ever speaking to anyone.,"生涯 誰とも
 口を利くこともなく—","Lifetime anyone
-None of the mouth-",0.15
-No!,イヤー！,Ear!,0.3333333333333333
+None of the mouth-",0.15,0.2852829
+No!,イヤー！,Ear!,0.3333333333333333,0.3706547
 Why did Mister Giraffe have to be brought to a place like this?!,"じゃあ なんで誰も
 見に来てないの！","Well why everyone
-I have not come to see!",0.2
+I have not come to see!",0.2,0.2729661
 Probably so kids in countries where giraffes\Ncan't normally be seen can see them.,"それは きっと キリンが
 見られない国の子供たちにも—","That's probably giraffe
-Also for children in the country that can not be seen-",0.16
-Then why isn't anyone here?!,ここで死ぬまで独りぼっち,It is alone until it dies here,0.16666666666666666
+Also for children in the country that can not be seen-",0.16,0.8538983
+Then why isn't anyone here?!,ここで死ぬまで独りぼっち,It is alone until it dies here,0.16666666666666666,0.31136325
 "Here, look! You're a kid!","（森田 忍(もりたしのぶ)）お前 見ろ！ 子供代表
 （はぐみ）ギャー！",") Look at the front!Child representative
- gau!",0.13333333333333333
-"Mayama, wake up!",（山田）真山 起きてー！,Keep up Miyama!,0.2857142857142857
+ gau!",0.13333333333333333,0.40520608
+"Mayama, wake up!",（山田）真山 起きてー！,Keep up Miyama!,0.2857142857142857,0.32207334
 "After memorizing this whole scene with the giraffe, she'll\Nprobably spit it all out onto a canvas back in Tokyo...","東京に戻って
 キャンバスに吐き出すのだろう","Return to Tokyo
-It will spit on the canvas",0.2
-Are you done?,（はぐみ）え？,?,0.25
-Want to try giving it a carrot?,ニンジン あげてみる？,Do you want to raise a carrot?,0.45454545454545453
+It will spit on the canvas",0.2,0.67290044
+Are you done?,（はぐみ）え？,?,0.25,0.2790877
+Want to try giving it a carrot?,ニンジン あげてみる？,Do you want to raise a carrot?,0.4545454545454545,0.7306401
 Here.,"（竹本）はい
 （はぐみ）わあ","Yes
- Wow",0.0
-M-Morita-san...,あっ… いや,Oh ... No,0.25
+ Wow",0.0,0.17292988
+M-Morita-san...,あっ… いや,Oh ... No,0.25,0.052854612
 "Hagu-chan, get a hold of yourself!","（はぐみ）あうあう…
 （竹本）はぐちゃん しっかり！","meet ...
- Hagu-chan is firm!",0.16666666666666666
+ Hagu-chan is firm!",0.16666666666666666,0.76352364
 "Hold on a second, I'll go buy another one!","ちょっと待ってて
 新しいのを買ってくるから","Wait a minute
-Because we buy new",0.11764705882352941
-I'm actually worried.,俺は心配だよ,I'm worried,0.6
-Just make sure you aren't so quick to hit your superiors\Nand coworkers once you're working for a company.,会社に入っても上司や同僚に—,"Even if you enter the company, to the boss and colleagues-",0.10714285714285714
+Because we buy new",0.1176470588235294,0.45328856
+I'm actually worried.,俺は心配だよ,I'm worried,0.6,0.7715175
+Just make sure you aren't so quick to hit your superiors\Nand coworkers once you're working for a company.,会社に入っても上司や同僚に—,"Even if you enter the company, to the boss and colleagues-",0.10714285714285714,0.5697808
 I've also been turned down by every company I've applied to so far.,"…ていうか 今のところ
 受けた会社 全部 落ちてるし","... or so far
-All the companies received",0.1
-I'm still waiting for my results myself.,俺も今 結果待ちだけどさ,I'm waiting for the result but,0.3333333333333333
-I'm sorry.,（花本修司(しゅうじ)の声）逃げてきたか,I'm running away,0.3333333333333333
-He ran away...,（山田の声）逃げた,Run away,0.2
-Why don't you have a seat?,よっ　座れば？,If you sit down?,0.18181818181818182
-So what is it?,…で 何だい？,What is ...?,0.5
+All the companies received",0.1,0.33755115
+I'm still waiting for my results myself.,俺も今 結果待ちだけどさ,I'm waiting for the result but,0.3333333333333333,0.6947557
+I'm sorry.,（花本修司(しゅうじ)の声）逃げてきたか,I'm running away,0.3333333333333333,0.2723345
+He ran away...,（山田の声）逃げた,Run away,0.2,0.5853435
+Why don't you have a seat?,よっ　座れば？,If you sit down?,0.18181818181818185,0.51059985
+So what is it?,…で 何だい？,What is ...?,0.5,0.29853058
 Someone from another office who I worked with told me...,"（真山）一緒に仕事した
 他の事務所の人に聞いたんです","I worked together
-I heard the person of another office",0.25
+I heard the person of another office",0.25,0.729352
 ...that there was someone who lived with\NRika-san for a while after her accident.,"しばらくの間
 一緒に暮らしてた人がいたって","For a while
-There was a person who lived together",0.4117647058823529
-"It was you, wasn't it, Sensei?",先生ですよね？,"You're a teacher, right?",0.2727272727272727
+There was a person who lived together",0.4117647058823529,0.42772427
+"It was you, wasn't it, Sensei?",先生ですよね？,"You're a teacher, right?",0.2727272727272727,0.17584015
 "When you put it that way, it sounds risqué, doesn't it?","そういうふうに言えば
 色っぽいけどな","That way says
-I like it",0.2
-I was probably just on the lookout...,多分 俺は見張ってたんだよ,Maybe I was watching,0.2
-Her husband?,（真山）旦那さんの？,What's your husband?,0.3333333333333333
-Yeah.,（花本）ああ,Oh,0.0
-He's good!,（花本の声）わっ うまい！,Will nice!,0.16666666666666666
-Want some bread?,（原田(はらだ)）食うか？ パン,) Do you eat?Bread,0.25
-Harada was a mysterious man.,（花本）原田は不思議な男だった,Harada was a mysterious man,0.8333333333333334
+I like it",0.2,0.48984078
+I was probably just on the lookout...,多分 俺は見張ってたんだよ,Maybe I was watching,0.2,0.48800156
+Her husband?,（真山）旦那さんの？,What's your husband?,0.3333333333333333,0.5142538
+Yeah.,（花本）ああ,Oh,0.0,0.5345116
+He's good!,（花本の声）わっ うまい！,Will nice!,0.16666666666666666,0.29273224
+Want some bread?,（原田(はらだ)）食うか？ パン,) Do you eat?Bread,0.25,0.66968536
+Harada was a mysterious man.,（花本）原田は不思議な男だった,Harada was a mysterious man,0.8333333333333334,0.9916111
 But I didn't feel uncomfortable with that at all.,"全部 見透かされてるような気に
 させられる","I feel like I'm all right
-Be made",0.1875
-"Then we worked part time together and moved\Nto a run-down apartment, though it had a yard.",なのに 全く不快じゃなかった,It was not completely uncomfortable though,0.09523809523809523
-Shuu! Look at this!,修司　見て見て,Look at Shuji,0.3333333333333333
+Be made",0.1875,0.21106732
+"Then we worked part time together and moved\Nto a run-down apartment, though it had a yard.",なのに 全く不快じゃなかった,It was not completely uncomfortable though,0.09523809523809523,0.16676793
+Shuu! Look at this!,修司　見て見て,Look at Shuji,0.3333333333333333,0.5817452
 And towards the end of our third year...,"（花本）
-そして ３年の終わりごろ",And he ends the end of 3 years,0.3076923076923077
-I'm home.,ただいま,I'm back,0.4
-Take a look!,見て見て,Look look,0.25
-I've finally tamed her.,やっと懐いた,I finally missed it,0.25
-E-Egami-san?,（花本）え… 江上(えがみ)さん？,E ... Jijo ?,0.2
+そして ３年の終わりごろ",And he ends the end of 3 years,0.3076923076923077,0.5103872
+I'm home.,ただいま,I'm back,0.4,0.634672
+Take a look!,見て見て,Look look,0.25,0.24653344
+I've finally tamed her.,やっと懐いた,I finally missed it,0.25,0.20113519
+E-Egami-san?,（花本）え… 江上(えがみ)さん？,E ... Jijo ?,0.2,0.446707
 Rika was a girl from Hokkaido who was terribly good at drawing.,"（花本）理花は北海道から来た
 恐ろしく絵のうまい女の子で","Flower came from Hokkaido
-A girl with a pretty picture",0.23529411764705882
+A girl with a pretty picture",0.2352941176470588,0.5031364
 "She was known around campus as the ""Snow Queen""\Ndue to her beauty and unfriendliness...","学内では“雪の女王”とか呼ばれて
 男子の注目の的だった","In the campus ""Snow Queen""
-She was a female attention",0.36363636363636365
-She seems to be really tired from her work.,バイトで相当 疲れてるみたいだな,It seems that it is quite tired by byte,0.125
+She was a female attention",0.3636363636363637,0.76939255
+She seems to be really tired from her work.,バイトで相当 疲れてるみたいだな,It seems that it is quite tired by byte,0.125,0.27854022
 "Oh, that's a good idea!","ちょうどよかった
 今日は鍋なんだ ３人で食おうぜ","It was good
-Today is a pot that she eats with three people",0.16666666666666666
-It's good.,おお そりゃいいな,Good morning,0.2
-Isn't it?,だろ？ 修の料理は最高だろ,Is it?The cooking cooking is the best,0.42857142857142855
-"Harada, let her eat at her leisure.",原田　ゆっくり食わせてやれよ,I will eat Harada slowly,0.18181818181818182
+Today is a pot that she eats with three people",0.16666666666666666,0.028169682
+It's good.,おお そりゃいいな,Good morning,0.2,0.3128334
+Isn't it?,だろ？ 修の料理は最高だろ,Is it?The cooking cooking is the best,0.42857142857142855,0.27045998
+"Harada, let her eat at her leisure.",原田　ゆっくり食わせてやれよ,I will eat Harada slowly,0.18181818181818185,0.703015
 "Looking back, Harada might've picked up both Rika and me.","原田に拾われたようなもの
 だったのかもしれない","What was picked up in Harada
-Maybe it was",0.16666666666666666
-Just like those cats and dogs.,あの猫や犬たちと同じように,Like that cat and dogs,0.3333333333333333
+Maybe it was",0.16666666666666666,0.59043956
+Just like those cats and dogs.,あの猫や犬たちと同じように,Like that cat and dogs,0.3333333333333333,0.89998806
 "From then on, the three of us lived together in that apartment...","俺たちは そのアパートで
 ３人で暮らした","We are in its apartment
-I lived with three people",0.2
+I lived with three people",0.2,0.6201653
 "...until Harada and Rika decided to get married, became independent, and moved into that office.","２人で今の あの事務所に
 引っ越すまで—","Two people and now to that office
-Until Moving-",0.23809523809523808
-"Every day was the same, as if it was a matter\Nof fact, and things were ridiculously fun.",バカみたいに楽しくって,It is fun to be stupid,0.09090909090909091
-Have you seen Rika's body?,理花の体を見たこと あるか？,Have you ever seen the body of a flower flower?,0.4166666666666667
-Rika-san!,理花さん！,Raw flower!,0.25
-Mayama... kun?,（原田理花）真山… くん,Miyama ... Kun,0.4
-I'm sorry for coming in without asking.,すいません　勝手に入りました,I'm sorry I entered myself,0.2727272727272727
-It was a terrible accident.,ひどい事故だったんだ,It was a terrible accident,0.8333333333333334
+Until Moving-",0.2380952380952381,0.42175394
+"Every day was the same, as if it was a matter\Nof fact, and things were ridiculously fun.",バカみたいに楽しくって,It is fun to be stupid,0.09090909090909093,0.31620646
+Have you seen Rika's body?,理花の体を見たこと あるか？,Have you ever seen the body of a flower flower?,0.4166666666666667,0.44721162
+Rika-san!,理花さん！,Raw flower!,0.25,0.3111366
+Mayama... kun?,（原田理花）真山… くん,Miyama ... Kun,0.4,0.62410635
+I'm sorry for coming in without asking.,すいません　勝手に入りました,I'm sorry I entered myself,0.2727272727272727,0.65280384
+It was a terrible accident.,ひどい事故だったんだ,It was a terrible accident,0.8333333333333334,0.96784306
 "If a passing truck driver hadn't pulled\NRika out, she would've burned up too.","後続のトラックの運転手が
 引っ張り出してくれなかったら—","Subsequent truck driver
-If not pulled out-",0.14285714285714285
+If not pulled out-",0.14285714285714285,0.46835664
 "It was the night after the opening party for the store\Nthey had designed, and they were both really tired.","手がけた店の
 オープニングパーティーのあとで—","In the store you worked
-After the opening party-",0.125
-Rika was the one driving.,運転していたのは理花だった,It was fun that it was driving,0.2222222222222222
-If they had stayed at the party without going home...,あの晩 帰らずに朝までいれば,If you go to morning without going home,0.26666666666666666
-If they had left before it started snowing...,雪が降りだす前に帰っていれば,If you are back before the snow gets down,0.125
-If they had left their car there and taken a taxi...,車を置いてタクシーを使っていれば,If you use a car and use a taxi,0.35714285714285715
-If they hadn't taken that road...,あの道を通らなければ,If you don't go through that way,0.23076923076923078
+After the opening party-",0.125,0.50418687
+Rika was the one driving.,運転していたのは理花だった,It was fun that it was driving,0.2222222222222222,0.46200314
+If they had stayed at the party without going home...,あの晩 帰らずに朝までいれば,If you go to morning without going home,0.26666666666666666,0.540734
+If they had left before it started snowing...,雪が降りだす前に帰っていれば,If you are back before the snow gets down,0.125,0.5774604
+If they had left their car there and taken a taxi...,車を置いてタクシーを使っていれば,If you use a car and use a taxi,0.35714285714285715,0.65684533
+If they hadn't taken that road...,あの道を通らなければ,If you don't go through that way,0.2307692307692308,0.2824899
 I commuted to work from that office and\Ncame back to help her work at night.,"あの事務所から仕事に通い
 夜は仕事を手伝った","Go from that office to work
-I helped work at night",0.5
+I helped work at night",0.5,0.6050631
 I was worried that I would lose even Rika.,"理花まで失うんじゃないかと
 不安だった","I wonder if it will lose to flowering
-I was anxious",0.1875
-I couldn't stand the thought.,そんなのは耐えられなかった,I could not withstand that,0.2
-Then why did you leave her side?,なのに なぜ離れたんです？,Why didn't you leave?,0.5555555555555556
+I was anxious",0.1875,0.20093055
+I couldn't stand the thought.,そんなのは耐えられなかった,I could not withstand that,0.2,0.3730804
+Then why did you leave her side?,なのに なぜ離れたんです？,Why didn't you leave?,0.5555555555555556,0.6208083
 Rika began trying to distance herself from even me.,"理花は俺のことも
 遠ざけようとし始めた","Flower is also me
-I started to go away",0.11764705882352941
+I started to go away",0.1176470588235294,0.2366985
 Harada's existence was too significant for both her and me.,"俺にとっても 理花にとっても
 原田の存在は大きすぎた","Even for me for me
-The existence of Harada was too big",0.375
+The existence of Harada was too big",0.375,0.80517614
 "When Rika and I were together, we couldn't help but\Nreminisce about when all three of us were together.","そう思ったら
 もう一緒には いられなかった","If you think so
-I couldn't but she together",0.16666666666666666
+I couldn't but she together",0.16666666666666666,0.32190216
 "Once I started thinking that, I couldn't be around her any longer.","理花のためなんじゃないかなんて
 思い始めた","I wonder if there is no reason
-I started thinking",0.15
+I started thinking",0.15,0.40885785
 "I thought that I need to get away, cool\Nmy mind, and stabilize the situation.","一度 離れて冷静になって
 態勢を立て直さなければと思った","It becomes calm and calm
-I thought I had to fix her",0.19047619047619047
-And so you recommended me?,それで 俺を？,So do me?,0.42857142857142855
-Why did it have to be me?,なぜ 俺だったんですか？,Why was it me?,0.4444444444444444
+I thought I had to fix her",0.19047619047619047,0.4239347
+And so you recommended me?,それで 俺を？,So do me?,0.42857142857142855,0.40545225
+Why did it have to be me?,なぜ 俺だったんですか？,Why was it me?,0.4444444444444444,0.65300524
 "Out of all the guys I knew, you seemed to be the one...","俺の知ってる中では
 お前が一番—","While I know
-You are the most-",0.16666666666666666
-That's a terrible way to put it.,そうだ,That's it,0.3333333333333333
-And I never would've expected it to turn out like this.,アッハハハ　まったくだ,I'm addicted to Ahahaha,0.125
-Shuu-chan! Let's ride on the ferris wheel!,修ちゃーん　観覧車 乗ろう,Heart ferris wheel ride,0.3
+You are the most-",0.16666666666666666,0.418882
+That's a terrible way to put it.,そうだ,That's it,0.3333333333333333,0.20670485
+And I never would've expected it to turn out like this.,アッハハハ　まったくだ,I'm addicted to Ahahaha,0.125,0.12910046
+Shuu-chan! Let's ride on the ferris wheel!,修ちゃーん　観覧車 乗ろう,Heart ferris wheel ride,0.3,0.6693856
 "Oh yeah, Rika has already asked me\Nto introduce a new part-timer to her.","理花が新しいバイト
 紹介しろって言ってきたぞ","Raw flower is a new byte
-I told you to introduce",0.18181818181818182
-My actual acceptance letter hasn't come yet.,俺の本命の内定 まだですよ,I'm still the first of my favorite,0.0625
-Sensei...,理花さんのこと…,Mr. Rossa ...,0.25
+I told you to introduce",0.18181818181818185,0.18993379
+My actual acceptance letter hasn't come yet.,俺の本命の内定 まだですよ,I'm still the first of my favorite,0.0625,0.11515176
+Sensei...,理花さんのこと…,Mr. Rossa ...,0.25,0.39016613
 I don't know how to put it...,"（花本）理花は
-お前なら絶対 受かるって",I will never receive it,0.16666666666666666
+お前なら絶対 受かるって",I will never receive it,0.16666666666666666,0.2237538
 Harada and Rika were different from something\Nas simple as friends or lovers to me.,"原田も理花も
 恋人とも友達とも違った","Harada also also flowers
-A lover is also different from my friend",0.13636363636363635
-They were simply important.,ただ 大事だったんだ,I was just important,0.125
+A lover is also different from my friend",0.13636363636363635,0.6392399
+They were simply important.,ただ 大事だったんだ,I was just important,0.125,0.65683657
 "We lived in the same room, ate the same\Nfood, and breathed the same air.","同じ部屋で 同じ物を食べて
 同じ空気を吸って","Eat the same thing in the same room
-Suck the same air",0.3125
+Suck the same air",0.3125,0.6373115
 I came to think of them as a part of my body.,"もう自分の体の一部みたいに
 思っていた","Like a part of your body anymore
-had thought",0.23529411764705882
-Isn't Mayama good enough?,真山じゃ ダメなのか？,Is Miyama no good?,0.375
-I push away and hurt him but still keep him by my side.,（理花）突き放して 傷つけて,pushing away and hurt,0.21428571428571427
+had thought",0.2352941176470588,0.6746456
+Isn't Mayama good enough?,真山じゃ ダメなのか？,Is Miyama no good?,0.375,0.46925765
+I push away and hurt him but still keep him by my side.,（理花）突き放して 傷つけて,pushing away and hurt,0.21428571428571427,0.62251574
 It's not an acceptable way for people to interact.,"なのに そのまま
 そばに置き続けて","But it is
-Continue to put it by",0.125
-To think that I was being bolstered by his wounded heart...,傷つく顔に救われてたなんて,I was saved by my face,0.2
+Continue to put it by",0.125,0.06554051
+To think that I was being bolstered by his wounded heart...,傷つく顔に救われてたなんて,I was saved by my face,0.2,0.42424795
 Four more days until the due date...,"（真山）
-提出期限まで あと４日…",4 days after the submission deadline ...,0.25
-Tea,（山田）はい お茶,Yes tea,0.5
+提出期限まで あと４日…",4 days after the submission deadline ...,0.25,0.63663787
+Tea,（山田）はい お茶,Yes tea,0.5,0.8381733
 That's why I told you to start early.,"だから
 早くから やっとけって言ったろ","that's why
-I just told you",0.5454545454545454
-"Here you go, Hagu-chan, Takemoto-kun.",（山田）はい はぐちゃん,Yes Hagu-chan,0.125
-Thanks!,（森田）うわあ 山田！,Wow Yamada!,0.25
+I just told you",0.5454545454545454,0.38222602
+"Here you go, Hagu-chan, Takemoto-kun.",（山田）はい はぐちゃん,Yes Hagu-chan,0.125,0.729418
+Thanks!,（森田）うわあ 山田！,Wow Yamada!,0.25,0.2744156
 "Whaaa! Yamada, how can you be so calm?!","お前 なんで そんなに
 落ち着いてられるんだよ","Oh, why
-It can be settled down",0.1875
-My steamed buns!,ああ！ はぐの蒸しパン,Ah!Hague steamed bread,0.2857142857142857
-"I mean, I've already submitted my graduate thesis.",だって もう出しちゃったもん 卒制,Even though I already put out,0.14285714285714285
-gaaaan,うおおお,Uo,0.0
-An amazing piece?,すごいの？,Is it great?,0.14285714285714285
-"Aw, that's embarrassing.",えー？ 恥ずかしいな,Eh?It's embarrassing,0.2222222222222222
-A-A swan!,（庄田）は… 白鳥,... Swan,0.25
+It can be settled down",0.1875,0.2008327
+My steamed buns!,ああ！ はぐの蒸しパン,Ah!Hague steamed bread,0.2857142857142857,0.5323308
+"I mean, I've already submitted my graduate thesis.",だって もう出しちゃったもん 卒制,Even though I already put out,0.14285714285714285,0.24681634
+gaaaan,うおおお,Uo,0.0,0.2376537
+An amazing piece?,すごいの？,Is it great?,0.14285714285714285,0.43182117
+"Aw, that's embarrassing.",えー？ 恥ずかしいな,Eh?It's embarrassing,0.2222222222222222,0.7390639
+A-A swan!,（庄田）は… 白鳥,... Swan,0.25,0.69524425
 Yamada! Yamada! Yamada!,"（男子学生たち）おおっ
-（庄田(しょうだ)）いくかね！",going!,0.3333333333333333
+（庄田(しょうだ)）いくかね！",going!,0.3333333333333333,0.16551559
 I-It's the legendary large bowl!,"（男子学生たち）山田！ 山田！
 （庄田）で… 伝説の大杯(おおさかずき)じゃ","Yamada!Yamada!
- ... The legendary's fully",0.4
+ ... The legendary's fully",0.4,0.28649843
 Shouda-sensei said that it excited him so\Nmuch that his blood pressure went up.,"庄田先生 興奮して
 血圧が上がったって言ってたぞ","Mr. Kashiwa Excited
-I told you that blood pressure went up",0.3333333333333333
-"Oh no, it was just somewhat big.",早かったな 今のは,It was early now,0.18181818181818182
-"But you couldn't get a job, right?",でも就職は決まんなかったんだよね,But I did not find a job,0.21428571428571427
+I told you that blood pressure went up",0.3333333333333333,0.6674784
+"Oh no, it was just somewhat big.",早かったな 今のは,It was early now,0.18181818181818185,0.2432669
+"But you couldn't get a job, right?",でも就職は決まんなかったんだよね,But I did not find a job,0.21428571428571427,0.6813542
 Morita-san!,"（衝撃音）
-（森田）ギャー！",Gau!,0.3333333333333333
+（森田）ギャー！",Gau!,0.3333333333333333,0.35621756
 The going is t-t-ough for g-g-g-girls right now.,"じょ じょ じょ 女子は
 い 今 厳しいからな","It is a girl
-It's tough now",0.14285714285714285
+It's tough now",0.14285714285714285,0.3164802
 I'll try again in two years after I obtain more\Nqualifications as a graduate student.,"あと２年 研究生として
 作品を作りながら—","After another research student
-While making works-",0.1
-I see. Good luck.,そっか　頑張れ,I will do my best,0.1111111111111111
+While making works-",0.1,0.38870814
+I see. Good luck.,そっか　頑張れ,I will do my best,0.1111111111111111,0.20496206
 "Even if you pass your employment exam,\Nit would be silly if you couldn't graduate.","真山も
 就職試験 受かっても—","Miyama
-Even if you receive a job test",0.14285714285714285
+Even if you receive a job test",0.14285714285714285,0.39873827
 Me too!,"（森田）よーし 俺も俺も！
 （はぐみ）うお～！","I'm good too!
- u!",0.2857142857142857
-So you were here!,（丹下(たんげ)）ここに おったか！,) What happened here!,0.25
-Now come. There's no time for you to play around.,ほら 来い　遊んでる暇はないぞ,I have no time to play,0.2857142857142857
+ u!",0.2857142857142857,0.45531285
+So you were here!,（丹下(たんげ)）ここに おったか！,) What happened here!,0.25,0.542129
+Now come. There's no time for you to play around.,ほら 来い　遊んでる暇はないぞ,I have no time to play,0.2857142857142857,0.58836836
 "Let me retire already. At this rate, my life will end first!","このままでは
 わしの命が先に尽きるわ","If this goes on
-My life is going out first",0.19047619047619047
-"It hurts, Gramps!",痛いよ　おっちゃーん,It hurts Ochan,0.3333333333333333
+My life is going out first",0.19047619047619047,0.40776408
+"It hurts, Gramps!",痛いよ　おっちゃーん,It hurts Ochan,0.3333333333333333,0.4477516
 "Do your best, Morita.","（丹下）うるさい！
 （花本）頑張れよ 森田","noisy!
- I will do my best Morita",0.2727272727272727
-Where shall we go?,（竹本）どこ行こっか？,Where are you going?,0.25
+ I will do my best Morita",0.2727272727272727,0.57558924
+Where shall we go?,（竹本）どこ行こっか？,Where are you going?,0.25,0.49929798
 Let's get some fried rolls and croquette\Nbread at the Maruei Bakery!,"（はぐみ）丸栄(まるえい)ベーカリーで
 揚げパンとコロッケパン","Marui  Bakery
-Fried bread and croquette bread",0.1875
-Shinobu...,（馨）忍,Shinobu,0.5
-"Oh, it's my cell phone.",あっ 俺のピッチ,Oh my pitch,0.2222222222222222
+Fried bread and croquette bread",0.1875,0.72568274
+Shinobu...,（馨）忍,Shinobu,0.5,0.9169489
+"Oh, it's my cell phone.",あっ 俺のピッチ,Oh my pitch,0.2222222222222222,0.34097385
 Just why do you think I synchronized\Nit with my car's navigation system?,"何のために俺のカーナビと
 連動させたと思ってんだ","What is my car navigation for what
-I think I was linked",0.2631578947368421
-Do you like money?,お金 好き？,Do you like money?,1.0
+I think I was linked",0.2631578947368421,0.6841207
+Do you like money?,お金 好き？,Do you like money?,1.0,1.0000001
 I love it.,"ああ… すんません
 コーヒー下さい","Oh ... I'm sorry
-Coffee",0.1111111111111111
-"Yes, this is Mayama.",（はぐみ）はあ～ 死んでる,is dying ~,0.125
-Tomorrow?!,えっ？ あっ はい！,eh?Yes!,0.4
+Coffee",0.1111111111111111,0.17441618
+"Yes, this is Mayama.",（はぐみ）はあ～ 死んでる,is dying ~,0.125,0.20251316
+Tomorrow?!,えっ？ あっ はい！,eh?Yes!,0.4,0.2864484
 Of course. I'll do my best! Thank you!,"もちろんです 頑張ります
 うっす！","Of course I will do my best
-Hey!",0.5384615384615384
+Hey!",0.5384615384615384,0.6582143
 I got in.,"よく現場で一緒になって
 手伝ったりしてたからさ","Well in the field together
-Because I was helping",0.18181818181818182
-Fujiwara Design Office.,受かった　藤原(ふじわら)設計事務所,Fujiwara  Design Office,0.75
+Because I was helping",0.18181818181818185,0.25025812
+Fujiwara Design Office.,受かった　藤原(ふじわら)設計事務所,Fujiwara  Design Office,0.75,0.9791314
 Fujiwara Design Office? You did it!,"藤原設計事務所？
 やったじゃないか","Fujiwara Design Office?
-I did not do it",0.5454545454545454
+I did not do it",0.5454545454545454,0.9488113
 But why did they call you directly instead\Nof our employment department?,"でも なんで直接 電話 来んの？
 就職課じゃなくて","But why do you call directly?
-It is not a job breaking section",0.3
-Wow... But I'm so happy.,いや でも すげえ うれしい,I'm very happy,0.3333333333333333
-Mayama... So you got in.,（真山）お… おかげさんで,...,0.14285714285714285
-I'm so glad.,真山　受かったんだ,I received Miyama,0.14285714285714285
-Morita!,（丹下）森田あー！,Morita Ah!,0.6666666666666666
-"What's the matter, Tange-sensei?",丹下先生 どうしたんですか？,What happened to Tange teacher?,0.18181818181818182
+It is not a job breaking section",0.3,0.66306454
+Wow... But I'm so happy.,いや でも すげえ うれしい,I'm very happy,0.3333333333333333,0.6693265
+Mayama... So you got in.,（真山）お… おかげさんで,...,0.14285714285714285,0.19340968
+I'm so glad.,真山　受かったんだ,I received Miyama,0.14285714285714285,0.04187663
+Morita!,（丹下）森田あー！,Morita Ah!,0.6666666666666666,0.9339737
+"What's the matter, Tange-sensei?",丹下先生 どうしたんですか？,What happened to Tange teacher?,0.18181818181818185,0.41703337
 He's not here! That idiot isn't here!,"いないんじゃ
 あのアホタレが いないんじゃ","It is not
-That a fool is not she",0.23076923076923078
+That a fool is not she",0.2307692307692308,0.24356686
 And the graduate thesis is due in 30 minutes!,"卒制 締め切りまで
 あと30分しかないのに！","Until graduation deadline
-I have only 30 minutes!",0.1875
+I have only 30 minutes!",0.1875,0.47527614
 But he was 90% finished.,"だって ９割方
 出来上がってたじゃないですか","Because of 90%
-Isn't it done?",0.14285714285714285
+Isn't it done?",0.14285714285714285,0.45067045
 He left the last 10% and disappeared!,"そのあと１割を残して
 どっかに消えおった","Leave another 10%
-I gone somewhere",0.14285714285714285
+I gone somewhere",0.14285714285714285,0.6466154
 But why is it macho?,"ピッタリじゃないですか
 ヘ… ヘヘヘ","Isn't it perfect?
-Hyehehehe",0.3333333333333333
+Hyehehehe",0.3333333333333333,0.17433117
 Let's just accept it.,"（花本）
 教授 もういいじゃないっすか
 受け取っちゃいましょう","Professor
-Let's receive it",0.375
-"The word ""hanninmae""  literally means ""half a man.""",じゃあ タイトルは“半人前”,"Well then the title is ""one half""",0.25
+Let's receive it",0.375,0.37240666
+"The word ""hanninmae""  literally means ""half a man.""",じゃあ タイトルは“半人前”,"Well then the title is ""one half""",0.25,0.34090272
 "B-But while I'm still alive, I can't accept\Nsomething that's incomplete.","し… しかし わしの目の黒いうちは
 未完成の物を受け取るなど…","... But in black of the eyes
-Receive incomplete things, etc.",0.125
+Receive incomplete things, etc.",0.125,0.3076392
 I love money!,"（森田）お金が好き！
 （丹下）うわあー！","I like money!
- Wow!",0.5
+ Wow!",0.5,0.8625193
 Who in the world did this to Gramps?!,"おっちゃーん
 いったい誰が おっちゃんを！","Ochan
-Who is her niece!",0.14285714285714285
+Who is her niece!",0.14285714285714285,0.11365275
 You did.,"（３人）お前だよ
 （丹下）死ぬ 死ぬ","You are you
- die death",0.16666666666666666
+ die death",0.16666666666666666,0.15988159
 "Well then, congratulations on submitting your\Ngraduate thesis and emergency thesis.","（花本）じゃ 卒制提出 アンド
 進級課題提出 おめでとう","Submission and
-Congratulations on submission",0.25
-Cheers!,（一同）乾杯！,toast!,0.3333333333333333
-"So in the end, the only one out of this\Ngroup who will go away is Mayama.",真山だけってことか,Is it only Miyama?,0.1
+Congratulations on submission",0.25,0.38718697
+Cheers!,（一同）乾杯！,toast!,0.3333333333333333,0.24337079
+"So in the end, the only one out of this\Ngroup who will go away is Mayama.",真山だけってことか,Is it only Miyama?,0.1,0.31029737
 Just a little bit...,"あっ あくまでも
 ちょっとですけどね","Awaken
-It is a little bit",0.375
+It is a little bit",0.375,0.44066888
 It's painful to see.,"だって 仲間外れは
 嫌いなんだもん","Because I'm going to go out
-I hate it",0.15384615384615385
-Hello there.,ちわっす,Hi,0.0
+I hate it",0.15384615384615385,0.24819118
+Hello there.,ちわっす,Hi,0.0,0.5852377
 All right. Let's try this again.,"（真山）…で
 （花本）やっぱり こうなると","...
- After all this",0.2
-And so...,（山田）ハハハハ…,Hahahaha ...,0.25
+ After all this",0.2,0.2299345
+And so...,（山田）ハハハハ…,Hahahaha ...,0.25,0.40203118
 "Oh yeah, Mayama... About the new part-timer\NRika asked me to look for...","理花に探すの頼まれてた
 新しいバイトだけどさ","I was asked to look for a flower
-It is a new byte",0.23809523809523808
+It is a new byte",0.2380952380952381,0.19272025
 What do you think? Should it be a guy or a girl?,"お前 男がいいと思う？
 女がいいと思う？","Do you think your man is good?
-Do you think women are good?",0.2222222222222222
+Do you think women are good?",0.2222222222222222,0.33964303
 "Well, let's see...","ああ でも女のほうが 理花さん
 かえって気を使ってダメか","Oh, the woman's woman is
-Is it useless using it",0.15384615384615385
+Is it useless using it",0.15384615384615385,0.21742995
 "Ah, but putting an unfamiliar brat in that room with Rika-san...?","ああ でも あの部屋に知らんガキと
 理花さんを一緒に？","Oh, I do not know that room
-Together with raw flower?",0.22727272727272727
+Together with raw flower?",0.2272727272727273,0.3580891
 "Then a guy, after all?","（真山の声）
-力仕事があるから男のほうが","Because there is a power work, a man is",0.15384615384615385
+力仕事があるから男のほうが","Because there is a power work, a man is",0.15384615384615385,0.17235804
 Do you know of a company called Art Craft?,"アートクラフトって会社
 知ってるか？","Art craft company
-Do you know?",0.7
-"Ah, yes. I've worked with them a few times before.",ああ はい 何回か一緒に仕事を,Oh yes I work together several times,0.17647058823529413
-Asai-san      A gentleman in his fifties,しばらくの間—,For a while-,0.125
+Do you know?",0.7,0.9556366
+"Ah, yes. I've worked with them a few times before.",ああ はい 何回か一緒に仕事を,Oh yes I work together several times,0.17647058823529413,0.53666556
+Asai-san      A gentleman in his fifties,しばらくの間—,For a while-,0.125,0.17677565
 All right! There's nothing to worry about if that Asai-san is with her!,"（真山の声）
 よし！ あの浅井さんが
 付いてれば心配なし","OK!That Asai is
-No worries if attached",0.2
+No worries if attached",0.2,0.5876571
 "Now, now, wake up, everyone. Let's go home and sleep.","（真山）
 さあさあ みんな 起きて
 家に帰って寝よう","Well everyone happens
-Let's go home and go to bed",0.375
+Let's go home and go to bed",0.375,0.54782027
 "Well then, Mayama, I'm leaving now,\Nso please lock the door behind you.","じゃあ真山 俺 先に降りるから
 鍵かけて出ておくれな","Well then, I get off my first
-Do not leave it out",0.16
-"What about Yamada, Sensei?",あの 先生　山田は？,That teacher Yamada?,0.25
-You take her home.,お前が送っていけ,You will send you,0.14285714285714285
+Do not leave it out",0.16,0.2864148
+"What about Yamada, Sensei?",あの 先生　山田は？,That teacher Yamada?,0.25,0.6349115
+You take her home.,お前が送っていけ,You will send you,0.14285714285714285,0.18832372
 And make sure that she doesn't need\Nto get drunk like that anymore.,"…で もう そんなふうに
 酔わんで済むようにしてやれ","... like this
-Do it so that you can get drunk",0.2
-"Hey, Yamada...",ほら 山田,Yamada,0.25
-"Yamada, that's too tight!",だから—,that's why-,0.25
+Do it so that you can get drunk",0.2,0.43415928
+"Hey, Yamada...",ほら 山田,Yamada,0.25,0.8600753
+"Yamada, that's too tight!",だから—,that's why-,0.25,0.12051139
 But... I thought that you'd go away somewhere if I turned you down.,"でも断ったら お前は
 どっか行っちまうんだって思って","But if you refuse
-I think I'm going to go somewhere",0.3157894736842105
+I think I'm going to go somewhere",0.3157894736842105,0.50472087
 "When I looked at you, it hurt me because\Nit was like looking at myself.","お前 見てると
 自分 見てるみたいで痛かった","If you look at it
-It was painful because I looked at myself",0.3684210526315789
+It was painful because I looked at myself",0.3684210526315789,0.6846169
 "I thought, ""Ah, I wonder if I look like\Nthat from Rika-san's perspective...""","ああ 理花さんから見た俺って
 こんなかなって思って","Oh, I saw it from Rika
-I think this kind",0.13636363636363635
-Uncool and persistent...,（山田）うっ…,Uh ...,0.2
-And I'm still uncool.,俺は カッコ悪いまんまだし,I'm sorry I'm sorry,0.2857142857142857
-And I wasn't able to give up on her.,諦めらんなかった,I could not give up,0.23076923076923078
+I think this kind",0.13636363636363635,0.5960901
+Uncool and persistent...,（山田）うっ…,Uh ...,0.2,0.19822022
+And I'm still uncool.,俺は カッコ悪いまんまだし,I'm sorry I'm sorry,0.2857142857142857,0.25189853
+And I wasn't able to give up on her.,諦めらんなかった,I could not give up,0.2307692307692308,0.586649
 "Yamada, are you drooling on me?","あっ 山田 お前
 ヨダレ垂らしたな？","Yamada Yamada
-Did you deprote a Yodare?",0.25
-I love you!,（山田）大好き,I love,0.5
+Did you deprote a Yodare?",0.25,0.6345408
+I love you!,（山田）大好き,I love,0.5,0.52982813
 Next episode: We look for a miracle.,"（竹本の声）
 次回 僕たちは
 奇跡を探す","The next time we
-Find a miracle",0.3333333333333333
+Find a miracle",0.3333333333333333,0.7089088

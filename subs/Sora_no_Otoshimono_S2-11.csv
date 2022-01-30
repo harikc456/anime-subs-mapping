@@ -1,382 +1,382 @@
-en_text,jp_text,google_translated,score
-"Tomo, wake up!",（ダイダロス）智(とも)君 起きて,Tomo  you get up,0.2857142857142857
-Run! Run as far as you\Ncan before she comes!,あの子が来る前に,Before that child comes,0.2
-Who are you talking about?,あの子って誰だ？,Who is that child?,0.2222222222222222
-The second generation...,第二世代… ん？,Second generation ...?,0.6
+en_text,jp_text,google_translated,score,semantic_score
+"Tomo, wake up!",（ダイダロス）智(とも)君 起きて,Tomo  you get up,0.2857142857142857,0.7326701
+Run! Run as far as you\Ncan before she comes!,あの子が来る前に,Before that child comes,0.2,0.30673048
+Who are you talking about?,あの子って誰だ？,Who is that child?,0.2222222222222222,0.409479
+The second generation...,第二世代… ん？,Second generation ...?,0.6,0.8723138
 "What do you want to play\Nthis time, Brother?","（カオス）ウフフフ
 今度は何して遊ぶ？ お兄ちゃん","Uhhufu
-What do you play this time?brother",0.46153846153846156
-I had that dream again.,（智樹）また あの夢…,again the dream ...,0.25
+What do you play this time?brother",0.4615384615384616,0.692785
+I had that dream again.,（智樹）また あの夢…,again the dream ...,0.25,0.6423209
 You're gonna be late for school.,"学校 遅れちゃうよ
 外 すごい雨だけど","I will be late for school
-It's a great rain",0.25
-I wonder if there's a hurricane coming.,台風でも来てるのかな,I wonder if the typhoon is coming,0.3333333333333333
-What happened to Ikaros?,イカロスはどうしたんだ？,What happened to Ikaros?,1.0
+It's a great rain",0.25,0.56392276
+I wonder if there's a hurricane coming.,台風でも来てるのかな,I wonder if the typhoon is coming,0.3333333333333333,0.8274426
+What happened to Ikaros?,イカロスはどうしたんだ？,What happened to Ikaros?,1.0,0.99999994
 "I'll look into it for you, Alpha.","今日は私も休むから
 アルファの看病が必要だし","Today I also rest
-It is necessary to nurse alpha",0.17647058823529413
-Okay...,うーん…,Hmm ...,0.3333333333333333
-"Are you okay, Ikaros?",（そはら）大丈夫？ イカロスさん,okay?Ikaros,0.5
-See you later.,いってらっしゃい,Let's go,0.0
-Who was that just now?,今の… 誰？,Now ... Who?,0.42857142857142855
-What are you talking about?,ハア？ 何それ,Haa?What that,0.25
+It is necessary to nurse alpha",0.17647058823529413,0.42654604
+Okay...,うーん…,Hmm ...,0.3333333333333333,0.49437258
+"Are you okay, Ikaros?",（そはら）大丈夫？ イカロスさん,okay?Ikaros,0.5,0.79027164
+See you later.,いってらっしゃい,Let's go,0.0,0.3240191
+Who was that just now?,今の… 誰？,Now ... Who?,0.42857142857142855,0.5534403
+What are you talking about?,ハア？ 何それ,Haa?What that,0.25,0.27444142
 "Accompanying the heavy rain,","（守形(すがた)）局地的な大雨と共に
 各地で不気味な現象が起きている","With local heavy rain
-A spooky phenomenon has occurred in various places",0.13333333333333333
+A spooky phenomenon has occurred in various places",0.13333333333333333,0.5107005
 "But the problem is, this hurricane is\Nrotating in the opposite direction.","（守形）しかし問題は この台風が
 逆回転をしている点だ","But the problem is this typhoon
-It is a point that is reverse rotation",0.2631578947368421
-That would normally be impossible...,通常ではありえない,Normally not,0.14285714285714285
+It is a point that is reverse rotation",0.2631578947368421,0.6958419
+That would normally be impossible...,通常ではありえない,Normally not,0.14285714285714285,0.20454463
 "The hurricane is heading\Ndue south, almost like...","台風はまっすぐ南下している
 まるで…","The typhoon is straight south
-as if…",0.23076923076923078
+as if…",0.2307692307692308,0.6577289
 It's headed straight for Sorami City.,"（美香子(みかこ)）
 空美町(そらみちょう)を目指しているみたいね",")
-It looks like you're aiming for Hiromicho",0.13333333333333333
-That's kinda scary.,それ 俺の夢と関係あんのかな,That's my dream and relationship Annoka,0.2
+It looks like you're aiming for Hiromicho",0.13333333333333333,0.32845956
+That's kinda scary.,それ 俺の夢と関係あんのかな,That's my dream and relationship Annoka,0.2,0.24145143
 Dream?,"夢？
 （智樹）また見ちゃったんすよ","dreams?
- See you again",0.16666666666666666
+ See you again",0.16666666666666666,0.6809672
 She told me to run away before\Nthese strange creatures came.,"なんか
 “変なのが来る前に逃げろ”って","Something
-""Run away before the strange thing comes""",0.17647058823529413
+""Run away before the strange thing comes""",0.17647058823529413,0.5613432
 Astrea?,"（アストレア）ん？ もぐもぐ…
 （そはら）アストレアさん？","?Mogugu ...
- Astrea?",0.5
+ Astrea?",0.5,0.7048503
 "Anyway, let's go.","（美香子）それじゃ行きましょうか
 （アストレア）ええ 何 何？","Let's go if it is
- What is it?",0.2727272727272727
+ What is it?",0.2727272727272727,0.50792813
 I'm not going.\NAll this rain will just get me down.,"俺は行きませんよ
 こんな大雨の中 絶対イヤですから","I will not go
-Because it is an absolute ear of this heavy rain",0.23809523809523808
+Because it is an absolute ear of this heavy rain",0.2380952380952381,0.72141844
 "If this rain is being caused by the second\Ngenerations, there's a possibility...","（守形）この雨が
 第二世代の仕業だとしたら―","This rain
-If it is the second generation work-",0.2631578947368421
+If it is the second generation work-",0.2631578947368421,0.6051607
 that she won't just target Ikaros;\Nshe'll go after Tomoki next.,"イカロスではなく
 次は智樹を狙う可能性もある","Not Ikaros
-Next time I can aim for Tomoki",0.14285714285714285
-It's kinda lonely without\NIkaros and Nymph here.,アハハ なんか寂しいよね,Ahaha is lonely,0.09090909090909091
+Next time I can aim for Tomoki",0.14285714285714285,0.65625256
+It's kinda lonely without\NIkaros and Nymph here.,アハハ なんか寂しいよね,Ahaha is lonely,0.09090909090909093,0.4671614
 I guess you're worried about Ikaros...,"智ちゃん もしかして
 イカロスさんのことが心配で…","Chi-chan
-I'm worried about Ikaros ...",0.5
+I'm worried about Ikaros ...",0.5,0.8045443
 Target spotted!,"見えた！
 （そはら）えっ？","Looked!
-?",0.2
+?",0.2,0.34207737
 I'm all wet.,"（小金井）
-濡れちゃったよ まったく",I got wet at all,0.42857142857142855
-My uniform's soaked.,（中井）制服びしょびしょだよ,Unlike uniform,0.16666666666666666
+濡れちゃったよ まったく",I got wet at all,0.42857142857142855,0.70333946
+My uniform's soaked.,（中井）制服びしょびしょだよ,Unlike uniform,0.16666666666666666,0.5132572
 It's gone totally see through.,"（柳沢）
-超～透けそう ヤバくない？",Is it super-transparent?,0.1
+超～透けそう ヤバくない？",Is it super-transparent?,0.1,0.3678536
 Downpours are awesome!,"（そはら）
-智ちゃんのバカー！",Chi-chan's Backer!,0.14285714285714285
+智ちゃんのバカー！",Chi-chan's Backer!,0.14285714285714285,0.1004189
 "I don't really know why,","（ニンフ）
-よく分かんないけど―",I do not understand well-,0.2
-They're not completely erased yet.,まだ完全には消えてないけど―,I have not completely disappeared yet-,0.18181818181818182
+よく分かんないけど―",I do not understand well-,0.2,0.25617355
+They're not completely erased yet.,まだ完全には消えてないけど―,I have not completely disappeared yet-,0.18181818181818185,0.36262557
 The problem lies in the fact that I have\Nno way of stopping the program.,"問題はプログラムを止める
 手段がないってこと","Problem stops program
-There is no means",0.1111111111111111
+There is no means",0.1111111111111111,0.63268286
 "If I had my wings, this wouldn't even\Ngive me a moment's thought.","羽さえあれば
 これくらい なんてことないのに","If you have a father
-Even though there is nothing more than this",0.11538461538461539
+Even though there is nothing more than this",0.1153846153846154,0.21269445
 "Anyway, your circuits are\Nbecoming unstable.","（ニンフ）とにかく
 今は回路が不安定になってる","Anyway
-Now the circuit is unstable",0.18181818181818182
-You need to rest today.,今日一日 絶対安静にしてて,I absolutely rest today,0.25
+Now the circuit is unstable",0.18181818181818185,0.79246217
+You need to rest today.,今日一日 絶対安静にしてて,I absolutely rest today,0.25,0.80844223
 "Checking the weather maps,","（守形）
-天気図と照らし合わせると―",If you look against the weather map-,0.2
+天気図と照らし合わせると―",If you look against the weather map-,0.2,0.81962156
 the eye of the storm looks\Nlike it's in this area.,"現在 雨雲の中心は
 この付近だが","Currently the center of the rain cloud
-It is near this",0.23529411764705882
+It is near this",0.2352941176470588,0.47002965
 "Astrea, how's it going up there?","（美香子）アストレアちゃん
 そっちはどう？","Astrea
-How about it?",0.4
+How about it?",0.4,0.7690816
 This is when we went to the zoo.,"（イカロス）
-これは動物園に行った時",When this went to the zoo,0.6666666666666666
-This is from the bazaar.,これは夏祭りの時,This is the time of summer festival,0.3
-This is...,これは… これは…,This is ... this is ...,1.0
+これは動物園に行った時",When this went to the zoo,0.6666666666666666,0.87179434
+This is from the bazaar.,これは夏祭りの時,This is the time of summer festival,0.3,0.14322415
+This is...,これは… これは…,This is ... this is ...,1.0,0.8297166
 "This is my master, Sakurai Tomoki.","これは… マイマスター
 桜井(さくらい)智樹","This is ... My Master
-Sakurai Tomoki",0.6666666666666666
-I don't want to forget.,イヤ 忘れたくない,I do not want to forget,0.625
-Master's voice... his smile.,マスターの声も笑顔も,Master's voice and smile,0.5
-When he got mad at me...\NWhen he was nice to me.,怒られたこと 優しくされたこと,What was given to be angry,0.125
-"Long time, no see.",久しぶりね,"Long time no see, eh",0.7142857142857143
+Sakurai Tomoki",0.6666666666666666,0.95200366
+I don't want to forget.,イヤ 忘れたくない,I do not want to forget,0.625,0.86141604
+Master's voice... his smile.,マスターの声も笑顔も,Master's voice and smile,0.5,0.8820189
+When he got mad at me...\NWhen he was nice to me.,怒られたこと 優しくされたこと,What was given to be angry,0.125,0.29470193
+"Long time, no see.",久しぶりね,"Long time no see, eh",0.7142857142857143,0.86329913
 Why are you here?!,"（アストレア）
-どうして あんたが！",Why he is!,0.25
-"I studied all about love at the bottom\Nof the cold, dark ocean.",暗くて寒い海の底で―,At the bottom of the dark and cold sea-,0.23529411764705882
-Chaos...,カ… カオス…,Kaos ...,0.3333333333333333
-Astrea!,アストレアちゃん！,Astrea!,1.0
-The second generation\NAngeloid is still alive?!,第二世代が生きていたのか！,Was the second generation live!,0.2727272727272727
+どうして あんたが！",Why he is!,0.25,0.4224462
+"I studied all about love at the bottom\Nof the cold, dark ocean.",暗くて寒い海の底で―,At the bottom of the dark and cold sea-,0.2352941176470588,0.63236684
+Chaos...,カ… カオス…,Kaos ...,0.3333333333333333,0.31450203
+Astrea!,アストレアちゃん！,Astrea!,1.0,1.0000001
+The second generation\NAngeloid is still alive?!,第二世代が生きていたのか！,Was the second generation live!,0.2727272727272727,0.7136023
 Go tell Ikaros while I buy us some time!,"私が時間を稼ぐ間に
 早くイカロス先輩に知らせて！","While I earn time
-Let's notify you of Ikaros seniors quickly!",0.2777777777777778
+Let's notify you of Ikaros seniors quickly!",0.2777777777777778,0.60131514
 I can't really hear you. The Dive Game?,"え？ 先輩 よく聞こえないっす
 ダイブ･ゲーム？","picture?I can't hear my seniors
-Dive Games?",0.4
-"Tomoki, listen carefully.",智樹 よく聞け,Listen to Tomoki,0.3333333333333333
+Dive Games?",0.4,0.691012
+"Tomoki, listen carefully.",智樹 よく聞け,Listen to Tomoki,0.3333333333333333,0.8420972
 Dive into your dream and\Nmeet up with Daedalus.,"夢にダイブして
 ダイダロスと会ってこい","Dive a dream
-Meet Dydaros",0.16666666666666666
+Meet Dydaros",0.16666666666666666,0.58161604
 Tell her that Chaos has\Nevolved and returned.,"“カオスが進化して現れた”
 そう言えば分かる","""Chaos evolved and appeared""
-I understand that",0.21428571428571427
-Chaos?,（智樹）カオス？,chaos?,1.0
+I understand that",0.21428571428571427,0.3134204
+Chaos?,（智樹）カオス？,chaos?,1.0,1.0000008
 We need your help to save\NIkaros and the rest!,"（守形）イカロスたちを助けるには
 お前の力が必要なんだ","to help Ikaros
-You need your power",0.3076923076923077
-My help?,（智樹）俺の力？,My power?,0.5
-"This is the device that lets you\Nenter your dreams, right?",これ 夢に入れる機械だよね 確か,This is a machine to put in a dream,0.1111111111111111
+You need your power",0.3076923076923077,0.3612861
+My help?,（智樹）俺の力？,My power?,0.5,0.34893218
+"This is the device that lets you\Nenter your dreams, right?",これ 夢に入れる機械だよね 確か,This is a machine to put in a dream,0.1111111111111111,0.62759733
 "I don't get it, but something\Nbad's going down.","よく分かんねえけど なんか
 大変なことが起きたんだってさ","I do not know well
-It happened seriously",0.17647058823529413
-Yes?,はい,Yes,0.5
+It happened seriously",0.17647058823529413,0.14615546
+Yes?,はい,Yes,0.5,0.7687326
 "I am the Treasurer for the Student Council,","分かりました
 一応 生徒会の会計だから―","I understand
-Because it is an accounting for the student council-",0.26666666666666666
-so I should be good at entering numbers...,数字の入力は得意なはずですけど,I should be good at input of numbers,0.5454545454545454
-I'll be back soon.,行ってくる,I'll be back,0.6666666666666666
-This is my...,ここは… ん？,Here is ...?,0.3333333333333333
+Because it is an accounting for the student council-",0.26666666666666666,0.5436059
+so I should be good at entering numbers...,数字の入力は得意なはずですけど,I should be good at input of numbers,0.5454545454545454,0.7653637
+I'll be back soon.,行ってくる,I'll be back,0.6666666666666666,0.80657053
+This is my...,ここは… ん？,Here is ...?,0.3333333333333333,0.36768544
 You're the girl from my dream!,"（ダイダロス）あっ！
 （智樹）お前 夢の中の…","!
- In your dream ...",0.18181818181818182
+ In your dream ...",0.18181818181818185,0.5982102
 I've missed you!,"（ダイダロス）
-あっ！ 会いたかった",Ah!I wanted to meet,0.2222222222222222
+あっ！ 会いたかった",Ah!I wanted to meet,0.2222222222222222,0.40137786
 Love hurts!,"（カオス）
-ウフフ 愛って痛いんだよ",Uhufu love hurts,0.5
+ウフフ 愛って痛いんだよ",Uhufu love hurts,0.5,0.7369497
 Delta!,"（ニンフ）デルタ！
 （アストレア）ハッ ニンフ先輩！","Delta!
- Hat Ninfu senior!",0.4
+ Hat Ninfu senior!",0.4,0.72380733
 Chaos!,"ハア ハア ハア… あっ
 カオス！","Haa Haa Haa ...
-chaos!",0.5
+chaos!",0.5,0.81174874
 I have to power up even more...,"（カオス）
-もっとパワーアップして―",More power up-,0.2222222222222222
-Where are we?,（智樹）何なんだ ここ？,What is it here?,0.125
+もっとパワーアップして―",More power up-,0.2222222222222222,0.6754452
+Where are we?,（智樹）何なんだ ここ？,What is it here?,0.125,0.47755295
 I understand that...,"（ダイダロス）智君が私に たくさん
 聞きたいことがあるのは分かってる","Tomo Many
-I understand that I have something I want to hear",0.2727272727272727
-but we don't have time for that right now.,だけど 今は時間がないの,But now there is no time,0.21428571428571427
+I understand that I have something I want to hear",0.2727272727272727,0.19943538
+but we don't have time for that right now.,だけど 今は時間がないの,But now there is no time,0.21428571428571427,0.57803357
 "She's a second generation Angeloid, Chaos.","あの子が第二世代の
 エンジェロイド カオスよ","That child is the second generation
-Angeloid Chaos",0.3076923076923077
-Please!,ハッ！,Ha!,0.3333333333333333
-"I'm sorry, Tomo.",ごめんね 智君,Sorry,0.16666666666666666
+Angeloid Chaos",0.3076923076923077,0.8076716
+Please!,ハッ！,Ha!,0.3333333333333333,0.12502614
+"I'm sorry, Tomo.",ごめんね 智君,Sorry,0.16666666666666666,0.3356027
 "You should feel bad for them, not me.","俺じゃなくて
 かわいそうなのは あいつらだ","Not me
-She is a cute girl",0.13333333333333333
+She is a cute girl",0.13333333333333333,0.24433362
 They should be the ones living\Nin peace and quiet.,"あいつらこそ
 平和が一番なはずだよ","A guy
-Peace should be the best",0.3076923076923077
+Peace should be the best",0.3076923076923077,0.44225618
 "Dressing up, eating good food, laughing\Ntogether with friends...","友達と笑い合ったり…
 それだけじゃダメなのか","Laugh with friends ...
-Is it not good?",0.26666666666666666
-Tomo...,智君…,Tomo ...,1.0
+Is it not good?",0.26666666666666666,0.25033295
+Tomo...,智君…,Tomo ...,1.0,1.0000002
 If you try to fight in your condition...,"何で来たの アルファ！
 そんな状態で戦ったら…","What's the alpha!
-If you fight in such a situation ...",0.29411764705882354
-Don't!,んんっ！,!,0.3333333333333333
+If you fight in such a situation ...",0.29411764705882354,0.4767977
+Don't!,んんっ！,!,0.3333333333333333,0.35869846
 It'll be impossible to recover your\Nmemories if you overdo it now.,"ダメ！ 今 無理したら記憶の修復が
 不可能になる　いいの？","No good!If you do not do now, repair of memory
-Is it okay to be impossible?",0.2916666666666667
+Is it okay to be impossible?",0.2916666666666667,0.38066941
 Yes.,"そろそろね
 （アストレア）はい","It is soon
- Yes",0.2
+ Yes",0.2,0.29439092
 I've asked my father to evacuate\Nthe nearby residents.,"父に頼んで付近の住民は
 避難させておいたわ","Residents near the father
-I'm evacuated",0.21428571428571427
+I'm evacuated",0.21428571428571427,0.77386755
 I wonder if Ikaros is okay.,"イカロスちゃん 大丈夫なのかしら
 熱があるとかって…","Ikaros-chan is okay
-Heat has ...",0.18181818181818182
+Heat has ...",0.18181818181818185,0.5823229
 "In the last fight,","前回の戦いでイカロスは
 ウラヌスシステムを犠牲にして―","Ikaros is the last fight
-At the expense of Uranus system-",0.25
+At the expense of Uranus system-",0.25,0.29308978
 Ikaros was only able to defeat Chaos...,"ようやくカオスを
 海に沈めることができた","Finally chaos
-I was able to sink to the sea",0.3076923076923077
+I was able to sink to the sea",0.3076923076923077,0.4843761
 I wonder how powerful the evolved\Nsecond generation will be.,"果たして進化した
 第二世代の実力はどれほどか","Evolved play
-How is the second generation ability?",0.1875
+How is the second generation ability?",0.1875,0.5940808
 "Nymph, analyze Chaos's attack patterns.","（イカロス）ニンフ
 カオスの攻撃パターンを分析して","Nymph
-Analyze chaotic attack patterns",0.4444444444444444
+Analyze chaotic attack patterns",0.4444444444444444,0.91001815
 I'll shoot down all of Chaos's\Ntentacles with my Artemis.,"私がアルテミスでカオスの触手を
 全部 撃ち落とす","I have chaos tentacles with Artemis
-Shooting all",0.26666666666666666
+Shooting all",0.26666666666666666,0.83242595
 "If you use your acceleration abilities,\Nwe should be able to...","あなたの加速性能なら…
 （アストレア）いけます！","If your acceleration performance ...
-!",0.26666666666666666
-"Alpha, we're only doing this once.",アルファ １回だけよ,Only one alpha,0.2
-Mikako!,（守形）あっ 美香子！,Mikako!,1.0
-"Are you okay, Master?!",大丈夫ですか 師匠！,Okay or Master!,0.375
+!",0.26666666666666666,0.7504098
+"Alpha, we're only doing this once.",アルファ １回だけよ,Only one alpha,0.2,0.6875093
+Mikako!,（守形）あっ 美香子！,Mikako!,1.0,1.0000001
+"Are you okay, Master?!",大丈夫ですか 師匠！,Okay or Master!,0.375,0.5872441
 I wanna play poker with you again.,"アストレアちゃん 生きて帰れたら
 また一緒に ポーカーやりたいわ","Astrea Chan Live and return
-See you again with poker",0.26666666666666666
+See you again with poker",0.26666666666666666,0.5527767
 We've got our attack pattern.,"ハア ハア… 分析完了
 攻撃パターン 出たわ！","Haa ha ha ... Analysis completed
-Attack pattern came out!",0.13333333333333333
+Attack pattern came out!",0.13333333333333333,0.5647907
 Analysis data received.,"分析データ受信完了
 アルテミス発射します！","Analysis data reception completed
-Artemis fires!",0.2222222222222222
-Go!,（カオス）なっ！,!,0.5
-We did it!,（カオス）フッ 捕まえた！,I caught it!,0.3333333333333333
+Artemis fires!",0.2222222222222222,0.38007566
+Go!,（カオス）なっ！,!,0.5,0.43204305
+We did it!,（カオス）フッ 捕まえた！,I caught it!,0.3333333333333333,0.42192087
 Meeting their ends at the hands...,"（空のマスター）
-クク… 哀れな連中だ",Kuku ...,0.125
+クク… 哀れな連中だ",Kuku ...,0.125,0.16696577
 of their own kind is the perfect\Nresolution for fallen angels.,"（空のマスター）
 同士討ちで破滅とは
 堕天使にふさわしい結末だな","It is ruined with each other
-It is a fitness suitable for fallen angels",0.21052631578947367
-Will you accept my love?,私の愛 受け止めてくれる？,Can you accept my love?,0.7142857142857143
+It is a fitness suitable for fallen angels",0.21052631578947367,0.5837088
+Will you accept my love?,私の愛 受け止めてくれる？,Can you accept my love?,0.7142857142857143,0.9418864
 "Stop it, Chaos!","（イカロス）やめなさい カオス
 （カオス）ハッ！","stop chaos
- Ha!",0.5
-Just wait... I'll save both of you right now.,２人とも… 今 助けるから…,2 people ... I will help me now ...,0.17647058823529413
-"Don't do it, Alpha!",ダメよ アルファ！,Noh alpha!,0.2857142857142857
+ Ha!",0.5,0.86175156
+Just wait... I'll save both of you right now.,２人とも… 今 助けるから…,2 people ... I will help me now ...,0.17647058823529413,0.38567773
+"Don't do it, Alpha!",ダメよ アルファ！,Noh alpha!,0.2857142857142857,0.69276154
 The load Uranus Queen is exerting\Non you is too great!,"ウラヌス･クイーンは
 負担が大きすぎる！","Uranus Queen
-The burden is too big!",0.5
+The burden is too big!",0.5,0.80736125
 "Do you want to die, Alpha?!","死にたいの アルファ？
 （イカロス）ハア ハア…","Alpha what you want to die?
- Haa ha ha ...",0.46153846153846156
-I'll help you to do that!,だったら手伝ってあげる,I will help you,0.3333333333333333
-Ikaros!,（アストレア）先輩！,senior!,0.3333333333333333
-Is that it?,（カオス）もうおしまい？,Another day?,0.16666666666666666
+ Haa ha ha ...",0.4615384615384616,0.8726155
+I'll help you to do that!,だったら手伝ってあげる,I will help you,0.3333333333333333,0.69211364
+Ikaros!,（アストレア）先輩！,senior!,0.3333333333333333,0.22502789
+Is that it?,（カオス）もうおしまい？,Another day?,0.16666666666666666,0.26124367
 I don't understand love...,"（イカロス）
-愛なんて分からない…",I do not know love ...,0.5
-But... But...,だけど… だけど…,But ... but ...,1.0
+愛なんて分からない…",I do not know love ...,0.5,0.7563647
+But... But...,だけど… だけど…,But ... but ...,1.0,1.0
 even if I have to sacrifice my\Nmemories in the process...,"例え記憶がなくなっても
 マスターを忘れてしまっても―","Even if there is no memory
-Even if you forgot the master-",0.16666666666666666
-It's really dark at the bottom of the ocean.,海の底は とっても暗いの,The bottom of the sea is very dark,0.3076923076923077
+Even if you forgot the master-",0.16666666666666666,0.26699638
+It's really dark at the bottom of the ocean.,海の底は とっても暗いの,The bottom of the sea is very dark,0.3076923076923077,0.9025618
 I was lonely. No one played with me.,"誰も遊んでくれなくて寂しかった
 （イカロス）くっ… くっ","It was lonely that no one played
- ...",0.4166666666666667
+ ...",0.4166666666666667,0.83289176
 That's why I taught the fish how to love.,"だから私 お魚さんに
 愛を教えてあげたの","So my fish
-I told me love",0.2
+I told me love",0.2,0.7543441
 "I'll make sure to love all of you a whole\Nlot before I kill you too, sisters!","いっぱい痛くして いっぱい愛して
 殺してあげるんだ","I love it a lot
-I will kill you",0.25
-Stop!,（智樹）やめろー！,Stop!,1.0
+I will kill you",0.25,0.5591372
+Stop!,（智樹）やめろー！,Stop!,1.0,1.0000007
 "Don't die, Ikaros! That's an order!","死ぬな イカロス！
 これは命令だ！","Ikaros Don't die!
-this is an order!",0.5833333333333334
+this is an order!",0.5833333333333334,0.96114546
 Tomoki...,"（ニンフ）智樹…
 （アストレア）あっ…","Tomishi ...
- ...",0.3333333333333333
-I want to be with all of you.,俺は お前らと一緒にいたいんだ,I want to be with you,0.6666666666666666
+ ...",0.3333333333333333,0.6687921
+I want to be with all of you.,俺は お前らと一緒にいたいんだ,I want to be with you,0.6666666666666666,0.77498114
 "I get angry, laugh, and\Nsometimes go too far,","怒ったり笑ったり
 時々 むちゃくちゃもするけど―","Angry or laugh
-Sometimes he makes me too much-",0.2
+Sometimes he makes me too much-",0.2,0.63564104
 but I have fun every day with all of you.,"みんなでいると
 毎日 楽しくて","With everyone
-Fun every day",0.3333333333333333
-"So, don't die!",だから絶対 死ぬんじゃねえ！,So I will never die!,0.3333333333333333
-"Yes, Master.",はい マスター,"Yes, master",0.75
-Do you know how long I've wanted\Nto hear you say that?,どれだけ聞きたかったか,How much did you want to hear,0.1875
+Fun every day",0.3333333333333333,0.66367453
+"So, don't die!",だから絶対 死ぬんじゃねえ！,So I will never die!,0.3333333333333333,0.764489
+"Yes, Master.",はい マスター,"Yes, master",0.75,0.9633356
+Do you know how long I've wanted\Nto hear you say that?,どれだけ聞きたかったか,How much did you want to hear,0.1875,0.41526276
 Shut up! I'll show you... I'll show you love!,"黙れ！
 愛を… 愛を教えてあげる！","shut up!
-Love ... Tell me love!",0.45454545454545453
+Love ... Tell me love!",0.4545454545454545,0.65944314
 Don't...,"どさくさまぎれに
 言わないでよね","Sober
-Don't say",0.4
-Don't look down on me!,あんまり私をなめないでよね,Don't lick me so much,0.3
+Don't say",0.4,0.16921207
+Don't look down on me!,あんまり私をなめないでよね,Don't lick me so much,0.3,0.40582925
 Is this sister's hacking?,"あれ？ 力が入んない
 お姉様のハッキングってやつ？","that?Do not enter
-Hacking your sister?",0.2727272727272727
-Nymph...,（ニンフ）…でよね,...,0.5
-New wings?,（美香子）新しい羽!?,New feathers!?,0.4
-They're really pretty.,すごくきれい,really beautiful,0.16666666666666666
+Hacking your sister?",0.2727272727272727,0.7667484
+Nymph...,（ニンフ）…でよね,...,0.5,0.27134454
+New wings?,（美香子）新しい羽!?,New feathers!?,0.4,0.5359615
+They're really pretty.,すごくきれい,really beautiful,0.16666666666666666,0.4040814
 "Please be safe, all of you.","（そはら）
-どうか みんな無事でいて",Somehow she is all safe,0.18181818181818182
-I was almost able to kill you...,あと少しで殺せたのに,I killed a little later,0.08333333333333333
+どうか みんな無事でいて",Somehow she is all safe,0.18181818181818185,0.49752942
+I was almost able to kill you...,あと少しで殺せたのに,I killed a little later,0.08333333333333333,0.5482037
 We haven't gone weak at the knees\Nbecause we know love.,"（イカロス）
 私たちは愛を知ったから
 弱くなったんじゃない","Because we knew love
-It's not weak",0.1875
+It's not weak",0.1875,0.65899986
 We have become even stronger\Nbecause we've met Master.,"マスターと知り合ったからこそ
 もっともっと強くなれる","Because I met Master
-More stronger",0.15384615384615385
+More stronger",0.15384615384615385,0.7401742
 "We'll show you that power, Chaos!","その力を あなたにも
 見せてあげるわ カオス！","The power is also
-Show me chaos!",0.3076923076923077
-You're lying! You're lying!\NYou're lying! You're lying!,フンッ！,Fun!,0.16666666666666666
+Show me chaos!",0.3076923076923077,0.8254988
+You're lying! You're lying!\NYou're lying! You're lying!,フンッ！,Fun!,0.16666666666666666,0.17135781
 It was so scary and lonely at\Nthe bottom of the ocean...,"愛って痛いんだよ
 暗い海の底で 寂しくて怖くて…","I love love
-I am lonely at the bottom of the dark sea ...",0.2777777777777778
-I want to give you back that love!,愛を返したいの,I want to return love,0.4
+I am lonely at the bottom of the dark sea ...",0.2777777777777778,0.4860642
+I want to give you back that love!,愛を返したいの,I want to return love,0.4,0.6628219
 "I'll love you more and more\Nand then, kill you all!","もっともっと
 愛して殺してあげる！","more and more
-I love you and kill!",0.5833333333333334
-"Nymph, can you hear me?",（守形）ニンフ 聞こえるか？,Can you hear nymps?,0.5
-Sugata!,（アストレア）クッ！,Cook!,0.3333333333333333
+I love you and kill!",0.5833333333333334,0.8531072
+"Nymph, can you hear me?",（守形）ニンフ 聞こえるか？,Can you hear nymps?,0.5,0.7650032
+Sugata!,（アストレア）クッ！,Cook!,0.3333333333333333,0.35034344
 Chaos has evolved and her\Nattack power is unknown.,"（守形）カオスは進化して
 攻撃力は未知数だ","chaos evolves
-Attack power is an unknown number",0.3076923076923077
+Attack power is an unknown number",0.3076923076923077,0.68103564
 You three will have to work together\Nand take her on as a team.,"３人の力を合わせて
 連携戦術で勝負するしかない","Together with the power of 3 people
-I have no choice but to play in a collaborative tactics",0.10344827586206896
-What should I do?,どうすればいいの？,What should I do?,1.0
+I have no choice but to play in a collaborative tactics",0.10344827586206896,0.3967366
+What should I do?,どうすればいいの？,What should I do?,1.0,1.0000002
 for Ikaros's and Astrea's abilities.,"イカロスとアストレアの
 能力プログラムを―","Ikaros and Astrea
-Ability program-",0.3333333333333333
+Ability program-",0.3333333333333333,0.7976473
 I'll send you the data on possible\Ncombat methods.,"使用可能な戦闘方法を
 データで送る！","Available combat methods
-Send with data!",0.21428571428571427
+Send with data!",0.21428571428571427,0.39985785
 Hacking Field: full range.,"ハッキングフィールド
 フルレンジ！","Hacking field
-full range!",0.5714285714285714
+full range!",0.5714285714285714,0.96726567
 What's that?,"（アストレア）あっ！
 （カオス）何？","!
- What?",0.4
-Alpha!,アルファ！,alpha!,1.0
+ What?",0.4,0.48481515
+Alpha!,アルファ！,alpha!,1.0,1.0000004
 Convertible Wings: safety release.,"可変ウイング
 セーフティー解除","Variable wing
-Safety cancellation",0.1111111111111111
-"Artemis, full fire!",アルテミス フルファイア！,Artemisful Fire!,0.3333333333333333
-That won't work.,そんなの効かない,Do not work,0.14285714285714285
+Safety cancellation",0.1111111111111111,0.56101644
+"Artemis, full fire!",アルテミス フルファイア！,Artemisful Fire!,0.3333333333333333,0.8803477
+That won't work.,そんなの効かない,Do not work,0.14285714285714285,0.40145913
 "Normally, Artemis can only be\Nset to follow an opponent,","（ニンフ）アルテミスの弾道は
 本来追尾のみ","Artemis's ballistic
-Essential tracking only",0.14285714285714285
+Essential tracking only",0.14285714285714285,0.6010787
 "but within my field,","でも私のフィールド内なら
 ハッキングして弾道を自在に操れる","But in my field
-Hack and manipulate ballistics freely",0.2727272727272727
-"Delta, your turn!",デルタ お願い！,Delta request!,0.3333333333333333
-Gotcha!,（アストレア）たあー！,!,0.5
+Hack and manipulate ballistics freely",0.2727272727272727,0.492752
+"Delta, your turn!",デルタ お願い！,Delta request!,0.3333333333333333,0.68878317
+Gotcha!,（アストレア）たあー！,!,0.5,0.31283498
 we can win when the three\Nof us fight together!,"（アストレア）１人の力じゃ
 かなわなくても３人いれば勝てる！","One of the power of one person
-You can win if there are three people without it!",0.18181818181818182
+You can win if there are three people without it!",0.18181818181818185,0.5821363
 It hurts... It hurts... It hurts...,"（カオス）
-痛い… 痛い 痛い 痛い…",It hurts ... hurt pain ...,0.6
+痛い… 痛い 痛い 痛い…",It hurts ... hurt pain ...,0.6,0.91884434
 I'm loved by my sisters!,"私 お姉様たちに愛されてる
 もっともっと愛してー！","I am loved by my sister
-Love more more!",0.45454545454545453
-I won't lose this time!,今度こそ負けない！,I will not lose this time!,0.5555555555555556
-"Astrea, dear sister...",アストレアお姉様…,Astrea Older Sister ...,0.5
-I see...,アハハハ… そっか,Ahahaha ...,0.25
+Love more more!",0.4545454545454545,0.8153605
+I won't lose this time!,今度こそ負けない！,I will not lose this time!,0.5555555555555556,0.9587482
+"Astrea, dear sister...",アストレアお姉様…,Astrea Older Sister ...,0.5,0.842959
+I see...,アハハハ… そっか,Ahahaha ...,0.25,0.4270986
 just like I killed all those fish and birds!,"私が頑張って お魚さんや
 鳥さんを殺したみたいに―","I will do my best and my fish
-Like killing a bird-",0.23529411764705882
+Like killing a bird-",0.2352941176470588,0.65128773
 "Now, love me and kill me!","さあ 私を愛して殺して！
 愛して殺して！","Come on and kill me!
-Love and kill!",0.5555555555555556
+Love and kill!",0.5555555555555556,0.7657786
 Why won't you kill me?,"（カオス）どうして
 殺してくれないの？ 早く愛してよ","Why
-Can't kill you?I love you soon",0.45454545454545453
+Can't kill you?I love you soon",0.4545454545454545,0.75648
 Love me more and more!,"もっともっと愛して！
 殺して殺して殺してー！","Love me more!
-Kill and kill and kill it!",0.7142857142857143
-That's enough.,もういいから,that's enough,0.75
+Kill and kill and kill it!",0.7142857142857143,0.7758509
+That's enough.,もういいから,that's enough,0.75,0.9051196
 You've suffered enough.,"（智樹）
-お前 もう十分 苦しんだよな",You have suffered enough already,0.42857142857142855
-I'm sorry.,ごめんな,I'm sorry,0.75
-My chest hurts...,（カオス）何これ… 胸が痛い,Why ... Chest hurts,0.6
+お前 もう十分 苦しんだよな",You have suffered enough already,0.42857142857142855,0.8684618
+I'm sorry.,ごめんな,I'm sorry,0.75,0.89931345
+My chest hurts...,（カオス）何これ… 胸が痛い,Why ... Chest hurts,0.6,0.884674
 Why?,"痛いのに なぜか温かい
 どうして？","Hot warm though it hurts
-Why?",0.2857142857142857
-What is this warmth?,この温かさは なあに？,What is this warmth?,1.0
+Why?",0.2857142857142857,0.20064928
+What is this warmth?,この温かさは なあに？,What is this warmth?,1.0,1.0
 "I told you not to overdo it,","（智樹）
-無理すんなって言ったのに",I said it was impossible,0.18181818181818182
+無理すんなって言ったのに",I said it was impossible,0.18181818181818185,0.29458228
 "but good job, Ikaros.","けど… よく頑張ったな
 イカロス","But ... I worked hard
-Ikaros",0.2
-"Hey, Ikaros!",（智樹）おい イカロス！,Ikaros!,0.5
+Ikaros",0.2,0.6623421
+"Hey, Ikaros!",（智樹）おい イカロス！,Ikaros!,0.5,0.87982863

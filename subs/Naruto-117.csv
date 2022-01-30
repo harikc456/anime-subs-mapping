@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Connecting old words</i>
 <i>that have been used up</i>","♬
  
@@ -6,7 +6,7 @@ en_text,jp_text,google_translated,score
 
 ","♬
  
-Now connect words",0.06666666666666667
+Now connect words",0.06666666666666668,0.57157844
 "<i>I just want to convey</i>
 <i>my simple thoughts</i>","♬
  
@@ -14,7 +14,7 @@ Now connect words",0.06666666666666667
 
 ","♬
  
-I just want to convey my thoughts",0.5833333333333334
+I just want to convey my thoughts",0.5833333333333334,0.656506
 <i>That day's faint wind blows away</i>,"♬
  
 吹き抜ける
@@ -23,7 +23,7 @@ I just want to convey my thoughts",0.5833333333333334
 ","♬
  
 Blow through
-The wind of that day is",0.17647058823529413
+The wind of that day is",0.17647058823529413,0.7185055
 "<i>I'll laugh with you</i>
 <i>and live for the moment</i>","♬
  
@@ -35,7 +35,7 @@ The wind of that day is",0.17647058823529413
  
 Laugh with you
  
-Live now",0.26666666666666666
+Live now",0.26666666666666666,0.70497155
 "<i>Still that incident</i>
 <i>will continue to trouble you, right?</i>","♬
  
@@ -43,14 +43,14 @@ Live now",0.26666666666666666
 
 ","♬
  
-Will you suffer from you?",0.16666666666666666
+Will you suffer from you?",0.16666666666666666,0.3936522
 <i>That's why it must be good bye</i>,"♬
  
 だからこそサヨナラなんだ
 
 ","♬
  
-That's why it is a goodbye",0.25
+That's why it is a goodbye",0.25,0.6702666
 "<i>Leaving nothing behind,</i>
 <i>let us share what is left</i>","♬
  
@@ -58,7 +58,7 @@ That's why it is a goodbye",0.25
 
 ","♬
  
-Nothing remains as it is",0.1111111111111111
+Nothing remains as it is",0.1111111111111111,0.42120808
 "<i>In time, we'll realize</i>
 <i>that it was everything</i>","♬
  
@@ -66,7 +66,7 @@ Nothing remains as it is",0.1111111111111111
 
 ","♬
  
-I realize that it is everything",0.3125
+I realize that it is everything",0.3125,0.49161035
 "<i>And sadness will touch our cheeks,</i>
 <i>creating a river of tears</i>","♬
  
@@ -74,7 +74,7 @@ I realize that it is everything",0.3125
 
 ","♬
  
-Just become a river of tears",0.21052631578947367
+Just become a river of tears",0.21052631578947367,0.6167911
 "<i>Trembling thoughts swept into a vortex</i>
 <i>and melting away</i>","♬
  
@@ -82,7 +82,7 @@ Just become a river of tears",0.21052631578947367
 
 ","♬
  
-I'm melting",0.13333333333333333
+I'm melting",0.13333333333333333,0.40056205
 <i>What?!</i>,"(
 鬼童丸
 )
@@ -92,7 +92,7 @@ I'm melting",0.13333333333333333
 
 ","""Hmm!
  
-what!?""",0.3
+what!?""",0.3,0.24020992
 <i>Just barely...</i>,"(
 ネジ
 )
@@ -104,7 +104,7 @@ what!?""",0.3
 ","Han
  
 Hua ...
-.",0.1
+.",0.1,0.13245043
 "<i>But...I was able to throw it off</i>
 <i>just a little.</i>","が
  
@@ -116,20 +116,20 @@ Hua ...
  
 I slipped a little
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.43050987
 <i>There's no mistake.</i>,"やはり間違いない
 ｡
 ➡
 
 ","There is no doubt
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.2770043
 "<i>He's now realized the secret</i>
 <i>of the Byakugan.</i>","ヤツはもう
 白眼の秘密に気付いている》
 
 ","The guy is already
-I notice the secret of the white eyes",0.2222222222222222
+I notice the secret of the white eyes",0.2222222222222222,0.31282055
 <i>I see... That Chakra!</i>,"(
 鬼童丸
 )
@@ -143,7 +143,7 @@ I notice the secret of the white eyes",0.2222222222222222
  
 That chakra
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.76504004
 "<i>He was emitting Chakra</i>
 <i>the whole time</i>","こいつ
  
@@ -153,7 +153,7 @@ That chakra
 ","this guy
  
 Next time
-Always release Chakra ➡",0.11764705882352941
+Always release Chakra ➡",0.1176470588235294,0.61050415
 <i>And in a wide range to that extent.</i>,"それも
  
 あれほどの広範囲を
@@ -164,7 +164,7 @@ Always release Chakra ➡",0.11764705882352941
  
 Such a wide range
 .
-➡",0.25
+➡",0.25,0.41882378
 "<i>No wonder he was able</i>
 <i>to detect the arrow and</i>","その軌道をチャクラで
 ズラすこともできたわけだ
@@ -174,7 +174,7 @@ Such a wide range
 ","The trajectory is chakra
 I was also able to zura
 .
-➡",0.23809523809523808
+➡",0.2380952380952381,0.25709173
 "<i>If he doesn't go that far,</i>
 <i>he can't dodge.</i>","そうまでしなければ
 よけられない
@@ -184,7 +184,7 @@ I was also able to zura
 ","If not so
 Impotent
 .
-➡",0.05263157894736842
+➡",0.05263157894736842,0.14836873
 "<i>In other words, there's no mistake.</i>","つまり
  
 間違いない
@@ -195,7 +195,7 @@ Impotent
  
 no doubt
 .
-➡",0.125
+➡",0.125,0.19017994
 "<i>The arrow earlier was</i>
 <i>totally invisible to him!</i>","想定したとおり
  
@@ -203,7 +203,7 @@ no doubt
 
 ","As assumed
  
-The arrow earlier",0.2
+The arrow earlier",0.2,0.57128024
 "<i>And from the results,</i>
 <i>he accurately examines the information.</i>","そして
  
@@ -213,7 +213,7 @@ The arrow earlier",0.2
 ","and
  
 From the result
-Close information properly ...",0.16666666666666666
+Close information properly ...",0.16666666666666666,0.5494305
 "<i>And...he's also discovered</i>
 <i>the weakness of my eyes...</i>","(
 ネジ
@@ -226,7 +226,7 @@ Close information properly ...",0.16666666666666666
 ","""and
  
 Also in the drawback of this eye
-I notice!➡",0.21739130434782608
+I notice!➡",0.21739130434782608,0.5130947
 <i>Why couldn't he evade them?</i>,"なぜ
  
 よけ切れないのか
@@ -237,7 +237,7 @@ I notice!➡",0.21739130434782608
  
 Can not break
 .
-➡",0.0625
+➡",0.0625,0.3335638
 "<i>So he was dealing with attacks</i>
 <i>from the blind spot</i>","その死角からの攻撃に
 対処していたのだ
@@ -247,14 +247,14 @@ Can not break
 ","In the attack from the blind spot
 I was dealing with
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.7412833
 <i>with that defense technique.</i>,"だから
  
 あの防御技で➡
 
 ","that's why
  
-That defense technique",0.18181818181818182
+That defense technique",0.18181818181818185,0.6641594
 "<i>And I analyzed all the attacks</i>
 <i>I carried out</i>","そして
  
@@ -268,10 +268,10 @@ That defense technique",0.18181818181818182
 I am
  
 I set up a guy
-Analyze all attacks ➡➡",0.2222222222222222
+Analyze all attacks ➡➡",0.2222222222222222,0.6708157
 <i>Right behind his first thoracic vertebra...</i>,"ヤツの第一胸椎の真後ろに➡
 
-",Just behind the first thoracic spine of the guy,0.1875
+",Just behind the first thoracic spine of the guy,0.1875,0.836503
 "<i>there exists a blind spot expanding</i>
 <i>from a very small point.</i>","ほんの僅かな点から広がる
 死角が存在する
@@ -281,13 +281,13 @@ Analyze all attacks ➡➡",0.2222222222222222
 ","Spread from a slight point
 There is a blind spot
 .
-➡",0.25
+➡",0.25,0.58100355
 "<i>Indeed, if he moves and</i>
 <i>doesn't stabilize the blind spot,</i>","確かに動いて
 死角を固定させなければ➡
 
 ","Certainly moving
-If you do not fix the blind spot",0.18181818181818182
+If you do not fix the blind spot",0.18181818181818185,0.6020729
 "<i>it becomes difficult to aim there</i>
 <i>with an arrow.</i>","矢で
  
@@ -301,7 +301,7 @@ If you do not fix the blind spot",0.18181818181818182
 I aim for there
 Difficult
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.7954098
 <i>But such a trick... doesn't fool me!</i>,"だが
  
 その程度
@@ -312,7 +312,7 @@ Difficult
  
 Reason
  
-I have a relationship with me """,0.21052631578947367
+I have a relationship with me """,0.21052631578947367,0.11853272
 "<i>And you can't afford to think about</i>
 <i>approaching me at this point.</i>","もっとも
  
@@ -330,7 +330,7 @@ Before you
 To me
 I can not afford to think about getting closer
 .
-➡",0.28
+➡",0.28,0.4377547
 <i>It's about how to escape now...</i>,"今は
  
 どう逃げるかだ
@@ -341,7 +341,7 @@ I can not afford to think about getting closer
  
 How to escape
 .
-➡",0.2
+➡",0.2,0.70512635
 "<i>Heh... It seems you only</i>
 <i>have a little Chakra left.</i>","(
 鬼童丸
@@ -350,7 +350,7 @@ How to escape
 チャクラも残り少ないようだな》
 
 ","""Hun
-Chakra seems to have few remaining",0.15
+Chakra seems to have few remaining",0.15,0.59241945
 <i>is to be destroyed right away!</i>,"(
 鬼童丸
 )
@@ -362,7 +362,7 @@ Chakra seems to have few remaining",0.15
 ","<Simple game miscellaneous fish character
 straight away
  
-It is the destiny to do!>",0.2857142857142857
+It is the destiny to do!>",0.2857142857142857,0.27421802
 <i>A thread?!</i>,"(
 ネジ
 )
@@ -372,26 +372,26 @@ It is the destiny to do!>",0.2857142857142857
 
 ","""Ah…
  
-thread!➡",0.18181818181818182
+thread!➡",0.18181818181818185,0.5911765
 "<i>I see, with this thread...</i>","そうか
  
 この糸で…》
 
 ","Really
  
-This thread ... """,0.25
+This thread ... """,0.25,0.45115513
 <i>I'll add some rotation this time.</i>,"さらに回転を加えるぜよ
 ｡
 ➡
 
 ","Add further rotation
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.73625576
 "<i>So even if it hits a tree,</i>","これで木に当たっても
 木を削り飛ばし➡
 
 ","Now it's a tree
-Sprinkle trees",0.1875
+Sprinkle trees",0.1875,0.4807479
 "<i>I'll control the arrow up until</i>
 <i>150 feet away from him</i>","矢をヤツの
 50
@@ -405,16 +405,16 @@ Sprinkle trees",0.1875
 m
 Control
 .
-➡",0.10526315789473684
+➡",0.10526315789473684,0.6098398
 "<i>using a thread with Chakra</i>
 <i>flowing through.</i>","そして さっきと同じく
 チャクラを通わせた糸で➡
 
 ","And as before
-With a thread through chakra",0.26666666666666666
+With a thread through chakra",0.26666666666666666,0.7771878
 <i>I'll take aim at the moving target...</i>,"動く標的に狙いをつけ➡
 
-",Aim for moving targets,0.14285714285714285
+",Aim for moving targets,0.14285714285714285,0.7864902
 "<i>and plunge the arrow into</i>
 <i>the blind spot with a pinpoint attack!</i>","ピンポイントで
 矢を死角の中へ
@@ -424,7 +424,7 @@ With a thread through chakra",0.26666666666666666
 ","At pinpoint
 In the blind spot of arrow
  
-I'm going!""",0.3181818181818182
+I'm going!""",0.3181818181818182,0.6863869
 "<i>He's strong...</i>
 <i>He's much stronger than me.</i>","(
 ネジ
@@ -441,7 +441,7 @@ The guy is more than me
  
 Large stronger
 .
-➡",0.09090909090909091
+➡",0.09090909090909093,0.721276
 "<i>I probably won't be able to evade</i>
 <i>his next attack completely.</i>","恐らく次の攻撃は
 かわし切れない
@@ -451,7 +451,7 @@ Large stronger
 ","Perhaps the next attack
 Unconcerned
 .
-➡",0.1
+➡",0.1,0.53034574
 <i>I'll win no matter what!</i>,"(ﾅﾙﾄ)
 ＜絶対
  
@@ -459,7 +459,7 @@ Unconcerned
 
 ","<Absolute
  
-win!>",0.36363636363636365
+win!>",0.3636363636363637,0.6369245
 I've had enough.,"(
 ネジ
 )
@@ -467,7 +467,7 @@ I've had enough.,"(
 ｡
 
 ","enough
-.",0.4
+.",0.4,0.58753693
 I can't dodge it anyway.,"どうせ
  
 よけられは
@@ -478,7 +478,7 @@ I can't dodge it anyway.,"どうせ
  
 Is
 I do not
-.",0.3
+.",0.3,0.2795607
 "<i>He's stopped moving...</i>
 <i>Has he given up?</i>","(
 鬼童丸
@@ -493,7 +493,7 @@ I do not
  
 I stopped moving
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.51938367
 "<i>Maximum destructive power</i>
 <i>with 120% accuracy.</i>","命中精度
 120
@@ -501,13 +501,13 @@ I stopped moving
 
 ","Accuracy of life
 120
-% ➡",0.13333333333333333
+% ➡",0.13333333333333333,0.34739432
 <i>Gentle Fist!</i>,"(
 鬼童丸
 )
 《しとめた！》
 
-","""I'm sorry!""",0.18181818181818182
+","""I'm sorry!""",0.18181818181818185,0.23642248
 <i>Wh-What? He still...?!</i>,"(
 鬼童丸
 )
@@ -525,7 +525,7 @@ What did you say?
  
 The guy
  
-Still!?",0.23529411764705882
+Still!?",0.2352941176470588,0.41998127
 "<i>No! My attack just now</i>
 <i>should've made the kill.</i>","いや…
  
@@ -539,7 +539,7 @@ Still!?",0.23529411764705882
 In the current blow
 certainly
  
-I should have done it ...",0.125
+I should have done it ...",0.125,0.33448982
 <i>Substance with Chakra base...</i>,"(
 ネジ
 )
@@ -547,21 +547,21 @@ I should have done it ...",0.125
 物質など➡
 
 ","<Based on Chakra
-Substance etc.",0.23076923076923078
+Substance etc.",0.2307692307692308,0.81521714
 <i>Again I couldn't see one of them.</i>,"また１羽
  
 見えなかった…》
 
 ","Also one wing
  
-I could not see ...",0.26666666666666666
+I could not see ...",0.26666666666666666,0.48778576
 <i>You failure...</i>,"＜言っただろ
  
 俺は…➡
 
 ","<I said
  
-I ... ➡",0.3333333333333333
+I ... ➡",0.3333333333333333,0.5216118
 "<i>Why do you try to go against</i>
 <i>your destiny that much?</i>","どうして
  
@@ -571,33 +571,33 @@ I ... ➡",0.3333333333333333
 ","why
  
 There
-Do you want to go against your own destiny?>",0.5263157894736842
+Do you want to go against your own destiny?>",0.5263157894736842,0.7842136
 <i>Because I was called...a failure!</i>,"言われたからだ！＞
 
-",Because it was said!>,0.3076923076923077
+",Because it was said!>,0.3076923076923077,0.46557778
 "<i>But if you're going to say it's futile,</i>
 <i>you don't have to do anything!</i>","＜お前が無理だっつうなら
 もう何もしなくていい！➡
 
 ","<If you can not overdo it
-You don't have to do anything anymore!➡",0.4
+You don't have to do anything anymore!➡",0.4,0.49533176
 "<i>After I become the Hokage,</i>
 <i>I'll change Hyuga!</i>","日向を変えてやるよ！＞
 
-",I will change the sun!>,0.3333333333333333
+",I will change the sun!>,0.3333333333333333,0.395074
 <i>I was careless...</i>,"うかつだった…＞
 
-",It was う ...>,0.3333333333333333
+",It was う ...>,0.3333333333333333,0.3123653
 "<i>Unlike me,</i>","お前は
  
 俺と違って➡
 
 ","You are
  
-Unlike me",0.2222222222222222
+Unlike me",0.2222222222222222,0.6786088
 Now it's become the three of us...,"＜分身の術は➡
 
-",<Surgery of the,0.18181818181818182
+",<Surgery of the,0.18181818181818185,0.17459258
 Don't worry about such things.,"そんな
  
 つまんねえこと
@@ -610,16 +610,16 @@ Don't worry about such things.,"そんな
 Male
 Mezomoso says
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.22034416
 "Both Choji and Neji will
 catch up right away.","チョウジもネジも
 すぐに追いつく！
 
 ","Chozji and screws
-Get up soon!",0.13333333333333333
+Get up soon!",0.13333333333333333,0.67170084
 Choji had the trump card.,"チョウジは切り札持ってたし➡
 
-",Choji had a trump card ➡,0.5
+",Choji had a trump card ➡,0.5,0.9457142
 "And I've fought Neji
 in the Chunin exam, so I know...","ネジは
  
@@ -635,25 +635,25 @@ one time
  
 In Nakanobu Test
 I understand because I fought
-.",0.14285714285714285
+.",0.14285714285714285,0.5136111
 Know what?,"何が？
 
-",what?,0.6666666666666666
+",what?,0.6666666666666666,0.5507138
 That he's... a true genius. Believe it!,"ホントの天才だってばよ！
 
-",It's a true genius!,0.5454545454545454
+",It's a true genius!,0.5454545454545454,0.5981519
 "<i>Whether he's an enemy</i>
 <i>much stronger than me...</i>","俺よりも
 はるかに強い敵だろうと…➡
 
 ","More than me
-It would be a much stronger enemy ... ➡",0.3
+It would be a much stronger enemy ... ➡",0.3,0.6369638
 <i>or even if this body should fail me...</i>,"この身が朽ちようとも…➡
 
-",Even if this body is decented ...,0.3333333333333333
+",Even if this body is decented ...,0.3333333333333333,0.55105996
 <i>I cannot lose!</i>,"負けるわけにはいかない！》
 
-","I can not lose it!""",0.5
+","I can not lose it!""",0.5,0.72464204
 <i>I've had a hard time of it this time.</i>,"(
 鬼童丸
 )
@@ -665,26 +665,26 @@ It would be a much stronger enemy ... ➡",0.3
 ","""Chig
 This time
  
-I'm sorry. """,0.17647058823529413
+I'm sorry. """,0.17647058823529413,0.21973076
 <i>I played too long...</i>,"(
 鬼童丸
 )
 《遊び過ぎ…》
 
-","""Play too much ...""",0.16666666666666666
+","""Play too much ...""",0.16666666666666666,0.5196434
 <i>I can't build up Chakra...</i>,"(
 鬼童丸
 )
 《チャクラが練れない…》
 
-","""Chakra not kneaded ...""",0.14285714285714285
+","""Chakra not kneaded ...""",0.14285714285714285,0.5405789
 How come you're alive?!,"なぜ
  
 生きている!?
 
 ","why
  
-alive!?",0.375
+alive!?",0.375,0.7792164
 "I couldn't completely
 evade it anyway.","(
 ネジ
@@ -701,7 +701,7 @@ evade it anyway.","(
 Is
 I do not
 .
-➡",0.25
+➡",0.25,0.25595957
 "And I knew of my own weakness
 much more than you do...","そして
  
@@ -717,7 +717,7 @@ I am
  
 More than you
 I knew my weaknesses for a long time
-.",0.35
+.",0.35,0.8131561
 This Byakugan has a blind spot.,"(
 ネジ
 )
@@ -727,7 +727,7 @@ This Byakugan has a blind spot.,"(
 
 ","There is a blind spot for this grade
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.40134418
 "However, if I knew that your attack
 would only come from there...","しかし
  
@@ -737,7 +737,7 @@ would only come from there...","しかし
 ","However
  
 Your attack is only from there
-If you know that it will not come",0.45
+If you know that it will not come",0.45,0.8349766
 "I could release my Chakra just
 to that blind spot and detect the attack.","その死角だけにチャクラを放出し
 攻撃を感知
@@ -747,14 +747,14 @@ to that blind spot and detect the attack.","その死角だけにチャクラを
 ","Release chakra only to the blind spot
 Aiming for attacks
 .
-➡",0.35
+➡",0.35,0.864998
 It's not so difficult to make,"さほど難しくはない
 ｡
 ➡
 
 ","It is not very difficult
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.61698914
 "a move of just a few inches
 to throw off the aim.","僅か数
 cm 
@@ -764,7 +764,7 @@ cm
 ","Slight number
 cm 
 Just aim at aim
-How to move",0.23529411764705882
+How to move",0.2352941176470588,0.66904587
 "I'd suffer a serious injury,
 but instant death can be avoided.","重傷は負うが
  
@@ -774,7 +774,7 @@ but instant death can be avoided.","重傷は負うが
 ","Solid injured
  
 Instant death is avoided
-.",0.23529411764705882
+.",0.2352941176470588,0.6497072
 "It doesn't change the fact
 that you're going to die here.","死ぬことには
 変わりねえってのに
@@ -784,14 +784,14 @@ that you're going to die here.","死ぬことには
 ","To die
 Even though
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.27137023
 How can you go that far?!,"どうして
  
 そこまでできる？
 
 ","why
  
-Can you go there?",0.4
+Can you go there?",0.4,0.3569073
 "But, there's a reason why I cannot lose.","だが
  
 俺には
@@ -802,7 +802,7 @@ Can you go there?",0.4
  
 To me
 There is a reason that can not lose
-.",0.5
+.",0.5,0.8108014
 "Of all those I've ever fought,
 the strongest one said this to me...","俺に
  
@@ -812,7 +812,7 @@ the strongest one said this to me...","俺に
 ","To me
  
 I said this
-.",0.29411764705882354
+.",0.29411764705882354,0.35646874
 "- Unlike me... you are not a failure!
 - <i>Unlike me... you are not a failure!</i>","(
 ネジ
@@ -823,7 +823,7 @@ I said this
 
 ","You are different from me
 It is not a fall
-"".",0.23809523809523808
+"".",0.2380952380952381,0.3643244
 I've been called a genius all along.,"(
 ネジ
 )
@@ -833,7 +833,7 @@ I've been called a genius all along.,"(
 
 ","I was always called a genius
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.9019347
 So I cannot lose.,"だから
 負けるわけにはいかない
 ｡
@@ -842,7 +842,7 @@ So I cannot lose.,"だから
 ","that's why
 I can not lose
 .
-➡",0.5
+➡",0.5,0.72511905
 "And for the sake of those guys
 who believe","天才と信じている
 あいつらのためにもな
@@ -850,7 +850,7 @@ who believe","天才と信じている
 
 ","I believe in a genius
 For those guys
-.",0.2857142857142857
+.",0.2857142857142857,0.45839554
 """The fate of the small fry character
 in a game is to be destroyed right away.""","(
 ネジ
@@ -871,7 +871,7 @@ straight away
  
 It is the fate that can be done
 "".
-➡",0.27586206896551724
+➡",0.27586206896551724,0.44821206
 "You said that, didn't you?","お前は
  
 そう言ったな
@@ -880,7 +880,7 @@ It is the fate that can be done
 ","You are
  
 I said so
-.",0.18181818181818182
+.",0.18181818181818185,0.37542632
 Look at this situation!,"(
 ネジ
 )
@@ -888,17 +888,17 @@ Look at this situation!,"(
 ｡
 
 ","Look at this situation
-.",0.6666666666666666
+.",0.6666666666666666,0.8737483
 "Things like fate,
 isn't determined by someone!","誰かが決めるもんじゃない！
 
-",Someone decides!,0.18181818181818182
+",Someone decides!,0.18181818181818185,0.44946232
 "<i>you're the man loved most</i>
 <i>by the Hyuga ability...</i>","お前は一族の誰よりも
 日向の才に愛された男だ＞
 
 ","You are more than anyone
-A man who was loved by Hinata",0.18181818181818182
+A man who was loved by Hinata",0.18181818181818185,0.6257261
 I cannot die so easily.,"俺は…
  
 そう簡単には
@@ -909,7 +909,7 @@ I cannot die so easily.,"俺は…
  
 That so easy
 I can not die
-.",0.6
+.",0.6,0.7454225
 "Even if you act tough,
 you can't stem the current now...","ヘッ
  
@@ -917,7 +917,7 @@ you can't stem the current now...","ヘッ
 
 ","Hem
  
-Even if it is strong",0.11764705882352941
+Even if it is strong",0.1176470588235294,0.18861172
 <i>Sasuke is now in the darkness...</i>,"(
 ネジ
 )
@@ -927,13 +927,13 @@ Even if it is strong",0.11764705882352941
 
 ","<Sasuke is now
  
-In the dark>",0.5833333333333334
+In the dark>",0.5833333333333334,0.9455401
 "There's a person who can find him
 in the darkness and save him.","救い出せるヤツがいる
 ｡
 
 ","There is a guy who can save
-.",0.375
+.",0.375,0.5567367
 "Master Sasuke belongs
 to Lord Orochimaru.","(
 鬼童丸
@@ -944,26 +944,26 @@ to Lord Orochimaru.","(
 
 ","Hem
 Sasuke is a Saruno Maru
-.",0.16666666666666666
+.",0.16666666666666666,0.6685546
 He <i>can</i> save him!,"(
 ネジ
 )
 出せるさ！
 
-",I can get out!,0.2727272727272727
+",I can get out!,0.2727272727272727,0.3283294
 <i>Because...Naruto...you...</i>,"ナルト
  
 お前は…》
 
 ","Naruto 
  
- You are…""",0.2
+ You are…""",0.2,0.76982695
 <i>You saved me from the darkness!</i>,"(
 ネジ
 )
 《俺を闇の中から救い出した！》
 
-","""I saved me from the dark!""",0.42857142857142855
+","""I saved me from the dark!""",0.42857142857142855,0.72501117
 Talking rubbish until the end...,"最後まで
  
 ざれ言を…
@@ -972,38 +972,38 @@ Talking rubbish until the end...,"最後まで
 ","To the last
  
 The word ...
-.",0.2
+.",0.2,0.40707117
 <i>But...</i>,"ぐっ…
  
 がっ！
 
 ","...
  
-!",0.14285714285714285
+!",0.14285714285714285,0.20203665
 <i>Everyone...</i>,"頼んだぞ…》
 
-","I asked ... """,0.25
+","I asked ... """,0.25,0.22284245
 "<i>For the first time, I was able to speak</i>","♬
  
 はじめて君としゃべった
 
 ","♬
  
-For the first time I talked with you",0.29411764705882354
+For the first time I talked with you",0.29411764705882354,0.5156027
 <i>No wonder I get carried away by you</i>,"♬
  
 迷惑に思うかな
 
 ","♬
  
-I wonder if I'm annoying",0.13333333333333333
+I wonder if I'm annoying",0.13333333333333333,0.37200928
 <i>I feel so sad</i>,"♬
  
 僕なんかがしゃべりかけたら
 
 ","♬
  
-If I talk about something",0.08333333333333333
+If I talk about something",0.08333333333333333,0.26078504
 Yahoo! The enemies are quite close!,"♬
  
 君は
@@ -1012,7 +1012,7 @@ Yahoo! The enemies are quite close!,"♬
 ","♬
  
 You are
-Without the ear",0.18181818181818182
+Without the ear",0.18181818181818185,0.1372986
 "Yeah! I don't feel like losing
 with four against two!","♬
  
@@ -1022,14 +1022,14 @@ with four against two!","♬
 ","♬
  
 first
-I talked with you",0.125
+I talked with you",0.125,0.05546792
 That's twice the opponents' number!,"♬
  
 それだけで僕は
 
 ","♬
  
-That alone",0.1
+That alone",0.1,0.20574789
 "Are you an idiot?!
 Me, Akamaru, Shikamaru, and you!","♬
  
@@ -1037,4 +1037,4 @@ Me, Akamaru, Shikamaru, and you!","♬
 
 ","♬
  
-But you are me",0.23076923076923078
+But you are me",0.2307692307692308,0.28658924

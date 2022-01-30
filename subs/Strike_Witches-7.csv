@@ -1,248 +1,248 @@
-en_text,jp_text,google_translated,score
-I overslept...,（芳佳(よしか)）寝坊しちゃった,) I overslept,0.5
-"My glasses, my glasses...",眼鏡 眼鏡…,Eyeglass glasses ...,0.4
-"1, 2, 3, 4.",（バルクホルン）１ ２ ３ ４…,1 2 3 4 ...,0.5714285714285714
-"2, 2, 3, 4.",２ ２ ３ ４…,2 2 3 4 ...,0.5
+en_text,jp_text,google_translated,score,semantic_score
+I overslept...,（芳佳(よしか)）寝坊しちゃった,) I overslept,0.5,0.8100161
+"My glasses, my glasses...",眼鏡 眼鏡…,Eyeglass glasses ...,0.4,0.72455114
+"1, 2, 3, 4.",（バルクホルン）１ ２ ３ ４…,1 2 3 4 ...,0.5714285714285714,0.84883565
+"2, 2, 3, 4.",２ ２ ３ ４…,2 2 3 4 ...,0.5,0.8390515
 "Good morning, Shirley-san.","（ミーナ）
-おはよう シャーリーさん",Good morning Charlie,0.3333333333333333
-I-I'm sorry!,（リネット）ご… ごめんなさい！,... I'm sorry!,0.5
-"Huh? What, what?",（エイラ）うわっ 何？ 何？,Wow?what?,0.4
-Sanya?,サーニャ,Sanya,0.5
-Geez...,（バルクホルン）んん…,...,0.5
-It's really just for today!,ちぇっ 今日だけだかんな,It's only today,0.375
+おはよう シャーリーさん",Good morning Charlie,0.3333333333333333,0.58185667
+I-I'm sorry!,（リネット）ご… ごめんなさい！,... I'm sorry!,0.5,0.75485057
+"Huh? What, what?",（エイラ）うわっ 何？ 何？,Wow?what?,0.4,0.6167253
+Sanya?,サーニャ,Sanya,0.5,0.9588761
+Geez...,（バルクホルン）んん…,...,0.5,0.4341387
+It's really just for today!,ちぇっ 今日だけだかんな,It's only today,0.375,0.650744
 Seventy more minutes...,"（ハルトマン）
-もうちょっと… あと70分…",A little more ... 70 minutes ...,0.42857142857142855
-"You call that ""a little""?!",そんなちょっとがあるか！,Such a little bit!,0.2727272727272727
-Wake up!!,起床だ 起きろ ハルトマン,Wake up warehouse Hartman,0.4
+もうちょっと… あと70分…",A little more ... 70 minutes ...,0.42857142857142855,0.82488334
+"You call that ""a little""?!",そんなちょっとがあるか！,Such a little bit!,0.2727272727272727,0.4097773
+Wake up!!,起床だ 起きろ ハルトマン,Wake up warehouse Hartman,0.4,0.45593438
 Second is discipline!,"３も規律で
 ４･５･６･７･８･９も規律だ！","3 is also disciplined
-4 · 5 · 6 · 7 · 8 · 9 is also discipline!",0.21428571428571427
-"What day is today, Hartmann?",今日は何の日だ？ ハルトマン,What day is it today?Hartman,0.5555555555555556
-Sleep day.,（ハルトマン）お休みの日,day off day,0.25
-Wrong!,違う！,different!,0.3333333333333333
-This afternoon is your commendation!,今日は 午後から お前の表彰だ,Today is your award from the afternoon,0.3
-"In recognition of your 250 shoot-downs, the country is delivering your\N""Ritterkreuz des Eisernen Kreuzes mit Eichenlaub und Schwertern"".",先日の250機 撃墜を賞して―,Awarded 250 out of the other day-,0.11538461538461539
+4 · 5 · 6 · 7 · 8 · 9 is also discipline!",0.21428571428571427,0.6345102
+"What day is today, Hartmann?",今日は何の日だ？ ハルトマン,What day is it today?Hartman,0.5555555555555556,0.9467231
+Sleep day.,（ハルトマン）お休みの日,day off day,0.25,0.58540016
+Wrong!,違う！,different!,0.3333333333333333,0.50542927
+This afternoon is your commendation!,今日は 午後から お前の表彰だ,Today is your award from the afternoon,0.3,0.5963572
+"In recognition of your 250 shoot-downs, the country is delivering your\N""Ritterkreuz des Eisernen Kreuzes mit Eichenlaub und Schwertern"".",先日の250機 撃墜を賞して―,Awarded 250 out of the other day-,0.1153846153846154,0.30002558
 "Note: ""Knight's Cross of the Iron Cross with Oak Leaves and Swords""","本国より
 柏葉(かしわば)剣付騎士鉄十字章が届く","From the country
-Kashiwa  Knights with swords can arrive",0.14285714285714285
+Kashiwa  Knights with swords can arrive",0.14285714285714285,0.43356544
 Then I'll sleep until noon.,"（ハルトマン）
-それじゃあ お昼まで",Well then until noon,0.375
-Don't sleep! Get up!,んん… 眠るな！ 起きろ！ あっ,... I'm sleeping!Get up!Ah,0.2727272727272727
-Put some clothes on! And pants!,さっさと 服を着んか！ はかんか！,Will you wear clothes quickly!Ha!,0.16666666666666666
-The Ritterkreuz des Eisernen Kreuzes is on the floor!,柏葉騎士鉄十字章が床に！,Kashiwa Knight Iron Cross chapter is on the floor!,0.35714285714285715
+それじゃあ お昼まで",Well then until noon,0.375,0.7477075
+Don't sleep! Get up!,んん… 眠るな！ 起きろ！ あっ,... I'm sleeping!Get up!Ah,0.2727272727272727,0.7456805
+Put some clothes on! And pants!,さっさと 服を着んか！ はかんか！,Will you wear clothes quickly!Ha!,0.16666666666666666,0.49529913
+The Ritterkreuz des Eisernen Kreuzes is on the floor!,柏葉騎士鉄十字章が床に！,Kashiwa Knight Iron Cross chapter is on the floor!,0.35714285714285715,0.32103306
 Get ready and come to the dining room!,"朝食の時間だ
 さっさと準備して 食堂に来い！","It is time for breakfast
-Prepare quickly and come to the dining room!",0.4375
-Huh?,うん？ あれ？,Yes?that?,0.25
-They're gone...,ない,No,0.0
-"Yes, ma'am!",（芳佳）はい！ やあっ！,Yes!!,0.5
-Unity of body and mind!,せい！ やあっ！ せい！ やあっ！,because of!!because of!!,0.2857142857142857
-This sword is not the sword that defeats the enemy.,この剣は 敵を倒す剣ではないぞ,This sword is not a sword that defeats the enemy,0.8
-"Do you understand, Miyafuji?",分かるか？ 宮藤(みやふじ),Do you understand?Miyafuya,0.5714285714285714
-I don't understand!,やあっ！ 分かりません,!I do not understand,0.6666666666666666
+Prepare quickly and come to the dining room!",0.4375,0.7429344
+Huh?,うん？ あれ？,Yes?that?,0.25,0.5648247
+They're gone...,ない,No,0.0,0.14792478
+"Yes, ma'am!",（芳佳）はい！ やあっ！,Yes!!,0.5,0.41734055
+Unity of body and mind!,せい！ やあっ！ せい！ やあっ！,because of!!because of!!,0.2857142857142857,0.19776116
+This sword is not the sword that defeats the enemy.,この剣は 敵を倒す剣ではないぞ,This sword is not a sword that defeats the enemy,0.8,0.96125114
+"Do you understand, Miyafuji?",分かるか？ 宮藤(みやふじ),Do you understand?Miyafuya,0.5714285714285714,0.91335285
+I don't understand!,やあっ！ 分かりません,!I do not understand,0.6666666666666666,0.8601031
 Is that so?,"（坂本）
-そうか 素振り あと100本だ",That's why it is 100 more,0.2222222222222222
+そうか 素振り あと100本だ",That's why it is 100 more,0.2222222222222222,0.23610158
 "You're too close, Major.","それは近づきすぎです 少佐
 駄目ですわ","It is too close to Major
-It is useless",0.2727272727272727
+It is useless",0.2727272727272727,0.56563103
 Why am I not the one who is over there?,"どうして あそこにいるのが
 私じゃないのです？","Why is there anyone
-Isn't me not me?",0.35714285714285715
+Isn't me not me?",0.35714285714285715,0.5427808
 Why does she train that raccoon-dog runt every morn-,"どうして あの ちんちくりんの
 狸(たぬき)娘なんかに―","Why
-Kazuki daughter-",0.09090909090909091
-Yo!,（ルッキーニ）にょん！,!,0.5
-"What'cha looking at, Perrine?",（ペリーヌ）へっ？ うわっ,?Wow,0.14285714285714285
+Kazuki daughter-",0.09090909090909093,0.20174544
+Yo!,（ルッキーニ）にょん！,!,0.5,0.6093273
+"What'cha looking at, Perrine?",（ペリーヌ）へっ？ うわっ,?Wow,0.14285714285714285,0.09048898
 "Oh, Perrine-san, Lucchini-chan. What's going on?","あっ ペリーヌさん
 ルッキーニちゃん どうしたの？","Mr. Perine
-Lucchini What happened?",0.14285714285714285
-I was sleeping here today.,今日は ここで寝てたんだよ,I went to bed here today,0.3333333333333333
-"Um, I was...",えっ 私は…,"Eh, I ...",0.5
-"Oh. Training, huh?",（坂本）ん？ おお 訓練か,?Is it a training?,0.2222222222222222
-Yes!,あっ はい！,Yes!,1.0
+Lucchini What happened?",0.14285714285714285,0.4629689
+I was sleeping here today.,今日は ここで寝てたんだよ,I went to bed here today,0.3333333333333333,0.8141819
+"Um, I was...",えっ 私は…,"Eh, I ...",0.5,0.6024751
+"Oh. Training, huh?",（坂本）ん？ おお 訓練か,?Is it a training?,0.2222222222222222,0.7060514
+Yes!,あっ はい！,Yes!,1.0,1.0000002
 "Lucchini, you too!","（坂本）ルッキーニ お前も来い！
 （ルッキーニ）えー！","Lucchini also comes!
- Eh!",0.25
-Major Sakamoto is so enthusiastic.,坂本少佐 本当に熱心ですね,Major Sakamoto is really enthusiastic,0.5714285714285714
+ Eh!",0.25,0.726071
+Major Sakamoto is so enthusiastic.,坂本少佐 本当に熱心ですね,Major Sakamoto is really enthusiastic,0.5714285714285714,0.9787344
 "I need to pick up an important delivery,\Nbut no one is familiar with the area.","大切な配送物を受け取りに
 行きたかったんだけど","Receive important delivery
-I wanted to go",0.19047619047619047
-I'm happy to be of help.,お役に立てて うれしいです,I'm glad to help,0.4444444444444444
+I wanted to go",0.19047619047619047,0.62502575
+I'm happy to be of help.,お役に立てて うれしいです,I'm glad to help,0.4444444444444444,0.6100169
 No one's coming down.,"（シャーロット）
-誰も起きてこないな",No one does not come up,0.2
+誰も起きてこないな",No one does not come up,0.2,0.62588376
 "I must say, everyone around here is so slack!","まったく どいつもこいつも
 たるんでいる","Every time everything
-Slack",0.07142857142857142
+Slack",0.07142857142857142,0.6467051
 "Well, the Neuroi shouldn't be showing up anytime soon, so it's all right.","まあ しばらくは
 ネウロイも来ないはずだし","Well, for a while
-Neuroi should not come",0.18181818181818182
-"You're too optimistic, Liberion. Always be prepared!",楽観的すぎだ リベリアン,Optimistic Riverian,0.08333333333333333
-"Note: Blitzkrieg means ""Lightning War"", a surprise war tactic used by the Germans in World War II.",“備えよ 常に”だ,"""Always prepare""",0.09090909090909091
-I can't find... my pants.,（ハルトマン）うーん うーん…,Hmm ...,0.1111111111111111
-"Oh, well.",まあ いっか,How much,0.0
+Neuroi should not come",0.18181818181818185,0.7253018
+"You're too optimistic, Liberion. Always be prepared!",楽観的すぎだ リベリアン,Optimistic Riverian,0.08333333333333333,0.34088737
+"Note: Blitzkrieg means ""Lightning War"", a surprise war tactic used by the Germans in World War II.",“備えよ 常に”だ,"""Always prepare""",0.09090909090909093,0.076779954
+I can't find... my pants.,（ハルトマン）うーん うーん…,Hmm ...,0.1111111111111111,0.16160485
+"Oh, well.",まあ いっか,How much,0.0,0.06713258
 "Bath time, bath time!","（ルッキーニ）
-ヒヒー お風呂 おっ風呂！",Hihi bath Bath!,0.4
+ヒヒー お風呂 おっ風呂！",Hihi bath Bath!,0.4,0.6544828
 Nothing beats a good sweat after training.,"（坂本）やっぱり訓練のあとは
 汗を流すに限る","After all training after training
-Limited to sweat",0.2727272727272727
-Major?,（坂本）ん？,?,0.5
-"S-So foggy, I can't...",えっ？ あっ あっ あの…,"eh?Oh, that ...",0.18181818181818182
-W-W-Who was the one who put soap on the flo-,せっけんを床に置くなんて,I put my soup on the floor,0.23076923076923078
+Limited to sweat",0.2727272727272727,0.82913554
+Major?,（坂本）ん？,?,0.5,0.19542137
+"S-So foggy, I can't...",えっ？ あっ あっ あの…,"eh?Oh, that ...",0.18181818181818185,0.26363638
+W-W-Who was the one who put soap on the flo-,せっけんを床に置くなんて,I put my soup on the floor,0.2307692307692308,0.20094576
 Are you okay?,"あの ご一緒しても
 よろしいでしょうか？","Even if you are together
-is this good?",0.3
-Um...,見え… ああー！,Seeing ... Oh!,0.2
-Sure. Don't be concerned with rank in the bath!,ああ 風呂では階級など気にするな,"Oh, don't worry about the class in the bath",0.29411764705882354
-"I'm sorry, Perrine-san!",失礼しました！,I'm sorry!,0.6666666666666666
-My soap flew out of my hand.,私のせっけんが飛んじゃったの,My Seken flew,0.25
-Thank you.,ありがと,thank you,0.6666666666666666
-"Oh? Oh my, oh my...",んっ 私のズボン…,My trousers ...,0.3333333333333333
+is this good?",0.3,0.20854767
+Um...,見え… ああー！,Seeing ... Oh!,0.2,0.40407595
+Sure. Don't be concerned with rank in the bath!,ああ 風呂では階級など気にするな,"Oh, don't worry about the class in the bath",0.29411764705882354,0.6100523
+"I'm sorry, Perrine-san!",失礼しました！,I'm sorry!,0.6666666666666666,0.42820278
+My soap flew out of my hand.,私のせっけんが飛んじゃったの,My Seken flew,0.25,0.30507
+Thank you.,ありがと,thank you,0.6666666666666666,0.7717476
+"Oh? Oh my, oh my...",んっ 私のズボン…,My trousers ...,0.3333333333333333,0.3837575
 That's right!,"そうよ！ ズ… ズボンがないくらい
 何だっていうの","that's right!Z ... There is no pants
-What is",0.36363636363636365
-I just don't feel comfortable.,ど… どうにも落ち着きませんわ,... How don't calm down,0.18181818181818182
-This is... the Major's!,はっ！ これは まさしく 少佐の,Hey!This is exactly a major,0.4
-W-What am I thinking?,な… 何を考えているのです？,... What are you thinking about?,0.2
-I-I would never do such a thing!,いえ まさか そんな…,No such thing ...,0.2
-I mustn't take them without permission!,勝手に取ったりしてはいけません,Do not take it without permission,0.2727272727272727
-What are you doing?,何をしてるんだ？,What are you doing?,1.0
-That's my...,（芳佳）それ 私の,That's my,0.75
-Eh?,えっ,eh,0.5
-T-T-This is a crime!,こ… こ… これは 事件ですわ！,This ... This is a case!,0.375
-What nice weather!,ああっ！,Oh!,0.2
-This is a crime.,いや これは証拠物件だ,No this is a proof property,0.375
-"Um, can I have my clothes back?",あの 私の服を…,That my clothes ...,0.18181818181818182
+What is",0.3636363636363637,0.26287654
+I just don't feel comfortable.,ど… どうにも落ち着きませんわ,... How don't calm down,0.18181818181818185,0.33726886
+This is... the Major's!,はっ！ これは まさしく 少佐の,Hey!This is exactly a major,0.4,0.7620628
+W-What am I thinking?,な… 何を考えているのです？,... What are you thinking about?,0.2,0.41525155
+I-I would never do such a thing!,いえ まさか そんな…,No such thing ...,0.2,0.1517746
+I mustn't take them without permission!,勝手に取ったりしてはいけません,Do not take it without permission,0.2727272727272727,0.71256393
+What are you doing?,何をしてるんだ？,What are you doing?,1.0,1.0000001
+That's my...,（芳佳）それ 私の,That's my,0.75,0.8120615
+Eh?,えっ,eh,0.5,0.8507752
+T-T-This is a crime!,こ… こ… これは 事件ですわ！,This ... This is a case!,0.375,0.29714772
+What nice weather!,ああっ！,Oh!,0.2,0.16328768
+This is a crime.,いや これは証拠物件だ,No this is a proof property,0.375,0.28113472
+"Um, can I have my clothes back?",あの 私の服を…,That my clothes ...,0.18181818181818185,0.51904225
 This is evidence.,"（バルクホルン）
-うーん これは事件だな",Well this is an incident,0.2857142857142857
-"Then, I'll lend you mine.",なら 私のを貸してやろう,If you let me lend me,0.18181818181818182
-"What?! Wait, please!",ええー！ 待ってください,Yes!please wait,0.42857142857142855
-There's no need to hesitate!,（バルクホルン）遠慮するな,Do not hesitate,0.1111111111111111
+うーん これは事件だな",Well this is an incident,0.2857142857142857,0.47748297
+"Then, I'll lend you mine.",なら 私のを貸してやろう,If you let me lend me,0.18181818181818185,0.7351462
+"What?! Wait, please!",ええー！ 待ってください,Yes!please wait,0.42857142857142855,0.53176284
+There's no need to hesitate!,（バルクホルン）遠慮するな,Do not hesitate,0.1111111111111111,0.8007406
 "Well, hold on. Make do with this for now.","まあ 待て
 しばらく これで我慢しろ","Well waiting
-Let's endure with this for a while",0.23529411764705882
-Sakamoto-san.,坂本さん,Mr. Sakamoto,0.0
-Thank you!,ありがとうございます！,Thank you!,1.0
+Let's endure with this for a while",0.2352941176470588,0.5227651
+Sakamoto-san.,坂本さん,Mr. Sakamoto,0.0,0.7073814
+Thank you!,ありがとうございます！,Thank you!,1.0,0.9999996
 Why are you being so modest?,"（バルクホルン）んん？
 何を遠慮することがあるか","?
-What do you do?",0.2222222222222222
-Such a strange girl.,変なやつだ,It is a strange guy,0.25
-"Now then, let's begin the investigation.",では 捜査に入る,Then enter the investigation,0.3
+What do you do?",0.2222222222222222,0.09257817
+Such a strange girl.,変なやつだ,It is a strange guy,0.25,0.4698951
+"Now then, let's begin the investigation.",では 捜査に入る,Then enter the investigation,0.3,0.68604934
 "First of all, why did Perrine's pants vanish?","そもそも なぜ
 ペリーヌのズボンがなくなったかだ","Why
-Perine's trousers have disappeared",0.13333333333333333
+Perine's trousers have disappeared",0.13333333333333333,0.52138335
 Then the possibility is high that someone stole them.,"誰かが盗んだという可能性が
 高いわけだ","There is a possibility that someone stole
-It is high",0.46153846153846156
-"Now, given that...",（ペリーヌ）うーん… あっ…,Hmm ... ...,0.16666666666666666
+It is high",0.4615384615384616,0.75945795
+"Now, given that...",（ペリーヌ）うーん… あっ…,Hmm ... ...,0.16666666666666666,0.2862084
 Who was in the changing room before Officer Clostermann?,"クロステルマン中尉の前に
 更衣室にいた人物は？","Prior to the crosterman Neutah
-What is the person in the changing room?",0.29411764705882354
+What is the person in the changing room?",0.29411764705882354,0.65136164
 Officer Francesca Lucchini?!,"フランチェスカ･ルッキーニ少尉…
-（２人）あっ",Francesca Lucchini Wolf ...,0.2857142857142857
-Wait! Stop!!,（バルクホルン）待て！ 止まれ！,Wait !stop!,1.0
+（２人）あっ",Francesca Lucchini Wolf ...,0.2857142857142857,0.7299643
+Wait! Stop!!,（バルクホルン）待て！ 止まれ！,Wait !stop!,1.0,0.96637976
 I'm sorry!,"（ルッキーニ）ごめんなさーい！
 （芳佳）待って ルッキーニちゃん","Sorry!
- waiting for her Lucchini",0.25
+ waiting for her Lucchini",0.25,0.30426776
 Hey!!,"（坂本）こらあ！
 （シャーロット）止まれー！","Kowa!
- Stopped!",0.25
-Delicious!,おいしい,delicious,0.5
+ Stopped!",0.25,0.2751458
+Delicious!,おいしい,delicious,0.5,0.86656845
 Which way did she go?,"（バルクホルン）どっちに行った？
 （シャーロット）ああ… さあ？","Which one did you go?
- Oh ...?",0.4
+ Oh ...?",0.4,0.42446488
 Let's go!,"（バルクホルン）行こう
-（シャーロット）おう",Let's go,0.75
-"Hey, Lucchini!",（坂本）おーい ルッキーニ！,Oi Lucchini!,0.4
-I...,あっ うう… 擦れる…,Get up ... I'm rubbing ...,0.3333333333333333
+（シャーロット）おう",Let's go,0.75,0.88118505
+"Hey, Lucchini!",（坂本）おーい ルッキーニ！,Oi Lucchini!,0.4,0.7959775
+I...,あっ うう… 擦れる…,Get up ... I'm rubbing ...,0.3333333333333333,0.22637151
 Lucchini-chan! G-Give me back my clothes!,"ルッキーニちゃん！
 か… 返して！ 私の服！","Lucchini!
-... Return!My clothes!",0.3
-Come-and-get-them!,うぬ～！,Unagu!,0.3333333333333333
-Yoshika!,芳佳！,Yoshio!,0.3333333333333333
+... Return!My clothes!",0.3,0.8460151
+Come-and-get-them!,うぬ～！,Unagu!,0.3333333333333333,0.2747435
+Yoshika!,芳佳！,Yoshio!,0.3333333333333333,0.86577624
 *sneak sneak sneak*,"（ルッキーニ）
-さささささっ　ちらっ",Sasaya,0.0
-Sorry!,ごめん,sorry,0.5
+さささささっ　ちらっ",Sasaya,0.0,0.20688921
+Sorry!,ごめん,sorry,0.5,0.8376812
 Where's Lucchini?,"（シャーロット）ルッキーニは？
 （エイラ）し… 下に逃げた","What is Lucchini?
- ... I ran down",0.2
-Ta-da!,（ルッキーニ）とう！,!,0.5
-Found her!,（芳佳）見つけた！,I found it!,0.4
-I'm not a thief!,泥棒じゃないよー！,It's not a thief!,0.5
+ ... I ran down",0.2,0.8273056
+Ta-da!,（ルッキーニ）とう！,!,0.5,0.37651855
+Found her!,（芳佳）見つけた！,I found it!,0.4,0.52987933
+I'm not a thief!,泥棒じゃないよー！,It's not a thief!,0.5,0.87813795
 Wait up!,"（芳佳）待って！
 （ペリーヌ）待ちなさいったら！","Wait!
- Wait!",0.6666666666666666
-This is...,あっ ここは…,Here is ...,0.5
+ Wait!",0.6666666666666666,0.67554
+This is...,あっ ここは…,Here is ...,0.5,0.70721817
 An alarm?!,"（芳佳）警報!?
 （ペリーヌ）敵襲ですか？","alarm!?
- Is it an enemy issue?",0.5
+ Is it an enemy issue?",0.5,0.6440739
 Prepare for battle!,"（バルクホルン）出撃準備だ
 （４人）はい！","It is preparation for dispatch
- Yes!",0.2222222222222222
-"Okay, time to go!",さて 行くか,Do you go,0.125
-It's an enemy attack!,（リネット）敵襲です！,This enemy attack!,0.42857142857142855
-Let's hurry.,急ぐわよ,It hurry,0.2
+ Yes!",0.2222222222222222,0.3115417
+"Okay, time to go!",さて 行くか,Do you go,0.125,0.3886116
+It's an enemy attack!,（リネット）敵襲です！,This enemy attack!,0.42857142857142855,0.80452037
+Let's hurry.,急ぐわよ,It hurry,0.2,0.6914728
 It's really not the same...,"予報が全く
 当てにならなくなってきたわね","Forecast
-It has not been hit",0.18181818181818182
-S-Sakamoto-san! I'm not wearing anything!,さ… 坂本さん 私 はいてません,Sakamoto-san I'm not,0.375
-I'm also a little transparent...,私も ちょっと 透け透けで…,I'm a little transpermhesive ...,0.625
-No problem!,問題ない 任務だ 任務,No problem task,0.5
-No one is watching you up in the sky!,空では誰も見ていない！,No one is looking at the sky!,0.5
-"I'll go, too.",（サーニャ）私も 行きます,I will also go,0.25
-S-Sanya...,（坂本）アッハッハッハ…,Ajach ...,0.3333333333333333
-Huh? Eila.,（芳佳たち）ええっ？,yeah?,0.2
-Those are my pants.,あれ？ エイラ それ 私のズボン,that?Aioo my pants,0.25
+It has not been hit",0.18181818181818185,0.010478853
+S-Sakamoto-san! I'm not wearing anything!,さ… 坂本さん 私 はいてません,Sakamoto-san I'm not,0.375,0.7372996
+I'm also a little transparent...,私も ちょっと 透け透けで…,I'm a little transpermhesive ...,0.625,0.40004522
+No problem!,問題ない 任務だ 任務,No problem task,0.5,0.6044608
+No one is watching you up in the sky!,空では誰も見ていない！,No one is looking at the sky!,0.5,0.8750629
+"I'll go, too.",（サーニャ）私も 行きます,I will also go,0.25,0.7280488
+S-Sanya...,（坂本）アッハッハッハ…,Ajach ...,0.3333333333333333,0.35126016
+Huh? Eila.,（芳佳たち）ええっ？,yeah?,0.2,0.39669648
+Those are my pants.,あれ？ エイラ それ 私のズボン,that?Aioo my pants,0.25,0.65440637
 And what switch would that be?,"（ハルトマン）
-何のスイッチ 入れたって？",What's the switch?,0.3333333333333333
-"But, they're mine.",だって 私のだから,Because I am,0.0
-"Endure it, Miyafuji!",出撃だ！ 全機 続け！,It is a dispatch!Continue to continue!,0.2
-What are you all doing?!,何をやってるんだ こいつら,What I do,0.1111111111111111
-Roger.,了解,Roger that,0.3333333333333333
-Commander! The enemy!,（バルクホルン）中佐 敵が,Nakaya Enemy,0.2
-There is no enemy.,敵はいません 警報は間違いです,There is no enemy Alarm is a mistake,0.5
-Come on out.,（ミーナ）出てきなさい,comes out,0.2
+何のスイッチ 入れたって？",What's the switch?,0.3333333333333333,0.761218
+"But, they're mine.",だって 私のだから,Because I am,0.0,0.23816375
+"Endure it, Miyafuji!",出撃だ！ 全機 続け！,It is a dispatch!Continue to continue!,0.2,0.35834545
+What are you all doing?!,何をやってるんだ こいつら,What I do,0.1111111111111111,0.38194385
+Roger.,了解,Roger that,0.3333333333333333,0.7945503
+Commander! The enemy!,（バルクホルン）中佐 敵が,Nakaya Enemy,0.2,0.39792883
+There is no enemy.,敵はいません 警報は間違いです,There is no enemy Alarm is a mistake,0.5,0.611959
+Come on out.,（ミーナ）出てきなさい,comes out,0.2,0.7039186
 Lucchini!,"（シャーロット）ルッキーニ！
 （芳佳）ルッキーニちゃん！","Lucchini!
- Rucini-chan!",0.6666666666666666
+ Rucini-chan!",0.6666666666666666,0.7307848
 It seems that Lucchini-chan hit the alarm by mistake.,"ルッキーニちゃんが
 誤って押したみたいで","Lucchini
-It seems that I accidentally pressed",0.21428571428571427
-EH?!,（一同）えー！,Eh!,0.6666666666666666
-"Also, I have confiscated these.",それと これも没収しました,And this was also confiscated,0.2
+It seems that I accidentally pressed",0.21428571428571427,0.5368792
+EH?!,（一同）えー！,Eh!,0.6666666666666666,0.87338954
+"Also, I have confiscated these.",それと これも没収しました,And this was also confiscated,0.2,0.7338912
 This is it!,"（ペリーヌ）ありましたわ！
 （エイラ）これだ これ","has been there!
- This is this",0.42857142857142855
+ This is this",0.42857142857142855,0.57594466
 Hartmann! You did it!,"（バルクホルン）
-ハルトマン やったな！",I did Hartman!,0.2857142857142857
+ハルトマン やったな！",I did Hartman!,0.2857142857142857,0.88123757
 You're the pride of the Karlsland military!,"お前こそ
 カールスラント軍人の誇りだ","You
-Carlslant's pride",0.2
-"All right, let's begin the commendation now.",さあ 今から 表彰を始めましょう,Now let's start the award from now,0.3076923076923077
+Carlslant's pride",0.2,0.5727462
+"All right, let's begin the commendation now.",さあ 今から 表彰を始めましょう,Now let's start the award from now,0.3076923076923077,0.47343925
 "Are you ready, Officer Hartmann?","準備は いいですね？
 ハルトマン中尉","Are you ready?
-Hartman Nautenant",0.4444444444444444
-"Officer Hartmann, to the stage.",（坂本）ハルトマン中尉 壇上へ,Keep on the Hartmannichi,0.1
-It's so breezy...,うーん そういえば変なんだよね,"Well, if so, it's strange",0.3333333333333333
-Poor Lucchini-chan.,ルッキーニちゃん かわいそう,Lucchini-chan,0.3333333333333333
+Hartman Nautenant",0.4444444444444444,0.7728347
+"Officer Hartmann, to the stage.",（坂本）ハルトマン中尉 壇上へ,Keep on the Hartmannichi,0.1,0.46872035
+It's so breezy...,うーん そういえば変なんだよね,"Well, if so, it's strange",0.3333333333333333,0.15968652
+Poor Lucchini-chan.,ルッキーニちゃん かわいそう,Lucchini-chan,0.3333333333333333,0.83453935
 "My pants disappeared from the bath, so that's why I borrowed Perrine's.","もともと お風呂で
 私のズボンがなくなったから","Originally in the bath
-Because my pants have disappeared",0.2631578947368421
+Because my pants have disappeared",0.2631578947368421,0.76532125
 Really?,"（ペリーヌ）なっ
-（リネット）ほんと？",?,0.5
-"Then, there's someone else who took them?",そ… そんな人 いるのかなあ？,So ... who is there?,0.23076923076923078
-"Of course, there isn't!",いるわけありませんでしょ,There is no,0.25
+（リネット）ほんと？",?,0.5,0.50665504
+"Then, there's someone else who took them?",そ… そんな人 いるのかなあ？,So ... who is there?,0.2307692307692308,0.27080593
+"Of course, there isn't!",いるわけありませんでしょ,There is no,0.25,0.67649835
 We will now conduct the award ceremony\Nfor Flying Officer Erica Hartmann.,"（ミーナ）
 エーリカ･ハルトマン中尉の
 受勲を執り行います","Erica · Hartmann Neutah
-We will carry out the reception",0.29411764705882354
-"Therefore, we award you with this.",よって これを賞する,Therefore we prize this,0.3333333333333333
-"Congratulations, Officer Hartmann!",あっ あー！,Oh!,0.16666666666666666
-Yes! Thank you very much!,はい ありがとうございます,"Yes, thank you",0.42857142857142855
-To be continued,ニヒッ,Nihit,0.0
+We will carry out the reception",0.29411764705882354,0.5578229
+"Therefore, we award you with this.",よって これを賞する,Therefore we prize this,0.3333333333333333,0.7638768
+"Congratulations, Officer Hartmann!",あっ あー！,Oh!,0.16666666666666666,0.21481878
+Yes! Thank you very much!,はい ありがとうございます,"Yes, thank you",0.42857142857142855,0.76106036
+To be continued,ニヒッ,Nihit,0.0,0.19700952
 "In order to maintain an organization, discipline is required.","（ミーナ）
-組織を維持するには規律が必要",Requires discipline to maintain organization,0.3333333333333333
-No matter how unreasonable it may seem.,どんなに理不尽でも,No matter how unreasonable,0.5
+組織を維持するには規律が必要",Requires discipline to maintain organization,0.3333333333333333,0.9126034
+No matter how unreasonable it may seem.,どんなに理不尽でも,No matter how unreasonable,0.5,0.78257996
 But the human spirit cannot be bound.,"だけど 人の心は縛れない
 それは私も同じ","But I can not tie my mind
-That's the same",0.25
-Next time on Strike Witches:,次回 「ストライクウィッチーズ」,"Next time ""Strike Witches""",0.5
+That's the same",0.25,0.21959665
+Next time on Strike Witches:,次回 「ストライクウィッチーズ」,"Next time ""Strike Witches""",0.5,0.932217

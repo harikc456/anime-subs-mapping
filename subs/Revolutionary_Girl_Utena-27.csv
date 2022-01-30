@@ -1,272 +1,272 @@
-en_text,jp_text,google_translated,score
-Let's live our lives heroically\NLet's live them with style,♪〜,♪ ~,0.0
-I swear that I\nwill change the world,〜♪,~ ♪,0.0
-Huh?,夢？,dreams?,0.3333333333333333
-What's this?,何？ これ,what?this,0.75
-An egg?,卵,egg,0.3333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+Let's live our lives heroically\NLet's live them with style,♪〜,♪ ~,0.0,0.12840235
+I swear that I\nwill change the world,〜♪,~ ♪,0.0,0.20971577
+Huh?,夢？,dreams?,0.3333333333333333,0.19697656
+What's this?,何？ これ,what?this,0.75,0.45884424
+An egg?,卵,egg,0.3333333333333333,0.83064675
 Nanami's Egg,"（石蕗(つわぶき)美蔓(みつる)）え〜っと
 きょうの３時間目の体育は","Max) Eye
-Today's 3-hour physical education",0.1
-Let's see...,まさか…,Masaka ...,0.2
+Today's 3-hour physical education",0.1,0.016518995
+Let's see...,まさか…,Masaka ...,0.2,0.31142586
 "What would you like for lunch,\NMiss Nanami?","それと きょうの昼食ですが
 七実さんは何がいいですか？","It is a lunch for today
-What is Noshido?",0.26666666666666666
+What is Noshido?",0.26666666666666666,0.32259494
 "We've been in such a rut, eating\nin the dining hall all the time...","いつもの食堂だと
 ワンパターンなので","If it is the usual dining room
-Because it is one pattern",0.08695652173913043
+Because it is one pattern",0.08695652173913042,0.4471529
 so how would you like\nsandwiches in the courtyard?,"サンドイッチなんて
 どうでしょうか？","Sandwich
-How about that?",0.16666666666666666
-"Calm down.\NJust calm down, Nanami.",落ち着くのよ 七実,Seven reality,0.0
+How about that?",0.16666666666666666,0.2685561
+"Calm down.\NJust calm down, Nanami.",落ち着くのよ 七実,Seven reality,0.0,0.09454042
 "You've never heard of any\npeople laying eggs, right?","（女子生徒１）
 あ〜ら 七実さんたら
 卵産んじゃったの？","If you're Seven
-Did you eat eggs?",0.1875
-That's right!,そうよ,that's right,0.75
+Did you eat eggs?",0.1875,0.6079853
+That's right!,そうよ,that's right,0.75,0.8444477
 This is just a plot by someone to get\npeople to say bad things about me!,"これは 私をおとしめようとする
 何者かの陰謀よ","This is going to leave me
-Some of the conspiracy",0.19047619047619047
+Some of the conspiracy",0.19047619047619047,0.23806554
 Yeah! She's like some\nkind of space alien!,"（女子生徒３）
 ほんと 七実さんたら
 宇宙人みたいな子ね","Really Seven Seven
-A child like an alien",0.14285714285714285
+A child like an alien",0.14285714285714285,0.3512228
 "Miss Nanami, what's wrong?","（美蔓）
-どうしたんですか？ 七実さん",What happened?Theater,0.2222222222222222
-"Oh, good morning,\NMiss Tenjou!",ああ おはようございます 天上さん,Oh good morning Tenjo,0.375
-Morning!,おはよう,good morning,0.3333333333333333
-What if what had been broken?,割れたらどうすんの？ 割れたら,What if I break it?If broken,0.4444444444444444
-"Um, er, that is--",そ… その…,So ... that ...,0.125
-My egg! My dear egg!,私の卵,My egg,0.5
+どうしたんですか？ 七実さん",What happened?Theater,0.2222222222222222,0.26542175
+"Oh, good morning,\NMiss Tenjou!",ああ おはようございます 天上さん,Oh good morning Tenjo,0.375,0.6880719
+Morning!,おはよう,good morning,0.3333333333333333,0.73110497
+What if what had been broken?,割れたらどうすんの？ 割れたら,What if I break it?If broken,0.4444444444444444,0.7077315
+"Um, er, that is--",そ… その…,So ... that ...,0.125,0.312755
+My egg! My dear egg!,私の卵,My egg,0.5,0.8062741
 "Oh, what's this?","どうしたの？ 七実
 卵なんか抱えちゃってさ","What's wrong?Seven
-I have a egg",0.25
+I have a egg",0.25,0.14256836
 "You didn't lay it,\nor something, did you?","（ウテナ）まさか それ
-君が産んだんじゃないだろうね？",You're not giving birth?,0.15384615384615385
-Is she sick or something?,具合でも悪いの？,Is it bad or bad?,0.375
-"No, but she's been\nlike this all morning.",いえ けさは ずっとこうなんです,"No, it's always this",0.3333333333333333
-Just shut up!,うるさい！,noisy!,0.2
+君が産んだんじゃないだろうね？",You're not giving birth?,0.15384615384615385,0.29455122
+Is she sick or something?,具合でも悪いの？,Is it bad or bad?,0.375,0.23334101
+"No, but she's been\nlike this all morning.",いえ けさは ずっとこうなんです,"No, it's always this",0.3333333333333333,0.21511497
+Just shut up!,うるさい！,noisy!,0.2,0.2620457
 A boy-girl like you\ncouldn't possibly understand!,"あんたみたいな男女には
 分からないわよ！","For men and women like
-I do not know!",0.125
-"""Boy-girl''?",男女？,Male and female?,0.14285714285714285
-Where did you get this egg?,こんな卵 どこで手に入れたの？,Where did you get this egg?,1.0
-It's impossible.,えっ そ… それは…,Ehen ... it's ...,0.3333333333333333
-"Stop it, PLEASE!",（七実）やめて〜っ！,stop!,0.4
+I do not know!",0.125,0.29741445
+"""Boy-girl''?",男女？,Male and female?,0.14285714285714285,0.41829443
+Where did you get this egg?,こんな卵 どこで手に入れたの？,Where did you get this egg?,1.0,1.0000005
+It's impossible.,えっ そ… それは…,Ehen ... it's ...,0.3333333333333333,0.21379061
+"Stop it, PLEASE!",（七実）やめて〜っ！,stop!,0.4,0.71487325
 I don't dare say it.\NNot even to Miki!,"言えない
 いくらミッキーにでも これだけは","I can not say
-How much Mickey is she is only this",0.10526315789473684
+How much Mickey is she is only this",0.10526315789473684,0.2322967
 What's wrong?,"（薫）どうしたの？
-（七実）はっ",What happened?,0.4
-A girl?,女の子？,girl?,0.6666666666666666
+（七実）はっ",What happened?,0.4,0.38352183
+A girl?,女の子？,girl?,0.6666666666666666,0.78141296
 Hmm.\NThat's an interesting thought.,"ふ〜ん
 おもしろいことを言うね","Hmm
-I say interesting things",0.1
-I have heard that certain\nmammals do lay eggs.,聞いたことがないけど,I have never heard,0.3
-Huh?! They do?,ええっ いるの？,Do you have any?,0.25
-Nanami?,七実君？,Mr. Seven?,0.25
-I had no idea!,はあ はあ はあ…,Has Ah!,0.14285714285714285
+I say interesting things",0.1,0.27213895
+I have heard that certain\nmammals do lay eggs.,聞いたことがないけど,I have never heard,0.3,0.18944573
+Huh?! They do?,ええっ いるの？,Do you have any?,0.25,0.19183713
+Nanami?,七実君？,Mr. Seven?,0.25,0.30965796
+I had no idea!,はあ はあ はあ…,Has Ah!,0.14285714285714285,0.38189742
 There are other people\nin the world who lay eggs!,"この世に
 卵を産んじゃう人もいるなんて","In this world
-Some people give birth to eggs",0.11764705882352941
-"Oh, Miss Nanami.",ああ マーベラス,Oh Marvella,0.16666666666666666
+Some people give birth to eggs",0.1176470588235294,0.7377317
+"Oh, Miss Nanami.",ああ マーベラス,Oh Marvella,0.16666666666666666,0.3547639
 What are you doing here?,"（大瀬(おおせ)優子(ゆうこ)）
 どうしました？ こんなところで",")
-What's wrong?In such a place",0.15384615384615385
+What's wrong?In such a place",0.15384615384615385,0.3061342
 Hold it.,"（優子）
-えーっ？ 初卵ですって？",Eh?Is it the first egg?,0.1111111111111111
+えーっ？ 初卵ですって？",Eh?Is it the first egg?,0.1111111111111111,0.1292727
 What if I was the only one\nwho didn't know this till now?,"もしや
 今まで知らなかったのは私だけ？","Thorn
-I just didn't know until now?",0.35294117647058826
-"Um, you see, I...",けさ起きたらね…,If you get up ...,0.2222222222222222
-"Really, really late!\NReally, really late!",（３人）遅れてる 遅れてる,is late late,0.16666666666666666
-MY GOD!,（七実）マイ ガーッ！,My Gard!,0.5
+I just didn't know until now?",0.35294117647058826,0.323464
+"Um, you see, I...",けさ起きたらね…,If you get up ...,0.2222222222222222,0.23536824
+"Really, really late!\NReally, really late!",（３人）遅れてる 遅れてる,is late late,0.16666666666666666,0.6862194
+MY GOD!,（七実）マイ ガーッ！,My Gard!,0.5,0.43376237
 "Even if they come to take me away,\NI won't go with them!","いつか迎えに来ても
 私は 決して帰らないわ","Even if you come to pick me up someday
-I will never go back",0.25
+I will never go back",0.25,0.5028182
 Miss Nanami?,"（茎子）七実様？
-（七実）ああっ",seven facts?,0.2
+（七実）ああっ",seven facts?,0.2,0.1493298
 "Oh, uh... It's nothing!\NNothing at all!","い… いやあね
 何でもないわ 何でも","Yes ...
-Anything is nothing",0.14285714285714285
-Unforgivable!\NUN-FOR-GIV-ABLE!,（七実）許されない 許されないわ,not permitted not permitted,0.0
+Anything is nothing",0.14285714285714285,0.5286922
+Unforgivable!\NUN-FOR-GIV-ABLE!,（七実）許されない 許されないわ,not permitted not permitted,0.0,0.17506112
 "Hey, watch it!\NWhat if I'd broken my egg?!","ちょっと
 卵が割れたらどうするの？","A little
-What do you do if eggs break?",0.1
-You...,とっ…,...,0.5
-Of how I'm only\nstarting to lay eggs now!,卵を今頃産んでる 私のことを,I will give birth to eggs now,0.3076923076923077
+What do you do if eggs break?",0.1,0.57201654
+You...,とっ…,...,0.5,0.62863916
+Of how I'm only\nstarting to lay eggs now!,卵を今頃産んでる 私のことを,I will give birth to eggs now,0.3076923076923077,0.64555734
 Nanami!,"（有栖川(ありすがわ)樹璃）七実
 （七実）ええっ","Tree) Seven
- yeah",0.0
+ yeah",0.0,0.21310489
 Be careful!\NYou almost scratched my ball!,"（有栖川）
 気を付けてくれ
 玉に傷が付くところだ","Please be careful
-It is where the ball is scratched",0.3076923076923077
-"Your ""ball''?",玉？,ball?,0.4
-Your ball.,玉,ball,0.3333333333333333
-My ball.,私の玉だ,My ball,0.6666666666666666
-Want to hold it?,（有栖川）持ってみるかい？,Do you want to take it?,0.5
-It's so heavy!\NWhat is this thing?!,こんなに大きくなるものなの？,What is so big?,0.25
-Used to?,（七実）む… 昔って？,... Old-fashioned?,0.2
+It is where the ball is scratched",0.3076923076923077,0.75958943
+"Your ""ball''?",玉？,ball?,0.4,0.71554214
+Your ball.,玉,ball,0.3333333333333333,0.76712686
+My ball.,私の玉だ,My ball,0.6666666666666666,0.94228363
+Want to hold it?,（有栖川）持ってみるかい？,Do you want to take it?,0.5,0.4452021
+It's so heavy!\NWhat is this thing?!,こんなに大きくなるものなの？,What is so big?,0.25,0.523676
+Used to?,（七実）む… 昔って？,... Old-fashioned?,0.2,0.38328966
 You started way back then?!,"（有栖川）
 君もやってみるといいよ
 それじゃ","I hope you try
-Well then",0.18181818181818182
-I think it just feels good.,結構 気持ちいいよ,I feel quite good,0.2222222222222222
-Jury really is mature!,樹璃って やっぱり大人だわ,It is an adult after all sights,0.09090909090909091
-Strike!,（有栖川）ストライクだ,Strike,0.5
-"Grow up, grow up,\ngrow up fast!",早く 早く 大きくなあれっと,A quick quickly,0.0
-I had nothing\nto get upset about!,悩むことなんか なかったんだわ,I didn't have trouble,0.09090909090909091
-Everyone's laying eggs!,（七実）卵 卵 私の卵,Egg eggs my egg,0.14285714285714285
-"Hello to you, little babe",♪“こんにちは赤ちゃん”,"♪ ""Hello baby""",0.1
-To your smiling face,卵なんて 誰でも産んでるんだから,Because everyone is giving birth to anyone,0.1
-What?,えっ？ なあに？,eh?What is it?,0.4
-Is everything okay?,はあ？,Is it?,0.4
-"Oh, it's just fine! It's getting\nbigger by the day!",早く 早く 大きくなあれ♪,It's bigger soon!,0.23076923076923078
+Well then",0.18181818181818185,0.21279712
+I think it just feels good.,結構 気持ちいいよ,I feel quite good,0.2222222222222222,0.57639843
+Jury really is mature!,樹璃って やっぱり大人だわ,It is an adult after all sights,0.09090909090909093,0.31781605
+Strike!,（有栖川）ストライクだ,Strike,0.5,0.88038963
+"Grow up, grow up,\ngrow up fast!",早く 早く 大きくなあれっと,A quick quickly,0.0,0.30869192
+I had nothing\nto get upset about!,悩むことなんか なかったんだわ,I didn't have trouble,0.09090909090909093,0.2984238
+Everyone's laying eggs!,（七実）卵 卵 私の卵,Egg eggs my egg,0.14285714285714285,0.63788474
+"Hello to you, little babe",♪“こんにちは赤ちゃん”,"♪ ""Hello baby""",0.1,0.5404363
+To your smiling face,卵なんて 誰でも産んでるんだから,Because everyone is giving birth to anyone,0.1,0.21093963
+What?,えっ？ なあに？,eh?What is it?,0.4,0.40051687
+Is everything okay?,はあ？,Is it?,0.4,0.24749783
+"Oh, it's just fine! It's getting\nbigger by the day!",早く 早く 大きくなあれ♪,It's bigger soon!,0.2307692307692308,0.31234232
 "Miss Nanami, if you ever have\na problem, please tell me.","もし 何か困ってることがあったら
 相談してくださいね","If there is something in trouble
-Please consult",0.1111111111111111
+Please consult",0.1111111111111111,0.20059687
 I'll do anything for you!,"僕も七実さんのためなら
 何でもしますから","If I and seven reality
-I will do anything",0.25
-Oh? ANYthing?,（美蔓）えっ？,?,0.3333333333333333
+I will do anything",0.25,0.3101374
+Oh? ANYthing?,（美蔓）えっ？,?,0.3333333333333333,0.29381272
 "If I told you to fly at Mach 5,\nyou'd do it?","私がマッハ５で
 飛べって言ったら飛ぶのね？","I am Mach 5
-If you say it fly, isn't it flying?",0.45
+If you say it fly, isn't it flying?",0.45,0.70854425
 If I told you to dive\nten thousand meters...,"私が海底１万メートルに
 潜れって言ったら潜るのね？","I am 10,000 meters in the sea
-If you say that it is dull?",0.2
-Well... That might be...,あ… あの それって…,Oh ... that's that ...,0.2857142857142857
-So don't make promises\nyou can't keep!,できないじゃなーい！,I can not do it!,0.16666666666666666
-Miss...Nanami...,七実… さん,Serious ...,0.25
+If you say that it is dull?",0.2,0.5481864
+Well... That might be...,あ… あの それって…,Oh ... that's that ...,0.2857142857142857,0.56307745
+So don't make promises\nyou can't keep!,できないじゃなーい！,I can not do it!,0.16666666666666666,0.26780704
+Miss...Nanami...,七実… さん,Serious ...,0.25,0.14460957
 She looks sick too.\NI'm worried about her.,"何ていうか このごろ七実さん
 すごく いらいらしているみたいで","What kind of thing is this squirrel
-It looks like she is worried about",0.2222222222222222
-Huh? An egg?,えっ？ 卵？,eh?egg?,0.4
-My pet hen Nanami got like that\nright after she laid an egg.,私のペットのナナミも,Nanami of my pet,0.21428571428571427
-I doubt that's it.,そうだよ,that's right,0.2857142857142857
-"Oh, you think so?",そうですか？,Is that so?,0.25
+It looks like she is worried about",0.2222222222222222,0.43986353
+Huh? An egg?,えっ？ 卵？,eh?egg?,0.4,0.86144173
+My pet hen Nanami got like that\nright after she laid an egg.,私のペットのナナミも,Nanami of my pet,0.21428571428571427,0.6151506
+I doubt that's it.,そうだよ,that's right,0.2857142857142857,0.3371202
+"Oh, you think so?",そうですか？,Is that so?,0.25,0.54538953
 "Still, I wonder\nwho the father is.","（アンシー）
-でも父親は誰なんでしょう？",But who is the father?,0.2727272727272727
-"Grow up, grow up, grow up fast!",卵 卵 私の卵,Egg eggs my egg,0.0
-Big Brother!,あっ お兄様,A brother,0.25
-It's because\NI'm working so hard!,七実は 今頑張っています,The seven reality is working hard now,0.15384615384615385
-"Working for our glorious future,\NBig Brother!",お兄様と私の輝かしい未来のために,For my brother and my brilliant future,0.25
-For our future?,未来のため？,For the future?,0.6
+でも父親は誰なんでしょう？",But who is the father?,0.2727272727272727,0.6900238
+"Grow up, grow up, grow up fast!",卵 卵 私の卵,Egg eggs my egg,0.0,0.1160483
+Big Brother!,あっ お兄様,A brother,0.25,0.49380946
+It's because\NI'm working so hard!,七実は 今頑張っています,The seven reality is working hard now,0.15384615384615385,0.30163768
+"Working for our glorious future,\NBig Brother!",お兄様と私の輝かしい未来のために,For my brother and my brilliant future,0.25,0.5331997
+For our future?,未来のため？,For the future?,0.6,0.9144466
 A boy or a girl?,"お兄様は 男の子と女の子
 どちらがいいですか？","My brother is a boy and a girl
-Which would you like to choose?",0.26666666666666666
-"Oh, good! So do I.",よかった 私もです,I'm good too,0.2
+Which would you like to choose?",0.26666666666666666,0.5896638
+"Oh, good! So do I.",よかった 私もです,I'm good too,0.2,0.27107006
 "Nanami, you...\NYou like girls more than boys?","（桐生）
-七実は女の子がいいのか？",Is seven sicken girls?,0.14285714285714285
-Yes.,（七実）はい,Yes,0.5
-"Listen, Nanami, God created\nmen and women for a reason.",神は男と女を作られた,God created a man and a woman,0.21428571428571427
+七実は女の子がいいのか？",Is seven sicken girls?,0.14285714285714285,0.34434694
+Yes.,（七実）はい,Yes,0.5,0.83685565
+"Listen, Nanami, God created\nmen and women for a reason.",神は男と女を作られた,God created a man and a woman,0.21428571428571427,0.5863126
 going against God's plan is--,"なぜなら それがいちばん
 いい組み合わせだからだ","Because it is the best
-It's a good combination",0.14285714285714285
-"Big Brother, what in the\nworld are you talking about?!",何を言ってるの？ お兄様,What are you saying?Older brother,0.35714285714285715
-- That's not what I meant!\N- Then what?,何だ？,What?,0.18181818181818182
-Look... what would you think\nof a girl who lays eggs?,卵を産むような女の子ってどう？,How is a girl who plays eggs?,0.3333333333333333
-Nanami...,（七実）だから…,because ...,0.3333333333333333
+It's a good combination",0.14285714285714285,0.05886694
+"Big Brother, what in the\nworld are you talking about?!",何を言ってるの？ お兄様,What are you saying?Older brother,0.35714285714285715,0.52116495
+- That's not what I meant!\N- Then what?,何だ？,What?,0.18181818181818185,0.28982028
+Look... what would you think\nof a girl who lays eggs?,卵を産むような女の子ってどう？,How is a girl who plays eggs?,0.3333333333333333,0.6535977
+Nanami...,（七実）だから…,because ...,0.3333333333333333,0.20325466
 Why do you think we've been able\nto live so happily together?,"なぜこうやって
 楽しく日々を過ごせるか分かるか？","Why do you do this
-Do you know whether you can spend a day?",0.2
+Do you know whether you can spend a day?",0.2,0.20309594
 It's because you're a girl\nwho doesn't lay eggs.,"それは お前が卵を産むような
 女の子じゃないからだ","It seems that you give birth to eggs
-She is not a girl",0.19047619047619047
+She is not a girl",0.19047619047619047,0.67167395
 I pity the family of a girl who\nwould betray them like that.,"かわいそうなのは
 その女の子に裏切られた家族の方だ","It seems that
-It is a family who is betrayed by the girl",0.2631578947368421
-You didn't have\nto say it like that!,あんな言い方しなくったって,I'm sorry to say that,0.15384615384615385
+It is a family who is betrayed by the girl",0.2631578947368421,0.6570681
+You didn't have\nto say it like that!,あんな言い方しなくったって,I'm sorry to say that,0.15384615384615385,0.2678044
 so why am I the only one\ngetting grief for it?!,"（七実）
 樹璃や茎子たちだって産んでるのに
 なんで私だけが…","For baby boys and piles
-Why is only me ...",0.15789473684210525
-"Stir, stir, sti-i-i-ir!",（鈴木(すずき)）かっかっかっかっか,) cool,0.0
+Why is only me ...",0.15789473684210525,0.29543555
+"Stir, stir, sti-i-i-ir!",（鈴木(すずき)）かっかっかっかっか,) cool,0.0,0.046737157
 That's right! What do THEY do\nwhen they lay eggs?!,"茎子たちは 卵が産まれちゃったら
 どうしてるのかしら？","If the stems are born with eggs
-What do you do?",0.2222222222222222
-Ta-DAA!,（七実）嫌〜っ！,I hate!,0.25
+What do you do?",0.2222222222222222,0.6621256
+Ta-DAA!,（七実）嫌〜っ！,I hate!,0.25,0.27825484
 only because we think\nthey're impossible.,"不可能は不可能だと思うから
 不可能なのだ","Because I think impossible is impossible
-Impossible",0.2
-"Take this egg, for example.",例えば この卵,"For example, this egg",0.7142857142857143
+Impossible",0.2,0.66296756
+"Take this egg, for example.",例えば この卵,"For example, this egg",0.7142857142857143,0.87870103
 "You think you can't stand\nan egg on its end, right?","卵は立たないものだと
 思ってるだろう？","Eggs are not standing
-Do you think?",0.17647058823529413
+Do you think?",0.17647058823529413,0.62432396
 Excuse me!,"（Ａ子）あっ きゃあ！
 （Ｂ子）きょえ〜っ！","Yes!
-!",0.25
+!",0.25,0.28012544
 Wouldn't it be faster\nto just crack the bottom?,"もしかして
 底を割っちゃった方が早いのでは？","As well
-Is it early to break the bottom?",0.25
+Is it early to break the bottom?",0.25,0.541121
 "Now, if we use these break-apart chopsticks as a support...","このように
 割り箸で支えてやれば… あっ","in this way
-If you support it with a split chopstick ...",0.2
-I don't think\nthat was an egg.,（Ｂ子）卵じゃなかったようです,It seems that it was not an egg,0.25
-Forgive me.,（七実）ごめんね,Sorry,0.0
+If you support it with a split chopstick ...",0.2,0.8188223
+I don't think\nthat was an egg.,（Ｂ子）卵じゃなかったようです,It seems that it was not an egg,0.25,0.88849765
+Forgive me.,（七実）ごめんね,Sorry,0.0,0.4753353
 I just don't have the\ncourage to eat my own egg.,"私には自分の卵を
 食べるなんて勇気はないわ","I have my own eggs
-There is no courage to eat",0.35294117647058826
-I hope you can be happy here.,ここで幸せに暮らしてね,Live here here,0.1111111111111111
-Nanami.,七実,Seven,0.0
+There is no courage to eat",0.35294117647058826,0.80307096
+I hope you can be happy here.,ここで幸せに暮らしてね,Live here here,0.1111111111111111,0.34431124
+Nanami.,七実,Seven,0.0,0.22425812
 Do you know why we've been\nable to live so happily together?,"楽しいひとときが
 過ごせるか分かるか？","There is a fun one
-Do you understand whether you can spend?",0.13636363636363635
+Do you understand whether you can spend?",0.13636363636363635,0.14141414
 It's because you're not the\nsort of girl who lays eggs.,"（桐生）
 それは お前が卵を産むような
 女の子じゃないからだ","It seems that you give birth to eggs
-She is not a girl",0.23809523809523808
-This is for the best!,これでよかったのよ,It was good with this,0.1
-It... It's gone!,あっ な… ない,...,0.2
+She is not a girl",0.2380952380952381,0.73541164
+This is for the best!,これでよかったのよ,It was good with this,0.1,0.31732914
+It... It's gone!,あっ な… ない,...,0.2,0.24940112
 It can't be...\NWhere did it go?!,"そんな ど… どこに
 行っちゃったの？ あっ","Such ... Where
-Did you go?Ah",0.2857142857142857
-What's that smell?,何かしら？ この匂い,Something?This smell,0.2857142857142857
+Did you go?Ah",0.2857142857142857,0.28400606
+What's that smell?,何かしら？ この匂い,Something?This smell,0.2857142857142857,0.7688104
 What... What do you think\nyou're doing?!,"卵食べちゃうなんて
 どういうこと？","I'm eating eggs
-What do you mean?",0.2857142857142857
-Eggs! You're eating eggs!,卵よ 卵！,Egg eggs!,0.3333333333333333
-Eggs are normally\nsomething you eat.,卵は普通 食べるものだ,Eggs are usually eaten,0.25
+What do you mean?",0.2857142857142857,0.22733298
+Eggs! You're eating eggs!,卵よ 卵！,Egg eggs!,0.3333333333333333,0.8273349
+Eggs are normally\nsomething you eat.,卵は普通 食べるものだ,Eggs are usually eaten,0.25,0.83986574
 You monster!,"（七実）人でなし 人でなし！
-（西園寺）うわっ うっ",Numanneless person!,0.2
-Give me back my egg!\NGive it back!,私の卵返して,My egg return,0.2222222222222222
+（西園寺）うわっ うっ",Numanneless person!,0.2,0.19252612
+Give me back my egg!\NGive it back!,私の卵返して,My egg return,0.2222222222222222,0.7543599
 I have plenty here.,"卵が食いたきゃ
 そう頼めばよかろう","I have eaten eggs
-Let's ask for so",0.16666666666666666
-"Listen, I'd be ashamed to\nassociate with anyone...",今後は二度と…,"In the future, it will be two times ...",0.17647058823529413
+Let's ask for so",0.16666666666666666,0.27742234
+"Listen, I'd be ashamed to\nassociate with anyone...",今後は二度と…,"In the future, it will be two times ...",0.17647058823529413,0.12634288
 who pitches a fit\nover one lousy egg.,"忠告してやるが 卵一つで
 大騒ぎするような者が","It advises, but it is one egg
-Those who have a fuss",0.25
-It's burning!,焦げてる！,I'm burned!,0.14285714285714285
-Forgive me!\NI'll never let you go again!,もう決して手放したりしないから,Because I will never let go,0.23076923076923078
+Those who have a fuss",0.25,0.5325352
+It's burning!,焦げてる！,I'm burned!,0.14285714285714285,0.8105954
+Forgive me!\NI'll never let you go again!,もう決して手放したりしないから,Because I will never let go,0.2307692307692308,0.5401939
 "Miss Utena, do you\nbelieve in reincarnation?","（アンシー）ウテナ様は
 生まれ変わりを信じますか？","Utena
-Do you believe in birth?",0.36363636363636365
+Do you believe in birth?",0.3636363636363637,0.65517
 They say that when elephants\nreach the end of their lives...,"（アンシー）
 象は寿命が来ると 群れを離れて
 人知れず死んでいくといいますよね","When the elephant comes away from the group
-It is said that people are dead",0.13636363636363635
+It is said that people are dead",0.13636363636363635,0.700915
 because they don't want\ntheir children to feel sad.,"もしかすると 自分の子どもたちを
 悲しませたくなくて","Then your children
-I do not want to be sad",0.25
+I do not want to be sad",0.25,0.59886956
 "passed from parent to child,\ntill the end of time.","（アンシー）親から子へと
 永遠に受け継がれていく心の橋渡し","from parent to child
-Bridge of hearts that will be inherited forever",0.2631578947368421
-"""DANGER!''\NIs this...",これが…,This is…,0.14285714285714285
-Is this...my egg?,これが 私の卵？,This is my egg?,0.8333333333333334
-I won't abandon you!,もう絶対捨てたりしないから,I will not throw away anymore,0.09090909090909091
-My... My egg...,私の… 卵,My ... egg,1.0
-He should be back soon.,（アンシー）じきに戻りますよ,will return,0.0
+Bridge of hearts that will be inherited forever",0.2631578947368421,0.52622175
+"""DANGER!''\NIs this...",これが…,This is…,0.14285714285714285,0.24234925
+Is this...my egg?,これが 私の卵？,This is my egg?,0.8333333333333334,0.91909873
+I won't abandon you!,もう絶対捨てたりしないから,I will not throw away anymore,0.09090909090909093,0.63030255
+My... My egg...,私の… 卵,My ... egg,1.0,0.950759
+He should be back soon.,（アンシー）じきに戻りますよ,will return,0.0,0.4050543
 "Okay, I guess.","（ウテナ）
-そういえば 最近見かけないな","Speaking of which, I can not see recently",0.16666666666666666
-Coming!,嫌−っ！,I hate!,0.25
-"Yes, a native child is conceived",はーい,Yes,0.14285714285714285
+そういえば 最近見かけないな","Speaking of which, I can not see recently",0.16666666666666666,0.24444601
+Coming!,嫌−っ！,I hate!,0.25,0.26936296
+"Yes, a native child is conceived",はーい,Yes,0.14285714285714285,0.19902276
 This amazing person has\nreturned to the fencing club.,"そんなすごい人が
 フェンシング部に帰ってきた","Such a great person
-I came back to the fencing club",0.3333333333333333
-I just get serious\nbad vibes from him.,ただ者じゃないですね,It is not just a person,0.07692307692307693
+I came back to the fencing club",0.3333333333333333,0.8650222
+I just get serious\nbad vibes from him.,ただ者じゃないですね,It is not just a person,0.07692307692307693,0.14279875
 and toy with Miss Arisugawa\nisn't to be taken lightly.,"（アンシー）
-気になるようですね ウテナ様",It seems to be worried about Utena,0.125
-Hold it.\NYou think he's a Duelist too?,（ウテナ）何か胸騒ぎがするんだ,Something has a chest noise,0.07692307692307693
-"Next time, on\NRevolutionary Girl Utena:",次回 「少女革命ウテナ」…,"Next time ""Girl Revolution Utena"" ...",0.36363636363636365
-The absolute destiny: Apocalypse.,（アンシー）絶対運命黙示録,Absolute fate apocalypse,0.2857142857142857
+気になるようですね ウテナ様",It seems to be worried about Utena,0.125,0.21542692
+Hold it.\NYou think he's a Duelist too?,（ウテナ）何か胸騒ぎがするんだ,Something has a chest noise,0.07692307692307693,0.09445458
+"Next time, on\NRevolutionary Girl Utena:",次回 「少女革命ウテナ」…,"Next time ""Girl Revolution Utena"" ...",0.3636363636363637,0.7710009
+The absolute destiny: Apocalypse.,（アンシー）絶対運命黙示録,Absolute fate apocalypse,0.2857142857142857,0.79165685

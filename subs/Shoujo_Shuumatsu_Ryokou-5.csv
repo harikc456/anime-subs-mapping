@@ -1,150 +1,150 @@
-en_text,jp_text,google_translated,score
-Maybe today we should turn back,♪～,♪ ~,0.0
+en_text,jp_text,google_translated,score,semantic_score
+Maybe today we should turn back,♪～,♪ ~,0.0,0.07738157
 "There's a lotta electricity and water left around,","（ユーリ）電気や水道が
 結構 残っていても―","electricity and water supply
-Even if it remains quite",0.1875
-Even though there are all these houses.,家は こんなにあるのに,Even though there is a house,0.2727272727272727
+Even if it remains quite",0.1875,0.733943
+Even though there are all these houses.,家は こんなにあるのに,Even though there is a house,0.2727272727272727,0.8071325
 I bet a lotta people used to live here.,"きっとたくさんの人が
 住んでたんだろうな～","Surely a lot of people
-I lived ~",0.2
-"How many do you mean by ""a lot""?",（チト）たくさんってどのくらい？,How much is it?,0.14285714285714285
-Or maybe even more.,（ユーリ）もっと多いかも…,Much more ...,0.14285714285714285
-I dunno.,ん～ よく分かんないな,~ I do not understand well,0.125
+I lived ~",0.2,0.6314323
+"How many do you mean by ""a lot""?",（チト）たくさんってどのくらい？,How much is it?,0.14285714285714285,0.13977675
+Or maybe even more.,（ユーリ）もっと多いかも…,Much more ...,0.14285714285714285,0.5121415
+I dunno.,ん～ よく分かんないな,~ I do not understand well,0.125,0.23294988
 What?,"（ユーリ）あのさ…
 （チト）何？","That's ...
- What?",0.4
+ What?",0.4,0.5775908
 "Well, you couldn't live without a house.","（チト）そりゃあ 家がなかったら
 暮らしていけないだろ","If there is no house
-I can not live",0.11764705882352941
-"Yeah, but we don't have a house now.",今の私たちには 家 ないけど,I do not house for us now,0.2
+I can not live",0.1176470588235294,0.7572211
+"Yeah, but we don't have a house now.",今の私たちには 家 ないけど,I do not house for us now,0.2,0.618382
 "Hey, what about that? Isn't that a house?","家じゃないの？
 （チト）ん？","Isn't it home?
-?",0.25
-Huh?,（ユーリ）ねえ あれは？,Hey?,0.3333333333333333
-Our vehicle.,（ユーリ）私たちの車両,Our vehicles,0.25
-Answer either yes or no.,“はい”か“いいえ”で答えて,"Answer ""Yes"" or ""No""",0.5
-No.,いいえ,no,0.5
-Shut up.,（チト）黙れ,shut up,0.6666666666666666
+?",0.25,0.46746346
+Huh?,（ユーリ）ねえ あれは？,Hey?,0.3333333333333333,0.5989533
+Our vehicle.,（ユーリ）私たちの車両,Our vehicles,0.25,0.88657176
+Answer either yes or no.,“はい”か“いいえ”で答えて,"Answer ""Yes"" or ""No""",0.5,0.6722332
+No.,いいえ,no,0.5,0.81283426
+Shut up.,（チト）黙れ,shut up,0.6666666666666666,0.885829
 "Well, we did have a house a long time ago.","まあ 私たちにも
 昔はあったけどね… 家","Well, we
-I had a long time ago ... House",0.5714285714285714
-"But we lost it, so...",でも なくなちゃったからなあ…,But it was not ...,0.3333333333333333
+I had a long time ago ... House",0.5714285714285714,0.82184327
+"But we lost it, so...",でも なくなちゃったからなあ…,But it was not ...,0.3333333333333333,0.46218935
 This room actually has a door.,"（ユーリ）
-この部屋 ちゃんと扉がある",There is a door with this room,0.4
-You're right.,（チト）ホントだ,Real,0.0
-This is a pretty nice room.,（ユーリ）結構きれいな部屋だね,It is a pretty clean room,0.4444444444444444
-"The water works, too.",水も出るな…,Don't get water ...,0.1
-What a nice view.,いい眺めだなあ…,It is a good view ...,0.2222222222222222
-"Okay, let's try it.",えっ いいの？,Is it okay?,0.2222222222222222
-What dreams?,（ユーリ）憧れ？,Longing?,0.25
-Living in a place like this.,（チト）こういう所に住むの,I live in this place,0.3333333333333333
-"It's pretty nice, having an actual roof\Nand four walls surrounding you.",四方を壁に囲まれててさ,It is surrounded by four ways,0.1111111111111111
-"A bed, huh...",（チト）ベッドか…,bed ...,0.4
+この部屋 ちゃんと扉がある",There is a door with this room,0.4,0.89699924
+You're right.,（チト）ホントだ,Real,0.0,0.21307036
+This is a pretty nice room.,（ユーリ）結構きれいな部屋だね,It is a pretty clean room,0.4444444444444444,0.76610583
+"The water works, too.",水も出るな…,Don't get water ...,0.1,0.5773312
+What a nice view.,いい眺めだなあ…,It is a good view ...,0.2222222222222222,0.7397039
+"Okay, let's try it.",えっ いいの？,Is it okay?,0.2222222222222222,0.27742815
+What dreams?,（ユーリ）憧れ？,Longing?,0.25,0.29138058
+Living in a place like this.,（チト）こういう所に住むの,I live in this place,0.3333333333333333,0.70183325
+"It's pretty nice, having an actual roof\Nand four walls surrounding you.",四方を壁に囲まれててさ,It is surrounded by four ways,0.1111111111111111,0.38187832
+"A bed, huh...",（チト）ベッドか…,bed ...,0.4,0.6907818
 I saw one once that had two levels for two people.,"２人用の２段になったやつを
 前に見たな","Two-stage guy for 2 people
-I saw it before",0.25
-"Oh, that's cool! I want one!",お～ いいね それ欲しい,"Oh, I want it",0.4
-I'd wanna put it over there.,あの辺に置きたいね,I want to put it on that side,0.21428571428571427
-I call the top!,私 上 上～,I above ~,0.14285714285714285
-"You don't mind being on bottom, right?",ちーちゃんは下でいいよね？,"Chi-chan is understood below, right?",0.21428571428571427
-"Oh, I'd want a bookshelf, too.",あ 私 あれも欲しいな… 本棚,Oh I want it ... Bookshelf,0.36363636363636365
-What's that?,（ユーリ）何それ？,What?,0.5
-Really? It's a bunch of shelves with books on them.,高い所 イヤだもんね～,It's a high place,0.2
-"Okay, okay, then I want a pantry!",だったら私は食料棚が欲しい！,"If so, I want a food shelf!",0.4166666666666667
+I saw it before",0.25,0.57749665
+"Oh, that's cool! I want one!",お～ いいね それ欲しい,"Oh, I want it",0.4,0.5287385
+I'd wanna put it over there.,あの辺に置きたいね,I want to put it on that side,0.21428571428571427,0.55425394
+I call the top!,私 上 上～,I above ~,0.14285714285714285,0.34436765
+"You don't mind being on bottom, right?",ちーちゃんは下でいいよね？,"Chi-chan is understood below, right?",0.21428571428571427,0.075209916
+"Oh, I'd want a bookshelf, too.",あ 私 あれも欲しいな… 本棚,Oh I want it ... Bookshelf,0.3636363636363637,0.8492644
+What's that?,（ユーリ）何それ？,What?,0.5,0.504813
+Really? It's a bunch of shelves with books on them.,高い所 イヤだもんね～,It's a high place,0.2,0.26149544
+"Okay, okay, then I want a pantry!",だったら私は食料棚が欲しい！,"If so, I want a food shelf!",0.4166666666666667,0.5903079
 It's a bunch of shelves with lots of food on them.,"（ユーリ）
-食べ物のいっぱい詰まった棚だよ",It is a shelf that has a lot of food,0.23529411764705882
+食べ物のいっぱい詰まった棚だよ",It is a shelf that has a lot of food,0.2352941176470588,0.86635345
 "And... I'd want a heater, too.","あとは… 暖房は欲しいよね
 ストーブとか…","After that ... I want heating
-Stove and ...",0.2857142857142857
-"Let's decorate it with stone statues, too!",（ユーリ）じゃあ 石像も飾ろう,"Well, let's decorate the stone statue",0.38461538461538464
-This is nice...,（チト･ユーリ）いいよね～,is good ~,0.16666666666666666
-That would be really nice.,（ユーリ）そうだね,That's right,0.125
+Stove and ...",0.2857142857142857,0.58072793
+"Let's decorate it with stone statues, too!",（ユーリ）じゃあ 石像も飾ろう,"Well, let's decorate the stone statue",0.38461538461538464,0.90916866
+This is nice...,（チト･ユーリ）いいよね～,is good ~,0.16666666666666666,0.20356345
+That would be really nice.,（ユーリ）そうだね,That's right,0.125,0.27201
 It's getting late. Let's just stay here for the night.,"（チト）もう遅いし
 今日はここに泊まろうか","late
-Let's stay here today",0.38461538461538464
+Let's stay here today",0.38461538461538464,0.7594576
 That means the road we travel is our house.,"つまり この旅路が
 私たちの家ってわけだね","In other words, this journey
-Our house is good",0.17647058823529413
+Our house is good",0.17647058823529413,0.61320496
 A great house with no roof.,"（チト）屋根のない
 すてきな家だなあ～","No roof
-It's a nice house",0.4
-HOUSE awesome!,いえ～い！,No!,0.25
+It's a nice house",0.4,0.75455123
+HOUSE awesome!,いえ～い！,No!,0.25,0.29008755
 "Oh, why don't we put a roof on this thing?","（ユーリ）あ じゃあ
 こいつにも屋根つける？","Oh,
-Do you roam this guy?",0.3125
-Like this!,えいっ！,Eh!,0.25
-"No, we're good.",（チト）いや いらん,No,0.16666666666666666
-"Chi, wall, wall!",わっ！ ちーちゃん 壁！ 壁っ！,Wow!Chi-chan Wall!Wall!,0.3333333333333333
-"Let's take a break, yeah?",休憩しよう 休憩,Take a break,0.375
-'Cause it was so bright...,盛り上がったというか…,It was said that it was exciting ...,0.3333333333333333
-"Hey, there was a breeze just now!",おい 今 風で…,Hey now ...,0.2
-Maybe there was.,風が吹いたかもね～,The wind may blew ~,0.0
+Do you roam this guy?",0.3125,0.13183513
+Like this!,えいっ！,Eh!,0.25,0.39400446
+"No, we're good.",（チト）いや いらん,No,0.16666666666666666,0.30013934
+"Chi, wall, wall!",わっ！ ちーちゃん 壁！ 壁っ！,Wow!Chi-chan Wall!Wall!,0.3333333333333333,0.8223356
+"Let's take a break, yeah?",休憩しよう 休憩,Take a break,0.375,0.7331117
+'Cause it was so bright...,盛り上がったというか…,It was said that it was exciting ...,0.3333333333333333,0.38099104
+"Hey, there was a breeze just now!",おい 今 風で…,Hey now ...,0.2,0.3586402
+Maybe there was.,風が吹いたかもね～,The wind may blew ~,0.0,0.2217904
 "Hey, why don't we bet one stick\Nof tomorrow's rations on this one?","（ユーリ）ねえ 明日の食料を
 １本賭けるってのはどう？","Hey Tomorrow's food
-How about betting one book?",0.25
-One stick?,（チト）ん？,?,0.3333333333333333
-"Sure, but no ""breeze"" this time.",いいけど 風禁止な,"Good, but windy",0.16666666666666666
-An earthquake?!,地震！？,earthquake!?,0.75
-What is this?,うわあああっ！ 何だ これ？,Wow!What this?,0.5
-You okay?,ユー？,You?,0.6666666666666666
-"You idiot, don't move!",どわっ！ バカ 動くな！,Somewhat!Don't move!,0.5
-Hey!,（チト）おい！ う うわっ！,!Wow!,0.3333333333333333
+How about betting one book?",0.25,0.5560317
+One stick?,（チト）ん？,?,0.3333333333333333,0.23275343
+"Sure, but no ""breeze"" this time.",いいけど 風禁止な,"Good, but windy",0.16666666666666666,0.543088
+An earthquake?!,地震！？,earthquake!?,0.75,0.85804224
+What is this?,うわあああっ！ 何だ これ？,Wow!What this?,0.5,0.40050572
+You okay?,ユー？,You?,0.6666666666666666,0.65925926
+"You idiot, don't move!",どわっ！ バカ 動くな！,Somewhat!Don't move!,0.5,0.64076006
+Hey!,（チト）おい！ う うわっ！,!Wow!,0.3333333333333333,0.34759754
 "Why, you...","（チト）うっ おっ おおっ…
 （ユーリ）なんで踊ってんの？","Uho ...
- Why dance?",0.2857142857142857
+ Why dance?",0.2857142857142857,0.30560005
 You little-!,"ウケる～ ウフフ ヘへッ
 （チト）くっ… お前～っ！","Uke ~ Uhuhuhe
- ... You ~!",0.2857142857142857
-I wish I could've shown this to Grandpa.,おじいさんにも見せたかったな,I wanted to show my grandfather,0.15384615384615385
-This fish... is it the same one from back then?,この魚… もしかして あの時の？,This fish ... is also that time?,0.3333333333333333
-"No, it's not.",（ユーリ）いや それは違うよ,"No, it's different",0.5714285714285714
-Y-Yuu?!,（チト）何？,What?,0.25
-Yuu?!,ユ… ユー！,Yuu ...,0.25
+ ... You ~!",0.2857142857142857,0.2742477
+I wish I could've shown this to Grandpa.,おじいさんにも見せたかったな,I wanted to show my grandfather,0.15384615384615385,0.68972826
+This fish... is it the same one from back then?,この魚… もしかして あの時の？,This fish ... is also that time?,0.3333333333333333,0.6995516
+"No, it's not.",（ユーリ）いや それは違うよ,"No, it's different",0.5714285714285714,0.46316165
+Y-Yuu?!,（チト）何？,What?,0.25,0.1323198
+Yuu?!,ユ… ユー！,Yuu ...,0.25,0.7920958
 "By the way, this is the fish from back then.","（ユーリ）ちなみに…
 あの時の魚はこいつだよ","By the way ...
-The fish at that time are this guy",0.29411764705882354
-That fish was really yummy.,（ユーリ）魚 おいしかったなあ～,Fish was delicious ~,0.25
-"You're a fish, too.",（チト）お前も魚だろ,You are also fish,0.2222222222222222
-Do you not have a brain in there?,理性はないのか 理性は…,I do not have reason ...,0.25
-"Well, I am a fish.",だって魚だし,Because it is a fish,0.2
-"Well, sure, but...",（チト）うわっ あっ…,Wow ...,0.16666666666666666
-Stop!,や や やめろ～,Yaya and stop ~,0.2
-I can't eat any more...,む… もう… もう 食べられない…,... ... I can not eat anymore ...,0.3
-I feel like I went through a bunch of weird places...,変な場所を いろいろ巡った気分だ,I felt like a strange place,0.21428571428571427
-This water's really good.,水 おいしい…,Water delicious ...,0.125
-The Sound of Rain,あっ,Ah,0.0
-Chi.,ちーちゃん,Chi-chan,0.0
-It's raining!,雨だあ～っ！,It's raining!,1.0
-Not a time to celebrate.,（ユーリ）あ～い,A ~,0.14285714285714285
+The fish at that time are this guy",0.29411764705882354,0.71259534
+That fish was really yummy.,（ユーリ）魚 おいしかったなあ～,Fish was delicious ~,0.25,0.7970391
+"You're a fish, too.",（チト）お前も魚だろ,You are also fish,0.2222222222222222,0.7512555
+Do you not have a brain in there?,理性はないのか 理性は…,I do not have reason ...,0.25,0.28536338
+"Well, I am a fish.",だって魚だし,Because it is a fish,0.2,0.60830253
+"Well, sure, but...",（チト）うわっ あっ…,Wow ...,0.16666666666666666,0.26647317
+Stop!,や や やめろ～,Yaya and stop ~,0.2,0.45071304
+I can't eat any more...,む… もう… もう 食べられない…,... ... I can not eat anymore ...,0.3,0.8640456
+I feel like I went through a bunch of weird places...,変な場所を いろいろ巡った気分だ,I felt like a strange place,0.21428571428571427,0.704529
+This water's really good.,水 おいしい…,Water delicious ...,0.125,0.6242926
+The Sound of Rain,あっ,Ah,0.0,0.15413542
+Chi.,ちーちゃん,Chi-chan,0.0,0.66675097
+It's raining!,雨だあ～っ！,It's raining!,1.0,1.0
+Not a time to celebrate.,（ユーリ）あ～い,A ~,0.14285714285714285,0.13152257
 I wish it'd started when we were in a place with a roof.,"屋根のある場所で
 降ってくれればいいのに","In a place with a roof
-I wish I had fallen",0.4375
-Somewhere we can wait out the rain...,雨宿りできる所…,The rain where it can be accommodated ...,0.3333333333333333
-Put the sheet over our stuff.,荷物にシートかけといて,Sheet for luggage,0.1111111111111111
-We got pretty wet...,（ユーリ）ん…,...,0.2
-Sure is loud.,ヒマだな～,It is a him,0.14285714285714285
-Sounds cool!,おっ いい音,Good sound,0.0
-Stop all that banging.,カンカンうるさい,Kankan noisy,0.0
-Hollow?,なんでだろう？,Why?,0.3333333333333333
-I see.,なるほど～,I see ~,0.5
-Like your head.,（チト）ユーの頭のように,Like You're Head,0.3333333333333333
-It's really loud if it's empty.,空っぽだと よく響くんだ,It sounds like it's empty,0.3333333333333333
-Ow!,あいでっ！ う… う…,Aim!UU…,0.25
-It's got more inside than yours.,お前よりは中身あるよ,It is more than you,0.3
+I wish I had fallen",0.4375,0.60592103
+Somewhere we can wait out the rain...,雨宿りできる所…,The rain where it can be accommodated ...,0.3333333333333333,0.6999264
+Put the sheet over our stuff.,荷物にシートかけといて,Sheet for luggage,0.1111111111111111,0.621901
+We got pretty wet...,（ユーリ）ん…,...,0.2,0.18509649
+Sure is loud.,ヒマだな～,It is a him,0.14285714285714285,0.13203195
+Sounds cool!,おっ いい音,Good sound,0.0,0.14589922
+Stop all that banging.,カンカンうるさい,Kankan noisy,0.0,0.23527245
+Hollow?,なんでだろう？,Why?,0.3333333333333333,0.20310587
+I see.,なるほど～,I see ~,0.5,0.7442363
+Like your head.,（チト）ユーの頭のように,Like You're Head,0.3333333333333333,0.8208751
+It's really loud if it's empty.,空っぽだと よく響くんだ,It sounds like it's empty,0.3333333333333333,0.63080037
+Ow!,あいでっ！ う… う…,Aim!UU…,0.25,0.33860648
+It's got more inside than yours.,お前よりは中身あるよ,It is more than you,0.3,0.52867544
 "If you've got nothing to do, go save some water.","（チト）
-ヒマなら水でもくんできてよ","If it is Hima, I will come to water",0.21052631578947367
-"Well, okay, but what do you need it for?",何に使うんだ？,What do you use?,0.3333333333333333
-Right?,でしょう？,Is it?,0.25
-Should we make some more?,（チト）もっと増やしてみるか,More more,0.16666666666666666
-"Yeah, there's a ton of places it's dripping.",いいけど…,"It's good, but…",0.23076923076923078
-We can use this.,（チト）これとか,This,0.2
-It's like a flood of sound.,（ユーリ）まるで音の洪水だね,It's a flood of sound,0.75
-"Maybe this is what they call ""music"".",これは音楽ってやつかもしれない,This may be a guy who is music,0.2
-Music?,（ユーリ）音楽？,music?,1.0
+ヒマなら水でもくんできてよ","If it is Hima, I will come to water",0.21052631578947367,0.39521754
+"Well, okay, but what do you need it for?",何に使うんだ？,What do you use?,0.3333333333333333,0.44349164
+Right?,でしょう？,Is it?,0.25,0.36698496
+Should we make some more?,（チト）もっと増やしてみるか,More more,0.16666666666666666,0.3967042
+"Yeah, there's a ton of places it's dripping.",いいけど…,"It's good, but…",0.2307692307692308,0.09882502
+We can use this.,（チト）これとか,This,0.2,0.27809086
+It's like a flood of sound.,（ユーリ）まるで音の洪水だね,It's a flood of sound,0.75,0.93448085
+"Maybe this is what they call ""music"".",これは音楽ってやつかもしれない,This may be a guy who is music,0.2,0.5491597
+Music?,（ユーリ）音楽？,music?,1.0,1.0
 I heard it's when high and low sounds\Nhave a rhythm and connect together.,"（チト）
-音の高低とリズムがあって―",There is a high and low rhythm of sound-,0.2777777777777778
-Huh.,ふ～ん,Fur,0.0
-Maybe we overdid it a little.,ちょっと やり過ぎたかもね,It may have been a little too much,0.25
-"Maybe, but...",でも…,but…,0.0
-The rain's...,（チト）雨が…,Rain ...,0.5
-Let's break a little longer.,（チト）もう少し休んでいこうか,How do you rest a little more?,0.15384615384615385
+音の高低とリズムがあって―",There is a high and low rhythm of sound-,0.2777777777777778,0.7286562
+Huh.,ふ～ん,Fur,0.0,0.12455578
+Maybe we overdid it a little.,ちょっと やり過ぎたかもね,It may have been a little too much,0.25,0.5025728
+"Maybe, but...",でも…,but…,0.0,0.560896
+The rain's...,（チト）雨が…,Rain ...,0.5,0.83651644
+Let's break a little longer.,（チト）もう少し休んでいこうか,How do you rest a little more?,0.15384615384615385,0.2646978

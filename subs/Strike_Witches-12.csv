@@ -1,249 +1,249 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 Abandon ship!,"（ペリーヌ）この船は沈みます
 私たちも早く","This ship sinks
-We also faster",0.125
+We also faster",0.125,0.46145305
 What can we do without Strikers?,"（芳佳(よしか)）そんな…
 私たちに何かできることは…",") That's ...
-What we can do with us ...",0.3076923076923077
-Huh?,（坂本(さかもと)）まだだ,),0.0
-"Perrine, lend me your shoulder.",（坂本）ペリーヌ 肩を貸してくれ,Please lend me the shoulder of Perine,0.2727272727272727
-"You shouldn't, Major!",（ペリーヌ）え… 駄目です 少佐,Ega ... It is a major,0.09090909090909091
-We've still got an ace in the hole…,（坂本）まだ手は残っている,I still remain,0.09090909090909091
-Here!,ここに,Here,0.5
-This is…,あっ これは…,This is ...,0.25
-…a Striker Unit!,ストライカーユニット,Striker unit,0.5
+What we can do with us ...",0.3076923076923077,0.24830425
+Huh?,（坂本(さかもと)）まだだ,),0.0,0.30457368
+"Perrine, lend me your shoulder.",（坂本）ペリーヌ 肩を貸してくれ,Please lend me the shoulder of Perine,0.2727272727272727,0.4808448
+"You shouldn't, Major!",（ペリーヌ）え… 駄目です 少佐,Ega ... It is a major,0.09090909090909093,0.35780653
+We've still got an ace in the hole…,（坂本）まだ手は残っている,I still remain,0.09090909090909093,0.1838204
+Here!,ここに,Here,0.5,0.8409113
+This is…,あっ これは…,This is ...,0.25,0.74021155
+…a Striker Unit!,ストライカーユニット,Striker unit,0.5,0.8555479
 I'll sortie and buy some time until reinforcements arrive.,"（坂本）援軍が到着するまで
 私が出撃して時間を稼ぐ","until reinforcement arrives
-I will shoot and earn time",0.25
+I will shoot and earn time",0.25,0.5185724
 I'll go with you!,"そんな… 嫌です 少佐
 私も行きます","Such ... I hate Major
-I will go too",0.16666666666666666
+I will go too",0.16666666666666666,0.2426389
 There's only one Striker Unit…,"（坂本）無理言うな
 ストライカーは１つしかないんだ","not to say
-There is only one striker",0.4
-"No, no!",その間に２人は避難しろ,"In the meantime, two people are evacuated",0.1
-Sakamoto-san!,（ペリーヌ）嫌 嫌…,disgusting ...,0.0
-I will fly!,私が飛びます,I will fly,0.75
-Miyafuji…,宮藤(みやふじ)…,Miyafuji ...,0.0
-"No, you won't. This is a superior officer's decision.",駄目だ これは上官の決定だ,It is useless this is the decision of the prominent officer,0.2222222222222222
-I don't want to give up.,私 諦めたくないんです,I do not want to give up,0.6666666666666666
-Give up?,諦める？,give up?,1.0
-I… want to protect you!,私 守りたいんです,I want to protect,0.42857142857142855
-How many times have I heard that…,そのせりふ 何度聞かされたことか,How many times were you hearing,0.3
-"Yes, ma'am!",はい！,Yes!,0.5
-Isn't that…,（シャーロット）あれは…,That is ...,0.2
-It's the Fuso carrier.,（ルッキーニ）扶桑(ふそう)の空母だよ,It is an aircraft carrier of Sakai,0.18181818181818182
-Why is the Warlock attacking it?,何でウォーロックが攻撃してるの？,What is Warlock attack?,0.3333333333333333
+There is only one striker",0.4,0.82745355
+"No, no!",その間に２人は避難しろ,"In the meantime, two people are evacuated",0.1,0.06257346
+Sakamoto-san!,（ペリーヌ）嫌 嫌…,disgusting ...,0.0,0.11846843
+I will fly!,私が飛びます,I will fly,0.75,0.9080597
+Miyafuji…,宮藤(みやふじ)…,Miyafuji ...,0.0,0.9429825
+"No, you won't. This is a superior officer's decision.",駄目だ これは上官の決定だ,It is useless this is the decision of the prominent officer,0.2222222222222222,0.4854114
+I don't want to give up.,私 諦めたくないんです,I do not want to give up,0.6666666666666666,0.9016598
+Give up?,諦める？,give up?,1.0,0.99999994
+I… want to protect you!,私 守りたいんです,I want to protect,0.42857142857142855,0.70657456
+How many times have I heard that…,そのせりふ 何度聞かされたことか,How many times were you hearing,0.3,0.5422487
+"Yes, ma'am!",はい！,Yes!,0.5,0.49648288
+Isn't that…,（シャーロット）あれは…,That is ...,0.2,0.48796082
+It's the Fuso carrier.,（ルッキーニ）扶桑(ふそう)の空母だよ,It is an aircraft carrier of Sakai,0.18181818181818185,0.45376384
+Why is the Warlock attacking it?,何でウォーロックが攻撃してるの？,What is Warlock attack?,0.3333333333333333,0.8009961
 "The Warlock is at ten o'clock, altitude 2000, almost directly above.","10時方向 高度2,000
 ほぼ直上にウォーロックです","10 o'clock direction height 2,000
-It is a warlock almost just above",0.25
-Don't worry about it.,気にせず ぶん回せ,Don't worry about it,0.8333333333333334
-Roger!,了解,Roger that,0.3333333333333333
-The enemy is coming!,敵 来ます,Enemy comes,0.16666666666666666
+It is a warlock almost just above",0.25,0.8459817
+Don't worry about it.,気にせず ぶん回せ,Don't worry about it,0.8333333333333334,0.93337506
+Roger!,了解,Roger that,0.3333333333333333,0.73912567
+The enemy is coming!,敵 来ます,Enemy comes,0.16666666666666666,0.77759147
 "Go, Miyafuji!","（坂本）行け 宮藤
 （芳佳）はい！","Go Miyato
- Yes!",0.3333333333333333
-Miyafuji!,宮藤！,Miyato!,0.3333333333333333
+ Yes!",0.3333333333333333,0.7118854
+Miyafuji!,宮藤！,Miyato!,0.3333333333333333,0.75798094
 Major!!,"（坂本）あっ
-（ペリーヌ）少佐",Major,0.5
-"Fly, Miyafuji!!",飛べ！ 宮藤！,fly!Miyato!,0.4
-She did it!,やりましたわ,I did it,0.4
+（ペリーヌ）少佐",Major,0.5,0.8577155
+"Fly, Miyafuji!!",飛べ！ 宮藤！,fly!Miyato!,0.4,0.8399471
+She did it!,やりましたわ,I did it,0.4,0.5311438
 What the— Miyafuji is fighting the Warlock!,"（シャーロット）何だ？
 宮藤がウォーロックと戦ってるぞ","What is it?
-Miyato is fighting with Warlock",0.3333333333333333
-Miyafuji-san!,はあー！,Hmm!,0.3333333333333333
+Miyato is fighting with Warlock",0.3333333333333333,0.7655642
+Miyafuji-san!,はあー！,Hmm!,0.3333333333333333,0.2049253
 "What are you going to do, Minna?","（マロニー）
-我々をどうするつもりだ？",What are you going to do?,0.7777777777777778
-You tried to deceive the Witches.,ウィッチーズを陥れようとして,Trying to get witches,0.2222222222222222
+我々をどうするつもりだ？",What are you going to do?,0.7777777777777778,0.5945633
+You tried to deceive the Witches.,ウィッチーズを陥れようとして,Trying to get witches,0.2222222222222222,0.65879273
 "In order to become stronger than a Witch,\Nyou used enemy Neuroi technology.","敵であるネウロイの
 テクノロジーを利用","Enemy Neuroy
-Technology",0.125
+Technology",0.125,0.45806563
 It was a good plan.,"（マロニー）ん…
 （ミーナ）よい計画でしたが―","...
- It was a good plan-",0.5
+ It was a good plan-",0.5,0.90032417
 If only…,"もっと… もっと早く
 宮藤を信じてやっていれば…","More ... earlier
-If you believe in Miyato ...",0.1111111111111111
-The Akagi is going to sink!,赤城(あかぎ)が沈みそうだよ,Akagi  seems to sink,0.375
+If you believe in Miyato ...",0.1111111111111111,0.18648535
+The Akagi is going to sink!,赤城(あかぎ)が沈みそうだよ,Akagi  seems to sink,0.375,0.8928958
 The Warlock is fighting with a Witch.,"あっ ウォーロックとウィッチが
 戦ってる","There is a Warlock and Witch
-Be fighting",0.45454545454545453
-Who is it?,誰だ？,Who?,0.5
+Be fighting",0.4545454545454545,0.9360954
+Who is it?,誰だ？,Who?,0.5,0.5757561
 It's Miyafuji-san.,"（ハルトマン）
-あっ おーい 大変だ",It's a big deal,0.2857142857142857
-Miyafuji?!,宮藤が？,Miyato?,0.25
+あっ おーい 大変だ",It's a big deal,0.2857142857142857,0.045025915
+Miyafuji?!,宮藤が？,Miyato?,0.25,0.6815293
 Impossible! I thought your units were all sealed away in the hangar!,"お前たちのユニットは 全て
 ハンガーに封印されているはずだ","All your units are all
-It should be sealed by the hanger",0.2631578947368421
+It should be sealed by the hanger",0.2631578947368421,0.6614614
 The waveform of this unit is…,"このユニットの波形は
 美緒(みお)のストライカー","The waveform of this unit
-A striker of Mio",0.5555555555555556
-As expected of Major Sakamoto.,フフッ さすが坂本少佐だ,It is Hiraku Sakamoto,0.1111111111111111
+A striker of Mio",0.5555555555555556,0.5414874
+As expected of Major Sakamoto.,フフッ さすが坂本少佐だ,It is Hiraku Sakamoto,0.1111111111111111,0.5230445
 Miyafuji-san has her hands full just buying time.,"宮藤さん１人では
 時間稼ぎが精いっぱいよ","Mr. Miyato alone
-I earn time earning",0.06666666666666667
-Let's go.,行きましょう,let's go,0.75
-"Wait, wait, wait!",あっ 待て待て待て,Wait for waiting and wait,0.16666666666666666
+I earn time earning",0.06666666666666668,0.44127065
+Let's go.,行きましょう,let's go,0.75,0.88774866
+"Wait, wait, wait!",あっ 待て待て待て,Wait for waiting and wait,0.16666666666666666,0.34494197
 Why… Why is the Warlock attacking the Akagi?,"（芳佳）どうして…
 どうしてウォーロックが赤城を？","Why ...
-Why Warlock is Akagi?",0.5555555555555556
-It's just like a Neuroi…,それに まるでネウロイみたいな,It's like Neuroy,0.42857142857142855
-Neuroi?!,あ！,Ah!,0.25
-"But if it's a Neuroi, then…",でも もしネウロイだったら…,But if it was neuroi ...,0.4
+Why Warlock is Akagi?",0.5555555555555556,0.88020617
+It's just like a Neuroi…,それに まるでネウロイみたいな,It's like Neuroy,0.42857142857142855,0.77523667
+Neuroi?!,あ！,Ah!,0.25,0.20816742
+"But if it's a Neuroi, then…",でも もしネウロイだったら…,But if it was neuroi ...,0.4,0.85784984
 Is that a Witch?,"（運転手）あれはウィッチですか？
 （リネット）ええ","Is that a witch?
- yeah",0.8333333333333334
-My friend…,私の友達,My friend,0.3333333333333333
-My most important friend…,いちばん大切な友達,The most important friends,0.3333333333333333
-This isn't that Neuroi!,これは あのネウロイじゃない,This is not that Neuroy,0.375
-…the enemy!,あっ！,Ah!,0.25
+ yeah",0.8333333333333334,0.9816574
+My friend…,私の友達,My friend,0.3333333333333333,0.8447138
+My most important friend…,いちばん大切な友達,The most important friends,0.3333333333333333,0.8018417
+This isn't that Neuroi!,これは あのネウロイじゃない,This is not that Neuroy,0.375,0.705554
+…the enemy!,あっ！,Ah!,0.25,0.22915089
 Yeah.,"（ペリーヌ）すごい
 （坂本）ああ","amazing
- Oh",0.0
+ Oh",0.0,0.2925577
 "Since Miyafuji tried to make contact with the Neuroi, those guys showed their true intentions.","つまりだ 宮藤がネウロイに
 接触しようとしたから","That is, Miyato is in Neuroy
-Because I tried to contact",0.16666666666666666
+Because I tried to contact",0.16666666666666666,0.47071448
 "Understand, Minna?","（サーニャ･エイラ）ん？
-（エイラ）あっ",?,0.25
-"Yes, yes.",（ミーナ）うん はいはい,Yes Yes,0.3333333333333333
-"Got it, Erica?",だろ？ エーリカ,Is it?Erica,0.5
+（エイラ）あっ",?,0.25,0.14954433
+"Yes, yes.",（ミーナ）うん はいはい,Yes Yes,0.3333333333333333,0.78821546
+"Got it, Erica?",だろ？ エーリカ,Is it?Erica,0.5,0.74217296
 Ugh… This isn't the Trude I know.,"あ～ もう私の知ってる
 トゥルーデじゃない","Oh, I already know
-It is not true de",0.1875
-Why did you two come back?,お前たち 何で戻ってきたんだ？,What did you come back?,0.625
+It is not true de",0.1875,0.3355509
+Why did you two come back?,お前たち 何で戻ってきたんだ？,What did you come back?,0.625,0.73147
 Yoshika-chan is fighting now…,"（サーニャ）
-今 芳佳ちゃんが戦ってる",Yoshika-chan is fighting now,0.6
-We came to help Yoshika-chan.,私たち 芳佳ちゃんを助けに来た,We came to help us,0.5714285714285714
-Sanya! Hey!,なあ サーニャ,Sanya,0.3333333333333333
-The same goes for us.,私たちも同じよ,We are the same,0.25
-"Wha— N-No, I'm not!",素直じゃないなあ,I'm not honest,0.375
-Let's get started.,すぐに始めましょ,Let's start soon,0.2857142857142857
+今 芳佳ちゃんが戦ってる",Yoshika-chan is fighting now,0.6,0.9891879
+We came to help Yoshika-chan.,私たち 芳佳ちゃんを助けに来た,We came to help us,0.5714285714285714,0.5421542
+Sanya! Hey!,なあ サーニャ,Sanya,0.3333333333333333,0.78548217
+The same goes for us.,私たちも同じよ,We are the same,0.25,0.40003031
+"Wha— N-No, I'm not!",素直じゃないなあ,I'm not honest,0.375,0.2477249
+Let's get started.,すぐに始めましょ,Let's start soon,0.2857142857142857,0.7998484
 T-That is the one order I cannot accept!,"そ… その命令だけは
 絶対 聞けません！","So ... only the instruction
-I can not hear it absolutely!",0.29411764705882354
-Lucchini!,ルッキーニ,Lucchini,0.5
-Yay! Ta-da!,イエイ！ じゃんじゃじゃ～ん,Yay!I'm sorry,0.3333333333333333
-Perrine!,（シャーロット）わっ！ んっ…,!...,0.3333333333333333
-Nice catch!,ナイスキャッチ,Nice catch,0.6666666666666666
-Yes!,やった！,Hooray!,0.3333333333333333
+I can not hear it absolutely!",0.29411764705882354,0.15984353
+Lucchini!,ルッキーニ,Lucchini,0.5,0.91237426
+Yay! Ta-da!,イエイ！ じゃんじゃじゃ～ん,Yay!I'm sorry,0.3333333333333333,0.51614326
+Perrine!,（シャーロット）わっ！ んっ…,!...,0.3333333333333333,0.16645403
+Nice catch!,ナイスキャッチ,Nice catch,0.6666666666666666,0.8973919
+Yes!,やった！,Hooray!,0.3333333333333333,0.3773106
 "Wait for me, Yoshika-chan.","（リネット）
-待ってて… 待ってて 芳佳ちゃん",Wait ... Waiting and Yoshika,0.1
-I'm coming!,おっかえり～,I'm sorry,0.4
-Welcome back. You're the last one.,おかえり あなたが最後よ,Welcome you are the last,0.4444444444444444
-Yoshika-chan!,あっ！ うっ… ううっ,Ah!Uh ...,0.2
-The Akagi…,あ… 赤城が…,Oh ... Akagi is ...,0.0
-…is sinking.,（兵士）沈んでいく…,sink ...,0.0
+待ってて… 待ってて 芳佳ちゃん",Wait ... Waiting and Yoshika,0.1,0.73719347
+I'm coming!,おっかえり～,I'm sorry,0.4,0.2137808
+Welcome back. You're the last one.,おかえり あなたが最後よ,Welcome you are the last,0.4444444444444444,0.7338639
+Yoshika-chan!,あっ！ うっ… ううっ,Ah!Uh ...,0.2,0.15228088
+The Akagi…,あ… 赤城が…,Oh ... Akagi is ...,0.0,0.8433648
+…is sinking.,（兵士）沈んでいく…,sink ...,0.0,0.54217064
 Thanks for waiting!,"（シャーロット）お待たせ
 （ルッキーニ）芳佳","Thank you for waiting
- Yoshika",0.2857142857142857
-Everyone!,（芳佳）みんな,Everyone  everyone,0.5
+ Yoshika",0.2857142857142857,0.49910426
+Everyone!,（芳佳）みんな,Everyone  everyone,0.5,0.7789513
 "You held up pretty well, Miyafuji!","（坂本）よく耐えたな 宮藤
 （芳佳）坂本さん","Well who endured well Miyato
- Sakamoto",0.08333333333333333
-That may not be true…,（エイラ）そうでもないかも,may not be,0.6
+ Sakamoto",0.08333333333333333,0.4735133
+That may not be true…,（エイラ）そうでもないかも,may not be,0.6,0.576869
 W-What is that?! What's going on?!,"（兵士）あっ
-（兵士）何だ？",What is it?,0.3
-The Warlock and the Akagi…,ウォーロックが赤城と…,Warlock is Akagi and ...,0.2857142857142857
-"Mio, can you do it?",美緒 できる？,Can you make it me?,0.4444444444444444
-W-What's this?!,な… 何だ？ これは,... What?this is,0.25
+（兵士）何だ？",What is it?,0.3,0.222443
+The Warlock and the Akagi…,ウォーロックが赤城と…,Warlock is Akagi and ...,0.2857142857142857,0.9199306
+"Mio, can you do it?",美緒 できる？,Can you make it me?,0.4444444444444444,0.48024446
+W-What's this?!,な… 何だ？ これは,... What?this is,0.25,0.35059738
 The Warlock and the Akagi have fused.,"（ミーナ）
-ウォーロックと赤城が融合している",Warlock and Akagi are fused,0.5
-We've got to do it.,だが やるしかない,But I can only do it,0.18181818181818182
+ウォーロックと赤城が融合している",Warlock and Akagi are fused,0.5,0.95311797
+We've got to do it.,だが やるしかない,But I can only do it,0.18181818181818185,0.35858285
 That thing is no longer Warlock nor Neuroi.,"あれは もう
 ウォーロックでもネウロイでもない","That
-Warlock is neither Neuroy",0.2727272727272727
+Warlock is neither Neuroy",0.2727272727272727,0.72163016
 "If we Witches don't stop it, then no one will be able to!","我々ウィッチーズが止めなければ
 誰も あれを止める者はいない","If we do not stop Witches
-No one has no one who stops that",0.3333333333333333
+No one has no one who stops that",0.3333333333333333,0.9107948
 "Strike Witches, all units prepare to attack!","ストライクウィッチーズ
 全機 攻撃態勢に移れ","Strike Witches
-Move to all machine attacks",0.3333333333333333
-The targets are the Akagi and the Warlock!,目標 赤城およびウォーロック,Target Akagi and Warlock,0.375
-The core is in the Akagi's engine chamber.,コアは 赤城の機関部だ,The core is Akagi's organization,0.5
-We've got to reach it from the inside…,外からは破壊できそうにないわね,It is not likely to be destroyed from the outside,0.26666666666666666
+Move to all machine attacks",0.3333333333333333,0.69678
+The targets are the Akagi and the Warlock!,目標 赤城およびウォーロック,Target Akagi and Warlock,0.375,0.8668878
+The core is in the Akagi's engine chamber.,コアは 赤城の機関部だ,The core is Akagi's organization,0.5,0.67873913
+We've got to reach it from the inside…,外からは破壊できそうにないわね,It is not likely to be destroyed from the outside,0.26666666666666666,0.3086361
 "I'll go, since I know the interior!","（坂本）内部を知っている私が行く
-（ミーナ）えっ",I know the inside of,0.2727272727272727
-I will go!,私が行きます,I will go,0.75
-"I will go, too!",私も行きます,I will go too,0.6666666666666666
-Thank you.,ありがとう,Thank you,0.6666666666666666
+（ミーナ）えっ",I know the inside of,0.2727272727272727,0.45748433
+I will go!,私が行きます,I will go,0.75,0.89315563
+"I will go, too!",私も行きます,I will go too,0.6666666666666666,0.8733829
+Thank you.,ありがとう,Thank you,0.6666666666666666,0.7717476
 "I-It's not like I'm doing this for you, or anything!","べ… 別に
 あなたのためじゃありませんわ","Be ...
-Not for you",0.1875
+Not for you",0.1875,0.36553708
 "Perrine, it'll be encouraging if you're with them!","ペリーヌ
 お前がついていてくれれば心強い","Perine
-It is heartless if you get it",0.1875
+It is heartless if you get it",0.1875,0.15855058
 "Then, all other members will provide cover for the three of them, and open up a path.","では その他 各員は
 ３人の突入を援護","Well, each other
-Support three inrush",0.13043478260869565
-Commence attack!,（ミーナ）攻撃開始,Attack start,0.25
+Support three inrush",0.13043478260869565,0.35084146
+Commence attack!,（ミーナ）攻撃開始,Attack start,0.25,0.7198471
 "Don't let the others take all the credit, Hartmann.","他の連中に手柄を残すなよ
 ハルトマン","Don't leave a hand in other things
-Hartman",0.1111111111111111
-Hey!,あっ こら,Moth,0.0
-That's my job!,私の仕事を,My job,0.4
+Hartman",0.1111111111111111,0.6388466
+Hey!,あっ こら,Moth,0.0,0.17865677
+That's my job!,私の仕事を,My job,0.4,0.5764768
 To the right.,"（エイラ）右だな
 （サーニャ）うん","right
- Yeah",0.2
+ Yeah",0.2,0.3386688
 Upward.,"（エイラ）上だな
-（サーニャ）うん",Yeah,0.0
-Shall we go?,行っちゃう？,Do you go?,0.3333333333333333
-Go!,（シャーロット）ゴー！,Go!,1.0
-"Go, Lucchini!!!",行けー！ ルッキーニ！,Go!Lucchini!,0.75
+（サーニャ）うん",Yeah,0.0,0.18904838
+Shall we go?,行っちゃう？,Do you go?,0.3333333333333333,0.5021041
+Go!,（シャーロット）ゴー！,Go!,1.0,0.99999976
+"Go, Lucchini!!!",行けー！ ルッキーニ！,Go!Lucchini!,0.75,0.9568573
 Yeah!\NRight!,"（芳佳）うん
 （リネット）はい","Yeah
- Yes",0.25
+ Yes",0.25,0.46942803
 Lynne-chan!,"（芳佳）リーネちゃん
 （リネット）はい！","Renine
- Yes!",0.25
+ Yes!",0.25,0.3433855
 My goodness…,"ちょっと… 武器を失うなんて
 何てこと","A little ... I lost my weapon
-What",0.1111111111111111
-This gun won't be enough…,この銃じゃ無理ですわね,This gun is impossible,0.25
-"Oh, no.",（芳佳･リネット）ああっ うっ…,Oh ...,0.2
+What",0.1111111111111111,0.23308823
+This gun won't be enough…,この銃じゃ無理ですわね,This gun is impossible,0.25,0.61425793
+"Oh, no.",（芳佳･リネット）ああっ うっ…,Oh ...,0.2,0.5730809
 We've come all this way…,"（芳佳）そんな…
 （リネット）ここまで来たのに","That's ...
- I've come here",0.18181818181818182
+ I've come here",0.18181818181818185,0.4895623
 I was planning on saving this for last.,"（ペリーヌ）
-最後に取っておくつもりでしたのに",I took it last,0.18181818181818182
-Tonnerre!,（ペリーヌ）トネール！,Tenel!,0.3333333333333333
-"Miyafuji-san, what do you think you're doing?",宮藤さん 何をする気ですの？,Miyato-san what do you want to do?,0.3333333333333333
+最後に取っておくつもりでしたのに",I took it last,0.18181818181818185,0.405619
+Tonnerre!,（ペリーヌ）トネール！,Tenel!,0.3333333333333333,0.4808692
+"Miyafuji-san, what do you think you're doing?",宮藤さん 何をする気ですの？,Miyato-san what do you want to do?,0.3333333333333333,0.7220013
 "Lynne-chan, Perrine-san, support me!","リーネちゃん ペリーヌさん
 私を支えて","Renine-chan Perine
-Support me",0.25
-It's Yoshika!,あっ 芳佳だ！,It is Aoi!,0.3333333333333333
+Support me",0.25,0.3986921
+It's Yoshika!,あっ 芳佳だ！,It is Aoi!,0.3333333333333333,0.39157072
 "You did it, you did it, Yoshika-chan!","（リネット）
-やった！ やったよ 芳佳ちゃん",Hooray!I did Yoshika-chan,0.375
-That's…,（ペリーヌ）ん？ あれは…,?That is…,0.0
+やった！ やったよ 芳佳ちゃん",Hooray!I did Yoshika-chan,0.375,0.85632545
+That's…,（ペリーヌ）ん？ あれは…,?That is…,0.0,0.7572425
 It's disappearing!,"（リネット）
-すごい… すごいよ 芳佳ちゃん",It's amazing ...,0.3333333333333333
-We won!!,（ルッキーニ）ん～ 勝った～！,-We won!,0.5
-My homeland is free…,ガリアが… 私の故郷が解放された,Gallia ... My hometown was released,0.1111111111111111
+すごい… すごいよ 芳佳ちゃん",It's amazing ...,0.3333333333333333,0.18853873
+We won!!,（ルッキーニ）ん～ 勝った～！,-We won!,0.5,0.83678263
+My homeland is free…,ガリアが… 私の故郷が解放された,Gallia ... My hometown was released,0.1111111111111111,0.25327578
 "Strike Witches, all units return!","ストライクウィッチーズ
 全機 帰還します","Strike Witches
-All machine return",0.5
-September 1944.,（芳佳）1944年９月,September 1944,0.6666666666666666
+All machine return",0.5,0.75712925
+September 1944.,（芳佳）1944年９月,September 1944,0.6666666666666666,0.98033786
 The complete annihilation of the Neuroi in the Gallia region was confirmed.,"ガリア地方のネウロイの
 完全消滅が確認された","Gallia region neuroi
-Complete disappearance was confirmed",0.5
+Complete disappearance was confirmed",0.5,0.74546695
 "With this, the 501st Joint Fighter Wing,\NStrike Witches, was officially disbanded.","第５０１統合戦闘航空団
 ストライクウィッチーズは解散した","CHF 501 Integrated Battle Aircraft
-Strike Witches was disbanded",0.15
+Strike Witches was disbanded",0.15,0.7711156
 "Everything started with this letter, didn't it.","みんな
 この手紙から始まったんだよね","Everyone
-It started from this letter",0.3333333333333333
+It started from this letter",0.3333333333333333,0.87057924
 "Yoshika-chan, Yoshika-chan!","うん ありがとう 芳佳ちゃん
 （芳佳）あれ？","Yoshika-chan
-?",0.25
-"Micchan, what's wrong?",（芳佳）みっちゃん どうしたの？,What happened to Micchan?,0.375
-"Oh. Okay, leave it to me!",うわあ よかったね みっちゃん,It was nice to see Mc-chan,0.15384615384615385
-What's that?!,（芳佳）あれって…,That's ...,0.3333333333333333
+?",0.25,0.8791095
+"Micchan, what's wrong?",（芳佳）みっちゃん どうしたの？,What happened to Micchan?,0.375,0.772758
+"Oh. Okay, leave it to me!",うわあ よかったね みっちゃん,It was nice to see Mc-chan,0.15384615384615385,0.055577364
+What's that?!,（芳佳）あれって…,That's ...,0.3333333333333333,0.43221736
 A Witch?!,"（芳佳）ウィッチ？
 （天姫）うわっ","Witch?
- Wow",0.4
+ Wow",0.4,0.73082185
 "Um, I am Amaki Suwa, with the Army Air Force, 47th Squadron.","あの 私 陸軍飛行隊47中隊
 諏訪(すわ)天姫であります","That private army flying party 47 middle party
-Suwa  Tenhime",0.09523809523809523
-Hello.,こ… こんにちは,Hello ... Hello,0.3333333333333333
-"U-Um, is there a Yoshika Miyafuji here?",え… えっと 宮藤芳佳さんは？,Eh ... Hoshi Miyato Yoshika?,0.15384615384615385
-I have a letter from Dr. Miyafuji.,宮藤博士より お手紙です,It is a letter from Dr. Miyato,0.36363636363636365
-Whaaat?!,えっ？,eh?,0.25
+Suwa  Tenhime",0.09523809523809523,0.4318007
+Hello.,こ… こんにちは,Hello ... Hello,0.3333333333333333,0.8272103
+"U-Um, is there a Yoshika Miyafuji here?",え… えっと 宮藤芳佳さんは？,Eh ... Hoshi Miyato Yoshika?,0.15384615384615385,0.68956566
+I have a letter from Dr. Miyafuji.,宮藤博士より お手紙です,It is a letter from Dr. Miyato,0.3636363636363637,0.7267596
+Whaaat?!,えっ？,eh?,0.25,0.25518784

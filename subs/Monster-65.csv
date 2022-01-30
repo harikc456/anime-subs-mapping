@@ -1,238 +1,238 @@
-en_text,jp_text,google_translated,score
-Is anyone...,ハァ…,Hua ...,0.25
-here?,え？,picture?,0.3333333333333333
-Many people drank that wine...,大勢の人が そのワインを飲んで…,A large number of people drink the wine ...,0.25
-at the Red Rose Mansion.,（ヨハン）赤いバラの屋敷で,with red rose mansion,0.42857142857142855
+en_text,jp_text,google_translated,score,semantic_score
+Is anyone...,ハァ…,Hua ...,0.25,0.24129625
+here?,え？,picture?,0.3333333333333333,0.44821164
+Many people drank that wine...,大勢の人が そのワインを飲んで…,A large number of people drink the wine ...,0.25,0.82754874
+at the Red Rose Mansion.,（ヨハン）赤いバラの屋敷で,with red rose mansion,0.42857142857142855,0.74730664
 "Look, I'm drinking it, too.","{\an8}（ヨハン）大丈夫ですよ
 ほら 僕も飲んでる","is okay
-I will drink too",0.16666666666666666
-Why did you kill The Baby?,赤ん坊を殺した？,Did you kill the baby?,0.8571428571428571
-"If anything happens to me, your sister will...",私に何かあれば 妹は…,"If I have something, my sister is ...",0.26666666666666666
-What am I?,（ヨハン）僕は何？,What is I?,0.6
-It's outside of me.,いいか 全ては私の計画どおりに…,It is good or all of me ...,0.2727272727272727
-What are you saying?,生きているんでしょ？,Are you alive?,0.5
+I will drink too",0.16666666666666666,0.5105977
+Why did you kill The Baby?,赤ん坊を殺した？,Did you kill the baby?,0.8571428571428571,0.8738482
+"If anything happens to me, your sister will...",私に何かあれば 妹は…,"If I have something, my sister is ...",0.26666666666666666,0.56578153
+What am I?,（ヨハン）僕は何？,What is I?,0.6,0.8690998
+It's outside of me.,いいか 全ては私の計画どおりに…,It is good or all of me ...,0.2727272727272727,0.31695354
+What are you saying?,生きているんでしょ？,Are you alive?,0.5,0.18669848
 Franz Bonaparta...,"（ヨハン）
-フランツ･ボナパルタは…",Franz Bonaparta ...,1.0
+フランツ･ボナパルタは…",Franz Bonaparta ...,1.0,1.0000007
 "I'm sorry to bother you at night, Ms. Nina Fortner.","（ボディーガード）
-夜分 失礼します",Excuse me at night,0.13333333333333333
-Ms. Fortner.,フォルトナーさん,Foltner,0.0
+夜分 失礼します",Excuse me at night,0.13333333333333333,0.44216806
+Ms. Fortner.,フォルトナーさん,Foltner,0.0,0.45561582
 Ms. Nina Fortner.,"（ボディーガード）
-ニナ･フォルトナーさん",Nina Foltner,0.2
-Don't move.,（ニナ）動かないで！,Do not move!,0.3333333333333333
-Who sent you?,（ニナ）誰の依頼で来たの？,Who came in request?,0.2857142857142857
+ニナ･フォルトナーさん",Nina Foltner,0.2,0.7755572
+Don't move.,（ニナ）動かないで！,Do not move!,0.3333333333333333,0.8419647
+Who sent you?,（ニナ）誰の依頼で来たの？,Who came in request?,0.2857142857142857,0.4709571
 I see. Just like The Baby said. You're not just a little girl.,"赤ん坊の言ったとおり
 ただの小娘じゃないな","As I said baby
-It's not just a little girl",0.47058823529411764
+It's not just a little girl",0.4705882352941176,0.8060857
 Did The Baby order you to take me?,"赤ん坊の命令で
 私を捕らえに来たの？","In baby instruction
-Did you come to capture me?",0.46153846153846156
-No. The Baby is dead.,いや 赤ん坊は死んだよ,No baby died,0.2857142857142857
-Dead?,死ん…,Dead ...,0.3333333333333333
+Did you come to capture me?",0.4615384615384616,0.6718511
+No. The Baby is dead.,いや 赤ん坊は死んだよ,No baby died,0.2857142857142857,0.7575991
+Dead?,死ん…,Dead ...,0.3333333333333333,0.7259241
 Peter Capek ordered us to get you.,"あんたを連れてくるように
 言ったのは","To bring you
-What told",0.18181818181818182
+What told",0.18181818181818185,0.34658957
 He says he'll be safe if we take you hostage.,"あんたを人質に取れば
 彼の身が安全だそうだ","If you take your life
-His body is safe",0.25
-Capek?!,チャペック…,Chapeck ...,0.0
-Take me.,連れていって,Take,0.3333333333333333
-Police!,（警部）警察だ,police,0.5
+His body is safe",0.25,0.44273046
+Capek?!,チャペック…,Chapeck ...,0.0,0.3985402
+Take me.,連れていって,Take,0.3333333333333333,0.731719
+Police!,（警部）警察だ,police,0.5,0.8590269
 "of the Roedelheim Convention Center shooting, Milan Kolasch.","（警部）レーデルハイム
 コンベンションセンター","Radelheim
-Convention center",0.18181818181818182
+Convention center",0.18181818181818185,0.5922145
 Get going.,"ペトル･チャペックの
 ところに行くわ","Petl Chapec
-I'm going to go",0.1111111111111111
-Is this Kolasch's room?,（警部）コラーシュの部屋か？,Is it a room of Corrush?,0.3
+I'm going to go",0.1111111111111111,0.27185774
+Is this Kolasch's room?,（警部）コラーシュの部屋か？,Is it a room of Corrush?,0.3,0.67322165
 The police will be here soon to search the place.,"（テンマ）もうすぐ
 警察の家宅捜索が入ります","soon
-Police family search is included",0.23076923076923078
+Police family search is included",0.2307692307692308,0.6876543
 I have to leave.,"（テンマ）
-私は行かなきゃならない",I have to go,0.5
+私は行かなきゃならない",I have to go,0.5,0.6153627
 Is Milan really dead?,"（トゥン）ミランは…
 ミランは本当に死んじゃったの？","Milan ...
-Milan really died?",0.42857142857142855
-Milan...,（ムスタファ）ミランは…,Milan ...,1.0
-Milan died for our sake.,ミランは私らのために死んだ,Milan died for us,0.42857142857142855
-Peter Capek killed our relatives and he was killed\Ntrying to take revenge for us. Revenge...,復讐(ふくしゅう)しようとして殺された,I was killed by trying to revenge,0.21052631578947367
-Revenge!,復讐だ！,Revenge!,1.0
-No!,（テンマ）ダメだ！,It is no good!,0.4
+Milan really died?",0.42857142857142855,0.9058128
+Milan...,（ムスタファ）ミランは…,Milan ...,1.0,0.99999946
+Milan died for our sake.,ミランは私らのために死んだ,Milan died for us,0.42857142857142855,0.90278214
+Peter Capek killed our relatives and he was killed\Ntrying to take revenge for us. Revenge...,復讐(ふくしゅう)しようとして殺された,I was killed by trying to revenge,0.21052631578947367,0.53521174
+Revenge!,復讐だ！,Revenge!,1.0,0.9999998
+No!,（テンマ）ダメだ！,It is no good!,0.4,0.33514428
 "But... But, Milan...","だって… だってミランは…
 ミランは…","Because ... is Milan ...
-Milan ...",0.3333333333333333
-Revenge begets revenge.,復讐は復讐を呼ぶ,Revenge calls revenge,0.25
-It happens again and again.,何度でも繰り返される,Repeat again and again,0.3333333333333333
+Milan ...",0.3333333333333333,0.8122212
+Revenge begets revenge.,復讐は復讐を呼ぶ,Revenge calls revenge,0.25,0.9063
+It happens again and again.,何度でも繰り返される,Repeat again and again,0.3333333333333333,0.5556835
 Milan didn't want you to think like that.,"ミランは君たちに そんな考えを
 持ってほしくなかったんだ","Milan has such an idea for you
-I did not want to bring it",0.2631578947368421
-Someone has to stop it.,誰かが それを止めなきゃいけない,Someone must stop it,0.42857142857142855
-What do you think Milan's true wish was?,ミランの本当の望みは何だった？,What was the true hope of Milan?,0.38461538461538464
+I did not want to bring it",0.2631578947368421,0.68284774
+Someone has to stop it.,誰かが それを止めなきゃいけない,Someone must stop it,0.42857142857142855,0.8460241
+What do you think Milan's true wish was?,ミランの本当の望みは何だった？,What was the true hope of Milan?,0.38461538461538464,0.853583
 He wanted us to see everyone's home country together.,"（シュメル）みんなで
 みんなの故郷を見て歩くこと","everyone
-Walking with everyone's hometown",0.14285714285714285
-Study hard.,たくさん勉強するんだ,I study a lot,0.16666666666666666
-Some day that wish will be granted.,いつか その夢は かなう,Someday that dream,0.1
+Walking with everyone's hometown",0.14285714285714285,0.39305937
+Study hard.,たくさん勉強するんだ,I study a lot,0.16666666666666666,0.74409246
+Some day that wish will be granted.,いつか その夢は かなう,Someday that dream,0.1,0.4983758
 "Mrs. Suleiman, thank you for all the great food.","スレイマンさん
 おいしい料理をありがとう","Mr. Sleyman
-Thank you for the delicious food",0.35714285714285715
-"Dr.  Tenma, you aren't going to...",あなた まさか…,You are not good ...,0.2727272727272727
-There's a lot of material on Peter Capek.,山ほど出てきますね,A lot of mountains come out,0.23076923076923078
+Thank you for the delicious food",0.35714285714285715,0.6259901
+"Dr.  Tenma, you aren't going to...",あなた まさか…,You are not good ...,0.2727272727272727,0.3195269
+There's a lot of material on Peter Capek.,山ほど出てきますね,A lot of mountains come out,0.2307692307692308,0.10019052
 It seems like Milan Kolasch was after this Capek character.,"ミラン･コラーシュが狙ったのは
 このチャペックのようだな","Milan · Colsh was aimed at
-It seems like this chapec",0.375
+It seems like this chapec",0.375,0.3701282
 Let's find this man.,"ペトル･チャペックという
 男に関する資料が","It is called Petl Chapec
-Material about man",0.07692307692307693
-Detective!,（刑事）警部！,police department!,0.25
+Material about man",0.07692307692307693,0.20298448
+Detective!,（刑事）警部！,police department!,0.25,0.60020226
 "The leader of the extremist organization, The Baby,\Nhas been found murdered at the Kaiser Hotel.","カイザーホテルで
 極右組織の幹部","Kaiser Hotel
-Extreme tissue executives",0.1111111111111111
-Someone has to...,（テンマ）誰かが…,Someone ...,0.5
-I have to... stop it.,止めなきゃならない,I have to stop,0.5714285714285714
+Extreme tissue executives",0.1111111111111111,0.4295169
+Someone has to...,（テンマ）誰かが…,Someone ...,0.5,0.5689644
+I have to... stop it.,止めなきゃならない,I have to stop,0.5714285714285714,0.7285329
 That young man has gone to that hotel\Nwith Peter Capek many times.,"何度も このホテルを
 出入りしていた青年","Many times this hotel
-Adolescents who were in and out",0.1
-Is that the Devil's Apprentice?,あれが悪魔の弟子…,That's the devil's disciple ...,0.4444444444444444
-Follow that car.,あの車の後を,After that car,0.4
-Johan?,（クリストフ）ヨハン,Johan,0.5
-"Are you here, Johan?",（エヴァ）どこにいるの？,Where are you?,0.42857142857142855
+Adolescents who were in and out",0.1,0.47562116
+Is that the Devil's Apprentice?,あれが悪魔の弟子…,That's the devil's disciple ...,0.4444444444444444,0.7143122
+Follow that car.,あの車の後を,After that car,0.4,0.67936546
+Johan?,（クリストフ）ヨハン,Johan,0.5,0.9379147
+"Are you here, Johan?",（エヴァ）どこにいるの？,Where are you?,0.42857142857142855,0.28230515
 "Where have you been, Johan?","（クリストフ）
-いるのかい？　ヨハン",Do you have?Johan,0.5
-You must be... Eva.,あなたは確か… エヴァ,You are sure ... Eva,0.375
+いるのかい？　ヨハン",Do you have?Johan,0.5,0.6761599
+You must be... Eva.,あなたは確か… エヴァ,You are sure ... Eva,0.375,0.7819175
 Where is Johan right now?,"（エヴァ）
-ヨハンは今 どこにいるの？",Where is Johann now?,0.5714285714285714
-Mr. Capek.,チャペックさん？,Mr. Chapeck?,0.2
-We've brought Nina.,ニナを連れてきました,I have taken Nina,0.125
-Peter...,ペトル…,Petl ...,0.3333333333333333
+ヨハンは今 どこにいるの？",Where is Johann now?,0.5714285714285714,0.6317823
+Mr. Capek.,チャペックさん？,Mr. Chapeck?,0.2,0.5137105
+We've brought Nina.,ニナを連れてきました,I have taken Nina,0.125,0.6317119
+Peter...,ペトル…,Petl ...,0.3333333333333333,0.41416797
 Come on. Don't be scared.,"（チャペック）
-さあ おいで 怖くないから",Because I am not scared,0.09090909090909091
+さあ おいで 怖くないから",Because I am not scared,0.09090909090909093,0.5165487
 Hey!,"（ボディーガード）お… おい！
 （ボディーガード）待て 止まれ！","... Good!
- waiting and stopped!",0.14285714285714285
+ waiting and stopped!",0.14285714285714285,0.31547943
 Which one is it?,"（チャペック）
-どっちだ？　ヨハンか",Which one?Johann,0.5
-Is it Johan?,今となっては どちらでも同じか,Is it the same if it is now?,0.375
-Or the sister?,妹か,Sister,0.25
-Johan let me live.,ヨハンは私を生かしておいた,Johan was making me use me,0.25
-The one who's going to kill me...,私を殺すのは…,To kill me ...,0.4444444444444444
-is the sister.,妹だから,Because it is a sister,0.2857142857142857
-But whose?,誰の？,Whose?,0.6666666666666666
-Mine?,私の？,my?,0.3333333333333333
-Or Johan's?,ヨハンの？,Is Johan?,0.4
-Kill me already.,早く私を… 殺せ,Early ... kill me ...,0.3333333333333333
-Where did he go?,どこへ行ったの？,Where did you go?,0.6666666666666666
-I'm scared.,（男の子）怖いよ,I'm scared,0.75
+どっちだ？　ヨハンか",Which one?Johann,0.5,0.28515396
+Is it Johan?,今となっては どちらでも同じか,Is it the same if it is now?,0.375,0.16799012
+Or the sister?,妹か,Sister,0.25,0.61538637
+Johan let me live.,ヨハンは私を生かしておいた,Johan was making me use me,0.25,0.7436329
+The one who's going to kill me...,私を殺すのは…,To kill me ...,0.4444444444444444,0.4110999
+is the sister.,妹だから,Because it is a sister,0.2857142857142857,0.66436785
+But whose?,誰の？,Whose?,0.6666666666666666,0.8702629
+Mine?,私の？,my?,0.3333333333333333,0.6876002
+Or Johan's?,ヨハンの？,Is Johan?,0.4,0.78349656
+Kill me already.,早く私を… 殺せ,Early ... kill me ...,0.3333333333333333,0.55907124
+Where did he go?,どこへ行ったの？,Where did you go?,0.6666666666666666,0.691064
+I'm scared.,（男の子）怖いよ,I'm scared,0.75,0.91674554
 I want to get out of here.,"（男の子）
-こんなとこ 早く出たいよ",I want to go out like this,0.36363636363636365
-If I hadn't pointed you out at that party...,あんなことをしなければ…,If you don't do something ...,0.3076923076923077
-you and that demon...,あなたと あの悪魔を…,You and that devil ...,0.6666666666666666
-Martin wouldn't...,マルティンは…,Martin ...,0.5
-I understand.,死なずに済んだのよ,I did not die,0.16666666666666666
-Just hold on a second.,分かった ちょっと待って,Wait a minute,0.125
-I don't know. I want to know myself.,知らないよ 僕も知りたいぐらいだ,I do not know I also want to know,0.5
-Calm down.,冷静になって,Calm,0.3333333333333333
+こんなとこ 早く出たいよ",I want to go out like this,0.3636363636363637,0.4458051
+If I hadn't pointed you out at that party...,あんなことをしなければ…,If you don't do something ...,0.3076923076923077,0.37776193
+you and that demon...,あなたと あの悪魔を…,You and that devil ...,0.6666666666666666,0.8570787
+Martin wouldn't...,マルティンは…,Martin ...,0.5,0.7709212
+I understand.,死なずに済んだのよ,I did not die,0.16666666666666666,0.10769787
+Just hold on a second.,分かった ちょっと待って,Wait a minute,0.125,0.50175655
+I don't know. I want to know myself.,知らないよ 僕も知りたいぐらいだ,I do not know I also want to know,0.5,0.61308324
+Calm down.,冷静になって,Calm,0.3333333333333333,0.686924
 I've been watching this apartment for two weeks.,"２週間
 このアパルトマンを見張ったわ","Two weeks
-I saw this apartment",0.45454545454545453
-He's never been here.,彼は現れなかった,He did not appear,0.1111111111111111
-I don't know.,だから 知らないって言ってるだろ,So I say I do not know,0.375
-For real.,ホントに… あっ,Really ...,0.0
-I'm serious.,私は本気よ,I'm serious,0.75
-It hurts! It hurts!,痛い… 痛い！,It hurts!,1.0
-Christof Sievernich.,クリストフ･ジーヴァーニッヒ,Christoph Givanich,0.0
+I saw this apartment",0.4545454545454545,0.80431086
+He's never been here.,彼は現れなかった,He did not appear,0.1111111111111111,0.44060043
+I don't know.,だから 知らないって言ってるだろ,So I say I do not know,0.375,0.5444949
+For real.,ホントに… あっ,Really ...,0.0,0.41300952
+I'm serious.,私は本気よ,I'm serious,0.75,0.9075274
+It hurts! It hurts!,痛い… 痛い！,It hurts!,1.0,0.9045869
+Christof Sievernich.,クリストフ･ジーヴァーニッヒ,Christoph Givanich,0.0,0.2586011
 "The Sievernich group was one of the largest\Nfinancial groups in Frankfurt, no,","まさか あんたが
 あの財閥の御曹司とはね","There is no
-That of the Seko Seko",0.1875
+That of the Seko Seko",0.1875,0.14432889
 all of Germany.,"いえ ドイツ屈指の
 ジーヴァーニッヒ財閥のことならね","No Germany
-If you are about Gevanich",0.1
+If you are about Gevanich",0.1,0.54047084
 Let me go to the hospital.,"血が こんなに出てるよ
 手当てさせてよ","Blood is like this
-Let me be able to",0.23076923076923078
-What's going on?,何が違うの？,What's the difference?,0.42857142857142855
+Let me be able to",0.2307692307692308,0.49826914
+What's going on?,何が違うの？,What's the difference?,0.42857142857142855,0.31254387
 He thought that he introduced me to Johan.,"あんたと あの悪魔を
 私が引き合わせことで","Ann and that devil
-I am with me",0.14285714285714285
-But Johan and I have known each\Nother for quite some time.,ずっと昔から知り合いなんだ,I have been acquainted for a long time ago,0.23529411764705882
-What?,（エヴァ）何ですって？,What is Eva?,0.5
+I am with me",0.14285714285714285,0.15659526
+But Johan and I have known each\Nother for quite some time.,ずっと昔から知り合いなんだ,I have been acquainted for a long time ago,0.2352941176470588,0.39688352
+What?,（エヴァ）何ですって？,What is Eva?,0.5,0.11260959
 We were friends in East Germany over 10 years ago.,"僕らが10年以上も前に
 東ベルリンで友達だったなんて","We have over 10 years ago
-I was a friend in East Berlin",0.4117647058823529
-Over 10 years ago... in East Germany?,10年以上前… 東ベルリンで？,More than 10 years ago ... in East Berlin?,0.5833333333333334
+I was a friend in East Berlin",0.4117647058823529,0.8083069
+Over 10 years ago... in East Germany?,10年以上前… 東ベルリンで？,More than 10 years ago ... in East Berlin?,0.5833333333333334,0.82497925
 I'm Sievernich's foster son.,"僕は
 ジーヴァーニッヒの養子なんだ","I
-I'm an adoption of Gevanich",0.18181818181818182
+I'm an adoption of Gevanich",0.18181818181818185,0.45937586
 Johan and I met each other at\NEast Berlin's 511 Kinderheim.,"僕とヨハンが知り合ったのは
 東ベルリンの","I and Johann I met
-East Berlin",0.2857142857142857
-511...,511…,511 ...,1.0
-We met each other there.,僕らは あそこで知り合った,We got acquainted there,0.25
-We survived.,生き残ったんだ,I survived,0.25
-He and I were the only survivors.,彼と僕だけが生き残ったんだ,He and I survived only,0.4444444444444444
-I'm hungry.,（男の子）おなかもすいたよ,I'm sorry,0.4
-I need to go to the bathroom.,おしっこも したいよ,I want to pee,0.2222222222222222
+East Berlin",0.2857142857142857,0.75352234
+511...,511…,511 ...,1.0,0.9999999
+We met each other there.,僕らは あそこで知り合った,We got acquainted there,0.25,0.535991
+We survived.,生き残ったんだ,I survived,0.25,0.78302264
+He and I were the only survivors.,彼と僕だけが生き残ったんだ,He and I survived only,0.4444444444444444,0.76845956
+I'm hungry.,（男の子）おなかもすいたよ,I'm sorry,0.4,0.32301188
+I need to go to the bathroom.,おしっこも したいよ,I want to pee,0.2222222222222222,0.68215334
 Is the massacre over?,"（男の子）
-殺し合いは終わったのかな？",Was the killing end?,0.25
+殺し合いは終わったのかな？",Was the killing end?,0.25,0.6075184
 Is everyone dead?,"（男の子）
-みんな 死んじゃったのかな",I wonder why everyone died,0.125
+みんな 死んじゃったのかな",I wonder why everyone died,0.125,0.5921105
 Let's take a look.,"（クリストフ）外へ出てみようよ
 （男の子たち）えっ？","Let's go out of Christophe
- Eh?",0.16666666666666666
-"It's gotten quiet outside, hasn't it?",もう外は静かになったじゃないか,I wonder if it's quiet outside,0.3333333333333333
-It's okay. Take a look.,平気だよ 見てこいよ,It's okay,0.42857142857142855
-I'll take a look.,ぼ… 僕 見てくるよ,... I will see me,0.1
+ Eh?",0.16666666666666666,0.12820555
+"It's gotten quiet outside, hasn't it?",もう外は静かになったじゃないか,I wonder if it's quiet outside,0.3333333333333333,0.8134702
+It's okay. Take a look.,平気だよ 見てこいよ,It's okay,0.42857142857142855,0.52722573
+I'll take a look.,ぼ… 僕 見てくるよ,... I will see me,0.1,0.20940802
 "I don't know why, but all the people at\N511 Kinderheim went insane that day.","（クリストフ）
-なぜだか分からないが その日","I do not know why, but he",0.3157894736842105
-He's not back yet.,（男の子）戻ってこないね,I will not come back,0.2222222222222222
+なぜだか分からないが その日","I do not know why, but he",0.3157894736842105,0.15323982
+He's not back yet.,（男の子）戻ってこないね,I will not come back,0.2222222222222222,0.49827775
 Huh?,"（クリストフ）あいつ 逃げたんだ
 （男の子）えっ？","I flew away
-?",0.2
+?",0.2,0.19259949
 He left us and ran away.,"（クリストフ）
-僕たちを置いて逃げたんだよ",I went away and ran away,0.3333333333333333
+僕たちを置いて逃げたんだよ",I went away and ran away,0.3333333333333333,0.7704491
 He decided to save himself.,"（クリストフ）
-１人だけ助かろうとして",To help only one person,0.1
-I don't think so.,そうかな？,I do not think so?,0.5
-"If you think I'm lying, go take a look.",ウソだと思うなら 見てこいよ,"If you think it's a lie, look at it",0.375
-He's probably enjoying a nice hot meal right now.,（男の子）そんな…,That's right ...,0.15384615384615385
-I'll just take a glance.,ちょ… ちょっとだけ見てくるよ,Cho ... I'll see a little bit,0.25
+１人だけ助かろうとして",To help only one person,0.1,0.24734136
+I don't think so.,そうかな？,I do not think so?,0.5,0.63966566
+"If you think I'm lying, go take a look.",ウソだと思うなら 見てこいよ,"If you think it's a lie, look at it",0.375,0.6742747
+He's probably enjoying a nice hot meal right now.,（男の子）そんな…,That's right ...,0.15384615384615385,0.19683474
+I'll just take a glance.,ちょ… ちょっとだけ見てくるよ,Cho ... I'll see a little bit,0.25,0.27137196
 "You won't betray me, will you?","（クリストフ）お前は
 裏切るようなまねはしないよな？","You are
-Don't you go to betray?",0.3333333333333333
-Of course not.,も… もちろんだよ,... of course,0.4
+Don't you go to betray?",0.3333333333333333,0.81802714
+Of course not.,も… もちろんだよ,... of course,0.4,0.58790433
 Am I going to die here?,"（子供のクリストフ）
-このまま 死ぬのかな…",I wonder if this will die ...,0.16666666666666666
-"And then he was there,",彼が立っていた,He was standing,0.2857142857142857
-It's just you and me.,（ヨハン）君と僕だけだ,and I only me,0.2222222222222222
-I have a plan.,（ヨハン）僕には計画があるんだ,I have a plan,0.8
-Was that Johan?,（エヴァ）それがヨハン？,Is it Johan?,0.3333333333333333
+このまま 死ぬのかな…",I wonder if this will die ...,0.16666666666666666,0.49760428
+"And then he was there,",彼が立っていた,He was standing,0.2857142857142857,0.51679313
+It's just you and me.,（ヨハン）君と僕だけだ,and I only me,0.2222222222222222,0.65963715
+I have a plan.,（ヨハン）僕には計画があるんだ,I have a plan,0.8,0.95743024
+Was that Johan?,（エヴァ）それがヨハン？,Is it Johan?,0.3333333333333333,0.82343084
 Capek saying that he has a plan is a joke.,"チャペックが自分の計画だなんて
 言ってるのは お笑いさ","Chapeck is your plan
-It is a comedy",0.21428571428571427
+It is a comedy",0.21428571428571427,0.4020939
 We already talked about it as kids.,"僕ら 子供の頃に
 さんざん話したんだ","When we were kids
-I talked about Sanzan",0.3333333333333333
-What's his plan?,何を？　彼の計画って何？,what?What is his plan?,0.6666666666666666
-Do you want to know?,聞きたいかい？,Do you want to hear?,0.7142857142857143
+I talked about Sanzan",0.3333333333333333,0.37707284
+What's his plan?,何を？　彼の計画って何？,what?What is his plan?,0.6666666666666666,0.91180295
+Do you want to know?,聞きたいかい？,Do you want to hear?,0.7142857142857143,0.6593563
 You shouldn't have shot me in the ear!,"（クリストフ）
-んっ！　んっ んっ んっ！",!Hmmm!,0.09090909090909091
-A politicians face is everything to him.,政治家になるには 顔は命なんだよ,The face is life to become a politician,0.3333333333333333
-This is not good.,ダメだよ～,It is no good ~,0.25
-I am going to run the world.,僕は世界を動かすんだ,I moved the world,0.3333333333333333
-Isn't that right?!,ええ？　そうだろ？,Yes?That's right?,0.375
-What am I going to do about this ear?,どうするんだよ？　この耳,What do you do?This ear,0.45454545454545453
-Kenzo!,ケンゾー！,Kenzo!,1.0
-Johan told me...,ヨハンは私に言った,Johan said to me,0.3333333333333333
-"that if you showed up, I should tell you where he is.",妹が来たら居場所を伝えろと,"If my sister comes, let's tell the place",0.15
-Why didn't you kill me?,なぜ私を殺さない？,Why don't you kill me?,0.75
-Have you regained all of your memories?,記憶は 全て取り戻したのか？,Did all remembers regained?,0.3
-Yeah.,ええ,Yes,0.0
-"with hatred, anger, and grief.",憎悪と怒りと悲しみが,Horror and anger and sadness,0.2222222222222222
+んっ！　んっ んっ んっ！",!Hmmm!,0.09090909090909093,0.24207269
+A politicians face is everything to him.,政治家になるには 顔は命なんだよ,The face is life to become a politician,0.3333333333333333,0.7440798
+This is not good.,ダメだよ～,It is no good ~,0.25,0.52978367
+I am going to run the world.,僕は世界を動かすんだ,I moved the world,0.3333333333333333,0.44776922
+Isn't that right?!,ええ？　そうだろ？,Yes?That's right?,0.375,0.56848764
+What am I going to do about this ear?,どうするんだよ？　この耳,What do you do?This ear,0.4545454545454545,0.74364316
+Kenzo!,ケンゾー！,Kenzo!,1.0,0.9999998
+Johan told me...,ヨハンは私に言った,Johan said to me,0.3333333333333333,0.91501915
+"that if you showed up, I should tell you where he is.",妹が来たら居場所を伝えろと,"If my sister comes, let's tell the place",0.15,0.2743472
+Why didn't you kill me?,なぜ私を殺さない？,Why don't you kill me?,0.75,0.8543954
+Have you regained all of your memories?,記憶は 全て取り戻したのか？,Did all remembers regained?,0.3,0.7061313
+Yeah.,ええ,Yes,0.0,0.5302519
+"with hatred, anger, and grief.",憎悪と怒りと悲しみが,Horror and anger and sadness,0.2222222222222222,0.58627886
 "what we are, don't you?","私たちは何？
 知ってるんでしょ？","What is we?
-Do you know?",0.5
+Do you know?",0.5,0.61409456
 I've heard the story of how...,"（チャペック）聞いたことはある
 （ニナ）えっ？","I have heard
-?",0.2
+?",0.2,0.48107195
 "you, the twins, were born.","お前たち双子が
 どうやって生まれたか","You are twins
-How did you born",0.3
+How did you born",0.3,0.8403299

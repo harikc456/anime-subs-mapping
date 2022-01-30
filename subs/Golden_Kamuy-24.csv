@@ -1,321 +1,321 @@
-en_text,jp_text,google_translated,score
-Blue eyes...,青い目！,blue eyes!,0.5
-Do you know what this is?,これが何だか分かるか？,Do you know what this is?,1.0
-That's...,それは…,that is…,0.25
-...the Makiri I made for Asirpa.,アシㇼパに作ってやったマキリだ,It is Makiri made to make,0.16666666666666666
-Why do you have it?,なぜ お前が持っている？,Why do you have?,0.8333333333333334
-Nopperabo really is Asirpa's father?,アシㇼパさんの父親だったのか,Was Ashi Pa's father?,0.3
-Is she... here?,来ている… のか？　ここに？,Are you coming ...? Here?,0.375
-Come with me!,うっ！,Uh!,0.2
+en_text,jp_text,google_translated,score,semantic_score
+Blue eyes...,青い目！,blue eyes!,0.5,0.8319461
+Do you know what this is?,これが何だか分かるか？,Do you know what this is?,1.0,1.0
+That's...,それは…,that is…,0.25,0.56046486
+...the Makiri I made for Asirpa.,アシㇼパに作ってやったマキリだ,It is Makiri made to make,0.16666666666666666,0.6148565
+Why do you have it?,なぜ お前が持っている？,Why do you have?,0.8333333333333334,0.86788386
+Nopperabo really is Asirpa's father?,アシㇼパさんの父親だったのか,Was Ashi Pa's father?,0.3,0.53262204
+Is she... here?,来ている… のか？　ここに？,Are you coming ...? Here?,0.375,0.4735043
+Come with me!,うっ！,Uh!,0.2,0.35303074
 "If you want to know where the \Ngold is, bring Asirpa to me!","金塊の在りかを知りたければ
 アシㇼパを連れてこい","If you want to know if the gold mass is
-Take the Ashi Pa",0.3684210526315789
-I'll only tell my daughter!,娘にしか話さん,Talk to my daughter,0.2222222222222222
-Enomoto Takeaki is now a viscount!,榎本武揚は今や子爵だ,Yui Enomoto is now,0.375
+Take the Ashi Pa",0.3684210526315789,0.36311907
+I'll only tell my daughter!,娘にしか話さん,Talk to my daughter,0.2222222222222222,0.51568216
+Enomoto Takeaki is now a viscount!,榎本武揚は今や子爵だ,Yui Enomoto is now,0.375,0.5371883
 "And Hijikata Toshizou is \Nan aged, fugitive prisoner!","かたや 土方歳三は
 年老いた脱獄囚","Kata and Hijikata
-New Year's Eve",0.13333333333333333
+New Year's Eve",0.13333333333333333,0.45478505
 If you'd only agreed to join the \Nnew Meiji government's army...,"ともに明治新政府軍へ
 下っていれば…","Together to the Meiji New Government Force
-If you go down ...",0.3684210526315789
+If you go down ...",0.3684210526315789,0.7752813
 You wouldn't have spent more \Nthan thirty years in chains!,"30年以上も鎖につながれずに
 済んだものを！","With over 30 years
-What you finish!",0.17647058823529413
-Obey me! Serve me!,てやあっ！,Aya!,0.2
-"Polish my boots every day, and do \Nwhatever it takes to keep me happy!",私に服従し 私の部下になれ！,I will be subordinate to me and become my part!,0.22727272727272727
-"After all these years, you're still \Ntelling me to join the Meiji government?",私に明治新政府へ転べと言うのか？,Do you call me to the Meiji New Government?,0.3684210526315789
-You're scared.,貴様らは怖いのだ,You are scary,0.16666666666666666
-The soldiers of the old shogunate who became \Nmartyrs scare you more than anything else.,殉教者となった旧幕府軍人が,The old-kundate army who became a martyr,0.15789473684210525
-"In order to justify your brother, \Nwho died in the Battle of Hakodate,",箱館戦争で死んだ兄や,My brother who died in the box war,0.23529411764705882
-"as well as your own life,",自分の配下に置くこと,Put in your own,0.25
+What you finish!",0.17647058823529413,0.45859906
+Obey me! Serve me!,てやあっ！,Aya!,0.2,0.22634113
+"Polish my boots every day, and do \Nwhatever it takes to keep me happy!",私に服従し 私の部下になれ！,I will be subordinate to me and become my part!,0.2272727272727273,0.32274604
+"After all these years, you're still \Ntelling me to join the Meiji government?",私に明治新政府へ転べと言うのか？,Do you call me to the Meiji New Government?,0.3684210526315789,0.7991384
+You're scared.,貴様らは怖いのだ,You are scary,0.16666666666666666,0.65593004
+The soldiers of the old shogunate who became \Nmartyrs scare you more than anything else.,殉教者となった旧幕府軍人が,The old-kundate army who became a martyr,0.15789473684210525,0.37569162
+"In order to justify your brother, \Nwho died in the Battle of Hakodate,",箱館戦争で死んだ兄や,My brother who died in the box war,0.2352941176470588,0.4721975
+"as well as your own life,",自分の配下に置くこと,Put in your own,0.25,0.30239832
 "And when that moment comes, \Nthe revenge of Inudou Shirosuke will be complete!","犬童四郎助のゆがんだ復讐が
 成就する瞬間","Doggy revenge of Dogo Shiroke
-Moment to fulfill",0.15
+Moment to fulfill",0.15,0.419339
 "Until this moment,","今日 この瞬間まで
 私のような田舎育ちの農民が","Until this moment today
-Countryside farmers like me",0.3333333333333333
+Countryside farmers like me",0.3333333333333333,0.38153747
 even if I have to cut off your limbs!,"ぐっ… 手足を
 切り落としてでも服従させる","Gum ... my limbs
-Corrugated even if it is cut off",0.3125
+Corrugated even if it is cut off",0.3125,0.51618993
 I'm still young enough to take you alive.,"生け捕りにできるほど
 まだ老いちゃいない","I can catch it
-It is still old",0.13333333333333333
-"Do it, last of the samurai.",やれ… 最後の侍,Do it ... last 侍,0.3
+It is still old",0.13333333333333333,0.27059376
+"Do it, last of the samurai.",やれ… 最後の侍,Do it ... last 侍,0.3,0.6789407
 "but first, there's something I've wanted \Nto say to you for a long time.","ずーっと あんたには
 言いたいことがあった","Too much
-I had something to say",0.19047619047619047
+I had something to say",0.19047619047619047,0.36738276
 I don't want Asirpa to see you!,"あんたをアシㇼパさんに
 会わせたくねえよ！","Ashi Pa
-I want to meet you!",0.4166666666666667
+I want to meet you!",0.4166666666666667,0.419179
 She was terrified that the man who \Nkilled the Ainu and stole their gold,"アイヌを殺して
 金塊を奪ったのっぺら坊が","Kill Ainu
-The apple of the gold lot",0.17647058823529413
-might really be her father.,本当に父親だったらとおびえていた,I was scared if I was really father,0.2
+The apple of the gold lot",0.17647058823529413,0.5401563
+might really be her father.,本当に父親だったらとおびえていた,I was scared if I was really father,0.2,0.4716046
 Why did you get Asirpa involved?,"どうしてアシㇼパさんを
 巻き込んだ!?","Why is Ashi Pa
-I caught up!?",0.14285714285714285
-To entrust her with the future.,未来を託すためだ,To entrust the future,0.5714285714285714
+I caught up!?",0.14285714285714285,0.31356153
+To entrust her with the future.,未来を託すためだ,To entrust the future,0.5714285714285714,0.62129265
 "I made it so Asirpa could \Nhide in the mountains,","アシㇼパは山で潜伏し
 ゲリラとなって戦えるよう仕込んだ","Asapopa is hiding in the mountains
-It was prepared to fight with guerrilla",0.2
-My daughter will be a leader of the Ainu.,私の娘はアイヌを導く存在となる,My daughter will lead to Ainu,0.3333333333333333
-Lead the Ainu?,“アイヌを導く”だって？,"""Leading Ainu""?",0.2857142857142857
+It was prepared to fight with guerrilla",0.2,0.28394744
+My daughter will be a leader of the Ainu.,私の娘はアイヌを導く存在となる,My daughter will lead to Ainu,0.3333333333333333,0.87844497
+Lead the Ainu?,“アイヌを導く”だって？,"""Leading Ainu""?",0.2857142857142857,0.870873
 You want to use her for an \NAinu independence movement?,"アイヌの独立運動に
 アシㇼパさんを利用する気か？","In Ainu's independence movement
-Do you want to use Asa Pa?",0.4117647058823529
+Do you want to use Asa Pa?",0.4117647058823529,0.60442847
 You want her to be the Ainu Jeanne d'Arc?,"あの子をアイヌのジャンヌ･
 ダルクにでもしようってのか!?","Aiko Ainu Jeanne
-Do you want to do it in Dulk?",0.4
+Do you want to do it in Dulk?",0.4,0.7141311
 What's wrong?,"どうした～？
 こっちは遊び足りんぞ","What happened?
-This is a playful feet",0.2
+This is a playful feet",0.2,0.20150617
 You want to make her a murderer like us?,"あの子を俺たちみたいな
 人殺しにしようってのか!?","I like that child
-Do you want to kill it?",0.3125
-"Sure, maybe what you're doing is right!",あんたらの大義は ご立派だよ！,Anna's Daisen is fine!,0.14285714285714285
+Do you want to kill it?",0.3125,0.51338816
+"Sure, maybe what you're doing is right!",あんたらの大義は ご立派だよ！,Anna's Daisen is fine!,0.14285714285714285,0.11030166
 Maybe somebody has to fight!,"誰かが戦わなきゃ
 ならないかもしれん","Someone has to fight
-It may not be",0.2727272727272727
+It may not be",0.2727272727272727,0.6745269
 "I want Asirpa to hunt\Ndeer in the mountains,","山で鹿を取って
 脳みそを食べて","Take deer in the mountains
-Eat brain",0.23076923076923078
+Eat brain",0.2307692307692308,0.39700407
 "and say, ""Hinna, hinna!""","チタタプして“ヒンナ ヒンナ”
 していてほしいんだよ 俺は！","Chita Tap ""Hinna Hinna""
-I want you to do!",0.2857142857142857
+I want you to do!",0.2857142857142857,0.6814676
 "That girl seems to have had \Nquite an effect on you, Sisam.","シサㇺよ あの子に
 ずいぶんと仕込まれたようだな","Sirao to that child
-It seems that it was charged a lot",0.14285714285714285
-That kimono...,あの着物は…,That kimono is ...,0.75
-Red prisoner's clothes...,赤い囚人服 隣は…,Next to the red prisoner clothes ...,0.5
-Well? Can you see her?,どうだ 見えるか？,How can I see?,0.375
+It seems that it was charged a lot",0.14285714285714285,0.18910362
+That kimono...,あの着物は…,That kimono is ...,0.75,0.9179489
+Red prisoner's clothes...,赤い囚人服 隣は…,Next to the red prisoner clothes ...,0.5,0.8783983
+Well? Can you see her?,どうだ 見えるか？,How can I see?,0.375,0.48845458
 Nopperabo must be close!,"のっぺら坊が近くにいるはずだ
 捜せ！","The palach should be nearby
-Look!",0.2
-Over there!,あそこです！,It is over there!,0.6
-Asirpa...,ふっ ふっ ふっ ふっ…,Fufu ...,0.3333333333333333
+Look!",0.2,0.39359313
+Over there!,あそこです！,It is over there!,0.6,0.752999
+Asirpa...,ふっ ふっ ふっ ふっ…,Fufu ...,0.3333333333333333,0.28975436
 You defeat it.,"アシㇼパ
 お前が倒しなさい","Supper
-You beat",0.16666666666666666
-Aca?,アチャ？　あ…,Action? a…,0.25
-The poison got it.,恐れず 動きも正確だった,The movement was also accurate,0.1111111111111111
-"Congratulations, Asirpa.",おめでとう アシㇼパ,Congratulations Asapopa,0.2
+You beat",0.16666666666666666,0.41680226
+Aca?,アチャ？　あ…,Action? a…,0.25,0.31277788
+The poison got it.,恐れず 動きも正確だった,The movement was also accurate,0.1111111111111111,0.16229682
+"Congratulations, Asirpa.",おめでとう アシㇼパ,Congratulations Asapopa,0.2,0.5429742
 "You're still so young, but you \Nfought and defeated a bear!","ハァッ まだこんなに
 小さいのに","Huhu still so
-Small",0.13333333333333333
-I'm sorry.,ハハハ… すまない,Hahaha ... I'm sorry,0.5
-My daughter.,アシㇼパ 私の娘,Ashi Pa My Daughter,0.4
-You are the future of the Ainu.,お前はアイヌの未来,You are the future of Ainu,0.8571428571428571
+Small",0.13333333333333333,0.15886466
+I'm sorry.,ハハハ… すまない,Hahaha ... I'm sorry,0.5,0.659189
+My daughter.,アシㇼパ 私の娘,Ashi Pa My Daughter,0.4,0.43004087
+You are the future of the Ainu.,お前はアイヌの未来,You are the future of Ainu,0.8571428571428571,0.9756679
 Is that your father?,"どうだ
 アシㇼパ お前の父親か？","How
-Ashi Pa your father?",0.375
-It's Aca.,アチャだ,It is an actor,0.14285714285714285
-What's the look on her face?,アシㇼパさん どんな顔してる？,What kind of face like Ashi Pa?,0.23076923076923078
-Why?,ああ？,Ah?,0.3333333333333333
-I wasn't the one who killed the Ainu.,アイヌを殺したのは私じゃない,I'm not me who killed Ainu,0.3333333333333333
-The gold—,アシㇼパに伝えろ 金塊…,Give money to Aspa ...,0.0
-Wilk was shot!,ウイルクが撃たれた！,Willk was shot!,0.6
-Sugimoto!,杉元～っ！,Sugimoto ~!,0.6666666666666666
+Ashi Pa your father?",0.375,0.51017106
+It's Aca.,アチャだ,It is an actor,0.14285714285714285,0.18105936
+What's the look on her face?,アシㇼパさん どんな顔してる？,What kind of face like Ashi Pa?,0.2307692307692308,0.5569929
+Why?,ああ？,Ah?,0.3333333333333333,0.3275262
+I wasn't the one who killed the Ainu.,アイヌを殺したのは私じゃない,I'm not me who killed Ainu,0.3333333333333333,0.8636056
+The gold—,アシㇼパに伝えろ 金塊…,Give money to Aspa ...,0.0,0.17481005
+Wilk was shot!,ウイルクが撃たれた！,Willk was shot!,0.6,0.7563191
+Sugimoto!,杉元～っ！,Sugimoto ~!,0.6666666666666666,0.96236175
 "Asirpa, run. Now.","アシㇼパちゃん
 今すぐ逃げなさい","Ashi Pa
-Run away now",0.25
-Now the only key to the mystery \Nof the gold is within you.,これで金塊の謎を解く鍵は,The key to solve the mystery of the gold mass,0.3333333333333333
+Run away now",0.25,0.442718
+Now the only key to the mystery \Nof the gold is within you.,これで金塊の謎を解く鍵は,The key to solve the mystery of the gold mass,0.3333333333333333,0.6315829
 Everyone will start killing \Neach other over you!,"みんなが あなたをめぐって
 殺し合いになる！","Everyone is over you
-Become a kill!",0.3076923076923077
-I won't believe it! I won't leave them!,放して！　すぐそこにいるんだぞ！,Leave it!I'm there soon!,0.36363636363636365
+Become a kill!",0.3076923076923077,0.7204308
+I won't believe it! I won't leave them!,放して！　すぐそこにいるんだぞ！,Leave it!I'm there soon!,0.3636363636363637,0.39422145
 No!,"ダメだ！
 放せ！","It is no good!
-Leave it!",0.3333333333333333
-Whoever shot them is close!,２人を撃ったやつが近くにいる！,The guy who shot two people is nearby!,0.25
-Sugimoto? Seriously?,杉元が!?,Sugimoto!?,0.5
-What do we do?,マジかよ… どうする？,Seriously ... what do you do?,0.42857142857142855
-I'll go.,俺が行ってくる,I will go,0.4
-"A little further to the left, huh?",もう少し左か…,A little more left ...,0.2727272727272727
-That goddamn Matagi...,くっ…,...,0.25
-Inkarmat!,はっ！,Hey!,0.3333333333333333
-What's wrong? What happened?,どうした？　何があった？,What happened?What happened?,0.6
-When Wilk was shot...,ウイルクが… 撃たれた時…,When Willk was shot ...,0.6666666666666666
-Kiroranke?,キロランケが？,Kilolanke?,0.3333333333333333
-Private Tanigaki Genjirou...,ヒヒヒ…,Hihihi ...,0.2
+Leave it!",0.3333333333333333,0.31253237
+Whoever shot them is close!,２人を撃ったやつが近くにいる！,The guy who shot two people is nearby!,0.25,0.63477933
+Sugimoto? Seriously?,杉元が!?,Sugimoto!?,0.5,0.8763584
+What do we do?,マジかよ… どうする？,Seriously ... what do you do?,0.42857142857142855,0.49715763
+I'll go.,俺が行ってくる,I will go,0.4,0.71907
+"A little further to the left, huh?",もう少し左か…,A little more left ...,0.2727272727272727,0.66938305
+That goddamn Matagi...,くっ…,...,0.25,0.13701002
+Inkarmat!,はっ！,Hey!,0.3333333333333333,0.27604258
+What's wrong? What happened?,どうした？　何があった？,What happened?What happened?,0.6,0.70891863
+When Wilk was shot...,ウイルクが… 撃たれた時…,When Willk was shot ...,0.6666666666666666,0.7798874
+Kiroranke?,キロランケが？,Kilolanke?,0.3333333333333333,0.75726354
+Private Tanigaki Genjirou...,ヒヒヒ…,Hihihi ...,0.2,0.33545992
 This is probably the spare ship.,"たぶん これだぜ
 予備の舟って","Maybe this
-Spare",0.25
-Let's wait for everyone here.,ここでみんなを待とう,Wait everyone here,0.42857142857142855
+Spare",0.25,0.6153328
+Let's wait for everyone here.,ここでみんなを待とう,Wait everyone here,0.42857142857142855,0.69848824
 "You know why the 7th was able to \Nfind out everything we did, right?","どうして俺たちの動きが
 第七師団に筒抜けだったか…","Why is our movement
-Did you remove the cylinder to the seventh line ...",0.20833333333333334
+Did you remove the cylinder to the seventh line ...",0.20833333333333331,0.48260334
 That woman's the only possible reason!,"分かるだろ？
 あの女しかいねえんだぞ！","You know?
-That woman is hey!",0.23076923076923078
-Get the ship ready.,舟を出せ 逃げるぞ,I will run away the boat,0.1
-Tanigaki was caught by Lt. Tsurumi's men.,谷垣は鶴見中尉たちに捕まった,Tanigaki was caught by Tsurumi Nakahiro,0.5
-And Aca and Sugimoto?,アチャと杉元は？,What is Acha and Sugimoto?,0.42857142857142855
+That woman is hey!",0.2307692307692308,0.45120993
+Get the ship ready.,舟を出せ 逃げるぞ,I will run away the boat,0.1,0.46953616
+Tanigaki was caught by Lt. Tsurumi's men.,谷垣は鶴見中尉たちに捕まった,Tanigaki was caught by Tsurumi Nakahiro,0.5,0.87105745
+And Aca and Sugimoto?,アチャと杉元は？,What is Acha and Sugimoto?,0.42857142857142855,0.6890497
 "I got close and looked, but both were dead.","近づいて確認したが
 ２人とも死んでいた","I confirmed that it was approaching
-Two people were dead",0.16666666666666666
-How does it feel to be \Nmissing part of your brain?,脳みそが欠けた気分はどうだね？,How do you feel missing brain?,0.26666666666666666
-We're brain damage pals now!,我々は“脳みそ欠け友達”だな,"We are ""a brainless friends""",0.07692307692307693
+Two people were dead",0.16666666666666666,0.6093804
+How does it feel to be \Nmissing part of your brain?,脳みそが欠けた気分はどうだね？,How do you feel missing brain?,0.26666666666666666,0.6811803
+We're brain damage pals now!,我々は“脳みそ欠け友達”だな,"We are ""a brainless friends""",0.07692307692307693,0.5355098
 I can't believe a murderer like\Nyou was such a great doctor.,"まさか お前みたいな
 凶悪犯が名医だったとは","I'm sorry
-Hot criminal was a favorite doctor",0.23529411764705882
+Hot criminal was a favorite doctor",0.2352941176470588,0.66832757
 I've done lots of cranial surgeries \Nwhile pursuing my hobby of torture.,"私は趣味の拷問で
 何人もの開頭手術を行ってきました","I have a torture of hobbies
-How many open surgery has been conducted",0.13043478260869565
-"I would cut out their brains little by little,",助かったのですけれど,"I was saved, but",0.16666666666666666
+How many open surgery has been conducted",0.13043478260869565,0.7239113
+"I would cut out their brains little by little,",助かったのですけれど,"I was saved, but",0.16666666666666666,0.0895335
 then fry and eat them in front of the \Nvictim while they were still conscious.,"ちょっとずつ脳みそを切り取り
 まだ意識がある本人の目の前で","Cut the brain in a bit
-In front of the person of the person who is still awareness",0.20833333333333334
+In front of the person of the person who is still awareness",0.20833333333333331,0.4421501
 "Well, only someone like Sugimoto, \Nwith his incredible capacity for recovery,","まあ 驚異的な回復力の
 杉元さんだから","Well surprised recovery
-Because Mr. Sugimoto",0.2
+Because Mr. Sugimoto",0.2,0.79143643
 "If you want to learn anything \Nfrom her, do it now.","情報を聞き出したければ
 今のうちです","If you want to hear the information
-It is among now",0.3333333333333333
-We'll get on another ship at the port.,しっかりしろ,come on,0.09090909090909091
-"Let's go, Asirpa.",行こう アシㇼパ,Let's go Ashi Pa,0.375
+It is among now",0.3333333333333333,0.1172979
+We'll get on another ship at the port.,しっかりしろ,come on,0.09090909090909093,0.27192664
+"Let's go, Asirpa.",行こう アシㇼパ,Let's go Ashi Pa,0.375,0.48545003
 The sound of the gun that \Nshot Wilk and Sugimoto,"ウイルクと
 杉元さんを撃った発砲音は","With water
-The sound shot shot of Mr. Sugimoto",0.3076923076923077
-I didn't hear it.,分かりませんでした,I did not understand,0.25
-I felt him when I was shot.,撃たれた瞬間… あいつを感じた,The moment I was shot ... I felt that,0.36363636363636365
+The sound shot shot of Mr. Sugimoto",0.3076923076923077,0.6385515
+I didn't hear it.,分かりませんでした,I did not understand,0.25,0.3262768
+I felt him when I was shot.,撃たれた瞬間… あいつを感じた,The moment I was shot ... I felt that,0.3636363636363637,0.69531244
 Was there a need to shoot Sugimoto?,"杉元まで
 撃つ必要があったのか？","To Sugimino
-Was it necessary to shoot?",0.36363636363636365
-he and Sugimoto exchanged words.,杉元が何か言葉を交わした,Sugimoto mut my words,0.25
-"Whether it was the location of the gold,",金塊の在りかか,Will the gold lot,0.2
-or the key to cracking some \Ncode only Asirpa knows...,あるいは あんたのことか…,Or what to do ...,0.23076923076923078
+Was it necessary to shoot?",0.3636363636363637,0.81430525
+he and Sugimoto exchanged words.,杉元が何か言葉を交わした,Sugimoto mut my words,0.25,0.68302536
+"Whether it was the location of the gold,",金塊の在りかか,Will the gold lot,0.2,0.5206948
+or the key to cracking some \Ncode only Asirpa knows...,あるいは あんたのことか…,Or what to do ...,0.2307692307692308,0.28719413
 "He might be alive, you know.","ひょっとしたら
 生きてるかもしれんぞ","Ifbe
-It may be alive",0.18181818181818182
-Immortal Sugimoto is \Nprobably real pissed off.,アシㇼパも奪われて―,Ashi Pa is also robbed-,0.08333333333333333
-"Henmi Kazuo, Nihei Tetsuzou...",辺見和雄 二瓶鉄造…,Seiya Shiba Nao Two Battle ...,0.09090909090909091
+It may be alive",0.18181818181818185,0.5637019
+Immortal Sugimoto is \Nprobably real pissed off.,アシㇼパも奪われて―,Ashi Pa is also robbed-,0.08333333333333333,0.24513055
+"Henmi Kazuo, Nihei Tetsuzou...",辺見和雄 二瓶鉄造…,Seiya Shiba Nao Two Battle ...,0.09090909090909093,0.5395784
 So what proves that Kiroranke's \Ngroup made it to Karafuto?,"それで… キロランケたちが
 樺太へ渡ったという根拠は？","So ... kilolanke
-What is the basis for acquiring to Yuta?",0.2
-Take Asirpa!,アシㇼパを連れていけ！,Take Asapopa!,0.5
-This woman is dangerous!,この女は危険だ！,This woman is dangerous!,1.0
+What is the basis for acquiring to Yuta?",0.2,0.41041896
+Take Asirpa!,アシㇼパを連れていけ！,Take Asapopa!,0.5,0.59046805
+This woman is dangerous!,この女は危険だ！,This woman is dangerous!,1.0,0.99999994
 "Don't believe him, Asirpa!","信じないで アシㇼパちゃん！
 キロランケは さっき…","Don't believe and Ashi Pa!
-Krorunke has a while ago ...",0.25
-Kiroranke just...,ハァッ う…,Huh ...,0.25
-I didn't mean to stab—,んっ 刺すつもりは…,I'm going to stab ...,0.2
+Krorunke has a while ago ...",0.25,0.38667697
+Kiroranke just...,ハァッ う…,Huh ...,0.25,0.2050448
+I didn't mean to stab—,んっ 刺すつもりは…,I'm going to stab ...,0.2,0.68161714
 Let go!,"んっ んんっ！
 う… う…","Hmmm!
-UU…",0.2
+UU…",0.2,0.3359943
 "If we don't do something, the bigger \Ncountries will just swallow us up!","何とかしないと 俺たちは
 大国に飲み込まれてしまう","If we do not do something, we
-It will be swallowed by the great country",0.3181818181818182
+It will be swallowed by the great country",0.3181818181818182,0.6445998
 Why did Wilk have to die?,"どうしてウイルクは…
 殺されなければならなかったの？","Why is the wolf ...
-Did you have to be killed?",0.35714285714285715
-Because he changed!,あいつが… 変わってしまったんだ,He has changed ...,0.3333333333333333
+Did you have to be killed?",0.35714285714285715,0.33748722
+Because he changed!,あいつが… 変わってしまったんだ,He has changed ...,0.3333333333333333,0.55734676
 The plan was to tell our old \Ncomrades where the gold was!,"金塊の情報を古い仲間に
 伝えに行くはずだったのに… あっ","For older friends of gold mass
-Even though I was supposed to go",0.14285714285714285
+Even though I was supposed to go",0.14285714285714285,0.51624334
 "After killing the seven Ainu,\NNopperabo took a small amount of the gold","金塊を少量持って
 樺太へ向かう途中で捕まった","Have a small amount of money
-I was caught in the middle of the way",0.23809523809523808
+I was caught in the middle of the way",0.2380952380952381,0.08778932
 I think he was carrying \Nreliable information with him.,"本隊を動かすつもりだったと
 私は見ている","I was going to move my headstroke
-I'm looking",0.11764705882352941
+I'm looking",0.1176470588235294,0.14790162
 Kiroranke will probably try to meet up with \Nhis former guerrilla friends in the far east.,"キロランケは かつて極東で
 ゲリラ活動をしていた仲間と","Kilolanke once in the Far East
-With friends who were doing guerrilla activities",0.30434782608695654
-Take me to Karafuto.,俺を樺太へ連れていけ,Take me to Yuta,0.5
+With friends who were doing guerrilla activities",0.3043478260869565,0.6816476
+Take me to Karafuto.,俺を樺太へ連れていけ,Take me to Yuta,0.5,0.5504356
 "Without me, she won't trust you.","あんたらだけで行っても
 アシㇼパさんは信用しない","Even if you go alone
-Ashi Pa does not trust",0.11764705882352941
-"I'll go, too.",俺も行きます,I will go,0.2857142857142857
+Ashi Pa does not trust",0.1176470588235294,0.42505923
+"I'll go, too.",俺も行きます,I will go,0.2857142857142857,0.68711865
 You're sure?,"お前 俺の脳みそ
 つまみ食いしただろ","You're my brain
-I had a snack",0.2
-Stay alive until then.,必ず戻る それまで生きてろよ,Be sure to live until then,0.2222222222222222
-I'll never forgive you if you die.,死ぬのは絶対に許さん,It is absolutely forgive to die,0.16666666666666666
+I had a snack",0.2,0.1884199
+Stay alive until then.,必ず戻る それまで生きてろよ,Be sure to live until then,0.2222222222222222,0.7848171
+I'll never forgive you if you die.,死ぬのは絶対に許さん,It is absolutely forgive to die,0.16666666666666666,0.6925294
 "Bring back Asirpa, please!","アシㇼパさんを
 絶対に取り戻してください！","Ashi Pa
-Please restore it!",0.2
-Asirpa!,アシㇼパさ～ん！,Ashi Pa!,0.25
-"I still have clean-up work to do \Nat Abashiri, so I can't leave yet.",私は まだここを離れられん,I am still leaving here,0.10526315789473684
-"For now, we're going to send a small \Nforce ahead of the rest of us.",樺太へは少数精鋭で先遣隊を送る,Send a precondition for a few sizes,0.15
-"Sergeant Tsukishima, Lieutenant Koito...",月島軍曹と鯉登少尉,Tsukishima Sergeant and Kiyoshida,0.25
+Please restore it!",0.2,0.4092561
+Asirpa!,アシㇼパさ～ん！,Ashi Pa!,0.25,0.47694826
+"I still have clean-up work to do \Nat Abashiri, so I can't leave yet.",私は まだここを離れられん,I am still leaving here,0.10526315789473684,0.521777
+"For now, we're going to send a small \Nforce ahead of the rest of us.",樺太へは少数精鋭で先遣隊を送る,Send a precondition for a few sizes,0.15,0.4384113
+"Sergeant Tsukishima, Lieutenant Koito...",月島軍曹と鯉登少尉,Tsukishima Sergeant and Kiyoshida,0.25,0.873379
 """Why do I have to leave you, \NLt. Tsurumi?"" he asks.","“どうして私が鶴見中尉殿から
 離れなければいけないのか”と","""Why I'm from Tsurumi Mid
-Do you have to leave?",0.5263157894736842
+Do you have to leave?",0.5263157894736842,0.7429239
 "It is a request from \Nyour father, Admiral Koito.","父上である
 鯉登閣下からの頼みだ","It is on the father
-I'm asking from the bottom of the kinkaku",0.21052631578947367
+I'm asking from the bottom of the kinkaku",0.21052631578947367,0.5033411
 That means Old Man Nagakura and the others \Nat the kotan may have been captured.,"コタンにいた永倉のじいさんたちは
 捕まったかもしれねえな","Nagakura's grandeon
-It may have been caught",0.21052631578947367
+It may have been caught",0.21052631578947367,0.5863981
 "In two or three days,\N things will calm down up there.","もう２～３日すれば
 地上も片づいて","If you go to another 2 to 3 days
-Close up the ground",0.08333333333333333
-And there'll be fewer soldiers in the area.,兵士たちも減るだろう,Soldiers will also decrease,0.07692307692307693
-Just wait until then.,それまでの辛抱だ,It is the patience until then,0.2222222222222222
-Did Inudou make this?,これは… 犬童が？,This is ... Your Inuyuki?,0.2222222222222222
-It seems he was gathering information about\Nthe escaped prisoners to lure me to Abashiri.,脱獄囚の情報を集めていたようだ,It seems that the information of the jailbreak prisoner was collected,0.2
+Close up the ground",0.08333333333333333,0.3780668
+And there'll be fewer soldiers in the area.,兵士たちも減るだろう,Soldiers will also decrease,0.07692307692307693,0.7023541
+Just wait until then.,それまでの辛抱だ,It is the patience until then,0.2222222222222222,0.4730579
+Did Inudou make this?,これは… 犬童が？,This is ... Your Inuyuki?,0.2222222222222222,0.37778607
+It seems he was gathering information about\Nthe escaped prisoners to lure me to Abashiri.,脱獄囚の情報を集めていたようだ,It seems that the information of the jailbreak prisoner was collected,0.2,0.40707913
 Some of this is information we don't have.,"我々の持っていない
 新たな情報もある","We do not have
-There is also new information",0.35714285714285715
+There is also new information",0.35714285714285715,0.6849116
 If the skins we had are now \Nin Lt. Tsurumi's hands...,"もし鶴見たちの手に
 渡っているとしたら","If you are in the hands of Tsurumi
-If you are passing",0.29411764705882354
+If you are passing",0.29411764705882354,0.41869536
 We need to get at least one of the others \Nso we can stop him from breaking the code.,"１枚でも残りを集めて
 暗号解読を阻止しないと","Collect the rest with one piece
-If you do not stop decryption",0.1111111111111111
+If you do not stop decryption",0.1111111111111111,0.24312462
 "I thought Abashiri had turned \Nout to be a waste of time,","網走は徒労に終わったかに
 思えたが","Abashiri ended in a lot of work
-I thought",0.29411764705882354
-We're leaving here and going to the south!,ここを出て南へ向かうぞ,Go out here and go south,0.25
-Sugimoto...,杉元どん,Sugimoto,0.5
+I thought",0.29411764705882354,0.807671
+We're leaving here and going to the south!,ここを出て南へ向かうぞ,Go out here and go south,0.25,0.66128075
+Sugimoto...,杉元どん,Sugimoto,0.5,0.94997203
 "You want to send your kid on a journey, huh?","“かわいい子には旅をさせよ”の
 つもりですか？","""Let's travel to cute girls""
-Are you going?",0.14285714285714285
+Are you going?",0.14285714285714285,0.46753243
 My son will be a leader of men someday.,"息子さんは死体で帰ってくるかも
 しれませんよ","My son may come back with a corpse
-I'm sorry",0.16666666666666666
+I'm sorry",0.16666666666666666,0.31613094
 And a leader has to take responsibility \Nfor many young lives.,"指揮官には 大勢の若い命を
 預かる責任があっど","Many young lives in the commander
-Depose responsibility",0.25
+Depose responsibility",0.25,0.65483373
 "When Lieutenant General Hanazawa \Ncommitted seppuku, he sent me a letter.","花沢中将どんは切腹すっ時
 おいへ手紙をくれもした","Masawa Masawa is stained
-I also gave me a letter",0.15789473684210525
+I also gave me a letter",0.15789473684210525,0.45289755
 "His son, Yuusaku, had died on the front lines,","息子の勇作どんが
 最前線で戦死してくれて","My son's courage
-Take dead at the forefront",0.11764705882352941
+Take dead at the forefront",0.1176470588235294,0.32394123
 upholding the honor of his foolish father.,"“愚かな父の面目を
 保ってくれた”と","""The father's side of the father
-""I kept me",0.2
+""I kept me",0.2,0.43311465
 The war our generation started sent the \Nsons of many of our citizens to battle.,"大勢の国民の息子たっが
 戦地へ送られもした","A large number of people's sons
-It was sent to the battlefield",0.18181818181818182
+It was sent to the battlefield",0.18181818181818185,0.44415984
 "If I keep my own son from danger,\Nwhat can I say to those whose sons died?","我が子どんかわいさに
 危険から遠ざけるのは","For my childhood
-It is far from danger",0.13043478260869565
+It is far from danger",0.13043478260869565,0.30933386
 "He didn't raise her just to be used, I think.","娘は利用しようちして育てたんとは
 決して違うどと思うちょります","My daughter used to grow and raised
-I'm definitely different",0.14285714285714285
-You're...,杉元 お前は…,Sugimoto You are ...,0.4
+I'm definitely different",0.14285714285714285,0.24998163
+You're...,杉元 お前は…,Sugimoto You are ...,0.4,0.31896013
 I couldn't bring you to meet your father.,"アシㇼパさんを父親に
 会わせることができなかった","Ashi Pa's father
-I could not meet",0.2857142857142857
-I'm sorry I couldn't keep my promise.,約束を守れなくて…,I can not keep my promise ...,0.3333333333333333
-"Aca... left on his journey, then?",アチャは… ダメだったのか？,Is Acha ...?,0.18181818181818182
-Just wait. I'll come for you.,待っててくれ 必ず迎えに行くから,Wait Please always meet,0.09090909090909091
-This is a dream.,これは夢だ,This is a dream,0.8
+I could not meet",0.2857142857142857,0.5527097
+I'm sorry I couldn't keep my promise.,約束を守れなくて…,I can not keep my promise ...,0.3333333333333333,0.7891601
+"Aca... left on his journey, then?",アチャは… ダメだったのか？,Is Acha ...?,0.18181818181818185,0.41083735
+Just wait. I'll come for you.,待っててくれ 必ず迎えに行くから,Wait Please always meet,0.09090909090909093,0.42093793
+This is a dream.,これは夢だ,This is a dream,0.8,0.93107224
 I'm alive! And there's so \Nmuch I want to tell you!,"アシㇼパさんに話したいことが
 たくさんあるんだ！","What I want to talk to Asa Pa
-There are a lot!",0.25
+There are a lot!",0.25,0.15759137
 "What's wrong, Asirpa?","ん？
 ん～？","Yeah?
-What?",0.2857142857142857
+What?",0.2857142857142857,0.15315273
 I dreamed about Sugimoto.,"杉元の夢を見た
 え？","I saw a dream of Sugimoto
-picture?",0.18181818181818182
-That dream might be true.,正夢かもよ,It may be a regular dream,0.2
+picture?",0.18181818181818185,0.8375196
+That dream might be true.,正夢かもよ,It may be a regular dream,0.2,0.65325445
 Of course he's not dead.,"何 言ってんだ 白石
 あいつが死ぬわけないだろ！","White stone that says
-He's not going to die!",0.2
-He's...,ヘッ…,Hey ...,0.25
-I'm...,俺は…,I am…,0.25
-...Immortal Sugimoto!,不死身の杉元だ！,It is the immortal mind Sugimoto!,0.375
+He's not going to die!",0.2,0.38306895
+He's...,ヘッ…,Hey ...,0.25,0.5396069
+I'm...,俺は…,I am…,0.25,0.61196506
+...Immortal Sugimoto!,不死身の杉元だ！,It is the immortal mind Sugimoto!,0.375,0.7815827

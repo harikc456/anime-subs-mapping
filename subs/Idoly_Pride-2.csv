@@ -1,373 +1,373 @@
-en_text,jp_text,google_translated,score
-My heart is beating so fast.,（さくら）胸がドキドキする,Chest is thrilled,0.1111111111111111
-There must be something...,きっと何かが…,Surely something ...,0.3333333333333333
-Thank you very much!,（受験者）ありがとうございました,Thank you for the,0.2857142857142857
-"All right next, #4...",あっ　アハハ…　じゃあ 中へ,"Oh ha ha ... Oh, go",0.2
-Yes.,はい　４番の長瀬(ながせ)琴乃です,Yes No. 4 Nagase  Ayano,0.3333333333333333
-Nagase...?,長瀬…,Nagase ...,0.6666666666666666
-H-Hey!,あっ　おい,Leopardy,0.0
-I'm Nagase Mana's younger sister.,（琴乃）長瀬麻奈(まな)の妹です,Nagase Minna 's sister,0.3333333333333333
-Mana's...?,麻奈の…,Minna's ...,0.4
-Nothing.,あ いえ,Yay,0.0
-"You're Saegusa Shinji-san, right?",三枝信司(しんじ)さん ですよね？,"It is Mr. Shinji Sanjo, right?",0.25
+en_text,jp_text,google_translated,score,semantic_score
+My heart is beating so fast.,（さくら）胸がドキドキする,Chest is thrilled,0.1111111111111111,0.39331228
+There must be something...,きっと何かが…,Surely something ...,0.3333333333333333,0.58141917
+Thank you very much!,（受験者）ありがとうございました,Thank you for the,0.2857142857142857,0.35491285
+"All right next, #4...",あっ　アハハ…　じゃあ 中へ,"Oh ha ha ... Oh, go",0.2,0.23835693
+Yes.,はい　４番の長瀬(ながせ)琴乃です,Yes No. 4 Nagase  Ayano,0.3333333333333333,0.22188297
+Nagase...?,長瀬…,Nagase ...,0.6666666666666666,0.9475551
+H-Hey!,あっ　おい,Leopardy,0.0,0.19626495
+I'm Nagase Mana's younger sister.,（琴乃）長瀬麻奈(まな)の妹です,Nagase Minna 's sister,0.3333333333333333,0.7028941
+Mana's...?,麻奈の…,Minna's ...,0.4,0.22631377
+Nothing.,あ いえ,Yay,0.0,0.11278949
+"You're Saegusa Shinji-san, right?",三枝信司(しんじ)さん ですよね？,"It is Mr. Shinji Sanjo, right?",0.25,0.6270894
 You managed my sister from the beginning.,"姉のデビューから
 ずっとマネジメントをされてた","From my sister's debut
-I have been managing for a long time",0.16666666666666666
-So what?,（三枝(さえぐさ)）ん？　どうかしたか？,)?What did you do?,0.2857142857142857
+I have been managing for a long time",0.16666666666666666,0.57889956
+So what?,（三枝(さえぐさ)）ん？　どうかしたか？,)?What did you do?,0.2857142857142857,0.22595094
 I'm determined to make it through\Nany harsh training.,"どんな つらいレッスンでも
 やり遂げる覚悟でいます","No matter what hard lessons
-I'm prepared to do",0.17647058823529413
+I'm prepared to do",0.17647058823529413,0.5319427
 "For this audition, I'm leaving\Neverything up to this guy.","今回のオーディションは
 すべて こいつに任せている","This audition is
-Everything he is left to this guy",0.26666666666666666
+Everything he is left to this guy",0.26666666666666666,0.73222107
 "You won't be in charge, Saegusa-san?","三枝さんが担当してくれるんじゃ
 ないんですか？","Mr. Sanjo will be in charge
-Isn't there?",0.35714285714285715
-Of course we'll take care of you as the agency.,もちろん事務所として面倒は見る,Of course I see troubles as an office,0.1875
-"First, let me ask you this:",まず聞かせてください,Please let me know first,0.3
+Isn't there?",0.35714285714285715,0.56241345
+Of course we'll take care of you as the agency.,もちろん事務所として面倒は見る,Of course I see troubles as an office,0.1875,0.24594593
+"First, let me ask you this:",まず聞かせてください,Please let me know first,0.3,0.6183165
 Why do you want to become an idol?,"君は どうして
 アイドルになろうと？","Why are you
-Will you be an idol?",0.4166666666666667
-I want to stand at the top of the Venus Program.,VENUS(ビーナス)プログラムの頂点に立つこと,Standing at the top of Venus  program,0.5
-That's my goal.,それが私の目標です,That is my goal,0.5
-ねえ　約束だよ,♪～,♪ ~,0.0
-走り続けていく,～♪,~ ♪,0.0
-"""Singing""\N""Script Reading""",（琴乃）ハァ ハァ,Ha ha ha,0.0
+Will you be an idol?",0.4166666666666667,0.91057116
+I want to stand at the top of the Venus Program.,VENUS(ビーナス)プログラムの頂点に立つこと,Standing at the top of Venus  program,0.5,0.863526
+That's my goal.,それが私の目標です,That is my goal,0.5,0.8535212
+ねえ　約束だよ,♪～,♪ ~,0.0,0.42168653
+走り続けていく,～♪,~ ♪,0.0,0.3252246
+"""Singing""\N""Script Reading""",（琴乃）ハァ ハァ,Ha ha ha,0.0,0.20035057
 Thank you very much.,"（牧野）ありがとうございます
 座って","Thank you
-Sit down",0.2857142857142857
-Have a seat.,はい　４番の長瀬琴乃です,Yes No. 4 Nagase Ayano,0.1111111111111111
+Sit down",0.2857142857142857,0.33870026
+Have a seat.,はい　４番の長瀬琴乃です,Yes No. 4 Nagase Ayano,0.1111111111111111,0.11042049
 I'll judge you on how you judge the auditioners!,"（麻奈）
 受験者を審査する牧野くんを
 私が審査してあげる","Makino-kun who examines the candidate
-I will review",0.13333333333333333
-What's going on?,さっきから何だ？,What is it?,0.2857142857142857
+I will review",0.13333333333333333,0.35471
+What's going on?,さっきから何だ？,What is it?,0.2857142857142857,0.31030712
 It's nothing...,"（麻奈）あっ
-（牧野）長瀬…",Nagase ...,0.2
-"If you pass, we'll have you\Nmove into the company dorms.",もし合格したら,"If you pass,",0.3076923076923077
-I'm able to commute from home.,自宅から通える距離ですが,It is the distance to pass from home,0.23076923076923078
-It's our policy.,事務所の方針だ,Office policy,0.16666666666666666
+（牧野）長瀬…",Nagase ...,0.2,0.14993069
+"If you pass, we'll have you\Nmove into the company dorms.",もし合格したら,"If you pass,",0.3076923076923077,0.55889696
+I'm able to commute from home.,自宅から通える距離ですが,It is the distance to pass from home,0.2307692307692308,0.39893413
+It's our policy.,事務所の方針だ,Office policy,0.16666666666666666,0.5308887
 We want you to utilize what you gain\Nfrom living with other members,"それを
 芸能活動に生かしてもらいたい","It
-I want you to make use of entertainment activities",0.16666666666666666
-Members?,メンバー？,member?,0.3333333333333333
+I want you to make use of entertainment activities",0.16666666666666666,0.3375889
+Members?,メンバー？,member?,0.3333333333333333,0.89195657
 We're thinking of forming a group\Nfor this upcoming project.,"（牧野）
-今回のプロジェクトでは⸺","In this project,",0.15384615384615385
-My older sister was a solo artist.,私の姉はソロでした,My sister was solo,0.5
+今回のプロジェクトでは⸺","In this project,",0.15384615384615385,0.37008572
+My older sister was a solo artist.,私の姉はソロでした,My sister was solo,0.5,0.77015793
 My older sister made it all the way to the\NNext Venus Grand Prix finals by herself.,"姉は１人でNEXT(ネクスト) VENUSグランプリの
 決勝へ進みました","My sister is one person NEXT  VENUS Grand Prix
-I went to the final",0.2916666666666667
-You're...,君は…,You are…,0.25
-I see.,私もソロを希望します,I also want solo,0.16666666666666666
+I went to the final",0.2916666666666667,0.79668343
+You're...,君は…,You are…,0.25,0.6086079
+I see.,私もソロを希望します,I also want solo,0.16666666666666666,0.06965935
 "Still, I don't plan to change\Nanything about this project.","でもプロジェクトの方針を
 変えるつもりはありません","But the project policy
-I do not intend to change",0.2222222222222222
+I do not intend to change",0.2222222222222222,0.5845638
 "If you can't agree to the terms,","条件がのめないなら 合否を待たず
 断ってもらっても構いません","If you do not want to have a condition, do not wait
-You can not share it",0.21052631578947367
-This concludes today's audition.,以上で今日の面接は終わりです,The interview of today is over,0.09090909090909091
-The results will be mailed out at a later date.,結果は後日 郵便で通達します,The results will be held later by post,0.35714285714285715
-Do you have any questions for me?,何か質問はありますか？,Do you have any questions?,0.75
-Excuse me...,（遥子(はるこ)）あの…,) That ...,0.2
-"Haruko-san, what is it?",（牧野）その子は？,What is that child?,0.375
-Is this a studio?,（さくら）わあ～　スタジオ？,Wow ~ Studio?,0.2857142857142857
+You can not share it",0.21052631578947367,0.18492852
+This concludes today's audition.,以上で今日の面接は終わりです,The interview of today is over,0.09090909090909093,0.47239193
+The results will be mailed out at a later date.,結果は後日 郵便で通達します,The results will be held later by post,0.35714285714285715,0.8125236
+Do you have any questions for me?,何か質問はありますか？,Do you have any questions?,0.75,0.90196025
+Excuse me...,（遥子(はるこ)）あの…,) That ...,0.2,0.31406912
+"Haruko-san, what is it?",（牧野）その子は？,What is that child?,0.375,0.29319334
+Is this a studio?,（さくら）わあ～　スタジオ？,Wow ~ Studio?,0.2857142857142857,0.7240207
 "She just came into our office,\Nso I assumed she was an auditioner...","さっき 事務所を訪ねてきて
 面接の子かと","I came to visit the office
-The child of the interview",0.15
-What's your number?,君 番号は？,What is your number?,0.6666666666666666
-My number?,番号？,number?,0.6666666666666666
-"So, you're going to become an idol?",じゃあ あなたもアイドルに？,Then you also idol?,0.25
-It hasn't been decided yet.,まだ決まったわけじゃない,It is not decided yet,0.3333333333333333
-Audition...,オーディション　そっか,Audition,0.5
+The child of the interview",0.15,0.37446457
+What's your number?,君 番号は？,What is your number?,0.6666666666666666,0.9545408
+My number?,番号？,number?,0.6666666666666666,0.7723422
+"So, you're going to become an idol?",じゃあ あなたもアイドルに？,Then you also idol?,0.25,0.725947
+It hasn't been decided yet.,まだ決まったわけじゃない,It is not decided yet,0.3333333333333333,0.8994543
+Audition...,オーディション　そっか,Audition,0.5,0.869764
 "I'm sorry, it was my misunderstanding.","ごめんなさい
 私 勘違いしちゃったみたいで","sorry
-I wanted to misunderstand",0.16666666666666666
-"Come on, let's go.",さあ 行きましょう,"alright, let's go",0.5
+I wanted to misunderstand",0.16666666666666666,0.594073
+"Come on, let's go.",さあ 行きましょう,"alright, let's go",0.5,0.6481351
 "Actually... May I audition, too?","あの…　私もオーディション
 受けていいですか？","That ... I also audition
-May I receive?",0.45454545454545453
+May I receive?",0.4545454545454545,0.85917014
 You're supposed to pass\Na screening before that—,"えーっとね
 その前に書類選考とかがあって…","Eather
-Before that, there is a documents screening ...",0.125
-What's your name?,（牧野）君 名前は？,What is your name?,0.6666666666666666
+Before that, there is a documents screening ...",0.125,0.51053107
+What's your name?,（牧野）君 名前は？,What is your name?,0.6666666666666666,0.92928183
 What?,"（遥子）え？
 （琴乃）えっ？","?
-?",0.5
-It's Kawasaki Sakura.,川咲(かわさき)さくらです,Kawasaki Sakura,0.4
+?",0.5,0.43612215
+It's Kawasaki Sakura.,川咲(かわさき)さくらです,Kawasaki Sakura,0.4,0.91171974
 I'm able to tell what's important\Nand necessary for me.,"私 自分にとって大切なこととか
 必要なことが分かるんです","Important things for me
-I understand what you need",0.23529411764705882
-What do you mean by that?,それは どういうこと？,What does that mean?,0.5
+I understand what you need",0.2352941176470588,0.7153327
+What do you mean by that?,それは どういうこと？,What does that mean?,0.5,0.6248414
 "So, that's why you're here?","（遥子）う～ん
-（牧野）じゃあ ここに来たのも？","Well, she came here?",0.25
-Yes!,（さくら）はい,Yes,0.5
-It must be telling me to become an idol!,きっと私にアイドルになれって…,Surely I'm getting idol ...,0.06666666666666667
+（牧野）じゃあ ここに来たのも？","Well, she came here?",0.25,0.43092197
+Yes!,（さくら）はい,Yes,0.5,0.7672983
+It must be telling me to become an idol!,きっと私にアイドルになれって…,Surely I'm getting idol ...,0.06666666666666668,0.721133
 You have no idea how many girls\Nare working hard to get into this world.,"どれだけの子が この世界に憧れて
 努力してると思ってるの？","How many children are in love with this world
-Do you think you are working hard?",0.30434782608695654
+Do you think you are working hard?",0.3043478260869565,0.5264543
 You have no idea how many girls\Ncan't even get a chance...,"どれだけの子が
 そのチャンスさえ得られずに…","How many children
-Without that chance ...",0.25
+Without that chance ...",0.25,0.5279686
 This isn't a world you can enter\Nwith such a ridiculous reason.,"そんな ふざけた理由で
 入ってきていい世界じゃない","For such a funny reason
-It's not a good world",0.2222222222222222
+It's not a good world",0.2222222222222222,0.5312048
 It's not ridiculous. This is what I believe.,"だって私 信じてるから
 このドキドキを","Because I believe
-This pounding",0.25
+This pounding",0.25,0.14255664
 "As she said, the idol world is a severe place.","彼女の言うとおり
 アイドルの世界は厳しい","As you say
-The world of idol is tough",0.3125
+The world of idol is tough",0.3125,0.7389276
 "Nowadays, your ability gets\Nquantified by the Venus Program.","今はVENUSプログラムで
 実力が数値化される時代だ","Now with the VENUS program
-It is time when the ability is quantified",0.23529411764705882
-We're doing this audition to judge whether you\Ngot what it takes to survive in such a world.,この世界で生き残れる素養があるか,Is there an honorable farming in this world?,0.125
+It is time when the ability is quantified",0.2352941176470588,0.875675
+We're doing this audition to judge whether you\Ngot what it takes to survive in such a world.,この世界で生き残れる素養があるか,Is there an honorable farming in this world?,0.125,0.036474925
 "Even if you sign with us, there's\Nno guarantee that you will succeed.","事務所所属になったとしても
 売れるかどうかの保証はない","Even if it became an office affiliation
-There is no guarantee whether it is selling",0.13043478260869565
+There is no guarantee whether it is selling",0.13043478260869565,0.2835944
 "Now, do you still want to audition?","それでも
 オーディションを受けたい？","Nevertheless
-Do you want to receive audition?",0.5454545454545454
-So what can you do?,君には何ができる？,What can you do?,0.8333333333333334
-I can sing!,歌が歌えます,Song can sing,0.4
+Do you want to receive audition?",0.5454545454545454,0.8615786
+So what can you do?,君には何ができる？,What can you do?,0.8333333333333334,0.83362055
+I can sing!,歌が歌えます,Song can sing,0.4,0.7378196
 I wasn't good at singing when I was little.,"小さい頃は
 歌は得意じゃなかったんです","When I was small
-I was not good at singing",0.5454545454545454
+I was not good at singing",0.5454545454545454,0.8559942
 "But one day, I woke up, being able to sing!","驚いた　まるで麻奈ちゃんが
 歌ってるみたいだったわ","Surprised Sana-chan
-I wanted to sing",0.2
-"Yeah, I know.",ああ　分かってる,Oh I know,0.3333333333333333
-Makino-kun?,牧野くん？,Makino-kun?,1.0
+I wanted to sing",0.2,0.4377127
+"Yeah, I know.",ああ　分かってる,Oh I know,0.3333333333333333,0.76036376
+Makino-kun?,牧野くん？,Makino-kun?,1.0,0.99999976
 Why did you run off like that earlier?,"（牧野）さっきは
-どうして突然 いなくなったんだ？",Why didn't you suddenly get rid of it?,0.26666666666666666
+どうして突然 いなくなったんだ？",Why didn't you suddenly get rid of it?,0.26666666666666666,0.43138304
 Seeing Kotono surprised me.,"（麻奈）
-琴乃を見て びっくりしちゃって",She looks surprised to see Ayano,0.1
+琴乃を見て びっくりしちゃって",She looks surprised to see Ayano,0.1,0.4520854
 I wasn't expecting it.,"いきなりだったから
 それに⸺","Because it was sudden
-in addition⸺",0.2
+in addition⸺",0.2,0.21440707
 When I think about how much\N grief I put her through...,"私のことで どれだけ
 悲しい思いをさせたのかって思うと","How much is me
-I think I'm sad",0.1875
+I think I'm sad",0.1875,0.38086575
 But I never thought Kotono\Nwould aim to become an idol.,"アイドルを目指すなんて
 思わなかった","I aim for an idol
-did not think",0.26666666666666666
-But you came back to check on her anyway...,結局 気になって戻ってくるなら…,If you are worried about and come back ...,0.1875
+did not think",0.26666666666666666,0.6006924
+But you came back to check on her anyway...,結局 気になって戻ってくるなら…,If you are worried about and come back ...,0.1875,0.3839589
 "I wanted to leave Kotono up to you, Makino-kun.","琴乃のことは牧野くんに任せようと
 思ったんだけど","Ayano Try to leave it to Makino-kun
-I thought",0.2857142857142857
-But then I heard that girl's singing...,あの子の歌が聞こえてきて,I heard that child's song,0.36363636363636365
-Kawasaki Sakura's?,川咲さくらの？,Kawaki Sakura?,0.4
+I thought",0.2857142857142857,0.66505516
+But then I heard that girl's singing...,あの子の歌が聞こえてきて,I heard that child's song,0.3636363636363637,0.531486
+Kawasaki Sakura's?,川咲さくらの？,Kawaki Sakura?,0.4,0.6776865
 I thought her singing sounded a lot like yours.,"彼女の歌声
 何だか お前に似てる気がした","Her singing voice
-Some felt like it is similar to you",0.16666666666666666
-Really? I can't tell myself.,そう？　自分じゃ分からないけど,Yes?I do not know in myself,0.23076923076923078
+Some felt like it is similar to you",0.16666666666666666,0.7449989
+Really? I can't tell myself.,そう？　自分じゃ分からないけど,Yes?I do not know in myself,0.2307692307692308,0.46582362
 You're the one who chose\Nnot to look at the resumes.,"履歴書 見なくていいって
 言ったのは お前だぞ","I do not have to look at the resume
-What I said is that",0.2
+What I said is that",0.2,0.66267914
 Mana's biological sister and a\Nmysterious girl with Mana's voice...,"麻奈の実の妹と
 麻奈の声を持つ謎の少女か","Minna's real sister
-Mystery girl with voices of Minna",0.26666666666666666
-So what's your verdict?,で どうする？,What do you do?,0.25
-Acceptance Letter\NNewcomer Discovery Project Results\N\N\NThank you for applying to the\NNewcomer Discovery Project.,今日から よろしく,Thank you for today,0.15384615384615385
-Kotono-chan!,（さくら）琴乃ちゃーん,Ayano-Chan,0.0
-Looking forward to working with you!,よろしく,nice to meet you,0.2222222222222222
-Makino is in charge of both of you.,牧野が君たちの担当だ,Makino is in charge of yours,0.5555555555555556
+Mystery girl with voices of Minna",0.26666666666666666,0.447636
+So what's your verdict?,で どうする？,What do you do?,0.25,0.17869651
+Acceptance Letter\NNewcomer Discovery Project Results\N\N\NThank you for applying to the\NNewcomer Discovery Project.,今日から よろしく,Thank you for today,0.15384615384615385,0.11297739
+Kotono-chan!,（さくら）琴乃ちゃーん,Ayano-Chan,0.0,0.6444863
+Looking forward to working with you!,よろしく,nice to meet you,0.2222222222222222,0.41874576
+Makino is in charge of both of you.,牧野が君たちの担当だ,Makino is in charge of yours,0.5555555555555556,0.85955256
 "There will be many challenges ahead, but I hope\Nto work hard and conquer them together.","これから大変なことも
 たくさんあると思いますが","It is also a big deal from now on
-I think there are many",0.10714285714285714
-Thank you!,よろしくね,Thank you,0.6666666666666666
+I think there are many",0.10714285714285714,0.13886036
+Thank you!,よろしくね,Thank you,0.6666666666666666,0.8314238
 Makino used to be Mana's assistant manager.,"麻奈のアシスタントマネージャー
 だったこともある","Mariani Assistant Manager
-It may have been",0.14285714285714285
-She did?,えっ？,eh?,0.25
+It may have been",0.14285714285714285,0.38125858
+She did?,えっ？,eh?,0.25,0.3372164
 "Well, it's a long story...","あの…　琴乃ちゃんのお姉さんって
 もしかして…","That ... Ayano-chan's sister
-Maybe ...",0.16666666666666666
+Maybe ...",0.16666666666666666,0.1236028
 "It just so happened that we sat next to\Neach other in class, so it was easy to ask.","たまたま同じクラスの隣の席で
 誘いやすかっただけだけど","Sometimes it's next to the same class
-I'm just easy to invite you",0.23076923076923078
-"Yeah, I'll explain later.",（牧野）ああ　後で説明する,ah later,0.125
-"Now, I'll give you both a tour of the office.",じゃあ 事務所の中を案内しよう,Well then let's guide you inside the office,0.15789473684210525
-You can leave your things there.,まあ いろいろあって,There are various things,0.2222222222222222
-So that's the story.,（牧野）そういうわけなんだ,That's why,0.2857142857142857
-Kotono-chan is Mana-chan's...!,琴乃ちゃんが麻奈ちゃんの…,Ayano-chan is Nana-chan ...,0.25
+I'm just easy to invite you",0.2307692307692308,0.47950178
+"Yeah, I'll explain later.",（牧野）ああ　後で説明する,ah later,0.125,0.41738206
+"Now, I'll give you both a tour of the office.",じゃあ 事務所の中を案内しよう,Well then let's guide you inside the office,0.15789473684210525,0.5356525
+You can leave your things there.,まあ いろいろあって,There are various things,0.2222222222222222,0.23068517
+So that's the story.,（牧野）そういうわけなんだ,That's why,0.2857142857142857,0.25112274
+Kotono-chan is Mana-chan's...!,琴乃ちゃんが麻奈ちゃんの…,Ayano-chan is Nana-chan ...,0.25,0.5730092
 "Anyway, I heard about your\Nhealth condition from your parents...","ところで君の体のことで
 ご両親から","By the way, about your body
-From my parents",0.3125
-I'm no good at all.,私 全然ダメだ,I'm not good at all,0.625
+From my parents",0.3125,0.39050302
+I'm no good at all.,私 全然ダメだ,I'm not good at all,0.625,0.88891405
 I do basic training regularly.,"基礎的なトレーニングは
 やってるから","Basic training
-Because I'm doing",0.3333333333333333
-As for me...,ハァ…,Hua ...,0.2
+Because I'm doing",0.3333333333333333,0.7830894
+As for me...,ハァ…,Hua ...,0.2,0.20456794
 Do you think you can really make it like that?,"それで
 本当にアイドルを目指すつもり？","Like that
-Are you really aiming for idol?",0.35714285714285715
+Are you really aiming for idol?",0.35714285714285715,0.30044824
 I believe in what I felt in my heart that day.,"あの時 感じた胸の高鳴りを
 信じてるから","I felt that when I felt that I felt
-Because I believe",0.3333333333333333
-Did they tell you about me?,（琴乃）私のことは聞いた？,did you hear me?,0.5
+Because I believe",0.3333333333333333,0.72106034
+Did they tell you about me?,（琴乃）私のことは聞いた？,did you hear me?,0.5,0.35398108
 "Yup, from Makino-san.","（さくら）あっ うん
-さっき牧野さんから",From Mr. Makino just,0.125
-What did you think?,（琴乃）どう思った？,What did you think?,1.0
+さっき牧野さんから",From Mr. Makino just,0.125,0.6408662
+What did you think?,（琴乃）どう思った？,What did you think?,1.0,0.9999998
 I was surprised!,"（さくら）驚いた
 琴乃ちゃん あの長瀬麻奈ちゃ…","I was surprised
-Ayano-chan That Nagase Asian ...",0.3333333333333333
-"I mean, Mana-san's younger  sister.",…さんの妹だったんだね,... Mr.'s sister,0.2
+Ayano-chan That Nagase Asian ...",0.3333333333333333,0.2688419
+"I mean, Mana-san's younger  sister.",…さんの妹だったんだね,... Mr.'s sister,0.2,0.40146858
 "Even I know who she is, when I\Ndon't know much about idols.","アイドルに詳しくない私でも
 麻奈さんのことは知ってるよ","Even if I am not familiar with the idol
-I know that I am",0.13636363636363635
+I know that I am",0.13636363636363635,0.758149
 You sang my older sister's song at the audition.,"オーディションの時
 お姉ちゃんの歌 歌ったよね","At the time of audition
-I sang my sister's song",0.5714285714285714
-Yup! I really like that song.,うん　あの歌 よく聞いてたから,Yeah I heard that song well,0.2727272727272727
+I sang my sister's song",0.5714285714285714,0.90130407
+Yup! I really like that song.,うん　あの歌 よく聞いてたから,Yeah I heard that song well,0.2727272727272727,0.65976554
 But what a coincidence that this was her agency!,"でも まさか ここが麻奈さんのいた
 芸能事務所だったなんて","But I was there
-It was an entertainment office",0.125
-"If we were to make our debut,\Ndoes that make us Mana-san's kouhais?",もし私たちがデビューしたら,If we debuted,0.125
-Onee-chan's not here anymore.,お姉ちゃんは もういない,My sister is no longer,0.0
+It was an entertainment office",0.125,0.28665712
+"If we were to make our debut,\Ndoes that make us Mana-san's kouhais?",もし私たちがデビューしたら,If we debuted,0.125,0.42472383
+Onee-chan's not here anymore.,お姉ちゃんは もういない,My sister is no longer,0.0,0.28284517
 Your regular lessons will start tomorrow.,"（牧野）本格的なレッスンは
 明日以降ということで","Lesson Lesson
-About after tomorrow",0.1
-Understood!,準備しといてくれ,Please prepare,0.0
+About after tomorrow",0.1,0.5902308
+Understood!,準備しといてくれ,Please prepare,0.0,0.21800031
 "You'll meet the other members soon, too.","あとグループのメンバーも
 紹介できるはずだ","After the group members
-You should be able to introduce",0.17647058823529413
+You should be able to introduce",0.17647058823529413,0.5256442
 I'm so curious about the other members!,"そっか
 麻奈さんも そうだったんだよね","I see
-Amana-san and she was so",0.14285714285714285
-Not really.,気にならない？,I do not mind?,0.14285714285714285
+Amana-san and she was so",0.14285714285714285,0.27817652
+Not really.,気にならない？,I do not mind?,0.14285714285714285,0.2364335
 I wanted to be a solo artist originally.,"私は本来
 １人での活動を希望してたから","I was originally
-Because I wanted activities with one person",0.2
-"Mana-san was, too, right?",（琴乃･さくら）お疲れさまでした,I was tired,0.125
+Because I wanted activities with one person",0.2,0.50632304
+"Mana-san was, too, right?",（琴乃･さくら）お疲れさまでした,I was tired,0.125,0.1302119
 "Hey, Onee-chan...","（琴乃）ねえ お姉ちゃん
 この子たちって…","Hey sister
-This child is ...",0.25
-Onee-chan...?,（麻奈）ハァ…,Hua ...,0.25
+This child is ...",0.25,0.26783004
+Onee-chan...?,（麻奈）ハァ…,Hua ...,0.25,0.2684701
 "I've decided that I want to be in the industry, become an idol!","決めた　私 芸能界 入る
 アイドルになる","I decide the private entertainment world
-Idol",0.15789473684210525
+Idol",0.15789473684210525,0.5364019
 It can't be that easy to be—,"（麻奈の母）
-そんな簡単になれるものじゃ…",It's easy to make it easy ...,0.2727272727272727
-I'm home.,なれるよ,I can,0.2
-Where's Onee-chan?,え？　琴乃が？,picture?Ayano?,0.16666666666666666
+そんな簡単になれるものじゃ…",It's easy to make it easy ...,0.2727272727272727,0.5670026
+I'm home.,なれるよ,I can,0.2,0.36668825
+Where's Onee-chan?,え？　琴乃が？,picture?Ayano?,0.16666666666666666,0.33037052
 She said it's another late night at work.,"（母）
-今日も お仕事で遅くなるって",Today she is late at work,0.3333333333333333
-What? Kotono said that?,ただいま　お姉ちゃんは？,What is your sister?,0.25
-Will you come see my performance\Nat the finals tomorrow?,明日の決勝 見に来られない？,Can you come to see the finals tomorrow?,0.5833333333333334
-You want me to witness your victory?,優勝する姿を見てほしいってこと？,Do you want to see the appearance of winning?,0.2857142857142857
+今日も お仕事で遅くなるって",Today she is late at work,0.3333333333333333,0.67858595
+What? Kotono said that?,ただいま　お姉ちゃんは？,What is your sister?,0.25,0.0331973
+Will you come see my performance\Nat the finals tomorrow?,明日の決勝 見に来られない？,Can you come to see the finals tomorrow?,0.5833333333333334,0.80920094
+You want me to witness your victory?,優勝する姿を見てほしいってこと？,Do you want to see the appearance of winning?,0.2857142857142857,0.5744066
 "No, there's a song I want you to hear.","違うよ
 琴乃に聴いてほしい歌があるの","No
-There is a song I want you to listen to Ayano",0.5333333333333333
+There is a song I want you to listen to Ayano",0.5333333333333333,0.67953193
 All they talk about at school is you.,"学校でも
 お姉ちゃんの話題ばかりで","At school
-Only the topic of my sister",0.13333333333333333
+Only the topic of my sister",0.13333333333333333,0.3958979
 Don't apologize.,"（麻奈）ごめん
-（琴乃）謝らないでよ",Do not apologize,0.4
-If this were the case...,こんなことなら いっそ…,If this is such a thing ...,0.3
-"Yes, this is Nagase.",（琴乃）はい　長瀬ですが,Yes Nagase,0.3333333333333333
-"Yes... Yes, I'm her younger sister.",ええ　はい　妹です,Yeah Yes Sister,0.2
-A diary...?,日記？,diary?,0.5
-See you later! I'm this way!,じゃあ 私こっちだから,So because I'm sorry,0.18181818181818182
-Can't wait for tomorrow!,明日から よろしくね,Thank you from tomorrow,0.1111111111111111
-You don't want me to tell your sister?,言わなくていいのか？　妹に,Don't you say that?Sister,0.4166666666666667
+（琴乃）謝らないでよ",Do not apologize,0.4,0.8468699
+If this were the case...,こんなことなら いっそ…,If this is such a thing ...,0.3,0.541805
+"Yes, this is Nagase.",（琴乃）はい　長瀬ですが,Yes Nagase,0.3333333333333333,0.84201586
+"Yes... Yes, I'm her younger sister.",ええ　はい　妹です,Yeah Yes Sister,0.2,0.6424089
+A diary...?,日記？,diary?,0.5,0.86704016
+See you later! I'm this way!,じゃあ 私こっちだから,So because I'm sorry,0.18181818181818185,0.13602524
+Can't wait for tomorrow!,明日から よろしくね,Thank you from tomorrow,0.1111111111111111,0.57942975
+You don't want me to tell your sister?,言わなくていいのか？　妹に,Don't you say that?Sister,0.4166666666666667,0.6124828
 """Your older sister has unfinished business,\Nso she's still lingering around as a ghost""?","“お前の姉は
 やり残したことがあって⸺”","""Your sister
-She has left behind. """,0.23809523809523808
-I would word it a little differently...,言い方は もうちょっと選ぶけど,How to say is a little more,0.15384615384615385
+She has left behind. """,0.2380952380952381,0.71541476
+I would word it a little differently...,言い方は もうちょっと選ぶけど,How to say is a little more,0.15384615384615385,0.40198293
 Kotono's probably trying\Nto become an idol for me.,"琴乃は きっと私のために
 アイドルになろうとしてる","Ayano surely for me
-I'm trying to be an idol",0.23529411764705882
+I'm trying to be an idol",0.2352941176470588,0.50837713
 She's trying to achieve the thing I left undone.,"私のやり残したことを
 代わりに果たそうとしてくれてる","What I left me
-I'm going to fulfill it instead",0.16666666666666666
-I can never be happier.,（麻奈）言えるわけないじゃない,I can not say,0.25
-That's why...,だから⸺,that's why⸺,0.4
-Field training?,野外トレーニング？,Outdoor Training?,0.5
-Let's try singing here.,ここで歌ってみよう,Let's sing here,0.42857142857142855
-What? But there's people around...,（さくら）ひ… 人がいますけど,... but there are people,0.4444444444444444
+I'm going to fulfill it instead",0.16666666666666666,0.42704877
+I can never be happier.,（麻奈）言えるわけないじゃない,I can not say,0.25,0.250524
+That's why...,だから⸺,that's why⸺,0.4,0.5786793
+Field training?,野外トレーニング？,Outdoor Training?,0.5,0.6635466
+Let's try singing here.,ここで歌ってみよう,Let's sing here,0.42857142857142855,0.7884958
+What? But there's people around...,（さくら）ひ… 人がいますけど,... but there are people,0.4444444444444444,0.75993514
 You'll eventually sing in front\Nof even more people.,"いずれ
 もっと多くの人の前で歌うんだ","Either
-I sing in front of more people",0.2857142857142857
-It's better to get used to that now.,今のうちに慣れておこう,Let's get used to it now,0.6
+I sing in front of more people",0.2857142857142857,0.7875252
+It's better to get used to that now.,今のうちに慣れておこう,Let's get used to it now,0.6,0.6448705
 But singing on stage and\Nsinging at a place like this is—,"でもステージで歌うのと
 こんな場所で歌うのとじゃ","But to sing at the stage
-If you sing in such a place",0.2777777777777778
+If you sing in such a place",0.2777777777777778,0.8416032
 The same.,"同じだよ
 ステージは用意されるものじゃない","It is the same
-Stage is not prepared",0.25
+Stage is not prepared",0.25,0.10960213
 This is the place where a certain idol\Noften came to practice singing.,"練習のために
 よく歌ってた場所なんだ","For exercise
-It is a place where you sang well",0.21052631578947367
-"Could that ""certain idol"" be...?",そのアイドルって…,That idol ...,0.3333333333333333
+It is a place where you sang well",0.21052631578947367,0.64916474
+"Could that ""certain idol"" be...?",そのアイドルって…,That idol ...,0.3333333333333333,0.67232215
 I'll do it.,"（琴乃）やります
 （さくら）琴乃ちゃん","I will do it
- Ayano-chan",0.42857142857142855
-"I would watch her, too, sometimes.",私も時々 見ていました,I was watching sometimes,0.2
-My older sister singing here...,姉が ここで歌を歌っているのを,My sister sings a song here,0.3333333333333333
-"All right, so let's get singing.",よし　歌ってみようか,Let's try to sing,0.16666666666666666
-"Sakura, are you ready?",（琴乃）さくら　準備はいい？,good preparation for Sakura?,0.2222222222222222
-Y-Yeah!,えっ　あの！　牧野さん,Eh!Mr. Makino,0.16666666666666666
+ Ayano-chan",0.42857142857142855,0.41794676
+"I would watch her, too, sometimes.",私も時々 見ていました,I was watching sometimes,0.2,0.50176275
+My older sister singing here...,姉が ここで歌を歌っているのを,My sister sings a song here,0.3333333333333333,0.8120692
+"All right, so let's get singing.",よし　歌ってみようか,Let's try to sing,0.16666666666666666,0.69335634
+"Sakura, are you ready?",（琴乃）さくら　準備はいい？,good preparation for Sakura?,0.2222222222222222,0.70463276
+Y-Yeah!,えっ　あの！　牧野さん,Eh!Mr. Makino,0.16666666666666666,0.22843812
 Sakura's voice... It really sounds like her.,"（琴乃）
-さくらの歌声 やっぱり似てる",Sakura's singing voice and all similar,0.21428571428571427
-Yeah!,あら そう,Oh yeah,0.3333333333333333
+さくらの歌声 やっぱり似てる",Sakura's singing voice and all similar,0.21428571428571427,0.84895265
+Yeah!,あら そう,Oh yeah,0.3333333333333333,0.6759294
 "People called her ""that girl after school.""","（男性）
-“放課後のあの子”なんて呼ばれて","""A child after school"" is called",0.38461538461538464
-I'm her younger sister.,あ はい　妹です,Yes sister,0.14285714285714285
+“放課後のあの子”なんて呼ばれて","""A child after school"" is called",0.38461538461538464,0.603629
+I'm her younger sister.,あ はい　妹です,Yes sister,0.14285714285714285,0.5427955
 Best of luck to you both!,"（女性）
-あなた 麻奈ちゃんに似てるわね",You're similar to you,0.2222222222222222
-You're not trying to imitate her?,マネしてるわけじゃないの？,Aren't you manning?,0.18181818181818182
-You do sound like her.,ありがとうございます,Thank you,0.14285714285714285
+あなた 麻奈ちゃんに似てるわね",You're similar to you,0.2222222222222222,0.15347667
+You're not trying to imitate her?,マネしてるわけじゃないの？,Aren't you manning?,0.18181818181818185,0.21311451
+You do sound like her.,ありがとうございます,Thank you,0.14285714285714285,0.098622315
 It's the color... or the feel of your voice.,"似てると思う
 色というか空気というか","Like
-Color or air",0.15384615384615385
-"Even I think so, as her sister.",妹の私が聴いても そう思う,I think so even if I listen,0.36363636363636365
+Color or air",0.15384615384615385,0.43395424
+"Even I think so, as her sister.",妹の私が聴いても そう思う,I think so even if I listen,0.3636363636363637,0.3924015
 It used to be some kind of recreation facility.,"（牧野）
-前は何かの保養施設だったらしい",It seems that it was a recreation facility before,0.2
-Your things should be delivered already.,荷物は届いてるはずだから,Because luggage should arrive,0.1
+前は何かの保養施設だったらしい",It seems that it was a recreation facility before,0.2,0.9177382
+Your things should be delivered already.,荷物は届いてるはずだから,Because luggage should arrive,0.1,0.3934262
 Are they...?,"（沙季(さき)）あっ 牧野さん
 その２人は…",") A Makino-san
-The two are ...",0.2222222222222222
+The two are ...",0.2222222222222222,0.18660538
 "I want to introduce them,\Nso let's gather in the living room.","紹介したいから
 リビングに集まってもらえるかな","Because I want to introduce
-I wonder if I can gather in the living room",0.47368421052631576
-A third-year in high school.,（沙季）白石(しらいし)沙季 高校３年生です,Shiraishi Shiraishi High School 3rd Grader,0.2222222222222222
+I wonder if I can gather in the living room",0.4736842105263158,0.71816057
+A third-year in high school.,（沙季）白石(しらいし)沙季 高校３年生です,Shiraishi Shiraishi High School 3rd Grader,0.2222222222222222,0.48265105
 It's nice to meet you.,"（千紗(ちさ)）妹の白石千紗です
 よろしくお願いします","sister's sister Shiraishi Chika
-thank you",0.18181818181818182
+thank you",0.18181818181818185,0.11770613
 I am the one and only Narumiya Suzu.,"成宮と聞いて ピンと来た人も
 いるかもしれないけど","People who heard and heard the pins
-It may be",0.125
-I am the daughter of the\Nprestigious Narumiya family.,正真正銘 あの成宮家の令嬢ですわ,It is a typo of the November family,0.21428571428571427
+It may be",0.125,0.06388194
+I am the daughter of the\Nprestigious Narumiya family.,正真正銘 あの成宮家の令嬢ですわ,It is a typo of the November family,0.21428571428571427,0.20959763
 What is with the pathetic reaction?!,"何ですの？
 その うっすーいリアクションは","What is it?
-Her う す す リ",0.23076923076923078
-Saki-san seems more high-class to me.,もっと驚いてくれて構いませんのよ,I do not want to be more surprised,0.15384615384615385
-I heard that!,聞こえていますわよ,I hear it,0.16666666666666666
-"I'm Kawasaki Sakura, nice to meet you.",あっ　川咲さくらです　よろしく,Achikawa Sakura Thank you,0.16666666666666666
-I'm Nagase Kotono.,妹です,I'm my sister,0.2857142857142857
-Nagase? Are you...?,えっ 長瀬って…,Eh Nagase ...,0.3333333333333333
-You look like her.,似てる,look like,0.4
-Huh? What is it?,ん？　何ですの？,Yeah?What is it?,0.6666666666666666
-"The room next to me should be open, too.",俺の隣も空いてるはずだし　ん？,Should I be open next to me?,0.46153846153846156
+Her う す す リ",0.2307692307692308,0.04210082
+Saki-san seems more high-class to me.,もっと驚いてくれて構いませんのよ,I do not want to be more surprised,0.15384615384615385,0.12246624
+I heard that!,聞こえていますわよ,I hear it,0.16666666666666666,0.6324
+"I'm Kawasaki Sakura, nice to meet you.",あっ　川咲さくらです　よろしく,Achikawa Sakura Thank you,0.16666666666666666,0.54784906
+I'm Nagase Kotono.,妹です,I'm my sister,0.2857142857142857,0.32790056
+Nagase? Are you...?,えっ 長瀬って…,Eh Nagase ...,0.3333333333333333,0.84840727
+You look like her.,似てる,look like,0.4,0.55057424
+Huh? What is it?,ん？　何ですの？,Yeah?What is it?,0.6666666666666666,0.8436696
+"The room next to me should be open, too.",俺の隣も空いてるはずだし　ん？,Should I be open next to me?,0.4615384615384616,0.6911412
 "Um... Makino-san, will you be staying here, too?","（沙季）あの…
 ひょっとして牧野さんも ここに？","That ...
-Hiyoshi Makino is here here?",0.2
+Hiyoshi Makino is here here?",0.2,0.5445806
 "Yeah, I moved here a little while ago\Nas sort of a supervisor...","管理人ってわけじゃないけど
 少し前に移ってきて","It is not a manager
-I moved a little before",0.2222222222222222
-All girls can be a little—,女の子だけじゃ 何かと…,Something with only girls ...,0.1
-Um... What's wrong?,え…　どうした？,Eh ... What happened?,0.375
-Why do I have to stay in a shed?,なんで俺だけ こんな物置に,Why is I just like this,0.14285714285714285
-What does that mean?,（牧野）どういう意味だよ,What does it mean?,0.6666666666666666
+I moved a little before",0.2222222222222222,0.48807865
+All girls can be a little—,女の子だけじゃ 何かと…,Something with only girls ...,0.1,0.5223428
+Um... What's wrong?,え…　どうした？,Eh ... What happened?,0.375,0.53631663
+Why do I have to stay in a shed?,なんで俺だけ こんな物置に,Why is I just like this,0.14285714285714285,0.22680882
+What does that mean?,（牧野）どういう意味だよ,What does it mean?,0.6666666666666666,0.7075201
 "Don't worry, I'll watch over\Nthe girls in the dorm.","まあ 寮のみんなは
 私が見張っといてあげるから","Well everyone in the dormitory
-Because I will see you",0.15
+Because I will see you",0.15,0.52577394
 It seems like it'll be lively\Nand fun around here.,"（さくら）
-にぎやかで楽しくなりそうだね",It's going to be fun and fun,0.21428571428571427
-Huh?! What is this?! How do I stop it?,どうやって止めるの？,How do you stop?,0.3333333333333333
+にぎやかで楽しくなりそうだね",It's going to be fun and fun,0.21428571428571427,0.55077416
+Huh?! What is this?! How do I stop it?,どうやって止めるの？,How do you stop?,0.3333333333333333,0.49607047
 Wait! W-W-Wait a minute! Hold on! Please!,"ちょっと待って お願いだから
 （琴乃）フフ","Wait a minute and ask me
- Huff",0.25
+ Huff",0.25,0.2849728
 K-Kotono-chan! Help me!,"（さくら）ねえ 琴乃ちゃん 助けて
 うわ～","Help Help Help
-Wow",0.2
+Wow",0.2,0.30965075

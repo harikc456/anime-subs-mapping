@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Connecting old words</i>
 <i>that have been used up</i>","♬
  
@@ -6,7 +6,7 @@ en_text,jp_text,google_translated,score
 
 ","♬
  
-Now connect words",0.06666666666666667
+Now connect words",0.06666666666666668,0.57157844
 "<i>I just want to convey</i>
 <i>my simple thoughts</i>","♬
  
@@ -14,7 +14,7 @@ Now connect words",0.06666666666666667
 
 ","♬
  
-I just want to convey my thoughts",0.5833333333333334
+I just want to convey my thoughts",0.5833333333333334,0.656506
 <i>That day's faint wind blows away</i>,"♬
  
 吹き抜ける
@@ -23,7 +23,7 @@ I just want to convey my thoughts",0.5833333333333334
 ","♬
  
 Blow through
-The wind of that day is",0.17647058823529413
+The wind of that day is",0.17647058823529413,0.7185055
 "<i>I'll laugh with you</i>
 <i>and live for the moment</i>","♬
  
@@ -35,7 +35,7 @@ The wind of that day is",0.17647058823529413
  
 Laugh with you
  
-Live now",0.26666666666666666
+Live now",0.26666666666666666,0.70497155
 "<i>Still that incident</i>
 <i>will continue to trouble you, right?</i>","♬
  
@@ -43,14 +43,14 @@ Live now",0.26666666666666666
 
 ","♬
  
-Will you suffer from you?",0.16666666666666666
+Will you suffer from you?",0.16666666666666666,0.3936522
 <i>That's why it must be good bye</i>,"♬
  
 だからこそサヨナラなんだ
 
 ","♬
  
-That's why it is a goodbye",0.25
+That's why it is a goodbye",0.25,0.6702666
 "<i>Leaving nothing behind,</i>
 <i>let us share what is left</i>","♬
  
@@ -58,7 +58,7 @@ That's why it is a goodbye",0.25
 
 ","♬
  
-Nothing remains as it is",0.1111111111111111
+Nothing remains as it is",0.1111111111111111,0.42120808
 "<i>In time, we'll realize</i>
 <i>that it was everything</i>","♬
  
@@ -66,7 +66,7 @@ Nothing remains as it is",0.1111111111111111
 
 ","♬
  
-I realize that it is everything",0.3125
+I realize that it is everything",0.3125,0.49161035
 "<i>And sadness will touch our cheeks,</i>
 <i>creating a river of tears</i>","♬
  
@@ -74,7 +74,7 @@ I realize that it is everything",0.3125
 
 ","♬
  
-Just become a river of tears",0.21052631578947367
+Just become a river of tears",0.21052631578947367,0.6167911
 "<i>Trembling thoughts swept into a vortex</i>
 <i>and melting away</i>","♬
  
@@ -82,7 +82,7 @@ Just become a river of tears",0.21052631578947367
 
 ","♬
  
-I'm melting",0.13333333333333333
+I'm melting",0.13333333333333333,0.40056202
 Fire Style! Fire Ball Jutsu!,"(ｻｽｹ)
 《火[外:99C09079206BA433E50523B592C8055A]
  
@@ -90,35 +90,35 @@ Fire Style! Fire Ball Jutsu!,"(ｻｽｹ)
 
 ","""Fire: 99C09079206BA433E50523B592C8055A]
  
-Top of the sphere!""",0.14285714285714285
+Top of the sphere!""",0.14285714285714285,0.4351729
 <i>Wh-What is that Jutsu?!</i>,"《何だ？
  
 あの術は！》
 
 ","""What?
  
-That technique!""",0.21428571428571427
+That technique!""",0.21428571428571427,0.20296228
 Damn it!,"くそが！
 
-",Damn!,0.6666666666666666
+",Damn!,0.6666666666666666,0.71823144
 Chidori: One Thousand Birds!,"千鳥‼
 
-",Chidori!,0.3333333333333333
+",Chidori!,0.3333333333333333,0.7342198
 I'll win no matter what!,"(ﾅﾙﾄ)
 絶対勝つ！
 いい気になってんじゃねえ！
 
 ","I win absolute!
-I'm not interested!",0.2727272727272727
+I'm not interested!",0.2727272727272727,0.62664706
 Stop it!,"(ｻｸﾗ)
 やめてよ～！
 
-",Stop it!,1.0
+",Stop it!,1.0,1.0
 The security sucks.,"警備がなってねえぜよ
 ｡
 
 ","Security is gone
-.",0.3333333333333333
+.",0.3333333333333333,0.6836742
 "We should just massacre everybody
 in such a seedy village.","(
 左近
@@ -131,7 +131,7 @@ in such a seedy village.","(
 ","Hung
  
 Such
-Noni of the village",0.13333333333333333
+Noni of the village",0.13333333333333333,0.37843978
 "Calm down, Sakon.","(
 鬼童丸
 )
@@ -143,7 +143,7 @@ Noni of the village",0.13333333333333333
 ","Calm down
  
 Left
-.",0.5
+.",0.5,0.58886874
 We haven't come here to fight.,"(
 次郎坊
 )
@@ -153,7 +153,7 @@ We haven't come here to fight.,"(
 
 ","we
 I have not come to the battle
-.",0.4166666666666667
+.",0.4166666666666667,0.73918927
 "If you're scared,","ビビったんなら
  
 うち帰って
@@ -164,7 +164,7 @@ I have not come to the battle
  
 Homely
 Sleep
-.",0.2222222222222222
+.",0.2222222222222222,0.33188134
 "I'm telling you to calm down, Tayuya.","(
 鬼童丸
 )
@@ -180,13 +180,13 @@ Sleep
 Calm
 I'm telling you
  
-Atsuya Toya!➡",0.29411764705882354
+Atsuya Toya!➡",0.29411764705882354,0.60778815
 "You understand what
 our job is this time, right?","今回の俺たちの仕事は
 分かってんだろ？
 
 ","Our work of this time
-Do you understand?",0.42857142857142855
+Do you understand?",0.42857142857142855,0.6971199
 "Let's go.
 We escort our special guest.","行くぜよ
  
@@ -198,13 +198,13 @@ We escort our special guest.","行くぜよ
  
 Special guest
 Escort
-.",0.3333333333333333
+.",0.3333333333333333,0.7554141
 <i>I can't stop completely.</i>,"やめてよ～‼
 
-",Stop it!,0.1
+",Stop it!,0.1,0.39816746
 <i>Kakashi Sensei?</i>,"《カカシ先生!?》
 
-","""teacher Kakashi!?""",0.18181818181818182
+","""teacher Kakashi!?""",0.18181818181818185,0.56346405
 <i>Naruto... That thing you just did was...</i>,"(ｶｶｼ)
 《ナルト
  
@@ -212,7 +212,7 @@ Escort
 
 ","""Naruto
  
-Now ... """,0.14285714285714285
+Now ... """,0.14285714285714285,0.7093277
 "What're you guys doing
 up on top of the hospital?","(ｶｶｼ)
 病院の上で
@@ -221,13 +221,13 @@ up on top of the hospital?","(ｶｶｼ)
 
 ","On the hospital
  
-What are you doing?➡",0.5
+What are you doing?➡",0.5,0.79259014
 "You went a bit too far
 for just a fight, you two.","君たち
 ｡
 
 ","you guys
-.",0.15384615384615385
+.",0.15384615384615385,0.28210652
 <i>How can Naruto use that Jutsu...?</i>,"(ｶｶｼ)
 《どうなってる？
  
@@ -241,7 +241,7 @@ for just a fight, you two.","君たち
 why
 Naruto guy
  
-That technologies ... """,0.2631578947368421
+That technologies ... """,0.2631578947368421,0.58312535
 "Were you going to kill Naruto, Sasuke?","(ｶｶｼ)
 ナルトを殺す気だったのか？
 サスケ
@@ -249,14 +249,14 @@ That technologies ... """,0.2631578947368421
 
 ","Did you feel like killing Naruto?
 Sasuke
-.",0.2857142857142857
+.",0.2857142857142857,0.8765029
 at a comrade of the same village.,"同じ里の仲間に向ける
 大きさじゃなかったが…
 ｡
 
 ","Toward the same village friend
 It was not a size ...
-.",0.3333333333333333
+.",0.3333333333333333,0.5097822
 Why such infantile behavior...?,"(ｶｶｼ)
 何で
  
@@ -272,7 +272,7 @@ Such
 Child
  
 Imitation
-.",0.2222222222222222
+.",0.2222222222222222,0.52446663
 "<i>Sure enough, a reunion with Itachi...</i>","(ｶｶｼ)
 《やはり
  
@@ -280,21 +280,21 @@ Imitation
 
 ","""also
  
-Reunion with Itachi ...",0.2857142857142857
+Reunion with Itachi ...",0.2857142857142857,0.8483777
 Sasuke.,"フン
 ｡
 
 ","Hung
-.",0.3333333333333333
+.",0.3333333333333333,0.147182
 <i>Damn it!</i>,"くそ！
 
-",Fuck!,0.125
+",Fuck!,0.125,0.31701005
 Kakashi Sensei...,"(ｶｶｼ)
 はぁ…
 ｡
 
 ","...
-.",0.25
+.",0.25,0.12681082
 "Was it you...
 who taught him that technique?","(ｶｶｼ)
 あなたですか
@@ -305,7 +305,7 @@ who taught him that technique?","(ｶｶｼ)
 ","you
 I taught that skill
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.4647556
 "I think Naruto is still too young
 to be handling that Jutsu.","ナルトは
  
@@ -317,7 +317,7 @@ to be handling that Jutsu.","ナルトは
  
 not yet
 I think she is too young
-.",0.4375
+.",0.4375,0.71130675
 "He could've killed Sasuke
 had something gone wrong...","(ｶｶｼ)
 下手したら
@@ -328,22 +328,22 @@ had something gone wrong...","(ｶｶｼ)
 ","If you
 I killed Sasuke
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.6625103
 "Even if it's a means of resisting
 the Akatsuki,","例の暁への抵抗手段だとしても➡
 
-",Even if it is a means of resistance to the example of the example,0.4666666666666667
+",Even if it is a means of resistance to the example of the example,0.4666666666666667,0.38279456
 "to think you would teach Naruto
 that Jutsu...","あの術をナルトに教えるなんて
 ｡
 
 ","Teach that technique to Naruto
-.",0.36363636363636365
+.",0.3636363636363637,0.7554505
 That Chidori was also considerably hairy.,"あの千鳥も相当ヤバかったしの
 ｡
 
 ","That one thousand bird was quite good
-.",0.25
+.",0.25,0.29839084
 "Or is it that there's something quite
 complicated between him and that kid?","それとも
  
@@ -353,14 +353,14 @@ complicated between him and that kid?","それとも
 ","Or
  
 There is a good thing
-Is it between that oyster?",0.3888888888888889
+Is it between that oyster?",0.3888888888888889,0.2376053
 All sorts?,"いろいろ？
 
-",various?,0.25
+",various?,0.25,0.65954053
 "Quite simply, it's a relationship","(ｶｶｼ)
 簡単に言えば➡
 
-","Simply put, ➡",0.2222222222222222
+","Simply put, ➡",0.2222222222222222,0.34706914
 I see.,"(
 自来也
 )
@@ -368,7 +368,7 @@ I see.,"(
 ｡
 
 ","law
-.",0.25
+.",0.25,0.16362476
 "Well, someone he considers
 an equal.","まっ
  
@@ -382,7 +382,7 @@ an equal.","まっ
 Always equal
 A man who wants to exist
 .
-➡",0.11764705882352941
+➡",0.1176470588235294,0.54066765
 "Most likely, he couldn't take
 Sasuke's cheap provocation.","恐らく
  
@@ -396,21 +396,21 @@ Sasuke's cheap provocation.","恐らく
 In the cheap provocation of the Sasuke
 I could not withstand
 .
-➡",0.25
+➡",0.25,0.7967607
 Chasing him since the Academy days.,"追っかけてきましたからね
 ｡
 
 ","I'm chasing
-.",0.2222222222222222
+.",0.2222222222222222,0.44486797
 <i>Are you hurt...</i>,"＜ケガはねえかよ？➡
 
-",<Are you hey?➡,0.2727272727272727
+",<Are you hey?➡,0.2727272727272727,0.35097283
 <i>Sasuke!</i>,"サスケ～！＞
 
-",Sasuke ~!>,0.42857142857142855
+",Sasuke ~!>,0.42857142857142855,0.9281929
 <i>I won't lose to you!</i>,"《お前だけには負けねえ！》
 
-","""You can only lose yourself!""",0.2
+","""You can only lose yourself!""",0.2,0.51734173
 "For him, it's neither you
 nor me now...","(ｶｶｼ)
 今のナルトは
@@ -421,7 +421,7 @@ nor me now...","(ｶｶｼ)
 ","Naruto now
 Me
  
-Not your",0.14285714285714285
+Not your",0.14285714285714285,0.33882457
 More than anyone...,"誰からよりも
  
 ただ
@@ -430,26 +430,26 @@ More than anyone...,"誰からよりも
 ","Anyone than anyone
  
 just
-I would like to admit",0.2
+I would like to admit",0.2,0.3910389
 he wants to be recognized by Sasuke.,"サスケにね
 ｡
 ➡
 
 ","Sasuke
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.66253996
 On the other side of the coin...,"その一方で➡
 
-",On the other hand,0.375
+",On the other hand,0.375,0.4148927
 "Sasuke feels the speed of Naruto's growth
 at close range and feels inferior.","サスケはナルトの成長スピードを
 身近で感じて➡
 
 ","Sasuke is the growth speed of Naruto
-Feel familiar",0.35294117647058826
+Feel familiar",0.35294117647058826,0.8820377
 <i>Summoning Jutsu!</i>,"口寄せの術！＞
 
-",Callege of mouth!>,0.2
+",Callege of mouth!>,0.2,0.21022752
 And Sasuke...,"それに
  
 サスケは…
@@ -458,7 +458,7 @@ And Sasuke...,"それに
 ","in addition
  
 Sasuke ...
-.",0.3333333333333333
+.",0.3333333333333333,0.91584224
 "<i>I'm going to kill a certain man,</i>
 <i>no matter what.</i>","＜ある男を必ず
  
@@ -466,7 +466,7 @@ Sasuke ...
 
 ","<Always have a man
  
-It is killing>",0.2
+It is killing>",0.2,0.5339711
 "I wonder if Itachi
 is frustrating that kid.","自分がまるで
  
@@ -478,7 +478,7 @@ is frustrating that kid.","自分がまるで
  
 As long as it is not growing
 I think so
-.",0.17647058823529413
+.",0.17647058823529413,0.06872907
 "So Sasuke doesn't want
 to acknowledge Naruto.","(ｶｶｼ)
 だから
@@ -493,14 +493,14 @@ to acknowledge Naruto.","(ｶｶｼ)
 Sasuke
 I do not want to recognize Naruto
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.8453047
 Rivalry is a difficult thing,"難しいもんです
 ライバルってのはね
 ｡
 
 ","It is difficult
 Rival is a rival
-.",0.375
+.",0.375,0.8735174
 It's not a very good trend...,"あまり
  
 いい傾向じゃねえのう
@@ -509,11 +509,11 @@ It's not a very good trend...,"あまり
 ","not much
  
 It's not a good trend
-.",0.6
+.",0.6,0.8287157
 Then I leave Naruto to you.,"(ｶｶｼ)
 では ナルトを お任せします｡➡
 
-",So he will leave Naruto.,0.3
+",So he will leave Naruto.,0.3,0.7191086
 "Well, I have a mission.
 And there's the Chidori thing, too...","まっ
  
@@ -525,29 +525,29 @@ And there's the Chidori thing, too...","まっ
  
 I also have a task
 Because there is also a thousand bird
-.",0.22727272727272727
+.",0.2272727272727273,0.38874242
 Sakura.,"元気出せ
 ｡
 ➡
 
 ","Original
 .
-➡",0.25
+➡",0.25,0.20799375
 See ya.,"じゃあな
 ｡
 
 ","See you
-.",0.5
+.",0.5,0.67967236
 Naruto...,"ナルト
 ｡
 
 ","Naruto
-.",0.3333333333333333
+.",0.3333333333333333,0.96461326
 Don't interfere with us!,"邪魔しないでくれってばよ
 ｡
 
 ","If you don't disturb you
-.",0.2
+.",0.2,0.32101443
 <i>Why are you weak?</i>,"(ｲﾀﾁ)
 ＜お前は弱い
 ｡
@@ -555,27 +555,27 @@ Don't interfere with us!,"邪魔しないでくれってばよ
 
 ","<You are weak
 .
-➡",0.36363636363636365
+➡",0.3636363636363637,0.79006433
 <i>...hate.</i>,"＜うおっ！＞
 
-",<Uo!>,0.25
+",<Uo!>,0.25,0.29357368
 <i>up until now?</i>,"《今まで
  
 俺は…➡
 
 ","""until now
  
-I ... ➡",0.2727272727272727
+I ... ➡",0.2727272727272727,0.62373203
 He got a nice look in those eyes.,"いい目をしてる
 ｡
 
 ","I have a good eye
-.",0.15384615384615385
+.",0.15384615384615385,0.511505
 Shall we go soon?,"そろそろ行くか
 ｡
 
 ","Do you go soon
-.",0.25
+.",0.25,0.6220648
 "If I don't do this,
 you'll run away, right?","(ｶｶｼ)
 こうでもしないと
@@ -586,7 +586,7 @@ you'll run away, right?","(ｶｶｼ)
 ","In this case
 you
  
-Will you run away?➡",0.3125
+Will you run away?➡",0.3125,0.68758154
 "You're not the type
 to listen quietly to lectures.","おとなしく説教
  
@@ -598,7 +598,7 @@ to listen quietly to lectures.","おとなしく説教
  
 listen
 It's not a type
-.",0.26666666666666666
+.",0.26666666666666666,0.48439205
 "As I recall,
 that's Kakashi the Copy Ninja.","あいつは
  
@@ -610,7 +610,7 @@ that's Kakashi the Copy Ninja.","あいつは
  
 Sure
 Copy ninja's Kakasai
-.",0.2857142857142857
+.",0.2857142857142857,0.71065044
 "Sasuke... Forget about something
 like revenge.","(ｶｶｼ)
 サスケ
@@ -619,16 +619,16 @@ like revenge.","(ｶｶｼ)
 
 ","Sasuke
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.73653674
 What?,"何？
 
-",what?,1.0
+",what?,1.0,1.0
 "Well, in this business
 I've seen a stink of guys like you.","お前のようなヤツは
 腐るほど見てきたが➡
 
 ","Your guy is
-I've seen it as it rot, but",0.18181818181818182
+I've seen it as it rot, but",0.18181818181818185,0.31688738
 "But the final days of those who speak
 of revenge are never good.","復しゅうを口にしたヤツの末路は
 ろくなもんじゃない
@@ -638,12 +638,12 @@ of revenge are never good.","復しゅうを口にしたヤツの末路は
 ","The end of the guy who made the recovery
 It is not a good
 .
-➡",0.22727272727272727
+➡",0.2272727272727273,0.21621165
 They're tragic.,"チッ
 ｡
 
 ","Chick
-.",0.2
+.",0.2,0.041157164
 "You'll only hurt yourself and
 agonize more than now.","(ｶｶｼ)
 今より
@@ -658,14 +658,14 @@ agonize more than now.","(ｶｶｼ)
 Hurt more
 I'm just going to worry about it
 .
-➡",0.2
+➡",0.2,0.5625022
 What do you know?,"黙れ！
  
 あんたに何が分かる!?
 
 ","shut up!
  
-What do you know?",0.625
+What do you know?",0.625,0.48559904
 "Well, calm down...","(ｶｶｼ)
 まぁ
  
@@ -675,13 +675,13 @@ What do you know?",0.625
 ","Maic
  
 Calm
-.",0.14285714285714285
+.",0.14285714285714285,0.40086347
 "shall I go and kill the person
 most important to you?","あんたのいちばん大事な人間を
 殺してやろうか？
 
 ","Annoya's most important person
-Shall we kill?",0.4
+Shall we kill?",0.4,0.6028043
 on what you just said.,"今
  
 あんたが言ったことが
@@ -694,7 +694,7 @@ on what you just said.,"今
 What I said
 How much
  
-Are you out?",0.23076923076923078
+Are you out?",0.2307692307692308,0.33757126
 Everyone's already been killed.,"(ｶｶｼ)
 もう
  
@@ -704,7 +704,7 @@ Everyone's already been killed.,"(ｶｶｼ)
 ","Already
  
 Everyone is killed
-.",0.5714285714285714
+.",0.5714285714285714,0.91809803
 I've lived longer than you have...,"(ｶｶｼ)
 俺も
  
@@ -716,14 +716,14 @@ I've lived longer than you have...,"(ｶｶｼ)
  
 Live longer than you
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.73001975
 The times were not good.,"時代も悪かった
 ｡
 ➡
 
 ","The times were bad
 .
-➡",0.5
+➡",0.5,0.85058504
 "I know all too well
 the agony of losing something.","失う苦しみは
 嫌ってほど知ってるよ
@@ -731,14 +731,14 @@ the agony of losing something.","失う苦しみは
 
 ","Lose suffering
 I know so much
-.",0.2
+.",0.2,0.631223
 That's for darned sure.,"それは確かだ
 ｡
 ➡
 
 ","That's true
 .
-➡",0.375
+➡",0.375,0.2545748
 "But we're not the worst, either.","でも
  
 最悪でもない
@@ -749,7 +749,7 @@ That's for darned sure.,"それは確かだ
  
 It is not the worst
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.60425365
 "It's because I have lost
 that I understand.","(ｶｶｼ)
 失ってるからこそ分かる
@@ -758,14 +758,14 @@ that I understand.","(ｶｶｼ)
 
 ","It is understood because it is lost
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6495849
 The Chidori is a power...,"与えた力だ
 ｡
 ➡
 
 ","It is the power given
 .
-➡",0.3
+➡",0.3,0.4497602
 "and I'm sure you know
 what it should be used for.","何のために使う力か
 お前なら分かってるはずだ
@@ -775,24 +775,24 @@ what it should be used for.","何のために使う力か
 ","What to use for what
 You should know if you
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.5230702
 "Think hard about whether or not
 what I'm saying is wrong.","俺の言ってることが
 ズレてるかどうか➡
 
 ","What I say
-Whether or not",0.35714285714285715
+Whether or not",0.35714285714285715,0.43622634
 So let's wait a bit.,"少し待つぜよ
 ｡
 
 ","Wait a little
-.",0.375
+.",0.375,0.43757743
 "Maybe jerks like you'd be no good.
 But I could do it.","お前らみたいな
 くそ野郎どもじゃダメでも➡
 
 ","I like you
-Even if it is no longer",0.2777777777777778
+Even if it is no longer",0.2777777777777778,0.15310368
 "I wonder. ""Two""
 should be ample to rip him apart.","フッ
  
@@ -812,7 +812,7 @@ Two people
 sufficient
  
 Ba ~ Rabara
-.",0.2
+.",0.2,0.3110232
 "Don't be butting in all the time,
 you clod.","いちいち口出しするな
 ゲス野郎が
@@ -820,7 +820,7 @@ you clod.","いちいち口出しするな
 
 ","Don't get out of one
 Gas bastard
-.",0.16666666666666666
+.",0.16666666666666666,0.26892048
 "Shut up, fatso.","チッ
 ｡
 (
@@ -833,16 +833,16 @@ Gas bastard
 .
 
 Lottery
-.",0.14285714285714285
+.",0.14285714285714285,0.12410479
 <i>Sure!</i>,"＜お代わり！＞
 
-",<I'm a car!>,0.4444444444444444
+",<I'm a car!>,0.4444444444444444,0.53174484
 "I have a something to talk
 to you about.","あんたに少し話があるの
 ｡
 
 ","I have a little talk
-.",0.5
+.",0.5,0.691087
 "I'll go out on a date with you,
 so come along.","デートしてあげるから
 ちょっと
@@ -854,12 +854,12 @@ so come along.","デートしてあげるから
 A little
  
 Please come
-.",0.29411764705882354
+.",0.29411764705882354,0.7367365
 Damn it...,"チクショ～…
 ｡
 
 ","Chikusho ~ ...
-.",0.16666666666666666
+.",0.16666666666666666,0.27874753
 "<i>Kakashi Sensei said</i>
 <i>it was okay now, but...</i>","《カカシ先生は
  
@@ -869,7 +869,7 @@ Damn it...,"チクショ～…
 ","""Kakashi teacher
  
 It is already okay
-I said but ... """,0.3888888888888889
+I said but ... """,0.3888888888888889,0.6059057
 Master Orochimaru.,"(ｶﾌﾞﾄ)
 大蛇丸様
 ｡
@@ -877,7 +877,7 @@ Master Orochimaru.,"(ｶﾌﾞﾄ)
 
 ","Large-sized
 .
-➡",0.2
+➡",0.2,0.16795668
 "You didn't need to send out
 all four members, did you?","何も
  
@@ -887,7 +887,7 @@ all four members, did you?","何も
 ","nothing
  
 Even if all four people do not go
-Isn't it good?",0.18181818181818182
+Isn't it good?",0.18181818181818185,0.3134607
 "at this point Sasuke would be
 no match for them.","今のサスケ君ぐらいでは
 相手にもならないでしょう
@@ -895,11 +895,11 @@ no match for them.","今のサスケ君ぐらいでは
 
 ","What is the current Sasuke?
 It will not be the other party
-.",0.14285714285714285
+.",0.14285714285714285,0.7243038
 "That is precisely why... he will come to me
 in search of power.","だからこそ➡
 
-",That's why,0.125
+",That's why,0.125,0.27479333
 Who're you guys?,"何者だ？
  
 お前ら
@@ -908,13 +908,13 @@ Who're you guys?,"何者だ？
 ","Who are you?
  
 You guys
-.",0.5714285714285714
+.",0.5714285714285714,0.80846864
 "I'm Jirobo,
 the South Gate of the same.","同じく南門の次郎坊
 ｡
 
 ","The same south gate Jirobo
-.",0.6
+.",0.6,0.8362847
 I'm in a bad mood now...,"俺は今
  
 機嫌が悪いんだ
@@ -923,16 +923,16 @@ I'm in a bad mood now...,"俺は今
 ","I am now
  
 Mood is bad
-.",0.36363636363636365
+.",0.3636363636363637,0.69416595
 "If you wanna continue to fight her,","これ以上やるってんなら➡
 
-",If you do more than this,0.15384615384615385
+",If you do more than this,0.15384615384615385,0.25568518
 I won't go easy on you!,"(
 鬼童丸
 )
 どわっ！
 
-",Somewhat!,0.1111111111111111
+",Somewhat!,0.1111111111111111,0.25023872
 "<i>Shake shake shake</i>
 <i>Let's look</i>","♬
  
@@ -940,7 +940,7 @@ I won't go easy on you!,"(
 
 ","♬
  
-I am sometime",0.09090909090909091
+I am sometime",0.09090909090909093,0.28477114
 "A date, a date!","♬
  
 すがり
@@ -949,7 +949,7 @@ I am sometime",0.09090909090909091
 ","♬
  
 Vague
-A crying Kakera",0.125
+A crying Kakera",0.125,0.18611312
 Anything's fine.,"♬
  
 俺
@@ -966,7 +966,7 @@ me
 Victory
 Pose
 is
-Round Around",0.0
+Round Around",0.0,0.020004261
 "At any rate,
 Kakashi Sensei's over the top.","♬
  
@@ -974,7 +974,7 @@ Kakashi Sensei's over the top.","♬
 
 ","♬
  
-Rendezvous at Dunran Dance",0.06666666666666667
+Rendezvous at Dunran Dance",0.06666666666666668,0.121729925
 "But if Kakashi Sensei hadn't stopped it,
 right about now...","♬
  
@@ -982,7 +982,7 @@ right about now...","♬
 
 ","♬
  
-It looks like Yama ...",0.11764705882352941
+It looks like Yama ...",0.1176470588235294,0.22607198
 "Next time:
 ""An Invitation from the Sound""","♬
  
@@ -990,4 +990,4 @@ It looks like Yama ...",0.11764705882352941
 
 ","♬
  
-In the rhythm of the buying",0.07142857142857142
+In the rhythm of the buying",0.07142857142857142,0.22397456

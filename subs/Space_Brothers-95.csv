@@ -1,33 +1,33 @@
-en_text,jp_text,google_translated,score
-But he's able to pass a test to return to active duty.,復帰試験になんとか合格した＞,Something passed for the return test>,0.11764705882352941
-"Hey, Mom...",ねえ ママ｡,Hey Mom.,0.4
-I really want a globe of the Earth.,地球儀が欲しいんだ！,I want a globe!,0.4
-Really? I think that's wonderful.,そう…いいわね 地球儀！,Yes ... Good Was Globe!,0.0
-I was very happy...,《私はとても嬉しかった…➡,"""I was very happy ... ➡",0.7142857142857143
-What about homework? Are you finished?,宿題は？もう終わったの？➡,What is your homework?Is it over?➡,0.25
-Yep! There it is!,おっ！ほら 来た！,Oh!I came!,0.125
-"Yeah, that's nice.",あ～ いいねえ｡,"Oh, good.",0.25
-This is Houston CAPCOM.,こちらヒューストン キャプコム｡,Here Houston Capcomm.,0.2857142857142857
-We've completed our day's tasks.,今日のタスクは 全て終了したよ｡,All today's tasks have ended.,0.25
-"Good job today, Captain Ravel.",お疲れさま ラベル船長｡,Thank you very much label captain.,0.16666666666666666
-"Thanks, Betty.",ありがとう ベティ｡,Thank you.,0.16666666666666666
-Parachutes successfully deployed!,パラシュート 展開成功！,Parachute Development Success!,0.14285714285714285
-Orion has landed!,オリオン 無事着陸！,Orion not landing!,0.3333333333333333
-I hope that happens...,そうなってくれたら嬉しいね｡,I'm glad if so.,0.1
-and pass the test to return to active duty.,終えたわけであります｡,It has finished.,0.08333333333333333
-"Right now, he's eight. oh, he's named chris...",へえ クリス…｡,Humane Chris ....,0.25
-Chris?,《え？クリス…》,"""Huh? Chris…""",0.16666666666666666
-"My husband was also an astronaut, so Chris grew up loving space.",旦那も宇宙飛行士だったから➡,Because my husband was astronaut ➡,0.25
-Communications with Orion have been restored.,オリオン 交信回復します｡,Orion communication recovery.,0.2222222222222222
-Th-That's certainly a problem.,こ…困りましたね それは｡,... I was troubled.,0.1
-"My oldest treasure, huh?",一番古い宝物ねえ…｡➡,The most old treasure ....,0.09090909090909091
-I see... That's a lovely story.,なるほど｡いいですね｡,I see. Good.,0.3
-"If you're interested in astronauts and their treasures,",知りたいなら ビンスのがいいぜ｡,"If you want to know, Bin is good.",0.17647058823529413
-It isn't a treasure.,あれは 宝物ではありません｡,That is not a treasure.,0.5
-"Naturally,",戻ることは 反対されたわ｡➡,Back to return was opposed.,0.0
-We're here. Get out.,着いたぞ｡降りろ～！,I arrived. Get off!,0.2
-That's what I saw earlier.,あれは…あの時の？,That's ... that time?,0.2
-What is this?,なんだ これ？おい やめろ！,what's this?Stop it!,0.375
-So this is the sub crew?,こっちが サブクルー？,This is a subcourse?,0.3333333333333333
-And you would be riding in a spaceship I built.,俺の作った宇宙船に乗る｡,Ride on the spacecraft you made.,0.125
-But Rick's no longer here.,それを言ったリックは いない｡,There is no Rick that said.,0.2727272727272727
+en_text,jp_text,google_translated,score,semantic_score
+But he's able to pass a test to return to active duty.,復帰試験になんとか合格した＞,Something passed for the return test>,0.1176470588235294,0.4159517
+"Hey, Mom...",ねえ ママ｡,Hey Mom.,0.4,0.8356948
+I really want a globe of the Earth.,地球儀が欲しいんだ！,I want a globe!,0.4,0.8807346
+Really? I think that's wonderful.,そう…いいわね 地球儀！,Yes ... Good Was Globe!,0.0,0.25944865
+I was very happy...,《私はとても嬉しかった…➡,"""I was very happy ... ➡",0.7142857142857143,0.7508845
+What about homework? Are you finished?,宿題は？もう終わったの？➡,What is your homework?Is it over?➡,0.25,0.6512038
+Yep! There it is!,おっ！ほら 来た！,Oh!I came!,0.125,0.37211025
+"Yeah, that's nice.",あ～ いいねえ｡,"Oh, good.",0.25,0.41872385
+This is Houston CAPCOM.,こちらヒューストン キャプコム｡,Here Houston Capcomm.,0.2857142857142857,0.8165356
+We've completed our day's tasks.,今日のタスクは 全て終了したよ｡,All today's tasks have ended.,0.25,0.6623563
+"Good job today, Captain Ravel.",お疲れさま ラベル船長｡,Thank you very much label captain.,0.16666666666666666,0.42098647
+"Thanks, Betty.",ありがとう ベティ｡,Thank you.,0.16666666666666666,0.32383043
+Parachutes successfully deployed!,パラシュート 展開成功！,Parachute Development Success!,0.14285714285714285,0.8145195
+Orion has landed!,オリオン 無事着陸！,Orion not landing!,0.3333333333333333,0.89724874
+I hope that happens...,そうなってくれたら嬉しいね｡,I'm glad if so.,0.1,0.23615426
+and pass the test to return to active duty.,終えたわけであります｡,It has finished.,0.08333333333333333,0.07019149
+"Right now, he's eight. oh, he's named chris...",へえ クリス…｡,Humane Chris ....,0.25,0.51298904
+Chris?,《え？クリス…》,"""Huh? Chris…""",0.16666666666666666,0.66347724
+"My husband was also an astronaut, so Chris grew up loving space.",旦那も宇宙飛行士だったから➡,Because my husband was astronaut ➡,0.25,0.5874131
+Communications with Orion have been restored.,オリオン 交信回復します｡,Orion communication recovery.,0.2222222222222222,0.85130644
+Th-That's certainly a problem.,こ…困りましたね それは｡,... I was troubled.,0.1,0.1676698
+"My oldest treasure, huh?",一番古い宝物ねえ…｡➡,The most old treasure ....,0.09090909090909093,0.8355882
+I see... That's a lovely story.,なるほど｡いいですね｡,I see. Good.,0.3,0.42136973
+"If you're interested in astronauts and their treasures,",知りたいなら ビンスのがいいぜ｡,"If you want to know, Bin is good.",0.17647058823529413,0.19637501
+It isn't a treasure.,あれは 宝物ではありません｡,That is not a treasure.,0.5,0.9204087
+"Naturally,",戻ることは 反対されたわ｡➡,Back to return was opposed.,0.0,0.1027511
+We're here. Get out.,着いたぞ｡降りろ～！,I arrived. Get off!,0.2,0.5710619
+That's what I saw earlier.,あれは…あの時の？,That's ... that time?,0.2,0.24138978
+What is this?,なんだ これ？おい やめろ！,what's this?Stop it!,0.375,0.3715552
+So this is the sub crew?,こっちが サブクルー？,This is a subcourse?,0.3333333333333333,0.3779001
+And you would be riding in a spaceship I built.,俺の作った宇宙船に乗る｡,Ride on the spacecraft you made.,0.125,0.66155505
+But Rick's no longer here.,それを言ったリックは いない｡,There is no Rick that said.,0.2727272727272727,0.747361

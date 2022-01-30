@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.7113179
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.86280525
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207105
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.6541096
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.3804589
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851642
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.40009788
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.5800125
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,13 +97,13 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.3699327
 Huh? Uh... excuse me...,"(
 忍
 )
 ん？
 
-",Yeah?,0.14285714285714285
+",Yeah?,0.14285714285714285,0.2952466
 "My mother and my father...
 They didn't have to die.","《父さんも母さんも
 死なずに済んだんだ
@@ -113,19 +113,19 @@ They didn't have to die.","《父さんも母さんも
 ","""Father and Mother
 I did not die
 .
-➡",0.375
+➡",0.375,0.5449049
 "Because I didn't have strength,
 the whole clan was destroyed.","僕に力がなかったから
 一族は滅んだ》
 
 ","Because I had no power
-The family is destroyed """,0.21052631578947367
+The family is destroyed """,0.21052631578947367,0.54213655
 Everyone was killed...,"《みんな殺された》
 
-","""Everyone was killed""",0.5
+","""Everyone was killed""",0.5,0.7612968
 Yo! Konohomaru.,"フッ！
 
-",Hu!,0.2
+",Hu!,0.2,0.33341032
 Naruto.,"(
 木ノ葉丸
 )
@@ -133,7 +133,7 @@ Naruto.,"(
 ｡
 
 ","Naruto brother
-.",0.6666666666666666
+.",0.6666666666666666,0.8937335
 "Have you already resumed studies
 at the academy?","あぁ…
  
@@ -143,7 +143,7 @@ at the academy?","あぁ…
 ","Ahh…
  
 Academy class anymore
-Did you resume?",0.21428571428571427
+Did you resume?",0.21428571428571427,0.7910422
 "The school buildings are damaged,
 so we're all repairing them.","校舎が壊れちゃったから
 みんなで直すんだコレ
@@ -151,19 +151,19 @@ so we're all repairing them.","校舎が壊れちゃったから
 
 ","Because the school building has broken
 Everybody is directly
-.",0.15
+.",0.15,0.7108355
 Sort of.,"そっか
 ｡
 
 ","I see
-.",0.2
+.",0.2,0.30048338
 What is it?,"何だよ？
 何だ？コレ
 ｡
 
 ","What?
 What?this
-.",0.3333333333333333
+.",0.3333333333333333,0.2316215
 So what is it...?,"だ…
  
 だから何だってばよ
@@ -172,14 +172,14 @@ So what is it...?,"だ…
 ","is…
  
 So what if it is
-.",0.4444444444444444
+.",0.4444444444444444,0.28041232
 "You too, Naruto, what is it?","ナルトの兄ちゃんは？
 修業かコレ
 ｡
 
 ","What is Naruto's brother?
 Study or Kore
-.",0.2857142857142857
+.",0.2857142857142857,0.56114477
 Nothing... really...,"いや
  
 べ…
@@ -192,7 +192,7 @@ Nothing... really...,"いや
 ...
  
 Separately
-.",0.16666666666666666
+.",0.16666666666666666,0.113882855
 I don't feel Ionely.,"(
 木ノ葉丸
 )
@@ -202,7 +202,7 @@ I don't feel Ionely.,"(
 
 ","I'm not lonely
 .
-picture?",0.18181818181818182
+picture?",0.18181818181818185,0.2858765
 There's no time to be feeling Ionely.,"あのさ…
  
 なっ
@@ -211,7 +211,7 @@ There's no time to be feeling Ionely.,"あのさ…
 ","That's ...
  
 Becoming
-.",0.16666666666666666
+.",0.16666666666666666,0.2572694
 "Everyone is working really hard
 to rebuild the village right now.","この里を立て直すために
 頑張ってるんだコレ
@@ -219,12 +219,12 @@ to rebuild the village right now.","この里を立て直すために
 
 ","To fix this village
 I'm working hard
-.",0.3125
+.",0.3125,0.7648969
 Konohamaru...,"木ノ葉丸…
 ｡
 
 ","Kuno Leaf round ...
-.",0.16666666666666666
+.",0.16666666666666666,0.4426101
 "Right now, I must work for
 the village even just a little bit.","今は
  
@@ -236,7 +236,7 @@ the village even just a little bit.","今は
  
 Even if only slightly
 I can do my best for the village
-.",0.2608695652173913
+.",0.2608695652173913,0.6218439
 "Here, it's for you.","あっ
  
 そうだ
@@ -251,7 +251,7 @@ I can do my best for the village
 That's it
 .
 
-Yeah?",0.2727272727272727
+Yeah?",0.2727272727272727,0.24359061
 "I already have one,
 so I'm giving one to you.","俺ってば
  
@@ -267,7 +267,7 @@ Another
  
 Because I have
 If you do one piece
-.",0.2777777777777778
+.",0.2777777777777778,0.330044
 "Thank you, Naruto.","サンキュー
  
 ナルト兄ちゃん
@@ -276,7 +276,7 @@ If you do one piece
 ","thank you
  
 Naruto brother
-.",0.6666666666666666
+.",0.6666666666666666,0.9005486
 Oh! Konohamaru.,"おっ
  
 あった
@@ -287,7 +287,7 @@ Oh! Konohamaru.,"おっ
  
 there were
  
-there were!",0.3333333333333333
+there were!",0.3333333333333333,0.18740152
 Good morning.,"(ﾓｴｷﾞ)
 あっ
  
@@ -301,12 +301,12 @@ Good morning.,"(ﾓｴｷﾞ)
 Kunoho Maru-chan!
 
 good morning
-.",0.42857142857142855
+.",0.42857142857142855,0.40522256
 I'm going to go.,"俺は行くぞコレ
 ｡
 
 ","I'm going
-.",0.6666666666666666
+.",0.6666666666666666,0.7869834
 Today we're fixing the blackboards.,"(
 木ノ葉丸
 )
@@ -314,7 +314,7 @@ Today we're fixing the blackboards.,"(
 ｡
 
 ","Today is the blackboard
-.",0.3333333333333333
+.",0.3333333333333333,0.77482796
 I brought paint.,"(ﾓｴｷﾞ)
 あたし
  
@@ -324,7 +324,7 @@ I brought paint.,"(ﾓｴｷﾞ)
 ","I
  
 I brought the paint
-.",0.8
+.",0.8,0.93867815
 This is it.,"(
 忍１
 )
@@ -332,7 +332,7 @@ This is it.,"(
 ｡
 
 ","This is it
-.",1.0
+.",1.0,1.0000001
 Alot of time has passed since the death.,"(
 忍１
 )
@@ -344,7 +344,7 @@ Alot of time has passed since the death.,"(
 ","After death
  
 It has been quite elapsed
-.",0.21428571428571427
+.",0.21428571428571427,0.6929297
 "It's probably before
 the Chunin Exam began.","恐らく
 中忍試験の始まる前だろう
@@ -352,13 +352,13 @@ the Chunin Exam began.","恐らく
 
 ","perhaps
 It will be before the beginning of the middle puppet
-.",0.25
+.",0.25,0.21439575
 That Orochimaru!,"(
 バキ
 )
 くっ！
 
-",Come!,0.25
+",Come!,0.25,0.31242734
 "Well, it's not that easy.","(ｶﾌﾞﾄ)
 まぁ
 そう簡単ではありませんよ
@@ -368,7 +368,7 @@ That Orochimaru!,"(
 ","Maic
 It is not so easy
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.61389905
 "deemed to be strongest of
 all five great nations.","何せ
  
@@ -378,14 +378,14 @@ all five great nations.","何せ
 ","What
  
 What I was the other party
-It will be understood that it is the strongest of five countries",0.18181818181818182
+It will be understood that it is the strongest of five countries",0.18181818181818185,0.70360905
 Stop...,"うぅ…
 ｡
 ➡
 
 ","Uh ...
 .
-➡",0.2
+➡",0.2,0.31147435
 Stop giving me words of sympathy.,"私を慰めるような
 セリフは
  
@@ -396,12 +396,12 @@ Stop giving me words of sympathy.,"私を慰めるような
 Serif
  
 stop it
-.",0.16666666666666666
+.",0.16666666666666666,0.24787384
 I will kill you!,"殺すわよ
 ｡
 
 ","I'm killing
-.",0.125
+.",0.125,0.5117192
 "Of course, I didn't mean to...","あの五影を２人までも…
 ｡
 (
@@ -412,7 +412,7 @@ I will kill you!,"殺すわよ
 ","Up to 2 people ...
 .
 
-I ... ➡",0.21428571428571427
+I ... ➡",0.21428571428571427,0.1500647
 "On the other hand, another objective
 of this plan, Sasuke Uchiha...","この計画のもう一つの目的
 うちはサスケ
@@ -420,14 +420,14 @@ of this plan, Sasuke Uchiha...","この計画のもう一つの目的
 
 ","Another purpose of this plan
 My house is Sasuke
-.",0.2777777777777778
+.",0.2777777777777778,0.72826064
 Your leash is now on him.,"彼には
 あなたの首輪が付けられた
 ｡
 
 ","Him
 Your collar was attached
-.",0.3
+.",0.3,0.6069666
 "In exchange for these arms
 and all of my Jutsu...","この腕と私のすべての術と
 引き換えにね
@@ -435,7 +435,7 @@ and all of my Jutsu...","この腕と私のすべての術と
 
 ","This arm and all my work
 In exchange
-.",0.3333333333333333
+.",0.3333333333333333,0.51856047
 "If we could have gotten our hands
 on that Itachi Uchiha from the beginning,","(
 大蛇丸
@@ -448,14 +448,14 @@ on that Itachi Uchiha from the beginning,","(
 ","in the first place
  
 Among them, itch
-If you can get it",0.12
+If you can get it",0.12,0.19554035
 it wouldn't have been a problem.,"問題はなかった
 ｡
 ➡
 
 ","There was no problem
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.46889824
 "However that's a dream that
 can no longer come true.","しかし
  
@@ -473,7 +473,7 @@ no longer
  
 A dream that is not good
 .
-➡",0.4666666666666667
+➡",0.4666666666666667,0.75129503
 He is stronger than I am.,"彼は
  
 私以上に強い
@@ -482,30 +482,30 @@ He is stronger than I am.,"彼は
 ","He
  
 More than me
-.",0.3333333333333333
+.",0.3333333333333333,0.5980113
 "That is why... I pulled myself out
 from that organization...","あの組織を抜けたのよ
 ｡
 
 ","I missed that organization
-.",0.25
+.",0.25,0.5952297
 "Kakashi, huh?","カカシか？
 
-",Is it Kakashi?,0.3333333333333333
+",Is it Kakashi?,0.3333333333333333,0.8640351
 "Breakfast, breakfast!","朝飯！
  
 朝飯！
 
 ","breakfast!
  
-breakfast!",0.6666666666666666
+breakfast!",0.6666666666666666,0.98301446
 "Wait for me, my ramen.","待ってろよ！
  
 俺のラーメン！
 
 ","Wait!
  
-My ramen!",0.375
+My ramen!",0.375,0.87535
 "Do you already know
 his whereabouts?","(
 男１
@@ -524,7 +524,7 @@ his whereabouts?","(
 Already?
 
 Ah
-.",0.3333333333333333
+.",0.3333333333333333,0.6571986
 Let's go.,"(
 男２
 )
@@ -532,7 +532,7 @@ Let's go.,"(
 ｡
 
 ","let's go
-.",1.0
+.",1.0,1.0000001
 "Hidden Leaf Village...
 has a high average score.","ウフフフ…
  
@@ -546,7 +546,7 @@ has a high average score.","ウフフフ…
 Average point
  
 High
-.",0.3333333333333333
+.",0.3333333333333333,0.312547
 "Well yes, this is my research.","(
 男１
 )
@@ -554,7 +554,7 @@ High
 ｡
 
 ","Well then it is easy victory
-.",0.25
+.",0.25,0.16678573
 "You don't have to make
 such scary faces.","そんな
  
@@ -562,14 +562,14 @@ such scary faces.","そんな
 
 ","Such
  
-Even if you don't have a face",0.35714285714285715
+Even if you don't have a face",0.35714285714285715,0.54923064
 "The Hidden Village in the Sand
 announced that","(ﾎﾑﾗ)
 すべての発端が
 大蛇丸の仕業と砂隠れが公にし➡
 
 ","All the beginning
-The work of the large snake makemaru and the briefing of sand are public",0.1111111111111111
+The work of the large snake makemaru and the briefing of sand are public",0.1111111111111111,0.381124
 everything was Orochimaru's handiwork.,"砂との話し合いも
 無事
  
@@ -580,7 +580,7 @@ everything was Orochimaru's handiwork.,"砂との話し合いも
 Not
  
 It's over.
-.",0.16666666666666666
+.",0.16666666666666666,0.07684732
 "that wasn't a very important issue
 any more.","それは
  
@@ -590,13 +590,13 @@ any more.","それは
 ","that is
  
 It is not an important story
-.",0.2
+.",0.2,0.4423204
 in order to restore national power.,"(ｺﾊﾙ)
 木ノ葉としても
 国力復興のために➡
 
 ","As a tree
-For national power reconstruction",0.16666666666666666
+For national power reconstruction",0.16666666666666666,0.5861181
 "However, the current strength of
 Leaf Village has dropped drastically.","しかし
  
@@ -608,13 +608,13 @@ Leaf Village has dropped drastically.","しかし
  
 now
  
-The power of Kuno Leaves hidden is ➡",0.15789473684210525
+The power of Kuno Leaves hidden is ➡",0.15789473684210525,0.47370327
 "our top priority must be to prepare
 for any unpredicted crisis.","さらなる危機を想定した準備だ
 ｡
 
 ","It is preparation for further crisis
-.",0.1875
+.",0.1875,0.5816649
 "We don't know when any of
 the neighboring nations","隣国のいずれかが
  
@@ -626,7 +626,7 @@ the neighboring nations","隣国のいずれかが
  
 when
 I do not know if it comes to bold action
-.",0.23809523809523808
+.",0.2380952380952381,0.27183887
 "Therefore, we've decided that until
 the village gets its strength back,","よって
  
@@ -634,17 +634,17 @@ the village gets its strength back,","よって
 
 ","By all means
  
-Until the power of the village returns",0.15789473684210525
+Until the power of the village returns",0.15789473684210525,0.7311956
 "we should assemble the top few men
 from each troop,","各部隊から
 トップ数人を召集して➡
 
 ","From each unit
-Call a few people",0.2
+Call a few people",0.2,0.3378471
 "and form an emergency
 executive committee to handle this.","緊急執行委員会を作り➡
 
-",Make an emergency executive committee,0.36363636363636365
+",Make an emergency executive committee,0.3636363636363637,0.7480549
 "we need a strong, trustworthy leader.","(ｺﾊﾙ)
 信頼のおける
 強いリーダーがいる
@@ -654,7 +654,7 @@ executive committee to handle this.","緊急執行委員会を作り➡
 ","Trust
 There is a strong leader
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.7506596
 "You can find the seeds of trouble
 rolling around everywhere these days.","今や
  
@@ -668,12 +668,12 @@ rolling around everywhere these days.","今や
 The seeds of
 It rolls in a row
 .
-➡",0.2
+➡",0.2,0.5357357
 It's not just Orochimaru.,"大蛇丸だけではない
 ｡
 
 ","Not only the large snake
-.",0.2
+.",0.2,0.22050132
 "You didn't have to go through
 the trouble of informing me that.","わざわざ
  
@@ -685,7 +685,7 @@ the trouble of informing me that.","わざわざ
  
 That thing
 Even if you have not reported
-.",0.2
+.",0.2,0.23397173
 I'm going to tell you the basic plan.,"(ﾎﾑﾗ)
 １つ
  
@@ -695,7 +695,7 @@ I'm going to tell you the basic plan.,"(ﾎﾑﾗ)
 ","One
  
 Say the basic policy
-.",0.23076923076923078
+.",0.2307692307692308,0.44648722
 "And yesterday at an emergency meeting
 with the feudal lord of the Land of Fire,","そして
  
@@ -713,7 +713,7 @@ yesterday
 Old name of the country of fire
 In the emergency meeting provided
  
-➡ ➡ ➡",0.35
+➡ ➡ ➡",0.35,0.5436115
 "I'm sorry, it's not my nature.","(
 自来也
 )
@@ -727,16 +727,16 @@ In the emergency meeting provided
 Wow
  
 It's not such a pattern
-.",0.26666666666666666
+.",0.26666666666666666,0.19669369
 "Besides, if a Shinobi like you,
 renowned as a Sannin, is not...","それに三忍とうたわれた
 お前ほどの忍が柄でないなら➡
 
 ","Sanbuku was called
-If you are not a handle, you",0.2777777777777778
+If you are not a handle, you",0.2777777777777778,0.56519336
 then who is?,"ほかに誰が？
 
-",Anyone else?,0.16666666666666666
+",Anyone else?,0.16666666666666666,0.2888759
 That Tsunade.,"それが
  
 お前に決まった
@@ -745,7 +745,7 @@ That Tsunade.,"それが
 ","that is
  
 I decided to
-.",0.2857142857142857
+.",0.2857142857142857,0.23063405
 "Certainly that child probably
 has that capability, but...","確かに
  
@@ -757,7 +757,7 @@ has that capability, but...","確かに
  
 If that child
 It may be that bowl ...
-.",0.1875
+.",0.1875,0.5192612
 "I'll find and bring her back.
 If I do that there's no problem, right?","(
 自来也
@@ -772,13 +772,13 @@ If I do that there's no problem, right?","(
 So
  
 There is no problem
-.",0.2727272727272727
+.",0.2727272727272727,0.36155763
 What do you want to do?,"(
 自来也
 )
 どうする？
 
-",what will you do?,0.5714285714285714
+",what will you do?,0.5714285714285714,0.61646515
 "All right.
 We'll give it urgent consideration.","しかし
  
@@ -794,7 +794,7 @@ It is
 All
  
 Normally
-.",0.25
+.",0.25,0.19822364
 as the search unit for Tsunade.,"ただし
  
 綱手の捜索隊として
@@ -805,7 +805,7 @@ as the search unit for Tsunade.,"ただし
  
 As a search for Tsuteman
 Get 3 dark parts
-.",0.2857142857142857
+.",0.2857142857142857,0.53536433
 "There is one guy that I want
 to take with me on my trip.","旅の共に
  
@@ -817,12 +817,12 @@ to take with me on my trip.","旅の共に
  
 One person
 There is a guy who wants to take
-.",0.3333333333333333
+.",0.3333333333333333,0.64897656
 I've found an interesting egg...,"おもしろい卵を見つけたんでのう
 ｡
 
 ","I found an interesting egg
-.",0.625
+.",0.625,0.9427038
 What? That is absolutely strange.,"あれ？
  
 絶対
@@ -835,7 +835,7 @@ What? That is absolutely strange.,"あれ？
 absolutely
  
 It's funny
-.",0.4
+.",0.4,0.44472998
 "Sorry, but if you don't have a ticket,
 there's no ramen.","(ﾃｳﾁ)
 悪いが
@@ -848,7 +848,7 @@ there's no ramen.","(ﾃｳﾁ)
  
 If there is a ticket
 There is no ramen
-.",0.4117647058823529
+.",0.4117647058823529,0.84379876
 "No, wait a minute!
 I absolutely had one more.","や…
  
@@ -864,7 +864,7 @@ Cho ...
  
 Wait a minute!
 It's absolutely there was another one
-.",0.35
+.",0.35,0.4019258
 "The one that I gave Konohamaru,
 was it the last?","あれ～？
  
@@ -874,21 +874,21 @@ was it the last?","あれ～？
 ","What?
  
 I did it as a wooden leaf circle
-Is it the last?",0.2631578947368421
+Is it the last?",0.2631578947368421,0.39192155
 Welcome!,"へい
  
 いらっしゃい！
 
 ","Wall
  
-welcome!",0.6666666666666666
+welcome!",0.6666666666666666,0.56618017
 "Hey, my ramen!","あ～
  
 俺のラーメン！
 
 ","Oh ~
  
-My ramen!",0.42857142857142855
+My ramen!",0.42857142857142855,0.8939536
 "Fool, Anko asked me to
 buy rice dumplings. That's all.","(
 紅
@@ -903,13 +903,13 @@ buy rice dumplings. That's all.","(
  
 I am Anko
 I just asked for a dumpling
-.",0.15
+.",0.15,0.638074
 What are <i>you</i> doing here?,"(ｱｽﾏ)
 お前こそ
 こんな所で何やってる？
 
 ","You
-What are you doing in such a place?",0.35714285714285715
+What are you doing in such a place?",0.35714285714285715,0.6190756
 "While I'm here to buy offerings,
 I've made plans to meet here...","ここで待ち合わせしてんのよ
 ｡
@@ -917,12 +917,12 @@ I've made plans to meet here...","ここで待ち合わせしてんのよ
 
 ","I'm waiting here
 .
-➡",0.1875
+➡",0.1875,0.3423449
 with Sasuke.,"サスケとね
 ｡
 
 ","Sasuke
-.",0.6666666666666666
+.",0.6666666666666666,0.83484244
 "Huh, it's rare that you wait for people.","へぇ～
 お前が人を待つのは珍しいな
 ｡
@@ -931,7 +931,7 @@ with Sasuke.,"サスケとね
 ","~
 It is rare to wait for people
 .
-➡",0.4
+➡",0.4,0.79795384
 Obito?,"供え物は
  
 オビトにか？
@@ -944,7 +944,7 @@ Obito?,"供え物は
  
 Is it Obito?
 
-Obito?",0.4
+Obito?",0.4,0.8485868
 Well... once in a while.,"(ｶｶｼ)
 まっ
  
@@ -954,7 +954,7 @@ Well... once in a while.,"(ｶｶｼ)
 ","Mine
  
 Such a place
-.",0.2
+.",0.2,0.24992593
 "I don't do <i>natto</i> 
 And sweet things.","俺は
  
@@ -964,7 +964,7 @@ And sweet things.","俺は
 ","I am
  
 Natto and sweet monkeys are no good
-.",0.3125
+.",0.3125,0.59508103
 Oh... Is that so?,"(ｶｶｼ)
 あぁ
  
@@ -974,7 +974,7 @@ Oh... Is that so?,"(ｶｶｼ)
 ","Ahh
  
 Is that so
-.",0.375
+.",0.375,0.6201098
 "You guys aren't from the village...
 Why in the world did you come?","お前ら
  
@@ -982,13 +982,13 @@ Why in the world did you come?","お前ら
 
 ","You guys
  
-Aren't you a villain?",0.3125
+Aren't you a villain?",0.3125,0.2650133
 "If you know about us,
 are you former Leaf Shinobi?","俺たちのことを
 知ってるってなると➡
 
 ","We
-If you know, if you know",0.3333333333333333
+If you know, if you know",0.3333333333333333,0.2832537
 Y-You are?!,"(
 紅
 ･ｱｽﾏ)
@@ -1004,7 +1004,7 @@ Y-You are?!,"(
 Oh…
  
 You are
-.",0.375
+.",0.375,0.5411119
 Itachi.,"(ｱｽﾏ)
 うちは…
  
@@ -1014,7 +1014,7 @@ Itachi.,"(ｱｽﾏ)
 ","we are…
  
 Itachi
-.",0.5
+.",0.5,0.77743655
 You are acquaintances of Itachi?,"(
 男２
 )
@@ -1022,7 +1022,7 @@ You are acquaintances of Itachi?,"(
 お知り合いですか？➡
 
 ","Mr. Itachi
-Are you informed?➡",0.4444444444444444
+Are you informed?➡",0.4444444444444444,0.7912971
 "I know you, too.","あなたも知ってるわ
  
 干柿鬼鮫
@@ -1031,13 +1031,13 @@ Are you informed?➡",0.4444444444444444
 ","You know too
  
 Drought
-.",0.5714285714285714
+.",0.5714285714285714,0.39113036
 "Suspected of national covert activities
 and of killing a feudal lord,","大名殺し
 国家破壊工作などの容疑で➡
 
 ","Hot Master
-On suspicion of national destruction works",0.11764705882352941
+On suspicion of national destruction works",0.1176470588235294,0.3772846
 "a Rogue Ninja from Land of Water,
 on the wanted list in all nations.","水の国より
 各国へ指名手配中の抜け忍
@@ -1045,7 +1045,7 @@ on the wanted list in all nations.","水の国より
 
 ","From the water country
 Snobing to each country
-.",0.2
+.",0.2,0.3830755
 "You're a major S rank criminal
 listed in the Bingo Book.","(ｱｽﾏ)
 お前らは
@@ -1058,7 +1058,7 @@ listed in the Bingo Book.","(ｱｽﾏ)
  
 It looks like a guidebook
 Spliter who is S rank
-.",0.23809523809523808
+.",0.2380952380952381,0.36295173
 "Itachi, you have some nerve
 coming back to this village","イタチさん
  
@@ -1066,7 +1066,7 @@ coming back to this village","イタチさん
 
 ","Mr. Itachi
  
-You are also a village",0.2
+You are also a village",0.2,0.768068
 after causing that awful incident.,"イタチ
  
 あれだけの事件を
@@ -1075,17 +1075,17 @@ after causing that awful incident.,"イタチ
 ","Itachi
  
 That's only incident
-Keep up",0.18181818181818182
+Keep up",0.18181818181818185,0.2543156
 Don't interfere with me.,"俺に関わらないでください
 ｡
 
 ","Please do not involve me
-.",0.3333333333333333
+.",0.3333333333333333,0.44324124
 I don't intend to kill you.,"あなたたちを殺すつもりはない
 ｡
 
 ","I do not intend to kill you
-.",0.7777777777777778
+.",0.7777777777777778,0.97080743
 "That's not a line for you,
 who killed your comrades.","同胞殺しのお前が言う
 セリフじゃねえな
@@ -1099,16 +1099,16 @@ It is not a serif
  
 For
 .
-➡",0.2631578947368421
+➡",0.2631578947368421,0.14381301
 What are you after?,"目的は何だ？
 
-",What is the purpose?,0.25
+",What is the purpose?,0.25,0.26349133
 "It doesn't look like we are able
 to leave the village so smoothly...","素直に里から出られそうにないな
 ｡
 
 ","It is not likely to be released from the village
-.",0.18181818181818182
+.",0.18181818181818185,0.55477196
 "But don't overdo it,
 your techniques tend to stand out.","だが
  
@@ -1118,11 +1118,11 @@ your techniques tend to stand out.","だが
 ","But
  
 Do not go too much
-.",0.17647058823529413
+.",0.17647058823529413,0.38100353
 <i>This is...</i>,"(ｲﾀﾁ)
 《これは➡
 
-","""This is ➡",0.2222222222222222
+","""This is ➡",0.2222222222222222,0.4819162
 "<i>My large sword, Shark Skin...</i>","(
 鬼鮫
 )
@@ -1136,7 +1136,7 @@ Do not go too much
  
 York skin ...
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.6717897
 Kurenai... You're late.,"紅
   
 遅いぜ…
@@ -1145,10 +1145,10 @@ Kurenai... You're late.,"紅
 ","deep red
   
 Slowly ...
-.",0.2222222222222222
+.",0.2222222222222222,0.19376698
 With this...,"これで…➡
 
-",With this ... ➡,0.75
+",With this ... ➡,0.75,0.81628734
 Genjutsu of that level doesn't work on me.,"俺に
  
 その程度の幻術は効かない
@@ -1157,18 +1157,18 @@ Genjutsu of that level doesn't work on me.,"俺に
 ","To me
  
 The illusionary can not work
-.",0.2
+.",0.2,0.24280252
 Kurenai!,"(
 紅
 )
 うあっ！
 
-",!,0.5
+",!,0.5,0.26060465
 There's no time to look away.,"よそ見してる暇はないですよ
 ｡
 
 ","There is no spare time to see
-.",0.45454545454545453
+.",0.4545454545454545,0.6443974
 """But this is as far as it goes...","≪
 (ｶｶｼ)
 でも
@@ -1187,15 +1187,15 @@ Mine
  
 So far
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.5377216
 for you.,"お前がな
 ｡
 
 ","You are
-.",0.5
+.",0.5,0.37622657
 The same Jutsu as me?!,"私と同じ術!?
 
-",The same technique as me!?,0.75
+",The same technique as me!?,0.75,0.385862
 "But I kinda felt uneasy, you know.","何で
  
 お前まで
@@ -1206,18 +1206,18 @@ The same Jutsu as me?!,"私と同じ術!?
  
 You
 I'm going out
-.",0.23076923076923078
+.",0.2307692307692308,0.17542012
 Shadow clones.,"影分身
 ｡
 
 ","Shadow
-.",0.6666666666666666
+.",0.6666666666666666,0.6652252
 Kakashi...,"(ｲﾀﾁ)
 はたけカカシ…
 ｡
 
 ","Hatoken Kakashi ...
-.",0.5
+.",0.5,0.790342
 "in order not to drop the important ticket
 during morning training.","まっ
  
@@ -1227,7 +1227,7 @@ during morning training.","まっ
 ","Mine
  
 I'm not going to be
-.",0.17647058823529413
+.",0.17647058823529413,0.06616292
 "You're going to do it again
 after this, right? Training?","(ﾃｳﾁ)
 このあとも
@@ -1242,14 +1242,14 @@ after this, right? Training?","(ﾃｳﾁ)
 Did you do it?
  
 Study
-.",0.375
+.",0.375,0.44959235
 Of course! I'm full of motivation.,"もちろん！
  
 バリバリだってぇの！
 
 ","of course!
  
-It's a barbari!",0.25
+It's a barbari!",0.25,0.38516846
 Good! Here you go.,"(ﾃｳﾁ)
 よっしゃ！
  
@@ -1259,7 +1259,7 @@ Good! Here you go.,"(ﾃｳﾁ)
 ","Yo!
  
 Sore
-.",0.25
+.",0.25,0.17541099
 "Thank you, sir!","サンキュー
  
 おっちゃん
@@ -1268,12 +1268,12 @@ Sore
 ","thank you
  
 Occhan
-.",0.2857142857142857
+.",0.2857142857142857,0.3810527
 Welcome.,"フフ…
 ｡
 
 ","Fufu ...
-.",0.25
+.",0.25,0.12313118
 "It seems that you really
 are just eating ramen.","ホントに
  
@@ -1285,28 +1285,28 @@ are just eating ramen.","ホントに
  
 Ramen
 I'm going to eat
-.",0.2
+.",0.2,0.72496474
 "Oh, Pervy Sage!","バァ！
  
 ベボゼンニン！
 
 ","Bah!
  
-Bevizenin!",0.14285714285714285
+Bevizenin!",0.14285714285714285,0.2795842
 "<i>It's a secondary role,</i>","♬
  
 我慢の連続だったろ
 
 ","♬
  
-It was a continuation of patience",0.13333333333333333
+It was a continuation of patience",0.13333333333333333,0.20733868
 <i>a role in the shadows</i>,"♬
  
 自分で決めたその夢だけは
 
 ","♬
  
-Only the dream I decided by myself",0.13333333333333333
+Only the dream I decided by myself",0.13333333333333333,0.28320852
 "<i>Over and over,</i>
 <i>we believed and dreamed</i>","♬
  
@@ -1314,7 +1314,7 @@ Only the dream I decided by myself",0.13333333333333333
 
 ","♬
  
-I'm a person",0.07142857142857142
+I'm a person",0.07142857142857142,0.19558457
 "<i>Now, it's our turn...</i>
 <i>Let us bask in our dreams</i>","♬
  
@@ -1324,7 +1324,7 @@ I'm a person",0.07142857142857142
 ","♬
  
 Many times until now
-I wonder if it has come up",0.12
+I wonder if it has come up",0.12,0.20848708
 Uchiha Itachi...,"♬
  
 何度も
@@ -1339,7 +1339,7 @@ Many times
  
 Dreamy
  
-Many times ...",0.14285714285714285
+Many times ...",0.14285714285714285,0.19674104
 "who became a leader of
 Anbu Black Ops at the age of thirteen","♬
  
@@ -1347,4 +1347,4 @@ Anbu Black Ops at the age of thirteen","♬
 
 ","♬
  
-It is a side of the side",0.1875
+It is a side of the side",0.1875,-0.05149716

@@ -1,165 +1,165 @@
-en_text,jp_text,google_translated,score
-"Her family broke up,",ん？　甘い… 花？,Yeah?Sweet ... flower?,0.0
-Dad! Please let her stay with us!,あっ…,Ah…,0.0
-Wow! It’s as if I have \Nfour daughters now!,信じられなかった,I could not believe it,0.13333333333333333
-"It’s like a harem, right, Mom?",でも 本当なんですね,But it is true,0.07692307692307693
-Thank you.,あなたを殺したのは…,I killed you ...,0.16666666666666666
-R-Right…,（ギン）食べ,Eating,0.0
-What are you doing?,君も？,you too?,0.3333333333333333
-"Huh? Oh, nothing.",（ギン）ああ 僕もや,"Oh, I also",0.25
-Is Nozomi home?,君もあるんやろ？　力,Is there anyone? Power,0.2857142857142857
+en_text,jp_text,google_translated,score,semantic_score
+"Her family broke up,",ん？　甘い… 花？,Yeah?Sweet ... flower?,0.0,0.12055833
+Dad! Please let her stay with us!,あっ…,Ah…,0.0,0.039692495
+Wow! It’s as if I have \Nfour daughters now!,信じられなかった,I could not believe it,0.13333333333333333,0.1694484
+"It’s like a harem, right, Mom?",でも 本当なんですね,But it is true,0.07692307692307693,0.09609661
+Thank you.,あなたを殺したのは…,I killed you ...,0.16666666666666666,0.1544491
+R-Right…,（ギン）食べ,Eating,0.0,0.1957825
+What are you doing?,君も？,you too?,0.3333333333333333,0.36864913
+"Huh? Oh, nothing.",（ギン）ああ 僕もや,"Oh, I also",0.25,0.3795155
+Is Nozomi home?,君もあるんやろ？　力,Is there anyone? Power,0.2857142857142857,0.17078896
 "So, what is the situation?","隊長 何してるんです？
 私の部屋で","What is the captain?
-In my room",0.36363636363636365
+In my room",0.3636363636363637,0.117246255
 I will rule the Soul Society \Nwith my invasion force.,"起きたんなら さっさと代われ
 俺はもう疲れた","If you wake up, it will be repeated
-I'm already tired",0.09090909090909091
-"In other words, this is",ハッ… もうこれだけなんですか？,Hum ... Is this more than this?,0.18181818181818182
-"Sir, wait!",（日番谷）かまわん,Kamawan,0.0
-"If we lose you, the Head Captain,",市丸隊長のことを…,The city Maru captain ...,0.18181818181818182
+I'm already tired",0.09090909090909093,0.1488936
+"In other words, this is",ハッ… もうこれだけなんですか？,Hum ... Is this more than this?,0.18181818181818185,0.4505703
+"Sir, wait!",（日番谷）かまわん,Kamawan,0.0,0.20361629
+"If we lose you, the Head Captain,",市丸隊長のことを…,The city Maru captain ...,0.18181818181818185,0.40894264
 it’s very hard to believe that all,"十番隊 第七席
 竹添幸吉郎(こうきちろう)です","Tento Sentai Seventh
-It is Takeshi Takeshi",0.07142857142857142
-There’s no need to comfort me.,（竹添(たけぞえ)）失礼します,Excuse me for Takeshi,0.08333333333333333
-Now that the power balance between the,牢から姿を消されたとのことです,It is said that the figure was erased from the prison,0.14285714285714285
+It is Takeshi Takeshi",0.07142857142857142,0.11604783
+There’s no need to comfort me.,（竹添(たけぞえ)）失礼します,Excuse me for Takeshi,0.08333333333333333,0.1736413
+Now that the power balance between the,牢から姿を消されたとのことです,It is said that the figure was erased from the prison,0.14285714285714285,0.08942906
 Defending the World of the Living,"目の前が真っ白になってしまい
 気がつけば このありさま","The front of the eyes will be white
-If you notice this",0.14285714285714285
+If you notice this",0.14285714285714285,0.03917425
 You don’t have to say it.,"本気で閉じ込めておくつもりなら
 霊圧を封じておくべきだった","If you really want to confuse it seriously
-I should have sealed the repass",0.21052631578947367
-What? You killed it already?,処刑されるわけでもないのに何で？,What is it not to be executed?,0.2727272727272727
-"She’s… Well, she \Ndid look a bit tired.",（日番谷）雛森 早まるなよ,I'm going fast,0.0
-Is something the matter?,期限は近いぞ,The deadline is closer,0.2857142857142857
-Here you go!,おりゃああ！,Oh!,0.2
-What’s this?,ええ？,Yes?,0.16666666666666666
-It’s defective.,52本目だ,It is 52,0.14285714285714285
-"If you’re not going to do it right,",敵から目を離すな,Do not leave the enemy,0.14285714285714285
+I should have sealed the repass",0.21052631578947367,0.16795874
+What? You killed it already?,処刑されるわけでもないのに何で？,What is it not to be executed?,0.2727272727272727,0.26396677
+"She’s… Well, she \Ndid look a bit tired.",（日番谷）雛森 早まるなよ,I'm going fast,0.0,0.23307368
+Is something the matter?,期限は近いぞ,The deadline is closer,0.2857142857142857,0.11953615
+Here you go!,おりゃああ！,Oh!,0.2,0.1514414
+What’s this?,ええ？,Yes?,0.16666666666666666,0.17780842
+It’s defective.,52本目だ,It is 52,0.14285714285714285,0.1674895
+"If you’re not going to do it right,",敵から目を離すな,Do not leave the enemy,0.14285714285714285,0.22208765
 Where have you been?!,"相手の剣速に合わせ
 刀身をそらし攻撃を受け流したか","For the other party's sword speed
-Did you receive a blade attack?",0.1111111111111111
+Did you receive a blade attack?",0.1111111111111111,0.024173465
 Hurry up and swap back!,"そして そのまま速度を
 殺すことなく瞬時に反撃に転じた","And speed as it is
-I turned back to the counterattack instantly without killing",0.1111111111111111
-"Oh, the spicy mayonnaise?",吸収しているのか,Is it absorbed?,0.1111111111111111
+I turned back to the counterattack instantly without killing",0.1111111111111111,0.27555233
+"Oh, the spicy mayonnaise?",吸収しているのか,Is it absorbed?,0.1111111111111111,0.06784399
 Just mix it into the chocolate.,"今までの斬月の強度に頼った
 戦い方とは明らかに違ってきている","I relied on the strength of the previous month
-It is obviously different from the way",0.10526315789473684
+It is obviously different from the way",0.10526315789473684,0.0749716
 You’re asking me about Kujo?,"（テッサイ）
-おや 店長 風邪ですか？",Do you have a cold?,0.16666666666666666
+おや 店長 風邪ですか？",Do you have a cold?,0.16666666666666666,0.029570462
 That was when I became almost \Ncertain she was a Mod Soul.,"（テッサイ）風邪に効く
 いい薬があるのですが","Works on a cold
-I have a good medicine",0.1111111111111111
-but it was a different sort of ability.,（テッサイ）ベタ中のベタですな,It is a solid in a solid,0.16666666666666666
+I have a good medicine",0.1111111111111111,-0.041589774
+but it was a different sort of ability.,（テッサイ）ベタ中のベタですな,It is a solid in a solid,0.16666666666666666,0.014716376
 "As a possibility,","（テッサイ）はい あ～ん
 （浦原）あ～… いや…","Yes
- A ~ ... No ...",0.125
+ A ~ ... No ...",0.125,0.26933968
 "However, there is one big \Nquestion that still remains.","（テッサイ）熟成発酵しております
 （浦原）いや そうじゃないでしょ","Mature fermented
- No, he is not",0.125
+ No, he is not",0.125,0.04029032
 "When I have retrieved Nozomi,","（一護）俺はあいつを…
 ルキアを助けなきゃならねえんだ","I am that guy ...
-If you have to help Rukia",0.13333333333333333
+If you have to help Rukia",0.13333333333333333,0.14095518
 I will be able to show \Nyou my true power.,"“それを調べるうちに
 僕は１つの真実にたどりついた”","""While checking it
-I went to one truth",0.1111111111111111
-We’ll need to know soon.,“君にだけは知っていてほしい”,"""I want you to know only for you""",0.13333333333333333
+I went to one truth",0.1111111111111111,0.17341328
+We’ll need to know soon.,“君にだけは知っていてほしい”,"""I want you to know only for you""",0.13333333333333333,0.18008065
 "Does this fall under the category \Nof chocolate, or okonomiyaki?","“なぜ その期日は
 早まり続けるのか”","""Why the date
-Are you going early?",0.10526315789473684
-It’s delicious.,（一護）ふっ ぐぬぬ…,Fuchu ...,0.0
-"Sure, sure!",ぐっ ぐっ ぬん！,Great!,0.25
-Nozomi!,いっくぜ はあっ！,There is a lot!,0.16666666666666666
-R-Right.,え？,picture?,0.0
+Are you going early?",0.10526315789473684,0.10324857
+It’s delicious.,（一護）ふっ ぐぬぬ…,Fuchu ...,0.0,0.17581853
+"Sure, sure!",ぐっ ぐっ ぬん！,Great!,0.25,0.3456719
+Nozomi!,いっくぜ はあっ！,There is a lot!,0.16666666666666666,0.20643976
+R-Right.,え？,picture?,0.0,0.26342738
 Didn’t I tell you?,"あっ すげえ すげえぞ！
 何でも効くのか","I'm sorry!
-Whatever you work",0.16666666666666666
-Is it Nozomi?,どうじゃ？　湯加減は,How is it?Hot water reduction,0.375
+Whatever you work",0.16666666666666666,0.17514311
+Is it Nozomi?,どうじゃ？　湯加減は,How is it?Hot water reduction,0.375,0.10826594
 How depressing!,"（一護）ぶへぇ～！
 ゲホッ ゲホッ ゲホッ アホか！","ぶ ~!
-Geho Gho Gho Hoho!",0.125
-What’re you shouting for?,（夜一）何だ よいではないか,What is it?,0.2222222222222222
+Geho Gho Gho Hoho!",0.125,0.23839864
+What’re you shouting for?,（夜一）何だ よいではないか,What is it?,0.2222222222222222,0.1282787
 Sis! Please!,"あっ 入ってくんなって
 ダ ダメ… あ…","There is no one entering
-Daddy ... Oh ...",0.0
+Daddy ... Oh ...",0.0,0.103714705
 "Hey, Nozomi!","ずっと思ってたんだけど
 ここって あそこに似てるよな","I always thought
-Here, she looks like that",0.08333333333333333
+Here, she looks like that",0.08333333333333333,0.104130104
 What’s wrong?,"（一護）なあ 夜一さん
 （夜一）何じゃ？","Night Night
- What?",0.3333333333333333
+ What?",0.3333333333333333,0.1474238
 I was just looking.,"（夜一）あそこは ここをまねて
 作られたものじゃからのう","Mimine here there
-From what was made",0.09090909090909091
-Okay.,浦原商店の地下の勉強部屋,Urahara Store underground study room,0.0
-Need help?,そうなのか？,Oh really?,0.2
+From what was made",0.09090909090909093,0.21105315
+Okay.,浦原商店の地下の勉強部屋,Urahara Store underground study room,0.0,0.016036801
+Need help?,そうなのか？,Oh really?,0.2,0.1462606
 I’ll be fine!,"（夜一）ああ ここは もともと
 わしと喜助(きすけ)が幼いころ―","ah here is originally
-I'm a younger",0.07692307692307693
-Damn!,（一護）こっそりって…,...,0.0
-You okay?,こんなバカでかい空間をこっそり？,Does such an idiot spacious?,0.125
+I'm a younger",0.07692307692307693,0.14311078
+Damn!,（一護）こっそりって…,...,0.0,0.15835437
+You okay?,こんなバカでかい空間をこっそり？,Does such an idiot spacious?,0.125,0.13564685
 What do you think you’re doing?,"（夜一）フッ 何度やっても
 よいリアクションじゃ","Even if you do it again and again
-Good reaction",0.13333333333333333
-Why don’t you come over \Nfor dinner tonight?,あいつ やっぱり死神だったのか？,Did you go to death after all?,0.11764705882352941
+Good reaction",0.13333333333333333,0.08904455
+Why don’t you come over \Nfor dinner tonight?,あいつ やっぱり死神だったのか？,Did you go to death after all?,0.1176470588235294,0.17136513
 What brought that up? \NYou’re creeping me out.,"（一護）いいから
-あのおっさんのこと教えろ",Teach that old man,0.06666666666666667
-It’s about Kon…,（一護）おかしいとは思ってた,I thought it was funny,0.1111111111111111
+あのおっさんのこと教えろ",Teach that old man,0.06666666666666668,0.13697614
+It’s about Kon…,（一護）おかしいとは思ってた,I thought it was funny,0.1111111111111111,0.15421999
 He just found out that Kujo \Nis a Mod Soul like himself.,"尸魂界(ソウル・ソサエティ)に詳しいし
 斬魄刀(ざんぱくとう)は持ってるし","Learn more about Soul Society
-I have a sword sword",0.1
-"That’s why I figured the \Nlivelier it is, the better.",あいつは一体 何者なんだ？,Who is that one?,0.125
-You really think so?,（一護）え？　マジかよ,? Are you serious,0.2857142857142857
-Brother sure looks…energetic.,やはり…,also…,0.0
+I have a sword sword",0.1,0.27404064
+"That’s why I figured the \Nlivelier it is, the better.",あいつは一体 何者なんだ？,Who is that one?,0.125,-0.01982473
+You really think so?,（一護）え？　マジかよ,? Are you serious,0.2857142857142857,0.436289
+Brother sure looks…energetic.,やはり…,also…,0.0,0.21159597
 What threat does she represent?,"こっそり逃がすんなら
 詰めが甘かったんじゃねえのか？","If you miss it secretly
-Isn't it sweet?",0.07142857142857142
-We thought we should avoid,市丸,City circle,0.0
-I’ll protect her.,（雛森）やっと 見つけた,I finally found it,0.1111111111111111
+Isn't it sweet?",0.07142857142857142,-0.030175116
+We thought we should avoid,市丸,City circle,0.0,0.09176369
+I’ll protect her.,（雛森）やっと 見つけた,I finally found it,0.1111111111111111,0.064945176
 "with just us, or with you.","よせ 雛森
 お前のかなう相手じゃねえ","よ
-You're not your partner",0.08333333333333333
-Ironic?,な… 雛森？,...?,0.3333333333333333
-"But now, many Soul Reapers \Nhave been injured",（日番谷）な…,...,0.0
-"You have to admit, it’s ironic.",“朽木ルキアを殺すことではない”,"""It is not to kill the debrquer",0.125
-"As long as they’re \Nborn into this world,",“この処刑は―”,"""This execution is-""",0.07142857142857142
+You're not your partner",0.08333333333333333,0.17832695
+Ironic?,な… 雛森？,...?,0.3333333333333333,0.26848748
+"But now, many Soul Reapers \Nhave been injured",（日番谷）な…,...,0.0,0.16928361
+"You have to admit, it’s ironic.",“朽木ルキアを殺すことではない”,"""It is not to kill the debrquer",0.125,0.1358667
+"As long as they’re \Nborn into this world,",“この処刑は―”,"""This execution is-""",0.07142857142857142,0.019631095
 they have a right to keep living too.,"“それ自体があるものを奪うために
 仕組まれたものだったのだ”","""To rob one of them
-It was a mechanism",0.11764705882352941
-So that’s it?,“それぞれ備わっているとされる”,"""It is said that each",0.2
+It was a mechanism",0.1176470588235294,0.1232416
+So that’s it?,“それぞれ備わっているとされる”,"""It is said that each",0.2,0.21448532
 No wonder you couldn’t trust me.,"“死神をはりつけ
 貫くことによって―”","""Attack the death rim
-By penetrating-",0.0
+By penetrating-",0.0,0.06893055
 That idiot!,"（雛森）
-そして手紙はこう続くの",And letters continue,0.0
-You’re just like me.,“君に… 願う”,"""I hope you ...",0.09090909090909091
+そして手紙はこう続くの",And letters continue,0.0,0.12613997
+You’re just like me.,“君に… 願う”,"""I hope you ...",0.09090909090909093,0.21560107
 If only…I weren’t alive…\Neveryone would be…,"（雛森）ううっ くっ うん
 （日番谷）な…","Uh uh
- ...",0.0
-Kon!,（雛森）うっ うわあああ！,uh yeah!,0.25
-What’re you doing?!,もう どうしたらいいのか,What should I do?,0.2
+ ...",0.0,0.12468848
+Kon!,（雛森）うっ うわあああ！,uh yeah!,0.25,0.30614382
+What’re you doing?!,もう どうしたらいいのか,What should I do?,0.2,0.09338165
 No!,"（日番谷）ダメだ 混乱しすぎて
 判断ができなくなっちまってる","No messed up
-I can not judge",0.125
+I can not judge",0.125,0.14687814
 I also want to…protect…,"だが 藍染が
 あんな手紙を書くわけねえ","But there is an indigo dye
-I write such a letter",0.07142857142857142
-Is this my…,てめえの目的は 何だ？,What is the purpose of the sky?,0.1111111111111111
+I write such a letter",0.07142857142857142,0.12795246
+Is this my…,てめえの目的は 何だ？,What is the purpose of the sky?,0.1111111111111111,0.07964255
 I thought you said you \Ndidn’t have a Zanpakuto.,"じきに聞かれへんように
 なるんやから","I will ask you soon
-From",0.13333333333333333
+From",0.13333333333333333,0.18665496
 Everyone tries to protect me…,"（日番谷）
-藍染だけじゃ足りねえか",It's not enough to see,0.1
-What?,はて？　何のことやら,?What,1.0
-I got all caught up on \Nwhat to say to you.,言ったはずだぜ,I should say,0.16666666666666666
-but don't let that \Nstop us from trying to live!,僕が止めるしかないやないの,I have no choice but to stop,0.11764705882352941
+藍染だけじゃ足りねえか",It's not enough to see,0.1,0.11441117
+What?,はて？　何のことやら,?What,1.0,0.87105656
+I got all caught up on \Nwhat to say to you.,言ったはずだぜ,I should say,0.16666666666666666,0.28034532
+but don't let that \Nstop us from trying to live!,僕が止めるしかないやないの,I have no choice but to stop,0.1176470588235294,0.36072356
 The mane came off.,"こないなところで
 刀 抜かれたら―","Where do not come
-If the sword is removed-",0.07692307692307693
+If the sword is removed-",0.07692307692307693,0.4018401
 It went fine.,"（浦原）
-いいや もう大丈夫ですから",Because it is fine or already,0.25
+いいや もう大丈夫ですから",Because it is fine or already,0.25,0.34590387
 "I secretly went and \Nadjusted the flavoring,","（テッサイ）
-夕刊の３行広告で見つけた―",I found in three lines of ads of the evening paper-,0.125
+夕刊の３行広告で見つけた―",I found in three lines of ads of the evening paper-,0.125,0.113194615
 "Now that you mention it, \NI haven’t eaten yet.","（浦原）その段階で怪しいですよ
 （テッサイ）万病に効くそうですぞ","It is suspicious at that stage
- It seems to work for everything",0.09090909090909091
+ It seems to work for everything",0.09090909090909093,0.05004798

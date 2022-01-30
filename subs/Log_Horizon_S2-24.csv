@@ -1,487 +1,487 @@
-en_text,jp_text,google_translated,score
-"What is this, my lord?",（アカツキ）主君 これは…,Lord Ko This is ...,0.3333333333333333
-Sleeping?,大丈夫ですか？,OK?,0.3333333333333333
-What happened?,一体 何が？,What on earth?,0.4
-Sh-Shining wings...,（大地人）ひ… 光る羽…,... Hikaru Wings ...,0.5
-The fifty-four People of the Land who fell \Nasleep are being kept at the guild hall.,ギルド会館で保護しています,Protecting at the Guild Hall,0.25
+en_text,jp_text,google_translated,score,semantic_score
+"What is this, my lord?",（アカツキ）主君 これは…,Lord Ko This is ...,0.3333333333333333,0.4313833
+Sleeping?,大丈夫ですか？,OK?,0.3333333333333333,0.2223084
+What happened?,一体 何が？,What on earth?,0.4,0.21864492
+Sh-Shining wings...,（大地人）ひ… 光る羽…,... Hikaru Wings ...,0.5,0.5852598
+The fifty-four People of the Land who fell \Nasleep are being kept at the guild hall.,ギルド会館で保護しています,Protecting at the Guild Hall,0.25,0.54036045
 The same phenomenon occurred in Maihama.,"（リーゼ）マイハマでも
 同じ現象が起き―","Mahama
-The same phenomenon occurs-",0.3333333333333333
+The same phenomenon occurs-",0.3333333333333333,0.6056823
 Silver Sword says Susukino is safe.,"シルバーソードによると
 ススキノは無事なようです","According to silver sode
-Susukino seems to be safe",0.25
-Yes.,（ロデリック）はい,Yes,0.5
+Susukino seems to be safe",0.25,0.8489923
+Yes.,（ロデリック）はい,Yes,0.5,0.83685577
 Belna /Person of the Land,"（マリエール）
-蛾の精霊っちゅうとこやな",The spirit of the wolf,0.2857142857142857
+蛾の精霊っちゅうとこやな",The spirit of the wolf,0.2857142857142857,0.2728662
 Their MP falls to zero and doesn't \Nrecover fast enough naturally.,"ＭＰがゼロになったまま
 自然回復が追いつきません","MP remains zero
-Natural recovery does not catch up",0.15789473684210525
+Natural recovery does not catch up",0.15789473684210525,0.475866
 So their MP is being continually drained?,"（ミチタカ）
-ＭＰが削られ続けてるってことか",Is MP being cut off?,0.4
+ＭＰが削られ続けてるってことか",Is MP being cut off?,0.4,0.6149284
 Eyewitnesses suggest it's due to a \Nmoth-like monster with shining wings.,"光る羽を持つ 蛾(が)のような
 モンスターの仕業と考えられます","Like a wolf  with a light feathers
-It is considered as a monster work",0.19047619047619047
-There wasn't any monster like that in the game.,（リーゼ）ゲームだった頃には,When it was a game,0.14285714285714285
+It is considered as a monster work",0.19047619047619047,0.44334638
+There wasn't any monster like that in the game.,（リーゼ）ゲームだった頃には,When it was a game,0.14285714285714285,0.3012326
 is to keep investigating and \Nto strengthen our defenses.,"とにかく調査を続け 警備も
 強化したほうがよさそうですね","Anyway, continue surveying and security
-It looks better to strengthen",0.16666666666666666
+It looks better to strengthen",0.16666666666666666,0.48510173
 What about Shibuya?,"（アインス）
-シブヤは どうするのですか？",What do shibuya do he?,0.5
-Shibuya?,（ソウジロウ）シブヤ？,Shibuya?,1.0
+シブヤは どうするのですか？",What do shibuya do he?,0.5,0.81333035
+Shibuya?,（ソウジロウ）シブヤ？,Shibuya?,1.0,0.9999994
 Regan told us that the remains of the,"シブヤの放送局跡が生きているとの
 情報が入ったそうですね","It is said that the broadcast station mark of Shibuya is alive
-It seems that the information came",0.16666666666666666
-Shouldn't we investigate that immediately?,そちらの調査を急ぐべきでは？,Should I hurry that survey?,0.3
+It seems that the information came",0.16666666666666666,0.18654965
+Shouldn't we investigate that immediately?,そちらの調査を急ぐべきでは？,Should I hurry that survey?,0.3,0.2331673
 And ignore the moth spirit?,"（ミチタカ）蛾の精霊は
 放っておけってのか？","The spirit of the moth is
-Do you leave it?",0.3333333333333333
-"It may seem cold, but if only People \Nof the Land are falling asleep—",冷たいようですが,It seems cold,0.125
-No way!,そんな！,Such!,0.25
+Do you leave it?",0.3333333333333333,0.72886026
+"It may seem cold, but if only People \Nof the Land are falling asleep—",冷たいようですが,It seems cold,0.125,0.53940964
+No way!,そんな！,Such!,0.25,0.38915652
 That's just how much stress the \Nadventurers are under right now!,"（アインス）それだけ 冒険者も
 追い詰められているということです","The adventurer is also
-It is said that it is chased",0.10526315789473684
+It is said that it is chased",0.10526315789473684,0.002271768
 The flavor text coming true.,"衛兵の暴走
 フレーバーテキストの具現化","Guardian runaway
-Frame text implementation",0.1
-And now this...,それに今回の事件,And this case,0.4
-And there are signs of impending \Nwar with People of the Land.,大地人の間では戦争の気配も…,The war of war is also ...,0.125
+Frame text implementation",0.1,0.22157006
+And now this...,それに今回の事件,And this case,0.4,0.3505565
+And there are signs of impending \Nwar with People of the Land.,大地人の間では戦争の気配も…,The war of war is also ...,0.125,0.31853512
 "I do understand how you feel, but...","（ウッドストック）
-気持ちは分からんでもないが…",I do not know the feeling ...,0.23076923076923078
+気持ちは分からんでもないが…",I do not know the feeling ...,0.2307692307692308,0.5296942
 "Yeah. Even if we can go home, \Nit's not going to happen right away.","（ミチタカ）
-ああ 帰れるにしても―","Oh, even if you can go home-",0.25
-"Right, Shiroe?",（ソウジロウ）ん？,?,0.25
-Yes...,（マリエール）ん…,...,0.5
+ああ 帰れるにしても―","Oh, even if you can go home-",0.25,0.61981434
+"Right, Shiroe?",（ソウジロウ）ん？,?,0.25,0.21373187
+Yes...,（マリエール）ん…,...,0.5,0.6046914
 Let's keep an eye on the situation \Nand see what we can do.,"状況を見つつ
 考えていきましょう","Find a situation
-Let's think",0.16666666666666666
+Let's think",0.16666666666666666,0.5937172
 Sleep of the Eternal Moth,"（シロエ）
-蛾の精霊のこともあるしね",There is also a thing of the spirit of the moth,0.2727272727272727
-There aren't many people today.,（アカツキ）今日は人が少ないな,There are few people today,0.5
-Tohya.,（ミノリ）トウヤ,Toya,0.0
+蛾の精霊のこともあるしね",There is also a thing of the spirit of the moth,0.2727272727272727,0.6764351
+There aren't many people today.,（アカツキ）今日は人が少ないな,There are few people today,0.5,0.80281985
+Tohya.,（ミノリ）トウヤ,Toya,0.0,0.33991522
 What did Chief Nyanta say?,"（トウヤ）
-にゃん太(た)班長 何だって？",What is Nyan ?,0.25
-The People of the Land who fell asleep \Nshow no signs of waking up yet.,まだ 目が覚める気配がないみたい,It seems that there is no sign to wake up,0.09090909090909091
-I'm going home.,オレは帰るよ,I will go home,0.2857142857142857
+にゃん太(た)班長 何だって？",What is Nyan ?,0.25,0.40067026
+The People of the Land who fell asleep \Nshow no signs of waking up yet.,まだ 目が覚める気配がないみたい,It seems that there is no sign to wake up,0.09090909090909093,0.464894
+I'm going home.,オレは帰るよ,I will go home,0.2857142857142857,0.790566
 Are you thinking about your home?,"（ルンデルハウス）故郷のことを
 考えているのかい？","Hometown
-Do you think?",0.2
+Do you think?",0.2,0.4322583
 "Even if we're apart, I don't think \Nour relationship will change.","ボクたちの関係は
 変わらないと思うがね","Boku's relationship is
-I think it does not change",0.19047619047619047
-I might not be able to see you anymore.,もう会えないかもしれないんだよ,It may not be able to meet anymore,0.38461538461538464
+I think it does not change",0.19047619047619047,0.44001094
+I might not be able to see you anymore.,もう会えないかもしれないんだよ,It may not be able to meet anymore,0.38461538461538464,0.457743
 "Even so, if you have a place \Nto go home to, you should.","（ルンデルハウス）それでも
 帰る場所があるなら帰るべきだ","still
-You should go home if you have a place to get home",0.5625
-Rudy...,（五十鈴）あ… ルディ,A ... Ludge,0.25
+You should go home if you have a place to get home",0.5625,0.8213702
+Rudy...,（五十鈴）あ… ルディ,A ... Ludge,0.25,0.18834084
 "Okay, we're going to head out on patrol.","（にゃん太）
-では 見回りに行ってきますにゃ",Then I will go to see,0.0625
+では 見回りに行ってきますにゃ",Then I will go to see,0.0625,0.2995829
 Yeah.,"（シロエ）うん
 班長 みんなのことをよろしく","Yeah
-Thank you for everyone",0.16666666666666666
+Thank you for everyone",0.16666666666666666,0.2839528
 Shiro!,"（直継(なおつぐ)）シロ！
 （シロエ）ん？","Shiro!
-?",0.6666666666666666
+?",0.6666666666666666,0.9452437
 A whole swarm of moths!,"（直継）来やがった 来やがった！
 蛾の群れだ！","I came to come!
-It is a flock of moths!",0.3076923076923077
-Eternal moths?,（シロエ）常蛾(じょうが)？,?,0.3333333333333333
+It is a flock of moths!",0.3076923076923077,0.7262825
+Eternal moths?,（シロエ）常蛾(じょうが)？,?,0.3333333333333333,0.093622744
 Could this be...,"（ヘンリエッタ）
-これは ひょっとして…",This is her a little ...,0.25
+これは ひょっとして…",This is her a little ...,0.25,0.42634246
 I hate bugs!,"（アイザック）
-オレは虫が嫌いなんだよ！",I hate insects!,0.6
-What the hell is this?,（カズ彦(ひこ)）何なんだ こりゃあ,) What is it?,0.375
-Push them outside the walls!,城壁の外に押し戻せ！,Push out of the wall!,0.3333333333333333
+オレは虫が嫌いなんだよ！",I hate insects!,0.6,0.86459845
+What the hell is this?,（カズ彦(ひこ)）何なんだ こりゃあ,) What is it?,0.375,0.36695486
+Push them outside the walls!,城壁の外に押し戻せ！,Push out of the wall!,0.3333333333333333,0.6873663
 The southwest side's about to be breached...,"（ボロネーゼ親方）
-南西側が突破されそうぞな",The southwest side is likely to break through,0.3076923076923077
+南西側が突破されそうぞな",The southwest side is likely to break through,0.3076923076923077,0.82054144
 "Team 2, cover them!","（ウィリアム）
-第２班 カバーに回れ！",Turn to the second 班 cover!,0.18181818181818182
-Roger!,（ポロロッカ）了解！,OK!,0.3333333333333333
+第２班 カバーに回れ！",Turn to the second 班 cover!,0.18181818181818185,0.4567999
+Roger!,（ポロロッカ）了解！,OK!,0.3333333333333333,0.37282115
 "Don't you have to go to your wife, Demi?","（ウィリアム）嫁の所に
 戻らなくていいのか？ デミ","To the place of daughter-in-law
-Don't you have to return?Demonstration",0.35294117647058826
+Don't you have to return?Demonstration",0.35294117647058826,0.34968877
 I'm having her lead People of the Land to safety.,"（デミクァス）あいつには
 大地人の避難を先導させてる","As a guy
-Lead the evacuation of the earthman",0.17647058823529413
-That was unexpected.,（カズ彦）想定外だったな,I was unexpected,0.4
-An attack from outside the zone...,ゾーンの外からの攻撃とは,With an attack from outside the zone,0.75
-Get the People of the Land to safety!,大地人たちを避難させろ！,Evacuate the landmarks!,0.2
-Right!,（壬生狼メンバーたち）はい！,Yes!,0.3333333333333333
+Lead the evacuation of the earthman",0.17647058823529413,0.3091275
+That was unexpected.,（カズ彦）想定外だったな,I was unexpected,0.4,0.80451435
+An attack from outside the zone...,ゾーンの外からの攻撃とは,With an attack from outside the zone,0.75,0.8315886
+Get the People of the Land to safety!,大地人たちを避難させろ！,Evacuate the landmarks!,0.2,0.5126272
+Right!,（壬生狼メンバーたち）はい！,Yes!,0.3333333333333333,0.55785453
 "Marielle, there are more here!","（セララ）
-マリエールさん こっちも！",Mariere's Mr. here too!,0.18181818181818182
-This is bad!,これは まずいことになる,This is a bad thing,0.5
-Even adventurers?,（ヘンリエッタ）冒険者まで？,Up to Adventurer?,0.16666666666666666
-It's dangerous to be outside!,（小竜）外にいては危険だ！,It is dangerous to be out of !,0.5
+マリエールさん こっちも！",Mariere's Mr. here too!,0.18181818181818185,0.63813496
+This is bad!,これは まずいことになる,This is a bad thing,0.5,0.6515008
+Even adventurers?,（ヘンリエッタ）冒険者まで？,Up to Adventurer?,0.16666666666666666,0.67838335
+It's dangerous to be outside!,（小竜）外にいては危険だ！,It is dangerous to be out of !,0.5,0.7276207
 "Everyone, get inside the guild building!","（シロエ）みんな！
 早くギルド会館の中へ！","everyone!
-In the guild hall early!",0.36363636363636365
+In the guild hall early!",0.3636363636363637,0.8032371
 "It may be that your Psyche, your MP, \Nis drained from your body.","ＭＰが 肉体から
 抜けてしまうのかもしれません","MP from the body
-It may be missed",0.4
-"Perhaps we should call it ""Missing Psyche Disease.""",（ロデリック）“魂(こん)”,"""Hello""",0.16666666666666666
+It may be missed",0.4,0.45857802
+"Perhaps we should call it ""Missing Psyche Disease.""",（ロデリック）“魂(こん)”,"""Hello""",0.16666666666666666,0.039476242
 "We don't know the difference between those \Nwho fall asleep and those who don't, but...","その違いについては
 分かりませんが…","About the difference
-I do not know ...",0.2631578947368421
+I do not know ...",0.2631578947368421,0.39997113
 "You don't die, do you?","（茜屋）死ぬことはないんだな？
 （ロデリック）はい","Do you not die?
- Yes",0.5
+ Yes",0.5,0.8251869
 "If you die, you can revive at the Cathedral.","（ウッドストック）死ねば
 大神殿でよみがえることができる","If you die
-It can be seen by the Great Temple",0.3125
-But once you fall asleep...,だが 一度眠ってしまったら…,But once I sleep ...,0.375
-How did it go?,どうだった？,how was it?,0.5
+It can be seen by the Great Temple",0.3125,0.53910965
+But once you fall asleep...,だが 一度眠ってしまったら…,But once I sleep ...,0.375,0.7981502
+How did it go?,どうだった？,how was it?,0.5,0.7169785
 "I've found the eternal moths' nest, Shiro.","（ソウジロウ）シロ先輩
 見つけましたよ 常蛾の巣を","Shiro senior
-I found it.",0.3076923076923077
-Where is it?,（シロエ）それで 一体どこに？,Where is it?,1.0
+I found it.",0.3076923076923077,0.55573887
+Where is it?,（シロエ）それで 一体どこに？,Where is it?,1.0,1.0000004
 The player town of Shibuya \Nhas turned into a dungeon.,"シブヤのプレーヤータウンが
 ダンジョンになってます","Cybeya's player town
-Become a dungeon",0.2857142857142857
+Become a dungeon",0.2857142857142857,0.5791628
 It's a raid zone.,"こっちは
 レイドゾーンになってますよ","Here
-It is a raid zone",0.5
-"Its new name is the ""Calling Fortress.""",新しい名前は“呼び声の砦(とりで)”,"The new name is ""Called Fort""",0.5
-What's this?,（リ＝ガン）おお これは…,Oh this is ...,0.14285714285714285
-It's a prototype based on the \Ngame's capture functions.,試作品です,It is a prototype,0.25
+It is a raid zone",0.5,0.9227234
+"Its new name is the ""Calling Fortress.""",新しい名前は“呼び声の砦(とりで)”,"The new name is ""Called Fort""",0.5,0.6925269
+What's this?,（リ＝ガン）おお これは…,Oh this is ...,0.14285714285714285,0.35358244
+It's a prototype based on the \Ngame's capture functions.,試作品です,It is a prototype,0.25,0.39170834
 "But if you use it for more than \Nten minutes, it explodes.","まあ 10分以上使用すると
 爆発しちゃいますが","If you use it for more than 10 minutes
-I will explode",0.47058823529411764
+I will explode",0.4705882352941176,0.75806195
 "Until last week, it was completely normal.","（シロエ）先週までは
 いつもどおりでした","until last week
-As usual",0.2727272727272727
+As usual",0.2727272727272727,0.5871404
 It seems there's a seal on the entrance.,"（茜屋）入り口には
 封印が施されているようだな","At the entrance
-It seems that it is sealed",0.2857142857142857
+It seems that it is sealed",0.2857142857142857,0.8169911
 from the moon and was drawn by \Nthat device you call an antenna?,"常蛾の繭や モンスターの卵が
 月から下りてきているのでは？","Eggs of alley and monsters
-Are you down from the moon?",0.3
-From the moon in the sky?,お空のお月さんから？,From the sky moon?,0.8333333333333334
-On the moon is a community of Observers,監察者のコミュニティーがある,There is a community of an auditor,0.36363636363636365
+Are you down from the moon?",0.3,0.30442545
+From the moon in the sky?,お空のお月さんから？,From the sky moon?,0.8333333333333334,0.9739001
+On the moon is a community of Observers,監察者のコミュニティーがある,There is a community of an auditor,0.3636363636363637,0.39311248
 whom we're trying to contact.,"月にはオレたちが
 連絡を取ろうとしている","I have ole
-I'm trying to get in touch",0.14285714285714285
-So are those eternal moths a type of Genius?,典災の一種なんか？,A kind of scratch?,0.25
+I'm trying to get in touch",0.14285714285714285,0.36831185
+So are those eternal moths a type of Genius?,典災の一種なんか？,A kind of scratch?,0.25,0.17625679
 Roe 2's letter did say that the Geniuses,"（マリエール）じゃあ
-あの常蛾っちゅうのも―",That normal moths-,0.09090909090909091
-"I didn't understand what they were, though.",何のことか分かりませんでしたが…,I did not know what ...,0.23076923076923078
+あの常蛾っちゅうのも―",That normal moths-,0.09090909090909093,0.07254213
+"I didn't understand what they were, though.",何のことか分かりませんでしたが…,I did not know what ...,0.2307692307692308,0.40662715
 Is it MP?,"（リーゼ）
-それはＭＰのことなのですか？",Is it MP?,1.0
+それはＭＰのことなのですか？",Is it MP?,1.0,1.0000001
 The eternal moths appeared at the same \Ntime yesterday and the day before.,"（茜屋）常蛾は 昨日もおとといも
 同じ時間に現れた","An nomota is also good yesterday
-I appeared at the same time",0.2631578947368421
-The same time the moon rises.,月が昇るのと同時ですね,Same as the moon rises,0.5714285714285714
-"18:22, precisely.",正確には18時22分,Exactly 18:22,0.2
+I appeared at the same time",0.2631578947368421,0.38116777
+The same time the moon rises.,月が昇るのと同時ですね,Same as the moon rises,0.5714285714285714,0.8034848
+"18:22, precisely.",正確には18時22分,Exactly 18:22,0.2,0.91664565
 A third wave is certain to come tonight.,"今夜には攻撃の第３波が来るのは
 確実でしょう","The third wave of attack comes tonight
-Surely",0.21428571428571427
+Surely",0.21428571428571427,0.769674
 "The first time, it was People of the Land, \Nand the second, it was adventurers, too.","１度目で大地人
 ２度目は冒険者も…","Divert at the first time
-The second time is an adventurer ...",0.2
-But that's the only thing in Yamato that...,しかし あれはヤマトで唯一の…,But that is the only thing in Yamato ...,0.8
-"And according to legend,",はい それに伝承によると,Yes according to the tradition,0.25
+The second time is an adventurer ...",0.2,0.34664184
+But that's the only thing in Yamato that...,しかし あれはヤマトで唯一の…,But that is the only thing in Yamato ...,0.8,0.9851678
+"And according to legend,",はい それに伝承によると,Yes according to the tradition,0.25,0.41847327
 an antenna is necessary for \Ncommunication with the stars.,"アンテナは星々への通信には
 必要不可欠なもの","Antenna is for communication to the stars
-Essential one",0.35714285714285715
+Essential one",0.35714285714285715,0.89164704
 "If we destroy it, Shiroe's plan may \Nbe impossible to execute.","破壊してしまえば シロエ様たちの
 計画は不可能になるかと","If you destroy it, Shiroe's
-Is the plan impossible",0.3333333333333333
-What about the other servers?,（マリエール）他のサーバーは？,What other servers?,0.6666666666666666
-We don't know.,（ミチタカ）分からん,I do not know,0.2857142857142857
+Is the plan impossible",0.3333333333333333,0.8794962
+What about the other servers?,（マリエール）他のサーバーは？,What other servers?,0.6666666666666666,0.8254104
+We don't know.,（ミチタカ）分からん,I do not know,0.2857142857142857,0.65105855
 "Even if the facilities do exist somewhere \Nelse, they may be nonfunctional.","（ロデリック）たとえ
-よそに設備があっても―",Even if there is a facility,0.1111111111111111
-Maybe we'll just have to give up this time.,今回は諦めるしかないか…,I have no choice but to give up this time ...,0.375
-So what do we do?,それで どうするんですか？,So what do you do?,0.6666666666666666
-The Calling Fortress is a raid zone.,呼び声の砦はレイドゾーンです,The call of calling is a raid zone,0.6
+よそに設備があっても―",Even if there is a facility,0.1111111111111111,0.7727829
+Maybe we'll just have to give up this time.,今回は諦めるしかないか…,I have no choice but to give up this time ...,0.375,0.554865
+So what do we do?,それで どうするんですか？,So what do you do?,0.6666666666666666,0.76455224
+The Calling Fortress is a raid zone.,呼び声の砦はレイドゾーンです,The call of calling is a raid zone,0.6,0.81358755
 "Even if it appears to be in front of us,","目の前にあるように見えても
 外部からの攻撃は不可能です","Even if it looks like in front of you
-External attacks are impossible",0.3333333333333333
-it's impossible to attack from the outside.,目的地を目指すほかないでしょう,It will not be good to aim at the destination,0.1875
-We'll dispatch a raid team immediately.,今すぐレイドチームを派遣します,I will dispatch a raid team now,0.36363636363636365
+External attacks are impossible",0.3333333333333333,0.44026476
+it's impossible to attack from the outside.,目的地を目指すほかないでしょう,It will not be good to aim at the destination,0.1875,0.34400654
+We'll dispatch a raid team immediately.,今すぐレイドチームを派遣します,I will dispatch a raid team now,0.3636363636363637,0.895005
 Some of them don't have very high levels.,"（茜屋）レベルが
 そう高くない者もいるな","level
-Some people are not so high",0.13333333333333333
+Some people are not so high",0.13333333333333333,0.7474747
 I selected them from people who didn't fall \Nasleep when exposed to the moths' scales.,"（シロエ）常蛾の鱗粉を浴びても
 眠らなかった者から選抜しました","Even if you take a pollen
-I selected from those who did not sleep",0.18518518518518517
+I selected from those who did not sleep",0.1851851851851852,0.38933402
 "Of course, there's no guarantee \Nthey'll withstand the next attack.","もちろん 次の攻撃に耐えられる
 保証はありませんが…","Of course you can withstand the next attack
-There is no guarantee ...",0.5
-There's no time.,時間がありません,there is no time,0.5
-"So we're taking a gamble, huh?",イチかバチかというわけか,Is it a good or big?,0.14285714285714285
+There is no guarantee ...",0.5,0.865966
+There's no time.,時間がありません,there is no time,0.5,0.8565477
+"So we're taking a gamble, huh?",イチかバチかというわけか,Is it a good or big?,0.14285714285714285,0.09099227
 Sorry to keep you waiting!,"（リ＝ガン）お待たせしました
 （直継）え？","Thank you for waiting
-?",0.2222222222222222
-"You're coming, too, old man?",それだけじゃないんだろ？,Aren't you?,0.2
+?",0.2222222222222222,0.58519536
+"You're coming, too, old man?",それだけじゃないんだろ？,Aren't you?,0.2,0.19462025
 "Yes. Apparently, there's a special seal \Non the Calling Fortress's entrance.","呼び声の砦の入り口には
 特殊な封印が施されてるようで","At the entrance of the call of the call
-It seems that special sealed is applied",0.13043478260869565
+It seems that special sealed is applied",0.13043478260869565,0.49791396
 Shiroe asked me to release it.,"それを解除してほしいと
 シロエ様に頼まれました","I want you to cancel it
-I was asked for Shiroe",0.3076923076923077
+I was asked for Shiroe",0.3076923076923077,0.66240937
 This situation is a first in the world's history.,"このような事態
 この世界の歴史で初めてのこと","Such situation
-The first thing in this world's history",0.6153846153846154
+The first thing in this world's history",0.6153846153846154,0.8986149
 I have a responsibility to see it through.,"ミラルレイクの名を継ぐ者として
 見届ける責務があります","As a person who succeeds Miral Lake
-There is a responsibility to see",0.23529411764705882
+There is a responsibility to see",0.2352941176470588,0.4060464
 We may not be able to protect you.,"オッサンを守る余裕は
 オレたちには ないかもしれないぜ","The margin to protect the oessant
-I may not be him for me",0.3125
-I'll take care of myself.,シブヤの件も聞いております,I also hear the matter of Shibiya,0.16666666666666666
+I may not be him for me",0.3125,0.2999757
+I'll take care of myself.,シブヤの件も聞いております,I also hear the matter of Shibiya,0.16666666666666666,0.15538882
 Facilities across Yamato have been knocked out.,"（菫星(きんじょう)）ヤマト中の施設が
 沈黙しました","Facilities in Yamato 
-Silence",0.2
+Silence",0.2,0.64842933
 "I've heard what's happening in Shibuya, too.","冒険者が どのような判断を下すか
 見守らせていただきましょう","What kind of judgment is the adventurer
-Let's watch over",0.1
-"You take care, as well.",（菫星）皆様も お気をつけて,Thank you very much,0.1
-Einz...,（アインス）ん…,...,0.5
+Let's watch over",0.1,0.16585916
+"You take care, as well.",（菫星）皆様も お気をつけて,Thank you very much,0.1,0.27495855
+Einz...,（アインス）ん…,...,0.5,0.32978275
 Yes?,"（シロエ）アインスさん
 （アインス）はい","Ains
- Yes",0.3333333333333333
+ Yes",0.3333333333333333,0.39236096
 "that you're a member of the Round Table, too.","信じます あなたも
 円卓会議の一員だと","I believe you
-It is a member of the round table meeting",0.4117647058823529
+It is a member of the round table meeting",0.4117647058823529,0.6951251
 "Our target is the raid zone deep in the \NShibuya Dungeon, the Calling Fortress.","（シロエ）目標はシブヤダンジョン
 奥にあるレイドゾーン―","goal is Sibiya Dungeon
-Raid zone in the back",0.35294117647058826
-Let's finish this by moonrise!,攻略しましょう 月の出までに！,Let's capture and let's go out of the moon!,0.21428571428571427
+Raid zone in the back",0.35294117647058826,0.6839652
+Let's finish this by moonrise!,攻略しましょう 月の出までに！,Let's capture and let's go out of the moon!,0.21428571428571427,0.56009924
 Eight moon rabbits from the old Dougenzaka area.,"（ミノリ）
-旧道玄坂(どうげんざか)方面から月兎(げっと)８",Moon from the former Daimanaka  8,0.25
-Average level 91!,レベルは平均91,Level average 91,0.75
+旧道玄坂(どうげんざか)方面から月兎(げっと)８",Moon from the former Daimanaka  8,0.25,0.45235008
+Average level 91!,レベルは平均91,Level average 91,0.75,0.8947752
 This happens right when we start thinking \Nabout communicating with the moon?,"月への通信を考え始めた
 タイミングで この事態が…","I started thinking about communication in the moon
-This situation is at timing ...",0.17391304347826086
+This situation is at timing ...",0.17391304347826084,0.7567452
 "From ahead of us, too!","（直継）シロ！
 （アカツキ）主君 正面からも！","Shiro!
- From the front of the Lord!",0.2727272727272727
-Nine more!,（アカツキ･櫛八玉(くしやたま)）やーっ！,!,0.3333333333333333
-"Party 1, front line, head to the front and...",（シロエ）第一前衛 正面の…,The first vernue front ...,0.25
+ From the front of the Lord!",0.2727272727272727,0.36349925
+Nine more!,（アカツキ･櫛八玉(くしやたま)）やーっ！,!,0.3333333333333333,0.37549356
+"Party 1, front line, head to the front and...",（シロエ）第一前衛 正面の…,The first vernue front ...,0.25,0.3801155
 "Yuzuko, Olive, support each party.","ユズコさん オリーブさんは
 各パーティーの支援を！","Yuzco olive
-Support for each party!",0.4
-She's so cute!,（３人）了解！,OK!,0.16666666666666666
-She learned it directly from Shiroe!,さすがシロエさんの直伝！,"As it is, Shiroe's direct transmission!",0.23076923076923078
-There are just too many!,ったく 数が多すぎ祭り！,There are too many festive festivals!,0.625
+Support for each party!",0.4,0.7776262
+She's so cute!,（３人）了解！,OK!,0.16666666666666666,0.16764675
+She learned it directly from Shiroe!,さすがシロエさんの直伝！,"As it is, Shiroe's direct transmission!",0.2307692307692308,0.506145
+There are just too many!,ったく 数が多すぎ祭り！,There are too many festive festivals!,0.625,0.5851674
 "If they know what we're doing, \Nthis is exactly what they want.","（シロエ）読まれているとしたら
 相手の思うツボだ","if it is read
-It is the point of the other party",0.1
-"Olive, get back!",オリーブさん 下がって！,Olive down!,0.3333333333333333
-"No, cover Richou from the right!",いや 右からリチョウをカバー！,"No, cover Rizu from right!",0.6666666666666666
-Whoops...,（シロエ）あ… ごめん,A ... Sorry,0.25
+It is the point of the other party",0.1,0.25306615
+"Olive, get back!",オリーブさん 下がって！,Olive down!,0.3333333333333333,0.75042653
+"No, cover Richou from the right!",いや 右からリチョウをカバー！,"No, cover Rizu from right!",0.6666666666666666,0.66999525
+Whoops...,（シロエ）あ… ごめん,A ... Sorry,0.25,0.32271346
 Shiroe?,"（オリーブ）え？ ひゃっ！
 （リチョウ）おっと","?Hey!
- Oops",0.2
-Shiroe!,（小竜）シロさん！,Shiro!,0.3333333333333333
+ Oops",0.2,0.2179452
+Shiroe!,（小竜）シロさん！,Shiro!,0.3333333333333333,0.94655854
 New enemies incoming from eight o'clock.,"エネミー追加！
 ８時方向から新手が！","Energy added!
-A new hand from the 8 o'clock direction!",0.2
-A minotaur!,ミノタウロスが！,Minotaur!,0.6666666666666666
-That's a surprise I'm not at all happy about!,（くりのん）冗談じゃねえ～！,I'm not joking!,0.3076923076923077
+A new hand from the 8 o'clock direction!",0.2,0.44643292
+A minotaur!,ミノタウロスが！,Minotaur!,0.6666666666666666,0.9189282
+That's a surprise I'm not at all happy about!,（くりのん）冗談じゃねえ～！,I'm not joking!,0.3076923076923077,0.28368592
 This is an ambush!,"（飛燕）これって
 待ち伏せじゃねえか？","This is this
-Aren't you waiting?",0.2
+Aren't you waiting?",0.2,0.32387
 We may really lose our hope to get home.,"（シロエ）
-本当に帰還への手がかりが―",Really clues to feedback-,0.16666666666666666
+本当に帰還への手がかりが―",Really clues to feedback-,0.16666666666666666,0.07263729
 "Wow, they're all monsters I've never seen.","（リ＝ガン）いや～
 見慣れないモンスターばかり","No ~
-Only familiar monsters",0.06666666666666667
-This is very interesting...,これは興味深いですねえ… って？,This is interesting ...?,0.6666666666666666
-"Watch out, old guy!",あらー！,Area!,0.14285714285714285
-"No, right at the next corner!",あ… いや 次の角を右へ！,"Oh ... No, to the right of the next corner!",0.5833333333333334
+Only familiar monsters",0.06666666666666668,0.6175566
+This is very interesting...,これは興味深いですねえ… って？,This is interesting ...?,0.6666666666666666,0.5361895
+"Watch out, old guy!",あらー！,Area!,0.14285714285714285,0.23803301
+"No, right at the next corner!",あ… いや 次の角を右へ！,"Oh ... No, to the right of the next corner!",0.5833333333333334,0.88839126
 This is a mess.,"（シロエ）でも
-こんな状態で この世界を―",In such a state he is this world-,0.3
-This isn't like him...,（ナズナ）らしくないねえ,not like,0.14285714285714285
-Still...,（ミノリ）ん…,...,0.5
+こんな状態で この世界を―",In such a state he is this world-,0.3,0.1875941
+This isn't like him...,（ナズナ）らしくないねえ,not like,0.14285714285714285,0.37060508
+Still...,（ミノリ）ん…,...,0.5,0.5228728
 This is pathetic.,"（ソウジロウ）事前調査も
 十分じゃないですし―","Prior investigation
-It is not enough-",0.1111111111111111
+It is not enough-",0.1111111111111111,0.21890448
 I wondered how good he was...,"どれほどのものかと
 思っていましたが","How much
-I thought",0.2222222222222222
-This is the Calling Fortress.,（トウヤ）これが 呼び声の砦…,This is the call of the voice ...,0.3
-Four hours and seven minutes left.,（リーゼ）あと４時間と７分,4 hours and 7 minutes,0.3333333333333333
-This is a complicated seal...,複雑な封印ですが…,It is a complicated seal ...,0.7142857142857143
-Nice panties!,（直継･リ＝ガン）ナイスおぱんつ,Nice pend,0.25
-Let's go.,行こう,let's go,0.75
+I thought",0.2222222222222222,0.3234391
+This is the Calling Fortress.,（トウヤ）これが 呼び声の砦…,This is the call of the voice ...,0.3,0.45376328
+Four hours and seven minutes left.,（リーゼ）あと４時間と７分,4 hours and 7 minutes,0.3333333333333333,0.8748617
+This is a complicated seal...,複雑な封印ですが…,It is a complicated seal ...,0.7142857142857143,0.9676896
+Nice panties!,（直継･リ＝ガン）ナイスおぱんつ,Nice pend,0.25,0.39293247
+Let's go.,行こう,let's go,0.75,0.88774884
 "Our phantom-beast scouts have \Ngiven us some information,","（シロエ）幻獣による偵察で
 ある程度の情報はありますが―","in reconnaissance by phantom beast
-There are some information, but",0.17647058823529413
-"but as we head for the top, \Nwe'll confirm the situation on each floor.",最上階を目指します,I will aim for the top floor,0.21052631578947367
+There are some information, but",0.17647058823529413,0.7199708
+"but as we head for the top, \Nwe'll confirm the situation on each floor.",最上階を目指します,I will aim for the top floor,0.21052631578947367,0.61952263
 "Each party's back ranks will keep their distance, \Nto prepare for the unexpected.","想定外に備え
 各パーティーの後衛は…","Prepare for unexpectedly
-Hango of each party is ...",0.19047619047619047
-Votive Sword Kogarasumaru!,神刀 孤鴉丸(こがらすまる)！,Kazuji Ironumi !,0.16666666666666666
+Hango of each party is ...",0.19047619047619047,0.54678726
+Votive Sword Kogarasumaru!,神刀 孤鴉丸(こがらすまる)！,Kazuji Ironumi !,0.16666666666666666,0.43948856
 I won't let the captain be the only one to fight!,"（イサミ）局長にばっかり
 戦わせないんだから！","The director
-I can't fight!",0.35714285714285715
-Samurai's Challenge!,武士の挑戦！,Samurai challenge!,0.75
+I can't fight!",0.35714285714285715,0.5491312
+Samurai's Challenge!,武士の挑戦！,Samurai challenge!,0.75,0.97419715
 The shining sweat!,"いいね～ 戦う女の子
 きらめく汗！","Like ~ Girl fighting
-Glimsy sweat!",0.2222222222222222
-"The West Wind gets along well, don't they?",西風(にしかぜ)は仲がいいですね,The west wind is good,0.23076923076923078
-Huh?!,（リ＝ガン）あらーっ！,Oh!,0.25
-Don't worry about me.,はい おかまいなく,No matter what,0.0
+Glimsy sweat!",0.2222222222222222,0.4808468
+"The West Wind gets along well, don't they?",西風(にしかぜ)は仲がいいですね,The west wind is good,0.2307692307692308,0.7403328
+Huh?!,（リ＝ガン）あらーっ！,Oh!,0.25,0.59626514
+Don't worry about me.,はい おかまいなく,No matter what,0.0,0.23258011
 All these corridors look the same...,"（ルンデルハウス）
-どの通路も同じに見えるね",Everyway looks the same,0.2222222222222222
-It's literally a labyrinth!,（五十鈴）迷路だよ 文字どおり！,It is a maze character!,0.3333333333333333
-A dead end?,（小竜）行き止まり？,go out?,0.16666666666666666
+どの通路も同じに見えるね",Everyway looks the same,0.2222222222222222,0.48606896
+It's literally a labyrinth!,（五十鈴）迷路だよ 文字どおり！,It is a maze character!,0.3333333333333333,0.6485925
+A dead end?,（小竜）行き止まり？,go out?,0.16666666666666666,0.19796203
 I can't see past it!,"（アカツキ）主君 こっちもだ！
 （てとら）向こうが見えないよ","The Lord Mosquito!
-I can not see the other side",0.21428571428571427
+I can not see the other side",0.21428571428571427,0.3764515
 After coming this far?,"（シロエ）このペースだと
 ＭＰの消耗が致命的か","That's this pace
-Is MP wear fatty?",0.16666666666666666
-Shiro?,シロ…,Shiro ...,0.3333333333333333
-Head down and into the central courtyard!,（シロエ）いったん下りて中庭へ！,"Once down, to the courtyard!",0.36363636363636365
-We'll take turns recovering MP.,交代でＭＰを回復させましょう,Let's recover MP by replacement,0.08333333333333333
+Is MP wear fatty?",0.16666666666666666,0.119134754
+Shiro?,シロ…,Shiro ...,0.3333333333333333,0.92684174
+Head down and into the central courtyard!,（シロエ）いったん下りて中庭へ！,"Once down, to the courtyard!",0.3636363636363637,0.81795835
+We'll take turns recovering MP.,交代でＭＰを回復させましょう,Let's recover MP by replacement,0.08333333333333333,0.77930015
 If we only had a safe zone...,"（飛燕）せめて
 セーフゾーンならなあ…","at least
-Safe zone ...",0.3
+Safe zone ...",0.3,0.8456175
 The mob levels are high.,"（小竜）モブのレベルも高いし
 想像以上の難易度だ","Mob's level is also high
-It is more difficulty than imagined",0.13333333333333333
-Another set of two!,（てとら）また２体セットだよ,It is also a set of two,0.3333333333333333
+It is more difficulty than imagined",0.13333333333333333,0.7232014
+Another set of two!,（てとら）また２体セットだよ,It is also a set of two,0.3333333333333333,0.70874894
 Six black ogres from above!,"（にゃん太）
-上からブラックオーガ６！",Black Auga 6 from above!,0.5
-"No time to rest, huh?",休む間もなしか,Nothing to rest,0.25
+上からブラックオーガ６！",Black Auga 6 from above!,0.5,0.59362656
+"No time to rest, huh?",休む間もなしか,Nothing to rest,0.25,0.7241304
 Raids are always like this.,"レイドっていうと
 いつもこうだよね","When it is raid
-Always this",0.2
+Always this",0.2,0.79402196
 "Well, ever since I decided to go with \Nyou, I've been ready for this.","まあ 先行突貫担当の姉御と
 一緒と聞いた時から―","Well, with the sisters in charge of advance
-From when I heard it-",0.15384615384615385
+From when I heard it-",0.15384615384615385,0.1923897
 "You don't think I'm some kind \Nof bad luck charm, do you?","私を疫病神みたいに
 思ってないか？ 泣くぞ","Like a plague god
-Do you not think?I will cry",0.23809523809523808
-I'll make you cry later!,ゴザルも あとで絶対泣かす！,Gozar will definitely cry later!,0.3
-Serara!,（にゃん太）セララち！,Seraraachi!,0.3333333333333333
-I-I'm sorry!,（セララ）ああ～ ごめんなさい！,Oh ~ I'm sorry!,0.42857142857142855
-No! Tohya!,（ミノリ）ダメ！ トウヤ！,no good!Toya!,0.4
-I can't keep them delayed...,足止めが追いつかない！,I can't catch up!,0.3
+Do you not think?I will cry",0.2380952380952381,0.2801728
+I'll make you cry later!,ゴザルも あとで絶対泣かす！,Gozar will definitely cry later!,0.3,0.5217889
+Serara!,（にゃん太）セララち！,Seraraachi!,0.3333333333333333,0.88032633
+I-I'm sorry!,（セララ）ああ～ ごめんなさい！,Oh ~ I'm sorry!,0.42857142857142855,0.71592236
+No! Tohya!,（ミノリ）ダメ！ トウヤ！,no good!Toya!,0.4,0.41579717
+I can't keep them delayed...,足止めが追いつかない！,I can't catch up!,0.3,0.27753177
 "Tetra, heal everyone!","てとらちゃん みんなに回復を…
 ああっ！","Tomo-chan recovered to everyone ...
-Oh!",0.2
-Marielle!,（てとら）マリエールさん！,Mariere!,0.3333333333333333
-New enemy.,（リーゼ）エネミー追加,Energy Add,0.0
+Oh!",0.2,0.3437319
+Marielle!,（てとら）マリエールさん！,Mariere!,0.3333333333333333,0.8228541
+New enemy.,（リーゼ）エネミー追加,Energy Add,0.0,0.1726293
 "Shiroe, we've lost three!","（ミノリ）
-シロエさん ３名ロスト！",Siroe-san 3 Lost!,0.2222222222222222
-Our MP won't last.,（櫛八玉）ＭＰが持たない,I do not have MP,0.1
+シロエさん ３名ロスト！",Siroe-san 3 Lost!,0.2222222222222222,0.5165861
+Our MP won't last.,（櫛八玉）ＭＰが持たない,I do not have MP,0.1,0.37295946
 "No, use the shrine priestess's four-way barrier!","あ いや
 カンナギの四方拝を！","Irony
-Kannow's four ways!",0.14285714285714285
-No one has the MP!,広範囲攻撃！ 各自回避,A wide range of attacks!Every one,0.16666666666666666
+Kannow's four ways!",0.14285714285714285,0.18054384
+No one has the MP!,広範囲攻撃！ 各自回避,A wide range of attacks!Every one,0.16666666666666666,0.13069054
 Korou!,"（狐猿）うわーっ！
 （櫛八玉）ゴザル！","wow!
- Gasal!",0.25
-Bad status...,（五十鈴）バッドステータス…,Bad Status ...,1.0
+ Gasal!",0.25,0.3314633
+Bad status...,（五十鈴）バッドステータス…,Bad Status ...,1.0,1.0000001
 "It's no good! Our HP won't last, either!","（ルンデルハウス）
-ダメだ ＨＰも持たないぞ！",I do not have no HP!,0.1875
-Three lost. Five dead.,（リーゼ）ロスト３ 死亡５,Lost 3 Death 5,0.125
-We've lost a third in such a short time.,この短期間で３分の１も…,One third in this short period of time ...,0.26666666666666666
-Shiro...,（シロエ）あ…,...,0.5
-Flip Gate.,（シロエ）フリップゲート,flip gate,0.6666666666666666
-So this is the revive point... \NNot the dungeon's entrance?,ここが復活ポイントなんですね,This is the revival point,0.3076923076923077
-It's fine.,（直継）マリエさん すまねえ,Marie's Sumino,0.16666666666666666
+ダメだ ＨＰも持たないぞ！",I do not have no HP!,0.1875,0.5820641
+Three lost. Five dead.,（リーゼ）ロスト３ 死亡５,Lost 3 Death 5,0.125,0.80842614
+We've lost a third in such a short time.,この短期間で３分の１も…,One third in this short period of time ...,0.26666666666666666,0.60789865
+Shiro...,（シロエ）あ…,...,0.5,0.25144142
+Flip Gate.,（シロエ）フリップゲート,flip gate,0.6666666666666666,0.9618274
+So this is the revive point... \NNot the dungeon's entrance?,ここが復活ポイントなんですね,This is the revival point,0.3076923076923077,0.44619963
+It's fine.,（直継）マリエさん すまねえ,Marie's Sumino,0.16666666666666666,0.14277357
 I just fell down the hole and ended up here.,"穴から落ちたら
 ここに飛ばされてただけやし","If you fall from the hole
-I was just flying here",0.29411764705882354
-Does it hurt?,へ？ ええんやて,fart?Eye,0.16666666666666666
-Want to see my panties?,痛い？ ぱんつ見る？,pain?Do you see pants?,0.2
+I was just flying here",0.29411764705882354,0.6706742
+Does it hurt?,へ？ ええんやて,fart?Eye,0.16666666666666666,0.22899462
+Want to see my panties?,痛い？ ぱんつ見る？,pain?Do you see pants?,0.2,0.4435543
 It's only a scratch.,"いえ 結構
 ほんのかすり傷ですし","No matter what
-It is a true scratch",0.2727272727272727
+It is a true scratch",0.2727272727272727,0.7977075
 You had more MP left than I did.,"うちより てとらちゃんのほうが
 ＭＰ残っとったし","More than a more
-MP",0.3
+MP",0.3,0.6599806
 I haven't been on a raid this tough in a long time.,"（狐猿）こんなキツいレイド
 久しぶりでござるよ","Such a good raid
-It's been a long time",0.29411764705882354
-Um...,（リチョウ）フッ…,Ho ...,0.3333333333333333
-I'm sorry.,みんな… ごめん,Everyone ... I'm sorry,0.5
+It's been a long time",0.29411764705882354,0.75297475
+Um...,（リチョウ）フッ…,Ho ...,0.3333333333333333,0.47665328
+I'm sorry.,みんな… ごめん,Everyone ... I'm sorry,0.5,0.53473026
 Shiroe...,"（たたく音）
-（２人）あ…",...,0.5
-H-Henrietta?,ヘ… ヘンリエッタさん？,Henrietta?,0.3333333333333333
-"Um, Shiroe...",（シロエ）え…,...,0.25
-We're staying in this world!,私たち この世界に残ります,We remain in this world,0.5
-I know what you're thinking.,分かってます,I understand,0.125
+（２人）あ…",...,0.5,0.23270111
+H-Henrietta?,ヘ… ヘンリエッタさん？,Henrietta?,0.3333333333333333,0.8954722
+"Um, Shiroe...",（シロエ）え…,...,0.25,0.22472227
+We're staying in this world!,私たち この世界に残ります,We remain in this world,0.5,0.77880365
+I know what you're thinking.,分かってます,I understand,0.125,0.29899213
 "You're worried that if we destroy the antenna,","考える時間ができるなら
 それはそれで いいかなって","If you can think about the time you think
-That's fine with that",0.23529411764705882
+That's fine with that",0.2352941176470588,0.15233326
 "we won't be able to go home, right?","もう絶対帰れないってことじゃ
 ないんですよね？","It is not possible to go home anymore
-You're not?",0.2222222222222222
-"It isn't that I don't want to go home, \Nbut I wasn't really sure about it.",帰りたくないわけじゃないけどさ,I do not want to go home but,0.3157894736842105
+You're not?",0.2222222222222222,0.64392537
+"It isn't that I don't want to go home, \Nbut I wasn't really sure about it.",帰りたくないわけじゃないけどさ,I do not want to go home but,0.3157894736842105,0.69325536
 go well for us in Safil...,"サフィールの街で
 うまくいかなくて…","In the city of Safir
-I have to go well ...",0.2857142857142857
+I have to go well ...",0.2857142857142857,0.6586209
 "Even if they thank us and say we saved them,","（トウヤ）
 “ありがとう 助かった”って
 言われても―","""Thank you helpful""
-Even if it is said-",0.16666666666666666
+Even if it is said-",0.16666666666666666,0.46347788
 "But being able to go home makes you happy, right?","でも帰れるのって
 幸せなことだよね？","But I can go home
-It's a happy thing, right?",0.3888888888888889
+It's a happy thing, right?",0.3888888888888889,0.8117812
 So we need to make everyone happy!,"だったら
 みんな幸せにならなきゃ！","If
-Everyone is happy!",0.3
+Everyone is happy!",0.3,0.72090244
 Just focus on what you can do!,"“できることだけを
 見つめて”ですよ！","""Only what you can do
-Starage!",0.45454545454545453
+Starage!",0.4545454545454545,0.2662198
 I don't know what I can do.,"何ができるか
 分かりませんけど","What can you do
-I do not understand",0.4
-We...,私たちも…,We are also ...,0.5
-It's okay.,（アカツキ）大丈夫,okay,0.25
-Akatsuki...,アカツキ…,Akatsuki ...,1.0
+I do not understand",0.4,0.43466485
+We...,私たちも…,We are also ...,0.5,0.58429927
+It's okay.,（アカツキ）大丈夫,okay,0.25,0.513234
+Akatsuki...,アカツキ…,Akatsuki ...,1.0,0.9999995
 "Hey, you're safe?","（ウッドストック）
-おお！ 無事だったか",Oh!Was it safe?,0.2
+おお！ 無事だったか",Oh!Was it safe?,0.2,0.6082556
 so I got worried and came to look—,"心配で見に来たと… ん？
 待てよ","When I came to see it ...?
-Wait",0.21428571428571427
-Someone's in front of the antenna.,アンテナの前に誰か…,Someone in front of the antenna ...,0.6666666666666666
+Wait",0.21428571428571427,0.3264813
+Someone's in front of the antenna.,アンテナの前に誰か…,Someone in front of the antenna ...,0.6666666666666666,0.9779004
 I can't see his status from here.,"ここからでは
 ステータスの確認ができん","From here
-I can check the status",0.3333333333333333
-But most likely...,だが おそらく…,But probably ...,0.4
+I can check the status",0.3333333333333333,0.6056768
+But most likely...,だが おそらく…,But probably ...,0.4,0.8908885
 "Woodstock, you return to Akihabara \Nand bolster the defenses.","ウッドストックさんは
 アキバに戻って―","Mr. Woodstock
-Back to Akiba-",0.14285714285714285
-The raid boss.,レイドボス…,Raid Boss ...,0.4
+Back to Akiba-",0.14285714285714285,0.6379264
+The raid boss.,レイドボス…,Raid Boss ...,0.4,0.9189527
 "He wasn't there when we investigated, right?","うちらが調査した時は
 いなかったよね","When we investigate
-It was not",0.23076923076923078
-Maybe he spawns when the moon rises?,月が昇ると動き出すとか…,When the moon goes up and starts ...,0.23076923076923078
-Which means if we defeat him...,ってことは そいつ倒したら…,If you defeat that ...,0.3333333333333333
+It was not",0.2307692307692308,0.55855066
+Maybe he spawns when the moon rises?,月が昇ると動き出すとか…,When the moon goes up and starts ...,0.2307692307692308,0.56411374
+Which means if we defeat him...,ってことは そいつ倒したら…,If you defeat that ...,0.3333333333333333,0.5406373
 "The moths might all disappear, too!","蛾の群れも
 一気に消えちゃうかも！","Herd of moths
-May I disappear at once!",0.21428571428571427
+May I disappear at once!",0.21428571428571427,0.805589
 But the weird parts of this are still a game.,"けど 変なとこは
 ゲームのままだからなあ","But strange cousin
-Because it remains the game",0.1875
+Because it remains the game",0.1875,0.40333444
 "Thank you, Henrietta.","（シロエ）ありがとう
 ヘンリエッタさん","Thank you 
-Henrietta",0.6
-You're welcome.,どういたしまして,you're welcome,0.75
+Henrietta",0.6,0.9645961
+You're welcome.,どういたしまして,you're welcome,0.75,0.90435916
 "Antenna... MP... Raid boss, huh?","（シロエ）アンテナ ＭＰ
 レイドボスか…","antenna MP
-Raid boss ...",0.625
+Raid boss ...",0.625,0.95099694
 Meow.,"（直継）フッ
-（てとら）おおっ！",Oh!,0.0
+（てとら）おおっ！",Oh!,0.0,0.21943608
 There's no time—,"どちらかを選ぶ？
 そんなの ありえない","Choose either?
-There is no such her",0.2
-Thirty minutes is plenty.,（シロエ）30分で十分です,30 minutes is enough,0.2857142857142857
+There is no such her",0.2,0.22668494
+Thirty minutes is plenty.,（シロエ）30分で十分です,30 minutes is enough,0.2857142857142857,0.86460614
 It was never possible to choose \Neither the world or the antenna.,"どちらか１つだなんて
 初めから無理な話だったんです","One either
-It was an impossible story from the beginning",0.15789473684210525
-Pick one? That's impossible.,（リーゼ）え？,?,0.14285714285714285
-So we won't choose.,だから選びません,So it does not choose,0.2222222222222222
-"I'll show you what ""two birds \Nwith one stone"" really means.",一石二鳥というやつを,One stone two birds,0.26666666666666666
-The counterattack begins.,（アカツキ）反撃は始まった,The counterattack began,0.4
-Shining glasses and sharpened minds.,光る眼鏡 さえわたる知略,Glowing eyeglasses Elap,0.0
-They'll protect everything.,全てを守る それが答え,Protect everything that answer,0.2857142857142857
+It was an impossible story from the beginning",0.15789473684210525,0.3208814
+Pick one? That's impossible.,（リーゼ）え？,?,0.14285714285714285,0.15179639
+So we won't choose.,だから選びません,So it does not choose,0.2222222222222222,0.71046954
+"I'll show you what ""two birds \Nwith one stone"" really means.",一石二鳥というやつを,One stone two birds,0.26666666666666666,0.78407234
+The counterattack begins.,（アカツキ）反撃は始まった,The counterattack began,0.4,0.91812027
+Shining glasses and sharpened minds.,光る眼鏡 さえわたる知略,Glowing eyeglasses Elap,0.0,0.46825156
+They'll protect everything.,全てを守る それが答え,Protect everything that answer,0.2857142857142857,0.58185875
 "At the end of the battle, they reach a place \Nwhere Shiroe takes on a new quest.","シロエは新たなクエストへの
 挑戦を決意する","Shiroe is to a new quest
-Determine the challenge",0.23809523809523808
-For the two worlds he loves so much.,大切な２つの世界のために,For two important worlds,0.3
-Cross over the horizon.,（シロエ）越えろ 地平線,Tomohiro Horizon,0.16666666666666666
+Determine the challenge",0.2380952380952381,0.7601834
+For the two worlds he loves so much.,大切な２つの世界のために,For two important worlds,0.3,0.6505135
+Cross over the horizon.,（シロエ）越えろ 地平線,Tomohiro Horizon,0.16666666666666666,0.44112164

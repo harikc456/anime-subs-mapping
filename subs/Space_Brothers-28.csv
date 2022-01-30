@@ -1,51 +1,51 @@
-en_text,jp_text,google_translated,score
-It's important to me.,俺にとっては大事なものだ｡,It is important for me.,0.5
-What should I do with it?,これ持ってって どうすんの？,What is this?,0.2222222222222222
-"There aren't any copies, so don't lose it.",あ コピーはないからなくすなよ｡,"Oh, there is no copy.",0.2
-"He still had this thing? hmm? what's that, hibito?",ん!?日々人 なんだそれ｡,!? What is your daily person it is it.,0.10526315789473684
-I'm used to agony.,悲劇には慣れてる…｡,I am used to the tragedy ....,0.4
-"During the summer of 2006,",＜2006年の夏…＞,<Summer of 2006 ...>,0.3333333333333333
-The miracle of Doha...,｢ドーハのきせき｣…｡,"""Doha's Kiso"" ....",0.2
-So this is important to him...,これが…大事な物か｡,This is ... an important thing?,0.4
-Guess it isn't coming tonight either.,来ね～なぁ 今日も あのヤロウ｡,Come ~ Na yarow today.,0.07692307692307693
-"Hey,",おい いつんなったら➡,If you have anyone,0.0
-"If you admit that you lied and didn't see anything, we'll let you go.",ホントは何も見てません｡➡,I do not watch anything really.,0.09523809523809523
-What the hell? what do you want me to do?!,何だよ どっちだよ チキショ～！,What is it? Chiki Shisho!,0.21428571428571427
-Hit him somewhere that isn't visible.,見えないとこ 見えないとこ｡,I can't see it I can't see it.,0.16666666666666666
-Coffee with curry?!,⦅カレーにコーヒー!?⦆,⦅Calay coffee!?⦆,0.42857142857142855
-You're supposed to have milk with curry...,⦅カレーには牛乳だよなぁ⦆,⦅Curry is a milk.,0.07692307692307693
-"Oh, the hype is starting to build up.",盛り上がってきましたね｡,It has been excited.,0.07142857142857142
-Spike's finally heading out into space.,《いよいよ あのツン君が宇宙へ》,"""Finally that Tsun-kun to the universe""",0.06666666666666667
-"Today, we will discuss how Nanba will be making the trip to the moon.",どのように➡,How to,0.14285714285714285
-The Mars V will,このﾏﾙｽﾌｧｲﾌﾞですが➡,This Mars Five is ➡,0.125
-On your own today?,今日は一人？,One person today?,0.2857142857142857
-You don't have to be in such a rush.,そんなに急がなくても大丈夫よ｡,It is okay if you don't have such a sudden.,0.4375
-Thanks!,ぷは…ごちそうさま！,Pu ... ち!,0.2
-You're leaving already?,もう帰るの？,Are you already back?,0.42857142857142855
-But I need proof.,でも 証拠がないとな…｡,But there is no evidence ....,0.2
-That's it!,そうだ！,That's it!,1.0
-Like this?,こう？,shell?,0.25
-'Sup,ありがとう ムッタ！,Thank you Mutta!,0.0
-You can watch it in the Moonbase.,月面基地で見ればいいよ｡,You should look at the moon base.,0.23076923076923078
-"Come here, dear.",あら？ちょっと お父さん…｡,fault?A little dad ....,0.09090909090909091
-Does this look right to you?,これ こんなだったっけ？,Is this something like this?,0.2
-A lot of stuff is missing today.,いろいろないんだな…今日は｡,It's all right ... today.,0.15384615384615385
-Because it's Bon Curry.,ボンカリーだけどね｡,Bonkarie.,0.14285714285714285
-"Hibito, are you still asleep?",日々人 いつまで寝てんの～｡,Sleeping until every day.,0.0
-"Sure, with Santa on it.",おう サンタのやつだな｡,"Well, it's a guy of Santa.",0.3333333333333333
-Happy Birthday!,ハッピーバースデー‼,happy Birthday!,1.0
-Hibito's really late...,日々人 おっせ～なぁ…｡,Daily day.,0.0
-Where did he go?,どこ行ってんのかしらね～｡,Where did you go to.,0.375
-"Oh, that's so reassuring...",まあ～ 頼もしいわぁ｡,Well-I'm reliable.,0.0
-You were awfully late.,ずいぶん 遅いじゃないの！,It's not slow!,0.0
-You certainly told him off.,ガツンって言ってやったのね➡,I said that I said that,0.0
-"Uh, that's not what I meant...",いや そ～じゃなくてさ｡,"No, it's not.",0.25
-"Oh, sorry about that...",あ～悪い悪い｡ヘヘッ…➡,Ah ~ bad bad. Heheet ...,0.09090909090909091
-"Yep, it's no longer a day of agony!",もう 悲劇の日じゃね～ぞ！,It's already a tragedy day!,0.38461538461538464
-"Here, give me that.",マジかよ！,Are you serious!,0.0
-Just watch... It's incredible.,見てろよ スゲ～ぞ｡,Let's see it.,0.3333333333333333
-That's Hibito for you.,《それが日々人…俺の弟》,"""It is a person with people every day ... my brother""",0.0
-Huh? We aren't going up the hill?,えっ 行かないの高台？,Do not go to a high level?,0.0625
-They'll keep making fun of you.,まだ バカにしてやがるぞ！,I'm still stupid!,0.0
-"Nanba, they're selling posters of Hibito.",日々人君のポスター売ってるよ＞,Daily People's Poster Sold>,0.0
-"""Night Before Launch"" what is this feeling?",＜何だろう？この気持ちは＞,<What is it?This feeling is>,0.38461538461538464
+en_text,jp_text,google_translated,score,semantic_score
+It's important to me.,俺にとっては大事なものだ｡,It is important for me.,0.5,0.8892075
+What should I do with it?,これ持ってって どうすんの？,What is this?,0.2222222222222222,0.23283777
+"There aren't any copies, so don't lose it.",あ コピーはないからなくすなよ｡,"Oh, there is no copy.",0.2,0.6796013
+"He still had this thing? hmm? what's that, hibito?",ん!?日々人 なんだそれ｡,!? What is your daily person it is it.,0.10526315789473684,0.07240632
+I'm used to agony.,悲劇には慣れてる…｡,I am used to the tragedy ....,0.4,0.56216943
+"During the summer of 2006,",＜2006年の夏…＞,<Summer of 2006 ...>,0.3333333333333333,0.74867666
+The miracle of Doha...,｢ドーハのきせき｣…｡,"""Doha's Kiso"" ....",0.2,0.6952305
+So this is important to him...,これが…大事な物か｡,This is ... an important thing?,0.4,0.5193564
+Guess it isn't coming tonight either.,来ね～なぁ 今日も あのヤロウ｡,Come ~ Na yarow today.,0.07692307692307693,0.3303245
+"Hey,",おい いつんなったら➡,If you have anyone,0.0,0.19936007
+"If you admit that you lied and didn't see anything, we'll let you go.",ホントは何も見てません｡➡,I do not watch anything really.,0.09523809523809523,0.27828455
+What the hell? what do you want me to do?!,何だよ どっちだよ チキショ～！,What is it? Chiki Shisho!,0.21428571428571427,0.18287611
+Hit him somewhere that isn't visible.,見えないとこ 見えないとこ｡,I can't see it I can't see it.,0.16666666666666666,0.3722069
+Coffee with curry?!,⦅カレーにコーヒー!?⦆,⦅Calay coffee!?⦆,0.42857142857142855,0.5716042
+You're supposed to have milk with curry...,⦅カレーには牛乳だよなぁ⦆,⦅Curry is a milk.,0.07692307692307693,0.8131391
+"Oh, the hype is starting to build up.",盛り上がってきましたね｡,It has been excited.,0.07142857142857142,0.5007099
+Spike's finally heading out into space.,《いよいよ あのツン君が宇宙へ》,"""Finally that Tsun-kun to the universe""",0.06666666666666668,0.31619948
+"Today, we will discuss how Nanba will be making the trip to the moon.",どのように➡,How to,0.14285714285714285,0.11767839
+The Mars V will,このﾏﾙｽﾌｧｲﾌﾞですが➡,This Mars Five is ➡,0.125,0.55112946
+On your own today?,今日は一人？,One person today?,0.2857142857142857,0.59345245
+You don't have to be in such a rush.,そんなに急がなくても大丈夫よ｡,It is okay if you don't have such a sudden.,0.4375,0.38782045
+Thanks!,ぷは…ごちそうさま！,Pu ... ち!,0.2,0.13547227
+You're leaving already?,もう帰るの？,Are you already back?,0.42857142857142855,0.58574903
+But I need proof.,でも 証拠がないとな…｡,But there is no evidence ....,0.2,0.53896993
+That's it!,そうだ！,That's it!,1.0,1.0
+Like this?,こう？,shell?,0.25,0.25865695
+'Sup,ありがとう ムッタ！,Thank you Mutta!,0.0,0.18741629
+You can watch it in the Moonbase.,月面基地で見ればいいよ｡,You should look at the moon base.,0.2307692307692308,0.59514105
+"Come here, dear.",あら？ちょっと お父さん…｡,fault?A little dad ....,0.09090909090909093,0.20645812
+Does this look right to you?,これ こんなだったっけ？,Is this something like this?,0.2,0.46444434
+A lot of stuff is missing today.,いろいろないんだな…今日は｡,It's all right ... today.,0.15384615384615385,0.4121377
+Because it's Bon Curry.,ボンカリーだけどね｡,Bonkarie.,0.14285714285714285,0.22982763
+"Hibito, are you still asleep?",日々人 いつまで寝てんの～｡,Sleeping until every day.,0.0,0.24148941
+"Sure, with Santa on it.",おう サンタのやつだな｡,"Well, it's a guy of Santa.",0.3333333333333333,0.53641504
+Happy Birthday!,ハッピーバースデー‼,happy Birthday!,1.0,0.9999999
+Hibito's really late...,日々人 おっせ～なぁ…｡,Daily day.,0.0,0.12622276
+Where did he go?,どこ行ってんのかしらね～｡,Where did you go to.,0.375,0.53742826
+"Oh, that's so reassuring...",まあ～ 頼もしいわぁ｡,Well-I'm reliable.,0.0,0.2546537
+You were awfully late.,ずいぶん 遅いじゃないの！,It's not slow!,0.0,0.20290568
+You certainly told him off.,ガツンって言ってやったのね➡,I said that I said that,0.0,0.25925243
+"Uh, that's not what I meant...",いや そ～じゃなくてさ｡,"No, it's not.",0.25,0.21793516
+"Oh, sorry about that...",あ～悪い悪い｡ヘヘッ…➡,Ah ~ bad bad. Heheet ...,0.09090909090909093,0.37358552
+"Yep, it's no longer a day of agony!",もう 悲劇の日じゃね～ぞ！,It's already a tragedy day!,0.38461538461538464,0.4871319
+"Here, give me that.",マジかよ！,Are you serious!,0.0,0.14363289
+Just watch... It's incredible.,見てろよ スゲ～ぞ｡,Let's see it.,0.3333333333333333,0.21373832
+That's Hibito for you.,《それが日々人…俺の弟》,"""It is a person with people every day ... my brother""",0.0,0.1038491
+Huh? We aren't going up the hill?,えっ 行かないの高台？,Do not go to a high level?,0.0625,0.2758461
+They'll keep making fun of you.,まだ バカにしてやがるぞ！,I'm still stupid!,0.0,0.20520386
+"Nanba, they're selling posters of Hibito.",日々人君のポスター売ってるよ＞,Daily People's Poster Sold>,0.0,0.47014397
+"""Night Before Launch"" what is this feeling?",＜何だろう？この気持ちは＞,<What is it?This feeling is>,0.38461538461538464,0.44233632

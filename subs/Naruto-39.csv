@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774592
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017531
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048284
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.21940824
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387683
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586984
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.4196999
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,19 +68,19 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.5518778
 <i>The waves of pain are coming faster...</i>,"(ｻｽｹ)
 《痛みの波が
 どんどん短くなってきやがった》
 
 ","""The waves of the pain
-It became more and more shorter",0.2222222222222222
+It became more and more shorter",0.2222222222222222,0.6463496
 Huh?!,"(ﾅﾙﾄ)
 え？
 だって➡
 
 ","picture?
-➡ ➡",0.2
+➡ ➡",0.2,0.22351593
 "L-Look, you haven't been yourself","♬
  
 だから
@@ -93,7 +93,7 @@ Huh?!,"(ﾅﾙﾄ)
 that's why
 ,
 Oh
-,",0.08333333333333333
+,",0.08333333333333333,0.24719548
 "For the 1st battle,","(ﾊﾔﾃ)
 第１回戦
  
@@ -101,7 +101,7 @@ Oh
 
 ","First round
  
-A battle",0.125
+A battle",0.125,0.65380377
 "Yoroi Akado and Sasuke Uchiha
 have been selected.","赤胴ヨロイ
  
@@ -111,40 +111,40 @@ have been selected.","赤胴ヨロイ
 ","Red vessel
  
 My house decided to Sasuke
-.",0.13333333333333333
+.",0.13333333333333333,0.43216735
 "No objections, right?","異存ありませんね？
 
-",Is there no difference?,0.25
+",Is there no difference?,0.25,0.2377675
 <i>The pain won't go away!</i>,"《痛みが引かねえ》
 
-","""Pain is pulled""",0.06666666666666667
+","""Pain is pulled""",0.06666666666666668,0.44496548
 <i>It appears the Curse Mark hurts.</i>,"(ﾖﾛｲ)
 《フフ…
 呪印が痛むようだな》
 
 ","""Huff ...
-It seems that the curse hurts """,0.1875
+It seems that the curse hurts """,0.1875,0.52731615
 Don't use the Sharingan.,"(ｶｶｼ)
 写輪眼は使うな
 ｡
 
 ","Do not use the moss eyes
-.",0.4444444444444444
+.",0.4444444444444444,0.25198758
 "If that Curse Mark on
 your neck gets out of control,","(ｶｶｼ)
 その首の呪印が暴走すれば➡
 
-",If the neck curse runs away,0.2
+",If the neck curse runs away,0.2,0.79151547
 it could endanger your life.,"お前の命に関わる
 ｡
 
 ","Related to your life
-.",0.375
+.",0.375,0.29211205
 I believe it.,"だろうな
 ｡
 
 ","Will
-.",0.2
+.",0.2,0.19939214
 "Well, the match will be
 called off at that time.","(ｶｶｼ)
 まっ
@@ -157,7 +157,7 @@ called off at that time.","(ｶｶｼ)
  
 At that time, the game is canceled
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.34121305
 "I'll be coming in to stop it,
 so good luck.","俺がお前を止めに入るから
 よろしく
@@ -165,14 +165,14 @@ so good luck.","俺がお前を止めに入るから
 
 ","Because I will stop you
 nice to meet you
-.",0.2222222222222222
+.",0.2222222222222222,0.25643772
 "<i>Called off, you say?!</i>","《中止だと!?》
 
-","""If it is canceled!?""",0.11764705882352941
+","""If it is canceled!?""",0.1176470588235294,0.26864004
 "<i>It seems this Curse Mark thing</i>
 <i>is responding to my Chakra.</i>","《この呪印とやらは➡
 
-","""This curse and the like",0.10526315789473684
+","""This curse and the like",0.10526315789473684,0.43293893
 "<i>In other words, in this match,</i>","つまり
  
 この試合
@@ -185,22 +185,22 @@ nice to meet you
 This game
 Machine eyes
  
-お ➡ ➡",0.125
+お ➡ ➡",0.125,0.28045475
 "<i>I can hardly use even</i>
 <i>my regular Jutsu,</i>","普通の術でさえ
 そうそう使えないってわけか》
 
 ","Even ordinary techniques
-Oh yeah I can not use it",0.2222222222222222
+Oh yeah I can not use it",0.2222222222222222,0.44037163
 "<i>However... Yoroi's ability is</i>
 <i>the worst for you, Sasuke.</i>","ところがヨロイの能力は➡
 
-","However, the ability of Yoroi is ➡",0.3333333333333333
+","However, the ability of Yoroi is ➡",0.3333333333333333,0.71084607
 "Now then, please begin.","それでは始めてください
 ｡
 
 ","Then please start
-.",0.42857142857142855
+.",0.42857142857142855,0.7702278
 You... my Chakra...,"お前
  
 俺のチャクラを…
@@ -209,13 +209,13 @@ You... my Chakra...,"お前
 ","you
  
 My chakra ...
-.",0.8
+.",0.8,0.9433214
 "Bushy-Brow's Jealousy -
 Lions Barrage Unleashed!","テヤッ！
 あ～！
 
 ","Toya!
-Oh!",0.1
+Oh!",0.1,0.2970975
 "<i>Yes...Yoroi has unorthodox ability</i>
 <i>to absorb Chakra.</i>","(
 大蛇丸
@@ -226,7 +226,7 @@ Oh!",0.1
 
 ","""Yes
  
-What is a different sexual ability of Yoroy?",0.09090909090909091
+What is a different sexual ability of Yoroy?",0.09090909090909093,0.3125733
 "<i>It's a magnificent art that</i>
 <i>absorbs spiritual and physical energy</i>","精神と身体の
 ｴﾈﾙｷﾞｰ
@@ -240,7 +240,7 @@ Energy
 Suck up
 Spontaneous technique
 .
-➡",0.08695652173913043
+➡",0.08695652173913042,0.3894744
 "<i>And, if all of your Chakra</i>
 <i>is absorbed, Sasuke,</i>","そして
  
@@ -250,7 +250,7 @@ Spontaneous technique
 ","and
  
 Chakra
-If all sucked",0.26666666666666666
+If all sucked",0.26666666666666666,0.60339904
 "<i>you'll be forced to rely upon</i>
 <i>the power of my Curse Mark...</i>","サスケ君
  
@@ -258,13 +258,13 @@ If all sucked",0.26666666666666666
 
 ","Sasuke
  
-You are the power of my curse",0.3
+You are the power of my curse",0.3,0.5122005
 "<i>That is the only way</i>
 <i>you have to survive.</i>","それしか
 あなたの生き残る道はないわよ》
 
 ","Only
-There is no way to survive you",0.3125
+There is no way to survive you",0.3125,0.6525972
 You... little!,"ぐっ…
  
 ハァ
@@ -275,26 +275,26 @@ You... little!,"ぐっ…
  
 Han
  
-Hua!",0.3333333333333333
+Hua!",0.3333333333333333,0.26901647
 Though you're just a guinea pig.,"ただのモルモットのくせに
 ｡
 
 ","Just in the habit of guinea pigs
-.",0.23076923076923078
+.",0.2307692307692308,0.7272124
 <i>That was a close one...</i>,"《危なかった》
 
-","""I was dangerous""",0.15384615384615385
+","""I was dangerous""",0.15384615384615385,0.24031118
 You already finished?!,"(ﾖﾛｲ)
 う～！
 
-",!,0.2
+",!,0.2,0.28143826
 "<i>His aim is one, close quarter fight.</i>","《こいつの狙いは接近戦一本
 ｡
 ➡
 
 ","""This aim is one approaching battle
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.60242885
 "<i>At this rate, things will go downhill...</i>","(ﾖﾛｲ)
 安心しろよ
 すぐ終わらせてやる
@@ -302,7 +302,7 @@ You already finished?!,"(ﾖﾛｲ)
 
 ","Rest assured
 I will finish it soon
-.",0.10526315789473684
+.",0.10526315789473684,0.21835718
 "<i>Sasuke Uchiha...</i>
 <i>Is this the best you can do?</i>","どうする？
 このままじゃ
@@ -312,33 +312,33 @@ I will finish it soon
 ","what will you do?
 Let's leave this
  
-Gili Poor """,0.17391304347826086
+Gili Poor """,0.17391304347826084,0.23477049
 <i>Sasuke...</i>,"(ﾖﾛｲ)
 フフフ…
 ｡
 
 ","Fuhufu ...
-.",0.125
+.",0.125,0.25953516
 Sasuke!,"サスケ～！
 
-",Sasuke ~!,0.6666666666666666
+",Sasuke ~!,0.6666666666666666,0.94530696
 Don't be looking so lame!,"ダッセェ姿
  
 見せてんじゃねえ！
 
 ","Dassets
  
-Don't show me!",0.3
+Don't show me!",0.3,0.24329372
 I'll finish you with this!,"(ﾖﾛｲ)
 これで最後だ！
 
-",This is the end!,0.2
+",This is the end!,0.2,0.5468165
 <i>That's my...!</i>,"(
 リー
 )
 《あれは僕の…！》
 
-","""That's my ...!""",0.45454545454545453
+","""That's my ...!""",0.4545454545454545,0.5343449
 <i>What?!</i>,"(
 ガイ
 )
@@ -346,7 +346,7 @@ I'll finish you with this!,"(ﾖﾛｲ)
 《あ？》
 
 ","""what!?""
-""Ah?""",0.3
+""Ah?""",0.3,0.3337988
 But then... from here on is my original.,"もっとも
  
 ここから先は
@@ -357,17 +357,17 @@ But then... from here on is my original.,"もっとも
  
 From here
 I'm my original
-.",0.38461538461538464
+.",0.38461538461538464,0.7341993
 The Dancing Leaf Shadow...?!,"(ﾖﾛｲ)
 影舞葉だと!?
 
-",It's a shadow dance!?,0.2727272727272727
+",It's a shadow dance!?,0.2727272727272727,0.7614023
 Eat this!,"食らえ！
 
-",Eat!,0.6666666666666666
+",Eat!,0.6666666666666666,0.74360913
 <i>Stop!</i>,"やめて＞
 
-",Stop>,0.3333333333333333
+",Stop>,0.3333333333333333,0.7241371
 "<i>You! Sasuke!</i>
 <i>Don't be looking so lame!</i>","ダッセェ姿
  
@@ -375,17 +375,17 @@ Eat this!,"食らえ！
 
 ","Dassets
  
-Don't show me!>",0.25
+Don't show me!>",0.25,0.19386077
 <i>To think they'd be worried about me...</i>,"《あいつらに心配されるとはな》
 
-","""I'm worried about them""",0.17647058823529413
+","""I'm worried about them""",0.17647058823529413,0.631951
 <i>Is this it...?</i>,"＜お願いだから…➡
 
-",<Because it is a request ... ➡,0.3076923076923077
+",<Because it is a request ... ➡,0.3076923076923077,0.41824043
 <i>The Curse Mark receded!?</i>,"(ｱﾝｺ)
 《呪印が引いた!?》
 
-","""The curse has pulled!?""",0.2857142857142857
+","""The curse has pulled!?""",0.2857142857142857,0.64846396
 You're weak.,"フッ
  
 行くぜ
@@ -394,14 +394,14 @@ You're weak.,"フッ
 ","Hook
  
 let's go
-.",0.125
+.",0.125,0.18328893
 "I'm not done, yet!","まだまだ！
 
-",not yet!,0.42857142857142855
+",not yet!,0.42857142857142855,0.56469816
 Lions Barrage!,"(ﾖﾛｲ)
 うわ～！
 
-",Wow!,0.25
+",Wow!,0.25,0.14719331
 "Therefore, the winner of the
 first battle, Sasuke Uchiha...","よって
  
@@ -409,22 +409,22 @@ first battle, Sasuke Uchiha...","よって
 
 ","By all means
  
-The first winner ➡",0.21428571428571427
+The first winner ➡",0.21428571428571427,0.45729494
 Well. Good job...,"ハァ…
 ｡
 
 ","Hua ...
-.",0.3333333333333333
+.",0.3333333333333333,0.19155136
 <i>So you copied it with the Sharingan</i>,"写輪眼でコピーしたってわけか》
 
-",Do you want to copy with the moss eye?,0.16666666666666666
+",Do you want to copy with the moss eye?,0.16666666666666666,0.3071491
 "Sasuke! You, you...","サスケ～！
  
 フハハハ…！
 
 ","Sasuke ~!
  
-Fuhahaha ...!",0.42857142857142855
+Fuhahaha ...!",0.42857142857142855,0.8825277
 "<i>Lee... Because of you,</i>
 <i>I've managed to save my neck.</i>","《リー
  
@@ -438,7 +438,7 @@ Fuhahaha ...!",0.42857142857142855
 Thanks to you
 I was allowed to pick up
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.5099746
 "<i>if I hadn't seen your technique</i>
 <i>in close quarters combat.</i>","接近戦で
  
@@ -448,7 +448,7 @@ I was allowed to pick up
 ","In the approach
  
 Annual skill
-I was sorry if I did not see it",0.125
+I was sorry if I did not see it",0.125,0.34746367
 "<i>But it doesn't appear to be a technique</i>
 <i>that I can use heavily.</i>","《どうやら
  
@@ -458,10 +458,10 @@ I was sorry if I did not see it",0.125
 ","""Apparently
  
 not really
-It seems like a technique that can be used",0.25
+It seems like a technique that can be used",0.25,0.41967347
 <i>Sharingan!</i>,"＜写輪眼！＞
 
-",<Motor eye!>,0.375
+",<Motor eye!>,0.375,0.343521
 <i>You get rapidly stronger...</i>,"どんどん強くなっていくね
 君は
 ｡
@@ -470,14 +470,14 @@ It seems like a technique that can be used",0.25
 ","I'm getting stronger more and more
 You are
 .
-➡",0.1875
+➡",0.1875,0.68064535
 <i>I kind of...feel a bit of fear.</i>,"何だか
  
 恐怖すら感じるよ》
 
 ","somehow
  
-I feel a fear """,0.21428571428571427
+I feel a fear """,0.21428571428571427,0.6795703
 "<i>For a sequence of</i>
 <i>high speed Taijutsu Lotus movements,</i>","(
 ガイ
@@ -488,13 +488,13 @@ I feel a fear """,0.21428571428571427
 
 ","""High speed articles
  
-[Outside: 9A4D3B93F5ABFF78DA43BEB12CF7F1BE] A series of movements in Hana are ➡",0.19230769230769232
+[Outside: 9A4D3B93F5ABFF78DA43BEB12CF7F1BE] A series of movements in Hana are ➡",0.19230769230769232,0.51984215
 "<i>No matter how much you</i>
 <i>use the Sharingan,</i>","いくら写輪眼を用いたから
 といって➡
 
 ","Because I used the eyes
-➡ ➡",0.11764705882352941
+➡ ➡",0.1176470588235294,0.33407372
 "<i>it can't just be mastered in</i>
 <i>a short space of time...</i>","一朝一夕にマスターできる
 代物じゃない
@@ -504,7 +504,7 @@ I feel a fear """,0.21428571428571427
 ","You can master it once in the morning
 It is not a substitute
 .
-➡",0.10714285714285714
+➡",0.10714285714285714,0.28731105
 "<i>Kakashi... this boy reminds me</i>
 <i>of when you were a kid...</i>","カカシ
  
@@ -514,7 +514,7 @@ It is not a substitute
 ","Kakashi
  
 When you
-Don't remember",0.15789473684210525
+Don't remember",0.15789473684210525,0.72964704
 "<i>Last year's number one rookie</i>
 <i>was Neji Hyuga.</i>","(ﾃﾝﾃﾝ)
 《去年の
@@ -527,7 +527,7 @@ Don't remember",0.15789473684210525
 Number One Rookie
 Sunrise screw
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.4037216
 "<i>This year's number one rookie</i>
 <i>is Sasuke Uchiha.</i>","ことしのナンバーワンルーキー
 うちはサスケ
@@ -537,10 +537,10 @@ Sunrise screw
 ","Number One Rookie
 My house is Sasuke
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.7520497
 <i>I wonder which one is stronger...?</i>,"どっちが強いのかしらね？➡
 
-",Which one is strong?➡,0.3076923076923077
+",Which one is strong?➡,0.3076923076923077,0.7916171
 "<i>To think he'd develop the true power</i>
 <i>of the Sharingan in situation like this...</i>","こんな所で写輪眼の本当の力を
 開花させるとは
@@ -550,7 +550,7 @@ My house is Sasuke
 ","In such a place, the true power of the eyes
 To bloom
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.24158227
 "<i>What's most to be feared...</i>
 <i>is the Uchiha ability?</i>","恐ろしきは
  
@@ -560,17 +560,17 @@ To bloom
 ","Fearful
  
 My ability
-Is not?",0.15789473684210525
+Is not?",0.15789473684210525,0.4380449
 <i>That was surprising...</i>,"フフフフ…》
 
-",Huhofu ...,0.1111111111111111
+",Huhofu ...,0.1111111111111111,0.19553746
 "<i>To think he brought the Curse Mark</i>
 <i>that was getting out of control</i>","(ｱﾝｺ)
 《驚いたわ
 暴走しかけた呪印の力を➡
 
 ","""Surprised
-The power of the curse who runs runaway",0.13043478260869565
+The power of the curse who runs runaway",0.13043478260869565,0.49207866
 <i>Tsk. Again?</i>,"(ｶﾝｸﾛｳ)
 《チッ
  
@@ -578,7 +578,7 @@ The power of the curse who runs runaway",0.13043478260869565
 
 ","""Chig
  
-See you again.",0.16666666666666666
+See you again.",0.16666666666666666,0.23855689
 It just makes it more interesting!,"(
 ザク
 )
@@ -592,7 +592,7 @@ It just makes it more interesting!,"(
  
 It's not like that
 It's interesting
-.",0.16666666666666666
+.",0.16666666666666666,0.41965947
 Yeah! He is Sasuke after all...,"(
 いの
 )
@@ -606,7 +606,7 @@ Yeah! He is Sasuke after all...,"(
  
 After all
  
-Sasuke you!",0.4
+Sasuke you!",0.4,0.8342173
 <i>This is as far as we'll go...</i>,"(ｼｶﾏﾙ)
 《俺たちゃ
  
@@ -614,14 +614,14 @@ Sasuke you!",0.4
 
 ","""I'm
  
-So far """,0.06666666666666667
+So far """,0.06666666666666668,0.44571924
 I'm hungry...,"気力で
  
 ねじ伏せるなんて》
 
 ","In force
  
-I'm going to screw """,0.2
+I'm going to screw """,0.2,0.31108797
 Nothing special.,"(
 我愛羅
 )
@@ -629,13 +629,13 @@ Nothing special.,"(
 ｡
 
 ","~
-.",0.25
+.",0.25,0.19498083
 "We medics will give you
 the best of treatment.","最善の治療をさせていただく
 ｡
 
 ","I will do my best treatment
-.",0.3076923076923077
+.",0.3076923076923077,0.6656016
 You guys are out of your territory.,"(ｶｶｼ)
 君たちじゃ畑違いなのよ
 ｡
@@ -647,10 +647,10 @@ You guys are out of your territory.,"(ｶｶｼ)
 ","You're different from you
 .
 
-teeth?",0.15384615384615385
+teeth?",0.15384615384615385,0.088506445
 "Now, I'll take you into the back...","これから奥へ連れてって➡
 
-",Take it back from now on,0.23076923076923078
+",Take it back from now on,0.2307692307692308,0.35537004
 and seal the Curse Mark.,"呪印を封印する
 ｡
 予選が終わるまで待ってくれ
@@ -659,32 +659,32 @@ and seal the Curse Mark.,"呪印を封印する
 ","Seal a curse
 .
 Wait until the qualifying is over
-.",0.3333333333333333
+.",0.3333333333333333,0.5226428
 "I want to watch the matches
 of those who will remain in the main battle.","本選に残るヤツの試合が見たい
 ｡
 
 ","I want to see the match of the guy who will be present
-.",0.4
+.",0.4,0.69275165
 No!,"(ｶｶｼ)
 ダメだ！➡
 
-",It is no good!➡,0.3333333333333333
+",It is no good!➡,0.3333333333333333,0.32407296
 "Sakura... Speaking of which,
 during the match...","サクラちゃん
 そういえば試合中に➡
 
 ","Sakura-chan
-Speaking of which, during the game",0.5454545454545454
+Speaking of which, during the game",0.5454545454545454,0.77965873
 "did you see something that looked
 like a strange wound on Sasuke's neck?","サスケの首に変な傷みたいなもの
 見えなかった？
 
 ","Sasuke's neck I want to scratch
-Did not see?",0.3
+Did not see?",0.3,0.8044538
 What?,"ん？
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.30044562
 "<i>Don't say anything about</i>
 <i>this bruise to Naruto.</i>","＜約束してくれ
  
@@ -694,20 +694,20 @@ What?,"ん？
 ","<Promise
  
 This aza is
-Don't say Naruto>",0.35294117647058826
+Don't say Naruto>",0.35294117647058826,0.6511229
 <i>What?</i>,"＜え？＞
 
-",<Eh?>,0.42857142857142855
+",<Eh?>,0.42857142857142855,0.5499251
 I-I don't know either.,"私も分からない
 ｡
 
 ","I do not know either
-.",0.5
+.",0.5,0.77758515
 I see...,"そっか
 ｡
 
 ","I see
-.",0.5
+.",0.5,0.8696703
 "We will get right to it and
 begin the second match.","早速
  
@@ -717,7 +717,7 @@ begin the second match.","早速
 ","immediately
  
 I will start the next game
-.",0.17647058823529413
+.",0.17647058823529413,0.44088507
 "Both of you, come forward.","(ﾊﾔﾃ)
 両者
  
@@ -727,7 +727,7 @@ I will start the next game
 ","Both
  
 Forward
-.",0.42857142857142855
+.",0.42857142857142855,0.61940676
 We will now begin the second match.,"え～
  
 では
@@ -738,13 +738,13 @@ We will now begin the second match.,"え～
  
 In
 I will start the second winter from now on
-.",0.3125
+.",0.3125,0.3224637
 "<i>The guy who had both</i>
 <i>his arms broken by Sasuke!</i>","サスケ君に
 両腕をやられたヤツだわ》
 
 ","To Sasuke
-It's a guy who has been engaged in both arms",0.21739130434782608
+It's a guy who has been engaged in both arms",0.21739130434782608,0.76204437
 "<i>It seems like you're proud</i>
 <i>of your arms...</i>","＜フフ…
 両腕が自慢らしいな
@@ -754,10 +754,10 @@ It's a guy who has been engaged in both arms",0.21739130434782608
 ","<Hufu ...
 Both arms are proud
  
-You>",0.35294117647058826
+You>",0.35294117647058826,0.7666582
 <i>You!</i>,"＜うわ！＞
 
-",<Wow!>,0.42857142857142855
+",<Wow!>,0.42857142857142855,0.552775
 I wonder if Shino is going to be okay...,"俺も
  
 あいつとだけは
@@ -768,7 +768,7 @@ I wonder if Shino is going to be okay...,"俺も
  
 Just only
 I want to do it
-.",0.1111111111111111
+.",0.1111111111111111,0.02403691
 He's fine. He's strong,"大丈夫
  
 あいつは強ぇよ
@@ -781,17 +781,17 @@ He's fine. He's strong,"大丈夫
 He is strong
 .
 
-picture?",0.5
+picture?",0.5,0.7695854
 "<i>Now, Zaku...</i>","あぁ…＞
 
-",Oh ...>,0.2222222222222222
+",Oh ...>,0.2222222222222222,0.2498683
 <i>How you fight will be a sight to see...</i>,"どう戦うか
  
 見ものですね》
 
 ","How to fight
  
-It is a seeming",0.23529411764705882
+It is a seeming",0.2352941176470588,0.38653427
 "If you fight here,
 you'll be finished...","(
 シノ
@@ -804,14 +804,14 @@ you'll be finished...","(
 ","If you fight here
 You will not be recurrent
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.5956733
 One arm is enough to take care of you!,"てめぇなんざ
  
 片腕で十分だ！
 
 ","Temple
  
-It is enough with one arm!",0.38461538461538464
+It is enough with one arm!",0.38461538461538464,0.7136344
 "You can't beat me with
 just one arm.","(
 シノ
@@ -822,7 +822,7 @@ just one arm.","(
 
 ","Only one arm
 I can not beat me
-.",0.35714285714285715
+.",0.35714285714285715,0.9236593
 Okay.,"(
 キバ
 ･ﾋﾅﾀ)
@@ -830,11 +830,11 @@ Okay.,"(
 ｡
 
 ","Ah
-.",0.3333333333333333
+.",0.3333333333333333,0.52367526
 Curse Sealing!,"(ｶｶｼ)
 封邪法印！
 
-",Significant seal!,0.2
+",Significant seal!,0.2,0.6228175
 "Next time, even if that Curse Mark
 starts kicking in again...","(ｶｶｼ)
 今度もし
@@ -845,7 +845,7 @@ starts kicking in again...","(ｶｶｼ)
 ","This time
  
 The curse
-Even if it is moving again",0.2777777777777778
+Even if it is moving again",0.2777777777777778,0.6767503
 "the power of this Curse Sealing
 should suppress it.","この封邪法印の力が
 それを抑え込むだろう
@@ -853,7 +853,7 @@ should suppress it.","この封邪法印の力が
 
 ","The power of this sealing mark
 It will suppress it
-.",0.6666666666666666
+.",0.6666666666666666,0.7639657
 "If something happens like
 you not believing in your own strength","もし
  
@@ -861,13 +861,13 @@ you not believing in your own strength","もし
 
 ","if
  
-You do not believe in your power",0.35714285714285715
+You do not believe in your power",0.35714285714285715,0.66607
 "the Curse Mark will
 once again start to rage.","呪印は再び暴れだす
 ｡
 
 ","The curse is rampant again
-.",0.3333333333333333
+.",0.3333333333333333,0.6730621
 "To think you've become able to
 handle Sealing Jutsu...","≪
 (
@@ -881,7 +881,7 @@ handle Sealing Jutsu...","≪
 
 Until sealing
 It became possible to handle ...
-.",0.25
+.",0.25,0.52873063
 "Long time no see, Kakashi.","(
 大蛇丸
 )
@@ -893,7 +893,7 @@ It became possible to handle ...
 ","Long time no see
  
 Kakashi
-.",0.8571428571428571
+.",0.8571428571428571,0.96358454
 "<i>when you want to cry,</i>
 <i>and you want to run away</i>","♬
  
@@ -905,14 +905,14 @@ Kakashi
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.3938252
 This is surprising.,"♬
  
 この手の中には
 
 ","♬
  
-In this hand",0.14285714285714285
+In this hand",0.14285714285714285,0.078013554
 "Why are you after Sasuke?
 What's your purpose?!","♬
  
@@ -924,14 +924,14 @@ What's your purpose?!","♬
  
 Already
  
-it's fine",0.06666666666666667
+it's fine",0.06666666666666668,0.09448637
 I must not retreat.,"♬
  
 泣きたくなって
 
 ","♬
  
-I want to cry",0.1111111111111111
+I want to cry",0.1111111111111111,0.18276879
 "I'll stop you here,
 even if it costs my life!","♬
  
@@ -939,7 +939,7 @@ even if it costs my life!","♬
 
 ","♬
  
-If you forgot happiness",0.125
+If you forgot happiness",0.125,0.1435782
 "Next episode: ""Kakashi and Orochimaru:
 Face-to-Face!""","♬
  
@@ -947,4 +947,4 @@ Face-to-Face!""","♬
 
 ","♬
  
-A singing",0.0
+A singing",0.0,0.17896095

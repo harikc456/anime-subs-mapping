@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,36 +9,36 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825215
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120198
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.534477
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.76468647
 "Today's... a special day, so...","きょうは特別な日だからな
 ｡
 
 ","Today is a special day
-.",0.4
+.",0.4,0.87960905
 "What're you doing, Konohamaru?","何やってんだ？
  
 木ノ葉丸
@@ -47,22 +47,22 @@ I love you",0.2
 ","What do you do?
  
 Noodles
-.",0.3
+.",0.3,0.36155048
 You're the man I expected you to be.,"俺が見込んだ男だコレ
 ｡
 
 ","A man who is expected
-.",0.25
+.",0.25,0.49155754
 Let's fight fair!,"あっ
  
 痛っ！
 
 ","Ah 
  
- ow!",0.14285714285714285
+ ow!",0.14285714285714285,0.2011316
 An orientation meeting?,"説明会？
 
-",What a briefing session?,0.125
+",What a briefing session?,0.125,0.46750477
 "Cause... As of today, I'm a Ninja!","悪ぃ
  
 これから説明会なんだ
@@ -71,18 +71,18 @@ An orientation meeting?,"説明会？
 ","Evil
  
 I'm a briefing session from now on
-.",0.16666666666666666
+.",0.16666666666666666,0.20407347
 "Sakura!
 Shouldn't you be heading out soon?","早く出かけなくていいの？
 
-",Do you have to go out early?,0.2
+",Do you have to go out early?,0.2,0.37244213
 I was thinking of leaving now!,"今
  
 行こうと思ってたの！
 
 ","now
  
-I was thinking of going!",0.75
+I was thinking of going!",0.75,0.6554111
 "<i>That's right... I'm not a student</i>
 <i>of the academy anymore...</i>","《そう
  
@@ -96,13 +96,13 @@ I was thinking of going!",0.75
 I already
 It's not an academy student
 .
-➡",0.21739130434782608
+➡",0.21739130434782608,0.73009634
 I'm off!,"(
 いの
 )
 いってきま～す！
 
-",I will come!,0.3333333333333333
+",I will come!,0.3333333333333333,0.39319304
 Morning... Ino.,"おはよう
  
 いの
@@ -111,7 +111,7 @@ Morning... Ino.,"おはよう
 ","good morning
  
 For
-.",0.3333333333333333
+.",0.3333333333333333,0.53304726
 "Who would've thought you'd
 be able to graduate.","まさか
  
@@ -123,12 +123,12 @@ be able to graduate.","まさか
  
 Aunt
 I can graduate
-.",0.14285714285714285
+.",0.14285714285714285,0.413169
 Ancient history has nothing to do with it.,"昔のことは関係ないわ
 ｡
 
 ","I have not related to the old days
-.",0.125
+.",0.125,0.48642868
 What the? Why are you here?,"(ｼｶﾏﾙ)
 あれ？
  
@@ -142,12 +142,12 @@ What the? Why are you here?,"(ｼｶﾏﾙ)
 why
  
 You're
-.",0.2
+.",0.2,0.44533923
 Today's meeting is for graduates only.,"きょうは卒業生だけの説明会だぞ
 ｡
 
 ","Today is a graduate briefing session
-.",0.25
+.",0.25,0.5663773
 "How can I put it, it really suits me.","もう
  
 いのには負けない
@@ -156,7 +156,7 @@ Today's meeting is for graduates only.,"きょうは卒業生だけの説明会�
 ","Already
  
 I can not lose
-.",0.23076923076923078
+.",0.2307692307692308,0.1995561
 <i>So Naruto... was able to graduate.</i>,"(ﾋﾅﾀ)
 《ナルト君
  
@@ -164,10 +164,10 @@ I can not lose
 
 ","""Naruto
  
-I was able to graduate",0.38461538461538464
+I was able to graduate",0.38461538461538464,0.9267832
 Goal!,"ゴール！
 
-",goal!,1.0
+",goal!,1.0,1.0000002
 What're you saying?,"また
  
 あたしの勝ちね
@@ -182,7 +182,7 @@ I will win my wife
  
 Cherry blossoms
 .
-What are you saying?",0.26666666666666666
+What are you saying?",0.26666666666666666,0.12597616
 "The tip of my foot got in
 one centimeter faster!","(
 いの
@@ -193,7 +193,7 @@ one centimeter faster!","(
 
 ","A little
  
-The eyes of the athletic is a borehouse?",0.1111111111111111
+The eyes of the athletic is a borehouse?",0.1111111111111111,0.09880085
 You must be blind.,"俺ってば
  
 すげぇ似合うよな
@@ -204,7 +204,7 @@ You must be blind.,"俺ってば
  
 It will be very good
 Ahaha
-.",0.16666666666666666
+.",0.16666666666666666,0.16172618
 I did!,"私！
 (
 生徒１
@@ -217,12 +217,12 @@ I did!,"私！
 
 If
  
-I am!",0.3333333333333333
+I am!",0.3333333333333333,0.36491865
 I was first!,"教室に入ったのは
 あたしが早かった！
 
 ","I entered the classroom
-I was early!",0.375
+I was early!",0.375,0.48309436
 <i>I'm</i> sitting next to Sasuke!,"ちょっと！
 サスケ君の隣は
  
@@ -231,14 +231,14 @@ I was early!",0.375
 ","A little!
 Next to Sasuke
  
-I'm sorry!",0.46153846153846156
+I'm sorry!",0.4615384615384616,0.71652454
 "Is that this year's top rookie,
 Sasuke Uchiha?","(ｱｽﾏ)
 あれですか？
 ことしのナンバーワンルーキー➡
 
 ","Is it that?
-Number One Rookie ➡ ➡",0.26666666666666666
+Number One Rookie ➡ ➡",0.26666666666666666,0.5699294
 Yes.,"うちはサスケは
 ｡
 (
@@ -251,14 +251,14 @@ Yes.,"うちはサスケは
 .
 
 So
-.",0.14285714285714285
+.",0.14285714285714285,0.15164293
 The sole survivor of the Uchiha clan?,"早い者勝ちでしょ？
 
-",Will you win early?,0.09090909090909091
+",Will you win early?,0.09090909090909093,0.16952467
 "Naruto Uzumaki, eh...","(ｶｶｼ)
 《うずまきナルトか》
 
-","""Uzumaki Naruto?""",0.25
+","""Uzumaki Naruto?""",0.25,0.80770797
 Naruto! Don't glare at Sasuke!,"ナルト！
  
 サスケ君に
@@ -267,12 +267,12 @@ Naruto! Don't glare at Sasuke!,"ナルト！
 ","Naruto!
  
 To Sasuke
-I'm not going to drip it!",0.21428571428571427
+I'm not going to drip it!",0.21428571428571427,0.8166867
 <i>Sakura...</i>,"ん～…
 ｡
 
 ","...
-.",0.14285714285714285
+.",0.14285714285714285,0.15673159
 <i>Everyone's all Sasuke Sasuke.</i>,"どいつもこいつも
 サスケ
  
@@ -285,7 +285,7 @@ Sasuke
  
 Sasuke
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.90437233
 "Just beat him up, Sasuke!","(
 生徒１
 )
@@ -297,19 +297,19 @@ Sasuke
 ","Sasuke
 Such guy
  
-Good morning!",0.18181818181818182
+Good morning!",0.18181818181818185,0.7015249
 Yeah! Yeah!,"(
 物音
 )
 ん？
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.7171387
 "Cha! <i>I was planning on</i>
 seizing Sasuke's first kiss!","《しゃ～んなろ～！
 サスケ君のファーストキッスは➡
 
 ","""Shi-Nanaro-!
-Sasuke's first kiss is ➡",0.2777777777777778
+Sasuke's first kiss is ➡",0.2777777777777778,0.7147204
 "You jerk...
 Naruto! I'll kill you!","ナルト
  
@@ -319,7 +319,7 @@ Naruto! I'll kill you!","ナルト
 ","Naruto
  
 I will kill
-.",0.3
+.",0.3,0.82827723
 "- My mouth is rotting.
 - Huh? Was that my fault?","口が腐る
 ｡
@@ -331,7 +331,7 @@ I will kill
 .
 eh
  
-My time?",0.21428571428571427
+My time?",0.21428571428571427,0.0938476
 What? I feel rage...,"ぶぇ～…
  
 ん？
@@ -344,7 +344,7 @@ What? I feel rage...,"ぶぇ～…
 Yeah?
  
 Chill
-.",0.2222222222222222
+.",0.2222222222222222,0.37868854
 Naruto...,"ナルト
  
 あんたねぇ…
@@ -353,7 +353,7 @@ Naruto...,"ナルト
 ","Naruto
  
 Anney ...
-.",0.5
+.",0.5,0.83343107
 "An accident...
 It was an accident","事故
  
@@ -363,7 +363,7 @@ It was an accident","事故
 ","accident
  
 It is an accident
-.",0.42857142857142855
+.",0.42857142857142855,0.69659036
 "Naruto... He's at
 the center of trouble as usual.","(
 猿飛
@@ -378,7 +378,7 @@ the center of trouble as usual.","(
 As usual
  
 It is not the center of the noise
-.",0.35294117647058826
+.",0.35294117647058826,0.17943506
 "However, you're still Genin.","しかし
  
 まだまだ新米の下忍
@@ -389,7 +389,7 @@ It is not the center of the noise
  
 Still new Shinobu
 .
-➡",0.3
+➡",0.3,0.22262797
 "From here on, you'll be in a squad of three","今後
  
 君たちは
@@ -398,13 +398,13 @@ Still new Shinobu
 ","from now on
  
 you guys
-Create a Sleeva Cell",0.23529411764705882
+Create a Sleeva Cell",0.2352941176470588,0.16813065
 <i>A squad of three?!</i>,"(ｻｸﾗ･
 いの
 )
 《３人１組？》
 
-","""One set of 3 people?""",0.125
+","""One set of 3 people?""",0.125,0.47761086
 "I wonder who's going to be
 grouped with Sasuke.","誰がサスケ君と
 組むことになるのかしら
@@ -412,14 +412,14 @@ grouped with Sasuke.","誰がサスケ君と
 
 ","Who is Sasuke
 Is it going to assemble
-.",0.35714285714285715
+.",0.35714285714285715,0.8096084
 I don't know...,"上忍の先生の下
 任務をこなしていくことになる
 ｡
 
 ","Under the teacher of Kaminobu
 I will do my task
-.",0.14285714285714285
+.",0.14285714285714285,0.09763582
 "so that the strength of
 the groups will be balanced.","(ｲﾙｶ)
 班は
@@ -430,17 +430,17 @@ the groups will be balanced.","(ｲﾙｶ)
 ","Baby
  
 Balance of power
-It will be equal",0.2
+It will be equal",0.2,0.32564524
 Now for the assignments!,"《しゃ～んなろ～！➡
 
-","""Shi-Nanaro-!➡",0.125
+","""Shi-Nanaro-!➡",0.125,0.07441036
 Naruto Uzumaki!,"うずまきナルト
 ｡
 ➡
 
 ","Uzumaki Naruto
 .
-➡",0.4
+➡",0.4,0.94261646
 Sakura Haruno.,"春野サクラ
 ｡
 あ…
@@ -449,12 +449,12 @@ Sakura Haruno.,"春野サクラ
 ","Haruno sakura
 .
 Ah…
-.",0.75
+.",0.75,0.9563344
 I'm with... Naruto?,"やった～！
 《ナルトと一緒…》
 
 ","I did!
-""With Naruto ...""",0.4
+""With Naruto ...""",0.4,0.7385999
 And... Sasuke Uchiha!,"(ｲﾙｶ)
 そして
  
@@ -464,12 +464,12 @@ And... Sasuke Uchiha!,"(ｲﾙｶ)
 ","and
  
 My house is Sasuke
-.",0.2222222222222222
+.",0.2222222222222222,0.686017
 "<i>So I'll be in a different group</i>
 <i>from Naruto, huh...</i>","(ﾋﾅﾀ)
 《ナルト君とは別の班か…》
 
-","""Another group with Naruto ...""",0.15
+","""Another group with Naruto ...""",0.15,0.728043
 Next is Group Eight. Hinata Hyuga!,"(ｲﾙｶ)
 次
  
@@ -483,7 +483,7 @@ Next is Group Eight. Hinata Hyuga!,"(ｲﾙｶ)
 Eight
  
 Hyuuga Hinata
-.",0.4444444444444444
+.",0.4444444444444444,0.7867867
 Shino Aburame!,"(ﾋﾅﾀ)
 は…
  
@@ -491,37 +491,37 @@ Shino Aburame!,"(ﾋﾅﾀ)
 
 ","teeth…
  
-Yes!",0.2
+Yes!",0.2,0.20279552
 Group Nine.,"油女シノ
 ｡
 
 ","Oil woman
-.",0.2
+.",0.2,0.15937865
 "Don't you understand, Shikamaru?","そんなことも分からないの？
 シカマル
 ｡
 
 ","Do you not know that?
 Shikamaru
-.",0.36363636363636365
+.",0.3636363636363637,0.83331865
 "Well, I'm not a woman...","俺は女じゃねえからよ
 ｡
 
 ","I'm not a woman
-.",0.5555555555555556
+.",0.5555555555555556,0.86158687
 I wouldn't want to be grouped with you.,"あんたみたいなのとは
 組みたくないもんだわ
 ｡
 
 ","What is it?
 I do not want to set it
-.",0.23529411764705882
+.",0.2352941176470588,0.17754517
 "Group Ten. Ino Yamanaka.
 Shikamaru Nara.","奈良シカマル
 ｡
 
 ","Nara Shikamaru
-.",0.42857142857142855
+.",0.42857142857142855,0.64251786
 "It appears we've been
 grouped together.","組むことに
 なっちまったみてぇだぞ
@@ -533,7 +533,7 @@ grouped together.","組むことに
 It's been a while
  
 Oi
-.",0.21428571428571427
+.",0.21428571428571427,0.2881124
 And Choji Akimichi.,"十班
  
 山中いの
@@ -542,7 +542,7 @@ And Choji Akimichi.,"十班
 ","Tenth
  
 Mountainous
-.",0.16666666666666666
+.",0.16666666666666666,0.13089097
 That's all for the group division.,"(ｲﾙｶ)
 それから
  
@@ -552,7 +552,7 @@ That's all for the group division.,"(ｲﾙｶ)
 ","after that
  
 Autumn chow
-.",0.18181818181818182
+.",0.18181818181818185,0.21399184
 in the same group with this guy?!,"優秀な
  
 この俺が
@@ -565,7 +565,7 @@ in the same group with this guy?!,"優秀な
 This me
  
 why
-It's the same group as this guy!",0.4
+It's the same group as this guy!",0.4,0.66242886
 "Sasuke has the best grades
 of the graduates.","ん？
  
@@ -577,7 +577,7 @@ of the graduates.","ん？
  
 Sasuke
 Graduates and top grades
-.",0.3333333333333333
+.",0.3333333333333333,0.9014356
 "Naruto, you're at the bottom!","ナルト
  
 お前はドベ
@@ -592,21 +592,21 @@ Graduates and top grades
 You are
 .
 
-Hahaha ...!",0.25
+Hahaha ...!",0.25,0.73540264
 "Of course, this is how it is when trying
 to balance the strength within groups.","(ｲﾙｶ)
 班の力を
 均等にしようとすると➡
 
 ","The power of
-If you try to make it evenly",0.18181818181818182
+If you try to make it evenly",0.18181818181818185,0.41872263
 "Just don't get in my way, loser!","せいぜい俺の足を引っ張るなよ
 ドベ
 ｡
 
 ","Don't pull my feet
 Dobe
-.",0.21428571428571427
+.",0.21428571428571427,0.31242806
 "Hey, what did you say?!","くぅ～
  
 何だと
@@ -625,7 +625,7 @@ Hey!
 lets do it?
  
 Dobe
-.",0.4375
+.",0.4375,0.35482863
 "Knock it off, Naruto!!","ドベって
  
 お前…
@@ -640,7 +640,7 @@ you…
 .
 Please do it good
  
-Naruto!",0.25
+Naruto!",0.25,0.6895351
 "In the afternoon,
 I'll introduce you to your Jonin teachers.","午後から上忍の先生を紹介する
 ｡
@@ -648,13 +648,13 @@ I'll introduce you to your Jonin teachers.","午後から上忍の先生を紹�
 
 ","Introduce the teacher of Shibata from the afternoon
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.51128864
 You're dismissed until then!,"それまで解散！
 
-",Until then break up!,0.375
+",Until then break up!,0.375,0.38778493
 Sasuke!,"サスケく～ん！
 
-",Sasuke!,1.0
+",Sasuke!,1.0,1.0000001
 "Where'd you go, Sasuke?","サスケ君ったら
  
 どこ行ったのよ
@@ -663,19 +663,19 @@ Sasuke!,"サスケく～ん！
 ","Sasuke if you
  
 Where did you go
-.",0.4
+.",0.4,0.94671035
 "Well... we're in the same group, so...","せっかく同じ班に
 なったんだから➡
 
 ","In the same way
-Because it became ➡",0.2
+Because it became ➡",0.2,0.13685016
 Sasuke! Where are you?,"サスケく～ん！
  
 どこ～？
 
 ","Sasuke!
  
-Where?",0.6666666666666666
+Where?",0.6666666666666666,0.9459278
 I wonder if something good will happen...,"何か
  
 いいことねえかな
@@ -684,12 +684,12 @@ I wonder if something good will happen...,"何か
 ","something
  
 Good things
-.",0.2
+.",0.2,0.3735446
 That's it!,"そうだ
 ｡
 
 ","That's it
-.",0.6
+.",0.6,0.792161
 Naruto?,"ナルト
 ｡
 (
@@ -700,12 +700,12 @@ Naruto?,"ナルト
 ","Naruto
 .
 
-eh?",0.5
+eh?",0.5,0.91855663
 Damn! Just be quiet.,"へいへい
 ｡
 
 ","Hood
-.",0.14285714285714285
+.",0.14285714285714285,0.15454741
 "Naruto! I won't forgive you
 if you hurt Sasuke!","ナルト！
  
@@ -715,10 +715,10 @@ if you hurt Sasuke!","ナルト！
 ","Naruto!
  
 If you let Sasuke you get injured
-I do not know!",0.375
+I do not know!",0.375,0.8429384
 What happened?,"どうなったのよ？
 
-",What happened?,1.0
+",What happened?,1.0,1.0000001
 <i>Sasuke... is looking...</i>,"当然よ
  
 ナルトがサスケ君に
@@ -729,17 +729,17 @@ What happened?,"どうなったのよ？
  
 Naruto to Sasuke
 Is it?
-.",0.14285714285714285
+.",0.14285714285714285,0.6923181
 <i>And with such a passionate look!</i>,"サスケ君が
  
 こっちを見てる！》
 
 ","Sasuke-kun
  
-I'm looking at this!""",0.11764705882352941
+I'm looking at this!""",0.1176470588235294,0.24443595
 <i>That's what its surface area is for.</i>,"《そのための面積です》
 
-","""It is an area for that""",0.17647058823529413
+","""It is an area for that""",0.17647058823529413,0.40410376
 "<i>Yeah, right...</i>","どうやったら…》
 ん？
  
@@ -750,7 +750,7 @@ I'm looking at this!""",0.11764705882352941
 Yeah?
  
 Ah
-.",0.14285714285714285
+.",0.14285714285714285,0.3059565
 "<i>I'm not just some kid</i>
 <i>who believes in fairy tales...</i>","メルヘン信じてる
 ガキじゃあるまいし
@@ -760,7 +760,7 @@ Ah
 ","I believe in Melchen
 I'm sorry
 .
-➡",0.15
+➡",0.15,0.21000846
 You... have a charmingly wide forehead.,"《お前
  
 チャーミングな
@@ -773,21 +773,21 @@ You... have a charmingly wide forehead.,"《お前
 Charming
 Wide Odeco
 .
-➡",0.25
+➡",0.25,0.4387245
 What?!,"《えっ
  
 ウソ！➡
 
 ","""eh
  
-Lie!➡",0.14285714285714285
+Lie!➡",0.14285714285714285,0.21685886
 It makes me want to kiss it.,"思わず
  
 キスしたくなるぜ》
 
 ","Unexpected
  
-I want to kiss",0.3333333333333333
+I want to kiss",0.3333333333333333,0.46281463
 Or that's what Naruto would say.,"な～んて
  
 ナルトなら
@@ -798,42 +798,42 @@ Or that's what Naruto would say.,"な～んて
  
 With Naruto
 I will say that
-.",0.3333333333333333
+.",0.3333333333333333,0.8230185
 I've got something to ask you.,"お前に聞きたいことがある
 ｡
 えっ？
 
 ","I have something I want to ask you
 .
-eh?",0.5
+eh?",0.5,0.73628473
 What?,"えっ？
 
-",eh?,0.3333333333333333
+",eh?,0.3333333333333333,0.32428196
 What do you think... of Naruto?,"ナルトを
  
 どう思う？
 
 ","Naruto
  
-What do you think?",0.75
+What do you think?",0.75,0.96040845
 He just annoys me!,"私は
  
 ただ➡
 
 ","I
  
-Just ➡",0.14285714285714285
+Just ➡",0.14285714285714285,0.21593626
 <i>Gotcha!</i>,"＜なっ！＞
 ＜や～！＞
 
 ","<<>
-<Yo ~!>",0.375
+<Yo ~!>",0.375,0.50081223
 "<i>I didn't think someone who couldn't</i>
 <i>perform the Clone Jutsu properly</i>","《ただの分身の術も
 使えなかったヤツが➡
 
 ","""Just the techniques of
-The guy who could not use it",0.13043478260869565
+The guy who could not use it",0.13043478260869565,0.3687423
 "I'm... desperate, so...","私
  
 必死だもん
@@ -842,31 +842,31 @@ The guy who could not use it",0.13043478260869565
 ","Me
  
 Desperate
-.",0.125
+.",0.125,0.61835504
 <i>Diarrhea at a time like this?!</i>,"《こんなときに下痢かよ！》
 
-","""If you are diarrhea at such time!""",0.2222222222222222
+","""If you are diarrhea at such time!""",0.2222222222222222,0.6744026
 What's wrong?,"あ～
 ｡
 どうしたの？
 
 ","Oh ~
 .
-What's wrong?",0.5714285714285714
+What's wrong?",0.5714285714285714,0.6919053
 Sasuke's so shy!,"サスケ君ったら
 シャイなんだから
 ｡
 
 ","Sasuke if you
 Because it is shy
-.",0.18181818181818182
+.",0.18181818181818185,0.83051986
 That was close!,"す…
  
 すぐ戻るから！
 
 ","vinegar…
  
-Return immediately!",0.14285714285714285
+Return immediately!",0.14285714285714285,0.20476508
 "My stomach hurt so much that
 the Jutsu was about to wear off!","あまりの腹痛に
 術が解けそうだったってばよ
@@ -874,27 +874,27 @@ the Jutsu was about to wear off!","あまりの腹痛に
 
 ","To the abdominal pain
 If the art was likely to solve
-.",0.14285714285714285
+.",0.14285714285714285,0.33953616
 "In that case...
 I'll play an obnoxious Sasuke...","こうなったら
 とことん嫌なサスケを演じて➡
 
 ","When it comes to this
-Play with the disgusting Sasuke",0.1111111111111111
+Play with the disgusting Sasuke",0.1111111111111111,0.7639804
 It's because he wasn't raised right!,"ナルトなんて
 ほっときゃいいじゃない
 ｡
 
 ","Naruto
 It's not good
-.",0.15384615384615385
+.",0.15384615384615385,0.039181218
 You know!,"もう～！
  
 サスケ君ったら！
 
 ","!
  
-Sasuke If you have!",0.3333333333333333
+Sasuke If you have!",0.3333333333333333,0.2528337
 "My parents would get mad at me
 if I did something like that!","ほら
  
@@ -908,7 +908,7 @@ if I did something like that!","ほら
 that person
  
 I'm not my parents
-.",0.21052631578947367
+.",0.21052631578947367,0.47194985
 "There are no parents to nag you
 if it's just you alone!","サスケ君に
  
@@ -920,14 +920,14 @@ if it's just you alone!","サスケ君に
  
 everytime
 It is just involved
-.",0.16666666666666666
+.",0.16666666666666666,0.10915437
 The loneliness.,"孤独
 ｡
 え？
 
 ","Loneliness
 .
-picture?",0.4
+picture?",0.4,0.5960658
 W-What's gotten into you?,"どうしたの？
  
 急に
@@ -936,7 +936,7 @@ W-What's gotten into you?,"どうしたの？
 ","What's wrong?
  
 suddenly
-.",0.2
+.",0.2,0.28739893
 annoy me.,"お前
  
 ウザいよ
@@ -945,23 +945,23 @@ annoy me.,"お前
 ","you
  
 Uza
-.",0.2
+.",0.2,0.21238534
 "Prepare yourself, Sasuke!","ダァ～！
 
-",Da ~!,0.14285714285714285
+",Da ~!,0.14285714285714285,0.27312803
 B-Bathroom!,"うっ！
 
-",Uh!,0.3333333333333333
+",Uh!,0.3333333333333333,0.2809138
 "I'm first, I say!","おもしろそうだから
 やってみただけだってばよ！
 
 ","Because it looks interesting
-I just tried it!",0.16666666666666666
+I just tried it!",0.16666666666666666,0.1819803
 "I'm about to go in my pants, I say!","俺が先だってば！
 俺だってばよ！
 
 ","If I go ahead!
-I'm sorry!",0.2857142857142857
+I'm sorry!",0.2857142857142857,0.33358982
 "<i>""You annoy me""...huh?</i>","俺がホントは
  
 すごいって…
@@ -970,31 +970,31 @@ I'm sorry!",0.2857142857142857
 ","I am really
  
 Thank you ...
-.",0.2
+.",0.2,0.1658006
 Damn.,"バカくさっ
 ｡
 
 ","Stupid
-.",0.3333333333333333
+.",0.3333333333333333,0.23421288
 <i>Naruto...</i>,"ナルトも
  
 こんな気分だったんだ》
 
 ","Naruto
  
-I felt like this """,0.2
+I felt like this """,0.2,0.7210275
 "Let's go back to the classroom, Naruto.","クッソ～
 ｡
 
 ","Kusso-
-.",0.09090909090909091
+.",0.09090909090909093,0.26290062
 "You're trying to trick me, right, Sasuke?!","何か変なもん食ったかな？
 
-",Did you eat something strange?,0.13333333333333333
+",Did you eat something strange?,0.13333333333333333,0.08010444
 "Ow ow ow...
 What the heck is going on?!","サクラちゃん？
 
-",Sakura-chan?,0.09090909090909091
+",Sakura-chan?,0.09090909090909093,0.115476646
 "So, this is Naruto's room...","痛い痛い痛い…
 何なんだよ
  
@@ -1005,10 +1005,10 @@ What the heck is going on?!","サクラちゃん？
 What is it
  
 This ~
-.",0.21428571428571427
+.",0.21428571428571427,0.1205617
 <i>of this milk has passed quite awhile ago...</i>,"かなり賞味期限を過ぎてる》
 
-","It has quite a lot of expiration date """,0.15789473684210525
+","It has quite a lot of expiration date """,0.15789473684210525,0.3122877
 <i>He'll get sick if he drink this.</i>,"(ｶｶｼ)
 《こんなもん飲んだら
 腹壊すぞ
@@ -1018,7 +1018,7 @@ This ~
 ","""If you drink this kind
 I'm abonteal
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.525017
 "<i>It seems like that things are</i>
 <i>going to get disastrous.</i>","こりゃ
  
@@ -1028,34 +1028,34 @@ I'm abonteal
 ","In case
  
 It seems to be a big deal
-Haa ...",0.13636363636363635
+Haa ...",0.13636363636363635,0.19606778
 What the heck is going on?!,"一体
  
 何なんだってばよ！
 
 ","Integral
  
-What is it!",0.3
+What is it!",0.3,0.12651291
 What is going on?!,"♬
  Waiting is wasting
 
 ","♬
- Waiting is Wasting",0.1111111111111111
+ Waiting is Wasting",0.1111111111111111,0.26277146
 No way am I giving up!,"♬
  A man railed at me twice
 but I didn't care
 
 ","♬
  A man railed at me tweed
-BUT I DIDN'T CARE",0.05555555555555555
+BUT I DIDN'T CARE",0.05555555555555555,0.15022098
 "Next episode:
 ""Pass or Fail: Survival Test""","♬
  fakes or fears.
 
 ","♬
- Fakes or Fears.",0.07692307692307693
+ Fakes or Fears.",0.07692307692307693,0.1968455
 Don't miss my outstanding performance!,"♬
  Don't cry
 
 ","♬
- Don't Cry",0.2222222222222222
+ Don't Cry",0.2222222222222222,0.19817835

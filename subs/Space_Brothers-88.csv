@@ -1,37 +1,37 @@
-en_text,jp_text,google_translated,score
-We hope that you will continue...,今年も相変わらぬ ご声援の程｡,Successful cheering about this year too.,0.0
-...to give your unwavering support...,隅から隅まで ずずずぃ～っと｡,Since the corner from the corner to the corner.,0.09090909090909091
-...to this show.,おん願い奉りまするぅ～｡,Thank you very much.,0.1111111111111111
-We will now begin the scheduled training.,これから 予定通り訓練を始める｡,I will start training as planned.,0.25
-Why do we have to be here?,なんで わざわざ我々が…｡,Why do we work.,0.3
-"Okay, send him down.",ＯＫ 沈めろ｡,OK Subsets.,0.125
-Please watch closely...,よく見ていてください｡➡,Please look carefully.,0.14285714285714285
-"Yes, if he fails, it's over.",ああ 失敗したら終わりだ｡,"Oh if it fails, it is over.",0.5454545454545454
-Got it.,ああ…わかってる｡,Oh ... I know.,0.14285714285714285
-Did you leave the yuri lily?,こっちのユリは吾妻さんが？,Yuri here is Azuma?,0.2
-"Yeah, I placed it there earlier.",ああ…さっき置いた｡,Oh ... I left it.,0.2727272727272727
-Certainly not.,まさか…｡,It is not ....,0.3333333333333333
-Why do you want that?,それは何のために？,What is it for?,0.1
-When you were visiting his grave.,さっき 墓で…｡,The tomb is a long time ....,0.07142857142857142
-"O-Oh... I guess, maybe.",あ…あ～どうだったかな？,"Oh ... Oh, how was it?",0.16666666666666666
-and you'll always get a response.,必ず答えが返ってくる｡➡,Be sure to return the answer.,0.07142857142857142
-I have to agree.,確かに そんな気がします！,Certainly I feel like that!,0.1
-"When you feel you've hit a wall,",日々人も壁にぶち当たった時は➡,"When people hit the wall every day,",0.3333333333333333
-you can talk to your real big brother.,本当の兄貴に話せばいい｡,You can talk to the real brother.,0.7
-I'm off to Hawaii for an Elvis concert...,エルヴィスのライブなんだわ,It's a live of Elvis,0.06666666666666667
-So you're telling me the same thing...,《そ～くるか…あんたも》,"""Well ... ... too ...",0.08333333333333333
-Huh? You're completely soaked.,なんだ？ビショ濡れだな お前｡,what?Bisho wet.,0.2
-"Well, if you want to know why I'm soaked, it's a long story...",なんで こんなに濡れたかは➡,Why are you so wet?,0.09523809523809523
-She's the Pretty Dog!,それが…プリティ･ドーッグ！,That's ... Pretty Dogging!,0.3333333333333333
-"Oh, thanks.",お～！サンキュー｡,Oh!thank you.,0.2857142857142857
-Hibito wants to talk to me?,日々人が 俺に…｡,Daily people are me ....,0.09090909090909091
-I didn't expect you to turn to me for help.,お前が 俺に相談とはな…｡,You are consulted by me ....,0.2
-"Yeah, that's true.",ああ そうだな｡,Oh yeah.,0.2857142857142857
-So? What's up?,で どうしたんだよ？,What did you do?,0.25
-"It's an anxiety disorder. oh, that's what you meant.",ああ なるほど｡そっちか｡,"Oh, more. Is there?",0.1875
-That's what I'm currently suffering from.,俺…今 それなんだよ｡,I ... it's now.,0.25
-"Basically, I freeze in place.",とにかく 何もできなくなる｡,"Anyway, nothing can be done.",0.16666666666666666
-I've been removed from active duty.,外されてるんだよ｡,It is removed.,0.2
-The spacesuit is on our side.,宇宙服は 俺らの味方だ｡,Space suit is our friend.,0.3
-"Oh, really?",え…そう？,Well ... so?,0.14285714285714285
-"Mind if I ask a strange question? do you know what ""pd"" stands for?",ＰＤって知ってる？,Do you know PD?,0.29411764705882354
+en_text,jp_text,google_translated,score,semantic_score
+We hope that you will continue...,今年も相変わらぬ ご声援の程｡,Successful cheering about this year too.,0.0,0.22168976
+...to give your unwavering support...,隅から隅まで ずずずぃ～っと｡,Since the corner from the corner to the corner.,0.09090909090909093,0.19277617
+...to this show.,おん願い奉りまするぅ～｡,Thank you very much.,0.1111111111111111,0.15107928
+We will now begin the scheduled training.,これから 予定通り訓練を始める｡,I will start training as planned.,0.25,0.79816014
+Why do we have to be here?,なんで わざわざ我々が…｡,Why do we work.,0.3,0.5345507
+"Okay, send him down.",ＯＫ 沈めろ｡,OK Subsets.,0.125,0.11405508
+Please watch closely...,よく見ていてください｡➡,Please look carefully.,0.14285714285714285,0.5791846
+"Yes, if he fails, it's over.",ああ 失敗したら終わりだ｡,"Oh if it fails, it is over.",0.5454545454545454,0.7665807
+Got it.,ああ…わかってる｡,Oh ... I know.,0.14285714285714285,0.17605075
+Did you leave the yuri lily?,こっちのユリは吾妻さんが？,Yuri here is Azuma?,0.2,0.5534539
+"Yeah, I placed it there earlier.",ああ…さっき置いた｡,Oh ... I left it.,0.2727272727272727,0.36143535
+Certainly not.,まさか…｡,It is not ....,0.3333333333333333,0.27976412
+Why do you want that?,それは何のために？,What is it for?,0.1,0.24518147
+When you were visiting his grave.,さっき 墓で…｡,The tomb is a long time ....,0.07142857142857142,0.38126236
+"O-Oh... I guess, maybe.",あ…あ～どうだったかな？,"Oh ... Oh, how was it?",0.16666666666666666,0.26495335
+and you'll always get a response.,必ず答えが返ってくる｡➡,Be sure to return the answer.,0.07142857142857142,0.3300807
+I have to agree.,確かに そんな気がします！,Certainly I feel like that!,0.1,0.28463265
+"When you feel you've hit a wall,",日々人も壁にぶち当たった時は➡,"When people hit the wall every day,",0.3333333333333333,0.71046734
+you can talk to your real big brother.,本当の兄貴に話せばいい｡,You can talk to the real brother.,0.7,0.88124776
+I'm off to Hawaii for an Elvis concert...,エルヴィスのライブなんだわ,It's a live of Elvis,0.06666666666666668,0.5151982
+So you're telling me the same thing...,《そ～くるか…あんたも》,"""Well ... ... too ...",0.08333333333333333,0.22023606
+Huh? You're completely soaked.,なんだ？ビショ濡れだな お前｡,what?Bisho wet.,0.2,0.43734443
+"Well, if you want to know why I'm soaked, it's a long story...",なんで こんなに濡れたかは➡,Why are you so wet?,0.09523809523809523,0.729197
+She's the Pretty Dog!,それが…プリティ･ドーッグ！,That's ... Pretty Dogging!,0.3333333333333333,0.557714
+"Oh, thanks.",お～！サンキュー｡,Oh!thank you.,0.2857142857142857,0.7640085
+Hibito wants to talk to me?,日々人が 俺に…｡,Daily people are me ....,0.09090909090909093,0.08122067
+I didn't expect you to turn to me for help.,お前が 俺に相談とはな…｡,You are consulted by me ....,0.2,0.29990458
+"Yeah, that's true.",ああ そうだな｡,Oh yeah.,0.2857142857142857,0.39139736
+So? What's up?,で どうしたんだよ？,What did you do?,0.25,0.36030948
+"It's an anxiety disorder. oh, that's what you meant.",ああ なるほど｡そっちか｡,"Oh, more. Is there?",0.1875,0.07430747
+That's what I'm currently suffering from.,俺…今 それなんだよ｡,I ... it's now.,0.25,0.1852916
+"Basically, I freeze in place.",とにかく 何もできなくなる｡,"Anyway, nothing can be done.",0.16666666666666666,0.112788446
+I've been removed from active duty.,外されてるんだよ｡,It is removed.,0.2,0.4421028
+The spacesuit is on our side.,宇宙服は 俺らの味方だ｡,Space suit is our friend.,0.3,0.6001591
+"Oh, really?",え…そう？,Well ... so?,0.14285714285714285,0.45224896
+"Mind if I ask a strange question? do you know what ""pd"" stands for?",ＰＤって知ってる？,Do you know PD?,0.29411764705882354,0.78037405

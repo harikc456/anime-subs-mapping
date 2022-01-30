@@ -1,289 +1,289 @@
-en_text,jp_text,google_translated,score
-"Sorry I'm late, but I-",遅れて ごめんなさい,Sorry for being late,0.2222222222222222
-Nagato-san?,長門さん？,Nagato?,0.3333333333333333
-"Hey, Nagato!",（キョン）おい 長門！,Hey Nagato!,0.75
-Kyon-kun! What happened?,（朝倉）キョン君　何があったの？,Kyung What happened?,0.5
-nazo nazo mitai na,♪～,♪ ~,0.0
-"Yeah, I won't fail.",うん 渡すよ,I will pass,0.1111111111111111
+en_text,jp_text,google_translated,score,semantic_score
+"Sorry I'm late, but I-",遅れて ごめんなさい,Sorry for being late,0.2222222222222222,0.58404946
+Nagato-san?,長門さん？,Nagato?,0.3333333333333333,0.81581825
+"Hey, Nagato!",（キョン）おい 長門！,Hey Nagato!,0.75,0.9782167
+Kyon-kun! What happened?,（朝倉）キョン君　何があったの？,Kyung What happened?,0.5,0.7204455
+nazo nazo mitai na,♪～,♪ ~,0.0,0.1382699
+"Yeah, I won't fail.",うん 渡すよ,I will pass,0.1111111111111111,0.31778175
 What are you doing!?,"あんたね　何してんのよ！
 これは…","What do you do!
-this is…",0.3333333333333333
-This is!...,これは！,this is!,0.75
-It's nothing.,（ハルヒ）別に　何もないわよ,There is nothing separately,0.14285714285714285
+this is…",0.3333333333333333,0.4980078
+This is!...,これは！,this is!,0.75,0.7810931
+It's nothing.,（ハルヒ）別に　何もないわよ,There is nothing separately,0.14285714285714285,0.24461865
 "All that happened, just now...","（ハルヒ）
-あったとしたらね　それは…","If it happened, it is ...",0.3
-was a bit of a misunderstanding.,ちょっとした誤解,A little misunderstanding,0.2857142857142857
+あったとしたらね　それは…","If it happened, it is ...",0.3,0.3959344
+was a bit of a misunderstanding.,ちょっとした誤解,A little misunderstanding,0.2857142857142857,0.6740751
 For me?,"（ハルヒ）どなるのは
-捜しながらでもできるわよね？",You can do it while looking for?,0.2222222222222222
+捜しながらでもできるわよね？",You can do it while looking for?,0.2222222222222222,0.29981923
 Thank you very much.,"えっ いただけるんですか？
 ありがとうございます","Can you do it?
-Thank you",0.2222222222222222
-Fine!,うっ　分かってるわよ！,I understand it!,0.2
-Might I inquire as to what happened?,何があったか 伺っても？,What happened?,0.375
-"Ready, and!...",ハァ ハァ…,Hua ...,0.16666666666666666
-So? Did you find her?,（朝倉）どう？　いた？,How? board?,0.125
-I'm not gonna apologize.,（ハルヒ）私 謝んないわよ,I am not apologetic,0.2222222222222222
-It's just a meaningless custom.,こんなの ただのイベントでしょ,It is such a just event,0.3
-You got it!,それが違うから怒ってるんです！,I'm angry because it is different!,0.2
-That's...,（朝倉）それが…,That's ...,1.0
+Thank you",0.2222222222222222,0.27126262
+Fine!,うっ　分かってるわよ！,I understand it!,0.2,0.4139025
+Might I inquire as to what happened?,何があったか 伺っても？,What happened?,0.375,0.4570854
+"Ready, and!...",ハァ ハァ…,Hua ...,0.16666666666666666,0.15926263
+So? Did you find her?,（朝倉）どう？　いた？,How? board?,0.125,0.1193994
+I'm not gonna apologize.,（ハルヒ）私 謝んないわよ,I am not apologetic,0.2222222222222222,0.7094454
+It's just a meaningless custom.,こんなの ただのイベントでしょ,It is such a just event,0.3,0.35301644
+You got it!,それが違うから怒ってるんです！,I'm angry because it is different!,0.2,0.17392956
+That's...,（朝倉）それが…,That's ...,1.0,0.99999976
 That's wrong and you know it!,"長門さんが渡すって知ってて
 なんで 先に渡しちゃうのよ！","Know that Mr. Nagato passes
-Why are you passing it first!",0.3333333333333333
+Why are you passing it first!",0.3333333333333333,0.21396402
 I don't really see a problem with it.,"私のは どう見たって
 歴然とした義理チョコなんだし","I saw what I saw
-It's a chocolate that is a chocolate",0.1875
+It's a chocolate that is a chocolate",0.1875,0.014462328
 That's so...,"いくら… いくら義理チョコ
 だからって言ってもね！","How much ... How much チ
-So let's say!",0.3
-That's so like you!,あんたみたいにねえ！,Hey like an animal!,0.2222222222222222
-I do!,読んでるわよ！,I read it!,0.4
-I'm angry...,（朝倉）腹が立つ…,I'm angry ...,1.0
-I set everything up for her\Nwith such arrogant confidence...,そんな自分に…,Such myself ...,0.18181818181818182
-"You sure are crying your eyes out, huh?",おーおー　いい泣きっぷりね,"Oh, good crying crying",0.16666666666666666
-Jeez. Why am I the one doing the comforting?,もう…　なんで 私が慰めてんのよ,Anyway ... why I am comfortable,0.23076923076923078
+So let's say!",0.3,0.10911076
+That's so like you!,あんたみたいにねえ！,Hey like an animal!,0.2222222222222222,0.43541136
+I do!,読んでるわよ！,I read it!,0.4,0.39745277
+I'm angry...,（朝倉）腹が立つ…,I'm angry ...,1.0,0.99999946
+I set everything up for her\Nwith such arrogant confidence...,そんな自分に…,Such myself ...,0.18181818181818185,0.31973734
+"You sure are crying your eyes out, huh?",おーおー　いい泣きっぷりね,"Oh, good crying crying",0.16666666666666666,0.5064572
+Jeez. Why am I the one doing the comforting?,もう…　なんで 私が慰めてんのよ,Anyway ... why I am comfortable,0.2307692307692308,0.41611648
 I forgive myself!,"次 失敗しないようにすればいい
 許す！","Do not fail
-forgive!",0.2857142857142857
+forgive!",0.2857142857142857,0.6667391
 That's a good one!,"（朝倉）よし
 自分の分は いっぱい反省した！","Good morning 
-She was a lot of she was reflected!",0.25
-I'm sorry.,（古泉）すいません,I'm sorry,0.75
+She was a lot of she was reflected!",0.25,0.22407788
+I'm sorry.,（古泉）すいません,I'm sorry,0.75,0.89931345
 It seems like I showed up at a bad time.,"何だか まずいタイミングに
 顔を出してしまったみたいで","Somehow it's a bad time
-It looks like I'm out of my face",0.3157894736842105
+It looks like I'm out of my face",0.3157894736842105,0.5381942
 "No, that's not it.","（キョン）
-いや 別にそんなことはない","No, there is no such thing",0.18181818181818182
-today is a day to be considerate of others.,何かと気を使う日ですよね,It is a day to use something,0.3076923076923077
-What?,何よ？,What?,1.0
-"When you really think about it,\NNagato-san is to blame for this, too.",考えてみたら 長門さんも悪い,"If you think about it, Mr. Nagato is also bad",0.3
+いや 別にそんなことはない","No, there is no such thing",0.18181818181818185,0.27733678
+today is a day to be considerate of others.,何かと気を使う日ですよね,It is a day to use something,0.3076923076923077,0.51745075
+What?,何よ？,What?,1.0,1.0000002
+"When you really think about it,\NNagato-san is to blame for this, too.",考えてみたら 長門さんも悪い,"If you think about it, Mr. Nagato is also bad",0.3,0.26434895
 Huh?,"（ハルヒ）は？
-（朝倉）だってそうよ",?,0.5
+（朝倉）だってそうよ",?,0.5,0.66354746
 What kind of hero just runs away when\Nthe Demon King is trying to kidnap the heroine!?,"魔王がヒロイン
 連れ去ろうとしているのに―","Demon King heroine
-I'm trying to get left-",0.22727272727272727
+I'm trying to get left-",0.2272727272727273,0.67034733
 I thought she had matured since\Nsaving the club from disbanding...,"廃部の一件で
 成長したと思ったのに…","One of the abolitions
-I thought it was growing ...",0.23529411764705882
-Nagato-san!,長門さん！,Nagato-san!,1.0
-Yes!?,（朝倉）“はい”じゃないですよ！,"""Yes""!",0.4
+I thought it was growing ...",0.2352941176470588,0.16201974
+Nagato-san!,長門さん！,Nagato-san!,1.0,1.0000002
+Yes!?,（朝倉）“はい”じゃないですよ！,"""Yes""!",0.4,0.55826414
 Just what do you think you're doing here!?,"こんな所で
 何しているんですか？　もう！","In such a place
-What are you doing? Already!",0.3125
-"Oh, um...",あっ いや…　あ…,There is no ... Oh ...,0.2857142857142857
-Of course other people\Nwould be giving him chocolate!,当たり前でしょ,"Why, of course",0.18181818181818182
+What are you doing? Already!",0.3125,0.5156538
+"Oh, um...",あっ いや…　あ…,There is no ... Oh ...,0.2857142857142857,0.34252906
+Of course other people\Nwould be giving him chocolate!,当たり前でしょ,"Why, of course",0.18181818181818185,0.21240409
 That's the whole point of the holiday!,"そりゃ 他の人だって
 チョコ渡しますよ","That's another person
-I will pass chocolate",0.14285714285714285
+I will pass chocolate",0.14285714285714285,0.18874636
 "If you let every little thing\Nget you down or overwhelm you,","いちいち気にしたり
 へこんだりしてたら―","I love you
-If you're going to",0.13333333333333333
-when will it ever end?,それが何だっていうんですか,What is it?,0.25
-Why would you give up!?,（朝倉）なんで 諦めるの？,Why do you give up?,0.625
-"Um, well...",（長門）あ…,A ...,0.2
+If you're going to",0.13333333333333333,0.15151918
+when will it ever end?,それが何だっていうんですか,What is it?,0.25,0.13797568
+Why would you give up!?,（朝倉）なんで 諦めるの？,Why do you give up?,0.625,0.87929636
+"Um, well...",（長門）あ…,A ...,0.2,0.41643208
 Misunderstood?,"（ハルヒ）ん？
 （朝倉）誤解？","?
- misunderstanding?",0.3333333333333333
-I'm... still going to give him the chocolate.,あ…　えっと 誤解してる,Oh ... I'm misunderstood,0.23076923076923078
+ misunderstanding?",0.3333333333333333,0.70214117
+I'm... still going to give him the chocolate.,あ…　えっと 誤解してる,Oh ... I'm misunderstood,0.2307692307692308,0.11093414
 What was I getting so worked up over?,"えっ　じゃあ 私は
 何 熱く語ってたんですか？","Well I
-What hottime did you talk?",0.21428571428571427
-I haven't given up or anything!,諦めてなんかないよ,I will not give up,0.18181818181818182
+What hottime did you talk?",0.21428571428571427,0.2225762
+I haven't given up or anything!,諦めてなんかないよ,I will not give up,0.18181818181818185,0.6463949
 "But then, why did you run off without the chocolates?","じゃあ どうして
 チョコ 放り出しちゃったの？","Then why
-Did you release chocolate?",0.35714285714285715
-I have them right-...,チョコ ない…,Chocolate ...,0.16666666666666666
-Huh? What?,え？　何？,picture? what?,0.5
-"If you were still planning to give him chocolate,",チョコ 渡す気あるならさ―,If you are going to pass chocolate-,0.21428571428571427
+Did you release chocolate?",0.35714285714285715,0.8013158
+I have them right-...,チョコ ない…,Chocolate ...,0.16666666666666666,0.16619255
+Huh? What?,え？　何？,picture? what?,0.5,0.62147576
+"If you were still planning to give him chocolate,",チョコ 渡す気あるならさ―,If you are going to pass chocolate-,0.21428571428571427,0.66267794
 why did you run out of the club room?,"なんで あの時
 部室から出ていったの？","Why is that time
-Did you come out of club room?",0.5714285714285714
-Huh? What's with that?...,は？　何よ？　それ,teeth? What? That,0.375
-You weren't getting in the way...,邪魔なんて…,How to get in the way ...,0.36363636363636365
+Did you come out of club room?",0.5714285714285714,0.8639921
+Huh? What's with that?...,は？　何よ？　それ,teeth? What? That,0.375,0.32976976
+You weren't getting in the way...,邪魔なんて…,How to get in the way ...,0.3636363636363637,0.6274037
 "It's just, if I were in your position,","私 いないほうが
 いいだろうなって 慌てて…","I'm not alone
-It's nice and I'm getting up ...",0.16666666666666666
+It's nice and I'm getting up ...",0.16666666666666666,0.17030063
 I'd be really embarrassed if\Nthere were other people around.,"私だったら 多分
 他の人がいたら すごく恥ずかしい","Maybe if you
-She is so embarrassed if there are other people",0.15789473684210525
-So...,（ハルヒ）そう…,...,0.5
-Do you like him?,好きなの？,Do you like?,0.8
-"I don't hate him, at least.",嫌いじゃないわ,I don't hate it,0.4
-So?,で？,and?,0.3333333333333333
+She is so embarrassed if there are other people",0.15789473684210525,0.52857774
+So...,（ハルヒ）そう…,...,0.5,0.7107466
+Do you like him?,好きなの？,Do you like?,0.8,0.5998951
+"I don't hate him, at least.",嫌いじゃないわ,I don't hate it,0.4,0.5141737
+So?,で？,and?,0.3333333333333333,0.6741139
 what will you do? Yuki?,"私の気持ちを知ったうえで
 どうするの？　有希(ゆき)","After knowing my feelings
-What to do?Yuki",0.36363636363636365
-"Well then, good luck.",じゃあ 頑張んなさい,Then I'm working hard,0.1
-Ryouko!,涼子(りょうこ)！,Ryoko !,0.3333333333333333
-"Oh, perfect timing...",あ… 大丈夫？　長門さん,Oh ... okay?Long man,0.2222222222222222
+What to do?Yuki",0.3636363636363637,0.76377654
+"Well then, good luck.",じゃあ 頑張んなさい,Then I'm working hard,0.1,0.45144755
+Ryouko!,涼子(りょうこ)！,Ryoko !,0.3333333333333333,0.708654
+"Oh, perfect timing...",あ… 大丈夫？　長門さん,Oh ... okay?Long man,0.2222222222222222,0.19873956
 You're late!,"遅いですよ！
 キョン君　何してたんですか！","It is late!
-Keong you did what did you do!",0.3
+Keong you did what did you do!",0.3,0.60352945
 Sorry...,"（ハルヒ）お…
 （キョン）おっ ちょうどよかった","...
- Just good",0.25
-Is Nagato okay now?,あっ 長門はいたのか？,Is there a Nagato?,0.42857142857142855
-"Kyon-kun, go keep her company.",キョン君　一緒にいてあげてね,Kyon-kun together,0.125
-S-sure...,お… おう,Oh ...,0.3333333333333333
+ Just good",0.25,0.34947094
+Is Nagato okay now?,あっ 長門はいたのか？,Is there a Nagato?,0.42857142857142855,0.73872584
+"Kyon-kun, go keep her company.",キョン君　一緒にいてあげてね,Kyon-kun together,0.125,0.7449379
+S-sure...,お… おう,Oh ...,0.3333333333333333,0.45191625
 I'm counting on you!,"（朝倉）よろしくね
 （キョン）分かった","Thank you
- I understand",0.25
-"Well, I came after her, but what do I do now?",何をどうしたものか　うーん…,What do you do?,0.25
+ I understand",0.25,0.08101357
+"Well, I came after her, but what do I do now?",何をどうしたものか　うーん…,What do you do?,0.25,0.22730201
 Hmm?,"（長門）あの
 （キョン）ん？","That
-?",0.3333333333333333
-"It's cold, huh?",いや それは別に…,"No, it's another ...",0.3333333333333333
-Yeah.,冷えるな,Cool,0.0
-Let's head back to the club room.,よし　部室 戻るか,Good club room return,0.18181818181818182
-Mm? What is it?,（キョン）ん？　どうした？,? What happened?,0.3333333333333333
-Here!,これ…,this…,0.0
-Please... accept this!,こ… こちらこそ,This ... This is,0.3333333333333333
-S-... Sure...,（キョン）あ…,...,0.3333333333333333
-T-thank you very much!,あ… ありがとうございます,"Oh, thank you very much",0.375
-You're opening it now!?,ぶっ！　ここで開けるの？,Back!Can you open here?,0.2727272727272727
-"Ah, it's not that you can't, it's just...",あ いや…　駄目なわけじゃ,"Oh, it's useless",0.23076923076923078
+?",0.3333333333333333,0.5039496
+"It's cold, huh?",いや それは別に…,"No, it's another ...",0.3333333333333333,0.2455002
+Yeah.,冷えるな,Cool,0.0,0.44479665
+Let's head back to the club room.,よし　部室 戻るか,Good club room return,0.18181818181818185,0.7187332
+Mm? What is it?,（キョン）ん？　どうした？,? What happened?,0.3333333333333333,0.09118283
+Here!,これ…,this…,0.0,0.4332144
+Please... accept this!,こ… こちらこそ,This ... This is,0.3333333333333333,0.30566034
+S-... Sure...,（キョン）あ…,...,0.3333333333333333,0.4544443
+T-thank you very much!,あ… ありがとうございます,"Oh, thank you very much",0.375,0.38335535
+You're opening it now!?,ぶっ！　ここで開けるの？,Back!Can you open here?,0.2727272727272727,0.54448944
+"Ah, it's not that you can't, it's just...",あ いや…　駄目なわけじゃ,"Oh, it's useless",0.2307692307692308,0.31747985
 Thank you.,"（キョン）ほら
-（長門）あ… ありがとう",Oh ... Thank you,0.4
-Are these handmade?,おお 手作りなのか？　これ,Is it handmade? this,0.2857142857142857
-"But, really...",でも ほんとは―,But it's really-,0.14285714285714285
+（長門）あ… ありがとう",Oh ... Thank you,0.4,0.5303096
+Are these handmade?,おお 手作りなのか？　これ,Is it handmade? this,0.2857142857142857,0.81704265
+"But, really...",でも ほんとは―,But it's really-,0.14285714285714285,0.6335037
 "All we did was melt the chocolate,\Npour it into molds, and sprinkle on some toppings,","チョコ溶かして 型に流し込んで
 トッピングしただけだから―","Chocolate melt and pour into mold
-Because I just tapped-",0.17391304347826086
-so I'm not sure you can really call them handmade...,手作りと呼んでいいのかどうか…,Whether it is good to call handmade ...,0.17647058823529413
-"They should taste just fine,\Nsince the chocolate is store-bought!",あっ でも 味は大丈夫,The taste is okay,0.23076923076923078
-Calm down!,（長門）落ち着け 落ち着け…,Calm down ...,0.5
-You're eating them now?,ぶへ！　今 食べるの？,Hey!Do you eat now?,0.3
-Okay then.,じゃ 早速１つ,Then one immediately,0.2
-"You're making it rather difficult, Nagato.",食べづらいぞ 長門,It is difficult to eat,0.16666666666666666
+Because I just tapped-",0.17391304347826084,0.6678404
+so I'm not sure you can really call them handmade...,手作りと呼んでいいのかどうか…,Whether it is good to call handmade ...,0.17647058823529413,0.8362821
+"They should taste just fine,\Nsince the chocolate is store-bought!",あっ でも 味は大丈夫,The taste is okay,0.2307692307692308,0.48983762
+Calm down!,（長門）落ち着け 落ち着け…,Calm down ...,0.5,0.81663793
+You're eating them now?,ぶへ！　今 食べるの？,Hey!Do you eat now?,0.3,0.63804287
+Okay then.,じゃ 早速１つ,Then one immediately,0.2,0.33584815
+"You're making it rather difficult, Nagato.",食べづらいぞ 長門,It is difficult to eat,0.16666666666666666,0.29980057
 W-what is it? Is there some problem\Nwith eating it in front of you?,"目の前で食べられると
 まずいのか？","If you eat in front of you
-Is it bad?",0.4666666666666667
-No!...,違うよ,No,0.3333333333333333
-"Well then, what?",じゃあ 何だ？,Then what is it?,0.42857142857142855
+Is it bad?",0.4666666666666667,0.6497957
+No!...,違うよ,No,0.3333333333333333,0.578071
+"Well then, what?",じゃあ 何だ？,Then what is it?,0.42857142857142855,0.55991274
 "and you start singing a love song\Nthat suddenly comes to mind,","つい 大声で
 ラブソングを歌っていたら―","Loudly
-If you sang a love song-",0.1875
+If you sang a love song-",0.1875,0.5728133
 and then a passer-by suddenly appears\Nfrom around the corner.,"いきなり角から
 通行人が現れた時とか","Suddenly from the corner
-When a passer appeared",0.2857142857142857
+When a passer appeared",0.2857142857142857,0.80996263
 You go back and read it objectively.,"間を置いて
 冷静に読み返すみたいな","Put a while
-It seems like I can read it calmly",0.125
-"Or, like...",（長門）じゃあ…,Well then ...,0.16666666666666666
-"All right, I've decided.",（キョン）よし 決めた,decided,0.14285714285714285
-I'm gonna go ahead and eat it. Okay?,俺は食うぞ　いいな？,I'm going to eat?,0.2857142857142857
+It seems like I can read it calmly",0.125,0.48117882
+"Or, like...",（長門）じゃあ…,Well then ...,0.16666666666666666,0.42416903
+"All right, I've decided.",（キョン）よし 決めた,decided,0.14285714285714285,0.49784386
+I'm gonna go ahead and eat it. Okay?,俺は食うぞ　いいな？,I'm going to eat?,0.2857142857142857,0.70688444
 "If you really want to stop me, now's the time!","カウントダウンだ
 止めるなら 今のうちだぞ","It is countdown
-If it stops, it's amazing",0.16666666666666666
-Ahh! What do I do? What do I do?,どうしよう どうしよう,What to do,0.2857142857142857
+If it stops, it's amazing",0.16666666666666666,0.3140468
+Ahh! What do I do? What do I do?,どうしよう どうしよう,What to do,0.2857142857142857,0.453228
 Nine!,"（キョン）10！
 （長門）ええ","10!
- yeah",0.25
-and took your time while-...,９…,9 ...,0.14285714285714285
+ yeah",0.25,0.7265229
+and took your time while-...,９…,9 ...,0.14285714285714285,0.26402098
 Four,"（キョン）フン ６ ５ ４
-（長門）はっ",Hun 6 5 4,0.0
-Zero!,（キョン）ゼロ！,Zero!,1.0
-T-that's not what-...,（長門）そ… そういうのじゃ…,... That's right ...,0.2857142857142857
-It was good.,（長門）うん よかった,It was good,0.75
+（長門）はっ",Hun 6 5 4,0.0,0.46993676
+Zero!,（キョン）ゼロ！,Zero!,1.0,0.99999994
+T-that's not what-...,（長門）そ… そういうのじゃ…,... That's right ...,0.2857142857142857,0.41996163
+It was good.,（長門）うん よかった,It was good,0.75,0.9141169
 "Once again, thank you very much.","（キョン）
-改めて ありがとうございました",Thank you again,0.375
+改めて ありがとうございました",Thank you again,0.375,0.6562109
 "I'm not sure I can say it's all going well, though.","まあ うまくいってるとは
 言いがたいですが","Well, I'm going well
-I want to say",0.375
+I want to say",0.375,0.68886673
 "Well yes, the mood is good, but...","（朝倉）
-確かに 雰囲気はいいんですけどね",Certainly the atmosphere is good though,0.25
+確かに 雰囲気はいいんですけどね",Certainly the atmosphere is good though,0.25,0.36414447
 Again with the confession thing?,"肝心な告白を
 忘れてるんじゃないかしら","The important confession
-I forget it",0.2
-"Her face was so red while handing them over, even I got embarrassed from up here,",顔 赤くして渡されて―,Face red and passed-,0.10526315789473684
-and you still think he doesn't know?,気づかないことが あるのかしら？,Do you have something to notice?,0.14285714285714285
+I forget it",0.2,0.7597482
+"Her face was so red while handing them over, even I got embarrassed from up here,",顔 赤くして渡されて―,Face red and passed-,0.10526315789473684,0.5272068
+and you still think he doesn't know?,気づかないことが あるのかしら？,Do you have something to notice?,0.14285714285714285,0.24208677
 "It's gotten to the point where even she wasn't interested, he'd be inclined to think she was, huh?","（朝倉）何とも思ってなくても
 勘違いされるレベルですよね","Even if I do not think
-It is the level that is misunderstood",0.14285714285714285
-"But, since a certain someone already\Ngave him chocolates beforehand...",でも どっかの誰かさんが―,But someone of someone is-,0.15384615384615385
-I was just being courteous!,責めるわね,I will blame,0.125
-That's what it looks like...,あれは義理よ,That's a duty,0.2222222222222222
-So you're blaming me?,あんたとキョンくらいよ,It is about me,0.1111111111111111
-Sorry.,（朝倉）フフ すいません,I'm sorry,0.25
+It is the level that is misunderstood",0.14285714285714285,0.18884546
+"But, since a certain someone already\Ngave him chocolates beforehand...",でも どっかの誰かさんが―,But someone of someone is-,0.15384615384615385,0.23330374
+I was just being courteous!,責めるわね,I will blame,0.125,0.17117932
+That's what it looks like...,あれは義理よ,That's a duty,0.2222222222222222,0.09642505
+So you're blaming me?,あんたとキョンくらいよ,It is about me,0.1111111111111111,0.26383755
+Sorry.,（朝倉）フフ すいません,I'm sorry,0.25,0.5786843
 "Despite your objections,\Nyou don't seem to mind it that much.","（朝倉）そういう割に
-嫌そうじゃないですよね",I do not like it,0.11764705882352941
+嫌そうじゃないですよね",I do not like it,0.1176470588235294,0.35324138
 If only we could give her\Nabout half of your assertiveness...,"（朝倉）あの子に
-涼宮さんの半分くらい―",About half of Suzumiya-,0.15384615384615385
-Even if the guy thinks you're just being courteous...,相手に義理って思われても―,Even if it seems to be in-law to the other party-,0.16666666666666666
+涼宮さんの半分くらい―",About half of Suzumiya-,0.15384615384615385,0.21445331
+Even if the guy thinks you're just being courteous...,相手に義理って思われても―,Even if it seems to be in-law to the other party-,0.16666666666666666,0.2665203
 Isn't handing it over good enough on its own?,"渡せれば
 それでいいんじゃないの？","If it is passed
-Isn't it good?",0.38461538461538464
+Isn't it good?",0.38461538461538464,0.4346942
 "They'll just be coming back to the club room, right?","（ハルヒ）
-どうせ部室に戻るんでしょ",I will return to club room,0.1875
-"No, we don't know that yet!",（朝倉）いや まだ分かりませんよ,"No, I do not understand yet",0.3333333333333333
-The c-c-c-c-c-c-con-con-...,次は 次は…,Next is the next ...,0.4
-What's up?,（キョン）どうした？,What happened?,0.4
-Why now!?,（朝倉）ここで!?,here!?,0.4
+どうせ部室に戻るんでしょ",I will return to club room,0.1875,0.64521843
+"No, we don't know that yet!",（朝倉）いや まだ分かりませんよ,"No, I do not understand yet",0.3333333333333333,0.37442613
+The c-c-c-c-c-c-con-con-...,次は 次は…,Next is the next ...,0.4,0.16336814
+What's up?,（キョン）どうした？,What happened?,0.4,0.42445743
+Why now!?,（朝倉）ここで!?,here!?,0.4,0.45104
 Nagato!,"（長門）ああっ
 （キョン）長門！","Oh
- Nagato!",0.6666666666666666
-Ah. I can't do it with the left.,（キョン）あー　左じゃ駄目だ,"Oh, it's not left",0.14285714285714285
-Ouch...,（キョン）う… うう…,... Uh ...,0.3333333333333333
-Unforgivable!!,（朝倉）許すまじ！,forgiveness!,0.3333333333333333
+ Nagato!",0.6666666666666666,0.94002545
+Ah. I can't do it with the left.,（キョン）あー　左じゃ駄目だ,"Oh, it's not left",0.14285714285714285,0.38046515
+Ouch...,（キョン）う… うう…,... Uh ...,0.3333333333333333,0.43008336
+Unforgivable!!,（朝倉）許すまじ！,forgiveness!,0.3333333333333333,0.47667676
 "Naga-nyan, sorry to startle ya...","（ハルヒ）
-いってらっしゃーい　保護者さん",Sorry for the parents,0.1
+いってらっしゃーい　保護者さん",Sorry for the parents,0.1,0.1431009
 "You okay, Kyon-kun?","（長門）胸…
 （鶴屋）キョン君も大丈夫かい？","chest ...
- Kyon is also okay?",0.2
-"Hello there, everyone.",（古泉）おや 皆さん,and everyone,0.16666666666666666
-Ehh!? Nagato-san!?,わわ！　長門さん！,Wow!Nagato-san!,0.4
+ Kyon is also okay?",0.2,0.54264235
+"Hello there, everyone.",（古泉）おや 皆さん,and everyone,0.16666666666666666,0.400161
+Ehh!? Nagato-san!?,わわ！　長門さん！,Wow!Nagato-san!,0.4,0.8936524
 "Tsuruya-san, what did you do this time?","鶴屋さん
 また何かしたんですかあ？","Tsuruya
-Did you do something again?",0.3333333333333333
+Did you do something again?",0.3333333333333333,0.7270954
 Kyon-kun just went into beast mode again.,"キョン君が また
 けだものになったにょろ","Kyono again
-It became a hit",0.07692307692307693
-Kyon-kun...,こおおお…,Koho ...,0.3333333333333333
-What're they doing?,ハァ　何やってんだか,What is it?,0.2857142857142857
+It became a hit",0.07692307692307693,0.3873928
+Kyon-kun...,こおおお…,Koho ...,0.3333333333333333,0.42638576
+What're they doing?,ハァ　何やってんだか,What is it?,0.2857142857142857,0.2858766
 Hey you! Do you think aliens exist?,"（ハルヒ）
-あんた 宇宙人っていると思う？",Do you think you are an alien?,0.36363636363636365
-Heeey!,ジョン･スミスをよろしく！,John Smith Yo!,0.2
-I guess I'll go join them.,（ハルヒ）私も行くか,I will go,0.25
-"Here, in return for Valentine's.",（キョン）ほら いつかのお返しだ,Someday Return,0.1111111111111111
-I believe they call it White Day?,ホワイトデーだっけか？,White day?,0.375
+あんた 宇宙人っていると思う？",Do you think you are an alien?,0.3636363636363637,0.67343247
+Heeey!,ジョン･スミスをよろしく！,John Smith Yo!,0.2,0.30200627
+I guess I'll go join them.,（ハルヒ）私も行くか,I will go,0.25,0.44102746
+"Here, in return for Valentine's.",（キョン）ほら いつかのお返しだ,Someday Return,0.1111111111111111,0.4055836
+I believe they call it White Day?,ホワイトデーだっけか？,White day?,0.375,0.81984574
 Thank you!,"わあ　ありがとう
 すごくうれしい","Thank you
-Gracious",0.5
-I'm really happy!,なかなか 気が利いてますね,I feel quite good,0.125
+Gracious",0.5,0.3998394
+I'm really happy!,なかなか 気が利いてますね,I feel quite good,0.125,0.42784595
 Sure. I didn't expect you to be so pleased about it.,"おう そんなに
 喜んでもらえるとはな","Oh, so
-It is not good to be happy",0.21052631578947367
-Yuki. Let me see that for a second.,有希 ちょっとそれ貸して,Yuki a little bit,0.18181818181818182
-Thanks.,完全一致,Perfect matching,0.0
+It is not good to be happy",0.21052631578947367,0.42217797
+Yuki. Let me see that for a second.,有希 ちょっとそれ貸して,Yuki a little bit,0.18181818181818185,0.7800436
+Thanks.,完全一致,Perfect matching,0.0,0.20222893
 "You were hoping yours\Nwould be bigger, weren't you?","ははーん　少しでも
 でかいほうが よかったんだろう？","Has a little
-She was good, she was good?",0.13333333333333333
-"Unfortunately for you,\Nthey have the exact same contents.",残念だが 同じものが入っている,"Unfortunately, the same thing is included",0.2857142857142857
-"No matter how you measure,\Nit'll be more of the same.",どこをどう測っても 全く同一だ,Where is the same thing about how they measure,0.21052631578947367
-What is it?,（キョン）ん？　何だよ？,? What?,0.5
-"He doesn't understand a woman's heart, does he?",女性の心を分かってないようで…,It seems not to know the heart of a woman ...,0.16666666666666666
+She was good, she was good?",0.13333333333333333,0.22680032
+"Unfortunately for you,\Nthey have the exact same contents.",残念だが 同じものが入っている,"Unfortunately, the same thing is included",0.2857142857142857,0.4123839
+"No matter how you measure,\Nit'll be more of the same.",どこをどう測っても 全く同一だ,Where is the same thing about how they measure,0.21052631578947367,0.706359
+What is it?,（キョン）ん？　何だよ？,? What?,0.5,0.3670889
+"He doesn't understand a woman's heart, does he?",女性の心を分かってないようで…,It seems not to know the heart of a woman ...,0.16666666666666666,0.71189296
 That's big talk from someone so tasteless\Nhe gave me a retro game as a return gift.,"お返しに
 レトロゲーム渡すような―","Returned
-Retro game passing",0.10526315789473684
-Can I open it?,開けてもいいかな？,May I open it?,0.6666666666666666
+Retro game passing",0.10526315789473684,0.53400266
+Can I open it?,開けてもいいかな？,May I open it?,0.6666666666666666,0.8713859
 "Sure, but don't get your hopes up.","（キョン）
-いいけど あまり期待するなよ","Good, but don't expect much",0.3076923076923077
+いいけど あまり期待するなよ","Good, but don't expect much",0.3076923076923077,0.37897873
 "I didn't even think I was going to get\Nanything in return in the first place, so...","そもそも もらえると
 思ってなかったから","If you get in the first place
-Because I did not think",0.3181818181818182
-Poor girl...,ウフフ…,Uhufu ...,0.25
-"whereas Yuki's was handmade,",有希の手作りチョコとで―,With Yuki no Handmade Chocolate-,0.2222222222222222
+Because I did not think",0.3181818181818182,0.46968973
+Poor girl...,ウフフ…,Uhufu ...,0.25,0.35955393
+"whereas Yuki's was handmade,",有希の手作りチョコとで―,With Yuki no Handmade Chocolate-,0.2222222222222222,0.69729775
 so why would he give us the same thing in return?,"どうして
 同じお返し 渡すのかしらね","why
-Do you want to pass the same return",0.23529411764705882
-"Just like I surmised, he must have thought\NNagato-san's gift was obligatory, just like yours.",めっちゃ 顔 怖かったわよ,I was really scared,0.11764705882352941
+Do you want to pass the same return",0.2352941176470588,0.53020865
+"Just like I surmised, he must have thought\NNagato-san's gift was obligatory, just like yours.",めっちゃ 顔 怖かったわよ,I was really scared,0.1176470588235294,0.15307435
 "And yet, you didn't say anything to Kyon about it.","さっきは そこを
 キョンに突っ込まなかったわね","Soon there
-I didn't stick to Kyon",0.23529411764705882
-"Although, the moment we\Nfound out the gifts were the same,",同じお返しだって分かった瞬間―,The moment I understand that the same return,0.23076923076923078
-"Oh my, Suzumiya-san.",食うな,Eat,0.0
+I didn't stick to Kyon",0.2352941176470588,0.65125674
+"Although, the moment we\Nfound out the gifts were the same,",同じお返しだって分かった瞬間―,The moment I understand that the same return,0.2307692307692308,0.357542
+"Oh my, Suzumiya-san.",食うな,Eat,0.0,0.11934644
 Is an obligatory return gift\Nreally so important to you?,"義理のお返しが
 そんなに大事なんですか？","Deki's back
-Is it so important?",0.2857142857142857
-Ohh?,（ハルヒ）何よ？,What?,0.3333333333333333
-In return,（長門）ん…　フフッ,... Fufu,0.0
-"Next time: ""Over the Obento""",（長門）次回…,Next time ...,0.2222222222222222
+Is it so important?",0.2857142857142857,0.32161355
+Ohh?,（ハルヒ）何よ？,What?,0.3333333333333333,0.30438188
+In return,（長門）ん…　フフッ,... Fufu,0.0,0.19610715
+"Next time: ""Over the Obento""",（長門）次回…,Next time ...,0.2222222222222222,0.33200866

@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.7113179
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.86280525
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207105
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.6541098
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.3804589
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851642
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.40009788
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.5800125
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.3699327
 Good bye!,"(ﾓｴｷﾞ)
 イルカ先生
  
@@ -113,7 +113,7 @@ good bye
 .
 
 good bye
-.",0.3333333333333333
+.",0.3333333333333333,0.44031549
 "Make sure you practice what
 I taught you today, Transform Jutsu!","ちゃんと
  
@@ -123,13 +123,13 @@ I taught you today, Transform Jutsu!","ちゃんと
 ","Properly
  
 I practice in my house
-.",0.11764705882352941
+.",0.1176470588235294,0.3985275
 "- Okay!
 - Okay.","は～い
 ｡
 
 ","Oblivious
-.",0.2
+.",0.2,0.19396421
 "What is it, Iruka Sensei?","(
 木ノ葉丸
 )
@@ -141,7 +141,7 @@ I practice in my house
 ","What?this
  
 Dolphin teacher
-.",0.18181818181818182
+.",0.18181818181818185,0.19649391
 "Okay... Goodbye, Iruka Sensei!","うん！
  
 さよなら
@@ -154,7 +154,7 @@ Dolphin teacher
 Goodbye
  
 Dolphin teacher
-.",0.18181818181818182
+.",0.18181818181818185,0.3463355
 "Hey, Lee!","あっ
  
 やぁ
@@ -165,7 +165,7 @@ Dolphin teacher
  
 Ya
  
-Lee!",0.3333333333333333
+Lee!",0.3333333333333333,0.8267034
 On your way back from rehabilitation?,"(ｲﾙｶ)
 リハビリの帰りか？
 (
@@ -181,7 +181,7 @@ On your way back from rehabilitation?,"(ｲﾙｶ)
 Ah
  
 Yes
-.",0.13333333333333333
+.",0.13333333333333333,0.75364363
 I hope you get better soon.,"早く
  
 よくなるといいな
@@ -190,12 +190,12 @@ I hope you get better soon.,"早く
 ","quickly
  
 I hope it gets better
-.",0.4
+.",0.4,0.6812068
 Thank you very much.,"ありがとうございます
 ｡
 
 ","Thank you
-.",0.6
+.",0.6,0.6453315
 "<i>To activate each and</i>
 <i>every cell all at once...</i>","(
 綱手
@@ -208,7 +208,7 @@ Thank you very much.,"ありがとうございます
 ","""Each of the cells
 Activate at once ...
 .
-➡",0.25
+➡",0.25,0.71246046
 "<i>If it were just one by one,</i>
 <i>it'd be a snap,</i>","チッ
  
@@ -226,7 +226,7 @@ One by one
 Easy
 It is difficult to do everything
 .
-➡",0.125
+➡",0.125,0.25690684
 "<i>The Leaf Village is</i>
 <i>in great trouble right now,</i>","(ﾅﾙﾄ)
 ＜何たってさぁ
@@ -241,12 +241,12 @@ It is difficult to do everything
 The village of Kinoha
 now
  
-Because it is difficult",0.25
+Because it is difficult",0.25,0.35845265
 <i>so we must do our best!</i>,"俺たちが頑張んないと
 いけないんだよな！＞
 
 ","If we do not work hard
-I can't do it!>",0.2777777777777778
+I can't do it!>",0.2777777777777778,0.53786063
 "<i>It's better that you give up being</i>
 <i>a Shinobi and look for a different path.</i>","絶対
  
@@ -254,10 +254,10 @@ I can't do it!>",0.2777777777777778
 
 ","absolutely
  
-I think it will be better>",0.17391304347826086
+I think it will be better>",0.17391304347826084,0.102014035
 Transformation Jutsu!,"分身の術！＞
 
-",Self-made work!>,0.16666666666666666
+",Self-made work!>,0.16666666666666666,0.25388741
 "The medal of youth is one of passion,
 with no looking back!","(
 ガイ
@@ -266,7 +266,7 @@ with no looking back!","(
 さりげない熱血だ！➡
 
 ","<The medal of youth
-It's a casual bloody blood!➡",0.23809523809523808
+It's a casual bloody blood!➡",0.2380952380952381,0.6214388
 "I'm telling you, son,
 you will become a fine Shinobi! Yay!","もっともっと頑張れば
  
@@ -280,7 +280,7 @@ you will become a fine Shinobi! Yay!","もっともっと頑張れば
 You are
 surely
  
-I can become a great Shinobu!➡",0.22727272727272727
+I can become a great Shinobu!➡",0.2272727272727273,0.6817146
 "<i>Who is he?</i>
 <i>He is pretty overbearing.</i>","(
 リー
@@ -289,7 +289,7 @@ I can become a great Shinobu!➡",0.22727272727272727
 すごく濃い人ですが…》
 
 ","""Who is it?
-It is a very dark person ... """,0.17647058823529413
+It is a very dark person ... """,0.17647058823529413,0.23994257
 "Son, be ambitious! Bloom of Youth...","＜少年よ
  
 大志を抱け！
@@ -302,7 +302,7 @@ It is a very dark person ... """,0.17647058823529413
 Ambitious!
 It is youth!
  
-Farewell!➡",0.2
+Farewell!➡",0.2,0.63301593
 <i>That was the first time I met Guy Sensei.</i>,"(
 リー
 )
@@ -318,7 +318,7 @@ Farewell!➡",0.2
 first time
 I met Guy
 .
-➡",0.4
+➡",0.4,0.54367995
 "I want to hear what
 your goals are for the future.","お前たちの目指すものを
 聞いてみたいぞ
@@ -328,16 +328,16 @@ your goals are for the future.","お前たちの目指すものを
 ","What you aim for you
 I want to hear
 .
-➡",0.4666666666666667
+➡",0.4666666666666667,0.57353604
 I don't want to answer.,"(
 ネジ
 )
 ＜答えたくない＞
 
-",<I do not want to answer>,0.5
+",<I do not want to answer>,0.5,0.6847071
 I-I...!,"アッハハハ…！＞
 
-",Ahahaha ...!>,0.4
+",Ahahaha ...!>,0.4,0.34028956
 That would be the ultimate for me!,"それが
  
 僕のすべてです！＞
@@ -350,7 +350,7 @@ That would be the ultimate for me!,"それが
  
 All of me!>
 
-""Good eyes""",0.2
+""Good eyes""",0.2,0.24727054
 You! What's so funny?!,"(
 ネジ
 )
@@ -366,16 +366,16 @@ You! What's so funny?!,"(
 
 <You!
  
-What's wrong!?",0.45454545454545453
+What's wrong!?",0.4545454545454545,0.19300319
 I'm serious!,"僕は本気です！
 たとえ体術だけでも➡
 
 ","I'm serious!
-Even body teeth alone ➡",0.4444444444444444
+Even body teeth alone ➡",0.4444444444444444,0.35974926
 "I will become a respectable Ninja
 even only with Taijutsu!","立派に忍者を務めてみせます！＞
 
-",I will try to serve as a ninja!>,0.3125
+",I will try to serve as a ninja!>,0.3125,0.7025728
 "to graduate from the academy
 who's only able to use Taijutsu?","体術のみで
  
@@ -385,7 +385,7 @@ who's only able to use Taijutsu?","体術のみで
 ","With only body art
  
 Academy
-Those who graduated are the first time ➡",0.19047619047619047
+Those who graduated are the first time ➡",0.19047619047619047,0.42179993
 "It's not because you're so good;
 it's just that you're unusual.","忍者じゃないだろ
  
@@ -397,7 +397,7 @@ it's just that you're unusual.","忍者じゃないだろ
  
 Fuf
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.123132855
 "If you act with passion,","＜君たち
  
 熱血さえあれば
@@ -406,14 +406,14 @@ Fuf
 ","<You are
  
 If you have a hot blood
-Nevertheless>",0.14285714285714285
+Nevertheless>",0.14285714285714285,0.21552943
 you can all become great Ninja!,"きっと
  
 立派な忍者になれるさ！➡
 
 ","surely
  
-You can be a good ninja!➡",0.3333333333333333
+You can be a good ninja!➡",0.3333333333333333,0.86093247
 <i>Passion...</i>,"(
 リー
 )
@@ -425,14 +425,14 @@ You can be a good ninja!➡",0.3333333333333333
 
 ","""Hot blood ...""
 
-<Ha-Huhahaha ...!>",0.25
+<Ha-Huhahaha ...!>",0.25,0.2740741
 <i>By his words...and his deeds.</i>,"先生のことばと
  
 行動に…》
 
 ","Teacher's words and
  
-Act ... """,0.21428571428571427
+Act ... """,0.21428571428571427,0.31304613
 "You're late!
 17 minutes and 32 seconds late!","＜遅い！
  17
@@ -444,14 +444,14 @@ Act ... """,0.21428571428571427
  17
 Minute
 32
-Seconds are late>",0.35714285714285715
+Seconds are late>",0.35714285714285715,0.8083641
 Each of us has 48 wins!,"＜お互い
  48
 勝どうし➡
 
 ","<Each other
  48
-Winning ➡",0.18181818181818182
+Winning ➡",0.18181818181818185,0.76278
 "I guess you won't give up
 even if I say I wouldn't want to do it.","ダメだっつっても
 ダメみたいね…
@@ -461,7 +461,7 @@ even if I say I wouldn't want to do it.","ダメだっつっても
 ","Even if it is no good
 I want to do it ...
 .
-➡",0.38095238095238093
+➡",0.3809523809523809,0.4483719
 A Taijutsu battle? A 100 meter dash?,"(
 ガイ
 )
@@ -475,22 +475,22 @@ A Taijutsu battle? A 100 meter dash?,"(
  
 Is it a battle battle?
 100
-M run?➡",0.25
+M run?➡",0.25,0.56194717
 Please...,"(ｶｶｼ)
 ＜あのな…＞
 
-",<That ...>,0.2
+",<That ...>,0.2,0.35644606
 "Okay, then...","(ｶｶｼ)
 ＜それじゃさ…＞
 
-",<Well then ...>,0.2857142857142857
+",<Well then ...>,0.2857142857142857,0.6409935
 Wh-What?!,"＜な…
  
 何だ!?＞
 
 ","<...
  
-What!?>",0.2857142857142857
+What!?>",0.2857142857142857,0.46578985
 "Rock, paper, scissors?
 That's what you choose?","＜じゃんけん!?
  
@@ -498,7 +498,7 @@ That's what you choose?","＜じゃんけん!?
 
 ","<Janken!?
  
-That's why ...>",0.1875
+That's why ...>",0.1875,0.044996217
 'cuz he can't be bothered?,"いいように
  
 あしらわれてる
@@ -507,25 +507,25 @@ That's why ...>",0.1875
 ","Like
  
 I'm sorry
-Isn't it only?>",0.13333333333333333
+Isn't it only?>",0.13333333333333333,0.17899483
 "If I do, I'll walk around the Leaf Village
 500 times on my hands!","もし負けたら
 木ノ葉の里を逆立ちで➡
 
 ","If you lose
-Return on the village of the tree",0.19047619047619047
+Return on the village of the tree",0.19047619047619047,0.47264624
 There you go again...,"＜な…
  
 な～るほど…＞
 
 ","<...
  
-What ...>",0.125
+What ...>",0.125,0.20856826
 I promise!,"500
 周やってやる！＞
 
 ","500
-I will do it!>",0.25
+I will do it!>",0.25,0.26933917
 "Another one of your special,
 self-imposed rules.","＜何か
  
@@ -533,7 +533,7 @@ self-imposed rules.","＜何か
 
 ","<Something
  
-Because of the trouble",0.07142857142857142
+Because of the trouble",0.07142857142857142,0.18278728
 He can't do that.,"＜そんなことができるか
 アホらしい
 ｡
@@ -542,7 +542,7 @@ He can't do that.,"＜そんなことができるか
 ","<Can you do that?
 Apt
 .
-➡",0.25
+➡",0.25,0.24075967
 "That's ridiculous.
 He's acting like a kid.","＜受けて立とう
 決して負けんぞ
@@ -552,7 +552,7 @@ He's acting like a kid.","＜受けて立とう
 ","<Take a reception
 Never lose
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.045883484
 Here you are.,"ハハっ
  
 やはり
@@ -565,20 +565,20 @@ Here you are.,"ハハっ
 also
  
 Here?
-.",0.2857142857142857
+.",0.2857142857142857,0.38190457
 Guy Sensei?,"どうして
  
 ここへ？
 
 ","why
  
-Where?",0.2
+Where?",0.2,0.11039065
 When I first became Genin...,"(
 リー
 )
 初めて下忍になった時➡
 
-",When I became Shimono for the first time,0.4
+",When I became Shimono for the first time,0.4,0.43587577
 "this is where I revealed
 my dream, my aspiration.","ここで
  
@@ -590,14 +590,14 @@ my dream, my aspiration.","ここで
  
 My dream ...
 I swear everything
-.",0.2857142857142857
+.",0.2857142857142857,0.5076681
 <i>That would be the ultimate for me!</i>,"それが
  
 僕のすべてです！＞
 
 ","that is
  
-All of me!>",0.26666666666666666
+All of me!>",0.26666666666666666,0.464402
 "At that time, you told me...","(
 リー
 )
@@ -607,7 +607,7 @@ All of me!>",0.26666666666666666
 
 ","That time
  
-I was laughed at the screw",0.23076923076923078
+I was laughed at the screw",0.2307692307692308,0.38903496
 "If you act with passion,
 compete with rivals,","ライバルと競い
  
@@ -615,14 +615,14 @@ compete with rivals,","ライバルと競い
 
 ","Compete with rivals
  
-If you want to",0.5
+If you want to",0.5,0.83284664
 you can become a fine Ninja.,"きっと立派な忍者になれると
 ｡
 ➡
 
 ","If you can be a good ninja
 .
-➡",0.45454545454545453
+➡",0.4545454545454545,0.82025343
 "In order to do that, it'd take ""effort.""","そして
  
 それには努力が必要だと
@@ -631,25 +631,25 @@ you can become a fine Ninja.,"きっと立派な忍者になれると
 ","and
  
 If you need an effort to
-.",0.16666666666666666
+.",0.16666666666666666,0.6133306
 I was happy to hear that.,"うれしかったんです
 ｡
 
 ","I was happy
-.",0.5714285714285714
+.",0.5714285714285714,0.6566423
 "- Transform!
 - Transform!","(
 生徒たち
 )
 ＜変化！＞
 
-",<Change!>,0.16666666666666666
+",<Change!>,0.16666666666666666,0.36360273
 Because while at the academy...,"(
 リー
 )
 アカデミー時代➡
 
-",Academy era,0.14285714285714285
+",Academy era,0.14285714285714285,0.5546816
 And when I complained that,"僕に
  
 そんなことを言ってくれる
@@ -658,23 +658,23 @@ And when I complained that,"僕に
 ","to me
  
 Let's say that
-My friends and teachers are ➡",0.13333333333333333
+My friends and teachers are ➡",0.13333333333333333,0.20909101
 "you told me that I had
 a natural talent for effort.","教えていただきました
 ｡
 
 ","I told you
-.",0.3333333333333333
+.",0.3333333333333333,0.35281408
 "That was when I learned the importance
 of believing in my own strength.","道が開けました
 ｡
 
 ","The road was open
-.",0.1875
+.",0.1875,0.07908644
 "<i>The chance of a successful surgery</i>
 <i>is probably 50%, at best.</i>","＜手術が成功する確率は➡
 
-",<The probability that the surgery succeeds is,0.2
+",<The probability that the surgery succeeds is,0.2,0.7438621
 "But... this is one time...
 even if I try my best...!","今回ばかりは
  
@@ -682,18 +682,18 @@ even if I try my best...!","今回ばかりは
 
 ","This time
  
-Even if you try",0.35714285714285715
+Even if you try",0.35714285714285715,0.49864614
 "And even if I believe in myself,
 there's nothing in the world I can do!","自分を信じてみても➡
 
-",Even if you believe in yourself,0.2222222222222222
+",Even if you believe in yourself,0.2222222222222222,0.6634505
 Guy Sensei... Please tell me...!,"ガイ先生
  
 教えてください！
 
 ","Teacher
  
-please tell me!",0.5
+please tell me!",0.5,0.31831688
 "<i>Please tell me.</i>
 <i>Can I become like you?</i>","僕も
  
@@ -703,7 +703,7 @@ please tell me!",0.5
 ","Me too
  
 Like Guy
-Is it possible?>",0.16666666666666666
+Is it possible?>",0.16666666666666666,0.45775577
 "Why did this kind of thing
 happen only to me?","(
 リー
@@ -716,7 +716,7 @@ happen only to me?","(
 ","why
  
 Only me
-It's like this!?",0.3333333333333333
+It's like this!?",0.3333333333333333,0.55226904
 "<i>my own dreams and aspirations</i>
 <i>that I have to protect and</i>","(
 リー
@@ -725,7 +725,7 @@ It's like this!?",0.3333333333333333
 守りたい大切な意志と夢➡
 
 ","<Certified even if I die
-I want to protect and dreams and dreams",0.3333333333333333
+I want to protect and dreams and dreams",0.3333333333333333,0.5213255
 What should I do?!,"(
 リー
 )
@@ -735,13 +735,13 @@ What should I do?!,"(
 
 ","I
  
-What should I do?",0.8333333333333334
+What should I do?",0.8333333333333334,0.719333
 Please tell me!,"教えてください！
 
-",please tell me!,1.0
+",please tell me!,1.0,0.99999976
 <i>Everything is...for my dream!</i>,"すべては夢のために！＞
 
-",Everything is for dreams!>,0.4166666666666667
+",Everything is for dreams!>,0.4166666666666667,0.78161466
 <i>That means everything to me!</i>,"(
 リー
 )
@@ -751,7 +751,7 @@ Please tell me!,"教えてください！
 
 ","<It
  
-All of me!>",0.3076923076923077
+All of me!>",0.3076923076923077,0.6269749
 <i>It must be so painful for you...</i>,"(
 ガイ
 )
@@ -759,11 +759,11 @@ All of me!>",0.3076923076923077
 理不尽に夢が…➡
 
 ","""It will be painful
-I am sorry for the unreasonable dream ...",0.3157894736842105
+I am sorry for the unreasonable dream ...",0.3157894736842105,0.51001066
 "<i>It does not matter what his wishes are,</i>
 <i>he should give up on becoming a Shinobi.</i>","忍は諦めたほうがいい＞
 
-",Shinobu should give up>,0.18181818181818182
+",Shinobu should give up>,0.18181818181818185,0.6246906
 Lee...,"(
 ガイ
 )
@@ -771,7 +771,7 @@ Lee...,"(
 ｡
 
 ","Lee
-.",0.3333333333333333
+.",0.3333333333333333,0.9331976
 "If you want to be free of that pain,
 you have to prepare yourself!","(
 ガイ
@@ -780,7 +780,7 @@ you have to prepare yourself!","(
 解放されたければ➡
 
 ","From that suffering
-If you want to be released",0.35294117647058826
+If you want to be released",0.35294117647058826,0.45956874
 "Does it mean...
 to prepare to give up my dreams?","それは
  
@@ -790,7 +790,7 @@ to prepare to give up my dreams?","それは
 ","that is
  
 I will give up my dream
-Are you ready?",0.21052631578947367
+Are you ready?",0.21052631578947367,0.64868844
 "If you lose your dreams,","(
 ガイ
 )
@@ -804,7 +804,7 @@ Are you ready?",0.21052631578947367
  
 You are
 It will be worse than now
-.",0.26666666666666666
+.",0.26666666666666666,0.8192074
 "Neither you nor I would be able to
 go on living if we lose the Way of Ninja.","忍道を失うようなことがあれば
 生きてはいけないような
@@ -816,14 +816,14 @@ go on living if we lose the Way of Ninja.","忍道を失うようなことがあ
 I can not live
  
 Stupidity
-.",0.2222222222222222
+.",0.2222222222222222,0.18087524
 Lee! Have the surgeny!,"手術を受けろ
  
 リー！
 
 ","Do surgery
  
-Lee!",0.2857142857142857
+Lee!",0.2857142857142857,0.6577503
 How's it going with Cell Activation Jutsu?,"(ｼｽﾞﾈ)
 どうですか？
  
@@ -833,7 +833,7 @@ How's it going with Cell Activation Jutsu?,"(ｼｽﾞﾈ)
 ","how is it?
  
 Cell activation
-.",0.45454545454545453
+.",0.4545454545454545,0.68005854
 "It's all about the Chakra, but...","要は
  
 チャクラなんだけどねぇ
@@ -844,7 +844,7 @@ Cell activation
  
 It's a chakra, though
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.8318041
 There are so many kinds of cells...,"細胞といっても
  
 皮膚
@@ -865,7 +865,7 @@ Visceral
 muscle…
 there are various things
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.51836795
 "What's that?
 ""Just a tad,"" you say?","何だ
  ｢
@@ -879,17 +879,17 @@ there are various things
 Justly
 ""
 what is it
-.",0.1875
+.",0.1875,0.32424387
 Are you testing me?,"ん？
  
 あたしを試してんのかい？
 
 ","Yeah?
  
-Do you try me?",0.375
+Do you try me?",0.375,0.43459094
 Oh no!,"いえ！
 
-",home!,0.25
+",home!,0.25,0.29089132
 I'm declaring my trust in you.,"ご信頼
  
 申し上げております
@@ -898,7 +898,7 @@ I'm declaring my trust in you.,"ご信頼
 ","Trust
  
 I'm sorry
-.",0.4444444444444444
+.",0.4444444444444444,0.5312153
 "I don't know why,
 but just a while ago...","さっきまで
  
@@ -906,7 +906,7 @@ but just a while ago...","さっきまで
 
 ","until a few minutes ago
  
-I am ➡",0.17647058823529413
+I am ➡",0.17647058823529413,0.34739697
 "I was remembering the time
 when you and Kakashi Sensei","なぜか
  
@@ -914,7 +914,7 @@ when you and Kakashi Sensei","なぜか
 
 ","why
  
-Teacher and Kakashi teacher",0.16666666666666666
+Teacher and Kakashi teacher",0.16666666666666666,0.4578183
 "were competing
 with rock, paper, scissors.","じゃんけんで対決した時のことを
 思い出してました
@@ -924,7 +924,7 @@ with rock, paper, scissors.","じゃんけんで対決した時のことを
 ","What happens with Janken
 I remembered
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.10488947
 "At that time, Kakashi Sensei said","その時
  
 先生は
@@ -939,7 +939,7 @@ The teacher
 ""
 Luck is also the ability
 ""
-And ➡",0.1875
+And ➡",0.1875,0.16418068
 "This surgery is also fifty fifty,
 live or die...","手術も
  
@@ -947,10 +947,10 @@ live or die...","手術も
 
 ","Surgery
  
-Do you live or die?",0.3076923076923077
+Do you live or die?",0.3076923076923077,0.67209667
 But...,"でも…➡
 
-",But ... ➡,0.6666666666666666
+",But ... ➡,0.6666666666666666,0.7327605
 "Do you remember what happened
 after that, Lee?","あのあとのことを
 覚えているか？
@@ -962,7 +962,7 @@ after that, Lee?","あのあとのことを
 Do you remember?
  
 Lee
-.",0.46153846153846156
+.",0.4615384615384616,0.83997744
 "500 times around...
 It's a promise! Yay!","500
 周…
@@ -976,10 +976,10 @@ Circumference ...
  
 It's a promise!
  
-Yay!",0.7272727272727273
+Yay!",0.7272727272727273,0.59219265
 Shoot!,"くそ！
 
-",Fuck!,0.3333333333333333
+",Fuck!,0.3333333333333333,0.4877634
 "<i>If I lose, I'll walk 500 times</i>
 <i>around the Leaf Village, on my hands!</i>","＜もし
  
@@ -989,7 +989,7 @@ Shoot!,"くそ！
 ","<If
  
 When lost
-Return on the village of the tree",0.20833333333333334
+Return on the village of the tree",0.20833333333333331,0.52194715
 <i>It's a promise!</i>,"500
 周やってやる
  
@@ -998,15 +998,15 @@ Return on the village of the tree",0.20833333333333334
 ","500
 Run around
  
-It's a promise!>",0.5
+It's a promise!>",0.5,0.5304744
 Hah! This is nothing.,"おっ
 ｡
 
 ","Oh
-.",0.14285714285714285
+.",0.14285714285714285,0.19782431
 Why are you doing this?,"なぜです？
 
-",why?,0.3333333333333333
+",why?,0.3333333333333333,0.37850863
 "Kakashi Sensei is not here.
 In fact, <i>no one</i> is watching.","誰一人として
 見張ってるわけではないのに
@@ -1014,11 +1014,11 @@ In fact, <i>no one</i> is watching.","誰一人として
 
 ","Who is one person
 Even though it does not seem to see
-.",0.16
+.",0.16,0.35139224
 "When a man stands cool with
 a Nice guy pose in front of others,","男が格好をつけた以上➡
 
-",More than a man wearing,0.11764705882352941
+",More than a man wearing,0.1176470588235294,0.310177
 What?,"ハハハ…
 ｡
 (
@@ -1029,7 +1029,7 @@ What?,"ハハハ…
 ","Hahaha ...
 .
 
-What?",0.4
+What?",0.4,0.555169
 "Good question, Lee.","ハハハ…
  
 よくぞ聞いたな
@@ -1042,13 +1042,13 @@ What?",0.4
 I'm sure
  
 Lee
-.",0.2
+.",0.2,0.771704
 "You really know how
 to get to the point.","約束は死んでも守るもんだ
 ｡
 
 ","The promise is also protected
-.",0.15384615384615385
+.",0.15384615384615385,0.045031153
 S-Self-rules...?,"(
 リー
 )
@@ -1058,18 +1058,18 @@ S-Self-rules...?,"(
 
 ","...
  
-What is it?",0.3333333333333333
+What is it?",0.3333333333333333,0.0918869
 "The point of these rules is that,
 when you're going after something,","いいか？
 このルールのポイントは➡
 
 ","Is it okay?
-The point of this rule is ➡",0.2
+The point of this rule is ➡",0.2,0.5736595
 It's about chaining yourself down.,"自分ルールだ
 ｡
 
 ","It is a rule
-.",0.2
+.",0.2,0.2284558
 """If I lose at rock, scissors, paper,
 I'll do 500 laps"" is the idea that","例えば
  ｢
@@ -1085,7 +1085,7 @@ If you lose to Janken
 500
 Surround
 ""
-➡",0.2
+➡",0.2,0.4301897
 "They hold power,
 the potential of the heavens.","天国の未来を呼び寄せる
 パワーが詰まっている
@@ -1093,7 +1093,7 @@ the potential of the heavens.","天国の未来を呼び寄せる
 
 ","Call the future of heaven
 Power is clogged
-.",0.2857142857142857
+.",0.2857142857142857,0.42977816
 "By being chained down
 to doing 500 laps,","つまり
  500
@@ -1103,14 +1103,14 @@ to doing 500 laps,","つまり
 ","in short
  500
 Be around
-By having a cock",0.125
+By having a cock",0.125,0.45740947
 it makes you get serious.,"かせを作るということだ
 ｡
 ➡
 
 ","It is to make a snail
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.2119176
 which are so trifling otherwise.,"あ…
  
 はい
@@ -1119,7 +1119,7 @@ which are so trifling otherwise.,"あ…
 ","Ah…
  
 Yes
-.",0.125
+.",0.125,0.16897044
 "And, even if you lose,
 walking around the village 500 times","(
 ガイ
@@ -1130,16 +1130,16 @@ walking around the village 500 times","(
 
 ","Moreover
  
-Even if it loses",0.13333333333333333
+Even if it loses",0.13333333333333333,0.31608236
 "gives you the benefit
 of extremely intense training.","真剣に取り組むことができる
 という利点が➡
 
 ","You can work seriously
-The advantage of",0.23076923076923078
+The advantage of",0.2307692307692308,0.53821737
 I see!,"なるほどです！
 
-",I see!,1.0
+",I see!,1.0,1.0
 "I'm going with you!
 I have my own ""self-rule"" which is...","(
 リー
@@ -1152,7 +1152,7 @@ I have my own ""self-rule"" which is...","(
 ","Me too
  
 I will do it
-My own rules are ...!",0.22727272727272727
+My own rules are ...!",0.2272727272727273,0.63540363
 "Hey! Hey! Don't push yourself, Lee.","(
 ガイ
 )
@@ -1168,7 +1168,7 @@ My own rules are ...!",0.22727272727272727
 Oi
 It is good
  
-Lee!",0.14285714285714285
+Lee!",0.14285714285714285,0.5580722
 "And if I keep trying,
 I'll be able to become a great Ninja!","きっと立派な忍者になれる
 ｣
@@ -1176,7 +1176,7 @@ I'll be able to become a great Ninja!","きっと立派な忍者になれる
 
 ","I will be a good ninja
 ""
-That's why!",0.23809523809523808
+That's why!",0.2380952380952381,0.79789245
 "If you can't keep up with me
 all the way to the end...","｢
 もし
@@ -1188,7 +1188,7 @@ all the way to the end...","｢
 if
  
 You are up to me
-If you can not follow",0.2631578947368421
+If you can not follow",0.2631578947368421,0.498541
 "That was the first time you told me about
 the ""self-rule,"" wasn't it?","あの時
  
@@ -1204,31 +1204,31 @@ first time
  
 Self-rules
 I told you
-.",0.2631578947368421
+.",0.2631578947368421,0.777145
 "You have the power to bring
 your own future in the heavens.","きっと天国の未来を呼び寄せる
 ｡
 
 ","Surely call the future of heaven
-.",0.1875
+.",0.1875,0.5995248
 And in the one in a thousand...,"万が一
  
 いや➡
 
 ","In number
  
-➡ ➡",0.1111111111111111
+➡ ➡",0.1111111111111111,0.36045873
 "no, one in a million chance
 that something goes wrong...","１兆分の１
 失敗するようなことがあったら➡
 
 ","1 trillion
-If there is something that fails",0.1111111111111111
+If there is something that fails",0.1111111111111111,0.42701167
 I will die with you!,"俺が一緒に死んでやる
 ｡
 
 ","I will die together
-.",0.375
+.",0.375,0.71474814
 "Ever since I met you,","(
 ガイ
 )
@@ -1236,7 +1236,7 @@ I will die with you!,"俺が一緒に死んでやる
 俺の忍道は➡
 
 ","From when you met you
-My noblisu is ➡",0.16666666666666666
+My noblisu is ➡",0.16666666666666666,0.4639337
 "my Way of Ninja has been to
 nurture you into a fine Ninja.","お前を立派な忍者に
 育てることだった
@@ -1244,7 +1244,7 @@ nurture you into a fine Ninja.","お前を立派な忍者に
 
 ","To a ninja that is good
 It was to grow
-.",0.21052631578947367
+.",0.21052631578947367,0.72715497
 "<i>Neither you nor I would be able</i>
 <i>to go on living if we lose the Way of Ninja.</i>","(
 ガイ
@@ -1253,17 +1253,17 @@ It was to grow
 失うようなことがあれば➡
 
 ","<Ninjo
-If there is something to lose",0.16
+If there is something to lose",0.16,0.2652798
 <i>What fools we are...</i>,"ハハハ…
 ｡
 ➡
 
 ","Hahaha ...
 .
-➡",0.08333333333333333
+➡",0.08333333333333333,0.22735348
 G-Guy Sensei!,"ガイ先生！
 
-",Guy teacher!,0.2
+",Guy teacher!,0.2,0.3265478
 "OK, let's go, Lee!","(
 ガイ
 )
@@ -1283,10 +1283,10 @@ let's go
  
 Lee!
 
-Oss!",0.5555555555555556
+Oss!",0.5555555555555556,0.68489194
 Lady Tsunade!,"あっ！
 
-",Ah!,0.25
+",Ah!,0.25,0.17063697
 "I am the ruler of the Village Hidden
 in the Leaves, the Fifth Hokage!","きょうから
  
@@ -1296,14 +1296,14 @@ in the Leaves, the Fifth Hokage!","きょうから
 ","from today
  
 I am
-Cure the village of the tree",0.29411764705882354
+Cure the village of the tree",0.29411764705882354,0.47105554
 <i>like the rainbow after the storm</i>,"♬
  
 明日へ向かう風を感じてた
 
 ","♬
  
-I felt the wind towards tomorrow",0.14285714285714285
+I felt the wind towards tomorrow",0.14285714285714285,0.4043785
 "<i>Uh...like a shooting star,</i>
 <i>we do go ahead.</i>","♬
  
@@ -1311,7 +1311,7 @@ I felt the wind towards tomorrow",0.14285714285714285
 
 ","♬
  
-Dreams like meteor",0.05555555555555555
+Dreams like meteor",0.05555555555555555,0.37620026
 Let's utilize the next mission.,"♬
  
 雨上がりの
@@ -1320,7 +1320,7 @@ Let's utilize the next mission.,"♬
 ","♬
  
 After the rain
-Like rainbow",0.08333333333333333
+Like rainbow",0.08333333333333333,0.13920155
 "- Our chance will be at the inn.
 - Roger that!","♬
  
@@ -1330,4 +1330,4 @@ Like rainbow",0.08333333333333333
 ","♬
  
 one
-I will be answered",0.125
+I will be answered",0.125,0.195649

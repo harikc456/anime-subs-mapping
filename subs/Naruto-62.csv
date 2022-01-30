@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.69996905
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.623353
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.28524128
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.7599902
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.53727317
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.30791083
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522577
 "Your destiny is to lose to me.
 For sure.","(
 ネジ
@@ -76,19 +76,19 @@ For sure.","(
 ｡
 
 ","You are the destiny to lose to me
-.",0.4166666666666667
+.",0.4166666666666667,0.8956852
 Your father was killed a long time ago,"お前が昔
 父ちゃん殺されちまって➡
 
 ","You old
-Father killed me",0.18181818181818182
+Father killed me",0.18181818181818185,0.7338184
 "But it's a huge mistake for you to think
 that has determined your entire destiny!","(ﾅﾙﾄ)
 そんなもん
 やってみねえと分かんねえだろ！
 
 ","Such a thing
-I'm going to do it and I'm sorry!",0.16
+I'm going to do it and I'm sorry!",0.16,0.18303984
 Proctor... it's over.,"ハァ
  
 ハァ…
@@ -97,21 +97,21 @@ Proctor... it's over.,"ハァ
 ","Han
  
 Hua ...
-.",0.25
+.",0.25,0.17278017
 Don't... run away.,"俺は逃げねえ
 ｡
 
 ","I'm running away
-.",0.2222222222222222
+.",0.2222222222222222,0.57050455
 That's my Ninja Way!,"それが俺の忍道だ
 ｡
 
 ","That's my noblis
-.",0.375
+.",0.375,0.3245092
 <i>words!</i>,"(ﾋﾅﾀ)
 ＜まっすぐ➡
 
-",<Straight,0.14285714285714285
+",<Straight,0.14285714285714285,0.33691484
 I think I've heard that line before...,"フフッ
  
 聞いたようなセリフだな
@@ -120,21 +120,21 @@ I think I've heard that line before...,"フフッ
 ","Fuf
  
 It is a line that I heard
-.",0.3076923076923077
+.",0.3076923076923077,0.647375
 You with your destiny stuff...,"じ…
  
 自分の➡
 
 ","character…
  
-Your own",0.125
+Your own",0.125,0.29855466
 I won't lose...,"そんな逃げ腰野郎には
 絶対負けねえ
 ｡
 
 ","Such a fleeed wolf
 Never lose
-.",0.09090909090909091
+.",0.09090909090909093,0.3270656
 "to a jerk with cold feet like you,
 no matter what!","お前みたいな
  
@@ -142,28 +142,28 @@ no matter what!","お前みたいな
 
 ","I want to be
  
-What is the destiny.",0.1
+What is the destiny.",0.1,0.17957738
 "A brat who knows nothing
 shouldn't lecture arrogantly!","(
 ネジ
 )
 何も知らぬガキが➡
 
-",Nothing unknown ガ,0.08333333333333333
+",Nothing unknown ガ,0.08333333333333333,0.19307932
 "People are born burdened with
 an inherent destiny that they cannot defy.","人は生まれながらに➡
 
-",People are born ➡➡,0.2
+",People are born ➡➡,0.2,0.49772674
 "<i>I wanted you...to be born</i>
 <i>into the head family...</i>","(ﾋｻﾞｼ)
 ＜お前を
 宗家に生んでやりたかったな＞
 
 ","<You
-I wanted to produce in the sect>",0.4117647058823529
+I wanted to produce in the sect>",0.4117647058823529,0.45212308
 You can't possibly understand,"お前などに分かるものか！
 
-",Do you understand for you!,0.25
+",Do you understand for you!,0.25,0.44758326
 Yeah...,"ハァ
  
 ハァ
@@ -176,12 +176,12 @@ Yeah...,"ハァ
 Han
  
 Hua ...
-.",0.2
+.",0.2,0.11648318
 I do understand it.,"分かるってばよ
 ｡
 
 ","I understand
-.",0.6
+.",0.6,0.7708857
 So... what of it?,"んで
  
 それが
@@ -192,13 +192,13 @@ So... what of it?,"んで
  
 that is
  
-what?",0.2222222222222222
+what?",0.2222222222222222,0.32253933
 <i>This brat!</i>,"(
 ネジ
 )
 こいつ…！
 
-",this guy…!,0.25
+",this guy…!,0.25,0.33993515
 It's not just you who's special!,"別に
  
 てめぇだけが
@@ -209,7 +209,7 @@ It's not just you who's special!,"別に
  
 Only only
 It's not a special
-.",0.3333333333333333
+.",0.3333333333333333,0.47753766
 "Hinata was also...
 suffering the same as you!","お前と同じように
 苦しんでたんだってばよ
@@ -217,14 +217,14 @@ suffering the same as you!","お前と同じように
 
 ","Like you
 I'm suffering
-.",0.14285714285714285
+.",0.14285714285714285,0.32015494
 trying desperately to change herself...,"宗家なのに認められない自分を
 必死に変えようとして
 ｡
 
 ","I can not recognize myself though it is a sect
 Trying to change desperately
-.",0.23529411764705882
+.",0.2352941176470588,0.36943132
 "She fought you while coughing
 up blood with that in mind!","血ヘド吐きながら
 お前と戦ったんだ
@@ -232,11 +232,11 @@ up blood with that in mind!","血ヘド吐きながら
 
 ","While hemorial
 I fought you
-.",0.2
+.",0.2,0.48614258
 "The branch family that
 protects the head family...","宗家を守る分家が➡
 
-",The family who protects the sectors,0.3333333333333333
+",The family who protects the sectors,0.3333333333333333,0.59392285
 "Doing all that to Hinata
 just because it's an exam.","お前だって
  
@@ -246,7 +246,7 @@ just because it's an exam.","お前だって
 ","You are
  
 That's it
-.",0.2857142857142857
+.",0.2857142857142857,0.16036886
 <i>Vitality has returned to Hinata's face!</i>,"(
 キバ
 )
@@ -256,7 +256,7 @@ That's it
 
 ","""I returned to Hinata's face
 .
-➡",0.4
+➡",0.4,0.7021827
 She'll be okay.,"(
 キバ
 )
@@ -264,7 +264,7 @@ She'll be okay.,"(
 ｡
 
 ","Ah
-.",0.16666666666666666
+.",0.16666666666666666,0.12958017
 Now she needs bed rest.,"(ｶﾌﾞﾄ)
 もう大丈夫
 ｡
@@ -272,13 +272,13 @@ Now she needs bed rest.,"(ｶﾌﾞﾄ)
 
 ","It's all right now
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.2550614
 "How are you, who can't use Chakra
 for awhile, planning to fight?","当分チャクラの使えないお前が
 どう戦うつもりだ？
 
 ","You can not use chakras
-How are you going to fight?",0.3684210526315789
+How are you going to fight?",0.3684210526315789,0.88679427
 "At the end of the day,","お前の
 64
 の点穴は
@@ -289,7 +289,7 @@ How are you going to fight?",0.3684210526315789
 64
 The point hole of
 It is already closed
-.",0.13333333333333333
+.",0.13333333333333333,0.15345253
 "you and Miss Hinata have
 the same destiny!","結局のところ
  
@@ -301,7 +301,7 @@ the same destiny!","結局のところ
  
 Hopefully
 It is the same fate as Hinata
-.",0.17647058823529413
+.",0.17647058823529413,0.7324395
 Shut up!,"うるせぇ！
  
 白眼で
@@ -310,7 +310,7 @@ Shut up!,"うるせぇ！
 ","shut up!
  
 With a ninocular eye
-Please decide on people",0.2727272727272727
+Please decide on people",0.2727272727272727,0.4038335
 "Then... show me whether what
 you're saying is true or not.","なら
  
@@ -320,19 +320,19 @@ you're saying is true or not.","なら
 ","If
  
 What you are saying
-Whether it is correct",0.2777777777777778
+Whether it is correct",0.2777777777777778,0.5395179
 "I will! I'll defeat you no matter
 what and prove that to you!","分かったようなこと
 言いやがって！
 
 ","What I understood
-Let's say!",0.17647058823529413
+Let's say!",0.17647058823529413,0.2050411
 "<i>It feels like when I used up</i>
 <i>my Chakra in the training.</i>","修業でチャクラを
 使い切った時みたいな感じだ》
 
 ","Clakra in training
-It looks like it's like when you use it",0.19047619047619047
+It looks like it's like when you use it",0.19047619047619047,0.52221036
 <i>You possess two kinds of Chakra...</i>,"(
 自来也
 )
@@ -344,7 +344,7 @@ It looks like it's like when you use it",0.19047619047619047
 ","<Your
 Two kind of chakra
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.89305735
 "<i>You must extract and utilize, at any time,</i>","いつでも引き出し
  
 それを
@@ -353,7 +353,7 @@ Two kind of chakra
 ","At any time
  
 It
-It is not necessary to use>",0.21052631578947367
+It is not necessary to use>",0.21052631578947367,0.49284136
 "<i>the other huge Chakra that</i>
 <i>has rested inside you from the start...</i>","お前の中に初めから眠ってる
 どデカい
@@ -363,7 +363,7 @@ It is not necessary to use>",0.21052631578947367
 ","I'm sleeping from the beginning in you
 Decadency
  
-The other chakra",0.2857142857142857
+The other chakra",0.2857142857142857,0.72572076
 "<i>That's it. The Nine Tailed Fox Chakra...</i>
 <i>I'll use that...</i>","《そうだ
  
@@ -373,11 +373,11 @@ The other chakra",0.2857142857142857
 ","""That's it
  
 Kozo's Chakra
-That's ... """,0.2777777777777778
+That's ... """,0.2777777777777778,0.47999546
 "Stinking fox...
 Help me out!","力を貸しやがれ！》
 
-","Lend power!""",0.1
+","Lend power!""",0.1,0.116890624
 This is as far as the talking goes.,"(
 ネジ
 )
@@ -391,7 +391,7 @@ This is as far as the talking goes.,"(
  
 Here
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.21742985
 "Proctor... I'm going to fight with
 the intent to kill him!","俺は
 こいつを殺すつもりでやる
@@ -401,26 +401,26 @@ the intent to kill him!","俺は
 ","I am
 I will do my best to kill this
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.35278842
 "If you're going to stop me,
 please feel free.","止めるなら自由にやってくれ
 ｡
 
 ","If you stop, do it freely
-.",0.3333333333333333
+.",0.3333333333333333,0.56100047
 Jeez.,"フン
 ｡
 
 ","Hung
-.",0.3333333333333333
+.",0.3333333333333333,0.16834892
 "<i>This time, I really can't lose!</i>","《今回ばかりは
 絶対負けられねえ！》
 
 ","""This time
-I can not lose it!""",0.29411764705882354
+I can not lose it!""",0.29411764705882354,0.60799825
 <i>I'll win no matter what!</i>,"＜絶対勝つ！＞
 
-",<Absolutely win!>,0.36363636363636365
+",<Absolutely win!>,0.3636363636363637,0.71864057
 It's futile... I pressed the Chakra Points...,"無理だ
  
 点穴を突いたんだぞ
@@ -429,7 +429,7 @@ It's futile... I pressed the Chakra Points...,"無理だ
 ","It impossible
  
 I hit a point hole
-.",0.13333333333333333
+.",0.13333333333333333,0.4411227
 "<i>A failure beats down</i>
 <i>a genius with effort...</i>","(
 リー
@@ -442,7 +442,7 @@ I hit a point hole
 ","<Falling is a genius
 Cause with the power of the effort
 .
-➡",0.25
+➡",0.25,0.62206876
 <i>His opponent might be me...</i>,"彼の相手は
 僕かもしれませんがね
 ｡
@@ -451,7 +451,7 @@ Cause with the power of the effort
 ","His opponent
 It may be me
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.84305525
 "Why do you try to go against
 your destiny that much?","どうして
  
@@ -461,21 +461,21 @@ your destiny that much?","どうして
 ","why
  
 There
-Do you want to go against your own destiny?",0.6
+Do you want to go against your own destiny?",0.6,0.85881853
 Because I was called...,"言われたからだ！
 
-",Because it was said!,0.25
+",Because it was said!,0.25,0.5289644
 a failure!,"くっ…
  
 ん…！
 
 ","...
  
-Hmm…!",0.2
+Hmm…!",0.2,0.21240085
 "<i>H-He...!</i>
 <i>What in the world...?!</i>","どういうことだ？》
 
-","What does it mean?""",0.125
+","What does it mean?""",0.125,0.15713245
 <i>W-What is he...?!</i>,"(
 ネジ
 )
@@ -485,7 +485,7 @@ Hmm…!",0.2
 
 ","""...
  
-Who is it?""",0.21428571428571427
+Who is it?""",0.21428571428571427,0.33952343
 <i>It can't be... This Chakra!</i>,"(ﾋｱｼ)
 《まさか
  
@@ -493,7 +493,7 @@ Who is it?""",0.21428571428571427
 
 ","""Masaka
  
-This chakra ...",0.21428571428571427
+This chakra ...",0.21428571428571427,0.64942217
 T-That's... impossible!,"(ﾃﾝﾃﾝ)
 そんな…
  
@@ -503,7 +503,7 @@ T-That's... impossible!,"(ﾃﾝﾃﾝ)
 ","Such ...
  
 Impossible
-.",0.2857142857142857
+.",0.2857142857142857,0.5856456
 "<i>This Chakra...</i>
 <i>It's the Nine Tailed Fox's, no doubt...</i>","(
 猿飛
@@ -520,69 +520,69 @@ Impossible
 no doubt
 Nine Tails…
 .
-➡",0.25
+➡",0.25,0.66796577
 Here I go!,"行くぞ！
 
-",let's go!,0.3333333333333333
+",let's go!,0.3333333333333333,0.37177444
 "<i>What's that?!</i>
 <i>Is that even Chakra?!</i>","あれがチャクラなのか？》
 
-","Is that a chakra?""",0.2857142857142857
+","Is that a chakra?""",0.2857142857142857,0.79909897
 <i>I feel it!</i>,"《感じる！》
 
-","""feel!""",0.2222222222222222
+","""feel!""",0.2222222222222222,0.4498334
 Rotation!,"(
 ネジ
 )
 回天！
 
-",Time!,0.3333333333333333
+",Time!,0.3333333333333333,0.341463
 What?!,"何!?
 
-",what!?,1.0
+",what!?,1.0,0.8981639
 You!,"お前…➡
 
-",You ... ➡,0.25
+",You ... ➡,0.25,0.5740033
 "You're confident in close combat, right?!","接近戦には自信があんだろ？
 
-",Are you confident in the approach match?,0.2857142857142857
+",Are you confident in the approach match?,0.2857142857142857,0.41983005
 "<i>Those who become the Hokage</i>
 <i>are born with destiny.</i>","もっと現実を見ろ
 火影になる者は➡
 
 ","See more reality
-Those who become fire shadow are ➡",0.21052631578947367
+Those who become fire shadow are ➡",0.21052631578947367,0.33962306
 "<i>It's not something you become</i>
 <i>by trying to become it.</i>","なろうとして
 なれるものではなく➡
 
 ","As if
-It is not something that can be",0.15
+It is not something that can be",0.15,0.31371662
 <i>that can't be gone against.</i>,"逆らえない流れの中で
 生きるしかない＞
 
 ","In a flow that is not against
-I can only live>",0.15789473684210525
+I can only live>",0.15789473684210525,0.44133827
 "I don't know what the
 Hyuga destiny of hatred is!","日向の憎しみの運命だか何だか
 知んねえがな➡
 
 ","Is it the fate of Hyang Hyang?
-I have an incentive",0.21052631578947367
+I have an incentive",0.21052631578947367,0.3949465
 "But if you're going to say it's futile,
 you don't have to do anything","お前が無理だっつうなら
 もう何もしなくていい！
 
 ","If you are impossible
-You don't have to do anything anymore!",0.3684210526315789
+You don't have to do anything anymore!",0.3684210526315789,0.6277036
 After I become the Hokage...,"俺が火影になってから…
 ｡
 
 ","After I became fire ...
-.",0.3333333333333333
+.",0.3333333333333333,0.51162803
 I'll change Hyuga!,"日向を変えてやるよ！
 
-",I will change the sun!,0.375
+",I will change the sun!,0.375,0.49045262
 <i>What Chakra...</i>,"(ｹﾞﾝﾏ)
 《何てチャクラだ
 ｡
@@ -590,17 +590,17 @@ I'll change Hyuga!,"日向を変えてやるよ！
 
 ","""What is Chakra
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.82996964
 <i>The Hyuga kid is probably...</i>,"これじゃ日向の小僧…》
 
-","This is a kid in Japan ... """,0.2
+","This is a kid in Japan ... """,0.2,0.43379793
 Say! Which one's Naruto?!,"ねぇ
  
 どっちがナルト？
 
 ","Hey
  
-Which nard?",0.2222222222222222
+Which nard?",0.2222222222222222,0.39752567
 "I don't know, either!","(
 いの
 )
@@ -610,12 +610,12 @@ Which nard?",0.2222222222222222
 
 ","such a thing
 I do not know
-.",0.25
+.",0.25,0.34154272
 "<i>Neji's Rotation is a technique</i>
 <i>where the body rotates,</i>","(ﾃﾝﾃﾝ)
 《ネジの回天は体を回転し➡
 
-","""The screw of the screw rotates the body ➡➡",0.15789473684210525
+","""The screw of the screw rotates the body ➡➡",0.15789473684210525,0.4669617
 "<i>and dodges and</i>
 <i>repels the opponent's Chakra!</i>","相手のチャクラをいなして
 はじく技
@@ -625,7 +625,7 @@ I do not know
 ","Do not know the opponent's chakra
 Brillion
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.6592936
 "<i>It looks like there was</i>
 <i>more damage done to Naruto</i>","ダメージが大きかったみたいね
 ｡
@@ -633,7 +633,7 @@ Brillion
 
 ","It seems that the damage was big
 .
-➡",0.15
+➡",0.15,0.4672819
 <i>There's no Genin that can beat Neji...</i>,"ネジに勝てる下忍なんて
 いないのよ
 ｡
@@ -642,7 +642,7 @@ Brillion
 ","Shimobu who can beat the screw
 Not
 .
-➡",0.1
+➡",0.1,0.4050488
 "<i>But Naruto, you're incredible...</i>","でも
  
 ナルト君
@@ -657,12 +657,12 @@ Naruto
  
 You are amazing
 .
-➡",0.2
+➡",0.2,0.8873284
 Now this is really the en...,"これで本当に終わ…
 ｡
 
 ","This is really end ...
-.",0.4444444444444444
+.",0.4444444444444444,0.3839222
 My body...,"ぐっ…
  
 体が…
@@ -671,7 +671,7 @@ My body...,"ぐっ…
 ","...
  
 Body is…
-.",0.4
+.",0.4,0.60537994
 "<i>So he left a Shadow clone in the hole</i>
 <i>and spotted a chance to win, huh...</i>","(ｹﾞﾝﾏ)
 《影分身を穴に残して
@@ -682,10 +682,10 @@ Body is…
 ","""Leave the shadow body in the hole
 Did you find a winner
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.6946565
 <i>The power of believing in oneself.</i>,"自分を信じる力➡
 
-",Power to believe in yourself,0.15384615384615385
+",Power to believe in yourself,0.15384615384615385,0.8272016
 "<i>That becomes the power</i>
 <i>to change destiny...</i>","それが運命を変える力となる
 ｡
@@ -693,7 +693,7 @@ Did you find a winner
 
 ","It becomes a power to change destiny
 .
-➡",0.3125
+➡",0.3125,0.84037673
 "<i>He knows this...</i>
 <i>And he's a natural to boot.</i>","こいつは
  
@@ -703,21 +703,21 @@ Did you find a winner
 ","This guy
  
 I know it
-Moreover, ""natural""",0.14285714285714285
+Moreover, ""natural""",0.14285714285714285,0.37513864
 "The Ninjutsu that you're good at, huh?","次を考えて動くか
 ｡
 ➡
 
 ","Do you think about next?
 .
-➡",0.125
+➡",0.125,0.09653565
 I was careless...,"お前の得意忍術か
 うかつだった…
 ｡
 
 ","Are you your favorite Ninjo?
 Was it ...
-.",0.16666666666666666
+.",0.16666666666666666,0.2545256
 "I've... failed the graduation
 exam three times...","俺ってば
  
@@ -729,7 +729,7 @@ exam three times...","俺ってば
  
 In the graduation test of Academy
 I'm falling three times
-.",0.29411764705882354
+.",0.29411764705882354,0.6723615
 "the Ninjutsu tests that appeared
 on the graduation exam were always...","運悪く
  
@@ -739,7 +739,7 @@ on the graduation exam were always...","運悪く
 ","Lucky
  
 Get out in graduation exam
-Ninjutsu test is always ... ➡",0.2777777777777778
+Ninjutsu test is always ... ➡",0.2777777777777778,0.786972
 "Clone Jutsu was the Ninjutsu...
 I stunk at.","俺のいちばん苦手な
 忍術だったんだ
@@ -747,7 +747,7 @@ I stunk at.","俺のいちばん苦手な
 
 ","I am not good at me
 It was ninjutsu
-.",0.3333333333333333
+.",0.3333333333333333,0.6443997
 "Because unlike me...
 you're not a failure.","お前は
  
@@ -755,7 +755,7 @@ you're not a failure.","お前は
 
 ","You are
  
-Unlike me",0.2727272727272727
+Unlike me",0.2727272727272727,0.56282216
 Winner of this match is Naruto Uzumaki.,"勝者
  
 うずまきナルト
@@ -764,7 +764,7 @@ Winner of this match is Naruto Uzumaki.,"勝者
 ","winner
  
 Uzumaki Naruto
-.",0.5
+.",0.5,0.91320187
 Yahoo! I've won! I've won!,"♬
  
 へたれ闘牛士
@@ -777,7 +777,7 @@ Yahoo! I've won! I've won!,"♬
 Battle beef
 Santez
  
-Orire!",0.1
+Orire!",0.1,0.16706468
 Hey Naruto...,"♬
  
 北京ダック
@@ -792,7 +792,7 @@ Peking duck
  Wire action
 Rushed chain in char
 ·
-Lee",0.0
+Lee",0.0,0.048280656
 "What's up with that kid,
 making Sakura worry so much?","♬
  
@@ -804,4 +804,4 @@ making Sakura worry so much?","♬
  
 Good luck
  
-SO standing up",0.11764705882352941
+SO standing up",0.1176470588235294,0.026302714

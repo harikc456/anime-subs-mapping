@@ -1,47 +1,47 @@
-en_text,jp_text,google_translated,score
-"Damn, we're gonna crash!",ダメだ…！落ちる！,It is no good ...!drop down!,0.06666666666666667
-That's right...,《そっか…》,"""I see…""",0.0
-What is this?,なんだよ これ!?,What is it?,0.6
-I shouldn't be reading this now!,おっと！今 読むもんじゃねえ！,husband!Don't read it now!,0.25
-"I knew that NASA astronauts wrote wills, before they head into space.",宇宙に行く前に遺書を➡,Before going to the universe,0.05555555555555555
-There.,⦅よっ⦆,⦅⦆,0.0
-What should I put?,⦅どうしようかなぁ,⦅I wonder what to do,0.1111111111111111
-"Man, I just walked in, and you're already asking for stuff?",なんだよ いきなりお土産かよ｡,What is a souvenir.,0.0
-That can wait until after you've given me my souvenirs.,そんなの お土産の後よ！,After such souvenirs!,0.14285714285714285
-"Oh, Mutta. You're back?",お～ムッタ｡帰ったか｡,Oh Mutta. Was it home?,0.36363636363636365
-It's like we're up north!,まるで北の国にいるみたい！,It looks like in the north country!,0.3333333333333333
-These two don't have any worries.,《ノンキな夫婦だぜ》,"""It's a Non-like couple""",0.0
-Hibito's already written a will!,日々人は遺書まで書いてんだぞ｡,Daily people are writing to the out.,0.0
-Well? What did it say?,で なんて書いてあった？,Was it written in?,0.2222222222222222
-I didn't read it! What are you saying?,読んでね～よ！何いってんだよ｡,Read you!What is it?,0.5
-Calligraphy,死んでから恥かかないように➡,Do not be ashamed after dead,0.0
-"It says ""hairball"".",｢毛玉｣だって！,"""Hairball""!",0.42857142857142855
-Buy a snack on the way home!,なんか お菓子 買ってきてね～！,I bought something sweets!,0.08333333333333333
-"How are you? oh, it's hibito?",おう ヒビトか｡➡,Hybito?,0.1
-How's it going down there?,例のうちの兄貴が…｡,My brother of the example is ....,0.0
-always gives me a boost.,私は何度も救われてきた＞,I have been saved many times>,0.0
-Shif! dis is shif!,かさな！こえ か～さ～なっ｡,I'm sorry!Koi ~ ~.,0.1
-A little girl who can't say fish yet.,《｢さかな｣がまだ言えない,"""Sakana"" can not be said yet",0.058823529411764705
-You know what to say.,ほら風佳 ｢いただきます｣｡,"Hoh Keika ""I will.""",0.08333333333333333
-I can't even do it...,お…できないよ 俺｡,Oh ... I can not do it.,0.36363636363636365
-Shif. it's fish...,さ･か･なっていうんだよ｡,"Well, I say.",0.1
-"Have a safe trip, Daddy!",パパ 行ってらっしゃ～い！,Go to daddy!,0.2222222222222222
-is much too long.,長いんだろうな…｡,It will be long ....,0.2222222222222222
-Nanba and Makabe have arrived!,南波君と真壁君の到着です！,It is Arrival of Southwood and Makabe!,0.2727272727272727
-Why does she want to become an astronaut?,なりたいんだろ？》,"Do you want to be?""",0.23076923076923078
-You know! From Hibito...,ほ～ら 日々人君の…｡,Healthy day is your day ....,0.09090909090909091
-I have them both here.,ちゃんと ２人分あります｡,There are 2 people properly.,0.09090909090909091
-Except for failing the exam.,試験には落ちちゃったけど｡,I fell in the exam.,0.3333333333333333
-A-Actually...,《ほ ほんとは…》,"""Ho ...""",0.2
-"Man, you're no help.",⦅しょうがねえなあ…⦆,⦅が が ⦅⦅...⦆,0.0
-"No, that was just...",いや あれは…｡,There is no case ....,0.2
-But the landscape isn't.,でも 景色はデカイじゃん｡,But the scenery is big.,0.5
-"Oh, really?",へぇ～ そうなんだ！,Hey ~ That's right!,0.0
-"the same point in the sky, from different places.",同じ夜空の一点を眺めていた》,"I was looking at one point of the same night sky """,0.2222222222222222
-That's so romantic...,《ロマンチックすぎる～》,"""Romantic too much ~""",0.1
-Please tell me.,そうねえ…あのね｡,That's right ... that.,0.125
-"Well, good luck on the third exam!",≪じゃあ ３次試験も頑張って！≫,"«Well, the third order exam also works hard!»",0.4
-"Good luck, everyone.",お互いに 頑張りましょうね｡,Let's work hard with each other.,0.08333333333333333
-Nanba Hibito's older brother...,南波日々人さんのお兄さん｡,Southwood's older brother.,0.375
-"You, too.",よろしく｡,nice to meet you.,0.2857142857142857
-"She didn't tell me the name of the disease,",⦅詳しい病名は 聞いてないけど➡,⦅⦅I have not heard the name of the disease,0.2857142857142857
+en_text,jp_text,google_translated,score,semantic_score
+"Damn, we're gonna crash!",ダメだ…！落ちる！,It is no good ...!drop down!,0.06666666666666668,0.22030213
+That's right...,《そっか…》,"""I see…""",0.0,0.073162645
+What is this?,なんだよ これ!?,What is it?,0.6,0.7940803
+I shouldn't be reading this now!,おっと！今 読むもんじゃねえ！,husband!Don't read it now!,0.25,0.62358135
+"I knew that NASA astronauts wrote wills, before they head into space.",宇宙に行く前に遺書を➡,Before going to the universe,0.05555555555555555,0.40870136
+There.,⦅よっ⦆,⦅⦆,0.0,0.14238527
+What should I put?,⦅どうしようかなぁ,⦅I wonder what to do,0.1111111111111111,0.093745455
+"Man, I just walked in, and you're already asking for stuff?",なんだよ いきなりお土産かよ｡,What is a souvenir.,0.0,0.18212211
+That can wait until after you've given me my souvenirs.,そんなの お土産の後よ！,After such souvenirs!,0.14285714285714285,0.7175578
+"Oh, Mutta. You're back?",お～ムッタ｡帰ったか｡,Oh Mutta. Was it home?,0.3636363636363637,0.658961
+It's like we're up north!,まるで北の国にいるみたい！,It looks like in the north country!,0.3333333333333333,0.58455086
+These two don't have any worries.,《ノンキな夫婦だぜ》,"""It's a Non-like couple""",0.0,0.20740432
+Hibito's already written a will!,日々人は遺書まで書いてんだぞ｡,Daily people are writing to the out.,0.0,0.23002747
+Well? What did it say?,で なんて書いてあった？,Was it written in?,0.2222222222222222,0.30310524
+I didn't read it! What are you saying?,読んでね～よ！何いってんだよ｡,Read you!What is it?,0.5,0.5156219
+Calligraphy,死んでから恥かかないように➡,Do not be ashamed after dead,0.0,0.07519898
+"It says ""hairball"".",｢毛玉｣だって！,"""Hairball""!",0.42857142857142855,0.81391984
+Buy a snack on the way home!,なんか お菓子 買ってきてね～！,I bought something sweets!,0.08333333333333333,0.48250547
+"How are you? oh, it's hibito?",おう ヒビトか｡➡,Hybito?,0.1,0.6489588
+How's it going down there?,例のうちの兄貴が…｡,My brother of the example is ....,0.0,-0.008450715
+always gives me a boost.,私は何度も救われてきた＞,I have been saved many times>,0.0,0.17198464
+Shif! dis is shif!,かさな！こえ か～さ～なっ｡,I'm sorry!Koi ~ ~.,0.1,0.22647265
+A little girl who can't say fish yet.,《｢さかな｣がまだ言えない,"""Sakana"" can not be said yet",0.05882352941176471,0.16554926
+You know what to say.,ほら風佳 ｢いただきます｣｡,"Hoh Keika ""I will.""",0.08333333333333333,0.22367191
+I can't even do it...,お…できないよ 俺｡,Oh ... I can not do it.,0.3636363636363637,0.7116099
+Shif. it's fish...,さ･か･なっていうんだよ｡,"Well, I say.",0.1,0.21658283
+"Have a safe trip, Daddy!",パパ 行ってらっしゃ～い！,Go to daddy!,0.2222222222222222,0.695251
+is much too long.,長いんだろうな…｡,It will be long ....,0.2222222222222222,0.61468863
+Nanba and Makabe have arrived!,南波君と真壁君の到着です！,It is Arrival of Southwood and Makabe!,0.2727272727272727,0.5790777
+Why does she want to become an astronaut?,なりたいんだろ？》,"Do you want to be?""",0.2307692307692308,0.3737558
+You know! From Hibito...,ほ～ら 日々人君の…｡,Healthy day is your day ....,0.09090909090909093,0.22393967
+I have them both here.,ちゃんと ２人分あります｡,There are 2 people properly.,0.09090909090909093,0.11189441
+Except for failing the exam.,試験には落ちちゃったけど｡,I fell in the exam.,0.3333333333333333,0.6026381
+A-Actually...,《ほ ほんとは…》,"""Ho ...""",0.2,0.223434
+"Man, you're no help.",⦅しょうがねえなあ…⦆,⦅が が ⦅⦅...⦆,0.0,0.029723266
+"No, that was just...",いや あれは…｡,There is no case ....,0.2,0.111939065
+But the landscape isn't.,でも 景色はデカイじゃん｡,But the scenery is big.,0.5,0.655625
+"Oh, really?",へぇ～ そうなんだ！,Hey ~ That's right!,0.0,0.19750226
+"the same point in the sky, from different places.",同じ夜空の一点を眺めていた》,"I was looking at one point of the same night sky """,0.2222222222222222,0.63129956
+That's so romantic...,《ロマンチックすぎる～》,"""Romantic too much ~""",0.1,0.5299503
+Please tell me.,そうねえ…あのね｡,That's right ... that.,0.125,0.17900543
+"Well, good luck on the third exam!",≪じゃあ ３次試験も頑張って！≫,"«Well, the third order exam also works hard!»",0.4,0.5995307
+"Good luck, everyone.",お互いに 頑張りましょうね｡,Let's work hard with each other.,0.08333333333333333,0.21114393
+Nanba Hibito's older brother...,南波日々人さんのお兄さん｡,Southwood's older brother.,0.375,0.34794873
+"You, too.",よろしく｡,nice to meet you.,0.2857142857142857,0.3195819
+"She didn't tell me the name of the disease,",⦅詳しい病名は 聞いてないけど➡,⦅⦅I have not heard the name of the disease,0.2857142857142857,0.5743453

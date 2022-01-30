@@ -1,48 +1,48 @@
-en_text,jp_text,google_translated,score
-This is the advisor assigned to Team E.,＜私たち Ｅ班のサポート役は…＞,<We are the support of our E-班 ...>,0.05555555555555555
-That's right...,そうです｡,that's right.,0.6
-#57 An Engineer's Switch this is luniere 2.,こちら ルｰニエ２号,Luniie No. 2,0.15384615384615385
-"I didn't warn you guys, but I expected this.",言ってなかったけど 想定内！,"I did not say, but not in the case!",0.23529411764705882
-And there it goes.,そして こんな感じで,And in this way,0.125
-Straight to the CanSat.,キャンサット まっしぐら～！,Cancers Mass!,0.0
-I wasn't,いや こいつは…｡,"No, this guy ....",0.0
-expecting this.,もう一回 やってみよう｡,Let's do it once more.,0.1111111111111111
-it stops.,ダメになるみたいだね｡,It looks like it will be useless.,0.25
-Hey...,お～い アホかね 君らは｡,Oh ~ Aho Kaneko You are.,0.0
-Cons? are there any cons?,何か弱点あるかな｡,I wonder if there is something weak.,0.08333333333333333
-It sounded perfect to me.,完ぺきだと思ったけど…｡,I thought it was perfect ....,0.3
-An obstacle in the sky...,《空の障害っつったら…鳥か？》,"""If you have an empty disorder ...? Bird?""",0.13333333333333333
-Is wind an issue?,風…ですか？,Wind ...?,0.3333333333333333
-Exactly!,その通り！風だ｡,that's right!It is a wind.,0.1
-Stick to the ground.,地を這って行くこったな｡,I'm going to go around the ground.,0.4
-That's the first useful thing he's said.,《初めて まともなコメントを…》,"""First-time decent comments ...""",0.0
-The other teams are probably ahead of us with their parachutes and rovers.,パラシｭートもローバーも,Parachute and Rover,0.0625
-and programming a system would be hard in the time we have left.,作るだけでも難しいぞ｡,It is difficult to make it just.,0.05
-so it'd be hard to make the tires bigger.,それ以上のタイヤは 厳しいね｡,More tires are tough.,0.14285714285714285
-"Right, that's the only option.",《そうだ｡ほかには ない》,"""Yes. Other than nothing""",0.07142857142857142
-but the additional parts might put us over the weight limit.,重量も気になるなぁ｡,Don't worry about the weight.,0.2
-Ah! I know!,あっ そうだ！,It looks like!,0.14285714285714285
-We can make the tires out of sponge!,タイヤを スポンジで作ろう｡,Let's make tires with a sponge.,0.21428571428571427
-What? out of sponge?,スポンジ…ですか？,Sponge ...?,0.3333333333333333
-"And it's a light, cheap material that's easy to shape.",安いし 加工もしやすい｡,Cheap and easy to process.,0.35714285714285715
-He's quick and precise...,《スゲー｡早いのに丁寧》,"""Sgee. Courishes early""",0.0
-No idea what the practice is elsewhere.,他の国は どうかしらね～けどな｡,Other countries don't see it.,0.07142857142857142
-R-Right.,あっはい｡,Yes.,0.3333333333333333
-His life is in my hands...,あっお願いします｡,Thank you.,0.0
-"If you crash, I'm sorry.",落ちたら…ごめんなさい｡,I'm sorry if it falls ...,0.36363636363636365
-It was the power of love.,要するにパラシュートってのは…｡,"In short, the parachute is ....",0.15384615384615385
-"Oops, I screwed up...",おっと うっかりだぜ｡➡,Opportunately it is.,0.0
-"Oh, that's perfect!",おお！完ぺきじゃん！,Oh!Perfect!,0.5
-Let's do a test run to see if it works.,動作確認モードで試運転します｡,Commissioning in operation confirmation mode.,0.058823529411764705
-Huh? Is there an error somewhere?,あれ？なんかミスっちゃったかな｡,that?Something was wrong.,0.08333333333333333
-It won't stop beeping.,ピコピコうるせ～な｡,Pico Pico Uruma ~.,0.1111111111111111
-"Yeah, we don't need the beeping.",そうだな いらね～な ピコピコは｡,That's right ~ Nana Pico Pico is.,0.0625
-"The spacecraft Luniere 2, with Japanese astronaut Azuma Takio, has reached lunar orbit.",吾妻滝生さんらの乗る➡,Hideo Azuma ride ➡ ➡,0.05555555555555555
-Pico invited you?,ピコが…君をですか？,Pico ... Are you you?,0.5
-"For some reason, I was the only one.",ええ なぜだか僕だけ｡,Yeah why I'm alone.,0.14285714285714285
-"Yes, that's right.",えっ まあ そうですけど｡,"Well, that's right.",0.7142857142857143
-I also made a promise to drink with Pico tonight.,ピコと飲む約束をしています｡,I have a promise to drink Pico.,0.5833333333333334
-Life is short.,人生は短いんです｡,Life is short.,1.0
-I'll finally be free.,ようやく俺は解放される》,Finally I will be released,0.375
-I'm going to speed up.,スピードを少し上げますよ｡,I will raise the speed a little.,0.25
-An earnest failure still has meaning.,＜本気の失敗には 価値がある＞,<Value for serious failure>,0.08333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+This is the advisor assigned to Team E.,＜私たち Ｅ班のサポート役は…＞,<We are the support of our E-班 ...>,0.05555555555555555,0.36446807
+That's right...,そうです｡,that's right.,0.6,0.83020467
+#57 An Engineer's Switch this is luniere 2.,こちら ルｰニエ２号,Luniie No. 2,0.15384615384615385,0.3741941
+"I didn't warn you guys, but I expected this.",言ってなかったけど 想定内！,"I did not say, but not in the case!",0.2352941176470588,0.20786637
+And there it goes.,そして こんな感じで,And in this way,0.125,0.36182246
+Straight to the CanSat.,キャンサット まっしぐら～！,Cancers Mass!,0.0,0.1420464
+I wasn't,いや こいつは…｡,"No, this guy ....",0.0,0.17197865
+expecting this.,もう一回 やってみよう｡,Let's do it once more.,0.1111111111111111,0.23048422
+it stops.,ダメになるみたいだね｡,It looks like it will be useless.,0.25,0.1563383
+Hey...,お～い アホかね 君らは｡,Oh ~ Aho Kaneko You are.,0.0,0.25066775
+Cons? are there any cons?,何か弱点あるかな｡,I wonder if there is something weak.,0.08333333333333333,0.15552424
+It sounded perfect to me.,完ぺきだと思ったけど…｡,I thought it was perfect ....,0.3,0.5602153
+An obstacle in the sky...,《空の障害っつったら…鳥か？》,"""If you have an empty disorder ...? Bird?""",0.13333333333333333,0.24893579
+Is wind an issue?,風…ですか？,Wind ...?,0.3333333333333333,0.74345315
+Exactly!,その通り！風だ｡,that's right!It is a wind.,0.1,0.2675087
+Stick to the ground.,地を這って行くこったな｡,I'm going to go around the ground.,0.4,0.6220537
+That's the first useful thing he's said.,《初めて まともなコメントを…》,"""First-time decent comments ...""",0.0,0.3951676
+The other teams are probably ahead of us with their parachutes and rovers.,パラシｭートもローバーも,Parachute and Rover,0.0625,0.5563322
+and programming a system would be hard in the time we have left.,作るだけでも難しいぞ｡,It is difficult to make it just.,0.05,0.3197946
+so it'd be hard to make the tires bigger.,それ以上のタイヤは 厳しいね｡,More tires are tough.,0.14285714285714285,0.7392674
+"Right, that's the only option.",《そうだ｡ほかには ない》,"""Yes. Other than nothing""",0.07142857142857142,0.15345854
+but the additional parts might put us over the weight limit.,重量も気になるなぁ｡,Don't worry about the weight.,0.2,0.3741129
+Ah! I know!,あっ そうだ！,It looks like!,0.14285714285714285,0.3209548
+We can make the tires out of sponge!,タイヤを スポンジで作ろう｡,Let's make tires with a sponge.,0.21428571428571427,0.91897345
+What? out of sponge?,スポンジ…ですか？,Sponge ...?,0.3333333333333333,0.8555541
+"And it's a light, cheap material that's easy to shape.",安いし 加工もしやすい｡,Cheap and easy to process.,0.35714285714285715,0.39424354
+He's quick and precise...,《スゲー｡早いのに丁寧》,"""Sgee. Courishes early""",0.0,0.15974627
+No idea what the practice is elsewhere.,他の国は どうかしらね～けどな｡,Other countries don't see it.,0.07142857142857142,0.27456123
+R-Right.,あっはい｡,Yes.,0.3333333333333333,0.376625
+His life is in my hands...,あっお願いします｡,Thank you.,0.0,0.1217187
+"If you crash, I'm sorry.",落ちたら…ごめんなさい｡,I'm sorry if it falls ...,0.3636363636363637,0.5687524
+It was the power of love.,要するにパラシュートってのは…｡,"In short, the parachute is ....",0.15384615384615385,0.111303434
+"Oops, I screwed up...",おっと うっかりだぜ｡➡,Opportunately it is.,0.0,0.17174888
+"Oh, that's perfect!",おお！完ぺきじゃん！,Oh!Perfect!,0.5,0.7720539
+Let's do a test run to see if it works.,動作確認モードで試運転します｡,Commissioning in operation confirmation mode.,0.05882352941176471,0.05988951
+Huh? Is there an error somewhere?,あれ？なんかミスっちゃったかな｡,that?Something was wrong.,0.08333333333333333,0.48105484
+It won't stop beeping.,ピコピコうるせ～な｡,Pico Pico Uruma ~.,0.1111111111111111,-0.047242615
+"Yeah, we don't need the beeping.",そうだな いらね～な ピコピコは｡,That's right ~ Nana Pico Pico is.,0.0625,0.01272326
+"The spacecraft Luniere 2, with Japanese astronaut Azuma Takio, has reached lunar orbit.",吾妻滝生さんらの乗る➡,Hideo Azuma ride ➡ ➡,0.05555555555555555,0.34447047
+Pico invited you?,ピコが…君をですか？,Pico ... Are you you?,0.5,0.65916085
+"For some reason, I was the only one.",ええ なぜだか僕だけ｡,Yeah why I'm alone.,0.14285714285714285,0.44064856
+"Yes, that's right.",えっ まあ そうですけど｡,"Well, that's right.",0.7142857142857143,0.78279245
+I also made a promise to drink with Pico tonight.,ピコと飲む約束をしています｡,I have a promise to drink Pico.,0.5833333333333334,0.8891642
+Life is short.,人生は短いんです｡,Life is short.,1.0,1.0
+I'll finally be free.,ようやく俺は解放される》,Finally I will be released,0.375,0.56031954
+I'm going to speed up.,スピードを少し上げますよ｡,I will raise the speed a little.,0.25,0.6418309
+An earnest failure still has meaning.,＜本気の失敗には 価値がある＞,<Value for serious failure>,0.08333333333333333,0.44993138

@@ -1,264 +1,264 @@
-en_text,jp_text,google_translated,score
-"This is your eldest daughter, Yoshiko;",これが長女の美子さん,This is the eldest daughter's beauty,0.36363636363636365
-"and this is the youngest, Minako.",そしてこれが 三女の美奈子さん,And this is Mi Miyako,0.3
-"Well, then Mr. Saeba,\Nit's only for four days.",それじゃあ 冴羽さん ほんの４日間です,"Well then, it is 4 days for 冴",0.3125
-I leave my daughters in your hands.,娘達の事を よろしくお願いします,Thank you for your daughters,0.18181818181818182
-"You can leave them to me for\Nfour days, or a year if you like.",お任せ下さい ４日と言わず １年でも…,Please leave it for 4 days in a year ...,0.19047619047619047
-"No, I mean,",僕ちゃん幸せ,I am happy,0.16666666666666666
-"having accepted a fee equivalent\Nto one year's services,",１年分に値するような報酬を頂いた以上,More than a reward for one year,0.21428571428571427
+en_text,jp_text,google_translated,score,semantic_score
+"This is your eldest daughter, Yoshiko;",これが長女の美子さん,This is the eldest daughter's beauty,0.3636363636363637,0.60377884
+"and this is the youngest, Minako.",そしてこれが 三女の美奈子さん,And this is Mi Miyako,0.3,0.5533287
+"Well, then Mr. Saeba,\Nit's only for four days.",それじゃあ 冴羽さん ほんの４日間です,"Well then, it is 4 days for 冴",0.3125,0.5067583
+I leave my daughters in your hands.,娘達の事を よろしくお願いします,Thank you for your daughters,0.18181818181818185,0.5552788
+"You can leave them to me for\Nfour days, or a year if you like.",お任せ下さい ４日と言わず １年でも…,Please leave it for 4 days in a year ...,0.19047619047619047,0.5622427
+"No, I mean,",僕ちゃん幸せ,I am happy,0.16666666666666666,0.077151835
+"having accepted a fee equivalent\Nto one year's services,",１年分に値するような報酬を頂いた以上,More than a reward for one year,0.21428571428571427,0.41231096
 "Yes, that's what I meant.","責任を持って 娘さん達をお守りすると
 そういう事です はい","If you are responsible for your daughter
-That's what she is yes",0.23529411764705882
-Going boy hunting?,ボーイハントでもする気？,I wonder if it will be a boy hunt?,0.16666666666666666
-Of course!,もち！,rice cake!,0.2
-I'm going to have as much\Nfun as possible!,この際 めいっぱい遊びまくるわ,I'm going to play a lot,0.3333333333333333
+That's what she is yes",0.2352941176470588,0.14880513
+Going boy hunting?,ボーイハントでもする気？,I wonder if it will be a boy hunt?,0.16666666666666666,0.7680966
+Of course!,もち！,rice cake!,0.2,0.24494588
+I'm going to have as much\Nfun as possible!,この際 めいっぱい遊びまくるわ,I'm going to play a lot,0.3333333333333333,0.44795507
 "Why don't you try some\Nboy hunting too, Yoshiko?","ねえ 美子姉さんも
 ボーイハントしてみたら？","Hey Miko Sister
-If you try a boy hunt?",0.16666666666666666
+If you try a boy hunt?",0.16666666666666666,0.75633526
 No decent guys come to resorts.,"リゾート地に来る男なんて
 大体ろくなヤツはいないのよ","A man who comes to a resort
-There is no big guy",0.125
+There is no big guy",0.125,0.5860026
 "Well, why not call and invite\Nsomeone nice from the office?","じゃあ 会社に電話して
 素敵な人を呼んだら？","Then call the company
-Call a wonderful person?",0.17647058823529413
-Or high principles.,ん これだもんねぇ 理想が高いというか,This is because the ideal is high,0.1111111111111111
-"Oh, it must be for me!\NI bet it's Furukawa!",ご立派というか…,It is said to be,0.13333333333333333
-"Hello, it's Miho. What took so long?",そうよ そうしましょう,Let's do it so,0.23076923076923078
-Papa!,えっ！,eh!,0.3333333333333333
-"Who, you ask? No one in particular.",つまり その… え 人違いよ,"In other words, that ...",0.14285714285714285
-I didn't recognize you is all.,もしもし美穂よ 遅いじゃな～い,Miho Miho is slow ~,0.09090909090909091
-Someone from your company\Nis coming here?,え？ パパの会社の人がこっちへ？,picture?A person of the dad company here?,0.14285714285714285
-Here it is. What a nice villa.,ここか なかなかいい別荘だ,This is a pretty good villa,0.2727272727272727
-"And what's more, for four days\Nstarting today,",それにもまして 今日から４日,And 4 days from today,0.16666666666666666
-will be living under the same roof!,同じ屋根の下で美人の三姉妹と…,Beautiful three sisters under the same roof ...,0.3333333333333333
-You work for Father's company?,あなたが 父の会社の？,Are you a father's company?,0.5555555555555556
-"Oh, forgive me, I got ahead\Nof myself there.",ああ 失礼 つい気持ちが先走りまして,"Oh, I'm sorry I'm going ahead",0.21428571428571427
+Call a wonderful person?",0.17647058823529413,0.4467403
+Or high principles.,ん これだもんねぇ 理想が高いというか,This is because the ideal is high,0.1111111111111111,0.3114947
+"Oh, it must be for me!\NI bet it's Furukawa!",ご立派というか…,It is said to be,0.13333333333333333,0.28115657
+"Hello, it's Miho. What took so long?",そうよ そうしましょう,Let's do it so,0.2307692307692308,0.14224118
+Papa!,えっ！,eh!,0.3333333333333333,0.28827894
+"Who, you ask? No one in particular.",つまり その… え 人違いよ,"In other words, that ...",0.14285714285714285,0.15958929
+I didn't recognize you is all.,もしもし美穂よ 遅いじゃな～い,Miho Miho is slow ~,0.09090909090909093,0.13659024
+Someone from your company\Nis coming here?,え？ パパの会社の人がこっちへ？,picture?A person of the dad company here?,0.14285714285714285,0.3745526
+Here it is. What a nice villa.,ここか なかなかいい別荘だ,This is a pretty good villa,0.2727272727272727,0.8810588
+"And what's more, for four days\Nstarting today,",それにもまして 今日から４日,And 4 days from today,0.16666666666666666,0.69174373
+will be living under the same roof!,同じ屋根の下で美人の三姉妹と…,Beautiful three sisters under the same roof ...,0.3333333333333333,0.39854133
+You work for Father's company?,あなたが 父の会社の？,Are you a father's company?,0.5555555555555556,0.8801516
+"Oh, forgive me, I got ahead\Nof myself there.",ああ 失礼 つい気持ちが先走りまして,"Oh, I'm sorry I'm going ahead",0.21428571428571427,0.57037437
 Of course it does!\NWe're not little kindergarteners here!,"当ったり前じゃない
 あたし達 幼稚園の子供じゃないわ！","It is not before
-I'm not a child of my kindergarten!",0.21052631578947367
-Aren't you ashamed of yourself?,ご不満ですか？,Are you dissatisfied?,0.375
+I'm not a child of my kindergarten!",0.21052631578947367,0.5613626
+Aren't you ashamed of yourself?,ご不満ですか？,Are you dissatisfied?,0.375,0.2678061
 "Even if they were Father's orders,","いくら父の言いつけでも
 スパイみたいな真似は嫌だと","How much father's words
-I hate imitation like spy",0.125
+I hate imitation like spy",0.125,0.34876513
 under the same roof with\Nthree beautiful girls.,"こんな美女３人と たとえ僅かでも
 同じ屋根の下で過ごせるんですよ","Three such beautiful girls
-I can spend it under the same roof",0.42857142857142855
+I can spend it under the same roof",0.42857142857142855,0.6183231
 Refusing something like that\Njust isn't human!,"それを断るなんて
 人間のするこっちゃな～い！","Collect it
-It's a human beings!",0.15384615384615385
+It's a human beings!",0.15384615384615385,0.3933269
 "At this time, I will read you some\Nrules I expect you to keep.","んんっ ではここで 皆さんに
 守っていただきたい事を発表します","Let's all here
-We announce what I want to protect",0.09090909090909091
-Please listen well.,よく聞いて下さい,Please listen carefully,0.4
-Number one:,１つ,One,0.3333333333333333
+We announce what I want to protect",0.09090909090909093,0.30410686
+Please listen well.,よく聞いて下さい,Please listen carefully,0.4,0.7652507
+Number one:,１つ,One,0.3333333333333333,0.399971
 "When venturing out,\Nyou will obtain my approval,","外出の際は 逐一行き先を告げて
 わたくしの許可を得る事","When going out, tell the destination one by one
-To obtain permission",0.23529411764705882
-Spending the night out is not allowed.,門限は６時 もちろん外泊は許しません,"The guard is, of course, not allowed nighttime",0.3076923076923077
-That too?!,そんな事までー？,What kind of thing?,0.125
+To obtain permission",0.2352941176470588,0.22410955
+Spending the night out is not allowed.,門限は６時 もちろん外泊は許しません,"The guard is, of course, not allowed nighttime",0.3076923076923077,0.5917374
+That too?!,そんな事までー？,What kind of thing?,0.125,0.10703881
 "Phone calls from men,\Nas well as their visits,","男性からの電話及び この家への出入りは
 当然このわたくしがチェックします","Phone from men and go to this house
-Naturally I will check this time",0.15
-It's oppression!,横暴だわ！,It is a violence!,0.2857142857142857
-A violation of our civil rights!,人権じゅうりんよ！,Human Rights!,0.25
+Naturally I will check this time",0.15,0.57250905
+It's oppression!,横暴だわ！,It is a violence!,0.2857142857142857,0.5064366
+A violation of our civil rights!,人権じゅうりんよ！,Human Rights!,0.25,0.5298063
 The toilet!\NDo we have to tell you that too?,"そんな事まで
 いちいち言わなきゃいけないの？","Such a thing
-Do you have to say one one?",0.2222222222222222
-"No, that's not necessary.",いや それはいいでしょう,"No, it is good",0.2
-"This is Yoshiko's, this is Miho's\Nand here's Minako's room.",そしてここが 美奈子しゃんのお部屋,And here is Milk Sakan's Room,0.3076923076923077
+Do you have to say one one?",0.2222222222222222,0.35397115
+"No, that's not necessary.",いや それはいいでしょう,"No, it is good",0.2,0.31657335
+"This is Yoshiko's, this is Miho's\Nand here's Minako's room.",そしてここが 美奈子しゃんのお部屋,And here is Milk Sakan's Room,0.3076923076923077,0.47824392
 "Boy, what was the point in coming\Nhere if it's going to be like this?","あ～あ これじゃ何のために
 別荘に来たのか分かんないわ","Oh, what is this for what
-I do not know if I came to the villa",0.23076923076923078
+I do not know if I came to the villa",0.2307692307692308,0.17848904
 "He may be devoted to his work,\Nbut he's gone too far.","仕事に忠実なのも
 あそこまでいくと嫌味なだけね","I am faithful to work
-If you go ahead, you are only ill",0.125
-Two foxes?,ん？,Yeah?,0.25
-Isn't there some way\Nof getting rid of him?,どうする 男が１人いるぞ,There is one man with one man,0.15384615384615385
-"Impossible, it's Father's orders.",そうだ！,That's it!,0.2222222222222222
-Handle him?,引き受けるって？,Do you accept it?,0.14285714285714285
-In this state we're like sad little birds\Nwho've lost their feathers.,お願い この通り,Request this street,0.0625
-"No, I couldn't.",助けると思って ねっ お願い,I hope you will help you,0.1
+If you go ahead, you are only ill",0.125,0.16072842
+Two foxes?,ん？,Yeah?,0.25,0.13701022
+Isn't there some way\Nof getting rid of him?,どうする 男が１人いるぞ,There is one man with one man,0.15384615384615385,0.1270033
+"Impossible, it's Father's orders.",そうだ！,That's it!,0.2222222222222222,0.19788302
+Handle him?,引き受けるって？,Do you accept it?,0.14285714285714285,0.26177374
+In this state we're like sad little birds\Nwho've lost their feathers.,お願い この通り,Request this street,0.0625,0.051681954
+"No, I couldn't.",助けると思って ねっ お願い,I hope you will help you,0.1,0.05317783
 "In the first place, I get enough\Nof his type at the office.","第一 あの手のタイプは
 もう会社だけでうんざりよ","The type of the first hand is
-I'm tired of the company",0.21052631578947367
-"In other words, you know how\Nto manage his type, right?",要するに 扱いには慣れてるわけよね,"In short, it is used to treat",0.1111111111111111
-It's our secret! See you!,内緒よ じゃあね～,It is secret ~,0.2222222222222222
-Hold it! Miho! Minako!,ちょっと 美穂 美奈子,A little Miho Minako,0.2857142857142857
-See him?,いる？,Do you have?,0.16666666666666666
-Nowhere in sight.,じゃ よろしく,In hope,0.2
-Go back inside.\NThe sun will be going down soon.,お戻りなさい もうじき日が暮れますよ,Please come back soon,0.16666666666666666
-And that's why I can't get out.,そういうわけで抜け出せないのよ,That's why I can't get out of it,0.6666666666666666
-I'm sorry. I'll call you later. Bye.,ごめん また電話する じゃあね,I'm sorry I'll call you again,0.6
-Where's Mr. Saeba?,冴羽さんは？,What is Suehira?,0.125
-Taking a bath.,美奈子さんは子供で～ こ～りゃ,Mina Mina is a child ~,0.125
-I'd also enjoy spending a\Npleasant evening with you.,僕も 君と素敵な夜を過ごしたい,I also want to spend a nice night with you,0.25
-Are you so intent on\Npersonal advancement?,そんなにまで出世がなさりたいの？,Do you want to make an issue so much?,0.21428571428571427
-Advancement?,出世？,Is it an issue?,0.16666666666666666
+I'm tired of the company",0.21052631578947367,0.28238288
+"In other words, you know how\Nto manage his type, right?",要するに 扱いには慣れてるわけよね,"In short, it is used to treat",0.1111111111111111,0.111516126
+It's our secret! See you!,内緒よ じゃあね～,It is secret ~,0.2222222222222222,0.65218955
+Hold it! Miho! Minako!,ちょっと 美穂 美奈子,A little Miho Minako,0.2857142857142857,0.688749
+See him?,いる？,Do you have?,0.16666666666666666,0.2899418
+Nowhere in sight.,じゃ よろしく,In hope,0.2,0.36716557
+Go back inside.\NThe sun will be going down soon.,お戻りなさい もうじき日が暮れますよ,Please come back soon,0.16666666666666666,0.29406008
+And that's why I can't get out.,そういうわけで抜け出せないのよ,That's why I can't get out of it,0.6666666666666666,0.78573656
+I'm sorry. I'll call you later. Bye.,ごめん また電話する じゃあね,I'm sorry I'll call you again,0.6,0.72670233
+Where's Mr. Saeba?,冴羽さんは？,What is Suehira?,0.125,0.25072554
+Taking a bath.,美奈子さんは子供で～ こ～りゃ,Mina Mina is a child ~,0.125,0.061348367
+I'd also enjoy spending a\Npleasant evening with you.,僕も 君と素敵な夜を過ごしたい,I also want to spend a nice night with you,0.25,0.6700945
+Are you so intent on\Npersonal advancement?,そんなにまで出世がなさりたいの？,Do you want to make an issue so much?,0.21428571428571427,0.2841255
+Advancement?,出世？,Is it an issue?,0.16666666666666666,0.120168865
 We all know what you are thinking.,"あなたが何を考えてるか
 みんな分かってるわ","What are you thinking about
-Everyone knows",0.36363636363636365
-"That time I first saw the\Nphotos of you three,",初めて 君達３人の写真を見た時から,From the first time I saw a photo of three people,0.4
-Stop it!,やめて！,stop!,0.6666666666666666
-You are all the same!\NI'm not that stupid!,みんな同じだわ バカにしないで,"Everyone is the same, not stupid",0.2857142857142857
-Men are all the same.,男はみんなそうよ,All men are,0.5
-I'm not a tool for someone's\Nself-advancement plan!,私は出世コースへの道具じゃないわ！,I'm not a tool to the issue course!,0.46153846153846156
-Self-advancement plan?,ああ？,Ah?,0.25
-I wasn't thinking of that at all.,まずは父に気に入られる事を考え,"First of all, thinking about what father is worried about",0.1875
-I wasn't thinking...,ちっとも考えなかったなぁ んな事,I didn't think about it,0.2222222222222222
-"That far ahead, right? Stop it!",考えないっていうの？ やめて！,Do you not think?stop!,0.23076923076923078
-If possible I want to do this...,できれば… こうしたい,If possible ...,0.375
-I can't stop myself!,うっ ううっ うーん うっ！,I'm sorry!,0.25
-Who are you?,あなたは？,you?,0.5
-I'm his assistant.,ああっ 放して 冴羽さん！,"Oh, I'm released and I'm sorry!",0.18181818181818182
-Assistant?,アシスタント？,assistant?,1.0
-"So, you're not from Father's company?",すると 父の会社の人じゃなかったのね,Then it was not a person of my father's company,0.23529411764705882
+Everyone knows",0.3636363636363637,0.6596816
+"That time I first saw the\Nphotos of you three,",初めて 君達３人の写真を見た時から,From the first time I saw a photo of three people,0.4,0.60153097
+Stop it!,やめて！,stop!,0.6666666666666666,0.83828974
+You are all the same!\NI'm not that stupid!,みんな同じだわ バカにしないで,"Everyone is the same, not stupid",0.2857142857142857,0.8133197
+Men are all the same.,男はみんなそうよ,All men are,0.5,0.7184181
+I'm not a tool for someone's\Nself-advancement plan!,私は出世コースへの道具じゃないわ！,I'm not a tool to the issue course!,0.4615384615384616,0.5432532
+Self-advancement plan?,ああ？,Ah?,0.25,0.044229284
+I wasn't thinking of that at all.,まずは父に気に入られる事を考え,"First of all, thinking about what father is worried about",0.1875,0.17525929
+I wasn't thinking...,ちっとも考えなかったなぁ んな事,I didn't think about it,0.2222222222222222,0.56196725
+"That far ahead, right? Stop it!",考えないっていうの？ やめて！,Do you not think?stop!,0.2307692307692308,0.48591155
+If possible I want to do this...,できれば… こうしたい,If possible ...,0.375,0.70191586
+I can't stop myself!,うっ ううっ うーん うっ！,I'm sorry!,0.25,0.347994
+Who are you?,あなたは？,you?,0.5,0.46151608
+I'm his assistant.,ああっ 放して 冴羽さん！,"Oh, I'm released and I'm sorry!",0.18181818181818185,0.13951743
+Assistant?,アシスタント？,assistant?,1.0,1.0
+"So, you're not from Father's company?",すると 父の会社の人じゃなかったのね,Then it was not a person of my father's company,0.2352941176470588,0.7132927
 "What I want to know is, is it true\Nsome kidnappers are after us?","そんな事より あたし達が
 誘拐犯に狙われているって本当なの？","More than that
-Is it true that you are targeted by the kidnap?",0.17391304347826086
-I didn't want to upset them.,不安がらせたくなかったからさ,Because I did not want to be anxious,0.3333333333333333
-"So, the rules about my\Nsisters going out...",それで 妹達の外出を？,So go out of my sister?,0.14285714285714285
+Is it true that you are targeted by the kidnap?",0.17391304347826084,0.7117197
+I didn't want to upset them.,不安がらせたくなかったからさ,Because I did not want to be anxious,0.3333333333333333,0.47690186
+"So, the rules about my\Nsisters going out...",それで 妹達の外出を？,So go out of my sister?,0.14285714285714285,0.43981162
 Your father didn't tell you\Nfor the same reason.,"お父上が君達に話さなかったのも
 同じ気持ちからだ","The father did not talk to you
-From the same feeling",0.25
+From the same feeling",0.25,0.630841
 "Well, it appears there are some\Npeople who want to stop the merger","現地の会社と合併するのを
 潰そうとしている人達がいるの","Merged with local companies
-There are people who are going to crush",0.2
-of your father's Hong Kong\Ndivision with a local company.,あ それは お父様の会社の香港支店が,"Oh, the Hong Kong branch of the father's company",0.3125
+There are people who are going to crush",0.2,0.53777355
+of your father's Hong Kong\Ndivision with a local company.,あ それは お父様の会社の香港支店が,"Oh, the Hong Kong branch of the father's company",0.3125,0.7809729
 Our parents are in Hong Kong for a\Nsigning ceremony for that merger.,"両親は その合併のパーティーと
 調印式のために出掛けたんですわ","Parents are the parties of the merger
-I went out for the signing ceremony",0.2631578947368421
-The signing ceremony is\Nthe day after tomorrow.,調印式は明後日,The signing ceremony is later,0.3
+I went out for the signing ceremony",0.2631578947368421,0.67709243
+The signing ceremony is\Nthe day after tomorrow.,調印式は明後日,The signing ceremony is later,0.3,0.80598253
 "Their aim is to kidnap one of you,","という予告の電話が 出発直前に
 お父上のところに…","The notice of the notice is just before departure
-To my father ...",0.17647058823529413
+To my father ...",0.17647058823529413,0.19541137
 using that as a means to wreck\Nany plans for the merger.,"それを脅しの種にして
 合併計画を潰そうと動き出した","Make it a seed of threat
-I moved out to destroy the merger plan",0.18181818181818182
-Meaning you two are in a line of work,連中は 君達のうちの誰かを誘拐し,Under a row kidnapped someone of you,0.23076923076923078
-"Yes, something like that.",ええ ま そんなとこよ,Yes Yama Such,0.125
+I moved out to destroy the merger plan",0.18181818181818185,0.65863264
+Meaning you two are in a line of work,連中は 君達のうちの誰かを誘拐し,Under a row kidnapped someone of you,0.2307692307692308,0.17718437
+"Yes, something like that.",ええ ま そんなとこよ,Yes Yama Such,0.125,0.30334783
 It doesn't matter which one it is.\NOnly two more days left...,"３人のうち誰でもいい
 あと２日しかないんだ","Anyone of three people
-There is only two more days",0.15789473684210525
-"What is it, Ryo?",どうしたの？ リョウ,What's wrong?Rhyo,0.2222222222222222
-Quiet!,静かに,be quiet,0.3333333333333333
+There is only two more days",0.15789473684210525,0.47836837
+"What is it, Ryo?",どうしたの？ リョウ,What's wrong?Rhyo,0.2222222222222222,0.46419573
+Quiet!,静かに,be quiet,0.3333333333333333,0.60634965
 Get it open somehow.\NThis is the only way inside.,"なんとかこじ開けろ
 中に入るにはここしかない","Somehow it is open
-It is only here to enter inside",0.35714285714285715
-That's Miho's room.,そうだ,That's it,0.3333333333333333
+It is only here to enter inside",0.35714285714285715,0.7159249
+That's Miho's room.,そうだ,That's it,0.3333333333333333,0.2420249
 How can we call ourselves men\Nif we don't help her escape?,"脱出に手を貸してやらないとあっては
 男の恥","If you do not lend a hand to escape
-Man of a man",0.09523809523809523
-Right!,早くしろよ！,Get early!,0.25
+Man of a man",0.09523809523809523,0.4334188
+Right!,早くしろよ！,Get early!,0.25,0.3390209
 "Okay, time to rescue our Madonna\Nfrom Satan's castle.","よ～し ほんじゃ 我らのマドンナ姫を
 悪魔の城から解放するか","Yo-Shihonjo Somizuki Madonna
-Do you want to release from the devil's castle",0.14285714285714285
-"I know, I know!",分かってるよ,I know,0.5
-What was that?,何だ 今の声は,What is the current voice,0.125
+Do you want to release from the devil's castle",0.14285714285714285,0.6240199
+"I know, I know!",分かってるよ,I know,0.5,0.8660621
+What was that?,何だ 今の声は,What is the current voice,0.125,0.11351671
 "If you want them, have the guts to\Ncome through the front door!","連れ出したいんだったら
 堂々と玄関から入って来い！","If you want to take it out
-Come from the entrance and come from the entrance!",0.23809523809523808
-Kidnappers?,犯人？,culprit?,0.3333333333333333
-Appears not after all...,うっ う…,Um ...,0.16666666666666666
+Come from the entrance and come from the entrance!",0.2380952380952381,0.39471298
+Kidnappers?,犯人？,culprit?,0.3333333333333333,0.19914578
+Appears not after all...,うっ う…,Um ...,0.16666666666666666,0.2715048
 "I see, that was you two last night.","な～んだ 昨夜の２人は
 あんた達だったの～","The two last night last night
-It was an animal ~",0.26666666666666666
-It's nothing to laugh about.\NI had a gun shoved in my face.,ではなかったようだ,It seems not to be,0.11764705882352941
+It was an animal ~",0.26666666666666666,0.44257566
+It's nothing to laugh about.\NI had a gun shoved in my face.,ではなかったようだ,It seems not to be,0.1176470588235294,0.07734924
 It was scary even if it was a toy gun.,"いくらオモチャだって
 いきなりヌッとくればなぁ","How much is your toy
-If you suddenly become a sudden noodle",0.16666666666666666
+If you suddenly become a sudden noodle",0.16666666666666666,0.31423083
 I guess I'll give up on boy hunting\Nand have a date with you.,"ボーイハントは諦めて
 香さんとデートにするわ","Boy Hunt gives up
-I will date with Mr. incense",0.2631578947368421
-I'm counting on you!,頼むわよ～！,I'm asking!,0.42857142857142855
-But I wonder if Yoshiko will be okay?,こっちは 俺達がガッチシ ガードするよ,Here we will be guarded,0.16666666666666666
-Yoshiko has Mr. Saeba with her.,美子姉さんなら 冴羽さんが付いてるわ,Mr. Miko Sister with Mr. Saimu is attached,0.16666666666666666
-Are you okay?,大丈夫？,All right?,0.16666666666666666
-"It's no good, too many people around.",まずいな ここじゃ人目が多過ぎる,"It's bad, so too many people",0.5
-"But tell me, that guy, who is he?",しかし 美子さん大丈夫かな？,But Miko is all right?,0.23076923076923078
-"You're good, Mr. Saeba!",ああーっ！,Oh!,0.125
-"Thank you, thank you.\NI'm especially good at this style.",そうそう 特にこういうスタイルがねぇ,"Oh yeah, especially these style styles",0.2
-I've never heard of it!,聞いた事ないわ ふっ…,I have not heard ...,0.2
-I hear it's going to be made an\NOlympic event in the near future.,これを モッコリング滑走っていうんだ,I'm going to run this,0.16666666666666666
-I wonder if my sisters are okay?,妹達は大丈夫かしら？,My sister is okay?,0.3
-I'm sorry. I was thinking about\Nwhat she did last night.,あははっ… ごめんなさい,Ahaha ... I'm sorry,0.23076923076923078
-Honest?,正直？,honest?,1.0
+I will date with Mr. incense",0.2631578947368421,0.55275595
+I'm counting on you!,頼むわよ～！,I'm asking!,0.42857142857142855,0.30450964
+But I wonder if Yoshiko will be okay?,こっちは 俺達がガッチシ ガードするよ,Here we will be guarded,0.16666666666666666,0.19510923
+Yoshiko has Mr. Saeba with her.,美子姉さんなら 冴羽さんが付いてるわ,Mr. Miko Sister with Mr. Saimu is attached,0.16666666666666666,0.4912408
+Are you okay?,大丈夫？,All right?,0.16666666666666666,0.3044731
+"It's no good, too many people around.",まずいな ここじゃ人目が多過ぎる,"It's bad, so too many people",0.5,0.76613194
+"But tell me, that guy, who is he?",しかし 美子さん大丈夫かな？,But Miko is all right?,0.2307692307692308,0.1709418
+"You're good, Mr. Saeba!",ああーっ！,Oh!,0.125,0.26276416
+"Thank you, thank you.\NI'm especially good at this style.",そうそう 特にこういうスタイルがねぇ,"Oh yeah, especially these style styles",0.2,0.5285345
+I've never heard of it!,聞いた事ないわ ふっ…,I have not heard ...,0.2,0.5004184
+I hear it's going to be made an\NOlympic event in the near future.,これを モッコリング滑走っていうんだ,I'm going to run this,0.16666666666666666,0.20485301
+I wonder if my sisters are okay?,妹達は大丈夫かしら？,My sister is okay?,0.3,0.78185874
+I'm sorry. I was thinking about\Nwhat she did last night.,あははっ… ごめんなさい,Ahaha ... I'm sorry,0.2307692307692308,0.37604144
+Honest?,正直？,honest?,1.0,1.0000004
 "When I ask if you're getting close to\Nme for personal advancement,","出世のために
 私に近づいてるんでしょって聞いたら","For the issue
-If you ask me to be approaching",0.21052631578947367
+If you ask me to be approaching",0.21052631578947367,0.4767586
 "If only Kaori hadn't shown up,\NI would have really...","香のヤツさえ出て来なければ
 ほんとにガバッと…","If it is not coming out of the guy of incense
-Really Gabat ...",0.13043478260869565
+Really Gabat ...",0.13043478260869565,0.20867506
 You're different from any of\Nthe men I've known so far.,"今まで 私が知ってる男の人には
 いなかったタイプ","To the man who I know so far
-Type that was not",0.13636363636363635
+Type that was not",0.13636363636363635,0.34291047
 "You don't know how to lie, do you?","悪いけど 今の事しか考えないって
 ガバッと来るんですもの","It's bad, but I don't think about it now
-I'm coming",0.15789473684210525
-"We still have tonight, you know?",まだ今夜がありますよ,There is still tonight,0.2
-"Let's go, let's go!",行きましょ 行きましょう,Let's go,0.6
-Stop it! Not here!,いや～！ やめて下さい こんな所で,No!Please stop at this place,0.2
-I'm just being honest.,僕は正直なんです,I am honest,0.2857142857142857
+I'm coming",0.15789473684210525,0.14865863
+"We still have tonight, you know?",まだ今夜がありますよ,There is still tonight,0.2,0.6036841
+"Let's go, let's go!",行きましょ 行きましょう,Let's go,0.6,0.8131396
+Stop it! Not here!,いや～！ やめて下さい こんな所で,No!Please stop at this place,0.2,0.6415576
+I'm just being honest.,僕は正直なんです,I am honest,0.2857142857142857,0.6963729
 "I know we're in danger, but a party\Nwith just the family is boring.","狙われてるとはいえ
 身内だけのパーティーじゃつまんないなぁ","It is targeted
-I'm not a party only",0.13636363636363635
-We need some handsome guys.,あ～あ～,Oh ~ ~,0.0
+I'm not a party only",0.13636363636363635,0.36675015
+We need some handsome guys.,あ～あ～,Oh ~ ~,0.0,0.071697176
 This is good!\NYoshiko sure is a good cook!,"う～ん おいしい～
 美子さん お上手なのねぇ","Wow delicious ~
-Miko Miko is good",0.16666666666666666
+Miko Miko is good",0.16666666666666666,0.6726751
 You are the only one who can\Nhelp me with my loneliness.,"あなただけが
 寂しい私の愛しいお方ですわ","Only you
-I'm lonely my love",0.1875
-"Please, don't treat me so coldly.",お願い 冷たくなさらないで,Please do not cool,0.18181818181818182
-Water...,ぎえーっ んっ んっ んっ…,Gei-Mc ...,0.3333333333333333
-What is this?,えっ 何これ？,What?,0.5
-Tequila with vodka.\NYou sure know how to chug it!,いい飲みっぷりだわ,It's nice to drink,0.15384615384615385
-"Oh, no! Everything is spinning!",あ～ 香様 しっかりして！,"Oh, I'm firm!",0.3
-Don't you get frightened\Ndoing this kind of job?,そんなお仕事をしていて 怖くはないの？,Aren't you scared to do such a job?,0.3333333333333333
-Sometimes I do. There were times\NI even thought I was going to die.,怖いと思う時もある,Sometimes I think I'm scared,0.125
-"So, that's why you seize the moment\Nwith all your might, right?",だから その時々を精一杯… ってわけね,So that time is the same time ...,0.16666666666666666
+I'm lonely my love",0.1875,0.7116768
+"Please, don't treat me so coldly.",お願い 冷たくなさらないで,Please do not cool,0.18181818181818185,0.39600718
+Water...,ぎえーっ んっ んっ んっ…,Gei-Mc ...,0.3333333333333333,0.21613647
+What is this?,えっ 何これ？,What?,0.5,0.2989868
+Tequila with vodka.\NYou sure know how to chug it!,いい飲みっぷりだわ,It's nice to drink,0.15384615384615385,0.4263358
+"Oh, no! Everything is spinning!",あ～ 香様 しっかりして！,"Oh, I'm firm!",0.3,0.26103002
+Don't you get frightened\Ndoing this kind of job?,そんなお仕事をしていて 怖くはないの？,Aren't you scared to do such a job?,0.3333333333333333,0.8542073
+Sometimes I do. There were times\NI even thought I was going to die.,怖いと思う時もある,Sometimes I think I'm scared,0.125,0.56081766
+"So, that's why you seize the moment\Nwith all your might, right?",だから その時々を精一杯… ってわけね,So that time is the same time ...,0.16666666666666666,0.30995578
 I want to meet as many beautiful\Nwoman as possible.,"１人でも多く素敵な人に
 女の人に出会いたい","Even one person is a wonderful person
-I want to meet a woman",0.25
-Just kidding...,んが…,...,0.3333333333333333
+I want to meet a woman",0.25,0.6855683
+Just kidding...,んが…,...,0.3333333333333333,0.3637147
 It sure is cold out here.\NLet's go ahead and get him.,"それにしても寒いなぁ
 早いとこやっつけようぜ","It is also cold
-Let's go fast",0.3125
-We'll wait a little longer.,もうしばらく待つんだ,I will wait for a while,0.18181818181818182
-He drank too much last night.,ちょっと 飲み過ぎだったわね 昨夜は,I was too drinking too much Last night,0.4
-"Let's drink some more, Yoshiko.\NDon't worry about the kids.",んん ふっ 美子さん もっと飲も,Miko Miko Miko also drink more,0.13333333333333333
-"Okay, I'm ready. Go!",声を出すんじゃない,I'm not a voice,0.18181818181818182
-"Ryo, wake up! It's bad!",リョウ 起きて 大変よ！,Ryu wake up and hard!,0.2727272727272727
-Yoshiko!,しまった！,Oops!,0.3333333333333333
-"Oh, it's just you, Kaori.",起～きろったら こ～ら！,If you get it up-,0.18181818181818182
-"No, no! I just got the rooms mixed up.",なんだじゃないわよ！ 美子さんが！,I'm not good!Mr. Miko!,0.1875
-What?!,何～！,What!,0.6666666666666666
-Ryo!,リョウ！,Ryo!,1.0
-"Kaori, bring me the car! Quick!",香 車を回せ 早くー！,Turn the ike quickly!,0.18181818181818182
+Let's go fast",0.3125,0.5237784
+We'll wait a little longer.,もうしばらく待つんだ,I will wait for a while,0.18181818181818185,0.58742964
+He drank too much last night.,ちょっと 飲み過ぎだったわね 昨夜は,I was too drinking too much Last night,0.4,0.7948938
+"Let's drink some more, Yoshiko.\NDon't worry about the kids.",んん ふっ 美子さん もっと飲も,Miko Miko Miko also drink more,0.13333333333333333,0.43076462
+"Okay, I'm ready. Go!",声を出すんじゃない,I'm not a voice,0.18181818181818185,0.010799897
+"Ryo, wake up! It's bad!",リョウ 起きて 大変よ！,Ryu wake up and hard!,0.2727272727272727,0.44778478
+Yoshiko!,しまった！,Oops!,0.3333333333333333,0.25451562
+"Oh, it's just you, Kaori.",起～きろったら こ～ら！,If you get it up-,0.18181818181818185,0.07314726
+"No, no! I just got the rooms mixed up.",なんだじゃないわよ！ 美子さんが！,I'm not good!Mr. Miko!,0.1875,0.13534869
+What?!,何～！,What!,0.6666666666666666,0.8294029
+Ryo!,リョウ！,Ryo!,1.0,1.0000006
+"Kaori, bring me the car! Quick!",香 車を回せ 早くー！,Turn the ike quickly!,0.18181818181818185,0.32454833
 "Damn, there's no way I can catch up\Nwith them driving through this!","くそー こんなとこを走っていたんじゃ
 追いつけない","I was running like this
-can not catch up with",0.19047619047619047
-Bastard!,うわあー！,Wow!,0.3333333333333333
-I was scared.,はぁ 怖かったわ はぁ,I was scared,0.75
+can not catch up with",0.19047619047619047,0.39661744
+Bastard!,うわあー！,Wow!,0.3333333333333333,0.39579844
+I was scared.,はぁ 怖かったわ はぁ,I was scared,0.75,0.93667746
 "This afternoon, your father will\Nattend the ceremony,","お父さんのほうも
 今日の午後には無事調印","Dad
-Sign up safely in today's afternoon",0.06666666666666667
-and the merger will be successful.,もう心配ない,Worries already,0.0
-Ceremony... successful...,ふっ 無事… 調印,Fluffy ... signing,0.2
+Sign up safely in today's afternoon",0.06666666666666668,0.38862723
+and the merger will be successful.,もう心配ない,Worries already,0.0,0.16359939
+Ceremony... successful...,ふっ 無事… 調印,Fluffy ... signing,0.2,0.3187617
 Up you go.\NIt appears our dangerous date is over.,"おっと 危ないデートも
 どうやら ここまでかな","Oopard dangerous date
-Apparently here",0.15384615384615385
-"It's goodbye, isn't Mr. Saeba?",お別れなのね 冴羽さん,It is a good thing,0.16666666666666666
-I'll be sure to continue living honestly.,これからも 正直に生きるよ,I will live honestly from now on,0.14285714285714285
+Apparently here",0.15384615384615385,0.5422265
+"It's goodbye, isn't Mr. Saeba?",お別れなのね 冴羽さん,It is a good thing,0.16666666666666666,0.12733796
+I'll be sure to continue living honestly.,これからも 正直に生きるよ,I will live honestly from now on,0.14285714285714285,0.68592423
 "You have a long way to go before\Nyou can pick my pocket, missy.","俺の財布をすろうなんて
 百年早いぜ お嬢さん","I would like to give my wallet
-A hundred years early",0.13043478260869565
-She was my best friend\Nback in high school.,高校ん時の大親友よ 心理学やってんの,"Daisei friend of high school, psychology",0.14285714285714285
-Criminal psychology?,犯罪心理学か,Crime psychology,0.25
+A hundred years early",0.13043478260869565,0.2905782
+She was my best friend\Nback in high school.,高校ん時の大親友よ 心理学やってんの,"Daisei friend of high school, psychology",0.14285714285714285,0.3545149
+Criminal psychology?,犯罪心理学か,Crime psychology,0.25,0.8640052
 "Give me your approval for\Nsome mokkori, and I'll do it.","モッコリ公認っていうんなら
 その依頼受けた","Mokkori likes
-I received that request",0.11764705882352941
-I'll speak to Saeko and Umibozu too.,冴子と海坊主にも声掛けようっと,Samurai and Motone Mainly,0.08333333333333333
+I received that request",0.1176470588235294,0.66965824
+I'll speak to Saeko and Umibozu too.,冴子と海坊主にも声掛けようっと,Samurai and Motone Mainly,0.08333333333333333,0.18156388
 "City Hunter: ""Picking Pockets is a Thrill!\NPick Pockets For Tomorrow""","「盗ってもスリリング
 明日に向ってすれ!!」","""Thrilling or thrilling
-Look for tomorrow !! """,0.23529411764705882
-Don't miss it!,絶対見てね！,I will definitely look at it!,0.2
+Look for tomorrow !! """,0.2352941176470588,0.4804351
+Don't miss it!,絶対見てね！,I will definitely look at it!,0.2,0.35741243

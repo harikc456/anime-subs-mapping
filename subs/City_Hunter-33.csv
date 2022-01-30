@@ -1,214 +1,214 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "Man, there I was soaking in the tub,\Nfeeling good and you have to call.","人がいい気分で風呂に入ってりゃ
 いきなり電話してきやがって","People feel in a bath with a good feeling
-Suddenly call me",0.12
-It's freezing!,ぶうぅ～寒っ！ あぁ～っ,Buu ~ cold!Ah ~,0.125
+Suddenly call me",0.12,0.552635
+It's freezing!,ぶうぅ～寒っ！ あぁ～っ,Buu ~ cold!Ah ~,0.125,0.40874743
 "Jeez, it's getting cold at night.\NSo, what's this urgent matter about?","いやあ すっかり夜は冷え込むなあー
 あんだ 急ぎの話って","No, don't get cold at night
-Talk about an anchor",0.18181818181818182
+Talk about an anchor",0.18181818181818185,0.43285838
 Did you call me all the way out\Nhere just to tell me that?,"んな事言うために
 わざわざこんなとこへ呼び出したのか？","To say something
-Did you call this kind of cousin?",0.2631578947368421
+Did you call this kind of cousin?",0.2631578947368421,0.3283834
 "Okay, I'm going home.","留守番やら赤んぼのお守りまで
 やりかねねえ","To amulet of answering machine and baby
-I'm sorry",0.13333333333333333
-Wait!,待てぇ！,Wait!,1.0
-"Well, people come in two kinds.\NMen and that other kind, right?",まあ聞け その 何だ,"Well, what is that",0.2
-What are you trying to say?,もう 何が言いたいんだよう,What I want to say,0.3333333333333333
-A present? For whom?,プレゼント？ 誰に？,Present? To whom?,0.5
-A woman?,お 女？,A woman?,1.0
-What do you think you're up to girlie?,うっ 何をするんですか！,What do you do?,0.4444444444444444
+I'm sorry",0.13333333333333333,0.2736383
+Wait!,待てぇ！,Wait!,1.0,1.0
+"Well, people come in two kinds.\NMen and that other kind, right?",まあ聞け その 何だ,"Well, what is that",0.2,0.14483024
+What are you trying to say?,もう 何が言いたいんだよう,What I want to say,0.3333333333333333,0.5476571
+A present? For whom?,プレゼント？ 誰に？,Present? To whom?,0.5,0.8221459
+A woman?,お 女？,A woman?,1.0,1.0
+What do you think you're up to girlie?,うっ 何をするんですか！,What do you do?,0.4444444444444444,0.24098161
 Sticking your nose where it don't\Nbelong'll only get ya in trouble.,"余計な事に首を突っ込むと
 ロクな事にはならねえぜ","When I put a neck in an extra
-If it is a good thing",0.08333333333333333
-Please stop!,はっ うっ！,Hey!,0.25
+If it is a good thing",0.08333333333333333,0.3022148
+Please stop!,はっ うっ！,Hey!,0.25,0.25327027
 We're going over there.,"-放して下さい
 -そこまで来てもらおう","-Please release
--What to come there",0.09090909090909091
-It's you. Thank you.,あなたは… ありがとうございます,You ... Thank you,0.3333333333333333
-"You're welcome, but you'd better\Nget out of here right now.",そんな事より 早いとこ立ち去った方が,If you get out earlier than such a thing,0.1
-Watch out!,危ない！,Dangerous!,0.25
-A necklace?,まあ ネックレス…,Well necklace ...,0.2
+-What to come there",0.09090909090909093,0.22474912
+It's you. Thank you.,あなたは… ありがとうございます,You ... Thank you,0.3333333333333333,0.6123579
+"You're welcome, but you'd better\Nget out of here right now.",そんな事より 早いとこ立ち去った方が,If you get out earlier than such a thing,0.1,0.18572694
+Watch out!,危ない！,Dangerous!,0.25,0.46396238
+A necklace?,まあ ネックレス…,Well necklace ...,0.2,0.79636353
 "This was to be a gift for\Nsomeone, wasn't it?","どなたかへのプレゼントでしたのね
 きっと…","It was a present for someone
-surely…",0.2
-"I'm sorry, because of me...",ごめんなさい あたしのために,I'm sorry for me,0.4444444444444444
-"No, it's...",いやあ あ それは… あ その…,"No, that's ... that ...",0.6666666666666666
-"All right, hang on. Can you stand?",さあ さ しっかりして 立てますか？,Do you stand firmly?,0.25
-The piano?,ピアノ？,piano?,0.6666666666666666
-"Yes, it's a beautiful song.",大丈夫だ これ位の傷なら…,It's okay if it is a scratch ...,0.23076923076923078
+surely…",0.2,0.5531247
+"I'm sorry, because of me...",ごめんなさい あたしのために,I'm sorry for me,0.4444444444444444,0.7059059
+"No, it's...",いやあ あ それは… あ その…,"No, that's ... that ...",0.6666666666666666,0.6212104
+"All right, hang on. Can you stand?",さあ さ しっかりして 立てますか？,Do you stand firmly?,0.25,0.5282948
+The piano?,ピアノ？,piano?,0.6666666666666666,0.92988145
+"Yes, it's a beautiful song.",大丈夫だ これ位の傷なら…,It's okay if it is a scratch ...,0.2307692307692308,0.09713274
 "Then, it's to hear me play that\Nyou've come every day?","それじゃあ
 毎日あたしのピアノを聞きに？","Well then
-Listen to my piano every day?",0.2777777777777778
-"With the piano, they say the\Nfeelings of the pianist",あんたのピアノの音は 力強くて優しいが,The sound of the piano of you is powerful and kind,0.2
+Listen to my piano every day?",0.2777777777777778,0.52593774
+"With the piano, they say the\Nfeelings of the pianist",あんたのピアノの音は 力強くて優しいが,The sound of the piano of you is powerful and kind,0.2,0.57179916
 but in it I detect a certain sadness.,"弾く人の心が
 そのまま音に出ちまうんだってな","The mind of the person who plays
-I'm going to make a sound as it is",0.13636363636363635
-Umibozu...,海坊主さん…,Marie Lord ...,0.25
-"Damn, what am I doing\Ntalking like this?!",さて ひと眠りするか うっ,"Well, I'm going to sleep",0.13333333333333333
-I think I'll turn in.,どこか 寂し気に聞こえる,Somewhere I can lonely,0.1111111111111111
+I'm going to make a sound as it is",0.13636363636363635,0.24138588
+Umibozu...,海坊主さん…,Marie Lord ...,0.25,0.22294569
+"Damn, what am I doing\Ntalking like this?!",さて ひと眠りするか うっ,"Well, I'm going to sleep",0.13333333333333333,0.32397425
+I think I'll turn in.,どこか 寂し気に聞こえる,Somewhere I can lonely,0.1111111111111111,0.17890474
 "I thought you must have stepped on\Na land mine or something,","大方 地雷でも踏んづけたのかなあと
 思いきや","I wondered if I was stepping on a large mine
-Thought",0.15789473684210525
+Thought",0.15789473684210525,0.6196537
 "One word from the gal you have a\Ncrush on and bam! Right, Umibozu?","32口径を肩に撃ち込まれた位で
 大人しく入院とは","32 In the place where the diameter is shotped on the shoulder
-Advance and hospitalization",0.11538461538461539
+Advance and hospitalization",0.1153846153846154,-0.00057240296
 You talk too much.,"仮に俺が入院しろーなんてったって
 お前が素直によぉ…","Temporarily hospitalized
-You are honest ...",0.1
-"But I'm right, right?",だってそうだろ？,That's right?,0.25
+You are honest ...",0.1,0.19143435
+"But I'm right, right?",だってそうだろ？,That's right?,0.25,0.5732449
 I have a favor to ask.,"さずがのお前も弱いって訳か
 惚れた女の一言にはな海坊主","Do you want to be weak
-A single word of a woman who is admired",0.10526315789473684
+A single word of a woman who is admired",0.10526315789473684,0.13714781
 Please protect her.\NI have confidence in your skills.,"彼女を守ってやってくれ
 お前の腕なら安心だ","Protect her
-Her your arms are safe",0.15384615384615385
-There's only one thing that worries me.\NThat's your vulgar proclivities.,退院まで３日 気がかりなのはただ１つ,It is only one thing that is three days to discharge,0.2222222222222222
-I'm telling you not to worry.\NI won't lay a finger on her.,わーってるってー 指一本触れませんよ,I will not touch one finger,0.16666666666666666
-"When it comes to helping out\Na first love, you can trust me.",初恋のお手伝い位真面目にやるって,Help Helping in the first love,0.17647058823529413
-That's some wind pressure.,あがっ すごい風圧…,Great wind pressure ...,0.25
-"So, you're Eriko?",そお あんたが江梨子さん,"Oh, Antiko Eriko",0.25
+Her your arms are safe",0.15384615384615385,0.6573485
+There's only one thing that worries me.\NThat's your vulgar proclivities.,退院まで３日 気がかりなのはただ１つ,It is only one thing that is three days to discharge,0.2222222222222222,0.1694435
+I'm telling you not to worry.\NI won't lay a finger on her.,わーってるってー 指一本触れませんよ,I will not touch one finger,0.16666666666666666,0.46600816
+"When it comes to helping out\Na first love, you can trust me.",初恋のお手伝い位真面目にやるって,Help Helping in the first love,0.17647058823529413,0.7243886
+That's some wind pressure.,あがっ すごい風圧…,Great wind pressure ...,0.25,0.7698034
+"So, you're Eriko?",そお あんたが江梨子さん,"Oh, Antiko Eriko",0.25,0.7463815
 It's entirely my fault that Umibozu\Ngot hurt like this.,"海坊主さんをあんな目に遭わせたのは
 私の責任です","I had such an eyebrow
-It was my fault",0.17647058823529413
-"You mean, you're saying\Nsomeone is after you?",冴羽さん… ですの？,... is it?,0.2
-Why?,なぜ？,why?,1.0
+It was my fault",0.17647058823529413,0.3027962
+"You mean, you're saying\Nsomeone is after you?",冴羽さん… ですの？,... is it?,0.2,0.28624266
+Why?,なぜ？,why?,1.0,0.99999994
 I found out that a politician and\Na commercial enterprise,"企業と政治家が裏で
 手を結んでいる事が分かったんです","Companies and politicians behind
-I understand that I was connected",0.125
-"A case of bribery involving a\Npublic official, that's bad news.",実は ある街の大規模な再開発計画で,"In fact, in a large-scale redevelopment plan of a city",0.15789473684210525
-"It would be nice if it worked\Nout that way, but...",そうなれたらいいと思うわ でも…,I think it would be good if it is ...,0.3333333333333333
-The place they've been using\Nfor their secret meetings,彼らが秘密の打ち合わせに使っているのが,They are using for a secret meeting,0.14285714285714285
+I understand that I was connected",0.125,0.48858184
+"A case of bribery involving a\Npublic official, that's bad news.",実は ある街の大規模な再開発計画で,"In fact, in a large-scale redevelopment plan of a city",0.15789473684210525,0.089534104
+"It would be nice if it worked\Nout that way, but...",そうなれたらいいと思うわ でも…,I think it would be good if it is ...,0.3333333333333333,0.30238166
+The place they've been using\Nfor their secret meetings,彼らが秘密の打ち合わせに使っているのが,They are using for a secret meeting,0.14285714285714285,0.74281913
 I was able to get a part-time job\Nthere as cover.,"ピアノに心得のある私は
 アルバイトとして潜り込みました","I have a good feeling in the piano
-I duberted as a part-time job",0.21052631578947367
-Mr. Saeba!,冴羽さん！,Mr. Suehira!,0.5
-"You're okay now, but it looks like\Nthey mean business.",だが どうやら奴等 本気らしいな,But apparently it seems to be serious,0.11764705882352941
-"You have a nice apartment. As long as\Nwe stay here, you'll be safe.",いい部屋だ ここにいる限りは安心だな,"It is a good room, as long as it is here",0.2631578947368421
-Who is he?,この人は？,this person is?,0.3333333333333333
-Fiancé?,お？,Oh?,0.3333333333333333
+I duberted as a part-time job",0.21052631578947367,0.4579081
+Mr. Saeba!,冴羽さん！,Mr. Suehira!,0.5,0.56251216
+"You're okay now, but it looks like\Nthey mean business.",だが どうやら奴等 本気らしいな,But apparently it seems to be serious,0.1176470588235294,0.21079117
+"You have a nice apartment. As long as\Nwe stay here, you'll be safe.",いい部屋だ ここにいる限りは安心だな,"It is a good room, as long as it is here",0.2631578947368421,0.52730954
+Who is he?,この人は？,this person is?,0.3333333333333333,0.3925724
+Fiancé?,お？,Oh?,0.3333333333333333,0.21545841
 He died about a month ago.\NHe suddenly collapsed and died.,"ひと月ほど前に亡くなりました
 突然倒れて","I died about a month ago
-Suddenly fall",0.38461538461538464
-I had no idea.,そうだったんだ…,Oh I see…,0.14285714285714285
-He was a reporter.,婚約者でした…,I was a fiancee ...,0.25
-"His strong sense of justice offended,",正義感の強い人でしたから,Because it was a strong sense of justice,0.36363636363636365
+Suddenly fall",0.38461538461538464,0.48183954
+I had no idea.,そうだったんだ…,Oh I see…,0.14285714285714285,0.27258056
+He was a reporter.,婚約者でした…,I was a fiancee ...,0.25,0.29222092
+"His strong sense of justice offended,",正義感の強い人でしたから,Because it was a strong sense of justice,0.3636363636363637,0.6420132
 he tried to get the proof he needed\Nto accuse the man publicly.,"何とか証拠を掴み
 マスコミに訴えようと…","Somehow grasp evidence
-Let's appeal to the media ...",0.10526315789473684
-"Finally one day he just\Ncollapsed, and...",とうとう倒れてしまって そのまま…,Finally falls down and it is ...,0.25
-"Only that it was like a hole had\Nopened in my heart,",ただ… 心の中にポッカリ穴が開いたようで…,Just ... It seems that the pockari hole opened in the heart ...,0.2777777777777778
-and if I didn't do something...,何かしなくては…,I have to do something ...,0.4
+Let's appeal to the media ...",0.10526315789473684,0.36306256
+"Finally one day he just\Ncollapsed, and...",とうとう倒れてしまって そのまま…,Finally falls down and it is ...,0.25,0.2959695
+"Only that it was like a hole had\Nopened in my heart,",ただ… 心の中にポッカリ穴が開いたようで…,Just ... It seems that the pockari hole opened in the heart ...,0.2777777777777778,0.53609884
+and if I didn't do something...,何かしなくては…,I have to do something ...,0.4,0.5128381
 somehow he would always\Nremain by my side.,"彼がまだ あたしのそばに
 ずっといてくれるような気がして…","He is still by my side
-I felt like it's always ...",0.23529411764705882
-"But now you find yourself\Nbeing targeted,",この事件を追っていれば,If you are following this case,0.08333333333333333
-and it's too late to stop.,手を引くにももう遅い…,It's too late to pull hands ...,0.45454545454545453
+I felt like it's always ...",0.2352941176470588,0.4735875
+"But now you find yourself\Nbeing targeted,",この事件を追っていれば,If you are following this case,0.08333333333333333,0.226387
+and it's too late to stop.,手を引くにももう遅い…,It's too late to pull hands ...,0.4545454545454545,0.5621736
 "I see. This person Eriko had\Nsomeone she was fond of,","へー 江梨子さんて人には
 そんな好きな人がいたんだ","Hi-さん 人
-There was a person who liked such a favorite",0.1
+There was a person who liked such a favorite",0.1,0.32837284
 How could she?! It's his first love\Nwe're talking about here!,"でなけりゃ はなからこの俺に
 女の口説き方ーなんて聞くかよ","If you're not
-Woman's orientation How to hear",0.14285714285714285
-First love?! You're kidding.,初恋？ まさか…,First love?Masaka ...,0.3
-Why else from the very start would he\Nbe asking for my advice on women?,それで海坊主さんにはその事を？,So what is the Me-san?,0.10526315789473684
-I see. You might just be right.,海坊主さん知ったらショックだろうなあ,I will be shock when I know Mr. Marie,0.14285714285714285
-"If Umibozu found out, it would\Nbe a shock for him.",そおか ひょっとしてそおかも…,"Oh, it's a good time ...",0.17647058823529413
-"Anyhow, in order to protect her,",ま とにかく 彼女の命を守るには,"Oh, to protect her life",0.4444444444444444
+Woman's orientation How to hear",0.14285714285714285,0.2046135
+First love?! You're kidding.,初恋？ まさか…,First love?Masaka ...,0.3,0.7153983
+Why else from the very start would he\Nbe asking for my advice on women?,それで海坊主さんにはその事を？,So what is the Me-san?,0.10526315789473684,-0.0011725351
+I see. You might just be right.,海坊主さん知ったらショックだろうなあ,I will be shock when I know Mr. Marie,0.14285714285714285,0.08012506
+"If Umibozu found out, it would\Nbe a shock for him.",そおか ひょっとしてそおかも…,"Oh, it's a good time ...",0.17647058823529413,0.14863658
+"Anyhow, in order to protect her,",ま とにかく 彼女の命を守るには,"Oh, to protect her life",0.4444444444444444,0.7524158
 "we have no choice but to get some\Nsolid evidence to use against them,","確実な証拠を握って
 こっちの武器にするしかないんだ","Holding solid evidence
-I have no choice but to be a weapon",0.3157894736842105
-and that's all there is to it.,今となってはなあ,Now it's now,0.2
-I'm so sorry.,あ し 失礼致しました,I'm sorry,0.6
+I have no choice but to be a weapon",0.3157894736842105,0.5305476
+and that's all there is to it.,今となってはなあ,Now it's now,0.2,0.21874791
+I'm so sorry.,あ し 失礼致しました,I'm sorry,0.6,0.7500814
 What do you want? Don't visit me.\NTake care of her.,"ふん 何しに来た
 俺の見舞いより彼女を守ってろ","What came for
-Protect her girlfriend than her greetings",0.1111111111111111
+Protect her girlfriend than her greetings",0.1111111111111111,0.32851714
 Don't worry about that.\NBut I do have an apology to make.,"心配するな それより お前に
 謝らなくっちゃならなくってな","Don't worry than that
-I can not apologize",0.23529411764705882
-Apology?,謝る？,apologize?,0.3333333333333333
-The truth is...,き 貴様ぁ…,Koi ...,0.2
+I can not apologize",0.2352941176470588,0.78139555
+Apology?,謝る？,apologize?,0.3333333333333333,0.9249865
+The truth is...,き 貴様ぁ…,Koi ...,0.2,0.2477381
 "It's all up to her heart whether she\Nchooses you or me, right?","俺を選ぶかお前にするかは
 全て 彼女の心次第だろ？","Do you choose me?
-Everything depends on her mind?",0.19047619047619047
+Everything depends on her mind?",0.19047619047619047,0.54894793
 See you. I'm taking Eriko for a drive\Nto Lzu-Kogen tomorrow morning.,"俺は明日の朝 江梨子さんと
 伊豆高原までドライブなんでな","I will be tomorrow morning
-I'm a drive to Izu Kogen",0.2631578947368421
-A drive?,んっ？ ドライブ？,?drive?,0.6666666666666666
-It's not like you to be lying in bed\Nforever over such a little scratch.,その程度の傷で,It is a scratch to that extent,0.21052631578947367
+I'm a drive to Izu Kogen",0.2631578947368421,0.65776837
+A drive?,んっ？ ドライブ？,?drive?,0.6666666666666666,0.7794384
+It's not like you to be lying in bed\Nforever over such a little scratch.,その程度の傷で,It is a scratch to that extent,0.21052631578947367,0.6568216
 How did you find out the CEO invited\Nthat politician to play golf?,"社長が代議士をゴルフに招待って…
 そんな情報をどこで…","President invites a reconsider to golf ...
-Where to do such information ...",0.09090909090909091
-"Oh, I just know.\NSee, this kind of thing is our specialty.",俺達って… 海坊主さんの事？,I reach ... What is the main thing of Motoso?,0.2
-"Right, Umibozu just might show up too.",そっ あいつも駆けつけて来るかもな,It might be rushing to run,0.07142857142857142
+Where to do such information ...",0.09090909090909093,0.6720592
+"Oh, I just know.\NSee, this kind of thing is our specialty.",俺達って… 海坊主さんの事？,I reach ... What is the main thing of Motoso?,0.2,0.22190484
+"Right, Umibozu just might show up too.",そっ あいつも駆けつけて来るかもな,It might be rushing to run,0.07142857142857142,0.2269139
 A man will risk his life for\Nthe woman he loves.,"男はね 好きな女のためなら
 命も賭けるのさ","Man is for a favorite woman
-Life also betting",0.25
+Life also betting",0.25,0.5988206
 Didn't you get a present or\Nsomething from him?,"あんた 奴にプレゼントか何か
 もらってないの？","What is the present or something?
-Do you not get it?",0.2222222222222222
-A present?,プレ… ゼント…？,Present…?,0.25
-Umibozu... With me?,海坊主さんが… 私の事…,Meboto-san ... me ...,0.3333333333333333
+Do you not get it?",0.2222222222222222,0.41829047
+A present?,プレ… ゼント…？,Present…?,0.25,0.77616084
+Umibozu... With me?,海坊主さんが… 私の事…,Meboto-san ... me ...,0.3333333333333333,0.3203727
 it'll mean he left the hospital and\Ncame running despite his injury.,"もし現れたとしたら
 そんな怪我人が病院を抜け出して来るんだ","If it appeared
-Such injuries will come out of the hospital",0.14285714285714285
-Look at that.,あれだ…,That's why ...,0.14285714285714285
-Allow me to take this opportunity to\Nthank you for your cooperation.,これを機会に 今後ともひとつよろしく,It is only one one in the future for this,0.10526315789473684
+Such injuries will come out of the hospital",0.14285714285714285,0.6013858
+Look at that.,あれだ…,That's why ...,0.14285714285714285,0.3575955
+Allow me to take this opportunity to\Nthank you for your cooperation.,これを機会に 今後ともひとつよろしく,It is only one one in the future for this,0.10526315789473684,0.2341072
 Leave it to me.,"あんた等の密約は
 しっかりこのテープに録ってあるってわけさ","Dones such as
-It is hard to record on this tape",0.14285714285714285
+It is hard to record on this tape",0.14285714285714285,0.13746803
 A firm will be designated\Nat my discretion.,"任せておきたまえ 業者の指名など
 私の一存でどうにでもなる","Leave the company's nomination of the vendor
-It will be my best",0.17647058823529413
-What do you plan to do\Nwith that tape?,君 そのテープをどうするつもりだ？,What are you going to do that tape?,0.6363636363636364
-"If for example, I turn it over\Nto a newspaper,",さあな 例えば新聞社にでも渡せば,"Somehow, for example, if it is passed by a newspaper company",0.4666666666666667
-"No, wait! We can't have that!",まっ 待て 君 それは困る！,Wait and you are troubled!,0.15384615384615385
+It will be my best",0.17647058823529413,0.42561203
+What do you plan to do\Nwith that tape?,君 そのテープをどうするつもりだ？,What are you going to do that tape?,0.6363636363636364,0.9084629
+"If for example, I turn it over\Nto a newspaper,",さあな 例えば新聞社にでも渡せば,"Somehow, for example, if it is passed by a newspaper company",0.4666666666666667,0.41322082
+"No, wait! We can't have that!",まっ 待て 君 それは困る！,Wait and you are troubled!,0.15384615384615385,0.22623987
 "Okay, toss it over here slowly.","-さあゆっくり こっちに投げるんだ
 -えっ","-So Yuri I throw it here
--eh",0.15384615384615385
+-eh",0.15384615384615385,0.4154632
 It's not my place here to tell you\Nhow to manage your affairs.,"あんた等のやっている事に
 とやかく言える立場じゃないが","To be doing it
-It is not a position that can be said",0.14285714285714285
+It is not a position that can be said",0.14285714285714285,0.26805323
 All I care about is protecting\Nthe life of one young girl.,"俺としてはひとりの女の命を
 守りたいだけさ","As me, one woman's life
-I just want to protect",0.14285714285714285
+I just want to protect",0.14285714285714285,0.5438578
 Is this the girl you're talking about?,"ええっ その女ってのは
 ここにいる姉ちゃんの事かい？","Yeah the woman
-Do you have an older sister here?",0.17647058823529413
-Saeba!,そこまでだ！ 兄さん,It is so far!Elder brother,0.125
-"You, call the police.",おい 警察を呼べ,Call the police,0.5
-Stop! Stop! Mercy! Mercy!,ふっ！,Fuck!,0.25
-"Umibozu, what about your wound?",海坊主さん 怪我は？,What is the Maineo's injury?,0.16666666666666666
-"Don't worry. It wasn't that bad\Nto begin with, at least for me.",気にしなくていい,do not worry about,0.11764705882352941
+Do you have an older sister here?",0.17647058823529413,0.3965801
+Saeba!,そこまでだ！ 兄さん,It is so far!Elder brother,0.125,0.17711955
+"You, call the police.",おい 警察を呼べ,Call the police,0.5,0.89917076
+Stop! Stop! Mercy! Mercy!,ふっ！,Fuck!,0.25,0.20596294
+"Umibozu, what about your wound?",海坊主さん 怪我は？,What is the Maineo's injury?,0.16666666666666666,0.35556468
+"Don't worry. It wasn't that bad\Nto begin with, at least for me.",気にしなくていい,do not worry about,0.1176470588235294,0.39601415
 "Well, what should we do\Nwith these guys?","さてと こいつらの始末を
 どうするかなぁ？","By the way, the start of these guys
-What do you do?",0.3125
+What do you do?",0.3125,0.64955527
 "Give me the tape, please.\NI'll pay whatever you ask,","テープを返してくれ
 金ならいくらでも出す","Return the tape
-If money, it will come out",0.16666666666666666
-"Please, I'm begging you!",ふん 余計な気を遣いやがって,I'm going to feel like my faint,0.15384615384615385
+If money, it will come out",0.16666666666666666,0.5755316
+"Please, I'm begging you!",ふん 余計な気を遣いやがって,I'm going to feel like my faint,0.15384615384615385,0.16547492
 "Sorry, but I don't trust you.\NWe'll just hold onto the tape.","悪いが信用出来ねえな
 テープは俺達が預かっておく","It's bad but I can trust
-Tape will keep us",0.18181818181818182
-What?! City Hunter and Umibozu!,シティーハンターと海坊主の事を,City hunter and Marie Lord,0.3333333333333333
+Tape will keep us",0.18181818181818185,0.6356058
+What?! City Hunter and Umibozu!,シティーハンターと海坊主の事を,City hunter and Marie Lord,0.3333333333333333,0.51222134
 you would do well to never\Nbother her again.,"まあこれからは
 商売はフェアにやるこった","Well now
-The business went to the fair",0.14285714285714285
+The business went to the fair",0.14285714285714285,0.13582635
 "After I visit my fiancé’s grave,\NI'll be leaving Japan for a while.","彼のお墓にお参りしたら
 しばらく日本を離れます","If you visit his grave
-I will leave Japan for a while",0.30434782608695654
-I'm sorry.\NI'm not ready to let him go yet.,ごめんなさい 私 今はまだ彼の事…,I'm sorry I'm still him yet ...,0.2857142857142857
-"The ship's leaving, go on.",船が出る 早く行きな,The ship goes out early,0.18181818181818182
-What is it?,なあに？ それ,What is it?that,0.8
+I will leave Japan for a while",0.3043478260869565,0.74732435
+I'm sorry.\NI'm not ready to let him go yet.,ごめんなさい 私 今はまだ彼の事…,I'm sorry I'm still him yet ...,0.2857142857142857,0.66337574
+"The ship's leaving, go on.",船が出る 早く行きな,The ship goes out early,0.18181818181818185,0.6989872
+What is it?,なあに？ それ,What is it?that,0.8,0.7546271
 It's her gift.\NShe asked me to give it to Umibozu.,"彼女からのプレゼント
 海坊主に渡してくれってな","Present from her
-Don't give me to the Marie",0.25
+Don't give me to the Marie",0.25,0.5133679
 I'm a confirmed bachelor!\NThis has to be a mistake!,"パパだなんて勘弁してくれよ
 俺は花の独身だぜ？","Please forgive me that it is dad
-I'm a single flower?",0.14285714285714285
+I'm a single flower?",0.14285714285714285,0.22600822
 "So, who is this little girl, then?\NShe keeps calling you Papa!","じゃあこの子は何なのよ？
 リョウをパパって呼んでんじゃん","Well then what is this girl?
-Call Ryo Papa",0.3157894736842105
-The zoo?! How did you\Ncome up with that?!,だから 動物園行こ？,So the zoo?,0.2727272727272727
-"Oh, man, I'm ready to meet\Nthat mother of hers.",あーあ 早く本物のママに会いたいよぉ,"Oh, I want to see the real mom quickly",0.2222222222222222
-"City Hunter: ""Shock! Ryo's a Papa -\NDon't Wake that Sleeping Child""",シティーハンター,city Hunter,0.11764705882352941
+Call Ryo Papa",0.3157894736842105,0.7070109
+The zoo?! How did you\Ncome up with that?!,だから 動物園行こ？,So the zoo?,0.2727272727272727,0.6744056
+"Oh, man, I'm ready to meet\Nthat mother of hers.",あーあ 早く本物のママに会いたいよぉ,"Oh, I want to see the real mom quickly",0.2222222222222222,0.638958
+"City Hunter: ""Shock! Ryo's a Papa -\NDon't Wake that Sleeping Child""",シティーハンター,city Hunter,0.1176470588235294,0.55747116

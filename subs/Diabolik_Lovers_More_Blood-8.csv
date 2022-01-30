@@ -1,44 +1,44 @@
-en_text,jp_text,google_translated,score
-Yuma-kun! That's mine!,{\blur2}そうだっけ,That's right,0.3333333333333333
-It's three per person! \NThat's your fourth one!,{\blur2}一人三つだ  てめえは四つ目だろうが,"One person is three, but it will be the fourth",0.3125
-What? Really?,{\blur2}あれ　ルキくんは？,What is it?,0.4
-Um... There are more...,{\blur2}あ　あの まだあるから,Because there is still,0.125
-I did... but he said he didn't want any...,{\blur2}声掛けたんだけど,I was talking about,0.08333333333333333
-"Yeah, he has.",{\blur2}ああ　確かにな,"Oh, certainly",0.14285714285714285
-Come.,{\blur2}来い,come,0.5
-Where are we going?,{\blur2}どこに,Where,0.2
-Shut up!,{\blur2}黙れ,shut up,0.6666666666666666
-You're staying here for a while.,{\blur2}しばらくここにいろ,for a while here,0.5
-Here?,{\blur2}ここに？,Here?,1.0
-"Why? What's going on, Ruki-kun?",{\blur2}どうして,Why,0.125
-Ruki-kun...,{\blur2}ルキ…くん,Ruki ... Kun,0.25
-This is how livestock should be treated.,{\blur2}これが家畜の本来あるべき姿だ,This is the original figure of the livestock,0.25
-"From now on, we demand even more of her blood.",{\blur2}これからは　さらに血を求めるんだ,I will seek further blood from now on,0.25
-In order to be Adam.,{\blur2}アダムになるために,To become Adam,0.2857142857142857
-How long are you going to keep our \Nmasochistic kitten locked in there?,{\blur2}いつまでエム猫ちゃんを閉じ込めておくつもり,I'm going to close the M Cats forever,0.09523809523809523
-It's already been a week.,{\blur2}もう一週間だよ,It is another week,0.2222222222222222
-Prey does not need freedom.,{\blur2}餌に自由などいらない,Do not eat freedom for food,0.2
-"Even so, you can't just \Nkeep her locked up forever.",{\blur2}だからって　いつまでも閉じ込めておくわけにはいかねぇだろ,"It's , so I can not but close it forever",0.15
-Did you forget the promise we made with him?,{\blur2}あの方との約束を,promise with that person,0.16666666666666666
-We must become Adam.,{\blur2}俺たちが　アダムにならなければいけないんだ,We have to be Adam,0.25
-"If Eve is gone,",{\blur2}イブが　いなくなったら　ルキも　困るでしょう,"If there is no Eve, Ruki will also be troubled",0.3333333333333333
-He's getting ahead of things.,{\blur2}一人先走ちゃって,I'm going ahead,0.1
-Why did this happen?,{\blur2}何で　こんなことに…,What is this?,0.2857142857142857
-"I finally found you, Pancake.",{\blur2}ようやく見つけたぜ　チチナシ,finally found Titinashi,0.25
-Ayato-kun?! Why are you here?,{\blur2}お前は俺様だけの餌だ,You are only the bait of me,0.16666666666666666
-"W-Wait, Ayato-kun.",{\blur2}待って　アヤトくん,Wait Ayat,0.0
-Have you been tamed by those guys?!,{\blur2}お前　あいつらに飼い慣らされちまったのか,Have you been inevitable in accustomed to them,0.21428571428571427
-"You're my prey, and mine alone!",{\blur2}ったく　手間かけさせやがって,Take time and effort,0.08333333333333333
-Why didn't you stop him?!,{\blur2}何で止めなかったの,I did not stop by,0.18181818181818182
-There's no need.,{\blur2}行く必要はない,There is no need to go,0.375
-What do you mean?,{\blur2}追いかけなくていいのかよ,Do you have to chase,0.25
-This doesn't make any sense.,{\blur2}訳わかんねぇ,translation,0.0
-"I don't get it, either.",{\blur2}おれも分かんないよ,I do not know,0.2
-If we don't have Eve...,{\blur2}イブがいないと　俺たち,"If there is no  Eve, we",0.2727272727272727
-Um...,{\blur2}あの…,That ...,0.3333333333333333
-What the hell is this?,{\blur2}何だよ　これ,What is this,0.5
-How much blood did you let them take?!,{\blur2}お前　あいつらにどれだけ吸わせたんだよ,How much did you smoke as you guys,0.3076923076923077
-You belong to me.,{\blur2}お前は俺様のもんだ,You are my mom,0.125
-Ayato-kun...,{\blur2}アヤト…くん,Ayat ...,0.3333333333333333
-I'll keep carving it on your \Nbody so you won't forget.,{\blur2}忘れられねぇように,I can forget it,0.2
-It's time for your punishment. \NOffer your blood.,{\blur2}お仕置きです,It is the punishment,0.18181818181818182
+en_text,jp_text,google_translated,score,semantic_score
+Yuma-kun! That's mine!,{\blur2}そうだっけ,That's right,0.3333333333333333,0.051520284
+It's three per person! \NThat's your fourth one!,{\blur2}一人三つだ  てめえは四つ目だろうが,"One person is three, but it will be the fourth",0.3125,0.7676405
+What? Really?,{\blur2}あれ　ルキくんは？,What is it?,0.4,0.2584594
+Um... There are more...,{\blur2}あ　あの まだあるから,Because there is still,0.125,0.4117904
+I did... but he said he didn't want any...,{\blur2}声掛けたんだけど,I was talking about,0.08333333333333333,0.18281266
+"Yeah, he has.",{\blur2}ああ　確かにな,"Oh, certainly",0.14285714285714285,0.29503232
+Come.,{\blur2}来い,come,0.5,0.8362105
+Where are we going?,{\blur2}どこに,Where,0.2,0.42603797
+Shut up!,{\blur2}黙れ,shut up,0.6666666666666666,0.8800726
+You're staying here for a while.,{\blur2}しばらくここにいろ,for a while here,0.5,0.58319616
+Here?,{\blur2}ここに？,Here?,1.0,1.0000002
+"Why? What's going on, Ruki-kun?",{\blur2}どうして,Why,0.125,0.28803432
+Ruki-kun...,{\blur2}ルキ…くん,Ruki ... Kun,0.25,0.94602597
+This is how livestock should be treated.,{\blur2}これが家畜の本来あるべき姿だ,This is the original figure of the livestock,0.25,0.56921124
+"From now on, we demand even more of her blood.",{\blur2}これからは　さらに血を求めるんだ,I will seek further blood from now on,0.25,0.6459743
+In order to be Adam.,{\blur2}アダムになるために,To become Adam,0.2857142857142857,0.8508223
+How long are you going to keep our \Nmasochistic kitten locked in there?,{\blur2}いつまでエム猫ちゃんを閉じ込めておくつもり,I'm going to close the M Cats forever,0.09523809523809523,0.5058722
+It's already been a week.,{\blur2}もう一週間だよ,It is another week,0.2222222222222222,0.7255744
+Prey does not need freedom.,{\blur2}餌に自由などいらない,Do not eat freedom for food,0.2,0.5188588
+"Even so, you can't just \Nkeep her locked up forever.",{\blur2}だからって　いつまでも閉じ込めておくわけにはいかねぇだろ,"It's , so I can not but close it forever",0.15,0.2883581
+Did you forget the promise we made with him?,{\blur2}あの方との約束を,promise with that person,0.16666666666666666,0.48606396
+We must become Adam.,{\blur2}俺たちが　アダムにならなければいけないんだ,We have to be Adam,0.25,0.8509416
+"If Eve is gone,",{\blur2}イブが　いなくなったら　ルキも　困るでしょう,"If there is no Eve, Ruki will also be troubled",0.3333333333333333,0.6199519
+He's getting ahead of things.,{\blur2}一人先走ちゃって,I'm going ahead,0.1,0.42613274
+Why did this happen?,{\blur2}何で　こんなことに…,What is this?,0.2857142857142857,0.3259648
+"I finally found you, Pancake.",{\blur2}ようやく見つけたぜ　チチナシ,finally found Titinashi,0.25,0.28039658
+Ayato-kun?! Why are you here?,{\blur2}お前は俺様だけの餌だ,You are only the bait of me,0.16666666666666666,0.13513361
+"W-Wait, Ayato-kun.",{\blur2}待って　アヤトくん,Wait Ayat,0.0,0.6928053
+Have you been tamed by those guys?!,{\blur2}お前　あいつらに飼い慣らされちまったのか,Have you been inevitable in accustomed to them,0.21428571428571427,0.4359026
+"You're my prey, and mine alone!",{\blur2}ったく　手間かけさせやがって,Take time and effort,0.08333333333333333,0.15475108
+Why didn't you stop him?!,{\blur2}何で止めなかったの,I did not stop by,0.18181818181818185,0.51544094
+There's no need.,{\blur2}行く必要はない,There is no need to go,0.375,0.6432741
+What do you mean?,{\blur2}追いかけなくていいのかよ,Do you have to chase,0.25,0.062013768
+This doesn't make any sense.,{\blur2}訳わかんねぇ,translation,0.0,0.20729008
+"I don't get it, either.",{\blur2}おれも分かんないよ,I do not know,0.2,0.16688532
+If we don't have Eve...,{\blur2}イブがいないと　俺たち,"If there is no  Eve, we",0.2727272727272727,0.89482063
+Um...,{\blur2}あの…,That ...,0.3333333333333333,0.4821136
+What the hell is this?,{\blur2}何だよ　これ,What is this,0.5,0.5027251
+How much blood did you let them take?!,{\blur2}お前　あいつらにどれだけ吸わせたんだよ,How much did you smoke as you guys,0.3076923076923077,0.41896468
+You belong to me.,{\blur2}お前は俺様のもんだ,You are my mom,0.125,0.28329483
+Ayato-kun...,{\blur2}アヤト…くん,Ayat ...,0.3333333333333333,0.8056675
+I'll keep carving it on your \Nbody so you won't forget.,{\blur2}忘れられねぇように,I can forget it,0.2,0.44708547
+It's time for your punishment. \NOffer your blood.,{\blur2}お仕置きです,It is the punishment,0.18181818181818185,0.5798739

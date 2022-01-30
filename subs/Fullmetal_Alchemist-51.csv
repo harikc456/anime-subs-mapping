@@ -1,345 +1,345 @@
-en_text,jp_text,google_translated,score
-Brother?,兄さん？,Brother?,1.0
-Ed!,エド！,Ed!,1.0
-Brother! Brother!,兄さん… 兄さん！,Brother ... brother!,0.6666666666666666
-Dead?,死んだ？,Did you die?,0.2
+en_text,jp_text,google_translated,score,semantic_score
+Brother?,兄さん？,Brother?,1.0,1.0
+Ed!,エド！,Ed!,1.0,0.9999998
+Brother! Brother!,兄さん… 兄さん！,Brother ... brother!,0.6666666666666666,0.91768277
+Dead?,死んだ？,Did you die?,0.2,0.5613664
 "Brother can't die! That's not right!
 Brother... Brother!","兄さんは死なない…
 そんなのおかしい","My brother does not die ...
-That funny",0.38461538461538464
+That funny",0.38461538461538464,0.6850989
 "This is real life.
-Perhaps he just hadn't paid enough.",これが現実よ,This is a reality,0.14285714285714285
+Perhaps he just hadn't paid enough.",これが現実よ,This is a reality,0.14285714285714285,0.33037695
 "We always come just a
 little short of the price.","いつだって
 代価は少し足りないもの","always
-Price is a bit enough",0.21428571428571427
-"Hey, are you all right!?",おい！ 大丈夫か？,Oi!Are you okay?,0.4
-Col. Archer!,アーチャー大佐！,Archer Colonel!,0.5
-I need to use that car.,あの車 借りるぞ,I will borrow that car,0.3333333333333333
+Price is a bit enough",0.21428571428571427,0.4760462
+"Hey, are you all right!?",おい！ 大丈夫か？,Oi!Are you okay?,0.4,0.43881324
+Col. Archer!,アーチャー大佐！,Archer Colonel!,0.5,0.853622
+I need to use that car.,あの車 借りるぞ,I will borrow that car,0.3333333333333333,0.60023487
 "That was a misunderstanding.
 It was just Lt. Hawkeye there.","大総統のお宅だ
 賊が侵入したのだろう","It is a great residence
-There will be noble",0.1875
-Hawkeye?,ホークアイ？,Hawkeye?,1.0
-What is she doing here!?,なんで ここにいる！,Why is here!,0.375
-Please stop!,おやめください！,Please stop!,1.0
+There will be noble",0.1875,0.08026673
+Hawkeye?,ホークアイ？,Hawkeye?,1.0,1.0000002
+What is she doing here!?,なんで ここにいる！,Why is here!,0.375,0.3466247
+Please stop!,おやめください！,Please stop!,1.0,1.0
 "The Fuhrer ordered us to
 question her at the command center!","大総統から
 司令部で取り調べると…","From Ohachi
-When I check in the command part ...",0.10526315789473684
-What are you guys plotting!?,貴様 何をたくらんだ！ ああ？,Noble What's up!Ah?,0.2727272727272727
+When I check in the command part ...",0.10526315789473684,0.14790538
+What are you guys plotting!?,貴様 何をたくらんだ！ ああ？,Noble What's up!Ah?,0.2727272727272727,0.269839
 "Colonel! Colonel!
 Please calm down, Colonel!","邪魔だ どけ！
 大佐！","Overling!
-Colonel!",0.2857142857142857
+Colonel!",0.2857142857142857,0.68887025
 "I was a little curious what would
-happen if my whole body were to explode.",少し興味はあったが…,I was a little interested ...,0.2222222222222222
+happen if my whole body were to explode.",少し興味はあったが…,I was a little interested ...,0.2222222222222222,0.16466257
 "Is that how badly you
 want to become the Fuhrer?","そんなに
 大総統になりたかったかね？","so much
-Did you want to be a major governor?",0.2222222222222222
+Did you want to be a major governor?",0.2222222222222222,0.3737148
 "But you should have
 spent more time on this.","だが それなら
 時間をかけるべきだったな","But then
-I should have spent time",0.4166666666666667
-after attempting assassination.,暗殺の実行犯では,In the assassination executive,0.14285714285714285
+I should have spent time",0.4166666666666667,0.73225653
+after attempting assassination.,暗殺の実行犯では,In the assassination executive,0.14285714285714285,0.6264633
 "I just can't forgive myself
 for acting like such a fool.","私は
 自分のマヌケぶりが許せないだけだ","I am
-I just can not forgive my own manke",0.15789473684210525
+I just can not forgive my own manke",0.15789473684210525,0.60975635
 "This is the only way I can
 make amends to dead friends.","そのために死んだ友にわびるには
 これしかない","To the friend who died for that
-only this one",0.21052631578947367
-Father!,お父様！,father!,1.0
-Not to worry. I caught the rebel.,心配ない 賊は捕まえた,I can't worry I caught,0.3
+only this one",0.21052631578947367,0.5623941
+Father!,お父様！,father!,1.0,1.0000004
+Not to worry. I caught the rebel.,心配ない 賊は捕まえた,I can't worry I caught,0.3,0.54467237
 "...I wanted to pay you back
 for looking after me.","でも 僕を引き取ってくれた
 そのご恩に報いたいんです","But I took me me
-I would like to reward that",0.16666666666666666
+I would like to reward that",0.16666666666666666,0.36000034
 "This is one of the humans
 that you said were foolish.","これが…
 お前が愚かだと言った人間だ","This is…
-It is a person who said that you are foolish",0.3333333333333333
-What have you done!?,どうしました？ お父様！,What's wrong? father!,0.3333333333333333
+It is a person who said that you are foolish",0.3333333333333333,0.6253996
+What have you done!?,どうしました？ お父様！,What's wrong? father!,0.3333333333333333,0.27668688
 Um... I took this out of the safe.,"あっ あの…
 金庫から出してきました","That's ...
-I came out of the safe",0.46153846153846156
-Father...,お… とうさ…,... ...,0.5
-King Bradley...,キング･ブラッドレイ,King Bradley,0.6666666666666666
-How many times do I have to kill you...,あなたは何度 殺せば…,If you kill many times ...,0.45454545454545453
-...before you die?,死ぬのかな,Do you die?,0.5
-Stop!,うおおおお！,Uo!,0.3333333333333333
-What? What has he done?,何？ 何をしたの？,what?what did you do?,0.25
+I came out of the safe",0.4615384615384616,0.8051141
+Father...,お… とうさ…,... ...,0.5,0.37258968
+King Bradley...,キング･ブラッドレイ,King Bradley,0.6666666666666666,0.9395808
+How many times do I have to kill you...,あなたは何度 殺せば…,If you kill many times ...,0.4545454545454545,0.7331043
+...before you die?,死ぬのかな,Do you die?,0.5,0.5243691
+Stop!,うおおおお！,Uo!,0.3333333333333333,0.38457617
+What? What has he done?,何？ 何をしたの？,what?what did you do?,0.25,0.5894839
 That much more has been lost!,"錬金術はいけないと言ったのに
 また そんなに減って","I said that there should be alchemy
-She also decreases so much",0.11764705882352941
-Do not touch me!,僕に触るな,Don't touch me,0.5
-What do you think you're doing?,何をするつもり？,what do you plan to do?,0.4444444444444444
-Brother is not dead yet.,兄さんは まだ死んじゃいない,My brother is not dead yet,0.7142857142857143
+She also decreases so much",0.1176470588235294,0.1662894
+Do not touch me!,僕に触るな,Don't touch me,0.5,0.87313604
+What do you think you're doing?,何をするつもり？,what do you plan to do?,0.4444444444444444,0.59140766
+Brother is not dead yet.,兄さんは まだ死んじゃいない,My brother is not dead yet,0.7142857142857143,0.8676203
 "His soul is still inside the gate. All I
-have to do is bring it back from there.",魂は まだ門の中にある,The soul is still in the gate,0.2631578947368421
+have to do is bring it back from there.",魂は まだ門の中にある,The soul is still in the gate,0.2631578947368421,0.8247463
 Don't! If you do that...,"やめなさい！
 そんなことをしたら…","stop it!
-If you do such a thing ...",0.4166666666666667
-I...,僕は！,I!,0.3333333333333333
+If you do such a thing ...",0.4166666666666667,0.5590305
+I...,僕は！,I!,0.3333333333333333,0.5722543
 because of the sacrifices of many.,"多くの犠牲のおかげで
 賢者の石になった","Thanks to many sacrifices
-It became a stone of a sage",0.23076923076923078
+It became a stone of a sage",0.2307692307692308,0.5578712
 "No, I might have died back
 on that day to begin with.","いや… もともと僕は
 あの日 死んでいたのかもしれない","No ... Originally I
-That day I may have been dead",0.2631578947368421
-Al...,アル…,Al ...,1.0
-Brother...,兄さん…,Brother ...,1.0
-Colonel! Colonel! Colonel!,大佐… 大佐！,Colonel ... Colonel!,0.6666666666666666
-Roy Mustang!,大佐！ ロイ･マスタング！,Colonel!Roy Mustang!,0.75
-Al?,アル？,Al?,1.0
-W- what is this!?,な… 何だ？,... What?,0.2857142857142857
-Where are we!?,どこにつながっている？,Where are you connected?,0.42857142857142855
-The gate.,門だ,In the gate,0.5
+That day I may have been dead",0.2631578947368421,0.86700606
+Al...,アル…,Al ...,1.0,0.9999998
+Brother...,兄さん…,Brother ...,1.0,1.0000005
+Colonel! Colonel! Colonel!,大佐… 大佐！,Colonel ... Colonel!,0.6666666666666666,0.96493304
+Roy Mustang!,大佐！ ロイ･マスタング！,Colonel!Roy Mustang!,0.75,0.8494375
+Al?,アル？,Al?,1.0,1.0
+W- what is this!?,な… 何だ？,... What?,0.2857142857142857,0.12654011
+Where are we!?,どこにつながっている？,Where are you connected?,0.42857142857142855,0.4734566
+The gate.,門だ,In the gate,0.5,0.82980484
 "As I remember, it went to a city
-called London when I passed through it.",ロンドンとかいう街だったな,It was a city called London,0.3125
-Pop!? You mean Hohenheim of Light!?,光のホーエンハイムのことか！,Is it about Hohenheim of light!,0.36363636363636365
-Then he's still alive!,ヤツは まだ生きているんだな！,The guy is still alive!,0.3333333333333333
+called London when I passed through it.",ロンドンとかいう街だったな,It was a city called London,0.3125,0.73315996
+Pop!? You mean Hohenheim of Light!?,光のホーエンハイムのことか！,Is it about Hohenheim of light!,0.3636363636363637,0.727777
+Then he's still alive!,ヤツは まだ生きているんだな！,The guy is still alive!,0.3333333333333333,0.71567374
 Take me to where Hohenheim is!,"連れていけ！
 ホーエンハイムの所へ","Take it!
-To Hohenheim",0.5
-Don't interfere!,邪魔するな！,Don't disturb!,0.6
-I'm going there!,僕は行くんだ,I'm going,0.6
-The place where he is!,父さんの所に！,At the father!,0.25
-Ed... are you alive?,エド… 生きてるの？,Ed ... Are you living?,0.7142857142857143
-Yeah...,なんで 涙が…,Why tears ...,0.25
-Huh?,あれ？,that?,0.3333333333333333
-Al transmuted you... your dead body...,死んだあなたを…,You're dead ...,0.375
+To Hohenheim",0.5,0.89627606
+Don't interfere!,邪魔するな！,Don't disturb!,0.6,0.5265165
+I'm going there!,僕は行くんだ,I'm going,0.6,0.67308784
+The place where he is!,父さんの所に！,At the father!,0.25,0.54060644
+Ed... are you alive?,エド… 生きてるの？,Ed ... Are you living?,0.7142857142857143,0.8487991
+Yeah...,なんで 涙が…,Why tears ...,0.25,0.18616568
+Huh?,あれ？,that?,0.3333333333333333,0.6348127
+Al transmuted you... your dead body...,死んだあなたを…,You're dead ...,0.375,0.30568692
 "He used the Philosopher's Stone
 to restore my body and soul?","賢者の石で
 魂と肉体を復活させた？","With the sage stone
-Did you revive your soul and your body?",0.3157894736842105
-Are you telling me that Al is gone?,アルが… 消えたっていうのか？,Is Al ...?,0.3
-Al!!,アル！,Al!,1.0
+Did you revive your soul and your body?",0.3157894736842105,0.72911245
+Are you telling me that Al is gone?,アルが… 消えたっていうのか？,Is Al ...?,0.3,0.74460244
+Al!!,アル！,Al!,1.0,0.9652592
 "How could I lose the Philosopher's Stone,
 in the state I'm in?","こんな状態なのに
 賢者の石をなくしてしまうなんて","I like this
-I wonder if the sage's stone is lost",0.2
+I wonder if the sage's stone is lost",0.2,0.5257913
 Gluttony? What are you doing here?,"グラトニー
 何をしてるの？ こんな所で","Gratony
-What are you doing?In such a place",0.4166666666666667
+What are you doing?In such a place",0.4166666666666667,0.40122825
 "You must be hungry. Wait!
 You recognize me, don't you!?","待ちなさい
 分かるでしょ？ 私が…","Wait
-Do you understand?I…",0.26666666666666666
-Hurry and get going.,早く行け,Go quickly,0.0
+Do you understand?I…",0.26666666666666666,0.20176813
+Hurry and get going.,早く行け,Go quickly,0.0,0.66585606
 "I hate to ask,
 but can you take him, too?","そうね あなたも１人で
 あとから来られるわね","Yes you too
-I will come later",0.1875
-"What about you, Ed?",エドは？,What is Ed?,0.42857142857142855
-"I'm going to destroy this place,",俺は ここを破壊していく,I will destroy here,0.2
-"If what Pop said is true,",親父の言ったことが確かなら,If it is true that my father said,0.36363636363636365
+I will come later",0.1875,0.19111721
+"What about you, Ed?",エドは？,What is Ed?,0.42857142857142855,0.59186524
+"I'm going to destroy this place,",俺は ここを破壊していく,I will destroy here,0.2,0.7315341
+"If what Pop said is true,",親父の言ったことが確かなら,If it is true that my father said,0.3636363636363637,0.522489
 "then right now, Al's body
 and soul are inside the gate.","今なら
 アルの肉体も魂も 門の内側にある","now
-Al's body and soul are inside the gate",0.7142857142857143
-There can be no other price for a life.,命の対価は ほかにない,There is no other consideration for life,0.4166666666666667
+Al's body and soul are inside the gate",0.7142857142857143,0.9618483
+There can be no other price for a life.,命の対価は ほかにない,There is no other consideration for life,0.4166666666666667,0.5767892
 "Even if I offer all of myself,
 it might not do any good.","俺の全てをささげても
 ムダかもしれない","Even if I'm sorry
-It may be mud",0.2
-"But still,",皆さん お元気ですか？,"Guys, how do you do?",0.125
+It may be mud",0.2,0.13139784
+"But still,",皆さん お元気ですか？,"Guys, how do you do?",0.125,0.02117097
 "Owing to the Fuhrer's disappearance,","大総統が
 失踪したせいで","Daisakhon
-Because of the disappearance",0.2
+Because of the disappearance",0.2,0.43629447
 "the new government assumed power
 surprisingly quickly,","驚くほど早く 実権は
 新政府の物になり","A surprise quickly
-Become a new government",0.2727272727272727
+Become a new government",0.2727272727272727,0.735042
 "and the military handed over their
-political decision-making authority",軍は政治的な決定権を,The army is political decision right,0.15384615384615385
+political decision-making authority",軍は政治的な決定権を,The army is political decision right,0.15384615384615385,0.6381173
 "But it looks like the wars
-are going to continue,",戦争は続くみたいです,War seems to continue,0.15384615384615385
+are going to continue,",戦争は続くみたいです,War seems to continue,0.15384615384615385,0.7969819
 "and I'd like to believe that
 everything else is getting better,","ちょっとずつ良くなっていると
 信じたいです","If it gets better by little
-I want to believe",0.21052631578947367
-Would you stop looking down like that?,それ以外のことも,Other than that,0.1
+I want to believe",0.21052631578947367,0.6267001
+Would you stop looking down like that?,それ以外のことも,Other than that,0.1,0.16983673
 "The plan was perfect, but I didn't
 arrive in time, and as a result...","なのに
 私が間に合わなかったために…","Nevertheless
-Because I was not in time ...",0.2631578947368421
-This whole world is imperfect.,この世界は不完全だ,This world is incomplete,0.42857142857142855
-That's why it's so beautiful.,だから 美しい,So beautiful,0.2857142857142857
+Because I was not in time ...",0.2631578947368421,0.52458006
+This whole world is imperfect.,この世界は不完全だ,This world is incomplete,0.42857142857142855,0.6688448
+That's why it's so beautiful.,だから 美しい,So beautiful,0.2857142857142857,0.48260084
 "How has Alphonse-kun
-been doing since then?",どうですか？,how is it?,0.2
+been doing since then?",どうですか？,how is it?,0.2,0.18319723
 "I know that when he was found,
 he was still a ten-year-old boy,","10歳の少年の姿だった
 こともそうですが","It was the figure of a 10-year-old boy
-Yes, but",0.21052631578947367
+Yes, but",0.21052631578947367,0.5865434
 "but I was surprised that
 he had lost all of his memories...","失われていることには
 驚きました","It is lost to being lost
-I was surprised",0.23529411764705882
+I was surprised",0.2352941176470588,0.37139505
 "...since the day they tried
 to transmute their mother.","お母さんを
 錬成しようとした","Mother
-Trying to smear",0.15384615384615385
+Trying to smear",0.15384615384615385,0.24240054
 "Can he still not remember
 anything that happened?","何も思い出せないまま
 なのですか？","I can not remember anything
-Is it?",0.4166666666666667
-And will Edward-san really never again...,ホントに もう…,Really ...,0.2857142857142857
-Sensei!,先生！,teacher!,0.3333333333333333
+Is it?",0.4166666666666667,0.44101125
+And will Edward-san really never again...,ホントに もう…,Really ...,0.2857142857142857,0.17266212
+Sensei!,先生！,teacher!,0.3333333333333333,0.28442392
 "So Ed is really nowhere
 to be found, after all?","やっぱり エドは
 もうどこにもいないのかねえ","After all Ed is
-How is he no longer",0.25
+How is he no longer",0.25,0.7257456
 "Even if someone does give up
 their life as the price,","たとえ人の命を代価にしても
 人体錬成はかなわないでしょう","Even if you decide from the lives of people
-It will not be possible to change the human body",0.1111111111111111
+It will not be possible to change the human body",0.1111111111111111,0.32134175
 "Maybe the reason
-why Al is in that form...",昔みたいに,In the old days,0.16666666666666666
+why Al is in that form...",昔みたいに,In the old days,0.16666666666666666,0.09230473
 "...is because the four years
 of time they spent together","彼らが費やした
 ４年という月日の全てを","They spent
-All four years of the month",0.46153846153846156
+All four years of the month",0.4615384615384616,0.568058
 "Al has been reading books
 on alchemy recently,","アル…
 最近 錬金術の本を読んでいるんだ","Al ...
-I'm reading a memorial book recently",0.2
+I'm reading a memorial book recently",0.2,0.5277964
 "It's almost like he's doing it
 to keep from forgetting about Ed.","まるで エドのことを
 忘れまいとするみたいにね","It's like Ed
-It looks like I will forget",0.23529411764705882
+It looks like I will forget",0.2352941176470588,0.69838494
 The ones she had prepared for Ed.,"エドのために
 用意しておいたものをね","For Ed
-I have prepared",0.3
-Where is he now?,今は どこに？,Where is it now?,0.6666666666666666
-You want to study again?,もう一度 修行したい？,Want to practice again?,0.5714285714285714
-"Mm-hmm, at your place, Sensei.",うん,Yes,0.0
+I have prepared",0.3,0.5897565
+Where is he now?,今は どこに？,Where is it now?,0.6666666666666666,0.7145468
+You want to study again?,もう一度 修行したい？,Want to practice again?,0.5714285714285714,0.5302465
+"Mm-hmm, at your place, Sensei.",うん,Yes,0.0,0.15425992
 "I want to study more, about alchemy,
-and about equivalent exchange...",僕 もっと勉強したいんです,I want to study more,0.4166666666666667
+and about equivalent exchange...",僕 もっと勉強したいんです,I want to study more,0.4166666666666667,0.528251
 "And one day, I want
 to see Brother again.","そうして いつか
 兄さんと また会いたい","Then someday
-My brother and she want to see you again",0.375
+My brother and she want to see you again",0.375,0.68626267
 "I don't know what I should do,
-but if I learn more alchemy, then someday,",どうすればいいか分からない,I do not know what to do,0.25
-That's the feeling I get.,そんな気がするんです,I feel like that,0.2222222222222222
-Is that all right?,ダメですか？,Is it not okay?,0.25
-"Al, promise me one thing.",アル １つだけ約束して,Promise only one Al,0.375
+but if I learn more alchemy, then someday,",どうすればいいか分からない,I do not know what to do,0.25,0.29781875
+That's the feeling I get.,そんな気がするんです,I feel like that,0.2222222222222222,0.572818
+Is that all right?,ダメですか？,Is it not okay?,0.25,0.43981573
+"Al, promise me one thing.",アル １つだけ約束して,Promise only one Al,0.375,0.75606555
 "I'm going to keep
 training more and more,","私も もっともっと修行して
 最高のオートメイル技師になる","I also training more more
-Become the best auto mail engineer",0.1875
-So promise me that you'll come home.,だから 約束して　帰ってくるって,So I promise and come back,0.25
+Become the best auto mail engineer",0.1875,0.44277427
+So promise me that you'll come home.,だから 約束して　帰ってくるって,So I promise and come back,0.25,0.6486359
 "I'll be okay. I'll study, and I'm sure
 I'll find Brother and come home.","勉強して きっと 兄さんを見つけて
 帰ってくるよ","I study and find my brother
-I will come back",0.35294117647058826
+I will come back",0.35294117647058826,0.6899461
 That's enough for today.,"今日は
 これまでにしましょう","Today is
-Let's do it so far",0.16666666666666666
+Let's do it so far",0.16666666666666666,0.46039313
 "Thank you for coming
-along with us, Dr. Hohenheim.",ホーエンハイム博士,Dr. Hohenheim,0.18181818181818182
-Are you all really practicing magic?,あなたたちは 本当に魔術を？,Are you really magic?,0.7142857142857143
+along with us, Dr. Hohenheim.",ホーエンハイム博士,Dr. Hohenheim,0.18181818181818185,0.74131274
+Are you all really practicing magic?,あなたたちは 本当に魔術を？,Are you really magic?,0.7142857142857143,0.7496193
 "In mythology, there is
-an island named Thule.",神話にあるトゥーレと呼ばれる島…,Island called Touret in mythology ...,0.23076923076923078
+an island named Thule.",神話にあるトゥーレと呼ばれる島…,Island called Touret in mythology ...,0.2307692307692308,0.64446115
 "Those of us in the Thule Society believe
 it to be the land where God dwells,","それを我々トゥーレ教会は
 神の住まう土地と考え","That's our Tour's church
-Thinking as a land to live in God",0.16
+Thinking as a land to live in God",0.16,0.5053336
 "I am looking for a path myself,
-Professor Haushofer.",そこに至る道を探しているのです,I am looking for a path to there,0.46153846153846156
+Professor Haushofer.",そこに至る道を探しているのです,I am looking for a path to there,0.4615384615384616,0.64021146
 "14 marks for just one?
-That's positively awful.",１個 14マルク？,1 piece 14 Mark?,0.14285714285714285
-"What's going on, Edward?",どうした？ エドワード,What happened?Edward,0.375
-That.,それ…,that…,0.0
+That's positively awful.",１個 14マルク？,1 piece 14 Mark?,0.14285714285714285,0.56987566
+"What's going on, Edward?",どうした？ エドワード,What happened?Edward,0.375,0.847923
+That.,それ…,that…,0.0,0.7630857
 Liquid fuel rockets? Goddard?,"液体燃料ロケット…
 ゴダード？","Liquid fuel rocket ...
-Goddo?",0.375
+Goddo?",0.375,0.66514486
 "but I hear there's another guy
 in Transylvania doing the same research.","同じ研究をしてるヤツが
 トランシルヴァニアにいる","The guy who is doing the same research
-I am in Transylvania",0.47058823529411764
-"His name's not Dracula, right?",ドラキュラってんじゃないだろうな,It will not be Dracula,0.18181818181818182
+I am in Transylvania",0.4705882352941176,0.84452784
+"His name's not Dracula, right?",ドラキュラってんじゃないだろうな,It will not be Dracula,0.18181818181818185,0.75214297
 "His name is Oberth,
 and apparently, he's still a student.","オーベルトっていう
 まだ学生らしい","Aubert is called
-It is still a student",0.25
-I'm going to go meet him.,そいつはアメリカ人だけど,I'm American,0.2222222222222222
-What will you do once you meet him?,会って どうする？,What do you meet?,0.625
+It is still a student",0.25,0.60851246
+I'm going to go meet him.,そいつはアメリカ人だけど,I'm American,0.2222222222222222,0.11908642
+What will you do once you meet him?,会って どうする？,What do you meet?,0.625,0.58665866
 "He's thinking of using rockets
 to go out into space.","彼は ロケットで
 宇宙に出ることを考えてる","He is a rocket
-He is thinking about leaving in space",0.16666666666666666
+He is thinking about leaving in space",0.16666666666666666,0.7915519
 "Maybe I can get closer to my world
 by going out into space.","俺の世界に 宇宙に出ることで
 近づけるかもしれない","By going out to the universe in my world
-It may be approaching",0.2857142857142857
-"There's ether out there, and all.",あそこはエーテルもあるしな,There is also an ether there,0.18181818181818182
+It may be approaching",0.2857142857142857,0.6518563
+"There's ether out there, and all.",あそこはエーテルもあるしな,There is also an ether there,0.18181818181818185,0.7185643
 Haven't you read Einstein?,"アインシュタインは
 読んでないのか？","Einstein
-Do you not read?",0.5
+Do you not read?",0.5,0.8830673
 "If you can't use alchemy,
 you'll use mechanical technology, huh?","錬金術が使えないなら
 機械技術か…","If alchemy can not be used
-Mechanical technology ...",0.23529411764705882
+Mechanical technology ...",0.2352941176470588,0.9362581
 "I should have been able to bind his soul
 and body together, and recreate him.","自分の精神と肉体を失わぬには
 こちらに抜けるしかない","Do not lose your spirit and body
-I have no choice but to go out",0.19230769230769232
+I have no choice but to go out",0.19230769230769232,0.2231424
 "But the next thing I knew,
 I had come to this world by myself.","だけど 気付いたら
 俺だけ こっちの世界へ来ていた","If you notice
-Only she came to this world",0.14285714285714285
+Only she came to this world",0.14285714285714285,0.45130494
 "We can't say that everything is perfect.
-The whole world is imperfect, after all.",世界は不完全なものなのだからな,The world is incomplete,0.17647058823529413
+The whole world is imperfect, after all.",世界は不完全なものなのだからな,The world is incomplete,0.17647058823529413,0.5868212
 "I had meant to give my own life
 as the price for transmuting Al.","俺… 自分の命を代価に
 アルを錬成したつもりだった","I ... Collect my life
-I was going to smoke al",0.25
+I was going to smoke al",0.25,0.38496184
 "Maybe I did obtain something
 without paying the price after all.","結局 俺は
 代価なしに何かを得ちまったのかな","After all I
-Did you get anything without aging?",0.29411764705882354
-Or maybe Al is still there.,それとも アルは あのまま…,Or although Al is it ...,0.3
-You two have been journeying together.,お前たちは旅をしてきた,You have traveled,0.25
+Did you get anything without aging?",0.29411764705882354,0.386087
+Or maybe Al is still there.,それとも アルは あのまま…,Or although Al is it ...,0.3,0.6696414
+You two have been journeying together.,お前たちは旅をしてきた,You have traveled,0.25,0.42609277
 "the things you saw,
-your pain, your effort,",その間に会った人 見たもの,What I saw in the meantime,0.16666666666666666
-everything that you experienced...,苦しみ 努力し 体験した全てのこと,All things that I worked hard and experienced,0.18181818181818182
+your pain, your effort,",その間に会った人 見たもの,What I saw in the meantime,0.16666666666666666,0.3907441
+everything that you experienced...,苦しみ 努力し 体験した全てのこと,All things that I worked hard and experienced,0.18181818181818185,0.76490635
 "That could be the price you paid,
-couldn't it?",それが お前の代価じゃないのか,Is it not your price?,0.21428571428571427
+couldn't it?",それが お前の代価じゃないのか,Is it not your price?,0.21428571428571427,0.5459005
 "I don't know right now
 what I should do to get back to you.","今は まだ どうすれば
 お前の所に帰れるのか分からない","What do you still do now
-I do not know if I can go home",0.3157894736842105
-"We'll meet again, Al!",また会おう アル！,See you again!,0.2222222222222222
+I do not know if I can go home",0.3157894736842105,0.4588305
+"We'll meet again, Al!",また会おう アル！,See you again!,0.2222222222222222,0.4297331
 That is the Law of Equivalent Exchange.,"それが世界の真実だと
 信じていた","That is the truth of the world
-I believed",0.3333333333333333
-"But the real world is imperfect,",でも 本当の世界は不完全で,But the real world is incomplete,0.625
-"Even so, we believe...",それでも 僕らは信じている,Still we believe,0.2857142857142857
+I believed",0.3333333333333333,0.22688916
+"But the real world is imperfect,",でも 本当の世界は不完全で,But the real world is incomplete,0.625,0.7803307
+"Even so, we believe...",それでも 僕らは信じている,Still we believe,0.2857142857142857,0.6561164
 "...that man cannot obtain
 anything without paying a price.","人は代価なしに
 何も得ることはできない","People are not aggressive
-I can not get anything",0.17647058823529413
+I can not get anything",0.17647058823529413,0.17858952
 The pain that we received,"僕らが受けた痛みは
 きっと","The pain we received is
-surely",0.5714285714285714
+surely",0.5714285714285714,0.78071713
 "must have been the price
 we paid to obtain something.","何かを得るための
 代価だったはずだ","To get something
-It should have been aged",0.26666666666666666
+It should have been aged",0.26666666666666666,0.42253774
 "And, by paying the price of effort,","努力という代価を
 払うことで","Price of effort
-By paying",0.625
+By paying",0.625,0.70148337
 "Equivalent exchange is
 not the law of the world.","等価交換は
 世界の原則じゃない","Equivalent exchange
-It is not the principle of the world",0.6363636363636364
+It is not the principle of the world",0.6363636363636364,0.822612
 "That's the promise Brother
-and I made with each other,",僕と兄さんの約束だ,I and my brother's promise,0.38461538461538464
+and I made with each other,",僕と兄さんの約束だ,I and my brother's promise,0.38461538461538464,0.85554284
 until the day we meet again.,"いつか また会う日まで
 交わした","Until the day we meet again
-Exchanged",0.75
+Exchanged",0.75,0.84912586

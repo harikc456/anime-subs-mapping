@@ -1,210 +1,210 @@
-en_text,jp_text,google_translated,score
-Here we go.,（チト）いくよ,go,0.25
-"What's ""cheese""?",（ユーリ）チーズって何？,What is Cheese?,0.42857142857142855
+en_text,jp_text,google_translated,score,semantic_score
+Here we go.,（チト）いくよ,go,0.25,0.3493544
+"What's ""cheese""?",（ユーリ）チーズって何？,What is Cheese?,0.42857142857142855,0.96034175
 I read in a book that's the kinda signal you give.,"そういう合図があるって
 本で読んだことがある","There is such a signal
-I have read it with a book",0.2631578947368421
-Cheese.,（ユーリ）ふ～ん チーズねえ…,Fun cheese ...,0.25
-Isn't it kinda white?,（ユーリ）何か白っぽくない？,Isn't something white?,0.5714285714285714
-Dunno why... maybe I turned it too much.,回しすぎたかな,I wonder if it was too much,0.3076923076923077
-You suck.,（ユーリ）ヘタクソ,Hetaxo,0.0
+I have read it with a book",0.2631578947368421,0.67074555
+Cheese.,（ユーリ）ふ～ん チーズねえ…,Fun cheese ...,0.25,0.7356058
+Isn't it kinda white?,（ユーリ）何か白っぽくない？,Isn't something white?,0.5714285714285714,0.8419538
+Dunno why... maybe I turned it too much.,回しすぎたかな,I wonder if it was too much,0.3076923076923077,0.54293156
+You suck.,（ユーリ）ヘタクソ,Hetaxo,0.0,0.1386137
 "C'mon, let's go.","グ～ル～ン…
 （チト）さあ 行こうか","Le ~ ...
- Let's go",0.3333333333333333
+ Let's go",0.3333333333333333,0.50064975
 Always better to move when it's still bright out.,"明るいうちに移動しておくに
 越したことはない","Move to the bright house
-I have never passed",0.17647058823529413
-Okay!,（ユーリ）あ～い おっとと～い,A ~ ~ Otomo ~,0.0
+I have never passed",0.17647058823529413,0.53814125
+Okay!,（ユーリ）あ～い おっとと～い,A ~ ~ Otomo ~,0.0,0.16733414
 Hey. Lemme borrow this.,"（チト）おい
-（ユーリ）ちょっと借りるね",I borrow a little,0.1111111111111111
-Don't break it.,（チト）壊すなよ,Don't break,0.6
-Well?,（チト）どう？,How?,0.3333333333333333
-It's blurry.,（ユーリ）ボケてる,Bokeh,0.0
+（ユーリ）ちょっと借りるね",I borrow a little,0.1111111111111111,0.56441426
+Don't break it.,（チト）壊すなよ,Don't break,0.6,0.79929334
+Well?,（チト）どう？,How?,0.3333333333333333,0.47173637
+It's blurry.,（ユーリ）ボケてる,Bokeh,0.0,0.17527293
 You have to focus it with the dial on the front.,"（チト）先っぽのダイヤルで
 焦点を合わせるんだよ","Dial of the second
-I focus on",0.2857142857142857
-What dial?,ダイヤル？ これか…,Dial?Is this ...,0.3333333333333333
+I focus on",0.2857142857142857,0.63112897
+What dial?,ダイヤル？ これか…,Dial?Is this ...,0.3333333333333333,0.8143401
 Kanazawa should've shown us\Nhow to use it if he was giving it to us...,"使い方を教えてくれれば
 よかったのに","If you tell us how to use it
-It was good",0.3333333333333333
+It was good",0.3333333333333333,0.38748977
 "Oh, right. As thanks for sharing food with me...","（カナザワ）そうだ 食料を
 分けてもらったお礼というか…","That's right food
-Thank you for your division ...",0.2222222222222222
-It's a photograph machine.,写真機だよ,It is a photographic machine,0.375
-"The machine they call a ""camera""?",カメラってやつ？,What is the camera?,0.2727272727272727
-"Looks like it's pretty old, so even though\Nhe said to have fun with it, well...",好きに使えって言われてもなあ…,It is said that it can be used to like it ...,0.22727272727272727
+Thank you for your division ...",0.2222222222222222,0.58737046
+It's a photograph machine.,写真機だよ,It is a photographic machine,0.375,0.9324969
+"The machine they call a ""camera""?",カメラってやつ？,What is the camera?,0.2727272727272727,0.6607113
+"Looks like it's pretty old, so even though\Nhe said to have fun with it, well...",好きに使えって言われてもなあ…,It is said that it can be used to like it ...,0.2272727272727273,0.39313644
 Pretty amazing people back then\Ncould make stuff like this.,"（ユーリ）昔の人は
 こんなの作れてすごいねえ","The old people
-It is great to make this kind",0.17647058823529413
-Maybe 'cause we're moving.,（チト）私たちが動いてるからかな,I wonder if we are moving,0.2
-There are a lot of those stone statues around here.,あの石像…,That stone statue ...,0.07142857142857142
+It is great to make this kind",0.17647058823529413,0.56471455
+Maybe 'cause we're moving.,（チト）私たちが動いてるからかな,I wonder if we are moving,0.2,0.60811436
+There are a lot of those stone statues around here.,あの石像…,That stone statue ...,0.07142857142857142,0.7004994
 "They look a little like your face, Chi.","（ユーリ）あっ… ちょっと
 ちーちゃんの顔に似てるよね","Oh ... a little
-It looks like Chi-chan's face",0.25
-"Hey, look here.",（ユーリ）ねえ 見て,Hey,0.2
-"No good, it's still blurry.",ダメだ… またボケてる,It is no good ... I'm blurred again,0.21428571428571427
-"Look this way one more time, Chi,\Nand this time, don't move.",今度は動かないで,This time is not moving,0.125
-"You know, I'm driving, I can't look away.",あのな 運転中に よそ見すると…,If you look at that while driving ...,0.1875
-"Ow, ow...",（チト）んん…,...,0.3333333333333333
-Ow!,いてっ！,It is!,0.25
-I'm gonna hold onto the camera after all.,やっぱりカメラは私が持っとく,After all cameras are left,0.14285714285714285
+It looks like Chi-chan's face",0.25,0.6346024
+"Hey, look here.",（ユーリ）ねえ 見て,Hey,0.2,0.5267646
+"No good, it's still blurry.",ダメだ… またボケてる,It is no good ... I'm blurred again,0.21428571428571427,0.7099549
+"Look this way one more time, Chi,\Nand this time, don't move.",今度は動かないで,This time is not moving,0.125,0.437869
+"You know, I'm driving, I can't look away.",あのな 運転中に よそ見すると…,If you look at that while driving ...,0.1875,0.56656086
+"Ow, ow...",（チト）んん…,...,0.3333333333333333,0.3402998
+Ow!,いてっ！,It is!,0.25,0.32133374
+I'm gonna hold onto the camera after all.,やっぱりカメラは私が持っとく,After all cameras are left,0.14285714285714285,0.54923725
 "It's dented a little, but looks okay.","少しヘコんでるけど…
 大丈夫そうだ","I'm a little heel ...
-It looks fine",0.26666666666666666
+It looks fine",0.26666666666666666,0.27446076
 "I wish your heart were as big\Nas these stone statues, Chi.","あの石像くらい
 大きかったらいいのに～","That stone statue
-I wish I had a big deal ~",0.15
-"""Something""...",（チト）何か…,something ...,0.5
-Is this it?,これかな？,Is this right?,0.6
-Meanie.,（ユーリ）ケチ,Kechi,0.0
-Shut up.,（チト）うるさい,noisy,0.0
-So?,（ユーリ）ど～お？,?,0.5
-"If we keep it up, we'll be able to get\Nto that glowing building.",このまま行けば着けそうだ,"If you go this, it will wear it",0.15
-You sure took a lot... like an idiot.,たくさん撮ったなあ,I took a lot,0.2727272727272727
-You still mad at me?,う… まだ怒ってる？,Uh ... still angry?,0.2222222222222222
-I'm not mad.,怒ってない,I'm not angry,0.5
-You took way too many pictures of those statues.,ユーは変な石像 撮りすぎ,You can shoot too strange stone statues,0.21428571428571427
+I wish I had a big deal ~",0.15,0.6570373
+"""Something""...",（チト）何か…,something ...,0.5,0.75423265
+Is this it?,これかな？,Is this right?,0.6,0.5546452
+Meanie.,（ユーリ）ケチ,Kechi,0.0,0.24639742
+Shut up.,（チト）うるさい,noisy,0.0,0.16878912
+So?,（ユーリ）ど～お？,?,0.5,0.67797863
+"If we keep it up, we'll be able to get\Nto that glowing building.",このまま行けば着けそうだ,"If you go this, it will wear it",0.15,0.19956861
+You sure took a lot... like an idiot.,たくさん撮ったなあ,I took a lot,0.2727272727272727,0.73702437
+You still mad at me?,う… まだ怒ってる？,Uh ... still angry?,0.2222222222222222,0.68652
+I'm not mad.,怒ってない,I'm not angry,0.5,0.66988534
+You took way too many pictures of those statues.,ユーは変な石像 撮りすぎ,You can shoot too strange stone statues,0.21428571428571427,0.59173036
 "Who cares, it's not like we can use it up or anything.","（ユーリ）いいじゃん
 減るもんでもないし","good
-It is not possible to decrease",0.10526315789473684
-Really?,数字？,Numbers?,0.3333333333333333
-How many more can we take?,あとどれくらい撮れるんだろう？,How much can you take?,0.4444444444444444
+It is not possible to decrease",0.10526315789473684,0.14937867
+Really?,数字？,Numbers?,0.3333333333333333,0.22120279
+How many more can we take?,あとどれくらい撮れるんだろう？,How much can you take?,0.4444444444444444,0.68552864
 This must be the number remaining.,"（チト）
-これが残り回数じゃないかな",I wonder if this is the number of days,0.23076923076923078
-It's gone down from earlier.,さっきから少し減ってる,I'm slightly reduced from a while ago,0.07142857142857142
-Fifty-two thousand.,52万,¥ 520,0.0
+これが残り回数じゃないかな",I wonder if this is the number of days,0.2307692307692308,0.4443103
+It's gone down from earlier.,さっきから少し減ってる,I'm slightly reduced from a while ago,0.07142857142857142,0.4139452
+Fifty-two thousand.,52万,¥ 520,0.0,0.33386073
 "Way more than your books, right Chi?","（ユーリ）
-ちーちゃんの本より多いよね？","More than Chi-chan's book, right?",0.4166666666666667
-I don't think that's how it works.,（チト）そういうのじゃないんだよ,It's not like that,0.25
-Then how does it?,じゃあ どういうの？,Then what is it?,0.42857142857142855
-Fifty-two thousand...,52万か…,"520,000 ...",0.25
+ちーちゃんの本より多いよね？","More than Chi-chan's book, right?",0.4166666666666667,0.67499536
+I don't think that's how it works.,（チト）そういうのじゃないんだよ,It's not like that,0.25,0.36388808
+Then how does it?,じゃあ どういうの？,Then what is it?,0.42857142857142855,0.6532905
+Fifty-two thousand...,52万か…,"520,000 ...",0.25,0.6244062
 How many more days of food do we have left?,"食料って
 あと何日分くらいあるっけ？","Fountain
-How many days do you have?",0.46153846153846156
+How many days do you have?",0.4615384615384616,0.47102302
 Thirty days for the two of us.,"（チト）写真の数が
 先に尽きることはないな","The number of photos
-I will not end ahead",0.13333333333333333
+I will not end ahead",0.13333333333333333,0.13893718
 "Well, I could eat all the food by myself in seven days.","何なら 私１人で
 ７日で食べきることもできるが…","Anything I am alone
-You can eat in 7 days ...",0.19047619047619047
-That's not funny.,ふざけんな,Do not be silly,0.125
-Ch...,（ユーリ）ち… ち～… あっ,Chi ... ...,0.3333333333333333
-Cheese,チーズねえ,Cheese,1.0
-"What IS ""cheese""?",何なんだ チーズ…,What is the cheese ...,0.375
+You can eat in 7 days ...",0.19047619047619047,0.79098773
+That's not funny.,ふざけんな,Do not be silly,0.125,0.27117443
+Ch...,（ユーリ）ち… ち～… あっ,Chi ... ...,0.3333333333333333,0.46157572
+Cheese,チーズねえ,Cheese,1.0,0.9999999
+"What IS ""cheese""?",何なんだ チーズ…,What is the cheese ...,0.375,0.891777
 It's weird.,"ちーちゃん 今日のそれ
 チーズ味だってよ","Chi-chan today
-It's cheese",0.2857142857142857
-"If you eat food, it gets used up,\Nbut if you take pictures, they're here forever.",撮ったらずっと残ってるって,"If you take it, it will stay all the time",0.22727272727272727
+It's cheese",0.2857142857142857,0.108413994
+"If you eat food, it gets used up,\Nbut if you take pictures, they're here forever.",撮ったらずっと残ってるって,"If you take it, it will stay all the time",0.2272727272727273,0.34693456
 "When the town falls apart and\Neven those stone statues all break down,","いつか街が崩れて
 あの石像もみんな壊れても―","Someday the city broke down
-Even if all the stone statues are broken-",0.25
-Yuu.,ユー,User,0.0
-The thing I figured out earlier.,（チト）さっき見つけた機能…,Function I found a while ...,0.08333333333333333
-Don't move.,動くなよ,Don't move,0.75
+Even if all the stone statues are broken-",0.25,0.78337485
+Yuu.,ユー,User,0.0,0.20633906
+The thing I figured out earlier.,（チト）さっき見つけた機能…,Function I found a while ...,0.08333333333333333,0.19468649
+Don't move.,動くなよ,Don't move,0.75,0.93175036
 That really bright building...,"（チト）
-あの一番明るかった建物が…",That's the brightest building ...,0.375
-...is probably this one here.,（ユーリ）たぶん ここだね,Maybe here,0.125
-It was really bright when we saw it at night...,夜見た時は明るかったけど…,It was bright when I saw it at night ...,0.7272727272727273
-...but it's dark inside.,中は暗いね,It is dark inside,0.375
+あの一番明るかった建物が…",That's the brightest building ...,0.375,0.84475464
+...is probably this one here.,（ユーリ）たぶん ここだね,Maybe here,0.125,0.512102
+It was really bright when we saw it at night...,夜見た時は明るかったけど…,It was bright when I saw it at night ...,0.7272727272727273,0.9637364
+...but it's dark inside.,中は暗いね,It is dark inside,0.375,0.7737939
 It has a lot of really big statues.,"（ユーリ）
-でかい石像がたくさんあるねえ",There are a lot of huge stone statues,0.3076923076923077
-What is this place?,（ユーリ）何だろね ここ,What is it here,0.2857142857142857
-Dunno...,（チト）さあ…,...,0.5
-Maybe this place was a temple?,ここって寺院なんじゃないかな,I wonder if it is a temple here,0.15384615384615385
-Temple?,（ユーリ）じいん？,?,0.5
-Gods...,（ユーリ）神様かあ…,Godaka ...,0.3333333333333333
-What's a god?,神って何？,What is a god?,0.6666666666666666
-I dunno.,神ってのはさあ,I'm sorry,0.2
-Can you eat it?,（ユーリ）食べられる？,Can you eat?,0.8
-What does it say?,（ユーリ）何て書いてあるの？,What are you writing?,0.25
-Umm...,（チト）え～っと…,え ...,0.3333333333333333
-Revering three gods...,“３人の神を祀(まつ)る…”,"""Some of the gods of three people ...""",0.3
+でかい石像がたくさんあるねえ",There are a lot of huge stone statues,0.3076923076923077,0.8297351
+What is this place?,（ユーリ）何だろね ここ,What is it here,0.2857142857142857,0.57556325
+Dunno...,（チト）さあ…,...,0.5,0.38196805
+Maybe this place was a temple?,ここって寺院なんじゃないかな,I wonder if it is a temple here,0.15384615384615385,0.7908346
+Temple?,（ユーリ）じいん？,?,0.5,0.22167765
+Gods...,（ユーリ）神様かあ…,Godaka ...,0.3333333333333333,0.6217525
+What's a god?,神って何？,What is a god?,0.6666666666666666,0.977058
+I dunno.,神ってのはさあ,I'm sorry,0.2,0.24291676
+Can you eat it?,（ユーリ）食べられる？,Can you eat?,0.8,0.8462219
+What does it say?,（ユーリ）何て書いてあるの？,What are you writing?,0.25,0.2911092
+Umm...,（チト）え～っと…,え ...,0.3333333333333333,0.35337645
+Revering three gods...,“３人の神を祀(まつ)る…”,"""Some of the gods of three people ...""",0.3,0.6843296
 So this really is like a temple.,"（チト）
-やっぱり ここは寺院みたいだ",After all it looks like a temple here,0.23076923076923078
-"""Western Paradise""...",（チト）“極楽浄土…”,"""Pole Park ...""",0.42857142857142855
-"""Paradise"" means the world after death...",“極楽とは死後の世界…”,"""Purproad and the world after death ...""",0.6363636363636364
+やっぱり ここは寺院みたいだ",After all it looks like a temple here,0.2307692307692308,0.81279814
+"""Western Paradise""...",（チト）“極楽浄土…”,"""Pole Park ...""",0.42857142857142855,0.19501206
+"""Paradise"" means the world after death...",“極楽とは死後の世界…”,"""Purproad and the world after death ...""",0.6363636363636364,0.44159278
 It says this temple is a reproduction\Nof the world beyond.,"この寺院は あの世を再現し
 作られたらしい","This temple reproduces that world
-It seems to be made",0.23529411764705882
-This is way different than a hot spring.,（ユーリ）温泉とは全然違うね,It is totally different from hot spring,0.3333333333333333
+It seems to be made",0.2352941176470588,0.7780546
+This is way different than a hot spring.,（ユーリ）温泉とは全然違うね,It is totally different from hot spring,0.3333333333333333,0.91711795
 """May you be released from your sadnesses\Nand worries, and find happiness...""","（チト）
 〝苦しみや悩みから
 解放され…〞","""From suffering and troubles
-Released ...",0.29411764705882354
-"It has stuff written about the god, too.",（チト）神様についても書いてある,God is also written,0.16666666666666666
-It's not really clear about it...,何だかはっきりしないなあ,I'm not clear,0.2222222222222222
-Chi?,ちーちゃん？,Chi-chan?,0.3333333333333333
-Hey!,ねえっ！,Hey!,1.0
+Released ...",0.29411764705882354,0.62326765
+"It has stuff written about the god, too.",（チト）神様についても書いてある,God is also written,0.16666666666666666,0.68006456
+It's not really clear about it...,何だかはっきりしないなあ,I'm not clear,0.2222222222222222,0.64233047
+Chi?,ちーちゃん？,Chi-chan?,0.3333333333333333,0.7358433
+Hey!,ねえっ！,Hey!,1.0,1.0000001
 Is the afterlife like this?,"あの世ってのは…
 こんな感じなのかな？","That of that ...
-Is it like this?",0.4
-"so dark you can't see,",真っ暗で… 何も見えなくて…,It's dark ... I can't see anything ...,0.3333333333333333
+Is it like this?",0.4,0.32656607
+"so dark you can't see,",真っ暗で… 何も見えなくて…,It's dark ... I can't see anything ...,0.3333333333333333,0.7460374
 with nobody there...,"あ いてっ
-（チト）わあっ",There is,0.2
-If I lost Chi... what would I do?,私 どうしよう…,What to do ...,0.3
-Chi...,（チト）あったたたた…,had been ...,0.25
-is this your face?,ん～ んん？ 顔かな？,What?Is it a face?,0.375
+（チト）わあっ",There is,0.2,0.2119091
+If I lost Chi... what would I do?,私 どうしよう…,What to do ...,0.3,0.26806566
+Chi...,（チト）あったたたた…,had been ...,0.25,0.28305164
+is this your face?,ん～ んん？ 顔かな？,What?Is it a face?,0.375,0.6406252
 "Jeez, why didn't you say anything back, Chi?","もう ちーちゃん
 どうして返事してくれなかったの？","Chi-chan
-Why didn't you reply me?",0.35714285714285715
-Paradise...,（ユーリ）極楽…,Pole ...,0.3333333333333333
-It's reflecting the light.,床まで光ってるみたい,I want to light the floor,0.2
-"Chi, look, look!",（ユーリ）ちーちゃん 見て見て！,Look at Chi-chan!,0.3333333333333333
-Fish!,魚,fish,0.5
+Why didn't you reply me?",0.35714285714285715,0.64477575
+Paradise...,（ユーリ）極楽…,Pole ...,0.3333333333333333,0.24725565
+It's reflecting the light.,床まで光ってるみたい,I want to light the floor,0.2,0.4409243
+"Chi, look, look!",（ユーリ）ちーちゃん 見て見て！,Look at Chi-chan!,0.3333333333333333,0.6023745
+Fish!,魚,fish,0.5,0.84371954
 Fake... so we can't eat it then?,"もぞ… もしかして
 食べられないの？","Yes ...
-Can not eat?",0.23076923076923078
-It's encased in the glass.,ガラスの中に閉じ込めてるんだ,I'm trapped in the glass,0.3
-Looks like the surface of water.,まるで水面みたいに,It looks like a water surface,0.4444444444444444
-It's just a stone statue.,あんなの ただの石像だよ,It's just a stone statue,0.8571428571428571
+Can not eat?",0.2307692307692308,0.5033067
+It's encased in the glass.,ガラスの中に閉じ込めてるんだ,I'm trapped in the glass,0.3,0.59778434
+Looks like the surface of water.,まるで水面みたいに,It looks like a water surface,0.4444444444444444,0.9425165
+It's just a stone statue.,あんなの ただの石像だよ,It's just a stone statue,0.8571428571428571,0.9946311
 You keep saying that and\Nyou'll bring about divine punishment.,"あんまり適当言ってると
 罰が当たるぞ","If you say so much
-Punishment will hit",0.11764705882352941
+Punishment will hit",0.1176470588235294,0.47550592
 But we already knocked over\Na stone statue before coming here.,"でも… ここに来る時
 石像倒してきたよ","But ... When coming here
-I've been defeated",0.17647058823529413
+I've been defeated",0.17647058823529413,0.3792388
 Eating rations while looking at\Nthe afterlife is pretty weird.,"（チト）あの世を見ながらの
 レーションもオツなもんだね","while watching that world
-Rate is also Otsu",0.125
+Rate is also Otsu",0.125,0.083767936
 But I just don't get it.,"でも分からないな
 （チト）ん？","But I do not know
-?",0.2727272727272727
+?",0.2727272727272727,0.40019897
 "Even this nice god is still all a fake, right?","立派な神様も 結局
 偽物なんでしょう？","After all the good gods
-What is a fake?",0.29411764705882354
+What is a fake?",0.29411764705882354,0.7229682
 Nobody knows what life's like after death anyway.,"死後の世界なんて
 誰も分からないのに","What a world after death
-Even though no one knows",0.25
-Huh...,（チト）うん,Yeah,0.0
+Even though no one knows",0.25,0.7103208
+Huh...,（チト）うん,Yeah,0.0,0.49737644
 "Remember what you said earlier in the dark, Yuu?","さっきの暗闇の中で
 ユーが言ったよね","In the last darkness
-You said",0.3076923076923077
+You said",0.3076923076923077,0.57362026
 That the afterlife is a dark world.,"あの世も こんな真っ暗な
 世界なのかなあって","That world is also dark
-I wonder if it is the world",0.38461538461538464
+I wonder if it is the world",0.38461538461538464,0.6375949
 "I felt way more at ease after I found you, though.","ちーちゃんを見つけた時のほうが
 安心したけどね","When I found Chi-chan
-I was relieved though",0.1875
+I was relieved though",0.1875,0.36092645
 In the dark.,"（チト）ん？
 （ユーリ）暗闇の中で","?
- In the dark",0.6
-Maybe...,もしかして…,Maybe ...,1.0
-Maybe?,もしかして？,Maybe?,1.0
+ In the dark",0.6,0.8521839
+Maybe...,もしかして…,Maybe ...,1.0,0.99999964
+Maybe?,もしかして？,Maybe?,1.0,0.99999976
 Maybe Chi is a god?!,"（ユーリ）ちーちゃんが
 神様なのでは～？","Chi-chan
-What is God?",0.3333333333333333
-How would I know?,知ってるか？,Do you know?,0.2857142857142857
+What is God?",0.3333333333333333,0.70273554
+How would I know?,知ってるか？,Do you know?,0.2857142857142857,0.37208125
 You have to offer food to gods.,"神には食べ物を
 貢がなきゃいけないんだぞ","God food
-I have to contribute",0.3
-Gimme.,くれよ,Give me,0.25
-Now I feel like you're not.,やっぱ違う気がしてきた！,After all I feel different!,0.16666666666666666
+I have to contribute",0.3,0.67047143
+Gimme.,くれよ,Give me,0.25,0.4251467
+Now I feel like you're not.,やっぱ違う気がしてきた！,After all I feel different!,0.16666666666666666,0.37652054
 What if I'm a god?,"（ユーリ）あっ むしろ
 私が神なのではっ！？","Rather
-I'm a god!?",0.5555555555555556
-Definitely not.,（チト）ないない,not,0.3333333333333333
+I'm a god!?",0.5555555555555556,0.73138684
+Definitely not.,（チト）ないない,not,0.3333333333333333,0.5177089
 I am a God.,"（ユーリ）私は神である
-（チト）ない",I am a god,0.8
+（チト）ない",I am a god,0.8,0.94116884
 Food!,"（ユーリ）食べ物を…
-（チト）ない",food ...,0.3333333333333333
-Is still spinning today,神です,It is a god,0.14285714285714285
+（チト）ない",food ...,0.3333333333333333,0.750802
+Is still spinning today,神です,It is a god,0.14285714285714285,0.15824917

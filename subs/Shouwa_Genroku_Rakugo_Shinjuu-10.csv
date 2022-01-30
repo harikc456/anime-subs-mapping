@@ -1,360 +1,360 @@
-en_text,jp_text,google_translated,score
-m -21.05 -29.89 l -21.05 732.5 1298.61 737.63 1308.86 -27.32,♪〜,♪ ~,0.0
-薄\Nら\Nい\Nで\N行\Nく\Nわ\N。\N私\Nは\N独\Nり\N法\N師\N。,〜♪,~ ♪,0.0
-Master Kikuhiko!,（樋口(ひぐち)）菊比古(きくひこ)師匠,Kiku Hikko Master,0.2
-I want to learn rakugo from you!,師匠の下で 落語がやりたいんです,I want to do rakugo under my master,0.3333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+m -21.05 -29.89 l -21.05 732.5 1298.61 737.63 1308.86 -27.32,♪〜,♪ ~,0.0,0.17317003
+薄\Nら\Nい\Nで\N行\Nく\Nわ\N。\N私\Nは\N独\Nり\N法\N師\N。,〜♪,~ ♪,0.0,0.3643164
+Master Kikuhiko!,（樋口(ひぐち)）菊比古(きくひこ)師匠,Kiku Hikko Master,0.2,0.73897964
+I want to learn rakugo from you!,師匠の下で 落語がやりたいんです,I want to do rakugo under my master,0.3333333333333333,0.74033636
 I will stay here until you accept me!,"許してくださるまで
 ここで待ってます","Until forgive me
-I'm waiting here",0.3333333333333333
-Please!,お願いします,please,0.5
-Right.,（松田(まつだ)）はい,) Yes,0.0
-"Must be hard, being popular...",（菊比古）ハア…,Haa ...,0.125
-and return to your parents at once.,今すぐ 親元に帰(けえ)るといいよ,It is good to return to my parents,0.25
+I'm waiting here",0.3333333333333333,0.45068955
+Please!,お願いします,please,0.5,0.80876136
+Right.,（松田(まつだ)）はい,) Yes,0.0,0.4065446
+"Must be hard, being popular...",（菊比古）ハア…,Haa ...,0.125,0.21128413
+and return to your parents at once.,今すぐ 親元に帰(けえ)るといいよ,It is good to return to my parents,0.25,0.67485684
 I do not take apprentices.,"あたしは弟子は取りません
 言っとくが金輪際 来たってムダだ","I do not take a disciple
-I say, but I'm going to come",0.26666666666666666
+I say, but I'm going to come",0.26666666666666666,0.35676357
 I don't have anything to teach anyone.,"あたしゃ 人様(ひとさま)に教えることなんざ
 何もねえんだから","What to teach to people 
-Because anything is true",0.21428571428571427
-W-Wait!,ま 待って！,Wait!,0.3333333333333333
+Because anything is true",0.21428571428571427,0.6308089
+W-Wait!,ま 待って！,Wait!,0.3333333333333333,0.5863985
 At least listen to my story!\NPlease!,"話くらい 聞いてください
 お願いします","Please listen to the story
-please",0.3
+please",0.3,0.5694705
 I abandoned my parents and my village\N to come here! Everyone was against it!,"親も故郷も捨てる覚悟で
 出てきました","My parents are also ready to throw away hometown
-It came out",0.18181818181818182
-I don't have a home to go back to!,帰る所なんて ないんです,There is no place to go home,0.21428571428571427
+It came out",0.18181818181818185,0.38028127
+I don't have a home to go back to!,帰る所なんて ないんです,There is no place to go home,0.21428571428571427,0.60911334
 "If you can't even convince your parents, \Nwhy would any audience listen to you?","（菊比古）
 親も説得できねえもんが
 お客に何を聞かそうってんです？","My parents can persuade
-What do you want to hear?",0.17391304347826086
+What do you want to hear?",0.17391304347826084,0.7191946
 "Today is a family performance. \NWhat were you thinking, coming today?","今日は親子会だ なんだって
 こんな日にやって来たい？","Today is a parent society
-Want to come to such a day?",0.2
+Want to come to such a day?",0.2,0.46531543
 You ignored my master\Nand embarrassed him.,"（菊比古）
-師匠と弟子てのは そういうもんさ",My teacher and his disciple are him,0.16666666666666666
-Stage Door,あ…,Ah…,0.0
+師匠と弟子てのは そういうもんさ",My teacher and his disciple are him,0.16666666666666666,0.3012402
+Stage Door,あ…,Ah…,0.0,0.14430414
 That is what it means to \Nbe master and apprentice.,"それだけで
 お前さんを断るわけは十分だろ","By itself
-It is enough to refuse yours",0.1875
+It is enough to refuse yours",0.1875,0.12524307
 A respectable young man like you has no place in a vulgar trade like the arts.,"（菊比古）
 お前さんのような
 まっとうな若い衆が","Yofu
-Murious young people",0.05555555555555555
+Murious young people",0.05555555555555555,0.35522303
 He's only been a shin'uchi five years and \Nmen are already coming to be his apprentice.,"もう 弟子入りしたい奴が
 来るんだから","The guy who wants to enter disciples already
-Because he comes",0.11538461538461539
+Because he comes",0.1153846153846154,0.31535316
 I'm so sorry about earlier.,"（菊比古）
-師匠　先ほどは 失礼致しました",I was sorry about the teacher,0.3
+師匠　先ほどは 失礼致しました",I was sorry about the teacher,0.3,0.49488807
 "the charm of a child remains \Nthe one consistent truth.""","“子のかわいさは 誠なりけり”
 なんてのが ございますが","""The love of the child is sincere""
-What is her",0.2222222222222222
-"Master, are you here?",親方 いるかい？,Are you a parent?,0.375
-It's fine.\NAre you free at the moment?,いいんだよ　今 構わないかい？,"It's okay, do you do now?",0.3076923076923077
+What is her",0.2222222222222222,0.49682742
+"Master, are you here?",親方 いるかい？,Are you a parent?,0.375,0.3769568
+It's fine.\NAre you free at the moment?,いいんだよ　今 構わないかい？,"It's okay, do you do now?",0.3076923076923077,0.53797287
 "Master's ""Kowakare""...","（菊比古）
-師匠の「子別れ」","Master's ""child""",0.5714285714285714
+師匠の「子別れ」","Master's ""child""",0.5714285714285714,0.42513677
 No one can tell this story better.,"今 このネタで
 師匠の右に出る者はいない","In this material now
-There is no one to go to the right of the master",0.15789473684210525
-The performance he's\Nworked to perfection.,師匠が とことん練り上げた芸,The master who makes the master,0.1111111111111111
+There is no one to go to the right of the master",0.15789473684210525,0.17796995
+The performance he's\Nworked to perfection.,師匠が とことん練り上げた芸,The master who makes the master,0.1111111111111111,0.28553867
 "Yes, I've heard.","お父つぁん
 お父つぁんじゃないか","Father
-I'm not father",0.1111111111111111
-Daddy?,（七代目）お前 金坊(きんぼう)か？,Omabo ?,0.3333333333333333
-Don't get smart!,情けないねえ　お前は,Don't feel sorry,0.2857142857142857
+I'm not father",0.1111111111111111,0.054932937
+Daddy?,（七代目）お前 金坊(きんぼう)か？,Omabo ?,0.3333333333333333,0.31357747
+Don't get smart!,情けないねえ　お前は,Don't feel sorry,0.2857142857142857,0.2300116
 The mother finds the 50 sen\Nhe secretly got from his father...,"（菊比古）
 父親に こっそりもらった50銭を
 見つける母親","Father to the father who got her secret
-Mother to find",0.25
-Who gave it to you?,誰が くれたの？,Who gave me?,0.42857142857142855
-I'll give you a whack on the head!,（七代目）もらったんだよ〜,I got,0.09090909090909091
+Mother to find",0.25,0.52697164
+Who gave it to you?,誰が くれたの？,Who gave me?,0.42857142857142855,0.7667668
+I'll give you a whack on the head!,（七代目）もらったんだよ〜,I got,0.09090909090909093,0.17671743
 this hammer is your father's own fist!,"この金づちは
 お父つぁんのげんこつだよ","This gold is
-It's a father's fan",0.3076923076923077
-I really must thank you.,このとおり 礼を言うぜ,I will say thank you,0.375
+It's a father's fan",0.3076923076923077,0.48481107
+I really must thank you.,このとおり 礼を言うぜ,I will say thank you,0.375,0.5989963
 "Really, I'm so grateful.","俺は お前に
 礼を言わなくちゃなんねえな","I am
-I'm sorry I'm sorry",0.2222222222222222
+I'm sorry I'm sorry",0.2222222222222222,0.33851686
 "Isn't that nice, Kinbo? The three \Nof us can live together again!","良かったねえ金坊　ええ
 また３人で暮らせるんだよ","It was good, yeah
-You can live with three people",0.17391304347826086
-"Thank you so much, dear.",お前さん　ありがとうね,Thank you very much,0.375
-I suppose it really is true...,本当なんですねえ…,It's true ...,0.375
-Master?,師匠？,Master?,1.0
-"Well then, Mommy...",そいで おっかさん…,Sayao ...,0.16666666666666666
-Master!,師匠！,Master!,1.0
-"I hope it doesn't get any worse, but...",後は 見てるから いいよ,I'm looking at it later,0.13333333333333333
+You can live with three people",0.17391304347826084,0.43242434
+"Thank you so much, dear.",お前さん　ありがとうね,Thank you very much,0.375,0.5673564
+I suppose it really is true...,本当なんですねえ…,It's true ...,0.375,0.6158582
+Master?,師匠？,Master?,1.0,0.9999999
+"Well then, Mommy...",そいで おっかさん…,Sayao ...,0.16666666666666666,0.18332398
+Master!,師匠！,Master!,1.0,0.99999994
+"I hope it doesn't get any worse, but...",後は 見てるから いいよ,I'm looking at it later,0.13333333333333333,0.0965802
 "Matsuda-san. Your wife's not \Ndoing well either, is she?","（菊比古）
 松田さん
 奥さんの具合 良かねえんだろう？","Mr. Matsuda
-Did you feel good for your wife?",0.15
+Did you feel good for your wife?",0.15,0.62559474
 I'll look after him.\NYou go on.,"（松田）
 女将さんが亡くなられてから
 ずっと元気がなくてね","After the female general died
-I have no choice forever",0.125
+I have no choice forever",0.125,0.078284316
 Give the doctor my best.,"お医者様に
 よろしくお伝えください","Doctor
-Please tell me",0.1111111111111111
+Please tell me",0.1111111111111111,0.63693845
 "It's all right. I had a good life,\Nwith few regrets.","大概のことは
 悔いのねえ いい人生だったが—","Most of
-Hey she was a good life-",0.1
+Hey she was a good life-",0.1,0.51072407
 This name has too much history.,"フ… この名前は
 いわくがあり過ぎる","Fu ... This name is
-Walking too much",0.36363636363636365
+Walking too much",0.3636363636363637,0.47953954
 "It's natural to find it too heavy, and to not want to take it.","大名跡は重すぎて
 継ぎたがらねえのが 噺家の常","Oga Suguru is too heavy
-A hoater's always",0.15789473684210525
-"I felt the same way, at first.",名前のことだけが 気に掛かる,I only care about the name,0.15384615384615385
-"Let me confess something to you, Kiku.",どうか未練を聞いてくれるか　菊や,If you ask for something unreaded?,0.14285714285714285
+A hoater's always",0.15789473684210525,0.26957777
+"I felt the same way, at first.",名前のことだけが 気に掛かる,I only care about the name,0.15384615384615385,0.16177851
+"Let me confess something to you, Kiku.",どうか未練を聞いてくれるか　菊や,If you ask for something unreaded?,0.14285714285714285,0.16732022
 "Long ago, my father spoiled me.","（七代目）
 あれはまだ
 俺が おやじに甘やかされて","That is still
-I am spoiled by her father",0.13333333333333333
+I am spoiled by her father",0.13333333333333333,0.61245304
 I had no intention whatsoever \Nof becoming a storyteller...,"噺家になる気など
 さらさら なかった頃","I feel like it becomes a family
-When I was not surprised",0.10526315789473684
+When I was not surprised",0.10526315789473684,0.25176507
 but I'm gonna use my rakugo to \Nmake Master like me even more.,"お前より もっともっと
 落語で師匠に気に入られてやる","More than you
-I will be careful about my master in rakugo",0.21739130434782608
+I will be careful about my master in rakugo",0.21739130434782608,0.8181927
 His rakugo was truly excellent.,"（七代目）
 野郎の落語は
 途方もなくうまかった","Rakugo of the guy
-It was delicious",0.18181818181818182
-I hastily began studying rakugo.,俺は焦って 落語を始めた,I started a rakugo,0.25
+It was delicious",0.18181818181818185,0.7656179
+I hastily began studying rakugo.,俺は焦って 落語を始めた,I started a rakugo,0.25,0.77410376
 "But, I couldn't possibly \Ncompete with that man.","けど 野郎にゃ
 まったく 歯が立たなかった","But it is a bastard
-I did not stand at all",0.1
+I did not stand at all",0.1,0.31360677
 "So, I used my standing as his son to get \Nmy father to promise, in front of a crowd,","そして 俺は 息子って地位を
 目いっぱい使って—","And I have a son standing
-Using your eyes",0.16666666666666666
+Using your eyes",0.16666666666666666,0.5202547
 that he would make me the next Yakumo.,"“次の八雲(やくも)は俺にくれる”って
 大勢の前で おやじに約束させた","""The next Yakumo  will be me
-He promised to fly in a large number of",0.25
+He promised to fly in a large number of",0.25,0.7337386
 "I was convinced that by doing that, \NI could beat my rival in rakugo.","そうすりゃ あの野郎に
 落語で勝てると思い込んでたんだ","That's right to that guy
-I was convinced that I could win in rakugo",0.35
+I was convinced that I could win in rakugo",0.35,0.78632843
 No one would speak up against \Na son inheriting from his father...,"息子が継ぐって言やあ
 誰も文句は 言えねえだろ","My son is susceptible
-No one can complain",0.16666666666666666
-"However, everyone there must have \Nknown that man was more deserving.",けど そこにいたみんなが—,But everyone was there-,0.13333333333333333
+No one can complain",0.16666666666666666,0.17381677
+"However, everyone there must have \Nknown that man was more deserving.",けど そこにいたみんなが—,But everyone was there-,0.13333333333333333,0.35472187
 "I didn't know, back then, how much \Nsuffering this name would cause.","（七代目）
 この名前で こんなに
 苦しむことになるなんて—","In this name he
-I will suffer-",0.15789473684210525
-"Soon after, the man left our house.",程なく野郎は 一門を抜けて,The bastard does not go through the one,0.06666666666666667
+I will suffer-",0.15789473684210525,0.25484744
+"Soon after, the man left our house.",程なく野郎は 一門を抜けて,The bastard does not go through the one,0.06666666666666668,0.22659981
 No one knows what happened\Nto him after that.,"その後 どうなったかは
 誰も知らねえ","What happened after that
-No one knows",0.6
-His stage name was...,野郎の高座名は…,The high seat name of the guy is ...,0.18181818181818182
-It's as you think. \NThe old man that raised him.,あいつを育てたってえ じいさんだ,It is a good idea to raise that guy,0.10526315789473684
-Did you know?,助六？ まさか,Aid?Masadish,0.16666666666666666
+No one knows",0.6,0.70859396
+His stage name was...,野郎の高座名は…,The high seat name of the guy is ...,0.18181818181818185,0.463951
+It's as you think. \NThe old man that raised him.,あいつを育てたってえ じいさんだ,It is a good idea to raise that guy,0.10526315789473684,0.43778205
+Did you know?,助六？ まさか,Aid?Masadish,0.16666666666666666,0.14714934
 His rakugo was a dead ringer. \NI knew right away.,"（七代目）
-落語が生き写しで すぐに分かった",Rakugo was happy and she immediately understood,0.125
-"""Karmic retribution.""",因果応報,Report,0.0
+落語が生き写しで すぐに分かった",Rakugo was happy and she immediately understood,0.125,0.5762275
+"""Karmic retribution.""",因果応報,Report,0.0,0.029518973
 Perhaps it was fate that he came to me.,"俺ん所にあいつが来たのも
 因縁なんだ","I also came to me
-It is the cause",0.26666666666666666
-and I lost one of my darling sons.,大事な息子の１人を失った,I lost one of the important sons,0.45454545454545453
-I truly am a weak man.,俺は 本当に弱い,I'm really weak,0.2222222222222222
+It is the cause",0.26666666666666666,0.4370666
+and I lost one of my darling sons.,大事な息子の１人を失った,I lost one of the important sons,0.4545454545454545,0.788381
+I truly am a weak man.,俺は 本当に弱い,I'm really weak,0.2222222222222222,0.7801257
 "To be honest, I don't really want to give the name Yakumo to you, either.","本当は お前に
 八雲を渡すのだって嫌なんだ","Really ah
-I hate to pass Ya clouds",0.14285714285714285
+I hate to pass Ya clouds",0.14285714285714285,0.23085524
 so laugh if you want.,"みっともねえと 笑うなら
 笑いやがれ","If you laugh and laugh
-Laughing",0.375
+Laughing",0.375,0.5423758
 "Of course, there's much \Nthat I do like about you.","もちろん 好きなところも
 たくさんありますけど","Of course I also like it
-There are a lot of",0.2777777777777778
+There are a lot of",0.2777777777777778,0.49595967
 That's why I was able to\Ndo my own rakugo.,"だから
 あたしの落語ができたんです","that's why
-I got my rakugo",0.5
+I got my rakugo",0.5,0.80838406
 "As an apprentice or a son,\NI'm glad I was able to come to you.","弟子としても 息子としても
 師匠の下に来れてよかった","Even as a disciple and son
-It was good to come under the master",0.24
+It was good to come under the master",0.24,0.44598866
 Thank you for taking me in.,"引き取ってくだすって
 ありがとうございます","Take over
-Thank you",0.2222222222222222
+Thank you",0.2222222222222222,0.4683873
 Master...,"（松田）師匠
 （菊比古）ん？","Master
-?",0.3333333333333333
-Thank you for serving \Nas chief mourner today.,（松田）喪主の大役 お疲れ様です,Great role of mourner,0.08333333333333333
-It was a fine ceremony.,良い お式でしたよ,It was a good formula,0.375
-I've been crying ever since the wake.,あたしなんか 通夜から泣き通しで,I'm crying from the night,0.25
+?",0.3333333333333333,0.77797246
+Thank you for serving \Nas chief mourner today.,（松田）喪主の大役 お疲れ様です,Great role of mourner,0.08333333333333333,0.62723935
+It was a fine ceremony.,良い お式でしたよ,It was a good formula,0.375,0.24329984
+I've been crying ever since the wake.,あたしなんか 通夜から泣き通しで,I'm crying from the night,0.25,0.71294034
 Everyone who attended said \Nthat you did a fine job.,"参列してくださった方も
 皆さん いい顔なすって","Those who attended them
-Everyone's good face",0.1875
+Everyone's good face",0.1875,0.57586837
 I feel like I'm supposed to be \Ngetting ready for something.,"“覚悟を決めろ”って
 言われてるようだよ","""I will decide""
-It seems to be said",0.15789473684210525
-"By the way, er...",（松田）ところで あの…,By the way ...,0.6666666666666666
-Yes.,（菊比古）ああ,ah,0.0
-I was hoping to take some time off...,あたしを雇ってくださるって話,I talk to hire me,0.16666666666666666
-"Oh, I see...",ああ そうかい,Oh yeah,0.16666666666666666
-"No, by all means.",いや そうしとくれよ,"No, let me know",0.2222222222222222
+It seems to be said",0.15789473684210525,0.20490834
+"By the way, er...",（松田）ところで あの…,By the way ...,0.6666666666666666,0.8494504
+Yes.,（菊比古）ああ,ah,0.0,0.36590773
+I was hoping to take some time off...,あたしを雇ってくださるって話,I talk to hire me,0.16666666666666666,0.05388097
+"Oh, I see...",ああ そうかい,Oh yeah,0.16666666666666666,0.3859297
+"No, by all means.",いや そうしとくれよ,"No, let me know",0.2222222222222222,0.28046358
 Matsuda-san. Thank you for \Ndoing so much for my father.,"今まで 父に尽くしてくだすって
 ありがとう","I will do my father until now
-Thank you",0.26666666666666666
+Thank you",0.26666666666666666,0.28322428
 You should have a drink.,"（菊比古）
 最後にうちまで 車で送っとくれよ
 少し 飲んでいけばいい","Finally, please send me a car
-I should drink a little",0.21428571428571427
-We'll have our own sendoff party.,（菊比古）あたしたちも 送別会だね,We are also a farewell party,0.16666666666666666
+I should drink a little",0.21428571428571427,0.58451927
+We'll have our own sendoff party.,（菊比古）あたしたちも 送別会だね,We are also a farewell party,0.16666666666666666,0.5064859
 Yes?,"（下座）菊さん
 （菊比古）はい","Kiku
- Yes",0.3333333333333333
+ Yes",0.3333333333333333,0.31618616
 It would be a nice change.,"（下座）
 今日から出囃子 変えちゃどうだい
 気晴らしになるよ","I'm going to change my departure from today
-It will be distracted",0.17647058823529413
-What would you like?,（下座）何にしよ,What,0.2
-I'll leave it to you.,（菊比古）お師匠さんに任せます,I will leave it to the teacher,0.4
-Now...,（菊比古）さあ…,...,0.5
-It's quiet.,（菊比古）静かだ,quiet,0.25
+It will be distracted",0.17647058823529413,0.30573705
+What would you like?,（下座）何にしよ,What,0.2,0.1947183
+I'll leave it to you.,（菊比古）お師匠さんに任せます,I will leave it to the teacher,0.4,0.42470437
+Now...,（菊比古）さあ…,...,0.5,0.5717488
+It's quiet.,（菊比古）静かだ,quiet,0.25,0.7573755
 "The audience is cold,","客席が 冷え切ってやがらあ
 そらそうだ","The audience is cold
-I'm sorry",0.5
+I'm sorry",0.5,0.8581146
 What will I say?\NHow will I act?,"あたしが 何を言うか
 どんな顔をするか","What do you say
-What kind of face do you face",0.16666666666666666
+What kind of face do you face",0.16666666666666666,0.2974482
 Every one of them is watching\Nlike a hawk...,"こんな時
 人情噺の一つでもできりゃ","Such a time
-Even if it is one of humanity 噺",0.25
+Even if it is one of humanity 噺",0.25,0.2077596
 It would be easy for me to \Ndo a sentimental story now.,"しっかり
 見届けてやろうって方ばかり","Tightly
-How to watch it",0.125
+How to watch it",0.125,0.108180314
 "Hello, there.","昔から “流行(はや)り廃り”
 てえものがございます","From the old days, ""epidemic""
-There is something",0.15384615384615385
+There is something",0.15384615384615385,0.13396695
 Who the hell are you?\NFilthy wretch...,"誰だい お前は！
 薄汚えナリしやがって","Who are you!
-Deep-dirty nari",0.25
+Deep-dirty nari",0.25,0.2103242
 "I, you ask?","ここに来たら
 急に死にたくなったんだ","If you come here
-I suddenly wanted to die",0.16666666666666666
-I am a shinigami.,あたしかい あたしは死神だ,I'm sorry I was a god of god,0.2
+I suddenly wanted to die",0.16666666666666666,0.2254363
+I am a shinigami.,あたしかい あたしは死神だ,I'm sorry I was a god of god,0.2,0.17161137
 You don't even have to take a pulse.,"ヘヘ 脈なんざ取れなくて
 いいんだよ","I can't get a hechelial
-it's fine",0.11764705882352941
-Let me tell you something useful.,いいことを教えてやろう,Let's tell me good things,0.3
-"a shinigami will be with them, \Neither by their head or their feet.",はっきりと 見える,Be clearly visible,0.0625
-If they're by the head... \Ntheir life is all but over.,足元にいるのは まだ寿命がある,There is still a life that is at the foot,0.15
+it's fine",0.1176470588235294,0.025435688
+Let me tell you something useful.,いいことを教えてやろう,Let's tell me good things,0.3,0.5081611
+"a shinigami will be with them, \Neither by their head or their feet.",はっきりと 見える,Be clearly visible,0.0625,0.1893022
+If they're by the head... \Ntheir life is all but over.,足元にいるのは まだ寿命がある,There is still a life that is at the foot,0.15,0.42216727
 "If you speak the magic words, \Nthe shinigami will leave them.","お前がまじないを唱えれば
 死神が離れる","If you cast no
-Grammar leaves",0.11764705882352941
-You'll become a fine doctor indeed.,お前は立派な医者だよ,You are a good doctor,0.3
-This tension in the air...,この張り詰めた空気の音,Sound of this tensioned air,0.2222222222222222
-Tegeretsuno...,テケレッツの,Terkelets,0.0
-That's just right...,なんです？ そのまじないてえのは,What is it?That's why,0.2
-Pa!,パア！,Perhal!,0.3333333333333333
+Grammar leaves",0.1176470588235294,0.28940812
+You'll become a fine doctor indeed.,お前は立派な医者だよ,You are a good doctor,0.3,0.62874734
+This tension in the air...,この張り詰めた空気の音,Sound of this tensioned air,0.2222222222222222,0.7326941
+Tegeretsuno...,テケレッツの,Terkelets,0.0,0.42324
+That's just right...,なんです？ そのまじないてえのは,What is it?That's why,0.2,0.14075689
+Pa!,パア！,Perhal!,0.3333333333333333,0.23865275
 Each of these candles \Nrepresents a person's life.,"このろうそくは
 みんな人の寿命だよ","This dance
-Everyone is the life of people",0.125
-"Go on, look.",ほらご覧,Hoping,0.0
+Everyone is the life of people",0.125,0.28993392
+"Go on, look.",ほらご覧,Hoping,0.0,0.1941161
 "And that one there, about to go out?\NThat's your life.","その今にも消えそうな ろうそくが
 お前さんの寿命だ","The candle that seems to disappear now
-Yofu's life life",0.19047619047619047
-What?!,なんだって？,What did you say?,0.3333333333333333
-"Blinded by money,\Nyou wasted your life away.",寿命を取っ換えたんだ　ヘヘヘ,I changed my life,0.07692307692307693
-"Sorry to tell you, but \Nyou're going to die, soon.",しくじったら死ぬぞ　いいかい,If you're going to die,0.38461538461538464
+Yofu's life life",0.19047619047619047,0.25734755
+What?!,なんだって？,What did you say?,0.3333333333333333,0.4779139
+"Blinded by money,\Nyou wasted your life away.",寿命を取っ換えたんだ　ヘヘヘ,I changed my life,0.07692307692307693,0.32145008
+"Sorry to tell you, but \Nyou're going to die, soon.",しくじったら死ぬぞ　いいかい,If you're going to die,0.38461538461538464,0.491215
 "While it's still burning, transfer \Nthe flame to another candle.","この燃えさしに
 ろうそくの火を移してみな","In this burning
-Transfer the fire of the candle",0.16666666666666666
-Th-The flame...,火を…,Fire ...,0.25
-The candle flame... be very careful...,ろうそくの火を 上手に…,Good luck with the fire ...,0.18181818181818182
-Oh no! I can't do it!,ダメだ　うまくいかねえ,It's no good,0.2
-My hands... my hands\Naren't working right!,ヘヘヘ　震えてるな,Don't shake my hair,0.18181818181818182
+Transfer the fire of the candle",0.16666666666666666,0.81557125
+Th-The flame...,火を…,Fire ...,0.25,0.5624968
+The candle flame... be very careful...,ろうそくの火を 上手に…,Good luck with the fire ...,0.18181818181818185,0.44824436
+Oh no! I can't do it!,ダメだ　うまくいかねえ,It's no good,0.2,0.17069183
+My hands... my hands\Naren't working right!,ヘヘヘ　震えてるな,Don't shake my hair,0.18181818181818185,0.3154798
 "If you tremble, you're dead.","震えると消えちまう
 消えたら 死んじまうぞ","If you shake, it will disappear
-If it disappears, it will die",0.23076923076923078
-Stop that! Shut up!,よしとくれよ　黙っててくれ,Yoshida Shut up,0.3333333333333333
-It's going out. Going out...,消えるよ 消えるよ…,It will disappear ...,0.25
-This is the solitude I have longed for.,これがあたしの 心底欲した孤独,This is the lonely loving lodging,0.25
+If it disappears, it will die",0.2307692307692308,0.5809506
+Stop that! Shut up!,よしとくれよ　黙っててくれ,Yoshida Shut up,0.3333333333333333,0.30341563
+It's going out. Going out...,消えるよ 消えるよ…,It will disappear ...,0.25,0.24213159
+This is the solitude I have longed for.,これがあたしの 心底欲した孤独,This is the lonely loving lodging,0.25,0.53164786
 You did a fine job filling in for Yakumo.,"（会長）
 八雲のいねえ穴を埋めて
 よくぞ立派に勤め上げた","Fill the Yakumo's hole
-I worked in a lot",0.17647058823529413
+I worked in a lot",0.17647058823529413,0.7385925
 That name can't stay unused forever.,"いつまでも あの名前を
 空けとくわけにはいかん","That name forever
-Speaking of empty",0.2727272727272727
-There's no one who can become \Nthe 8th Generation but you.,お前以外に 誰が八代目になれる,Who can be the eight generation other than you,0.2222222222222222
+Speaking of empty",0.2727272727272727,0.63451564
+There's no one who can become \Nthe 8th Generation but you.,お前以外に 誰が八代目になれる,Who can be the eight generation other than you,0.2222222222222222,0.7670747
 There's something I still don't understand.,"やっぱり嫌です　どうしても
 腑(ふ)に落ちねえことがあって","After all I don't like it
-There is a fall in the",0.2222222222222222
+There is a fall in the",0.2222222222222222,0.20542257
 someone who can say that may become an interesting master.,"そのくらい言える奴の方が
 面白い名人になるもんだ","Those who can say that much
-It's an interesting master",0.4666666666666667
-Think about it carefully.,よく 考えときなさいよ,I think carefully,0.3333333333333333
+It's an interesting master",0.4666666666666667,0.8064611
+Think about it carefully.,よく 考えときなさいよ,I think carefully,0.3333333333333333,0.6927356
 You can't get back what you threw out.,"（菊比古）
 お前さんにも
 散々 砂掛けて出ていって","To you
-Suddenly, I'm out",0.14285714285714285
+Suddenly, I'm out",0.14285714285714285,0.30757326
 That's not funny. As if I'd \Never take them in anyway.,"冗談じゃねえ
 拾ってたまるか あんな奴ら","It is not a joke
-It's been picking up or something like that",0.125
+It's been picking up or something like that",0.125,0.2923666
 Do you feel responsible\Nfor what happened?,"（お栄）
-もしかして 責任感じてんのかい？",Do you feel responsible?,0.5
-"Right? And they're raising \Na kid together, too...",子供も育ってるだろうし　ハア…,Children will grow up and Haa ...,0.11764705882352941
+もしかして 責任感じてんのかい？",Do you feel responsible?,0.5,0.88269615
+"Right? And they're raising \Na kid together, too...",子供も育ってるだろうし　ハア…,Children will grow up and Haa ...,0.1176470588235294,0.38514376
 The association told me\Nto take time off.,"（菊比古）
 協会も しばらく
 休めって言ってくださったし","Association also for a while
-I told you to rest",0.125
-"Once I see him and know \Nhe's safe, I'll come back.",顔見て安心したら 戻ってくるよ,I will come back when I feel relieved to see my face,0.19047619047619047
+I told you to rest",0.125,0.55133015
+"Once I see him and know \Nhe's safe, I'll come back.",顔見て安心したら 戻ってくるよ,I will come back when I feel relieved to see my face,0.19047619047619047,0.46889564
 "She didn't write the return address, \Nbut it's better than nothing, I suppose.","送り先なんて書いてないけど
 ないよりましだろ","I have not written the destination
-It is not better",0.18181818181818182
+It is not better",0.18181818181818185,0.39919174
 She's practically asking me \Nto come looking for her.,"まるで こっちで探してくれって
 言ってるみたいだよ","I'm looking for it here
-It looks like you're saying",0.1
+It looks like you're saying",0.1,0.25987482
 "Is there anywhere here that\NI can go, to listen to rakugo?","この辺で
 落語を聞ける小屋は ないかい？","In this area
-A hut who can hear a rakugo is not she?",0.19047619047619047
-"Well, that's an unusual \Nquestion for a youngster.",なんや旦那　若いのに珍しいな,It is rare for what husband,0.0625
+A hut who can hear a rakugo is not she?",0.19047619047619047,0.5371653
+"Well, that's an unusual \Nquestion for a youngster.",なんや旦那　若いのに珍しいな,It is rare for what husband,0.0625,0.337862
 Now they've got their televisions.,"今じゃ テレビだなんだ言うて
 つまらん世になってもうたなあ","I'm still a TV now
-It became a tight",0.06666666666666667
+It became a tight",0.06666666666666668,0.45849267
 The world sure has gotten boring.,"昔はこの辺にも
 いくらか あったけんど","In the old days
-Somewhat",0.09090909090909091
+Somewhat",0.09090909090909093,0.34934798
 But...,"（おじさん）でもな
-（菊比古）ん？",?,0.0
-"If you go there,\Nyou'll see quite a show.",行ってみい　いいもん見れるで,You can see it,0.14285714285714285
-"Maybe I'll go fish up some bones, too!",（小夏）どうしたい,I want to help,0.07142857142857142
+（菊比古）ん？",?,0.0,0.44192994
+"If you go there,\Nyou'll see quite a show.",行ってみい　いいもん見れるで,You can see it,0.14285714285714285,0.25498006
+"Maybe I'll go fish up some bones, too!",（小夏）どうしたい,I want to help,0.07142857142857142,0.20052801
 Hey now!\NDon't just take my pole!,"おい 勝手に竿(さお)を
 持ち出すんじゃない","Hey 
-I'm not brought out",0.07142857142857142
-Nozarashi...,（菊比古）「野ざらし」？,"""Norin""?",0.0
-"Well, let's see if I can\Nfish up some bones!",てやんで〜い,I'm sorry,0.07142857142857142
-"Come on, bones!",お〜い,Oi,0.0
+I'm not brought out",0.07142857142857142,0.28673363
+Nozarashi...,（菊比古）「野ざらし」？,"""Norin""?",0.0,0.35717157
+"Well, let's see if I can\Nfish up some bones!",てやんで〜い,I'm sorry,0.07142857142857142,0.15762164
+"Come on, bones!",お〜い,Oi,0.0,0.16755635
 Like you losers could\Nfish up good bones!,"てめえらにいい骨
 釣られてたまるけえ","Good bone to me
-It is caught up",0.14285714285714285
-"When that old bell rings, \Nthe incoming tide turns south.",上げ潮 南さ〜♪,Tide south-♪ ♪,0.07142857142857142
+It is caught up",0.14285714285714285,0.32029718
+"When that old bell rings, \Nthe incoming tide turns south.",上げ潮 南さ〜♪,Tide south-♪ ♪,0.07142857142857142,0.61887455
 "The crow pops out, and la dee da...","カラスがパッと出りゃ
 こりゃさのさ〜♪","The crow is pumped
-こ さ ~ ♪",0.125
+こ さ ~ ♪",0.125,0.53215927
 Look at her go!,"（小夏）
 あ〜ら スチャラカチャンたら
 スチャラカチャンチャン♪","A ~ ら ス ス ス
-Schalaka Chanchan ♪",0.0
+Schalaka Chanchan ♪",0.0,0.13332434
 Okay!\NPay your fee here!,"（小夏）
-はい お代はこちら",Yes your behagy here,0.25
+はい お代はこちら",Yes your behagy here,0.25,0.21991648
 "I said fee, not feet!","聞いたんなら
 払ってって","Why
-I pay",0.1111111111111111
+I pay",0.1111111111111111,0.2630885
 Old man.,"（小夏）おじちゃん
 （菊比古）あ？","Mari-chan
- Oh?",0.0
+ Oh?",0.0,0.2113118
 "If you listened, you gotta pay.","お代っていっても
 鉄砲の台じゃないよ","Even if you stop
-It's not the platform",0.13333333333333333
-Ten yen per show.,１席10円よ,1 seat 10 yen,0.125
+It's not the platform",0.13333333333333333,0.086942144
+Ten yen per show.,１席10円よ,1 seat 10 yen,0.125,0.6974064
 "Eat some soba, too.","おそばも食べてってね
 お世話になってんだから","I also eat soba
-Because I am indebted",0.18181818181818182
+Because I am indebted",0.18181818181818185,0.7462785
 You learned that rakugo from Sukeroku.,"おじちゃんなんて よしとくれ
 その落語 助六から習ったろ？","My uncle is good
-Did you learn from that rakugo aid?",0.26666666666666666
-Who are you?,お前さん　誰なんだい,Are you anyone,0.4
-Me? I'm Konatsu.,あたし？ 小夏よ,I?Small summer,0.25
+Did you learn from that rakugo aid?",0.26666666666666666,0.6598662
+Who are you?,お前さん　誰なんだい,Are you anyone,0.4,0.52598685
+Me? I'm Konatsu.,あたし？ 小夏よ,I?Small summer,0.25,0.25113106
 "Next time, Showa Genroku \NRakugo Shinju Episode 11.","（みよ吉(きち)）
-次回　昭和元禄落語心中 第11話",Next time the Showa Gokoro De 11 episode 11,0.38461538461538464
+次回　昭和元禄落語心中 第11話",Next time the Showa Gokoro De 11 episode 11,0.38461538461538464,0.7037907

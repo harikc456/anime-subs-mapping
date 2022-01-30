@@ -1,374 +1,374 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "On rainy days, we eat lunch on the stairs instead of the roof.","（長谷祐樹(はせ ゆうき)）
 雨の日は屋上に出ずに
 階段で お弁当を食べる",")
 Rainy day not out on the roof
-He eats a lunch on the stairs",0.3
-That's good!,うん うまい！,Uma!,0.2
+He eats a lunch on the stairs",0.3,0.77056134
+That's good!,うん うまい！,Uma!,0.2,0.24082392
 Yeah.,"（長谷）戻ろうか
 （藤宮）うん","return
- Yeah",0.3333333333333333
+ Yeah",0.3333333333333333,0.29202965
 And we have an unspoken agreement to return to the classroom separately.,"（長谷）
 そして 別々に教室に戻るのが
 暗黙の了解になっていた","And I will return to the classroom separately
-It was an implicit understanding",0.3888888888888889
-Fujimiya-san...,（女子１）藤宮さん,Fujimiya-san,0.5
-Is it true you're friends with Kiryuu-kun?,桐生(きりゅう)君と友達って本当？,Kiryu  is a friend with you?,0.3333333333333333
+It was an implicit understanding",0.3888888888888889,0.6523864
+Fujimiya-san...,（女子１）藤宮さん,Fujimiya-san,0.5,0.97064877
+Is it true you're friends with Kiryuu-kun?,桐生(きりゅう)君と友達って本当？,Kiryu  is a friend with you?,0.3333333333333333,0.81588477
 We heard a rumor.,"（女子２）うわさで聞いたんだけど
 （男子１）マジで？","I heard in a rumor
- Maji?",0.3333333333333333
-Seriously?,え？,picture?,0.3333333333333333
+ Maji?",0.3333333333333333,0.65410644
+Seriously?,え？,picture?,0.3333333333333333,0.32532725
 Th-That's...,"（男子たち）おおーっ
 （長谷）あ…","Oh
- ...",0.25
+ ...",0.25,0.3864003
 "Hey, are you and Fujimiya friends?","（男子２）
-なあ 桐生って藤宮と友達なの？",What is Yayoi and Are you a friend with Fujimiya?,0.35714285714285715
-"Kinda, I guess?",（桐生将吾(しょうご)）まあ 一応？,"Well, do it?",0.25
+なあ 桐生って藤宮と友達なの？",What is Yayoi and Are you a friend with Fujimiya?,0.35714285714285715,0.8035029
+"Kinda, I guess?",（桐生将吾(しょうご)）まあ 一応？,"Well, do it?",0.25,0.34769395
 So it was true!,"（女子１）
 やっぱり あのうわさ
 本当だったんだ","After all
-It was true",0.42857142857142855
-I hate you.,俺は お前が嫌いだ,I hate you,0.75
-Huh?,（桐生）ん？,?,0.5
+It was true",0.42857142857142855,0.5921635
+I hate you.,俺は お前が嫌いだ,I hate you,0.75,0.9123986
+Huh?,（桐生）ん？,?,0.5,0.66354734
 I was Fujimiya-san's friend first.,"俺のほうが先に
 藤宮さんと友達になったのに…","My one is first
-I became a friend with Mr. Fujimiya ...",0.1875
-Why was your friendship recognized publicly before mine?,どうして俺より先に―,Why before me-,0.2
-How should I know?,そんなこと 俺が知るか,Such a thing I know,0.25
+I became a friend with Mr. Fujimiya ...",0.1875,0.8346321
+Why was your friendship recognized publicly before mine?,どうして俺より先に―,Why before me-,0.2,0.32364222
+How should I know?,そんなこと 俺が知るか,Such a thing I know,0.25,0.1874118
 "When did you and Fujimiya-san get so close, anyway?","お前と 藤宮さんが
 公認になってんだよ？","You and Fujimiya-san
-Are you authorized?",0.3076923076923077
+Are you authorized?",0.3076923076923077,0.60608995
 I'm not saying you shouldn't talk to her when I'm not there.,"（長谷）
 別に 俺がいない時に話すなとか
 言わないけど―","Do not speak when I do not
-I do not say-",0.1875
+I do not say-",0.1875,0.39230445
 It makes me wonder what could've happened behind my back.,"俺が知らないところで
 何が起きたのか気になるっていうか","Where I do not know
-I wonder what happened",0.17647058823529413
-"Besides, Fujimiya-san only remembers you, so—",そもそも 藤宮さんは―,Mr. Fujimiya-san,0.125
-You're jealous.,嫉妬してるんだろ？,Are you jealous?,0.3333333333333333
-Don't just blurt it out!,ええっ はっきり言うなよ,Don't say it clearly,0.3333333333333333
-"If it bothers you that much,",そんなに気になるなら―,If you are so concerned,0.2
+I wonder what happened",0.17647058823529413,0.45548913
+"Besides, Fujimiya-san only remembers you, so—",そもそも 藤宮さんは―,Mr. Fujimiya-san,0.125,0.6840261
+You're jealous.,嫉妬してるんだろ？,Are you jealous?,0.3333333333333333,0.74151254
+Don't just blurt it out!,ええっ はっきり言うなよ,Don't say it clearly,0.3333333333333333,0.4023965
+"If it bothers you that much,",そんなに気になるなら―,If you are so concerned,0.2,0.3819523
 "I suppose, but I'm waiting for the right time.","（長谷）
 それは そうだけど…
 俺は俺なりに 時期を見計らって","That's right ...
-I am looking at time to see the time",0.21052631578947367
-You're right.,（長谷）そうだよな…,That's right ...,0.14285714285714285
-Fujimiya-san.,（長谷）藤宮さん,Fujimiya-san,0.5
-Good morning. Hello.,おはよ こんにちは,Good morning Hello,0.75
-Hello.,こんにちは,Hello,0.5
-Did you need him for something?,ああ あいつに何か用だった？,"Oh, was it for something?",0.2727272727272727
+I am looking at time to see the time",0.21052631578947367,0.4628956
+You're right.,（長谷）そうだよな…,That's right ...,0.14285714285714285,0.6695546
+Fujimiya-san.,（長谷）藤宮さん,Fujimiya-san,0.5,0.98445123
+Good morning. Hello.,おはよ こんにちは,Good morning Hello,0.75,0.93429965
+Hello.,こんにちは,Hello,0.5,0.9295095
+Did you need him for something?,ああ あいつに何か用だった？,"Oh, was it for something?",0.2727272727272727,0.4751924
 It seems that rumors about us are going around in class.,"（藤宮）
 教室で 知らないうちに
 うわさになってたみたいだから","Before I do not know in the classroom
-Because it seems to be rumor",0.13043478260869565
-I just wondered if he was upset.,怒ってないかなって,I wonder if I'm not angry,0.16666666666666666
+Because it seems to be rumor",0.13043478260869565,0.6398455
+I just wondered if he was upset.,怒ってないかなって,I wonder if I'm not angry,0.16666666666666666,0.48212427
 I don't think he is.,"（長谷）
-ああ それは大丈夫だと思うけど",Oh I think it's okay,0.18181818181818182
-"That's good, then.",（藤宮）それなら いいんだけど,That's fine,0.2857142857142857
+ああ それは大丈夫だと思うけど",Oh I think it's okay,0.18181818181818185,0.2264637
+"That's good, then.",（藤宮）それなら いいんだけど,That's fine,0.2857142857142857,0.49234414
 Nothing beats eating lunch on the roof!,"（長谷）
 やっぱ 屋上で食べるお弁当は
 最高だな～","After all the lunch box to eat on the roof
-It is the best ~",0.23529411764705882
+It is the best ~",0.2352941176470588,0.7863618
 How come you have the keys to the roof?,"前から 聞こうと思ってたんだけど
 屋上の鍵 なんで持ってるの？","I was thinking of hearing it before
-Do you have the key on the rooftop?",0.2
-Well...,えっ でも…,Even if it is ...,0.16666666666666666
-Math Preparation Room,実は…,actually…,0.0
+Do you have the key on the rooftop?",0.2,0.5384225
+Well...,えっ でも…,Even if it is ...,0.16666666666666666,0.22505412
+Math Preparation Room,実は…,actually…,0.0,0.029477695
 "If you help me, I'll lend you this.","（井上）
 手伝ってくれたら
 これ 貸してやるよ","If you help me
-I will lend this",0.6363636363636364
-It's the roof key.,（井上）屋上の鍵だ,The key to the roof,0.42857142857142855
-Best place in the school to take a break.,いい休憩場所になる,Become a good break place,0.25
+I will lend this",0.6363636363636364,0.85383505
+It's the roof key.,（井上）屋上の鍵だ,The key to the roof,0.42857142857142855,0.7997827
+Best place in the school to take a break.,いい休憩場所になる,Become a good break place,0.25,0.6442715
 Should a teacher be doing that?,"（長谷）
-それ 先生としてどうなの？",What is it as a teacher?,0.2727272727272727
+それ 先生としてどうなの？",What is it as a teacher?,0.2727272727272727,0.56527406
 I see.,"（藤宮）
 きっと 先生なりに私のことを
 考えてくれたんだと思う","Surely my teacher
-I think I thought",0.125
-I guess Inoue isn't such a bad guy after all.,（藤宮）長谷君も いい人だよ,Hasani is also a good person,0.125
-Eh?,えっ,eh,0.5
+I think I thought",0.125,0.13592908
+I guess Inoue isn't such a bad guy after all.,（藤宮）長谷君も いい人だよ,Hasani is also a good person,0.125,0.43990928
+Eh?,えっ,eh,0.5,0.8507752
 "Thanks to you, I know what it means to enjoy school.","学校楽しいって
 こういうことだったんだなあって","School fun
-It was such a thing",0.11764705882352941
-"Until we became friends,",長谷君と仲良くなるまでは―,Until you get along with Hasei-you,0.1
-That's amazing progress!,（長谷）それ すごい進歩だよ！,It is a great progress!,0.2222222222222222
+It was such a thing",0.1176470588235294,0.3813584
+"Until we became friends,",長谷君と仲良くなるまでは―,Until you get along with Hasei-you,0.1,0.44419995
+That's amazing progress!,（長谷）それ すごい進歩だよ！,It is a great progress!,0.2222222222222222,0.82199776
 It's a good thing you started keeping a diary.,"日記 やっぱり書いてみて
 よかったね","Let's write after all
-good for you",0.2
-"Yeah, the diary's great and all,",（藤宮）うん 日記もだけど―,Yeah diary is also,0.2
+good for you",0.2,0.36221057
+"Yeah, the diary's great and all,",（藤宮）うん 日記もだけど―,Yeah diary is also,0.2,0.7690657
 but I'm more grateful to you for being my friend.,"（藤宮）
-記憶が戻ったわけじゃないけど―",I'm not my memory returned-,0.2
+記憶が戻ったわけじゃないけど―",I'm not my memory returned-,0.2,0.11871203
 "Thanks to you, I also made friends with Kiryuu-kun.","本当に 友達になってくれて
 ありがとう","I really become friends
-Thank you",0.21428571428571427
-Really?,（藤宮）えっ そうなの？,is it right?,0.2
+Thank you",0.21428571428571427,0.49164706
+Really?,（藤宮）えっ そうなの？,is it right?,0.2,0.2812364
 People were looking at it on the way to school.,"（長谷）
-みんな 学校来る途中で見に来てた",Everyone came to see it on the way to school,0.42857142857142855
-"I take the train, though...",（藤宮）私 電車だから,because I'm a train,0.2
+みんな 学校来る途中で見に来てた",Everyone came to see it on the way to school,0.42857142857142855,0.7872228
+"I take the train, though...",（藤宮）私 電車だから,because I'm a train,0.2,0.6343984
 "You said your house is on the other side of the river, right?","長谷君のうちは
 川の向こうって言ってたよね？","Hasani-kun
-You said the other side of the river, right?",0.6666666666666666
-Yeah. Across the bridge and to the right.,（長谷）うん  橋 渡って右,Uto Bridge across the right,0.4444444444444444
-I'd like to see it too!,（藤宮）私も見てみたいな,I want to see,0.3333333333333333
+You said the other side of the river, right?",0.6666666666666666,0.5978013
+Yeah. Across the bridge and to the right.,（長谷）うん  橋 渡って右,Uto Bridge across the right,0.4444444444444444,0.6148032
+I'd like to see it too!,（藤宮）私も見てみたいな,I want to see,0.3333333333333333,0.66380334
 "You two always walk home together, right?","あっ でも桐生君とだったら
 いつも一緒に帰ってるんだよね？","But if it was Kiryu-kun
-You are always back together, right?",0.375
-"Yeah, I guess.",ああ うん,Oh yeah,0.16666666666666666
+You are always back together, right?",0.375,0.41900197
+"Yeah, I guess.",ああ うん,Oh yeah,0.16666666666666666,0.44980165
 I feel like he can do anything.,"桐生君って 何でも
 できちゃいそうな気がするな","Kiryu-cho
-Don't feel like you can",0.36363636363636365
-Hmm...,（長谷）ふうん…,...,0.5
+Don't feel like you can",0.3636363636363637,0.26678997
+Hmm...,（長谷）ふうん…,...,0.5,0.48650953
 "I'm still nervous when it's just the two of us, though.","それなのに 先生に当てられても
 ちゃんと答えられるし―","Even though it is applied to the teacher
-I can answer my",0.17391304347826086
+I can answer my",0.17391304347826084,0.03143602
 I don't have the courage to talk to him.,"自分から話しかける
 勇気はないけど―","Talk from yourself
-I have no courage-",0.21428571428571427
+I have no courage-",0.21428571428571427,0.65225655
 "But I can tell he's a good person,","いい人だってことは
 すごく感じるの","It is a good person
-I feel very",0.2857142857142857
+I feel very",0.2857142857142857,0.6387336
 so I hope I can be friends with him too.,"だから 私も桐生君と
 仲良くなれればいいなって思うんだ","So I also with Kiryu-kun
-I think it is good if I can get along well",0.2
-Fujimiya-san?,ん？,Yeah?,0.3333333333333333
+I think it is good if I can get along well",0.2,0.3109385
+Fujimiya-san?,ん？,Yeah?,0.3333333333333333,0.12747091
 Why do you keep talking about him?,"（長谷）
-なんで あいつの話ばっかするの？",Why do he talk about them?,0.36363636363636365
-Have what?,（藤宮）何？,What?,0.6666666666666666
+なんで あいつの話ばっかするの？",Why do he talk about them?,0.3636363636363637,0.6069479
+Have what?,（藤宮）何？,What?,0.6666666666666666,0.44429165
 "You're talking about him because \Nyou're interested in him, aren't you?","だって 気になるから
 あいつの話 出すんだよね？","Because I'm worried
-You talk about that, right?",0.2631578947368421
-It's not like that!,（藤宮）そういうんじゃないよ,That's not,0.5
+You talk about that, right?",0.2631578947368421,0.296445
+It's not like that!,（藤宮）そういうんじゃないよ,That's not,0.5,0.45545834
 You can tell me the truth.,"別に 本当のことを
 言ってくれれば…","Another real thing
-If you say ...",0.07692307692307693
-That is the truth!,友達だからだよ！,Because it is a friend!,0.2222222222222222
+If you say ...",0.07692307692307693,0.29690874
+That is the truth!,友達だからだよ！,Because it is a friend!,0.2222222222222222,0.27752125
 "He's your friend, isn't he?","本当だってば
 桐生君は 長谷君の友達でしょ？","Reality
-Kiryu-kun is your friend of Hasani?",0.3333333333333333
+Kiryu-kun is your friend of Hasani?",0.3333333333333333,0.382823
 I'm saying this because we're friends!,"（長谷）
 友達だから
 余計に気になっちゃうんだよ","Because it is a friend
-I'm interested in extra",0.1875
+I'm interested in extra",0.1875,0.3425085
 Can't we just talk about the two of us anymore?,"２人だけの会話は
 もう できないの？","Two people's conversation
-Can you not do it anymore?",0.15
-I didn't mean...,私は そんなつもりじゃ…,I'm going to say that ...,0.2
+Can you not do it anymore?",0.15,0.6393113
+I didn't mean...,私は そんなつもりじゃ…,I'm going to say that ...,0.2,0.45101574
 I'm not saying you can't talk about him at all.,"まあ 別にあいつの話するなって
 わけじゃないけど","I will talk to you separately
-I'm not sure",0.29411764705882354
-You jerk!,バカッ！,Baca!,0.25
-Huh? What's wrong?,え… なんで？,Huh? Why?,0.3333333333333333
+I'm not sure",0.29411764705882354,0.2639861
+You jerk!,バカッ！,Baca!,0.25,0.36317798
+Huh? What's wrong?,え… なんで？,Huh? Why?,0.3333333333333333,0.5656586
 You're right. Everything I say is boring.,"何かちょっと つまんないなって
 思っちゃってさ","Something is wrong
-I think",0.16666666666666666
+I think",0.16666666666666666,0.115412965
 That's not it! I wasn't talking about you!,"（藤宮）
-でも 私が桐生君の話をするのは…",But I'm talking about Kiryu-kun ...,0.2
-It's just that when he comes up...,あいつが 話の中に出てくるのが…,That guy comes out in the story ...,0.21428571428571427
-Don't come after me!,（藤宮）ついてこないで！,Do not follow!,0.25
+でも 私が桐生君の話をするのは…",But I'm talking about Kiryu-kun ...,0.2,0.17484312
+It's just that when he comes up...,あいつが 話の中に出てくるのが…,That guy comes out in the story ...,0.21428571428571427,0.39165887
+Don't come after me!,（藤宮）ついてこないで！,Do not follow!,0.25,0.49864715
 Tell the teacher I left early \Nbecause I wasn't feeling well.,"長谷君から
 先生に伝えといてください","From Hasani
-Please tell the teacher",0.2
-Please.,お願いします,please,0.5
-What am I doing?,（長谷）俺 何やってるんだろ,I'm doing what I'm doing,0.5
-I'm really sorry.,はい  私のほうこそ すみません,Yes I'm sorry I'm sorry,0.5
+Please tell the teacher",0.2,0.3137753
+Please.,お願いします,please,0.5,0.8284509
+What am I doing?,（長谷）俺 何やってるんだろ,I'm doing what I'm doing,0.5,0.6433137
+I'm really sorry.,はい  私のほうこそ すみません,Yes I'm sorry I'm sorry,0.5,0.57857853
 I made Fujimiya-san angry.,"バカだ 俺…
 藤宮さんを怒らせちゃった","I'm stupid ...
-I got angry with Mr. Fujimiya",0.16666666666666666
-What should I do? It's Friday!,どうしよう 今日 金曜日なのに…,How is it Friday today ...,0.15384615384615385
-"Your first fight, huh?",（桐生）初めてのケンカか,the first fight,0.2857142857142857
+I got angry with Mr. Fujimiya",0.16666666666666666,0.69746584
+What should I do? It's Friday!,どうしよう 今日 金曜日なのに…,How is it Friday today ...,0.15384615384615385,0.58921784
+"Your first fight, huh?",（桐生）初めてのケンカか,the first fight,0.2857142857142857,0.7166123
 You're home early today!,"（藤宮志穂(しほ)）
-今日は ずいぶん早いわね",Today is very early,0.25
-Oh! You didn't bring an umbrella?,やだ 傘持ってなかったの？,Do not have a good umbrella?,0.14285714285714285
-It's okay. I have one in my room.,（藤宮）大丈夫 部屋にあるから,Because it is in the room,0.23076923076923078
+今日は ずいぶん早いわね",Today is very early,0.25,0.6858131
+Oh! You didn't bring an umbrella?,やだ 傘持ってなかったの？,Do not have a good umbrella?,0.14285714285714285,0.7273525
+It's okay. I have one in my room.,（藤宮）大丈夫 部屋にあるから,Because it is in the room,0.2307692307692308,0.42973778
 I just wanted to have fun talking with Hase-kun.,"（藤宮）
 長谷君と 楽しく
 お話したかっただけなのに…","Happy with Hasei
-I just wanted to talk ...",0.35714285714285715
+I just wanted to talk ...",0.35714285714285715,0.5702148
 Inoue said she's been in bed since Friday night.,"（桐生）
 “金曜の夜から寝込んでる”って
 井上 言ってたから―","""I'm going to sleep from Friday night""
-Because I said Inoue-",0.14285714285714285
-It's all my fault.,（長谷）俺のせいだ,I'm my fault,0.25
-Why?,（桐生）なんで？,Why?,1.0
+Because I said Inoue-",0.14285714285714285,0.67636746
+It's all my fault.,（長谷）俺のせいだ,I'm my fault,0.25,0.74275357
+Why?,（桐生）なんで？,Why?,1.0,0.9999994
 It was raining when she went home that day.,"（長谷）
 藤宮さん 早退した時
 雨降ってたし―","When Fujimiya-san
-It was raining-",0.25
+It was raining-",0.25,0.54580766
 Just tell her you're sorry when she gets here.,"お前とケンカした時の
 記憶がないだろうから―","When I was fighting with you
-Because there is no memory",0.1
-"It's a new week, so she won't even remember your fight, right?",そうだといいんだけど,That's right,0.11764705882352941
-"Fujimiya-san, come here for a sec.",藤宮さん ちょっと,Fujimiya-san,0.125
-What are you doing?,（藤宮）何するの？,What is it?,0.2857142857142857
+Because there is no memory",0.1,0.16120468
+"It's a new week, so she won't even remember your fight, right?",そうだといいんだけど,That's right,0.1176470588235294,0.12927659
+"Fujimiya-san, come here for a sec.",藤宮さん ちょっと,Fujimiya-san,0.125,0.9341782
+What are you doing?,（藤宮）何するの？,What is it?,0.2857142857142857,0.3063618
 "I'm sorry about this, and about Friday, too.","（長谷）
 ごめん  今のもだけど
 この前の金曜日のことも","I'm sorry I'm sorry
-This Friday for Friday",0.45454545454545453
-"Oh, I'm Hase Yuuki.",あっ 俺 長谷祐樹,"Oh, Ichi Yuki",0.2222222222222222
-What about your diary? Didn't you read it?,日記は？ 日記 読んでないの？,What is your diary?Did you read a diary?,0.5833333333333334
+This Friday for Friday",0.4545454545454545,0.78582495
+"Oh, I'm Hase Yuuki.",あっ 俺 長谷祐樹,"Oh, Ichi Yuki",0.2222222222222222,0.50121075
+What about your diary? Didn't you read it?,日記は？ 日記 読んでないの？,What is your diary?Did you read a diary?,0.5833333333333334,0.8674297
 Because we've been friends for over a month!,"だって俺たち
 １か月以上も仲良くしてて…","Because we
-Get along well for more than one month ...",0.23529411764705882
+Get along well for more than one month ...",0.2352941176470588,0.7107471
 The only person I can talk to at school is Kiryuu-kun.,"私が学校で 唯一話せる人は
 桐生君だけなので","The only one who speaks only at school
-Because it is only Kiryu-kun",0.2777777777777778
+Because it is only Kiryu-kun",0.2777777777777778,0.8500145
 "Wait, never mind me. \NYou don't remember your diary?","（長谷）
 待って 俺のことはともかく
 日記も覚えてないの？","Wait and me
-Do you not remember the diary?",0.35294117647058826
-I don't have one.,（藤宮）知りません,I do not know,0.25
+Do you not remember the diary?",0.35294117647058826,0.8213252
+I don't have one.,（藤宮）知りません,I do not know,0.25,0.3821619
 Please just leave me alone.,"お願いだから
 もう 私に関わらないでください","please
-Please do not involve me anymore",0.2
-How'd it go?,（桐生）どうだった？,How was Kiryu)?,0.25
-Looks like trouble again.,（長谷）うん…,Yeah ...,0.0
-Class is starting.,（桐生）さあ 授業 授業…,Creed Class Class ...,0.16666666666666666
+Please do not involve me anymore",0.2,0.49347737
+How'd it go?,（桐生）どうだった？,How was Kiryu)?,0.25,0.3341049
+Looks like trouble again.,（長谷）うん…,Yeah ...,0.0,0.20942564
+Class is starting.,（桐生）さあ 授業 授業…,Creed Class Class ...,0.16666666666666666,0.52241415
 You're just gonna sleep through it anyway! Come with me!,"（長谷）
 どうせ寝てるだけなんだから
 付き合ってくれよ","Because I'm just sleeping
-Let me get along",0.1
+Let me get along",0.1,0.46818492
 I don't want things to end like this.,"俺 このまま終わるなんて
 絶対イヤなんだ","I'm going to overcome this
-Absolutely",0.21428571428571427
-"Oh, fine.",ハア しょうがねえな,Haa son,0.0
-Fujimiya doesn't remember her diary?,日記が藤宮の記憶から消えてる？,Diary disappear from Memory of Fujimiya?,0.2727272727272727
+Absolutely",0.21428571428571427,0.2093921
+"Oh, fine.",ハア しょうがねえな,Haa son,0.0,0.13387401
+Fujimiya doesn't remember her diary?,日記が藤宮の記憶から消えてる？,Diary disappear from Memory of Fujimiya?,0.2727272727272727,0.8536633
 How did she know to read her diary before?,"普段 どうやって
 日記読んでたんだ？","How do you usually
-Did you read the diary?",0.35714285714285715
+Did you read the diary?",0.35714285714285715,0.70629776
 I don't know what she did to remember.,"（長谷）
 さあ… どうしてたのか
 分からないけど―","Now ... what happened
-I do not know, but-",0.25
-But she used to always read it before school.,（桐生）なのに 読んでない,I do not read it,0.15384615384615385
+I do not know, but-",0.25,0.34528187
+But she used to always read it before school.,（桐生）なのに 読んでない,I do not read it,0.15384615384615385,0.38692144
 She doesn't want anything to do with me anymore.,"（長谷）
 もう 俺と一緒に
 いたくないってことなんだ","Already with me
-I do not want to",0.35714285714285715
+I do not want to",0.35714285714285715,0.26993972
 She threw away her diary before she lost her memories because she hates me!,"記憶がなくなる前に
 日記を捨てられたんだ","Before memory
-Diary was thrown away",0.2
+Diary was thrown away",0.2,0.64714473
 You don't think she might have just lost it?,"“捨てた”ねえ
 なくしたとは思わないのか？","""Discarded"" Hey
-Don't you think it's gone?",0.35294117647058826
-Lost it?,（桐生）はあ？,?,0.3333333333333333
-What's your problem?,何？ お前,what?you,0.3333333333333333
+Don't you think it's gone?",0.35294117647058826,0.43471652
+Lost it?,（桐生）はあ？,?,0.3333333333333333,0.36545682
+What's your problem?,何？ お前,what?you,0.3333333333333333,0.32330924
 that she'd throw away her precious diary over a little argument?,"今まで大事にしてた日記を
 簡単に捨てられるような―","The diary that I cherished to now
-It is easy to throw away-",0.13636363636363635
-She had it at lunch on Friday.,金曜日の昼休みにはあった,It was on the lunch break of Friday,0.3333333333333333
-I'm going to go look for it!,ちょっと俺 捜してくる,I'm looking for a little,0.25
-"Fujimiya, do you have a minute?",（桐生）藤宮  ちょっといいか？,Fujimiya is a little better?,0.2727272727272727
-Kiryuu-kun.,（藤宮）あっ 桐生君,Awakigo,0.0
+It is easy to throw away-",0.13636363636363635,0.55350214
+She had it at lunch on Friday.,金曜日の昼休みにはあった,It was on the lunch break of Friday,0.3333333333333333,0.67459357
+I'm going to go look for it!,ちょっと俺 捜してくる,I'm looking for a little,0.25,0.48511374
+"Fujimiya, do you have a minute?",（桐生）藤宮  ちょっといいか？,Fujimiya is a little better?,0.2727272727272727,0.7285146
+Kiryuu-kun.,（藤宮）あっ 桐生君,Awakigo,0.0,0.39709947
 No omelets today?,"（桐生）
 いや こっちの話
 今日は 卵焼きはないんだ？","No, his story
-There is no egg yaki today?",0.2727272727272727
-Omelets?,（藤宮）え？,?,0.5
-You really don't remember.,（桐生）マジで覚えてないんだな,I really do not remember,0.375
+There is no egg yaki today?",0.2727272727272727,0.30797708
+Omelets?,（藤宮）え？,?,0.5,0.281705
+You really don't remember.,（桐生）マジで覚えてないんだな,I really do not remember,0.375,0.716559
 "Mom made mine today, \Nsince I'm still getting over my cold.","いや いつも弁当
 自分で作ってるのになって思ってさ","No, always lunch
-I'm thinking of making myself",0.14285714285714285
+I'm thinking of making myself",0.14285714285714285,0.33977747
 "By the way, I feel like we ate lunch together last week, but...","桐生君と一緒に
 お昼食べたような気がするんだけど","With Kiryu-kun
-I feel like I ate lunch",0.29411764705882354
-"No, you don't need to apologize.",いや 謝らなくていいんだけど,No apology,0.1
+I feel like I ate lunch",0.29411764705882354,0.47137293
+"No, you don't need to apologize.",いや 謝らなくていいんだけど,No apology,0.1,0.66772544
 Do you remember what happened after school that one time?,"じゃあ この前の放課後のことを
 覚えてる？","Then after this after school
-remember?",0.3076923076923077
+remember?",0.3076923076923077,0.6543213
 You went to get something for me that I'd forgotten in the classroom.,"あっ 確か 私の代わりに
 忘れ物を教室に取りに行ってくれた","Certainly instead of me
-I went to the classroom for forgotten things",0.42105263157894735
-And what was that thing?,その“忘れ物”って？,"That ""forgetful thing""?",0.3333333333333333
-Now I get it.,なるほどね,I see,0.16666666666666666
-"I'm forgetting something, aren't I?",私 何か忘れてるのね？,"I forgot something, right?",0.4
+I went to the classroom for forgotten things",0.42105263157894735,0.75720114
+And what was that thing?,その“忘れ物”って？,"That ""forgetful thing""?",0.3333333333333333,0.29683107
+Now I get it.,なるほどね,I see,0.16666666666666666,0.39265963
+"I'm forgetting something, aren't I?",私 何か忘れてるのね？,"I forgot something, right?",0.4,0.6091939
 You don't need to force yourself to remember.,"無理に思い出さなくてもいい
 お前がこの前 忘れたのは…","You do not have to remember forcibly
-You forgot before you ...",0.26666666666666666
-Don't tell me!,言わないで！,Do not say!,0.2857142857142857
-I have to remember on my own.,これは 私が思い出さなきゃ,I have to remember this,0.4444444444444444
+You forgot before you ...",0.26666666666666666,0.80028903
+Don't tell me!,言わないで！,Do not say!,0.2857142857142857,0.61596316
+I have to remember on my own.,これは 私が思い出さなきゃ,I have to remember this,0.4444444444444444,0.6293364
 I feel like I've forgotten something really important.,"すごく大事なことを
 忘れてる気がするの","Very important thing
-I feel like I forgot",0.3333333333333333
+I feel like I forgot",0.3333333333333333,0.76493466
 I wonder where that really important thing is.,"（桐生）
 その大事なものって
 どこにあるんだろうな？","That important thing
-Where is it?",0.45454545454545453
+Where is it?",0.4545454545454545,0.74110496
 "Right now, someone's out looking for it.","（桐生）
 今 それを捜しに行ってる奴が
 いるんだ","Those who are looking for it now
-There",0.2857142857142857
+There",0.2857142857142857,0.62145466
 "Yeah. If you see him, talk to him.","ああ 見かけたら声かけてやって
 あいつ すげえ喜ぶと思うから","Oh, I can see it
-Because she is gone",0.11764705882352941
+Because she is gone",0.1176470588235294,0.20934375
 It wasn't on the train.,"（長谷）
 ハア… 電車の中にもなかった
 あとは…","Haa ... I was not in the train
-later…",0.23076923076923078
-All that's left is...,あっ あの…,That's ...,0.5
-Talk to him.,（桐生）声かけてやって,voice speak,0.0
-E-Excuse me...,（藤宮）でも…,...,0.3333333333333333
+later…",0.2307692307692308,0.62723356
+All that's left is...,あっ あの…,That's ...,0.5,0.4683279
+Talk to him.,（桐生）声かけてやって,voice speak,0.0,0.16881862
+E-Excuse me...,（藤宮）でも…,...,0.3333333333333333,0.3205677
 Are you making lunch for your friend again?,"また お友達にお弁当
 作ってあげてるの？","Also my friend lunch
-Are you making it?",0.5
-My friend?,“お友達”？,"""Your friend""?",0.3333333333333333
-"So, Hase's the only one absent?",（井上）じゃ 欠席は長谷だけだな,"If it is absent, it is only Nagaya",0.23076923076923078
-Ouch.,イテッ,Ytell,0.0
+Are you making it?",0.5,0.77863604
+My friend?,“お友達”？,"""Your friend""?",0.3333333333333333,0.65447533
+"So, Hase's the only one absent?",（井上）じゃ 欠席は長谷だけだな,"If it is absent, it is only Nagaya",0.2307692307692308,0.4436646
+Ouch.,イテッ,Ytell,0.0,0.13837929
 Why are you looking so hard?,"（藤宮）
 な… 何をそんなに 一生懸命
 捜しているんですか？","... What so hard
-Are you looking for?",0.6
-"Yesterday, and today too...",昨日も 今日も―,Yesterday also today-,0.125
+Are you looking for?",0.6,0.5507855
+"Yesterday, and today too...",昨日も 今日も―,Yesterday also today-,0.125,0.8394099
 Or someone else?,"誰のために？
 自分のため？ それとも…","for whom?
-For myself?Or ...",0.25
-Something important is \Nmissing from my memories.,大事なものだからだよ,It is important because it is important,0.2
-"I don't know what it is,",それが何か分からないけど…,I do not know what it is ...,0.6
-I-I'll help you look!,（長谷）どうかな…,Thank you ...,0.125
-"Instead, tell me one thing.",（長谷）代わりに１つ教えて,Tell one instead of Hasei,0.3333333333333333
+For myself?Or ...",0.25,0.25638092
+Something important is \Nmissing from my memories.,大事なものだからだよ,It is important because it is important,0.2,0.5420372
+"I don't know what it is,",それが何か分からないけど…,I do not know what it is ...,0.6,0.8107864
+I-I'll help you look!,（長谷）どうかな…,Thank you ...,0.125,0.19508833
+"Instead, tell me one thing.",（長谷）代わりに１つ教えて,Tell one instead of Hasei,0.3333333333333333,0.30192465
 Do you think you could've thrown it away?,"自分で捨てたって
 可能性って ある？","I was thrown away by myself
-Is it possible?",0.26666666666666666
+Is it possible?",0.26666666666666666,0.61225325
 Thanks for talking to me.,"その言葉だけで十分だ
 声かけてくれて ありがとう","That word is enough
-Thank you for visiting",0.07692307692307693
-Hase-kun!,長谷君！,Hasei-kun!,0.3333333333333333
-"Are you okay, Hase-kun?",（藤宮）大丈夫？ 長谷君,okay?Hasei,0.2857142857142857
+Thank you for visiting",0.07692307692307693,0.2095541
+Hase-kun!,長谷君！,Hasei-kun!,0.3333333333333333,0.89193344
+"Are you okay, Hase-kun?",（藤宮）大丈夫？ 長谷君,okay?Hasei,0.2857142857142857,0.42333037
 "Fujimiya-san, you just called me ""Hase-kun.""","藤宮さん
 今 俺のこと“長谷君”って","Mr. Fujimiya
-Now my thing ""Hasani-kun""",0.125
-Huh? I...,えっ あ… 私 あれ？,Eh ... me?,0.3333333333333333
+Now my thing ""Hasani-kun""",0.125,0.7329134
+Huh? I...,えっ あ… 私 あれ？,Eh ... me?,0.3333333333333333,0.5736889
 What?,"（長谷）あっ あった
-（藤宮）えっ？",Eh?,0.3333333333333333
+（藤宮）えっ？",Eh?,0.3333333333333333,0.32428208
 Thank goodness. I finally found it.,"（長谷）
-よかったー やっと見つかった",It was good-I finally found,0.3333333333333333
-You don't want to read it?,中 読まなくていいの？,Don't you read it inside?,0.6666666666666666
-I already know this is what I was looking for.,私も これを捜してたってこと,I'm looking for this too,0.3333333333333333
-You'll get your clothes dirty!,ああっ 服汚れちゃうよ,"Oh, I'm getting dirty",0.08333333333333333
+よかったー やっと見つかった",It was good-I finally found,0.3333333333333333,0.5689059
+You don't want to read it?,中 読まなくていいの？,Don't you read it inside?,0.6666666666666666,0.64602214
+I already know this is what I was looking for.,私も これを捜してたってこと,I'm looking for this too,0.3333333333333333,0.5541827
+You'll get your clothes dirty!,ああっ 服汚れちゃうよ,"Oh, I'm getting dirty",0.08333333333333333,0.5846168
 Guess he owes me lunch.,"ハア 今度あいつに
 何かおごらせよう","Haa This time this time
-Let's put something",0.0
+Let's put something",0.0,0.17904037
 I'm amazed you figured out I dropped it by the river.,"（藤宮）
 よく河川敷に落としたって
 分かったね","Well dropped on the riverbed
-I understand",0.1875
+I understand",0.1875,0.62954617
 "I didn't know where else to look, so I gave it a shot.","（長谷）
-他に捜す所なくてイチかバチかだよ",It's not a place to search otherwise,0.15
+他に捜す所なくてイチかバチかだよ",It's not a place to search otherwise,0.15,0.39050406
 Why did you stop by the river that day?,"藤宮さんこそ なんであの日
 河川敷に寄り道したの？","Mr. Fujimiya is why the day
-Did you get on the riverbed?",0.375
-I don't quite remember...,よく覚えてないけど―,I do not remember well-,0.375
+Did you get on the riverbed?",0.375,0.6173106
+I don't quite remember...,よく覚えてないけど―,I do not remember well-,0.375,0.6795949
 but I feel like I talked about going to the river.,"“川に行こう”って
 話したような気がしたからかな","""Let's go to the river""
-I wonder if I felt like talking",0.25
-"Fighting, and making up...",ケンカして仲直りする,Kenka and rework,0.125
-See you tomorrow.,じゃあ また明日,See you tomorrow,0.75
-"Wait, Fujimiya-san...",あっ 待って 藤宮さん！ 忘れ物,Wait and Fujimiya!lost item,0.1111111111111111
+I wonder if I felt like talking",0.25,0.7440563
+"Fighting, and making up...",ケンカして仲直りする,Kenka and rework,0.125,0.27629858
+See you tomorrow.,じゃあ また明日,See you tomorrow,0.75,0.9428272
+"Wait, Fujimiya-san...",あっ 待って 藤宮さん！ 忘れ物,Wait and Fujimiya!lost item,0.1111111111111111,0.7024392
 I'm Hase Yuuki.,"俺たちの距離を
 近づけてくれたような気がして―","Our distance
-I feel like I'm getting close-",0.18181818181818182
+I feel like I'm getting close-",0.18181818181818185,0.070409454
 I felt like our first fight brought us even closer than before.,"初めてのケンカは
 今までより少しだけ―","The first fight
-More than ever-",0.1875
-I was really happy.,俺は本当にうれしかったんだ,I was really happy,0.8
+More than ever-",0.1875,0.5492849
+I was really happy.,俺は本当にうれしかったんだ,I was really happy,0.8,0.95938265

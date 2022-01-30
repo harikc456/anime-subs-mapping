@@ -1,378 +1,378 @@
-en_text,jp_text,google_translated,score
-"Maurer, you haven't been\Ntaking a bath, have you?",お風呂 入ってないでしょ？,Don't take a bath?,0.36363636363636365
+en_text,jp_text,google_translated,score,semantic_score
+"Maurer, you haven't been\Ntaking a bath, have you?",お風呂 入ってないでしょ？,Don't take a bath?,0.3636363636363637,0.63653666
 "You promised, when I moved\Nto the desk next to you,","隣のデスクになった時
 約束したはずですよ","When it became the next desk
-You should have promised",0.42857142857142855
-"I'm going home,\Nso make your own tea, will you?",私 帰りますから,I will return,0.14285714285714285
-What the hell?\NUpsy daisy!,何だ？　そりゃ,What?For,0.25
-And whose fault is it that\NI haven't been able to take a bath?,客？　こんな時間にか？,Customer?Is it such a time?,0.2222222222222222
-Sorry to keep you waiting. Huh?,ん？,Yeah?,0.1111111111111111
-Uh... My name is Tenma...,（テンマ）あ… テンマと申します,... My name is a temma,0.5
-I'd like to ask for your assistance!,どうか ご協力をお願いします,Thank you for your cooperation,0.16666666666666666
-"I see, so you're a doctor...",なるほど こいつは薄汚(うすぎたね)えや,"I see, this guy is thin",0.23076923076923078
+You should have promised",0.42857142857142855,0.67876285
+"I'm going home,\Nso make your own tea, will you?",私 帰りますから,I will return,0.14285714285714285,0.26122662
+What the hell?\NUpsy daisy!,何だ？　そりゃ,What?For,0.25,0.16655615
+And whose fault is it that\NI haven't been able to take a bath?,客？　こんな時間にか？,Customer?Is it such a time?,0.2222222222222222,0.096137226
+Sorry to keep you waiting. Huh?,ん？,Yeah?,0.1111111111111111,0.25579306
+Uh... My name is Tenma...,（テンマ）あ… テンマと申します,... My name is a temma,0.5,0.54074067
+I'd like to ask for your assistance!,どうか ご協力をお願いします,Thank you for your cooperation,0.16666666666666666,0.27655894
+"I see, so you're a doctor...",なるほど こいつは薄汚(うすぎたね)えや,"I see, this guy is thin",0.2307692307692308,0.26149157
 "In other words, Doctor,\Nis this what you're trying to say?","あんたの言いたいことは
 こういうことか？","What I want to say
-What is this?",0.29411764705882354
+What is this?",0.29411764705882354,0.35858575
 The next target of the person\Nwho's been killing,"中年夫婦殺人事件の
 次のターゲットが","Middle-aged couple's murder case
-The next target",0.3333333333333333
-is here in Heidelberg?,ここハイデルベルクにいる,Here in Heidelberg,0.6
-"That couple is fostering a young girl,\Nand when that girl turns 20,",その中年夫婦には養女がいて,The middle-aged couple is a nursing woman,0.1875
-"But you have no idea\Nwho that girl or her foster parents are,",その時 養父母は必ず殺される,"At that time, parents are always killed",0.23529411764705882
-or where they live...,ハッハッハッ…,Hahaha ...,0.16666666666666666
+The next target",0.3333333333333333,0.55290616
+is here in Heidelberg?,ここハイデルベルクにいる,Here in Heidelberg,0.6,0.9223281
+"That couple is fostering a young girl,\Nand when that girl turns 20,",その中年夫婦には養女がいて,The middle-aged couple is a nursing woman,0.1875,0.35798526
+"But you have no idea\Nwho that girl or her foster parents are,",その時 養父母は必ず殺される,"At that time, parents are always killed",0.2352941176470588,0.43432522
+or where they live...,ハッハッハッ…,Hahaha ...,0.16666666666666666,0.18026125
 It's not a joke. Please believe me.,"笑い事じゃないんです！
 信じてください","It's not a laugh!
-Believe please",0.5454545454545454
+Believe please",0.5454545454545454,0.59313923
 I didn't come here\Nto get you to write it up!,"記事にしてほしくて
 来たんじゃありません！","I want you to be an article
-I'm not coming!",0.21052631578947367
+I'm not coming!",0.21052631578947367,0.4723734
 "After those twins\Nslipped out of the hospital,","そのきょうだいが
 病院を抜け出してから","That kind of time
-After leaving the hospital",0.3333333333333333
+After leaving the hospital",0.3333333333333333,0.53171647
 there is at least\Na 6-month blank period,"兄が姿を現すまで
 半年以上の空白期間があるんです","Until my brother appears
-There is a blank period of over half a year",0.25
-before the brother showed himself.,記事にしねえよ,Let's go to the article,0.09090909090909091
-So what?,（マウラー）だから どうした？,What happened ?,0.5
+There is a blank period of over half a year",0.25,0.63507473
+before the brother showed himself.,記事にしねえよ,Let's go to the article,0.09090909090909093,0.11909891
+So what?,（マウラー）だから どうした？,What happened ?,0.5,0.44839293
 those twins came to\NHeidelberg together.,"きょうだいは そろって
 このハイデルベルクに来たんです","Today is
-I came to this Heidelberg",0.08333333333333333
+I came to this Heidelberg",0.08333333333333333,0.1987432
 And the two were raised by\Nthe girl's current foster parents.,"そして ２人とも
 現在の妹の養父母に養われた","And both
-Current sister nourished by nursing parents",0.17647058823529413
+Current sister nourished by nursing parents",0.17647058823529413,0.53396845
 "But the brother ran away from here\Nafter a short period,","しかし 兄のほうは
 短期間で ここも逃げ出した","But my brother is
-He fleed here in a short period of time",0.2631578947368421
-leaving his sister behind.,妹を残して,Leave my sister,0.14285714285714285
+He fleed here in a short period of time",0.2631578947368421,0.7274908
+leaving his sister behind.,妹を残して,Leave my sister,0.14285714285714285,0.63844657
 Why don't you write a novel?\N'Course it probably won't sell.,"小説にでもしな
 売れねえだろうがな","It is a novel
-It will be selling",0.16666666666666666
+It will be selling",0.16666666666666666,0.76509786
 And there might even be\Na newspaper article about him!,"そして それが
 新聞記事になってるかもしれない","And that is
-It may be a newspaper article",0.1875
+It may be a newspaper article",0.1875,0.5398091
 Please let me check the newspapers\Nfrom nine years ago! Please!,"９年前の こちらの新聞を
 調べさせてください","9 years ago this newspaper
-Please check",0.3076923076923077
-Please!,お願いします,please,0.5
+Please check",0.3076923076923077,0.8254716
+Please!,お願いします,please,0.5,0.8087608
 We mustn't allow\Nany more people to be killed!,"これ以上
 犠牲者を出しちゃいけないんだ！","more than this
-I can not put out the victims!",0.10526315789473684
-"These are smaller versions\Nof the daily newspapers,",ああ 日本のお辞儀ってやつか,"Oh, Japan's dictionary",0.08333333333333333
+I can not put out the victims!",0.10526315789473684,0.48273012
+"These are smaller versions\Nof the daily newspapers,",ああ 日本のお辞儀ってやつか,"Oh, Japan's dictionary",0.08333333333333333,0.106126286
 and manuscript files.,"それと これが
 ボツ原稿と資料のファイルだ","And this
-It is a file of Botsuki and document",0.08333333333333333
-T-Thank you very much!,あ… ありがとうございます,"Oh, thank you very much",0.375
-Hurry up and leave\Nwhen you're satisfied!,どういたしまして,you're welcome,0.2222222222222222
+It is a file of Botsuki and document",0.08333333333333333,0.47338775
+T-Thank you very much!,あ… ありがとうございます,"Oh, thank you very much",0.375,0.38335556
+Hurry up and leave\Nwhen you're satisfied!,どういたしまして,you're welcome,0.2222222222222222,0.18366726
 "Jeez! Every once in a while,\NI get a nut case like him.","ったく たまに
 ああいう訳の分かんねえのが来る…","Occasionally
-Oh, I will come to a minute ...",0.08695652173913043
-Please let me find something!,頼むから見つけさせてくれ,Let me find it because I ask,0.3
-"Good morning, Nina!",（クララ）おはよう ニナ！,Good morning Nina!,0.8
-Good morning!,（ニナ）あっ おはよう！,Good morning!,1.0
+Oh, I will come to a minute ...",0.08695652173913042,0.26344955
+Please let me find something!,頼むから見つけさせてくれ,Let me find it because I ask,0.3,0.5261977
+"Good morning, Nina!",（クララ）おはよう ニナ！,Good morning Nina!,0.8,0.9669336
+Good morning!,（ニナ）あっ おはよう！,Good morning!,1.0,0.99999994
 I guess you really didn't like\Nthe boy we hooked you up with.,"紹介した男が
 よっぽど気に入らなかったのね","A man who introduced
-I didn't like it",0.15789473684210525
-I just suddenly felt bad.\NI have to apologize to him.,彼に謝らなきゃ,I apologize to him,0.4
-Huh?,え？,picture?,0.3333333333333333
+I didn't like it",0.15789473684210525,0.4308893
+I just suddenly felt bad.\NI have to apologize to him.,彼に謝らなきゃ,I apologize to him,0.4,0.6546652
+Huh?,え？,picture?,0.3333333333333333,0.39236003
 "I found out that he's not\Nyour ""prince on a white horse.""","そんなメッセージ
 入れてないって言うのよ","Such a message
-I say that I have not put it",0.13636363636363635
+I say that I have not put it",0.13636363636363635,0.09493216
 So you're saying that you fainted\Nbecause you saw that boy?,"君が失神したのは
 その男性を見たからだと言うんだね","You fainly fainted
-He says that he saw the man",0.2
-Yes...,ええ,Yes,0.5
-What did he look like?,（ガイテル）どんな男だった？,What a man?,0.25
-It felt very nostalgic...,（ニナ）すごく懐かしいような…,I'm very nostalgic ...,0.42857142857142855
+He says that he saw the man",0.2,0.75865656
+Yes...,ええ,Yes,0.5,0.6261136
+What did he look like?,（ガイテル）どんな男だった？,What a man?,0.25,0.32366207
+It felt very nostalgic...,（ニナ）すごく懐かしいような…,I'm very nostalgic ...,0.42857142857142855,0.81204534
 "But that's not it...\NI can't explain it well, but...","でも違うな…
 何か うまく言えないけど…","But it is different ...
-Something can not say she well ...",0.2777777777777778
-But?,けど？,but?,1.0
-Absolute evil...,（ニナ）絶対悪,absolute evil,0.6666666666666666
-"I don't know how to put it, but...",いいよ ニナ 無理しなくて,I do not overdo it,0.23076923076923078
+Something can not say she well ...",0.2777777777777778,0.379043
+But?,けど？,but?,1.0,1.0000002
+Absolute evil...,（ニナ）絶対悪,absolute evil,0.6666666666666666,0.87541884
+"I don't know how to put it, but...",いいよ ニナ 無理しなくて,I do not overdo it,0.2307692307692308,0.20995544
 "Yes, it felt just like\Nwhen I had that nightmare...","あの悪夢を見た時の感じと
 同じような…","When I saw that nightmare
-Similar…",0.21428571428571427
+Similar…",0.21428571428571427,0.6823601
 """Absolute evil""...\NIt's beginning to sound religious.","うん… “絶対悪”とはまた
 宗教的な話になってきたな","Yeah ... ""Absolute evil""
-It has become a religious story",0.3333333333333333
+It has become a religious story",0.3333333333333333,0.82709634
 I don't go to a church...,"私も教会に
 通っているわけではありません","I also to the church
-It does not mean",0.21428571428571427
+It does not mean",0.21428571428571427,0.59981376
 if I see that person again.,"けど もう一度 その人に会えば
 その答えが はっきりするような…","But if you meet that person again
-The answer is like she clearly ...",0.23529411764705882
+The answer is like she clearly ...",0.2352941176470588,0.6461403
 You feel that you will regain\Nthe memory you've lost...,"（ガイテル）失われた記憶も
 よみがえるような気がする","lost memory
-I feel like I can",0.25
-Yes.,（ニナ）はい,Yes,0.5
+I feel like I can",0.25,0.7806169
+Yes.,（ニナ）はい,Yes,0.5,0.836856
 That's one means you may be\Nable to employ...,"（ガイテル）
-それも１つの手ではあるが…",It is also one hand ...,0.14285714285714285
+それも１つの手ではあるが…",It is also one hand ...,0.14285714285714285,0.18191072
 But I don't think you should let that\Nbe a burden on you.,"そんなことを重荷に思う必要は
 ないんじゃないかな？","You need to make such a burden
-Isn't there no?",0.19047619047619047
+Isn't there no?",0.19047619047619047,0.6786921
 "Thinking about your future\Nwithout stressing, is also important.","無理せず これから先のことを
 考えるのも大切だよ","Do not overdo it from now on
-It is also important to think",0.15789473684210525
-Yeah...,（記者）あー そうそう,Oh yeah,0.3333333333333333
+It is also important to think",0.15789473684210525,0.4095272
+Yeah...,（記者）あー そうそう,Oh yeah,0.3333333333333333,0.5309636
 "Oh, by the way, were you the one\Nwho let that guy use the file room?","資料室をあの男に使わせたのは
 マウラーさんですか？","I used the materials room for that guy
-Are you Mauler?",0.2857142857142857
-That guy?,あの男？,That man?,0.5
-Yes. I asked him\Nwhat he was doing there,あいつ まだいたのか ったく,I wonder if he was still,0.25
-Oh! Hey!,ああっ おい！,Oh!,0.6666666666666666
-Are you all right? Hey! Huh?,大丈夫か？　おい！,Are you okay? Oi!,0.4
+Are you Mauler?",0.2857142857142857,0.48292482
+That guy?,あの男？,That man?,0.5,0.81842554
+Yes. I asked him\Nwhat he was doing there,あいつ まだいたのか ったく,I wonder if he was still,0.25,0.39614925
+Oh! Hey!,ああっ おい！,Oh!,0.6666666666666666,0.7610111
+Are you all right? Hey! Huh?,大丈夫か？　おい！,Are you okay? Oi!,0.4,0.48199984
 "Good, isn't it?\NI always have breakfast here.","（マウラー）うまいだろ？
 俺は朝飯は いつもこの店だ","is delicious?
-I am always this store",0.17647058823529413
+I am always this store",0.17647058823529413,0.4743954
 Don't you go home?\NWhat about your family?,"うちには帰らないんですか？
 ご家族は？","Do you not go home?
-What is your family?",0.5384615384615384
+What is your family?",0.5384615384615384,0.91765696
 "When I finally realized it,","いえ 仕事にかまけてたことを
 悔やんでいるみたいだから","No, I had to work
-Because it seems to be regrettable",0.21428571428571427
+Because it seems to be regrettable",0.21428571428571427,0.20914866
 my wife had gone back to her parents\Nwith our daughter.,"気が付いてみりゃ 女房は
 娘連れて実家に帰っちまった","I care if you care
-I came home with her daughter to her home",0.16666666666666666
+I came home with her daughter to her home",0.16666666666666666,0.32837185
 Why would I do that?,"あっ 何でだよ？
 おん出てったのは向こうだ","What is it?
-It is the other side that came out",0.14285714285714285
+It is the other side that came out",0.14285714285714285,0.08666528
 She's the one who walked out!\NWhy should I go to get her?,"奥さん 迎えに行く気は
 ないんですか？","I'm going to go to the wife
-Isn't there?",0.22727272727272727
+Isn't there?",0.2272727272727273,0.42434415
 Don't be silly!,"（マウラー）ふ… ふざけたこと
 言ってんじゃねえ","Fu ...
-Don't say",0.25
-Work is most important to a man!,男は仕事が第一だ,A man is the first work,0.4
-That's right.\NIt's none of your business.,そうだよ 余計なことだよ,That's right It's extra,0.18181818181818182
-"Oh, uh... One more thing...",あっ あの… それと もう１つ,Oh ... and another one,0.3333333333333333
+Don't say",0.25,0.30991945
+Work is most important to a man!,男は仕事が第一だ,A man is the first work,0.4,0.50686616
+That's right.\NIt's none of your business.,そうだよ 余計なことだよ,That's right It's extra,0.18181818181818185,0.27150148
+"Oh, uh... One more thing...",あっ あの… それと もう１つ,Oh ... and another one,0.3333333333333333,0.5000003
 You smoke too much.\NI say that as a doctor.,"たばこ 吸いすぎですよ
 医者として忠告します","It is too sucking too much
-I advise as a doctor",0.25
-Quit saying the same thing\Nmy wife said!,女房と同じこと言ってんじゃねえ,Don't say the same thing as a wife,0.21428571428571427
+I advise as a doctor",0.25,0.4646761
+Quit saying the same thing\Nmy wife said!,女房と同じこと言ってんじゃねえ,Don't say the same thing as a wife,0.21428571428571427,0.68607104
 "Your wife was worried\Nabout your health, too.","奥さんも あなたの体
 気遣ってたんですよ","My wife and your body
-I was caring",0.23076923076923078
+I was caring",0.2307692307692308,0.5423546
 Nina's birthday present?,"（ニナの父）
-ニナの誕生日プレゼントかい？",Nina's birthday gift?,0.6666666666666666
+ニナの誕生日プレゼントかい？",Nina's birthday gift?,0.6666666666666666,0.9782583
 Yes. I finally finished it.,"そうだな
 そんなこと言う必要ないな","Yes
-I do not need to say such a thing",0.14285714285714285
+I do not need to say such a thing",0.14285714285714285,0.09825367
 "Dear, are you really going to tell her\Nthat she's not really our daughter?","あなた ホントに言うんですか？
 私たちの娘じゃないってことを…","Do you really say you?
-It's not our daughter ...",0.3684210526315789
-"Nina is our daughter, after all.",ニナは 私たちの娘だもんな,Nina is our daughter,0.5
-I'm home!,（ニナ）あー おなかすいた！,"Oh, I'm sorry!",0.42857142857142855
-Welcome home!,おかえり！,Welcome back!,0.5
-Boy... am I hungry!,私 このままでも…,I am also here ...,0.375
-Think about the future?,（ニナ）先のことを考えろか…,think about what ...,0.2857142857142857
+It's not our daughter ...",0.3684210526315789,0.7154664
+"Nina is our daughter, after all.",ニナは 私たちの娘だもんな,Nina is our daughter,0.5,0.9669683
+I'm home!,（ニナ）あー おなかすいた！,"Oh, I'm sorry!",0.42857142857142855,0.302168
+Welcome home!,おかえり！,Welcome back!,0.5,0.7451799
+Boy... am I hungry!,私 このままでも…,I am also here ...,0.375,0.27327695
+Think about the future?,（ニナ）先のことを考えろか…,think about what ...,0.2857142857142857,0.47822472
 """Tomorrow, your birthday, let's meet at\NHeidelberg Castle at 7:00 PM.""","“あした 誕生日の夜７時
 ハイデルベルク城で会おう”","""The night of tomorrow birthday 7 o'clock
-Let's meet at Heidelberg Castle",0.38095238095238093
-Tomorrow... at Heidelberg Castle?,あした… ハイデルベルク城で…,Taki ... in Heidelberg Castle ...,0.375
+Let's meet at Heidelberg Castle",0.3809523809523809,0.7092793
+Tomorrow... at Heidelberg Castle?,あした… ハイデルベルク城で…,Taki ... in Heidelberg Castle ...,0.375,0.7793041
 "I'm so busy, but here I am staring at\Na mountain of papers with you!","（マウラー）この忙しいのに
 あんたに付き合わされて","I'm busy
-I am associated with you",0.35294117647058826
+I am associated with you",0.35294117647058826,0.54124695
 Isn't it about time you gave up?,"もう諦めたほうが
 いいんじゃないのか？","I already gave up
-Isn't it good?",0.5
+Isn't it good?",0.5,0.6326892
 "Listen, Doctor...","（マウラー）なあ ドクター
-（テンマ）んっ",Na Doctor,0.2
-"If... it's just a thought, now...",もし… もしもだぜ,If ...,0.2222222222222222
+（テンマ）んっ",Na Doctor,0.2,0.5103515
+"If... it's just a thought, now...",もし… もしもだぜ,If ...,0.2222222222222222,0.46138942
 If I were to go to get my wife...\NDo you think she'd come back?,"俺が その…
 女房 迎えに行ったら","I ...
-If you go to a wife",0.3888888888888889
+If you go to a wife",0.3888888888888889,0.50372994
 What is it?,"（テンマ）あっ
-（マウラー）どうした？",What happened?,0.4
-I found it!,ええ たばこ やめたらね,Yes I stop doing it,0.2857142857142857
-11-year-old boy disappears...,（テンマ）“11歳の少年失踪”,"""11-year-old boy disappearance""",0.2857142857142857
-but there has been no word\Nfrom a kidnapper.,“誘拐の可能性もあるが”,"""There is also a possibility of abduction",0.13333333333333333
-16 Necker Street...,“ネッカー通り16番地”,"""Neckar Street 16th""",0.125
+（マウラー）どうした？",What happened?,0.4,0.37621617
+I found it!,ええ たばこ やめたらね,Yes I stop doing it,0.2857142857142857,0.09104399
+11-year-old boy disappears...,（テンマ）“11歳の少年失踪”,"""11-year-old boy disappearance""",0.2857142857142857,0.79235214
+but there has been no word\Nfrom a kidnapper.,“誘拐の可能性もあるが”,"""There is also a possibility of abduction",0.13333333333333333,0.4766265
+16 Necker Street...,“ネッカー通り16番地”,"""Neckar Street 16th""",0.125,0.7876212
 The raw data should be\Nin here somewhere...,"（マウラー）ん… その記事なら
 こっちの資料があるはず…","... if that article
-There should be this material ...",0.13333333333333333
-"Oh, here it is!",ああ あったあった,"Oh, there was",0.25
-W-What is it?,ん？　ありゃ？,Yeah?Is it?,0.6
+There should be this material ...",0.13333333333333333,0.20439006
+"Oh, here it is!",ああ あったあった,"Oh, there was",0.25,0.4837006
+W-What is it?,ん？　ありゃ？,Yeah?Is it?,0.6,0.16331588
 You said that that killer would,"妹が二十歳になったら
 迎えに行くって言ってたな","If my sister is twenty years old
-I said that I went to pick me up",0.1111111111111111
-If the boy in this article\Nis her brother...,この記事の男の子が その兄なら,If the boy of this article is his brother,0.38461538461538464
+I said that I went to pick me up",0.1111111111111111,0.24435422
+If the boy in this article\Nis her brother...,この記事の男の子が その兄なら,If the boy of this article is his brother,0.38461538461538464,0.80650795
 Look! His birth date is printed here.,"ほら ここに
 生年月日が書いてあるぜ","Here
-The date of birth is written",0.3333333333333333
+The date of birth is written",0.3333333333333333,0.69474876
 Today is the 20th birthday\Nof those twins.,"{\an8}今日が その双子の
 二十歳の誕生日だよ","Today is the twin
-It is a twenty-year-old birthday",0.23076923076923078
+It is a twenty-year-old birthday",0.2307692307692308,0.77672374
 "Uh, hello, Dad? It's me.\NI just finished work.","（ニナ）あっ もしもし パパ？
 私 今アルバイト終わったとこ","Yomoka dad?
-I'm finished part-time job now",0.16666666666666666
-I'm going to meet up with a friend\Nthen I'll be coming home.,ああ 友達と会ってから帰るとさ,"Oh, I'm going back after meeting with my friend",0.19047619047619047
-Yes... At Heidelberg Castle.,うん ハイデルベルク城で,Yupo Heidelberg Castle,0.2857142857142857
+I'm finished part-time job now",0.16666666666666666,0.5409605
+I'm going to meet up with a friend\Nthen I'll be coming home.,ああ 友達と会ってから帰るとさ,"Oh, I'm going back after meeting with my friend",0.19047619047619047,0.5718676
+Yes... At Heidelberg Castle.,うん ハイデルベルク城で,Yupo Heidelberg Castle,0.2857142857142857,0.7247835
 "Your mom is making preparations\Nfor a birthday party, you know.","そうか ママが
 誕生日パーティーの準備してるぞ","Or Mom
-I'm preparing for a birthday party",0.23529411764705882
-Was that Nina?,ニナから電話？,Call me from Nina?,0.2857142857142857
-I wonder who it is.,どんな友達なんだか,What kind of friend is it,0.2
-Maybe this will help me\Nto remember things...,私の記憶が…,My memory ...,0.1
-I want to know who I really am.,私は知りたい,I want to know,0.5
+I'm preparing for a birthday party",0.2352941176470588,0.7595904
+Was that Nina?,ニナから電話？,Call me from Nina?,0.2857142857142857,0.6377526
+I wonder who it is.,どんな友達なんだか,What kind of friend is it,0.2,0.36463347
+Maybe this will help me\Nto remember things...,私の記憶が…,My memory ...,0.1,0.4227757
+I want to know who I really am.,私は知りたい,I want to know,0.5,0.3469054
 "Doctor, what do you intend to do if\Nthe twin girl is at the Fortners' home?","フォルトナー家に双子の妹がいたら
 どうするつもりだ？","If there is a twin sister in a folt whist
-What are you going to do?",0.2692307692307692
+What are you going to do?",0.2692307692307692,0.6230719
 "Whatever the case,\Nthat family is in danger.","とにかく その一家には
 危険が迫っています","Anyway, to the family
-The danger is approaching",0.38461538461538464
+The danger is approaching",0.38461538461538464,0.78054684
 I will contact the police\Nand ask for protection.,"警察に連絡して
 警備を頼みます","Contact the police
-I will ask for security",0.5454545454545454
+I will ask for security",0.5454545454545454,0.8670231
 Do you think the police will\Ndo anything just from your reasoning?,"グハハハハ
 あんたの推理で警察が動くかい","Guhahahaha
-The police moves in the reasoning of you",0.25
-Nothing has happened yet.,まだ何も事が起きてねえのに,Nothing happens yet,0.3333333333333333
-It'll be too late\Nafter something happens!,事が起きてからじゃ遅いんだ！,It is late after what happens!,0.25
-"Listen, Doctor...\NOf the four murder cases,",俺は 例の４件の夫婦殺しのうち,I am an example of the four couples killing,0.125
+The police moves in the reasoning of you",0.25,0.52999693
+Nothing has happened yet.,まだ何も事が起きてねえのに,Nothing happens yet,0.3333333333333333,0.8004204
+It'll be too late\Nafter something happens!,事が起きてからじゃ遅いんだ！,It is late after what happens!,0.25,0.65191704
+"Listen, Doctor...\NOf the four murder cases,",俺は 例の４件の夫婦殺しのうち,I am an example of the four couples killing,0.125,0.4997305
 I myself went to\Nthe crime scene in Cologne.,"ケルンの現場に
 取材に行ってるんだよ","In the field of Cologne
-I'm going to cover",0.1875
-There was something different\Nabout that scene.,あの現場は特別だった,That field was special,0.2222222222222222
-"I sensed no purpose,\Nno greed, no bitterness...",ああいう現場見りゃ すぐに分かる,"Oh, I can see it immediately",0.14285714285714285
+I'm going to cover",0.1875,0.52329546
+There was something different\Nabout that scene.,あの現場は特別だった,That field was special,0.2222222222222222,0.26975855
+"I sensed no purpose,\Nno greed, no bitterness...",ああいう現場見りゃ すぐに分かる,"Oh, I can see it immediately",0.14285714285714285,0.060472563
 It was like someone simply ended\Nthese people's lives.,"ただ単に 人の命を絶っただけ
 って感じだった","Just just the lives of people
-It was feeling",0.2857142857142857
+It was feeling",0.2857142857142857,0.56731343
 But do you think a youngster could kill\Nthose people without feeling any emotion?,"そんな若造が 何の感情もなしに
 殺しができると思うか？","Such a young feeling without any emotion
-Do you think you can kill?",0.5
-Bigger... What?,でかい何かって…,What do you do?,0.3333333333333333
-That's just it...,ケッ それが問題だ,Ket it's a problem,0.25
-"If I have to describe it, it's trite,\Nbut that was the Devil's work.",ありゃ 悪魔の仕業だ,It is the work of the devil,0.2222222222222222
+Do you think you can kill?",0.5,0.804562
+Bigger... What?,でかい何かって…,What do you do?,0.3333333333333333,0.1983625
+That's just it...,ケッ それが問題だ,Ket it's a problem,0.25,0.22667633
+"If I have to describe it, it's trite,\Nbut that was the Devil's work.",ありゃ 悪魔の仕業だ,It is the work of the devil,0.2222222222222222,0.57121176
 "If that killer were to appear before me,\NI would kill him without a pause.","もし目の前に あの犯人が現れたら
 俺は迷わずに ぶち殺すね","If that criminal appears before the eyes
-I kill himself without getting lost",0.2
-16 Necker Street... We're here.,（マウラー）ネッカー通り16番地,Necker Street 16,0.375
-Yes?,（ニナの父）はい,Yes,0.5
+I kill himself without getting lost",0.2,0.6181457
+16 Necker Street... We're here.,（マウラー）ネッカー通り16番地,Necker Street 16,0.375,0.7881708
+Yes?,（ニナの父）はい,Yes,0.5,0.76873237
 I'm sorry to bother you.\NI'm Maurer of the Heidelberg Post.,"私 ハイデルベルク･ポストの
 マウラーと申します","My Heidelberg Post
-My Lelan",0.14285714285714285
+My Lelan",0.14285714285714285,0.6194033
 What would a newspaper reporter\Nbe wanting?,"（ニナの父）
-新聞記者さんが何か？",What is the newspaper reporter?,0.3
+新聞記者さんが何か？",What is the newspaper reporter?,0.3,0.75863594
 Uh... I'd like to ask you\Nsome questions...,"あの…
 ちょっと お伺いしたいんですが…","that…
-I would like to ask you a little ...",0.35714285714285715
+I would like to ask you a little ...",0.35714285714285715,0.58912855
 - What is it?\N- Oh!,"（ニナの父）何でしょう？
 （マウラー）ああ","What is it?
- Oh",0.625
+ Oh",0.625,0.5880437
 It's regarding this missing persons report\Nthat you filed in 1986...,"この 1986年の男のお子さんの
 捜索願の件で","Of a man of this 1986 man
-In the case of search application",0.15789473684210525
+In the case of search application",0.15789473684210525,0.43440524
 Uh... Could you please talk to us?\NDon't you have a girl living with you?,"あっ あの 少し
 お聞かせ願えないでしょうか？","There is a little
-Could you please tell me?",0.23809523809523808
+Could you please tell me?",0.2380952380952381,0.2876209
 The twin sister of\Nthe boy who disappeared...,"お宅には娘さんがいませんか？
 失踪した男の子の双子の妹さんが！","Is there a daughter at home?
-The girl's sister of the lost boy is!",0.15
-Please! Please answer me.,お願いです！　答えてください！,Please!  Answer please!,0.6
-A cake...,ケーキだよ,It is a cake,0.4
+The girl's sister of the lost boy is!",0.15,0.6451108
+Please! Please answer me.,お願いです！　答えてください！,Please!  Answer please!,0.6,0.843111
+A cake...,ケーキだよ,It is a cake,0.4,0.75605136
 "You took in a pair of twins\Nnine years ago, didn't you?","９年前
 双子を引き取ったんですね？","Nine years ago
-Did you take the twin?",0.29411764705882354
+Did you take the twin?",0.29411764705882354,0.8050311
 "The girl still lives with you,\Ndoesn't she?","その妹が
 まだ こちらにいるんですね？","That sister
-She is still here?",0.2
-Please leave!,ほっといてください！,Please be relieved!,0.4
-We have raised her\Nas our true daughter.,ここまで育ててきたんです,I have raised it here,0.18181818181818182
-Please don't make waves.,波風 立てないでください,Please do not stand a wave,0.2
+She is still here?",0.2,0.544757
+Please leave!,ほっといてください！,Please be relieved!,0.4,0.44036514
+We have raised her\Nas our true daughter.,ここまで育ててきたんです,I have raised it here,0.18181818181818185,0.4678752
+Please don't make waves.,波風 立てないでください,Please do not stand a wave,0.2,0.7428218
 You took in a pair of twins\Nnine years ago.,"あなた方は
 ９年前 双子を引き取った","you
-9 years ago I took over twins",0.2857142857142857
-Isn't that right?!,そうですね？,is that so?,0.42857142857142855
+9 years ago I took over twins",0.2857142857142857,0.721673
+Isn't that right?!,そうですね？,is that so?,0.42857142857142855,0.453873
 "Mr. Fortner, you must contact\Nthe police at once!","フォルトナーさん すぐに
 警察に知らせなくちゃいけない！","Foltner soon
-I can not tell the police!",0.11764705882352941
+I can not tell the police!",0.1176470588235294,0.5437804
 "Your lives, and your daughter's,\Nare in danger!","あんた方と
 娘さんの命が危ないんだ！","Aunt
-Her daughter's life is dangerous!",0.2
-Please let us see your daughter.,娘さんに会わせてください,Please let me meet your daughter,0.4444444444444444
+Her daughter's life is dangerous!",0.2,0.644975
+Please let us see your daughter.,娘さんに会わせてください,Please let me meet your daughter,0.4444444444444444,0.83543235
 She is out at the moment.,"（ニナの父）
-娘は今 出かけてますが…",Her daughter is now coming out ...,0.16666666666666666
+娘は今 出かけてますが…",Her daughter is now coming out ...,0.16666666666666666,0.5831926
 Where is she?!,"（マウラー）ええっ？
 （テンマ）ど… どこに？","yeah?
- ... Where?",0.2857142857142857
+ ... Where?",0.2857142857142857,0.38351429
 At Heidelberg Castle.,"ハイデルベルク城に…
 友達と会うとか言って","To Heidelberg Castle ...
-Say to meet friends",0.2222222222222222
+Say to meet friends",0.2222222222222222,0.7756386
 W-Wait! We must\Nnotify the police first.,"ま… 待て
 警察に連絡してからだ","Ma ... Wait
-After contacting the police",0.15384615384615385
+After contacting the police",0.15384615384615385,0.5339657
 We don't have the time\Nto explain things to the police!,"（テンマ）警察に長々と
 説明している時間なんかありません","Police
-There is no time to explain",0.2
-"Give me the key, quickly.",早くキーを！,Key quickly!,0.25
+There is no time to explain",0.2,0.793046
+"Give me the key, quickly.",早くキーを！,Key quickly!,0.25,0.7111461
 All right. I'll call them from here.,"分かった
 俺が こっから電話しとく","Do you get it
-I'm talking about she here",0.11764705882352941
-"Hey, Doctor!",よう ドクター,Doctor,0.25
+I'm talking about she here",0.1176470588235294,0.17796028
+"Hey, Doctor!",よう ドクター,Doctor,0.25,0.6790071
 "Be careful! As I said earlier,\Nhe's a terrible person.","気を付けろ さっき言ったように
 相手は とんでもねえ野郎だ","Wanted to say
-The opponent is him, but it's a bastard",0.125
+The opponent is him, but it's a bastard",0.125,0.2520618
 Come back alive...\NThen I'll quit smoking.,"ちゃんと生きて帰ってくるんだ
 そしたら… たばこ やめてやるよ","I'm coming back to live properly
-Then ... I will do my best",0.15
+Then ... I will do my best",0.15,0.59161544
 "Now, how should I explain\Nthis to the police?","フン！　さてと…
 警察に どう説明するかな","Hun!Well ...
-How would you explain to the police",0.23529411764705882
-Our daughter... Is she all right?,娘は… 娘は無事なんですか？,My daughter is ... Daughter is safe?,0.4
-What has happened?,（ニナの母）何が起きたんです？,What happened?,0.75
+How would you explain to the police",0.2352941176470588,0.7258731
+Our daughter... Is she all right?,娘は… 娘は無事なんですか？,My daughter is ... Daughter is safe?,0.4,0.73359895
+What has happened?,（ニナの母）何が起きたんです？,What happened?,0.75,0.67531276
 What has happened to our daughter?,"（ニナの父）
-娘に何があったんですか？",What happened to her daughter?,0.625
+娘に何があったんですか？",What happened to her daughter?,0.625,0.8812268
 Please tell us!,"（ニナの母）
-教えてください お願いします！",please teach me!,0.3333333333333333
-Calm down!,落ち着きなさい ん？,Do you calm down?,0.3333333333333333
-The phone line's been cut...,電話線が切られてるぜ…,The telephone line is cut ...,0.4444444444444444
-Anna... Please be safe... Anna!,アンナ 無事でいてくれ アンナ…,Anna is safe and Anna ...,0.375
+教えてください お願いします！",please teach me!,0.3333333333333333,0.5081336
+Calm down!,落ち着きなさい ん？,Do you calm down?,0.3333333333333333,0.6033501
+The phone line's been cut...,電話線が切られてるぜ…,The telephone line is cut ...,0.4444444444444444,0.88704884
+Anna... Please be safe... Anna!,アンナ 無事でいてくれ アンナ…,Anna is safe and Anna ...,0.375,0.8931216
 It's way past time...\NI guess that message was a prank.,"やっぱり あの呼び出し
 いたずらだったんだわ","After all that call
-It was a mischief",0.2222222222222222
-I'm going home.,帰ろう,go home,0.16666666666666666
-Who are you?,あなた 誰？,Who are you?,1.0
-I was asked to make sure\Nyou waited here.,（庭師）頼まれたんだ,I was asked,0.3333333333333333
-Wait!,待て！,wait!,1.0
+It was a mischief",0.2222222222222222,0.29146972
+I'm going home.,帰ろう,go home,0.16666666666666666,0.7668433
+Who are you?,あなた 誰？,Who are you?,1.0,1.0000002
+I was asked to make sure\Nyou waited here.,（庭師）頼まれたんだ,I was asked,0.3333333333333333,0.5008134
+Wait!,待て！,wait!,1.0,1.0000002
 You have to wait here!,"お前は ここで
 待ってなきゃいけないんだ！","You are here
-I have to wait!",0.75
-That's what I was told!,俺は そう言われたんだ！,I was said so!,0.3333333333333333
-Anna!,（テンマ）アンナ！,Anna  Anna!,1.0
+I have to wait!",0.75,0.80085313
+That's what I was told!,俺は そう言われたんだ！,I was said so!,0.3333333333333333,0.54120135
+Anna!,（テンマ）アンナ！,Anna  Anna!,1.0,0.92953426
 "Anna... No, you're Nina Fortner,\Naren't you?","（テンマ）アンナ…
 いや ニナ･フォルトナーだね？","Anna ...
-No, she is a Nina Foltner, right?",0.375
+No, she is a Nina Foltner, right?",0.375,0.7815187
 Do you remember me?\NI'm Dr. Tenma. I'm glad you're safe.,"覚えているかい？
 医者のテンマだよ","Do you remember?
-It is a doctor's temma",0.2
-Anna... Dr. Tenma...,アンナ… Dr.(ドクター)テンマ…,Anna ... Dr.  Temma ...,0.6
-Y-You... Are you...\Nmy prince on a white horse?,あ… あなたが… 白馬の王子様？,Oh ... you ... the prince of Hakuba?,0.26666666666666666
+It is a doctor's temma",0.2,0.51112366
+Anna... Dr. Tenma...,アンナ… Dr.(ドクター)テンマ…,Anna ... Dr.  Temma ...,0.6,0.8226904
+Y-You... Are you...\Nmy prince on a white horse?,あ… あなたが… 白馬の王子様？,Oh ... you ... the prince of Hakuba?,0.26666666666666666,0.5234668
 She's gotta wait here.,"こいつは ここで
 待ってなくちゃいけないんだ","This guy is here
-I have to wait",0.15384615384615385
-I won't get paid!,金が もらえないんだー！,I can't get a gold!,0.4444444444444444
+I have to wait",0.15384615384615385,0.4986868
+I won't get paid!,金が もらえないんだー！,I can't get a gold!,0.4444444444444444,0.47500739
 He said no one would come!,"（庭師）あいつは
 誰も来ないって言ったのに！","Aya
-I said that no one came!",0.36363636363636365
-Damn!,ちくしょう！,Chikusho!,0.3333333333333333
-Are you all right?,大丈夫ですか？,is it OK?,0.125
-I-I'm amazed...,あ… ああ,Oh ... ah,0.16666666666666666
-I need something to tie him up with!,とにかく 何か縛るものを！,"Anyway, something tied up!",0.25
-Who asked you to do this?,誰に頼まれたんだ？,Who was asked by?,0.3333333333333333
+I said that no one came!",0.3636363636363637,0.63687277
+Damn!,ちくしょう！,Chikusho!,0.3333333333333333,0.20002836
+Are you all right?,大丈夫ですか？,is it OK?,0.125,0.41345274
+I-I'm amazed...,あ… ああ,Oh ... ah,0.16666666666666666,0.1895142
+I need something to tie him up with!,とにかく 何か縛るものを！,"Anyway, something tied up!",0.25,0.45450288
+Who asked you to do this?,誰に頼まれたんだ？,Who was asked by?,0.3333333333333333,0.6730514
 I don't know. He just said\Nhe would come here,"大切な仕事してから
 ここに来るって言ってただけだよ！","After work
-I just told you to come here!",0.23529411764705882
-I have to hurry back to your home!,早く 君の家に戻らなくっちゃ,I will not return to your house early,0.23076923076923078
-W-What's going on?,アンナ？,Anna?,0.16666666666666666
+I just told you to come here!",0.2352941176470588,0.32536772
+I have to hurry back to your home!,早く 君の家に戻らなくっちゃ,I will not return to your house early,0.2307692307692308,0.6174326
+W-What's going on?,アンナ？,Anna?,0.16666666666666666,0.1554832
 "I'll explain later!\NWe've got to hurry, Anna!","理由なんか後だ
 早く行くんだ アンナ！","Reason
-I'm going early Anna!",0.1875
+I'm going early Anna!",0.1875,0.5625766
 Please tell me! Who are you?\NAnd I'm not Anna!,"（ニナ）教えてください
 あなたは何者なんですか？","Please tell me
-Who are you?",0.5384615384615384
-I'm Nina!,ニナです！,Nina!,0.5
+Who are you?",0.5384615384615384,0.6223512
+I'm Nina!,ニナです！,Nina!,0.5,0.8727307
 And your brother's name was Johan.,"君の兄さんは
 ヨハンという名前だった","Your brother
-It was named Johan",0.4
-My brother...,兄さん…,Brother ...,0.6666666666666666
-House of Tragedy,{\an8}～♪,~ ♪,0.0
+It was named Johan",0.4,0.92635417
+My brother...,兄さん…,Brother ...,0.6666666666666666,0.77274
+House of Tragedy,{\an8}～♪,~ ♪,0.0,0.079996996

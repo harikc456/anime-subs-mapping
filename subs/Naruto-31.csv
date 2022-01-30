@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774589
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.60482836
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.21940821
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41970006
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,7 +68,7 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.5518779
 Ugh... what are you here for now?,"(ｱﾝｺ)
 いまさら
  
@@ -76,13 +76,13 @@ Ugh... what are you here for now?,"(ｱﾝｺ)
 
 ","Now
  
-What did you come?",0.36363636363636365
+What did you come?",0.3636363636363637,0.524408
 "It's our reunion after so long,
 and you're awfully cold.","ずいぶんと冷たいのね
 ｡
 
 ","It's so cold
-.",0.35714285714285715
+.",0.35714285714285715,0.56580585
 "Don't tell me that you came to
 assassinate Lord Hokage?","(ｱﾝｺ)
 まさか
@@ -93,7 +93,7 @@ assassinate Lord Hokage?","(ｱﾝｺ)
 ","Masadish
  
 Surface
-What did you come to assassination?",0.16666666666666666
+What did you come to assassination?",0.16666666666666666,0.53017706
 "I don't have enough
 subordinates for that yet...","いやいや…
  
@@ -105,7 +105,7 @@ subordinates for that yet...","いやいや…
  
 for that purpose
 There is not enough subordinates
-.",0.3125
+.",0.3125,0.7790812
 "I've heard of the excellence ones
 of this village","この里の優秀そうなのに
 唾つけておこうと思ってね
@@ -113,7 +113,7 @@ of this village","この里の優秀そうなのに
 
 ","Even though this village is excellent
 I'm thinking of spiting
-.",0.23529411764705882
+.",0.2352941176470588,0.52729553
 "A little while ago, I gave that
 same Curse Mark as a present.","(
 大蛇丸
@@ -124,7 +124,7 @@ same Curse Mark as a present.","(
 
 ","some time ago
  
-The same cursure as that",0.2222222222222222
+The same cursure as that",0.2222222222222222,0.261294
 There's a kid that I want.,"プレゼントしてきた
 ところなのよ
 ｡
@@ -133,7 +133,7 @@ There's a kid that I want.,"プレゼントしてきた
 ","I have given a present
 It's about
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.16160952
 Selfish as always.,"勝手ね
  
 相変わらず
@@ -142,7 +142,7 @@ Selfish as always.,"勝手ね
 ","Selfish
  
 As usual
-.",0.6
+.",0.6,0.8945528
 That kid will die.,"まず死ぬわよ
  
 その子
@@ -151,7 +151,7 @@ That kid will die.,"まず死ぬわよ
 ","First of all I will die
  
 That child
-.",0.4
+.",0.4,0.74549484
 Certainly...,"うっ
  
 うぅ…
@@ -160,7 +160,7 @@ Certainly...,"うっ
 ","Pet
  
 Uh ...
-.",0.2
+.",0.2,0.3339786
 but he may survive just like you did.,"だけど
  
 お前と同じで
@@ -171,7 +171,7 @@ but he may survive just like you did.,"だけど
  
 Same as you
 It may not die
-.",0.2
+.",0.2,0.5140449
 Are you jealous?,"(
 大蛇丸
 )
@@ -183,11 +183,11 @@ Are you jealous?,"(
 ","Are you jealous?
  
 Hey
-.",0.6666666666666666
+.",0.6666666666666666,0.86485744
 "Are you still holding a grudge that
 I used you and threw you away?","お前を使い捨てにしたこと➡
 
-",I used you to discard,0.2
+",I used you to discard,0.2,0.55813867
 "and is a vessel who
 can become my heir.","お前と違って
  
@@ -197,7 +197,7 @@ can become my heir.","お前と違って
 ","Unlike you
  
 It is a child who seems to be excellent
-.",0.2222222222222222
+.",0.2222222222222222,0.30608517
 "If that kid lived,
 it makes things interesting.","あの子が生きていたとしたら
 おもしろいことになる
@@ -205,7 +205,7 @@ it makes things interesting.","あの子が生きていたとしたら
 
 ","If that child was alive
 It will be interesting
-.",0.3333333333333333
+.",0.3333333333333333,0.74944896
 Be sure not to cancel this test.,"くれぐれも
 この試験
  
@@ -216,7 +216,7 @@ Be sure not to cancel this test.,"くれぐれも
 This test
  
 Don't cancel
-.",0.36363636363636365
+.",0.3636363636363637,0.8551338
 "Three from my village are also
 under your care...","(
 大蛇丸
@@ -233,12 +233,12 @@ As much as three
  
 I am indebted
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.6405193
 Make me enjoy it.,"まだ根に持ってるんだ
 ｡
 
 ","I still have it
-.",0.25
+.",0.25,0.21670777
 "If something happens
 to deprive me of my fun,","(
 大蛇丸
@@ -251,14 +251,14 @@ to deprive me of my fun,","(
 ","if
  
 My fun
-If there is something to take away",0.35714285714285715
+If there is something to take away",0.35714285714285715,0.70209193
 consider it the end of Leaf Village,"木ノ葉の里は
 終わりだと思いなさい
 ｡
 
 ","The village of Kinoha
 I think it is the end
-.",0.4166666666666667
+.",0.4166666666666667,0.5973824
 "We've secured food and water
 after spending half a day.","(
 ネジ
@@ -267,7 +267,7 @@ after spending half a day.","(
 食料と水は確保できたし➡
 
 ","Using half a day
-Food and water can be secured ➡",0.4375
+Food and water can be secured ➡",0.4375,0.731759
 "As we planned,
 this is the time that we attack.","予定どおり
  
@@ -279,7 +279,7 @@ this is the time that we attack.","予定どおり
  
 Aim at this time
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.41331965
 "We'll split up into three
 and go scouting.","いったん３人に分かれて
 偵察に行く
@@ -289,7 +289,7 @@ and go scouting.","いったん３人に分かれて
 ","Divided into three people
 Reconnaissance
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.35526103
 "However, whether we find
 other teams or not,","ただし
  
@@ -299,17 +299,17 @@ other teams or not,","ただし
 ","However
  
 Even if you find another team
-Even if you do not find it",0.1875
+Even if you do not find it",0.1875,0.738027
 we return to this place.,"この場所へ戻ってくる
 ｡
 ➡
 
 ","Return to this place
 .
-➡",0.7142857142857143
+➡",0.7142857142857143,0.6890239
 Got it?,"いいな？
 
-",Is it all right?,0.3333333333333333
+",Is it all right?,0.3333333333333333,0.25858304
 Roger.,"(ﾃﾝﾃﾝ)
 ＯＫ
 ｡
@@ -323,13 +323,13 @@ Roger.,"(ﾃﾝﾃﾝ)
 .
 
 Roger
-.",0.6666666666666666
+.",0.6666666666666666,0.8504117
 <i>I need to protect these two.</i>,"私が２人を守らなきゃ…》
 
-",I have to keep two people ...,0.14285714285714285
+",I have to keep two people ...,0.14285714285714285,0.41030443
 Naruto!,"ナルト！
 
-",Naruto!,1.0
+",Naruto!,1.0,0.9999998
 Did you take care of us?,"(ｻｽｹ)
 お前が看病してくれたのか？
 ありがとう
@@ -341,30 +341,30 @@ Did you take care of us?,"(ｻｽｹ)
 Thank you
  
 Sakura-chan
-.",0.2727272727272727
+.",0.2727272727272727,0.36079374
 That's good...,"よかった
 ｡
 
 ","Was good
-.",0.16666666666666666
+.",0.16666666666666666,0.39218867
 in front of the predator!,"捕食者の前ではね
 ｡
 
 ","In front of predator
-.",0.5714285714285714
+.",0.5714285714285714,0.9421628
 <i>My voice is gone!</i>,"《ハッ
  
 声が出ない》
 
 ","""Ha
  
-I've lost my voice""",0.21428571428571427
+I've lost my voice""",0.21428571428571427,0.62471545
 <i>It was just a dream...</i>,"《夢か…》
 
-","""Dream ...""",0.16666666666666666
+","""Dream ...""",0.16666666666666666,0.4637513
 A squirrel?,"《リス？➡
 
-","""squirrel?➡",0.4
+","""squirrel?➡",0.4,0.7473672
 Don't surprise me like that!,"何よ
  
 あんまり驚かさないでよ
@@ -375,16 +375,16 @@ Don't surprise me like that!,"何よ
  
 Don't be surprised
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.57527184
 Oh!,"あっ！》
 
-","Ah!""",0.25
+","Ah!""",0.25,0.74981356
 Do you think she noticed?,"(
 ザク
 )
 気付かれたのか？➡
 
-",Were you noticed?➡,0.375
+",Were you noticed?➡,0.375,0.4607914
 "No, that's not it.","(
 ドス
 )
@@ -396,7 +396,7 @@ Do you think she noticed?,"(
 ","Disagreeable
  
 That's not it
-.",0.625
+.",0.625,0.42437902
 Huh? Then what? What was it?,"(
 ザク
 )
@@ -408,7 +408,7 @@ Huh? Then what? What was it?,"(
 ","Ah?
  
 That's why
-What does it mean?",0.25
+What does it mean?",0.25,0.43012738
 We'll probably find out if we go closer.,"(
 ドス
 )
@@ -420,14 +420,14 @@ We'll probably find out if we go closer.,"(
 ","maybe
 You can see if you go near
 .
-➡",0.2
+➡",0.2,0.48776558
 So... we should get going now.,"《フゥ…
  
 危ない危ない》
 
 ","""Hu ...
  
-Dangerous dangerous """,0.09090909090909091
+Dangerous dangerous """,0.09090909090909093,0.1441639
 <i>Sakura will start to like me.</i>,"サクラさんが
 僕のことを好きになる
 ｡
@@ -436,20 +436,20 @@ Dangerous dangerous """,0.09090909090909091
 ","Sakura
 I like me
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.84826195
 You're too Bushy!,"すべて取れたら➡
 
-",If you get everything,0.125
+",If you get everything,0.125,0.058873203
 One more!,"あと１枚！
 
-",One more!,1.0
+",One more!,1.0,1.0000004
 Phew... just in time.,"19
 …
 ｡
 
 ","19
 ...
-.",0.2857142857142857
+.",0.2857142857142857,0.25473383
 "This is called a Paper Bomb
 and it explodes after some time.","これは起爆札といって
 時間がたつと爆発するんだ
@@ -457,7 +457,7 @@ and it explodes after some time.","これは起爆札といって
 
 ","This is an outbreaker
 I will explode with time
-.",0.21052631578947367
+.",0.21052631578947367,0.33353648
 Who did such an awful thing?,"誰が
  
 こんなひどいことを
@@ -466,7 +466,7 @@ Who did such an awful thing?,"誰が
 ","Who
  
 Such awful thing
-.",0.5
+.",0.5,0.8215238
 What? You have a problem with that?,"(
 いの
 )
@@ -476,7 +476,7 @@ What? You have a problem with that?,"(
 
 ","What
  
-Is there a complaint?",0.2727272727272727
+Is there a complaint?",0.2727272727272727,0.23342584
 There's no question of success.,"成功
  
 間違いなしじゃない
@@ -485,7 +485,7 @@ There's no question of success.,"成功
 ","success
  
 It is not a mistake
-.",0.16666666666666666
+.",0.16666666666666666,0.51122034
 "Well, I guess it's all right but...","(
 ネジ
 )
@@ -493,7 +493,7 @@ It is not a mistake
 ｡
 
 ","I can not hide it
-.",0.14285714285714285
+.",0.14285714285714285,0.11628669
 "Wow! To meet last year's Number One
 rookie, Neji Hyuga, in a place like this!","あ～！
  
@@ -503,10 +503,10 @@ rookie, Neji Hyuga, in a place like this!","あ～！
 ","Oh!
  
 In such a place
-Last year's number one rookie ➡",0.47619047619047616
+Last year's number one rookie ➡",0.4761904761904762,0.5736511
 So it's just you guys?,"日向ネジ様に会えるなんて！
 
-",You can meet Hinata's screw!,0.16666666666666666
+",You can meet Hinata's screw!,0.16666666666666666,0.057166103
 "<i>Take that! Strategy Two, ""head over heals</i>
 <i>infatuation with my sex appeal""!</i>","(
 いの
@@ -519,7 +519,7 @@ So it's just you guys?,"日向ネジ様に会えるなんて！
 ","""Eat!
  
 Operation 2
-My chopsticks and melemaro!""",0.15384615384615385
+My chopsticks and melemaro!""",0.15384615384615385,0.13017803
 <i>Why? Why doesn't my sexiness work?!</i>,"(
 いの
 )
@@ -531,7 +531,7 @@ My chopsticks and melemaro!""",0.15384615384615385
 ","""why
  
 why
-I have no choice for my chicken!➡",0.21052631578947367
+I have no choice for my chicken!➡",0.21052631578947367,0.15672112
 "Did you just raise your fists to me,
 and does that mean you want to fight?","俺と
  
@@ -539,18 +539,18 @@ and does that mean you want to fight?","俺と
 
 ","Me
  
-Is it easy to do?",0.15
+Is it easy to do?",0.15,0.20422262
 Then get lost.,"去れ
 ｡
 
 ","Remaining
-.",0.2
+.",0.2,0.2080188
 "Stealing a scroll from cowardly wimps
 like you","お前たちみたいな腰抜けから
 巻物を奪っても➡
 
 ","From the back of the waist like you
-Even if you take the scroll",0.26666666666666666
+Even if you take the scroll",0.26666666666666666,0.4281559
 Y-Yes!,"く～！
  
 腹立つわ～
@@ -561,7 +561,7 @@ Y-Yes!,"く～！
  
 I'm hungry ~
  
-Kusso-!""",0.1111111111111111
+Kusso-!""",0.1111111111111111,0.26998076
 Huh... Really just like cockroaches.,"(ﾁｮｳｼﾞ･
 いの
 )
@@ -577,7 +577,7 @@ Huh... Really just like cockroaches.,"(ﾁｮｳｼﾞ･
 Han
  
 Hua ...
-.",0.2222222222222222
+.",0.2222222222222222,-0.06689113
 "<i>Like I've been saying</i>
 <i>there's no one wimpier than us...</i>","(ｼｶﾏﾙ)
 《だから
@@ -588,7 +588,7 @@ Hua ...
 ","""that's why
  
 I'm a weaker than us
-I'm sorry.",0.16666666666666666
+I'm sorry.",0.16666666666666666,0.35050297
 But it's not necessary anymore.,"でも
  
 もう必要ない
@@ -599,7 +599,7 @@ But it's not necessary anymore.,"でも
  
 I do not need anymore
 .
-➡",0.36363636363636365
+➡",0.3636363636363637,0.6295488
 "Wake Sasuke up.
 We want to battle with him.","僕たち
  
@@ -609,7 +609,7 @@ We want to battle with him.","僕たち
 ","We
  
 I want to fight with that
-.",0.38461538461538464
+.",0.38461538461538464,0.3546453
 <i>Y-You bastards...</i>,"よ～し
  
 弱いヤツを探すわよ～！
@@ -618,7 +618,7 @@ I want to fight with that
 ","~
  
 I'm looking for a weak guy!
-A ~ Hahaha ...!",0.125
+A ~ Hahaha ...!",0.125,0.22283906
 What is it you're after?,"何
  
 言ってんのよ！
@@ -631,7 +631,7 @@ What is it you're after?,"何
 I'm telling you!
 Integral
  
-What is the purpose?",0.2857142857142857
+What is the purpose?",0.2857142857142857,0.11123134
 "What's that strange bruise on
 the back of Sasuke's neck?","サスケ君の首筋の
 変なアザは何なのよ
@@ -639,14 +639,14 @@ the back of Sasuke's neck?","サスケ君の首筋の
 
 ","Sasuke's neck
 What is a strange aza
-.",0.3125
+.",0.3125,0.76038474
 You did this to Sasuke.,"サスケ君を起こしてくれよ
 ｡
 ➡
 
 ","Keeping Sasuke
 .
-➡",0.25
+➡",0.25,0.7315724
 How can you say you want to fight him?!,"サスケ君に
  
 こんなことしといて
@@ -663,7 +663,7 @@ what
 ""
 I want to fight
 ""
-world!",0.2222222222222222
+world!",0.2222222222222222,0.42801625
 "However, I can't stay quiet
 after hearing that.","しかし
  
@@ -675,7 +675,7 @@ after hearing that.","しかし
  
 I hear that
 I'm silent
-.",0.2857142857142857
+.",0.2857142857142857,0.7413811
 "I will kill this girl,
 I'll also kill this Sasuke character.","この女も
  
@@ -685,7 +685,7 @@ I'll also kill this Sasuke character.","この女も
 ","This woman
  
 I do
-.",0.23076923076923078
+.",0.2307692307692308,0.21752323
 "Wait, Zaku.","(
 ドス
 )
@@ -709,7 +709,7 @@ Zaku
 Ah?
  
 What
-.",0.42857142857142855
+.",0.42857142857142855,0.9211402
 It's so cliché.,"(
 ドス
 )
@@ -719,7 +719,7 @@ It's so cliché.,"(
 
 ","It is a solid
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.13780802
 "It's the color of dirt
 that's just been dug up.","ひっくり返されたばかりの
 土の色
@@ -729,7 +729,7 @@ that's just been dug up.","ひっくり返されたばかりの
 ","I just got over
 Soil color
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.625496
 "This grass, it doesn't grow in
 a place like this, does it?","この草
  
@@ -743,7 +743,7 @@ a place like this, does it?","この草
 To such a place
 I can not grow
 .
-➡",0.2631578947368421
+➡",0.2631578947368421,0.70272756
 "there's no point unless you
 make it so it's not discovered.","バレないように作らなきゃ
 意味ないよ
@@ -751,7 +751,7 @@ make it so it's not discovered.","バレないように作らなきゃ
 
 ","I have to make it not to barre
 It means
-.",0.23529411764705882
+.",0.2352941176470588,0.15486956
 "So that Kunai knife was so the squirrel
 wouldn't be caught in the trap?","トラップに
  
@@ -763,7 +763,7 @@ wouldn't be caught in the trap?","トラップに
  
 So as not to
 Was it?
-.",0.3157894736842105
+.",0.3157894736842105,0.45255274
 A log?!,"(
 ザク
 )
@@ -779,15 +779,15 @@ A log?!,"(
 
 Traps on top
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6577112
 Just kidding.,"な～んてね
 ｡
 
 ","Ne
-.",0.25
+.",0.25,0.25868312
 What?!,"えっ!?
 
-",eh!?,0.5
+",eh!?,0.5,0.4088229
 Clearly you have no talent.,"(
 ドス
 )
@@ -803,7 +803,7 @@ It is not talented
  
 You are
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.71772635
 Leaf Hurricanes!,"≪
 (
 リー
@@ -812,7 +812,7 @@ Leaf Hurricanes!,"≪
 
 ","«
 
-Taiwan leaf play!",0.3333333333333333
+Taiwan leaf play!",0.3333333333333333,0.46705064
 Then you also should... make an effort!,"だったら
  
 君たちも
@@ -823,7 +823,7 @@ Then you also should... make an effort!,"だったら
  
 You are also
 I should make an effort
-.",0.46153846153846156
+.",0.4615384615384616,0.6137956
 Who are you?,"(
 ドス
 )
@@ -835,7 +835,7 @@ Who are you?,"(
 
 ","Who is it?
 
-Beautiful Beauty Beast of Tree",0.18181818181818182
+Beautiful Beauty Beast of Tree",0.18181818181818185,0.25342828
 "I'm the beautiful blue beast
 of Leaf Village, Rock Lee!","ロック
 ･
@@ -843,7 +843,7 @@ of Leaf Village, Rock Lee!","ロック
 
 ","rock
 ·
-Lee!",0.21428571428571427
+Lee!",0.21428571428571427,0.56231326
 Why are you here?,"あ…
  
 何で
@@ -858,14 +858,14 @@ why
  
 Aunt
  
-Here?",0.42857142857142855
+Here?",0.42857142857142855,0.36092696
 I will always appear...,"あなたがピンチのときは
 いつでも現れますよ
 ｡
 
 ","When you are pinched
 I will appear at any time
-.",0.23076923076923078
+.",0.2307692307692308,0.39546463
 "But right now, I'm also
 your enemy!","でも
  
@@ -877,14 +877,14 @@ your enemy!","でも
  
 nowadays
 Even for you, I am an enemy
-.",0.23529411764705882
+.",0.2352941176470588,0.77781653
 "I did say this once before, didn't I?","前に一度
  
 言ったでしょ？➡
 
 ","Once before
  
-Did you say?➡",0.45454545454545453
+Did you say?➡",0.4545454545454545,0.6310806
 That I'll protect you until I die.,"死ぬまで
  
 あなたを守るって
@@ -893,7 +893,7 @@ That I'll protect you until I die.,"死ぬまで
 ","until death
  
 To protect you
-.",0.4
+.",0.4,0.6264407
 <i>Please go out with me!</i>,"＜僕と
  
 おつきあいしましょう
@@ -904,17 +904,17 @@ To protect you
  
 Let's meet
 .
-➡",0.2
+➡",0.2,0.43286887
 I'll protect you until I die!,"死ぬまで
 あなたを守りますから！＞
 
 ","until death
-I will protect you!>",0.5
+I will protect you!>",0.5,0.9044831
 T-Thanks.,"あぁ
 ｡
 
 ","Ahh
-.",0.3333333333333333
+.",0.3333333333333333,0.22814615
 Yes!,"(
 リー
 )
@@ -926,7 +926,7 @@ Yes!,"(
 ","""Ku!
 decided!
  
-decided!➡",0.16666666666666666
+decided!➡",0.16666666666666666,0.31178898
 "Perfect! I did it!
 Guy Sensei, that was perfect!","決まりましたよ
  
@@ -934,7 +934,7 @@ Guy Sensei, that was perfect!","決まりましたよ
 
 ","It was decided
  
-Guy-san!""",0.23076923076923078
+Guy-san!""",0.2307692307692308,0.42630357
 Zaku. I'll give you Sasuke.,"ザク
  
 サスケ君は君にあげるよ
@@ -945,12 +945,12 @@ Zaku. I'll give you Sasuke.,"ザク
  
 Sasuke will give you you
 .
-➡",0.5555555555555556
+➡",0.5555555555555556,0.87852937
 "There is a trick to your attack, isn't there?","君の攻撃には
 何かネタがあるんだろ？
 
 ","For your attack
-Is there anything wrong?",0.38461538461538464
+Is there anything wrong?",0.38461538461538464,0.58189803
 I won't just simply avoid it.,"バカ正直には
  
 よけないよ
@@ -961,17 +961,17 @@ I won't just simply avoid it.,"バカ正直には
  
 I can not
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.3354976
 You showed me your Jutsu before.,"君の技は
 前に見せてもらったからね
 ｡
 
 ","Your skill is
 Because I was shown before
-.",0.23076923076923078
+.",0.2307692307692308,0.48611438
 <i>I'm gonna have to take a chance.</i>,"賭けに出るしかないな》
 
-",I have no choice but to go to bet,0.17647058823529413
+",I have no choice but to go to bet,0.17647058823529413,0.40734357
 "Well, the only team that's weaker
 than us is the Naruto team.","ナルトチームぐらいだ
 っつうんだよ
@@ -979,7 +979,7 @@ than us is the Naruto team.","ナルトチームぐらいだ
 
 ","It is about Naruto team
 It's always
-.",0.3125
+.",0.3125,0.53865695
 Idiot! You know what you're saying?,"バ～カ！
  
 何
@@ -994,12 +994,12 @@ what
  
 Did you say?
 
-what?",0.36363636363636365
+what?",0.3636363636363637,0.46674687
 No question Naruto and Sakura are lame!,"ナルトとサクラは
 確かにヘボだけど➡
 
 ","Naruto and Sakura
-Certainly Heavo but",0.2727272727272727
+Certainly Heavo but",0.2727272727272727,0.7587551
 "But that team has
 the super genius Sasuke!","あそこには
  
@@ -1009,13 +1009,13 @@ the super genius Sasuke!","あそこには
 ","Over there
  
 Super genius
-There is Sasuke!",0.3333333333333333
+There is Sasuke!",0.3333333333333333,0.80197656
 Hah! I wonder...,"(
 いの
 )
 あ～！➡
 
-",Oh!➡,0.14285714285714285
+",Oh!➡,0.14285714285714285,0.22330496
 "In actual battle that genius
 might easily be beaten.","実戦じゃ
  
@@ -1027,7 +1027,7 @@ might easily be beaten.","実戦じゃ
  
 The genius is also
 I'm sorry I'm sorry
-.",0.15789473684210525
+.",0.15789473684210525,0.634283
 "All right, all right,
 I apologize for irritating you.","(ｼｶﾏﾙ)
 はいはい
@@ -1040,7 +1040,7 @@ I apologize for irritating you.","(ｼｶﾏﾙ)
  
 It was bad
 I disorder it
-.",0.14285714285714285
+.",0.14285714285714285,0.23478346
 ...and Sakura is fighting.,"(ﾁｮｳｼﾞ)
 で
  
@@ -1056,12 +1056,12 @@ I disorder it
 Sakura is fighting
 .
 
-What's that?",0.5
+What's that?",0.5,0.91522896
 Hey!,"サスケ君が
 やられるわけないじゃない！
 
 ","Sasuke-kun
-I can not do it!",0.125
+I can not do it!",0.125,0.13716711
 He's late.,"(ﾃﾝﾃﾝ)
 遅いわねぇ
  
@@ -1071,12 +1071,12 @@ He's late.,"(ﾃﾝﾃﾝ)
 ","It is late
  
 If you
-.",0.25
+.",0.25,0.62061787
 Perhaps he ran into the enemy...,"敵に出くわしたのかな
 ｡
 
 ","I wonder if I went to the enemy
-.",0.15384615384615385
+.",0.15384615384615385,0.553314
 Could it be?,"あっ
  
 サスケが
@@ -1095,7 +1095,7 @@ Sasuke
 Be beaten
 .
 
-Yeah?",0.2222222222222222
+Yeah?",0.2222222222222222,0.16643843
 "Huh, that wouldn't have happened.","おかしい…
  
 あいつ
@@ -1108,7 +1108,7 @@ Yeah?",0.2222222222222222
 that person
 The time should have been accurate
 .
-➡",0.1875
+➡",0.1875,0.31694487
 "My friends, there's no reason
 to give up on your youth!","(
 ガイ
@@ -1119,7 +1119,7 @@ to give up on your youth!","(
 
 ","<You!
  
-There is no short breath in youth!>",0.19047619047619047
+There is no short breath in youth!>",0.19047619047619047,0.48158443
 "<i>In the end, only Lee</i>
 <i>could make it his own.</i>","(
 ガイ
@@ -1132,7 +1132,7 @@ There is no short breath in youth!>",0.19047619047619047
 ","""This technique
 in the end
  
-Only Lee only",0.2777777777777778
+Only Lee only",0.2777777777777778,0.629769
 "- Hey Lee...
 - I did it! I will do it!","(
 リー
@@ -1153,22 +1153,22 @@ I did it!>
 
 <Hey
  
-Lee>",0.42857142857142855
+Lee>",0.42857142857142855,0.7395986
 "Listen to this passionate message
 from your teacher!","＜師の熱きメッセージを聞け＞
 
-",<Listen to the hot message of the teacher>,0.2857142857142857
+",<Listen to the hot message of the teacher>,0.2857142857142857,0.70470977
 "it will be dealt with henceforth
 as a forbidden Jutsu.","これより禁術として扱う＞
 
-",Treat as prohibited to prohibit,0.06666666666666667
+",Treat as prohibited to prohibit,0.06666666666666668,0.36405465
 W-What do you mean?,"ど…
  
 どういうことですか？＞
 
 ","degree…
  
-what do you mean?>",0.5
+what do you mean?>",0.5,0.25599667
 "This Jutsu poses a great burden
 on the cells of the muscles,","＜この術は
  
@@ -1178,7 +1178,7 @@ on the cells of the muscles,","＜この術は
 ","<This technique is
  
 Muscle cells
-A great burden",0.3125
+A great burden",0.3125,0.67714244
 "it's a kind of ""Self sacrificing Technique.""","いわば
  
 捨て身の技なのだ
@@ -1189,14 +1189,14 @@ A great burden",0.3125
  
 It is a discard
 .
-➡",0.2
+➡",0.2,0.37553266
 "of the ""power"" that the muscles have.","筋肉が本来持つ力の
  
 せいぜい➡
 
 ","The power of the muscles
  
-Seisei",0.4
+Seisei",0.4,0.7429856
 "So, the brain usually controls the ""power.""","よって
  
 ふだんは脳が
@@ -1213,7 +1213,7 @@ Normally the brain
 Miscellaneous
 Control the power
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.8738488
 "In other words, this is a dangerous Jutsu
 which relies on a secret technique","ところが
  
@@ -1225,7 +1225,7 @@ which relies on a secret technique","ところが
  
 This technique is
  
-In Chakra",0.25
+In Chakra",0.25,0.50896895
 "that brings forth ""power"" almost
 to the limit of one's body.","つまり
  
@@ -1235,22 +1235,22 @@ to the limit of one's body.","つまり
 ","in short
  
 Power close to the limit of human body
-Pissful to be piled up",0.2608695652173913
+Pissful to be piled up",0.2608695652173913,0.59800345
 "So the only time it is all right
 to use this Jutsu","＜だから
 この技を使ってよいのは➡
 
 ","<So
-You can use this technique",0.1875
+You can use this technique",0.1875,0.28471804
 is when a certain condition is met...,"ある条件のときだけだ＞
 
-",Only when there is a certain condition>,0.5
+",Only when there is a certain condition>,0.5,0.72362524
 The condition is...,"(
 ネジ
 )
 《その条件とは…》
 
-","""The condition is ...""",0.6666666666666666
+","""The condition is ...""",0.6666666666666666,0.6807081
 <i>I will utilize that Jutsu without reserve.</i>,"では
  
 心おきなく
@@ -1263,20 +1263,20 @@ The condition is...,"(
 Unexpectedly
 I will do that skill
 .
-➡",0.1875
+➡",0.1875,0.27364597
 <i>Because this is the time you said...</i>,"＜それは
  
 どんなときですか？＞
 
 ","<It is
  
-What time is it?>",0.26666666666666666
+What time is it?>",0.26666666666666666,0.56451106
 <i>He disappeared?!</i>,"(
 ドス
 )
 消えた!?
 
-",Had disappeared!?,0.3333333333333333
+",Had disappeared!?,0.3333333333333333,0.68073153
 It's just the beginning.,"(
 ドス
 )
@@ -1284,13 +1284,13 @@ It's just the beginning.,"(
 ｡
 
 ","Hook
-.",0.14285714285714285
+.",0.14285714285714285,0.16363537
 Take this!,"(
 リー
 )
 ハァ～！
 
-",Hua!,0.25
+",Hua!,0.25,0.3451227
 Just in time.,"(
 ザク
 )
@@ -1298,13 +1298,13 @@ Just in time.,"(
 ｡
 
 ","I fit in time
-.",0.5
+.",0.5,0.54677105
 That is a frightening Jutsu...,"(
 リー
 )
 《この感触は…》
 
-","""This feel is ...""",0.2
+","""This feel is ...""",0.2,0.20776033
 "It did this much even though
 I fell on the spongy dirt.","土のスポンジの上に落ちたのに
 これだけ効くなんて
@@ -1312,7 +1312,7 @@ I fell on the spongy dirt.","土のスポンジの上に落ちたのに
 
 ","I fell on the soil sponge
 It works only
-.",0.35294117647058826
+.",0.35294117647058826,0.5927318
 It's now my turn.,"(
 ドス
 )
@@ -1324,7 +1324,7 @@ It's now my turn.,"(
 ","next
  
 It is my turn
-.",0.5
+.",0.5,0.80189526
 <i>my body still isn't...</i>,"(
 リー
 )
@@ -1344,10 +1344,10 @@ So
  
 Body is
  
-not yet…""",0.17647058823529413
+not yet…""",0.17647058823529413,0.25249138
 Lee!,"リーさん！
 
-",Lee!,1.0
+",Lee!,1.0,0.99999946
 Your Jutsu is indeed fast.,"(
 ドス
 )
@@ -1357,18 +1357,18 @@ Your Jutsu is indeed fast.,"(
 
 ","Your technique is certainly fast
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.5492917
 "But our Jutsu exceeds that
 and is the speed of sound!","それを超える音速だ
 ｡
 
 ","It is the speed of velocity beyond that
-.",0.3125
+.",0.3125,0.3719796
 I'll show you there are walls,"壁というものを教えてあげるよ
 ｡
 
 ","I will teach you what I am
-.",0.16666666666666666
+.",0.16666666666666666,0.29303452
 "<i>when you want to cry, and you want to run away</i>","♬
  
 君は
@@ -1379,7 +1379,7 @@ I'll show you there are walls,"壁というものを教えてあげるよ
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.39087588
 "I'm so frustrated!
 I'm just pulling feet again.","♬
  
@@ -1387,14 +1387,14 @@ I'm just pulling feet again.","♬
 
 ","♬
  
-Because I'm crying",0.15384615384615385
+Because I'm crying",0.15384615384615385,0.14844935
 I want to be like you too!,"♬
  
 泣きたくなって
 
 ","♬
  
-I want to cry",0.3
+I want to cry",0.3,0.40387926
 "Next episode:
 ""Sakura Blossoms!""","♬
  
@@ -1402,4 +1402,4 @@ I want to cry",0.3
 
 ","♬
  
-A singing",0.0
+A singing",0.0,0.17660902

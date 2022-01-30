@@ -1,37 +1,37 @@
-en_text,jp_text,google_translated,score
-dame da yo koko kara saki wa,别再靠近 那前方,Retail reconnaissant,0.0
-ugomeku yami wo kizami sagasu no hikari no sora,蠢动的黑暗如此刻骨 在昏暗的天空下彷徨,蠢 下 下 下 下 下 下,0.0
-"I want to fly, I want to beat my wings",我无力改变,I'm sorry,0.1
-A red butterfly flutters around me,摇摇欲坠之红蝶,摇摇 摇摇 butterfly,0.14285714285714285
-My bear got hurt.,クマさんケガしちゃった,Mr. bear,0.16666666666666666
-Hurt?,ケガ？,injury?,0.3333333333333333
-Dad stepped on him yesterday.,昨日ね　お父さんに踏まれちゃったの,Yesterday I was stepped on my father,0.3
-Uh...,えっと,Fur,0.0
-"Wow, bears are expensive.",クマさん高いな,Mr. Kuma is expensive,0.1111111111111111
-But I wanna repay her for the hairpin.,でも　ヘアピンのお返ししたい,But I want to return hairpin,0.23076923076923078
-What should I do?,どうしよう,What should I do,0.8
-Hello there!,ボクちゃん　お嬢ちゃん　こんにちは,Bok-chan mother-chan Hello,0.2
-Here!,はい　これ,Yes,0.0
-And the first prize is this fantastic giant teddy bear!,これはやるっきゃないよね,This is not good,0.15384615384615385
-"Sorry, boy.",悪いな坊や,Bad boy,0.2
-Only one draw per ticket.,福引はチケット一枚に付き一回だ,Fukuji is one ticket with one ticket,0.2222222222222222
-Here's your consolation prize.,そら　残念賞だ,Sora no sense award,0.0
-Accepting defeat is the first step toward growing up.,妥協を覚えたら大人への第一歩だぜ,"If you remember a compromise, it is the first step to adults",0.21052631578947367
-Arita!,有田,Arita,0.5
-And your sisters...,とお姉さん達,And sisters,0.5
-Can I really have yours?,ホントにもらっていいのか,Is it really good?,0.2222222222222222
-I don't mind.,これやるよ,I will do this,0.2857142857142857
-Not like I need a stuffed toy.,俺ぬいぐるみなんかいらなぇし,I'm a stuffed toy,0.4444444444444444
-"But in return,",その代わり　ちゃんと決めろよ,Let's decide that instead,0.0
-Right!,ああ,Ah,0.0
-Not a winner.,チャンスを生かせない人間なんて致命的だぜ　坊主,Human who can not make a chance is fatal,0.18181818181818182
-I'm sorry! I'm sorry!,ごめんなさい　ごめんなさい,"I'm sorry, I'm sorry",0.6
-It takes real luck to lose this many times!,あと三回できるよ,I can do it three times,0.14285714285714285
-My last chance!,あと一回で最後だぞ,It is the last one more time,0.1
-I'll give this stuffed toy to Yume!,夢にぬいぐるみ　プレゼントするんだ,I will give a plush to dream,0.23076923076923078
-"Sorry, Yume.",ごめん　夢　こんなのしか,I'm sorry Dream,0.14285714285714285
-This is all I got.,これでいいの　クマさんは,This is good bear,0.25
-Wow! It's so cute!,そ　そっか,So,0.16666666666666666
-Can I have it?,七？,Is it seven?,0.2857142857142857
-"He might be hurt, but he's still there for me.",夢のクマさん　ケガしてるけどここにいるよ,"I'm wearing a dream bear, but I'm here",0.10526315789473684
-I'll keep it forever and ever!,大事にするね,I will take care,0.09090909090909091
+en_text,jp_text,google_translated,score,semantic_score
+dame da yo koko kara saki wa,别再靠近 那前方,Retail reconnaissant,0.0,0.12947692
+ugomeku yami wo kizami sagasu no hikari no sora,蠢动的黑暗如此刻骨 在昏暗的天空下彷徨,蠢 下 下 下 下 下 下,0.0,0.24007109
+"I want to fly, I want to beat my wings",我无力改变,I'm sorry,0.1,0.17883103
+A red butterfly flutters around me,摇摇欲坠之红蝶,摇摇 摇摇 butterfly,0.14285714285714285,0.47633886
+My bear got hurt.,クマさんケガしちゃった,Mr. bear,0.16666666666666666,0.62525177
+Hurt?,ケガ？,injury?,0.3333333333333333,0.72165364
+Dad stepped on him yesterday.,昨日ね　お父さんに踏まれちゃったの,Yesterday I was stepped on my father,0.3,0.7764938
+Uh...,えっと,Fur,0.0,0.15514098
+"Wow, bears are expensive.",クマさん高いな,Mr. Kuma is expensive,0.1111111111111111,0.40134466
+But I wanna repay her for the hairpin.,でも　ヘアピンのお返ししたい,But I want to return hairpin,0.2307692307692308,0.6533479
+What should I do?,どうしよう,What should I do,0.8,0.74135333
+Hello there!,ボクちゃん　お嬢ちゃん　こんにちは,Bok-chan mother-chan Hello,0.2,0.2678712
+Here!,はい　これ,Yes,0.0,0.19675702
+And the first prize is this fantastic giant teddy bear!,これはやるっきゃないよね,This is not good,0.15384615384615385,0.02798296
+"Sorry, boy.",悪いな坊や,Bad boy,0.2,0.46019024
+Only one draw per ticket.,福引はチケット一枚に付き一回だ,Fukuji is one ticket with one ticket,0.2222222222222222,0.5072858
+Here's your consolation prize.,そら　残念賞だ,Sora no sense award,0.0,0.2964815
+Accepting defeat is the first step toward growing up.,妥協を覚えたら大人への第一歩だぜ,"If you remember a compromise, it is the first step to adults",0.21052631578947367,0.4533231
+Arita!,有田,Arita,0.5,0.9068527
+And your sisters...,とお姉さん達,And sisters,0.5,0.62490076
+Can I really have yours?,ホントにもらっていいのか,Is it really good?,0.2222222222222222,0.16234678
+I don't mind.,これやるよ,I will do this,0.2857142857142857,0.15938883
+Not like I need a stuffed toy.,俺ぬいぐるみなんかいらなぇし,I'm a stuffed toy,0.4444444444444444,0.72864467
+"But in return,",その代わり　ちゃんと決めろよ,Let's decide that instead,0.0,0.29040742
+Right!,ああ,Ah,0.0,0.38805896
+Not a winner.,チャンスを生かせない人間なんて致命的だぜ　坊主,Human who can not make a chance is fatal,0.18181818181818185,0.22087844
+I'm sorry! I'm sorry!,ごめんなさい　ごめんなさい,"I'm sorry, I'm sorry",0.6,0.78892565
+It takes real luck to lose this many times!,あと三回できるよ,I can do it three times,0.14285714285714285,0.33878988
+My last chance!,あと一回で最後だぞ,It is the last one more time,0.1,0.4045716
+I'll give this stuffed toy to Yume!,夢にぬいぐるみ　プレゼントするんだ,I will give a plush to dream,0.2307692307692308,0.50226736
+"Sorry, Yume.",ごめん　夢　こんなのしか,I'm sorry Dream,0.14285714285714285,0.24653983
+This is all I got.,これでいいの　クマさんは,This is good bear,0.25,0.09602921
+Wow! It's so cute!,そ　そっか,So,0.16666666666666666,0.09549634
+Can I have it?,七？,Is it seven?,0.2857142857142857,0.24628177
+"He might be hurt, but he's still there for me.",夢のクマさん　ケガしてるけどここにいるよ,"I'm wearing a dream bear, but I'm here",0.10526315789473684,0.1589092
+I'll keep it forever and ever!,大事にするね,I will take care,0.09090909090909093,0.18043323

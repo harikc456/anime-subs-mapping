@@ -1,212 +1,212 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "Hold on, Shun! My chain came off.","あら？あ… 待ってよ俊！
 チェーンが外れちゃったの","Oh?Oh ... Wait!
-The chain has been removed",0.1111111111111111
-Fix it while I do a lap.,１周してくるから直しとけよ,Let's fix it because it comes around,0.15384615384615385
-"Shun, what happened?",俊！どうしたの？！,Shook!What's wrong?!,0.2222222222222222
-"Hold on, Shun!",はっ！,Hey!,0.16666666666666666
-Inagaki... Inagaki...,い… 稲垣が… うっう… 稲垣…,Inagaki ... Inagaki ...,1.0
-You shouldn't talk. Don't talk.,しゃべらないで しゃべっちゃダメ,Don't talk and talk,0.42857142857142855
-I'll get an ambulance here right away!,すぐ救急車を呼ぶから,Because I call an ambulance immediately,0.25
-"Shun! Hold on, Shun!",あぁ！,Ahh!,0.16666666666666666
-"""Challenger shot and killed?"" What?!",挑戦者射殺される？！,Challenger?!,0.3333333333333333
-"""Challenger Shunichi Ogino, who had\Nmade a miraculous comeback, dies!",奇跡のカムバックを果たした荻野俊一死す,Shunichi Hadon who played a miracle camback,0.1875
-"The new challenger will be third-ranked\NInagaki from the same weight class.""",新挑戦者は同クラス３位の稲垣に,The new challenger is in Inagaki of the same class 3,0.29411764705882354
+The chain has been removed",0.1111111111111111,0.65934396
+Fix it while I do a lap.,１周してくるから直しとけよ,Let's fix it because it comes around,0.15384615384615385,0.44879073
+"Shun, what happened?",俊！どうしたの？！,Shook!What's wrong?!,0.2222222222222222,0.30601954
+"Hold on, Shun!",はっ！,Hey!,0.16666666666666666,0.29097885
+Inagaki... Inagaki...,い… 稲垣が… うっう… 稲垣…,Inagaki ... Inagaki ...,1.0,1.0
+You shouldn't talk. Don't talk.,しゃべらないで しゃべっちゃダメ,Don't talk and talk,0.42857142857142855,0.7717624
+I'll get an ambulance here right away!,すぐ救急車を呼ぶから,Because I call an ambulance immediately,0.25,0.64503187
+"Shun! Hold on, Shun!",あぁ！,Ahh!,0.16666666666666666,0.21077937
+"""Challenger shot and killed?"" What?!",挑戦者射殺される？！,Challenger?!,0.3333333333333333,0.5935531
+"""Challenger Shunichi Ogino, who had\Nmade a miraculous comeback, dies!",奇跡のカムバックを果たした荻野俊一死す,Shunichi Hadon who played a miracle camback,0.1875,0.42679378
+"The new challenger will be third-ranked\NInagaki from the same weight class.""",新挑戦者は同クラス３位の稲垣に,The new challenger is in Inagaki of the same class 3,0.29411764705882354,0.64844394
 "No way! When I placed a bet on Ogino,\NI never anticipated him getting killed!","荻野が殺されるなんて思ってねえから
 俺は賭けたんだ！","I think that Hino is killed
-I bet!",0.19047619047619047
-What? It goes automatically on\Nthe new challenger Inagaki?,新挑戦者の稲垣ってえのにか？！,Is it a new challenger Inagaki?!,0.4166666666666667
-"Look, let me change my bet\Nto the champion, okay?",な あ お 俺 チャンピオンに賭け直すよ,Nana I'm back to the champion,0.125
-"No, hold on!",なにい！,Need!,0.16666666666666666
+I bet!",0.19047619047619047,0.5253178
+What? It goes automatically on\Nthe new challenger Inagaki?,新挑戦者の稲垣ってえのにか？！,Is it a new challenger Inagaki?!,0.4166666666666667,0.7863673
+"Look, let me change my bet\Nto the champion, okay?",な あ お 俺 チャンピオンに賭け直すよ,Nana I'm back to the champion,0.125,0.39398456
+"No, hold on!",なにい！,Need!,0.16666666666666666,0.24843694
 "See, I warned you not to get involved\Nwith this illicit betting on boxing.","だからモグリの賭けボクシングに
 手を出すなって言ったろ","So in the bet boxing of Mogli
-I told you to get out",0.21739130434782608
-"Okay, so let's talk about work then.\NIt's connected to the Ogino shooting.",その荻野射殺事件に関係ありだ,It is related to the Jinno shooting case,0.15
-Here!,るせえ！,Hey!,0.3333333333333333
-Isn't this the park where\NOgino was killed?,この公園 荻野が殺された所じゃないか？,Isn't it where this park Honno was killed?,0.5833333333333334
-Right.,はいっ,Yes,0.0
-"Hey, Ryo, where did you go?",おいリョウ… どこ行ったんだ,Oryo ... Where did you go,0.4
-Got it!,それ！,that!,0.25
-"Are you okay, Mister?",大丈夫ですかぁ おじさまぁ,Are you okay?,0.6666666666666666
-"Yes, fine. Some smash you've got.",や やあ 中々いいスマッシュだ ウ ウン,"Well, a good smash Uun",0.15384615384615385
-Just listen.,黙って聞け！,Shut up and listen!,0.14285714285714285
-"Megumi Iwasaki, twenty-seven, doctor.",岩崎めぐみ 27歳,Iwasaki Megumi 27 years old,0.2222222222222222
-A doctor? Nice!,じょ 女医さん！,A female doctor!,0.5
+I told you to get out",0.21739130434782608,0.5531845
+"Okay, so let's talk about work then.\NIt's connected to the Ogino shooting.",その荻野射殺事件に関係ありだ,It is related to the Jinno shooting case,0.15,0.34411508
+Here!,るせえ！,Hey!,0.3333333333333333,0.4121571
+Isn't this the park where\NOgino was killed?,この公園 荻野が殺された所じゃないか？,Isn't it where this park Honno was killed?,0.5833333333333334,0.7660429
+Right.,はいっ,Yes,0.0,0.34161797
+"Hey, Ryo, where did you go?",おいリョウ… どこ行ったんだ,Oryo ... Where did you go,0.4,0.4642834
+Got it!,それ！,that!,0.25,0.4659819
+"Are you okay, Mister?",大丈夫ですかぁ おじさまぁ,Are you okay?,0.6666666666666666,0.71124
+"Yes, fine. Some smash you've got.",や やあ 中々いいスマッシュだ ウ ウン,"Well, a good smash Uun",0.15384615384615385,0.55579084
+Just listen.,黙って聞け！,Shut up and listen!,0.14285714285714285,0.6283469
+"Megumi Iwasaki, twenty-seven, doctor.",岩崎めぐみ 27歳,Iwasaki Megumi 27 years old,0.2222222222222222,0.7512702
+A doctor? Nice!,じょ 女医さん！,A female doctor!,0.5,0.7830757
 Right. She's the girlfriend of that\NShunichi Ogino you were betting on.,"彼女は お前さんが賭けてた
 荻野俊一の恋人","She was betting your bets
-Shunichi Ogino",0.17647058823529413
-"You'll have to rest for another two\Nor three days, got it?",あと２～３日は静かにしてなきゃダメよ,If you have to quiet 2 to 3 days,0.2222222222222222
-Yes. Bye-bye!,うん！,Yes!,0.5
-"Okay, here I am!",分ったかなぁ ボク,I wondered,0.14285714285714285
-"Well, it's a little embarrassing.",あ… それが… 恥ずかしいんですけど…,Oh ... it's embarrassing ...,0.3
-it likes!,んっ！,!,0.3333333333333333
-"Doctor, isn't there a less\Npainful treatment?",病気に恥ずかしい事なんてありませんわ,There is no embarrassment for sickness,0.15384615384615385
+Shunichi Ogino",0.17647058823529413,0.6511629
+"You'll have to rest for another two\Nor three days, got it?",あと２～３日は静かにしてなきゃダメよ,If you have to quiet 2 to 3 days,0.2222222222222222,0.51391727
+Yes. Bye-bye!,うん！,Yes!,0.5,0.4039738
+"Okay, here I am!",分ったかなぁ ボク,I wondered,0.14285714285714285,0.16050263
+"Well, it's a little embarrassing.",あ… それが… 恥ずかしいんですけど…,Oh ... it's embarrassing ...,0.3,0.67909503
+it likes!,んっ！,!,0.3333333333333333,0.41118482
+"Doctor, isn't there a less\Npainful treatment?",病気に恥ずかしい事なんてありませんわ,There is no embarrassment for sickness,0.15384615384615385,0.15496111
 The best treatment for you\Nis shock therapy!,"貴方みたいな人には
 ショック療法が一番です！","For people like you
-Shock therapy is the best!",0.5
-"Just don't drink too much, Doctor.",飲みすぎないようにな 先生,A teacher who doesn't drink too much,0.3076923076923077
-You!,あぁっ！,Ah!,0.3333333333333333
-This face is in need of rehabilitation.\NJust like your boyfriend Ogino was.,この顔もリハビリが必要なんですよ,This face also needs rehabilitation,0.125
-"""XYZ"", your sweeper from the shadows.",XYZ 闇のスイーパー,XYZ dark sweeper,0.18181818181818182
-You mean you are...,まさか あなたは…,Masaka you ...,0.4
-"Ryo Saeba, the man you hired.",冴羽リョウ おたくが雇った男だ,A man who hired,0.2
+Shock therapy is the best!",0.5,0.8529746
+"Just don't drink too much, Doctor.",飲みすぎないようにな 先生,A teacher who doesn't drink too much,0.3076923076923077,0.4229004
+You!,あぁっ！,Ah!,0.3333333333333333,0.36250576
+This face is in need of rehabilitation.\NJust like your boyfriend Ogino was.,この顔もリハビリが必要なんですよ,This face also needs rehabilitation,0.125,0.60481685
+"""XYZ"", your sweeper from the shadows.",XYZ 闇のスイーパー,XYZ dark sweeper,0.18181818181818185,0.72071767
+You mean you are...,まさか あなたは…,Masaka you ...,0.4,0.3131816
+"Ryo Saeba, the man you hired.",冴羽リョウ おたくが雇った男だ,A man who hired,0.2,0.5891564
 It's my policy to know a client well\Nbefore taking a job.,"仕事の前に依頼人の事を
 詳しく知るのが俺の主義でね","Prior to work
-It is my principle to know in detail",0.2222222222222222
-"You'll catch a cold, Doctor!",風邪ひきますよ 先生,I can't catch a sense teacher,0.15384615384615385
-"So, you're saying the culprit is\Nthe challenger Inagaki?",ホシは新挑戦者の稲垣だって言うのか？,Hoshi says that the new challenger's Inagaki?,0.25
-Yes.,ええ,Yes,0.5
-How do you know that?,どうしてそれが分る？,Why do you know?,0.5714285714285714
-Shun said so before he died.,俊が息を引き取る前に そう言ったの,I said so before I pick up my breath,0.25
-It was Inagaki. I saw him.,い… 稲垣だ… ひっ 俺は見た…,Yes ... Inagaki ... I saw it ...,0.4444444444444444
-Threatening calls?,脅迫電話？,Threat phone?,0.2
-"""This time?"" So that\Nhit-and-run was also...",今度は命がない？,Is there no life this time?,0.21428571428571427
-Getting this title was his dream.,夢だったのよ 今度のタイトルを取るのが,"It was a dream, I'm going to take this title",0.26666666666666666
-Inagaki is a rabid dog\Ndriven mad by envy.,稲垣は嫉妬に狂った狂犬よ,Inagaki is a crazy rabies with jealousy,0.23076923076923078
+It is my principle to know in detail",0.2222222222222222,0.43287486
+"You'll catch a cold, Doctor!",風邪ひきますよ 先生,I can't catch a sense teacher,0.15384615384615385,0.20929511
+"So, you're saying the culprit is\Nthe challenger Inagaki?",ホシは新挑戦者の稲垣だって言うのか？,Hoshi says that the new challenger's Inagaki?,0.25,0.7090076
+Yes.,ええ,Yes,0.5,0.83685565
+How do you know that?,どうしてそれが分る？,Why do you know?,0.5714285714285714,0.6340217
+Shun said so before he died.,俊が息を引き取る前に そう言ったの,I said so before I pick up my breath,0.25,0.29700696
+It was Inagaki. I saw him.,い… 稲垣だ… ひっ 俺は見た…,Yes ... Inagaki ... I saw it ...,0.4444444444444444,0.7762901
+Threatening calls?,脅迫電話？,Threat phone?,0.2,0.64036655
+"""This time?"" So that\Nhit-and-run was also...",今度は命がない？,Is there no life this time?,0.21428571428571427,0.21599947
+Getting this title was his dream.,夢だったのよ 今度のタイトルを取るのが,"It was a dream, I'm going to take this title",0.26666666666666666,0.7312958
+Inagaki is a rabid dog\Ndriven mad by envy.,稲垣は嫉妬に狂った狂犬よ,Inagaki is a crazy rabies with jealousy,0.2307692307692308,0.74264
 I can't forgive him.\NThere's just no way.,"許せないの どうしても
 彼を許す事ができないのよ","Why can't forgive you
-I can not forgive him",0.26666666666666666
-"So, that's why you want\Nme to kill him?",じゃあ 前の轢き逃げも？,"Well then, do you run away?",0.1875
-"I know how you must feel about\Nthe murder of your boyfriend,",恋人を殺されたあんたの気持ちは分かるが,I know the feeling of being killed by my lover,0.15789473684210525
-but you'd better leave it to the police.,警察に任せた方がいい,It is better to leave the police,0.5454545454545454
-You'll be breaking the law.,法を犯す事になるんだぜ,It will be a way to commit the law,0.23076923076923078
+I can not forgive him",0.26666666666666666,0.7433363
+"So, that's why you want\Nme to kill him?",じゃあ 前の轢き逃げも？,"Well then, do you run away?",0.1875,0.4279719
+"I know how you must feel about\Nthe murder of your boyfriend,",恋人を殺されたあんたの気持ちは分かるが,I know the feeling of being killed by my lover,0.15789473684210525,0.56025463
+but you'd better leave it to the police.,警察に任せた方がいい,It is better to leave the police,0.5454545454545454,0.7629386
+You'll be breaking the law.,法を犯す事になるんだぜ,It will be a way to commit the law,0.2307692307692308,0.48617914
 It's not something a gentle doctor\Nlike yourself should be doing.,"おたくみたいなやさしい女医さんの
 やるような事じゃない","A female doctor like a naughty girl
-It is not something to do",0.2
-I'm running out of time!,あたしには時間がないの！,I have no time!,0.3333333333333333
-It's none of your concern.\NJust leave me alone.,あたしの事は放っておいて,I will leave me,0.16666666666666666
-"Doctor, drinking so much\Nisn't good for you.",先生 飲みすぎは体に良くないぜ,The teacher drink too much is not good for the body,0.1111111111111111
-Yo! A man washing dishes\Nfirst thing in the morning?,男が朝っぱらから皿洗いか？,Are men washing dishes from morning?,0.2
-"Good deal, huh?",うん いい趣味だろ,It is a good hobby,0.1111111111111111
+It is not something to do",0.2,0.6724633
+I'm running out of time!,あたしには時間がないの！,I have no time!,0.3333333333333333,0.6601266
+It's none of your concern.\NJust leave me alone.,あたしの事は放っておいて,I will leave me,0.16666666666666666,0.28071392
+"Doctor, drinking so much\Nisn't good for you.",先生 飲みすぎは体に良くないぜ,The teacher drink too much is not good for the body,0.1111111111111111,0.5133327
+Yo! A man washing dishes\Nfirst thing in the morning?,男が朝っぱらから皿洗いか？,Are men washing dishes from morning?,0.2,0.7404762
+"Good deal, huh?",うん いい趣味だろ,It is a good hobby,0.1111111111111111,0.1477585
 "By the way, your little sister is\Nnever around when I come.","ふん… ところで
 いつ来ても妹はいないんだな","Fu ... at the place
-There is no sister even when coming",0.13636363636363635
-"Introduce her to me\Nsometime, will you?",彼女の痛みは心だけじゃなさそうだな…,Her pain seems not to be not only my mind ...,0.125
+There is no sister even when coming",0.13636363636363635,0.5853102
+"Introduce her to me\Nsometime, will you?",彼女の痛みは心だけじゃなさそうだな…,Her pain seems not to be not only my mind ...,0.125,0.30912903
 who would put his sister in close\Nproximity to your poison fangs?,"進んでお前の毒牙にかけようって
 兄貴がどこの世界にいる！","Go ahead and apply to your poison
-My brother is in the world!",0.18181818181818182
-"You're not hiding her\Nfrom me, are you?",隠してんじゃないだろうなぁ,I'm not hiding,0.18181818181818182
-Who knows?,お…？,Oh…?,0.25
+My brother is in the world!",0.18181818181818185,0.41766152
+"You're not hiding her\Nfrom me, are you?",隠してんじゃないだろうなぁ,I'm not hiding,0.18181818181818185,0.7017594
+Who knows?,お…？,Oh…?,0.25,0.32708436
 "I bet when your sister is out you do\Nstuff like this all the time, right?","お前 妹の留守中
 こんな事して楽しんでるんでないかい？","During your sister's answering
-Do you not enjoy this way?",0.20833333333333334
-Why did you come here anyway?,一体お前何しに来たんだ,I've come to you,0.2
-Tell me everything about this client.,依頼人の事を詳しく話してくれ,Talk in detail by the client,0.08333333333333333
-"Megumi Iwasaki, you mean?",岩崎めぐみか？,Iwasaki Megumi?,0.5
-"She has cancer, doesn't she?",彼女… ガンじゃないのか？,She ... Isn't it a gun?,0.25
-That's correct.,その通り…,that's right…,0.4
-Insurance Policy? What's this?,保険証書？何だ これ？,Insurance certificate?What this?,0.5714285714285714
-"In other words, her life\Nis our closing fee.",つまり 彼女の命が始末料だ,"In other words, her life is the first time",0.3333333333333333
-That's how it is.,そういう事だ,That is,0.3333333333333333
+Do you not enjoy this way?",0.20833333333333331,0.6317638
+Why did you come here anyway?,一体お前何しに来たんだ,I've come to you,0.2,0.3189653
+Tell me everything about this client.,依頼人の事を詳しく話してくれ,Talk in detail by the client,0.08333333333333333,0.58088017
+"Megumi Iwasaki, you mean?",岩崎めぐみか？,Iwasaki Megumi?,0.5,0.95288676
+"She has cancer, doesn't she?",彼女… ガンじゃないのか？,She ... Isn't it a gun?,0.25,0.3558674
+That's correct.,その通り…,that's right…,0.4,0.7449502
+Insurance Policy? What's this?,保険証書？何だ これ？,Insurance certificate?What this?,0.5714285714285714,0.67682314
+"In other words, her life\Nis our closing fee.",つまり 彼女の命が始末料だ,"In other words, her life is the first time",0.3333333333333333,0.37139428
+That's how it is.,そういう事だ,That is,0.3333333333333333,0.3950917
 "She wanted closure before she died,\Nthat's why she asked us.","彼女は生きている間に見届けたくて
 俺たちに依頼したんだ","She wanted to be able to see while living
-She asked us",0.2222222222222222
-In exchange for the value\Nof her own life...,自分の命の値段と引き換えにな…,In exchange for the price of your own life ...,0.5833333333333334
-Can I hold on to this?,これ 預かってていいか？,May I take this?,0.3333333333333333
-That's our policy.,それが俺たちの信条さ,That is our belief,0.2857142857142857
-"Not ""ours"". You mean yours, right?",俺たちじゃなくて お前のだろ？,Not what we are not?,0.14285714285714285
-"Yeah, maybe. Well, I'm going\Nto get down to work.",まぁな じゃあ俺は仕事に取り掛かるから,"Well, I'm going to work",0.46153846153846156
-"Hold it a second, Ryo.",うぅんっ ちょっと待ちな リョウ,Wait a little waiting Ryo,0.2
+She asked us",0.2222222222222222,0.57345676
+In exchange for the value\Nof her own life...,自分の命の値段と引き換えにな…,In exchange for the price of your own life ...,0.5833333333333334,0.61560977
+Can I hold on to this?,これ 預かってていいか？,May I take this?,0.3333333333333333,0.3578058
+That's our policy.,それが俺たちの信条さ,That is our belief,0.2857142857142857,0.40544492
+"Not ""ours"". You mean yours, right?",俺たちじゃなくて お前のだろ？,Not what we are not?,0.14285714285714285,0.40770432
+"Yeah, maybe. Well, I'm going\Nto get down to work.",まぁな じゃあ俺は仕事に取り掛かるから,"Well, I'm going to work",0.4615384615384616,0.57797104
+"Hold it a second, Ryo.",うぅんっ ちょっと待ちな リョウ,Wait a little waiting Ryo,0.2,0.75770396
 "Yo, Champion, I'm rooting\Nfor you in the match!","おーい！チャンピオン！
 今度の試合期待してるぜ！","Hey!champion!
-I'm expecting this time!",0.26666666666666666
-What is this?!,な 何のまねだ？！あ…,What's wrong?!a…,0.375
+I'm expecting this time!",0.26666666666666666,0.4914185
+What is this?!,な 何のまねだ？！あ…,What's wrong?!a…,0.375,0.37613535
 All I want ya to do is go down\Nin the third round.,"今度の試合で あんたに３ラウンドで
 沈んで貰いたいだけだよ","In this game, in 3 rounds
-I just want to sink",0.14285714285714285
-"Easy, isn't it?",簡単な事だろ？,Is it easy?,0.6666666666666666
+I just want to sink",0.14285714285714285,0.43452173
+"Easy, isn't it?",簡単な事だろ？,Is it easy?,0.6666666666666666,0.54651195
 I can't do that!,"お 俺に八百長をやれと言うのか？！
 はぁっ","Do you say that you do eight hundred years?!
-Huh",0.23076923076923078
-My daughter?,む 娘だと？,What is your daughter?,0.3333333333333333
-You got it. Don't you care\Nwhat happens to her?,うっう… そんな事できるか！,Ume ... Can you do that?,0.2
-"You're smarter than Ogino, ain't ya?",あんたは荻野よりおりこうさんだろ？,You're more than Mr. Ogino?,0.4166666666666667
-Ogino was your...,うううっ…,Uhuu ...,0.2
-"I mean it. What you gonna do, Champ?",そうだ どうなってもいいのかな？,That's right I wonder if it is okay?,0.15789473684210525
-I got it.,うぅっ わ 分かった あぁっ…,I understand that I understand ...,0.14285714285714285
-Mr. Saeba!,えっ！それじゃあ…,eh! Well then…,0.16666666666666666
-I've almost finished my\Npreparations for the job.,仕事の準備はほとんど完了した,Most of the preparation of work was completed,0.06666666666666667
+Huh",0.2307692307692308,0.16658378
+My daughter?,む 娘だと？,What is your daughter?,0.3333333333333333,0.76759315
+You got it. Don't you care\Nwhat happens to her?,うっう… そんな事できるか！,Ume ... Can you do that?,0.2,0.13088691
+"You're smarter than Ogino, ain't ya?",あんたは荻野よりおりこうさんだろ？,You're more than Mr. Ogino?,0.4166666666666667,0.7706787
+Ogino was your...,うううっ…,Uhuu ...,0.2,0.19661807
+"I mean it. What you gonna do, Champ?",そうだ どうなってもいいのかな？,That's right I wonder if it is okay?,0.15789473684210525,0.18188311
+I got it.,うぅっ わ 分かった あぁっ…,I understand that I understand ...,0.14285714285714285,0.2511355
+Mr. Saeba!,えっ！それじゃあ…,eh! Well then…,0.16666666666666666,0.18123457
+I've almost finished my\Npreparations for the job.,仕事の準備はほとんど完了した,Most of the preparation of work was completed,0.06666666666666668,0.4683829
 "However, there's something\NI want you to do first.","その前に たった一つ
 君にやって欲しい事がある","One before that
-I want you to do it",0.25
-Me?,あたしに？,To me?,0.6666666666666666
-It's something only you can do.\NClose your eyes.,君にしか出来ない事だ 目を閉じて,Close the eyes that can only be done by you,0.25
-My eyes?,目を？あ…,Eyes?a…,0.5
-Why don't you drop dead?!,貴方って人は 一度死になさい！エィッ！,You will die once!Eh!,0.16666666666666666
-He's gone!,あ…！,a…!,0.2
+I want you to do it",0.25,0.4652339
+Me?,あたしに？,To me?,0.6666666666666666,0.62222135
+It's something only you can do.\NClose your eyes.,君にしか出来ない事だ 目を閉じて,Close the eyes that can only be done by you,0.25,0.7339107
+My eyes?,目を？あ…,Eyes?a…,0.5,0.7427332
+Why don't you drop dead?!,貴方って人は 一度死になさい！エィッ！,You will die once!Eh!,0.16666666666666666,0.4361833
+He's gone!,あ…！,a…!,0.2,0.30664405
 This is...,"まさか あの人
 この試合をあたしに見に来いと…","That person
-Come to see this match ...",0.2222222222222222
-I really thought I was a goner.,変ねえ 確かに落ちたと思ったのに…,I thought it was definitely fell ...,0.2727272727272727
-Japan's junior middle-weight\Ntitle match.,本日の日本Ｊｒミドル級タイトルマッチ,Today's Japan JR Middleweight Title Match,0.3
-Inagaki has been punishing Mita\Nsince the start of Round One!,おーっと また稲垣の右がきれいに入った,"Oh, the right of Inagaki has been clean",0.3333333333333333
+Come to see this match ...",0.2222222222222222,0.22534573
+I really thought I was a goner.,変ねえ 確かに落ちたと思ったのに…,I thought it was definitely fell ...,0.2727272727272727,0.20399722
+Japan's junior middle-weight\Ntitle match.,本日の日本Ｊｒミドル級タイトルマッチ,Today's Japan JR Middleweight Title Match,0.3,0.6534918
+Inagaki has been punishing Mita\Nsince the start of Round One!,おーっと また稲垣の右がきれいに入った,"Oh, the right of Inagaki has been clean",0.3333333333333333,0.57646704
 The champion remains trapped\Nagainst the ropes!,"チャンピオン
 ロープに追い詰められたまま","champion
-Sticked with the rope",0.2222222222222222
-Now he's trapped in the corner!,いよいよコーナーに追い詰められた！,Finally I was chased with the corner!,0.23076923076923078
-It's just a matter of time\Ntill he goes down?,いやー ダウンも時間の問題かー,Is it a problem of time?,0.2857142857142857
-"Fired from a range of\None hundred meters,",100メートルの距離から放ったこの弾は,This bullet released from a distance of 100 meters,0.21428571428571427
+Sticked with the rope",0.2222222222222222,0.7576409
+Now he's trapped in the corner!,いよいよコーナーに追い詰められた！,Finally I was chased with the corner!,0.2307692307692308,0.65548176
+It's just a matter of time\Ntill he goes down?,いやー ダウンも時間の問題かー,Is it a problem of time?,0.2857142857142857,0.33374918
+"Fired from a range of\None hundred meters,",100メートルの距離から放ったこの弾は,This bullet released from a distance of 100 meters,0.21428571428571427,0.6720543
 "And, Inagaki,","しかも稲垣
 これは貴様のためにしつらえた","Moreover, Inagaki
-This was done for your kind",0.2
-I used pure gold to prepare this\Nhollow-point round especially for you.,純金製ホローポイント弾だ,It is a pure gold hollow point bullet,0.1111111111111111
-A right! Then a left! From Inagaki!,稲垣の右 そして左！,Inagaki's right and left!,0.4444444444444444
-Mr. Champion...,チャンピオンさんよ,Champion,0.3333333333333333
+This was done for your kind",0.2,0.63538
+I used pure gold to prepare this\Nhollow-point round especially for you.,純金製ホローポイント弾だ,It is a pure gold hollow point bullet,0.1111111111111111,0.44598144
+A right! Then a left! From Inagaki!,稲垣の右 そして左！,Inagaki's right and left!,0.4444444444444444,0.878503
+Mr. Champion...,チャンピオンさんよ,Champion,0.3333333333333333,0.7136645
 "Don't make it look so obvious.\NTry to get in a punch or two, will ya?","そう一方的にやられずに
 たまには手を出して下さいよ","So not to do it
-Please put out your hand occasionally",0.16
+Please put out your hand occasionally",0.16,0.34063503
 Round Three! I promise to knock the\Nchamp to the mat in Round Three!,"俺は３ラウンドで 必ずチャンプを！
 マットに沈めてやるー！","I am always champing in 3 rounds!
-Sign to the mat!",0.35294117647058826
+Sign to the mat!",0.35294117647058826,0.62475663
 "C'mon, Champ! I'm gonna let you\Ndo a little punching first!","さあ来なチャンプ
 前半は打たしてやるぜ！","Sayato champ
-I will strike the first half!",0.21052631578947367
+I will strike the first half!",0.21052631578947367,0.4697581
 The champion goes on the offensive!,"いよいよ問題の３ラウンド！
 チャンピオン攻勢！","Three rounds of the problem!
-Champion offensive!",0.4
-Can Inagaki make good his promise?!,稲垣 ガッチリとガードしております！,We guard with Inagaki Gatchi!,0.16666666666666666
-"Remember your daughter, right?",娘のためだろ！,For your daughter!,0.25
-I'm going to put it right in your ear.,こいつを貴様の耳にぶち込んでやる,I will do this to your ear,0.2857142857142857
+Champion offensive!",0.4,0.6992965
+Can Inagaki make good his promise?!,稲垣 ガッチリとガードしております！,We guard with Inagaki Gatchi!,0.16666666666666666,0.6219592
+"Remember your daughter, right?",娘のためだろ！,For your daughter!,0.25,0.553711
+I'm going to put it right in your ear.,こいつを貴様の耳にぶち込んでやる,I will do this to your ear,0.2857142857142857,0.61968744
 The pure gold slug won't exit your\Nskull but will remain inside.,"純金の弾は貫通せずに
 貴様の頭蓋骨にへばりつく","Pure gold bullets do not penetrate
-To a valid skull",0.09523809523809523
-"Inagaki, no glory awaits you.\NMerely a miserable death.",稲垣 貴様に栄光はない,I have no glory,0.16666666666666666
-I will not kill you while you\Nremain in that sacred ring.,神聖なリングの上では殺さない,Do not kill on the sacred ring,0.26666666666666666
-A fitting place for you to die is...,貴様にふさわしい死に場所は,A place for the death,0.2727272727272727
-C'mon! C'mon!,おぉっ！,Oh!,0.3333333333333333
-Ten!,んー むあっ！,Hmmm!,0.3333333333333333
+To a valid skull",0.09523809523809523,0.43274322
+"Inagaki, no glory awaits you.\NMerely a miserable death.",稲垣 貴様に栄光はない,I have no glory,0.16666666666666666,0.5347885
+I will not kill you while you\Nremain in that sacred ring.,神聖なリングの上では殺さない,Do not kill on the sacred ring,0.26666666666666666,0.7831504
+A fitting place for you to die is...,貴様にふさわしい死に場所は,A place for the death,0.2727272727272727,0.64561945
+C'mon! C'mon!,おぉっ！,Oh!,0.3333333333333333,0.2981324
+Ten!,んー むあっ！,Hmmm!,0.3333333333333333,0.3124949
 "He did it!\NThe champion, Mita, wins by KO!","やりました チャンピオン三田の
 KO勝ちです","I did the champion Mita
-KO wins",0.38461538461538464
-But what a miserable\Nending for Inagaki!,それにしても稲垣はみじめ！,"Even so, Inagaki Mitsu!",0.18181818181818182
-"That he would vow to deliver a KO,",自らのKO宣言とは逆に,On the contrary to their own KO declaration,0.13333333333333333
+KO wins",0.38461538461538464,0.7949416
+But what a miserable\Nending for Inagaki!,それにしても稲垣はみじめ！,"Even so, Inagaki Mitsu!",0.18181818181818185,0.62191945
+"That he would vow to deliver a KO,",自らのKO宣言とは逆に,On the contrary to their own KO declaration,0.13333333333333333,0.5535018
 "only to get a ten count himself\Noutside the ring, is awful indeed!","場外でテンカウントされるとは
 最悪です！","When it is tented out outside the place
-It's the worst!",0.13636363636363635
-You made a choice to pay\Nmy fee with your life.,おたくは自分の命を始末料にした,Otak made his own life,0.14285714285714285
-"As long as you live,",だったら俺がその命を貰う…,"If so, I will give you the life ...",0.15384615384615385
-Mr. Saeba...,うっ 冴羽さん…,Utakai ...,0.25
+It's the worst!",0.13636363636363635,0.18264706
+You made a choice to pay\Nmy fee with your life.,おたくは自分の命を始末料にした,Otak made his own life,0.14285714285714285,0.18040816
+"As long as you live,",だったら俺がその命を貰う…,"If so, I will give you the life ...",0.15384615384615385,0.24697097
+Mr. Saeba...,うっ 冴羽さん…,Utakai ...,0.25,0.27132717
 A doctor shouldn't be easing\Nher pain with liquor.,"酒で痛みをまぎらわそうなんて
 医者のする事っちゃないぜ","I'm going to be painful with sake
-I'm not a doctor",0.23529411764705882
-"As a physician, get some real\Ntreatment from other physicians",恋人からのお願いだ,A request from a lover,0.16666666666666666
+I'm not a doctor",0.2352941176470588,0.6183546
+"As a physician, get some real\Ntreatment from other physicians",恋人からのお願いだ,A request from a lover,0.16666666666666666,0.112325534
 and show your smiling face to the\Nchildren waiting in the hospital.,"病院で待ってる子供達に
 笑顔を見せてやってくれ","For children waiting at the hospital
-Show me a smile",0.2222222222222222
-Beautiful women are disappearing\None after another? What a waste!,美女ばかりが次々と蒸発してるんだって,A beautiful girl is evaporated one after another,0.26666666666666666
+Show me a smile",0.2222222222222222,0.74246615
+Beautiful women are disappearing\None after another? What a waste!,美女ばかりが次々と蒸発してるんだって,A beautiful girl is evaporated one after another,0.26666666666666666,0.3779376
 But Makimura's sister can't be very...,"ところが 俺の前をうろちょろする
 うさんくさーい奴","But let's go ahead of me
-U-saka guy",0.125
-"It's true I'm doing this job for\Nmy partner's sake and all,",なーんてこったぁ,I'm sorry,0.13333333333333333
+U-saka guy",0.125,0.14053942
+"It's true I'm doing this job for\Nmy partner's sake and all,",なーんてこったぁ,I'm sorry,0.13333333333333333,0.19390967
 Then there's this weirdo hanging\Naround everywhere I go.,"槇村の妹もいなくなったって言うけど
 あいつの妹じゃどうせ","I say there was no sister of Takaura
-Aya's sister",0.17647058823529413
+Aya's sister",0.17647058823529413,0.08587775
 "I thought it was a guy, but she's\Nactually got one mokkori bust!","なんとびっくり
 もっこりバストちゃんでやんの","How surprises
-Mokkori Bust Chan",0.11764705882352941
+Mokkori Bust Chan",0.1176470588235294,0.6272489
 Oh yeah! This is one sensation\Nyou can't beat!,"あぁぁ… あぁ この感触
 こーでなくっちゃ","Aa ... Oh this feel
-It is not good",0.1875
+It is not good",0.1875,0.18195312
 "Next City Hunter: ""Lady Vanish!\NBoutique of the Shadows""","次回 「美女蒸発！！
 ブティックは闇への誘い」","Next time ""Beauty evaporation!!
-Boutique invites to darkness """,0.15
+Boutique invites to darkness """,0.15,0.3864563

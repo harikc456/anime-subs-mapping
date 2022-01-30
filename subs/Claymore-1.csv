@@ -1,295 +1,295 @@
-en_text,jp_text,google_translated,score
-Dialogue,（妖魔）グオオ,Goo Oo,0.0
-This is horrible...,（男性）これで６人目だぞ,This is the sixth person,0.2857142857142857
-"So, what are we supposed to do?",（男性）だからって どうするんだ,What do you do?,0.3
+en_text,jp_text,google_translated,score,semantic_score
+Dialogue,（妖魔）グオオ,Goo Oo,0.0,0.19957352
+This is horrible...,（男性）これで６人目だぞ,This is the sixth person,0.2857142857142857,0.1773285
+"So, what are we supposed to do?",（男性）だからって どうするんだ,What do you do?,0.3,0.4258797
 How about we just grab everyone we find suspicious...,"（男性）怪しいやつを
 片っ端から捕まえたら…","Suspicious guy
-If you caught from one end ...",0.125
-Like who?,（男性）例えば誰だ？,"For example, who?",0.3333333333333333
-I-I don't...,（男性）あっ…,...,0.25
-I-I didn't say that...,（男性）そ… そんなことは…,... That's why,0.25
-"Yeah, you're suspicious indeed.",（男性）ああ 怪しいね,"Oh, it is suspicious",0.2
+If you caught from one end ...",0.125,0.43487605
+Like who?,（男性）例えば誰だ？,"For example, who?",0.3333333333333333,0.55643594
+I-I don't...,（男性）あっ…,...,0.25,0.30750862
+I-I didn't say that...,（男性）そ… そんなことは…,... That's why,0.25,0.27846164
+"Yeah, you're suspicious indeed.",（男性）ああ 怪しいね,"Oh, it is suspicious",0.2,0.7294222
 "Kenneth, who got eaten today,\Nlives right across the street from you.","今日 喰われたケネスだって
 おめえんちと目と鼻の先だ","It is Kennes who was caught today
-It is the end of the sight and nose",0.125
+It is the end of the sight and nose",0.125,0.39422536
 What did you say?!,"（ザキ）やめろ！
 仲間同士で争ってどうするんだ","Stop!
-What do you do with your friends",0.2727272727272727
-Stop it!,（男性）何だと！,What is it!,0.4
-Calm down!,（村長）落ち着け！,calm!,0.6666666666666666
-I received a reply this morning.,今朝 返事が来た,An replicacy this morning came,0.2
+What do you do with your friends",0.2727272727272727,0.15289125
+Stop it!,（男性）何だと！,What is it!,0.4,0.31402773
+Calm down!,（村長）落ち着け！,calm!,0.6666666666666666,0.8360135
+I received a reply this morning.,今朝 返事が来た,An replicacy this morning came,0.2,0.35281304
 It appears they're willing to come to this village.,"どうやら
 この村に来てくれるそうだ","Apparently
-It seems to come to this village",0.4166666666666667
-What's coming?,えっ 何がです？,What is it?,0.3333333333333333
-A Claymore.,クレイモアだ,Claymore,0.3333333333333333
-A Claymore...,（ザキ）クレイモア…,Claymore ...,0.6666666666666666
+It seems to come to this village",0.4166666666666667,0.7108299
+What's coming?,えっ 何がです？,What is it?,0.3333333333333333,0.25839064
+A Claymore.,クレイモアだ,Claymore,0.3333333333333333,0.8428797
+A Claymore...,（ザキ）クレイモア…,Claymore ...,0.6666666666666666,0.85414755
 "A Claymore? Are you serious, Chief?","（男性）クレイモアって
 本気ですか 村長","Claymore
-Seriously? Village",0.2
+Seriously? Village",0.2,0.7425799
 "At this rate, the village will be completely annihilated if we don't take action.","このまま放っておけば
 村は全滅するかもしれん","If you leave this
-Village may be annihilated",0.25
-But they're...,（村長）でも あいつらは…,but also those guys ...,0.2857142857142857
+Village may be annihilated",0.25,0.80823535
+But they're...,（村長）でも あいつらは…,but also those guys ...,0.2857142857142857,0.5658256
 But they're the only ones that can tell Yoma apart from us once Yoma have disguised themselves as humans.,"しかし 人に化けた妖魔を
 判別できるのも あいつらだけだ","But the magicizer
-He can judge as much as they",0.20833333333333334
-Brother.,兄さん,Elder brother,0.3333333333333333
-How did the meeting go?,会議 どうだった？,How was the meeting?,0.5714285714285714
+He can judge as much as they",0.20833333333333331,0.21618327
+Brother.,兄さん,Elder brother,0.3333333333333333,0.54229087
+How did the meeting go?,会議 どうだった？,How was the meeting?,0.5714285714285714,0.86683196
 "Ah, it seems the chief has called for a Claymore.","ああ 村長が
 クレイモアを呼んだらしい","Oh, the village is
-It seems to call Claymore",0.29411764705882354
-Claymore?,クレイモア？,Claymore?,1.0
+It seems to call Claymore",0.29411764705882354,0.7043469
+Claymore?,クレイモア？,Claymore?,1.0,0.99999994
 ...and are the only ones that can fight them in this world.,"この世で唯一
 妖魔と戦うことができる存在だ","The only thing in this world
-It is an existence that can fight with the magic",0.38095238095238093
-Amazing people like that exist?,半人半妖？,Half people?,0.2857142857142857
-"Half-human, half-Yoma...",（ラキ）んっ…,...,0.25
+It is an existence that can fight with the magic",0.3809523809523809,0.32899836
+Amazing people like that exist?,半人半妖？,Half people?,0.2857142857142857,0.2562415
+"Half-human, half-Yoma...",（ラキ）んっ…,...,0.25,0.20336416
 Over here!,"（男性）こっちだぜ
 （女性）来たよ","I'm here
- came",0.16666666666666666
-The Claymore's here!,（男性）クレイモアが来たってさ！,Claymore has come!,0.2857142857142857
-Huh? A girl?,えっ 女の子？,Eh girl?,0.4
-"What, you didn't know?",（男性）何だ お前 知らないのか,What do you do not know?,0.4444444444444444
-"Ah, her eyes are silver.",あっ 目が銀色だ,The appearance is silver,0.1
-She's scary.,（女性）怖い,scary,0.25
+ came",0.16666666666666666,0.38022158
+The Claymore's here!,（男性）クレイモアが来たってさ！,Claymore has come!,0.2857142857142857,0.83115715
+Huh? A girl?,えっ 女の子？,Eh girl?,0.4,0.68599945
+"What, you didn't know?",（男性）何だ お前 知らないのか,What do you do not know?,0.4444444444444444,0.6247369
+"Ah, her eyes are silver.",あっ 目が銀色だ,The appearance is silver,0.1,0.6386653
+She's scary.,（女性）怖い,scary,0.25,0.52901924
 "She won't target us, as well, I hope.","（男性）
-俺らまで的にしねえだろうな",I will not do it up to us,0.11764705882352941
+俺らまで的にしねえだろうな",I will not do it up to us,0.1176470588235294,0.27486995
 Why did the chief have to ask for one of them?,"化け物を倒せるのは
 化け物だけってことさ","It is possible to defeat the monster
-It is only a monster",0.10526315789473684
+It is only a monster",0.10526315789473684,0.16860633
 There's no choice.,"（男性）バ… バカ野郎
 うかつなこと言いやがって","Ba ... stupid guy
-Let's say goodbye",0.08333333333333333
-Only monsters can kill monsters.,（男性）しかたねえだろ,only,0.2
-Y-You idiot!,（男性たち）ううっ,Uu,0.0
+Let's say goodbye",0.08333333333333333,0.2157539
+Only monsters can kill monsters.,（男性）しかたねえだろ,only,0.2,0.21613133
+Y-You idiot!,（男性たち）ううっ,Uu,0.0,0.13253695
 "What are you going to do if she gets pissed and kills us, as well?","機嫌損ねて 俺らまでやられたら
 どうするんだよ","If you get up to us
-What to do",0.3157894736842105
+What to do",0.3157894736842105,0.4013221
 Please have a look.,"こ… これが お約束の金です
 お確かめを","This ... This is a promised gold
-Make sure",0.08333333333333333
-Afterwards?,後で… ですか？,... is ...?,0.25
-"If I fail and die,",（クレア）しくじって 私が死ねば,I'm going to die,0.2222222222222222
-then you won't have to pay.,払う必要はないということだ,It is not necessary to pay,0.16666666666666666
-O-Okay.,ああ は… はい,Oh ... yes,0.0
+Make sure",0.08333333333333333,0.05183669
+Afterwards?,後で… ですか？,... is ...?,0.25,0.19272542
+"If I fail and die,",（クレア）しくじって 私が死ねば,I'm going to die,0.2222222222222222,0.38609794
+then you won't have to pay.,払う必要はないということだ,It is not necessary to pay,0.16666666666666666,0.7143473
+O-Okay.,ああ は… はい,Oh ... yes,0.0,0.2847245
 Will you be able to pick out the Yoma right away?,"すぐに妖魔の正体を
 見分けられるものでしょうか？","Soon the identity of the magic
-Is it something to be distinguished?",0.2
+Is it something to be distinguished?",0.2,0.101379715
 "Either my corpse or the Yoma's will show up in the town some day. Of that, there is no doubt.","この町のどこかに
 転がることだけは間違いない","Somewhere in this town
-There is no doubt only to roll",0.2222222222222222
-That's a Claymore...,あれじゃ…,That's why ...,0.5
-"I thought they'd be more human,",もっと人間らしいと思っていたが,I thought it was more human,0.4
-but that's just like a Yoma!,まるで妖魔だ！,It's a magic!,0.3
-Come with me!,（ラキ）うわっ！,Wow!,0.2
+There is no doubt only to roll",0.2222222222222222,0.33966428
+That's a Claymore...,あれじゃ…,That's why ...,0.5,0.15606691
+"I thought they'd be more human,",もっと人間らしいと思っていたが,I thought it was more human,0.4,0.7977858
+but that's just like a Yoma!,まるで妖魔だ！,It's a magic!,0.3,0.27780965
+Come with me!,（ラキ）うわっ！,Wow!,0.2,0.17068915
 What?,"待ってよ
 あんた クレイモアなんでしょ？","wait
-What is Klaymore?",0.4
+What is Klaymore?",0.4,0.08097812
 I just followed you a bit.,"お前たちが勝手に
 そう呼んでいるだけだ","You are free
-I'm just calling",0.2727272727272727
+I'm just calling",0.2727272727272727,0.283358
 Our organization possesses no name.,"（クレア）
-私たちの組織に名前はない",No name for our organization,0.5714285714285714
-"But, I'm so surprised.",でも 驚いたなあ,But I was surprised,0.375
+私たちの組織に名前はない",No name for our organization,0.5714285714285714,0.88127023
+"But, I'm so surprised.",でも 驚いたなあ,But I was surprised,0.375,0.7304597
 You're just like a normal big sister.,"まるっきり
 普通のお姉ちゃんなんだもん","Spare
-Normal sister",0.2
+Normal sister",0.2,0.58008254
 I thought you'd be scarier and stuff.,"俺 もっと
 すっげえ怖そうなやつかと思った","I
-I thought it would be a guy who seems to be scared",0.17647058823529413
-Are you not scared of me?,お前は 私が怖くないのか？,Aren't you scared?,0.5
-H-Hey! Wait up!,ちょっと待ってよ～,Wait a minute,0.16666666666666666
-How far do you plan on going?,（ラキ）どこまで行くんだよ,How far are you going,0.4444444444444444
-That's already the exit.,そこ もう出口だよ,It's already exit,0.42857142857142855
-The village only extends this far?,村は ここまでか,Village is here,0.1111111111111111
+I thought it would be a guy who seems to be scared",0.17647058823529413,0.41127285
+Are you not scared of me?,お前は 私が怖くないのか？,Aren't you scared?,0.5,0.796769
+H-Hey! Wait up!,ちょっと待ってよ～,Wait a minute,0.16666666666666666,0.31027716
+How far do you plan on going?,（ラキ）どこまで行くんだよ,How far are you going,0.4444444444444444,0.6962389
+That's already the exit.,そこ もう出口だよ,It's already exit,0.42857142857142855,0.81490344
+The village only extends this far?,村は ここまでか,Village is here,0.1111111111111111,0.63150674
 "After that, there's just a mine outside.","うん あとは
 外に鉱山があるだけだよ","Yeah
-I just have mines outside",0.14285714285714285
-What are you doing?,（ラキ）何してんの？,What are you doing?,1.0
+I just have mines outside",0.14285714285714285,0.7036647
+What are you doing?,（ラキ）何してんの？,What are you doing?,1.0,0.9999999
 I've been walking for three straight days.,"（クレア）寝る
 この３日間 歩きずくめだ","sleep
-I'm getting stuck for three days",0.3076923076923077
-Because you're a Claymore.,（ラキ）クレイモアだから,because it is Claymore,0.25
-"Ah, yeah.",ん？,Yeah?,0.2
-The first people killed in this village...,この村で最初に殺されたのは…,It was first killed in this village ...,0.6
-...were my parents.,俺の両親なんだ,My parents,0.4
+I'm getting stuck for three days",0.3076923076923077,0.39951086
+Because you're a Claymore.,（ラキ）クレイモアだから,because it is Claymore,0.25,0.7869138
+"Ah, yeah.",ん？,Yeah?,0.2,0.49587852
+The first people killed in this village...,この村で最初に殺されたのは…,It was first killed in this village ...,0.6,0.8700543
+...were my parents.,俺の両親なんだ,My parents,0.4,0.5256304
 only me and my brother had survived.,"気が付いたら
 俺と兄さんだけが生き残っていた","If you notice
-Only my brother survived",0.36363636363636365
+Only my brother survived",0.3636363636363637,0.7559717
 yet I couldn't do anything.,"俺 そばにいたのに
 何にもできなくって","I was in my side
-I can not do anything",0.23076923076923078
+I can not do anything",0.2307692307692308,0.48049033
 I only came because there was a request.,"勘違いするな
 私は依頼があるから来ただけだ","Do not misunderstand
-I just came because I have a request",0.35714285714285715
-It's not my intention to avenge you.,あっ 夕飯の支度しないと,If you do not prepare dinner,0.15384615384615385
-I know...,分かってる,I know,0.6666666666666666
-But that's fine.,それでもいいんだ,That's fine,0.6
-I need to go make supper.,お前の敵(かたき)討ちなどする気はない,I do not feel like going to be an enemy,0.13333333333333333
+I just came because I have a request",0.35714285714285715,0.6941067
+It's not my intention to avenge you.,あっ 夕飯の支度しないと,If you do not prepare dinner,0.15384615384615385,0.17045808
+I know...,分かってる,I know,0.6666666666666666,0.81902033
+But that's fine.,それでもいいんだ,That's fine,0.6,0.68092126
+I need to go make supper.,お前の敵(かたき)討ちなどする気はない,I do not feel like going to be an enemy,0.13333333333333333,0.10270465
 "I'm good at cooking though, so it really doesn't bother me.","まあ 料理は得意だから
 気にならないけど","Well because of cooking
-I do not mind",0.09523809523809523
-"Oh, my name is Raki.",どうせ すぐ忘れられる名だ,It is a name that can be forgotten immediately,0.14285714285714285
-"There's no need to tell you,",（クレア）教える必要はない,No need to teach,0.3333333333333333
+I do not mind",0.09523809523809523,0.699503
+"Oh, my name is Raki.",どうせ すぐ忘れられる名だ,It is a name that can be forgotten immediately,0.14285714285714285,0.3247482
+"There's no need to tell you,",（クレア）教える必要はない,No need to teach,0.3333333333333333,0.3400046
 "Sorry, Uncle!","（ラキ）ごめん おじさん
 すぐ食事の支度するから","sorry uncle
-Because we will prepare soon",0.2222222222222222
-B-Brother!,大変だ！,It's hard!,0.2
-"Yeah, it was delicious.",（ザキ）帰ったか？　ラキ,Was it home?Raki,0.2222222222222222
+Because we will prepare soon",0.2222222222222222,0.64035857
+B-Brother!,大変だ！,It's hard!,0.2,0.28319296
+"Yeah, it was delicious.",（ザキ）帰ったか？　ラキ,Was it home?Raki,0.2222222222222222,0.31319925
 "Our uncle's guts, that is.","（ザキ）ああ うまかったぞ
 おじさんの内蔵は","Oh yeah
-Uncle's built-in",0.18181818181818182
-Bro... ther?,に… 兄さん,... brother,0.2
+Uncle's built-in",0.18181818181818185,0.5827805
+Bro... ther?,に… 兄さん,... brother,0.2,0.47444984
 I took your brother and his brain back then.,"あの時 お前の兄の体と脳を
 頂いたんだ","At that time your brother's body and brain
-Given",0.25
+Given",0.25,0.677319
 This is the reason why you foolish humans can't distinguish us.,"貴様ら人間に 俺たちが
 見つけられない理由が これだ","We are human beings
-She is this reason why I can not find it",0.17391304347826086
+She is this reason why I can not find it",0.17391304347826084,0.3409507
 "I planned on staying in this village a bit longer,","もうしばらく この村に
 居座るつもりだったが","In this village for a while
-I was going to sit",0.29411764705882354
+I was going to sit",0.29411764705882354,0.7285572
 I've decided to eat you before leaving.,"最後に お前を
 喰らっていくことにするよ","Finally you
-I will try to beat",0.23076923076923078
-He's crying now.,（妖魔）泣いているな,I'm crying,0.14285714285714285
+I will try to beat",0.2307692307692308,0.22253487
+He's crying now.,（妖魔）泣いているな,I'm crying,0.14285714285714285,0.6264884
 Looks like this body's memories are crying for you.,"どうやら この体の記憶が
 涙を流させているらしいぞ","Apparently the memory of this body
-It seems that tears are flowing",0.15
-What a fool!,（妖魔）ふん！,Fu!,0.2
+It seems that tears are flowing",0.15,0.77154326
+What a fool!,（妖魔）ふん！,Fu!,0.2,0.46586972
 We've been eating humans since long ago.,"昔から 俺たちは
 人間を喰らってきた","We long after all
-I've been hit by humans",0.35714285714285715
-Why you...,き… 貴様,... Your,0.25
+I've been hit by humans",0.35714285714285715,0.576579
+Why you...,き… 貴様,... Your,0.25,0.4503677
 "There was the scent of Yoma about this boy,","（クレア）少年に妖魔のにおいが
 まとわりついていた","The odor of the magic boy
-I was talking",0.2857142857142857
+I was talking",0.2857142857142857,0.56388086
 "so I followed him, knowing you'd be close by.","近くにいるとにらんで
 つけていたんだ","Nearby
-I put it on",0.0625
-Wait!,（妖魔）こ… この！　おう！,... this! King!,0.2
-Spare me!,（妖魔）ま… 待て 助けてくれ,... Help me,0.2
+I put it on",0.0625,0.19478093
+Wait!,（妖魔）こ… この！　おう！,... this! King!,0.2,0.32763308
+Spare me!,（妖魔）ま… 待て 助けてくれ,... Help me,0.2,0.30128866
 And she immediately left the village.,"（男性）しかも その足で
 村を出ていったとか","and with their feet
-He left the village",0.36363636363636365
+He left the village",0.3636363636363637,0.7214054
 It seems she has her next job set already.,"（村長）
-おお もう次の依頼があるそうだ",Oh he seems to have the next request,0.125
-"Now, the remaining problem is...",さて 残る問題だが…,It's a problem that remains ...,0.16666666666666666
-"Don't hate us, Raki.",（男性）悪く思わんでくれ ラキ,I'm sorry I'm sorry,0.0
-This place is...,えっ ここは…,Eh here is ...,0.3333333333333333
-"Umm, where am I?",（主人）おお 気が付いたか,I care about,0.125
-The inn in the town of Egon.,（主人）エゴンの町の宿屋だ,It is a hotel in the town of Egon,0.45454545454545453
+おお もう次の依頼があるそうだ",Oh he seems to have the next request,0.125,0.17531545
+"Now, the remaining problem is...",さて 残る問題だが…,It's a problem that remains ...,0.16666666666666666,0.70393515
+"Don't hate us, Raki.",（男性）悪く思わんでくれ ラキ,I'm sorry I'm sorry,0.0,0.18106128
+This place is...,えっ ここは…,Eh here is ...,0.3333333333333333,0.5547726
+"Umm, where am I?",（主人）おお 気が付いたか,I care about,0.125,0.18369816
+The inn in the town of Egon.,（主人）エゴンの町の宿屋だ,It is a hotel in the town of Egon,0.4545454545454545,0.8002324
 Why did you run into the wild?,"どうして あんな荒野に
 迷い込んだんだ？","Why is such a wilderness
-Did you get lost?",0.2857142857142857
+Did you get lost?",0.2857142857142857,0.64086807
 ...because he might turn into a Yoma and assault villagers next...,"（男性）今度は こいつが
 妖魔になって村人を襲うぞ","This time this time
-I'm a magic and attack the villagers",0.15789473684210525
-"Well, it's fine.",（主人）まあ いいさ,Well goodness,0.14285714285714285
+I'm a magic and attack the villagers",0.15789473684210525,0.42021134
+"Well, it's fine.",（主人）まあ いいさ,Well goodness,0.14285714285714285,0.36288527
 Eat up and cheer up.,"腹減ってんだろ 食べろ食べろ
 食って元気出せ","I'm hungry.
-Eating and gone",0.2
-"Ah, but I don't have any money...",（ラキ）ああ でも俺 金が…,"Oh, I am a money ...",0.3076923076923077
-Paid for in advance?,（ラキ）前金？,Precursor?,0.16666666666666666
-By a silver-eyed witch.,銀眼の魔女にな,It is a witch of silver sight,0.2
+Eating and gone",0.2,0.33778012
+"Ah, but I don't have any money...",（ラキ）ああ でも俺 金が…,"Oh, I am a money ...",0.3076923076923077,0.49796432
+Paid for in advance?,（ラキ）前金？,Precursor?,0.16666666666666666,0.23359764
+By a silver-eyed witch.,銀眼の魔女にな,It is a witch of silver sight,0.2,0.65570605
 A Claymore brought you to this place.,"（主人）クレイモアが
 お前をここへ連れてきたんだ","Claymore
-I brought her to here",0.2727272727272727
-Where is she now?!,その人 今 どこに？,Where is that person now?,0.5
+I brought her to here",0.2727272727272727,0.7689931
+Where is she now?!,その人 今 どこに？,Where is that person now?,0.5,0.63558865
 She left right away because she had a job to do.,"（主人）仕事があるみたいで
 すぐに出ていったよ","I like to have a job
-I went out soon",0.17647058823529413
+I went out soon",0.17647058823529413,0.24438256
 It seems a Claymore was looking for you.,"（男性）
-何か クレイモアが捜してたぞ",Something he was looking for Claymore,0.36363636363636365
-"Ahh, the forest behind the town.",（男性）ああ 町の裏手の森だよ,"Oh, it is a forest back hand of town",0.21428571428571427
-Th-Thank you!,いた！,board!,0.25
-Are you alone?,（クレイモア）１人か？,1 person?,0.16666666666666666
-Y-Yes...,は… はい,... yes,0.3333333333333333
+何か クレイモアが捜してたぞ",Something he was looking for Claymore,0.3636363636363637,0.75646955
+"Ahh, the forest behind the town.",（男性）ああ 町の裏手の森だよ,"Oh, it is a forest back hand of town",0.21428571428571427,0.73518974
+Th-Thank you!,いた！,board!,0.25,0.281234
+Are you alone?,（クレイモア）１人か？,1 person?,0.16666666666666666,0.26959854
+Y-Yes...,は… はい,... yes,0.3333333333333333,0.52175134
 It wasn't her.,"（ラキ）
-でも 見ず知らずの俺に宿代まで",But I can not see it,0.1
+でも 見ず知らずの俺に宿代まで",But I can not see it,0.1,0.18479481
 I... I heard you rescued me.,"（ラキ）あ… あの
 俺を助けてくれたって","... that
-I helped me",0.3333333333333333
-"Ah, don't worry.",（クレイモア）ああ 気にするな,Do not worry,0.2857142857142857
-No!,うっ 違う！,Uh,0.0
-You're not a Claymore!,お前 クレイモアじゃないな,I'm not a craymore,0.2222222222222222
-Is that so?,まったく 勘のいいガキだ,It is a good ガ ガ,0.125
+I helped me",0.3333333333333333,0.45982763
+"Ah, don't worry.",（クレイモア）ああ 気にするな,Do not worry,0.2857142857142857,0.56358546
+No!,うっ 違う！,Uh,0.0,0.31038654
+You're not a Claymore!,お前 クレイモアじゃないな,I'm not a craymore,0.2222222222222222,0.64296
+Is that so?,まったく 勘のいいガキだ,It is a good ガ ガ,0.125,0.121829264
 I'll remember that from now on!,"（妖魔）
-これからは覚えておくよ",I will remember from now on,0.5555555555555556
-Come out now!,さあ 出てこい！,Get out!,0.4
+これからは覚えておくよ",I will remember from now on,0.5555555555555556,0.7636327
+Come out now!,さあ 出てこい！,Get out!,0.4,0.57736135
 I know you've been following.,"ずっと追ってきたのは
 分かってるんだ","It has been a long time
-I know",0.25
+I know",0.25,0.37152705
 "To kill me, right?","依頼があったんだろ？
 この俺を殺せとよ！","Was there a request?
-Kill this me!",0.25
-I know your speed.,お前の速さは分かってんだ,You know your speed,0.5
+Kill this me!",0.25,0.46310166
+I know your speed.,お前の速さは分かってんだ,You know your speed,0.5,0.8330312
 Take another step and I'll tear this kid's head off right away!,"このガキの首をかき切る！
-（ラキ）えっ",Start the neck of this oyster!,0.1
+（ラキ）えっ",Start the neck of this oyster!,0.1,0.27031603
 "First, I'll have you throw that sword away.","（妖魔）
-まずは その剣を捨ててもらおうか","First of all, he will throw away the sword",0.3125
+まずは その剣を捨ててもらおうか","First of all, he will throw away the sword",0.3125,0.8007872
 Do you think hostages work against us?,"私たちに 人質が
 通じると思っているのか？","Winnore to us
-Do you think it will pass?",0.38461538461538464
-...until yesterday that is.,思わなかった 昨日まではな,Until I did not think yesterday,0.2
+Do you think it will pass?",0.38461538461538464,0.1525765
+...until yesterday that is.,思わなかった 昨日まではな,Until I did not think yesterday,0.2,0.62800115
 I changed my thinking when I saw you tenderly carry this kid into town.,"町に現れた時に
 考えが変わったのさ","When it appeared in the town
-The idea has changed",0.15
-This kid could serve as my hostage.,このガキなら人質になりえると,If this girl can be a hostage,0.15384615384615385
+The idea has changed",0.15,0.36787382
+This kid could serve as my hostage.,このガキなら人質になりえると,If this girl can be a hostage,0.15384615384615385,0.7105391
 The memories of when you were human don't disappear.,"人間だった頃の思い出は
 消えるもんじゃない","Memories when they were human
-I'm not disappearing",0.25
-"For example, you had a younger brother,",そうだな 例えば お前には弟がいて,"Yes, for example, I have a younger brother",0.5454545454545454
-and this kid resembles him... stuff like that?,こいつに似てる… とかな,Similar to this ...,0.16666666666666666
-"Not too far from the truth, right?",これでいいのか？,Is this right?,0.18181818181818182
+I'm not disappearing",0.25,0.8761503
+"For example, you had a younger brother,",そうだな 例えば お前には弟がいて,"Yes, for example, I have a younger brother",0.5454545454545454,0.78040713
+and this kid resembles him... stuff like that?,こいつに似てる… とかな,Similar to this ...,0.16666666666666666,0.33670965
+"Not too far from the truth, right?",これでいいのか？,Is this right?,0.18181818181818185,0.19031253
 "If you can kill us both, then try it!","このガキもろとも
 殺せるもんなら殺してみろ","Both this girl
-If you can kill it",0.46153846153846156
+If you can kill it",0.4615384615384616,0.533274
 You really threw it away!,"（妖魔）アハハハ…
 ほんとに捨てやがった","Ahahaha ...
-It was really thrown away",0.3
-Even Claymores will die if I punch through their guts!,バカなやつだぜ！,I'm stupid!,0.15384615384615385
-Are you okay?,ねえ 大丈夫？　大丈夫なの？,Hey?Are you okay?,0.8
-I'm sorry!,あっ うっ…,I'm sorry ...,0.6
+It was really thrown away",0.3,0.6690497
+Even Claymores will die if I punch through their guts!,バカなやつだぜ！,I'm stupid!,0.15384615384615385,0.20977677
+Are you okay?,ねえ 大丈夫？　大丈夫なの？,Hey?Are you okay?,0.8,0.82191193
+I'm sorry!,あっ うっ…,I'm sorry ...,0.6,0.7245072
 I didn't throw my sword away for you.,"お前のために
 剣を捨てたのではない","For you
-I did not throw away the sword",0.5833333333333334
+I did not throw away the sword",0.5833333333333334,0.90556604
 "If I had tried to slay both of you there,","あの時 お前もろとも
 斬ろうとしても","At that time you are also
-Even if you try to cut it",0.15
+Even if you try to cut it",0.15,0.107934386
 You defeated the Yoma that ate my parents.,"やつは お前を殺して
 逃げおおせただろう","The guy kills you
-It will run away",0.13333333333333333
+It will run away",0.13333333333333333,0.260703
 "I was so scared when my parents were killed,","父さんや母さんが殺された時も
 ずっと怖くて","Even when my father and mother were killed
-I am very scared",0.375
+I am very scared",0.375,0.77104264
 Thank you!,"ありがとう
 感謝してるんだ 本当に","Thank you
-Thank you very much",0.4
+Thank you very much",0.4,0.49706239
 I really mean it!,"確実に殺せるチャンスを
 作っただけだ","An opportunity to kill
-I just made it",0.18181818181818182
+I just made it",0.18181818181818185,0.20363015
 I'll never forget about you.,"俺は 絶対に
 あんたのことは忘れない","I absolutely
-I will not forget what you",0.2727272727272727
-I just wanted to say that.,それだけ言いたかった,I just wanted to say,0.7142857142857143
-Were you thrown out by the village?,（クレア）捨てられたのか？　村に,Did you throw away?In the village,0.3333333333333333
+I will not forget what you",0.2727272727272727,0.67391443
+I just wanted to say that.,それだけ言いたかった,I just wanted to say,0.7142857142857143,0.86139035
+Were you thrown out by the village?,（クレア）捨てられたのか？　村に,Did you throw away?In the village,0.3333333333333333,0.886091
 I'm not a Yoma...,"（ラキ）
-違う 俺は妖魔なんかじゃない",Different I like a magic,0.2222222222222222
-You said you were good at cooking.,（クレア）料理はうまいと言ったな,food said good,0.25
-Very well.,う… うん,No,0.0
+違う 俺は妖魔なんかじゃない",Different I like a magic,0.2222222222222222,0.14817469
+You said you were good at cooking.,（クレア）料理はうまいと言ったな,food said good,0.25,0.5808579
+Very well.,う… うん,No,0.0,0.14981031
 You may come with me as my cook.,"（クレア）よし 料理番としてなら
 ついてきてもいい","as a good cook
-You can follow",0.23076923076923078
+You can follow",0.2307692307692308,0.591153
 Do you want to come with me until you find a town you want to stay in?,"お前が落ち着きたいと思う町まで
 一緒に来るか？","To the town where you want to calm down
-Do you come together?",0.3684210526315789
-Okay!,（ラキ）うん！,Yeah!,0.3333333333333333
-Your name...,そうだ 名前…,Yes ...,0.25
-Tell me your name!,ねえ お姉ちゃん 名前 教えてよ,Hey sister name tell me,0.42857142857142855
-Hey!,ねえ！,Hey you!,0.6666666666666666
-It's Clare.,（クレア）クレアだ,Claire,0.0
-Clare...,クレア…,Claire ...,0.3333333333333333
-The last prayer...,（クレア）最後の願い 最後の祈り,Last wish last prayer,0.4
-For the proof that we lived together...,共に生きた証しのため,For the demonstration that lived together,0.5555555555555556
+Do you come together?",0.3684210526315789,0.62496316
+Okay!,（ラキ）うん！,Yeah!,0.3333333333333333,0.5668076
+Your name...,そうだ 名前…,Yes ...,0.25,0.36719248
+Tell me your name!,ねえ お姉ちゃん 名前 教えてよ,Hey sister name tell me,0.42857142857142855,0.5334076
+Hey!,ねえ！,Hey you!,0.6666666666666666,0.86318094
+It's Clare.,（クレア）クレアだ,Claire,0.0,0.5485336
+Clare...,クレア…,Claire ...,0.3333333333333333,0.6710523
+The last prayer...,（クレア）最後の願い 最後の祈り,Last wish last prayer,0.4,0.7656815
+For the proof that we lived together...,共に生きた証しのため,For the demonstration that lived together,0.5555555555555556,0.6667892

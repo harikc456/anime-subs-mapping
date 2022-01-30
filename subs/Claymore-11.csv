@@ -1,293 +1,293 @@
-en_text,jp_text,google_translated,score
-Impossible...,クソッ… タレ…,Fucking ...,0.3333333333333333
-...to fall to you people...,こんなやつらに…,To such a guy ...,0.25
-You guys did it.,（ヘレン）やった やりやがった,I did it,0.3333333333333333
-Hm?,（ガラテア）ん？,?,0.5
-Of course not.,不満そうだな,It looks unpleasant,0.0
-I'm simply surprised...,（ガラテア）ん…,...,0.2
-...for that Awakened Being was special.,あの覚醒者は特別だからな,That awakening is special,0.2
+en_text,jp_text,google_translated,score,semantic_score
+Impossible...,クソッ… タレ…,Fucking ...,0.3333333333333333,0.34264317
+...to fall to you people...,こんなやつらに…,To such a guy ...,0.25,0.36427134
+You guys did it.,（ヘレン）やった やりやがった,I did it,0.3333333333333333,0.5747696
+Hm?,（ガラテア）ん？,?,0.5,0.6486522
+Of course not.,不満そうだな,It looks unpleasant,0.0,0.10681391
+I'm simply surprised...,（ガラテア）ん…,...,0.2,0.2530034
+...for that Awakened Being was special.,あの覚醒者は特別だからな,That awakening is special,0.2,0.7773808
 Are all four of them alive?,"（エルミタ）
-全員 生きているのか？",Are everyone living?,0.2222222222222222
+全員 生きているのか？",Are everyone living?,0.2222222222222222,0.36926532
 "If the last one is still alive,\Nshe is in an extremely weakened state.","（エルミタ）
-１人で済んだのなら奇跡的だ","If it is one person, it is miraculous",0.2222222222222222
-Watch them for a bit longer.,もう少し 様子を見届けろ,Watch a little more,0.2222222222222222
-How is she doing?,（ヘレン）どうだ？,How is it?,0.5
-It's all up to her own vitality now.,あとは本人の気力次第だ,The rest is up to the spirit of the person,0.125
-You got hit around the most.,一番 多く 食らったはずだろ,The most important thing should be,0.18181818181818182
-No way...,まさか,Masadish,0.0
-You did that in those circumstances?!,あの状況で そんなことが？,Is that in that situation?,0.3
-I need to ask you girls something.,１つ 聞いておきたいことがある,I have something I want to listen to one,0.25
-What?,（ヘレン）何だよ？,What is it?,0.5
+１人で済んだのなら奇跡的だ","If it is one person, it is miraculous",0.2222222222222222,0.3367332
+Watch them for a bit longer.,もう少し 様子を見届けろ,Watch a little more,0.2222222222222222,0.5694458
+How is she doing?,（ヘレン）どうだ？,How is it?,0.5,0.50379425
+It's all up to her own vitality now.,あとは本人の気力次第だ,The rest is up to the spirit of the person,0.125,0.18704426
+You got hit around the most.,一番 多く 食らったはずだろ,The most important thing should be,0.18181818181818185,0.12286696
+No way...,まさか,Masadish,0.0,0.16951443
+You did that in those circumstances?!,あの状況で そんなことが？,Is that in that situation?,0.3,0.53999496
+I need to ask you girls something.,１つ 聞いておきたいことがある,I have something I want to listen to one,0.25,0.21286009
+What?,（ヘレン）何だよ？,What is it?,0.5,0.43106037
 It's a very important issue that concerns all of us.,"（ミリア）
-我々にとって重要なことだ",It is important for us,0.21428571428571427
-I ask that you respond honestly.,できれば正直に答えてもらいたい,I want you to answer honestly if possible,0.25
+我々にとって重要なことだ",It is important for us,0.21428571428571427,0.5968578
+I ask that you respond honestly.,できれば正直に答えてもらいたい,I want you to answer honestly if possible,0.25,0.5987742
 I have.,"（クレア）私はある
 （ヘレン）ハッ","I have
- Ha",0.5
+ Ha",0.5,0.7453631
 I released my Yoma powers recklessly with my injured body...,"負傷した体で
 無理な妖力解放をしたせいで","In the injured body
-Because I'm unreasonable",0.2
+Because I'm unreasonable",0.2,0.35473126
 The process of awakening is painful...,"覚醒は苦痛だけでなく
 恍惚(こうこつ)状態でもあったはずだが","Awakening is not only painful
-It should have been in the kept state",0.25
+It should have been in the kept state",0.25,0.77337
 "Yes, I was surprised I was able to return to normal.","ああ 戻ることができたのが
 不思議だ","Oh I was able to return
-It's strange",0.35714285714285715
-"I have, too.",（ヘレン）私もあるよ,I also have,0.3333333333333333
-I got carried away and went over my limits.,調子に乗って限界を超えたんだ,I got over the limit and exceeded the limit,0.3076923076923077
-I couldn't resist the impulse.,衝動に抵抗できなかったんだ,I could not resist impulse,0.5
-I was able to regain myself somehow.,何とか自分を取り戻してな,I accidentally get back myself,0.18181818181818182
-Are you old friends with Deneve?,（ミリア）デネヴとは古いのか？,Dainev is old?,0.2222222222222222
-"Then, answer me this.",（ヘレン）ああ 同期だからな,"Oh, it is sync",0.1
-And Deneve?,ああ？,Ah?,0.25
+It's strange",0.35714285714285715,0.53180206
+"I have, too.",（ヘレン）私もあるよ,I also have,0.3333333333333333,0.6862201
+I got carried away and went over my limits.,調子に乗って限界を超えたんだ,I got over the limit and exceeded the limit,0.3076923076923077,0.6820521
+I couldn't resist the impulse.,衝動に抵抗できなかったんだ,I could not resist impulse,0.5,0.8732778
+I was able to regain myself somehow.,何とか自分を取り戻してな,I accidentally get back myself,0.18181818181818185,0.62279147
+Are you old friends with Deneve?,（ミリア）デネヴとは古いのか？,Dainev is old?,0.2222222222222222,0.38899153
+"Then, answer me this.",（ヘレン）ああ 同期だからな,"Oh, it is sync",0.1,0.15267403
+And Deneve?,ああ？,Ah?,0.25,0.23002617
 "Rather than clients and civilians,\Nshe has more trouble with her own kind.","一般人というより
 仲間と いろいろ…","Rather than general person
-Friends and he are various ...",0.13636363636363635
-And the other one here is the lowest ranked warrior...,そして もう１人は指令に従わず,And one other does not follow the directive,0.2857142857142857
+Friends and he are various ...",0.13636363636363635,0.2948644
+And the other one here is the lowest ranked warrior...,そして もう１人は指令に従わず,And one other does not follow the directive,0.2857142857142857,0.25164923
 "In other words, you're all problem children that have come close to awakening.","みんな覚醒しかけた
 問題児ばかりというわけだ","Everyone was awakening
-It is only a problem",0.09090909090909091
-"and coincidentally, due to a mistake in our information,",偶然の情報ミスで,By accidental information mistake,0.16666666666666666
-we had to fight a male Awakened Being.,何かと暴走するナンバー最下位か,A number of numbers to run away with something,0.125
-What does that mean?,あ？　どういう意味だよ,a?What does it mean,0.5714285714285714
+It is only a problem",0.09090909090909093,0.65498066
+"and coincidentally, due to a mistake in our information,",偶然の情報ミスで,By accidental information mistake,0.16666666666666666,0.5890906
+we had to fight a male Awakened Being.,何かと暴走するナンバー最下位か,A number of numbers to run away with something,0.125,0.049324848
+What does that mean?,あ？　どういう意味だよ,a?What does it mean,0.5714285714285714,0.3188681
 That's like the organization's trying to get us...,"何だよ それ
 それじゃ まるで組織が私たちを…","What is it
-Well then he is like an organization ...",0.17647058823529413
-This is all hypothetical.,あくまで仮定の話だ,It is a story of assumptions,0.1
-"Miria, what about you?",ミリア お前はどうなんだ？,How about Miria?,0.42857142857142855
+Well then he is like an organization ...",0.17647058823529413,0.45459783
+This is all hypothetical.,あくまで仮定の話だ,It is a story of assumptions,0.1,0.17953378
+"Miria, what about you?",ミリア お前はどうなんだ？,How about Miria?,0.42857142857142855,0.789516
 No one fits that label better than I do.,"私ほど その条件に
 当てはまる者はいない","About that condition
-There is no person who applies",0.11764705882352941
-"I, too, have come close to awakening.",私も覚醒しかけたことがある,I have also been awakening,0.2727272727272727
-You?!,お前が？,you?,0.6666666666666666
-It was during my third hunting job for Awakened Beings.,３度目の覚醒者狩りの時だ,It is time of the third awakening person hunting,0.17647058823529413
+There is no person who applies",0.1176470588235294,0.09619061
+"I, too, have come close to awakening.",私も覚醒しかけたことがある,I have also been awakening,0.2727272727272727,0.77087104
+You?!,お前が？,you?,0.6666666666666666,0.8240456
+It was during my third hunting job for Awakened Beings.,３度目の覚醒者狩りの時だ,It is time of the third awakening person hunting,0.17647058823529413,0.56811464
 "After the battle was over, I realized\Nthe Awakened One was one of my friends.","勝負が決したあとで
 それが かつての友人だと分かった","After the game is decided
-I knew that it was his former friend",0.17391304347826086
+I knew that it was his former friend",0.17391304347826084,0.28266606
 You didn't hear anything from the organization?,"組織から
 何も聞かされてなかったのか？","From the organization
-Did not ask anything?",0.5454545454545454
-Why...,あっ なぜ…,Why ...,1.0
+Did not ask anything?",0.5454545454545454,0.78135586
+Why...,あっ なぜ…,Why ...,1.0,0.99999994
 Why didn't you say my name?!,"なぜだ！　なぜ私の名を
 呼ばなかった！","Why!Why my name
-I did not call it!",0.38461538461538464
+I did not call it!",0.38461538461538464,0.7505534
 Why didn't you try to tell me it was you?,"なぜ… なぜ お前だと
 知らせなかった？","Why ... why you're
-Did not you let me know?",0.3125
-Hilda!!!,ヒルダ！,Hilda!,1.0
-Don't dwell on this too much.,（クレイモア）深く考えるな,Do not think deeply,0.09090909090909091
-She was a monster at this point.,しょせん 化け物だ,It is a horny thing,0.08333333333333333
+Did not you let me know?",0.3125,0.5485573
+Hilda!!!,ヒルダ！,Hilda!,1.0,0.9610206
+Don't dwell on this too much.,（クレイモア）深く考えるな,Do not think deeply,0.09090909090909093,0.4790386
+She was a monster at this point.,しょせん 化け物だ,It is a horny thing,0.08333333333333333,0.09071124
 Miria!,"（クレイモア）まずい
-妖気が暴走している ミリア！",Her Miria who is running away!,0.2857142857142857
-Hmm...,（クレイモアたち）うっ…,Uh ...,0.3333333333333333
+妖気が暴走している ミリア！",Her Miria who is running away!,0.2857142857142857,0.7249899
+Hmm...,（クレイモアたち）うっ…,Uh ...,0.3333333333333333,0.6034232
 """Phantom Miria"" is awakening, how interesting.","“幻影のミリア”が覚醒するなんて
 面白い","""Miria of the illusion"" awakens
-interesting",0.2857142857142857
+interesting",0.2857142857142857,0.7886424
 Because they say in group battles\Nher performance surpasses even the Number One's.,"（オフィーリア）集団戦なら
 ナンバー１(ワン)以上って","if group battle
-Number 1  or more",0.10526315789473684
-I would love to fight her.,ぜひとも戦ってみたい,I want to fight again,0.3333333333333333
-What?!,（クレイモア）何…？,What?,0.6666666666666666
-What are you doing?,（オフィーリア）何してんの？,What are you doing?,1.0
-Hurry up and awaken already.,さっさと覚醒しちゃいなさいよ,Please wake up quickly,0.1111111111111111
+Number 1  or more",0.10526315789473684,0.54526925
+I would love to fight her.,ぜひとも戦ってみたい,I want to fight again,0.3333333333333333,0.5356105
+What?!,（クレイモア）何…？,What?,0.6666666666666666,0.8485057
+What are you doing?,（オフィーリア）何してんの？,What are you doing?,1.0,1.0000004
+Hurry up and awaken already.,さっさと覚醒しちゃいなさいよ,Please wake up quickly,0.1111111111111111,0.6261558
 "I was aware that I had gone over my limits,","限界を超えていたのは
 分かっていたが","It was over the limit
-I knew it",0.21428571428571427
-but I suppressed my Yoki as much as I could.,必死に抑え込んだ,I was desperately suppressed,0.18181818181818182
-Her?,やつ？,Is it?,0.25
+I knew it",0.21428571428571427,0.80328137
+but I suppressed my Yoki as much as I could.,必死に抑え込んだ,I was desperately suppressed,0.18181818181818185,0.45191082
+Her?,やつ？,Is it?,0.25,0.27142265
 "Anyway, I swore to take revenge\Non the organization at that moment.","とにかく私は その時 組織への
 復讐(ふくしゅう)を決意した","Anyway, I at that time
-I decided to revenge",0.375
+I decided to revenge",0.375,0.6923341
 The organization that makes our bodies like this...,"あげく 使い捨てのように
 処分する組織が許せなかった","Like disposable disposable
-The organization to dispose did not forgive",0.2
-Revenge... but how?,けど 復讐って どうやって…,But how to revenge ...,0.6666666666666666
+The organization to dispose did not forgive",0.2,0.26757905
+Revenge... but how?,けど 復讐って どうやって…,But how to revenge ...,0.6666666666666666,0.9016033
 "On the surface, I pretend to be obedient to the organization,","表面上は組織に
 従順であるように見せて","On the surface
-Show that it is obedient",0.2857142857142857
-What did you find out?,何か分かったのか？,Did you understand something?,0.375
-I have a question.,聞きたいことがある,I have something I want to hear,0.2222222222222222
+Show that it is obedient",0.2857142857142857,0.5639575
+What did you find out?,何か分かったのか？,Did you understand something?,0.375,0.406173
+I have a question.,聞きたいことがある,I have something I want to hear,0.2222222222222222,0.33364505
 "By almost awakening, has anything changed inside us?","私たちは 覚醒しかけたことで
 何か変わったのか？","We were awakening
-Something has changed?",0.3076923076923077
+Something has changed?",0.3076923076923077,0.82683676
 "you must feel something, right?","そう尋ねるということは
 何かしら感じているんだろ？","Ask to ask so
-Do you feel something?",0.36363636363636365
-"Before and after awakening,",覚醒しかけた その前と後では,Before and after that,0.5
-the quality of our Yoki has substantially changed.,明らかに妖気の質が違っていること,Clearly the quality of emphasis is different,0.23076923076923078
-...and the occasional bouts of hunger... am I right?,時折 訪れる 強烈な飢餓感,A feeling of hunger that occasionally visits,0.125
-We have already...,我々は既に,We have already,0.75
-...Awakened Ones?,私たちが 覚醒者？,What are we awakened?,0.2857142857142857
-What's the matter?,（エルミタ）どうした？,What happened?,0.3333333333333333
-"Compared to her, the one with little Yoki is rather calm-",むしろ動揺は激しいな,"Rather, the upset is intense",0.2857142857142857
+Do you feel something?",0.3636363636363637,0.55466974
+"Before and after awakening,",覚醒しかけた その前と後では,Before and after that,0.5,0.5911892
+the quality of our Yoki has substantially changed.,明らかに妖気の質が違っていること,Clearly the quality of emphasis is different,0.2307692307692308,0.3115756
+...and the occasional bouts of hunger... am I right?,時折 訪れる 強烈な飢餓感,A feeling of hunger that occasionally visits,0.125,0.6430263
+We have already...,我々は既に,We have already,0.75,0.8703123
+...Awakened Ones?,私たちが 覚醒者？,What are we awakened?,0.2857142857142857,0.76479644
+What's the matter?,（エルミタ）どうした？,What happened?,0.3333333333333333,0.29228994
+"Compared to her, the one with little Yoki is rather calm-",むしろ動揺は激しいな,"Rather, the upset is intense",0.2857142857142857,0.23323672
 No.,"小さい妖気のやつは
 比較的 冷静に… いや","Small orthumy guy
-Relatively calm ... No",0.125
+Relatively calm ... No",0.125,0.1973308
 "Actually, she seems more disturbed.","強い妖気を持ったやつが
 動揺させるような話をしたようだ","A guy with strong empress
-She seems to talk to she upset",0.13333333333333333
+She seems to talk to she upset",0.13333333333333333,0.36070478
 it must mean that something happened in her past...,"過去に何かあって
 外へは心を閉じているのか…","Something in the past
-Do you close the mind outside ...",0.25
-How fearsome.,（エルミタ）恐ろしいやつだ,Horrible guy,0.0
-"I haven't turned into a monster like that,",私は あんな化け物になってねえし,I am a monster,0.2727272727272727
-I absolutely have not awakened!,私は絶対に覚醒なんかしてねえ！,I absolutely wake up!,0.375
-I didn't say it right.,言い方が悪かったな,It was bad to say,0.2
-The awakening I meant isn't a complete awakening.,覚醒といっても完全な覚醒ではない,"Even though it is awakening, it is not a complete awakening",0.2857142857142857
+Do you close the mind outside ...",0.25,0.4235161
+How fearsome.,（エルミタ）恐ろしいやつだ,Horrible guy,0.0,0.23065674
+"I haven't turned into a monster like that,",私は あんな化け物になってねえし,I am a monster,0.2727272727272727,0.6777088
+I absolutely have not awakened!,私は絶対に覚醒なんかしてねえ！,I absolutely wake up!,0.375,0.5429862
+I didn't say it right.,言い方が悪かったな,It was bad to say,0.2,0.45457783
+The awakening I meant isn't a complete awakening.,覚醒といっても完全な覚醒ではない,"Even though it is awakening, it is not a complete awakening",0.2857142857142857,0.9407918
 We're in a half-awakened-like state.,"もしくは ゆっくりと
 覚醒し続けている状態だ","Or slowly
-It is a state that keeps awakening",0.14285714285714285
-Half-awakened?,半… 覚醒？,Half ... awakening?,0.2
-but we actually stopped in the middle of that.,途中で止まっている状態,Stopped on the way,0.16666666666666666
-"No, but that...",いや そんなことは…,No such thing ...,0.2857142857142857
+It is a state that keeps awakening",0.14285714285714285,0.5891885
+Half-awakened?,半… 覚醒？,Half ... awakening?,0.2,0.79882115
+but we actually stopped in the middle of that.,途中で止まっている状態,Stopped on the way,0.16666666666666666,0.36048213
+"No, but that...",いや そんなことは…,No such thing ...,0.2857142857142857,0.42006475
 ...and use it without much effort in battle...,"苦もなく戦闘で
 使えるようになったのは","In battle without a bit
-What can be used",0.2
+What can be used",0.2,0.6878396
 "...is because you've awakened, right?","覚醒しかけたあと
 なんじゃないのか？","After awake
-What is it?",0.15384615384615385
-Deneve's regeneration capabilities are the same.,デネヴの再生能力もそうだ,The regeneration ability of the Denev is also true,0.14285714285714285
-...and not something we can do many times.,何度もできることじゃない,It's not something you can do again,0.2857142857142857
+What is it?",0.15384615384615385,0.5624867
+Deneve's regeneration capabilities are the same.,デネヴの再生能力もそうだ,The regeneration ability of the Denev is also true,0.14285714285714285,0.8072698
+...and not something we can do many times.,何度もできることじゃない,It's not something you can do again,0.2857142857142857,0.48296657
 For us to return back to normal after surpassing our limits...,"一度 限界を超えて
 元に戻るなんてことは","Beyond the limit
-What to go back to the original",0.11764705882352941
-Deneve!,デネヴ！,Daineve!,0.3333333333333333
-And... in our half-awakened state...,で… 半覚醒状態だとして,So ... as a semi-awakening state,0.2
-What are we going to do from now on?,このあと 私たちは どうなる？,What will you do after this?,0.21428571428571427
+What to go back to the original",0.1176470588235294,0.54469377
+Deneve!,デネヴ！,Daineve!,0.3333333333333333,0.5054615
+And... in our half-awakened state...,で… 半覚醒状態だとして,So ... as a semi-awakening state,0.2,0.6649354
+What are we going to do from now on?,このあと 私たちは どうなる？,What will you do after this?,0.21428571428571427,0.45859426
 "Unfortunately, that's all that I know of.","すまんが これ以上のことは
 私にも分からない","Things are more than this
-I do not know too",0.11764705882352941
-The only thing I can say is that...,ただ 言えるのは,Just say that,0.2
+I do not know too",0.1176470588235294,0.28321958
+The only thing I can say is that...,ただ 言えるのは,Just say that,0.2,0.36830717
 ...we are in a dangerous situation where\Nwe might awaken at any given moment.,"我々は いかなる状況で
 覚醒するのか分からない⸺","In any situation
-I do not know if I woke up",0.13636363636363635
-I'll give it a try.,いいだろう 試してやる,I will try it,0.375
-"Stop it, Deneve!",（ヘレン）やめろ デネヴ！,Stop Denevo!,0.3333333333333333
-"At this rate, if I regenerate while staying within my limits, I'm just going to die!",（ミリア）何をするつもりだ！,I'm going to do anything!,0.25
-If you surpass your limit with that body of yours...,その体で限界を超えたら…,If you exceed the limit by the body ...,0.35714285714285715
-"If Miria's hypothesis is correct,",（デネヴ）ミリアの言うとおりなら,if it says Miria,0.2222222222222222
+I do not know if I woke up",0.13636363636363635,0.5116501
+I'll give it a try.,いいだろう 試してやる,I will try it,0.375,0.64424485
+"Stop it, Deneve!",（ヘレン）やめろ デネヴ！,Stop Denevo!,0.3333333333333333,0.75287926
+"At this rate, if I regenerate while staying within my limits, I'm just going to die!",（ミリア）何をするつもりだ！,I'm going to do anything!,0.25,0.26573375
+If you surpass your limit with that body of yours...,その体で限界を超えたら…,If you exceed the limit by the body ...,0.35714285714285715,0.81536555
+"If Miria's hypothesis is correct,",（デネヴ）ミリアの言うとおりなら,if it says Miria,0.2222222222222222,0.6109352
 then we have already surpassed our limits.,"私たちは
 とっくに限界を超えている","we
-I'm over the limit",0.07692307692307693
-I can use all of my Yoma powers all at once...,だったら 一気に妖力を使っても,Even if you use a palace at once,0.1875
-...and return back to normal without awakening.,覚醒せずに戻ることは可能なはずだ,It should be possible to return without awakening,0.3076923076923077
-"But, if I end up fully awakening,",だが もし完全覚醒するようなら,But if you want to awake,0.16666666666666666
-don't hesitate to kill me!,ためらわずに私を殺せ！,Kill me without hesitation!,0.3333333333333333
-What are you...,（ミリア）何を…,What is ...,0.4
-Deneve...,（ミリア）あ…,...,0.5
-"Hey, we're from the same class.",同期のよしみだ,Synchronization,0.0
-Leave it to us.,任せろ し損じたりはしない,Let's leave it and do not lose,0.18181818181818182
-One of them has awakened.,１人 覚醒した,I woke up one person,0.1
+I'm over the limit",0.07692307692307693,0.6173188
+I can use all of my Yoma powers all at once...,だったら 一気に妖力を使っても,Even if you use a palace at once,0.1875,0.36352405
+...and return back to normal without awakening.,覚醒せずに戻ることは可能なはずだ,It should be possible to return without awakening,0.3076923076923077,0.75791806
+"But, if I end up fully awakening,",だが もし完全覚醒するようなら,But if you want to awake,0.16666666666666666,0.6968448
+don't hesitate to kill me!,ためらわずに私を殺せ！,Kill me without hesitation!,0.3333333333333333,0.72277313
+What are you...,（ミリア）何を…,What is ...,0.4,0.5704722
+Deneve...,（ミリア）あ…,...,0.5,0.2906357
+"Hey, we're from the same class.",同期のよしみだ,Synchronization,0.0,0.106613755
+Leave it to us.,任せろ し損じたりはしない,Let's leave it and do not lose,0.18181818181818185,0.5640245
+One of them has awakened.,１人 覚醒した,I woke up one person,0.1,0.51023394
 "It felt like she awakened from her own will,","自らの意思で覚醒した感じだが…
 どういうことだ？","It feels awakening with my own intention ...
-What does it mean?",0.1
+What does it mean?",0.1,0.50922745
 She probably misjudged her limits\Nfrom the damage she suffered in battle.,"（エルミタ）戦いのダメージで
 限界を見誤ったんだろう","with the damage of the battle
-I wonder if the limit is wrong",0.15789473684210525
-What a pity.,残念な話だ,It is a pity,0.3333333333333333
+I wonder if the limit is wrong",0.15789473684210525,0.5948466
+What a pity.,残念な話だ,It is a pity,0.3333333333333333,0.72767913
 Is that all?,"いいのか？　我が子のように
 思っているんじゃなかったのか？","Is it all right?As a child
-Did not you think?",0.23076923076923078
+Did not you think?",0.2307692307692308,0.21879958
 I don't recall making a monster my child.,"（エルミタ）化け物を
-我が子にした覚えはないよ",I do not remember my child,0.3333333333333333
-Being so reckless...,（デネヴ）うっ…,Uh ...,0.2
-Is it okay?,腹は？　大丈夫か？,What is your belly? Are you okay?,0.3333333333333333
-"Yeah, I managed to cover it up.",ああ 何とか塞がった,"Oh, I was blocked",0.16666666666666666
-You're not guaranteed to return to normal next time.,次は戻れるとは限らん,The next time you can return,0.3333333333333333
-I know.,分かっている,I know,0.6666666666666666
-I felt as if we were being watched.,誰かに見られている気がした,I felt that someone was seen,0.15384615384615385
+我が子にした覚えはないよ",I do not remember my child,0.3333333333333333,0.5134314
+Being so reckless...,（デネヴ）うっ…,Uh ...,0.2,0.15335937
+Is it okay?,腹は？　大丈夫か？,What is your belly? Are you okay?,0.3333333333333333,0.29786885
+"Yeah, I managed to cover it up.",ああ 何とか塞がった,"Oh, I was blocked",0.16666666666666666,0.3279458
+You're not guaranteed to return to normal next time.,次は戻れるとは限らん,The next time you can return,0.3333333333333333,0.62065566
+I know.,分かっている,I know,0.6666666666666666,0.92224085
+I felt as if we were being watched.,誰かに見られている気がした,I felt that someone was seen,0.15384615384615385,0.6553135
 "Don't worry,","（ミリア）心配するな
 周囲は私も探った","Do not worry
-I also searched around",0.2222222222222222
-It was just my imagination?,仮に その先にいたとしても,Even if it was ahead,0.2222222222222222
+I also searched around",0.2222222222222222,0.46387056
+It was just my imagination?,仮に その先にいたとしても,Even if it was ahead,0.2222222222222222,0.17016025
 Someone is able to sense my presence from this far of a distance.,"（ガラテア）ほう… この距離で
 私に気付く者がいるのか","... at this distance
-Is there a person who noticed me",0.19047619047619047
-The Yoki of the one I thought had awakened has stabilized now.,気のせいなのか…,Is it the cause of mind ...,0.11764705882352941
-"Hey, what's the matter?",（エルミタ）おい どうした？,What happened?,0.25
+Is there a person who noticed me",0.19047619047619047,0.7208444
+The Yoki of the one I thought had awakened has stabilized now.,気のせいなのか…,Is it the cause of mind ...,0.1176470588235294,0.06708464
+"Hey, what's the matter?",（エルミタ）おい どうした？,What happened?,0.25,0.2617179
 "No, the awakening seems to be a mistake on my part.","（ガラテア）
-いや 覚醒は私の勘違いのようだ",No awakening seems to be my misunderstanding,0.42857142857142855
+いや 覚醒は私の勘違いのようだ",No awakening seems to be my misunderstanding,0.42857142857142855,0.77223736
 "Even for me, it is difficult to grasp information accurately at this distance.","いくら私でも こんな距離で
 正確な情報など つかめんよ","How much me is such a distance
-Get accurate information",0.19047619047619047
-Let's go.,（エルミタ）フン 行くぞ,Hung goes,0.0
-Memorize the Yoki of those four.,４人の妖気を覚えておけ,Remember four emphasis,0.1111111111111111
+Get accurate information",0.19047619047619047,0.71194893
+Let's go.,（エルミタ）フン 行くぞ,Hung goes,0.0,0.1951097
+Memorize the Yoki of those four.,４人の妖気を覚えておけ,Remember four emphasis,0.1111111111111111,0.46938273
 "You may be a parent,","そのうち 刃(やいば)を交えることに
 なるかもしれないからな","Of these, to interact with a blade
-It may be",0.3076923076923077
+It may be",0.3076923076923077,0.108728945
 We have carried out the job asked of us.,"我々は与えられた仕事を
 やり遂げた","We have a given job
-Gained",0.23076923076923078
-Nothing else has happened.,その他には何もなかった いいな？,What else did you have nothing?,0.2
+Gained",0.2307692307692308,0.6970778
+Nothing else has happened.,その他には何もなかった いいな？,What else did you have nothing?,0.2,0.41795316
 So that the organization doesn't think we have suspicions about them.,"組織に 私たちが疑問を持ったと
 悟られないようにするわけだな","When we have questions in the organization
-I'm not going to realize",0.18181818181818182
+I'm not going to realize",0.18181818181818185,0.46089643
 "In the future, act obedient enough\Nso the organization isn't suspicious of you.","今後は怪しまれぬ程度に
 組織に従順になれ","In the future,
-Become an organization",0.3125
-That's so much trouble...,そうだ,That's it,0.2857142857142857
-You all need to be careful and cannot let your guards down.,全てにおいて慎重になる必要がある,Need to be cautious in all,0.25
+Become an organization",0.3125,0.3701604
+That's so much trouble...,そうだ,That's it,0.2857142857142857,0.20376399
+You all need to be careful and cannot let your guards down.,全てにおいて慎重になる必要がある,Need to be cautious in all,0.25,0.53031117
 Do that and you should be fine for the time being.,"それぞれナンバー１桁に
 匹敵すると言っていい","For each number of one digit
-It can be said that it is comparable",0.13636363636363635
-Don't worry.,（ミリア）心配するな,Do not worry,0.4
-Really?,そうか？,Really?,1.0
-I can guarantee that.,私が保証する,I guarantee,0.4
-"In the event you have to fight our comrades,",万一 仲間と戦うことになっても,Even if you are going to fight with friends,0.1875
-"However, Number Five and up is another issue.",ただし ナンバー５(ファイブ)以上は別だがな,"However, the number 5  or more is different",0.26666666666666666
+It can be said that it is comparable",0.13636363636363635,-0.08748246
+Don't worry.,（ミリア）心配するな,Do not worry,0.4,0.7563398
+Really?,そうか？,Really?,1.0,1.0000001
+I can guarantee that.,私が保証する,I guarantee,0.4,0.70551676
+"In the event you have to fight our comrades,",万一 仲間と戦うことになっても,Even if you are going to fight with friends,0.1875,0.40372202
+"However, Number Five and up is another issue.",ただし ナンバー５(ファイブ)以上は別だがな,"However, the number 5  or more is different",0.26666666666666666,0.68309975
 "If you meet any of them,\Ndiscard the option of fighting them immediately.","こいつらと会ったら
 戦うという選択肢は まず捨てろ","If you meet these guys
-The option of fighting is",0.4375
+The option of fighting is",0.4375,0.7600912
 Number Five and up...,"正直 ナンバー５と
 ナンバー６(シックス)の間には","Honest number 5 and
-Between number 6",0.2222222222222222
-"...so those that are higher than you, right, Miria?",そう後れを取ることはないはずだ,You should not take it so,0.125
-"To be honest, I want you to think there's\Na huge gulf between Number Five and Number Six.",大きな壁があると思ってほしい,I want you to think that there is a big wall,0.21739130434782608
-These are the symbols of the top five warriors.,上位５人の印だ 覚えておけ,I remember the mark of the top five,0.3333333333333333
-"From the right,",右から ナンバー１(ワン) アリシア,From right 1  Alicia,0.3333333333333333
-"Number Two - Beth,",ナンバー２(ツー) ベス,Number 2  Beth,0.3333333333333333
-"Number Three - Galatea,",ナンバー３(スリー) ガラテア,Number 3  Galatea,0.3333333333333333
-Number Four -,ナンバー４(フォー)…,Number 4  ...,0.2
-Is there something wrong with Number Four?,ナンバー４が どうかしたのか？,What happened to the number 4?,0.15384615384615385
+Between number 6",0.2222222222222222,0.5878918
+"...so those that are higher than you, right, Miria?",そう後れを取ることはないはずだ,You should not take it so,0.125,0.10488688
+"To be honest, I want you to think there's\Na huge gulf between Number Five and Number Six.",大きな壁があると思ってほしい,I want you to think that there is a big wall,0.21739130434782608,0.27719238
+These are the symbols of the top five warriors.,上位５人の印だ 覚えておけ,I remember the mark of the top five,0.3333333333333333,0.4396518
+"From the right,",右から ナンバー１(ワン) アリシア,From right 1  Alicia,0.3333333333333333,0.5481026
+"Number Two - Beth,",ナンバー２(ツー) ベス,Number 2  Beth,0.3333333333333333,0.8857507
+"Number Three - Galatea,",ナンバー３(スリー) ガラテア,Number 3  Galatea,0.3333333333333333,0.95264906
+Number Four -,ナンバー４(フォー)…,Number 4  ...,0.2,0.7771478
+Is there something wrong with Number Four?,ナンバー４が どうかしたのか？,What happened to the number 4?,0.15384615384615385,0.77262694
 Then it's better if we don't get near her.,"となると私たちは
 近づかないほうがいい","When it is, we
-It is better not to approach",0.16666666666666666
-Avoid contact even if you have to act a bit unnatural.,ああ 多少 不自然でも接触を避けろ,"Oh, I avoid contact with some unnatural",0.17647058823529413
+It is better not to approach",0.16666666666666666,0.43562597
+Avoid contact even if you have to act a bit unnatural.,ああ 多少 不自然でも接触を避けろ,"Oh, I avoid contact with some unnatural",0.17647058823529413,0.7664163
 "A woman who lusts for battle\Nand the blood that spills during battles,","戦いと 流れ落ちる血を
 何よりも好む女","Battle and flowing blood
-A woman who likes more than anything",0.2
-This is her symbol.,オフィーリア これが その印だ,Offieria This is the mark,0.25
-And Number Five - Rafaela.,そしてナンバー５ ラファエラ,And number 5 Rafala,0.25
-What are you going to do now?,お前は これから どうするんだ？,What do you do from now on?,0.5
+A woman who likes more than anything",0.2,0.70264333
+This is her symbol.,オフィーリア これが その印だ,Offieria This is the mark,0.25,0.2831451
+And Number Five - Rafaela.,そしてナンバー５ ラファエラ,And number 5 Rafala,0.25,0.69309634
+What are you going to do now?,お前は これから どうするんだ？,What do you do from now on?,0.5,0.74497956
 I plan on continuing my investigation of the organization.,"（ミリア）私は これからも
 組織のことを調べるつもりだ","I am from now on
-I'm going to examine the organization",0.23529411764705882
+I'm going to examine the organization",0.2352941176470588,0.6710443
 I will immediately inform you all\Nif I uncover anything about the awakening issue.,"特に覚醒の件は
 何か分かれば すぐに知らせる","Especially the case of awakening
-Get informed immediately if you know something",0.19047619047619047
+Get informed immediately if you know something",0.19047619047619047,0.69538975
 The risk is higher if we band together now.,"我々が結束するほうが
 リスクが大きい","I will do my best
-Risk is large",0.125
+Risk is large",0.125,0.5541807
 "Besides, the idea the organization is trying to rid themselves of us is just a hypothesis.","それに 組織が我々を
 始末しようとしているというのは","Besides, the organization
-What I'm trying to start",0.3
-We have no evidence at all.,証拠は何一つないんだ,There are no evidence,0.2222222222222222
+What I'm trying to start",0.3,0.37465653
+We have no evidence at all.,証拠は何一つないんだ,There are no evidence,0.2222222222222222,0.79019463
 There's no need to have our comrades turn into our enemies so easily.,"むやみに仲間を
 敵対視する必要はない","Friends
-There is no need to interfere",0.23529411764705882
-May we all...,（デネヴ）ん…,...,0.25
-...live to meet again!,みんな また 生きて会おう！,Let's all live again!,0.3333333333333333
+There is no need to interfere",0.2352941176470588,0.23129228
+May we all...,（デネヴ）ん…,...,0.25,0.33628377
+...live to meet again!,みんな また 生きて会おう！,Let's all live again!,0.3333333333333333,0.63866806
 How many of them will survive\Nlong enough to meet me in the end?,"（ガラテア）
-そのうち 刃を交える…　か",Each of them will interact ...,0.17647058823529413
-"Kid, give it up.",（主人）坊や 諦めな,Both and give up,0.25
+そのうち 刃を交える…　か",Each of them will interact ...,0.17647058823529413,0.29927078
+"Kid, give it up.",（主人）坊や 諦めな,Both and give up,0.25,0.43902385
 No Claymore that's gone into\Nthose mountains will come out alive.,"あの山に入って 帰ってきた
 クレイモアは いやしないよ","I came back in that mountain
-Claymore does not hesitate",0.1
+Claymore does not hesitate",0.1,0.66460204
 She'll be back!,"（ラキ）帰ってくるよ
 クレアは約束は守る！","I'm back
-Claire protects promises!",0.2
-Clare...,あっ あ…,Oh ...,0.3333333333333333
-Clare!!!,クレアーッ！,Clair!,0.3333333333333333
+Claire protects promises!",0.2,0.47604665
+Clare...,あっ あ…,Oh ...,0.3333333333333333,0.129324
+Clare!!!,クレアーッ！,Clair!,0.3333333333333333,0.4850355
 A warrior painted with blood.,"（クレア）
-血塗られた道 血塗られた戦士",Bloody road bloody warrior,0.125
-The moment of the promise.,約束の時,Time of promise,0.3333333333333333
+血塗られた道 血塗られた戦士",Bloody road bloody warrior,0.125,0.45945004
+The moment of the promise.,約束の時,Time of promise,0.3333333333333333,0.7443439

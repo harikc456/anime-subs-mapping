@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.6999689
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.62335306
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852413
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.75999033
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372733
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.3079108
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522565
 You...,"(
 ネジ
 )
@@ -75,7 +75,7 @@ You...,"(
 ｡
 
 ","...
-.",0.3333333333333333
+.",0.3333333333333333,0.6108975
 You did it!,"(ｻｸﾗ)
 や…
  
@@ -83,13 +83,13 @@ You did it!,"(ｻｸﾗ)
 
 ","or…
  
-I did!",0.3333333333333333
+I did!",0.3333333333333333,0.5737895
 <i>So that fox kid can fight like this...</i>,"(ｺﾃﾂ)
 《あのきつねのガキが
 こんな戦いをするとはな》
 
 ","""The oysters of the
-Don't fight like this",0.15789473684210525
+Don't fight like this",0.15789473684210525,0.19668464
 Yay!,"ハハハハ…
  
 イエ～イ！
@@ -99,7 +99,7 @@ Yay!,"ハハハハ…
 
 ","Hahahaha ...
  
-Ye!",0.2
+Ye!",0.2,0.3628228
 "<i>And he still has the energy</i>
 <i>to run around...</i>","(ｹﾞﾝﾏ)
 《まだ走り回る元気が
@@ -110,7 +110,7 @@ Ye!",0.2
 ","""I'm still fine to run around
 There is no one
 .
-➡",0.21739130434782608
+➡",0.21739130434782608,0.45875698
 <i>Man... He's got crazy stamina that guy...</i>,"ったく
 スタミナばかだな
  
@@ -119,7 +119,7 @@ There is no one
 ","Geez
 Stamina stupid
  
-this guy""",0.11764705882352941
+this guy""",0.1176470588235294,0.68612766
 He did it... that kid.,"(
 観客１
 )
@@ -131,13 +131,13 @@ He did it... that kid.,"(
 ","I will do it
  
 That girl
-.",0.2727272727272727
+.",0.2727272727272727,0.32787815
 Yeah! He's on the right track!,"ん？
 (
 拍手と歓声
 )
 
-",Yeah?,0.1111111111111111
+",Yeah?,0.1111111111111111,0.20520887
 And he's a little cute...,"(
 観客１
 )
@@ -149,7 +149,7 @@ And he's a little cute...,"(
 ","A little
  
 It may be cute
-.",0.2727272727272727
+.",0.2727272727272727,0.45653415
 He won. Is it for real?,"《何だかなぁ
 あんたが羨ましい
 ｡
@@ -158,7 +158,7 @@ He won. Is it for real?,"《何だかなぁ
 ","""What is it?
 I'm envious
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.024769701
 "I thought he was the same as me,
 in the not going anywhere class...","あいつだけが俺と同じ
 イケてねえ派だと思ってたのにな
@@ -166,7 +166,7 @@ in the not going anywhere class...","あいつだけが俺と同じ
 
 ","A guy is the same as me
 I thought it was a faction
-.",0.3333333333333333
+.",0.3333333333333333,0.3104576
 "Looks like he's part of the group
 that's going somewhere.","もうイケてる派っぽいじゃん
 ｡
@@ -174,7 +174,7 @@ that's going somewhere.","もうイケてる派っぽいじゃん
 
 ","It looks like it's already good
 .
-➡",0.25
+➡",0.25,0.13546826
 Maybe I couldn't beat him...,"っつうか
  
 たぶん俺
@@ -187,7 +187,7 @@ Maybe I couldn't beat him...,"っつうか
 Maybe I
 Having won
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.32276586
 "Yeah... Most of the Leaf Village people
 here are surprised.","(ｱｽﾏ)
 ああ
@@ -200,7 +200,7 @@ here are surprised.","(ｱｽﾏ)
  
 I'm here
 Most of the wooden leaves are surprised
-.",0.4117647058823529
+.",0.4117647058823529,0.6867743
 "<i>When did he learn to control the strength</i>
 <i>of Nine Tailed Fox to that extent?</i>","(
 猿飛
@@ -217,7 +217,7 @@ Nine tail power
 Control
 To
 .
-➡",0.11538461538461539
+➡",0.1153846153846154,0.43578303
 "Even a bird who gets caught,
 once it learns how,","(ｹﾞﾝﾏ)
 フッ
@@ -226,7 +226,7 @@ once it learns how,","(ｹﾞﾝﾏ)
 
 ","Hook
  
-It is a bird I got caught ➡",0.25
+It is a bird I got caught ➡",0.25,0.60038394
 "will open the lid of its basket
 with its own beak.","賢くなりゃ
  
@@ -238,11 +238,11 @@ with its own beak.","賢くなりゃ
  
 With your own beak
 I'm going to open my lid
-.",0.3333333333333333
+.",0.3333333333333333,0.6998282
 "He won't give up, for he wants to
 fly freely in the sky again.","また自由に空を飛びたいと➡
 
-",I also want to fly in the sky freely,0.3157894736842105
+",I also want to fly in the sky freely,0.3157894736842105,0.5376204
 This time you lost!,"(ｹﾞﾝﾏ)
 今回は
  
@@ -252,7 +252,7 @@ This time you lost!,"(ｹﾞﾝﾏ)
 ","This time
  
 Your losing
-.",0.25
+.",0.25,0.76672626
 "It's okay, there's no damage
 to his internal organs.","(
 忍１
@@ -265,7 +265,7 @@ to his internal organs.","(
 ","Fine
  
 There is no damage to the internal organs
-.",0.4666666666666667
+.",0.4666666666666667,0.857244
 "It seems like his Chakra
 is almost used up.","(
 忍２
@@ -280,7 +280,7 @@ is almost used up.","(
  
 largely
 It seems that it has been used
-.",0.35714285714285715
+.",0.35714285714285715,0.8008839
 "<i>Why do you act against</i>
 <i>your fate that much?!</i>","(
 ネジ
@@ -293,10 +293,10 @@ It seems that it has been used
 ","<Why
  
 There
-Do you want to go against your own destiny?>",0.38095238095238093
+Do you want to go against your own destiny?>",0.3809523809523809,0.5514429
 <i>Because I was called a failure...</i>,"言われたからだ！＞
 
-",Because it was said!>,0.23076923076923078
+",Because it was said!>,0.2307692307692308,0.45317525
 "<i>Those who become Hokage</i>
 <i>are born to that fate.</i>","(
 ネジ
@@ -305,14 +305,14 @@ Do you want to go against your own destiny?>",0.38095238095238093
 そういう運命で生まれてくる＞
 
 ","<Person who becomes fire shadow is
-It will be born in such a destiny>",0.16
+It will be born in such a destiny>",0.16,0.48655403
 So what?!,"＜だから
  
 何だってんだ!?＞
 
 ","<So
  
-What is it?>",0.375
+What is it?>",0.375,0.37053114
 "I'm sorry but...
 Could you step out for a moment?","(ﾋｱｼ)
 すまないが
@@ -321,7 +321,7 @@ Could you step out for a moment?","(ﾋｱｼ)
 
 ","I'm sorry
 Remove a little seat
-.",0.23529411764705882
+.",0.2352941176470588,0.385191
 It won't take long.,"(
 忍１
 )
@@ -339,7 +339,7 @@ However…
 .
 
 Do not take time
-.",0.18181818181818182
+.",0.18181818181818185,0.35726422
 Y-Yes.,"(ﾄﾞｱ
 が開く音
 )
@@ -350,56 +350,56 @@ Y-Yes.,"(ﾄﾞｱ
 ｡
 
 ","Sun
-.",0.3333333333333333
+.",0.3333333333333333,0.27086824
 What do you need from me?,"(
 ネジ
 )
 何の用ですか？
 
-",What is it for?,0.2
+",What is it for?,0.2,0.22783174
 That day...,"(ﾋｱｼ)
 あの日の…
 ｡
 
 ","That day ...
-.",0.75
+.",0.75,0.99257755
 "I came to tell you the truth...
 about that day.","あの日の真実を伝えに来た
 ｡
 
 ","I came to convey the truth of that day
-.",0.5714285714285714
+.",0.5714285714285714,0.75909686
 That day...?,"(
 ネジ
 )
 あの日？
 
-",That day?,0.75
+",That day?,0.75,0.8295288
 "At that time, I intended to die!","私が死ぬつもりだった
 ｡
 
 ","I was going to die
-.",0.25
+.",0.25,0.63780564
 W-What are you talking about?!,"何を…
  
 何を言ってるんです!?➡
 
 ","what…
  
-What are you saying!? ➡",0.36363636363636365
+What are you saying!? ➡",0.3636363636363637,0.33066842
 That day my father...,"あの時
  
 私の父は➡
 
 ","That time
  
-My father is ➡",0.375
+My father is ➡",0.375,0.5504225
 "He was killed
 as your body double!","あなたの影武者として
 殺されたのですよ！
 
 ","As your shadow warrior
-It was killed!",0.45454545454545453
+It was killed!",0.4545454545454545,0.5246677
 The truth of that day... is here.,"ここに
  
 あの日の真実がある
@@ -408,7 +408,7 @@ The truth of that day... is here.,"ここに
 ","Here
  
 There is the truth of that day
-.",0.8
+.",0.8,0.8862756
 "They're probably only excuses made
 at the convenience of the head family.","どうせ
  
@@ -418,13 +418,13 @@ at the convenience of the head family.","どうせ
 ","Anyway
  
 Like the convenience of the sect
-The excuses made",0.3125
+The excuses made",0.3125,0.55686754
 "The person you are now...
 should be able to understand.","理解できるはずだ
 ｡
 
 ","You should be able to understand
-.",0.5833333333333334
+.",0.5833333333333334,0.6325837
 This writing...!,"あっ…
  
 この字は
@@ -433,7 +433,7 @@ This writing...!,"あっ…
 ","Ah…
  
 This character is
-.",0.125
+.",0.125,0.29854724
 "I want to use that limited time
 to convey something to you...","その限られた時間を使い
 伝えておきたいことがある
@@ -441,7 +441,7 @@ to convey something to you...","その限られた時間を使い
 
 ","Use the limited time
 I have something to tell
-"".",0.375
+"".",0.375,0.6924375
 "who was trying to kidnap Miss Hinata,
 was killed by Lord Hiashi...","逆にヒアシ様に殺された
 ｡
@@ -449,7 +449,7 @@ was killed by Lord Hiashi...","逆にヒアシ様に殺された
 
 ","On the contrary, he was killed by Hyasi
 .
-➡",0.2
+➡",0.2,0.5200973
 "But the Land of Lightning didn't
 acknowledge the abduction of Miss Hinata,","だが雷の国は
  
@@ -459,18 +459,18 @@ acknowledge the abduction of Miss Hinata,","だが雷の国は
 ","But the country of lightning
  
 Hinata-like kidnapping
-Do not try to admit",0.21052631578947367
+Do not try to admit",0.21052631578947367,0.68132883
 "made only the killing
 of the head Ninja a problem,","忍頭が殺されたことのみを
 問題とし➡
 
 ","Only what the ninjo was killed
-Problem",0.21428571428571427
+Problem",0.21428571428571427,0.48860896
 and made unreasonable demands.,"理不尽な要求をしてきたのだ
 ｣｡
 
 ","I have made an unreasonable demand
-"".",0.3
+"".",0.3,0.6325603
 "With my one life,
 the village can be saved...","里が救えるなら＞
 (
@@ -480,7 +480,7 @@ the village can be saved...","里が救えるなら＞
 
 ","If the village can save>
 
-<Ug>",0.1875
+<Ug>",0.1875,0.67571855
 "The Hyuga's Kekkei Genkai
 is an important strength of this land.","この里にとって
 重要な切り札じゃ
@@ -490,7 +490,7 @@ is an important strength of this land.","この里にとって
 ","For this village
 Important trump card
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.24874315
 "It is the duty of the head family
 to protect it forever...","永ごう
  
@@ -500,13 +500,13 @@ to protect it forever...","永ごう
 ","Be slack
  
 To keep protecting it
-It's a role of the Sonator>",0.2
+It's a role of the Sonator>",0.2,0.35353985
 "if we involve our land
 in a desperate war...!","この里を絶望的な戦争に
 巻き込んでしまっては…＞
 
 ","This village is desperate war
-I caught up ...>",0.16666666666666666
+I caught up ...>",0.16666666666666666,0.562962
 "I understand that!
 That's why...","＜それは分かっておる
 だから…
@@ -516,7 +516,7 @@ That's why...","＜それは分かっておる
 ","<I know that
 that's why…
 .
-➡",0.25
+➡",0.25,0.54124844
 "Hizashi's corpse...
 We'll hand it over as your body double.","お前の影武者として引き渡す
 ｡
@@ -524,7 +524,7 @@ We'll hand it over as your body double.","お前の影武者として引き渡�
 
 ","Deliver as your shadow warrior
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.2623237
 "However, what they want is
 the secret of the power of the Byakugan.","この白眼の能力の秘密では…
 ｡
@@ -532,11 +532,11 @@ the secret of the power of the Byakugan.","この白眼の能力の秘密では�
 
 ","With the secret of this grade of the capabilities ...
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.29507387
 "The point in time that
 Hizashi becomes a corpse,","ヒザシでは死体になった時点で➡
 
-",When it became a corpse in the hera,0.2857142857142857
+",When it became a corpse in the hera,0.2857142857142857,0.43594313
 "I don't believe that the Land of Lightning
 will consent to that.","その能力を封印してしまいます
 ｡
@@ -544,12 +544,12 @@ will consent to that.","その能力を封印してしまいます
 
 ","I will seal the ability
 .
-➡",0.25
+➡",0.25,0.19269678
 "That's their true intent,","＜うん…
 それが本音ではあろうが➡
 
 ","<Yup ...
-That's true score",0.3
+That's true score",0.3,0.16479038
 "and they can't pursue it
 any further than that.","ヤツらも
  
@@ -557,10 +557,10 @@ any further than that.","ヤツらも
 
 ","Too
  
-I can not pursue and pursue>",0.125
+I can not pursue and pursue>",0.125,0.5186373
 Hiashi... The time has come...,"雷が出してきた取引条件は➡
 
-",The trading condition that the lightning has come out is ➡,0.23076923076923078
+",The trading condition that the lightning has come out is ➡,0.2307692307692308,0.11438036
 "Your predecessors have done the same
 to protect the power of Hyuga clan.","どの先代も
  
@@ -574,14 +574,14 @@ to protect the power of Hyuga clan.","どの先代も
 So
 I have protected the ability of Hinata
 .
-➡",0.19047619047619047
+➡",0.19047619047619047,0.43668038
 That is the fate of the head family.,"＜それが宗家の宿命なのじゃ
 ｡
 ➡
 
 ","<It is the fate of the sect
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.43063748
 "And this... is the destiny of
 ones born into Hyuga!","そして
  
@@ -589,14 +589,14 @@ ones born into Hyuga!","そして
 
 ","and
  
-This is ➡",0.23076923076923078
+This is ➡",0.2307692307692308,0.23442614
 "Where has Lord Hiashi,
 who is always bullish, go?","(ﾋｻﾞｼ)
 ＜いつもの強気なヒアシ様は
 どこに行ったのです？＞
 
 ","<The usual bullish Hyasa is
-Where did you go?>",0.2777777777777778
+Where did you go?>",0.2777777777777778,0.5676684
 "The scale of this issue is different
 from the ones in the past!","＜これは今までと
 事の大きさが違う
@@ -606,18 +606,18 @@ from the ones in the past!","＜これは今までと
 ","<This is until now
 The size of the thing is different
 .
-➡",0.2631578947368421
+➡",0.2631578947368421,0.407103
 H-Hizashi... you...,"お前…＞
 
-",You ...>,0.5
+",You ...>,0.5,0.24090102
 Please... let me go,"(ﾋｻﾞｼ)
 ＜私に行かせてください＞
 
-",<Please let me go to me>,0.5
+",<Please let me go to me>,0.5,0.6609681
 "Why do you choose death...
 for the head family?!","なぜ宗家のために…➡
 
-",Why for the sect ... ➡,0.2857142857142857
+",Why for the sect ... ➡,0.2857142857142857,0.28873548
 "To tell the truth
 even now I'm bitter.","＜私は宗家を恨んできました
 ｡
@@ -625,7 +625,7 @@ even now I'm bitter.","＜私は宗家を恨んできました
 
 ","<I was able to hesitate
 .
-➡",0.2
+➡",0.2,0.12294377
 "I want to die protecting you as
 ""my brother,"" not as the head family.","私の兄として守って
 死にたいのです
@@ -635,7 +635,7 @@ even now I'm bitter.","＜私は宗家を恨んできました
 ","Protect as my brother
 I want to die
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.77332133
 I've only shown Neji my ugly side.,"ネジには私の醜い姿ばかりを
 見せてきました
 ｡
@@ -644,7 +644,7 @@ I've only shown Neji my ugly side.,"ネジには私の醜い姿ばかりを
 ","Only my ugly figure
 I showed it
 .
-➡",0.38461538461538464
+➡",0.38461538461538464,0.503386
 "However, now I've come here
 and finally know my own intentions.","なのに
  
@@ -656,7 +656,7 @@ and finally know my own intentions.","なのに
  
 Now
  
-Come here",0.2
+Come here",0.2,0.5068238
 So please tell Neji...,"＜だから
  
 ネジには
@@ -669,7 +669,7 @@ So please tell Neji...,"＜だから
 For screws
 Please tell me this way
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.14125063
 "I-I wasn't killed to protect
 the head family...","｢
 私は宗家を守るために
@@ -677,7 +677,7 @@ the head family...","｢
 
 ","""
 I am to protect the sect
-Not killed",0.26666666666666666
+Not killed",0.26666666666666666,0.4623102
 by my own will I chose death!,"みずからの意志で
 死を選んだのだ
 ｣
@@ -686,11 +686,11 @@ by my own will I chose death!,"みずからの意志で
 ","Mizu-ray will
 I chose death
 ""
-And>",0.3333333333333333
+And>",0.3333333333333333,0.5440781
 "T-To choose death...
 you call that freedom...?","自由だというのか？＞
 
-",Is it freedom?>,0.16666666666666666
+",Is it freedom?>,0.16666666666666666,0.5781733
 "Once, just this once,
 I wanted to defy the fate of Hyuga.","日向の運命に
 逆らってみたかった
@@ -700,7 +700,7 @@ I wanted to defy the fate of Hyuga.","日向の運命に
 ","For the fate of Hinata
 I wanted to go against
 .
-➡",0.3888888888888889
+➡",0.3888888888888889,0.57226914
 I wanted to choose my own fate.,"自分で
 運命を選んでみたくなった
 ｡
@@ -709,14 +709,14 @@ I wanted to choose my own fate.,"自分で
 ","by myself
 I wanted to choose destiny
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.6180183
 That's all.,"ただ
  
 それだけだよ＞
 
 ","just
  
-That's it only>",0.25
+That's it only>",0.25,0.37934062
 "<i>Fate is something you work out</i>
 <i>with your own hands.</i>","運命とは
  
@@ -728,7 +728,7 @@ That's it only>",0.25
  
 By hand
 It is something to open
-"".",0.19047619047619047
+"".",0.19047619047619047,0.64567333
 This is... the truth!,"(ﾋｱｼ)
 これが真実だ
 ｡
@@ -740,11 +740,11 @@ This is... the truth!,"(ﾋｱｼ)
 ","This is true
 .
 
-Ah!",0.3333333333333333
+Ah!",0.3333333333333333,0.45835075
 I'm sorry!,"(ﾋｱｼ)
 すまなかった！
 
-",I'm sorry!,1.0
+",I'm sorry!,1.0,1.0
 Please... raise your head.,"頭を…
  
 上げてください
@@ -753,13 +753,13 @@ Please... raise your head.,"頭を…
 ","Head ...
  
 Please Raise
-.",0.8333333333333334
+.",0.8333333333333334,0.63445026
 "<i>I wonder if a person's destiny is</i>
 <i>only floating like a cloud in a fixed current...</i>","雲のように決められた
 流れの中に➡
 
 ","It was decided like a cloud
-In the flow",0.16666666666666666
+In the flow",0.16666666666666666,0.33478135
 "<i>Or is a person able to ride</i>
 <i>on the current that he chooses.</i>","それとも
  
@@ -773,7 +773,7 @@ In the flow",0.16666666666666666
 In the flow of chosen
 Is it what you can ride
 .
-➡",0.14814814814814814
+➡",0.14814814814814814,0.6105638
 "<i>Whichever, the end point</i>
 <i>might still be the same...</i>","どちらにせよ
  
@@ -787,10 +787,10 @@ Is it what you can ride
 The destination
 It may be the same
 .
-➡",0.15
+➡",0.15,0.25974753
 "<i>Just, when the choice is the latter...</i>","ただ後者の生き方を選ぶとき➡
 
-",When choosing the latter way of life ➡,0.17647058823529413
+",When choosing the latter way of life ➡,0.17647058823529413,0.5244299
 "<i>people turn toward the goal of</i>
 <i>living and work hard toward it.</i>","人は生きる目的に向かって
 頑張れる
@@ -800,7 +800,7 @@ It may be the same
 ","People go to the purpose of living
 Work hard
 .
-➡",0.3
+➡",0.3,0.6405076
 "<i>And those who hold that</i>
 <i>are really strong.</i>","そして
  
@@ -810,7 +810,7 @@ Work hard
 ","and
  
 Those who have that
-It is really strong ➡",0.29411764705882354
+It is really strong ➡",0.29411764705882354,0.6141005
 "<i>I feel like I finally understand,</i>
 <i>through this battle...</i>","この戦いで
  
@@ -824,14 +824,14 @@ It is really strong ➡",0.29411764705882354
 at last
 I feel like I understand
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.7780778
 <i>And... father...</i>,"そして
  
 父上➡
 
 ","and
  
-Father",0.2857142857142857
+Father",0.2857142857142857,0.5555539
 <i>I have only one goal...</i>,"私の目的は
  
 ただ一つ
@@ -842,13 +842,13 @@ Father",0.2857142857142857
  
 Only one
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.49968645
 "<i>I want to become stronger,</i>
 <i>so I won't lose to anyone.</i>","もっと強くなりたい
 誰にも負けないくらい》
 
 ","I want to become stronger
-I can not lose anyone """,0.3333333333333333
+I can not lose anyone """,0.3333333333333333,0.8971591
 <i>That's how I feel now.</i>,"(
 ネジ
 )
@@ -862,7 +862,7 @@ I can not lose anyone """,0.3333333333333333
  
 That's what I think
 .
-➡",0.2
+➡",0.2,0.2698516
 That's because it was a good battle...,"(
 猿飛
 )
@@ -870,13 +870,13 @@ That's because it was a good battle...,"(
 ｡
 
 ","Because it was a good fight
-.",0.45454545454545453
+.",0.4545454545454545,0.7054777
 "It's likely that, for the curious heads
 of Ninja and the feudal lords,","物見高い忍頭たちや
 依頼主である大名たちにとって➡
 
 ","Thinks of interest
-For the Old Customer who is the requestor",0.14285714285714285
+For the Old Customer who is the requestor",0.14285714285714285,0.051031105
 "there is no match they look forward to
 more than this next match.","これほど楽しみな試合は
 ないでしょうから
@@ -884,7 +884,7 @@ more than this next match.","これほど楽しみな試合は
 
 ","This game is so fun
 Because there will be no
-.",0.2631578947368421
+.",0.2631578947368421,0.30585337
 "By the way, it seems that
 he wasn't seen at the opening ceremony...","(
 風影
@@ -893,21 +893,21 @@ he wasn't seen at the opening ceremony...","(
 姿が見えなかったようですが➡
 
 ","By the way, at the time of opening ceremony
-It seems that I could not see the figure",0.45454545454545453
+It seems that I could not see the figure",0.4545454545454545,0.6309347
 "He's arrived here already, hasn't he?","彼は
  
 もう来ているんですよね？
 
 ","He
  
-He is already coming, right?",0.3333333333333333
+He is already coming, right?",0.3333333333333333,0.70675164
 And there's the issue of Orochimaru.,"大蛇丸のこともあります
 ｡
 ➡
 
 ","There is also a big snake circle
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.19123067
 "What's going on?!
 Hurry up and start the next match!","(
 観客１
@@ -920,7 +920,7 @@ Hurry up and start the next match!","(
 ","What do you do?
 Next game
  
-Start!",0.3125
+Start!",0.3125,0.4753851
 "I wonder what's going on
 with the next match?","(
 いの
@@ -931,7 +931,7 @@ with the next match?","(
 
 ","What's wrong?
 Next game
-.",0.2857142857142857
+.",0.2857142857142857,0.4357916
 "Is he planning
 not to show up?","(
 シノ
@@ -948,19 +948,19 @@ Kimono
  
 Not close to danger
 "".
-➡",0.13333333333333333
+➡",0.13333333333333333,0.066704646
 A wise judgement... is it?,"賢明な判断か
 ｡
 
 ","Wise judgment
-.",0.1111111111111111
+.",0.1111111111111111,0.7155009
 What are you saying?,"サスケ君
  
 来てるの？
 
 ","Sasuke
  
-Are you coming?",0.42857142857142855
+Are you coming?",0.42857142857142855,0.16934323
 Sasuke is... disqualified.,"サスケは失格だ
 ｡
 (ﾗｲﾄﾞｳ)
@@ -971,18 +971,18 @@ Sasuke is... disqualified.,"サスケは失格だ
 .
 
 Haze
-.",0.6666666666666666
+.",0.6666666666666666,0.853531
 Yes.,"やむをえん
 ｡
 
 ","や や
-.",0.3333333333333333
+.",0.3333333333333333,0.10624381
 Sasuke Uchiha is... disqualified?,"(
 風影
 )
 うちはサスケが失格？
 
-",Is Sasuke disqualified?,0.6666666666666666
+",Is Sasuke disqualified?,0.6666666666666666,0.902263
 "What in the world are
 we going to do?","《けど
  
@@ -996,7 +996,7 @@ we going to do?","《けど
 Really
 What should you do?
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.20145091
 This isn't good...,"(ﾃﾏﾘ)
 これって
  
@@ -1006,25 +1006,25 @@ This isn't good...,"(ﾃﾏﾘ)
 ","is this
  
 I'm sorry ...
-.",0.3333333333333333
+.",0.3333333333333333,0.4317444
 "<i>Where are you going, Gaara?</i>","＜どこへ行く？
  
 我愛羅＞
 
 ","<Where are you going?
  
-Gora>",0.5833333333333334
+Gora>",0.5833333333333334,0.5980354
 <i>I'm going to confirm my existence...</i>,"(
 我愛羅
 )
 ＜俺の存在を確かめに行く＞
 
-",<Go to check my existence>,0.38461538461538464
+",<Go to check my existence>,0.38461538461538464,0.7745333
 <i>I wonder if he really killed him...</i>,"本当に殺したんじゃ
 ないだろうな？》
 
 ","I really killed
-Isn't there?""",0.1875
+Isn't there?""",0.1875,0.47159097
 What happened?,"(ｻｽｹ)
 ＜ハァ…
  
@@ -1032,11 +1032,11 @@ What happened?,"(ｻｽｹ)
 
 ","<Ha ...
  
-What happened?>",0.42857142857142855
+What happened?>",0.42857142857142855,0.5844621
 Why don't you come out?,"(ｶｶｼ)
 ＜お前か＞
 
-",<Are you?,0.2222222222222222
+",<Are you?,0.2222222222222222,0.26087326
 It's you...,"(ｶｶｼ)
 ＜そんなに殺気出してちゃ
 バレバレだって
@@ -1046,7 +1046,7 @@ It's you...,"(ｶｶｼ)
 ","<It's so cute
 It is Barbare
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.16366069
 "I want you to consider waiting a little bit
 for Sasuke Uchiha's disqualification.","少しお待ちいただきたい
 ｡
@@ -1058,7 +1058,7 @@ for Sasuke Uchiha's disqualification.","少しお待ちいただきたい
 ","I want to wait a little
 .
 
-Yeah?",0.3333333333333333
+Yeah?",0.3333333333333333,0.27477875
 "to make light of time is not
 a qualification for Chunin.","どんな優秀とて
 中忍の資格はない
@@ -1066,14 +1066,14 @@ a qualification for Chunin.","どんな優秀とて
 
 ","What kind of excellent
 There is no qualification of Nakajima
-.",0.2222222222222222
+.",0.2222222222222222,0.34347332
 there's no reason to wait for him!,"明解な理由がなければ
 彼を待つ理由がありません
 ｡
 
 ","If there is no clear reason
 There is no reason to wait for him
-.",0.5384615384615384
+.",0.5384615384615384,0.8335944
 "Well then, there is a sufficient reason.","それなら
 十分な理由がありますよ
 ｡
@@ -1082,7 +1082,7 @@ There is no reason to wait for him
 ","in that case
 There is enough reason
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.7752723
 "most of the heads of Ninja and
 feudal lords that are here...","私を含め
  
@@ -1092,7 +1092,7 @@ feudal lords that are here...","私を含め
 ","I include me
  
 I'm here
-Most of the ninja and Odai is ➡",0.3157894736842105
+Most of the ninja and Odai is ➡",0.3157894736842105,0.64139247
 "came here because
 they want to see the next match.","次の試合を見たいがために
 ここに来たようなものだ
@@ -1100,7 +1100,7 @@ they want to see the next match.","次の試合を見たいがために
 
 ","I want to see the next game
 It seems like you came here
-.",0.47058823529411764
+.",0.4705882352941176,0.4959524
 "He's the remaining survivor
 of the ""Uchiha.""","しかし…
 ｡
@@ -1116,7 +1116,7 @@ of the ""Uchiha.""","しかし…
 
 What
  
-He is",0.15384615384615385
+He is",0.15384615384615385,0.30660188
 "Land of the Wind too, absolutely,
 is hoping for a bout with our Gaara.","風の国としても
 ぜひ
@@ -1126,7 +1126,7 @@ is hoping for a bout with our Gaara.","風の国としても
 ","Even as a wind country
 please
  
-Our Gira",0.14285714285714285
+Our Gira",0.14285714285714285,0.5820258
 "<i>There's no guarantee that</i>
 <i>Sasuke will come but...</i>","(
 猿飛
@@ -1135,7 +1135,7 @@ Our Gira",0.14285714285714285
 保証はないが…》
 
 ","""Sasuke will come
-There is no guarantee ... """,0.4375
+There is no guarantee ... """,0.4375,0.8119309
 "We shall specially postpone
 this match and wait.","特別に
  
@@ -1147,18 +1147,18 @@ this match and wait.","特別に
  
 Take this game later
 Let's wait
-.",0.2857142857142857
+.",0.2857142857142857,0.46231
 Inform so to the Proctor!,"試験官に伝えろ
 ｡
 
 ","Tell the examiner
-.",0.1111111111111111
+.",0.1111111111111111,0.488116
 "It's rare for you to insist like that,
 Lord Kazekage.","そこまで言われるとは珍しい
 ｡
 
 ","It is rare to be said there
-.",0.23529411764705882
+.",0.2352941176470588,0.37929836
 "To show off the Shinobi's qualities
 of our village to the feudal lords...","(
 風影
@@ -1171,7 +1171,7 @@ of our village to the feudal lords...","(
 ","what
  
 The quality of the Shinobu
-To show it to OK",0.2222222222222222
+To show it to OK",0.2222222222222222,0.54555964
 "there's no better opponent
 than an Uchiha.","相手は
  
@@ -1183,12 +1183,12 @@ than an Uchiha.","相手は
  
 There is no other thing
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.5322822
 It's a chance for us as well.,"うちとしてもチャンスなのですよ
 ｡
 
 ","It is also a chance as
-.",0.45454545454545453
+.",0.4545454545454545,0.7532489
 "Everyone! The candidate for the
 next battle has not arrived here!","現在
  
@@ -1198,7 +1198,7 @@ next battle has not arrived here!","現在
 ","Current
  
 I have not arrived here
-.",0.2
+.",0.2,0.32602325
 "We'll briefly postpone this battle
 and start the following battle ahead of it.","皆様
  
@@ -1206,7 +1206,7 @@ and start the following battle ahead of it.","皆様
 
 ","ladies and gentlemen
  
-The following match candidate",0.16666666666666666
+The following match candidate",0.16666666666666666,0.21537
 What is he doing... that Sasuke?,"何やってんだ？
  
 サスケのヤツ
@@ -1215,7 +1215,7 @@ What is he doing... that Sasuke?,"何やってんだ？
 ","What do you do?
  
 Sasuke guy
-.",0.25
+.",0.25,0.7902467
 "Great, so Sasuke didn't get disqualified!","よかった～！
 サスケ君
  
@@ -1226,7 +1226,7 @@ Sasuke guy
 Sasuke
  
 I'm not disqualified
-.",0.1875
+.",0.1875,0.9047412
 That's good...,"ハァ…
  
 よかった
@@ -1235,7 +1235,7 @@ That's good...,"ハァ…
 ","Hua ...
  
 Was good
-.",0.2857142857142857
+.",0.2857142857142857,0.1662259
 "Hey! That means my match
 is one match closer!","よって
  
@@ -1243,14 +1243,14 @@ is one match closer!","よって
 
 ","By all means
  
-This match is later",0.23076923076923078
+This match is later",0.2307692307692308,0.50464296
 "Then, on to the next pair!","次の試合を
 先に始めていくことにしました
 ｡
 
 ","The next match
 I decided to go first before
-.",0.2
+.",0.2,0.3268277
 "Kankuro and Shino Aburame!
 Come down!","カンクロウと油女シノ
  
@@ -1260,19 +1260,19 @@ Come down!","カンクロウと油女シノ
 ","Cancel and Oil Sino
  
 Downwards
-.",0.08333333333333333
+.",0.08333333333333333,0.13488731
 <i>My match...doesn't matter at all.</i>,"(ｶﾝｸﾛｳ)
 《俺の試合は
 どうでもいいんだよ》
 
 ","""My match is
-It doesn't matter. """,0.25
+It doesn't matter. """,0.25,0.63315266
 "<i>I'd rather not expose the Mechanism</i>
 <i>of Crow to the enemy before the plan...</i>","敵の前でカラスの
 仕込みカラクリをさらすのは➡
 
 ","Crows in front of the enemy
-Purchasing Calachuri",0.13636363636363635
+Purchasing Calachuri",0.13636363636363635,0.52522594
 I abstain!,"試験官！
  
 俺は棄権する
@@ -1281,25 +1281,25 @@ I abstain!,"試験官！
 ","Examiner!
  
 I abstain
-.",0.6
+.",0.6,0.57228523
 <i>What?!</i>,"ん？
 (ｹﾞﾝﾏ)
 《何!?》
 
 ","Yeah?
 
-""what!?""",0.3
+""what!?""",0.3,0.2676966
 "Due to Kankuro's abstention,
 Shino Aburame wins by default!","カンクロウの棄権により➡
 
-",Due to the abstention of Cancer,0.2
+",Due to the abstention of Cancer,0.2,0.051867712
 "It's my turn, isn't it?","お前は？
 (ﾃﾏﾘ)
 あたしの番だろ？
 
 ","You are?
 
-Is it my turn?",0.5
+Is it my turn?",0.5,0.8299472
 It seems that you're really fired up.,"お前は
  
 やる気があるようだな
@@ -1308,12 +1308,12 @@ It seems that you're really fired up.,"お前は
 ","You are
  
 It seems that you are motivated
-.",0.45454545454545453
+.",0.4545454545454545,0.37328675
 "Okay, let's go to the next match.","油女シノの不戦勝とする
 ｡
 
 ","Let's win the oil woman
-.",0.3076923076923077
+.",0.3076923076923077,0.19924934
 "Hey! Hey! What are you doing,
 frivolously building things up?","おいおい
 何
@@ -1323,7 +1323,7 @@ frivolously building things up?","おいおい
 ","little by little
 what
  
-Are you excited by yourself?",0.25
+Are you excited by yourself?",0.25,0.3941588
 Shikamaru Nara! You!,"奈良シカマル
  
 お前だ
@@ -1332,7 +1332,7 @@ Shikamaru Nara! You!,"奈良シカマル
 ","Nara Shikamaru
  
 You are
-.",0.5
+.",0.5,0.86544067
 "<i>Damn...</i>
 <i>If it's like this I'll abstain too...</i>","(ｼｶﾏﾙ)
 《くそ～
@@ -1343,15 +1343,15 @@ You are
 ","""く く ~
  
 When it comes to this
-I also abstained ...",0.18181818181818182
+I also abstained ...",0.18181818181818185,0.25927606
 <i>Damn that Naruto...</i>,"(ｼｶﾏﾙ)
 《ナルトの野郎…》
 
-","""Naruto no Basters ...""",0.16666666666666666
+","""Naruto no Basters ...""",0.16666666666666666,0.69070494
 "<i>Oh yeah! Oh yeah! Oh yeah!</i>
 <i>Fight! Fight! Fight!</i>","あ～！
 
-",Oh!,0.25
+",Oh!,0.25,0.25555864
 Go! Shikamaru!,"♬
  
 へたれ闘牛士
@@ -1364,7 +1364,7 @@ Go! Shikamaru!,"♬
 Battle beef
 Santez
  
-Orire!",0.125
+Orire!",0.125,0.39238152
 "He's good, firing up, burning up!
 That's my teammate!","♬
  
@@ -1376,7 +1376,7 @@ That's my teammate!","♬
  
 Good luck
  
-SO standing up",0.13333333333333333
+SO standing up",0.13333333333333333,0.19198626
 "But, doesn't he seem spaced out
 looking at the sky?","♬
  
@@ -1388,7 +1388,7 @@ looking at the sky?","♬
  
 Chinese world
  
-Smiling sky",0.058823529411764705
+Smiling sky",0.05882352941176471,0.31964618
 "Ino, your cheering is kinda scary.","♬
  
 お手を拝借
@@ -1401,4 +1401,4 @@ Smiling sky",0.058823529411764705
 Bearing your hands
 Japanese
 ·
-Pepo",0.07142857142857142
+Pepo",0.07142857142857142,0.23200423

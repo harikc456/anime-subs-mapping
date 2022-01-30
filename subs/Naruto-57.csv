@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.69996923
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.623353
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852413
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.7599903
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372732
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.3079108
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522565
 Where am I?!,"(ｶﾞﾏﾌﾞﾝ
 太
 )
@@ -81,19 +81,19 @@ Where am I?!,"(ｶﾞﾏﾌﾞﾝ
  
 Where is it?
  
-Kowa!",0.3333333333333333
+Kowa!",0.3333333333333333,0.37919623
 I've been saved.,"(ﾅﾙﾄ)
 助かったってばよ
 ｡
 
 ","It's saved
-.",0.2857142857142857
+.",0.2857142857142857,0.6992566
 Oh?,"お？
 
-",Oh?,1.0
+",Oh?,1.0,0.99999976
 This is a... frog... isn't it...?,"カエル…だよな？
 
-",Frog ... is it?,0.625
+",Frog ... is it?,0.625,0.93595123
 Oopsadaisy...,"よいしょ…
  
 よいしょ
@@ -102,21 +102,21 @@ Oopsadaisy...,"よいしょ…
 ","Good luck ...
  
 Good
-.",0.2
+.",0.2,0.12205761
 Let's see now...,"どれどれ？
 
-",let's see?,0.5
+",let's see?,0.5,0.61497897
 No tail!,"尻尾な～し！
 
-",Tail ~!,0.5
+",Tail ~!,0.5,0.7928253
 This is...!,"これってば！
 
-",If this is!,0.6
+",If this is!,0.6,0.60960215
 Not like this one.,"これは…
 ｡
 
 ","this is…
-.",0.3333333333333333
+.",0.3333333333333333,0.29215515
 It's really...,"たたた…
  
 たったったっ…
@@ -125,10 +125,10 @@ It's really...,"たたた…
 ","...
  
 It's hard ...
-.",0.5
+.",0.5,0.47374162
 A real...,"本当の本物のカエルだってばよ！
 
-",It is a real genuine frog!,0.25
+",It is a real genuine frog!,0.25,0.350173
 "<i>But still, one certainly can't</i>
 <i>say he's stable yet...</i>","とはいっても
  
@@ -142,7 +142,7 @@ A real...,"本当の本物のカエルだってばよ！
 not yet
 It can not be said that it is stable
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.6733229
 "<i>To think that of all the frogs</i>
 <i>he summoned that one...</i>","デカいチャクラを使い過ぎたの
 ｡
@@ -150,7 +150,7 @@ It can not be said that it is stable
 
 ","I used to use a big chakra
 .
-➡",0.09090909090909091
+➡",0.09090909090909093,0.106924824
 Huh? Huh? Huh?!,"(ｶﾞﾏﾌﾞﾝ
 太
 )
@@ -166,20 +166,20 @@ Huh? Huh? Huh?!,"(ｶﾞﾏﾌﾞﾝ
 く ガ!
 Ah?
  
-Ah?",0.2857142857142857
+Ah?",0.2857142857142857,0.087265566
 You little brat...,"デヘヘヘ…！
  
 やったってばよ！
 
 ","Deje Hehe ...!
  
-You're done!",0.2222222222222222
+You're done!",0.2222222222222222,0.16569032
 "On whose head do you think
 you're raising a ruckus!","誰の頭の上で
 騒いどる思うとるんじゃ!?
 
 ","Who is on the head
-Don't worry!",0.25
+Don't worry!",0.25,0.5511272
 "This is the top of Gamabunta,
 the Chief Toad's head! You idiot!","ここは
  
@@ -189,15 +189,15 @@ the Chief Toad's head! You idiot!","ここは
 ","here
  
 Gama parents
-It is over the head of Gamabun thick!",0.23809523809523808
+It is over the head of Gamabun thick!",0.2380952380952381,0.5670811
 Oh!,"あぁ！
 
-",Ahh!,0.3333333333333333
+",Ahh!,0.3333333333333333,0.7447411
 W-What the heck is this guy?!,"このボケが～！
 おとなしゅうせ～い！
 
 ","This blur is ~!
-My adults!",0.25
+My adults!",0.25,0.09708061
 "Just when I'm breathing the air of
 the free world after a long time,","ったく
  
@@ -207,7 +207,7 @@ the free world after a long time,","ったく
 ","Geez
  
 after a long time
-Shaba's air caches",0.2631578947368421
+Shaba's air caches",0.2631578947368421,0.2838866
 "some weird kid is raising
 a ruckus on top of my head.","変なガキャあ
 頭の上で騒いどるし
@@ -217,7 +217,7 @@ a ruckus on top of my head.","変なガキャあ
 ","Funny GaCa
 Noisy on my head
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.2412134
 Hey! Jiraiya! Where are you?!,"おい
  
 自来也！
@@ -230,7 +230,7 @@ Hey! Jiraiya! Where are you?!,"おい
 Jiraiya!
 Irregular
  
-Where!?",0.4444444444444444
+Where!?",0.4444444444444444,0.6596383
 "Hmmm... It would be troublesome if
 that Gama found me out...","おっと
  
@@ -242,7 +242,7 @@ that Gama found me out...","おっと
  
 When it is found in the guy of the gama
 I'm troublesome
-.",0.18181818181818182
+.",0.18181818181818185,0.70331526
 Where's Jiraiya?,"(ｶﾞﾏﾌﾞﾝ
 太
 )
@@ -252,7 +252,7 @@ Where's Jiraiya?,"(ｶﾞﾏﾌﾞﾝ
 
 ","Irregular
  
-Where is it?",0.2857142857142857
+Where is it?",0.2857142857142857,0.25754064
 Who's that...?,"あ？
  
 自来也…？
@@ -263,7 +263,7 @@ Who's that...?,"あ？
  
  Jiraiya…? 
  
- Who?",0.2857142857142857
+ Who?",0.2857142857142857,0.26310888
 <i>S-Scary...</i>,"《う…
  
 かぁ～
@@ -274,17 +274,17 @@ Who's that...?,"あ？
  
 Kaa ~
  
-I'm scared ...",0.16666666666666666
+I'm scared ...",0.16666666666666666,0.37257743
 "If you just follow my orders,","おとなしゅう
 言うとおりにしとったら➡
 
 ","Sour
-If you say that",0.2
+If you say that",0.2,0.1883189
 Hurry up and answer me!,"とっとと答えやがらぁ～！
 オッス！
 
 ","Together and answer!
-Oss!",0.375
+Oss!",0.375,0.21573958
 What is it?,"１つ
  
 聞いてもいいっすか？
@@ -293,7 +293,7 @@ What is it?,"１つ
 ","One
  
 May I ask you?
-What is it?",0.4444444444444444
+What is it?",0.4444444444444444,0.45426565
 "What business do you have
 with that Pervy Sage?","あの…
  
@@ -301,26 +301,26 @@ with that Pervy Sage?","あの…
 
 ","that…
  
-What do you use to Erotic Sennin?",0.26666666666666666
+What do you use to Erotic Sennin?",0.26666666666666666,0.18781476
 "That's the question I want
 to ask that pervert!","こっちも
 そいつが聞きたいんじゃ！
 
 ","Here
-I want to hear that!",0.4166666666666667
+I want to hear that!",0.4166666666666667,0.43571737
 "What the heck does he want
 summoning me to a place like this?!","どういうつもりなんじゃ？
 あいつは！
 
 ","What does that mean?
-That guy!",0.2222222222222222
+That guy!",0.2222222222222222,0.26069048
 I fell off the cliff...,"崖から落ちちゃったんで
 ちこっと助けてもらおうと思って
 ｡
 
 ","I fell from the cliff
 I'm thinking of getting a little
-.",0.2857142857142857
+.",0.2857142857142857,0.7077495
 Hmm?,"(ｶﾞﾏﾌﾞﾝ
 太
 )
@@ -334,7 +334,7 @@ Hmm?,"(ｶﾞﾏﾌﾞﾝ
  
 Yeah?
  
-What?",0.25
+What?",0.25,0.39475107
 "What does a kid like you think
 he's saying out of the blue.","ガキが
  
@@ -346,7 +346,7 @@ he's saying out of the blue.","ガキが
  
 Suddenly
 What do you think about what you say ...
-.",0.19047619047619047
+.",0.19047619047619047,0.2615991
 "It's... it's true...
 I really truly summoned you...","なっ…
  
@@ -354,23 +354,23 @@ I really truly summoned you...","なっ…
 
 ","...
  
-It's really true!",0.5
+It's really true!",0.5,0.3758561
 You've been condescending to me,"俺がお前を口寄せしたんだから➡
 
-",Because I went to you,0.2222222222222222
+",Because I went to you,0.2222222222222222,0.22661482
 "Since I summoned you,
 I'm your master!","俺がお前のご主人様
 っつうことなんだかんな！
 
 ","I'm your husband
-It's supposed to be hut!",0.25
+It's supposed to be hut!",0.25,0.26455054
 Huh? What was that?,"ん～？
  
 何じゃと？
 
 ","What?
  
-What is it?",0.2857142857142857
+What is it?",0.2857142857142857,0.5359153
 "Hey, who do you think
 you're talking to?!","誰に向こうて
 口利いとんじゃ？
@@ -380,7 +380,7 @@ you're talking to?!","誰に向こうて
 ","Who is going to
 Don't you like?
  
-Hey!",0.4666666666666667
+Hey!",0.4666666666666667,0.38947633
 "It looks like he emerged on top,
 that Gamabunta...","お～っと！
  
@@ -392,10 +392,10 @@ that Gamabunta...","お～っと！
  
 Apparently
 It looks like it came out above
-.",0.16666666666666666
+.",0.16666666666666666,0.32040912
 Awesome...,"ハハハハ…！➡
 
-",Hahahaha ...!➡,0.2
+",Hahahaha ...!➡,0.2,0.27742702
 "No, concede a thousand steps to you,","百歩譲って
  
 いや
@@ -406,7 +406,7 @@ Awesome...,"ハハハハ…！➡
  
 Disagreeable
  
-10,000 steps",0.08333333333333333
+10,000 steps",0.08333333333333333,0.55373365
 "and even if it really was true that
 it was you who summoned me...","お前がホンマに
  
@@ -416,16 +416,16 @@ it was you who summoned me...","お前がホンマに
 ","You are Honma
  
 Wow
-Even if you call it",0.23529411764705882
+Even if you call it",0.2352941176470588,0.26901245
 "If you're the kind of guy who
 falls off my back that easily,","わしの背中から
 簡単に落ちるようなヤツを➡
 
 ","From my back
-A guy who can easily fall",0.2631578947368421
+A guy who can easily fall",0.2631578947368421,0.6808053
 Huh?! Huh?!,"すっげぇ！
 
-",Susumu!,0.25
+",Susumu!,0.25,0.2043632
 "Now then... I'm here in the
 free world after a long time...","じゃてと
  
@@ -435,27 +435,27 @@ free world after a long time...","じゃてと
 ","In case
  
 It is a shaba after a long time
-.",0.2631578947368421
+.",0.2631578947368421,0.16121438
 I think I'll kick back for a while.,"しばらく
 ぶらぶらしていくかのう
 ｡
 
 ","for a while
 Do you want to hang up
-.",0.26666666666666666
+.",0.26666666666666666,0.33174422
 Hey! Wait!,"おい
  
 待てよ！
 
 ","Oi
  
-Wait!",0.5
+Wait!",0.5,0.62719595
 "If my making you recognize that
 I summoned you","背中から落ちないことで
 俺が呼んだと認めんなら➡
 
 ","By not falling from the back
-If I call you",0.2
+If I call you",0.2,0.24795915
 "Then I won't get off your back
 the entire day today no matter what!","俺は
  
@@ -463,7 +463,7 @@ the entire day today no matter what!","俺は
 
 ","I am
  
-Today's day",0.16666666666666666
+Today's day",0.16666666666666666,0.465284
 What?!,"な…
  
 何のまねじゃ？
@@ -474,43 +474,43 @@ What?!,"な…
  
 What is it?
  
-GaCa!",0.42857142857142855
+GaCa!",0.42857142857142855,0.1735
 "And by my doing that I'll make
 you recognize me as your master!","俺がご主人様だって
 認めさせてやるってばよ！
 
 ","I am a master
-You will be approved!",0.2
+You will be approved!",0.2,0.6045014
 Huh?!,"え!?
 
-",Huh!?,1.0
+",Huh!?,1.0,0.9247392
 Fall!,"(ｶﾞﾏﾌﾞﾝ
 太
 )
 落ちりゃ～！
 
-",Fall!,1.0
+",Fall!,1.0,1.0
 Chakra adhesion!,"チャクラが足りねえってばよ！
 
-",You're addicted to Chakra!,0.2857142857142857
+",You're addicted to Chakra!,0.2857142857142857,0.61743975
 My name is Naruto Uzumaki!,"俺の名前は
  
 うずまきナルト！
 
 ","My name is
  
-Uzumaki Naruto!",1.0
+Uzumaki Naruto!",1.0,0.9875949
 "I'm a man who will become Hokage
 in the future. Don't forget that!","将来 火影になる男だ覚えとけ～！
 
-",A man who will be affordable in the future.,0.42105263157894735
+",A man who will be affordable in the future.,0.42105263157894735,0.37227824
 This is getting pretty interesting.,"ずいぶんと
 おもしろいことになっとるのう
 ｡
 
 ","Very much
 It will be interesting
-.",0.18181818181818182
+.",0.18181818181818185,0.59242624
 Hey!,"(
 女性１
 )
@@ -520,7 +520,7 @@ Hey!,"(
 
 ","!
  
-Haha!",0.3333333333333333
+Haha!",0.3333333333333333,0.3675111
 Oh my gosh!,"あ～！
 (
 自来也
@@ -533,7 +533,7 @@ Oh my gosh!,"あ～！
 
 Huhofu ...
 .
-➡",0.25
+➡",0.25,0.3870239
 "Sorry Naruto,
 but I've gotta get back to work!","わしは
 仕事に戻らせてもらおうかのう
@@ -541,7 +541,7 @@ but I've gotta get back to work!","わしは
 
 ","Wow
 Let's get back to work
-.",0.23529411764705882
+.",0.2352941176470588,0.4756766
 Research... research...,"お？
  
 オホホホ…
@@ -550,7 +550,7 @@ Research... research...,"お？
 ","Oh?
  
 Ohohoho ...
-.",0.16666666666666666
+.",0.16666666666666666,0.14769383
 Welcome!,"(ｶﾞﾏﾌﾞﾝ
 太
 )
@@ -560,7 +560,7 @@ Welcome!,"(ｶﾞﾏﾌﾞﾝ
 
 ","!
  
-!",0.5
+!",0.5,0.31590828
 I'm gonna eat my fill.,"(
 店主
 )
@@ -578,13 +578,13 @@ I'm sorry!
 
 In
  
-I will eat!",0.23076923076923078
+I will eat!",0.2307692307692308,0.42571154
 "More importantly,
 that guy Shikamaru or whatever,","それより
 あのシカマルとかってヤツ➡
 
 ","Same
-That shikamaru is a guy",0.2727272727272727
+That shikamaru is a guy",0.2727272727272727,0.8346024
 "he's the first guy
 you're fighting, right?","確か
  
@@ -594,11 +594,11 @@ you're fighting, right?","確か
 ","Sure
  
 Oblivious
-Is it a guy who fights first?",0.16666666666666666
+Is it a guy who fights first?",0.16666666666666666,0.7155301
 "Shouldn't you be formulating
 a battle plan?","戦略を練らなくていいのかよ？
 
-",Should I not have a strategy?,0.23076923076923078
+",Should I not have a strategy?,0.2307692307692308,0.54358923
 "Humph... There's no way I would
 lose to a guy of that level...","フン
  
@@ -610,12 +610,12 @@ lose to a guy of that level...","フン
  
 To that kind of guy
 I can not lose
-.",0.3
+.",0.3,0.40785527
 Don't say it...,"言うな
 ｡
 
 ","Do not say
-.",0.2857142857142857
+.",0.2857142857142857,0.6026194
 What was that?!,"＜え？
  
 今
@@ -626,7 +626,7 @@ What was that?!,"＜え？
  
 now
  
-What?>",0.2222222222222222
+What?>",0.2222222222222222,0.2148035
 "I'll have the three of you from
 our Sand Village take the exam...","砂の里からは
 お前たち３人を受験させる
@@ -636,7 +636,7 @@ our Sand Village take the exam...","砂の里からは
 ","From the sand village
 Get three people
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.6266473
 "But the reason for doing that
 is not to pass the Chunin Exam!","だが
  
@@ -650,10 +650,10 @@ is not to pass the Chunin Exam!","だが
 It is in Nakanobu Test
 Not to pass
 .
-➡",0.2631578947368421
+➡",0.2631578947368421,0.54935
 to crush Leaf Village!,"木ノ葉の里を潰すためだ＞
 
-",To crush the village of the tree>,0.3333333333333333
+",To crush the village of the tree>,0.3333333333333333,0.7746737
 "But why? Don't we have
 a treaty with Leaf Village?!","＜なぜ？
  
@@ -661,7 +661,7 @@ a treaty with Leaf Village?!","＜なぜ？
 
 ","<Why?
  
-Between the wood and sands",0.10526315789473684
+Between the wood and sands",0.10526315789473684,0.24256377
 That treaty is the problem.,"(
 バキ
 )
@@ -669,15 +669,15 @@ That treaty is the problem.,"(
 その同盟条約が問題なのだ＞
 
 ","<Hun
-The Alliance Treaty is a problem>",0.36363636363636365
+The Alliance Treaty is a problem>",0.3636363636363637,0.7725125
 What do you mean?,"＜どういうことだよ？＞
 
-",<What does it mean?>,0.3333333333333333
+",<What does it mean?>,0.3333333333333333,0.16268535
 he delegated to the Leaf Village,"わが里になすべき依頼を
 木ノ葉にし➡
 
 ","Request to be done in a violent village
-Kino leaves",0.14285714285714285
+Kino leaves",0.14285714285714285,0.38831452
 "significantly cut our country's budget
 and slashed the number of Shinobi.","忍の数も大量に削減した
 ｡
@@ -685,13 +685,13 @@ and slashed the number of Shinobi.","忍の数も大量に削減した
 
 ","Number of Shinobu also reduced a lot
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.6241812
 "we, the arms and legs
 of the country, suffer.","条約締結を機に
 風の国のばか大名は➡
 
 ","Converted by conclusion
-The fool of the wind country is ➡",0.17647058823529413
+The fool of the wind country is ➡",0.17647058823529413,0.28924993
 "The only choice we had left
 was to improve the quality","わが里は
  
@@ -699,7 +699,7 @@ was to improve the quality","わが里は
 
 ","I am
  
-To maintain the strength",0.14285714285714285
+To maintain the strength",0.14285714285714285,0.13040073
 "That's why Shinobi like
 you were created...","だから
  
@@ -713,7 +713,7 @@ you were created...","だから
 A Shinobu like you
 It was produced
 .
-➡",0.3125
+➡",0.3125,0.77073514
 "The Land of Wind's security is
 in extreme danger right now!","今
  
@@ -721,7 +721,7 @@ in extreme danger right now!","今
 
 ","now
  
-The wind country is ➡",0.26666666666666666
+The wind country is ➡",0.26666666666666666,0.6206249
 "But the aides
 of that idiot feudal lord...","だが
  
@@ -729,16 +729,16 @@ of that idiot feudal lord...","だが
 
 ","But
  
-That great name and the side nearby",0.21428571428571427
+That great name and the side nearby",0.21428571428571427,0.20970283
 don't have a clue!,"そのことが分かっていない！➡
 
-",I do not know that!➡,0.18181818181818182
+",I do not know that!➡,0.18181818181818185,0.52227986
 "who detected the weakening in the military
 strength of the Hidden Sand Village,","砂隠れの戦力低下に
 危機を感じた風影様は➡
 
 ","In the decline in sand tube
-The wind shadow that felt the crisis",0.15789473684210525
+The wind shadow that felt the crisis",0.15789473684210525,0.42539263
 "and decided to take down
 the Hidden Leaf Village...","木ノ葉を落とすことにしたのだ
 ｡
@@ -746,34 +746,34 @@ the Hidden Leaf Village...","木ノ葉を落とすことにしたのだ
 
 ","I decided to drop the wooden leaves
 .
-➡",0.1875
+➡",0.1875,0.5415914
 "this needs to be done in order
 to make that idiot feudal lord","ばか大名に
 知らしめてやるために！＞
 
 ","To the fool
-In order to know!>",0.17647058823529413
+In order to know!>",0.17647058823529413,0.23391286
 "aware of the importance of
 crisis preparedness...","国の危機管理の重要性を➡
 
-",The importance of crisis management of the country,0.4444444444444444
+",The importance of crisis management of the country,0.4444444444444444,0.69515485
 "If any more time passes,
 our Sand Village will totally lose","砂の里の威信回復と同時に➡
 
-",At the same time as the prestige recovery of sand village,0.15789473684210525
+",At the same time as the prestige recovery of sand village,0.15789473684210525,0.6204133
 "If the strategy is carried out,","(
 バキ
 )
 ＜作戦が決行されれば➡
 
-",<If the operation is decided ➡,0.2727272727272727
+",<If the operation is decided ➡,0.2727272727272727,0.4289314
 We'll be at war again...?,"＜また
  
 戦争になるのか？➡
 
 ","<Also
  
-Will it be a war?➡",0.21428571428571427
+Will it be a war?➡",0.21428571428571427,0.55102026
 "and if it is broken... then again...
 many people will die...","また
  
@@ -781,7 +781,7 @@ many people will die...","また
 
 ","also
  
-Many people die ...>",0.2857142857142857
+Many people die ...>",0.2857142857142857,0.47539797
 H-Hey... Temari...,"＜お…
  
 おい
@@ -792,45 +792,45 @@ H-Hey... Temari...,"＜お…
  
 Oi
  
-Temari>",0.3333333333333333
+Temari>",0.3333333333333333,0.7109022
 Of Lord Kazekage?,"＜風影様の？＞
 
-",<Are you wind shadow?>,0.1
+",<Are you wind shadow?>,0.1,0.1054832
 "After all, Shinobi are simply
 tools for fighting","あれだけの犠牲を払って
 作り上げられた➡
 
 ","Pay only for that
-It was created",0.06666666666666667
+It was created",0.06666666666666668,0.013924262
 "The treaty did nothing more than
 jeopardize our very existence.","われわれの存在を脅かすものに
 すぎなかったというわけだ＞
 
 ","To threaten our existence
-It was not too much>",0.10526315789473684
+It was not too much>",0.10526315789473684,0.48575622
 This is a super A rank mission.,"＜これは超Ａ級任務だ
 ｡
 ➡
 
 ","<This is a super A class task
 .
-➡",0.45454545454545453
+➡",0.4545454545454545,0.3349758
 See it through with great care!,"心して
  
 かかるように＞
 
 ","In mind
  
-Do it like this>",0.07692307692307693
+Do it like this>",0.07692307692307693,0.23840748
 "A day sure is long when
 one's not doing anything.","やたら一日が長いじゃん
 ｡
 
 ","The day is long
-.",0.3076923076923077
+.",0.3076923076923077,0.63763803
 <i>Darn... What an obstinate little squirt.</i>,"＜はっ＞
 
-",<Ha>,0.16666666666666666
+",<Ha>,0.16666666666666666,0.3900041
 "Goodness... that Naruto seems
 like he's in agony...","(
 自来也
@@ -841,12 +841,12 @@ like he's in agony...","(
 
 ","Oh yo
  
-Naruto's guy ➡",0.14285714285714285
+Naruto's guy ➡",0.14285714285714285,0.6189828
 Gorgeous...,"フフフ…
 ｡
 
 ","Fuhufu ...
-.",0.25
+.",0.25,0.19103074
 "Yeah, yeah, absolutely gorgeous, isn't it.","うんうん
  
 ステキじゃのう
@@ -855,7 +855,7 @@ Gorgeous...,"フフフ…
 ","Yes Yes
  
 It is wonderful
-.",0.3
+.",0.3,0.49737042
 "Good work, Baki.","(
 風影
 )
@@ -867,7 +867,7 @@ It is wonderful
 ","I'm a hard time
  
 Baki
-.",0.2
+.",0.2,0.5526258
 to the real battle as planned.,"本選へと駒を進めました
  
 風影様
@@ -876,7 +876,7 @@ to the real battle as planned.,"本選へと駒を進めました
 ","I promoted the piece to win
  
 Wind shadow
-.",0.23076923076923078
+.",0.2307692307692308,0.28728485
 "The agreement with the Sound Village side
 has been progressing with no problem too.","(
 風影
@@ -889,13 +889,13 @@ has been progressing with no problem too.","(
 ","HM
  
 Conditioning with the sound side
-Don't you leave?",0.2
+Don't you leave?",0.2,0.2852555
 You still have something you want?,"(
 風影
 )
 まだ何用か？
 
-",How do you still?,0.375
+",How do you still?,0.375,0.43642986
 What is it? Come out with it.,"(
 バキ
 )
@@ -915,7 +915,7 @@ What is it? Come out with it.,"(
 What?
  
 Apply
-.",0.3
+.",0.3,0.18127851
 "That's why I sent Gaara and
 the others out there.","(
 風影
@@ -928,11 +928,11 @@ the others out there.","(
 ","for that reason
 I went to Yasira
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.34150872
 "The restoration of the authority of
 the Hidden Sand Village is resting on you.","砂隠れの里の威信回復は➡
 
-",The prestige recovery of the village of sand tightness is ➡,0.3125
+",The prestige recovery of the village of sand tightness is ➡,0.3125,0.5598761
 Well... Go.,"では
  
 行け
@@ -941,49 +941,49 @@ Well... Go.,"では
 ","In
  
 go
-.",0.4
+.",0.4,0.5458033
 "There's only a little more time remaining
 until the sun sets completely...","もう少しだってばよ
 ｡
 
 ","It's a little more
-.",0.25
+.",0.25,0.26527005
 and if I don't fall off...,"太陽が完全に沈むまで
 こっから落ちなけりゃ➡
 
 ","Until the sun is completely sinked
-If you don't fall here",0.25
+If you don't fall here",0.25,0.47852942
 I'll be the master!,"俺が
  
 ご主人様だかんな～！
 
 ","I
  
-Master's husband!",0.375
+Master's husband!",0.375,0.57535577
 "Hey, brat... what's your name?","ガキ
  
 名前は何ちゅうたかの？
 
 ","Gook
  
-What did your name?",0.36363636363636365
+What did your name?",0.3636363636363637,0.5571644
 It's Naruto Uzumaki!,"ナルト！
 うずまきナルトだってばよ！
 
 ","Naruto!
-It's a nutshell Naruto!",0.5714285714285714
+It's a nutshell Naruto!",0.5714285714285714,0.7470063
 Naruto Uzumaki... Naruto!,"うずまきナルトのう
 ｡
 
 ","Uzumaki Naruto
-.",0.4
+.",0.4,0.9017313
 Don't hold it against me if you die!,"ナルト
  
 死んでも恨むなよ！
 
 ","Naruto
  
-Don't be died even if you die!",0.42857142857142855
+Don't be died even if you die!",0.42857142857142855,0.43170136
 That Gamabunta!,"(ｶﾞﾏﾌﾞﾝ
 太
 )
@@ -993,7 +993,7 @@ That Gamabunta!,"(ｶﾞﾏﾌﾞﾝ
 
 ","Hun!
  
-Da ~!",0.16666666666666666
+Da ~!",0.16666666666666666,0.28184927
 "No! This is the sizzling young ladies'
 entertainment spot!","ノー！
  
@@ -1003,7 +1003,7 @@ entertainment spot!","ノー！
 ","No!
  
 Pichi Pichi Gal
-Enjoy spots ~!",0.13333333333333333
+Enjoy spots ~!",0.13333333333333333,0.40666386
 That Naruto...,"(
 自来也
 )
@@ -1013,7 +1013,7 @@ That Naruto...,"(
 
 ","""Naruto guy
  
-From that condition",0.2857142857142857
+From that condition",0.2857142857142857,0.7647407
 "How do you like that, Gamabunta?
 I'm still on your back!","俺はまだ
  
@@ -1021,7 +1021,7 @@ I'm still on your back!","俺はまだ
 
 ","I'm still
  
-It's over your back!",0.3333333333333333
+It's over your back!",0.3333333333333333,0.5331721
 Oh no! If he falls like that he'll die!,"いかん
  
 あのまま落ちたら死ぬぞ
@@ -1030,7 +1030,7 @@ Oh no! If he falls like that he'll die!,"いかん
 ","Dumpling
  
 I will die if I fall down
-.",0.125
+.",0.125,0.5152355
 <i>I am fully aware of the fact that...</i>,"何せ
  
 わしの頭の上に
@@ -1039,7 +1039,7 @@ I will die if I fall down
 ","What
  
 On the head of the
-I got rid of it",0.16666666666666666
+I got rid of it",0.16666666666666666,0.08083419
 "<i>this guy here summoned</i>
 <i>me all on his own.</i>","こいつが自力で
 わしを呼び出したことぐらい
@@ -1049,11 +1049,11 @@ I got rid of it",0.16666666666666666
 ","This guy is self-made
 I'm about to call for
 .
-➡",0.13636363636363635
+➡",0.13636363636363635,0.32057437
 "<i>I mean, it's the first time since</i>
 <i>the Fourth Hokage</i>","四代目以来じゃけのう｡➡
 
-","Since the fourth generation, it will be",0.29411764705882354
+","Since the fourth generation, it will be",0.29411764705882354,0.30915472
 "<i>As might be expected,</i>
 <i>he must be totally drained.</i>","さすがに
  
@@ -1067,7 +1067,7 @@ I'm about to call for
 Already
 Sulky
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.32920343
 Huh? What!,"(
 看護師
 )
@@ -1077,7 +1077,7 @@ Huh? What!,"(
 
 ","...
  
-what!?",0.6
+what!?",0.6,0.6781583
 <i>Four! Sanchez is a lousy bullfighter. Ole!</i>,"♬
  
 あれもこれも土足で
@@ -1092,7 +1092,7 @@ That's also a minor
 hug
 ·
 Kiss
-· I LOVE YOU",0.08695652173913043
+· I LOVE YOU",0.08695652173913042,0.08510529
 "<i>Two! Peking Duck, Action Scene,</i>
 <i>Chen Lee speeds around on his bike</i>","♬
  
@@ -1108,7 +1108,7 @@ Peking duck
  Wire action
 Rushed chain in char
 ·
-Lee",0.16
+Lee",0.16,0.56564337
 "The childhood phantasms
 are repeated in the daydream.","♬
  
@@ -1118,4 +1118,4 @@ are repeated in the daydream.","♬
 ","♬
  
 Immersed in graphite digging
-Podima Hattayan",0.07142857142857142
+Podima Hattayan",0.07142857142857142,0.09158917

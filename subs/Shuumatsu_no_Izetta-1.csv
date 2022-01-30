@@ -1,274 +1,274 @@
-en_text,jp_text,google_translated,score
-"Dorothée, let's race to the cabin!",ドロテ！ 小屋まで競争よ,Dorote!Competition to huts,0.16666666666666666
-Did you see that?,見た？ 今の…,saw?Now ...,0.125
-Lady Finé.,（ヘルマン）フィーネ様…,Fine ...,0.0
+en_text,jp_text,google_translated,score,semantic_score
+"Dorothée, let's race to the cabin!",ドロテ！ 小屋まで競争よ,Dorote!Competition to huts,0.16666666666666666,0.5377456
+Did you see that?,見た？ 今の…,saw?Now ...,0.125,0.2627932
+Lady Finé.,（ヘルマン）フィーネ様…,Fine ...,0.0,0.3784743
 Please wake up.,"（ヘルマン）
-目を お覚ましください",Please wake up,0.75
-"Look there, Princess.",（トビアス）姫様…,princess ...,0.16666666666666666
-A random inspection?,（フィーネ）臨検か？,?,0.25
-You have no right to do this. This is a neutral country.,（父親）中立国で横暴だぞ,It is transguous in neutral countries,0.125
-Damn those Germanian soldiers.,ゲルマニア兵め…,Germanian soldier ...,0.14285714285714285
+目を お覚ましください",Please wake up,0.75,0.9161986
+"Look there, Princess.",（トビアス）姫様…,princess ...,0.16666666666666666,0.6075266
+A random inspection?,（フィーネ）臨検か？,?,0.25,0.126824
+You have no right to do this. This is a neutral country.,（父親）中立国で横暴だぞ,It is transguous in neutral countries,0.125,0.5138653
+Damn those Germanian soldiers.,ゲルマニア兵め…,Germanian soldier ...,0.14285714285714285,0.7884678
 What the heck is the Westrian government doing?,"（乗客）
-ヴェストリア政府は何をしてるの？",What are the Vestria government doing?,0.5
-Stop right there!,おい！ そこの！,Oi!there!,0.4
-Tobias!,（フィーネ）トビアス！,Tobias!,1.0
+ヴェストリア政府は何をしてるの？",What are the Vestria government doing?,0.5,0.6592603
+Stop right there!,おい！ そこの！,Oi!there!,0.4,0.52697873
+Tobias!,（フィーネ）トビアス！,Tobias!,1.0,1.0000001
 What do you think you're doing? \NThis is the first-class compartment!,"（乗客たち）
 キャーッ！
 何だね？","Care!
-What is it?",0.26666666666666666
-I'll take a look.,（リッケルト）見てきます,I will see,0.125
-My cousin is a high-ranking official in the Westrian—,ジークライヒ 特務の者だ,It is a person in JK RIHI,0.23076923076923078
-You're in the way!,邪魔だ！,in the way!,0.6666666666666666
+What is it?",0.26666666666666666,0.20405932
+I'll take a look.,（リッケルト）見てきます,I will see,0.125,0.28133002
+My cousin is a high-ranking official in the Westrian—,ジークライヒ 特務の者だ,It is a person in JK RIHI,0.2307692307692308,0.16285725
+You're in the way!,邪魔だ！,in the way!,0.6666666666666666,0.7495237
 I'm sorry for the trouble.,"お騒がせして申し訳ありません
 実は…","Sorry for making a mistake
-actually…",0.18181818181818182
-The princess of Eylstadt?,これは一体 何の騒ぎだ？,What is the fuss of this?,0.3333333333333333
+actually…",0.18181818181818185,0.50792944
+The princess of Eylstadt?,これは一体 何の騒ぎだ？,What is the fuss of this?,0.3333333333333333,0.06209604
 "Your dedication to your job is highly appreciated,","（ベルクマン）
-職務に忠実なのはいいが",It is good to be faithful to duties,0.15384615384615385
+職務に忠実なのはいいが",It is good to be faithful to duties,0.15384615384615385,0.459227
 but I'm not too fond of the trouble you're causing on a Westrian train.,"中立国ヴェストリアの列車内で
 騒ぎ立てるのは感心しないな","In the train in Vestoria, Nakary
-I do not impress my noise",0.16
-Major...,（リッケルト）少佐…,Major ...,1.0
-I'm terribly sorry.,（ゲール兵）申し訳ありません,Sorry for the,0.14285714285714285
-"But why would Princess Ortfiné,",しかし このタイミングで,But at this time,0.1111111111111111
+I do not impress my noise",0.16,0.35112748
+Major...,（リッケルト）少佐…,Major ...,1.0,1.0000001
+I'm terribly sorry.,（ゲール兵）申し訳ありません,Sorry for the,0.14285714285714285,0.3711369
+"But why would Princess Ortfiné,",しかし このタイミングで,But at this time,0.1111111111111111,0.16222723
 I don't think so.,"あっ…！
 まさか ヴェストリアに亡命を？","Ah…!
-Do you exile for Vestoria?",0.07692307692307693
-"Knowing that Archduke, \NI'm sure his family wouldn't flee.",いや あの大公の一族なら,"No, the family of the Grand Duke",0.1111111111111111
+Do you exile for Vestoria?",0.07692307692307693,0.18389589
+"Knowing that Archduke, \NI'm sure his family wouldn't flee.",いや あの大公の一族なら,"No, the family of the Grand Duke",0.1111111111111111,0.36151323
 They would rather fight to the very last man.,"逃げるより 最後まであがいて
 討たれるほうを選ぶだろう","From the end of escape until the end
-I will choose to be understood",0.1
+I will choose to be understood",0.1,0.1837676
 Why would the princess of a small country that lives in fear of Germanian invasion,"我がゲルマニア帝国の侵攻に脅(おび)える
 小国の姫が","Threat for the invasion of the Germania Empire
-Princess of the small country",0.3333333333333333
+Princess of the small country",0.3333333333333333,0.82677895
 make a personal visit to a neutral land?,"自ら
 中立国に出向いてきたとすれば…","oneself
-If you have come to a neutral country ...",0.2
-Political negotiations with the Allies?,同盟諸国側との政治交渉,Political negotiations with alliance countries,0.375
-I would guess...,（トビアス）うっ… ううっ…,Uh ...,0.2
+If you have come to a neutral country ...",0.2,0.45186552
+Political negotiations with the Allies?,同盟諸国側との政治交渉,Political negotiations with alliance countries,0.375,0.80106145
+I would guess...,（トビアス）うっ… ううっ…,Uh ...,0.2,0.34988397
 The meeting with the Britannian ambassador is tomorrow.,"明日の
 ブリタニア外相との会談までには","tomorrow's
-By the meeting with Britannia",0.2727272727272727
+By the meeting with Britannia",0.2727272727272727,0.61437756
 I'll make it to Albringen even if it kills me.,"死んでもアルブリンゲンに
 たどりついてみせる","Even if dead, albrine
-I'm sorry",0.1875
+I'm sorry",0.1875,0.60969985
 We must spur the Allies to action!,"絶対に
 同盟国を動かさねばならんのだ","absolutely
-I have to move my allies",0.15384615384615385
-Perhaps this is fate?,これも因縁でしょうか？,Is this also the cause?,0.375
+I have to move my allies",0.15384615384615385,0.53025395
+Perhaps this is fate?,これも因縁でしょうか？,Is this also the cause?,0.375,0.25310075
 "But if you intend to put up a fight, \NI do hope you'll hurry,","とはいえ
 あがくなら なるべく急ぎたまえ","Although
-If you get rid of it, it hurry",0.2
-Princess!,（トビアス）姫様！,Princess  Princess!,1.0
-"Lady Finé, I'm pulling you up now.",フィーネ様！ 今 引き上げます,Fiine!I will pull up now,0.21428571428571427
-Wait!,待て！ うっ…,wait!Uey ...,0.5
-Lady Finé!,フィーネ様！,Fiine!,0.25
-What is this coffin?,（フィーネ）この棺(ひつぎ)は何だ？,What is this coffin?,1.0
-"That's top-secret information, I'm afraid.",（ベルクマン）最重要機密です,The most important confidentiality,0.0
-Don't give up.,諦めるな,Do not give up,0.5
-"Once we're through this tunnel, we'll cross a bridge.",このトンネルを抜けると鉄橋だ,"If you get out of this tunnel, it is the iron bridge",0.19047619047619047
-"Hermann, take care of Tobias for me, okay?",ヘルマン トビアスを頼んだぞ,I asked for Herman Tobias,0.15384615384615385
+If you get rid of it, it hurry",0.2,0.42245007
+Princess!,（トビアス）姫様！,Princess  Princess!,1.0,0.9036976
+"Lady Finé, I'm pulling you up now.",フィーネ様！ 今 引き上げます,Fiine!I will pull up now,0.21428571428571427,0.5514869
+Wait!,待て！ うっ…,wait!Uey ...,0.5,0.59859824
+Lady Finé!,フィーネ様！,Fiine!,0.25,0.35575637
+What is this coffin?,（フィーネ）この棺(ひつぎ)は何だ？,What is this coffin?,1.0,1.0
+"That's top-secret information, I'm afraid.",（ベルクマン）最重要機密です,The most important confidentiality,0.0,0.5306322
+Don't give up.,諦めるな,Do not give up,0.5,0.80902493
+"Once we're through this tunnel, we'll cross a bridge.",このトンネルを抜けると鉄橋だ,"If you get out of this tunnel, it is the iron bridge",0.19047619047619047,0.74019194
+"Hermann, take care of Tobias for me, okay?",ヘルマン トビアスを頼んだぞ,I asked for Herman Tobias,0.15384615384615385,0.6594787
 Right!,"（フィーネ）飛ぶぞ！
 （ヘルマン）はっ！","fly!
-!",0.3333333333333333
-She's every bit the tomboy they say she is.,それは最重要機密なんだよ,That is the most important,0.15384615384615385
+!",0.3333333333333333,0.36901706
+She's every bit the tomboy they say she is.,それは最重要機密なんだよ,That is the most important,0.15384615384615385,0.049251433
 "Just who, exactly, is this girl?","この少女は
 一体 何なのでありますか？","This girl is
-What is it?",0.4
+What is it?",0.4,0.59297776
 Weren't you listening?,"（ベルクマン）やれやれ…
 聞いてなかったのかな？","Good morning ...
-Did not you hear?",0.18181818181818182
-belonging to the Emperor himself.,皇帝陛下 直々(じきじき)のね,Emperor Majesty Same,0.125
-"Hang in there, Sergeant!",軍曹！,Sergeant!,0.3333333333333333
-Where's the princess?,あ… 姫様は…？,Oh ... What is the princess ...?,0.3333333333333333
-And it's thanks to you.,ここにおる　そなたのおかげだ,It is thanks to you here,0.4444444444444444
-Princess...,（トビアス）姫… 様…,princess ... like ...,0.6666666666666666
-Please... save our country.,俺たちの国を どうか…,How about our country ...,0.375
+Did not you hear?",0.18181818181818185,0.45729083
+belonging to the Emperor himself.,皇帝陛下 直々(じきじき)のね,Emperor Majesty Same,0.125,0.51710737
+"Hang in there, Sergeant!",軍曹！,Sergeant!,0.3333333333333333,0.76854295
+Where's the princess?,あ… 姫様は…？,Oh ... What is the princess ...?,0.3333333333333333,0.8216229
+And it's thanks to you.,ここにおる　そなたのおかげだ,It is thanks to you here,0.4444444444444444,0.6661474
+Princess...,（トビアス）姫… 様…,princess ... like ...,0.6666666666666666,0.82338583
+Please... save our country.,俺たちの国を どうか…,How about our country ...,0.375,0.57572263
 Leave it to me!,"任せろ！ この命に代えても
 エイルシュタットは守ってみせる","Leave it!Even if this lives
-Find out Ayrstadt",0.25
-I shall never forget your loyalty.,そなたの忠義 決して忘れぬぞ…,Never forget your loyalty ...,0.5
-"On September 1st, 1939,",（ナレーション）1939年９月１日,"September 1, 1939",0.5
+Find out Ayrstadt",0.25,0.46339434
+I shall never forget your loyalty.,そなたの忠義 決して忘れぬぞ…,Never forget your loyalty ...,0.5,0.8445746
+"On September 1st, 1939,",（ナレーション）1939年９月１日,"September 1, 1939",0.5,0.96384573
 "In response, the Kingdom of Britannia and the Republic of Thermidor","これに対し ブリタニア王国と
 テルミドール共和国は","On the other hand, with the Kingdom of Britannia
-Terme Dor Republic",0.375
-declared war on Germania \Nand opened hostilities against it.,ゲルマニアに宣戦を布告,Dec a war in Germania,0.15384615384615385
+Terme Dor Republic",0.375,0.80161595
+declared war on Germania \Nand opened hostilities against it.,ゲルマニアに宣戦を布告,Dec a war in Germania,0.15384615384615385,0.73979294
 "And even after defeating Thermidor, \Nwhich was thought to be a powerful threat,","エイルシュタット公国へ
 向けようとしていた","To Warstadt
-I was trying to",0.11764705882352941
+I was trying to",0.1176470588235294,0.22439288
 "it is now about to bare its fangs against the tiny Alpine state to its south,","その牙を今
 南部で国境を接するアルプスの小国","The fangs now
-Alps small country in the southern part",0.14285714285714285
+Alps small country in the southern part",0.14285714285714285,0.6756151
 "Now is not the time to cry or be feeling down, Finé.","嘆いたり
 落ち込んだりしている暇は無いぞ","Lamentation
-There is no free time to fall",0.15789473684210525
+There is no free time to fall",0.15789473684210525,0.3574033
 "Princess, what was that noise?","（ヘルマン）
-姫様！ 今の音は？",Princess!What is the sound now?,0.25
-Are my clothes ready?,着替えの用意はできたか？,Did you make a change of clothes?,0.18181818181818182
+姫様！ 今の音は？",Princess!What is the sound now?,0.25,0.7738062
+Are my clothes ready?,着替えの用意はできたか？,Did you make a change of clothes?,0.18181818181818185,0.58780795
 I had the innkeeper prepare you a set.,"案ずるな
 ちと気合いを入れただけだ","Unparalleled
-I just put a spirit",0.15384615384615385
+I just put a spirit",0.15384615384615385,0.20588954
 Then ensure that she is rewarded handsomely.,"姫様のお役に立てて
 大変 光栄だと申しておりました","Princess helpful
-She said that she is very honored",0.23076923076923078
-"Even if this is neutral territory, \Nit's still dangerous to let me stay here.",中立国とはいえ,Even in neutral countries,0.10526315789473684
+She said that she is very honored",0.2307692307692308,0.41536334
+"Even if this is neutral territory, \Nit's still dangerous to let me stay here.",中立国とはいえ,Even in neutral countries,0.10526315789473684,0.42586827
 "It's the trust of the people that keeps me alive, isn't it?","民の信頼に生かされているのだな
 私は…","It is aligned for the trust of people
-I…",0.35294117647058826
-Weiße Hexe.,ヴァイスエクセ,Vice Exceed,0.0
-The White Witch...,“白き魔女”か…,"""White witch"" ...",0.5
-"The folks at the workshop tell me \Nthat even though it wasn't for long,",ああ　工房の連中によれば,"Oh, according to the workshop",0.16666666666666666
+I…",0.35294117647058826,0.60529256
+Weiße Hexe.,ヴァイスエクセ,Vice Exceed,0.0,0.078808606
+The White Witch...,“白き魔女”か…,"""White witch"" ...",0.5,0.9230067
+"The folks at the workshop tell me \Nthat even though it wasn't for long,",ああ　工房の連中によれば,"Oh, according to the workshop",0.16666666666666666,0.66511595
 the fact that it was opened makes it slightly dangerous.,"短時間とはいえ
 開封されたのは少々 危険らしい","Hayashi
-It seems a little dangerous to be opened",0.1875
+It seems a little dangerous to be opened",0.1875,0.6301987
 They want it sent to the Imperial Capital \Nas soon as possible.,"帝都に送ってほしい
 とのことだからね","I want you to send it to the imperial capital
-Because it is",0.3333333333333333
-Do you really believe she wiped out an entire company on her own?,ここからは空輸ですか？,Are you airborne from here?,0.1111111111111111
-But His Majesty seems \Nto be a rather big fan of that legend.,だが 陛下はあの伝説に ご執心だし,But His Majesty is in that legend,0.3125
-It's our job to investigate.,調べるのが我々の仕事だよ,It is our job to investigate,0.625
+Because it is",0.3333333333333333,0.73879737
+Do you really believe she wiped out an entire company on her own?,ここからは空輸ですか？,Are you airborne from here?,0.1111111111111111,0.06946345
+But His Majesty seems \Nto be a rather big fan of that legend.,だが 陛下はあの伝説に ご執心だし,But His Majesty is in that legend,0.3125,0.89595616
+It's our job to investigate.,調べるのが我々の仕事だよ,It is our job to investigate,0.625,0.9562776
 wouldn't it be romantic?,"もし 真実なら
 ロマンチックだとは思わないかい？","If it is truth
-Do you not think it's romantic?",0.21428571428571427
+Do you not think it's romantic?",0.21428571428571427,0.6124376
 I'm sorry for interrupting your evening.,"（フィーネ）
-お楽しみのところ申し訳ない",I'm sorry for the place of fun,0.3333333333333333
+お楽しみのところ申し訳ない",I'm sorry for the place of fun,0.3333333333333333,0.48326212
 You've become so beautiful!,"（レッドフォード卿）
-お美しくなられた！",It was beautiful!,0.25
+お美しくなられた！",It was beautiful!,0.25,0.4157202
 Now I can see why Prince Henry is so taken by you.,"我らがヘンリー王子が
 恋焦がれるのも むべなるかな","We are the prince of Henry
-I wonder if he will be lovers",0.13043478260869565
-"I see you're as skilled at flattery as ever, Lord Redford.",相変わらず お上手でいらっしゃる,"As usual, it is good",0.11764705882352941
+I wonder if he will be lovers",0.13043478260869565,0.70379627
+"I see you're as skilled at flattery as ever, Lord Redford.",相変わらず お上手でいらっしゃる,"As usual, it is good",0.1176470588235294,0.15078291
 His Highness was moved by the letter you sent.,"丁寧な親書
 陛下も感動しておられました","Polite parent
-Majesty was also moved",0.14285714285714285
-How is your father doing?,お父上の具合は？,What is your dad?,0.375
-I see!,ご心配には及びません,I am not worried,0.16666666666666666
+Majesty was also moved",0.14285714285714285,0.5256535
+How is your father doing?,お父上の具合は？,What is your dad?,0.375,0.66961855
+I see!,ご心配には及びません,I am not worried,0.16666666666666666,0.09826218
 That is wonderful news.,"もはやベッドから起きることも
 ままならぬという情報は","It is no longer happening from the bed
-Information that it is not good",0.13333333333333333
-So it seems.,間違いだったようですな,It seems that it was a mistake,0.25
-You're going to be an excellent leader.,あなたは良い君主になりそうだ,You will be a good monarch,0.15384615384615385
+Information that it is not good",0.13333333333333333,0.13461249
+So it seems.,間違いだったようですな,It seems that it was a mistake,0.25,0.4762685
+You're going to be an excellent leader.,あなたは良い君主になりそうだ,You will be a good monarch,0.15384615384615385,0.52831733
 I'm honored by your saying so.,"（フィーネ）
-お褒めにあずかり光栄です",I am honored to praise,0.18181818181818182
+お褒めにあずかり光栄です",I am honored to praise,0.18181818181818185,0.53216404
 "Please, come this way.","（レッドフォード卿）
-さあ こちらへ",Saya,0.0
+さあ こちらへ",Saya,0.0,0.16025104
 but it'll be difficult to send our troops on another mainland expedition.,"やはり 我が軍を再度
 大陸へ出兵させるのは難しいかと","After all my army again
-Is it difficult to get troops in the continent",0.16666666666666666
+Is it difficult to get troops in the continent",0.16666666666666666,0.54900867
 We suffered severe losses during the last retreat.,"先の撤退作戦では
 かなりの損害を出しましてね","In the pre-withdrawal operation
-Have a considerable damage",0.0625
+Have a considerable damage",0.0625,0.3362287
 You once tried to entice our country's Einberger Corporation,"自国に誘致しようとされたことが
 ありましたね","What I tried to attract to my country
-It was there",0.17647058823529413
+It was there",0.17647058823529413,0.29029918
 Eylstadt's manufacturers of precision machinery are very appealing.,"（レッドフォード卿）
 エイルシュタットの精密機械工業は
 非常に魅力的ですからね","Earstadt's precision machine industry
-Because it is very attractive",0.17647058823529413
+Because it is very attractive",0.17647058823529413,0.7349239
 They're all loyal men.,"（フィーネ）
-そう 彼らは忠義者です",Yes they are loyalty,0.1111111111111111
+そう 彼らは忠義者です",Yes they are loyalty,0.1111111111111111,0.5926286
 "And thus,","しかし 皆
 ここまで育ててくれた大公家と国を","But everyone
-Grand Duke and Country that raised here",0.09090909090909091
+Grand Duke and Country that raised here",0.09090909090909093,0.19032152
 "if they were to learn that Britannia had done its best to aid Eylstadt,","エイルシュタットのために
 尽力したと知れば","For Eilstadt
-If you know that",0.1111111111111111
+If you know that",0.1111111111111111,0.28829756
 they would be eager to repay you.,"必ずや
 その恩に報いてくれることでしょう","Be sure
-It will be able to reward that",0.14285714285714285
-I see.,なるほど それは大変 魅力的だ,I see that it is very attractive,0.25
+It will be able to reward that",0.14285714285714285,0.36222535
+I see.,なるほど それは大変 魅力的だ,I see that it is very attractive,0.25,0.26471654
 But it's not quite enough \Nto convince the parliament and the public.,"ですが 議会と世論を動かすには
 いささか弱いですな","But to move parliament and public opinion
-It is very weak",0.2631578947368421
-In that case...,（レッドフォード卿）ほほう…,...,0.25
+It is very weak",0.2631578947368421,0.63295865
+In that case...,（レッドフォード卿）ほほう…,...,0.25,0.3807013
 to send troops to the continent once more then?,"議会も民も大陸への再度の派兵を
 承知するのではありませんか？","Parliament and people are again dispatched to the continent
-Are you aware of it?",0.21052631578947367
-Do you mean...,（レッドフォード卿）それは…！,It is ...!,0.14285714285714285
+Are you aware of it?",0.21052631578947367,0.47999257
+Do you mean...,（レッドフォード卿）それは…！,It is ...!,0.14285714285714285,0.35940403
 "I declined his offer once before,","一度は
 お断りさせていただきましたが","Once
-I refused it",0.2222222222222222
+I refused it",0.2222222222222222,0.45414355
 but I'd like to accept Prince Henry's offer of marriage.,"改めて ヘンリー殿下からの求婚を
 受けさせていただきたいと思います","Animation from Henry Temeto again
-I want you to receive",0.15
+I want you to receive",0.15,0.25955805
 You're willing to give up your claim to the archduke's throne?,"（レッドフォード卿）
-皇位継承を諦めると？",When I give up prince inheritance?,0.17647058823529413
-I will entrust the future of the family to them.,公家の未来は その子に託します,The future of the host family entrusts to the child,0.38461538461538464
+皇位継承を諦めると？",When I give up prince inheritance?,0.17647058823529413,0.28145456
+I will entrust the future of the family to them.,公家の未来は その子に託します,The future of the host family entrusts to the child,0.38461538461538464,0.63375634
 You truly are a natural-born princess.,"あなたは本当に
 生まれついての姫なのですね","You are really
-It is a princess of being born",0.3076923076923077
+It is a princess of being born",0.3076923076923077,0.81009007
 And that makes this all the more sad to say.,"姫… 国を救うために
 その身を差し出すお覚悟","Princess ... To save the country
-Preparation of the body",0.1111111111111111
+Preparation of the body",0.1111111111111111,0.14134267
 "No matter what conditions you may offer, \Nwe cannot help you.","どんな条件を お出しいただいても
 お力になれぬことが","No matter what kind of condition is made
-I can not help",0.3157894736842105
-Why?,なぜです？,why?,1.0
-Because...,（レッドフォード卿）なぜなら…,Why ...,0.3333333333333333
-it's far too late now.,もう全ては手遅れだからです,It is because all are too late,0.2727272727272727
-Germania has just now broken \Nthrough the Eylstadt border defenses,ゲルマニアが つい今しがた,Germania was just now,0.2727272727272727
-Is this your doing?,これは あなたが？,Is this you?,0.5
+I can not help",0.3157894736842105,0.55940366
+Why?,なぜです？,why?,1.0,0.9999997
+Because...,（レッドフォード卿）なぜなら…,Why ...,0.3333333333333333,0.68151027
+it's far too late now.,もう全ては手遅れだからです,It is because all are too late,0.2727272727272727,0.57016563
+Germania has just now broken \Nthrough the Eylstadt border defenses,ゲルマニアが つい今しがた,Germania was just now,0.2727272727272727,0.643343
+Is this your doing?,これは あなたが？,Is this you?,0.5,0.57726586
 The Britannian dog is innocent.,"（ゲルツ）
-そのブリタニアの犬は潔白ですよ",The Britannian dog is innocent,0.8333333333333334
+そのブリタニアの犬は潔白ですよ",The Britannian dog is innocent,0.8333333333333334,0.9900481
 "The spy network of the great Germanian Empire \Nwas just simply superior, is all.","我が大ゲール帝国の情報網が
 勝(まさ)っていたというだけの話","Japan's Large Gale Empire Information Network
-Talk to just won",0.13043478260869565
-You're as beautiful as they say.,噂どおり美しい,Beautiful rumor,0.125
-The Emperor will surely be pleased.,皇帝陛下も お喜びになるだろう,The emperor will also be jealous,0.4444444444444444
-What do you intend do with me?,私をどうするつもりだ？,What are you going to do?,0.4
+Talk to just won",0.13043478260869565,0.42153394
+You're as beautiful as they say.,噂どおり美しい,Beautiful rumor,0.125,0.1922126
+The Emperor will surely be pleased.,皇帝陛下も お喜びになるだろう,The emperor will also be jealous,0.4444444444444444,0.7564981
+What do you intend do with me?,私をどうするつもりだ？,What are you going to do?,0.4,0.5915862
 I think we'll have you accompany us,"ノイエベルリンまで
 同行願いましょう","Uno enemerbelin
-Let's accompany",0.08333333333333333
+Let's accompany",0.08333333333333333,0.50319153
 These are all important military secrets.,"これらは皆
 重要な軍事機密なのですよ","These are everyone
-It is an important military confidentiality",0.3333333333333333
-"Well, technically, so are you.",いえ あなたもですがね,"No, you are too",0.3333333333333333
+It is an important military confidentiality",0.3333333333333333,0.8019637
+"Well, technically, so are you.",いえ あなたもですがね,"No, you are too",0.3333333333333333,0.5081468
 We should be crossing the Eylstadt border right about now.,"そろそろ エイルシュタットの
 国境付近をかすめるころですな","Soon the Ailstadt
-I'm looking at near the border",0.1111111111111111
-How goes the war?,戦況はどうなっている？,What is the warship?,0.25
+I'm looking at near the border",0.1111111111111111,0.5266947
+How goes the war?,戦況はどうなっている？,What is the warship?,0.25,0.20596823
 They still seem to be keeping up their futile resistance.,"（ゲルツ）まだ無駄な抵抗を
 続けているようですね","Still wasted resistance
-It seems that you are continuing",0.1111111111111111
-I wouldn't be so sure about that. \NMy citizens are quite tenacious.,我が国民は粘り強い,My people are tenacious,0.125
-They won't give up easily.,簡単には諦めんぞ,I can easily give up,0.3333333333333333
+It seems that you are continuing",0.1111111111111111,0.56151867
+I wouldn't be so sure about that. \NMy citizens are quite tenacious.,我が国民は粘り強い,My people are tenacious,0.125,0.49560687
+They won't give up easily.,簡単には諦めんぞ,I can easily give up,0.3333333333333333,0.6154435
 do you suppose they'd reconsider?,"などという事態になれば
 彼らも考えるのでは？","If it is a situation
-Do they think too?",0.21428571428571427
+Do they think too?",0.21428571428571427,0.3198615
 So you want to use me for blackmail?!,"（フィーネ）
-私を脅迫の材料に使うつもりか！",Are you going to use it for ingredients of intimidation!,0.3125
-It's merely a hypothetical.,エイルシュタットの姫であり,It is a princess in Eilstadt,0.2
-Lieutenant!,ああっ！,Oh!,0.3333333333333333
-Hold it.,とんだおてんばだ,It's a tight,0.16666666666666666
-You really are quite the tomboy.,だが あなたは捕らわれの小鳥,But you are caught birds,0.2
+私を脅迫の材料に使うつもりか！",Are you going to use it for ingredients of intimidation!,0.3125,0.3954987
+It's merely a hypothetical.,エイルシュタットの姫であり,It is a princess in Eilstadt,0.2,0.02200433
+Lieutenant!,ああっ！,Oh!,0.3333333333333333,0.32720622
+Hold it.,とんだおてんばだ,It's a tight,0.16666666666666666,0.39632797
+You really are quite the tomboy.,だが あなたは捕らわれの小鳥,But you are caught birds,0.2,0.15120992
 Then be done with it!,"逆らえば
 キュッと ひねられて終わりです","Varying
-It is ended with cucumber",0.2
-So you'll choose to die?,（ゲルツ）自ら死を選ぶと？,When you choose your own death?,0.2727272727272727
+It is ended with cucumber",0.2,0.12730876
+So you'll choose to die?,（ゲルツ）自ら死を選ぶと？,When you choose your own death?,0.2727272727272727,0.7049443
 Is that what a princess who carries \Nthe burdens of her people should do?,"それが
 国民を背負った姫のすることですか","that is
-Is the princess carrying the people?",0.29411764705882354
-It's true that it's my people that keep me alive.,確かに 私は民に生かされている,Certainly I am alive to people,0.14285714285714285
-My life only exists because of their love.,私の命は 彼らの愛ゆえにある,My life is in their love,0.36363636363636365
-Huh?,（イゼッタ）あれ…？,...?,0.3333333333333333
-This voice...,（イゼッタ）この声…,This voice ...,1.0
+Is the princess carrying the people?",0.29411764705882354,0.6915359
+It's true that it's my people that keep me alive.,確かに 私は民に生かされている,Certainly I am alive to people,0.14285714285714285,0.61304975
+My life only exists because of their love.,私の命は 彼らの愛ゆえにある,My life is in their love,0.3636363636363637,0.72605896
+Huh?,（イゼッタ）あれ…？,...?,0.3333333333333333,0.47294527
+This voice...,（イゼッタ）この声…,This voice ...,1.0,1.0000007
 "then I, too, shall fight with them until the last.","私も最後の瞬間まで
 戦い抜いてみせよう","To the last moment
-Let's try to fight",0.17647058823529413
-My name is Finé...,我が名はフィーネ！,My name is Fiine!,0.42857142857142855
+Let's try to fight",0.17647058823529413,0.46402714
+My name is Finé...,我が名はフィーネ！,My name is Fiine!,0.42857142857142855,0.5168607
 "First Princess of Eylstadt, and its next archduchess,","エイルシュタットの第一皇女にして
 次期大公","As the first princess of Eilstadt
-Next year",0.3076923076923077
+Next year",0.3076923076923077,0.62863183
 Ortfiné Fredericka von Eylstadt!,"オルトフィーネ･フリーレリカ･
 フォン･エイルシュタットである！","Orthophone Free
-It is a von earstadt!",0.18181818181818182
-Princess?,これは幻か？,Is this a vision?,0.16666666666666666
-Izetta!,イゼッタ！,Izeta!,0.3333333333333333
-My... White Witch...,私の… 白き魔女…,My ... White Witch ...,1.0
-Give me your hand!,手を！,hand!,0.4
-Izetta...,イゼッタ…,Izetta ...,1.0
+It is a von earstadt!",0.18181818181818185,0.4938467
+Princess?,これは幻か？,Is this a vision?,0.16666666666666666,0.19792756
+Izetta!,イゼッタ！,Izeta!,0.3333333333333333,0.8103099
+My... White Witch...,私の… 白き魔女…,My ... White Witch ...,1.0,1.0000002
+Give me your hand!,手を！,hand!,0.4,0.71621823
+Izetta...,イゼッタ…,Izetta ...,1.0,0.9999996
 "Next time: ""With Scars and Gunfire.""","（イゼッタ）
-次回「傷痕(きずあと)と、銃声と」","Next time ""scratch  and gunshot and""",0.4166666666666667
+次回「傷痕(きずあと)と、銃声と」","Next time ""scratch  and gunshot and""",0.4166666666666667,0.6702874
 "Princess, will you become my hope?","ひめさま
 わたしの希望になってくれますか？","Princess
-Will you be my hope?",0.6666666666666666
+Will you be my hope?",0.6666666666666666,0.9429076

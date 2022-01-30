@@ -1,256 +1,256 @@
-en_text,jp_text,google_translated,score
-MARMALADE BOY,♪～,♪ ~,0.0
-ima ichiban aitsu no egao wo mitai,～♪,~ ♪,0.0
-Yuu!,（光希(みき)）遊(ゆう)ーっ！,) Yu !,0.25
-Miki...,（遊）光希…,Miki ...,1.0
-What is it?,どうしたの？,What's wrong?,0.3333333333333333
-Break up with me.,別れてくれ,Please break up,0.3333333333333333
-Why...?,な… なんで？,What ... why?,0.75
+en_text,jp_text,google_translated,score,semantic_score
+MARMALADE BOY,♪～,♪ ~,0.0,0.11994474
+ima ichiban aitsu no egao wo mitai,～♪,~ ♪,0.0,0.16933616
+Yuu!,（光希(みき)）遊(ゆう)ーっ！,) Yu !,0.25,0.75851655
+Miki...,（遊）光希…,Miki ...,1.0,1.0000005
+What is it?,どうしたの？,What's wrong?,0.3333333333333333,0.25813523
+Break up with me.,別れてくれ,Please break up,0.3333333333333333,0.6794317
+Why...?,な… なんで？,What ... why?,0.75,0.6728267
 You don't like me anymore?,"（光希）
-私のこと 嫌いになったの？",Did you hate me?,0.3333333333333333
-I do.,じゃ どうして？,What should I do?,0.3333333333333333
+私のこと 嫌いになったの？",Did you hate me?,0.3333333333333333,0.62431705
+I do.,じゃ どうして？,What should I do?,0.3333333333333333,0.08132472
 "Do you like someone else, then?","じゃ ほかに好きな人が？
-（遊）違う","Well, are you like?",0.4
-No.,ダメなんだよ！,It is no good!,0.16666666666666666
+（遊）違う","Well, are you like?",0.4,0.41925204
+No.,ダメなんだよ！,It is no good!,0.16666666666666666,0.19531943
 I thought we could start over...,"（遊）
-やり直せるかもって思ったけど―",I thought it could be done again-,0.2727272727272727
+やり直せるかもって思ったけど―",I thought it could be done again-,0.2727272727272727,0.47336426
 "You don't dislike me, but you don't love me either?","嫌いじゃないけど
 好きでもないっていうこと？","I do not hate it, but
-Don't you like it?",0.4
-I can't accept it!,言うとおりに するから！,I will say it!,0.375
-Why?,（光希）なんで？ どうして？,Why?Why?,1.0
-...I'll change!,悪いとこあったら 直すから！,I'll fix it if it is bad!,0.3
-"Please reconsider, Yuu!",お願い 遊 考え直してよ,Please re-think,0.16666666666666666
+Don't you like it?",0.4,0.38445824
+I can't accept it!,言うとおりに するから！,I will say it!,0.375,0.21852563
+Why?,（光希）なんで？ どうして？,Why?Why?,1.0,0.86201257
+...I'll change!,悪いとこあったら 直すから！,I'll fix it if it is bad!,0.3,0.3128192
+"Please reconsider, Yuu!",お願い 遊 考え直してよ,Please re-think,0.16666666666666666,0.31729862
 It's not your fault!,"悪いとこなんて ないんだよ
 お前のせいじゃないんだ！","I'm not a bad cousin
-It's not your fault!",0.5454545454545454
+It's not your fault!",0.5454545454545454,0.580131
 I'm just selfish.,"俺が身勝手なんだよ
 俺の気持ちが 勝手に冷めたんだ","I am selfish
-My feelings were cold",0.2
+My feelings were cold",0.2,0.59720457
 ...please don't say we're breaking up!,"嫌いじゃないなら
 “別れる”なんて言わないで","If you don't hate
-Don't say ""I'll break up""",0.2222222222222222
+Don't say ""I'll break up""",0.2222222222222222,0.59018224
 ...I still love you.,"だって 私は まだ好きだもん…
 大好きだもん","Because I still like it ...
-I love you",0.5555555555555556
-I'm sorry!,ごめん,sorry,0.25
-Don't cry!,泣くなよ… しかたがないんだ,Don't cry ... there is no,0.375
+I love you",0.5555555555555556,0.5804064
+I'm sorry!,ごめん,sorry,0.25,0.52870685
+Don't cry!,泣くなよ… しかたがないんだ,Don't cry ... there is no,0.375,0.7433926
 ...blood brother and sister!,"俺たちは…
 俺たちは兄妹(きょうだい)なんだよ！","We are ...
-We are brother and sister !",0.625
-I'll see you back home.,（遊）先に帰るよ,I will go back,0.2222222222222222
-Here. It's the ring I promised.,約束してたから,Because I promised,0.2222222222222222
-But...,アア…,Oh ...,0.3333333333333333
-How can I take it\Nafter you said what you said?,旅行の約束は もう果たせないけど,I can not fulfill my trip promise,0.14285714285714285
+We are brother and sister !",0.625,0.63143605
+I'll see you back home.,（遊）先に帰るよ,I will go back,0.2222222222222222,0.58755094
+Here. It's the ring I promised.,約束してたから,Because I promised,0.2222222222222222,0.3840853
+But...,アア…,Oh ...,0.3333333333333333,0.59991354
+How can I take it\Nafter you said what you said?,旅行の約束は もう果たせないけど,I can not fulfill my trip promise,0.14285714285714285,0.33929706
 "...as a gift from your family, not your boyfriend.","（遊）恋人じゃなくて 家族からの
 プレゼントとして受け取ってくれよ","not lover but from family
-Please receive it as a present",0.29411764705882354
-I can't keep it.,もらえない…,I can't get it ...,0.5
-If you don't want it...,どうしてもイヤだったら… 捨てて,If you really don't get it ... throw it away,0.5454545454545454
-No! Don't go!,イ… イヤだ 行かないで！,I ... Don't go!,0.5714285714285714
-Yuu...,遊…,Yu ...,0.3333333333333333
+Please receive it as a present",0.29411764705882354,0.42966124
+I can't keep it.,もらえない…,I can't get it ...,0.5,0.39607906
+If you don't want it...,どうしてもイヤだったら… 捨てて,If you really don't get it ... throw it away,0.5454545454545454,0.569506
+No! Don't go!,イ… イヤだ 行かないで！,I ... Don't go!,0.5714285714285714,0.8270735
+Yuu...,遊…,Yu ...,0.3333333333333333,0.8428353
 Yes?,"（ノック）
-（茗子(めいこ)）はい",Yes,0.5
-Miki is here?,えっ？ 光希が？,eh?What is Miki?,0.5
-I...,ハッ…,Ha ...,0.3333333333333333
-"What happened, Miki?",どうしたの？ 光希,What's wrong?Phosphorus,0.25
+（茗子(めいこ)）はい",Yes,0.5,0.768732
+Miki is here?,えっ？ 光希が？,eh?What is Miki?,0.5,0.83488536
+I...,ハッ…,Ha ...,0.3333333333333333,0.5256865
+"What happened, Miki?",どうしたの？ 光希,What's wrong?Phosphorus,0.25,0.16345978
 You said that to Koishikawa?,"（悟史(さとし)）
 そんなこと言ったのか 小石川に！",")
-I said that, or Koishikawa!",0.2727272727272727
+I said that, or Koishikawa!",0.2727272727272727,0.7778115
 There's no need to ask them.,"そんな とんでもない話も
 昔の恋人同士なら 説明は つくし","There is no such story
-If you have old lovers, she will make she",0.1
+If you have old lovers, she will make she",0.1,0.098453365
 Everything makes sense now.,"（遊）ムダだよ 確かめたって
 何もかも つじつまが合うんだ","I'm sorry
-She also makes me fit",0.08333333333333333
-Two couples met for the first time...,初対面の夫婦同士が―,Couples with the first meeting,0.3
+She also makes me fit",0.08333333333333333,0.15599316
+Two couples met for the first time...,初対面の夫婦同士が―,Couples with the first meeting,0.3,0.8052376
 ...not to fall in love with me.,"お互い 相手のパートナーに恋して
 交換結婚","Love each other's partner in love
-Marriage",0.14285714285714285
+Marriage",0.14285714285714285,0.3499109
 I didn't understand what she meant by it.,"あのときは
 何のことか 分からなかったけど","At that time
-I did not know what",0.2
+I did not know what",0.2,0.3412333
 There were many of them...,"何枚も あったんだ
 仲よさそうなカップルの写真","There were several
-A photo of a couple of couple",0.3
-...that Jin-san is my father.,俺の父親は仁(じん)さんで,My father is a jealousy,0.3333333333333333
-And Miki and I...,俺と光希は…,I and Miki ...,1.0
+A photo of a couple of couple",0.3,0.34660706
+...that Jin-san is my father.,俺の父親は仁(じん)さんで,My father is a jealousy,0.3333333333333333,0.43807387
+And Miki and I...,俺と光希は…,I and Miki ...,1.0,0.9241155
 "How cruel are they, your parents?","ひどすぎるじゃないか
 お前らの親たち","Isn't it too bad?
-Friends of your parents",0.2
-...then switch back after fifteen years?,十何年もあとになって―,What year after another year-,0.08333333333333333
+Friends of your parents",0.2,0.54519194
+...then switch back after fifteen years?,十何年もあとになって―,What year after another year-,0.08333333333333333,0.33428556
 ...you and she are suffering because of them!,"そのせいで 子供たちが
 どんなに つらい思いをしてるか","Because children are
-No matter how hard she is hard",0.1875
+No matter how hard she is hard",0.1875,0.37215933
 Koishikawa also has a right to know the truth!,"小石川にだって
 本当のことを知る権利が…","It is in the Koishi River
-Right to know the real thing ...",0.2222222222222222
-No way!,ダメだ！,It is no good!,0.3333333333333333
+Right to know the real thing ...",0.2222222222222222,0.3816775
+No way!,ダメだ！,It is no good!,0.3333333333333333,0.32147384
 "Either way, Miki and I have to split up.","どっちにしろ
 光希とは別れなきゃならないんだ","Anyway
-I have to break up with Miki",0.35714285714285715
+I have to break up with Miki",0.35714285714285715,0.7467507
 ...than destroy our family.,"みんな ぶちまけて
 何もかも メチャクチャにするより","Everybody
-More than anything",0.1111111111111111
+More than anything",0.1111111111111111,0.25531852
 ...at least Miki and our parents...,"そうすれば
 少なくとも光希と両親Ｓ(りょうしんず)は―","that way
-At least Gangko and her parents S -",0.3076923076923077
-...will get along just fine.,光希も 諦めがつくだろう,Miki will also give up,0.09090909090909091
+At least Gangko and her parents S -",0.3076923076923077,0.38153908
+...will get along just fine.,光希も 諦めがつくだろう,Miki will also give up,0.09090909090909093,0.14068878
 It'd be easier for her to think that we ended...,"それに 兄妹だから
 好きだけど別れようっていうんじゃ","Because it is a brother and sister
-I like it but it's going to be different",0.125
-...because I was selfish.,ンンッ…,Network ...,0.14285714285714285
+I like it but it's going to be different",0.125,0.069297604
+...because I was selfish.,ンンッ…,Network ...,0.14285714285714285,0.23219796
 I decided that this was the best way.,"考え抜いて こうするのが
 いちばんいいと思ったんだ","I think about thinking and thinking
-I thought it was the most good",0.17647058823529413
+I thought it was the most good",0.17647058823529413,0.3226343
 Why do you have to take this all on yourself?,"俺には
 こういうふうにしか できない","To me
-I can only do this",0.2
+I can only do this",0.2,0.29746023
 Why suffer alone?,"どうして お前だけが そんなに
 ムリしなきゃならないんだ？","Why are you so much
-Can't Muri?",0.18181818181818182
-I'll walk you to the station.,（茗子）光希 駅まで送ろうか？,Will you send it to Miki Station?,0.23076923076923078
+Can't Muri?",0.18181818181818185,0.26956996
+I'll walk you to the station.,（茗子）光希 駅まで送ろうか？,Will you send it to Miki Station?,0.2307692307692308,0.5195647
 I'm sorry about just\Nshowing up like that last night.,"そんな人だとは思わなかった
 （光希）違うよ 茗子！","I did not think that it was such a person
- is different.",0.14285714285714285
-I can't forgive Matsuura-kun.,許せないわ 松浦(まつうら)君,I can't forgive Matsuura,0.5714285714285714
+ is different.",0.14285714285714285,0.05558873
+I can't forgive Matsuura-kun.,許せないわ 松浦(まつうら)君,I can't forgive Matsuura,0.5714285714285714,0.8659176
 It's not his fault!,"遊が悪いんじゃないの！
 （茗子）えっ？","I'm not bad!
-?",0.2
+?",0.2,0.21184859
 I don't think he fell out of love\Nbecause he wanted to.,"遊だって 冷めたくて
 冷めたんじゃないんだと思う","I want to cold
-I think I'm not cold",0.1875
-"So, please...",光希…,Miki ...,0.2
-...don't blame him.,遊を… 責めないで,Do not blame ...,0.42857142857142855
+I think I'm not cold",0.1875,-0.05763951
+"So, please...",光希…,Miki ...,0.2,0.24520941
+...don't blame him.,遊を… 責めないで,Do not blame ...,0.42857142857142855,0.81152993
 I'm home!,"（留美）
-あっ マイケル呼んでこなきゃ",I'm calling me Michael,0.2857142857142857
-I ate already.,（遊）ああ 食べてきた,Oh I ate,0.4
-I'll go get Michael.,（要士）あっ 俺が行くよ,"Oh, I will go",0.2222222222222222
-"Hey, Michael!",お～い マイケル！,Oh ~ Michael!,0.3333333333333333
+あっ マイケル呼んでこなきゃ",I'm calling me Michael,0.2857142857142857,0.11277208
+I ate already.,（遊）ああ 食べてきた,Oh I ate,0.4,0.69248426
+I'll go get Michael.,（要士）あっ 俺が行くよ,"Oh, I will go",0.2222222222222222,0.2977613
+"Hey, Michael!",お～い マイケル！,Oh ~ Michael!,0.3333333333333333,0.7992534
 "Well, I just want to let you all know...","やっぱり 来週にでも
 ニューヨークに戻ろうと思うんだ","After all next week
-I'm going to return to New York",0.15789473684210525
+I'm going to return to New York",0.15789473684210525,0.16356254
 I don't speak English while I'm in Japan...,"向こうにいる間も
 英語がハンデになって―","While in the other side
-English is Handic",0.2
+English is Handic",0.2,0.26809758
 ...so I'm forgetting it.,"早いうちに帰ったほうが
 いいと思って","I'm going home early
-I think it's good",0.23076923076923078
+I think it's good",0.2307692307692308,0.07622889
 What? You can speak English to me.,"え～っ？
 僕と話してればいいじゃない","Eh?
-I should talk to me",0.23076923076923078
-I won't use English...,英語 使う気になれないよ,I can not feel like using English,0.18181818181818182
+I should talk to me",0.2307692307692308,0.39205852
+I won't use English...,英語 使う気になれないよ,I can not feel like using English,0.18181818181818185,0.6321463
 Since you're there for a limited time...,"短い期間を
 有効に使ったほうがいいな","A short period of time
-It is better to use effectively",0.1111111111111111
+It is better to use effectively",0.1111111111111111,0.27066037
 We thought we could spend\Nthe whole summer together.,"夏休み
 一緒に過ごせると思ってたから","Summer vacation
-Because I thought that I could spend together",0.3076923076923077
+Because I thought that I could spend together",0.3076923076923077,0.7377457
 Yuu is...,"（遊）そのほうがいいだろう
 （光希）アア…","will be better
- Aoa ...",0.14285714285714285
+ Aoa ...",0.14285714285714285,0.25003326
 It's for the best.,"前みたいに
 家族の一員として仲良くさ","As before
-Good friend as a member of the family",0.07142857142857142
-I know that...,さすがに今は 気まずいよな,I'm sorry now,0.14285714285714285
+Good friend as a member of the family",0.07142857142857142,0.15979207
+I know that...,さすがに今は 気まずいよな,I'm sorry now,0.14285714285714285,0.20552368
 ...we'll be able to look at it differently...,"また こだわりなく
 話せるようになると思うんだ","Again
-I think I will be able to speak",0.2
+I think I will be able to speak",0.2,0.23104818
 I wasn't lying about forgetting English here.,"日本にいると 英語忘れて
 困るっていうのも ホントなんだ","I forgot English when I'm in Japan
-She is really really troubled",0.1111111111111111
+She is really really troubled",0.1111111111111111,0.373094
 There's so much I want to learn still...,"今は
 勉強したいことが たくさんある","nowadays
-There are many things that want to study",0.1875
+There are many things that want to study",0.1875,0.49654287
 ...so I need to study hard.,"帰ったら 必死で勉強するつもりさ
 じゃあな","When I returned, I'm going to study desperately
-See you",0.1875
+See you",0.1875,0.4946014
 "Miki, I'm sorry that I can't be near you.","（遊）光希
 ごめん そばにいてやれなくて","Miki
-I'm sorry I can not do it",0.25
-I love you.,大好きだよ,I love you,0.75
+I'm sorry I can not do it",0.25,0.72376174
+I love you.,大好きだよ,I love you,0.75,0.8991136
 Is it really over between us?,"私たち
 ホントに終わっちゃったの？","we
-Was it really finished?",0.3
+Was it really finished?",0.3,0.39585316
 "I've cried so much, but the tears still come!","あんなに泣いたのに
 まだ涙が出るよ","I cried so much
-I'm still tears",0.46153846153846156
+I'm still tears",0.4615384615384616,0.8054926
 One week passed quickly.,"（光希）
-あっという間に１週間が過ぎ",One week is over in no time,0.2
-Yuu is going back to New York today.,遊がニューヨークへ旅立つ日が来た,Your loan came to New York,0.25
+あっという間に１週間が過ぎ",One week is over in no time,0.2,0.6019659
+Yuu is going back to New York today.,遊がニューヨークへ旅立つ日が来た,Your loan came to New York,0.25,0.38687804
 I doubt it. He doesn't have much time.,"今 渡さなかったら
 もう ずっと渡せなくなる","If you do not pass now
-I will not pass it for a long time",0.15
+I will not pass it for a long time",0.15,0.12403937
 Gosh! What's he doing?!,"アア… ヤダわ もう！
 何してるのかしら？","Oh ... yada already!
-What do you do?",0.23076923076923078
-This is my last chance...,（遊）あっ…,...,0.16666666666666666
+What do you do?",0.2307692307692308,0.24311452
+This is my last chance...,（遊）あっ…,...,0.16666666666666666,0.26710305
 ...your birthday gift. Sorry I was late.,"誕生日プレゼントだったんだけど
 渡しそびれて…","It was a birthday gift
-Pass up ...",0.3076923076923077
-It's a watch.,腕時計なんだ　良かったら使って,"If it is a watch, use it",0.3333333333333333
-Thank you.,ありがとう 大切にするよ,Thank you very much,0.4
+Pass up ...",0.3076923076923077,0.60035294
+It's a watch.,腕時計なんだ　良かったら使って,"If it is a watch, use it",0.3333333333333333,0.70648533
+Thank you.,ありがとう 大切にするよ,Thank you very much,0.4,0.48502865
 You have plenty of time to get to the airport.,"（要士）今から出れば
 余裕で空港に着くよな","If you come from now
-I will arrive at the airport with a margin",0.14285714285714285
+I will arrive at the airport with a margin",0.14285714285714285,0.56754076
 Are you sure you don't need to eat anything?,"（千弥子）遊 ホントに
 食事していかなくて 大丈夫？","Yuhonto
-Is it all right to eat?",0.2
-I'm fine.,分かってる　じゃ 行ってくる,I know I'm going,0.3333333333333333
+Is it all right to eat?",0.2,0.4763161
+I'm fine.,分かってる　じゃ 行ってくる,I know I'm going,0.3333333333333333,0.36899364
 I'll eat something there.,"大丈夫
 空港に着いたら 何か食べるよ","Alright
-I will eat something if I arrive at the airport",0.23076923076923078
+I will eat something if I arrive at the airport",0.2307692307692308,0.6299423
 Where's Miki?,"（マイケル）ねえ 光希は？
 （留美）えっ 光希？","Hey Mitsu?
- Eho Miki?",0.2857142857142857
-Call us when you get there.,向こうに着いたら 電話してね,Please call me if you arrive on the other side,0.13333333333333333
-I will.,遊 行っちゃった,I went to play,0.16666666666666666
-Yuu's gone now.,（遊）そうだね,That's right,0.14285714285714285
-Do you want Japanese food or...?,和食がいいか？ それとも…,Is Japanese food better?Or ...,0.5
+ Eho Miki?",0.2857142857142857,0.5501778
+Call us when you get there.,向こうに着いたら 電話してね,Please call me if you arrive on the other side,0.13333333333333333,0.50286245
+I will.,遊 行っちゃった,I went to play,0.16666666666666666,0.22500126
+Yuu's gone now.,（遊）そうだね,That's right,0.14285714285714285,0.22347203
+Do you want Japanese food or...?,和食がいいか？ それとも…,Is Japanese food better?Or ...,0.5,0.8031202
 Akizuki?,"（遊）秋月(あきづき)…
 （茗子）松浦君","Akizuki  ...
- Matsuura",0.25
-Akizuki!,（悟史）あ… 秋月！,Ao ... Akizuki!,0.5
-Long time no see!,いやぁ 久しぶりだな！,No a long time!,0.6666666666666666
+ Matsuura",0.25,0.8261842
+Akizuki!,（悟史）あ… 秋月！,Ao ... Akizuki!,0.5,0.8745809
+Long time no see!,いやぁ 久しぶりだな！,No a long time!,0.6666666666666666,0.7152545
 Perfect! Let's get some coffee.,"そこのカフェテリアで
 お茶でもしようぜ","In the cafeteria there
-Let's try tea",0.14285714285714285
-Wait a second!,ンッ… ちょっと待ってください！,... Wait a minute!,0.5
+Let's try tea",0.14285714285714285,0.4154735
+Wait a second!,ンッ… ちょっと待ってください！,... Wait a minute!,0.5,0.7248284
 I'm sorry.,"ごめん　フラれたのを
 忘れたわけじゃないんだぜ","I'm sorry I was flushed
-I'm not forgotten",0.375
-I know you dumped me.,君が 遊のこと―,You're playing-,0.125
+I'm not forgotten",0.375,0.37257585
+I know you dumped me.,君が 遊のこと―,You're playing-,0.125,0.18129781
 I had to stop you because...,"ひっぱたいてやりたいって
 顔してたから つい…","I want to do it
-Because I had a face ...",0.4166666666666667
+Because I had a face ...",0.4166666666666667,0.24984239
 ...it looked like you'd slap him.,"松浦君を責めないように
 光希から言われてるし…","Don't blame Matsuura
-It is said from Miki ...",0.11764705882352941
-...I can't forgive him!,私は やっぱり許せない,I can not forgive,0.2222222222222222
-"Akizuki, he's hurting, too!",そんなの 勝手だわ！,It's such a selfish!,0.18181818181818182
+It is said from Miki ...",0.1176470588235294,0.106185794
+...I can't forgive him!,私は やっぱり許せない,I can not forgive,0.2222222222222222,0.71411115
+"Akizuki, he's hurting, too!",そんなの 勝手だわ！,It's such a selfish!,0.18181818181818185,0.15178019
 It was his decision!,"小石川とのことは 遊にとっても
 すごく大事なことだったんだ","Even for play with Koishikawa
-It was a very important thing",0.14285714285714285
+It was a very important thing",0.14285714285714285,0.26355308
 That doesn't mean he's happy about it!,"どうにもならないことだって
 あるってことだよ","It is not something that is not
-It is something",0.15384615384615385
-"I know that, but...",それは そうかもしれないけど…,That may be so ...,0.2222222222222222
+It is something",0.15384615384615385,0.16285191
+"I know that, but...",それは そうかもしれないけど…,That may be so ...,0.2222222222222222,0.34513474
 He can't tell you why now.,"あいつは今
 すごく傷ついて 苦しんでる","Aya now
-It hurts and suffering",0.07692307692307693
+It hurts and suffering",0.07692307692307693,0.20501152
 I understand very well\Nhow it feels to lose your true love.,"ホントなんだ
 そっとしておいてやってくれよ","It is true
-Please let me know",0.11764705882352941
-He may be suffering much more than Koishikawa.,もしかしたら 小石川以上に,Maybe more than Koishikawa,0.3
+Please let me know",0.1176470588235294,0.21701835
+He may be suffering much more than Koishikawa.,もしかしたら 小石川以上に,Maybe more than Koishikawa,0.3,0.74728847
 I mean it.,"当然だよな
 ひどいこと言ったんだから","It is natural
-Because I said awful things",0.2
+Because I said awful things",0.2,0.22758141
 I bet Akizuki came here to slap me.,"秋月 俺のこと
 はっ倒そうとしてたんだろうな","Akizuki me
-I would like to be killed",0.3076923076923077
-I hurt her badly...,これでいいんだ… これで,This is fine ... this,0.125
-That binds our memories,それだけで十分,That's enough,0.16666666666666666
-In the future beyond futures,ちゃんと前に進まなきゃ,I have to go ahead,0.0
+I would like to be killed",0.3076923076923077,0.6022325
+I hurt her badly...,これでいいんだ… これで,This is fine ... this,0.125,0.18707423
+That binds our memories,それだけで十分,That's enough,0.16666666666666666,0.23823361
+In the future beyond futures,ちゃんと前に進まなきゃ,I have to go ahead,0.0,0.29286852
 The gods will be there for us,"さよならしなきゃ
 遊にも 今までの自分にも","I have to do good friends
-Even for yourself",0.06666666666666667
+Even for yourself",0.06666666666666668,0.1251764

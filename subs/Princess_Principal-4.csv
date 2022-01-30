@@ -1,369 +1,369 @@
-en_text,jp_text,google_translated,score
-Vapor pressure stabilized.,（男Ａ）蒸気圧力 安定しました,Staff pressure stabilized,0.4
-It should work this time.,（男Ｂ）今度こそ いけるはずだ,You should be able to play this time,0.2727272727272727
-Right! Open the valve!,（男Ｃ）よし　バルブを開けろ,OK to open the valve,0.42857142857142855
+en_text,jp_text,google_translated,score,semantic_score
+Vapor pressure stabilized.,（男Ａ）蒸気圧力 安定しました,Staff pressure stabilized,0.4,0.5882091
+It should work this time.,（男Ｂ）今度こそ いけるはずだ,You should be able to play this time,0.2727272727272727,0.58391875
+Right! Open the valve!,（男Ｃ）よし　バルブを開けろ,OK to open the valve,0.42857142857142855,0.7867599
 "At last, we've done it!","（議員）
-あとは大量生産のメドだけだ","After that, it is only a lot of production of mass production",0.11764705882352941
-Long live the Kingdom of Albion!,（議員）王国ばんざ〜い！,Kingdom of the Kingdom!,0.5714285714285714
-What's our target?,（ドロシー）今回のマトは？,What is this mat?,0.25
+あとは大量生産のメドだけだ","After that, it is only a lot of production of mass production",0.1176470588235294,0.064407036
+Long live the Kingdom of Albion!,（議員）王国ばんざ〜い！,Kingdom of the Kingdom!,0.5714285714285714,0.65084636
+What's our target?,（ドロシー）今回のマトは？,What is this mat?,0.25,0.12313198
 I would like your team to take the prototype from them.,"君たちには
 その試作品を奪取してもらいたい","To you
-I want you to take the prototype",0.35714285714285715
+I want you to take the prototype",0.35714285714285715,0.75657433
 So the main players in this shadow war\Nare the spies and the scientists.,"（ドロシー）影の戦争の主役は
 スパイと科学者ってことか","The leading role of the war of shadow
-Spy and scientists",0.23529411764705882
+Spy and scientists",0.2352941176470588,0.788845
 The Kingdom possesses refining technology that we lack.,"（Ｌ）王国には
 我々にはない精錬技術がある","For the kingdom
-We have no refining technology",0.4166666666666667
-"If they combine it with the miniature control unit,",今回の小型化と組み合わせれば,If it is combined with this miniaturization,0.21428571428571427
-they would make large-scale gravity weapons a reality.,大規模重力兵器が現実化してくる,Large-scale gravity weapons come true,0.2727272727272727
-Our more experienced spies could...,先輩たちのほうが ずっと…,The seniors have always been ...,0.09090909090909091
+We have no refining technology",0.4166666666666667,0.8860056
+"If they combine it with the miniature control unit,",今回の小型化と組み合わせれば,If it is combined with this miniaturization,0.21428571428571427,0.47013894
+they would make large-scale gravity weapons a reality.,大規模重力兵器が現実化してくる,Large-scale gravity weapons come true,0.2727272727272727,0.8065863
+Our more experienced spies could...,先輩たちのほうが ずっと…,The seniors have always been ...,0.09090909090909093,0.20485154
 This is something only your team can do.,"（Ｌ）これは
 君たちにしかできない任務だ","This is
-It is a task that can only be done by you",0.23529411764705882
-Because of Princess?,（ドロシー）プリンセスですか,Is Princess,0.2
+It is a task that can only be done by you",0.2352941176470588,0.4866809
+Because of Princess?,（ドロシー）プリンセスですか,Is Princess,0.2,0.76688844
 She is your team's strong point.,"（Ｌ）
-君たちのストロングポイントだ",It is the strong point of your,0.36363636363636365
+君たちのストロングポイントだ",It is the strong point of your,0.3636363636363637,0.47528133
 You will use her position\N to infiltrate the ceremony at the Cavorite mine.,"ケイバーライト採掘場の式典に
 潜入してもらう","To the ceremony of the cebarite mining area
-Get infiltrated",0.15789473684210525
-"Another thing, Dorothy...",（Ｌ）それと ドロシー,and Dorothy,0.16666666666666666
-"Beatrice, switch.",（ちせ）ベアト スイッチじゃ,Beato switch,0.2
-Checkmate.,（アンジェ）チェックメイト,Check Mate,0.0
+Get infiltrated",0.15789473684210525,0.4230126
+"Another thing, Dorothy...",（Ｌ）それと ドロシー,and Dorothy,0.16666666666666666,0.71573436
+"Beatrice, switch.",（ちせ）ベアト スイッチじゃ,Beato switch,0.2,0.3782523
+Checkmate.,（アンジェ）チェックメイト,Check Mate,0.0,0.523664
 You won't shake me this time.,"（ベアトリス）
-今度こそ まかれませんから",This time she can not get,0.16666666666666666
-I have been victorious once.,（ちせ）私は１回勝っておる,I'm won once,0.25
+今度こそ まかれませんから",This time she can not get,0.16666666666666666,0.29586196
+I have been victorious once.,（ちせ）私は１回勝っておる,I'm won once,0.25,0.6869246
 It doesn't count as winning when you cut down a police officer.,"（アンジェ）警官を斬り捨てるのは
 勝ったうちに入らないわ","Cut off the police officer
-I can not enter while winning",0.19047619047619047
-And that makes it better?,そういう問題ですか？,Is that problem?,0.25
-Indeed it does.,いいですね それ！,It is good.,0.3333333333333333
+I can not enter while winning",0.19047619047619047,0.6919056
+And that makes it better?,そういう問題ですか？,Is that problem?,0.25,0.3002655
+Indeed it does.,いいですね それ！,It is good.,0.3333333333333333,0.2765453
 "Say, I've been thinking.","（プリンセス）
-ねえ 考えたんだけど",I thought I thought,0.125
+ねえ 考えたんだけど",I thought I thought,0.125,0.32726702
 "You don't suppose our team could use a name, do you?","私たちのチームにも
 名前が必要じゃないかしら？","Our team
-Do you need your name?",0.42857142857142855
+Do you need your name?",0.42857142857142855,0.7784595
 That's a wonderful idea!,"手がかりとなるような情報は
 作らない","Information that is a clue
-dont make",0.18181818181818182
-We don't need a team name.,チーム名は必要ないわ,There is no need for a team name,0.3333333333333333
-That's an ironclad spy rule.,スパイの鉄則よ,Spy iron rule,0.25
-"Something pink, or a flower.",ピンクとか 花とか,Pink or flower,0.42857142857142855
+dont make",0.18181818181818185,-0.0014699866
+We don't need a team name.,チーム名は必要ないわ,There is no need for a team name,0.3333333333333333,0.9349676
+That's an ironclad spy rule.,スパイの鉄則よ,Spy iron rule,0.25,0.8518137
+"Something pink, or a flower.",ピンクとか 花とか,Pink or flower,0.42857142857142855,0.8314388
 What about the name of that unusual bird we saw the other day?,"先日見た あの変わった鳥は
 どうかしら？","The other day I saw the strange bird
-I wonder?",0.375
+I wonder?",0.375,0.8033242
 I think it was a penguin?,"嘘つきに質問するなんて
 無意味なことだと思うけど","I asked a question to a liar
-I think it's meaningless",0.3076923076923077
+I think it's meaningless",0.3076923076923077,0.059308995
 Open the door!,"（ノック）
-（女）公安部です 扉を開けなさい",Public shall be open the door,0.42857142857142855
-"Welcome back, Dorothy.",（アンジェ）おかえり ドロシー,Warm Dorothy,0.16666666666666666
-"You could be a little scared, Partner.",少しは驚けよ 相棒,A little bit surprised Buddy,0.16666666666666666
-Did you get to see L?,Ｌには会えたの？,Did you meet L?,0.5
-We were thinking of team names.,私たちのチーム名を考えてました,I was thinking of our team name,0.2727272727272727
-We were practicing tailing.,（アンジェ）尾行訓練よ,Obu training,0.0
+（女）公安部です 扉を開けなさい",Public shall be open the door,0.42857142857142855,0.5569044
+"Welcome back, Dorothy.",（アンジェ）おかえり ドロシー,Warm Dorothy,0.16666666666666666,0.6490615
+"You could be a little scared, Partner.",少しは驚けよ 相棒,A little bit surprised Buddy,0.16666666666666666,0.28030238
+Did you get to see L?,Ｌには会えたの？,Did you meet L?,0.5,0.7963429
+We were thinking of team names.,私たちのチーム名を考えてました,I was thinking of our team name,0.2727272727272727,0.86816144
+We were practicing tailing.,（アンジェ）尾行訓練よ,Obu training,0.0,0.28478986
 "All right, I'll be Scotch, Ange will be Calvados,","じゃあ 私がスコッチで
 アンジェがカルバトス","Well then I'm scotch
-Anger is Calvatos",0.125
-"Princess will be Champagne... Chise, let's see...",プリンセスがシャンパンで…,Princess is champagne ...,0.2727272727272727
-"They're all the names of liquors, aren't they?",全部 お酒の名前ですね,It is the name of all alcohol,0.2
-"Don't be a part of this, Dorothy.",ドロシーまで乗らないで,Don't get rid of Dorothy,0.3333333333333333
-Oh no!,しまった！,Oops!,0.25
+Anger is Calvatos",0.125,0.6991418
+"Princess will be Champagne... Chise, let's see...",プリンセスがシャンパンで…,Princess is champagne ...,0.2727272727272727,0.80048394
+"They're all the names of liquors, aren't they?",全部 お酒の名前ですね,It is the name of all alcohol,0.2,0.668767
+"Don't be a part of this, Dorothy.",ドロシーまで乗らないで,Don't get rid of Dorothy,0.3333333333333333,0.7543957
+Oh no!,しまった！,Oops!,0.25,0.52611625
 How do I count the strokes of the letters in your alphabet?,"アルファベットの画数というのは
 どう数えればいいのだ？","The number of alphabet attacks is
-What should I count?",0.35294117647058826
+What should I count?",0.35294117647058826,0.5236227
 It's like a mechanical fortress.,"（ベアトリス）
-まるで機械の城ですね",It is a machine castle,0.2
-Cavorite is the heart and soul of Albion's Air Fleet.,今は尾行の基本を…,Now the basics of the tail is ...,0.1875
+まるで機械の城ですね",It is a machine castle,0.2,0.54868996
+Cavorite is the heart and soul of Albion's Air Fleet.,今は尾行の基本を…,Now the basics of the tail is ...,0.1875,0.10144354
 "Naturally, the mines will be heavily guarded.","自然 その採掘場は
 重要警戒施設になるわ","Natural mining station
-It will be an important warning facility",0.11764705882352941
-Excuse me.,（兵士）失礼,Excuse me,0.6666666666666666
-Are you here for the ceremony?,式典へ参加される方ですか？,Are you participating in the ceremony?,0.5555555555555556
-Princess!,（兵士）プリンセス！,Princess!,1.0
-I beg your pardon.,失礼しました,I'm sorry,0.14285714285714285
+It will be an important warning facility",0.1176470588235294,0.5454725
+Excuse me.,（兵士）失礼,Excuse me,0.6666666666666666,0.886353
+Are you here for the ceremony?,式典へ参加される方ですか？,Are you participating in the ceremony?,0.5555555555555556,0.8671838
+Princess!,（兵士）プリンセス！,Princess!,1.0,0.99999964
+I beg your pardon.,失礼しました,I'm sorry,0.14285714285714285,0.28458786
 The power of a nation's princess.,"プリンセスのご友人であれば
 もちろん","If it is a friend of Princess
-of course",0.23076923076923078
+of course",0.2307692307692308,0.47086215
 "If they tried to body check her, heads would roll.","（アンジェ）プリンセスに
 ボディーチェックなんてしたら","Princess
-If you're a body check",0.1875
-"So I'm a key, then?",（プリンセス）私は鍵？,I key?,0.375
-"Yes, a magic one.",（ドロシー）ただし 魔法のな,"However, magic",0.2857142857142857
-The ceremony starts in 30 minutes.,（アンジェ）式典開始までの30分,30 minutes to the start of the ceremony,0.4
-"With guests arriving \Nand preparations underway, this will be their busiest time.",最も忙しい時間になるわ,It will be the busiest time,0.25
+If you're a body check",0.1875,0.4704739
+"So I'm a key, then?",（プリンセス）私は鍵？,I key?,0.375,0.6959542
+"Yes, a magic one.",（ドロシー）ただし 魔法のな,"However, magic",0.2857142857142857,0.49396735
+The ceremony starts in 30 minutes.,（アンジェ）式典開始までの30分,30 minutes to the start of the ceremony,0.4,0.9374456
+"With guests arriving \Nand preparations underway, this will be their busiest time.",最も忙しい時間になるわ,It will be the busiest time,0.25,0.7297544
 "In other words, the time when security is the most lax.","つまり
 最も警備の監視が緩む時間だ","in short
-It is time to loosest the most security monitoring",0.35294117647058826
+It is time to loosest the most security monitoring",0.35294117647058826,0.597036
 And we'll use that time to get \Nthe prototype from the underground laboratory!,"その時間内に 地下施設にある
 試作品を奪取するんですね","In the underground facility within that time
-I will take a prototype",0.22727272727272727
-"Welcome, Princess.",（侍従）ようこそ プリンセス,Welcome Princess,0.5
+I will take a prototype",0.2272727272727273,0.7868836
+"Welcome, Princess.",（侍従）ようこそ プリンセス,Welcome Princess,0.5,0.8804374
 Her Majesty the Queen is here.,"（侍従）
-女王陛下がいらしております",There is a queen,0.2222222222222222
-If you'd be so kind...,よろしければ,If it is good,0.1
-Of course.,（プリンセス）はい,Yes,0.0
+女王陛下がいらしております",There is a queen,0.2222222222222222,0.73599625
+If you'd be so kind...,よろしければ,If it is good,0.1,0.2520094
+Of course.,（プリンセス）はい,Yes,0.0,0.39264724
 I'm leaving Chise here to protect you.,"わだすたちは
 向こうで待ってますから","The worse
-Because I'm waiting",0.15384615384615385
-One guard.,１人か…,One person ...,0.2
-What do we do?,どうします？,What do you do?,0.6
+Because I'm waiting",0.15384615384615385,0.19053425
+One guard.,１人か…,One person ...,0.2,0.489764
+What do we do?,どうします？,What do you do?,0.6,0.6855101
 Looks like I'm up.,"（ドロシー）
-こっちも行きろまりか〜",I'm going to go to,0.2222222222222222
+こっちも行きろまりか〜",I'm going to go to,0.2222222222222222,0.29749763
 You can take the stairs to the right.,"（兵士Ａ）
-右の階段を上がってください",Please raise the stairs on the right,0.2727272727272727
-Then go straight ahead to the ceremony hall.,式典会場までは まっすぐです,It is straight to the ceremony venue,0.3333333333333333
-I think I drank too much.,飲み過ぎちゃったみたい,It looks like I'm going to drink too much,0.23076923076923078
-Could you get me something to drink?,なんか飲み物をもらえない？,Can't get something drink?,0.4
-I-if water will suffice.,み… 水でよろしければ,... if it is good with water,0.09090909090909091
+右の階段を上がってください",Please raise the stairs on the right,0.2727272727272727,0.77791864
+Then go straight ahead to the ceremony hall.,式典会場までは まっすぐです,It is straight to the ceremony venue,0.3333333333333333,0.68299735
+I think I drank too much.,飲み過ぎちゃったみたい,It looks like I'm going to drink too much,0.2307692307692308,0.7659178
+Could you get me something to drink?,なんか飲み物をもらえない？,Can't get something drink?,0.4,0.7002813
+I-if water will suffice.,み… 水でよろしければ,... if it is good with water,0.09090909090909093,0.63802445
 "You have such a cute face, Mr. Guard Man.","フフッ
 かわいい顔してるのね 兵隊さん","Fuf
-It's a cute face Corps",0.2
-What the...?,なんだ？,what?,0.5
-Hey!,（兵士Ａ）お〜い！,Oh!,0.3333333333333333
-"Is that you, Jake?",（兵士Ｂ）ジェイクか？,Jake?,0.3333333333333333
+It's a cute face Corps",0.2,0.40976503
+What the...?,なんだ？,what?,0.5,0.44209576
+Hey!,（兵士Ａ）お〜い！,Oh!,0.3333333333333333,0.58878213
+"Is that you, Jake?",（兵士Ｂ）ジェイクか？,Jake?,0.3333333333333333,0.80212575
 There's been a methane explosion!,"（ジェイク）
-メタンガスの爆発事故だってよ",It is an explosion accident of methane gas,0.15384615384615385
+メタンガスの爆発事故だってよ",It is an explosion accident of methane gas,0.15384615384615385,0.72642475
 So that's where the dust is coming from!,"（兵士Ｃ）
-じゃあ こいつは その粉塵(ふんじん)か",Well then he is the dust,0.23076923076923078
+じゃあ こいつは その粉塵(ふんじん)か",Well then he is the dust,0.2307692307692308,0.6392708
 I'll take over here!,"ここは代わる
 マスクを取りに行ってこいよ","Replace here
-I'm going to get a mask",0.15384615384615385
+I'm going to get a mask",0.15384615384615385,0.26931754
 Three? That's all the way on the other side!,"（兵士Ｃ）
-３号？　反対側じゃねえか",3?It is not the opposite side,0.1875
-Give me a break!,３号倉庫だ,It is a 3rd warehouse,0.1111111111111111
+３号？　反対側じゃねえか",3?It is not the opposite side,0.1875,0.7352159
+Give me a break!,３号倉庫だ,It is a 3rd warehouse,0.1111111111111111,0.0034011693
 I'm already beat from helping with the move!,"今日は 引っ越しの手伝いで
 クタクタだってのに…","Today I am helping to move
-Even if it is a cucumber ...",0.15
+Even if it is a cucumber ...",0.15,0.43504348
 "Miss Ange, all clear.","（ジェイクの声で）
-アンジェさん いいですよ",Anger is good,0.0
-We'd better hurry.,急ごう,Rush,0.0
-We have about 20 minutes until they get back.,彼らが戻ってくるまで 約20分,About 20 minutes until they come back,0.5454545454545454
+アンジェさん いいですよ",Anger is good,0.0,0.19772673
+We'd better hurry.,急ごう,Rush,0.0,0.28946412
+We have about 20 minutes until they get back.,彼らが戻ってくるまで 約20分,About 20 minutes until they come back,0.5454545454545454,0.7803757
 "Miss Ange, I've been thinking.","（ベアトリス:ジェイクの声で）
-アンジェさん 私 思ったんですけど",Angee I thought,0.1
-What?,（アンジェ）何？,What?,1.0
+アンジェさん 私 思ったんですけど",Angee I thought,0.1,0.5555797
+What?,（アンジェ）何？,What?,1.0,1.0000001
 What do you think about Team Wildcat?,"（ベアトリス:ジェイクの声で）
-“チーム山猫(やまねこ)”ってどうですか？","How about ""Team Mountain Cat ""?",0.25
-They're so swift and fearless.,すばしっこくて精悍(せいかん)で,In a quick and sickness,0.09090909090909091
-But they look adorable!,でも かわいいイメージ,But cute image,0.14285714285714285
+“チーム山猫(やまねこ)”ってどうですか？","How about ""Team Mountain Cat ""?",0.25,0.46215355
+They're so swift and fearless.,すばしっこくて精悍(せいかん)で,In a quick and sickness,0.09090909090909093,0.1276078
+But they look adorable!,でも かわいいイメージ,But cute image,0.14285714285714285,0.5860753
 Would you... change your voice back?,"声 戻してくれる？
 落ち着かないから","Will you revert a voice?
-Because it is not settled",0.1875
+Because it is not settled",0.1875,0.71183676
 We've not seen you since the ceremony at the music academy.,"（女王）
-音楽アカデミーの式典以来ですね",It has since the ceremony of the music academy,0.3333333333333333
-How is school?,学校はどう？,How is the school?,0.8
+音楽アカデミーの式典以来ですね",It has since the ceremony of the music academy,0.3333333333333333,0.6510597
+How is school?,学校はどう？,How is the school?,0.8,0.8723114
 I've made some good friends.,"（プリンセス）
-良い友達が出来ました",A good friend was made,0.2
-That's good to hear.,（女王）それはいいわ,That's good,0.5
+良い友達が出来ました",A good friend was made,0.2,0.69442344
+That's good to hear.,（女王）それはいいわ,That's good,0.5,0.48861486
 Friends can be life-long treasures.,"友達は 一生の宝物に
 なりますからね","Friends are for a lifetime treasure
-It will be",0.15384615384615385
-"Yes, Grandmother.",はい,Yes,0.25
-What do you think of the princess?,（堀河(ほりかわ)公）プリンセスはどうだ？,public) How is Princess?,0.16666666666666666
-She is not what I imagined.,それが笑えない冗談ばかりで,It is only a joke that it can not laugh,0.14285714285714285
+It will be",0.15384615384615385,0.8531894
+"Yes, Grandmother.",はい,Yes,0.25,0.31899273
+What do you think of the princess?,（堀河(ほりかわ)公）プリンセスはどうだ？,public) How is Princess?,0.16666666666666666,0.7019585
+She is not what I imagined.,それが笑えない冗談ばかりで,It is only a joke that it can not laugh,0.14285714285714285,0.17517465
 "She's royalty, but she speaks to us as equals.","（ちせ）姫なのに
 私たちと対等に話します","Princess
-Talk with us compared to us",0.13333333333333333
-She even tells jokes.,冗談も言うし…,I also say jokes ...,0.1111111111111111
+Talk with us compared to us",0.13333333333333333,0.61585164
+She even tells jokes.,冗談も言うし…,I also say jokes ...,0.1111111111111111,0.60362834
 "She's full of curiosity, and always giving Ange trouble.","王国と共和国
 信頼できるパートナーはどちらか","Kingdom and Republic
-Reliable partner either",0.058823529411764705
-Chise.,（堀河公）ちせ,Chim,0.0
-I trust they don't suspect you?,疑われてはいないだろうな？,Isn't it suspected?,0.18181818181818182
-They removed me from the infiltration team.,潜入任務から 外されました,It was removed from the infiltration task,0.36363636363636365
-We must choose which to ally ourselves with.,我々は選ばなければならない,We have to choose,0.3
-I understand.,はい　分かっています,I know yes,0.2
-"Your Majesty, I believe it's time.",まだ早いと言いました,I said that it was early,0.15384615384615385
-For what?,（プリンセス）なんでしょう？,What is it?,0.4
-Mine?,私の？,my?,0.3333333333333333
+Reliable partner either",0.05882352941176471,0.11773944
+Chise.,（堀河公）ちせ,Chim,0.0,0.7717155
+I trust they don't suspect you?,疑われてはいないだろうな？,Isn't it suspected?,0.18181818181818185,0.55549455
+They removed me from the infiltration team.,潜入任務から 外されました,It was removed from the infiltration task,0.3636363636363637,0.6774618
+We must choose which to ally ourselves with.,我々は選ばなければならない,We have to choose,0.3,0.5734172
+I understand.,はい　分かっています,I know yes,0.2,0.4393817
+"Your Majesty, I believe it's time.",まだ早いと言いました,I said that it was early,0.15384615384615385,0.18092778
+For what?,（プリンセス）なんでしょう？,What is it?,0.4,0.2449933
+Mine?,私の？,my?,0.3333333333333333,0.6876002
 Such matters can wait until after she has graduated.,"そのような話
 卒業してからで十分でしょう","Such a story
-It will be enough after graduation",0.11764705882352941
-"I beg your pardon, Majesty,",恐れながら 陛下,Majesty while fear,0.125
+It will be enough after graduation",0.1176470588235294,0.51112753
+"I beg your pardon, Majesty,",恐れながら 陛下,Majesty while fear,0.125,0.5786541
 but strengthening our relationship with Moscow \Nwill lead to the stabilization of all of Europe.,"モスクワとの関係強化は
 ヨーロッパの安定につながります","Reinforcement with Moscow
-It leads to the stability of Europe",0.3157894736842105
+It leads to the stability of Europe",0.3157894736842105,0.80273455
 And to that end \Nyou would have us sacrifice our own granddaughter?,"（女王）そのために
 孫娘に犠牲になれと？","for that
-Do you sacrifice her granddaughter?",0.23529411764705882
+Do you sacrifice her granddaughter?",0.2352941176470588,0.73957217
 Binding our countries through marriage\Nwill squelch the possibility of a world war.,"世界大戦の可能性を
 潰すことができます","Possibilities of World War
-Can be crushed",0.17647058823529413
+Can be crushed",0.17647058823529413,0.61142886
 "From here on, I go alone.","（アンジェ）
-ここから先は 私一人で行く",Go ahead from here,0.3333333333333333
+ここから先は 私一人で行く",Go ahead from here,0.3333333333333333,0.45202813
 "If I'm not back in ten minutes, you go back to the others.","10分たって戻らなかったら
 ベアトは みんなの所に戻ってて","If you do not return after 10 minutes
-Beato she returned to everyone",0.21739130434782608
-All right.,（ベアトリス）はい,Yes,0.0
-Please be careful.,気をつけてください,Please be careful,0.75
-Oh?,あら？,fault?,0.3333333333333333
-Welcome back.,おかえりなさい,Welcome back,0.6666666666666666
+Beato she returned to everyone",0.21739130434782608,0.49995098
+All right.,（ベアトリス）はい,Yes,0.0,0.2743798
+Please be careful.,気をつけてください,Please be careful,0.75,0.9478362
+Oh?,あら？,fault?,0.3333333333333333,0.266613
+Welcome back.,おかえりなさい,Welcome back,0.6666666666666666,0.89675516
 Did you leave Ange and Beatrice?,"アンジェたちは
 置いてきちゃったんですか？","Angers
-Did you put it?",0.3
-You're worried?,気になるか？,Do you care?,0.3333333333333333
-"Yes, of course.",ええ もちろん,"Yes, of course",0.8
+Did you put it?",0.3,0.27497184
+You're worried?,気になるか？,Do you care?,0.3333333333333333,0.5430787
+"Yes, of course.",ええ もちろん,"Yes, of course",0.8,0.9163481
 This mission will deal a damaging blow to the Kingdom.,"今回の任務は 王国にとって
 大きなダメージになる","This mission is for the kingdom
-Become big damage",0.25
+Become big damage",0.25,0.80785537
 "If Princess is a double agent, she's sure to take action.","もし プリンセスが二重スパイなら
 なんらかの行動を取るはずだ","If the princess is dual spy
-You should take some action",0.25
-You mean...?,（プリンセス）どうかしましたか？,Did you do?,0.3333333333333333
+You should take some action",0.25,0.72984695
+You mean...?,（プリンセス）どうかしましたか？,Did you do?,0.3333333333333333,0.23848568
 "Oh, no. I was just wondering\Nwhat would make a good team name.","（ドロシー）あ… いや
 チームの名前 何がいいかなあって","Oh ...
-Team name What is good",0.23529411764705882
-No...,（アンジェ）そんな…,Such ...,0.3333333333333333
-"No, even if there was...",いや だとしても…,Even if it's no ...,0.4444444444444444
-This is some big equipment.,大きな装置だ,It is a big device,0.2222222222222222
+Team name What is good",0.2352941176470588,0.77542
+No...,（アンジェ）そんな…,Such ...,0.3333333333333333,0.4223156
+"No, even if there was...",いや だとしても…,Even if it's no ...,0.4444444444444444,0.5277779
+This is some big equipment.,大きな装置だ,It is a big device,0.2222222222222222,0.5551925
 This definitely would have been the research facility.,"ここが研究施設だったことは
 間違いなさそうだけど","That this was a research facility
-It seems to be wrong",0.17647058823529413
-They moved it?,（アンジェ）移動した？,Have you moved?,0.3333333333333333
-Miss Dorothy!,（ベアトリス）ドロシーさん！,Dorothy!,0.6666666666666666
+It seems to be wrong",0.17647058823529413,0.68918926
+They moved it?,（アンジェ）移動した？,Have you moved?,0.3333333333333333,0.47019908
+Miss Dorothy!,（ベアトリス）ドロシーさん！,Dorothy!,0.6666666666666666,0.90238005
 She told me to leave without her\Nif she didn't come back in ten minutes.,"（ドロシー）
-そうか てこずってるな","Well, she doesn't come out",0.15789473684210525
-"Let's go, Princess.",出よう プリンセス,Let's go out,0.42857142857142855
-What's the matter?,どうしたの？,What's wrong?,0.5
-There's no time.,時間がない　道々話す,Talk about time without time,0.125
-Was there an information leak?,（プリンセス）情報が漏れていた？,information leaked?,0.2857142857142857
+そうか てこずってるな","Well, she doesn't come out",0.15789473684210525,0.36201006
+"Let's go, Princess.",出よう プリンセス,Let's go out,0.42857142857142855,0.47736835
+What's the matter?,どうしたの？,What's wrong?,0.5,0.4457781
+There's no time.,時間がない　道々話す,Talk about time without time,0.125,0.48711696
+Was there an information leak?,（プリンセス）情報が漏れていた？,information leaked?,0.2857142857142857,0.8797165
 But I found the loading dock they used.,"分からない
 けど 搬出口は見つけた","I do not understand
-But I found the outlet",0.3076923076923077
-It leads to the Thames.,テムズ川につながってる,I'm connected to the Thames River,0.3
-The drawbridge only opened up ten minutes ago.,跳ね橋が開いたのは10分前,10 minutes ago that the bounce bridge has opened,0.2857142857142857
-They can't have gotten far.,まだ遠くには行っていないわ,I have not been far away,0.18181818181818182
+But I found the outlet",0.3076923076923077,0.22455432
+It leads to the Thames.,テムズ川につながってる,I'm connected to the Thames River,0.3,0.7325557
+The drawbridge only opened up ten minutes ago.,跳ね橋が開いたのは10分前,10 minutes ago that the bounce bridge has opened,0.2857142857142857,0.6407773
+They can't have gotten far.,まだ遠くには行っていないわ,I have not been far away,0.18181818181818185,0.34285486
 "If we take the shortest route,\Nwe should catch up to them at Greenwich.","最短コースを取れば
 グリニッジ辺りで追いつけるはず","If you take the shortest course
-I should catch up with Greenwich",0.4
+I should catch up with Greenwich",0.4,0.69404525
 Our research was finally on the right track.,"（博士）せっかく
-研究が軌道に乗ったというのに",Although research got on track,0.2727272727272727
-Why should we have to move now?,なぜ 今 移設などするのです？,Why are you relocating now?,0.2727272727272727
+研究が軌道に乗ったというのに",Although research got on track,0.2727272727272727,0.73769164
+Why should we have to move now?,なぜ 今 移設などするのです？,Why are you relocating now?,0.2727272727272727,0.6597539
 What does that book have to do with anything?,"その本が
 一体 どうしたというんだ","That book
-What was it?",0.3333333333333333
-A camera?,カメラか！,Camera!,0.25
+What was it?",0.3333333333333333,0.72316015
+A camera?,カメラか！,Camera!,0.25,0.74977505
 There is a Commonwealth spy in our midst.,"（政府の男）この中に
-共和国と通じているスパイがいる",There is a spy that communicates with the republic,0.2857142857142857
-Left at the next corner.,（アンジェ）次の角を左に,Next corner to the left,0.5714285714285714
-Right at the next intersection.,次の交差点を右,Next intersection,0.3333333333333333
+共和国と通じているスパイがいる",There is a spy that communicates with the republic,0.2857142857142857,0.6156803
+Left at the next corner.,（アンジェ）次の角を左に,Next corner to the left,0.5714285714285714,0.87811285
+Right at the next intersection.,次の交差点を右,Next intersection,0.3333333333333333,0.76282096
 Right at the next stairway.,"（アンジェ）次の階段を右
 （ドロシー）了解！","Right up the next stairs
- OK!",0.3
-You got it!,（ベアトリス）ひゃあああ！,Hyahah ah!,0.16666666666666666
+ OK!",0.3,0.7180246
+You got it!,（ベアトリス）ひゃあああ！,Hyahah ah!,0.16666666666666666,0.22719489
 What does it mean?,"（プリンセス）
-どういう意味ですか？",What do you mean?,0.42857142857142855
+どういう意味ですか？",What do you mean?,0.42857142857142855,0.49988604
 Nobody fall out!,"（ベアトリス）えっ？
 （ドロシー）みんな 落ちるなよ！","Eh?
- Everyone doesn't fall!",0.2222222222222222
+ Everyone doesn't fall!",0.2222222222222222,0.6228821
 "I thought maybe Princess had leaked the information, but...","（ドロシー）情報をリークしたのは
 プリンセスかと思ったが…","information was leaked
-She thought it was a princess ...",0.3333333333333333
-"It's quite the large boat, isn't it?",（プリンセス）結構大きい船ですね,It is quite large ship,0.36363636363636365
-I will go with you.,私も行こう,I will go,0.5
-"No. You stay here, Chise.",（アンジェ）いや ちせは残って,There is no chicken,0.1
-Miss Chise...?,ちせさん？,Mr. Chito?,0.16666666666666666
+She thought it was a princess ...",0.3333333333333333,0.8855859
+"It's quite the large boat, isn't it?",（プリンセス）結構大きい船ですね,It is quite large ship,0.3636363636363637,0.7327715
+I will go with you.,私も行こう,I will go,0.5,0.613508
+"No. You stay here, Chise.",（アンジェ）いや ちせは残って,There is no chicken,0.1,0.22634494
+Miss Chise...?,ちせさん？,Mr. Chito?,0.16666666666666666,0.45843548
 I'm a stronger asset than Dorothy!,"（ちせ）
-ドロシーより私のほうが強いぞ！",I'm more strong from Dorothy!,0.36363636363636365
+ドロシーより私のほうが強いぞ！",I'm more strong from Dorothy!,0.3636363636363637,0.8911802
 I know.,"（アンジェ）知ってる
 （ちせ）だったら…","I know 
-If it is ...",0.2857142857142857
-I said I would go!,私も行きます,I will go too,0.2857142857142857
-Your Highness?,姫様？,Princess?,0.25
+If it is ...",0.2857142857142857,0.4017547
+I said I would go!,私も行きます,I will go too,0.2857142857142857,0.5996993
+Your Highness?,姫様？,Princess?,0.25,0.45607412
 "Besides, if I go, you won't have to leave a guard with me.","それに 私が行けば
 護衛を残さなくて済むでしょう？","And if I go
-You have to leave escort?",0.3684210526315789
-"Wait a minute, Princess.",待てよ プリンセス,Wait Princess,0.3333333333333333
-It's too dangerous for an amateur.,素人には危険すぎる,An amateur is too dangerous,0.4444444444444444
-I'd like to know why you're so eager to take the risk.,そこまでする訳を聞きたいね,I want to hear the translation,0.17647058823529413
+You have to leave escort?",0.3684210526315789,0.63995713
+"Wait a minute, Princess.",待てよ プリンセス,Wait Princess,0.3333333333333333,0.7095926
+It's too dangerous for an amateur.,素人には危険すぎる,An amateur is too dangerous,0.4444444444444444,0.86640537
+I'd like to know why you're so eager to take the risk.,そこまでする訳を聞きたいね,I want to hear the translation,0.17647058823529413,0.0049729436
 "If word gets out that I'm a spy, it's over for me.","スパイをやっているとバレたら
 私は終わりです","If you are playing spy
-I'm over",0.2631578947368421
-I'm standing on a precipice... \Na bridge much narrower and more fragile than this one.,私は立っているんです,I'm standing,0.16666666666666666
-It's the same either way.,同じですよ,It is the same,0.375
+I'm over",0.2631578947368421,0.6752785
+I'm standing on a precipice... \Na bridge much narrower and more fragile than this one.,私は立っているんです,I'm standing,0.16666666666666666,0.40008238
+It's the same either way.,同じですよ,It is the same,0.375,0.57561475
 "If you all fail, that will lead them directly to my secret.","皆さんの失敗は
 私の秘密に直結します","Everybody's failure
-Directly connected to my secret",0.2222222222222222
+Directly connected to my secret",0.2222222222222222,0.69128335
 I must put my life on the line to make this plan succeed.,"作戦が成功するために
 命を懸けなければなりません","To succeed the strategy
-I have to ask",0.23529411764705882
+I have to ask",0.2352941176470588,0.4409707
 "If Princess is a double agent,","（ドロシー）
-プリンセスが二重スパイなら",If the princess is dual spy,0.3
+プリンセスが二重スパイなら",If the princess is dual spy,0.3,0.7677487
 it shouldn't matter \Nif her secret gets out- she would have a safety net.,"裏切りがバレても
 安全は保障されるはず","Even the betrayal is barre
-Safety should be guaranteed",0.08695652173913043
+Safety should be guaranteed",0.08695652173913042,0.38889763
 There would be no reason to take such a big risk.,"ここまで
 危険を冒す必要がない… か","So far
-There is no need to pose danger ...",0.15789473684210525
+There is no need to pose danger ...",0.15789473684210525,0.52686983
 "All right, Princess.","（ドロシー）
-分かったよ プリンセス",I understand Princess,0.14285714285714285
-Yes!,はい！,Yes!,1.0
-What was that?,（兵士）ん？　なんだ？,? what?,0.5
+分かったよ プリンセス",I understand Princess,0.14285714285714285,0.5819234
+Yes!,はい！,Yes!,1.0,0.9999998
+What was that?,（兵士）ん？　なんだ？,? what?,0.5,0.529167
 Did you kill him?,"（ベアトリス）
-殺しちゃったんですか？",Did you kill?,0.8
-He wasn't strong enough to merit killing.,（ちせ）殺すほど強い相手ではない,is not strong enough to kill,0.25
-What do we do now?,これから どうするんじゃ？,What do you do from now on?,0.5
-We split into two groups.,（アンジェ）二手に分かれよう,Let's divide into two hands,0.2
-Princess and I will go aft.,私とプリンセスで後ろを,Behind with me and Princess,0.2
+殺しちゃったんですか？",Did you kill?,0.8,0.88570964
+He wasn't strong enough to merit killing.,（ちせ）殺すほど強い相手ではない,is not strong enough to kill,0.25,0.62153345
+What do we do now?,これから どうするんじゃ？,What do you do from now on?,0.5,0.6909284
+We split into two groups.,（アンジェ）二手に分かれよう,Let's divide into two hands,0.2,0.4817095
+Princess and I will go aft.,私とプリンセスで後ろを,Behind with me and Princess,0.2,0.54437095
 "Right. We'll take the bow, then.","（ドロシー）
-よし じゃあ 私らは前だ","Yoshi, we are before",0.16666666666666666
+よし じゃあ 私らは前だ","Yoshi, we are before",0.16666666666666666,0.21906307
 Are you angry?,"（プリンセス）
-シャーロット　怒ってるの？",Are you angry at Charlotte?,0.6666666666666666
-"Of course I am, after that stunt...",（ベアトリス）あっ…,...,0.1111111111111111
+シャーロット　怒ってるの？",Are you angry at Charlotte?,0.6666666666666666,0.54228795
+"Of course I am, after that stunt...",（ベアトリス）あっ…,...,0.1111111111111111,0.20332205
 I was worried sick.,"あんな危ないことして
 心配したんだから","Such dangerous thing
-Because I was worried",0.3333333333333333
-I'm sorry.,（プリンセス）ごめんなさい,I'm sorry,0.75
+Because I was worried",0.3333333333333333,0.6527539
+I'm sorry.,（プリンセス）ごめんなさい,I'm sorry,0.75,0.89931357
 "Can you blame me, Charlotte?","（プリンセス）
-だって シャーロットったら",If you're Charlotte,0.2222222222222222
-Because...,（アンジェ）それは…,It is ...,0.25
+だって シャーロットったら",If you're Charlotte,0.2222222222222222,0.695827
+Because...,（アンジェ）それは…,It is ...,0.25,0.47611958
 "If I did that now, people would know we're old friends.","私たちが古い知り合いって
 バレてしまうわ","We get an old acquaintance
-I'm sorry",0.15789473684210525
+I'm sorry",0.15789473684210525,0.534934
 "Right then, \Nwhy don't we say we met and realized we're kindred spirits?","じゃあ 出会ってすぐ
 意気投合しましたっていうのは？","Then come up soon
-What did you do?",0.14285714285714285
-I would lose control of myself.,堂々と仲良くできるわ,I can get along well,0.09090909090909091
+What did you do?",0.14285714285714285,0.20609355
+I would lose control of myself.,堂々と仲良くできるわ,I can get along well,0.09090909090909093,0.24607003
 Like you used to.,"（プリンセス）
 でも 私が好きになったのは
 昔のあなたよ","But I liked it
-You used to you",0.3333333333333333
-that I love so much.,ついにシッポを出したな,I finally put out a sippo,0.09090909090909091
-What?!,何！　うっ…,what!Uey ...,0.4
+You used to you",0.3333333333333333,0.6265822
+that I love so much.,ついにシッポを出したな,I finally put out a sippo,0.09090909090909093,0.09056807
+What?!,何！　うっ…,what!Uey ...,0.4,0.48009697
 "The Cavorite research team, I presume?","（プリンセス）
-ケイバーライトの研究班ですね？",Is it a research group of Cayberlight?,0.14285714285714285
-You're...,ハッ！　あなた まさか…,Ha!You are not good ...,0.25
-We haven't settled on a name yet.,名前は まだ決まっていません,The name has not been decided yet,0.14285714285714285
+ケイバーライトの研究班ですね？",Is it a research group of Cayberlight?,0.14285714285714285,0.68858486
+You're...,ハッ！　あなた まさか…,Ha!You are not good ...,0.25,0.3292807
+We haven't settled on a name yet.,名前は まだ決まっていません,The name has not been decided yet,0.14285714285714285,0.6499998
 "Not only did we get the prototype,\Nbut we have the researchers in custody.","（ドロシー）試作品だけでなく
 研究者の身柄まで拘束できました","Not only prototype products
-Restrained to the body of researchers",0.2631578947368421
-This world isn't black and white.,この世界に白はない,There is no white in this world,0.36363636363636365
-Only black and grey.,黒とグレーがあるだけだ,There is only black and gray,0.375
-And the princess is grey.,プリンセスはグレー,Princess is gray,0.2857142857142857
+Restrained to the body of researchers",0.2631578947368421,0.6748877
+This world isn't black and white.,この世界に白はない,There is no white in this world,0.3636363636363637,0.7355479
+Only black and grey.,黒とグレーがあるだけだ,There is only black and gray,0.375,0.82063514
+And the princess is grey.,プリンセスはグレー,Princess is gray,0.2857142857142857,0.86343324
 "As part of the food series, let's be Team Carrot!","（ベアトリス）
 それじゃあ 食べ物シリーズで
 “チーム人参(にんじん)”！","Well then in the food series
-""Team ""!",0.2777777777777778
+""Team ""!",0.2777777777777778,0.6551744
 These are getting worse and worse.,"（ちせ）
-だんだん苦しくなってきたのう",It's getting more painful,0.1
+だんだん苦しくなってきたのう",It's getting more painful,0.1,0.37794834
 I know. What about Team White Pigeon?,"ねえ “チーム白鳩(しろはと)”って
 どうかしら？","Hey ""Team white pigeon""
-I wonder?",0.38461538461538464
+I wonder?",0.38461538461538464,0.902413
 Pigeon?,"（アンジェ）スパイのこと
 “ハト”っていうしね","Spy
-""Pigeon""",0.25
-Not bad.,（ちせ）鳩？　悪くない,Dove? not bad,0.4
+""Pigeon""",0.25,0.7019719
+Not bad.,（ちせ）鳩？　悪くない,Dove? not bad,0.4,0.34062478
 It's pretty and cute. I like it!,"きれいだし かわいいし
 いいですね それ！","Clean and cute
-It is good.",0.3333333333333333
-Really?,そうなの？,Is that so?,0.2
+It is good.",0.3333333333333333,0.607723
+Really?,そうなの？,Is that so?,0.2,0.45281473
 "After the Flood, \NNoah sent a dove... a pigeon... to scout for land.","世界を知るために放った鳥が
 鳩なの","A bird I released to know the world
-Pigeon",0.2
-Then that settles it.,じゃあ 決まりですね！,"Well then, it is decided!",0.2
-"What do you think, Miss Dorothy?",ドロシーさんは どう思います？,What do you think of Dorothy?,0.6666666666666666
-I like it. Team White Pigeon.,いいじゃないか チーム白鳩,It's not good Team white pigeon,0.4
+Pigeon",0.2,0.5123138
+Then that settles it.,じゃあ 決まりですね！,"Well then, it is decided!",0.2,0.45197505
+"What do you think, Miss Dorothy?",ドロシーさんは どう思います？,What do you think of Dorothy?,0.6666666666666666,0.90670717
+I like it. Team White Pigeon.,いいじゃないか チーム白鳩,It's not good Team white pigeon,0.4,0.84432596
 I knew you'd like it!,"（ベアトリス）
 やっぱり そう思いますよね！
 フフフッ","After all I think so!
-Hood",0.16666666666666666
+Hood",0.16666666666666666,0.17542864

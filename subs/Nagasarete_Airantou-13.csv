@@ -1,291 +1,291 @@
-en_text,jp_text,google_translated,score
-What're you making?,何作ってるの〜？,What are you making?,0.6666666666666666
-Don't scare me!,ふにゃ〜っ！ びっくりさせないで！,Funya!Don't be surprised!,0.375
-Keep it a secret from Tonkatsu.,はあ… とんかつには内緒だよ,Yes ... It is secret to Tonkatsu,0.2727272727272727
-What?,えっ 何？,What is it?,0.5
-"Today, it's Tonkatsu's birthday.",今日ね とんかつのお誕生日なの,Today is the birthday of Tonkatsu,0.3
+en_text,jp_text,google_translated,score,semantic_score
+What're you making?,何作ってるの〜？,What are you making?,0.6666666666666666,0.9647586
+Don't scare me!,ふにゃ〜っ！ びっくりさせないで！,Funya!Don't be surprised!,0.375,0.3676057
+Keep it a secret from Tonkatsu.,はあ… とんかつには内緒だよ,Yes ... It is secret to Tonkatsu,0.2727272727272727,0.9023515
+What?,えっ 何？,What is it?,0.5,0.4310603
+"Today, it's Tonkatsu's birthday.",今日ね とんかつのお誕生日なの,Today is the birthday of Tonkatsu,0.3,0.9593659
 "That's why I'm making a delicious Hiyayakko,","だから 飛び切りおいしい冷や奴を作って
 みんなでお祝いしようと思って！","So I made a good cold and guy
-I'm thinking of celebrating everyone!",0.14285714285714285
-That's nice.,へぇー いいねぇ！,Hey!,0.0
-Birthday?,ん？ 誕生日？,Yeah?birthday?,0.6666666666666666
-"What's wrong, Ikuto?",あ ああ？,"Oh,?",0.2857142857142857
-"No, it's nothing.",あ いや 何でもないよ,Oh no means,0.125
+I'm thinking of celebrating everyone!",0.14285714285714285,0.2495125
+That's nice.,へぇー いいねぇ！,Hey!,0.0,0.33223355
+Birthday?,ん？ 誕生日？,Yeah?birthday?,0.6666666666666666,0.80210507
+"What's wrong, Ikuto?",あ ああ？,"Oh,?",0.2857142857142857,0.18003257
+"No, it's nothing.",あ いや 何でもないよ,Oh no means,0.125,0.26171196
 Don't say you're going back.,"帰るなんてそう言わず…
 ゆっくりしていけばいいよ","Don't say so ...
-You should be relaxed",0.3076923076923077
-"I see, it is her birthday today.",そっか… あいつ 今日が誕生日だったな,Sacrifice ... Aya Today was a birthday,0.14285714285714285
-What is that?,何だろ？,What?,0.5
-All right!,よおーし！,Yo!,0.25
-"No matter how you see it, it's far too big.",どう見てもおっきすぎると思うけど,I think it's too big to see,0.3333333333333333
+You should be relaxed",0.3076923076923077,0.28202763
+"I see, it is her birthday today.",そっか… あいつ 今日が誕生日だったな,Sacrifice ... Aya Today was a birthday,0.14285714285714285,0.44195774
+What is that?,何だろ？,What?,0.5,0.4957589
+All right!,よおーし！,Yo!,0.25,0.34363136
+"No matter how you see it, it's far too big.",どう見てもおっきすぎると思うけど,I think it's too big to see,0.3333333333333333,0.7923434
 "I see, I wanted to make a big Hiyayakko as a surprise for Tonkatsu.","そっかぁ… おっきい冷や奴で
 とんかつをびっくりさせたかったんだけどなぁ","Well ... at the same time
-I wanted to surprise Tonkatsu, but",0.2857142857142857
+I wanted to surprise Tonkatsu, but",0.2857142857142857,0.72696435
 It's still too early to give up.,"あっ… ああいや
 諦めるのはまだ早いよね","Oh ... Oh
-It is still early to give up",0.5
-Really?,そ〜お？,"Well, right?",0.2
+It is still early to give up",0.5,0.8475832
+Really?,そ〜お？,"Well, right?",0.2,0.46906728
 "If Ikuto says so, I'll have to try again.","ホント？ 行人がそう言うなら
 私ももう１回やってみる","really?If the carrier says
-I will try one more time",0.2
+I will try one more time",0.2,0.2887348
 "Ikuto-sama, Mother made lots of Mame-Daifuku.","お母様が豆大福を作り過ぎちゃってぇ〜
 おすそ分け","Mother has made a lot of bean driving and
-お お",0.2
-Mame-Daifuku...!,豆大福！,Bean fellow!,0.2
-You're really a glutton.,いただきま〜す　あうっ,Thank you,0.14285714285714285
+お お",0.2,0.42134434
+Mame-Daifuku...!,豆大福！,Bean fellow!,0.2,0.22826116
+You're really a glutton.,いただきま〜す　あうっ,Thank you,0.14285714285714285,0.14107817
 "There's so much, can I eat it all?","うわあ〜 こんなにたくさん！
 全部食べていいの？","Wow ~ Such a lot!
-Can you eat everything?",0.15789473684210525
+Can you eat everything?",0.15789473684210525,0.7992052
 "Of course, it's all made for Suzu.","もちろん すずのために
 特別に用意したのよ","Of course for tin
-I prepared a specially prepared",0.2
+I prepared a specially prepared",0.2,0.17080119
 I'm eating it!,"そうそう とても食べられたもんじゃない
 って何っ！","Oh yeah I'm not eating very much
-What is it!",0.4166666666666667
+What is it!",0.4166666666666667,0.6388147
 What is this! It's so spicy!,"ううっ ひーっ！ 何これ！ 辛いよ！
 水ー 水ー！","Uhuhi!What's this!It's painful!
-Water water!",0.45454545454545453
-Ah...,うふふふ…,Ufufufu ...,0.3333333333333333
+Water water!",0.4545454545454545,0.5181899
+Ah...,うふふふ…,Ufufufu ...,0.3333333333333333,0.20359275
 "During that period of time, I'll be with Ikuto-sama.","その間に 私は行人様と豆大福のように
 甘〜い時間を過ごすの〜","Meanwhile, I like a car and bean driving
-Spend sweet ~ time ~",0.13636363636363635
-It can't be eaten after all...,やっぱりこれは食べられない,After all this can not be eaten,0.36363636363636365
+Spend sweet ~ time ~",0.13636363636363635,0.2082519
+It can't be eaten after all...,やっぱりこれは食べられない,After all this can not be eaten,0.3636363636363637,0.8610082
 "Actually my throat is screaming ""I want to eat Mame-Daifuku"" but...","ホントは喉から手が出るほど
 食べたい豆大福だけど…","The throat is from my throat
-I want to eat Bean Daifuku ...",0.4444444444444444
-Suzu...,ああぁ…,Oh ...,0.3333333333333333
+I want to eat Bean Daifuku ...",0.4444444444444444,0.7412529
+Suzu...,ああぁ…,Oh ...,0.3333333333333333,0.21095411
 "Mame-Daifuku only needs one second to eat, right?","豆大福なんか
 １秒あれば食べられるでしょ？","Bean furdock
-You can eat one second, right?",0.42857142857142855
-You're stubborn!,うわあっ！,Wow!,0.2
-I said I won't eat!,嫌だってっ！,I hate it!,0.25
-Ikuto?,あ？,Ah?,0.3333333333333333
-This is...,これって？,is this?,0.5
-Ikuto's lover?,え？ 行人の恋人？,picture?A wife's lover?,0.42857142857142855
+You can eat one second, right?",0.42857142857142855,0.5379508
+You're stubborn!,うわあっ！,Wow!,0.2,0.2805605
+I said I won't eat!,嫌だってっ！,I hate it!,0.25,0.3001773
+Ikuto?,あ？,Ah?,0.3333333333333333,0.2214561
+This is...,これって？,is this?,0.5,0.49568352
+Ikuto's lover?,え？ 行人の恋人？,picture?A wife's lover?,0.42857142857142855,0.42448673
 It's not uncommon to have one or two lovers.,"あの年頃の健全な青年男子に
 恋人の１人や２人いたっておかしくないでしょ？","To the healthy young boy around that year
-Do you not make it strange to one or two of the lovers?",0.2916666666666667
+Do you not make it strange to one or two of the lovers?",0.2916666666666667,0.5887736
 "For two people to be in love, promising to be married in the future.","好き合ってた２人は
 将来の約束を交わしていた","Two people who liked
-I had a promise in the future",0.2631578947368421
-But the man had an accident during his journey.,しかし男は旅に出て 海で遭難,But a man went on a journey and distressed in the sea,0.23529411764705882
+I had a promise in the future",0.2631578947368421,0.5000999
+But the man had an accident during his journey.,しかし男は旅に出て 海で遭難,But a man went on a journey and distressed in the sea,0.2352941176470588,0.6181757
 Drifted to an island where he met a gorgeous lady.,"孤島に流れ着き
 そこで絶世の美女と出会う","Flowing on a solitary island
-So he encountered a beautiful girl",0.16666666666666666
-My heart already belongs to my lover.,僕には心に決めた恋人が…,The lover decided to be a heart ...,0.25
+So he encountered a beautiful girl",0.16666666666666666,0.73512596
+My heart already belongs to my lover.,僕には心に決めた恋人が…,The lover decided to be a heart ...,0.25,0.61257744
 But I can't lie to myself when I'm facing your beauty.,"しかし 君の美しさの前に
 自分の心を偽ることは出来ない","But before your beauty
-I can not fake my heart",0.21052631578947367
+I can not fake my heart",0.21052631578947367,0.611681
 "You can't do that, your heart is already taken and yet...","あぁ いけませんわ
 心に決めたお人がいながら そんな…","Oh, I do not
-While there is a person decided to be a heart he ...",0.2
-"How can that be, Ikuto-sama?",ん〜ん？,What?,0.125
-"No, Ikuto-sama, I said no...",ふぁ… 燃える展開だわぁ,Fa ... I'm burning development,0.2
-"Forbidden love, being a third party...",禁じられた恋 略奪愛,Love Lottery,0.1111111111111111
-It can't go on like this.,こうしちゃいられない！,I can't do this!,0.2727272727272727
+While there is a person decided to be a heart he ...",0.2,0.47828147
+"How can that be, Ikuto-sama?",ん〜ん？,What?,0.125,0.11076515
+"No, Ikuto-sama, I said no...",ふぁ… 燃える展開だわぁ,Fa ... I'm burning development,0.2,0.11961229
+"Forbidden love, being a third party...",禁じられた恋 略奪愛,Love Lottery,0.1111111111111111,0.26698685
+It can't go on like this.,こうしちゃいられない！,I can't do this!,0.2727272727272727,0.38714457
 "Then, have you ever seen Ikuto-sama show such a lonely expression?","だったらあんた 今まであんな悲しそうな
 行人様の顔 見た事ある？","If so, I have been so sad until now
-Have you ever seen the face of a car?",0.2916666666666667
-That...,それは…,that is…,0.3333333333333333
-"I see, it's Tonkatsu's birthday today.",そうか 今日はとんかつの誕生日か,"So, today is the birthday of Tonkatsu",0.3076923076923077
-"If that's so, why are you listless?",ん？ それにしては元気がないのぅ,Yeah?That's why I'm not fine,0.26666666666666666
-It's not like that.,えっ？そ そんな事ないよぉ…,eh?That's why he is not like ...,0.3333333333333333
-What do you mean?,どういう事じゃ？,What kind of thing is it?,0.2
+Have you ever seen the face of a car?",0.2916666666666667,0.34172398
+That...,それは…,that is…,0.3333333333333333,0.471955
+"I see, it's Tonkatsu's birthday today.",そうか 今日はとんかつの誕生日か,"So, today is the birthday of Tonkatsu",0.3076923076923077,0.9478355
+"If that's so, why are you listless?",ん？ それにしては元気がないのぅ,Yeah?That's why I'm not fine,0.26666666666666666,0.2627195
+It's not like that.,えっ？そ そんな事ないよぉ…,eh?That's why he is not like ...,0.3333333333333333,0.45255363
+What do you mean?,どういう事じゃ？,What kind of thing is it?,0.2,0.0886712
 "Actually, Ikuto-sama has a lover in the place where he lived.","実は行人様には国に残してきた
 恋人がいたのよ","Actually, I left the country in the country
-I had a lover",0.35294117647058826
+I had a lover",0.35294117647058826,0.2964914
 And I'm the girl who has more charm than the girl that attracted Ikuto-sama.,"そして その子よりもさらに私の魅力に
 行人様は引かれ 自分を抑えきれず…","And to my attraction more than that child
-The goat is pulled and can not suppress myself ...",0.19230769230769232
+The goat is pulled and can not suppress myself ...",0.19230769230769232,0.32370105
 The tension is rising...,"あの愁いを帯びた瞳は間違いなく…
 恋人を思う瞳だわ〜","That dangerous pupil is definitely ...
-It is the eyes that think of a lover ~",0.1875
-But we're still unsure if that girl is his lover!,だからまだ 恋人かどうかわからないよ！,So I still do not know if it is a lover!,0.2631578947368421
+It is the eyes that think of a lover ~",0.1875,0.09663807
+But we're still unsure if that girl is his lover!,だからまだ 恋人かどうかわからないよ！,So I still do not know if it is a lover!,0.2631578947368421,0.6762333
 "Suzu, I understand that you're in denial of that fact.","見たでしょ？
 あの行人様の物思いにふける姿","Did you see it?
-The pensive appearance of that goat",0.15
-I'm burning...,うひひひ… 燃えるわぁ,Uhiko ... Burning,0.4
-"That's right, I can't continue like this.",そうだ　こうしちゃいられないんだった,That's right I can't do this,0.5833333333333334
-"Preparations, Preparations...",ふーん…,Hmm ...,0.25
+The pensive appearance of that goat",0.15,0.033454258
+I'm burning...,うひひひ… 燃えるわぁ,Uhiko ... Burning,0.4,0.47990486
+"That's right, I can't continue like this.",そうだ　こうしちゃいられないんだった,That's right I can't do this,0.5833333333333334,0.46329623
+"Preparations, Preparations...",ふーん…,Hmm ...,0.25,0.09500684
 "It may not be a lover, but thinking of one's parents and loved ones should not be a surprise.","いや 恋人に限らず 故郷や家族の事を
 思い出してもおかしくはない","No lover but also the hometown and family
-It is not strange to remember",0.17857142857142858
-He could be missing his home.,ホームシック かもしれんのう,It may be home shic,0.2
-This is a chance.,こりゃチャンスだぜ,It's a chance,0.2857142857142857
+It is not strange to remember",0.17857142857142858,0.5458685
+He could be missing his home.,ホームシック かもしれんのう,It may be home shic,0.2,0.396997
+This is a chance.,こりゃチャンスだぜ,It's a chance,0.2857142857142857,0.7878703
 "Mom said if you attack a man when he's vulnerable, he'll instantly fall in love with you.","男が弱気になったところを攻めれば
 簡単に落とせるって 母ちゃん言ってっからなぁ","If you attack the place where the man is bearish
-I say my mother to say easy to drop",0.12903225806451613
-Today I must...,ずさ　うっふ…,I'm sorry ...,0.3333333333333333
-I'm taking this battle plan!,行くわよ くまくま！,I'm going to go!,0.3
-"Wait, who said that you can take it?",あ 待て！ 先越されてたまるかっ！,Wait!It is the first time!,0.13333333333333333
+I say my mother to say easy to drop",0.12903225806451613,0.53676206
+Today I must...,ずさ　うっふ…,I'm sorry ...,0.3333333333333333,0.31136492
+I'm taking this battle plan!,行くわよ くまくま！,I'm going to go!,0.3,0.4682111
+"Wait, who said that you can take it?",あ 待て！ 先越されてたまるかっ！,Wait!It is the first time!,0.13333333333333333,0.13847136
 I guess it would be like this.,"その割には
 すっかりめかしこんでんじゃないか","It is
-I'm totally fucked",0.16666666666666666
+I'm totally fucked",0.16666666666666666,0.18289714
 "The charm that's different from the normal me will let Ikuto-sama,","普段とは違った私の魅力に
 行人様もイ・チ・コ・ロ・よ！","My attraction that is different from usual
-There is a goat, a jerk.",0.19047619047619047
+There is a goat, a jerk.",0.19047619047619047,0.0957997
 I'll help you forget your old lover soon.,"すぐに昔の女のことなんか
 忘れさせてあげるわ〜","Soon a woman's old woman
-I will forget it ~",0.25
-Wait.,待て！,wait!,0.3333333333333333
+I will forget it ~",0.25,0.5344304
+Wait.,待て！,wait!,0.3333333333333333,0.86465013
 "My, I was just going to see Ikuto-sama.","やぁね ちょっと行人様の様子を
 見に来ただけよぉ","Yaa A little bit of the way
-I just came to see",0.2222222222222222
-"Speaking of which, what is Rin carrying?",ちかげ 何それ？,What kind of chicks?,0.2727272727272727
-"No, that is...",いや〜 その…,No ~ ...,0.3333333333333333
-This?,これですかぁ？,Is this?,0.6666666666666666
+I just came to see",0.2222222222222222,0.24736527
+"Speaking of which, what is Rin carrying?",ちかげ 何それ？,What kind of chicks?,0.2727272727272727,0.104730405
+"No, that is...",いや〜 その…,No ~ ...,0.3333333333333333,0.47445542
+This?,これですかぁ？,Is this?,0.6666666666666666,0.5386692
 "I've already prepared clothes that he's used to, for attacking.","あのねあのねぇ ゆきのたちはね
 お化粧して大人の女に変身したの〜","That's why Nee Yuki
-I turned into a woman and transformed it to an adult woman",0.15384615384615385
-"My, I have a Western costume too.",あ〜ら 洋服なら私だってぇ,"If you're a clothes, I'm me",0.2
+I turned into a woman and transformed it to an adult woman",0.15384615384615385,0.119971566
+"My, I have a Western costume too.",あ〜ら 洋服なら私だってぇ,"If you're a clothes, I'm me",0.2,0.33790684
 Ayane-san's style is over one hundred years ago.,"あやねさんのそのカッコは
 100年も前に廃れてますわ","Ayane's parenthesis
-It will be abandoned in 100 years ago",0.16666666666666666
+It will be abandoned in 100 years ago",0.16666666666666666,0.5817558
 This is the latest fashion.,"これが！
 最新の流行ファッションですの","This is!
-It is the latest epidemic fashion",0.5555555555555556
-Eh...,ぷぷぷぷぷ…,Pupupupupu ...,0.3333333333333333
-"How is it? It's beautiful, right?",ど〜お 美しいでしょ？,Are you beautiful?,0.2
+It is the latest epidemic fashion",0.5555555555555556,0.5956838
+Eh...,ぷぷぷぷぷ…,Pupupupupu ...,0.3333333333333333,0.203047
+"How is it? It's beautiful, right?",ど〜お 美しいでしょ？,Are you beautiful?,0.2,0.4831803
 "It's the best, Ikuto-sama will definitely laugh... Not raise his spirits.","ふっ あれじゃ化粧じゃなくて 化け粧ね
 うふふ…","It's not a cosmetic and cosmetic
-Ufufu ...",0.21052631578947367
-Ikuto...,おかしいなぁ…,Funny ...,0.3333333333333333
-Ikuto-sama.,ん？,Yeah?,0.0
-Ikuto-san!\NHusband!\NIkuto.,行人様！,Catarperson!,0.16666666666666666
-This is weird...,あっ すず！ あああっ…,There is a wow!Oh ...,0.2222222222222222
-"I'm off to the sea, Ikuto.",“海に行ってきます　行人” ですって,"""I'm going to the sea""",0.4166666666666667
+Ufufu ...",0.21052631578947367,0.021929802
+Ikuto...,おかしいなぁ…,Funny ...,0.3333333333333333,0.1808834
+Ikuto-sama.,ん？,Yeah?,0.0,0.12857124
+Ikuto-san!\NHusband!\NIkuto.,行人様！,Catarperson!,0.16666666666666666,0.25124446
+This is weird...,あっ すず！ あああっ…,There is a wow!Oh ...,0.2222222222222222,0.18385588
+"I'm off to the sea, Ikuto.",“海に行ってきます　行人” ですって,"""I'm going to the sea""",0.4166666666666667,0.5946236
 That girl's picture is not here.,"さっきの女の子の写真がなくなってる
 あっ…","There is no photo of the girl earlier
-Ah…",0.13333333333333333
-Ikuto...!,はっ… 行人ーっ！,Hey ... A line!,0.3333333333333333
-Ikuto!,んっんん！,New!,0.3333333333333333
-Oh no!,たああーっ！,Oh yeah!,0.5
-"Ikuto you idiot, idiot, idiot, idiot, idiot!",死んじゃうかもしれないんだよっ！,You may die!,0.2857142857142857
+Ah…",0.13333333333333333,0.76126647
+Ikuto...!,はっ… 行人ーっ！,Hey ... A line!,0.3333333333333333,0.26251382
+Ikuto!,んっんん！,New!,0.3333333333333333,0.33087158
+Oh no!,たああーっ！,Oh yeah!,0.5,0.7626049
+"Ikuto you idiot, idiot, idiot, idiot, idiot!",死んじゃうかもしれないんだよっ！,You may die!,0.2857142857142857,0.21989647
 Are you that desperate to return to that girl?,"そうまでして あの子のところに
 帰りたいの？","So far, that child's place
-Do you want to go back?",0.2222222222222222
-"No, I just want to send out this thing.",いや… これ出そうとしただけ…,No ... I just tried this ...,0.3076923076923077
-Letter?,え？ あ… 手紙？,picture?Oh ... Letter?,0.4
+Do you want to go back?",0.2222222222222222,0.40924236
+"No, I just want to send out this thing.",いや… これ出そうとしただけ…,No ... I just tried this ...,0.3076923076923077,0.34980506
+Letter?,え？ あ… 手紙？,picture?Oh ... Letter?,0.4,0.78328127
 Wait a sec! That's exactly what I planned!,"ちょっと！ 私の作戦を横取りしようなんて
 すずってば卑怯じゃないのーっ！","A little!Let's cross my strategy
-It's not a wolf!",0.16666666666666666
-Ayane? I didn't think of doing that.,あやね？ 私 そんなつもりじゃ…,Ayane?I'm going to say so ...,0.1875
+It's not a wolf!",0.16666666666666666,0.31497017
+Ayane? I didn't think of doing that.,あやね？ 私 そんなつもりじゃ…,Ayane?I'm going to say so ...,0.1875,0.8721316
 You guys are still wearing western costumes and dolling your face white? These are all outdated.,"全く フリルやら白塗りやら
 時代遅れもいいところですわ","Total frills and white paintings
-It is a good place to be late",0.07142857142857142
-Did I get anything wrong?,え？ 何か間違ってました？ 私,picture?Something wrong?Me,0.2222222222222222
+It is a good place to be late",0.07142857142857142,0.26357055
+Did I get anything wrong?,え？ 何か間違ってました？ 私,picture?Something wrong?Me,0.2222222222222222,0.42298636
 "Actually hubby, we heard that you are feeling down so we decided to do something to cheer you up.","-ああっ
 -実はさ","-A
-- Actually",0.05
+- Actually",0.05,0.12090149
 "In addition to that, allow the charm of Yukino to comfort you.","行人様 故郷の恋人を忘れるには
 次の恋をするのが一番ですわ","To forget the lover of the childhood hometown
-The best thing to fall next",0.14285714285714285
-Please don't be worried.,ご ご心配なく…,Don't worry about ...,0.2222222222222222
-I'll be the one to heal the wound inside Ikuto-sama.,行人様の心の傷をいやすのは私よ！,I'm going to get hurt of the heart of the carpato!,0.15789473684210525
-Eh? Wait...,えっ？ ちょ…,eh?Cho ...,0.6
-Who are you?!,助け うっ  誰ですかぁーっ？,Who is helpful?,0.2857142857142857
-I'll make you forget that lover of yours.,私がその恋人を忘れさせてあげますわ,I will forget the lover,0.25
-Yukino will do it!,ゆきのだってば！,If it is Yukino!,0.42857142857142855
-"Geez, everyone stop!",もうみんな やめて！,Please stop everyone anymore!,0.42857142857142855
-I already mentioned that his lover will be...,美咲ちゃんていうんだ… 行人の恋人,"Misaki, I'm saying ... Midor's Lover",0.2
+The best thing to fall next",0.14285714285714285,0.23331656
+Please don't be worried.,ご ご心配なく…,Don't worry about ...,0.2222222222222222,0.5303331
+I'll be the one to heal the wound inside Ikuto-sama.,行人様の心の傷をいやすのは私よ！,I'm going to get hurt of the heart of the carpato!,0.15789473684210525,0.43835172
+Eh? Wait...,えっ？ ちょ…,eh?Cho ...,0.6,0.41005975
+Who are you?!,助け うっ  誰ですかぁーっ？,Who is helpful?,0.2857142857142857,0.2737072
+I'll make you forget that lover of yours.,私がその恋人を忘れさせてあげますわ,I will forget the lover,0.25,0.80886286
+Yukino will do it!,ゆきのだってば！,If it is Yukino!,0.42857142857142855,0.7860591
+"Geez, everyone stop!",もうみんな やめて！,Please stop everyone anymore!,0.42857142857142855,0.6688089
+I already mentioned that his lover will be...,美咲ちゃんていうんだ… 行人の恋人,"Misaki, I'm saying ... Midor's Lover",0.2,0.4025774
 "Everyone is talking about lover, lover. Who are you all talking about?","ん みんなして 恋人 恋人って
 誰のこと言ってるんだよ…","Everyone's lover's lover
-Who is saying ...",0.26666666666666666
+Who is saying ...",0.26666666666666666,0.67543757
 Sorry that I saw it.,"ああ… 行人が持ってた写真の女の子…
 ごめんね 見ちゃったの","Oh ... Girl of the photo I had ...
-I'm sorry I saw it",0.2857142857142857
-"Photo? Are you talking about this girl, Misaki?",写真て… もしかして美咲のこと？,A photo ... What is Misaki?,0.21428571428571427
+I'm sorry I saw it",0.2857142857142857,0.51167977
+"Photo? Are you talking about this girl, Misaki?",写真て… もしかして美咲のこと？,A photo ... What is Misaki?,0.21428571428571427,0.85202885
 I don't have a lover!,"やだな 美咲は妹だよ
 恋人なんていないってばぁ 全然","Yada Misaki is a sister
-If you don't have a lover",0.38461538461538464
+If you don't have a lover",0.38461538461538464,0.38153338
 What? So that's how it is.,"なあ〜んだ そうでしたの！
 全く 誰が言い出したんだか 紛らわしい！","That's right!
-It is misleading who said that anyone said!",0.26666666666666666
-Geez...,ふぅ…,Fu ...,0.3333333333333333
-Oh! I forgot about it!,あっ 忘れてた！,I forgot!,0.5
+It is misleading who said that anyone said!",0.26666666666666666,0.1819362
+Geez...,ふぅ…,Fu ...,0.3333333333333333,0.38133663
+Oh! I forgot about it!,あっ 忘れてた！,I forgot!,0.5,0.80093426
 How surprising that you actually know how to make nigari.,"お主！ よくにがりの作り方など
 知っておるなぁ","Main!How to make a well
-I know",0.26666666666666666
-Granny!,オババ！,Obava!,0.3333333333333333
-What's this nigani-something?,何なの？ そのニガニガって,What's?That nigguous,0.42857142857142855
+I know",0.26666666666666666,0.24948704
+Granny!,オババ！,Obava!,0.3333333333333333,0.4740838
+What's this nigani-something?,何なの？ そのニガニガって,What's?That nigguous,0.42857142857142855,0.43077028
 It's used to coagulate tofu.,"それで 豆腐を固める
 にがりが足りないんじゃないかって","So flip tofu
-It's not enough to fall",0.3333333333333333
+It's not enough to fall",0.3333333333333333,0.39481682
 Though my grandpa likes martial arts...,"うちのじいちゃんは
 武道にもたけているけど","My grandfather is
-I have a martial arts",0.25
+I have a martial arts",0.25,0.754706
 But he is also someone who makes soba and tofu for a living.,"自分でそばを打ったり
 豆腐を作ったりする 粋な人なんだ","Civilize by yourself
-It is a stylish person who makes tofu",0.25
+It is a stylish person who makes tofu",0.25,0.5641746
 "I've been looking out into the sea, thinking about the reason why Suzu failed to make the tofu.","すずの豆腐がうまくいかないのは
 なぜだろうって 海を見ながらずーっと考えていて","The tofu tofu does not go well
-Why is it thinking and thinking while watching the sea",0.17857142857142858
+Why is it thinking and thinking while watching the sea",0.17857142857142858,0.63098854
 "And suddenly, I remembered that my grandpa used to make it.","ふと 前にじいちゃんが作ってたのを
 思い出したんだ","I made it before I was making
-I remembered",0.17647058823529413
+I remembered",0.17647058823529413,0.6746643
 "And I thought maybe she didn't put tofu coagulant, nigari, in it.","そうと決まれば
 早く豆腐を完成させねばのぅ","If it is decided so
-I will finish tofu early",0.13636363636363635
+I will finish tofu early",0.13636363636363635,0.32253432
 So you were thinking about tofu with that faraway look in your eyes?,"じゃあ あの愁いの瞳のわけは
 豆腐のことを…","Well then, that dangerous eyes
-Tofu ...",0.15789473684210525
-Huh? Did I show that kind of look?,え？ 僕 そんな目してた？,picture?I'm sorry?,0.16666666666666666
+Tofu ...",0.15789473684210525,0.64517146
+Huh? Did I show that kind of look?,え？ 僕 そんな目してた？,picture?I'm sorry?,0.16666666666666666,0.3114057
 Is that the case? But I wanted to do my part in Tonkatsu's birthday celebration as well.,"そうだった？ でも とんかつの誕生日会
 僕も成功させたいし…","It was?But her baby birthday party
-I also want to be successful ...",0.16666666666666666
-Everyone will be helping out?,みんなも手伝ってくれる？,Can you help everyone?,0.2222222222222222
-Of course!,もちろん！,of course!,1.0
-Allow us to help you too.,お手伝いさせていただきますわ,I will help you,0.2222222222222222
+I also want to be successful ...",0.16666666666666666,0.43170053
+Everyone will be helping out?,みんなも手伝ってくれる？,Can you help everyone?,0.2222222222222222,0.7186518
+Of course!,もちろん！,of course!,1.0,1.0000002
+Allow us to help you too.,お手伝いさせていただきますわ,I will help you,0.2222222222222222,0.49189863
 It's great to see Momo and Sasa spending the whole day playing with Tonkatsu.,"もももささみも 今日は一日中とんかつさんに
 遊んでもろて よろしおすな","Momomo Sasami is also today all day long
-You can play it",0.07692307692307693
+You can play it",0.07692307692307693,0.6111261
 Don't be in such a rush to go back.,"そんな急いで帰らなくても
 いいじゃな〜い","Even if you don't go home
-It is good ~",0.15789473684210525
-"Yes yes, please wait a second.",はいはい ちょっと待ってねぇ〜 ふふ…,Yes yes waiting for a while ~ Fufu ...,0.15384615384615385
-Happy birthday!,プッ！,Pup!,0.25
-Everyone did their part to help Tonkatsu celebrate his birthday.,おめで とんかつ,Omede,0.0
-"Happy birthday, Tonkatsu.",いえ…,home…,0.0
-What did you say?,えぇ？,Eh?,0.16666666666666666
-"Oh I see! Tonkatsu is two years old, right?",そうか とんかつ２歳だもんね！,It's about 2 years old!,0.1875
+It is good ~",0.15789473684210525,0.21972059
+"Yes yes, please wait a second.",はいはい ちょっと待ってねぇ〜 ふふ…,Yes yes waiting for a while ~ Fufu ...,0.15384615384615385,0.43881303
+Happy birthday!,プッ！,Pup!,0.25,0.2713059
+Everyone did their part to help Tonkatsu celebrate his birthday.,おめで とんかつ,Omede,0.0,0.11178046
+"Happy birthday, Tonkatsu.",いえ…,home…,0.0,0.18823765
+What did you say?,えぇ？,Eh?,0.16666666666666666,0.26808885
+"Oh I see! Tonkatsu is two years old, right?",そうか とんかつ２歳だもんね！,It's about 2 years old!,0.1875,0.45660207
 Blow out the candles thinking of what you wish for or who you want to curse...,"願い事 もしくは呪いをかけて
 炎を消せば思いは叶うわ","Wishes or curses
-I think that I would like to erase the flame",0.12
-"It's ok, I'll do it myself.",いや 自分で食べます,"No, I eat myself",0.2727272727272727
-This is delicious.,これ おいしい〜,This delicious ~,0.4
-Delicious!,はう　あっ！,!,0.5
-The best!,はうはうはう… 最高〜！,Hmmm ... the best ~!,0.5
-So it was here.,う… こっちだったか…,Uh ... How was it ...,0.25
+I think that I would like to erase the flame",0.12,0.65711963
+"It's ok, I'll do it myself.",いや 自分で食べます,"No, I eat myself",0.2727272727272727,0.2130998
+This is delicious.,これ おいしい〜,This delicious ~,0.4,0.72253793
+Delicious!,はう　あっ！,!,0.5,0.37801188
+The best!,はうはうはう… 最高〜！,Hmmm ... the best ~!,0.5,0.6337004
+So it was here.,う… こっちだったか…,Uh ... How was it ...,0.25,0.35553703
 Sorry sorry! Please forgive me~,"ああっ あ やめてください　お願いします
 あ ごめんなさい　許してください　やめて！","Please stop ah please
-Aoi Sorry Please forgive me!",0.4444444444444444
-It's good to see that Tonkatsu liked what we did today.,とんかつ 喜んでくれてよかったね,It was good to be pleased,0.1875
-"Ikuto, thank you.",うん　行人… ありがとう,Uto ... Thank you,0.2857142857142857
-Eh? No...,え？ そんな…,picture?Such ...,0.3333333333333333
-Today is Misaki's birthday.,今日は美咲の誕生日だったんだぁ,Today was Misaki's birthday,0.5714285714285714
+Aoi Sorry Please forgive me!",0.4444444444444444,0.57688344
+It's good to see that Tonkatsu liked what we did today.,とんかつ 喜んでくれてよかったね,It was good to be pleased,0.1875,0.40840718
+"Ikuto, thank you.",うん　行人… ありがとう,Uto ... Thank you,0.2857142857142857,0.37703225
+Eh? No...,え？ そんな…,picture?Such ...,0.3333333333333333,0.28244057
+Today is Misaki's birthday.,今日は美咲の誕生日だったんだぁ,Today was Misaki's birthday,0.5714285714285714,0.98598343
 "I wanted to say ""Sorry that I can't keep that promise.""","誕生日には 買い物付き合うって
 約束してたからさ　約束守れなくてゴメンって","Birthday is a birthday
-I'm promised, I can't get a promise.",0.25
-"At least, to be able to send out the letter.",せめて手紙を出したくて…,I want to put out a letter at least ...,0.3125
+I'm promised, I can't get a promise.",0.25,0.48338705
+"At least, to be able to send out the letter.",せめて手紙を出したくて…,I want to put out a letter at least ...,0.3125,0.6789595
 So that's what was wrong.,"あんなに一生懸命なすずを
 置いていけるわけないだろ？","That's all hard
-You can not put it on?",0.125
+You can not put it on?",0.125,0.14106901
 "Ikuto has always wanted to go back home, right?","行人 ホントは
 帰りたかったんじゃなかったの？","The goot
-Didn't you want to go home?",0.23529411764705882
-Today is Tonkatsu's birthday.,今日はとんかつの誕生日だもん,Today is the birthday of Tonkatsu,0.5
+Didn't you want to go home?",0.2352941176470588,0.3077737
+Today is Tonkatsu's birthday.,今日はとんかつの誕生日だもん,Today is the birthday of Tonkatsu,0.5,0.9676439
 Tonkatsu has been taking care of me ever since I came to this island.,"この島に来てから とんかつには
 いろいろと世話になってるし それに…","After coming to this island,
-I'm taken care of various things and ...",0.25
-Then we will send out the letter right now.,じゃあ 今からその手紙出そうよ,Well then I'm going to get it from now,0.1111111111111111
-Sashimi!,さしみ〜っ！,Sashimi!,1.0
+I'm taken care of various things and ...",0.25,0.6340476
+Then we will send out the letter right now.,じゃあ 今からその手紙出そうよ,Well then I'm going to get it from now,0.1111111111111111,0.331909
+Sashimi!,さしみ〜っ！,Sashimi!,1.0,1.0
 I thought that a bottle might be able to get to the other side of the whirlpools.,"小さいビンぐらいなら
 大渦の外に出せるかと思ったけど","If it is about a small bottle
-I thought I could go out of the outer vortex",0.23076923076923078
+I thought I could go out of the outer vortex",0.2307692307692308,0.5931967
 "Seems like it's impossible, no matter how many times I throw it out, it keeps coming back.","やっぱ無理なのかなぁ
 何度やっても絶対戻ってきちゃう","After all it is not possible
-I will definitely come back after many times",0.19230769230769232
-"Didn't you say ""Stop saying it's absolutely impossible""?",は言わないんじゃなかったの？,Didn't you say it?,0.46153846153846156
-Oh no.,ああ そんな…,Oh yes ...,0.2
-"I did it, Suzu!",やったよ すず！,I did it!,0.6666666666666666
-"Thank you, Suzu.",ありがとう すず,Thank you very much,0.2857142857142857
+I will definitely come back after many times",0.19230769230769232,0.51039577
+"Didn't you say ""Stop saying it's absolutely impossible""?",は言わないんじゃなかったの？,Didn't you say it?,0.4615384615384616,0.39983627
+Oh no.,ああ そんな…,Oh yes ...,0.2,0.6613956
+"I did it, Suzu!",やったよ すず！,I did it!,0.6666666666666666,0.61210215
+"Thank you, Suzu.",ありがとう すず,Thank you very much,0.2857142857142857,0.26505968

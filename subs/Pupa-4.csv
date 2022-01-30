@@ -1,31 +1,31 @@
-en_text,jp_text,google_translated,score
-dame da yo koko kara saki wa,别再靠近 那前方,Retail reconnaissant,0.0
-tobitachitai no habatakitai,振翅欲飞上九霄,Rose mushroom nine,0.0
-"I want to fly, I want to beat my wings",我无力改变,I'm sorry,0.1
-A red butterfly flutters around me,翩翩舞动之红蝶,翩翩 翩翩 butterfly,0.14285714285714285
-A girl must always look her best.,ほらほら　女の子がいつまでもそんな格好ではダメよ,You can not make a girl in such a way forever,0.125
-"given the circumstances, I suppose it is understandable.",もっとも　この状況じゃ無理もないけど,"However, it is not impossible in this situation",0.1875
-the cleanup crew has arrived.,マリア様　処理班は到着しました,Maria-like processing team has arrived,0.2222222222222222
-Onii-chan!,お兄ちゃん,brother,0.0
-His... body?,死…体,cadaver,0.0
-Remember?,そうよ　死体　覚えてる,Yes I remember the corpse,0.16666666666666666
-You ate him.,あなたが食べたのよ,I ate you,0.4
-He died...,死んだ,Dead,0.0
-"Actually, strictly speaking, he didn't ""die.""",正確に言うと死んだじゃないわね,It doesn't die to say exactly,0.125
-He was killed. By you.,あなたが食い殺した,You got killed,0.2857142857142857
-I did this?,私が,I,0.25
-"Yes, ma'am.",はい,Yes,0.25
-I'm amazed to see you alive.,あなたが生きてるなんて驚きだわ,I'm surprised that you live,0.2727272727272727
-"This is rather unexpected,",何かあったら報告なさい,Report if there is something,0.1111111111111111
-"isn't it, Utsutsu-kun?",どうしてかしら　現くん,How do you see it?,0.2
-Shit!,クソ,Fucking,0.0
-"Well, aren't you sharp.",あなた　感染してるわね,You are infectious,0.25
-You two are now hosts to a mysterious virus.,あなたたちは今　未知のウィルスに感染しているの,You are now infected with an unknown virus,0.2857142857142857
-It is called the Pupa virus.,未知のウィルス　ピューパ,Unknown virus pupa,0.25
-Where's Yume?,夢はどこだ,Where is your dream,0.14285714285714285
-She may sprout wings again quite soon.,すぐにも再び羽化するかもしれない,It may be emerged again soon,0.2727272727272727
-Her sustenance?,生き餌,Living,0.0
-"Can you allow her to eat bits of your body for the rest of your life, boy?",あなた　妹さんの生き餌になれる,You can be the life of your sister,0.3157894736842105
-Of course I can.,当たり前だろ,of course,0.4
-You and I have got same blood flowing through our veins.,しょせんお前にも　俺と同じ血が流れてんだ,"Shishen, the same blood is flowing as me",0.16666666666666666
-I'm not gonna be like my old man.,俺は親父みたいにはならない,I will not be like my father,0.38461538461538464
+en_text,jp_text,google_translated,score,semantic_score
+dame da yo koko kara saki wa,别再靠近 那前方,Retail reconnaissant,0.0,0.12947692
+tobitachitai no habatakitai,振翅欲飞上九霄,Rose mushroom nine,0.0,0.20758975
+"I want to fly, I want to beat my wings",我无力改变,I'm sorry,0.1,0.17883103
+A red butterfly flutters around me,翩翩舞动之红蝶,翩翩 翩翩 butterfly,0.14285714285714285,0.47633886
+A girl must always look her best.,ほらほら　女の子がいつまでもそんな格好ではダメよ,You can not make a girl in such a way forever,0.125,0.4817279
+"given the circumstances, I suppose it is understandable.",もっとも　この状況じゃ無理もないけど,"However, it is not impossible in this situation",0.1875,0.51689386
+the cleanup crew has arrived.,マリア様　処理班は到着しました,Maria-like processing team has arrived,0.2222222222222222,0.40853953
+Onii-chan!,お兄ちゃん,brother,0.0,0.19042745
+His... body?,死…体,cadaver,0.0,0.31960955
+Remember?,そうよ　死体　覚えてる,Yes I remember the corpse,0.16666666666666666,0.50434136
+You ate him.,あなたが食べたのよ,I ate you,0.4,0.7241339
+He died...,死んだ,Dead,0.0,0.4455973
+"Actually, strictly speaking, he didn't ""die.""",正確に言うと死んだじゃないわね,It doesn't die to say exactly,0.125,0.56950974
+He was killed. By you.,あなたが食い殺した,You got killed,0.2857142857142857,0.50415283
+I did this?,私が,I,0.25,0.13321392
+"Yes, ma'am.",はい,Yes,0.25,0.3725855
+I'm amazed to see you alive.,あなたが生きてるなんて驚きだわ,I'm surprised that you live,0.2727272727272727,0.50830865
+"This is rather unexpected,",何かあったら報告なさい,Report if there is something,0.1111111111111111,0.1158343
+"isn't it, Utsutsu-kun?",どうしてかしら　現くん,How do you see it?,0.2,0.07869951
+Shit!,クソ,Fucking,0.0,0.51086074
+"Well, aren't you sharp.",あなた　感染してるわね,You are infectious,0.25,0.28025526
+You two are now hosts to a mysterious virus.,あなたたちは今　未知のウィルスに感染しているの,You are now infected with an unknown virus,0.2857142857142857,0.65890425
+It is called the Pupa virus.,未知のウィルス　ピューパ,Unknown virus pupa,0.25,0.8072436
+Where's Yume?,夢はどこだ,Where is your dream,0.14285714285714285,0.22951916
+She may sprout wings again quite soon.,すぐにも再び羽化するかもしれない,It may be emerged again soon,0.2727272727272727,0.30162677
+Her sustenance?,生き餌,Living,0.0,0.39815173
+"Can you allow her to eat bits of your body for the rest of your life, boy?",あなた　妹さんの生き餌になれる,You can be the life of your sister,0.3157894736842105,0.31221592
+Of course I can.,当たり前だろ,of course,0.4,0.6468128
+You and I have got same blood flowing through our veins.,しょせんお前にも　俺と同じ血が流れてんだ,"Shishen, the same blood is flowing as me",0.16666666666666666,0.6271702
+I'm not gonna be like my old man.,俺は親父みたいにはならない,I will not be like my father,0.38461538461538464,0.63709223

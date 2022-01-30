@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.7113179
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.86280525
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207105
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.6541094
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.38045898
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851642
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.40009782
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.5800125
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.3699327
 "How is that your answer...
 Princess Tsunade?","(
 大蛇丸
@@ -106,12 +106,12 @@ Princess Tsunade?","(
 そういう答えになるのかしら？➡
 
 ","How
-Do you want to answer that?➡",0.2857142857142857
+Do you want to answer that?➡",0.2857142857142857,0.38897884
 To think you'd try to kill me...,"私を殺そうとするなんて
 ｡
 
 ","I'm trying to kill me
-.",0.25
+.",0.25,0.6672355
 "At any rate,
 I have a sincere trust in you, Kabuto.","にしても心底
  
@@ -123,7 +123,7 @@ I have a sincere trust in you, Kabuto.","にしても心底
  
 I trust
 Kabuto
-.",0.23529411764705882
+.",0.2352941176470588,0.69217765
 "A trust for your loyalty and your eyes
 that spotted Tsunade's attack.","綱手の攻撃を見抜いた
 その眼力をね
@@ -131,7 +131,7 @@ that spotted Tsunade's attack.","綱手の攻撃を見抜いた
 
 ","I looked up the attack of Tsuguste
 That's my eyes
-.",0.25
+.",0.25,0.5116788
 "Yes. We're both from
 the same medical corps so...","(ｶﾌﾞﾄ)
 ええ
@@ -142,7 +142,7 @@ the same medical corps so...","(ｶﾌﾞﾄ)
 ","Yes
 I'm from the same medical group
 .
-➡",0.375
+➡",0.375,0.6030717
 "Her Chakra was overflowing
 with violent intent.","チャクラに殺気が
 みなぎっていました
@@ -150,7 +150,7 @@ with violent intent.","チャクラに殺気が
 
 ","I was killed in Chakra
 I was looking for
-.",0.23076923076923078
+.",0.2307692307692308,0.5136515
 "Tsunade... I was really planning
 on resurrecting those two people.","私は本当に２人を
 生き返らせるつもりでいたのよ
@@ -158,7 +158,7 @@ on resurrecting those two people.","私は本当に２人を
 
 ","I really have two people
 I was going to live
-.",0.375
+.",0.375,0.37758344
 Orochimaru...,"(
 大蛇丸
 )
@@ -172,7 +172,7 @@ Orochimaru...,"(
 .
 
 Ah
-.",0.2
+.",0.2,0.38594466
 "I know that your promise of
 ""not touching the village"" was a lie...","それに
  
@@ -184,12 +184,12 @@ Ah
  
 It is said that the tree is not crushed
 I made a promise
-.",0.25
+.",0.25,0.3143795
 Even though I knew that... I...,"分かってる
 ｡
 
 ","I know
-.",0.125
+.",0.125,0.3695285
 "Just one more time...
 I wanted to touch them...","(
 綱手
@@ -202,7 +202,7 @@ I wanted to touch them...","(
 ","Because it is good again
 I wanted to touch
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.52204293
 "the moment I felt that
 rush in my bones...","そう肌で感じた瞬間に
 気付いちまった
@@ -210,7 +210,7 @@ rush in my bones...","そう肌で感じた瞬間に
 
 ","At the moment I felt in my skin
 I met
-.",0.42857142857142855
+.",0.42857142857142855,0.5696598
 "that I'd be able to see Nawaki
 and Dan shortly...","本当に
  
@@ -224,7 +224,7 @@ and Dan shortly...","本当に
 Motori and Dan
 Meet soon
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.49188045
 I become this blinded.,"(
 綱手
 )
@@ -234,23 +234,23 @@ I become this blinded.,"(
 
 ","I love you
 .
-➡",0.25
+➡",0.25,0.21045324
 <i>Big sister!</i>,"(
 縄樹
 )
 ＜姉ちゃん！＞
 
-",<Sister!>,0.5714285714285714
+",<Sister!>,0.5714285714285714,0.7815096
 <i>Tsunade...</i>,"(
 ダン
 )
 ＜綱手＞
 
-",<Tanke>,0.2857142857142857
+",<Tanke>,0.2857142857142857,0.42629212
 "I loved them...
 I truly loved them!","本当に愛していたから…➡
 
-",Because I really loved ... ➡,0.3333333333333333
+",Because I really loved ... ➡,0.3333333333333333,0.4871433
 "So, I wanted to see them
 and hug them in my arms!","だから
  
@@ -258,7 +258,7 @@ and hug them in my arms!","だから
 
 ","that's why
  
-I wanted to meet and hug!",0.35294117647058826
+I wanted to meet and hug!",0.35294117647058826,0.69622666
 But... I couldn't...,"でも
  
 できなかった…
@@ -267,7 +267,7 @@ But... I couldn't...,"でも
 ","but
  
 could not…
-.",0.2857142857142857
+.",0.2857142857142857,0.7536063
 "<i>I won't lose the bet,</i>
 <i>no matter what!</i>","(ﾅﾙﾄ)
 ＜絶対
@@ -276,7 +276,7 @@ could not…
 
 ","<Absolute
  
-I can not lose to the bet>",0.3333333333333333
+I can not lose to the bet>",0.3333333333333333,0.7893597
 "Because of that kid...
 I remembered the dreams of the two.","２人の夢を
 思い出しちまったから
@@ -286,12 +286,12 @@ I remembered the dreams of the two.","２人の夢を
 ","Two dreams
 I remembered
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.5396399
 Here I was trying to forget...,"忘れようとしてたのに…
 ｡
 
 ","I was trying to forget ...
-.",0.75
+.",0.75,0.9145733
 <i>This village is grandfather's treasure!</i>,"(
 縄樹
 )
@@ -299,46 +299,46 @@ Here I was trying to forget...,"忘れようとしてたのに…
 じいちゃんの宝物だ！➡
 
 ","<This village is
-It is a treasure of a grandfather!➡",0.4666666666666667
+It is a treasure of a grandfather!➡",0.4666666666666667,0.9382427
 <i>I'm going to protect it!</i>,"俺は
  
 それを守るんだ！➡
 
 ","I am
  
-I will protect it!➡",0.3076923076923077
+I will protect it!➡",0.3076923076923077,0.77512705
 "<i>'Cuz I'm the grandson</i>
 <i>of the First Hokage</i>","初代火影の孫だからよ！＞
 
-",Because it is the grandson of the first fire shadow!>,0.29411764705882354
+",Because it is the grandson of the first fire shadow!>,0.29411764705882354,0.47950915
 <i>So I want to protect them.</i>,"だから守りたい＞
 
-",So I want to protect>,0.6666666666666666
+",So I want to protect>,0.6666666666666666,0.80619186
 <i>And the Hokage name will be mine!</i>,"いつか火影の名前を
 もらうんだ！＞
 
 ","Someday the name of the fire shadow
-I'm getting it!>",0.2631578947368421
+I'm getting it!>",0.2631578947368421,0.35790855
 "<i>Since my little sister died,</i>
 <i>that sole thought has sustained me.</i>","(
 ダン
 )
 ＜妹が死んだ時から➡
 
-",<From when my sister died,0.2222222222222222
+",<From when my sister died,0.2222222222222222,0.5300082
 <i>An existence that protects everyone...</i>,"みんなを守る存在…＞
 
-",Protect everyone ...>,0.2727272727272727
+",Protect everyone ...>,0.2727272727272727,0.7119997
 "- <i>Becoming the Hokage is my dream!</i>
 - <i>Becoming the Hokage is my dream!</i>","＜火影は俺の夢だから＞
 
-",<Because the fire candy is my dream>,0.4
+",<Because the fire candy is my dream>,0.4,0.41960794
 "The precious dreams that
 they risked their lives for...","２人の命を懸けた大切な夢
 ｡
 
 ","Important dreams who had two lives
-.",0.13333333333333333
+.",0.13333333333333333,0.63513345
 "Making those dreams come true
 was also my desire...","その夢がかなうことが
 私の思いでもあった
@@ -346,13 +346,13 @@ was also my desire...","その夢がかなうことが
 
 ","That dreams come true
 I was also my thoughts
-.",0.42857142857142855
+.",0.42857142857142855,0.6797185
 "Things that have formed
 eventually decay... You said that.","お前は言ったな
 ｡
 
 ","You said
-.",0.3
+.",0.3,0.17380029
 "So our negotiations have broken down...
 It can't be helped.","(
 大蛇丸
@@ -367,7 +367,7 @@ It can't be helped.","(
  
 it can not be helped
 .
-➡",0.3125
+➡",0.3125,0.7602411
 "Since it's come to this, I have no choice
 but to ask forcibly.","こうなったら
  
@@ -379,7 +379,7 @@ but to ask forcibly.","こうなったら
  
 In force
 I have no choice but to
-.",0.47368421052631576
+.",0.4736842105263158,0.6010273
 Come! Orochimaru!,"(
 綱手
 )
@@ -389,13 +389,13 @@ Come! Orochimaru!,"(
 
 ","come!
  
-Great snake circle!",0.3333333333333333
+Great snake circle!",0.3333333333333333,0.34404236
 "we've never gone at it
 even once until now.","今まで一度もなかったわね
 ｡
 
 ","I had never had once
-.",0.23076923076923078
+.",0.2307692307692308,0.53985035
 "Now I'm going to kill
 you two worthless punks... here!","(
 綱手
@@ -408,7 +408,7 @@ you two worthless punks... here!","(
 ","Hey hey
  
 You guys
-Now here",0.2
+Now here",0.2,0.2950305
 Incredible strength as usual...,"(
 大蛇丸
 )
@@ -422,19 +422,19 @@ Incredible strength as usual...,"(
  
 Violent power
 .
-➡",0.1
+➡",0.1,0.36254317
 It'll be over if you're hit once.,"１発でも食らったら
 それで終わりよ
 ｡
 
 ","If you eat one shot
 So it is over
-.",0.3333333333333333
+.",0.3333333333333333,0.6026274
 I can see that...,"やり合うのは僕でしょ
 ｡
 
 ","It is me that I will exchange
-.",0.18181818181818182
+.",0.18181818181818185,0.17801192
 "It's a bit cramped here
 for fighting at a distance.","ここは間を取って戦うには
 少々
@@ -446,28 +446,28 @@ for fighting at a distance.","ここは間を取って戦うには
 a little
   
 It is cramped
-.",0.3125
+.",0.3125,0.8314022
 Are you going to change the location?,"移動する気？
 
-",Do you want to move?,0.2727272727272727
+",Do you want to move?,0.2727272727272727,0.6301749
 "That person may come
 to her aid.","いつ援護に来るやも…
 ｡
 
 ","Whenever you come to support ...
-.",0.25
+.",0.25,0.16691983
 You're going down!,"(
 綱手
 )
 くたばれ！
 
-",Cash!,0.16666666666666666
+",Cash!,0.16666666666666666,0.30219403
 "One of Sannin,
 the same as you and Lady Tsunade...","あなたや綱手様と同じ三忍…
 ｡
 
 ","Same three Shinobu as you and Tsuggu-sama ...
-.",0.3125
+.",0.3125,0.45064393
 <i>Jiraiya!</i>,"(
 綱手
 )
@@ -477,20 +477,20 @@ the same as you and Lady Tsunade...","あなたや綱手様と同じ三忍…
 
 ","""absolutely
  
-I can not miss it!""",0.15384615384615385
+I can not miss it!""",0.15384615384615385,0.19200331
 Wh-What's this?!,"そのやっかいな方って
  
 誰なの？
 
 ","That's why
  
-Who are you?",0.2
+Who are you?",0.2,0.063274466
 "Huh... Princess Tsunade tore it up...
 big time.","綱手の姫様は
 ｡
 
 ","Struggle princess
-.",0.18181818181818182
+.",0.18181818181818185,0.44476163
 Where did old Tsunade go?,"で
  
 どこ行ったんだ？
@@ -501,7 +501,7 @@ Where did old Tsunade go?,"で
  
 Where did you go?
 Tsuggu's grandma
-.",0.3333333333333333
+.",0.3333333333333333,0.5821312
 <i>That belongs to Lady Tsunade...!</i>,"(ｼｽﾞﾈ)
 《ということは
  
@@ -511,7 +511,7 @@ Tsuggu's grandma
 ","""That's why
  
 The torture
-I refused!""",0.16666666666666666
+I refused!""",0.16666666666666666,0.16302162
 Tonton... Which way?,"(ﾄﾝﾄﾝ
 が
  
@@ -524,13 +524,13 @@ Tonton... Which way?,"(ﾄﾝﾄﾝ
 
 ","Tonton
  
-Which one?",0.5
+Which one?",0.5,0.8169861
 Okay!,"(ﾄﾝﾄﾝ)
 ブ～！
 お～し！
 
 ","B.!
-Oh!",0.25
+Oh!",0.25,0.37339455
 It's just about time.,"(
 大蛇丸
 )
@@ -544,20 +544,20 @@ It's just about time.,"(
 It seems that it came out
  
 Torture
-.",0.16666666666666666
+.",0.16666666666666666,0.21197632
 "I'm not that great at Taijutsu, but...","体術のほうは
 あまり得意じゃないんですがね
 ｡
 
 ","I'm sorry
 I'm not very good at it
-.",0.26666666666666666
+.",0.26666666666666666,0.26418445
 <i>That Sign...!</i>,"(
 綱手
 )
 《あの印は!?》
 
-","""That sign is!?""",0.25
+","""That sign is!?""",0.25,0.6377008
 <i>This kid can also use Medical Ninjutsu...</i>,"(
 綱手
 )
@@ -567,7 +567,7 @@ I'm not very good at it
 
 ","""This Gaki
  
-Medical Ninjutsu ...",0.2857142857142857
+Medical Ninjutsu ...",0.2857142857142857,0.7403889
 <i>He got my muscle...!</i>,"うっ！
 (
 綱手
@@ -576,26 +576,26 @@ Medical Ninjutsu ...",0.2857142857142857
 
 ","Uh!
 
-""Muscle!?""",0.14285714285714285
+""Muscle!?""",0.14285714285714285,0.53097993
 "A Chakra scalpel, eh...
 Why don't you target the arteries?","チャクラの解剖刀か…
 なぜ動脈を狙わない？
 
 ","Clakra's Anatomical Sword ...
-Why don't you aim at the artery?",0.3333333333333333
+Why don't you aim at the artery?",0.3333333333333333,0.6540102
 "Indeed, with this scalpel,","これでもう
 ばか力は出せませんよ
 ｡
 
 ","With this
 I can not get a force
-.",0.16666666666666666
+.",0.16666666666666666,0.12924576
 "I could cut the muscles and vessels
 without external injury.","外傷なく体の中の血管や
 筋肉を切断できますが➡
 
 ","Blood vessels in the body without trauma
-You can cut the muscles but",0.2777777777777778
+You can cut the muscles but",0.2777777777777778,0.7289845
 "I can't make a long, delicate scalpel
 in the middle of battle","長く繊細な解剖刀は
 さすがに作れませんから
@@ -605,7 +605,7 @@ in the middle of battle","長く繊細な解剖刀は
 ","Long and delicate dissection swords
 Because I can not make it
 .
-➡",0.17391304347826086
+➡",0.17391304347826084,0.5214839
 "there'd be no problem at all
 if I target the opponent's neck!","相手の首を狙えば
 全然
@@ -617,7 +617,7 @@ if I target the opponent's neck!","相手の首を狙えば
 at all
  
 There is no problem
-.",0.42857142857142855
+.",0.42857142857142855,0.7372899
 "<i>Dang it! My intercostals got hit.</i>
 <i>My breathing...</i>","(
 綱手
@@ -634,13 +634,13 @@ I was killed
  
 Breathing ...
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.5124877
 "<i>His Jutsu sense and his edge</i>
 <i>exceed even me in my heyday!</i>","術のセンスと切れ味は
 私の全盛期すら超える》
 
 ","Sense of surgery and sharpness
-I'm over my heyday """,0.22727272727272727
+I'm over my heyday """,0.2272727272727273,0.3136193
 "It would still be trouble
 if you were to die on me.","あなたには
 まだ死なれたら困りますからね
@@ -648,7 +648,7 @@ if you were to die on me.","あなたには
 
 ","You
 I'm troubled if it is still dead
-.",0.2777777777777778
+.",0.2777777777777778,0.38718668
 "But with this, you can't move anymore...","けれど
  
 これでもう
@@ -659,7 +659,7 @@ I'm troubled if it is still dead
  
 With this
 You move ...
-.",0.5454545454545454
+.",0.5454545454545454,0.82048166
 <i>She's amazing...</i>,"(ｶﾌﾞﾄ)
 《大した方だ…
 ｡
@@ -667,22 +667,22 @@ You move ...
 
 ","""It's a big one ...
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.24152836
 "<i>It looks like it will be necessary</i>
 <i>to rough her up a little more...</i>","もう少し痛めつけておく
 必要がありそうですね》
 
 ","Pain more hurt
-It is likely to be necessary",0.22727272727272727
+It is likely to be necessary",0.2272727272727273,0.28750247
 <i>but not enough to kill her.</i>,"首は狙いませんよ
 ｡
 
 ","I do not aim
-.",0.15384615384615385
+.",0.15384615384615385,0.24910699
 <i>Even though I'm trying to move my hand...</i>,"(ｶﾌﾞﾄ)
 《手を動かそうとしてるのに➡
 
-","""I'm going to move my hand",0.4
+","""I'm going to move my hand",0.4,0.65614045
 <i>D-Don't tell me! This is...</i>,"こ…
  
 これは
@@ -693,13 +693,13 @@ It is likely to be necessary",0.22727272727272727
  
 this is
  
-Masao!""",0.2
+Masao!""",0.2,0.28715178
 You little!,"(
 綱手
 )
 この！
 
-",this!,0.25
+",this!,0.25,0.42550695
 <i>this seems to be the extent of my power...</i>,"(
 綱手
 )
@@ -707,19 +707,19 @@ You little!,"(
 この程度の力しか出ないか…》
 
 ","""In the present condition
-Is there any power of this degree ... """,0.22727272727272727
+Is there any power of this degree ... """,0.2272727272727273,0.26345396
 "It seems you've realized...
 That's right. It's the nerves!","気付いたようだな…
 ｡
 
 ","It seems that I noticed ...
-.",0.3333333333333333
+.",0.3333333333333333,0.31532574
 "made an electrical field and
 poured electricity into your nerves.","お前の神経系に流し込んだ
 ｡
 
 ","Poured into your nervous system
-.",0.3076923076923077
+.",0.3076923076923077,0.5917502
 "<i>The communication between</i>
 <i>the brain and the body</i>","(
 大蛇丸
@@ -728,10 +728,10 @@ poured electricity into your nerves.","お前の神経系に流し込んだ
 コミュニケーションは➡
 
 ","""Brain and body
-Communication is ➡",0.3076923076923077
+Communication is ➡",0.3076923076923077,0.8045261
 <i>So this is the legendary Sannin?</i>,"これが伝説の三忍か》
 
-",This is the legendary Sanbu?,0.4166666666666667
+",This is the legendary Sanbu?,0.4166666666666667,0.8216449
 <i>Healing types use too much Chakra...</i>,"(
 綱手
 )
@@ -739,27 +739,27 @@ Communication is ➡",0.3076923076923077
 チャクラを消費し過ぎるが➡
 
 ","""Treatment system
-It consumes too much chakra",0.1875
+It consumes too much chakra",0.1875,0.7170853
 <i>But in this condition...</i>,"この状態では…》
 
-","In this state ... """,0.2727272727272727
+","In this state ... """,0.2727272727272727,0.15891948
 <i>If I try to move my right hand...</i>,"(ｶﾌﾞﾄ)
 《右手を動かそうとすれば➡
 
-","""If you want to move the right hand,",0.29411764705882354
+","""If you want to move the right hand,",0.29411764705882354,0.72178704
 <i>my left leg moves.</i>,"左脚が動く
 ｡
 ➡
 
 ","Move the left leg
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.7447409
 <i>If I try to move my left ankle...</i>,"左足首を動かそうとすれば➡
 
-",If you want to move the left foot neck,0.23529411764705882
+",If you want to move the left foot neck,0.2352941176470588,0.5905919
 <i>my right shoulder moves.</i>,"右肩が動く…》
 
-","The right shoulder moves ... """,0.16666666666666666
+","The right shoulder moves ... """,0.16666666666666666,0.77011377
 <i>It's difficult...</i>,"(ｶﾌﾞﾄ)
 《困難だ…
  
@@ -767,7 +767,7 @@ It consumes too much chakra",0.1875
 
 ","""It's difficult ...
  
-➡",0.4
+➡",0.4,0.5719039
 "<i>But I've already grasped eighty percent</i>
 <i>of what moves when I move what.</i>","もう８割方
  
@@ -779,13 +779,13 @@ It consumes too much chakra",0.1875
  
 Grasped
 .
-➡",0.05
+➡",0.05,0.50404346
 with this low-level...,"この程度の術で…》
 
-","With this degree ... """,0.5
+","With this degree ... """,0.5,0.46084923
 Jutsu!,"ナメるな！
 
-",Name!,0.3333333333333333
+",Name!,0.3333333333333333,0.38624898
 "<i>What?! In only a moment,</i>
 <i>his body movements...</i>","(
 綱手
@@ -794,20 +794,20 @@ Jutsu!,"ナメるな！
 たった一瞬で体の動きを！》
 
 ","""what!?
-Movement of body in just moment!""",0.2857142857142857
+Movement of body in just moment!""",0.2857142857142857,0.5836082
 I'll show you plenty from now!,"今から
  
 たっぷり見せてやるよ！
 
 ","from now
  
-I will show you plenty!",0.7777777777777778
+I will show you plenty!",0.7777777777777778,0.9519588
 <i>Jiraiya...?</i>,"(
 綱手
 )
 《自来也？》
 
-","""Jiraiya?""",0.2222222222222222
+","""Jiraiya?""",0.2222222222222222,0.73338395
 It's been a long time... Jiraiya.,"久しぶりね
  
 自来也
@@ -816,7 +816,7 @@ It's been a long time... Jiraiya.,"久しぶりね
 ","Long time no see, eh
  
 Jiraiya
-.",0.3076923076923077
+.",0.3076923076923077,0.858327
 Huh?!,"あ～！
  
 カ…
@@ -827,26 +827,26 @@ Huh?!,"あ～！
  
 power…
  
-Mr. Kabuto!?",0.25
+Mr. Kabuto!?",0.25,0.19985178
 Naruto...,"ナルト君
 ｡
 
 ","Naruto
-.",0.3333333333333333
+.",0.3333333333333333,0.9646129
 "Why are you here, Kabuto...?","何で
  
 ここにカブトさんが？
 
 ","why
  
-Here is Kabuto?",0.4444444444444444
+Here is Kabuto?",0.4444444444444444,0.8463194
 these guys!,"こいつらは
  
 あたしがやる！
 
 ","These guys
  
-I will do it!",0.42857142857142855
+I will do it!",0.42857142857142855,0.5346813
 "Just because you've mastered
 your body movements...","(
 綱手
@@ -855,29 +855,29 @@ your body movements...","(
 把握したからといって➡
 
 ","Movement of body
-Just because I grasped",0.23076923076923078
+Just because I grasped",0.2307692307692308,0.53506
 you can move like normal!,"ふだんと同じように
 動けるわけでもあるまい！
 
 ","Normally
-It's a good time to move!",0.15384615384615385
+It's a good time to move!",0.15384615384615385,0.52571726
 Too late!,"(ﾄﾝﾄﾝ)
 ブ～！
 
-",B.!,0.25
+",B.!,0.25,0.32874867
 <i>Blood...!</i>,"もう逃がさぬ！
 
-",I'm not missing!,0.2
+",I'm not missing!,0.2,0.16563731
 "Having two of the legendary Sannin
 as opponents is hairy, isn't it...?","伝説の三忍
 ２人を相手にするのは➡
 
 ","Legendary Sanko
-It is ➡ to make two people",0.2
+It is ➡ to make two people",0.2,0.34111664
 Lady Tsunade!,"(ｼｽﾞﾈ)
 綱手様！
 
-",Tope!,0.25
+",Tope!,0.25,0.43093947
 "Why's Kabuto fighting
 with old Tsunade?!","何で
  
@@ -889,7 +889,7 @@ with old Tsunade?!","何で
  
 Mr. Kabuto
 Tsuggu's grandma and ...
-.",0.2
+.",0.2,0.66277903
 "You're slow, Naruto...","君も鈍いね
  
 ナルト君
@@ -898,7 +898,7 @@ Tsuggu's grandma and ...
 ","You are also dull
  
 Naruto
-.",0.2
+.",0.2,0.7111277
 That's why you're no match for Sasuke.,"だから
  
 サスケ君に
@@ -909,7 +909,7 @@ That's why you're no match for Sasuke.,"だから
  
 To Sasuke
 I do not know
-.",0.3333333333333333
+.",0.3333333333333333,0.8318266
 Take a good look at the headband!,"(
 自来也
 )
@@ -923,10 +923,10 @@ Take a good look at the headband!,"(
  
 Look at it
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.22329728
 Wha?!,"えっ？
 
-",eh?,0.25
+",eh?,0.25,0.35568014
 That's right...,"あのさ…
  
 あのさ
@@ -943,7 +943,7 @@ That
 is this
 what
  
-What's wrong?",0.3333333333333333
+What's wrong?",0.3333333333333333,0.3440672
 "I was a spy from
 the Village Hidden in the Sound.","そう
  
@@ -955,7 +955,7 @@ the Village Hidden in the Sound.","そう
  
 I
 It was a spy of sound
-.",0.42857142857142855
+.",0.42857142857142855,0.73534584
 "You're lying, right, Kabuto?","うそだろ？
  
 カブトさん
@@ -964,13 +964,13 @@ It was a spy of sound
 ","Is it a lie?
  
 Mr. Kabuto
-.",0.15384615384615385
+.",0.15384615384615385,0.8368631
 "During the Chunin Exam
 you taught us a lot...","中忍試験の時
 いろいろ教えてくれたり➡
 
 ","At the time of midway test
-Tell me a lot",0.17647058823529413
+Tell me a lot",0.17647058823529413,0.3191457
 "Well, I wanted to gather data
 on you guys.","(ｶﾌﾞﾄ)
 一応
@@ -983,19 +983,19 @@ on you guys.","(ｶﾌﾞﾄ)
  
 Your data
 I wanted to collect
-.",0.35714285714285715
+.",0.35714285714285715,0.728043
 You have no Ninja ability.,"サスケ君とは違う
 ｡
 
 ","Sasuke is different from you
-.",0.2
+.",0.2,0.34881467
 "<i>It's the first time</i>
 <i>I've seen Lady Tsunade like this...</i>","(ｼｽﾞﾈ)
 《こんな綱手様を見たのは
 初めてだ》
 
 ","""I saw this kind of struggle
-The first time """,0.23809523809523808
+The first time """,0.2380952380952381,0.44875968
 Please don't push it too far alone.,"(ｼｽﾞﾈ)
 １人で
 むちゃをしないでください
@@ -1003,7 +1003,7 @@ Please don't push it too far alone.,"(ｼｽﾞﾈ)
 
 ","With one person
 Please do not worry
-.",0.21428571428571427
+.",0.21428571428571427,0.35864845
 "Admittedly, I was anticipating
 the monster dwelling inside you...","確かに
  
@@ -1013,7 +1013,7 @@ the monster dwelling inside you...","確かに
 ","surely
  
 Hide in your
-I was expecting a monster but",0.16666666666666666
+I was expecting a monster but",0.16666666666666666,0.6322935
 "But now,
 with the legendary Sannin before me,","今
  
@@ -1021,18 +1021,18 @@ with the legendary Sannin before me,","今
 
 ","now
  
-Make the legendary Sanbu in front of you",0.2
+Make the legendary Sanbu in front of you",0.2,0.7593495
 "You're just a puny zero.
 So if you meddle...","出しゃばるなら…
 ｡
 
 ","If you get out ...
-.",0.3076923076923077
+.",0.3076923076923077,0.24598072
 I'll kill you.,"殺すよ
 ｡
 
 ","I will kill
-.",0.5
+.",0.5,0.82487285
 "Don't, Naruto!","この！
 (
 自来也
@@ -1045,7 +1045,7 @@ I'll kill you.,"殺すよ
 
 Good
  
-Naruto!",0.2857142857142857
+Naruto!",0.2857142857142857,0.7365292
 "<i>He shouldn't be able to use</i>
 <i>that right hand anymore.</i>","《あの手…
  
@@ -1055,32 +1055,32 @@ Naruto!",0.2857142857142857
 ","""That hand ...
  
 That right hand
-It should not be used anymore!""",0.21739130434782608
+It should not be used anymore!""",0.21739130434782608,0.6237951
 Shadow Clone Jutsu!,"《影分身の術！➡
 
-","""Shadow Population Technique!➡",0.25
+","""Shadow Population Technique!➡",0.25,0.537481
 <i>I'll attack at once with four...</i>,"４人で一斉に攻撃して➡
 
-",Attack with 4 people at all,0.21428571428571427
+",Attack with 4 people at all,0.21428571428571427,0.7012645
 "<i>and break him from the right side</i>
 <i>where he can't defend!</i>","防御のできない右側から
 崩すってばよ！》
 
 ","From the right side that can not protect
-If you break it!""",0.24
+If you break it!""",0.24,0.48111057
 <i>What?</i>,"あっ
  
 何だ？》
 
 ","Ah
  
-What?""",0.25
+What?""",0.25,0.2710984
 <i>Blood?</i>,"《血？》
 
-","""blood?""",0.25
+","""blood?""",0.25,0.56390864
 <i>Poison Needles!</i>,"よけきれない！》
 
-","I can not help!""",0.18181818181818182
+","I can not help!""",0.18181818181818185,0.24229994
 "<i>My neural reflexes still haven't</i>
 <i>completely returned!</i>","まだ神経反射が
 完全に戻ってない
@@ -1090,13 +1090,13 @@ What?""",0.25
 ","Neuro reflection is still
 Not completely returned
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.5996376
 <i>With the headband...!</i>,"額当てで！
 
-",In the amount!,0.18181818181818182
+",In the amount!,0.18181818181818185,0.13763426
 "Thanks, Shizune!","うっ！
 
-",Uh!,0.2
+",Uh!,0.2,0.22320609
 <i>That's...</i>,"(
 自来也
 )
@@ -1112,7 +1112,7 @@ Not completely returned
 Very
 Such
  
-Imitation ...",0.08333333333333333
+Imitation ...",0.08333333333333333,0.1955369
 "So he's trying to replenish
 lost blood, huh...","失われた血液を
 補充しようというわけか
@@ -1120,7 +1120,7 @@ lost blood, huh...","失われた血液を
 
 ","Lost blood
 Do you want to replenish
-.",0.26666666666666666
+.",0.26666666666666666,0.6778367
 That kid is a Medical Ninja same as me...,"(ｼｽﾞﾈ)
 《あの子
  
@@ -1128,14 +1128,14 @@ That kid is a Medical Ninja same as me...,"(ｼｽﾞﾈ)
 
 ","""That girl
  
-Same medical ninja with me ... """,0.46153846153846156
+Same medical ninja with me ... """,0.4615384615384616,0.667823
 Lord Orochimaru...,"増血丸…
 ｡
 増血丸？
 
 ","Hythemic round ...
 .
-Hysteres?",0.125
+Hysteres?",0.125,-0.009079174
 "Please take off the bandage
 on your left arm.","大蛇丸様
  
@@ -1147,7 +1147,7 @@ on your left arm.","大蛇丸様
  
 Left arm bandage
 please remove
-.",0.4166666666666667
+.",0.4166666666666667,0.81799364
 Shizune!,"シズネ
 ｡
 (ｼｽﾞﾈ)
@@ -1160,7 +1160,7 @@ Shizune!,"シズネ
 
 teeth…
  
-Yes!",0.4
+Yes!",0.4,0.75141394
 I'll take care of Orochimaru!,"いよいよ
 御大のお出ましだのう
 ｡
@@ -1169,21 +1169,21 @@ I'll take care of Orochimaru!,"いよいよ
 ","Finally
 I'm going out of the great big
 .
-➡",0.125
+➡",0.125,0.28464457
 <i>like the rainbow after the storm</i>,"♬
  
 明日へ向かう風を感じてた
 
 ","♬
  
-I felt the wind towards tomorrow",0.14285714285714285
+I felt the wind towards tomorrow",0.14285714285714285,0.4043785
 "Enough already, you traitor!","♬
  
 笑う君が
 
 ","♬
  
-Laughing you",0.125
+Laughing you",0.125,0.23229519
 "Hey Old Lady,
 just like our wager","♬
  
@@ -1191,7 +1191,7 @@ just like our wager","♬
 
 ","♬
  
-Dreams like meteor",0.09090909090909091
+Dreams like meteor",0.09090909090909093,0.074523486
 "I will definitely win
 that unlucky necklace from you!","♬
  
@@ -1201,7 +1201,7 @@ that unlucky necklace from you!","♬
 ","♬
  
 one
-I will be answered",0.14285714285714285
+I will be answered",0.14285714285714285,0.10848751
 "I won't run away!
 I won't give up!","♬
  
@@ -1211,7 +1211,7 @@ I won't give up!","♬
 ","♬
  
 Dazzling
-I see it",0.08333333333333333
+I see it",0.08333333333333333,0.17652632
 "Just watch.
 This is my Way of Ninja!","♬
  
@@ -1221,4 +1221,4 @@ This is my Way of Ninja!","♬
 ","♬
  
 In this heart
-Bring the light",0.0625
+Bring the light",0.0625,0.2308126

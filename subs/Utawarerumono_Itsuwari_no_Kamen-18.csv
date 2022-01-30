@@ -1,189 +1,189 @@
-en_text,jp_text,google_translated,score
-"My beloved people,",我がヤマトは…,My Yamato is ...,0.14285714285714285
-I shall share with you the emperor's words.,愛する民よ,I love you,0.18181818181818182
-Our nation of Yamato has \Ndecided to invade Tusukuru!,トゥスクルに侵攻を決定した！,I decided to invade Tuskle!,0.23076923076923078
-Don't say that.,言うな これは聖上のご意思なのだ,Do not say this,0.2857142857142857
-That's right.,そうなのですが…,That's right ...,0.6
-I'm sure there's a reason \Nbeyond our understanding for it.,深い理由があるのです,There is a deep reason,0.2
-B-But... When I think about \Nhow Kuon-sama must feel...,クオン様のお気持ちを思うと…,I think I feel like Quon-like ...,0.3333333333333333
-"Have some hot, freshly-made tea.",いれたての熱いお茶をどうぞ,Have a hot tea,0.375
-Where's Sister?,姉様は？,What is your sister?,0.2857142857142857
-Is she still in her room?,ま まだお部屋ですか？,Is it still room?,0.5
-"I'll go, too.",私も行こう,I will go,0.2857142857142857
-Wait.,待てって！,Wait!,0.3333333333333333
-"Hey, it's war!",おーい 戦だぞー,"Oh, it's a good battle",0.3
-Shinonon!,シノノーン,Shinonon,0.5
+en_text,jp_text,google_translated,score,semantic_score
+"My beloved people,",我がヤマトは…,My Yamato is ...,0.14285714285714285,0.16131651
+I shall share with you the emperor's words.,愛する民よ,I love you,0.18181818181818185,0.20528692
+Our nation of Yamato has \Ndecided to invade Tusukuru!,トゥスクルに侵攻を決定した！,I decided to invade Tuskle!,0.2307692307692308,0.5143223
+Don't say that.,言うな これは聖上のご意思なのだ,Do not say this,0.2857142857142857,0.49067873
+That's right.,そうなのですが…,That's right ...,0.6,0.8302045
+I'm sure there's a reason \Nbeyond our understanding for it.,深い理由があるのです,There is a deep reason,0.2,0.60546637
+B-But... When I think about \Nhow Kuon-sama must feel...,クオン様のお気持ちを思うと…,I think I feel like Quon-like ...,0.3333333333333333,0.32388234
+"Have some hot, freshly-made tea.",いれたての熱いお茶をどうぞ,Have a hot tea,0.375,0.88234586
+Where's Sister?,姉様は？,What is your sister?,0.2857142857142857,0.7478196
+Is she still in her room?,ま まだお部屋ですか？,Is it still room?,0.5,0.605386
+"I'll go, too.",私も行こう,I will go,0.2857142857142857,0.6871186
+Wait.,待てって！,Wait!,0.3333333333333333,0.86465025
+"Hey, it's war!",おーい 戦だぞー,"Oh, it's a good battle",0.3,0.5374031
+Shinonon!,シノノーン,Shinonon,0.5,0.93285614
 "If you want to know more, \Nbuy a copy and read.","詳しくは この記事を買って
 よーく読んでくれーっ","For more information, buy this article
-Read well",0.15789473684210525
-Come in.,んあっ,In,0.3333333333333333
-What is it today?,今日は何だ？,What is it today?,1.0
-"We'd anticipated it, but not to this extent.",想定はしていたが これ程とは,"I was assumed, but about it",0.2
-"Thus, at times they struggle to cooperate.",トゥスクル遠征軍が苦戦を強いられている,Tuskle expeditionary army is forced to struggle,0.14285714285714285
+Read well",0.15789473684210525,0.4939908
+Come in.,んあっ,In,0.3333333333333333,0.62207514
+What is it today?,今日は何だ？,What is it today?,1.0,0.99999994
+"We'd anticipated it, but not to this extent.",想定はしていたが これ程とは,"I was assumed, but about it",0.2,0.42076454
+"Thus, at times they struggle to cooperate.",トゥスクル遠征軍が苦戦を強いられている,Tuskle expeditionary army is forced to struggle,0.14285714285714285,0.31926075
 And it seems the enemy has \Ntaken advantage of this.,"ヤマトの誇る軍であっても
 各武将にはそれぞれの考えがあり 戦い方がある","Even if it is a proud army of Yamato
-Each warlord has each idea and there is a fight",0.17391304347826086
-The enemy knows us well.,敵は 我らの事をよく調べていた,The enemy was checking our things well,0.3
-They're tougher than anticipated.,思った以上に手強い,More hard than I thought,0.1
-Even Munechika-dono is struggling.,あのムネチカ殿でも苦戦しているようだ,It seems that it is struggling in that Muneka,0.2
-How's she doing?,ムネチカが？,Muneka?,0.16666666666666666
-There's no need to worry.,心配はいらぬ,I do not worry,0.1
-"Their supply lines have been cut, \Nand they're isolated.",補給路も断たれ 孤立無援の状況なのだ,The supply path is also taken and it is an isolated unknown situation,0.09090909090909091
-It's only a matter of time before \Nthey run out of supplies.,物資が干上がるのも時間の問題であろう,It will also be a time problem that supplies will go down,0.2
-There's a reason we can't let it.,そうもゆかぬ事情がある,There is a circumstance with it,0.23076923076923078
+Each warlord has each idea and there is a fight",0.17391304347826084,0.33154255
+The enemy knows us well.,敵は 我らの事をよく調べていた,The enemy was checking our things well,0.3,0.6168483
+They're tougher than anticipated.,思った以上に手強い,More hard than I thought,0.1,0.45311564
+Even Munechika-dono is struggling.,あのムネチカ殿でも苦戦しているようだ,It seems that it is struggling in that Muneka,0.2,0.76360166
+How's she doing?,ムネチカが？,Muneka?,0.16666666666666666,0.17010148
+There's no need to worry.,心配はいらぬ,I do not worry,0.1,0.62307197
+"Their supply lines have been cut, \Nand they're isolated.",補給路も断たれ 孤立無援の状況なのだ,The supply path is also taken and it is an isolated unknown situation,0.09090909090909093,0.58362204
+It's only a matter of time before \Nthey run out of supplies.,物資が干上がるのも時間の問題であろう,It will also be a time problem that supplies will go down,0.2,0.72129744
+There's a reason we can't let it.,そうもゆかぬ事情がある,There is a circumstance with it,0.2307692307692308,0.32458705
 "If we're to rely on strength, \NVurai is our best bet.","現在ヴライは蛮族平定のため
 彼の地へ赴いている","Currently, Vai is a barbarian
-He is going to his land",0.13636363636363635
+He is going to his land",0.13636363636363635,0.16972658
 "The other Pillar Generals \Nhave tasks of their own,","某はムネチカ殿に代わり
 帝都を守護する任がある","某 代 instead of Muneka
-There is an appointment to protect the imperial capital",0.09090909090909091
-So what do you want me to do?,それで 要件というのは？,So what is the requirement?,0.2727272727272727
+There is an appointment to protect the imperial capital",0.09090909090909093,0.30812228
+So what do you want me to do?,それで 要件というのは？,So what is the requirement?,0.2727272727272727,0.18324725
 I want you to deliver supplies \Nto the Tusukuru invasion force.,"トゥスクル遠征軍に
 支援物資を届けてもらいたい","To the Tuskle Expedition Forces
-I want you to deliver a support supplies",0.4117647058823529
+I want you to deliver a support supplies",0.4117647058823529,0.72583675
 "And at the same time, I want you to help \NKiuru, who went with the reinforcements.","と同時に 増援部隊に同行した
 キウルの支援も頼みたいのだ","At the same time, it accompanied by a reinforcement unit
-I want to ask for the support of Kiul",0.2857142857142857
-Kiuru?,キウル？,Kiuru?,1.0
+I want to ask for the support of Kiul",0.2857142857142857,0.3877263
+Kiuru?,キウル？,Kiuru?,1.0,0.9999996
 "Oshutoru... You know what \Nyou're asking me to do, right?","今 お前が言っている意味
 分かってるんだよな？","Meaning that you are saying now
-Do you know?",0.21052631578947367
+Do you know?",0.21052631578947367,0.14319696
 You're telling me to participate \Nin the invasion of Tusukuru.,"トゥスクル侵攻に加担しろ
 そう言ってる事になるんだぞ","Cover to Tuskle invasion
-It will be said that so",0.1
-Of course.,無論,Of course,0.6666666666666666
+It will be said that so",0.1,0.52182347
+Of course.,無論,Of course,0.6666666666666666,0.8766717
 There is no one else who can do it.,"もはや そなたをおいて
 他に適任の者がおらぬのだ","Againha
-There is no other suitable person",0.21428571428571427
-I accept.,はあ 分かったよ,I understand,0.25
-"Hey, Mommy!",ねえねえ お母さん,Hey mothers,0.2
-What's for dinner today?,今日はねー 何だと思う？,Today I wonder what?,0.375
-What do you think it is?,今日は何食べるの？,What do you eat today?,0.4444444444444444
-"Okay, let's go home.",さ 早く帰りましょう,Let's go home soon,0.5
-Daddy's waiting.,フフ 違うのよ,It's not afford,0.14285714285714285
-Hey!,おーい,Hey,0.5
-Is that some ritual?,何の儀式だ？,What is the ritual?,0.42857142857142855
+There is no other suitable person",0.21428571428571427,0.4281547
+I accept.,はあ 分かったよ,I understand,0.25,0.42417738
+"Hey, Mommy!",ねえねえ お母さん,Hey mothers,0.2,0.76332515
+What's for dinner today?,今日はねー 何だと思う？,Today I wonder what?,0.375,0.33491316
+What do you think it is?,今日は何食べるの？,What do you eat today?,0.4444444444444444,0.06930066
+"Okay, let's go home.",さ 早く帰りましょう,Let's go home soon,0.5,0.73853713
+Daddy's waiting.,フフ 違うのよ,It's not afford,0.14285714285714285,0.21213597
+Hey!,おーい,Hey,0.5,0.8941388
+Is that some ritual?,何の儀式だ？,What is the ritual?,0.42857142857142855,0.8727506
 So we're trying to lure her out with \Nthe smell of her favorite food.,"それで 好物の匂いで
 誘い出そうと思いまして","So it smells of favorite
-I think I'm going to invite",0.18181818181818182
+I think I'm going to invite",0.18181818181818185,0.40711185
 Didn't Oshutoru want to see you today?,"今日 オシュトルはんに
 呼ばれたんやないの？","Today Otstra Han
-Aren't you called?",0.3076923076923077
-Did he have a new job?,新しい用向きか？,New oriented?,0.25
-"Yeah, about that...",あっ ああ… その事なんだが…,Oh Oh ... that's what ...,0.25
-"Kuon, listen to me.",クオン 聞いてくれ,Please listen to,0.2857142857142857
+Aren't you called?",0.3076923076923077,0.32459575
+Did he have a new job?,新しい用向きか？,New oriented?,0.25,0.35244244
+"Yeah, about that...",あっ ああ… その事なんだが…,Oh Oh ... that's what ...,0.25,0.46953103
+"Kuon, listen to me.",クオン 聞いてくれ,Please listen to,0.2857142857142857,0.45824778
 He's asked me to deliver supplies.,"遠征軍に支援物資を
 届けてもらいたいって事だ","Support supplies to the expeditionary army
-I want to deliver",0.21428571428571427
-And to leave in the morning.,しかも出発は明日の朝,And the departure is tomorrow morning,0.3
-"To be honest, I think I'm more \Nsuited to cleaning gutters.",正直言うとだな,I'm honest,0.25
-"But I'm worried about Munechika, \Nand I want to help Kiuru.",ムネチカが心配だし,I'm worried about Muneka,0.2857142857142857
-And Oshutoru...,んっ く…,...,0.3333333333333333
-So I've decided to carry out his request.,この依頼 引き受ける事にした,I decided to receive this request,0.3333333333333333
+I want to deliver",0.21428571428571427,0.5109124
+And to leave in the morning.,しかも出発は明日の朝,And the departure is tomorrow morning,0.3,0.5400593
+"To be honest, I think I'm more \Nsuited to cleaning gutters.",正直言うとだな,I'm honest,0.25,0.2303967
+"But I'm worried about Munechika, \Nand I want to help Kiuru.",ムネチカが心配だし,I'm worried about Muneka,0.2857142857142857,0.6645298
+And Oshutoru...,んっ く…,...,0.3333333333333333,0.16331425
+So I've decided to carry out his request.,この依頼 引き受ける事にした,I decided to receive this request,0.3333333333333333,0.6073911
 "I'm just going to keep doing as much \Nas I can, the same as ever, though.","今まで通り 自分にできる事を
 やるだけだからな","Things you can do as you ever
-Because I just do it",0.22727272727272727
-I don't know what'll happen.,何が起こるか分からん,I do not know what happens,0.4
+Because I just do it",0.2272727272727273,0.46867955
+I don't know what'll happen.,何が起こるか分からん,I do not know what happens,0.4,0.6985393
 "It may mean fighting the people of your \Nhomeland, who you care for very much.","お前にとって大切な故郷の仲間と
 戦う事になるかもしれない","With the important hometown companion for you
-May be fighting",0.22727272727272727
-So... So I'm... leaving you here.,だから だから自分は…,So because I ...,0.3333333333333333
-I'm not taking you with me.,お前を置いていく,I will put you,0.2
-Kuon...,クオン…,Quoon ...,0.3333333333333333
-"Come on, say something, Kuon!",おい 何とか言えよ クオン！,I can say something,0.2222222222222222
-Kuon-sama...,はあ…,...,0.5
-What will you do?,どうするですか？,What do you do?,0.8
-"Well, I'm tired now, so...",あ いや… 今日はもう疲れたしな,Oh ... I'm already tired today,0.36363636363636365
-Tell her! You have to!,伝えるですよ 絶対に！,I will tell you absolutely!,0.3333333333333333
+May be fighting",0.2272727272727273,0.42762506
+So... So I'm... leaving you here.,だから だから自分は…,So because I ...,0.3333333333333333,0.38556793
+I'm not taking you with me.,お前を置いていく,I will put you,0.2,0.31004348
+Kuon...,クオン…,Quoon ...,0.3333333333333333,0.63982993
+"Come on, say something, Kuon!",おい 何とか言えよ クオン！,I can say something,0.2222222222222222,0.26958534
+Kuon-sama...,はあ…,...,0.5,0.191527
+What will you do?,どうするですか？,What do you do?,0.8,0.690163
+"Well, I'm tired now, so...",あ いや… 今日はもう疲れたしな,Oh ... I'm already tired today,0.3636363636363637,0.70291305
+Tell her! You have to!,伝えるですよ 絶対に！,I will tell you absolutely!,0.3333333333333333,0.23278031
 That's right!,"そうやえ ここまで演説ぶっといて
 引けないえ","That's right here to speech
-Ebony",0.375
-A good man sees things through to the end.,いい男なら やり通すものだ,It's a good man,0.25
-But I don't really...,クオン様をお願いします,I would like Kuon,0.1111111111111111
-"Me, too.",私も,me too,0.5
-Quickly!,急ぐです！,Rush!,0.3333333333333333
-Why?,なんで？,why?,1.0
-There's no time to waste.,時間が無いからな,Because there is no time,0.3333333333333333
-"That's just like you, Haku-san.",さあ 準備するじゃなぁい？,"Well, do you prepare?",0.16666666666666666
-How did this happen?,はあー　どうしてこうなった？,Is it this?,0.2857142857142857
-This one's for Haku-sama.,ハク様の分 ココポの分,Haku-sama's minutes,0.2857142857142857
-U-Um...,クオン様…,Quon-like ...,0.3333333333333333
-The supplies have already been \Nloaded onto a ship at the port.,物資は既に港で船に搬入済みだそうです,Source supplies have already been carried in the ship at the harbor,0.4375
+Ebony",0.375,0.18363202
+A good man sees things through to the end.,いい男なら やり通すものだ,It's a good man,0.25,0.39341447
+But I don't really...,クオン様をお願いします,I would like Kuon,0.1111111111111111,0.08150622
+"Me, too.",私も,me too,0.5,0.78659374
+Quickly!,急ぐです！,Rush!,0.3333333333333333,0.4952714
+Why?,なんで？,why?,1.0,0.9999997
+There's no time to waste.,時間が無いからな,Because there is no time,0.3333333333333333,0.52158475
+"That's just like you, Haku-san.",さあ 準備するじゃなぁい？,"Well, do you prepare?",0.16666666666666666,0.1570427
+How did this happen?,はあー　どうしてこうなった？,Is it this?,0.2857142857142857,0.25416252
+This one's for Haku-sama.,ハク様の分 ココポの分,Haku-sama's minutes,0.2857142857142857,0.7339037
+U-Um...,クオン様…,Quon-like ...,0.3333333333333333,0.32205543
+The supplies have already been \Nloaded onto a ship at the port.,物資は既に港で船に搬入済みだそうです,Source supplies have already been carried in the ship at the harbor,0.4375,0.81910247
 We're going to resupply in Shahhoro \Nand then head to Tusukuru.,"途中でシャッホロに寄って
 補給を済ませたらトゥスクルに向かうです","On the way to the shugoro
-I will head to Tuskle if you make replenishment",0.08695652173913043
-Shahhoro?,ふ 船え？,Having?,0.3333333333333333
+I will head to Tuskle if you make replenishment",0.08695652173913042,0.4999648
+Shahhoro?,ふ 船え？,Having?,0.3333333333333333,0.116188966
 "If this were any other sort of trip, \NI could show you around.","こういう旅やないんなら
 いろいろ案内してあげるんやけど","If you don't have this happiness
-I will guide you in various ways",0.12
-It's a shame.,アトゥイ様の故郷ですね,It's at the hometown of Atui,0.2
-Th-That's right...,シャッホロ…,Shochoro ...,0.2
+I will guide you in various ways",0.12,0.14572486
+It's a shame.,アトゥイ様の故郷ですね,It's at the hometown of Atui,0.2,0.19637094
+Th-That's right...,シャッホロ…,Shochoro ...,0.2,0.1714319
 We'll just hold off on it until then.,"うっ そ そうだな
 う それまで取っておくというのはどうだ？","It is so bad
-How is she keeping it until then?",0.17647058823529413
-"I want to go with Kuon-sama \Nand everyone else, right?",クオン様とみんなで一緒に ですよね,It is together with Quon-sama and everyone,0.11764705882352941
-I can't wait.,うっ！,Uh!,0.0
-The sea... Boats... Waves...,海 船 波い～い…,Sea ship waves ...,0.5
-"We're finally finished, huh?",は？,teeth?,0.125
+How is she keeping it until then?",0.17647058823529413,0.30074522
+"I want to go with Kuon-sama \Nand everyone else, right?",クオン様とみんなで一緒に ですよね,It is together with Quon-sama and everyone,0.1176470588235294,0.4823113
+I can't wait.,うっ！,Uh!,0.0,0.24647534
+The sea... Boats... Waves...,海 船 波い～い…,Sea ship waves ...,0.5,0.7869999
+"We're finally finished, huh?",は？,teeth?,0.125,0.10347287
 There was quite a lot to load.,"やっと終わりましたねえ
 なかなかの量でした","Finally ended
-It was quite an amount",0.15384615384615385
-"You didn't do a thing, did you?",お前何もやってないじゃなーい？,Aren't you doing anything?,0.2727272727272727
-Good work.,お疲れ様です,thank you for your hard work,0.125
-"Well, no, I...",んっ んん…,Mc ...,0.16666666666666666
-Did you go to the kebab shop?,串焼き屋さんは行ってみたですか？,Did you try a skewer shop?,0.36363636363636365
-Like I'd forget that!,忘れるか！,Do you forget!,0.25
-"Listen, I'm just about to...",あ それじゃ あ…,"Oh, that's ...",0.18181818181818182
-What's wrong?,ルルティエか どうしたんだ？,What happened to Lurtier?,0.2857142857142857
+It was quite an amount",0.15384615384615385,0.418518
+"You didn't do a thing, did you?",お前何もやってないじゃなーい？,Aren't you doing anything?,0.2727272727272727,0.50266004
+Good work.,お疲れ様です,thank you for your hard work,0.125,0.40609136
+"Well, no, I...",んっ んん…,Mc ...,0.16666666666666666,0.20515148
+Did you go to the kebab shop?,串焼き屋さんは行ってみたですか？,Did you try a skewer shop?,0.3636363636363637,0.40421587
+Like I'd forget that!,忘れるか！,Do you forget!,0.25,0.6848204
+"Listen, I'm just about to...",あ それじゃ あ…,"Oh, that's ...",0.18181818181818185,0.2292055
+What's wrong?,ルルティエか どうしたんだ？,What happened to Lurtier?,0.2857142857142857,0.1726616
 I made some snacks for everyone \Nto eat on the way...,"道中にですね みんなで食べようと思って
 お菓子を作ってみたのですが","It is on the way, I think everyone to eat
-I tried to make sweets",0.3
-Could you try one?,お味見していただけませんか？,Could you taste it?,0.42857142857142855
-Stuff like that...,うっ それどころ…,"Well, whatever ...",0.14285714285714285
-No... I didn't mean it that way...,いや 自分は今 それどころじゃ…,"No, I am now ...",0.25
-Mister!,はははははっ,Hahahahahaha,0.0
+I tried to make sweets",0.3,0.66546917
+Could you try one?,お味見していただけませんか？,Could you taste it?,0.42857142857142855,0.50265247
+Stuff like that...,うっ それどころ…,"Well, whatever ...",0.14285714285714285,0.3606072
+No... I didn't mean it that way...,いや 自分は今 それどころじゃ…,"No, I am now ...",0.25,0.26549026
+Mister!,はははははっ,Hahahahahaha,0.0,0.15792078
 I don't understand what Nosuri-han is saying.,"あのな うち ノスリはんの言うとる事
 分からんのえや","Among them, Nosri Han says
-I can not understand",0.11764705882352941
+I can not understand",0.1176470588235294,0.8075257
 I'm asking her how not to get seasick.,"だからだな どうやったら船に酔わんのかと
 聞いているのだ","So how is it drunk on the ship
-I'm listening",0.16666666666666666
-"O-Of course, I don't mean for myself!",あ も もちろん私の事ではないぞ？,"Ayomo, of course, not me?",0.13333333333333333
+I'm listening",0.16666666666666666,0.25069067
+"O-Of course, I don't mean for myself!",あ も もちろん私の事ではないぞ？,"Ayomo, of course, not me?",0.13333333333333333,0.30531064
 A good woman doesn't get seasick.,"うん いい女は
 船酔いなどは しないものだからな","Good woman
-Because seasickness is not she does not",0.23076923076923078
-"What's ""seasick""?",なんえ？ 船酔いって,What?Drunk,0.2857142857142857
-You don't know?,し 知らんのか？,Do you know?,0.8
-Like that.,目が回るー 気持ち悪ぅ こんな感じだな,My eyes go around-I feel like this,0.1111111111111111
-"Of course, that's just what I've heard.",も もちろん聞いた話だぞ？,Of course I heard that you heard?,0.38461538461538464
-Just have Kuon make you some medicine.,そんなもの クオンに薬を作ってもらえ,You can make medicine to such a thing,0.23076923076923078
+Because seasickness is not she does not",0.2307692307692308,0.85161096
+"What's ""seasick""?",なんえ？ 船酔いって,What?Drunk,0.2857142857142857,0.12409378
+You don't know?,し 知らんのか？,Do you know?,0.8,0.6783016
+Like that.,目が回るー 気持ち悪ぅ こんな感じだな,My eyes go around-I feel like this,0.1111111111111111,0.21449113
+"Of course, that's just what I've heard.",も もちろん聞いた話だぞ？,Of course I heard that you heard?,0.38461538461538464,0.56116027
+Just have Kuon make you some medicine.,そんなもの クオンに薬を作ってもらえ,You can make medicine to such a thing,0.2307692307692308,0.5096548
 "All right, I'm busy...","-じゃあなっ 自分は忙しい…
 -ハクーッ","- Well, I'm busy ...
--Hacuc",0.5
-Haku? Is Haku here?,ハクは おるかー？,Haku?,0.5
-Another nuisance.,また面倒な奴が…,Another troublesome guy ...,0.16666666666666666
-What is it?,ああ 何だ？,Oh what is it?,0.8
+-Hacuc",0.5,0.6585802
+Haku? Is Haku here?,ハクは おるかー？,Haku?,0.5,0.8763101
+Another nuisance.,また面倒な奴が…,Another troublesome guy ...,0.16666666666666666,0.36947465
+What is it?,ああ 何だ？,Oh what is it?,0.8,0.6369643
 I want you to take this to Munechika.,"これをじゃな
 ムネチカへ届けてもらいたいのじゃ","Not this
-I want you to deliver to Muneka",0.45454545454545453
-O-Okay...,ほっ？ は はい…,Hoa?Yes ...,0.2
+I want you to deliver to Muneka",0.4545454545454545,0.78542846
+O-Okay...,ほっ？ は はい…,Hoa?Yes ...,0.2,0.2322277
 Take care of the rest for me.,"強いて言えば
 ムネチカの戦意高揚に寄与するものじゃ","Casually
-It contributes to the rising rising of Muneka",0.14285714285714285
+It contributes to the rising rising of Muneka",0.14285714285714285,0.025307741
 I'm not done yet!,"ちょ 待つのじゃ
 まだ用件は終わっておらぬぞーっ！","I will wait
-I'm not good at work!",0.36363636363636365
-He...,どぶさらい… どぶさらい… どぶさらい…,Dobu ... Dobata ... Dobata ...,0.25
-Are you listening?,どうかなさいました？,How did you do?,0.2857142857142857
-I don't want to work!,こっちは働きたくないっつーのっ！,I do not want to work here!,0.6666666666666666
-I'm sick of this.,ん うんざりなんだよ はあ,I'm tired,0.2857142857142857
+I'm not good at work!",0.3636363636363637,0.4890017
+He...,どぶさらい… どぶさらい… どぶさらい…,Dobu ... Dobata ... Dobata ...,0.25,0.17572105
+Are you listening?,どうかなさいました？,How did you do?,0.2857142857142857,0.11713967
+I don't want to work!,こっちは働きたくないっつーのっ！,I do not want to work here!,0.6666666666666666,0.8457584
+I'm sick of this.,ん うんざりなんだよ はあ,I'm tired,0.2857142857142857,0.33694416
 Why are there always more and more people?,"にしても なんで次から次へと
 人が増えていってんだ？","But why then next to next
-Are people more than people?",0.38461538461538464
-Why do I get fewer and fewer kebabs?,なんでだっ？,Why?,0.25
-"Even though more people come,\NI still have to clean the gutters myself.",人が増えても どぶさらいは自分だけ…,"Even if people increase,",0.17647058823529413
-I... just want... a break...,自分はだな…,I am ...,0.2857142857142857
-"Please stay with her, no matter what happens.",どうかあの子と 何が起きても…,What happens with that child ...,0.23076923076923078
-Ow!,いてえええーっ！,Yeah yeah!,0.3333333333333333
-I overslept—,はあっ はあっ はあっ,Oh yes there is,0.0
-Episode 19:\NIn Flames,いつから大人になるの,When you become an adult,0.0
+Are people more than people?",0.38461538461538464,0.70893764
+Why do I get fewer and fewer kebabs?,なんでだっ？,Why?,0.25,0.09295618
+"Even though more people come,\NI still have to clean the gutters myself.",人が増えても どぶさらいは自分だけ…,"Even if people increase,",0.17647058823529413,0.27658573
+I... just want... a break...,自分はだな…,I am ...,0.2857142857142857,0.30396053
+"Please stay with her, no matter what happens.",どうかあの子と 何が起きても…,What happens with that child ...,0.2307692307692308,0.25189167
+Ow!,いてえええーっ！,Yeah yeah!,0.3333333333333333,0.32299444
+I overslept—,はあっ はあっ はあっ,Oh yes there is,0.0,0.10189935
+Episode 19:\NIn Flames,いつから大人になるの,When you become an adult,0.0,0.17399056

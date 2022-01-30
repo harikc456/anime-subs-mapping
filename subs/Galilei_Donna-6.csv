@@ -1,281 +1,281 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 What should we do?,"（神月）どうしよう…
 全然　熱　下がんない。","What should I do ...
-There is no heat under heat at all.",0.2
-Her fever isn't going down...,（星月）ハー姉…。,Her sister ....,0.2222222222222222
-Hazu...,ハヅ姉…。,Hatsu sister ....,0.2
+There is no heat under heat at all.",0.2,0.2355271
+Her fever isn't going down...,（星月）ハー姉…。,Her sister ....,0.2222222222222222,0.33575904
+Hazu...,ハヅ姉…。,Hatsu sister ....,0.2,0.38243642
 Roberto.,"（ロベルトの父親）《１１歳の誕生日
 おめでとう　ロベルト》","""11-year-old birthday
-Congratulations Roberto """,0.16666666666666666
+Congratulations Roberto """,0.16666666666666666,0.62117624
 "Thank you,","（ロベルト）
-《ありがとう　パパ！　ママ！》","""Thank you dad!Mom!""",0.25
+《ありがとう　パパ！　ママ！》","""Thank you dad!Mom!""",0.25,0.17325258
 We haven't had a decent meal for two days...,"《俺ら　おとといから
 まともなもん　食ってねえんだ》","""Because we are everything
-I eat decent Mamon """,0.1111111111111111
+I eat decent Mamon """,0.1111111111111111,0.2879019
 Hey! Cut it out!,"≪（警備員）
 《ほら　出ていかないか！》","«
-""Do you not go out!""",0.18181818181818182
+""Do you not go out!""",0.18181818181818185,0.2697151
 "Don't be so cold, man.","（ホームレス）
-《そんなこと言わねえでよ！》","""Don't say that!""",0.15384615384615385
+《そんなこと言わねえでよ！》","""Don't say that!""",0.15384615384615385,0.20014586
 "Wow, this is amazing...","《こんなに　いいのかよ？》
 （ホームレス）《すまねえな》","""Is this good?""
- ""Summon""",0.18181818181818182
+ ""Summon""",0.18181818181818185,0.15112884
 Everyone has an equal right to live.,"（ロベルトの父親）《人は　誰しも
 平等に　生きる権利があるんだ》→","""People are
-There is a right to live equally ""→",0.1875
+There is a right to live equally ""→",0.1875,0.7855443
 "If you have more than others,","《お前が　人より
 多くを持っているなら→","""Your people
-If you have many →",0.25
+If you have many →",0.25,0.59464073
 you should share with those who have less.,"それを　持たない人に
 分けてあげなさい》→","For those who do not have it
-Divide ""→",0.1875
+Divide ""→",0.1875,0.31985793
 That is the duty of those who are given so much.,"《それが　多くを
 持っている人の役目なんだよ》","""It is much
-It is the role of those who have",0.375
-This is all that's left.,《これだけに　なってしまって》,"""It's only this""",0.18181818181818182
-Let's eat!,《食べよう！》,"""Let's eat!""",0.6666666666666666
-Papa!,（ロベルト）《パパ！》,"""Daddy!""",0.2
+It is the role of those who have",0.375,0.40009508
+This is all that's left.,《これだけに　なってしまって》,"""It's only this""",0.18181818181818185,0.24378517
+Let's eat!,《食べよう！》,"""Let's eat!""",0.6666666666666666,0.7827208
+Papa!,（ロベルト）《パパ！》,"""Daddy!""",0.2,0.49489346
 "Run, Roberto...","（ロベルトの父親）
-《逃げなさい…　ロベルト》→","""Run away ... Roberto"" →",0.375
-"If the rest falls down, you'll also get...",《崩れてきたら　お前も…》,"""If you break down ...""",0.2857142857142857
-No! I can't!,（ロベルト）《嫌だ　そんなの！》→,"""I don't like it!""→",0.3
+《逃げなさい…　ロベルト》→","""Run away ... Roberto"" →",0.375,0.7913037
+"If the rest falls down, you'll also get...",《崩れてきたら　お前も…》,"""If you break down ...""",0.2857142857142857,0.3390285
+No! I can't!,（ロベルト）《嫌だ　そんなの！》→,"""I don't like it!""→",0.3,0.2245841
 I'll get you out!,"《待ってて　パパ
 今　助けるから！》→","""Wait and dad
-I will help you now!""→",0.21428571428571427
-"Damn, this is bad.",（ロベルトの父親）《無理だ　ロベルト》,"""Roberts forced""",0.0
+I will help you now!""→",0.21428571428571427,0.23763439
+"Damn, this is bad.",（ロベルトの父親）《無理だ　ロベルト》,"""Roberts forced""",0.0,0.059782624
 Please help!,"（ロベルト）《助けて！
 パパが…　パパが！》","""Help!
-Daddy is ... dad!""",0.2222222222222222
-"Hey, look...",《おい　あれ…》,"""Hey ...""",0.3333333333333333
-Huh?,《パパ？》,"""Dapa?""",0.2
-What are you doing?,《何やってるんだよ？》→,"""What are you doing?""→",0.7142857142857143
+Daddy is ... dad!""",0.2222222222222222,0.19075057
+"Hey, look...",《おい　あれ…》,"""Hey ...""",0.3333333333333333,0.4155142
+Huh?,《パパ？》,"""Dapa?""",0.2,0.20526798
+What are you doing?,《何やってるんだよ？》→,"""What are you doing?""→",0.7142857142857143,0.6200673
 Help me!,"《助けてよ！
 パパが　死んじゃうんだ！》","""Help me!
-Daddy is dead!""",0.375
+Daddy is dead!""",0.375,0.33558393
 "Wait, please... Come back!","《あっ…
 待って　お願い！　待ってよ！》","""Ah…
-Wait and ask! wait!""",0.16666666666666666
-Papa...,（ロベルト）《えっ…》,"""E ...""",0.2
-A tiresome dream.,（ロベルト）つまらん夢だ…。,Tsumanan Dream ....,0.3333333333333333
-Found a hospital!,（グランデロッソ）病院　見つけた～！,hospital found!,0.75
-"Let's get Hazuki shots and meds, ASAP!",葉月に　注射と薬を　お届け～！,Deliver injection and medicine in the leaf!,0.125
-"We shouldn't, but Haa's in trouble...",よくないけど　でも　ハー姉が…。,"It is not good, but Har sister is ....",0.17647058823529413
+Wait and ask! wait!""",0.16666666666666666,0.25082517
+Papa...,（ロベルト）《えっ…》,"""E ...""",0.2,0.23760577
+A tiresome dream.,（ロベルト）つまらん夢だ…。,Tsumanan Dream ....,0.3333333333333333,0.48469567
+Found a hospital!,（グランデロッソ）病院　見つけた～！,hospital found!,0.75,0.8874692
+"Let's get Hazuki shots and meds, ASAP!",葉月に　注射と薬を　お届け～！,Deliver injection and medicine in the leaf!,0.125,0.33253434
+"We shouldn't, but Haa's in trouble...",よくないけど　でも　ハー姉が…。,"It is not good, but Har sister is ....",0.17647058823529413,0.21930017
 I don't want to lose Haa!,"急いで！
 ギョポ～ンと飛ばすよ。","Quickly!
-I'm going to fly with gyo.",0.2
+I'm going to fly with gyo.",0.2,0.26991227
 Isn't it too quiet?,"何か　静か過ぎない？
 うん…。","Isn't it too quiet?
-Yes….",0.75
-What is this?,何これ？　どういうこと？,What's this?  What do you mean?,0.375
+Yes….",0.75,0.97939426
+What is this?,何これ？　どういうこと？,What's this?  What do you mean?,0.375,0.37525415
 What're you guys doing here?,"（レオナルド）ん？
 あっ！　お前ら　何で　ここに！？","?
-Ah!What guys are here!?",0.4
+Ah!What guys are here!?",0.4,0.38432038
 Don't move!,"（レオナルド）動くな！
 （ジョバンニ）動くな！","Do not move!
- Don't move!",0.8
+ Don't move!",0.8,0.9178367
 The Black Ganymede Association is occupying this hospital!,"この病院は　俺たち
 ブラックガニメデ団が　占拠した！","This hospital is us
-Black Ganimede team occupied!",0.38461538461538464
-Huh? Why?,はあ？　何で？,Is it? why?,0.4
-Marco!,マルコ！？,Marco!?,0.6666666666666666
+Black Ganimede team occupied!",0.38461538461538464,0.7888998
+Huh? Why?,はあ？　何で？,Is it? why?,0.4,0.5821314
+Marco!,マルコ！？,Marco!?,0.6666666666666666,0.9348792
 "Due to the fierce blizzard outside, I am stranded here.","（ロベルト）外は　猛烈なブリザードで
 身動きが取れず→","Outside is a furious blizzard
-I can not get my body →",0.14285714285714285
+I can not get my body →",0.14285714285714285,0.61071146
 "from the hospital's air-fish, to repair the engines.","ならば
 病院配備のエアフィッシュから→","If
-From the airfish of hospital deployment →",0.2
+From the airfish of hospital deployment →",0.2,0.60464805
 A brief stop to seize parts and avoid the blizzard.,"（ロベルト）部品の奪取と
 ブリザードが去るまでの→","parts of parts and
-Until Blizzard leaves →",0.2
-That is all this occupation is.,あなたは…。,you….,0.14285714285714285
+Until Blizzard leaves →",0.2,0.7362258
+That is all this occupation is.,あなたは…。,you….,0.14285714285714285,0.14405483
 It nauseates me to have come to the same conclusion as you all.,"貴様らと
 同じ答えに至ってしまうとは→","With you
-If you reach the same answer →",0.16666666666666666
-I shall occupy this hospital.,この病院は　僕が占拠する。,This hospital occupies.,0.42857142857142855
-Your job here is finished.,貴様らの役目は　終わった。,Your role is over.,0.375
-What?,何を！,what!,0.3333333333333333
+If you reach the same answer →",0.16666666666666666,0.32520345
+I shall occupy this hospital.,この病院は　僕が占拠する。,This hospital occupies.,0.42857142857142855,0.7089313
+Your job here is finished.,貴様らの役目は　終わった。,Your role is over.,0.375,0.48856276
+What?,何を！,what!,0.3333333333333333,0.74916023
 Damn it!,"（銃声）
-（レオナルド）ぐわっ！",!,0.3333333333333333
+（レオナルド）ぐわっ！",!,0.3333333333333333,0.38619956
 Not that it's anything new.,"だが　それは
 今　決まったことではない。","But that is
-It is not decided now.",0.36363636363636365
-"Ever since you stole that methane hydrate from Adnimoon, your lives were over.",貴様らの命運は　尽きた。,Your emotions were exhausted.,0.17647058823529413
+It is not decided now.",0.3636363636363637,0.2719512
+"Ever since you stole that methane hydrate from Adnimoon, your lives were over.",貴様らの命運は　尽きた。,Your emotions were exhausted.,0.17647058823529413,0.24653858
 You should be grateful to have survived this long.,"今日まで　生き永らえたことを
 せいぜい　感謝しろ。","I have been living up to today
-Thank you very much.",0.2222222222222222
-Mommy...,ママ…。,Mom ....,0.25
-"Oh, yeah...",（シシーニョ）あ～　感謝してるぜ。→,"Oh, I am grateful.→",0.2857142857142857
-To the countless stars that'll keep shining down on us tomorrow.,無数の星たちによ。,By countless stars.,0.21428571428571427
-"I need, at least, the strength to squash pests!",害虫をつぶす程度の力は　必要だ！,You need the power to crush pests!,0.35714285714285715
-Lead bullets and pests go hand-in-hand.,（シシーニョ）害虫　上等！,pests and etc.,0.375
-They suit you too.,ヘッ！　お前もだ。,Hey!You are also.,0.2222222222222222
-"Hozuki, have you found medicine yet?",ん？,Yeah?,0.1111111111111111
-Let's go!,女の顔になってるぜ！,It's a woman's face!,0.25
-"Stop right there, roller-hair girl.",動くな！　巻き巻き女子。,Freeze!Wrapped girl.,0.2
-Just go...,あっ…　行くわよ！,Oh ... I will go!,0.2857142857142857
-Snap out of it. Let's go.,ぼーっとすんな　行くぞ。,I will go to me.,0.16666666666666666
-What about Anna?,アンナさんは　どうするの？,What do Anna do?,0.6
+Thank you very much.",0.2222222222222222,0.3915028
+Mommy...,ママ…。,Mom ....,0.25,0.73411566
+"Oh, yeah...",（シシーニョ）あ～　感謝してるぜ。→,"Oh, I am grateful.→",0.2857142857142857,0.3263705
+To the countless stars that'll keep shining down on us tomorrow.,無数の星たちによ。,By countless stars.,0.21428571428571427,0.5228754
+"I need, at least, the strength to squash pests!",害虫をつぶす程度の力は　必要だ！,You need the power to crush pests!,0.35714285714285715,0.6740795
+Lead bullets and pests go hand-in-hand.,（シシーニョ）害虫　上等！,pests and etc.,0.375,0.53733677
+They suit you too.,ヘッ！　お前もだ。,Hey!You are also.,0.2222222222222222,0.22785719
+"Hozuki, have you found medicine yet?",ん？,Yeah?,0.1111111111111111,0.19576606
+Let's go!,女の顔になってるぜ！,It's a woman's face!,0.25,0.1893581
+"Stop right there, roller-hair girl.",動くな！　巻き巻き女子。,Freeze!Wrapped girl.,0.2,0.35789514
+Just go...,あっ…　行くわよ！,Oh ... I will go!,0.2857142857142857,0.56327564
+Snap out of it. Let's go.,ぼーっとすんな　行くぞ。,I will go to me.,0.16666666666666666,0.12955089
+What about Anna?,アンナさんは　どうするの？,What do Anna do?,0.6,0.82090664
 It seems the generator malfunctioned.,"（コンスタンス）
-発電施設の故障らしいです。",It seems to be a failure of the power generation facility.,0.2857142857142857
+発電施設の故障らしいです。",It seems to be a failure of the power generation facility.,0.2857142857142857,0.7098911
 Who knows how long backup power will last?,"（コンスタンス）
-予備電源も　どれくらい持つか…。",How much spare power supply has ....,0.13333333333333333
+予備電源も　どれくらい持つか…。",How much spare power supply has ....,0.13333333333333333,0.48015156
 "You guys are unlucky too, considering your timing.","ハー姉に　薬　届けたら
 また　戻ればいい…。","If you deliver medicine to Har sister
-You should return again ....",0.1
+You should return again ....",0.1,0.12722544
 Hazuki's...,"急いで　戻らなくちゃ
 葉月ちゃんが…。","Rushed and returned
-Hazuki-chan ....",0.125
-The blizzard's worsened.,無理だよ。,Impossible.,0.16666666666666666
+Hazuki-chan ....",0.125,0.60068285
+The blizzard's worsened.,無理だよ。,Impossible.,0.16666666666666666,0.20790829
 We can't go outside.,"駄目　動かない。
 外から　回り込もう。","Do not move.
-I will go out of the outside.",0.21428571428571427
-Then what?,何？,what?,0.6666666666666666
+I will go out of the outside.",0.21428571428571427,0.43138674
+Then what?,何？,what?,0.6666666666666666,0.64501154
 We finally got the meds!,"じゃあ　どうすんだよ？
 せっかく　薬　手に入れたのに！","Well, how is it?
-I got a medicine for medicine!",0.125
-Push!,（ジョバンニ）せーの！,!,0.5
-The boss ordered it.,えっ…。,eh….,0.16666666666666666
+I got a medicine for medicine!",0.125,0.5356724
+Push!,（ジョバンニ）せーの！,!,0.5,0.32944047
+The boss ordered it.,えっ…。,eh….,0.16666666666666666,0.089348614
 "Don't you need to get back, to save your big sister?","お前たち　姉ちゃん　助けに
 戻らなきゃいけないんだろ？","For your sister's help
-You have to return?",0.2777777777777778
-Hocchii...,（星月・神月）あっ…。,....,0.3333333333333333
-Bambina...,バンビーナ…。,Bambina ....,0.6666666666666666
+You have to return?",0.2777777777777778,0.7060994
+Hocchii...,（星月・神月）あっ…。,....,0.3333333333333333,0.18212849
+Bambina...,バンビーナ…。,Bambina ....,0.6666666666666666,0.99756587
 We'll all freeze to death!,"このままじゃ
 全員　凍死しちまう！","Let's leave this
-All all frozen!",0.16666666666666666
+All all frozen!",0.16666666666666666,0.7426459
 Just reroute that power here!,"それを消して
 こっちに回せばいい！","It is erased
-You should go here!",0.16666666666666666
+You should go here!",0.16666666666666666,0.20070247
 The second floor houses many critically ill patients.,"２階には　重病患者が
 多く　いるんです。→","Heavy disease patients on the second floor
-There are many him.→",0.3333333333333333
+There are many him.→",0.3333333333333333,0.60200375
 They need electrical medical equipment to stay alive!,"彼らの生命の維持には
 電気設備が　必要なんです！","To maintain their life
-I need electrical equipment!",0.38461538461538464
-That's discrimination!,差別じゃないか！,Isn't it discrimination!,0.2857142857142857
+I need electrical equipment!",0.38461538461538464,0.769398
+That's discrimination!,差別じゃないか！,Isn't it discrimination!,0.2857142857142857,0.88556427
 Why should we have to suffer for them?,"私たちが
 我慢しなきゃいけないの？","we
-Do you have to stand?",0.3333333333333333
+Do you have to stand?",0.3333333333333333,0.22662437
 "Just because you're a doctor, don't push it!","医者だからって　調子　乗んなよ！
 ぶっ殺されてえのか！","Because it is a doctor, I'm tired!
-Do you have been killed!",0.42105263157894735
-I have money.,金ならある！　俺たちを助けろ！,I have money!Help us!,0.42857142857142855
+Do you have been killed!",0.42105263157894735,0.5757949
+I have money.,金ならある！　俺たちを助けろ！,I have money!Help us!,0.42857142857142855,0.7245964
 Isn't saving us more important?,"俺たちを助ける方が　重要だろ！
 （患者）病院が　患者を選ぶのか！","It is important to help us!
- Does the hospital choose a patient?",0.23529411764705882
-Behave yourselves!,（患者）後で　訴えてやるからな！,I will complain after !,0.14285714285714285
-"From this day forward, you are my son.",《君は　今日から　俺の息子だ》,"""You are my son from today""",0.38461538461538464
-This looks hopeless.,駄目そうだな　こりゃ。,It looks good.,0.3333333333333333
-"Mr. BlaGany, you're bleeding!",うぬぅ～！,Urina ~!,0.1111111111111111
-Why would you go out of your way for us?,どうして　そこまでしてくれるの？,Why do you have to get there?,0.1875
-Boss's orders...,あっ…　ブラガニさん　血が！,There is ... Bragani's blood!,0.2222222222222222
+ Does the hospital choose a patient?",0.2352941176470588,0.27777177
+Behave yourselves!,（患者）後で　訴えてやるからな！,I will complain after !,0.14285714285714285,0.35156265
+"From this day forward, you are my son.",《君は　今日から　俺の息子だ》,"""You are my son from today""",0.38461538461538464,0.6474944
+This looks hopeless.,駄目そうだな　こりゃ。,It looks good.,0.3333333333333333,0.37730867
+"Mr. BlaGany, you're bleeding!",うぬぅ～！,Urina ~!,0.1111111111111111,0.24583589
+Why would you go out of your way for us?,どうして　そこまでしてくれるの？,Why do you have to get there?,0.1875,0.37551922
+Boss's orders...,あっ…　ブラガニさん　血が！,There is ... Bragani's blood!,0.2222222222222222,0.17263722
 "If we must, we're all prepared to \Nthrow away our lives for the boss.","俺たちは　みんな
 お頭のためだったら→","We are all
-If it is for your head →",0.18181818181818182
+If it is for your head →",0.18181818181818185,0.30876425
 "Compared to that, this is just a scratch!","あんなチャラい　バカのために
 命　捨てるなんて　おかしいだろ。","For such a charger idiot
-She is funny to put it out.",0.15
-You don't know anything about him!,お前に　お頭の何が　分かるんだ！,You can see what you know!,0.2727272727272727
+She is funny to put it out.",0.15,0.13479258
+You don't know anything about him!,お前に　お頭の何が　分かるんだ！,You can see what you know!,0.2727272727272727,0.34806302
 All of us in Black Ganymede were orphans.,"（レオナルド）お頭の命令だからよ。
 あっ…。","Because it is an order of your head.
-Ah….",0.11764705882352941
+Ah….",0.1176470588235294,0.036623154
 Our orphanage was crap.,"大人が　ガキを　ストレス発散の
 道具にしてたんだからな。","Adults are stressful
-It was a tool.",0.18181818181818182
-No way!,あっ！？,Ah!?,0.2
+It was a tool.",0.18181818181818185,0.2661964
+No way!,あっ！？,Ah!?,0.2,0.21321869
 They probably wanted to dominate the weak.,"こんな世の中　親が
 子を捨てるなんて　珍しくねえ。","Such a parent of this world
-It is uncommon to throw away the child.",0.15
-I'm sure he didn't like anyone who wanted to oppress others.,気に入らなかったんだろうぜ。→,I didn't like it.→,0.26666666666666666
+It is uncommon to throw away the child.",0.15,0.012131756
+I'm sure he didn't like anyone who wanted to oppress others.,気に入らなかったんだろうぜ。→,I didn't like it.→,0.26666666666666666,0.28405884
 He's a man we can follow.,"そんな　お頭に
 俺たちは　救われた。→","Such a head
-We were saved.→",0.16666666666666666
+We were saved.→",0.16666666666666666,0.25877315
 "More of us felt that way, and before you knew it, we'd become a big group.","そんな俺たちの前に
 あの人は　現れたんだ。","Such before us
-That person appeared.",0.18181818181818182
+That person appeared.",0.18181818181818185,0.30951646
 The boss gave us our freedom.,"（レオナルド）お頭は
 俺たちに　自由をくれたんだ。","Head
-We gave us freedom.",0.4444444444444444
-How is that freedom?,何が　自由だよ。,What is freedom.,0.2857142857142857
+We gave us freedom.",0.4444444444444444,0.6919742
+How is that freedom?,何が　自由だよ。,What is freedom.,0.2857142857142857,0.76136667
 So parents abandoning their kids isn't a crime?,"（レオナルド）親が　子を捨てるのは
 犯罪じゃねえのか？","The parent discards the child
-Isn't it a crime?",0.3333333333333333
+Isn't it a crime?",0.3333333333333333,0.7582844
 Did you pay for them?,"（レオナルド）薬は　どうした？
 金　払ったのか？","What happened to the medicine?
-Did you pay money?",0.3333333333333333
+Did you pay money?",0.3333333333333333,0.44839418
 There aren't enough resources or energy to go around.,"（レオナルド）人間の数に対して
 資源やエネルギーが足りねえんだ。","for the number of people
-Resources and energy are not enough.",0.2777777777777778
+Resources and energy are not enough.",0.2777777777777778,0.6987852
 You have to steal to live...,"奪うのも
 生きていけねえから…。→","It is also possible to take away
-I can not live ....→",0.1875
-That's just how it is.,空賊やって　人から物を奪うなんてただの犯罪じゃん！,It's just a crime that you're doing something from people!,0.25
-Hocchibi?,ホッチビ？,Hotci?,0.3333333333333333
-That's way too sad...,そんなの　悲し過ぎるよ…。,It's too sad ....,0.5
+I can not live ....→",0.1875,0.5467353
+That's just how it is.,空賊やって　人から物を奪うなんてただの犯罪じゃん！,It's just a crime that you're doing something from people!,0.25,0.18782096
+Hocchibi?,ホッチビ？,Hotci?,0.3333333333333333,0.40796795
+That's way too sad...,そんなの　悲し過ぎるよ…。,It's too sad ....,0.5,0.8234544
 Why does the world have to work this way?,"どうして　誰かが
 傷つかなきゃいけないの？","Why someone
-Do you have to hurt?",0.2857142857142857
+Do you have to hurt?",0.2857142857142857,0.26316348
 That isn't a problem we can fix.,"どうにかなる問題じゃないだろ。
 だけど！","It's not a matter of any problem.
-However!",0.17647058823529413
+However!",0.17647058823529413,0.50723916
 But...,"≪（銃声）
 （神月・星月）うっ…　あっ！","«
- ...!",0.25
-I'll answer your demands.,（ロベルト）僕が　答えてやる。,I will answer.,0.42857142857142855
-Die.,どうして…。,why….,0.3333333333333333
-You bastard!,（ジョルジョ）てめえ！,!,0.3333333333333333
-"Roberto, stop!",ロベルト　やめて！,Stop Roberto!,0.75
+ ...!",0.25,0.40450627
+I'll answer your demands.,（ロベルト）僕が　答えてやる。,I will answer.,0.42857142857142855,0.50846225
+Die.,どうして…。,why….,0.3333333333333333,0.16655101
+You bastard!,（ジョルジョ）てめえ！,!,0.3333333333333333,0.42495808
+"Roberto, stop!",ロベルト　やめて！,Stop Roberto!,0.75,0.9521327
 Most human beings are hideous and filled with greed.,"（ロベルト）この世界を占める
 人間の大半は　欲深く　醜い。→","Occupies this world
-Most of human beings are greedy and ugly.→",0.3125
+Most of human beings are greedy and ugly.→",0.3125,0.7595198
 "No, they must die.","ならば　そんな人間は
 生きている意味がない。→","If so, such people
-He has no meaning to live.→",0.13333333333333333
-They must be killed...,殺さなければならない。→,It must be killed.→,0.2857142857142857
-by someone.,誰かが。,Someone is.,0.5
-By someone...,誰かが。→,Someone is.→,0.25
+He has no meaning to live.→",0.13333333333333333,0.39182323
+They must be killed...,殺さなければならない。→,It must be killed.→,0.2857142857142857,0.6576929
+by someone.,誰かが。,Someone is.,0.5,0.43236324
+By someone...,誰かが。→,Someone is.→,0.25,0.35146073
 Why do you get to decide who should die?,"どうして　てめえに
 決め付けらんなきゃいけねえ？→","How do you do it
-Don't you decide?→",0.2857142857142857
+Don't you decide?→",0.2857142857142857,0.47051093
 Why do they need your permission to live?!,"どうして
 てめえの許可が　必要なんだ！","why
-You need permission to meet you!",0.4166666666666667
-Humanity is too numerous.,人間は　増え過ぎた。,Humans increased too much.,0.25
-"Essentially, I am the world's spokesman.",いわば　僕は　世界の代弁者だ。,"So to speak, I am the world's sponsor.",0.5384615384615384
+You need permission to meet you!",0.4166666666666667,0.4877477
+Humanity is too numerous.,人間は　増え過ぎた。,Humans increased too much.,0.25,0.5969056
+"Essentially, I am the world's spokesman.",いわば　僕は　世界の代弁者だ。,"So to speak, I am the world's sponsor.",0.5384615384615384,0.52501637
 "If one side of the balance becomes too heavy,","はかりに掛けたとき
 一方が　重過ぎるのなら→","When it hooked
-If one is too heavy →",0.26666666666666666
-That isn't right.,削り取るのも　義務だといえる。,It can be said that it is also a duty to scrape.,0.21428571428571427
+If one is too heavy →",0.26666666666666666,0.5343712
+That isn't right.,削り取るのも　義務だといえる。,It can be said that it is also a duty to scrape.,0.21428571428571427,0.12686501
 "Thus, even hideous souls can be \Ntransformed into noble sacrifices.","醜い魂すらも
 尊い犠牲になり得る。→","Ugly souls
-It can be a precious victim.→",0.17647058823529413
-My actions,僕の行為は…→,My act is ... →,0.16666666666666666
-are a salvation.,救いだ。,It is salvation.,0.3333333333333333
+It can be a precious victim.→",0.17647058823529413,0.66597867
+My actions,僕の行為は…→,My act is ... →,0.16666666666666666,0.50394297
+are a salvation.,救いだ。,It is salvation.,0.3333333333333333,0.8333521
 Why? Why did Theo have to be sacrificed?,"どうして　テオが　犠牲に
 ならなきゃいけなかったの？","Why is the subject at the expense
-Didn't you have?",0.26666666666666666
+Didn't you have?",0.26666666666666666,0.20389087
 That's the kind of arrogance that grates on my nerves!,"その身勝手が
 気に入らねえって　言ってんだよ！","That selfish
-I'm telling you carefully!",0.11764705882352941
+I'm telling you carefully!",0.1176470588235294,0.28305864
 Kiara!,"（キアラ）うあっ…。
 （シシーニョ）キアラ！","Yo ....
- Kiara!",0.4
-Damn...,チッ…。,Tip ....,0.25
+ Kiara!",0.4,0.9035894
+Damn...,チッ…。,Tip ....,0.25,0.32156417
 Please stop!,"もう　やめて！！
 あっ！","stop it!!
-Ah!",0.4
-Hocchibi!,ホッチビ！,Hotci!,0.3333333333333333
-This light...,この光は…。,This light is ....,0.6
-Kaa! Anna!,カー姉！　アンナさん！,Car elder sister!Anna!,0.3333333333333333
+Ah!",0.4,0.64375365
+Hocchibi!,ホッチビ！,Hotci!,0.3333333333333333,0.4832138
+This light...,この光は…。,This light is ....,0.6,0.8390272
+Kaa! Anna!,カー姉！　アンナさん！,Car elder sister!Anna!,0.3333333333333333,0.65825456
 Anna?,"アンナさん？
 えっ？","Anna?
-eh?",0.6666666666666666
-L-Let's go...,あっ…　行きましょう！,Oh ... Let's go!,0.42857142857142855
-I'm not a fan of powdered meds.,苦手なんだけど。,I'm not good at it.,0.3333333333333333
-Moron.,バカ。,fool.,0.3333333333333333
-We have to get out of here!,すぐに出るよ！　逃げなきゃ！,I will come out soon!I have to run away!,0.2857142857142857
+eh?",0.6666666666666666,0.9515972
+L-Let's go...,あっ…　行きましょう！,Oh ... Let's go!,0.42857142857142855,0.5976715
+I'm not a fan of powdered meds.,苦手なんだけど。,I'm not good at it.,0.3333333333333333,0.16696069
+Moron.,バカ。,fool.,0.3333333333333333,0.49789396
+We have to get out of here!,すぐに出るよ！　逃げなきゃ！,I will come out soon!I have to run away!,0.2857142857142857,0.52841777
 "Nice weather, isn't it?","（グランデロッソ）
-ウキウキンギョ！　いい天気だね。",Ukinkin Gyo! It's a nice weather.,0.23076923076923078
-Now Hazuki will get better!,葉月も　これで　回復～！,Hazuki also recovers!,0.25
-Seems luck is in your favor.,（ロベルト）運が　良かったな。,luck was good.,0.2222222222222222
-"I've found you, Galileo Tesoro!",見つけたぞ…　ガリレオテゾロ！,I found it ... Galileotosolo!,0.2727272727272727
+ウキウキンギョ！　いい天気だね。",Ukinkin Gyo! It's a nice weather.,0.2307692307692308,0.526544
+Now Hazuki will get better!,葉月も　これで　回復～！,Hazuki also recovers!,0.25,0.84756273
+Seems luck is in your favor.,（ロベルト）運が　良かったな。,luck was good.,0.2222222222222222,0.6667778
+"I've found you, Galileo Tesoro!",見つけたぞ…　ガリレオテゾロ！,I found it ... Galileotosolo!,0.2727272727272727,0.7786595

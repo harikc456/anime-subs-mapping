@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774586
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.60482836
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,12 +68,12 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.55187774
 I won't lose here!,"こんなところで
 負けてたまるかってばよ！
 
 ","In such a place
-If you lose it!",0.15384615384615385
+If you lose it!",0.15384615384615385,0.536626
 "Whatever! You can't keep up
 with my speed at all!","(
 キバ
@@ -92,7 +92,7 @@ To my speed
 not at all
  
 Heavenly
-.",0.29411764705882354
+.",0.29411764705882354,0.5446337
 U!,"う！
 (
 キバ
@@ -101,10 +101,10 @@ U!,"う！
 
 ","Cormorant!
 
-Wow!",0.25
+Wow!",0.25,0.26121765
 Naruto Barrage!,"ナルト連弾！
 
-",Naruto series!,0.5
+",Naruto series!,0.5,0.74802125
 The winner is Naruto Uzumaki.,"(ﾊﾔﾃ)
 勝者
  
@@ -114,24 +114,24 @@ The winner is Naruto Uzumaki.,"(ﾊﾔﾃ)
 ","winner
  
 Uzumaki Naruto
-.",0.6666666666666666
+.",0.6666666666666666,0.9354655
 <i>I'm...getting stronger!</i>,"《俺ってば…
  
 強くなってる》
 
 ","""If I do ...
  
-It is getting stronger",0.2857142857142857
+It is getting stronger",0.2857142857142857,0.5252061
 Yup!,"(
 リー
 )
 うお～！
 
-",Uo!,0.3333333333333333
+",Uo!,0.3333333333333333,0.46904346
 <i>Yes!</i>,"(ﾋﾅﾀ)
 うん！
 
-",Yes!,0.3333333333333333
+",Yes!,0.3333333333333333,0.5460317
 This medicine works really well!,"よく効くってばよ
  
 この薬
@@ -140,7 +140,7 @@ This medicine works really well!,"よく効くってばよ
 ","If you work well
  
 This medicine
-.",0.3
+.",0.3,0.6422965
 "Here! Do you want to
 use it too, Sakura?","ほい
  
@@ -150,7 +150,7 @@ use it too, Sakura?","ほい
 ","Holy
  
 Do you use Sakura-chan?
-Yeah?",0.26666666666666666
+Yeah?",0.26666666666666666,0.777134
 "<i>Only your wounds heal</i>
 <i>with such speed...Naruto.</i>","(ｶｶｼ)
 《そんな勢いで傷が治るのは
@@ -165,13 +165,13 @@ You only
  
 Naruto
 .
-➡",0.12
+➡",0.12,0.67209756
 "<i>The power of Nine Tail never</i>
 <i>ceases to amaze me.</i>","相変わらず驚かされるな
 九尾の力には》
 
 ","It is not surprised as ever
-The power of the nine tail",0.25
+The power of the nine tail",0.25,0.741489
 T-This is...,"(ﾋﾅﾀ)
 こ…
  
@@ -185,12 +185,12 @@ T-This is...,"(ﾋﾅﾀ)
 this
  
 It is a scratcher
-.",0.1111111111111111
+.",0.1111111111111111,0.29561412
 for you Kiba and Akamaru.,"キバ君と赤丸に
 ｡
 
 ","Kiba and Red Maru
-.",0.375
+.",0.375,0.6134747
 "it's about time you worried
 about yourself!","ヘッ
  
@@ -202,13 +202,13 @@ about yourself!","ヘッ
  
 From the worries of people
 I will be worried about my own
-.",0.1
+.",0.1,0.4747045
 Kiba...,"(ﾋﾅﾀ)
 キバ君
 ｡
 
 ","Kiba
-.",0.3333333333333333
+.",0.3333333333333333,0.94533044
 "you, Choji, Neji, Lee, one Sound guy,
 and the Sand guy.","音１人に砂の野郎の
 たった６人だ
@@ -216,7 +216,7 @@ and the Sand guy.","音１人に砂の野郎の
 
 ","Sound of one sound of sand
 It is only six people
-.",0.2222222222222222
+.",0.2222222222222222,0.47810575
 "Listen, Hinata...","いいか
  
 ヒナタ
@@ -227,14 +227,14 @@ It is only six people
  
 Hinata
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.7007314
 And there's one more...,"それから
  
 もう一人➡
 
 ","after that
  
-Another one",0.1111111111111111
+Another one",0.1111111111111111,0.4662324
 "Do the same if you get Neji, too.","ネジと当たったときも同じだ
 すぐ棄権しろ
 ｡
@@ -243,18 +243,18 @@ Another one",0.1111111111111111
 ","It is the same even when hitting a screw
 Absent to abstain
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.16247408
 That guy will be hard on you.,"ボロボロにされるぞ
 ｡
 
 ","It will be boroboro
-.",0.3
+.",0.3,0.14619556
 "Well, let's announce the next match.","(ﾊﾔﾃ)
 では次の試合を発表します
 ｡
 
 ","Then announce the next game
-.",0.36363636363636365
+.",0.3636363636363637,0.61053556
 <i>This is going to be an interesting match...</i>,"(
 猿飛
 )
@@ -266,7 +266,7 @@ That guy will be hard on you.,"ボロボロにされるぞ
 ","""Anyway
  
 In an interesting match
-It became",0.16666666666666666
+It became",0.16666666666666666,0.49125537
 Lady Hinata.,"ヒナタ様
 ｡
 (ﾋﾅﾀ)
@@ -277,19 +277,19 @@ Lady Hinata.,"ヒナタ様
 .
 
 Screw brother
-.",0.4
+.",0.4,0.70802736
 Brother?,"兄さん？
 えっ!?
 
 ","Brother?
-eh!?",0.5
+eh!?",0.5,0.7954382
 Those two are siblings?,"あの２人
  
 兄弟なのか？
 
 ","That two
  
-Are you a brother?",0.3333333333333333
+Are you a brother?",0.3333333333333333,0.7310349
 "Well, the relation of a head family
 and branch family...","(ｶｶｼ)
 あいつらは
@@ -300,7 +300,7 @@ and branch family...","(ｶｶｼ)
 ","A guy
  
 Even wooden leaves
-Memory of the oldest flow",0.16666666666666666
+Memory of the oldest flow",0.16666666666666666,0.19004203
 Hinata is from the head family.,"日向家の宗家と分家の関係
 って言や
  
@@ -311,7 +311,7 @@ Hinata is from the head family.,"日向家の宗家と分家の関係
 Saying
  
 Is it alright
-.",0.2857142857142857
+.",0.2857142857142857,0.693306
 "In other words, a person from
 the main household","ヒナタさんは
  
@@ -321,7 +321,7 @@ the main household","ヒナタさんは
 ","Mr. Hinata
  
 Sunrise sect
-In other words, people who hit the house",0.2777777777777778
+In other words, people who hit the house",0.2777777777777778,0.27359718
 "and Neji is from a branch family
 that is descended from that family.","日向一族だ
  
@@ -335,7 +335,7 @@ that is descended from that family.","日向一族だ
 But
  
 It's not a brother
-.",0.26666666666666666
+.",0.26666666666666666,0.4640569
 It must be uneasy for both of them...,"(ｶｶｼ)
 う～ん…
  
@@ -343,7 +343,7 @@ It must be uneasy for both of them...,"(ｶｶｼ)
 
 ","Hmm ...
  
-ま ➡",0.08333333333333333
+ま ➡",0.08333333333333333,0.10200827
 "there've been various incidents between
 the head family and branch family,","(
 リー
@@ -356,7 +356,7 @@ the head family and branch family,","(
 ","Between the sect and the house
 from long ago
  
-It seems that there were various",0.23809523809523808
+It seems that there were various",0.2380952380952381,0.36626717
 Hmmm.,"はい
  
 でも…
@@ -365,14 +365,14 @@ Hmmm.,"はい
 ","Yes
  
 but…
-.",0.25
+.",0.25,0.3251758
 Why?,"ふ～ん
  
 何で？
 
 ","Fur
  
-why?",0.6666666666666666
+why?",0.6666666666666666,0.351173
 I don't know the details either.,"僕も詳しくは知りません
  
 ただ…
@@ -381,19 +381,19 @@ I don't know the details either.,"僕も詳しくは知りません
 ","I also do not know more detail
  
 just…
-.",0.3076923076923077
+.",0.3076923076923077,0.6381261
 "The so called distinguished Ninja clans
 like Uchiha and Hyuga","うちはや日向など
 名門と呼ばれる古い忍の家には➡
 
 ","Our house
-In the old Shinobu house called the prestigious",0.125
+In the old Shinobu house called the prestigious",0.125,0.3366915
 "It seems that there are many rules
 that favor the head family...","宗家に有利なおきてが多いそうで
 ｡
 
 ","It seems that there are many favorable things for the sectors
-.",0.4117647058823529
+.",0.4117647058823529,0.12992431
 "Oh, it's gonna begin.","(ｶｶｼ)
 おっ
  
@@ -403,32 +403,32 @@ that favor the head family...","宗家に有利なおきてが多いそうで
 ","Oh
  
 Start
-.",0.2222222222222222
+.",0.2222222222222222,0.65819085
 Start the battle please!,"(ﾊﾔﾃ)
 では試合を始めてください
 ｡
 
 ","Please start the game
-.",0.42857142857142855
+.",0.42857142857142855,0.5836948
 "Just one thing before we square off
 against each other in the fight...","(
 ネジ
 )
 試合をやり合う前に一つ➡
 
-",One before matching the game,0.1875
+",One before matching the game,0.1875,0.31148523
 "I should advise you, Lady Hinata.","ヒナタ様に忠告しておく
 ｡
 
 ","Advantes Hinata
-.",0.2222222222222222
+.",0.2222222222222222,0.54563683
 You're not suited to being a Shinobi.,"棄権しろ
 あなたに忍は向いていない
 ｡
 
 ","Abstained
 Don't go to you
-.",0.23076923076923078
+.",0.2307692307692308,0.22173385
 You're too nice.,"(
 ネジ
 )
@@ -438,7 +438,7 @@ You're too nice.,"(
 
 ","You are too kind
 .
-➡",0.375
+➡",0.375,0.63012916
 "You wish for harmony and
 avoid conflict,","調和を望み
  
@@ -446,7 +446,7 @@ avoid conflict,","調和を望み
 
 ","Heating
  
-Avoid conflicts",0.1
+Avoid conflicts",0.1,0.28726006
 "you're open to going with
 the thinking of others.","他人の考えに合わせることに
 抵抗がない
@@ -456,7 +456,7 @@ the thinking of others.","他人の考えに合わせることに
 ","To match the idea of others
 No resistance
 .
-➡",0.3125
+➡",0.3125,0.15974826
 "And, you have no confidence
 in yourself.","そして
  
@@ -466,7 +466,7 @@ in yourself.","そして
 ","and
  
 I am not confident in myself
-.",0.21428571428571427
+.",0.21428571428571427,0.8139481
 "However, you can't register for
 the Chunin test without three members...","しかし
  
@@ -478,7 +478,7 @@ the Chunin test without three members...","しかし
  
 Nakanobu test
 If it is not three people, you can not register
-.",0.2727272727272727
+.",0.2727272727272727,0.67722285
 "the truth is, you entered
 the exam reluctantly.","この試験を
 嫌々
@@ -490,14 +490,14 @@ the exam reluctantly.","この試験を
 unwillingly
  
 It is the fact that it is taking the exam
-.",0.25
+.",0.25,0.6405378
 I wanted to change that about myself...,"そんな自分を変えたくて
 自分から…
 ｡
 
 ","I want to change myself
 From yourself ...
-.",0.4166666666666667
+.",0.4166666666666667,0.6753144
 "Stand up, Hanabi!","(ﾋｱｼ)
 ＜立て
  
@@ -505,7 +505,7 @@ From yourself ...
 
 ","<Stand
  
-Hanabe>",0.125
+Hanabe>",0.125,0.7777886
 "From now on, I'll keep Hinata
 under my wing...","(
 紅
@@ -518,7 +518,7 @@ under my wing...","(
 ","<Hinata
 I will come down from now on
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.6223386
 But is that really okay?,"ですが
  
 本当に
@@ -527,7 +527,7 @@ But is that really okay?,"ですが
 ","but
  
 very
-Are you sure?>",0.18181818181818182
+Are you sure?>",0.18181818181818185,0.36570102
 "Hinata should be the heir to
 the Hyuga clan...","＜ヒナタは
 日向家の後継者のはず
@@ -537,34 +537,34 @@ the Hyuga clan...","＜ヒナタは
 ","<Hinata
 It should be a successor to Hinata
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.8101467
 "But, there is always death involved
 with the job of Genin.","下忍としての仕事は
 常に死がついて回ります＞
 
 ","The job as Shimono
-Always die around>",0.16666666666666666
+Always die around>",0.16666666666666666,0.47843003
 "She's a failure who's inferior even to her
 younger sister Hanabi, five years her junior.","(ﾋｱｼ)
 ＜５つ下のハナビにすら劣る
 出来損ないなど➡
 
 ","Even if it is inferior to Hanabi below
-Otherwise, etc.",0.2608695652173913
+Otherwise, etc.",0.2608695652173913,0.6122347
 Is that all you have to say?,"＜話は
  
 それだけか？➡
 
 ","<Talk
  
-Is it just?➡",0.15384615384615385
+Is it just?➡",0.15384615384615385,0.39594194
 You're in the way!,"ならば去れ
  
 邪魔だ＞
 
 ","If it is left
  
-I'm in the way>",0.23076923076923078
+I'm in the way>",0.2307692307692308,0.5917246
 Lady Hinata...,"(
 紅
 )
@@ -572,7 +572,7 @@ Lady Hinata...,"(
 自分なりに自分を変えようと…》
 
 ","""Hinata
-Trying to change yourself for yourself ...",0.2222222222222222
+Trying to change yourself for yourself ...",0.2222222222222222,0.662479
 "You are a spoiled one of
 the head family.","(
 ネジ
@@ -587,7 +587,7 @@ the head family.","(
  
 you
 After all it is a sweet family
-.",0.25
+.",0.25,0.45264608
 People can never change!,"人は決して
 変わることなどできない
 ｡
@@ -596,16 +596,16 @@ People can never change!,"人は決して
 ","People are never
 I can not change
 .
-➡",0.4
+➡",0.4,0.8180897
 A failure will <i>always</i> be a failure...,"＜はい＞
 
-",<Yes>,0.18181818181818182
+",<Yes>,0.18181818181818185,0.22493991
 "That personality and strength
 won't change.","その性格も力も変わりはしない
 ｡
 
 ","The character does not change too much
-.",0.14285714285714285
+.",0.14285714285714285,0.5201585
 "Since people don't change,
 differences exist among them...","(
 ネジ
@@ -614,7 +614,7 @@ differences exist among them...","(
 ないからこそ差が生まれ➡
 
 ","People will change
-There is no difference because there is no",0.11764705882352941
+There is no difference because there is no",0.1176470588235294,0.7660177
 "and expressions like ""elite""
 and ""failure"" are born.","ｴﾘｰﾄ
 や落ちこぼれなどといった
@@ -626,7 +626,7 @@ and ""failure"" are born.","ｴﾘｰﾄ
 And falling
 Expression is born
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.68378
 "based on the value of their face and
 brain, ability and body type,","誰でも顔や頭
  
@@ -634,7 +634,7 @@ brain, ability and body type,","誰でも顔や頭
 
 ","Anyone and head
  
-Ability and body shape ➡",0.17647058823529413
+Ability and body shape ➡",0.17647058823529413,0.57885176
 "within the means of the
 elements they cannot change.","変えようのない要素
 ｡
@@ -642,7 +642,7 @@ elements they cannot change.","変えようのない要素
 
 ","Elements that can not be changed
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.7785879
 "Just like the fact that I'm from a
 branch family","俺が分家で
  
@@ -652,12 +652,12 @@ branch family","俺が分家で
 ","I am in the house
  
 you
-It is a human being",0.15789473684210525
+It is a human being",0.15789473684210525,0.13714923
 these things can't change.,"変えようがないようにね
 ｡
 
 ","Don't change
-.",0.42857142857142855
+.",0.42857142857142855,0.51951176
 "I've seen everything with
 this Byakugan.","(
 ネジ
@@ -674,14 +674,14 @@ this Byakugan.","(
 With this nostalgic
 I saw everything
 .
-➡",0.38461538461538464
+➡",0.38461538461538464,0.31505886
 That's why I understand!,"人は
  
 その中で分相応に苦しみ➡
 
 ","People
  
-Substitutes in that case",0.1
+Substitutes in that case",0.1,0.17328405
 You're just talking tough.,"だから分かる
 あなたは強がっているだけだ
 ｡
@@ -690,7 +690,7 @@ You're just talking tough.,"だから分かる
 ","So understand
 You are just strong
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.47150207
 "You're really thinking that you'd
 like to run away from this place...","本心では
  
@@ -706,7 +706,7 @@ right now
  
 From this place
 I want to escape
-.",0.17391304347826086
+.",0.17391304347826084,0.6068806
 I really...,"ち…
  
 違う！
@@ -719,25 +719,25 @@ I really...,"ち…
 different!
  
 I really want ...
-.",0.375
+.",0.375,0.15989202
 Byakugan?,"白眼？
 
-",White eyes?,0.25
+",White eyes?,0.25,0.166051
 "However, with the ability of insight alone...","しかし
  
 洞察眼の能力だけなら➡
 
 ","However
  
-If only the ability of insight eyes",0.4166666666666667
+If only the ability of insight eyes",0.4166666666666667,0.74215627
 it gets the better of Sharingan.,"写輪眼をもしのぐ代物だ
 ｡
 
 ","It is a protozoa with the eyes
-.",0.25
+.",0.25,0.08580157
 Byakugan!,"白眼！
 
-",White eyes!,0.25
+",White eyes!,0.25,0.23288177
 My eyes can't be deceived.,"(
 ネジ
 )
@@ -755,7 +755,7 @@ Unknown
 .
 
 Ah
-.",0.3
+.",0.3,0.53407604
 "Just now from my pressure,","(
 ネジ
 )
@@ -763,7 +763,7 @@ Ah
 俺のプレッシャーに対し➡
 
 ","You are now
-For my pressure",0.3333333333333333
+For my pressure",0.3333333333333333,0.7219932
 "your line of sight was pushed
 to the upper left.","視線を左上に泳がせた
 ｡
@@ -771,7 +771,7 @@ to the upper left.","視線を左上に泳がせた
 
 ","I swim at the top left of the line of sight
 .
-➡",0.375
+➡",0.375,0.45563686
 "This is the sign that you're recalling
 your past experience...","あなたのつらい過去だ
 ｡
@@ -779,7 +779,7 @@ your past experience...","あなたのつらい過去だ
 
 ","You're the past
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.50621027
 "And soon after that, your line of sight
 moved to the bottom right...","そして視線は
 そのあと
@@ -793,14 +793,14 @@ after that
  
 She immediately moved to the lower right
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.5574555
 The image of you losing!,"つまり
  
 昔の自分をイメージし➡
 
 ","in short
  
-Image of old days",0.2
+Image of old days",0.2,0.41670883
 "Even the act of propping your arms
 in front of your body...","(
 ネジ
@@ -809,11 +809,11 @@ in front of your body...","(
 その行為も➡
 
 ","It is said that arms are made before the body
-The act is also ➡",0.2
+The act is also ➡",0.2,0.47156566
 "you want to build a wall
 between us and keep distant.","俺との間に壁を作り➡
 
-",Make a wall between me,0.21428571428571427
+",Make a wall between me,0.21428571428571427,0.66420454
 "Because everything I've said
 is right on the mark, right?","俺の言ったことばが
 すべて図星だからだ
@@ -823,13 +823,13 @@ is right on the mark, right?","俺の言ったことばが
 ","The words I said
 It's because all
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.45268983
 "Laying a finger on your lips,","(
 ネジ
 )
 唇に触れたのも➡
 
-",I also touched my lips,0.09090909090909091
+",I also touched my lips,0.09090909090909093,0.5209421
 "that too, is a self-familiarizing act
 which represents a sense of panic.","心の動揺を表す
 自己親密行動の一つだ
@@ -839,7 +839,7 @@ which represents a sense of panic.","心の動揺を表す
 ","Represents the shears
 It is one of autologous intimacy behavior
 .
-➡",0.19047619047619047
+➡",0.19047619047619047,0.36442825
 "you want to alleviate the tension
 and unease.","踏み込まれたくないと
 訴えている
@@ -853,16 +853,16 @@ Sueal
  
 Gossip
 .
-➡",0.25
+➡",0.25,0.21042241
 In other words...,"つまり➡
 
-","In other words,",0.6
+","In other words,",0.6,0.809633
 "deep in your heart,
 you know it's true, don't you?","あなたは本当は
 気付いてるんじゃないのか？➡
 
 ","You are really
-Aren't you noticing?➡",0.17647058823529413
+Aren't you noticing?➡",0.17647058823529413,0.18574767
 Hinata!,"んなヤツ
  
 やってやれ
@@ -873,16 +873,16 @@ Hinata!,"んなヤツ
  
 Do
  
-Hinata!",0.4
+Hinata!",0.4,0.7054133
 "Don't just take it!
 Argue back!","絶対にできない！
 できる！
 
 ","I can not do it!
-can!",0.2727272727272727
+can!",0.2727272727272727,0.2150136
 I'm getting irritated watching this!,"見てるこっちが腹立つぞ！
 
-",I'm looking at this place!,0.4
+",I'm looking at this place!,0.4,0.31721938
 "I'm not taking responsibility
 for what happens!","棄権しないんだな？
 どうなっても知らんぞ
@@ -890,24 +890,24 @@ for what happens!","棄権しないんだな？
 
 ","Aren't you abandoned?
 I know what happens
-.",0.1875
+.",0.1875,0.32592198
 <i>I...</i>,"＜俺は逃げねえぞ＞
 
-",<I'm running away>,0.375
+",<I'm running away>,0.375,0.44543368
 <i>That's my Way of Ninja!</i>,"俺の忍道だ！＞
 
-",My noblis!>,0.25
+",My noblis!>,0.25,0.3532802
 <i>...want to run anymore!</i>,"(ﾋﾅﾀ)
 《逃げたくない！》
 
-","""I do not want to run away!""",0.3333333333333333
+","""I do not want to run away!""",0.3333333333333333,0.5804935
 Brother Neji!,"ネジ兄さん
  
 勝負です！
 
 ","Screw brother
  
-It is a match!",0.25
+It is a match!",0.25,0.3944842
 Fine...,"(
 リー
 )
@@ -917,7 +917,7 @@ Fine...,"(
 
 ","""Ah
  
-That is…""",0.0
+That is…""",0.0,0.10289555
 "Of course, the same Hyuga style...","(
 リー
 )
@@ -927,24 +927,24 @@ That is…""",0.0
 
 ","After all the same day
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.1234296
 "Her pose is very similar
 to Neji's.","いいだろう
 ｡
 
 ","It's okay
-.",0.18181818181818182
+.",0.18181818181818185,0.0114571545
 I said it before...,"(
 リー
 )
 前に言いましたよね？
 
-","You said before, right?",0.2222222222222222
+","You said before, right?",0.2222222222222222,0.60378146
 The man who is most likely,"恐らく
 木ノ葉の下忍で最も強い男は➡
 
 ","perhaps
-The strongest man in the Kino Leaves is the strongest man",0.2727272727272727
+The strongest man in the Kino Leaves is the strongest man",0.2727272727272727,0.41277477
 "That guy, Neji Hyuga.","それが
  
 あの日向ネジです
@@ -953,11 +953,11 @@ The strongest man in the Kino Leaves is the strongest man",0.2727272727272727
 ","that is
  
 That sunrise screw
-.",0.2222222222222222
+.",0.2222222222222222,0.17019267
 <i>Here!</i>,"(ﾋﾅﾀ)
 《ここ！》
 
-","""here!""",0.25
+","""here!""",0.25,0.4496737
 No... it was shallow!,"入った!?
 いや
  
@@ -968,7 +968,7 @@ No... it was shallow!,"入った!?
 Disagreeable
  
 It is shallow
-.",0.25
+.",0.25,0.50255114
 No. Even a graze works.,"いえ
  
 かすっただけで効きます
@@ -977,7 +977,7 @@ No. Even a graze works.,"いえ
 ","home
  
 It works just
-.",0.2222222222222222
+.",0.2222222222222222,0.31132397
 "is called the Hidden Leaf's
 distinguished family.","それが日向一族が
 木ノ葉名門と呼ばれるゆえん
@@ -985,20 +985,20 @@ distinguished family.","それが日向一族が
 
 ","That is the Hinata
 It is called the Kino League Memory
-.",0.2857142857142857
+.",0.2857142857142857,0.23103437
 Huh? What do you mean?,"えっ
  
 どういうこと？
 
 ","eh 
  
- What do you mean?",0.7142857142857143
+ What do you mean?",0.7142857142857143,0.7893881
 "It's not like the kind of Taijutsu that
 Lee and I are good at...","私やリーが得意とする体術
 ｡
 
 ","Someminaries that I and Lee good at
-.",0.3333333333333333
+.",0.3333333333333333,0.44630942
 "is mainly to inflict external damage
 on our enemy,","敵に骨折や外傷といった
 つまり
@@ -1008,13 +1008,13 @@ on our enemy,","敵に骨折や外傷といった
 ","Enemy was like fracture and trauma
 in short
  
-Give external damage ➡",0.15789473684210525
+Give external damage ➡",0.15789473684210525,0.58037376
 "on the Chakra Network through
 which Chakra flow through the body,","日向は敵の体内の
 チャクラの流れる➡
 
 ","Hinata is in the enemy's body
-Chakra's flowing ➡",0.1875
+Chakra's flowing ➡",0.1875,0.5921258
 "and damaging the insides,
 namely, it destroys internal organs.","つまり
  
@@ -1028,14 +1028,14 @@ namely, it destroys internal organs.","つまり
 Break the inner surface
 It is a family using a mild
 .
-➡",0.13636363636363635
+➡",0.13636363636363635,0.3278611
 It's not spectacular to watch...,"経絡系にダメージを与え
  
 内臓…➡
 
 ","Damage to your support system
  
-Visceral ... ➡",0.15384615384615385
+Visceral ... ➡",0.15384615384615385,0.007769198
 but later it slowly takes effect.,"後で
  
 じわじわと効いてくる
@@ -1044,7 +1044,7 @@ but later it slowly takes effect.,"後で
 ","later
  
 It works with
-.",0.3333333333333333
+.",0.3333333333333333,0.49445006
 "Well, you can't train the internal organs...","(ｶｶｼ)
 まっ
  
@@ -1058,30 +1058,30 @@ It works with
 Only internal organs
 It is because I can not train
 .
-➡",0.15
+➡",0.15,0.7050997
 "Even if you were really robust,","どんな頑強なヤツでも
 食らったら致命傷もんだ
 ｡
 
 ","Any robust guy
 If you eat it, fatal scratches
-.",0.2857142857142857
+.",0.2857142857142857,0.45232967
 <i>Even I can...</i>,"(ﾋﾅﾀ)
 《私だって…》
 
-","""I'm ...""",0.2
+","""I'm ...""",0.2,0.18843399
 "Way to go, Hinata!","いいぞ～！
  
 ヒナタ～！
 
 ","Good!
  
-Hinata ~!",0.25
+Hinata ~!",0.25,0.8061447
 To attack the Chakra Network...,"経絡系を攻撃だなんて…
 ｡
 
 ","It is an attack of the meridian system ...
-.",0.23076923076923078
+.",0.2307692307692308,0.4263239
 "Chakra Network, what's that?!","ん？
  
 あのさ
@@ -1092,7 +1092,7 @@ To attack the Chakra Network...,"経絡系を攻撃だなんて…
  
 That
  
-That ➡",0.2
+That ➡",0.2,0.16891158
 a question from a stupid guy.,"また出た
  
 おばかさんの質問が
@@ -1101,23 +1101,23 @@ a question from a stupid guy.,"また出た
 ","It came out again
  
 A belt's question
-.",0.25
+.",0.25,0.24707521
 I'll explain.,"僕が説明します
 ｡
 
 ","I will explain
-.",0.6
+.",0.6,0.92100817
 "In the same way that blood flows
 through vessels throughout the body,","経絡系とは
 血液を流す血管のように➡
 
 ","What is your support system
-Like blood vessels that flow blood",0.15789473684210525
+Like blood vessels that flow blood",0.15789473684210525,0.55699044
 "Like a path for Chakras, huh?","管の束のようなものです
 ｡
 
 ","It is like a bundle of tube
-.",0.14285714285714285
+.",0.14285714285714285,0.28832608
 "Furthermore, the Chakra Network
 is closely connected","(
 リー
@@ -1128,7 +1128,7 @@ is closely connected","(
 
 ","Yes
  
-Besides, the meridian system is ➡",0.23076923076923078
+Besides, the meridian system is ➡",0.2307692307692308,0.31592095
 "with the internal organs which
 enfold Chakra within the body.","体内のチャクラを練り込む内臓と
 密接に絡み合ってます
@@ -1138,13 +1138,13 @@ enfold Chakra within the body.","体内のチャクラを練り込む内臓と
 ","With the internal organs that knead the chakra in the body
 It is closely entangled
 .
-➡",0.3888888888888889
+➡",0.3888888888888889,0.81387216
 "That's why if
 the Chakra Network is attacked","だから
 その経絡系を攻撃されると➡
 
 ","that's why
-If you attack the officer system",0.38461538461538464
+If you attack the officer system",0.38461538461538464,0.37903318
 Sensei...,"痛っ！
  
 くっ…
@@ -1153,7 +1153,7 @@ Sensei...,"痛っ！
 ","ow!
  
 ...
-.",0.2
+.",0.2,0.20566143
 "But, how can they do that?","先生
  
 でも
@@ -1166,13 +1166,13 @@ Sensei...,"痛っ！
 but
 why
  
-Can you do that?",0.45454545454545453
+Can you do that?",0.4545454545454545,0.28414282
 "How do they attack the Chakra
 line inside the body?","体の中にある経絡を
 どうやって攻撃すんのよ？
 
 ","I'm in my body
-How do you attack?",0.3333333333333333
+How do you attack?",0.3333333333333333,0.52943665
 The eyes of those two...,"(ｶｶｼ)
 いや
  
@@ -1180,7 +1180,7 @@ The eyes of those two...,"(ｶｶｼ)
 
 ","Disagreeable
  
-That two eyes ➡➡",0.2222222222222222
+That two eyes ➡➡",0.2222222222222222,0.64481044
 "They can see it with
 their Byakugan.","白眼には
  
@@ -1190,7 +1190,7 @@ their Byakugan.","白眼には
 ","For the white eyes
  
 I see it
-.",0.23076923076923078
+.",0.2307692307692308,0.3202644
 "And a Gentle Fist attack is a little
 different from a regular attack.","(ｶｶｼ)
 そして柔拳の攻撃は
@@ -1201,16 +1201,16 @@ different from a regular attack.","(ｶｶｼ)
 ","And the attack of the SFI
 Slightly different from ordinary attacks
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.44917044
 They release their own Chakra,"自分のチャクラを
 手のチャクラ穴から放出して➡
 
 ","My own chakra
-Release from the hand chakra hole",0.3
+Release from the hand chakra hole",0.3,0.67868453
 "from a Chakra opening in their hand
 and screw it into their opponent's body.","相手の体内にねじ込み➡
 
-",Screw in the other party's body,0.2222222222222222
+",Screw in the other party's body,0.2222222222222222,0.4270359
 "It directly inflicts damage on
 your enemy's Chakra Network.","敵の経絡系に
 直接
@@ -1222,7 +1222,7 @@ your enemy's Chakra Network.","敵の経絡系に
 Direct
  
 Damage
-.",0.26666666666666666
+.",0.26666666666666666,0.5933454
 All right!,"よっしゃ～！
 (
 リー
@@ -1233,7 +1233,7 @@ All right!,"よっしゃ～！
 ","Yes!
 
 Ah
-.",0.16666666666666666
+.",0.16666666666666666,0.41811007
 "<i>when you want to cry,</i>
 <i>and you want to run away</i>","♬
  
@@ -1245,21 +1245,21 @@ Ah
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.39382535
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.28646752
 Amazing!,"♬
  
 この手の中には
 
 ","♬
  
-In this hand",0.0
+In this hand",0.0,0.16975138
 "She's always melancholy
 and wishy washy and...","♬
  
@@ -1271,14 +1271,14 @@ and wishy washy and...","♬
  
 Already
  
-it's fine",0.08333333333333333
+it's fine",0.08333333333333333,0.10874402
 "I thought she is kinda weird, yet...","♬
  
 光が生まれ
 
 ","♬
  
-Light is born",0.08333333333333333
+Light is born",0.08333333333333333,0.17610286
 "Even when she gets blow after blow,
 she gets back up and goes.","♬
  
@@ -1286,7 +1286,7 @@ she gets back up and goes.","♬
 
 ","♬
  
-Even if you do not see around",0.05263157894736842
+Even if you do not see around",0.05263157894736842,0.22863063
 "Now that I think about it, that girl,
 she was always watching you.","♬
  
@@ -1294,11 +1294,11 @@ she was always watching you.","♬
 
 ","♬
  
-Darkness was born",0.058823529411764705
+Darkness was born",0.05882352941176471,0.15382297
 "Next episode: ""A Failure Stands Tall!""","♬
  
 みな歌え
 
 ","♬
  
-A singing",0.08333333333333333
+A singing",0.08333333333333333,0.12254995

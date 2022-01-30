@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.69996923
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.623353
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852413
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.75999033
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372733
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.3079108
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522565
 Hey! Open up!,"(
 バキ
 )
@@ -77,14 +77,14 @@ Hey! Open up!,"(
 
 ","Oi
  
-Open!",0.4
+Open!",0.4,0.55711293
 Huh?,"(ﾄﾞｱ
 が開く音
 )
 (ﾃﾏﾘ)
 ん？
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.7790127
 What's all this noise at this hour?,"(ｶﾝｸﾛｳ)
 何だよ？
  
@@ -94,7 +94,7 @@ What's all this noise at this hour?,"(ｶﾝｸﾛｳ)
 ","What?
  
 At this time of the day
-.",0.3076923076923077
+.",0.3076923076923077,0.34810132
 "Idiots! I told you not to let
 your eyes off him, didn't I?","(
 バキ
@@ -109,14 +109,14 @@ your eyes off him, didn't I?","(
  
 From the guys
 I would say that I did not leave my eyes
-.",0.19230769230769232
+.",0.19230769230769232,0.49203715
 Where on earth did he go?,"一体
  
 どこに？
 
 ","Integral
  
-where?",0.25
+where?",0.25,0.23939922
 "<i>I hope nothing bad happens, but...</i>","(
 バキ
 )
@@ -124,7 +124,7 @@ where?",0.25
 いいんだが…》
 
 ","""If nothing happens
-Good ... """,0.21428571428571427
+Good ... """,0.21428571428571427,0.4706281
 "Wow, he's sound asleep...
 I wonder if he's dead?","(ｼｶﾏﾙ)
 こいつ
@@ -135,7 +135,7 @@ I wonder if he's dead?","(ｼｶﾏﾙ)
 ","this guy
  
 I will go to bed well
-Aren't you dead?",0.13636363636363635
+Aren't you dead?",0.13636363636363635,0.593937
 "If that's for Sasuke,
 he's not back yet.","≪
 (
@@ -149,12 +149,12 @@ he's not back yet.","≪
 
 If you are Sasuke
 I have not come back yet
-.",0.35294117647058826
+.",0.35294117647058826,0.7681494
 Hmm.,"はぁ…
 ｡
 
 ","...
-.",0.3333333333333333
+.",0.3333333333333333,0.232729
 No! This is for Lee!,"違うわよ
  
 これはリーさんの…
@@ -163,19 +163,19 @@ No! This is for Lee!,"違うわよ
 ","Different
  
 This is Lee's ...
-.",0.3
+.",0.3,0.6791922
 "The one from before should
 be wilted by now too...","前のも枯れちゃう頃だろうし
 ｡
 
 ","It will be time to die before
-.",0.11764705882352941
+.",0.1176470588235294,0.33198953
 Oh.,"(ｻｸﾗ)
 いの…
 ｡
 
 ","...
-.",0.3333333333333333
+.",0.3333333333333333,0.34276202
 <i>Lee! Stop it!</i>,"(
 看護師
 )
@@ -185,7 +185,7 @@ Oh.,"(ｻｸﾗ)
 
 ","<Lee
  
-stop it!>",0.75
+stop it!>",0.75,0.94046825
 <i>191...</i>,"(
 リー
 )
@@ -199,7 +199,7 @@ stop it!>",0.75
 191
 ...
 .
-➡",0.375
+➡",0.375,0.8947663
 I hope Lee's better.,"リーさん
  
 よくなってるといいね
@@ -208,7 +208,7 @@ I hope Lee's better.,"リーさん
 ","Lee
  
 I hope you get better
-.",0.625
+.",0.625,0.8111998
 Yeah.,"(
 いの
 )
@@ -216,7 +216,7 @@ Yeah.,"(
 ｡
 
 ","Yes
-.",0.3333333333333333
+.",0.3333333333333333,0.72263485
 What the...?,"何だ？
  
 これ
@@ -227,7 +227,7 @@ What the...?,"何だ？
  
 this
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.34817946
 W-What?,"(ﾅﾙﾄ)
 ん…
  
@@ -235,22 +235,22 @@ W-What?,"(ﾅﾙﾄ)
 
 ","Hmm…
  
-Ah?",0.25
+Ah?",0.25,0.25123283
 T-Tomorrow.,"三日…
 ｡
 
 ","three days…
-.",0.25
+.",0.25,0.3032619
 What?!,"な…
  
 何だ？
 
 ","...
  
-What?",0.5
+What?",0.5,0.79304254
 Where's Pervy Sage?!,"マジ～!?
 
-",Serious ~!?,0.25
+",Serious ~!?,0.25,0.11273597
 I don't know what's got into you.,"はぁ？
  
 何言ってんだ
@@ -269,14 +269,14 @@ you
 Suddenly
  
 Translation
-.",0.1875
+.",0.1875,0.24467492
 Huh? My clothes are missing,"あれ？
  
 俺の服がねえってばよ！
 
 ","that?
  
-My clothes are hey!",0.4444444444444444
+My clothes are hey!",0.4444444444444444,0.6651327
 "Where are they?
 Where, where?","どこ？
  
@@ -292,14 +292,14 @@ Where, where?","どこ？
  
  Where 
  
- Where?",0.4
+ Where?",0.4,0.6892304
 "- Sleeping away like you're in a coma,
 - Gone!","寝てる場合じゃねえっつうの！
 
-","If you go to bed, it's not good!",0.15
+","If you go to bed, it's not good!",0.15,0.3559411
 Settle down a little!,"ちっとは落ち着け！
 
-",Child calm!,0.14285714285714285
+",Child calm!,0.14285714285714285,0.40113062
 "if you rush around
 one day beforehand.","早く修業
  
@@ -309,7 +309,7 @@ one day beforehand.","早く修業
 ","Faster
  
 If you look at it ...
-.",0.23076923076923078
+.",0.2307692307692308,0.32205454
 "Resting is training, too, you know...","体
  
 休めんのも修業の…
@@ -318,10 +318,10 @@ If you look at it ...
 ","body
  
 Resting is also a study ...
-.",0.23076923076923078
+.",0.2307692307692308,0.6676102
 Oh yeah.,"ん？
 
-",Yeah?,0.25
+",Yeah?,0.25,0.6354694
 "I bought this fruit basket as
 a get well present for Choji.","チョウジに見舞いの
 フルーツセット買ってきたんだ
@@ -331,14 +331,14 @@ a get well present for Choji.","チョウジに見舞いの
 ","Visiting Choji
 I bought a fruit set
 .
-➡",0.375
+➡",0.375,0.78168124
 So let's eat it together.,"医者がダメだっつうからよ
 一緒に食おうぜ
 ｡
 
 ","Because the doctor is not good
 Let's eat together
-.",0.38461538461538464
+.",0.38461538461538464,0.3665309
 "Yeah well, and neither of you are the type
 to have female visitors.","ダハハハ…！
 チョウジらしいってばよ
@@ -346,12 +346,12 @@ to have female visitors.","ダハハハ…！
 
 ","Dahahaha ...!
 If you are chowed
-.",0.15
+.",0.15,0.159781
 Looks good.,"ほらよ
 ｡
 
 ","Hopefully
-.",0.25
+.",0.25,0.30159175
 W-What is it?,"チョウジ？
 あいつ
  
@@ -360,7 +360,7 @@ W-What is it?,"チョウジ？
 ","Choisu?
 that person
  
-Is it so serious?",0.3333333333333333
+Is it so serious?",0.3333333333333333,0.10928399
 "Since Choji can't have any,
 let's eat in front of him.","ムフフフ…
  
@@ -372,22 +372,22 @@ let's eat in front of him.","ムフフフ…
  
 Anyway
 Let's eat in front of the chow
-.",0.35
+.",0.35,0.44064787
 No one's here.,"誰もいない
 ｡
 
 ","Nobody is here
-.",0.2857142857142857
+.",0.2857142857142857,0.79507166
 Oh well...,"あ～…
  
 あっ！
 
 ","Oh ... ...
  
-Ah!",0.4
+Ah!",0.4,0.6070879
 Hmm?,"あれ？
 
-",that?,0.3333333333333333
+",that?,0.3333333333333333,0.50394976
 "Are you harassing me, Shikamaru?","もう…
  
 嫌がらせかよ
@@ -400,7 +400,7 @@ Hmm?,"あれ？
 Harass
  
 Shikamaru
-.",0.1
+.",0.1,0.7295919
 <i>Why...save him?</i>,"(
 我愛羅
 )
@@ -410,7 +410,7 @@ Shikamaru
 
 ","<Why
  
-help?>",0.4
+help?>",0.4,0.4410802
 "<i>He's an important subordinate</i>
 <i>whom I care for.</i>","(
 ガイ
@@ -423,7 +423,7 @@ help?>",0.4
 ","<This guy
 My love
  
-It is an important part>",0.21052631578947367
+It is an important part>",0.21052631578947367,0.4501319
 My body... isn't moving.,"(
 我愛羅
 )
@@ -433,10 +433,10 @@ My body... isn't moving.,"(
 
 ","""Body is…
  
-Is not moving?""",0.25
+Is not moving?""",0.25,0.6319138
 You jerk!,"がはっ！
 
-",!,0.3333333333333333
+",!,0.3333333333333333,0.37253457
 Hey Naruto...,"おい
  
 ナルト
@@ -447,7 +447,7 @@ Hey Naruto...,"おい
  
 Naruto
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.7675012
 Sorry! Shikamaru.,"悪ぃ
  
 シカマル
@@ -456,7 +456,7 @@ Sorry! Shikamaru.,"悪ぃ
 ","Evil
  
 Shikamaru
-.",0.4
+.",0.4,0.6837461
 "What the hell were you
 trying to do?","てめぇ
  
@@ -464,7 +464,7 @@ trying to do?","てめぇ
 
 ","You
  
-What's going?",0.2727272727272727
+What's going?",0.2727272727272727,0.2575885
 "<i>All right! The age of</i>
 <i>the chubby has arrived!</i>","(ﾁｮｳｼﾞ)
 《ヒヒヒヒ…
@@ -475,24 +475,24 @@ What's going?",0.2727272727272727
 ","""Hihihihi ...
 Pochari's age
  
-Arrival!""",0.1
+Arrival!""",0.1,0.3847292
 "What were you trying to do
 to Bushy Brow here?!","てめぇ！
 ゲジマユに何しようとした!?
 
 ","You!
-What to do in Gejima!?",0.46153846153846156
+What to do in Gejima!?",0.4615384615384616,0.17345567
 I was trying to kill him.,"殺そうとした
 ｡
 
 ","Trying to kill
-.",0.5714285714285714
+.",0.5714285714285714,0.70243406
 <i>How can he be so calm?</i>,"(ｼｶﾏﾙ)
 《どうして
 こんなに冷静でいられる？➡
 
 ","""why
-Can you be so calm?➡",0.3333333333333333
+Can you be so calm?➡",0.3333333333333333,0.6986493
 "Why'd you have to do something
 like that?","何で
  
@@ -500,19 +500,19 @@ like that?","何で
 
 ","why
  
-Need to do something?",0.45454545454545453
+Need to do something?",0.4545454545454545,0.59006196
 "I just wanted to kill him, that's it.","ただ俺が殺しておきたいから
 殺すだけだ
 ｡
 
 ","Because I want to kill me
 Just kill
-.",0.35714285714285715
+.",0.35714285714285715,0.59859294
 All you care about is yourself.,"そんなものはない
 ｡
 
 ","There is no such thing
-.",0.18181818181818182
+.",0.18181818181818185,0.16166556
 "<i>Or there's something weird about him.</i>
 <i>It gives me the chills!</i>","何
  
@@ -522,7 +522,7 @@ All you care about is yourself.,"そんなものはない
 ","what
  
 I'm telling me
-I'm sorry!",0.14285714285714285
+I'm sorry!",0.14285714285714285,0.15515009
 "<i>If he tries anything, it'll be too much</i>
 <i>of a burden for me and Naruto...</i>","俺とナルトじゃ
  
@@ -534,7 +534,7 @@ I'm sorry!",0.14285714285714285
  
 It is heavy
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.5872892
 "If you get in my way,
 I'll kill you both too.","俺の邪魔をすれば
  
@@ -544,7 +544,7 @@ I'll kill you both too.","俺の邪魔をすれば
 ","If you get in the way
  
 I also kill you
-.",0.5333333333333333
+.",0.5333333333333333,0.7968139
 "What?! Go ahead, if you can!","何だと？
 やれるもんなら
  
@@ -553,7 +553,7 @@ I also kill you
 ","What did you say?
 If you can do it
  
-Let's try it!",0.375
+Let's try it!",0.375,0.458604
 "Hey Naruto, hold on!","おい
  
 よせ
@@ -564,7 +564,7 @@ Let's try it!",0.375
  
 Good
  
-Naruto!",0.25
+Naruto!",0.25,0.776051
 <i>Should I try to scare him with a bluff?</i>,"(ｼｶﾏﾙ)
 《はったりで
  
@@ -572,7 +572,7 @@ Naruto!",0.25
 
 ","""Well
  
-Do you try to come back?",0.15789473684210525
+Do you try to come back?",0.15789473684210525,0.14864416
 "I know you're strong from seeing you
 in the competition with him...","お前が強いのは
 そいつとの試合で分かってる
@@ -580,13 +580,13 @@ in the competition with him...","お前が強いのは
 
 ","You are strong
 I know in the game with that
-.",0.4117647058823529
+.",0.4117647058823529,0.58579606
 "I'll say it again...
 if you get in my way...","邪魔をすれば殺す
 ｡
 
 ","Kill if you get in the way
-.",0.3333333333333333
+.",0.3333333333333333,0.4216362
 "There's no way in hell
 I'll let you do that!","フン！
  
@@ -600,19 +600,19 @@ I'll let you do that!","フン！
 You
 I am
  
-I can not do it!",0.2222222222222222
+I can not do it!",0.2222222222222222,0.5173484
 "This guy has the strength of a monster.
 You get it, don't you?","こいつは化け物並みの強さだぞ
 分かってんだろ！
 
 ","This guy is the strength of
-I understand!",0.25
+I understand!",0.25,0.5527774
 "I have a real monster in me!
 I'm not going to lose to this guy!","こんなヤツには負けねえ
 ｡
 
 ","I can not lose to such a guy
-.",0.3333333333333333
+.",0.3333333333333333,0.5057732
 "I heard Naruto was here too,
 so I came to see, but...","ナルトもいるっていうから
 来てみたけど…
@@ -620,7 +620,7 @@ so I came to see, but...","ナルトもいるっていうから
 
 ","Because there is Naruto
 I came, but ...
-.",0.35294117647058826
+.",0.35294117647058826,0.7145047
 "What's worth making him mad,
 you idiot!","(ｼｶﾏﾙ)
 相手を逆なでして
@@ -631,18 +631,18 @@ you idiot!","(ｼｶﾏﾙ)
 ","The opponent is opposite
 How are you
  
-Ah!",0.11764705882352941
+Ah!",0.1176470588235294,0.17516817
 "A monster, huh...?","(
 物音
 )
 ん？
 
-",Yeah?,0.14285714285714285
+",Yeah?,0.14285714285714285,0.21191551
 "Me too, actually.","それならば俺もそうだ
 ｡
 
 ","If so, I'm too
-.",0.3333333333333333
+.",0.3333333333333333,0.46866333
 "It's just like you said.
 I had a terrible upbringing.","俺は
  
@@ -650,7 +650,7 @@ I had a terrible upbringing.","俺は
 
 ","I am
  
-As you said",0.21428571428571427
+As you said",0.21428571428571427,0.3248879
 "I took the life of the woman
 some might call my mother.","俺は母と呼ぶべき女の命を奪い
 生まれ落ちた
@@ -660,30 +660,30 @@ some might call my mother.","俺は母と呼ぶべき女の命を奪い
 ","I took the life of a woman who should call me a mother
 Born and fell
 .
-➡",0.45
+➡",0.45,0.77199024
 "my father brought his
 Ninjutsu upon me,","最強の忍となるべく
 父親の忍術で➡
 
 ","As a strongest Shinobu
-Father's ninjutsu",0.15384615384615385
+Father's ninjutsu",0.15384615384615385,0.6948124
 I was born a monster.,"俺は生まれながらの化け物だ
 ｡
 
 ","I am a born
-.",0.5714285714285714
+.",0.5714285714285714,0.6151238
 "It's called Shukaku, the living wraith of
 an old monk","砂隠れの老僧の生き霊だ
 ｡
 
 ","It is a survival spirit of a seder's old monk
-.",0.2777777777777778
+.",0.2777777777777778,0.46895948
 "from Village Hidden in the Sand
 who was sealed inside the tea caldron.","守鶴と呼ばれ
 茶釜の中に封印されていた➡
 
 ","Called as Morinaki
-It was sealed in the tea pot",0.2777777777777778
+It was sealed in the tea pot",0.2777777777777778,0.53444034
 "To go that far...
 they must have been totally nuts.","そこまでするとは
 いっちまってんな
@@ -691,7 +691,7 @@ they must have been totally nuts.","そこまでするとは
 
 ","To go there
 I'm sorry
-.",0.1875
+.",0.1875,0.25672448
 "<i>Is it possible...that there could be</i>
 <i>something inside him too?</i>","何かが
  
@@ -699,7 +699,7 @@ I'm sorry
 
 ","Something
  
-Is it?""",0.2222222222222222
+Is it?""",0.2222222222222222,0.21375726
 "What a thing for a parent to be doing!
 Such a twisted kind of love.","ヘッ
  
@@ -711,12 +711,12 @@ Such a twisted kind of love.","ヘッ
  
 It's about parents
 It is a loving love
-.",0.13636363636363635
+.",0.13636363636363635,0.5628048
 Don't measure me by your standards.,"お前たちの物差しで俺をはかるな
 ｡
 
 ","Don't get me with your own objects
-.",0.4166666666666667
+.",0.4166666666666667,0.3568688
 "Let me tell you what kind of ties
 I have to my family.","どんなつながりであったか
 教えてやろう
@@ -724,7 +724,7 @@ I have to my family.","どんなつながりであったか
 
 ","What kind of connection was
 Tell me
-.",0.375
+.",0.375,0.32846814
 My family's just lumps of flesh.,"(
 我愛羅
 )
@@ -734,10 +734,10 @@ My family's just lumps of flesh.,"(
 
 ","family
  
-That's for me",0.18181818181818182
+That's for me",0.18181818181818185,0.5329021
 "Nourished with the life of my mother,","俺は母親の命を糧として➡
 
-",I will use my mother's life,0.25
+",I will use my mother's life,0.25,0.50714606
 "I was crafted as the
 ultimate masterpiece of the village...","里の最高傑作として
 つくり出された
@@ -745,18 +745,18 @@ ultimate masterpiece of the village...","里の最高傑作として
 
 ","As a masterpiece of the village
 Created
-.",0.38461538461538464
+.",0.38461538461538464,0.7631895
 "I was taught by my father
 the innermost secrets of the Shinobi...","父親に忍の極意を
 次々に教えられ➡
 
 ","My father to the secret of Shinobu
-Teached one after another ➡",0.2
+Teached one after another ➡",0.2,0.8178134
 And I thought that was love...,"それが愛情だと思ってた
 ｡
 
 ","I thought it was love
-.",0.4444444444444444
+.",0.4444444444444444,0.811232
 Until that incident happened.,"(
 我愛羅
 )
@@ -764,30 +764,30 @@ Until that incident happened.,"(
 ｡
 
 ","It is not until that event occurs
-.",0.3
+.",0.3,0.37809396
 That incident...?!,"あの出来事？
 
-",That event?,0.3333333333333333
+",That event?,0.3333333333333333,0.41297927
 What are you talking about?,"一体
  
 何なんだってばよ？
 
 ","Integral
  
-What do you do?",0.375
+What do you do?",0.375,0.037559666
 Just what happened?!,"一体
  
 何があったんだってばよ!?
 
 ","Integral
  
-What happened?",0.5
+What happened?",0.5,0.2884901
 "In the six years since the time
 when I was 6 years old...","俺は６歳の頃から
 これまでの６年間➡
 
 ","I'm 6 years old
-Six years so far",0.3333333333333333
+Six years so far",0.3333333333333333,0.73446035
 "My real father has tried to assassinate me
 more times than I can count!","実の父に幾度となく
 暗殺されかけた
@@ -795,7 +795,7 @@ more times than I can count!","実の父に幾度となく
 
 ","Real father
 I was killed
-.",0.16666666666666666
+.",0.16666666666666666,0.6307311
 "Those who are too strong are
 apt to become feared.","(
 我愛羅
@@ -808,7 +808,7 @@ apt to become feared.","(
 ","The existence is too strong
 It will be the existence of fear
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.6000755
 "Born through the Jutsu,
 my mind was unstable...","術によって生まれた俺の精神は
 不安定
@@ -818,14 +818,14 @@ my mind was unstable...","術によって生まれた俺の精神は
 ","My spirit was born by the art
 unstable
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.46430045
 "For my father, Kazekage","風影である父親にとって➡
 
-",For father who is the wind shadow,0.2
+",For father who is the wind shadow,0.2,0.36077663
 "I was also a dangerous,
 fearsome presence.","俺は里の切り札でもあったが➡
 
-","I was also a trump card of the village, but",0.3333333333333333
+","I was also a trump card of the village, but",0.3333333333333333,0.35114446
 "It seems I was labeled a dangerous figure
 as soon as I turned six.","里の危ない道具として
  
@@ -839,7 +839,7 @@ as soon as I turned six.","里の危ない道具として
 politely
 It seems to be treated
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.26712227
 "To them, now I'm just a relic of the past
 that they want to see disappear.","ヤツらにとって
 今では消し去りたい過去の遺物だ
@@ -847,7 +847,7 @@ that they want to see disappear.","ヤツらにとって
 
 ","For guys
 Now it's a past relics you want to erase
-.",0.24
+.",0.24,0.50899667
 "When I asked myself that,
 I couldn't find the answer.","そう考えた時
 答えは見つからなかった
@@ -857,13 +857,13 @@ I couldn't find the answer.","そう考えた時
 ","When I think so
 I could not find the answer
 .
-➡",0.4375
+➡",0.4375,0.5236775
 "If you don't have one,
 it's just the same as being dead.","でなければ死んでいるのと同じだ
 ｡
 
 ","It is the same as dead if it is not
-.",0.3888888888888889
+.",0.3888888888888889,0.637812
 What's this guy saying?,"何言ってんだ？
  
 こいつ
@@ -872,10 +872,10 @@ What's this guy saying?,"何言ってんだ？
 ","What are you saying?
  
 this guy
-.",0.5555555555555556
+.",0.5555555555555556,0.55095375
 <i>He...is the same as me.</i>,"こいつも 俺と同じだ》
 
-","This always is the same as me """,0.26666666666666666
+","This always is the same as me """,0.26666666666666666,0.5867244
 "I am living in order to kill
 human beings other than myself.","俺は俺以外の人間を
 殺すために存在している
@@ -883,22 +883,22 @@ human beings other than myself.","俺は俺以外の人間を
 
 ","I am a person other than me
 It exists to kill
-.",0.3888888888888889
+.",0.3888888888888889,0.74185556
 "After living in the fear of never knowing
 when I might be murdered,","いつ暗殺されるかも分からぬ
 死の恐怖の中で➡
 
 ","I do not know when to assassinate
-In the fear of death",0.3
+In the fear of death",0.3,0.6286627
 finally I became calm.,"ようやく安どした
 ｡
 
 ","Finally cheap
-.",0.3333333333333333
+.",0.3333333333333333,0.2413507
 "By killing assassins, I finally
 comprehended the reason why I live...","暗殺者を殺し続けることで➡
 
-",By keeping killing the assassin ➡,0.2
+",By keeping killing the assassin ➡,0.2,0.624672
 "I live fighting for only myself
 and loving myself...","自分のためにだけ戦い
 自分を愛して生きる
@@ -906,7 +906,7 @@ and loving myself...","自分のためにだけ戦い
 
 ","Only for yourself
 Love yourself and live
-.",0.3333333333333333
+.",0.3333333333333333,0.6076714
 "there could be no world
 more wonderful.","存在していると思えば
  
@@ -920,13 +920,13 @@ more wonderful.","存在していると思えば
 This much
 There is no wonderful world
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.74124396
 "And as long as there are
 others to kill","殺すべき他者が
 存在し続けるかぎり➡
 
 ","Other people who should kill
-As long as it continues to exist",0.26666666666666666
+As long as it continues to exist",0.26666666666666666,0.7414374
 "who can make me feel
 this happiness to be alive,","他人は
  
@@ -936,19 +936,19 @@ this happiness to be alive,","他人は
 ","Others
  
 all
-To make it feel like it",0.2
+To make it feel like it",0.2,0.32478443
 I will never disappear.,"俺の存在は消えない
 ｡
 
 ","My existence does not disappear
-.",0.2222222222222222
+.",0.2222222222222222,0.60885704
 <i>I was also alone...</i>,"《俺も独りぼっちだった
 ｡
 ➡
 
 ","""I was alone
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.7614784
 "<i>And suffered 'cause</i>
 <i>I didn't know why I was alive...</i>","生きてる理由が分からなくて
 苦しくて
@@ -958,7 +958,7 @@ I will never disappear.,"俺の存在は消えない
 ","I do not know why I live
 Bitter
 .
-➡",0.15
+➡",0.15,0.35142797
 "<i>and that was the first time</i>
 <i>I realized why I lived...</i>","生きてることを
 初めて実感できたんだってばよ
@@ -968,7 +968,7 @@ Bitter
 ","What I live
 It's just that I realized for the first time
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.6378541
 "<i>But this guy...</i>
 <i>this guy grew up alone.</i>","なのに
  
@@ -976,11 +976,11 @@ It's just that I realized for the first time
 
 ","Nevertheless
  
-This guy",0.16666666666666666
+This guy",0.16666666666666666,0.38781172
 "<i>There's no way...</i>
 <i>that I can beat a guy like this!</i>","《こんなヤツに勝てるわけねえ》
 
-","""I can win such a guy""",0.19047619047619047
+","""I can win such a guy""",0.19047619047619047,0.4204991
 "W-What's wrong, Naruto?","ど…
  
 どうした？
@@ -993,7 +993,7 @@ This guy",0.16666666666666666
 What happened?
  
 Naruto
-.",0.2
+.",0.2,0.63703406
 "<i>What? Shadow Possession Jutsu should</i>
 <i>have stopped him from moving, but...</i>","(ｼｶﾏﾙ)
 《何？
@@ -1002,10 +1002,10 @@ Naruto
 
 ","""what?
  
-In the art of shadow equations",0.125
+In the art of shadow equations",0.125,0.35480568
 "Naruto! Hey, get yourself together!","ナルト！
 
-",Naruto!,0.2857142857142857
+",Naruto!,0.2857142857142857,0.8638216
 "Now, let me feel it...!","(
 我愛羅
 )
@@ -1017,10 +1017,10 @@ In the art of shadow equations",0.125
 ","In
  
 Let me feel
-.",0.3
+.",0.3,0.57098776
 Oh no!,"ダメか！
 
-",no good!,0.5
+",no good!,0.5,0.41934457
 "Or do you just want to
 stay here starting today?","それとも
  
@@ -1030,13 +1030,13 @@ stay here starting today?","それとも
 ","Or
  
 from today
-Do you stay here?",0.5833333333333334
+Do you stay here?",0.5833333333333334,0.7707095
 <i>Don't leave me alone!</i>,"(
 我愛羅
 )
 《１人にしないで》
 
-","""Don't make it one person""",0.125
+","""Don't make it one person""",0.125,0.31419456
 "<i>I'm not bleeding, but</i>
 <i>it hurts a lot right here.</i>","(
 我愛羅
@@ -1049,7 +1049,7 @@ Do you stay here?",0.5833333333333334
 ","<Blood does not come out
 Here
  
-It hurts so much>",0.22727272727272727
+It hurts so much>",0.2272727272727273,0.70858103
 <i>What...am I?!</i>,"(
 我愛羅
 )
@@ -1059,7 +1059,7 @@ It hurts so much>",0.22727272727272727
 
 ","""I
  
-what's that?""",0.23076923076923078
+what's that?""",0.2307692307692308,0.32213214
 I will... kill you all without a fail.,"お前たちは必ず
  
 俺が殺す
@@ -1070,12 +1070,12 @@ I will... kill you all without a fail.,"お前たちは必ず
  
 I kill
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.5760562
 Just wait.,"待っていろ
 ｡
 
 ","Wait
-.",0.6666666666666666
+.",0.6666666666666666,0.6025611
 "Darn it!
 Hurry! Hurry! Hurry!","♬
  
@@ -1087,7 +1087,7 @@ Hurry! Hurry! Hurry!","♬
  
 Look up
  
-It stands up",0.125
+It stands up",0.125,0.12571521
 "I can't trust your ""ace"" route at all!","♬
  
 お手を拝借
@@ -1100,4 +1100,4 @@ It stands up",0.125
 Bearing your hands
 Japanese
 ·
-Pepo",0.05555555555555555
+Pepo",0.05555555555555555,0.013207079

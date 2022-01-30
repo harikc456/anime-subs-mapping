@@ -1,42 +1,42 @@
-en_text,jp_text,google_translated,score
-I have to go back...,俺…戻るわ｡,I ... back.,0.42857142857142855
-We move together.,全員で 先へ進もう！,Go ahead with everyone!,0.0
-And we're off!,出発だ！,I'm departure!,0.125
-I also have a little brother.,俺にも１人弟がいる｡➡,I have a brother with a brother.,0.625
-We haven't spoken in two years.,話すのは２年ぶりになる｡➡,Talking is for the first time in two years.,0.2857142857142857
-but we may be wasting our time. my brother probably won't even call me.,電話をかけてこねえと思う｡,I think I call me.,0.16666666666666666
-Did you forget? About the snake?,忘れたのか？ヘビの時だ｡,Have you forgotten?It is time for snake.,0.21428571428571427
-My brother called.,間違いなく弟だ｡,Definitely my brother.,0.6
-That's great news.,よかったじゃねえか｡,It was good?,0.0
-"It was a call from Kazuya, right?",着信 カズヤからなんだろ？,What is your incoming call Kazuya?,0.23076923076923078
-"In my mind,",理想だよ…俺にとって南波兄弟は｡,Ideal ... for me southwood brothers.,0.0
-"When I punched Hibito,",日々人を殴った時…｡,When I hit a person every day ....,0.16666666666666666
-Maybe it's because we felt each other's pain.,お互いの痛みを知ったせいかね｡,I wonder if I knew each other's pain.,0.35714285714285715
-I didn't punch him back...,あの時 殴らなかった…》,At that time I did not hit ...,0.25
-To my own little brother.,俺は自分の弟に…➡,I'm my brother ... ➡,0.2
-That was worse,殴るより…ひどい事をした…》,Rather than beat ... I did a terrible thing ...,0.0
-"Since you told me how you feel, I'll do the same.",お互い様だから言わせてもらうぞ,I'll let you say it because it is each other,0.15
-"If you're watching this,",もし これを見ている人の中に➡,Among those who are looking at this,0.08333333333333333
-They just keep coming! this is amazing...,おお～っ すっげ～！わ～っ‼➡,Oh ~ ~!Wow!➡,0.07692307692307693
-You can wish as much as you want.,願い かけ放題だよ！,It is unlimited for wishes!,0.0
-They're living stones.,生きた石コロだよ！,It is a living stone cro!,0.09090909090909091
-"Yeah, we can finally get some rest.",ああ｡やっと休めるな｡,Oh. Do not rest.,0.16666666666666666
-"No idea, but...",わかんねえけど そうだな…｡➡,I'm sorry I'm sorry ....,0.1111111111111111
-I thought maybe living in another country might help him.,ダメもとだが 異国の生活が➡,"It is no good, but the life of foreign countries is ➡",0.0
-but you really care about your little brother.,なんて弟思いなんだ｡➡,What a younger brother.,0.16666666666666666
-"Welcome back, guys!",お帰り～！２人とも｡,Return!Both of them.,0.1
-We're back!,た～いま！,Now!,0.2
-That was brave of him.,＜大した勇気だと思う｡➡,<I think it's a big courage.,0.07142857142857142
-"No, I should apologize.",いや 俺の方が悪かったよ｡,"No, I was bad.",0.5
-it was clear that Amanti's fortunes are accurate!,アマンティの占いは当たる！》,"Amanti's fortune telling!""",0.23076923076923078
-...will definitely happen!,《必ず訪れる！》,"""Be sure to visit!""",0.09090909090909091
-"Man, it's cold.",う～さび～！,Wow ~ ~!,0.0
-What is?,何が？,what?,0.6666666666666666
-It's those...,[PC]⦅それこそが…⦆,[PC] ⦅It is the only thing ...⦆,0.07692307692307693
-It's those feelings,[PC]⦅それこそが➡,[PC] ⦅⦅⦅➡ ➡,0.0
-It's important to act.,[PC]⦅大事なのは…動く事➡,[PC] ⦅⦅... ... Motion ➡,0.0
-"When a stone is constantly moving,",動いて動いて動く石は➡,Moving and moving rocks,0.1111111111111111
-Oh! Here they come!,あっ来ましたよ！ほら～｡,It came!.,0.125
-Nitta wasn't able to talk to his brother during our survival training.,＜結局 このサバイバル訓練の,<After all this survival training,0.11764705882352941
-This is amazing.,こりゃすげえ｡,I'm sorry.,0.14285714285714285
-"Once dawn breaks, it'll be the last day.",＜夜が明けたら いよいよ最終日＞,<Finally the night is finally last day>,0.1875
+en_text,jp_text,google_translated,score,semantic_score
+I have to go back...,俺…戻るわ｡,I ... back.,0.42857142857142855,0.64985305
+We move together.,全員で 先へ進もう！,Go ahead with everyone!,0.0,0.28271538
+And we're off!,出発だ！,I'm departure!,0.125,0.4923821
+I also have a little brother.,俺にも１人弟がいる｡➡,I have a brother with a brother.,0.625,0.7992638
+We haven't spoken in two years.,話すのは２年ぶりになる｡➡,Talking is for the first time in two years.,0.2857142857142857,0.6480982
+but we may be wasting our time. my brother probably won't even call me.,電話をかけてこねえと思う｡,I think I call me.,0.16666666666666666,0.3266567
+Did you forget? About the snake?,忘れたのか？ヘビの時だ｡,Have you forgotten?It is time for snake.,0.21428571428571427,0.7961411
+My brother called.,間違いなく弟だ｡,Definitely my brother.,0.6,0.65641224
+That's great news.,よかったじゃねえか｡,It was good?,0.0,0.16228122
+"It was a call from Kazuya, right?",着信 カズヤからなんだろ？,What is your incoming call Kazuya?,0.2307692307692308,0.7328428
+"In my mind,",理想だよ…俺にとって南波兄弟は｡,Ideal ... for me southwood brothers.,0.0,0.20496836
+"When I punched Hibito,",日々人を殴った時…｡,When I hit a person every day ....,0.16666666666666666,0.46903363
+Maybe it's because we felt each other's pain.,お互いの痛みを知ったせいかね｡,I wonder if I knew each other's pain.,0.35714285714285715,0.6748091
+I didn't punch him back...,あの時 殴らなかった…》,At that time I did not hit ...,0.25,0.49072266
+To my own little brother.,俺は自分の弟に…➡,I'm my brother ... ➡,0.2,0.5369289
+That was worse,殴るより…ひどい事をした…》,Rather than beat ... I did a terrible thing ...,0.0,0.3577633
+"Since you told me how you feel, I'll do the same.",お互い様だから言わせてもらうぞ,I'll let you say it because it is each other,0.15,0.315101
+"If you're watching this,",もし これを見ている人の中に➡,Among those who are looking at this,0.08333333333333333,0.38756767
+They just keep coming! this is amazing...,おお～っ すっげ～！わ～っ‼➡,Oh ~ ~!Wow!➡,0.07692307692307693,0.22732745
+You can wish as much as you want.,願い かけ放題だよ！,It is unlimited for wishes!,0.0,0.66992116
+They're living stones.,生きた石コロだよ！,It is a living stone cro!,0.09090909090909093,0.64799255
+"Yeah, we can finally get some rest.",ああ｡やっと休めるな｡,Oh. Do not rest.,0.16666666666666666,0.49008042
+"No idea, but...",わかんねえけど そうだな…｡➡,I'm sorry I'm sorry ....,0.1111111111111111,0.24533921
+I thought maybe living in another country might help him.,ダメもとだが 異国の生活が➡,"It is no good, but the life of foreign countries is ➡",0.0,0.24894866
+but you really care about your little brother.,なんて弟思いなんだ｡➡,What a younger brother.,0.16666666666666666,0.5472362
+"Welcome back, guys!",お帰り～！２人とも｡,Return!Both of them.,0.1,0.45239958
+We're back!,た～いま！,Now!,0.2,0.4700415
+That was brave of him.,＜大した勇気だと思う｡➡,<I think it's a big courage.,0.07142857142857142,0.40059528
+"No, I should apologize.",いや 俺の方が悪かったよ｡,"No, I was bad.",0.5,0.52151513
+it was clear that Amanti's fortunes are accurate!,アマンティの占いは当たる！》,"Amanti's fortune telling!""",0.2307692307692308,0.8345473
+...will definitely happen!,《必ず訪れる！》,"""Be sure to visit!""",0.09090909090909093,0.24093218
+"Man, it's cold.",う～さび～！,Wow ~ ~!,0.0,0.08478968
+What is?,何が？,what?,0.6666666666666666,0.4360184
+It's those...,[PC]⦅それこそが…⦆,[PC] ⦅It is the only thing ...⦆,0.07692307692307693,0.18683772
+It's those feelings,[PC]⦅それこそが➡,[PC] ⦅⦅⦅➡ ➡,0.0,0.13699958
+It's important to act.,[PC]⦅大事なのは…動く事➡,[PC] ⦅⦅... ... Motion ➡,0.0,0.11675651
+"When a stone is constantly moving,",動いて動いて動く石は➡,Moving and moving rocks,0.1111111111111111,0.63493866
+Oh! Here they come!,あっ来ましたよ！ほら～｡,It came!.,0.125,0.50281185
+Nitta wasn't able to talk to his brother during our survival training.,＜結局 このサバイバル訓練の,<After all this survival training,0.1176470588235294,0.2575674
+This is amazing.,こりゃすげえ｡,I'm sorry.,0.14285714285714285,0.27460593
+"Once dawn breaks, it'll be the last day.",＜夜が明けたら いよいよ最終日＞,<Finally the night is finally last day>,0.1875,0.6263151

@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.69996905
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.62335306
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852413
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.75999033
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372733
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.30791065
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.4552255
 "<i>His opponent is that Neji, huh...?</i>","(ｲﾙｶ)
 《相手は
  
@@ -79,14 +79,14 @@ Even if it is lost",0.29411764705882354
  
 Is that screw?
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.47589767
 "<i>After all, Naruto may not be able to...</i>","やはり
  
 ナルトには…》
 
 ","also
  
-Naruto ... """,0.125
+Naruto ... """,0.125,0.6387892
 "Entertain me a little, Naruto.","(ｶﾌﾞﾄ)
 少しは楽しませてくれよ
 ナルト君
@@ -96,7 +96,7 @@ Naruto ... """,0.125
 ","Let me enjoy a little
 Naruto
 .
-➡",0.5
+➡",0.5,0.83525795
 "I've got a tough job waiting
 for me now, so...","僕には
  
@@ -112,7 +112,7 @@ from now
  
 Kitsu
 I'm waiting for your work
-.",0.25
+.",0.25,0.3965977
 Dang it. I can't catch him at all.,"くそ
  
 全然
@@ -125,7 +125,7 @@ Dang it. I can't catch him at all.,"くそ
 at all
  
 I can't get caught
-.",0.46153846153846156
+.",0.4615384615384616,0.42674056
 "I told you I'm not
 such a fool, didn't I?","(
 ネジ
@@ -138,7 +138,7 @@ such a fool, didn't I?","(
 ","me too
  
 I'm not so stupid
-Did you say?",0.35294117647058826
+Did you say?",0.35294117647058826,0.48231345
 "That is the body
 that has least attacks","攻撃回数が最も少ない１体
 ｡
@@ -146,16 +146,16 @@ that has least attacks","攻撃回数が最も少ない１体
 
 ","1 body with the least number of attacks
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.72109514
 "The more you attack,","お前が攻撃すればするほど➡
 
-",The more you attack,0.8
+",The more you attack,0.8,0.9701785
 "the more that one body
 becomes clearly evident.","その１体が明白になる
 ｡
 
 ","One of them becomes obvious
-.",0.25
+.",0.25,0.5310716
 You're the real one.,"本体は
  
 お前だ
@@ -164,7 +164,7 @@ You're the real one.,"本体は
 ","Of the main unit
  
 You are
-.",0.3
+.",0.3,0.17061046
 This is as far as it goes.,"(ﾋﾅﾀ)
 ナルト君
 ｡
@@ -176,7 +176,7 @@ This is as far as it goes.,"(ﾋﾅﾀ)
 .
 
 So far
-.",0.2222222222222222
+.",0.2222222222222222,0.2672342
 I said it was pointless.,"(
 ネジ
 )
@@ -188,7 +188,7 @@ I said it was pointless.,"(
 ","that's why
  
 I said that it was
-.",0.5555555555555556
+.",0.5555555555555556,0.3874472
 "I've been telling you not
 to frivolously assume things.","勝手に決めんなって
 言ってんだろうが
@@ -196,7 +196,7 @@ to frivolously assume things.","勝手に決めんなって
 
 ","I decided not to
 I would say
-.",0.2857142857142857
+.",0.2857142857142857,0.36051944
 What?,"ん？
  
 あっ
@@ -205,25 +205,25 @@ What?,"ん？
 ","Yeah?
  
 Ah
-.",0.2
+.",0.2,0.2609283
 Naruto!,"ナルト君！
 
-",Naruto!,1.0
+",Naruto!,1.0,0.99999994
 "I've been striking from the beginning,
 prepared for an honorable death!","分身の１体に
 わざと引かせていただと!?》
 
 ","To one of the divergies
-I was pulled for work!?",0.18181818181818182
+I was pulled for work!?",0.18181818181818185,0.12821871
 Did you think you'd won?,"勝ったと思ったか？
 
-",Did you won?,0.6666666666666666
+",Did you won?,0.6666666666666666,0.77757305
 Why?,"(
 いの
 )
 何で？
 
-",why?,1.0
+",why?,1.0,0.9999997
 Naruto's punch should've hit.,"(ｻｸﾗ)
 ナルトのパンチは
 当たったはずよ
@@ -231,26 +231,26 @@ Naruto's punch should've hit.,"(ｻｸﾗ)
 
 ","Naruto punch
 Should I hit it
-.",0.5555555555555556
+.",0.5555555555555556,0.86737853
 That...,"あれは…
 ｡
 
 ","That is…
-.",0.25
+.",0.25,0.5708198
 Rotation...,"回天…
 ｡
 
 ","Time ...
-.",0.25
+.",0.25,0.2809677
 <i>That's Neji's defense.</i>,"(ﾃﾝﾃﾝ)
 《あれがネジの防御よ》
 
-","""That's a screw defense""",0.15384615384615385
+","""That's a screw defense""",0.15384615384615385,0.39377168
 "The largest range of vision of
 Neji's Byakugan is nearly 360 degrees.","(ﾃﾝﾃﾝ)
 《ネジの白眼の最大視界は➡
 
-","""The largest view of the screws of the screw",0.17647058823529413
+","""The largest view of the screws of the screw",0.17647058823529413,0.27760103
 "And he detects all of his opponent's
 attacks with the Byakugan.","そして
  
@@ -260,7 +260,7 @@ attacks with the Byakugan.","そして
 ","and
  
 With its nostalgic
-All the opponent's attacks """,0.29411764705882354
+All the opponent's attacks """,0.29411764705882354,0.5004613
 "from the Chakra holes in the body,
 blocks the enemy's attack with that Chakra,","体中のチャクラ穴から
 チャクラを大量放出
@@ -270,13 +270,13 @@ blocks the enemy's attack with that Chakra,","体中のチャクラ穴から
 ","From chakra holes in the body
 Large amount of chakra
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.65807676
 "moves his own body in a circular motion,
 dodges and repels.","自分の体を
 コマのように円運動させ➡
 
 ","My body
-Circular exercise like a piece ➡",0.16666666666666666
+Circular exercise like a piece ➡",0.16666666666666666,0.32646027
 "To the extent that even Jonin utilize
 the discharge from a part of the body,","体の一部からの放出を
 技に利用する程度
@@ -286,7 +286,7 @@ the discharge from a part of the body,","体の一部からの放出を
 ","Release from part of the body
 The degree to use for the technique
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.3665619
 "But Neji who has mastered
 Gentle Fist discharges Chakra","けれど
  
@@ -294,11 +294,11 @@ Gentle Fist discharges Chakra","けれど
 
 ","But
  
-The screw which made the fist",0.15384615384615385
+The screw which made the fist",0.15384615384615385,0.28820428
 "from his entire body and
 shuts out physical attacks","体全体からチャクラを放出し➡
 
-",Release chakra from the whole body,0.15384615384615385
+",Release chakra from the whole body,0.15384615384615385,0.31269243
 just with that discharge power.,"その放出力だけで
 物理的攻撃を完封してしまう
 ｡
@@ -307,10 +307,10 @@ just with that discharge power.,"その放出力だけで
 ","Only its emission power
 Complete physical attacks
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.4813359
 that's one more absolute defense,"もう一つの絶対防御》
 
-",Another absolute defense,0.2857142857142857
+",Another absolute defense,0.2857142857142857,0.8714086
 "that has more power
 than that Gaara's Sand Shield.","つまり
  
@@ -320,7 +320,7 @@ than that Gaara's Sand Shield.","つまり
 ","in short
  
 that is
-That kind of power than that girl",0.1875
+That kind of power than that girl",0.1875,0.43640035
 T-That's father's...,"(ﾊﾅﾋﾞ)
 あ…
  
@@ -330,7 +330,7 @@ T-That's father's...,"(ﾊﾅﾋﾞ)
 ","Ah…
  
 That's my father ...
-.",0.375
+.",0.375,0.6835678
 "only to the Hyuga head family,
 in other words the Hyuga clan.","つまり日向の跡目だけに
 代々
@@ -342,14 +342,14 @@ in other words the Hyuga clan.","つまり日向の跡目だけに
 From generation to generation
  
 It is a secret that can be transmitted
-.",0.32
+.",0.32,0.14394538
 Dang it.,"それを
 独自で作り上げたというのか
 ｡
 
 ","It
 Is it a uniquely created?
-.",0.25
+.",0.25,0.16228239
 This is the end.,"(
 ネジ
 )
@@ -357,7 +357,7 @@ This is the end.,"(
 ｡
 
 ","This is the end
-.",1.0
+.",1.0,1.0000001
 You're within the area of my 8 Trigrams.,"お前は
  
 俺の八卦の領域内にいる
@@ -366,12 +366,12 @@ You're within the area of my 8 Trigrams.,"お前は
 ","You are
  
 It is in my area of Hachiman
-.",0.3333333333333333
+.",0.3333333333333333,0.3864791
 8 Trigrams 64 Palms.,"八卦六十四掌
 ｡
 
 ","Hachiman 64 palm
-.",0.2857142857142857
+.",0.2857142857142857,0.5956399
 That pose.,"まさか
  
 あの構えは…
@@ -380,23 +380,23 @@ That pose.,"まさか
 ","Masadish
  
 That kind of thing ...
-.",0.25
+.",0.25,0.25419527
 64 Palms!,"二掌！
 
-",Two palms!,0.5
+",Two palms!,0.5,0.7298551
 "<i>The branch family exceeds</i>
 <i>the head family?</i>","(ﾋｱｼ)
 《分家の者が宗家を超えるか》
 
-","""Is the person in the house exceed the sect?""",0.1111111111111111
+","""Is the person in the house exceed the sect?""",0.1111111111111111,0.3994772
 "<i>To think the power of the</i>
 <i>Hyuga Kekkei Genkai</i>","日向の血継限界の力が➡
 
-",The power of hinata's hemorrhability is ➡,0.17647058823529413
+",The power of hinata's hemorrhability is ➡,0.17647058823529413,0.3594127
 "<i>would be passed on so strongly</i>
 <i>to a child of the branch family</i>","決して跡を継げぬ分家の子に➡
 
-",By the child of the family who never succeeds,0.19047619047619047
+",By the child of the family who never succeeds,0.19047619047619047,0.37931743
 "I pressed the 64 Chakra Points
 all over your body...","全身
 64
@@ -406,25 +406,25 @@ all over your body...","全身
 ","Whole body
 64
 Poting individual point holes
-.",0.11764705882352941
+.",0.1176470588235294,0.40607813
 Are you frustrated?,"フッ
  
 悔しいか？
 
 ","Hook
  
-Are you sorry?",0.5
+Are you sorry?",0.5,0.2321281
 "Kneeling down before power
 that can't be changed","変えようのない力の前に
 ひざまずき➡
 
 ","Prior to the power that can not be changed
-Kneeling ➡",0.3333333333333333
+Kneeling ➡",0.3333333333333333,0.8656871
 That's just an illusion.,"ただの幻想だ
 ｡
 
 ","It's just a fantasy
-.",0.3333333333333333
+.",0.3333333333333333,0.4216722
 "Oh, man. I knew it.","お前は
  
 もう立てもしない
@@ -433,14 +433,14 @@ That's just an illusion.,"ただの幻想だ
 ","You are
  
 I do not do it anymore
-.",0.25
+.",0.25,0.1894566
 Naruto.,"己の無力を知る
 ｡
 ➡
 
 ","Know yourself
 .
-➡",0.2
+➡",0.2,0.09138843
 He... No way.,"ハァ
  
 ハァ
@@ -453,19 +453,19 @@ He... No way.,"ハァ
 Han
  
 Hua ...
-.",0.2857142857142857
+.",0.2857142857142857,0.1826704
 "I told you, didn't I...?","ハハハ…
  
 言っただろ？
 
 ","Hahaha ...
  
-Did you say?",0.4
+Did you say?",0.4,0.36112097
 No way.,"ナルト
 ｡
 
 ","Naruto
-.",0.25
+.",0.25,0.10939424
 "You've still got damage
 from the match.","(ﾋﾅﾀ
 のせきこみ
@@ -487,7 +487,7 @@ Still match
 Damage
 But
 .
-➡",0.45454545454545453
+➡",0.4545454545454545,0.7456617
 Hinata... Hang in there.,"ヒナタ
  
 しっかりしろ！
@@ -497,7 +497,7 @@ Hinata... Hang in there.,"ヒナタ
 
 ","Hinata
  
-come on!",0.1111111111111111
+come on!",0.1111111111111111,0.73891026
 I'm not suspicious or anything.,"(ｶﾌﾞﾄ)
 まっ
  
@@ -507,7 +507,7 @@ I'm not suspicious or anything.,"(ｶﾌﾞﾄ)
 ","Mine
  
 I'm not a suspicious person
-.",0.5
+.",0.5,0.69805473
 "It'll be the same even if
 you fight more than this.","(
 ネジ
@@ -520,7 +520,7 @@ you fight more than this.","(
 ","Please stop
 It is the same even if you do more than this
 .
-➡",0.5555555555555556
+➡",0.5555555555555556,0.43609798
 "Even if you say so,
 I have something against you.","んなこと言っても
 こっちには
@@ -532,34 +532,34 @@ I have something against you.","んなこと言っても
 Here
  
 I'm firm
-.",0.5
+.",0.5,0.31899178
 What are you talking about?,"あんたは？
 
-",What is it?,0.25
+",What is it?,0.25,0.28898376
 "go after Hinata mentally
 who was trying so hard?","あんなに頑張ってる
 ヒナタのことを➡
 
 ","I'm working hard
-Hinata about Hinata",0.14285714285714285
+Hinata about Hinata",0.14285714285714285,0.67295885
 It has nothing to do with you.,"お前には関係のない話だ
 ｡
 
 ","It's a story that has nothing to do in you
-.",0.5384615384615384
+.",0.5384615384615384,0.60241455
 I don't know what happened to you.,"何があったか
 そんなの知んねえけどな
 ｡
 
 ","What happened
 I do not know that
-.",0.5454545454545454
+.",0.5454545454545454,0.4896351
 "But I won't forgive the jerk who'd
 call another person a failure.","他人を落ちこぼれ呼ばわりする
 くそ野郎は➡
 
 ","Call another person falls
-Was",0.1875
+Was",0.1875,0.33255565
 "Hey, you.","(
 ネジ
 )
@@ -569,7 +569,7 @@ Was",0.1875
 
 ","Do you get it
 .
-➡",0.25
+➡",0.25,0.19503567
 It's okay. I'm a doctor.,"(ｶﾌﾞﾄ)
 大丈夫
  
@@ -579,7 +579,7 @@ It's okay. I'm a doctor.,"(ｶﾌﾞﾄ)
 ","Fine
  
 Because I am a doctor
-.",0.36363636363636365
+.",0.3636363636363637,0.77894425
 "In the Hyuga head family,
 there's a secret Ninjutsu","(
 ネジ
@@ -594,21 +594,21 @@ there's a secret Ninjutsu","(
  
 Be transmitted
 There is a secret ninjut
-.",0.16666666666666666
+.",0.16666666666666666,0.6284155
 That is the Curse Mark Arts.,"それが呪印術
 ｡
 
 ","That is a curse
-.",0.5
+.",0.5,0.608289
 Curse Mark Arts?,"呪印術？
 
-",Curse screen?,0.4
+",Curse screen?,0.4,0.50088173
 "The Curse Mark represents
 a bird in a cage...","その呪いの印は
 籠の中の鳥を意味し➡
 
 ","The mark of the curse is
-Meaning birds in the cage",0.38461538461538464
+Meaning birds in the cage",0.38461538461538464,0.93079877
 "and it's a mark of those who are
 bound to a destiny they can't escape.","それは逃れられない運命に
 縛られた者の証し
@@ -616,17 +616,17 @@ bound to a destiny they can't escape.","それは逃れられない運命に
 
 ","It is a destiny that can not be escaped
 Proof of tied person
-.",0.19230769230769232
+.",0.19230769230769232,0.56223035
 ...t-that mark?,"な…
  
 何だ？
 
 ","...
  
-What?",0.4
+What?",0.4,0.24414667
 "One day when I was four years old,","４歳のある日➡
 
-",4 years old day ➡,0.2727272727272727
+",4 years old day ➡,0.2727272727272727,0.59345514
 "this accursed mark was inscribed
 on my forehead with the Curse Mark Arts.","この忌まわしい印を
 額に刻まれた
@@ -634,7 +634,7 @@ on my forehead with the Curse Mark Arts.","この忌まわしい印を
 
 ","This masturbation mark
 I was engraved
-.",0.25
+.",0.25,0.64311355
 "A large ceremony was held in
 the Village Hidden in Leaves on that day.","(
 ネジ
@@ -645,7 +645,7 @@ the Village Hidden in Leaves on that day.","(
 
 ","that day
  
-In the village of the tree",0.3125
+In the village of the tree",0.3125,0.5894431
 "It was also the day when the
 head Ninja of the Land of Lightning,","同盟条約の締結のために
 来訪した日でもあった
@@ -655,7 +655,7 @@ head Ninja of the Land of Lightning,","同盟条約の締結のために
 ","For the conclusion of the Alliance Convention
 It was also the day I visited
 .
-➡",0.3
+➡",0.3,0.3256352
 "the land that the Leaf had
 fought with for many years,","長年
  
@@ -663,7 +663,7 @@ fought with for many years,","長年
 
 ","Many years
  
-I was fighting with the tree",0.26666666666666666
+I was fighting with the tree",0.26666666666666666,0.5531659
 "who didn't attend the ceremony
 that was attended","出席していない一族があった
 ｡
@@ -671,7 +671,7 @@ that was attended","出席していない一族があった
 
 ","There was a family who did not attend
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.6514555
 "by everybody else,
 from Leaf Jonin to Genin.","しかし
  
@@ -681,7 +681,7 @@ from Leaf Jonin to Genin.","しかし
 ","However
  
 Shimojo from Kino Leaves
-To reach up",0.125
+To reach up",0.125,0.312826
 It was the Hyuga clan...,"盛大なセレモニーが
 行われていた
 ｡
@@ -690,18 +690,18 @@ It was the Hyuga clan...,"盛大なセレモニーが
 ","Great ceremony
 It was done
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.18520397
 "And it's because that day
 was the day of hope","待望の日だったからだ
 ｡
 
 ","It was because it was a long-awaited day
-.",0.3076923076923077
+.",0.3076923076923077,0.6563575
 Miss Hinata's third birthday!,"ヒナタ様の３歳の誕生日だ
 ｡
 
 ","Hinata's 3-year-old birthday
-.",0.375
+.",0.375,0.8727412
 "My father, Hizashi Hyuga,","(
 ネジ
 )
@@ -711,7 +711,7 @@ Miss Hinata's third birthday!,"ヒナタ様の３歳の誕生日だ
 
 ","My father
  
-Hisa Hisashi and ➡",0.2222222222222222
+Hisa Hisashi and ➡",0.2222222222222222,0.66559786
 "However, Miss Hinata's father,
 Lord Hiashi,","しかし
 ヒナタ様の父
@@ -721,7 +721,7 @@ Lord Hiashi,","しかし
 ","However
 Hinata's father
  
-Hyashi is ➡",0.36363636363636365
+Hyashi is ➡",0.3636363636363637,0.785853
 "is the eldest son of the head family
 born into this world first.","この世に先に生まれた長男
 宗家の者
@@ -731,7 +731,7 @@ born into this world first.","この世に先に生まれた長男
 ","The eldest son born prior to this world
 Sectors
 .
-➡",0.4117647058823529
+➡",0.4117647058823529,0.765984
 "And my father who was the second son
 is a member of the branch family.","そして次男である俺の父は
 分家の者
@@ -739,25 +739,25 @@ is a member of the branch family.","そして次男である俺の父は
 
 ","And my father who is the second son
 Person of the house
-.",0.5882352941176471
+.",0.5882352941176471,0.7107979
 "<i>She's a cute girl, isn't she, father?</i>","＜かわいい子ですね
  
 父上＞
 
 ","<It is a cute girl
  
-Father>",0.4666666666666667
+Father>",0.4666666666666667,0.75231874
 "<i>What's wrong, father?</i>","＜どうしたのです？
  
 父上＞
 
 ","<What happened?
  
-Father>",0.45454545454545453
+Father>",0.4545454545454545,0.69674987
 "<i>Oh, it's nothing.</i>","(ﾋｱｼ)
 ＜ああ＞
 
-",<Oh>,0.3333333333333333
+",<Oh>,0.3333333333333333,0.59590364
 "When the head family heir grew
 and became three years old,","(
 ネジ
@@ -768,7 +768,7 @@ and became three years old,","(
 
 ","Trails of the Souemade grow
 When it became three ...
-.",0.21052631578947367
+.",0.21052631578947367,0.25560418
 "I had the Curse Mark imprinted on me
 and I became the bird in the cage.","(
 ネジ
@@ -781,18 +781,18 @@ and I became the bird in the cage.","(
 ","I'm engraved a curse
 It became a bird in a cage
 .
-➡",0.3684210526315789
+➡",0.3684210526315789,0.763951
 And became the Hyuga branch family.,"宗家とか分家とか分けることに…
 ｡
 
 ","To divide the sect and the house
-.",0.2727272727272727
+.",0.2727272727272727,0.37496808
 "Why's it necessary to do
 something like that?","どうして
 そんなことする必要があんだよ？
 
 ","why
-You need to do that?",0.4166666666666667
+You need to do that?",0.4166666666666667,0.5939986
 What does that weird mark mean?,"そんな
  
 へんてこな印に
@@ -801,7 +801,7 @@ What does that weird mark mean?,"そんな
 ","Such
  
 To the mark
-What does it mean?",0.45454545454545453
+What does it mean?",0.4545454545454545,0.668145
 "This mark on my forehead
 isn't just a decoration.","この額の印は
 ただの飾りじゃないんだよ
@@ -809,28 +809,28 @@ isn't just a decoration.","この額の印は
 
 ","The mark of this amount is
 It's not just an ornament
-.",0.2631578947368421
+.",0.2631578947368421,0.441656
 "<i>You will live to protect Miss Hinata</i>
 <i>of the head family</i>","日向の能力を守るために
 生きるのだ＞
 
 ","To protect the ability of Hinata
-Live>",0.4375
+Live>",0.4375,0.6295263
 "<i>Yes, father.</i>","＜はい！
  
 父上＞
 
 ","<Yes!
  
-Father>",0.3333333333333333
+Father>",0.3333333333333333,0.8658443
 <i>Father.</i>,"＜タァ～！＞
 
-",<·!>,0.2857142857142857
+",<·!>,0.2857142857142857,0.46144736
 <i>You're not to forget your destiny.</i>,"おのが宿命を
 決して忘れるでないぞ＞
 
 ","Our fate
-I will never forget>",0.2
+I will never forget>",0.2,0.58931607
 "This Curse Mark is the absolute fear
 called death so to speak...","(
 ネジ
@@ -839,7 +839,7 @@ called death so to speak...","(
 いわば宗家が分家に与える➡
 
 ","This curse
-So to speak, the Souemade gives the house",0.35294117647058826
+So to speak, the Souemade gives the house",0.35294117647058826,0.47829488
 "that was given to the branch family
 by the head family.","愚か者を許すのは
 きょうかぎりだ
@@ -849,11 +849,11 @@ by the head family.","愚か者を許すのは
 ","To forgive the fool
 It is a day
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.06358791
 "The Secret Sign that the
 head family members form easily","宗家が結ぶ秘印は➡
 
-",The secret marking by the sect is ➡,0.14285714285714285
+",The secret marking by the sect is ➡,0.14285714285714285,0.3655218
 "destroys the cerebral nerves
 of those in the branch family.","分家の者の脳神経を
 簡単に破壊する
@@ -861,7 +861,7 @@ of those in the branch family.","分家の者の脳神経を
 
 ","The brain nerve of the person in the house
 Easily destroy
-.",0.25
+.",0.25,0.56537247
 "Of course, killing is easy.","無論
  
 殺すことも容易だ
@@ -870,19 +870,19 @@ Easily destroy
 ","Of course
  
 It is easy to kill
-.",0.5
+.",0.5,0.84537226
 "And this mark only goes away
 at time of death.","死という絶対的恐怖
 ｡
 
 ","Absolute fear of death
-.",0.23076923076923078
+.",0.2307692307692308,0.29729635
 "Sealing away the power
 of the Byakugan.","白眼の能力を封印してな
 ｡
 
 ","Seal the capabilities of the white eyes
-.",0.2727272727272727
+.",0.2727272727272727,0.25655136
 "The Hyuga family is the clan that possesses
 the most distinctive Kekkei Genkai.","(
 ネジ
@@ -899,7 +899,7 @@ the most distinctive Kekkei Genkai.","(
 Most specific
 It is a family with the hemodellar limit
 .
-➡",0.23809523809523808
+➡",0.2380952380952381,0.3171064
 "There's no end to those who
 target the secret of that distinctive power.","その特異能力の秘密を狙う者は
 後を絶たない
@@ -907,7 +907,7 @@ target the secret of that distinctive power.","その特異能力の秘密を狙
 
 ","Those who aim for the secret of the singular ability
 I will not stop
-.",0.2608695652173913
+.",0.2608695652173913,0.5216233
 "In other words, this Curse Mark
 keeps the branch family alive","(
 ネジ
@@ -918,30 +918,30 @@ keeps the branch family alive","(
 
 ","in short
  
-This curse is ➡",0.2
+This curse is ➡",0.2,0.47952846
 "only to protect the head family
 and does not allow disobedience.","宗家を守るためにのみ
 分家は生かされ➡
 
 ","Only to protect the sect
-The house is alive",0.25
+The house is alive",0.25,0.4935901
 "And it's an effective system created
 to defend for eternity","効率のいいシステムなんだ
 ｡
 
 ","It is an efficient system
-.",0.21428571428571427
+.",0.21428571428571427,0.51705915
 "And then, that incident occurred.","あの事件が起きた
 ｡
 
 ","That incident happened
-.",0.375
+.",0.375,0.7373066
 "My father was killed by
 the head family.","宗家に殺されたんだ
 ｡
 
 ","I was killed by a sect
-.",0.3333333333333333
+.",0.3333333333333333,0.52173537
 "One night, Miss Hinata was
 snatched up by someone.","(
 ネジ
@@ -960,7 +960,7 @@ Hinata
 Someone
  
 Extra
-.",0.4166666666666667
+.",0.4166666666666667,0.6389003
 "At that time, Lord Hiashi immediately
 rushed off and killed the abductor.","そいつを殺した
 ｡
@@ -968,14 +968,14 @@ rushed off and killed the abductor.","そいつを殺した
 
 ","Killed that
 .
-➡",0.2
+➡",0.2,0.2442832
 Who do you think that person was...,"一体
  
 誰だったと思う？➡
 
 ","Integral
  
-Who do you think?➡",0.36363636363636365
+Who do you think?➡",0.3636363636363637,0.18131383
 "who was in the shadows,
 and also wearing a mask?","暗がりで
  
@@ -989,7 +989,7 @@ and also wearing a mask?","暗がりで
 And with a mask
 I was hiding my face
  
-つ ➡",0.2
+つ ➡",0.2,0.52618855
 "It was the head ninja of
 the Land of Lightning","雷の国の忍頭だった
 ｡
@@ -997,11 +997,11 @@ the Land of Lightning","雷の国の忍頭だった
 
 ","It was the nobody of the country of lightning
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.57940006
 "who had just completed
 the allied treaty.","同盟条約を結んだばかりの➡
 
-",I just tied the Alliance Treaty,0.2727272727272727
+",I just tied the Alliance Treaty,0.2727272727272727,0.65433705
 "It was clear that he came targeting
 the secret of Byakugan from the start.","初めから
  
@@ -1015,11 +1015,11 @@ the secret of Byakugan from the start.","初めから
 Aim for the secret of the white-eye
 It is clear that I came
 .
-➡",0.42857142857142855
+➡",0.42857142857142855,0.30802876
 "and set an outrageous condition in
 violation of the treaty with the Hidden Leaf.","木ノ葉の条約違反として➡
 
-",As a violation of the treaty of the tree,0.23529411764705882
+",As a violation of the treaty of the tree,0.2352941176470588,0.7315896
 "However, the Leaf who
 wanted to avoid war","しかし
  
@@ -1027,7 +1027,7 @@ wanted to avoid war","しかし
 
 ","However
  
-Wooden leaves want to avoid war",0.3333333333333333
+Wooden leaves want to avoid war",0.3333333333333333,0.68773276
 made a deal with the Lightning.,"雷と
  
 ある裏取引をした
@@ -1038,7 +1038,7 @@ made a deal with the Lightning.,"雷と
  
 I made a back deal
 .
-transaction?",0.5454545454545454
+transaction?",0.5454545454545454,0.6437034
 "The Lightning demand was
 the body of the Hyuga head family","(
 ネジ
@@ -1055,7 +1055,7 @@ the body of the Hyuga head family","(
 Tree and lightning
 In the case of
  
-➡ ➡",0.2
+➡ ➡",0.2,0.4290696
 And the Leaf accepted the condition.,"(
 ネジ
 )
@@ -1069,7 +1069,7 @@ And the Leaf accepted the condition.,"(
 Wooden leaves
  
 The condition is
-.",0.4444444444444444
+.",0.4444444444444444,0.6633114
 "<i>What? But, father...</i>","(ﾊﾅﾋﾞ)
 《えっ
  
@@ -1081,7 +1081,7 @@ The condition is
  
 but
  
-My father ...",0.23076923076923078
+My father ...",0.2307692307692308,0.56651866
 And war was safely avoided.,"(
 ネジ
 )
@@ -1097,20 +1097,20 @@ And war was safely avoided.,"(
 Not
  
 War was avoided
-.",0.7142857142857143
+.",0.7142857142857143,0.93010443
 "Thanks to my father who was killed
 as a body double of Hiashi Hyuga,","俺の父親のおかげでな！➡
 
-",Thanks to my father!➡,0.23529411764705882
+",Thanks to my father!➡,0.2352941176470588,0.4462969
 to protect the head family!,"宗家を守るため➡
 
-",To protect the sect,0.42857142857142855
+",To protect the sect,0.42857142857142855,0.49970168
 "Other than dying, there's no other way
 to escape this accursed Curse Mark.","死ぬ以外に方法はない
 ｡
 
 ","There is no way other than dying
-.",0.4375
+.",0.4375,0.5490784
 "Even though they were twins
 with nearly equal power,","双子なのに
 先に生まれるか
@@ -1120,20 +1120,20 @@ with nearly equal power,","双子なのに
 ","Even though it is a twin
 Will it be born earlier
  
-Whether it will be born later",0.1
+Whether it will be born later",0.1,0.48923403
 "And then, this match...","そして
  
 この試合➡
 
 ","and
  
-This match ➡",0.42857142857142855
+This match ➡",0.42857142857142855,0.721937
 "Your destiny was decided at the point
 when I became your opponent.","俺が相手になった時点で
 決まっている！
 
 ","When I became the other party
-It is decided!",0.29411764705882354
+It is decided!",0.29411764705882354,0.41813192
 "<i>Two! Peking Duck, Action Scene,</i>
 <i>Chen Lee speeds around on his bike</i>","♬
  
@@ -1149,7 +1149,7 @@ Peking duck
  Wire action
 Rushed chain in char
 ·
-Lee",0.16
+Lee",0.16,0.56564337
 Wait. I got it. Just watch me!,"♬
  
 見上げて
@@ -1160,7 +1160,7 @@ Wait. I got it. Just watch me!,"♬
  
 Look up
  
-It stands up",0.07692307692307693
+It stands up",0.07692307692307693,0.13751623
 "Next time, ""A Failure's True Power""","♬
  
 世界中ほら
@@ -1171,4 +1171,4 @@ It stands up",0.07692307692307693
  
 Chinese world
  
-Change",0.0
+Change",0.0,0.17222357

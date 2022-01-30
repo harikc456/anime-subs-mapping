@@ -1,34 +1,34 @@
-en_text,jp_text,google_translated,score
-We can make the tires out of sponge!,タイヤをスポンジで作ろう｡,Let's make tires with a sponge.,0.21428571428571427
-What?,《何!?考えたこともなかった…》,"""What!? I have never thought ...""",0.2
-Next comes the parachute.,で 次はパラシュートだけど…｡,So next is a parachute ....,0.3333333333333333
-And that was...,そこが何か こう…なっ｡,There is something like that.,0.1111111111111111
-"In the future, I'll be a flight director,",⦅俺は将来 管制官になり➡,⦅I become a control officer in the future,0.2857142857142857
-Stand up!,⦅さあ立てよ！⦆,⦅⦅あ!⦆,0.2
-What are you looking for?,何 さがしてんの？さっきから｡,What do you do?.,0.375
-Huh? Where did I put it?,あれ…どこに入れたっけ？,Well ... Where did you put it?,0.5
-"Oh, there it is.",おう あった｡これだ｡,That's right. That's right.,0.1111111111111111
-"What is that? hey, what is it?",何 それ？ねえ それ何？,What that?Hey it?,0.7142857142857143
-Come on... Tell me!,ねっ ねえ！,Ney!,0.14285714285714285
-Be sure you attend this one.,今回は ちゃんと行けよ⦆,Go this time and go,0.1
-"Pico, what happened to your face?",ピコ！どうした？その顔｡,Pico!What happened?That face.,0.45454545454545453
-The ground's frozen solid... that wasn't it.,違うよ！,No!,0.0
-I have to go help my dad.,親父の手伝いに行かねぇと｡,I'm going to help my father's help.,0.4166666666666667
-R-Really...,そ そうか…｡,Sometime ....,0.25
-"But you'll be free Sunday, right?",ああ！でも日曜は空いてんだろ！,Ah!But Sunday is free!,0.25
-The other two?,あの２人？,That two people?,0.3333333333333333
-We don't need these anymore...,もう必要ねぇもんな｡,Need to do it anymore.,0.3
-"Hold on, guys!",待てよ お前ら！ハァハァ…｡,Wait you!Ha ha ....,0.1
-I'm sorry.,ごめん…もう…誓えない｡,Sorry ... ... I can not swear.,0.375
-"but it isn't bad, either.",鉱山技師も悪くない｡,Mining technicians are not bad.,0.16666666666666666
-Don't give me that.,ふざけんな…｡➡,It is funny ....,0.1
-ending up in the lake.,そのまま 湖に⦆,As it is,0.0
-They haven't been here for two weeks...,もう ２週間経つというのに…｡,It's about two weeks ....,0.23076923076923078
-Life is short!,人生は…短いんだ！,Life is ... Short!,0.8
-Ring the bell!,ベル ベル！,Belbell!,0.2
-You should stay away from me.,⦅もう 俺に構うな⦆,⦅⦆⦆⦆⦆⦆⦆,0.0
-"Well, he also had this to say.",いや でも こうも言ってたよ｡,Even though I didn't like it.,0.0625
-I see people who look Japanese.,日本人らしき人も いるよ｡,Some Japanese people are.,0.3333333333333333
-Did you know that?,降ってたっけ…｡,I'm down ....,0.0
-your rocket will be in the air in an hour.,１時間後には もう空の上だ｡,After 1 hour it is already on the sky.,0.17647058823529413
-"Yeah, but we only have twenty-five minutes!",＜ああ｡つっても あと２５分！＞,<Oh. Even if it is 25 minutes later!>,0.10526315789473684
+en_text,jp_text,google_translated,score,semantic_score
+We can make the tires out of sponge!,タイヤをスポンジで作ろう｡,Let's make tires with a sponge.,0.21428571428571427,0.9189733
+What?,《何!?考えたこともなかった…》,"""What!? I have never thought ...""",0.2,0.18445022
+Next comes the parachute.,で 次はパラシュートだけど…｡,So next is a parachute ....,0.3333333333333333,0.8867275
+And that was...,そこが何か こう…なっ｡,There is something like that.,0.1111111111111111,0.3305713
+"In the future, I'll be a flight director,",⦅俺は将来 管制官になり➡,⦅I become a control officer in the future,0.2857142857142857,0.5747478
+Stand up!,⦅さあ立てよ！⦆,⦅⦅あ!⦆,0.2,0.2996418
+What are you looking for?,何 さがしてんの？さっきから｡,What do you do?.,0.375,0.14013222
+Huh? Where did I put it?,あれ…どこに入れたっけ？,Well ... Where did you put it?,0.5,0.8558185
+"Oh, there it is.",おう あった｡これだ｡,That's right. That's right.,0.1111111111111111,0.26472002
+"What is that? hey, what is it?",何 それ？ねえ それ何？,What that?Hey it?,0.7142857142857143,0.55925536
+Come on... Tell me!,ねっ ねえ！,Ney!,0.14285714285714285,0.2160624
+Be sure you attend this one.,今回は ちゃんと行けよ⦆,Go this time and go,0.1,0.36710787
+"Pico, what happened to your face?",ピコ！どうした？その顔｡,Pico!What happened?That face.,0.4545454545454545,0.8439143
+The ground's frozen solid... that wasn't it.,違うよ！,No!,0.0,0.10933986
+I have to go help my dad.,親父の手伝いに行かねぇと｡,I'm going to help my father's help.,0.4166666666666667,0.80973417
+R-Really...,そ そうか…｡,Sometime ....,0.25,0.23093328
+"But you'll be free Sunday, right?",ああ！でも日曜は空いてんだろ！,Ah!But Sunday is free!,0.25,0.7946592
+The other two?,あの２人？,That two people?,0.3333333333333333,0.60027146
+We don't need these anymore...,もう必要ねぇもんな｡,Need to do it anymore.,0.3,0.40161794
+"Hold on, guys!",待てよ お前ら！ハァハァ…｡,Wait you!Ha ha ....,0.1,0.28271574
+I'm sorry.,ごめん…もう…誓えない｡,Sorry ... ... I can not swear.,0.375,0.38753977
+"but it isn't bad, either.",鉱山技師も悪くない｡,Mining technicians are not bad.,0.16666666666666666,0.32178956
+Don't give me that.,ふざけんな…｡➡,It is funny ....,0.1,0.21712801
+ending up in the lake.,そのまま 湖に⦆,As it is,0.0,0.13466917
+They haven't been here for two weeks...,もう ２週間経つというのに…｡,It's about two weeks ....,0.2307692307692308,0.57594156
+Life is short!,人生は…短いんだ！,Life is ... Short!,0.8,0.9321976
+Ring the bell!,ベル ベル！,Belbell!,0.2,0.3650068
+You should stay away from me.,⦅もう 俺に構うな⦆,⦅⦆⦆⦆⦆⦆⦆,0.0,0.13467234
+"Well, he also had this to say.",いや でも こうも言ってたよ｡,Even though I didn't like it.,0.0625,0.24012518
+I see people who look Japanese.,日本人らしき人も いるよ｡,Some Japanese people are.,0.3333333333333333,0.78154576
+Did you know that?,降ってたっけ…｡,I'm down ....,0.0,0.023136755
+your rocket will be in the air in an hour.,１時間後には もう空の上だ｡,After 1 hour it is already on the sky.,0.17647058823529413,0.54831874
+"Yeah, but we only have twenty-five minutes!",＜ああ｡つっても あと２５分！＞,<Oh. Even if it is 25 minutes later!>,0.10526315789473684,0.5887222

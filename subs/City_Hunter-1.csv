@@ -1,255 +1,255 @@
-en_text,jp_text,google_translated,score
-"Sure you have the right ""target""?",ターゲットが違うんじゃないのか？,Is the target different?,0.2727272727272727
-a national treasure that he\Ncherishes more than his own life.,依頼は あの爺さんが命より大切にしてる,Your request is cherished by that from life,0.11764705882352941
-Mission complete!,はい一丁上がり！,Yes!,0.25
-"Okay, I'm out of here.",一流のスイーパーのやるこっちゃねえよな,I'm sorry to do a first-class sweeper,0.14285714285714285
-"Sure, sure.",おおおおーっ,Oh oh,0.0
-I don't like guys...,俺 男って… 嫌い,I'm a man ... I hate,0.2
+en_text,jp_text,google_translated,score,semantic_score
+"Sure you have the right ""target""?",ターゲットが違うんじゃないのか？,Is the target different?,0.2727272727272727,0.67647797
+a national treasure that he\Ncherishes more than his own life.,依頼は あの爺さんが命より大切にしてる,Your request is cherished by that from life,0.1176470588235294,0.13705076
+Mission complete!,はい一丁上がり！,Yes!,0.25,0.35429037
+"Okay, I'm out of here.",一流のスイーパーのやるこっちゃねえよな,I'm sorry to do a first-class sweeper,0.14285714285714285,0.13788323
+"Sure, sure.",おおおおーっ,Oh oh,0.0,0.03699318
+I don't like guys...,俺 男って… 嫌い,I'm a man ... I hate,0.2,0.47243243
 Is this the way to Shinjuku Hall?,"新宿ホールへ行くには
 この道でいいんでしょうか？","To go to Shinjuku Hall
-Is this good on this road?",0.5
-"Yes. Go straight down this road,\Nturn right at the next light.",あっ ええ この道を真っ直ぐ行って,Yes I went straight to this road,0.23529411764705882
-Then...,はぁっ…,...,0.5
-Yuko! Sorry to make you wait!,裕子ー 待たせちゃって,I'm waiting for you to wait,0.2727272727272727
-"Yuko, what's wrong?",裕子 ね どうしたの？,Yuko What happened?,0.42857142857142855
-Yuko? Hang on! Yuko! Yuko!,ね 裕子 裕子ー！,Yuko Yuko Yuko!,0.4
-A series of indiscriminate\Nshootings in Shinjuku.,ごめん ちょっと急な用が出来ちゃって,I'm sorry I could do a little,0.07692307692307693
+Is this good on this road?",0.5,0.8080878
+"Yes. Go straight down this road,\Nturn right at the next light.",あっ ええ この道を真っ直ぐ行って,Yes I went straight to this road,0.2352941176470588,0.61101776
+Then...,はぁっ…,...,0.5,0.53580767
+Yuko! Sorry to make you wait!,裕子ー 待たせちゃって,I'm waiting for you to wait,0.2727272727272727,0.37950373
+"Yuko, what's wrong?",裕子 ね どうしたの？,Yuko What happened?,0.42857142857142855,0.8328126
+Yuko? Hang on! Yuko! Yuko!,ね 裕子 裕子ー！,Yuko Yuko Yuko!,0.4,0.84962714
+A series of indiscriminate\Nshootings in Shinjuku.,ごめん ちょっと急な用が出来ちゃって,I'm sorry I could do a little,0.07692307692307693,0.08223661
 "Despite the incidents taking place\Nin busy areas, no witnesses.","全て繁華街で起きてるのに
 目撃者もいない","Everything happens in the downtown area
-There is no witness",0.10526315789473684
-The number of victims has\Nrisen to five.,犠牲者の数も もうすでに５人だ,The number of victims is already 5 people,0.3333333333333333
+There is no witness",0.10526315789473684,0.5825455
+The number of victims has\Nrisen to five.,犠牲者の数も もうすでに５人だ,The number of victims is already 5 people,0.3333333333333333,0.87443227
 was killed as she was waiting for\Nher older sister.,"その中に 姉と待ち合わせをしてて
 被害に遭った","I will meet my sister in it
-She suffered damage",0.11764705882352941
+She suffered damage",0.1176470588235294,0.40861744
 Not happening. A depressing case like\Nthis one just isn't for me.,"だめだめ そういう暗～い事件は
 俺に向いてないの","It is a dark-eyed case
-Not suitable for me",0.375
+Not suitable for me",0.375,0.32881573
 "When she learns you've refused,\Nhow sad she'll be.","断られたと知ったら
 彼女はどんなに悲しむか","I knew it was refused
-How sad she is sorrow",0.15789473684210525
-"""She?"" Why didn't you say so\Nin the first place?!",彼女！？,she!?,0.21428571428571427
-Geez.,はぁー 可哀想に,Haao Papacy,0.0
-"Your client is the high school student's\Nolder sister, Natsumi Azuki.",依頼者はその高校生の姉 亜月菜摘,The requester of the high school student,0.2
+How sad she is sorrow",0.15789473684210525,0.54009134
+"""She?"" Why didn't you say so\Nin the first place?!",彼女！？,she!?,0.21428571428571427,0.42816135
+Geez.,はぁー 可哀想に,Haao Papacy,0.0,0.03160107
+"Your client is the high school student's\Nolder sister, Natsumi Azuki.",依頼者はその高校生の姉 亜月菜摘,The requester of the high school student,0.2,0.5309311
 "I'll take it! When you act like that, I\Nknow she's Mokkori!","お前が誤魔化す時は
 超モッコリと 決まってるからな","When you make a mistake
-It is decided that it is super mokito",0.18181818181818182
+It is decided that it is super mokito",0.18181818181818185,0.32852575
 What kind of guy would invite\Nme to a place like this?,"こんな所へ呼び出すなんて
 一体どういう神経してるのかしら","Call to such a place
-What kind of nervousness is it",0.35294117647058826
-Help! Molester!,はっ！,Hey!,0.25
+What kind of nervousness is it",0.35294117647058826,0.30266806
+Help! Molester!,はっ！,Hey!,0.25,0.23392403
 "Uh, I'm...","-あーっ！ 痴漢！
 -あーの 僕は… んぐぅっ…","- Oh!Pervert!
--Ah, I'm ... ...",0.4
-It's a molester. He's under the table.,痴漢よ テーブルの下に痴漢が！,"Molester, a pervert under the table!",0.4166666666666667
-Someone call the police!,誰か警察を呼んで下さーい,Someone call the police and,0.6666666666666666
-I'm not a molester. I'm Ryo Saeba.,あのー 痴漢じゃないっす 冴羽リョウっす,"That of that, I'm not a pervert",0.3333333333333333
-You are?,あ あなたが？,"Oh, are you?",0.6
-I take it you want me to avenge\Nyour sister.,依頼は 妹さんの仇を取って欲しいとか,I want you to take your sister's wolf,0.46153846153846156
-"Yes, that's right.",ええ そうです,"Yes, that's right",0.8333333333333334
+-Ah, I'm ... ...",0.4,0.41383484
+It's a molester. He's under the table.,痴漢よ テーブルの下に痴漢が！,"Molester, a pervert under the table!",0.4166666666666667,0.7610441
+Someone call the police!,誰か警察を呼んで下さーい,Someone call the police and,0.6666666666666666,0.880479
+I'm not a molester. I'm Ryo Saeba.,あのー 痴漢じゃないっす 冴羽リョウっす,"That of that, I'm not a pervert",0.3333333333333333,0.3157614
+You are?,あ あなたが？,"Oh, are you?",0.6,0.600053
+I take it you want me to avenge\Nyour sister.,依頼は 妹さんの仇を取って欲しいとか,I want you to take your sister's wolf,0.4615384615384616,0.5617918
+"Yes, that's right.",ええ そうです,"Yes, that's right",0.8333333333333334,0.9260239
 It was a mistake to ask you.,"あなたなんかに
 頼みに来たのが間違いでした","To you
-It was a mistake to come to request",0.6
-Excuse me!,失礼します,Excuse me,0.6666666666666666
-"If you leave now, you'll regret it.",今帰ると後悔するぜ,I regret it now,0.3
-There's too much going\Ndown in this town.,この街には事件が多過ぎてね,There are too many incidents in this city,0.3076923076923077
+It was a mistake to come to request",0.6,0.5701624
+Excuse me!,失礼します,Excuse me,0.6666666666666666,0.8765359
+"If you leave now, you'll regret it.",今帰ると後悔するぜ,I regret it now,0.3,0.55646265
+There's too much going\Ndown in this town.,この街には事件が多過ぎてね,There are too many incidents in this city,0.3076923076923077,0.59773695
 It's my job as a sweeper to clean up\Nthe scum that falls through the cracks.,"サツから漏れた悪党を掃除するのが
 スイーパーとしての俺の役目だ","Cleaning the villain leaked from Satsu
-It is my role as a sweeper",0.25
-But what can you find out here?,でも こんな店で 何が分かるって言うの？,But what do you say what to know at such a store?,0.25
-"Hey there, Master.",よう マスター,Master,0.2
-"Is it that kind of day, Master?",今日はそういう日かい？ マスター,Today is that day?Master,0.5
+It is my role as a sweeper",0.25,0.592074
+But what can you find out here?,でも こんな店で 何が分かるって言うの？,But what do you say what to know at such a store?,0.25,0.3154086
+"Hey there, Master.",よう マスター,Master,0.2,0.546938
+"Is it that kind of day, Master?",今日はそういう日かい？ マスター,Today is that day?Master,0.5,0.7995572
 There's a man who brought in\Na runaway girl at table five.,"５番テーブルに
 家出娘を連れ込んだ男がいる","In the fifth table
-There is a man who brought home daughter",0.3157894736842105
+There is a man who brought home daughter",0.3157894736842105,0.6427339
 "Natsumi, please excuse\Nme for a moment.","菜摘さん ちょっとすまないけど
 ゴタゴタらしい","I'm sorry for a little bit
-Gotagota",0.14285714285714285
-Trouble?,ゴタゴタ…？,Gotagota ...?,0.25
-This cocktail is called XYZ.,このカクテルの名はXYZ,This cocktail name is XYZ,0.5714285714285714
-"In other words, the end of the line.",つまり もう後がないって事さ,"In other words, there is no later",0.3076923076923077
-This is the signal Master uses\Nwhen he needs my help.,マスターが俺に助けを求める時の合図だ,It is a signal when the master asks me help,0.3125
-Murder?,殺人？,murder?,1.0
-No way! I'm not going to\Nbe part of any robbery!,やだ！ 誰が強盗の手伝いなんか！,no!Who helps the robbery!,0.2
-Get out of my way!,この店から売り上げをいただいてやる！,Get sales from this store!,0.2
-"Threatening a runaway girl into\Ncommitting a robbery, huh?",家出娘を脅して居直り強盗か？,Hometown and rare robbery?,0.16666666666666666
-Who are you? A detective?!,デカがコルト357マグナムなど 持つかよ,Do you have a decor 357 Magnum or more?,0.21428571428571427
+Gotagota",0.14285714285714285,0.28646722
+Trouble?,ゴタゴタ…？,Gotagota ...?,0.25,0.28950068
+This cocktail is called XYZ.,このカクテルの名はXYZ,This cocktail name is XYZ,0.5714285714285714,0.94165117
+"In other words, the end of the line.",つまり もう後がないって事さ,"In other words, there is no later",0.3076923076923077,0.3784443
+This is the signal Master uses\Nwhen he needs my help.,マスターが俺に助けを求める時の合図だ,It is a signal when the master asks me help,0.3125,0.70844126
+Murder?,殺人？,murder?,1.0,0.99999994
+No way! I'm not going to\Nbe part of any robbery!,やだ！ 誰が強盗の手伝いなんか！,no!Who helps the robbery!,0.2,0.6775728
+Get out of my way!,この店から売り上げをいただいてやる！,Get sales from this store!,0.2,0.20023239
+"Threatening a runaway girl into\Ncommitting a robbery, huh?",家出娘を脅して居直り強盗か？,Hometown and rare robbery?,0.16666666666666666,0.5022103
+Who are you? A detective?!,デカがコルト357マグナムなど 持つかよ,Do you have a decor 357 Magnum or more?,0.21428571428571427,0.17844425
 Let that girl go before I\Nchange my mind.,"俺の気が変わらないうちに
 その子を放すんだ","Before my mind changes
-I enjoyed the child",0.21428571428571427
-Is that so?,な なんだてめえは！ デカか？,What is it!Dick?,0.25
+I enjoyed the child",0.21428571428571427,0.4327199
+Is that so?,な なんだてめえは！ デカか？,What is it!Dick?,0.25,0.11065035
 "At this range, the bullet will go\Nright through my body","その距離で俺を撃てば
 弾は俺の体を突き抜けて","If you shoot me at that distance
-The bullet penetrates my body",0.2777777777777778
-and hit someone outside.,外の奴らに当たるぜ,I hit the outside,0.2857142857142857
+The bullet penetrates my body",0.2777777777777778,0.8221615
+and hit someone outside.,外の奴らに当たるぜ,I hit the outside,0.2857142857142857,0.6006919
 and there's no end to the people.,"ここは繁華街のど真ん中だ
 人の切れ目なんてねえぜ","This is the middle of the downtown area
-There is no human break",0.17647058823529413
-So hand over that gun.,さあ その銃をよこせ,Come on the gun,0.1111111111111111
-Do you think that's going\Nto work on me?,それで俺を脅してるつもりか？,Then do you intend to threaten me?,0.2857142857142857
-Why don't you just stop running\Nyour mouth and try it?,グダグダ言わずにやったらどうだ？,What if you do it without saying it?,0.25
-Mr. Saeba?!,きゃあーっ！,Yes!,0.16666666666666666
+There is no human break",0.17647058823529413,0.32753003
+So hand over that gun.,さあ その銃をよこせ,Come on the gun,0.1111111111111111,0.5385788
+Do you think that's going\Nto work on me?,それで俺を脅してるつもりか？,Then do you intend to threaten me?,0.2857142857142857,0.31861222
+Why don't you just stop running\Nyour mouth and try it?,グダグダ言わずにやったらどうだ？,What if you do it without saying it?,0.25,0.26492617
+Mr. Saeba?!,きゃあーっ！,Yes!,0.16666666666666666,0.24347395
 Sonuva... I'm gonna do it!,"早くするんだ！ さもねえと
 この女がどうなっても知らねえぞー！","I will do it early!Neither
-I know what this woman is up!",0.2222222222222222
-"No, how could...",ああっ…,Oh ...,0.16666666666666666
-The window isn't broken!,ま 窓が割れてない,The window is not broken,0.5714285714285714
-"If the force of the bullet is too great,",弾の威力が強過ぎれば,If the power of bullets is too strong,0.4166666666666667
-"Ryo, how could...",リョウちゃん… あんた,Ryou-chan ...,0.16666666666666666
-I'll leave the rest to you.,適当な物を貫通して弱めればいい,You should weaken the appropriate things,0.16666666666666666
+I know what this woman is up!",0.2222222222222222,0.4071306
+"No, how could...",ああっ…,Oh ...,0.16666666666666666,0.29742905
+The window isn't broken!,ま 窓が割れてない,The window is not broken,0.5714285714285714,0.90967256
+"If the force of the bullet is too great,",弾の威力が強過ぎれば,If the power of bullets is too strong,0.4166666666666667,0.80947274
+"Ryo, how could...",リョウちゃん… あんた,Ryou-chan ...,0.16666666666666666,0.5114425
+I'll leave the rest to you.,適当な物を貫通して弱めればいい,You should weaken the appropriate things,0.16666666666666666,0.25110835
 I think I'll borrow this handkerchief\Nuntil the job is over.,"このハンカチ
 仕事が終わるまで借りておくぜ","This handkerchief
-Borrow until work is over",0.2857142857142857
-"Okay, but...",うっうっ あぁ…,Ume ...,0.2
-It's all right. It's over.,大丈夫よ ね もう大丈夫,All right,0.3333333333333333
-That's what I'm starting to think.,かっこつけ過ぎちゃった あいてえぇ～,"It's too cool, I'm sorry",0.21428571428571427
-Ow! It hurts!,うう～っ！ あっあっ…,Umm!Oh ...,0.14285714285714285
-I want nothing to do with ya' now.,あいつだけは敵に回したくない,I do not want to turn to the enemy only,0.26666666666666666
-I'm fond of being alive.,旦那 あっしゃーあんたから手ぇ引くよ,I'm sorry because my husband is,0.16666666666666666
-The word must'a got around fast.,奴が乗り出して来たんだ,The guy came out,0.08333333333333333
-That high school girl you did?,旦那が手にかけた例の女子高校生,Female high school girl in an example of my husband,0.21428571428571427
+Borrow until work is over",0.2857142857142857,0.8203169
+"Okay, but...",うっうっ あぁ…,Ume ...,0.2,0.2395914
+It's all right. It's over.,大丈夫よ ね もう大丈夫,All right,0.3333333333333333,0.48755708
+That's what I'm starting to think.,かっこつけ過ぎちゃった あいてえぇ～,"It's too cool, I'm sorry",0.21428571428571427,0.013342564
+Ow! It hurts!,うう～っ！ あっあっ…,Umm!Oh ...,0.14285714285714285,0.30355555
+I want nothing to do with ya' now.,あいつだけは敵に回したくない,I do not want to turn to the enemy only,0.26666666666666666,0.23085141
+I'm fond of being alive.,旦那 あっしゃーあんたから手ぇ引くよ,I'm sorry because my husband is,0.16666666666666666,0.29648927
+The word must'a got around fast.,奴が乗り出して来たんだ,The guy came out,0.08333333333333333,0.15343952
+That high school girl you did?,旦那が手にかけた例の女子高校生,Female high school girl in an example of my husband,0.21428571428571427,0.49963877
 "So what you're telling me is to\Ngive up my fun, right?","ふん 冴羽リョウとかいう
 スイーパーの事か？","Hazuki Ryo
-What is a sweeper?",0.16666666666666666
-That ain't it.,てめえの命が 可愛いからな,It is because the life of,0.1
-You...,だ 旦那ー おおぉ おお…,My husband Oh oh ...,0.2
-"The sound of a gunshot, the\Nfragrance of gun smoke,",ふっふふっ 銃の衝撃と硝煙の香り…,Fufu Fujo Gun Impact and Aroma of Military Market ...,0.11764705882352941
-"It's not infected, and the\Nstitches are clean.",も もっと優しく槇ちゃぁ～んぐっ,It is also kind and gentle,0.14285714285714285
-"Be more gentle, Maki!",わあぁーっ！ んぐぐっ,Wow!Rang,0.125
+What is a sweeper?",0.16666666666666666,0.022869663
+That ain't it.,てめえの命が 可愛いからな,It is because the life of,0.1,0.17615706
+You...,だ 旦那ー おおぉ おお…,My husband Oh oh ...,0.2,0.35301173
+"The sound of a gunshot, the\Nfragrance of gun smoke,",ふっふふっ 銃の衝撃と硝煙の香り…,Fufu Fujo Gun Impact and Aroma of Military Market ...,0.1176470588235294,0.38133776
+"It's not infected, and the\Nstitches are clean.",も もっと優しく槇ちゃぁ～んぐっ,It is also kind and gentle,0.14285714285714285,0.23744407
+"Be more gentle, Maki!",わあぁーっ！ んぐぐっ,Wow!Rang,0.125,0.13221847
 "If you were going to scream like this,\Nyou shouldn't have shot your hand.","そんなに喚くんなら
 手に風穴なんぞ開けるなよ","If you do so much
-Don't open the air hole in your hand",0.2
-Shooting so you missed the bones.,骨と骨の間をぶち抜くとは,If you hit between bones and bones,0.18181818181818182
-What did you expect?! I'm not\Nso stupid,化膿もしてないし 縫い目も綺麗だ,I'm not suppus or the seam is also beautiful,0.1111111111111111
-"So, what kind of info did this\Nhand buy us?",この手の代償はどんな情報だよ？,What information is the compensation of this hand?,0.17647058823529413
+Don't open the air hole in your hand",0.2,0.37256515
+Shooting so you missed the bones.,骨と骨の間をぶち抜くとは,If you hit between bones and bones,0.18181818181818185,0.57595485
+What did you expect?! I'm not\Nso stupid,化膿もしてないし 縫い目も綺麗だ,I'm not suppus or the seam is also beautiful,0.1111111111111111,0.15312897
+"So, what kind of info did this\Nhand buy us?",この手の代償はどんな情報だよ？,What information is the compensation of this hand?,0.17647058823529413,0.2889426
 The killer drives a white BMW.,"-犯人の乗り回してる車は白のBMW
 -ふう ふう ふう ふーっ","-Brifugation of the criminal is white BMW
--The Fu Fu Fu",0.23076923076923078
-That's it?,それだけか？,Is it just?,0.3333333333333333
-"No, there's one more thing.",いや もうひとつある,No more,0.25
-"That informant, Ken, was killed.",情報屋の建が殺された,The information store was killed,0.2
-The car the killer was driving\Nwas also a white BMW.,殺して逃げた奴の車も 白のBMW,The car of the person who ran away is also white BMW,0.3125
-And now we know who he'll\Ngo after next.,奴が次に狙う犠牲者が決まったな,The victim who aims for the next time is decided,0.125
-Damn!,ちっ！,Chicken!,0.3333333333333333
-Miss Natsumi...,えっ！ さ 冴羽さん…,eh!Mr. Saima ...,0.125
+-The Fu Fu Fu",0.2307692307692308,0.53058434
+That's it?,それだけか？,Is it just?,0.3333333333333333,0.3475225
+"No, there's one more thing.",いや もうひとつある,No more,0.25,0.37036622
+"That informant, Ken, was killed.",情報屋の建が殺された,The information store was killed,0.2,0.4509677
+The car the killer was driving\Nwas also a white BMW.,殺して逃げた奴の車も 白のBMW,The car of the person who ran away is also white BMW,0.3125,0.7893225
+And now we know who he'll\Ngo after next.,奴が次に狙う犠牲者が決まったな,The victim who aims for the next time is decided,0.125,0.2924632
+Damn!,ちっ！,Chicken!,0.3333333333333333,0.20914534
+Miss Natsumi...,えっ！ さ 冴羽さん…,eh!Mr. Saima ...,0.125,0.30866662
 "Man, I was getting worried,\Nbecause you were late.","いやあ あんまし帰りが遅いんで
 心配しちゃった僕ー","No, I'm late for the return
-Worried I'm worried",0.25
-What do you think you're doing\Nentering my home without permission?,あなた 一体どうやってこの部屋へ？,How do you go to this room?,0.1875
+Worried I'm worried",0.25,0.634403
+What do you think you're doing\Nentering my home without permission?,あなた 一体どうやってこの部屋へ？,How do you go to this room?,0.1875,0.22265922
 "Oh, I see you bought me\Nsome new pajamas!","あ 俺のパジャマ 買って来てくれたの？
 気が利くなあー","Oh, did you buy my pajamama?
-I'm sorry",0.23529411764705882
-Pajamas?,パジャマ？,pajamas?,1.0
-A toothbrush would be nice too.,歯ブラシなんかもあるといいなあ,I wish I had a toothbrush,0.2
-What do you mean?,どういう意味,What do you mean,0.8
+I'm sorry",0.2352941176470588,0.53719056
+Pajamas?,パジャマ？,pajamas?,1.0,0.99999994
+A toothbrush would be nice too.,歯ブラシなんかもあるといいなあ,I wish I had a toothbrush,0.2,0.75980765
+What do you mean?,どういう意味,What do you mean,0.8,0.726316
 "In order to ensure my client's safety,","依頼人の安全を守るには
 出来るだけそばにいる事が必要なんだ","To protect the safety of the client
-It is necessary to be by the only side",0.15789473684210525
-it is essential that I stay as\Nclose as possible.,今夜から ここに泊まるから よろしくー,I'll stay here tonight,0.15384615384615385
+It is necessary to be by the only side",0.15789473684210525,0.7590453
+it is essential that I stay as\Nclose as possible.,今夜から ここに泊まるから よろしくー,I'll stay here tonight,0.15384615384615385,0.2928492
 "If you won't leave, I will.","あなたが出て行かないのなら
 あたしが出て行きます","If you don't go out
-I will go out",0.4166666666666667
-Please get out of my way.,どけて下さい,Please,0.14285714285714285
-Weren't you followed?,誰かにつけられなかった？,Didn't someone put it?,0.2222222222222222
+I will go out",0.4166666666666667,0.45345908
+Please get out of my way.,どけて下さい,Please,0.14285714285714285,0.3998682
+Weren't you followed?,誰かにつけられなかった？,Didn't someone put it?,0.2222222222222222,0.21782476
 The man who killed your sister\Nis after you now.,"妹さんを殺した犯人
 今度は君を狙ってくる","A criminal who killed my sister
-This time I'm aiming for you",0.15
+This time I'm aiming for you",0.15,0.6568552
 How do you think he's avoided\Nthe cops all this time?,"今まで奴は なぜサツに
 尻尾をつかまれなかったと思う？","The guy until now is Zatsu
-Do you think you did not get tail?",0.18181818181818182
-That informant was murdered tonight.,そのタレコミ屋が殺された,The talf shop was killed,0.1
-Murdered?,あたしを…？,I ...??,0.25
-So that creepy car...,あっ すると さっきの変な車…,If there is a strange car ...,0.2
-"That white BMW, you mean?",白いBMWの事かい？,Do you have a white BMW?,0.4
-How did you know?,こ 殺された？,Did you kill this?,0.42857142857142855
-"Now that you get it, go on to bed.",分かったら 早く寝るんだな,I will go to bed early if I understand,0.1875
+Do you think you did not get tail?",0.18181818181818185,0.15110594
+That informant was murdered tonight.,そのタレコミ屋が殺された,The talf shop was killed,0.1,0.44204715
+Murdered?,あたしを…？,I ...??,0.25,0.19905066
+So that creepy car...,あっ すると さっきの変な車…,If there is a strange car ...,0.2,0.66323143
+"That white BMW, you mean?",白いBMWの事かい？,Do you have a white BMW?,0.4,0.8465132
+How did you know?,こ 殺された？,Did you kill this?,0.42857142857142855,0.2074083
+"Now that you get it, go on to bed.",分かったら 早く寝るんだな,I will go to bed early if I understand,0.1875,0.44500697
 Somehow I get the feeling\NI've been had.,"何か うまく乗せられちゃった
 気もするけど","Something was put well
-I feel like",0.06666666666666667
-"Natsumi, your safety is...",菜摘さーん 君の安全は…,Nakana's safety ...,0.25
-It would be safer if you slept\Nwith me though.,一緒に寝た方が安全なんだけどなあー,"If you go to bed together, it's safe",0.17647058823529413
+I feel like",0.06666666666666668,0.4770832
+"Natsumi, your safety is...",菜摘さーん 君の安全は…,Nakana's safety ...,0.25,0.5749922
+It would be safer if you slept\Nwith me though.,一緒に寝た方が安全なんだけどなあー,"If you go to bed together, it's safe",0.17647058823529413,0.65645903
 "I have the utmost confidence\Nin you as a sweeper,","あたしはスイーパーとしての
 あなたは信用したけど","As a sweeper
-I trusted it",0.3333333333333333
+I trusted it",0.3333333333333333,0.65407664
 How am I supposed to sleep after\Nall that talk?,"も～ あんな話するから
 眠れなくなっちゃったじゃない","Because I talk like that
-I can not sleep",0.2857142857142857
-"Mr. Saeba, can I really trust you?",ほんとに信用していいの？,Can I really trust?,0.5555555555555556
+I can not sleep",0.2857142857142857,0.68059385
+"Mr. Saeba, can I really trust you?",ほんとに信用していいの？,Can I really trust?,0.5555555555555556,0.4684897
 "You'll sleep with me as\Na sweeper, right?","スイーパーとして
 一緒に寝てくれるのよね？","As a sweeper
-You will sleep together, right?",0.42857142857142855
-Mr. Saeba died instead of me.,ああ あたしの代わりに… うっうっ ぬっ,"Oh, instead of ... I'm sorry",0.15384615384615385
-What am I going to do?,これからどうすればいいの？,What should I do from now on?,0.36363636363636365
-Who is it?,ううっ ああーっ！ あっ だだ だ誰？,"Uhua!Oh, who is it?",0.5
-"Just like I thought, one cute behind!",わあーっ 思った通り 可愛いお尻ちゃん,"Wow, as I thought, the cute butt",0.3076923076923077
+You will sleep together, right?",0.42857142857142855,0.8299848
+Mr. Saeba died instead of me.,ああ あたしの代わりに… うっうっ ぬっ,"Oh, instead of ... I'm sorry",0.15384615384615385,0.22302109
+What am I going to do?,これからどうすればいいの？,What should I do from now on?,0.3636363636363637,0.67419213
+Who is it?,ううっ ああーっ！ あっ だだ だ誰？,"Uhua!Oh, who is it?",0.5,0.45291278
+"Just like I thought, one cute behind!",わあーっ 思った通り 可愛いお尻ちゃん,"Wow, as I thought, the cute butt",0.3076923076923077,0.51828223
 A wig and a pillow with a little\Nketchup thrown in!,"かつらと枕 ケチャップの
 血のりサービス付き","Wig and pillow ketchup
-With bloody service",0.3333333333333333
-"Voila, infrared instant photo.",はい 赤外線のインスタント写真だ,Yes Infrared Instant Photos,0.25
+With bloody service",0.3333333333333333,0.56145364
+"Voila, infrared instant photo.",はい 赤外線のインスタント写真だ,Yes Infrared Instant Photos,0.25,0.86769056
 "Now that we know his face, we'll be\Nable to find him before the day is out.","面が割れてしまえば 奴の居所なんて
 今日中にも分かるさ","If the face is broken, there is a whereabout
-I understand during today",0.14814814814814814
-Well...,うぅそ…,Uh ...,0.3333333333333333
-"One thing's for sure,",なかなかいい男に写ってるね～,It's a pretty good man ~,0.08333333333333333
-he made a fatal error when he\Nmessed with a pro like me.,それに 奴は大きなヘマをした,That's why he did a big hema,0.1111111111111111
+I understand during today",0.14814814814814814,0.51722103
+Well...,うぅそ…,Uh ...,0.3333333333333333,0.62653834
+"One thing's for sure,",なかなかいい男に写ってるね～,It's a pretty good man ~,0.08333333333333333,0.22903305
+he made a fatal error when he\Nmessed with a pro like me.,それに 奴は大きなヘマをした,That's why he did a big hema,0.1111111111111111,0.18528299
 "Excuse me, Miss. Could you give\Nme some directions?","あ あの すいませんお嬢さん
 道を教えてくれませんか？","Oh, I'm sorry
-Could you tell me the way?",0.2777777777777778
-"Hey, wait!",きゃーっ！,き き!,0.2
-Lot's of pretty girls! Extra\Nspecial service!,いい子がいっぱい モッコリサービス,Mokkokori service full of good children,0.16666666666666666
+Could you tell me the way?",0.2777777777777778,0.48477477
+"Hey, wait!",きゃーっ！,き き!,0.2,0.186193
+Lot's of pretty girls! Extra\Nspecial service!,いい子がいっぱい モッコリサービス,Mokkokori service full of good children,0.16666666666666666,0.31763455
 He knows who I am.,"ええい くそっ 誰だ
 こんなイタズラしたのは","Yes who are
-Such mischief",0.1
-"Hold it, you!",君君,You,0.2
-"You're in such a hurry, has\Nsomething happened?",そんなに慌てて 何かあったのかね？,Is there anything that happened so much?,0.125
-It looks like there's something\Non your back.,背中に何か 付けてるようだが,It seems that something is attached to the back,0.125
-This is...,はっ まったく 誰がこんなイタズラを…,Who is all right ...,0.3333333333333333
-"Well, be careful now.",ま 気をつけるんだね,I feel careful,0.125
+Such mischief",0.1,0.17307815
+"Hold it, you!",君君,You,0.2,0.37278143
+"You're in such a hurry, has\Nsomething happened?",そんなに慌てて 何かあったのかね？,Is there anything that happened so much?,0.125,0.5213442
+It looks like there's something\Non your back.,背中に何か 付けてるようだが,It seems that something is attached to the back,0.125,0.7547533
+This is...,はっ まったく 誰がこんなイタズラを…,Who is all right ...,0.3333333333333333,0.2924503
+"Well, be careful now.",ま 気をつけるんだね,I feel careful,0.125,0.6214864
 "It's turn myself in or die, huh?","く くそー 死にたくなければ
 自首しろってのか","If you don't want to die
-Do you have your own?",0.10526315789473684
-He's letting me know he can\Nkill me anytime.,そうはいくかー,Let's go so,0.09090909090909091
-We'll see about that!,うううっ！,Umm!,0.14285714285714285
-"Oh well, and despite my show\Nof concern for him.",おっ,Oh,0.09090909090909091
+Do you have your own?",0.10526315789473684,0.3721441
+He's letting me know he can\Nkill me anytime.,そうはいくかー,Let's go so,0.09090909090909093,0.26318106
+We'll see about that!,うううっ！,Umm!,0.14285714285714285,0.2571704
+"Oh well, and despite my show\Nof concern for him.",おっ,Oh,0.09090909090909093,0.17812057
 "Well, I guess we'll follow him then.","やれやれ 人がせっかく
 心配してやってるってのに","People are doing well
-I'm worried about it",0.11764705882352941
-"City Hunter is after me, huh?",ふん シティーハンターめ 来たな,I came to the city hunter,0.16666666666666666
-First time I've taken a stroll through\Nthe park in a car.,車で公園のお散歩なんて 初めて,It is the first time to take a walk in the park by car,0.3157894736842105
-"Some tricky driving here, you okay?",荒い運転だが 大丈夫か？,"It's rough driving, is it okay?",0.3333333333333333
+I'm worried about it",0.1176470588235294,0.09264537
+"City Hunter is after me, huh?",ふん シティーハンターめ 来たな,I came to the city hunter,0.16666666666666666,0.80625504
+First time I've taken a stroll through\Nthe park in a car.,車で公園のお散歩なんて 初めて,It is the first time to take a walk in the park by car,0.3157894736842105,0.80486006
+"Some tricky driving here, you okay?",荒い運転だが 大丈夫か？,"It's rough driving, is it okay?",0.3333333333333333,0.63360447
 "I'd rather you sped up, so\Nyou don't lose him,","逃がさないように もっと
 スピードを上げて下さい！","Don't miss it
-Please speed up!",0.17647058823529413
-What? Faster than this?,えー これ以上？,Eh? More than this?,0.42857142857142855
-The fun and games are over.,諦めて警察へ行ってもらおうか,Give up and ask the police,0.18181818181818182
-Give me that!,貸してっ！,Lend!,0.2
+Please speed up!",0.17647058823529413,0.39451632
+What? Faster than this?,えー これ以上？,Eh? More than this?,0.42857142857142855,0.37653273
+The fun and games are over.,諦めて警察へ行ってもらおうか,Give up and ask the police,0.18181818181818185,0.18464048
+Give me that!,貸してっ！,Lend!,0.2,0.28292727
 I'm not letting the police have you!,"-警察の手なんかに渡さないわ！
 -うっ…","-What does not pass to the police hand!
-- Uh ...",0.23529411764705882
+- Uh ...",0.2352941176470588,0.5079622
 I'm going to avenge my sister right\Nhere with my own hand!,"あたしが あたしがこの手で
 妹の仇を討ってやるわ！","I am with this hand
-I will try my sister's welcome!",0.3333333333333333
-Wait a minute! I'm sorry!,まま待て う撃つな お俺が悪かった,I was not able to wait for waiting,0.15384615384615385
-"Mr. Saeba,",ふっ ふふふっ ふふっ ふっふっ はぁ…,Fufufu Fufu Fufu Fufu ...,0.0
-I can't shoot him.,あたし撃てない… ううっ,I can't shoot ...,0.5714285714285714
+I will try my sister's welcome!",0.3333333333333333,0.45796928
+Wait a minute! I'm sorry!,まま待て う撃つな お俺が悪かった,I was not able to wait for waiting,0.15384615384615385,0.25072202
+"Mr. Saeba,",ふっ ふふふっ ふふっ ふっふっ はぁ…,Fufufu Fufu Fufu Fufu ...,0.0,0.21528931
+I can't shoot him.,あたし撃てない… ううっ,I can't shoot ...,0.5714285714285714,0.7892839
 Watch out!,"-危ない！
 -あっ！","-Dangerous! 
- -Ah!",0.2
-"Mr. Saeba, he's getting away!",冴羽さん あの男が逃げてしまうわ,Mr. Atsushi That man will run away,0.15384615384615385
-"No, he'll be back.",いや 奴は戻って来る,No guy comes back,0.2222222222222222
-I'll kill him.,殺してやる,Kill,0.2
-That's what guys like me are for.,だからこそ 俺の様な男がいるのさ…,That's why I have a man like me ...,0.26666666666666666
-"Hey, everyone feeling Mokkori\Nout there?",皆ー モッコリしてるかな？,Everyone is mokkori?,0.2222222222222222
+ -Ah!",0.2,0.28780755
+"Mr. Saeba, he's getting away!",冴羽さん あの男が逃げてしまうわ,Mr. Atsushi That man will run away,0.15384615384615385,0.5346858
+"No, he'll be back.",いや 奴は戻って来る,No guy comes back,0.2222222222222222,0.54230326
+I'll kill him.,殺してやる,Kill,0.2,0.5493934
+That's what guys like me are for.,だからこそ 俺の様な男がいるのさ…,That's why I have a man like me ...,0.26666666666666666,0.54031897
+"Hey, everyone feeling Mokkori\Nout there?",皆ー モッコリしてるかな？,Everyone is mokkori?,0.2222222222222222,0.79699945
 My client is a scientist named\NMitsuko Shimizu?,"何？ 依頼人は清水美津子っていう
 化学者？","what?The client says Shimizu Mitsuko
-Chemist?",0.23076923076923078
+Chemist?",0.2307692307692308,0.6465788
 "She's a scientist, so she must be some\Nold maid with thick glasses.","とんでもない細菌を作っちゃって
 狙われてる","I made a bacteria
-Be targeted",0.1111111111111111
+Be targeted",0.1111111111111111,0.113734454
 I'll do it! I can handle this!,"え？ とびっきりの美女？ やるやる
 僕ちゃん この依頼やる！","picture?And surprise beautiful girl?Run
-I will request this request!",0.17647058823529413
-I'll show you my Mokkori power!,んふっ 俺のモッコリパワーを見せてやる,I will show me my mockoli power,0.36363636363636365
+I will request this request!",0.17647058823529413,0.28725103
+I'll show you my Mokkori power!,んふっ 俺のモッコリパワーを見せてやる,I will show me my mockoli power,0.3636363636363637,0.50837094
 "Next City Hunter: ""Please Kill Me!\NCrosshairs Don't Become a Pretty Girl""","次回 「私を殺して！！
 美女に照準は似合わない」","Next time ""kill me!!
-The beauty does not look good. """,0.20833333333333334
-Please watch!,やめやめ やだ！,Stop!,0.25
+The beauty does not look good. """,0.20833333333333331,0.50294834
+Please watch!,やめやめ やだ！,Stop!,0.25,0.42181733

@@ -1,118 +1,118 @@
-en_text,jp_text,google_translated,score
-"Good morning, Roger.",おはよう ロジャー,Good morning Roger,0.6
-"Come on, Dorothy... It's the crack of dawn.",頼むドロシー 朝から,From the Dorothy morning to ask,0.125
-"No, it's already after noon.",いいえ もう午後よ,No no afternoon,0.1111111111111111
-I've decided to do this whenever you stay in bed late.,起きるのが遅い時はこうするって決めたの,"When it was late to get up, I decided to do this",0.3157894736842105
-"What's the matter, sir? I thought you didn't have anything scheduled today.",どうなさいました？　本日外出のご予定は,may I help you?Schedule for going out today,0.17391304347826086
-I'm going to go see an old friend.,旧い友人に会ってくる,I will meet an old friend,0.3333333333333333
-You're taking Dorothy with you?,ドロシーをお連れになってでございますか？,Do you have a Dorothy?,0.3333333333333333
-It's for my peace of mind.,私の爽やかな寝覚めのためだ,It is for my refreshing sleeping,0.2727272727272727
-Waking up pleasantly is something I hold dear.,とても大切なことだと考えている,I think it is a very important thing,0.13333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+"Good morning, Roger.",おはよう ロジャー,Good morning Roger,0.6,0.9127915
+"Come on, Dorothy... It's the crack of dawn.",頼むドロシー 朝から,From the Dorothy morning to ask,0.125,0.61061525
+"No, it's already after noon.",いいえ もう午後よ,No no afternoon,0.1111111111111111,0.56930435
+I've decided to do this whenever you stay in bed late.,起きるのが遅い時はこうするって決めたの,"When it was late to get up, I decided to do this",0.3157894736842105,0.6983237
+"What's the matter, sir? I thought you didn't have anything scheduled today.",どうなさいました？　本日外出のご予定は,may I help you?Schedule for going out today,0.17391304347826084,0.45318317
+I'm going to go see an old friend.,旧い友人に会ってくる,I will meet an old friend,0.3333333333333333,0.7756676
+You're taking Dorothy with you?,ドロシーをお連れになってでございますか？,Do you have a Dorothy?,0.3333333333333333,0.75048554
+It's for my peace of mind.,私の爽やかな寝覚めのためだ,It is for my refreshing sleeping,0.2727272727272727,0.42817456
+Waking up pleasantly is something I hold dear.,とても大切なことだと考えている,I think it is a very important thing,0.13333333333333333,0.1703142
 "But unfortunately, her harsh repertoire is preventing that.","彼女の極端過ぎるレパートリーは
 その妨げでしかない","Her extreme repertoire
-It is only obstructed",0.21428571428571427
-Dorothy.,ドロシー,Dorothy,0.5
-Good ears.,さすがにいい勘だ,I'm really good,0.16666666666666666
-"Roger, I think the sonata this person is playing is excellent, but...",確かにこの人の弾くソナタは見事だと思うわ,"Certainly, I think Sonata who plays this person is wonderful",0.4117647058823529
-But...,でも,but,0.5
-It's more sincere.,譜面に誠実なんだ,It is sincere with the music,0.2222222222222222
-"Take a look, Dorothy.",見てごらん ドロシー,Looking at Dorothy,0.125
-"It's been a long time, Roger Smith.",久しぶりですね ロジャー・スミス,It's been a long time Roger Smith,0.8
-"Your legato's as beautiful as ever, Instro.",レガートの美しさは相変わらずだな,Legato beauty is still as usual,0.15384615384615385
-Thank you.,有難うございます,Thank you,0.6666666666666666
-"Dorothy, this is R. Instro.",ドロシー 彼はR・インストル,Dorothy he is an R / instrument,0.16666666666666666
-"That hasn't changed, either.",それも変わっていないな,It has not changed,0.2222222222222222
-Amadeus? That's the name of this pub.,アマデウスって このお店の名前よね,Amadeus is the name of this shop,0.4166666666666667
-That's right.,そうです,that's right,0.75
-My father left this piano to me.,あのピアノは父が私に残してくれた物なんです,That piano is something that my father left me,0.45454545454545453
-He was a man who loved the piano.,ピアノをとても愛した人でした,It was a person who loved the piano very much,0.46153846153846156
-"Actually, there's something that only your talent can help me with.",ところで君の変わらぬ腕前を見込んで,"By the way, in the prospect of your change",0.09523809523809523
-What's that?,何でしょう,What is,0.2
-Could you teach Dorothy that song you just played?,ドロシーに今の曲を教えてくれないだろうか,Will you tell me the current song to Dorothy?,0.26666666666666666
-"I'd be glad to, if you don't mind.",何より嬉しかった,I was glad to,0.23076923076923078
-"Her fortissimo is forceful, and her pianissimo is very delicate.",ピアニッシモは極めて繊細です,Pianissimo is extremely delicate,0.2727272727272727
-Her pedal control is impeccable.,ペダルのコントロールも申し分ありません,The control of the pedal is also necessary,0.3
-I thought that you might teach her your mental approach to the piano.,君のピアノへの接し方が,How to contact your piano,0.1875
-Again with your difficult requests...,また難しいことを仰る,See you again,0.125
-"A beautiful performance as always, Instro.",相変わらず素晴らしい演奏だな,It is a wonderful performance as usual,0.25
-"Oh, I'm sorry. I just assumed.",ああ失礼 私はてっきり,"Oh, I'm sorry I'm sorry",0.625
-Mister!,ミスター ギーゼング　彼女のレッスンの最中です,Mr. Geasing Mister Geasing Her Lesson,0.16666666666666666
-"Instro, you still aren't interested in fulfilling your father's legacy?",まだ遺産を相続する気にはなってくれないのかい,I still don't care about the heritage,0.1
-Today's...,今日は,today,0.3333333333333333
-I'm terribly sorry.,申し訳ありません,I'm sorry,0.6
-"Instro, who was that gentleman just now?",インストル 今の紳士は,Installation Now,0.1
-"Let's pick up where we left off, Miss Dorothy.",そうか だったら日を改めよう,"If so, let's change the day",0.17647058823529413
-"No, I haven't been in there since you quit.",久しく行ってないが,I have not been for a long time,0.17647058823529413
-Have you ever heard of a man by the name of Gieseng?,ギーゼングという男を知っているか,Do you know a man called Geasing,0.1875
-Where did you hear that name?,どうしてその名前を,Why is that name,0.2222222222222222
-Just a minute.,ちょっと待て,wait a minute,0.4
-"Compared to Instro's piano, the tuning on this one is a little weak.",インストルのピアノに比べると調律が甘いわね,The tuning is sweet compared to the cat piano,0.3333333333333333
-"It doesn't, really.",ほう 意外ですな,It is surprising,0.125
-"You know that Amadeus died in a lab accident, right?",アマデウスが研究中の事故で亡くなったことは,It is that Amadeus died in the accident during research,0.29411764705882354
-Joint researcher... Gieseng's a scientist?,共同研究者 ギーゼングは科学者なのか,Is a joint researcher Geezing scientist?,0.5
-Yeah.,あ,Ah,0.0
-"Well, I don't know what's he doing now, though.",いや 今はどうだか知らんがな,"No, I do not know how",0.25
-"After Amadeus' death, their funding from Paradigm was cut off.",アマデウスの死後彼らの研究に対する,Death of Amadeus for their study,0.1875
-From Paradigm?,パラダイムからの,From paradigm,0.6666666666666666
-The accident was caused by a phonosonic machine going haywire?,事故の原因はフォノソニックマシンの暴走？,The cause of the accident is the runaway of the Phonosonic machine?,0.3333333333333333
+It is only obstructed",0.21428571428571427,0.8111502
+Dorothy.,ドロシー,Dorothy,0.5,0.96945727
+Good ears.,さすがにいい勘だ,I'm really good,0.16666666666666666,0.3088215
+"Roger, I think the sonata this person is playing is excellent, but...",確かにこの人の弾くソナタは見事だと思うわ,"Certainly, I think Sonata who plays this person is wonderful",0.4117647058823529,0.816221
+But...,でも,but,0.5,0.72232324
+It's more sincere.,譜面に誠実なんだ,It is sincere with the music,0.2222222222222222,0.62812984
+"Take a look, Dorothy.",見てごらん ドロシー,Looking at Dorothy,0.125,0.851676
+"It's been a long time, Roger Smith.",久しぶりですね ロジャー・スミス,It's been a long time Roger Smith,0.8,0.9514818
+"Your legato's as beautiful as ever, Instro.",レガートの美しさは相変わらずだな,Legato beauty is still as usual,0.15384615384615385,0.58822274
+Thank you.,有難うございます,Thank you,0.6666666666666666,0.7717478
+"Dorothy, this is R. Instro.",ドロシー 彼はR・インストル,Dorothy he is an R / instrument,0.16666666666666666,0.63338685
+"That hasn't changed, either.",それも変わっていないな,It has not changed,0.2222222222222222,0.71251607
+Amadeus? That's the name of this pub.,アマデウスって このお店の名前よね,Amadeus is the name of this shop,0.4166666666666667,0.65367997
+That's right.,そうです,that's right,0.75,0.8883221
+My father left this piano to me.,あのピアノは父が私に残してくれた物なんです,That piano is something that my father left me,0.4545454545454545,0.92426795
+He was a man who loved the piano.,ピアノをとても愛した人でした,It was a person who loved the piano very much,0.4615384615384616,0.89407676
+"Actually, there's something that only your talent can help me with.",ところで君の変わらぬ腕前を見込んで,"By the way, in the prospect of your change",0.09523809523809523,0.23210697
+What's that?,何でしょう,What is,0.2,0.30163914
+Could you teach Dorothy that song you just played?,ドロシーに今の曲を教えてくれないだろうか,Will you tell me the current song to Dorothy?,0.26666666666666666,0.7745178
+"I'd be glad to, if you don't mind.",何より嬉しかった,I was glad to,0.2307692307692308,0.40522093
+"Her fortissimo is forceful, and her pianissimo is very delicate.",ピアニッシモは極めて繊細です,Pianissimo is extremely delicate,0.2727272727272727,0.7226776
+Her pedal control is impeccable.,ペダルのコントロールも申し分ありません,The control of the pedal is also necessary,0.3,0.63597745
+I thought that you might teach her your mental approach to the piano.,君のピアノへの接し方が,How to contact your piano,0.1875,0.46332854
+Again with your difficult requests...,また難しいことを仰る,See you again,0.125,0.35010394
+"A beautiful performance as always, Instro.",相変わらず素晴らしい演奏だな,It is a wonderful performance as usual,0.25,0.59487617
+"Oh, I'm sorry. I just assumed.",ああ失礼 私はてっきり,"Oh, I'm sorry I'm sorry",0.625,0.6026146
+Mister!,ミスター ギーゼング　彼女のレッスンの最中です,Mr. Geasing Mister Geasing Her Lesson,0.16666666666666666,0.4082081
+"Instro, you still aren't interested in fulfilling your father's legacy?",まだ遺産を相続する気にはなってくれないのかい,I still don't care about the heritage,0.1,0.29031622
+Today's...,今日は,today,0.3333333333333333,0.7062924
+I'm terribly sorry.,申し訳ありません,I'm sorry,0.6,0.72252727
+"Instro, who was that gentleman just now?",インストル 今の紳士は,Installation Now,0.1,0.061255462
+"Let's pick up where we left off, Miss Dorothy.",そうか だったら日を改めよう,"If so, let's change the day",0.17647058823529413,0.18207724
+"No, I haven't been in there since you quit.",久しく行ってないが,I have not been for a long time,0.17647058823529413,0.46984833
+Have you ever heard of a man by the name of Gieseng?,ギーゼングという男を知っているか,Do you know a man called Geasing,0.1875,0.5891101
+Where did you hear that name?,どうしてその名前を,Why is that name,0.2222222222222222,0.46028066
+Just a minute.,ちょっと待て,wait a minute,0.4,0.63875
+"Compared to Instro's piano, the tuning on this one is a little weak.",インストルのピアノに比べると調律が甘いわね,The tuning is sweet compared to the cat piano,0.3333333333333333,0.76031816
+"It doesn't, really.",ほう 意外ですな,It is surprising,0.125,0.23136671
+"You know that Amadeus died in a lab accident, right?",アマデウスが研究中の事故で亡くなったことは,It is that Amadeus died in the accident during research,0.29411764705882354,0.87738574
+Joint researcher... Gieseng's a scientist?,共同研究者 ギーゼングは科学者なのか,Is a joint researcher Geezing scientist?,0.5,0.77628195
+Yeah.,あ,Ah,0.0,0.5100359
+"Well, I don't know what's he doing now, though.",いや 今はどうだか知らんがな,"No, I do not know how",0.25,0.14905217
+"After Amadeus' death, their funding from Paradigm was cut off.",アマデウスの死後彼らの研究に対する,Death of Amadeus for their study,0.1875,0.6167761
+From Paradigm?,パラダイムからの,From paradigm,0.6666666666666666,0.94980276
+The accident was caused by a phonosonic machine going haywire?,事故の原因はフォノソニックマシンの暴走？,The cause of the accident is the runaway of the Phonosonic machine?,0.3333333333333333,0.93836594
 "Yeah. I don't know what he was trying to do with sound waves,","ああ 音波を使って
 何をやろうとしていたのかは知らんが","Oh, use the sound wave
-I do not know what I was trying to do",0.45
+I do not know what I was trying to do",0.45,0.73143506
 but half of Amadeus' mansion was totally blown away.,"アマデウスの屋敷は
 半分がすっぽり無くなっていた","Amadeus house
-Half was sloppy",0.23076923076923078
-"No debris anywhere, huh?",え？,picture?,0.14285714285714285
-"Roger, please... Bring Instro back safely.",ロジャーお願い インストルを無事に救い出して,Roger Submit the instrument safely,0.16666666666666666
+Half was sloppy",0.2307692307692308,0.6988236
+"No debris anywhere, huh?",え？,picture?,0.14285714285714285,0.21093039
+"Roger, please... Bring Instro back safely.",ロジャーお願い インストルを無事に救い出して,Roger Submit the instrument safely,0.16666666666666666,0.31207052
 It's surprising to hear those words coming out of your mouth.,"君の口からそんな言葉が出るとは
 意外な気もするが","It is because such words come out from your mouth
-I feel unexpectedly",0.23809523809523808
-"All right, Dorothy.",分かったドロシー,Dorothy I understand,0.14285714285714285
-I'll be able to play that song better.,あの曲をもっと上手く弾けるようになるわ,It will be able to play that song more well,0.42857142857142855
-Is Instro here?,で 報酬は？,Is it reward?,0.3333333333333333
-This house used to be Amadeus' old lab.,この屋敷はかつてアマデウスの,This house was once in Amadeus,0.23076923076923078
-It can't be!,研究所だった場所だからな,Because it was a place where it was a laboratory,0.09090909090909091
-Roger Smith... What's he doing here?,ロジャー・スミス どうして,Roger Smith Why,0.2
-Yes. This is my father's legacy.,ええ 父の遺産です,Yeah Father's Heritage,0.2
-And I'm his instrument.,そして私は インストルメント,And I am instrument,0.42857142857142855
-I was a tool to be used to activate my father's legacy.,父の遺産を起動させる為の道具だったのです,It was a tool to launch my father's heritage,0.4375
-I...,私は,I,0.5
-I was never a pianist!,ピアニストなどではなかった,It was not a pianist,0.375
-"What are you doing, Instro?",何をしておる インストル,What to do,0.1111111111111111
-"So that's the phonosonic machine, huh?",それがフォノソニックマシンか,Is it a phonosonic machine?,0.25
-Instro! Aren't you going to carry out your father's wishes?!,インストル き 貴様は父の願いを叶えるつもりか,Do you intend to make Father's wish?,0.2777777777777778
-Your father's wishes?,父の願い,Father's wish,0.3333333333333333
+I feel unexpectedly",0.2380952380952381,0.6802248
+"All right, Dorothy.",分かったドロシー,Dorothy I understand,0.14285714285714285,0.7847613
+I'll be able to play that song better.,あの曲をもっと上手く弾けるようになるわ,It will be able to play that song more well,0.42857142857142855,0.7896569
+Is Instro here?,で 報酬は？,Is it reward?,0.3333333333333333,0.105876885
+This house used to be Amadeus' old lab.,この屋敷はかつてアマデウスの,This house was once in Amadeus,0.2307692307692308,0.7522211
+It can't be!,研究所だった場所だからな,Because it was a place where it was a laboratory,0.09090909090909093,0.13123505
+Roger Smith... What's he doing here?,ロジャー・スミス どうして,Roger Smith Why,0.2,0.6874003
+Yes. This is my father's legacy.,ええ 父の遺産です,Yeah Father's Heritage,0.2,0.57432985
+And I'm his instrument.,そして私は インストルメント,And I am instrument,0.42857142857142855,0.8140409
+I was a tool to be used to activate my father's legacy.,父の遺産を起動させる為の道具だったのです,It was a tool to launch my father's heritage,0.4375,0.73887396
+I...,私は,I,0.5,0.593205
+I was never a pianist!,ピアニストなどではなかった,It was not a pianist,0.375,0.79654574
+"What are you doing, Instro?",何をしておる インストル,What to do,0.1111111111111111,0.29184198
+"So that's the phonosonic machine, huh?",それがフォノソニックマシンか,Is it a phonosonic machine?,0.25,0.9139787
+Instro! Aren't you going to carry out your father's wishes?!,インストル き 貴様は父の願いを叶えるつもりか,Do you intend to make Father's wish?,0.2777777777777778,0.6327454
+Your father's wishes?,父の願い,Father's wish,0.3333333333333333,0.79709595
 I'm told that my father was a scientist who was abandoned by Paradigm.,"私の父はパラダイム社に捨てられた
 科学者だったそうです","My father was thrown away by paradigm company
-He was scientist",0.3333333333333333
-"He built Constanze to get revenge, so they killed him.",そして パラダイム社への復讐の為に,And for revenge to paradigm,0.13333333333333333
-It wasn't your father who was abandoned by Paradigm.,パラダイムに捨てられたのは君の父親じゃない,It is not your father who was thrown away by the paradigm,0.4666666666666667
-"Isn't that right, Gieseng?!",そうだろ ギーゼング,That's right Geasing,0.2
-"Mr. Gieseng, please put down the staff.",ミスター ギーゼング　杖を下ろしなさい,Lower the Mister Geasing Cane,0.07692307692307693
-I'll carry out your and my father's wish.,あなたと父の願いは私が果たす,I and my father's wishes are me,0.35714285714285715
-"Farewell, Roger Smith.",ロジャー・スミス お別れです,Roger Smith Ideal,0.3333333333333333
-Instro! Amadeus never thought of you as some activation instrument!,アマデウスは決して君を起動用の,Amadeus will never start you,0.23076923076923078
-"If he had, he wouldn't have made you so human!",だったら君を人に似せて作ったりはしない,"If so, don't make you like a person",0.29411764705882354
-"Goodbye, Roger Smith.",さようなら ロジャー・スミス,Goodbye Roger Smith,0.6
-Big O! Showtime!,ビッグオー ショータイム,Big Osho Time,0.16666666666666666
-Big O! Action!,ビッグオー アクション,Big o action,0.75
-Roger Smith!,ロジャー・スミス,Roger Smith,0.6666666666666666
-"So this is the phonosonic machine, huh?",く これがフォノソニックマシンか,Is this a phonosonic machine?,0.5
-What I'm after is the destruction of Paradigm.,私の目的はパラダイム社の破壊です,My purpose is destruction of paradigm company,0.3076923076923077
-I have no reason to fight you.,あなたと闘う理由は無い,There is no reason to fight you,0.5
-I wouldn't expect anything less from the legacy of a genius scientist.,うう さすがに天才科学者の遺産だ,It is a heritage of genius scientists,0.16666666666666666
-"Now! Finish him, Instrument!",今だ インストルメント とどめを刺せ,Passing the Instrument and Now,0.2222222222222222
-"Dorothy! I'll carry out my contract with you, no matter what!",ドロシー 君との契約は必ず果たそう,The contract with Dorothy will always play,0.16666666666666666
-I want to play the piano.,ピアノを弾いていたい,I want to play the piano,0.8571428571428571
-"Thank you, Roger Smith.",ありがとう ロジャー・スミス,Thank you Roger Smith,0.6666666666666666
-It just saddened me that father's legacy was a weapon.,父の遺産がこんな兵器であることが悲しかった,It was sad that my father's heritage was such a weapon,0.4375
-"No, you're Amadeus' legacy. A pianist!",君がアマデウスの遺産なんだ ピアニストの君が,You are the heritage of Amadeus pianist,0.2
-"Nevertheless, Roger Smith, I...",ですが ロジャー・スミス 私は,But Roger Smith I,0.42857142857142855
-...can never go back to being a pianist.,もうピアニストには戻れない,I can not return to the pianist anymore,0.2
-But my lessons aren't over yet.,でも あたしのレッスンは終わってないわ,But my lessons are not over,0.5555555555555556
-Waking up gently is important to me.,私は爽やかな寝覚めをとても大切にしている,I am very important to rest,0.16666666666666666
-And I've been greeted by that for the past few days.,そしてここ何日かは,And in the last few days,0.26666666666666666
-But Instro had a pianist's memories.,そのインストルにピアニストとしての記憶がある,There is memory as a pianist in the instrument,0.13333333333333333
-That's what was important.,決して手を付けられない回路だった,It was a circuit that can never be handed,0.15384615384615385
-The old me had no idea that practicing the piano could be so fun.,ピアノの練習がこんなに楽しい事だったなんて,The practice of the piano was such a fun thing,0.15
-"For me, this is my father's true legacy.",これこそが私にとっては父の遺産だ,This is my father's heritage for me,0.5833333333333334
-R. Dorothy Wayneright!,R・ドロシー・ウェインライト,R · Dorothy Wine Light,0.125
+He was scientist",0.3333333333333333,0.8235209
+"He built Constanze to get revenge, so they killed him.",そして パラダイム社への復讐の為に,And for revenge to paradigm,0.13333333333333333,0.4789657
+It wasn't your father who was abandoned by Paradigm.,パラダイムに捨てられたのは君の父親じゃない,It is not your father who was thrown away by the paradigm,0.4666666666666667,0.8907264
+"Isn't that right, Gieseng?!",そうだろ ギーゼング,That's right Geasing,0.2,0.4204161
+"Mr. Gieseng, please put down the staff.",ミスター ギーゼング　杖を下ろしなさい,Lower the Mister Geasing Cane,0.07692307692307693,0.33643106
+I'll carry out your and my father's wish.,あなたと父の願いは私が果たす,I and my father's wishes are me,0.35714285714285715,0.7703378
+"Farewell, Roger Smith.",ロジャー・スミス お別れです,Roger Smith Ideal,0.3333333333333333,0.57895976
+Instro! Amadeus never thought of you as some activation instrument!,アマデウスは決して君を起動用の,Amadeus will never start you,0.2307692307692308,0.6354623
+"If he had, he wouldn't have made you so human!",だったら君を人に似せて作ったりはしない,"If so, don't make you like a person",0.29411764705882354,0.3337212
+"Goodbye, Roger Smith.",さようなら ロジャー・スミス,Goodbye Roger Smith,0.6,0.96647525
+Big O! Showtime!,ビッグオー ショータイム,Big Osho Time,0.16666666666666666,0.469657
+Big O! Action!,ビッグオー アクション,Big o action,0.75,0.79092324
+Roger Smith!,ロジャー・スミス,Roger Smith,0.6666666666666666,0.9005294
+"So this is the phonosonic machine, huh?",く これがフォノソニックマシンか,Is this a phonosonic machine?,0.5,0.94028777
+What I'm after is the destruction of Paradigm.,私の目的はパラダイム社の破壊です,My purpose is destruction of paradigm company,0.3076923076923077,0.6865756
+I have no reason to fight you.,あなたと闘う理由は無い,There is no reason to fight you,0.5,0.88998127
+I wouldn't expect anything less from the legacy of a genius scientist.,うう さすがに天才科学者の遺産だ,It is a heritage of genius scientists,0.16666666666666666,0.631112
+"Now! Finish him, Instrument!",今だ インストルメント とどめを刺せ,Passing the Instrument and Now,0.2222222222222222,0.5829362
+"Dorothy! I'll carry out my contract with you, no matter what!",ドロシー 君との契約は必ず果たそう,The contract with Dorothy will always play,0.16666666666666666,0.5923811
+I want to play the piano.,ピアノを弾いていたい,I want to play the piano,0.8571428571428571,0.9784024
+"Thank you, Roger Smith.",ありがとう ロジャー・スミス,Thank you Roger Smith,0.6666666666666666,0.943234
+It just saddened me that father's legacy was a weapon.,父の遺産がこんな兵器であることが悲しかった,It was sad that my father's heritage was such a weapon,0.4375,0.73577714
+"No, you're Amadeus' legacy. A pianist!",君がアマデウスの遺産なんだ ピアニストの君が,You are the heritage of Amadeus pianist,0.2,0.86513734
+"Nevertheless, Roger Smith, I...",ですが ロジャー・スミス 私は,But Roger Smith I,0.42857142857142855,0.8361955
+...can never go back to being a pianist.,もうピアニストには戻れない,I can not return to the pianist anymore,0.2,0.7033551
+But my lessons aren't over yet.,でも あたしのレッスンは終わってないわ,But my lessons are not over,0.5555555555555556,0.9258199
+Waking up gently is important to me.,私は爽やかな寝覚めをとても大切にしている,I am very important to rest,0.16666666666666666,0.4847793
+And I've been greeted by that for the past few days.,そしてここ何日かは,And in the last few days,0.26666666666666666,0.40208024
+But Instro had a pianist's memories.,そのインストルにピアニストとしての記憶がある,There is memory as a pianist in the instrument,0.13333333333333333,0.6320459
+That's what was important.,決して手を付けられない回路だった,It was a circuit that can never be handed,0.15384615384615385,0.14161026
+The old me had no idea that practicing the piano could be so fun.,ピアノの練習がこんなに楽しい事だったなんて,The practice of the piano was such a fun thing,0.15,0.77293754
+"For me, this is my father's true legacy.",これこそが私にとっては父の遺産だ,This is my father's heritage for me,0.5833333333333334,0.63404906
+R. Dorothy Wayneright!,R・ドロシー・ウェインライト,R · Dorothy Wine Light,0.125,0.43951282

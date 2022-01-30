@@ -1,261 +1,261 @@
-en_text,jp_text,google_translated,score
-It's summer.,夏です とっても暑いです,Summer is very hot,0.14285714285714285
-You guys seem to be struggling quite a bit.,皆 大変そうだね,Everyone seems to be very difficult,0.14285714285714285
-Why don't you go to our villa?,そうだ 別荘に行っておいでよ,I'm going to go to a villa,0.23076923076923078
-"You should be able to cool off there, since it's close to the ocean.",あそこなら海も近いし きっと涼めるよ,"If there is a sea, the sea is near and I will surely cool",0.16
-Are you coming with us?,か… 薫様！？,Somewhat ...?,0.125
-I have a job to do with Karina-san.,僕は仮名さんと仕事なんだ,I am a job with Mr. Kana,0.3333333333333333
-What?!,え～～！,Eh ~!,0.2
-Everybody agreed by nodding.,皆 うんうんと頷きました,Everybody crawled,0.16666666666666666
-But it seemed like everybody was still happy about going.,でも やっぱり嬉しそうでした…,But after all I was happy ...,0.2
-"Hey, everyone! Let's play!",ねえねえ 皆遊ぼうよ～,Hey everyone Let's play ~,0.625
-There!,やっ！,!,0.5
-Want a drink?,飲む？,drink?,0.5
-Thank you.,ありがと,thank you,0.6666666666666666
-I exercised my body for a change.,久しぶりに体動かしちゃった,I moved my body after a long time,0.3333333333333333
-Yeah!,ヒイッ！,Hi!,0.3333333333333333
-Keita-sama?!,啓太様！？,Keizawa!?,0.5
-I can't even take my eyes off you for a second!,油断も隙もあったもんじゃない！,There was also a gap or a gap!,0.1111111111111111
-Why are you here?,どうして ここに？,Why are you here?,1.0
-"Oh, here it is.",避暑でもどう… って誘ってくれたの,"Even if it was summerial, I invited me",0.15384615384615385
-"""Summer greeting card""?",暑中お見舞い？,Summer greetings?,0.2857142857142857
-From Kaoru-sama?,薫様から？,From Soya?,0.5
+en_text,jp_text,google_translated,score,semantic_score
+It's summer.,夏です とっても暑いです,Summer is very hot,0.14285714285714285,0.78842586
+You guys seem to be struggling quite a bit.,皆 大変そうだね,Everyone seems to be very difficult,0.14285714285714285,0.55374056
+Why don't you go to our villa?,そうだ 別荘に行っておいでよ,I'm going to go to a villa,0.2307692307692308,0.7883673
+"You should be able to cool off there, since it's close to the ocean.",あそこなら海も近いし きっと涼めるよ,"If there is a sea, the sea is near and I will surely cool",0.16,0.67826813
+Are you coming with us?,か… 薫様！？,Somewhat ...?,0.125,0.16736974
+I have a job to do with Karina-san.,僕は仮名さんと仕事なんだ,I am a job with Mr. Kana,0.3333333333333333,0.58124834
+What?!,え～～！,Eh ~!,0.2,0.3710756
+Everybody agreed by nodding.,皆 うんうんと頷きました,Everybody crawled,0.16666666666666666,0.1386219
+But it seemed like everybody was still happy about going.,でも やっぱり嬉しそうでした…,But after all I was happy ...,0.2,0.57261515
+"Hey, everyone! Let's play!",ねえねえ 皆遊ぼうよ～,Hey everyone Let's play ~,0.625,0.80874586
+There!,やっ！,!,0.5,0.43711644
+Want a drink?,飲む？,drink?,0.5,0.77001166
+Thank you.,ありがと,thank you,0.6666666666666666,0.7717478
+I exercised my body for a change.,久しぶりに体動かしちゃった,I moved my body after a long time,0.3333333333333333,0.6218298
+Yeah!,ヒイッ！,Hi!,0.3333333333333333,0.3972216
+Keita-sama?!,啓太様！？,Keizawa!?,0.5,0.5080665
+I can't even take my eyes off you for a second!,油断も隙もあったもんじゃない！,There was also a gap or a gap!,0.1111111111111111,0.19262333
+Why are you here?,どうして ここに？,Why are you here?,1.0,1.0
+"Oh, here it is.",避暑でもどう… って誘ってくれたの,"Even if it was summerial, I invited me",0.15384615384615385,0.17337336
+"""Summer greeting card""?",暑中お見舞い？,Summer greetings?,0.2857142857142857,0.72591233
+From Kaoru-sama?,薫様から？,From Soya?,0.5,0.47383273
 "Compared to living under a bridge, this beach is like a different world!","橋の下暮らしに比べたら
 このビーチは別世界だよ…","Compared to the dust of the bridge
-This beach is another world ...",0.3684210526315789
-"Sun, swimsuits, and beautiful girls!",太陽！ 水着！ そして美女！,Sun!Swimwear!And beautiful girl!,0.4444444444444444
-Hey you!,こらっ！,!,0.3333333333333333
-I'm done with the meal...,いっただきまーーす！,I'm sorry!,0.2222222222222222
-Huh?,え？,picture?,0.3333333333333333
+This beach is another world ...",0.3684210526315789,0.81837225
+"Sun, swimsuits, and beautiful girls!",太陽！ 水着！ そして美女！,Sun!Swimwear!And beautiful girl!,0.4444444444444444,0.82871747
+Hey you!,こらっ！,!,0.3333333333333333,0.4948754
+I'm done with the meal...,いっただきまーーす！,I'm sorry!,0.2222222222222222,0.287314
+Huh?,え？,picture?,0.3333333333333333,0.39236003
 I've rarely seen all ten of you together before.,"10人揃って何かしてるの
 あんまり見た事なかったからな","I have 10 people together
-Because I did not see much",0.10526315789473684
-It was surprising and yet refreshing.,ほんと楽しそうだった,It was really fun,0.2222222222222222
+Because I did not see much",0.10526315789473684,0.6577919
+It was surprising and yet refreshing.,ほんと楽しそうだった,It was really fun,0.2222222222222222,0.39652103
 It's a nice sight; it feels like the ten of you have become one.,"何かいいよな…
 10人で１つって感じでさ…","Something good ...
-It feels like one with 10 people ...",0.18181818181818182
-I want to become one with all of you too!,俺も皆と１つになりた～い！,I also got one with everyone!,0.2857142857142857
-I never thought of it like that.,そんな風に考えたことなかった…,I did not think like that ...,0.25
+It feels like one with 10 people ...",0.18181818181818185,0.49537683
+I want to become one with all of you too!,俺も皆と１つになりた～い！,I also got one with everyone!,0.2857142857142857,0.38440266
+I never thought of it like that.,そんな風に考えたことなかった…,I did not think like that ...,0.25,0.47279003
 "But, there are times when we all gather together!","でもでも 皆揃って集まる事も
 時々はあるんだよ","But everyone will gather together
-Sometimes there is",0.26666666666666666
-"We all gathered in Nadeshiko's room, huh?",なでしこの部屋に集まったな,Noso I gathered in this room,0.23076923076923078
-It was exciting!,盛り上がったね～,It was exciting ~,0.6
-Ghost stories?,怪談？,Talk?,0.25
-Especially Igu-igu's story.,特にいぐいぐの話が！,Especially the story of the right!,0.2222222222222222
-What's wrong?,どうしたの？,What's wrong?,1.0
-"Oh, umm... nothing at all!",ああ いや 何でも…,Oh no and anything ...,0.18181818181818182
-"Well then, to respond to your request...",では リクエストにお答えして…,Then answer the request ...,0.3
+Sometimes there is",0.26666666666666666,0.78260523
+"We all gathered in Nadeshiko's room, huh?",なでしこの部屋に集まったな,Noso I gathered in this room,0.2307692307692308,0.49047202
+It was exciting!,盛り上がったね～,It was exciting ~,0.6,0.88761896
+Ghost stories?,怪談？,Talk?,0.25,0.21246402
+Especially Igu-igu's story.,特にいぐいぐの話が！,Especially the story of the right!,0.2222222222222222,0.3184241
+What's wrong?,どうしたの？,What's wrong?,1.0,1.0000004
+"Oh, umm... nothing at all!",ああ いや 何でも…,Oh no and anything ...,0.18181818181818185,0.6701632
+"Well then, to respond to your request...",では リクエストにお答えして…,Then answer the request ...,0.3,0.736113
 There was a male fashion designer at this one store.,"あるところに ファッションデザイナーの
 男性がおりました","A fashion designer in a place
-There was a man",0.35714285714285715
+There was a man",0.35714285714285715,0.8330676
 He always tried his new clothes on the store's mannequin whenever he completed them.,"彼は新作が仕上がると事務所のマネキンに
 必ず着せてみたと言います","He finishes the new work and the office mannequin
-He said he always tried to wear",0.2727272727272727
-It was a charm for him.,それは彼にとってのジンクス…,It is Jinx for him ...,0.3
+He said he always tried to wear",0.2727272727272727,0.7645012
+It was a charm for him.,それは彼にとってのジンクス…,It is Jinx for him ...,0.3,0.30953503
 "After that, he had his girlfriend try out his new clothes.","彼は新作を恋人に
 着て貰うようになりました","He told new work
-I came to wear",0.1111111111111111
+I came to wear",0.1111111111111111,0.53359187
 The mannequin wasn't needed anymore.,"もうマネキンは
 必要ではありませんでした","Money cancer anymore
-It was not necessary",0.16666666666666666
+It was not necessary",0.16666666666666666,0.4191202
 It smelled like the landfill from yesterday.,"地の底からの響きの如く
 幽玄無明の声色で…","Like resounding from the bottom of the earth
-In the voice color of the Henaeno ...",0.17647058823529413
-The man opened the door...,そして男が ドアを開けますと…,And if a man opens the door ...,0.4444444444444444
-What is this?,何だ これは！？,what is this!?,0.8
-"Oh, it didn't have any kick.",あ… あははは…,Oh ... Ahaha ...,0.09090909090909091
-I wasn't scared at all.,たゆね すっごい怖がりなの,I'm scared,0.25
-She even caused a big commotion at the last ghost stories meeting.,この前の怪談大会の時も大変で…,It is also difficult at the time of this spook of a tournament ...,0.13043478260869565
-I-I'm not a scaredy cat!,ぼ ボクは怖がりなんかじゃないぞ！,Boku is not scared!,0.2
-See?,ね？,Hey?,0.3333333333333333
-Poor girl.,かわいそうに…,Poor thing…,0.25
-I'll protect you from all the frightening things!,俺が守る！,I will protect!,0.2727272727272727
+In the voice color of the Henaeno ...",0.17647058823529413,0.21608962
+The man opened the door...,そして男が ドアを開けますと…,And if a man opens the door ...,0.4444444444444444,0.6968409
+What is this?,何だ これは！？,what is this!?,0.8,0.6948249
+"Oh, it didn't have any kick.",あ… あははは…,Oh ... Ahaha ...,0.09090909090909093,0.14755082
+I wasn't scared at all.,たゆね すっごい怖がりなの,I'm scared,0.25,0.5189764
+She even caused a big commotion at the last ghost stories meeting.,この前の怪談大会の時も大変で…,It is also difficult at the time of this spook of a tournament ...,0.13043478260869565,0.16162206
+I-I'm not a scaredy cat!,ぼ ボクは怖がりなんかじゃないぞ！,Boku is not scared!,0.2,0.3716858
+See?,ね？,Hey?,0.3333333333333333,0.427209
+Poor girl.,かわいそうに…,Poor thing…,0.25,0.60453886
+I'll protect you from all the frightening things!,俺が守る！,I will protect!,0.2727272727272727,0.7545133
 I won't let them put a single\Nscratch on this soft skin of yours.,"この柔肌に 傷一本付けさせるもんか！
 すりすりすりすり…","A scratched with this soft skin!
-Sirisuri ...",0.2
-Don't you think so?,でしょでしょ？,Is it not?,0.1111111111111111
-The muscle girl is actually a scaredy cat.,体力娘が実は怖がり,My physical strength girl is actually scared,0.23076923076923078
-Imari! Sayoka!,いまり！ さよか！,Many!Good!,0.2
-What did you say?!,なにー！？,what!?,0.5
-I already know that you guys go to the bathroom together because you're scared of going alone.,知ってるんだぞ！ 夜トイレに行く時は,I know!When going to the night toilet,0.22727272727272727
-Damn you!,おのれー 言うてはならん事を～！,You're not saying!,0.3333333333333333
-A duel it is!,決闘じゃあ！,It is a duel!,1.0
-"Somebody, stop this for me.",はあ… 誰か止めて,Ha ... Someone stop,0.1
+Sirisuri ...",0.2,0.47520125
+Don't you think so?,でしょでしょ？,Is it not?,0.1111111111111111,0.4102234
+The muscle girl is actually a scaredy cat.,体力娘が実は怖がり,My physical strength girl is actually scared,0.2307692307692308,0.5709321
+Imari! Sayoka!,いまり！ さよか！,Many!Good!,0.2,0.24574138
+What did you say?!,なにー！？,what!?,0.5,0.54712456
+I already know that you guys go to the bathroom together because you're scared of going alone.,知ってるんだぞ！ 夜トイレに行く時は,I know!When going to the night toilet,0.2272727272727273,0.42630202
+Damn you!,おのれー 言うてはならん事を～！,You're not saying!,0.3333333333333333,0.3133728
+A duel it is!,決闘じゃあ！,It is a duel!,1.0,0.9399651
+"Somebody, stop this for me.",はあ… 誰か止めて,Ha ... Someone stop,0.1,0.64868754
 You running away and weeping.,"見えますよ～ たゆねちゃんが
 泣いて走ってゆく姿…","You can see ~ Yune-chan
-Crying and running ...",0.25
-Scaredy cat! Scaredy cat! Scaredy cat!,カチン！,Cachin!,0.25
-Scaredy Cat,ふふ…,n/a…,0.0
-Throwing oil on the fire...,火に油だな…,It is oil for fire ...,0.3333333333333333
-A united front!,共同戦線！,Joint Front!,0.4
-Beat me...,ういっ…,Ue ...,0.25
+Crying and running ...",0.25,0.43004096
+Scaredy cat! Scaredy cat! Scaredy cat!,カチン！,Cachin!,0.25,0.24885279
+Scaredy Cat,ふふ…,n/a…,0.0,0.16193876
+Throwing oil on the fire...,火に油だな…,It is oil for fire ...,0.3333333333333333,0.6232957
+A united front!,共同戦線！,Joint Front!,0.4,0.6321192
+Beat me...,ういっ…,Ue ...,0.25,0.3048589
 With physical strength!,"-体力で！
 -ひい～っ！","-In physical strength!
--Hi ~!",0.42857142857142855
-I got dragged into the quarrel!,思うな～！,I think!,0.25
-Still saying it?!,まだ言うか！,Do you still say!,0.25
+-Hi ~!",0.42857142857142855,0.67085034
+I got dragged into the quarrel!,思うな～！,I think!,0.25,0.07395116
+Still saying it?!,まだ言うか！,Do you still say!,0.25,0.6594197
 I think it's cuter if there's a soft side to you.,"ちょっとはさ 弱いところがあった方が
 可愛いんじゃないかな","If there is a weak place for a while
-I wonder if it is cute",0.25
-Hey! That was uncalled for!,何よ！ あいつ！…,What!that person!...,0.2222222222222222
-You have a fat tail.,フン… 尻尾 太いくせに,Hun ... Tail of the tail,0.1
-Wha-?!,な！？,NS!?,0.5
-I can't be weak.,ボクは弱くちゃいけないんだ…,I can not be weak ...,0.3333333333333333
-Ow...,いたた…,...,0.5
-"I won't forgive you for this, Tayune!",許すまじ たゆね…,I forgive you ...,0.2727272727272727
-Sister.,んー 姉者！,Hm sister!,0.25
-This calls for revenge!,ここは１つ 仇討ちじゃー！,This is one one!,0.2857142857142857
-What?,ええっ？,Eh yeah?,0.25
-Y-You guys!,おい ようこ！,Good morning!,0.2
-I'll do it too!,私もやる！ 乙女の心傷つけられた！,I also do it!Maiden's cumbersome was attached!,0.3333333333333333
-Tayune will apologize once her head cools off.,頭が冷えれば たゆねも謝るよ,I will apologize if my head cooled,0.23076923076923078
-Cu-Cu-Cu-Curly?!,く… くるくる…！？,... Kuru ...!?,0.4
+I wonder if it is cute",0.25,0.52507585
+Hey! That was uncalled for!,何よ！ あいつ！…,What!that person!...,0.2222222222222222,0.26759422
+You have a fat tail.,フン… 尻尾 太いくせに,Hun ... Tail of the tail,0.1,0.4836215
+Wha-?!,な！？,NS!?,0.5,0.24054621
+I can't be weak.,ボクは弱くちゃいけないんだ…,I can not be weak ...,0.3333333333333333,0.92820174
+Ow...,いたた…,...,0.5,0.50487113
+"I won't forgive you for this, Tayune!",許すまじ たゆね…,I forgive you ...,0.2727272727272727,0.50333714
+Sister.,んー 姉者！,Hm sister!,0.25,0.5986034
+This calls for revenge!,ここは１つ 仇討ちじゃー！,This is one one!,0.2857142857142857,0.2949045
+What?,ええっ？,Eh yeah?,0.25,0.277495
+Y-You guys!,おい ようこ！,Good morning!,0.2,0.24429241
+I'll do it too!,私もやる！ 乙女の心傷つけられた！,I also do it!Maiden's cumbersome was attached!,0.3333333333333333,0.37133327
+Tayune will apologize once her head cools off.,頭が冷えれば たゆねも謝るよ,I will apologize if my head cooled,0.2307692307692308,0.43223715
+Cu-Cu-Cu-Curly?!,く… くるくる…！？,... Kuru ...!?,0.4,0.13355929
 I don't want a leader who can't control Tayune to butt in.,"たゆねを抑えられぬリーダーに
 口出しして欲しくないでござる","To leader who is not suppressed
-I do not want to get out",0.3157894736842105
-"From here on, it's the path of fighting.",これより先は修羅の道,From now on the way of Shura,0.2857142857142857
+I do not want to get out",0.3157894736842105,0.45789865
+"From here on, it's the path of fighting.",これより先は修羅の道,From now on the way of Shura,0.2857142857142857,0.32716864
 "Everyone, if you really insist,\Nno dinner for all of you tonight.","どうしてもと言うなら
 今晩 ご飯 抜きですよ？","If you say
-Are you tonight?",0.1875
-Do not show yourself!,おこしめさるな！,Don't come!,0.2857142857142857
-They were all friendly just a minute ago...,うっ…,Uey ...,0.1
-Keita-sama?,啓太様？,Keizawa?,0.3333333333333333
-Inukami-chan!,ギクッ！,Giku!,0.3333333333333333
-What's the matter?,どうなされました？,What happened?,0.3333333333333333
+Are you tonight?",0.1875,0.45271215
+Do not show yourself!,おこしめさるな！,Don't come!,0.2857142857142857,0.45139444
+They were all friendly just a minute ago...,うっ…,Uey ...,0.1,0.21621841
+Keita-sama?,啓太様？,Keizawa?,0.3333333333333333,0.46504647
+Inukami-chan!,ギクッ！,Giku!,0.3333333333333333,0.43243954
+What's the matter?,どうなされました？,What happened?,0.3333333333333333,0.2922902
 "I wasn't trying to steal underwear, or do anything perverted, and...","ちょ ちょっとお話したかっただけで
 別に下着を盗もうとか夜這いをしようとか","I just wanted to talk a little
-Let's steal the underwear separately or trying to crawl",0.25
-I'm sorry!,ごめんなさい！,sorry!,0.5
-Please do not wander around too much.,あんまりうろうろしないで下さいね,Please do not go out so much,0.36363636363636365
-"By the way, what's this room?",あっ ところでこの部屋は？,Where is this room?,0.2727272727272727
-The communication room.,通信室ですね,It is a communication room,0.2857142857142857
-It's used mainly by Igusa.,主にいぐさが使っています,Mainly use it,0.25
-"For instance, she uses it for buying and selling stocks.",そう… 例えば 株の売買とか…,"Yes ... For example, sell and selling stocks ...",0.3333333333333333
-Igusa can do things like that?,いぐさ そんな事出来るの！？,I can do such a thing!?,0.25
+Let's steal the underwear separately or trying to crawl",0.25,0.63533884
+I'm sorry!,ごめんなさい！,sorry!,0.5,0.7307092
+Please do not wander around too much.,あんまりうろうろしないで下さいね,Please do not go out so much,0.3636363636363637,0.55759823
+"By the way, what's this room?",あっ ところでこの部屋は？,Where is this room?,0.2727272727272727,0.8647762
+The communication room.,通信室ですね,It is a communication room,0.2857142857142857,0.908407
+It's used mainly by Igusa.,主にいぐさが使っています,Mainly use it,0.25,0.44359806
+"For instance, she uses it for buying and selling stocks.",そう… 例えば 株の売買とか…,"Yes ... For example, sell and selling stocks ...",0.3333333333333333,0.4527613
+Igusa can do things like that?,いぐさ そんな事出来るの！？,I can do such a thing!?,0.25,0.33832526
 This villa and Kaoru-sama's house were bought with those funds.,"この別荘や薫様のご自宅も
 実はその資金で買ったのです","This villa and the house of Soya
-Actually I bought it with that fund",0.3
-"Man, I envy Kaoru.",へえ… 全く薫が羨ましいよ,Hey ... I'm jealous,0.1
-He has many excellent inukami.,あの子には そちらの才能があって…,That girl has its talent ...,0.09090909090909091
-I only have an unmanageable woman.,薫は 皆に気配りしてるだろ？,Sometimes I have attended everyone to everyone?,0.16666666666666666
+Actually I bought it with that fund",0.3,0.6673365
+"Man, I envy Kaoru.",へえ… 全く薫が羨ましいよ,Hey ... I'm jealous,0.1,0.33427247
+He has many excellent inukami.,あの子には そちらの才能があって…,That girl has its talent ...,0.09090909090909093,0.21202086
+I only have an unmanageable woman.,薫は 皆に気配りしてるだろ？,Sometimes I have attended everyone to everyone?,0.16666666666666666,0.09576913
 "But if I had ten of them, I wouldn't be able to look after them all.","でも 10人もいたら
 俺には面倒見切れないか…","But if there are 10 people
-Can I take care of me too ...",0.14814814814814814
+Can I take care of me too ...",0.14814814814814814,0.6027744
 "He gives his attention to each one of you, right?","皆居ないみたいだし
 ともはねと一緒にゲームでもするか","It seems that there is no one
-Do you want to be a game with you",0.125
-Yes.,ふっ はい,Fancy,0.0
-As I thought.,だよな～ 俺には真似できないや,It's not ~ I can not imitate,0.1
-Oh well.,ま いーや,Major,0.0
-Where's her room?,部屋 どこかな？,Where is the room?,0.42857142857142855
-I'll show you the way.,ご案内します,I will guide you,0.2222222222222222
-"Umm, it's a cease-fire agreement.",あの 休戦協定です,It is that clerical agreement,0.18181818181818182
-Imari and the others said they wanted to apologize to you.,いまり達 謝りたいって,I want to apologize,0.15384615384615385
+Do you want to be a game with you",0.125,0.16191183
+Yes.,ふっ はい,Fancy,0.0,0.20498821
+As I thought.,だよな～ 俺には真似できないや,It's not ~ I can not imitate,0.1,0.18579
+Oh well.,ま いーや,Major,0.0,0.13113363
+Where's her room?,部屋 どこかな？,Where is the room?,0.42857142857142855,0.8376829
+I'll show you the way.,ご案内します,I will guide you,0.2222222222222222,0.36305168
+"Umm, it's a cease-fire agreement.",あの 休戦協定です,It is that clerical agreement,0.18181818181818185,0.59548545
+Imari and the others said they wanted to apologize to you.,いまり達 謝りたいって,I want to apologize,0.15384615384615385,0.524746
 "They're waiting at the isolated cabin in\Nthe woods, so they asked for you to come.","裏の離れで待っているから
 来てくれないかって…","Because I'm waiting for the back
-I can not come ...",0.16666666666666666
-"Well, I may have exaggerated a bit.",まあ ボクもちょっとやり過ぎたかも…,"Well, I also wanted to do too much ...",0.1875
-Sheesh! Why is it at the isolated cabin?!,もう！ なんでわざわざ離れなんだよ～,already!Why is it separated from,0.3076923076923077
-How did it go?,どうだった？,how was it?,0.5
-"Step 1, successful.",第一段階成功… と,First stage success ...,0.0
-Are we really going to do this?,ほんとにやるの？…,What do you really do?...,0.2727272727272727
-Step 2:,その２ マネキンで脅かし離れへ追い込む,Part 2 Drimp to threaten with mannequin,0.1111111111111111
+I can not come ...",0.16666666666666666,0.40468007
+"Well, I may have exaggerated a bit.",まあ ボクもちょっとやり過ぎたかも…,"Well, I also wanted to do too much ...",0.1875,0.38573402
+Sheesh! Why is it at the isolated cabin?!,もう！ なんでわざわざ離れなんだよ～,already!Why is it separated from,0.3076923076923077,0.38841888
+How did it go?,どうだった？,how was it?,0.5,0.7169786
+"Step 1, successful.",第一段階成功… と,First stage success ...,0.0,0.5625548
+Are we really going to do this?,ほんとにやるの？…,What do you really do?...,0.2727272727272727,0.17345998
+Step 2:,その２ マネキンで脅かし離れへ追い込む,Part 2 Drimp to threaten with mannequin,0.1111111111111111,0.29481632
 Furano Team will be waiting there\Nand will finish her off with a surprise!,"その３ そこにはフラノチームがいて
 来たたゆねに とどめの脅かし","Part 3 There is a flane team
-I came to her threatening threat",0.13043478260869565
-Step 4:,そして４ わーんと泣き出すたゆねをば,And if I cried with 4 Whan,0.1111111111111111
+I came to her threatening threat",0.13043478260869565,0.4395586
+Step 4:,そして４ わーんと泣き出すたゆねをば,And if I cried with 4 Whan,0.1111111111111111,0.24187076
 "If we have proof, she won't be able to deny being a scaredy cat anymore.","写真があれば
 二度と怖がりを否定できまい","If there is a picture
-I can not deny the scared scared",0.11538461538461539
-You guys only show talent for pranks...,悪知恵だけは一人前ねえ…,Only bad luck alone ...,0.18181818181818182
-It's about time.,そろそろね,It is soon,0.14285714285714285
+I can not deny the scared scared",0.1153846153846154,0.42406476
+You guys only show talent for pranks...,悪知恵だけは一人前ねえ…,Only bad luck alone ...,0.18181818181818185,0.18892786
+It's about time.,そろそろね,It is soon,0.14285714285714285,0.4463348
 "Youko, why are you suspending the mannequin now?","ようこ マネキンを吊り上げて…
 何してんの？","Lift the mankin ...
-what are you doing?",0.26666666666666666
-I want to take pictures of us preparing it.,準備の様子も撮っとこうかなって,The way of preparing is also,0.14285714285714285
-This place is creepy.,気味悪いなあ…,It is bad ...,0.125
-Wh-What's that?!,な… 何じゃ！？ あれ！？,... What!?that!?,0.42857142857142855
-What's going on?!,何が起こった！？,what happened!?,0.42857142857142855
-I-I can't be weak!,ぼ ボクは弱くちゃいけないんだ…,Boku can not be weak ...,0.2
-I am Kaoru-sama's Inukami!,うごっ… せ せんだんに知らせてくる！,Ugu ... I will notify you soon!,0.16666666666666666
-Is she going to confront it?,立ち向かうのか！？,Is it going to stand!?,0.5555555555555556
-It's scary after all!,わ～～！ やっぱり怖い～～！,Wow!After all scary ~ ~!,0.5
-Hey...,ぐはあ…,Hey ...,1.0
-"Gokyouya-chan, don't be a poor sport.",だからって巻き込むな！,So don't get involved!,0.15384615384615385
-"We're the intimate trio, aren't we?",仲良し三人組じゃないですかー,Aren't you good friends?,0.25
-"Everyone, we'll jump out all together, okay?",皆さん 一斉に飛び出しますよ～,I will jump to everyone at once,0.13333333333333333
-Ouch...,いったあ…,...,0.5
-What is this place?,これは一体…？,Is this one ...?,0.42857142857142855
+what are you doing?",0.26666666666666666,0.3749001
+I want to take pictures of us preparing it.,準備の様子も撮っとこうかなって,The way of preparing is also,0.14285714285714285,0.39890656
+This place is creepy.,気味悪いなあ…,It is bad ...,0.125,0.2785335
+Wh-What's that?!,な… 何じゃ！？ あれ！？,... What!?that!?,0.42857142857142855,0.37371597
+What's going on?!,何が起こった！？,what happened!?,0.42857142857142855,0.54164165
+I-I can't be weak!,ぼ ボクは弱くちゃいけないんだ…,Boku can not be weak ...,0.2,0.455995
+I am Kaoru-sama's Inukami!,うごっ… せ せんだんに知らせてくる！,Ugu ... I will notify you soon!,0.16666666666666666,0.33945122
+Is she going to confront it?,立ち向かうのか！？,Is it going to stand!?,0.5555555555555556,0.29965273
+It's scary after all!,わ～～！ やっぱり怖い～～！,Wow!After all scary ~ ~!,0.5,0.6960921
+Hey...,ぐはあ…,Hey ...,1.0,1.0000005
+"Gokyouya-chan, don't be a poor sport.",だからって巻き込むな！,So don't get involved!,0.15384615384615385,0.1997179
+"We're the intimate trio, aren't we?",仲良し三人組じゃないですかー,Aren't you good friends?,0.25,0.3112636
+"Everyone, we'll jump out all together, okay?",皆さん 一斉に飛び出しますよ～,I will jump to everyone at once,0.13333333333333333,0.5571218
+Ouch...,いったあ…,...,0.5,0.54827416
+What is this place?,これは一体…？,Is this one ...?,0.42857142857142855,0.2870645
 Have you heard of a basement in this cabin?,"聞いた事あるか？
 この離れに地下室なんて…","Have you ever heard?
-There is a ground room for this leaving ...",0.3333333333333333
-Nope.,ううん…,No…,0.0
-Of what?,何を？,what?,0.6666666666666666
-Igusa's story from earlier today.,今日のいぐさのお話を…,Today's story of today ...,0.3333333333333333
+There is a ground room for this leaving ...",0.3333333333333333,0.5058248
+Nope.,ううん…,No…,0.0,0.7194995
+Of what?,何を？,what?,0.6666666666666666,0.54724467
+Igusa's story from earlier today.,今日のいぐさのお話を…,Today's story of today ...,0.3333333333333333,0.49390918
 "When the main character enters the room, there's a mannequin lying on the bed...","主人公が部屋に入ると
 ベッドの上にマネキンが！","When the main character enters the room
-Mannequin on the bed!",0.5625
-A mannequin?,マネ キン…？,Manekin ...?,0.2
-This is...,これは…？,this is…?,0.2
-Don't leave me behind!,全く何て事してくれたの！,What did you do at all!,0.18181818181818182
-I don't like scary things!,怖いのやだ～～！,Scary Yo ~!,0.2222222222222222
-Nadeshiko and Tomohane are in there!,あそこには なでしこと ともはねが！,That's why there is no reason!,0.15384615384615385
-Haja Kekkai... Nishiki: Shikokuchuu!,うわー！ ぐっ いぐぐぐ…,Wow!Goku Gugu ...,0.2
-It's not over yet.,まだよ！,not yet!,0.2857142857142857
+Mannequin on the bed!",0.5625,0.89637583
+A mannequin?,マネ キン…？,Manekin ...?,0.2,0.22430159
+This is...,これは…？,this is…?,0.2,0.5566587
+Don't leave me behind!,全く何て事してくれたの！,What did you do at all!,0.18181818181818185,0.19018771
+I don't like scary things!,怖いのやだ～～！,Scary Yo ~!,0.2222222222222222,0.58071685
+Nadeshiko and Tomohane are in there!,あそこには なでしこと ともはねが！,That's why there is no reason!,0.15384615384615385,0.1593272
+Haja Kekkai... Nishiki: Shikokuchuu!,うわー！ ぐっ いぐぐぐ…,Wow!Goku Gugu ...,0.2,0.46908695
+It's not over yet.,まだよ！,not yet!,0.2857142857142857,0.42645434
 The barrier's...,"たゆねの力はやはり強い
 わたくし達の力では…","The power of the spring is still strong
-With the power of Wakushi ...",0.16666666666666666
-Please help me Kaoru-sama!,た… 助けて… 助けて… 薫様～～！,... Help me ... Help ... Soma ~ ~!,0.375
-"Jeez, how did things turn out like this?",もう どうしてこんな事に！,How do you do something like this!,0.21428571428571427
-Tayune!,たゆね！,Yes!,0.3333333333333333
-The villa's safe?,別荘が… 無事？,Villa ... not something?,0.25
-Kaoru-sama...,はああ…,Ha ...,0.3333333333333333
-Are you okay?,大丈夫か？,Are you okay?,1.0
-I did.,俺だよ 俺,I'm me,0.2
+With the power of Wakushi ...",0.16666666666666666,0.14538813
+Please help me Kaoru-sama!,た… 助けて… 助けて… 薫様～～！,... Help me ... Help ... Soma ~ ~!,0.375,0.5359185
+"Jeez, how did things turn out like this?",もう どうしてこんな事に！,How do you do something like this!,0.21428571428571427,0.17907141
+Tayune!,たゆね！,Yes!,0.3333333333333333,0.35108182
+The villa's safe?,別荘が… 無事？,Villa ... not something?,0.25,0.7513254
+Kaoru-sama...,はああ…,Ha ...,0.3333333333333333,0.25079975
+Are you okay?,大丈夫か？,Are you okay?,1.0,1.0000004
+I did.,俺だよ 俺,I'm me,0.2,0.29180315
 Or do you think that you'll become a burden to Kaoru if you're weak?,"それとも… 弱いと薫の足手まといに
 なるとでも思っているのか？","Or ... it is weak and the foot of the 薫
-Do you think that it will be?",0.28
-"You're worrying about that, aren't you?",お前 そのこと気にしてんだろ,You're noticeable,0.2
-I know that.,わかってる！ 薫様はお優しい,I know!Something is kind,0.25
-Kaoru-sama is a very generous person.,けど あいつはそんなこと,But that guy is such a thing,0.16666666666666666
-He won't neglect me over that.,そんな事でボクを疎んじたりしない,Don't sparse me,0.2
-But I don't want to be spoiled by that generosity of his!,でも その優しさに甘えたくないんだ,But I do not want to be sweetened by the kindness,0.3888888888888889
-And not only Kaoru.,それに 薫だけじゃなく…,Not only Seka ...,0.2857142857142857
-It's safe now.,もう大丈夫だ,It is all right,0.125
-What was that mannequin?,あのマネキンは？,What is that mannequin?,0.6666666666666666
-A weak spirit?,低級霊？,Lower spirit?,0.4
-And if we get into a quarrel...,そんな者が喧嘩をすれば…,If such a person is jealous ...,0.25
-"I'm sorry, Tayune!",ごめん たゆね！,I'm sorry!,0.6666666666666666
-We overdid it.,私達 やりすぎた,We did too much,0.14285714285714285
-Tayune...,たゆね…,Yone ...,0.3333333333333333
-"I'm sorry, Keita!",ごめんね～ 啓太～,Sorry ~ Keita ~,0.2857142857142857
-What was that?,あれ なんだったんでしょう,What did you do?,0.2857142857142857
+Do you think that it will be?",0.28,0.398956
+"You're worrying about that, aren't you?",お前 そのこと気にしてんだろ,You're noticeable,0.2,0.22289027
+I know that.,わかってる！ 薫様はお優しい,I know!Something is kind,0.25,0.4491996
+Kaoru-sama is a very generous person.,けど あいつはそんなこと,But that guy is such a thing,0.16666666666666666,0.22322771
+He won't neglect me over that.,そんな事でボクを疎んじたりしない,Don't sparse me,0.2,0.21534507
+But I don't want to be spoiled by that generosity of his!,でも その優しさに甘えたくないんだ,But I do not want to be sweetened by the kindness,0.3888888888888889,0.41438875
+And not only Kaoru.,それに 薫だけじゃなく…,Not only Seka ...,0.2857142857142857,0.50930446
+It's safe now.,もう大丈夫だ,It is all right,0.125,0.28462073
+What was that mannequin?,あのマネキンは？,What is that mannequin?,0.6666666666666666,0.9488182
+A weak spirit?,低級霊？,Lower spirit?,0.4,0.74399394
+And if we get into a quarrel...,そんな者が喧嘩をすれば…,If such a person is jealous ...,0.25,0.17472959
+"I'm sorry, Tayune!",ごめん たゆね！,I'm sorry!,0.6666666666666666,0.4846007
+We overdid it.,私達 やりすぎた,We did too much,0.14285714285714285,0.6315437
+Tayune...,たゆね…,Yone ...,0.3333333333333333,0.4529065
+"I'm sorry, Keita!",ごめんね～ 啓太～,Sorry ~ Keita ~,0.2857142857142857,0.8195851
+What was that?,あれ なんだったんでしょう,What did you do?,0.2857142857142857,0.37488627
 "I wasn't able to clearly see it, however...","はっきりとは見えなかったけど…
 何だか顔が 薫様に似ていたような…","I did not see it clearly ...
-She seemed to have her face similar to Your face ...",0.3
+She seemed to have her face similar to Your face ...",0.3,0.54875207
 Want to pretend we didn't see it?,"私達 まずい事を
 したんじゃないだろうか？","We are a bad thing
-Wasn't it?",0.2857142857142857
-"What's the matter, everyone?",どうしたんですか？ 皆さん？,What happened?everyone?,0.375
-"Well, umm...",わああ ごめん～ あはは…,"Wow, I'm sorry ~ ah ...",0.2
-I-It's nothing at all!,な 何でもないんだ！,Nothing!,0.3333333333333333
+Wasn't it?",0.2857142857142857,0.27192575
+"What's the matter, everyone?",どうしたんですか？ 皆さん？,What happened?everyone?,0.375,0.48037943
+"Well, umm...",わああ ごめん～ あはは…,"Wow, I'm sorry ~ ah ...",0.2,0.3117955
+I-It's nothing at all!,な 何でもないんだ！,Nothing!,0.3333333333333333,0.55042416
 I need to go apologize to Tayune-chan!,"あ 皆集まってる！
 たゆねちゃんに謝んなきゃー","All of you are gathering!
-I apologize to Yuna-chan",0.3076923076923077
-"Let's pretend we didn't see it, okay?",やはり 見なかった事にしよう！,After all I did not see it!,0.1875
-"Oh, I know!",無論！ 俺も込み！,Of course!I will come!,0.2222222222222222
-Let's all take a bath together!,そーだ！ 皆で風呂に入ろう！,Oh!Let's take a bath with everyone!,0.5454545454545454
-Keita!,ダアッ！,Daa!,0.3333333333333333
-That's a good thing...,いい事だ…,Good thing ...,0.5
-Inukami!,強く結ばれた絆 友情！！,Strongly tied 絆 friendship!!,0.16666666666666666
+I apologize to Yuna-chan",0.3076923076923077,0.6221662
+"Let's pretend we didn't see it, okay?",やはり 見なかった事にしよう！,After all I did not see it!,0.1875,0.4314162
+"Oh, I know!",無論！ 俺も込み！,Of course!I will come!,0.2222222222222222,0.051572144
+Let's all take a bath together!,そーだ！ 皆で風呂に入ろう！,Oh!Let's take a bath with everyone!,0.5454545454545454,0.9024379
+Keita!,ダアッ！,Daa!,0.3333333333333333,0.4677153
+That's a good thing...,いい事だ…,Good thing ...,0.5,0.66894674
+Inukami!,強く結ばれた絆 友情！！,Strongly tied 絆 friendship!!,0.16666666666666666,0.25831395
 Romeo loved Juliet with passion like a burning flame.,"ロミオは 燃え立つ炎のように
 ジュリエットに恋をする","Romeo is like a flame that burns
-Love to Juliet",0.3333333333333333
+Love to Juliet",0.3333333333333333,0.9036084
 """O Romeo, wherefore art thou Romeo?""","あーロミオ
 あなたはどうしてロミオなの？","Aromio
-Why are you Romeo?",0.15384615384615385
-He has the makings of a pervert in him.,彼に 変態の素質十分である,His is enough for him,0.07142857142857142
+Why are you Romeo?",0.15384615384615385,0.55187786
+He has the makings of a pervert in him.,彼に 変態の素質十分である,His is enough for him,0.07142857142857142,0.24648148
 I Can See Something!,"次回 いぬかみっ！
 「なんか見えてるっ！」","Next time!
-""I see something!""",0.4444444444444444
+""I see something!""",0.4444444444444444,0.51501495

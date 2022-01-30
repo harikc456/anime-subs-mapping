@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.6999691
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.62335306
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852414
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.7599903
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372732
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.30791065
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.4552255
 Master Jiraiya... I believe in you.,"私は
  
 あなた様を信じております
@@ -76,23 +76,23 @@ Master Jiraiya... I believe in you.,"私は
 ","I
  
 I believe in you
-.",0.625
+.",0.625,0.44220626
 What do you want?,"君は寝ないんですか？
 
-",Are you sleeping?,0.2857142857142857
+",Are you sleeping?,0.2857142857142857,0.26396826
 "after the first battle,
 to be able to fight Sasuke.","そうすれば
 １回戦は余り者の僕は➡
 
 ","that way
-The excess of the first round is ➡",0.1111111111111111
+The excess of the first round is ➡",0.1111111111111111,0.1071299
 I know your Sand attack.,"君の砂の攻撃は分かってるよ
 ｡
 ➡
 
 ","You know your sand attack
 .
-➡",0.625
+➡",0.625,0.917595
 "I wonder which is faster,
 yours or my Sound.","僕の音と
  
@@ -102,13 +102,13 @@ yours or my Sound.","僕の音と
 ","My sound
  
 Which one is fast
-.",0.38461538461538464
+.",0.38461538461538464,0.7833651
 In the full moon...,"(
 我愛羅
 )
 満月には…➡
 
-",In the full moon ... ➡,0.8333333333333334
+",In the full moon ... ➡,0.8333333333333334,0.93076766
 "in the full moon, his blood boils.","満月には
  
 あいつの血が騒ぐ
@@ -117,7 +117,7 @@ In the full moon...,"(
 ","In full moon
  
 Hydry blood
-.",0.5
+.",0.5,0.7195217
 W-What the heck... are you?,"お前は
  
 一体…
@@ -126,7 +126,7 @@ W-What the heck... are you?,"お前は
 ","You are
  
 ...
-.",0.375
+.",0.375,0.32152164
 Amazing... So that's his true form?,"あれが
  
 彼の正体ですか
@@ -135,7 +135,7 @@ Amazing... So that's his true form?,"あれが
 ","that
  
 Is his true body
-.",0.25
+.",0.25,0.5106109
 "It's all right.
 He's long since served his purpose.","(
 男
@@ -150,7 +150,7 @@ He's long since served his purpose.","(
 He
  
 Because it is easy to do
-.",0.23529411764705882
+.",0.2352941176470588,0.32269028
 "the power of the boy
 called Sasuke or something...","(
 バキ
@@ -159,7 +159,7 @@ called Sasuke or something...","(
 ガキの力を見るための➡
 
 ","Sasuke
-To see the power of Gaki",0.3333333333333333
+To see the power of Gaki",0.3333333333333333,0.7549192
 <i>Why...is he with the Sand Ninja?</i>,"(ﾊﾔﾃ)
 《なぜ
  
@@ -167,7 +167,7 @@ To see the power of Gaki",0.3333333333333333
 
 ","""why
  
-He is sand?""",0.3333333333333333
+He is sand?""",0.3333333333333333,0.5973139
 "No, that's not necessary anymore...","(ｶﾌﾞﾄ)
 いえ
  
@@ -175,7 +175,7 @@ He is sand?""",0.3333333333333333
 
 ","home
  
-It is no longer necessary",0.16666666666666666
+It is no longer necessary",0.16666666666666666,0.52984256
 "Actually, I'd already been ordered
 to seize Sasuke.","実は
  
@@ -189,7 +189,7 @@ to seize Sasuke.","実は
 already
  
 With Sasuke you
-It was ordered, but",0.3125
+It was ordered, but",0.3125,0.7766137
 But I failed...,"僕
  
 失敗してしまいまして…
@@ -200,7 +200,7 @@ But I failed...,"僕
  
 Failed ...
 Haha
-.",0.5
+.",0.5,0.6879768
 What did you say?,"何だと？
 (ｶﾌﾞﾄ)
 ええ
@@ -209,11 +209,11 @@ What did you say?,"何だと？
 ","What did you say?
 
 Yes
-.",0.7142857142857143
+.",0.7142857142857143,0.8646103
 <i>Are you looking to take me on?</i>,"(ｶｶｼ)
 ＜そのごときと試してみるか？➡
 
-",<Do you try to try it?➡,0.25
+",<Do you try to try it?➡,0.25,0.36460128
 "<i>Don't be so arrogant.</i>
 <i>The situation is in my favor.</i>","大人をあんまりナメるなよ
  
@@ -221,7 +221,7 @@ Yes
 
 ","Don't play an adult so much
  
-Kowa>",0.2
+Kowa>",0.2,0.19377725
 "It's also been found out that
 I'm a minion of the Sound.","(ｶﾌﾞﾄ)
 僕が音の手先だってのも
@@ -230,7 +230,7 @@ I'm a minion of the Sound.","(ｶﾌﾞﾄ)
 
 ","Even if I have a sound of sound
 I'm barre
-.",0.3157894736842105
+.",0.3157894736842105,0.47547147
 "Then... if they find out that you're
 having a secret meeting here with me...","なら
  
@@ -244,7 +244,7 @@ having a secret meeting here with me...","なら
 here
  
 Aunt
-I'm working closely with me",0.2
+I'm working closely with me",0.2,0.26170823
 "I heard...
 that you're Orochimaru's right hand man.","あんた
 大蛇丸の右腕と聞いたが
@@ -254,14 +254,14 @@ that you're Orochimaru's right hand man.","あんた
 ","Aunt
 I heard that the right arm of the large snake circle
 .
-➡",0.25
+➡",0.25,0.43276784
 I let them find out.,"バラしたんですけどね
 ｡
 ➡
 
 ","I rose but
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.16305426
 "I wanted to see how far
 the Leaf Village would go...","のこのこ
  
@@ -277,7 +277,7 @@ I will come to see me
 Blown
  
 I'm sorry
-.",0.15
+.",0.15,0.2288232
 "Even after that it wouldn't
 be too late to seize Sasuke.","それからでも
 サスケ君を奪うのは遅くない
@@ -285,7 +285,7 @@ be too late to seize Sasuke.","それからでも
 
 ","Again
 It is not late to take away Sasuke
-.",0.29411764705882354
+.",0.29411764705882354,0.8229114
 "It's a plan that was originally
 posed by the Sound, so.","もともと
  
@@ -297,7 +297,7 @@ posed by the Sound, so.","もともと
  
 The sound is
 It is a plan that has been brought
-.",0.4444444444444444
+.",0.4444444444444444,0.8558748
 "The Sand is invisible until
 the last moment.","砂は
  
@@ -309,7 +309,7 @@ the last moment.","砂は
  
 I can't go to the table to the last minute
 .
-➡",0.25
+➡",0.25,0.6287868
 This is the will of the Kazekage.,"これは
  
 風影様のご意志だ
@@ -318,11 +318,11 @@ This is the will of the Kazekage.,"これは
 ","this is
  
 It is a sense of wind-like
-.",0.36363636363636365
+.",0.3636363636363637,0.15477106
 <i>Holy smokes...</i>,"(ﾊﾔﾃ)
 《何てことです…》
 
-","""What is ...""",0.09090909090909091
+","""What is ...""",0.09090909090909093,0.116698466
 That's fine.,"(ｶﾌﾞﾄ)
 それで結構です
 ｡
@@ -330,12 +330,12 @@ That's fine.,"(ｶﾌﾞﾄ)
 
 ","So it is fine
 .
-➡",0.25
+➡",0.25,0.5526242
 This is the carry out plan from Sound.,"これが音側の決行計画書です
 ｡
 
 ","This is the sound side of the sound side
-.",0.45454545454545453
+.",0.4545454545454545,0.4545207
 Yeah.,"ん？
  
 フッ
@@ -344,7 +344,7 @@ Yeah.,"ん？
 ","Yeah?
  
 Hook
-.",0.5
+.",0.5,0.4045644
 I know.,"(
 バキ
 )
@@ -356,7 +356,7 @@ I know.,"(
 ","Ah…
  
 I know it
-.",0.6
+.",0.6,0.64546114
 "<i>has been already associated</i>
 <i>with the Sound...?!</i>","すでに
  
@@ -370,7 +370,7 @@ I know it
 Sound and
 I was connected
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.5844615
 "No, I'll do it...","いや
  
 私がやろう
@@ -379,11 +379,11 @@ I was connected
 ","Disagreeable
  
 I will do it
-.",0.3
+.",0.3,0.41820562
 "As the member of Sand Village
 of the Land of Wind,","風の国の砂隠れとしても➡
 
-",Even if it is sand broken in the wind country,0.1875
+",Even if it is sand broken in the wind country,0.1875,0.51249194
 Besides... it's just one mouse.,"(ｶﾌﾞﾄ)
 あぁ
  
@@ -395,12 +395,12 @@ Besides... it's just one mouse.,"(ｶﾌﾞﾄ)
  
 And ...
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.17774059
 It'll be easy.,"軽いもんだ
 ｡
 
 ","It is light
-.",0.2857142857142857
+.",0.2857142857142857,0.13485216
 "What in the world are you
 doing here alone?","(
 バキ
@@ -417,20 +417,20 @@ doing here alone?","(
 Integral
 Per person
  
-What happened?",0.11764705882352941
+What happened?",0.1176470588235294,0.19283958
 Leaf Style...,"(ﾊﾔﾃ)
 くっ…
 ｡
 
 ","...
-.",0.25
+.",0.25,0.15409651
 Crescent Moon Dance!,"木ノ葉流
  
 三日月の舞！
 
 ","Wooden lady
  
-The dance of the crescent moon!",0.5
+The dance of the crescent moon!",0.5,0.8258212
 "This technique is...
 the Leaf Style Crescent Moon Dance.","(
 バキ
@@ -449,7 +449,7 @@ Wooden lady
  
 Three day dance dance
 .
-➡",0.3125
+➡",0.3125,0.63005024
 "As expected,
 this village is full of talented Ninja.","さすがに
 この里は
@@ -463,14 +463,14 @@ This village
  
 I have a grain
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.50031286
 Your talent with a sword is superb.,"太刀筋は見事
 ｡
 ➡
 
 ","The sword muscle is wonderful
 .
-➡",0.25
+➡",0.25,0.68289053
 "However... a Wind sword can't
 be stopped by anyone.","しかし
  
@@ -478,7 +478,7 @@ be stopped by anyone.","しかし
 
 ","However
  
-Wind of the wind",0.15384615384615385
+Wind of the wind",0.15384615384615385,0.4919642
 Take that!,"(
 女性１
 )
@@ -490,32 +490,32 @@ Take that!,"(
 ","That!
  
 Hahaha ...
-.",0.3333333333333333
+.",0.3333333333333333,0.342742
 This is paradise.,"パラダイスしとるのう
 ｡
 
 ","Paradise
-.",0.5
+.",0.5,0.7449983
 "Hey, I said.","おいってばよ
 ｡
 
 ","Hey
-.",0.4
+.",0.4,0.6239354
 "Isn't it time for you to turn
 this way already?","あたしの修業に
 つきあってくれたら➡
 
 ","For my study
-If you have it",0.1875
+If you have it",0.1875,-0.05228621
 "So you finally came out...
 I was waiting for you.","待ってたぞ
 ｡
 
 ","I was waiting
-.",0.36363636363636365
+.",0.3636363636363637,0.5621692
 What?!,"え？
 
-",picture?,0.25
+",picture?,0.25,0.31339312
 I'm hungry.,"う～んと
  
 う～んと
@@ -526,7 +526,7 @@ I'm hungry.,"う～んと
  
 In
 I'm service
-.",0.5
+.",0.5,0.2121053
 Let's get back to the inn.,"おなかすいた
 ｡
 (
@@ -539,14 +539,14 @@ Let's get back to the inn.,"おなかすいた
 .
 
 Let's go back to the inn
-.",0.5833333333333334
+.",0.5833333333333334,0.7809885
 "Owww, darn it!","あぁ…
  
 あ～！
 
 ","Ahh…
  
-Oh!",0.14285714285714285
+Oh!",0.14285714285714285,0.33825356
 Okay... I'll teach you a technique.,"よ～し
  
 技を伝授するぞ～
@@ -555,20 +555,20 @@ Okay... I'll teach you a technique.,"よ～し
 ","~
  
 I will tell you the skills ~
-.",0.21428571428571427
+.",0.21428571428571427,0.31708425
 Do you really mean that?,"お前
  
 人をおちょくっとんのか？
 
 ","you
  
-Do you have a person?",0.3333333333333333
+Do you have a person?",0.3333333333333333,0.13508916
 "Do you remember what I told you
 yesterday about the two types of Chakra?","２種類のチャクラの話を
 覚えとるかのう？
 
 ","Two kind of chakra story
-Do you remember?",0.4375
+Do you remember?",0.4375,0.80511487
 "You know, what you said about blue
 and red Chakra or something.","青いチャクラと赤いチャクラとか
 言ってたのう
@@ -580,7 +580,7 @@ and red Chakra or something.","青いチャクラと赤いチャクラとか
 I said
  
 you
-.",0.5
+.",0.5,0.8369332
 Oh... What about it?,"ああ…
  
 んで
@@ -591,7 +591,7 @@ Oh... What about it?,"ああ…
  
 In
  
-What is it?",0.3333333333333333
+What is it?",0.3333333333333333,0.44972655
 "You said that when a great power
 came out, you felt red Chakra.","(
 自来也
@@ -606,7 +606,7 @@ came out, you felt red Chakra.","(
 red
 Chakra
 I said that I felt
-.",0.8
+.",0.8,0.93211967
 "Yeah, it was like that.","うん
  
 そんな感じだったかな…
@@ -615,7 +615,7 @@ I said that I felt
 ","Yes
  
 Was it like that ...
-.",0.5555555555555556
+.",0.5555555555555556,0.6963641
 Try building up that red Chakra right now.,"(
 自来也
 )
@@ -629,7 +629,7 @@ Try building up that red Chakra right now.,"(
  
 That red chakra
 Take it up now
-.",0.5
+.",0.5,0.7408176
 Hmm. Even you say so...,"う～ん…
  
 そう言われてもなぁ
@@ -638,19 +638,19 @@ Hmm. Even you say so...,"う～ん…
 ","Hmm ...
  
 Even if you say so
-.",0.875
+.",0.875,0.8432733
 How about it?,"どうだ？
 う～ん
 ｡
 
 ","How is it?
 Ugly
-.",0.42857142857142855
+.",0.42857142857142855,0.25392205
 It's the same Chakra as always.,"いつものチャクラだってばよ
 ｡
 
 ","It is always a regular chakra
-.",0.36363636363636365
+.",0.3636363636363637,0.90668905
 "Jeez, you have no talent.","ったく！
  
 才能ないのう
@@ -663,30 +663,30 @@ It's the same Chakra as always.,"いつものチャクラだってばよ
 Talented
  
 you
-.",0.2
+.",0.2,0.5402546
 "I really don't understand those
 two types of Chakra myself!","大体
 その２種類のチャクラってのが➡
 
 ","generally speaking
-Two kinds of chakra are ➡",0.17647058823529413
+Two kinds of chakra are ➡",0.17647058823529413,0.84980667
 Just keep trying.,"やっぱ違う
 ｡
 
 ","Perfect
-.",0.2
+.",0.2,0.14675336
 "<i>It seems Naruto himself still hasn't</i>
 <i>realized that</i>","ナルト自身も
 まだ気付いてないようだな》
 
 ","Naruto itself
-It seems not to notice yet """,0.15789473684210525
+It seems not to notice yet """,0.15789473684210525,0.7625403
 "<i>the red Chakra is</i>
 <i>the Nine Tailed Fox's Chakra.</i>","その赤いチャクラってのが
 九尾のチャクラだってことは➡
 
 ","That red chakra is
-It is a sign of Koji's chakra",0.21052631578947367
+It is a sign of Koji's chakra",0.21052631578947367,0.62626535
 "<i>Well, guessing from his story...</i>","(
 自来也
 )
@@ -694,19 +694,19 @@ It is a sign of Koji's chakra",0.21052631578947367
 こいつの話から推測するに➡
 
 ","""Well
-To guess from the story of this guy",0.16666666666666666
+To guess from the story of this guy",0.16666666666666666,0.62985176
 "<i>it seems the excitement of danger</i>
 <i>and heightened emotion</i>","自分の身の危険や
 感情の高ぶりが➡
 
 ","Your danger and
-The highlight of emotions",0.25
+The highlight of emotions",0.25,0.7420076
 "<i>are the key to summon</i>
 <i>the Nine Tailed Fox Chakra.</i>","九尾のチャクラを呼ぶ
 鍵らしいからな》
 
 ","Call the chakra of the nine tail
-Because it seems to be key",0.19047619047619047
+Because it seems to be key",0.19047619047619047,0.66510737
 "No good, not good,","あぁ…
  
 ダメ
@@ -719,20 +719,20 @@ Because it seems to be key",0.19047619047619047
 No good
  
 Dummy
-.",0.2857142857142857
+.",0.2857142857142857,0.33979797
 Only the usual Chakra's coming out.,"普通のチャクラしか
 出ねえってばよ
 ｡
 
 ","Only ordinary chakra
 If you go out
-.",0.3333333333333333
+.",0.3333333333333333,0.7778459
 "What the heck does the red Chakra and
 the technique you're going to teach me","これから
 教えてくれるっていう技と➡
 
 ","from now
-The technique of teaching and",0.16666666666666666
+The technique of teaching and",0.16666666666666666,0.3415177
 "the Chakra you've had until now
 is not nearly enough.","わしの教える技は
 今までの
@@ -742,7 +742,7 @@ is not nearly enough.","わしの教える技は
 ","The technique of teaching
 until now
  
-Your chakra",0.25
+Your chakra",0.25,0.6156015
 "that has been dormant within
 you at any time you need.","どデカい
  
@@ -752,7 +752,7 @@ you at any time you need.","どデカい
 ","Decadency
  
 Another chakra
-At any time",0.21428571428571427
+At any time",0.21428571428571427,0.20652375
 "But how do you know that
 I have such a Chakra?","俺に
  
@@ -762,15 +762,15 @@ I have such a Chakra?","俺に
 ","To me
  
 There is such a chakra
-Should I know?",0.35294117647058826
+Should I know?",0.35294117647058826,0.89108413
 it's because I'm a sage.,"わしが仙人だからだのう
 ｡
 
 ","Because it is a Senno
-.",0.4
+.",0.4,0.31177106
 Jeez... that's no answer.,"それは…➡
 
-",That's ... ➡,0.375
+",That's ... ➡,0.375,0.21412756
 "Anyway, the special Chakra
 that only you have","とにかく
  
@@ -780,15 +780,15 @@ that only you have","とにかく
 ","Anyways
  
 I only have to
-Special chakra is ➡",0.2857142857142857
+Special chakra is ➡",0.2857142857142857,0.8941971
 will become your greatest weapon.,"お前の最大の武器になる
 ｡
 
 ","Become your greatest weapon
-.",0.8333333333333334
+.",0.8333333333333334,0.8970961
 Greatest weapon?,"最大の武器？
 
-",Maximum weapon?,0.5
+",Maximum weapon?,0.5,0.7107104
 Not using that is like wasting treasure.,"(
 自来也
 )
@@ -800,7 +800,7 @@ Not using that is like wasting treasure.,"(
 ","I do not use it
 It is a treasure rotten
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.68770134
 "There's no need to forcedly do
 the same training as everyone else.","無理に
  
@@ -814,7 +814,7 @@ the same training as everyone else.","無理に
 Make the same study as everyone
 Unnecessary
 .
-➡",0.3157894736842105
+➡",0.3157894736842105,0.41823748
 You have your own style.,"お前には
 お前のスタイルがある
 ｡
@@ -823,7 +823,7 @@ You have your own style.,"お前には
 ","You
 There is your style
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.64943725
 "Your training until now, maintaining
 and releasing a set amount of Chakra,","今までの修業は
  
@@ -833,7 +833,7 @@ and releasing a set amount of Chakra,","今までの修業は
 ","The training so far is
  
 Chakra
-Maintain in a fixed amount",0.2
+Maintain in a fixed amount",0.2,0.85916686
 "was in other words,","まぁ
  
 言いかえれば
@@ -842,7 +842,7 @@ Maintain in a fixed amount",0.2
 ","Maic
  
 In way
-➡ ➡ ➡ ➡",0.125
+➡ ➡ ➡ ➡",0.125,0.09728407
 "training to control the suppression of
 Chakra so that you wouldn't get exhausted.","チャクラを抑える
 コントロールの修業だった
@@ -852,20 +852,20 @@ Chakra so that you wouldn't get exhausted.","チャクラを抑える
 ","Reduce chakra
 It was a control of control
 .
-➡",0.2
+➡",0.2,0.6292707
 But you who have a lot of stamina,"しかし
  
 スタミナの多いお前は➡
 
 ","However
  
-A lot of stamina",0.4444444444444444
+A lot of stamina",0.4444444444444444,0.80633
 "should be about power rather
 than a cheap trick.","小手先よりもパワーだ
 ｡
 
 ","It is power than the small tall
-.",0.2
+.",0.2,0.3902299
 "You, who has two types of Chakra
 and doesn't exhaust easily,","(
 自来也
@@ -878,7 +878,7 @@ and doesn't exhaust easily,","(
 ","Two
 Chakra
 Have
-Hoping to Bate",0.11764705882352941
+Hoping to Bate",0.1176470588235294,0.5791153
 "and train to increase the absolute amount
 of Chakra that you can use.","利用できるチャクラの
 絶対量を増やす修業をやるべきだ
@@ -886,7 +886,7 @@ of Chakra that you can use.","利用できるチャクラの
 
 ","Of chakras that can be used
 You should do training to increase the amount of absolute
-.",0.5
+.",0.5,0.8629338
 "Then there are tons of Jutsu
 and techniques you can use.","それでこそ
  
@@ -898,14 +898,14 @@ and techniques you can use.","それでこそ
  
 Can also use techniques and techniques that can be used
 Full
-.",0.29411764705882354
+.",0.29411764705882354,0.5777041
 "What, for example?","例えば
  
 どんなんだ？
 
 ","for example
  
-What is it?",0.5714285714285714
+What is it?",0.5714285714285714,0.64196926
 "For example... summoning jutsu
 that I'm going to teach you now.","例えば
  
@@ -913,10 +913,10 @@ that I'm going to teach you now.","例えば
 
 ","for example
  
-Teach me from now",0.25
+Teach me from now",0.25,0.5448865
 Summoning?,"口寄せ？
 
-",Call?,0.3333333333333333
+",Call?,0.3333333333333333,0.39059943
 "and summon whenever you like
 with Ninjutsu.","好きなときに
  
@@ -928,7 +928,7 @@ with Ninjutsu.","好きなときに
  
 Call by Ninjutsu
 A kind of space-time ninjutsu
-.",0.26666666666666666
+.",0.26666666666666666,0.633139
 "Oh! That sounds awesome.
 Teach me quick!","早く！
  
@@ -938,14 +938,14 @@ Teach me quick!","早く！
 ","quickly!
  
 Hey
-If you teach me early!",0.21428571428571427
+If you teach me early!",0.21428571428571427,0.6687201
 Before that...,"その前に
  
 まずはのう…➡
 
 ","before that
  
-First of all ... ➡",0.42857142857142855
+First of all ... ➡",0.42857142857142855,0.72859395
 "first, it's necessary to
 use up all of your usual Chakra.","ふだんのチャクラを
 全部
@@ -957,13 +957,13 @@ use up all of your usual Chakra.","ふだんのチャクラを
 Whole
  
 It is necessary to use it
-.",0.35294117647058826
+.",0.35294117647058826,0.84432554
 Okay!,"よ～っしゃ！
 
-",Yo!,0.3333333333333333
+",Yo!,0.3333333333333333,0.41144255
 Leave it to me.,"任せとけ！
 
-",Leave it!,0.3333333333333333
+",Leave it!,0.3333333333333333,0.68792236
 "Well... So you can use the
 Shadow Clone Jutsu.","ほう
  
@@ -973,7 +973,7 @@ Shadow Clone Jutsu.","ほう
 ","law
  
 Can I use shadow cells
-.",0.2857142857142857
+.",0.2857142857142857,0.54554784
 "I have a good idea how to get rid
 of my Chakra quickly.","俺に
  
@@ -983,13 +983,13 @@ of my Chakra quickly.","俺に
 ","To me
  
 If there is a good idea
-.",0.2777777777777778
+.",0.2777777777777778,0.23392902
 "Listen up. We're going to have
 a battle royal now.","バトルロイヤルをやる
 ｡
 
 ","Do Battle Royal
-.",0.23076923076923078
+.",0.2307692307692308,0.70999676
 "We're going to determine
 the me among me!","最後まで生き残ったヤツが
 最強の俺だ
@@ -997,11 +997,11 @@ the me among me!","最後まで生き残ったヤツが
 
 ","The guy who survived to the end
 It is the strongest me
-.",0.17647058823529413
+.",0.17647058823529413,0.29250923
 "- Yeah!
 - Yeah!","お～！
 
-",Oh!,0.25
+",Oh!,0.25,0.30071732
 "I see.
 Good thinking considering he's stupid.","なるほどのう
 頭が悪いわりには考えたもんだ
@@ -1009,33 +1009,33 @@ Good thinking considering he's stupid.","なるほどのう
 
 ","I see
 I thought that my head was bad
-.",0.2
+.",0.2,0.28327945
 "Okay, let's go!","よ～っしゃ
  
 行くぞ！
 
 ","It is
  
-let's go!",0.5
+let's go!",0.5,0.71083057
 "My, this is a sexually unattractive scene.","しかしまぁ
 色気のない光景だのう
 ｡
 
 ","Thank you
 It is a scene that does not have sex
-.",0.23529411764705882
+.",0.2352941176470588,0.6308455
 Well done.,"お見事
 ｡
 
 ","well done
-.",1.0
+.",1.0,1.0000005
 "Sure enough, I'm the strongest me.","やっぱり俺が
 いちばん強い俺だったぜ
 ｡
 
 ","After all I
 It was the most strong me
-.",0.26666666666666666
+.",0.26666666666666666,0.6623188
 "It looks like you've finally used up
 almost all of your Chakra.","ようやく
  
@@ -1047,14 +1047,14 @@ almost all of your Chakra.","ようやく
  
 Most chakras
 It looks like it was used
-.",0.2631578947368421
+.",0.2631578947368421,0.7404539
 "Oh, I've been waiting!","ウッホ～！
  
 待ってました！
 
 ","Ucho ~!
  
-I've been waiting!",0.5555555555555556
+I've been waiting!",0.5555555555555556,0.5538493
 "First, I'll show you.","まず
  
 わしが
@@ -1065,22 +1065,22 @@ I've been waiting!",0.5555555555555556
  
 Wow
 I can try it
-.",0.2727272727272727
+.",0.2727272727272727,0.4310699
 Watch carefully.,"よ～く見とけ
 ｡
 
 ","Looking down
-.",0.2
+.",0.2,0.42858788
 Summoning Jutsu!,"口寄せの術！
 
-",Callege of mouth!,0.16666666666666666
+",Callege of mouth!,0.16666666666666666,0.24589981
 Open that scroll.,"その巻物を開いてみろ
 ｡
 ➡
 
 ","Open the scroll
 .
-➡",0.5
+➡",0.5,0.8845556
 "It's a contract with the
 summoning toads","口寄せのガマたちとの契約書だ
 ｡
@@ -1088,7 +1088,7 @@ summoning toads","口寄せのガマたちとの契約書だ
 
 ","It is a contract with the gama of the mouth
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.47564176
 that I've taken over from generations.,"それは
  
 わしが代々
@@ -1099,10 +1099,10 @@ that I've taken over from generations.,"それは
  
 Wow is
  
-Take over",0.18181818181818182
+Take over",0.18181818181818185,0.28649634
 Sign your name in your own blood,"自分の血で名を書き➡
 
-",Write your name with your own blood,0.5
+",Write your name with your own blood,0.5,0.8402343
 "and stamp the fingerprints of one hand
 in blood under that.","契約したほうの手を置く
 ｡
@@ -1110,7 +1110,7 @@ in blood under that.","契約したほうの手を置く
 
 ","Put the hand of the contract
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.26545173
 "Then build up Chakra in the place
 you want to summon","あとは
  
@@ -1120,7 +1120,7 @@ you want to summon","あとは
 ","later
  
 To where you want to call
-Tear chakra ➡",0.25
+Tear chakra ➡",0.25,0.6611547
 "The Sign is
 Boar-Dog-Bird-Monkey-Sheep.","印は
  ｢
@@ -1150,7 +1150,7 @@ Appeal
 Not
 ""
 is
-.",0.25
+.",0.25,0.55471045
 NARUTO UZUMAKI.,"ナ
  
 ル
@@ -1163,7 +1163,7 @@ NARUTO UZUMAKI.,"ナ
 Le
  
 door
-.",0.16666666666666666
+.",0.16666666666666666,0.06280242
 "It's easier for you to release
 red Chakra right now.","今のお前は
  
@@ -1177,7 +1177,7 @@ red Chakra right now.","今のお前は
 Red chakra
 It's easy to come out
 .
-➡",0.3888888888888889
+➡",0.3888888888888889,0.7020755
 I already am.,"もう
  
 やってるよ
@@ -1186,7 +1186,7 @@ I already am.,"もう
 ","Already
  
 yeah, I'm doing it
-.",0.3333333333333333
+.",0.3333333333333333,0.4936068
 "Boar, Dog, Bird, Monkey, Sheep.","亥
  
 戌
@@ -1207,14 +1207,14 @@ Rooster
 Appeal
  
 Not
-.",0.18181818181818182
+.",0.18181818181818185,0.3760704
 Ninja Art! Summoning jutsu.,"忍法
  
 口寄せの術！
 
 ","Ninja method
  
-Callege of mouth!",0.2
+Callege of mouth!",0.2,0.49711677
 "<i>This kid...has no talent, after all.</i>","やっぱり
  
 こいつ
@@ -1225,14 +1225,14 @@ Callege of mouth!",0.2
  
 this guy
  
-I can not talent",0.15789473684210525
+I can not talent",0.15789473684210525,0.55960196
 Hayate... what in the world happened?,"一体
  
 何があったの？》
 
 ","Integral
  
-What happened?""",0.3
+What happened?""",0.3,0.27985474
 <i>Four! Sanchez is a lousy bullfighter. Ole!</i>,"♬
  
 あれもこれも土足で
@@ -1247,7 +1247,7 @@ That's also a minor
 hug
 ·
 Kiss
-· I LOVE YOU",0.08695652173913043
+· I LOVE YOU",0.08695652173913042,0.08510529
 "<i>Two! Peking Duck, Action Scene,</i>
 <i>Chen Lee speeds around on his bike</i>","♬
  
@@ -1263,7 +1263,7 @@ Peking duck
  Wire action
 Rushed chain in char
 ·
-Lee",0.16
+Lee",0.16,0.56564337
 "A ""rose for love""?
 That's so lame.","♬
  
@@ -1275,4 +1275,4 @@ That's so lame.","♬
  
 Good luck
  
-SO standing up",0.058823529411764705
+SO standing up",0.05882352941176471,0.056226883

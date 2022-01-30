@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.699969
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.62335294
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.28524134
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.7599904
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.53727305
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.30791083
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522577
 "The rules are the same as
 in the preliminaries.","(ｹﾞﾝﾏ)
 ルールは予選の時と同じ
@@ -76,7 +76,7 @@ in the preliminaries.","(ｹﾞﾝﾏ)
 
 ","The rule is the same as when qualifying
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.6141666
 "The match goes on until one of you
 dies or admits defeat.","どちらか一方が死ぬか
 負けを認めるまで行う
@@ -86,23 +86,23 @@ dies or admits defeat.","どちらか一方が死ぬか
 ","Which one will die
 Do it until you admit
 .
-➡",0.2
+➡",0.2,0.41157717
 "When it's determined that
 there's a winner,","勝負あったと見なした場合➡
 
-",If you consider that there was a match,0.21428571428571427
+",If you consider that there was a match,0.21428571428571427,0.40077674
 But that's my decision.,"それは俺の判断だ
 ｡
 
 ","That's my judgment
-.",0.5714285714285714
+.",0.5714285714285714,0.48425877
 Is your body all right?,"リー君も
  
 もう体はいいのかな？
 
 ","Lee too
  
-Is the body already?",0.3
+Is the body already?",0.3,0.3073147
 Kakashi!,"(
 ガイ
 )
@@ -112,7 +112,7 @@ Kakashi!,"(
 
 ","Kakashi
 .
-teacher Kakashi!",0.5
+teacher Kakashi!",0.5,0.84882706
 "You must've been worried.
 Sorry for not contacting you at all...","お前
  
@@ -124,7 +124,7 @@ Sorry for not contacting you at all...","お前
  
 Worried
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.4172297
 "<i>Oh no, Sakura's gonna get really mad...</i>","(
 いの
 )
@@ -138,7 +138,7 @@ Worried
  
 I'm getting angry
  
-Sakura",0.09523809523809523
+Sakura",0.09523809523809523,0.7886507
 <i>It's hard to see from here...</i>,"《やっぱり
  
 ここからじゃ
@@ -147,36 +147,36 @@ Sakura",0.09523809523809523
 ","""on second thoughts
  
 From here
-I can not see it well",0.2631578947368421
+I can not see it well",0.2631578947368421,0.39171118
 Kakashi Sensei...,"カカシ先生
 ｡
 
 ","teacher Kakashi
-.",0.2
+.",0.2,0.67525625
 Hm?,"(ｶｶｼ)
 ん？
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.6662806
 "You know about the mark
 on Sasuke's neck, don't you?","サスケ君の首には
 アザがあったでしょ？
 
 ","Sasuke's neck
-There was aza?",0.25
+There was aza?",0.25,0.75043845
 No need to worry.,"(ｶｶｼ)
 心配ないよ
 ｡
 
 ","I do not worry
-.",0.25
+.",0.25,0.7179922
 "So, that's that.","あれは…
 ｡
 
 ","That is…
-.",0.3333333333333333
+.",0.3333333333333333,0.5299766
 Yup!,"うん！
 
-",Yes!,0.3333333333333333
+",Yes!,0.3333333333333333,0.72630554
 Eight.,"７
  
 ８
@@ -187,24 +187,24 @@ Eight.,"７
  
 8
 .
-➡",0.2
+➡",0.2,0.6289805
 Eight of them...,"８人…》
 
-",8 people ...,0.16666666666666666
+",8 people ...,0.16666666666666666,0.68239415
 What's Lord Hokage thinking?,"火影様は
  
 どういうつもりだ？
 
 ","Surface
  
-What are you going?",0.2
+What are you going?",0.2,0.16003501
 in important areas in the village.,"暗部は
  
 里の主要部に分散し➡
 
 ","The dark part
  
-Distributed in the main part of the village",0.2727272727272727
+Distributed in the main part of the village",0.2727272727272727,0.53978825
 Huh?,"(ｶｶｼ)
 ん？
 (
@@ -216,14 +216,14 @@ Huh?,"(ｶｶｼ)
 ","Yeah?
 
 Start
-.",0.2
+.",0.2,0.40093955
 It's about to begin.,"２小隊とは少なすぎる
 ｡
 ➡
 
 ","2 is too small to
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.12801695
 "Kakashi, I'll be carefully checking out
 what sort of training you gave him...","カカシ
  
@@ -233,12 +233,12 @@ what sort of training you gave him...","カカシ
 ","Kakashi
  
 You are to him
-What kind of training has been done ➡",0.2608695652173913
+What kind of training has been done ➡",0.2608695652173913,0.86317074
 as your eternal rival!,"永遠のライバルとしてな
 ｡
 
 ","As an eternal rival
-.",0.42857142857142855
+.",0.42857142857142855,0.8742392
 Huh? Did you say something,"(ｶｶｼ)
 ん？
  
@@ -246,7 +246,7 @@ Huh? Did you say something,"(ｶｶｼ)
 
 ","Yeah?
  
-Did you say something?",0.7142857142857143
+Did you say something?",0.7142857142857143,0.8473464
 "No! You're slick, Kakashi!","ノー！
  
 ナウいぞ
@@ -257,7 +257,7 @@ Did you say something?",0.7142857142857143
  
 Nuru
  
-Kakashi!",0.375
+Kakashi!",0.375,0.6627916
 Why are you always so avant garde?!,"どうして
  
 お前は
@@ -274,11 +274,11 @@ You are
 everytime
  
 Yes
-Avant-garde!",0.3333333333333333
+Avant-garde!",0.3333333333333333,0.9324825
 Begin!,"(ｹﾞﾝﾏ)
 始め！
 
-",start!,0.3333333333333333
+",start!,0.3333333333333333,0.8852049
 "<i>So this is the sand</i>
 <i>Kakashi told me about...</i>","《カカシが言ってた
  
@@ -286,7 +286,7 @@ Begin!,"(ｹﾞﾝﾏ)
 
 ","""Kakashi said
  
-This is sandy """,0.17647058823529413
+This is sandy """,0.17647058823529413,0.7470355
 Please don't get so mad...,"(
 我愛羅
 )
@@ -298,28 +298,28 @@ Please don't get so mad...,"(
 ","so much…
  
 Don't get angry ...
-.",0.5
+.",0.5,0.5507158
 Mother...,"さっきは…➡
 
-",Next ... ➡,0.25
+",Next ... ➡,0.25,0.32983044
 <i>What's he talking about...?</i>,"ん？
 
-",Yeah?,0.08333333333333333
+",Yeah?,0.08333333333333333,0.07293229
 I'm sorry.,"ごめんよ
 ｡
 ➡
 
 ","Sorry
 .
-➡",0.4
+➡",0.4,0.52156985
 But this time it'll likely...,"でも➡
 
-",But,0.14285714285714285
+",But,0.14285714285714285,0.375147
 taste good.,"母さん…
 ｡
 
 ","mother…
-.",0.25
+.",0.25,0.2547309
 "This is the first time I've seen Gaara
 get like that before fighting.","(ﾃﾏﾘ)
 戦う前から
@@ -332,17 +332,17 @@ get like that before fighting.","(ﾃﾏﾘ)
  
 It became over there
 I saw it for the first time
-.",0.3181818181818182
+.",0.3181818181818182,0.43161497
 Him.,"あいつ
 ｡
 
 ","that person
-.",0.25
+.",0.25,0.5629239
 It appears he's calmed down.,"おいしいから
 ｡
 
 ","Because it is delicious
-.",0.2
+.",0.2,0.044440407
 Hey...,"(
 我愛羅
 )
@@ -354,7 +354,7 @@ Hey...,"(
 ","Hua ...
  
 Hua ...
-.",0.25
+.",0.25,0.17223033
 "Do you remember...
 what he said yesterday?","きのうの
  
@@ -364,7 +364,7 @@ what he said yesterday?","きのうの
 ","Yesterday
  
 Atsushi
-Do you remember?",0.5
+Do you remember?",0.5,0.57613987
 <i>I will kill...you all without fail.</i>,"＜お前たちは必ず
  
 俺が殺す
@@ -375,12 +375,12 @@ Do you remember?",0.5
  
 I kill
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.73214567
 That's what he said...,"…って言ってたろ
 ｡
 
 ","... I said
-.",0.25
+.",0.25,0.5113651
 But he didn't do it.,"でも
  
 そうしなかった
@@ -389,12 +389,12 @@ But he didn't do it.,"でも
 ","but
  
 That was not
-.",0.2
+.",0.2,0.5774112
 "It was the perfect opportunity, but...","絶好のチャンスだったのにだ
 ｡
 
 ","It was a great opportunity
-.",0.2727272727272727
+.",0.2727272727272727,0.7953445
 "<i>Now, let me feel it!</i>","(
 我愛羅
 )
@@ -404,12 +404,12 @@ That was not
 
 ","<<
  
-Please let me feel!>",0.5
+Please let me feel!>",0.5,0.75069284
 ...is only Sasuke!,"サスケだけだってばよ
 ｡
 
 ","It is only Sasuke
-.",0.42857142857142855
+.",0.42857142857142855,0.93385553
 "<i>I live fighting for only myself</i>
 <i>and loving myself...</i>","＜自分のためにだけ戦い
 自分を愛して生きる
@@ -419,17 +419,17 @@ Please let me feel!>",0.5
 ","<Battle only for yourself
 Love yourself and live
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.73174393
 <i>there could be no world more wonderful.</i>,"これほど
  
 すばらしい世界はない＞
 
 ","This much
  
-There is no wonderful world>",0.26666666666666666
+There is no wonderful world>",0.26666666666666666,0.82249755
 Here we go,"行くぞ！
 
-",let's go!,0.16666666666666666
+",let's go!,0.16666666666666666,0.4057336
 "The Sand Shield became
 a Sand Clone!","砂の盾が
  
@@ -439,7 +439,7 @@ a Sand Clone!","砂の盾が
 ","Sand shield
  
 Sand Several ...
-.",0.2
+.",0.2,0.74745756
 "<i>He's fast! This guy...</i>
 <i>is just like that guy...</i>","(
 我愛羅
@@ -452,17 +452,17 @@ Sand Several ...
 ","""fast!
 this guy
  
-Atsushi ... """,0.29411764705882354
+Atsushi ... """,0.29411764705882354,0.5899918
 Is that the Sand Armor?,"それが砂のよろいか
 ｡
 
 ","Is that a sandy?
-.",0.3333333333333333
+.",0.3333333333333333,0.5480726
 Come on!,"来い
 ｡
 
 ","come
-.",0.25
+.",0.25,0.5576124
 "So apparently, Hinata will be
 all right for now if she rests.","とりあえず
  
@@ -474,7 +474,7 @@ all right for now if she rests.","とりあえず
  
 Hinata
 It is okay if it is rested
-.",0.2777777777777778
+.",0.2777777777777778,0.66784966
 "Huh? You know this person?
 What're you taking about?","あ？
  
@@ -486,7 +486,7 @@ What're you taking about?","あ？
  
  this person 
  
- I know?",0.3333333333333333
+ I know?",0.3333333333333333,0.5362365
 "Not that, but at the examination...?
 What do you mean?","そうじゃなくて試験でって
 そりゃどういう…
@@ -494,7 +494,7 @@ What do you mean?","そうじゃなくて試験でって
 
 ","Not so, in the exam
 So what ...
-.",0.29411764705882354
+.",0.29411764705882354,0.71556664
 "If you're not gonna come at me,
 I'll go at you!","来ないなら
  
@@ -502,7 +502,7 @@ I'll go at you!","来ないなら
 
 ","If not coming
  
-Go from here!",0.23529411764705882
+Go from here!",0.2352941176470588,0.54318947
 He's fast!,"(
 リー
 )
@@ -510,18 +510,18 @@ He's fast!,"(
 ｡
 
 ","fast
-.",0.2
+.",0.2,0.564615
 What's the matter? Is that it?,"どうしたよ？
  
 そんなもんか？
 
 ","What happened?
  
-Such a?",0.18181818181818182
+Such a?",0.18181818181818185,0.26675004
 "<i>His speed is basically the same</i>
 <i>as Lee's with the weights removed.</i>","ほぼ同じスピード》
 
-","Almost the same speed """,0.16666666666666666
+","Almost the same speed """,0.16666666666666666,0.53142506
 "<i>It's... It's exactly like</i>
 <i>Lee's Taijutsu.</i>","《何か
  
@@ -535,7 +535,7 @@ Such a?",0.18181818181818182
 Lee's body and
 Exactly
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.50680006
 "<i>Sasuke... You are indeed</i>
 <i>a genius beyond imagination.</i>","それを…
  
@@ -549,7 +549,7 @@ Exactly
 You are
 only
  
-Without ...",0.17647058823529413
+Without ...",0.17647058823529413,0.21245392
 "<i>How many years did it take me</i>
 <i>to attain that speed...?</i>","一体
  
@@ -561,13 +561,13 @@ Without ...",0.17647058823529413
  
 How many years did it take ...
 .
-➡",0.35
+➡",0.35,0.5008857
 "<i>However, it seems to consume</i>
 <i>a lot of stamina</i>","かなりのスタミナを
 消耗するようですね》
 
 ","Very stamina
-It seems to be exhausted """,0.2222222222222222
+It seems to be exhausted """,0.2222222222222222,0.6040472
 "<i>The sand armor uses up too</i>
 <i>much Chakra...</i>","砂のよろいは
 チャクラを使い過ぎる
@@ -577,7 +577,7 @@ It seems to be exhausted """,0.2222222222222222
 ","Sand oysters
 Use chakra too much
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.7333245
 "What the heck sort of training
 did you do?!","一体
  
@@ -589,7 +589,7 @@ did you do?!","一体
  
 What kind of training did you do?
 
-Yeah?",0.5
+Yeah?",0.5,0.74801767
 To get to that level in a mere month...,"たった１か月で
  
 あそこまで
@@ -598,27 +598,27 @@ To get to that level in a mere month...,"たった１か月で
 ","In one month
  
 Over there
-.",0.15384615384615385
+.",0.15384615384615385,0.36726308
 So during the Taijutsu training...,"だから俺は
  
 体術の修業中➡
 
 ","So I
  
-During the study of the body",0.3
+During the study of the body",0.3,0.40890726
 I had Sasuke image Lee's movements.,"サスケに
 リー君の動きをイメージさせた
 ｡
 
 ","In Sasuke
 Lee I made the image of your move
-.",0.35714285714285715
+.",0.35714285714285715,0.80372113
 only because he knew Lee.,"(ｶｶｼ)
 サスケは
 リー君を知っていたからこそ➡
 
 ","Sasuke
-Because I knew Lee ➡",0.3333333333333333
+Because I knew Lee ➡",0.3333333333333333,0.55215526
 "Of course, Sasuke had to
 work very hard for it.","もちろん
 すごく苦労はしたけどね
@@ -626,7 +626,7 @@ work very hard for it.","もちろん
 
 ","of course
 I had a lot of trouble
-.",0.25
+.",0.25,0.288328
 <i>But...with only that...</i>,"(
 リー
 )
@@ -636,12 +636,12 @@ I had a lot of trouble
 
 ","""but
  
-That alone ... ➡",0.25
+That alone ... ➡",0.25,0.43246815
 <i>He must have seen the battle</i>,"かわいいリーの一戦を
 目にしていたはず》
 
 ","Cute Lee's Battle
-It should have been seen",0.1875
+It should have been seen",0.1875,0.5281361
 <i>Taijutsu that was taught suddenly</i>,"あの動きを
 手に入れることができた
 ｡
@@ -650,16 +650,16 @@ It should have been seen",0.1875
 ","That movement
 I was able to get it
 .
-➡",0.1875
+➡",0.1875,0.26410365
 <i>So if that's the case...</i>,"だとしたら➡
 
-","If so,",0.16666666666666666
+","If so,",0.16666666666666666,0.19306682
 "<i>Why is it that he had Sasuke</i>
 <i>master only Taijutsu?!</i>","体術ばかりを極めさせたのは
 なぜだ？》
 
 ","It is the thing that only the body is
-Why?""",0.3
+Why?""",0.3,0.16881692
 "<i>But as long as you're alive,</i>
 <i>you need a reason...</i>","(
 我愛羅
@@ -672,20 +672,20 @@ Why?""",0.3
 ","<While alive
 I need the reason
 .
-➡",0.2631578947368421
+➡",0.2631578947368421,0.7128735
 "<i>If you don't have one,</i>
 <i>it's just the same as being dead.</i>","でなければ
 死んでいるのと同じだ＞
 
 ","If not
-Same as dead>",0.19047619047619047
+Same as dead>",0.19047619047619047,0.5528348
 <i>What's this guy saying?!</i>,"＜何言ってんだ
  
 こいつ…＞
 
 ","<What you mean
  
-This guy ...>",0.35714285714285715
+This guy ...>",0.35714285714285715,0.5767553
 "<i>I am living in order to kill</i>
 <i>human beings other than myself.</i>","俺は
  
@@ -699,44 +699,44 @@ This guy ...>",0.35714285714285715
 To kill a person other than me
 Existing
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.71397746
 "<i>After living in the fear of never knowing</i>
 <i>when I might be murdered,</i>","いつ暗殺されるかも分からぬ
 死の恐怖の中で➡
 
 ","I do not know when to assassinate
-In the fear of death",0.2608695652173913
+In the fear of death",0.2608695652173913,0.5725204
 "<i>finally, I became calm.</i>","ようやく安どした＞
 
-",Finally cheap>,0.2222222222222222
+",Finally cheap>,0.2222222222222222,0.17238376
 Oh?,"(ｼｶﾏﾙ)
 お？
 
-",Oh?,1.0
+",Oh?,1.0,1.0000001
 Shikamaru...,"シカマル
 ｡
 
 ","Shikamaru
-.",0.3333333333333333
+.",0.3333333333333333,0.9622588
 What're you planning to do?,"どうするつもりだ？
  
 おい！
 
 ","What are you going to do?
  
-Oi!",0.45454545454545453
+Oi!",0.4545454545454545,0.6644875
 stop this match!,"止める！
 
-",stop!,0.5
+",stop!,0.5,0.57105404
 "<i>with a difference in the density</i>
 <i>of the sand.</i>","砂の密度の違いで➡
 
-",In the difference of sand density,0.38461538461538464
+",In the difference of sand density,0.38461538461538464,0.8385015
 So it's absolute protection.,"絶対防御ってやつか
 ｡
 
 ","Absolute defense
-.",0.2857142857142857
+.",0.2857142857142857,0.48497134
 "The sand...
 It's covered his entire body.","砂が
  
@@ -746,10 +746,10 @@ It's covered his entire body.","砂が
 ","Sand
  
 Covered the body
-.",0.5
+.",0.5,0.81590116
 Naruto!,"ナルト君！
 
-",Naruto!,1.0
+",Naruto!,1.0,1.0
 Huh? What do you want?,"さて
  
 サスケは
@@ -760,7 +760,7 @@ Huh? What do you want?,"さて
  
 Sasuke
  
-what will you do?""",0.4
+what will you do?""",0.4,0.273167
 "Sensei!
 Please stop this match right away!","先生
  
@@ -776,17 +776,17 @@ right now
  
 This match
 If you stop it
-.",0.2857142857142857
+.",0.2857142857142857,0.46661705
 That guy is totally different from us!,"あいつは
 俺たちと全然違うんだってばよ
 ｡
 
 ","Aya
 It's totally different from us
-.",0.3333333333333333
+.",0.3333333333333333,0.46250647
 He's not normal!,"普通じゃねえんだってばよ！
 
-","Normal, it's not good!",0.5
+","Normal, it's not good!",0.5,0.6036774
 "Naruto...
 What're you saying?","(
 いの
@@ -801,12 +801,12 @@ What're you saying?","(
  
 Aunt
  
-What are you talking about?",0.36363636363636365
+What are you talking about?",0.3636363636363637,0.7382196
 He lives to kill people.,"あいつは人を殺すために生きてる
 ｡
 
 ","He is alive to kill people
-.",0.625
+.",0.625,0.8477298
 In any case...,"(ｼｶﾏﾙ･ﾅﾙﾄ)
 ハァ
  
@@ -820,7 +820,7 @@ In any case...,"(ｼｶﾏﾙ･ﾅﾙﾄ)
 Han
  
 Hua ...
-.",0.14285714285714285
+.",0.14285714285714285,0.14842124
 "If this continues, Sasuke will die!","とにかく
  
 このままじゃ
@@ -833,11 +833,11 @@ Hua ...
 Let's leave this
  
 Sasuke
-I will die!",0.38461538461538464
+I will die!",0.38461538461538464,0.8581607
 Shoot!,"(ｶﾝｸﾛｳ)
 チッ！
 
-",Chi!,0.3333333333333333
+",Chi!,0.3333333333333333,0.42469424
 "<i>Everyone makes mistakes</i>
 <i>It's nothing to be ashamed about</i>","♬
  
@@ -845,7 +845,7 @@ Shoot!,"(ｶﾝｸﾛｳ)
 
 ","♬
  
-Everyone fails",0.0625
+Everyone fails",0.0625,0.3546
 "<i>So many regrets</i>
 <i>Don't let this scar be for naught</i>","♬
  
@@ -853,7 +853,7 @@ Everyone fails",0.0625
 
 ","♬
  
-Don't waste this scratch",0.16666666666666666
+Don't waste this scratch",0.16666666666666666,0.35812056
 "<i>Transform sadness into the wind</i>
 <i>and continue to forge on</i>","♬
  
@@ -863,7 +863,7 @@ Don't waste this scratch",0.16666666666666666
 ","♬
  
 Then the destination
-Near the wind blows",0.10526315789473684
+Near the wind blows",0.10526315789473684,0.4277364
 <i>Forge on strong</i>,"♬
  
 誰だって
@@ -872,7 +872,7 @@ Near the wind blows",0.10526315789473684
 ","♬
  
 Anyone
-I will fail",0.09090909090909091
+I will fail",0.09090909090909093,0.28891292
 "<i>it's meaningless unless one</i>
 <i>can move physically.</i>","♬
  
@@ -882,7 +882,7 @@ I will fail",0.09090909090909091
 ","♬
  
 Waste this scratch
-Let's do it",0.1111111111111111
+Let's do it",0.1111111111111111,0.10676485
 "Next time,
 ""Late for the Show, But Ready to Go!
 The Ultimate Secret Technique is Born!""","♬
@@ -897,4 +897,4 @@ Show Time
 Lifetime
  
 So far
-Show time",0.09090909090909091
+Show time",0.09090909090909093,0.41371024

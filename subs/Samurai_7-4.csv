@@ -1,135 +1,135 @@
-en_text,jp_text,google_translated,score
-I'm quickly losing track of\nwhat kind of tastes Sister has.,この飯 おろそかには食わんぞ,I'm eating this rice,0.13333333333333333
-"Well, I'll write again soon. Bye now!",（ゴロベエ）ほれ！,!,0.09090909090909091
-"""Beyond the flames of war,\nthe merchants watched.""",（ゴロベエ）んん…,...,0.0
-"""It was the samurai who held the era.""",（カツシロウ）キララ殿 すまぬ！,Kiralaka Samurai!,0.08333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+I'm quickly losing track of\nwhat kind of tastes Sister has.,この飯 おろそかには食わんぞ,I'm eating this rice,0.13333333333333333,0.29820803
+"Well, I'll write again soon. Bye now!",（ゴロベエ）ほれ！,!,0.09090909090909093,0.2411704
+"""Beyond the flames of war,\nthe merchants watched.""",（ゴロベエ）んん…,...,0.0,0.112248525
+"""It was the samurai who held the era.""",（カツシロウ）キララ殿 すまぬ！,Kiralaka Samurai!,0.08333333333333333,0.48248458
 I have accepted that you have\nplaced your resolve in my skill.,"（カツシロウ）
-そなたを守れなかった",I could not keep you,0.13333333333333333
-I will go to your village.,いや ２人とも 村へは連れていかん,"No, I will bring two people to the village",0.3076923076923077
-Thank you so much!,先生！,teacher!,0.16666666666666666
-hitori de kakaete kite tano?,（２人）んん？,?,0.16666666666666666
-And how much loneliness,さよう 賭けるのは己の命,How to bet is my life,0.1111111111111111
+そなたを守れなかった",I could not keep you,0.13333333333333333,0.14249998
+I will go to your village.,いや ２人とも 村へは連れていかん,"No, I will bring two people to the village",0.3076923076923077,0.65814936
+Thank you so much!,先生！,teacher!,0.16666666666666666,0.061944507
+hitori de kakaete kite tano?,（２人）んん？,?,0.16666666666666666,0.048037235
+And how much loneliness,さよう 賭けるのは己の命,How to bet is my life,0.1111111111111111,0.20514989
 "And if this isn't what you call love,","お主の矢が１発でも
 この体 貫いたならば―","Main arrow is one shot
-If you have this body",0.25
-Episode 4 - Go!,（キクチヨ）何！　５発だぞ ５発,What!5 shots,0.125
-Would you guys like to make a wager?,それでは こういたそう,So it seems like this,0.07692307692307693
-A wager?,（キクチヨ）あの野郎,That guy,0.0
-"Yes. The stakes will be our lives. You\nthere, archer, I will not move from here.",ブッ 見逃せと言ったはず,It should be said that I miss,0.09523809523809523
-Not at all. I accept.,賭けは成立しておらぬ,Bet is not established,0.1111111111111111
-He's out of his mind!,皆の者 早く外に！,Everyone's person is out of early!,0.36363636363636365
+If you have this body",0.25,-0.027903544
+Episode 4 - Go!,（キクチヨ）何！　５発だぞ ５発,What!5 shots,0.125,0.23488782
+Would you guys like to make a wager?,それでは こういたそう,So it seems like this,0.07692307692307693,0.12603074
+A wager?,（キクチヨ）あの野郎,That guy,0.0,0.1870534
+"Yes. The stakes will be our lives. You\nthere, archer, I will not move from here.",ブッ 見逃せと言ったはず,It should be said that I miss,0.09523809523809523,0.13395044
+Not at all. I accept.,賭けは成立しておらぬ,Bet is not established,0.1111111111111111,0.12762037
+He's out of his mind!,皆の者 早く外に！,Everyone's person is out of early!,0.3636363636363637,0.22730717
 "What!? Five shots, he said! Five shots!","（センサー男）ん？
-（ゴロベエ）ふっ",?,0.125
-"Okay then, let's do it this way...",（センサー男）ぐっ…,...,0.1
+（ゴロベエ）ふっ",?,0.125,0.115525
+"Okay then, let's do it this way...",（センサー男）ぐっ…,...,0.1,0.27084088
 That bastard!,"（センサー男）チッ
 （キクチヨ）野郎！","chip
- bastard!",0.5
-Don't!,（カンベエ）むうっ とう！,Muupu!,0.25
-You must be joking!,（キクチヨ）待ちやがれ！,waiting for you!,0.2857142857142857
+ bastard!",0.5,0.525576
+Don't!,（カンベエ）むうっ とう！,Muupu!,0.25,0.26865745
+You must be joking!,（キクチヨ）待ちやがれ！,waiting for you!,0.2857142857142857,0.13398337
 What recklessness!,"しゃっ！　しゃっ！　しゃっ！
 しゃっ…","!!!
-...",0.25
-Damn!,ふん！,Hmm!,0.3333333333333333
-"That's enough, both of you. Kikuchiyo,\nwhat are you going to do about that?",俺んとこに来るか？,Do you come to me?,0.2222222222222222
-"That's amazing and all,\nbut now we're all in a fix.",狭い所だが好きに使ってくれや,"It's a narrow place, but I like it",0.15
+...",0.25,0.13678768
+Damn!,ふん！,Hmm!,0.3333333333333333,0.50833285
+"That's enough, both of you. Kikuchiyo,\nwhat are you going to do about that?",俺んとこに来るか？,Do you come to me?,0.2222222222222222,0.15728098
+"That's amazing and all,\nbut now we're all in a fix.",狭い所だが好きに使ってくれや,"It's a narrow place, but I like it",0.15,0.06216669
 "Now then, what are you going to do?\NIf you have caught Maro-sama's eye,","あんたも聞いてるだろ？
 テッサイんところの２人―","Are you listening to you?
-Two people of the tessai",0.18181818181818182
-then this is the wrong time\nto be looking for samurai.,“武士は相身互い”だろ？,"""Samurai is your moisture""?",0.125
-"No, we will continue.",（ウキョウ）次 あんたが行きなよ,Next Yasada will not go,0.1
-"Wow, it's filthy!",はぁ… 違うんだよな,Ha ... It's different,0.2222222222222222
-We appreciate it.,（テッサイ）はあ？,is it?,0.16666666666666666
+Two people of the tessai",0.18181818181818185,0.25021175
+then this is the wrong time\nto be looking for samurai.,“武士は相身互い”だろ？,"""Samurai is your moisture""?",0.125,0.5119287
+"No, we will continue.",（ウキョウ）次 あんたが行きなよ,Next Yasada will not go,0.1,0.30887496
+"Wow, it's filthy!",はぁ… 違うんだよな,Ha ... It's different,0.2222222222222222,0.20850495
+We appreciate it.,（テッサイ）はあ？,is it?,0.16666666666666666,0.11671875
 "You go next. You heard what happened,\ndidn't you? To Tessai's two men?","（ウキョウ）
-キララ君も殺せと言ったのか！",Did you say Kirara to kill!,0.09523809523809523
-Ukyo-sama...,うっ うう…,Uh ...,0.3333333333333333
+キララ君も殺せと言ったのか！",Did you say Kirara to kill!,0.09523809523809523,0.37457448
+Ukyo-sama...,うっ うう…,Uh ...,0.3333333333333333,0.16835861
 "What I want is Kirara-kun.\NKirara-kun is so fine, you know?","マロが何を言いたいか
 分かるであろう？","What do Malo want to say
-Will you know?",0.3125
+Will you know?",0.3125,0.23384164
 "Young Lord, she's a peasant girl.","（ウキョウ）なぜだ！
 （アヤマロ）あれは農民だ","Why!
- That's a farmer",0.15384615384615385
+ That's a farmer",0.15384615384615385,0.38420263
 "For some reason, things have been\nquite tumultuous among the commoners","サムライにはサムライの
 農民には農民の分があるというもの","Samurai's Samurai
-Farmers have faractant for farmers",0.13333333333333333
-I'm terribly sorry you had\nto witness such a disgrace.,あんたには話をしてないんだよねえ,I have not talked to you,0.13333333333333333
-This sort of thing shouldn't\nhappen in the city.,古き時代の戦の話ぞ,The story of the old age,0.16666666666666666
-It is at the Lord's discretion as to\nhow to deal with such impure factions.,アキンドの法に従うことだ,It is to follow the law of Akyund,0.2
-You should remove such blemishes at once.,あんたたちなら やつらを斬れる,I will kill you if you,0.08333333333333333
-Who is it?,堅固なる余の守りじゃ,It is a protection of rigidity,0.25
-Why!?,（アヤマロ）野伏せり？,Wild and Fushi?,0.16666666666666666
+Farmers have faractant for farmers",0.13333333333333333,0.06912939
+I'm terribly sorry you had\nto witness such a disgrace.,あんたには話をしてないんだよねえ,I have not talked to you,0.13333333333333333,0.20433097
+This sort of thing shouldn't\nhappen in the city.,古き時代の戦の話ぞ,The story of the old age,0.16666666666666666,0.02335282
+It is at the Lord's discretion as to\nhow to deal with such impure factions.,アキンドの法に従うことだ,It is to follow the law of Akyund,0.2,0.36018527
+You should remove such blemishes at once.,あんたたちなら やつらを斬れる,I will kill you if you,0.08333333333333333,0.015708141
+Who is it?,堅固なる余の守りじゃ,It is a protection of rigidity,0.25,0.11180456
+Why!?,（アヤマロ）野伏せり？,Wild and Fushi?,0.16666666666666666,0.22670174
 and peasants have their\nplace as peasants.,"自ら戦のために
 生まれ変わったサムライ","For yourself
-Born and changed samurai",0.09090909090909091
+Born and changed samurai",0.09090909090909093,0.18207893
 "I wasn't speaking to you, you know.","より勲功を上げんとして
 自らを機械に変えた―","In order to increase the agency
-I changed my own to machine-",0.1111111111111111
-Do not show the Emissary\nsuch disrespect!,話は終わってないよ！,The story is not over!,0.3
+I changed my own to machine-",0.1111111111111111,0.05870957
+Do not show the Emissary\nsuch disrespect!,話は終わってないよ！,The story is not over!,0.3,0.09777425
 "For all of your big talk, the samurai\nand the peasants are still alive.","（伝令）御前
-式杜人(しきもりびと)の皆様がおいでです",It is good for everyone of the ceremony,0.15789473684210525
-I will be there soon.,時間がないのだな？,Is there no time?,0.1
+式杜人(しきもりびと)の皆様がおいでです",It is good for everyone of the ceremony,0.15789473684210525,0.12489366
+I will be there soon.,時間がないのだな？,Is there no time?,0.1,0.20135881
 I'm not done talking to you!,"自分が狙われていると
 知りながら―","I'm aiming for
-While knowing-",0.16666666666666666
-"Emissary, if you will\nbriefly excuse me...",（カツシロウ）あっ あ…,Aoi ...,0.1111111111111111
+While knowing-",0.16666666666666666,0.11345957
+"Emissary, if you will\nbriefly excuse me...",（カツシロウ）あっ あ…,Aoi ...,0.1111111111111111,0.24737455
 "Very soon, the ears of\nrice will bow their heads.","野伏せりを恐れるだけでは
 何も変わらないのです","Just fear the wild boat
-Nothing changes",0.058823529411764705
-"Kirara-dono, you are full\nof surprises.",ここには たくさんあります,There are many here,0.1
+Nothing changes",0.05882352941176471,0.1663966
+"Kirara-dono, you are full\nof surprises.",ここには たくさんあります,There are many here,0.1,0.082134776
 I am?,"（カツシロウ）はっ
-（男性）どいた どいた！",I did!,0.2
+（男性）どいた どいた！",I did!,0.2,0.27504998
 and yet you went to that\nplace earlier by yourself.,"村にいるだけでは
 決して見えないものが―","Just in the village
-What can not be seen by",0.05263157894736842
-It isn't sorcery.,たとえ 危険であろうと―,Even if it is dangerous-,0.25
+What can not be seen by",0.05263157894736842,0.07677703
+It isn't sorcery.,たとえ 危険であろうと―,Even if it is dangerous-,0.25,0.20715576
 "Even in the village, I can\nvaguely tell what's happening","（キララ）この手紙をカンナ村に
 届けていただきたいのです","This letter is in Kanna village
-I would like you to deliver",0.15
-in the outside world through the water.,では よろしく頼む,Thank you in advance,0.1
-I think it's a fairly dangerous place\nfor you to have come to out of yearning.,（店主）御前様に 急ぎ知らせよ,Let's get hurry in front of you,0.14285714285714285
+I would like you to deliver",0.15,0.35914823
+in the outside world through the water.,では よろしく頼む,Thank you in advance,0.1,0.19417472
+I think it's a fairly dangerous place\nfor you to have come to out of yearning.,（店主）御前様に 急ぎ知らせよ,Let's get hurry in front of you,0.14285714285714285,0.16512764
 ...since I was able to meet all of you.,"少し探りを入れてみるかと
 思案したのだが―","Do you try to put a little search
-I thought-",0.16666666666666666
-I-I see...,（ゴロベエ）ん？　ああ 見るか？,?Oh see you?,0.16666666666666666
-Nothing will ever change if we\ndo nothing but fear the bandits.,（ゴロベエ）ふむ むべなるかな,I wonder if it will be,0.13333333333333333
-Pardon us.,はっ,Haze,0.0
-I will take good care of it.,かようなご下命 賜ってはおらぬが,It is not good for the desire to,0.14285714285714285
-Um... Samurai-sama?,ヒョーゴ殿 よろしいので？,Hyoho Goso?,0.16666666666666666
-"Oh, you want to look?",サムライを斬りに行くか？,Do you go to kill Samurai?,0.2727272727272727
+I thought-",0.16666666666666666,0.017773112
+I-I see...,（ゴロベエ）ん？　ああ 見るか？,?Oh see you?,0.16666666666666666,0.4190656
+Nothing will ever change if we\ndo nothing but fear the bandits.,（ゴロベエ）ふむ むべなるかな,I wonder if it will be,0.13333333333333333,0.16782358
+Pardon us.,はっ,Haze,0.0,0.1501159
+I will take good care of it.,かようなご下命 賜ってはおらぬが,It is not good for the desire to,0.14285714285714285,0.14739053
+Um... Samurai-sama?,ヒョーゴ殿 よろしいので？,Hyoho Goso?,0.16666666666666666,0.26670316
+"Oh, you want to look?",サムライを斬りに行くか？,Do you go to kill Samurai?,0.2727272727272727,0.18434963
 "If it's going to cause\ntrouble with Maro,","あんたが キクの字に
 冷たく当たるもんでさ","Anti
-It's cold",0.18181818181818182
-I proposed that we try to\nsound him out a little.,よーし 済んだ,I finished,0.08333333333333333
+It's cold",0.18181818181818185,0.1926833
+I proposed that we try to\nsound him out a little.,よーし 済んだ,I finished,0.08333333333333333,0.12707935
 "What would I do, you ask?\NI have no idea.","おっさま 何で キクチヨの
 おっちゃま いじめるですか？","What's wrong with Kikuchiyo
-Aren't you bullying?",0.15
+Aren't you bullying?",0.15,0.13561869
 "Um, what is it?","（コマチ）いいです
 （カンベエ）んん？","is good
-?",0.2857142857142857
-No thank you!,（サムライ）無礼者！,Undewhat!,0.2
+?",0.2857142857142857,0.21481755
+No thank you!,（サムライ）無礼者！,Undewhat!,0.2,0.097095355
 "Let it go, Kanbe-san.\NThe girl is incensed.","あんたは いつでも
 戦に出られるってえ寸法だ","Anytime
-It is dimensioned that it will come out to the battle",0.1111111111111111
+It is dimensioned that it will come out to the battle",0.1111111111111111,0.11193754
 "It's still nice and sharp, huh?","いや 誰かに
 見られているような気がしてな","No, someone
-I feel like it is seen",0.125
-I'll be back soon.,つけられたな カツシロウ,I was attached,0.125
+I feel like it is seen",0.125,0.11444186
+I'll be back soon.,つけられたな カツシロウ,I was attached,0.125,0.2911219
 Katsushiro-sama?,"（カンベエ）お主 サムライか？
-（キララ･カツシロウ）はっ",Main Samurai?,0.25
-I am Shimada Kanbe.\NWhat name do you go by?,参る,Go,0.1
-Kyuzo.,（３人）ハァ ハァ ハァ…,Ha ha ha ...,0.0
-Draw.,ほれた,Obscene,0.0
-"I see, you are a samurai indeed.",力を貸してもらえぬか,I wonder if you lend me a power,0.21428571428571427
-Kanbe-dono!,断る！,turn down!,0.25
-I am enamored...,（カンベエ）なっ…,...,0.25
-Will you lend me your strength?,すまんが 背を向けさせてもらうぞ,I will let you let me go back,0.2727272727272727
-"To face the bandits, right?",（キュウゾウ）うん？,yes?,0.125
+（キララ･カツシロウ）はっ",Main Samurai?,0.25,0.41092372
+I am Shimada Kanbe.\NWhat name do you go by?,参る,Go,0.1,0.1534046
+Kyuzo.,（３人）ハァ ハァ ハァ…,Ha ha ha ...,0.0,0.13105607
+Draw.,ほれた,Obscene,0.0,0.18793312
+"I see, you are a samurai indeed.",力を貸してもらえぬか,I wonder if you lend me a power,0.21428571428571427,0.22213426
+Kanbe-dono!,断る！,turn down!,0.25,0.32966724
+I am enamored...,（カンベエ）なっ…,...,0.25,0.24592371
+Will you lend me your strength?,すまんが 背を向けさせてもらうぞ,I will let you let me go back,0.2727272727272727,0.31252378
+"To face the bandits, right?",（キュウゾウ）うん？,yes?,0.125,0.28131592
 I decline!,"是が非でも
 果たさねばならぬことがある","Perfectly
-I have to play",0.14285714285714285
-"...that I must accomplish, no matter what.",（ゴロベエ）あ… おい,Ai ...,0.09090909090909091
+I have to play",0.14285714285714285,0.09941092
+"...that I must accomplish, no matter what.",（ゴロベエ）あ… おい,Ai ...,0.09090909090909093,0.30070254
 I will confront you again.\NWait until that time.,"（キュウゾウ）
-気がうせた いずれ また",She who feelings are all again,0.0
+気がうせた いずれ また",She who feelings are all again,0.0,0.19790266
 Or would you cut me down here and now?,"（キクチヨ）
-ヘヘー やっと終わったぜ",Hehe and finally ended,0.07692307692307693
-I'm scared.,欲しい,want,0.0
-Nunky!,いってー！,Oh!,0.3333333333333333
+ヘヘー やっと終わったぜ",Hehe and finally ended,0.07692307692307693,0.0992444
+I'm scared.,欲しい,want,0.0,0.13164614
+Nunky!,いってー！,Oh!,0.3333333333333333,0.3350432

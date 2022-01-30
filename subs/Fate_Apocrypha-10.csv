@@ -1,149 +1,149 @@
-en_text,jp_text,google_translated,score
-Why...,（黒のライダー）くっ…,Damn...,0.3333333333333333
-Your opponent is me!,（ジーク）お前の相手は… 俺だ！,You're your opponent ... I'm me!,0.4
-Are you out of your right mind?!,バカなのか 君は！？,You're stupid!?,0.2727272727272727
-What are you doing?,何してる！？,what are you doing!?,0.8333333333333334
-Rider!,ライダー！,rider!,1.0
-I'm Sieg.,（ジーク）ジークだ,ItSieg,0.0
-Huh?,（赤のセイバー）あ？,Oh?,0.3333333333333333
-My name is Sieg!,ジークだ！,It is a geek!,0.25
-Sieg...,（赤のセイバー）てめえ…,...,0.5
+en_text,jp_text,google_translated,score,semantic_score
+Why...,（黒のライダー）くっ…,Damn...,0.3333333333333333,0.34911704
+Your opponent is me!,（ジーク）お前の相手は… 俺だ！,You're your opponent ... I'm me!,0.4,0.897048
+Are you out of your right mind?!,バカなのか 君は！？,You're stupid!?,0.2727272727272727,0.45513234
+What are you doing?,何してる！？,what are you doing!?,0.8333333333333334,0.8456888
+Rider!,ライダー！,rider!,1.0,1.0000001
+I'm Sieg.,（ジーク）ジークだ,ItSieg,0.0,0.16587329
+Huh?,（赤のセイバー）あ？,Oh?,0.3333333333333333,0.7311203
+My name is Sieg!,ジークだ！,It is a geek!,0.25,0.25308535
+Sieg...,（赤のセイバー）てめえ…,...,0.5,0.23397951
 It's ready! Berserker!,"（カウレス）準備完了だ！
 バーサーカー！","'reready!
-Berserker!",0.3333333333333333
+Berserker!",0.3333333333333333,0.688509
 The people in this uniform always \Nhave tons of tasty magical energy.,"やっぱり この服の人たちは
 魔力が いっぱいある","After all,the people ofthisclothes
-Sheisfull ofmagic",0.10526315789473684
-There's even dessert!,わっ！ あっ… う…,Wow!There...jar...,0.25
-This is so great!,あっ これかな？,Is this?,0.3333333333333333
-"Hello, is that you, Mom?",えっと もしもし お母さんですか？,"Well, is it a mother?",0.2727272727272727
-"Yup, it's me!",もう終わったから大丈夫！,It's okay because it has already finished!,0.2727272727272727
-Not at all!,ううん 全然！,Ummmmm!,0.2
-"Yeah, we're full!",うん！ おなかいっぱい！,Yes!Tummy full!,0.25
+Sheisfull ofmagic",0.10526315789473684,0.2865104
+There's even dessert!,わっ！ あっ… う…,Wow!There...jar...,0.25,0.30372867
+This is so great!,あっ これかな？,Is this?,0.3333333333333333,0.28201905
+"Hello, is that you, Mom?",えっと もしもし お母さんですか？,"Well, is it a mother?",0.2727272727272727,0.58057356
+"Yup, it's me!",もう終わったから大丈夫！,It's okay because it has already finished!,0.2727272727272727,0.08677684
+Not at all!,ううん 全然！,Ummmmm!,0.2,0.32282722
+"Yeah, we're full!",うん！ おなかいっぱい！,Yes!Tummy full!,0.25,0.5116248
 We should stay here a little longer...,"もうちょっと ここにいたほうが
 いいかなって","It is better to have a little more here
-It is good",0.2
-Jack?,（玲霞）ジャック？,jack?,1.0
-It's nothing. See you later!,ううん 大丈夫！ またあとで！,Uh-uhokay!later!,0.2222222222222222
+It is good",0.2,0.332468
+Jack?,（玲霞）ジャック？,jack?,1.0,0.9999999
+It's nothing. See you later!,ううん 大丈夫！ またあとで！,Uh-uhokay!later!,0.2222222222222222,0.41159838
 It's just one after the other...,"（赤のセイバー）
-ったく 次から次へと…",Geezfrom thenextto the next...,0.18181818181818182
-But...,ウッ…,Ugh...,0.3333333333333333
-I have to be careful.,慎重にいかないとな,I have to get cautious,0.375
+ったく 次から次へと…",Geezfrom thenextto the next...,0.18181818181818185,0.25374046
+But...,ウッ…,Ugh...,0.3333333333333333,0.45418465
+I have to be careful.,慎重にいかないとな,I have to get cautious,0.375,0.7838836
 Did you actually think that \Nyou stood a chance against me,"てめえごとき三下が
 １匹 増えたところでな―","Motha fuckerGotokiSanshitais
-Itjust has beenincreased by oneanimal-",0.0
-Berserker!,バーサーカー！,Berserker!,1.0
-Why the pathetic struggle?,ん？,Yeah?,0.16666666666666666
+Itjust has beenincreased by oneanimal-",0.0,0.024501458
+Berserker!,バーサーカー！,Berserker!,1.0,1.0
+Why the pathetic struggle?,ん？,Yeah?,0.16666666666666666,0.10226684
 You're no homunculus.,"（赤のセイバー）
-ホムンクルスとは違うのか…",Ordifferent fromthehomunculus...,0.0
-I'll kill you myself.,お前は 俺が殺す！,You kill me!,0.25
-Sieg!,ジーク！,Sieg!,1.0
-Why would you go so far to fight?,そこまでして なぜ戦う？,Whyfightwasup there?,0.09090909090909091
-Rider saved my life.,ライダーは俺を救ってくれた,The riderwho savedme,0.0
-Homunculus...,（赤のセイバー）ホムンクルス…,Homculus ...,0.3333333333333333
-"No, Sieg. I'll be sure to remember you.",いや ジークか,NooneSieg,0.0
+ホムンクルスとは違うのか…",Ordifferent fromthehomunculus...,0.0,0.44305837
+I'll kill you myself.,お前は 俺が殺す！,You kill me!,0.25,0.629185
+Sieg!,ジーク！,Sieg!,1.0,1.0000001
+Why would you go so far to fight?,そこまでして なぜ戦う？,Whyfightwasup there?,0.09090909090909093,0.4726221
+Rider saved my life.,ライダーは俺を救ってくれた,The riderwho savedme,0.0,0.6981796
+Homunculus...,（赤のセイバー）ホムンクルス…,Homculus ...,0.3333333333333333,0.57527757
+"No, Sieg. I'll be sure to remember you.",いや ジークか,NooneSieg,0.0,0.19229186
 Saber of Red!,"（黒のライダー）
-赤のセイバァァ～ッ！",Red Seibah!,0.4
-Wait!,（獅子劫(ししごう) 界離(かいり)）待て！,Wait for oki !,0.5
-"What is it, Master?",ん… 何だ？,... what is it?,0.5714285714285714
+赤のセイバァァ～ッ！",Red Seibah!,0.4,0.6102461
+Wait!,（獅子劫(ししごう) 界離(かいり)）待て！,Wait for oki !,0.5,0.37906742
+"What is it, Master?",ん… 何だ？,... what is it?,0.5714285714285714,0.32735628
 Of course I,"（獅子劫）バーサーカーの消滅は
 確認したんだろうな？","Disappearance of theberserker
-I guessit was confirmed?",0.2222222222222222
+I guessit was confirmed?",0.2222222222222222,0.14041078
 But Master...,"（黒のライダー）
-うっ… マスター でも…",EvenUgh...master...,0.5
+うっ… マスター でも…",EvenUgh...master...,0.5,0.6643279
 Shut up. Are you trying \Nto make me use a Command Spell?,"それとも
 私に令呪を使わせたいのかしら？","Or
-Do you want to use an ordinance?",0.15
-Bastard!,（黒のライダー）くっ！,Damn!,0.3333333333333333
-Berserker...,（カウレス）バーサーカー…,Berserker...,1.0
-and defeat Saber of Red!,赤のセイバーを倒せ！,Defeat the red Saber!,0.5714285714285714
-Come with me!,来い！,come!,0.5
-Shit!,（カウレス）くそっ！,Damn!,0.3333333333333333
+Do you want to use an ordinance?",0.15,0.17574927
+Bastard!,（黒のライダー）くっ！,Damn!,0.3333333333333333,0.5878769
+Berserker...,（カウレス）バーサーカー…,Berserker...,1.0,1.0
+and defeat Saber of Red!,赤のセイバーを倒せ！,Defeat the red Saber!,0.5714285714285714,0.90561306
+Come with me!,来い！,come!,0.5,0.6628802
+Shit!,（カウレス）くそっ！,Damn!,0.3333333333333333,0.66777235
 Of course the other side has Command Spells too!,"向こうにも令呪があることは
 分かっていたのに…","That there is an ordinance over the other side
-I knew it ...",0.15
-I let Berserker die in vain.,（ジーク）んん…,IN...,0.125
+I knew it ...",0.15,0.33447486
+I let Berserker die in vain.,（ジーク）んん…,IN...,0.125,0.10798912
 I couldn't do anything for her as Master...,"マスターとして
 何も… してやれなかった","As a master
-Nothing...did notShiteyare",0.21428571428571427
-Red. Blood.,（ジーク）赤い… 血だ…,'sred...blood...,0.2
+Nothing...did notShiteyare",0.21428571428571427,0.5347646
+Red. Blood.,（ジーク）赤い… 血だ…,'sred...blood...,0.2,0.5915848
 "I slayed the evil dragon Fafnir,","（黒のセイバー）
 邪竜ファヴニールを
 殺し―","An evil dragon favneal
-Kill-",0.2
-"People begged, relying on my invincibility,",無敵の力を頼りに 人々は願った,People wanted to rely on invincible power,0.16666666666666666
+Kill-",0.2,0.6661576
+"People begged, relying on my invincibility,",無敵の力を頼りに 人々は願った,People wanted to rely on invincible power,0.16666666666666666,0.27792835
 I want that woman for my wife.,"（グンター王）
-あの女を妻に迎えたい",I want to welcome her wife to her wife,0.2727272727272727
-"I granted the wishes of kings, \Nand even abode my own death.",そして… 己の死も…,And ... My death is also ...,0.1111111111111111
-I lived and died as a hero.,そして死んだ,And he died,0.2222222222222222
+あの女を妻に迎えたい",I want to welcome her wife to her wife,0.2727272727272727,0.6220125
+"I granted the wishes of kings, \Nand even abode my own death.",そして… 己の死も…,And ... My death is also ...,0.1111111111111111,0.38183343
+I lived and died as a hero.,そして死んだ,And he died,0.2222222222222222,0.41610274
 I don't get it.,"（ジーク）
-分からないことがある",I have something I do not know,0.2
-What was your wish then?,では あなたの願いは…,So your wish is ...,0.2222222222222222
+分からないことがある",I have something I do not know,0.2,0.18737447
+What was your wish then?,では あなたの願いは…,So your wish is ...,0.2222222222222222,0.55528086
 Did you have no wish to strive for?,"あなたは
 誰かの願いをかなえ続け―","you
-Continue tofulfillthewishesofsomeone-",0.09090909090909091
-"I kept wondering about that too,",俺も そのことをずっと考えていた,I was thinking about that much,0.3
-Then I realized.,願いは もう かなったのだと,I wishwhenhe wascome trueanymore,0.14285714285714285
-What is your wish?,（ジーク）え？,What?,0.4
-My wish...,俺の… 願い？,OfI...wish?,0.4
-"If you are afraid, draw that sword!",恐ろしいのならば 剣を振るえ,Tremoraswordiffrightening,0.0
-What do you wish for?,お前は何のために剣を抜く？,What do you remove the sword for what?,0.5555555555555556
-I don't know. Just give me the power to help others!,分からない だけど！,ButI do not know!,0.1875
-This is the path I chose!,これは俺が選んだ道だ！,This isthe waychosen byme!,0.2
-Who cares? We took one out!,え！？,Huh!?,0.2222222222222222
-"Hey, Master!",おい マスター！,Heymaster!,0.2
+Continue tofulfillthewishesofsomeone-",0.09090909090909093,0.12276242
+"I kept wondering about that too,",俺も そのことをずっと考えていた,I was thinking about that much,0.3,0.38686025
+Then I realized.,願いは もう かなったのだと,I wishwhenhe wascome trueanymore,0.14285714285714285,0.015761882
+What is your wish?,（ジーク）え？,What?,0.4,0.12981576
+My wish...,俺の… 願い？,OfI...wish?,0.4,0.47985667
+"If you are afraid, draw that sword!",恐ろしいのならば 剣を振るえ,Tremoraswordiffrightening,0.0,0.19094498
+What do you wish for?,お前は何のために剣を抜く？,What do you remove the sword for what?,0.5555555555555556,0.16334252
+I don't know. Just give me the power to help others!,分からない だけど！,ButI do not know!,0.1875,0.25047496
+This is the path I chose!,これは俺が選んだ道だ！,This isthe waychosen byme!,0.2,0.21989566
+Who cares? We took one out!,え！？,Huh!?,0.2222222222222222,0.18038377
+"Hey, Master!",おい マスター！,Heymaster!,0.2,0.77565956
 "Saber of Black is dead, right?","黒のセイバーは
 消滅したはずだよな？","Black Saber
-You'resupposed tohave disappeared?",0.2727272727272727
-What? That's what Father Shiro said.,（獅子劫）何だって？,What is it?,0.2
+You'resupposed tohave disappeared?",0.2727272727272727,0.67638844
+What? That's what Father Shiro said.,（獅子劫）何だって？,What is it?,0.2,0.0075981617
 Then who's this Saber in front of me?,"俺の目の前にいる
 あのセイバーは何もんだ？","In front ofmy eyes
-ThatSaber'swhatmon?",0.23076923076923078
-Some homunculus turned himself into a Servant!,サーヴァントになりやがった！,It became a servant!,0.3
-Are you okay?,（ジーク）大丈夫か？,Orokay?,0.2
-Just another name to cross out.,だが やるべきことは変わらねえ,But thething to doisunchanged,0.1
-"Hey, fake Saber!",この剣と力は紛れもない本物だ！,Theswordand thepoweris realunmistakable!,0.125
-"You don't just look like him, right?",なら… 試してみるとするか！,"If so, do you try it!",0.2
-But this sword and power are the real thing!,（赤のキャスター）何と何と！,Whatthewhat!,0.09090909090909091
+ThatSaber'swhatmon?",0.2307692307692308,0.4388879
+Some homunculus turned himself into a Servant!,サーヴァントになりやがった！,It became a servant!,0.3,0.6645168
+Are you okay?,（ジーク）大丈夫か？,Orokay?,0.2,0.26736927
+Just another name to cross out.,だが やるべきことは変わらねえ,But thething to doisunchanged,0.1,0.31911874
+"Hey, fake Saber!",この剣と力は紛れもない本物だ！,Theswordand thepoweris realunmistakable!,0.125,0.31821388
+"You don't just look like him, right?",なら… 試してみるとするか！,"If so, do you try it!",0.2,0.1646516
+But this sword and power are the real thing!,（赤のキャスター）何と何と！,Whatthewhat!,0.09090909090909093,0.13928354
 "No, I'd say it's closer to possession.","（シロウ･コトミネ）
-いえ どちらかというと憑依(ひょうい)に近い",Ieclose to thepossessionandhe sayseither,0.07142857142857142
-Possession?,憑依ですと？,Andispossession?,0.3333333333333333
+いえ どちらかというと憑依(ひょうい)に近い",Ieclose to thepossessionandhe sayseither,0.07142857142857142,0.011718545
+Possession?,憑依ですと？,Andispossession?,0.3333333333333333,0.26750258
 "As you say. To be possessed by a Heroic Spirit, \Neven just a second, is a miracle.","英霊の憑依は
 たとえ１秒でも奇跡に等しい","Possessionofremembranceis
-Equal to themiracleeventhough1 second",0.1
+Equal to themiracleeventhough1 second",0.1,0.24206989
 I figure him being a homunculus made it possible.,"ホムンクルスであることが
 恐らく憑依を可能にしたのでしょう","It is a homicrus
-Perhaps I enabled",0.21428571428571427
+Perhaps I enabled",0.21428571428571427,0.191253
 It's unusual of you to show frustration at someone.,"完璧な存在であろうと
 するほうが―","It may be perfect
-If you want to",0.1875
-Was I frustrated?,そう… ですか,I see,0.2
+If you want to",0.1875,0.14782892
+Was I frustrated?,そう… ですか,I see,0.2,0.020684965
 I can target him from here if I want.,"ここからでも
 狙おうと思えば 狙える","From here
-If you want to aim, you can aim",0.38461538461538464
-Should we help our Saber of Red?,赤のセイバーを手助けしてやるか？,Do you help red Saber?,0.4
+If you want to aim, you can aim",0.38461538461538464,0.4263909
+Should we help our Saber of Red?,赤のセイバーを手助けしてやるか？,Do you help red Saber?,0.4,0.8335248
 "No, leave them be.","いいえ
 あのセイバーは放置しましょう","No
-Let's leave that Saber",0.2
-I'm most intrigued by him though!,我が輩は興味がありますなぁ！,I wondermyfellow'm interested!,0.3
-A homunculus transforms into a great hero!,大英雄に変身するホムンクルス！,Homculus to transform into a large hero!,0.36363636363636365
-"and gains glory, ultimately leading to destruction.",栄光を手に入れ そして破壊する！,Get glory and destroy it!,0.15384615384615385
+Let's leave that Saber",0.2,0.26955664
+I'm most intrigued by him though!,我が輩は興味がありますなぁ！,I wondermyfellow'm interested!,0.3,0.3062845
+A homunculus transforms into a great hero!,大英雄に変身するホムンクルス！,Homculus to transform into a large hero!,0.3636363636363637,0.7137431
+"and gains glory, ultimately leading to destruction.",栄光を手に入れ そして破壊する！,Get glory and destroy it!,0.15384615384615385,0.5585024
 "The question now is, \Nhow and when will that boy fall?","さてさて あの少年は
 果たして いつ―","Well, that boy is
-When he plays-",0.3125
+When he plays-",0.3125,0.4590849
 "Damn, that kid turned out to be a real Servant.","マジでサーヴァントになりやがった
 あの野郎！","Seriously it became servant
-That guy!",0.11764705882352941
+That guy!",0.1176470588235294,0.69723624
 So does he have a weak point or something?,"で？ あいつの弱点か何か
 分かんねえのかよ！？","so?Or somethingguyofweakness
-I do not knowofany!?",0.1875
+I do not knowofany!?",0.1875,0.116044454
 "Yeah! Got that, Master!","（赤のセイバー）
-ああ 了解したぞ マスター！",Oh I understand the master!,0.2
-You fake!,てやっ！,Doing it!,0.2
+ああ 了解したぞ マスター！",Oh I understand the master!,0.2,0.58917063
+You fake!,てやっ！,Doing it!,0.2,0.28593943
 Just last a little more.,"（ジーク）
-もう少しだけ もってくれ",Mehavejusta little more,0.2857142857142857
+もう少しだけ もってくれ",Mehavejusta little more,0.2857142857142857,0.23030123
 "Show me the way, O sword.","こちらも
 宝具で対抗させてもらおうか","me too
-Let's get against the treasure",0.14285714285714285
-Your Noble Phantasm?,（赤のセイバー）宝具か,Ortreasuretool,0.0
-"Fall, Saber of Black!",行くぞ 黒のセイバー！,I'll go black Saber!,0.3333333333333333
+Let's get against the treasure",0.14285714285714285,0.2499296
+Your Noble Phantasm?,（赤のセイバー）宝具か,Ortreasuretool,0.0,0.10427402
+"Fall, Saber of Black!",行くぞ 黒のセイバー！,I'll go black Saber!,0.3333333333333333,0.7276913

@@ -1,45 +1,45 @@
-en_text,jp_text,google_translated,score
-"The astronauts will once again be using Orion for their reentry,",パラシュｰト事故の時と同じく➡,"As with parachute accident, ➡",0.058823529411764705
-It comes down to whether the parachute you designed will properly deploy.,君が仕込んだパラシュートが➡,Parachute that you are charged,0.125
-"In the Comeback Competition, Pieco, our rover, placed fifth out of fifteen.",＜コンペ本番➡,<Competition production ➡,0.058823529411764705
-What should we do with Pieco?,どうします？ＰＩＥＣＯ｡,What do you do?Pieco.,0.4444444444444444
-There's only one place,こいつの行き先は…➡,This destination is ... ➡,0.0
-for this girl to go.,もう決まってるんじゃない？,Isn't it already decided?,0.0
-"I'll see you back on Earth,",地球で また会おう 日々人｡,Everyday with the earth again.,0.07692307692307693
-It'll be lonely without you guys...,さびしくなるぜ チクショー｡,It will be rusty.,0.18181818181818182
-"Fuel, oxygen, power, launch speed confirmed.",打ち上げ速度を確認！,Check the launch speed!,0.18181818181818182
-"All right, begin the final countdown.",よし 最終カウントダウン開始！,Yoshi final countdown started!,0.18181818181818182
-"Okay, let's go home.",さあ…帰ろう｡,Come back ... Let's go back.,0.4
-"the Russian Luniere 2,",ロシアチームのルーニエ２号｡➡,Russian team's Runier 2.,0.2222222222222222
-You hold onto Pieco for us.,ピエコは あんたが預かってくれ｡,Piedco will leave you.,0.2
-Got it.,《心配は いらねえ｡➡,"""Don't worry.",0.14285714285714285
-That's my job.,それが 俺の仕事だ》,"That's my job. """,0.42857142857142855
-Apo! It's been forever!,アポちゃ～ん！久しぶり～！➡,Apoca!After a long time!➡,0.08333333333333333
-Grow up to be a big boy.,大きい男になるんだぞ｡,It will be a big man.,0.36363636363636365
-You can tell he's my son.,さすが俺の子だ｡,It is my child.,0.18181818181818182
-I didn't mean that Hibito would do the docking.,あ いや…日々人はしね～けど…｡,"Oh ... Despite my daily person, but ....",0.05263157894736842
-This is such a pain...,《めんどくせ～！》,"""Manto!""",0.0
-This little toy.,《こんなもんが…》,"""This moth is ...""",0.1111111111111111
-"I went through that, too.",私にも そ～いう時期はあった｡,There was a time to say that.,0.15384615384615385
-He'll be even more popular than he already is...,《さらにモテるんだろうな…》,"""I'll be more motive ...""",0.2857142857142857
-and I don't know what to do for him when he returns.,何かしてやれることもない｡➡,I can not do something.,0.1875
-There.,ほら｡,.,0.5
-We're supposed to be on vacation.,せっかくの休みなのに～≫,Even though it is a holiday ~ »,0.0
-This is going to be a success.,《必ず 成功する》,"""Always succeed""",0.0
-They manage the astronauts' health as long as they're in space.,担当している｡➡,I am in charge.,0.13333333333333333
-"Next, we'll move this way.",次は こっちへ｡,Next is here.,0.2
-"But, but... Mutta told me!",でもねっ でもねっ 六太がね➡,But even if it is huge,0.08333333333333333
-"Orion, this is Houston.",オリオン こちらヒューストン｡➡,Olion This Houston.,0.42857142857142855
-"In thirty-five minutes, you'll be entering the atmosphere.",大気圏突入は ３５分後｡➡,The atmosphere entry is 35 minutes.,0.2857142857142857
-Roger that. i-it's finally time.,《い いよいよか》,"""Well!",0.0
-"And for Pico,",《ピコにとっても この帰還は…》,"""This feedback is also for pico ...""",0.18181818181818182
-Confirm that hull temperature is...,不具合が見られる｡,A defect is seen.,0.1
-They will use the same method of entry as three years ago.,３年前の事故と同じ方法ですが…｡,It is the same way as an accident for three years ....,0.3
-Parachutes successfully deployed!,パラシュート 展開成功！,Parachute Development Success!,0.14285714285714285
-Dispatch search and rescue!,サーチ＆レスキュー 急行せよ！,Search & Rescue Express!,0.42857142857142855
-"Welcome back, Hibito!",おかえり～ 日々人～！,Welcome ~ Daily People-!,0.25
-All three are okay!,≪３人とも無事だ！≫,«3 people are also safe!»,0.18181818181818182
-And the wind feels good.,風もいいね｡,The wind is also good.,0.5
-have just arrived in Houston.,ただ今 ヒューストンに到着です！,I'm just arriving at Houston now!,0.16666666666666666
-Welcome back.,よう 日々人｡おけ～り｡,People who are daily.,0.14285714285714285
-Good to be back.,た～いま｡,Now.,0.16666666666666666
+en_text,jp_text,google_translated,score,semantic_score
+"The astronauts will once again be using Orion for their reentry,",パラシュｰト事故の時と同じく➡,"As with parachute accident, ➡",0.05882352941176471,0.18421066
+It comes down to whether the parachute you designed will properly deploy.,君が仕込んだパラシュートが➡,Parachute that you are charged,0.125,0.5879574
+"In the Comeback Competition, Pieco, our rover, placed fifth out of fifteen.",＜コンペ本番➡,<Competition production ➡,0.05882352941176471,0.25788602
+What should we do with Pieco?,どうします？ＰＩＥＣＯ｡,What do you do?Pieco.,0.4444444444444444,0.8173119
+There's only one place,こいつの行き先は…➡,This destination is ... ➡,0.0,0.31165463
+for this girl to go.,もう決まってるんじゃない？,Isn't it already decided?,0.0,0.1497536
+"I'll see you back on Earth,",地球で また会おう 日々人｡,Everyday with the earth again.,0.07692307692307693,0.41296726
+It'll be lonely without you guys...,さびしくなるぜ チクショー｡,It will be rusty.,0.18181818181818185,0.2293073
+"Fuel, oxygen, power, launch speed confirmed.",打ち上げ速度を確認！,Check the launch speed!,0.18181818181818185,0.5431019
+"All right, begin the final countdown.",よし 最終カウントダウン開始！,Yoshi final countdown started!,0.18181818181818185,0.66816914
+"Okay, let's go home.",さあ…帰ろう｡,Come back ... Let's go back.,0.4,0.53285545
+"the Russian Luniere 2,",ロシアチームのルーニエ２号｡➡,Russian team's Runier 2.,0.2222222222222222,0.6556538
+You hold onto Pieco for us.,ピエコは あんたが預かってくれ｡,Piedco will leave you.,0.2,0.52434206
+Got it.,《心配は いらねえ｡➡,"""Don't worry.",0.14285714285714285,0.17848185
+That's my job.,それが 俺の仕事だ》,"That's my job. """,0.42857142857142855,0.8806199
+Apo! It's been forever!,アポちゃ～ん！久しぶり～！➡,Apoca!After a long time!➡,0.08333333333333333,0.6577537
+Grow up to be a big boy.,大きい男になるんだぞ｡,It will be a big man.,0.3636363636363637,0.50625193
+You can tell he's my son.,さすが俺の子だ｡,It is my child.,0.18181818181818185,0.62024117
+I didn't mean that Hibito would do the docking.,あ いや…日々人はしね～けど…｡,"Oh ... Despite my daily person, but ....",0.05263157894736842,0.038592026
+This is such a pain...,《めんどくせ～！》,"""Manto!""",0.0,0.0401517
+This little toy.,《こんなもんが…》,"""This moth is ...""",0.1111111111111111,0.29028565
+"I went through that, too.",私にも そ～いう時期はあった｡,There was a time to say that.,0.15384615384615385,0.2612368
+He'll be even more popular than he already is...,《さらにモテるんだろうな…》,"""I'll be more motive ...""",0.2857142857142857,0.19903716
+and I don't know what to do for him when he returns.,何かしてやれることもない｡➡,I can not do something.,0.1875,0.19320866
+There.,ほら｡,.,0.5,0.45458472
+We're supposed to be on vacation.,せっかくの休みなのに～≫,Even though it is a holiday ~ »,0.0,0.43684214
+This is going to be a success.,《必ず 成功する》,"""Always succeed""",0.0,0.44699526
+They manage the astronauts' health as long as they're in space.,担当している｡➡,I am in charge.,0.13333333333333333,0.11243807
+"Next, we'll move this way.",次は こっちへ｡,Next is here.,0.2,0.43224332
+"But, but... Mutta told me!",でもねっ でもねっ 六太がね➡,But even if it is huge,0.08333333333333333,0.12328483
+"Orion, this is Houston.",オリオン こちらヒューストン｡➡,Olion This Houston.,0.42857142857142855,0.61910045
+"In thirty-five minutes, you'll be entering the atmosphere.",大気圏突入は ３５分後｡➡,The atmosphere entry is 35 minutes.,0.2857142857142857,0.8150827
+Roger that. i-it's finally time.,《い いよいよか》,"""Well!",0.0,0.13270879
+"And for Pico,",《ピコにとっても この帰還は…》,"""This feedback is also for pico ...""",0.18181818181818185,0.55629915
+Confirm that hull temperature is...,不具合が見られる｡,A defect is seen.,0.1,0.07869298
+They will use the same method of entry as three years ago.,３年前の事故と同じ方法ですが…｡,It is the same way as an accident for three years ....,0.3,0.30475914
+Parachutes successfully deployed!,パラシュート 展開成功！,Parachute Development Success!,0.14285714285714285,0.8145195
+Dispatch search and rescue!,サーチ＆レスキュー 急行せよ！,Search & Rescue Express!,0.42857142857142855,0.6039216
+"Welcome back, Hibito!",おかえり～ 日々人～！,Welcome ~ Daily People-!,0.25,0.39429548
+All three are okay!,≪３人とも無事だ！≫,«3 people are also safe!»,0.18181818181818185,0.278185
+And the wind feels good.,風もいいね｡,The wind is also good.,0.5,0.8018811
+have just arrived in Houston.,ただ今 ヒューストンに到着です！,I'm just arriving at Houston now!,0.16666666666666666,0.84694207
+Welcome back.,よう 日々人｡おけ～り｡,People who are daily.,0.14285714285714285,0.076891854
+Good to be back.,た～いま｡,Now.,0.16666666666666666,0.31622776

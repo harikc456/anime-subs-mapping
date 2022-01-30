@@ -1,551 +1,551 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 """Hello.","〝ハロー ワールド
 ハロー シロエ〞","""Hello World
-Hello Siroe",0.4
+Hello Siroe",0.4,0.6350176
 "but for my first word, a greeting is appropriate.","〝最初の言葉は
 挨拶がふさわしい〞","""The first word is
-Greeting is appropriate """,0.38461538461538464
-"'Shiroe, of Log Horizon.'",“ログ･ホライズンのシロエ”,"""Log Horizon's Shiroe""",0.18181818181818182
+Greeting is appropriate """,0.38461538461538464,0.8303365
+"'Shiroe, of Log Horizon.'",“ログ･ホライズンのシロエ”,"""Log Horizon's Shiroe""",0.18181818181818185,0.94375414
 "When I heard that name, I felt so strange.","“その名前を聞いて
 私は不思議な気分になったものだ”","""Listen to that name
-I felt strange",0.38461538461538464
+I felt strange",0.38461538461538464,0.66361356
 Because your memories are still within me.,"“私の中には
 あなたの記憶が残っているからだ”","""In me
-Because your memory remains """,0.25
+Because your memory remains """,0.25,0.6340398
 "Just like you are beings who have \Ncome to this world from another,","“異なる世界から この世界へ来た
 存在であるように―”","""I came from different world to this world
-As existence- """,0.2
-My name is Roe 2.,“私の名前はロエ２”,"""My name is Lee 2""",0.4444444444444444
+As existence- """,0.2,0.5581762
+My name is Roe 2.,“私の名前はロエ２”,"""My name is Lee 2""",0.4444444444444444,0.3584391
 We call ourselves the Navigators.,"“私たちは
 私たちを航海種と呼ぶ”","""we
-We call us a sailing species """,0.18181818181818182
+We call us a sailing species """,0.18181818181818185,0.6298105
 "And at the same time, I'm also your little sister.""","“同時に 私自身は
 あなたの妹でもある”","""At the same time myself
-Your sister is also """,0.4117647058823529
+Your sister is also """,0.4117647058823529,0.73278713
 "What should we make today, Nyanta?","今日は何にしましょうねえ
 にゃん太(た)さん？","What do you do today?
-Nyan ?",0.2727272727272727
+Nyan ?",0.2727272727272727,0.49651492
 "I know you just got back, \Nbut can you tell me the details","（シロエ）早速だけど
 詳細を聞かせてくれる？","It is immediately
-Can you tell me more?",0.2222222222222222
-about this new type of monster?,新種のモンスターのこと,New species of monsters,0.2222222222222222
-"The genius of marriage, Camaysar.",“結婚の典災(てんさい)”カマイサル…,"""Casual disaster of marriage"" Kamisar ...",0.15384615384615385
+Can you tell me more?",0.2222222222222222,0.2586196
+about this new type of monster?,新種のモンスターのこと,New species of monsters,0.2222222222222222,0.7985272
+"The genius of marriage, Camaysar.",“結婚の典災(てんさい)”カマイサル…,"""Casual disaster of marriage"" Kamisar ...",0.15384615384615385,0.4743825
 That was more like marriage fraud than marriage.,"（ナズナ）結婚というより
 結婚詐欺だろ ありゃあ","rather than marriage
-It's a marriage scam",0.15384615384615385
+It's a marriage scam",0.15384615384615385,0.69670737
 The West Wind girls were the \Nones who first found him?,"（シロエ）西風(にしかぜ)の女の子が
 気づいたんですか？","The girl of the West Wind
-Did you notice?",0.25
-Yeah.,（ナズナ）まあね～,Well ~,0.0
+Did you notice?",0.25,0.73100024
+Yeah.,（ナズナ）まあね～,Well ~,0.0,0.41154686
 "Yes, it's amazing, my lord.","うちは女子の情報網あっから
 その辺すごいんだよ イシシ…","My girl's information network is
-It's a side of that side ...",0.17647058823529413
-"You also knew about it, Akatsuki?",アカツキも知ってたの？,Did you know Akatsuki?,0.3
+It's a side of that side ...",0.17647058823529413,0.085863516
+"You also knew about it, Akatsuki?",アカツキも知ってたの？,Did you know Akatsuki?,0.3,0.8972816
 "No, not at all.","（アカツキ）いや 全然
 （シロエ）え？","No and at all
-?",0.375
+?",0.375,0.6513688
 So what happened?,"（シロエ）
-ああ… で どうなったの？",Oh ... What happened to she?,0.375
-Well...,（ソウジロウ）それが…,That's ...,0.25
-A second form?,（ナズナ）第２形態？,2nd form?,0.4
-We'll attack immediately.,速攻でいきます,I will go fast,0.0
-Nazuna!,（ソウジロウ）はあーっ！,is!,0.3333333333333333
+ああ… で どうなったの？",Oh ... What happened to she?,0.375,0.44617277
+Well...,（ソウジロウ）それが…,That's ...,0.25,0.55281466
+A second form?,（ナズナ）第２形態？,2nd form?,0.4,0.89577687
+We'll attack immediately.,速攻でいきます,I will go fast,0.0,0.38740116
+Nazuna!,（ソウジロウ）はあーっ！,is!,0.3333333333333333,0.37374723
 My beautiful brides...,"うちの子に手を出すやからにゃ
 容赦しないのさ","After going to my child
-I do not forgive",0.08333333333333333
-You guys are as crazy as ever...,相変わらず むちゃするなあ,I will do it as usual,0.08333333333333333
-"Did you also help, Akatsuki?",アカツキも手伝ったの？,Did you also help Akatsuki?,0.8571428571428571
+I do not forgive",0.08333333333333333,0.101607315
+You guys are as crazy as ever...,相変わらず むちゃするなあ,I will do it as usual,0.08333333333333333,0.16754071
+"Did you also help, Akatsuki?",アカツキも手伝ったの？,Did you also help Akatsuki?,0.8571428571428571,0.9773578
 "So what is he, exactly?","で？ あいつは一体
 何なんだい？","so?He is integral
-What is it?",0.5555555555555556
-Is he an enemy?,（ソウジロウ）敵なんですか？,What is the enemy?,0.42857142857142855
+What is it?",0.5555555555555556,0.49001917
+Is he an enemy?,（ソウジロウ）敵なんですか？,What is the enemy?,0.42857142857142855,0.6957964
 "Since they're attacking us, we have to fight.","こちらに攻撃を加えてくるんだから
 戦わなきゃいけない","Because I'm addicting here
-I have to fight",0.1875
-Leave it to us.,この街を守りゃいいってことだね,It is good to protect this city,0.2
+I have to fight",0.1875,0.40925217
+Leave it to us.,この街を守りゃいいってことだね,It is good to protect this city,0.2,0.17825243
 "Come to think of it, he was a weird enemy.","そういえば 変な敵でしたよ
 （シロエ）変？","Speaking of which, it was a strange enemy
- strange?",0.375
-"Since we came to this world, he's the \Nenemy most like those in Elder Tale.",こっちの世界に来てから一番,The most from coming to the world of this,0.23809523809523808
-Be my beautiful bride...,（シロエ）ん…,...,0.2
+ strange?",0.375,0.73427206
+"Since we came to this world, he's the \Nenemy most like those in Elder Tale.",こっちの世界に来てから一番,The most from coming to the world of this,0.2380952380952381,0.23625126
+Be my beautiful bride...,（シロエ）ん…,...,0.2,0.09874691
 It was like a game.,"（ソウジロウ）
-ゲームみたいでした",It was like a game,0.8333333333333334
+ゲームみたいでした",It was like a game,0.8333333333333334,0.9700566
 Sir Isaac! Sir Isaac!,"（イセルス）
-アイザック様！ アイザック様！",Isaac!Isaac!,0.6666666666666666
+アイザック様！ アイザック様！",Isaac!Isaac!,0.6666666666666666,0.8317993
 How can he jump so high?,"（イセルス）あの方は なぜ
 あんなに高く跳べるのですか？","Why is that person
-Do you jump so high?",0.3076923076923077
-But...,（アイザック）んっ…,...,0.5
-"You know, uh...",お前さあ…,You ...,0.4
-I'm Iselus.,イセルスです,It is Iselus,0.16666666666666666
+Do you jump so high?",0.3076923076923077,0.784074
+But...,（アイザック）んっ…,...,0.5,0.65562385
+"You know, uh...",お前さあ…,You ...,0.4,0.42915523
+I'm Iselus.,イセルスです,It is Iselus,0.16666666666666666,0.79987
 And you're training the knights of Maihama.,"（イセルス）それにアキバの街では
 レイネシアお姉様が―","in the city of Akiba
-Reineshia My sister-",0.13333333333333333
+Reineshia My sister-",0.13333333333333333,0.25062707
 I'm just doing it because I want to.,"（アイザック）
-好きでやってるだけだ",I just like it,0.3
+好きでやってるだけだ",I just like it,0.3,0.30491996
 Taking care of her is the elite glasses guy's job.,"そっちの世話は
 エリート眼鏡の仕事だ","Take care of that
-It is a job of elite glasses",0.375
-"He's on a trip now, though.",だから…,that's why…,0.09090909090909091
+It is a job of elite glasses",0.375,0.7698514
+"He's on a trip now, though.",だから…,that's why…,0.09090909090909093,0.2026753
 "Then is he an adventurer, too, Sir Isaac?","（イセルス）では その方も
 冒険者なのですか？ アイザック様","also
-Are you an adventurer?Isaac",0.3076923076923077
+Are you an adventurer?Isaac",0.3076923076923077,0.76587355
 I told you...,"（アイザック）君づけは
 やめろっつってんだろ！","You are yours
-I'm sorry!",0.2222222222222222
-"Isaac,",アイザック君ですか,Isaac you,0.3333333333333333
+I'm sorry!",0.2222222222222222,0.18949547
+"Isaac,",アイザック君ですか,Isaac you,0.3333333333333333,0.8528391
 should we let them take a break?,"（レザリック）そろそろ
 休憩を取らせましょうか？","soon
-Shall I take a break?",0.36363636363636365
-You guys are seriously...,（アイザック）お前ら マジで…,You guys really serious ...,0.42857142857142855
-"What's wrong, Isaac?",どうしました～？ アイザック君,What happened?Izak,0.25
+Shall I take a break?",0.3636363636363637,0.54104644
+You guys are seriously...,（アイザック）お前ら マジで…,You guys really serious ...,0.42857142857142855,0.6709757
+"What's wrong, Isaac?",どうしました～？ アイザック君,What happened?Izak,0.25,0.20244268
 "I swear, you guys, I'm going \Nto use Sword of Pain Black!","ソード･オブ･ペインブラック
 使うかんな！","Sword of Pain Black
-Let's use it!",0.35294117647058826
+Let's use it!",0.35294117647058826,0.8610247
 And he was able to judge the quality of ores.,"そして そいつには
 鉱石の目利きができた","And I
-I was able to make money",0.2857142857142857
+I was able to make money",0.2857142857142857,0.2634127
 "Ever since the Apocalypse, \Nthe prices of material items","（ロデリック）大災害以降
 素材アイテムの値段は","Cast Disaster
-The price of the material item is",0.2
+The price of the material item is",0.2,0.53347975
 have depended on their quality.,"品質のよしあしで
 決まるようになりましたから","Good quality
-Because it became decided",0.09090909090909091
+Because it became decided",0.09090909090909093,0.48955753
 So lots of adventurers started \Nto ask him for appraisals.,"（ミチタカ）多くの冒険者が
 その男に鑑定を頼むようになった","Many adventurers
-I came to ask the man to ask",0.11764705882352941
-and said it was top-grade ore.,最高級の鉱石だと鑑定したとする,It is assumed that it is the finest ore,0.16666666666666666
+I came to ask the man to ask",0.1176470588235294,0.60246503
+and said it was top-grade ore.,最高級の鉱石だと鑑定したとする,It is assumed that it is the finest ore,0.16666666666666666,0.7414801
 "For some reason, everyone would believe him","例えば そいつが
 ただの石ころを―","For example, that guy
-Just a stone-",0.14285714285714285
-"The genius of measures, Bagris.",つまり物の量や長さ―,"In other words, the amount and length of things-",0.21428571428571427
+Just a stone-",0.14285714285714285,0.2668612
+"The genius of measures, Bagris.",つまり物の量や長さ―,"In other words, the amount and length of things-",0.21428571428571427,0.3269731
 "What tipped us off was the ""ate a ton \Nand still felt hungry"" incident.","きっかけは“たらふく食べたのに
 腹ペコ事件”でした","The trigger was eaten
-I was a belly peco case",0.13043478260869565
-We put together a quick half-raid team,度量の典災 バグリスですね,It is a gross disaster bugglis,0.08333333333333333
+I was a belly peco case",0.13043478260869565,0.363454
+We put together a quick half-raid team,度量の典災 バグリスですね,It is a gross disaster bugglis,0.08333333333333333,0.10994584
 "and went to get rid of him, but...","即席のハーフレイドチームで
 討伐に向かったんだが…","In the immediate half-led team
-I went to defeat ...",0.17647058823529413
+I went to defeat ...",0.17647058823529413,0.356276
 I should be able to gain ample empathions from this.,"（バグリス）ほうほう これは
 潤沢な共感子が得られそうですなあ","This is
-It seems to be able to get a woven co-sensitive",0.2222222222222222
+It seems to be able to get a woven co-sensitive",0.2222222222222222,0.13753225
 Lightning Straight!,"（ミチタカ）
-ライトニングストレート… って!?",Lightning straight ...?,0.4
+ライトニングストレート… って!?",Lightning straight ...?,0.4,0.80763096
 "distance, speed, skill damage, and even targets.","（ミチタカ）厄介なことに
-距離やスピード―",Distance and speed-,0.2
-It wasn't even a fight.,まるで戦いにならなかった,It was not a battle,0.3333333333333333
+距離やスピード―",Distance and speed-,0.2,0.5505795
+It wasn't even a fight.,まるで戦いにならなかった,It was not a battle,0.3333333333333333,0.6880707
 Give me your empathions now.,"（バグリス）スミヤカニ
 エンパシオムヲ テイキョウセヨ","Smyrus
-Empacio Mu Tay Cyoukoyo",0.0
+Empacio Mu Tay Cyoukoyo",0.0,0.1400425
 Just when everyone was about to give up...,"（ロデリック）誰もが諦めかけた
 まさにその時です","Everyone gave up
-It is just that time",0.21428571428571427
+It is just that time",0.21428571428571427,0.69733983
 Sorry to keep you waiting.,"（ロデリック）お待たせしました
-（ミチタカ）おっ",Thank you for waiting,0.25
+（ミチタカ）おっ",Thank you for waiting,0.25,0.6915599
 "With the help of the Kunie Clan, \NI've finished our secret weapon at last!","（ロデリック）供贄(くにえ)一族協力のもと
 秘密兵器が ついに完成しました！","Odatake  Based on the family cooperation
-The secret weapon finally completed!",0.17391304347826086
-"Oh, you did it?",（ミチタカ）おう やったか！,did you do it!,0.375
-I'll stop your evil deeds.,お前の悪行は 私が止めます,Your bad deeds I stop,0.5
-this Source Vessel!,原器で！,In the original!,0.14285714285714285
-"""Source Vessel""?",（シロエ）原器？,Original?,0.16666666666666666
-Is that a ruler?,（マリエール）それって… 定規？,That's ... Ruler?,0.42857142857142855
+The secret weapon finally completed!",0.17391304347826084,0.5436502
+"Oh, you did it?",（ミチタカ）おう やったか！,did you do it!,0.375,0.6269671
+I'll stop your evil deeds.,お前の悪行は 私が止めます,Your bad deeds I stop,0.5,0.6793448
+this Source Vessel!,原器で！,In the original!,0.14285714285714285,0.28977218
+"""Source Vessel""?",（シロエ）原器？,Original?,0.16666666666666666,0.22289245
+Is that a ruler?,（マリエール）それって… 定規？,That's ... Ruler?,0.42857142857142855,0.8595178
 Definitely a ruler.,"（ソウジロウ）定規ですね
 （アカツキ）定規だな","ruler
- Ruler",0.25
-It is a Source Vessel.,（ロデリック）原器です,It is a source,0.6666666666666666
-Tiger Echo Fist!,タイガーエコーフィスト！,Tiger Echo Fist!,1.0
-There was one more.,（シロエ）あと もう１件,Another one more,0.3333333333333333
-"Tell everyone, Seine.",お願いします セイネさん,Thank you Seine,0.14285714285714285
-Oh...,（セイネ）ああ…,Oh ...,1.0
+ Ruler",0.25,0.77329546
+It is a Source Vessel.,（ロデリック）原器です,It is a source,0.6666666666666666,0.4964218
+Tiger Echo Fist!,タイガーエコーフィスト！,Tiger Echo Fist!,1.0,1.0
+There was one more.,（シロエ）あと もう１件,Another one more,0.3333333333333333,0.6112761
+"Tell everyone, Seine.",お願いします セイネさん,Thank you Seine,0.14285714285714285,0.64962655
+Oh...,（セイネ）ああ…,Oh ...,1.0,1.0
 "I'm Nyanko Tavern's guild master, Seine.","（セイネ）にゃんこ亭のギルマス
 セイネだ… です","Gilmouth of Nyanko
-It is Seine ...",0.13333333333333333
-The poisoning incident before the Scale Festival.,天秤祭(てんびんさい)直前に起きた“疫毒事件”,"""Earthquake case"" that happened just before the balance festival",0.2
+It is Seine ...",0.13333333333333333,0.61457306
+The poisoning incident before the Scale Festival.,天秤祭(てんびんさい)直前に起きた“疫毒事件”,"""Earthquake case"" that happened just before the balance festival",0.2,0.52595913
 "The monster behind it, Sislau,","その原因だったモンスター
 シスラウが―","Monster that was the cause
-Sislau-",0.2
-"called herself the ""genius of poison.""",“毒の典災”と名乗っていました,"I was named ""Situi of Poison""",0.3076923076923077
+Sislau-",0.2,0.8123685
+"called herself the ""genius of poison.""",“毒の典災”と名乗っていました,"I was named ""Situi of Poison""",0.3076923076923077,0.5848295
 "At the time, we decided she \Nmight be a new monster","あの時は
 結論していましたからねえ","At that time
-I concluded it",0.125
+I concluded it",0.125,0.26276633
 "Are you tired, my lord?","（アカツキ）主君
 （シロエ）ん？","Lord
-?",0.2857142857142857
+?",0.2857142857142857,0.49441737
 Why do you ask? I'm not.,"（シロエ）え？ 何で？
 そんなことないよ","?why?
-That's not true",0.25
+That's not true",0.25,0.2717936
 Shiroe!,"（ミノリ）シロエさーん！
 （アカツキ）ん？","Shiroe!
-?",0.6666666666666666
-Minori...,（アカツキ）ん… そうか,... so,0.3333333333333333
+?",0.6666666666666666,0.9426249
+Minori...,（アカツキ）ん… そうか,... so,0.3333333333333333,0.1918851
 Is your part-time job done?,"（シロエ）ミノリ
 バイト終わったの？","Minori
-Did the part-time job end?",0.3
+Did the part-time job end?",0.3,0.5716922
 I got a lot of presents today!,"はい 今日はお土産
 いっぱいもらっちゃいました","Yes Souvenir Today
-I got a lot",0.5
+I got a lot",0.5,0.5595374
 """Again today,"" you mean.","（アカツキ）“今日も”だ
 （シロエ）持とうか？","""Today is also""
-?",0.2727272727272727
-Ta-da!,（アカツキ）おおっ！,Oh!,0.3333333333333333
-Magic Bag!,じゃーん！ マジック･バッグ！,Shazam!Magic Bag!,0.75
-"Did you design that, Minori?",ミノリがデザインしたの？,Did Minori designed?,0.375
+?",0.2727272727272727,0.63465166
+Ta-da!,（アカツキ）おおっ！,Oh!,0.3333333333333333,0.33979768
+Magic Bag!,じゃーん！ マジック･バッグ！,Shazam!Magic Bag!,0.75,0.69831735
+"Did you design that, Minori?",ミノリがデザインしたの？,Did Minori designed?,0.375,0.76434034
 "Okay, let's buy some things to take back.","じゃあ
 お土産でも買っていこうか","Surely
-Let's buy a souvenir",0.21428571428571427
+Let's buy a souvenir",0.21428571428571427,0.44017667
 "My lord, I want a red bead bun.","（アカツキ）主君
 私は あんぱんを所望する","Lord
-I wish her anpan",0.15384615384615385
+I wish her anpan",0.15384615384615385,0.24883923
 "Well, for some variety...","（ミノリ）
-その バラエティー的に…",That of her variety ...,0.2222222222222222
+その バラエティー的に…",That of her variety ...,0.2222222222222222,0.49009788
 It's not just a regular red bean bun today.,"（アカツキ）フッ
 今日は いつものあんぱんではない","Hu
-Today she is not always anpan",0.125
-It's cherry tree-scented red bean.,桜あんぱんだ 季節限定だぞ,It is cherry blossom season limited,0.18181818181818182
+Today she is not always anpan",0.125,0.24475253
+It's cherry tree-scented red bean.,桜あんぱんだ 季節限定だぞ,It is cherry blossom season limited,0.18181818181818185,0.5106997
 I want strawberry shortcake! I do!,"（てとら）ボクは
 イチゴのショートケーキがいいな","me
-Strawberry shortcake is good",0.2222222222222222
-Tetra?,（シロエ）うわっ！ てとらさん？,Wow!Toya-san?,0.2
-I'm not a half-idol!,（シロエ）言ってないよ,I'm not saying,0.42857142857142855
+Strawberry shortcake is good",0.2222222222222222,0.79228324
+Tetra?,（シロエ）うわっ！ てとらさん？,Wow!Toya-san?,0.2,0.2942626
+I'm not a half-idol!,（シロエ）言ってないよ,I'm not saying,0.42857142857142855,0.16581208
 "I'm a complete, galactic, perfect idol!","ギャラクシーに
 パーフェクトアイドルだよ！","In galaxy
-It's perfect idol!",0.23076923076923078
+It's perfect idol!",0.2307692307692308,0.8013587
 And Shiroe said he likes it when I hold him!,"くっつかれて
 うれしいって言ってたよ！","Tacky
-I said that I was happy!",0.2
+I said that I was happy!",0.2,0.28427112
 Buy me some cake!,"（てとら）ケーキ買ってよ！
 （シロエ）うわ～","Buy Cake!
- Wow-",0.5
+ Wow-",0.5,0.7814064
 Gelatin!,"（ミノリ）ゼリーですよ！
-（シロエ）んげっ",Jelly!,0.3333333333333333
+（シロエ）んげっ",Jelly!,0.3333333333333333,0.68600696
 "The red bean bun is waiting, my lord.","あんぱんが待ってるぞ 主君！
-（シロエ）ぐえっ",Anpan is waiting for Lord!,0.23076923076923078
-Okay.,よいしょっと,Good snack,0.0
+（シロエ）ぐえっ",Anpan is waiting for Lord!,0.2307692307692308,0.45261845
+Okay.,よいしょっと,Good snack,0.0,0.093517944
 "Oh, please.","ああ 冷たいのと
 ボクもメバルフライ","Oh, with cold
-Bok too Mebal fly",0.2
+Bok too Mebal fly",0.2,0.117458604
 You aren't the type to worry about that.,"そういうの
 気にするタイプじゃないでしょ？","That sort of
-Isn't it a type to worry?",0.3125
-Another business trip?,今日も出稼ぎか？,Is it an effort to work today?,0.09090909090909091
+Isn't it a type to worry?",0.3125,0.74170387
+Another business trip?,今日も出稼ぎか？,Is it an effort to work today?,0.09090909090909093,0.15618993
 Of course I'll stop by to see the kitchen.,"うちの店なんですから
 帳簿くらい見に来ますよ","Because of my shop
-I will come to see the book",0.29411764705882354
+I will come to see the book",0.29411764705882354,0.38497734
 Here you go.,"（アイザック）
-君づけすんなっつってんだろ！",You're sure!,0.14285714285714285
+君づけすんなっつってんだろ！",You're sure!,0.14285714285714285,0.18815893
 It arrived from the Round Table.,"（カラシン）はい これ
 円卓から届いてましたよ","Yes this
-It has arrived from a round table",0.45454545454545453
+It has arrived from a round table",0.4545454545454545,0.8349634
 "Supposedly, it's a report on an \Nenemy called the ""Geniuses.""","（カラシン）典災とかいう
-敵に関する報告書だそうです",It seems to be a report on the enemy,0.2631578947368421
-"I've heard of them, but what are they?",聞いちゃいるが 何なんだ？,"What are you hearing, but what is it?",0.3333333333333333
+敵に関する報告書だそうです",It seems to be a report on the enemy,0.2631578947368421,0.5650118
+"I've heard of them, but what are they?",聞いちゃいるが 何なんだ？,"What are you hearing, but what is it?",0.3333333333333333,0.34038672
 I couldn't say...,"あいつ この絵が見えていて
 オレたちをマイハマに…","I can see this picture
-Mahama for me ...",0.16666666666666666
+Mahama for me ...",0.16666666666666666,0.1670407
 an after-effect of Minami \Npower-leveling People of the Land.,"ミナミが 大地人の
 パワーレベリングを―","Minami is a landman
-Power Leveling-",0.07142857142857142
+Power Leveling-",0.07142857142857142,0.6976015
 It's been almost a year since the Apocalypse.,"大災害から
 もう少しで１年たつんだね","From the major disaster
-It's a little more than a year",0.3125
-It has.,そうですにゃ,It looks like,0.2
+It's a little more than a year",0.3125,0.62532896
+It has.,そうですにゃ,It looks like,0.2,0.34797627
 I'm sure there are people who want to go home.,"（シロエ）帰りたい人
 いるんだろうね","People who want to go home
-You will be",0.4
+You will be",0.4,0.7489025
 "Some want it so badly, it's driving them insane.","（にゃん太）狂おしいぐらい
 そう願っている人もいるですにゃ","crazy
-Some people wish to do so",0.125
-"I understand how they feel, but...",気持ちは分かるけど…,I understand the feeling ...,0.3
-It's hard...,つらいですにゃ,It is hard,0.4
+Some people wish to do so",0.125,0.5606953
+"I understand how they feel, but...",気持ちは分かるけど…,I understand the feeling ...,0.3,0.6994284
+It's hard...,つらいですにゃ,It is hard,0.4,0.752411
 You're helping out?,"（マリエール）ん～？ お手伝いか
 （セララ）はい","?Can you help
- Yes",0.25
-What did they say?,何やったっけ？ えーと…,What did you do?Ei ...,0.3333333333333333
+ Yes",0.25,0.476828
+What did they say?,何やったっけ？ えーと…,What did you do?Ei ...,0.3333333333333333,0.28699344
 "Lately, even if you don't have the \Nskill, you can do simple cooking.","簡単な調理やったら
 でけるようになっとるって…","If you do simple cooking
-It will be possible to",0.2631578947368421
+It will be possible to",0.2631578947368421,0.63992935
 That isn't all.,"もう全部ゆでて
 下処理も終わってます","Boiled all
-Bottom treatment is over",0.2222222222222222
-It's done!,（セララ）できました！,I was able to!,0.125
+Bottom treatment is over",0.2222222222222222,0.069780186
+It's done!,（セララ）できました！,I was able to!,0.125,0.3069278
 This is beautiful.,"（にゃん太）
-これは きれいですにゃあ",This is pretty,0.4
+これは きれいですにゃあ",This is pretty,0.4,0.6203328
 How about the new potatoes?,"（にゃん太）新ジャガは
 どうですかにゃ？","New Jaga
-How is it?",0.3333333333333333
-Because you taught me!,はいっ！,Yes!,0.16666666666666666
+How is it?",0.3333333333333333,0.29153082
+Because you taught me!,はいっ！,Yes!,0.16666666666666666,0.24185383
 Maybe we'll have tea while we wait \Nfor the vegetables to cool down.,"（にゃん太）野菜の粗熱が
 取れるまで お茶にしますかにゃ","crude heat of vegetables
-Do you want to be tea until you get",0.13043478260869565
-Is it good?,（にゃん太）おいしいですかにゃ？,Is it delicious?,0.6
+Do you want to be tea until you get",0.13043478260869565,0.70449233
+Is it good?,（にゃん太）おいしいですかにゃ？,Is it delicious?,0.6,0.47462142
 Today's a very quiet day.,"（にゃん太）今日は
 ゆっくりした１日ですにゃあ","Today is
-It is a slow day",0.3
+It is a slow day",0.3,0.6319625
 It makes me want to take a nap.,"こういう日は
 お昼寝したくなりますにゃあ","Such a day
-I want to take a nap",0.4166666666666667
-I see.,そうですか,I see,0.6666666666666666
+I want to take a nap",0.4166666666666667,0.6352063
+I see.,そうですか,I see,0.6666666666666666,0.8909206
 "Are you glad you came to this world, Serara?","この世界に来て
 よかったと思いますかにゃ？","Come to this world
-Do you think it was good?",0.3125
+Do you think it was good?",0.3125,0.53651464
 "Well, I can't see my mom and dad anymore,","はい そりゃ お父さんやお母さんに
 会えないし","Yes, my father and mom
-I can not meet",0.3125
+I can not meet",0.3125,0.5789949
 "But lots of good things have happened, too.","いいことも たくさんありましたし
 その…","There were a lot of good things
-That…",0.2
+That…",0.2,0.65509725
 "I have a dream of what I want to be, and a future...","なな… なりたい夢とか
 将来とか…","What a dream or a dream
-The future ...",0.3333333333333333
-You do?,（にゃん太）ん？,?,0.3333333333333333
+The future ...",0.3333333333333333,0.7134656
+You do?,（にゃん太）ん？,?,0.3333333333333333,0.39125302
 Children aren't invited to be born in this world.,"この世界に
 生み落とされるわけではない","In this world
-It does not mean that",0.1875
+It does not mean that",0.1875,0.31600687
 "However, all children become young people","しかし 全ての子供は
 若者となり―","But all children
-Become a young man-",0.4
+Become a young man-",0.4,0.8940628
 "and can be reborn by their own will,","己の意思で
 もう一度 誕生するのですにゃ","With your own intention
-I will be born again",0.2
-Meow...,はわわわ…,Wow ...,0.3333333333333333
+I will be born again",0.2,0.42268267
+Meow...,はわわわ…,Wow ...,0.3333333333333333,0.23717833
 "Oh, I don't mean I'm going \Nto give up or anything.","いえ その 諦めるとか
 そういうんじゃないんですよ","I can not give up
-That's not that",0.16666666666666666
+That's not that",0.16666666666666666,0.52646494
 "But whenever I look at Isuzu and Minori, \NI feel like I'm lacking a little...","でも 五十鈴(いすず)ちゃんとか
 ミノリちゃんとか見てると","But there is a fifty-bell 
-If you look at Minori-chan",0.17391304347826086
+If you look at Minori-chan",0.17391304347826084,0.2907718
 Like I'm not good enough.,"ちょっと足りないというか
 私がダメダメっていうか…","It's a bit enough
-I'm not good ...",0.4166666666666667
-before I make that dream come true.,その… 夢をかなえる前に,That ... before you dream,0.3
+I'm not good ...",0.4166666666666667,0.64493513
+before I make that dream come true.,その… 夢をかなえる前に,That ... before you dream,0.3,0.7697576
 I have to be a fully-grown version of me.,"ちゃんとしたセララにならなきゃ
 いけないんだと思うんです","I have to be a proper sera
-I think I can not",0.3333333333333333
-That's what I want to become.,それになりたいんです,I want to be,0.3333333333333333
-Serara...,はあ…,...,0.5
+I think I can not",0.3333333333333333,0.3459223
+That's what I want to become.,それになりたいんです,I want to be,0.3333333333333333,0.66855013
+Serara...,はあ…,...,0.5,0.25231895
 Yes!,"（にゃん太）セララさん
 （セララ）はひっ！","Sera
- is caught!",0.2
+ is caught!",0.2,0.2612909
 Every little bit is important.,"ちょっぴりが大事なんですにゃ
 （セララ）え？","A little bit is important
-?",0.5
+?",0.5,0.86184824
 I'm cheering you on.,"我が輩は セララさんを
 応援してますにゃ","My student is Cerara
-I support you",0.18181818181818182
-So is everyone.,みんなを応援してますにゃ,I support everyone,0.16666666666666666
+I support you",0.18181818181818185,0.23716375
+So is everyone.,みんなを応援してますにゃ,I support everyone,0.16666666666666666,0.38309985
 What would Kanami do?,"（シロエ）
-カナミさんなら どうするかな？",What do you do if you're Kanami?,0.5
+カナミさんなら どうするかな？",What do you do if you're Kanami?,0.5,0.82338125
 "When I think about it, I was lucky.","考えてみたら
 自分は幸運だったんだろうな","If you think about
-I would have been lucky",0.2857142857142857
+I would have been lucky",0.2857142857142857,0.7433741
 "At the very start, when things were \Ntoughest, everyone was with me.","一番最初の つらい時期に
 みんながいてくれたから","At the first hard time
-Because everyone was",0.2222222222222222
+Because everyone was",0.2222222222222222,0.6110624
 I'm grateful to Naotsugu and Akatsuki. Really.,"直継(なおつぐ)とアカツキには感謝だよ
 ホント…","I am grateful to direct direct  and Akatsuki
-really…",0.4166666666666667
+really…",0.4166666666666667,0.6991685
 "You can say ""thank you,"" my lord.","ありがとうをしても
 よいのだぞ 主君","Thank you
-It is good",0.15384615384615385
-When did you get here?,（シロエ）いつの間に？,When?,0.3333333333333333
+It is good",0.15384615384615385,0.18037671
+When did you get here?,（シロエ）いつの間に？,When?,0.3333333333333333,0.41535774
 I flew here.,"飛んできたのだ
 シュタタンとな","I flew away
-Statun",0.3333333333333333
+Statun",0.3333333333333333,0.6097675
 So what's bothering you?,"何を困っているのだ？
 （シロエ）え？","What are you in trouble?
-?",0.3333333333333333
-Do I?,そうかな？,I do not think so?,0.5
-A night rendezvous!,夜間のあいびき的な！,Nighttime Aboriki!,0.16666666666666666
+?",0.3333333333333333,0.4165734
+Do I?,そうかな？,I do not think so?,0.5,0.34470743
+A night rendezvous!,夜間のあいびき的な！,Nighttime Aboriki!,0.16666666666666666,0.5800977
 So are you coming up with another plan?,"で？ またまた
 何か作戦中ですか？","so?Again
-Do you have something during operation?",0.2
-That's right... Are you coming up with a plan?,そうだぞ,That's right,0.25
+Do you have something during operation?",0.2,0.2285124
+That's right... Are you coming up with a plan?,そうだぞ,That's right,0.25,0.21814652
 "Do you need a cute, attractive, and talented idol?","アイドルが
 必要だったりしませんか？","Idol
-Do you need it?",0.4166666666666667
+Do you need it?",0.4166666666666667,0.7051044
 "You need a guardian, too, don't you?","守護戦士も必要だろ？
-（てとら）てへっ",You also need a guardian warrior?,0.45454545454545453
-"Wh-Wh-What are you saying, Shiro?",なな… 何言ってんだ！ シロ,What ... what you mean!Shiro,0.18181818181818182
-The two of us are as one now!,（てとら）２人はもう 一心同体！,Two people are the same one another!,0.4166666666666667
-"We're like ""Tetsugu""!",“てとつぐ”って感じです～！,"It feels like """".",0.3
-Pah!,いやん！,I'm sorry!,0.2
+（てとら）てへっ",You also need a guardian warrior?,0.4545454545454545,0.7548318
+"Wh-Wh-What are you saying, Shiro?",なな… 何言ってんだ！ シロ,What ... what you mean!Shiro,0.18181818181818185,0.7205135
+The two of us are as one now!,（てとら）２人はもう 一心同体！,Two people are the same one another!,0.4166666666666667,0.5178528
+"We're like ""Tetsugu""!",“てとつぐ”って感じです～！,"It feels like """".",0.3,0.21769537
+Pah!,いやん！,I'm sorry!,0.2,0.3605652
 My love for him shines each time he's struck.,"打ち据えられるたびに
 輝くボクの愛","Every time you hit
-Shining Boku Love",0.125
+Shining Boku Love",0.125,0.5168527
 "In other words, Naotsugu's entranced by my love!","つまりラブに
 直継さんはドッキドキ！","In other words, in love
-Directuration is Dokki Doki!",0.4
-Well?,（てとら）ん～ それで？,~ So?,0.25
+Directuration is Dokki Doki!",0.4,0.35539776
+Well?,（てとら）ん～ それで？,~ So?,0.25,0.52316624
 There are a lot of adventurers,"財産を持ってる
 冒険者の富を没収して","Have a property
-Soaring the wealth of adventurers",0.2727272727272727
-But there's no way to go home...,（アカツキ）だが 帰る方法は…,but how to return ...,0.2727272727272727
+Soaring the wealth of adventurers",0.2727272727272727,0.55291116
+But there's no way to go home...,（アカツキ）だが 帰る方法は…,but how to return ...,0.2727272727272727,0.38986266
 So Eins thinks we should save those people.,"それで アインスさんは
 そんな人たちを救うべきだって","So Ains is
-He should save such people",0.3076923076923077
-Will that really work?,（シロエ）いかないだろうね,will not go,0.14285714285714285
-War's coming to Yamato.,ヤマトに戦乱が迫っている,The war is about to be struggled in Yamato,0.25
+He should save such people",0.3076923076923077,0.59280527
+Will that really work?,（シロエ）いかないだろうね,will not go,0.14285714285714285,0.1780738
+War's coming to Yamato.,ヤマトに戦乱が迫っている,The war is about to be struggled in Yamato,0.25,0.8577264
 There's something I need to tell you all.,"みんなに話さなきゃ
 いけないことがあるんだ","I have to talk to everyone
-There is something wrong",0.26666666666666666
-"I'd like to hear it, too.",我が輩も ぜひ聞きたいですにゃ,I also want to hear by myself,0.23076923076923078
-Of course.,もちろん,of course,0.6666666666666666
-A love letter?,（直継）ラブレター？,love letter?,0.75
-I wish.,ほほう,I see,0.25
-It was from Roe 2.,だったらよかったんだけど,It was good if it was,0.25
+There is something wrong",0.26666666666666666,0.35576037
+"I'd like to hear it, too.",我が輩も ぜひ聞きたいですにゃ,I also want to hear by myself,0.2307692307692308,0.65195423
+Of course.,もちろん,of course,0.6666666666666666,0.8766715
+A love letter?,（直継）ラブレター？,love letter?,0.75,0.9551306
+I wish.,ほほう,I see,0.25,0.1332532
+It was from Roe 2.,だったらよかったんだけど,It was good if it was,0.25,0.13903806
 My second character.,"差出人はロエ２
 ボクのセカンドキャラクターだ","The sender is Lee 2
-It is a second character of Bok",0.15384615384615385
+It is a second character of Bok",0.15384615384615385,0.33082172
 The other body you left on the test \Nserver when this was a game?,"お前がテストサーバーに置いといた
 もう１つの体のことか？","You were putting on the test server
-What is another body?",0.3
+What is another body?",0.3,0.66049445
 The moon?,"テストサーバーって
 月にあるってうわさだった あれ？","Test server
-Is it rumored in the moon?",0.3333333333333333
+Is it rumored in the moon?",0.3333333333333333,0.4476747
 Could they even write letters?,"それが手紙なんか
 書けるんですか？","That's a letter
-Can you write?",0.16666666666666666
+Can you write?",0.16666666666666666,0.6557242
 And how did it get here?,"てか どうやって
 届いたんですかねえ？","How to do
-Did you arrive?",0.2727272727272727
+Did you arrive?",0.2727272727272727,0.49434733
 Minori brought it to me.,"（シロエ）
-ミノリが届けてくれたんだ",Minori delivered,0.14285714285714285
+ミノリが届けてくれたんだ",Minori delivered,0.14285714285714285,0.68449
 "And... According to this letter,","あ… それで
 この手紙によると","Oh ... So
-According to this letter",0.5555555555555556
+According to this letter",0.5555555555555556,0.8239024
 Roe 2 is the person I've been looking for.,"ロエ２こそ ボクの探していた人
 ということになる","Lee 2 people who were looking for me
-It turns out that",0.15
-I've been thinking about it for a long time.,長い間 考えていたんだ,I thought for a long time,0.4166666666666667
-"If this really is another world,",ここが本当に異世界だとしたら―,If this is a different world-,0.3
-there's no way it could be this similar \Nto the Elder Tale we know.,こんなに似ているはずがない,It can not be similar,0.16666666666666666
+It turns out that",0.15,0.3098672
+I've been thinking about it for a long time.,長い間 考えていたんだ,I thought for a long time,0.4166666666666667,0.6020329
+"If this really is another world,",ここが本当に異世界だとしたら―,If this is a different world-,0.3,0.73852944
+there's no way it could be this similar \Nto the Elder Tale we know.,こんなに似ているはずがない,It can not be similar,0.16666666666666666,0.5013599
 But it's unbelievable that a game world,"でも ゲームの世界が現実になって
 そこに入ってしまったなんて","But the world of game becomes reality
-I've got into it",0.25
-"As far as we know, technology \Nhasn't advanced that far.",ボクらの知っているかぎり,As long as you know,0.15384615384615385
+I've got into it",0.25,0.64276004
+"As far as we know, technology \Nhasn't advanced that far.",ボクらの知っているかぎり,As long as you know,0.15384615384615385,0.17520438
 It's like two different rule sets were \Njust mixed together randomly.,"まるで２つのルールを
 適当にまぜ合わせたみたいだ","Two rules
-It looks like it was properly mixed",0.23529411764705882
+It looks like it was properly mixed",0.2352941176470588,0.75156194
 "It's only a game in the weird parts, yeah.","（直継）変なとこだけ
 ゲームだよな","strange cousin
-It is a game",0.2
-I get the feeling that we weren't \Nsimply sent to another world.,というわけじゃない気がするんだ,I feel that I do not mean,0.1111111111111111
-"Someone who isn't a Person of the Land \Nor a player like us, who can explain this.",この状況を説明できる誰か…,Someone who can explain this situation ...,0.25
-They brought us to this world?,そいつが オレたちをこの世界に？,Is that one to the world?,0.2727272727272727
-What did the letter say?,その手紙には何と？,What is the letter?,0.5714285714285714
+It is a game",0.2,0.41118148
+I get the feeling that we weren't \Nsimply sent to another world.,というわけじゃない気がするんだ,I feel that I do not mean,0.1111111111111111,0.27529782
+"Someone who isn't a Person of the Land \Nor a player like us, who can explain this.",この状況を説明できる誰か…,Someone who can explain this situation ...,0.25,0.40956572
+They brought us to this world?,そいつが オレたちをこの世界に？,Is that one to the world?,0.2727272727272727,0.27382547
+What did the letter say?,その手紙には何と？,What is the letter?,0.5714285714285714,0.7785649
 "That is, a body without a soul, \Nand came to this world.","つまり魂のない肉体に憑依(ひょうい)して
 この世界に来ているそうだ","In other words, the body without the soul
-It seems to come to this world",0.35
-Who is she?,何者なのだ？,Who is it?,0.6
+It seems to come to this world",0.35,0.8665241
+Who is she?,何者なのだ？,Who is it?,0.6,0.8080095
 A sentient intelligence from another world.,"異世界の知性体…
 それっぽく言うなら―","Different world intelligence ...
-If you say that",0.15384615384615385
+If you say that",0.15384615384615385,0.6894983
 They're artificially created creatures.,"彼女たちは
 人工的に造られた生命体で―","They
-In artificially built life-",0.2222222222222222
+In artificially built life-",0.2222222222222222,0.696991
 "And there are two types. \N""Observers"" like Roe 2,","〝採取者〞と呼ばれる
 ２種類が存在するらしい","It is called ""collector""
-It seems that there are two types",0.25
-What are those?,何ですか それ？,What is it?,0.3333333333333333
+It seems that there are two types",0.25,0.36443022
+What are those?,何ですか それ？,What is it?,0.3333333333333333,0.58726984
 "Unfortunately, she didn't say.","それは 残念ながら
 書かれていなかった","Unfortunately
-It was not written",0.09090909090909091
-But their society had run out of this \Nresource and begun to decline.,けど 彼女たちの社会は,But their society,0.21428571428571427
+It was not written",0.09090909090909093,0.455399
+But their society had run out of this \Nresource and begun to decline.,けど 彼女たちの社会は,But their society,0.21428571428571427,0.5578291
 "To resolve this crisis, another world was needed.","（シロエ･ロエ２）
-“別の世界が必要とされ―”","""Another world is required-""",0.14285714285714285
+“別の世界が必要とされ―”","""Another world is required-""",0.14285714285714285,0.66393393
 "Roe 2 and her kind came here via \Nwhat they called the ""Match,""","（シロエ）ロエ２たちは
 彼女たちの言葉でいう“合致”","Lee 2
-""Match"" in her words",0.21052631578947367
+""Match"" in her words",0.21052631578947367,0.46088606
 Then does she know the Apocalypse's cause?,"（直継）じゃ 大災害の原因が
 分かるのか？","The cause of the major disaster
-Do you know?",0.2857142857142857
+Do you know?",0.2857142857142857,0.44442248
 "No, it looks like they don't \Nunderstand everything, either.","いや 彼女たちも全てを
 理解できているわけじゃないようだ","No, they are all
-It seems that I can not understand",0.2
+It seems that I can not understand",0.2,0.4970991
 So did they get these empathions?,"で そのエンパシオムってのは
 手に入ったんですかね？","And that empacioum
-Did you get it?",0.25
+Did you get it?",0.25,0.29246664
 """We believe you to be sentient \Nintelligences of a rank 3 or higher.","“ランク３以上の
 知性体だと考える”","""Rank 3 or more
-I think it is an intellectual body",0.17391304347826086
+I think it is an intellectual body",0.17391304347826084,0.57518
 "Thus, the rights to this world's \Nresources belong to you.","“よって この世界の資源所有権は
 あなたたちにある”","""So the resource ownership of this world is
-""I am in you",0.18181818181818182
+""I am in you",0.18181818181818185,0.6131594
 but we Observers are tasked with searching.,"（ロエ２）
-“私たちは あなたたちが―”","""We are him you-""",0.16666666666666666
+“私たちは あなたたちが―”","""We are him you-""",0.16666666666666666,0.25982082
 "I don't know if my brother, Shiroe, \Nwill be the one to read this message,","“兄にあたるシロエなのかどうかは
 分からないが―”","""Whether it is a siroe that corresponds to my brother
-I do not know-",0.18518518518518517
+I do not know-",0.1851851851851852,0.42852235
 but I recommend acquiring a method \Nof communication with the moon.,"“月への通信設備入手を
 お勧めする”","""Get communication facilities in the moon
-Recommended",0.17647058823529413
+Recommended",0.17647058823529413,0.7195186
 "Our community is on this world's moon,","（ロエ２）
-“この世界の月には―”","""This World's Month-""",0.25
+“この世界の月には―”","""This World's Month-""",0.25,0.3528103
 and we are observing the situation.,"“我々のコミュニティーがあり
 状況を観察している”","""Our community has
-Observe the situation",0.16666666666666666
+Observe the situation",0.16666666666666666,0.6054983
 "If you wish to return, we can help you.","“あなたたちが
 帰還を望むのであれば―”","""You are
-If you wish to return- """,0.3076923076923077
+If you wish to return- """,0.3076923076923077,0.5056
 "Lastly, I'll warn you about the Harvesters.","（ロエ２）“最後になるが
 採取者について警告する”","""Last but not least
-Warn about collectors",0.125
+Warn about collectors",0.125,0.35165805
 "They are Navigators like us,","“彼らは私たちと同じく
 航海種ではあるが―”","""They are the same as us
-It is a sailing sanity-""",0.1875
-but they are intelligences equivalent to rank 2.,“ランク２相当の知性体である”,"""A intelligent equivalent to rank 2""",0.3076923076923077
+It is a sailing sanity-""",0.1875,0.5063679
+but they are intelligences equivalent to rank 2.,“ランク２相当の知性体である”,"""A intelligent equivalent to rank 2""",0.3076923076923077,0.77754706
 "In this world, they're using \Nbodies prepared on the moon","“この世界に来るにあたって
 月に準備されていた―”","""When coming to this world
-It was prepared for the month- """,0.2
+It was prepared for the month- """,0.2,0.27752495
 of monsters with powerful combat capabilities.,"“戦闘能力の高い
 怪物体を利用している”","""High combat ability
-Using monsters",0.18181818181818182
+Using monsters",0.18181818181818185,0.772578
 Then why are they after us adventurers?,"で 何で
 オレたち冒険者が狙われるんだ？","What
-Are you aiming for your adventurer?",0.14285714285714285
-I don't know.,分からない,I do not understand,0.2857142857142857
-"""PS, Minori...",（ロエ２）“追伸 ミノリへ”,"""Postcreen Minori""",0.2857142857142857
+Are you aiming for your adventurer?",0.14285714285714285,0.46082675
+I don't know.,分からない,I do not understand,0.2857142857142857,0.40427405
+"""PS, Minori...",（ロエ２）“追伸 ミノリへ”,"""Postcreen Minori""",0.2857142857142857,0.50583124
 "I tried writing this seriously, \Nlike a big sister would.","“お姉ちゃんらしく
 真面目に書いてみたぞ”","""My sister
-I tried to write seriously """,0.25
+I tried to write seriously """,0.25,0.6094362
 May your warm empathions light your future.,"“君の温かいエンパシオムが
 君の未来を照らしますように”","""Your warm embossom
-I would like to illuminate your future """,0.21428571428571427
+I would like to illuminate your future """,0.21428571428571427,0.5593303
 "There are still things we don't understand,","（シロエ）
-まだ分からないことも多いけど―",There are many things that I do not know yet-,0.26666666666666666
+まだ分からないことも多いけど―",There are many things that I do not know yet-,0.26666666666666666,0.34351522
 "but if we can make contact with \NRoe 2's companions on the moon,","月にいるロエ２の仲間と
 連絡を取ることができれば―","With the fellow of Lee 2 in the month
-If you can contact you-",0.2727272727272727
+If you can contact you-",0.2727272727272727,0.2632642
 we may be able to find a hint to returning home.,"元の世界に戻るためのヒントが
 得られるかもしれない","Tips to return to the original world
-It may be obtained",0.16666666666666666
+It may be obtained",0.16666666666666666,0.34623107
 Are you going to believe that letter?,"（てとら）
-その手紙 信じるんですか？",Do you believe that letter?,0.5555555555555556
-I think we can.,信じていいと思う,I think I can believe,0.5
+その手紙 信じるんですか？",Do you believe that letter?,0.5555555555555556,0.92150867
+I think we can.,信じていいと思う,I think I can believe,0.5,0.49784443
 "When I died in the Abyssal Shaft, I saw it...","アビサルシャフトで死んだ時
 見たんだ","When I died at Abbissal Shaft
-I saw it",0.46153846153846156
-That was a beach on the moon.,あそこは月の砂浜,Over there is a sandy beach of the moon,0.3076923076923077
-"After reading this letter, I'm sure of it.",この手紙を読んで確信した,I was convinced to read this letter,0.2
-That wasn't a dream.,あれは夢じゃない,That's not a dream,0.375
-"I... I saw it, too!",私も… 私も見た！,I also saw ... I also saw it!,0.625
-"I remember, my lord.",思い出したぞ 主君,I remembered Lord,0.2857142857142857
+I saw it",0.4615384615384616,0.7258098
+That was a beach on the moon.,あそこは月の砂浜,Over there is a sandy beach of the moon,0.3076923076923077,0.7893997
+"After reading this letter, I'm sure of it.",この手紙を読んで確信した,I was convinced to read this letter,0.2,0.70843893
+That wasn't a dream.,あれは夢じゃない,That's not a dream,0.375,0.8258615
+"I... I saw it, too!",私も… 私も見た！,I also saw ... I also saw it!,0.625,0.793949
+"I remember, my lord.",思い出したぞ 主君,I remembered Lord,0.2857142857142857,0.7797622
 "If we can get back there,","（シロエ）あそこに
 もう一度 行くことができれば…","over there
-If you can go again ...",0.25
-we can go home!,ボクたちは元の世界へ帰れる！,Boku can return to the original world!,0.18181818181818182
+If you can go again ...",0.25,0.6288606
+we can go home!,ボクたちは元の世界へ帰れる！,Boku can return to the original world!,0.18181818181818185,0.35314903
 "Lenessia's little brother, Iselus, \Nthe Prince of Maihama.","（アカツキ）レイネシアの弟
 マイハマの王子 イセルス","Leynesia's younger brother
-Mahama Prince Iseles",0.2
-His birthday party is to be used to introduce him,開かれる誕生パーティー,Birthday party held,0.2
+Mahama Prince Iseles",0.2,0.53043544
+His birthday party is to be used to introduce him,開かれる誕生パーティー,Birthday party held,0.2,0.6519669
 to the world as the next Lord of Maihama.,"その次期領主としての
 お披露目も兼ね―","As the next lord
-It is also unveiled-",0.3076923076923077
+It is also unveiled-",0.3076923076923077,0.5050135
 "But even during this celebration, \Nthe presence of war draws near.","だが そんな祝いの席にも
 戦乱の気配は忍び寄っていた","But in such a celebration seat
-The sign of the war was crunchy",0.19047619047619047
+The sign of the war was crunchy",0.19047619047619047,0.6881853
 "A cowardly shadow is after the young boy's life,","幼い少年の命を狙う卑劣な影に
 怒りの黒剣(こっけん)が うなりをあげる","In a sneaky shadow aiming for a young boy's life
-Anger black sword  gives him",0.3
-I have friends to run with me.,（シロエ）共に走る仲間がいる,There are friends who run together,0.16666666666666666
+Anger black sword  gives him",0.3,0.65050226
+I have friends to run with me.,（シロエ）共に走る仲間がいる,There are friends who run together,0.16666666666666666,0.70080084

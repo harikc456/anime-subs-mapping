@@ -1,250 +1,250 @@
-en_text,jp_text,google_translated,score
-Yes?,はい,Yes,0.5
+en_text,jp_text,google_translated,score,semantic_score
+Yes?,はい,Yes,0.5,0.7687325
 Ah! I've been expecting you.,"（ゴルゴ13）突然のことで
 申し訳ない","Suddenly
-I'm sorry",0.09090909090909091
-"You're interested in this old mansion, yes?",古い屋敷に興味がおありとのこと,I'm interested in the old mansion,0.3076923076923077
-"No, not at all.",いえいえ そういうことならば,No matter where,0.125
-"Please, feel free to look around.",さあ どうぞ遠慮なくご覧ください,Please do not hesitate to see,0.16666666666666666
-"What do you think? It's built quite well, isn't it?",（柳田(やなぎだ)）どうです？,) How is it?,0.2
-"It was originally a mansion for the nobility,\Nbuilt in the latter half of the 16th century.",16世紀半ばに建てられたそうです,It seems to be built in the middle of the 16th century,0.2727272727272727
+I'm sorry",0.09090909090909093,0.18693341
+"You're interested in this old mansion, yes?",古い屋敷に興味がおありとのこと,I'm interested in the old mansion,0.3076923076923077,0.86876756
+"No, not at all.",いえいえ そういうことならば,No matter where,0.125,0.27209288
+"Please, feel free to look around.",さあ どうぞ遠慮なくご覧ください,Please do not hesitate to see,0.16666666666666666,0.3753367
+"What do you think? It's built quite well, isn't it?",（柳田(やなぎだ)）どうです？,) How is it?,0.2,0.36123988
+"It was originally a mansion for the nobility,\Nbuilt in the latter half of the 16th century.",16世紀半ばに建てられたそうです,It seems to be built in the middle of the 16th century,0.2727272727272727,0.7036841
 "To tell the truth, I've only just bought it myself.","実を言いますと 私もまだ
 ここを買ったばかりなんですよ","If you say fruit, I still
-I just bought this",0.21052631578947367
+I just bought this",0.21052631578947367,0.337684
 Isn't it?,"（ゴルゴ13）なかなかの見晴らしだ
 （柳田）でしょう？","It's a wonderful view
- Is it?",0.375
-Please give me a moment.,ちょっと待っててください,Wait a minute,0.125
-I'm very sorry for the wait.,いろいろ集めているんです,I'm collecting variously,0.2
-Huh? Sir?,あれ？　お客さん,that?  customer,0.2
-That bastard who buys everything is here again.,また あの買い占め野郎が来てる,Also that buying guy is coming,0.15384615384615385
+ Is it?",0.375,0.32365748
+Please give me a moment.,ちょっと待っててください,Wait a minute,0.125,0.44048932
+I'm very sorry for the wait.,いろいろ集めているんです,I'm collecting variously,0.2,0.10399289
+Huh? Sir?,あれ？　お客さん,that?  customer,0.2,0.36217782
+That bastard who buys everything is here again.,また あの買い占め野郎が来てる,Also that buying guy is coming,0.15384615384615385,0.41945037
 Hmph! He doesn't know a thing\Nabout the taste of wine.,"ふんっ！　ワインの味も
 わからないくせに","Fun!Wine taste
-I do not know",0.23529411764705882
+I do not know",0.2352941176470588,0.5488508
 "First, a red of the highest quality\Neven among the wines of Côte d'Or:","さあ コートドールでも
 最高級の赤ワイン","Court doll
-Highest Red Wine",0.125
+Highest Red Wine",0.125,0.5423522
 "We'll start the bidding at 100,000 euros.","合計10本です
 10万ユーロからどうぞ","Total 10 bottles
-Please from 100,000 euros",0.14285714285714285
-"150,000.",15,15,0.0
-"200,000.",20万,200 000,0.0
-"250,000!",25,25,0.0
-"280,000!",28万,"Up to 280,000",0.25
-Are there any other bids?,（司会進行役）他にありませんか？,Is there no other?,0.375
-"350,000!",35万,"350,000",0.5
-"450,000.",45万,"450,000",0.5
-"500,000!",あっ… 50万！,"Oh ... 500,000!",0.5
-"600,000.",60万,"600,000",0.5
-"Six... 630,000!",６… 63万,"6 ... 630,000",0.4
-"700,000.",70万,"700,000",0.5
-"700,000 euros. 700,000 euros.",70万ユーロ…　70万ユーロ,"700,000 euros ... 700,000 euros",0.5
-How'd things turn out?,（アルベール）結果はどうだった？,How was the  result?,0.2222222222222222
-"Sure enough, Yanagida got the winning bid.",やっぱり柳田が競り落としました,After all Yanagida compiled,0.08333333333333333
+Please from 100,000 euros",0.14285714285714285,0.46863136
+"150,000.",15,15,0.0,0.35816684
+"200,000.",20万,200 000,0.0,0.90423673
+"250,000!",25,25,0.0,0.36711976
+"280,000!",28万,"Up to 280,000",0.25,0.7287565
+Are there any other bids?,（司会進行役）他にありませんか？,Is there no other?,0.375,0.38757202
+"350,000!",35万,"350,000",0.5,0.9049372
+"450,000.",45万,"450,000",0.5,0.9732497
+"500,000!",あっ… 50万！,"Oh ... 500,000!",0.5,0.9093185
+"600,000.",60万,"600,000",0.5,0.96650606
+"Six... 630,000!",６… 63万,"6 ... 630,000",0.4,0.90920305
+"700,000.",70万,"700,000",0.5,0.96289855
+"700,000 euros. 700,000 euros.",70万ユーロ…　70万ユーロ,"700,000 euros ... 700,000 euros",0.5,0.9636826
+How'd things turn out?,（アルベール）結果はどうだった？,How was the  result?,0.2222222222222222,0.33331642
+"Sure enough, Yanagida got the winning bid.",やっぱり柳田が競り落としました,After all Yanagida compiled,0.08333333333333333,0.5664659
 That man knows nothing of the taste of wine!\NHe just wants to show that he has money!,"ただ金のあるところを
 見せたいだけなんです","A place with money
-I just want to show it",0.17391304347826086
-"For him to drink one of\Nour Romanée-Monts Luisants,",ワインに対する冒(ぼう)とくです,It is an opportunity for wine,0.07142857142857142
+I just want to show it",0.17391304347826084,0.17580767
+"For him to drink one of\Nour Romanée-Monts Luisants,",ワインに対する冒(ぼう)とくです,It is an opportunity for wine,0.07142857142857142,0.3092538
 "let alone one of the 1800s,\Nis a disgrace to all wine!","あんな奴(やつ)にワインの味なんか
 わかりません","The taste of wine in such a guy 
-do not understand",0.19047619047619047
-"As a Frenchman, I am bitterly disappointed!",私はフランス人として悔しい,I regret as a French,0.2727272727272727
-Huh?,あっ？,Ah?,0.3333333333333333
+do not understand",0.19047619047619047,0.52932066
+"As a Frenchman, I am bitterly disappointed!",私はフランス人として悔しい,I regret as a French,0.2727272727272727,0.6589442
+Huh?,あっ？,Ah?,0.3333333333333333,0.7035758
 "Yanagida being who he is, I was certain\Nthat he would bid in today's auction.","今日のオークションでも
 必ず競り勝つだろうと思っていた","Even today's auction
-I was always thinking of winning a competing",0.21739130434782608
-"If you knew that, it would have been better\Nto keep the 1800 out of the auction!",そ…それが わかっていたのなら,Well ... if I knew it,0.15
-"That way, Yanagida never\Nwould have gotten his hands on it!",柳田のことだから,Because it is Yanagida,0.14285714285714285
-No. That's not it.,いや そうじゃない,No,0.16666666666666666
+I was always thinking of winning a competing",0.21739130434782608,0.41125703
+"If you knew that, it would have been better\Nto keep the 1800 out of the auction!",そ…それが わかっていたのなら,Well ... if I knew it,0.15,0.1280297
+"That way, Yanagida never\Nwould have gotten his hands on it!",柳田のことだから,Because it is Yanagida,0.14285714285714285,0.6431842
+No. That's not it.,いや そうじゃない,No,0.16666666666666666,0.37733313
 "On the contrary, I wanted Yanagida to win\Nthe Romanée-Monts Luisants 1800.","反対にロマネモンリュイザンの
 1800年物は","On the contrary, Romanemon Lewisan
-1800 years",0.3125
-"What are you saying, sir?",ど…どういうことなんですか 社長,... What does it mean? President,0.16666666666666666
+1800 years",0.3125,0.42060998
+"What are you saying, sir?",ど…どういうことなんですか 社長,... What does it mean? President,0.16666666666666666,0.17878433
 Inside that 1800 bottle is a wine from 1905.,"あの1800年物の中身は
 1905年物なんだよ","The contents of that 1800
-It is 1905",0.2857142857142857
+It is 1905",0.2857142857142857,0.5814623
 Though I doubt he is qualified\Nto taste even the 1905 variety.,"もっとも あいつには
 1905年物でも","The most also
-Even in 1905",0.2
-"Did you know, Jacques?",知ってるか ジャック,Do you know jack,0.25
+Even in 1905",0.2,0.35993662
+"Did you know, Jacques?",知ってるか ジャック,Do you know jack,0.25,0.32794896
 "In Germany, violation of the wine laws\Nis a crime of the nobility.","ドイツではワイン法に
 違反することは貴族の犯罪","In Germany, in the wine method
-Violation is noble crime",0.4666666666666667
-"This is a duel, one with Yanagida.\NAnd we are the winners.",これは柳田との決闘なんだ,This is a duel with Yanagida,0.35714285714285715
-His unrefined tongue couldn't possibly\Ndistinguish between an 1800 and the 1905.,1800年物と1905年物を,1800 years and 1905,0.21428571428571427
+Violation is noble crime",0.4666666666666667,0.84406567
+"This is a duel, one with Yanagida.\NAnd we are the winners.",これは柳田との決闘なんだ,This is a duel with Yanagida,0.35714285714285715,0.8894212
+His unrefined tongue couldn't possibly\Ndistinguish between an 1800 and the 1905.,1800年物と1905年物を,1800 years and 1905,0.21428571428571427,0.5056931
 "How is it, sir?","（ウェイター）いかがですか？
 （柳田）ええ 結構です","How is it?
- Yeah",0.5714285714285714
-"I'm the same way. I'm just a merchant, so when\Nwe purchase them in barrels from the vineyard,",私だって そうです,I'm so,0.16666666666666666
+ Yeah",0.5714285714285714,0.61394423
+"I'm the same way. I'm just a merchant, so when\Nwe purchase them in barrels from the vineyard,",私だって そうです,I'm so,0.16666666666666666,0.124892786
 I try samples and take notes\Nwhile I make a knowing face.,"わかったような顔で利(き)き酒をして
 メモを取ったりしますが","Good luck with the face that you understood
-I will take a note",0.2
+I will take a note",0.2,0.30213648
 "But the truth is, I don't\Nunderstand wine tastes either.","本当はワインの味なんて
 わかってないんですよ 私も","Really the taste of wine
-I do not know I",0.17647058823529413
+I do not know I",0.17647058823529413,0.7341934
 "However, if a vineyard sells\Nus bad wine just once,","ただ…一度でもダメなワインを
 売った醸造元には","However ... Even at once, no wine
-For brewing sold",0.23529411764705882
+For brewing sold",0.2352941176470588,0.6722148
 Wine transactions are built on trust. But there\Nare many people who would betray that trust.,"しかし その信頼を裏切る
 人間も多い","But betraying that trust
-Many people",0.3125
+Many people",0.3125,0.54785335
 "For us Japanese, creating that system of trust\Nhere in France is extremely difficult.","私たち日本人がフランスで
 信頼関係を作るのは","We Japanese in France
-To make a trust relationship",0.14285714285714285
+To make a trust relationship",0.14285714285714285,0.8101556
 It's the same for us Germans as well.,"（ミュラー）それは私たち
 ドイツ人も同じですよ","It is us
-Germans are the same",0.4166666666666667
+Germans are the same",0.4166666666666667,0.8740781
 It's because some of the French\Npeople are far too proud.,"フランス人には あまりに
 誇りが高すぎる人がいますからね","The French people are too
-Because there are too many proud people",0.3125
-Albert is a prime example of this.,赤ワインの逸品なのですが,It is a gem of red wine,0.25
+Because there are too many proud people",0.3125,0.89199173
+Albert is a prime example of this.,赤ワインの逸品なのですが,It is a gem of red wine,0.25,0.027904494
 "You mean, the owner of Romanée-Monts\NLuisants, Jean-Charles Albert?","ジャン＝シャルル･
 アルベールですか？","Jean-Charles
-Is it Albert?",0.25
+Is it Albert?",0.25,0.64674234
 But Albert is far too proud of that renown.,"しかしアルベールは その誇りを
 あまりにも鼻にかけすぎます","But Albert is proud of it
-He gets too much nose",0.4
-Have you heard?,ご存知ですか,do you know,0.16666666666666666
+He gets too much nose",0.4,0.74963987
+Have you heard?,ご存知ですか,do you know,0.16666666666666666,0.4274164
 What happened five years ago.,"（柳田）はい？
 （ミュラー）５年ほど前のことです","Yes?
- About 5 years ago",0.2
-An Arabian noble bought a bottle of 1800\NRomanée-Monts Luisants from Albert.,アルベールから買いました,I bought it from Albert,0.21428571428571427
-It turns out...,（アルベール）ハハハ…,Hahaha ...,0.2
+ About 5 years ago",0.2,0.5103699
+An Arabian noble bought a bottle of 1800\NRomanée-Monts Luisants from Albert.,アルベールから買いました,I bought it from Albert,0.21428571428571427,0.40213114
+It turns out...,（アルベール）ハハハ…,Hahaha ...,0.2,0.40988302
 What was inside the bottle was not the 1800.,"ボトルの中身は
 1800年物ではなかった","The contents of the bottle are
-It was not 1800 years",0.38461538461538464
-That is a baseless accusation.,とんだ言いがかりですな,It is a tough thing,0.2222222222222222
-"Still, it understandable.\NFor the people of Arabia, France's...",そもそもアラブの方にフランスの…,"In the first place, Arab is France ...",0.25
+It was not 1800 years",0.38461538461538464,0.7260497
+That is a baseless accusation.,とんだ言いがかりですな,It is a tough thing,0.2222222222222222,0.23323055
+"Still, it understandable.\NFor the people of Arabia, France's...",そもそもアラブの方にフランスの…,"In the first place, Arab is France ...",0.25,0.66451097
 "If I may, for us French,\Nwine is not simply alcohol:","よろしいか？
 我々フランス人にとってのワインは","Is it okay?
-We are wine for French",0.15789473684210525
+We are wine for French",0.15789473684210525,0.6618219
 It is a symbol of France's pride and culture.,"フランスの誇りと文化の
 象徴なんですよ","French pride and culture
-It is a symbol",0.5833333333333334
-Hang your head in shame!,恥を知りなさい,Know shame,0.14285714285714285
-Having said that...,そう言って門前払いをしたそうです,It seems that I said that said the gate,0.2222222222222222
-Is it true? That story?,本当ですか？　それは,really? that is,0.42857142857142855
+It is a symbol",0.5833333333333334,0.9476465
+Hang your head in shame!,恥を知りなさい,Know shame,0.14285714285714285,0.519611
+Having said that...,そう言って門前払いをしたそうです,It seems that I said that said the gate,0.2222222222222222,0.30392548
+Is it true? That story?,本当ですか？　それは,really? that is,0.42857142857142855,0.3133003
 "That's why, Mr. Yanagida...","その通りです
 少々 懸念(けねん)しています","That's right
-I'm a little concern",0.15384615384615385
-I... I believe it's the real thing.,私は本物だと信じていますが,I believe that I am real,0.2727272727272727
-This is... unthinkable!,これは… なんてことだ,This is ...,0.6
+I'm a little concern",0.15384615384615385,0.11772676
+I... I believe it's the real thing.,私は本物だと信じていますが,I believe that I am real,0.2727272727272727,0.5935304
+This is... unthinkable!,これは… なんてことだ,This is ...,0.6,0.31592754
 Yanagida is holding a housewarming party.,"柳田が屋敷の披露パーティーを
 するんだ","Yanagida is a mansshining partist
-I'm sorry",0.25
+I'm sorry",0.25,0.60430044
 "What's more, it looks like of all things,\Nhe's serving the ten bottles he bought yesterday.","そこで よりにもよって
 先日落札した10本を出すらしい","Well, more
-It seems to give 10 successful bids the other day",0.14285714285714285
+It seems to give 10 successful bids the other day",0.14285714285714285,0.23539607
 This is the list of sommeliers being invited.,"（ジャック）これが招待される
 ソムリエのリストです","This is invited
-It is a list of sommeliers",0.5454545454545454
+It is a list of sommeliers",0.5454545454545454,0.9422854
 "So, Louis Bouvet was invited as well, eh?","やはりルイ･ムーベも
 招待されていたか","After all Louis Move
-Was it invited?",0.2857142857142857
+Was it invited?",0.2857142857142857,0.71642387
 He is France's number one sommelier.,"フランスを代表する
 ５人のソムリエが招待される","Represent France
-Five sommelier is invited",0.2727272727272727
+Five sommelier is invited",0.2727272727272727,0.62887436
 But Louis could. He's been given a\Ntaste of the true 1800 before.,"彼には以前 正真正銘の
 1800年物を⸺","He used to be honest
-1800 years",0.10526315789473684
+1800 years",0.10526315789473684,0.4824763
 That man can sample a wine once\Nand never forget the taste of it.,"彼は一度飲んだワインの味は
 忘れん男だからな","He tastes the wine to drink once
-Because it is a forgotten man",0.22727272727272727
-"Then, at Yanagida's party,\Nhe'll know that the 1800 is a fake!",じゃあ 柳田のパーティーで,Well then at Yanagida's party,0.29411764705882354
-"If that happens, the proud name of France's\Ntop wine, the Romanée-Monts Luisants, will...!",ロマネモンリュイザンの名誉は…,Honor of Romanemon Lewisan ...,0.1111111111111111
-It will become nothing.,完全に無くなってしまう,It becomes completely eliminated,0.125
-Louis!,ルイ,Louis,0.5
-"To get right to it, what is it you need?",早速ですが 用件は何でしょう,It is immediately what is the case,0.23076923076923078
+Because it is a forgotten man",0.2272727272727273,0.7843309
+"Then, at Yanagida's party,\Nhe'll know that the 1800 is a fake!",じゃあ 柳田のパーティーで,Well then at Yanagida's party,0.29411764705882354,0.5603296
+"If that happens, the proud name of France's\Ntop wine, the Romanée-Monts Luisants, will...!",ロマネモンリュイザンの名誉は…,Honor of Romanemon Lewisan ...,0.1111111111111111,0.264915
+It will become nothing.,完全に無くなってしまう,It becomes completely eliminated,0.125,0.5264304
+Louis!,ルイ,Louis,0.5,0.888985
+"To get right to it, what is it you need?",早速ですが 用件は何でしょう,It is immediately what is the case,0.2307692307692308,0.2606315
 "You were invited to\NYanagida's party, weren't you?","柳田のパーティーに
 招待されているそうだね","Yanagida's party
-It seems to be invited",0.21428571428571427
-Are you attending?,（アルベール）出席するのか？,Do you attend?,0.3333333333333333
-I'd planned to.,そのつもりですが,I intend to,0.3333333333333333
-Well...,いやあ…,...,0.5
+It seems to be invited",0.21428571428571427,0.52140737
+Are you attending?,（アルベール）出席するのか？,Do you attend?,0.3333333333333333,0.8373953
+I'd planned to.,そのつもりですが,I intend to,0.3333333333333333,0.6295974
+Well...,いやあ…,...,0.5,0.71821535
 That man has no sense of taste; he simply relies\Non money to hoard his wine collection.,"金の力に任せて
 ワインを買い占める","Leave the power of money
-Buzzy wine",0.13636363636363635
+Buzzy wine",0.13636363636363635,0.5674521
 It would only damage your outstanding\Nreputation as a sommelier.,"君のソムリエとしての
 輝かしい経歴に","As your sommelier
-For a brilliant background",0.3076923076923077
+For a brilliant background",0.3076923076923077,0.5318271
 "I see. That's one way to look at it, isn't it?","なるほど
 そういう考えもありますね","So that's it
-There is also such an idea",0.19047619047619047
-However...,しかし…,However…,0.0
-I don't consider it Yanagida\Nthat I received the invitation from.,私は柳田から招待状をもらったとは,When I got an invitation from Yanagida,0.2
-What do you mean by that?,どういう意味だね それは,What does it mean,0.2222222222222222
+There is also such an idea",0.19047619047619047,0.3135332
+However...,しかし…,However…,0.0,0.77467084
+I don't consider it Yanagida\Nthat I received the invitation from.,私は柳田から招待状をもらったとは,When I got an invitation from Yanagida,0.2,0.8877323
+What do you mean by that?,どういう意味だね それは,What does it mean,0.2222222222222222,0.33870187
 "For a sommelier, there could be\Nno greater invitation!","ソムリエにとって
 こんな素晴らしい招待はありません","For sommelier
-There is no such a wonderful invitation",0.35714285714285715
+There is no such a wonderful invitation",0.35714285714285715,0.8791429
 "I'm grateful for your warning,\Nbut I have every intention of attending.","（ドアを叩く音）
-（秘書）失礼いたします",I'm sorry,0.13333333333333333
+（秘書）失礼いたします",I'm sorry,0.13333333333333333,0.22561252
 "- Your mail.\N- Ah, thank you.","（ルイ）あなたのご忠告には
 感謝しますが","For your advice
-Thank you",0.3
-"""That we may establish better ties of trust""",{\an8}“招待状”,"""Invitation""",0.18181818181818182
+Thank you",0.3,-0.016792912
+"""That we may establish better ties of trust""",{\an8}“招待状”,"""Invitation""",0.18181818181818185,0.24285
 "Now then, if the sommeliers\Nwould please join me.","それでは ソムリエの方は
 どうぞ こちらへ","Then sommelier
-Please tell me here",0.23076923076923078
-To uncork the bottle of 1800...,1800年物の開栓は,1800 years of opening,0.2222222222222222
-Mr. Albert!,アルベールさん,Albert,0.3333333333333333
+Please tell me here",0.2307692307692308,0.7703619
+To uncork the bottle of 1800...,1800年物の開栓は,1800 years of opening,0.2222222222222222,0.41743255
+Mr. Albert!,アルベールさん,Albert,0.3333333333333333,0.78854144
 "No, no! I...","（ドラマチックな音楽）
-ああ いやいや 私は…",Oh yeah and I ...,0.25
-"As maker of the greatest red wine in France,\NRomanée-Monts Luisants,",このフランス最高の赤ワイン,This French Best Red Wine,0.13333333333333333
-Don't you all agree?,そう思いませんか 皆さん,Do you not think so?,0.3333333333333333
-That's exactly right.,その任にふさわしい,It is suitable for that,0.1111111111111111
-The wine?,（ゴルゴ13）ワインをか？,Wine?,0.6666666666666666
+ああ いやいや 私は…",Oh yeah and I ...,0.25,0.42038265
+"As maker of the greatest red wine in France,\NRomanée-Monts Luisants,",このフランス最高の赤ワイン,This French Best Red Wine,0.13333333333333333,0.75524884
+Don't you all agree?,そう思いませんか 皆さん,Do you not think so?,0.3333333333333333,0.40263104
+That's exactly right.,その任にふさわしい,It is suitable for that,0.1111111111111111,0.21789162
+The wine?,（ゴルゴ13）ワインをか？,Wine?,0.6666666666666666,0.87164944
 I want you to hit that wine bottle\Nand nothing else.,"撃ち抜いてほしいという
 依頼ですから","I want you to shoot out
-Because it is a request",0.2222222222222222
-"What happened here, Mr. Albert?",どうしたんだ？　アルベールさん,What happened?Albert,0.5714285714285714
-Tomorrow night...,（アルベール）明日の夜…,Tomorrow night ...,1.0
+Because it is a request",0.2222222222222222,0.3078045
+"What happened here, Mr. Albert?",どうしたんだ？　アルベールさん,What happened?Albert,0.5714285714285714,0.8845547
+Tomorrow night...,（アルベール）明日の夜…,Tomorrow night ...,1.0,1.0000001
 A party will be held\Nat a mansion in Fontainebleau.,"フォンテーヌブローの館で
 パーティーが開かれます","At the fontainebleau building
-Party is open",0.14285714285714285
+Party is open",0.14285714285714285,0.7151903
 I want to stop that fact from becoming known.,"そのことが会場で知られることを
 防ぎたいのです","That thing is known at the venue
-I want to prevent it",0.29411764705882354
+I want to prevent it",0.29411764705882354,0.40359157
 "If the truth came out,\Nthe honor of the Albert name,","こんなことが知られたら
 アルベールの名誉と","If such a thing is known
-Honor of Albert",0.25
-the tradition of Romanée-Monts Luisants...,ロマネモンリュイザンの伝統,Romanemon Lewisan Tradition,0.125
+Honor of Albert",0.25,0.8291392
+the tradition of Romanée-Monts Luisants...,ロマネモンリュイザンの伝統,Romanemon Lewisan Tradition,0.125,0.5332157
 The pride of it would be lost in a second!,"そして誇りが 一度に
 失われてしまいます","And pride at once
-It will be lost",0.26666666666666666
+It will be lost",0.26666666666666666,0.7213482
 And who made that fake wine?,"（ゴルゴ13）そのニセモノワインを
 作ったのは 誰(だれ)なんだ","The Niseemono wine
-Who made",0.3333333333333333
-"Well, it...",そ…それは…,So ... it's ...,0.3333333333333333
-It was me.,私です,Is me,0.2
-"You made that fake wine yourself,\Nbut speak of honor and tradition and pride?",名誉と伝統と誇りか,Honor and tradition and pride,0.26666666666666666
+Who made",0.3333333333333333,0.63150346
+"Well, it...",そ…それは…,So ... it's ...,0.3333333333333333,0.5390079
+It was me.,私です,Is me,0.2,0.40842
+"You made that fake wine yourself,\Nbut speak of honor and tradition and pride?",名誉と伝統と誇りか,Honor and tradition and pride,0.26666666666666666,0.49768788
 "So, what do you think? Of my request.","（アルベール）そ…それで
 いかがでしょう 依頼を…","... So
-How do you request?",0.38461538461538464
-"Oh! So you will do it? If you hadn't agreed,\NI don't know what I would've done.",おお！　引き受けていただけますか,Oh!Can you accept it?,0.21739130434782608
+How do you request?",0.38461538461538464,0.5214274
+"Oh! So you will do it? If you hadn't agreed,\NI don't know what I would've done.",おお！　引き受けていただけますか,Oh!Can you accept it?,0.21739130434782608,0.32257953
 "At that party, the bottle of fake 1800\Nwill be uncorked.","パーティーでは そのニセモノの
 1800年物が","At the party
-1800 years",0.21428571428571427
-I want you to make that your target.,それを目印に狙(ねら)っていただきたい,I want to sing it,0.2727272727272727
+1800 years",0.21428571428571427,0.5231752
+I want you to make that your target.,それを目印に狙(ねら)っていただきたい,I want to sing it,0.2727272727272727,0.3583688
 "Whoever opens it, not knowing that it is a fake,\Nwill no doubt swoon at the honor of it.","知らずに その栄誉に
 酔うことでしょう","To its honor without knowing
-It will be drunk",0.12
+It will be drunk",0.12,0.30509478
 "I mean, if they were to know of your skill,\Nthat would be a different matter, of course.","あなたの腕前を知っている者ならば
 別でしょうがね","If you know your skills
-It will be different",0.21739130434782608
-This is the genuine\N1800 Romanée-Monts Luisants.,これこそが正真正銘,This is true genuine,0.2222222222222222
-Please.,どうぞ,please,0.5
-Well? How does it taste?,いかがです お味は？,How is it?,0.42857142857142855
-It's bitter.,苦い,bitter,0.25
-"Pride is admirable, but if taken too far,\Nit becomes arrogance.",誇りは気高いが過剰になれば傲慢(ごうまん)だ,Proud is an arrogant if it is excessive,0.1111111111111111
-And that's nothing but bitter.,それは苦々しいだけだ,That's only painful,0.2222222222222222
-"Are you all right, Mr. Albert?",大丈夫ですか　アルベールさん,Are you okay? Albert,0.4444444444444444
+It will be different",0.21739130434782608,0.53789794
+This is the genuine\N1800 Romanée-Monts Luisants.,これこそが正真正銘,This is true genuine,0.2222222222222222,0.42353404
+Please.,どうぞ,please,0.5,0.82845175
+Well? How does it taste?,いかがです お味は？,How is it?,0.42857142857142855,0.42572552
+It's bitter.,苦い,bitter,0.25,0.8132548
+"Pride is admirable, but if taken too far,\Nit becomes arrogance.",誇りは気高いが過剰になれば傲慢(ごうまん)だ,Proud is an arrogant if it is excessive,0.1111111111111111,0.77688795
+And that's nothing but bitter.,それは苦々しいだけだ,That's only painful,0.2222222222222222,0.318389
+"Are you all right, Mr. Albert?",大丈夫ですか　アルベールさん,Are you okay? Albert,0.4444444444444444,0.7297528
 How could an asian understand\Nthe true flavor of wine?!,"と…東洋人なんかに
 真のワインの味がわかるものか","And ... in Toyopter
-I know the taste of true wine",0.15789473684210525
-The hit will take place at the theater.,（ナレーター）狙撃(そげき)は劇場内,Sniper  is in the theater,0.18181818181818182
-A perfect alibi and a disappearing weapon...,完ぺきなアリバイと消える凶器,Perfect alibi and wasteful weapons,0.3333333333333333
-"And now, the curtain will rise on murder!",今 殺人劇の幕が上がる,Now the curtain of murderer goes up,0.21428571428571427
-"Next time on Golgo 13,\N""Night of the Murder""",次回 「ゴルゴ13」,"Next time ""Golgo 13""",0.38461538461538464
+I know the taste of true wine",0.15789473684210525,0.4712218
+The hit will take place at the theater.,（ナレーター）狙撃(そげき)は劇場内,Sniper  is in the theater,0.18181818181818185,0.45410442
+A perfect alibi and a disappearing weapon...,完ぺきなアリバイと消える凶器,Perfect alibi and wasteful weapons,0.3333333333333333,0.7897166
+"And now, the curtain will rise on murder!",今 殺人劇の幕が上がる,Now the curtain of murderer goes up,0.21428571428571427,0.8487148
+"Next time on Golgo 13,\N""Night of the Murder""",次回 「ゴルゴ13」,"Next time ""Golgo 13""",0.38461538461538464,0.7200739
 "Do not stand behind him, if you value your life!","ヤツの後ろに立つな
 命が惜しければ","Do not stand behind the guy
-If you are lonely",0.375
+If you are lonely",0.375,0.6463147

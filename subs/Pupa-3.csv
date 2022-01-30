@@ -1,25 +1,25 @@
-en_text,jp_text,google_translated,score
-dame da yo koko kara saki wa,别再靠近 那前方,Retail reconnaissant,0.0
-ugomeku yami wo kizami sagasu no hikari no sora,那蠢动的黑暗渐散 寻找那明亮的天空,Na-Nakado Sakai Susband Sa Na Nao Heaven Heaven,0.0
-tobitachitai no habatakitai,振翅欲飞上九霄,Rose mushroom nine,0.0
-"I want to fly, I want to beat my wings",我无力改变,I'm sorry,0.1
-A red butterfly flutters around me,翩翩舞动之红蝶,翩翩 翩翩 butterfly,0.14285714285714285
-nukedashitai yo katai kara wo yaburi kawaru anata no tame ni,欲破茧重生  因你而改变,Greed 茧 茧 茧 变 变,0.0
-"What a pity, boy.",残念だったわね　お兄ちゃん,It was a pity I was sorry brother,0.18181818181818182
-This is all just some scary dream.,怖い夢を見てるだけ,I just look at a scary dream,0.25
-"Once I wake up, Onii-chan will be there for me.",夢から覚めれば　きっとお兄ちゃんが隣にいて,"If you wake up from a dream, your brother will be next door",0.23809523809523808
-And then...,それで,Like that,0.0
-And then you're gonna eat him again?,それでまた食べるの？,So do you eat again?,0.3333333333333333
-"You know what you did, Yume-chan!",夢ちゃん　わかってるくせに,I know Yume-chan,0.25
-I don't want to remember.,こんなこと　思い出したくないのに,I do not want to remember this,0.5555555555555556
-My body is craving flesh.,この体がほしがってる,This body is going to be,0.2
-I see people passing me by and can only think about how delicious they look.,道行く人を見て　おいしそうと思うなんて,I think I'm going to look at people who go,0.18181818181818182
-I don't want to eat them.,食べたくない,I do not want to eat,0.5555555555555556
-But I'm just so hungry.,でも　お腹が空いて　もう我慢できない,But I can not stand it already,0.16666666666666666
-Yume!,夢,dreams,0.0
-Onii-chan?,え？,picture?,0.3333333333333333
-"Onii-chan, is it really you?",本当にお兄ちゃんなの？,Is it really brother?,0.5
-Am I still dreaming?,私　まだ夢を見てる？,Are you still dreaming?,0.42857142857142855
-"I'm sorry, Onii-chan.",ごめんね　お兄ちゃん,Sorry I'm sorry,0.5
-"Don't worry about me, Yume.",いいんだ　夢,Good dream,0.0
-"and when you're cold to me, I want to cry,",你的冷淡叫人哭泣,Cold screaming,0.08333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+dame da yo koko kara saki wa,别再靠近 那前方,Retail reconnaissant,0.0,0.12947695
+ugomeku yami wo kizami sagasu no hikari no sora,那蠢动的黑暗渐散 寻找那明亮的天空,Na-Nakado Sakai Susband Sa Na Nao Heaven Heaven,0.0,0.47559062
+tobitachitai no habatakitai,振翅欲飞上九霄,Rose mushroom nine,0.0,0.20758975
+"I want to fly, I want to beat my wings",我无力改变,I'm sorry,0.1,0.17883101
+A red butterfly flutters around me,翩翩舞动之红蝶,翩翩 翩翩 butterfly,0.14285714285714285,0.47633904
+nukedashitai yo katai kara wo yaburi kawaru anata no tame ni,欲破茧重生  因你而改变,Greed 茧 茧 茧 变 变,0.0,0.20527583
+"What a pity, boy.",残念だったわね　お兄ちゃん,It was a pity I was sorry brother,0.18181818181818185,0.5213173
+This is all just some scary dream.,怖い夢を見てるだけ,I just look at a scary dream,0.25,0.745757
+"Once I wake up, Onii-chan will be there for me.",夢から覚めれば　きっとお兄ちゃんが隣にいて,"If you wake up from a dream, your brother will be next door",0.2380952380952381,0.3983152
+And then...,それで,Like that,0.0,0.37805378
+And then you're gonna eat him again?,それでまた食べるの？,So do you eat again?,0.3333333333333333,0.7168322
+"You know what you did, Yume-chan!",夢ちゃん　わかってるくせに,I know Yume-chan,0.25,0.7903496
+I don't want to remember.,こんなこと　思い出したくないのに,I do not want to remember this,0.5555555555555556,0.79917574
+My body is craving flesh.,この体がほしがってる,This body is going to be,0.2,0.3895172
+I see people passing me by and can only think about how delicious they look.,道行く人を見て　おいしそうと思うなんて,I think I'm going to look at people who go,0.18181818181818185,0.38028115
+I don't want to eat them.,食べたくない,I do not want to eat,0.5555555555555556,0.67075795
+But I'm just so hungry.,でも　お腹が空いて　もう我慢できない,But I can not stand it already,0.16666666666666666,0.30506843
+Yume!,夢,dreams,0.0,0.16757306
+Onii-chan?,え？,picture?,0.3333333333333333,0.17893346
+"Onii-chan, is it really you?",本当にお兄ちゃんなの？,Is it really brother?,0.5,0.42090058
+Am I still dreaming?,私　まだ夢を見てる？,Are you still dreaming?,0.42857142857142855,0.8234906
+"I'm sorry, Onii-chan.",ごめんね　お兄ちゃん,Sorry I'm sorry,0.5,0.37092987
+"Don't worry about me, Yume.",いいんだ　夢,Good dream,0.0,0.08820513
+"and when you're cold to me, I want to cry,",你的冷淡叫人哭泣,Cold screaming,0.08333333333333333,0.53943855

@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Connecting old words</i>
 <i>that have been used up</i>","♬
  
@@ -6,7 +6,7 @@ en_text,jp_text,google_translated,score
 
 ","♬
  
-Now connect words",0.06666666666666667
+Now connect words",0.06666666666666668,0.57157856
 "<i>I just want to convey</i>
 <i>my simple thoughts</i>","♬
  
@@ -14,7 +14,7 @@ Now connect words",0.06666666666666667
 
 ","♬
  
-I just want to convey my thoughts",0.5833333333333334
+I just want to convey my thoughts",0.5833333333333334,0.65650606
 <i>That day's faint wind blows away</i>,"♬
  
 吹き抜ける
@@ -23,7 +23,7 @@ I just want to convey my thoughts",0.5833333333333334
 ","♬
  
 Blow through
-The wind of that day is",0.17647058823529413
+The wind of that day is",0.17647058823529413,0.71850526
 "<i>I'll laugh with you</i>
 <i>and live for the moment</i>","♬
  
@@ -35,7 +35,7 @@ The wind of that day is",0.17647058823529413
  
 Laugh with you
  
-Live now",0.26666666666666666
+Live now",0.26666666666666666,0.7049719
 "<i>Still that incident</i>
 <i>will continue to trouble you, right?</i>","♬
  
@@ -43,14 +43,14 @@ Live now",0.26666666666666666
 
 ","♬
  
-Will you suffer from you?",0.16666666666666666
+Will you suffer from you?",0.16666666666666666,0.3936523
 <i>That's why it must be good bye</i>,"♬
  
 だからこそサヨナラなんだ
 
 ","♬
  
-That's why it is a goodbye",0.25
+That's why it is a goodbye",0.25,0.6702667
 "<i>Leaving nothing behind,</i>
 <i>let us share what is left</i>","♬
  
@@ -58,7 +58,7 @@ That's why it is a goodbye",0.25
 
 ","♬
  
-Nothing remains as it is",0.1111111111111111
+Nothing remains as it is",0.1111111111111111,0.42120817
 "<i>In time, we'll realize</i>
 <i>that it was everything</i>","♬
  
@@ -66,7 +66,7 @@ Nothing remains as it is",0.1111111111111111
 
 ","♬
  
-I realize that it is everything",0.3125
+I realize that it is everything",0.3125,0.4916104
 "<i>And sadness will touch our cheeks,</i>
 <i>creating a river of tears</i>","♬
  
@@ -74,7 +74,7 @@ I realize that it is everything",0.3125
 
 ","♬
  
-Just become a river of tears",0.21052631578947367
+Just become a river of tears",0.21052631578947367,0.6167911
 "<i>Trembling thoughts swept into a vortex</i>
 <i>and melting away</i>","♬
  
@@ -82,7 +82,7 @@ Just become a river of tears",0.21052631578947367
 
 ","♬
  
-I'm melting",0.13333333333333333
+I'm melting",0.13333333333333333,0.40056193
 "This is not good,
 looks like a storm is coming.","(
 次郎長
@@ -95,29 +95,29 @@ looks like a storm is coming.","(
 ","Hopefully
  
 This guy becomes a storm
-.",0.2857142857142857
+.",0.2857142857142857,0.6040554
 What?,"(
 大政
 )
 え？
 
-",picture?,0.3333333333333333
+",picture?,0.3333333333333333,0.36253253
 Idate...,"イダテ
 ｡
 
 ","Idate
-.",0.3333333333333333
+.",0.3333333333333333,0.9259
 Aoi... Rokusho!,"(ｱｵｲ)
 フッフフフ…
 ｡
 
 ","Fuchfufu ...
-.",0.16666666666666666
+.",0.16666666666666666,0.251861
 "Wasn't running away
 your specialty?","(ｱｵｲ)
 逃げたんじゃなかったのかい？➡
 
-",Didn't you run away?➡,0.2727272727272727
+",Didn't you run away?➡,0.2727272727272727,0.48586723
 Shut up!,"(ｲﾀﾞﾃ)
 うるせぇ！
  
@@ -125,7 +125,7 @@ Shut up!,"(ｲﾀﾞﾃ)
 
 ","shut up!
  
-It is different from Teme!",0.375
+It is different from Teme!",0.375,0.4645548
 "No, you are the same kind
 of human as I am.","いいや
  
@@ -137,12 +137,12 @@ of human as I am.","いいや
  
 You are
 It is the same kind of human as me
-.",0.625
+.",0.625,0.9116355
 A betrayer who doesn't trust others.,"他人を信じない裏切り者だ
 ｡
 
 ","It is a traitor that does not believe in others
-.",0.26666666666666666
+.",0.26666666666666666,0.5508607
 "Betraying your own brother,
 walking away from the village","実の兄を裏切り
  
@@ -150,7 +150,7 @@ walking away from the village","実の兄を裏切り
 
 ","Betraying real brother
  
-Discard the village",0.3333333333333333
+Discard the village",0.3333333333333333,0.86384636
 "Such a man...
 doesn't deserve to live!","(ｱｵｲ)
 そんなヤツに
@@ -159,10 +159,10 @@ doesn't deserve to live!","(ｱｵｲ)
 
 ","To such a guy
 There will be no alive qualification
-.",0.16666666666666666
+.",0.16666666666666666,0.4349179
 Die!,"死ね！
 
-",Death!,0.3333333333333333
+",Death!,0.3333333333333333,0.81595105
 A wound like this is nothing.,"これくらい
  
 何でもないわ
@@ -173,7 +173,7 @@ A wound like this is nothing.,"これくらい
  
 Nothing
 ...
-.",0.375
+.",0.375,0.33228377
 Yes.,"(ｻｽｹ)
 さっきの雨忍たちか
 ｡
@@ -183,7 +183,7 @@ Yes.,"(ｻｽｹ)
 ","Soon after
 .
 Yes
-.",0.5
+.",0.5,0.46872044
 "No, it's not that!
 If they're headed towards Idate...","そうじゃないわよ
  
@@ -199,14 +199,14 @@ if
 Idate
 San
 If you have headed for ...
-.",0.35
+.",0.35,0.56952554
 Oh! Idate is in danger!,"あっ！
  
 イダテが危ねぇ！
 
 ","Ah!
  
-Idate is dangerous!",0.375
+Idate is dangerous!",0.375,0.89657575
 That's what I've been saying!,"だから
  
 さっきから
@@ -215,7 +215,7 @@ That's what I've been saying!,"だから
 ","that's why
  
 After a while ago
-I'm saying it!",0.3333333333333333
+I'm saying it!",0.3333333333333333,0.5492348
 "Hey, Naruto!
 This is no time to be playing around.","ちょっと
  
@@ -225,7 +225,7 @@ This is no time to be playing around.","ちょっと
 ","A little
  
 Naruto!
-If you're playing ...!",0.15789473684210525
+If you're playing ...!",0.15789473684210525,0.68444633
 <i>Naruto!</i>,"《ナルト！》
 (
 朧
@@ -238,33 +238,33 @@ If you're playing ...!",0.15789473684210525
 
 ""lucky
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.7932667
 <i>We are invincible in water.</i>,"水の中なら
  
 俺たちは無敵》
 
 ","If in the water
  
-We are invincible """,0.3076923076923077
+We are invincible """,0.3076923076923077,0.88687533
 "<i>Geez, what a troublesome guy.</i>","《ったく
  
 手間のかかるヤツだ》
 
 ","""Geez
  
-It's a time-consuming guy",0.13333333333333333
+It's a time-consuming guy",0.13333333333333333,0.34254816
 <i>Water Clone Jutsu!</i>,"水分身の術！》
 
-","Water distribution technique!""",0.18181818181818182
+","Water distribution technique!""",0.18181818181818185,0.34806746
 <i>Shadow Clone Jutsu!</i>,"《影分身の術！》
 
-","""Shadow Population Technique!""",0.16666666666666666
+","""Shadow Population Technique!""",0.16666666666666666,0.49733105
 "<i>How stupid. What use can</i>
 <i>Shadow Clones have in this situation?</i>","この状況で影分身など
 何の役に立つ？➡
 
 ","Shadow body etc. in this situation
-What is useful?➡",0.3181818181818182
+What is useful?➡",0.3181818181818182,0.54837507
 "<i>There's no way they can defeat</i>
 <i>our Water Clones in water.</i>","水の中では
  
@@ -278,7 +278,7 @@ What is useful?➡",0.3181818181818182
 At our water
 I can not win
 .
-➡",0.23809523809523808
+➡",0.2380952380952381,0.6076976
 "<i>Even if you try to trick us,</i>","もし
  
 ごまかそうと
@@ -287,7 +287,7 @@ I can not win
 ","if
  
 So
-Even if you think",0.21428571428571427
+Even if you think",0.21428571428571427,0.17298995
 "<i>I'm hanging on to the real body</i>
 <i>right here.</i>","本体は
  
@@ -297,16 +297,16 @@ Even if you think",0.21428571428571427
 ","Of the main unit
  
 As you see
-I'm pressing """,0.14285714285714285
+I'm pressing """,0.14285714285714285,0.17368421
 <i>What are they trying to do?</i>,"(
 朧
 )
 《何のつもりだ？》
 
-","""What are you going?""",0.2
+","""What are you going?""",0.2,0.18871067
 <i>N-No way!</i>,"ん～！
 
-",!,0.14285714285714285
+",!,0.14285714285714285,0.2923597
 "<i>What a whirlpool...</i>
 <i>Chakra is intertwined in it!</i>","《すごい
  
@@ -316,29 +316,29 @@ I'm pressing """,0.14285714285714285
 ","""very
  
 This vortex ...
-Chakra is kneaded """,0.15789473684210525
+Chakra is kneaded """,0.15789473684210525,0.58068675
 <i>Naruto...you...</i>,"《ナルトのヤツ…》
 
-","""Naruto no Yatsu ...""",0.18181818181818182
+","""Naruto no Yatsu ...""",0.18181818181818185,0.64880586
 "<i>This is the application</i>
 <i>of the first step</i>","《螺旋丸の修業
 第１段階の応用だってばよ！》
 
 ","""The study of spiral circles
-It is the application of the first stage!""",0.2631578947368421
+It is the application of the first stage!""",0.2631578947368421,0.229559
 Come on! Sakura!,"サクラちゃん
  
 しっかりしろ！
 
 ","Sakura-chan
  
-come on!",0.6
+come on!",0.6,0.82611626
 Sakura!,"サクラちゃん！
 
-",Sakura-chan!,0.3333333333333333
+",Sakura-chan!,0.3333333333333333,0.8826181
 <i>S-Sasuke...</i>,"《あれっきゃねえ…》
 
-","""I'm sorry ...""",0.2
+","""I'm sorry ...""",0.2,0.16807492
 <i>I'd like it if Sasuke is the one to do...</i>,"サスケ君になら
  
 してほしい
@@ -349,17 +349,17 @@ Sakura!,"サクラちゃん！
  
 I want you to
 .
-➡",0.3157894736842105
+➡",0.3157894736842105,0.8686876
 "What the hell are you doing, idiot!","何すんのよ！
  
 アホ！
 
 ","What's wrong!
  
-Aho!",0.16666666666666666
+Aho!",0.16666666666666666,0.37631527
 Sasuke?,"サスケ君？
 
-",Sasuke?,1.0
+",Sasuke?,1.0,0.9999996
 "We don't have any time to spare.
 We need to meet up with Idate.","のんびりしている余裕はない
 すぐ
@@ -371,7 +371,7 @@ We need to meet up with Idate.","のんびりしている余裕はない
 soon
  
 If you do not join the Idate
-.",0.16666666666666666
+.",0.16666666666666666,0.55860746
 "Wait, Sasuke.","待って
  
 サスケ君
@@ -380,19 +380,19 @@ If you do not join the Idate
 ","hang on
  
 Sasuke
-.",0.3333333333333333
+.",0.3333333333333333,0.8375553
 Hey... Don't leave me.,"がっ…
 ｡
 
 ","...
-.",0.2857142857142857
+.",0.2857142857142857,0.21233821
 Fukusuke reaches Modoroki Shrine.,"フクスケが藻土呂木神社に
 たどりつく頃だろう
 ｡
 
 ","Fukusuke is a bargain ground shrine
 It will be around
-.",0.23076923076923078
+.",0.2307692307692308,0.71278346
 "There's no chance for you
 to win now.","もう
  
@@ -406,17 +406,17 @@ to win now.","もう
 Over
  
 There is no win
-.",0.3076923076923077
+.",0.3076923076923077,0.61517936
 "You can't even run
 or stand up now.","立ち上がることもできない
 ｡
 
 ","I can not stand up
-.",0.23076923076923078
+.",0.2307692307692308,0.66474044
 "When that pain spreads
 throughout your whole body,","その痛みが全身に広がったとき➡
 
-",When the pain spreads to the whole body,0.45454545454545453
+",When the pain spreads to the whole body,0.4545454545454545,0.9172834
 you'll reach a different finish line.,"お前は別のゴールに
  
 たどりつく
@@ -425,14 +425,14 @@ you'll reach a different finish line.,"お前は別のゴールに
 ","You are another goal
  
 Deaf
-.",0.16666666666666666
+.",0.16666666666666666,0.2509004
 "What are you thinking of doing
 with that dirty knife?","どうしようというんだい？
 
-",What should I do?,0.14285714285714285
+",What should I do?,0.14285714285714285,0.13132511
 Don't touch it!,"触るな！
 
-",Do not touch!,0.5
+",Do not touch!,0.5,0.82659703
 All you have to do is run away.,"お前は
  
 ただ
@@ -443,7 +443,7 @@ All you have to do is run away.,"お前は
  
 just
 I wish I had run away
-.",0.2857142857142857
+.",0.2857142857142857,0.6056924
 "You have no right to even
 the slightest bit of integrity.","僅かな誇りを持つことさえ
 許されない
@@ -451,7 +451,7 @@ the slightest bit of integrity.","僅かな誇りを持つことさえ
 
 ","Even if you have a slight pride
 Unacceptable
-.",0.23529411764705882
+.",0.2352941176470588,0.38215458
 Boss...,"すまねえ…
  
 親分
@@ -460,25 +460,25 @@ Boss...,"すまねえ…
 ","Summon ...
  
 boss
-.",0.5
+.",0.5,0.61905295
 I couldn't keep...,"守れなかった…
 ｡
 
 ","I could not keep it ...
-.",0.5
+.",0.5,0.84814036
 the promise I made with you.,"親分との約束を…➡
 
-",Promise with the parents ... ➡,0.3
+",Promise with the parents ... ➡,0.3,0.53196114
 Idate!,"イダテ！
 (ｲﾀﾞﾃ)
 はっ！
 
 ","Idate!
 
-Hey!",0.6666666666666666
+Hey!",0.6666666666666666,0.88963443
 You bastard!,"てめぇ！
 
-",You!,0.6666666666666666
+",You!,0.6666666666666666,0.55316955
 "<i>Darn, what a downpour.</i>","(ﾌｸｽｹ)
 《チッ
  
@@ -486,7 +486,7 @@ You bastard!,"てめぇ！
 
 ","""Chig
  
-What a rain",0.16666666666666666
+What a rain",0.16666666666666666,0.4283205
 "seems like the Hidden Leaf ones
 are better.","やはり
  
@@ -498,7 +498,7 @@ are better.","やはり
  
 In the guy
 The load was heavy
-.",0.13333333333333333
+.",0.13333333333333333,0.054340165
 "But can Genin level Ninja
 fight against me?","だが
  
@@ -508,10 +508,10 @@ fight against me?","だが
 ","But
  
 At the Shimonobu level
-Is this my partner working?",0.17647058823529413
+Is this my partner working?",0.17647058823529413,0.27270177
 Above!,"ドリャ！
 
-",Dora!,0.3333333333333333
+",Dora!,0.3333333333333333,0.33641374
 "I'll use the same method
 I used on Idate,","貴様らは
  
@@ -519,22 +519,22 @@ I used on Idate,","貴様らは
 
 ","Anywhere
  
-In the same way as Idate",0.21428571428571427
+In the same way as Idate",0.21428571428571427,0.5216268
 and send you to hell.,"あの世に送ってやる
 ｡
 
 ","I will send it to that world
-.",0.2727272727272727
+.",0.2727272727272727,0.52634156
 No need to waste my Chakra.,"ムダにチャクラを使うこともない
 ｡
 
 ","Don't use Chakra to Muda
-.",0.2727272727272727
+.",0.2727272727272727,0.68454885
 Th-These darned things...,"こんなもん…
 ｡
 
 ","Such moth ...
-.",0.14285714285714285
+.",0.14285714285714285,0.22589566
 "Those are poisoned needles specially
 made by the Hidden Rain Village.","雨隠れ
  
@@ -544,7 +544,7 @@ made by the Hidden Rain Village.","雨隠れ
 ","Rain
  
 It is a specially made poisonous needle
-.",0.23529411764705882
+.",0.2352941176470588,0.7162093
 "They will send you to hell
 in a few minutes,","どんな強じんな体でも
 数分で
@@ -556,14 +556,14 @@ in a few minutes,","どんな強じんな体でも
 In a few minutes
  
 Go to that world
-.",0.2777777777777778
+.",0.2777777777777778,0.36294353
 no matter how strong you are.,"フクスケが
 藻土呂木神社に着いたか
 ｡
 
 ","Fukusuke
 Were you arrived at Koji Koji
-.",0.16666666666666666
+.",0.16666666666666666,0.14788671
 "It's a death
 that fits you Genin brats well.","下忍のガキには
 似合いの死にざまだ
@@ -571,7 +571,7 @@ that fits you Genin brats well.","下忍のガキには
 
 ","For Kashobu's Gaki
 It's a good death
-.",0.3333333333333333
+.",0.3333333333333333,0.3581655
 "Isn't there a God or Buddha
 in this world?","(
 男性２
@@ -580,7 +580,7 @@ in this world?","(
 ｡
 
 ","There is no God and Buddha in this world
-.",0.5
+.",0.5,0.87673473
 "I miss the old times when
 Jirocho was in charge.","(
 男性３
@@ -591,7 +591,7 @@ Jirocho was in charge.","(
 
 ","Mr. Jiro
 It is nostalgic when it was partitioned
-.",0.17647058823529413
+.",0.17647058823529413,0.54476786
 "You are amazing, Fukusuke.","(
 男１
 )
@@ -603,7 +603,7 @@ It is nostalgic when it was partitioned
 ","I'm sorry
  
 Mr. Fukusuke
-.",0.2
+.",0.2,0.63382506
 "Keep on running to the goal,
 and make our Boss Wagarashi happy.","(
 男性１
@@ -612,12 +612,12 @@ and make our Boss Wagarashi happy.","(
 ｡
 
 ","This time the wagarashi family win
-.",0.16666666666666666
+.",0.16666666666666666,0.5581678
 Who do you think you are talking to?,"(ﾌｸｽｹ)ざけんなよ チンピラ
 この俺を誰だと思ってんでい？
 
 ","Single cock pyrus
-Who do you think of this?",0.38461538461538464
+Who do you think of this?",0.38461538461538464,0.21485385
 "My victory is already assured.
 Let me relax for a while.","俺の勝ちはもう決まってんだ
 少し
@@ -629,11 +629,11 @@ Let me relax for a while.","俺の勝ちはもう決まってんだ
 a bit
  
 Slowly
-.",0.3125
+.",0.3125,0.57007354
 "What if something goes wrong
 during the race?","何？
 
-",what?,0.2222222222222222
+",what?,0.2222222222222222,0.074186474
 "Who knows what our boss
 will do to us.","親分に
  
@@ -643,14 +643,14 @@ will do to us.","親分に
 ","Parents
  
 What kind of eyes are you
-.",0.125
+.",0.125,0.054127842
 "Darn, that bastard!","くっそ～
  
 あいつ！
 
 ","Clues ~
  
-that person!",0.25
+that person!",0.25,0.39421335
 "Naruto, Sasuke...","ナルト
  
 サスケ君
@@ -663,15 +663,15 @@ that person!",0.25
 Sasuke
  
 this…
-.",0.3333333333333333
+.",0.3333333333333333,0.866379
 Before leaving the Leaf Village,"木ノ葉の里を出る時➡
 
-",When leaving the village of the tree,0.375
+",When leaving the village of the tree,0.375,0.8104233
 Lady Tsunade handed this to me.,"綱手様に渡されたのよ
 ｡
 
 ","It was passed to Tsugi-sama
-.",0.18181818181818182
+.",0.18181818181818185,0.2512457
 "<i>Take this with you.</i>
 <i>I am sure it will come in handy.</i>","(
 綱手
@@ -680,7 +680,7 @@ Lady Tsunade handed this to me.,"綱手様に渡されたのよ
 きっと役に立つはずだ＞
 
 ","<Have this
-Surely it should be useful>",0.2
+Surely it should be useful>",0.2,0.6083321
 "I think he'll recover
 consciousness now.","これで
  
@@ -692,7 +692,7 @@ consciousness now.","これで
  
 straight away
 I think that consciousness returns
-.",0.2857142857142857
+.",0.2857142857142857,0.7125127
 "Sasuke and Naruto,
 you take this, too.","サスケ君もナルトも
 これをのんで
@@ -700,7 +700,7 @@ you take this, too.","サスケ君もナルトも
 
 ","Sasuke also naruto
 This is
-.",0.36363636363636365
+.",0.3636363636363637,0.8491262
 O-Okay.,"ん…
  
 うん
@@ -709,16 +709,16 @@ O-Okay.,"ん…
 ","Hmm…
  
 Yes
-.",0.25
+.",0.25,0.34027085
 "Also, we'll be too cold here,
 so we need to move somewhere else.","どこかへ移動しないと
 ｡
 
 ","If you do not move somewhere
-.",0.15789473684210525
+.",0.15789473684210525,0.42885306
 Brother!,"＜兄貴！＞
 
-",<My brother!>,0.4
+",<My brother!>,0.4,0.62479246
 "Look! I've finally become
 a Ninja, too!","＜見てくれ！
  
@@ -728,7 +728,7 @@ a Ninja, too!","＜見てくれ！
 ","<Please look!
  
 me too
-Finally it became a ninja!>",0.375
+Finally it became a ninja!>",0.375,0.8991579
 "Then after that, a Jonin.","(ｲﾋﾞｷ)
 ＜そうか＞
 (ｲﾀﾞﾃ)
@@ -736,31 +736,31 @@ Finally it became a ninja!>",0.375
 
 ","<Yes>
 
-<After all ➡",0.08333333333333333
+<After all ➡",0.08333333333333333,0.1441705
 "I'm going to be like you, Brother!","何でも一番に
  
 なんないとな！➡
 
 ","Anything
  
-I have to!➡",0.23076923076923078
+I have to!➡",0.2307692307692308,0.31422094
 Brother?,"兄貴？＞
 
-",Big brother?>,0.5
+",Big brother?>,0.5,0.5554155
 "In the world of Shinobi,","忍の世界には
  
 出世や力より➡
 
 ","In the world of Shinobu
  
-From the issue and power",0.36363636363636365
+From the issue and power",0.3636363636363637,0.81725186
 Something more important?,"もっと大事なものがある＞
 (ｲﾀﾞﾃ)
 ＜大事なもの？＞
 
 ","More important things>
 
-<It is important?>",0.3333333333333333
+<It is important?>",0.3333333333333333,0.7820641
 "Until you understand that,
 it's too early for you to talk that way.","(ｲﾋﾞｷ)
 ＜それが分かるまで
@@ -771,7 +771,7 @@ it's too early for you to talk that way.","(ｲﾋﾞｷ)
 ","<Until it can be seen
  
 not yet
-It is early to say that",0.22727272727272727
+It is early to say that",0.2272727272727273,0.51426846
 What happened to Aoi?!,"大丈夫？
 ヤツは…
  
@@ -784,7 +784,7 @@ The guy is ...
  
 Aoi
  
-What happened?",0.36363636363636365
+What happened?",0.3636363636363637,0.7512273
 "Idate, do you know him?","イダテさん
 あいつのこと
  
@@ -793,7 +793,7 @@ What happened?",0.36363636363636365
 ","Mr. Idate
 Atsushi
  
-Do you know?",0.5555555555555556
+Do you know?",0.5555555555555556,0.6532392
 "was a teacher when
 I was in the Leaf Village.","ヤツは
  
@@ -805,7 +805,7 @@ I was in the Leaf Village.","ヤツは
  
 I
 It was a teacher when I was in the wooden leaf
-.",0.6923076923076923
+.",0.6923076923076923,0.81973547
 You... are from the Leaf Village?,"えっ…
  
 お前
@@ -816,48 +816,48 @@ You... are from the Leaf Village?,"えっ…
  
 you
  
-Is it the wooden leaf?",0.3333333333333333
+Is it the wooden leaf?",0.3333333333333333,0.6238889
 Aoi... betrayed the Leaf Village,"アオイは
  
 木ノ葉の里を裏切って➡
 
 ","Aoi
  
-Back to the village of the tree",0.3
+Back to the village of the tree",0.3,0.8188717
 and became a Jonin of the Hidden Rain.,"雨隠れの上忍になったんだ
 ｡
 
 ","I became a raindrop
-.",0.2727272727272727
+.",0.2727272727272727,0.53091604
 What the hell do you mean?,"一体
  
 どういうことだってばよ？
 
 ","Integral
  
-What does that mean?",0.3
+What does that mean?",0.3,0.10235264
 You have to rest a little more.,"もう少し休まないと
 ｡
 
 ","I have to rest a little more
-.",0.7777777777777778
+.",0.7777777777777778,0.906655
 How is your hand there?,"そっちの手もいい？
 
-",Is that your hand good?,0.5
+",Is that your hand good?,0.5,0.736452
 You kept it clenched all this time.,"その手
 ずっと握ったままだったのよ
 ｡
 
 ","That hand
 I was holding it for a long time
-.",0.1875
+.",0.1875,0.5008404
 It's too early to give up!,"諦めんのは
  
 まだ早いってばよ！
 
 ","Greedy
  
-It's still early!",0.4
+It's still early!",0.4,0.5937692
 I forgot all about the Leaf...,"(ｲﾀﾞﾃ)
 忘れちまったよ
 木ノ葉のことなんか
@@ -865,7 +865,7 @@ I forgot all about the Leaf...,"(ｲﾀﾞﾃ)
 
 ","I forgot
 Something about Kunano Leaves
-.",0.2727272727272727
+.",0.2727272727272727,0.68194586
 "the moment
 I walked away from the village.","里を捨てた
  
@@ -875,10 +875,10 @@ I walked away from the village.","里を捨てた
 ","I abandoned the village
  
 From that time
-.",0.45454545454545453
+.",0.4545454545454545,0.75059813
 You walked away from the village?,"里を捨てた？
 
-",Did you throw away the village?,0.5555555555555556
+",Did you throw away the village?,0.5555555555555556,0.7811964
 "I was depressed after failing
 the first test of the Chunin Exam.","(ｲﾀﾞﾃ)
 俺は
@@ -889,27 +889,27 @@ the first test of the Chunin Exam.","(ｲﾀﾞﾃ)
 ","I am
  
 In the middle of
-Default in the primary exam",0.23529411764705882
+Default in the primary exam",0.2352941176470588,0.338534
 "That was close, Idate...","＜惜しかったな
  
 イダテ＞
 
 ","<I was sorry
  
-Idate>",0.2
+Idate>",0.2,0.5405121
 "There are ways to become
 a Chunin other than the Chunin Exam.","中忍試験以外にも方法はある＞
 
-",There is also a method other than Nakanobu Test>,0.2222222222222222
+",There is also a method other than Nakanobu Test>,0.2222222222222222,0.24338134
 Really?!,"＜ホントですか？＞
 
-",<Is it true?>,0.125
+",<Is it true?>,0.125,0.34690464
 Okay!,"＜はい！＞
 
-",<Yes!>,0.2
+",<Yes!>,0.2,0.3541469
 Aoi Sensei...,"＜アオイ先生…＞
 
-",<Aoi sensei ...>,0.6
+",<Aoi sensei ...>,0.6,0.9186132
 "These are indeed the Scroll of Sealing
 and the legendary blade,","(ｱｵｲ)
 ＜うん
@@ -922,7 +922,7 @@ and the legendary blade,","(ｱｵｲ)
  
 surely
  
-Seal scroll and ➡",0.125
+Seal scroll and ➡",0.125,0.54148036
 "Well done, Idate.","雷神の剣だ
  
 よくやった
@@ -933,16 +933,16 @@ Seal scroll and ➡",0.125
  
 well done
  
-Idate>",0.23076923076923078
+Idate>",0.2307692307692308,0.35975483
 "Now I can become a Chunin, right?","＜これで俺は
 中忍になれるんですね！＞
 
 ","<Now I am
-You can become a municipality!>",0.3333333333333333
+You can become a municipality!>",0.3333333333333333,0.30361167
 in the Village Hidden in the Rain.,"(ｱｵｲ)
 ＜雨隠れの里でな＞
 
-",<In the raindrop village>,0.3333333333333333
+",<In the raindrop village>,0.3333333333333333,0.77043587
 "You are leaving
 the Leaf together with me,","(ｱｵｲ)
 ＜お前は俺と一緒に
@@ -953,14 +953,14 @@ the Leaf together with me,","(ｱｵｲ)
 ","<You are with me
 I'm leaving the tree
 .
-➡",0.4
+➡",0.4,0.6898329
 You tricked me!,"＜俺をだましたのか？＞
 
-",<Did you do me?>,0.2222222222222222
+",<Did you do me?>,0.2222222222222222,0.29154116
 "To survive in this world,
 you must not believe in others...","＜この世を生き抜くためには➡
 
-",<To survive this world,0.3076923076923077
+",<To survive this world,0.3076923076923077,0.5879622
 "Well, what are you going to do, Idate?","(ｱｵｲ)
 ＜さぁ
  
@@ -976,7 +976,7 @@ what will you do?
  
 Idate
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.67410713
 "Either way, you are already
 a Rogue Ninja.","どっちにしても
 お前は
@@ -986,7 +986,7 @@ a Rogue Ninja.","どっちにしても
 ","Anyway
 You are
  
-Is it a loneliness already?>",0.25
+Is it a loneliness already?>",0.25,0.20033607
 "Ever since then,
 I haven't returned to the village.","(ｲﾀﾞﾃ)
 それ以来
@@ -999,7 +999,7 @@ I haven't returned to the village.","(ｲﾀﾞﾃ)
  
 I'm back to a village
 .
-➡",0.375
+➡",0.375,0.7493292
 "I am an irresponsible man
 who can't do a single thing right.","俺は
  
@@ -1017,7 +1017,7 @@ Everything
 I can not decerpt
 It is a half
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.30112103
 But Boss Jirocho believed in me.,"でも
  
 次郎長親分は
@@ -1030,13 +1030,13 @@ But Boss Jirocho believed in me.,"でも
 Jiro-chief parent
 Believed
 .
-➡",0.3
+➡",0.3,0.6491787
 "Even though I'd never
 been of any use to him.","親分の役に立ったことのない
 この俺を➡
 
 ","I have never been helpful to my parents
-This me",0.2222222222222222
+This me",0.2222222222222222,0.2244188
 "<i>Duck down, Naruto!</i>","死ね
  
 ナルト！＞
@@ -1045,7 +1045,7 @@ This me",0.2222222222222222
 ","Death
  
 Naruto!>
-<Wow!>",0.36363636363636365
+<Wow!>",0.3636363636363637,0.7382049
 I'm... a worthless guy...,"(ｲﾀﾞﾃ)
 俺は
  
@@ -1059,48 +1059,48 @@ I'm... a worthless guy...,"(ｲﾀﾞﾃ)
 really
  
 It's a bad guy ...
-.",0.3333333333333333
+.",0.3333333333333333,0.5390243
 <i>W-Why?</i>,"＜な…
  
 何で…＞
 
 ","<...
  
-What ...>",0.25
+What ...>",0.25,0.44743788
 <i>Because we are the same.</i>,"＜同じだからさ…＞
 
-",<Because it is the same ...>,0.3076923076923077
+",<Because it is the same ...>,0.3076923076923077,0.7189129
 "I go around and around,
 and get nowhere...","(ｲﾀﾞﾃ)
 空回りばかりして➡
 
-",I just turned around,0.2
+",I just turned around,0.2,0.48363465
 I have... no right to live,"生きてる資格なんか…
 ｡
 ばっか野郎！
 
 ","It is a qualification to live ...
 .
-Barba!",0.21428571428571427
+Barba!",0.21428571428571427,0.26295543
 You idiot!,"そんな
  
 お前のことを➡
 
 ","Such
  
-You're",0.2
+You're",0.2,0.18396534
 One is enough!,"１人いれば
  
 十分じゃねえか！
 
 ","One person
  
-Isn't it enough!",0.5714285714285714
+Isn't it enough!",0.5714285714285714,0.65260506
 The race isn't over yet!,"まだレースは終わってねえ
 ｡
 
 ","Still the race is over
-.",0.4444444444444444
+.",0.4444444444444444,0.8300936
 "Naruto, it's not possible!
 Idate's body is still...","まだ
  
@@ -1110,13 +1110,13 @@ Idate's body is still...","まだ
 ","not yet
  
 Idate's body is ...
-.",0.42857142857142855
+.",0.42857142857142855,0.63714206
 "If he can't run,
 then I'll carry him on my back and run!","走れねえってんなら
 俺がおぶって走ってやるさ！
 
 ","If you can run
-I'm going to run!",0.19047619047619047
+I'm going to run!",0.19047619047619047,0.6527659
 "The opponent must already be
 in Modoroki Shrine...","相手は
 藻土呂木神社に着いてる頃だ
@@ -1124,22 +1124,22 @@ in Modoroki Shrine...","相手は
 
 ","Opponent
 It is when I was in a bargain earth shrine
-.",0.16666666666666666
+.",0.16666666666666666,0.4883472
 Don't give up!,"諦めんじゃねえ！
 
-",Don't give up!,1.0
+",Don't give up!,1.0,0.99999994
 Hey... Naruto...,"ちょ…
  
 ナルト！
 
 ","Cho ...
  
-Naruto!",0.4
+Naruto!",0.4,0.7896501
 Sasuke...,"サスケ君…
 ｡
 
 ","Sasuke-kun ...
-.",0.25
+.",0.25,0.8342589
 Let's leave it to Naruto here.,"ここは
  
 ナルトに
@@ -1148,23 +1148,23 @@ Let's leave it to Naruto here.,"ここは
 ","here
  
 Naruto
-.",0.375
+.",0.375,0.81258255
 "Jirocho is waiting for you, right?","次郎長親分が待ってるんだろ!?
 
-",Jiro-length parent is waiting!?,0.2727272727272727
+",Jiro-length parent is waiting!?,0.2727272727272727,0.6439733
 "Boss, don't you think
 he actually ran away?","親分 ホントに野郎
 逃げたんじゃねえんですかい？
 
 ","Parent and faster
-Did you run away?",0.1875
+Did you run away?",0.1875,0.368395
 He'll come.,"来る
 ｡
 ➡
 
 ","come
 .
-➡",0.4
+➡",0.4,0.4744095
 I believe in Idate!,"俺は
  
 イダテを信じる
@@ -1173,11 +1173,11 @@ I believe in Idate!,"俺は
 ","I am
  
 Believe in Idate
-.",0.5714285714285714
+.",0.5714285714285714,0.9071028
 "If you run away now,
 you'll be a loser for your entire life!","ここで逃げたら➡
 
-",If you run away here ➡,0.23529411764705882
+",If you run away here ➡,0.2352941176470588,0.65189064
 "For the people who believe
 in you and wait for you...","お前を信じて
 待ってる人のために
@@ -1185,7 +1185,7 @@ in you and wait for you...","お前を信じて
 
 ","Believe you
 For those waiting
-.",0.23076923076923078
+.",0.2307692307692308,0.6099761
 <i>It's the fastest boat around here.</i>,"(
 男性
 )
@@ -1195,7 +1195,7 @@ For those waiting
 
 ","<Here
  
-It is the most varying boat>",0.3333333333333333
+It is the most varying boat>",0.3333333333333333,0.65578985
 <i>No problem.</i>,"＜ありがてぇ＞
 (
 男性
@@ -1204,24 +1204,24 @@ It is the most varying boat>",0.3333333333333333
 
 ","<Thank you>
 
-<Good>",0.2222222222222222
+<Good>",0.2222222222222222,0.6106344
 Show them what you've got!,"本気を見せろってばよ！
 
-",Show seriousness!,0.25
+",Show seriousness!,0.25,0.36074907
 Naruto! Please take me there!,"ナルト
  
 俺を連れてってくれ！
 
 ","Naruto
  
-Take me to me!",0.5714285714285714
+Take me to me!",0.5714285714285714,0.85688365
 All right. Leave it to me!,"ああ
  
 任せろ！
 
 ","Ah
  
-Leave it!",0.3333333333333333
+Leave it!",0.3333333333333333,0.5242063
 "<i>Shake shake shake</i>
 <i>Let's look</i>","♬
  
@@ -1229,7 +1229,7 @@ Leave it!",0.3333333333333333
 
 ","♬
  
-I am sometime",0.09090909090909091
+I am sometime",0.09090909090909093,0.2847711
 "What're you jabbering about,
 lecturing like you're something else?!","♬
  
@@ -1239,7 +1239,7 @@ lecturing like you're something else?!","♬
 ","♬
  
 Like Yama
-appear",0.06666666666666667
+appear",0.06666666666666668,0.10457665
 "Boss Jirochi is waiting for you
 at the finish line, right?","♬
  
@@ -1247,4 +1247,4 @@ at the finish line, right?","♬
 
 ","♬
  
-Rendezvous at Dunran Dance",0.058823529411764705
+Rendezvous at Dunran Dance",0.05882352941176471,0.25958502

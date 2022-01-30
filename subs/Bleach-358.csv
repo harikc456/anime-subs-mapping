@@ -1,163 +1,163 @@
-en_text,jp_text,google_translated,score
-Soul Society!,（茶渡）うお～！,!,0.3333333333333333
-What was that just now?!,今だ！　井上！,now!Inoue!,0.25
-It sounded like it came from the back?,僕は誰かな？,Who is it?,0.2
-Do you suppose it's Ichigo\Nand the others?,お前に勝つためだ！,It's because you win!,0.25
-I can't stay here. I've got to go on.,なんで　私は　こんなこと…。,Why is I like this ....,0.125
-"What's wrong, Sado?",さぁ　そろそろ目覚める時間だよ。,"Well, it's time to wake up.",0.15384615384615385
-You…,何って→,Something →,0.0
-What did you say?!,貴様　井上に何をした！,What did you do in your well!,0.4
-But it's clear that at the time,君と同じことをだよ。,It is the same thing as you.,0.14285714285714285
-The name of the one who was responsible\Nfor this great crime is in the records.,《霊圧が…　もうひとつ》,"""The repass is ... one more""",0.15789473684210525
-"There was a sudden, giant explosion.",（銀城）さて　休憩は終わりだ。,", a break is over.",0.2727272727272727
-Those are the Bounts.,（啓吾）もう　こんな時間かよ。,Another time.,0.14285714285714285
+en_text,jp_text,google_translated,score,semantic_score
+Soul Society!,（茶渡）うお～！,!,0.3333333333333333,0.2434074
+What was that just now?!,今だ！　井上！,now!Inoue!,0.25,0.22686562
+It sounded like it came from the back?,僕は誰かな？,Who is it?,0.2,0.048763297
+Do you suppose it's Ichigo\Nand the others?,お前に勝つためだ！,It's because you win!,0.25,0.051735025
+I can't stay here. I've got to go on.,なんで　私は　こんなこと…。,Why is I like this ....,0.125,0.16105932
+"What's wrong, Sado?",さぁ　そろそろ目覚める時間だよ。,"Well, it's time to wake up.",0.15384615384615385,0.1640634
+You…,何って→,Something →,0.0,0.33312726
+What did you say?!,貴様　井上に何をした！,What did you do in your well!,0.4,0.27009028
+But it's clear that at the time,君と同じことをだよ。,It is the same thing as you.,0.14285714285714285,0.26135933
+The name of the one who was responsible\Nfor this great crime is in the records.,《霊圧が…　もうひとつ》,"""The repass is ... one more""",0.15789473684210525,0.060459398
+"There was a sudden, giant explosion.",（銀城）さて　休憩は終わりだ。,", a break is over.",0.2727272727272727,0.19756486
+Those are the Bounts.,（啓吾）もう　こんな時間かよ。,Another time.,0.14285714285714285,0.109508276
 "At first, we worried\Nabout our differences.","俺たちの　忌まわしい力を失う時を
 楽しみにしてろよ。","When we lose our feltable power
-Let's look forward to it.",0.16666666666666666
-But it was not something we could hide.,らしくないじゃん。,It is not like.,0.2727272727272727
-"Though we were human, we were called\Ndemons and monsters.",少し　学校と手続きがあってね。,There is a little school and procedure.,0.13333333333333333
+Let's look forward to it.",0.16666666666666666,0.3341478
+But it was not something we could hide.,らしくないじゃん。,It is not like.,0.2727272727272727,0.24299897
+"Though we were human, we were called\Ndemons and monsters.",少し　学校と手続きがあってね。,There is a little school and procedure.,0.13333333333333333,-0.037192136
 "Without that knowledge, many of us\Ntried to live with the Soul Reapers.","お目当ての一護が　最近
 学校　サボリ気味だしね。","Recently, the only one
-School Sabori is a matter of feeling.",0.17391304347826086
+School Sabori is a matter of feeling.",0.17391304347826084,0.10222502
 where our many comrades lived\Nin secrecy to escape persecution.,"《井上さん　茶渡君がいた場所から
 感じた霊圧。","""Inoue Tea Pretty from the place where you had
-The spiritual pressure I felt.",0.08695652173913043
-"It's pretty big, isn't it?",あいつ　今日も　バイトなのかなぁ？,Is it a part-time job today?,0.25
-That's how many of us there were.,あれは　あいつに間違いない。,There is no doubt that.,0.25
-"You understand, don't you?",接触してきている？,Are you in contact?,0.2222222222222222
+The spiritual pressure I felt.",0.08695652173913042,0.31710845
+"It's pretty big, isn't it?",あいつ　今日も　バイトなのかなぁ？,Is it a part-time job today?,0.25,0.17863813
+That's how many of us there were.,あれは　あいつに間違いない。,There is no doubt that.,0.25,0.20143135
+"You understand, don't you?",接触してきている？,Are you in contact?,0.2222222222222222,0.21521354
 This is the truth.,"いったい　やつは
 何を企んでいるんだ？》","The guy is
-What are you planning?""",0.16666666666666666
-I don't understand.,気づかないと思うよ。　フフ…。,I think I will not notice.Fufu ....,0.2
+What are you planning?""",0.16666666666666666,0.13577098
+I don't understand.,気づかないと思うよ。　フフ…。,I think I will not notice.Fufu ....,0.2,0.19357324
 Soul Society did something to you…,"何か変わったこと　なかったかな？
 え？","Did you have never changed something?
-picture?",0.16666666666666666
-You had this much power left?,あっ…　バイト先　わかるかな？,Oh ... Do you know the part-time job?,0.14285714285714285
-But this is it…,一兄が　いたら→,If there is a brother →,0.1111111111111111
+picture?",0.16666666666666666,0.15587796
+You had this much power left?,あっ…　バイト先　わかるかな？,Oh ... Do you know the part-time job?,0.14285714285714285,0.105948
+But this is it…,一兄が　いたら→,If there is a brother →,0.1111111111111111,0.21079358
 What?!,"なに？
 いや　なんでもない。","what?
-No, nothing.",0.2857142857142857
-It's useless.,はい　これ。,Yes.,0.2
+No, nothing.",0.2857142857142857,0.4583275
+It's useless.,はい　これ。,Yes.,0.2,0.18662404
 You don't have the power to defeat me.,"別に　帰ってこなくてもいいよって
 伝えてくれる？","You don't have to come back separately
-Can you tell?",0.3125
-Damn!,ふんっ…　ふんっ！,Fun ... Fun!,0.25
-Is this it?,なんだ？　静かだな。,what?It is quiet.,0.42857142857142855
-by myself.,ハァ…　ハァ…。,Hua ....,0.2
+Can you tell?",0.3125,0.12949143
+Damn!,ふんっ…　ふんっ！,Fun ... Fun!,0.25,0.13101405
+Is this it?,なんだ？　静かだな。,what?It is quiet.,0.42857142857142855,0.20153981
+by myself.,ハァ…　ハァ…。,Hua ....,0.2,0.19349629
 let it end in a place like this!,"使いこなすには
 バカみたいな体力が　必要なんだよ。","To use it
-I need my physical strength like stupid.",0.1111111111111111
+I need my physical strength like stupid.",0.1111111111111111,-0.0125932
 What…are you doing?,"お前　フルブリングの完成の瞬間
 何か　見えたろ？","The moment of completion of the full bless
-Did you see something?",0.15384615384615385
+Did you see something?",0.15384615384615385,0.16032468
 I hear that a Soul Reaper's zanpakuto\Nis like the alter ego of that Soul Reaper.,"そいつは　お前が死神の力を
 取り戻し始めた証拠だ。","That guy is the power of the grim reaper
-It is proof that started to get back.",0.20833333333333334
+It is proof that started to get back.",0.20833333333333331,0.41788173
 Would you consider it a partner?,"長い時間をかけて
 お前のなかで　１か所に集まり→","Take a long time
-Gather in one place in you →",0.13333333333333333
-I'm going to finish you off\Nwith this blade.,眠りについた…。,I went to sleep ....,0.23076923076923078
-What are you doing?,だから　俺たちは　フルブリングにより→,So we are by full block →,0.09090909090909091
+Gather in one place in you →",0.13333333333333333,0.05300518
+I'm going to finish you off\Nwith this blade.,眠りについた…。,I went to sleep ....,0.2307692307692308,0.19315404
+What are you doing?,だから　俺たちは　フルブリングにより→,So we are by full block →,0.09090909090909093,0.19145873
 Are you prepared?,"お前は
 死神を超える力を　手に入れる。","You are
-Get a force beyond the grim reaper.",0.16666666666666666
-I really might have been\Nrelying on you too much.,ほらよ。,I'm sorry.,0.16666666666666666
+Get a force beyond the grim reaper.",0.16666666666666666,0.13113634
+I really might have been\Nrelying on you too much.,ほらよ。,I'm sorry.,0.16666666666666666,0.29335135
 That I was prepared to shorten my life.,"雪緒。
 わかってるよ。","Snowy.
-I know.",0.18181818181818182
-I can see you…,ハラハラしたよ。,I was hurting.,0.14285714285714285
+I know.",0.18181818181818185,0.16874008
+I can see you…,ハラハラしたよ。,I was hurting.,0.14285714285714285,0.17280458
 It's past here!,"いいかげん　こっちのバッテリーが
 イカれるんじゃないかと→","It issloppyhereofbattery
-AndI think wearesquid→",0.1111111111111111
-Don't rush in!,車もない　留守か。,Do you have no car?,0.1
-You dodged that well.,感謝してほしいね。,Iwant you tothank.,0.2857142857142857
+AndI think wearesquid→",0.1111111111111111,0.13626009
+Don't rush in!,車もない　留守か。,Do you have no car?,0.1,0.09963179
+You dodged that well.,感謝してほしいね。,Iwant you tothank.,0.2857142857142857,0.18700588
 "Indeed, it's worth being\Nboastful about.","ざっと丸１日ってとこかな。
 え？","It's a round one day.
-picture?",0.21428571428571427
-several hundred years ago.,ハッハッハッハ！　たいしたもんだぜ。,Hahhahhahha!Imuchmon.,0.125
-"Don't miss this time, Quincy!",まさか！》,"Masao!""",0.1
+picture?",0.21428571428571427,0.15613762
+several hundred years ago.,ハッハッハッハ！　たいしたもんだぜ。,Hahhahhahha!Imuchmon.,0.125,0.020198194
+"Don't miss this time, Quincy!",まさか！》,"Masao!""",0.1,0.27048063
 It seems your power has really returned.,"本当に　フルブリングを
 完成させちまうとはな。","Really full block
-It is not completed.",0.23076923076923078
+It is not completed.",0.2307692307692308,0.20406207
 Ichinose! Are you prepared yet?!,"どうしたお前ら。
 嬉しくねえのか？","What is yourself.
-Are you happy?",0.25
-"""Mache sogleich das tor,\Nfur unsere bount auf!""",まさか！,Masao!,0.07692307692307693
-"Are you all right, Inoue?",まだ起きてるのか。,Are you still awake?,0.3333333333333333
-"Th-Thank you, Sado.",（遊子）おかえり。,Welcome back.,0.14285714285714285
+Are you happy?",0.25,0.22817148
+"""Mache sogleich das tor,\Nfur unsere bount auf!""",まさか！,Masao!,0.07692307692307693,0.20753452
+"Are you all right, Inoue?",まだ起きてるのか。,Are you still awake?,0.3333333333333333,0.15694699
+"Th-Thank you, Sado.",（遊子）おかえり。,Welcome back.,0.14285714285714285,0.30537957
 Oh? What is Ishida going to do?,"懐かしい客？　誰だよ。
 エヘヘ　誰だと思う？","Nostalgic customers?Who is it?
-Do you think who is Ejeh?",0.2
+Do you think who is Ejeh?",0.2,0.19575289
 I wonder if Ishida is going to\Ndestroy that gate.,"待ってたんだよ。
 なぁ　この靴…。","I was waiting.
-That's why he is this shoes ....",0.2222222222222222
+That's why he is this shoes ....",0.2222222222222222,0.19137657
 "Sorry, Kurosaki…\NLet me do what I want to.","ノーヒントじゃ　わかんねえよ。
 う～ん　じゃあ　ヒント！","I'm sorry I'm sorry.
-Well, hints!",0.2857142857142857
-Now we can finally go.,やぁ　一護。,Yaa.,0.14285714285714285
-Wh-What are you talking about--?!,何年ぶりだろう？　懐かしいよね。,How many years are you?It is nostalgic.,0.2
+Well, hints!",0.2857142857142857,0.2391679
+Now we can finally go.,やぁ　一護。,Yaa.,0.14285714285714285,0.29431003
+Wh-What are you talking about--?!,何年ぶりだろう？　懐かしいよね。,How many years are you?It is nostalgic.,0.2,0.12509091
 The Soul Reaper who gave me\Nthis Quincy power told me.,"夕方に来てね
 ご飯　一緒に食べたんだよ。","Come in the evening
-I ate rice together.",0.1111111111111111
-I see…,ごめん　迷惑だったかな？,Sorry I was annoying?,0.16666666666666666
-Then…that thing earlier was…,そんなことねえけど。,Such a thing.,0.14285714285714285
+I ate rice together.",0.1111111111111111,0.10526865
+I see…,ごめん　迷惑だったかな？,Sorry I was annoying?,0.16666666666666666,0.09327982
+Then…that thing earlier was…,そんなことねえけど。,Such a thing.,0.14285714285714285,0.2606691
 Ishida! Why are you helping them?!,"怒ってるの？
 おかしいよ　一兄！","are you angry?
-Funny brother!",0.36363636363636365
-"Like the Bounts, Soul Society is\Nan enemy to the Quincies.",一護は　まじめだからね。,"Because it is serious, it is serious.",0.13333333333333333
+Funny brother!",0.3636363636363637,0.20178597
+"Like the Bounts, Soul Society is\Nan enemy to the Quincies.",一護は　まじめだからね。,"Because it is serious, it is serious.",0.13333333333333333,0.018636573
 But Yoshino supported you\Nin a good way.,"（水色）あっ　遊子ちゃん
 こんばんは。","Aoi-chan
-Good evening.",0.2
+Good evening.",0.2,0.22285375
 I'm grateful to her.,"（啓吾）おっ　サンキュー。
 （たつき）おじゃまします。","Thank you Sunday.
- I'm sorry.",0.3
-I'm going to defeat you!,もっと早く帰ってやんなよ。,I'm going back earlier.,0.3
+ I'm sorry.",0.3,0.4222209
+I'm going to defeat you!,もっと早く帰ってやんなよ。,I'm going back earlier.,0.3,0.28561458
 Well…that's fine too.,"（夏梨）大丈夫です
 寂しくないです。","is fine
-I am not lonely.",0.2
+I am not lonely.",0.2,0.3616947
 It seems it's time…,"久しぶりだし
 みんなに会いたくてね。","It's been a long time
-I want to see everyone.",0.14285714285714285
+I want to see everyone.",0.14285714285714285,0.33738622
 What do you think you're doing?!,"え？　何言ってんだ
 君には　この間会ったろう。","picture?What are you saying
-She would have had to meet you for you.",0.15789473684210525
-– Kurosaki!\N– Ishida!,うわ～！,Wow!,0.16666666666666666
+She would have had to meet you for you.",0.15789473684210525,0.056485433
+– Kurosaki!\N– Ishida!,うわ～！,Wow!,0.16666666666666666,0.111941814
 What in the world happened?!,"何だ！
 月島さん！","What!
-Mr. Tsukishima!",0.2222222222222222
-Ishida…you've done\Na troublesome thing.,言え　月島。,Moon Island.,0.125
+Mr. Tsukishima!",0.2222222222222222,0.21221557
+Ishida…you've done\Na troublesome thing.,言え　月島。,Moon Island.,0.125,0.06964732
 This is all I have…,"久しぶりに会った親戚に
 何だよ　これは！","A relative that I met after a long time
-What is this!",0.21428571428571427
-to defeat him!,月島さんに　謝れよ！,Tsukishima'sinAyamareyo!,0.2
-Indeed… This is a Quincy's power.,親戚！？　違う　こいつは…。,Relative!?Different she is this guy ....,0.2
-with this level of power.,くっ…。,....,0.14285714285714285
+What is this!",0.21428571428571427,0.05214999
+to defeat him!,月島さんに　謝れよ！,Tsukishima'sinAyamareyo!,0.2,0.19713876
+Indeed… This is a Quincy's power.,親戚！？　違う　こいつは…。,Relative!?Different she is this guy ....,0.2,0.12758335
+with this level of power.,くっ…。,....,0.14285714285714285,0.17982635
 if I tried to settle this here.,"（夏梨）どうしちまったんだよ
 一兄。","I'm sorry
-One brother.",0.16666666666666666
+One brother.",0.16666666666666666,0.1657826
 "Like I said earlier,\Nthat kind of thinking is shallow!","何考えてんだ。
 （水色）どうしたの　ほんとに。","I'm thinking about it.
- What is she's really.",0.15
+ What is she's really.",0.15,0.2508562
 "What do you mean, Yoruichi?!","お兄ちゃん…
 お兄ちゃん　どうしちゃったの？","brother…
-How did you do your brother?",0.23076923076923078
-"– This is awful…\N– And Ishida,",これが…　月島の能力なのか！？》,"This is...orcapabilityoftheTsukishima!?""",0.16666666666666666
-"What are you doing, Kurosaki?!",どうしたんだよ？,what happened?,0.2222222222222222
+How did you do your brother?",0.2307692307692308,0.21294922
+"– This is awful…\N– And Ishida,",これが…　月島の能力なのか！？》,"This is...orcapabilityoftheTsukishima!?""",0.16666666666666666,0.37484205
+"What are you doing, Kurosaki?!",どうしたんだよ？,what happened?,0.2222222222222222,0.18231663
 You should do what you wanted to do!,"よく見たら
 汗びっしょりじゃねえか。","If you look closely
-Don't sweaty?",0.15384615384615385
-You all…,ありがとう　育美さん。,Thank you.,0.25
-even if it has to see blood\Nor become wounded.,は～い。,Has.,0.2
-Where are the Bounts?,《話したきゃ？,"""I talked about?",0.1111111111111111
-We can probably use it\Nif we adjust it a little.,よかったな　一護！,It was good.,0.16666666666666666
+Don't sweaty?",0.15384615384615385,0.062295347
+You all…,ありがとう　育美さん。,Thank you.,0.25,0.33390415
+even if it has to see blood\Nor become wounded.,は～い。,Has.,0.2,0.15189475
+Where are the Bounts?,《話したきゃ？,"""I talked about?",0.1111111111111111,0.008516401
+We can probably use it\Nif we adjust it a little.,よかったな　一護！,It was good.,0.16666666666666666,0.03454161
 Oh! I see…,"月島さんが
 迎えに来てくれたぞ！","Tsukijima
-I came to pick you up!",0.2
-What's going on?!,《何なんだ…　どうなってんだよ！！,"""What's wrong ... what happened!!",0.3
-I-I guess I'll go back home.,雪緒も…　ジャッキーも…。,Yukiitoguchialso...Jackie....,0.09090909090909091
-No!,一護！！,Ichigo!!,0.3333333333333333
-Sister! Please take me!,やられた！,They got me!,0.2857142857142857
+I came to pick you up!",0.2,0.15871178
+What's going on?!,《何なんだ…　どうなってんだよ！！,"""What's wrong ... what happened!!",0.3,0.48619038
+I-I guess I'll go back home.,雪緒も…　ジャッキーも…。,Yukiitoguchialso...Jackie....,0.09090909090909093,0.08637726
+No!,一護！！,Ichigo!!,0.3333333333333333,0.3633787
+Sister! Please take me!,やられた！,They got me!,0.2857142857142857,0.3173541
 But I get things done\Nwhen I need to,"（一心）なぁ　これから
 ちょっと用事があるんだけど→","I wondernow
-I'ma littlethere areerrands→",0.09090909090909091
-Go for walk,（竜弦）何の用だ…。,What's for?,0.16666666666666666
+I'ma littlethere areerrands→",0.09090909090909093,0.19132051
+Go for walk,（竜弦）何の用だ…。,What's for?,0.16666666666666666,0.09582523

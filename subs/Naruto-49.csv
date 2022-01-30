@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774589
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048281
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,17 +68,17 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.5518779
 What?!,"(
 リー
 )
 何!?
 
-",what!?,1.0
+",what!?,1.0,0.8981636
 O-Oh!,"(ｻｸﾗ)
 あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.5660237
 T-That's...,"♬
  
 だから
@@ -91,13 +91,13 @@ T-That's...,"♬
 that's why
 ,
 Oh
-,",0.125
+,",0.125,0.28507045
 It's the empty shell of sand!,"砂の抜け殻！
 
-",Sand shell!,0.375
+",Sand shell!,0.375,0.7811899
 That's not possible!,"あれは！
 
-",That is!,0.3333333333333333
+",That is!,0.3333333333333333,0.2517853
 "While you had your eyes closed
 and were praying.","(ｶｶｼ)
 お前が目をつぶって
@@ -106,7 +106,7 @@ and were praying.","(ｶｶｼ)
 
 ","You crush your eyes
 It is time to pray
-.",0.25
+.",0.25,0.49668682
 "For a moment, Lee stopped moving
 because of the pain in his body.","(ｶｶｼ)
 リーは一瞬
@@ -115,7 +115,7 @@ because of the pain in his body.","(ｶｶｼ)
 
 ","Lee for a moment
 Motion stopped with body pain
-.",0.47058823529411764
+.",0.4705882352941176,0.9177764
 <i>Gaara!</i>,"(
 リー
 )
@@ -127,16 +127,16 @@ Motion stopped with body pain
 ","<Gog>
 
 That time
-.",0.2
+.",0.2,0.19520849
 The demon... inside him.,"魔物が
 ｡
 
 ","Demon
-.",0.3333333333333333
+.",0.3333333333333333,0.68169826
 Run away!,"(ﾅﾙﾄ)
 逃げろ～！
 
-",Run away!,1.0
+",Run away!,1.0,1.0
 Gaara is toying with him.,"オカッパは完全に
 ガタが来てるじゃん
 ｡
@@ -145,11 +145,11 @@ Gaara is toying with him.,"オカッパは完全に
 ","Okappa is completely
 Gata is coming
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.35564196
 "With Lee's speed, he should easily be
 able to dodge that level of attack.","リーさんのスピードなら➡
 
-",If it's speed of Lee,0.21052631578947367
+",If it's speed of Lee,0.21052631578947367,0.6492342
 "It's not that he doesn't dodge,
 it's that he can't dodge.","よけないのではなく
 よけられないのだ
@@ -157,21 +157,21 @@ it's that he can't dodge.","よけないのではなく
 
 ","Not not
 I can not get it
-.",0.21428571428571427
+.",0.21428571428571427,0.1256015
 What do you mean?,"えっ？
  
 どういうことよ？
 
 ","eh?
  
-What does that mean?",0.375
+What does that mean?",0.375,0.39425984
 "Why do you think the Lotus is
 a forbidden technique?","(ｶｶｼ)
 どうして[外:9A4D3B93F5ABFF78DA43BEB12CF7F1BE]華という技が
 禁術になっていると思う？
 
 ","Why is the technique of [outside: 9A4D3B93F5ABFF78DA43BEB12CF7F1BE] flower
-Do you think you're banned?",0.4
+Do you think you're banned?",0.4,0.5428813
 "The load it puts on a person's body
 is beyond imagination.","生身の体にかかる負荷は
 想像を絶する
@@ -181,12 +181,12 @@ is beyond imagination.","生身の体にかかる負荷は
 ","The load on the body of life is
 Abade
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.5342055
 that even moving is out of the question.,"もろ刃の剣って…
 ｡
 
 ","Even the sword of the porridge ...
-.",0.3333333333333333
+.",0.3333333333333333,0.10600579
 Guy?,"そうだろ？
  
 ガイ
@@ -195,7 +195,7 @@ Guy?,"そうだろ？
 ","That's right?
  
 Guy
-.",0.3333333333333333
+.",0.3333333333333333,0.57935846
 "it's now even less than
 an average person's...","(
 いの
@@ -214,7 +214,7 @@ Sometimes reliable body
 now
  
 Less than or equal to people
-.",0.15789473684210525
+.",0.15789473684210525,0.44602856
 He's had it if this goes on...,"(ｼｶﾏﾙ)
 このままじゃ
  
@@ -224,13 +224,13 @@ He's had it if this goes on...,"(ｼｶﾏﾙ)
 ","Let's leave this
  
 That guy ...
-.",0.21428571428571427
+.",0.21428571428571427,0.36906254
 <i>Lee...</i>,"(
 ガイ
 )
 《リー…》
 
-","""Lee ...""",0.25
+","""Lee ...""",0.25,0.7007376
 I'll add another 200 laps!,"あと
 200
 周
@@ -241,19 +241,19 @@ I'll add another 200 laps!,"あと
 200
 Circumference
  
-Add!>",0.4
+Add!>",0.4,0.49546346
 "Stupid! There's no way
 you'll become a Ninja.","お前が忍者になれるわけ
 ねえだろ！＞
 
 ","You can be a ninja
-Hey!>",0.25
+Hey!>",0.25,0.78271806
 "Yes, I will.","(ﾁｮｳｼﾞ)
 勝てっこないよ～
 ｡
 
 ","I won't win
-.",0.25
+.",0.25,0.33483872
 "There's no way a chump who can't
 even use Ninjutsu can become a Ninja!","(
 生徒２
@@ -264,12 +264,12 @@ even use Ninjutsu can become a Ninja!","(
 
 ","<Generally
  
-A guy who can not use Ninjutsu",0.2631578947368421
+A guy who can not use Ninjutsu",0.2631578947368421,0.6662359
 is in this Ninja academy is nonsense.,"体術も人並み以下のお前が
 この忍者アカデミーに➡
 
 ","Obsolicism and people are below
-This ninja academy",0.25
+This ninja academy",0.25,0.75898206
 Do you know what you're called here?,"＜お前
  
 ここで
@@ -278,7 +278,7 @@ Do you know what you're called here?,"＜お前
 ","<You
  
 here
-What are you called?>",0.45454545454545453
+What are you called?>",0.4545454545454545,0.6766348
 Hot-Blooded!,"(
 生徒たち
 )
@@ -288,7 +288,7 @@ Hot-Blooded!,"(
 
 ","<Hot blood!
  
-Hot blood!➡",0.16666666666666666
+Hot blood!➡",0.16666666666666666,0.63130605
 Hey Lee!,"(
 先生
 )
@@ -308,7 +308,7 @@ Lee
 Line up!
 Oi
  
-Lee!>",0.375
+Lee!>",0.375,0.7463586
 In particular... his eyebrows.,"(
 ガイ
 )
@@ -318,7 +318,7 @@ In particular... his eyebrows.,"(
 
 ","<Hahahaha ...
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.16625457
 <i>But you...</i>,"(ｶｶｼ)
 ＜特に眉毛が＞
 (
@@ -328,7 +328,7 @@ In particular... his eyebrows.,"(
 
 ","<Especially eyebrows>
 
-<Fu ...>",0.3
+<Fu ...>",0.3,0.31446344
 <i>396...397...398...399...</i>,"(
 リー
 )
@@ -338,7 +338,7 @@ In particular... his eyebrows.,"(
 
 ","<
 396 397 398 399
-➡",0.5
+➡",0.5,0.73000693
 400... 401... 402... 403...,"400 401 402 403
 …
 ｡
@@ -347,7 +347,7 @@ In particular... his eyebrows.,"(
 ","400 401 402 403
 ...
 .
-➡",0.7142857142857143
+➡",0.7142857142857143,0.88117903
 "If I can't do a log kick 500 times,
 then it's 1,000 squats!","丸太蹴り
  500
@@ -365,12 +365,12 @@ times!
 If not
 Squat
  1,000
-times!➡",0.3
+times!➡",0.3,0.77947724
 413... 414...,"413 414 415 416
 ➡
 
 ","413 414 415 416
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6292226
 415... 416... 417... 418...!,"417 418 419
 …＞
 (
@@ -381,7 +381,7 @@ times!➡",0.3
 ","417 418 419
 ...>
 
-<Did?➡",0.25
+<Did?➡",0.25,0.6589183
 422... 423... 424...,"(
 リー
 )
@@ -391,12 +391,12 @@ times!➡",0.3
 
 ","<
 422 423 424
-➡",0.5
+➡",0.5,0.6910622
 425... 426...,"425 426
 …＞
 
 ","425 426
-...>",0.75
+...>",0.75,0.91771644
 795... 796... 797... 798...,"797 798
 …
 ｡
@@ -405,7 +405,7 @@ times!➡",0.3
 ","797 798
 ...
 .
-➡",0.42857142857142855
+➡",0.42857142857142855,0.73600835
 <i>He's still at it...!</i>,"ハッ
  
 ハッ
@@ -420,7 +420,7 @@ Hour
  
 Hour
  
-Ha ...!>",0.23076923076923078
+Ha ...!>",0.2307692307692308,0.31980222
 "2,000 punches!","(
 リー
 )
@@ -430,7 +430,7 @@ Ha ...!>",0.23076923076923078
 
 ","<Plusty
  2,000
-times!➡",0.2857142857142857
+times!➡",0.2857142857142857,0.40126735
 "If I can't, it's 2,000 jump ropes!","できなかったら
 縄跳び
  2,000
@@ -439,7 +439,7 @@ times!➡",0.2857142857142857
 ","If not
 Rope jump
  2,000
-times!➡",0.26666666666666666
+times!➡",0.26666666666666666,0.7467732
 "<i>You recklessly practiced only</i>
 <i>Taijutsu and eventually...</i>","(
 ガイ
@@ -448,7 +448,7 @@ times!➡",0.26666666666666666
 体術だけを練習したお前は➡
 
 ","""I'm sorry
-You practiced only body articles",0.23529411764705882
+You practiced only body articles",0.2352941176470588,0.38839105
 "so I'd like to know what
 it is you're all aiming for!","お前たちの目指すものを
 聞いてみたいぞ
@@ -458,7 +458,7 @@ it is you're all aiming for!","お前たちの目指すものを
 ","What you aim for you
 I want to hear
  
-Yeah?>",0.23809523809523808
+Yeah?>",0.2380952380952381,0.57687485
 "Yes, yes, yes, yes!","(ﾃﾝﾃﾝ)
 ＜は～い！
 はいはいはい
@@ -468,16 +468,16 @@ Yeah?>",0.23809523809523808
 ","<Has!
 Yes Yes Yes
  
-Yes!>",0.3333333333333333
+Yes!>",0.3333333333333333,0.47870627
 "I'd like to prove that I could
 become a respectable Ninja","綱手様のような
 強～い忍者になりたいなぁ＞
 
 ","Nominal
-I want to be a strong ninja>",0.25
+I want to be a strong ninja>",0.25,0.7047061
 That would be the ultimate for me!,"それが僕のすべてです！＞
 
-",That's all of me!>,0.25
+",That's all of me!>,0.25,0.39009237
 <i>Those are good serious eyes...</i>,"(
 ガイ
 )
@@ -495,7 +495,7 @@ Tenten>
 
 <I
  
-Legendary Nori ➡",0.2857142857142857
+Legendary Nori ➡",0.2857142857142857,0.25175318
 What's so funny?!,"(
 ネジ
 )
@@ -511,23 +511,23 @@ What's so funny?!,"(
 
 <You!
  
-What's wrong!?",0.36363636363636365
+What's wrong!?",0.3636363636363637,0.17327043
 I'm serious!,"僕は本気です
 たとえ体術だけでも➡
 
 ","I'm serious
-Even body teeth alone ➡",0.3333333333333333
+Even body teeth alone ➡",0.3333333333333333,0.2900883
 "I will become a respectable Ninja
 even only with Taijutsu!","立派に忍者を務めてみせます！＞
 
-",I will try to serve as a ninja!>,0.3125
+",I will try to serve as a ninja!>,0.3125,0.7025729
 He should give up already...,"いいかげん
 諦めちゃえばいいのに
 ｡
 
 ","Good
 I wish I could give up
-.",0.18181818181818182
+.",0.18181818181818185,0.48742557
 "He will simply die with Gaara
 just toying with him...","今の調子じゃ
  
@@ -539,7 +539,7 @@ just toying with him...","今の調子じゃ
  
 In Gira
 It's just going to die
-.",0.10526315789473684
+.",0.10526315789473684,0.54085237
 Not yet... Not yet!,"ぐっ
  
 まだ
@@ -550,23 +550,23 @@ Not yet... Not yet!,"ぐっ
  
 not yet
  
-Still ...>",0.42857142857142855
+Still ...>",0.42857142857142855,0.4582755
 What is a genius?!,"＜天才？
  
 天才って何です!?➡
 
 ","<Genius?
  
-What is a genius?",0.7142857142857143
+What is a genius?",0.7142857142857143,0.9310597
 "Even though I may not have talent,
 I'll exceed genius with my efforts.","才能がなくったって
 努力で天才を超えてみせます！➡
 
 ","The talent has disappeared
-I will try to exceed the genius with an effort!➡",0.2
+I will try to exceed the genius with an effort!➡",0.2,0.8091843
 That is my entire being!,"それが僕の忍道です！＞
 
-",That is my command!>,0.5
+",That is my command!>,0.5,0.26484972
 there's no way you can take me down.,"いかに努力したところで
 お前に俺は倒せない
 ｡
@@ -575,13 +575,13 @@ there's no way you can take me down.,"いかに努力したところで
 ","How effort was made
 I can not beat me in you
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.3541251
 That's not true!,"それが僕のすべてです！➡
 
-",That's all of me!➡,0.3333333333333333
+",That's all of me!➡,0.3333333333333333,0.34713423
 "<i>But you...refused to give up, not ever!</i>","決して諦めようとはしなかった》
 
-",I never wanted to give up,0.23529411764705882
+",I never wanted to give up,0.2352941176470588,0.69868827
 "The Bowl Cut was unlucky to
 have Gaara as his opponent!","我愛羅相手じゃ
 オカッパも運が悪かったじゃん
@@ -589,12 +589,12 @@ have Gaara as his opponent!","我愛羅相手じゃ
 
 ","It is a good opponent
 Okappa was also bad
-.",0.1
+.",0.1,0.4029606
 No...,"う～…
 ｡
 
 ","Wow ...
-.",0.25
+.",0.25,0.43006834
 "- What?
 - Huh?","(
 我愛羅
@@ -607,7 +607,7 @@ No...,"う～…
 ","Fuf
  
 What
-.",0.16666666666666666
+.",0.16666666666666666,0.2992484
 The reason is that Lee...,"なぜなら
  
 リーは…
@@ -616,7 +616,7 @@ The reason is that Lee...,"なぜなら
 ","because
  
 Lee ...
-.",0.25
+.",0.25,0.9456362
 <i>You...continued to make effort.</i>,"(
 ガイ
 )
@@ -628,7 +628,7 @@ Lee ...
 ","""because
  
 Lee
-You continued to make efforts",0.2857142857142857
+You continued to make efforts",0.2857142857142857,0.46805894
 "If I can't jump rope 1,200 times,
 I'll log kick 2,000 times!","丸太蹴り
  2,000
@@ -640,7 +640,7 @@ I'll log kick 2,000 times!","丸太蹴り
  2,000
 times
 .
-➡",0.1875
+➡",0.1875,0.6522708
 Huh?!,"うわ～！
  
 うっ
@@ -651,7 +651,7 @@ Huh?!,"うわ～！
  
 Pet
  
-Oh!",0.16666666666666666
+Oh!",0.16666666666666666,0.29400456
 What is it that you want?,"(
 リー
 )
@@ -659,7 +659,7 @@ What is it that you want?,"(
 何の用ですか？➡
 
 ","<Guy
-What is it for?➡",0.36363636363636365
+What is it for?➡",0.3636363636363637,0.25457978
 Lee... It's true you're different from Neji.,"(
 ガイ
 )
@@ -675,7 +675,7 @@ surely
  
 You are different from the screw
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.4830834
 "you have powers
 that exceed Neji...","もう
  
@@ -683,7 +683,7 @@ that exceed Neji...","もう
 
 ","Already
  
-You should have welcome you>",0.18181818181818182
+You should have welcome you>",0.18181818181818185,0.21348907
 "If you're trying to make me feel better,
 please stop!","(
 リー
@@ -692,24 +692,24 @@ please stop!","(
 やめてください＞
 
 ","<If you have a habit
-Please stop>",0.2222222222222222
+Please stop>",0.2222222222222222,0.39053202
 "I'm not trying to make you feel better
 or anything!","忍術や幻術もできなければ➡
 
-",If you can neinjo or illusion,0.125
+",If you can neinjo or illusion,0.125,0.14842346
 The reason is that you are...,"なぜなら
  
 お前はな…＞
 
 ","because
  
-You are ...>",0.3333333333333333
+You are ...>",0.3333333333333333,0.7396681
 a genius of effort!,"(
 ガイ
 )
 ＜努力の天才だ＞
 
-",<It is a genius of effort>,0.4444444444444444
+",<It is a genius of effort>,0.4444444444444444,0.7327961
 If that's true...?,"(
 リー
 )
@@ -721,20 +721,20 @@ If that's true...?,"(
 ","<Play
  
 that is…
-Really?>",0.18181818181818182
+Really?>",0.18181818181818185,0.21357028
 "That if I trained harder than Neji...
 2 or 3 times as much...","ネジより
 ２倍も３倍も修業すれば➡
 
 ","From the screw
-If you study twice as much as 3 times",0.25
+If you study twice as much as 3 times",0.25,0.26557845
 that I'd surely become stronger.,"きっと強くなれる
 ｡
 ➡
 
 ","Surely strong
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.40853432
 I can't beat a real genius.,"だけど
  
 本当の天才には
@@ -743,12 +743,12 @@ I can't beat a real genius.,"だけど
 ","However
  
 For a real genius
-I'm not going to be",0.26666666666666666
+I'm not going to be",0.26666666666666666,0.60544765
 Is effort really rewarded...?,"努力が本当に
 報われるものなのか➡
 
 ","Effort is really
-Is it rewarded?",0.7142857142857143
+Is it rewarded?",0.7142857142857143,0.94889385
 I've wanted to know this and,"それが知りたくて
 ネジに挑戦しても
  
@@ -761,14 +761,14 @@ Even if you try screw
  
 Same
 .
-➡",0.1875
+➡",0.1875,0.17312565
 My legs still tremble even now...,"いまだに足が震えてるんです
 ｡
 ➡
 
 ","I'm still trembling my feet
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.652863
 "I think that I'll never become
 stronger though I strive and strive...","怖くて怖くて
  
@@ -776,7 +776,7 @@ stronger though I strive and strive...","怖くて怖くて
 
 ","I'm scared and scared
  
-I'm sorry>",0.13333333333333333
+I'm sorry>",0.13333333333333333,0.1742972
 I am so afraid that I can't bear it!,"どんなに努力しても
  
 僕は
@@ -785,7 +785,7 @@ I am so afraid that I can't bear it!,"どんなに努力しても
 ","No matter how much effort
  
 I
-I can't get stronger",0.17647058823529413
+I can't get stronger",0.17647058823529413,0.20770736
 What am I to do...?,"(
 リー
 )
@@ -795,13 +795,13 @@ What am I to do...?,"(
 
 ","<I
  
-What if ...>",0.3
+What if ...>",0.3,0.25372818
 "There's no point in making the effort
 if you don't believe in yourself!","＜自分を信じないヤツなんかに
 努力する価値はない＞
 
 ","<Don't believe in yourself
-Not worth making efforts>",0.3
+Not worth making efforts>",0.3,0.76643217
 "Lee, you're very similar to me.","(
 ガイ
 )
@@ -817,13 +817,13 @@ Not worth making efforts>",0.3
 You are
 To me
  
-Similar>",0.4166666666666667
+Similar>",0.4166666666666667,0.83961815
 Do you mean our eyebrows?,"(
 リー
 )
 ＜眉毛がですか？＞
 
-",<Is it eyebrows?>,0.2
+",<Is it eyebrows?>,0.2,0.74517965
 "No, not just our eyebrows...","(
 ガイ
 )
@@ -837,12 +837,12 @@ Do you mean our eyebrows?,"(
  
 Not only eyebrows
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.76968455
 I was actually a failure once too...,"実は俺も昔はな
 落ちこぼれだった＞
 
 ","Actually I also used to
-It was falling>",0.21428571428571427
+It was falling>",0.21428571428571427,0.3542808
 "You were, Sensei?","＜先生がですか!?＞
 (
 ガイ
@@ -855,7 +855,7 @@ It was falling>",0.21428571428571427
 
 <But
  
-Now ➡",0.15384615384615385
+Now ➡",0.15384615384615385,0.19645905
 "But now, I can even win against
 the genius elite Kakashi,","天才エリート
  
@@ -869,7 +869,7 @@ the genius elite Kakashi,","天才エリート
 Even if it is a match with Kakashi
 Overwhelming
 .
-➡",0.19047619047619047
+➡",0.19047619047619047,0.8400421
 """I'd like to prove that I can become
 a respectable Ninja","証明したいです
 ｣
@@ -881,7 +881,7 @@ a respectable Ninja","証明したいです
 ""
 In
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.35372284
 "even though I can't use Ninjutsu
 and Genjutsu,"" you said.","｢
 たとえ忍術や幻術が使えなくても
@@ -889,7 +889,7 @@ and Genjutsu,"" you said.","｢
 
 ","""
 Even if you can not use Ninjutsu and illusion
-What you can be a good ninja",0.20833333333333334
+What you can be a good ninja",0.20833333333333331,0.67084044
 That's a fine goal...,"それが
  
 お前の忍道だろ？
@@ -902,7 +902,7 @@ That's a fine goal...,"それが
 Is your astarch?
 It's a good goal
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.5284485
 "That's why you should believe in
 your path and forge straight ahead!","自分の道を信じて
 突っ走ればいい
@@ -912,7 +912,7 @@ your path and forge straight ahead!","自分の道を信じて
 ","Believe in your way
 I should run
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.48022613
 "Understand, Lee?!","いいな？
  
 リー＞
@@ -925,14 +925,14 @@ I should run
  
 Lee>
 
-<Oss!>",0.25
+<Oss!>",0.25,0.56214464
 <i>Thank you...Guy Sensei...!</i>,"ありがとう
  
 ガイ先生》
 
 ","Thank you
  
-Guy teacher",0.2727272727272727
+Guy teacher",0.2727272727272727,0.3789895
 "If you fight any more, you'll die!","ダメよ
  
 リーさん！
@@ -945,20 +945,20 @@ Guy teacher",0.2727272727272727
 Lee!
 more than this
  
-If you fight",0.38461538461538464
+If you fight",0.38461538461538464,0.51178026
 Movement has...,"《ゲジマユ…》
 
-","""Gezma Yu ...""",0.14285714285714285
+","""Gezma Yu ...""",0.14285714285714285,0.14399523
 ...returned to Lee!,"リーに動きが…
 ｡
 戻った！
 
 ","Move to Lee ...
 .
-Returned!",0.7142857142857143
+Returned!",0.7142857142857143,0.83985966
 <i>Stronger... stronger still!</i>,"死んじゃうわ！
 
-",I'm dead!,0.2
+",I'm dead!,0.2,0.28455588
 "Lee's smiling... even though
 he's been driven into corner.","リーさん
  
@@ -970,15 +970,15 @@ he's been driven into corner.","リーさん
  
 Laughing
 Even though it is driven so much
-.",0.29411764705882354
+.",0.29411764705882354,0.672588
 No.,"フッ
 ｡
 
 ","Hook
-.",0.3333333333333333
+.",0.3333333333333333,0.25719646
 Blossoms twice?,"え？
 
-",picture?,0.25
+",picture?,0.25,0.195191
 Lee said that too!,"それ
  
 リーさんも言ってた
@@ -987,7 +987,7 @@ Lee said that too!,"それ
 ","That
  
 Lee also said
-.",0.42857142857142855
+.",0.42857142857142855,0.8779482
 "<i>When we meet the next time,</i>
 <i>I vow that I will be an even stronger man.</i>","(
 ガイ
@@ -1004,7 +1004,7 @@ Lee also said
 Next time
  
 This will be driven
-.",0.17391304347826086
+.",0.17391304347826084,0.1506671
 "No, Guy!","(ｶｶｼ)
 まさか
  
@@ -1016,7 +1016,7 @@ This will be driven
  
 Guy
  
-you…!",0.3333333333333333
+you…!",0.3333333333333333,0.42158192
 It's exactly as you imagine.,"フッ
  
 お前の想像のとおりだ
@@ -1025,7 +1025,7 @@ It's exactly as you imagine.,"フッ
 ","Hook
  
 It is as you imagined
-.",0.4
+.",0.4,0.40152663
 "that boy can open the Eight Inner Gates
 in his body and use the Hidden Lotus...","八門[外:99C09079206BA433E50523B592C8055A]甲の体内門を開き
 裏[外:9A4D3B93F5ABFF78DA43BEB12CF7F1BE]華を…
@@ -1033,10 +1033,10 @@ in his body and use the Hidden Lotus...","八門[外:99C09079206BA433E50523B592C
 
 ","Hachito [Out of: 99C09079206BA433E50523B592C8055A] Opened the body of the body
 Back [Outside: 9A4D3B93F5ABFF78DA43BEB12CF7F1BE] Hana ...
-.",0.10344827586206896
+.",0.10344827586206896,0.2891742
 <i>The Hidden Lotus?</i>,"誓います＞
 
-",I swear>,0.2222222222222222
+",I swear>,0.2222222222222222,0.20479178
 That's right...,"そうだ
 ｡
 (ｶｶｼ)
@@ -1047,21 +1047,21 @@ That's right...,"そうだ
 .
 
 What happened ...
-.",0.375
+.",0.375,0.40842348
 "How many of the Eight Inner Gates
 can that boy open now?","八門[外:99C09079206BA433E50523B592C8055A]甲の
 いくつまで門を開ける？
 
 ","Yatsumon [Out of: 99C09079206BA433E50523B592C8055A]
-Do you open the gate?",0.18181818181818182
+Do you open the gate?",0.18181818181818185,0.44369158
 What exactly is it?,"五門だ
 ｡
 
 ","It is Goto
-.",0.2857142857142857
+.",0.2857142857142857,0.19710854
 "A ""Limiter Releases""?","リミッター外し？
 
-",Outside the limiter?,0.25
+",Outside the limiter?,0.25,0.64613605
 "in each area of the body from the
 head area down","頭部から順に
  
@@ -1069,7 +1069,7 @@ head area down","頭部から順に
 
 ","In order from the head
  
-Each part of the body",0.6363636363636364
+Each part of the body",0.6363636363636364,0.81246275
 "the Gate of Opening, Gate of Rest,
 Gate of Life, Gate of Pain,","開門
   
@@ -1085,7 +1085,7 @@ Rest
  
 Imperial gate
  
-Shimon",0.2
+Shimon",0.2,0.43939912
 These are called the Eight Inner Gates.,"死門と呼ばれる
  
 チャクラ穴の
@@ -1098,13 +1098,13 @@ These are called the Eight Inner Gates.,"死門と呼ばれる
 Chakra hole
 There are eight dense places
 .
-➡",0.3125
+➡",0.3125,0.46799126
 "the amount of Chakra flowing
 through the body...","この八門は
 体に流れるチャクラの量に➡
 
 ","This Yatsuma is
-To the amount of chakra flowing into the body",0.46153846153846156
+To the amount of chakra flowing into the body",0.4615384615384616,0.769192
 "and bring out several
 tens of times the body's strength.","本来の何十倍にもあたる力を
 引き出すことを極意とする
@@ -1112,23 +1112,23 @@ tens of times the body's strength.","本来の何十倍にもあたる力を
 
 ","The power of tens of tens of times
 Pissful to pull out
-.",0.375
+.",0.375,0.48218393
 "opens only the first gate,
 the Gate of Opening,","開門だけを開き➡
 
-",Open only the gateway,0.2
+",Open only the gateway,0.2,0.5510905
 That's the kind of technique it is.,"限界まで引き出して繰り出す技
 ｡
 
 ","A technique that pulls out to the limit
-.",0.2857142857142857
+.",0.2857142857142857,0.5060659
 So... what is the Hidden Lotus?,"じゃあ
  
 裏[外:9A4D3B93F5ABFF78DA43BEB12CF7F1BE]華は？
 
 ","Surely
  
-Back [outside: 9A4D3B93F5ABFF78DA43BEB12CF7F1BE] What is the flower?",0.25
+Back [outside: 9A4D3B93F5ABFF78DA43BEB12CF7F1BE] What is the flower?",0.25,0.4527287
 "After forcing the stamina to increase
 at the second gate, the Gate of Rest...","(
 ガイ
@@ -1139,22 +1139,22 @@ at the second gate, the Gate of Rest...","(
 
 ","Second gate
  
-In the break",0.2
+In the break",0.2,0.6204089
 "Even after using just the Primary Lotus,
 his body was in shambles.","あんなに体中
 ボロボロになっちゃうのに➡
 
 ","In the body
-I'm going to be Boroboro",0.15
+I'm going to be Boroboro",0.15,0.06220737
 "By opening all the 8 gates,","八門すべてを開くことにより➡
 
-",By opening all Yatsuma,0.375
+",By opening all Yatsuma,0.375,0.49393752
 "I don't intend to pry into what that
 boy means to you","詮索するつもりはないし
 私情を挟むなとは言わないが➡
 
 ","I'm not going to pry
-I do not say that my nature is caught",0.25
+I do not say that my nature is caught",0.25,0.54539394
 But there <i>is</i> a limit!,"限度ってもんがある
 見損なったぞ
  
@@ -1165,21 +1165,21 @@ But there <i>is</i> a limit!,"限度ってもんがある
 I have lost
  
 Guy
-.",0.35714285714285715
+.",0.35714285714285715,0.3911148
 I've misjudged you... Guy!,"それ以上の技なんかやったら…
 ｡
 
 ","If you do more skills ...
-.",0.16666666666666666
+.",0.16666666666666666,0.105278
 What do you know... about that boy?!,"何を知っている？
 
-",What do you know?,0.5
+",What do you know?,0.5,0.39339754
 "<i>even though I can't use</i>
 <i>Ninjutsu and Genjutsu!</i>","＜たとえ忍術や幻術は
 使えなくても➡
 
 ","た と と と と
-Even if you can not use it ➡",0.09523809523809523
+Even if you can not use it ➡",0.09523809523809523,0.14387134
 "wanted to make him a man
 that could protect that thing.","(
 ガイ
@@ -1196,7 +1196,7 @@ that could protect that thing.","(
 It
 I wanted to be a man who can protect
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6071113
 "- One that will be your trump card.
 - Yeah, that's great!","＜よ～し！
  
@@ -1210,13 +1210,13 @@ I wanted to be a man who can protect
  
 I did!>
 
-<It is a technique that becomes a trump card>",0.16
+<It is a technique that becomes a trump card>",0.16,0.38327548
 "Lee, listen to my explanation
 seriously, all right?!","＜リーよ！
 真面目に俺の話を聞け～！＞
 
 ","<Lee!
-Listen to my story seriously!>",0.42857142857142855
+Listen to my story seriously!>",0.42857142857142855,0.6769433
 "Y-Yes, Sensei!","＜ややや
  
 やっり～！
@@ -1229,7 +1229,7 @@ Listen to my story seriously!>",0.42857142857142855
 I'm sorry!
 Os
  
-Uta!>",0.08333333333333333
+Uta!>",0.08333333333333333,0.22100721
 "And it will become the
 most special technique for you.","そして
  
@@ -1239,7 +1239,7 @@ most special technique for you.","そして
 ","and
  
 For you
-Most Special Technology>",0.38461538461538464
+Most Special Technology>",0.38461538461538464,0.44939473
 "there is one strict condition
 for using this technique.","一つ
  
@@ -1251,14 +1251,14 @@ for using this technique.","一つ
  
 There are severe conditions
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.3766485
 <i>That is...</i>,"＜特別…＞
 
-",<Special ...>,0.375
+",<Special ...>,0.375,0.46425506
 "I don't know what
 you're planning to do...","何をするつもりか知らんが➡
 
-",I know what I intend to do,0.45454545454545453
+",I know what I intend to do,0.4545454545454545,0.6260446
 But this is the end for you.,"お前は
  
 ここで終わりだ
@@ -1267,10 +1267,10 @@ But this is the end for you.,"お前は
 ","You are
  
 It is the end here
-.",0.45454545454545453
+.",0.4545454545454545,0.68062574
 That's true...,"それは…＞
 
-",That's ...>,0.6
+",That's ...>,0.6,0.3957637
 "There is no way that I alone
 can lose in a place like this!","(
 リー
@@ -1283,7 +1283,7 @@ can lose in a place like this!","(
 ","""I only
  
 In such a place
-I can not lose it!""",0.3333333333333333
+I can not lose it!""",0.3333333333333333,0.5402664
 <i>Guy Sensei... please allow this...!</i>,"(
 リー
 )
@@ -1297,10 +1297,10 @@ I can not lose it!""",0.3333333333333333
  
 Please admit
 .
-➡",0.125
+➡",0.125,0.37208366
 <i>It is now!</i>,"今こそ…》
 
-","now is the time…""",0.18181818181818182
+","now is the time…""",0.18181818181818185,0.47624335
 "<i>The time to carry through and</i>
 <i>protect one's own Way of the Ninja!</i>","(
 リー
@@ -1315,7 +1315,7 @@ Please admit
 ","""Your Shinito
 Penetrate
  
-When we protect!""",0.08
+When we protect!""",0.08,0.4431492
 <i>The Third Gate of Life...open!</i>,"(
 リー
 )
@@ -1329,7 +1329,7 @@ When we protect!""",0.08
  
 Imperial gate
  
-Open!",0.3076923076923077
+Open!",0.3076923076923077,0.617864
 "<i>When you want to cry,</i>
 <i>and you want to run away</i>","♬
  
@@ -1341,14 +1341,14 @@ Open!",0.3076923076923077
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.39382535
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.28646743
 "Even though this technique is
 my ace in the hole,","♬
  
@@ -1356,14 +1356,14 @@ my ace in the hole,","♬
 
 ","♬
  
-In this hand",0.15384615384615385
+In this hand",0.15384615384615385,0.2593309
 I'll show it especially to you!,"♬
  
 泣きたくなって
 
 ","♬
  
-I want to cry",0.18181818181818182
+I want to cry",0.18181818181818185,0.11586044
 "Next Episode: ""The Fifth Gate:
 A Splendid Ninja is Born""","♬
  
@@ -1371,4 +1371,4 @@ A Splendid Ninja is Born""","♬
 
 ","♬
  
-Light is born",0.13333333333333333
+Light is born",0.13333333333333333,0.22850345

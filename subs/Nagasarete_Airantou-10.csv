@@ -1,183 +1,183 @@
-en_text,jp_text,google_translated,score
-Suzu?,ん？,Yeah?,0.3333333333333333
-"What are you doing, Suzu?",何してたの？ すず,what have you been up to?Tin,0.25
-Everyone takes a day off when it's raining.,うん 雨だろうが雪だろうが,It's raining but it's snowing,0.25
-Isn't it the same in the outside world?,違うの？　外の世界じゃ…,is it wrong?It is the outside world ...,0.5454545454545454
-That's amazing!,へ〜っ すごいね！,Hey ~!,0.16666666666666666
-It's to say being busy...,せわしないっつ〜か なんつ〜か…,I don't want to do it ~ Kana ...,0.23076923076923078
-"Sorry, I failed again.",ガクッ… ごめんまた失敗だ…,Gaku ... I'm sorry I'm a failure ...,0.18181818181818182
+en_text,jp_text,google_translated,score,semantic_score
+Suzu?,ん？,Yeah?,0.3333333333333333,0.20999256
+"What are you doing, Suzu?",何してたの？ すず,what have you been up to?Tin,0.25,0.3468148
+Everyone takes a day off when it's raining.,うん 雨だろうが雪だろうが,It's raining but it's snowing,0.25,0.5569176
+Isn't it the same in the outside world?,違うの？　外の世界じゃ…,is it wrong?It is the outside world ...,0.5454545454545454,0.43752068
+That's amazing!,へ〜っ すごいね！,Hey ~!,0.16666666666666666,0.23275721
+It's to say being busy...,せわしないっつ〜か なんつ〜か…,I don't want to do it ~ Kana ...,0.2307692307692308,0.13277052
+"Sorry, I failed again.",ガクッ… ごめんまた失敗だ…,Gaku ... I'm sorry I'm a failure ...,0.18181818181818185,0.36454213
 "Speaking of Miso soup, there's almost no trace of the soup.","味噌汁なのに 汁ほとんどないし…
 どうしてこんな…","Miso soup but juice and soup ...
-Why not ...",0.1111111111111111
-It's delicious!,ふぅ〜ん… おいしいよ！,Hmm ... delicious!,0.3333333333333333
+Why not ...",0.1111111111111111,0.672184
+It's delicious!,ふぅ〜ん… おいしいよ！,Hmm ... delicious!,0.3333333333333333,0.6783263
 I still like this flavor.,"ちょっと変わった味だけど…
 でも私好きだよ この味…","It's a bit strange taste ...
-But I like this taste ...",0.21428571428571427
-"It's nice, isn't it?",うん いいよね 雨の日…,"Yeah, it's a rainy day ...",0.25
-To enjoy breakfast slowly like this.,へへへへっ,To,0.14285714285714285
+But I like this taste ...",0.21428571428571427,0.5857811
+"It's nice, isn't it?",うん いいよね 雨の日…,"Yeah, it's a rainy day ...",0.25,0.3147297
+To enjoy breakfast slowly like this.,へへへへっ,To,0.14285714285714285,0.2530423
 So it turn out that my forecast machine #2 has failed.,"私の発明した“天気予報機試作第２号”は
 失敗ってことになりますの…","My invention ""Weather forecasting machine trial standard 2"" is
-It will be a failure ...",0.15384615384615385
+It will be a failure ...",0.15384615384615385,0.64811265
 "The 1st machine, which was made some time ago, was also a big failure with an accuracy of 20%.","前に作った試作第一号も
 的中率２割以下で大失敗でしたし…","The first trial preparation first
-It was a big mistake at a half or less ...",0.12903225806451613
-"If I can predict the weather,",お天気の予想ができれば,If you can expect weather,0.3333333333333333
-That's right.,あ！ そうですの！,Ah!That's right!,0.5
+It was a big mistake at a half or less ...",0.12903225806451613,0.3403231
+"If I can predict the weather,",お天気の予想ができれば,If you can expect weather,0.3333333333333333,0.72890586
+That's right.,あ！ そうですの！,Ah!That's right!,0.5,0.7026845
 "An old saying says that when it's going to rain, frogs will go ""kerokero"".","カエルは雨を感知すると
 ケロケロ鳴くといいますの！","If the frog senses rain
-It is said that Kerokero sounds!",0.14814814814814814
+It is said that Kerokero sounds!",0.14814814814814814,0.8487185
 I'm going to investigate the habitat of Frog-san.,"すくみずの性能実験とカエルの調査を
 兼ねてお出かけしてきますわ","Survey of performance experiments and frogs
-I'm going out again",0.23529411764705882
+I'm going out again",0.2352941176470588,0.55766726
 What is with that outfit?,"-なんですか？　その格好は？
 -ん？","-what is it?What is that?
--Hmm?",0.4444444444444444
+-Hmm?",0.4444444444444444,0.30542803
 "This is called ""School Swimming Suit"", it's used as a water clothing in the outside world.","これは“すくみず”と言って
 外の世界の水中用衣服ですの","This is said to say ""す""
-It is water-in-water clothes outside the world",0.2962962962962963
-For use in water?,まっ 水中用！,In water guaranteed!,0.2857142857142857
-"As long as I wear this, I will be fine under the water.",はぁ〜い 行ってまいりますの〜！,I will go!,0.13333333333333333
-"My, my! That's great!",では私！,Well!,0.14285714285714285
+It is water-in-water clothes outside the world",0.2962962962962963,0.57219803
+For use in water?,まっ 水中用！,In water guaranteed!,0.2857142857142857,0.43978113
+"As long as I wear this, I will be fine under the water.",はぁ〜い 行ってまいりますの〜！,I will go!,0.13333333333333333,0.15712951
+"My, my! That's great!",では私！,Well!,0.14285714285714285,0.30670157
 "Chikage-san, please be careful.","-ひゃっほ〜！
 -ちかげさん お気をつけて〜","-Hyahho~!
--Chokuro-san please be careful-",0.2
-It's useless...,そっか 退屈なんだね,It's boring,0.4
+-Chokuro-san please be careful-",0.2,0.48941648
+It's useless...,そっか 退屈なんだね,It's boring,0.4,0.38606894
 I can't hold on any longer...,"はぁ〜 ダメだ… はぁ…
 もう持たない…","Ha ~ no good ... Ha ...
-I have no longer have ...",0.23076923076923078
+I have no longer have ...",0.2307692307692308,0.33147907
 It's impossible for me to spend a day idly.,"そんな僕がのんびり一日過ごすなんて
 無理な話だよ〜","Such I will spend a leisurely day
-It is an impossible story ~",0.2631578947368421
-Really?,あやとり？,Ayakata?,0.3333333333333333
+It is an impossible story ~",0.2631578947368421,0.5565474
+Really?,あやとり？,Ayakata?,0.3333333333333333,0.11257631
 Those are also...,"-いや… ん… そういうのも…
 -プ〜プ　ププッ","-No ... Hmm ... That's also ...
-- Pupup",0.2
-Yeah!,おっ！ 将棋いいな！,Oh!Shogi good!,0.2
-But...Can Suzu play it?,けど すず出来んの？,But are you doing?,0.2
-"Don't look down on me, I'm quite good at it.",あ〜バカにして！ 私 得意なんだよ！,"Oh, I'm stupid!I'm good!",0.23529411764705882
-That's a good board you got there.,わぁ〜 立派な将棋盤だね〜！,Wow ~ It's a good shogerboard!,0.21428571428571427
+- Pupup",0.2,0.34178394
+Yeah!,おっ！ 将棋いいな！,Oh!Shogi good!,0.2,0.32932538
+But...Can Suzu play it?,けど すず出来んの？,But are you doing?,0.2,0.10163204
+"Don't look down on me, I'm quite good at it.",あ〜バカにして！ 私 得意なんだよ！,"Oh, I'm stupid!I'm good!",0.2352941176470588,0.353441
+That's a good board you got there.,わぁ〜 立派な将棋盤だね〜！,Wow ~ It's a good shogerboard!,0.21428571428571427,0.5744661
 "But the Rook is made from paper,","でも 飛車は紙なの…
 割れちゃったから代わり","But flying is paper ...
-Instead of cracking",0.23076923076923078
+Instead of cracking",0.2307692307692308,0.4463673
 Because it's broken and needs to be replaced.,"フフ〜ン 行人なんか
 コテンパンにしちゃうんだから〜！","Huh-Ninjin
-Because I'm going to the co-potan!",0.11764705882352941
+Because I'm going to the co-potan!",0.1176470588235294,-0.0040374678
 "If you think you can do it, go for it.","ヘッヘ〜ン やれるもんなら
 やってみな〜！","If you can do Hehei
-Don't do it!",0.38461538461538464
+Don't do it!",0.38461538461538464,0.5054296
 "Oh yeah, this is my first time,","そういや〜初めてだよね
 すずとうちで遊ぶのって","Oh yeah ~ It is the first time
-To play with me",0.3333333333333333
+To play with me",0.3333333333333333,0.594057
 "There was a storm the day before Ikuto arrived, it was very troublesome.","ほいっ 行人をつった前の日は
 大嵐で大変だったんだよ","The day before I got a job
-It was difficult at the storm",0.3684210526315789
+It was difficult at the storm",0.3684210526315789,0.5337465
 "like big roofs, small roofs and even Ayane.","色んな物が飛ばされてね 大屋根とか
 小屋根とかあやねとか…","Various things are skipped large roofs
-Small roof and や ...",0.17647058823529413
-Is there's a link between entry to the island and the storm?,島の出入りと嵐って関係があるのかな？,Is there a relationship with the island and storms?,0.4375
-"Suzu, what's wrong?",すず どうしたの？,What did you do?,0.2222222222222222
-It's my turn.,あ… はっ！ ああ 私の番だね！,Oh ... Hey!Oh my turn!,0.2222222222222222
-How's this?,え〜っと… これでどうだ！,Yes ... How is this!,0.25
-What happened?,つまんないなぁ… ん？,I'm sorry ...?,0.14285714285714285
-How boring!,ミャ〜ゴッ！,Mia-Go!,0.25
-"How is it, are you awake?",うりゃおれおれおれ…！ 確保！,"Ura, it is good ...!Secure!",0.23076923076923078
-Let's go outside and play!,外へ遊びに行こう！,Let's go out to play out!,0.5555555555555556
-"Aniki, it's done.",ああ 大丈夫だよ,Oh it's okay,0.25
-Oh! Don't worry.,だぁ…！,Oh ...!,0.2857142857142857
-It's actually a sliding door.,引き戸になってんだよ　これ,It's a sliding door,0.7142857142857143
-This is my Twentieth consecutive win.,わぁ〜い！ これで私の20連勝！,Wow!This is my 20 consecutive wins!,0.36363636363636365
-Do you want to try again?,モッかいやる？,Do you do it?,0.375
-"I'm sorry, that's enough.",ごめんなさい… もう いいです…,I'm sorry ... It is already good ...,0.23076923076923078
-Who is it?,ん… へぇ〜 誰に？,Hmm ~ ~ to who?,0.2857142857142857
-My... mother.,お母さん… だよ,Mom ...,0.2
-I hate rainy days.,雨の日は嫌い,I hate rainy days,0.8
-How should I vent my anger?,この憤りをどうしてくれよぉ〜,How do you do this shit?,0.18181818181818182
-No!,んんっ！,!,0.5
-I'm hungry.,おなかすいた〜 おなかすいた〜,I'm sorry ~ I'm sorry ~,0.3333333333333333
-Here.,あ〜むっ むっむっ,Oh ~ Muku Muku,0.0
-"This is my treasure, do you want to eat it?",私のとっておきだけど食べる？,I'm going to eat but eat it?,0.25
-What is this?,これは… 何？,what are these?,0.3333333333333333
-Water... Please give me water...,み… みず…,Mizu ... ...,0.16666666666666666
-"Interesting, isn't it?",フッフフフフ なかなか面白いじゃな〜い,It is funny that it is funny,0.25
-"Oh, no! I went overboard.",だぁあああ いひひひっ！ えへひひひ！,Oh yeah!Eh Hihi!,0.18181818181818182
-Do you think you can run away?,逃げ切れると思ってんの〜 フフフ…,I think I can escape ~ Huhufu ...,0.16666666666666666
-Number one!,うはぁ〜っ！ きれ〜い！,Uh!beautiful!,0.2
+Small roof and や ...",0.17647058823529413,0.7111592
+Is there's a link between entry to the island and the storm?,島の出入りと嵐って関係があるのかな？,Is there a relationship with the island and storms?,0.4375,0.8050381
+"Suzu, what's wrong?",すず どうしたの？,What did you do?,0.2222222222222222,0.11754759
+It's my turn.,あ… はっ！ ああ 私の番だね！,Oh ... Hey!Oh my turn!,0.2222222222222222,0.58409786
+How's this?,え〜っと… これでどうだ！,Yes ... How is this!,0.25,0.45198125
+What happened?,つまんないなぁ… ん？,I'm sorry ...?,0.14285714285714285,0.16112287
+How boring!,ミャ〜ゴッ！,Mia-Go!,0.25,0.26559752
+"How is it, are you awake?",うりゃおれおれおれ…！ 確保！,"Ura, it is good ...!Secure!",0.2307692307692308,0.22424056
+Let's go outside and play!,外へ遊びに行こう！,Let's go out to play out!,0.5555555555555556,0.6771326
+"Aniki, it's done.",ああ 大丈夫だよ,Oh it's okay,0.25,0.14380828
+Oh! Don't worry.,だぁ…！,Oh ...!,0.2857142857142857,0.36212993
+It's actually a sliding door.,引き戸になってんだよ　これ,It's a sliding door,0.7142857142857143,0.9502021
+This is my Twentieth consecutive win.,わぁ〜い！ これで私の20連勝！,Wow!This is my 20 consecutive wins!,0.3636363636363637,0.79610217
+Do you want to try again?,モッかいやる？,Do you do it?,0.375,0.3226617
+"I'm sorry, that's enough.",ごめんなさい… もう いいです…,I'm sorry ... It is already good ...,0.2307692307692308,0.3980582
+Who is it?,ん… へぇ〜 誰に？,Hmm ~ ~ to who?,0.2857142857142857,0.26863945
+My... mother.,お母さん… だよ,Mom ...,0.2,0.7398982
+I hate rainy days.,雨の日は嫌い,I hate rainy days,0.8,0.9901348
+How should I vent my anger?,この憤りをどうしてくれよぉ〜,How do you do this shit?,0.18181818181818185,0.23484236
+No!,んんっ！,!,0.5,0.59837013
+I'm hungry.,おなかすいた〜 おなかすいた〜,I'm sorry ~ I'm sorry ~,0.3333333333333333,0.26479197
+Here.,あ〜むっ むっむっ,Oh ~ Muku Muku,0.0,0.08376455
+"This is my treasure, do you want to eat it?",私のとっておきだけど食べる？,I'm going to eat but eat it?,0.25,0.58349454
+What is this?,これは… 何？,what are these?,0.3333333333333333,0.55582094
+Water... Please give me water...,み… みず…,Mizu ... ...,0.16666666666666666,0.28010198
+"Interesting, isn't it?",フッフフフフ なかなか面白いじゃな〜い,It is funny that it is funny,0.25,0.297802
+"Oh, no! I went overboard.",だぁあああ いひひひっ！ えへひひひ！,Oh yeah!Eh Hihi!,0.18181818181818185,0.33432102
+Do you think you can run away?,逃げ切れると思ってんの〜 フフフ…,I think I can escape ~ Huhufu ...,0.16666666666666666,0.50845
+Number one!,うはぁ〜っ！ きれ〜い！,Uh!beautiful!,0.2,0.25858834
 Yay! I won! I won!,"いっちば〜ん！　わ〜い勝った勝った！
 いひひっ","Ichiban!Wow won!
-Duck",0.2857142857142857
-We lost again.,また負けた〜,I lost again ~,0.3333333333333333
-Yuki-Yuki is strong.,強いな〜 ゆきゆきは…,Strong ~ Yukiyuki ...,0.14285714285714285
-Amazing.,う〜わぁ〜　ぐげっ…,Uh ~ Wow ...,0.0
-Nooooooooooooooooooooo~,ぐぇっ！,Gour!,0.0
-I absolutely won't let you escape.,絶対に逃がさないわぁ〜,I'm absolutely missing ~,0.18181818181818182
-"They're always like that, always.",しょうがねえな〜 いつもいつも…,Somewhat Hey ~ Always always ...,0.09090909090909091
-I got you.,フフフ… つっかまっえたっ〜,Fuhufu ... I'm sorry,0.125
-Onee-sama~,うん… 手伝って,Yeah ... helping,0.0
-Strawberries?,キイチゴ…？,Kiichigo ...?,0.25
-"It looks delicious, eh?",おいしそうね,It looks delicious,0.5
-Ayane is coming too?,ねえ ちかネエは一緒じゃないの？,Hey Chika Nee is not together?,0.2
-Rin-chan! Machi-Nee! Ayane!,りんちゃ〜ん まちネエ〜 あやね〜！,Rintha-Machi Nee ~ Ayane ~!,0.2857142857142857
-"Beautiful, right?",ああ ほんと きれいだな,"Oh, it's really beautiful",0.25
-"Now that you mentioned it, I haven't seen her today.",そういや 今日は見てないな…,"Well, I do not see today ...",0.16666666666666666
-Chika-nee!,ああ〜っ！,Oh!,0.3333333333333333
-"Alright then, I'll prepare lunch, OK?",じゃ お昼は私が作るね,Then I will make lunch,0.2727272727272727
-Suzu seems to be showing signs of loneliness today.,すずが今日 時々寂しそうにしてるのは,Sushi is going to be lonely sometimes today,0.2
-"On rainy days, she only stays at home,",雨の日はほとんどうちにいたんだから,Because it was almost everything on rainy days,0.21428571428571427
+Duck",0.2857142857142857,0.4489323
+We lost again.,また負けた〜,I lost again ~,0.3333333333333333,0.61253446
+Yuki-Yuki is strong.,強いな〜 ゆきゆきは…,Strong ~ Yukiyuki ...,0.14285714285714285,0.83384776
+Amazing.,う〜わぁ〜　ぐげっ…,Uh ~ Wow ...,0.0,0.271356
+Nooooooooooooooooooooo~,ぐぇっ！,Gour!,0.0,0.17024668
+I absolutely won't let you escape.,絶対に逃がさないわぁ〜,I'm absolutely missing ~,0.18181818181818185,0.16853218
+"They're always like that, always.",しょうがねえな〜 いつもいつも…,Somewhat Hey ~ Always always ...,0.09090909090909093,0.46950075
+I got you.,フフフ… つっかまっえたっ〜,Fuhufu ... I'm sorry,0.125,0.13545068
+Onee-sama~,うん… 手伝って,Yeah ... helping,0.0,0.08803214
+Strawberries?,キイチゴ…？,Kiichigo ...?,0.25,0.0959395
+"It looks delicious, eh?",おいしそうね,It looks delicious,0.5,0.7726762
+Ayane is coming too?,ねえ ちかネエは一緒じゃないの？,Hey Chika Nee is not together?,0.2,0.27061862
+Rin-chan! Machi-Nee! Ayane!,りんちゃ〜ん まちネエ〜 あやね〜！,Rintha-Machi Nee ~ Ayane ~!,0.2857142857142857,0.7965496
+"Beautiful, right?",ああ ほんと きれいだな,"Oh, it's really beautiful",0.25,0.42600855
+"Now that you mentioned it, I haven't seen her today.",そういや 今日は見てないな…,"Well, I do not see today ...",0.16666666666666666,0.58345276
+Chika-nee!,ああ〜っ！,Oh!,0.3333333333333333,0.21553172
+"Alright then, I'll prepare lunch, OK?",じゃ お昼は私が作るね,Then I will make lunch,0.2727272727272727,0.6920579
+Suzu seems to be showing signs of loneliness today.,すずが今日 時々寂しそうにしてるのは,Sushi is going to be lonely sometimes today,0.2,0.52988243
+"On rainy days, she only stays at home,",雨の日はほとんどうちにいたんだから,Because it was almost everything on rainy days,0.21428571428571427,0.4014503
 There must be a lot of memories of playing with her mother.,"お母さんと遊んだ思い出も
 いっぱいあるんだろうな…","I also played my mother
-There will be lots of ...",0.21052631578947367
-"However, since her mother isn't here anymore,",でも… お母さんがいなくなってから,But ... after my mother is gone,0.14285714285714285
+There will be lots of ...",0.21052631578947367,0.58050424
+"However, since her mother isn't here anymore,",でも… お母さんがいなくなってから,But ... after my mother is gone,0.14285714285714285,0.64501387
 To stay in this house... All alone by herself... Listening to the sound of the rain.,"このうちで 一人きりで…
 雨の音聞いて…","One of these among them ...
-I hear a sound of rain ...",0.17391304347826086
-"What's wrong, Ikuto?",どうしたの？ 行人？,What's wrong?Where?,0.5714285714285714
-"But, you don't look well.",でも… なんか元気ないよ…,But ... something is fine ...,0.08333333333333333
-Everyone!,みんな！,Everyone!,1.0
-"Oh Suzu, you're taking action first?",うにゃ？,?,0.1111111111111111
-Approaching Ikuto first when no one's around.,誰もいない間に行人様を襲おうなんて,Let's attack the goat while there is no one,0.1875
-N-No!,えっへへっ！,Ehen!,0.3333333333333333
-What's wrong everyone? Coming over when it's raining so heavily outside.,みんな こんな雨の日にどうしたの？,What happened to everyone like this rain?,0.15789473684210525
-Thank you,かわいい！ ありがとう ちかげちゃん,Tiny!Thank you Chika-chan,0.4
-This is for you.,すずちゃん… これ どうぞですの…,Tin ... this is it ...,0.25
-Of course! I'm a carpenter after all.,当然！　大工だもん！,Of course!Carpenter!,0.4
+I hear a sound of rain ...",0.17391304347826084,0.43789053
+"What's wrong, Ikuto?",どうしたの？ 行人？,What's wrong?Where?,0.5714285714285714,0.41478768
+"But, you don't look well.",でも… なんか元気ないよ…,But ... something is fine ...,0.08333333333333333,0.3411646
+Everyone!,みんな！,Everyone!,1.0,0.99999994
+"Oh Suzu, you're taking action first?",うにゃ？,?,0.1111111111111111,0.19543947
+Approaching Ikuto first when no one's around.,誰もいない間に行人様を襲おうなんて,Let's attack the goat while there is no one,0.1875,0.20649222
+N-No!,えっへへっ！,Ehen!,0.3333333333333333,0.3587025
+What's wrong everyone? Coming over when it's raining so heavily outside.,みんな こんな雨の日にどうしたの？,What happened to everyone like this rain?,0.15789473684210525,0.652927
+Thank you,かわいい！ ありがとう ちかげちゃん,Tiny!Thank you Chika-chan,0.4,0.2897999
+This is for you.,すずちゃん… これ どうぞですの…,Tin ... this is it ...,0.25,0.16576006
+Of course! I'm a carpenter after all.,当然！　大工だもん！,Of course!Carpenter!,0.4,0.7719557
 "Anyway, I'm hungry.","偶然なんて言って
 本当は すずのために集まってるんだ…","Say a chance
-Really, I'm gathering for her sewing ...",0.2
-So nice that I ate too much without knowing.,え〜っ 気になるよ！,Eh ~ I'm worried!,0.06666666666666667
-So what if that's the case?,ねえ 何の話？,Hey what kind of story?,0.16666666666666666
+Really, I'm gathering for her sewing ...",0.2,0.27421084
+So nice that I ate too much without knowing.,え〜っ 気になるよ！,Eh ~ I'm worried!,0.06666666666666668,0.19742948
+So what if that's the case?,ねえ 何の話？,Hey what kind of story?,0.16666666666666666,0.057520933
 "Suzu-chan, before having lunch, is it ok if I take a bath in your bathroom?","すずちゃん お昼の前に
 お風呂借りてもよろしいかしら？","Tin-chan before lunch
-Do you want to take a bath?",0.2727272727272727
-"Yes, it's OK.",なっ なんか嫌な予感…,It's a bad premonition ...,0.2
-Then everyone let's...,おっ　ぎゃお…,Oh ...,0.16666666666666666
-I knew it!,あ〜 ずるい！ 私も入る！,"Oh, it's awkward!I also enter!",0.3
-"Someday, I might really die from blood loss.",いっ いつか 本当に出血多量で死ぬかも…,Someday I really want to die in a large amount of hemorrhage ...,0.21052631578947367
+Do you want to take a bath?",0.2727272727272727,0.74158204
+"Yes, it's OK.",なっ なんか嫌な予感…,It's a bad premonition ...,0.2,0.1794233
+Then everyone let's...,おっ　ぎゃお…,Oh ...,0.16666666666666666,0.32126325
+I knew it!,あ〜 ずるい！ 私も入る！,"Oh, it's awkward!I also enter!",0.3,0.25499016
+"Someday, I might really die from blood loss.",いっ いつか 本当に出血多量で死ぬかも…,Someday I really want to die in a large amount of hemorrhage ...,0.21052631578947367,0.7100011
 "When it's raining, everyone will come over, just like today.","雨の日にはね… 今日みたいに
 みんなが来てくれるの","On the rainy day ... like it today
-Everyone comes",0.21052631578947367
-Seems like Suzu knew about it too.,すずもやっぱり知ってたんだ…,I just knew it.,0.3
+Everyone comes",0.21052631578947367,0.7551874
+Seems like Suzu knew about it too.,すずもやっぱり知ってたんだ…,I just knew it.,0.3,0.35060167
 "Although I'm happy about it, but after everyone leaves, it still gets a bit lonely.","すごく嬉しいんだけど みんなが
 帰った後は ちょっぴりさみしいの…","I'm very happy, but everyone
-After returning, she is a little bit better ...",0.375
-But it's fine for today.,でも 今日は平気だよ,But today is okay,0.2222222222222222
-Because Ikuto is with me.,えへっ 行人が一緒だから,Because the goal is together,0.2222222222222222
-Look over there!,うっふふ 見て あそこ！,See you there!,0.3333333333333333
-Moon-sama is just over there.,あそこにお月様があるの…,There is a moon so much ...,0.18181818181818182
-"Although it's not visible, but it's there.",見えないけど… でも あるの…,I can not see it ... but there is also ...,0.26666666666666666
+After returning, she is a little bit better ...",0.375,0.42429185
+But it's fine for today.,でも 今日は平気だよ,But today is okay,0.2222222222222222,0.79281986
+Because Ikuto is with me.,えへっ 行人が一緒だから,Because the goal is together,0.2222222222222222,0.3686444
+Look over there!,うっふふ 見て あそこ！,See you there!,0.3333333333333333,0.52116394
+Moon-sama is just over there.,あそこにお月様があるの…,There is a moon so much ...,0.18181818181818185,0.5957128
+"Although it's not visible, but it's there.",見えないけど… でも あるの…,I can not see it ... but there is also ...,0.26666666666666666,0.6882122
 I heard that this song is from the outside world.,"外の世界の昔の歌なんだって
 お母さんがね よく歌ってくれたんだ","It's an old song of the outside world
-My mom gone she often sang",0.18181818181818182
-I want to listen to the rest of it.,へぇ〜 続き聞きたいな,Hey ~ I want to hear,0.25
-"Suzu, you will definitely meet the man of your dreams.",お袖は濡れても　干しゃ乾く,"Even if the sleeves are wet, dry",0.1111111111111111
+My mom gone she often sang",0.18181818181818185,0.5711132
+I want to listen to the rest of it.,へぇ〜 続き聞きたいな,Hey ~ I want to hear,0.25,0.24034631
+"Suzu, you will definitely meet the man of your dreams.",お袖は濡れても　干しゃ乾く,"Even if the sleeves are wet, dry",0.1111111111111111,0.057209358
 "And then, you would dawn your mother's wedding dress and become a cute bride.","お母さんが着た花嫁衣裳を着て
 かわいいお嫁さんになるのよ","Wearing a bride costume that mothers weared
-She will be a cute daughter-in-law",0.12
+She will be a cute daughter-in-law",0.12,0.6402931
 I see. Suzu's mother said those things.,"そうか〜 すずのお母さん
 そんなこと言ってたんだ…","Grass-sin's mother
-I said that ...",0.3333333333333333
-Must be very beautiful.,花嫁衣装か…　きれいだろうな…,Bride costume ... I wonder if it will be beautiful ...,0.15384615384615385
-When Suzu wears a wedding dress...,へ…ぇえええ〜,... え え,0.125
-Suspicious means it's suspicious.,あやしいったら あやしい！,"If you give up, it's awkward!",0.16666666666666666
-"Ikuto, just what are you thinking exactly?",行人 一体何考えてたの？,What did you think of your goat?,0.21428571428571427
-I'm not thinking of anything.,ううん 何も考えてないよっ,I'm not thinking about anything,0.625
-Mame Daifuku?,んなことあるか〜っ！,Is there anything?,0.16666666666666666
+I said that ...",0.3333333333333333,0.3157677
+Must be very beautiful.,花嫁衣装か…　きれいだろうな…,Bride costume ... I wonder if it will be beautiful ...,0.15384615384615385,0.36654308
+When Suzu wears a wedding dress...,へ…ぇえええ〜,... え え,0.125,0.16300265
+Suspicious means it's suspicious.,あやしいったら あやしい！,"If you give up, it's awkward!",0.16666666666666666,0.048133202
+"Ikuto, just what are you thinking exactly?",行人 一体何考えてたの？,What did you think of your goat?,0.21428571428571427,0.069713324
+I'm not thinking of anything.,ううん 何も考えてないよっ,I'm not thinking about anything,0.625,0.8805121
+Mame Daifuku?,んなことあるか〜っ！,Is there anything?,0.16666666666666666,0.15793851

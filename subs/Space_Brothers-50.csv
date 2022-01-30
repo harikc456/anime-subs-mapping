@@ -1,45 +1,45 @@
-en_text,jp_text,google_translated,score
-Like being class monitor at school.,まぁ 学校の日直みたいなもんだ＞,"Well, it looks like the day of the school>",0.13333333333333333
-That hurt!,⦅いてえな！何すんだ てめえ！⦆,I'm sorry!What's wrong!⦆,0.1
-No! Look over there!,⦅違うって！あれ見ろ！⦆,It is different!See you!⦆,0.09090909090909091
-Sorry...,悪い…｡,bad….,0.0
-"I'm sorry, everyone.",ごめん…みんな｡,Sorry ... everyone.,0.42857142857142855
-I have to go back...,俺 戻るわ｡,I'm back.,0.25
-G-Go back?,も…戻るって｡,Also ... back.,0.16666666666666666
-"What are you talking about, Nitta?",なに言ってんだよ！新田！,I said that!New field!,0.0
-Why are you allowed a phone?,新田君だけ 携帯を？,Mr. Nitta alone Mobile?,0.09090909090909091
-so I have to carry my phone.,常に携帯を持たせてくれって｡,Always give me a mobile phone.,0.15384615384615385
-but the call will probably come tonight.,かかってくるはずなんだ｡きっと｡,It should come. Surely.,0.18181818181818182
-We move together.,全員で先へ進もう！,Go ahead with everyone!,0.0
-"After making camp, we can leave our stuff and search once it's dark.",夜に ２人で行く｡ハァ…｡,Go with two people at night.,0.045454545454545456
-will set out.,出発だ！,I'm departure!,0.0
-I wish I could turn back time!,《あ～ 時間戻してぇ！》,"""A to return back!""",0.16666666666666666
-I also have a little brother.,俺にも１人 弟がいる｡,I have one brother.,0.5
-We haven't spoken in two years.,話すのは２年ぶりになる｡,Talking is for the first time in two years.,0.2857142857142857
-But I need to do something.,何とかしたいんだ｡,I would like to do something.,0.5555555555555556
-I don't see it anywhere...,ねえな 携帯…》,"Hey mobile ... """,0.1
-what's your brother's name?,ハァ…ハァ…｡,Hua ....,0.0
-He's a gentle person.,あいつは…優しい奴だ｡,He is a kind guy.,0.3333333333333333
-But it only lasted six months.,その時は半年ほどで済んだんだ｡,"At that time, I finished half a year.",0.0625
-Just hopeless...,どうしようもねえ…｡,What to do ....,0.14285714285714285
-at such a young age.,うらやましく思うぜ…｡,I think I'm sorry ....,0.09090909090909091
-Your little brother's special.,たいしたもんだよ 弟⦆,I'm sorry I'm a big brother,0.09090909090909091
-"You first,",⦅ど～ぞ お兄さん⦆,⦅⦅お⦆⦆,0.0
-Ever since we first met...,《出会った時から ずっと…》,"""From the time of meeting ...""",0.07692307692307693
-I already know all that!,《わかってるよ｡それぐらい！》,"""I understand. That's right!""",0.25
-This is your news at noon.,[TV]お昼のニュースです｡➡,[TV] It is the news of lunch.,0.21428571428571427
-Nanba Hibito is currently...,南波日々人さんは現在…｡,Southwood Desponsion is now ....,0.2222222222222222
-Don't worry about it.,気にすんな｡,Don `t worry.,0.2222222222222222
-"And I hate to say it after all our backtracking,",ここまで来て今さらなんだが…➡,"I'm here to come here, but now ... ➡",0.16666666666666666
-My brother probably,電話をかけてこねえと思う｡,I think I call me.,0.0
-we may have already passed it.,すでに通り過ぎてるかもしれない｡,It may be overwhelmed.,0.3333333333333333
-So in the end...,なんの役にも立たねえ兄貴か》,What kind of role is it?,0.0
-Did you forget? About the snake?,忘れたのか？ヘビの時だ｡,Have you forgotten?It is time for snake.,0.21428571428571427
-Oh! That was probably it!,そうだ！あん時だ｡,"That's it!Oh, it is time.",0.36363636363636365
-How much energy can you have?,どんだけ体力あんだ お前｡,Don't your physical strength.,0.0
-"Just come out, Kazuya! Seriously!",⦅出て来い カズヤ！コラァ～‼⦆,Kazuya coming out!Cora-!⦆,0.3
-It's the Orionid meteor shower.,⦅オリオン座流星群だって｡➡,⦅Orion Meteor shower.,0.375
-or resupply vehicles carrying space junk.,熱弁してたのはカズヤだろ⦆,It is Kazuya that was heated,0.0
-"But if we go and see this, we can wish all we want.",⦅だけど こっちは…,I'm sorry but this is ...,0.1111111111111111
-We found the food here yesterday.,昨日の食料箱だ！,It is a food box yesterday!,0.16666666666666666
-That's great news.,よかったじゃねえか｡,It was good?,0.0
+en_text,jp_text,google_translated,score,semantic_score
+Like being class monitor at school.,まぁ 学校の日直みたいなもんだ＞,"Well, it looks like the day of the school>",0.13333333333333333,0.32162082
+That hurt!,⦅いてえな！何すんだ てめえ！⦆,I'm sorry!What's wrong!⦆,0.1,0.40185308
+No! Look over there!,⦅違うって！あれ見ろ！⦆,It is different!See you!⦆,0.09090909090909093,0.20085172
+Sorry...,悪い…｡,bad….,0.0,0.40228415
+"I'm sorry, everyone.",ごめん…みんな｡,Sorry ... everyone.,0.42857142857142855,0.8546703
+I have to go back...,俺 戻るわ｡,I'm back.,0.25,0.47722802
+G-Go back?,も…戻るって｡,Also ... back.,0.16666666666666666,0.33659
+"What are you talking about, Nitta?",なに言ってんだよ！新田！,I said that!New field!,0.0,0.09021765
+Why are you allowed a phone?,新田君だけ 携帯を？,Mr. Nitta alone Mobile?,0.09090909090909093,0.2662468
+so I have to carry my phone.,常に携帯を持たせてくれって｡,Always give me a mobile phone.,0.15384615384615385,0.52660435
+but the call will probably come tonight.,かかってくるはずなんだ｡きっと｡,It should come. Surely.,0.18181818181818185,0.42078602
+We move together.,全員で先へ進もう！,Go ahead with everyone!,0.0,0.28271547
+"After making camp, we can leave our stuff and search once it's dark.",夜に ２人で行く｡ハァ…｡,Go with two people at night.,0.045454545454545456,0.22959983
+will set out.,出発だ！,I'm departure!,0.0,0.21879546
+I wish I could turn back time!,《あ～ 時間戻してぇ！》,"""A to return back!""",0.16666666666666666,0.30691543
+I also have a little brother.,俺にも１人 弟がいる｡,I have one brother.,0.5,0.812541
+We haven't spoken in two years.,話すのは２年ぶりになる｡,Talking is for the first time in two years.,0.2857142857142857,0.6480982
+But I need to do something.,何とかしたいんだ｡,I would like to do something.,0.5555555555555556,0.65494007
+I don't see it anywhere...,ねえな 携帯…》,"Hey mobile ... """,0.1,0.21042494
+what's your brother's name?,ハァ…ハァ…｡,Hua ....,0.0,0.17322148
+He's a gentle person.,あいつは…優しい奴だ｡,He is a kind guy.,0.3333333333333333,0.5997882
+But it only lasted six months.,その時は半年ほどで済んだんだ｡,"At that time, I finished half a year.",0.0625,0.28914124
+Just hopeless...,どうしようもねえ…｡,What to do ....,0.14285714285714285,0.40437466
+at such a young age.,うらやましく思うぜ…｡,I think I'm sorry ....,0.09090909090909093,0.13347143
+Your little brother's special.,たいしたもんだよ 弟⦆,I'm sorry I'm a big brother,0.09090909090909093,0.38612074
+"You first,",⦅ど～ぞ お兄さん⦆,⦅⦅お⦆⦆,0.0,0.093627416
+Ever since we first met...,《出会った時から ずっと…》,"""From the time of meeting ...""",0.07692307692307693,0.31755126
+I already know all that!,《わかってるよ｡それぐらい！》,"""I understand. That's right!""",0.25,0.27005193
+This is your news at noon.,[TV]お昼のニュースです｡➡,[TV] It is the news of lunch.,0.21428571428571427,0.39726508
+Nanba Hibito is currently...,南波日々人さんは現在…｡,Southwood Desponsion is now ....,0.2222222222222222,0.05478821
+Don't worry about it.,気にすんな｡,Don `t worry.,0.2222222222222222,0.83382964
+"And I hate to say it after all our backtracking,",ここまで来て今さらなんだが…➡,"I'm here to come here, but now ... ➡",0.16666666666666666,0.06991905
+My brother probably,電話をかけてこねえと思う｡,I think I call me.,0.0,0.21843186
+we may have already passed it.,すでに通り過ぎてるかもしれない｡,It may be overwhelmed.,0.3333333333333333,0.28059533
+So in the end...,なんの役にも立たねえ兄貴か》,What kind of role is it?,0.0,0.10611476
+Did you forget? About the snake?,忘れたのか？ヘビの時だ｡,Have you forgotten?It is time for snake.,0.21428571428571427,0.7961411
+Oh! That was probably it!,そうだ！あん時だ｡,"That's it!Oh, it is time.",0.3636363636363637,0.37206912
+How much energy can you have?,どんだけ体力あんだ お前｡,Don't your physical strength.,0.0,0.22461274
+"Just come out, Kazuya! Seriously!",⦅出て来い カズヤ！コラァ～‼⦆,Kazuya coming out!Cora-!⦆,0.3,0.721467
+It's the Orionid meteor shower.,⦅オリオン座流星群だって｡➡,⦅Orion Meteor shower.,0.375,0.8836116
+or resupply vehicles carrying space junk.,熱弁してたのはカズヤだろ⦆,It is Kazuya that was heated,0.0,-0.018587653
+"But if we go and see this, we can wish all we want.",⦅だけど こっちは…,I'm sorry but this is ...,0.1111111111111111,0.20506209
+We found the food here yesterday.,昨日の食料箱だ！,It is a food box yesterday!,0.16666666666666666,0.6140523
+That's great news.,よかったじゃねえか｡,It was good?,0.0,0.16228117

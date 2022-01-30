@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774587
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017531
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048284
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.21940824
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387683
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586984
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41970003
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,29 +68,29 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.55187774
 Sasuke!,"(ｻｸﾗ)
 サスケ君！
 
-",Sasuke-kun!,0.3333333333333333
+",Sasuke-kun!,0.3333333333333333,0.84763306
 "Naruto's certainly different
 from you, Sasuke.","ナルトは確かに
 サスケ君と違って➡
 
 ","Naruto is certainly
-Unlike Sasuke-kun",0.16666666666666666
+Unlike Sasuke-kun",0.16666666666666666,0.85510063
 But he's not in the least a coward!,"少なくとも
 臆病者なんかじゃないわ！
 
 ","at least
-It's not a coward!",0.5
+It's not a coward!",0.5,0.8383666
 Right? Isn't that's right?!,"ねぇ！
  
 そうでしょ!?
 
 ","Hey!
  
-Right!?",0.375
+Right!?",0.375,0.41568142
 <i>You foolish little brother.</i>,"(ｲﾀﾁ)
 ＜愚かなる弟よ
 ｡
@@ -98,7 +98,7 @@ Right!?",0.375
 
 ","<Foolish brother
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.75435656
 <i>continue to live your ugly life.</i>,"(ｲﾀﾁ)
 ＜逃げて
  
@@ -108,15 +108,15 @@ Right!?",0.375
 ","<Run away
  
 Escape to
-Live life is good>",0.25
+Live life is good>",0.25,0.39994803
 No!,"違う！
 
-",different!,0.3333333333333333
+",different!,0.3333333333333333,0.37621814
 His blood has begun to stir...,"血が騒ぎ始めたようね
 ｡
 
 ","It seems that blood started to make a noise
-.",0.13333333333333333
+.",0.13333333333333333,0.5566504
 "I should take my time and
 confirm his true power.","(
 忍
@@ -129,7 +129,7 @@ confirm his true power.","(
 ","Sexual
  
 My house
-.",0.15384615384615385
+.",0.15384615384615385,0.10662572
 "<i>I have to live so I can kill</i>
 <i>my older brother...</i>","《俺は兄貴を殺すために
 生き残らなきゃならない
@@ -139,7 +139,7 @@ My house
 ","""I'm going to kill my brother
 I have to survive
 .
-➡",0.3
+➡",0.3,0.7355555
 <i>But it's me who was being stupid.</i>,"だが
  
 間が抜けてたのは
@@ -152,28 +152,28 @@ I have to survive
 It was missing
 It seems that I was
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.37906447
 <i>Sakura!</i>,"ナルト！
  
 サクラ！➡
 
 ","Naruto!
  
-Sakura!➡",0.25
+Sakura!➡",0.25,0.83911777
 "<i>How can someone who can't put</i>
 <i>his life on the line at a place like this...</i>","こんな所で
 命を懸けられないようなヤツが➡
 
 ","In such a place
-A guy who can not get lost",0.14285714285714285
+A guy who can not get lost",0.14285714285714285,0.32221448
 <i>I can see!</i>,"《見えるぞ！》
 
-","""I see!""",0.3333333333333333
+","""I see!""",0.3333333333333333,0.4632544
 It's pretty good...,"ハァ～…
 ｡
 
 ","Hua ...
-.",0.14285714285714285
+.",0.14285714285714285,0.22040895
 "You foretell my movements and
 your aim is sure.","私の動きを先読みして
 確実に狙ってくる
@@ -183,14 +183,14 @@ your aim is sure.","私の動きを先読みして
 ","Leading my movement
 I'm sure I'm aiming for
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.6696052
 <i>I must find him quickly!</i>,"早く見つけないと
 ｡
 ➡
 
 ","I have to find it quickly
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.52708673
 "<i>It will become completely dark</i>
 <i>and my disadvantage will increase.</i>","完全に闇になれば
 こっちが
@@ -204,11 +204,11 @@ Here
  
 Disadvantageous
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.8235905
 "<i>But why in the world right now...</i>
 <i>what's his goal?</i>","目的は何？》
 
-","What is the purpose?""",0.15
+","What is the purpose?""",0.15,0.36897942
 "<i>He came to this village.</i>
 <i>I'll settle this here and now.</i>","(ｱﾝｺ)
 《まぁ
@@ -219,32 +219,32 @@ Disadvantageous
 ","""Well
  
 Right on
-If you came to this village",0.14285714285714285
+If you came to this village",0.14285714285714285,0.59879696
 I got you!,"もらった～！
 
-",I got!,0.75
+",I got!,0.75,0.76542556
 A substitution!,"変わり身!?
 
-",Change!,0.25
+",Change!,0.25,0.4660687
 The Uchiha name is crying.,"うちはの名が泣くわよ
 ｡
 ➡
 
 ","My name is crying
 .
-➡",0.5
+➡",0.5,0.51593304
 Like a worm.,"虫けらのように
 ｡
 
 ","Indisting
-.",0.2
+.",0.2,0.083459616
 <i>Fire Style. Dragon Flame Jutsu.</i>,"《火[外:99C09079206BA433E50523B592C8055A]
  
 龍火の術！》
 
 ","""Fire: 99C09079206BA433E50523B592C8055A]
  
-Dragon fire technique!""",0.11764705882352941
+Dragon fire technique!""",0.1176470588235294,0.61366045
 You did it!,"ハァ
  
 ハァ…
@@ -255,12 +255,12 @@ You did it!,"ハァ
  
 Hua ...
 .
-I did it!",0.3333333333333333
+I did it!",0.3333333333333333,0.43981797
 Hang on.,"あ…
 ｡
 
 ","Ah…
-.",0.25
+.",0.25,0.17138717
 Paralysis?,"大丈夫？
  
 しっかりして
@@ -269,7 +269,7 @@ Paralysis?,"大丈夫？
 ","fine?
  
 Firmly
-.",0.2
+.",0.2,0.3146876
 "You are truly a member
 of the Uchiha clan.","さすが
 うちはの名を継ぐ男だわ
@@ -279,7 +279,7 @@ of the Uchiha clan.","さすが
 ","Indeed
 A man who succeeds the name of
 .
-➡",0.25
+➡",0.25,0.24500063
 "I do want you, after all.","やっぱり
  
 私は君が欲しい
@@ -288,7 +288,7 @@ A man who succeeds the name of
 ","on second thoughts
  
 I want you
-.",0.36363636363636365
+.",0.3636363636363637,0.5189796
 "Your eyes hide more ability
 than that Itachi.","あのイタチ以上の能力を秘めた
 眼をしている
@@ -296,25 +296,25 @@ than that Itachi.","あのイタチ以上の能力を秘めた
 
 ","I had the ability of that Itachi or more
 Oshi
-.",0.3333333333333333
+.",0.3333333333333333,0.71497226
 Who in the world are you?,"お前は一体
  
 何者だ!?
 
 ","You are one
  
-Who are you!?",0.4444444444444444
+Who are you!?",0.4444444444444444,0.6233723
 My name is Orochimaru...,"私の名は大蛇丸
 ｡
 
 ","My name is a large snake
-.",0.3333333333333333
+.",0.3333333333333333,0.42132637
 "If you think you want to meet me again,
 desperately run to the top of this test.","もし君が
 再び私に会いたいと思うなら➡
 
 ","If you are
-If you want to see me again",0.3157894736842105
+If you want to see me again",0.3157894736842105,0.41924262
 "Sound Village Ninja
 under my control.","あっ
  
@@ -328,7 +328,7 @@ under my control.","あっ
  
 The scroll!
 
-Under my control",0.2727272727272727
+Under my control",0.2727272727272727,0.3231172
 "<i>We</i> don't want to see
 your face ever again, got it?!","こっちはもう
  
@@ -338,7 +338,7 @@ your face ever again, got it?!","こっちはもう
 ","Here
  
 Annual face
-I do not want to see it twice!",0.34782608695652173
+I do not want to see it twice!",0.3478260869565217,0.5889389
 That won't do.,"フフフ…
  
 そうはいかないのよ
@@ -347,19 +347,19 @@ That won't do.,"フフフ…
 ","Fuhufu ...
  
 I can not do so
-.",0.18181818181818182
+.",0.18181818181818185,0.2121374
 "You, what did you do to Sasuke?","あんた！
 サスケ君に何をしたのよ！
 
 ","Ah!
-What did Sasuke did!",0.3
+What did Sasuke did!",0.3,0.81803834
 I gave him a parting gift.,"別れのプレゼントをあげたのよ
 ｡
 ➡
 
 ","I gave a prepare for farewell
 .
-➡",0.36363636363636365
+➡",0.3636363636363637,0.39251828
 "Sasuke absolutely would
 come look for me...","サスケ君は必ず私を求める
 ｡
@@ -367,14 +367,14 @@ come look for me...","サスケ君は必ず私を求める
 
 ","Sasuke always asks for me
 .
-➡",0.25
+➡",0.25,0.7915864
 Iooking for power.,"力を求めてね
 ｡
 ➡
 
 ","In search of power
 .
-➡",0.25
+➡",0.25,0.57132995
 I enjoyed seeing your various powers.,"いろいろと
  
 君の力が見られて
@@ -387,10 +387,10 @@ I enjoyed seeing your various powers.,"いろいろと
 Your power is seen
 It was fun
 .
-➡",0.1875
+➡",0.1875,0.68339753
 C'mon!,"うあ～！
 
-",Uh!,0.3333333333333333
+",Uh!,0.3333333333333333,0.51943403
 Sasuke...,"あ…
 ｡
 サスケ君…
@@ -399,7 +399,7 @@ Sasuke...,"あ…
 ","Ah…
 .
 Sasuke-kun ...
-.",0.2
+.",0.2,0.82525194
 Naruto!,"ナルト～！
  
 サスケ君が…
@@ -408,26 +408,26 @@ Naruto!,"ナルト～！
 ","Naruto ~!
  
 Sasuke-kun ...
-.",0.3333333333333333
+.",0.3333333333333333,0.83862484
 Sasuke's... Sasuke's!,"サスケ君ってば！
 
-",Sasuke You're sorry!,0.2857142857142857
+",Sasuke You're sorry!,0.2857142857142857,0.7219862
 What should I do?,"私
  
 どうしたらいいの？
 
 ","Me 
  
- What should I do?",0.8333333333333334
+ What should I do?",0.8333333333333334,0.8456391
 <i>I can feel it!</i>,"(ｱﾝｺ)
 《感じる！》
 
-","""feel!""",0.2
+","""feel!""",0.2,0.47363222
 Anko.,"アンコ
 ｡
 
 ","Anko
-.",1.0
+.",1.0,1.0
 "an extremely dangerous person on
 the most wanted list.","(ｱﾝｺ)
 あんたは
@@ -446,7 +446,7 @@ Already
 Street book level
 S-class super haiting person
 .
-➡",0.1
+➡",0.1,0.23620182
 "That's why I'll kill you here
 even if it costs my life.","だから
  
@@ -468,7 +468,7 @@ Even if you replace life
  
 Let's try
 .
-➡",0.5
+➡",0.5,0.42771938
 "who learned it all from you.
 Isn't that right, Orochimaru?!","それが
 あんたから
@@ -478,7 +478,7 @@ Isn't that right, Orochimaru?!","それが
 ","that is
 From you
  
-I was taught everything",0.21052631578947367
+I was taught everything",0.21052631578947367,0.438875
 "No, you can't.","フフッ
  
 久しぶりね
@@ -489,10 +489,10 @@ I was taught everything",0.21052631578947367
  
 Long time no see, eh
 .
-➡",0.25
+➡",0.25,0.06373684
 Striking Shadow Snake!,"う～！
 
-",!,0.25
+",!,0.25,0.25665838
 "Orochimaru,
 I'm gonna borrow your left hand.","大蛇丸
  
@@ -506,7 +506,7 @@ I'm gonna borrow your left hand.","大蛇丸
 Annow's left hand
  
 I borrow it
-.",0.29411764705882354
+.",0.29411764705882354,0.44437084
 <i>This hand sign...</i>,"(
 大蛇丸
 )
@@ -516,7 +516,7 @@ I borrow it
 
 ","""Uh
  
-This mark is ... """,0.16666666666666666
+This mark is ... """,0.16666666666666666,0.4212637
 Right... you and I are going to die here.,"そう
  
 あなたも
@@ -531,19 +531,19 @@ you too
  
 me too
 I will die here
-.",0.3333333333333333
+.",0.3333333333333333,0.66930866
 You intend to commit suicide?,"あなた
  
 自殺するつもり？
 
 ","you
  
-Are you going to commit suicide?",0.625
+Are you going to commit suicide?",0.625,0.8903179
 Substitution.,"変わり身よ
 ｡
 
 ","Changing
-.",0.3333333333333333
+.",0.3333333333333333,0.4576226
 "As you are a Special Jonin
 of the village,","仮にも
  
@@ -555,7 +555,7 @@ of the village,","仮にも
  
 You are
 Because it is a special shot of village
-.",0.375
+.",0.375,0.47255915
 Why have you come now?,"(ｱﾝｺ)
 いまさら
  
@@ -563,13 +563,13 @@ Why have you come now?,"(ｱﾝｺ)
 
 ","Now
  
-What did you come?",0.5
+What did you come?",0.5,0.70030046
 "It's our reunion after so long,
 and you're awfully cold.","ずいぶんと冷たいのね
 ｡
 
 ","It's so cold
-.",0.35714285714285715
+.",0.35714285714285715,0.5658057
 "I don't have enough
 subordinates for that yet...","いやいや…
  
@@ -581,7 +581,7 @@ subordinates for that yet...","いやいや…
  
 for that purpose
 There is not enough subordinates
-.",0.3125
+.",0.3125,0.7790816
 "I've heard of the excellence ones of
 this village and thought I'd put dibs on it.","この里の優秀そうなのに
 唾つけておこうと思ってね
@@ -589,7 +589,7 @@ this village and thought I'd put dibs on it.","この里の優秀そうなのに
 
 ","Even though this village is excellent
 I'm thinking of spiting
-.",0.20833333333333334
+.",0.20833333333333331,0.46933326
 There's a kid that I want.,"プレゼントしてきた
 ところなのよ
 ｡
@@ -598,7 +598,7 @@ There's a kid that I want.,"プレゼントしてきた
 ","I have given a present
 It's about
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.16160949
 Selfish as always.,"勝手ね
  
 相変わらず
@@ -607,7 +607,7 @@ Selfish as always.,"勝手ね
 ","Selfish
  
 As usual
-.",0.6
+.",0.6,0.89455295
 That kid will die.,"まず死ぬわよ
  
 その子
@@ -616,7 +616,7 @@ That kid will die.,"まず死ぬわよ
 ","First of all I will die
  
 That child
-.",0.4
+.",0.4,0.7454952
 but he may survive just like you did.,"だけど
  
 お前と同じで
@@ -627,7 +627,7 @@ but he may survive just like you did.,"だけど
  
 Same as you
 It may not die
-.",0.2
+.",0.2,0.5140447
 Are you jealous?,"(
 大蛇丸
 )
@@ -639,11 +639,11 @@ Are you jealous?,"(
 ","Are you jealous?
  
 Hey
-.",0.6666666666666666
+.",0.6666666666666666,0.86485755
 "Are you still holding a grudge
 that I used you and threw you away?","お前を使い捨てにしたこと➡
 
-",I used you to discard,0.2
+",I used you to discard,0.2,0.5581389
 "For one thing he inherited
 the Uchiha ability.","何せ
  
@@ -661,7 +661,7 @@ Because it is a boy
  
 Hook
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.3969552
 "He has beautiful features and is
 a vessel who can become my heir.","容姿も美しいし
 私の世継ぎになれる器ね
@@ -671,7 +671,7 @@ a vessel who can become my heir.","容姿も美しいし
 ","The appearance is also beautiful
 An instrument that can be my shot
 .
-➡",0.21739130434782608
+➡",0.21739130434782608,0.38870376
 "If that kid lived,
 it will make things interesting.","あの子が生きていたとしたら
 おもしろいことになる
@@ -679,7 +679,7 @@ it will make things interesting.","あの子が生きていたとしたら
 
 ","If that child was alive
 It will be interesting
-.",0.4
+.",0.4,0.8159131
 Be sure not to cancel this test.,"くれぐれも
 この試験
  
@@ -690,7 +690,7 @@ Be sure not to cancel this test.,"くれぐれも
 This test
  
 Don't cancel
-.",0.36363636363636365
+.",0.3636363636363637,0.85513425
 "Three people from my village
 are also under your care.","(
 大蛇丸
@@ -707,12 +707,12 @@ As much as three
  
 I am indebted
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.63047504
 Make me enjoy it.,"まだ根に持ってるんだ
 ｡
 
 ","I still have it
-.",0.25
+.",0.25,0.2167078
 "<i>If something happens to</i>
 <i>deprive me of my fun,</i>","(
 大蛇丸
@@ -725,14 +725,14 @@ Make me enjoy it.,"まだ根に持ってるんだ
 ","if
  
 My fun
-If there is something to take away",0.2777777777777778
+If there is something to take away",0.2777777777777778,0.59008324
 <i>consider it the end of Leaf Village.</i>,"木ノ葉の里は
 終わりだと思いなさい
 ｡
 
 ","The village of Kinoha
 I think it is the end
-.",0.3125
+.",0.3125,0.5384953
 "We've secured food and water after
 spending half a day","(
 ネジ
@@ -741,7 +741,7 @@ spending half a day","(
 食料と水は確保できたし➡
 
 ","Using half a day
-Food and water can be secured ➡",0.4666666666666667
+Food and water can be secured ➡",0.4666666666666667,0.731029
 "As we planned,
 this is the time that we attack.","予定どおり
  
@@ -753,7 +753,7 @@ this is the time that we attack.","予定どおり
  
 Aim at this time
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.4133196
 We'll split up into three and go scouting.,"いったん３人に分かれて
 偵察に行く
 ｡
@@ -762,7 +762,7 @@ We'll split up into three and go scouting.,"いったん３人に分かれて
 ","Divided into three people
 Reconnaissance
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.35526106
 "However, whether we find
 other teams or not,","ただし
  
@@ -772,17 +772,17 @@ other teams or not,","ただし
 ","However
  
 Even if you find another team
-Even if you do not find it",0.1875
+Even if you do not find it",0.1875,0.738027
 we return to this place.,"この場所へ戻ってくる
 ｡
 ➡
 
 ","Return to this place
 .
-➡",0.7142857142857143
+➡",0.7142857142857143,0.68902385
 Got it?,"いいな？
 
-",Is it all right?,0.3333333333333333
+",Is it all right?,0.3333333333333333,0.25858304
 Roger.,"(ﾃﾝﾃﾝ)
 ＯＫ
 ｡
@@ -796,7 +796,7 @@ Roger.,"(ﾃﾝﾃﾝ)
 .
 
 Roger
-.",0.6666666666666666
+.",0.6666666666666666,0.85041165
 Scatter!,"(
 ネジ
 )
@@ -806,13 +806,13 @@ Scatter!,"(
 
 ","Good
  
-Suspension!",0.25
+Suspension!",0.25,0.23171327
 "His breathing is gradually
 getting regular...","だんだん
 呼吸は整ってきたけれど➡
 
 ","gradually
-Breathing has been ready",0.2
+Breathing has been ready",0.2,0.67615914
 but he still has a terrible fever.,"でも
  
 まだ
@@ -825,10 +825,10 @@ but he still has a terrible fever.,"でも
 not yet
  
 Terrible heat
-.",0.2727272727272727
+.",0.2727272727272727,0.47051322
 <i>I have to protect them both.</i>,"私が２人を守らなきゃ》
 
-",I have to keep two people,0.25
+",I have to keep two people,0.25,0.44873294
 Cripes! At a time like this!,"(ｱﾝｺ)
 《急いで
  
@@ -838,7 +838,7 @@ Cripes! At a time like this!,"(ｱﾝｺ)
 ","""Quickly
  
 This thing
-Do not know like fire lap",0.13333333333333333
+Do not know like fire lap",0.13333333333333333,0.18892759
 "Are you okay, hey?","(
 忍１
 )
@@ -852,7 +852,7 @@ Do not know like fire lap",0.13333333333333333
  
 Oi
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.7168628
 Huh? T-This is!,"あっ
  
 こ…
@@ -863,14 +863,14 @@ Huh? T-This is!,"あっ
  
 child…
  
-this is!➡",0.2222222222222222
+this is!➡",0.2222222222222222,0.5904909
 Is it Orochimaru?,"まさか
  
 大蛇丸か？
 
 ","Masadish
  
-Is it a big snake?",0.375
+Is it a big snake?",0.375,0.2962081
 "What, really?","(
 忍２
 )
@@ -880,7 +880,7 @@ Is it a big snake?",0.375
 
 ","What did you say?
  
-Really?",0.42857142857142855
+Really?",0.42857142857142855,0.62968624
 "Now that it's come to this,
 we'll take you to Lord Hokage.","(
 忍１
@@ -895,7 +895,7 @@ we'll take you to Lord Hokage.","(
  
 When it comes to this
 Take you to a place where you fire
-.",0.2727272727272727
+.",0.2727272727272727,0.24729547
 "No, take me to the tower.","(ｱﾝｺ)
 い…
  
@@ -909,7 +909,7 @@ Take you to a place where you fire
 home
  
 Go to the tower
-.",0.36363636363636365
+.",0.3636363636363637,0.46645764
 What are you saying?,"(
 忍２
 )
@@ -919,7 +919,7 @@ What are you saying?,"(
 
 ","What you are saying
 .
-➡",0.5714285714285714
+➡",0.5714285714285714,0.5917939
 a strict alert is issued.,"大蛇丸が
  
 この里に来た時点で
@@ -932,7 +932,7 @@ a strict alert is issued.,"大蛇丸が
 When he came to this village
 A strict constellation is issued
 .
-➡",0.3125
+➡",0.3125,0.20595638
 I know...,"試験どころじゃない
 ｡
 (ｱﾝｺ)
@@ -943,13 +943,13 @@ I know...,"試験どころじゃない
 .
 
 I know
-.",0.2857142857142857
+.",0.2857142857142857,0.37419873
 "Anyway, I'll tell the whole story later,
 so please call for Lord Hokage.","火影様も呼んでちょうだい
 ｡
 
 ","Call the fire shadow
-.",0.16666666666666666
+.",0.16666666666666666,0.2278823
 I found you.,"(
 ドス
 )
@@ -963,7 +963,7 @@ I found you.,"(
  
 I found it
 .
-➡",0.375
+➡",0.375,0.36443293
 "Sasuke Uchiha is our target,
 not the other.","あくまでもターゲットは
 うちはサスケ
@@ -971,7 +971,7 @@ not the other.","あくまでもターゲットは
 
 ","Targets
 My house is Sasuke
-.",0.23076923076923078
+.",0.2307692307692308,0.7401793
 "If they come in the way,
 it's okay to kill the other two, right?","(
 ザク
@@ -986,7 +986,7 @@ it's okay to kill the other two, right?","(
  
 Good morning
 Two other people can kill
-.",0.13636363636363635
+.",0.13636363636363635,0.5135259
 Of course.,"(
 ドス
 )
@@ -994,7 +994,7 @@ Of course.,"(
 ｡
 
 ","of course
-.",1.0
+.",1.0,1.0
 "<i>when you want to cry, and you want to run away</i>","♬
  
 君は
@@ -1005,14 +1005,14 @@ Of course.,"(
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.3908757
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.28646752
 "Yeah, I did it!
 I did it, Guy Sensei!","♬
  
@@ -1020,7 +1020,7 @@ I did it, Guy Sensei!","♬
 
 ","♬
  
-I want to cry",0.08333333333333333
+I want to cry",0.08333333333333333,0.12649566
 "You could say, in terms of numbers,
 the disadvantage is mine!","♬
  
@@ -1028,4 +1028,4 @@ the disadvantage is mine!","♬
 
 ","♬
  
-In this hand",0.0625
+In this hand",0.0625,0.10969046

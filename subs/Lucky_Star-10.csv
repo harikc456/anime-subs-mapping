@@ -1,39 +1,39 @@
-en_text,jp_text,google_translated,score
-"Okay, let's do this!",今度は洗濯しないようにね,I hope you do not wash this time,0.15384615384615385
-The ambiguous 3cm?\NDoes that mean it's plushy? Wait!,接近3ピクト するまでってちゅーちょだ やん☆,It is a churche until the approaching 3 pictures ☆,0.1
-"Darlin', darlin', freeze!",あ　は――い,"Oh, yes",0.14285714285714285
-Getsuyoubi nanoni!,どっちなんだろう警察官ー!!,Which one would be a police officer !!,0.1
-Already in a bad mood? What to do?,ってなワケで、交通安全週間で取締強化とかやってんの,"In the case of a safe week,",0.13333333333333333
-I really prefer the summer outfits\N<- kya! wah! good!  ♥,細かくチェックしたり、いちいち交通ルール説明したり,Details of the traffic rules,0.058823529411764705
-"Do your best, be energetic",ルールとか安全とか説得力ないヨ,"Rules, safety or persuasive yo",0.09090909090909091
-Desires,読書でもして待ちましょう,Let's wait for reading,0.0
-I'm here to visit!,ここはどこでしょう―――!?,Where am I now---!?,0.16666666666666666
-What are you playing?,高良みゆきさーん　いませんか？,Aren't you going to be Takara Miyuki?,0.2727272727272727
-This is an age-restricted title...,ふぅ…っ,Fu ...,0.14285714285714285
-"I hear that this year's cold\Nlasts for quite a long time,",まぁ　あまり気に病む必要ないんだけどね,"Well, I do not need to be a much need",0.15
-"From the reception number,\Nit looks like it will take a while.",あと、絵文字にも凝り出したみたい,"Also, it seems like I tried to fly in pictograms",0.13636363636363635
-"Then next, Miss Mariko Nishiyama?",お、あの子もようやく慣れてきたかな？,"Oh, that kind of child is getting used to it?",0.11764705882352941
-Huh? Huh?!,何？,what?,0.25
-because she texts me every day,どんだけ～,Only,0.0
-"Fielding all those messages\Nmust be a chore, too!",え!?　えぇと…あはははは,Eh!,0.09090909090909091
-but always loses wind after a while.,へぇ　けっこうたくさん登録してあるんだネ,There is a lot of himself registered,0.07142857142857142
-"It's not that they get bored with it,",臭すぎるよねー、ホント,"It's too smell, really",0.25
-What is all this after the sentence?,見られたらまずいメールとかあるの？,Is there a bad email if you see it?,0.125
-Not really. I just felt I should say that.,気付くと予定に入ってなかった物まで買っちゃうんだよね,You will buy something that you did not enter if you notice,0.11764705882352941
-A guy! It must be a guy!,同じ物を両方で一つずつ買って帰っていくという、\N伝説の少女Ａ！,\ N Legendy Girl A!,0.2
-"She's a chi... no, so young!",いやー、どうかナ,"No, no",0.2
-"She looks like me, huh?",もう寝ていいかー？,Would you like to go to bed already?,0.15384615384615385
-"Then, for instance,\Nwhat kind of guy is your type?",え？　あ、そこですか？,"picture?Oh, is there?",0.2
-I think it would be Kyou-chan.,うわっ　マジで使ってやがるっ,I use it with a serious,0.18181818181818182
-"Oh, you've got good taste there!",おは☆らっきー,Oh ☆ wrap,0.09090909090909091
-"Hey, Kagami-sama!",立てよ国民!!,Nice people!!,0.16666666666666666
-Wah! She's seriously using it!,あえて断言しよう！,Let's add it!,0.3333333333333333
-pointed to a change of heart\Nas time passed!,いっぱいいっぱい　いっぱいいっぱい,A lot of full full,0.18181818181818182
-Do you really know\Nthe meaning of hits?,どどどうしました？,How did you do?,0.3
-"But now, it is understood\Nas a portrayal",今までで一番のできですね,It is the best so far,0.16666666666666666
-"she acts prickly on the outside,",は、はい！　あの、僕は今までで一番喋ってですね,"Yes!That, I am the best to come",0.13333333333333333
-You're going to leave it to others?,つかさ達、決まったの？,Is it decided to be decided?,0.2727272727272727
-"Oh, well.",じゃあこれにしなよ,Well then this is,0.14285714285714285
-"Lots and lots, lots and lots...",すみません、私も…,"Excuse me, I too ...",0.25
-It's not that I can make\Na fortune out of it.,しょうがないでしょ、高いもん,"I can not help, high",0.21428571428571427
-"I'm proud, a passion that is\Nabout to break and crumble",じゃなんのために袋分けたのよーっ！って思っちゃったり,"Well, I'm addicted for a bag!I think",0.2222222222222222
+en_text,jp_text,google_translated,score,semantic_score
+"Okay, let's do this!",今度は洗濯しないようにね,I hope you do not wash this time,0.15384615384615385,0.16218247
+The ambiguous 3cm?\NDoes that mean it's plushy? Wait!,接近3ピクト するまでってちゅーちょだ やん☆,It is a churche until the approaching 3 pictures ☆,0.1,0.30192566
+"Darlin', darlin', freeze!",あ　は――い,"Oh, yes",0.14285714285714285,0.1712786
+Getsuyoubi nanoni!,どっちなんだろう警察官ー!!,Which one would be a police officer !!,0.1,0.06969634
+Already in a bad mood? What to do?,ってなワケで、交通安全週間で取締強化とかやってんの,"In the case of a safe week,",0.13333333333333333,0.06134656
+I really prefer the summer outfits\N<- kya! wah! good!  ♥,細かくチェックしたり、いちいち交通ルール説明したり,Details of the traffic rules,0.05882352941176471,-0.055163994
+"Do your best, be energetic",ルールとか安全とか説得力ないヨ,"Rules, safety or persuasive yo",0.09090909090909093,0.14304963
+Desires,読書でもして待ちましょう,Let's wait for reading,0.0,0.19288099
+I'm here to visit!,ここはどこでしょう―――!?,Where am I now---!?,0.16666666666666666,0.3915707
+What are you playing?,高良みゆきさーん　いませんか？,Aren't you going to be Takara Miyuki?,0.2727272727272727,0.12405598
+This is an age-restricted title...,ふぅ…っ,Fu ...,0.14285714285714285,0.19168606
+"I hear that this year's cold\Nlasts for quite a long time,",まぁ　あまり気に病む必要ないんだけどね,"Well, I do not need to be a much need",0.15,0.057276446
+"From the reception number,\Nit looks like it will take a while.",あと、絵文字にも凝り出したみたい,"Also, it seems like I tried to fly in pictograms",0.13636363636363635,0.17065397
+"Then next, Miss Mariko Nishiyama?",お、あの子もようやく慣れてきたかな？,"Oh, that kind of child is getting used to it?",0.1176470588235294,0.115317024
+Huh? Huh?!,何？,what?,0.25,0.37931266
+because she texts me every day,どんだけ～,Only,0.0,0.13116303
+"Fielding all those messages\Nmust be a chore, too!",え!?　えぇと…あはははは,Eh!,0.09090909090909093,0.21015432
+but always loses wind after a while.,へぇ　けっこうたくさん登録してあるんだネ,There is a lot of himself registered,0.07142857142857142,0.0100071095
+"It's not that they get bored with it,",臭すぎるよねー、ホント,"It's too smell, really",0.25,0.2142304
+What is all this after the sentence?,見られたらまずいメールとかあるの？,Is there a bad email if you see it?,0.125,0.05212341
+Not really. I just felt I should say that.,気付くと予定に入ってなかった物まで買っちゃうんだよね,You will buy something that you did not enter if you notice,0.1176470588235294,0.0137576815
+A guy! It must be a guy!,同じ物を両方で一つずつ買って帰っていくという、\N伝説の少女Ａ！,\ N Legendy Girl A!,0.2,0.38348255
+"She's a chi... no, so young!",いやー、どうかナ,"No, no",0.2,0.22182813
+"She looks like me, huh?",もう寝ていいかー？,Would you like to go to bed already?,0.15384615384615385,0.18056375
+"Then, for instance,\Nwhat kind of guy is your type?",え？　あ、そこですか？,"picture?Oh, is there?",0.2,0.05354648
+I think it would be Kyou-chan.,うわっ　マジで使ってやがるっ,I use it with a serious,0.18181818181818185,0.027023034
+"Oh, you've got good taste there!",おは☆らっきー,Oh ☆ wrap,0.09090909090909093,0.18291457
+"Hey, Kagami-sama!",立てよ国民!!,Nice people!!,0.16666666666666666,0.20533766
+Wah! She's seriously using it!,あえて断言しよう！,Let's add it!,0.3333333333333333,0.19259807
+pointed to a change of heart\Nas time passed!,いっぱいいっぱい　いっぱいいっぱい,A lot of full full,0.18181818181818185,-0.0087348595
+Do you really know\Nthe meaning of hits?,どどどうしました？,How did you do?,0.3,0.057924695
+"But now, it is understood\Nas a portrayal",今までで一番のできですね,It is the best so far,0.16666666666666666,0.118864104
+"she acts prickly on the outside,",は、はい！　あの、僕は今までで一番喋ってですね,"Yes!That, I am the best to come",0.13333333333333333,0.07414947
+You're going to leave it to others?,つかさ達、決まったの？,Is it decided to be decided?,0.2727272727272727,0.11865587
+"Oh, well.",じゃあこれにしなよ,Well then this is,0.14285714285714285,0.4069244
+"Lots and lots, lots and lots...",すみません、私も…,"Excuse me, I too ...",0.25,0.2027108
+It's not that I can make\Na fortune out of it.,しょうがないでしょ、高いもん,"I can not help, high",0.21428571428571427,0.24651277
+"I'm proud, a passion that is\Nabout to break and crumble",じゃなんのために袋分けたのよーっ！って思っちゃったり,"Well, I'm addicted for a bag!I think",0.2222222222222222,0.21467075

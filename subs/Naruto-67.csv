@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.699969
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.623353
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.28524134
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.7599904
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.53727305
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.30791083
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522577
 "Sensei!
 Please stop this match right away!","(ﾅﾙﾄ)
 先生
@@ -84,7 +84,7 @@ right now
  
 This match
 If you stop it
-.",0.2857142857142857
+.",0.2857142857142857,0.46661705
 What?,"(ｶｶｼ)
 え？
 (ｻｸﾗ)
@@ -94,20 +94,20 @@ What?,"(ｶｶｼ)
 ","picture?
 
 Ah…
-.",0.2
+.",0.2,0.3732493
 Sasuke and I...,"♬
  
 気付かぬまま
 
 ","♬
  
-I noticed",0.16666666666666666
+I noticed",0.16666666666666666,0.18558656
 "We didn't just get here late
 for no reason.","ムダに遅れてきたわけじゃないさ
 ｡
 
 ","I'm not late for Muda
-.",0.2
+.",0.2,0.3397195
 <i>The third eye...</i>,"(ﾃﾏﾘ)
 《第三の目
 ｡
@@ -115,24 +115,24 @@ for no reason.","ムダに遅れてきたわけじゃないさ
 
 ","""Third Eye
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.7624143
 <i>There is no doubt... That Jutsu is...!</i>,"間違いない
  
 あの術…》
 
 ","no doubt
  
-That technique ... """,0.2857142857142857
+That technique ... """,0.2857142857142857,0.36303708
 "<i>As I thought, it's no good.</i>","何のつもりか知らねえが➡
 
-",What's wrong or not.,0.0625
+",What's wrong or not.,0.0625,0.23194176
 <i>This thing of mine also takes time!</i>,"《俺の
  
 こいつも時間がかかる！》
 
 ","""my
  
-This always takes time!""",0.25
+This always takes time!""",0.25,0.572214
 Hurry up!,"(
 暗部２
 )
@@ -148,7 +148,7 @@ Hurry up!,"(
 .
 
 hurry up
-.",0.25
+.",0.25,0.59759235
 Hm?,"先生
 ｡
 (ｶｶｼ)
@@ -157,7 +157,7 @@ Hm?,"先生
 ","teacher
 .
 
-Yeah?",0.2
+Yeah?",0.2,0.2221367
 "What did you mean when you said
 that you didn't get here late for nothing","ムダに遅れてきたわけじゃない
 って
@@ -167,7 +167,7 @@ that you didn't get here late for nothing","ムダに遅れてきたわけじゃ
 ","I'm not late for Muda
 In
  
-What does it mean?",0.19047619047619047
+What does it mean?",0.19047619047619047,0.47263372
 You want to know why?,"(ｶｶｼ)
 う～ん…
  
@@ -175,7 +175,7 @@ You want to know why?,"(ｶｶｼ)
 
 ","Hmm ...
  
-I want to hear?",0.3
+I want to hear?",0.3,0.30224043
 Shut up and watch him.,"(ｶｶｼ)
 黙って
  
@@ -185,7 +185,7 @@ Shut up and watch him.,"(ｶｶｼ)
 ","shut up
  
 Look at that
-.",0.3333333333333333
+.",0.3333333333333333,0.5811215
 "<i>Gaara...we never know when</i>
 <i>the signal is going to come!</i>","いつ
  
@@ -195,14 +195,14 @@ Look at that
 ","when
  
 Is a signal taken?
-I do not know!? """,0.2608695652173913
+I do not know!? """,0.2608695652173913,0.58674026
 "<i>Yeah...</i>
 <i>I'm gonna tear him open.</i>","(ｶｶｼ)
 びっくりするから
 ｡
 
 ","I'm surprised
-.",0.14285714285714285
+.",0.14285714285714285,0.15754169
 "<i>That's how it comes out.</i>
 <i>What?</i>","それで出すんだ
 ｡
@@ -210,7 +210,7 @@ I do not know!? """,0.2608695652173913
 
 ","It will come out with that
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.39925784
 <i>The contents...</i>,"え？
  
 中身だよ
@@ -221,7 +221,7 @@ I do not know!? """,0.2608695652173913
  
 It is the contents
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.49859887
 <i>I'm always a good boy!</i>,"ハハ…
  
 いつも僕は
@@ -236,7 +236,7 @@ Always I
  
 It is a good girl
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.6949759
 "<i>Yeah, let's do it.</i>","うん
  
 やろう
@@ -247,7 +247,7 @@ It is a good girl
  
 let's do it
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.6028503
 "<i>Mother, I'm watching so...</i>","母さん
  
 僕は見てるから
@@ -256,13 +256,13 @@ let's do it
 ","mother
  
 Because I'm looking
-.",0.23076923076923078
+.",0.2307692307692308,0.49390316
 "He's not even
 abiding by the plan.","我愛羅のヤツ…
 ｡
 
 ","Ira's guy ...
-.",0.16666666666666666
+.",0.16666666666666666,0.30802852
 "<i>Hey, hey, wouldn't it</i>
 <i>be better if we flee...?</i>","(ｶﾝｸﾛｳ)
 チッ
@@ -275,19 +275,19 @@ abiding by the plan.","我愛羅のヤツ…
  
 If it is
 Whatever you don't do anything
-.",0.13043478260869565
+.",0.13043478260869565,0.09984328
 Plan?,"(
 シノ
 )
 《計画？》
 
-","""plan?""",0.5
+","""plan?""",0.5,0.64487714
 How's it going?,"(
 忍１
 )
 いかがですかな？
 
-",How is it?,0.5
+",How is it?,0.5,0.6622026
 "Please hurry up with preparation
 for Summoning.","(
 忍１
@@ -302,7 +302,7 @@ for Summoning.","(
  
 Please hurry
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.42391255
 "I want to be sure we're able to
 make our move at any time.","いつでも動けるように
 しておきたい
@@ -310,7 +310,7 @@ make our move at any time.","いつでも動けるように
 
 ","To move at any time
 I want to
-.",0.5333333333333333
+.",0.5333333333333333,0.5664132
 "All right, I'll leave that to you.","(
 忍１
 )
@@ -326,14 +326,14 @@ I want to
 This is
  
 I'll leave it to you
-.",0.42857142857142855
+.",0.42857142857142855,0.61943173
 "The reason I decided to
 train Sasuke was...","(ｶｶｼ)
 俺がサスケの修業についたのは…
 ｡
 
 ","I was about to study Sasuke ...
-.",0.4166666666666667
+.",0.4166666666666667,0.7766861
 because he was like me.,"(ｶｶｼ)
 あいつが
 俺と似たタイプだったからだ
@@ -341,7 +341,7 @@ because he was like me.,"(ｶｶｼ)
 
 ","that guy
 Because it was a type similar to me
-.",0.3076923076923077
+.",0.3076923076923077,0.5117719
 That's right!,"(
 ガイ
 )
@@ -359,7 +359,7 @@ Devil…
  
 Masadish
  
-That is!",0.2222222222222222
+That is!",0.2222222222222222,0.2685632
 Awesome...,"(
 ガイ
 )
@@ -367,13 +367,13 @@ Awesome...,"(
 ｡
 
 ","Body activity ...
-.",0.2
+.",0.2,0.16930857
 Exactly...,"(
 風影
 )
 《まさしく…》
 
-","""Masashi ...""",0.2
+","""Masashi ...""",0.2,0.08569655
 W-What the heck is that?!,"(
 ガイ
 )
@@ -385,7 +385,7 @@ W-What the heck is that?!,"(
 ","""This is
  
 Is it a family?
-Uo!",0.23076923076923078
+Uo!",0.2307692307692308,0.10807764
 "What a sound!
 What's that technique?","すごい音…
  
@@ -399,7 +399,7 @@ What's that technique?","すごい音…
 What's?
  
 That technique
-.",0.5454545454545454
+.",0.5454545454545454,0.8987961
 That's just a jab...,"(
 ガイ
 )
@@ -407,10 +407,10 @@ That's just a jab...,"(
 ｡
 
 ","It's just a thrust
-.",0.3333333333333333
+.",0.3333333333333333,0.35171145
 Huh?!,"え？
 
-",picture?,0.25
+",picture?,0.25,0.31992978
 "That's the only original technique
 of the Copy Ninja, Kakashi...","コピー忍者
  
@@ -422,10 +422,10 @@ of the Copy Ninja, Kakashi...","コピー忍者
  
 Kakashi
 Only original technique
-.",0.46153846153846156
+.",0.4615384615384616,0.9074947
 "Its secret is in the speed of the jab,","その極意は突きのスピード➡
 
-",The quarter is the speed of the thrust ➡,0.3333333333333333
+",The quarter is the speed of the thrust ➡,0.3333333333333333,0.3280889
 "and also the physical aptitude
 that gives forth a gigantic Chakra,","そして
  
@@ -439,19 +439,19 @@ that gives forth a gigantic Chakra,","そして
 Base a powerful chakra
 Physical adequacy activity
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.7348208
 "the ability of the Chakra to
 focus solely on the target,","膨大なチャクラの
 突き手への一点集中➡
 
 ","Various chakra
-One point concentration to the stir",0.2
+One point concentration to the stir",0.2,0.57396257
 "A unique sound attack similar
 to the rumbling of a thousand birds.","独特の攻撃音を奏でる
 ｡
 
 ","Play unique attack sound
-.",0.3076923076923077
+.",0.3076923076923077,0.61298686
 And that's why that technique is called...,"(
 ガイ
 )
@@ -465,19 +465,19 @@ And that's why that technique is called...,"(
 That technique
  
 Be called
-.",0.23076923076923078
+.",0.2307692307692308,0.8620895
 Chidori: One Thousand Birds!,"(
 ガイ
 )
 千鳥‼
 
-",Chidori!,0.3333333333333333
+",Chidori!,0.3333333333333333,0.7342199
 Excellent work!...,"(
 一同
 )
 あっ！
 
-",Ah!,0.2
+",Ah!,0.2,0.17795542
 Kakashi's...,"(
 猿飛
 )
@@ -489,7 +489,7 @@ Kakashi's...,"(
 ","That is
  
 Kakashi ...
-.",0.3333333333333333
+.",0.3333333333333333,0.7475814
 "Chidori...
 Also known as Lightning Blade.","(
 バキ
@@ -498,10 +498,10 @@ Also known as Lightning Blade.","(
 ｡
 
 ","Masaka ...
-.",0.2222222222222222
+.",0.2222222222222222,0.1925115
 Lightning Blade?,"雷切？
 
-",Lightning arrival?,0.5
+",Lightning arrival?,0.5,0.6262367
 "from Kakashi's ability to cut through
 lightning using that technique.","雷を斬ったという
 事実に由来する異名だ
@@ -509,19 +509,19 @@ lightning using that technique.","雷を斬ったという
 
 ","It is said that lightning was cut
 It is an nickname derived from the fact
-.",0.23809523809523808
+.",0.2380952380952381,0.504702
 <i>A-Awesome...</i>,"(
 いの
 )
 《うそくさ～い話…》
 
-","""Lie-そ ...""",0.1111111111111111
+","""Lie-そ ...""",0.1111111111111111,0.17959763
 "The secret is the speed of his jab
 that surpasses any human limitations","極意は人体の限界点ともいえる
 突きのスピードと➡
 
 ","The secret is also the limit of the human body
-Speed speed and ➡",0.35294117647058826
+Speed speed and ➡",0.35294117647058826,0.6070508
 "of a celebrated sword that
 cuts through everything.","斬れぬもののない
 名刀の一振りと化す
@@ -529,7 +529,7 @@ cuts through everything.","斬れぬもののない
 
 ","No excuse
 Slimit a masterpiece
-.",0.15384615384615385
+.",0.15384615384615385,0.19617979
 But what a reckless technique...,"(
 ガイ
 )
@@ -545,7 +545,7 @@ But what a reckless technique...,"(
 What
  
 Mucible skill ...
-.",0.2
+.",0.2,0.42482936
 That's not for you to say...,"(ｶｶｼ)
 お前が言うなよ
 ｡
@@ -553,7 +553,7 @@ That's not for you to say...,"(ｶｶｼ)
 
 ","You don't say
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.50135785
 "Right, Lee?","なっ
  
 リー君
@@ -562,16 +562,16 @@ That's not for you to say...,"(ｶｶｼ)
 ","Becoming
  
 Lee
-.",0.16666666666666666
+.",0.16666666666666666,0.6696389
 "It's beyond my scope of
 comprehension, but...","何か私には理解の範ちゅうを
 超えてるけど➡
 
 ","Something is the scope of understanding
-I'm exceeding",0.11764705882352941
+I'm exceeding",0.1176470588235294,0.5884193
 What an awesome technique!,"すごい技！
 
-",A great skill!,0.125
+",A great skill!,0.125,0.6204606
 <i>I can understand it...</i>,"(
 リー
 )
@@ -581,7 +581,7 @@ What an awesome technique!,"すごい技！
 
 ","""I understand
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.5146935
 "<i>If it were me, if I made</i>
 <i>a running start at that speed,</i>","僕なら
  
@@ -591,7 +591,7 @@ What an awesome technique!,"すごい技！
 ","I am
  
 Leaning
-That speed at that speed",0.2222222222222222
+That speed at that speed",0.2222222222222222,0.46675023
 "<i>Or rather, I couldn't.</i>","というより
  
 できない
@@ -602,7 +602,7 @@ That speed at that speed",0.2222222222222222
  
 Can not
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.46311444
 "<i>And moreover, I don't have the eyes</i>
 <i>to read that counterblow.</i>","そして
  
@@ -616,18 +616,18 @@ Can not
 To me
  
 The counter
-My eyes are ... ➡",0.18181818181818182
+My eyes are ... ➡",0.18181818181818185,0.6493438
 <i>I envy you...Sasuke!</i>,"(
 リー
 )
 《君が羨ましいよ…➡
 
-","""You are envious ... ➡",0.15384615384615385
+","""You are envious ... ➡",0.15384615384615385,0.35808328
 "<i>Even if one understands visually,</i>","｢
 目で分かっていても➡
 
 ","""
-Even if you know with eyes",0.13333333333333333
+Even if you know with eyes",0.13333333333333333,0.43339965
 "<i>it's meaningless unless</i>
 <i>one can move physically...</i>","体が動かないんじゃ
 どうしようもない
@@ -641,7 +641,7 @@ It can not be helped
 ""
 When
 .
-➡",0.125
+➡",0.125,0.3832033
 "<i>I was filled with</i>
 <i>a feeling of superiority.</i>","優越感に浸ってね
 ｡
@@ -649,13 +649,13 @@ When
 
 ","Soak a sense of superiority
 .
-➡",0.125
+➡",0.125,0.5223486
 "<i>But now, you have a body that moves</i>
 <i>at the same high speed as mine.</i>","君は僕と同じ
 高速の体を手に入れた》
 
 ","You are the same as me
-I got a high-speed body """,0.28
+I got a high-speed body """,0.28,0.6867571
 "Third Squadron.
 We are ready any time.","(
 忍２
@@ -668,7 +668,7 @@ We are ready any time.","(
 ","This good
  
 Ready
-.",0.2
+.",0.2,0.36479774
 "<i>Roger. Proceed with action</i>
 <i>at the signal.</i>","[外:4E034EE6D3C44A0FD18752B344B9784E]
 (
@@ -684,7 +684,7 @@ Ready
 Roger that
  
 Move to action with signal
-.",0.18181818181818182
+.",0.18181818181818185,0.63653755
 Looks like it's almost time.,"(
 忍１
 )
@@ -696,7 +696,7 @@ Looks like it's almost time.,"(
 ","Third party
  
 It is always good
-.",0.16666666666666666
+.",0.16666666666666666,0.10507653
 "<i>The guy who was worrying about</i>
 <i>Sasuke until just a moment ago...</i>","(ｼｶﾏﾙ)
 《フッ
@@ -707,29 +707,29 @@ It is always good
 ","""Hu
  
 until a few minutes ago
-Sasuke's worried guy ... """,0.2608695652173913
+Sasuke's worried guy ... """,0.2608695652173913,0.6846248
 <i>is now jealous of him.</i>,"(ｼｶﾏﾙ)
 《今度は
 そいつに嫉妬してやがらぁ》
 
 ","""Next time
-I'm jealous of them",0.21428571428571427
+I'm jealous of them",0.21428571428571427,0.50771666
 <i>This is the feeling!</i>,"＜あっ
  
 この感じだ！➡
 
 ","<
  
-This feeling!➡",0.4
+This feeling!➡",0.4,0.74885005
 <i>Sasuke!</i>,"＜サスケ！＞
 
-",<Sasuke!>,0.6666666666666666
+",<Sasuke!>,0.6666666666666666,0.94550633
 "<i>I want...to fight you, too.</i>","お前と戦いたい＞
 
-",I want to fight for you>,0.5
+",I want to fight for you>,0.5,0.8135455
 <i>Yeah...</i>,"＜俺も…➡
 
-",<I also ... ➡,0.375
+",<I also ... ➡,0.375,0.6776655
 What...? This warm thing...?,"(
 我愛羅
 )
@@ -743,14 +743,14 @@ What...? This warm thing...?,"(
  
 This warm
 .
-➡",0.5
+➡",0.5,0.7347474
 Blood... my blood is...!,"血が…
  
 俺の血が～‼
 
 ","Blood is…
  
-My blood is ~!",0.5714285714285714
+My blood is ~!",0.5714285714285714,0.8270802
 What is it?!,"(ｶｶｼ)
 なっ!?
 (
@@ -760,11 +760,11 @@ What is it?!,"(ｶｶｼ)
 
 ","Is it?
 
-What?",0.8
+What?",0.8,0.5108712
 <i>It's that thing's arm!</i>,"(ｶﾝｸﾛｳ)
 《あいつの腕だ！》
 
-","""Aya's arm!""",0.23076923076923078
+","""Aya's arm!""",0.2307692307692308,0.5334295
 This has never happened before.,"今まで
  
 こんなことは…
@@ -773,7 +773,7 @@ This has never happened before.,"今まで
 ","until now
  
 This is ...
-.",0.2
+.",0.2,0.2560784
 "<i>When I first saw that thing,</i>
 <i>I wasn't able to eat...</i>","初めて
  
@@ -787,41 +787,41 @@ This is ...
 When I saw that
 Because I can not eat rice
 .
-➡",0.2608695652173913
+➡",0.2608695652173913,0.58839196
 <i>What is...</i>,"この感覚は…》
 
-","This feeling is ... """,0.2
+","This feeling is ... """,0.2,0.17399827
 <i>this sensation?</i>,"(ｹﾞﾝﾏ)
 《何だ？➡
 
-","""What?➡",0.1
+","""What?➡",0.1,0.25212276
 "He's hurt, after all...","やはり傷が…
 ｡
 
 ","After all wounds ...
-.",0.3333333333333333
+.",0.3333333333333333,0.6580099
 "The shell was broken when
 his body was incomplete!","不完全なまま殻が破られたんだ
 ｡
 
 ","The shell was broken with incomplete
-.",0.45454545454545453
+.",0.4545454545454545,0.7755046
 "<i>W-What was that...</i>
 <i>that look earlier on?!</i>","何だったんだ？
 さっきの視線は！》
 
 ","what was that?
-The last gaze is!""",0.21052631578947367
+The last gaze is!""",0.21052631578947367,0.40309423
 Huh?,"お？
 
-",Oh?,0.3333333333333333
+",Oh?,0.3333333333333333,0.73112035
 Kakashi! This must be!,"カカシ
  
 これは？
 
 ","Kakashi
  
-this is?",0.2857142857142857
+this is?",0.2857142857142857,0.8260675
 What's going on...?,"あれ？
  
 何だってば…
@@ -830,13 +830,13 @@ What's going on...?,"あれ？
 ","that?
  
 What if it is ...
-.",0.2727272727272727
+.",0.2727272727272727,0.1225353
 Release!,"(ｶｶｼ･
 ガイ
 )
 解！
 
-",Solution!,0.3333333333333333
+",Solution!,0.3333333333333333,0.4605653
 "<i>Genjutsu!</i>
 <i>Is Kabuto already moving?</i>","(
 バキ
@@ -849,20 +849,20 @@ Release!,"(ｶｶｼ･
 ","""Anything?
 Kabuto
  
-Are you already moving?➡",0.25
+Are you already moving?➡",0.25,0.6130575
 It's the signal!,"(
 忍
 )
 合図だ！
 
-",It is a signal!,0.42857142857142855
+",It is a signal!,0.42857142857142855,0.881709
 "- <i>Start the operation!</i>
 - <i>Start the operation!</i>","(ｶﾝｸﾛｳ･
 バキ
 ･ﾃﾏﾘ)
 《作戦開始！》
 
-","""Start strategy!""",0.16666666666666666
+","""Start strategy!""",0.16666666666666666,0.40845698
 "<i>Everyone makes mistakes</i>
 <i>It's nothing to be ashamed about</i>","♬
  
@@ -870,7 +870,7 @@ It's the signal!,"(
 
 ","♬
  
-Everyone fails",0.0625
+Everyone fails",0.0625,0.3546
 "<i>So many regrets</i>
 <i>Don't let this scar be for naught</i>","♬
  
@@ -878,7 +878,7 @@ Everyone fails",0.0625
 
 ","♬
  
-Don't waste this scratch",0.16666666666666666
+Don't waste this scratch",0.16666666666666666,0.35812056
 "<i>Transform sadness into the wind</i>
 <i>and continue to forge on</i>","♬
  
@@ -888,7 +888,7 @@ Don't waste this scratch",0.16666666666666666
 ","♬
  
 Then the destination
-Near the wind blows",0.10526315789473684
+Near the wind blows",0.10526315789473684,0.4277364
 "It got dark all of a sudden...
 it feels so good.","♬
  
@@ -898,7 +898,7 @@ it feels so good.","♬
 ","♬
  
 lots of
-Regret",0.06666666666666667
+Regret",0.06666666666666668,0.13291803
 "I think I do, but...
 Sasuke...","♬
  
@@ -906,9 +906,9 @@ Sasuke...","♬
 
 ","♬
  
-I wish I could laugh",0.09090909090909091
+I wish I could laugh",0.09090909090909093,0.13975139
 What in the world is going on?!,"〈あれ～？
 何か目の前が急に暗くなって➡
 
 ","<What?
-Something before the eyes suddenly become dark",0.1875
+Something before the eyes suddenly become dark",0.1875,0.2743212

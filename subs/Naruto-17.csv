@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,84 +9,84 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825215
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490627
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818439
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120198
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.534477
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.76468617
 "Is this the first time you
 have faced a friend's death?","(
 白
 )
 仲間の死は初めてですか？➡
 
-",Is it the first time of fellow death?➡,0.35294117647058826
+",Is it the first time of fellow death?➡,0.35294117647058826,0.65837705
 This is the way of the Shinobi...,"これが忍の道ですよ
 ｡
 
 ","This is a path of Shinobu
-.",0.2727272727272727
+.",0.2727272727272727,0.78860015
 I'm going to kill you!,"ぶっ殺してやらぁ！
 
-",I'm killing it!,0.3333333333333333
+",I'm killing it!,0.3333333333333333,0.6520831
 <i>White Past. Hidden Ambition</i>,"(ﾅﾙﾄ)
 許さねえ
 ｡
 
 ","Him
-.",0.1
+.",0.1,0.22435348
 <i>What?</i>,"(
 白
 )
 《何!?➡
 
-","""What!?",0.25
+","""What!?",0.25,0.25504208
 <i>His Chakra repelled my attack!</i>,"チャクラで吹き飛ばした！➡
 
-",I blown away with Chakra!➡,0.21428571428571427
+",I blown away with Chakra!➡,0.21428571428571427,0.7503336
 <i>Then...</i>,"ならば…》
 
-",If so ...,0.125
+",If so ...,0.125,0.086770594
 <i>This should do it!</i>,"(
 白
 )
 《これなら！》
 
-","""If this!""",0.16666666666666666
+","""If this!""",0.16666666666666666,0.15886945
 "<i>Could... Naruto's seal</i>
 <i>have been broken...?!</i>","(ｶｶｼ)
 《はっ！
@@ -97,23 +97,23 @@ I'm going to kill you!,"ぶっ殺してやらぁ！
 ","""Hey!
  
 Masadish
-Did you solve Naruto's seal?➡",0.23809523809523808
+Did you solve Naruto's seal?➡",0.2380952380952381,0.6836819
 <i>This feeling...</i>,"いや
  
 この感じは…➡
 
 ","Disagreeable
  
-This feeling is ... ➡",0.3
+This feeling is ... ➡",0.3,0.5407662
 "<i>True, the seal is almost off</i>","封印が外れかけて➡
 
-",Out of the seal,0.15384615384615385
+",Out of the seal,0.15384615384615385,0.54067594
 "<i>Fortunately, the seal is not</i>
 <i>completely broken!</i>","助かった！
 まだ完全には解けていない》
 
 ","Was saved!
-Not completely solved yet",0.17647058823529413
+Not completely solved yet",0.17647058823529413,0.3235426
 "Do you hear me, Zabuza?","(ｶｶｼ)
 聞こえるか？
  
@@ -125,7 +125,7 @@ Not completely solved yet",0.17647058823529413
  
 Re-denious
 .
-➡",0.25
+➡",0.25,0.4874012
 We're both busy people.,"お互い
  
 忙しい身だ
@@ -136,10 +136,10 @@ We're both busy people.,"お互い
  
 Busy
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.6816006
 "I know it's against your style,","お前の流儀に反するだろうが➡
 
-",It will be against your plan,0.2727272727272727
+",It will be against your plan,0.2727272727272727,0.31923226
 "Why don't we settle this once
 and for all with the next move?","(ｶｶｼ)
 次で白黒つけるってのは
@@ -148,7 +148,7 @@ and for all with the next move?","(ｶｶｼ)
 
 ","Next to black and white
  
-How is it?",0.14285714285714285
+How is it?",0.14285714285714285,0.052494746
 Interesting.,"(
 再不斬
 )
@@ -158,13 +158,13 @@ Interesting.,"(
 
 ","Interesting
 .
-➡",0.6666666666666666
+➡",0.6666666666666666,0.7777638
 "What can you possibly
 do in this situation?","この状況で
 お前に何ができるのか➡
 
 ","In this situation
-What can you do?",0.8888888888888888
+What can you do?",0.8888888888888888,0.8909186
 "Kakashi, go ahead.
 Show me.","カカシ
  
@@ -174,7 +174,7 @@ Show me.","カカシ
 ","Kakashi
  
 Let me see
-.",0.3333333333333333
+.",0.3333333333333333,0.88577145
 <i>I can't hold his aura down!</i>,"(
 白
 )
@@ -186,7 +186,7 @@ Let me see
 ","""No good
 This spirit
  
-I can't hold it!""",0.2777777777777778
+I can't hold it!""",0.2777777777777778,0.4952115
 You... from that time...,"お…
  
 お前は
@@ -199,7 +199,7 @@ You... from that time...,"お…
 You are
  
 Anime ...
-.",0.2222222222222222
+.",0.2222222222222222,0.29884148
 Why stop?,"(
 白
 )
@@ -209,14 +209,14 @@ Why stop?,"(
 
 ","why
  
-Do you stop?➡",0.5
+Do you stop?➡",0.5,0.7654126
 "Even though I killed your dear friend,
 you can't kill me?","僕を殺せないんですか？
 
-",Can't kill me?,0.35714285714285715
+",Can't kill me?,0.35714285714285715,0.6625177
 Damn it!,"クソ～！
 
-",Fucking ~!,0.2
+",Fucking ~!,0.2,0.5073034
 "What happened to the
 force from moment ago?","(
 白
@@ -225,7 +225,7 @@ force from moment ago?","(
 どうしたんです？➡
 
 ","The momentum until just before
-What happened?➡",0.2857142857142857
+What happened?➡",0.2857142857142857,0.42875442
 "Wasn't he someone
 special to you?","彼は
  
@@ -233,7 +233,7 @@ special to you?","彼は
 
 ","He
  
-Isn't he an important person?",0.25
+Isn't he an important person?",0.25,0.4408446
 "<i>I want to protect someone</i>
 <i>special to me.</i>","僕は大切な人を守りたい
 ｡
@@ -241,7 +241,7 @@ Isn't he an important person?",0.25
 
 ","I want to protect important people
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.7098666
 "<i>I want to make that</i>
 <i>person's dream a reality...</i>","その人の夢をかなえたい
 ｡
@@ -249,20 +249,20 @@ Isn't he an important person?",0.25
 
 ","I want to make a dream of that person
 .
-➡",0.47058823529411764
+➡",0.4705882352941176,0.74099576
 <i>That's my dream.</i>,"それが僕の夢＞
 
-",That is my dream>,0.3
+",That is my dream>,0.3,0.7236707
 They let them survive.,"命だけは見逃そうなどと
 ｡
 ➡
 
 ","Only life alone
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.13504773
 Do you know?,"知っていますか？➡
 
-",Do you know?➡,0.8
+",Do you know?➡,0.8,0.7403262
 "How it feels to
 not be needed by anyone?","夢もなく
  
@@ -270,10 +270,10 @@ not be needed by anyone?","夢もなく
 
 ","Without a dream
  
-Not needed from anyone",0.21428571428571427
+Not needed from anyone",0.21428571428571427,0.513086
 What are you saying?,"何が言いたいんだ？
 
-",What do you want to say?,0.3333333333333333
+",What do you want to say?,0.3333333333333333,0.46595642
 "Zabuza has no use
 for a weak Shinobi.","再不斬さんにとって
 弱い忍は必要ない
@@ -281,7 +281,7 @@ for a weak Shinobi.","再不斬さんにとって
 
 ","For re-deficit
 Weak Shinobu is not necessary
-.",0.21428571428571427
+.",0.21428571428571427,0.7222738
 "You took away
 my reason for existence.","君は
 僕の存在理由を奪ってしまった
@@ -289,17 +289,17 @@ my reason for existence.","君は
 
 ","You are
 I have taken my existence reason
-.",0.4166666666666667
+.",0.4166666666666667,0.7538962
 "He gets the money from thugs
 to do bad things!","悪人から金もらって
 悪いことしてるヤツじゃねえか！
 
 ","I got a gold from a bad guy
-It's not a bad guy!",0.15789473684210525
+It's not a bad guy!",0.15789473684210525,0.39336178
 "Is that No Brow
 the only person special to you?","あんな眉なし一人だけなのかよ!?
 
-",Is it only one person?,0.3076923076923077
+",Is it only one person?,0.3076923076923077,0.36339822
 "I was born in the Land of Water,
 in a small village heavy with snow.","雪の深い小さな村に
 生まれました
@@ -309,7 +309,7 @@ in a small village heavy with snow.","雪の深い小さな村に
 ","In a small village with a deep snow
 Was born
 .
-➡",0.5
+➡",0.5,0.7906967
 "but my parents seem to
 be satisfied with it.","僕の…
  
@@ -319,14 +319,14 @@ be satisfied with it.","僕の…
 ","my…
  
 It is my parents
-.",0.3333333333333333
+.",0.3333333333333333,0.53420955
 I was happy then...,"幸せだった…
 ｡
 ➡
 
 ","I was happy ...
 .
-➡",0.5714285714285714
+➡",0.5714285714285714,0.8064564
 "When I was old enough
 to understand things,","(
 白
@@ -337,12 +337,12 @@ to understand things,","(
 
 ","but
  
-When I was heard ➡",0.25
+When I was heard ➡",0.25,0.35254756
 something happened.,"ある出来事が起きた
 ｡
 
 ","A certain event happened
-.",0.3333333333333333
+.",0.3333333333333333,0.45645228
 My blood...,"(
 白
 )
@@ -350,10 +350,10 @@ My blood...,"(
 ｡
 
 ","This blood ...
-.",0.4
+.",0.4,0.7545209
 Blood?,"血？
 
-",blood?,1.0
+",blood?,1.0,0.9999998
 Then he tried to kill me.,"そして
  
 僕を殺そうとしたんです
@@ -362,10 +362,10 @@ Then he tried to kill me.,"そして
 ","and
  
 I tried to kill me
-.",0.5555555555555556
+.",0.5555555555555556,0.7938006
 Huh?!,"えっ!?
 
-",eh!?,0.5
+",eh!?,0.5,0.6840108
 "After the experience of
 the ceaseless civil war,","(
 白
@@ -374,7 +374,7 @@ the ceaseless civil war,","(
 水の国では➡
 
 ","I experienced a non-constant civil war
-In the water country",0.2
+In the water country",0.2,0.49887902
 "from parent to child,
 or from grandparent to grandchild.","(
 白
@@ -387,16 +387,16 @@ or from grandparent to grandchild.","(
 ","From parent to child
 or
  
-Grandparents from grandchildren",0.45454545454545453
+Grandparents from grandchildren",0.4545454545454545,0.90081716
 "Because of their special powers,","彼らが持つ特異な能力のため➡
 
-",Because of the unusual ability they possess,0.18181818181818182
+",Because of the unusual ability they possess,0.18181818181818185,0.7754201
 "as harbingers of disaster
 and death.","国に災厄と戦禍をもたらす
 存在として➡
 
 ","Brings a war of disaster in the country
-As existence",0.21428571428571427
+As existence",0.21428571428571427,0.6683548
 "After the war was over,","その一族は
  
 さまざまな争いに
@@ -405,11 +405,11 @@ As existence",0.21428571428571427
 ","The family is
  
 Various disputes
-I was used ➡",0.15384615384615385
+I was used ➡",0.15384615384615385,0.15630677
 "If anyone knew of their secret,
 only death could be expected.","その秘密が知られれば➡
 
-",If the secret is known ➡,0.11764705882352941
+",If the secret is known ➡,0.1176470588235294,0.60735303
 "I'm sure that boy went through
 so much suffering as well.","恐らく
  
@@ -421,7 +421,7 @@ so much suffering as well.","恐らく
  
 That boy
 I should have been hard
-.",0.2222222222222222
+.",0.2222222222222222,0.42634946
 "The greater your power,
 the more you were feared.","自分たちの力を隠して
 暮らしました
@@ -429,28 +429,28 @@ the more you were feared.","自分たちの力を隠して
 
 ","Hide your power
 I lived
-.",0.23076923076923078
+.",0.2307692307692308,0.5128805
 My mother had the Kekkei Genkai.,"僕の母は
 血継限界を持つ人間でした
 ｡
 
 ","My mother
 She was a human being with a hemorial limit
-.",0.2
+.",0.2,0.24987647
 She kept it secret from my father.,"それを隠して
  
 父と一緒になり➡
 
 ","Hiding it
  
-Together with my father",0.2727272727272727
+Together with my father",0.2727272727272727,0.6110745
 She hoped that for a while...,"しばらくは…
  
 いいえ➡
 
 ","for a while…
  
-No",0.2222222222222222
+No",0.2222222222222222,0.37347052
 "No, she must have thought that
 they could have a simple life forever.","永遠に平凡な生活が続くと
 思っていたに違いありません
@@ -458,7 +458,7 @@ they could have a simple life forever.","永遠に平凡な生活が続くと
 
 ","When ordinary life continues forever
 I must have thought
-.",0.3333333333333333
+.",0.3333333333333333,0.42831984
 "<i>Look, Mommy! Look!</i>","＜あっ
  
 ねぇ
@@ -473,7 +473,7 @@ Hey
  
 mother
  
-look!➡",0.2727272727272727
+look!➡",0.2727272727272727,0.730171
 <i>Isn't it fantastic?</i>,"ねっ
  
 ねっ
@@ -484,7 +484,7 @@ look!➡",0.2727272727272727
  
 Neck
  
-Is it great?>",0.36363636363636365
+Is it great?>",0.3636363636363637,0.300405
 "<i>Not you, too!</i>","(
 白の母
 )
@@ -498,18 +498,18 @@ Is it great?>",0.36363636363636365
  
 why
  
-Until you!➡",0.21428571428571427
+Until you!➡",0.21428571428571427,0.4963089
 <i>Sorry...</i>,"(
 白の母
 )
 ＜あ…＞
 
-",<Oh ...>,0.42857142857142855
+",<Oh ...>,0.42857142857142855,0.5168688
 Father had discovered our secret.,"父に知られてしまった
 ｡
 
 ","I was known to my father
-.",0.18181818181818182
+.",0.18181818181818185,0.6218292
 When I came to...,"(
 白
 )
@@ -523,7 +523,7 @@ When I came to...,"(
  
 I am a real father ...
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.29252917
 "And that moment,
 what I thought of myself was that...","そして
  
@@ -537,7 +537,7 @@ what I thought of myself was that...","そして
 At that time
 I thought about myself
 .
-➡",0.3125
+➡",0.3125,0.64300114
 "And then knew that it was
 the most painful thing.","そして
  
@@ -549,10 +549,10 @@ the most painful thing.","そして
  
 that is
 I knew it was the most
-.",0.6153846153846154
+.",0.6153846153846154,0.5336059
 The most... painful thing...?,"いちばんつらいこと？
 
-",What is the best?,0.2222222222222222
+",What is the best?,0.2222222222222222,0.2085863
 "that my existence didn't matter
 to anyone else in the world.","まるで必要とされてない存在だ
 ということです
@@ -560,10 +560,10 @@ to anyone else in the world.","まるで必要とされてない存在だ
 
 ","It is an existence that is not necessary
 about it
-.",0.15789473684210525
+.",0.15789473684210525,0.5002139
 You told me that...,"《俺と同じだってばよ…》
 
-","""The same as me ...""",0.2
+","""The same as me ...""",0.2,0.17523293
 "You'll be the best Ninja in the village,
 and make everyone respect you.","里一番の忍者になって
 みんなに認めさせてやると
@@ -571,7 +571,7 @@ and make everyone respect you.","里一番の忍者になって
 
 ","Become a village's first ninja
 If everyone recognizes it
-.",0.19047619047619047
+.",0.19047619047619047,0.8011003
 "If someone comes along and
 accepts you for who you are,","もし
  
@@ -581,13 +581,13 @@ accepts you for who you are,","もし
 ","if
  
 People who admit you from your heart
-When it appears",0.15789473684210525
+When it appears",0.15789473684210525,0.5176995
 "no one could be more important
 to you than that person.","最も大切な人になりえるはずです
 ｡
 
 ","It should be the most important person
-.",0.25
+.",0.25,0.587676
 Zabuza took me in.,"君は
  
 僕に
@@ -600,13 +600,13 @@ Zabuza took me in.,"君は
 to me
  
 I said this
-.",0.18181818181818182
+.",0.18181818181818185,0.17266338
 "My power that everyone hated...
 He wanted it, needed it.","好んで必要としてくれた
 ｡
 
 ","I wanted to have it
-.",0.2
+.",0.2,0.38708472
 "<i>Brats like you won't be needed</i>
 <i>by anyone and die like dogs.</i>","誰にも必要とされず
  
@@ -614,29 +614,29 @@ He wanted it, needed it.","好んで必要としてくれた
 
 ","Not needed for anyone
  
-Wild and die>",0.2631578947368421
+Wild and die>",0.2631578947368421,0.26288265
 "<i>You have the same eyes</i>
 <i>as I do...</i>","＜お兄ちゃんも
 僕と同じ目をしてる＞
 
 ","<Also brother
-I have the same eyes as me>",0.5333333333333333
+I have the same eyes as me>",0.5333333333333333,0.82383364
 <i>Brat...</i>,"(
 再不斬
 )
 ＜ん？＞
 
-",<Did?>,0.25
+",<Did?>,0.25,0.31138167
 "<i>Do you want...</i>
 <i>to be needed by someone?</i>","誰かに必要とされたいか？➡
 
-",Do you want someone needed?➡,0.4
+",Do you want someone needed?➡,0.4,0.6954583
 "<i>Are you willing</i>
 <i>to give everything for me?</i>","俺のために
 すべて差し出せるか？＞
 
 ","For me
-Can you make all insufflies?>",0.29411764705882354
+Can you make all insufflies?>",0.29411764705882354,0.30747485
 "<i>From now on,</i>
 <i>your power belongs to me.</i>","(
 再不斬
@@ -645,12 +645,12 @@ Can you make all insufflies?>",0.29411764705882354
 お前の能力は俺のものだ＞
 
 ","<From today
-Your ability is my one>",0.2222222222222222
+Your ability is my one>",0.2222222222222222,0.56057703
 I was so happy...,"うれしかった
 ｡
 
 ","Was glad
-.",0.14285714285714285
+.",0.14285714285714285,0.45873752
 "<i>I have to leave the Land of Water</i>
 <i>as of tonight.</i>","こよいかぎり
 俺は水の国を捨てる
@@ -660,7 +660,7 @@ I was so happy...,"うれしかった
 ","Crisp
 I throw away the water country
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.50144887
 "<i>However, I'll be back in</i>
 <i>this land some day.</i>","しかし
 必ず俺は
@@ -674,7 +674,7 @@ Be sure to
  
 I will come back to this country
 .
-➡",0.23809523809523808
+➡",0.2380952380952381,0.45514506
 <i>What I really need is...</i>,"本当に必要なのは…＞
 (
 白
@@ -687,7 +687,7 @@ I will come back to this country
 
 <I know
 .
-➡",0.5833333333333334
+➡",0.5833333333333334,0.75577974
 "<i>I am your weapon, Zabuza.</i>","安心してください
 僕は再不斬さんの武器です
 ｡
@@ -696,19 +696,19 @@ I will come back to this country
 ","rest assured
 I am a resincent weapon
 .
-➡",0.2
+➡",0.2,0.44511455
 "<i>Keep me by you as a mere tool</i>
 <i>that heeds your every word.</i>","言いつけを守る
 ただの道具として➡
 
 ","Protect
-As a tool",0.16666666666666666
+As a tool",0.16666666666666666,0.41968215
 <i>You're a good boy!</i>,"(
 再不斬
 )
 ＜いい子だ＞
 
-",<It is a good child>,0.3076923076923077
+",<It is a good child>,0.3076923076923077,0.5617459
 "I wasn't good enough to be
 the tool you were looking for.","僕は
  
@@ -720,7 +720,7 @@ the tool you were looking for.","僕は
  
 For tools you are looking for
 was not able to become
-.",0.3684210526315789
+.",0.3684210526315789,0.7033188
 Naruto!,"(
 白
 )
@@ -728,7 +728,7 @@ Naruto!,"(
 ｡
 
 ","Naruto
-.",0.3333333333333333
+.",0.3333333333333333,0.932519
 to kill me.,"(
 白
 )
@@ -742,7 +742,7 @@ to kill me.,"(
  
 Resincent
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.10476557
 "You have absolutely no idea
 where I am now.","俺には
  
@@ -756,10 +756,10 @@ where I am now.","俺には
 You
 I understand to get it
 .
-➡",0.1875
+➡",0.1875,0.13462819
 Kakashi...,"カカシ…➡
 
-",Kakashi ... ➡,0.6666666666666666
+",Kakashi ... ➡,0.6666666666666666,0.946158
 "You are completely
 in my hands now.","お前は完璧に
 俺の術中に
@@ -771,7 +771,7 @@ in my hands now.","お前は完璧に
 In my art
  
 hooked on
-.",0.4166666666666667
+.",0.4166666666666667,0.2768078
 W-What is that racket?,"(ﾀｽﾞﾅ)
 な…
  
@@ -785,7 +785,7 @@ W-What is that racket?,"(ﾀｽﾞﾅ)
 What is it?
  
 That sound
-.",0.3
+.",0.3,0.28971794
 "If you can't use your eyes or ears,
 simply use your nose.","(ｶｶｼ)
 目でも耳でもダメなら
@@ -796,7 +796,7 @@ simply use your nose.","(ｶｶｼ)
 ","If it is no good even in eyes
 About challenging with nose
 .
-➡",0.17391304347826086
+➡",0.17391304347826084,0.54825765
 "when you're closing your eyes
 in the midst of fog.","霧の中で
  
@@ -814,7 +814,7 @@ Because it is crushed
  
 So
 .
-➡",0.3157894736842105
+➡",0.3157894736842105,0.63375056
 "This is the Summoning Jutsu
 specialized for pursuit.","これは追尾専用の口寄せの術だ
 ｡
@@ -822,7 +822,7 @@ specialized for pursuit.","これは追尾専用の口寄せの術だ
 
 ","This is a track-for-sale
 .
-➡",0.25
+➡",0.25,0.19151099
 I deliberately shed my own blood,"血を流して止めたのも
 このためだ
 ｡
@@ -831,7 +831,7 @@ I deliberately shed my own blood,"血を流して止めたのも
 ","I also stopped blood and stopped
 This reason
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.5927723
 "Your weapons have a thick scent of
 my blood on them now.","お前の武器には
  
@@ -845,15 +845,15 @@ my blood on them now.","お前の武器には
 My blood smell
 Bettari
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.6903255
 "And your future is...
 death.","お前の未来は➡
 
-",Your future is ➡,0.375
+",Your future is ➡,0.375,0.6697809
 Don't act tough!,"(ｶｶｼ)
 強がるな！➡
 
-",Do not strengthen!➡,0.25
+",Do not strengthen!➡,0.25,0.37355426
 "There's nothing you can do
 in this situation.","この状況で
  
@@ -867,23 +867,23 @@ in this situation.","この状況で
 You are
 I can not do anything
 .
-➡",0.4666666666666667
+➡",0.4666666666666667,0.6329124
 Your death is certain.,"お前の死は確実だ
 ｡
 
 ","Your death is sure
-.",0.6666666666666666
+.",0.6666666666666666,0.8623407
 Zabuza.,"死だ
 ｡
 
 ","Dead
-.",0.3333333333333333
+.",0.3333333333333333,0.2327509
 "You're too ambitious
 for your own good.","お前の野望は大きすぎた
 ｡
 
 ","Your ambition was too big
-.",0.25
+.",0.25,0.60106325
 "You assassinated the Mizukage,
 but failed to pull off a coup.","数人の部下と共に野に下り
 抜け忍となった男
@@ -893,7 +893,7 @@ but failed to pull off a coup.","数人の部下と共に野に下り
 ","Down to the field with several subordinates
 A man who has loved
 .
-➡",0.17391304347826086
+➡",0.17391304347826084,0.05124129
 and became a Rogue Ninja.,"(ｶｶｼ)
 水影暗殺
 そして
@@ -907,7 +907,7 @@ and
  
 Coup deaf
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.29766345
 "Soon after, your name reached
 our Hidden Leaf Village.","お前の名前は
  
@@ -921,7 +921,7 @@ our Hidden Leaf Village.","お前の名前は
 straight away
 It was also conveyed to the village of Kinoha
 .
-➡",0.17391304347826086
+➡",0.17391304347826084,0.5086604
 "You needed to raise funds
 to strike back.","お前が
  
@@ -935,7 +935,7 @@ to strike back.","お前が
 For pests like Gateau
 It is
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.11352497
 "the Tracking Unit's
 pursuit and retaliation.","そして
  
@@ -949,13 +949,13 @@ pursuit and retaliation.","そして
 From the search and retaliation of draft
 To escape ...
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.3557296
 "Do you really believe I've managed
 to survive with just Sharingan?","写輪眼だけで
 生きてきたと思うか？➡
 
 ","Only the eyeball eye
-Do you think you have lived?➡",0.14285714285714285
+Do you think you have lived?➡",0.14285714285714285,0.31542844
 "Here's something I didn't copy,
 a Jutsu of my own...","今度は
 コピーじゃない
@@ -965,10 +965,10 @@ a Jutsu of my own...","今度は
 ","Next time
 It is not a copy
  
-My own surgery",0.2
+My own surgery",0.2,0.39218965
 Lightning Blade!,"雷切！
 
-",Lightning!,0.6666666666666666
+",Lightning!,0.6666666666666666,0.79549223
 <i>What the...?!</i>,"(
 再不斬
 )
@@ -978,7 +978,7 @@ Lightning Blade!,"雷切！
 
 ","""...
  
-What!? ➡",0.36363636363636365
+What!? ➡",0.3636363636363637,0.42230242
 You are too dangerous.,"(ｶｶｼ)
 お前は危険すぎる
 ｡
@@ -986,7 +986,7 @@ You are too dangerous.,"(ｶｶｼ)
 
 ","You are too dangerous
 .
-➡",0.8333333333333334
+➡",0.8333333333333334,0.88766044
 is the symbol of courage in this land!,"お前が殺そうとしている
 タズナさんは
  
@@ -999,7 +999,7 @@ Mr. Tazna
  
 It is the courage of this country
 .
-➡",0.25
+➡",0.25,0.51895255
 "The bridge he is building
 is the hope of this land!","タズナさんの架ける橋は
 この国の希望だ
@@ -1009,7 +1009,7 @@ is the hope of this land!","タズナさんの架ける橋は
 ","Tazna's bridge
 It is the hope of this country
 .
-➡",0.375
+➡",0.375,0.6470506
 "And your ambitions will sacrifice
 countless lives.","お前の野望は
 多くの人を犠牲にする
@@ -1019,7 +1019,7 @@ countless lives.","お前の野望は
 ","Your ambition is
 Sacrifice many people
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.7203777
 "That isn't how a Shinobi
 is supposed to behave.","そういうのは
 忍のやることじゃないんだよ
@@ -1027,7 +1027,7 @@ is supposed to behave.","そういうのは
 
 ","Such is
 It's not something to do
-.",0.1875
+.",0.1875,0.26548705
 "I have always fought
 for my own ideals.","俺は
 俺の理想のために戦ってきた
@@ -1037,7 +1037,7 @@ for my own ideals.","俺は
 ","I am
 I fought for my ideal
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.7199376
 I'll say it again.,"(ｶｶｼ)
 もう一度
  
@@ -1053,20 +1053,20 @@ I'll say it again.,"(ｶｶｼ)
 To tell
 .
 
-Ahh?",0.18181818181818182
+Ahh?",0.18181818181818185,0.5025806
 Give up.,"(ｶｶｼ)
 諦めろ
 ｡
 
 ","Giving up
-.",0.5
+.",0.5,0.8084314
 "Your future is...
 death!","(ｶｶｼ)
 お前の未来は死だ
 ｡
 
 ","Your future is dead
-.",0.375
+.",0.375,0.83044004
 Please kill me.,"(
 白
 )
@@ -1076,17 +1076,17 @@ Please kill me.,"(
 
 ","please kill
 .
-➡",0.6
+➡",0.6,0.6964509
 What are you hesitating for?,"何をちゅうちょしているんです？
 
-",What are you doing?,0.5714285714285714
+",What are you doing?,0.5714285714285714,0.5279418
 Are you really okay with that?,"お前は
  
 それでいいのかよ!?
 
 ","You are
  
-Is it okay?",0.4444444444444444
+Is it okay?",0.4444444444444444,0.54034764
 "Zabuza counts on me,
 even if I'm worthless.","再不斬さんは
  
@@ -1098,12 +1098,12 @@ even if I'm worthless.","再不斬さんは
  
 Even if I like this
 I expected
-.",0.26666666666666666
+.",0.26666666666666666,0.12801227
 He made me feel needed.,"必要としてくれたんです
 ｡
 
 ","I needed it
-.",0.25
+.",0.25,0.44484478
 "That's why,
 I am now appealing to you.","(
 白
@@ -1114,13 +1114,13 @@ I am now appealing to you.","(
 
 ","that's why
 I'm asking you
-.",0.46153846153846156
+.",0.4615384615384616,0.38230455
 "Is this what it means to
 be a strong Ninja?","♬
  Waiting is wasting
 
 ","♬
- Waiting is Wasting",0.07142857142857142
+ Waiting is Wasting",0.07142857142857142,0.06217631
 "I don't get it.
 I can never accept that!","♬
  Don't dry with
@@ -1128,7 +1128,7 @@ fakes or fears.
 
 ","♬
  Don't Dry With With
-Fakes or Fears.",0.17647058823529413
+Fakes or Fears.",0.17647058823529413,0.24401307
 "Next episode:
 ""The Weapons Known as Shinobi.""","♬
  Coz you will hate yourself
@@ -1136,4 +1136,4 @@ in the end.
 
 ","♬
  COZ YOU WILL HATE YOURSELF
-in the end.",0.1111111111111111
+in the end.",0.1111111111111111,0.12507755

@@ -1,101 +1,101 @@
-en_text,jp_text,google_translated,score
-"<i>Hey boys, listen up!</i>",♬少年よ聞いてくれ,"♬ Boy, listen",0.16666666666666666
-"<i>Who needs tomorrow anyway,</i>",♬明日なんてもういらないから,♬ Because I do not want to tomorrow,0.13333333333333333
-<i>so don't hide your fists</i>,♬握った拳を隠すなよ,Don't hide the fist you hold,0.21428571428571427
-<i>You're not old enough</i>,♬人間なんてたいしたもんじゃないさ,♬ I'm not a human being,0.14285714285714285
-<i>who can pull the trigger in your heart</i>,♬引き金を引けるのは君だけさ,It is only you who can trigger,0.1875
-<i>All the kids said</i>,♬すべての若者は言った,♬ All young people said,0.18181818181818182
-"<i>awesome world right at this moment,</i>",♬この素晴らしい世界に,♬ In this wonderful world,0.14285714285714285
-<i>Don't forget every truth or lie</i>,♬決して忘れてしまわないように,♬ Do not forget it,0.14285714285714285
-<i>We're way too young to die</i>,♬死ぬには若すぎるだろう,♬ It would be too young to die,0.26666666666666666
-<i>into this windless night</i>,♬風の無いこの夜に,♬ Night without wind,0.09090909090909091
-<i>Because they want to change something</i>,♬何かを変えようとしてるから,♬ I'm trying to change something,0.3076923076923077
-By special...,(ﾅﾙﾄ)特別って…➡,Special ... ➡,0.5
+en_text,jp_text,google_translated,score,semantic_score
+"<i>Hey boys, listen up!</i>",♬少年よ聞いてくれ,"♬ Boy, listen",0.16666666666666666,0.65306675
+"<i>Who needs tomorrow anyway,</i>",♬明日なんてもういらないから,♬ Because I do not want to tomorrow,0.13333333333333333,0.63679045
+<i>so don't hide your fists</i>,♬握った拳を隠すなよ,Don't hide the fist you hold,0.21428571428571427,0.7157619
+<i>You're not old enough</i>,♬人間なんてたいしたもんじゃないさ,♬ I'm not a human being,0.14285714285714285,0.37642792
+<i>who can pull the trigger in your heart</i>,♬引き金を引けるのは君だけさ,It is only you who can trigger,0.1875,0.53613853
+<i>All the kids said</i>,♬すべての若者は言った,♬ All young people said,0.18181818181818185,0.62241685
+"<i>awesome world right at this moment,</i>",♬この素晴らしい世界に,♬ In this wonderful world,0.14285714285714285,0.51357394
+<i>Don't forget every truth or lie</i>,♬決して忘れてしまわないように,♬ Do not forget it,0.14285714285714285,0.54593575
+<i>We're way too young to die</i>,♬死ぬには若すぎるだろう,♬ It would be too young to die,0.26666666666666666,0.68858474
+<i>into this windless night</i>,♬風の無いこの夜に,♬ Night without wind,0.09090909090909093,0.6819742
+<i>Because they want to change something</i>,♬何かを変えようとしてるから,♬ I'm trying to change something,0.3076923076923077,0.45107573
+By special...,(ﾅﾙﾄ)特別って…➡,Special ... ➡,0.5,0.6463583
 "By special,
-you meant that?!",特別ってそれのことかよ！,Special is that!,0.3333333333333333
-I don't feel like I'm gonna lose.,負ける気がしねえ｡,I feel like Irend.,0.36363636363636365
-Sasuke... you...,サスケ…お前…｡,Sasuke ... You ....,0.75
+you meant that?!",特別ってそれのことかよ！,Special is that!,0.3333333333333333,0.72265214
+I don't feel like I'm gonna lose.,負ける気がしねえ｡,I feel like Irend.,0.3636363636363637,0.37251115
+Sasuke... you...,サスケ…お前…｡,Sasuke ... You ....,0.75,0.998213
 "<i>If they continue to be released</i>
-<i>for a long period of time,</i>",(左近)＜解放状態を長く続けていれば➡,<if you continue to release the release state,0.19047619047619047
+<i>for a long period of time,</i>",(左近)＜解放状態を長く続けていれば➡,<if you continue to release the release state,0.19047619047619047,0.64601636
 "<i>Curse Marks will progressively</i>
-<i>eat your body.</i>",徐々に体を呪印が侵食していく｡➡,The curse will gradually erode the body.,0.125
-<i>This body...</i>,《この体…➡,"""This body ... ➡",0.3333333333333333
-<i>It looks like there's no time to waste.</i>,ちんたらやってる時間はないようだな…》,It seems that there is no time I'm doing ...,0.2631578947368421
+<i>eat your body.</i>",徐々に体を呪印が侵食していく｡➡,The curse will gradually erode the body.,0.125,0.65464777
+<i>This body...</i>,《この体…➡,"""This body ... ➡",0.3333333333333333,0.76693726
+<i>It looks like there's no time to waste.</i>,ちんたらやってる時間はないようだな…》,It seems that there is no time I'm doing ...,0.2631578947368421,0.58718085
 "<i>I don't have any feeling</i>
-<i>in my left arm...</i>",自分をなくすぜず～っとな…＞,Don't hesitate to yourself ...>,0.23529411764705882
-That power you have...,お前のその力も…｡,Your power ....,0.2857142857142857
-Did you know?,知ってるか？,Do you know?,0.6
-That this place...,うっ…｡,Uh ...,0.2
-is called the Final Valley.,終末の谷と呼ばれている｡,It is called the valley at the end of the end.,0.5
+<i>in my left arm...</i>",自分をなくすぜず～っとな…＞,Don't hesitate to yourself ...>,0.2352941176470588,0.26278186
+That power you have...,お前のその力も…｡,Your power ....,0.2857142857142857,0.7016157
+Did you know?,知ってるか？,Do you know?,0.6,0.8177991
+That this place...,うっ…｡,Uh ...,0.2,0.28206158
+is called the Final Valley.,終末の谷と呼ばれている｡,It is called the valley at the end of the end.,0.5,0.8700873
 "I said there'd be
-no more talking, didn't I?",おしゃべりはもう終わりだって言ったな｡,I said that the chat is already over.,0.10526315789473684
-This battle.,この戦いを…｡,This fight ....,0.4
-Sakura Haruno!,(ｲﾙｶ)＜春野サクラ＞(ｻｸﾗ)＜あっ＞,<Haruno Sakura>  <In,0.3333333333333333
-Yipeee!,これまでの戦いを！,The battle so far!,0.16666666666666666
-<i>With Naruto...?</i>,＜やった～！＞＜ナルトと一緒…＞,<I did!> <With Naruto ...>,0.6
-<i>With Sasuke...?</i>,＜やった～！＞＜サスケと一緒…＞,<I did!> <Sasuke with Sasuke ...>,0.6
-You...!,(ｶｶｼ)＜お前ら～！＞,<you guys!>,0.3333333333333333
-Aren't we a three-man squad?,＜俺たちは三人一組なんだろ？＞,<We are a pair of three people?>,0.3076923076923077
+no more talking, didn't I?",おしゃべりはもう終わりだって言ったな｡,I said that the chat is already over.,0.10526315789473684,0.5333718
+This battle.,この戦いを…｡,This fight ....,0.4,0.6137375
+Sakura Haruno!,(ｲﾙｶ)＜春野サクラ＞(ｻｸﾗ)＜あっ＞,<Haruno Sakura>  <In,0.3333333333333333,0.838025
+Yipeee!,これまでの戦いを！,The battle so far!,0.16666666666666666,0.25351882
+<i>With Naruto...?</i>,＜やった～！＞＜ナルトと一緒…＞,<I did!> <With Naruto ...>,0.6,0.85596347
+<i>With Sasuke...?</i>,＜やった～！＞＜サスケと一緒…＞,<I did!> <Sasuke with Sasuke ...>,0.6,0.9002836
+You...!,(ｶｶｼ)＜お前ら～！＞,<you guys!>,0.3333333333333333,0.3910113
+Aren't we a three-man squad?,＜俺たちは三人一組なんだろ？＞,<We are a pair of three people?>,0.3076923076923077,0.5408536
 "Hey... are you hurt?
-Scaredy Cat?",＜ケガはねえかよ？➡,<Are you hey?➡,0.4
-Sasuke!,サスケ！➡,Sasuke!➡,0.6666666666666666
-"I want... to fight you, too.",俺もお前と戦いたい！＞,I also want to fight with you!>,0.38461538461538464
+Scaredy Cat?",＜ケガはねえかよ？➡,<Are you hey?➡,0.4,0.27256238
+Sasuke!,サスケ！➡,Sasuke!➡,0.6666666666666666,0.9392513
+"I want... to fight you, too.",俺もお前と戦いたい！＞,I also want to fight with you!>,0.38461538461538464,0.76068246
 "I don't want to see
-any more deaths",大切な仲間が死ぬのは見たくない＞,I do not want to see important friends to die>,0.35714285714285715
-of my precious comrades.,＜もう俺の目の前で➡,<In front of my eyes,0.2222222222222222
-I... will protect Sakura!,俺が守る！＞,I will protect!>,0.5714285714285714
-What's so funny?,＜何がおかしい？＞＜おかしいんじゃねえってばよ｡➡,<What's wrong?> <It's funny.,0.4
+any more deaths",大切な仲間が死ぬのは見たくない＞,I do not want to see important friends to die>,0.35714285714285715,0.6423888
+of my precious comrades.,＜もう俺の目の前で➡,<In front of my eyes,0.2222222222222222,0.33011696
+I... will protect Sakura!,俺が守る！＞,I will protect!>,0.5714285714285714,0.59466434
+What's so funny?,＜何がおかしい？＞＜おかしいんじゃねえってばよ｡➡,<What's wrong?> <It's funny.,0.4,0.46537685
 "When I think I can finally
-beat you here!",お前にここでやっと勝てると思ったらな＞,If you think you can win here here>,0.3333333333333333
+beat you here!",お前にここでやっと勝てると思ったらな＞,If you think you can win here here>,0.3333333333333333,0.50232965
 "Put on your headband before that!
-I'll wait.",＜さっさと来い＞＜その前に額当てをしろ｡➡,<Come to come> <Before that before that.,0.2
+I'll wait.",＜さっさと来い＞＜その前に額当てをしろ｡➡,<Come to come> <Before that before that.,0.2,0.30572876
 "You wouldn't even be able
-to put one wound on my forehead!",＜お前は俺の額に➡,<You are my forehead,0.1875
-You're wrong!,＜いつまでも落ちこぼれの足手まといじゃねえぜ！＞,<You're going to fall with the fallen football!>,0.23076923076923078
-I'm saying this is a testament,＜んだと…落ちこぼれがほざいてんなよ！＞,<If it is ... I'm sorry!>,0.21428571428571427
-Naruto!,＜ナルト～！＞,<Naruto ~!>,0.4
-And from this time onward...,そしてこれからは…｡,And from now on ....,0.3333333333333333
-<i>Chidori!</i>,＜やめてよ～！＞,<Stop ~!>,0.375
-<i>This Chakra...</i>,(ｶｶｼ)《このチャクラは…｡➡,"""This chakra is ....",0.3
-I...,俺は…｡,I am….,0.25
+to put one wound on my forehead!",＜お前は俺の額に➡,<You are my forehead,0.1875,0.5164902
+You're wrong!,＜いつまでも落ちこぼれの足手まといじゃねえぜ！＞,<You're going to fall with the fallen football!>,0.2307692307692308,0.17331061
+I'm saying this is a testament,＜んだと…落ちこぼれがほざいてんなよ！＞,<If it is ... I'm sorry!>,0.21428571428571427,0.24272925
+Naruto!,＜ナルト～！＞,<Naruto ~!>,0.4,0.86589265
+And from this time onward...,そしてこれからは…｡,And from now on ....,0.3333333333333333,0.6487416
+<i>Chidori!</i>,＜やめてよ～！＞,<Stop ~!>,0.375,0.38735744
+<i>This Chakra...</i>,(ｶｶｼ)《このチャクラは…｡➡,"""This chakra is ....",0.3,0.82246566
+I...,俺は…｡,I am….,0.25,0.46167925
 "It's started to rain!
-Will it erase the scent?",(ﾊﾟｯｸﾝ)大丈夫だ近いぞこっちだ！,"It's okay, it's a closer!",0.2
-No problem.,サスケのだ｡,Sasuke.,0.25
-This is Sasuke's...,(ﾊﾟｯｸﾝ)何でこんなことに…｡,What is this?,0.2857142857142857
+Will it erase the scent?",(ﾊﾟｯｸﾝ)大丈夫だ近いぞこっちだ！,"It's okay, it's a closer!",0.2,0.09835831
+No problem.,サスケのだ｡,Sasuke.,0.25,0.04209712
+This is Sasuke's...,(ﾊﾟｯｸﾝ)何でこんなことに…｡,What is this?,0.2857142857142857,0.21171054
 "I didn't make it in time...
-please forgive me.",(ｶｶｼ)遅かったか…｡,Did it were late ....,0.2857142857142857
+please forgive me.",(ｶｶｼ)遅かったか…｡,Did it were late ....,0.2857142857142857,0.3821844
 "You must have made
-a desperate effort.",必死だったんだろう…｡,It would have been desperate ....,0.25
-<i>Sasuke...</i>,(ｶｶｼ)《サスケ…》,"""Sasuke ...""",0.25
-<i>That's my boy...</i>,(ﾌｶﾞｸ)＜さすが俺の子だ＞,<It is my child>,0.25
-<i>You are my one and only brother.</i>,(ｲﾀﾁ)＜お前と俺は唯一無二の兄弟だ｡➡,<You and I'm the only one brother.,0.4
-<i>I will continue to be for you...</i>,俺はお前と共にあり続けるのさ｡➡,I will continue with you.,0.3076923076923077
+a desperate effort.",必死だったんだろう…｡,It would have been desperate ....,0.25,0.52203214
+<i>Sasuke...</i>,(ｶｶｼ)《サスケ…》,"""Sasuke ...""",0.25,0.7833492
+<i>That's my boy...</i>,(ﾌｶﾞｸ)＜さすが俺の子だ＞,<It is my child>,0.25,0.7050237
+<i>You are my one and only brother.</i>,(ｲﾀﾁ)＜お前と俺は唯一無二の兄弟だ｡➡,<You and I'm the only one brother.,0.4,0.89173883
+<i>I will continue to be for you...</i>,俺はお前と共にあり続けるのさ｡➡,I will continue with you.,0.3076923076923077,0.58879656
 "<i>a wall that you must find</i>
-<i>a way to cross over.</i>",(ﾐｺﾄ)＜私といるときはあなたのことばかり話してるのよ父さん＞,<I'm talking to you only when I have a father>,0.3
-<i>You are someone</i>,たとえ憎まれようともな＞,Even if you are not happy>,0.2727272727272727
-"<i>However, on one condition.</i>",(ｲﾀﾁ)＜ただしそれには条件がある＞,"<However, there is a condition for that>",0.26666666666666666
-<i>Your closest friend...</i>,＜最も親しい友を…＞,<Most close friend ...>,0.4
-The Final Valley...,(ﾊﾟｯｸﾝ)終末の谷｡➡,The valley at the end of the end.,0.25
+<i>a way to cross over.</i>",(ﾐｺﾄ)＜私といるときはあなたのことばかり話してるのよ父さん＞,<I'm talking to you only when I have a father>,0.3,0.21492523
+<i>You are someone</i>,たとえ憎まれようともな＞,Even if you are not happy>,0.2727272727272727,0.22709459
+"<i>However, on one condition.</i>",(ｲﾀﾁ)＜ただしそれには条件がある＞,"<However, there is a condition for that>",0.26666666666666666,0.75197434
+<i>Your closest friend...</i>,＜最も親しい友を…＞,<Most close friend ...>,0.4,0.7926027
+The Final Valley...,(ﾊﾟｯｸﾝ)終末の谷｡➡,The valley at the end of the end.,0.25,0.8373396
 "When I look at
-the flow of this water,",(ｶｶｼ)この流れを見ていると➡,When I'm looking at this flow,0.4166666666666667
+the flow of this water,",(ｶｶｼ)この流れを見ていると➡,When I'm looking at this flow,0.4166666666666667,0.7559119
 "it's as if I'm being confronted
-by an eternal, never ending battle...",皮肉なもんだな｡,It's an ironic.,0.16666666666666666
+by an eternal, never ending battle...",皮肉なもんだな｡,It's an ironic.,0.16666666666666666,0.1608999
 "Just like the fate of the two people
-depicted in these statues here",(ｶｶｼ)木ノ葉の里を作ったこの像の２人の運命と➡,Two fate of this statue made the village of the tree,0.23529411764705882
+depicted in these statues here",(ｶｶｼ)木ノ葉の里を作ったこの像の２人の運命と➡,Two fate of this statue made the village of the tree,0.2352941176470588,0.5421141
 "Naruto and Sasuke,
-as long as you both live...",(ｶｶｼ)ナルトとサスケ｡➡,Naruto and Sasuke.,0.2727272727272727
-<i>abide by everything you say!</i>,あんたの言いなりにはならない！》,"I can not say that!""",0.21428571428571427
+as long as you both live...",(ｶｶｼ)ナルトとサスケ｡➡,Naruto and Sasuke.,0.2727272727272727,0.8885323
+<i>abide by everything you say!</i>,あんたの言いなりにはならない！》,"I can not say that!""",0.21428571428571427,0.3353575
 "<i>I will get my hands on power</i>
-<i>doing it my own way!</i>",《俺は俺のやり方で力を手に入れる｡➡,"""I get my power in my way.",0.2777777777777778
+<i>doing it my own way!</i>",《俺は俺のやり方で力を手に入れる｡➡,"""I get my power in my way.",0.2777777777777778,0.49574718
 "<i>I will surpass you</i>
-<i>doing it my own way!</i>",俺は俺のやり方であんたを超える！➡,I'm more than my way!➡,0.23529411764705882
-<i>Without fail!</i>,(ｲﾀﾁ)＜殺すことだ＞,<killing>,0.25
-Yeah.,(ﾊﾟｯｸﾝ)うん…｡,Yeah ....,0.6666666666666666
+<i>doing it my own way!</i>",俺は俺のやり方であんたを超える！➡,I'm more than my way!➡,0.2352941176470588,0.4817952
+<i>Without fail!</i>,(ｲﾀﾁ)＜殺すことだ＞,<killing>,0.25,0.3819229
+Yeah.,(ﾊﾟｯｸﾝ)うん…｡,Yeah ....,0.6666666666666666,0.71816415
 "Naruto is more important now
-than pursuing Sasuke.",それにサスケを追うよりナルトが先だ｡,Naruto earlier than chasing Sasuke.,0.36363636363636365
-"It's gotten interesting, hasn't it?",オモシロイコトニナッテキタダロ？,Omosiroi Cotoninatte Kitadaro?,0.09090909090909091
-<i>and this distant yearning for you</i>,♬一つ一つ思い出せば,♬ If you remember one by one,0.06666666666666667
+than pursuing Sasuke.",それにサスケを追うよりナルトが先だ｡,Naruto earlier than chasing Sasuke.,0.3636363636363637,0.81092525
+"It's gotten interesting, hasn't it?",オモシロイコトニナッテキタダロ？,Omosiroi Cotoninatte Kitadaro?,0.09090909090909093,0.0035643987
+<i>and this distant yearning for you</i>,♬一つ一つ思い出せば,♬ If you remember one by one,0.06666666666666668,0.16749589
 "<i>Softly clutching forgotten memories</i>
-<i>Lost words</i>",♬色褪せた言葉は,Daddy Words,0.09090909090909091
+<i>Lost words</i>",♬色褪せた言葉は,Daddy Words,0.09090909090909093,0.33454794
 "I'm sorry.
-I'm really sorry, Sakura.",♬ただそれだけを,♬ I just,0.1111111111111111
+I'm really sorry, Sakura.",♬ただそれだけを,♬ I just,0.1111111111111111,0.28677607

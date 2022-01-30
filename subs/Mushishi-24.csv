@@ -1,272 +1,272 @@
-en_text,jp_text,google_translated,score
-"Light the fires, darkness is coming",夜が来る,night is coming,0.25
-Mushi-shi,紛れ込む,Be mixed,0.0
-That fire...,（野萩(やはぎ)）あの火は…,) That fire is ...,0.6
-Everyone... don't use that fire to warm yourselves!,その火に 当たってはだめ,Don't hit that fire,0.3333333333333333
-So this is my punishment...,がはっ… くっ はあっ！,... is ...,0.3333333333333333
-Was I wrong?,間違っていたのだろうか,Was wrong?,0.75
-Should I have done as that man had said?,あの男の…―,That man ...-,0.16666666666666666
-The Journey To The Field Of Fire,言うようにしていれば―,If you say,0.0
-It looks like it's around here.,（ギンコ）この辺りのようだな…,It seems like this area ...,0.18181818181818182
+en_text,jp_text,google_translated,score,semantic_score
+"Light the fires, darkness is coming",夜が来る,night is coming,0.25,0.5532146
+Mushi-shi,紛れ込む,Be mixed,0.0,0.20196399
+That fire...,（野萩(やはぎ)）あの火は…,) That fire is ...,0.6,0.76842344
+Everyone... don't use that fire to warm yourselves!,その火に 当たってはだめ,Don't hit that fire,0.3333333333333333,0.514449
+So this is my punishment...,がはっ… くっ はあっ！,... is ...,0.3333333333333333,0.2770578
+Was I wrong?,間違っていたのだろうか,Was wrong?,0.75,0.80921334
+Should I have done as that man had said?,あの男の…―,That man ...-,0.16666666666666666,0.24701282
+The Journey To The Field Of Fire,言うようにしていれば―,If you say,0.0,0.10017068
+It looks like it's around here.,（ギンコ）この辺りのようだな…,It seems like this area ...,0.18181818181818185,0.56799567
 I heard there's a mushi-shi in this village.,"この里に 蟲師(むしし)がいるって
 聞いたんだがな","There is a mushi  in this village
-I heard it",0.5384615384615384
-A mushi-shi?,（みく）蟲師？,Midori?,0.25
-Isn't he talking about Yahagi?,（ナオ）野萩のことじゃねえか？,Isn't it?,0.375
+I heard it",0.5384615384615384,0.8548603
+A mushi-shi?,（みく）蟲師？,Midori?,0.25,0.4108156
+Isn't he talking about Yahagi?,（ナオ）野萩のことじゃねえか？,Isn't it?,0.375,0.2225236
 A lot of weeds we've never \Nseen before have been growing,"見たことない草が
 いっぱい生えてきて―","Grass I have never seen
-I will grow a lot-",0.16666666666666666
+I will grow a lot-",0.16666666666666666,0.5924672
 and are withering the trees on the mountain.,"山の木
 どんどん枯らしてるんだ","Mountain tree
-I'm getting more and more",0.15384615384615385
-Then it's decided.,（村人１）じゃあ 決まりだな,It is a rule,0.125
+I'm getting more and more",0.15384615384615385,0.53132683
+Then it's decided.,（村人１）じゃあ 決まりだな,It is a rule,0.125,0.3942385
 We've got to split up and cut down\Nthe trees surrounding the village.,"（村人２）手分けして
-里の周りの木 切っとかんと…",Tree round around the village ...,0.1111111111111111
-Yeah.,（村人１）ああ…,Oh ...,0.0
-Yahagi!,（ナオ）野萩ぃ！,Yoshio Nono!,0.25
-Haven't I told you not to come here?,ここには来るなって言ったでしょ,I said here to come here,0.36363636363636365
-Ah! You've gotten hurt again?,あっ あんた またケガしたの？,Did you get injured again?,0.2727272727272727
-A visitor?,客？,Customer?,0.25
-Ah! Don't touch that weed!,あっ！ その草に触っては…,Ah!Touching the grass ...,0.18181818181818182
-"I see... It would be easy to overlook\Nif it was just this one growing,",（ギンコ）なるほど…,I see ...,0.2
-"but with this many, it would be hard \Nnot to notice these are mushi.",さすがに これだけ群れりゃ―,"As it is, it is only this.",0.21052631578947367
-Are you... a mushi-shi?,あなた 蟲師… ですか？,Are you a teacher ...?,0.7142857142857143
-My name is Ginko.,ギンコと申します,My name is Ginko,0.8
-I've heard that a new species had appeared around here so I thought I'd investigate.,ここらで新種が出たってんで―,A new species came out here-,0.15789473684210525
+里の周りの木 切っとかんと…",Tree round around the village ...,0.1111111111111111,0.69057316
+Yeah.,（村人１）ああ…,Oh ...,0.0,0.49661574
+Yahagi!,（ナオ）野萩ぃ！,Yoshio Nono!,0.25,0.49154675
+Haven't I told you not to come here?,ここには来るなって言ったでしょ,I said here to come here,0.3636363636363637,0.5543429
+Ah! You've gotten hurt again?,あっ あんた またケガしたの？,Did you get injured again?,0.2727272727272727,0.686791
+A visitor?,客？,Customer?,0.25,0.3640433
+Ah! Don't touch that weed!,あっ！ その草に触っては…,Ah!Touching the grass ...,0.18181818181818185,0.52332294
+"I see... It would be easy to overlook\Nif it was just this one growing,",（ギンコ）なるほど…,I see ...,0.2,0.23453704
+"but with this many, it would be hard \Nnot to notice these are mushi.",さすがに これだけ群れりゃ―,"As it is, it is only this.",0.21052631578947367,0.22141539
+Are you... a mushi-shi?,あなた 蟲師… ですか？,Are you a teacher ...?,0.7142857142857143,0.21785048
+My name is Ginko.,ギンコと申します,My name is Ginko,0.8,0.9842992
+I've heard that a new species had appeared around here so I thought I'd investigate.,ここらで新種が出たってんで―,A new species came out here-,0.15789473684210525,0.7700391
 "I'm sorry,","もう 調査は
 終えたんですよ","Another survey
-I finished",0.14285714285714285
+I finished",0.14285714285714285,0.10517817
 Don't move.,"動かない
-（ナオ）いてっ",Not move,0.2
+（ナオ）いてっ",Not move,0.2,0.8311706
 I've read some transcripts of your research.,"あんたの研究の写し
 いくつか読んだよ","Copy of research
-I read some",0.5
-I'm surprised...,驚いたね,I was surprised,0.4
-I never thought you'd be such a young woman.,こんな若い娘だったとは…,What was such a young daughter ...,0.2
+I read some",0.5,0.5858862
+I'm surprised...,驚いたね,I was surprised,0.4,0.63652325
+I never thought you'd be such a young woman.,こんな若い娘だったとは…,What was such a young daughter ...,0.2,0.35469723
 There isn't any need to investigate anymore...,"（野萩）
-もう調査の必要は ないんです",There is no need for investigation,0.25
-What?!,（みく･ナオ）ええ？,Yeah?,0.25
-You're going to burn the mountain?,（みく）山の動物は死んじゃうの？,The mountain animal is dead?,0.2727272727272727
+もう調査の必要は ないんです",There is no need for investigation,0.25,0.7758672
+What?!,（みく･ナオ）ええ？,Yeah?,0.25,0.30236813
+You're going to burn the mountain?,（みく）山の動物は死んじゃうの？,The mountain animal is dead?,0.2727272727272727,0.5098983
 Yes.,"ええ
 （ナオ）なんで？","Yes
- Why?",0.25
-Why? Isn't it only that weed that's no good?,よくないのは あの草だけだろ？,Isn't it only that grass?,0.5
+ Why?",0.25,0.4733822
+Why? Isn't it only that weed that's no good?,よくないのは あの草だけだろ？,Isn't it only that grass?,0.5,0.4753616
 I've asked everyone to try their best to shoo them out.,"（野萩）皆で できるだけ
 追い払うようにしてもらったわ","I can only do it with everyone
-I was asked to chase",0.21052631578947367
-But...,（野萩）こうするしかないの,I have no choice but to,0.14285714285714285
-"If we leave that weed alone any longer,",あの草を これ以上 ほっとくと―,If that grass is more than this-,0.14285714285714285
-Try to understand.,分かってちょうだい,I understand,0.2
+I was asked to chase",0.21052631578947367,0.35752133
+But...,（野萩）こうするしかないの,I have no choice but to,0.14285714285714285,0.3042692
+"If we leave that weed alone any longer,",あの草を これ以上 ほっとくと―,If that grass is more than this-,0.14285714285714285,0.37062606
+Try to understand.,分かってちょうだい,I understand,0.2,0.52728856
 This is our last chance for survival.,"これは
 生き延びる最後の手段なの","this is
-Last means of surviving",0.2727272727272727
+Last means of surviving",0.2727272727272727,0.6427531
 Is there really no other way?,"（ギンコ）本当に
 他に方法はねえのか","Really
-How other ways are hey?",0.2727272727272727
-We're already out of time.,（野萩）もう… 時間切れなのよ,... I'm out of time,0.3
+How other ways are hey?",0.2727272727272727,0.5055688
+We're already out of time.,（野萩）もう… 時間切れなのよ,... I'm out of time,0.3,0.6180915
 There may be something I can do to help.,"何か力になれることも
 あるかもしれん","It can be a powerful
-May have",0.21428571428571427
-It happened two months ago.,今から 二月(ふたつき)前になるわ,It will be before February,0.1
-We were digging up the soil to \Nclear that plain for farmland.,いつものように掘り起こし―,Digging up as usual-,0.13333333333333333
-A large black boulder then surfaced.,すると 大きな黒い岩が現れました,Then a big black rock appeared,0.3
+May have",0.21428571428571427,0.1828186
+It happened two months ago.,今から 二月(ふたつき)前になるわ,It will be before February,0.1,0.318664
+We were digging up the soil to \Nclear that plain for farmland.,いつものように掘り起こし―,Digging up as usual-,0.13333333333333333,0.40159363
+A large black boulder then surfaced.,すると 大きな黒い岩が現れました,Then a big black rock appeared,0.3,0.67899317
 "Since we're near a volcano, there area lot of volcanic rocks in the area.","この辺りは火山に近いため
 溶岩石も多く―","Because this area is close to the volcano
-Many of the solva",0.17391304347826086
-"The next day, I noticed a weed was growing out from a crack in the boulder.",その岩の亀裂から―,From the crack of the rock-,0.16666666666666666
+Many of the solva",0.17391304347826084,0.66319054
+"The next day, I noticed a weed was growing out from a crack in the boulder.",その岩の亀裂から―,From the crack of the rock-,0.16666666666666666,0.5139459
 "But at the time, I gave no heed to it.","けれど その時は
 気にも留めませんでした","But at that time
-I did not mind",0.25
+I did not mind",0.25,0.4328224
 "Three days later, the rain had cleared","３日後 降り続いた雨が上がって
 原へ行くと―","The rain that lasted after 3 days rises
-Go to the original-",0.1875
-and we found that the plain \Nwas overrun with those weeds.,拓いたばかりの土地一面に―,On the one-sided land that has just pioneered-,0.1111111111111111
+Go to the original-",0.1875,0.74413395
+and we found that the plain \Nwas overrun with those weeds.,拓いたばかりの土地一面に―,On the one-sided land that has just pioneered-,0.1111111111111111,0.3703005
 It seemed that their roots were connected.,"それは…
 どれだけ刈っても抜いても―","that is…
-Even if you remove it",0.15384615384615385
-"By the time I realized it was \Nsomething unnatural, it was too late.",その草が生い茂っていました,The grass was overgrown,0.13333333333333333
-Their blossoms released a poison,数々の駆除法を試しましたが―,I tried a number of controls-,0.1
-and started withering the surrounding plants.,周囲の草木を枯らし始めたのです,I started to die around the surrounding plants,0.36363636363636365
-The weed has spread throughout the mountain,草は山じゅうに広がり―,Grass spreads to the mountains-,0.1
-"Even so, the price for burning\Nthe entire mountain is too big.",山ごと焼くのは 代償がでかすぎる,It is too much for the cost of baking,0.2222222222222222
-"Furthermore, it's an unknown mushi.",しかも相手は正体不明の蟲だ,"Moreover, the other party is an unknown",0.23076923076923078
+Even if you remove it",0.15384615384615385,0.011793285
+"By the time I realized it was \Nsomething unnatural, it was too late.",その草が生い茂っていました,The grass was overgrown,0.13333333333333333,0.111168295
+Their blossoms released a poison,数々の駆除法を試しましたが―,I tried a number of controls-,0.1,-0.01754705
+and started withering the surrounding plants.,周囲の草木を枯らし始めたのです,I started to die around the surrounding plants,0.3636363636363637,0.6012211
+The weed has spread throughout the mountain,草は山じゅうに広がり―,Grass spreads to the mountains-,0.1,0.6731306
+"Even so, the price for burning\Nthe entire mountain is too big.",山ごと焼くのは 代償がでかすぎる,It is too much for the cost of baking,0.2222222222222222,0.37306598
+"Furthermore, it's an unknown mushi.",しかも相手は正体不明の蟲だ,"Moreover, the other party is an unknown",0.2307692307692308,0.27564752
 You don't know what kind of consequences there will be.,"どんな影響が出るか
 分かったもんじゃない","What kind of impact does it happen
-I understand",0.16666666666666666
-You should try to gather as many people as possible and pull them out...,確実に抜いていくべきだ,You should surely pull out,0.26666666666666666
+I understand",0.16666666666666666,0.43158305
+You should try to gather as many people as possible and pull them out...,確実に抜いていくべきだ,You should surely pull out,0.26666666666666666,0.47957325
 no matter how much time it takes.,"どれだけ時間が
 かかったとしても","How long
-Even if it took",0.16666666666666666
-this village won't be able to survive the winter.,里は冬を越せなくなる,Village will not go over winter,0.13333333333333333
-Everyone's lives are at stake.,皆の命が かかってるのよ,Everyone's lives,0.42857142857142855
-It's not good to be hasty.,焦って手を出すのは まずい,It is bad to put out your hand,0.14285714285714285
-Are you saying we should ignore some casualties?,多少の犠牲は目をつぶれと言うの？,Do you say some sacrifices to blind?,0.21428571428571427
-A fair argument.,（野萩）正論だわね…,It is a positive theory ...,0.1111111111111111
-"Therefore, there is no meaning to that reasoning.",なら そんな理屈 意味はないわ,"If so, there is no such basis",0.2857142857142857
-It's the same with you.,（ギンコ）それは あんたもだろ,That's it,0.25
+Even if it took",0.16666666666666666,0.55428076
+this village won't be able to survive the winter.,里は冬を越せなくなる,Village will not go over winter,0.13333333333333333,0.8245436
+Everyone's lives are at stake.,皆の命が かかってるのよ,Everyone's lives,0.42857142857142855,0.5873746
+It's not good to be hasty.,焦って手を出すのは まずい,It is bad to put out your hand,0.14285714285714285,0.2545052
+Are you saying we should ignore some casualties?,多少の犠牲は目をつぶれと言うの？,Do you say some sacrifices to blind?,0.21428571428571427,0.3620564
+A fair argument.,（野萩）正論だわね…,It is a positive theory ...,0.1111111111111111,0.18820563
+"Therefore, there is no meaning to that reasoning.",なら そんな理屈 意味はないわ,"If so, there is no such basis",0.2857142857142857,0.27404803
+It's the same with you.,（ギンコ）それは あんたもだろ,That's it,0.25,0.29434058
 Isn't it natural to want to protect\Nthe people of your hometown?,"故郷の人を
 守りたいのは当然でしょう…","Hometown people
-It will be natural to protect ...",0.3125
-I'm willing to use any means for that purpose.,どんな手段も使うつもりよ,I will use any means,0.3333333333333333
-I'll give you that report.,その調書は差し上げます,I will give you a record,0.3
-The cherry tree is gone too.,桜の木もないよ,There is no cherry tree,0.3333333333333333
-Hey!,（ギンコ）おい！,!,0.5
-Please stop cutting.,切るのを やめてくれ！,Stop cutting it!,0.3333333333333333
-Who are you?,（村人１）ああ？,Oh?,0.2
-I'm begging you. Please think about it carefully.,頼むから 肝据えて考えてくれよ,Please think about liver and think,0.25
-"It's hard for us to destroy the forest, too.",俺らだって 山荒らすのは辛いさ,It is hard to do the dirt so,0.25
+It will be natural to protect ...",0.3125,0.78472614
+I'm willing to use any means for that purpose.,どんな手段も使うつもりよ,I will use any means,0.3333333333333333,0.7284503
+I'll give you that report.,その調書は差し上げます,I will give you a record,0.3,0.45432425
+The cherry tree is gone too.,桜の木もないよ,There is no cherry tree,0.3333333333333333,0.7622707
+Hey!,（ギンコ）おい！,!,0.5,0.58058757
+Please stop cutting.,切るのを やめてくれ！,Stop cutting it!,0.3333333333333333,0.79319185
+Who are you?,（村人１）ああ？,Oh?,0.2,0.21515761
+I'm begging you. Please think about it carefully.,頼むから 肝据えて考えてくれよ,Please think about liver and think,0.25,0.2326602
+"It's hard for us to destroy the forest, too.",俺らだって 山荒らすのは辛いさ,It is hard to do the dirt so,0.25,0.35333326
 "You're a mushi-shi from elsewhere, aren't you?","（村人２）
-あんた よそから来た蟲師だろ？",You're an acupuncturist who came from?,0.2857142857142857
-We have a great mushi-shi in this village as well.,この里にだって 立派な蟲師がいる,There is a good acupuncturist in this village,0.26666666666666666
+あんた よそから来た蟲師だろ？",You're an acupuncturist who came from?,0.2857142857142857,0.2279402
+We have a great mushi-shi in this village as well.,この里にだって 立派な蟲師がいる,There is a good acupuncturist in this village,0.26666666666666666,0.19018887
 you look like a frightened tribe of monkeys.,"あんたらは
 おびえた猿の群れのようだよ","Anyara
-It seems like a flock of a scared monkey",0.2
-What did you say?! You son of a...,何だと この！,What is this!,0.16666666666666666
-Didn't people begin to use fire in order to do just that?,そうするために―,To do so-,0.14285714285714285
-It was also intelligence that\Nallowed people to approach fire.,火に歩み寄ったのもヒトの知恵だわ,It is also the wisdom of human who walked on fire,0.16666666666666666
-That's not what I'm talking about.,そういうことを言ってんじゃない,I'm not saying that,0.4
-Haven't I already told you to leave us alone?,知恵で克服しろって言ってんだ,I told you to overcome with wisdom,0.2857142857142857
-Come with us!,（村人１）来い！,Come!,0.5
-"Everyone, calm down and listen.",（野萩）みんな 落ち着いて聞いて,Everyone is calm and listened,0.3333333333333333
-I found that weed at the edge of our village.,里の橋で あの草を見つけたわ,I found that grass at the village bridge,0.46153846153846156
+It seems like a flock of a scared monkey",0.2,0.5629222
+What did you say?! You son of a...,何だと この！,What is this!,0.16666666666666666,0.10844667
+Didn't people begin to use fire in order to do just that?,そうするために―,To do so-,0.14285714285714285,0.14951965
+It was also intelligence that\Nallowed people to approach fire.,火に歩み寄ったのもヒトの知恵だわ,It is also the wisdom of human who walked on fire,0.16666666666666666,0.6517729
+That's not what I'm talking about.,そういうことを言ってんじゃない,I'm not saying that,0.4,0.5007863
+Haven't I already told you to leave us alone?,知恵で克服しろって言ってんだ,I told you to overcome with wisdom,0.2857142857142857,0.3305087
+Come with us!,（村人１）来い！,Come!,0.5,0.6702212
+"Everyone, calm down and listen.",（野萩）みんな 落ち着いて聞いて,Everyone is calm and listened,0.3333333333333333,0.78203213
+I found that weed at the edge of our village.,里の橋で あの草を見つけたわ,I found that grass at the village bridge,0.4615384615384616,0.7064205
 Let's hurry with the deforestation and set the mountain on fire tonight.,"今夜にも
 山に火をつけましょう","It tonight
-Let's fire the mountain",0.42857142857142855
-Ugh... ow.,（ギンコ）あー いてえ…,Oh ...,0.2
-I guess I went a bit too far...,（村人たち）あ…,A ...,0.25
-"For that reason alone, she must regret that her only option is to burn it.",焼くしかないのは悔しいだろうに,I'm sorry that I have no choice but to bake,0.08333333333333333
+Let's fire the mountain",0.42857142857142855,0.6422403
+Ugh... ow.,（ギンコ）あー いてえ…,Oh ...,0.2,0.42299393
+I guess I went a bit too far...,（村人たち）あ…,A ...,0.25,0.17642967
+"For that reason alone, she must regret that her only option is to burn it.",焼くしかないのは悔しいだろうに,I'm sorry that I have no choice but to bake,0.08333333333333333,0.3397721
 Only you can put a stop to this.,"あんたが
 止めてくれるしかないんだよ","Aunt
-I have no choice but to stop",0.13333333333333333
-Could it be?!,（ギンコ）はっ！,!,0.2
-I've got a bad feeling about this.,（ギンコ）どうも嫌な予感がする,I have a bad feeling of disgusting,0.3333333333333333
-That mushi was inside a volcanic rock.,あれは―,That is-,0.1111111111111111
-I get the feeling that we shouldn't set it on fire.,火を与えてはいけない…,Don't give fire ...,0.125
-Let's set the fires.,つけましょう…,Let's put it ...,0.2222222222222222
-"Now, we can survive.",（村人１）これで やっていける,I can do this,0.1111111111111111
-What... is this noise?,（野萩）何？ この音…,?This sound ...,0.42857142857142855
-"Hey, what's that?",あれは…,That is…,0.14285714285714285
-Those are...,はっ…,Haze ...,0.25
-Everyone! Quickly! Back to the village!,みんな 早く里に戻って！,Everybody returns to the village quickly!,0.5555555555555556
+I have no choice but to stop",0.13333333333333333,0.371782
+Could it be?!,（ギンコ）はっ！,!,0.2,0.25198653
+I've got a bad feeling about this.,（ギンコ）どうも嫌な予感がする,I have a bad feeling of disgusting,0.3333333333333333,0.49978948
+That mushi was inside a volcanic rock.,あれは―,That is-,0.1111111111111111,0.17326441
+I get the feeling that we shouldn't set it on fire.,火を与えてはいけない…,Don't give fire ...,0.125,0.5800867
+Let's set the fires.,つけましょう…,Let's put it ...,0.2222222222222222,0.38054624
+"Now, we can survive.",（村人１）これで やっていける,I can do this,0.1111111111111111,0.15665536
+What... is this noise?,（野萩）何？ この音…,?This sound ...,0.42857142857142855,0.508487
+"Hey, what's that?",あれは…,That is…,0.14285714285714285,0.19793054
+Those are...,はっ…,Haze ...,0.25,0.19615135
+Everyone! Quickly! Back to the village!,みんな 早く里に戻って！,Everybody returns to the village quickly!,0.5555555555555556,0.8770186
 Don't let that fire get near your homes!,"あの火を家に近づけないで…
 はあっ…","Don't get close to that fire ...
-What…",0.35714285714285715
+What…",0.35714285714285715,0.68376315
 Hey! Turn over all of your containers!,"（ギンコ）おいっ！
 そこらの入れ物を全部伏せろ","!
-Let's fall in all of the containings",0.21428571428571427
+Let's fall in all of the containings",0.21428571428571427,0.40499595
 Do as he says! Quickly!,"早く！
 （２人）あ…","quickly!
- ...",0.2857142857142857
-"Everyone, listen well.",（野萩）みんな よく聞いて,Everyone listens carefully,0.14285714285714285
+ ...",0.2857142857142857,0.49133134
+"Everyone, listen well.",（野萩）みんな よく聞いて,Everyone listens carefully,0.14285714285714285,0.66297734
 "That thing looks like fire, \Nbut it's something called kagebi.","あれは 火のように見えるけど
 陰火というモノ","That looks like a fire
-A common fire",0.26666666666666666
-It appears on rainy and cold days,雨の日や寒い日なんかに現れて―,Rainy day and cold day appeared-,0.3333333333333333
-"and gradually steals body heat\Nfrom those who approach it,",体温を徐々に奪っていくの,I will take the body temperature gradually,0.13333333333333333
+A common fire",0.26666666666666666,0.6063801
+It appears on rainy and cold days,雨の日や寒い日なんかに現れて―,Rainy day and cold day appeared-,0.3333333333333333,0.68542296
+"and gradually steals body heat\Nfrom those who approach it,",体温を徐々に奪っていくの,I will take the body temperature gradually,0.13333333333333333,0.36427242
 "On warm days,","暖かな日は
 壺の中や木のウロなんか―","Warm day
-Middle and tree woro-",0.1111111111111111
-"it will lurk in narrow spaces,\Nlike in pots or hollows in trees.",狭い所で姿を消して潜んでる,Eras up in a narrow place,0.11764705882352941
+Middle and tree woro-",0.1111111111111111,0.5655581
+"it will lurk in narrow spaces,\Nlike in pots or hollows in trees.",狭い所で姿を消して潜んでる,Eras up in a narrow place,0.1176470588235294,0.2838767
 Some of them probably have nested already.,"いくつか もう
 巣食ってしまってるでしょうね","Some already
-You will have a nest",0.25
-You may end up freezing to death if you unwittingly stay near it too long.,気づかず長く当たりすぎると―,If you don't notice it too long-,0.21052631578947367
+You will have a nest",0.25,0.71746355
+You may end up freezing to death if you unwittingly stay near it too long.,気づかず長く当たりすぎると―,If you don't notice it too long-,0.21052631578947367,0.3694049
 How exactly are we supposed to be careful?,"（村人１）気をつけるって
 どうすればいいの？","Be careful
-What should I do?",0.23076923076923078
-Within the kagebi is a mushi called the Hidane.,その蟲が陰火の実体…,The crab is a genealogile entity ...,0.23076923076923078
-It thrives by absorbing humans' heat.,ヒトの熱を吸って生きるモノよ,A thing that lives to suck the heat of humans,0.125
-But it's all right.,でも 大丈夫,but it's okay,0.42857142857142855
+What should I do?",0.2307692307692308,0.47504637
+Within the kagebi is a mushi called the Hidane.,その蟲が陰火の実体…,The crab is a genealogile entity ...,0.2307692307692308,0.15686923
+It thrives by absorbing humans' heat.,ヒトの熱を吸って生きるモノよ,A thing that lives to suck the heat of humans,0.125,0.5817156
+But it's all right.,でも 大丈夫,but it's okay,0.42857142857142855,0.66544116
 But we can deal with Hidane.,"（野萩）
-でも ヒダネなら対処できる","But if it is Hidane, you can handle",0.23076923076923078
-I've read about them before.,いつか書物で読んだし,I read it with a book someday,0.16666666666666666
-How unfortunate for you that it wasn't a new species.,新種じゃなくて残念だったわね,It was disappointing that it was not a new species,0.42857142857142855
-Don't take your frustration out on me.,俺に当たるなよ…,Don't hit me ...,0.2727272727272727
-Kagebi are persistent.,陰火は しつこいぞ,The color cause is persistent,0.125
+でも ヒダネなら対処できる","But if it is Hidane, you can handle",0.2307692307692308,0.7675307
+I've read about them before.,いつか書物で読んだし,I read it with a book someday,0.16666666666666666,0.35182524
+How unfortunate for you that it wasn't a new species.,新種じゃなくて残念だったわね,It was disappointing that it was not a new species,0.42857142857142855,0.84593207
+Don't take your frustration out on me.,俺に当たるなよ…,Don't hit me ...,0.2727272727272727,0.36641303
+Kagebi are persistent.,陰火は しつこいぞ,The color cause is persistent,0.125,0.24805757
 "You're the only one in the village who can deal with them, aren't you?","この里で対処できるのは
 あんただけだろ","What can be dealt with in this village
-You only",0.3
-It's in return for the report.,調書の礼だ,Thank you for the record,0.18181818181818182
-Ugh... crap. It's cold.,（村人１）ああ くそっ… 寒いな,"Oh, it's cold ... cold",0.4444444444444444
-Damn... it won't light.,１人で無理はするなよ…,Don't force it alone ...,0.3
-A left-over fire?,残り火か…,Remaining fire ...,0.16666666666666666
-Today is sure cold.,今日は冷えるねえ,Today is cold,0.6
-They probably won't sprout up anymore.,もう増えることはないだろう,It will not increase anymore,0.08333333333333333
-Yahagi-chan! My child has become so cold!,うちの子がこんな冷たく…,My child is so cold ...,0.4
-"Our old man, too!",（村人１）あっ！,!,0.16666666666666666
-The folks next door are...,（村人３）隣の連中の様子が…,The situation of the next party is ...,0.3
-Yahagi-chan?,（村人２）野萩ちゃん？,Nomo-chan?,0.3333333333333333
-So then what?,それで？,So?,0.5
-Seven people died.,７人… 亡くなったわ,7 people ... I died,0.2857142857142857
+You only",0.3,0.7645173
+It's in return for the report.,調書の礼だ,Thank you for the record,0.18181818181818185,0.2531719
+Ugh... crap. It's cold.,（村人１）ああ くそっ… 寒いな,"Oh, it's cold ... cold",0.4444444444444444,0.7665038
+Damn... it won't light.,１人で無理はするなよ…,Don't force it alone ...,0.3,0.28928185
+A left-over fire?,残り火か…,Remaining fire ...,0.16666666666666666,0.6448084
+Today is sure cold.,今日は冷えるねえ,Today is cold,0.6,0.898711
+They probably won't sprout up anymore.,もう増えることはないだろう,It will not increase anymore,0.08333333333333333,0.23258436
+Yahagi-chan! My child has become so cold!,うちの子がこんな冷たく…,My child is so cold ...,0.4,0.65119565
+"Our old man, too!",（村人１）あっ！,!,0.16666666666666666,0.20764528
+The folks next door are...,（村人３）隣の連中の様子が…,The situation of the next party is ...,0.3,0.3366704
+Yahagi-chan?,（村人２）野萩ちゃん？,Nomo-chan?,0.3333333333333333,0.60278726
+So then what?,それで？,So?,0.5,0.5968428
+Seven people died.,７人… 亡くなったわ,7 people ... I died,0.2857142857142857,0.7272252
 I thought I had warned them enough.,"十分 注意してもらってる…
 つもりだった","I'm getting caught enough ...
-I was going to",0.14285714285714285
+I was going to",0.14285714285714285,0.34382612
 Those with a sore gut should recover soon with rest.,"それから 陰火で
 煮炊きした物を食べて―","Then on a viking
-Eat food with boiled food-",0.11764705882352941
-"Everyone is now being very cautious,\Nso casualties have fallen.",今は被害も落ち着いている,Now the damage is also calm,0.125
-What about the ridding of the kagebi?,（ギンコ）陰火の処理は？,What is the processing of the color cause?,0.36363636363636365
-"By crushing the Hidane, they soon disappeared.",ヒダネを潰せば やがて消えたわ,"If you destroy Hidane, you've disappeared",0.23076923076923078
-We should be rid of most of them.,それで ほとんど処分できたはずよ,That should have been disposed of almost,0.15384615384615385
+Eat food with boiled food-",0.1176470588235294,0.18415421
+"Everyone is now being very cautious,\Nso casualties have fallen.",今は被害も落ち着いている,Now the damage is also calm,0.125,0.3668629
+What about the ridding of the kagebi?,（ギンコ）陰火の処理は？,What is the processing of the color cause?,0.3636363636363637,-0.0023162556
+"By crushing the Hidane, they soon disappeared.",ヒダネを潰せば やがて消えたわ,"If you destroy Hidane, you've disappeared",0.2307692307692308,0.70763147
+We should be rid of most of them.,それで ほとんど処分できたはずよ,That should have been disposed of almost,0.15384615384615385,0.32779846
 "If the mushi gets killed, so does the fire.","（ギンコ）蟲を殺せば
-火も消える… か",The fire disappears ...,0.16666666666666666
-It's as the writings say.,書物どおりだな,It is as a book,0.2
+火も消える… か",The fire disappears ...,0.16666666666666666,0.53029305
+It's as the writings say.,書物どおりだな,It is as a book,0.2,0.5257645
 But I've discovered the ecology not in the writings.,"でも…
 書物にない生態も分かったわ","but…
-I also understood ecology not in the book",0.35714285714285715
+I also understood ecology not in the book",0.35714285714285715,0.7528024
 Is that what you want me to help with?,"はっ… 力を貸してほしいってのは
 そのことか","Ha ... I want you to lend the power
-Is that thing",0.29411764705882354
-What are you going to do?,どうするんだ？,What do you do?,0.5714285714285714
-I just have to go to somewhere desolate.,陰火を吸い込んでしまったのよ,I have sucked up a pubic fire,0.15384615384615385
-"When we burned the mountain, I inhaled a kagebi.",山を焼いた時―,When you bake the mountain-,0.14285714285714285
-"A person's body can also serve as a container, can't it?",ヒトの体も入れ物と言えるものね,It can be said that human body is also included,0.2
-but now that has stopped.,それは もう止まったわ,It has already stopped,0.25
-"This is my punishment, isn't it?",これは報いなんでしょうね,This is a reward,0.2
-The Hidane have sprouted in my gut.,ヒダネが私の腑の中で芽を出したの,Hidane sprouted in my,0.5
-And it also began to spit poison.,そして毒を吐き始めた…,And I started to spon the poison ...,0.23076923076923078
+Is that thing",0.29411764705882354,0.37810498
+What are you going to do?,どうするんだ？,What do you do?,0.5714285714285714,0.61124754
+I just have to go to somewhere desolate.,陰火を吸い込んでしまったのよ,I have sucked up a pubic fire,0.15384615384615385,0.19719012
+"When we burned the mountain, I inhaled a kagebi.",山を焼いた時―,When you bake the mountain-,0.14285714285714285,0.47965878
+"A person's body can also serve as a container, can't it?",ヒトの体も入れ物と言えるものね,It can be said that human body is also included,0.2,0.4275902
+but now that has stopped.,それは もう止まったわ,It has already stopped,0.25,0.61586106
+"This is my punishment, isn't it?",これは報いなんでしょうね,This is a reward,0.2,0.34792352
+The Hidane have sprouted in my gut.,ヒダネが私の腑の中で芽を出したの,Hidane sprouted in my,0.5,0.8713528
+And it also began to spit poison.,そして毒を吐き始めた…,And I started to spon the poison ...,0.2307692307692308,0.57056254
 I've already told the rest of the village that there's not much time left for me.,"里の皆にも 私がもう
 長くないことは伝えてある","I am also for everyone in the village
-I have not been long",0.2
+I have not been long",0.2,0.6187684
 I'm thinking of leaving the village to find \Na place to die before my body is taken over.,"里を出て 死に場所を
 探そうと思ってる","Go out the village and die
-I'm thinking of looking",0.30434782608695654
-I don't know if I would have said\Nthe same thing in your position.,同じことを言えたか分からんよ,I do not know how to say the same thing,0.2631578947368421
-"This is a battle that you all started,\Nwhich will continue from here on.",あんたらが始めた戦いだ,It's a battle that I started,0.21052631578947367
-It would be a problem to just end it with you.,犯したりしないでしょうから,Because it will not be committed,0.13333333333333333
-You're going to catch a kagebi?,陰火を捕まえる？,Can you catch a color?,0.4
-Here's one!,いたー！,Gah!,0.2
-What are you planning to do?,（野萩）どういうつもり？,What is it?,0.2222222222222222
+I'm thinking of looking",0.3043478260869565,0.71251744
+I don't know if I would have said\Nthe same thing in your position.,同じことを言えたか分からんよ,I do not know how to say the same thing,0.2631578947368421,0.45257303
+"This is a battle that you all started,\Nwhich will continue from here on.",あんたらが始めた戦いだ,It's a battle that I started,0.21052631578947367,0.63060963
+It would be a problem to just end it with you.,犯したりしないでしょうから,Because it will not be committed,0.13333333333333333,0.18406482
+You're going to catch a kagebi?,陰火を捕まえる？,Can you catch a color?,0.4,0.4004742
+Here's one!,いたー！,Gah!,0.2,0.31977406
+What are you planning to do?,（野萩）どういうつもり？,What is it?,0.2222222222222222,0.19193134
 Don't you think the Hidane are well made?,"（ギンコ）ヒダネってのは
 よくできてるよな…","Hidnee
-Well done ...",0.07692307692307693
+Well done ...",0.07692307692307693,0.37392068
 "Gaining fire, they mature and use it to lure people in to steal their body heat.","そいつがヒトに
 火をつけさせることにもなる","That guy to humans
-It will also cause fire",0.13043478260869565
-"As a result, man, the only animal\Nthat uses fire, is used by this fire.",所詮 この火は偽の火だ,After all this fire is a fake fire,0.2222222222222222
-Do you think that the larvae will mature if we set this imitation fire upon them?,成体となることができると思うか？,Do you think it can be an adult?,0.18181818181818182
-"Then, you mean...",だが…,But ...,0.16666666666666666
-Food which has been heated by kagebi\Nalso likely has the same effect.,恐らく 同様の効果がある,Perhaps the same effect,0.23076923076923078
-While burning my gut?,自分の腑も焼きながら？,While grilled your own sights?,0.2222222222222222
-"Yeah, I ate that too, \Nand my gut hurt as if it were on fire.",俺も食べたけど―,I also ate it-,0.10526315789473684
-What do you want to do?,どうする？,what will you do?,0.5714285714285714
-It burned the weeds.,焼けている,Burned,0.2
-"More, please.",はあっ… もっとちょうだい,Has ... more,0.16666666666666666
-Don't rush.,焦るなよ,Don't be burnt,0.3333333333333333
-Slowly and surely.,ゆっくり治していくんだ,I will cure slowly,0.14285714285714285
-Even after that...,（ギンコ）そののちも―,After that-,0.2
-I hear that she continues to live protecting the village,里を異形のものから守りながら―,While protecting the village from variants-,0.23076923076923078
-I wonder if it's because it's gotten warmer?,（みく）あったかくなったからかな,I wonder if there was a,0.25
-It could be.,（野萩）そうかもね,may be,0.2
+It will also cause fire",0.13043478260869565,0.42911905
+"As a result, man, the only animal\Nthat uses fire, is used by this fire.",所詮 この火は偽の火だ,After all this fire is a fake fire,0.2222222222222222,0.40425873
+Do you think that the larvae will mature if we set this imitation fire upon them?,成体となることができると思うか？,Do you think it can be an adult?,0.18181818181818185,0.30430958
+"Then, you mean...",だが…,But ...,0.16666666666666666,0.48814583
+Food which has been heated by kagebi\Nalso likely has the same effect.,恐らく 同様の効果がある,Perhaps the same effect,0.2307692307692308,0.3832414
+While burning my gut?,自分の腑も焼きながら？,While grilled your own sights?,0.2222222222222222,0.27350467
+"Yeah, I ate that too, \Nand my gut hurt as if it were on fire.",俺も食べたけど―,I also ate it-,0.10526315789473684,0.5478726
+What do you want to do?,どうする？,what will you do?,0.5714285714285714,0.61646503
+It burned the weeds.,焼けている,Burned,0.2,0.47126362
+"More, please.",はあっ… もっとちょうだい,Has ... more,0.16666666666666666,0.46837217
+Don't rush.,焦るなよ,Don't be burnt,0.3333333333333333,0.25701872
+Slowly and surely.,ゆっくり治していくんだ,I will cure slowly,0.14285714285714285,0.3506927
+Even after that...,（ギンコ）そののちも―,After that-,0.2,0.6053908
+I hear that she continues to live protecting the village,里を異形のものから守りながら―,While protecting the village from variants-,0.2307692307692308,0.47804508
+I wonder if it's because it's gotten warmer?,（みく）あったかくなったからかな,I wonder if there was a,0.25,0.18826175
+It could be.,（野萩）そうかもね,may be,0.2,0.6547467
 But we don't know where they lurk.,"でも まだ どこに潜んでるか
 分からないわ","But where do you still dive
-I do not know",0.2857142857142857
+I do not know",0.2857142857142857,0.16258341
 Oh!,"油断しちゃあ…
 （みく）あ！","Oil-breaking ...
- Ah!",0.2
-It's flying towards the valley.,（みく）谷の方へ飛んでく,Flying to the valley,0.375
-"And holding its breath,",そして 息を潜めて―,And dive your breath-,0.125
+ Ah!",0.2,0.21398205
+It's flying towards the valley.,（みく）谷の方へ飛んでく,Flying to the valley,0.375,0.80445725
+"And holding its breath,",そして 息を潜めて―,And dive your breath-,0.125,0.65665674
 It patiently waits for winter to come.,"冬が来るのを
 じっと待っているんだわ…","Winter comes
-I'm waiting for you ...",0.14285714285714285
-Eye Of Misfortune,～♪,~ ♪,0.0
+I'm waiting for you ...",0.14285714285714285,0.730666
+Eye Of Misfortune,～♪,~ ♪,0.0,0.1080781

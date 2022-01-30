@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.71131814
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.862805
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207117
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.6541098
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.3804589
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851646
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.4000978
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.58001244
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.36993268
 Sarutobi...,"(
 大蛇丸
 )
@@ -107,7 +107,7 @@ Sarutobi...,"(
 
 ","Uh ...
 .
-➡",0.2
+➡",0.2,0.23274563
 At the very least this sword...,"(
 猿魔
 )
@@ -117,19 +117,19 @@ At the very least this sword...,"(
 
 ","""at least
  
-This sword alone ... """,0.5555555555555556
+This sword alone ... """,0.5555555555555556,0.7113941
 <i>It was a fitting end for somebody like you</i>,"まさに
 お前らしい最期だった》
 
 ","Exactly
-It was the last time",0.11764705882352941
+It was the last time",0.1176470588235294,0.17465684
 "<i>who has mastered</i>
 <i>the Way of the Shinobi.</i>","(
 猿魔
 )
 《忍の道を極めた➡
 
-","""I'm a god of Shinobu",0.125
+","""I'm a god of Shinobu",0.125,0.5273973
 It feels like my arms are burning...,"(
 大蛇丸
 )
@@ -145,7 +145,7 @@ It feels like my arms are burning...,"(
 Arms
  
 It seems that it will burn ...
-.",0.21428571428571427
+.",0.21428571428571427,0.69628954
 "Release the Barrier.
 We'll head back.","結界はもういい
  
@@ -155,14 +155,14 @@ We'll head back.","結界はもういい
 ","Background is good
  
 I'm back
-.",0.15384615384615385
+.",0.15384615384615385,0.22386509
 "- Release!
 - Release!","(
 左近
 )
 大蛇丸様！
 
-",Launcher!,0.25
+",Launcher!,0.25,0.32722577
 The Barrier...!,"(
 ガイ
 )
@@ -174,17 +174,17 @@ The Barrier...!,"(
 ","Barbage ...
 .
 
-I was solved!",0.2222222222222222
+I was solved!",0.2222222222222222,0.21115778
 Where is Lord Hokage?,"(ｹﾞﾝﾏ)
 火影様は？
 
-",What is the fire laptop?,0.2222222222222222
+",What is the fire laptop?,0.2222222222222222,0.07099757
 Let's go,"(
 暗部１
 )
 行くぞ！➡
 
-",let's go!➡,0.6
+",let's go!➡,0.6,0.7677759
 "No, wait, Guy.","(ｶｶｼ)
 いや
  
@@ -198,7 +198,7 @@ Let's go,"(
 wait
  
 Guy
-.",0.5
+.",0.5,0.40664494
 "If you make a move without
 any data on the situation up there,","(ｶﾌﾞﾄ)
 そう
@@ -209,7 +209,7 @@ any data on the situation up there,","(ｶﾌﾞﾄ)
 ","Yes
  
 There is no status information above
-If you move around in the state",0.21739130434782608
+If you move around in the state",0.21739130434782608,0.49346215
 I'm totally aware of that.,"敵のわなに
  
 はまりますよ
@@ -218,13 +218,13 @@ I'm totally aware of that.,"敵のわなに
 ","Enemy's Wana
  
 I'm getting lost
-.",0.25
+.",0.25,0.08617837
 "we can't let the enemy get away
 at a time like this!","こんなときに
 敵を見逃すわけにはいかん！➡
 
 ","Such a time
-I miss the enemy!➡",0.2777777777777778
+I miss the enemy!➡",0.2777777777777778,0.6229204
 That is the way of the Leaf Shinobi!,"それが
  
 木ノ葉の忍だ
@@ -233,7 +233,7 @@ That is the way of the Leaf Shinobi!,"それが
 ","that is
  
 It is Shinobu of the tree
-.",0.3333333333333333
+.",0.3333333333333333,0.6855984
 So... are you just going to watch?,"(
 ガイ
 )
@@ -245,12 +245,12 @@ So... are you just going to watch?,"(
 ","Kakashi
  
 I've moved my guy!
-Would you like to chase?",0.15789473684210525
+Would you like to chase?",0.15789473684210525,0.1644924
 Kabuto?,"カブト
 ｡
 
 ","Kabuto
-.",0.3333333333333333
+.",0.3333333333333333,0.9550613
 "So you did know, after all.","(
 ガイ
 )
@@ -262,7 +262,7 @@ Kabuto?,"カブト
 ","That's all about hundreds
 Watermelon
  
-If you don't know",0.1875
+If you don't know",0.1875,0.15879883
 So... what are we going to do?,"(
 バキ
 )
@@ -272,7 +272,7 @@ So... what are we going to do?,"(
 
 ","Oi
  
-what will you do?",0.25
+what will you do?",0.25,0.43355125
 "It's about time that
 we made a retreat.","(ｶﾌﾞﾄ)
 そろそろ
@@ -283,12 +283,12 @@ we made a retreat.","(ｶﾌﾞﾄ)
 ","gradually
  
 Let's pull it
-.",0.23076923076923078
+.",0.2307692307692308,0.2437554
 "You're going to run away
 from me again?","(ｶｶｼ)
 また俺から逃げるのか？
 
-",Are you running away from me again?,0.5
+",Are you running away from me again?,0.5,0.85879415
 "it doesn't seem like you've completely
 mastered that eye like the Uchiha clan.","その眼を使いこなせては
 いないようですが
@@ -296,7 +296,7 @@ mastered that eye like the Uchiha clan.","その眼を使いこなせては
 
 ","If you use that eye
 It seems not to
-.",0.25
+.",0.25,0.50229406
 Temari...,"≪
 (ｶﾝｸﾛｳ)
 テマリ
@@ -305,7 +305,7 @@ Temari...,"≪
 ","«
 
 Temari
-.",0.25
+.",0.25,0.79502195
 Kankuro!,"(ﾃﾏﾘ)
 はっ！
  
@@ -313,15 +313,15 @@ Kankuro!,"(ﾃﾏﾘ)
 
 ","Hey!
  
-Cancel!",0.25
+Cancel!",0.25,0.24364352
 I'm leaving Sakura with you.,"サクラを頼む
 ｡
 
 ","Ask Sakura
-.",0.25
+.",0.25,0.6042844
 H-Hey!,"ぐっ！➡
 
-",!➡,0.3333333333333333
+",!➡,0.3333333333333333,0.28912878
 <i>Why is...this guy so strong?</i>,"(
 我愛羅
 )
@@ -333,14 +333,14 @@ H-Hey!,"ぐっ！➡
 ","""why
  
 This guy
-Is it so strong?➡",0.4666666666666667
+Is it so strong?➡",0.4666666666666667,0.79816914
 <i>My existence will not disappear...</i>,"俺の存在は消えない
 ｡
 ➡
 
 ","My existence does not disappear
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.8514781
 "<i>I will not disappear!</i>
 <i>I cannot disappear!</i>","消えない…
  
@@ -348,13 +348,13 @@ Is it so strong?➡",0.4666666666666667
 
 ","Not disappear…
  
-It will disappear!""",0.3333333333333333
+It will disappear!""",0.3333333333333333,0.73482287
 <i>Let's go.</i>,"(
 子ども２
 )
 ＜行こうぜ＞
 
-",<Let's go>,0.5
+",<Let's go>,0.5,0.82980424
 <i>Monster! Monster! Monster...!</i>,"(
 子どもたち
 )
@@ -366,13 +366,13 @@ It will disappear!""",0.3333333333333333
 ","<Analyze!
 monster!
  
-monster…!>",0.4444444444444444
+monster…!>",0.4444444444444444,0.7923764
 <i>Don't look at him!</i>,"(
 子ども４
 )
 ＜いなくなれ！＞
 
-",<Don't be!>,0.45454545454545453
+",<Don't be!>,0.4545454545454545,0.46116924
 "<i>So what did I have in this life,</i>
 <i>why did I keep living?</i>","では
  
@@ -382,7 +382,7 @@ monster…!>",0.4444444444444444
 ","In
  
 I exist for what
-Are you alive?>",0.23809523809523808
+Are you alive?>",0.2380952380952381,0.51842403
 "<i>And then knew that</i>
 <i>it was the most painful thing.</i>","そして
  
@@ -400,13 +400,13 @@ that is
 number one
 I knew it was hard
 .
-➡",0.3
+➡",0.3,0.45083588
 "<i>That I... that my existence didn't matter</i>
 <i>to anyone else in the world.</i>","まるで必要とされない
 存在だということです＞
 
 ","It is not necessary to be
-That is the existence>",0.22727272727272727
+That is the existence>",0.2272727272727273,0.43124035
 D-Don't come any closer!,"(
 我愛羅
 )
@@ -416,7 +416,7 @@ D-Don't come any closer!,"(
 
 ","nine…
  
-do not come!",0.2222222222222222
+do not come!",0.2222222222222222,0.4326355
 "I don't know why,
 but I completely understand that it hurts.","何でかな？
  
@@ -428,13 +428,13 @@ but I completely understand that it hurts.","何でかな？
  
 As a result
 I know I understand
-.",0.2631578947368421
+.",0.2631578947368421,0.24072807
 "But I've met people who are
 very important to me now.","大切な人たちができたんだ
 ｡
 
 ","I was able to do important people
-.",0.3125
+.",0.3125,0.53841716
 "If not, I will stop you even if
 that means... that I have to kill you!","俺は
  
@@ -442,15 +442,15 @@ that means... that I have to kill you!","俺は
 
 ","I am
  
-I will stop you!",0.3125
+I will stop you!",0.3125,0.68500197
 Why...?,"何で…➡
 
-",What ... ➡,0.2
+",What ... ➡,0.2,0.29960993
 That's why... they are important to me!,"独りぼっちの
 あの地獄から救ってくれた…➡
 
 ","Indifferent
-Save me from that hell ... ➡",0.2
+Save me from that hell ... ➡",0.2,0.27608246
 <i>Love...</i>,"(
 夜叉丸
 )
@@ -460,7 +460,7 @@ Save me from that hell ... ➡",0.2
 
 ","<Love
  
-I am familiar with my own",0.2727272727272727
+I am familiar with my own",0.2727272727272727,0.52239406
 "That's enough, Naruto...","(
 我愛羅
 )
@@ -470,12 +470,12 @@ I am familiar with my own",0.2727272727272727
 
 ","""that's why
  
-Is this strong ... """,0.2727272727272727
+Is this strong ... """,0.2727272727272727,0.21785948
 Sakura is okay.,"サクラは大丈夫だ
 ｡
 
 ","Sakura is fine
-.",0.6
+.",0.6,0.9586538
 "Sakura's sand crumbled
 a long time ago.","とっくに
  
@@ -485,28 +485,28 @@ a long time ago.","とっくに
 ","Tightly
  
 Sakura's sand was broken
-.",0.3333333333333333
+.",0.3333333333333333,0.8376504
 "Oh, I see...","そっか
 ｡
 
 ","I see
-.",0.3333333333333333
+.",0.3333333333333333,0.7559016
 I've had enough... Stop here.,"ぐっ…
 ｡
 
 ","...
-.",0.25
+.",0.25,0.22633499
 "<i>I've never seen Gaara in such</i>
 <i>a weakened state before...</i>","(ｶﾝｸﾛｳ)
 《こんなに弱りきった我愛羅は➡
 
-","""Such a weak smell",0.1111111111111111
+","""Such a weak smell",0.1111111111111111,0.18188898
 All right.,"(ｶﾝｸﾛｳ)
 分かったよ
 ｡
 
 ","OK
-.",0.25
+.",0.25,0.522964
 Temari... Kankuro...,"(
 我愛羅
 )
@@ -518,7 +518,7 @@ Temari... Kankuro...,"(
 ","Temari
  
 Crown
-.",0.2
+.",0.2,0.5291736
 Sorry...,"(ｶﾝｸﾛｳ)
 べ…
  
@@ -528,14 +528,14 @@ Sorry...,"(ｶﾝｸﾛｳ)
 ","...
  
 Separately
-.",0.25
+.",0.25,0.2073353
 "for the Third Hokage,
 who lost his life in this battle,","(ﾎﾑﾗ)
 このたびの戦闘で
 命を落とした三代目火影➡
 
 ","In the battle of this time
-Three generations of three generations that lost their lives",0.2631578947368421
+Three generations of three generations that lost their lives",0.2631578947368421,0.52518106
 "In the end,
 all we could do was just watch...","ただ見ていることしか
 できなかったな
@@ -543,12 +543,12 @@ all we could do was just watch...","ただ見ていることしか
 
 ","Just looking
 I could not do it
-.",0.17647058823529413
+.",0.17647058823529413,0.22336772
 <i>Why did Old Man Hokage have to die?</i>,"何で火影のじいちゃんが
 死ななきゃいけねえんだ》
 
 ","What is the pounding of the fire shadow
-I have to die.",0.19047619047619047
+I have to die.",0.19047619047619047,0.2608604
 "It's not easy to laugh
 hiding your sadness.","簡単なことではないな
 ｡
@@ -556,15 +556,15 @@ hiding your sadness.","簡単なことではないな
 
 ","It's not easy
 .
-➡",0.45454545454545453
+➡",0.4545454545454545,0.4109298
 "I heard from your teacher that
 you're the center of laughter...","担任から聞いたが＞
 
-",I heard from the homeroom teacher>,0.3333333333333333
+",I heard from the homeroom teacher>,0.3333333333333333,0.48130655
 I'm not sad at all!,"(ｲﾙｶ)
 ＜僕は悲しくなんかないんだ！➡
 
-",<I'm sad!➡,0.4444444444444444
+",<I'm sad!➡,0.4444444444444444,0.6233877
 "to protect this village
 from the Demon Fox...","化けぎつねから
  
@@ -574,7 +574,7 @@ from the Demon Fox...","化けぎつねから
 ","From the migration
  
 This village
-It is a hero that protected by life!➡",0.2
+It is a hero that protected by life!➡",0.2,0.51033545
 "I am the child of the heroes!
 I'm not sad to be alone.","僕は
  
@@ -582,14 +582,14 @@ I'm not sad to be alone.","僕は
 
 ","I
  
-It is a child of the hero!➡",0.2631578947368421
+It is a child of the hero!➡",0.2631578947368421,0.5898222
 But you're not alone...,"しかし
  
 お前は一人ではない＞
 
 ","However
  
-You are not alone>",0.3333333333333333
+You are not alone>",0.3333333333333333,0.7064094
 "The Ninja of the Hidden Leaf Village
 have the will of fire...","皆
  
@@ -597,7 +597,7 @@ have the will of fire...","皆
 
 ","all
  
-Have the will of the fire>",0.4166666666666667
+Have the will of the fire>",0.4166666666666667,0.57382375
 "It's the strong will to protect
 the Leaf Village.","(
 猿飛
@@ -610,17 +610,17 @@ the Leaf Village.","(
 ","<Try to protect the wooden leaves
 It's a strong will
 .
-➡",0.5
+➡",0.5,0.5958846
 "As long as they have this will of fire,
 everybody in this village are all family.","この火の意志を
 持っておるかぎり➡
 
 ","The will of this fire
-As long as you have",0.3888888888888889
+As long as you have",0.3888888888888889,0.5528511
 For Hayate?,"(ｶｶｼ)
 ハヤテへか？
 
-",Hayate?,0.6666666666666666
+",Hayate?,0.6666666666666666,0.8601322
 "The Third Hokage's funeral
 has already started. Make it quick.","(ｶｶｼ)
 三代目の葬儀が
@@ -631,7 +631,7 @@ has already started. Make it quick.","(ｶｶｼ)
 ","The funeral of the third generation
 It is already beginning
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.5789896
 "You too, Kakashi, is it for Obito...?","(
 夕顔
 )
@@ -639,7 +639,7 @@ It is already beginning
 オビトさんへですか？
 
 ","Kakashi senior
-Are you going to Obito?",0.2857142857142857
+Are you going to Obito?",0.2857142857142857,0.77847624
 "If you're always thinking of
 an excuse for your tardiness,","(
 夕顔
@@ -648,12 +648,12 @@ an excuse for your tardiness,","(
 考えるくらいなら➡
 
 ","Always late reasons
-If you think about it",0.17647058823529413
+If you think about it",0.17647058823529413,0.45343733
 you should just come earlier.,"もっと早く来てあげればいいのに
 ｡
 
 ","I wish I could come earlier
-.",0.3333333333333333
+.",0.3333333333333333,0.7175395
 I do... from early in the morning.,"(ｶｶｼ)
 来てるよ
  
@@ -663,26 +663,26 @@ I do... from early in the morning.,"(ｶｶｼ)
 ","I'm coming
  
 early morning
-.",0.36363636363636365
+.",0.3636363636363637,0.51410156
 "I just want to punish myself
 for being such a fool in the past.","いつまでも戒めたくなる
 ｡
 
 ","I want to match
-.",0.25
+.",0.25,0.18507609
 "<i>Shinobi, no matter what kind</i>
 <i>of situation they are in,</i>","《忍は
 どのような状況においても➡
 
 ","""Shinobu
-In what circumstances",0.1111111111111111
+In what circumstances",0.1111111111111111,0.7205808
 <i>cannot show their emotion.</i>,"感情を表に出すべからず
 ｡
 ➡
 
 ","I can not put emotions on the table
 .
-➡",0.1875
+➡",0.1875,0.59845746
 Hmm?,"イルカ先生
 ｡
 (ｲﾙｶ)
@@ -691,13 +691,13 @@ Hmm?,"イルカ先生
 ","Dolphin teacher
 .
 
-Yeah?",0.16666666666666666
+Yeah?",0.16666666666666666,0.20169914
 "Why do people risk their own lives
 for other people?","人のために
 命を懸けたりするのかな？
 
 ","For people
-Do you have a life?",0.2857142857142857
+Do you have a life?",0.2857142857142857,0.36793324
 "their past, their present life, and their future
 disappear along with them.","過去や今の生活
 そして
@@ -711,7 +711,7 @@ and
  
 It is with the future
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.4581933
 "Many people die doing their duty
 and fighting in battle...","たくさんの人が
 任務や戦争で死んでゆく
@@ -721,7 +721,7 @@ and fighting in battle...","たくさんの人が
 ","Many people
 Dead in missions and war
 .
-➡",0.25
+➡",0.25,0.6536473
 Hayate was one of them.,"ハヤテだって
  
 その一人だよ
@@ -732,7 +732,7 @@ Hayate was one of them.,"ハヤテだって
  
 He is one of them
 .
-➡",0.5555555555555556
+➡",0.5555555555555556,0.6963259
 "Those who pass away also
 have dreams and ambitions.","それも驚くほど
  
@@ -746,7 +746,7 @@ have dreams and ambitions.","それも驚くほど
 Muddy
 Easy
 .
-➡",0.125
+➡",0.125,0.040470585
 "But everyone has something else,
 just as important.","しかし
  
@@ -764,7 +764,7 @@ Anyone
 Same as it
 I have an important thing
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.5445734
 "Parents, siblings, friends, lovers...
 Those who are dear to them.","両親
   
@@ -776,7 +776,7 @@ Those who are dear to them.","両親
   
 Brother
  
-Friends and lovers ➡",0.1875
+Friends and lovers ➡",0.1875,0.6693636
 "They trust each other and help each other,","互いに信頼し合い
  
 助け合う
@@ -787,7 +787,7 @@ Friends and lovers ➡",0.1875
  
 Help
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.55782074
 "the people whom they've cherished
 since the day they were born.","ずっと大切に思ってきた
 人たちとの
@@ -801,13 +801,13 @@ With people
  
 connection
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.18348569
 "Those who hold those strings just do it,
 because it's important to them.","大切だから
 ｡
 
 ","Because it is important
-.",0.26666666666666666
+.",0.26666666666666666,0.3796894
 It's tough to die.,"死ぬのは
  
 つらいよ
@@ -816,7 +816,7 @@ It's tough to die.,"死ぬのは
 ","To die
  
 It is painful
-.",0.5
+.",0.5,0.62569064
 It's not like he just died for nothing.,"(ｶｶｼ)
 三代目だって
 ただで死んだわけじゃないよ
@@ -826,7 +826,7 @@ It's not like he just died for nothing.,"(ｶｶｼ)
 ","It is a third generation
 He's just dead
 .
-➡",0.3125
+➡",0.3125,0.3027046
 He left us something very important.,"ちゃんと俺たちに
 大切なものを残してくれてる
 ｡
@@ -835,7 +835,7 @@ He left us something very important.,"ちゃんと俺たちに
 ","To us properly
 I leave important things
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.5771601
 "Well, you'll eventually understand
 one of these days.","うん
  
@@ -847,7 +847,7 @@ one of these days.","うん
  
 In some place
 You can also understand me
-.",0.16666666666666666
+.",0.16666666666666666,0.48556
 "Yeah, I kind of get that too!","うん
  
 それも何となく
@@ -858,7 +858,7 @@ You can also understand me
  
 As many as that
 I understand
-.",0.14285714285714285
+.",0.14285714285714285,0.18632236
 The rain's stopped.,"(ｻｸﾗ)
 雨
  
@@ -868,7 +868,7 @@ The rain's stopped.,"(ｻｸﾗ)
 ","rain
  
 It is
-.",0.2857142857142857
+.",0.2857142857142857,0.65520155
 "<i>Lord Third Hokage,</i>
 <i>the will of fire you spoke of</i>","三代目
  
@@ -876,7 +876,7 @@ It is
 
 ","Third generation
  
-Your will say your fire",0.17647058823529413
+Your will say your fire",0.17647058823529413,0.5771537
 "<i>And it will shine upon this village,</i>
 <i>and watch over and protect us.</i>","またこの里を照らし
 守るのでしょう
@@ -884,17 +884,17 @@ Your will say your fire",0.17647058823529413
 
 ","In light of this village again
 Let's protect
-.",0.13043478260869565
+.",0.13043478260869565,0.71045434
 "<i>It will become a new Hokage...</i>
 <i>one of these days...</i>","新たな火影となって…》
 
-",Become a new fire shadow ...,0.23529411764705882
+",Become a new fire shadow ...,0.2352941176470588,0.25877953
 "but it seems the damage
 is pretty extensive.","被害は甚大のようですね
 ｡
 
 ","The damage seems to be huge
-.",0.3333333333333333
+.",0.3333333333333333,0.82706594
 "The village that was once
 at the height of its glory...","(
 男２
@@ -905,12 +905,12 @@ at the height of its glory...","(
 
 ","I was extremely crazy
  
-That village is ➡",0.1875
+That village is ➡",0.1875,0.56037295
 How unlike you.,"あなたでも
 ｡
 
 ","You
-.",0.5
+.",0.5,0.3359729
 "No, not at all.","(
 男２
 )
@@ -922,14 +922,14 @@ How unlike you.,"あなたでも
 ","No
  
 It is not true
-.",0.3333333333333333
+.",0.3333333333333333,0.38204747
 <i>a role in the shadows</i>,"♬
  
 自分で決めたその夢だけは
 
 ","♬
  
-Only the dream I decided by myself",0.13333333333333333
+Only the dream I decided by myself",0.13333333333333333,0.28320867
 "<i>Over and over,</i>
 <i>we believed and dreamed</i>","♬
  
@@ -937,7 +937,7 @@ Only the dream I decided by myself",0.13333333333333333
 
 ","♬
  
-I'm a person",0.07142857142857142
+I'm a person",0.07142857142857142,0.19558465
 "<i>Over and over,</i>
 <i>we've stood in the shadows of others</i>","♬
  
@@ -945,7 +945,7 @@ I'm a person",0.07142857142857142
 
 ","♬
  
-It is a side of the side",0.1
+It is a side of the side",0.1,0.2522144
 "<i>Now, it's our turn...</i>
 <i>Let us bask in our dreams</i>","♬
  
@@ -955,7 +955,7 @@ It is a side of the side",0.1
 ","♬
  
 Many times until now
-I wonder if it has come up",0.12
+I wonder if it has come up",0.12,0.20848706
 Silence...,"♬
  
 何度も
@@ -970,7 +970,7 @@ Many times
  
 Dreamy
  
-Many times ...",0.16666666666666666
+Many times ...",0.16666666666666666,0.18669364
 "In that white mist,
 the shadow quietly sharpens its fangs.","♬
  
@@ -980,4 +980,4 @@ the shadow quietly sharpens its fangs.","♬
 ","♬
  
 Let me be in the middle
-Let me be honest",0.1111111111111111
+Let me be honest",0.1111111111111111,0.06797615

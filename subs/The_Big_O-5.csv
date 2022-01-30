@@ -1,162 +1,162 @@
-en_text,jp_text,google_translated,score
-"Looks like we'll need to do some serious cleaning here soon, too.",ここも早いところ大掃除が必要だな,"Here too, it is necessary to clean up early",0.19047619047619047
-The fastest way to get to the 7th Avenue dome is along the river.,七番街ドームなら川沿いの方がはるかに早い,"If it is the Seven-Sea Dome, the river is much faster",0.2222222222222222
-Just keep going straight.,このまま真っすぐ行け,Go straight to this,0.125
-"But, sir... The fog...",ですが 霧が,But the mist,0.2857142857142857
-"You don't believe in those ridiculous rumors, do you?",貴様 例の噂話を信じてるのか,Do you believe in the rumor of your example,0.26666666666666666
-Those two died in accidents.,くだらん　あの２人は事故で死んだんだ,Two people died in an accident,0.3333333333333333
-"I don't know where you're from, you coward,",全くどこの腰抜けかは知らんが,I do not know where to go out at all,0.25
-but there's no such thing as ghosts in the fog that...,霧の中の亡霊などいる う,You may have a ghost in the fog,0.16666666666666666
-"What do you think you're doing, you idiot?!",バカもん 何をしとるか,What do you do stupid?,0.36363636363636365
-they tend to have an attitude to match.,大抵が似たような態度を取る,Take a similar attitude,0.09090909090909091
-And lawyers are always the worst.,特に弁護士という人種は最悪だ,Especially the race of lawyers is the worst,0.2727272727272727
-"I don't care much for you, either, Mr. Negotiator.",私も君のことは軽蔑してるよ,I also despise you,0.14285714285714285
-I have several rules here.,この屋敷にはいくつかルールがあってね 礼儀と誠意,There are several rules in this mansion. Courtesy and sincerity,0.21428571428571427
-"Norman, these gentlemen will be leaving now.",ノーマン お客様がお帰りだ,Norman Customer is coming home,0.07692307692307693
-Then why did you come? Neither one of us likes to waste time.,では何故ここへ来た,So why came here,0.05555555555555555
-But I do have enough sincerity to listen to my old mother.,だが 私にも年老いた母親の願いに,"But for me, the wish of an old mother",0.15789473684210525
-You took that job from the other day?,昨日のお仕事 お受けになったんですか,Did you accept yesterday's work?,0.14285714285714285
-I thought that you hated people like that.,あのタイプの方はてっきりお嫌いかと,That type is disliked,0.09090909090909091
-He's not the client. It's Melissa Fraser.,メリッサ・フレイザー,Melissa Fraser,0.2222222222222222
-She's a woman who will turn 75 tomorrow.,明日で75歳の誕生日を迎えるご婦人だ,It is a woman who is 75 years old birthday tomorrow,0.3333333333333333
-The billionaire woman who lives over in East Town?,イーストタウンに住む大富豪ですな,It is a millionaire living in East Town,0.2
-All of the famous lawyers in town belong to her firm.,この街の有名弁護士は,The famous lawyer of this city is,0.1875
-it seems she's had some rather shady dealings in her past...,過去には相当悪どい商ば…,If you are quite bad in the past ...,0.15789473684210525
-Norman.,ノーマン,Norman,0.5
-"Roger, he's worried. Can't you tell?",ロジャー 彼は心配しているのよ,Roger he is worried,0.25
-Of course. I know that.,もちろん 分かっているさ,Of course I know,0.6666666666666666
-"East Town may be mostly artificial,",イーストタウン,East Town,0.2857142857142857
-"but it's a paradise overflowing with sunshine, greenery, and smiling faces.",眩しいほどの緑と笑顔が溢れている楽園,Paradise that is full of dazzling green and smiles,0.09523809523809523
-"It may be a lie, but the price you pay to buy this luxury is all too high.",これらを手に入れる為に払う代償は,The compensation to be paid to get these,0.125
-I'm Roger Smith.,ロジャー・スミスです　それを承知で私は,Roger Smith I understand that I am,0.375
+en_text,jp_text,google_translated,score,semantic_score
+"Looks like we'll need to do some serious cleaning here soon, too.",ここも早いところ大掃除が必要だな,"Here too, it is necessary to clean up early",0.19047619047619047,0.6365342
+The fastest way to get to the 7th Avenue dome is along the river.,七番街ドームなら川沿いの方がはるかに早い,"If it is the Seven-Sea Dome, the river is much faster",0.2222222222222222,0.67119557
+Just keep going straight.,このまま真っすぐ行け,Go straight to this,0.125,0.4830754
+"But, sir... The fog...",ですが 霧が,But the mist,0.2857142857142857,0.5820821
+"You don't believe in those ridiculous rumors, do you?",貴様 例の噂話を信じてるのか,Do you believe in the rumor of your example,0.26666666666666666,0.7372352
+Those two died in accidents.,くだらん　あの２人は事故で死んだんだ,Two people died in an accident,0.3333333333333333,0.768077
+"I don't know where you're from, you coward,",全くどこの腰抜けかは知らんが,I do not know where to go out at all,0.25,0.20029403
+but there's no such thing as ghosts in the fog that...,霧の中の亡霊などいる う,You may have a ghost in the fog,0.16666666666666666,0.6593859
+"What do you think you're doing, you idiot?!",バカもん 何をしとるか,What do you do stupid?,0.3636363636363637,0.5443884
+they tend to have an attitude to match.,大抵が似たような態度を取る,Take a similar attitude,0.09090909090909093,0.3427217
+And lawyers are always the worst.,特に弁護士という人種は最悪だ,Especially the race of lawyers is the worst,0.2727272727272727,0.801005
+"I don't care much for you, either, Mr. Negotiator.",私も君のことは軽蔑してるよ,I also despise you,0.14285714285714285,0.23508187
+I have several rules here.,この屋敷にはいくつかルールがあってね 礼儀と誠意,There are several rules in this mansion. Courtesy and sincerity,0.21428571428571427,0.52162486
+"Norman, these gentlemen will be leaving now.",ノーマン お客様がお帰りだ,Norman Customer is coming home,0.07692307692307693,0.58556557
+Then why did you come? Neither one of us likes to waste time.,では何故ここへ来た,So why came here,0.05555555555555555,0.4953527
+But I do have enough sincerity to listen to my old mother.,だが 私にも年老いた母親の願いに,"But for me, the wish of an old mother",0.15789473684210525,0.45907587
+You took that job from the other day?,昨日のお仕事 お受けになったんですか,Did you accept yesterday's work?,0.14285714285714285,0.4701749
+I thought that you hated people like that.,あのタイプの方はてっきりお嫌いかと,That type is disliked,0.09090909090909093,0.47263515
+He's not the client. It's Melissa Fraser.,メリッサ・フレイザー,Melissa Fraser,0.2222222222222222,0.6138302
+She's a woman who will turn 75 tomorrow.,明日で75歳の誕生日を迎えるご婦人だ,It is a woman who is 75 years old birthday tomorrow,0.3333333333333333,0.7942821
+The billionaire woman who lives over in East Town?,イーストタウンに住む大富豪ですな,It is a millionaire living in East Town,0.2,0.6417115
+All of the famous lawyers in town belong to her firm.,この街の有名弁護士は,The famous lawyer of this city is,0.1875,0.66921794
+it seems she's had some rather shady dealings in her past...,過去には相当悪どい商ば…,If you are quite bad in the past ...,0.15789473684210525,0.23040357
+Norman.,ノーマン,Norman,0.5,0.9637795
+"Roger, he's worried. Can't you tell?",ロジャー 彼は心配しているのよ,Roger he is worried,0.25,0.8309611
+Of course. I know that.,もちろん 分かっているさ,Of course I know,0.6666666666666666,0.7536408
+"East Town may be mostly artificial,",イーストタウン,East Town,0.2857142857142857,0.7077216
+"but it's a paradise overflowing with sunshine, greenery, and smiling faces.",眩しいほどの緑と笑顔が溢れている楽園,Paradise that is full of dazzling green and smiles,0.09523809523809523,0.7457422
+"It may be a lie, but the price you pay to buy this luxury is all too high.",これらを手に入れる為に払う代償は,The compensation to be paid to get these,0.125,0.1617664
+I'm Roger Smith.,ロジャー・スミスです　それを承知で私は,Roger Smith I understand that I am,0.375,0.8655111
 The reason is a simple one.,"-このまま道なりにお進みください
 -理由は単純だ","-Please proceed with this as it is
-- Reason is simple",0.21428571428571427
-I value women and the elderly.,女性と老人は大切にする,Women and old man cherish,0.2
-It's my policy.,それが私のポリシーだからだ,That's because it is my policy,0.5
-"I know your reputation, Roger.",あなたの評判は聞いていますよ ロジャー,Your reputation is listening to Rogers,0.18181818181818182
-"They say that once you take a job, you always see it through.",ロジャーで結構です 奥様,It is quite a roger,0.11764705882352941
-You're too kind.,初めまして スミスさん,Nice to meet you,0.125
-"That's Bonnie, my dear boy who joined the Military Police.",ボニーよ 軍警察に入った私の可愛い息子,My cute son who entered the military police,0.3125
-I've been able to sense things I never noticed before.,かえって感じられるようになったの,I was able to feel it,0.21428571428571427
-That's why I had Rick ask you to come.,だからリックに頼んであなたを呼んでもらったの,So I asked Rick and asked you to call you,0.26666666666666666
+- Reason is simple",0.21428571428571427,0.49829847
+I value women and the elderly.,女性と老人は大切にする,Women and old man cherish,0.2,0.3616383
+It's my policy.,それが私のポリシーだからだ,That's because it is my policy,0.5,0.8676916
+"I know your reputation, Roger.",あなたの評判は聞いていますよ ロジャー,Your reputation is listening to Rogers,0.18181818181818185,0.5012767
+"They say that once you take a job, you always see it through.",ロジャーで結構です 奥様,It is quite a roger,0.1176470588235294,0.04009937
+You're too kind.,初めまして スミスさん,Nice to meet you,0.125,0.1985078
+"That's Bonnie, my dear boy who joined the Military Police.",ボニーよ 軍警察に入った私の可愛い息子,My cute son who entered the military police,0.3125,0.6144582
+I've been able to sense things I never noticed before.,かえって感じられるようになったの,I was able to feel it,0.21428571428571427,0.35810682
+That's why I had Rick ask you to come.,だからリックに頼んであなたを呼んでもらったの,So I asked Rick and asked you to call you,0.26666666666666666,0.764485
 Because now I can tell that you're a very honest man.,"あなたがとても誠実な人だということが
 分かったから","That you are a very sincere person
-Because I understand",0.35294117647058826
-That's right.,その通りだ,That is,0.2
-He died a year ago when he got into a shootout with some thugs...,１年前に暴漢と撃ち合った末,The end of shooting with a thug one year ago,0.21052631578947367
-...and fell into the Hudson River!,ハドソン川に沈んだんだ もう,I sinked in the Hudson River,0.2727272727272727
-Are you planning on bringing in a look-alike or something?,呆れた男だ,A man who was a healed man,0.06666666666666667
-"Mom can't see anymore, so that would be the best way.",そう言われたんだろう,It would be said that,0.1875
-Bonnie was such a kind boy.,ボニーはとても優しい子だったわ,Bonnie was a very kind child,0.4444444444444444
-"Unlike Rick and me, he had a strong sense of justice.",私やリックと違って正義感も強かった,"Unlike me and rick, sense of justice was strong",0.6428571428571429
-That must be why he left this mansion.,だからこの屋敷を出て行ったのね,So I went out this mansion,0.15384615384615385
-He learned what horrible things I did for my position and fame in this city.,この街での地位と名誉を手にしたか,Did you get the status and honor in this city?,0.22727272727272727
-"I don't have much longer,",私はもう長くはないわ,I'm not longer long,0.2
-"so I want to at least see him again and talk to him, mother to son.",母親としてあの子と会って話をしたいの,I want to talk with that child as a mother,0.25
-Even I remember the Bonnie Fraser shooting.,ボニー・フレイザーの事件には私も覚えがあった,I also remembered the Bonnie Fraser case,0.36363636363636365
-"About a year ago, there was a free-for-all over land buyouts in the area...",この辺りの土地買収を巡って,Taking around the land acquisition around this area,0.15789473684210525
+Because I understand",0.35294117647058826,0.5204884
+That's right.,その通りだ,That is,0.2,0.48948252
+He died a year ago when he got into a shootout with some thugs...,１年前に暴漢と撃ち合った末,The end of shooting with a thug one year ago,0.21052631578947367,0.7056733
+...and fell into the Hudson River!,ハドソン川に沈んだんだ もう,I sinked in the Hudson River,0.2727272727272727,0.68672764
+Are you planning on bringing in a look-alike or something?,呆れた男だ,A man who was a healed man,0.06666666666666668,0.05845924
+"Mom can't see anymore, so that would be the best way.",そう言われたんだろう,It would be said that,0.1875,0.054047752
+Bonnie was such a kind boy.,ボニーはとても優しい子だったわ,Bonnie was a very kind child,0.4444444444444444,0.925094
+"Unlike Rick and me, he had a strong sense of justice.",私やリックと違って正義感も強かった,"Unlike me and rick, sense of justice was strong",0.6428571428571429,0.89763135
+That must be why he left this mansion.,だからこの屋敷を出て行ったのね,So I went out this mansion,0.15384615384615385,0.65062356
+He learned what horrible things I did for my position and fame in this city.,この街での地位と名誉を手にしたか,Did you get the status and honor in this city?,0.2272727272727273,0.3705657
+"I don't have much longer,",私はもう長くはないわ,I'm not longer long,0.2,0.8165248
+"so I want to at least see him again and talk to him, mother to son.",母親としてあの子と会って話をしたいの,I want to talk with that child as a mother,0.25,0.5941622
+Even I remember the Bonnie Fraser shooting.,ボニー・フレイザーの事件には私も覚えがあった,I also remembered the Bonnie Fraser case,0.3636363636363637,0.74205744
+"About a year ago, there was a free-for-all over land buyouts in the area...",この辺りの土地買収を巡って,Taking around the land acquisition around this area,0.15789473684210525,0.601871
 ...between people who live outside the domes and the Military Police.,"ドーム外の住人たちと軍警察との間で
 いざこざがあった","Between residents outside dome and military police
-There was a lot",0.2777777777777778
-"Those opposed to work to expand the domes ignited a large-scale riot,",ドーム拡張工事の反対派は,The opposition of Dome expansion work is,0.11764705882352941
-but a single event brought it to an end.,ある事件をきっかけに鎮圧されることになる,It will be suppressed to the opportunity,0.13333333333333333
-"The death of Bonnie, a young officer who was killed...",若き警察官ボニーの死が,Young police officer bonny death,0.21428571428571427
-"...in the line of duty by an attacker's bullet,",過激派の銃弾により殉職した,I got upset by an extremist bullet,0.1875
-Melissa buried that painful memory and lost all of her memories.,メリッサはその悲しい記憶を葬り去った,Melissa buried the sad memory,0.21428571428571427
-Just like this city.,この街と同じように,Like this town,0.3333333333333333
-I didn't know you even negotiated with ghosts.,知っているだろ,I know,0.2
-"You've heard the rumors about the ghost in the fog, right?",フッ 霧の中の亡霊の噂,Rumor of the ghost in the fog,0.2857142857142857
-Yeah. They say that three of the Military Police's top brass have been killed.,まあ 軍警察の幹部が３人も殺されたって話だ,"Well, it is a story that three military police executives were killed",0.20833333333333334
-Is there a connection between any of those three and the buyout riots a year ago?,その３人と１年前の買収騒動に繋がりはあるのか,Is there a connection to the acquisition turmoil and one year ago?,0.45
-They sometimes use dirty tricks to deal with trouble.,トラブルを収めるために,To get trouble,0.18181818181818182
-There was something more to Bonnie's death.,ボニーの死には何か裏があった,There was something back to the death of Bonnie,0.5
-"If you want to live a long time in this city, you shouldn't push things too far.",この街で長生きしたけりゃ勘違いはしないことさ,"If you want to live longer in this city, you will not misunderstand",0.391304347826087
-Young folks don't understand that sometimes.,時たまそれが分からない人間もいる,Some people do not understand,0.18181818181818182
-"If that's directed at me, fine.",私への当て付けなら結構だ,It is quite good if I hit me,0.13333333333333333
-"If you don't feel like answering my question, I'll ask someone else.",質問に答える気が無いなら他を当たる,If you don't feel like answering questions,0.4117647058823529
-"It looks like Bonnie stumbled onto something, all right.",確かにボニーは何かを掴んだらしい,Certainly Bonnie seems to grab something,0.13333333333333333
-Some rumors say he was killed because of it.,裏で土地買収騒動の指揮を取っていたそうだ,It seems that I was taking a command of land acquisition disturbance behind,0.15
-They say the three dead brass were pulling the strings behind the buyout.,殺された３人の幹部は,The three executives killed,0.14285714285714285
-"Well, to be accurate, it looks like there was one other.",いや 正確にはもう一人いるらしいがね,"No, there seems to be one more thing",0.29411764705882354
-What's his name?,そいつの名は,The name is,0.14285714285714285
-Colonel Anthony Gauss.,アントニー・ガウス大佐,Antony Gauss,0.2
-There's a little extra in appreciation for the warning.,ご忠告の礼も含め 少し色を付けておいた,I put a little color including the thank you for your advice,0.21052631578947367
-We old folks have to teach you youngsters...,本当は若い連中に教えなきゃならねえさ,I really have to teach in a young place,0.2
-...that the sun will never rise over this city again.,もう太陽が昇ることなど二度と無いということを,That the sun is no longer rising,0.1875
-"Am I right, Roger?",違うかね ロジャー,No difference Roger,0.125
-Master Roger says he'll be late again tonight.,ロジャー様は今夜もお帰りが遅いそうです,Roger seems to be late again tonight,0.4166666666666667
-"We must prepare for emergencies, as well.",我々も忙しくなるといけません,We must be busy,0.18181818181818182
-I'll come along.,仕事熱心なのね,I'm an enthusiastic,0.125
-If you don't mind me just sitting there.,ガウス大佐の居所を教えろだと,If you teach the whereabouts of Gauss,0.13333333333333333
-"That's quite enough, I assure you.",それで十分ですとも,That's enough,0.3333333333333333
-What gives you the right to ask something like that?,一体何の権利があってそんなことを聞く,What is the right to hear that,0.38461538461538464
-Nothing. You're right.,確かに そんな権利は無い,Certainly there is no such right,0.1
-Then go home. I have a ton of work to do.,食事は済ませておきませんと,I have to finish eating,0.21428571428571427
-"But if you have any pride in your work, Major Dastun,",もし君が自分の職務に誇りを持っているなら,If you are proud of your own job,0.17647058823529413
-you have an obligation to answer my question.,私の質問に答える義務がある,There is a duty to answer my question,0.3076923076923077
-Obligation? What do you mean?,義務だ？　どういう意味だ,Is it obligatory? What do you mean,0.5555555555555556
-Because Bonnie Fraser believed in the justice of the Military Police.,軍警察の正義を信じていたからさ,Because I believed in the justice of military police,0.6666666666666666
-And I can't see our escort cars!,護衛車両も見えん,You can see the escort vehicle,0.15384615384615385
-"This is the right way back, Colonel Gauss.",帰り道は合ってますよ ガウス大佐,"The way back is fit, Gauss",0.5454545454545454
-"You remember, don't you?",もちろん覚えていますよね,Of course I remember,0.1111111111111111
-"A year ago, you dropped me from here.",１年前 ここから落としたんだ,I dropped it from here 1 year ago,0.38461538461538464
-"and the four of you dropped me off of this bridge,",あなたたち４人はこの橋から落とした,The four people dropped from this bridge,0.38461538461538464
-just like you were throwing out the trash!,まるでゴミでも捨てるようにね,It is like throwing away with garbage,0.14285714285714285
-I'm sorry! What I did was wrong!,ぐあ あ 悪かった 私が悪かった,I was bad I was bad,0.2222222222222222
-"You see, I'm already dead.",僕はもう死んでしまっているんだから,Because I'm dead already,0.4444444444444444
-That was the justice I believed in?!,それが僕の信じた正義の姿,That is the figure of the justice believed,0.3333333333333333
-Something as disgraceful as you?!,うう,UU,0.0
-S-Somebody help me!,わ たた 助けてくれ,Help me,0.5
-Somebody!,そんな そんな見苦しいものが,Such unsightly things,0.0
-Go to hell!,地獄へ落ちろ,Fall into hell,0.16666666666666666
-There's no such thing as ghosts!,うああ う うわあ,Uh yeah,0.0
-He's just a serial killer!,バカな ええい ひるむな 撃て撃て撃てい,A foolish shoot and shoot and shoot,0.1
-"On the honor of the Military Police, don't let him get away!",軍警察の名誉に懸けて逃がすな,Don't miss it in honor of military police,0.35294117647058826
-What the...,この世に亡霊なんぞおらん,What is the ghost in this world,0.25
-Damn! Don't tell me that thing really is a ghost!,奴は本当にゴーストだというのか,Is the guy really ghost?,0.2
-That's...,あれは,That is,0.25
-"You should be satisfied now, Mr. Ghost!",ミスター ゴースト,Mr. Ghost,0.2222222222222222
-Big O! Action!,ビッグオー アクション,Big o action,0.75
-It's all over.,終わったな,It is over,0.3333333333333333
-Not at all!,でもない,not,0.25
-What?!,何,what,0.3333333333333333
-There!,そこか,There,0.5
-What the hell just happened?!,一体どうなってんだ これは,What is the one?,0.3333333333333333
-Major!,少佐,Major,0.5
-The real trick was this fog it generated.,手品のトリックは奴が作り出した霧だ,Crimp trick is the fog that one created,0.21428571428571427
-Forget it.,いいんだ,it's alright,0.2
-Could you tell me just one thing?,一つだけ教えてもらえないか,Can you tell me only one?,0.5
-"Where'd you get that robot, Bonnie Fraser?",あのロボットをどこで手に入れた,Where to get that robot,0.36363636363636365
-Mind if I sit down? I'm a little tired.,少し疲れた,a little tired,0.2727272727272727
-On that day a year ago...,１年前のあの日,That day one year ago,0.5
-"You're the leader of these protesters, the one who exposed us as corrupt cops!",君が私たちの不正を打ち明けた反対派のリーダー,An opposition leader who has been hitting our fraud,0.08695652173913043
-"Don't tell me he was in on it, too!",彼が全てを教えてくれたんだよ,He taught me everything,0.14285714285714285
-Rich kids with a privileged upbringing have no concept of reality.,育ちのいいお坊ちゃまには現実が見えていない,I have not seen reality in a good baby boy,0.15789473684210525
-"I'm sorry, but this is goodbye.",こ これは,Th-This is,0.1
-"""Is it okay if I die like this?""",僕はこのまま死んでいいのか,I wonder if I die as it is,0.38461538461538464
-That's when it happened.,その時だった,It was at that time,0.2222222222222222
-My life was saved.,僕は命を救われた,I was saved my life,0.6666666666666666
-"When I came to, I knew how to operate that robot.",僕はあのロボットの操縦法を知っていた,I knew that robot's control method,0.2857142857142857
-"I don't know if it was part of my own memories,",誰かが植え付けたものかは分からない,I do not know if someone is planted,0.23529411764705882
-All I knew for sure was that I had to get revenge on those people.,奴らに復讐しなければならない,I have to revenge,0.1875
-Just that one strong desire.,その強い思いだけだった,It was only that strong thoughts,0.2
-"Actually, I was asked by a certain lady to come see you.",実は あるご婦人に頼まれて君に会いに来た,Actually I was asked to meet you and came to see you,0.4117647058823529
-"You remember what day it is today, don't you, Mr. Ghost?",今日が何の日かは覚えているだろう,I will remember what day today,0.26666666666666666
-My son will be joining me later.,後で息子が来ますからね,I will come later because my son comes,0.3333333333333333
-"I knew for sure that you'd come back, if only for today.",今日だけは帰ってきてくれると思っていたわ,I thought I would come back today,0.25
-"Happy birthday, Mama.",ハッピーバースデー ママ,Happy birthday mommy,0.3333333333333333
-You're a son I can be proud of.,お前は本当に自慢出来る息子だよ,You are a son who can really boast,0.2857142857142857
-"I'm proud of you, too, Mama. Honest.",僕もママを誇りに思っている,I also proud of my mom,0.23076923076923078
-"I love you, Mama.",本当に大好きだよ ママ,I really love Mom,0.25
-Thank you. But promise me one thing.,ありがとう でも一つだけ約束しておくれ,Thank you very much for your promise,0.25
-"You're too kind, so promise me you won't let others use you and hurt you.",お前は優し過ぎるから,Because you are too kind,0.16666666666666666
-Sure. I understand.,ああ 分かったよ,"Oh, I understand",0.3333333333333333
-Make sure of what?,確認？　何だ,Confirmation?  What,0.3333333333333333
-It's wonderful that a kid today believes the sun will rise over this city one day.,帰らんのか もうお前さんの仕事は終わった筈だ,It is a habit that my work is over,0.18181818181818182
-I can't believe you'd even negotiate with a top-class lawyer like him.,ふん あんな一流弁護士とも交渉しちまうとはな,It's not like to negotiate with such a first-class lawyer,0.23809523809523808
-Don't worry. I'll make sure he gets a fair trial.,心配するな,Do not worry,0.14285714285714285
-On the justice and honor of the Military Police.,軍警察の正義と誇りに懸けて,Military police justice and pride,0.4
+There was a lot",0.2777777777777778,0.7525981
+"Those opposed to work to expand the domes ignited a large-scale riot,",ドーム拡張工事の反対派は,The opposition of Dome expansion work is,0.1176470588235294,0.6578478
+but a single event brought it to an end.,ある事件をきっかけに鎮圧されることになる,It will be suppressed to the opportunity,0.13333333333333333,0.22347766
+"The death of Bonnie, a young officer who was killed...",若き警察官ボニーの死が,Young police officer bonny death,0.21428571428571427,0.572044
+"...in the line of duty by an attacker's bullet,",過激派の銃弾により殉職した,I got upset by an extremist bullet,0.1875,0.4685762
+Melissa buried that painful memory and lost all of her memories.,メリッサはその悲しい記憶を葬り去った,Melissa buried the sad memory,0.21428571428571427,0.8968248
+Just like this city.,この街と同じように,Like this town,0.3333333333333333,0.7392967
+I didn't know you even negotiated with ghosts.,知っているだろ,I know,0.2,0.1835855
+"You've heard the rumors about the ghost in the fog, right?",フッ 霧の中の亡霊の噂,Rumor of the ghost in the fog,0.2857142857142857,0.8700997
+Yeah. They say that three of the Military Police's top brass have been killed.,まあ 軍警察の幹部が３人も殺されたって話だ,"Well, it is a story that three military police executives were killed",0.20833333333333331,0.7475326
+Is there a connection between any of those three and the buyout riots a year ago?,その３人と１年前の買収騒動に繋がりはあるのか,Is there a connection to the acquisition turmoil and one year ago?,0.45,0.4878114
+They sometimes use dirty tricks to deal with trouble.,トラブルを収めるために,To get trouble,0.18181818181818185,0.5221078
+There was something more to Bonnie's death.,ボニーの死には何か裏があった,There was something back to the death of Bonnie,0.5,0.9060899
+"If you want to live a long time in this city, you shouldn't push things too far.",この街で長生きしたけりゃ勘違いはしないことさ,"If you want to live longer in this city, you will not misunderstand",0.39130434782608703,0.65487623
+Young folks don't understand that sometimes.,時たまそれが分からない人間もいる,Some people do not understand,0.18181818181818185,0.57615787
+"If that's directed at me, fine.",私への当て付けなら結構だ,It is quite good if I hit me,0.13333333333333333,0.34441546
+"If you don't feel like answering my question, I'll ask someone else.",質問に答える気が無いなら他を当たる,If you don't feel like answering questions,0.4117647058823529,0.52055436
+"It looks like Bonnie stumbled onto something, all right.",確かにボニーは何かを掴んだらしい,Certainly Bonnie seems to grab something,0.13333333333333333,0.71988434
+Some rumors say he was killed because of it.,裏で土地買収騒動の指揮を取っていたそうだ,It seems that I was taking a command of land acquisition disturbance behind,0.15,-0.039624717
+They say the three dead brass were pulling the strings behind the buyout.,殺された３人の幹部は,The three executives killed,0.14285714285714285,0.33120644
+"Well, to be accurate, it looks like there was one other.",いや 正確にはもう一人いるらしいがね,"No, there seems to be one more thing",0.29411764705882354,0.34756696
+What's his name?,そいつの名は,The name is,0.14285714285714285,0.47657323
+Colonel Anthony Gauss.,アントニー・ガウス大佐,Antony Gauss,0.2,0.7775853
+There's a little extra in appreciation for the warning.,ご忠告の礼も含め 少し色を付けておいた,I put a little color including the thank you for your advice,0.21052631578947367,0.24980941
+We old folks have to teach you youngsters...,本当は若い連中に教えなきゃならねえさ,I really have to teach in a young place,0.2,0.58955663
+...that the sun will never rise over this city again.,もう太陽が昇ることなど二度と無いということを,That the sun is no longer rising,0.1875,0.65464866
+"Am I right, Roger?",違うかね ロジャー,No difference Roger,0.125,0.58236027
+Master Roger says he'll be late again tonight.,ロジャー様は今夜もお帰りが遅いそうです,Roger seems to be late again tonight,0.4166666666666667,0.840676
+"We must prepare for emergencies, as well.",我々も忙しくなるといけません,We must be busy,0.18181818181818185,0.40167075
+I'll come along.,仕事熱心なのね,I'm an enthusiastic,0.125,0.23999648
+If you don't mind me just sitting there.,ガウス大佐の居所を教えろだと,If you teach the whereabouts of Gauss,0.13333333333333333,0.20744073
+"That's quite enough, I assure you.",それで十分ですとも,That's enough,0.3333333333333333,0.5925464
+What gives you the right to ask something like that?,一体何の権利があってそんなことを聞く,What is the right to hear that,0.38461538461538464,0.4888025
+Nothing. You're right.,確かに そんな権利は無い,Certainly there is no such right,0.1,0.16638492
+Then go home. I have a ton of work to do.,食事は済ませておきませんと,I have to finish eating,0.21428571428571427,0.3576187
+"But if you have any pride in your work, Major Dastun,",もし君が自分の職務に誇りを持っているなら,If you are proud of your own job,0.17647058823529413,0.5789969
+you have an obligation to answer my question.,私の質問に答える義務がある,There is a duty to answer my question,0.3076923076923077,0.7432339
+Obligation? What do you mean?,義務だ？　どういう意味だ,Is it obligatory? What do you mean,0.5555555555555556,0.52600783
+Because Bonnie Fraser believed in the justice of the Military Police.,軍警察の正義を信じていたからさ,Because I believed in the justice of military police,0.6666666666666666,0.65639323
+And I can't see our escort cars!,護衛車両も見えん,You can see the escort vehicle,0.15384615384615385,0.8079166
+"This is the right way back, Colonel Gauss.",帰り道は合ってますよ ガウス大佐,"The way back is fit, Gauss",0.5454545454545454,0.6375393
+"You remember, don't you?",もちろん覚えていますよね,Of course I remember,0.1111111111111111,0.5746329
+"A year ago, you dropped me from here.",１年前 ここから落としたんだ,I dropped it from here 1 year ago,0.38461538461538464,0.69112664
+"and the four of you dropped me off of this bridge,",あなたたち４人はこの橋から落とした,The four people dropped from this bridge,0.38461538461538464,0.70397913
+just like you were throwing out the trash!,まるでゴミでも捨てるようにね,It is like throwing away with garbage,0.14285714285714285,0.6403928
+I'm sorry! What I did was wrong!,ぐあ あ 悪かった 私が悪かった,I was bad I was bad,0.2222222222222222,0.33064514
+"You see, I'm already dead.",僕はもう死んでしまっているんだから,Because I'm dead already,0.4444444444444444,0.6049222
+That was the justice I believed in?!,それが僕の信じた正義の姿,That is the figure of the justice believed,0.3333333333333333,0.6759979
+Something as disgraceful as you?!,うう,UU,0.0,0.06510258
+S-Somebody help me!,わ たた 助けてくれ,Help me,0.5,0.5305051
+Somebody!,そんな そんな見苦しいものが,Such unsightly things,0.0,0.13688447
+Go to hell!,地獄へ落ちろ,Fall into hell,0.16666666666666666,0.6172402
+There's no such thing as ghosts!,うああ う うわあ,Uh yeah,0.0,0.023402987
+He's just a serial killer!,バカな ええい ひるむな 撃て撃て撃てい,A foolish shoot and shoot and shoot,0.1,0.24103115
+"On the honor of the Military Police, don't let him get away!",軍警察の名誉に懸けて逃がすな,Don't miss it in honor of military police,0.35294117647058826,0.67436284
+What the...,この世に亡霊なんぞおらん,What is the ghost in this world,0.25,0.17718282
+Damn! Don't tell me that thing really is a ghost!,奴は本当にゴーストだというのか,Is the guy really ghost?,0.2,0.64317447
+That's...,あれは,That is,0.25,0.5521496
+"You should be satisfied now, Mr. Ghost!",ミスター ゴースト,Mr. Ghost,0.2222222222222222,0.62923175
+Big O! Action!,ビッグオー アクション,Big o action,0.75,0.7909231
+It's all over.,終わったな,It is over,0.3333333333333333,0.65563524
+Not at all!,でもない,not,0.25,0.40684444
+What?!,何,what,0.3333333333333333,0.6078157
+There!,そこか,There,0.5,0.79745114
+What the hell just happened?!,一体どうなってんだ これは,What is the one?,0.3333333333333333,0.13825749
+Major!,少佐,Major,0.5,0.8609099
+The real trick was this fog it generated.,手品のトリックは奴が作り出した霧だ,Crimp trick is the fog that one created,0.21428571428571427,0.75499475
+Forget it.,いいんだ,it's alright,0.2,0.23410799
+Could you tell me just one thing?,一つだけ教えてもらえないか,Can you tell me only one?,0.5,0.5846322
+"Where'd you get that robot, Bonnie Fraser?",あのロボットをどこで手に入れた,Where to get that robot,0.3636363636363637,0.66215765
+Mind if I sit down? I'm a little tired.,少し疲れた,a little tired,0.2727272727272727,0.43545452
+On that day a year ago...,１年前のあの日,That day one year ago,0.5,0.7908626
+"You're the leader of these protesters, the one who exposed us as corrupt cops!",君が私たちの不正を打ち明けた反対派のリーダー,An opposition leader who has been hitting our fraud,0.08695652173913042,0.39810896
+"Don't tell me he was in on it, too!",彼が全てを教えてくれたんだよ,He taught me everything,0.14285714285714285,0.21269195
+Rich kids with a privileged upbringing have no concept of reality.,育ちのいいお坊ちゃまには現実が見えていない,I have not seen reality in a good baby boy,0.15789473684210525,0.5008305
+"I'm sorry, but this is goodbye.",こ これは,Th-This is,0.1,0.2354676
+"""Is it okay if I die like this?""",僕はこのまま死んでいいのか,I wonder if I die as it is,0.38461538461538464,0.47568932
+That's when it happened.,その時だった,It was at that time,0.2222222222222222,0.53011113
+My life was saved.,僕は命を救われた,I was saved my life,0.6666666666666666,0.8969011
+"When I came to, I knew how to operate that robot.",僕はあのロボットの操縦法を知っていた,I knew that robot's control method,0.2857142857142857,0.80487555
+"I don't know if it was part of my own memories,",誰かが植え付けたものかは分からない,I do not know if someone is planted,0.2352941176470588,0.0041031037
+All I knew for sure was that I had to get revenge on those people.,奴らに復讐しなければならない,I have to revenge,0.1875,0.51124597
+Just that one strong desire.,その強い思いだけだった,It was only that strong thoughts,0.2,0.41242465
+"Actually, I was asked by a certain lady to come see you.",実は あるご婦人に頼まれて君に会いに来た,Actually I was asked to meet you and came to see you,0.4117647058823529,0.73986465
+"You remember what day it is today, don't you, Mr. Ghost?",今日が何の日かは覚えているだろう,I will remember what day today,0.26666666666666666,0.6687028
+My son will be joining me later.,後で息子が来ますからね,I will come later because my son comes,0.3333333333333333,0.57554793
+"I knew for sure that you'd come back, if only for today.",今日だけは帰ってきてくれると思っていたわ,I thought I would come back today,0.25,0.7648782
+"Happy birthday, Mama.",ハッピーバースデー ママ,Happy birthday mommy,0.3333333333333333,0.7993528
+You're a son I can be proud of.,お前は本当に自慢出来る息子だよ,You are a son who can really boast,0.2857142857142857,0.6360741
+"I'm proud of you, too, Mama. Honest.",僕もママを誇りに思っている,I also proud of my mom,0.2307692307692308,0.73640794
+"I love you, Mama.",本当に大好きだよ ママ,I really love Mom,0.25,0.62555325
+Thank you. But promise me one thing.,ありがとう でも一つだけ約束しておくれ,Thank you very much for your promise,0.25,0.5770921
+"You're too kind, so promise me you won't let others use you and hurt you.",お前は優し過ぎるから,Because you are too kind,0.16666666666666666,0.4599045
+Sure. I understand.,ああ 分かったよ,"Oh, I understand",0.3333333333333333,0.5055675
+Make sure of what?,確認？　何だ,Confirmation?  What,0.3333333333333333,0.40366954
+It's wonderful that a kid today believes the sun will rise over this city one day.,帰らんのか もうお前さんの仕事は終わった筈だ,It is a habit that my work is over,0.18181818181818185,0.16571409
+I can't believe you'd even negotiate with a top-class lawyer like him.,ふん あんな一流弁護士とも交渉しちまうとはな,It's not like to negotiate with such a first-class lawyer,0.2380952380952381,0.7949154
+Don't worry. I'll make sure he gets a fair trial.,心配するな,Do not worry,0.14285714285714285,0.39014536
+On the justice and honor of the Military Police.,軍警察の正義と誇りに懸けて,Military police justice and pride,0.4,0.84112
 - Bonnie!\N- Brother!,"-ボニー
 -兄さん","-Bony
--A brother",0.14285714285714285
+-A brother",0.14285714285714285,0.4391732

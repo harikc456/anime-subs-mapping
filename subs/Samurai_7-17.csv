@@ -1,308 +1,308 @@
-en_text,jp_text,google_translated,score
-I see it!,（ゴロベエ）見えた！,I saw !,0.4
-Take this!,（リキチ）食らえ！,eat!,0.25
-"Forgive me, Rikichi... I won't be\nable to go with you to the capital...",都には 一緒には行けぬ…,I can not go together in the city ...,0.2
-Samurai-sama...,おサムライ様…,Samurai ...,0.3333333333333333
-Your life... has been purchased.,（カンベエ）命… 買い受けた,Life ... Bought,0.25
-"Being able to understand each other,",♪～,♪ ~,0.0
-"""Episode 17\NReap!""",～♪,~ ♪,0.0
-"come on out, everyone,\nand bring your sickles.",♪ みんな出てこい 鎌持ってこい,♪ Everybody comes out,0.07692307692307693
-"Grab a stalk, and harvest it.",♪ 一株つかんで 刈ってゆけ,♪ 一 一 つ つ つ け け,0.0
-"Then grab another stalk, and harvest it.",♪ も一つ つかんで 刈ってゆけ,♪ つ つ つ て,0.0
-Mm-hmm. This is good.,（シチロージ）ようやくですな,is finally,0.16666666666666666
+en_text,jp_text,google_translated,score,semantic_score
+I see it!,（ゴロベエ）見えた！,I saw !,0.4,0.6364512
+Take this!,（リキチ）食らえ！,eat!,0.25,0.42936453
+"Forgive me, Rikichi... I won't be\nable to go with you to the capital...",都には 一緒には行けぬ…,I can not go together in the city ...,0.2,0.36794338
+Samurai-sama...,おサムライ様…,Samurai ...,0.3333333333333333,0.78604215
+Your life... has been purchased.,（カンベエ）命… 買い受けた,Life ... Bought,0.25,0.79235876
+"Being able to understand each other,",♪～,♪ ~,0.0,0.085369945
+"""Episode 17\NReap!""",～♪,~ ♪,0.0,0.17242235
+"come on out, everyone,\nand bring your sickles.",♪ みんな出てこい 鎌持ってこい,♪ Everybody comes out,0.07692307692307693,0.3867794
+"Grab a stalk, and harvest it.",♪ 一株つかんで 刈ってゆけ,♪ 一 一 つ つ つ け け,0.0,0.020164724
+"Then grab another stalk, and harvest it.",♪ も一つ つかんで 刈ってゆけ,♪ つ つ つ て,0.0,-0.069023974
+Mm-hmm. This is good.,（シチロージ）ようやくですな,is finally,0.16666666666666666,0.115773164
 Hey! Don't laugh at me!,"でえい！
 笑うんじゃねえよ おめえら！","Hey!
-I'm sorry I'm sorry!",0.2
+I'm sorry I'm sorry!",0.2,0.5253726
 "Listen, despite how it may look,\NI used to be a farmer!","（キクチヨ）あのな 俺様だって
 こう見えても元は農民だ","That's me
-Even if you look like this, it is a farmer",0.21739130434782608
+Even if you look like this, it is a farmer",0.21739130434782608,0.6815903
 Farmboy... you say?,"（オカラ）タゴ？
 （コマチ）タゴ… 何ですか？","Tago?
- Tago ... what is it?",0.2222222222222222
-"Nunky, you're just too big.",おっちゃまが大きすぎるです,Occasion is too big,0.2
+ Tago ... what is it?",0.2222222222222222,0.16118796
+"Nunky, you're just too big.",おっちゃまが大きすぎるです,Occasion is too big,0.2,0.38362676
 Samurai-sama?,"（シノ）おサムライ様
 （キクチヨ）あ？","Samurai
-?",0.3333333333333333
-We'll take care of this.,（シノ）ここは おらたちが,Here we are,0.1111111111111111
+?",0.3333333333333333,0.80239654
+We'll take care of this.,（シノ）ここは おらたちが,Here we are,0.1111111111111111,0.39125282
 "Even if you used to be a farmer,\nthat body of yours is made for fightin'.","いくら前は農民つっても
 その体 戦するための体だ","How long ago is a farmer
-It is a body to fight the body",0.2
+It is a body to fight the body",0.2,0.736579
 "At this pace, this is the only area\nthat ain't gonna be finished.","（ウマ）頼むだ おサムライ様
 このままじゃ ここだけ終わらねえ","asking for Samurai
-If this is left, she just finished here",0.17391304347826086
-"Goro-noji, it sure is a nice day today.\NHeh, I sure do hate farmers.",はよ やっちまいたいだよ,I want to do it,0.1875
-"These farmer guys worry about nothing\nbut their rice and the weather,",相変わらず農民てやつはよ,"As usual, the farmers are guys",0.1875
+If this is left, she just finished here",0.17391304347826084,0.28078657
+"Goro-noji, it sure is a nice day today.\NHeh, I sure do hate farmers.",はよ やっちまいたいだよ,I want to do it,0.1875,-0.056305464
+"These farmer guys worry about nothing\nbut their rice and the weather,",相変わらず農民てやつはよ,"As usual, the farmers are guys",0.1875,0.6035646
 "Yeah, but, this is too much, isn't it?\NI mean, Kanbe is being just like Kanbe.","（キクチヨ）
-けどよ あんまりじゃねえか",But it is not a lot,0.15
+けどよ あんまりじゃねえか",But it is not a lot,0.15,0.22402129
 "He just up and left, without even\noffering a single stick of incense.","線香の１本も手向けねえうちに
 とっとと行っちまうなんてよ","While taking one of the incense scents,
-I'm going to go",0.125
-He will come back.,戻ってきますよ,I will come back,0.5
-"Say, what is a samurai?",なあ サムライって何だ？,What is Samurai?,0.5714285714285714
+I'm going to go",0.125,0.5602796
+He will come back.,戻ってきますよ,I will come back,0.5,0.65984267
+"Say, what is a samurai?",なあ サムライって何だ？,What is Samurai?,0.5714285714285714,0.93525076
 Look in the mirror. You'll see a samurai.,"（ヘイハチ）鏡を見なさい
 サムライが映りますよ","Watch mirror
-Samurai looks",0.16666666666666666
-"Ready, set!",（村人たち）せーの！,!,0.25
+Samurai looks",0.16666666666666666,0.80433375
+"Ready, set!",（村人たち）せーの！,!,0.25,0.19150756
 Workin' in teams?,"（ギサク）組分け？
 （シチロージ）ええ","set up?
- yeah",0.125
+ yeah",0.125,0.24148986
 "Yes. In order to fight the bandits,\nwe divided the men into several teams.","野伏せりと戦うために
 男たちをいくつかの組に分けた","To fight wild boat
-I divided men into some set",0.25
+I divided men into some set",0.25,0.44244638
 They are still working in the same lineups\nthat they were in up until yesterday.,"彼らは昨日までの組と
 同じ顔ぶれで作業している","They have a set up to yesterday
-Working with the same face",0.3157894736842105
+Working with the same face",0.3157894736842105,0.40321195
 "seems to be coming in handy\nas they build their houses, as well.","訓練でできた呼吸が家を作るにも
 役立っているというわけでな","Training breathing also creates a house
-It is useful to be useful",0.08695652173913043
+It is useful to be useful",0.08695652173913042,0.33969247
 The acumen that Hei-san\nhas as a combat engineer,"ヘイさんが さすが工兵の知恵を
 生かして よくやってくれている","Hay is the wisdom of engineer
-He is doing well and doing well",0.125
+He is doing well and doing well",0.125,0.35261047
 is really shining through for them.,"カンベエ殿は ここまで見越して
 あんた方 残したんかな","Cameve Roso is far from here
-I left for a while",0.125
+I left for a while",0.125,0.10849292
 Pull! Pull!,"（ヘイハチ）
-引けーっ！　引けーっ！",Pull!Pull!,1.0
-Ready!,構え！,Head!,0.3333333333333333
+引けーっ！　引けーっ！",Pull!Pull!,1.0,1.0
+Ready!,構え！,Head!,0.3333333333333333,0.31567913
 Yes. Defeating the bandits\nwas only the beginning.,"野伏せりを倒すことは
 始まりに過ぎぬ","To defeat the wild boat
-It will be the beginning",0.14285714285714285
+It will be the beginning",0.14285714285714285,0.4313654
 into a place where you can\ngrow your rice without worry.,"安心して米を取れる村にまで
 建て直さなければ","To the village where you can get rice with peace of mind
-If it is not fixed",0.12
-Forgive me for helping myself...,（キララ）あ…,...,0.16666666666666666
-Is that a book on war?,（キララ）戦の本ですか？,Is it a book?,0.5
+If it is not fixed",0.12,0.68614274
+Forgive me for helping myself...,（キララ）あ…,...,0.16666666666666666,0.23035473
+Is that a book on war?,（キララ）戦の本ですか？,Is it a book?,0.5,0.68532926
 "The sense of loss is so great,\NI can't stand it.","（カツシロウ）
-喪失感が募ってたまらぬ…",Loss of loss is raising ...,0.1875
-I wanted so badly to have\nthe smell of the battlefield.,戦場(いくさば)のにおいが欲しくてな…,I want the smell of the battlefield ...,0.38461538461538464
-"Once upon a time, there were wars.",（キララ）昔々 戦がありました,There was a game overtime,0.16666666666666666
+喪失感が募ってたまらぬ…",Loss of loss is raising ...,0.1875,0.5621951
+I wanted so badly to have\nthe smell of the battlefield.,戦場(いくさば)のにおいが欲しくてな…,I want the smell of the battlefield ...,0.38461538461538464,0.8519506
+"Once upon a time, there were wars.",（キララ）昔々 戦がありました,There was a game overtime,0.16666666666666666,0.13124028
 "One war would end,\nand then another would start.","一つの戦が終わっても
 別の戦が始まって―","Even if one war is over
-Another battle begins-",0.1875
+Another battle begins-",0.1875,0.76875883
 The days when one war would lead\nto another went on for many ages.,"戦が戦を呼ぶ日々が
 幾世代にも続きます","The day when the war calls for the war
-I will continue for several generations",0.19047619047619047
+I will continue for several generations",0.19047619047619047,0.5959797
 and became as large as their\naccomplishments would allow them to grow.,"出世するほど
 大きくなっていきました","As long as
-It became bigger",0.14285714285714285
-The size of their decorations\nwas a mark of their authority.,体の大きさは出世の印,The size of the body is marked,0.25
-Being a samurai was absolute.\NOne was not a man if he was not a samurai.,サムライならざるは人にあらず,If you are a thumbnail,0.15384615384615385
-"However, wars end. There was nothing\nthat remained for the people.",人には何も残っていませんでした,Nothing remained for people,0.23076923076923078
-The culture had been lost.,文化は失われました,Culture was lost,0.2857142857142857
+It became bigger",0.14285714285714285,0.5062016
+The size of their decorations\nwas a mark of their authority.,体の大きさは出世の印,The size of the body is marked,0.25,0.38551503
+Being a samurai was absolute.\NOne was not a man if he was not a samurai.,サムライならざるは人にあらず,If you are a thumbnail,0.15384615384615385,0.17811194
+"However, wars end. There was nothing\nthat remained for the people.",人には何も残っていませんでした,Nothing remained for people,0.2307692307692308,0.63037837
+The culture had been lost.,文化は失われました,Culture was lost,0.2857142857142857,0.9503855
 "As long as there was war, the samurai\nwere the favored children of the age.","戦あるかぎり
 サムライは時代の寵児(ちょうじ)","As long as there is a fight
-Samurai is a darling of the times",0.2631578947368421
+Samurai is a darling of the times",0.2631578947368421,0.67875296
 Everyone wanted to be a samurai.,"誰もが
 サムライになりたがったのです","everyone
-I wanted to be Samurai",0.625
-and becoming proficient\nat reading the times ahead.,時代を読むに たけた者,Person who to read the times,0.16666666666666666
+I wanted to be Samurai",0.625,0.91326135
+and becoming proficient\nat reading the times ahead.,時代を読むに たけた者,Person who to read the times,0.16666666666666666,0.34573492
 "Out of nothing, the merchants\nbuilt cities, and erected houses.","何もないところから
 アキンドは 街を作りました","From where there is nothing
-Akind has made the city",0.10526315789473684
-"When the wars ended,\nthe samurai became idle.",“サムライは 戦終われば穀潰し”,"""Samurai is finished when the war is over""",0.1875
+Akind has made the city",0.10526315789473684,0.5443993
+"When the wars ended,\nthe samurai became idle.",“サムライは 戦終われば穀潰し”,"""Samurai is finished when the war is over""",0.1875,0.7352431
 "The more this tune played out,\nthe more the times changed.","こんな ざれ歌はやるほど
 時代は変わっていきました","Such a song is so
-The times have changed",0.17647058823529413
+The times have changed",0.17647058823529413,0.7377183
 "Here it is, the age of the merchant,\nand I become a samurai.","（カツシロウ）
-アキンドの時代だというのにな",It is a time of Akyand,0.25
-I am embarrassed. Especially\nsince I am the one,私は… サムライだ,I am ... Samurai,0.2222222222222222
-This book is a testament to my naïveté.,この本は そんな私の未熟の証し,This book has made such a proof of my immature,0.26666666666666666
+アキンドの時代だというのにな",It is a time of Akyand,0.25,0.32121363
+I am embarrassed. Especially\nsince I am the one,私は… サムライだ,I am ... Samurai,0.2222222222222222,0.29485336
+This book is a testament to my naïveté.,この本は そんな私の未熟の証し,This book has made such a proof of my immature,0.26666666666666666,0.43890366
 Don't blame yourself. I chose to\nbecome a samurai of my own will.,"己を責めるな
 サムライを選んだのは 私の意志だ","Do not blame yourself
-I chose Samurai is my will",0.5
-You just set me on the path\nthat I had to walk along.,なぜ見せてくれぬ,I will not show me,0.125
-Do not neglect your sword's care.,手入れを怠るな,Do not care,0.375
-Killing a man truly makes you a samurai.,人をあやめてこそのサムライだ,It is a samurai of being aware of people,0.14285714285714285
-What did you come here to do?,お主 ここに何をしに来た？,What did you come here?,0.75
-To save the village...,村を救いに…,Save the village ...,0.8
+I chose Samurai is my will",0.5,0.8977037
+You just set me on the path\nthat I had to walk along.,なぜ見せてくれぬ,I will not show me,0.125,0.16538273
+Do not neglect your sword's care.,手入れを怠るな,Do not care,0.375,0.42306542
+Killing a man truly makes you a samurai.,人をあやめてこそのサムライだ,It is a samurai of being aware of people,0.14285714285714285,0.58690333
+What did you come here to do?,お主 ここに何をしに来た？,What did you come here?,0.75,0.8569401
+To save the village...,村を救いに…,Save the village ...,0.8,0.8063087
 "If you wish to be a samurai,","サムライでありたいなら
 人斬りの罪科を背負う覚悟を固めよ","If it is a samurai
-It is ready to bear the sin family of people",0.23529411764705882
+It is ready to bear the sin family of people",0.2352941176470588,0.709195
 here to drive off the bandits\nthat throng to the ears of rice.,"わしらは稲穂に群がる
 野伏せりをはらうかかしだ","Writer flocks in rice ears
-I'm going to get wild boat",0.15
-"Take up your sword, Katsushiro...",刀を取れ カツシロウ,Take a sword,0.25
+I'm going to get wild boat",0.15,0.46771368
+"Take up your sword, Katsushiro...",刀を取れ カツシロウ,Take a sword,0.25,0.60777295
 ...and eat your rice.\NYou will have to kill again.,"そして 米を食え
 まだ斬らねばならんぞ","And eat rice
-I have to cut it yet",0.25
+I have to cut it yet",0.25,0.6785293
 I want to be proud of my choice\nto become a samurai.,"サムライを選んだ己を
 私は誇りたい","I chose Samurai
-I want to be proud",0.46153846153846156
-Jump!,（カンベエ）飛ぶぞ！,fly!,0.3333333333333333
+I want to be proud",0.4615384615384616,0.8637488
+Jump!,（カンベエ）飛ぶぞ！,fly!,0.3333333333333333,0.7038904
 I was sure that you would save me.\NI believed it.,"必ず助けてくださると
 信じておりました","If you always help
-I believed",0.21428571428571427
-I will go to your village.,村へ行こう,Let's go to the village,0.3
-I shall not eat this rice uncaringly.,この飯 おろそかには食わんぞ,I'm eating this rice,0.3
-Let's do it.,やりましょう,Let's do it,0.8
+I believed",0.21428571428571427,0.5535402
+I will go to your village.,村へ行こう,Let's go to the village,0.3,0.7500322
+I shall not eat this rice uncaringly.,この飯 おろそかには食わんぞ,I'm eating this rice,0.3,0.7749284
+Let's do it.,やりましょう,Let's do it,0.8,0.90645075
 "That's great. To die is to lose,\nbut to survive is to win.","死ねば負け
 生き残れば勝ちというもの","Lose
-If you survive, it will win",0.25
+If you survive, it will win",0.25,0.7037056
 Is that right?,"（ヘイハチ）
-そういうものですか",That's why,0.16666666666666666
+そういうものですか",That's why,0.16666666666666666,0.29220685
 It's what I believe.,"土まみれになって
 生き残っておりました","It is a soothing
-I survived",0.2
-I'm most grateful.,（ヘイハチ）恐縮です,I am sorry,0.14285714285714285
-"Bandits of the world...\ncut them, cut them,",（ゴロベエ）時に お主―,at the time of,0.18181818181818182
-"be cut by them, be cut by them,\nfor naught...",♪ 斬って 斬られて 斬られ損,♪ Shows and cut off,0.08333333333333333
-"It will be a difficult battle,\nand will earn you neither money nor land.",金にも出世にもならぬ 難しい戦だ,It is a difficult battle that does not go to money,0.23809523809523808
-Right.,はあ,In,0.0
-You could really die this time.,今度こそ死ぬかもしれんぞ,It may die this time,0.3333333333333333
-"Sensei, really, go on ahead, please.",先生 本当にもう行ってください,Teacher really please go,0.3333333333333333
-All I'm doing is\nslowing you down like this.,私は そんなつもりでは…,I'm going to say ...,0.14285714285714285
+I survived",0.2,0.21182759
+I'm most grateful.,（ヘイハチ）恐縮です,I am sorry,0.14285714285714285,0.40669543
+"Bandits of the world...\ncut them, cut them,",（ゴロベエ）時に お主―,at the time of,0.18181818181818185,0.15395138
+"be cut by them, be cut by them,\nfor naught...",♪ 斬って 斬られて 斬られ損,♪ Shows and cut off,0.08333333333333333,0.3294367
+"It will be a difficult battle,\nand will earn you neither money nor land.",金にも出世にもならぬ 難しい戦だ,It is a difficult battle that does not go to money,0.2380952380952381,0.61656207
+Right.,はあ,In,0.0,0.17927815
+You could really die this time.,今度こそ死ぬかもしれんぞ,It may die this time,0.3333333333333333,0.5797635
+"Sensei, really, go on ahead, please.",先生 本当にもう行ってください,Teacher really please go,0.3333333333333333,0.12722018
+All I'm doing is\nslowing you down like this.,私は そんなつもりでは…,I'm going to say ...,0.14285714285714285,0.17259012
 "It's frustrating, isn't it, Katsushiro?\NThat's good.","悔しいであろう カツシロウ
 それでよい","It will be frustrating
-It",0.15384615384615385
-These people are also grateful to you.\NThat's what it takes to be a warrior.,この者たちも感謝しておる,I am grateful to these people,0.23529411764705882
-You are the fifth.,５人目だな,It is the fifth,0.2857142857142857
+It",0.15384615384615385,0.23005348
+These people are also grateful to you.\NThat's what it takes to be a warrior.,この者たちも感謝しておる,I am grateful to these people,0.2352941176470588,0.54743797
+You are the fifth.,５人目だな,It is the fifth,0.2857142857142857,0.7710574
 Why... Kyuzo?,"（ヒョーゴ）
-な… ぜだ キュウゾウ…",... キ キ ...,0.2
-Can I ask you to come with us?,おいで願えるか？,Do you want me to hesitate?,0.23076923076923078
+な… ぜだ キュウゾウ…",... キ キ ...,0.2,0.29482824
+Can I ask you to come with us?,おいで願えるか？,Do you want me to hesitate?,0.2307692307692308,0.4969038
 Right now.,"（キュウゾウ）出立は？
 （カンベエ）今すぐ","What is your departure?
- right now",0.25
+ right now",0.25,0.4032447
 "He just weighed the differences\nbetween the samurai and the bandits,","（キクチヨ）
 こいつはな サムライと野伏せりを
 てんびんにかけて―","This is a Samurai and wild boat
-Take a bottle-",0.125
-and chose the bandits.,野伏せりを選んだだけだ,I just chose wild boat,0.1111111111111111
+Take a bottle-",0.125,0.42179665
+and chose the bandits.,野伏せりを選んだだけだ,I just chose wild boat,0.1111111111111111,0.25306818
 when he said he wanted to try living.,"“生きてみたくなった”と
 言った意味が―","""I wanted to live""
-The meaning of saying-",0.125
-Katsushiro-sama...,カツシロウ様…,Cuttushiro ...,0.3333333333333333
+The meaning of saying-",0.125,0.64972544
+Katsushiro-sama...,カツシロウ様…,Cuttushiro ...,0.3333333333333333,0.58094156
 "So, Kanna Village won, huh?\NWay to go, Kirara-kun!","（ウキョウ）
-そうかあ カンナ村の勝ちかあ","Oh, Kana Kanna Village",0.21428571428571427
+そうかあ カンナ村の勝ちかあ","Oh, Kana Kanna Village",0.21428571428571427,0.63976705
 "but it was the samurai who\naccomplished this, not the peasants.","サムライをそろえたのは
 キララ君だよ","It was the same thing with Samurai
-It is Kirara",0.25
-Don't you think she knows\nhow to pick them?,お見事な人選だったと思わない？,Don't you think it was a monster eldem?,0.3333333333333333
+It is Kirara",0.25,0.577325
+Don't you think she knows\nhow to pick them?,お見事な人選だったと思わない？,Don't you think it was a monster eldem?,0.3333333333333333,-0.0036098168
 the important thing is that the peasants\nhired samurai to defeat the bandits.,"（テッサイ）
-調べによりますれば―",According to the examination-,0.15384615384615385
-Yes...,（テッサイ）はあ…,is ...,0.3333333333333333
+調べによりますれば―",According to the examination-,0.15384615384615385,0.16364428
+Yes...,（テッサイ）はあ…,is ...,0.3333333333333333,0.5343542
 "Let the other villages\nknow what happened, too.","（ウキョウ）この話
 他の村にも教えてあげて","This story
-Teach other villages",0.07692307692307693
-Huh?,はあ？,Is it?,0.25
+Teach other villages",0.07692307692307693,0.60369533
+Huh?,はあ？,Is it?,0.25,0.27373847
 "Look, just do as I tell you.","（ウキョウ）いいから お前は
 僕の言うとおりにやってればいいの","Because you are good
-I should do it as I say",0.26666666666666666
-There is a rapidturtle from the capital.,（かむろ衆）都より早亀(はやがめ)が,A yayagame  from the city,0.3
-What!?,なんと！,What!,0.6666666666666666
-Looks like Father had some tough luck.,父上も災難だったねえ…,My father was also a disaster ...,0.07142857142857142
+I should do it as I say",0.26666666666666666,0.3670023
+There is a rapidturtle from the capital.,（かむろ衆）都より早亀(はやがめ)が,A yayagame  from the city,0.3,0.19454244
+What!?,なんと！,What!,0.6666666666666666,0.85468477
+Looks like Father had some tough luck.,父上も災難だったねえ…,My father was also a disaster ...,0.07142857142857142,0.49613702
 Some are calling for the\NYoung Lord to be nominated,"現在は勅使殺害の責を問われ
 処遇の決定を待っております","Currently asked the Responsible for the Eronym
-I am waiting for the decision to make treatment",0.1
+I am waiting for the decision to make treatment",0.1,0.07408138
 Could there be anyone else?,"推挙も何も 僕が次代だよ
 他に誰かいるかい？","Nothing is the next generation
-Are you else?",0.15384615384615385
-I beg your pardon.,えいっ えいっ,E.,0.16666666666666666
+Are you else?",0.15384615384615385,0.3243822
+I beg your pardon.,えいっ えいっ,E.,0.16666666666666666,0.19609556
 "Hey, everyone! Do you not want this?","（ウキョウ）
-やあ みんな これ欲しくない？",Don't you want this?,0.45454545454545453
+やあ みんな これ欲しくない？",Don't you want this?,0.4545454545454545,0.6849846
 I'm sorry you have to be\ncooped up in a place like this.,"こんな所に閉じ込めちゃって
 すまないねえ","I'm trapped in such a place
-Hesitate",0.29411764705882354
-I'll let you out of here right away.,すぐに出してあげるよ,I will go out soon,0.15384615384615385
-What is a samurai?,（キクチヨ）サムライって何だ？,What is Samurai?,0.8
+Hesitate",0.29411764705882354,0.48514634
+I'll let you out of here right away.,すぐに出してあげるよ,I will go out soon,0.15384615384615385,0.33614898
+What is a samurai?,（キクチヨ）サムライって何だ？,What is Samurai?,0.8,0.9746739
 Because Kanbe isn't here.,"（コマチ）
-カンベエがいないからです",Because there is no Kamibe,0.2222222222222222
-"Oh, shut up!",（オカラ）ああ 納得,Oh calm,0.16666666666666666
-"But Nunky, you've been\nfollowing Kanbe this whole time.",この顔 見忘れたか,Did you forgot this face,0.14285714285714285
+カンベエがいないからです",Because there is no Kamibe,0.2222222222222222,0.60842276
+"Oh, shut up!",（オカラ）ああ 納得,Oh calm,0.16666666666666666,0.47202966
+"But Nunky, you've been\nfollowing Kanbe this whole time.",この顔 見忘れたか,Did you forgot this face,0.14285714285714285,0.1708286
 "For many years, I have\nsought to avenge my parents.","ここで巡り会ったは
 何たるぎょうこう","I met here
-What to do",0.13333333333333333
-Hey!,おい！,Oi!,0.3333333333333333
+What to do",0.13333333333333333,0.16817105
+Hey!,おい！,Oi!,0.3333333333333333,0.46669304
 Go to their village!\NYou're the one who saved the girl.,"（キクチヨ）村に行ってやれ
 娘助けた てめえだ","to go to the village
-A daughter helping her",0.23529411764705882
-"Is that what you call a losing battle!?\NIf you still won't go after that,",負け戦が何だってんだ！,What is the losing battle!,0.2777777777777778
-then I will cut you down right here!,俺様 ここで てめえを斬る！,I will kill me here!,0.36363636363636365
+A daughter helping her",0.2352941176470588,0.5704496
+"Is that what you call a losing battle!?\NIf you still won't go after that,",負け戦が何だってんだ！,What is the losing battle!,0.2777777777777778,0.7661129
+then I will cut you down right here!,俺様 ここで てめえを斬る！,I will kill me here!,0.3636363636363637,0.5437948
 "When I give the signal,\nwind this up as fast as you can.","（カンベエ）合図をしたら
 こいつを思い切り巻き上げてくれ","signal
-Encourage this guy",0.125
-Kikuchiyo!,キクチヨ！,Kikuchiyo!,1.0
-No you don't!,（キクチヨ）させるか！,Do you want to do it!,0.375
-"Kikuchiyo, you come from\na family of farmers, huh?",キクチヨ お主 農民の出だな？,Is it out of the main farmers of Kikuchiyo?,0.26666666666666666
-Excuse me for being a farmer.,農民で悪いか,Is it bad for farmers,0.09090909090909091
+Encourage this guy",0.125,0.40431562
+Kikuchiyo!,キクチヨ！,Kikuchiyo!,1.0,0.99999976
+No you don't!,（キクチヨ）させるか！,Do you want to do it!,0.375,0.38710392
+"Kikuchiyo, you come from\na family of farmers, huh?",キクチヨ お主 農民の出だな？,Is it out of the main farmers of Kikuchiyo?,0.26666666666666666,0.77240616
+Excuse me for being a farmer.,農民で悪いか,Is it bad for farmers,0.09090909090909093,0.5748874
 "I thought that if I became a samurai,\NI'd have a little better time of it.","サムライになりゃあ ちったあ
 いい目 見られるかと思ったんだ","It would be a samurai
-I thought it would be good",0.25
-Fight hard.,しっかり戦え,Fit firmly,0.0
+I thought it would be good",0.25,0.7311305
+Fight hard.,しっかり戦え,Fit firmly,0.0,0.33219522
 Sure! You can count on me!,"（キクチヨ）
-おう 任せておけでござる！",Please leave it up!,0.09090909090909091
+おう 任せておけでござる！",Please leave it up!,0.09090909090909093,0.19062698
 "Kanbe is the only\none continuing the fight,","村のことやっとけ
 ってことなんだっぺ","The village is finally
-That's what",0.16666666666666666
-and everyone else stayed behind.,他は みんな居残りだもんなあ,All others are there,0.0
-"Maybe he did stay behind, but Shichi-san\nand Hei-san told him to do some work.",何か仕事しろって言ってたですよ,I said something to work,0.10526315789473684
-Why did you throw that away?,あっ 何で捨てるですかー！,How do you throw away!,0.3
-I quit! I quit! I'm a samurai!,俺様はサムライよ！,I'm Samurai!,0.6666666666666666
-I... I...,（リキチ）おらあ おらあ…,Ota ...,0.3333333333333333
-...sold my wife... to the bandits!,野伏せりに 女房を売ったんだ！,I sold the wife to the wild boat!,0.45454545454545453
-What?,何？,what?,1.0
-Rikichi...,（キクチヨ）リキチ…,Riki ...,0.3333333333333333
+That's what",0.16666666666666666,0.2101713
+and everyone else stayed behind.,他は みんな居残りだもんなあ,All others are there,0.0,0.26818955
+"Maybe he did stay behind, but Shichi-san\nand Hei-san told him to do some work.",何か仕事しろって言ってたですよ,I said something to work,0.10526315789473684,0.18144158
+Why did you throw that away?,あっ 何で捨てるですかー！,How do you throw away!,0.3,0.55071
+I quit! I quit! I'm a samurai!,俺様はサムライよ！,I'm Samurai!,0.6666666666666666,0.7270677
+I... I...,（リキチ）おらあ おらあ…,Ota ...,0.3333333333333333,0.17165993
+...sold my wife... to the bandits!,野伏せりに 女房を売ったんだ！,I sold the wife to the wild boat!,0.4545454545454545,0.6446437
+What?,何？,what?,1.0,0.9999999
+Rikichi...,（キクチヨ）リキチ…,Riki ...,0.3333333333333333,0.6473029
 "Rikichi, what is your wife's name?","（カンベエ）リキチ
 女房の名は何と申す？","Riki
-What is the name of a wife?",0.38461538461538464
-Sanae.,サナエ,Sanae,0.5
-"Then I swear to you, we are\ngoing to rescue Sanae-dono.",では お主にも誓おう,"Well, we will swear",0.23076923076923078
+What is the name of a wife?",0.38461538461538464,0.7642873
+Sanae.,サナエ,Sanae,0.5,0.95474386
+"Then I swear to you, we are\ngoing to rescue Sanae-dono.",では お主にも誓おう,"Well, we will swear",0.2307692307692308,0.3184067
 "How come? Then, does that mean the story\nabout your family being killed was a lie?","んだば おめえ
 家族殺されたって話は うそか？","If you
-The story is killed and the story is different?",0.13043478260869565
-That was true. But...,（ホノカ）本当です ただ…,is true I'm just ...,0.2
-But what?,ただ 何だべ？,What is it?,0.4
-The bandits have my sister!,妹は… 野伏せりに！　ううっ,My sister is ... in the wild boat!Um,0.3333333333333333
+The story is killed and the story is different?",0.13043478260869565,0.5660743
+That was true. But...,（ホノカ）本当です ただ…,is true I'm just ...,0.2,0.45599797
+But what?,ただ 何だべ？,What is it?,0.4,0.29534018
+The bandits have my sister!,妹は… 野伏せりに！　ううっ,My sister is ... in the wild boat!Um,0.3333333333333333,0.4673218
 He's going to the capital.,"あの方は
 先生との雌雄を決するために―","That person
-To determine the male and female with the teacher-",0.13333333333333333
+To determine the male and female with the teacher-",0.13333333333333333,0.059232473
 It would be far too reckless to take\nthe attack to them all by himself.,"（キララ）
 カンベエ様が無謀なことを
 するはずがありません","Cambee is reckless
-I have to",0.1111111111111111
-"I think so, too. Kyuzo-sama\nprobably disappeared with the same idea.",おらも そう思うな,I also think so,0.23076923076923078
-That does sound like him.,あのお方らしいですね,That kind of person,0.1111111111111111
-Gods?,神様？,God?,0.3333333333333333
-"Ah, I remember.",ああ 覚えてっだ,"Oh, I remember",0.5
+I have to",0.1111111111111111,0.32633093
+"I think so, too. Kyuzo-sama\nprobably disappeared with the same idea.",おらも そう思うな,I also think so,0.2307692307692308,0.2683889
+That does sound like him.,あのお方らしいですね,That kind of person,0.1111111111111111,0.3171633
+Gods?,神様？,God?,0.3333333333333333,0.758656
+"Ah, I remember.",ああ 覚えてっだ,"Oh, I remember",0.5,0.79498285
 that says there are seven gods\nthat dwell within the rice?,"ご存じで？　米には
 ７人の神が宿るという言い伝えを","Do you know?In rice
-The saying that seven gods live",0.2777777777777778
-Seven gods?,７人の神？,Seven God?,0.5
+The saying that seven gods live",0.2777777777777778,0.8825438
+Seven gods?,７人の神？,Seven God?,0.5,0.91082406
 Good rice has seven gods\nwithin it to protect it.,"よい米には
 それを守る７人の神が宿るもの","Good rice
-Seven God who protects it",0.3333333333333333
+Seven God who protects it",0.3333333333333333,0.89744616
 That's how gracious a blessing\nfrom heaven it is.,"それほどに
 尊い天の恵みということです","So much
-It is a precious heaven of heaven",0.2857142857142857
-Rikichi!,（キクチヨ）リキチー！,Rikity!,0.3333333333333333
-I'm going!,（キクチヨ）俺様は行くぜ,I'm going,0.75
+It is a precious heaven of heaven",0.2857142857142857,0.6582141
+Rikichi!,（キクチヨ）リキチー！,Rikity!,0.3333333333333333,0.64630336
+I'm going!,（キクチヨ）俺様は行くぜ,I'm going,0.75,0.87685937
 Kikuchiyo-sama...,"（キララ･カツシロウ）あっ
-（リキチ）はっ…",...,0.5
+（リキチ）はっ…",...,0.5,0.19210757
 But the reason that Sensei left us behind\nhere was so that the farmers could...,"しかし 先生が
 我々をここへ残したのは―","But the teacher
-What we left us here-",0.23529411764705882
-Are you a samurai?,お主 サムライか？,Main Samurai?,0.3333333333333333
-I am a samurai.,サムライだ,Samurai,0.2
+What we left us here-",0.2352941176470588,0.24518365
+Are you a samurai?,お主 サムライか？,Main Samurai?,0.3333333333333333,0.7113024
+I am a samurai.,サムライだ,Samurai,0.2,0.7863151
 Then stop playing the good little boy!,"（キクチヨ）
 だったら いい子ちゃんぶるの
 やめろってんだ！","If it is a good boy
-I'm sorry!",0.2
+I'm sorry!",0.2,0.57600063
 You know what the most\nsamurai-like thing to do is!,"何やるのが 一番サムライらしいか
 分かってるくせによ！","Is it the most samurai of what to do?
-Thank you for your understanding!",0.3684210526315789
+Thank you for your understanding!",0.3684210526315789,0.4327893
 That bastard Kanbe is still\ntreating us like we're less than men!,"カンベエの野郎は まだ俺たちを
 半人前扱いしてやがんのよ","Cambe's guy is still us
-Handlip and cancer",0.1
+Handlip and cancer",0.1,0.41653594
 Let's go save Rikichi's wife ourselves!,"あのひげ面に
 一泡吹かせてやろうぜ！","At that beard
-Let's blow one foam!",0.21428571428571427
-Kanbe-sama!,カンベエ様！,Cambee!,0.3333333333333333
+Let's blow one foam!",0.21428571428571427,0.18344389
+Kanbe-sama!,カンベエ様！,Cambee!,0.3333333333333333,0.4159097
 What's the matter? Where are the others?\NHow is Gorobe-sama doing?,"他の皆様は？
 ゴロベエ様はお元気？","What else?
-Golobe is fine?",0.2
-Gorobe... is dead.,（カンベエ）ゴロベエは… 死んだ,Gorobee ... dead,0.3333333333333333
-The bandits have been defeated.,（カンベエ）野伏せりは倒した,wild boat was defeated,0.1111111111111111
-"Now, I will fulfill\nthe oath I made to you.",今度は お前たちとの誓いを果たす,"This time, play a vow with you",0.125
+Golobe is fine?",0.2,0.4681506
+Gorobe... is dead.,（カンベエ）ゴロベエは… 死んだ,Gorobee ... dead,0.3333333333333333,0.77352405
+The bandits have been defeated.,（カンベエ）野伏せりは倒した,wild boat was defeated,0.1111111111111111,0.4146197
+"Now, I will fulfill\nthe oath I made to you.",今度は お前たちとの誓いを果たす,"This time, play a vow with you",0.125,0.5416604
 "As with Rikichi's wife, your sister\nis most likely in the capital.","リキチの女房と同様
 お前の妹御も 恐らくは都に","Similar to Riki's wife
-Your sister is also a city",0.13636363636363635
-The capital?,都？,Where is the city?,0.3333333333333333
+Your sister is also a city",0.13636363636363635,0.70833373
+The capital?,都？,Where is the city?,0.3333333333333333,0.54019237

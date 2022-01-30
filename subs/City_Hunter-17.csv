@@ -1,260 +1,260 @@
-en_text,jp_text,google_translated,score
-Save me!,きゃあー！,Oh!,0.25
-It's Jaws!,ジョーズよ！,Jaws!,0.5
-My goodness! It's a person!,やだ！ 人間じゃない,no!It is not a human,0.2727272727272727
-I'm...,あ あの… あたし,Oh ... I,0.5
-"Midori Ohara, swimwear designer\Nas well as swimwear model",大原緑ちゃん,Ohara green,0.1111111111111111
-"Well, you've thoroughly researched\Nyour client, haven't you?",あら 依頼人の身元は調査済みってわけ？,Are you investigated by the identity of the client?,0.1875
+en_text,jp_text,google_translated,score,semantic_score
+Save me!,きゃあー！,Oh!,0.25,0.37421894
+It's Jaws!,ジョーズよ！,Jaws!,0.5,0.82166845
+My goodness! It's a person!,やだ！ 人間じゃない,no!It is not a human,0.2727272727272727,0.5909894
+I'm...,あ あの… あたし,Oh ... I,0.5,0.5230582
+"Midori Ohara, swimwear designer\Nas well as swimwear model",大原緑ちゃん,Ohara green,0.1111111111111111,0.35319078
+"Well, you've thoroughly researched\Nyour client, haven't you?",あら 依頼人の身元は調査済みってわけ？,Are you investigated by the identity of the client?,0.1875,0.6691724
 "Did you go to the trouble of\Ninviting me here today,","ここ１カ月ばかり
 街中で君が誘惑してくるんでね","One month here
-You will be tempted in the city",0.16666666666666666
-"so that you could tempt me\Nin person, perhaps?",じかに誘惑してくれるってことかな？,Is it something to tempt?,0.14285714285714285
-"The truth is, there is something\NI want you to recover for me.",実は あるものを取り戻してほしいんです,I really want you to get back one,0.16666666666666666
-"My precious, little swimsuits\Nhave been stolen!",盗まれたんです あたしの水着達が,I was stolen my waterwear,0.18181818181818182
-Precious swimsuits?,水着達？,Waterwear?,0.25
+You will be tempted in the city",0.16666666666666666,0.09539969
+"so that you could tempt me\Nin person, perhaps?",じかに誘惑してくれるってことかな？,Is it something to tempt?,0.14285714285714285,0.56929696
+"The truth is, there is something\NI want you to recover for me.",実は あるものを取り戻してほしいんです,I really want you to get back one,0.16666666666666666,0.3672038
+"My precious, little swimsuits\Nhave been stolen!",盗まれたんです あたしの水着達が,I was stolen my waterwear,0.18181818181818185,0.5885175
+Precious swimsuits?,水着達？,Waterwear?,0.25,0.5351557
 You don't mean the ones that have\Ntasted your bare skin?!,"もしかして君の素肌に
 密着したやつじゃ…","Maybe to your bare skin
-It is a close guy ...",0.14285714285714285
+It is a close guy ...",0.14285714285714285,0.24476676
 That's not what I mean.\NI mean the ones I designed myself!,"ち 違います
 あたしがデザインした作品です！","Different
-It is a work that I have designed!",0.2222222222222222
-"Oh, I see.",ああっ！,Oh!,0.16666666666666666
-I see. They were stolen\Nfrom this room.,この部屋から盗み出されたのかあ,Was it stolen from this room,0.16666666666666666
+It is a work that I have designed!",0.2222222222222222,0.5010395
+"Oh, I see.",ああっ！,Oh!,0.16666666666666666,0.4885712
+I see. They were stolen\Nfrom this room.,この部屋から盗み出されたのかあ,Was it stolen from this room,0.16666666666666666,0.7910216
 All the designs I intended to introduce\Nwere stolen without exception.,"ショーで発表するつもりだった作品が
 １点残らず…","There is a work that I intended to announce at the show
-1 point remain ...",0.17391304347826086
-Mr. Saeba?,あら 冴羽さん？,"Oh, Mr. Aya?",0.3333333333333333
-"Wow, what a dainty, little panty!",わっ！ ははっ…,Wow!Ha ...,0.2
-Just what do you think you're doing?\NMr. Saeba?,何してるんですか 冴羽さん！,What do you do?,0.36363636363636365
-The fact that your lingerie\Nwas undisturbed,下着をそのままにしてあるってことは,It is said that the underwear is left as it is,0.16666666666666666
-leads me to believe this was not\Nthe work of a pervert.,変態の仕業ではなさそうだ,It seems not to be a transformation work,0.17647058823529413
-It was Mr. Yonezawa.\NI'm almost sure of it.,米沢先生です,Mr. Yonezawa,0.1
-Yonezawa? You mean the Yonebo\NCompany's owner and designer?,ヨネボウの社長兼デザイナーの？,Yonebou president and designer?,0.25
-"For the last several years,\Nhe's been in a slump.",先生はここ何年かずっとスランプでした,The teacher was a slump for several years,0.4
-But that's the past.,それはいいの,That's good,0.2857142857142857
+1 point remain ...",0.17391304347826084,0.1970479
+Mr. Saeba?,あら 冴羽さん？,"Oh, Mr. Aya?",0.3333333333333333,0.53197205
+"Wow, what a dainty, little panty!",わっ！ ははっ…,Wow!Ha ...,0.2,0.35503897
+Just what do you think you're doing?\NMr. Saeba?,何してるんですか 冴羽さん！,What do you do?,0.3636363636363637,0.3331767
+The fact that your lingerie\Nwas undisturbed,下着をそのままにしてあるってことは,It is said that the underwear is left as it is,0.16666666666666666,0.43354306
+leads me to believe this was not\Nthe work of a pervert.,変態の仕業ではなさそうだ,It seems not to be a transformation work,0.17647058823529413,0.39629266
+It was Mr. Yonezawa.\NI'm almost sure of it.,米沢先生です,Mr. Yonezawa,0.1,0.7747447
+Yonezawa? You mean the Yonebo\NCompany's owner and designer?,ヨネボウの社長兼デザイナーの？,Yonebou president and designer?,0.25,0.69753134
+"For the last several years,\Nhe's been in a slump.",先生はここ何年かずっとスランプでした,The teacher was a slump for several years,0.4,0.5270834
+But that's the past.,それはいいの,That's good,0.2857142857142857,0.19483998
 "It was humiliating, but I didn't\Nhave the credentials.","でも そのうち後援して下さる
 スポンサーが見つかって独立したんです","But then sponsoring
-A sponsor was found and it was independent",0.17647058823529413
-"I'm certain of it,\Nbut I don't have any proof.",どんなことをしても潰してやるって,"No matter what you do, you will destroy it",0.15789473684210525
+A sponsor was found and it was independent",0.17647058823529413,0.21564642
+"I'm certain of it,\Nbut I don't have any proof.",どんなことをしても潰してやるって,"No matter what you do, you will destroy it",0.15789473684210525,0.08494114
 I really don't think so.,"だからダーティーな仕事をなりわいとしている
 冴羽さんにお願いするんです","So I have a dirty job
-I would like to ask Mr. Atsushi",0.11764705882352941
-Mokkori!,モッコリィ うっほ！,Mokkori Yoho!,0.6666666666666666
-but that I can trust in your\Nprowess as a sweeper.,そんな男を信用していいのかな？,Can I trust such a man?,0.2857142857142857
+I would like to ask Mr. Atsushi",0.1176470588235294,0.106726855
+Mokkori!,モッコリィ うっほ！,Mokkori Yoho!,0.6666666666666666,0.8744597
+but that I can trust in your\Nprowess as a sweeper.,そんな男を信用していいのかな？,Can I trust such a man?,0.2857142857142857,0.31812048
 "Unfortunately, I don't think I have\Nany space for you at all.","残念ながら
 あなたの入る余地はないわねえ","Unfortunately
-There is no room for you",0.17647058823529413
-I see.,おたくも やりますなあ ははっ,I will do my best,0.14285714285714285
-Mr. Saeba!,冴羽さん！,Mr. Suehira!,0.5
-Yes?!,はい！,Yes!,0.6666666666666666
+There is no room for you",0.17647058823529413,0.6882625
+I see.,おたくも やりますなあ ははっ,I will do my best,0.14285714285714285,0.106196456
+Mr. Saeba!,冴羽さん！,Mr. Suehira!,0.5,0.56251234
+Yes?!,はい！,Yes!,0.6666666666666666,0.78078526
 My very future is riding on\Nthe next show!,"今度のショーには
 あたしの将来がかかってるんです","Next to this show
-I'm up for the future",0.1875
+I'm up for the future",0.1875,0.6800504
 I beg you. Whatever it takes please\Nrecover my precious suits before then!,"それまでに何としても
 水着達を取り返して下さい！","Whatever it is
-Take back the swimsuit!",0.15789473684210525
-Super-High-Leg...,スーパーハイレッグ…,Super Heireg ...,0.25
+Take back the swimsuit!",0.15789473684210525,0.4519784
+Super-High-Leg...,スーパーハイレッグ…,Super Heireg ...,0.25,0.44779956
 "If I get them back for you, I want you\Nto do a fashion show just for me.","緑ちゃんに俺１人だけの
 ファッションショーやってもらおーっと","Midori-Chan alone alone
-Fashion show let's do it",0.13636363636363635
-You suspect Toshio Yonezawa?,へえー あの米沢俊夫が怪しいの,Hayuo Yonezawa Toshisuo is suspicious,0.1111111111111111
+Fashion show let's do it",0.13636363636363635,0.49817842
+You suspect Toshio Yonezawa?,へえー あの米沢俊夫が怪しいの,Hayuo Yonezawa Toshisuo is suspicious,0.1111111111111111,0.8139968
 Yes. Tonight there will be a show of\Nthe latest swimwear at his mansion.,"そっ 今夜 奴の屋敷で
 新作水着ショーがある","Soon this night's house
-There is a new swimsuit show",0.13636363636363635
+There is a new swimsuit show",0.13636363636363635,0.6811681
 Most of the new designs will probably\Nbe the suits stolen from Midori Ohara.,"その新作というのは
 たぶん大原緑の盗まれたものだ","The new work is
-Maybe Otsuma Green Stolen",0.16666666666666666
-"So, what do you want me to do?",で あたしは何をすればいいの？,What should I do?,0.2727272727272727
+Maybe Otsuma Green Stolen",0.16666666666666666,0.40785816
+"So, what do you want me to do?",で あたしは何をすればいいの？,What should I do?,0.2727272727272727,0.30414724
 Why I'd like you to use your charms\Nto distract Yonezawa for me.,"なーに 香の魅力で米沢を
 引き付けておいてくれればいいのさ","In Nao's charm and Yonezawa
-I hope to attract it",0.13636363636363635
-And what great taste he has! They say\Nhe has a great eye for women after all.,さーすが いい趣味！,A good hobby!,0.1111111111111111
-Well...,あらぁ…,Oh ...,0.3333333333333333
+I hope to attract it",0.13636363636363635,0.6613544
+And what great taste he has! They say\Nhe has a great eye for women after all.,さーすが いい趣味！,A good hobby!,0.1111111111111111,0.11107401
+Well...,あらぁ…,Oh ...,0.3333333333333333,0.6274526
 "No, no! How many times\Ndo I have to tell you?","そんな だらけた動きで
 私の作品を台無しにするつもりなの！","With such a messy movement
-I'm going to ruin my work!",0.13636363636363635
+I'm going to ruin my work!",0.13636363636363635,0.19012313
 Take off your clothes! You can't hope\Nto move properly with clothes on!,"脱ぎなさい！ 服なんか着てるから
 動きが掴めないのよ","Please take off!Because I wear clothes
-I can not grasp the movement",0.18181818181818182
+I can not grasp the movement",0.18181818181818185,0.7222331
 "Who are you? Abe, what are you\Ndoing? We have a weird fellow about!","阿部っ！ 何をしてるの
 変な奴が来てるわよ！","Abe!What are you doing
-A strange guy comes!",0.3157894736842105
-I'll take care of you!,つまみ出して… やっ！,I'm sorry ...!,0.2
-Just who are you?,い いったい君は…,Yes you are ...,0.2857142857142857
-"""Paris Mode Magazine, Ryo Saeba""",パリ・モード誌 冴羽リョウ…,Paris Mode Magazine Awa Ryo ...,0.4
+A strange guy comes!",0.3157894736842105,0.85887647
+I'll take care of you!,つまみ出して… やっ！,I'm sorry ...!,0.2,0.38996926
+Just who are you?,い いったい君は…,Yes you are ...,0.2857142857142857,0.37128344
+"""Paris Mode Magazine, Ryo Saeba""",パリ・モード誌 冴羽リョウ…,Paris Mode Magazine Awa Ryo ...,0.4,0.86684453
 The one that decides what's popular\Nin the world of French fashion?,"とっ というとフランス ファッション界の
 流行を決めると言われる","In the French fashion world
-It is said to decide the epidemic",0.21052631578947367
-THAT Paris Mode?!,あのパリ・モード誌？,That Paris Mode magazine?,0.6666666666666666
-We plan to devote a thirty page special\Nto tonight's new swimwear gala show.,え 今夜の新作水着発表パーティー,Eh tonight new swimsuit announcement party,0.10526315789473684
-I must be dreaming!,いたたたた…,I had ...,0.14285714285714285
-What are you doing?,な な 何を！,What is it?,0.2857142857142857
+It is said to decide the epidemic",0.21052631578947367,0.52583706
+THAT Paris Mode?!,あのパリ・モード誌？,That Paris Mode magazine?,0.6666666666666666,0.74767214
+We plan to devote a thirty page special\Nto tonight's new swimwear gala show.,え 今夜の新作水着発表パーティー,Eh tonight new swimsuit announcement party,0.10526315789473684,0.610511
+I must be dreaming!,いたたたた…,I had ...,0.14285714285714285,0.23213395
+What are you doing?,な な 何を！,What is it?,0.2857142857142857,0.30636153
 See? It's not a dream. Please grant\Nme your permission to do the story.,"ねえ 夢じゃないでしょう？
 ぜひ取材の許可を…","You're not a dream?
-By all means, permission of coverage ...",0.2
-Why of course. Certainly!,も もちろんでございますとも,Of course there is also,0.2222222222222222
-"Merci, Monsieur! Allow me to\Nintroduce my assistant.",こちらは私のアシスタントでーす,This is my assistant,0.16666666666666666
-"Oh, how beautiful!\NA vision not of this world!",この世のものとは思われないわ,I do not think of this world,0.2857142857142857
-"Already received an\Ninvitation, have you?",槇村です よろしくお願いします,I am Kamamura Thank you,0.09090909090909091
+By all means, permission of coverage ...",0.2,0.6179313
+Why of course. Certainly!,も もちろんでございますとも,Of course there is also,0.2222222222222222,0.20533027
+"Merci, Monsieur! Allow me to\Nintroduce my assistant.",こちらは私のアシスタントでーす,This is my assistant,0.16666666666666666,0.5124731
+"Oh, how beautiful!\NA vision not of this world!",この世のものとは思われないわ,I do not think of this world,0.2857142857142857,0.5100574
+"Already received an\Ninvitation, have you?",槇村です よろしくお願いします,I am Kamamura Thank you,0.09090909090909093,0.25665888
 I bet he's going to ask me to be\Na model. I'm almost sure of it.,"ついでにモデルになってくれって
 言うんじゃない きっと","At the same time, it is a model
-I'm sure not to say",0.24
-This is not a game we're playing here.,だが遊びじゃないんだぜ これは,But it's not a play,0.14285714285714285
+I'm sure not to say",0.24,0.48858887
+This is not a game we're playing here.,だが遊びじゃないんだぜ これは,But it's not a play,0.14285714285714285,0.50176454
 I know that! I need to coax the\Nlocation of the swimsuits out of him.,"分かる人には分かるんだよねえ
 ほんとの美ってものが","I know the person who understands
-Really beautiful things",0.15
-Beautiful! You are the one\NI have been searching for!,美しい あなたこそ私が求めていた人です,Beautiful you are the person I was asking for,0.35714285714285715
-"Compared to you, all women\Nare mere garbage!",あなたに比べたら女どもはクズです,"If you compare to you, a woman is crazy",0.2
+Really beautiful things",0.15,0.10136933
+Beautiful! You are the one\NI have been searching for!,美しい あなたこそ私が求めていた人です,Beautiful you are the person I was asking for,0.35714285714285715,0.5481012
+"Compared to you, all women\Nare mere garbage!",あなたに比べたら女どもはクズです,"If you compare to you, a woman is crazy",0.2,0.52719444
 Something I wanted that one\Nspecial person to wear.,"上手いこと聞き出せばいいんでしょ？
 水着のありかを","Should I hear something good?
-Swimwear",0.14285714285714285
-"Would you please accept this,\Na gift from me?",受け取って下さいますか 私のプレゼント,Please receive me or my present,0.13333333333333333
+Swimwear",0.14285714285714285,0.4149309
+"Would you please accept this,\Na gift from me?",受け取って下さいますか 私のプレゼント,Please receive me or my present,0.13333333333333333,0.44023514
 And please wear it for the finale\Non stage tonight.,"そして今夜のステージの
 フィナーレを飾って下さいな","And the stage of tonight
-Please decorate the finale",0.38461538461538464
+Please decorate the finale",0.38461538461538464,0.7327345
 "Of course, but I'd also really like to get\Na sneak peek of the new swimsuits.","でも あたし今夜発表される水着も
 パーティーの前に見たいな","But I also announced tonight
-I want to see in front of the party",0.25
+I want to see in front of the party",0.25,0.2997785
 "Later, I will show you to No. 7 Storage\Non the second underground level.","後ほど地下２階の
 第７保管室へご案内致しますわよ","After the second floor of the basement
-We will guide you to the 7th storage room",0.20833333333333334
-"Good. No. 7 Storage on the second\Nunderground level, is it?",やったね 地下２階の第７保管室か,I did it the 7th storage room on the second floor of the basement,0.19047619047619047
+We will guide you to the 7th storage room",0.20833333333333331,0.6376867
+"Good. No. 7 Storage on the second\Nunderground level, is it?",やったね 地下２階の第７保管室か,I did it the 7th storage room on the second floor of the basement,0.19047619047619047,0.49514082
 "To the dressing room, please.\NBy all means please try it on now.","更衣室へ どうぞ
 早速 試着してみて下さい","Please go to the changing room
-Please try to try it immediately",0.35294117647058826
-Here you are. Please...,ささ どうぞ,Please,0.16666666666666666
-What is this?,え？ 何 これ…,picture?What's this…,0.2857142857142857
+Please try to try it immediately",0.35294117647058826,0.5288933
+Here you are. Please...,ささ どうぞ,Please,0.16666666666666666,0.46785983
+What is this?,え？ 何 これ…,picture?What's this…,0.2857142857142857,0.49958283
 The type that best suits a handsome\Nman like yourself!,"あなたのような すてっきな男性には
 それが一番よく似合うのよ","For a plush man like you
-That's the best good",0.3125
-Please let me...,あっ ははあ… ふっ,Oh yeah ...,0.16666666666666666
-How awful! How awful! Why...,が… あらぁ！,... Oh!,0.3333333333333333
-A bosom! It's a woman!,けっ 汚らわしいいー！,It's crazy!,0.42857142857142855
-How disgusting!,があ！,!,0.3333333333333333
-"Someone! Please help me!\NAbe! Where are you, Abe?",誰か助けてちょうだいっ！,Someone help me!,0.3333333333333333
-I know that sound!,あの音は…,That sound is ...,0.2857142857142857
-Here.,ここだ,here,0.5
+That's the best good",0.3125,0.34166375
+Please let me...,あっ ははあ… ふっ,Oh yeah ...,0.16666666666666666,0.36020854
+How awful! How awful! Why...,が… あらぁ！,... Oh!,0.3333333333333333,0.20413673
+A bosom! It's a woman!,けっ 汚らわしいいー！,It's crazy!,0.42857142857142855,0.14576642
+How disgusting!,があ！,!,0.3333333333333333,0.3440551
+"Someone! Please help me!\NAbe! Where are you, Abe?",誰か助けてちょうだいっ！,Someone help me!,0.3333333333333333,0.3300099
+I know that sound!,あの音は…,That sound is ...,0.2857142857142857,0.61820203
+Here.,ここだ,here,0.5,0.8623292
 "Wow, how faithful my ears\Nare to their master!","僕ちゃんの耳って
 なーんてご主人思いなんだろう","My ear
-It will be a master who thinks",0.11764705882352941
-No kidding.,ふふふ…,Fufu ...,0.0
-"And those ears of yours heard about\NYonezawa's preferences, didn't they?",え？ な 何の… ことかなあー？,picture?What's wrong ...,0.1111111111111111
-It won't work!,とぼけるなあっ！,I can not get it!,0.2222222222222222
-A man! A pervert!,男よー！,Man!,0.5
-We have an intruder!,侵入者だあー！,It's an intruder!,0.42857142857142855
-"Damn! Found us out, didn't you?",ごおおー！,Thank you!,0.18181818181818182
-The garden!\NThe intruder's in the garden! Hurry!,庭だ 庭に侵入者だ！ 急げ！,It is an intruder in the garden!hurry up!,0.5
-You were saying?,何してんの？,what are you doing?,0.2857142857142857
-"Oh, nothing.",あ… あれ？,Oh ... that?,0.14285714285714285
+It will be a master who thinks",0.1176470588235294,0.62015754
+No kidding.,ふふふ…,Fufu ...,0.0,0.19557782
+"And those ears of yours heard about\NYonezawa's preferences, didn't they?",え？ な 何の… ことかなあー？,picture?What's wrong ...,0.1111111111111111,0.016034283
+It won't work!,とぼけるなあっ！,I can not get it!,0.2222222222222222,0.3976954
+A man! A pervert!,男よー！,Man!,0.5,0.35363004
+We have an intruder!,侵入者だあー！,It's an intruder!,0.42857142857142855,0.81783104
+"Damn! Found us out, didn't you?",ごおおー！,Thank you!,0.18181818181818185,0.193582
+The garden!\NThe intruder's in the garden! Hurry!,庭だ 庭に侵入者だ！ 急げ！,It is an intruder in the garden!hurry up!,0.5,0.8006902
+You were saying?,何してんの？,what are you doing?,0.2857142857142857,0.25477478
+"Oh, nothing.",あ… あれ？,Oh ... that?,0.14285714285714285,0.446007
 I'm begging you.\NPlease return my designs!,"お願いです 先生
 あたしの作品を返して下さい","I hope the teacher
-Please return my work",0.23076923076923078
+Please return my work",0.2307692307692308,0.28997636
 I won't say a word to anyone about\Nwhat happened in the past. So please...,"今までのことも
 人に決して言いません ですから…","What to do
-I never say to people ...",0.19047619047619047
+I never say to people ...",0.19047619047619047,0.26821032
 "In the past, you say?","あなたのような
 駆け出しの言うことなんて","Like you
-What to say",0.2
-"In this business, the first one to\Nhold the show is the winner",この業界は先に発表した者の勝ちなの,This industry is the winning of those who have announced,0.16666666666666666
-even if the designs are not original.,たとえ それが盗作であろうとね,Even if it is a stole,0.16666666666666666
-No!,そんな！,Such!,0.3333333333333333
+What to say",0.2,0.24018472
+"In this business, the first one to\Nhold the show is the winner",この業界は先に発表した者の勝ちなの,This industry is the winning of those who have announced,0.16666666666666666,0.47449228
+even if the designs are not original.,たとえ それが盗作であろうとね,Even if it is a stole,0.16666666666666666,0.31921688
+No!,そんな！,Such!,0.3333333333333333,0.38454288
 I never want to see her face again.,"私 もう二度と
 その子の顔は見たくないわ","I will again
-I do not want to see the face of the child",0.4
-So long.,あばよ,Bye,0.0
-"No, this won't do! This is serious!",こいつはマジなんだ,This guy is serious,0.3
+I do not want to see the face of the child",0.4,0.57791156
+So long.,あばよ,Bye,0.0,0.37909192
+"No, this won't do! This is serious!",こいつはマジなんだ,This guy is serious,0.3,0.44370413
 That's strange. I'm almost certain\NRyo came this direction.,"リョウの奴 確か
 この辺へ来たと思ったんだけど…","Certainly Ryo's guy
-I thought he came to this side ...",0.21052631578947367
-Wait!,は！,teeth!,0.3333333333333333
-I'm really sorry.,いーんだもん… いーんだあ…,I'm sorry ... I'm sorry ...,0.5
-Knowing how you usually are\Nwhat was I supposed to think?,やっ お目覚めかい？,Do you want to do it?,0.21428571428571427
-"No one trusts me. All right then,\Nmaybe I will become a bad boy.",いいさ！ 悪い子になってやる,Goodness!It will be a bad child,0.14285714285714285
-And you were my first kiss.,ファーストキスの相手だから…,Because it is the other party of the first kiss ...,0.13333333333333333
-"I had no idea. Look, she told me\Nshe had a lot of boyfriends!",だ だって恋人が沢山いるってえー！,"Well, there are a lot of lovers!",0.2631578947368421
-It's easier for me.,楽なんです,It is easy,0.125
-Are you referring to me maybe?,お 俺のことかなあ？,"Oh, what is me?",0.18181818181818182
+I thought he came to this side ...",0.21052631578947367,0.3611673
+Wait!,は！,teeth!,0.3333333333333333,0.35750213
+I'm really sorry.,いーんだもん… いーんだあ…,I'm sorry ... I'm sorry ...,0.5,0.529363
+Knowing how you usually are\Nwhat was I supposed to think?,やっ お目覚めかい？,Do you want to do it?,0.21428571428571427,0.055061817
+"No one trusts me. All right then,\Nmaybe I will become a bad boy.",いいさ！ 悪い子になってやる,Goodness!It will be a bad child,0.14285714285714285,0.3133214
+And you were my first kiss.,ファーストキスの相手だから…,Because it is the other party of the first kiss ...,0.13333333333333333,0.42778844
+"I had no idea. Look, she told me\Nshe had a lot of boyfriends!",だ だって恋人が沢山いるってえー！,"Well, there are a lot of lovers!",0.2631578947368421,0.3973631
+It's easier for me.,楽なんです,It is easy,0.125,0.6174826
+Are you referring to me maybe?,お 俺のことかなあ？,"Oh, what is me?",0.18181818181818185,0.4047419
 "However you may appear, you\Ngave me my first kiss, Mr. Saeba.","あたしのファーストキスの
 相手は冴羽さん…","My first kiss
-The opponent is Mr. Aya ...",0.2222222222222222
+The opponent is Mr. Aya ...",0.2222222222222222,0.52953964
 Why do something as dangerous as\Ntrying to get into the mansion yourself?,"なんで直接 屋敷へ
 乗り込むなんて危険なことを","Why is it directly to the house
-It is dangerous to board",0.2222222222222222
-I'm sorry. I was just so worried.,すみません やっぱり心配で…,I'm sorry I'm worried after all ...,0.36363636363636365
-"That lousy Yonezawa! Let's just get\Nthe suits, and get out of there!",全く米沢の野郎！,Yonezawa's guy at all!,0.16666666666666666
-Not so fast.\NI have something I want to do first.,いいや その前にやることがある,You may do it before that,0.0625
-I've got a fashion show to put on.,奴にふさわしいショーをな,A show suitable for a guy,0.15384615384615385
+It is dangerous to board",0.2222222222222222,0.52879184
+I'm sorry. I was just so worried.,すみません やっぱり心配で…,I'm sorry I'm worried after all ...,0.3636363636363637,0.7561878
+"That lousy Yonezawa! Let's just get\Nthe suits, and get out of there!",全く米沢の野郎！,Yonezawa's guy at all!,0.16666666666666666,0.7057091
+Not so fast.\NI have something I want to do first.,いいや その前にやることがある,You may do it before that,0.0625,0.32682875
+I've got a fashion show to put on.,奴にふさわしいショーをな,A show suitable for a guy,0.15384615384615385,0.44467917
 "I must say, Mr. Yonezawa, your taste\Nis impeccable as ever.","まあ 米沢先生よ
 いつ見てもセンスがいいわね","Well, Mr. Yonezawa
-I have a good sense of looking at any time",0.18181818181818182
-Just what I would expect from the\Nleader of the fashion world.,さすがファッション界の第一人者ね,The first person of the fashion world,0.2857142857142857
+I have a good sense of looking at any time",0.18181818181818185,0.6627754
+Just what I would expect from the\Nleader of the fashion world.,さすがファッション界の第一人者ね,The first person of the fashion world,0.2857142857142857,0.6915427
 Do you actually think the\NSuper-High-Leg is for the likes of you?,"お前達にスーパーハイレッグが
 似合うと思ってるの","Super Heilg is for you
-I think I would suit",0.25
-"Abe, it's time to begin the show.",先生の水着 早く着てみたいわあ,I want to wear the teacher's swimsuit quickly,0.1875
-What?! It's cleaned out! Where could\Nthe swimsuits have gone?,なっ 何！,What!,0.16666666666666666
-Let us out! Open the door!,出せえー！ 開けろー！,Get out!Open!,0.375
+I think I would suit",0.25,0.18735974
+"Abe, it's time to begin the show.",先生の水着 早く着てみたいわあ,I want to wear the teacher's swimsuit quickly,0.1875,0.09743969
+What?! It's cleaned out! Where could\Nthe swimsuits have gone?,なっ 何！,What!,0.16666666666666666,0.21267304
+Let us out! Open the door!,出せえー！ 開けろー！,Get out!Open!,0.375,0.7585399
 "Sorry, but you're going to stay put\Nuntil the show is over.","すまないがショーが終わるまで
 そこに いてもらおうか","Until I'm sorry but the show is over
-If she got her",0.2857142857142857
-No way! For real?,うっそ ほんと？,Uh ほ ほ?,0.125
-Is this stuff really\NMr. Yonezawa's designs?,米沢先生って こういうの趣味ぃ？,Mr. Yonezawa is this kind of hobbies?,0.3076923076923077
-Here now.\NAllow me to help you change.,あ ささ 着替えをお手伝いしましょう,Let's help you change your residence,0.25
-That'll be enough!,あ！,a!,0.16666666666666666
+If she got her",0.2857142857142857,0.6327877
+No way! For real?,うっそ ほんと？,Uh ほ ほ?,0.125,0.030470604
+Is this stuff really\NMr. Yonezawa's designs?,米沢先生って こういうの趣味ぃ？,Mr. Yonezawa is this kind of hobbies?,0.3076923076923077,0.6826286
+Here now.\NAllow me to help you change.,あ ささ 着替えをお手伝いしましょう,Let's help you change your residence,0.25,0.46551448
+That'll be enough!,あ！,a!,0.16666666666666666,0.2339182
 No! Ryo wants to help!,"やっだああー！
 手伝うー リョウちゃん！","I'm sorry!
-Help Ryo-chan!",0.2
-Thank you so much for your patience.,大変長らくお待たせ致しました,Thank you for waiting for a long time,0.25
+Help Ryo-chan!",0.2,0.6252371
+Thank you so much for your patience.,大変長らくお待たせ致しました,Thank you for waiting for a long time,0.25,0.60996306
 My new swimwear show begins now.,"ただ今より
 新作水着ショーを開始致します","Just now
-I will start a new swimwear show",0.3333333333333333
-"I have great confidence in\Nmy newest designs, and...",わたくし今回の作品には絶対の自信を…,I'm absolutely confident in my work this work ...,0.11764705882352941
-Impossible! How did she...,ば 馬鹿な！ なぜ彼女がここに…,It's stupid!Why she is here ...,0.25
-What's wrong?,どうしたの？,What's wrong?,1.0
-"Thank you. I apologize most sincerely.\NWell, let us begin the show.",あ ああ… どうも大変失礼致しました,Oh yeah ... Thank you very much,0.1111111111111111
-Please enjoy it.,ごゆっくりどうぞ,Please relax,0.2
-This has to be a joke!,何なの これは どういうこと！,What does this mean!,0.2
+I will start a new swimwear show",0.3333333333333333,0.9336197
+"I have great confidence in\Nmy newest designs, and...",わたくし今回の作品には絶対の自信を…,I'm absolutely confident in my work this work ...,0.1176470588235294,0.4341934
+Impossible! How did she...,ば 馬鹿な！ なぜ彼女がここに…,It's stupid!Why she is here ...,0.25,0.3290916
+What's wrong?,どうしたの？,What's wrong?,1.0,1.0000001
+"Thank you. I apologize most sincerely.\NWell, let us begin the show.",あ ああ… どうも大変失礼致しました,Oh yeah ... Thank you very much,0.1111111111111111,0.21824647
+Please enjoy it.,ごゆっくりどうぞ,Please relax,0.2,0.52612936
+This has to be a joke!,何なの これは どういうこと！,What does this mean!,0.2,0.36611608
 No! No! Get off the catwalk!\NThese aren't mine!,"違う 違うわよ！
 みんな下がりなさい 作品が違う！","No difference!
-Everybody goes down The work is different!",0.17647058823529413
-I'm looking forward to\Nnext month's reviews.,来月号の批評を楽しみにしてるんだね,I am looking forward to the critique of next month,0.26666666666666666
-Madam...,あ ははっ…,Oh ...,0.3333333333333333
+Everybody goes down The work is different!",0.17647058823529413,0.16211611
+I'm looking forward to\Nnext month's reviews.,来月号の批評を楽しみにしてるんだね,I am looking forward to the critique of next month,0.26666666666666666,0.7060755
+Madam...,あ ははっ…,Oh ...,0.3333333333333333,0.4742115
 Damn! This is all that girl's doing!,"くっそお… これはみんな
 あの子の仕業ね！","Close ... This is everyone
-That girl's work!",0.46153846153846156
-"If you're going to do it,\Nwhy not do it big?",どーせなら派手にいきましょ 派手に,"If it is a flashy, let's go flashy",0.16666666666666666
+That girl's work!",0.4615384615384616,0.6258004
+"If you're going to do it,\Nwhy not do it big?",どーせなら派手にいきましょ 派手に,"If it is a flashy, let's go flashy",0.16666666666666666,0.2071243
 What? How idiotic! Just what are you\Ntrying to do? Who are you?,"いったい どういうつもり？
 あなた何者！","What does that mean?
-Anyone!",0.1875
+Anyone!",0.1875,0.26494017
 "That story about me being a reporter for\N""Paris Mode"" was a complete fabrication.","パリ・モード誌の記者なんて
 まーっかな嘘！","Paris Mode Magazine reporter
-Maruka lie!",0.15789473684210525
+Maruka lie!",0.15789473684210525,0.531613
 Ping-pong! And I've placed loads\Nof TNT all over your mansion.,"そして屋敷中に
 火薬もいっぱい仕掛けましたあー！","And in the house
-I also had a lot of gunpowder.",0.13636363636363635
-There he is!,いたぞ！,There it is!,0.6
+I also had a lot of gunpowder.",0.13636363636363635,0.35558793
+There he is!,いたぞ！,There it is!,0.6,0.7765043
 "You just don't know when\Nto shut up, do you?","あーらぁ あーんな頑丈な
 ドア壊して もう出てきたの？","Aura Aho Heavy Duty
-Have you ever lost it?",0.1111111111111111
-What?!,何だあ？,What is it?,0.4
-"Abe, don't leave me! Wait!",阿部っ 待ちなさい！ 置いてかないで！,Wait for Abe!Don't put it!,0.45454545454545453
-"My castle is crumbling,\Nand so are my dreams!",私の城が… 私の夢があ！,My castle is ... my dream!,0.3333333333333333
-"Ladies and Gentlemen, with pleasure",Ladies and gentlemen,Ladies and Gentlemen,0.5
-Super-High-Leg is your swimwear\Nby Miss Midori Ohara.,これで大原緑の,This is the Ohara green,0.18181818181818182
+Have you ever lost it?",0.1111111111111111,0.12824187
+What?!,何だあ？,What is it?,0.4,0.32572874
+"Abe, don't leave me! Wait!",阿部っ 待ちなさい！ 置いてかないで！,Wait for Abe!Don't put it!,0.4545454545454545,0.8011522
+"My castle is crumbling,\Nand so are my dreams!",私の城が… 私の夢があ！,My castle is ... my dream!,0.3333333333333333,0.83903766
+"Ladies and Gentlemen, with pleasure",Ladies and gentlemen,Ladies and Gentlemen,0.5,0.7507988
+Super-High-Leg is your swimwear\Nby Miss Midori Ohara.,これで大原緑の,This is the Ohara green,0.18181818181818185,0.30851993
 This concludes Midori Ohara's New\NSwimwear Fashion Show for this year.,"今年の新作水着ショーの
 幕を閉じさせて頂きます","This year's new swimsuit show
-I will close the curtain",0.2222222222222222
-Thank you very much.\NThank you. Bye-bye!,どうもありがとうございました,Thank you very much,0.375
-"Congratulations, Midori.",おめでとう 緑君,Congratulations Green-kun,0.2
-"Thank you, Mr. Saeba.",Thank you バイバーイ,THANK YOU VIBI,0.2857142857142857
-My sweetheart...,マイ スイートハート,My Suite Heart,0.2
+I will close the curtain",0.2222222222222222,0.50046253
+Thank you very much.\NThank you. Bye-bye!,どうもありがとうございました,Thank you very much,0.375,0.47665945
+"Congratulations, Midori.",おめでとう 緑君,Congratulations Green-kun,0.2,0.33619198
+"Thank you, Mr. Saeba.",Thank you バイバーイ,THANK YOU VIBI,0.2857142857142857,0.4583458
+My sweetheart...,マイ スイートハート,My Suite Heart,0.2,0.34347937
 Get thee back I say! I am a guardian\Nangel sent on a mission from God!,"控えおろう！ 俺は神より
 つかわされし守護神なるぞ！","Let's refrain!I am from God
-It is crazy and guardian!",0.22727272727272727
-Did you have a revelation\Nor something?,何だ？ あっちの方に目覚めたの？,What?Did you wake up to the one?,0.23076923076923078
-It's the prophecy of a shrine maiden.,巫女さんの占いなのだ,Maiden's fortune telling,0.18181818181818182
-"My word, a guardian angel?",ふうーん 守護神ねえ,Fu-no guardian god,0.1111111111111111
-"I'm something else, aren't I?!",偉いんだぞ 俺！,I'm great!,0.3
-"If you're a servant of God you're going\Nto have to change your worldly ways,",神の使いなら俗世間から足を洗って,Wash your feet from the Emotional Life if you use God,0.18181818181818182
-"City Hunter: ""A Divine Prophecy\Non a Summers Evening?!""",シティーハンター,city Hunter,0.16666666666666666
-See you then!,ガーン！,Garn!,0.2
+It is crazy and guardian!",0.2272727272727273,0.5524881
+Did you have a revelation\Nor something?,何だ？ あっちの方に目覚めたの？,What?Did you wake up to the one?,0.2307692307692308,0.4503562
+It's the prophecy of a shrine maiden.,巫女さんの占いなのだ,Maiden's fortune telling,0.18181818181818185,0.53405106
+"My word, a guardian angel?",ふうーん 守護神ねえ,Fu-no guardian god,0.1111111111111111,0.5205645
+"I'm something else, aren't I?!",偉いんだぞ 俺！,I'm great!,0.3,0.32982036
+"If you're a servant of God you're going\Nto have to change your worldly ways,",神の使いなら俗世間から足を洗って,Wash your feet from the Emotional Life if you use God,0.18181818181818185,0.42177126
+"City Hunter: ""A Divine Prophecy\Non a Summers Evening?!""",シティーハンター,city Hunter,0.16666666666666666,0.54103714
+See you then!,ガーン！,Garn!,0.2,0.12451631

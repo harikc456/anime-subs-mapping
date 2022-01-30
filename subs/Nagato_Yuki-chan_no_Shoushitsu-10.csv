@@ -1,196 +1,196 @@
-en_text,jp_text,google_translated,score
-nazo nazo mitai na,♪～,♪ ~,0.0
-"Hey, you.",（運転手）君！　ねえ…,you! Hey you…,0.3333333333333333
-"Hey, are you okay?",君… 大丈夫ですか？,You ... Are you okay?,0.5714285714285714
+en_text,jp_text,google_translated,score,semantic_score
+nazo nazo mitai na,♪～,♪ ~,0.0,0.13826984
+"Hey, you.",（運転手）君！　ねえ…,you! Hey you…,0.3333333333333333,0.6892516
+"Hey, are you okay?",君… 大丈夫ですか？,You ... Are you okay?,0.5714285714285714,0.7297166
 There's a hospital nearby. You should go and–,"近くに病院がありますから
 今から そこへ一緒に…","Because there is a hospital nearby
-From now on there ...",0.25
-That is just a scratch.,ただの かすり傷,Just scratch,0.3333333333333333
-But...,（運転手）ですが…,...,0.5
+From now on there ...",0.25,0.58917964
+That is just a scratch.,ただの かすり傷,Just scratch,0.3333333333333333,0.74692833
+But...,（運転手）ですが…,...,0.5,0.65562433
 I was at fault.,"（運転手）
-いや でも ケガしていますし―",I'm addicted to,0.125
-Are you... really okay?,（運転手）本当に 大丈夫ですか？,Is it really okay?,0.375
-"If anything else comes up,\Nplease call me.",他にも 何かあれば連絡をください,Please contact me if there is anything else,0.2857142857142857
+いや でも ケガしていますし―",I'm addicted to,0.125,0.18362927
+Are you... really okay?,（運転手）本当に 大丈夫ですか？,Is it really okay?,0.375,0.6134425
+"If anything else comes up,\Nplease call me.",他にも 何かあれば連絡をください,Please contact me if there is anything else,0.2857142857142857,0.46121487
 Huh!? You were hit by a car!?,"（朝倉）
-はあ？　車にひかれかけた？",Is it?Did you get caught in a car?,0.26666666666666666
-No you're not!,大丈夫じゃないですよ！,It's not all right!,0.2222222222222222
-Take off your clothes!,ちょっと服 脱ぎなさい,Please take off your clothes a little,0.5
+はあ？　車にひかれかけた？",Is it?Did you get caught in a car?,0.26666666666666666,0.59751
+No you're not!,大丈夫じゃないですよ！,It's not all right!,0.2222222222222222,0.3267303
+Take off your clothes!,ちょっと服 脱ぎなさい,Please take off your clothes a little,0.5,0.725626
 "What are you doing?\NCome on, stand up!","何してるんですか
 ほら 立って！","What are you doing
-Please stand!",0.5
-What happened to your glasses?,眼鏡は どうしたんです？,What happened to glasses?,0.8333333333333334
-They broke.,（長門）壊れた,broken,0.0
-What if that leaves a scar?,残る傷だったら どうするんです？,What do you do if it is a remaining scratch?,0.3076923076923077
-Where is it?,大げさなわけないでしょう？,Isn't it big?,0.5
-Overreacting?,大げさ？,exaggerated?,0.3333333333333333
-It's only because you were lucky!,運がよかっただけじゃないですか！,Aren't you only lucky!,0.4
+Please stand!",0.5,0.7859572
+What happened to your glasses?,眼鏡は どうしたんです？,What happened to glasses?,0.8333333333333334,0.9060913
+They broke.,（長門）壊れた,broken,0.0,0.6149372
+What if that leaves a scar?,残る傷だったら どうするんです？,What do you do if it is a remaining scratch?,0.3076923076923077,0.43546146
+Where is it?,大げさなわけないでしょう？,Isn't it big?,0.5,0.35250446
+Overreacting?,大げさ？,exaggerated?,0.3333333333333333,0.34142447
+It's only because you were lucky!,運がよかっただけじゃないですか！,Aren't you only lucky!,0.4,0.7844492
 It was a car!,"車に
 ひかれかけただけだったのも―","In a car
-It was also only hit-too-",0.4444444444444444
-I'm sorry.,（長門）ごめんなさい,I'm sorry,0.75
+It was also only hit-too-",0.4444444444444444,0.44139504
+I'm sorry.,（長門）ごめんなさい,I'm sorry,0.75,0.8993135
 "Anyway, let's you get you\Ndisinfected and bandaged up.","う…　とりあえず消毒して
 包帯 巻いときましょう","Ue ... for the time being disinfected
-Let's roll bandage",0.1
-There. We're done.,はい　終わりましたよ,Yes is over,0.0
-"It might be a bit inconvenient,",少し不便かもしれませんけど―,It may be a bit inconvenient-,0.4444444444444444
+Let's roll bandage",0.1,0.65498495
+There. We're done.,はい　終わりましたよ,Yes is over,0.0,0.27922136
+"It might be a bit inconvenient,",少し不便かもしれませんけど―,It may be a bit inconvenient-,0.4444444444444444,0.94920933
 "And, tomorrow, let's go\Nto the hospital just in case.","それと 明日
 一応 病院には行きましょう","And tomorrow
-Let's go to the hospital",0.42857142857142855
+Let's go to the hospital",0.42857142857142855,0.88028437
 Even so...,"（朝倉）ですが…
 （長門）平気","...
- peace",0.25
-"Good morning, Nagato-san.",おはよう 長門さん,Good morning Nagato,0.3333333333333333
-Ah. Your glasses...,あっ 眼鏡…,A glasses mirror ...,0.2857142857142857
-Since the usual ones were broken.,いつものは壊れてしまったから,Because always has been broken,0.09090909090909091
+ peace",0.25,0.2622971
+"Good morning, Nagato-san.",おはよう 長門さん,Good morning Nagato,0.3333333333333333,0.83768
+Ah. Your glasses...,あっ 眼鏡…,A glasses mirror ...,0.2857142857142857,0.5118483
+Since the usual ones were broken.,いつものは壊れてしまったから,Because always has been broken,0.09090909090909093,0.53263843
 Did your wounds hurt last night?,"夜中
 傷 痛かったんじゃないですか？","Night
-Isn't it a wound?",0.16666666666666666
+Isn't it a wound?",0.16666666666666666,0.5894824
 Are you sure you don't\Nwant me to stay over tonight?,"本当に夜 泊まらなくても
 大丈夫ですか？","Even if you really do not stay at night
-is it OK?",0.15
-There's no need to hold back.,遠慮しなくていいんですよ,I do not have to hold it,0.15384615384615385
-Huh!? She was run over by a car!?,（キョン）えっ？　車にひかれた？,?Was it a car?,0.36363636363636365
+is it OK?",0.15,0.38054508
+There's no need to hold back.,遠慮しなくていいんですよ,I do not have to hold it,0.15384615384615385,0.6257447
+Huh!? She was run over by a car!?,（キョン）えっ？　車にひかれた？,?Was it a car?,0.3636363636363637,0.4922661
 "Visibility was poor from the rain,\Nand she was lost in thought,","雨で視界悪いところに
 考え事してて―","In the rainy place in the rain
-Thinking of thinking-",0.17647058823529413
-"But, she's not hurt, right?",それで ケガはなかったのか？,So why did you not get injured?,0.14285714285714285
-Really?,そうか,Really,0.5
+Thinking of thinking-",0.17647058823529413,0.4709546
+"But, she's not hurt, right?",それで ケガはなかったのか？,So why did you not get injured?,0.14285714285714285,0.27809983
+Really?,そうか,Really,0.5,0.7202656
 "Well, I'm just glad\Nit wasn't anything serious.","まあ とりあえず
 大ごとじゃなくてよかったな","Well, for the time being
-I'm glad I'm not a big deal",0.2
-Yeah... I guess.,うん…　そうね,Yeah ...,0.4
-What's wrong?\NYou don't look happy.,ん？　何だよ　浮かない顔して,Yeah?What a face that does not float,0.11764705882352941
-That must be it.,そうよね,It looks like,0.14285714285714285
+I'm glad I'm not a big deal",0.2,0.4081425
+Yeah... I guess.,うん…　そうね,Yeah ...,0.4,0.631491
+What's wrong?\NYou don't look happy.,ん？　何だよ　浮かない顔して,Yeah?What a face that does not float,0.1176470588235294,0.22151953
+That must be it.,そうよね,It looks like,0.14285714285714285,0.356275
 That has to be it!,"（朝倉）やっぱり そうなのよね！
 （キョン）え？","After all it seems!
-?",0.2
-"And yet, I've just been scolding her...",ハァ…　私がそんなだから―,Hua ... Because I like-,0.15384615384615385
+?",0.2,0.11515039
+"And yet, I've just been scolding her...",ハァ…　私がそんなだから―,Hua ... Because I like-,0.15384615384615385,0.06301054
 "Ahh, jeez!!","（朝倉）ああ～っ！　もう！
 （生徒たち）ん？","Oh! Already!
-?",0.14285714285714285
-"Calm down, Asakura!",（キョン）お… 落ち着け　朝倉！,... Calm Asakura!,0.5
+?",0.14285714285714285,0.31045884
+"Calm down, Asakura!",（キョン）お… 落ち着け　朝倉！,... Calm Asakura!,0.5,0.9080445
 It's true that you can be pretty\Nterrifying when you're angry...,"長門さん 言いたいことがあっても
 言いづらくなってるんじゃ…","Even if there is something I want to say
-It's getting sincerely ...",0.13043478260869565
-I know that...,（朝倉）ん…　分かってます,... I understand,0.4
+It's getting sincerely ...",0.13043478260869565,0.3367364
+I know that...,（朝倉）ん…　分かってます,... I understand,0.4,0.55099964
 Not good.,"まあ あんまり
 過保護になりすぎるのもよくないぞ","So much
-It is not good to be too much over-protection",0.18181818181818182
+It is not good to be too much over-protection",0.18181818181818185,0.15205944
 Not a single bit of that lesson\Nmanaged to stick in my brain.,"俺の脳内に授業の記憶が
 一切 存在しない","Memory of classes in my brain
-There is no absence",0.21052631578947367
+There is no absence",0.21052631578947367,0.30183688
 "Hey, hey, hey!","（谷口(たにぐち)）おい おい おい！
 辛気くせえな　お前ら",") Hey good morning!
-It's hard to wear",0.18181818181818182
+It's hard to wear",0.18181818181818185,0.35554093
 "Ah, what is it?","（国木田）
-えっ　何 何？　教えてよ",What is it?Tell me,0.5
+えっ　何 何？　教えてよ",What is it?Tell me,0.5,0.5106183
 "So, I heard this from\Nsome guys in the Tennis Club.","（谷口）実はさっき テニス部の
 ヤツらに聞いたんだけどよ","Actually the tennis club
-I asked the guys",0.35714285714285715
-Another rumor about a girl?,（国木田）また女の子の話？,Also the story of the girl?,0.2
+I asked the guys",0.35714285714285715,0.6795889
+Another rumor about a girl?,（国木田）また女の子の話？,Also the story of the girl?,0.2,0.4669009
 "Well, it's less like I overhear them,\Nand more like they're drawn to me?","俺が引き寄せちまうっつうか？
 ハハハッ","Is I'm going to draw?
-Ha ha ha",0.13636363636363635
-You sure look happy.,（国木田）幸せそうだね,It looks happy,0.14285714285714285
-Is something wrong?,なんで そうなる！,What is it?,0.3333333333333333
-"Oh, no.",ああ いや…,"Ah, no way…",0.3333333333333333
+Ha ha ha",0.13636363636363635,0.2861619
+You sure look happy.,（国木田）幸せそうだね,It looks happy,0.14285714285714285,0.659143
+Is something wrong?,なんで そうなる！,What is it?,0.3333333333333333,0.097507335
+"Oh, no.",ああ いや…,"Ah, no way…",0.3333333333333333,0.53016376
 "So, Taniguchi, you want to go\Nplay tennis at the convenience store?","それで谷口　お前 今度
 コンビニでテニスするんだって？","So Taniguchio this time
-Do you play tennis at a convenience store?",0.3684210526315789
-Where did you get that from!?,どうかした？,What did you do?,0.3
+Do you play tennis at a convenience store?",0.3684210526315789,0.86741704
+Where did you get that from!?,どうかした？,What did you do?,0.3,0.123502806
 "Hey, Kyon-kun?","（朝倉）ねえ キョン君
 （キョン）ん？","Hey Kyung
-?",0.4
-One of our teachers asked me to help out with something today...,うちまで送っていってあげてね,Please send me to me,0.13333333333333333
-Can you look after Nagato-san for me?,おう　お務めご苦労さん！,Thank you for your efforts!,0.16666666666666666
-Well then...,さて　じゃあ まあ…,Well then ...,1.0
-Nagato? Should we head to the club room?,長門！　部室に行くか,Nagato!Do you go to club room,0.3076923076923077
-What're you reading?,何 読んでんだ？,What do you read?,0.42857142857142855
+?",0.4,0.6774131
+One of our teachers asked me to help out with something today...,うちまで送っていってあげてね,Please send me to me,0.13333333333333333,0.1426802
+Can you look after Nagato-san for me?,おう　お務めご苦労さん！,Thank you for your efforts!,0.16666666666666666,0.108724706
+Well then...,さて　じゃあ まあ…,Well then ...,1.0,1.0
+Nagato? Should we head to the club room?,長門！　部室に行くか,Nagato!Do you go to club room,0.3076923076923077,0.82062984
+What're you reading?,何 読んでんだ？,What do you read?,0.42857142857142855,0.8077129
 """Le My-mys-... My-my-m-m-my... My...""?","レ ミ… ミス？
 ミミミ…　えっ ミ？","Lemi ... Miss?
-Mimi ... Em M?",0.15384615384615385
+Mimi ... Em M?",0.15384615384615385,0.41326827
 "Man, it's pretty quiet\Nwhen Haruhi's not here...","（キョン）しかし
 ハルヒがいないと静かだなあ","But
-It is quiet if Haruhi is not",0.21428571428571427
+It is quiet if Haruhi is not",0.21428571428571427,0.83213747
 "It kind of feels like we're back to\Nhow it was in the beginning, huh?","俺たちらしい
 文芸部っていうかさ","We like
-I'm talking about literary arts",0.09090909090909091
-Not doing a thing.,何をするでもない―,I can not do anything-,0.1111111111111111
-What're you reading next?,次は何を読むんだ？,What do you read next?,0.5
+I'm talking about literary arts",0.09090909090909093,0.17302153
+Not doing a thing.,何をするでもない―,I can not do anything-,0.1111111111111111,0.54413605
+What're you reading next?,次は何を読むんだ？,What do you read next?,0.5,0.9268615
 """Le... P-parfi-... Pe-Pi-Pi... Pe-Pa-Pe...""?","レ パ…　パピュー
 パ ピピ…ペ パ…　え？","Lop ... Papuu
-Poppy ... Pop ... Eh?",0.15384615384615385
-I wonder if those two are still here.,（朝倉）失礼しました,I'm sorry,0.09090909090909091
+Poppy ... Pop ... Eh?",0.15384615384615385,0.44978166
+I wonder if those two are still here.,（朝倉）失礼しました,I'm sorry,0.09090909090909093,0.11908496
 They feel a little different...,"雰囲気が違うというか…
 気分転換か何かか？","Is the atmosphere different ...
-Do you feel free or something?",0.2
+Do you feel free or something?",0.2,0.4052438
 Since the previous ones were broken.,"（長門）これは予備
 前のは昨日 壊れた","This is a spare
-The front was broken yesterday",0.14285714285714285
-"Sounds like you had a\Npretty rough time, yesterday.",大変だったみたいだな　昨日,It looks like it was difficult Yesterday,0.14285714285714285
-Did you hear that from Asakura-san?,（長門）朝倉さんに聞いたの？,Did you hear Mr. Asakura?,0.4444444444444444
-What's wrong?,ん？　どうした？,Yeah? What happened?,0.3333333333333333
-You were concerned about me?,（長門）心配してくれるの？,Will you be worried?,0.2222222222222222
-What the heck?,何だよ それ　当たり前だろ,What is it?,0.3333333333333333
-Thank you.,ありがとう,Thank you,0.6666666666666666
+The front was broken yesterday",0.14285714285714285,0.2953168
+"Sounds like you had a\Npretty rough time, yesterday.",大変だったみたいだな　昨日,It looks like it was difficult Yesterday,0.14285714285714285,0.51187634
+Did you hear that from Asakura-san?,（長門）朝倉さんに聞いたの？,Did you hear Mr. Asakura?,0.4444444444444444,0.8005417
+What's wrong?,ん？　どうした？,Yeah? What happened?,0.3333333333333333,0.31755847
+You were concerned about me?,（長門）心配してくれるの？,Will you be worried?,0.2222222222222222,0.6571076
+What the heck?,何だよ それ　当たり前だろ,What is it?,0.3333333333333333,0.23323058
+Thank you.,ありがとう,Thank you,0.6666666666666666,0.7717477
 Your bandage was coming off.,"ばんそうこうが
 剥がれかけていてだな","The bandage
-I'm peeled off",0.2
-"Um, sorry about that.",何か 悪かったな,Something bad,0.0
-Why?,どうして？,Why?,1.0
-Huh? Well...,えっ？　いやあ…,eh?...,0.4
-Let's go.,（長門）行こう,Let's go,0.75
-Y-yeah...,（朝倉）ん…,...,0.5
+I'm peeled off",0.2,0.7936365
+"Um, sorry about that.",何か 悪かったな,Something bad,0.0,0.1395498
+Why?,どうして？,Why?,1.0,1.0
+Huh? Well...,えっ？　いやあ…,eh?...,0.4,0.6422247
+Let's go.,（長門）行こう,Let's go,0.75,0.88774896
+Y-yeah...,（朝倉）ん…,...,0.5,0.43808937
 "You're going to get\Nyour glasses fixed, right?","眼鏡 直しに行くんだろ？
 なら俺も付き合う","You're going to re-eyelid?
-Then I also get along",0.3125
-Thank you very much.,（店主）ありがとうございました,Thank you for the shopkeeper,0.25
+Then I also get along",0.3125,0.45750308
+Thank you very much.,（店主）ありがとうございました,Thank you for the shopkeeper,0.25,0.30012834
 "Guess it'll be a while, huh?","（キョン）
-結構 時間かかっちまうみたいだな",It looks like it will take a lot,0.14285714285714285
+結構 時間かかっちまうみたいだな",It looks like it will take a lot,0.14285714285714285,0.3035804
 "Well, the frame was totally\Nbroken, so what can you do?","まあ フレームが
 ポッキリいっちまってたし―","Well the frame
-Pokkiri Ichigo-Ichi",0.21428571428571427
-Are you okay with that?,長門は それで大丈夫そうか？,Is the Nagato okay with that?,0.4444444444444444
-You'll have to put up with\Nthose for the time being...,（キョン）なあ…,...,0.08333333333333333
-"The glasses, I mean.",眼鏡,glasses,0.16666666666666666
-"That's good, then.",そうか　ならいいんだ,It is good if it is,0.1111111111111111
-Oh! A taiyaki place!,おっ！　たい焼き屋,Oh!Wanted baker,0.2857142857142857
-SUMMER FESTIVAL,もうすぐ夏祭りだな,It is a summer festival soon,0.3333333333333333
+Pokkiri Ichigo-Ichi",0.21428571428571427,0.334733
+Are you okay with that?,長門は それで大丈夫そうか？,Is the Nagato okay with that?,0.4444444444444444,0.27648038
+You'll have to put up with\Nthose for the time being...,（キョン）なあ…,...,0.08333333333333333,0.15109864
+"The glasses, I mean.",眼鏡,glasses,0.16666666666666666,0.77054423
+"That's good, then.",そうか　ならいいんだ,It is good if it is,0.1111111111111111,0.39430633
+Oh! A taiyaki place!,おっ！　たい焼き屋,Oh!Wanted baker,0.2857142857142857,0.13097087
+SUMMER FESTIVAL,もうすぐ夏祭りだな,It is a summer festival soon,0.3333333333333333,0.90102065
 "Today, let's try putting some\Ncheese in that curry from yesterday.","今日は 昨日のカレーに
 チーズを入れてみましょうよ","Today is yesterday's curry
-Let's put cheese",0.3125
-"You like cheese, right?",長門さん 好きでしょう？,You like Nagato?,0.42857142857142855
+Let's put cheese",0.3125,0.70501846
+"You like cheese, right?",長門さん 好きでしょう？,You like Nagato?,0.42857142857142855,0.27652568
 How does it taste?,"味は どうですか？
 チーズ もっと入れる？","How does it taste?
-Do you put more cheese?",0.5
+Do you put more cheese?",0.5,0.6163302
 "Oh, right. They had daikon on sale today,\Nso I bought a bunch to stock up.","大根が安かったから
 まとめ買いしておきましたよ","Because the radish was cheap
-I bought a summary",0.125
+I bought a summary",0.125,0.24524821
 "It's been a bit chilly lately, so it'd be\Nthe perfect time, before summer comes.","夏になる前に
 ちょうどいいかと思って","Before summer
-I think it's just right",0.19047619047619047
-What is it?,ん？　あ…,Yeah? Ah…,0.16666666666666666
-There.,そこ…,There…,0.0
-"Oh dear, excuse me!",あっ やだ！　ごめんなさい,Oh yeah! sorry,0.25
-I didn't notice...,気づかなくって…,I love you ...,0.2857142857142857
+I think it's just right",0.19047619047619047,0.58715284
+What is it?,ん？　あ…,Yeah? Ah…,0.16666666666666666,0.13785693
+There.,そこ…,There…,0.0,0.85325724
+"Oh dear, excuse me!",あっ やだ！　ごめんなさい,Oh yeah! sorry,0.25,0.3651203
+I didn't notice...,気づかなくって…,I love you ...,0.2857142857142857,0.3142318
 I guess I should eat up\Nbefore it gets cold.,"早く食べないと
 冷めちゃいますね","If you do not eat early
-It is cold",0.2
+It is cold",0.2,0.602221
 You'd better still hold off on bathing.,"（朝倉）お風呂は まだ
 やめておいたほうがいいですよ","Bath is still
-You should stop it",0.14285714285714285
-"Also, I know I said this yesterday,",それと 昨日も言いましたけど―,I also said yesterday-,0.375
+You should stop it",0.14285714285714285,0.67586976
+"Also, I know I said this yesterday,",それと 昨日も言いましたけど―,I also said yesterday-,0.375,0.70503855
 "but if it hurts anywhere during the night, just call me.","夜のうちに
 どこか痛くなったら呼んでね","In the night
-Call me if it hurts somewhere",0.4666666666666667
-I'll come right over.,しみるだろうし,I will try,0.125
+Call me if it hurts somewhere",0.4666666666666667,0.74354833
+I'll come right over.,しみるだろうし,I will try,0.125,0.25068614
 Outside?,"（長門）外？
 （朝倉）あ…","outside?
- ...",0.6666666666666666
-Thank you. For your concern.,ありがとう　心配してくれて,Thank you for your concern,0.8333333333333334
+ ...",0.6666666666666666,0.86620796
+Thank you. For your concern.,ありがとう　心配してくれて,Thank you for your concern,0.8333333333333334,0.8559494
 It's only natural.,"いえ 何でもないです
 自重します","It is not anything
-I will",0.1
-There is one more thing.,あと もうひとつ,Another one more,0.2857142857142857
-Who are you?,あなた 誰ですか？,Who is you?,0.6
-"Next time: ""The Disappearance of Nagato Yuki-chan I""",（長門）次回…,Next time ...,0.16666666666666666
+I will",0.1,0.18618426
+There is one more thing.,あと もうひとつ,Another one more,0.2857142857142857,0.6078511
+Who are you?,あなた 誰ですか？,Who is you?,0.6,0.9664983
+"Next time: ""The Disappearance of Nagato Yuki-chan I""",（長門）次回…,Next time ...,0.16666666666666666,0.27347794

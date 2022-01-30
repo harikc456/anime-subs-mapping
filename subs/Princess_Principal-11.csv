@@ -1,317 +1,317 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 I am the General.,"（ジェネラル）ジェネラルだ
 以後 君らへの命令は 私が下す","General
-Setsu I will make you",0.2222222222222222
-Did something happen to L?,Ｌ(エル)に何かあったんですか？,What happened to L ?,0.375
+Setsu I will make you",0.2222222222222222,0.47903252
+Did something happen to L?,Ｌ(エル)に何かあったんですか？,What happened to L ?,0.375,0.89055127
 I would like you to move right on to your next assignment.,"君たちには
 早速 次の任務に就いてもらう","To you
-Get the next task immediately",0.1875
-Assignment... Sir?,（ドロシー）任務… ですか？,mission ... is it?,0.2857142857142857
-That's...,（ドロシー）これは…,This is ...,0.2
-You will assassinate Princess.,プリンセスを殺してもらう,Get the princess killed,0.125
+Get the next task immediately",0.1875,0.32455152
+Assignment... Sir?,（ドロシー）任務… ですか？,mission ... is it?,0.2857142857142857,0.14220649
+That's...,（ドロシー）これは…,This is ...,0.2,0.6752298
+You will assassinate Princess.,プリンセスを殺してもらう,Get the princess killed,0.125,0.7714435
 What is going on here?,"（ドロシー）
-一体 どういうことです？",What does it mean?,0.2222222222222222
-Why kill Princess now?,なぜ 今になってプリンセスを？,Why now is Princess?,0.6666666666666666
+一体 どういうことです？",What does it mean?,0.2222222222222222,0.3535766
+Why kill Princess now?,なぜ 今になってプリンセスを？,Why now is Princess?,0.6666666666666666,0.8455951
 But Princess is currently our ally.,"（ドロシー）現在のプリンセスは
 我々の仲間です","Current Princess
-Our fellow",0.2222222222222222
-There is no need to kill her.,殺す必要はありません,There is no need to kill,0.75
-She's a royal.,（大佐(たいさ)）所詮は王族だ,"After all, it is a royal family",0.18181818181818182
+Our fellow",0.2222222222222222,0.67639726
+There is no need to kill her.,殺す必要はありません,There is no need to kill,0.75,0.8136447
+She's a royal.,（大佐(たいさ)）所詮は王族だ,"After all, it is a royal family",0.18181818181818185,0.67146134
 We don't like taking risks.,"（ジェネラル）
-我々は リスクを好まない",We do not like risk,0.3333333333333333
-And we did not ask for your opinion!,そして 意見など求めてはおらん,And please seek for your opinion,0.36363636363636365
-I understand.,（アンジェ）了解しました,I understand,0.6666666666666666
+我々は リスクを好まない",We do not like risk,0.3333333333333333,0.8772902
+And we did not ask for your opinion!,そして 意見など求めてはおらん,And please seek for your opinion,0.3636363636363637,0.44651216
+I understand.,（アンジェ）了解しました,I understand,0.6666666666666666,0.8897039
 The mission: assassinate the princess.,"（アンジェ）
 任務 プリンセスの暗殺
 実行に移します","Mission Princess assassination
-Transfer to execution",0.2
+Transfer to execution",0.2,0.7543596
 About what?,"（アンジェ）
-なんのこと？",about what?,1.0
+なんのこと？",about what?,1.0,0.9999998
 Don't play dumb with me.,"（ドロシー）
-とぼけるな",Don't drop,0.25
-We're spies.,（アンジェ）私たちはスパイよ,We are spy,0.16666666666666666
-We just follow orders.,命令には従うだけ,Just follow the instructions,0.2857142857142857
-"Well, I don't want to kill her.",（ドロシー）私は 殺したくない,I do not want to kill,0.45454545454545453
-But we're human beings first!,でも スパイである前に人間だ,But it is a human being before it is a spy,0.15384615384615385
+とぼけるな",Don't drop,0.25,0.31950644
+We're spies.,（アンジェ）私たちはスパイよ,We are spy,0.16666666666666666,0.8444902
+We just follow orders.,命令には従うだけ,Just follow the instructions,0.2857142857142857,0.29072684
+"Well, I don't want to kill her.",（ドロシー）私は 殺したくない,I do not want to kill,0.4545454545454545,0.7278529
+But we're human beings first!,でも スパイである前に人間だ,But it is a human being before it is a spy,0.15384615384615385,0.44091895
 I'm not human.,"私は黒蜥蜴(くろとかげ)星人よ
 人間じゃないわ","I am a black 蜥 蜴  Alien
-I'm not a human being",0.3333333333333333
+I'm not a human being",0.3333333333333333,0.56534916
 Report.,"（イングウェイ）報告しろ
-（兵士）はっ",Report,0.5
+（兵士）はっ",Report,0.5,0.8768451
 "We have a roster of 42 men, all present.","（兵士）総員42名
 全員そろっております","total total number of members
-All all",0.14285714285714285
+All all",0.14285714285714285,0.47636873
 Tell them we've arrived in London.,"壁の部隊と連絡を取れ
 我々はロンドンに着いたと","Get in touch with the wall of the wall
-We arrived in London",0.2857142857142857
+We arrived in London",0.2857142857142857,0.6174729
 To a world without barriers!,"（兵士たち）
-隔てなき世界のために！",For the world without spacing!,0.3333333333333333
-You go on ahead.,先に行って,Go ahead,0.4
+隔てなき世界のために！",For the world without spacing!,0.3333333333333333,0.49329162
+You go on ahead.,先に行って,Go ahead,0.4,0.6810921
 I've been running her too long. She needs maintenance.,"随分と走らせたから
 メンテが必要だ","Because I ran a lot
-Maintenance is necessary",0.11764705882352941
-Dorothy.,（アンジェ）ドロシー,Dorothy,0.5
-Thank you.,ありがとう,Thank you,0.6666666666666666
-Who's there?,誰？,Who?,0.5
+Maintenance is necessary",0.1176470588235294,0.48467156
+Dorothy.,（アンジェ）ドロシー,Dorothy,0.5,0.969457
+Thank you.,ありがとう,Thank you,0.6666666666666666,0.7717476
+Who's there?,誰？,Who?,0.5,0.6075717
 You on the roof.,"（ゼルダ）屋根の上
 （アンジェ）あっ…","On the roof
- ...",0.5
+ ...",0.5,0.75191766
 "Ange le Carre, I'm a friend.","（ゼルダ）
-アンジェ･ル･カレ 私は味方だ",Angers Le Cale I'm an Ally,0.23076923076923078
-You won't need that gun.,銃は必要ない,No gun,0.125
-Miss Zelda?,（プリンセス）ゼルダさん？,Zelda?,0.6666666666666666
+アンジェ･ル･カレ 私は味方だ",Angers Le Cale I'm an Ally,0.2307692307692308,0.4934416
+You won't need that gun.,銃は必要ない,No gun,0.125,0.56163776
+Miss Zelda?,（プリンセス）ゼルダさん？,Zelda?,0.6666666666666666,0.8081993
 "Welcome back, Ange.","（プリンセス）
-おかえりなさい アンジェ",Welcome to Angers,0.14285714285714285
-Do you always come in through the window?,いつも窓から訪問を？,Always visit from the window?,0.36363636363636365
+おかえりなさい アンジェ",Welcome to Angers,0.14285714285714285,0.3795166
+Do you always come in through the window?,いつも窓から訪問を？,Always visit from the window?,0.3636363636363637,0.79873365
 I'm Zelda. Control sent me as Princess' bodyguard.,"プリンセスの護衛として
 コントロールから派遣された","As escort of princess
-Dispatched from control",0.2
-Then ask them.,なら 確認しておいて,Then check,0.2
-I start today.,今日付けよ,Today,0.25
+Dispatched from control",0.2,0.65491384
+Then ask them.,なら 確認しておいて,Then check,0.2,0.44852036
+I start today.,今日付けよ,Today,0.25,0.52512485
 I was just about to make some tea.,"今 ちょうど
 紅茶を入れるところだったのよ","Just now
-It was where I put tea",0.3076923076923077
-Is something wrong?,あ… どうかした？,Oh ... what did you do?,0.1
-"No, it's nothing.",ううん なんでもない,Nothing,0.16666666666666666
+It was where I put tea",0.3076923076923077,0.6738686
+Is something wrong?,あ… どうかした？,Oh ... what did you do?,0.1,0.08450397
+"No, it's nothing.",ううん なんでもない,Nothing,0.16666666666666666,0.5252374
 "From now on, our team will be \Nmade up of eight agents, including Princess.","（ゼルダ）
 これから プリンセスを含め
 工作員は８人体制になる","From now on, including Princess
-Machine will be 8 people",0.42105263157894735
-We're reorganizing the Operation: Changeling team.,チェンジリング作戦は要員を再編,Change strategy reorganized personnel,0.0
-I have been appointed its new commander.,新しい指揮官に 私が任命された,I was appointed to a new commander,0.36363636363636365
-Commander?,指揮官？,Commander?,1.0
-What about Dorothy?,ドロシーは？,What is Dorothy?,0.6
+Machine will be 8 people",0.42105263157894735,0.60987335
+We're reorganizing the Operation: Changeling team.,チェンジリング作戦は要員を再編,Change strategy reorganized personnel,0.0,0.611558
+I have been appointed its new commander.,新しい指揮官に 私が任命された,I was appointed to a new commander,0.3636363636363637,0.90315676
+Commander?,指揮官？,Commander?,1.0,1.0000001
+What about Dorothy?,ドロシーは？,What is Dorothy?,0.6,0.88012147
 "When this place is finished, the Queen herself will come see it.","（労働者Ａ）ここが完成したら
 女王陛下が来るんだと","When this is completed
-If the Queen is coming",0.29411764705882354
+If the Queen is coming",0.29411764705882354,0.76100934
 Ain't that something.,"（労働者Ｂ）
-へえ〜 そりゃ結構なこった",Hey ~ That's fine,0.1111111111111111
+へえ〜 そりゃ結構なこった",Hey ~ That's fine,0.1111111111111111,0.17910178
 There are agents here that they haven't told me about.,"（アンジェ）
-教えてもらってない工作員がいる",There is a worker who does not tell me,0.10526315789473684
-Ange!,（プリンセス）アンジェ！,Angers!,0.3333333333333333
-Out for a stroll?,（プリンセス）あ…,A ...,0.16666666666666666
-"Actually, the housemother wanted to see me.",実は 寮母先生に呼ばれてまして,"Actually, I was called by the dormitory teacher",0.2
-Excuse me.,すみません,excuse me,0.6666666666666666
+教えてもらってない工作員がいる",There is a worker who does not tell me,0.10526315789473684,0.4111447
+Ange!,（プリンセス）アンジェ！,Angers!,0.3333333333333333,0.49451724
+Out for a stroll?,（プリンセス）あ…,A ...,0.16666666666666666,0.18440606
+"Actually, the housemother wanted to see me.",実は 寮母先生に呼ばれてまして,"Actually, I was called by the dormitory teacher",0.2,0.3298485
+Excuse me.,すみません,excuse me,0.6666666666666666,0.886353
 Her guards include the \NDuke of Normandy's people and a Commonwealth spy.,"（アンジェ）護衛は
 ノルマンディー公の部下のほかに","escort
-Besides Normandy's subordinates",0.11764705882352941
+Besides Normandy's subordinates",0.1176470588235294,0.5790312
 "This is going to be troublesome, isn't it?","（リリ）
-お優しいのですね プリンセスは",It is kind to be kind Princess,0.3333333333333333
-Kind?,優しい？,kind?,1.0
-I finally figured it out.,わたくし やっと気付きましたの,I finally realized,0.2857142857142857
-Because that is your royal duty.,それが王族の責務ですものね,That is the royal responsibility,0.3333333333333333
+お優しいのですね プリンセスは",It is kind to be kind Princess,0.3333333333333333,0.06653614
+Kind?,優しい？,kind?,1.0,0.9999999
+I finally figured it out.,わたくし やっと気付きましたの,I finally realized,0.2857142857142857,0.6020905
+Because that is your royal duty.,それが王族の責務ですものね,That is the royal responsibility,0.3333333333333333,0.6509982
 Winter has been especially cold this year.,"（ベアトリス）
-今年の冬は一段と寒いですね",This winter is still cold,0.3
-"Yes, it has.",そうね,It looks like,0.14285714285714285
-The ice on the pond has already...,池の氷も すっかり…,Ice in the pond is completely ...,0.4
-Be careful not to touch items you don't recognize.,覚えがない物は触らぬように,Do not remember to touch,0.3333333333333333
-Do you think it's a joke?,イタズラでしょうか？,Is it a mischief?,0.3
-So it's too dangerous to risk contacting her.,下手に連絡を取るのは危険か,Is it dangerous to get in touch with it?,0.1875
-And yet here you are.,でも ここへ来た,But I came here,0.1111111111111111
-What happened to L?,Ｌは どうしたの？,What happened to L?,1.0
-There were changes at the top.,（７）トップが変わったのよ,The top has changed,0.2222222222222222
+今年の冬は一段と寒いですね",This winter is still cold,0.3,0.74858147
+"Yes, it has.",そうね,It looks like,0.14285714285714285,0.31310683
+The ice on the pond has already...,池の氷も すっかり…,Ice in the pond is completely ...,0.4,0.8214645
+Be careful not to touch items you don't recognize.,覚えがない物は触らぬように,Do not remember to touch,0.3333333333333333,0.5770419
+Do you think it's a joke?,イタズラでしょうか？,Is it a mischief?,0.3,0.25239062
+So it's too dangerous to risk contacting her.,下手に連絡を取るのは危険か,Is it dangerous to get in touch with it?,0.1875,0.6313991
+And yet here you are.,でも ここへ来た,But I came here,0.1111111111111111,0.56768364
+What happened to L?,Ｌは どうしたの？,What happened to L?,1.0,0.99999994
+There were changes at the top.,（７）トップが変わったのよ,The top has changed,0.2222222222222222,0.77059627
 We're led by the military now.,"これからは軍部主導になる
 それだけよ","From now on the military led
-It",0.36363636363636365
-So there's been a shakeup.,（アンジェ）更迭されたのね,I was back,0.0
-Stay loyal to the mission.,職務に忠実でいなさい,Faithful to duties,0.125
-If you want to survive.,生き残りたければね,If you survive,0.5
-Chise.,（アンジェ）ちせ,Chim,0.0
+It",0.3636363636363637,0.71149445
+So there's been a shakeup.,（アンジェ）更迭されたのね,I was back,0.0,0.10452345
+Stay loyal to the mission.,職務に忠実でいなさい,Faithful to duties,0.125,0.4780313
+If you want to survive.,生き残りたければね,If you survive,0.5,0.8195046
+Chise.,（アンジェ）ちせ,Chim,0.0,0.77171546
 What are you doing?,"おぬし 何か
 困っていることはないか？","What's wrong
-Are you in trouble?",0.4444444444444444
-I've been assigned to a different school.,（ちせ）転校することになった,I was going to transfer,0.16666666666666666
+Are you in trouble?",0.4444444444444444,0.32986534
+I've been assigned to a different school.,（ちせ）転校することになった,I was going to transfer,0.16666666666666666,0.3008714
 "Our time together was short, but I thank you for all you've done.","短い間ではあったが
 世話になったな","It was short while
-I was taken care of",0.15
-Is there something troubling you?,それは？,that is?,0.2857142857142857
+I was taken care of",0.15,0.39705604
+Is there something troubling you?,それは？,that is?,0.2857142857142857,0.1619745
 "In my country, \Nwe believe that a debt of hospitality must be repaid.","私の国には
 一宿一飯の恩という言葉がある","In my country
-There is a word of the deed",0.25
-"No, I'm fine.",別にないわ,I'm not separately,0.25
-How is Seven doing?,（ゼルダ）７は元気だったか？,7 was fine?,0.125
+There is a word of the deed",0.25,0.27354553
+"No, I'm fine.",別にないわ,I'm not separately,0.25,0.35133448
+How is Seven doing?,（ゼルダ）７は元気だったか？,7 was fine?,0.125,0.4989554
 "The plan is to take her outside the school to dispose of her, but...","学校の外に連れ出してから
 処理することになるが","After taking out the school outside the school
-It will be processed",0.15
-I'll do it.,（アンジェ）私がやる,I will do,0.3333333333333333
+It will be processed",0.15,0.44792366
+I'll do it.,（アンジェ）私がやる,I will do,0.3333333333333333,0.63916665
 Operation: Changeling was my idea.,"チェンジリング作戦のアイデアは
 私が提案した","The idea of the changeling operation
-I suggested",0.2727272727272727
-I will kill Princess.,私がプリンセスを殺す,I kill Princess,0.6
+I suggested",0.2727272727272727,0.8227618
+I will kill Princess.,私がプリンセスを殺す,I kill Princess,0.6,0.9064911
 Construction will be complete by this weekend.,"（ノルマンディー公）
-今週末には強化工事も完了します",This weekend will also complete reinforcement work,0.36363636363636365
+今週末には強化工事も完了します",This weekend will also complete reinforcement work,0.3636363636363637,0.62580866
 "In honor of the new royal temple's dedication, \Nwe will be holding a service to pray for our nation's victory.","陛下には
 この新王室寺院の献納を祝う","For your Majesty
-Celebrate the deduction of this new royal family temple",0.20689655172413793
+Celebrate the deduction of this new royal family temple",0.20689655172413796,0.46121454
 The lords and ambassadors in attendance\Nwould be honored to hear a few words from...,"（ノルマンディー公）
 当日は参列する諸侯
 および 各国大使に","Allocations to attend on the day
-And to the ambassador of each country",0.13043478260869565
-What?,首謀者は？,What is a commitee?,0.4
-I've received intel that part of\N the army began gathering in London last night.,昨晩から ロンドン市内に,London city from last night,0.16666666666666666
-We haven't identified one.,特定できておりません,Not identified,0.14285714285714285
+And to the ambassador of each country",0.13043478260869565,0.46946973
+What?,首謀者は？,What is a commitee?,0.4,0.026440304
+I've received intel that part of\N the army began gathering in London last night.,昨晩から ロンドン市内に,London city from last night,0.16666666666666666,0.34487236
+We haven't identified one.,特定できておりません,Not identified,0.14285714285714285,0.6879704
 Call back the Home Office forces stationed in Rouen.,"ルーアンに派遣した
 内務省軍を呼び戻せ","Dispatched to Rouen
-Call back the Formar Ministry",0.2857142857142857
+Call back the Formar Ministry",0.2857142857142857,0.65405047
 And be discreet about it.,"ただ 海外植民地出身の兵士が
 中心と思われます","However, soldiers from overseas colonial
-It seems to be the center",0.125
-I will decide whether or not to tell her.,伝えるかどうか 決めるのは私だ,It is me to decide whether to tell,0.3076923076923077
+It seems to be the center",0.125,0.04734009
+I will decide whether or not to tell her.,伝えるかどうか 決めるのは私だ,It is me to decide whether to tell,0.3076923076923077,0.65409195
 "Princess, you remember, don't you?","（アンジェ）プリンセス
 あなたも覚えているでしょう","Princess
-You will also remember",0.3333333333333333
-The day we first met.,私たちが初めて会った日のこと,The day we met for the first time,0.625
+You will also remember",0.3333333333333333,0.70300096
+The day we first met.,私たちが初めて会った日のこと,The day we met for the first time,0.625,0.93960977
 I never told you where I was trying to go.,"あのとき 私が
 どこへ行こうとしていたのか","At that time I
-Where were you going to go",0.3333333333333333
+Where were you going to go",0.3333333333333333,0.5325045
 I had heard there was a dry well in a corner of the gardens.,"庭の片隅に
 枯れ井戸があるって聞いて","In the corner of the garden
-I heard that there is a dead well",0.5
-And I was planning to disappear forever.,私 消えてなくなるつもりだった,I was going to disappear,0.4444444444444444
-Then I met you.,あなたに会えた,I met you,0.6
-"The revolution came, and I lost everything.",革命が起きて 全てを失ったけど,The revolution has occurred and all lost everything,0.4166666666666667
-But I didn't give up on living.,私は 生きるのをやめなかったわ,I did not stop living,0.2727272727272727
-I wanted to see you again.,あなたに もう一度会いたい,I want to meet you again,0.4444444444444444
-I wanted to apologize to you.,そして あなたに謝りたかった,And I wanted to apologize for you,0.625
-But...,でも…,but…,0.0
+I heard that there is a dead well",0.5,0.74757373
+And I was planning to disappear forever.,私 消えてなくなるつもりだった,I was going to disappear,0.4444444444444444,0.80256647
+Then I met you.,あなたに会えた,I met you,0.6,0.72248715
+"The revolution came, and I lost everything.",革命が起きて 全てを失ったけど,The revolution has occurred and all lost everything,0.4166666666666667,0.8588829
+But I didn't give up on living.,私は 生きるのをやめなかったわ,I did not stop living,0.2727272727272727,0.736567
+I wanted to see you again.,あなたに もう一度会いたい,I want to meet you again,0.4444444444444444,0.72676486
+I wanted to apologize to you.,そして あなたに謝りたかった,And I wanted to apologize for you,0.625,0.8929985
+But...,でも…,but…,0.0,0.7736734
 I told you.,"また 私のわがままに
 あなたを巻き込んでしまった","Also my self
-I caught you",0.25
+I caught you",0.25,0.30205548
 I want your help to make me Queen.,"あなたの力で
 私を女王にしてほしいの","With your power
-I want you to make me a queen",0.5384615384615384
-And I'm sorry.,だけど ごめん,I'm sorry,0.6
+I want you to make me a queen",0.5384615384615384,0.78749233
+And I'm sorry.,だけど ごめん,I'm sorry,0.6,0.70563966
 ...I can't protect you.,"今度ばかりは
 あなたを守りきれない","Now just
-I can not protect you",0.2727272727272727
+I can not protect you",0.2727272727272727,0.7198421
 "Going shopping, just the two of us.","（プリンセス）初めてじゃない？
 ２人だけでお買い物なんて","is not the first time?
-Only two people shopping",0.1875
+Only two people shopping",0.1875,0.55169314
 Yeah.,"（プリンセス）すごい人ね
 （アンジェ）ええ","A great man
- Yeah",0.2
-Yes.,ええ,Yes,0.5
-"Look, look!",あっ アンジェ！　見て 見て！,Angel! Look look!,0.5
-"Come on, Ange! Hurry!",アンジェ！　早く 早く！,"Angel! hurry, hurry!",0.42857142857142855
-Of course they don't.,（アンジェ）監視を隠さない,Do not hide monitoring,0.1111111111111111
+ Yeah",0.2,0.30495694
+Yes.,ええ,Yes,0.5,0.83685565
+"Look, look!",あっ アンジェ！　見て 見て！,Angel! Look look!,0.5,0.72455364
+"Come on, Ange! Hurry!",アンジェ！　早く 早く！,"Angel! hurry, hurry!",0.42857142857142855,0.6175403
+Of course they don't.,（アンジェ）監視を隠さない,Do not hide monitoring,0.1111111111111111,-0.011766035
 "What's the matter, Ange?","（プリンセス）
-どうしたの？　アンジェ",What's wrong?Angee,0.3333333333333333
-You're not having fun.,楽しくなさそう,It looks fun,0.125
+どうしたの？　アンジェ",What's wrong?Angee,0.3333333333333333,0.67112195
+You're not having fun.,楽しくなさそう,It looks fun,0.125,0.3602372
 "Oh, no, I am.","（アンジェ）
-ううん そんなことない",No such thing,0.125
-Really? I couldn't tell by looking at you.,（部下Ａ）よろしいのですか？,Are you sure?,0.15384615384615385
+ううん そんなことない",No such thing,0.125,0.10766203
+Really? I couldn't tell by looking at you.,（部下Ａ）よろしいのですか？,Are you sure?,0.15384615384615385,0.35725078
 Is this a good idea?,"（プリンセス）そう？
 それにしては浮かない顔だけど","so?
-It is a face that does not float",0.23076923076923078
+It is a face that does not float",0.2307692307692308,0.033612017
 Leaving the princess' assassination to A.,"プリンセスの暗殺を
 Ａに任せてしまって","Assassination of Princess
-I leave it to A",0.3333333333333333
-If she tries to pull anything funny...,もし 妙な動きをするようなら…,If you want to move strangely ...,0.25
-So Princess.,（アンジェ）ねえ プリンセス,Hey Princess,0.25
+I leave it to A",0.3333333333333333,0.8841196
+If she tries to pull anything funny...,もし 妙な動きをするようなら…,If you want to move strangely ...,0.25,0.304897
+So Princess.,（アンジェ）ねえ プリンセス,Hey Princess,0.25,0.6379698
 "There's somewhere I have to take you, just the two of us.","どうしても２人だけで
 行きたい所があるの","Only two people
-There is a place to go",0.14285714285714285
-Let's ditch the security.,護衛をまいちゃおうよ,Let's escort,0.2857142857142857
-Mhm!,うん！,Yes!,0.3333333333333333
-How do I look?,昔 ２人でやったみたいに,I wanted to do it alone,0.2222222222222222
-She got away!,（部下Ｂ）逃げたわ！,I ran away!,0.3333333333333333
-Where do you think you're going?,どういうこと？,What do you mean?,0.3333333333333333
-Stop!,待て！,wait!,0.3333333333333333
-Let's go!,行こう,let's go,0.75
-Yeah!,アンジェ！,Angel!,0.3333333333333333
-It's like old times!,（部下）こっちだ！,It's here!,0.42857142857142855
+There is a place to go",0.14285714285714285,0.35763255
+Let's ditch the security.,護衛をまいちゃおうよ,Let's escort,0.2857142857142857,0.33194947
+Mhm!,うん！,Yes!,0.3333333333333333,0.41945416
+How do I look?,昔 ２人でやったみたいに,I wanted to do it alone,0.2222222222222222,0.117071256
+She got away!,（部下Ｂ）逃げたわ！,I ran away!,0.3333333333333333,0.6811755
+Where do you think you're going?,どういうこと？,What do you mean?,0.3333333333333333,0.15859784
+Stop!,待て！,wait!,0.3333333333333333,0.5875191
+Let's go!,行こう,let's go,0.75,0.881185
+Yeah!,アンジェ！,Angel!,0.3333333333333333,0.448227
+It's like old times!,（部下）こっちだ！,It's here!,0.42857142857142855,0.2169111
 Just like when we would tease Mrs. Crawford!,"クロフォード夫人を
 からかったときみたい","Mrs. Crawford
-It looks like it was",0.25
-"We were running then, too.",あのときも 私たち走ってた,At that time I was running,0.08333333333333333
+It looks like it was",0.25,0.52799976
+"We were running then, too.",あのときも 私たち走ってた,At that time I was running,0.08333333333333333,0.6103059
 "The passenger airship, the Good Hope.","（アンジェ）
-飛行客船グッドホープ",Flight vessel Good Hope,0.2222222222222222
-What do you mean?,カサブランカ？　どういうこと？,Casablanca? What do you mean?,0.8333333333333334
+飛行客船グッドホープ",Flight vessel Good Hope,0.2222222222222222,0.6478594
+What do you mean?,カサブランカ？　どういうこと？,Casablanca? What do you mean?,0.8333333333333334,0.1278772
 "There's a white house there, waiting for us.","２人で逃げるための
 白い家を用意したって","To run away with two people
-I have prepared a white house",0.15789473684210525
-Just what happened?,一体 何があったの？,What happened?,0.75
-Assassinate?,チェンジリング作戦の？,Czenging operation?,0.25
-For Operation: Changeling? But that was...,でも それは…,But that is ...,0.3
-There've been changes at the top.,（アンジェ）トップが変わったの,Top changed,0.1111111111111111
+I have prepared a white house",0.15789473684210525,0.54072624
+Just what happened?,一体 何があったの？,What happened?,0.75,0.74656314
+Assassinate?,チェンジリング作戦の？,Czenging operation?,0.25,0.1123607
+For Operation: Changeling? But that was...,でも それは…,But that is ...,0.3,0.14732945
+There've been changes at the top.,（アンジェ）トップが変わったの,Top changed,0.1111111111111111,0.6735762
 "I tried to get around it somehow, but I've run out of options.","なんとか回避しようとしたけど
 もう打つ手がなかった","I tried to avoid it somehow
-There was no hand to hit",0.23809523809523808
+There was no hand to hit",0.2380952380952381,0.2922131
 What about Miss Dorothy and Miss Chise?,"（プリンセス）
-ドロシーさんや ちせさんは？",Dorothy and her girlfriend?,0.3333333333333333
+ドロシーさんや ちせさんは？",Dorothy and her girlfriend?,0.3333333333333333,0.6610933
 They've both been removed from the team.,"（アンジェ）
-２人とも 既にチームから外れた",The two were already out of the team,0.14285714285714285
-No.,（プリンセス）ダメ,No,0.5
+２人とも 既にチームから外れた",The two were already out of the team,0.14285714285714285,0.6509021
+No.,（プリンセス）ダメ,No,0.5,0.8128344
 I still have things to do in this country.,"私は まだ この国で
 やるべきことがある","I'm still in this country
-I have something to do",0.6666666666666666
-I'm going to get rid of the Wall.,言ったはずよ　私は壁をなくすって,"Should I say, I miss the wall",0.21428571428571427
-Princess...,プリンセス,Princess,0.5
+I have something to do",0.6666666666666666,0.83823645
+I'm going to get rid of the Wall.,言ったはずよ　私は壁をなくすって,"Should I say, I miss the wall",0.21428571428571427,0.62042826
+Princess...,プリンセス,Princess,0.5,0.74913836
 There are still so many people here\Nwho have been torn away from each other!,"この国には引き裂かれた人たちが
 まだ大勢いる","People who were torn in this country
-There are still many",0.3
-"As long as I am the princess, I can't run away!",私がプリンセスでいるかぎり,As long as I am a princess,0.38461538461538464
+There are still many",0.3,0.5957165
+"As long as I am the princess, I can't run away!",私がプリンセスでいるかぎり,As long as I am a princess,0.38461538461538464,0.74710613
 "I swore I would create the world \Nyou wanted to see, with my own hands.","あなたが望んだ世界を
 この手で実現しようって","The world you want
-Let's realize this hand",0.08695652173913043
-"So please, Charlotte.",だから お願い シャーロット,So please buy Charlotte,0.5
+Let's realize this hand",0.08695652173913042,0.5405982
+"So please, Charlotte.",だから お願い シャーロット,So please buy Charlotte,0.5,0.7276223
 There must still be something I can do!,"まだ私にも
 できることがあるはずよ！","Still for me
-You should be able to do it!",0.25
+You should be able to do it!",0.25,0.41878077
 My life is not yours to play with!,"私の人生は
 あなたのおもちゃじゃない！","My life is
-Not your own!",0.45454545454545453
-Princess?!,あっ プリンセス！,Oh princess!,0.5
-Wait!,待って！,hang on!,0.25
-"Princess, open the door!",プリンセス！　開けて！,Princess!  Open!,0.5
+Not your own!",0.4545454545454545,0.77449274
+Princess?!,あっ プリンセス！,Oh princess!,0.5,0.6655096
+Wait!,待って！,hang on!,0.25,0.34677106
+"Princess, open the door!",プリンセス！　開けて！,Princess!  Open!,0.5,0.71415776
 "If Operation: Changeling means that one of us has to disappear,","チェンジリング作戦で どちらかが
 消えなきゃいけないのなら","Rockling operation either
-If you have to disappear",0.23529411764705882
-then you can disappear without me.,あなたが１人で消えてちょうだい,You disappear with one person,0.2
+If you have to disappear",0.2352941176470588,0.44868535
+then you can disappear without me.,あなたが１人で消えてちょうだい,You disappear with one person,0.2,0.6874076
 I was always cleaning up your mess.,"トラブルを起こすのは
 いつもあなただった","What happens to trouble
-I was always you",0.23076923076923078
+I was always you",0.2307692307692308,0.39573807
 "From the day we met,","初めて会ったときから
 大っ嫌いだった","From when I first met
-I was very dislike",0.16666666666666666
-"Goodbye, Ange.",さよなら アンジェ,Goodbye Angee,0.2
-Never let me see you again.,二度と姿を見せないで,Don't show it again,0.09090909090909091
-which is why I have called you back.,故あって お前を呼び戻したのだ,Because I got back to you,0.25
+I was very dislike",0.16666666666666666,0.45329392
+"Goodbye, Ange.",さよなら アンジェ,Goodbye Angee,0.2,0.8726465
+Never let me see you again.,二度と姿を見せないで,Don't show it again,0.09090909090909093,0.48960137
+which is why I have called you back.,故あって お前を呼び戻したのだ,Because I got back to you,0.25,0.5998202
 "You are aware that the majority\N of the Royal Army hail from the colonies, yes?","その多くが海外植民地の出身なのは
 知っているな？","Many of them are from overseas colony
-Do you know?",0.23809523809523808
-Something about a deployment\N of colonial soldiers against the Commonwealth.,その植民地兵の一部,Part of the colonial army,0.23076923076923078
+Do you know?",0.2380952380952381,0.49597827
+Something about a deployment\N of colonial soldiers against the Commonwealth.,その植民地兵の一部,Part of the colonial army,0.2307692307692308,0.6351571
 There has been some unrest among a faction of\Ncolonial soldiers who are unhappy with the Kingdom.,"王国に不満を持つ者たちの間に
 不穏な動きがあるらしい","Between those who are dissatisfied with the kingdom
-It seems that there is a disturbing movement",0.2692307692307692
+It seems that there is a disturbing movement",0.2692307692307692,0.6895735
 And that is why you summoned me back here?,"それが
 私を呼び戻した理由ですか？","that is
-Why I recalled me?",0.4166666666666667
+Why I recalled me?",0.4166666666666667,0.38464585
 "If the information is accurate,","情報が確かなら
 その中心に お前の友人がいる","If the information is certain
-Her friend in the center",0.36363636363636365
+Her friend in the center",0.3636363636363637,0.470445
 We have split into four teams to search the airport.,"現在 ４班に分けて
 空港内を捜索中です","Currently divided into 4 groups
-We are searching for airport",0.16666666666666666
+We are searching for airport",0.16666666666666666,0.80593383
 We had a tip that they escaped into the airport lounge.,"（部下Ｃ）空港ラウンジに
 逃げ込んだとの情報が","In the airport lounge
-Information that I flew",0.25
-An... ge?,アン… ジェ？,An ... Je?,0.6
-What exactly did you think you were doing?,あれは一体 なんのまねだ？,What is that one?,0.18181818181818182
-Trying to gain the princess' trust.,プリンセスの信頼を得るためよ,To get the trust of Princess,0.4
+Information that I flew",0.25,0.4957287
+An... ge?,アン… ジェ？,An ... Je?,0.6,0.5712285
+What exactly did you think you were doing?,あれは一体 なんのまねだ？,What is that one?,0.18181818181818185,0.04775623
+Trying to gain the princess' trust.,プリンセスの信頼を得るためよ,To get the trust of Princess,0.4,0.9111431
 She believed I was on her side to her very last breath.,"彼女 最後まで
 私が味方だと思ったまま 死んだわ","Her end
-I died while I thought it was an ally",0.15789473684210525
-Really.,そう,Yes,0.0
+I died while I thought it was an ally",0.15789473684210525,0.5308666
+Really.,そう,Yes,0.0,0.27602527
 I have arrived.,"（イングウェイ）
-ただいま到着しました",I arrived now,0.4
-I understand there was some commotion downstairs?,下で騒ぎがあったようですが,It seems that there was a noise under,0.14285714285714285
-"Zelda, is...",ゼルダ殿 もしや そのお方が…,"Zelda, who is ...",0.8
+ただいま到着しました",I arrived now,0.4,0.7676809
+I understand there was some commotion downstairs?,下で騒ぎがあったようですが,It seems that there was a noise under,0.14285714285714285,0.5485339
+"Zelda, is...",ゼルダ殿 もしや そのお方が…,"Zelda, who is ...",0.8,0.8778941
 This is Princess Charlotte.,"こちらが
 プリンセス･シャーロットだ","This is
-Princess Charlotte",0.8
-He laments the state of this country just as we do.,我々は これより,We are more than this,0.13333333333333333
+Princess Charlotte",0.8,0.99206835
+He laments the state of this country just as we do.,我々は これより,We are more than this,0.13333333333333333,0.15806504
 And we would like to make you our new sovereign.,"あなた様に 新しい女王に
 なっていただきたいのです","To the new queen to you
-I would like you to be",0.3333333333333333
-We're going to war.,戦争が始まるのよ,War starts,0.14285714285714285
+I would like you to be",0.3333333333333333,0.5210787
+We're going to war.,戦争が始まるのよ,War starts,0.14285714285714285,0.6203018

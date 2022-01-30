@@ -1,214 +1,214 @@
-en_text,jp_text,google_translated,score
-MARMALADE BOY,♪～,♪ ~,0.0
-What about Na-chan?,（光希(みき)）な… なっちゃんは？,) ... What is Nacchan?,0.25
-"I called after him, but...",（茗子(めいこ)）行っちゃった…,I went ...,0.25
-I can't find the words to comfort her.,慰める言葉なんて見つからないよ,I can not find a word comforting,0.13333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+MARMALADE BOY,♪～,♪ ~,0.0,0.119944766
+What about Na-chan?,（光希(みき)）な… なっちゃんは？,) ... What is Nacchan?,0.25,0.4412362
+"I called after him, but...",（茗子(めいこ)）行っちゃった…,I went ...,0.25,0.34478396
+I can't find the words to comfort her.,慰める言葉なんて見つからないよ,I can not find a word comforting,0.13333333333333333,0.6511822
 """YOU CAN'T HAVE IT THE WAY YOU WANTED.""","“待って”って叫んでも
 見向きもしてくれなかった","""Waiting for""
-I did not look at it",0.16666666666666666
+I did not look at it",0.16666666666666666,0.13770896
 We'll be late.,"（要士(ようじ)）遅れるぞ！
 （留美･千弥子）は～い！",") I'll be late!
- is ~!",0.3
-Right!,（両親たち）いってきま～す！,I will come!,0.2
-Are you thinking about Meiko?,（遊(ゆう)）秋月(あきづき)のことか？,) Is Akizuki Akizuki?,0.1111111111111111
-She's not suspended anymore...,遊…,Yu ...,0.14285714285714285
+ is ~!",0.3,0.51476514
+Right!,（両親たち）いってきま～す！,I will come!,0.2,0.20819119
+Are you thinking about Meiko?,（遊(ゆう)）秋月(あきづき)のことか？,) Is Akizuki Akizuki?,0.1111111111111111,0.4493753
+She's not suspended anymore...,遊…,Yu ...,0.14285714285714285,0.19457898
 ...so she should be at school today.,"謹慎が解けて
 今日から来るはずだけど","Solvokes
-I should come from today",0.15384615384615385
-But I don't know how I should comfort her.,会ったら 何て慰めればいいのか…,What should I do if you meet ...,0.2
+I should come from today",0.15384615384615385,0.24912319
+But I don't know how I should comfort her.,会ったら 何て慰めればいいのか…,What should I do if you meet ...,0.2,0.21601582
 Just treat her the same.\NThat's the best comfort.,"いつもの光希で接してやれよ
 それが いちばんさ","Let's get in touch with the usual light
-It is the best",0.16666666666666666
-Wait!,ああっ 待って！,Wait!,1.0
+It is the best",0.16666666666666666,0.10164407
+Wait!,ああっ 待って！,Wait!,1.0,0.99999994
 I wonder if Meiko will come to school.,"茗子 来るかな…
 （遊）来るさ あいつは","I wonder if it will come ...
- That guys are coming",0.3333333333333333
-Meiko.,茗子…,茗 ...,0.0
+ That guys are coming",0.3333333333333333,0.33427674
+Meiko.,茗子…,茗 ...,0.0,0.22248943
 Miki!,"（突き飛ばす音）
-ウワッ！",Uwa!,0.3333333333333333
-Good morning!,おはよう！,good morning!,1.0
-I'm sorry for worrying all of you.,みんな 心配かけて ごめんね,Sorry for everyone to worry,0.16666666666666666
-There! That girl.,（光希たち）ツ～ン！,Tsu-N!,0.16666666666666666
+ウワッ！",Uwa!,0.3333333333333333,0.4723101
+Good morning!,おはよう！,good morning!,1.0,1.0
+I'm sorry for worrying all of you.,みんな 心配かけて ごめんね,Sorry for everyone to worry,0.16666666666666666,0.72424406
+There! That girl.,（光希たち）ツ～ン！,Tsu-N!,0.16666666666666666,0.17031878
 "Oh, that girl and Mr. Namura...","（生徒）
-ああ あの子が名村(なむら)先生と…",Oh that child is a teacher  teacher ...,0.25
+ああ あの子が名村(なむら)先生と…",Oh that child is a teacher  teacher ...,0.25,0.31277883
 You don't have to worry so much.\NI really am okay.,"そんなに
 気を遣わなくてもいいわよ みんな","so much
-I don't have to worry about everyone",0.375
-That's a pocket calculator?,ええっ？ それ電卓？,Eh yeah?That calculator?,0.375
-"It tells fortunes and plays games, too.",なによ あれ,It is,0.1
+I don't have to worry about everyone",0.375,0.64110786
+That's a pocket calculator?,ええっ？ それ電卓？,Eh yeah?That calculator?,0.375,0.7662796
+"It tells fortunes and plays games, too.",なによ あれ,It is,0.1,0.18387574
 "When you press this,\Nit tells fortunes...","こうやると占いで
 こうやるとゲーム","If you do this,
-This game",0.25
+This game",0.25,0.20303261
 I'm going to try it.,"（千草(ちぐさ)）ああ ホントだ
 （光希）やってみるね",") Oh honost
- I will try",0.18181818181818182
+ I will try",0.18181818181818185,0.38722724
 Meiko?,"茗子？
 （茗子）えっ？ あっ…","Is it?
-?Ah…",0.2
+?Ah…",0.2,0.17607954
 "No, that's okay.\NExcuse me for a minute.","ううん いいよ
 ちょっと ごめんね","Umm
-Sorry for a while",0.15384615384615385
+Sorry for a while",0.15384615384615385,0.48326135
 You still aren't running fast enough!,"（銀太）ハハハッ…
 まだ走り込みが足りないぞ！","Hahaha ...
-I'm not running yet!",0.14285714285714285
+I'm not running yet!",0.14285714285714285,0.5886973
 It's going well.\NMeiko seems happier than I expected.,"良かったな　思ったより
 元気そうじゃないか 茗子","It was good than I thought
-I'm not fine",0.1875
+I'm not fine",0.1875,0.3452356
 "Yes, but I think she's still forcing it a bit.","うん
 でも まだムリしてるんだと思う","Yes
-But I think she still muri",0.42857142857142855
+But I think she still muri",0.42857142857142855,0.4288773
 ...to try this hard because she has you.,"お前がいるからこそ 茗子も
 ああやって頑張れるんだと思うんだ","Because you are there
-I think I'm going hard",0.1875
-That isn't...,そうだな　けどさ…,That's right ...,0.3333333333333333
+I think I'm going hard",0.1875,0.29642957
+That isn't...,そうだな　けどさ…,That's right ...,0.3333333333333333,0.51309466
 Idiot! You've been best friends...,"バカ！ 中１から
 ずっと親友やってんだろう？","fool!From 1
-Did you always do your best friend?",0.17647058823529413
+Did you always do your best friend?",0.17647058823529413,0.59351695
 "Right now,\Nyou're Meiko's only support.","今 秋月を支えてやれるのは
 お前しかいないんだぞ","What you can support Akizuki now
-I have only you",0.1875
+I have only you",0.1875,0.5662329
 "With Yuu's help,\NI was able to try hard with Meiko.","遊がいたから
 私も茗子と一緒に頑張れたんだ","Because there was a play
-I also worked hard with my child",0.13636363636363635
+I also worked hard with my child",0.13636363636363635,0.17516534
 "I've got it! This Sunday,\Nlet's go somewhere with Meiko...","そうだ！
 今度の日曜日にさ 茗子を誘って","That's it!
-Invite the Sunday next Sunday",0.21052631578947367
+Invite the Sunday next Sunday",0.21052631578947367,0.37574574
 - Great idea!\N- Isn't it?,"うん それ いい！
 （銀太）だろう？","Yeah it's good!
-?",0.25
+?",0.25,0.2535911
 On the way home...,"帰りに お店に寄って
 遊にも話してみよう","Coping to the shop on the way back
-Let's talk to play",0.23076923076923078
-Oh.,あ… ああ…,Oh ... ah ...,0.25
-I'm here!,絶対に渡さないから！,Because I will never pass!,0.25
-Hi!,遊！,Yu!,0.3333333333333333
-Good afternoon.,こんにちは…,Hello…,0.0
+Let's talk to play",0.2307692307692308,0.2650572
+Oh.,あ… ああ…,Oh ... ah ...,0.25,0.5539556
+I'm here!,絶対に渡さないから！,Because I will never pass!,0.25,0.19432145
+Hi!,遊！,Yu!,0.3333333333333333,0.39081472
+Good afternoon.,こんにちは…,Hello…,0.0,0.44667113
 It's unusual for you to come here.,"珍しいじゃん 須王(すおう)
 お前がここに来るなんて","Unusual Susuma Suko 
-You will come here",0.3333333333333333
-That's because...,あ… ああ それがさ…,Oh ... Oh that's ...,0.6
+You will come here",0.3333333333333333,0.576565
+That's because...,あ… ああ それがさ…,Oh ... Oh that's ...,0.6,0.44622433
 That's a great idea! Let's go!\NI'm not working that day.,"ああ いいじゃん 行こうぜ
 俺 その日はバイト休みだし","Oh yeah I will go
-I'm a part-time job on that day",0.23809523809523808
-Really? Great!\NI'll make lunch to take with us.,ホント？ やった！,really? Hooray!,0.21428571428571427
-You'll make lunch?,お前が弁当を？,You are lunch box?,0.42857142857142855
-"Hey, can I go, too?",ねえ 私も一緒に行っていい？,Hey I can go with me together?,0.5
+I'm a part-time job on that day",0.2380952380952381,0.5180824
+Really? Great!\NI'll make lunch to take with us.,ホント？ やった！,really? Hooray!,0.21428571428571427,0.22871868
+You'll make lunch?,お前が弁当を？,You are lunch box?,0.42857142857142855,0.61219835
+"Hey, can I go, too?",ねえ 私も一緒に行っていい？,Hey I can go with me together?,0.5,0.5343894
 You're talking about something this fun in front of me.,"（亜梨実）そんな楽しそうな話
 私の前でしといて―","Such fun talks
-I am in front of me-",0.23529411764705882
-"Arimi, we're doing this for Meiko.",亜梨実 今度のは秋月を…,Little Fry This time Akizuki ...,0.07142857142857142
-Really? I'm so happy!,ホント？ わあ うれしい！,really?Wow happy!,0.5
+I am in front of me-",0.2352941176470588,0.5604776
+"Arimi, we're doing this for Meiko.",亜梨実 今度のは秋月を…,Little Fry This time Akizuki ...,0.07142857142857142,0.44017178
+Really? I'm so happy!,ホント？ わあ うれしい！,really?Wow happy!,0.5,0.76207614
 I'll make half the lunch.,"じゃ 私も半分
 お弁当作っていくわ","Well then half
-I will make a sport",0.25
+I will make a sport",0.25,0.5168568
 "Yuu, what do you want to eat?","ねえ 遊は何がいいの？
 （遊）俺は何でもいいよ","Hey? What is good?
- I can do anything",0.2
+ I can do anything",0.2,0.28425524
 Why didn't you turn her down?,"もう 光希のお人よし
 どうして断んないの？","Another person's person
-Why don't you break?",0.3076923076923077
-The most important thing is for Meiko to feel better.,でも 茗子のこと―,But the thing of,0.15384615384615385
-That's what's most important.,それでいいんだ,That's fine,0.2857142857142857
-What? This Sunday?,えっ？ 今度の日曜日？,eh?Now Sunday?,0.3333333333333333
-I'll make lunch.,お弁当は私が作ってくからさ,I'm making a lunch box,0.2222222222222222
+Why don't you break?",0.3076923076923077,0.21991757
+The most important thing is for Meiko to feel better.,でも 茗子のこと―,But the thing of,0.15384615384615385,0.16906732
+That's what's most important.,それでいいんだ,That's fine,0.2857142857142857,0.22208783
+What? This Sunday?,えっ？ 今度の日曜日？,eh?Now Sunday?,0.3333333333333333,0.75317365
+I'll make lunch.,お弁当は私が作ってくからさ,I'm making a lunch box,0.2222222222222222,0.66062003
 Just come as you are.,"茗子は
 そのまんまで来てくれればいいよ","Sako
-You should come to you",0.2222222222222222
-Really?,ホント？,really?,1.0
+You should come to you",0.2222222222222222,0.34823716
+Really?,ホント？,really?,1.0,1.0
 So we'll talk about the\Nexact time and all that tomorrow.,"それじゃ 詳しい時間なんかは
 あした相談しよう","That's why a detailed time
-Let's talk about tomorrow",0.29411764705882354
-Bye for now!,（光希）じゃ またね,is again,0.0
-Bye!,うん じゃあね,Well,0.0
-"Thank you, Miki!",光希 ありがとう,Thank you very much,0.2857142857142857
+Let's talk about tomorrow",0.29411764705882354,0.7529798
+Bye for now!,（光希）じゃ またね,is again,0.0,0.2829613
+Bye!,うん じゃあね,Well,0.0,0.23003137
+"Thank you, Miki!",光希 ありがとう,Thank you very much,0.2857142857142857,0.38178545
 I should talk to Chiyako about the lunch menu.,"千弥子さんに
 お弁当のメニュー相談しようっと","To Chihoko
-Menu of lunch box consulting",0.21428571428571427
+Menu of lunch box consulting",0.21428571428571427,0.77076876
 My mother's not good at that.,"うちのママ
 そういうの てんでダメだもん","My mom
-That kind of girlfriend is no good",0.21428571428571427
-Miki.,光希…,Miki ...,0.3333333333333333
+That kind of girlfriend is no good",0.21428571428571427,0.56736636
+Miki.,光希…,Miki ...,0.3333333333333333,0.94738233
 Have you finished making lunch?,"弁当できたか？
 （光希）うん","Did you lunch?
- Yeah",0.375
+ Yeah",0.375,0.73602784
 I made a lot of everything!,"おかずも
 い～っぱい作ったからね！","Sinking
-I made a lot!",0.625
-"You have lunch on your face, too.",フゥ… 顔にも お弁当ついてるぞ,Hu ... I have a lunch on my face,0.2857142857142857
-Miki and Yuu are late.,遅いなぁ 光希たち,Late Ichibani,0.14285714285714285
-Sorry! Were you waiting long?,ごめ～ん！ 待った？,Sorry!waited?,0.375
-What took you so long?,何グズグズしてたんだよ？,What did you go?,0.375
-"Miki, that isn't...",光希 まさか それ…,Miki Mikami ...,0.2857142857142857
+I made a lot!",0.625,0.60316485
+"You have lunch on your face, too.",フゥ… 顔にも お弁当ついてるぞ,Hu ... I have a lunch on my face,0.2857142857142857,0.8134119
+Miki and Yuu are late.,遅いなぁ 光希たち,Late Ichibani,0.14285714285714285,0.4212076
+Sorry! Were you waiting long?,ごめ～ん！ 待った？,Sorry!waited?,0.375,0.7378086
+What took you so long?,何グズグズしてたんだよ？,What did you go?,0.375,0.48360327
+"Miki, that isn't...",光希 まさか それ…,Miki Mikami ...,0.2857142857142857,0.71033454
 Is that all lunch?,"全部 弁当？
 （光希）うん","All lunch box?
- Yeah",0.42857142857142855
+ Yeah",0.42857142857142855,0.7094798
 That's why we were a little late.,"エヘヘッ… そういうわけで
 ちょっと遅くなったってわけ","Ehehe ... That's why
-It's a bit late",0.38461538461538464
+It's a bit late",0.38461538461538464,0.61759895
 - Let's get going!\N- Hey! Miki!,"さあ 早く行こう！
 （遊）お… おい 光希","Let's go soon!
- ... Omiki",0.23076923076923078
-Hurry up!,早く早く！,"hurry, hurry!",0.5
+ ... Omiki",0.2307692307692308,0.44218105
+Hurry up!,早く早く！,"hurry, hurry!",0.5,0.7984315
 This feels good!,"（光希）すご～い！
 （銀太）うまそう！","I'm sorry!
- Good!",0.2857142857142857
-"Wow! There's a big river and a lake, too.",うわぁ 小川や湖もある,Wow There is also Ogawa and Lake,0.26666666666666666
-You want to eat already?,えっ？ もう食べちゃうの？,eh?Will you eat anymore?,0.3333333333333333
+ Good!",0.2857142857142857,0.35554284
+"Wow! There's a big river and a lake, too.",うわぁ 小川や湖もある,Wow There is also Ogawa and Lake,0.26666666666666666,0.6004809
+You want to eat already?,えっ？ もう食べちゃうの？,eh?Will you eat anymore?,0.3333333333333333,0.6559148
 I can't look my best while carrying this much.,"こんな大荷物 抱えてちゃ
 身動き取れねえもん","Such a big luggage
-I'm moving my mind",0.1111111111111111
+I'm moving my mind",0.1111111111111111,0.45035273
 Let's eat now.,"とっとと食っちまおうぜ
 （光希）そ… それもそうだね","Let's eat and eat
- ... That's too",0.3333333333333333
-It's tasty.,相変わらずブキだな お前は,It is still stupid.,0.2857142857142857
-Ta-da!,ウワッ！,Uwa!,0.3333333333333333
+ ... That's too",0.3333333333333333,0.74564874
+It's tasty.,相変わらずブキだな お前は,It is still stupid.,0.2857142857142857,0.1970143
+Ta-da!,ウワッ！,Uwa!,0.3333333333333333,0.34507173
 I'm not a very good cook.,"ハハッ…
 あんまり上手じゃないけど…","Haha ...
-I'm not very good ...",0.5
-But it looks delicious!,でも おいしそう！,But it looks delicious!,1.0
-"For you, that is.",お前にしてはな,If you are,0.125
-That's not true.,そんなことねえよ！,That's right!,0.2857142857142857
+I'm not very good ...",0.5,0.485497
+But it looks delicious!,でも おいしそう！,But it looks delicious!,1.0,1.0
+"For you, that is.",お前にしてはな,If you are,0.125,0.39556354
+That's not true.,そんなことねえよ！,That's right!,0.2857142857142857,0.32360825
 Putting it that way hurts my feelings even more!,"（光希）
-そういう言い方って 余計傷つく",Such saying that it hurts,0.25
+そういう言い方って 余計傷つく",Such saying that it hurts,0.25,0.52573586
 I brought some fruit.\NPlease have some.,"私 フルーツ持ってきたから
 はい これも どうぞ","Because I brought me fruit
-Yes she is also her",0.14285714285714285
-Thank you!,あっ… いただきま～す,Oh ... Thank you,0.4
-It isn't burned.,当たり前じゃ！,It is natural!,0.2857142857142857
+Yes she is also her",0.14285714285714285,0.49645504
+Thank you!,あっ… いただきま～す,Oh ... Thank you,0.4,0.41349342
+It isn't burned.,当たり前じゃ！,It is natural!,0.2857142857142857,0.16508834
 "- Miki...\N- Meiko, let's go!","光希…
 （光希）茗子 行こう！","Miki ...
- Let's go!",0.6
+ Let's go!",0.6,0.8121299
 "There are two of you,\Nso of course I'm going slower.","２人 乗っけてるほうが
 不利に決まってんじゃねえか","I'm getting two people
-It's disadvantageous",0.16666666666666666
+It's disadvantageous",0.16666666666666666,0.37309024
 Hooray! Hooray!\NGinta! Hooray! Hooray!,"フレー フレー 銀太！
 フレー フレー！","Frefrey Silver!
-Freefrafley!",0.16666666666666666
-It's a foal! So cute!,ハハッ… 子馬だ　かわいい！,Haha ... Cute!,0.2222222222222222
+Freefrafley!",0.16666666666666666,0.24843693
+It's a foal! So cute!,ハハッ… 子馬だ　かわいい！,Haha ... Cute!,0.2222222222222222,0.31265384
 It is!,"（遊）
-危ねえよ　お前 ドジだから―","I'm dangerous, so because it is",0.2222222222222222
-I'd love to pet it.,触ってみたいな,I want to touch,0.2222222222222222
-Our school trip?,修学旅行か,Is school trip?,0.6
-Rokutanda was really something.,なんだか喉渇いちゃった,Somewhat I was trapped,0.125
-"I'm going, too.",光希って いっつもああなの,I'm on light and I'm also ah,0.18181818181818182
+危ねえよ　お前 ドジだから―","I'm dangerous, so because it is",0.2222222222222222,0.27745083
+I'd love to pet it.,触ってみたいな,I want to touch,0.2222222222222222,0.34848785
+Our school trip?,修学旅行か,Is school trip?,0.6,0.8145391
+Rokutanda was really something.,なんだか喉渇いちゃった,Somewhat I was trapped,0.125,0.17512476
+"I'm going, too.",光希って いっつもああなの,I'm on light and I'm also ah,0.18181818181818185,0.12692973
 I'll be fine!,"取ってきてあげる
 （茗子）気をつけて","I'll take it
- Be careful",0.375
+ Be careful",0.375,0.4594571
 ...but she's very cheerful and always thinks of her friends.,"ドジだけど とっても明るくって
 元気で友達思いで","It's a lot of bright
-I am fine and my friend",0.13636363636363635
+I am fine and my friend",0.13636363636363635,0.30028912
 "Run, Miki!","（茗子）光希！
 （亜梨実）光希さん！","光!
- Miki Miki!",0.4
-Stop!,ターッ！,Tar!,0.3333333333333333
+ Miki Miki!",0.4,0.6747842
+Stop!,ターッ！,Tar!,0.3333333333333333,0.37613806
 - Miki!\N- Miki!,"光希！
 （亜梨実）光希さん！","Mitsune!
- Miki Miki!",0.4
-You idiot!\NI told you it was dangerous.,バカ！ 危ないって言ったろう！,fool!I said that it is dangerous!,0.21428571428571427
+ Miki Miki!",0.4,0.79275835
+You idiot!\NI told you it was dangerous.,バカ！ 危ないって言ったろう！,fool!I said that it is dangerous!,0.21428571428571427,0.8010754
 Yuu! Yuu!,"遊！ 遊！
-（泣き声）",Yu!Yu!,0.3333333333333333
-I'm sorry.\NI'm so sorry.,（光希）ごめん 遊… ごめん…,I'm sorry ... sorry ... sorry ...,0.42857142857142855
+（泣き声）",Yu!Yu!,0.3333333333333333,0.78321034
+I'm sorry.\NI'm so sorry.,（光希）ごめん 遊… ごめん…,I'm sorry ... sorry ... sorry ...,0.42857142857142855,0.77879906
 Love doesn't always go as expected.,"恋って なかなか
 思いどおりにならないものね…","I love you
-It doesn't seem to be ...",0.2
-sonna yokan dakishime teitai,「ママレード･ボーイ」,"""Mamarade Boy""",0.0
+It doesn't seem to be ...",0.2,0.32332894
+sonna yokan dakishime teitai,「ママレード･ボーイ」,"""Mamarade Boy""",0.0,0.26474237

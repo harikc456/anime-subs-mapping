@@ -1,332 +1,332 @@
-en_text,jp_text,google_translated,score
-There's a rumor going around...,噂があります,There is a rumor,0.375
-"Hey, it's that girl from 2~H.",ねぇあの子 ２年へ組の,"Hey, that child 2 years",0.25
+en_text,jp_text,google_translated,score,semantic_score
+There's a rumor going around...,噂があります,There is a rumor,0.375,0.8437703
+"Hey, it's that girl from 2~H.",ねぇあの子 ２年へ組の,"Hey, that child 2 years",0.25,0.39911813
 She's always covered with injuries and bruises.,"彼女 いつも怪我とかあざとか
 絶えないよね","She is always injury or something
-It is not constant",0.125
-DV?,DV？,DV?,1.0
-Domestic violence.,ドメスティックバイオレンス,Domestic violence,0.6666666666666666
-It would be disturbing if this were true.,もし本当だとしたら 由々しき事です,"If it is true, it is a good thing",0.21428571428571427
+It is not constant",0.125,0.7151913
+DV?,DV？,DV?,1.0,1.0000005
+Domestic violence.,ドメスティックバイオレンス,Domestic violence,0.6666666666666666,0.94264895
+It would be disturbing if this were true.,もし本当だとしたら 由々しき事です,"If it is true, it is a good thing",0.21428571428571427,0.41939947
 Could you meet with Abiru-san's father?,"糸色先生 あびるさんのお父さんに
 会って来てくれませんか","Yarn Sensei Toro's Father's Dad
-Can you meet me",0.2857142857142857
+Can you meet me",0.2857142857142857,0.4490451
 From elbow to knee,"とても暴力を振るうようには
 見えないですが","To shake violence very much
-I can not see it",0.07692307692307693
-This is Kobushi-san's father?,これが小節さんのお父さんですか,Is this a father's father?,0.7142857142857143
-That's how it usually is.,えてしてそういうものですよ,It is something like that,0.3333333333333333
-Tsu-Tsunetsuki-san!,あっ！,Ah!,0.3333333333333333
-You were here!?,つっ 常月さん！ いたんですか！,Mr. Tsutsuki!Was it?,0.2222222222222222
-Yes.,はい　ずっと,Long ago,0.0
-Miste...,おとう…,Dad…,0.0
+I can not see it",0.07692307692307693,0.116774574
+This is Kobushi-san's father?,これが小節さんのお父さんですか,Is this a father's father?,0.7142857142857143,0.5688527
+That's how it usually is.,えてしてそういうものですよ,It is something like that,0.3333333333333333,0.37882978
+Tsu-Tsunetsuki-san!,あっ！,Ah!,0.3333333333333333,0.18760133
+You were here!?,つっ 常月さん！ いたんですか！,Mr. Tsutsuki!Was it?,0.2222222222222222,0.37024975
+Yes.,はい　ずっと,Long ago,0.0,0.19399256
+Miste...,おとう…,Dad…,0.0,0.2529867
 If I ask him directly...,"いや ここで問いただしても
 正直に答えるとは思えません","No, even if you ask here
-I do not think that honestly answer",0.17647058823529413
-Welcome.,いらっしゃーい,welcome,0.5
-It couldn't be!,はっ まさかっ！,Has it!,0.3333333333333333
-What!?,何！,what!,0.6666666666666666
-He's going to use the frying pan on his daughter!?,フライパンを何に使う気ですかっ！,I'm going to use a frying pan for anything!,0.3333333333333333
-Your business isn't wanted!,あーんたに売るもんはない！ 帰れっ！,There is no sell sale!Return!,0.18181818181818182
-I appreciate your cooperation.,はぁ よかったぁ　ご協力感謝します,I'm glad Thank you for your cooperation,0.3
-No need.  I just did the right thing.,いやぁ 当然のことをしたまでです,"No, it is until I did a matter of course",0.17647058823529413
-"This time, he's going into a bicycle shop.",今度は 自転車屋さんに入っていきますね,This time I will enter a bicycle shop,0.35714285714285715
-I'd like this please.,これを下さい,May I have this,0.25
-What's he going to use that pump for?,店主！ あのですね…,Store owner!That's right ...,0.13333333333333333
-What is he going to use an air pump for!?,空気入れを何に使う気ですか！,What do you feel like using air?,0.17647058823529413
-Use the air pump to...,空気入れで娘を…,Daughter with air in the air ...,0.3333333333333333
-Manager!,きゃあ！ きゃあ！,Yo!Yo!,0.3333333333333333
+I do not think that honestly answer",0.17647058823529413,0.34456348
+Welcome.,いらっしゃーい,welcome,0.5,0.83344287
+It couldn't be!,はっ まさかっ！,Has it!,0.3333333333333333,0.2566896
+What!?,何！,what!,0.6666666666666666,0.8546847
+He's going to use the frying pan on his daughter!?,フライパンを何に使う気ですかっ！,I'm going to use a frying pan for anything!,0.3333333333333333,0.61482406
+Your business isn't wanted!,あーんたに売るもんはない！ 帰れっ！,There is no sell sale!Return!,0.18181818181818185,0.40325397
+I appreciate your cooperation.,はぁ よかったぁ　ご協力感謝します,I'm glad Thank you for your cooperation,0.3,0.7746625
+No need.  I just did the right thing.,いやぁ 当然のことをしたまでです,"No, it is until I did a matter of course",0.17647058823529413,0.34551415
+"This time, he's going into a bicycle shop.",今度は 自転車屋さんに入っていきますね,This time I will enter a bicycle shop,0.35714285714285715,0.74688226
+I'd like this please.,これを下さい,May I have this,0.25,0.25440612
+What's he going to use that pump for?,店主！ あのですね…,Store owner!That's right ...,0.13333333333333333,0.09384013
+What is he going to use an air pump for!?,空気入れを何に使う気ですか！,What do you feel like using air?,0.17647058823529413,0.46620795
+Use the air pump to...,空気入れで娘を…,Daughter with air in the air ...,0.3333333333333333,0.4335035
+Manager!,きゃあ！ きゃあ！,Yo!Yo!,0.3333333333333333,0.30997038
 What a sick bastard!,"何て残酷な奴だ！ お前のような奴に
 売るもんはない！ 帰れっ！","What a cruel guy!To the guy like you
-There is no sell!Return!",0.1875
-Thank you very much.,ありがとうございます,Thank you,0.4
+There is no sell!Return!",0.1875,0.2803222
+Thank you very much.,ありがとうございます,Thank you,0.4,0.55719936
 I was able to save another poor girl from tragedy.,"また１つ かわいそうな娘を
 悲劇から救うことが出来ました","Another cute daughter
-I was able to save from the tragedy",0.5714285714285714
+I was able to save from the tragedy",0.5714285714285714,0.77550143
 ...on the shopping district's emergency network.,"実に危険な奴だ　商店街の緊急連絡網で
 通達を出しておきましょう","It is a real dangerous guy in the emergency communication network of the shopping street
-Let's put out the notification",0.21739130434782608
-Please do.,お願いします,please,0.3333333333333333
-"This time, he's gone into a stationary store.",今度は 文具屋さんに入っていきますね,This time I will enter a stationery shop,0.1875
-What are you going to use an eraser for!?,消しゴムを何に使う気だあーっ！,I feel like I use eraser!,0.21428571428571427
-This time it's a book store.,今度は本屋さんですか,This time is a bookstore,0.3
-What are you going to use Ichigo 1000% for!?,「いちご1000％」 を何に使う気だぁー！,"I feel like I use ""Ichigo 1000%""!",0.29411764705882354
-"No, please show mercy!",いや もう堪忍してぇー！,"No, I'm already broken!",0.3
-This guy is no ordinary person...,あの人 ただ者じゃないですね,That person is not a person,0.2
+Let's put out the notification",0.21739130434782608,0.5985804
+Please do.,お願いします,please,0.3333333333333333,0.5357407
+"This time, he's gone into a stationary store.",今度は 文具屋さんに入っていきますね,This time I will enter a stationery shop,0.1875,0.49059495
+What are you going to use an eraser for!?,消しゴムを何に使う気だあーっ！,I feel like I use eraser!,0.21428571428571427,0.8183393
+This time it's a book store.,今度は本屋さんですか,This time is a bookstore,0.3,0.78961986
+What are you going to use Ichigo 1000% for!?,「いちご1000％」 を何に使う気だぁー！,"I feel like I use ""Ichigo 1000%""!",0.29411764705882354,0.8155337
+"No, please show mercy!",いや もう堪忍してぇー！,"No, I'm already broken!",0.3,0.3317628
+This guy is no ordinary person...,あの人 ただ者じゃないですね,That person is not a person,0.2,0.44370702
 To transform Ichigo 1000% into a lethal weapon...,"「いちご1000％」 まで
 凶器に変えるとは…","""Ichigo 1000%""
-If you change to a weapon ...",0.4666666666666667
-"He's a survivor of the special forces team, The Desert Crushers!?",特殊部隊“砂漠のネリ消し”,"Special Forces ""Nero of the desert""",0.29411764705882354
-capable of such a feat!,まさかっ！,It is good!,0.1111111111111111
-They're the only ones capable of such a feat!,こんな芸当 奴らにしか出来ないっ！,I can only do something like this!,0.11764705882352941
+If you change to a weapon ...",0.4666666666666667,0.8052529
+"He's a survivor of the special forces team, The Desert Crushers!?",特殊部隊“砂漠のネリ消し”,"Special Forces ""Nero of the desert""",0.29411764705882354,0.4757421
+capable of such a feat!,まさかっ！,It is good!,0.1111111111111111,0.15276317
+They're the only ones capable of such a feat!,こんな芸当 奴らにしか出来ないっ！,I can only do something like this!,0.1176470588235294,0.2866523
 That legendary unit!,"１人で１個小隊を全滅させたという
 伝説の部隊であーる","It is said that one person was annihilated
-It is a legendary unit",0.25
-I'm very sorry!,すいませんでした！,I was sorry!,0.5
+It is a legendary unit",0.25,0.5331587
+I'm very sorry!,すいませんでした！,I was sorry!,0.5,0.68991554
 I'll make up a story to tell the school...,"大変な相手を敵に回してしまったぁ！
 うわーっ！","I turned a big opponent to the enemy!
-Wow!",0.23529411764705882
-Wait...,はあ あぁ…,Haa ...,0.3333333333333333
+Wow!",0.2352941176470588,0.15769124
+Wait...,はあ あぁ…,Haa ...,0.3333333333333333,0.41648364
 I didn't expect to run into such a fearsome man in this place...,"まさか… こんなところで
 あのような猛者と遭遇するとは…","Masaka ... in such a place
-When I encounter that kind of raze ...",0.2727272727272727
-This world is full of dangers.,世の中は危険がいっぱいです,The world is full of dangerous,0.4444444444444444
-That's Chie-Sensei.,おや？ あれは智恵先生,Oh?That's Tiie teacher,0.25
-"One, two.",ワン トゥ！,One to!,0.16666666666666666
-I'm still dreaming.,ああ まだ私 夢の中なんだ…,Oh still I'm in my dream ...,0.3
+When I encounter that kind of raze ...",0.2727272727272727,0.2455497
+This world is full of dangers.,世の中は危険がいっぱいです,The world is full of dangerous,0.4444444444444444,0.9047305
+That's Chie-Sensei.,おや？ あれは智恵先生,Oh?That's Tiie teacher,0.25,0.3889401
+"One, two.",ワン トゥ！,One to!,0.16666666666666666,0.4827009
+I'm still dreaming.,ああ まだ私 夢の中なんだ…,Oh still I'm in my dream ...,0.3,0.67018235
 This slight dizziness must be...,"この めまいにも似た朦朧とした意識は
 朝のまどろみで","The awareness that is similar to this dizziness is
-Morning in the morning",0.14285714285714285
+Morning in the morning",0.14285714285714285,0.6065631
 ...an affect of morning lethargy.,"ああ…  ああ 何て爽やかな
 朝なのかしら　は…","Oh ... Oh what is refreshing
-The morning of the morning ...",0.25
-And this dull pain at the back of my head...,後頭部にうずく鈍痛は…,Sludge pain in the back side ...,0.2857142857142857
-A bump?,あ… たんこぶ？,Oh ... Tan Kobu?,0.14285714285714285
-A girl fell into the pit!,女の子が落ちたぞ！,The girl fell!,0.5714285714285714
-Fuura-san!,風浦さん！,Mr. Kaura!,0.25
-I'll be fine!,私なら大丈夫です,I am fine,0.3333333333333333
+The morning of the morning ...",0.25,0.70895374
+And this dull pain at the back of my head...,後頭部にうずく鈍痛は…,Sludge pain in the back side ...,0.2857142857142857,0.4458595
+A bump?,あ… たんこぶ？,Oh ... Tan Kobu?,0.14285714285714285,0.15645362
+A girl fell into the pit!,女の子が落ちたぞ！,The girl fell!,0.5714285714285714,0.7032752
+Fuura-san!,風浦さん！,Mr. Kaura!,0.25,0.44760454
+I'll be fine!,私なら大丈夫です,I am fine,0.3333333333333333,0.67126846
 ...there is a chapter about this.,"「金光明経」 という仏教の本に
 「捨身品（しゃしんぽん） 」 という章があります","In the Buddhist book of
-There is a chapter ""Sakenpon)""",0.23529411764705882
+There is a chapter ""Sakenpon)""",0.2352941176470588,0.22356108
 A man offered his own body to feed a hungry tiger...,"空腹の虎に自らの躰を食べさせて
 来世でお釈迦様になったという","Let me eat my own 躰 to hungry tiger
-He has become Buddha in the coming year",0.16666666666666666
-A noble story.,尊いお話です,It is a precious story,0.2857142857142857
+He has become Buddha in the coming year",0.16666666666666666,0.55815095
+A noble story.,尊いお話です,It is a precious story,0.2857142857142857,0.6995988
 So it's okay if I get eaten by this tiger.,"だから 虎に食べられても大丈夫！
 私 来世で神だから！","So it's okay to eat it on a tiger!
-Because it is God in Japan!",0.22727272727272727
-That isn't being positive.,あれは… 小節（こぶし） さん！,That is ... Mr. Kobushi!,0.2
-Roarrrr,ガー,Garr,0.0
-Reinbach!,ラインバーック！,Line Back!,0.25
-What is she doing here?,どうしてここに？,Why are you here?,0.2222222222222222
-"Come here, Reinbach!",おいで！ ラインバック！,come!Line back!,0.2857142857142857
-"Good boy, good boy.",よ～しよし いい子 いい子,Yo-Yoshidayoshi Good boy,0.4
-Just cute~,あっ…,Ah…,0.0
+Because it is God in Japan!",0.2272727272727273,0.7231153
+That isn't being positive.,あれは… 小節（こぶし） さん！,That is ... Mr. Kobushi!,0.2,0.056255974
+Roarrrr,ガー,Garr,0.0,0.50453925
+Reinbach!,ラインバーック！,Line Back!,0.25,0.33722436
+What is she doing here?,どうしてここに？,Why are you here?,0.2222222222222222,0.3255236
+"Come here, Reinbach!",おいで！ ラインバック！,come!Line back!,0.2857142857142857,0.3684707
+"Good boy, good boy.",よ～しよし いい子 いい子,Yo-Yoshidayoshi Good boy,0.4,0.37068993
+Just cute~,あっ…,Ah…,0.0,0.32714748
 So in other words...,"つまり… DVではなくて 動物とじゃれていて
 怪我だらけになったというんですね","In other words, it is not DV but with animals
-It is said that it was not injured",0.17647058823529413
-So that's why I'm working part-time at the zoo.,それで 動物園でバイトを,So byte at the zoo,0.3076923076923077
+It is said that it was not injured",0.17647058823529413,0.079618216
+So that's why I'm working part-time at the zoo.,それで 動物園でバイトを,So byte at the zoo,0.3076923076923077,0.43332574
 ...have been attentively observing the effects of animal therapy.,"確かに 精神医学においても
 アニマルセラピーの効果は注目されてるけど…","Certainly in psychiatric medicine
-The effects of animal therapy are attracting attention ...",0.3333333333333333
-I really love animals!,私 ホントに動物が大好きで…,I really love animals ...,0.6666666666666666
-"Technically, I should say that I love animal tails!",正確には 動物のしっぽが大好きなの！,Exactly the animal's tail is love!,0.2
-Tails?,しっぽ？,tail?,0.3333333333333333
+The effects of animal therapy are attracting attention ...",0.3333333333333333,0.81091815
+I really love animals!,私 ホントに動物が大好きで…,I really love animals ...,0.6666666666666666,0.91851956
+"Technically, I should say that I love animal tails!",正確には 動物のしっぽが大好きなの！,Exactly the animal's tail is love!,0.2,0.7264516
+Tails?,しっぽ？,tail?,0.3333333333333333,0.8703349
 ...I absolutely have to pull it!,"あのぴょこっとしたものを見ると
 引っ張らずにはいられないの！","If you look at that pigment
-I can not but pull it!",0.23529411764705882
-Result,結果！,result!,0.5
+I can not but pull it!",0.2352941176470588,0.4180407
+Result,結果！,result!,0.5,0.8021703
 ...be considered animal abuse on your part?,"それはある意味
 あなたが動物を虐待しているのでは？","It is a meaning
-Do you abuse animals?",0.125
-This is my room.,ここが私の部屋です,This is my room,0.8
-Sorry to intrude.,お邪魔します,Excuse me,0.0
-Wh-What is this!?,こ… これは！,Th-This is!,0.3333333333333333
-Which one?,どれ？,which one?,1.0
+Do you abuse animals?",0.125,0.7510787
+This is my room.,ここが私の部屋です,This is my room,0.8,0.97332776
+Sorry to intrude.,お邪魔します,Excuse me,0.0,0.32262865
+Wh-What is this!?,こ… これは！,Th-This is!,0.3333333333333333,0.33073026
+Which one?,どれ？,which one?,1.0,1.0000004
 "Ah, that is the tail of the black and white ruffed lemur.","大丈夫
 全部“作り物” ってことになってるから","Fine
-Because it is said that all ""creatures""",0.09523809523809523
+Because it is said that all ""creatures""",0.09523809523809523,0.15430087
 Why are there tails hanging on the walls!?,"そうじゃなくて！
 何で壁からしっぽが生えてるんですか！","It's not that!
-Why are you growing from the wall?",0.2777777777777778
+Why are you growing from the wall?",0.2777777777777778,0.48021096
 I've seen people hanging animal heads on their walls...,"動物の首のはく製でしたら 何かで
 見たことがありますけど しっぽってのは…","If it is made of animal neck, something
-I have seen it, but he is like ...",0.17391304347826086
-I also have a collection of rubbings.,しっ拓コレクションもあるわよ,There is also a shit collection collection,0.2727272727272727
-Rubbings!?,“しっ拓” って！,"""Hey quickly""!",0.14285714285714285
+I have seen it, but he is like ...",0.17391304347826084,0.44386944
+I also have a collection of rubbings.,しっ拓コレクションもあるわよ,There is also a shit collection collection,0.2727272727272727,0.3458191
+Rubbings!?,“しっ拓” って！,"""Hey quickly""!",0.14285714285714285,0.1094072
 I want to pull the tails of animals all over the world some day!,"いつか 世界中の動物のしっぽを
 引っ張って回りたいの！","Someday the tail of animals around the world
-I want to pull around!",0.5294117647058824
+I want to pull around!",0.5294117647058824,0.84112144
 ...there isn't a cat in town who's tail I haven't pulled.,"自慢じゃないけど 町内で私が
 しっぽを引っ張ったことのない猫はいないわ","I'm not proud but I'm in town
-There is no cat that has never pulled the tail",0.3333333333333333
-That's definitely not something to brag about.,確かに 自慢する事じゃありませんね,Certainly not something to boast,0.2727272727272727
-Something wrong?,何か？,something?,0.6666666666666666
-"Sensei, you would look good with a tail.",先生 しっぽが似合いそ…,Teacher tail looks good ...,0.15384615384615385
-Or rather...,あ あ あ…,"Oh, ...",0.2
+There is no cat that has never pulled the tail",0.3333333333333333,0.79105383
+That's definitely not something to brag about.,確かに 自慢する事じゃありませんね,Certainly not something to boast,0.2727272727272727,0.48726818
+Something wrong?,何か？,something?,0.6666666666666666,0.5826542
+"Sensei, you would look good with a tail.",先生 しっぽが似合いそ…,Teacher tail looks good ...,0.15384615384615385,0.49803725
+Or rather...,あ あ あ…,"Oh, ...",0.2,0.44980347
 ...I wonder what kind of tail would suit you best.,"ていうか 先生には
 どんなしっぽが似合うかな？","In the teacher or
-What kind of peek is good?",0.15
+What kind of peek is good?",0.15,0.14583352
 That girl is a pervert!,"変態です！ うう
 あの子は変態ですーっ！","It is a transformation!UU
-That girl is a transformation!",0.5555555555555556
-Wait!,待って～！,Wait ~!,0.6666666666666666
-Sensei...,はぁは…,Ha ...,0.3333333333333333
-...you should also put this on!,先生 これも着けるべきです！,Teacher This should also be worn!,0.36363636363636365
-What are you going to use saran-wrap for!?,ラップを何に使う気だぁー ううっ！,I'm wondering what to use the lap!,0.26666666666666666
-"One, two.  One, two.",ワントゥワントゥ,Wantouuntu,0.0
-Where are you!?,ここはどこだぁ？,Where is it?,0.2857142857142857
-**** Camp!,待って～っ！,Wait!,0.25
+That girl is a transformation!",0.5555555555555556,0.44264343
+Wait!,待って～！,Wait ~!,0.6666666666666666,0.83939576
+Sensei...,はぁは…,Ha ...,0.3333333333333333,0.20466943
+...you should also put this on!,先生 これも着けるべきです！,Teacher This should also be worn!,0.3636363636363637,0.5039295
+What are you going to use saran-wrap for!?,ラップを何に使う気だぁー ううっ！,I'm wondering what to use the lap!,0.26666666666666666,0.23191142
+"One, two.  One, two.",ワントゥワントゥ,Wantouuntu,0.0,0.19069871
+Where are you!?,ここはどこだぁ？,Where is it?,0.2857142857142857,0.5832592
+**** Camp!,待って～っ！,Wait!,0.25,0.26246682
 "Today, I would like to read from ""Faithful Elephants"".","今日は「かわいそうなぞう」 を
 読みたいと思います","Today is ""a cute""
-I want to read",0.35294117647058826
+I want to read",0.35294117647058826,0.38382897
 A story about poisoning the potatoes fed to elephants...,"特に しっぽと耳に効く毒を
 入れるお話です","Especially poisoning to ears and ears
-It is a story to put",0.25
-Chipmunk,えへへ,Ehell,0.0
+It is a story to put",0.25,0.43705177
+Chipmunk,えへへ,Ehell,0.0,0.19086282
 ...and her precious doll was ruined.,"先生や生徒にいじめられ
 大切な人形も壊されてしまいました","Teachers and students are bullied
-An important doll has also been destroyed",0.1111111111111111
-"Okay, that's enough.",はい そこまで,Yes,0.0
-Please read.,次 音無さん 読んでください,Please read the next sound,0.3333333333333333
+An important doll has also been destroyed",0.1111111111111111,0.53243506
+"Okay, that's enough.",はい そこまで,Yes,0.0,0.20184568
+Please read.,次 音無さん 読んでください,Please read the next sound,0.3333333333333333,0.33969146
 Do you not know where to read from?,"どうしたんですか？ 音無さん
 読むところが分からないんですか？","What happened?Sound
-Do you know where you read?",0.5
-U-Um...,あ あの…,Oh ...,0.3333333333333333
-Yes?,はい？,Yes?,1.0
-"It's no use, Sensei.",ダメですよ 先生,It is no good teacher,0.2
-Can't Live Without an Antenna,芽留ちゃんは 極度の口下手なんです,De-chan is an extreme mouth,0.1
-Otonashi-san.,口下手？,Orbit.,0.3333333333333333
-Where are you?,音無さ～ん！ どこですかぁ？,No sound!Where is it?,0.2222222222222222
-Otonashi-san?,音無さ～ん どこいったんですかぁ？,What happened?,0.25
-Komori-san is present...,はぃ…,...,0.25
+Do you know where you read?",0.5,0.36631244
+U-Um...,あ あの…,Oh ...,0.3333333333333333,0.5159205
+Yes?,はい？,Yes?,1.0,1.0000002
+"It's no use, Sensei.",ダメですよ 先生,It is no good teacher,0.2,0.19429848
+Can't Live Without an Antenna,芽留ちゃんは 極度の口下手なんです,De-chan is an extreme mouth,0.1,0.013163055
+Otonashi-san.,口下手？,Orbit.,0.3333333333333333,0.23696162
+Where are you?,音無さ～ん！ どこですかぁ？,No sound!Where is it?,0.2222222222222222,0.20001172
+Otonashi-san?,音無さ～ん どこいったんですかぁ？,What happened?,0.25,0.023251891
+Komori-san is present...,はぃ…,...,0.25,0.16716404
 "I've finally found you, Otonashi-san.","見つけましたよ 音無さん
 よしよし 恐がらなくていいですよ","I found it
-You don't have to do good luck",0.2
-"One, two.  One.",ワントゥ ワン…,Wanto One ...,0.16666666666666666
-"Squeeze, squeeze.",スクイーズ スクイーズ,Squeeze Squeeze,0.3333333333333333
-Don't laugh.  I'm serious.,笑うんじゃない 真剣なんだぁ あっ…,I'm not a laugh ...,0.3
+You don't have to do good luck",0.2,0.24085702
+"One, two.  One.",ワントゥ ワン…,Wanto One ...,0.16666666666666666,0.32007486
+"Squeeze, squeeze.",スクイーズ スクイーズ,Squeeze Squeeze,0.3333333333333333,0.93634266
+Don't laugh.  I'm serious.,笑うんじゃない 真剣なんだぁ あっ…,I'm not a laugh ...,0.3,0.6288026
 ...you can avoid unnecessary trouble!,"余計な事を喋らなければ
 余計なトラブルに巻き込まれません！","If you don't get excant
-Not caught in extra trouble!",0.1875
+Not caught in extra trouble!",0.1875,0.58812517
 "If the people have no bread, let them eat cake?","“パンがなければ ケーキを食べればいいじゃない” 
 と言ったがために フランス革命が起きたり","""If there is no bread, you should eat cake.""
-He said he has a French revolution",0.24
-[Otonashi~san],音無さん,Sound,0.0
-Um...,ん ん…,...,0.5
+He said he has a French revolution",0.24,0.60582936
+[Otonashi~san],音無さん,Sound,0.0,0.13935685
+Um...,ん ん…,...,0.5,0.67079616
 Anything you do will still be partially aggressive.,"いや あなたは何をやっても
 積極的の方が勝ってますから","No, you do anything
-Because aggressive people are won",0.26666666666666666
+Because aggressive people are won",0.26666666666666666,0.6453426
 ...it's okay to speak once in a while.,"でも皆さん たまには独り言でもいいから
 しゃっべった方がいいですよ","But because everyone is alone
-It is better to have a good idea",0.15
+It is better to have a good idea",0.15,0.13231705
 ...something bad happened and I didn't speak to anyone for a week...,"私も昔 嫌な事があって １週間
 誰とも話さなかった事があるんですけど","I also have a bad thing and I have a bad thing for a week
-I have not talked to anyone",0.42105263157894735
-"Afterwards, when I went to the convenience store...",その後 コンビニに行ったら,Then if I went to a convenience store,0.38461538461538464
-Shall I heat it up?,温めますか？,Will you warm?,0.1111111111111111
-And in response...,あ… あ… あああ…,Oh ... ah ... ah ...,0.16666666666666666
-That was surprising.,びっくりしました,surprised,0.0
-Sounds like a true story.,リアルな話だな,It's a real story,0.2222222222222222
+I have not talked to anyone",0.42105263157894735,0.5776789
+"Afterwards, when I went to the convenience store...",その後 コンビニに行ったら,Then if I went to a convenience store,0.38461538461538464,0.6218808
+Shall I heat it up?,温めますか？,Will you warm?,0.1111111111111111,0.63977826
+And in response...,あ… あ… あああ…,Oh ... ah ... ah ...,0.16666666666666666,0.29130802
+That was surprising.,びっくりしました,surprised,0.0,0.5813192
+Sounds like a true story.,リアルな話だな,It's a real story,0.2222222222222222,0.60120195
 "If you have something to say, say it!","イライラするわねぇ　言いたい事があるなら
 はっきり言えばいいのよ　訴えるわよ！","If you have something you want to say
-It is good to say clearly!",0.6153846153846154
+It is good to say clearly!",0.6153846153846154,0.6273196
 Don't bully the teachers pet.,"まあまあ　私のひいきしてる子を
 いじめないでください","Well, my child is my child
-Please do not bully",0.14285714285714285
-A mail address?,メールアドレス？,email address?,0.4
+Please do not bully",0.14285714285714285,0.56853634
+A mail address?,メールアドレス？,email address?,0.4,0.7553007
 That girl is really shy and can only talk through e-mail.,"その子 恥ずかしがり屋で
 メールでしか会話出来ないんです","At the shy shy
-I can only talk with email",0.23529411764705882
+I can only talk with email",0.2352941176470588,0.65029615
 ...but I'll try my best.,"それじゃあ しかたないですね　私 メールって
 苦手なんですけど 頑張って打っちゃおうかなぁ","Well then, I can not mail it
-I'm not good at it, but I'll do my best",0.2631578947368421
-Hello,こんにちわ っと 送信！,Hello Send!,0.3333333333333333
-Piroriparopirirora.,ピロリパロピリロラ,Pylori Parropirola,0.0
+I'm not good at it, but I'll do my best",0.2631578947368421,0.4794014
+Hello,こんにちわ っと 送信！,Hello Send!,0.3333333333333333,0.63730067
+Piroriparopirirora.,ピロリパロピリロラ,Pylori Parropirola,0.0,0.39235613
 Looks like I got a reply.,"返信が来たみたいですねぇ
 どれどれ？ えーっと…","It looks like a reply came
-let's see?Eh ...",0.26666666666666666
-"There must be some sort of mistake, right?",なっ！ 何かの間違いですよね？,"Come!Something wrong, isn't it?",0.11764705882352941
-She's abusive in her e-mails!,わあっ メールじゃ毒舌！,I'm a poisonous tongue!,0.08333333333333333
+let's see?Eh ...",0.26666666666666666,0.5743999
+"There must be some sort of mistake, right?",なっ！ 何かの間違いですよね？,"Come!Something wrong, isn't it?",0.1176470588235294,0.47769153
+She's abusive in her e-mails!,わあっ メールじゃ毒舌！,I'm a poisonous tongue!,0.08333333333333333,0.25881264
 People like you bad mouth me on the internet.,"君のような人が
 ネットで私の悪口を書くのですね！","There are people like you
-You write my bad words on the net!",0.35294117647058826
+You write my bad words on the net!",0.35294117647058826,0.6718538
 You no longer get preferential treatment!,"でも会ったら おとなしくて礼儀正しいから
 怒るに怒れないんですね！","Even if you meet, it is polite and polite
-I can not get angry to get angry!",0.15
-The internet has left me in despair!,絶望した！ ネット社会に絶望した！,lost hope!I was despaired in the internet society!,0.2857142857142857
-So you can say what you want through e-mail?,じゃ 私と対等に言い合えるってわけね？,"Well, do you say that you can say equally?",0.2857142857142857
-I've sent you my address.,私のアドレス送信したよ,I sent my address,0.5714285714285714
-Flash,どれどれ,let's see,0.0
-I'll sue!,うっ！  訴えてやるっ！,Uh!I will appeal!,0.2857142857142857
+I can not get angry to get angry!",0.15,0.13832793
+The internet has left me in despair!,絶望した！ ネット社会に絶望した！,lost hope!I was despaired in the internet society!,0.2857142857142857,0.80545956
+So you can say what you want through e-mail?,じゃ 私と対等に言い合えるってわけね？,"Well, do you say that you can say equally?",0.2857142857142857,0.25851694
+I've sent you my address.,私のアドレス送信したよ,I sent my address,0.5714285714285714,0.7344736
+Flash,どれどれ,let's see,0.0,0.13286445
+I'll sue!,うっ！  訴えてやるっ！,Uh!I will appeal!,0.2857142857142857,0.5917462
 What is it this time?,"うっ もじもじじゃないでしょ！
 このメール弁慶がっ！","It's not a long time!
-This mail Benkei!",0.23076923076923078
+This mail Benkei!",0.2307692307692308,0.2890779
 We have attempted to contact you multiple times about your debt...,"貴殿の債務について 何度か連絡いたしましたが
 入金の確認ができておりません","I contacted you about your debt
-I have not confirmed payment",0.29411764705882354
-Stop playing tricks!?,架空請求！ いたずらはやめてください！,Fictitious bill!Please stop the mischief!,0.2
-"No, wait.",いや 待てよ… アレかな？,I will wait ... Alleko?,0.1111111111111111
-You can think of one?,心当たりあるのかしら…,Do you have a heart ...,0.09090909090909091
-The battery's dead.,あっ バッテリーが切れた,There was an additional battery,0.1111111111111111
-Not a surprise considering how much she uses it.,学校じゃ充電禁止ですからね～,It is not charging for school,0.14285714285714285
-Snap!,「ランボー」 ですかっ！,"""Lambo""!",0.2
-Ah!  I got another one!,うわっ また来たっ！ うう…,I'm sorry!UU…,0.2222222222222222
-You could turn off the power or block the messages.,電源切るか 着信拒否にすればいいのに,If you turn off the power or reject incoming call,0.42857142857142855
-Mine?,えっ 私に？,Eh to me?,0.2
+I have not confirmed payment",0.29411764705882354,0.7466171
+Stop playing tricks!?,架空請求！ いたずらはやめてください！,Fictitious bill!Please stop the mischief!,0.2,0.25276712
+"No, wait.",いや 待てよ… アレかな？,I will wait ... Alleko?,0.1111111111111111,0.29111645
+You can think of one?,心当たりあるのかしら…,Do you have a heart ...,0.09090909090909093,0.18691893
+The battery's dead.,あっ バッテリーが切れた,There was an additional battery,0.1111111111111111,0.60067415
+Not a surprise considering how much she uses it.,学校じゃ充電禁止ですからね～,It is not charging for school,0.14285714285714285,0.1503943
+Snap!,「ランボー」 ですかっ！,"""Lambo""!",0.2,0.29061025
+Ah!  I got another one!,うわっ また来たっ！ うう…,I'm sorry!UU…,0.2222222222222222,0.22517788
+You could turn off the power or block the messages.,電源切るか 着信拒否にすればいいのに,If you turn off the power or reject incoming call,0.42857142857142855,0.52118474
+Mine?,えっ 私に？,Eh to me?,0.2,0.24518107
 "When did you become the class rep character, part-down-the-middle girl...","お前 いつの間に委員長キャラになってんだよ
 真ん中分けが… 何ですってぇ！","You're a chairman character during any time
-The middle division is ... what is it!",0.16666666666666666
-There really isn't anything different about you.,お前ホントに特徴ないな　ひどーい！,It is not characteristic of yourself.,0.14285714285714285
-That's mean!,そんなぁ！,That's right!,0.6
-The atmosphere in the class room has turned brutal...,何か 教室が殺伐とした雰囲気に…,In the atmosphere that the classroom kills ...,0.3333333333333333
+The middle division is ... what is it!",0.16666666666666666,0.35130224
+There really isn't anything different about you.,お前ホントに特徴ないな　ひどーい！,It is not characteristic of yourself.,0.14285714285714285,0.5215306
+That's mean!,そんなぁ！,That's right!,0.6,0.52413946
+The atmosphere in the class room has turned brutal...,何か 教室が殺伐とした雰囲気に…,In the atmosphere that the classroom kills ...,0.3333333333333333,0.7134559
 Do you not have a cell phone?,"関内（せきうつ） さんは大丈夫そうですね？
 携帯は持ってないんですか？","It seems to be okay?
-Do you have a cell phone?",0.5384615384615384
-I can send e-mail too!,マリアもメール出来るよ！,Maria can also email!,0.2222222222222222
-I can send numbers.,数字でメール出来るよ！,You can email it with numbers!,0.2
-Is that a pager?,ポケベルですか？,Is it a pager?,0.6666666666666666
-Pagers still exist..?,マリアちゃん それって？,Maria Chan?,0.16666666666666666
+Do you have a cell phone?",0.5384615384615384,0.6806144
+I can send e-mail too!,マリアもメール出来るよ！,Maria can also email!,0.2222222222222222,0.6198362
+I can send numbers.,数字でメール出来るよ！,You can email it with numbers!,0.2,0.6405902
+Is that a pager?,ポケベルですか？,Is it a pager?,0.6666666666666666,0.9663575
+Pagers still exist..?,マリアちゃん それって？,Maria Chan?,0.16666666666666666,0.01940447
 We have to do something!,"ああ… まだ更に罵詈雑言を
 まき散らすつもりですか！ 何とかしないと！","Oh ... still more varying
-Are you going to spread?I have to do something!",0.29411764705882354
-Out of range,先生 私の席 圏外ですよ,Teacher is out of my seating area,0.25
-That's it!,それだ！,That's it!,1.0
-You and you.,そこと そこ！ 席替え！,And there!seat change!,0.14285714285714285
-Switch seats!,は！,teeth!,0.25
+Are you going to spread?I have to do something!",0.29411764705882354,0.29615295
+Out of range,先生 私の席 圏外ですよ,Teacher is out of my seating area,0.25,0.21302976
+That's it!,それだ！,That's it!,1.0,1.0
+You and you.,そこと そこ！ 席替え！,And there!seat change!,0.14285714285714285,0.13271624
+Switch seats!,は！,teeth!,0.25,0.31913143
 "With this, you can't use your abusive e-mails.","これじゃ 得意の毒舌メールも
 使えないわね","This is also a poisonous email of good looking
-I can not use it",0.08695652173913043
+I can not use it",0.08695652173913042,0.5587977
 If you have something to say...,"さ 言いたい事があったら
 直接言ってみなさい！","If you have something to say
-Let's say directly!",0.5454545454545454
-What's wrong?,何よ,What,0.25
-Open your mouth!,さあ 口に出して！,Please put out in the mouth!,0.2222222222222222
-Do it!,言ってよ！,Say!,0.25
+Let's say directly!",0.5454545454545454,0.618794
+What's wrong?,何よ,What,0.25,0.2533373
+Open your mouth!,さあ 口に出して！,Please put out in the mouth!,0.2222222222222222,0.55759513
+Do it!,言ってよ！,Say!,0.25,0.4328742
 She's speaking in a language I've never heard before.,"聞いたことのないような言語を
 しゃべり出した","Languages that have never heard
-I talked out",0.17647058823529413
-And they're turning into unintelligible characters.,しかも文字化けしてる！,And let's let it go!,0.07692307692307693
+I talked out",0.17647058823529413,0.6456877
+And they're turning into unintelligible characters.,しかも文字化けしてる！,And let's let it go!,0.07692307692307693,0.15616782
 What is this voice that sounds like it came from the depths of hell?,"何？ この地獄の底から
 響き渡るような声は！","what?From the bottom of this hell
-A voice that sounds up!",0.5263157894736842
-I feel sick...,うえあえうえあえ…！,Yeah yeah ...!,0.16666666666666666
+A voice that sounds up!",0.5263157894736842,0.687239
+I feel sick...,うえあえうえあえ…！,Yeah yeah ...!,0.16666666666666666,0.23451659
 This language is the same one my mother used that time.,"あら この言語はあの時
 お母さんがしゃべった言語と同じよ","Oh, this language is that time
-The same as the language that mothers talk",0.4117647058823529
-That time?,あの時？,That time?,1.0
-This time.,この時です,This time,0.6666666666666666
-Your mother...,うえあ…,wear...,0.25
-I'm sure we can use the same method to cure her.,きっと同じ方法で治りますよ,I'm sure it will be cured in the same way,0.2631578947368421
-It's not working at all.,全然効いてないよ,It is not working at all,0.625
-Negotiations breakdown!,ええーいっ やっ！,Yeah!,0.25
-I don't think that's how it's supposed to work.,それ 本来の効果じゃないと思う,I think it's not the original effect,0.25
-Don't worry.,大丈夫よ,All right,0.0
+The same as the language that mothers talk",0.4117647058823529,0.8085368
+That time?,あの時？,That time?,1.0,0.9999997
+This time.,この時です,This time,0.6666666666666666,0.89180887
+Your mother...,うえあ…,wear...,0.25,0.38414374
+I'm sure we can use the same method to cure her.,きっと同じ方法で治りますよ,I'm sure it will be cured in the same way,0.2631578947368421,0.6831877
+It's not working at all.,全然効いてないよ,It is not working at all,0.625,0.8450729
+Negotiations breakdown!,ええーいっ やっ！,Yeah!,0.25,0.2972392
+I don't think that's how it's supposed to work.,それ 本来の効果じゃないと思う,I think it's not the original effect,0.25,0.3413871
+Don't worry.,大丈夫よ,All right,0.0,0.29611
 There are plenty of other ways to communicate...,"メールや言葉以外にも
 伝える手段はたくさんあるの","Besides email and words
-There are many means to tell",0.1875
-I wonder what you're trying to say.,あなたは何を言おうとしてるのかな？,What are you trying to say?,0.45454545454545453
-Stare~,え…,Huh…,0.0
-You love me lots and lots?,私の考えてる事 分かる？,Do you understand my thoughts?,0.2
-It's not working.,これって伝わってないよね,This is not transmitted,0.125
-"Next, look at my eyes.",じゃあ 次は私の目を見て,Well then look at my eyes,0.4444444444444444
-[Th~This person is dangerous!],うっ ひ！,Ueno!,0.125
-...without speech or writing.,ああは…,Oh ...,0.14285714285714285
+There are many means to tell",0.1875,0.51274234
+I wonder what you're trying to say.,あなたは何を言おうとしてるのかな？,What are you trying to say?,0.4545454545454545,0.5790354
+Stare~,え…,Huh…,0.0,0.2924344
+You love me lots and lots?,私の考えてる事 分かる？,Do you understand my thoughts?,0.2,0.20482896
+It's not working.,これって伝わってないよね,This is not transmitted,0.125,0.3138991
+"Next, look at my eyes.",じゃあ 次は私の目を見て,Well then look at my eyes,0.4444444444444444,0.6910254
+[Th~This person is dangerous!],うっ ひ！,Ueno!,0.125,0.110722005
+...without speech or writing.,ああは…,Oh ...,0.14285714285714285,0.2249598
 Let's all express our feelings!,"ワンモア カデッ カデッ カデッ
 脂肪を燃やし尽くせっ！","One-more cadeccade caddy
-Let's bury fat!",0.25
+Let's bury fat!",0.25,0.23518158
 This is earth.,"こちら地球 こちら地球
 皆さん お元気ですか？","Here about earth globe
-Guys, how do you do?",0.07692307692307693
+Guys, how do you do?",0.07692307692307693,0.48438546
 ...a spring that comes only once every fourteen years.,"そうですか　ポロロッカ星は今
 14年に１度の春なんですね","Yes Pororocca Star is now
-It is spring once in 14 years",0.15789473684210525
-...and raw meat flowers for a year...,野原一面に 来世草や生肉花が咲き乱れ,Mikusa and raw meat flowers bloom on one side of the field,0.25
+It is spring once in 14 years",0.15789473684210525,0.58172846
+...and raw meat flowers for a year...,野原一面に 来世草や生肉花が咲き乱れ,Mikusa and raw meat flowers bloom on one side of the field,0.25,0.54337454
 ...and dark scarabs...,"よろめきバッタや夢色カメムシや
 闇カナブンが","Your gross grasshopper and dream color
-Dark Canabun",0.2
-...have gathered for a conference.,うれしい悲鳴が今日も聴こえる…,A nice scream listens today ...,0.18181818181818182
+Dark Canabun",0.2,0.40129203
+...have gathered for a conference.,うれしい悲鳴が今日も聴こえる…,A nice scream listens today ...,0.18181818181818185,0.1802941
 Where are your messages being sent!?,"一体 どこと
 交信しているんですかあ～っ！","Where
-Are you communicating!",0.3
-I'm in despair!!,ワーオ！,Waro!,0.16666666666666666
-The party's in despair...,トウェイン…,Twain ...,0.14285714285714285
+Are you communicating!",0.3,0.5492796
+I'm in despair!!,ワーオ！,Waro!,0.16666666666666666,0.27603647
+The party's in despair...,トウェイン…,Twain ...,0.14285714285714285,0.12278667

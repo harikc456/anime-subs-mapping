@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774589
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.60482836
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194083
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387683
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,7 +68,7 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.5518779
 Leaf Village Secret Finger Jutsu...,"木ノ葉隠れ秘伝
  
 体術奥義…
@@ -77,18 +77,18 @@ Leaf Village Secret Finger Jutsu...,"木ノ葉隠れ秘伝
 ","Keno Leaf hidden secret
  
 Definity ...
-.",0.3
+.",0.3,0.54165787
 One Thousand Years of Death!,"千年殺し
 ｡
 
 ","Kill a thousand years
-.",0.2222222222222222
+.",0.2222222222222222,0.76893824
 "What's with that big frog?
 What the heck are you?","何だ！
 そのでっかいカエルってば！
 
 ","What!
-That's why a big frog!",0.35714285714285715
+That's why a big frog!",0.35714285714285715,0.7529746
 Thank you for asking me!,"お前
  
 一体
@@ -99,7 +99,7 @@ Thank you for asking me!,"お前
  
 Integral
  
-Who is!",0.2222222222222222
+Who is!",0.2222222222222222,0.119869575
 "Know me as the Mountain Toad...
 spirit sage who acquires immortality,","通称
  
@@ -107,7 +107,7 @@ spirit sage who acquires immortality,","通称
 
 ","Known as
  
-Gama Sennin and the appearance!",0.10526315789473684
+Gama Sennin and the appearance!",0.10526315789473684,0.3122518
 Exactly.,"(
 自来也
 )
@@ -115,13 +115,13 @@ Exactly.,"(
 ｡
 
 ","Frankness
-.",0.3333333333333333
+.",0.3333333333333333,0.19839466
 "Here, he was supposed to
 watch my training","修業を見てもらう
 はずだったのに➡
 
 ","Get learning
-I was supposed to be ➡",0.21428571428571427
+I was supposed to be ➡",0.21428571428571427,0.3141803
 You did <i>that</i> to him.,"(
 自来也
 )
@@ -131,14 +131,14 @@ You did <i>that</i> to him.,"(
 
 ","That guy disturbs the interview
 Because
-.",0.13333333333333333
+.",0.13333333333333333,0.19006553
 Research?,"せ…
  
 仙人？
 
 ","height…
  
-Sennin?",0.25
+Sennin?",0.25,0.1314011
 "I'm a writer.
 I'm writing a novel.","こいつを
  
@@ -146,14 +146,14 @@ I'm writing a novel.","こいつを
 
 ","This guy
  
-I'm doing this kind!",0.16666666666666666
+I'm doing this kind!",0.16666666666666666,0.21815936
 This is it.,"小説を書いとる
  
 これだ！
 
 ","Write a novel
  
-This is it!",0.375
+This is it!",0.375,0.32842696
 "Oh, that is...!","あ～！
  
 それってば…
@@ -162,7 +162,7 @@ This is it!",0.375
 ","Oh!
  
 If it is ...
-.",0.4444444444444444
+.",0.4444444444444444,0.6374064
 You know this?,"えっ
  
 お前
@@ -179,14 +179,14 @@ you
 Do you know?
  
 this
-.",0.5714285714285714
+.",0.5714285714285714,0.59842664
 That's not much of a novel!,"それ
  
 ろくな小説じゃねえだろ！
 
 ","That
  
-It's not a bad novel!",0.6
+It's not a bad novel!",0.6,0.8165532
 F-Fool! I'm not just a pervert.,"バカ
  
 バカ
@@ -201,7 +201,7 @@ fool
  
 fool!
 I'm sorry I'm sorry
-.",0.36363636363636365
+.",0.3636363636363637,0.4687181
 Liar! No excuses.,"(
 女性たち
 )
@@ -215,7 +215,7 @@ Liar! No excuses.,"(
 ","No!
 
 Awa ...
-.",0.42857142857142855
+.",0.42857142857142855,0.3397671
 "More importantly, what're you
 going to do about my training?","それより
 修業
@@ -225,10 +225,10 @@ going to do about my training?","それより
 ","Same
 Study
  
-What do you do?",0.26666666666666666
+What do you do?",0.26666666666666666,0.3712073
 You know it?,"知ってんのか？
 
-",Do you know?,0.6
+",Do you know?,0.6,0.59661
 "Then take responsibility
 and join my training.","んじゃ
  
@@ -242,14 +242,14 @@ and join my training.","んじゃ
 responsibility
  
 Take
-I hope for my study!",0.21428571428571427
+I hope for my study!",0.21428571428571427,0.47406754
 "Join my training, hey!","俺の修業につきあえ
  
 こら～！
 
 ","About my study
  
-Like!",0.2222222222222222
+Like!",0.2222222222222222,0.2730517
 "Shut up! I hate people who
 don't know how to talk properly...","わしは
  
@@ -259,7 +259,7 @@ don't know how to talk properly...","わしは
 ","Wow
  
 The guy who does not know the way of mouth
-I hate it!",0.20833333333333334
+I hate it!",0.20833333333333331,0.49616086
 "That Make Out Paradise was
 really exciting, cool and interesting.","あの
  ｢ｲﾁｬｲﾁｬﾊﾟﾗﾀﾞｲｽ｣
@@ -269,7 +269,7 @@ really exciting, cool and interesting.","あの
 ","that
  ""Ichata Paradise""
 In
-Watch ぇ ➡ ➡ ➡ ➡ ➡ ➡",0.10526315789473684
+Watch ぇ ➡ ➡ ➡ ➡ ➡ ➡",0.10526315789473684,0.35997638
 "The purchase or viewing of that novel is
 prohibited for those 18 years or younger...","(
 自来也
@@ -294,7 +294,7 @@ and
  
 I'm not browsing
 .
-➡",0.21739130434782608
+➡",0.21739130434782608,0.765863
 You liar.,"あっ
  
 えっと
@@ -307,7 +307,7 @@ You liar.,"あっ
 Fur
  
 Well ...
-.",0.14285714285714285
+.",0.14285714285714285,0.19691771
 "Oh, hey... wait!","あぁ
  
 ちょちょ…
@@ -318,7 +318,7 @@ Well ...
  
 Chocho ...
  
-A little!",0.2
+A little!",0.2,0.31950653
 "Wow! He's cool even
 though he's a pervert.","おだてても
  
@@ -326,10 +326,10 @@ though he's a pervert.","おだてても
 
 ","Even though
  
-I'm sorry!",0.23076923076923078
+I'm sorry!",0.2307692307692308,0.114953615
 Where'd he go?,"どこ行っちまったんだ？
 
-",Where did you go?,0.42857142857142855
+",Where did you go?,0.42857142857142855,0.6265372
 "No, no, I'm sorry, miss...
 but what lovely breasts...","(
 自来也
@@ -346,7 +346,7 @@ I was sorry
  
 Grandmother
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.5033953
 Pervert!,"(
 自来也
 )
@@ -355,20 +355,20 @@ Pervert!,"(
 頬をたたく音
 )
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.25088283
 This grown up is disgraceful.,"いい大人が
 みっともねえってばよ
 ｡
 
 ","Good adult
 Even if it is hey
-.",0.16666666666666666
+.",0.16666666666666666,0.3875438
 "Maybe there's nothing special about him,
 after all.","やっぱり大したことねえのかな
 ｡
 
 ","After all it is a big deal
-.",0.1875
+.",0.1875,0.26618135
 But there's nobody else.,"でもな
  
 ほかに
@@ -381,7 +381,7 @@ But there's nobody else.,"でもな
 else
  
 Navy
-.",0.25
+.",0.25,0.19761486
 Good grief...,"(
 自来也
 )
@@ -395,7 +395,7 @@ Good grief...,"(
  
 Good grief
 .
-➡",0.6
+➡",0.6,0.78659576
 "As usual, the women in
 this village are strong-minded.","相変わらず
 この里の女は気が強いのう
@@ -405,7 +405,7 @@ this village are strong-minded.","相変わらず
 ","As usual
 The woman of this village is strong
 .
-➡",0.375
+➡",0.375,0.7487139
 "However, that's makes them so good.","しかし
  
 そこがまた
@@ -418,7 +418,7 @@ The woman of this village is strong
 There again
  
 Good
-.",0.2727272727272727
+.",0.2727272727272727,0.44309804
 """As usual""?
 Meaning you've come here before?","｢
 相変わらず
@@ -430,14 +430,14 @@ Meaning you've come here before?","｢
 As usual
 ""
 In
-What happened before?",0.42857142857142855
+What happened before?",0.42857142857142855,0.7988449
 You.,"お前…
 ｡
 そんで➡
 
 ","you…
 .
-Then",0.25
+Then",0.25,0.67161155
 "Don't say pervert, pervert
 in such a loud voice.","シ～！
  
@@ -451,7 +451,7 @@ in such a loud voice.","シ～！
 With a big voice
 Erotic
  
-Don't say erotic!",0.29411764705882354
+Don't say erotic!",0.29411764705882354,0.3783691
 "Jeez, you're a noisy brat.","全く
  
 騒がしいガキだのう！
@@ -460,7 +460,7 @@ Don't say erotic!",0.29411764705882354
 ","not at all
  
 It's a noisy girl!
-!",0.13333333333333333
+!",0.13333333333333333,0.52101177
 "I want to have a romantic encounter
 with a stacked girl.","胸のときめく出会いが
 したいのう
@@ -468,7 +468,7 @@ with a stacked girl.","胸のときめく出会いが
 
 ","When I'm in my heart
 I want to
-.",0.25
+.",0.25,0.27565962
 "It's a million years too soon
 for that kid to take me on.","やっぱり
  
@@ -480,12 +480,12 @@ for that kid to take me on.","やっぱり
  
 That man
 It's just a person
-.",0.3
+.",0.3,0.109131746
 Not really.,"プハ～
 ｡
 
 ","Puha
-.",0.25
+.",0.25,0.23022671
 It seems you have a bit of talent.,"(
 自来也
 )
@@ -499,7 +499,7 @@ It seems you have a bit of talent.,"(
  
 Slightly
 It seems that there is a highlight
-.",0.35714285714285715
+.",0.35714285714285715,0.3242354
 Give and take!,"(
 自来也
 )
@@ -517,7 +517,7 @@ and
  
 take
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.520639
 "I'm not averse to listening
 to your favor","お前の頼みを聞いてやらんことも
 やぶさかでないかぎりだのう
@@ -525,7 +525,7 @@ to your favor","お前の頼みを聞いてやらんことも
 
 ","I also heard about your request
 It's not like it's no Yabusa
-.",0.16666666666666666
+.",0.16666666666666666,0.12877713
 So which is it?,"それは
  
 どっちなんだ？
@@ -542,7 +542,7 @@ Which one?
 
 Ahh
  
-Is it okay?",0.4444444444444444
+Is it okay?",0.4444444444444444,0.29570872
 "I'll watch your training
 if you bring me that.","そういうの連れてくれば
 お前の修業
@@ -554,21 +554,21 @@ if you bring me that.","そういうの連れてくれば
 Your training
  
 Let's look at
-.",0.2631578947368421
+.",0.2631578947368421,0.65608203
 "Okay, wait!","よ～っしゃ
  
 待ってろ！
 
 ","It is
  
-Wait!",0.3333333333333333
+Wait!",0.3333333333333333,0.59808815
 "Hello there, you ladies!","もしも～し
  
 そこのお嬢さん方～！
 
 ","If
  
-Your lady there ~!",0.2
+Your lady there ~!",0.2,0.46857625
 "No-no, this is the solemn truth.","いやいや
  
 これは
@@ -579,7 +579,7 @@ Your lady there ~!",0.2
  
 this is
 The story of a squirrel funny
-.",0.2857142857142857
+.",0.2857142857142857,0.18514575
 "Yeah, and then,
 what happened then?","ん？
  
@@ -587,7 +587,7 @@ what happened then?","ん？
 
 ","Yeah?
  
-Wow!",0.2222222222222222
+Wow!",0.2222222222222222,0.24480389
 "Hey, Pervy Sage!","(
 自来也
 )
@@ -597,7 +597,7 @@ Wow!",0.2222222222222222
 
 ","Cachhahaha!
  
-Gahahahaha!",0.14285714285714285
+Gahahahaha!",0.14285714285714285,0.1398956
 I brought the promised item.,"約束のもの
  
 持ってきたぞ
@@ -606,7 +606,7 @@ I brought the promised item.,"約束のもの
 ","Promise
  
 I brought it
-.",0.375
+.",0.375,0.69802505
 "Idiot, idiot, idiot, idiot!
 That's not IT!","タァ～！
  
@@ -614,14 +614,14 @@ That's not IT!","タァ～！
 
 ","Da ~!
  
-It's good!",0.3
+It's good!",0.3,0.19089666
 Don't hesitate. Help yourself.,"さぁさぁ
 遠慮なく食べてくれのう
 ｡
 
 ","Saa
 Do not hesitate to eat
-.",0.3
+.",0.3,0.37644362
 No!,"(
 自来也
 )
@@ -631,7 +631,7 @@ No!,"(
 
 ","No!
  
-How are you?",0.3333333333333333
+How are you?",0.3333333333333333,0.49713606
 <i>No doubt about it. That person is...</i>,"(ｴﾋﾞｽ)
 《間違いない
  
@@ -639,7 +639,7 @@ How are you?",0.3333333333333333
 
 ","""no doubt
  
-That person is ... """,0.42857142857142855
+That person is ... """,0.42857142857142855,0.6498917
 Good grief. I've wasted time...,"はぁ…
  
 やれやれ
@@ -650,31 +650,31 @@ Good grief. I've wasted time...,"はぁ…
  
 Good grief
 I'm going to kill the time
-.",0.46153846153846156
+.",0.4615384615384616,0.61756
 "Hold it! Where are you going?!
 What about my training?!","ちょっと待て！
 どこ行くんだってばよ？
 
 ","wait a minute!
-Where are you going?",0.4
+Where are you going?",0.4,0.5207543
 "I'm going to train hard,
 become stronger than anybody,","うんと修業して
 誰よりも強くなって➡
 
 ","I study
-Become stronger than anyone",0.3076923076923077
+Become stronger than anyone",0.3076923076923077,0.6488879
 Humph! I don't care about such things.,"俺だってな
  
 こんな所で➡
 
 ","I'm sorry
  
-In such a place",0.13333333333333333
+In such a place",0.13333333333333333,0.30259645
 "Jeez, what a repugnant brat!","せっかくの取材が
 台なしだっての！
 
 ","Skillo coverage
-It's a stand!",0.16666666666666666
+It's a stand!",0.16666666666666666,0.029880859
 "are indispensable for
 my great writing enterprises!","わしの
  
@@ -682,7 +682,7 @@ my great writing enterprises!","わしの
 
 ","Especially
  
-For great writing activities",0.3
+For great writing activities",0.3,0.6141623
 "I see... So I should bring
 some stacked girls, right?","そうか
  
@@ -692,7 +692,7 @@ some stacked girls, right?","そうか
 ","Really
  
 Muchimuchi sister
-Should I take me?",0.17647058823529413
+Should I take me?",0.17647058823529413,0.3561146
 Okay.,"よ～し
 ｡
 (
@@ -700,13 +700,13 @@ Okay.,"よ～し
 )
 
 ","~
-.",0.3333333333333333
+.",0.3333333333333333,0.4771343
 Oh...!,"(
 自来也
 )
 お～～！
 
-",Oh!,0.6666666666666666
+",Oh!,0.6666666666666666,0.7636049
 What a...,"(
 自来也
 )
@@ -718,13 +718,13 @@ What a...,"(
 ","...
  
 How ...
-.",0.2
+.",0.2,0.42520165
 I like you!,"気に入った～！
 
-",I like it!,0.6
+",I like it!,0.6,0.58184963
 You pass!,"合格～！
 
-",Pass!,0.6666666666666666
+",Pass!,0.6666666666666666,0.85220754
 "You're really my type of girl.
 What's that technique called?","一体
  
@@ -736,14 +736,14 @@ What's that technique called?","一体
  
 What is the technique of?
  
-that is!",0.2777777777777778
+that is!",0.2777777777777778,0.25093302
 It's called Sexy Jutsu.,"いや～
 おいろけの術っていうんすけど
 ｡
 
 ","~
 I'm saying that it's a good deal
-.",0.21428571428571427
+.",0.21428571428571427,0.016843121
 "Oooh, what an idea. You're a genius.","お～
  
 何という発想かのう
@@ -752,7 +752,7 @@ I'm saying that it's a good deal
 ","Oh
  
 What an idea
-You are a genius!",0.46153846153846156
+You are a genius!",0.4615384615384616,0.78498
 "Sure! However, I have a condition.","(
 自来也
 )
@@ -768,14 +768,14 @@ You are a genius!",0.46153846153846156
 However
  
 Condition
-.",0.3
+.",0.3,0.64929265
 A condition...? What is it?,"条件？
  
 何？
 
 ","conditions?
  
-what?",0.25
+what?",0.25,0.54005265
 "A-Always be... in that form
 when you're in front of me!","わ…
  
@@ -791,7 +791,7 @@ In front of you
 always
  
 That parenthesis
-.",0.29411764705882354
+.",0.29411764705882354,0.43109772
 "Hey! Sure enough,
 you're just a pervert! You Pervy Sage!","こら！
  
@@ -809,7 +809,7 @@ After all
 Just a skephone
 Hey
  
-This erotic Sennin!",0.2222222222222222
+This erotic Sennin!",0.2222222222222222,0.30847192
 No! I'm not just a pervert!,"(
 自来也
 )
@@ -821,14 +821,14 @@ No! I'm not just a pervert!,"(
 ","Disagreeable
  
 different
-Not just a skept!",0.36363636363636365
+Not just a skept!",0.3636363636363637,0.11811636
 I'm a super pervert!,"何を…
  
 しらばっくれやがって！
 
 ","what…
  
-I'm sorry!",0.375
+I'm sorry!",0.375,0.21259175
 "Well, brushing off the stuff until
 now as a joke,","まぁ
  
@@ -840,12 +840,12 @@ now as a joke,","まぁ
  
 As a joke so far
 Let's look at the study
-.",0.2
+.",0.2,0.25474182
 I'll watch your training.,"修業の続きをやってみろ
 ｡
 
 ","Let's continue the continuation of training
-.",0.16666666666666666
+.",0.16666666666666666,0.5759279
 "You mean it, right?","それ
  
 本当だろうな？
@@ -856,20 +856,20 @@ I'll watch your training.,"修業の続きをやってみろ
  
 Is it true?
 There is no word for Sennin
-.",0.13333333333333333
+.",0.13333333333333333,0.18449955
 "Okay, kid.","ドスケベだ～
 ｡
 
 ","Doskebe ~
-.",0.16666666666666666
+.",0.16666666666666666,0.11823545
 Okay!,"よっしゃ！
 
-",Yo!,0.3333333333333333
+",Yo!,0.3333333333333333,0.41144255
 Darn it.,"よ～し
 ｡
 
 ","~
-.",0.25
+.",0.25,0.2687406
 It's pointless to wear clothes.,"うるへぇ！
  
 服なんか着てても
@@ -880,7 +880,7 @@ It's pointless to wear clothes.,"うるへぇ！
  
 Even if you wear clothes
 I wonder what you mean
-.",0.1875
+.",0.1875,0.519553
 "Hey, build up your Chakra
 one more time.","おい
  
@@ -892,12 +892,12 @@ one more time.","おい
  
 once again
 Try chakra
-.",0.14285714285714285
+.",0.14285714285714285,0.68396187
 You!,"お前！
 ん？
 
 ","you!
-Yeah?",0.5
+Yeah?",0.5,0.5964797
 "You're pretty sexy when
 you're naked.","お前！
  
@@ -909,7 +909,7 @@ you're naked.","お前！
  
 Naked
 It's quite sexy
-.",0.36363636363636365
+.",0.3636363636363637,0.7466122
 "Oh, sorry, sorry. Continue.","あ～
  
 すまん
@@ -924,7 +924,7 @@ sorry
  
 sorry
 Continue
-.",0.6666666666666666
+.",0.6666666666666666,0.8196158
 You're messing with my focus.,"調子
  
 狂うってばよ
@@ -933,7 +933,7 @@ You're messing with my focus.,"調子
 ","condition
  
 If you go crazy
-.",0.18181818181818182
+.",0.18181818181818185,0.11324465
 "<i>Two Tetragram Seals</i>
 <i>making a Double Tetragram Seal...</i>","四象封印が２つ…
  
@@ -945,7 +945,7 @@ If you go crazy
  
 Double seal
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.63683003
 <i>Is this an 8 Signed Seal Formula?</i>,"(
 自来也
 )
@@ -957,7 +957,7 @@ Double seal
 ","""I see…
 Is this a seal of the nine tail?
 .
-➡",0.23809523809523808
+➡",0.2380952380952381,0.50561565
 "<i>and is fixed so that it</i>
 <i>can return to this kid's Chakra.</i>","この子のチャクラに
 還元できるように組んである
@@ -967,14 +967,14 @@ Is this a seal of the nine tail?
 ","In the chakra of this child
 It is teamed so that it can be reduced
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.61507165
 "<i>It's to protect this kid, huh?</i>","この子を守るためだな
 ｡
 ➡
 
 ","To protect this child
 .
-➡",0.1875
+➡",0.1875,0.7963007
 "<i>But after that, it's stopped</i>
 <i>with a Five Pronged Seal...</i>","しかし
  
@@ -992,11 +992,11 @@ afterwards
 Five lines sealed
 It is stopped
 .
-➡",0.125
+➡",0.125,0.6640935
 "<i>This kid's Chakra and that of</i>
 <i>the Nine Tailed are discreetly intermingled</i>","この子と九尾のチャクラが➡
 
-",This child and Kuoji chakra are ➡,0.2
+",This child and Kuoji chakra are ➡,0.2,0.5507085
 "Oh, sorry, sorry.","ハハハ…
 ｡
 おぉ
@@ -1013,7 +1013,7 @@ Hoping
 sorry
  
 sorry
-.",0.2857142857142857
+.",0.2857142857142857,0.44601586
 <i>Perhaps someone else...did it...</i>,"(
 自来也
 )
@@ -1025,7 +1025,7 @@ sorry
 ","""perhaps
 Another guy did
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.4479303
 "<i>Well, it's probably Orochimaru.</i>","これでは
  
 チャクラを
@@ -1034,12 +1034,12 @@ Another guy did
 ","With this
  
 Chakra
-It should be done well.",0.11764705882352941
+It should be done well.",0.1176470588235294,0.12474706
 "Kid, give me a hurrah.","まぁ
 大蛇丸ってとこだろうがのう》
 
 ","Maic
-It will be a big snake.",0.15384615384615385
+It will be a big snake.",0.15384615384615385,0.13375552
 "Well, I just pushed
 the pressure points for relaxing.","な～に
  
@@ -1053,7 +1053,7 @@ the pressure points for relaxing.","な～に
 Relaxing
 I hit it
 .
-➡",0.2
+➡",0.2,0.5472917
 "Just try walking on
 the water once more...","いいから
  
@@ -1069,10 +1069,10 @@ once again
 Let's walk on the water
  
 brain
-.",0.21052631578947367
+.",0.21052631578947367,0.45968845
 Sheesh!,"どわっ！
 
-",Somewhat!,0.3333333333333333
+",Somewhat!,0.3333333333333333,0.4142366
 "I don't know why, but it's going well!","何か
  
 知んねえけど
@@ -1081,14 +1081,14 @@ Sheesh!,"どわっ！
 ","something
  
 I'm not sure
-You're going well!",0.2222222222222222
+You're going well!",0.2222222222222222,0.5849995
 Yahoo!,"俺ってば
  
 すっげぇ！
 
 ","In case
  
-Susumu!",0.2
+Susumu!",0.2,0.1578485
 "What, what ace technique?
 A deadly technique?","何
  
@@ -1102,13 +1102,13 @@ A deadly technique?","何
 what?
  
 Take a technique to take!
-Is it a special move?",0.2857142857142857
+Is it a special move?",0.2857142857142857,0.5461118
 "There's something you need to
 understand well","九尾のチャクラのコントロールを
 教えておくか》
 
 ","Koji's chakra control
-Do you tell me?",0.13333333333333333
+Do you tell me?",0.13333333333333333,0.15250754
 before I teach you techniques.,"お前には
  
 よ～く
@@ -1119,7 +1119,7 @@ before I teach you techniques.,"お前には
  
 Won't
 Some understanding
-.",0.2222222222222222
+.",0.2222222222222222,0.1801825
 "You probably haven't noticed,
 but you possess two types of Chakra.","お前は
  
@@ -1135,14 +1135,14 @@ Chakra
 Two types
  
 Lose
-.",0.3333333333333333
+.",0.3333333333333333,0.7201454
 Huh? Two types?,"は？
  
 ２種類？
 
 ","teeth?
  
-Two types?",0.6
+Two types?",0.6,0.5738338
 "Until now, have you ever
 felt a special Chakra?","(
 自来也
@@ -1155,7 +1155,7 @@ felt a special Chakra?","(
 ","until now
  
 Special chakra
-Have you felt it?",0.6666666666666666
+Have you felt it?",0.6666666666666666,0.9318784
 Special? Hmm...,"特別…
  
 う～ん…
@@ -1164,12 +1164,12 @@ Special? Hmm...,"特別…
 ","special…
  
 Hmm ...
-.",0.3333333333333333
+.",0.3333333333333333,0.95474505
 I see.,"そうか…
 ｡
 
 ","Really…
-.",0.25
+.",0.25,0.39168656
 from the Chakra I always build up.,"でも
  
 いつも練ってるチャクラと
@@ -1178,17 +1178,17 @@ from the Chakra I always build up.,"でも
 ","but
  
 Always have a chakra
-I felt differently",0.23076923076923078
+I felt differently",0.2307692307692308,0.71373796
 while it's always blue...,"いつも青なのに➡
 
-",Even though it is always blue,0.3333333333333333
+",Even though it is always blue,0.3333333333333333,0.8698489
 it felt like it was red or something.,"すっげぇ力が出たような時が
 あったような気すっけど…
 ｡
 
 ","When the power has come out
 I felt like it was ...
-.",0.3125
+.",0.3125,0.36170518
 Okay. That's it for today's training.,"(
 自来也
 )
@@ -1202,7 +1202,7 @@ Okay. That's it for today's training.,"(
  
 Today's study is
 This is the end
-.",0.21428571428571427
+.",0.21428571428571427,0.31096923
 What?! Already?,"え～！
  
 もう？
@@ -1215,14 +1215,14 @@ What?! Already?,"え～！
 Already?
 Take it
  
-what happened?",0.5
+what happened?",0.5,0.57235855
 I can still train.,"俺はまだ
  
 できるってばよ！
 
 ","I'm still
  
-You can do it!",0.3
+You can do it!",0.3,0.48121676
 Warms me up.,"ん～…
  
 温まるってばよ
@@ -1231,12 +1231,12 @@ Warms me up.,"ん～…
 ","...
  
 It will warm up
-.",0.25
+.",0.25,0.627882
 A drink after training's the best.,"落っこちるんじゃなくてのう
 ｡
 
 ","It's not fucked
-.",0.18181818181818182
+.",0.18181818181818185,0.08188587
 "What kind of technique is
 that ace technique?","取って置きの技って
  
@@ -1244,14 +1244,14 @@ that ace technique?","取って置きの技って
 
 ","Take a break
  
-What?",0.18181818181818182
+What?",0.18181818181818185,0.041822188
 Miser!,"チェッ
  
 ケチ！
 
 ","Check
  
-Kechi!",0.25
+Kechi!",0.25,0.30324304
 "It's okay. More importantly,
 I was surprised...","(ｴﾋﾞｽ)
 いえ
@@ -1262,7 +1262,7 @@ I was surprised...","(ｴﾋﾞｽ)
 ","home
  
 I was more surprised
-.",0.4166666666666667
+.",0.4166666666666667,0.45028567
 To think you were in this village...,"まさか
  
 この里におられたとは
@@ -1273,19 +1273,19 @@ To think you were in this village...,"まさか
  
 What was in this village
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.5670085
 The Hokage will be pleased.,"火影様も喜ばれるでしょう
 ｡
 
 ","It will also be pleased with fire shadow
-.",0.36363636363636365
+.",0.3636363636363637,0.34003568
 Did you tell the Third Hokage about me?,"三代目には
  
 わしのことを？
 
 ","In the third generation
  
-What do you do?",0.3076923076923077
+What do you do?",0.3076923076923077,0.22356455
 Not yet.,"(ｴﾋﾞｽ)
 いえ
  
@@ -1295,12 +1295,12 @@ Not yet.,"(ｴﾋﾞｽ)
 ","home
  
 not yet
-.",0.75
+.",0.75,0.6679956
 I see. That's for the best.,"教え子を横取りしちまってのう
 ｡
 
 ","Let's cross the teaching child
-.",0.25
+.",0.25,0.11617205
 "I just stopped by looking
 for material for my novel...","わしは
  
@@ -1316,7 +1316,7 @@ just
  
 Looking for novel
 I just stopped by
-.",0.5833333333333334
+.",0.5833333333333334,0.7290542
 "What are you saying?!
 You should know!","な…
  
@@ -1330,17 +1330,17 @@ You should know!","な…
 What do you say!
 you too
  
-You should know!➡",0.38461538461538464
+You should know!➡",0.38461538461538464,0.6881003
 "the legendary three Shinobi,","伝説の三忍とうたわれた
 大蛇丸を止めるには➡
 
 ","The legendary Sanbu
-To stop the large game",0.2
+To stop the large game",0.2,0.46469787
 is the power of another Sannin!,"同じ三忍の一人
 あなたの力が必要なのですよ！➡
 
 ","One of the same Sanbu
-You need your power!➡",0.2857142857142857
+You need your power!➡",0.2857142857142857,0.70008385
 Then I build up my Chakra.,"♬
  
 見上げて
@@ -1351,7 +1351,7 @@ Then I build up my Chakra.,"♬
  
 Look up
  
-It stands up",0.09090909090909091
+It stands up",0.09090909090909093,0.18195349
 How's that?!,"それでチャクラを
 ん～…
  
@@ -1360,7 +1360,7 @@ How's that?!,"それでチャクラを
 ","So chakra
 ...
  
-Written!➡",0.1
+Written!➡",0.1,0.20745923
 "Next time, ""The Summoning Jutsu:
 Wisdom of the Toad Sage!""","印は
  ｢
@@ -1388,4 +1388,4 @@ Appeal
  
 Not
 "".
-➡",0.09090909090909091
+➡",0.09090909090909093,0.13921498

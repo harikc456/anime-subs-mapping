@@ -1,192 +1,192 @@
-en_text,jp_text,google_translated,score
-"<i>Hey boys, listen up!</i>",♬少年よ聞いてくれ,"♬ Boy, listen",0.16666666666666666
-"<i>Who needs tomorrow anyway,</i>",♬明日なんてもういらないから,♬ Because I do not want to tomorrow,0.13333333333333333
-<i>so don't hide your fists</i>,♬握った拳を隠すなよ,Don't hide the fist you hold,0.21428571428571427
-<i>You're not old enough</i>,♬人間なんてたいしたもんじゃないさ,♬ I'm not a human being,0.14285714285714285
-<i>who can pull the trigger in your heart</i>,♬引き金を引けるのは君だけさ,It is only you who can trigger,0.1875
-<i>All the kids said</i>,♬すべての若者は言った,♬ All young people said,0.18181818181818182
-"<i>awesome world right at this moment,</i>",♬この素晴らしい世界に,♬ In this wonderful world,0.14285714285714285
-<i>Don't forget every truth or lie</i>,♬決して忘れてしまわないように,♬ Do not forget it,0.14285714285714285
-<i>We're way too young to die</i>,♬死ぬには若すぎるだろう,♬ It would be too young to die,0.26666666666666666
-<i>into this windless night</i>,♬風の無いこの夜に,♬ Night without wind,0.09090909090909091
-<i>Because they want to change something</i>,♬何かを変えようとしてるから,♬ I'm trying to change something,0.3076923076923077
-"With this, you've woken up, right?",(ｻｽｹ)お前のほうこそこれで目が覚めたんじゃないか？,Do you wake up with your eyes?,0.3076923076923077
+en_text,jp_text,google_translated,score,semantic_score
+"<i>Hey boys, listen up!</i>",♬少年よ聞いてくれ,"♬ Boy, listen",0.16666666666666666,0.6530668
+"<i>Who needs tomorrow anyway,</i>",♬明日なんてもういらないから,♬ Because I do not want to tomorrow,0.13333333333333333,0.63679045
+<i>so don't hide your fists</i>,♬握った拳を隠すなよ,Don't hide the fist you hold,0.21428571428571427,0.7157619
+<i>You're not old enough</i>,♬人間なんてたいしたもんじゃないさ,♬ I'm not a human being,0.14285714285714285,0.37642783
+<i>who can pull the trigger in your heart</i>,♬引き金を引けるのは君だけさ,It is only you who can trigger,0.1875,0.53613853
+<i>All the kids said</i>,♬すべての若者は言った,♬ All young people said,0.18181818181818185,0.6224169
+"<i>awesome world right at this moment,</i>",♬この素晴らしい世界に,♬ In this wonderful world,0.14285714285714285,0.5135738
+<i>Don't forget every truth or lie</i>,♬決して忘れてしまわないように,♬ Do not forget it,0.14285714285714285,0.5459358
+<i>We're way too young to die</i>,♬死ぬには若すぎるだろう,♬ It would be too young to die,0.26666666666666666,0.68858474
+<i>into this windless night</i>,♬風の無いこの夜に,♬ Night without wind,0.09090909090909093,0.6819742
+<i>Because they want to change something</i>,♬何かを変えようとしてるから,♬ I'm trying to change something,0.3076923076923077,0.45107573
+"With this, you've woken up, right?",(ｻｽｹ)お前のほうこそこれで目が覚めたんじゃないか？,Do you wake up with your eyes?,0.3076923076923077,0.61268747
 "but it won't be like
-that this time.",今度はそうはいかない｡,This time I can not do it.,0.2857142857142857
+that this time.",今度はそうはいかない｡,This time I can not do it.,0.2857142857142857,0.3387193
 "I'll show you...
-the true power of Sharingan.",見せてやるよ｡,I will show you.,0.3333333333333333
-at my Way of Ninja!,この俺の忍道ってやつをよ｡,This is my ninja guy.,0.2
-Shadow Clone Jutsu!,影分身の術！,Shadow Subordination!,0.4
+the true power of Sharingan.",見せてやるよ｡,I will show you.,0.3333333333333333,0.45697612
+at my Way of Ninja!,この俺の忍道ってやつをよ｡,This is my ninja guy.,0.2,0.63257504
+Shadow Clone Jutsu!,影分身の術！,Shadow Subordination!,0.4,0.5519522
 "<i>You can't beat me by just pointlessly...</i>
-<i>increasing the number!</i>",《ムダに数を増やしただけじゃこの俺には勝てない！》,"""I can't beat me just by increasing the number in Muda!""",0.5238095238095238
+<i>increasing the number!</i>",《ムダに数を増やしただけじゃこの俺には勝てない！》,"""I can't beat me just by increasing the number in Muda!""",0.5238095238095238,0.46990472
 "I can spot the real body in
-one shot with my Sharingan.",写輪眼なら本体は一発で見極められる｡,"If it is a moss eye eye, the body is identified in one shot.",0.2857142857142857
+one shot with my Sharingan.",写輪眼なら本体は一発で見極められる｡,"If it is a moss eye eye, the body is identified in one shot.",0.2857142857142857,0.40883714
 "I deliberately went along
-with your game...",フフフ…｡,Fuhufu ....,0.1
+with your game...",フフフ…｡,Fuhufu ....,0.1,0.2226471
 "<i>What was up...</i>
-<i>with those eyes of Big Brother's?</i>",兄さんのあの目…｡➡,My brother's eyes ....,0.2222222222222222
+<i>with those eyes of Big Brother's?</i>",兄さんのあの目…｡➡,My brother's eyes ....,0.2222222222222222,0.43370494
 "<i>That wasn't...</i>
-<i>just an ordinary Sharingan.</i>",《それに…➡,"""That's ... ➡",0.13333333333333333
+<i>just an ordinary Sharingan.</i>",《それに…➡,"""That's ... ➡",0.13333333333333333,0.2899244
 "<i>And...quite a bit of time's</i>
-<i>passed since then...</i>",あれからずいぶんたつけど➡,It's a lot of time from that,0.21052631578947367
+<i>passed since then...</i>",あれからずいぶんたつけど➡,It's a lot of time from that,0.21052631578947367,0.31538182
 "<i>but things are still kind of awkward</i>
-<i>between him and Father.</i>",父さんと兄さん何かギクシャクしてる》,My father and my brother are doing something,0.1
-"Yeah, good morning.",おはようございます父さん｡,Good morning Father.,0.5
+<i>between him and Father.</i>",父さんと兄さん何かギクシャクしてる》,My father and my brother are doing something,0.1,0.37144157
+"Yeah, good morning.",おはようございます父さん｡,Good morning Father.,0.5,0.59178436
 "Sasuke... how have things
-been going at the Academy lately?",サスケ最近アカデミーのほうはどうなんだ？,Sasuke What about the Academy recently?,0.26666666666666666
-Fire Style: Fire Ball Jutsu!,(ﾌｶﾞｸ)《火[外:99C09079206BA433E50523B592C8055A]豪火球の術！》,"""Fire [outside: 99C09079206BA433E50523B592C8055A] Technique of heavy sphere!""",0.1875
-<i>W-Wow...</i>,《あっ…すごいや》,"""Oh ... great""",0.1
+been going at the Academy lately?",サスケ最近アカデミーのほうはどうなんだ？,Sasuke What about the Academy recently?,0.26666666666666666,0.87525356
+Fire Style: Fire Ball Jutsu!,(ﾌｶﾞｸ)《火[外:99C09079206BA433E50523B592C8055A]豪火球の術！》,"""Fire [outside: 99C09079206BA433E50523B592C8055A] Technique of heavy sphere!""",0.1875,0.530774
+<i>W-Wow...</i>,《あっ…すごいや》,"""Oh ... great""",0.1,0.24866813
 "This is the fundamental
-Jutsu of the Uchiha.",これがうちはの基本忍術だ｡,This is the basic ninjutsu of our house.,0.4166666666666667
-The Sign is as I taught you earlier.,印はさっき教えたとおりだ｡,The marks are as teaching.,0.25
+Jutsu of the Uchiha.",これがうちはの基本忍術だ｡,This is the basic ninjutsu of our house.,0.4166666666666667,0.53417724
+The Sign is as I taught you earlier.,印はさっき教えたとおりだ｡,The marks are as teaching.,0.25,0.3292051
 "stop it once at around between
-the mouth and the chest area,",チャクラを練り上げ口こうから胸の辺りで一度止め➡,"After the chakra, stop it once in the heart of the chest",0.35294117647058826
-and spew it out at once after that.,その後一気に吐き出すようにする｡,Then it will be spit at once.,0.3076923076923077
-Okay!,やってみろ｡はい！,Yes! Yes!,0.3333333333333333
-<i>Father...is teaching me Jutsu himself.</i>,《父さんがこの俺に直接術を教えてくれてる｡➡,"""My father taught me directly to me.",0.11764705882352941
-<i>Finally... Father has also recognized me!</i>,俺もやっと父さんに認められるようになったんだ｡➡,I finally came to be recognized by my father.,0.2222222222222222
-<i>I must live up to his expectations!</i>,期待に応えなきゃ！》,"I have to meet expectations!""",0.2857142857142857
+the mouth and the chest area,",チャクラを練り上げ口こうから胸の辺りで一度止め➡,"After the chakra, stop it once in the heart of the chest",0.35294117647058826,0.5464726
+and spew it out at once after that.,その後一気に吐き出すようにする｡,Then it will be spit at once.,0.3076923076923077,0.49477342
+Okay!,やってみろ｡はい！,Yes! Yes!,0.3333333333333333,0.3980259
+<i>Father...is teaching me Jutsu himself.</i>,《父さんがこの俺に直接術を教えてくれてる｡➡,"""My father taught me directly to me.",0.1176470588235294,0.5166234
+<i>Finally... Father has also recognized me!</i>,俺もやっと父さんに認められるようになったんだ｡➡,I finally came to be recognized by my father.,0.2222222222222222,0.73342353
+<i>I must live up to his expectations!</i>,期待に応えなきゃ！》,"I have to meet expectations!""",0.2857142857142857,0.6309147
 "Sure enough, it won't go like
-it did with Itachi, huh?",やはりイタチのようにはいかんか｡,"After all, like Itachi.",0.1875
+it did with Itachi, huh?",やはりイタチのようにはいかんか｡,"After all, like Itachi.",0.1875,0.77608407
 "It might've still been
-too soon for you.",(ﾌｶﾞｸ)お前にはまだ早すぎたのかもしれんな｡,You may have been too early in you.,0.2857142857142857
+too soon for you.",(ﾌｶﾞｸ)お前にはまだ早すぎたのかもしれんな｡,You may have been too early in you.,0.2857142857142857,0.67418987
 "<i>A member of the Uchiha Clan</i>
-<i>is not recognized as full fledged</i>",(ﾌｶﾞｸ)＜うちは一族は火[外:99C09079206BA433E50523B592C8055A]が使えて初めて一人前と認められる＞,The family is the first to be recognized as one person for the first time with fire [outside: 99C09079206BA433E50523B592C8055A]>,0.16129032258064516
-<i>until they can use the Fire Style.</i>,火を操るうちはを持つ者の意＞,Meaning of person who manipulates fire>,0.125
-<i>The Uchiha crest...</i>,(ﾌｶﾞｸ)＜うちはの家紋は➡,<My family crest is ➡,0.16666666666666666
-Sasuke...!,《きょうこそ！➡,"""Just!➡",0.16666666666666666
-Wait a minute.,(ﾐｺﾄ)サスケちょっと待って｡,Sasuke Wait a minute.,0.8
-What...?,何？,what?,0.6666666666666666
-Oh... Don't move.,あぁ動かないで｡,"Oh, without permission.",0.2222222222222222
-Hmm?,母さん｡ん？,Mother?,0.3333333333333333
+<i>is not recognized as full fledged</i>",(ﾌｶﾞｸ)＜うちは一族は火[外:99C09079206BA433E50523B592C8055A]が使えて初めて一人前と認められる＞,The family is the first to be recognized as one person for the first time with fire [outside: 99C09079206BA433E50523B592C8055A]>,0.16129032258064516,0.21850118
+<i>until they can use the Fire Style.</i>,火を操るうちはを持つ者の意＞,Meaning of person who manipulates fire>,0.125,0.34285238
+<i>The Uchiha crest...</i>,(ﾌｶﾞｸ)＜うちはの家紋は➡,<My family crest is ➡,0.16666666666666666,0.63614416
+Sasuke...!,《きょうこそ！➡,"""Just!➡",0.16666666666666666,0.23946811
+Wait a minute.,(ﾐｺﾄ)サスケちょっと待って｡,Sasuke Wait a minute.,0.8,0.361157
+What...?,何？,what?,0.6666666666666666,0.71308815
+Oh... Don't move.,あぁ動かないで｡,"Oh, without permission.",0.2222222222222222,0.24875747
+Hmm?,母さん｡ん？,Mother?,0.3333333333333333,0.2957089
 "<i>Sure enough, it won't go</i>
-<i>like it did with Itachi, huh?</i>",やはりイタチのようにはいかんか＞,"After all, like Itachi>",0.21052631578947367
+<i>like it did with Itachi, huh?</i>",やはりイタチのようにはいかんか＞,"After all, like Itachi>",0.21052631578947367,0.77120256
 "<i>It might've still been</i>
-<i>too soon for you...</i>",(ﾌｶﾞｸ)＜お前にはまだ早すぎたのかもしれんな＞,<It may have been too early in you>,0.3333333333333333
-Father!,父さん！(ﾌｶﾞｸ)ん？,Father!?,0.6666666666666666
+<i>too soon for you...</i>",(ﾌｶﾞｸ)＜お前にはまだ早すぎたのかもしれんな＞,<It may have been too early in you>,0.3333333333333333,0.643787
+Father!,父さん！(ﾌｶﾞｸ)ん？,Father!?,0.6666666666666666,0.79449785
 "One more time...
-Please join me.",もう一度…｡(唾を飲み込む音),Once again ....,0.2
-It's still too soon for you.,お前にはまだ早い｡,You are still early.,0.3
+Please join me.",もう一度…｡(唾を飲み込む音),Once again ....,0.2,0.49426696
+It's still too soon for you.,お前にはまだ早い｡,You are still early.,0.3,0.46697468
 "Even if I were to teach you
-for only after a week...",１週間やそこらでまた教えても…｡,Even if you teach one week or there ....,0.35294117647058826
-So I want you to see it.,だから見てほしいんだ｡,So I want you to see it.,1.0
-<i>Failure is not an option!</i>,《失敗は許されない！➡,"""Failure is not permitted!➡",0.3076923076923077
-That's my boy.,(ﾌｶﾞｸ)さすが俺の子だ｡,I'm my child.,0.25
+for only after a week...",１週間やそこらでまた教えても…｡,Even if you teach one week or there ....,0.35294117647058826,0.7934514
+So I want you to see it.,だから見てほしいんだ｡,So I want you to see it.,1.0,1.0
+<i>Failure is not an option!</i>,《失敗は許されない！➡,"""Failure is not permitted!➡",0.3076923076923077,0.6036709
+That's my boy.,(ﾌｶﾞｸ)さすが俺の子だ｡,I'm my child.,0.25,0.574846
 "so as not to bring shame
-to the crest on your back.",(ﾌｶﾞｸ)よくやった今からはその背中の家紋に恥じぬよう➡,From now on I'm going to be ashamed of the back of the back of my back,0.19047619047619047
-Right!,はい！(ﾌｶﾞｸ)それと➡,Yes! and ➡,0.2
-And... let me say one thing.,１つだけ言っておく｡,I say only one.,0.3
+to the crest on your back.",(ﾌｶﾞｸ)よくやった今からはその背中の家紋に恥じぬよう➡,From now on I'm going to be ashamed of the back of the back of my back,0.19047619047619047,0.56300604
+Right!,はい！(ﾌｶﾞｸ)それと➡,Yes! and ➡,0.2,0.45052862
+And... let me say one thing.,１つだけ言っておく｡,I say only one.,0.3,0.38622558
 "Don't chase after
-your older brother anymore.",もう兄さんの後は追うな｡,Don't chase after the older brother.,0.7
-Mother...?,(ﾐｺﾄ)ん？,?,0.3333333333333333
+your older brother anymore.",もう兄さんの後は追うな｡,Don't chase after the older brother.,0.7,0.96287787
+Mother...?,(ﾐｺﾄ)ん？,?,0.3333333333333333,0.31477922
 "What does Father really think of
-Big Brother and me?",父さんは兄さんや俺のこと➡,My father is my brother and me,0.3076923076923077
+Big Brother and me?",父さんは兄さんや俺のこと➡,My father is my brother and me,0.3076923076923077,0.49178934
 "He'd always said that only
-to Big Brother.",いつも兄さんにだけそう言ってた｡,I always said that only my brother.,0.5
-So I was really happy.,だからすごくうれしかったんだ｡,So I was very happy.,0.7142857142857143
-I was thinking...,俺はただ…➡,I'm just ... ➡,0.2857142857142857
+to Big Brother.",いつも兄さんにだけそう言ってた｡,I always said that only my brother.,0.5,0.67200917
+So I was really happy.,だからすごくうれしかったんだ｡,So I was very happy.,0.7142857142857143,0.9740591
+I was thinking...,俺はただ…➡,I'm just ... ➡,0.2857142857142857,0.33191624
 "Your older brother's your older brother.
-And you are you.",兄さんは兄さんあなたはあなたよ｡,My brother is your brother you are you.,0.5
+And you are you.",兄さんは兄さんあなたはあなたよ｡,My brother is your brother you are you.,0.5,0.80440235
 "Your father cares deeply
-about you both.",父さんはいつもあなたたちのことを気にかけてるわ｡,My father always cares about you.,0.5
+about you both.",父さんはいつもあなたたちのことを気にかけてるわ｡,My father always cares about you.,0.5,0.79805493
 "Then why does he only think
-about Big Brother?!",じゃあ何で兄さんばっかり！,"Well then, I'm just my brother!",0.17647058823529413
-That's not it...,兄さんの代わりなのかなって…｡,It's an alternative to my brother ....,0.2727272727272727
-as a representative of the clan.,父さんは一族の代表として➡,Father is a representative of the family,0.4
-What about it?!,それが何なの？,What is it?,0.5
+about Big Brother?!",じゃあ何で兄さんばっかり！,"Well then, I'm just my brother!",0.17647058823529413,0.3615191
+That's not it...,兄さんの代わりなのかなって…｡,It's an alternative to my brother ....,0.2727272727272727,0.30107313
+as a representative of the clan.,父さんは一族の代表として➡,Father is a representative of the family,0.4,0.41527486
+What about it?!,それが何なの？,What is it?,0.5,0.32874194
 "Itachi is just bigger than you
-and is your elder.",イタチはあなたよりも大きくて先輩なだけ｡,Itachi is bigger than you and just senior.,0.7272727272727273
+and is your elder.",イタチはあなたよりも大きくて先輩なだけ｡,Itachi is bigger than you and just senior.,0.7272727272727273,0.8760325
 "with that much more work
-for the clan, right?",その分一族のための仕事を任されるようになるでしょ？➡,Will you be able to take a job for that minute?➡,0.14285714285714285
+for the clan, right?",その分一族のための仕事を任されるようになるでしょ？➡,Will you be able to take a job for that minute?➡,0.14285714285714285,0.20412374
 "Your father is the supervisor
-of the work, so...",父さんはその仕事の監督役だから➡,My father is a supervision role of the work ➡,0.3333333333333333
+of the work, so...",父さんはその仕事の監督役だから➡,My father is a supervision role of the work ➡,0.3333333333333333,0.80396247
 "it might be that his eyes were
-likely to go towards your older brother.",行きがちだったのかもしれないわね｡,It may have been tended to be.,0.21052631578947367
-"But, this is just between us.",でもここだけの話｡,But the story is here.,0.2727272727272727
-"When he's with me,",どうしたってその目がイタチに➡,What's wrong with that eye,0.2
+likely to go towards your older brother.",行きがちだったのかもしれないわね｡,It may have been tended to be.,0.21052631578947367,0.18441954
+"But, this is just between us.",でもここだけの話｡,But the story is here.,0.2727272727272727,0.4191772
+"When he's with me,",どうしたってその目がイタチに➡,What's wrong with that eye,0.2,0.09557499
 "your father does nothing
-but talk about you.",私といるときはあなたのことばかり話してるのよ父さん｡,"When I have me, I'm talking and talking about your father.",0.23529411764705882
+but talk about you.",私といるときはあなたのことばかり話してるのよ父さん｡,"When I have me, I'm talking and talking about your father.",0.2352941176470588,0.71945757
 "<i>I'll catch up to Big Brother</i>
-<i>no matter what!</i>",《絶対兄さんに追いついてみせる！》,"""I will catch up with absolute brother!""",0.2631578947368421
-Damn it...!,うあっ！,!,0.25
+<i>no matter what!</i>",《絶対兄さんに追いついてみせる！》,"""I will catch up with absolute brother!""",0.2631578947368421,0.57455564
+Damn it...!,うあっ！,!,0.25,0.32060936
 "Big Brother's back is still
-far out of reach.",《兄さんの背中はまだまだ遠いや…》,"""My brother's back is still far ...""",0.4
+far out of reach.",《兄さんの背中はまだまだ遠いや…》,"""My brother's back is still far ...""",0.4,0.54914814
 "<i>Forgive me, Sasuke...</i>
-<i>Maybe another time.</i>",(ｲﾀﾁ)＜許せサスケ｡➡,<forgiveness Sasuke.,0.14285714285714285
-<i>Clan...Clan...</i>,(ｲﾀﾁ)＜一族…一族…｡➡,<一 ... 一 ... 一 ... 一 ... ....,0.25
+<i>Maybe another time.</i>",(ｲﾀﾁ)＜許せサスケ｡➡,<forgiveness Sasuke.,0.14285714285714285,0.85214496
+<i>Clan...Clan...</i>,(ｲﾀﾁ)＜一族…一族…｡➡,<一 ... 一 ... 一 ... 一 ... ....,0.25,0.17317726
 "<i>You measure incorrectly</i>
-<i>the size of your own ""vessels""</i>",そういうあんたらは己の器の大きさを量り違え➡,Such an anchoroids the size of the theater,0.15789473684210525
+<i>the size of your own ""vessels""</i>",そういうあんたらは己の器の大きさを量り違え➡,Such an anchoroids the size of the theater,0.15789473684210525,0.21044463
 "<i>and don't know the depth of mine,</i>
-<i>so you grovel there.</i>",俺の器の深さを知らぬから➡,I do not know the depth of my bowl ➡,0.2857142857142857
+<i>so you grovel there.</i>",俺の器の深さを知らぬから➡,I do not know the depth of my bowl ➡,0.2857142857142857,0.57075775
 "<i>My ""vessel"" is</i>
-<i>dismayed at this foolish clan.</i>",＜俺の器は➡,<My bowl is ➡,0.1875
-Big Brother...,兄さん｡,Brother.,0.25
-"Today, when school's finished,",きょう…学校が終わったら➡,Today ... When school is over ➡,0.3
+<i>dismayed at this foolish clan.</i>",＜俺の器は➡,<My bowl is ➡,0.1875,0.14103913
+Big Brother...,兄さん｡,Brother.,0.25,0.41557455
+"Today, when school's finished,",きょう…学校が終わったら➡,Today ... When school is over ➡,0.3,0.80637854
 "I'm busy.
-You should have Father teach you.",俺は忙しいんだ｡,I'm busy.,0.4444444444444444
+You should have Father teach you.",俺は忙しいんだ｡,I'm busy.,0.4444444444444444,0.59591746
 "But even I know that you're better
-at Shuriken Jutsu than Father is.",俺だって分かるよ｡,I understand that I understand.,0.1875
+at Shuriken Jutsu than Father is.",俺だって分かるよ｡,I understand that I understand.,0.1875,0.14743918
 "Forgive me, Sasuke.
-Maybe next time...",許せサスケ｡,Permitable Sasuke.,0.2
+Maybe next time...",許せサスケ｡,Permitable Sasuke.,0.2,0.652985
 "I don't have the time to
-be dealing with you today.",(ｲﾀﾁ)きょうはお前に構っている暇がない｡,Today is no time to be at you.,0.375
+be dealing with you today.",(ｲﾀﾁ)きょうはお前に構っている暇がない｡,Today is no time to be at you.,0.375,0.6425747
 "You always say, ""Forgive me, Sasuke,""
-and poke me on the forehead.",いっつもいっつも｢許せサスケ｣って➡,"At the same time, ""forgive sasuke""",0.3333333333333333
+and poke me on the forehead.",いっつもいっつも｢許せサスケ｣って➡,"At the same time, ""forgive sasuke""",0.3333333333333333,0.791343
 "And you say ""today,""
-but it never happens.",それに｢きょうは｣っていつも見てくれないくせに｡,"Besides, ""Today"" is always wondering.",0.3125
-<i>Big Brother...</i>,《兄さん…》,"""Brother ...""",0.2222222222222222
+but it never happens.",それに｢きょうは｣っていつも見てくれないくせに｡,"Besides, ""Today"" is always wondering.",0.3125,0.69952035
+<i>Big Brother...</i>,《兄さん…》,"""Brother ...""",0.2222222222222222,0.45059755
 "<i>His eyes looking back</i>
-<i>at Father that time...</i>",《あの時の父さんを見る兄さんの目…》,"""The eyes of the older brother who see the father at that time ...""",0.2857142857142857
-<i>It wasn't just an ordinary Sharingan...</i>,《ただの写輪眼じゃなかった｡➡,"""It was not just a male-wheel eye.",0.16666666666666666
-Father?,父さん｡(ﾌｶﾞｸ)ん？,Father. ?,0.6666666666666666
+<i>at Father that time...</i>",《あの時の父さんを見る兄さんの目…》,"""The eyes of the older brother who see the father at that time ...""",0.2857142857142857,0.61155343
+<i>It wasn't just an ordinary Sharingan...</i>,《ただの写輪眼じゃなかった｡➡,"""It was not just a male-wheel eye.",0.16666666666666666,0.24100561
+Father?,父さん｡(ﾌｶﾞｸ)ん？,Father. ?,0.6666666666666666,0.8860319
 "Oh... You're already interested
-in Sharingan?",何だ？もう写輪眼に興味があるのか｡,What?Are you interested in the eyes of the ceremony?,0.26666666666666666
-"However, it's still too soon for you.",しかしお前にはまだ早すぎるな｡,But you are too early.,0.23076923076923078
+in Sharingan?",何だ？もう写輪眼に興味があるのか｡,What?Are you interested in the eyes of the ceremony?,0.26666666666666666,0.29145896
+"However, it's still too soon for you.",しかしお前にはまだ早すぎるな｡,But you are too early.,0.2307692307692308,0.58131325
 "It's totally different from
-the Fire Style Jutsu.",火[外:99C09079206BA433E50523B592C8055A]の術とは訳が違う｡,It is different from the art of fire [outside: 99C09079206BA433E50523B592C8055A].,0.3333333333333333
-"But someday, I too!",でもいつか俺だって！,But someday!,0.5
+the Fire Style Jutsu.",火[外:99C09079206BA433E50523B592C8055A]の術とは訳が違う｡,It is different from the art of fire [outside: 99C09079206BA433E50523B592C8055A].,0.3333333333333333,0.5669206
+"But someday, I too!",でもいつか俺だって！,But someday!,0.5,0.789199
 "Indeed, there is a Visual Jutsu
-above the Sharingan,",万華鏡写輪眼がある｡,There is a kaleida makera eye.,0.21428571428571427
-"In the long history of the Uchiha,",うちはの長い歴史の中で➡,Of the long history of,0.5714285714285714
+above the Sharingan,",万華鏡写輪眼がある｡,There is a kaleida makera eye.,0.21428571428571427,0.3464833
+"In the long history of the Uchiha,",うちはの長い歴史の中で➡,Of the long history of,0.5714285714285714,0.51365244
 "it's a legendary Visual Jutsu
-that only a few develop.",伝説の瞳術だ｡➡,It is a legendary pupil.,0.3076923076923077
+that only a few develop.",伝説の瞳術だ｡➡,It is a legendary pupil.,0.3076923076923077,0.4123319
 "And it's said that it only opened
-under a particular condition.",そしてそれはある特別な条件下でのみ➡,And it is only under a special condition only,0.42857142857142855
+under a particular condition.",そしてそれはある特別な条件下でのみ➡,And it is only under a special condition only,0.42857142857142855,0.5187474
 "<i>Don't chase after your</i>
-<i>older brother anymore.</i>",＜もう兄さんの後は追うな＞,<Do not chase after brother already>,0.42857142857142855
+<i>older brother anymore.</i>",＜もう兄さんの後は追うな＞,<Do not chase after brother already>,0.42857142857142855,0.83051556
 "<i>I wonder what he thinks of my</i>
-<i>relationship with Brother?</i>",《父さんは俺と兄さんの仲をどう思ってるんだろう？》,"""Father thinking about my brother's relationship?""",0.2
-Father...,《特別な条件…》,"""Special conditions ...""",0.16666666666666666
+<i>relationship with Brother?</i>",《父さんは俺と兄さんの仲をどう思ってるんだろう？》,"""Father thinking about my brother's relationship?""",0.2,0.7049607
+Father...,《特別な条件…》,"""Special conditions ...""",0.16666666666666666,0.1846847
 "Why doesn't Big Brother care
-about me?",どうして兄さんは俺のこと構ってくれないのかな？,Why is my brother not to have me?,0.2857142857142857
-He's a bit peculiar...,あいつは少し変わっている｡,He has changed a little.,0.2
-Why?,どうして？,Why?,1.0
-"Even I, his father, can't read that boy.",あいつは｡,That is.,0.16666666666666666
+about me?",どうして兄さんは俺のこと構ってくれないのかな？,Why is my brother not to have me?,0.2857142857142857,0.5623379
+He's a bit peculiar...,あいつは少し変わっている｡,He has changed a little.,0.2,0.46369874
+Why?,どうして？,Why?,1.0,1.0000001
+"Even I, his father, can't read that boy.",あいつは｡,That is.,0.16666666666666666,0.06395376
 "<i>Here I spoke because I wanted</i>
-<i>more of Big Brother's attention.</i>",《兄さんに相手にしてもらいたいって感じで話したのに➡,"""I talked that I wanted to get my brother",0.15
+<i>more of Big Brother's attention.</i>",《兄さんに相手にしてもらいたいって感じで話したのに➡,"""I talked that I wanted to get my brother",0.15,0.5427894
 "Here, Sasuke!
-Your box lunch.",はいサスケお弁当｡,Yes Sasuke's Box.,0.3
+Your box lunch.",はいサスケお弁当｡,Yes Sasuke's Box.,0.3,0.7145155
 "I'll watch your Shuriken practice
-after you come home.",帰ってから母さんが見てあげるから｡,My mother will see after returning.,0.125
-"It's not practice, it's training!",お稽古じゃない修業だよ｡,It is a training that is not a practice.,0.36363636363636365
-I'm off!,いってきます！,See you!,0.16666666666666666
+after you come home.",帰ってから母さんが見てあげるから｡,My mother will see after returning.,0.125,0.2909959
+"It's not practice, it's training!",お稽古じゃない修業だよ｡,It is a training that is not a practice.,0.3636363636363637,0.83809066
+I'm off!,いってきます！,See you!,0.16666666666666666,0.40383056
 "<i>It's not that Father dislikes</i>
-<i>Big Brother, after all.</i>",やっぱり兄さんのことそんなに毛嫌いしてる訳じゃないんだ➡,After all my brother is not so bad that I hate it,0.2857142857142857
+<i>Big Brother, after all.</i>",やっぱり兄さんのことそんなに毛嫌いしてる訳じゃないんだ➡,After all my brother is not so bad that I hate it,0.2857142857142857,0.57376313
 "<i>Big Brother graduated from the Academy</i>
-<i>at the top of his class at age seven.</i>",《兄さんは７歳でアカデミーを首席で卒業｡➡,"""My brother graduated at 7 years old and graduated by his attendance. ➡",0.14814814814814814
+<i>at the top of his class at age seven.</i>",《兄さんは７歳でアカデミーを首席で卒業｡➡,"""My brother graduated at 7 years old and graduated by his attendance. ➡",0.14814814814814814,0.60092163
 "<i>He learned to use</i>
-<i>the Sharingan at age eight.</i>",８歳には写輪眼が使えるようになった｡➡,I was able to use the sight of 8 years old.,0.19047619047619047
+<i>the Sharingan at age eight.</i>",８歳には写輪眼が使えるようになった｡➡,I was able to use the sight of 8 years old.,0.19047619047619047,0.42526028
 "<i>But, I've got the same Uchiha blood</i>
-<i>flowing inside me as he does.</i>",でも俺も兄さんと同じうちは一族の血が流れてるんだ｡➡,But I'm also the same way as my brother and my family's blood flows. ➡,0.20689655172413793
-<i>I won't lose to him!</i>,兄さんには負けない》,I do not lose to my brother,0.21428571428571427
+<i>flowing inside me as he does.</i>",でも俺も兄さんと同じうちは一族の血が流れてるんだ｡➡,But I'm also the same way as my brother and my family's blood flows. ➡,0.20689655172413796,0.5980722
+<i>I won't lose to him!</i>,兄さんには負けない》,I do not lose to my brother,0.21428571428571427,0.52351457
 "You boast about your Way of Ninja
-and this is all you've got?",この程度で忍道がどうとかほざいてたのか？,How about the 9th of this?,0.23529411764705882
+and this is all you've got?",この程度で忍道がどうとかほざいてたのか？,How about the 9th of this?,0.2352941176470588,0.16758263
 "Are you still thinking that
-I'm a member of your comrade game?",フンまだ俺を仲間ごっこの一員だと思ってんのか？,Hun still thinking that I am a member of a friend?,0.47058823529411764
-"If that's the case, you're...",だとしたらお前は➡,"If so, you are ➡",0.25
-Stop wasting time!,ハァ～！,Hua!,0.2
+I'm a member of your comrade game?",フンまだ俺を仲間ごっこの一員だと思ってんのか？,Hun still thinking that I am a member of a friend?,0.4705882352941176,0.4016192
+"If that's the case, you're...",だとしたらお前は➡,"If so, you are ➡",0.25,0.37158942
+Stop wasting time!,ハァ～！,Hua!,0.2,0.21592347
 "<i>Softly clutching forgotten memories</i>
-<i>Lost words</i>",♬色褪せた言葉は,Daddy Words,0.09090909090909091
-"Just as Neji said,",♬ただそれだけを,♬ I just,0.14285714285714285
+<i>Lost words</i>",♬色褪せた言葉は,Daddy Words,0.09090909090909093,0.33454782
+"Just as Neji said,",♬ただそれだけを,♬ I just,0.14285714285714285,0.32963276
 "Don't all those things we
-did together in Squad Seven",♬時のしずく,Shizuku when,0.0
+did together in Squad Seven",♬時のしずく,Shizuku when,0.0,0.14861624

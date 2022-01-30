@@ -1,225 +1,225 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "If we go over the time limit, \Nthey'll close the finish line.","制限時間をオーバーすると
 足切りされてしまうんだ","If you overload the time limit
-It's too fast",0.2
-That's true.,そうだなあ,That's right,0.4
-What'll we do? Is it because I was...,どうしよう　やっぱり私が…,What should I do?,0.3333333333333333
-We can easily catch up from here.,ここからなら 十分挽回できるって,If it can be enough to be carefully,0.07142857142857142
-"Huh? ""Pull"" me?",へ？　引くって,fart?Pull,0.2857142857142857
-"Ami, don't worry. Get ready.",亜美 大丈夫だから　準備しよう,"Ami okay, so let's prepare",0.15384615384615385
-We'll switch leads every 30 seconds.,先頭は30秒交代ね,The first is 30 seconds,0.18181818181818182
+It's too fast",0.2,0.5110964
+That's true.,そうだなあ,That's right,0.4,0.55962056
+What'll we do? Is it because I was...,どうしよう　やっぱり私が…,What should I do?,0.3333333333333333,0.2934495
+We can easily catch up from here.,ここからなら 十分挽回できるって,If it can be enough to be carefully,0.07142857142857142,0.16049708
+"Huh? ""Pull"" me?",へ？　引くって,fart?Pull,0.2857142857142857,0.53930163
+"Ami, don't worry. Get ready.",亜美 大丈夫だから　準備しよう,"Ami okay, so let's prepare",0.15384615384615385,0.7132023
+We'll switch leads every 30 seconds.,先頭は30秒交代ね,The first is 30 seconds,0.18181818181818185,0.45107582
 "Anyway, Ami, just stick close to us in the back.","とにかく亜美は うちらの後ろに
 ピッタリくっ付けばいいから","Anyway, Ami behind
-Because it should be perfect",0.16666666666666666
-I'm not that fast...,私 あんまり速くは…,I am so fast ...,0.375
+Because it should be perfect",0.16666666666666666,0.5480416
+I'm not that fast...,私 あんまり速くは…,I am so fast ...,0.375,0.80389905
 You'll be fine as long as you don't\N fall more than one meter behind.,"１メートル以上離れないようにすれば
 大丈夫だから","If you do not leave more than 1 meter
-Like I said, I'm fine",0.20833333333333334
-Okay!,よし　それじゃ 行くぞ！,Yoshi I'll go!,0.16666666666666666
-Episode 10,ううっ,Um,0.0
-The sound...,音が,sound,0.3333333333333333
-How come I can go this fast?,ひやー　何で私 こんなに速く走れるの？,Hey what you can run so fast?,0.23076923076923078
-It's like I'm being sucked forward.,何かに吸い込まれてるみたい,It seems that something is sucked in something,0.14285714285714285
-I'm not losing speed at all.,全然スピードが落ちない,Speed does not fall at all,0.4
-What is this?!,何これ,What's this,0.3333333333333333
-Wow! This is amazing!,すごい　すごい,Wow wow,0.2
-Are you okay?,大丈夫か？,Are you okay?,1.0
-I'm surprised I could follow at that speed.,そりゃ うちらが風よけになってるからな,That's because I'm going to be windy,0.2
-A windbreak?,風よけ？,Wind?,0.25
+Like I said, I'm fine",0.20833333333333331,0.62156665
+Okay!,よし　それじゃ 行くぞ！,Yoshi I'll go!,0.16666666666666666,0.30790803
+Episode 10,ううっ,Um,0.0,0.22874296
+The sound...,音が,sound,0.3333333333333333,0.74644923
+How come I can go this fast?,ひやー　何で私 こんなに速く走れるの？,Hey what you can run so fast?,0.2307692307692308,0.5236729
+It's like I'm being sucked forward.,何かに吸い込まれてるみたい,It seems that something is sucked in something,0.14285714285714285,0.44437763
+I'm not losing speed at all.,全然スピードが落ちない,Speed does not fall at all,0.4,0.5828647
+What is this?!,何これ,What's this,0.3333333333333333,0.6229371
+Wow! This is amazing!,すごい　すごい,Wow wow,0.2,0.58214134
+Are you okay?,大丈夫か？,Are you okay?,1.0,1.0000004
+I'm surprised I could follow at that speed.,そりゃ うちらが風よけになってるからな,That's because I'm going to be windy,0.2,0.22738664
+A windbreak?,風よけ？,Wind?,0.25,0.7744527
 "Have you ever heard the term ""slipstream""?","スリップストリームって
 聞いたことないか？","Slipstream
-Have you ever heard?",0.6
-"I've heard it, but...",聞いたことはあるけど,I have heard it,0.375
+Have you ever heard?",0.6,0.8184484
+"I've heard it, but...",聞いたことはあるけど,I have heard it,0.375,0.76528597
 It's a phenomenon that occurs\N behind a rapidly moving object.,"高速移動する物体の後ろに
 発生する現象のことなんだけど","Behind the object to move at high speed
-It is about the phenomenon that occurs",0.25
-"If the one in front becomes a windbreak,",要するに,in short,0.1
+It is about the phenomenon that occurs",0.25,0.8346686
+"If the one in front becomes a windbreak,",要するに,in short,0.1,0.10541111
 "it reduces the wind resistance for those in the back,\N so they can ride more comfortably.","前を走る奴が風よけになれば
 後ろは風の抵抗を最小限にして楽に走れるわけだ","If the guy who runs before is windy
-Behind can run the wind resistance and can run easily",0.13793103448275862
-I went so fast from just that?,それだけであんなに？,Is it only?,0.09090909090909091
-Yes!,はい！,Yes!,1.0
+Behind can run the wind resistance and can run easily",0.13793103448275862,0.4235635
+I went so fast from just that?,それだけであんなに？,Is it only?,0.09090909090909093,0.23840636
+Yes!,はい！,Yes!,1.0,1.0
 Slipstream.,"スリップストリーム　引いてくれるって
 そういうことだったんだ","Slipstream pulls
-That was such a thing",0.125
-Pull me along...,私のことを引いてくれる？,Will you pull me?,0.2857142857142857
+That was such a thing",0.125,0.69395167
+Pull me along...,私のことを引いてくれる？,Will you pull me?,0.2857142857142857,0.57860845
 "If I'm with everyone, I can go this fast.","１人じゃ無理でも 皆と一緒なら
 こんなに速く走れるんだ","If it is impossible in one person, together with everyone
-I can run so fast",0.35
-Or so I thought...,と 思ったけど,I thought,0.4
-I can't see me finishing.,終わりが見えない,I can not see the end,0.18181818181818182
-What should I do?!,どうすればいいですか？,What should I do?,0.8333333333333334
-Overcome it with pure grit and spirit!,気合と根性で頑張れ！,Good luck with spirit and nature!,0.36363636363636365
-But...!,うう ううー そんなあ！,Uh u u-yo!,0.16666666666666666
-Looks like rain.,ひと雨来そうですね,It looks like it's going to rain,0.375
-The wind is...,風が ふわー ほぎ,The wind is fluffy,0.6
-What's with this wind?!,何この風！,What kind of wind!,0.3333333333333333
-I'm not going forward at all!,全然 前に進めないーっ,I can not advance before,0.18181818181818182
-Ami!,亜美,Ami,0.5
-It's still hard!,真後ろに付いて　少しは楽だぞ,It's pretty easy to get right later,0.18181818181818182
-What kind of sick joke is this wind?,何の嫌がらせなの この風はーっ！,What's wrong with this wind!,0.23076923076923078
-"Hinako-san, Ami is...!",最後に上りってだけできついのに！,"Lastly, it is only possible to go up!",0.23076923076923078
-"Saki, slow down.",紗希 もうちょいペースダウン,Sai no no Misaki Pace Down,0.1111111111111111
-Time is up in 35 minutes. \NWe're going at about 10 kilometers per hour.,残り時間35分,Remaining time 35 minutes,0.17647058823529413
+I can run so fast",0.35,0.54520005
+Or so I thought...,と 思ったけど,I thought,0.4,0.53705424
+I can't see me finishing.,終わりが見えない,I can not see the end,0.18181818181818185,0.64322805
+What should I do?!,どうすればいいですか？,What should I do?,0.8333333333333334,0.81348413
+Overcome it with pure grit and spirit!,気合と根性で頑張れ！,Good luck with spirit and nature!,0.3636363636363637,0.42145774
+But...!,うう ううー そんなあ！,Uh u u-yo!,0.16666666666666666,0.21000615
+Looks like rain.,ひと雨来そうですね,It looks like it's going to rain,0.375,0.76101875
+The wind is...,風が ふわー ほぎ,The wind is fluffy,0.6,0.71334875
+What's with this wind?!,何この風！,What kind of wind!,0.3333333333333333,0.73698694
+I'm not going forward at all!,全然 前に進めないーっ,I can not advance before,0.18181818181818185,0.32066208
+Ami!,亜美,Ami,0.5,0.85190016
+It's still hard!,真後ろに付いて　少しは楽だぞ,It's pretty easy to get right later,0.18181818181818185,0.31330988
+What kind of sick joke is this wind?,何の嫌がらせなの この風はーっ！,What's wrong with this wind!,0.2307692307692308,0.68174547
+"Hinako-san, Ami is...!",最後に上りってだけできついのに！,"Lastly, it is only possible to go up!",0.2307692307692308,0.14141515
+"Saki, slow down.",紗希 もうちょいペースダウン,Sai no no Misaki Pace Down,0.1111111111111111,0.435333
+Time is up in 35 minutes. \NWe're going at about 10 kilometers per hour.,残り時間35分,Remaining time 35 minutes,0.17647058823529413,0.61872286
 We'll never finish at this pace!,"かといって これ以上ペースを上げるのは
 とても無理だし","But to raise the pace more than this
-It is very impossible",0.1111111111111111
-"At this rate, we won't be able to finish because of me.",あわっ,Won't,0.13333333333333333
-"Ami, are you okay?",亜美 大丈夫か？,Ami okay?,0.5
+It is very impossible",0.1111111111111111,0.5423213
+"At this rate, we won't be able to finish because of me.",あわっ,Won't,0.13333333333333333,0.25655347
+"Ami, are you okay?",亜美 大丈夫か？,Ami okay?,0.5,0.8080683
 P-Please go on ahead.,"あの さ 先に行ってください
 私はあとから行きますから","Please go ahead
-I will go after",0.2222222222222222
-What are you saying?,何言ってんだ？　お前,What are you saying?You,1.0
+I will go after",0.2222222222222222,0.6007628
+What are you saying?,何言ってんだ？　お前,What are you saying?You,1.0,0.8885767
 "If you stay with me, \Nnone of you will make it either.","だって私に合わせてたら
 皆まで間に合わなくなるし","Even if you meet me
-Everyone will not be in time",0.2
-That's impossible! I'm already at my limit.,そんなの無理ですよ　今でも限界なのに,It is impossible so much that it is still limit,0.1875
-"Ami, you're going to participate in a flèche, right?",亜美 フレッシュに出るんじゃないのか？,Aren't you going to Ami Fresh?,0.3333333333333333
-A flèche is a team event.,フレッシュはチーム走だからね,Fresh is because it is a team run,0.3
+Everyone will not be in time",0.2,0.316246
+That's impossible! I'm already at my limit.,そんなの無理ですよ　今でも限界なのに,It is impossible so much that it is still limit,0.1875,0.6438136
+"Ami, you're going to participate in a flèche, right?",亜美 フレッシュに出るんじゃないのか？,Aren't you going to Ami Fresh?,0.3333333333333333,0.3925421
+A flèche is a team event.,フレッシュはチーム走だからね,Fresh is because it is a team run,0.3,0.22942774
 "That's right, Ami. \NIf you give up now, it's over for the team.","そうだ 亜美　お前が諦めたら
 チームはそこで終わりだ","That's right if you give up
-The team is the end there",0.4
-Don't you think so?,そう思わない？,Can't you think so?,0.7142857142857143
-We're a team.,私たちはチームなんだ,We are a team,0.5
+The team is the end there",0.4,0.70679784
+Don't you think so?,そう思わない？,Can't you think so?,0.7142857142857143,0.8011432
+We're a team.,私たちはチームなんだ,We are a team,0.5,0.8501654
 "Let's ride together, \Nhave fun together, and finish together!","一緒に走って 一緒に楽しんで
 一緒にゴールしよう","Run together and enjoy together
-Let's go round together",0.2857142857142857
-Yes! I'll do my best!,はーい！　頑張りまーす！,Yes!I will do my best!,0.75
-My body is at its limit...,体力は限界だけど,My physical strength is the limit,0.3
-and they said it's fine if we don't make it in time...,間に合わなくてもいいって言ってたけど,I said that I didn't get in time,0.2222222222222222
-But...,でも,but,0.5
-I don't want to give up!,諦めたくない！,I do not want to give up!,0.7777777777777778
-I'm going to finish!,絶対完走するんだ！,I'm absolutely complete!,0.375
-The five-hour time limit is up... in three minutes!,はあ はあ 制限時間の５時間まで あと３分,Oh yes 3 minutes to 5 hours of time limit,0.16666666666666666
-I see it.,見えたぞ,I saw it,0.4
-That's the finish line!,もう ゴールどこ,Anymore anymore,0.0
-One last spurt!,ラストスパート,Last spurt,0.5
-I made it!,ううっ はあ はあ はあ…,"Uh, it is Ah!",0.25
-What's the time?!,じ 時間は？,What is the time?,0.5714285714285714
-I'm so sorry!,ごめんなさーい！,Sorry!,0.4
-we didn't finish...!,うっ ああっ ううっ…,Um ...,0.14285714285714285
+Let's go round together",0.2857142857142857,0.7096435
+Yes! I'll do my best!,はーい！　頑張りまーす！,Yes!I will do my best!,0.75,0.9697446
+My body is at its limit...,体力は限界だけど,My physical strength is the limit,0.3,0.6232133
+and they said it's fine if we don't make it in time...,間に合わなくてもいいって言ってたけど,I said that I didn't get in time,0.2222222222222222,0.47315085
+But...,でも,but,0.5,0.7223226
+I don't want to give up!,諦めたくない！,I do not want to give up!,0.7777777777777778,0.97282785
+I'm going to finish!,絶対完走するんだ！,I'm absolutely complete!,0.375,0.54804575
+The five-hour time limit is up... in three minutes!,はあ はあ 制限時間の５時間まで あと３分,Oh yes 3 minutes to 5 hours of time limit,0.16666666666666666,0.71380675
+I see it.,見えたぞ,I saw it,0.4,0.58436
+That's the finish line!,もう ゴールどこ,Anymore anymore,0.0,0.059087556
+One last spurt!,ラストスパート,Last spurt,0.5,0.86782485
+I made it!,ううっ はあ はあ はあ…,"Uh, it is Ah!",0.25,0.3393589
+What's the time?!,じ 時間は？,What is the time?,0.5714285714285714,0.81576824
+I'm so sorry!,ごめんなさーい！,Sorry!,0.4,0.5279433
+we didn't finish...!,うっ ああっ ううっ…,Um ...,0.14285714285714285,0.2269588
 What are you saying?\N We made it in the nick of time.,"何言ってんだ？
 時間ギリギリ間に合っただろ","What are you saying?
-It was in time to meet time",0.4444444444444444
-See?,え？,picture?,0.3333333333333333
-"Okay, it's 5 o'clock.",はい　ただ今５時になりました,Yes I'm now at 5 o'clock,0.16666666666666666
+It was in time to meet time",0.4444444444444444,0.55372506
+See?,え？,picture?,0.3333333333333333,0.3571717
+"Okay, it's 5 o'clock.",はい　ただ今５時になりました,Yes I'm now at 5 o'clock,0.16666666666666666,0.72550833
 Here are the finishers of the Azumino Autumn Ride!,"あづみのオータムライド
 完走者は以上で～す","Azumi's Autumn Ride
-The completed person is more than",0.1875
-Huh? But my watch says...,でも私の時計は,But my watch,0.42857142857142855
-The time is off.,GPSじゃないと たまにあるのよねえ,There is no GPS.,0.25
-So... I made it in time?,てことは えっと えっと？,Is it very well?,0.18181818181818182
-That means... um...,え？　あれ,picture? that,0.16666666666666666
-You finished 160 kilometers.,160キロ完走だ,160 km completely,0.14285714285714285
-I did it!,やったあー！,I did it!,1.0
-I... finished 160 kilometers.,私 160キロ完走できたんだ,I was able to run 160 kg,0.18181818181818182
+The completed person is more than",0.1875,0.72943056
+Huh? But my watch says...,でも私の時計は,But my watch,0.42857142857142855,0.71305543
+The time is off.,GPSじゃないと たまにあるのよねえ,There is no GPS.,0.25,0.21076545
+So... I made it in time?,てことは えっと えっと？,Is it very well?,0.18181818181818185,0.1596392
+That means... um...,え？　あれ,picture? that,0.16666666666666666,0.19670333
+You finished 160 kilometers.,160キロ完走だ,160 km completely,0.14285714285714285,0.7300205
+I did it!,やったあー！,I did it!,1.0,1.0000002
+I... finished 160 kilometers.,私 160キロ完走できたんだ,I was able to run 160 kg,0.18181818181818185,0.40157402
 "All right, the last finishers are \Nfive girls with matching jerseys.","おっと 最後の完走者は
 お揃いジャージの女子５人だ","Oops last complete person
-Five girls with matching jersey",0.2222222222222222
-What's the name of your team?,チーム名は何ていうの？,What is the team name?,0.5555555555555556
-Huh? Oh...,ほえ　う えーっと…,Hoh yeah ...,0.16666666666666666
-It's Team Fortuna.,チーム・フォルトゥーナです,Team Fortuna,0.4
-How was the Autumn Ride?,どうだった？　オータムライドは,how was it?Otome Ride,0.5
+Five girls with matching jersey",0.2222222222222222,0.7093795
+What's the name of your team?,チーム名は何ていうの？,What is the team name?,0.5555555555555556,0.8116776
+Huh? Oh...,ほえ　う えーっと…,Hoh yeah ...,0.16666666666666666,0.58887684
+It's Team Fortuna.,チーム・フォルトゥーナです,Team Fortuna,0.4,0.91116625
+How was the Autumn Ride?,どうだった？　オータムライドは,how was it?Otome Ride,0.5,0.7026713
 "Um... This was my first event, \Nand I wasn't sure if I could finish,","えっと　私 これが初めてで
 完走できるか不安だったんですけど","Well I am the first time
-I was anxious if I could finish",0.3
-"but because everyone encouraged me,\N I was able to hang in there.",皆が励ましてくれたから 頑張れました,I worked hard because everyone was encouraged,0.29411764705882354
-It's all thanks to my team!,このチームのおかげです！,Thanks to this team!,0.4444444444444444
-You have wonderful teammates. \NWhat's your next goal?,これからの目標はあるの？,Is there a goal from now on?,0.11764705882352941
+I was anxious if I could finish",0.3,0.58386624
+"but because everyone encouraged me,\N I was able to hang in there.",皆が励ましてくれたから 頑張れました,I worked hard because everyone was encouraged,0.29411764705882354,0.61405635
+It's all thanks to my team!,このチームのおかげです！,Thanks to this team!,0.4444444444444444,0.6796622
+You have wonderful teammates. \NWhat's your next goal?,これからの目標はあるの？,Is there a goal from now on?,0.1176470588235294,0.5746971
 I want to cycle to many more places with my friends.,"もっともっと
 皆といろんな所を走りたいです","more and more
-I want to run various places with everyone",0.4
-And...,そして,and,0.5
-"Okay, I'm taking a photo.",フレッシュに出るぞー！,I'm coming out!,0.18181818181818182
-"Team Fortuna, congratulations on your finish!",チーム・フォルトゥーナ 完走おめでとう,Congratulations on the team Fortuna,0.4444444444444444
-Cheers!,かんぱーい！,Kampa!,0.3333333333333333
+I want to run various places with everyone",0.4,0.51916295
+And...,そして,and,0.5,0.7608103
+"Okay, I'm taking a photo.",フレッシュに出るぞー！,I'm coming out!,0.18181818181818185,0.32532457
+"Team Fortuna, congratulations on your finish!",チーム・フォルトゥーナ 完走おめでとう,Congratulations on the team Fortuna,0.4444444444444444,0.86457413
+Cheers!,かんぱーい！,Kampa!,0.3333333333333333,0.23119977
 and eating with the team are totally different.,"チームの皆と完走した後に食べるご飯じゃ
 全然違うから","Eat after completing the team with everyone
-Because it is totally different",0.3125
-This is exceptional.,格別よね,It is exceptional,0.4
-"It all worked out, Ami.",んま そうだな,It looks like,0.1111111111111111
-We all finished...,良かったな 亜美　皆で一緒にゴー ル…,Good Ami everyone together ...,0.125
-And reserving an inn for the night was the right idea.,後泊で宿取っといて正解だな,It is the correct answer in the last night,0.11764705882352941
-Didn't expect her to pass out in the middle of a meal.,まさか飯の途中で力尽きるとは,It is going to be exhausted in the middle of rice,0.25
-Safe!,セーフ,safe,0.5
-"Nice catch, Saki-chan.",ナイスキャッチ 紗希ちゃん,Nice Catch Yuki-chan,0.3333333333333333
-Get a pillow and blanket.,枕と毛布 持ってきて,Have a pillow and a blanket,0.5714285714285714
-She fell asleep with her chopsticks and bowl in hand.,箸と茶碗 持ったままだね,It remains brought with chopsticks and teacups,0.2
-I don't think she'll wake up.,全然目を覚ましそうにないですね,I'm not waking up at all,0.14285714285714285
-We'll carry her to the room after we eat.,ご飯終わったら 部屋まで運ぼう,"If you have finished the meal, please follow the room",0.1111111111111111
-I finished!,完走したぞ,I'm finished,0.5
+Because it is totally different",0.3125,0.6999269
+This is exceptional.,格別よね,It is exceptional,0.4,0.75595677
+"It all worked out, Ami.",んま そうだな,It looks like,0.1111111111111111,0.17243606
+We all finished...,良かったな 亜美　皆で一緒にゴー ル…,Good Ami everyone together ...,0.125,0.44975236
+And reserving an inn for the night was the right idea.,後泊で宿取っといて正解だな,It is the correct answer in the last night,0.1176470588235294,0.28426126
+Didn't expect her to pass out in the middle of a meal.,まさか飯の途中で力尽きるとは,It is going to be exhausted in the middle of rice,0.25,0.34042555
+Safe!,セーフ,safe,0.5,0.8058057
+"Nice catch, Saki-chan.",ナイスキャッチ 紗希ちゃん,Nice Catch Yuki-chan,0.3333333333333333,0.66892207
+Get a pillow and blanket.,枕と毛布 持ってきて,Have a pillow and a blanket,0.5714285714285714,0.93898344
+She fell asleep with her chopsticks and bowl in hand.,箸と茶碗 持ったままだね,It remains brought with chopsticks and teacups,0.2,0.41539484
+I don't think she'll wake up.,全然目を覚ましそうにないですね,I'm not waking up at all,0.14285714285714285,0.5636754
+We'll carry her to the room after we eat.,ご飯終わったら 部屋まで運ぼう,"If you have finished the meal, please follow the room",0.1111111111111111,0.5253612
+I finished!,完走したぞ,I'm finished,0.5,0.749302
 She's crossing the finish even in her dream.,"アッハハ　夢の中でも
 ゴールしてるみたいだな","Even in Ahaha dream
-It seems to be a goal",0.17647058823529413
-She looks so happy.,ウフフ　幸せそう,Uhufu happy,0.16666666666666666
-"Good job, Ami.",お疲れ 亜美,Tired Ami,0.16666666666666666
-My whole body aches.,全身すごい筋肉痛だー,It is a great muscle pain whole body,0.18181818181818182
-"Onee-chan, are you okay?!",お姉ちゃん 大丈夫？,Older sister okay?,0.2222222222222222
-Muscle aches?,筋肉痛？,muscle pain?,0.5
-Yeah... it aches all over.,全然大丈夫に見えないんだけど,I can't see it all right,0.16666666666666666
-Emi!,うぎゃあー！,Uga!,0.3333333333333333
-"Sorry, sorry! I couldn't resist.",ごめん ごめん　つい,Sorry,0.125
-What's that?,何それ,What that,0.5
-This?,ふ これ？,Fu this?,0.6666666666666666
+It seems to be a goal",0.17647058823529413,0.4559223
+She looks so happy.,ウフフ　幸せそう,Uhufu happy,0.16666666666666666,0.48007426
+"Good job, Ami.",お疲れ 亜美,Tired Ami,0.16666666666666666,0.5293615
+My whole body aches.,全身すごい筋肉痛だー,It is a great muscle pain whole body,0.18181818181818185,0.57041657
+"Onee-chan, are you okay?!",お姉ちゃん 大丈夫？,Older sister okay?,0.2222222222222222,0.30472198
+Muscle aches?,筋肉痛？,muscle pain?,0.5,0.8641317
+Yeah... it aches all over.,全然大丈夫に見えないんだけど,I can't see it all right,0.16666666666666666,0.21249068
+Emi!,うぎゃあー！,Uga!,0.3333333333333333,0.3841951
+"Sorry, sorry! I couldn't resist.",ごめん ごめん　つい,Sorry,0.125,0.5670859
+What's that?,何それ,What that,0.5,0.536859
+This?,ふ これ？,Fu this?,0.6666666666666666,0.6224242
 A certificate of completion\N from the Azumino Autumn Ride.,"じゃーん　あづみのオータムライドの
 完走証明書だよ","Jaen Azumi's Autumn Ride
-It is a finish certificate",0.25
-160 kilometers?!,160キロ,160 km,0.2
-You really finished it.,本当に完走したんだね,I really finished running,0.2857142857142857
+It is a finish certificate",0.25,0.77070266
+160 kilometers?!,160キロ,160 km,0.2,0.8419971
+You really finished it.,本当に完走したんだね,I really finished running,0.2857142857142857,0.5616631
 So I managed to give it my all until the very end.,"皆が助けてくれて
 何とか最後まで頑張れたんだ","Everyone helps me
-I worked hard to the end somehow",0.21052631578947367
-What is it?,んん？　何？,? what?,0.5
-Will I be able to...,私も… あっ,I also ...,0.2857142857142857
-Hello?,もしもし,Hello,0.5
-Going out?,お出掛け？,Going out?,1.0
-I'm going shopping with friends.,これから友達と買い物なんだ,I'm shopping with my friends from now on,0.45454545454545453
-Yeah!,うん また後でねー,Yeah later,0.3333333333333333
-"Excuse me, I'm passing.",すいません 先行きまーす,I'm sorry I'm ahead,0.2222222222222222
-ride like that?,あんなふうに走ったのかな,I wonder if I ran like that,0.25
+I worked hard to the end somehow",0.21052631578947367,0.48757023
+What is it?,んん？　何？,? what?,0.5,0.36708862
+Will I be able to...,私も… あっ,I also ...,0.2857142857142857,0.18332914
+Hello?,もしもし,Hello,0.5,0.87478805
+Going out?,お出掛け？,Going out?,1.0,0.9999996
+I'm going shopping with friends.,これから友達と買い物なんだ,I'm shopping with my friends from now on,0.4545454545454545,0.82315797
+Yeah!,うん また後でねー,Yeah later,0.3333333333333333,0.47765929
+"Excuse me, I'm passing.",すいません 先行きまーす,I'm sorry I'm ahead,0.2222222222222222,0.39985365
+ride like that?,あんなふうに走ったのかな,I wonder if I ran like that,0.25,0.35644037
 "My big sister, who's such a klutz that she trips over nothing.","何にも無い所で転ぶ
 運動音痴のあのお姉ちゃんが","Fall in a place without any
-That sister of exercise noise",0.13043478260869565
-I can't picture it.,うーん 想像できない,Hmmm I can not imagine,0.1
-She looked so happy.,でも　すごく嬉しそうだったなー,But I was very happy,0.1111111111111111
-Huh? What's...?,ん？ あれ 何か…,Yeah?Something ...,0.2857142857142857
-Emi?,あれ？,that?,0.3333333333333333
-My bicycle has a flat...,自転車 パンクしちゃって,Bicycle punk,0.14285714285714285
-What should I do.,どうしよう,What should I do,0.8
-Should I fix it for you?,私が直してあげよっか,I'll fix it again,0.3333333333333333
+That sister of exercise noise",0.13043478260869565,0.34070274
+I can't picture it.,うーん 想像できない,Hmmm I can not imagine,0.1,0.3694981
+She looked so happy.,でも　すごく嬉しそうだったなー,But I was very happy,0.1111111111111111,0.53095055
+Huh? What's...?,ん？ あれ 何か…,Yeah?Something ...,0.2857142857142857,0.5347393
+Emi?,あれ？,that?,0.3333333333333333,0.2395646
+My bicycle has a flat...,自転車 パンクしちゃって,Bicycle punk,0.14285714285714285,0.35599488
+What should I do.,どうしよう,What should I do,0.8,0.8764506
+Should I fix it for you?,私が直してあげよっか,I'll fix it again,0.3333333333333333,0.6039565
 "First, you take this and this off.","まずは これとこれを取って
 これをこうすれば","First of all taking this
-If this is done",0.14285714285714285
-Then pull out the tube.,えっと チューブを引き出して,Pull out the tube,0.6666666666666666
-Huh? What is it?,ん？　何？,Yeah? what?,0.3333333333333333
-"Well, yeah...",ああ そうだね,Oh yeah,0.2
-It's complicated and I failed so many times.,色々大変だし いっぱい失敗もしたし,It's a lot of trouble and failed,0.2857142857142857
-But?,でも？,but?,1.0
+If this is done",0.14285714285714285,0.53779334
+Then pull out the tube.,えっと チューブを引き出して,Pull out the tube,0.6666666666666666,0.92957926
+Huh? What is it?,ん？　何？,Yeah? what?,0.3333333333333333,0.60545003
+"Well, yeah...",ああ そうだね,Oh yeah,0.2,0.39221948
+It's complicated and I failed so many times.,色々大変だし いっぱい失敗もしたし,It's a lot of trouble and failed,0.2857142857142857,0.57699215
+But?,でも？,but?,1.0,1.0000004
 "When you can do something\N you couldn't before, it's a great feeling.","できなかったことができるようになると
 やったあって気持ちになるし","When you can not do it
-I have done it and I feel it",0.23809523809523808
+I have done it and I feel it",0.2380952380952381,0.5915014
 "It's hard and complicated, \Nbut that's the fun part.","面倒くさいし大変なんだけど
 それが何か楽しいんだよね","I'm troublesome and it's a big deal
-That's fun",0.2777777777777778
+That's fun",0.2777777777777778,0.5100663
 The old you would never have tried something like this!,"前のお姉ちゃんだったら
 こういうのやろうともしなかった","If you were the previous sister
-She did not do something like this",0.2631578947368421
-You could be right.,フフフッ そうかもね,It may be Hofufu,0.125
-"I think it's okay, but...",大丈夫だと思うけど,I think it's okay,0.625
-All right! I did it!,わあ やったあー！　できたー！　アハハ,I did it!I was able to!Ahaha,0.4
+She did not do something like this",0.2631578947368421,0.30011034
+You could be right.,フフフッ そうかもね,It may be Hofufu,0.125,0.34460765
+"I think it's okay, but...",大丈夫だと思うけど,I think it's okay,0.625,0.8529945
+All right! I did it!,わあ やったあー！　できたー！　アハハ,I did it!I was able to!Ahaha,0.4,0.6462233
 It's okay. I had them go ahead.\N I can catch up to them at the department store.,"大丈夫　先に行ってもらったから
 お店で合流できるよ","Because I was asked to go ahead
-You can join in the shop",0.2
+You can join in the shop",0.2,0.44113392
 Then you'd better go. Be careful.,"あ じゃあ早く行かなきゃ
 気を付けて走ってね","Oh, I have to go early
-Be careful and run",0.1875
-Thanks.,ありがとね,Thanks dear,0.3333333333333333
-You're welcome!,どういたしまして,you're welcome,0.75
-Somehow I managed to complete the Autumn Ride!,オータムライド 何とか完走できました,Otome Ride somehow I was able to run,0.3076923076923077
-I'll cherish my certificate and photos with everyone forever!,皆の写真と完走証明書は 一生の宝物です,Everybody's photo and completion certificate are a lifetime treasure,0.10526315789473684
+Be careful and run",0.1875,0.47010013
+Thanks.,ありがとね,Thanks dear,0.3333333333333333,0.5582765
+You're welcome!,どういたしまして,you're welcome,0.75,0.8979785
+Somehow I managed to complete the Autumn Ride!,オータムライド 何とか完走できました,Otome Ride somehow I was able to run,0.3076923076923077,0.5459492
+I'll cherish my certificate and photos with everyone forever!,皆の写真と完走証明書は 一生の宝物です,Everybody's photo and completion certificate are a lifetime treasure,0.10526315789473684,0.6805503
 Emi was happy for me too. \NI wonder if I'm becoming a more reliable sister.,"恵美も喜んでくれて
 ちょっとはお姉さんっぽくなれたかなあ","Emi is also delighted
-I wonder if my sister is like a little",0.2608695652173913
+I wonder if my sister is like a little",0.2608695652173913,0.7817894
 "Next time on Long Riders: \N""The Moment the City Starts to Move.""","次回 ろんぐらいだぁす！
 「街が動き出す瞬間」","Next time I'm going!
-""The moment the city moves""",0.2857142857142857
+""The moment the city moves""",0.2857142857142857,0.66853577

@@ -1,437 +1,437 @@
-en_text,jp_text,google_translated,score
-Are you there?,（太一）そこにいるのか？,Are you there?,1.0
-Why are you calling me?,誰なんだ？　なぜ俺を呼ぶ,Who are you?Why call me,0.625
-I'll be waiting.,（謎の声）待ってる,I'm waiting,0.3333333333333333
-Huh?,えっ？,eh?,0.3333333333333333
-Waiting for what?,（謎の声）待ってるから,I'm waiting for you,0.2857142857142857
-Soon...,あっ ああ…,Oh Oh ...,0.3333333333333333
-"Two weeks ago,",（太一）２週間前―,2 weeks ago-,0.16666666666666666
+en_text,jp_text,google_translated,score,semantic_score
+Are you there?,（太一）そこにいるのか？,Are you there?,1.0,0.99999976
+Why are you calling me?,誰なんだ？　なぜ俺を呼ぶ,Who are you?Why call me,0.625,0.8019313
+I'll be waiting.,（謎の声）待ってる,I'm waiting,0.3333333333333333,0.77307963
+Huh?,えっ？,eh?,0.3333333333333333,0.71722126
+Waiting for what?,（謎の声）待ってるから,I'm waiting for you,0.2857142857142857,0.6170125
+Soon...,あっ ああ…,Oh Oh ...,0.3333333333333333,0.3314664
+"Two weeks ago,",（太一）２週間前―,2 weeks ago-,0.16666666666666666,0.91125697
 Rin and I returned to the town of Azpire.,"俺と凛(りん)は 再びアズパイアの街に
 戻ってきた","I and 凛  again to the city of Azpire again
-Returned",0.5384615384615384
+Returned",0.5384615384615384,0.6599938
 "And now,","そして今は
 Ｅランクの冒険者として―","And now
-As an E-rank adventurer-",0.2857142857142857
+As an E-rank adventurer-",0.2857142857142857,0.4003234
 "Once we got used to it, living in \Nthis other world wasn't so bad.","慣れてしまえば
 異世界での暮らしもそう悪くなく…","If you get used to it
-The lives in different worlds are not bad ...",0.18518518518518517
+The lives in different worlds are not bad ...",0.1851851851851852,0.7057765
 """Elistain Magic Kingdom lies in the \Nnorth of the western continent,","〝西大陸北部に
 ある― 〞","""In the northern part of Nishiten
-be- """,0.25
+be- """,0.25,0.36590543
 and possesses the world's \Nmost advanced magic.,"〝世界一 魔術が
 発達した国家である 〞","""The world's most sorcerer
-""Developed""",0.21428571428571427
+""Developed""",0.21428571428571427,0.40887344
 and roughly 80% of its citizens \Ncan wield basic magic.,"“国民の約８割が
 基礎魔術を扱えると言われている”","""About 80% of the people
-It is said that it can handle basic magic",0.22727272727272727
+It is said that it can handle basic magic",0.2272727272727273,0.6373625
 This vast population of magicians is \Nprecisely why Elistain Magic Kingdom,"“まさに この
 魔術師人口の多さに…”","""This exactly
-To the many of the magician population ... """,0.16666666666666666
+To the many of the magician population ... """,0.16666666666666666,0.60663
 "is counted as one of the three \Ngreat nations in this world.""","“世界三大国家にも
 数えられる―”","""Also in the world's three major states
-Count- """,0.2
+Count- """,0.2,0.70142454
 Studying first thing in the morning again?,"（太一）
-また朝から勉強か？",Are you studying again from morning?,0.36363636363636365
+また朝から勉強か？",Are you studying again from morning?,0.3636363636363637,0.75299525
 But the best thing about this world\Nis that we don't have to take any exams.,"この世界に来て一番いいことは
 試験がないってことなのに","The best thing to come to this world is
-Even though there is no test",0.2
+Even though there is no test",0.2,0.6743938
 "This country, huh?","この国のことも少しは
 知っておかなきゃ でしょ？","This country is a little
-Will you know?",0.2727272727272727
+Will you know?",0.2727272727272727,0.55915445
 "with the Holy Scatolith Empire \Nand the Gargen Empire, see?","シカトリス皇国 ガルゲン帝国との
 国境があるでしょう？","With the Chicatris Epidaries Gargen Empire
-Is there a border?",0.3125
+Is there a border?",0.3125,0.63618106
 So that's why this city has \Nprospered as an important location,"古来より
 エリステイン要衝の地として―","From ancient times
-As an elister of elistine co-pause-",0.10526315789473684
-for the exchange of goods and \Ninformation within Elistain.,だから人や物の交流が盛んで―,So the exchange of people and things is popular-,0.26666666666666666
-"Morning, Taichi.",（アルメダ）おはよう タイチ君,Good morning Tachi,0.16666666666666666
+As an elister of elistine co-pause-",0.10526315789473684,0.058720578
+for the exchange of goods and \Ninformation within Elistain.,だから人や物の交流が盛んで―,So the exchange of people and things is popular-,0.26666666666666666,0.36980706
+"Morning, Taichi.",（アルメダ）おはよう タイチ君,Good morning Tachi,0.16666666666666666,0.70760196
 I'll go fetch your breakfast now.,"（アルメダ）朝ごはん
 今すぐ持ってくるね","breakfast
-I will bring it now",0.2727272727272727
-You're sure to love today's soup.,今日のスープは絶品だよ！,Today's soup is excellent!,0.25
-They said this was for you and Rin.,タイチ君とリンさんにって,Taiki and Mr. Lynn,0.08333333333333333
-From the guild?,ギルドから？,From the guild?,1.0
-A summons?!,え？,picture?,0.2
+I will bring it now",0.2727272727272727,0.7285659
+You're sure to love today's soup.,今日のスープは絶品だよ！,Today's soup is excellent!,0.25,0.79731584
+They said this was for you and Rin.,タイチ君とリンさんにって,Taiki and Mr. Lynn,0.08333333333333333,0.19298309
+From the guild?,ギルドから？,From the guild?,1.0,1.0000001
+A summons?!,え？,picture?,0.2,0.14030266
 "We show up every day,","（太一）毎日 顔を出してるのに
 わざわざ召喚状までよこして―","I'm out of my face every day
-Towards Bao-to-Source-",0.14285714285714285
-Take this.,（マリエ）こちらを,here,0.0
-A work request?,仕事の依頼？,Request for work?,0.6
+Towards Bao-to-Source-",0.14285714285714285,0.26821545
+Take this.,（マリエ）こちらを,here,0.0,0.25016767
+A work request?,仕事の依頼？,Request for work?,0.6,0.90748155
 The job is to observe the \Ncustomers visiting that bar,"酒場に来る客の観察と
 バーテンダーへの聞き込み","Observation of customers coming to the bar
-Report to Bartender",0.2
-"The reward is seven silver,",報酬は銀貨７枚,Remuneration is 7 silver coins,0.2222222222222222
+Report to Bartender",0.2,0.64006853
+"The reward is seven silver,",報酬は銀貨７枚,Remuneration is 7 silver coins,0.2222222222222222,0.6977905
 "We heard news that, lately,\N goods stolen from shops and wagons","（ジェラード）近頃 商店や
 荷馬車から盗まれた品物が―","Court Store and
-Products stolen from the carer car-",0.15789473684210525
-are being smuggled into the city\Nthrough the slums.,密売者 転売先 物品の行方,Whereabouts of the deportee,0.09090909090909091
+Products stolen from the carer car-",0.15789473684210525,0.51625144
+are being smuggled into the city\Nthrough the slums.,密売者 転売先 物品の行方,Whereabouts of the deportee,0.09090909090909093,0.37791386
 You two will be looking for that information.,"お二人には
 それを探っていただきます","For two people
-I will explore it",0.23076923076923078
-But isn't this a job for D-Ranks?,けどこれ Ｄランク向けだぞ,But it is for D rank,0.25
+I will explore it",0.2307692307692308,0.32984984
+But isn't this a job for D-Ranks?,けどこれ Ｄランク向けだぞ,But it is for D rank,0.25,0.6956409
 "According to guild regulations,","本ギルドの規定によると
 パーティであれば―","According to the provisions of this guild
-If it is a party-",0.21428571428571427
+If it is a party-",0.21428571428571427,0.70752114
 it's possible for a party of adventurers\Nto accept a quest one rank above.,"１つ上のランクの依頼も
 請け負うことが可能です","Requests for one rank on one
-It can be contracted",0.21052631578947367
-Huh? It is?,（太一）えっ そうなのか？,Is it right?,0.6
+It can be contracted",0.21052631578947367,0.5256165
+Huh? It is?,（太一）えっ そうなのか？,Is it right?,0.6,0.40422451
 "Taichi, you didn't read the pamphlet \Nthey gave us at the start, did you?","太一 最初にもらったパンフレット
 ちゃんと読んでないでしょ","Brochure I got Taichi first
-I have not read it properly",0.09090909090909091
-Urk...,うっ…,Uey ...,0.3333333333333333
+I have not read it properly",0.09090909090909093,0.63818526
+Urk...,うっ…,Uey ...,0.3333333333333333,0.48703218
 So if another attempt fails...,"つまり
 次 失敗すれば…","in short
-If you fail ...",0.2
+If you fail ...",0.2,0.61639005
 and we'll have to pay the extra margin\Nto make up for our incorrect estimate.,"見積もりを誤ったギルドが
 差額を補償せねばならん","An incorrect estimate guild
-I have to compensate the difference",0.23809523809523808
+I have to compensate the difference",0.2380952380952381,0.40369526
 So you turned to us?\NI didn't think you'd be that stingy.,"それで俺たちにってか？
 意外とセコいな","So why are we?
-Surprisingly",0.10526315789473684
+Surprisingly",0.10526315789473684,0.26289064
 and your master even said common sense \Nwould turn tail and run at your strength.,"強さはお墨付きどころか
 常識が尻尾を巻いて逃げ出す強さ","Is the strength of the strength?
-Common sense wound tail and escape strength",0.25
-Lemiya said that?,レミーアさんが？,Mr. Lemia?,0.16666666666666666
+Common sense wound tail and escape strength",0.25,0.43943188
+Lemiya said that?,レミーアさんが？,Mr. Lemia?,0.16666666666666666,0.39034295
 Well? Will you take the job?,"（ジェラード）
-どうだ やってみるか？",How do you try?,0.2
-"If you succeed, you'll be promoted to D-Rank.",成功すればＤランクに昇格だぞ,"If you succeed, it will be promoted to D rank",0.5
+どうだ やってみるか？",How do you try?,0.2,0.22651972
+"If you succeed, you'll be promoted to D-Rank.",成功すればＤランクに昇格だぞ,"If you succeed, it will be promoted to D rank",0.5,0.9432089
 "Yeah, it was miserable starting out.","ああ 最初の頃は悲惨だったよな
 がれきの処理とかドブさらいとか","Oh, I was miserable when I was first
-Processing and dubs",0.2
-Yeah.,（凛）うん,Yeah,0.5
+Processing and dubs",0.2,0.46211115
+Yeah.,（凛）うん,Yeah,0.5,0.8708077
 "I've been following Lemiya's orders not to \Nuse physical enhancement outside of combat,","そういえば ここのところ
 働きづめだったもんね","Speaking of which, here
-I was able to work",0.18181818181818182
+I was able to work",0.18181818181818185,0.14065367
 and she was especially insistent \Nthat I keep it below level 30.,"しかも30までって
 くぎを刺されてるしさ","And 30
-I'm stabbed",0.2
-Can't blame her.,しかたないよ,I can't,0.3333333333333333
-"Oh, melila fruit!",あっ メリラの実だ！,It is the fruit of Merilla!,0.2
+I'm stabbed",0.2,0.2667868
+Can't blame her.,しかたないよ,I can't,0.3333333333333333,0.08396872
+"Oh, melila fruit!",あっ メリラの実だ！,It is the fruit of Merilla!,0.2,0.5347571
 "Excuse me, how much is that?","すみません
 それ いくらですか？","excuse me
-How much is it?",0.6666666666666666
+How much is it?",0.6666666666666666,0.87682503
 Hey there! It's one silver for three.,"メリラの実
 ３つで銀貨１枚だって","Merilla
-It is one silver coin with three",0.2857142857142857
-What's the matter?,どうかしたのか？,What happened?,0.3333333333333333
+It is one silver coin with three",0.2857142857142857,0.55809253
+What's the matter?,どうかしたのか？,What happened?,0.3333333333333333,0.29228994
 "That's about 10,000 yen, isn't it?","銀貨１枚って
 大体１万円ぐらいだろ？","One silver coin
-Is it about 10,000 yen, too?",0.5
-Yeah. It was half that just last week.,うん 先週はこの半値だったのに,Yeah last week was this half,0.5
-"But they're a staple product \Nin this town, aren't they?",けど 街の名産品だろ？,But is it a famous product of the city?,0.21052631578947367
+Is it about 10,000 yen, too?",0.5,0.7806935
+Yeah. It was half that just last week.,うん 先週はこの半値だったのに,Yeah last week was this half,0.5,0.84309286
+"But they're a staple product \Nin this town, aren't they?",けど 街の名産品だろ？,But is it a famous product of the city?,0.21052631578947367,0.42479935
 "Lately, there's been a sudden drop in the \Nnumber of wagons delivering food to the town.","（店主）ああ だが 仕入れようにも
 肝心の品物が全然入ってこないのさ","Oh, but also to stock
-It does not come in at all of the essence",0.1724137931034483
+It does not come in at all of the essence",0.1724137931034483,0.05655795
 there are scary rumors about how they're\Nbeing attacked by monsters on the way here.,"ここだけの話 街へ来る途中
 魔物に襲われてるんじゃないか…","On the way to the story of only here
-You're attacking the demon ...",0.16666666666666666
+You're attacking the demon ...",0.16666666666666666,0.4242926
 There's a shortage of most of the goods\Nyou'd find at the market.,"実はメリラだけじゃない
 今じゃ市場のほとんどが品不足だ","Actually not only Merilla
-Most of the market is lacking",0.21052631578947367
+Most of the market is lacking",0.21052631578947367,0.47437745
 I don't care if it's due to monsters or what.\NI just want this problem to go away.,"魔物だか何だか知らないが
 どうにかしてほしいもんだよ","I do not know what the demon
-I want you to do it",0.2
-"They're your favorite, right?",だって凛の好物だろ？,Because it is a favorite dish?,0.16666666666666666
-"They are, but...",うん そうだけど…,"Yeah, but ...",0.5
-He was already struggling anyway.,いいの？　高かったのに,okay?It was high,0.1
-"Rin, what are you thinking?",凛 今 何考えてる？,What are you thinking about?,0.625
-Probably the same thing you are.,たぶん 太一と同じこと,Maybe the same thing as Taichi,0.3
+I want you to do it",0.2,0.24716347
+"They're your favorite, right?",だって凛の好物だろ？,Because it is a favorite dish?,0.16666666666666666,0.34396625
+"They are, but...",うん そうだけど…,"Yeah, but ...",0.5,0.52238065
+He was already struggling anyway.,いいの？　高かったのに,okay?It was high,0.1,0.14518315
+"Rin, what are you thinking?",凛 今 何考えてる？,What are you thinking about?,0.625,0.561669
+Probably the same thing you are.,たぶん 太一と同じこと,Maybe the same thing as Taichi,0.3,0.2606957
 I think the rumors about wagons \Nbeing assaulted by monsters are true.,"（凛）荷馬車が魔物に襲われてる
 ってうわさ 本当だと思う？","Airler is attacked by the demon
-Do you think it is true?",0.19047619047619047
+Do you think it is true?",0.19047619047619047,0.37096268
 "Yeah, that was bothering me.","実際 困ってたし
 （凛）うん…","In fact, I was troubled
- Yeah ...",0.25
+ Yeah ...",0.25,0.29662868
 "If the stolen food is making \Nits way into the slums,","奪われた食料が
 スラムに流れてるとしたら","The food you have lost
-If it is flowing to the slum",0.2222222222222222
-"then that's connected to our quest, too.",だよな,that's right,0.18181818181818182
+If it is flowing to the slum",0.2222222222222222,0.6105531
+"then that's connected to our quest, too.",だよな,that's right,0.18181818181818185,0.18145671
 We need to be ready for this.,"俺たちが受けた依頼とも
 つながってくる","Also with the request we received
-Be connected",0.14285714285714285
+Be connected",0.14285714285714285,0.17757407
 Yeah. We're up against someone who \Nsent D-Rank adventurers packing twice.,"ああ Ｄランクの冒険者が
 二度もボコボコにされた相手だ","Oh, D-rank adventurer
-He is a partner who was bonolored twice",0.13636363636363635
+He is a partner who was bonolored twice",0.13636363636363635,0.52698237
 Though?,"けど…
 （凛）けど？","but…
-, Though?",0.5
-I don't feel like we'll lose.,負ける気 しねえよな,I will not lose,0.18181818181818182
-"Two ales, please.",（太一）えーっと エールを２つ,Eye all,0.0
+, Though?",0.5,0.7856182
+I don't feel like we'll lose.,負ける気 しねえよな,I will not lose,0.18181818181818185,0.5969866
+"Two ales, please.",（太一）えーっと エールを２つ,Eye all,0.0,0.1639005
 We don't carry such weak liquor.,"（バーテンダー）フッ
-そんな弱い酒はねえな",Such weak liquor is hey,0.3
-You can leave the young lady behind!,（男）だとよ！,!,0.125
-"Oh, well...",（男たち）んん…,...,0.25
-"Waters, then.",じゃあ 水で,Well then with water,0.14285714285714285
+そんな弱い酒はねえな",Such weak liquor is hey,0.3,0.6990448
+You can leave the young lady behind!,（男）だとよ！,!,0.125,0.25983828
+"Oh, well...",（男たち）んん…,...,0.25,0.44848502
+"Waters, then.",じゃあ 水で,Well then with water,0.14285714285714285,0.5604871
 "Still, I'm surprised you two dared \Nto show up here dressed like that.","にしても お前ら
 よくそんなナリでここまで来れたな","Even if you
-I often came here with such a nally",0.125
+I often came here with such a nally",0.125,0.24177127
 "Hmm, well, we're both idiots,\Nso we like this kind of atmosphere.","んー 俺たちバカだからさ
 こういう空気が好きなんだよ","Hm, because it is stupid
-I like this kind of air",0.23809523809523808
-And we know how to protect ourselves.,身の守り方くらい知ってるわ,I know how to protect myself,0.4
+I like this kind of air",0.2380952380952381,0.5458805
+And we know how to protect ourselves.,身の守り方くらい知ってるわ,I know how to protect myself,0.4,0.7151791
 "By the way, we heard some rumors.","ところで
 うわさで聞いたんだが","by the way
-I heard it",0.36363636363636365
+I heard it",0.3636363636363637,0.533834
 They say you can get some goods here \Nthat aren't circulating in the market?,"ここじゃ表で流れてない物が
 手に入るんだって？","Those who are not flowing here
-Do you get it?",0.22727272727272727
+Do you get it?",0.2272727272727273,0.28731358
 "You know, right?","知ってるでしょ？
 街の市場は今 品不足で困ってるの","Do you know?
-The city market is in trouble now",0.23076923076923078
+The city market is in trouble now",0.2307692307692308,0.17393753
 So we were thinking of doing \Nsome business ourselves.,"だから俺たち
 ひとつ商売しようと思ってさ","So we
-I'm thinking of doing one part",0.35714285714285715
-Even better if we can sell \Nthem cheaper than the market.,市場より安くすれば なおさらだ,"If it is cheaper than the market, it is even more",0.375
+I'm thinking of doing one part",0.35714285714285715,0.53984284
+Even better if we can sell \Nthem cheaper than the market.,市場より安くすれば なおさらだ,"If it is cheaper than the market, it is even more",0.375,0.6843789
 Don't. That's not something for \Namateurs to get involved in.,"うーん 映画とかだと大抵
 食いついてきてうまくいくんだけど","Hmmm Movie or something
-I'm going to eat it",0.09523809523809523
+I'm going to eat it",0.09523809523809523,0.045057032
 Fiction is fiction for a reason.,"まあフィクションだからな
 それに…","Well because it is fiction
-in addition…",0.18181818181818182
-Besides...,（男たち）へへへ…,To men ...,0.25
-This sucks.,こっちが 食いついてきたみたい,It seems that this is eaten,0.125
+in addition…",0.18181818181818185,0.85505337
+Besides...,（男たち）へへへ…,To men ...,0.25,0.3143031
+This sucks.,こっちが 食いついてきたみたい,It seems that this is eaten,0.125,0.18249579
 We were asked to do it \Nby some man we met here!,"（男）し… 知らねえよ
 ここで知り合った男に頼まれたんだ","... know knowing
-I was asked for a man I met here",0.21052631578947367
-He said he had a good job for us!,いい仕事があるって,There is a good job,0.2727272727272727
+I was asked for a man I met here",0.21052631578947367,0.5460005
+He said he had a good job for us!,いい仕事があるって,There is a good job,0.2727272727272727,0.5144141
 "Besides, by the time we went to \Nthe designated spot,","（男）酔ってたし
 いちいち名前なんか聞いてねえよ","drunk
-Listen to the name one by one",0.2
+Listen to the name one by one",0.2,0.06709073
 the attack had already taken place.,"（男）それに言われた場所に
 俺らが行った時にゃ―","In the place I was told
-When we went-",0.14285714285714285
-And where did you take it?,で どこに運んだ？,Where did you come?,0.5
+When we went-",0.14285714285714285,0.12554647
+And where did you take it?,で どこに運んだ？,Where did you come?,0.5,0.48612082
 Just to the entrance of the town!,"街の入り口まで
 その先は知らねえ","Until the entrance of the city
-I know that ahead",0.23076923076923078
+I know that ahead",0.2307692307692308,0.64535445
 "We just skimmed a bit off the top, is all!","ちいとばかし荷物を
 チョロまかしただけでさ","Chi and bump luggage
-Choro is just",0.11764705882352941
-We're not lying! Please believe us!,うそじゃねえ 信じてくれ,"Uba, believe",0.1
+Choro is just",0.1176470588235294,0.15822776
+We're not lying! Please believe us!,うそじゃねえ 信じてくれ,"Uba, believe",0.1,0.3220303
 It's true that this bar sold off\Nthe stolen goods these guys brought in.,"確かに そいつらが盗んだ物は
 この店でさばいた","Certainly the things that they stolen
-It was messed up at this store",0.16666666666666666
-That's the rule around here.,それが ここのルールだ,That's the rule here,0.7142857142857143
+It was messed up at this store",0.16666666666666666,0.5417736
+That's the rule around here.,それが ここのルールだ,That's the rule here,0.7142857142857143,0.88905525
 we didn't obtain much information.,"（凛）結局
 大した情報はなかったね","After all
-There was no big information",0.07692307692307693
+There was no big information",0.07692307692307693,0.70467263
 "Yeah. They didn't seem like they'd be able \Nto beat up D-Rank adventurers, either.","Ｄランクの冒険者をブチのめした
 連中にも見えなかったしな","I made a D-rank adventurer boch
-I did not see it",0.08
-Right?,だよね,right,0.5
+I did not see it",0.08,0.5601308
+Right?,だよね,right,0.5,0.7971954
 Yeah. They've followed us\Nsince we left the bar.,"（凛）うん
 店を出てからずっとだよね","Yeah
-It's been a long time since I left the store",0.15789473684210525
-Then...,（アサシン）うっ…,Uh ...,0.3333333333333333
-Got them!,かかった！,It took!,0.2
-Women?,女？,woman?,0.3333333333333333
-She's fast!,（太一）速い,fast,0.25
+It's been a long time since I left the store",0.15789473684210525,0.31356287
+Then...,（アサシン）うっ…,Uh ...,0.3333333333333333,0.5027481
+Got them!,かかった！,It took!,0.2,0.37523407
+Women?,女？,woman?,0.3333333333333333,0.9160117
+She's fast!,（太一）速い,fast,0.25,0.57840496
 This is not the time!,"にしても 相手が
 生身の人間ってのは…","But the other party
-What is a living person ...",0.14285714285714285
+What is a living person ...",0.14285714285714285,0.12713508
 "If we don't grab this opportunity,\N we won't complete the quest.","ここで何とかしなくちゃ
 依頼は完了しないでしょ","I have to do something here
-The request does not complete",0.13636363636363635
+The request does not complete",0.13636363636363635,0.37405518
 then they could be a good \Nsource of information.,"ヤツら自身が
 貴重な情報源になりうるってわけだ","Your himself
-It can be a valuable source of information",0.25
-That's great!,そいつは結構！　んっ！,That is pretty!!,0.3333333333333333
+It can be a valuable source of information",0.25,0.461525
+That's great!,そいつは結構！　んっ！,That is pretty!!,0.3333333333333333,0.44685552
 "Usually, I'd use enhancement level 10, but...","（太一）目的は敵の捕縛
 本来なら強化は10ってところだが…","purpose is enemies' capture
-In principle, strengthening is 10 but ...",0.2222222222222222
-Air Hammer!,（凛）エアハンマー！,Air hammer!,1.0
-Sorry.,（アサシン）うっ ぐっ…,I'm sorry ...,0.2
+In principle, strengthening is 10 but ...",0.2222222222222222,0.3114208
+Air Hammer!,（凛）エアハンマー！,Air hammer!,1.0,1.0000001
+Sorry.,（アサシン）うっ ぐっ…,I'm sorry ...,0.2,0.51747245
 "Hey! You there, the one acting like a \Ngeneral and making her subordinates fight!","よう！　下っ端に戦わせて
 大将気取りのお前！","NS!Let me fight at the bottom
-General Heavenly!",0.13043478260869565
-What will you do now?,形勢逆転だが どうする？,"What do you do, but what do you do?",0.5
-Taichi!,はっ 太一！,Hatta!,0.3333333333333333
+General Heavenly!",0.13043478260869565,0.427694
+What will you do now?,形勢逆転だが どうする？,"What do you do, but what do you do?",0.5,0.55422705
+Taichi!,はっ 太一！,Hatta!,0.3333333333333333,0.46288309
 Wind!,"（太一のせきこみ）
-（凛）風よ！",Wind!,1.0
-Looks like they got away.,逃げられたみたいね,It seems that it was rushed away,0.09090909090909091
-But we managed to capture one of them.,でも１人は確保できた,But one person was secured,0.16666666666666666
+（凛）風よ！",Wind!,1.0,1.0000005
+Looks like they got away.,逃げられたみたいね,It seems that it was rushed away,0.09090909090909093,0.4509606
+But we managed to capture one of them.,でも１人は確保できた,But one person was secured,0.16666666666666666,0.37235722
 These people were pretty strong.,"（凛）この人たち
 結構 強かったよね","This person
-It was quite strong",0.09090909090909091
+It was quite strong",0.09090909090909093,0.74947095
 Yeah. They were genuinely trying to kill us.,"（太一）ああ 本気で
 俺たちを殺しにきてた","Oh, seriously
-I came to kill us",0.21428571428571427
+I came to kill us",0.21428571428571427,0.58666575
 I guess they must be hired assassins.,"金で雇われた
 プロの殺し屋ってところかな","Be hired by gold
-Professional killing shop",0.15384615384615385
+Professional killing shop",0.15384615384615385,0.47073856
 Assassins?,"殺し屋!?
 じゃあ 私たちを脅して","Killer!?
-Then I threaten us",0.125
+Then I threaten us",0.125,0.32599884
 But for now...,"分からん
 でも とりあえずっと…","can not understand
-But for the time being ...",0.3
+But for the time being ...",0.3,0.3913063
 What shall we do?,"どうする？
 このままギルドに届ける？","what will you do?
-Can you deliver this guild as it is?",0.21428571428571427
+Can you deliver this guild as it is?",0.21428571428571427,0.2780361
 You awake?,"（ジェラード）気が付いたか？
 （アサシン）あっ！","Did you notice?
-!",0.3333333333333333
+!",0.3333333333333333,0.21837766
 Surprised to see you're still alive?,"（ジェラード）
-生きているのが不思議か？",Is it strange that you are alive?,0.23076923076923078
+生きているのが不思議か？",Is it strange that you are alive?,0.2307692307692308,0.6567695
 Normally an assassin who botches \Ntheir job has one of two choices:,"仕事をしくじったアサシンには
 通常２つの道しかない","For assassin who worked on
-Normally only two roads",0.2222222222222222
+Normally only two roads",0.2222222222222222,0.5587127
 "You were brought here in secret,\Nso your comrades won't be coming for you.","ここには秘密裏に運び込んだゆえ
 追っ手は来ない","It carets here secretly
-I can't see you",0.13636363636363635
+I can't see you",0.13636363636363635,0.29854226
 It's up to you to decide how to use\N your life now that you've been spared.,"（ジェラード）拾った命
 どう使うかはお前さん次第だ","I picked up
-How to use is up to you",0.2
-"Hey, look at that!",（冒険者）おい あれ見ろよ,Let's look at it,0.2222222222222222
-Welcome back.,（アルメダ）あっ おかえりなさい,Welcome back,0.6666666666666666
-You two have a guest.,２人にお客さん来てるよ,Customers come to two people,0.1
-A guest?,お客さん？,customer?,0.25
-It's been a while.,（ミューラ）久しぶりね,It's been a long time,0.5
-Myura!,（凛）ミューラ！,Mura!,0.3333333333333333
+How to use is up to you",0.2,0.45961344
+"Hey, look at that!",（冒険者）おい あれ見ろよ,Let's look at it,0.2222222222222222,0.4409629
+Welcome back.,（アルメダ）あっ おかえりなさい,Welcome back,0.6666666666666666,0.8967552
+You two have a guest.,２人にお客さん来てるよ,Customers come to two people,0.1,0.3099483
+A guest?,お客さん？,customer?,0.25,0.33283255
+It's been a while.,（ミューラ）久しぶりね,It's been a long time,0.5,0.80823785
+Myura!,（凛）ミューラ！,Mura!,0.3333333333333333,0.6371831
 I heard you were promoted to D-Rank.,"おめでとう
 Ｄランクに昇格したそうね","Congrats
-It seems to be promoted to D rank",0.14285714285714285
+It seems to be promoted to D rank",0.14285714285714285,0.7666692
 "I don't know how those are all connected, \Nbut that's concerning information.","どこがどうつながるか
 分からないけど 気になる情報ね","Where does it lead to
-I do not know but I'm worried about it",0.11538461538461539
+I do not know but I'm worried about it",0.1153846153846154,0.12564085
 "We left the assassin we captured and\N our information with the guild master,","ギルドマスターに
 お任せしてあるから","To the guild master
-Because I am allowed to leave",0.16666666666666666
+Because I am allowed to leave",0.16666666666666666,0.5904427
 "Last week we could buy three \Nmelila for one silver,","先週 銀貨１枚で３個買えたのが
 今はたったの１個だぜ？","I bought three for one silver coin last week
-Is it only one one now?",0.3157894736842105
+Is it only one one now?",0.3157894736842105,0.5884772
 "It's crazy for the price to \Ntriple in just a few days, right?","って言っても 街の物価は
 どんどん上がってるんだよな","Even if you say, the price of the city
-It's getting more and more",0.2
+It's getting more and more",0.2,0.27685833
 Sounds like the situation is \Nfar worse than I heard it was.,"伝え聞いていたより
 ずっと状況は深刻そうね","Rather than I heard
-The situation is becoming more serious",0.35294117647058826
-What do you mean?,どういうこと？,What do you mean?,1.0
+The situation is becoming more serious",0.35294117647058826,0.58259755
+What do you mean?,どういうこと？,What do you mean?,1.0,1.0000001
 I actually came to see you two today\Nabout forming a party.,"（ミューラ）実は今日
 ２人に会いに来たのは―","Actually today
-I came to see two people-",0.42857142857142855
-A party?,パーティ？,Party?,0.6666666666666666
+I came to see two people-",0.42857142857142855,0.6220086
+A party?,パーティ？,Party?,0.6666666666666666,0.9025884
 "Taichi, Rin, how do you feel \Nabout partying up with me?","タイチ リン
 私と組んで仕事する気はない？","Taichilin
-Aren't you going to work with me?",0.21052631578947367
+Aren't you going to work with me?",0.21052631578947367,0.5624178
 "The melilas in the northern forest\Nare ready for harvest,","最近 北の森で収穫期を迎えた
 メリラの実が","Recently harvested harvest season in the north forest
-Merilla's fruit",0.17647058823529413
+Merilla's fruit",0.17647058823529413,0.62310255
 but there have been a rash of incidents lately \Nwhere someone is stealing them.,"ええ しかも連中はかなり腕の立つ
 魔術師を護衛につけていて","Yeah and there is a pretty arm stand
-Magician is put for escort",0.125
+Magician is put for escort",0.125,0.116696045
 That's why the guild got a quest for it.,"ごっそり盗まれるという事件が
 頻発しているそうなの","Case that it is stolen
-It seems frequent",0.125
+It seems frequent",0.125,0.2059097
 "Also, to defeat the magician.","それでギルドに
 依頼が来たっていうわけだけど…","So to guild
-The request has come ...",0.15384615384615385
+The request has come ...",0.15384615384615385,0.24912417
 The reward's 500 silver.,"そして魔術師の撃退
 で 報酬は銀貨500枚","And the magician's repellent
-Reward is 500 pieces of silver coin",0.38461538461538464
-Wow!,500！,500!,0.3333333333333333
-But...,だけど…,However…,0.0
+Reward is 500 pieces of silver coin",0.38461538461538464,0.705169
+Wow!,500！,500!,0.3333333333333333,0.36070102
+But...,だけど…,However…,0.0,0.61680686
 I'm McGill.,"（マギル）冒険者の皆さんですね
 よく来てくださいました","Adventurer is everyone
-I came well",0.1111111111111111
-"Oh, thanks.",（太一）ああ どうも,Oh,0.25
+I came well",0.1111111111111111,0.13374332
+"Oh, thanks.",（太一）ああ どうも,Oh,0.25,0.5085354
 "Your patrols will start in the morning,","定例の巡回は
 朝 行いますが","Regular patrol
-I will do it in the morning",0.3076923076923077
+I will do it in the morning",0.3076923076923077,0.6573796
 "I'm Cassim, the one who filed \Nthe quest with the guild.","（カシム）私が
 ギルドに依頼したカシムです","I
-It is Kashim who requested the guild",0.23529411764705882
-"Oh, it's nothing.",（太一）ああ… あ いえ,Oh ... Oh,0.14285714285714285
+It is Kashim who requested the guild",0.2352941176470588,0.5705998
+"Oh, it's nothing.",（太一）ああ… あ いえ,Oh ... Oh,0.14285714285714285,0.52182287
 It's precious land that we've \Nprotected for generations.,"（ライテ）代々 守ってきた
 大切な土地だ","I have protected
-It is an important land",0.11764705882352941
+It is an important land",0.1176470588235294,0.57841736
 Cultivating melilas is extremely difficult.,"メリラは栽培が
 ことのほか難しくて…","Merilla is cultivated
-It is difficult and difficult to ...",0.16666666666666666
+It is difficult and difficult to ...",0.16666666666666666,0.47049668
 This is the one that got hit the other day.,"（マギル）先日
 被害に遭ったのがここです","the other day
-It is here that it was affected",0.35714285714285715
+It is here that it was affected",0.35714285714285715,0.40391374
 "The fruit had finally ripened, but...","ようやく次の実が
 出来てきましたが…","Finally the next fruit
-I have done it ...",0.3076923076923077
+I have done it ...",0.3076923076923077,0.6224502
 Rin?,"（凛）はっ
-（ミューラ）リン？",Lin?,0.3333333333333333
-Did you pick up something?,何か引っかかったのか？,Did you scratch something?,0.5714285714285714
-They're coming.,来る,come,0.0
-Please hold on.,待ってください,please wait,0.2
-No...,いや しかし…,"No, but ...",0.5
-What's approaching is something even bigger.,違う,different,0.0
-It's not human.,人ではない,Not a person,0.14285714285714285
-"Everyone, get behind me.",皆さんは私たちの後ろに,Everyone behind us,0.2857142857142857
+（ミューラ）リン？",Lin?,0.3333333333333333,0.3970474
+Did you pick up something?,何か引っかかったのか？,Did you scratch something?,0.5714285714285714,0.5682544
+They're coming.,来る,come,0.0,0.46349427
+Please hold on.,待ってください,please wait,0.2,0.49472
+No...,いや しかし…,"No, but ...",0.5,0.69710594
+What's approaching is something even bigger.,違う,different,0.0,0.0928433
+It's not human.,人ではない,Not a person,0.14285714285714285,0.5327544
+"Everyone, get behind me.",皆さんは私たちの後ろに,Everyone behind us,0.2857142857142857,0.70735705
 "If you think you're in danger,\N then please run.","危険を感じたら
 すぐに逃げてください","If you feel dangerous
-Please run away soon",0.25
-They're close!,来る 近いわ！,Close up soon!,0.3333333333333333
-What's that?!,何だ あれは！,What is it!,0.2857142857142857
+Please run away soon",0.25,0.7496836
+They're close!,来る 近いわ！,Close up soon!,0.3333333333333333,0.6000097
+What's that?!,何だ あれは！,What is it!,0.2857142857142857,0.54390365
 Orcs and an Ogre?!,"オーガとオーク！
 なぜこんなところに","Auger and oak!
-Why so far",0.18181818181818182
-Myura...,なっ…,...,0.5
-I'll take the big one.,（ミューラ）分かったわ,I understand,0.125
-You finish off the boars.,凛 守りは任せた,The protection of the 凛 was left,0.09090909090909091
-Understood!,はあっ！,What!,0.3333333333333333
-"Let's go, then!",それじゃあ いくわよ！,Well then!,0.2857142857142857
+Why so far",0.18181818181818185,0.32470277
+Myura...,なっ…,...,0.5,0.23274264
+I'll take the big one.,（ミューラ）分かったわ,I understand,0.125,0.16910313
+You finish off the boars.,凛 守りは任せた,The protection of the 凛 was left,0.09090909090909093,0.14237049
+Understood!,はあっ！,What!,0.3333333333333333,0.3249516
+"Let's go, then!",それじゃあ いくわよ！,Well then!,0.2857142857142857,0.49871525
 Will they really be okay?,"本当に大丈夫なんですか？
 エルフのお嬢さんはまだしも","Are you really okay?
-Elf's grandmother is still",0.23076923076923078
+Elf's grandmother is still",0.2307692307692308,0.36755478
 Don't worry.,"さっすが
 んじゃ こっちもやりますか","I'm sorry
-Do you also do this?",0.09090909090909091
+Do you also do this?",0.09090909090909093,0.24622026
 But he's facing that monster \Nwe've never even seen before.,"しかし 見たこともない
 あんな化け物と…","But I have never seen it
-Such a monster ...",0.21052631578947367
+Such a monster ...",0.21052631578947367,0.573498
 This guy's totally underestimating me.,"（太一）うわ 今 コイツ
 完全に俺をナメやがったな","Wow Now Koitsu
-I completely got me",0.07692307692307693
+I completely got me",0.07692307692307693,0.17163341
 "Let's go with enhancement to 30... no, 35, \Nand we'll settle this in one blow!","じゃあ 強化は30…
 いや 35にして一発で決める","Then strengthening is 30 ...
-It is not 35 and decided by one shot",0.13793103448275862
-"Here I come, you big oaf!",（太一）いくぜ デカブツ！,I'm going to be dear!,0.15384615384615385
+It is not 35 and decided by one shot",0.13793103448275862,0.5551455
+"Here I come, you big oaf!",（太一）いくぜ デカブツ！,I'm going to be dear!,0.15384615384615385,0.2846619
 "As you pointed out, Rin,","（ミューラ）ええ そう
 リンが指摘するとおり―","yeah
-As pointed out-",0.25
+As pointed out-",0.25,0.3542531
 Orcs and Ogres generally don't \Nlive in the northern forest.,"北の森は本来
 オークやオーガの生息地じゃないわ","North forest is originally
-It's not an oak and augal habitat",0.09090909090909091
+It's not an oak and augal habitat",0.09090909090909093,0.571774
 Which makes him the most suspicious.,"ってことは
 やっぱりアイツが怪しいな","What is
-After all Izu is suspicious",0.08333333333333333
-"Yeah, I think so.",（太一）ああ そんな気がする,"Oh, I feel such a feeling",0.18181818181818182
+After all Izu is suspicious",0.08333333333333333,0.3869441
+"Yeah, I think so.",（太一）ああ そんな気がする,"Oh, I feel such a feeling",0.18181818181818185,0.18805319
 "Taichi, Rin, it's still too early \Nto jump to conclusions right now.","つまり今日の襲撃自体
 仕組まれた可能性があるってこと？","In other words, today's raid itself
-Is it possible to work?",0.16
+Is it possible to work?",0.16,0.041125577
 how today's events are connected \Nto the melila thefts.,"メリラの盗難と今日のことが
 どうつながるかは","Merilla's theft and today
-What will lead to",0.1111111111111111
+What will lead to",0.1111111111111111,0.52776825
 What?,"（ミューラ）何？
 （太一）いや まあ…","What?
- Noho ...",0.5
-"Well, uh...",（太一）おお…,...,0.25
+ Noho ...",0.5,0.41002402
+"Well, uh...",（太一）おお…,...,0.25,0.5694514
 I'm just surprised you'd say something \Nso extreme with a straight face.,"ミューラったら 真面目な顔して
 結構 過激なこと言うんだ","If you mook, you have a serious face
-I say quite radical things",0.21739130434782608
+I say quite radical things",0.21739130434782608,0.5323998
 "you're implying we're going to \Nset our own trap for them, right?","こっちから
 仕掛けてやろうってことでしょ？","From here
-Do you want to try it?",0.14285714285714285
-I'm in!,乗った！,I got on!,0.3333333333333333
-"Me, too!",私も！,Me too!,0.75
-All right.,いいわ,Right on,0.25
+Do you want to try it?",0.14285714285714285,0.16483253
+I'm in!,乗った！,I got on!,0.3333333333333333,0.6314581
+"Me, too!",私も！,Me too!,0.75,0.8824857
+All right.,いいわ,Right on,0.25,0.5012941
 Let's show them what happens \Nwhen they underestimate us!,"私たちを侮ったらどうなるか
 目に物見せてやりましょう！","What happens if we scold
-Let's show you something in your eyes!",0.3157894736842105
-Good. Absorb.,よし 吸え,Sour,0.0
+Let's show you something in your eyes!",0.3157894736842105,0.47811365
+Good. Absorb.,よし 吸え,Sour,0.0,0.28800637
 Hmph. This should be enough to feed that.,"フッ アレに食わせるには
 これで十分だろう","To eat in Hofare
-This will be enough",0.3076923076923077
-But not yet...,だが 今はまだ…,But now it is still ...,0.25
+This will be enough",0.3076923076923077,0.47121283
+But not yet...,だが 今はまだ…,But now it is still ...,0.25,0.47599298
 The excitement can wait until tomorrow.,"お楽しみは明日
 待ってろ 冒険者ども","Fun is tomorrow
-Wait for adventurer",0.18181818181818182
-"Next episode: ""Crimson Pact.""",（凛）次回 「真紅の契約」,"Next time ""British contract""",0.2727272727272727
+Wait for adventurer",0.18181818181818185,0.580042
+"Next episode: ""Crimson Pact.""",（凛）次回 「真紅の契約」,"Next time ""British contract""",0.2727272727272727,0.3132065

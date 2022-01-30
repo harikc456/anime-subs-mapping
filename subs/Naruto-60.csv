@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.699969
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.623353
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.28524134
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.7599904
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.53727305
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.30791083
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522577
 Naruto!,"(ｻｸﾗ)
 ナルト！
 (
@@ -87,7 +87,7 @@ perfect
 Lately
  
 that person
-.",0.2857142857142857
+.",0.2857142857142857,0.7835357
 Hmm? Where's Sasuke?,"(ﾅﾙﾄ)
 あ？
  
@@ -99,7 +99,7 @@ Hmm? Where's Sasuke?,"(ﾅﾙﾄ)
  
 that?
  
-What is Sasuke?",0.2222222222222222
+What is Sasuke?",0.2222222222222222,0.8484758
 "The Dosu guy I'm supposed
 to fight isn't here, either.","(ｼｶﾏﾙ)
 俺とやる
@@ -108,7 +108,7 @@ to fight isn't here, either.","(ｼｶﾏﾙ)
 
 ","I will do it
 Dos is a guy too
-.",0.2
+.",0.2,0.41140175
 "Throw out your chests and
 show your faces to the spectators!","しゃんと胸張って
 しっかり客に顔見せしとけ
@@ -116,7 +116,7 @@ show your faces to the spectators!","しゃんと胸張って
 
 ","San and chest
 Customer to the customer
-.",0.2
+.",0.2,0.20394376
 "You guys are the stars
 of this ""final round""!","(ｹﾞﾝﾏ)
 この本選
@@ -127,7 +127,7 @@ of this ""final round""!","(ｹﾞﾝﾏ)
 ","This this selection
  
 You guys are the leading role
-.",0.3125
+.",0.3125,0.41981477
 "He might already be in
 the hands of Orochimaru...","もしかすると
 すでに大蛇丸の手に…
@@ -137,7 +137,7 @@ the hands of Orochimaru...","もしかすると
 ","perhaps
 Already in the hand of the big snake ...
 .
-➡",0.3125
+➡",0.3125,0.43987912
 "If that's the case,
 we may never find him.","そうなっていては
 もう見つけることは…
@@ -145,12 +145,12 @@ we may never find him.","そうなっていては
 
 ","That's why
 To find it already ...
-.",0.23529411764705882
+.",0.2352941176470588,0.34506524
 I understand.,"風影殿
 ｡
 
 ","Temple hall
-.",0.2
+.",0.2,0.094702765
 "Even though you're still young, it would
 probably be a tough journey for you","まだお若いとはいえ
 よそに
@@ -160,7 +160,7 @@ probably be a tough journey for you","まだお若いとはいえ
 ","Even though it is still young
 As well
  
-When I go to",0.22727272727272727
+When I go to",0.2272727272727273,0.55655134
 "I'm still planning on
 being Hokage for another five years...","まだ５年は
  
@@ -172,7 +172,7 @@ being Hokage for another five years...","まだ５年は
  
 Letting
 I think I'm thinking
-.",0.21052631578947367
+.",0.21052631578947367,0.4630394
 "Everyone, thank you very much
 for coming","誠にありがとうございます
 ｡
@@ -180,7 +180,7 @@ for coming","誠にありがとうございます
 
 ","Thank you very much
 .
-➡",0.4
+➡",0.4,0.31539157
 "for the eight who made it
 through the preliminaries!","これより
  
@@ -188,7 +188,7 @@ through the preliminaries!","これより
 
 ","Than this
  
-8 people who passed the qualifying",0.13333333333333333
+8 people who passed the qualifying",0.13333333333333333,0.40658274
 "If there are supposed to be eight,
 it looks like there's one missing.","１人
  
@@ -198,7 +198,7 @@ it looks like there's one missing.","１人
 ","One person
  
 It seems not to be enough
-.",0.2631578947368421
+.",0.2631578947368421,0.23972118
 "I have something to tell
 you before the match.","(ｹﾞﾝﾏ)
 試合前に
@@ -207,12 +207,12 @@ you before the match.","(ｹﾞﾝﾏ)
 
 ","Before the game
 I can say a little
-.",0.26666666666666666
+.",0.26666666666666666,0.55446553
 Look at this.,"これを見ろ
 ｡
 
 ","Look at this
-.",1.0
+.",1.0,1.0
 Huh?!,"あっ
 ｡
 (ｼｶﾏﾙ)
@@ -221,7 +221,7 @@ Huh?!,"あっ
 ","Ah
 .
 
-Yeah?",0.16666666666666666
+Yeah?",0.16666666666666666,0.6236496
 "There was a slight change
 to the tournament.","(ｹﾞﾝﾏ)
 少々
@@ -230,7 +230,7 @@ to the tournament.","(ｹﾞﾝﾏ)
 
 ","a little
 There was a change of tournament
-.",0.5454545454545454
+.",0.5454545454545454,0.93173647
 "Check who you'll be facing
 one more time.","自分が誰と当たるのか
 もう一度
@@ -242,7 +242,7 @@ one more time.","自分が誰と当たるのか
 once again
  
 Check
-.",0.2
+.",0.2,0.22062144
 "<i>Here, I had more preliminary</i>
 <i>matches than the others...</i>","(ｼｶﾏﾙ)
 《俺
@@ -261,7 +261,7 @@ Number of qualifiers
  
 Even though there were many ...
 .
-➡",0.10714285714285714
+➡",0.10714285714285714,0.3548486
 <i>I thought I'd pound you here...</i>,"(
 ドス
 )
@@ -277,7 +277,7 @@ Even though there were many ...
 here
 I think I will follow
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.34145162
 <i>W-What are you?!</i>,"(
 ドス
 )
@@ -291,17 +291,17 @@ I think I will follow
  
 You are
  
-Main ...>",0.4166666666666667
+Main ...>",0.4166666666666667,0.42220667
 ...say.,"あのさ…
 ｡
 
 ","That's ...
-.",0.4
+.",0.4,0.38438213
 What?,"あのさ！
 何だ？
 
 ","Ah!
-What?",0.5
+What?",0.5,0.59269166
 "<i>I wonder if Sasuke really did sneak out</i>
 <i>of the hospital room at that time.</i>","ホントに
 病室
@@ -311,12 +311,12 @@ What?",0.5
 ","Really
 Hospital room
  
-Did you get out?""",0.22727272727272727
+Did you get out?""",0.2272727272727273,0.46996227
 Something could've happened to him...,"《サスケ君の身に
 何かあったんじゃ…》
 
 ","""Sasuke's""
-Something happened ... """,0.2727272727272727
+Something happened ... """,0.2727272727272727,0.29684323
 "In case a competitor does not arrive
 by the start time of his match...","自分の試合の開始時間までに
 到着しなかった場合…
@@ -324,7 +324,7 @@ by the start time of his match...","自分の試合の開始時間までに
 
 ","By the start time of your own game
 If you did not arrive ...
-.",0.36363636363636365
+.",0.3636363636363637,0.41475442
 "<i>Knowing his character,</i>
 <i>he'd come even if he had to drag himself.</i>","体
  
@@ -334,7 +334,7 @@ If you did not arrive ...
 ","body
  
 Even if it is dragged
-I should come ... """,0.16666666666666666
+I should come ... """,0.16666666666666666,0.5124683
 "<i>Where are you going, Gaara?</i>","(
 バキ
 )
@@ -344,14 +344,14 @@ I should come ... """,0.16666666666666666
 
 ","<Where are you going?
  
-Gora>",0.5833333333333334
+Gora>",0.5833333333333334,0.59803534
 "<i>To verify my existence...</i>
 <i>one more time.</i>","(
 我愛羅
 )
 ＜俺の存在を確かめに行く＞
 
-",<Go to check my existence>,0.35714285714285715
+",<Go to check my existence>,0.35714285714285715,0.7141106
 <i>Sasuke! Come on!</i>,"(ｶｶｼ)
 ＜サスケ！
  
@@ -359,7 +359,7 @@ Gora>",0.5833333333333334
 
 ","<Sasuke!
  
-let's go!>",0.36363636363636365
+let's go!>",0.3636363636363637,0.91307443
 <i>Could it be...?</i>,"(ｻｽｹ)
 ＜ハァ
  
@@ -371,7 +371,7 @@ let's go!>",0.36363636363636365
  
 Han
  
-Hua ...>",0.2727272727272727
+Hua ...>",0.2727272727272727,0.23462763
 "The terrain is different,
 but the rule is that there are no rules,","いいか
  
@@ -381,7 +381,7 @@ but the rule is that there are no rules,","いいか
 ","Good
  
 Fancy
-Terrain is different but",0.2857142857142857
+Terrain is different but",0.2857142857142857,0.6045004
 "the same as
 in the preliminaries.","予選と同じで
  
@@ -395,7 +395,7 @@ in the preliminaries.","予選と同じで
 No rules
 It is a rule
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.29508835
 "The matches will continue until one
 or the other dies, or acknowledges defeat.","勝負は
  
@@ -407,7 +407,7 @@ or the other dies, or acknowledges defeat.","勝負は
  
 Which one will die
 It is until you admit that
-.",0.22727272727272727
+.",0.2272727272727273,0.5260016
 "However, if I judge that it has been settled,
 I'll stop the match there.","ただし
  
@@ -417,26 +417,26 @@ I'll stop the match there.","ただし
 ","However
  
 When I settle up
-If you decide,",0.19047619047619047
+If you decide,",0.19047619047619047,0.4901601
 Arguments will not be allowed.,"反論は許さない
 ｡
 ➡
 
 ","I do not forgive
 .
-➡",0.2
+➡",0.2,0.10535325
 Understood?,"分かったな？
 
-",Did you understand?,0.2
+",Did you understand?,0.2,0.653864
 So the first match is...,"(ｹﾞﾝﾏ)
 それじゃ１回戦は➡
 
-",Then the first round is,0.375
+",Then the first round is,0.375,0.51853454
 Naruto Uzumaki.,"うずまきナルト…
 ｡
 
 ","Uzumaki Naruto…
-.",0.5
+.",0.5,0.96982086
 "Just those two remain and
 the rest of you go to the waiting room.","その２人だけ残して
 ほかは控え室まで下がれ
@@ -444,7 +444,7 @@ the rest of you go to the waiting room.","その２人だけ残して
 
 ","Only two people left
 In addition, the restoration room is lowered
-.",0.17391304347826086
+.",0.17391304347826084,0.42229816
 "Hey, Hinata! These seats are open.","(
 キバ
 )
@@ -460,29 +460,29 @@ In addition, the restoration room is lowered
 Hinata
  
 Here is an empty
-.",0.14285714285714285
+.",0.14285714285714285,0.47872624
 Uh huh.,"(ﾋﾅﾀ)
 うん
 ｡
 
 ","Yes
-.",0.25
+.",0.25,0.51335526
 <i>Naruto...</i>,"(ﾋﾅﾀ)
 《ナルト君…》
 
-","""Naruto ...""",0.25
+","""Naruto ...""",0.25,0.8032466
 "I understand that you're worried
 about Sasuke.","サスケ君が心配なのは
 分かるけど➡
 
 ","Sasuke is worrying about
-I understand, but",0.3076923076923077
+I understand, but",0.3076923076923077,0.941537
 "But why don't you cheer
 for Naruto at least a little bit?","ちょっとぐらい
 ナルトの応援もしてあげたら？
 
 ","A little
-Should I support Naruto?",0.23529411764705882
+Should I support Naruto?",0.2352941176470588,0.7037982
 That is...!,"そんなこと…！
 (
 いの
@@ -491,7 +491,7 @@ That is...!,"そんなこと…！
 
 ","That kind of thing…!
 
-Do you say that?",0.18181818181818182
+Do you say that?",0.18181818181818185,0.32637805
 "I wonder if this is
 as far as it goes","っていっても
  
@@ -499,19 +499,19 @@ as far as it goes","っていっても
 
 ","Even if
  
-The other party is screw",0.14285714285714285
+The other party is screw",0.14285714285714285,0.13503194
 That Naruto.,"あのナルトってヤツ
 ｡
 
 ","That Naruto guy
-.",0.75
+.",0.75,0.8778769
 This is not a good opponent at all.,"相手が悪すぎる
 ｡
 ➡
 
 ","The other party is too bad
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.32361123
 "No matter how you look at it,
 he can't beat the Hyuga clan.","日向一族には
 いくら何でも勝てねえよ
@@ -519,7 +519,7 @@ he can't beat the Hyuga clan.","日向一族には
 
 ","For Hiragata
 How much can you win
-.",0.14285714285714285
+.",0.14285714285714285,0.3412001
 "<i>Well, that's what I thought</i>
 <i>at the beginning...</i>","(
 キバ
@@ -532,7 +532,7 @@ How much can you win
 ","""Well
 At first I also
  
-I thought so, but",0.2631578947368421
+I thought so, but",0.2631578947368421,0.3731902
 "<i>But you'll all be surprised</i>
 <i>if you underestimate him.</i>","あいつをナメてると
 びっくりするぜ
@@ -542,20 +542,20 @@ I thought so, but",0.2631578947368421
 ","When I'm looking for
 I'm surprised
  
-Everyone.",0.10526315789473684
+Everyone.",0.10526315789473684,0.26625377
 What?! Where?!,"(
 キバ
 )
 どこだ？
 
-",Where's?,0.4
+",Where's?,0.4,0.48395613
 <i>Is something going on...?</i>,"何か
  
 あんのか？》
 
 ","something
  
-Is it an anchor?""",0.21428571428571427
+Is it an anchor?""",0.21428571428571427,0.23031327
 "You seem like you want
 to say something","(
 ネジ
@@ -564,20 +564,20 @@ to say something","(
 ｡
 
 ","I said something to say
-.",0.3
+.",0.3,0.5466485
 "I said it before, too, didn't I?","前にも言ったろ！
 
-",I said before!,0.3
+",I said before!,0.3,0.59445083
 <i>I promise...</i>,"＜約束するってばよ＞
 
-",<If you promise>,0.375
+",<If you promise>,0.375,0.7950363
 "I'll win, no matter what!","絶対
  
 勝つ！
 
 ","absolutely
  
-win!",0.2222222222222222
+win!",0.2222222222222222,0.65279424
 "That makes it
 more worthwhile for me.","(
 ネジ
@@ -592,29 +592,29 @@ more worthwhile for me.","(
 That is
  
 There is a problem
-.",0.14285714285714285
+.",0.14285714285714285,0.12714976
 "I look forward to your look
 of disappointment...","楽しみだ
 ｡
 
 ","I'm looking forward
-.",0.18181818181818182
+.",0.18181818181818185,0.4946332
 when you know the true reality...,"本当の現実を知ったとき➡
 
-",When you know the real reality ➡,0.5555555555555556
+",When you know the real reality ➡,0.5555555555555556,0.87880796
 Let's... get started!,"始めようぜ！
 
-",Let's start it!,0.375
+",Let's start it!,0.375,0.74521947
 "Now then, round one.","では
  
 第１回戦➡
 
 ","In
  
-First round",0.125
+First round",0.125,0.360068
 Begin!,"始め！
 
-",start!,0.3333333333333333
+",start!,0.3333333333333333,0.8852049
 "Watch carefully, Hanabi.","(ﾋｱｼ)
 よく見ておけ
  
@@ -626,7 +626,7 @@ Begin!,"始め！
  
 Huntic
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.3200815
 "Nobody has inherited such
 a strong Hyuga Kekkei Genkai.","あれほど色濃く
 受け継いでいる者もおらん
@@ -636,12 +636,12 @@ a strong Hyuga Kekkei Genkai.","あれほど色濃く
 ","It is so colored
 Someone who is inherited
 .
-➡",0.11764705882352941
+➡",0.1176470588235294,0.3234526
 To say nothing of your older sister.,"お前の姉は言うに及ばず
 ｡
 
 ","If your sister says
-.",0.3
+.",0.3,0.56650114
 More than big sister?,"(ﾊﾅﾋﾞ)
 ん？
  
@@ -649,7 +649,7 @@ More than big sister?,"(ﾊﾅﾋﾞ)
 
 ","Yeah?
  
-From my sister?",0.25
+From my sister?",0.25,0.50118244
 "Perhaps more than you, too.","(ﾋｱｼ)
 恐らく
  
@@ -665,7 +665,7 @@ It's better than you
 .
 
 eh
-.",0.36363636363636365
+.",0.3636363636363637,0.6177721
 "<i>This time, it's not an opponent</i>
 <i>that can be managed easily.</i>","(
 キバ
@@ -682,7 +682,7 @@ eh
 In
 It's not a partner
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.20349166
 <i>Close combat is no good...</i>,"(
 キバ
 )
@@ -692,41 +692,41 @@ It's not a partner
 
 ","""The close match is no good
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.50871456
 <i>Does Naruto know that?</i>,"ナルトのヤツ
  
 分かってんのか？》
 
 ","Naruto guy
  
-Do you understand?""",0.14285714285714285
+Do you understand?""",0.14285714285714285,0.7845737
 "Idiot! Why would anyone
 attack from the front?!","バカ！
 正面から行くヤツがあるか！
 
 ","fool!
-Is there a guy going from the front?",0.3125
+Is there a guy going from the front?",0.3125,0.43529436
 No! Naruto.,"ダメ！
  
 ナルト！
 
 ","No good! 
  
- Naruto!",0.6
+ Naruto!",0.6,0.8247146
 "The opponent can see
 your Chakra Points!","相手には点穴が見えるのよ！
 
-",You can see the point holes for the other party!,0.2857142857142857
+",You can see the point holes for the other party!,0.2857142857142857,0.45526442
 "<i>the flow of an opponent's Chakra</i>
 <i>can be stopped,</i>","相手のチャクラの流れを止めたり
 増幅させたり➡
 
 ","Stop the flow of the opponent's chakra
-Amplify or",0.3333333333333333
+Amplify or",0.3333333333333333,0.80078113
 <i>Uh oh!</i>,"(ﾋﾅﾀ)
 ＜がっ！＞
 
-",<<>,0.2857142857142857
+",<<>,0.2857142857142857,0.6462414
 "<i>In other words, he'll press</i>
 <i>the pressure point if I get too close</i>","《つまり
  
@@ -734,13 +734,13 @@ Amplify or",0.3333333333333333
 
 ","""in short
  
-If it gets too close",0.18181818181818182
+If it gets too close",0.18181818181818185,0.35158202
 "<i>That means all I can do</i>
 <i>is fight from a distance.</i>","距離を取って戦うしかねえ
 ってことだろ》
 
 ","Take a distance and fight
-That's why",0.15789473684210525
+That's why",0.15789473684210525,0.6491412
 "You understand, right?
 You have no way of winning.","(
 ネジ
@@ -751,22 +751,22 @@ You have no way of winning.","(
 
 ","Did you understand?
 There is no win in you
-.",0.3125
+.",0.3125,0.7532991
 Heh... All I did was to verify your power.,"お前の力を確かめただけだ
 ｡
 
 ","I just check your power
-.",0.3076923076923077
+.",0.3076923076923077,0.7282673
 The real fight is just getting started!,"本当の戦いは
 これからだってばよ
 ｡
 
 ","The real battle is
 It's because of this
-.",0.2
+.",0.2,0.56777835
 Shadow Clone Jutsu!,"影分身の術！
 
-",Shadow Subordination!,0.4
+",Shadow Subordination!,0.4,0.55195224
 "<i>You used your head,</i>
 <i>didn't you, Naruto?!</i>","《考えたわね
  
@@ -778,7 +778,7 @@ Shadow Clone Jutsu!,"影分身の術！
  
 Naruto
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.72935337
 Heh. He's an interesting kid.,"フッ
  
 おもしろいヤツだ
@@ -787,27 +787,27 @@ Heh. He's an interesting kid.,"フッ
 ","Hook
  
 It is an interesting guy
-.",0.2727272727272727
+.",0.2727272727272727,0.3980565
 "Shadow Clone Jutsu is
 a Jonin level technique.","影分身は上忍レベルの術だぞ
 ｡
 
 ","Your shadow body is a surgery of Uchobu Level
-.",0.35714285714285715
+.",0.35714285714285715,0.45725247
 "To think he could use
 such a Jutsu...","影分身なら…》
 
-",If you have a shadow ...,0.15384615384615385
+",If you have a shadow ...,0.15384615384615385,0.21459216
 "<i>I get it. If Chakra is evenly distributed</i>
 <i>among the clones,</i>","チャクラが分身のどれにも
 等しく分配されれば➡
 
 ","Cakura is everything
-If distributed equal",0.15789473684210525
+If distributed equal",0.15789473684210525,0.33184636
 "<i>indeed, I can't detect the</i>
 <i>real one even with my Byakugan.</i>","この白眼をもってしても➡
 
-",Even with this grade,0.1111111111111111
+",Even with this grade,0.1111111111111111,0.065899655
 "But there's only one real one,
 after all!","だが
  
@@ -821,40 +821,40 @@ after all!","だが
 Shy
  
 One main unit
-.",0.14285714285714285
+.",0.14285714285714285,0.30948114
 "If you're going to come,
 then come.","来るなら来ればいい
 ｡
 
 ","You should come if it comes
-.",0.3333333333333333
+.",0.3333333333333333,0.78167856
 It's pointless.,"なるほど
 ｡
 ➡
 
 ","So that's it
 .
-➡",0.42857142857142855
+➡",0.42857142857142855,0.15885802
 "In front of that Neji's defense,
 it's not just all attacking.","攻めるばっかりじゃないのよ
 ｡
 
 ","It's not just attacking
-.",0.42857142857142855
+.",0.42857142857142855,0.6846224
 Hey!,"ん！
 
-",Hmm!,0.3333333333333333
+",Hmm!,0.3333333333333333,0.47881305
 <i>Here they come!</i>,"(
 ネジ
 )
 《来る！》
 
-","""come!""",0.2
+","""come!""",0.2,0.5079101
 Fool.,"バカね
 ｡
 
 ","idiot
-.",0.3333333333333333
+.",0.3333333333333333,0.54762465
 I'll get you next time!,"クソ～
  
 次は
@@ -865,16 +865,16 @@ I'll get you next time!,"クソ～
  
 next
  
-I will do it!",0.25
+I will do it!",0.25,0.43189937
 Here!,"ここだ！
 
-",here!,1.0
+",here!,1.0,1.0
 This guy...,"こいつ➡
 
-",This guy,0.6666666666666666
+",This guy,0.6666666666666666,0.75907207
 Does he have eyes behind him?,"後ろにも目があんのか？
 
-",Is the eye behind or eyes?,0.2727272727272727
+",Is the eye behind or eyes?,0.2727272727272727,0.68827987
 "With this level, it's impossible.","これじゃ
  
 無理だな
@@ -883,7 +883,7 @@ Does he have eyes behind him?,"後ろにも目があんのか？
 ","In this case
  
 That's impossible
-.",0.36363636363636365
+.",0.3636363636363637,0.6877217
 "I can generally tell
 with these eyes...","(
 ネジ
@@ -900,18 +900,18 @@ with these eyes...","(
 I understand
 With this eye
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.57955843
 "Figuratively speaking,
 everything inherent about people is set.","すべてが決まっているんだよ
 ｡
 
 ","Everything is decided
-.",0.2727272727272727
+.",0.2727272727272727,0.35092852
 Why...?,"くっ…
 ｡
 
 ","...
-.",0.25
+.",0.25,0.4635602
 "Why are you always so
 judgmental like that?","何で
  
@@ -919,18 +919,18 @@ judgmental like that?","何で
 
 ","why
  
-I am always",0.18181818181818182
+I am always",0.18181818181818185,0.40855905
 "Then... are you going to say
 that anybody can become the Hokage...","火影になれるとでもいうのか？
 
-",Do you say that you can be fired?,0.23529411764705882
+",Do you say that you can be fired?,0.2352941176470588,0.21145083
 Look more at reality!,"もっと現実を見ろ
 ｡
 ➡
 
 ","See more reality
 .
-➡",0.25
+➡",0.25,0.74631524
 "Those who become the Hokage
 are born with a destiny.","火影になる者は
 そういう運命で生まれてくる
@@ -940,13 +940,13 @@ are born with a destiny.","火影になる者は
 ","Those who will fire
 He is born in such fate
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.48034772
 "It's not something you become
 by trying to become it.","なろうとして
 なれるものではなく➡
 
 ","As if
-It is not something that can be",0.1875
+It is not something that can be",0.1875,0.39010835
 that can't be defied.,"運命で
 そう決められているんだよ
 ｡
@@ -955,7 +955,7 @@ that can't be defied.,"運命で
 ","Fate
 That's right
 .
-➡",0.2
+➡",0.2,0.12334702
 "The one single...
 destiny everyone has equally...","(
 ネジ
@@ -966,7 +966,7 @@ destiny everyone has equally...","(
 
 ","Everyone has equal
 What is the destiny ...
-.",0.4166666666666667
+.",0.4166666666666667,0.57894015
 ...is death.,"(
 ネジ
 )
@@ -974,7 +974,7 @@ What is the destiny ...
 ｡
 
 ","It is only death
-.",0.5
+.",0.5,0.72564435
 "<i>He still holds a grudge</i>
 <i>against the head family, huh?</i>","(ﾋｱｼ)
 《あの眼…
@@ -985,14 +985,14 @@ What is the destiny ...
 ","""That eye ...
 also
  
-Do you still hate the sect?",0.12
+Do you still hate the sect?",0.12,0.36093745
 So what?!,"だから
  
 何だってんだ！
 
 ","that's why
  
-What is it!",0.2222222222222222
+What is it!",0.2222222222222222,0.33172703
 "I don't know when to give up!
 Shadow Clone Jutsu!","俺は
  
@@ -1000,4 +1000,4 @@ Shadow Clone Jutsu!","俺は
 
 ","I am
  
-If you don't give up!",0.4
+If you don't give up!",0.4,0.26886275

@@ -1,309 +1,309 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "Barbara, how would you like a Moscow Mule?","（ミュラー）バーバラ
 モスコミュールは いかがかな？","Barbara
-How is Moscour?",0.25
+How is Moscour?",0.25,0.39594385
 "Thank you, Michael.","（バーバラ）ありがとう ミハエル
 （ミュラー）ああ","Thank you Mihael
- ah",0.2857142857142857
+ ah",0.2857142857142857,0.4216845
 "Fritz, I've brought you some juice","（ミュラー）フリッツ
 君にはジュースがあるぞ","Fritz
-You have juice for you",0.3
+You have juice for you",0.3,0.9058682
 "Fritz, say thank you to your dad.","（バーバラ）フリッツ
 お父さんに“ありがとう”は？","Fritz
-What is the father ""Thank you""?",0.1875
-Fritz!,フリッツ！,Fritz!,1.0
-"He'll gradually warm up to me,",しょうがないよ 徐々に慣れるさ,I can not help it gradually get used to it,0.13333333333333333
+What is the father ""Thank you""?",0.1875,0.8135587
+Fritz!,フリッツ！,Fritz!,1.0,1.0000002
+"He'll gradually warm up to me,",しょうがないよ 徐々に慣れるさ,I can not help it gradually get used to it,0.13333333333333333,0.2778719
 just like how I'll have to get\Nused to this new art business.,"新しく始めた古美術のビジネスも
 徐々に軌道に乗るさ","New art business of new art
-Gradually ride on track",0.16666666666666666
+Gradually ride on track",0.16666666666666666,0.6621448
 It's all just so sudden for me...,"でも 私にとっては いきなりだわ
 （ミュラー）え？","But for me
-?",0.18181818181818182
+?",0.18181818181818185,0.30525124
 "Being able to live in this wonderful mansion,","（バーバラ）いきなり
 こんなすてきな家に住めて","Suddenly
-I live in such a nice house",0.13333333333333333
-having such a kind husband\Nto make me delicious cocktails...,こんな優しい旦那様が⸺,Such kind husband is ⸺,0.15384615384615385
-"Hey, do you feel anything?",なあ 君 何か感じないかい？,Do you not feel something like you?,0.4
-Huh?,（バーバラ）えっ？,?,0.5
-From the neighbor's house.,隣の家だよ,It's next door,0.1111111111111111
-"I know, but...",分かっている でも…,I know ...,0.6
+I live in such a nice house",0.13333333333333333,0.59810084
+having such a kind husband\Nto make me delicious cocktails...,こんな優しい旦那様が⸺,Such kind husband is ⸺,0.15384615384615385,0.5180255
+"Hey, do you feel anything?",なあ 君 何か感じないかい？,Do you not feel something like you?,0.4,0.7413991
+Huh?,（バーバラ）えっ？,?,0.5,0.6635471
+From the neighbor's house.,隣の家だよ,It's next door,0.1111111111111111,0.3486639
+"I know, but...",分かっている でも…,I know ...,0.6,0.764527
 "To tell the truth, I heard from Mrs. d'Autrey...","実はね 聞いちゃったの
 向かいのドートレイさんに","Actually I heard
-To the opposite dot tray",0.26666666666666666
-About what?,何を？,what?,0.6666666666666666
+To the opposite dot tray",0.26666666666666666,0.15875885
+About what?,何を？,what?,0.6666666666666666,0.5472662
 "The neighbors, the husband and wife,\Nwere killed twenty years ago.","お隣 20年ほど前
 あるご夫婦が惨殺されて","Next to 20 years ago
-A couple is disabled",0.10526315789473684
+A couple is disabled",0.10526315789473684,0.34276336
 "Ever since then, ghosts appear in that house.","それ以来 あの家には
 幽霊が出るらしいって","Since then, to that house
-It seems that a ghost will come out",0.2777777777777778
+It seems that a ghost will come out",0.2777777777777778,0.8345253
 "What's wrong, Michael?","どうしたの？　ミハエル
 （ミュラー）ああ…","What's wrong?Mihael
- Oh ...",0.4444444444444444
+ Oh ...",0.4444444444444444,0.5499068
 Don't tell me you believe that crazy story!,"まさか あなたまで そんな話
 信じるんじゃないでしょうね","Such a story until you
-I will not believe",0.1875
+I will not believe",0.1875,0.6154146
 N-No way!,"（ミュラー）
-そ… そんなことないよ",So ... there is no such thing,0.0
+そ… そんなことないよ",So ... there is no such thing,0.0,0.106077276
 Are you going out?,"（ロベルト）お出かけで？
 （ミュラー）ああ","?
- ah",0.16666666666666666
-Yes.,（ロベルト）そうですか,Yes,0.5
-Don't worry about it.,まあ そのほうが,It is that,0.125
+ ah",0.16666666666666666,0.16950119
+Yes.,（ロベルト）そうですか,Yes,0.5,0.8368552
+Don't worry about it.,まあ そのほうが,It is that,0.125,0.1496141
 "I want us to go out, just as\Na family, every once in a while.","たまには親子水入らずで
 出かけようと思うんだ","Sometimes without parent-child water
-I'm going to go out",0.18181818181818182
-We don't need a bodyguard.,ボディーガードの必要もないだろう,There is no need for a bodyguard,0.2727272727272727
-"Good luck, Mr. Dad.",頑張ってください お父さん,Please do your best Dad,0.1
-Shall we go?,（ミュラー）さあ 行こうか,Let's go,0.16666666666666666
+I'm going to go out",0.18181818181818185,0.40581763
+We don't need a bodyguard.,ボディーガードの必要もないだろう,There is no need for a bodyguard,0.2727272727272727,0.9015189
+"Good luck, Mr. Dad.",頑張ってください お父さん,Please do your best Dad,0.1,0.54266065
+Shall we go?,（ミュラー）さあ 行こうか,Let's go,0.16666666666666666,0.47060117
 "What are the results of your investigation, Detective?","（ミュラー）
-探偵さん 調査の結果は？",What is the result of the detective survey?,0.38461538461538464
-I'll start with Dr. Tenma.,（探偵）まず Dr.(ドクター)テンマ,First of all Dr.  Temma,0.09090909090909091
+探偵さん 調査の結果は？",What is the result of the detective survey?,0.38461538461538464,0.75274503
+I'll start with Dr. Tenma.,（探偵）まず Dr.(ドクター)テンマ,First of all Dr.  Temma,0.09090909090909093,0.44576907
 "The police are after him because he's a suspect\Nfor the murder of a married couple,","警察はフォルトナー夫妻殺人事件の
 容疑者として彼を追っています","Police is a folt tone and wife murder case
-I'm following him as a suspect",0.15384615384615385
+I'm following him as a suspect",0.15384615384615385,0.6469339
 "When he was called back by the\Npolice, this is what Tenma said:","（探偵）警察に召喚された時
 テンマは こんなことを言ってます","When summoned by police
-Temma says that he says like this",0.2
-A boy whose life he saved ten years ago\Nkilled three people and escaped.,10年前 彼が命を助けた少年が,A boy who helped his life 10 years ago,0.21052631578947367
-The boy's name was Johan.,少年の名はヨハン,The name of the boy is Johan,0.4444444444444444
+Temma says that he says like this",0.2,0.40802047
+A boy whose life he saved ten years ago\Nkilled three people and escaped.,10年前 彼が命を助けた少年が,A boy who helped his life 10 years ago,0.21052631578947367,0.7249468
+The boy's name was Johan.,少年の名はヨハン,The name of the boy is Johan,0.4444444444444444,0.9607553
 and committed another murder right before his eyes.,"その後
 ヨハンは成人して姿を現わし","afterwards
-Johann appears adults and appeared",0.07142857142857142
-"Next, I'll tell you about Nina Fortner.",次に ニナ･フォルトナー,Next Nina Foltner,0.18181818181818182
-She is the daughter of the murdered couple.,殺された夫妻の娘ですが,It is a daughter of the killed and wife,0.3076923076923077
-This is Mr. Messner.,メスナー氏です,It is Messe,0.14285714285714285
-Where is he now?,今 彼は？,What is he?,0.5
+Johann appears adults and appeared",0.07142857142857142,0.2226029
+"Next, I'll tell you about Nina Fortner.",次に ニナ･フォルトナー,Next Nina Foltner,0.18181818181818185,0.73138493
+She is the daughter of the murdered couple.,殺された夫妻の娘ですが,It is a daughter of the killed and wife,0.3076923076923077,0.8516754
+This is Mr. Messner.,メスナー氏です,It is Messe,0.14285714285714285,0.5887579
+Where is he now?,今 彼は？,What is he?,0.5,0.51534426
 He was recklessly stabbed two months ago.,"（ミュラー）えっ？
 （探偵）２カ月ほど前に","?
- About 2 months ago",0.18181818181818182
-He was involved in a drug deal that went bad.,めった刺しでした,It was a pleasure,0.15384615384615385
+ About 2 months ago",0.18181818181818185,0.34559584
+He was involved in a drug deal that went bad.,めった刺しでした,It was a pleasure,0.15384615384615385,0.088628866
 "Back when I was in the force,\NMessner was my partner.","（ミュラー）メスナーは
 警察時代 私の相棒だったんだ","Mesher
-He was my partner of the police period",0.23529411764705882
+He was my partner of the police period",0.2352941176470588,0.45514116
 He was dismissed on drug charges.,"メスナー氏は麻薬に手を出して
 警察を罷免されました","Messe is put out hand on drug
-He was offended by the police",0.25
-What happened?,（探偵）そうでしたか,Was it?,0.2
+He was offended by the police",0.25,0.48243424
+What happened?,（探偵）そうでしたか,Was it?,0.2,0.4975116
 "The rumor is that the man behind it was ""The Baby.""","その彼を助け上げたのが
 “赤ん坊”という男でしてね","That he helped him
-It is a man called ""baby""",0.4117647058823529
-The name of that man was Tenma.,その東洋人の名前がテンマ,The name of the oriental person is a tamma,0.23076923076923078
+It is a man called ""baby""",0.4117647058823529,0.5576385
+The name of that man was Tenma.,その東洋人の名前がテンマ,The name of the oriental person is a tamma,0.2307692307692308,0.46538606
 Could it be that... it was our Dr. Tenma?,"もし それが
 Dr.テンマだとしたら…","If that is
-If it is Dr. Temma ...",0.3076923076923077
-A certain man?,ある青年？,A young man?,0.6
+If it is Dr. Temma ...",0.3076923076923077,0.53400844
+A certain man?,ある青年？,A young man?,0.6,0.5902495
 What was the name of the boy that Dr. Tenma saved?,"（探偵）10年前 Dr.テンマが
 手術で命を救った少年の名は？","10 years ago Dr. Temma
-What is the name of a boy who saved lives in surgery?",0.38095238095238093
-Johan.,ヨハン,Johan,0.5
-"The name of the man whom ""The Baby"" was\Ntrying to get as their leader... was Johan.",彼らの組織のリーダーに,To the leader of their organization,0.2631578947368421
-So that's where you're going to move.,（ロベルト）ははん そこに来るか,will come to there,0.07692307692307693
-Roberto... My life is just like that pawn.,俺の人生は,My life is,0.3
+What is the name of a boy who saved lives in surgery?",0.3809523809523809,0.65612805
+Johan.,ヨハン,Johan,0.5,0.96047837
+"The name of the man whom ""The Baby"" was\Ntrying to get as their leader... was Johan.",彼らの組織のリーダーに,To the leader of their organization,0.2631578947368421,0.38271034
+So that's where you're going to move.,（ロベルト）ははん そこに来るか,will come to there,0.07692307692307693,0.3184566
+Roberto... My life is just like that pawn.,俺の人生は,My life is,0.3,0.27093583
 What's wrong? Is something on your mind?,"何か 気にかかることが
 あるんですか？","I wonder what I feel
-Is there?",0.23076923076923078
+Is there?",0.2307692307692308,0.46959195
 "Until I got that one phone call, everything\Nin my life was a failure.","（ミュラー）あの時
 １本の電話がかかってくるまで","That time
-Until one phone call",0.3125
+Until one phone call",0.3125,0.5351651
 My partner Messner and I had gotten our\Nhands dirty selling confiscated drugs.,"押収した麻薬の横流しに
 手を染めていた","During the seizure of the accrued drug
-I dyed my hand",0.09523809523809523
-The person on the phone knew everything.,電話の主は全てを知っていた,The Lord of the phone knew everything,0.4444444444444444
+I dyed my hand",0.09523809523809523,0.50160885
+The person on the phone knew everything.,電話の主は全てを知っていた,The Lord of the phone knew everything,0.4444444444444444,0.7607148
 "If I wanted him to keep quiet, I\Nhad to kill that married couple.","もし 黙っていてほしいなら
 ある夫婦を殺せと","If you want to shut up
-With a couple of couples",0.13636363636363635
-The Fortners in Heidelberg...,ハイデルベルクのフォルトナー夫妻,Heidelberg Folt Wra,0.14285714285714285
-We'd be safe if we killed them.,殺せば俺たちは助かる,We will help you,0.09090909090909091
+With a couple of couples",0.13636363636363635,0.49203515
+The Fortners in Heidelberg...,ハイデルベルクのフォルトナー夫妻,Heidelberg Folt Wra,0.14285714285714285,0.5604923
+We'd be safe if we killed them.,殺せば俺たちは助かる,We will help you,0.09090909090909093,0.12651493
 There was another person in the house that night.\NHe was a newspaper reporter or something.,"あの夜には もう１人
 新聞記者か何かがいたが","Another one at that night
-There was a newspaper reporter or something",0.5
-Messner and I killed all three of them.,俺とメスナーは３人とも殺した,I and the female killed 3 people,0.23076923076923078
-"After that, we received a lot of money.",その後 多額の金が振り込まれた,"Thereafter, a large amount of money was transferred",0.26666666666666666
+There was a newspaper reporter or something",0.5,0.82654744
+Messner and I killed all three of them.,俺とメスナーは３人とも殺した,I and the female killed 3 people,0.2307692307692308,0.55840623
+"After that, we received a lot of money.",その後 多額の金が振り込まれた,"Thereafter, a large amount of money was transferred",0.26666666666666666,0.58861494
 I was picked up by a syndicate\Nafter I quit the force.,"警察を辞めた俺を
 シンジケートが拾い上げた","I quit the police
-Shinji Kate picked up",0.35714285714285715
+Shinji Kate picked up",0.35714285714285715,0.43951574
 I was immediately placed in a good position.,"しかも いきなり
 いいポストに就けてくれた","And suddenly
-I got a good post",0.23076923076923078
-The money I made was easily laundered.,もうけた金は簡単に洗濯された,The gold already was washed easily,0.2727272727272727
+I got a good post",0.2307692307692308,0.34493345
+The money I made was easily laundered.,もうけた金は簡単に洗濯された,The gold already was washed easily,0.2727272727272727,0.4780662
 Then you met your wife and washed\Nyour hands clean of that business.,"なぜ あんな簡単に
 組織から抜けられたんだ？","Why so easily
-Did you get out of your organization?",0.14285714285714285
-Who was on the phone that one time?,誰なんだ？　あの時の電話の主は,Who are you?The Lord of the phone at that time is,0.4
-"Roberto, I'm grateful to you.",ロベルト 君には感謝しているよ,I am grateful to Roberto you,0.5555555555555556
-You've always protected me.,ずっと守ってくれて,Protect me forever,0.125
-"I'll be back, dear.",ああ 気を付けてな,"Oh, be careful",0.2222222222222222
+Did you get out of your organization?",0.14285714285714285,0.18769374
+Who was on the phone that one time?,誰なんだ？　あの時の電話の主は,Who are you?The Lord of the phone at that time is,0.4,0.5394706
+"Roberto, I'm grateful to you.",ロベルト 君には感謝しているよ,I am grateful to Roberto you,0.5555555555555556,0.94654375
+You've always protected me.,ずっと守ってくれて,Protect me forever,0.125,0.6770266
+"I'll be back, dear.",ああ 気を付けてな,"Oh, be careful",0.2222222222222222,0.22355595
 Buy me toys!,"（フリッツ）
-ねえ おもちゃ買って おもちゃ",Hey toys Boofing toys,0.16666666666666666
-It's useless. He's only thinking\Nabout toys right now.,（ロベルト）こりゃ 厳しいや,It's tough,0.18181818181818182
+ねえ おもちゃ買って おもちゃ",Hey toys Boofing toys,0.16666666666666666,0.6165363
+It's useless. He's only thinking\Nabout toys right now.,（ロベルト）こりゃ 厳しいや,It's tough,0.18181818181818185,0.016380891
 "Roberto, has the detective called?","（ミュラー）ロベルト
 探偵さんから連絡ないかい？","Roberto
-Do you not contact from the detective?",0.3333333333333333
-Roberto!,ロベルト！,Roberto!,1.0
-Who are you?,お… お前は…,Oh ... You are ...,0.3333333333333333
+Do you not contact from the detective?",0.3333333333333333,0.8773789
+Roberto!,ロベルト！,Roberto!,1.0,1.0
+Who are you?,お… お前は…,Oh ... You are ...,0.3333333333333333,0.38186604
 "I'm the daughter of the couple\Nyou killed, Nina Fortner.","（ニナ）あなたが殺した
 フォルトナー夫妻の娘よ","I killed
-Folt toner and wife's daughter",0.1875
-Did you kill him?,（ミュラー）お前がやったのか？,What did you do?,0.42857142857142855
-Roberto did it?,ロベルトが？,Roberto?,0.5
+Folt toner and wife's daughter",0.1875,0.5527069
+Did you kill him?,（ミュラー）お前がやったのか？,What did you do?,0.42857142857142855,0.50235975
+Roberto did it?,ロベルトが？,Roberto?,0.5,0.8178017
 I saw it from the house next door.,"（ニナ）
-私 隣の家から全て見てたわ",I saw everything next door,0.4
+私 隣の家から全て見てたわ",I saw everything next door,0.4,0.6463007
 You... you've come to get your revenge on me!,"お前こそ 俺に復讐(ふくしゅう)するために
 来たんだろうが","You are to revenge to me
-It will come",0.35714285714285715
-Roberto... Roberto!,ロ… ロベルト！,Roberto!,0.6666666666666666
-I'm taking this bag.,（ニナ）このバッグは持っていくわ,I will bring this bag,0.375
+It will come",0.35714285714285715,0.6728984
+Roberto... Roberto!,ロ… ロベルト！,Roberto!,0.6666666666666666,0.9048035
+I'm taking this bag.,（ニナ）このバッグは持っていくわ,I will bring this bag,0.375,0.6970232
 "If you want to stay here, go ahead.","あなたは ここに残りたいなら
 そうすればいい","If you want to remain here
-Then you should do it",0.3333333333333333
+Then you should do it",0.3333333333333333,0.8265831
 "What's wrong, Mr. Mueller?","（ロベルト）
-どうしました？　ミュラーさん",What's wrong?Muller,0.5
-Mr. Mueller?,（ロベルト）ミュラーさん？,Muller?,0.25
-Hurry!,早く車を出して 早く！,Get out quickly and quickly!,0.16666666666666666
-What do you want from me?,俺をどうするつもりだ？,What are you going to do?,0.4
-I hate you from the bottom of my heart.,心の底から憎んでる,Hay from the bottom of my heart,0.5454545454545454
-I hate you enough to kill you!,殺してしまいたいほどね,I want to kill,0.375
-I... I was blackmailed.,お… 俺は脅されてやったんだ,Oh ... I was threatened,0.42857142857142855
-You didn't...  have a choice?,仕方… なかった？,How is it ...?,0.18181818181818182
-Stop!,止めなさい！,Stop!,1.0
-Stop the car!,車を止めなさい！,Stop the car!,1.0
-Truly wonderful...,（ミュラー）ま… 待ってくれ,... Wait,0.25
+どうしました？　ミュラーさん",What's wrong?Muller,0.5,0.5460815
+Mr. Mueller?,（ロベルト）ミュラーさん？,Muller?,0.25,0.40870276
+Hurry!,早く車を出して 早く！,Get out quickly and quickly!,0.16666666666666666,0.4225354
+What do you want from me?,俺をどうするつもりだ？,What are you going to do?,0.4,0.38420582
+I hate you from the bottom of my heart.,心の底から憎んでる,Hay from the bottom of my heart,0.5454545454545454,0.41303357
+I hate you enough to kill you!,殺してしまいたいほどね,I want to kill,0.375,0.5226187
+I... I was blackmailed.,お… 俺は脅されてやったんだ,Oh ... I was threatened,0.42857142857142855,0.5486087
+You didn't...  have a choice?,仕方… なかった？,How is it ...?,0.18181818181818185,0.21822315
+Stop!,止めなさい！,Stop!,1.0,1.0000007
+Stop the car!,車を止めなさい！,Stop the car!,1.0,1.0
+Truly wonderful...,（ミュラー）ま… 待ってくれ,... Wait,0.25,0.16441827
 My mother and father loved\Nme with all their hearts.,"（ニナ）父と母は
 私のことを心から愛してくれた","Father and Mother
-I love you from my heart",0.26666666666666666
-"Stop! Please, don't!",や… やめて やめてくれ！,And ... stop and stop!,0.25
+I love you from my heart",0.26666666666666666,0.61312896
+"Stop! Please, don't!",や… やめて やめてくれ！,And ... stop and stop!,0.25,0.5891952
 "Despite all of that, they were\Nkilled by scum like you!","なのに
 あなたみたいなクズに殺された！","Nevertheless
-I was killed by a crack like you!",0.2222222222222222
+I was killed by a crack like you!",0.2222222222222222,0.33609384
 Barbara... Fritz...,"（ミュラー）
-バーバラ… フリッツ…",Barbara ... Fritz ...,1.0
-What? What are you saying?,（ニナ）何よ 何言ってるのよ,What is what you say,0.2857142857142857
-This is what it feels like...,何なのよ！,What is it!,0.375
+バーバラ… フリッツ…",Barbara ... Fritz ...,1.0,0.9999997
+What? What are you saying?,（ニナ）何よ 何言ってるのよ,What is what you say,0.2857142857142857,0.44373137
+This is what it feels like...,何なのよ！,What is it!,0.375,0.19424742
 "Fritz... He called me ""Dad"" for the first time.","あの子が俺のことを
 初めて呼んでくれたんだ","That child is me
-I called me for the first time",0.35294117647058826
-I don't want to lose it.,なくしたくない,I do not want to disappear,0.4
+I called me for the first time",0.35294117647058826,0.4241899
+I don't want to lose it.,なくしたくない,I do not want to disappear,0.4,0.49076054
 Düsseldorf... Every day at 8:30 at that café.,"デュッセルドルフ
 毎朝 ８時半 あのカフェ","Düsseldorf
-Every morning that cafe at 8:30",0.45454545454545453
-"I was ordered to look very\Nclean-cut, just like a salaryman.",組織に入った時 ボスに命令された,"When I entered my organization, I ordered a boss",0.23529411764705882
+Every morning that cafe at 8:30",0.4545454545454545,0.8838945
+"I was ordered to look very\Nclean-cut, just like a salaryman.",組織に入った時 ボスに命令された,"When I entered my organization, I ordered a boss",0.2352941176470588,0.35732085
 "Every day, a mother and her child would pass by.","毎朝 母親が子供を連れて
 その前を通った","Mother with her child every morning
-Throughout",0.26666666666666666
+Throughout",0.26666666666666666,0.566644
 That was my only contact with everyday life.,"俺にとって ただ１つ
 まともな日常との接点だった","It is only one for me
-It was a contact point with a decent everyday",0.29411764705882354
-Good morning.,（バーバラ）おはようございます,Good morning,0.6666666666666666
+It was a contact point with a decent everyday",0.29411764705882354,0.38040316
+Good morning.,（バーバラ）おはようございます,Good morning,0.6666666666666666,0.93756306
 What did you hire that detective for?,"（ニナ）あなた
 あの探偵に何を依頼したの？","you
-What did you request that detective?",0.6666666666666666
+What did you request that detective?",0.6666666666666666,0.79708195
 "To find you, Tenma, and my partner\Nfrom when I was a police officer...","そして 警察時代の相棒だった
 メスナーの消息","And it was a buddy of the police age
-Gurner",0.19047619047619047
+Gurner",0.19047619047619047,0.26493657
 but Messner is dead.,"（ミュラー）
-だが メスナーは死んでいた",But he was dead,0.2857142857142857
+だが メスナーは死んでいた",But he was dead,0.2857142857142857,0.5257607
 I was having a more detailed search done.,"その件で
 詳しい追跡調査を依頼した","In that case
-I asked for a detailed tracking survey",0.1875
-I got a call from the detective last night.,ゆうべ 探偵から電話があって…,There is a call from the Yube detective ...,0.35714285714285715
-Something unusual?,（ニナ）えっ？,?,0.3333333333333333
+I asked for a detailed tracking survey",0.1875,0.31017596
+I got a call from the detective last night.,ゆうべ 探偵から電話があって…,There is a call from the Yube detective ...,0.35714285714285715,0.5827098
+Something unusual?,（ニナ）えっ？,?,0.3333333333333333,0.2838285
 Messner was a heavy junkie who was in no condition\Nto get involved with some syndicate.,"ジャンキー状態で組織のゴタゴタに
 巻き込まれる存在ではなかった","In the junky state of Gotagota
-It was not the existence to be involved",0.12
-The killer wasn't from the Frankfurt syndicate.,（ニナ）あったわ,was there,0.1111111111111111
-Düsseldorf?,デュッセルドルフ？,Düsseldorf?,1.0
-"""Who is Roberto?""",“ロベルト… 誰だ？”,"""Roberto ... Who is it?""",0.75
-Do you know what this means?,これ どういう意味か分かる？,What does this mean?,0.3333333333333333
-Hello.,もしもし,Hello,0.5
+It was not the existence to be involved",0.12,0.24122578
+The killer wasn't from the Frankfurt syndicate.,（ニナ）あったわ,was there,0.1111111111111111,0.10433806
+Düsseldorf?,デュッセルドルフ？,Düsseldorf?,1.0,0.9999999
+"""Who is Roberto?""",“ロベルト… 誰だ？”,"""Roberto ... Who is it?""",0.75,0.9618659
+Do you know what this means?,これ どういう意味か分かる？,What does this mean?,0.3333333333333333,0.6227355
+Hello.,もしもし,Hello,0.5,0.9295093
 I want the bag back.,"（ロベルト）
-バッグを返してほしいんですが",I want you to return the bag,0.4444444444444444
+バッグを返してほしいんですが",I want you to return the bag,0.4444444444444444,0.8457919
 Your wife and Fritz are relaxing right next to me.,"（ロベルト）奥さんとフリッツは
 今 私のそばで くつろいでますよ","My wife and Fritz
-She is relaxed by me now",0.23529411764705882
-"You should come back soon... to your ""Happy Home.""",あなたの幸せな家に,To your happy house,0.21428571428571427
-Could you lend me your gun?,銃を貸してくれないか？,Could you lend me a gun?,0.75
+She is relaxed by me now",0.2352941176470588,0.82229215
+"You should come back soon... to your ""Happy Home.""",あなたの幸せな家に,To your happy house,0.21428571428571427,0.60639304
+Could you lend me your gun?,銃を貸してくれないか？,Could you lend me a gun?,0.75,0.95041573
 "You can only use it at close range,\Nand it only has four bullets.","（ニナ）その銃
 至近距離でないと使えないわ","its gun
-It can not be used without close distance",0.14285714285714285
-It's good enough.,十分だ これでも元刑事だからな,It's enough because this is a former criminal,0.2727272727272727
-I was a police officer.,俺に死なれたら,If I died,0.125
+It can not be used without close distance",0.14285714285714285,0.67735386
+It's good enough.,十分だ これでも元刑事だからな,It's enough because this is a former criminal,0.2727272727272727,0.32357875
+I was a police officer.,俺に死なれたら,If I died,0.125,0.21910407
 "You want me to be careful so that I'll go\Nconfess to the police after this, right?","真相を警察に話して
 もらえなくなるから… だろ？","Talk to the police
-Because I can not get it ... is it?",0.19230769230769232
-That's right. You'd better not die.,そう 絶対に死んじゃダメ,That's definitely dead,0.18181818181818182
+Because I can not get it ... is it?",0.19230769230769232,0.47751114
+That's right. You'd better not die.,そう 絶対に死んじゃダメ,That's definitely dead,0.18181818181818185,0.2536984
 I'll cover you from the house next door.,"私は隣の空き家から
 あなたを援護する！","I am from the next vacant house
-Support you!",0.42857142857142855
-Dad!,（フリッツ）お父さん！,Dad!,1.0
+Support you!",0.42857142857142855,0.5504937
+Dad!,（フリッツ）お父さん！,Dad!,1.0,0.99999976
 "Look, Dad! It's a fishing rod.","（フリッツ）お父さん 見て
 釣りざおだよ！","Look at the father
-Fishing!",0.23076923076923078
+Fishing!",0.2307692307692308,0.70342356
 That kid! He's not going to rest until\Nhe gets you to take him fishing.,"お父さんに 釣りに連れていって
 もらうってきかなくて","Take the father to fishing
-I can not get it",0.18181818181818182
-Barbara.,バーバラ,Barbara,0.5
-Where's Roberto?,ロ… ロベルトは？,Roberto?,0.5
-"Oh, yeah.",（バーバラ）あっ そうそう,Oh yeah,0.5
-Some of his friends from the security company\Nare here. It looks like something happened.,留守中に何かあったみたい,It seems that something happened during away,0.15789473684210525
-Friends?,（ミュラー）仲間？,friend?,0.3333333333333333
+I can not get it",0.18181818181818185,0.6080624
+Barbara.,バーバラ,Barbara,0.5,0.9572615
+Where's Roberto?,ロ… ロベルトは？,Roberto?,0.5,0.7954572
+"Oh, yeah.",（バーバラ）あっ そうそう,Oh yeah,0.5,0.8133634
+Some of his friends from the security company\Nare here. It looks like something happened.,留守中に何かあったみたい,It seems that something happened during away,0.15789473684210525,0.40726906
+Friends?,（ミュラー）仲間？,friend?,0.3333333333333333,0.7372286
 There wasn't any damage.,"でも 安心して
 何の被害もなかったそうよ","But in peace
-I didn't have any damage",0.25
+I didn't have any damage",0.25,0.68846655
 "Roberto, Michael is back.","あっ ロベルト
 ミハエルが帰ったわ","Oh Roberto
-Michael returned",0.25
+Michael returned",0.25,0.87195444
 Don't worry. There's just one broken window.,"（ロベルト）ご心配なく
 ガラスが１枚 割られてましてね","Do not worry
-One glass is broken",0.3076923076923077
-It must have been some\Nkids in the neighborhood.,近所の子供のいたずらでしょう,It will be the naughty of the neighborhood,0.23076923076923078
+One glass is broken",0.3076923076923077,0.6210198
+It must have been some\Nkids in the neighborhood.,近所の子供のいたずらでしょう,It will be the naughty of the neighborhood,0.2307692307692308,0.41767204
 The body of the detective that was here...,"し… 死体は？
 ここにあった探偵の死体は？","... What is the corpse?
-What is the detective corpse of the detective?",0.3333333333333333
-There never was anything here.,何もなかったんですよ,There was nothing,0.2857142857142857
+What is the detective corpse of the detective?",0.3333333333333333,0.7494149
+There never was anything here.,何もなかったんですよ,There was nothing,0.2857142857142857,0.6872726
 Roberto... Who are you?,"ロベルト
 お前は… お前は何者なんだ！","Roberto
-Oh ... Who are you!",0.625
-The madam and Fritz will be here.,さあ 事を荒立てないで さあ,I will not be rough,0.18181818181818182
-"Today was a peaceful day,",今日は平和な１日だった,Today was a peaceful day,0.8333333333333334
-and it will be from now on.,これからもね,From now on,0.375
-Nina!,（ミュラー）ニナ！,Nina!,1.0
-Nina...,ニナ…,Nina ...,1.0
-She was a beautiful girl.,（ロベルト）美しい娘でしたね,It was a beautiful daughter,0.375
+Oh ... Who are you!",0.625,0.9197785
+The madam and Fritz will be here.,さあ 事を荒立てないで さあ,I will not be rough,0.18181818181818185,0.23955137
+"Today was a peaceful day,",今日は平和な１日だった,Today was a peaceful day,0.8333333333333334,0.993187
+and it will be from now on.,これからもね,From now on,0.375,0.53496635
+Nina!,（ミュラー）ニナ！,Nina!,1.0,0.99999964
+Nina...,ニナ…,Nina ...,1.0,1.0000002
+She was a beautiful girl.,（ロベルト）美しい娘でしたね,It was a beautiful daughter,0.375,0.7930114
 We're treating her with courtesy.,"（ロベルト）
-丁重にもてなしています",I'm sorry,0.0
-A certain someone?,ある方？,Is there anyone?,0.14285714285714285
-That boy's name was Johan.,ヨハン ヨハン ヨハン…,Johanang Johan Johan ...,0.1111111111111111
+丁重にもてなしています",I'm sorry,0.0,0.1808825
+A certain someone?,ある方？,Is there anyone?,0.14285714285714285,0.372069
+That boy's name was Johan.,ヨハン ヨハン ヨハン…,Johanang Johan Johan ...,0.1111111111111111,0.64707506
 We want you to live happily with\Nthe madam and Fritz.,"あなたは奥さんやフリッツと
 幸せに暮らしたい","You are the wife and fritz
-I want to live happily",0.4666666666666667
+I want to live happily",0.4666666666666667,0.81123006
 What are you going to do to Nina?,"（ミュラー）
-ニナをどうするつもりだ？",What are you going to do Nina?,1.0
-Live happily.,（ロベルト）お幸せに,Happy,0.0
+ニナをどうするつもりだ？",What are you going to do Nina?,1.0,0.9761505
+Live happily.,（ロベルト）お幸せに,Happy,0.0,0.4674061
 "Dad, when are you going to take me fishing?","（フリッツ）お父さん
 いつ釣りに連れていってくれる？","Dad
-When will you take fishing?",0.5
-Hmm...?,（ミュラー）ん？　ああ,? Ah,0.25
-"Tomorrow, if it's sunny.",あした 晴れたらな,It's sunny,0.42857142857142855
-Hooray!,やった！,Hooray!,1.0
-When can I see Johan?,ヨハンには いつ会えるの？,When can I meet Johan?,0.7142857142857143
+When will you take fishing?",0.5,0.9435668
+Hmm...?,（ミュラー）ん？　ああ,? Ah,0.25,0.48241195
+"Tomorrow, if it's sunny.",あした 晴れたらな,It's sunny,0.42857142857142855,0.61020195
+Hooray!,やった！,Hooray!,1.0,0.9999999
+When can I see Johan?,ヨハンには いつ会えるの？,When can I meet Johan?,0.7142857142857143,0.85517454
 I came peacefully because you\Nsaid you'd let me meet Johan.,"ヨハンに
 会わせてくれるって言うから","In Johan
-Because I say that I will meet",0.25
+Because I say that I will meet",0.25,0.60711247
 "He wants to see you, too.","（ロベルト）確かに
 彼もあなたに会いたがっている","Certainly
-He also wants to meet you",0.36363636363636365
-Where is he?,（ニナ）今 彼はどこにいるの？,Where are he?,0.6
+He also wants to meet you",0.3636363636363637,0.7420965
+Where is he?,（ニナ）今 彼はどこにいるの？,Where are he?,0.6,0.9764517
 He lives happily in Munich.,"ミュンヘンで
 幸せに暮らしていますよ","In Munich
-I live happily",0.375
-Munich...?,ミュンヘン？,Munich?,0.6666666666666666
+I live happily",0.375,0.8248007
+Munich...?,ミュンヘン？,Munich?,0.6666666666666666,0.92402196
 You have really nice eyes.,"（ロベルト）
-本当にいい目をしている",I'm really good,0.1111111111111111
-Why...?,何で？　何で来たの？,why?What came?,0.4
+本当にいい目をしている",I'm really good,0.1111111111111111,0.2992388
+Why...?,何で？　何で来たの？,why?What came?,0.4,0.52641636
 I promised Fritz I'd take\Nhim fishing tomorrow.,"あした フリッツと
 釣りに行く約束してるんだ","With the fritz
-I'm promised to go fishing",0.3076923076923077
-I hope it'll be sunny.,晴れるといいな,I hope it will be fine,0.4444444444444444
-It'll definitely be sunny.,（ニナ）きっと晴れるわ,Surely it will be fine,0.2222222222222222
-Lunge's Trap,{\an8}～♪,~ ♪,0.0
+I'm promised to go fishing",0.3076923076923077,0.8963292
+I hope it'll be sunny.,晴れるといいな,I hope it will be fine,0.4444444444444444,0.42367566
+It'll definitely be sunny.,（ニナ）きっと晴れるわ,Surely it will be fine,0.2222222222222222,0.35592297
+Lunge's Trap,{\an8}～♪,~ ♪,0.0,0.096682854

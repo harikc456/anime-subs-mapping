@@ -1,10 +1,10 @@
-en_text,jp_text,google_translated,score
-dame da yo koko kara saki wa,{\blur3}别再靠近 那前方,} 靠 靠 靠 前,0.0
-ugomeku yami wo kizami sagasu no hikari no sora,{\blur3}蠢动的黑暗如此刻骨 在昏暗的天空下彷徨,蠢 下 下 下 下 下,0.0
-"I want to fly, I want to beat my wings",{\blur3}我无力改变,I'm sorry,0.1
-A red butterfly flutters around me,{\blur3}摇摇欲坠之红蝶,摇摇 摇摇 butterfly,0.14285714285714285
-nukedashitai yo katai kara wo yaburi kawaru anata no tame ni,{\blur3}欲破茧重生  因你而改变,茧 茧 茧 茧 茧 变 变 变,0.0
-Meat...,お肉,Meat,0.5
-Yume...,夢,dreams,0.0
-Onii-chan...,お兄ちゃん,brother,0.0
-You're so delicious.,おいしい,delicious,0.2
+en_text,jp_text,google_translated,score,semantic_score
+dame da yo koko kara saki wa,{\blur3}别再靠近 那前方,} 靠 靠 靠 前,0.0,0.24130419
+ugomeku yami wo kizami sagasu no hikari no sora,{\blur3}蠢动的黑暗如此刻骨 在昏暗的天空下彷徨,蠢 下 下 下 下 下,0.0,0.24202773
+"I want to fly, I want to beat my wings",{\blur3}我无力改变,I'm sorry,0.1,0.17883097
+A red butterfly flutters around me,{\blur3}摇摇欲坠之红蝶,摇摇 摇摇 butterfly,0.14285714285714285,0.47633898
+nukedashitai yo katai kara wo yaburi kawaru anata no tame ni,{\blur3}欲破茧重生  因你而改变,茧 茧 茧 茧 茧 变 变 变,0.0,0.20251375
+Meat...,お肉,Meat,0.5,0.8111603
+Yume...,夢,dreams,0.0,0.14303647
+Onii-chan...,お兄ちゃん,brother,0.0,0.20448406
+You're so delicious.,おいしい,delicious,0.2,0.6036448

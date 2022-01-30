@@ -1,304 +1,304 @@
-en_text,jp_text,google_translated,score
-A gust of wind came...,（エヴァ）風が吹いて,wind blows,0.14285714285714285
-"At the time, he...",その時 彼は…,At that time he ...,0.5714285714285714
-"Do you want one too, lady?",（男の子）おばちゃんも食べる？,Do you eat a aunt?,0.2727272727272727
-"Hey, Franz!",（父親）こら フランツ,Koranz,0.0
-Thank you.,（エヴァ）ありがとう,Thank you,0.6666666666666666
-Is it good?,（男の子）おいしい？,delicious?,0.2
-Start walking.,（警官）歩きなさい,walk,0.0
-"Oh, hello?",（エヴァ）ああ もしもし,Oh,0.25
+en_text,jp_text,google_translated,score,semantic_score
+A gust of wind came...,（エヴァ）風が吹いて,wind blows,0.14285714285714285,0.6734473
+"At the time, he...",その時 彼は…,At that time he ...,0.5714285714285714,0.823349
+"Do you want one too, lady?",（男の子）おばちゃんも食べる？,Do you eat a aunt?,0.2727272727272727,0.21652101
+"Hey, Franz!",（父親）こら フランツ,Koranz,0.0,0.21291818
+Thank you.,（エヴァ）ありがとう,Thank you,0.6666666666666666,0.7717476
+Is it good?,（男の子）おいしい？,delicious?,0.2,0.34002212
+Start walking.,（警官）歩きなさい,walk,0.0,0.6827214
+"Oh, hello?",（エヴァ）ああ もしもし,Oh,0.25,0.577425
 That's why I'm calling you.,"あなたの おうわさは
 伺っていますよ","Your welter
-I'm talking",0.18181818181818182
+I'm talking",0.18181818181818185,0.30877465
 "Oh, his wife just gave birth, so he's probably\Nstill at the maternity center.","（ロベルト）ああ 彼は
 今 奥さんが出産直後で","Oh he is
-Now my wife is just after childbirth",0.19047619047619047
-"I've heard about you, Miss Eva Heinemann.",エヴァ･ハイネマンさん,Eva Heineman,0.09090909090909091
+Now my wife is just after childbirth",0.19047619047619047,0.6217232
+"I've heard about you, Miss Eva Heinemann.",エヴァ･ハイネマンさん,Eva Heineman,0.09090909090909093,0.7240906
 "Please, feel free to tell me anything you'd like.","私でよければ
 何でも おっしゃってください","If you
-Please say anything",0.21428571428571427
-I thought I'd talk.,（エヴァ）話そうと思って,I think I'm going to talk,0.2222222222222222
-The testimony to prove Tenma's innocence.,テンマの無実を証明する証言,A testimony to prove innocence of the temma,0.45454545454545453
-what hotel are you staying at right now?,（ロベルト）何をですか？,What are you?,0.4444444444444444
+Please say anything",0.21428571428571427,0.5139331
+I thought I'd talk.,（エヴァ）話そうと思って,I think I'm going to talk,0.2222222222222222,0.67190224
+The testimony to prove Tenma's innocence.,テンマの無実を証明する証言,A testimony to prove innocence of the temma,0.4545454545454545,0.6045198
+what hotel are you staying at right now?,（ロベルト）何をですか？,What are you?,0.4444444444444444,0.20168404
 Got it.,"（ロベルト）そうですか
 それは ありがたい","Yes
-It is thankful",0.16666666666666666
-"The car comes, right?",車が来るだろ,The car will come,0.25
-Fall.,来る 倒れる,Fall down,0.3333333333333333
-This timing should be right.,このタイミングでいいんだよな,It is good at this timing,0.2
+It is thankful",0.16666666666666666,0.14403282
+"The car comes, right?",車が来るだろ,The car will come,0.25,0.7138405
+Fall.,来る 倒れる,Fall down,0.3333333333333333,0.7441296
+This timing should be right.,このタイミングでいいんだよな,It is good at this timing,0.2,0.62289697
 What? I'm in the middle of something.,"（グスタフ）何だよ
 俺は 今 忙しいんだよ","What is it
-I'm busy now",0.21428571428571427
-How many times do I have to tell you?,何度 言ったら分かるんだよ,I can see if I say many times,0.21428571428571427
+I'm busy now",0.21428571428571427,0.22226869
+How many times do I have to tell you?,何度 言ったら分かるんだよ,I can see if I say many times,0.21428571428571427,0.66868144
 You really will?,"（ヘレーネ）ホントのホントに
 神様に誓う？","Really Real
-Do you swear God?",0.375
+Do you swear God?",0.375,0.2505009
 "Then kiss me, Gustav.","じゃあ キスして
 グスタフ","Well then kiss
-Gustaf",0.25
+Gustaf",0.25,0.50560045
 Let's continue this in the car.,"（ヘレーネ）ん～
 もっと続きしようよ 車ん中で","~
-Let's continue more",0.3
+Let's continue more",0.3,0.5260451
 Hey! Wait! Stop!,"（ヘレーネ）ん～
 （グスタフ）ああっ！","~
- Oh!",0.16666666666666666
-You used my drugs again?,ああ？,Ah?,0.14285714285714285
-That was the last of my stash!,これでラストだったんだぞ！,This was a last!,0.3
-"No wonder your nose is running, bitch!",てめえは車ん中でラリラリか！,Teme is Larlorari in a wheelchair!,0.14285714285714285
+ Oh!",0.16666666666666666,0.3006701
+You used my drugs again?,ああ？,Ah?,0.14285714285714285,0.10006303
+That was the last of my stash!,これでラストだったんだぞ！,This was a last!,0.3,0.47421563
+"No wonder your nose is running, bitch!",てめえは車ん中でラリラリか！,Teme is Larlorari in a wheelchair!,0.14285714285714285,0.15850289
 I'm out here practicing for my job while\Nyou're in here snorting my stuff?!,"俺が 必死になって
 仕事の練習してる時に","I'm desperate
-When I'm practicing work",0.16666666666666666
-Easy for you to say!,仕事ったって簡単じゃん,It is easy to work,0.2222222222222222
+When I'm practicing work",0.16666666666666666,0.40814775
+Easy for you to say!,仕事ったって簡単じゃん,It is easy to work,0.2222222222222222,0.45797968
 "If I mess up even a little, I'll die!","ちょっと間違ったら
 俺は あの世行きなんだぞ","If you make a little wrong
-I'm her that of her",0.2222222222222222
-You're going to die?,死んじゃうの？,Did you die?,0.42857142857142855
-Isn't it obvious?!,簡単だと？　おい,Is it easy? Oi,0.375
-- I don't want you to die!,死んじゃ やだー！,I'm dead!,0.18181818181818182
-"- No, that was just an example...",あっ いや 例えばの話だよ,"There is a story, for example",0.14285714285714285
-Gustav's gonna die!,グスタフが死んじゃう！,Gustav will die!,0.42857142857142855
-I won't die.,俺は死なねえ,I'm dead,0.14285714285714285
+I'm her that of her",0.2222222222222222,0.2607729
+You're going to die?,死んじゃうの？,Did you die?,0.42857142857142855,0.5562355
+Isn't it obvious?!,簡単だと？　おい,Is it easy? Oi,0.375,0.2101522
+- I don't want you to die!,死んじゃ やだー！,I'm dead!,0.18181818181818185,0.4310949
+"- No, that was just an example...",あっ いや 例えばの話だよ,"There is a story, for example",0.14285714285714285,0.22394852
+Gustav's gonna die!,グスタフが死んじゃう！,Gustav will die!,0.42857142857142855,0.9603232
+I won't die.,俺は死なねえ,I'm dead,0.14285714285714285,0.45673868
 There are still some things I have to do.,"俺には まだ
 やらなきゃいけねえことがある","I'm still
-I have to do it",0.4166666666666667
-Like what?,何？,what?,0.6666666666666666
+I have to do it",0.4166666666666667,0.5692797
+Like what?,何？,what?,0.6666666666666666,0.50333685
 We're going to make a whole soccer team with our kids.,"俺たちのガキだけで
 サッカーチームを作るんだ","Only our oyster
-Create a soccer team",0.25
-Then we'll get married.,そしたら 俺たちは結婚する,Then we get married,0.6666666666666666
+Create a soccer team",0.25,0.57294697
+Then we'll get married.,そしたら 俺たちは結婚する,Then we get married,0.6666666666666666,0.9093284
 "You'll make my dream come true, right, Helene?","俺の夢 かなえてくれるよな？
 ヘレーネ","You're a dream come true?
-Herrene",0.35714285714285715
+Herrene",0.35714285714285715,0.552392
 "Oh, Gustav!","（ヘレーネ）ああ～ グスタフ！
-（グスタフ）おわっ",Oh ~ Gustav!,0.6
-Be patient for now.,（グスタフ）今は我慢しろ,Now you,0.16666666666666666
+（グスタフ）おわっ",Oh ~ Gustav!,0.6,0.9285954
+Be patient for now.,（グスタフ）今は我慢しろ,Now you,0.16666666666666666,0.37765464
 "It's almost time for a ""Detective Forster"" rerun.","もうすぐ 「刑事フォルスター」の
 再放送が始まる時間だ","Of ""criminal Fortar"" soon
-It is time for rebroadcast start",0.2631578947368421
-I fall down.,（ロベルト）殺そうと思いましてね,I think I will kill,0.14285714285714285
-The car comes...,車が来る…,A car comes ...,0.6
+It is time for rebroadcast start",0.2631578947368421,0.33478695
+I fall down.,（ロベルト）殺そうと思いましてね,I think I will kill,0.14285714285714285,0.24239184
+The car comes...,車が来る…,A car comes ...,0.6,0.94919026
 Eva Heinemann.,"あなたの元婚約者
 エヴァ･ハイネマンを","Your foster fiancee
-Eva Heineeman",0.14285714285714285
-Stop!,やめろ！,Stop!,1.0
+Eva Heineeman",0.14285714285714285,0.5424376
+Stop!,やめろ！,Stop!,1.0,1.0000008
 "Such nice weather, yet I'm stuck in a car like this.","こんな いい天気なのに
 こんな車に乗せられて","Even though it is such a good weather
-It is put on such a car",0.19047619047619047
-"Man, I'm so unlucky.",いや 俺はツイてねえや,"No, I'm twitting",0.3333333333333333
-"Now then, which should I start with?",今 何時だって聞いてんだよ,I heard that now,0.18181818181818182
-Shut up!,（看守）私語を慎め,Shear private language,0.0
-What time is it?,今 何時だい？,What time is it now?,0.8333333333333334
-It's 9:32.,（看守）んん… ９時32分だ,... It is 9:32,0.3333333333333333
+It is put on such a car",0.19047619047619047,0.67572546
+"Man, I'm so unlucky.",いや 俺はツイてねえや,"No, I'm twitting",0.3333333333333333,0.22356947
+"Now then, which should I start with?",今 何時だって聞いてんだよ,I heard that now,0.18181818181818185,0.081812836
+Shut up!,（看守）私語を慎め,Shear private language,0.0,0.16818543
+What time is it?,今 何時だい？,What time is it now?,0.8333333333333334,0.85354805
+It's 9:32.,（看守）んん… ９時32分だ,... It is 9:32,0.3333333333333333,0.9446975
 If I were out in the free world...,"シャバにいれば
 もうすぐ テレビで","If you are in Shaba
-On the television soon",0.2
+On the television soon",0.2,0.2758072
 "it'd almost be time for a rerun\Nof ""Detective Forster"" on TV.","「刑事フォルスター」の
 再放送が始まる時間だ","""Detective Fortar""
-It is time for rebroadcast start",0.3157894736842105
-Did you ever watch that show?,見てたかい？　あのドラマ,Did you see?That drama,0.4444444444444444
-It's really good.,面白いんだぜ,It is interesting,0.14285714285714285
-You just watch me work from here.,俺の仕事ぶりを ここで見てな,I'm looking at my work here,0.15384615384615385
-A gun...,んん…,...,0.3333333333333333
-Are you going to shoot it?,まさか 撃つの？,Do you shoot?,0.375
-I'm just gonna use it to scare them.,撃たねえよ 脅しに使うだけだ,I'm just doing it for threatening,0.2857142857142857
+It is time for rebroadcast start",0.3157894736842105,0.46951917
+Did you ever watch that show?,見てたかい？　あのドラマ,Did you see?That drama,0.4444444444444444,0.5259844
+It's really good.,面白いんだぜ,It is interesting,0.14285714285714285,0.39051506
+You just watch me work from here.,俺の仕事ぶりを ここで見てな,I'm looking at my work here,0.15384615384615385,0.5901502
+A gun...,んん…,...,0.3333333333333333,0.2590532
+Are you going to shoot it?,まさか 撃つの？,Do you shoot?,0.375,0.71681803
+I'm just gonna use it to scare them.,撃たねえよ 脅しに使うだけだ,I'm just doing it for threatening,0.2857142857142857,0.5251924
 Don't shoot anyone!,"撃たないでよ
 私も ヤク やめるからさ！","Don't shoot
-I also stop Yak!",0.4444444444444444
-"I love you, Helene.",愛してるぜ ヘレーネ,I love you,0.5
-I've really decided!,本当に心に決めた,I really decided on my heart,0.375
+I also stop Yak!",0.4444444444444444,0.61929685
+"I love you, Helene.",愛してるぜ ヘレーネ,I love you,0.5,0.5156758
+I've really decided!,本当に心に決めた,I really decided on my heart,0.375,0.5450474
 Let's get married!,"（グスタフ）結婚しよう
 （ヘレーネ）ホント？","Let's get married
- Real?",0.5714285714285714
+ Real?",0.5714285714285714,0.70284325
 Really?,"（ヘレーネ）ホント？
 （グスタフ）ああ","Real?
- Oh",0.25
-We're gonna live honestly from now on.,これからは まともになるんだ,It will be decent from now on,0.21428571428571427
+ Oh",0.25,0.40158564
+We're gonna live honestly from now on.,これからは まともになるんだ,It will be decent from now on,0.21428571428571427,0.32612118
 I won't do jobs where I have to\Nwave a gun around anymore.,"もう 銃なんか
 振り回す仕事はしねえ","Another gun anymore
-Work to swing",0.11764705882352941
-Helene!,ヘレーネ！,Heline!,0.3333333333333333
-What is it?,なあに？,What is it?,1.0
-I love you from the bottom of my...,心から愛して…,I love you from my heart ...,0.6
-What happened?,（看守）どうした？,What happened?,1.0
-I...,（運転手）ひ… 人を… はねました,... Hey people ...,0.25
-That was probably my little brother...,多分 俺の弟分だ,Maybe my younger brother,0.2222222222222222
-"The plan... failed, Dr. Tenma...",計画は… 失敗だ Dr.(ドクター)テンマ,The plan is ... Failed Dr.  Temma,0.5555555555555556
+Work to swing",0.1176470588235294,0.45124602
+Helene!,ヘレーネ！,Heline!,0.3333333333333333,0.38795987
+What is it?,なあに？,What is it?,1.0,0.99999994
+I love you from the bottom of my...,心から愛して…,I love you from my heart ...,0.6,0.6953457
+What happened?,（看守）どうした？,What happened?,1.0,1.0000001
+I...,（運転手）ひ… 人を… はねました,... Hey people ...,0.25,0.33504722
+That was probably my little brother...,多分 俺の弟分だ,Maybe my younger brother,0.2222222222222222,0.66847706
+"The plan... failed, Dr. Tenma...",計画は… 失敗だ Dr.(ドクター)テンマ,The plan is ... Failed Dr.  Temma,0.5555555555555556,0.7261435
 I taught Gustav the timing and\Nacting over and over again...,"さんざん グスタフに
 タイミングと演技を教え込んだのに","To Saman Gustav
-I was taught timing and acting",0.35714285714285715
+I was taught timing and acting",0.35714285714285715,0.7618802
 "but in the end, nobody can do it as well as me.","やっぱり 俺みたいに うまく
 やれるやつなんて いないんだ","After all it works well like me
-I'm not doing something you can do",0.21739130434782608
+I'm not doing something you can do",0.21739130434782608,0.4339882
 I asked him to pass out on the road like he was sick...,"病人のように道に倒れて
 走ってくる車を止めるなんて","Fall down to the road like a sick person
-Stop the car running",0.23809523809523808
-And yet... and yet...,それを… それを…,That's ... it ...,0.16666666666666666
+Stop the car running",0.2380952380952381,0.5224196
+And yet... and yet...,それを… それを…,That's ... it ...,0.16666666666666666,0.28772837
 "I don't really get what you're saying, but...","何を言っているのか
 よく分からんが","What are you saying
-I do not understand well",0.3125
+I do not understand well",0.3125,0.35735175
 go check and see if it's someone you know or not!,"とにかく お前の
 知ってる男かどうか確かめてみろ","Anyway, your
-Make sure to know if you know",0.15789473684210525
-"Oh, Gustav...",あっ ああ… あっ あっ あっ,Oh Oh ...,0.5
-Helene...,（看守）こりゃあ… まずい,...,0.5
-Get out.,降りろ,Falling down,0.0
-Hey!,おい,Oi,0.0
+Make sure to know if you know",0.15789473684210525,0.32651815
+"Oh, Gustav...",あっ ああ… あっ あっ あっ,Oh Oh ...,0.5,0.3518616
+Helene...,（看守）こりゃあ… まずい,...,0.5,0.17447692
+Get out.,降りろ,Falling down,0.0,0.22122897
+Hey!,おい,Oi,0.0,0.27923205
 Gustav's dead...,"（ヘレーネ）グスタフが
 死んじゃった…","Gustav
-died…",0.2
+died…",0.2,0.89689595
 Is he alive?,"ど… どうなんだ？
 生きているのか？","... What?
-Are you alive?",0.25
+Are you alive?",0.25,0.58360684
 Maybe we should tell him to cover it up in the report...,"（看守）報告書で
 うまく ごまかすように…","In the report
-To go well ...",0.3333333333333333
-"I know, but...",（看守）いや しかし… あっ,"No, but ...",0.5
-The keys!,手錠の鍵を！,Handcuff key!,0.2
-Are you waiting for someone?,（従業員）お待ち合わせですか？,Are you waiting?,0.6666666666666666
-Yes.,ええ,Yes,0.5
-Would you like anything to drink?,何か お飲み物は？,What do you drink?,0.3333333333333333
-A Scotch.,スコッチ,Scotch,0.3333333333333333
-"No, wait.",いや…,Disagreeable…,0.0
-A cup of coffee.,コーヒーを,Coffee,0.2
-In our next story....,（アナウンサー）次のニュースです,The next news,0.125
+To go well ...",0.3333333333333333,0.4226336
+"I know, but...",（看守）いや しかし… あっ,"No, but ...",0.5,0.51916623
+The keys!,手錠の鍵を！,Handcuff key!,0.2,0.5641363
+Are you waiting for someone?,（従業員）お待ち合わせですか？,Are you waiting?,0.6666666666666666,0.7301496
+Yes.,ええ,Yes,0.5,0.8368556
+Would you like anything to drink?,何か お飲み物は？,What do you drink?,0.3333333333333333,0.72206813
+A Scotch.,スコッチ,Scotch,0.3333333333333333,0.86218274
+"No, wait.",いや…,Disagreeable…,0.0,0.109574825
+A cup of coffee.,コーヒーを,Coffee,0.2,0.8656907
+In our next story....,（アナウンサー）次のニュースです,The next news,0.125,0.5126472
 A fire struck a large shopping mall in Dortmund today.,"今日 午前 ドルトムントの
 大型ショッピングセンターで","Today's Limit Dortmund
-At a large shopping center",0.35714285714285715
+At a large shopping center",0.35714285714285715,0.54114664
 "Thanks to the employees triggering the fire alarm,\Nthe blaze was brought under control...","従業員の通報により
 火は消し止められましたが","By the report of employees
-The fire was erased",0.21052631578947367
-but two stores were completely lost.,２店舗が全焼,Two stores are overwhelmed,0.2222222222222222
-Please wait in the hotel lobby.,ホテルのロビーでお待ちください,Please wait in the hotel lobby,0.8571428571428571
+The fire was erased",0.21052631578947367,0.66403943
+but two stores were completely lost.,２店舗が全焼,Two stores are overwhelmed,0.2222222222222222,0.54476935
+Please wait in the hotel lobby.,ホテルのロビーでお待ちください,Please wait in the hotel lobby,0.8571428571428571,0.98809576
 What are you trying to do by setting that man free?,"あの男を無実にして
 どうするつもり？","Instead of that man
-What do you do?",0.42857142857142855
-"At 10 o'clock this morning, in a suburb\Nof Düsseldorf, Erkrath...",今朝 午前10時,10 am this morning,0.23076923076923078
+What do you do?",0.42857142857142855,0.5352229
+"At 10 o'clock this morning, in a suburb\Nof Düsseldorf, Erkrath...",今朝 午前10時,10 am this morning,0.2307692307692308,0.52800894
 the two fugitives who escaped were....,"容疑者２名が
 護送車から脱走しました","Two suspects
-I escaped from the protection car",0.23076923076923078
+I escaped from the protection car",0.2307692307692308,0.57257473
 "Gunther Milch, arrested for armored car robbery...","現金輸送車 強奪容疑の
 ギュンター･ミルヒ容疑者","Cash transport car robbery
-Gunter Milhi",0.15384615384615385
+Gunter Milhi",0.15384615384615385,0.5370629
 The police have been deployed...,"（アナウンサー）
-警察は緊急配備を敷き",Police lay emergency deployment,0.1111111111111111
+警察は緊急配備を敷き",Police lay emergency deployment,0.1111111111111111,0.73651505
 and are now tracking down the two fugitives.,"脱走した容疑者２名の行方を
 追跡するもようです","Wherever of the missed suspects
-It seems to be tracking",0.11764705882352941
-Why?,何で？,why?,1.0
-"Yes, hello?",（ロベルト）はい もしもし,Yes Yes,0.25
-"Oh, Mr. Verdeman.",ああ ヴァーデマンさん,Oh Vademan,0.16666666666666666
-"Yes, I heard the news.",ええ ニュース 聞きましたよ,Yeah News I heard,0.375
+It seems to be tracking",0.1176470588235294,0.5895109
+Why?,何で？,why?,1.0,0.99999976
+"Yes, hello?",（ロベルト）はい もしもし,Yes Yes,0.25,0.4339765
+"Oh, Mr. Verdeman.",ああ ヴァーデマンさん,Oh Vademan,0.16666666666666666,0.45680764
+"Yes, I heard the news.",ええ ニュース 聞きましたよ,Yeah News I heard,0.375,0.8035779
 Why did you have to escape?,"何で 脱走なんか
 しなくちゃいけないの？","What do you get escaped
-Do you have to do it?",0.3333333333333333
+Do you have to do it?",0.3333333333333333,0.65661454
 "Well, it's no use asking me about it.","私には やっておかなければ
 ならない用がありまして","If you do not do it
-There is no use",0.1875
+There is no use",0.1875,0.39417586
 "For now, let's just head over to the police station.","ええ とりあえず
 警察署のほうへ行ってみましょう","Yeah, for the time being
-Let's go to the police station",0.47058823529411764
-However...,ただ 実は その前に,"However, in fact",0.2
-Yes. Yes. That's true.,なるほど,So that's it,0.2857142857142857
+Let's go to the police station",0.4705882352941176,0.7636799
+However...,ただ 実は その前に,"However, in fact",0.2,0.60839444
+Yes. Yes. That's true.,なるほど,So that's it,0.2857142857142857,0.2140601
 We must both deal with the current situation calmly.,"事態が事態ですから
 我々も冷静に対処しなくては","Because the situation is a situation
-We do not cure calmly",0.25
-That voice...,（エヴァ）この声…,This voice ...,0.5
+We do not cure calmly",0.25,0.5508442
+That voice...,（エヴァ）この声…,This voice ...,0.5,0.85668516
 "In any case, we have to get the details.","（ロベルト）とにかく
 詳細を把握しなければ… ええ","Anyway
-If you do not know the details ... yeah",0.10526315789473684
+If you do not know the details ... yeah",0.10526315789473684,0.53219086
 "Yes, it's exactly as you said.","（ロベルト）
-ええ おっしゃるとおりです",Yeah it is right,0.08333333333333333
-Roberto!,ロベルト！,Roberto!,1.0
-Here's your coffee...,コーヒーを…,Coffee ...,0.4
-That's not... my cigarette...,私の… たばこじゃない,My ... not stupid,0.42857142857142855
-This smell...,うっ… このにおい…,Uh ... this smell ...,0.75
-It's that man's smell...,（エヴァ）あの男のにおい,That man's smell,0.6666666666666666
+ええ おっしゃるとおりです",Yeah it is right,0.08333333333333333,0.43329924
+Roberto!,ロベルト！,Roberto!,1.0,1.0
+Here's your coffee...,コーヒーを…,Coffee ...,0.4,0.6649826
+That's not... my cigarette...,私の… たばこじゃない,My ... not stupid,0.42857142857142855,0.37027916
+This smell...,うっ… このにおい…,Uh ... this smell ...,0.75,0.85379535
+It's that man's smell...,（エヴァ）あの男のにおい,That man's smell,0.6666666666666666,0.85778666
 Roberto was just in this room!,"たった今まで
 この部屋にロベルトがいた","Now
-There was a Roberto in this room",0.5
+There was a Roberto in this room",0.5,0.9112964
 Gustav's dead!,"ああっ グスタフ
 グスタフが死んじゃった！","A Gostuff
-Gustav died!",0.2857142857142857
+Gustav died!",0.2857142857142857,0.8247788
 "He hit his head, and he's not bleeding.","だが こいつは無理だ
 頭 打って 血も出ねえ","But this guy is impossible
-Head and get blood",0.11764705882352941
-"Isn't that right, Doctor?",そうだろ？　ドクター,That's right?Doctor,0.5
-"I understand how you feel, but...",お前の気持ちは分かるが,I understand your feelings,0.2
+Head and get blood",0.1176470588235294,0.56950724
+"Isn't that right, Doctor?",そうだろ？　ドクター,That's right?Doctor,0.5,0.8295477
+"I understand how you feel, but...",お前の気持ちは分かるが,I understand your feelings,0.2,0.64844614
 "we're going to change cars at the path through\Nthe forest up ahead, like we planned.","予定どおり
 この先の林道で車を乗り換える","As scheduled
-Switch to the car on the forest road ahead",0.17391304347826086
+Switch to the car on the forest road ahead",0.17391304347826084,0.73035824
 Gustav is just a burden.,"グスタフは足手まといだ
 この車に置いていく","Gustav is a footstep
-He puts in this car",0.25
-No!,嫌だ！,I hate it!,0.2
+He puts in this car",0.25,0.49646625
+No!,嫌だ！,I hate it!,0.2,0.34438556
 You crazy?,"（テンマ）このまま行け
 （ミルヒ）えっ？","Go this
-?",0.2
+?",0.2,0.3035117
 The cops have seen this car.,"バカ言え
 この車は警察に見られてるんだ","Stupid
-This car is seen by the police",0.36363636363636365
-They'll find us in no time!,あっという間に足がつくぜ,I have a foot in no time,0.25
+This car is seen by the police",0.3636363636363637,0.75437665
+They'll find us in no time!,あっという間に足がつくぜ,I have a foot in no time,0.25,0.37523037
 If we can get him to a hospital soon...,"少しでも早く 病院へ収容すれば
 助かる可能性がある","If you accommodate the hospital as soon as possible
-May help",0.17647058823529413
-A hospital?,病院だ？,Is it a hospital?,0.6
-"Doctor, your quick-wittedness saved my\Nescape plan when it was about to fail.",帳消しにしてもらった,I was asked to cancel,0.11764705882352941
+May help",0.17647058823529413,0.55043834
+A hospital?,病院だ？,Is it a hospital?,0.6,0.8896353
+"Doctor, your quick-wittedness saved my\Nescape plan when it was about to fail.",帳消しにしてもらった,I was asked to cancel,0.1176470588235294,0.16233455
 "I feel sorry for him, but we'll leave Gustav at\Nthe path through the forest up ahead and...","かわいそうだが グスタフは
 この先の林道に置いて…","It looks cute but Gustav
-Put on the forest road ahead ...",0.23076923076923078
+Put on the forest road ahead ...",0.2307692307692308,0.7126129
 keep driving to the hospital!,"（ミルヒ）えっ？
 （テンマ）このまま病院へ行け","?
- Go to the hospital as it is",0.2727272727272727
-Eisler Memorial Hospital,アイスラー記念病院だ,Iceler Memorial Hospital,0.5
+ Go to the hospital as it is",0.2727272727272727,0.6229208
+Eisler Memorial Hospital,アイスラー記念病院だ,Iceler Memorial Hospital,0.5,0.7306423
 They have the best equipment\Nand staff in Düsseldorf there.,"デュッセルドルフで 最も優れた
 設備とスタッフが整っている","The best in Düsseldorf
-Equipment and staff are ready",0.35714285714285715
+Equipment and staff are ready",0.35714285714285715,0.8976636
 Hurry!,"（ノック）
-（エヴァ）うっ！",Uh!,0.3333333333333333
+（エヴァ）うっ！",Uh!,0.3333333333333333,0.37441158
 The main entrance to the hospital is just ahead.,"（テンマ）この先が
 病院の正面入り口だ","This ahead
-It is the front entrance of the hospital",0.38461538461538464
+It is the front entrance of the hospital",0.38461538461538464,0.8669181
 tell them to give this letter to Dr. Wagner.,"入り口に着いたら この手紙を
 Dr.ワグネルに渡すように言うんだ","If you arrive at the entrance this letter
-Dr. I say to pass to the wagnel",0.21052631578947367
-It contains a detailed description of the accident.,事故の状況を事細かに書いてある,The situation of the accident is written in detail,0.21428571428571427
-Gustav won't die?,グスタフ 死なない？,Don't Gustav Death?,0.42857142857142855
-He's still alive!,彼は まだ生きている,He is still alive,0.5
-Hurry up and go!,早く行け！,Go quickly!,0.3333333333333333
+Dr. I say to pass to the wagnel",0.21052631578947367,0.45168063
+It contains a detailed description of the accident.,事故の状況を事細かに書いてある,The situation of the accident is written in detail,0.21428571428571427,0.7989389
+Gustav won't die?,グスタフ 死なない？,Don't Gustav Death?,0.42857142857142855,0.8857256
+He's still alive!,彼は まだ生きている,He is still alive,0.5,0.8550298
+Hurry up and go!,早く行け！,Go quickly!,0.3333333333333333,0.7030377
 Where are you going?,"（ミルヒ）えっ？
 どうするんだよ どこ行くんだ？","?
-What do you do? Where are you going?",0.7142857142857143
+What do you do? Where are you going?",0.7142857142857143,0.75095403
 You'd better stick with me.,"俺と一緒にいたほうがいいぜ
 あんた 素人だ","You should be with me
-An amateur",0.2727272727272727
+An amateur",0.2727272727272727,0.26788422
 You're a complete amateur at this.,"いつまでも
 こんなところでフラフラしてたら","forever and ever
-If you're fluffy this place",0.21428571428571427
+If you're fluffy this place",0.21428571428571427,0.107707955
 The life of a woman I know is in danger.,"知り合いの女性が
 命を狙われている","Meish woman
-It is targeted for her life",0.1875
-I have to get to her as soon as possible.,すぐに行かなきゃならない,I have to go soon,0.4
-A woman?,女？,woman?,0.6666666666666666
+It is targeted for her life",0.1875,0.5098359
+I have to get to her as soon as possible.,すぐに行かなきゃならない,I have to go soon,0.4,0.5633628
+A woman?,女？,woman?,0.6666666666666666,0.87378013
 You mean to tell me that's why you escaped?,"まさか あんた
 そのために脱走したのか？","I'm sorry
-Did you escape for that?",0.1875
+Did you escape for that?",0.1875,0.67864317
 "If you want women, just come with me to Tunisia.","女なんて
 俺とチュニジアまで逃げ延びれば","Woman
-If you run away to Tunisia",0.26666666666666666
+If you run away to Tunisia",0.26666666666666666,0.6834701
 Doctor.,"（ミルヒ）ドクター
 （テンマ）ん…","doctor
- ...",0.3333333333333333
+ ...",0.3333333333333333,0.8670063
 "You haven't really killed anyone, have you?","あんた ホントは
 人なんて殺しちゃいないんだろ？","Ahono
-You can't kill people?",0.25
+You can't kill people?",0.25,0.5958725
 I shot one person...,"１人 撃った
 だが そいつは生きていた","I shot one person
-But he was alive",0.4444444444444444
-That's not killing.,ハハハッ そりゃ 殺しじゃねえ,Hahaha Haji I'm not killing,0.2222222222222222
+But he was alive",0.4444444444444444,0.83840847
+That's not killing.,ハハハッ そりゃ 殺しじゃねえ,Hahaha Haji I'm not killing,0.2222222222222222,0.47923633
 But you've got a real criminal record now.,"だが あんたには
 ホントの前科がついちまった","But to you
-The frontists of the",0.14285714285714285
+The frontists of the",0.14285714285714285,0.16142966
 "Let's meet up in Tunisia someday, fugitive to fugitive.","脱走犯同士
 いつか チュニジアで会おう","De-escaped
-Someday he will meet in Tunisia",0.2857142857142857
-It's a great place!,あんた 立派な脱走犯だ,It is a good deal,0.2222222222222222
+Someday he will meet in Tunisia",0.2857142857142857,0.75676394
+It's a great place!,あんた 立派な脱走犯だ,It is a good deal,0.2222222222222222,0.3079447

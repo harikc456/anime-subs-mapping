@@ -1,381 +1,381 @@
-en_text,jp_text,google_translated,score
-No way.,ウソ,Lie,0.0
-And agility is... rank D?!,力と耐久力がＥ 敏捷(びんしょう) Ｄ!?,Power and Durability E Nga  D!?,0.3333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+No way.,ウソ,Lie,0.0,0.15512185
+And agility is... rank D?!,力と耐久力がＥ 敏捷(びんしょう) Ｄ!?,Power and Durability E Nga  D!?,0.3333333333333333,0.22209312
 Your status has greatly increased in such a short time.,"この短期間でステイタスが
 急成長している","Status is in this short period of time
-Suddenly growing",0.23529411764705882
+Suddenly growing",0.2352941176470588,0.6702289
 but your ability is the real deal.,"私じゃ 読めないところもあるけど
 アビリティは本物だし","I can not read me
-Ability is real",0.23076923076923078
-So now the problem is...,そうなると 問題は…,"If so, the problem is ...",0.625
+Ability is real",0.2307692307692308,0.67258763
+So now the problem is...,そうなると 問題は…,"If so, the problem is ...",0.625,0.5374273
 "Bell, are you free tomorrow?","ベル君 明日
 予定 空いてるかな？","Bell Tomorrow
-Are you planned free?",0.75
-Dungeon?,（ベル）ん？,?,0.5
-"Ah, Miss Eina!",あっ エイナさん えっ？,Aina Eina?,0.14285714285714285
+Are you planned free?",0.75,0.89596486
+Dungeon?,（ベル）ん？,?,0.5,0.18415461
+"Ah, Miss Eina!",あっ エイナさん えっ？,Aina Eina?,0.14285714285714285,0.72494936
 I didn't think you'd be that excited about shopping with me.,"私との買い物が
 そんなに楽しみだったの？","Shopping with me
-Did you enjoy it so much?",0.2631578947368421
-"No, uh, the thing is...",えっ あっ いや 僕は…,"Yes, I'm ...",0.2
+Did you enjoy it so much?",0.2631578947368421,0.4975218
+"No, uh, the thing is...",えっ あっ いや 僕は…,"Yes, I'm ...",0.2,0.4008973
 "Actually, I was looking forward to it, too.","まあ 実は私も
 楽しみにしてたんだよね","Well, I am also
-I'm looking forward to it",0.42857142857142855
-About your armor...,ベル君の防具なんだけどさ…,Bell's armor but ...,0.2857142857142857
+I'm looking forward to it",0.42857142857142855,0.6941493
+About your armor...,ベル君の防具なんだけどさ…,Bell's armor but ...,0.2857142857142857,0.45251733
 "Say, Bell, don't you have anything to say about my outfit?","ベル君 私の この格好を見て
 何か言うことはない？","Bell you look at this style
-Is there anything to say?",0.3157894736842105
+Is there anything to say?",0.3157894736842105,0.7359416
 You look a l-lot...,"（ベル）あっ そ… その すっごく
 いつもより若々しく見えます","... That's why
-You can see more blindly more",0.16666666666666666
-Please forgive me!,許してくださ～い！,Please forgive me!,1.0
+You can see more blindly more",0.16666666666666666,0.24077696
+Please forgive me!,許してくださ～い！,Please forgive me!,1.0,1.0
 So where are we going today?,"（ベル）
-で 今日は どこに行くんですか？",So where do he go today?,0.4
-There!,ええ～っ！,Yeah!,0.3333333333333333
+で 今日は どこに行くんですか？",So where do he go today?,0.4,0.68126255
+There!,ええ～っ！,Yeah!,0.3333333333333333,0.41665912
 To Babel?,"バベル？
-（エイナ）そう",Babel?,0.6666666666666666
+（エイナ）そう",Babel?,0.6666666666666666,0.8496702
 To the Hephaestus Familia's shop.,"ヘファイストス･ファミリアの
 お店だよ","Hephizstus Familia
-It is a shop",0.18181818181818182
-I don't have the kind of money needed to shop at the Hephaestus Familia's store!,持ってないですよ,I do not have it,0.15789473684210525
-Miss Eina!,エ… エイナさん,Mr. Eina,0.25
+It is a shop",0.18181818181818185,0.70387286
+I don't have the kind of money needed to shop at the Hephaestus Familia's store!,持ってないですよ,I do not have it,0.15789473684210525,0.11670678
+Miss Eina!,エ… エイナさん,Mr. Eina,0.25,0.7139597
 I had no idea there was a store like this in Babel.,"知りませんでした
 バベルに こんな店があったなんて","I did not know
-She had such a shop in Babel",0.2631578947368421
-"We're heading to the upper floors,",お目当ては上の階なんだけど―,Who is the upper floor?,0.16666666666666666
+She had such a shop in Babel",0.2631578947368421,0.75398856
+"We're heading to the upper floors,",お目当ては上の階なんだけど―,Who is the upper floor?,0.16666666666666666,0.7024584
 "but this is also part of the Hephaestus Familia's store, so let's take a look.","ここもヘファイストス･
 ファミリアのお店だから―","Here too Hephizstus
-Because it is a family of Familia-",0.12
+Because it is a family of Familia-",0.12,0.62011355
 "Can I help you find anything today, sir?","近頃 やけに忙しそうだと
 思ってたらバイトの掛け持ち？","It seems to be busy at all times
-When I thought, hold the byte?",0.13043478260869565
+When I thought, hold the byte?",0.13043478260869565,0.10663416
 Bell!,"ベル君！
 （ベル）神様？","Bell!
- God?",0.5
-What are you doing here?!,何やってるんですか こんな所で！,What are you doing in this place!,0.5
+ God?",0.5,0.82662195
+What are you doing here?!,何やってるんですか こんな所で！,What are you doing in this place!,0.5,0.7514391
 And who's this half-elf?,"むっ というか誰だい
 このハーフエルフ君は！","Who is it?
-This half elf!",0.2727272727272727
-This is—,あっ そうだ 神様 この人が…,It looks like God This person ...,0.125
+This half elf!",0.2727272727272727,0.94988024
+This is—,あっ そうだ 神様 この人が…,It looks like God This person ...,0.125,0.21483114
 "My name is Eina Tulle, from the Guild.","はじめまして 神ヘスティア
 ギルド所属のエイナ･チュールです","Nice to meet you God Hestia
-It is an Eina tulu belonging to the guild",0.2
+It is an Eina tulu belonging to the guild",0.2,0.6043303
 I'm Bell Cranel's advisor for his forays into the Dungeon.,"ベル･クラネル氏の
 迷宮探索アドバイザーを―","Bell Clean
-Labyrinth search adviser-",0.058823529411764705
-Is that right?,は？,teeth?,0.2
+Labyrinth search adviser-",0.05882352941176471,0.4749092
+Is that right?,は？,teeth?,0.2,0.24053615
 "You're not trying to use your \Nposition to seduce Bell, are you?","ベル君に色目を使うなんてこと
 してないだろうね？","Bell you use a faint eye
-Do you not do it?",0.2777777777777778
+Do you not do it?",0.2777777777777778,0.52332556
 I-I believe in keeping my private and professional lives separate!,"（エイナ）こ… 公私の区別は
 つけているつもりですが","... Public and private distinction
-I'm going to put it on",0.09523809523809523
+I'm going to put it on",0.09523809523809523,0.43720987
 You think that a luxury brand,"ヘファイストス･ファミリア
 みたいな高級ブランド―","Hephizstus Familia
-Luxury brand like",0.2222222222222222
-Yes.,（エイナ）はい 到着,Yes arrived,0.3333333333333333
-But that's not actually true.,実は そうでもないんだなあ,Actually there is no,0.1
-"Here, take a look.",ほら 見てみて,Look at,0.14285714285714285
+Luxury brand like",0.2222222222222222,0.5820541
+Yes.,（エイナ）はい 到着,Yes arrived,0.3333333333333333,0.24818839
+But that's not actually true.,実は そうでもないんだなあ,Actually there is no,0.1,0.27896282
+"Here, take a look.",ほら 見てみて,Look at,0.14285714285714285,0.25989193
 It's not that expensive.,"（ベル）
-あ あれ？　そんなに高くない",?It is not so high,0.2
-Surprised?,（ヘスティア）フフッ 驚いた？,Fufu was surprised?,0.5
+あ あれ？　そんなに高くない",?It is not so high,0.2,0.3028407
+Surprised?,（ヘスティア）フフッ 驚いた？,Fufu was surprised?,0.5,0.42659828
 "Even if it's on the cheap side, it's beneficial for them","安くても実際に売られて
 評価を受けることが―","It is actually sold even if it is cheap
-Evaluation to be evaluated-",0.21052631578947367
-"Come on, let's go.",さっ 行こ,Let's go,0.42857142857142855
-I'll go see what's in the back!,奥のほうも見てきますね,I will see my back,0.25
-"Wait, Bell!",（エイナ）あっ ベル君！　もう…,Available! already…,0.16666666666666666
-Jeez...,（ベル）わあ…,Wow ...,0.3333333333333333
-Welf Crozzo.,“ヴェルフ･クロッゾ”,"""Velph Crossz""",0.0
-That's almost everything I've got on me.,手持ち ほぼ全部 でも…,Even everything hand is almost all ...,0.13333333333333333
-But...,値段はと… げっ！,The price is ...,0.2
+Evaluation to be evaluated-",0.21052631578947367,0.3991617
+"Come on, let's go.",さっ 行こ,Let's go,0.42857142857142855,0.6789973
+I'll go see what's in the back!,奥のほうも見てきますね,I will see my back,0.25,0.6246514
+"Wait, Bell!",（エイナ）あっ ベル君！　もう…,Available! already…,0.16666666666666666,0.15154968
+Jeez...,（ベル）わあ…,Wow ...,0.3333333333333333,0.4419391
+Welf Crozzo.,“ヴェルフ･クロッゾ”,"""Velph Crossz""",0.0,0.3209063
+That's almost everything I've got on me.,手持ち ほぼ全部 でも…,Even everything hand is almost all ...,0.13333333333333333,0.37414843
+But...,値段はと… げっ！,The price is ...,0.2,0.24204206
 "There you are, Bell.","ああ いた いた ベル君
-（ベル）あっ","Oh, Bell you wanted",0.375
-I-I'm sorry.,す… すいません,... I'm sorry,0.3333333333333333
-It's fine.,いいよ ベル君が使うんだもんね,It's okay Bell you use,0.25
+（ベル）あっ","Oh, Bell you wanted",0.375,0.7506797
+I-I'm sorry.,す… すいません,... I'm sorry,0.3333333333333333,0.7024303
+It's fine.,いいよ ベル君が使うんだもんね,It's okay Bell you use,0.25,0.40490457
 "If that's what you want, you should buy it.","君が これって決めたんなら
 それでいいと思う","If you decide this
-I think that's fine",0.25
+I think that's fine",0.25,0.4149246
 So are you going to the Dungeon tomorrow?,"（エイナ）で 明日も
 ダンジョンに行くの？","tomorrow
-Do you go to the dungeon?",0.5454545454545454
-Yes!,はい！,Yes!,1.0
-At least hire a supporter.,せめてサポーターを雇うとか,Hire a supporter at least,0.8333333333333334
-A supporter?,（ベル）サポーターですか？,Is it a supporter?,0.6
+Do you go to the dungeon?",0.5454545454545454,0.90338904
+Yes!,はい！,Yes!,1.0,1.0000001
+At least hire a supporter.,せめてサポーターを雇うとか,Hire a supporter at least,0.8333333333333334,0.9480704
+A supporter?,（ベル）サポーターですか？,Is it a supporter?,0.6,0.85511434
 "If you want, I can look for one.","（エイナ）できれば パーティも
 組んでほしいんだけどね","If possible, the party
-I want you to form",0.3333333333333333
-I'll think about it.,うん 何かと効率も上がると思うよ,Yeah I think that it will increase efficiency,0.2727272727272727
-Thanks for coming with me today.,今日は ありがとうございました,Thank you for your time today,0.18181818181818182
-"Bell, take this.",（エイナ）ベル君 はい これ,Bell Yes,0.16666666666666666
+I want you to form",0.3333333333333333,0.34728402
+I'll think about it.,うん 何かと効率も上がると思うよ,Yeah I think that it will increase efficiency,0.2727272727272727,0.23071638
+Thanks for coming with me today.,今日は ありがとうございました,Thank you for your time today,0.18181818181818185,0.5511414
+"Bell, take this.",（エイナ）ベル君 はい これ,Bell Yes,0.16666666666666666,0.797719
 Wh-What is it?,"そうだ
 （ベル）えっ？","That's it
-?",0.3333333333333333
+?",0.3333333333333333,0.23998535
 It's a present from me.,"私からのプレゼント
 ちゃんと使ってあげてね","Present from me
-Please use properly",0.3
+Please use properly",0.3,0.5517363
 "For your sake, not mine.","もらってほしいな
 私じゃなくて 君自身のために","I want you to get
-Not me, for your own",0.2857142857142857
+Not me, for your own",0.2857142857142857,0.37865135
 "Honestly, you never know when an adventurer is going to die.","本当にさ 冒険者は
 いつ死んじゃうか分からないんだ","Reality adventurer
-He does not know when he is dead",0.2222222222222222
+He does not know when he is dead",0.2222222222222222,0.69142973
 I've known lots of adventurers who never came back.,"戻ってこなかった冒険者を
 たくさん知ってる","Adventurer who did not come back
-I know a lot",0.16666666666666666
+I know a lot",0.16666666666666666,0.76837903
 I don't want that to be your fate.,"力になってあげたいなって
 思ったんだよ","I want to be powerful
-I thought",0.3333333333333333
+I thought",0.3333333333333333,0.33830994
 So maybe it is for my sake after all.,"アハハッ これじゃあ やっぱり
 私のためかな？","Hahahahahahaha After all
-Is it for me?",0.38461538461538464
-"And when I saw how hard you've been working,",それに 頑張ってる君を見て―,Look at you who are working hard-,0.125
+Is it for me?",0.38461538461538464,0.35493696
+"And when I saw how hard you've been working,",それに 頑張ってる君を見て―,Look at you who are working hard-,0.125,0.60461736
 I wanted to lend you a hand.,"いなくならないでほしいなあ
 ベル君には","I want you to not miss
-Bell you",0.25
+Bell you",0.25,0.24962263
 Please?,"ダメ？
 （ベル）あ…","No good?
- ...",0.2
+ ...",0.2,0.2374172
 Thanks a lot.,"（ベル）
-ちょっと遅くなっちゃったな",It's been a bit late,0.1111111111111111
-Y-You're welcome.,（エイナ）ど… どういたしまして,... What's wrong,0.0
-Are you okay?,大丈夫ですか？,OK?,0.2
-N-No...,（ゲド）ぐぐっ ぐっ…,...,0.5
-B-Because she's a girl?,えっ？　お… 女の子だから,eh?Oh ... because it is a girl,0.25
-"What are you saying, you goddamned brat?",はあ？　何 言ってんだ クソガキ！,Is it?What are you saying?,0.5
+ちょっと遅くなっちゃったな",It's been a bit late,0.1111111111111111,0.19837447
+Y-You're welcome.,（エイナ）ど… どういたしまして,... What's wrong,0.0,0.071688905
+Are you okay?,大丈夫ですか？,OK?,0.2,0.3790966
+N-No...,（ゲド）ぐぐっ ぐっ…,...,0.5,0.36871576
+B-Because she's a girl?,えっ？　お… 女の子だから,eh?Oh ... because it is a girl,0.25,0.59651756
+"What are you saying, you goddamned brat?",はあ？　何 言ってんだ クソガキ！,Is it?What are you saying?,0.5,0.27481
 Stop it.,"（リュー）やめなさい
-（ゲド）んっ",stop,0.3333333333333333
+（ゲド）んっ",stop,0.3333333333333333,0.7161199
 You shouldn't be clashing blades in the middle of the city.,"（リュー）ハァ…
 街なかで剣を交えるとは―","Hua ...
-When I get a sword in the city-",0.1
+When I get a sword in the city-",0.1,0.39627117
 Stay out of this.,"ああ？　口出しすんじゃねえ
 とっとと うせろ この…","Ah?I'm sorry
-Let's get rid of this ...",0.13333333333333333
-I always end up going too far.,私は いつも やりすぎてしまう,I will always do it too much,0.25
+Let's get rid of this ...",0.13333333333333333,0.2613873
+I always end up going too far.,私は いつも やりすぎてしまう,I will always do it too much,0.25,0.5792447
 Thank you.,"ありがとうございます
 助かりました リューさん","thank you
-It was saved Liu",0.2857142857142857
-Oh right. That girl...,（リュー）ん…,...,0.16666666666666666
+It was saved Liu",0.2857142857142857,0.24500364
+Oh right. That girl...,（リュー）ん…,...,0.16666666666666666,0.19458878
 "If you got hurt, Syr would be sad.","あなたがケガをしたら
 シルが悲しみます","If you do injury
-Sil is sad",0.21428571428571427
+Sil is sad",0.21428571428571427,0.5582851
 Be careful.,"気をつけてください
 （ベル）ん？","Please be careful
-?",0.4
+?",0.4,0.7072193
 "Goddess, I'm heading off!","（ベル）
-本当に ありがとうございました",I'm really thankful to you,0.18181818181818182
-Bye.,う～ん いってらっしゃい…,Wow ...,0.0
-"A supporter, huh?",サポーターか,Supporter,0.2
+本当に ありがとうございました",I'm really thankful to you,0.18181818181818185,0.19278483
+Bye.,う～ん いってらっしゃい…,Wow ...,0.0,0.17348158
+"A supporter, huh?",サポーターか,Supporter,0.2,0.7761162
 "Mister! Mister! You there, with the white hair!","（リリルカ）お兄さん お兄さん
 白い髪のお兄さん","brother brother
-Brother with white hair",0.3
+Brother with white hair",0.3,0.40723568
 "Sorry to bother you, but are you looking for a supporter?","突然ですが サポーターを
 探していませんか？","Suddenly but supporters
-Are you looking for?",0.42857142857142855
+Are you looking for?",0.42857142857142855,0.675954
 A poor supporter who wishes to pick through the leftovers of an adventurer,"冒険者さんのおこぼれに
 あずかりたい―","Adventurer's Ovoring
-I want to",0.11764705882352941
-Th-That's not it.,あっ そうじゃなくて―,It's not likely-,0.5
+I want to",0.1176470588235294,0.51352376
+Th-That's not it.,あっ そうじゃなくて―,It's not likely-,0.5,0.3369726
 "You're the prum girl from yesterday, right?","君 昨日の
 パルゥムの女の子だよね？","Yesterday's
-You're a girl of Palum, right?",0.42857142857142855
+You're a girl of Palum, right?",0.42857142857142855,0.6963444
 Prum?,"パルゥム？　リリは獣人…
 シアンスロープなんですが？","Palm?Lili is a beast man ...
-What is a Sianslope?",0.09090909090909091
-It's true. You're not a prum.,あ… 本当だ パルゥムじゃない,Oh ... it's not a true Palum,0.4166666666666667
+What is a Sianslope?",0.09090909090909093,0.101804435
+It's true. You're not a prum.,あ… 本当だ パルゥムじゃない,Oh ... it's not a true Palum,0.4166666666666667,0.5422547
 So...,"恐らくは… と
 （ベル）あ…","Perhaps ...
- ...",0.3333333333333333
-"Well, you looked like you were all alone.",えっと それが―,Well it-,0.1
+ ...",0.3333333333333333,0.37921652
+"Well, you looked like you were all alone.",えっと それが―,Well it-,0.1,0.25215116
 "So mister, how about it?","それでリリルカさんは
 どうして僕に声を？","So Lilylka
-Why?",0.2222222222222222
+Why?",0.2222222222222222,0.2193825
 Do you need a supporter?,"それで お兄さん どうですか？
 サポーターは要りませんか？","So how is your brother?
-Are you sure you don't need a supporter?",0.42857142857142855
+Are you sure you don't need a supporter?",0.42857142857142855,0.7341152
 "As a matter of fact, I was just thinking I'd like to have one.","はい 見たところ
 お一人のようでしたし―","I saw it
-I was like a single person-",0.2
-Really?,本当ですか？,really?,1.0
+I was like a single person-",0.2,0.20142582
+Really?,本当ですか？,really?,1.0,1.0000001
 "Then would you hire me, mister?","なら リリを連れていって
 くれませんか お兄さん","Then take Lili
-Do you want me to",0.23076923076923078
+Do you want me to",0.2307692307692308,0.36084333
 I'm dirt poor.,"リリは貧乏で 手持ちのお金も
 心もとなくて","Lili is poor and handshable money
-I have no heart",0.15384615384615385
+I have no heart",0.15384615384615385,0.33733574
 I don't know if I've got enough to get by on right now.,"（リリルカ）責任を取って
 もらわないといけませんね","Take responsibility
-I have to get it",0.15789473684210525
+I have to get it",0.15789473684210525,0.21628769
 And to think a man would touch my precious things like that...,"リリの大切なものを
 あんなにされてしまうなんて…","Lili important things
-It will be such a thing ...",0.15
-All right.,分かりました,understand,0.0
-Thank you!,ありがとうございます,thank you,0.6666666666666666
-"Mister Bell, you're so strong!",まあ ベル様のお強さは―,"Well, the strength of Bell is-",0.15384615384615385
-"With you here, I can focus on fighting! You're amazing!",戦闘に専念できて助かるよ,I can concentrate on the battle,0.2
+It will be such a thing ...",0.15,0.31458193
+All right.,分かりました,understand,0.0,0.26605833
+Thank you!,ありがとうございます,thank you,0.6666666666666666,0.8314238
+"Mister Bell, you're so strong!",まあ ベル様のお強さは―,"Well, the strength of Bell is-",0.15384615384615385,0.64726645
+"With you here, I can focus on fighting! You're amazing!",戦闘に専念できて助かるよ,I can concentrate on the battle,0.2,0.56758106
 "No, you're much more amazing,","（リリルカ）いえいえ
 これだけのモンスターを―","No
-Monster with this only",0.09090909090909091
+Monster with this only",0.09090909090909093,0.07235944
 considering you defeated all these monsters by yourself!,"ぜ～んぶ １人で倒してしまった
 ベル様のほうが―","I have defeated by one by one
-Bell-like-",0.15384615384615385
-"Although, I'm sure that's partly thanks to your weapon.",あっ やっぱり そうだよね,I'm going to,0.21428571428571427
+Bell-like-",0.15384615384615385,0.46785763
+"Although, I'm sure that's partly thanks to your weapon.",あっ やっぱり そうだよね,I'm going to,0.21428571428571427,0.07434062
 I'm probably relying on this knife a little too much.,"僕も ちょっと このナイフに
 頼りすぎかなって","I am a little bit on this knife
-It is too relying",0.5
+It is too relying",0.5,0.86094314
 "Mister Bell, where did you get that knife?","（リリルカ）ベル様 そのナイフは
 どうやって手に入れたのですか？","Bell-like that knife
-How did you get it?",0.46153846153846156
+How did you get it?",0.4615384615384616,0.8438717
 "Come to think of it, which familia are you with, Lilly?","そういえば リリは
 どこのファミリアに所属してるの？","Speaking of that, Lili is
-Where are you belonging to Familia?",0.3684210526315789
+Where are you belonging to Familia?",0.3684210526315789,0.61533725
 "Oh, right. I'm in the Soma Familia.","ん？　ああ 僕のファミリアの
 神様に頂いたんだ","Yeah?Oh my Familia
-I got it in God",0.25
-I see.,今日は それで上がりましょ,Today I go up with that,0.125
-I don't think it's too deep in.,胴の浅いところにあると思います,I think it is in a shallow of the torso,0.25
-Yeah.,ん？　あれっ,Yeah?In,0.25
+I got it in God",0.25,0.4665068
+I see.,今日は それで上がりましょ,Today I go up with that,0.125,0.12650059
+I don't think it's too deep in.,胴の浅いところにあると思います,I think it is in a shallow of the torso,0.25,0.42870212
+Yeah.,ん？　あれっ,Yeah?In,0.25,0.47457394
 It's pretty tough.,"落ちてるのは
 リリが回収してきますから","It is falling
-Because Lili is recovered",0.1
+Because Lili is recovered",0.1,0.096231095
 "A supporter from the Soma Familia, huh?","ソーマ･ファミリアの
 サポーターかあ","Soma Familian
-Supporter",0.2
+Supporter",0.2,0.8880039
 but they also sell liquor on the side.,"彼らは探索が中心のファミリアで
 少しだけ お酒も売ってるの","They are in Familia in the center of the search
-I also sell a little drink",0.21052631578947367
+I also sell a little drink",0.21052631578947367,0.39857575
 "Anyway, what did you think, Bell?","それより ベル君から見て
 どうなの？","From that look at Bell
-What about?",0.23076923076923078
+What about?",0.2307692307692308,0.77818036
 I think she's great.,"（ベル）はい
 とっても いい子でした","Yes
-I was very she was a good boy",0.16666666666666666
-"Thanks to her, I was able to get all these!",おかげで今日は こんなに,Thanks to this day today,0.14285714285714285
-Then I'm not opposed to it.,そっか だったら私は反対しないよ,"If it is there, I will not oppose",0.21428571428571427
+I was very she was a good boy",0.16666666666666666,0.43572226
+"Thanks to her, I was able to get all these!",おかげで今日は こんなに,Thanks to this day today,0.14285714285714285,0.2809973
+Then I'm not opposed to it.,そっか だったら私は反対しないよ,"If it is there, I will not oppose",0.21428571428571427,0.4809815
 Bell?,"（エイナ）ん？　ベル君？
 （ベル）はい","?Bell?
- Yes",0.6666666666666666
-Where's your knife?,ナイフは どうしたの？,What happened to the knife?,0.2222222222222222
-I dropped it?!,おっ 落とした～！,I dropped it!,0.8
+ Yes",0.6666666666666666,0.9478411
+Where's your knife?,ナイフは どうしたの？,What happened to the knife?,0.2222222222222222,0.6559772
+I dropped it?!,おっ 落とした～！,I dropped it!,0.8,0.8989883
 It's junk.,"まっ ガラクタじゃな
 刀身が死んでおるよ","It's a cracker
-The sword is dead",0.2
-No way!,（リリルカ）冗談じゃない,not joke,0.0
+The sword is dead",0.2,0.20446749
+No way!,（リリルカ）冗談じゃない,not joke,0.0,0.19350597
 That's impossible!,"たったの30ヴァリスだなんて
 そんなわけが…","It is only 30 Valis
-That's why ...",0.18181818181818182
+That's why ...",0.18181818181818185,0.16335133
 Show me the knife you're concealing in your sleeve.,"袖にしまったナイフ
 それを見せてほしい","Knife with sleeves
-I want you to show it",0.17647058823529413
-Lyu?,（シル）リュー？,Leu?,0.3333333333333333
+I want you to show it",0.17647058823529413,0.7770003
+Lyu?,（シル）リュー？,Leu?,0.3333333333333333,0.53052276
 "S-Sorry, but this is mine.","（リリルカ）あ… あいにくですが
 これは私の物です","Oh ... Unusual
-This is my thing",0.16666666666666666
-You must be mistaken.,あなたの勘違いでしょう,It will be your misunderstanding,0.1111111111111111
+This is my thing",0.16666666666666666,0.29380938
+You must be mistaken.,あなたの勘違いでしょう,It will be your misunderstanding,0.1111111111111111,0.38033867
 There's only one person I know who owns a weapon with hieroglyphs carved into it.,"（リリルカ）あっ
-（リュー）私は１人しか知らない",I only know one,0.23529411764705882
-Ow!,うっ！,Uh!,0.3333333333333333
-A chienthrope?,シアンスロープ？,Sian Sphere?,0.2
-Lyu...,（ベル）リューさん… シルさんも,Rieu ... Sil,0.25
+（リュー）私は１人しか知らない",I only know one,0.2352941176470588,0.3339687
+Ow!,うっ！,Uh!,0.3333333333333333,0.48197615
+A chienthrope?,シアンスロープ？,Sian Sphere?,0.2,0.2506483
+Lyu...,（ベル）リューさん… シルさんも,Rieu ... Sil,0.25,0.35157177
 Have either of you seen a knife that's all black from top to bottom?!,"上から下まで真っ黒なナイフを
 見かけませんでしたか？","The black knife to the bottom to the bottom
-Did not you see?",0.2857142857142857
-My knife...,僕の… ナイフ,My ... Knife,1.0
+Did not you see?",0.2857142857142857,0.7670368
+My knife...,僕の… ナイフ,My ... Knife,1.0,0.8989085
 Thank you so much!,"わあ～っ ありがとう！
 本当に ありがとうございます！","Wow!
-thank you very much!",0.5714285714285714
+thank you very much!",0.5714285714285714,0.5871565
 "You should be doing this with Syr, not me.","このようなことは私ではなく
 シルに向けてもらわなくては","Such things are not me
-I have not been for Sil",0.10526315789473684
+I have not been for Sil",0.10526315789473684,0.30621114
 "Lyu, what are you saying?!","（シル）うっ…
 リュー 何 言ってるの？","Uh ...
-What are you saying?",0.5
+What are you saying?",0.5,0.4639792
 I'm so glad.,"（リュー）
-クラネルさん その… 困る",Chanel Mr. ... I'm troubled,0.2222222222222222
+クラネルさん その… 困る",Chanel Mr. ... I'm troubled,0.2222222222222222,0.11847788
 I'll never drop it again.,"神様 ごめんなさい
 もう二度と落としたりしません","I'm sorry God
-I will never drop it again",0.45454545454545453
-Where did you find it?,はい これ どこにありましたか？,Yes Where was it?,0.375
+I will never drop it again",0.4545454545454545,0.87528497
+Where did you find it?,はい これ どこにありましたか？,Yes Where was it?,0.375,0.5592589
 A prum?,"パルゥム？
 （シル）あ…","Palm?
- A ...",0.4
-"We'll be going, then.",（リュー）では 私たちは これで,We are this,0.1111111111111111
+ A ...",0.4,0.33005792
+"We'll be going, then.",（リュー）では 私たちは これで,We are this,0.1111111111111111,0.27047288
 Th-Thank you.,"（ベル）
-あ… ありがとうございました",Oh ... Thank you very much,0.125
+あ… ありがとうございました",Oh ... Thank you very much,0.125,0.40985316
 What good timing.,"（ベル）ああ
 けど ちょうどよかった","Oh
-But it was good",0.125
+But it was good",0.125,0.23439068
 I was actually going to look for you.,"実はリリのことも
 捜さなきゃと思ってて","Actually, Lili
-I think I'm looking for",0.21428571428571427
+I think I'm looking for",0.21428571428571427,0.3843574
 Would you go into the Dungeon with me tomorrow?,"明日も僕とダンジョンに
 潜ってくれるかな？","Tomorrow also to me and dungeons
-Will you dive?",0.25
-Mister Bell...,（リリルカ）あ…,...,0.3333333333333333
+Will you dive?",0.25,0.6715167
+Mister Bell...,（リリルカ）あ…,...,0.3333333333333333,0.24785298
 Thank you for officially hiring me.,"リリを正式に雇ってくださって
 ありがとうございます ん？","Hire Lili officially
-Thank you?",0.3
-"By the way, Mister Bell, I don't see that knife of yours.",ところで ベル様,"By the way, Bell",0.3333333333333333
+Thank you?",0.3,0.4871371
+"By the way, Mister Bell, I don't see that knife of yours.",ところで ベル様,"By the way, Bell",0.3333333333333333,0.5080274
 "I put it in here, so I won't drop it again.","うん 今度は落とさないように
 ここに収納したんだ","Yeah so that this time will not be dropped
-I accommodated here",0.14285714285714285
+I accommodated here",0.14285714285714285,0.41112733
 "Yes. Since you're not in a party, \Ndistributing the loot isn't that complicated.","あのナイフが
 見当たらないようですが","That knife
-It seems that you can not find it",0.13636363636363635
-And?,それに？,in addition?,0.25
+It seems that you can not find it",0.13636363636363635,0.024646884
+And?,それに？,in addition?,0.25,0.5246948
 "That's more convenient for you, too, right?","そのほうがベル様にも
 都合がよろしいでしょう？","That is also Bell
-Is it convenient?",0.21428571428571427
-"Okay, let's go!",さあ 行きましょう,"alright, let's go",0.5714285714285714
+Is it convenient?",0.21428571428571427,0.4195707
+"Okay, let's go!",さあ 行きましょう,"alright, let's go",0.5714285714285714,0.8948849
 "If you give it your all, there won't be any problems!","ベル様に頑張っていただければ
 何も問題ありませんから","If you can do my best to Bell
-Because there is no problem",0.125
-Y-Yeah.,（ベル）あ… うん,...,0.0
+Because there is no problem",0.125,0.3761209
+Y-Yeah.,（ベル）あ… うん,...,0.0,0.26565206
 How far should we go today?,"（リリルカ）今日は
 どれくらいまで行きましょうかねえ","Today
-How long will you go",0.3
-"26,000 vals?!",ベル様 すご～い！,Bell-like!,0.2
+How long will you go",0.3,0.6188781
+"26,000 vals?!",ベル様 すご～い！,Bell-like!,0.2,0.120695814
 You made more than a five-man party of Level One adventurers all by yourself!,"お一人でレベル１(ワン)の
 ５人組パーティを上回る額を―","Level 1  with one person alone
-5. The amount exceeding the party party-",0.125
+5. The amount exceeding the party party-",0.125,0.5673025
 "Well, you know what they say about every rabbit having its day.","いや ほら ウサギも おだてりゃ
 木に登るって言うじゃない？","No rabbit rabbit
-Don't say that you climb the tree?",0.13636363636363635
-That must be it!,それだよ それ！,That's it!,0.5
-but I absolutely agree!,稼いでしまいました！,I earned!,0.3333333333333333
-"Oh, right. Lilly, do you want to go get something to eat?",これから一緒に ごはん食べない？,Do you eat rice together from now on?,0.21052631578947367
-"Um, this is...",えっ こ これは…,Eh this This is ...,0.5
+Don't say that you climb the tree?",0.13636363636363635,0.69192064
+That must be it!,それだよ それ！,That's it!,0.5,0.63984185
+but I absolutely agree!,稼いでしまいました！,I earned!,0.3333333333333333,0.19771633
+"Oh, right. Lilly, do you want to go get something to eat?",これから一緒に ごはん食べない？,Do you eat rice together from now on?,0.21052631578947367,0.497466
+"Um, this is...",えっ こ これは…,Eh this This is ...,0.5,0.76050514
 Mister Bell?,"ベル様
 （ベル）ん？","Bell
-?",0.6666666666666666
+?",0.6666666666666666,0.78900814
 Aren't you going to try and take it all for yourself?,"独り占めしようとか
 ベル様は思わないんですか？","Try to be alone
-Do you not think Bell?",0.21052631578947367
+Do you not think Bell?",0.21052631578947367,0.2952817
 I never could have earned this much on my own.,"僕１人じゃ
 こんなに稼げなかったよ","I am alone
-I did not earn so much",0.11764705882352941
+I did not earn so much",0.1176470588235294,0.5910561
 "It's all thanks to you, Lilly.","全部 リリのおかげだよ
 ありがとう","Thanks to all Lili
-Thank you",0.36363636363636365
-Weirdo.,変なの,strange thing,0.0
+Thank you",0.3636363636363637,0.5975465
+Weirdo.,変なの,strange thing,0.0,0.6335885
 "Only 12,000 vals?","（ソーマのメンバー）
-たったの１万2000ヴァリス？",Tatsuno 2000 Valis?,0.14285714285714285
+たったの１万2000ヴァリス？",Tatsuno 2000 Valis?,0.14285714285714285,0.45394346
 You gotta be kidding me!,"ふざけるな！
 あんたの目は節穴か！","Do not be silly!
-The eye of the aid is a hollow!",0.11764705882352941
+The eye of the aid is a hollow!",0.1176470588235294,0.23681663
 Damn it! This isn't...,"（ソーマのメンバー）
-クソッ こんなんじゃあ…",This is a fucking ...,0.3333333333333333
-"The Soma Familia, huh?",ソーマ･ファミリアか,Soma Familia,0.3333333333333333
-It's here...,（フレイヤ）ああ…,Oh ...,0.2
+クソッ こんなんじゃあ…",This is a fucking ...,0.3333333333333333,0.48003477
+"The Soma Familia, huh?",ソーマ･ファミリアか,Soma Familia,0.3333333333333333,0.909972
+It's here...,（フレイヤ）ああ…,Oh ...,0.2,0.4342971
 I was going to sit back and watch for a while.,"しばらく見守るつもりだったのに
 つい手を出したくなってしまう","I was going to watch for a while
-I want to get a hands",0.5333333333333333
+I want to get a hands",0.5333333333333333,0.5030757
 You're going to show me the power that sleeps within you.,"見せてもらうわね
 あなたの中に眠っている力を","I will show you
-Power sleeping in you",0.1875
+Power sleeping in you",0.1875,0.888371
 The attractive force of coincidence points to,"神のボクを遠慮なく
 あごで こき使いおって","Do not hesitate to
-The chin mushroom",0.16666666666666666
+The chin mushroom",0.16666666666666666,0.055794884
 I made it through another day.,"（ヘスティア）
-きょ… 今日も乗り切った",Kyo ... I just got over today,0.07692307692307693
-I can't wait to see Bell.,ハァ… 早くベル君に会いたい,Hua ... I want to see Bell,0.36363636363636365
-It's Bell!,ベル君の浮気者～っ！,Bell's flirt ~!,0.5
+きょ… 今日も乗り切った",Kyo ... I just got over today,0.07692307692307693,0.3051893
+I can't wait to see Bell.,ハァ… 早くベル君に会いたい,Hua ... I want to see Bell,0.3636363636363637,0.6968565
+It's Bell!,ベル君の浮気者～っ！,Bell's flirt ~!,0.5,0.7035362

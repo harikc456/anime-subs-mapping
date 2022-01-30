@@ -1,142 +1,142 @@
-en_text,jp_text,google_translated,score
-"Even without what happened forty years ago,",たとえ40年前に起きた何かが無くとも,Even if it happened 40 years ago,0.36363636363636365
-"He averts his eyes from that fear, from the memory of his history,",人は その恐れから目を背け,People are eye-backed from that fear,0.2
-"If I stay here, I think my son might come here to see me...",私がここで暮らしていれば,If I live here,0.2
-...when he gets his memory back.,いつかメモリーを取り戻した息子が,Someday Son who regained memory,0.08333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+"Even without what happened forty years ago,",たとえ40年前に起きた何かが無くとも,Even if it happened 40 years ago,0.3636363636363637,0.7197455
+"He averts his eyes from that fear, from the memory of his history,",人は その恐れから目を背け,People are eye-backed from that fear,0.2,0.51099944
+"If I stay here, I think my son might come here to see me...",私がここで暮らしていれば,If I live here,0.2,0.4351793
+...when he gets his memory back.,いつかメモリーを取り戻した息子が,Someday Son who regained memory,0.08333333333333333,0.44880256
 The residential records will still show that you lived here.,"ここで暮らしていたことは
 住民記録に残されています","What I lived here
-It is left in the resident record",0.15789473684210525
-Please transfer the funds by the time we agreed upon.,期日までに きちんと振り込んでおきたまえ,Meeting properly by the due date,0.14285714285714285
-Negotiator.,ネゴシエイター,Negotiator,0.5
-This is about a new job.,新しい仕事の話さ,The story of a new job,0.3
-Your parent company?,あんたの親会社,Annual parent company,0.4
-"It's the same whether you're a bread store or a real estate agency,",パン屋だろうが不動産業者だろうが,"It will be a baker, but it may be a real estate agent",0.23809523809523808
-"When you say ""parent company,"" it always means the same place.",それは同じところに決まっている,It is decided at the same place,0.2222222222222222
-"In this city, the business called Paradigm is both God and State.",この街はパラダイムという企業が神であり国家,This city is a child called paradigm and the nation,0.4117647058823529
-Roger Smith?,ロジャー・スミスさん？,Roger Smith?,1.0
-You!,あんたは,Ah!,0.3333333333333333
-"I work as a secretary for Phil Gasay, publisher of Paradigm Press.",私はパラダイムプレスの発行人,I issued a paradigm press,0.26666666666666666
-Patricia Lovejoy.,パトリシア・ラブジョイです,Patricia Love Joy,0.2
-"As I recall, the name you gave me last time was Miss Casey.",前に聞いた名前は ミス ケイシーだったが,The name I heard before was Miss Casey,0.35294117647058826
-Didn't I tell you to call me Angel?,エンジェル そう呼んでって言ったでしょ,I said that I call it angel,0.23076923076923078
-Have you gotten fed up with a job that isn't worth your while?,つまらない依頼でがっかりした？,Was it disappointed with a boring request?,0.15
-How long have you been working here?,君はいつからここで働いている,You are working here after,0.3
-For a week.,一週間前よ,One week ago,0.16666666666666666
-I'm just an ordinary woman.,狙う？　あたしはただの女だわ,Are you aiming?I'm just a woman,0.3333333333333333
-Alex Rosewater...,アレックス・ローズウォーター,Alex Rosewater,0.6666666666666666
-"Can man survive cut off from his memories of the past,",あれがパラダイムの総帥,That is the commander of paradigm,0.125
-"This new job was to convince Michael Seebach, a reporter with Paradigm Press,",依頼されたのはパラダイムプレス記者,It was a paradigm press reporter,0.3333333333333333
+It is left in the resident record",0.15789473684210525,0.7951499
+Please transfer the funds by the time we agreed upon.,期日までに きちんと振り込んでおきたまえ,Meeting properly by the due date,0.14285714285714285,0.23945934
+Negotiator.,ネゴシエイター,Negotiator,0.5,0.97120154
+This is about a new job.,新しい仕事の話さ,The story of a new job,0.3,0.67049944
+Your parent company?,あんたの親会社,Annual parent company,0.4,0.74313676
+"It's the same whether you're a bread store or a real estate agency,",パン屋だろうが不動産業者だろうが,"It will be a baker, but it may be a real estate agent",0.2380952380952381,0.52961874
+"When you say ""parent company,"" it always means the same place.",それは同じところに決まっている,It is decided at the same place,0.2222222222222222,0.30190453
+"In this city, the business called Paradigm is both God and State.",この街はパラダイムという企業が神であり国家,This city is a child called paradigm and the nation,0.4117647058823529,0.674712
+Roger Smith?,ロジャー・スミスさん？,Roger Smith?,1.0,1.0000001
+You!,あんたは,Ah!,0.3333333333333333,0.3625057
+"I work as a secretary for Phil Gasay, publisher of Paradigm Press.",私はパラダイムプレスの発行人,I issued a paradigm press,0.26666666666666666,0.5701796
+Patricia Lovejoy.,パトリシア・ラブジョイです,Patricia Love Joy,0.2,0.7811493
+"As I recall, the name you gave me last time was Miss Casey.",前に聞いた名前は ミス ケイシーだったが,The name I heard before was Miss Casey,0.35294117647058826,0.85427815
+Didn't I tell you to call me Angel?,エンジェル そう呼んでって言ったでしょ,I said that I call it angel,0.2307692307692308,0.82238644
+Have you gotten fed up with a job that isn't worth your while?,つまらない依頼でがっかりした？,Was it disappointed with a boring request?,0.15,0.24315332
+How long have you been working here?,君はいつからここで働いている,You are working here after,0.3,0.54542696
+For a week.,一週間前よ,One week ago,0.16666666666666666,0.4493502
+I'm just an ordinary woman.,狙う？　あたしはただの女だわ,Are you aiming?I'm just a woman,0.3333333333333333,0.49632382
+Alex Rosewater...,アレックス・ローズウォーター,Alex Rosewater,0.6666666666666666,0.9394796
+"Can man survive cut off from his memories of the past,",あれがパラダイムの総帥,That is the commander of paradigm,0.125,0.16103233
+"This new job was to convince Michael Seebach, a reporter with Paradigm Press,",依頼されたのはパラダイムプレス記者,It was a paradigm press reporter,0.3333333333333333,0.64399844
 ...in exchange for a large retirement package.,"彼が取材した原稿を
 高額の退職金と引き換えに","The manuscript he interviewed
-In exchange for a high price of retirement",0.3125
-"The job itself isn't difficult, but it presents two problems:",仕事自体は難しいものではない 問題は二つ,The work itself is not a difficult problem,0.23529411764705882
-"And more importantly, the fact that Seebach disappeared three months ago.",三カ月前に姿を消してしまっているという事だ,It is said that the appearance has been erased three months ago,0.25
-"How long ago did you sink to taking these P.I. jobs, Mr. Negotiator?",ミスターネゴシエイター,Mr. Nego Quiettor,0.05555555555555555
-There are only two roads that can be taken by people who quit the police.,二つの道しか無い,There are only two ways,0.23529411764705882
+In exchange for a high price of retirement",0.3125,0.50474834
+"The job itself isn't difficult, but it presents two problems:",仕事自体は難しいものではない 問題は二つ,The work itself is not a difficult problem,0.2352941176470588,0.81620187
+"And more importantly, the fact that Seebach disappeared three months ago.",三カ月前に姿を消してしまっているという事だ,It is said that the appearance has been erased three months ago,0.25,0.36916786
+"How long ago did you sink to taking these P.I. jobs, Mr. Negotiator?",ミスターネゴシエイター,Mr. Nego Quiettor,0.05555555555555555,0.31800145
+There are only two roads that can be taken by people who quit the police.,二つの道しか無い,There are only two ways,0.2352941176470588,0.41176805
 Or they can destroy people's lives as part of an illegal organization.,"-あの
 -私立探偵にでもなって他人の生活を覗くか","-that
--Whlder lives of others as well as private detective",0.15
-All I want is information on the man I'm going to be negotiating with.,交渉相手の情報が欲しいだけだ,I just want the information of the negotiation partner,0.21052631578947367
+-Whlder lives of others as well as private detective",0.15,0.06927878
+All I want is information on the man I'm going to be negotiating with.,交渉相手の情報が欲しいだけだ,I just want the information of the negotiation partner,0.21052631578947367,0.67548436
 "I'm just a bit nostalgic at seeing you come back to the nest, Roger Smith.","久々に古巣に戻って来たんで
 懐かしくなっただけさ","After a long time I came back to the old nest
-I'm just nostalgic",0.391304347826087
-Michael Seebach. A German?,マイクル・ゼーバッハ ドイツ人か,Mikul Sebach German,0.125
-A missing person's report hasn't been filed. Taxes unpaid for two months.,捜索願は出てない 税金は二カ月未納,Taxes that the search application has not been issued two months unpaid,0.2857142857142857
-Hasn't he left the city?,この街にはもういないのか,Isn't it already in this city?,0.25
-No. Someone who lived inside the domes would never leave them.,いや ドームの内側に住んでいた人間が,No people who lived inside the dome,0.35714285714285715
-That's the way it is.,外に出ることはあり得ない そういうものさ,It is not possible to go out,0.16666666666666666
-Roger!,ロジャー,Roger,0.5
-"That vanished reporter of yours led a double life, looks like.",消えた新聞記者は二重生活者だったらしい,It seems that the newspaper reporter who disappeared was a double living person,0.18181818181818182
-"He had a wife, but he also rented that apartment.",妻と暮らす以外にそこにアパートを借りてる,Borrow an apartment there other than living with my wife,0.10526315789473684
-"You may have quit the force out of disgust,",お前はここを嫌って出て行ったが,You hated here and went out,0.14285714285714285
-but the rest of us are proud of the Military Police.,俺たちは軍警察を誇りに思っている,We are proud of the military police,0.5454545454545454
-"Thanks for your help on this one, Dastun.",この件については礼を言う ダストン,Duston who says thanks to this matter,0.13333333333333333
-I've lived my life as a newspaper reporter.,私は新聞記者として生きてきた,I have lived as a newspaper reporter,0.5454545454545454
-I uncover the truth and write my articles.,真実を掘り出して記事を書く,Dig the truth and write articles,0.5
-But I learned all too well that a mere reporter can't get to the truth in this city.,しかし この街での真実など新聞記者ごときが,But the newspaper reporter such as the truth in this city,0.30434782608695654
-And no one here is even interested in learning the truth that must be known.,それに 本当に知らなければならない真実は,The truth that must really know,0.2222222222222222
-But I want to know!,私は知りたい 知らなければならないことを,I want to know what I want to know,0.5714285714285714
-Gasoline?,ガソリン うお,Gasoline,0.5
-You corrupt dog on the city's leash!,飼い主にはそう伝えたまえ,The owner tells you so,0.16666666666666666
-Michael Seebach has vanished from this world.,マイクル・ゼーバッハはもうこの世から消えた,Mikuru Sebach has already disappeared from this world,0.3333333333333333
-"What's your name, then?",では君の名前は何だ,So what is your name,0.3333333333333333
-"""Black forest""?",黒い森？,Black forest?,0.6
-You can report this to your masters!,飼い主に報告するがいい,It is good to report to the owner,0.15384615384615385
-Tell them that their poor reporter will never again appear in this city!,二度とこの街に現れないとな フフハハ,I will never appear in this town,0.3125
-Dig up the truth...,真実を掘り起こす,Dig the truth,0.6
-Aren't you cold?,寒くないの？,Are not you cold?,0.6666666666666666
-"Oh, you're worried about my health?",ほう 私の健康を気遣ってくれるのか,Do you care about my health?,0.45454545454545453
-But maybe we've just convinced ourselves that that's the case...,しかしそれは,But that is,0.15384615384615385
-I think about myself more than you do.,あなたよりは自分のことは考えてるわ,I think about myself than you,0.6666666666666666
-Yes. This is about myself.,そう これは自分のことだ,Yes this is my own,0.375
+I'm just nostalgic",0.39130434782608703,0.7174368
+Michael Seebach. A German?,マイクル・ゼーバッハ ドイツ人か,Mikul Sebach German,0.125,0.59850764
+A missing person's report hasn't been filed. Taxes unpaid for two months.,捜索願は出てない 税金は二カ月未納,Taxes that the search application has not been issued two months unpaid,0.2857142857142857,0.62938184
+Hasn't he left the city?,この街にはもういないのか,Isn't it already in this city?,0.25,0.51013786
+No. Someone who lived inside the domes would never leave them.,いや ドームの内側に住んでいた人間が,No people who lived inside the dome,0.35714285714285715,0.6696398
+That's the way it is.,外に出ることはあり得ない そういうものさ,It is not possible to go out,0.16666666666666666,0.13732801
+Roger!,ロジャー,Roger,0.5,0.86801606
+"That vanished reporter of yours led a double life, looks like.",消えた新聞記者は二重生活者だったらしい,It seems that the newspaper reporter who disappeared was a double living person,0.18181818181818185,0.70240986
+"He had a wife, but he also rented that apartment.",妻と暮らす以外にそこにアパートを借りてる,Borrow an apartment there other than living with my wife,0.10526315789473684,0.43673167
+"You may have quit the force out of disgust,",お前はここを嫌って出て行ったが,You hated here and went out,0.14285714285714285,0.2673673
+but the rest of us are proud of the Military Police.,俺たちは軍警察を誇りに思っている,We are proud of the military police,0.5454545454545454,0.90601975
+"Thanks for your help on this one, Dastun.",この件については礼を言う ダストン,Duston who says thanks to this matter,0.13333333333333333,0.16714005
+I've lived my life as a newspaper reporter.,私は新聞記者として生きてきた,I have lived as a newspaper reporter,0.5454545454545454,0.9183099
+I uncover the truth and write my articles.,真実を掘り出して記事を書く,Dig the truth and write articles,0.5,0.70226216
+But I learned all too well that a mere reporter can't get to the truth in this city.,しかし この街での真実など新聞記者ごときが,But the newspaper reporter such as the truth in this city,0.3043478260869565,0.7315989
+And no one here is even interested in learning the truth that must be known.,それに 本当に知らなければならない真実は,The truth that must really know,0.2222222222222222,0.5110716
+But I want to know!,私は知りたい 知らなければならないことを,I want to know what I want to know,0.5714285714285714,0.56311
+Gasoline?,ガソリン うお,Gasoline,0.5,0.8907608
+You corrupt dog on the city's leash!,飼い主にはそう伝えたまえ,The owner tells you so,0.16666666666666666,0.16077115
+Michael Seebach has vanished from this world.,マイクル・ゼーバッハはもうこの世から消えた,Mikuru Sebach has already disappeared from this world,0.3333333333333333,0.6276382
+"What's your name, then?",では君の名前は何だ,So what is your name,0.3333333333333333,0.66157794
+"""Black forest""?",黒い森？,Black forest?,0.6,0.94011027
+You can report this to your masters!,飼い主に報告するがいい,It is good to report to the owner,0.15384615384615385,0.2944172
+Tell them that their poor reporter will never again appear in this city!,二度とこの街に現れないとな フフハハ,I will never appear in this town,0.3125,0.36745363
+Dig up the truth...,真実を掘り起こす,Dig the truth,0.6,0.7211623
+Aren't you cold?,寒くないの？,Are not you cold?,0.6666666666666666,0.95225203
+"Oh, you're worried about my health?",ほう 私の健康を気遣ってくれるのか,Do you care about my health?,0.4545454545454545,0.6652105
+But maybe we've just convinced ourselves that that's the case...,しかしそれは,But that is,0.15384615384615385,0.3242531
+I think about myself more than you do.,あなたよりは自分のことは考えてるわ,I think about myself than you,0.6666666666666666,0.89449376
+Yes. This is about myself.,そう これは自分のことだ,Yes this is my own,0.375,0.4513792
 It looks like the time has finally come to face the darkness within me.,"自分の中の闇に
 向かわなくてはならない時が来たらしい","In the darkness of myself
-It seems that there was a time when it must be",0.16
-I use these underground tunnels to transport Big O.,ビッグオーを移送するために,To transport big o,0.4
-"I hear there was once a transportation system here called a ""subway.""",かつてここにはサブウェイという,It is once here a subway,0.25
-"Big Ear once told me that forty years ago,",40年前,40 years ago,0.18181818181818182
-Even I haven't gone down any further than this.,ここから下へは私も降りたことが無い,I have never got down from here,0.2
-This is probably another world that no one in the city knows about.,恐らくこの街の誰もが知らない世界だ,Perhaps everyone in this town is a world that does not know,0.23809523809523808
-Except for just one man.,ただ一人を除いて,Just one person,0.2857142857142857
-I'm scared.,怯えているのだ この私が怯えている,I'm scared I'm scared,0.75
-What's triggering this irrational emotion?,このいわれのない感情を喚起するものは何だ,What do you want to evoke this emotional emotion,0.23076923076923078
-This... is just a physiological response.,あ こ これは生理反応でしかない,Ama This is only a physiological response,0.5
-Reason should be able to suppress it...,理性で克服出来る筈だ,It is a habit that can be overcome with reason,0.2
-Suppress this illogical emotion...,こ こんな こんな不条理な感情,This kind of non-consistent emotion,0.25
-Ma...,ん あっ,In,0.0
-R-R-R. Dorothy!,あ あ あ R・ドロシー,"Oh, R · Dorothy",0.14285714285714285
-"""Mama""? Your mother, you mean?",ま てマザー？　お母さんのこと？,Mother?Mom?,0.2
-Who cares about that?! It's got nothing to do with you!,君になんか関係ない そうじゃなくって,It's not something that doesn't matter to you,0.2631578947368421
-What are you doing down here?!,な 何でここにいるんだ,What is here?,0.3333333333333333
-"Your physiological responses are returning to normal, Roger.",ロジャーの生理反応 正常に戻っている,Roger's physiological response Normal return,0.23076923076923078
-"Dorothy, do you want to know what it's like, too? You can't feel terror.",ドロシー 君も知りたいのか？,Do you want to know Dorothy?,0.3888888888888889
-"I don't understand the emotions you people have,",恐怖なんて感情を持たない君が,You don't have emotions that you have fear,0.4166666666666667
-but even my father didn't know how it is that I operate or think.,それはお父様でも知らないことだったわ,It was something that I did not know even my father,0.42105263157894735
-Dr. Wayneright was the top man in android research.,アンドロイド研究の第一人者だった,It was the first person of Android research,0.2857142857142857
-Father was a craftsman.,職人よ お父様は,Craftsman Your father,0.3333333333333333
-"Still, he didn't have a complete grasp of the core technology.",コアテクノロジーを全て理解してはいなかった,I did not understand all the core technologies,0.15789473684210525
-He only put me together in the hopes of bringing back his dead daughter.,死んだ自分の本当の娘を再現するために,To reproduce my dead my real daughter,0.10526315789473684
-No one on this planet knows everything.,全てを知っている人間など この世界にはいない,It is not in this world such as a person who knows everything,0.16666666666666666
-"But if there's something that frightens you,",しかしだ 何かが自分を怯えさせているとすれば,"However, if something is making himself",0.23076923076923078
+It seems that there was a time when it must be",0.16,0.6535737
+I use these underground tunnels to transport Big O.,ビッグオーを移送するために,To transport big o,0.4,0.62584877
+"I hear there was once a transportation system here called a ""subway.""",かつてここにはサブウェイという,It is once here a subway,0.25,0.7824143
+"Big Ear once told me that forty years ago,",40年前,40 years ago,0.18181818181818185,0.5072154
+Even I haven't gone down any further than this.,ここから下へは私も降りたことが無い,I have never got down from here,0.2,0.5027927
+This is probably another world that no one in the city knows about.,恐らくこの街の誰もが知らない世界だ,Perhaps everyone in this town is a world that does not know,0.2380952380952381,0.7612856
+Except for just one man.,ただ一人を除いて,Just one person,0.2857142857142857,0.550743
+I'm scared.,怯えているのだ この私が怯えている,I'm scared I'm scared,0.75,0.84628546
+What's triggering this irrational emotion?,このいわれのない感情を喚起するものは何だ,What do you want to evoke this emotional emotion,0.2307692307692308,0.54702914
+This... is just a physiological response.,あ こ これは生理反応でしかない,Ama This is only a physiological response,0.5,0.8067519
+Reason should be able to suppress it...,理性で克服出来る筈だ,It is a habit that can be overcome with reason,0.2,0.49508804
+Suppress this illogical emotion...,こ こんな こんな不条理な感情,This kind of non-consistent emotion,0.25,0.5342418
+Ma...,ん あっ,In,0.0,0.19732769
+R-R-R. Dorothy!,あ あ あ R・ドロシー,"Oh, R · Dorothy",0.14285714285714285,0.77769065
+"""Mama""? Your mother, you mean?",ま てマザー？　お母さんのこと？,Mother?Mom?,0.2,0.61021715
+Who cares about that?! It's got nothing to do with you!,君になんか関係ない そうじゃなくって,It's not something that doesn't matter to you,0.2631578947368421,0.42739752
+What are you doing down here?!,な 何でここにいるんだ,What is here?,0.3333333333333333,0.36927602
+"Your physiological responses are returning to normal, Roger.",ロジャーの生理反応 正常に戻っている,Roger's physiological response Normal return,0.2307692307692308,0.69405264
+"Dorothy, do you want to know what it's like, too? You can't feel terror.",ドロシー 君も知りたいのか？,Do you want to know Dorothy?,0.3888888888888889,0.59810656
+"I don't understand the emotions you people have,",恐怖なんて感情を持たない君が,You don't have emotions that you have fear,0.4166666666666667,0.60467005
+but even my father didn't know how it is that I operate or think.,それはお父様でも知らないことだったわ,It was something that I did not know even my father,0.42105263157894735,0.57975656
+Dr. Wayneright was the top man in android research.,アンドロイド研究の第一人者だった,It was the first person of Android research,0.2857142857142857,0.67578584
+Father was a craftsman.,職人よ お父様は,Craftsman Your father,0.3333333333333333,0.83642083
+"Still, he didn't have a complete grasp of the core technology.",コアテクノロジーを全て理解してはいなかった,I did not understand all the core technologies,0.15789473684210525,0.67802787
+He only put me together in the hopes of bringing back his dead daughter.,死んだ自分の本当の娘を再現するために,To reproduce my dead my real daughter,0.10526315789473684,0.41278097
+No one on this planet knows everything.,全てを知っている人間など この世界にはいない,It is not in this world such as a person who knows everything,0.16666666666666666,0.6653496
+"But if there's something that frightens you,",しかしだ 何かが自分を怯えさせているとすれば,"However, if something is making himself",0.2307692307692308,0.2870406
 and there are those who try to see through the fear and conquer it.,"それを見極めることで克服しようとする
 人間だっている","Try to overcome it by identifying it
-It is human",0.15789473684210525
-"People aren't the same. Each person is a unique being, R. Dorothy.",人間は同じじゃない 一人一人違う存在なんだよ,"Humans are not the same one, one person different",0.2631578947368421
-Dorothy?,ドロシー？,Dorothy?,1.0
-That sound...,音,sound,0.3333333333333333
-"I'm amazed you made it this far. Most impressive, for a Paradigm dog.",パラダイムの犬にしては大したもんだ,It is a big dust for paradigm dogs,0.2
-"Seebach! No, Schwarzwald! What are you doing here?",ここで何をしている,What is doing here,0.25
-Is that Big O's archetype?,ん ビッグオーのアーキタイプなのか,Is it an arched type of Big O,0.25
-"Forty years ago, something happened, and we all lost our memory!",何かが起こって 我々は記憶を失った,Something happened and we lost my memory,0.42857142857142855
-You call this power?,これが力だというのか,Is this a power?,0.42857142857142855
-"These Megadeuses were nothing special, Negotiator.",メガデウスは特別な物じゃなかったんだよ,Mega deus was not a special thing,0.07142857142857142
-Is it still operational?,これはまだ動くのか,Is this still moving?,0.42857142857142855
-It was buried here! I released the lock.,ここに埋められていたんだ,I was buried here,0.4
-It's too bad you didn't end up the same way.,あの時君も同じ姿になっていてくれれば,"At that time, if you are in the same way",0.2
-Dorothy!,ドロシー,Dorothy,0.5
-What's that woman doing?,何 その女は,What a woman,0.2857142857142857
-An android!,アンドロイド,Android,0.3333333333333333
-Damn it!,ど どうして,However,0.0
-What happened?! Why did it move?!,何が起こった なぜこれが動き出した,What happened Why this came out,0.2727272727272727
-"What's wrong, Dorothy?!",どうしたんだ ドロシー,What's wrong with Dorothy,0.5
-It's alive. It accessed my information.,あれは生きてるわ あたしの情報を,That's alive I'm my information,0.4
-Big O! Showtime!,ビッグオー ショータイム,Big Osho Time,0.16666666666666666
-Norman! How much longer?!,うっ　ノーマン まだか,Norman still,0.14285714285714285
-No! It can't be!,あたしの仲間なんかじゃない,It's not my friend,0.1
-I have no idea where it came from!,どこから来たのかも全然分からない あれは,I do not know at all where I came from anywhere,0.26666666666666666
-It shouldn't even be allowed to exist!,あれは居てはいけないものよ,Those who should not be,0.16666666666666666
-No... It can't be...,違う 絶対に違う,No difference,0.14285714285714285
-Dorothy. You don't need to feel afraid.,ドロシー 君は怖さなんか感じる必要はないんだ,Dorothy doesn't have to feel scary,0.3333333333333333
-Master Roger! I'm terribly sorry to keep you waiting!,大変お待たせ致しました,Thank you very much for waiting,0.13333333333333333
-That's just because I never thought I'd need to go below the subway.,サブウェイの下にまで行くことがあるとは,It is possible to go under the subway,0.21052631578947367
-This ghost is going down!,亡霊を倒す,Defeat the ghost,0.125
-"I don't know where you came from, when you came here, or even why...",どこからここに来ているのかは知らないが,I do not know where I'm coming here,0.2777777777777778
-"...but you aren't a god, that's for sure!",少なくとも神ではあるまい,At least a god,0.13333333333333333
-What?!,何,what,0.3333333333333333
-It's even more powerful than the Megadeus!,メガデウスより強い,Stronger than Mega deus,0.08333333333333333
-That's a monster that's got nothing to do with you!,あれは君とは無関係な化け物だ,That is an unrelated product with you,0.2
-"Big O! He's no friend of yours, either!",嫌よ 嫌,Habit,0.0
-Don't hold back!,遠慮することはない,Do not hesitate,0.14285714285714285
-"He seems to be an excellent negotiator, all right.",確かに優秀なネゴシエイターらしい,Certainly excellent negotiator,0.16666666666666666
-Even I can perceive temperature.,気温感知くらい出来るわ あたしだって,It can be done about temperature sensing,0.18181818181818182
-That android is hard to deal with.,扱いづらいアンドロイドだ,It is hard to handle android,0.4
+It is human",0.15789473684210525,0.30614546
+"People aren't the same. Each person is a unique being, R. Dorothy.",人間は同じじゃない 一人一人違う存在なんだよ,"Humans are not the same one, one person different",0.2631578947368421,0.6060526
+Dorothy?,ドロシー？,Dorothy?,1.0,1.0000001
+That sound...,音,sound,0.3333333333333333,0.44483757
+"I'm amazed you made it this far. Most impressive, for a Paradigm dog.",パラダイムの犬にしては大したもんだ,It is a big dust for paradigm dogs,0.2,0.561186
+"Seebach! No, Schwarzwald! What are you doing here?",ここで何をしている,What is doing here,0.25,0.30655944
+Is that Big O's archetype?,ん ビッグオーのアーキタイプなのか,Is it an arched type of Big O,0.25,0.6858173
+"Forty years ago, something happened, and we all lost our memory!",何かが起こって 我々は記憶を失った,Something happened and we lost my memory,0.42857142857142855,0.75008
+You call this power?,これが力だというのか,Is this a power?,0.42857142857142855,0.7898802
+"These Megadeuses were nothing special, Negotiator.",メガデウスは特別な物じゃなかったんだよ,Mega deus was not a special thing,0.07142857142857142,0.58457524
+Is it still operational?,これはまだ動くのか,Is this still moving?,0.42857142857142855,0.6187339
+It was buried here! I released the lock.,ここに埋められていたんだ,I was buried here,0.4,0.5707119
+It's too bad you didn't end up the same way.,あの時君も同じ姿になっていてくれれば,"At that time, if you are in the same way",0.2,0.3041012
+Dorothy!,ドロシー,Dorothy,0.5,0.8979242
+What's that woman doing?,何 その女は,What a woman,0.2857142857142857,0.49945956
+An android!,アンドロイド,Android,0.3333333333333333,0.70565397
+Damn it!,ど どうして,However,0.0,0.10578838
+What happened?! Why did it move?!,何が起こった なぜこれが動き出した,What happened Why this came out,0.2727272727272727,0.45470846
+"What's wrong, Dorothy?!",どうしたんだ ドロシー,What's wrong with Dorothy,0.5,0.918446
+It's alive. It accessed my information.,あれは生きてるわ あたしの情報を,That's alive I'm my information,0.4,0.68735266
+Big O! Showtime!,ビッグオー ショータイム,Big Osho Time,0.16666666666666666,0.46965694
+Norman! How much longer?!,うっ　ノーマン まだか,Norman still,0.14285714285714285,0.67880213
+No! It can't be!,あたしの仲間なんかじゃない,It's not my friend,0.1,0.23197983
+I have no idea where it came from!,どこから来たのかも全然分からない あれは,I do not know at all where I came from anywhere,0.26666666666666666,0.6076716
+It shouldn't even be allowed to exist!,あれは居てはいけないものよ,Those who should not be,0.16666666666666666,0.24630868
+No... It can't be...,違う 絶対に違う,No difference,0.14285714285714285,0.06470712
+Dorothy. You don't need to feel afraid.,ドロシー 君は怖さなんか感じる必要はないんだ,Dorothy doesn't have to feel scary,0.3333333333333333,0.81893
+Master Roger! I'm terribly sorry to keep you waiting!,大変お待たせ致しました,Thank you very much for waiting,0.13333333333333333,0.4765456
+That's just because I never thought I'd need to go below the subway.,サブウェイの下にまで行くことがあるとは,It is possible to go under the subway,0.21052631578947367,0.7821522
+This ghost is going down!,亡霊を倒す,Defeat the ghost,0.125,0.63069624
+"I don't know where you came from, when you came here, or even why...",どこからここに来ているのかは知らないが,I do not know where I'm coming here,0.2777777777777778,0.56001425
+"...but you aren't a god, that's for sure!",少なくとも神ではあるまい,At least a god,0.13333333333333333,0.4497994
+What?!,何,what,0.3333333333333333,0.60781556
+It's even more powerful than the Megadeus!,メガデウスより強い,Stronger than Mega deus,0.08333333333333333,0.7000489
+That's a monster that's got nothing to do with you!,あれは君とは無関係な化け物だ,That is an unrelated product with you,0.2,0.3148384
+"Big O! He's no friend of yours, either!",嫌よ 嫌,Habit,0.0,0.09678126
+Don't hold back!,遠慮することはない,Do not hesitate,0.14285714285714285,0.3331135
+"He seems to be an excellent negotiator, all right.",確かに優秀なネゴシエイターらしい,Certainly excellent negotiator,0.16666666666666666,0.79616016
+Even I can perceive temperature.,気温感知くらい出来るわ あたしだって,It can be done about temperature sensing,0.18181818181818185,0.49420753
+That android is hard to deal with.,扱いづらいアンドロイドだ,It is hard to handle android,0.4,0.868379

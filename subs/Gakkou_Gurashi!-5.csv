@@ -1,343 +1,343 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "Morning, sleepyhead! Time to—","（目覚まし時計）
 おはよう 寝坊助　朝だぞ
 おはよう 寝坊助　朝だぞ","Good morning Sleeping morning
-Good morning Sleeping morning",0.125
+Good morning Sleeping morning",0.125,0.611026
 I have to get up.,"（みーくん）
-起きなきゃ",I have to get up,0.8333333333333334
-"Taroumaru, breakfast.",太郎丸(たろうまる) ご飯だよ,Taro Maru  is rice,0.0
-Taroumaru!,太郎丸！,Taro Maru!,0.25
-No!,んっ　ダメ！　んっ,No!N',0.5
-Why?!,どうして！,why!,0.6666666666666666
-School Living Club,♪～,♪ ~,0.0
-Graduation Album,～♪,~ ♪,0.0
+起きなきゃ",I have to get up,0.8333333333333334,0.9505147
+"Taroumaru, breakfast.",太郎丸(たろうまる) ご飯だよ,Taro Maru  is rice,0.0,0.5240575
+Taroumaru!,太郎丸！,Taro Maru!,0.25,0.68988144
+No!,んっ　ダメ！　んっ,No!N',0.5,0.7946357
+Why?!,どうして！,why!,0.6666666666666666,0.817073
+School Living Club,♪～,♪ ~,0.0,0.18362588
+Graduation Album,～♪,~ ♪,0.0,0.11651542
 Someone's in a good mood.,"（くるみ）
-ノリノリだな",Norinori,0.0
+ノリノリだな",Norinori,0.0,0.1738651
 We... do!,"（ゆき）
 めぐねえ！　バナナは
 おやつに入りまーすか？","Megane!Banana
-Do you enter snacks?",0.2
+Do you enter snacks?",0.2,0.22272423
 We should be there soon.,"（りーさん）
-もうそろそろ着くはずよ",It should be arrived soon,0.375
-Yay!,とうちゃ～く！,Take!,0.3333333333333333
+もうそろそろ着くはずよ",It should be arrived soon,0.375,0.47026798
+Yay!,とうちゃ～く！,Take!,0.3333333333333333,0.4365037
 "Oh, that's it!","（くるみ）
-おっ　あれかな？","Oh, is it?",0.375
+おっ　あれかな？","Oh, is it?",0.375,0.60043687
 N-No I don't! I do not!,"そ… そんなことないよ
 ないもん！","So ... there is no such thing
-Not!",0.15384615384615385
+Not!",0.15384615384615385,0.1477317
 See? Your face is already flushed.,"（くるみ）ほら もう赤くなってる
-（りーさん）まあまあ",Horse is already red,0.2
-"I really am worried, though.",でも ホントに心配だわ,But I'm really worried,0.3333333333333333
+（りーさん）まあまあ",Horse is already red,0.2,0.25115415
+"I really am worried, though.",でも ホントに心配だわ,But I'm really worried,0.3333333333333333,0.7869532
 Wh-What was that?! What about you?,"（ゆき）
-にゃ… にゃにおう！？",Nya ...?,0.1
+にゃ… にゃにおう！？",Nya ...?,0.1,0.061952893
 "Well, so far, so good.","（くるみ）
 ここまでは
 何とかなったな","So far
-What happened",0.25
+What happened",0.25,0.53289574
 I'm guessing there aren't many of them \Nout because it's a weekday.,"確かに平日だったから
 出歩いているのは少なかったわね","Certainly because it was a weekday
-There was little to see",0.23809523809523808
+There was little to see",0.2380952380952381,0.52966917
 "And I have a perfectly\Nnoticeable presence, okay?!","あいつら みんな
 学校や仕事に行ってるんだな","Everyone
-I'm going to school and work",0.125
+I'm going to school and work",0.125,0.14373378
 "Well, let's keep our guard up \Nand try to enjoy our outing.","まあ この先も気を抜かずに
 遠足を楽しみましょ","Well, don't worry about this ahead
-Let's enjoy excursion",0.23809523809523808
+Let's enjoy excursion",0.2380952380952381,0.48616835
 It's been so long since we went shopping.,"せっかく
 久しぶりのショッピングなんだし","Huge
-It's been a long time shopping",0.38461538461538464
+It's been a long time shopping",0.38461538461538464,0.6978742
 "Hey, you two!","（ゆき）ねえ ２人とも！
-（りーさん･くるみ）あっ",Hey 2 people!,0.2857142857142857
-Hurry up!,早く～！,quickly!,0.25
+（りーさん･くるみ）あっ",Hey 2 people!,0.2857142857142857,0.6667803
+Hurry up!,早く～！,quickly!,0.25,0.6347651
 You're right.,"（くるみ）
-そうだなあ",That's right,0.16666666666666666
+そうだなあ",That's right,0.16666666666666666,0.6288545
 And we have to keep an eye \Non that little troublemaker.,"あの危なっかしい奴の
 面倒も見ないとな","That dangerous guy
-I have no trouble",0.11764705882352941
-The door's open?,開けっ放し？,Open?,0.4
+I have no trouble",0.1176470588235294,0.3675108
+The door's open?,開けっ放し？,Open?,0.4,0.59038514
 Are you guys closed? Hello?,"（ゆき）
-えっ　どうして？",How do you do it?,0.2222222222222222
+えっ　どうして？",How do you do it?,0.2222222222222222,0.092124075
 "Hey, don't be so loud.","（くるみ）
-おい あんまり大きな声出すなよ",Don't give me a big voice,0.15384615384615385
+おい あんまり大きな声出すなよ",Don't give me a big voice,0.15384615384615385,0.4269124
 "Well, because...","（くるみ）どうしてって…
-（りーさん）んっ",What is ...,0.16666666666666666
-Looks like there's an event happening.,何かイベントがあるみたいよ,It seems that there is something event,0.15384615384615385
-Event? Like a festival?,イベント？　お祭りみたいなの？,event?Is it like a festival?,0.7142857142857143
+（りーさん）んっ",What is ...,0.16666666666666666,0.31732577
+Looks like there's an event happening.,何かイベントがあるみたいよ,It seems that there is something event,0.15384615384615385,0.8046722
+Event? Like a festival?,イベント？　お祭りみたいなの？,event?Is it like a festival?,0.7142857142857143,0.94811
 I think there's a concert going on. \NLet's be quiet so we don't interrupt.,"コンサートイベント中みたい
 迷惑にならないように静かにね","Concert event
-Quiet to not be annoying",0.14285714285714285
-Okay!,はあい！,Hay!,0.3333333333333333
-Thank you.,ありがと　さあ みんな 行きましょ,Thank you everyone,0.5
+Quiet to not be annoying",0.14285714285714285,0.6665617
+Okay!,はあい！,Hay!,0.3333333333333333,0.2982198
+Thank you.,ありがと　さあ みんな 行きましょ,Thank you everyone,0.5,0.43447343
 It's so big!,"これくらいの数なら
 どうってことない","If it is so much
-No matter what",0.18181818181818182
+No matter what",0.18181818181818185,0.1618856
 Gotcha!,"（りーさん）分かった
 （ゆき）分かった！","I understand
- I understand!",0.25
+ I understand!",0.25,0.29380512
 Sorry.,"（くるみ）しっ
-（ゆき）ごめん",Sorry,0.5
+（ゆき）ごめん",Sorry,0.5,0.8435785
 "Okay, let's go!","なるべく音立てないように
 ついてきて","Don't let go
-follow me",0.2
-Looks like there are none in here.,この中には いないみたい,It looks like this,0.2
-"Thanks, Rii-san.",サンキュー りーさん,Mr. Sanky,0.0
+follow me",0.2,0.30327362
+Looks like there are none in here.,この中には いないみたい,It looks like this,0.2,0.2710857
+"Thanks, Rii-san.",サンキュー りーさん,Mr. Sanky,0.0,0.14840142
 I wonder what they've got here.,"（ゆき）
-何かあるかなあ",I wonder if there is something,0.16666666666666666
-"Rii-san, I'm gonna check downstairs.",りーさん　私 地下に行ってくる,Rava-san I'm going underground,0.16666666666666666
-Don't do anything reckless.,あんまりムチャしないでね,Don't mess up too much,0.2222222222222222
+何かあるかなあ",I wonder if there is something,0.16666666666666666,0.49493012
+"Rii-san, I'm gonna check downstairs.",りーさん　私 地下に行ってくる,Rava-san I'm going underground,0.16666666666666666,0.64013135
+Don't do anything reckless.,あんまりムチャしないでね,Don't mess up too much,0.2222222222222222,0.37544477
 I know.,"分かってるって
 んっ　ハア ハア ハア…","I know
-Haa Haa Haa ...",0.4
+Haa Haa Haa ...",0.4,0.4424892
 What's up?,"（りーさん）
-ん？　どうしたの？",Yeah? What's wrong?,0.5
+ん？　どうしたの？",Yeah? What's wrong?,0.5,0.48270363
 Don't worry. I promise I'll bring help.,"（祠堂(しどう)圭(けい)）
 大丈夫
 絶対に助けを連れてくるから","Alright
-I will take help absolutely",0.15384615384615385
-Kei...,圭…,...,0.5
+I will take help absolutely",0.15384615384615385,0.4384117
+Kei...,圭…,...,0.5,0.24208052
 There.,"（くるみ）
-あった！",there were!,0.25
+あった！",there were!,0.25,0.4857601
 Ginger soy beef!,"（くるみ）うわっ！
 （太郎丸）ワウウ","Wow!
- Wow",0.2
-What? What is it?,うわっ 何だ何だ？,What is it?,1.0
-No fair! That's mine!,ずるいぞ！　それは私のだ！,I'm sorry!That's me!,0.3
-"Oh, no!",（くるみ）ああっ！,Oh!,0.5
+ Wow",0.2,0.20585594
+What? What is it?,うわっ 何だ何だ？,What is it?,1.0,0.7236211
+No fair! That's mine!,ずるいぞ！　それは私のだ！,I'm sorry!That's me!,0.3,0.47593814
+"Oh, no!",（くるみ）ああっ！,Oh!,0.5,0.6887827
 "Hey, Rii-san, Kurumi-chan still isn't back.","（ゆき）
 ねえ りーさん
 くるみちゃん まだかな？","Hey-san
-Is it still Kurumi?",0.15384615384615385
+Is it still Kurumi?",0.15384615384615385,0.7404901
 I know. Let's wait a little longer.,"（りーさん）
-そうね　もう少し待ちましょ",That's right I will wait a little more,0.38461538461538464
+そうね　もう少し待ちましょ",That's right I will wait a little more,0.38461538461538464,0.5382501
 Huh?,"（ゆき）りーさん 渋いね
 （りーさん）んっ？","Ry-san
-?",0.3333333333333333
+?",0.3333333333333333,0.15558991
 Safe...,"（くるみ）ハア　助かった
-（りーさん）くるみ",Haa helpful,0.0
+（りーさん）くるみ",Haa helpful,0.0,0.24219133
 A puppy!,"（太郎丸）ワンッ
-（ゆき）あっ！",!,0.3333333333333333
-Sorry. Hang on a second.,ごめんね ちょっと待ってね,Sorry for a while,0.25
+（ゆき）あっ！",!,0.3333333333333333,0.25974777
+Sorry. Hang on a second.,ごめんね ちょっと待ってね,Sorry for a while,0.25,0.5281081
 Just a second...,"（くるみ）りーさん 早く
 （りーさん）ちょっと待って","Ri
- Wait a minute",0.14285714285714285
+ Wait a minute",0.14285714285714285,0.24582611
 "Here, Yuki-chan.","（りーさん）はい ゆきちゃん
 （太郎丸）ワウウ","Yuki-chan
- Wow",0.2
-"Hi there, puppy.",はじめまして わんちゃん,Nice to meet you,0.0
+ Wow",0.2,0.8422577
+"Hi there, puppy.",はじめまして わんちゃん,Nice to meet you,0.0,0.32347953
 "Yuki-chan, settle down!","（ゆき）わあい！　わんちゃんだあ
 （めぐねえ）ゆきちゃん落ち着いて","Wow!I'm sorry
- Yuki-chan calm",0.2
-Where'd he come from?,いたら連れてくるって,It will come again,0.1111111111111111
-I wonder where his owner is.,飼い主はどうしたのかしら,What happened to the owner,0.09090909090909091
+ Yuki-chan calm",0.2,0.74537456
+Where'd he come from?,いたら連れてくるって,It will come again,0.1111111111111111,0.047553685
+I wonder where his owner is.,飼い主はどうしたのかしら,What happened to the owner,0.09090909090909093,0.5616345
 "Hey, Kurumi-chan, \Nwhat do you think his name is?","（ゆき）
 ねえねえ くるみちゃん
 この子の名前って何かな？","Hey Nei Kurumi
-What is the name of this child?",0.2222222222222222
-No idea. Isn't it written on his collar?,さあ 首輪か何かに書いてないか？,Casa's collar or something not written?,0.1875
-"Okay! Nice to meet you, Taroumaru!",そっか！　よろしくね 太郎丸！,I see!Thank you very much!,0.15384615384615385
+What is the name of this child?",0.2222222222222222,0.64639854
+No idea. Isn't it written on his collar?,さあ 首輪か何かに書いてないか？,Casa's collar or something not written?,0.1875,0.6421591
+"Okay! Nice to meet you, Taroumaru!",そっか！　よろしくね 太郎丸！,I see!Thank you very much!,0.15384615384615385,0.19214827
 Are the escalators all broken?,"（ゆき）
-エスカレーター故障中？",Are you breakdown for escalators?,0.3333333333333333
-There aren't many on the upper floors.,上の階ほど 奴ら少ないな,There are few people on the top floor,0.3076923076923077
+エスカレーター故障中？",Are you breakdown for escalators?,0.3333333333333333,0.78056854
+There aren't many on the upper floors.,上の階ほど 奴ら少ないな,There are few people on the top floor,0.3076923076923077,0.6675565
 Let's try the home appliances store.,"とりあえず
 家電屋さんに行きましょ","for now
-I went to the house electric store",0.13333333333333333
-Roger.,了解,Roger that,0.3333333333333333
+I went to the house electric store",0.13333333333333333,0.65549153
+Roger.,了解,Roger that,0.3333333333333333,0.7945503
 Here!,"か～わいい！
 確か ここを引っ張ると…","か か!
-Certainly he pulls here ...",0.2857142857142857
-This is it!,これこれ,This,0.25
+Certainly he pulls here ...",0.2857142857142857,0.21072362
+This is it!,これこれ,This,0.25,0.5090992
 An emergency alarm?,"（くるみ）防犯ブザー？
-（りーさん）そう",Security buzzer?,0.16666666666666666
+（りーさん）そう",Security buzzer?,0.16666666666666666,0.49529862
 How cute!,"（ゆき）ひいい！
 （りーさん）だ･め･よ～","Hot!
- · · · · · ·",0.2
-"Aww, just a little...",ええ～　ちょっとくらい…,Yeah ~ a little ...,0.375
-I said no.,ううっ　分かりました,I understand,0.2
-What do we need that for?,さっ 大体 必要な物は集まったわね,The things that needed usually have gathered,0.07692307692307693
+ · · · · · ·",0.2,0.24885747
+"Aww, just a little...",ええ～　ちょっとくらい…,Yeah ~ a little ...,0.375,0.6531095
+I said no.,ううっ　分かりました,I understand,0.2,0.22325163
+What do we need that for?,さっ 大体 必要な物は集まったわね,The things that needed usually have gathered,0.07692307692307693,0.36250412
 To scare off bad guys. Crime prevention.,"防犯よ　ぼ･う･は･ん
 ンフフッ","Crime prevention, う う う
-Nfufu'",0.16666666666666666
+Nfufu'",0.16666666666666666,0.4436126
 Yup!,"（ゆきたち）
-うん！",Yes!,0.3333333333333333
+うん！",Yes!,0.3333333333333333,0.72630584
 Then let's go look at clothes next.,"それじゃあ
 次は お洋服を見に行きましょ","Well then
-Next go to see her clothes",0.3076923076923077
+Next go to see her clothes",0.3076923076923077,0.7432865
 Should we really be doing this?,"（くるみ）
-こんなことしてていいのかな？",Is it like this?,0.2
-"We are girls, after all.",だって私たち 女の子でしょ？,Because we are a girl?,0.18181818181818182
-Can we please wait a bit?,お願い ちょっと待ってあげて,Please wait a moment,0.375
+こんなことしてていいのかな？",Is it like this?,0.2,0.22545607
+"We are girls, after all.",だって私たち 女の子でしょ？,Because we are a girl?,0.18181818181818185,0.66472405
+Can we please wait a bit?,お願い ちょっと待ってあげて,Please wait a moment,0.375,0.56359965
 "We'll apologize to the owner together, okay?","（ゆき）
 店員さんには
 一緒に謝ってあげるから","For the clerk
-I apologize together",0.23076923076923078
+I apologize together",0.2307692307692308,0.5554578
 Megu-nee?,"（くるみ）
-んっ？",?,0.5
-Yeah! Let's!,うん そうする！,Yeah!,0.5
-Do you know what she likes?,めぐねえの好きな物 分かる？,Do you know what you like?,0.625
+んっ？",?,0.5,0.1416768
+Yeah! Let's!,うん そうする！,Yeah!,0.5,0.69929487
+Do you know what she likes?,めぐねえの好きな物 分かる？,Do you know what you like?,0.625,0.6526437
 "That'd be this, right?","（くるみ）そりゃ これだろ！
 （ゆき･りーさん）んっ？","That's right!
-?",0.3333333333333333
-"Here, Megu-nee, this is for you.",めぐねえ これプレゼント！,This gift is present!,0.18181818181818182
+?",0.3333333333333333,0.48420775
+"Here, Megu-nee, this is for you.",めぐねえ これプレゼント！,This gift is present!,0.18181818181818185,0.18955432
 Of course!,"（ゆき）
-もちろん！",of course!,1.0
+もちろん！",of course!,1.0,1.0000002
 "Thank you, Yuki-chan.\NI want you to keep it, though.","ありがとう ゆきちゃん
 でも これはゆきちゃんが持ってて","Thank you Yuki-chan
-But Yuko has",0.14285714285714285
+But Yuko has",0.14285714285714285,0.60100514
 What? Why?,"（ゆき）
-えっ なんで？",What is it?,0.4
-Do you already have one?,もしかして同じの持ってた？,Did you have the same?,0.3333333333333333
-"That's part of it, yes.",そっか　おそろいだね！,It's like it!,0.2
+えっ なんで？",What is it?,0.4,0.3904358
+Do you already have one?,もしかして同じの持ってた？,Did you have the same?,0.3333333333333333,0.41611686
+"That's part of it, yes.",そっか　おそろいだね！,It's like it!,0.2,0.3001597
 H-How so?,"（りーさん）
 それで 結局
 自分のにしちゃったんだ","So eventually
-I've done myself",0.125
+I've done myself",0.125,0.1643906
 "This, mainly.","（めぐねえ）ど… どこが？
 （ゆき）主にこの辺！","... Where?
- Mainly this side!",0.2222222222222222
+ Mainly this side!",0.2222222222222222,0.30164108
 "So in the end, you got to keep it.","そういえば この子
 めぐねえにも似てるしね","Speaking of which this child
-It is similar to me",0.10526315789473684
-First place!,ワンワンワンワンッ！,One One Wan!,0.2
+It is similar to me",0.10526315789473684,0.08994604
+First place!,ワンワンワンワンッ！,One One Wan!,0.2,0.21879865
 "Finally, the top floor.","（くるみ）やっと最上階だな
 （太郎丸）ワンワンワンッ！","Finally the top floor
- One-on-wing!",0.5
+ One-on-wing!",0.5,0.67388064
 What's wrong?,"（ゆき）太郎丸？
 （くるみ）どうした？","Taro Maru?
- What happened?",0.2857142857142857
-"Taroumaru, hush.",太郎丸 “しーっ”よ,"Taro Maru """"",0.0
-Rii-san.,ありがとね,Thanks dear,0.0
-What is it?,どうしたの？,What's wrong?,0.3333333333333333
+ What happened?",0.2857142857142857,0.1668769
+"Taroumaru, hush.",太郎丸 “しーっ”よ,"Taro Maru """"",0.0,0.55867505
+Rii-san.,ありがとね,Thanks dear,0.0,0.14019167
+What is it?,どうしたの？,What's wrong?,0.3333333333333333,0.25813532
 I heard something. Sounded like \Na chair getting knocked over.,"物音がした
 イスを倒したみたいな音","Spain
-Sound like defeating chair",0.14285714285714285
+Sound like defeating chair",0.14285714285714285,0.49825504
 But there were barely any on the floor below.,"でも １階下には
 ほとんどいなかったし…","But below the first floor
-There was almost no ...",0.3333333333333333
+There was almost no ...",0.3333333333333333,0.78715056
 A survivor? Maybe it's Taroumaru's owner?,"もしかして生存者！？
 太郎丸の飼い主とか…","Survivors!?
-Taro Maru's owner ...",0.23076923076923078
+Taro Maru's owner ...",0.2307692307692308,0.6584719
 "If that's true, we've gotta save them.","（くるみ）もしそうなら助けなきゃ
-（りーさん）んっ","If so, I have to help",0.11764705882352941
+（りーさん）んっ","If so, I have to help",0.1176470588235294,0.18645716
 Here?,"（りーさん）ここ？
 （くるみ）ああ 間違いない","here?
- Oh no mistake",0.4
-Stay here. I'll check inside.,ちょっと待ってて　中 調べてくる,Wait a minute and check inside,0.18181818181818182
-We'll wait here. Be careful.,ここで待ってる　気をつけてね,Please be careful about waiting here,0.3
+ Oh no mistake",0.4,0.5014092
+Stay here. I'll check inside.,ちょっと待ってて　中 調べてくる,Wait a minute and check inside,0.18181818181818185,0.57906055
+We'll wait here. Be careful.,ここで待ってる　気をつけてね,Please be careful about waiting here,0.3,0.7795656
 "Look at this, Rii-san! \NDoesn't this dog look like Taroumaru?","見て見て りーさん
 このわんこ 太郎丸に似てない？","Seeing and seeing
-Isn't it similar to this dog Taro Maru?",0.2
+Isn't it similar to this dog Taro Maru?",0.2,0.65223897
 Run!,"（くるみ）んっ 逃げろ！
 （りーさん･ゆき）んっ？","Run away!
-?",0.5
-There's a huge group of them!,奴ら すごい数だ！,The number of people is a great number!,0.23076923076923078
+?",0.5,0.6562245
+There's a huge group of them!,奴ら すごい数だ！,The number of people is a great number!,0.2307692307692308,0.49159575
 Yuki!,"（くるみ）ゆき！
 （ゆき）わあっ！","Yuki!
-!",1.0
-It'll be okay. Just run!,大丈夫だ　今は走れ！,It's okay now!,0.3
+!",1.0,0.98160905
+It'll be okay. Just run!,大丈夫だ　今は走れ！,It's okay now!,0.3,0.4815231
 I guess... it was my imagination...,"（ゾンビ）ああ…
-（ゆき）あっ",ah ...,0.125
+（ゆき）あっ",ah ...,0.125,0.19535327
 Hurry!,"（くるみ）
-急げ！",hurry up!,0.6666666666666666
+急げ！",hurry up!,0.6666666666666666,0.8573228
 There are so many...,"（りーさん）あんなにいっぱい…
-（くるみ）んっ",There are so many ...,1.0
+（くるみ）んっ",There are so many ...,1.0,1.0000001
 We'll bust through. Stay behind me!,"（くるみ）突破する　ついてきて！
-（りーさん）んっ",Follow me out!,0.18181818181818182
+（りーさん）んっ",Follow me out!,0.18181818181818185,0.5193529
 Yuki-chan... Yuki-chan.,"（りーさん）
-ゆきちゃん ゆきちゃん",Yuki-chan Yuki-chan,0.3333333333333333
+ゆきちゃん ゆきちゃん",Yuki-chan Yuki-chan,0.3333333333333333,0.9576086
 What?,"（ゆき）平気だよ
 （くるみ）ケガは？","I'm fine
- What is injured?",0.2857142857142857
+ What is injured?",0.2857142857142857,0.11024245
 Are you okay?,"（ゆき）なあに？
 （りーさん）大丈夫？","Na?
- okay?",0.4
+ okay?",0.4,0.35432255
 She has a fever.,"（りーさん）
-熱があるわね",There is a fever,0.2857142857142857
+熱があるわね",There is a fever,0.2857142857142857,0.78895587
 Taroumaru...,"（太郎丸）ワウウ
 （ゆき）太郎丸…","Wow
- Taro Maru ...",0.2
+ Taro Maru ...",0.2,0.58452165
 Let's let her sleep a bit.,"（くるみ）
-少し寝かせとこう",Let's go to bed a little,0.2727272727272727
+少し寝かせとこう",Let's go to bed a little,0.2727272727272727,0.5992633
 "You should rest, too. \NYou must be the most tired.","くるみも休んで
 一番疲れてるはずよ","Kurumi also rests
-It should be the most tired",0.3125
+It should be the most tired",0.3125,0.6252311
 Have some water.,"（りーさん）はい お水
 （くるみ）サンキュー","Yes water
- Thank you",0.14285714285714285
-That group in the theater...,中の奴らを閉じ込めるみたいに…,Like to be able to close the guys in the middle ...,0.23076923076923078
+ Thank you",0.14285714285714285,0.5752061
+That group in the theater...,中の奴らを閉じ込めるみたいに…,Like to be able to close the guys in the middle ...,0.2307692307692308,0.23318237
 A lot of them were kids.,"（くるみ）
-あの映画館 子供が多かったんだ",There were many children of that cinema,0.16666666666666666
+あの映画館 子供が多かったんだ",There were many children of that cinema,0.16666666666666666,0.62771374
 They must've been waiting \Nfor help the whole time.,"（りーさん）
-ずっと助けを待っていたのかもね",You may have been waiting for help for a long time,0.23529411764705882
-"No... The door was barricaded,",いや 扉の外にバリケードがあった,"No, there was a barricade outside the door",0.45454545454545453
+ずっと助けを待っていたのかもね",You may have been waiting for help for a long time,0.2352941176470588,0.6882886
+"No... The door was barricaded,",いや 扉の外にバリケードがあった,"No, there was a barricade outside the door",0.4545454545454545,0.91706526
 They weren't attacked from the outside. \NSomeone in that room had been bitten.,"きっと外から襲われたんじゃない
 内側に かまれた奴がいたんだ","I was surely attacked from outside
-Inside she was a guy",0.13636363636363635
+Inside she was a guy",0.13636363636363635,0.6035873
 To protect the people I care about...,"きっと大事な人を守りたくて
 逃げ込んだ人もいたんだ","I'm sure I want to protect the important people
-I also fleed away",0.3333333333333333
+I also fleed away",0.3333333333333333,0.5708219
 "If I get infected, don't hesitate for a second.","もし 私が感染したら
 迷わないでほしい","If I infected
-I want you to get lost",0.25
-What're you saying?,あっ どうしたの？　ゆきちゃん,What happened?Oyster,0.2857142857142857
-Promise me.,約束してくれ,Promise,0.3333333333333333
-Pinky-swear.,指切り,Indexing,0.0
-Yeah.,だな,Ouight,0.0
-Let's go home... to school.,帰ろう　学校へ,Let's go to school,0.625
-So someone was here.,やっぱり 誰か来てたんだ,After all someone came,0.125
+I want you to get lost",0.25,0.6620761
+What're you saying?,あっ どうしたの？　ゆきちゃん,What happened?Oyster,0.2857142857142857,0.10635927
+Promise me.,約束してくれ,Promise,0.3333333333333333,0.64361066
+Pinky-swear.,指切り,Indexing,0.0,0.06540556
+Yeah.,だな,Ouight,0.0,0.183107
+Let's go home... to school.,帰ろう　学校へ,Let's go to school,0.625,0.72971666
+So someone was here.,やっぱり 誰か来てたんだ,After all someone came,0.125,0.42491445
 Is just staying alive enough?,"（くるみ）
-だっしゅ～つ！",It is,0.14285714285714285
+だっしゅ～つ！",It is,0.14285714285714285,0.14266972
 No excuses!,"（みーくん）あっ！
 （ゾンビたち）ああ…","!
- ah ...",0.2
-Let's head home.,さっ 戻りましょ,Let's go back,0.2857142857142857
+ ah ...",0.2,0.21062444
+Let's head home.,さっ 戻りましょ,Let's go back,0.2857142857142857,0.550863
 Yuki?,"（くるみ）
-ゆき？",snow?,0.3333333333333333
-Did you guys hear something?,ねえ　今 何か聞こえなかった？,"Hey, did you not hear something now?",0.5
+ゆき？",snow?,0.3333333333333333,0.2590092
+Did you guys hear something?,ねえ　今 何か聞こえなかった？,"Hey, did you not hear something now?",0.5,0.73341984
 No...,"（くるみ）
-えっ 別に…",Etony ...,0.3333333333333333
-I heard a voice. Someone's calling for us.,声がしたの　私たちを呼んでた,I called us what I heard,0.25
+えっ 別に…",Etony ...,0.3333333333333333,0.17509885
+I heard a voice. Someone's calling for us.,声がしたの　私たちを呼んでた,I called us what I heard,0.25,0.6250441
 Let's hurry home.,"ゆき それ気のせいだよ
 早く帰ろうぜ","It's because of Yukiya
-Let's go home early",0.2727272727272727
-I'm not imagining it! I really heard a voice!,違うよ　ホントに声がしたもん！,"No, I really heard!",0.3333333333333333
-"Yuki-chan, calm down.",ゆきちゃん 落ち着いて,Yuki-chan calm,0.4
-"Megu-nee, you heard it too, right?",めぐねえも聞こえたでしょ？,You could hear it in a way?,0.23076923076923078
-I...,あっ それは…,Oh it is ...,0.2
+Let's go home early",0.2727272727272727,0.30664587
+I'm not imagining it! I really heard a voice!,違うよ　ホントに声がしたもん！,"No, I really heard!",0.3333333333333333,0.4281499
+"Yuki-chan, calm down.",ゆきちゃん 落ち着いて,Yuki-chan calm,0.4,0.89409214
+"Megu-nee, you heard it too, right?",めぐねえも聞こえたでしょ？,You could hear it in a way?,0.2307692307692308,0.3798258
+I...,あっ それは…,Oh it is ...,0.2,0.36380795
 "Hey, Taroumaru!","（太郎丸）
-ワンッ！",Wan!,0.2
-I'm going with him!,一緒に行く！,I go together!,0.25
+ワンッ！",Wan!,0.2,0.293423
+I'm going with him!,一緒に行く！,I go together!,0.25,0.5614204
 "No, Yuki-chan!","（りーさん）ダメ ゆきちゃん！
 （くるみ）ゆき！","Damping Yuki-chan!
- Yuki!",0.3333333333333333
+ Yuki!",0.3333333333333333,0.7177546
 Help...,"（みーくん）
-やだ…　来ないで…　助けて…",Yada ... Don't come ... help me ...,0.2857142857142857
-Someone!,誰か！　誰か来てー！,who!Someone comes!,0.5
-Please...,お願い…　お願い…,Please ... request ...,0.6666666666666666
+やだ…　来ないで…　助けて…",Yada ... Don't come ... help me ...,0.2857142857142857,0.32260677
+Someone!,誰か！　誰か来てー！,who!Someone comes!,0.5,0.57579637
+Please...,お願い…　お願い…,Please ... request ...,0.6666666666666666,0.66933304
 There! Over there!,"（太郎丸）ワンッ！
 （ゆき）いた！　あそこ！","Wan!
- was! over there!",0.6
+ was! over there!",0.6,0.4945977
 But...!,"（ゆき）
-でも！　はっ",but!Haze,0.5
-Yuki-chan!,ゆきちゃん！,Yuki-chan!,1.0
+でも！　はっ",but!Haze,0.5,0.3814266
+Yuki-chan!,ゆきちゃん！,Yuki-chan!,1.0,0.9999998
 Everyone!,"（りーさん）みんな！
-（くるみ）あっ",Everyone!,1.0
+（くるみ）あっ",Everyone!,1.0,1.0000001
 "Come on, let's go.","（ゆき）
-ねえ 一緒に行こう",Hey Let's go together,0.3333333333333333
+ねえ 一緒に行こう",Hey Let's go together,0.3333333333333333,0.49996912
 "Yuki, hurry!","（くるみ）
-んっ！　ゆき 早く！",!Yuki early!,0.4
-Thank goodness you're safe.,よかった　無事で,It was good safe,0.1111111111111111
+んっ！　ゆき 早く！",!Yuki early!,0.4,0.777633
+Thank goodness you're safe.,よかった　無事で,It was good safe,0.1111111111111111,0.5496732
 Did you see another girl about my age?,"私の他に女の子見ませんでしたか？
 同い年くらいの…","Didn't you see the girl elsewhere?
-About the same age ...",0.5
-I see...,そうですか,I see,0.6666666666666666
+About the same age ...",0.5,0.7268429
+I see...,そうですか,I see,0.6666666666666666,0.8542535
 "I'm a bit late, but I'm leaving too, Kei.","（みーくん）
 少し遅くなったけど
 私も行くね 圭","I got a little late
-I also go",0.2
-"Shopping, shopping!",お買い物っ お買い物っ,Board shopping,0.25
-Manga is never a waste of money.,漫画はムダ遣いじゃないよ,The manga is not a moody,0.2727272727272727
+I also go",0.2,0.3818675
+"Shopping, shopping!",お買い物っ お買い物っ,Board shopping,0.25,0.5024498
+Manga is never a waste of money.,漫画はムダ遣いじゃないよ,The manga is not a moody,0.2727272727272727,0.47537297
 Do your homework.,"（めぐねえ）ちゃんと宿題も…
 （ゆき）新刊あるかなあ","and homework ...
- new issue",0.125
+ new issue",0.125,0.33374107
 "Next time on Episode 6 of \NSCHOOL-LIVE, ""Welcome.""","（めぐねえ･ゆき）
-次回「がっこうぐらし！」第６話","Next time ""Gogurashi!"" Episode 6",0.42857142857142855
+次回「がっこうぐらし！」第６話","Next time ""Gogurashi!"" Episode 6",0.42857142857142855,0.54119825

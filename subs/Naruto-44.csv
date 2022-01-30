@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.2477459
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048281
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,7 +68,7 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.55187774
 And the next match.,"(ﾊﾔﾃ)
 では
  
@@ -78,7 +78,7 @@ And the next match.,"(ﾊﾔﾃ)
 ","In
  
 It is the next game
-.",0.3333333333333333
+.",0.3333333333333333,0.5259561
 This year's rookie looks challenging...,"(
 ネジ
 )
@@ -88,7 +88,7 @@ This year's rookie looks challenging...,"(
 
 ","What is Rookie
 It seems that there is no way ...
-.",0.125
+.",0.125,0.5775763
 "It's here, it's here, it's here!","♬
  
 だから
@@ -101,12 +101,12 @@ It seems that there is no way ...
 that's why
 ,
 Oh
-,",0.2222222222222222
+,",0.2222222222222222,0.16003488
 It's finally my turn!,"お待たせしました！
 やっと俺の出番だってばよ！
 
 ","Sorry I made you wait!
-Finally my turn!",0.36363636363636365
+Finally my turn!",0.3636363636363637,0.594599
 Yeah! Lucky us!,"(
 キバ
 )
@@ -116,7 +116,7 @@ Yeah! Lucky us!,"(
 
 ","Ho ~!
  
-lucky!",0.3333333333333333
+lucky!",0.3333333333333333,0.6020758
 "If it's this guy,
 we'll absolutely win, Akamaru!","あいつになら確実に勝てるぞ！
 赤丸
@@ -124,10 +124,10 @@ we'll absolutely win, Akamaru!","あいつになら確実に勝てるぞ！
 
 ","If you are, you will definitely win!
 Red circle
-.",0.21052631578947367
+.",0.21052631578947367,0.43883565
 I'm going to do it!,"やるってばよ！
 
-",I will do it!,0.5
+",I will do it!,0.5,0.79301393
 "The seventh battle,
 Naruto Uzumaki versus Kiba Inuzuka.","うずまきナルト
  
@@ -141,28 +141,28 @@ Naruto Uzumaki versus Kiba Inuzuka.","うずまきナルト
 versus
  
 Kiba Inuyuka
-.",0.45454545454545453
+.",0.4545454545454545,0.8466649
 I got sick of waiting!,"待ちくたびれた～！
 
-",I was waiting for you!,0.3333333333333333
+",I was waiting for you!,0.3333333333333333,0.6356913
 You won't be able to beat me!,"お前じゃ
 俺には勝てねえんだってばよ！
 
 ","Oh
-I will win to me!",0.23076923076923078
+I will win to me!",0.2307692307692308,0.60384226
 You fool!,"(
 キバ
 )
 てめぇ！
 
-",You!,0.6666666666666666
+",You!,0.6666666666666666,0.47587475
 "Hey, hey! Is that okay?","それは
  
 こっちのセリフだ！
 
 ","that is
  
-It's a serif of this!",0.23076923076923078
+It's a serif of this!",0.2307692307692308,0.1827762
 "Animals and insects are treated
 the same as ninja tools.","(ﾊﾔﾃ)
 はい
@@ -175,15 +175,15 @@ the same as ninja tools.","(ﾊﾔﾃ)
  
 Animals and insects
 It is the same treatment as a signet
-.",0.4117647058823529
+.",0.4117647058823529,0.4969469
 There's no problem.,"何の問題もありません
 ｡
 
 ","There is no problem
-.",0.6666666666666666
+.",0.6666666666666666,0.92824554
 It's a perfect handicap!,"試合の邪魔だってばよ！
 
-",It's a break of the game!,0.4
+",It's a break of the game!,0.4,0.29939616
 Then...,"フン！
  
 強がりやがって
@@ -196,7 +196,7 @@ Then...,"フン！
 Scoldly
  
 If ...
-.",0.14285714285714285
+.",0.14285714285714285,0.19191322
 "Akamaru, don't put a paw in this.","赤丸
  
 お前は手
@@ -211,7 +211,7 @@ You are your hand
  
 Do not put out
 I only do it
-.",0.14285714285714285
+.",0.14285714285714285,0.294055
 Naruto! Don't lose to a guy like this!,"(ｻｸﾗ)
 ナルト
  
@@ -221,11 +221,11 @@ Naruto! Don't lose to a guy like this!,"(ｻｸﾗ)
 ","Naruto
  
 In a guy
-I'm not losing!",0.26666666666666666
+I'm not losing!",0.26666666666666666,0.91511667
 <i>It's finally come.</i>,"(ｶｶｼ)
 《やっと来たな》
 
-","""I finally came""",0.18181818181818182
+","""I finally came""",0.18181818181818185,0.5511651
 "<i>I'm sorry, but he can't beat Kiba...</i>","彼じゃ
  
 キバには勝てないわよ
@@ -234,7 +234,7 @@ I'm not losing!",0.26666666666666666
 ","Him
  
 I can't beat Kiba
-Kakashi""",0.29411764705882354
+Kakashi""",0.29411764705882354,0.76244843
 "<i>I-I want to support you, but...</i>","(ﾋﾅﾀ)
 《ナルト君
 お…
@@ -244,7 +244,7 @@ Kakashi""",0.29411764705882354
 ","""Naruto
 Oh…
  
-I want to support but",0.3333333333333333
+I want to support but",0.3333333333333333,0.5024692
 <i>Kiba's on my team...</i>,"一応
  
 私
@@ -253,7 +253,7 @@ I want to support but",0.3333333333333333
 ","First
  
 Me
-It is the same team as Kiba ...",0.17647058823529413
+It is the same team as Kiba ...",0.17647058823529413,0.7770974
 Kiba's lucky.,"(ﾁｮｳｼﾞ)
 キバ
  
@@ -269,7 +269,7 @@ Lucky
 .
 
 Ket
-.",0.6
+.",0.6,0.8284741
 <i>Today we'll run through Transformation Jutsu.</i>,"(ｲﾙｶ)
 ＜きょうは
 変化の術のおさらいだ
@@ -279,22 +279,22 @@ Ket
 ","<Today
 It is expected to change the change
 .
-➡",0.10526315789473684
+➡",0.10526315789473684,0.40180084
 "<i>His ability was ""that,"" so...</i>","(
 リー
 )
 《ナルト君…》
 
-","""Naruto ...""",0.21428571428571427
+","""Naruto ...""",0.21428571428571427,0.19659095
 Transform!,"＜変化！＞
 
-",<Change!>,0.2
+",<Change!>,0.2,0.4278494
 So noisy...,"(
 生徒たち
 )
 ＜ハハハハ…！＞
 
-",<Hahahaha ...!>,0.14285714285714285
+",<Hahahaha ...!>,0.14285714285714285,0.20432465
 I was sleeping comfortably...,"(
 キバ
 )
@@ -306,7 +306,7 @@ I was sleeping comfortably...,"(
 ","...
  
 Unhappy
-I went to bed with a good feeling>",0.14285714285714285
+I went to bed with a good feeling>",0.14285714285714285,0.5124748
 "T-That was a joke!
 I-I did it on purpose!","今のは冗談
  
@@ -314,14 +314,14 @@ I-I did it on purpose!","今のは冗談
 
 ","Now jokes
  
-It is a good idea>",0.125
+It is a good idea>",0.125,0.30719355
 "Enough, Naruto!","＜いいかげんにしろ
  
 ナルト！➡
 
 ","<Good mood
  
-Naruto!➡",0.25
+Naruto!➡",0.25,0.70508415
 "It's your third year
 at the academy!","お前はもう
 アカデミー
@@ -331,7 +331,7 @@ at the academy!","お前はもう
 ","You are already
 Academy
  
-It is the third year>",0.35714285714285715
+It is the third year>",0.35714285714285715,0.8655352
 "Goodness sake, who is that guy?","＜ったく
  
 誰だ？
@@ -342,14 +342,14 @@ It is the third year>",0.35714285714285715
  
 Who?
  
-He is>",0.25
+He is>",0.25,0.4019409
 You...,"＜お前
  
 もしかして…＞
 
 ","<You
  
-Maybe ...>",0.4
+Maybe ...>",0.4,0.33509406
 Is it possible...?,"(
 生徒１
 )
@@ -357,7 +357,7 @@ Is it possible...?,"(
 クラス替えしたばっかなのに➡
 
 ","<Ha ha ...
-Even though it is a cluster changeable",0.25
+Even though it is a cluster changeable",0.25,0.19705111
 "Hey hey, are you serious?","３年もいて
  
 変化の術も
@@ -366,7 +366,7 @@ Even though it is a cluster changeable",0.25
 ","3 years ago
  
 Change of change
-Are you ready?>",0.23076923076923078
+Are you ready?>",0.2307692307692308,0.1449423
 All of you watch now!,"＜お前ら
  
 今に見てろ
@@ -377,7 +377,7 @@ All of you watch now!,"＜お前ら
  
 See it now
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.35391948
 "I will absolutely someday become
 the true and a real Hokage!","俺は
  
@@ -389,14 +389,14 @@ the true and a real Hokage!","俺は
  
 Someday absolutely
  
-Real genuine ➡",0.26666666666666666
+Real genuine ➡",0.26666666666666666,0.6148092
 What Hokage?!,"＜だっせぇ～！
  
 何が火影だ＞
 
 ","<It is!
  
-What is the fire>",0.2
+What is the fire>",0.2,0.14844394
 "I'll do you in, in one clean blow!","だから
  
 強がんなって
@@ -405,15 +405,15 @@ What is the fire>",0.2
 ","that's why
  
 Strongly
-I'm telling you!",0.1875
+I'm telling you!",0.1875,0.17287238
 Really? But you can't beat me!,"俺には勝てねえってばよ
 ｡
 
 ","You can beat me
-.",0.2727272727272727
+.",0.2727272727272727,0.68887675
 I said not to act tough.,"火影になってやるんだからな！＞
 
-",I'm going to fire it!>,0.15384615384615385
+",I'm going to fire it!>,0.15384615384615385,0.09559557
 Well then. Please begin!,"では
  
 始めてください
@@ -422,10 +422,10 @@ Well then. Please begin!,"では
 ","In
  
 Please start
-.",0.25
+.",0.25,0.52062994
 Fast!,"《速っ！》
 
-","""Fast!""",0.5
+","""Fast!""",0.5,0.6268272
 "It will be a while'til
 he opens his eyes, Mr. Proctor.","もう当分
 目を開けることはねえぜ
@@ -433,12 +433,12 @@ he opens his eyes, Mr. Proctor.","もう当分
 
 ","Anymore
 It is no way to open the eyes
-.",0.15
+.",0.15,0.31294647
 Just as I thought.,"試験官さんよ
 ｡
 
 ","I'm an examiner
-.",0.25
+.",0.25,0.14912899
 That Naruto can't be equal to Kiba.,"(ｼｶﾏﾙ)
 やっぱな
 ｡
@@ -450,7 +450,7 @@ That Naruto can't be equal to Kiba.,"(ｼｶﾏﾙ)
 ","After all
 .
 
-That Naruto ➡",0.25
+That Naruto ➡",0.25,0.60489404
 See...,"(
 紅
 )
@@ -458,7 +458,7 @@ See...,"(
 ｡
 
 ","you see
-.",0.25
+.",0.25,0.64028007
 "What was that?
 That guy is weak.","(ｶﾝｸﾛｳ)
 何だ
@@ -473,22 +473,22 @@ That guy is weak.","(ｶﾝｸﾛｳ)
 Weak
  
 that person
-.",0.4444444444444444
+.",0.4444444444444444,0.76469713
 <i>Naruto!</i>,"(ﾋﾅﾀ)
 《ナルト君！》
 
-","""Naruto-kun!""",0.1111111111111111
+","""Naruto-kun!""",0.1111111111111111,0.72232854
 Huh?,"(ｶｶｼ)
 ん？➡
 
-",Yeah?➡,0.25
+",Yeah?➡,0.25,0.5875852
 "<i>Yes, that's it...</i>","《そうなのよね》
 
-","""That's right""",0.15384615384615385
+","""That's right""",0.15384615384615385,0.2838567
 "<i>Then everyone in the village will</i>
 <i>acknowledge my existence!</i>","俺の存在を認めさせてやるんだ＞
 
-",I will recognize my existence>,0.3333333333333333
+",I will recognize my existence>,0.3333333333333333,0.64672154
 <i>This is the Jonin...a true Ninja...</i>,"《これが上忍…
  
 本当の忍者
@@ -499,7 +499,7 @@ Huh?,"(ｶｶｼ)
  
 Real ninja
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.63534105
 <i>I have to escape...</i>,"逃げなきゃ
 このままじゃ
  
@@ -508,28 +508,28 @@ Real ninja
 ","I have to run away
 Let's leave this
  
-Seriously ... ➡",0.25
+Seriously ... ➡",0.25,0.3693875
 "<i>I'll really, really be killed!</i>","マジで殺される！》
 
-","Seriously killed!""",0.16666666666666666
+","Seriously killed!""",0.16666666666666666,0.5284067
 <i>Are you hurt...</i>,"(ｻｽｹ)
 ＜ケガはねえかよ？➡
 
-",<Are you hey?➡,0.2727272727272727
+",<Are you hey?➡,0.2727272727272727,0.35097283
 "<i>You just need to become</i>
 <i>stronger than me!</i>","俺より強くなりゃいいだろうが＞
 
-",It will be better than me>,0.17647058823529413
+",It will be better than me>,0.17647058823529413,0.4707843
 <i>You!</i>,"＜くっそ～！＞
 
-",<Close ~!>,0.375
+",<Close ~!>,0.375,0.5649474
 <i>What are you doing all of a sudden?!</i>,"＜てめぇ
  
 いきなり何しやがる!?＞
 
 ","<Temee
  
-Suddenly what to do!?>",0.2777777777777778
+Suddenly what to do!?>",0.2777777777777778,0.43076473
 "<i>T-This stupid coward is...</i>
 <i>absolutely...not the Sasuke I know!</i>","絶対
  
@@ -539,7 +539,7 @@ Suddenly what to do!?>",0.2777777777777778
 ","absolutely
  
 I know me
-Sasuke!➡",0.29411764705882354
+Sasuke!➡",0.29411764705882354,0.7234931
 <i>Hey...</i>,"＜ハァ
  
 ハァ
@@ -554,17 +554,17 @@ Han
  
 Hua ...
 .
-➡",0.2
+➡",0.2,0.31818658
 Yeah!,"お～！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.64038795
 <i>Naruto...!</i>,"俺を
  
 ナメんなよ！
 
 ","I
  
-Namame!",0.25
+Namame!",0.25,0.3471868
 "Go, Naruto!","(ﾋﾅﾀ)
 《ナルト君！》
 行け～！
@@ -574,7 +574,7 @@ Namame!",0.25
 ","""Naruto-kun!""
 Go!
  
-Naruto!",0.42857142857142855
+Naruto!",0.42857142857142855,0.8135742
 "What are you talking about,
 bleeding like that?","(
 キバ
@@ -587,18 +587,18 @@ bleeding like that?","(
 ","blood
  
 Pitch
-What do you say?",0.21428571428571427
+What do you say?",0.21428571428571427,0.37750745
 "I didn't use my power fully...
 to observe your strength first!","お前の力を見るのにな
 ｡
 
 ","I see your power
-.",0.1875
+.",0.1875,0.4636073
 You'll regret this...,"後悔すんなよ
 ｡
 
 ","I regret
-.",0.14285714285714285
+.",0.14285714285714285,0.59459335
 Let's go Akamaru!,"行くぜ
  
 赤丸！
@@ -608,10 +608,10 @@ Let's go Akamaru!,"行くぜ
 
 ","let's go
  
-Red circle!",0.5714285714285714
+Red circle!",0.5714285714285714,0.41072047
 Smoke Ball?,"煙玉？
 
-",Small bottle?,0.2
+",Small bottle?,0.2,0.21181326
 Take this!,"食らえ！
 あっ
  
@@ -620,18 +620,18 @@ Take this!,"食らえ！
 ","Eat!
 Ah
  
-Wow!",0.16666666666666666
+Wow!",0.16666666666666666,0.3890349
 "<i>I have to get out of the smoke...</i>
 <i>or I'll be done for.</i>","煙から出なきゃ
 やられちまうってばよ》
 
 ","I have to come out of smoke
-It is good if it is",0.2727272727272727
+It is good if it is",0.2727272727272727,0.58484197
 It worked!,"かかった！
 うわ～！
 
 ","It took!
-Wow!",0.4
+Wow!",0.4,0.39887935
 Shoot... I can't see anything.,"何!?
 (ｼｶﾏﾙ)
 くそ～
@@ -644,7 +644,7 @@ Shoot... I can't see anything.,"何!?
 く ~
  
 I can see anything
-.",0.2857142857142857
+.",0.2857142857142857,0.48292875
 Yeah! We did it!,"(
 ほえ声
 )
@@ -657,17 +657,17 @@ Yeah! We did it!,"(
 
 ","う う
  
-I did it!",0.42857142857142855
+I did it!",0.42857142857142855,0.3144301
 Transform Jutsu?!,"なぜだ？
 
-",Why?,0.2
+",Why?,0.2,0.10082369
 You smell like a dog!,"てめぇ
  
 犬臭ぇってばよ！
 
 ","You
  
-Dogo smell!",0.42857142857142855
+Dogo smell!",0.42857142857142855,0.767669
 Over here!,"こっち
 ｡
 (
@@ -675,19 +675,19 @@ Over here!,"こっち
 )
 
 ","here
-.",0.25
+.",0.25,0.6408421
 That's Naruto?!,"うそ！
  
 あれがナルト？
 
 ","lie!
  
-That is Naruto?",0.5714285714285714
+That is Naruto?",0.5714285714285714,0.88906634
 Naruto shouldn't be able to do that...,"あのナルトにできるはずが…
 ｡
 
 ","You should be able to do that Naruto ...
-.",0.7272727272727273
+.",0.7272727272727273,0.86166376
 What? He's better than I thought.,"何だ
  
 思ったよりやるじゃん
@@ -696,7 +696,7 @@ What? He's better than I thought.,"何だ
 ","What
  
 It will do it than I thought
-.",0.4166666666666667
+.",0.4166666666666667,0.26430255
 "That's amazing, Naruto!","ナルト君
  
 すごい！
@@ -709,12 +709,12 @@ It will do it than I thought
 very!
 It is not great
  
-Naruto!",0.18181818181818182
+Naruto!",0.18181818181818185,0.7666464
 You got a little bit stronger.,"少しは強くなったじゃねえの
 ｡
 
 ","It's a bit stronger
-.",0.4444444444444444
+.",0.4444444444444444,0.7243807
 But you will absolutely not beat me!,"でも
  
 お前じゃ
@@ -727,14 +727,14 @@ But you will absolutely not beat me!,"でも
 Oh
  
 Absolutely
-You're won!",0.36363636363636365
+You're won!",0.3636363636363637,0.58625907
 "<i>During this exam,</i>
 <i>he's matured again.</i>","(ｶｶｼ)
 《この試験中に
 また成長しやがった》
 
 ","""During this study
-I also growed up",0.17647058823529413
+I also growed up",0.17647058823529413,0.41899115
 "Evidently it's no longer ""that"" Naruto.","(
 紅
 )
@@ -742,7 +742,7 @@ I also growed up",0.17647058823529413
 万年ドベだったナルト？》
 
 ","""that
-Naruto who was a total year?""",0.25
+Naruto who was a total year?""",0.25,0.6847208
 Yeah.,"ふ～ん
  
 あっそう
@@ -751,7 +751,7 @@ Yeah.,"ふ～ん
 ","Fur
  
 I see
-.",0.2
+.",0.2,0.2719118
 "<i>As for the development of</i>
 <i>my Kiba and Akamaru,</i>","(
 紅
@@ -760,7 +760,7 @@ I see
 それ以上かもね》
 
 ","""The growth of the Kiba and the red circle is
-It may be more",0.17391304347826086
+It may be more",0.17391304347826084,0.52527887
 Naruto... I'll take Akamaru... back!,"ナルト
  
 赤丸
@@ -773,7 +773,7 @@ Naruto... I'll take Akamaru... back!,"ナルト
 Red circle
  
 Get it back
-.",0.15384615384615385
+.",0.15384615384615385,0.5738354
 "What did you feed him?
 His fur turned red!","な…
  
@@ -785,7 +785,7 @@ His fur turned red!","な…
  
 What?
  
-What did you eat?",0.3076923076923077
+What did you eat?",0.3076923076923077,0.5276621
 "That's why he's called ""Akamaru"", red boy.","だから
  
 赤丸っていうんだよ
@@ -794,10 +794,10 @@ What did you eat?",0.3076923076923077
 ","that's why
  
 I say red round
-.",0.3333333333333333
+.",0.3333333333333333,0.40482476
 Man Beast Clones!,"獣人分身！
 
-",Beast Person Development!,0.3333333333333333
+",Beast Person Development!,0.3333333333333333,0.5977979
 Is this okay?!,"これってばドーピングじゃねえの
 いいのか？
  
@@ -806,14 +806,14 @@ Is this okay?!,"これってばドーピングじゃねえの
 ","If this is not doping
 Is it all right?
  
-this!",0.36363636363636365
+this!",0.3636363636363637,0.25378484
 Yes. Food Pills are one of Ninja Tools.,"はい
 兵糧丸は忍具の一つですから
 ｡
 
 ","Yes
 Since the soldiers are one of the ninjas
-.",0.38461538461538464
+.",0.38461538461538464,0.39981732
 "You, that's all you say!","(
 せきこみ
 )
@@ -823,10 +823,10 @@ Since the soldiers are one of the ninjas
 
 ","Aunt
  
-That's why!",0.3333333333333333
+That's why!",0.3333333333333333,0.20748208
 What?!,"う～！
 
-",!,0.3333333333333333
+",!,0.3333333333333333,0.5665832
 What did that guy eat?,"何だ？
  
 あいつ
@@ -837,7 +837,7 @@ What did that guy eat?,"何だ？
  
 that person
  
-What did you cook?",0.4444444444444444
+What did you cook?",0.4444444444444444,0.49461153
 It's Food Pills.,"兵糧丸だよ
 ｡
 (
@@ -848,13 +848,13 @@ It's Food Pills.,"兵糧丸だよ
 ","It is a soldier
 .
 
-Molding Battle?",0.18181818181818182
+Molding Battle?",0.18181818181818185,0.12495479
 "Food Pills are a secret medicine
 that people in the military take","戦えるとまでいわれる秘薬だよ
 ｡
 
 ","It is a secret medicine that is said to be able to fight
-.",0.2
+.",0.2,0.49537486
 "and fight for three days and
 three nights without a break...","兵糧丸は服用した兵が
 三日三晩
@@ -864,11 +864,11 @@ three nights without a break...","兵糧丸は服用した兵が
 ","The soldiers taken by the soldier
 Three days three years
  
-Without rest",0.17647058823529413
+Without rest",0.17647058823529413,0.38223857
 "They're high in protein,
 easily absorbed and","高たんぱくで吸収もよくて➡
 
-",High protein and absorption well ➡,0.25
+",High protein and absorption well ➡,0.25,0.66977984
 "Kiba and Akamaru's Chakra must
 be doubled right now...","(ﾁｮｳｼﾞ)
 たぶん今
@@ -881,26 +881,26 @@ be doubled right now...","(ﾁｮｳｼﾞ)
  
 Kiba and red circle
 Chakra is doubled temporarily
-.",0.23529411764705882
+.",0.2352941176470588,0.8431487
 Let's go!,"これで終わりだ
  
 行くぜ！➡
 
 ","This is the end
  
-let's go!➡",0.4444444444444444
+let's go!➡",0.4444444444444444,0.6512017
 N-Naruto!,"うわ～！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.1945912
 That Naruto is in danger!,"ナルト！
 
-",Naruto!,0.3333333333333333
+",Naruto!,0.3333333333333333,0.74349624
 "like a beast with Chakra wired
 throughout his body.","キバは
 チャクラを体中に張り巡らし➡
 
 ","Kiba
-Take a chakra in the body ➡",0.2
+Take a chakra in the body ➡",0.2,0.5513626
 "And the Food Pills that double one's
 Chakra are quite simply...","チャクラを倍増してくれる
 兵糧丸は
@@ -910,7 +910,7 @@ Chakra are quite simply...","チャクラを倍増してくれる
 ","Double chakra
 Mortivaru
  
-It is exactly",0.125
+It is exactly",0.125,0.56385833
 the perfect pill for Kiba.,"キバには
  
 もってこいの
@@ -921,26 +921,26 @@ the perfect pill for Kiba.,"キバには
  
 Posterior
 Because it is a pill
-.",0.25
+.",0.25,0.78275305
 Here's my chance!,"食らえ！
  
 獣人体術奥義！
 
 ","Eat!
  
-Beastman body skill my dog!",0.2
+Beastman body skill my dog!",0.2,0.16558512
 Fang Over Fang,"(
 キバ
 )
 牙通牙！
 
-",Fang Dang!,0.25
+",Fang Dang!,0.25,0.7051546
 "This is the difference in
 our true powers.","この辺が実力の差ってやつだ
 ｡
 
 ","This area is a good thing
-.",0.23076923076923078
+.",0.2307692307692308,0.12608238
 I'm going...,"うっ…
  
 俺は…
@@ -949,27 +949,27 @@ I'm going...,"うっ…
 ","Uey ...
  
 I am…
-.",0.2857142857142857
+.",0.2857142857142857,0.32011032
 I can't lose here...!,"こんなところで…
 ｡
 
 ","Here ...
-.",0.25
+.",0.25,0.33766317
 You? Hokage?!,"お前が火影？
 
-",You are fire shadow?,0.2857142857142857
+",You are fire shadow?,0.2857142857142857,0.25526074
 When you're weaker than me?,"この俺より弱いのにか？
 ハハハ…
 ｡
 
 ","Is it weaker than this?
 Hahaha ...
-.",0.23076923076923078
+.",0.2307692307692308,0.48216218
 I'll become Hokage for you!,"火影ならな
 この俺がなってやるよ！➡
 
 ","If it is fire shadow
-I will do this!➡",0.125
+I will do this!➡",0.125,0.22727779
 <i>He's not that weak...</i>,"(
 生徒たち
 )
@@ -979,16 +979,16 @@ I will do this!➡",0.125
 
 ","<Hahahaha ...!
  
-Hahahaha ...!>",0.25
+Hahahaha ...!>",0.25,0.31337345
 "I'll receive the name...
 of Lord Hokage!","＜俺は火影の名前を
 もらうんだってばよ！＞
 
 ","<I am the name of the fire shadow
-You're getting it!>",0.2631578947368421
+You're getting it!>",0.2631578947368421,0.36131725
 <i>he has always believed in his own worth.</i>,"ずっと自分の価値を信じてた》
 
-",I believed in my value for my value,0.2
+",I believed in my value for my value,0.2,0.5485482
 <i>I thought it was really amazing...</i>,"(ﾋﾅﾀ)
 《本当にすごいなぁと思ったの
 ｡
@@ -996,7 +996,7 @@ You're getting it!>",0.2631578947368421
 
 ","""I thought it was really great
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.61775094
 <i>I understand that.</i>,"(ﾋﾅﾀ)
 《私には分かるから
 ｡
@@ -1004,19 +1004,19 @@ You're getting it!>",0.2631578947368421
 
 ","""Because I understand
 .
-➡",0.2
+➡",0.2,0.49382654
 <i>And yet before not even one person...</i>,"(
 女性１
 )
 ＜１人だけ落ちたらしいわ＞
 
-",<It seems that only one person falls>,0.23529411764705882
+",<It seems that only one person falls>,0.2352941176470588,0.43454328
 <i>tried to see Naruto.</i>,"(ﾋﾅﾀ)
 《ナルト君を見ようとは
 しなかった》
 
 ","""Trying to see Naruto
-I did not",0.23076923076923078
+I did not",0.2307692307692308,0.8202497
 "I heard he's the only one...
 who failed.","それなのに昔は
  
@@ -1024,7 +1024,7 @@ who failed.","それなのに昔は
 
 ","That's how long
  
-Just only one ... """,0.25
+Just only one ... """,0.25,0.13192567
 "It's trouble if a kid like that
 becomes a Ninja.","(
 女性２
@@ -1035,31 +1035,31 @@ becomes a Ninja.","(
 
 ","<Hun
  
-It's a good feeling>",0.1875
+It's a good feeling>",0.1875,0.10738939
 "<i>Nobody tried to acknowledge</i>
 <i>real Naruto.</i>","(ﾋﾅﾀ)
 《本当のナルト君を
 認めようとはしなかった》
 
 ","""Real Naruto you
-I did not try to admit",0.17647058823529413
+I did not try to admit",0.17647058823529413,0.8025637
 <i>But now...</i>,"(ﾋﾅﾀ)
 《でも今は…》
 
-","""But now ...""",0.3333333333333333
+","""But now ...""",0.3333333333333333,0.4265896
 Stand up! Naruto!,"立て
  
 ナルト！
 
 ","stand up 
  
- Naruto!",1.0
+ Naruto!",1.0,0.9862497
 "If you compete with me for
 the name of Hokage...","俺と火影の名を取り合ったら…
 ｡
 
 ","If you keep the name of the fire shadow ...
-.",0.4
+.",0.4,0.2787577
 "<i>when you want to cry,</i>
 <i>and you want to run away</i>","♬
  
@@ -1071,21 +1071,21 @@ the name of Hokage...","俺と火影の名を取り合ったら…
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.39382538
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.2864674
 "That Kiba, he sure is stupid.","♬
  
 みんながいるから
 
 ","♬
  
-Because there is everyone",0.08333333333333333
+Because there is everyone",0.08333333333333333,0.18220554
 "Think hard about your Jutsu
 when you use them.","♬
  
@@ -1093,7 +1093,7 @@ when you use them.","♬
 
 ","♬
  
-If you forgot happiness",0.07142857142857142
+If you forgot happiness",0.07142857142857142,0.017459331
 "Next episode: ""Surprise Attack!
 Naruto's Secret Weapon!""","♬
  
@@ -1101,4 +1101,4 @@ Naruto's Secret Weapon!""","♬
 
 ","♬
  
-A singing",0.0
+A singing",0.0,0.13920343

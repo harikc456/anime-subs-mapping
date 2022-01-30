@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Connecting old words</i>
 <i>that have been used up</i>","♬
  
@@ -6,7 +6,7 @@ en_text,jp_text,google_translated,score
 
 ","♬
  
-Now connect words",0.06666666666666667
+Now connect words",0.06666666666666668,0.5715785
 "<i>I just want to convey</i>
 <i>my simple thoughts</i>","♬
  
@@ -14,7 +14,7 @@ Now connect words",0.06666666666666667
 
 ","♬
  
-I just want to convey my thoughts",0.5833333333333334
+I just want to convey my thoughts",0.5833333333333334,0.65650594
 <i>That day's faint wind blows away</i>,"♬
  
 吹き抜ける
@@ -23,7 +23,7 @@ I just want to convey my thoughts",0.5833333333333334
 ","♬
  
 Blow through
-The wind of that day is",0.17647058823529413
+The wind of that day is",0.17647058823529413,0.71850526
 "<i>I'll laugh with you</i>
 <i>and live for the moment</i>","♬
  
@@ -35,7 +35,7 @@ The wind of that day is",0.17647058823529413
  
 Laugh with you
  
-Live now",0.26666666666666666
+Live now",0.26666666666666666,0.7049719
 "<i>Still that incident</i>
 <i>will continue to trouble you, right?</i>","♬
  
@@ -43,14 +43,14 @@ Live now",0.26666666666666666
 
 ","♬
  
-Will you suffer from you?",0.16666666666666666
+Will you suffer from you?",0.16666666666666666,0.3936523
 <i>That's why it must be good bye</i>,"♬
  
 だからこそサヨナラなんだ
 
 ","♬
  
-That's why it is a goodbye",0.25
+That's why it is a goodbye",0.25,0.67026657
 "<i>Leaving nothing behind,</i>
 <i>let us share what is left</i>","♬
  
@@ -58,7 +58,7 @@ That's why it is a goodbye",0.25
 
 ","♬
  
-Nothing remains as it is",0.1111111111111111
+Nothing remains as it is",0.1111111111111111,0.42120817
 "<i>In time, we'll realize</i>
 <i>that it was everything</i>","♬
  
@@ -66,7 +66,7 @@ Nothing remains as it is",0.1111111111111111
 
 ","♬
  
-I realize that it is everything",0.3125
+I realize that it is everything",0.3125,0.49161032
 "<i>And sadness will touch our cheeks,</i>
 <i>creating a river of tears</i>","♬
  
@@ -74,7 +74,7 @@ I realize that it is everything",0.3125
 
 ","♬
  
-Just become a river of tears",0.21052631578947367
+Just become a river of tears",0.21052631578947367,0.616791
 "<i>Trembling thoughts swept into a vortex</i>
 <i>and melting away</i>","♬
  
@@ -82,7 +82,7 @@ Just become a river of tears",0.21052631578947367
 
 ","♬
  
-I'm melting",0.13333333333333333
+I'm melting",0.13333333333333333,0.400562
 "It will be necessary for you
 to die once...","(
 左近
@@ -93,7 +93,7 @@ to die once...","(
 
 ","Once
 I will not be dead
-.",0.21428571428571427
+.",0.21428571428571427,0.6475955
 "Die once, you said?","(ｻｽｹ)
 一度
  
@@ -101,7 +101,7 @@ I will not be dead
 
 ","one time
  
-Did you die?",0.3333333333333333
+Did you die?",0.3333333333333333,0.6605817
 Mind Awakening Pill.,"(
 左近
 )
@@ -109,7 +109,7 @@ Mind Awakening Pill.,"(
 ｡
 
 ","Fuchfufu ...
-.",0.16666666666666666
+.",0.16666666666666666,0.12292008
 You will take these.,"これを
  
 のんでもらいます
@@ -118,7 +118,7 @@ You will take these.,"これを
 ","this
  
 I will
-.",0.2857142857142857
+.",0.2857142857142857,0.45456475
 "Mind Awakening Pill...?
 What is that?","何だ？
  
@@ -128,7 +128,7 @@ What is that?","何だ？
 ","What?
  
 that is
-.",0.4444444444444444
+.",0.4444444444444444,0.15265813
 "Your Curse Mark level is
 at the first state...","(
 多由也
@@ -139,11 +139,11 @@ at the first state...","(
 
 ","Your curse level is state 1
 .
-➡",0.38461538461538464
+➡",0.38461538461538464,0.8001292
 "the power of the Curse Marks
 to the second state.","その丸薬は呪印の力を➡
 
-",The pill is the force of the curse,0.25
+",The pill is the force of the curse,0.25,0.36805815
 "However, if you move up
 to the second state,","(
 左近
@@ -154,19 +154,19 @@ to the second state,","(
 
 ","However
  
-If it becomes state 2",0.23076923076923078
+If it becomes state 2",0.2307692307692308,0.7090781
 "the Curse Mark's erosion
 will accelerate drastically","呪印の侵食スピードが
 急激に上がって➡
 
 ","Curse erosion speed
-Suddenly rising",0.18181818181818182
+Suddenly rising",0.18181818181818185,0.715882
 "In order to control
 the power of the second state,","状態２の力を
 コントロールするには➡
 
 ","The power of state 2
-To control it",0.5
+To control it",0.5,0.89078254
 "In doing so, you will...","(
 左近
 )
@@ -180,11 +180,11 @@ To control it",0.5
  
 perhaps
  
-You are ➡",0.08333333333333333
+You are ➡",0.08333333333333333,0.22938687
 "Once awake, you can't possibly
 last more than a few minutes...","覚醒すれば数分ともたず➡
 
-","If you wake up, a few minutes",0.29411764705882354
+","If you wake up, a few minutes",0.29411764705882354,0.5629547
 and will certainly die!,"そのままだと
 すぐ死んでしまう
 ｡
@@ -193,7 +193,7 @@ and will certainly die!,"そのままだと
 ","As it is
 I will die soon
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.48427626
 Die... and what will happen after that?,"死んで
  
 そのあとは
@@ -204,7 +204,7 @@ Die... and what will happen after that?,"死んで
  
 After that
  
-What it will be?",0.4166666666666667
+What it will be?",0.4166666666666667,0.73437965
 You don't need to worry.,"われわれと同等の力を
 手に入れることができます
 ｡
@@ -213,20 +213,20 @@ You don't need to worry.,"われわれと同等の力を
 ","Equivalent power as us
 You can get it
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.05746626
 That's why we're here.,"そのために
 われわれがいるのです
 ｡
 
 ","for that reason
 I have
-.",0.18181818181818182
+.",0.18181818181818185,0.31771424
 "We will use Barrier Ninjutsu
 to suppress the side effects.","われわれの結界忍術で
 副作用を抑え込み➡
 
 ","Our juice ninjutsu
-Inhibit side effects",0.21428571428571427
+Inhibit side effects",0.21428571428571427,0.73157847
 "to ease you from eternal death
 to a state of half death.","永久の死から
 仮死状態へと段階を和らげる
@@ -234,11 +234,11 @@ to a state of half death.","永久の死から
 
 ","From permanent death
 Release the stage to a temporary death state
-.",0.375
+.",0.375,0.4791659
 "You really think I can put my faith
 in your Barrier Ninjutsu or whatever?","信用できるのか？
 
-",Can I trust?,0.1875
+",Can I trust?,0.1875,0.33197206
 Curse Marks and Sealing Jutsu!,"呪印
  
 封印術は
@@ -251,17 +251,17 @@ Curse Marks and Sealing Jutsu!,"呪印
 Sealing technique
  
 The thing of your hand
-.",0.15384615384615385
+.",0.15384615384615385,0.6434353
 <i>I absolutely cannot die yet!</i>,"どうあっても
 死ぬわけにはいかない…》
 
 ","Anywhere
-I can not dying ... """,0.21428571428571427
+I can not dying ... """,0.21428571428571427,0.521289
 I'm counting on you.,"頼むぞ
 ｡
 
 ","I'll ask you
-.",0.375
+.",0.375,0.24439116
 "We're gonna lose him
 if you guys are slow!","(
 左近
@@ -276,18 +276,18 @@ if you guys are slow!","(
  
 You guys
  
-Chitaru",0.14285714285714285
+Chitaru",0.14285714285714285,0.2821095
 Begin!,"うっ！
 
-",Uh!,0.3333333333333333
+",Uh!,0.3333333333333333,0.33817002
 Black Seal!,"封黒法印！
 
-",Sealed black launch!,0.4
+",Sealed black launch!,0.4,0.6423629
 "Man, I'm exhausted.","俺が様子を見てくる
 ｡
 
 ","I see how
-.",0.25
+.",0.25,0.14379387
 "I didn't think this mission
 would drag on this long.","(ﾗｲﾄﾞｳ)
 こんなに任務が長引くとは
@@ -296,7 +296,7 @@ would drag on this long.","(ﾗｲﾄﾞｳ)
 
 ","When this mission is good
 I did not think
-.",0.4
+.",0.4,0.6433117
 "I'll go check out the situation.
 Let's go, Raido!","ライドウ
  
@@ -312,7 +312,7 @@ let's go
 .
 
 King
-.",0.26666666666666666
+.",0.26666666666666666,0.19364405
 Right.,"(ｹﾞﾝﾏ)
 シ～
 ｡
@@ -320,10 +320,10 @@ Right.,"(ｹﾞﾝﾏ)
 
 ","~
 .
-➡",0.25
+➡",0.25,0.25752732
 There's one...,"１人…➡
 
-",1 person ... ➡,0.14285714285714285
+",1 person ... ➡,0.14285714285714285,0.2740891
 "No, two of them.","いや
  
 ２人か
@@ -332,15 +332,15 @@ There's one...,"１人…➡
 ","Disagreeable
  
 Two people
-.",0.25
+.",0.25,0.3086813
 Here they come!,"来るぞ！
 
-",It's coming!,0.14285714285714285
+",It's coming!,0.14285714285714285,0.5836707
 You guys are Orochimaru's...,"お前らは大蛇丸の…
 ｡
 
 ","You guys are big snake circles ...
-.",0.4
+.",0.4,0.3769772
 "Judging from the direction
 you came from,","方向からして
  
@@ -348,7 +348,7 @@ you came from,","方向からして
 
 ","From the direction
  
-Apparently",0.375
+Apparently",0.375,0.6641147
 "it appears that you are on your way back
 from the Village Hidden in the Leaves...","木ノ葉の里からの
 帰り道ってとこか
@@ -356,16 +356,16 @@ from the Village Hidden in the Leaves...","木ノ葉の里からの
 
 ","From the village of the tree
 Return to go back
-.",0.18181818181818182
+.",0.18181818181818185,0.64539164
 What's in that barrel?,"(ｹﾞﾝﾏ)
 そのおけの中は何だ？
 
-",What is the inside of that?,0.3
+",What is the inside of that?,0.3,0.5500674
 "<i>Every one of them</i>
 <i>got the Curse Marks...</i>","(ｹﾞﾝﾏ)
 《どいつもこいつも呪印か…》
 
-","""Always always a curse ...""",0.11764705882352941
+","""Always always a curse ...""",0.1176470588235294,0.5466571
 "This will be different from that time before
 with your surprise attack.","不意打ちで
  
@@ -377,7 +377,7 @@ with your surprise attack.","不意打ちで
  
 They got me
 It is different from the previous time
-.",0.19047619047619047
+.",0.19047619047619047,0.4125792
 "What should we do, Shizune?","どうします？
  
 シズネさん
@@ -386,7 +386,7 @@ It is different from the previous time
 ","What do you do?
  
 Sizune
-.",0.3
+.",0.3,0.618095
 Let's go see!,"(ｼｽﾞﾈ)
 行ってみよう
 ｡
@@ -398,7 +398,7 @@ Let's go see!,"(ｼｽﾞﾈ)
 .
 
 Yes
-.",0.42857142857142855
+.",0.42857142857142855,0.5869728
 What's the matter?,"(
 キバ
 )
@@ -410,7 +410,7 @@ What's the matter?,"(
 ","Shikamaru
 .
 
-What happened?",0.25
+What happened?",0.25,0.15977013
 There's a smell of blood nearby.,"近くに…
  
 血のにおいだ
@@ -419,7 +419,7 @@ There's a smell of blood nearby.,"近くに…
 ","Close…
  
 Blood smell
-.",0.3333333333333333
+.",0.3333333333333333,0.8278948
 <i>This isn't good!</i>,"こ…
  
 これは！
@@ -430,7 +430,7 @@ Blood smell
  
 this is!
 
-Ah!",0.2727272727272727
+Ah!",0.2727272727272727,0.3409324
 "I can't believe these two
 could have been taken down...!","(ｲﾜｼ)
 まさか
@@ -443,14 +443,14 @@ could have been taken down...!","(ｲﾜｼ)
 These two people
  
 I can do it ...
-.",0.21052631578947367
+.",0.21052631578947367,0.20819934
 I'm gonna hunt those guys down!,"俺
  
 ヤツらを追います！
 
 ","me
  
-I will follow the guys!",0.23076923076923078
+I will follow the guys!",0.2307692307692308,0.5120254
 No!,"ダメよ！
 (ｲﾜｼ)
 し…
@@ -461,29 +461,29 @@ No!,"ダメよ！
 
 death…
  
-However!",0.5
+However!",0.5,0.48430333
 B-But...,"あいつらの術…➡
 
-",A guy's technique ... ➡,0.14285714285714285
+",A guy's technique ... ➡,0.14285714285714285,0.24366549
 W-Wait... Iwashi.,"(ｲﾜｼ)
 シズネさん
 ｡
 
 ","Sizune
-.",0.2
+.",0.2,0.23760174
 "Th-The Jutsu that those guys have
 is no longer that of mere Shinobi...","(ｼｽﾞﾈ)
 《ここじゃ
 とりあえず応急処置までだ》
 
 ","""Here
-First of all, it is until first aid",0.09523809523809523
+First of all, it is until first aid",0.09523809523809523,0.07970861
 "If you pursue them alone,
 you'll only die.","１人で追えば死ぬだけだ…
 ｡
 
 ","If you follow one person, you just die ...
-.",0.3333333333333333
+.",0.3333333333333333,0.63484955
 Genma... don't talk anymore!,"もう
  
 しゃべるな
@@ -492,11 +492,11 @@ Genma... don't talk anymore!,"もう
 ","Already
  
 do not talk
-.",0.2
+.",0.2,0.5126283
 "The smell of the other two impinged
 on the five others including Sasuke...","サスケを含めた５人と➡
 
-",5 people including Sasuke,0.14285714285714285
+",5 people including Sasuke,0.14285714285714285,0.63363135
 "But the five are moving away
 from the smell of the blood!","血の
  
@@ -510,7 +510,7 @@ from the smell of the blood!","血の
 Five people in the smell
 Let's go away
  
-what will you do?",0.18181818181818182
+what will you do?",0.18181818181818185,0.62954617
 "Just as I thought.
 He has guides.","やっぱりか…
 手引きの野郎どもがいる
@@ -518,7 +518,7 @@ He has guides.","やっぱりか…
 
 ","Just as I thought…
 There is a guy with a guide
-.",0.26666666666666666
+.",0.26666666666666666,0.7016545
 Let's hurry up and pursue Sasuke!,"いいから
  
 さっさと
@@ -527,7 +527,7 @@ Let's hurry up and pursue Sasuke!,"いいから
 ","Because it is good
  
 quickly
-I will chase Sasuke!",0.125
+I will chase Sasuke!",0.125,0.72492534
 "Shut up, Naruto!","(
 キバ
 )
@@ -537,28 +537,28 @@ I will chase Sasuke!",0.125
 
 ","I'm sorry
  
-Naruto!",0.25
+Naruto!",0.25,0.8262658
 "That's for Shikamaru to decide!
 Don't play the boss!","そういうのは
 シカマルが決めんだよ！
 
 ","Such is
-I decide the shikamaru!",0.26666666666666666
+I decide the shikamaru!",0.26666666666666666,0.75351673
 Shikamaru?,"(ﾁｮｳｼﾞ)
 シカマル？
 
-",Shikamaru?,1.0
+",Shikamaru?,1.0,1.0000002
 "The fact that there was
 the smell of blood probably means","血のにおいがしたってことは
 恐らく…➡
 
 ","That blood smell
-Perhaps ... ➡",0.23076923076923078
+Perhaps ... ➡",0.2307692307692308,0.74222463
 that a battle occurred somewhere.,"戦闘があったってことだ
 そこに行けば➡
 
 ","It is that there was a battle
-If you go there ➡",0.21428571428571427
+If you go there ➡",0.21428571428571427,0.5334301
 "If we go to that location we should
 be able to gather some information...","何らかの情報が
 手に入んだろうけど…
@@ -566,39 +566,39 @@ be able to gather some information...","何らかの情報が
 
 ","Some information
 I will get my hand ...
-.",0.15789473684210525
+.",0.15789473684210525,0.3584289
 so we would have to switch over to,"ゆっくり歩いて
 近づかなきゃなんねえ
 ｡
 
 ","Walk slowly
 I have to approach
-.",0.16666666666666666
+.",0.16666666666666666,-0.034732554
 "Sasuke will cross over
 the Land of Fire border!","火の国の国境を越えるぞ
 ｡
 
 ","I will cross the border of the fire country
-.",0.46153846153846156
+.",0.4615384615384616,0.54898345
 "What are we gonna do, Shikamaru?!","どうすんだよ？
  
 シカマル！
 
 ","How is it?
  
-Shikamaru!",0.23076923076923078
+Shikamaru!",0.2307692307692308,0.64055485
 All right! That's what I was waiting for!,"よっしゃ！
  
 そうこなくっちゃな！
 
 ","Yo!
  
-That's right!",0.36363636363636365
+That's right!",0.3636363636363637,0.40946814
 "The fact that there was a battle
 means they'll have their guard up.","(ｼｶﾏﾙ)
 戦闘があったってことは➡
 
-",That there was a battle,0.3333333333333333
+",That there was a battle,0.3333333333333333,0.5800719
 "We need to locate those guys before
 we get caught in an ambush!","待ち伏せを食う前に
 こっちが先にヤツらを見つける
@@ -606,13 +606,13 @@ we get caught in an ambush!","待ち伏せを食う前に
 
 ","Before eating ambush
 Find the guys ahead
-.",0.16666666666666666
+.",0.16666666666666666,0.65727746
 "And if we come across
 anything suspicious,","それから
 怪しい痕跡を見つけたら➡
 
 ","after that
-If you find a suspicious trace ➡",0.13333333333333333
+If you find a suspicious trace ➡",0.13333333333333333,0.5238086
 "don't just dodge them,
 interpret them!","ただ避けるだけじゃなく
 解釈しろ
@@ -620,7 +620,7 @@ interpret them!","ただ避けるだけじゃなく
 
 ","Just avoid
 Interpret
-.",0.2
+.",0.2,0.5789082
 "I'm gonna use my new Jutsu
 to clobber them!","よ～し！
  
@@ -628,22 +628,22 @@ to clobber them!","よ～し！
 
 ","Yo!
  
-If you find it, in my new technique",0.15
+If you find it, in my new technique",0.15,0.25101128
 Hey! The enemy's smell is everywhere!,"おい
  
 敵のにおいだらけだぞ！
 
 ","Oi
  
-You can not miss the enemy!",0.23076923076923078
+You can not miss the enemy!",0.2307692307692308,0.517971
 Everybody! Stop!,"みんな止まれ！
 
-",Everybody is stopped!,0.4
+",Everybody is stopped!,0.4,0.74413633
 Take a careful look above you.,"上をよく見てみろ
 ｡
 
 ","Look at the top
-.",0.2
+.",0.2,0.5136638
 Paper Bombs...,"(
 ネジ
 )
@@ -651,20 +651,20 @@ Paper Bombs...,"(
 ｡
 
 ","Outbreaker ...
-.",0.2
+.",0.2,0.20330141
 It's one type of Booby Trap Ninjutsu!,"トラップ忍術の一種だ
 ｡
 ➡
 
 ","A kind of trap ninjutsu
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.8424745
 "Perimeter-type traps have a time lag
 and are activated","ほかに５か所あるな
 ｡
 
 ","There are 5 more than 5
-.",0.07142857142857142
+.",0.07142857142857142,0.05714988
 "when one enters the area that
 has been marked by the enemy.","敵が
  
@@ -674,7 +674,7 @@ has been marked by the enemy.","敵が
 ","Enemies
  
 In the camp that surrounded by the tag
-Trying to activate",0.15
+Trying to activate",0.15,0.47798344
 "It was in one of the books that
 my father made me read.","オヤジに読まされた本に
 書いてあったな
@@ -682,7 +682,7 @@ my father made me read.","オヤジに読まされた本に
 
 ","For books read by father
 It was written
-.",0.35294117647058826
+.",0.35294117647058826,0.65482587
 <i>Lee... Do what you have to do!</i>,"＜リー
  
 お前は
@@ -691,7 +691,7 @@ It was written
 ","<Lee
  
 You are
-Do what you want to do>",0.5
+Do what you want to do>",0.5,0.82382375
 Lee!,"≪
 (
 綱手
@@ -704,7 +704,7 @@ Lee!,"≪
 
 Lee
  
-It is still early!",0.2857142857142857
+It is still early!",0.2857142857142857,0.6388288
 "I already know that
 you're a foolhardy guy.","(
 綱手
@@ -715,7 +715,7 @@ you're a foolhardy guy.","(
 
 ","It is a mucible guy
 I thought ...
-.",0.26666666666666666
+.",0.26666666666666666,0.14880589
 But you've just had an operation.,"手術が終わったばかりだと
 いうのに
 ｡
@@ -724,7 +724,7 @@ But you've just had an operation.,"手術が終わったばかりだと
 ","If the surgery has just been completed
 Although
 .
-➡",0.125
+➡",0.125,0.4382884
 "I want to hurry up and
 do even a little training.","体を鍛えることだけが
 修業じゃない
@@ -732,10 +732,10 @@ do even a little training.","体を鍛えることだけが
 
 ","Only training the body
 I'm not a study
-.",0.2222222222222222
+.",0.2222222222222222,0.52883714
 Don't you agree?,"そう思わないか？
 
-",Do you not think so?,0.375
+",Do you not think so?,0.375,0.503456
 It is said that Ninja are those,"忍者とは
  
 どんな苦境でも
@@ -746,23 +746,23 @@ It is said that Ninja are those,"忍者とは
  
 Anywhere
 It refers to the person who ends
-.",0.125
+.",0.125,0.6777485
 "That means that this too
 is one kind of training.","これも一つの修業だってことだ
 ｡
 
 ","This is also one training
-.",0.45454545454545453
+.",0.4545454545454545,0.8771938
 Training...,"修業…
 ｡
 
 ","Study ...
-.",0.25
+.",0.25,0.49869117
 It's medicine that I prepared.,"あたしが調合した薬だ
 ｡
 
 ","It is a medicine that I was blended
-.",0.45454545454545453
+.",0.4545454545454545,0.6069654
 "First, drink this and get better!","これのんで
  
 まずはよくなれ
@@ -775,7 +775,7 @@ It's medicine that I prepared.,"あたしが調合した薬だ
 First of all
  
 Lee
-.",0.15384615384615385
+.",0.15384615384615385,0.2174916
 "Come, let's go...","(
 綱手
 )
@@ -793,10 +793,10 @@ Lee
 let's go
 .
 
-Yes!",0.3
+Yes!",0.3,0.60623467
 Damn! Nothing but traps!,"オッス！
 
-",Oss!,0.16666666666666666
+",Oss!,0.16666666666666666,0.1910376
 "Yeah, but the enemy seems
 pressed for time.","(ｼｶﾏﾙ)
 ああ
@@ -811,7 +811,7 @@ pressed for time.","(ｼｶﾏﾙ)
 but
 The enemy will also be time
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.64355177
 "Hey, hey, Naruto!
 There's wire at your feet!","おいおい
  
@@ -829,12 +829,12 @@ Your foot
  
 Wire Anti
 .
-➡",0.1875
+➡",0.1875,0.6638628
 I know that already!,"分かってるってばよ
 ｡
 
 ","I know
-.",0.3333333333333333
+.",0.3333333333333333,0.46115807
 "Wait, Naruto!","待て
  
 ナルト！
@@ -843,7 +843,7 @@ I know that already!,"分かってるってばよ
 ","wait
  
 Naruto!
-Yeah?",0.5
+Yeah?",0.5,0.89558536
 Shadow Possession Jutsu...,"(ｼｶﾏﾙ)
 ん…
  
@@ -853,7 +853,7 @@ Shadow Possession Jutsu...,"(ｼｶﾏﾙ)
 ","Hmm…
  
 Shadow equivalent technique ...
-.",0.25
+.",0.25,0.5967249
 M-Made it just in the nick of time.,"トラップに
  
 あらが目立つな
@@ -862,7 +862,7 @@ M-Made it just in the nick of time.,"トラップに
 ","In the trap
  
 Oh, it stands out
-.",0.2857142857142857
+.",0.2857142857142857,0.24834824
 "The other wire has been coated
 with a matte green.","もう一方のワイヤには
 つや消しのグリーンが塗ってある
@@ -870,7 +870,7 @@ with a matte green.","もう一方のワイヤには
 
 ","Another wire
 Green is painted with one or eraser
-.",0.23529411764705882
+.",0.2352941176470588,0.7383882
 "So it's very difficult to see
 with the naked eye.","肉眼では
  
@@ -880,17 +880,17 @@ with the naked eye.","肉眼では
 ","In the naked eye
  
 Difficult to see
-.",0.5384615384615384
+.",0.5384615384615384,0.84110683
 "It's a double trap, huh.","二重トラップだな
 ｡
 
 ","It is a double trap
-.",0.5555555555555556
+.",0.5555555555555556,0.9498651
 Which means that...,"っつうことは…
 ｡
 
 ","What is ...
-.",0.14285714285714285
+.",0.14285714285714285,0.4826011
 "Perhaps they got injured,
 or that itself could be a trap...","休んでるな…
  
@@ -900,13 +900,13 @@ or that itself could be a trap...","休んでるな…
 ","Don't rest ...
  
 Was it injured or injured
-.",0.15789473684210525
+.",0.15789473684210525,0.4202659
 Caught'em!,"(
 ネジ
 )
 捕まえた！
 
-",captured!,0.3333333333333333
+",captured!,0.3333333333333333,0.59679264
 "Naruto! Hate to tell you this,","よっしゃ
  
 よっしゃ！
@@ -919,7 +919,7 @@ Caught'em!,"(
 Yo!
 Sasuke is absolute
  
-Return to",0.14285714285714285
+Return to",0.14285714285714285,0.5530775
 "but I'm gonna demonstrate
 my new Jutsu right here!","ナルト
  
@@ -935,22 +935,22 @@ The bad thing is here
  
 my
 Let me show off new technologies
-.",0.13043478260869565
+.",0.13043478260869565,0.4022816
 "As soon as preparations have been made
 to implement my strategy...","焦んなよ
 俺の作戦準備が出来しだい➡
 
 ","Fell
-I can prepare my strategy",0.13333333333333333
+I can prepare my strategy",0.13333333333333333,0.6180461
 "we'll make direct contact
 with the target!","ターゲット接触だ！
 
-",Target contact!,0.3333333333333333
+",Target contact!,0.3333333333333333,0.83281
 It can't be helped.,"しかたねえだろ
 ｡
 
 ","It is not good
-.",0.2222222222222222
+.",0.2222222222222222,0.33413756
 "it's an ordeal not to be able
 to use one's body for a while...","(
 次郎坊
@@ -965,7 +965,7 @@ to use one's body for a while...","(
  
 for a while
 It is difficult to use the body
-.",0.35
+.",0.35,0.6897121
 "If we act in moderation,
 we'll be done in.","加減すりゃ
  
@@ -975,7 +975,7 @@ we'll be done in.","加減すりゃ
 ","It will be reducing
  
 This is done
-.",0.2
+.",0.2,0.40242675
 "In that event,","(ｼｶﾏﾙ)
 キバ
  
@@ -983,7 +983,7 @@ This is done
 
 ","Kiba
  
-In that case",0.3333333333333333
+In that case",0.3333333333333333,0.29056925
 "don't mess up the timing
 of the Smoke Bombs.","煙玉を使うタイミングを誤るなよ
 ｡
@@ -997,7 +997,7 @@ of the Smoke Bombs.","煙玉を使うタイミングを誤るなよ
 .
 
 King
-.",0.29411764705882354
+.",0.29411764705882354,0.60891825
 we'll split up into two teams.,"じゃ
  
 二手に分かれんぜ
@@ -1006,7 +1006,7 @@ we'll split up into two teams.,"じゃ
 ","well
  
 I understand for two hands
-.",0.15384615384615385
+.",0.15384615384615385,0.21495691
 "Hey, Sasuke's not around.","(ｼｶﾏﾙ)
 《まだ気付かれては
 ねえみてぇだな
@@ -1016,12 +1016,12 @@ I understand for two hands
 ","""I still notice
 Hey, it's
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.2516121
 "He's inside that ""coffin.""","あの棺おけの中だな
 ｡
 
 ","It is inside that coffin
-.",0.4
+.",0.4,0.8445913
 Is he dead?!,"(ｼｶﾏﾙ)
 あれ？
  
@@ -1031,23 +1031,23 @@ Is he dead?!,"(ｼｶﾏﾙ)
 ","that?
  
 Sasuke is nice
-.",0.2222222222222222
+.",0.2222222222222222,0.15187623
 "I wouldn't think that the guys
 who wanted Sasuke","サスケを欲しがったヤツらが➡
 
-",The guy who wanted Sasuke was,0.3333333333333333
+",The guy who wanted Sasuke was,0.3333333333333333,0.9047096
 would kill him that easily.,"そう簡単に
 殺すはずはないと思うが…
 ｡
 
 ","So easily
 I think I should not kill it ...
-.",0.23076923076923078
+.",0.2307692307692308,0.41349328
 You might be right about that.,"それもそうだな
 ｡
 
 ","That's right
-.",0.375
+.",0.375,0.40118748
 "<i>Shake shake shake</i>
 <i>Let's look</i>","♬
  
@@ -1057,7 +1057,7 @@ You might be right about that.,"それもそうだな
 ","♬
  
 I'm crying
-People's Kakera",0.15384615384615385
+People's Kakera",0.15384615384615385,0.2806311
 "Gimme a break, Shikamaru!
 You're not reliable in the least!","♬
  
@@ -1065,7 +1065,7 @@ You're not reliable in the least!","♬
 
 ","♬
  
-In the rhythm of the buying",0.1111111111111111
+In the rhythm of the buying",0.1111111111111111,0.11011581
 "But this situation sure
 is a problem.","♬
  
@@ -1083,4 +1083,4 @@ me
 Victory
 Pose
 is
-Round Around",0.07142857142857142
+Round Around",0.07142857142857142,0.06976401

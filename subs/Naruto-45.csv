@@ -1,28 +1,28 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>If you pull it close to you</i>,"やればできるのよ！
 ズルしなくてもね｡
 
 ","I can do it!
-You don't have to zute.",0.23529411764705882
+You don't have to zute.",0.2352941176470588,0.16906843
 "<i>It will come, closer</i>","あっ… やったぁ！
 跳べたよ ２重跳び 跳べた！
 
 ","Oh ... I did it!
-I jumped twice Jumping!",0.125
+I jumped twice Jumping!",0.125,0.072754234
 <i>But we still keep going farther</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.0
+Louder at night",0.0,0.2573524
 <i>There will be no meaning</i>,"♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.16666666666666666
+I will surely reach",0.16666666666666666,0.30350113
 I can't lose here!,"♬
  
 伝うよもっと
@@ -33,14 +33,14 @@ I can't lose here!,"♬
  
 I will tell more
  
-here we go",0.16666666666666666
+here we go",0.16666666666666666,0.29183492
 Transform!,"♬
  
 掴んだって
 
 ","♬
  
-Grip",0.0
+Grip",0.0,0.21041268
 "Hey hey, are you serious?","♬
  
 君じゃないなら
@@ -49,7 +49,7 @@ Grip",0.0
 ","♬
  
 If you are not
-There is no meaning",0.15384615384615385
+There is no meaning",0.15384615384615385,0.10596643
 "and you can't even do
 a respectable transformation?!","♬
  
@@ -57,7 +57,7 @@ a respectable transformation?!","♬
 
 ","♬
  
-It's a feet but before",0.058823529411764705
+It's a feet but before",0.05882352941176471,0.06963996
 <i>You're wrong Kiba...</i>,"(
 生徒たち
 )
@@ -77,23 +77,23 @@ It's a feet but before",0.058823529411764705
  
 Are you serious
 .
-➡",0.25
+➡",0.25,0.38048023
 You... will be the loser!,"ハハハハ…！
 
-",Hahahaha ...!,0.25
+",Hahahaha ...!,0.25,0.23939946
 "I'll just make it so
 you won't stand up again!","火影になってやるんだからな！＞
 
-",I'm going to fire it!>,0.16666666666666666
+",I'm going to fire it!>,0.16666666666666666,0.35166457
 "You think you can get me with
 that same technique again?!","火影になれるなんて
 思ってもねえくせに➡
 
 ","I can become a fire shadow
-Even if you think hey",0.15
+Even if you think hey",0.15,0.26529807
 Take this!,"フッ！
 
-",Hu!,0.25
+",Hu!,0.25,0.48132074
 "<i>it's not a Jutsu you can dodge</i>
 <i>over and over!</i>","ったく
  
@@ -103,12 +103,12 @@ Take this!,"フッ！
 ","Geez
  
 again and again
-It's a steamed guy!",0.2631578947368421
+It's a steamed guy!",0.2631578947368421,0.14861968
 <i>What should I do?!</i>,"二度と立てねえように
 してやるぜ！➡
 
 ","Let's do it twice
-I'll do it!➡",0.2
+I'll do it!➡",0.2,0.239655
 "Even if you increased yourself by
 three or four, I'd still have a lot left!","まぁいい
  
@@ -116,13 +116,13 @@ three or four, I'd still have a lot left!","まぁいい
 
 ","Well
  
-If so,",0.1
+If so,",0.1,0.088192664
 Damn!,"うわ！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.55337876
 W-What will you do? Naruto!,"どうする？➡
 
-",what will you do?➡,0.4444444444444444
+",what will you do?➡,0.4444444444444444,0.52219117
 <i>T-That's it!</i>,"フン！
  
 余裕なさそうじゃねえの
@@ -131,16 +131,16 @@ W-What will you do? Naruto!,"どうする？➡
 ","Hun!
  
 I can not afford it
-.",0.23076923076923078
+.",0.2307692307692308,0.19296142
 I see how it is...,"まだまだ余裕だってばよ！
 
-",It is still a margin!,0.2
+",It is still a margin!,0.2,0.26074868
 Oh!,"(
 キバ
 )
 ハッ！
 
-",Ha!,0.3333333333333333
+",Ha!,0.3333333333333333,0.5193816
 You did it!,"くっそ～！
  
 何とか反撃しねえと
@@ -149,7 +149,7 @@ You did it!,"くっそ～！
 ","Clues ~!
  
 Somehow it's not
-.",0.2
+.",0.2,0.15285043
 "If he transforms into Kiba,","《やるにしても
  
 キバをやんなきゃ
@@ -162,7 +162,7 @@ Somehow it's not
 I have to do Kiba
 I wonder what you mean
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.58852446
 "the real Kiba doesn't know which is
 Akamaru and which is Naruto...","でも
  
@@ -174,10 +174,10 @@ Akamaru and which is Naruto...","でも
  
 which
  
-Either ... """,0.13333333333333333
+Either ... """,0.13333333333333333,0.16799206
 Oooh!,"変化！
 
-",change!,0.3333333333333333
+",change!,0.3333333333333333,0.3647719
 "Why, you ask?","え？
 (ｶｶｼ)
 ほら
@@ -190,15 +190,15 @@ Oooh!,"変化！
 Seeing
  
 Look at
-.",0.1
+.",0.1,0.25133106
 Yeah!,"あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.55866635
 I can smell you.,"うかつに攻撃できないわけね
 ｡
 
 ","I can not attack at UK
-.",0.3333333333333333
+.",0.3333333333333333,0.16622913
 "Don't mess with our
 sense of smell, Naruto.","やる～！
  
@@ -212,29 +212,29 @@ sense of smell, Naruto.","やる～！
 I thought
  
 Naruto
-.",0.2
+.",0.2,0.55352616
 "Heh, I won!","一瞬の隙を作り出した
  
 うまい！
 
 ","I created a moment
  
-good!",0.2222222222222222
+good!",0.2222222222222222,0.34277743
 W-What?!,"うお～！
 
-",Uo!,0.25
+",Uo!,0.25,0.23911512
 <i>Damn! What in the world is going on...?!</i>,"もう変化の術は効かねえ！➡
 
-",The change of change is already effective!➡,0.15
+",The change of change is already effective!➡,0.15,0.26033187
 Damn it!,"ふざけやがって！
 
-",Bullshit!,0.25
+",Bullshit!,0.25,0.44316754
 "<i>and his impersonation</i>
 <i>transformation dissolved!</i>","そ～りゃ～！
 やった～！
 
 ","Well!
-I did!",0.16666666666666666
+I did!",0.16666666666666666,0.2248945
 Was Naruto ever that smart...?,"ナルト君
  
 すごい
@@ -243,24 +243,24 @@ Was Naruto ever that smart...?,"ナルト君
 ","Naruto
  
 very
-.",0.1111111111111111
+.",0.1111111111111111,0.72443473
 You little...!,"チッ！
 ヘヘヘヘ…！
 
 ","Chi!
-Hehehehe ...!",0.3333333333333333
+Hehehehe ...!",0.3333333333333333,0.30850536
 <i>Don't go at Naruto's pace...</i>,"《でもナルトは
 本来の姿に戻らないで➡
 
 ","""But Naruto
-Do not return to the original figure ➡",0.09523809523809523
+Do not return to the original figure ➡",0.09523809523809523,0.5537082
 <i>Nothing to get flustered about...</i>,"すかさず赤丸に変化
 ｡
 ➡
 
 ","Change to red circle
 .
-➡",0.06666666666666667
+➡",0.06666666666666668,0.13020381
 "<i>If I do this in a level headed manner,</i>
 <i>it's a match I will most certainly win!</i>","だから
  
@@ -272,7 +272,7 @@ Do not return to the original figure ➡",0.09523809523809523
  
 It is useful to be used in reverse
 Indeed
-.",0.0967741935483871
+.",0.0967741935483871,0.18193197
 "<i>Well, what will you do, Naruto...?</i>","(
 いの
 )
@@ -288,13 +288,13 @@ Indeed
 Such
 Head
  
-Is it good?",0.1111111111111111
+Is it good?",0.1111111111111111,0.6018837
 Well then... I'll end this...,"(ｶｶｼ)
 《ハハ…
 まんま俺のセリフだったりして》
 
 ","""Haha ...
-Manga my serif """,0.08333333333333333
+Manga my serif """,0.08333333333333333,0.13702631
 "with my new special technique
 I've been saving up!","術は
  
@@ -302,25 +302,25 @@ I've been saving up!","術は
 
 ","Technique
  
-It is usable by thinking about it!",0.11764705882352941
+It is usable by thinking about it!",0.1176470588235294,0.42097858
 New special trick?!,"(
 キバ
 )
 《落ち着け！》
 
-","""Calm!""",0.125
+","""Calm!""",0.125,0.14346829
 "You can test out whether
 it's a bluff or not!","確実に勝てる試合だ》
 
-",It is a match that can be won definitely,0.16666666666666666
+",It is a match that can be won definitely,0.16666666666666666,0.16543171
 <i>This hasn't changed since before...</i>,"焦ることはねえんだ
 冷静にやりゃ➡
 
 ","I'm sorry I'm sorry
-Cooling",0.07142857142857142
+Cooling",0.07142857142857142,0.11438809
 Why are you stopping?!,"けりつけてやるってばよ！
 
-",You're going to fight!,0.2
+",You're going to fight!,0.2,0.3220625
 "Just as I thought, this is as
 far as he will go.","(
 キバ
@@ -337,7 +337,7 @@ far as he will go.","(
 In this case
 Now strange
 .
-➡",0.10526315789473684
+➡",0.10526315789473684,0.121705085
 "D-Damn! I don't even have time
 to work up my Chakra!","そんなもん
  
@@ -345,12 +345,12 @@ to work up my Chakra!","そんなもん
 
 ","Such a thing
  
-I wish I could do it!",0.15789473684210525
+I wish I could do it!",0.15789473684210525,0.2534336
 D-Damn!,"ナルト！
 ナルト君！
 
 ","Naruto!
-Naruto!",0.3333333333333333
+Naruto!",0.3333333333333333,0.17851809
 <i>What?!</i>,"おらおら
  
 どうしたんだよ？
@@ -359,13 +359,13 @@ Naruto!",0.3333333333333333
 ","Offer
  
 what happened?
-Naruto!",0.3
+Naruto!",0.3,0.19321766
 Hey hey hey hey hey hey hey!,"(
 キバ
 )
 食らえ～！
 
-",Eat!,0.3333333333333333
+",Eat!,0.3333333333333333,0.25278705
 I...,"分かっただろ？
  
 しょせん
@@ -384,22 +384,22 @@ You are
 I am very
  
 Just ...
-.",0.16666666666666666
+.",0.16666666666666666,0.1684876
 Will absolutely not lose!,"ナルト！
 
-",Naruto!,0.16666666666666666
+",Naruto!,0.16666666666666666,0.1300701
 Yup.,"あっ
 ｡
 
 ","Ah
-.",0.3333333333333333
+.",0.3333333333333333,0.6000137
 Oops!,"絶対
  
 負けねえ！
 
 ","absolutely
  
-Lose!",0.25
+Lose!",0.25,0.15937285
 <i>Fast movements and a keen nose...</i>,"(ｼｶﾏﾙ)
 俺がキバだったら
 もう
@@ -411,7 +411,7 @@ Lose!",0.25
 Already
  
 Tired
-.",0.11764705882352941
+.",0.1176470588235294,0.28213218
 "<i>The Ninja Art of Beast Mimicry</i>
 <i>turned out to be harmful...</i>","《チッ
  
@@ -421,18 +421,18 @@ Tired
 ","""Chig
  
 somehow
-I caught the gap of the bastard of Kiba ... """,0.17391304347826086
+I caught the gap of the bastard of Kiba ... """,0.17391304347826084,0.1509356
 I'll give it back all at once!,"意地でも新技
 さく裂させてやるってばよ！
 
 ","New technique
-I will tear it up!",0.21428571428571427
+I will tear it up!",0.21428571428571427,0.35009292
 U!,"(
 一同
 )
 あ～！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.5232606
 "<i>A new technique, eh?</i>","だけど
  
 こっからが新技の
@@ -441,14 +441,14 @@ U!,"(
 ","However
  
 This is a new technique
-Should I see it!",0.23529411764705882
+Should I see it!",0.2352941176470588,0.6427847
 That Naruto beat Kiba!,"ナルト連弾！
 
-",Naruto series!,0.3333333333333333
+",Naruto series!,0.3333333333333333,0.6838852
 <i>Yes!</i>,"(ｻｽｹ)
 ＜獅子連弾！＞
 
-",<Lion series!>,0.375
+",<Lion series!>,0.375,0.39995223
 N-Naruto...,"(
 キバ
 )
@@ -460,17 +460,17 @@ N-Naruto...,"(
 ","Uey ...
  
 Ahh…
-.",0.2
+.",0.2,0.11421406
 <i>Hinata...?</i>,"《俺ってば…
  
 強くなってる》
 
 ","""If I do ...
  
-It is getting stronger",0.14285714285714285
+It is getting stronger",0.14285714285714285,0.13430342
 What's this?,"どうしよう…》
 
-","What should I do…""",0.125
+","What should I do…""",0.125,0.19240215
 It's an ointment.,"大番狂わせだな
 ｡
 (
@@ -481,7 +481,7 @@ It's an ointment.,"大番狂わせだな
 ","It is a big mandatory
 .
 
-Yes!",0.18181818181818182
+Yes!",0.18181818181818185,0.11748272
 "Take it for her, Naruto.","ナ…
  
 ナルト君…
@@ -490,11 +490,11 @@ Yes!",0.18181818181818182
 ","vegetable…
  
 Naruto ...
-.",0.2222222222222222
+.",0.2222222222222222,0.5806853
 Hmmm. Okay!,"(ｶｶｼ)
 ん！
 
-",Hmm!,0.2
+",Hmm!,0.2,0.73735595
 "Thank you! You're nice, Hinata!","あ？
  
 ヒナタか
@@ -505,7 +505,7 @@ Hmmm. Okay!,"(ｶｶｼ)
  
 Hinata
  
-Did you say something?",0.16666666666666666
+Did you say something?",0.16666666666666666,0.5508084
 <i>It's all ok now.</i>,"もらってやりな
  
 ナルト
@@ -514,7 +514,7 @@ Did you say something?",0.16666666666666666
 ","I will get it
  
 Naruto
-.",0.15384615384615385
+.",0.15384615384615385,0.10484765
 "<i>Everyone is inside</i>
 <i>this hand</i>","この子は十分
  
@@ -522,7 +522,7 @@ Naruto
 
 ","This child is enough
  
-It was a strong partner """,0.11764705882352941
+It was a strong partner """,0.1176470588235294,0.14262283
 What's with that guy!,"♬
  
 空は
@@ -533,7 +533,7 @@ What's with that guy!,"♬
  
 sky
  
-Endless",0.0
+Endless",0.0,0.13663234
 "Blah blah blah blah blah blah!
 Talking like a wise guy!","♬
  
@@ -541,14 +541,14 @@ Talking like a wise guy!","♬
 
 ","♬
  
-Blue clear",0.0
+Blue clear",0.0,0.22369833
 I'm in a bad mood!,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.2
+Because I'm crying",0.2,0.26534534
 "Hinata, you say something!","♬
  
 君は
@@ -559,11 +559,11 @@ Because I'm crying",0.2
  
 You are
  
-forever and ever",0.09090909090909091
+forever and ever",0.09090909090909093,0.23317026
 Go! Fight! Hinata!,"♬
  
 笑顔でいて
 
 ","♬
  
-Smile",0.0
+Smile",0.0,0.21154355

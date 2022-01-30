@@ -1,263 +1,263 @@
-en_text,jp_text,google_translated,score
-It looks like they're having fun.,向こうは楽しそうだなあ,The other side looks fun,0.18181818181818182
-"Haku, let's finish this up by lunch, okay?",お昼までには終わらせようねえ,Let's finish by noon,0.3333333333333333
-Yeah.,ハク,Hook,0.0
-"Sorry, coming through.",ごめんなあ 通るえ,I'm sorry,0.14285714285714285
-What's that about?,何だあ,What,0.2
-You...,お前,you,0.5
-Utawarerumono,また会えるその日まで 時かける旅人,A traveler who can meet again,0.0
-Wasn't this supposed to be a secret mission?,隠密じゃなかったのか？,Didn't it be difficult?,0.23076923076923078
+en_text,jp_text,google_translated,score,semantic_score
+It looks like they're having fun.,向こうは楽しそうだなあ,The other side looks fun,0.18181818181818185,0.4391327
+"Haku, let's finish this up by lunch, okay?",お昼までには終わらせようねえ,Let's finish by noon,0.3333333333333333,0.4161448
+Yeah.,ハク,Hook,0.0,0.108297616
+"Sorry, coming through.",ごめんなあ 通るえ,I'm sorry,0.14285714285714285,0.31557897
+What's that about?,何だあ,What,0.2,0.42788672
+You...,お前,you,0.5,0.6878666
+Utawarerumono,また会えるその日まで 時かける旅人,A traveler who can meet again,0.0,0.17446643
+Wasn't this supposed to be a secret mission?,隠密じゃなかったのか？,Didn't it be difficult?,0.2307692307692308,0.28376266
 I want you two to protect the capital \Nand the people in my place.,"あんちゃんたちには 俺の代わりに
 民と この都を守ってもらいたいのさ","Any-chan instead of me
-I want people to protect the city and her",0.2857142857142857
-What?,何のことだ？,What is it?,0.5
+I want people to protect the city and her",0.2857142857142857,0.50295144
+What?,何のことだ？,What is it?,0.5,0.43106002
 I think I'm a good judge of character.,"わたくしたちを
 随分と高く買ってくれるんだ","Wow
-I will buy a lot",0.15384615384615385
-What do you want us to do?,都を守るって 何をさせるつもりだ？,What are you going to protect the city?,0.3333333333333333
-I'll tell you your mission \Nat the appropriate time.,任務は その都度こちらから伝える,Missions tell you from here,0.14285714285714285
+I will buy a lot",0.15384615384615385,0.094078206
+What do you want us to do?,都を守るって 何をさせるつもりだ？,What are you going to protect the city?,0.3333333333333333,0.39275187
+I'll tell you your mission \Nat the appropriate time.,任務は その都度こちらから伝える,Missions tell you from here,0.14285714285714285,0.6394958
 "You may be forced to disavow us, I think.","わたくしたちを
 切り捨てることもある かな","Wow
-May I truncate",0.15384615384615385
-"""You will die, and no one \Nwill come for your corpse.""",死して屍拾う者なし,There is no one who dies and picked up,0.14285714285714285
+May I truncate",0.15384615384615385,0.20595801
+"""You will die, and no one \Nwill come for your corpse.""",死して屍拾う者なし,There is no one who dies and picked up,0.14285714285714285,0.51688814
 "That's what a secret mission for the \NGeneral of the Right entails, correct?","近衛大将の隠密ってことは
 そういうことでしょ？","Standing of the General Cell General
-That's what is it?",0.3
-"Uh, the money isn't the issue...",報酬は弾むぜ,The reward is playing,0.2
-"Wait, Kuon!",うん いいよ,"yep, OK",0.16666666666666666
-"Let's do it, Haku!",やろうよハク 面白そうだし,Let's do it,0.5714285714285714
-Fun?,って クオン？,Is it Kuon?,0.2
+That's what is it?",0.3,0.29142782
+"Uh, the money isn't the issue...",報酬は弾むぜ,The reward is playing,0.2,0.08377399
+"Wait, Kuon!",うん いいよ,"yep, OK",0.16666666666666666,0.19138564
+"Let's do it, Haku!",やろうよハク 面白そうだし,Let's do it,0.5714285714285714,0.5440265
+Fun?,って クオン？,Is it Kuon?,0.2,0.1070401
 I thought you'd just want us to quietly get rid \Nof evil merchants and corrupt bureaucrats.,"てっきり 悪徳商人とか 私腹を肥やす役人を
 密かに片づけるのかと思ったぞ","A vicious merchant and a viable officer who fertilizer
-I thought it was secretly cleaned",0.10344827586206896
-"But there are sometimes, huh?",あることは あるのか,Is there something?,0.2222222222222222
-Don't worry about the details.,叩くな 叩くな,Don't beat it,0.2222222222222222
-"Come join me, Nekone!",ネコネも おいでよお,Nekone also,0.14285714285714285
-"Okay, Sister!",はい 姉様,Yes sister,0.2
-Looks like Nekone's taken a liking to the lady.,おかげで 口うるさいのが増えたがなあ,Thanks to the increase of the mouth,0.13333333333333333
-Shouldn't you take her home?,連れて帰らないで いいのか？,Do you not take it home?,0.4
-You know what they say\Nabout sparing the rod.,可愛い子には なんとやらさ,What a cute girl,0.08333333333333333
-The jobs we have now are...,今 きてる仕事は…,The job that you are now ...,0.4
-"And also repairing a roof, I think.",屋根の修理っていうのも あるかな,I wonder if there is a roof repair,0.21428571428571427
-These feel more like odd \Njobs than secret missions.,隠密っていうより 何でも屋って感じだな,It feels like everything rather than stain,0.13333333333333333
+I thought it was secretly cleaned",0.10344827586206896,0.3846345
+"But there are sometimes, huh?",あることは あるのか,Is there something?,0.2222222222222222,0.3245515
+Don't worry about the details.,叩くな 叩くな,Don't beat it,0.2222222222222222,0.38219973
+"Come join me, Nekone!",ネコネも おいでよお,Nekone also,0.14285714285714285,0.66641563
+"Okay, Sister!",はい 姉様,Yes sister,0.2,0.5892834
+Looks like Nekone's taken a liking to the lady.,おかげで 口うるさいのが増えたがなあ,Thanks to the increase of the mouth,0.13333333333333333,0.14392161
+Shouldn't you take her home?,連れて帰らないで いいのか？,Do you not take it home?,0.4,0.6736284
+You know what they say\Nabout sparing the rod.,可愛い子には なんとやらさ,What a cute girl,0.08333333333333333,0.11733148
+The jobs we have now are...,今 きてる仕事は…,The job that you are now ...,0.4,0.68440235
+"And also repairing a roof, I think.",屋根の修理っていうのも あるかな,I wonder if there is a roof repair,0.21428571428571427,0.6800209
+These feel more like odd \Njobs than secret missions.,隠密っていうより 何でも屋って感じだな,It feels like everything rather than stain,0.13333333333333333,0.12311436
 "Either way, it's a good thing to \Nhave a steady stream of work.","何にせよ お仕事が途切れないで
 働けるのは いいことだよ","What do you do not interrupt
-She is good to work",0.13636363636363635
-"We got that money from Ukon, right?",ウコンから支度金を もらっただろ,I got a ready for ready from Turmeric,0.14285714285714285
+She is good to work",0.13636363636363635,0.24717842
+"We got that money from Ukon, right?",ウコンから支度金を もらっただろ,I got a ready for ready from Turmeric,0.14285714285714285,0.05259507
 "If we've got all that, we don't \Nhave to work so hard, do we?","あれが あるんだし ここまで根を詰めて
 働かなくっても いいんじゃないか？","There is that, and the roots so far
-Isn't she's good even if you don't work?",0.3076923076923077
-"It's all gone, I think.",う それは そうかもしれないが,"Well, it may be",0.18181818181818182
-What?!,へ？,fart?,0.25
+Isn't she's good even if you don't work?",0.3076923076923077,0.31498355
+"It's all gone, I think.",う それは そうかもしれないが,"Well, it may be",0.18181818181818185,0.17244647
+What?!,へ？,fart?,0.25,0.15439683
 "I used all the money for that, I think.","ここ わたくしたちの陣 拠点にしたから
 そのお家賃で使っちゃったかな","Because I was at the team base
-I used it for that rent",0.29411764705882354
-All of it.,全部か,All,0.25
-My big sister's decision was correct.,姉様の判断は 正しいのです,My sister's judgment is correct,0.4
-It's well-guarded in case of emergencies.,もっと安い宿で良かっただろー,It was good in the cheaper hotel,0.15384615384615385
+I used it for that rent",0.29411764705882354,0.460203
+All of it.,全部か,All,0.25,0.6058349
+My big sister's decision was correct.,姉様の判断は 正しいのです,My sister's judgment is correct,0.4,0.6449788
+It's well-guarded in case of emergencies.,もっと安い宿で良かっただろー,It was good in the cheaper hotel,0.15384615384615385,0.14682522
 And the owner is supposed to have\Na great deal of influence around here.,"しかも ここの女将は
 この辺りの顔役だという話なのです","Moreover here is the case here
-She is the story that she is a face of this area",0.17391304347826086
+She is the story that she is a face of this area",0.17391304347826084,0.13574794
 It's the perfect place to establish\Na secret base of operations.,"白楼閣ほどの旅籠になれば
 客の秘密が漏れることは ないのです","If it becomes a bribe as a white tower
-The secret of customers will not leak",0.17391304347826086
-"You're embarrassing me, I think.",照れちゃうかなー,I wonder if it will,0.08333333333333333
-"You guys are just here for the baths, right?",お前らは風呂目当てだろ,You guys are looking for a bath,0.2857142857142857
-Let's have a meeting about our next job.,次の仕事の打ち合わせを しようかあ,Let's meet the next job,0.3333333333333333
-You guys...,お前らなあ,You guys,0.6666666666666666
-You need to learn to read and write.,早く 読み書き 覚えないとねえ,If you do not remember read and write quickly,0.3076923076923077
-Why?,なぜだ,Why,0.5
-How's it going?,もう こんなに終わったんだあ,It has already ended,0.125
+The secret of customers will not leak",0.17391304347826084,0.3556238
+"You're embarrassing me, I think.",照れちゃうかなー,I wonder if it will,0.08333333333333333,0.14994572
+"You guys are just here for the baths, right?",お前らは風呂目当てだろ,You guys are looking for a bath,0.2857142857142857,0.7654175
+Let's have a meeting about our next job.,次の仕事の打ち合わせを しようかあ,Let's meet the next job,0.3333333333333333,0.7707508
+You guys...,お前らなあ,You guys,0.6666666666666666,0.76577616
+You need to learn to read and write.,早く 読み書き 覚えないとねえ,If you do not remember read and write quickly,0.3076923076923077,0.46172705
+Why?,なぜだ,Why,0.5,0.8013931
+How's it going?,もう こんなに終わったんだあ,It has already ended,0.125,0.27413914
 "At this rate, there'll be nothing left \Nto teach you before long, I think.","この調子だと すぐに教えることが
 無くなっちゃうかなあ","I will teach you soon
-I wonder if it will be lost",0.17391304347826086
+I wonder if it will be lost",0.17391304347826084,0.64081466
 It feels like the pile's bigger \Ntoday than it was yesterday...,"なんか 昨日よりも
 課題が増えている気がするが","Something more than yesterday
-I feel that the problem is increasing",0.15
-How did that happen?,どうして こうなった？,How did this happen?,0.6666666666666666
-It's all correct.,全部合っているのです,It is all right,0.2857142857142857
-This must have been what \Nmy brother saw in him.,兄様は こういうところも見込んで,My brother is expected to be like this,0.11764705882352941
-What's wrong?,どうした？,What happened?,0.4
+I feel that the problem is increasing",0.15,0.4329684
+How did that happen?,どうして こうなった？,How did this happen?,0.6666666666666666,0.8009025
+It's all correct.,全部合っているのです,It is all right,0.2857142857142857,0.67200094
+This must have been what \Nmy brother saw in him.,兄様は こういうところも見込んで,My brother is expected to be like this,0.1176470588235294,0.5284584
+What's wrong?,どうした？,What happened?,0.4,0.38352168
 I'll go get some more difficult material.,"い いえ もっと高等な
 学術書を持ってくるです","No more than
-I will bring an academic book",0.125
-That's enough for today.,そうだ 今日はもう これくらいにしよう,"Yes, let's do this more today",0.16666666666666666
-Haku-sama.,うん,Yes,0.0
+I will bring an academic book",0.125,0.29558235
+That's enough for today.,そうだ 今日はもう これくらいにしよう,"Yes, let's do this more today",0.16666666666666666,0.42229307
+Haku-sama.,うん,Yes,0.0,0.22250034
 I've brought you some tea.,"自分は頑張った
 ここを終えれば ひと区切りで","I worked hard
-If you finish here, she is separated by",0.11764705882352941
-"Oh, thanks.",ああ ありがとな,Oh thank you,0.16666666666666666
-"Don't work too hard, okay?",もう少し 頑張ってみるか,Do you try hard again,0.18181818181818182
-"So, about tomorrow...",それで 明日のことなんだけど,So it's tomorrow,0.2857142857142857
+If you finish here, she is separated by",0.1176470588235294,0.19507204
+"Oh, thanks.",ああ ありがとな,Oh thank you,0.16666666666666666,0.7215222
+"Don't work too hard, okay?",もう少し 頑張ってみるか,Do you try hard again,0.18181818181818185,0.46439883
+"So, about tomorrow...",それで 明日のことなんだけど,So it's tomorrow,0.2857142857142857,0.68098795
 A guy can die if he works too much!,"-働きすぎだと死んでしまう
 -明日は お休みでいいかな","-Adding too much to die
--To tomorrow she can be closed",0.23529411764705882
-If he doesn't rest now and then...,たまには休まないと はっ,If you do not rest occasionally,0.15384615384615385
-A day off?,休み？,holiday?,0.2
-You've worked hard.,うん よく頑張ったね,Yeah I worked hard,0.2857142857142857
-Go relax and have fun tomorrow.,お おう,Let's go,0.1111111111111111
+-To tomorrow she can be closed",0.2352941176470588,0.3740453
+If he doesn't rest now and then...,たまには休まないと はっ,If you do not rest occasionally,0.15384615384615385,0.73611945
+A day off?,休み？,holiday?,0.2,0.481742
+You've worked hard.,うん よく頑張ったね,Yeah I worked hard,0.2857142857142857,0.62427956
+Go relax and have fun tomorrow.,お おう,Let's go,0.1111111111111111,0.28785488
 "There's not enough in there\Nto cry over, really...","あははは 泣くほど
 多くはないんだけどねえ","Ahaha Cry
-There are not many but",0.2
-"So this is the joy that labor brings, huh?",これが勤労の喜びかあ,This is the joy of working,0.3076923076923077
-What is it?,ちょっと いいか？ 急ぎの用事だ,Is it a bit better?It is a hurry,0.375
-It's urgent.,そう考えると よりうまそうだあ,"If you think so, it's better",0.2
+There are not many but",0.2,0.51677555
+"So this is the joy that labor brings, huh?",これが勤労の喜びかあ,This is the joy of working,0.3076923076923077,0.6894152
+What is it?,ちょっと いいか？ 急ぎの用事だ,Is it a bit better?It is a hurry,0.375,0.1281603
+It's urgent.,そう考えると よりうまそうだあ,"If you think so, it's better",0.2,0.052787576
 "Food bought with money \NI worked hard to earn, huh?","身を粉にして稼いだ金で
 買った食い物かあ","With money earned and earned
-Bought food",0.2857142857142857
-I was in a hurry.,ごめんなあ うち急いでたんよ,I'm sorry I'm hurry,0.25
-Watch out!,ああ！,Ah!,0.25
-Hand over the girl.,ああ ふっ,Ah,0.0
-Are you listening to me?,聞いているのですか？,Are you listening?,0.6666666666666666
-Let's go home.,いいえ 帰りましょう,Let's go home,0.8
-I don't want to go back.,うち 戻りたくないんよ,I do not want to go back,0.6666666666666666
-I want to die...,死にたい気分だ,I feel like I want to die,0.5714285714285714
-This is my job.,これも お役目です,This is also a role,0.25
-"Oh, my.",お兄さん 逃げな当たるえ,My brother escaped,0.16666666666666666
-"You're being aimed at, mister.",あやや お兄さんが狙われとる,Aya and brother are aimed at,0.16666666666666666
-Huh? What?,ん？ 何だ？,Yeah?What?,0.5
-"Rurutie, you stay here.",ルルティエは ここに残ってて,Lourtier remains here,0.125
+Bought food",0.2857142857142857,0.7770558
+I was in a hurry.,ごめんなあ うち急いでたんよ,I'm sorry I'm hurry,0.25,0.58667374
+Watch out!,ああ！,Ah!,0.25,0.2774717
+Hand over the girl.,ああ ふっ,Ah,0.0,0.11563587
+Are you listening to me?,聞いているのですか？,Are you listening?,0.6666666666666666,0.8998617
+Let's go home.,いいえ 帰りましょう,Let's go home,0.8,0.9385268
+I don't want to go back.,うち 戻りたくないんよ,I do not want to go back,0.6666666666666666,0.88301545
+I want to die...,死にたい気分だ,I feel like I want to die,0.5714285714285714,0.7061137
+This is my job.,これも お役目です,This is also a role,0.25,0.3964895
+"Oh, my.",お兄さん 逃げな当たるえ,My brother escaped,0.16666666666666666,0.2191935
+"You're being aimed at, mister.",あやや お兄さんが狙われとる,Aya and brother are aimed at,0.16666666666666666,0.18299136
+Huh? What?,ん？ 何だ？,Yeah?What?,0.5,0.838138
+"Rurutie, you stay here.",ルルティエは ここに残ってて,Lourtier remains here,0.125,0.30774617
 "Once Haku gets back,\Ncan you tell him about the mission?","ハクが戻ってきたら
 任務のことを伝えてくれる？","If Haku came back
-Can you tell me the task?",0.3333333333333333
-"Sister, I'll accompany you.",姉様 お供するです,My sister is served,0.1
-"An urgent search is a pretty \Nserious matter, I think.",うん 急ぎの人探しなんて 大事かな,I'm important to find a hurry,0.11764705882352941
-Looks like we got away.,良かったなあ 逃げれたみたいやえ,It was good that I felt away,0.08333333333333333
-Sorry you got caught up in this.,ごめんなあ 巻き込んでもうて,I'm sorry I caught up,0.3
-No need to be shy.,ふっ,Fu,0.0
-Your handsome face is ruined...,せっかくの男前が台無し あ,A serious boy is ruined,0.2222222222222222
-That's a really mean thing to say...,くぅ さりげなく ひどい言われよう,Let's say terrible casually,0.16666666666666666
-Girls don't like guys who ask questions.,ふっ うふ,Fluffy,0.0
-I was kidding!,いい加減 ごまかすなって,I'm sorry I'm sorry,0.16666666666666666
-Did you run away?,詮索する男は嫌われるえ？,Are you hated?,0.2857142857142857
+Can you tell me the task?",0.3333333333333333,0.7652351
+"Sister, I'll accompany you.",姉様 お供するです,My sister is served,0.1,0.5090973
+"An urgent search is a pretty \Nserious matter, I think.",うん 急ぎの人探しなんて 大事かな,I'm important to find a hurry,0.1176470588235294,0.47914755
+Looks like we got away.,良かったなあ 逃げれたみたいやえ,It was good that I felt away,0.08333333333333333,0.34724003
+Sorry you got caught up in this.,ごめんなあ 巻き込んでもうて,I'm sorry I caught up,0.3,0.7157655
+No need to be shy.,ふっ,Fu,0.0,0.039866637
+Your handsome face is ruined...,せっかくの男前が台無し あ,A serious boy is ruined,0.2222222222222222,0.3832599
+That's a really mean thing to say...,くぅ さりげなく ひどい言われよう,Let's say terrible casually,0.16666666666666666,0.2205817
+Girls don't like guys who ask questions.,ふっ うふ,Fluffy,0.0,0.08716642
+I was kidding!,いい加減 ごまかすなって,I'm sorry I'm sorry,0.16666666666666666,0.26909184
+Did you run away?,詮索する男は嫌われるえ？,Are you hated?,0.2857142857142857,0.45200834
 I just decided to live on my own in secret!,"内緒で
 一人暮らしすることにしただけやえ","Secretly
-I just decided to live alone",0.38461538461538464
-That's running away from home!,それが家出だ！,That's home!,0.5714285714285714
-Then that guy back there...,それじゃ さっきの奴は,Well then,0.14285714285714285
-Don't you think you should go home?,家出か？,Is it home?,0.2
+I just decided to live alone",0.38461538461538464,0.7484702
+That's running away from home!,それが家出だ！,That's home!,0.5714285714285714,0.6068046
+Then that guy back there...,それじゃ さっきの奴は,Well then,0.14285714285714285,0.32590613
+Don't you think you should go home?,家出か？,Is it home?,0.2,0.47492322
 There's something I have to do.,"でもな うちには
 やらないと いけないことが","But in
-I have to do something",0.5
-I've come to fall in love.,恋をしに来たんやえ,I came to love,0.3333333333333333
-Huh?,は？,teeth?,0.3333333333333333
+I have to do something",0.5,0.6367857
+I've come to fall in love.,恋をしに来たんやえ,I came to love,0.3333333333333333,0.62317413
+Huh?,は？,teeth?,0.3333333333333333,0.2841912
 "Since I'm actually here in the capital, \NI want to find a love so hot it burns me!","どうせなら火傷をするような
 恋の１つも してみたいえ","If you burn it anyway
-I want to do one of the love",0.21428571428571427
-I will fall in love!,ううん 絶対に恋をしてみせるんよ,I will definitely love Umm,0.375
-"Life is short, so fall in love, young maidens!",命短し 恋せよ乙女や,Life and love Maiden,0.15384615384615385
-I see.,いけずやなあ,I'm sorry,0.2
-Let me go!,お兄さんも恋を探しに行こう？,Let's go to find love too?,0.2
-"Show me around, would you, mister?",お兄さん 案内してくれへん？,Please guide me to your brother?,0.15384615384615385
-Please!,お願いやあ,Please give me,0.25
-"Once you do, I'll go home.",付き合うてくれたら帰るえ,I will go home if you get along,0.3076923076923077
-"Just for today, okay?",今日だけだからな,Because it is only today,0.1
-This book says if two lovers,この本によると,According to this book,0.25
+I want to do one of the love",0.21428571428571427,0.39082873
+I will fall in love!,ううん 絶対に恋をしてみせるんよ,I will definitely love Umm,0.375,0.474651
+"Life is short, so fall in love, young maidens!",命短し 恋せよ乙女や,Life and love Maiden,0.15384615384615385,0.73262703
+I see.,いけずやなあ,I'm sorry,0.2,0.19222885
+Let me go!,お兄さんも恋を探しに行こう？,Let's go to find love too?,0.2,0.3215371
+"Show me around, would you, mister?",お兄さん 案内してくれへん？,Please guide me to your brother?,0.15384615384615385,0.14205828
+Please!,お願いやあ,Please give me,0.25,0.5590066
+"Once you do, I'll go home.",付き合うてくれたら帰るえ,I will go home if you get along,0.3076923076923077,0.600123
+"Just for today, okay?",今日だけだからな,Because it is only today,0.1,0.38611534
+This book says if two lovers,この本によると,According to this book,0.25,0.40166563
 "write their names down on a piece \Nof paper and tie it on this bridge,","ここの橋にな お互いの名前を
 書いた紙を結ぶと 恋が叶うんよ","Names of each other on the bridge here
-Love comes true when you connect the written paper",0.14814814814814814
-"What's your name, mister?",お兄さんの名前は？,What is your brother's name?,0.5555555555555556
-Haku?,そうか？,Really?,0.3333333333333333
-I'll just tie this to the bridge...,これを こうして橋に結んで,"In this way, connect to the bridge",0.3076923076923077
-That was close.,危なかったなあ,I was dangerous,0.16666666666666666
-Nothing!,っと！,!,0.5
-"Here, take them.",ほれ 持ってけ,I will take,0.14285714285714285
-It's a gigiri?,って ギギリかよ,Is it Giving?,0.2857142857142857
+Love comes true when you connect the written paper",0.14814814814814814,0.6102619
+"What's your name, mister?",お兄さんの名前は？,What is your brother's name?,0.5555555555555556,0.5284263
+Haku?,そうか？,Really?,0.3333333333333333,0.18129037
+I'll just tie this to the bridge...,これを こうして橋に結んで,"In this way, connect to the bridge",0.3076923076923077,0.6036255
+That was close.,危なかったなあ,I was dangerous,0.16666666666666666,0.2647277
+Nothing!,っと！,!,0.5,0.40402085
+"Here, take them.",ほれ 持ってけ,I will take,0.14285714285714285,0.49736735
+It's a gigiri?,って ギギリかよ,Is it Giving?,0.2857142857142857,0.25228733
 Perfect for someone here with a girl.,"ここの飴を一緒に食べた恋人は
 幸せになるんよ","A lover who ate together here
-I will be happy",0.125
-"Link our arms like this, and then we both...",こうして腕を組んで,"In this way, arms together",0.21428571428571427
-Wh-Why do I have to eat it with you?,お前が食べようって言ったんだろうが,You said that you to eat,0.25
+I will be happy",0.125,0.4409424
+"Link our arms like this, and then we both...",こうして腕を組んで,"In this way, arms together",0.21428571428571427,0.6542336
+Wh-Why do I have to eat it with you?,お前が食べようって言ったんだろうが,You said that you to eat,0.25,0.52396107
 If you touch this door together \Nand swear your eternal love...,"ここの扉を一緒に触って
 愛を誓い合うとなあ","Touch the door here together
-If you swear love",0.5
-It's okay now.,もう大丈夫だぞ,It's already okay,0.5
-Give me a second.,ちょっと 待ってえな,Wait a minute,0.14285714285714285
+If you swear love",0.5,0.8194294
+It's okay now.,もう大丈夫だぞ,It's already okay,0.5,0.6159371
+Give me a second.,ちょっと 待ってえな,Wait a minute,0.14285714285714285,0.38631585
 "I can't leave a girl who wants to \Nfall in love by herself, can I?","恋がしたいなんて言う
 お嬢ちゃんを 放っておけないだろ？","I say that I want to fall in love
-You can not release your mother?",0.23076923076923078
+You can not release your mother?",0.2307692307692308,0.5015327
 I'd feel awful if you got \Ntricked by some weirdo.,"変な奴に騙されたりでもしたら
 気分が悪いからなあ","If it is deceived by a strange guy
-I feel bad",0.21052631578947367
-I think I'm a pretty good judge of men.,男を見る目は あるつもりやえ,I'm going to see a man,0.21428571428571427
-There's still more?,まだ あるのか,Is there still?,0.5
-"Just a little more, please?",あと ちょっとだけ ええ？,A little more?,0.5714285714285714
-Find anything?,何か分かった？,Did you understand something?,0.14285714285714285
+I feel bad",0.21052631578947367,0.44894445
+I think I'm a pretty good judge of men.,男を見る目は あるつもりやえ,I'm going to see a man,0.21428571428571427,0.3127187
+There's still more?,まだ あるのか,Is there still?,0.5,0.6070832
+"Just a little more, please?",あと ちょっとだけ ええ？,A little more?,0.5714285714285714,0.62923527
+Find anything?,何か分かった？,Did you understand something?,0.14285714285714285,0.23269
 They said she was with a suspicious person.,"見た人がいたのですが
 何やら怪しげな人と一緒だったと","There was a person who saw it
-She was with someone who was a suspicious person",0.42857142857142855
-"We should hurry, I think.",急いだ方が いいかな,I wonder if it is good to hurry,0.15384615384615385
-"Now even if the long rains come, I'll be fine.",随分助かっちまったよお,I have a long time,0.125
-Yes.,ほう,law,0.0
+She was with someone who was a suspicious person",0.42857142857142855,0.8004216
+"We should hurry, I think.",急いだ方が いいかな,I wonder if it is good to hurry,0.15384615384615385,0.6684321
+"Now even if the long rains come, I'll be fine.",随分助かっちまったよお,I have a long time,0.125,0.3479177
+Yes.,ほう,law,0.0,0.20659597
 "He hears the people's voices,\Nno matter how small,","どんな小さな民草の声も
 まるで帝の使いがごとく 聞き届けてくれる","No matter what little breed voices
-It will hear the use of the emperor as well",0.13043478260869565
-"He's said to be a secret \Nagent of the emperor,",帝 直属の隠密とか,Tertias of the emperor directly,0.21428571428571427
-or maybe the royal general's \Npersonal attendant.,近衛大将の懐刀とか,General of the General Cell General,0.18181818181818182
-Is he famous?,有名なのか？,Is it famous?,0.6
+It will hear the use of the emperor as well",0.13043478260869565,0.50872433
+"He's said to be a secret \Nagent of the emperor,",帝 直属の隠密とか,Tertias of the emperor directly,0.21428571428571427,0.56640553
+or maybe the royal general's \Npersonal attendant.,近衛大将の懐刀とか,General of the General Cell General,0.18181818181818185,0.25169447
+Is he famous?,有名なのか？,Is it famous?,0.6,0.7606124
 I'd love to meet him!,"きっと ええ男に違いないんえ
 １度会うてみたいえ","Surely it is not different for a man
-I want to meet once",0.17647058823529413
-What are you doing?,何するんだ？,What do you do?,0.5
-I've finally found you.,ようやく見つけました,I finally found,0.5
-You really are persistent.,本当に しつこい人やえ,Really persistent people,0.3333333333333333
-"You, stand there and don't move.",あなたは動かないでください,Please do not move,0.18181818181818182
-Will you come with me?,一緒に来てもらえますか,Can you come together,0.25
-Wait.,待て,wait,0.5
+I want to meet once",0.17647058823529413,0.37018713
+What are you doing?,何するんだ？,What do you do?,0.5,0.57853603
+I've finally found you.,ようやく見つけました,I finally found,0.5,0.6439201
+You really are persistent.,本当に しつこい人やえ,Really persistent people,0.3333333333333333,0.6033781
+"You, stand there and don't move.",あなたは動かないでください,Please do not move,0.18181818181818185,0.6555679
+Will you come with me?,一緒に来てもらえますか,Can you come together,0.25,0.5950947
+Wait.,待て,wait,0.5,0.87185943
 "So there's some reason he \Nhas to hide his face, huh?","顔を隠さないと
 いけない訳があるってことか","If you do not hide your face
-Is there anything that is not good?",0.17391304347826086
-Did he really come to take you back?,こいつは本当にお前を迎えに来たのか？,How did this come to pick you up?,0.38461538461538464
-Wh-What are you saying?,なあ こいつに見覚えは？,What do you keep in mind?,0.2
-Think about it!,なあなあ 誰なん？,What is it?,0.14285714285714285
-"Hey, hey! Who are you?",はえ？,Hey?,0.2857142857142857
-"I'm, uh... My brother...",兄上… じゃなくて とある お人に言われて,My brother ... I was told by someone,0.36363636363636365
-"He just said ""brother,"" didn't he?",今 兄上って言ったよな？,Did you say the brother now?,0.21428571428571427
+Is there anything that is not good?",0.17391304347826084,0.5245001
+Did he really come to take you back?,こいつは本当にお前を迎えに来たのか？,How did this come to pick you up?,0.38461538461538464,0.28719124
+Wh-What are you saying?,なあ こいつに見覚えは？,What do you keep in mind?,0.2,0.17503436
+Think about it!,なあなあ 誰なん？,What is it?,0.14285714285714285,0.2049665
+"Hey, hey! Who are you?",はえ？,Hey?,0.2857142857142857,0.589289
+"I'm, uh... My brother...",兄上… じゃなくて とある お人に言われて,My brother ... I was told by someone,0.3636363636363637,0.60849357
+"He just said ""brother,"" didn't he?",今 兄上って言ったよな？,Did you say the brother now?,0.21428571428571427,0.763929
 "but you really want to ransom her, don't you?","連れ戻すとか言ってたが
 本当は身代金目当てじゃないのか？","I told you to bring it back
-Isn't it really a fellowship?",0.2631578947368421
-Are you a kidnapper?,誘拐の人なのけ？,A person who abducts?,0.25
-I am not!,言ってません！,Not told!,0.4
-"I'm a little busy, actually.",いや ちょっと 取り込み中なんだが,"No, I'm upset",0.3
-What does that look mean?,もしかして あれなん？,Maybe that?,0.2857142857142857
-"Our relationship's not like that, I think.",そんな関係じゃ ないかなあ,It may not be such a relationship,0.13333333333333333
-I was hoping to get some advice.,今後の参考に聞きたかったのに,I wanted to hear about future reference,0.15384615384615385
-What else?,聞くって 何をだ？,What do you hear?,0.3333333333333333
-That's so nice.,あれとか これ,That,0.2
-"Sister, you found her?",姉様 見つかったですか？,My sister was found?,0.375
-Nekone-san?,ネコネさん？,Nekone?,0.3333333333333333
-I don't know anyone suspicious like you.,んなわけないだろ,I can not do it,0.16666666666666666
+Isn't it really a fellowship?",0.2631578947368421,0.1270912
+Are you a kidnapper?,誘拐の人なのけ？,A person who abducts?,0.25,0.43393728
+I am not!,言ってません！,Not told!,0.4,0.41525623
+"I'm a little busy, actually.",いや ちょっと 取り込み中なんだが,"No, I'm upset",0.3,0.23301516
+What does that look mean?,もしかして あれなん？,Maybe that?,0.2857142857142857,0.22336514
+"Our relationship's not like that, I think.",そんな関係じゃ ないかなあ,It may not be such a relationship,0.13333333333333333,0.61135
+I was hoping to get some advice.,今後の参考に聞きたかったのに,I wanted to hear about future reference,0.15384615384615385,0.30021262
+What else?,聞くって 何をだ？,What do you hear?,0.3333333333333333,0.36765528
+That's so nice.,あれとか これ,That,0.2,0.2660265
+"Sister, you found her?",姉様 見つかったですか？,My sister was found?,0.375,0.80781776
+Nekone-san?,ネコネさん？,Nekone?,0.3333333333333333,0.82399374
+I don't know anyone suspicious like you.,んなわけないだろ,I can not do it,0.16666666666666666,-0.012394965
 My brother told me to keep my \Nintentions secret from her...,"ん 兄上には
 秘密裏に探すように言われてまして","On my brother
-It is said to look for secretly",0.16666666666666666
+It is said to look for secretly",0.16666666666666666,0.5194971
 It's obvious that a mask would\Njust make you stand out more.,"覆面なんてしてたら
 余計に目立つに決まっているのです","If you get a mask
-It is decided that it stands out extra",0.3157894736842105
-This is a lot of trouble over one runaway girl.,家出娘１人に大騒ぎだな,It is a fuss for one household girl,0.26666666666666666
+It is decided that it stands out extra",0.3157894736842105,0.7098373
+This is a lot of trouble over one runaway girl.,家出娘１人に大騒ぎだな,It is a fuss for one household girl,0.26666666666666666,0.40343887
 "I thought she was some merchant's \Ndaughter, but she's not.","どこぞの商家のお嬢様かと
 思ったけど 違うみたい","Where is the lady of the merchant
-I thought but it looks different",0.2
+I thought but it looks different",0.2,0.7030615
 She's probably...,"ソヤンケクル様のご息女
 アトゥイ様なのです","Soyankkle's Boy
-It is an atuis",0.1
-You're a princess. Don't run away from home.,でも屋敷に帰るな,But don't go home,0.23076923076923078
-Love was waiting for me!,恋が待ってるんやもーん,Love is waiting for you,0.375
+It is an atuis",0.1,0.11291377
+You're a princess. Don't run away from home.,でも屋敷に帰るな,But don't go home,0.2307692307692308,0.55270904
+Love was waiting for me!,恋が待ってるんやもーん,Love is waiting for you,0.375,0.8635182
 I can't make more trouble for everyone.,"これ以上 迷惑掛けるわけには
 いかんしなあ","If you are annoying more than this
-I'm sorry",0.11764705882352941
-"Oh, mister.",あ お兄さん,Oh older brother,0.16666666666666666
-Thanks for today!,今日は ありがとな,Thank you for today,0.3333333333333333
-I heard you played a big role today.,大活躍って聞いたぜ？,I heard a big success?,0.36363636363636365
-Why are you doing this?,なぜ そんなことを？,Why?,0.3333333333333333
-To see the people through good and bad.,民と苦楽を共に,Both people and hardships,0.18181818181818182
-That's what I want.,それが俺の志だ,That's my aspiration,0.25
-"Just until I find another\Njob with good pay, okay?",他に 割のいい仕事が見つかるまでな,Until other good jobs are found,0.13333333333333333
+I'm sorry",0.1176470588235294,0.33590257
+"Oh, mister.",あ お兄さん,Oh older brother,0.16666666666666666,0.31160685
+Thanks for today!,今日は ありがとな,Thank you for today,0.3333333333333333,0.850178
+I heard you played a big role today.,大活躍って聞いたぜ？,I heard a big success?,0.3636363636363637,0.3389505
+Why are you doing this?,なぜ そんなことを？,Why?,0.3333333333333333,0.37850863
+To see the people through good and bad.,民と苦楽を共に,Both people and hardships,0.18181818181818185,0.2679655
+That's what I want.,それが俺の志だ,That's my aspiration,0.25,0.22634709
+"Just until I find another\Njob with good pay, okay?",他に 割のいい仕事が見つかるまでな,Until other good jobs are found,0.13333333333333333,0.5509222
 "My brother... No, Oshutoru-sama\Ntold me to help you.","兄上 いえ オシュトル様から
 手伝うよう言われてきました キウルです","From the older brother Otstra
-It is Kiuru who was told to help",0.14285714285714285
-Everyone! Nekone-san!,皆さん ネコネさん よろしくお願いします,Everyone Nekoney Thank you,0.16666666666666666
-Yeah!,うん よろしくかな,Yeah yeah,0.5
-You're always so formal.,よろしく お願いします,thank you,0.14285714285714285
-What's this about?,どういうことだ？,What does it mean?,0.25
-Moving in?,引っ越し？,moving?,0.6666666666666666
-My room's next to yours.,うちの部屋 隣り,Our room next door,0.2222222222222222
+It is Kiuru who was told to help",0.14285714285714285,0.46596602
+Everyone! Nekone-san!,皆さん ネコネさん よろしくお願いします,Everyone Nekoney Thank you,0.16666666666666666,0.57116634
+Yeah!,うん よろしくかな,Yeah yeah,0.5,0.7834418
+You're always so formal.,よろしく お願いします,thank you,0.14285714285714285,0.19649583
+What's this about?,どういうことだ？,What does it mean?,0.25,0.4106102
+Moving in?,引っ越し？,moving?,0.6666666666666666,0.81156933
+My room's next to yours.,うちの部屋 隣り,Our room next door,0.2222222222222222,0.73501045

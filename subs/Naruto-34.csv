@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774587
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.30175316
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048285
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.21940824
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387683
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586984
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.4196999
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,13 +68,13 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.55187774
 Sakura!,"ダァ～～！
 
-",Da ~ ~!,0.25
+",Da ~ ~!,0.25,0.3856741
 Oh! This?,"《あいつは!?》
 
-","""Atsuya!?""",0.2857142857142857
+","""Atsuya!?""",0.2857142857142857,0.2547082
 "I'm changing my image,
 changing my image!","みんな
  
@@ -88,7 +88,7 @@ changing my image!","みんな
 Hide!
 Disagreeable
  
-I'm going down soon!",0.23076923076923078
+I'm going down soon!",0.2307692307692308,0.18414056
 why are you guys here?!,"ん？
  
 ん？
@@ -99,7 +99,7 @@ why are you guys here?!,"ん？
  
 Yeah?
  
-Hmm!",0.2222222222222222
+Hmm!",0.2222222222222222,0.14334771
 "Hah... It's such a pain
 to explain it to you.","(ｼｶﾏﾙ)
 すんごい天然だな
@@ -110,7 +110,7 @@ to explain it to you.","(ｼｶﾏﾙ)
 ","It's very natural
  
 you
-.",0.3076923076923077
+.",0.3076923076923077,0.177136
 I'll take care of him from here.,"サクラちゃん
  
 その髪…
@@ -127,7 +127,7 @@ That hair ...
 Ahh
  
 Here
-.",0.14285714285714285
+.",0.14285714285714285,0.09967441
 "Oh? Tenten, why are you here?","ところでさ
  
 何で
@@ -140,7 +140,7 @@ Here
 why
  
 You guys
-Should I have been in such a place?",0.15
+Should I have been in such a place?",0.15,0.24206239
 I came to help.,"みんな
  
 助けてくれたのよ
@@ -151,14 +151,14 @@ I came to help.,"みんな
  
 I helped me
 .
-picture?",0.2
+picture?",0.2,0.4660815
 <i>You're kidding!</i>,"しっかりしなさいよ！
  
 リー！
 
 ","I'm firm!
  
-Lee!",0.18181818181818182
+Lee!",0.18181818181818185,0.14019075
 You're really stupid.,"(
 いの
 )
@@ -170,25 +170,25 @@ You're really stupid.,"(
 ","Ah…
  
 Yes
-.",0.14285714285714285
+.",0.14285714285714285,0.20149572
 I can't argue with that.,"(ﾃﾝﾃﾝ)
 あとは私が見るわ
 ｡
 
 ","After that I will see
-.",0.3
+.",0.3,0.19378449
 <i>happened while I was asleep?</i>,"何で
  
 早まって単独行動したの？
 
 ","why
  
-Was it early and act alone?",0.13333333333333333
+Was it early and act alone?",0.13333333333333333,0.1576958
 Lee...,"男としては…
 ｡
 
 ","As a man ...
-.",0.16666666666666666
+.",0.16666666666666666,0.2938236
 Thank you.,"ホント
  
 あんたってバカね
@@ -197,30 +197,30 @@ Thank you.,"ホント
 ","really
  
 Anyway
-.",0.2
+.",0.2,0.22724722
 "Because of you,
 I was able to wake up.","言い返すことばもないっす
 ｡
 
 ","There is no way to say
-.",0.125
+.",0.125,0.15565649
 I feel like I've gotten a little stronger!,"言うんじゃないわよ～！
 
-",I'm not saying!,0.16666666666666666
+",I'm not saying!,0.16666666666666666,0.20902812
 I was beaten to a pulp.,"ちょっとだけ
 強くなれた気がするんです
 ｡
 
 ","Just a bit
 I feel stronger
-.",0.2727272727272727
+.",0.2727272727272727,0.2970929
 <i>What?! He was beaten to a pulp?!</i>,"《一体
  
 俺が寝ている間に何が？》
 
 ","""Unite
  
-What is it while I'm sleeping?""",0.14285714285714285
+What is it while I'm sleeping?""",0.14285714285714285,0.093000814
 I pledge it.,"僕は
  
 まだまだ
@@ -231,12 +231,12 @@ I pledge it.,"僕は
  
 not yet
 It seems that the effort was not enough
-.",0.25
+.",0.25,0.11768123
 Okay.,"サスケ君
 ｡
 
 ","Sasuke
-.",0.3333333333333333
+.",0.3333333333333333,0.1386671
 You are really sneaky.,"やっぱり
  
 君は
@@ -247,12 +247,12 @@ You are really sneaky.,"やっぱり
  
 You are
 It is the owner of great power
-.",0.2
+.",0.2,0.20071653
 <i>At any rate... he's a strong opponent.</i>,"次に会うときは
 もっと強い男になってることを➡
 
 ","When meeting next
-What is a more strong man",0.1
+What is a more strong man",0.1,0.4216497
 It's already been half a day.,"ホント
  
 小汚いわね
@@ -261,7 +261,7 @@ It's already been half a day.,"ホント
 ","really
  
 It is small
-.",0.18181818181818182
+.",0.18181818181818185,0.15263397
 "Lucky for us,","(
 ネジ
 )
@@ -271,13 +271,13 @@ It is small
 
 ","""for now
  
-It's a strong enemy """,0.09090909090909091
+It's a strong enemy """,0.09090909090909093,0.06354298
 This is safety.,"(ﾋﾅﾀ)
 赤丸
 ｡
 
 ","Red circle
-.",0.16666666666666666
+.",0.16666666666666666,0.26379162
 I know! C'mon.,"もう半日も
  
 たつんだぞ
@@ -286,7 +286,7 @@ I know! C'mon.,"もう半日も
 ","Even more
  
 I'm sorry
-.",0.2222222222222222
+.",0.2222222222222222,0.28328598
 <i>Naruto...</i>,"この分じゃ
  
 俺たち
@@ -299,17 +299,17 @@ I'm sorry
 We're
 Tower
  
-I'm the best ride>",0.14285714285714285
+I'm the best ride>",0.14285714285714285,0.2079607
 Then Hinata!,"この虫オタク！＞
 
-",This guidance otaku!>,0.14285714285714285
+",This guidance otaku!>,0.14285714285714285,0.27920184
 "Yep... I'll have a look.
 Byakugan!","(ﾋﾅﾀ)
 《ナルト君
 無事だといいけど…》
 
 ","""Naruto
-I hope it's safe ... """,0.125
+I hope it's safe ... """,0.125,0.04828349
 T-There's someone there.,"相変わらず
  
 分かりにくい
@@ -322,7 +322,7 @@ T-There's someone there.,"相変わらず
 Confusing
 Shattering
 .
-➡",0.1
+➡",0.1,0.018864647
 Evidently there are... 6 people...,"＜おい
  
 ２人とも止まれ
@@ -333,7 +333,7 @@ Evidently there are... 6 people...,"＜おい
  
 Two people are stopped
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.24722075
 "one of each ""Heaven"" and ""Earth""
 scroll in a pair.","＜あっ
  
@@ -341,7 +341,7 @@ scroll in a pair.","＜あっ
 
 ","<
  
-Someone in there>",0.058823529411764705
+Someone in there>",0.05882352941176471,0.24926282
 "- Let's go!
 - Oh!","＜よっしゃ～！
  
@@ -353,7 +353,7 @@ Someone in there>",0.058823529411764705
  
 Go to see>
 
-<Eh?>",0.15384615384615385
+<Eh?>",0.15384615384615385,0.2861348
 "He's an irritating type, that one.","＜試験官は
  
 天
@@ -374,7 +374,7 @@ Land
 One set of scrolls
 I just told it
 .
-➡",0.09090909090909091
+➡",0.09090909090909093,-0.01866125
 What happened? You stopped suddenly.,"＜キバ
  
 何を言ってる？
@@ -383,7 +383,7 @@ What happened? You stopped suddenly.,"＜キバ
 ","<Kiba
  
 What are you saying?
-It is no good>",0.1875
+It is no good>",0.1875,0.12430909
 W-Why is that?,"その分
  
 ほかのチームが
@@ -392,7 +392,7 @@ W-Why is that?,"その分
 ","That minute
  
 Other teams
-You drop off?>",0.18181818181818182
+You drop off?>",0.18181818181818185,0.052094527
 "But this is the first time I've
 seen him this scared.","＜まずは様子を見るだけだ
 ｡
@@ -400,7 +400,7 @@ seen him this scared.","＜まずは様子を見るだけだ
 
 ","<First of all, just see the situation
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.22465545
 "The people going at it up ahead
 aren't ordinary guys...","(
 シノ
@@ -411,7 +411,7 @@ aren't ordinary guys...","(
 
 ","""not at all
  
-It is a good guy of insects",0.09523809523809523
+It is a good guy of insects",0.09523809523809523,0.24204662
 He's saying that big guy is dangerous.,"この先で
  
 やり合ってるヤツら
@@ -420,21 +420,21 @@ He's saying that big guy is dangerous.,"この先で
 ","In the future
  
 The guy who works
-It's just a person>",0.10526315789473684
+It's just a person>",0.10526315789473684,0.1348954
 <i>They seem really strong.</i>,"＜赤丸が急に
  
 おびえだした＞
 
 ","<Red Maru suddenly
  
-I was scared>",0.23076923076923078
+I was scared>",0.2307692307692308,0.24416842
 That's enough of you.,"力の度合いが分かっちまう
 ｡
 ➡
 
 ","The degree of power will be understood
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.14299196
 Unnecessary battles are...,"(ﾋﾅﾀ)
 《た…
  
@@ -448,7 +448,7 @@ Unnecessary battles are...,"(ﾋﾅﾀ)
 surely
 People who are likely
 .
-➡",0.07692307692307693
+➡",0.07692307692307693,0.113180116
 It doesn't matter.,"(ｼｸﾞﾚ)
 ＜おい
  
@@ -462,47 +462,47 @@ It doesn't matter.,"(ｼｸﾞﾚ)
 Young monk
 It is better to choose the other party
 .
-➡",0.11764705882352941
+➡",0.1176470588235294,0.16258731
 "<i>That's why I don't want</i>
 <i>to be with this guy.</i>","＜あのデカいヤツ
 ヤバいって言ってる＞
 
 ","<That big guy
-I'm saying",0.15789473684210525
+I'm saying",0.15789473684210525,0.2823653
 "Well, let's do it. Quickly!","早くやろう
  
 雨隠れのおじさん＞
 
 ","Let's do it early
  
-Rainbidden uncle>",0.3076923076923077
+Rainbidden uncle>",0.3076923076923077,0.33156124
 <i>Hidden Senbons!</i>,"死ぬぜ
  
 お前ら＞
 
 ","I die
  
-You guys>",0.2
+You guys>",0.2,0.25993192
 "Up down right left,
 there is no dead spot in this Jutsu.","巻物の種類が同じなら
 争う必要はないし➡
 
 ","If the type of scroll is the same
-There is no need to compete",0.13043478260869565
+There is no need to compete",0.13043478260869565,0.12191389
 <i>Too easy.</i>,"(ｼｸﾞﾚ)
 ＜ハァ～…＞
 
-",<Ha ~ ...>,0.2222222222222222
+",<Ha ~ ...>,0.2222222222222222,0.5118155
 Is that all?,"目が合ったヤツは皆殺しだ＞
 
-",The guy who focused is all killed>,0.2
+",The guy who focused is all killed>,0.2,0.20017463
 No wounds? Ridiculous!,"(ﾋﾅﾀ)
 《仕込み千本！》
 
-","""Inconsistent thousand!""",0.1111111111111111
+","""Inconsistent thousand!""",0.1111111111111111,0.16803342
 What a giant Chakra.,"狙った獲物に襲いかかる！＞
 
-",Strike a targeted prey!>,0.1
+",Strike a targeted prey!>,0.1,0.08299053
 "And, that sand...","＜上下左右
 この術に死角はない
 ｡
@@ -511,11 +511,11 @@ What a giant Chakra.,"狙った獲物に襲いかかる！＞
 ","<Upper, down, left, and right
 There is no blind spot in this technique
 .
-➡",0.1
+➡",0.1,0.11750409
 Smell?,"(ｼｸﾞﾚ)
 ＜ん？＞
 
-",<Did?>,0.2
+",<Did?>,0.2,0.18295014
 A strong smell of blood...,"じゃあ
  
 俺は
@@ -524,27 +524,27 @@ A strong smell of blood...,"じゃあ
 ","Surely
  
 I am
-I will do the rain of blood>",0.14285714285714285
+I will do the rain of blood>",0.14285714285714285,0.2600966
 without Gaara's intentions.,"＜千本の雨か
 ｡
 ➡
 
 ","<Senimen rain
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.055632934
 Sand Burial!,"それに
  
 あの砂➡
 
 ","in addition
  
-That sand ➡",0.14285714285714285
+That sand ➡",0.14285714285714285,0.6569813
 "The bloody tears of a corpse merge
 with vast sinking sand","ひょうたんの中の砂を操り
 膨大なチャクラで固め➡
 
 ","Manipulate sand in the gourd
-Solid with a huge chakra",0.23529411764705882
+Solid with a huge chakra",0.2352941176470588,0.41143426
 "and provide more power
 to the demon of war.","己の体の周囲を防御する
 我愛羅だけに許された術
@@ -554,7 +554,7 @@ to the demon of war.","己の体の周囲を防御する
 ","Protect the surroundings of my body
 Seira only forgiveness
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.16731018
 T-The scroll.,"なぜか
  
 オートで行われる
@@ -565,19 +565,19 @@ T-The scroll.,"なぜか
  
 It takes place at auto
 .
-➡",0.1
+➡",0.1,0.22199063
 No-o-o-!,"うわ～！＞
 
-",Wow!>,0.25
+",Wow!>,0.25,0.20386605
 Luckily it is a Heaven scroll.,"＜うるさい口まで
 覆っても殺せるが…＞
 
 ","<Unusual mouth
-It can be killed even if it is covered ...>",0.1111111111111111
+It can be killed even if it is covered ...>",0.1111111111111111,0.17277789
 "Gaara! It's certainly no problem for you,
 but it's too dangerous for us!","＜ちょっと惨めすぎるからな＞
 
-",<Because it's too miserable>,0.16666666666666666
+",<Because it's too miserable>,0.16666666666666666,0.07502866
 One set of scrolls is good.,"(
 我愛羅
 )
@@ -587,7 +587,7 @@ One set of scrolls is good.,"(
 
 ","<There is no suffering
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.034327254
 Lame people don't give directions to me.,"与える必要もないほど
 圧倒したから
 ｡
@@ -596,11 +596,11 @@ Lame people don't give directions to me.,"与える必要もないほど
 ","I do not need to give
 Because I was overwhelmed
 .
-➡",0.25
+➡",0.25,0.14830852
 That's enough!,"(ﾊﾞｲｳ)
 ＜あ～！＞
 
-",<Oh!>,0.14285714285714285
+",<Oh!>,0.14285714285714285,0.20159437
 If you get in my way... I'll kill you.,"＜ま…
  
 巻物は
@@ -611,35 +611,35 @@ If you get in my way... I'll kill you.,"＜ま…
  
 Scroll
  
-Do you do>",0.125
+Do you do>",0.125,0.19056042
 Gaara!,"(ﾊﾞｲｳ･ﾐﾀﾞﾚ)
 ＜うわ～！＞
 
-",<Wow!>,0.2
+",<Wow!>,0.2,0.18688327
 Fine.,"＜黙れ
 ｡
 ➡
 
 ","<Shut up
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.27007964
 <i>That's why I hate brats.</i>,"＜もうやめよう
  
 我愛羅＞
 
 ","<Let's stop
  
-Gora>",0.25
+Gora>",0.25,0.27600545
 What? So that's it Akamaru?,"まだ
  
 もの足りないんだよ＞
 
 ","not yet
  
-It's not enough>",0.18181818181818182
+It's not enough>",0.18181818181818185,0.072244406
 Heh heh! We're the first?!,"聞いたらどうなんだ!?＞
 
-",What if I hear!?>,0.16666666666666666
+",What if I hear!?>,0.16666666666666666,0.16847928
 "No, I sensed someone a little while ago.","＜いいかげんにしろ！
 たまには
  
@@ -648,7 +648,7 @@ Heh heh! We're the first?!,"聞いたらどうなんだ!?＞
 ","<いい いい いい いい いい!
 Once in a while
  
-My brother says",0.1111111111111111
+My brother says",0.1111111111111111,0.07845258
 "Oh... Akamaru said that it
 was dangerous","俺たちにとっては危険すぎる
 ｡
@@ -656,7 +656,7 @@ was dangerous","俺たちにとっては危険すぎる
 
 ","It is too dangerous for us
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.45287943
 "because that sand squirt
 would kill that big guy.","そんな冷たいこと言わないでさ
 ｡
@@ -664,10 +664,10 @@ would kill that big guy.","そんな冷たいこと言わないでさ
 
 ","Don't say that cold
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.07892272
 <i>He's too dangerous.</i>,"＜分かったよ＞
 
-",<I understand>,0.3333333333333333
+",<I understand>,0.3333333333333333,0.35765165
 Excuse me.,"＜何だよ
 そういうことかよ
  
@@ -680,10 +680,10 @@ That's how
  
 Red circle
 .
-➡",0.09090909090909091
+➡",0.09090909090909093,0.14018588
 But... Uh...,"＜はぁ…＞
 
-",<Ha ...>,0.16666666666666666
+",<Ha ...>,0.16666666666666666,0.3525226
 "<i>Three Ninja from Hidden Sand Village</i>
 <i>broke through the second test.</i>","(
 キバ
@@ -692,7 +692,7 @@ But... Uh...,"＜はぁ…＞
 俺たちが一番乗りか？＞
 
 ","<Hehehehe
-Are we the most riding?>",0.14285714285714285
+Are we the most riding?>",0.14285714285714285,0.27311987
 It's not just that.,"(
 シノ
 )
@@ -704,13 +704,13 @@ It's not just that.,"(
 ","<Speaking of that
 Red circle
  
-What is it?>",0.13333333333333333
+What is it?>",0.13333333333333333,0.09487951
 What about him is so?,"(
 忍１
 )
 どういうことだ？
 
-",What does it mean?,0.2222222222222222
+",What does it mean?,0.2222222222222222,0.085982844
 Look closely at his body.,"(ｲﾜｼ)
 すいません
  
@@ -726,7 +726,7 @@ but
  
 A little
 Look at this
-.",0.25
+.",0.25,0.3327561
 I see.,"(
 忍２
 )
@@ -734,18 +734,18 @@ I see.,"(
 ｡
 
 ","Videos
-.",0.25
+.",0.25,0.14054607
 "What's worse, there's not
 a smudge of dirt on his clothing.","(ｱﾝｺ)
 大変なことになってるけど➡
 
-","It's a big deal, but",0.16666666666666666
+","It's a big deal, but",0.16666666666666666,0.06772064
 "It's impossible for us to
 make it to this tower without a scratch.","塔内の録画です
 ｡
 
 ","It is recording in the tower
-.",0.17647058823529413
+.",0.17647058823529413,0.28690958
 "After a long time, a dependable
 guy has appeared.","第２の試験
  
@@ -759,15 +759,15 @@ guy has appeared.","第２の試験
 1 hour start
 37
 Minute after
-.",0.11764705882352941
+.",0.1176470588235294,0.070295274
 <i>The ocean spans limitlessly</i>,"今までの最高記録を➡
 
-",The maximum record so far,0.08333333333333333
+",The maximum record so far,0.08333333333333333,0.16160083
 <i>Or else I'll cry</i>,"それだけじゃないわ
 ｡
 
 ","I'm not alone
-.",0.08333333333333333
+.",0.08333333333333333,0.21801245
 <i>It's all ok now.</i>,"(
 忍１
 )
@@ -785,7 +785,7 @@ In case
 Bold
  
 Bold
-.",0.13333333333333333
+.",0.13333333333333333,0.1744729
 "<i>Everyone is inside</i>
 <i>this hand</i>","一体
  
@@ -799,14 +799,14 @@ Bold
 What is this
  
 so much…
-.",0.14285714285714285
+.",0.14285714285714285,0.13612433
 <i>The two are one</i>,"傷一つない
  
 それどころか➡
 
 ","Incident
  
-On the other side",0.08333333333333333
+On the other side",0.08333333333333333,0.16871148
 "- Just a little bit.
 - No!","(
 忍１
@@ -821,7 +821,7 @@ On the other side",0.08333333333333333
  
 For their ability
 There will be a relationship
-.",0.125
+.",0.125,0.13833259
 I'll just look a little and put it back.,"(
 忍２
 )
@@ -833,7 +833,7 @@ I'll just look a little and put it back.,"(
 ","A long time ago guy
 It came out
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.18008691
 "it just makes me want
 to look all the more!","この塔まで
  
@@ -843,7 +843,7 @@ to look all the more!","この塔まで
 ","To this tower
  
 Intact
-It is impossible to go to",0.11764705882352941
+It is impossible to go to",0.1176470588235294,-0.011655161
 "If you can look when you can,
 let's look!","♬
  
@@ -855,4 +855,4 @@ let's look!","♬
  
 Hey
  
-Can you hear it?",0.14285714285714285
+Can you hear it?",0.14285714285714285,0.22194992

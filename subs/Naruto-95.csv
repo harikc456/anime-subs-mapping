@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.71131814
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.862805
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207117
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.6541098
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.38045895
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851646
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.4000978
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.58001244
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.36993268
 "As for me...
 I stand by my words.","(ﾅﾙﾄ)
 俺ってば
@@ -110,7 +110,7 @@ I stand by my words.","(ﾅﾙﾄ)
  
 Straight
 My words are bent
-.",0.2
+.",0.2,0.3389319
 That's... my Way of Ninja!,"(
 綱手
 )
@@ -124,17 +124,17 @@ That's... my Way of Ninja!,"(
  
 Hold!
  
-Run away!",0.25
+Run away!",0.25,0.31278306
 "If you die, there will be no dreams,
 no nothing!","(ｶﾌﾞﾄ)
 死んだら何もかも
 夢も何もないんだよ！
 
 ","If you die, it may be anything
-There is no dream!",0.5
+There is no dream!",0.5,0.899594
 I...,"俺は…➡
 
-",I ... ➡,0.6666666666666666
+",I ... ➡,0.6666666666666666,0.6762786
 "I will absolutely not die
 until I've become Hokage!","絶対
  
@@ -142,21 +142,21 @@ until I've become Hokage!","絶対
 
 ","absolutely
  
-I'm from death!",0.23076923076923078
+I'm from death!",0.2307692307692308,0.50189877
 Rasengan!,"ハァ～！
 
-",Hua!,0.3333333333333333
+",Hua!,0.3333333333333333,0.42807162
 <i>This is...?!</i>,"テッヘヘ…
 これで逃がさねえで済む！
 
 ","Techeehe ...
-This will be missed!",0.23076923076923078
+This will be missed!",0.2307692307692308,0.26318312
 <i>That Nine Tailed Fox kid...</i>,"(
 大蛇丸
 )
 《あの九尾のガキ…➡
 
-","""The Gaki of that nine tail ... ➡",0.1875
+","""The Gaki of that nine tail ... ➡",0.1875,0.46979472
 "<i>In only one week,</i>
 <i>that Rasengan...</i>","(
 綱手
@@ -165,7 +165,7 @@ This will be missed!",0.23076923076923078
 あの螺旋丸を…》
 
 ","""In just a week
-That spiral circle ... """,0.23529411764705882
+That spiral circle ... """,0.2352941176470588,0.30375165
 "You... Even after you received
 that Jutsu?!","お前
  
@@ -175,10 +175,10 @@ that Jutsu?!","お前
 ","you
  
 I eat that operation ...
-.",0.23076923076923078
+.",0.2307692307692308,0.26136565
 "I gathered the Chakra in my stomach,","チャクラを腹に集めて➡
 
-",Collect chakra into belly ➡➡,0.08333333333333333
+",Collect chakra into belly ➡➡,0.08333333333333333,0.748765
 "and before I received the Jutsu
 I had started healing.","術を食らう前から
 治癒を始めていた
@@ -188,12 +188,12 @@ I had started healing.","術を食らう前から
 ","From before eating
 I was starting to heal
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.5042101
 It is because my recuperative power.,"フッフフフ…
 ｡
 
 ","Fuchfufu ...
-.",0.1111111111111111
+.",0.1111111111111111,0.094694614
 "The power to energize cells
 and make new cells.","新しく細胞を
 作り替えていく能力
@@ -201,7 +201,7 @@ and make new cells.","新しく細胞を
 
 ","New cells
 Ability to change
-.",0.36363636363636365
+.",0.3636363636363637,0.72739935
 "That Jutsu...
 seems it was Naruto's last effort...","ナルト君の最後の賭けだった
 みたいだけど…
@@ -209,7 +209,7 @@ seems it was Naruto's last effort...","ナルト君の最後の賭けだった
 
 ","It was the last bet of Naruto
 It looks like ...
-.",0.3125
+.",0.3125,0.69397014
 "<i>Even with my powers of recuperation,</i>
 <i>this much damage.</i>","僕の回復力をもってしても
  
@@ -217,10 +217,10 @@ It looks like ...
 
 ","Even with my recovery
  
-Still ➡",0.17647058823529413
+Still ➡",0.17647058823529413,0.3210626
 Arrhythmia!,"不整脈を起こしている！
 
-",Arrhythmia has occurred!,0.5
+",Arrhythmia has occurred!,0.5,0.88756657
 Drats! His heart muscle is in tatters...,"(
 綱手
 )
@@ -232,18 +232,18 @@ Drats! His heart muscle is in tatters...,"(
 ","Fuck!
  
 Myocardium is Ztazuta
-.",0.15384615384615385
+.",0.15384615384615385,0.3815375
 Why did that happen...?,"うっ…
 ｡
 
 ","Uey ...
-.",0.125
+.",0.125,0.2341252
 <i>That moment?!</i>,"(
 綱手
 )
 《あの時か！》
 
-","""That time!""",0.18181818181818182
+","""That time!""",0.18181818181818185,0.4107418
 "<i>did he shred the muscles</i>
 <i>around his heart...?</i>","(
 綱手
@@ -256,7 +256,7 @@ Why did that happen...?,"うっ…
 ","""At that time
  
 Around the heart
-Do you cut your muscles?""",0.21739130434782608
+Do you cut your muscles?""",0.21739130434782608,0.5853206
 <i>Stop shaking!</i>,"(
 綱手
 )
@@ -266,7 +266,7 @@ Do you cut your muscles?""",0.21739130434782608
 
 ","""Hua ...
  
-I'm trembling!""",0.15384615384615385
+I'm trembling!""",0.15384615384615385,0.42742747
 "Hey, Big Brother Gamakichi.","(ｶﾞﾏ
 竜
 )
@@ -280,7 +280,7 @@ I'm trembling!""",0.15384615384615385
  
 Gama Yoshito brother
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.65759975
 "Are we really getting a snack?
 That guy looks like he's going to die.","ホントに
  
@@ -294,7 +294,7 @@ That guy looks like he's going to die.","ホントに
 Can you get a snack?
 that person
  
-Is it so on?",0.2
+Is it so on?",0.2,0.5492102
 You're annoying! Be quiet!,"(ｶﾞﾏ
 吉
 )
@@ -302,7 +302,7 @@ You're annoying! Be quiet!,"(ｶﾞﾏ
 静かにしとけ！
 
 ","Urusei!
-Quietly!",0.125
+Quietly!",0.125,0.43369165
 It's all over... for Naruto.,"ナルト君は
  
 もうダメだよ…
@@ -311,10 +311,10 @@ It's all over... for Naruto.,"ナルト君は
 ","Naruto-kun
  
 It is no good ...
-.",0.25
+.",0.25,0.6604446
 through the Nine-Tail's Chakra...,"心臓の経絡系を…➡
 
-",My heart's midday ... ➡,0.2
+",My heart's midday ... ➡,0.2,0.14754161
 Even with you.,"たとえ
  
 あなたでもね
@@ -323,24 +323,24 @@ Even with you.,"たとえ
 ","for example
  
 You can
-.",0.2857142857142857
+.",0.2857142857142857,0.21283653
 Shut up!,"(
 綱手
 )
 うるせぇ！
 
-",shut up!,1.0
+",shut up!,1.0,0.9999999
 I'll kill you later...,"切断した…
 ｡
 
 ","I cut ...
-.",0.25
+.",0.25,0.37476683
 <i>He's stopped breathing...!</i>,"(
 綱手
 )
 《呼吸が止まった！》
 
-","""Breathing has stopped!""",0.23076923076923078
+","""Breathing has stopped!""",0.2307692307692308,0.6741456
 Dark!...,"(
 九尾
 )
@@ -350,42 +350,42 @@ Dark!...,"(
 
 ","dark
 .
-➡",0.2
+➡",0.2,0.7805062
 Why is it getting dark?,"なぜ
  
 暗くなる？➡
 
 ","why
  
-Get dark?➡",0.375
+Get dark?➡",0.375,0.79664326
 What...?,"(
 九尾
 )
 何だ？
 
-",What?,0.6666666666666666
+",What?,0.6666666666666666,0.7130884
 <i>Don't die!</i>,"死ぬな！
  
 死ぬな！➡
 
 ","Do not die!
  
-Do not die!➡",0.3
+Do not die!➡",0.3,0.78299177
 The bet...,"賭けには…
 ｡
 
 ","For bet ...
-.",0.4
+.",0.4,0.69315255
 I won it.,"勝ったぜ…
 ｡
 
 ","I won ...
-.",0.6
+.",0.6,0.7862229
 "Hokage is... my dream, eh?","俺の夢だから…か
 ｡
 
 ","Because it is my dream ...
-.",0.36363636363636365
+.",0.3636363636363637,0.3946504
 <i>I want to bet on you...</i>,"(
 綱手
 )
@@ -393,7 +393,7 @@ I won it.,"勝ったぜ…
 賭けてみたくなった…》
 
 ","""Annow
-I wanted to bet ... """,0.3076923076923077
+I wanted to bet ... """,0.3076923076923077,0.5629202
 Tsunade is a medical specialist.,"(
 自来也
 )
@@ -401,7 +401,7 @@ Tsunade is a medical specialist.,"(
 ｡
 
 ","Tsuguste is a medical specialist
-.",0.7142857142857143
+.",0.7142857142857143,0.79151195
 That's not what I meant.,"(
 大蛇丸
 )
@@ -413,7 +413,7 @@ That's not what I meant.,"(
 ","That girl
  
 It is not good
-.",0.2727272727272727
+.",0.2727272727272727,0.10395084
 "<i>In other words,</i>
 <i>if I'm to kill him...</i>","つまり
  
@@ -421,19 +421,19 @@ It is not good
 
 ","in short
  
-If you kill it",0.17647058823529413
+If you kill it",0.17647058823529413,0.42893726
 Shoot!,"(
 自来也
 )
 チッ！
 
-",Chi!,0.3333333333333333
+",Chi!,0.3333333333333333,0.4246944
 <i>He's aiming at this child!</i>,"(
 綱手
 )
 《この子を狙ってる！》
 
-","""I'm aiming for this child!""",0.3333333333333333
+","""I'm aiming for this child!""",0.3333333333333333,0.7214018
 "Tsunade... You're the only one
 I wasn't going to kill...","綱手…
  
@@ -447,10 +447,10 @@ I wasn't going to kill...","綱手…
 Only
 I did not feel like killing
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.6432763
 "If that child lives,","その子に生きていられると➡
 
-",If you can live with that child,0.3333333333333333
+",If you can live with that child,0.3333333333333333,0.74782586
 "there will be trouble in the future
 on a variety of levels.","のちのち
 やっかいなことになるのよ
@@ -460,7 +460,7 @@ on a variety of levels.","のちのち
 ","Throat
 It will be a good thing
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.23735273
 This is one child...,"(
 綱手
 )
@@ -468,7 +468,7 @@ This is one child...,"(
 ｡
 
 ","Only this child ...
-.",0.42857142857142855
+.",0.42857142857142855,0.7143932
 "This is one child...
 I will absolutely protect!","(
 綱手
@@ -483,7 +483,7 @@ I will absolutely protect!","(
  
 absolutely
  
-protect!",0.45454545454545453
+protect!",0.4545454545454545,0.8432777
 "Trembling at the sight of blood,
 why would you, one of the Sannin,","なぜ
  
@@ -493,13 +493,13 @@ why would you, one of the Sannin,","なぜ
 ","why
  
 It will be with one of the three Shinobu
-Annota",0.21052631578947367
+Annota",0.21052631578947367,0.19525142
 risk your life to protect that Genin kid?,"命懸けで守ろうとするの？
 
-",Are you going to protect with life?,0.3076923076923077
+",Are you going to protect with life?,0.3076923076923077,0.597448
 To protect the Leaf Village...?,"里を守るためよ！
 
-",To protect the village!,0.5
+",To protect the village!,0.5,0.72891057
 Because... because...,"(
 綱手
 )
@@ -509,38 +509,38 @@ Because... because...,"(
 
 ","because…
  
-Because why",0.25
+Because why",0.25,0.76786816
 What utter nonsense...,"何をばかな世まい言を…
  
 それに➡
 
 ","What a stupid word ...
  
-➡ ➡",0.25
+➡ ➡",0.25,0.39094877
 Only a fool does that job.,"いずれ火影になるガキだからね
 ｡
 
 ","It's a girl who will be fire shadow
-.",0.13333333333333333
+.",0.13333333333333333,0.12170223
 <i>The wishes of the two...</i>,"(ｼｽﾞﾈ)
 ＜２人の願いを…➡
 
-",<Two wishes ... ➡,0.4
+",<Two wishes ... ➡,0.4,0.73838365
 "<i>More importantly, Lady Tsunade,</i>
 <i>your wish...</i>","あなたの願いを…➡
 
-",Your wish ... ➡,0.23076923076923078
+",Your wish ... ➡,0.2307692307692308,0.45760602
 <i>Have you forgotten your dream?</i>,"夢を忘れたんですか!?＞
 
-",Did you forget your dream?>,0.4166666666666667
+",Did you forget your dream?>,0.4166666666666667,0.8578032
 "<i>The successive lines of Hokage</i>
 <i>have protected</i>","＜歴代の火影たちは➡
 
-",<The fire shadow of successive generations,0.2857142857142857
+",<The fire shadow of successive generations,0.2857142857142857,0.20636335
 "<i>the Leaf Village and</i>
 <i>and those living in it.</i>","その夢に命を懸けた＞
 
-",I had a life in the dream>,0.25
+",I had a life in the dream>,0.25,0.27903962
 "<i>Anyone who makes fun of the old man</i>
 <i>and the Fourth Hokage...</i>","＜俺の前で
  
@@ -550,14 +550,14 @@ Only a fool does that job.,"いずれ火影になるガキだからね
 ","<In front of me
  
 Great
-The guy who fools the four generations is ➡",0.15384615384615385
+The guy who fools the four generations is ➡",0.15384615384615385,0.4571366
 <i>I'll clobber you with all my might!</i>,"力いっぱい
  
 ぶん殴ってやる！＞
 
 ","Fully
  
-I'll beat it!>",0.26666666666666666
+I'll beat it!>",0.26666666666666666,0.39443716
 "If your life is worth throwing away
 for a kid like him...!","フン
  
@@ -567,7 +567,7 @@ for a kid like him...!","フン
 ","Hung
  
 For one such Gaki
-If it is a life that throws out",0.22727272727272727
+If it is a life that throws out",0.2272727272727273,0.31219363
 All that's left... is Naruto.,"(
 綱手
 )
@@ -575,10 +575,10 @@ All that's left... is Naruto.,"(
 ｡
 
 ","Hung
-.",0.1111111111111111
+.",0.1111111111111111,0.15384844
 Lady Tsunade!,"綱手様！
 
-",Tope!,0.25
+",Tope!,0.25,0.43093938
 <i>Make it in time!</i>,"(
 大蛇丸
 )
@@ -586,10 +586,10 @@ Lady Tsunade!,"綱手様！
 まだ動けるとは…》
 
 ","""I cut it up in lung
-It is still possible to move ... """,0.15789473684210525
+It is still possible to move ... """,0.15789473684210525,0.10242825
 You mean you'll still protect that kid?!,"ん!?
 
-",Hmm!?,0.2
+",Hmm!?,0.2,0.12769923
 That's what I said...,"(
 綱手
 )
@@ -599,18 +599,18 @@ That's what I said...,"(
 
 ","I said
 .
-➡",0.25
+➡",0.25,0.41208333
 From now...,"ここからは…
 ｡
 
 ","From here…
-.",0.2
+.",0.2,0.5840808
 I'm putting my life on the line!,"(
 綱手
 )
 命を懸けるって！
 
-",I have a life!,0.2727272727272727
+",I have a life!,0.2727272727272727,0.588401
 "No matter how cool you try to be,
 your trembling doesn't stop.","その震えは止まらない
 ｡
@@ -618,7 +618,7 @@ your trembling doesn't stop.","その震えは止まらない
 
 ","That tremor does not stop
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.42470267
 "You can't get away from
 the curse of hemophobia.","血液恐怖症の呪縛からは
 逃れられない
@@ -626,7 +626,7 @@ the curse of hemophobia.","血液恐怖症の呪縛からは
 
 ","From the curse of blood phobia
 Unnecessary
-.",0.35714285714285715
+.",0.35714285714285715,0.58729994
 Why would you battle for the Leaf?,"なぜ
  
 あんたが
@@ -639,7 +639,7 @@ Why would you battle for the Leaf?,"なぜ
 Aunt
  
 Such
-Do you get hurt for Gaki?",0.2857142857142857
+Do you get hurt for Gaki?",0.2857142857142857,0.29053462
 That is because... I am...,"(
 綱手
 )
@@ -651,28 +651,28 @@ That is because... I am...,"(
 ","because
  
 I am ...
-.",0.5714285714285714
+.",0.5714285714285714,0.8184194
 the Leaf Village's... Fifth Hokage!,"綱手の震えが…
  
 止まった！》
 
 ","Tsuggu's tremor ...
  
-Stopped!""",0.25
+Stopped!""",0.25,0.25109184
 <i>but that's...</i>,"でも
  
 あれは…》
 
 ","but
  
-That is…""",0.2
+That is…""",0.2,0.3386528
 "What are you saying you'll do,
 after all this time?","(
 大蛇丸
 )
 いまさら何をしようというの？
 
-",What do you do now?,0.3076923076923077
+",What do you do now?,0.3076923076923077,0.58910096
 "You can't fight with that wound
 even if you've conquered your fear.","その傷では
 まともに戦えないわよ
@@ -680,7 +680,7 @@ even if you've conquered your fear.","その傷では
 
 ","With that scratch
 I can't fight properly
-.",0.35294117647058826
+.",0.35294117647058826,0.47922066
 "W-Wait! I'll treat that wound.
 So don't release that seal!","だから
  
@@ -690,14 +690,14 @@ So don't release that seal!","だから
 ","that's why
  
 The seal is
-Please do not release it!",0.25
+Please do not release it!",0.25,0.68669057
 <i>Ninja Art. Mitotic Regeneration!</i>,"忍法
  
 創造再生！》
 
 ","Ninja method
  
-Creative play!""",0.14285714285714285
+Creative play!""",0.14285714285714285,0.55359954
 <i>What is this Jutsu...?!</i>,"(
 大蛇丸
 )
@@ -707,13 +707,13 @@ Creative play!""",0.14285714285714285
 
 ","""What?
  
-This technique is!""",0.35714285714285715
+This technique is!""",0.35714285714285715,0.27846873
 "It looks like I'm not the only one
 who develops new Jutsu.","私だけじゃないみたいね
 ｡
 
 ","I'm not only me
-.",0.3333333333333333
+.",0.3333333333333333,0.2319651
 "For many years I've stored Chakra
 in my forehead.","あたしは長年
 チャクラを額に
@@ -727,17 +727,17 @@ To the forehead
  
 For
 .
-➡",0.4
+➡",0.4,0.54993296
 "The mass of Chakra stimulated
 a variety of proteins.","その大量のチャクラで
 各種タンパク質を刺激し➡
 
 ","In a large amount of chakra
-Stimulate various proteins ➡ ➡",0.26666666666666666
+Stimulate various proteins ➡ ➡",0.26666666666666666,0.8494358
 "The number of times my cells divide
 speeds to a dizzying rate...","細胞分裂の回数を急速に速めて➡
 
-",Rap the number of cell divisions rapidly,0.17647058823529413
+",Rap the number of cell divisions rapidly,0.17647058823529413,0.48138443
 "and all the organs and body systems
 are revitalized.","そして
  
@@ -751,7 +751,7 @@ are revitalized.","そして
 All organs
 Can play organization
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.5498409
 "It's not the ability to restore,
 it's the ability to reincarnate.","回復能力ではなく
  
@@ -763,7 +763,7 @@ it's the ability to reincarnate.","回復能力ではなく
  
 Reproduction ability
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.61416423
 "<i>But the number of times a person's cells</i>
 <i>divide in their lifetime is fixed...</i>","(ｼｽﾞﾈ)
 《だけど
@@ -778,7 +778,7 @@ Reproduction ability
 Lifetime
 The number of cell divisions is fixed
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.75742847
 "<i>If that is sped up,</i>
 <i>it essentially shortens the life!</i>","つまり
  
@@ -790,7 +790,7 @@ The number of cell divisions is fixed
  
 It is not dead if you fight
 I'm sorry
-.",0.16
+.",0.16,0.092130765
 <i>That action is...</i>,"(ｶﾌﾞﾄ)
 《はっ！
  
@@ -798,7 +798,7 @@ I'm sorry
 
 ","""Hey!
  
-That movement is ... """,0.25
+That movement is ... """,0.25,0.3197096
 <i>Come out!</i>,"(
 自来也
 )
@@ -808,17 +808,17 @@ That movement is ... """,0.25
 
 ","""Ku!
  
-Get out!""",0.18181818181818182
+Get out!""",0.18181818181818185,0.44657764
 Hurry!,"急ぎなさい！
 
-",hurry up!,0.6666666666666666
+",hurry up!,0.6666666666666666,0.85732275
 <i>like the rainbow after the storm</i>,"♬
  
 明日へ向かう風を感じてた
 
 ","♬
  
-I felt the wind towards tomorrow",0.14285714285714285
+I felt the wind towards tomorrow",0.14285714285714285,0.4043786
 "<i>Uh...like a shooting star,</i>
 <i>we do go ahead.</i>","♬
  
@@ -826,7 +826,7 @@ I felt the wind towards tomorrow",0.14285714285714285
 
 ","♬
  
-Like a rainbow after the rain",0.1
+Like a rainbow after the rain",0.1,0.2726186
 "The time to conclude this long, fateful
 confrontation has come, Orochimaru.","♬
  
@@ -836,7 +836,7 @@ confrontation has come, Orochimaru.","♬
 ","♬
  
 In this heart
-Bring the light",0.1111111111111111
+Bring the light",0.1111111111111111,0.2212148
 I will bring you down!,"♬
  
 ひとつの
@@ -845,4 +845,4 @@ I will bring you down!,"♬
 ","♬
  
 one
-I will be answered",0.2
+I will be answered",0.2,0.21073031

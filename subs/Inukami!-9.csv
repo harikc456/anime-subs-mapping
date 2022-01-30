@@ -1,281 +1,281 @@
-en_text,jp_text,google_translated,score
-[Episode 09 SIGNS],ふぁ～あ…,Fa ~ ...,0.0
-I wonder if Kaoru-sama will return soon.,薫様 早くお戻りにならないかしら…,Somewhat I will not return early ...,0.25
-Hey there!,やっほ～！,Yasha!,0.25
-Is everyone doing well?,だから～ みんな遊ぼっ！,So everyone is playing!,0.25
-So...,う… はっはは…,Uh ... Hahaha ...,0.25
-Oh?,えっ？,eh?,0.3333333333333333
-Don't come!,来るな～！,Don't come!,1.0
-Sekuhata!,ハハハハハゥ！,Hahaha ha ha!,0.25
-Youko!,え～っ！,Eh!,0.3333333333333333
-We have been waiting for your arrival.,お待ちしておりました,I have been waiting for you,0.4
-"Yes, Kaoru-sama has asked these two to take care of us during his absence.",はい　薫様が自分が留守の間,Yes Soya is during absention,0.10526315789473684
-I came here for you guys.,来てやったぞ,I came to come,0.2222222222222222
-That's how it is.,そういう事です…,That's the case ...,0.2222222222222222
-Haja Kenshou,はあ…,...,0.0
+en_text,jp_text,google_translated,score,semantic_score
+[Episode 09 SIGNS],ふぁ～あ…,Fa ~ ...,0.0,0.20341004
+I wonder if Kaoru-sama will return soon.,薫様 早くお戻りにならないかしら…,Somewhat I will not return early ...,0.25,0.33286592
+Hey there!,やっほ～！,Yasha!,0.25,0.36137897
+Is everyone doing well?,だから～ みんな遊ぼっ！,So everyone is playing!,0.25,0.46055356
+So...,う… はっはは…,Uh ... Hahaha ...,0.25,0.47337583
+Oh?,えっ？,eh?,0.3333333333333333,0.62964296
+Don't come!,来るな～！,Don't come!,1.0,0.9999998
+Sekuhata!,ハハハハハゥ！,Hahaha ha ha!,0.25,0.2002609
+Youko!,え～っ！,Eh!,0.3333333333333333,0.35592058
+We have been waiting for your arrival.,お待ちしておりました,I have been waiting for you,0.4,0.723902
+"Yes, Kaoru-sama has asked these two to take care of us during his absence.",はい　薫様が自分が留守の間,Yes Soya is during absention,0.10526315789473684,0.36181006
+I came here for you guys.,来てやったぞ,I came to come,0.2222222222222222,0.478628
+That's how it is.,そういう事です…,That's the case ...,0.2222222222222222,0.4311568
+Haja Kenshou,はあ…,...,0.0,0.1270117
 "I can't believe we're letting him, of all people, into the sacred mansion we share with Kaoru-sama!","よりによって あいつを薫様とボクたちの
 神聖な屋敷に入れるなんて！","By more than Zona and Boku
-Get into a sacred house!",0.10344827586206896
+Get into a sacred house!",0.10344827586206896,0.43879193
 This is not something I decided.,"これは わたくしが決めた事では
 ありません　薫様直々の指示","This is because I decided
-There is no Sami sensei",0.3333333333333333
-My brother and Souke-sama have already approved this as well.,お兄様や宗家様も了承済みなのです,My brother and the sect have also been released,0.25
+There is no Sami sensei",0.3333333333333333,0.2580214
+My brother and Souke-sama have already approved this as well.,お兄様や宗家様も了承済みなのです,My brother and the sect have also been released,0.25,0.33217555
 "Well, you've heard about the recent increase in peeping incidents by some nefarious being, haven't you?","ほら… 最近 この周辺で不届きな者による
 覗きが横行しているでしょう？","See ... Recently Annihe
-Is the peeping?",0.125
+Is the peeping?",0.125,0.6178732
 "If there is a man here, he can act as a deterrent.","男子がいれば
 その予防にもなるという訳か","If there is a boy
-In translain that he will be the prevention",0.23809523809523808
-We absolutely cannot allow it!,絶対ダメです～！,It is absolutely no good ~!,0.2727272727272727
-I won't be able to take a bath.,お風呂に入れないよ,I can not take a bath,0.3333333333333333
-We can't even change!,そこまで言わなくても…,Even if you don't say that ...,0.16666666666666666
-What to do? What to do?,ああっ？,Oh?,0.2
-"Everyone, it'll be all right.",みんな大丈夫だって！,Everyone is all right!,0.3
-That's what I'm here for.,その為に私がいるんじゃない,That's why I do not have,0.25
-Your room is located up ahead.,この先が啓太様のお部屋です,This ahead is a long room,0.3
-Let's play ball.,ねえねえ ボール遊びしよう！,Hey Hey Ball Play!,0.2857142857142857
-Okay!,オッケー！,Occee!,0.3333333333333333
-I-I'm sorry!,ご ごめんなさい…,I'm sorry ...,0.3333333333333333
-Oh... same here.,ああ… こっちこそ…,Oh ... this is ...,0.2857142857142857
-"""Boys' manga""?",男の子の… マンガ？,Boy's ... Manga?,0.2222222222222222
-N-No!,あっ！,Ah!,0.3333333333333333
-And? Is it?,な 何？ 何なの？,What is it?What's?,0.5
+In translain that he will be the prevention",0.2380952380952381,0.35267612
+We absolutely cannot allow it!,絶対ダメです～！,It is absolutely no good ~!,0.2727272727272727,0.18578757
+I won't be able to take a bath.,お風呂に入れないよ,I can not take a bath,0.3333333333333333,0.85290223
+We can't even change!,そこまで言わなくても…,Even if you don't say that ...,0.16666666666666666,0.16949612
+What to do? What to do?,ああっ？,Oh?,0.2,0.07824277
+"Everyone, it'll be all right.",みんな大丈夫だって！,Everyone is all right!,0.3,0.61470073
+That's what I'm here for.,その為に私がいるんじゃない,That's why I do not have,0.25,0.27482992
+Your room is located up ahead.,この先が啓太様のお部屋です,This ahead is a long room,0.3,0.6791933
+Let's play ball.,ねえねえ ボール遊びしよう！,Hey Hey Ball Play!,0.2857142857142857,0.64838153
+Okay!,オッケー！,Occee!,0.3333333333333333,0.41894275
+I-I'm sorry!,ご ごめんなさい…,I'm sorry ...,0.3333333333333333,0.6257914
+Oh... same here.,ああ… こっちこそ…,Oh ... this is ...,0.2857142857142857,0.36000055
+"""Boys' manga""?",男の子の… マンガ？,Boy's ... Manga?,0.2222222222222222,0.92940336
+N-No!,あっ！,Ah!,0.3333333333333333,0.31120893
+And? Is it?,な 何？ 何なの？,What is it?What's?,0.5,0.445862
 "Umm, just now... that wasn't it.","あの… 今のは… 違います
 私がいけないのです…","That ... now ... difference
-I don't have ...",0.2857142857142857
+I don't have ...",0.2857142857142857,0.29418415
 It was my fault.,"啓太 セクハタしたら
 即退場と決まったから","Once you have
-Because it was decided immediately",0.18181818181818182
-"Like I just said, what is this?",だから何なの？,So what?,0.2
-"Note: ""Sekuhara"" is short for ""sexual harassment.""",セクハタ？ ああ…　セクハラのことね,Sexual Hata?Oh ... Sexual harassment,0.13333333333333333
-Please be magnanimous.,ごかんじょください,Please give me,0.16666666666666666
+Because it was decided immediately",0.18181818181818185,0.19630533
+"Like I just said, what is this?",だから何なの？,So what?,0.2,0.2626945
+"Note: ""Sekuhara"" is short for ""sexual harassment.""",セクハタ？ ああ…　セクハラのことね,Sexual Hata?Oh ... Sexual harassment,0.13333333333333333,0.48905936
+Please be magnanimous.,ごかんじょください,Please give me,0.16666666666666666,0.32704353
 "So in other words, I can stay here as\Nlong as I don't sexually harass anyone.","要するに セクハラしなければ
 ここにいられるんだよな… 了解！","If you do not have sexual harassment
-It can be done here ... OK!",0.10344827586206896
+It can be done here ... OK!",0.10344827586206896,0.50084114
 Yay!,"-ヤッター！
 -よしっ！","- Yatter!
-- Yo!",0.2
-"Even if there is no physical contact,",直接的な行動がなくても,Even if there is no direct action,0.5
-"Yes, I did.",り・ょ・う・か・い…って言ったよね,"I said, ...",0.2857142857142857
-"Well, then it's settled.",じゃあ そういう事で,Well then,0.2857142857142857
+- Yo!",0.2,0.37217808
+"Even if there is no physical contact,",直接的な行動がなくても,Even if there is no direct action,0.5,0.54385144
+"Yes, I did.",り・ょ・う・か・い…って言ったよね,"I said, ...",0.2857142857142857,0.32881758
+"Well, then it's settled.",じゃあ そういう事で,Well then,0.2857142857142857,0.4731872
 I'll set a trap for Keita right away and take him home.,"うっふふふ… さっさと啓太を罠にはめて
 連れて帰るんだから","Upret Fufu ... Take a habits
-I'm going back to",0.13636363636363635
+I'm going back to",0.13636363636363635,0.10705511
 This is worse than being the away team in soccer.,"はぁ…
 サッカーのアウェイよりひでえよ！","...
-Soccer away from the away!",0.21428571428571427
-This is my swimsuit.,お芝居だよ,It is a play,0.125
-That's so cute!,ビ ビキニ！ 私 そんな かっ んんっ…,Bikini!I like that ...,0.2222222222222222
+Soccer away from the away!",0.21428571428571427,0.6493844
+This is my swimsuit.,お芝居だよ,It is a play,0.125,0.14788589
+That's so cute!,ビ ビキニ！ 私 そんな かっ んんっ…,Bikini!I like that ...,0.2222222222222222,0.29176039
 I prefer a sporty school swimsuit myself.,"やっぱり僕は スポーティーなスク水だよね
 いぐさのビキニも似合ってるよ","After all I am a sporty scrub water
-The bikini of the right is also good",0.15
+The bikini of the right is also good",0.15,0.54199976
 Bi-Bikini?!,"-うわぁ～！
 -ん？","-How!
--Hmm?",0.4
-"Oh, yes.",あっ… はい,Oh ... yes,0.4
-Scanties...,スキャンティ…,Scani ...,0.3333333333333333
-Strings...,ヒモ…,Southern ...,0.3333333333333333
-Women's Bath,なんだか悪いですわ,It's bad,0.2
-"""Boobs""?",おっぱい？,tits?,0.2
-"You're the type that looks slender when you wear clothes, huh?",着やせするタイプなんだ～,It is a type to wear,0.11764705882352941
+-Hmm?",0.4,0.20943971
+"Oh, yes.",あっ… はい,Oh ... yes,0.4,0.7525514
+Scanties...,スキャンティ…,Scani ...,0.3333333333333333,0.63352674
+Strings...,ヒモ…,Southern ...,0.3333333333333333,0.20325854
+Women's Bath,なんだか悪いですわ,It's bad,0.2,0.0650162
+"""Boobs""?",おっぱい？,tits?,0.2,0.6033673
+"You're the type that looks slender when you wear clothes, huh?",着やせするタイプなんだ～,It is a type to wear,0.1176470588235294,0.43897784
 Can I touch them?,"そういう ようこだって美乳だよね
 触っていい？","That's why it's beautiful and beautiful
-May I touch?",0.25
+May I touch?",0.25,0.45205384
 "Ah, it's paradise.","もみもみ… もみもみ…
 あ～ やわらか～い わははっ","Momomi ... Momomi ...
-Oh, it's soft ~",0.2727272727272727
-Where's Keita?,啓太は？,What is Keita?,0.3333333333333333
-He's not committing sekuhata at all.,全然 せくはたしないね,I can't even do it at all,0.14285714285714285
-He doesn't look like such a bad person.,そんな悪い人には見えませんよ,I can not see it for such a bad person,0.25
+Oh, it's soft ~",0.2727272727272727,0.120185
+Where's Keita?,啓太は？,What is Keita?,0.3333333333333333,0.83418703
+He's not committing sekuhata at all.,全然 せくはたしないね,I can't even do it at all,0.14285714285714285,0.12287171
+He doesn't look like such a bad person.,そんな悪い人には見えませんよ,I can not see it for such a bad person,0.25,0.61605334
 That's right.,"そうです 啓太様だって
 理性ぐらいあるのですよ","That's right.
-It is about reason",0.5
-You guys are wrong!,違うよ！,No!,0.16666666666666666
-You say that because you haven't seen the real him!,本当の彼を見ていないからだよ！,I'm not looking at a real him!,0.17647058823529413
-Like running around the inn naked.,裸で旅館を走り回ったり！,Run around the inn with naked!,0.4
+It is about reason",0.5,0.42217714
+You guys are wrong!,違うよ！,No!,0.16666666666666666,0.31202018
+You say that because you haven't seen the real him!,本当の彼を見ていないからだよ！,I'm not looking at a real him!,0.17647058823529413,0.6920964
+Like running around the inn naked.,裸で旅館を走り回ったり！,Run around the inn with naked!,0.4,0.79596645
 "And at the hot spring, he looked at me and Igusa with perverted eyes countless times!","温泉ではエッチな目でボクも
 いぐさも何度も見られたんだから！","In the hot spring, I am a naughty eye
-Because I was able to see it many times!",0.20689655172413793
-Looks like the bait wasn't good enough.,餌が悪かったみたいね…,It seems that the food was bad ...,0.13333333333333333
-Why must I do this?,はあ… どうして私が…,Has ... why I am ...,0.2222222222222222
-So you need to cooperate as well.,だから あんたも協力しなさい！,So cooperate!,0.2222222222222222
-About what?,キャッ… え？ 何が？,Ca ... Eh?what?,0.3333333333333333
-What's wrong?,どうしたの？ 啓太？,What's wrong?Keita?,0.8
-Come out now.,出てきなさい,Come out,0.5
-"You've noticed me, haven't you?",気付かれていたのですね,You were noticed,0.2222222222222222
+Because I was able to see it many times!",0.20689655172413796,0.619275
+Looks like the bait wasn't good enough.,餌が悪かったみたいね…,It seems that the food was bad ...,0.13333333333333333,0.4449968
+Why must I do this?,はあ… どうして私が…,Has ... why I am ...,0.2222222222222222,0.23093426
+So you need to cooperate as well.,だから あんたも協力しなさい！,So cooperate!,0.2222222222222222,0.5882029
+About what?,キャッ… え？ 何が？,Ca ... Eh?what?,0.3333333333333333,0.22987244
+What's wrong?,どうしたの？ 啓太？,What's wrong?Keita?,0.8,0.4240441
+Come out now.,出てきなさい,Come out,0.5,0.70430195
+"You've noticed me, haven't you?",気付かれていたのですね,You were noticed,0.2222222222222222,0.43851006
 And right now I am shivering with joy.,"はい！ 今 私は喜びに
 打ち震えております","Yes!Now I am joy
-I'm a big deal",0.26666666666666666
+I'm a big deal",0.26666666666666666,0.4976512
 You are the first person in this mansion to notice me.,"この屋敷で私に気付いたのは
 あなた様が始めてです","I noticed me in this mansion
-You are starting",0.4
-You seem to be different from all the others.,あなたは特別なようだ,You seem to be special,0.36363636363636365
-"If I recall correctly, this guy is...",うふふふ…　用心していたもので,Ufufufu ... I was in my heart,0.14285714285714285
-"Oh, you are the lady from some time ago.",ほぅ～　あなたはいつぞやの…,Hm ~ You are ausa ...,0.13333333333333333
+You are starting",0.4,0.80939037
+You seem to be different from all the others.,あなたは特別なようだ,You seem to be special,0.3636363636363637,0.5502988
+"If I recall correctly, this guy is...",うふふふ…　用心していたもので,Ufufufu ... I was in my heart,0.14285714285714285,0.18629123
+"Oh, you are the lady from some time ago.",ほぅ～　あなたはいつぞやの…,Hm ~ You are ausa ...,0.13333333333333333,0.2913565
 Then the rumored peeping tom around here is...,"それじゃ この周辺で
 騒ぎになっている覗き魔って！","Well then around here
-I'm a fuss!",0.2
-"Oui, mademoiselle.",ウィ マドモアゼル,Wimadomozelle,0.0
+I'm a fuss!",0.2,0.31186855
+"Oui, mademoiselle.",ウィ マドモアゼル,Wimadomozelle,0.0,0.42592475
 That is my style.,"心配ご無用 バレた場所には二度と
 現れない それが私の流儀ですから","There is a worried place to a place
-I do not appear because it is my style",0.1875
-Take care.,どうも…,Thanks…,0.0
-Shukuchi!,ああっ！,Oh!,0.3333333333333333
+I do not appear because it is my style",0.1875,0.34134805
+Take care.,どうも…,Thanks…,0.0,0.25822785
+Shukuchi!,ああっ！,Oh!,0.3333333333333333,0.25913072
 Well? Will you be able to catch me?,"だ～っははははっ～
 さあ 捕まえられますか？","It's a haze ~
-Could you catch it?",0.2
-"My, my...",あららっ… しゅくちです,Oh ...,0.25
-Perhaps using shukuchi?,はっ ああ？,Hahaha?,0.2
-Excuse me.,失礼…,impoliteness…,0.0
-106!,106！,106!,1.0
-"Desire purging, 107!",煩悩退散 107！　煩悩退散 108！,Thermal lust break 107!Thermal tightness 108!,0.2
-"Desire purging, 109!",煩悩退散 109！　煩悩…,Thinking with troubles 109!Thinking ...,0.2222222222222222
-No! Don't come near me!,いやっ！ こないで！,I'm sorry!Do not come!,0.2727272727272727
-Igusa!,いぐさ！,Tomorrow!,0.3333333333333333
-You're...!,お前は！,You are!,0.4
-Long time no see.,おお 同志よ お久しぶりです,"Oh, it's been a long time no see",0.36363636363636365
-Our meeting at the holding cell...,あなた様との留置場での出会い,Encounter at the inappropriation place with you,0.16666666666666666
+Could you catch it?",0.2,0.41605496
+"My, my...",あららっ… しゅくちです,Oh ...,0.25,0.22809851
+Perhaps using shukuchi?,はっ ああ？,Hahaha?,0.2,0.1184305
+Excuse me.,失礼…,impoliteness…,0.0,0.2788257
+106!,106！,106!,1.0,1.0
+"Desire purging, 107!",煩悩退散 107！　煩悩退散 108！,Thermal lust break 107!Thermal tightness 108!,0.2,0.40035778
+"Desire purging, 109!",煩悩退散 109！　煩悩…,Thinking with troubles 109!Thinking ...,0.2222222222222222,0.48627552
+No! Don't come near me!,いやっ！ こないで！,I'm sorry!Do not come!,0.2727272727272727,0.66090983
+Igusa!,いぐさ！,Tomorrow!,0.3333333333333333,0.2872853
+You're...!,お前は！,You are!,0.4,0.684726
+Long time no see.,おお 同志よ お久しぶりです,"Oh, it's been a long time no see",0.3636363636363637,0.7631132
+Our meeting at the holding cell...,あなた様との留置場での出会い,Encounter at the inappropriation place with you,0.16666666666666666,0.33174765
 This man is not an ordinary person.,"あの時から私は感じておりました
 この方は只者ではない","I felt since that time
-This person is not a person",0.2857142857142857
+This person is not a person",0.2857142857142857,0.4578623
 I-It's a misunderstanding!,"ごご 誤解だ！　だからあれは
 こいつがしゅくちで！ なあ？","It is a misunderstanding!That's because
-This guy is a shug!Na?",0.2857142857142857
-"Keita's so famous, isn't he?",啓太って有名人なんだね～,Keita is a celebrity ~,0.16666666666666666
-Why are you playing dumb like that?!,どうして そうボケるか！,Why do you really want to bokeh!,0.21428571428571427
-With great respect for you...,んん…,...,0.16666666666666666
+This guy is a shug!Na?",0.2857142857142857,0.41869372
+"Keita's so famous, isn't he?",啓太って有名人なんだね～,Keita is a celebrity ~,0.16666666666666666,0.8689872
+Why are you playing dumb like that?!,どうして そうボケるか！,Why do you really want to bokeh!,0.21428571428571427,0.20160505
+With great respect for you...,んん…,...,0.16666666666666666,0.3492657
 "We refer to you as the naked king, Raou.","あなた様を裸の王様…
 “裸王”と呼んでおります","You are naked by you ...
-I am calling the ""Naked Cong""",0.15
-May I introduce you?,紹介してもよろしいでしょうか？,May I introduce it?,0.6666666666666666
-"Yes, to my comrades here.",はい　ここにいる同志に　親方！,Yes I'm familiar with the comrades here!,0.23076923076923078
-My underwear!,いや～っ！ 私の下着！,No!My underwear!,0.75
-This here is product number B2987H by Company T.,こいつはＴ社の製品番号 Ｂの2987Ｈ,This guy is T company's product number B 2987H,0.42857142857142855
+I am calling the ""Naked Cong""",0.15,0.52164614
+May I introduce you?,紹介してもよろしいでしょうか？,May I introduce it?,0.6666666666666666,0.79432887
+"Yes, to my comrades here.",はい　ここにいる同志に　親方！,Yes I'm familiar with the comrades here!,0.2307692307692308,0.7006117
+My underwear!,いや～っ！ 私の下着！,No!My underwear!,0.75,0.8284104
+This here is product number B2987H by Company T.,こいつはＴ社の製品番号 Ｂの2987Ｈ,This guy is T company's product number B 2987H,0.42857142857142855,0.7890858
 Its chief characteristic is the great\Nwater absorption of the cotton material.,"吸水性のいい綿素材が特徴
 よって つけ心地さわやか","Water-absorbent cotton material features
-By the way, it is refreshing",0.2222222222222222
-"Non, non.",う～ん いい仕事しやがるぜ,"Hmm, I will work good",0.125
+By the way, it is refreshing",0.2222222222222222,0.6797973
+"Non, non.",う～ん いい仕事しやがるぜ,"Hmm, I will work good",0.125,0.04271284
 Boss is a lingerie artist.,"ノンノン
 親方はランジェリーアーティストです","Non-no
-Dristers are lingerie artists",0.1
+Dristers are lingerie artists",0.1,0.515101
 I'm sorry for being dressed like this.,"こんな… 格好ですみません
 なんなりと叱って下さい…","This ... I'm not good
-Please scold it up ...",0.1875
-Please scold me!,いやぁ～っ！,No!,0.2
-"Like I said, it's a misunderstanding!",だから！ 誤解だ！ 濡れ衣だ！,that's why!I'm misunderstood!It is a wet clothes!,0.3125
-"Yep, a big misunderstanding.",うん 大きな誤解,Yeah big misunderstanding,0.2857142857142857
-Mention that earlier!,それを早く言えよ！,I can say that quickly!,0.25
+Please scold it up ...",0.1875,0.26208484
+Please scold me!,いやぁ～っ！,No!,0.2,0.31228182
+"Like I said, it's a misunderstanding!",だから！ 誤解だ！ 濡れ衣だ！,that's why!I'm misunderstood!It is a wet clothes!,0.3125,0.30530104
+"Yep, a big misunderstanding.",うん 大きな誤解,Yeah big misunderstanding,0.2857142857142857,0.8309902
+Mention that earlier!,それを早く言えよ！,I can say that quickly!,0.25,0.44388905
 But it was interesting seeing you all flustered like that.,"だって オロオロする啓太が
 面白かったから　べーッ","Because it is a long time to go to Oolo
-Because it was interesting he",0.15
-You...,おまえな…,You are ...,0.6666666666666666
-"You think so too, right?",そう思うだろ？ あ？,Do you think so?a?,0.4444444444444444
+Because it was interesting he",0.15,0.21614635
+You...,おまえな…,You are ...,0.6666666666666666,0.5766442
+"You think so too, right?",そう思うだろ？ あ？,Do you think so?a?,0.4444444444444444,0.5723984
 That graceful and cold look of yours...,"端正で冷たい顔立ち
 虫をみるようなその冷たい瞳","Cold face standing at the end
-That cold eyes that look at insects",0.2
+That cold eyes that look at insects",0.2,0.44563183
 "Youko-san, my M is reacting to your S!","ようこさん！
 僕のＭがあなたのＳに反応します","Good morning!
-My M will respond to your S",0.42857142857142855
-All three of you quit screwing around!,三人揃って いい加減にしろぉぉ～！,It's all three people!,0.2727272727272727
-Jaen!,じゃえん～！,Well!,0.3333333333333333
-The underwear!,下着が～！,Underwear!,0.6666666666666666
-"It's hot, but it feels so good!",熱いけどっ 気持ちいい～！,It's hot but it feels good!,0.7777777777777778
-"Oh, my bad.",あ～たたたたっ… あ…,"Oh, Tatsu ... Oh ...",0.2857142857142857
-"It's important, right?",大事なんだろう？,Is it important?,0.42857142857142855
-Umm... yes.,あっ はい…,Yes ...,0.5
-Perhaps he's not such a bad person after all.,そんなに悪い人ではないのかも…,It may not be such a bad person ...,0.3333333333333333
-"But that was really cool, wasn't it?",でも あれ カッコ良かったよね～,But it was cool,0.4444444444444444
-"Yeah, yeah! It was amazing!",うんうん　凄かったのだぁ！,It was ugly!,0.42857142857142855
-Then that super catch!,スーパーキャッチ！,Super catch!,0.6
-"Igusa, what did you think of him?",いぐさ あなたはどう思いましたか？,What did you think of?,0.6666666666666666
-Well... umm...,いぐいぐの漫画を…,Top Cartoon ...,0.2
+My M will respond to your S",0.42857142857142855,0.5358082
+All three of you quit screwing around!,三人揃って いい加減にしろぉぉ～！,It's all three people!,0.2727272727272727,0.4803954
+Jaen!,じゃえん～！,Well!,0.3333333333333333,0.3016794
+The underwear!,下着が～！,Underwear!,0.6666666666666666,0.8779795
+"It's hot, but it feels so good!",熱いけどっ 気持ちいい～！,It's hot but it feels good!,0.7777777777777778,0.97941643
+"Oh, my bad.",あ～たたたたっ… あ…,"Oh, Tatsu ... Oh ...",0.2857142857142857,0.20765774
+"It's important, right?",大事なんだろう？,Is it important?,0.42857142857142855,0.7703714
+Umm... yes.,あっ はい…,Yes ...,0.5,0.5834069
+Perhaps he's not such a bad person after all.,そんなに悪い人ではないのかも…,It may not be such a bad person ...,0.3333333333333333,0.70179003
+"But that was really cool, wasn't it?",でも あれ カッコ良かったよね～,But it was cool,0.4444444444444444,0.6894036
+"Yeah, yeah! It was amazing!",うんうん　凄かったのだぁ！,It was ugly!,0.42857142857142855,0.2988497
+Then that super catch!,スーパーキャッチ！,Super catch!,0.6,0.72938
+"Igusa, what did you think of him?",いぐさ あなたはどう思いましたか？,What did you think of?,0.6666666666666666,0.40953216
+Well... umm...,いぐいぐの漫画を…,Top Cartoon ...,0.2,0.18179657
 "To be honest, I don't really know as well.","え？ えっと… その…
 私にも正直な所 判りません…","picture?Well ... that ...
-I do not know him honestly ...",0.21052631578947367
-You see?,ほらね！,you see!,0.5
+I do not know him honestly ...",0.21052631578947367,0.2890236
+You see?,ほらね！,you see!,0.5,0.77886915
 But it isn't very easy to do\Nsomething like that for others.,"人の為になかなか
 ああいう事は出来ません","It is quite easy for people
-Oh, I can not do something",0.18181818181818182
+Oh, I can not do something",0.18181818181818185,0.73103046
 "Like chocolate is made of cacao fruits, Keita is made of pervertedness.","チョコレートがカカオの実から出来てるように
 啓太はエッチから出来てるんだから！","As chocolate is made from cacao fruit
-Keita is made from etch!",0.3125
+Keita is made from etch!",0.3125,0.7749719
 "Youko-san, don't you think you've gone a bit too far?","ようこさん…
 少し言い過ぎではありませんか？","Good morning ...
-Isn't it too much?",0.15789473684210525
-What do you mean? It's the truth!,何よ！ 本当の事だもん！,What!The real thing!,0.25
+Isn't it too much?",0.15789473684210525,0.25155815
+What do you mean? It's the truth!,何よ！ 本当の事だもん！,What!The real thing!,0.25,0.3161866
 "To be an inukami that works for humans, and to talk that way about your master...","人に仕える犬神として
 ご主人様に対してそこまで","As a dog god that serves people
-To the husband",0.08333333333333333
-But!,んんっ！,!,0.5
-There we go.,すみません　どうにも力が足りなくて,"Sorry, there is no enough power",0.1
-Just leave it to me!,任せて任せて！,Leave it and leave it!,0.42857142857142855
-"Yes, thank you very much.",ありがとうございます,thank you,0.2857142857142857
-We grew all of this.,これは私たちが栽培したんですよ～,This is we cultivated ~,0.2222222222222222
-I'm next!,う～ん 次 私～,Wow Next I ~,0.3333333333333333
-Desire purging!,うわぁ～！,Wow!,0.25
-Thank you for the meal!,いただきまぁ～す！,Thank you!,0.5
-It's delicious!,う～ん 美味しい～！,"Well, delicious ~!",0.2857142857142857
-They don't know a thing about him...,何さ… みんな何も知らないくせに,What do you do ... everyone know nothing,0.23076923076923078
-That was fun!,楽しかった～ ボンノウタイサン！,It was fun ~ Bonnou Tai San!,0.3333333333333333
-That's great to hear.,あれ… ようこ？,That's ...,0.2857142857142857
-Yeah... I'm kind of tired.,うん なんか疲れちゃった　じゃあね,Yeah I'm tired,0.5
+To the husband",0.08333333333333333,0.30312416
+But!,んんっ！,!,0.5,0.63514596
+There we go.,すみません　どうにも力が足りなくて,"Sorry, there is no enough power",0.1,0.15922816
+Just leave it to me!,任せて任せて！,Leave it and leave it!,0.42857142857142855,0.7136896
+"Yes, thank you very much.",ありがとうございます,thank you,0.2857142857142857,0.36530164
+We grew all of this.,これは私たちが栽培したんですよ～,This is we cultivated ~,0.2222222222222222,0.5515837
+I'm next!,う～ん 次 私～,Wow Next I ~,0.3333333333333333,0.59262913
+Desire purging!,うわぁ～！,Wow!,0.25,0.17843746
+Thank you for the meal!,いただきまぁ～す！,Thank you!,0.5,0.45693552
+It's delicious!,う～ん 美味しい～！,"Well, delicious ~!",0.2857142857142857,0.6985099
+They don't know a thing about him...,何さ… みんな何も知らないくせに,What do you do ... everyone know nothing,0.2307692307692308,0.3994939
+That was fun!,楽しかった～ ボンノウタイサン！,It was fun ~ Bonnou Tai San!,0.3333333333333333,0.4736321
+That's great to hear.,あれ… ようこ？,That's ...,0.2857142857142857,0.19272304
+Yeah... I'm kind of tired.,うん なんか疲れちゃった　じゃあね,Yeah I'm tired,0.5,0.7572275
 I chased Youko out!,"やった～っ！ ようこを追い返したぞ！
 うひゃひゃひゃひゃ～","I did!I'm chatting back!
-Uhyahyahyahya ~",0.18181818181818182
-It was painful!,タッタッタッタッ… 辛かった～！,Tattagetta ... it was hot!,0.42857142857142855
-I'll gain some time in front of the cute girls!,可愛い女の子の前で自分を取り繕うの,Take care of yourself in front of a cute girl,0.23529411764705882
+Uhyahyahyahya ~",0.18181818181818185,0.3216045
+It was painful!,タッタッタッタッ… 辛かった～！,Tattagetta ... it was hot!,0.42857142857142855,0.3812198
+I'll gain some time in front of the cute girls!,可愛い女の子の前で自分を取り繕うの,Take care of yourself in front of a cute girl,0.2352941176470588,0.6173011
 I'll look at all the nice bodies and be healed!,"みんなのナイスバディーを
 拝んで癒されるぞ～","Everyone's nice buddy
-It will be healed by worship ~",0.15
+It will be healed by worship ~",0.15,0.6179739
 "Everyone, let's wash each others' backs!","おお～っ！ ハーレム発見！
 みんなお背中流しっこしよう！","Oh!Harem discovery!
-Everyone Let's go back back!",0.26666666666666666
-I'm coming in!,なに～！,Nome!,0.16666666666666666
-Youko?! Why are you here?!,ようこ どうして？ ハッ！,Why?Ha!,0.375
-Keita-sama...,啓太様…,Keizawa ...,0.3333333333333333
-"Youko-san, thank you for your hard work.",ようこさん お疲れ様でした,Thank you very much,0.18181818181818182
-"Well then, shall we have you repent?",さてと ザンゲしてもらいますか,"Well, do you have Sangget?",0.45454545454545453
-"Keita, prepare yourself!",啓太あああ！ 覚悟～！,Keita ah!Get ready!,0.25
-You beast!,ケダモノ～！,Kedamono-!,0.25
-"Well, let's go.",さっ 行くよ,I will go,0.125
-Y-Yes...,は はい…,Yes ...,0.3333333333333333
-Thank you very much.,あ… ありがとうございました,Oh ... Thank you very much,0.5714285714285714
-"Yeah, we have to admit that much.",うん そこは認めないと,Yeah I do not admit there,0.15384615384615385
-I wonder if he'll visit again.,また来ないかな～,I will not come again ~,0.16666666666666666
-I want to eat his yakisoba again!,また焼きそば食べたいです,I want to eat soba soba again,0.5555555555555556
+Everyone Let's go back back!",0.26666666666666666,0.28635526
+I'm coming in!,なに～！,Nome!,0.16666666666666666,0.30207792
+Youko?! Why are you here?!,ようこ どうして？ ハッ！,Why?Ha!,0.375,0.3165785
+Keita-sama...,啓太様…,Keizawa ...,0.3333333333333333,0.4989231
+"Youko-san, thank you for your hard work.",ようこさん お疲れ様でした,Thank you very much,0.18181818181818185,0.29664823
+"Well then, shall we have you repent?",さてと ザンゲしてもらいますか,"Well, do you have Sangget?",0.4545454545454545,0.12556627
+"Keita, prepare yourself!",啓太あああ！ 覚悟～！,Keita ah!Get ready!,0.25,0.7868084
+You beast!,ケダモノ～！,Kedamono-!,0.25,0.13544191
+"Well, let's go.",さっ 行くよ,I will go,0.125,0.3332954
+Y-Yes...,は はい…,Yes ...,0.3333333333333333,0.5469357
+Thank you very much.,あ… ありがとうございました,Oh ... Thank you very much,0.5714285714285714,0.5993449
+"Yeah, we have to admit that much.",うん そこは認めないと,Yeah I do not admit there,0.15384615384615385,0.61158407
+I wonder if he'll visit again.,また来ないかな～,I will not come again ~,0.16666666666666666,0.40471217
+I want to eat his yakisoba again!,また焼きそば食べたいです,I want to eat soba soba again,0.5555555555555556,0.5453552
 "Well, many things happened this\Ntime around, but plus minus zero...","まあ 今回の件では色々ありましたけど
 プラスマイナスゼロ…","Well there were various things in this case
-Plus Mainus Zero ...",0.2631578947368421
+Plus Mainus Zero ...",0.2631578947368421,0.42547625
 "No, I'll leave it at negative two.","いえ マイナス２ぐらいに
 しておきましょう","No minus 2
-Let's do it",0.13333333333333333
-You're so harsh!,厳しい～,Tough,0.0
+Let's do it",0.13333333333333333,0.629795
+You're so harsh!,厳しい～,Tough,0.0,0.31832966
 "But you know, it's something like skinship to me.","まあ 俺にとっては
 スキンシップみたいなもんなんだけどな","Well for me
-It's like a skinship",0.3333333333333333
-I see... But I'm relieved.,アッハハハッ…,Ahha Ha ...,0.1111111111111111
-Of what?,何が？,what?,0.6666666666666666
+It's like a skinship",0.3333333333333333,0.81764513
+I see... But I'm relieved.,アッハハハッ…,Ahha Ha ...,0.1111111111111111,0.26197296
+Of what?,何が？,what?,0.6666666666666666,0.5472447
 Is that an official approval from Youko?!,"なにっ！ それじゃ これからは
 ようこ公認か？ 浮気 ＯＫ？","What!Well then from now on
-Is it a good idea?Cheating OK?",0.2
-Cheating is okay!,どわっ！,Somewhat!,0.2
-Idiot...,え～いっ！ バーカ！,Eh!idiot!,0.25
-Oh! How honorable of you!,おお 何と義理堅い！,Oh yesterday hard!,0.25
+Is it a good idea?Cheating OK?",0.2,0.15687585
+Cheating is okay!,どわっ！,Somewhat!,0.2,0.22912228
+Idiot...,え～いっ！ バーカ！,Eh!idiot!,0.25,0.75123817
+Oh! How honorable of you!,おお 何と義理堅い！,Oh yesterday hard!,0.25,0.2881173
 "That's so nice of you, Raou-san!","だから！ お前達の仲間じゃ
 ないんだってのぉ～！","that's why!In your friends
-There is no choice!",0.17647058823529413
-I have nothing to do with you guys!,あれもこれも みんな欲しくなるの,I also want everyone to do this,0.23076923076923078
+There is no choice!",0.17647058823529413,0.09953666
+I have nothing to do with you guys!,あれもこれも みんな欲しくなるの,I also want everyone to do this,0.2307692307692308,0.18559155
 Cherry blossoms are flowers that the Japanese are very familiar with.,"桜は 日本人がもっとも親しみを
 持っている花である","Cherry blossoms are the most familiar Japanese
-It is a flower you have",0.3333333333333333
-These cherry blossoms have been planted since the Nara era.,奈良時代から栽植されてきたこの桜,This cherry blossoms have been planted from the Nara era,0.6153846153846154
+It is a flower you have",0.3333333333333333,0.91794175
+These cherry blossoms have been planted since the Nara era.,奈良時代から栽植されてきたこの桜,This cherry blossoms have been planted from the Nara era,0.6153846153846154,0.92534894
 "At the time, it was said that the deity of rice fields would make its appearance where this flower blooms.","当時は田畑の神が来臨する花として信仰
 占いのために植えられることが多かった","At that time, the faith is a flower that the god of the field
-It was often planted for horoscope",0.3
+It was often planted for horoscope",0.3,0.62100816
 To love the cherry blossom means to wish for the five grains to prosper,"桜を愛でるということは
 五穀豊穣を願うと同時に","To love cherry blossoms
-At the same time as I hope for five grain rich harvest",0.2857142857142857
+At the same time as I hope for five grain rich harvest",0.2857142857142857,0.80900544
 What beautiful behavior.,"愛しき人に思いを馳せる
 美しい行為なのである","Love people
-It is a beautiful act",0.1
-Next time on Inukami!,次回 いぬかみっ！,Next time!,0.6
+It is a beautiful act",0.1,0.5452703
+Next time on Inukami!,次回 いぬかみっ！,Next time!,0.6,0.5539328

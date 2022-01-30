@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.7113179
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.86280525
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207105
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.65410954
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.38045898
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851642
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.40009782
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.5800125
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.3699327
 "Hey, Pervy Sage. What Jutsu are you
 gonna teach me this time?","一体
  
@@ -111,13 +111,13 @@ gonna teach me this time?","一体
 Next time
 Any
  
-Tell me ~?",0.14285714285714285
+Tell me ~?",0.14285714285714285,0.14002396
 "The last time was Walk on Water Jutsu,
 so is it gonna be Walk on Fire Jutsu?","この前は
 水面歩行の術だったから➡
 
 ","previously
-Because it was the surgery of water surface walking",0.17391304347826086
+Because it was the surgery of water surface walking",0.17391304347826084,0.34048083
 "Hurry up and tell me, Pervy Sage!","アハッ
  
 早く教えてくれってばよ
@@ -130,7 +130,7 @@ Because it was the surgery of water surface walking",0.17391304347826086
 If you tell me early
 Hoped
  
-Erotic Sennin!",0.1875
+Erotic Sennin!",0.1875,0.19230857
 "So you have no idea that
 I'm a superb person, huh?","お前
  
@@ -144,7 +144,7 @@ I'm a superb person, huh?","お前
 Wow
  
 It is a great person
-You're notifying you?",0.2
+You're notifying you?",0.2,0.44100398
 Huh...? A superb Pervy Sage?,"え？
  
 すっごいエロ仙人？
@@ -159,24 +159,24 @@ Huh...? A superb Pervy Sage?,"え？
 A great erotic sannin?
 
 Uey ...
-.",0.23076923076923078
+.",0.2307692307692308,0.23282294
 Nhaagh... Listen carefully!,"それとも…
 ｡
 
 ","Or ...
-.",0.14285714285714285
+.",0.14285714285714285,0.2598851
 Toad Sage is only a disguise!,"ガマの仙人とは仮の姿！➡
 
-",Gama's Sennin is a temporary appearance!➡,0.23076923076923078
+",Gama's Sennin is a temporary appearance!➡,0.2307692307692308,0.33501914
 North and South and East and West!,"北に南に西東！
 
-",West East south of the north!,0.625
+",West East south of the north!,0.625,0.7852998
 Such a stud!,"白髪童子ガマ使い！
 
-",Using a white haired child girl!,0.2222222222222222
+",Using a white haired child girl!,0.2222222222222222,0.24868941
 "I am no other than ""Master Jiraiya""!","斉天かなわぬ三忍の➡
 
-",Saiku Nittaru no Saiko,0.07692307692307693
+",Saiku Nittaru no Saiko,0.07692307692307693,0.31597468
 "Atafuku Town?
 That's ten kilometers from here!","あのさ
  
@@ -194,7 +194,7 @@ Ah!
 That
  
 Ah!
-Erotic Sennin!",0.15384615384615385
+Erotic Sennin!",0.15384615384615385,0.1902352
 "It's ""O"" tafuku Town!","｢
 あ…
  
@@ -211,7 +211,7 @@ Haruka Machi
 ""
 10 km
 It is
-.",0.2
+.",0.2,0.3870802
 that I'm potentially a genius?,"旅のお供に俺
  
 連れてくってのは
@@ -224,7 +224,7 @@ that I'm potentially a genius?,"旅のお供に俺
 Take the
 After all
  
-Is it that time?",0.2222222222222222
+Is it that time?",0.2222222222222222,0.12047594
 "Hey! Hey! Hey!
 Why did you choose me?","ウハハ～！
  
@@ -246,7 +246,7 @@ why
  
 me
  
-Did you choose?",0.8
+Did you choose?",0.8,0.8311687
 "A long time ago
 the Fourth Hokage was my disciple.","わしはな
  
@@ -262,7 +262,7 @@ long ago
  
 Fourth generation
 I am a disciple
-.",0.375
+.",0.375,0.6387302
 "And you resemble the Fourth Hokage
 so much, it's almost funny.","そんで
  
@@ -278,7 +278,7 @@ You are
  
 In the fourth generation
 It looks like it's interesting
-.",0.35
+.",0.35,0.43912917
 That's the only reason...,"まぁ
  
 そんだけの理由だっての
@@ -287,18 +287,18 @@ That's the only reason...,"まぁ
 ","Maic
  
 That's why
-.",0.2222222222222222
+.",0.2222222222222222,0.3099451
 I...?,"俺が…➡
 
-",I ... ➡,0.5
+",I ... ➡,0.5,0.49774414
 The Fourth Hokage...?,"四代目に…
 ｡
 
 ","At the fourth generation ...
-.",0.375
+.",0.375,0.37882236
 Yeah! Yeah!,"うっしゃ～！
 
-",Uta!,0.3333333333333333
+",Uta!,0.3333333333333333,0.2622569
 "I'll become the Hokage, after all!
 All right!","やっぱ
  
@@ -308,14 +308,14 @@ All right!","やっぱ
 ","After all
  
 I will be fire shadow!
-Yes!",0.26666666666666666
+Yes!",0.26666666666666666,0.3784104
 I stepped on some dog poop!,"あ～！
  
 犬のうんこ踏んだ～！
 
 ","Oh!
  
-I stepped on the dog!",0.5555555555555556
+I stepped on the dog!",0.5555555555555556,0.75939554
 "About the only areas you resemble
 the Fourth Hokage","四代目と
  
@@ -325,29 +325,29 @@ the Fourth Hokage","四代目と
 ","In the fourth generation
  
 you
-What is similar",0.23076923076923078
+What is similar",0.2307692307692308,0.3929799
 are your hair and your stubbornness!,"髪の毛と強情っ張りなとこ
 くらいなもんだ！
 
 ","Hair hair and strong sticky
-It's about!",0.2727272727272727
+It's about!",0.2727272727272727,0.5474911
 Not again!,"またかよ～！
 
-",See you again!,0.4
+",See you again!,0.4,0.57852197
 Sakura? Come here!,"(ﾒﾌﾞｷ)サクラ ちょっと！
 (ｻｸﾗ)は～い！
 
 ","Sakura a little!
- is ~!",0.2222222222222222
+ is ~!",0.2222222222222222,0.83406013
 These?,"いのんち？
 
-",Is it?,0.25
+",Is it?,0.25,0.21751353
 "Don't bother them
 by staying too long.","あぁ…
 ｡
 
 ","Ahh…
-.",0.1
+.",0.1,0.0820961
 "Because everyone is
 very busy at this time.","今は
  
@@ -357,7 +357,7 @@ very busy at this time.","今は
 ","nowadays
  
 Because it is difficult anywhere
-.",0.23076923076923078
+.",0.2307692307692308,0.39611357
 "I'll bring some over
 to Sasuke later on too.","そうだ！
  
@@ -373,7 +373,7 @@ later
  
 Sasuke also
 I'll bring it
-.",0.375
+.",0.375,0.8170849
 And to Naruto too...,"あとは
  
 ナルトにも
@@ -382,7 +382,7 @@ And to Naruto too...,"あとは
 ","later
  
 Naruto
-.",0.14285714285714285
+.",0.14285714285714285,0.7202272
 "Naruto looks like
 he would eat anything...","ナルトは
  
@@ -392,7 +392,7 @@ he would eat anything...","ナルトは
 ","Naruto
  
 It looks like everything
-.",0.2727272727272727
+.",0.2727272727272727,0.6646578
 "Hey Kakashi Sensei!
 Teach me Chidori too!","＜なぁ
  
@@ -406,7 +406,7 @@ Teach me Chidori too!","＜なぁ
 teacher Kakashi
 Chidori
  
-I'm also teaching!>",0.2
+I'm also teaching!>",0.2,0.78195363
 What the heck's that?!,"＜何だよ
  
 それ
@@ -423,7 +423,7 @@ That
 Hind!
  
 Hind!
-Teach!>",0.2727272727272727
+Teach!>",0.2727272727272727,0.20211084
 Sasuke... Thank you...,"＜サスケ君
  
 ありがとう
@@ -434,7 +434,7 @@ Sasuke... Thank you...,"＜サスケ君
  
 Thank you
 .
-➡",0.25
+➡",0.25,0.77078617
 "You rescued me from
 the Sand Ninja, right?","今回も
  
@@ -444,13 +444,13 @@ the Sand Ninja, right?","今回も
 ","this time too
  
 Sasuke-kun from the sand of the sand
-Help me help?>",0.29411764705882354
+Help me help?>",0.29411764705882354,0.4837089
 No...,"(ｻｽｹ)
 ＜いや…＞
 ＜え？＞
 
 ","<No ...>
-<Eh?>",0.3333333333333333
+<Eh?>",0.3333333333333333,0.3918749
 "For a start, why don't you try gathering
 Chakra in your palms!","(ｶｶｼ)
 ＜まっ
@@ -465,7 +465,7 @@ Chakra in your palms!","(ｶｶｼ)
 for now
  
 In the palm
-Collect Chakra>",0.13636363636363635
+Collect Chakra>",0.13636363636363635,0.6940334
 All right!,"＜ハハッ
  
 よし！
@@ -476,7 +476,7 @@ All right!,"＜ハハッ
  
 OK!
  
-!>",0.14285714285714285
+!>",0.14285714285714285,0.25655207
 "It's true that Naruto has gotten stronger,
 but against that Sand Ninja...","確かに
  
@@ -486,7 +486,7 @@ but against that Sand Ninja...","確かに
 ","surely
  
 Naruto
-It's getting stronger",0.25
+It's getting stronger",0.25,0.77695495
 I'm telling you the truth.,"＜またまた
  
 サスケ君ったら
@@ -495,7 +495,7 @@ I'm telling you the truth.,"＜またまた
 ","<Again
  
 Sasuke if you
-I'm going to hesitate!➡",0.1875
+I'm going to hesitate!➡",0.1875,0.11811559
 "That kid fought desperately
 to rescue you.","お前を助けるために
 死に物狂いで戦った
@@ -505,23 +505,23 @@ to rescue you.","お前を助けるために
 ","To help you
 I fought with death
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.46165502
 "He showed a kind of strength that
 he had never shown before.","今までに見せたこともない力を
 見せてな＞
 
 ","Power that has never been seen before
-Show me>",0.15789473684210525
+Show me>",0.15789473684210525,0.48865387
 Naruto rescued... me.,"＜ナルトが…➡
 
-",<Naruto ... ➡,0.2857142857142857
+",<Naruto ... ➡,0.2857142857142857,0.7133856
 Chidori! Huh? Chidori! Chidori!,"千鳥～！
  
 あれ？➡
 
 ","Chidori ~!
  
-that?➡",0.42857142857142855
+that?➡",0.42857142857142855,0.8701526
 All right! I'll bring some to Naruto too!,"よし
  
 ナルトにも
@@ -532,18 +532,18 @@ All right! I'll bring some to Naruto too!,"よし
  
 Naruto
 I'll bring it
-.",0.3076923076923077
+.",0.3076923076923077,0.7277831
 "<i>I wasn't...</i>
 <i>I wasn't able to do anything...</i>","《俺は何もできなかった…》
 
-","""I couldn't do anything ...""",0.35714285714285715
+","""I couldn't do anything ...""",0.35714285714285715,0.554633
 "<i>No matter what,</i>
 <i>I will protect you!</i>","守りきってやるってばよ！➡
 
-",You're going to protect!➡,0.1875
+",You're going to protect!➡,0.1875,0.6375541
 <i>Summoning Jutsu!</i>,"＜口寄せの術！＞
 
-",<Tour of mouth!>,0.3
+",<Tour of mouth!>,0.3,0.22441013
 <i>Naruto is getting stronger and stronger.</i>,"《ナルトは
 どんどん強くなっていく
 ｡
@@ -552,7 +552,7 @@ I'll bring it
 ","""Naruto
 I'm getting stronger
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.84013647
 "If we go at each other,
 we'll either both be killed or at best,","(ｲﾀﾁ)
 ああ
@@ -563,7 +563,7 @@ we'll either both be killed or at best,","(ｲﾀﾁ)
 ","Ah
  
 If you
-Is it killed by two?",0.09523809523809523
+Is it killed by two?",0.09523809523809523,0.43898106
 "Even if we increased the numbers,
 that wouldn't change","たとえ人数を増やしたとしても
 変わらないだろう
@@ -571,7 +571,7 @@ that wouldn't change","たとえ人数を増やしたとしても
 
 ","Even if you have increased the number of people
 It will not change
-.",0.25
+.",0.25,0.7005305
 "I didn't expect the kid's guard
 would be a legendary Sannin.","よくて相打ちというところ
 ｡
@@ -579,7 +579,7 @@ would be a legendary Sannin.","よくて相打ちというところ
 
 ","Well, I'm sorry
 .
-➡",0.10526315789473684
+➡",0.10526315789473684,0.044124246
 "and the Seven Ninja Swordsmen
 of Mist would be tarnished.","霧の忍刀
  
@@ -591,7 +591,7 @@ of Mist would be tarnished.","霧の忍刀
  
 Names of the seven people
 Bite
-.",0.26666666666666666
+.",0.26666666666666666,0.31108454
 Yeah. However...,"(
 鬼鮫
 )
@@ -603,14 +603,14 @@ Yeah. However...,"(
 ","Amulet
 What is that legendary Sanbu ...
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.08191503
 Any strong one has a weakness...,"どんな強者にも
 弱点というのがあるものだ
 ｡
 
 ","Any stronger
 There is a weak point
-.",0.15384615384615385
+.",0.15384615384615385,0.669442
 Huh?!,"なぁなぁ
  
 エロ仙人
@@ -621,25 +621,25 @@ Huh?!,"なぁなぁ
  
 Erotic Sennin
 .
-Yeah?",0.125
+Yeah?",0.125,0.29058313
 "What kind of a student was
 the Fourth Hokage?","四代目って
 どんな生徒だったんだ？
 
 ","In the four generations
-What kind of student was it?",0.5
+What kind of student was it?",0.5,0.7485119
 "You're one lucky guy
 to be taught by me!","わしに教えてもらえるとは
 ナルト➡
 
 ","To be able to tell me
-Naruto ➡",0.2
+Naruto ➡",0.2,0.16354477
 "- Hmmm...
 - Hmmm...","えぇ～…
 ｡
 
 ","...
-.",0.25
+.",0.25,0.34137988
 Are you dubious?,"お前
  
 果報者だ！
@@ -650,7 +650,7 @@ Are you dubious?,"お前
  
 The number of people!
  
-brain?",0.2
+brain?",0.2,0.14721522
 "A good teacher will develop
 good disciples.","疑うのか？
 よい弟子を育てるのは
@@ -662,27 +662,27 @@ good disciples.","疑うのか？
 To grow good disciples
  
 Good teacher
-.",0.3076923076923077
+.",0.3076923076923077,0.7606485
 "Then, then, who taught you,
 Pervy Sage?","エロ仙人は誰に
 教えてもらったんだってばよ？
 
 ","Who is Erotic Sennin
-Should I tell you?",0.21428571428571427
+Should I tell you?",0.21428571428571427,0.14692828
 I learned from the Third Hokage.,"わしか？
 わしが教わったのは三代目だ
 ｡
 
 ","Wow?
 It is the third generation that I was taught
-.",0.26666666666666666
+.",0.26666666666666666,0.36495677
 The Third Hokage?,"三代目？
 ああ
 ｡
 
 ","Third generation?
 Ah
-.",0.2857142857142857
+.",0.2857142857142857,0.3273749
 "The Third Hokage was
 still young and lively.","三代目も
 まだピチピチだったのう
@@ -690,7 +690,7 @@ still young and lively.","三代目も
 
 ","In the third generation
 It was still Pichi Pichi
-.",0.38461538461538464
+.",0.38461538461538464,0.37417758
 I... I got tangled up.,"おうよ
  
 わしもピチピチだったぞ
@@ -699,7 +699,7 @@ I... I got tangled up.,"おうよ
 ","Sure
  
 I was also Pichi Pichi
-.",0.2
+.",0.2,0.21457887
 See... You got cursed...,"か…
  
 絡まっちまったってばよ…
@@ -708,7 +708,7 @@ See... You got cursed...,"か…
 ","mosquito…
  
 If you're entangled ...
-.",0.2
+.",0.2,0.27589512
 So you learned from Kakashi.,"お前
  
 カカシに
@@ -717,10 +717,10 @@ So you learned from Kakashi.,"お前
 ","you
  
 To Kakashi
-I learned that",0.3333333333333333
+I learned that",0.3333333333333333,0.8636392
 Yeah! I did! Yes I did!,"がっ！
 
-",!,0.2
+",!,0.2,0.19881654
 "Only I was tied to the tree trunk
 and had one deuce of a time...","俺だけ丸太に縛られて
 えらい目に遭ったってばよ
@@ -728,7 +728,7 @@ and had one deuce of a time...","俺だけ丸太に縛られて
 
 ","I'm only tied to a log
 If you have enchanted
-.",0.21739130434782608
+.",0.21739130434782608,0.371594
 "What do you mean by ""you too""?","なんと！
  
 お前も
@@ -747,7 +747,7 @@ eh?
  ""
 and
 ""
-?",0.2857142857142857
+?",0.2857142857142857,0.17658804
 "The fact that there are
 only two means...","(
 猿飛
@@ -756,17 +756,17 @@ only two means...","(
 ２つしかないってことは？＞
 
 ","<The bell is two
-Is there only two?>",0.2857142857142857
+Is there only two?>",0.2857142857142857,0.40568984
 All right! I'll make it!,"＜よっしゃ～！
  
 やったるでぇ！＞
 
 ","<Yo!
  
-I'm doing it!>",0.25
+I'm doing it!>",0.25,0.37065154
 Come at me with the intent to kill!,"＜わしを殺すつもりで来い＞
 
-",<I will come to kill you>,0.21428571428571427
+",<I will come to kill you>,0.21428571428571427,0.57315576
 "Jiraiya, I won the bet with you, didn't I?","(
 綱手
 )
@@ -782,7 +782,7 @@ Bet with you
  
 I won
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.63794136
 Shut up!,"＜んだと
  
 こらっ！
@@ -791,7 +791,7 @@ Shut up!,"＜んだと
 ","<
  
 !
-This intellier is helpful!>",0.1111111111111111
+This intellier is helpful!>",0.1111111111111111,0.110337384
 You are hopeless...,"＜全く
  
 お前は
@@ -802,7 +802,7 @@ You are hopeless...,"＜全く
  
 You are
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.29584476
 "Ninja shouldn't be getting caught in
 obvious traps like that over and over again.","＜はいはい
  
@@ -814,14 +814,14 @@ obvious traps like that over and over again.","＜はいはい
  
 It will be good
 .
-➡",0.09523809523809523
+➡",0.09523809523809523,0.103059284
 "Why don't you learn a little
 from Orochimaru?!","(
 猿飛
 )
 ＜少しは大蛇丸を見習え＞
 
-",<A little while apprentice a large Snake Museum>,0.1111111111111111
+",<A little while apprentice a large Snake Museum>,0.1111111111111111,0.21879652
 "Sarutobi Sensei, you're always
 saying Orochimaru, Orochimaru!","＜猿飛先生は
  
@@ -835,10 +835,10 @@ saying Orochimaru, Orochimaru!","＜猿飛先生は
 Always large snake
 In a large snake
  
-Uruse!>",0.11764705882352941
+Uruse!>",0.1176470588235294,0.47862175
 Hm?,"＜ん？＞
 
-",<Did?>,0.2
+",<Did?>,0.2,0.16815162
 "When it comes to snooping,
 I'm really good at Transparency Jutsu.","＜俺だって
  
@@ -852,7 +852,7 @@ I'm really good at Transparency Jutsu.","＜俺だって
 When you go
 Sun Mature [Out of: 99C09079206BA433E50523B592C8055A]
  
-Good!>",0.14285714285714285
+Good!>",0.14285714285714285,0.06597054
 "what level of Transparency Jutsu
 you possess...","何事だ！＞
 (
@@ -862,7 +862,7 @@ you possess...","何事だ！＞
 
 ","What is it!>
 
-<Even ...>",0.14285714285714285
+<Even ...>",0.14285714285714285,0.14733155
 "I've never been caught once!
 And that's the truth!","忍者が
  
@@ -872,7 +872,7 @@ And that's the truth!","忍者が
 ","Ninja
  
 Bare Bare
-When I get caught many times",0.1111111111111111
+When I get caught many times",0.1111111111111111,0.54019576
 "If you're that sure of yourself,
 I'll go with you next time...","今度は
  
@@ -880,7 +880,7 @@ I'll go with you next time...","今度は
 
 ","Next time
  
-I will follow you ...>",0.2777777777777778
+I will follow you ...>",0.2777777777777778,0.42652038
 "What, what?","あ？
  
 あ？
@@ -895,7 +895,7 @@ Ah?
  
 what?
  
-what?",0.5
+what?",0.5,0.517641
 Hey!,"ねぇ
  
 何がおかしいんだってばよ
@@ -904,7 +904,7 @@ Hey!,"ねぇ
 ","Hey
  
 What's wrong
-Erotic Sennin!",0.2857142857142857
+Erotic Sennin!",0.2857142857142857,0.34251097
 "It's just as I said, a good teacher
 will develop good disciples.","ん？
  
@@ -916,7 +916,7 @@ will develop good disciples.","ん？
  
 that's why
  
-Good disciples are ➡",0.15
+Good disciples are ➡",0.15,0.69997466
 "Come on, let's go.
 Did you put it back properly?","さぁ
  
@@ -926,14 +926,14 @@ Did you put it back properly?","さぁ
 ","In
  
 let's go
-Did you fix properly?",0.4375
+Did you fix properly?",0.4375,0.65066177
 See!,"ヘヘッ
  
 なっ！
 
 ","Hehe
  
-Come!",0.25
+Come!",0.25,0.5105553
 "It appears that they haven't
 found Naruto yet.","(
 ガイ
@@ -950,7 +950,7 @@ found Naruto yet.","(
 not yet
 Naruto
 It seems that it is not found
-.",0.375
+.",0.375,0.77171487
 But don't you think that's strange!?,"(ｱｽﾏ)
 それなんだが
  
@@ -958,7 +958,7 @@ But don't you think that's strange!?,"(ｱｽﾏ)
 
 ","That's it
  
-Isn't it funny?",0.3076923076923077
+Isn't it funny?",0.3076923076923077,0.33596462
 "Those guys had already
 infiltrated the village.","あいつら
  
@@ -972,7 +972,7 @@ infiltrated the village.","あいつら
 already
 I was in a village
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.42183912
 "It should be easy to find Naruto
 in this village.","この里で
  
@@ -982,26 +982,26 @@ in this village.","この里で
 ","In this village
  
 Find Naruto
-Is it easy?",0.5384615384615384
+Is it easy?",0.5384615384615384,0.9061966
 Itachi knows Naruto's face.,"イタチは
 ナルトの顔を知ってるんだぞ
 ｡
 
 ","Itachi
 I know the face of Naruto
-.",0.4
+.",0.4,0.9402663
 Kakashi...,"カカシ
 ｡
 
 ","Kakashi
-.",0.3333333333333333
+.",0.3333333333333333,0.96012026
 Why is Kakashi sleeping?,"どうして
  
 カカシが寝ている？
 
 ","why
  
-Kakashi is sleeping?",1.0
+Kakashi is sleeping?",1.0,0.9901855
 "What are you doing?
 What in the world happened?!","それに
  
@@ -1011,7 +1011,7 @@ What in the world happened?!","それに
 ","in addition
  
 It is gathered only
-What are you doing?",0.4
+What are you doing?",0.4,0.42450047
 "Is it true that that
 Itachi has returned?!","(ｱｵﾊﾞ)
 あのイタチが
@@ -1022,20 +1022,20 @@ Itachi has returned?!","(ｱｵﾊﾞ)
 ","That Itachi
 The story that came back
  
-realy!?",0.2857142857142857
+realy!?",0.2857142857142857,0.67662054
 Why does this always happen?!,"何で
  
 こうなるの！
 
 ","why
  
-This is!",0.375
+This is!",0.375,0.49817812
 "<i>So that guy returned to this village?</i>
 <i>And moreover, he's pursuing Naruto?</i>","《あいつが
 この里に帰ってきただと？➡
 
 ","""that guy
-Did you come back to this village?➡",0.24
+Did you come back to this village?➡",0.24,0.5453335
 <i>What does all this mean?!</i>,"しかも
  
 ナルトを追ってる!?
@@ -1044,10 +1044,10 @@ Did you come back to this village?➡",0.24
 ","Morely
  
 I'm following Naruto!
-What does it mean?""",0.35294117647058826
+What does it mean?""",0.35294117647058826,0.3875051
 Sasuke?!,"うわっ！
 
-",Wow!,0.25
+",Wow!,0.25,0.14013445
 Where's Naruto?!,"サスケ君！
 ナルトは？
  
@@ -1056,7 +1056,7 @@ Where's Naruto?!,"サスケ君！
 ","Sasuke-kun!
 What is Naruto?
  
-Where's!?",0.625
+Where's!?",0.625,0.8279501
 Huh? I just got here too.,"え？
  
 私も
@@ -1071,20 +1071,20 @@ me too
  
 now
  
-I came but it came",0.21428571428571427
+I came but it came",0.21428571428571427,0.34837422
 I wanted to give Naruto...,"ナルトに
 おはぎあげようと思って…
 ｡
 
 ","Naruto
 I'm thinking of raising rice ...
-.",0.25
+.",0.25,0.6390389
 "<i>If Naruto is caught by that guy,</i>
 <i>that will spell his end.</i>","《あいつに捕まれば
 ナルトは終わりだ！➡
 
 ","""If you get caught up
-Naruto is over!➡",0.17391304347826086
+Naruto is over!➡",0.17391304347826084,0.718899
 "Hey old man!
 Naruto must have come here!","おっさん！
 ナルトが
@@ -1094,13 +1094,13 @@ Naruto must have come here!","おっさん！
 ","Oga!
 Naruto
  
-You should have come here!",0.4166666666666667
+You should have come here!",0.4166666666666667,0.7919485
 "And do you know
 where he went after that?","それから
 どこに行ったか分かるか？
 
 ","after that
-Where did you go?",0.4166666666666667
+Where did you go?",0.4166666666666667,0.5618852
 "They ate ramen together,
 and he said he was going somewhere...","一緒にラーメン食って
 どっか行くって言ってたな
@@ -1108,14 +1108,14 @@ and he said he was going somewhere...","一緒にラーメン食って
 
 ","Together with ramen
 I said that I went somewhere
-.",0.23529411764705882
+.",0.2352941176470588,0.7078862
 Where?!,"どこだ？
 あぁ…
 ｡
 
 ","Where's?
 Ahh…
-.",0.3333333333333333
+.",0.3333333333333333,0.60689133
 "Hmm... I think he said to a post station
 some distance from the village...","里から少し離れた
  
@@ -1133,7 +1133,7 @@ I'm going to go or something ...
  
 Hoped
 .
-➡",0.2962962962962963
+➡",0.2962962962962963,0.62098086
 And then he left with Master Jiraiya.,"で
  
 自来也さんと
@@ -1144,7 +1144,7 @@ And then he left with Master Jiraiya.,"で
  
 With your own
 I went out together
-.",0.21428571428571427
+.",0.21428571428571427,0.19822359
 "he just looks like
 a big white haired old man.","まっ
  
@@ -1164,12 +1164,12 @@ Just
 Biced hair
  
 I'm an old man
-.",0.3333333333333333
+.",0.3333333333333333,0.4184841
 Big and white-haired...,"白髪のデカい…
 ｡
 
 ","Biced hair ...
-.",0.14285714285714285
+.",0.14285714285714285,0.5717574
 H-Hey!,"(ﾃｳﾁ)
 お…
  
@@ -1177,7 +1177,7 @@ H-Hey!,"(ﾃｳﾁ)
 
 ","Oh…
  
-Oi!",0.25
+Oi!",0.25,0.3454337
 "Geez... If you're gonna
 ask somebody a question,","ったく
  
@@ -1185,7 +1185,7 @@ ask somebody a question,","ったく
 
 ","Geez
  
-If you ask people",0.3076923076923077
+If you ask people",0.3076923076923077,0.76495177
 This town is pretty weird.,"ん～…
  
 何か怪しい町だよな
@@ -1194,7 +1194,7 @@ This town is pretty weird.,"ん～…
 ","...
  
 Something is suspicious
-.",0.2222222222222222
+.",0.2222222222222222,0.2371184
 Naruto!,"(
 自来也
 )
@@ -1204,17 +1204,17 @@ Naruto!,"(
 
 ","Naruto
 .
-Yeah?",0.2
+Yeah?",0.2,0.8311862
 What?! I can still walk!,"俺ってば
  
 まだ歩けるぞ！
 
 ","In case
  
-I will still walk!",0.4
+I will still walk!",0.4,0.7495962
 A disciple should obey his master!,"弟子は師匠に従えっつうの！
 
-",The disciple follows the master!,0.3333333333333333
+",The disciple follows the master!,0.3333333333333333,0.8817041
 I just want to learn the Jutsu!,"俺は
  
 ただ術を教わりたいだけだ
@@ -1223,7 +1223,7 @@ I just want to learn the Jutsu!,"俺は
 ","I am
  
 I just want to learn how
-.",0.45454545454545453
+.",0.4545454545454545,0.50350446
 That's what's called a disciple!,"それを弟子っつうんだ！
  
 ん！
@@ -1232,7 +1232,7 @@ That's what's called a disciple!,"それを弟子っつうんだ！
 ","I'm a disciple!
  
 Hmm!
-Yeah?",0.25
+Yeah?",0.25,0.8161804
 "Oh, oh...!","ん！
  
 おっ
@@ -1249,7 +1249,7 @@ Oh
 Oh!
 Hmm!
  
-Oh!",0.4
+Oh!",0.4,0.5145666
 "Here, this is the key to the room.","お前
  
 これ
@@ -1262,7 +1262,7 @@ Oh!",0.4
 this
  
 Room key
-.",0.4
+.",0.4,0.7776345
 train some and go to sleep!,"先に部屋行って
  
 チャクラ練って
@@ -1275,15 +1275,15 @@ train some and go to sleep!,"先に部屋行って
 Chakra
 Study and sleep
  
-brain!",0.36363636363636365
+brain!",0.3636363636363637,0.464883
 What?!,"えぇ～!?
 
-",Eh!?,0.5
+",Eh!?,0.5,0.4088226
 That post town isn't that far...!,"《あの宿場町なら
 そう遠くない！》
 
 ","""If it is that post town
-Not so far!""",0.42857142857142855
+Not so far!""",0.42857142857142855,0.6945548
 "This! Somehow this always happens
 when I'm with that Pervy Sage!","ズリ～ぞ
  
@@ -1291,15 +1291,15 @@ when I'm with that Pervy Sage!","ズリ～ぞ
 
 ","Zuri ~
  
-This erotic Sennin!",0.125
+This erotic Sennin!",0.125,0.19910033
 I've got to check door by door!,"一軒ずつ回るしかないか
 ｡
 
 ","I have no choice but to go around
-.",0.13333333333333333
+.",0.13333333333333333,0.22945867
 Cheers!,"ん～！
 
-",!,0.5
+",!,0.5,0.329554
 "I wonder if he really has any inclination
 to oversee my training?","ちゃ～んと俺の修業
 見る気あんのかよ～
@@ -1307,7 +1307,7 @@ to oversee my training?","ちゃ～んと俺の修業
 
 ","My study
 I wonder if I can see
-.",0.23529411764705882
+.",0.2352941176470588,0.16100886
 What about that one? Yeah that.,"ほら
  
 あれは？
@@ -1328,7 +1328,7 @@ that
 .
 
 Yes
-.",0.3
+.",0.3,0.4611776
 See! A hundred out of a hundred!,"お～！
  
 なっ
@@ -1341,13 +1341,13 @@ See! A hundred out of a hundred!,"お～！
 Becoming
  
 Hundred hundred hundreds of hundred!
-Ha ha!",0.3
+Ha ha!",0.3,0.696041
 "and a big white haired old man
 staying here?","白髪のデカいおっさん
 泊まってるか？
 
 ","Biced hair big man
-Are you staying?",0.2857142857142857
+Are you staying?",0.2857142857142857,0.4959625
 This is an inn for women only...,"(
 女性
 )
@@ -1355,12 +1355,12 @@ This is an inn for women only...,"(
 ｡
 
 ","My house is a woman dedicated to women
-.",0.13333333333333333
+.",0.13333333333333333,0.45224077
 I'm looking for someone...,"人を捜してる
 ここに俺と同じ年くらいの➡
 
 ","I'm looking for people
-Here is the same year as me",0.2857142857142857
+Here is the same year as me",0.2857142857142857,0.44830716
 "Today, we only have old people.","(
 男性
 )
@@ -1372,7 +1372,7 @@ Here is the same year as me",0.2857142857142857
 ","today
  
 I'm just old people
-.",0.36363636363636365
+.",0.3636363636363637,0.81765753
 "Hmm... this is kind of crisp
 on the tongue...","(
 自来也
@@ -1395,7 +1395,7 @@ this
 In the tongue
  
 Pachipachi
-.",0.2
+.",0.2,0.4272541
 "Hey, why are you guys all sleeping","こら
  
 何で
@@ -1410,7 +1410,7 @@ why
  
 Everyone
 I'm sleeping
-.",0.25
+.",0.25,0.83685
 White haired...?,"(
 女性
 )
@@ -1418,25 +1418,25 @@ White haired...?,"(
 いるのか!?
 
 ","White hair?
-Is there?",0.2857142857142857
+Is there?",0.2857142857142857,0.7404829
 Are they here?!,"苦いぞ
  
 大丈夫か？
 
 ","Sober
  
-Are you okay?",0.25
+Are you okay?",0.25,0.15817977
 "Oh! A blond kid and
 a white haired old man!","あ～！
 金髪の子と白髪のじいさん！
 
 ","Oh!
-Blonde child and gray haired grandeon!",0.2857142857142857
+Blonde child and gray haired grandeon!",0.2857142857142857,0.7055429
 Um...,"ん～…
 ｡
 
 ","...
-.",0.3333333333333333
+.",0.3333333333333333,0.6386637
 "What's up?
 Has she already dumped you?","何だ
  
@@ -1448,7 +1448,7 @@ Has she already dumped you?","何だ
  
 It is already shaken
 Was it back?
-.",0.2
+.",0.2,0.13816287
 "Okay, Okay!","ナルト！
  
 あっ…
@@ -1457,13 +1457,13 @@ Was it back?
 ","Naruto!
  
 Ah…
-.",0.16666666666666666
+.",0.16666666666666666,0.17068872
 "Okay, Okay, I'll open up!","(ﾉｯｸ)
 分かったってばよ
 ｡
 
 ","I understand
-.",0.1111111111111111
+.",0.1111111111111111,0.18699715
 It's not him...,"はいは～い
  
 今
@@ -1476,14 +1476,14 @@ It's not him...,"はいは～い
 now
  
 It will be open
-.",0.09090909090909091
+.",0.09090909090909093,0.028523246
 "<i>It's a secondary role,</i>","♬
  
 我慢の連続だったろ
 
 ","♬
  
-It was a continuation of patience",0.13333333333333333
+It was a continuation of patience",0.13333333333333333,0.20733865
 "<i>Now, it's our turn...</i>
 <i>Let us bask in our dreams</i>","♬
  
@@ -1493,7 +1493,7 @@ It was a continuation of patience",0.13333333333333333
 ","♬
  
 Many times until now
-I wonder if it has come up",0.12
+I wonder if it has come up",0.12,0.20848708
 "Darn it! My body is frozen!
 What is this creepy feeling?","♬
  
@@ -1501,7 +1501,7 @@ What is this creepy feeling?","♬
 
 ","♬
  
-It is a side of the side",0.11764705882352941
+It is a side of the side",0.1176470588235294,0.12527917
 "This guy is absolutely not
 an ordinary person.","♬
  
@@ -1515,4 +1515,4 @@ an ordinary person.","♬
 Many times
  
 In a person
-I'm not standing",0.11764705882352941
+I'm not standing",0.1176470588235294,0.14891666

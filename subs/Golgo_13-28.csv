@@ -1,193 +1,193 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "Say, where are you taking me tomorrow?","ねえ 明日はどこへ
 連れていってくれるの？","Hey, where is tomorrow
-Will you take it?",0.35714285714285715
-Welcome.,いらっしゃいませ,Welcome,0.5
+Will you take it?",0.35714285714285715,0.83318603
+Welcome.,いらっしゃいませ,Welcome,0.5,0.83344233
 "A gin fizz, please.","（セシリア）ジンフィズ
 お願いします","Jin Fiz
-please",0.125
-That's enough.,もういい,enough,0.25
-What's this supposed to mean?,な…何のマネなの これ？,What is your mane?,0.2
+please",0.125,0.23149121
+That's enough.,もういい,enough,0.25,0.6282463
+What's this supposed to mean?,な…何のマネなの これ？,What is your mane?,0.2,0.09985715
 How rude! That's not why I've been with you!,"失礼ね！　私そんなつもりで
 あんたと付き合ったんじゃないわよ","I'm sorry!I intend to
-I'm not going to get along",0.15789473684210525
+I'm not going to get along",0.15789473684210525,0.45459706
 Just what do you take me for?\NYou've got the wrong idea!,"わ…私を何だと思ったの？
 見損なわないで","Wow what did you think of me?
-Don't miss",0.23809523809523808
-Hmph!,（女）フンッ！,Hun!,0.3333333333333333
+Don't miss",0.2380952380952381,0.20119762
+Hmph!,（女）フンッ！,Hun!,0.3333333333333333,0.53003514
 Sorry for the wait.,"（バーテンダー）
-お待たせいたしました",Sorry to keep you waiting,0.1111111111111111
+お待たせいたしました",Sorry to keep you waiting,0.1111111111111111,0.6570003
 You think you're the only woman out there?!,"（記憶の中の夫の声）
-お前一人が女だと思っているのか",Do you think one person is a woman,0.2
+お前一人が女だと思っているのか",Do you think one person is a woman,0.2,0.5026741
 "Right from the start, I didn't give a damn\Nabout you. Get over yourself!","俺(おれ)はお前なんか 始めから
 何とも思っちゃいない　のぼせるな","I  from you from the beginning
-She who doesn't think anyway",0.21739130434782608
+She who doesn't think anyway",0.21739130434782608,0.41252685
 I only married you 'cuz I was after the\Ninheritance your mom and dad left you.,"お前の親父とお袋が遺した
 遺産が目的だったんだよ","Your father and bag left
-Heritage was the purpose",0.21052631578947367
+Heritage was the purpose",0.21052631578947367,0.38875777
 "Now that that's gone, I got no more use for ya!","それも無くなった今となっては
 お前は もう用なしさ","It is also disappeared now
-You no longer use",0.15789473684210525
-"Tryin' to play the wife card, bargin' up in here...",ウフフ…,Uhufu ...,0.07142857142857142
+You no longer use",0.15789473684210525,0.5938533
+"Tryin' to play the wife card, bargin' up in here...",ウフフ…,Uhufu ...,0.07142857142857142,0.22112244
 "If you had half a brain,\Nyou wouldn't be actin' like some fool.","気の利(き)いた女なら
 こんなバカなマネはしないもんだ","Goodness 
-She doesn't like this stupid mane",0.08695652173913043
-What's with you? Say somethin'.,どうした？　なんとか言えよ,What happened?Somehow it can say,0.23076923076923078
+She doesn't like this stupid mane",0.08695652173913042,0.075819224
+What's with you? Say somethin'.,どうした？　なんとか言えよ,What happened?Somehow it can say,0.2307692307692308,0.31291398
 Miss?,"（ハーヴェイ）ええ？
-（セシリアのおびえる声）",yeah?,0.3333333333333333
-Miss! Miss!,フンッ！,Fun!,0.3333333333333333
+（セシリアのおびえる声）",yeah?,0.3333333333333333,0.33847684
+Miss! Miss!,フンッ！,Fun!,0.3333333333333333,0.25161046
 I'm sorry. I just got a little dizzy.,"ごめんなさい ちょっと
 めまいがしただけ","I'm sorry a little
-I just got a dizziness",0.7
+I just got a dizziness",0.7,0.8112739
 "There's been a union strike,\Nso the taxis aren't running.","組合のストライキがございまして
 タクシーが来てくれません","There is a union strike
-Taxi does not come",0.21052631578947367
+Taxi does not come",0.21052631578947367,0.8100807
 We would suggest that one of the\Nhotel's cars take you to the airport.,"ですので ホテルの車で空港まで
 お送りしたいと思いますが","So from the hotel's car to the airport
-I would like to send it",0.21739130434782608
+I would like to send it",0.21739130434782608,0.59335744
 "Actually, there's another guest\Nwho's also going to the airport.","それで実は… お客様で もう一人
 空港まで行かれる方がおありなので","So actually ... Customer and more
-Because there is a person who goes to the airport",0.21739130434782608
-I hope you don't mind riding together.,私の方は構いません,I do not matter if you,0.25
-Thank you very much.,ありがとうございました,thank you very much,0.8
-"If you'd come this way, please.",さあ それではどうぞ,"Now, please",0.2
+Because there is a person who goes to the airport",0.21739130434782608,0.5406158
+I hope you don't mind riding together.,私の方は構いません,I do not matter if you,0.25,0.34814352
+Thank you very much.,ありがとうございました,thank you very much,0.8,0.89597654
+"If you'd come this way, please.",さあ それではどうぞ,"Now, please",0.2,0.44288313
 "Headin' out on a day like this\Nis kinda rough, huh?","（運転手）こんな日に ご出発とは
 大変ですね","What is your departure from such a day
-It is difficult",0.09523809523809523
-I hope it's sunny where you're headed.,ご旅行先が晴れているといいですが,I hope you have a sunny travel destination,0.2857142857142857
-Yes...,フハハハ…,Fuhahaha ...,0.3333333333333333
+It is difficult",0.09523809523809523,0.45946735
+I hope it's sunny where you're headed.,ご旅行先が晴れているといいですが,I hope you have a sunny travel destination,0.2857142857142857,0.7165993
+Yes...,フハハハ…,Fuhahaha ...,0.3333333333333333,0.41161817
 "My wife's a strange one, all right.\NWhenever it rains, she wants to go on a trip.","雨が降ると旅行に
 行きたがるんですよ","On travel when it rains
-I'm going to go",0.21739130434782608
+I'm going to go",0.21739130434782608,0.57270706
 "If she sees rain, she's like,\N""Take me somewhere."" Man, she's weird.","雨を見ながら
 “どこかに連れていけ”って","While watching rain
-""Take me somewhere""",0.29411764705882354
-"So, where are you goin'?",ご旅行先は どちらへ？,How is your travel destination?,0.07692307692307693
-To Norway. My hometown.,ノルウェーの… 故郷へ,Norway ... to hometown,0.5
+""Take me somewhere""",0.29411764705882354,0.60038984
+"So, where are you goin'?",ご旅行先は どちらへ？,How is your travel destination?,0.07692307692307693,0.52114224
+To Norway. My hometown.,ノルウェーの… 故郷へ,Norway ... to hometown,0.5,0.88929325
 Please stop here.,"（セシリア）運転手さん
 ここで止めてください","driver
-Stop here, please",0.5
-Please take care of my luggage.,荷物だけ運んでおいてください,Please carry only luggage,0.2222222222222222
-Huh.,はあ…,...,0.0
-Please don't be upset.,お気を悪くなさらないでください,Please do not feel bad,0.2222222222222222
+Stop here, please",0.5,0.47305992
+Please take care of my luggage.,荷物だけ運んでおいてください,Please carry only luggage,0.2222222222222222,0.7241665
+Huh.,はあ…,...,0.0,0.29656205
+Please don't be upset.,お気を悪くなさらないでください,Please do not feel bad,0.2222222222222222,0.5303165
 I really do just want to take a walk.,"本当に ただ歩いてみたくなった
 だけなんですから","I really wanted to walk
-Only because",0.3076923076923077
-Fine by me.,別に…,Separately ...,0.0
+Only because",0.3076923076923077,0.7223859
+Fine by me.,別に…,Separately ...,0.0,0.24191615
 "But, Ma'am, it's raining,\Nand we're a long way from the airport.","しかし お客さん 外は雨だし
 空港までは まだだいぶありますよ","However, the customer is raining outside
-He has a lot to the airport",0.20833333333333334
-Yes. Thank you.,ええ ありがとう,Thank you,0.5
+He has a lot to the airport",0.20833333333333331,0.60028636
+Yes. Thank you.,ええ ありがとう,Thank you,0.5,0.37575328
 "She's a weird one, huh? Walkin' in the rain...","（運転手）変わった人ですね
 この雨の中を","It is a person who has changed
-In this rain",0.14285714285714285
+In this rain",0.14285714285714285,0.46133545
 Get out!,"{\an8}（ハーヴェイ）出てけ！
-（セシリアのうめき声）",comes out!,0.5
-You understand me?!,放してってば！,If you leave it!,0.25
-Let go!,放して！,Leave it!,0.2
-The defendant will serve\Na sentence of six months.,（判事）被告人を懲役６ヵ月に処す,Heat the accused 6 months prison,0.15384615384615385
+（セシリアのうめき声）",comes out!,0.5,0.63927126
+You understand me?!,放してってば！,If you leave it!,0.25,0.23556283
+Let go!,放して！,Leave it!,0.2,0.57951033
+The defendant will serve\Na sentence of six months.,（判事）被告人を懲役６ヵ月に処す,Heat the accused 6 months prison,0.15384615384615385,0.5909872
 "However, in light of the\Nextenuating circumstances,","しかし情状酌量によって
 １年間の執行猶予を与える","However, depending on the amount of information
-Give a 1 year execution postponement",0.16666666666666666
-"Oh, the manager?",管理人さんですか,Is it a manager?,0.25
+Give a 1 year execution postponement",0.16666666666666666,0.32832217
+"Oh, the manager?",管理人さんですか,Is it a manager?,0.25,0.7457619
 "Yes, you can keep all the\Nfurniture in the apartment.","ええ　アパートの家具は
 すべて差し上げます","Yeah apartment furniture
-I will give all",0.125
+I will give all",0.125,0.46429288
 I plan to buy new furnishings\Nonce I'm back home.,"故郷に帰ったら 新しく
 買いそろえるつもりなんです","When I returned to my hometown
-I'm going to buy",0.26666666666666666
+I'm going to buy",0.26666666666666666,0.4819327
 "Yes, I'm not coming back. Goodbye.","ええ　二度と戻りません
 さようなら","Yes I will not go back again
-good bye",0.2857142857142857
-Flight 201 bound for Norway will move to the\Nrunway once all passengers have been seated.,ノルウェー行き201便は,Go to Norway 201,0.17647058823529413
+good bye",0.2857142857142857,0.7163608
+Flight 201 bound for Norway will move to the\Nrunway once all passengers have been seated.,ノルウェー行き201便は,Go to Norway 201,0.17647058823529413,0.5941
 Please have your seatbelts fastened.\NIt will be just a little while longer.,"座席ベルトをお締めの上
 今しばらくお待ちください","Tightening the seat belt
-Please wait a moment now",0.1
-Yeah.,いや,no,0.0
+Please wait a moment now",0.1,0.6442031
+Yeah.,いや,no,0.0,0.37371215
 Flight 201's course is too high. What's going on?,"201便の進入高度が高すぎます
 どうしたんでしょう","Entry of 201 is too high
-What happened",0.3333333333333333
+What happened",0.3333333333333333,0.6598239
 This is the control tower! What's going on?\NYour altitude's too high!,"こちらコントロールタワー
 どうした？　高度が高いぞ！","This control tower
-What happened?Advanced is high!",0.47058823529411764
+What happened?Advanced is high!",0.4705882352941176,0.6933157
 Our landing gear won't deploy. We're checking\Nthe hydraulic pressure control system.,"（機長）ランディングギアが出ない
 作動油圧系統 点検中","Landing gear does not appear
-During operation hydraulic system system",0.21052631578947367
-We're going to circle around\Nand attempt to land. Over.,旋回して着陸を試みる　オーバー,Overs to turn to swirl and try to land,0.13333333333333333
-This is bad...,まずいぞ,It is bad,0.4
+During operation hydraulic system system",0.21052631578947367,0.686511
+We're going to circle around\Nand attempt to land. Over.,旋回して着陸を試みる　オーバー,Overs to turn to swirl and try to land,0.13333333333333333,0.5591375
+This is bad...,まずいぞ,It is bad,0.4,0.5220941
 "Prepare to spray fire extinguishing\Nmedia on the runway, now!","すぐ滑走路に消火剤を
 散布する準備を","Fire extinguisher on the runway immediately
-Prepare for spraying",0.3333333333333333
+Prepare for spraying",0.3333333333333333,0.76471376
 Have fire trucks and ambulances\Nstanding by! Hurry!,"（管制塔係員）消防車と救急車を
 待機させる急げ！","fire engine and ambulance
-Wait a hurry!",0.3333333333333333
+Wait a hurry!",0.3333333333333333,0.7293565
 We've just been going around in circles!,"さっきから グルグル旋回してる
 だけじゃないか","I'm turning a guru
-Just only",0.06666666666666667
-Something's wrong?,ど…どうなっているんだ,... What's wrong,0.3333333333333333
-"Everyone, there's nothing wrong. Please remain\Ncalm and return to your seats for landing.",着陸をお待ちください,Please wait for landing,0.17647058823529413
-You bastards always say that!,お前らは いつもそう言うんだ,You are always saying so,0.2222222222222222
+Just only",0.06666666666666668,0.21405028
+Something's wrong?,ど…どうなっているんだ,... What's wrong,0.3333333333333333,0.62554324
+"Everyone, there's nothing wrong. Please remain\Ncalm and return to your seats for landing.",着陸をお待ちください,Please wait for landing,0.17647058823529413,0.5604701
+You bastards always say that!,お前らは いつもそう言うんだ,You are always saying so,0.2222222222222222,0.41592026
 "I've been in an accident before and barely\Nmade it out alive, so I know all too well!","九死に一生を得たことがあるから
 よく知ってるんだ","Because I have got a lifetime for nine deaths
-I know well",0.1111111111111111
+I know well",0.1111111111111111,0.32310975
 "They said the same thing then, too! Turns out,\NI was one of the few who lived through it.","あの時も同じことを言っていた
 結局 生き残ったのは","At that time I was saying the same thing
-After all I survived",0.13793103448275862
+After all I survived",0.13793103448275862,0.34263626
 Enough of your damn platitudes!\NWhat's going on with this plane?!,"（乗客）単なる気休めはよせ
 この飛行機に何が起こってるんだ！","Merely broke off
-What is happening to this plane!",0.14285714285714285
+What is happening to this plane!",0.14285714285714285,0.6863223
 "Things will get a little bumpy,\Nbut we're perfectly safe!","さ…作動油圧系統を点検しています
 これから少し揺れますが","Now ... I check the hydraulic system
-I will shake a little from now on",0.13043478260869565
+I will shake a little from now on",0.13043478260869565,0.18824953
 "Everyone, please!","ベルトをお締めください
 どうかお願いします","Tighten the belt
-Please ask",0.125
+Please ask",0.125,0.11460233
 "He's shaking the plane,\Ntrying to deploy the landing gear.","ランディングギアを
 出そうとしているんだ","Landing gear
-I'm going to go out",0.17647058823529413
-If that doesn't work...,もし それがダメなら,If that is no good,0.2222222222222222
-They'll have to do a belly landing.,いよいよ胴体着陸だ,Finally it is a torso landing,0.15384615384615385
-You look...,（セシリア）まるで…,Maru ...,0.25
+I'm going to go out",0.17647058823529413,0.43030125
+If that doesn't work...,もし それがダメなら,If that is no good,0.2222222222222222,0.33421183
+They'll have to do a belly landing.,いよいよ胴体着陸だ,Finally it is a torso landing,0.15384615384615385,0.6162914
+You look...,（セシリア）まるで…,Maru ...,0.25,0.23521048
 This plane you're on could get into an accident.,"自分の乗っている飛行機が
 事故かもしれないのに","The plane you are riding
-It may be an accident",0.23529411764705882
+It may be an accident",0.2352941176470588,0.73559535
 I was just thinking the same thing about you.,"俺も今 君のことを
 そう思っていたところだ","I also have you now
-I thought so",0.13333333333333333
+I thought so",0.13333333333333333,0.36332157
 I... I don't care if I live or die.,"私は生きようが死のうが
 どうでもいいんです","I will die but I will die
-It doesn't matter",0.2
+It doesn't matter",0.2,0.5852756
 That's a lie.,"（ゴルゴ13）それはウソだ
 （セシリア）え？","It's a lie
-?",0.42857142857142855
+?",0.42857142857142855,0.7895132
 "If you really didn't care, you wouldn't be shaking.","本当に そう思っているなら
 震えたりなどしない","If you really think so
-Do not shake",0.1875
+Do not shake",0.1875,0.6005982
 "You want to be dead,\Nat peace and free from this world.","死んで この世から別れ
 安らぎを得たい","Dead from this world
-I want to get peace",0.4375
+I want to get peace",0.4375,0.8071188
 "That is the opposite of wanting to live,\Nfor the sake of something enjoyable.","これは楽しいことがあるなら
 生きていたいという欲望の裏返しだ","If this is fun
-It is turned over the desire to live",0.19047619047619047
+It is turned over the desire to live",0.19047619047619047,0.7189617
 A belly landing!,"（乗客のどよめき声）
-（乗客男性）胴体着陸だって！",It is a torso landing!,0.42857142857142855
-We've taken all necessary precautions.\NWe will be in no danger during our landing.,着陸に際して危険はありません,There is no danger when landing,0.16666666666666666
+（乗客男性）胴体着陸だって！",It is a torso landing!,0.42857142857142855,0.7994141
+We've taken all necessary precautions.\NWe will be in no danger during our landing.,着陸に際して危険はありません,There is no danger when landing,0.16666666666666666,0.7309015
 "However, please have your seatbelts on.","ただし必ず安全ベルトを
 締めてください","However, always a safety belt
-Please tighten",0.23076923076923078
-"Once you've done that, move into the most\Ncomfortable position for our landing.",それが お済みになりましたら,If you have done it,0.1111111111111111
+Please tighten",0.2307692307692308,0.60274637
+"Once you've done that, move into the most\Ncomfortable position for our landing.",それが お済みになりましたら,If you have done it,0.1111111111111111,0.33235937
 I want to live!,"（セシリアの震える息づかい）
-（セシリアの心の声）生きたい！",I want to live!,1.0
-We...,（乗客男性）助かった…,helpful ...,0.3333333333333333
-Boss! Boss!,（男たち）ボス！,Boss!,1.0
-I'm sorry.,ごめんなさい,sorry,0.25
-I followed you.,ついてきてしまったの,I've come,0.16666666666666666
-But... it's fine.,でも… もういいの,But ... good,0.2857142857142857
+（セシリアの心の声）生きたい！",I want to live!,1.0,1.0
+We...,（乗客男性）助かった…,helpful ...,0.3333333333333333,0.25746635
+Boss! Boss!,（男たち）ボス！,Boss!,1.0,0.9332775
+I'm sorry.,ごめんなさい,sorry,0.25,0.5420316
+I followed you.,ついてきてしまったの,I've come,0.16666666666666666,0.34929812
+But... it's fine.,でも… もういいの,But ... good,0.2857142857142857,0.633179
 "In an attempt to capture the details of a sniping\Non film, the director places Golgo into a trap.","狙撃(そげき)の一部始終を
 フィルムに収めようと","Single of sniper 
-To be included in the film",0.22727272727272727
-"The lead actress becomes involved\Nin the tragedy, and filming begins.",主演女優を巻き込んだ惨劇(さんげき)が,The tragedy  that involves the star actress,0.21428571428571427
-"Next time on\NGolgo 13, ""Casting""",次回「ゴルゴ13」,"Next time ""Golgo 13""",0.5555555555555556
+To be included in the film",0.2272727272727273,0.41043785
+"The lead actress becomes involved\Nin the tragedy, and filming begins.",主演女優を巻き込んだ惨劇(さんげき)が,The tragedy  that involves the star actress,0.21428571428571427,0.69380814
+"Next time on\NGolgo 13, ""Casting""",次回「ゴルゴ13」,"Next time ""Golgo 13""",0.5555555555555556,0.60063934
 "Do not stand behind him, if you value your life!","ヤツの後ろに立つな
 命が惜しければ","Do not stand behind the guy
-If you are lonely",0.375
+If you are lonely",0.375,0.64631474

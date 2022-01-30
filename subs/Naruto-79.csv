@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.7113179
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.86280525
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207105
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.6541094
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.38045898
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851642
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.40009782
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.5800125
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.3699327
 "For a start, wake up
 that medium kid.","(ｶﾞﾏﾌﾞﾝ
 太
@@ -106,7 +106,7 @@ that medium kid.","(ｶﾞﾏﾌﾞﾝ
 あの霊媒のガキを➡
 
 ","For now
-That's the ガ ガ ➡ ➡",0.13333333333333333
+That's the ガ ガ ➡ ➡",0.13333333333333333,0.004685334
 It will release that Jutsu!,"(ｶﾞﾏﾌﾞﾝ
 太
 )
@@ -116,7 +116,7 @@ It will release that Jutsu!,"(ｶﾞﾏﾌﾞﾝ
 
 ","One shot
  
-I can eat it!",0.18181818181818182
+I can eat it!",0.18181818181818185,0.24239017
 How do we go about waking him?!,"術が解ける
 ｡
 (ﾅﾙﾄ)
@@ -125,7 +125,7 @@ How do we go about waking him?!,"術が解ける
 ","Technique
 .
 
-How do you do it?",0.23076923076923078
+How do you do it?",0.2307692307692308,0.10199986
 "I'm not particularly good
 at transformations...","(ｶﾞﾏﾌﾞﾝ
 太
@@ -138,25 +138,25 @@ at transformations...","(ｶﾞﾏﾌﾞﾝ
 ","Although
  
 Speaker
-I'm good at changing changes!",0.3076923076923077
+I'm good at changing changes!",0.3076923076923077,0.3947813
 Huh?,"え？
 じゃけぇのう➡
 
 ","picture?
-じ ➡ ➡ ➡",0.2
+じ ➡ ➡ ➡",0.2,0.1386768
 "So you will act as my will
 and make the Sign!","お前がわしの意志になって
 印を結べ！➡
 
 ","You will be your will
-Sign marks!➡",0.26666666666666666
+Sign marks!➡",0.26666666666666666,0.7379208
 "We got to have fangs and claws!
 Let's go!","牙と爪のあるもんじゃぞ！➡
 
-",It's a fang and nails!➡,0.1875
+",It's a fang and nails!➡,0.1875,0.55665916
 Transform!,"変化じゃ～！
 
-",Change!,0.3333333333333333
+",Change!,0.3333333333333333,0.5633595
 F-Fox?,"(ｻｽｹ)
 き…
  
@@ -164,13 +164,13 @@ F-Fox?,"(ｻｽｹ)
 
 ","tree…
  
-Fox?",0.25
+Fox?",0.25,0.6519456
 What a battle...,"(ﾊﾟｯｸﾝ)
 何ちゅう戦いじゃ
 ｡
 
 ","What happens?
-.",0.14285714285714285
+.",0.14285714285714285,0.27393183
 "His power is increasing
 more and more!","威力が
  
@@ -180,16 +180,16 @@ more and more!","威力が
 ","Powerful
  
 More and more
-.",0.2222222222222222
+.",0.2222222222222222,0.6314731
 I know that!,"(ｶﾞﾏﾌﾞﾝ
 太
 )
 分かっとるわい！➡
 
-",I understand!➡,0.3333333333333333
+",I understand!➡,0.3333333333333333,0.52935445
 Go to hell!,"行くで～！
 
-",Go!,0.5
+",Go!,0.5,0.45939776
 All right! Now!,"(ｶﾞﾏﾌﾞﾝ
 太
 )
@@ -199,16 +199,16 @@ All right! Now!,"(ｶﾞﾏﾌﾞﾝ
 
 ","Os
  
-Now!",0.4
+Now!",0.4,0.38501966
 Okay!,"(ｶﾞﾏﾌﾞﾝ
 太
 )
 オリャ～！
 
-",ORY!,0.3333333333333333
+",ORY!,0.3333333333333333,0.34775308
 Wake the hell up!,"起きやがれ！
 
-",Get up!,0.3333333333333333
+",Get up!,0.3333333333333333,0.5654798
 "Not that much time has passed
 since the medium went to sleep!","(ｶﾞﾏﾌﾞﾝ
 太
@@ -229,12 +229,12 @@ That time also
  
 Fond
 .
-➡",0.21739130434782608
+➡",0.21739130434782608,0.4694942
 It hasn't been long since I emerged!,"やっと
 出てきたばかりなのによ～！
 
 ","at last
-It's just like it's out!",0.13333333333333333
+It's just like it's out!",0.13333333333333333,0.2852496
 "Even if the Playing Possum Jutsu
 is dissolved,","(ｶﾞﾏﾌﾞﾝ
 太
@@ -243,7 +243,7 @@ is dissolved,","(ｶﾞﾏﾌﾞﾝ
 まだ押されるんか》
 
 ","""Even if you understand
-Still pressed",0.14285714285714285
+Still pressed",0.14285714285714285,0.12789142
 <i>That guy interfered with my Jutsu...?!</i>,"(
 我愛羅
 )
@@ -253,10 +253,10 @@ Still pressed",0.14285714285714285
 
 ","""Atsushi my work!
  
-!""",0.11764705882352941
+!""",0.1176470588235294,0.26552746
 It's the chief's tongue...,"オヤビンの舌だ！
 
-",Oyabin's tongue!,0.25
+",Oyabin's tongue!,0.25,0.4692663
 "Both Naruto and I have already
 completely disgorged our Chakra!","チャクラは
  
@@ -266,19 +266,19 @@ completely disgorged our Chakra!","チャクラは
 ","Chakra
  
 Already
-I'm totally spit",0.21428571428571427
+I'm totally spit",0.21428571428571427,0.571577
 "You will be killed by me!
 I will not cease to exist!","お前は俺に殺される
 ｡
 
 ","You are killed by me
-.",0.2857142857142857
+.",0.2857142857142857,0.597183
 Leaf Hurricanes!,"(
 ガイ
 )
 木ノ葉旋風！
 
-",Taiwan leaf play!,0.4
+",Taiwan leaf play!,0.4,0.5325542
 "Well, it's understandable.
 This is what is called war.","こりゃ
  
@@ -288,7 +288,7 @@ This is what is called war.","こりゃ
 ","In case
  
 It is a so-called war
-.",0.26666666666666666
+.",0.26666666666666666,0.55623984
 It's taking much too long.,"(
 暗部
 )
@@ -298,7 +298,7 @@ It's taking much too long.,"(
 
 ","""long
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.3421023
 "It's impossible for a battle
 between Shinobi to last this long.","忍と忍が
  
@@ -316,14 +316,14 @@ Continue fighting
  
 Impossible
 .
-➡",0.2
+➡",0.2,0.82832116
 What the heck is happening inside?,"一体
  
 中で何が起きている？》
 
 ","Integral
  
-What is happening in it?""",0.36363636363636365
+What is happening in it?""",0.3636363636363637,0.3163913
 <i>You're still grabbing my arm...</i>,"(
 大蛇丸
 )
@@ -335,7 +335,7 @@ What is happening in it?""",0.36363636363636365
 ","""Uh
 Are you still wearing your arms ...
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.62258786
 "Come on,
 let go of me once and for all.","(ｶｶｼ)
 まっ
@@ -352,7 +352,7 @@ For
  
 So
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.2183323
 "I'm not letting your ambitions
 interfere with the village... any longer...","(
 猿飛
@@ -365,7 +365,7 @@ interfere with the village... any longer...","(
 ","more than this
  
 For your ambition
-The village is not involved!",0.19047619047619047
+The village is not involved!",0.19047619047619047,0.78317994
 "There's no stopping my ambitions!
 You will die here!","あんたが
  
@@ -375,22 +375,22 @@ You will die here!","あんたが
 ","Aunt
  
 I will die here
-.",0.21428571428571427
+.",0.21428571428571427,0.41730872
 "As the Third Hokage,","三代目火影として➡
 
-",As a third generation,0.2857142857142857
+",As a third generation,0.2857142857142857,0.3553916
 "are you saying you still have
 the power to save this village?","この里を救う力が
 あるとでもいうのか？
 
 ","The ability to save this village
-Is there anything?",0.375
+Is there anything?",0.375,0.71982193
 "Do you understand...
 the current situation?!","今の状況が
 あんたに分かっているのか？
 
 ","The current situation
-Do you know?",0.6
+Do you know?",0.6,0.74339646
 have infiltrated this village.,"(
 大蛇丸
 )
@@ -400,7 +400,7 @@ have infiltrated this village.,"(
 
 ","To this village
  
-Including my subordinates",0.2222222222222222
+Including my subordinates",0.2222222222222222,0.6723363
 "I will accomplish the destruction
 of the Hidden Leaf Village!","あなた方
  
@@ -408,7 +408,7 @@ of the Hidden Leaf Village!","あなた方
 
 ","You
  
-Shinobu of the wooden leaves",0.14285714285714285
+Shinobu of the wooden leaves",0.14285714285714285,0.4276385
 It's empty inside!,"(
 忍１
 )
@@ -424,7 +424,7 @@ It's empty inside!,"(
 .
 
 No one is here
-.",0.18181818181818182
+.",0.18181818181818185,0.46899846
 "Why is there so little resistance
 when we've closed in","どうして
  
@@ -432,16 +432,16 @@ when we've closed in","どうして
 
 ","why
  
-This is also a small resistance?",0.1875
+This is also a small resistance?",0.1875,0.605798
 "all the way to the center
 of the Hidden Leaf Village?","木ノ葉の里の中心部まで
 攻め入っているのに➡
 
 ","To the center of the village of the tree
-I'm attacking",0.35714285714285715
+I'm attacking",0.35714285714285715,0.6352747
 That's...,"ハッハハハ…！
 
-",Hachhaha ...!,0.2
+",Hachhaha ...!,0.2,0.3697049
 "And also... there's not one woman
 or child in sight.","女
  
@@ -451,7 +451,7 @@ or child in sight.","女
 ","woman
  
 It is annihilation without remaining one child
-.",0.2222222222222222
+.",0.2222222222222222,0.47544834
 What is the reason for that?,"女
  
 子どもの姿が
@@ -468,17 +468,17 @@ The figure of the child
 Alone
 I can not see it
  
-What kind of?",0.16666666666666666
+What kind of?",0.16666666666666666,0.09168589
 Huh?!,"(
 木ノ葉丸
 )
 ん！
 
-",Hmm!,0.25
+",Hmm!,0.25,0.5168379
 Konohamaru?,"(ﾓｴｷﾞ)
 えっ？
 
-",eh?,0.3333333333333333
+",eh?,0.3333333333333333,0.14843711
 "What's the matter, Konohamaru?","(ﾓｴｷﾞ)
 どうしたの？
  
@@ -488,7 +488,7 @@ Konohamaru?,"(ﾓｴｷﾞ)
 ","What's wrong?
  
 Kuno Maru-chan
-.",0.2727272727272727
+.",0.2727272727272727,0.4095652
 I gotta use the toilet.,"(
 木ノ葉丸
 )
@@ -500,7 +500,7 @@ I gotta use the toilet.,"(
 ","Hahaha ...
  
 Toilet Kore
-.",0.2
+.",0.2,0.4924785
 M-Me too...,"(ｳﾄﾞﾝ)
 ぼ…
  
@@ -510,32 +510,32 @@ M-Me too...,"(ｳﾄﾞﾝ)
 ","...
  
 Me too
-.",0.4
+.",0.4,0.472613
 This is an emergency situation!,"今は緊急事態だ！
 
-",Now it's an emergency!,0.3333333333333333
+",Now it's an emergency!,0.3333333333333333,0.8045682
 "If the enemy finds us,
 it will cost us!","敵に見つかれば
 ただでは済まないんだぞ！
 
 ","If you find an enemy
-I'm not just doing it!",0.2222222222222222
+I'm not just doing it!",0.2222222222222222,0.59779066
 "Go back to the other room
 and stay quiet!","部屋に戻って
 おとなしくしてなさい！
 
 ","Return to the room
-Please do your best!",0.26666666666666666
+Please do your best!",0.26666666666666666,0.57172406
 I-It's not that... I gotta pee!,"そうじゃないんだなコレ
 ｡
 
 ","That's not so Kore
-.",0.23076923076923078
+.",0.2307692307692308,0.1745782
 I don't think I can hold it...,"我慢できそうもないんだなコレ
 ｡
 
 ","I can not stand it
-.",0.2727272727272727
+.",0.2727272727272727,0.49028972
 "Gimme a break.
 In that case, come along with me...","それじゃあ
  
@@ -545,12 +545,12 @@ In that case, come along with me...","それじゃあ
 ","Well then
  
 With the teacher ...
-.",0.17647058823529413
+.",0.17647058823529413,0.19502302
 Hayate.,"ハヤテ
 ｡
 
 ","Hayate
-.",1.0
+.",1.0,1.0000002
 That's the signal. Let's go!,"(
 暗部
 )
@@ -570,7 +570,7 @@ let's go
 .
 
 Yes
-.",0.4166666666666667
+.",0.4166666666666667,0.7972554
 Roger!,"(
 忍５
 )
@@ -582,14 +582,14 @@ Roger!,"(
 
 ","Wow!
 
-Uh!",0.25
+Uh!",0.25,0.30159968
 "Don't underestimate the Shinobi
 of this Village!","(
 猿飛
 )
 この里の忍を甘く見るな！
 
-",Don't look sweet to this village Shinobu!,0.38461538461538464
+",Don't look sweet to this village Shinobu!,0.38461538461538464,0.7981451
 Yeah...,"(
 大蛇丸
 )
@@ -597,15 +597,15 @@ Yeah...,"(
 ｡
 
 ","Uh ...
-.",0.25
+.",0.25,0.73415756
 W-What's happening?,"(ｱﾔﾒ)
 大丈夫？
 
-",fine?,0.2
+",fine?,0.2,0.22257487
 "The Village Hidden in the Leaves
 has an instruction manual","木ノ葉の里には➡
 
-",In the village of the tree,0.2727272727272727
+",In the village of the tree,0.2727272727272727,0.6323982
 "Step One:
 Eliminate the enemy's sneak attack force.","第一段階
  
@@ -615,18 +615,18 @@ Eliminate the enemy's sneak attack force.","第一段階
 ","the first stage
  
 Elimination of enemy's surprise force
-.",0.3125
+.",0.3125,0.4870212
 proceed immediately to Step Two.,"直ちに第二段階に移行する
 ｡
 
 ","Immediately migrate to the second stage
-.",0.3
+.",0.3,0.50137144
 "Evacuate the women and children
 to shelters around the village!","女性や子どもなどを避難させる
 ｡
 
 ","Women and children evacuate
-.",0.36363636363636365
+.",0.3636363636363637,0.6532307
 "When that has been completed,
 proceed to Step Three!","それが完了したら
  
@@ -636,14 +636,14 @@ proceed to Step Three!","それが完了したら
 ","When it is completed
  
 It is the third stage
-.",0.11764705882352941
+.",0.1176470588235294,0.4408353
 Step Three...?,"第三段階？
 
-",Third stage?,0.16666666666666666
+",Third stage?,0.16666666666666666,0.32581958
 "Through the collective strength
 and efforts of the Village,","里の各所にある避難所に➡
 
-",To the shelter at various places of the village,0.21428571428571427
+",To the shelter at various places of the village,0.21428571428571427,0.6179125
 In that case...!,"すなわち
  
 非戦闘員の避難
@@ -652,7 +652,7 @@ In that case...!,"すなわち
 ","That is
  
 Non-fighter evacuation
-.",0.1111111111111111
+.",0.1111111111111111,0.118293755
 "We will not allow you to take
 even one step beyond this point!","(
 夕顔
@@ -663,7 +663,7 @@ even one step beyond this point!","(
 
 ","From here
  
-I will not go through one step!",0.2631578947368421
+I will not go through one step!",0.2631578947368421,0.67071396
 "<i>Rescue Sakura,</i>
 <i>if it's the last thing you do!</i>","＜サクラは
  
@@ -673,13 +673,13 @@ I will not go through one step!",0.2631578947368421
 ","<Sakura
  
 you
-Do your help even in the meantime!>",0.3333333333333333
+Do your help even in the meantime!>",0.3333333333333333,0.79972047
 <i>Please...</i>,"俺に…》
 
-","I am ... """,0.25
+","I am ... """,0.25,0.23592336
 <i>some Chakra!</i>,"《チャクラを！》
 
-","""Chakra!""",0.2222222222222222
+","""Chakra!""",0.2222222222222222,0.714411
 "What are you doing...?
 There's only one opponent!","(
 忍３
@@ -692,14 +692,14 @@ There's only one opponent!","(
 ","what you doing?
  
 The other party is alone
-.",0.2222222222222222
+.",0.2222222222222222,0.40446568
 Don't forget that!,"う…
  
 動かない！
 
 ","Cormorant…
  
-I do not move!",0.2222222222222222
+I do not move!",0.2222222222222222,0.1504342
 M-My... body... is immobilized...,"(
 忍４
 )
@@ -709,14 +709,14 @@ M-My... body... is immobilized...,"(
 
 ","mosquito…
  
-Body ...",0.3333333333333333
+Body ...",0.3333333333333333,0.33000132
 "Is this the first time
 you're experiencing","(ｼｶｸ)
 木ノ葉秘伝
 影縛りの術は初めてか？
 
 ","Trickle
-Is it the first work of shadow bonding?",0.2
+Is it the first work of shadow bonding?",0.2,0.18323183
 W-What's this?!,"(
 忍６
 )
@@ -726,7 +726,7 @@ W-What's this?!,"(
 
 ","Wow
  
-What!?",0.2857142857142857
+What!?",0.2857142857142857,0.2750409
 My body is... all on its own...!,"(
 忍５
 )
@@ -738,7 +738,7 @@ My body is... all on its own...!,"(
 ","Body is
  
 Selfish ...
-.",0.2727272727272727
+.",0.2727272727272727,0.47938412
 Stop!,"(
 忍６
 )
@@ -748,7 +748,7 @@ Stop!,"(
 
 ","Stop!
  
-Stop!",1.0
+Stop!",1.0,0.9257363
 Reminds me of the old days!,"昔を思い出すな
 ｡
 (ﾁｮｳｻﾞ)
@@ -759,12 +759,12 @@ Reminds me of the old days!,"昔を思い出すな
 .
 
 King
-.",0.25
+.",0.25,0.54271495
 The original Ino Shika Cho Trio reunites!,"猪鹿蝶トリオの再結集だな
 ｡
 
 ","I'm relying on the Takeru Trio
-.",0.14285714285714285
+.",0.14285714285714285,0.36801174
 "In order to protect the village,","(
 猿飛
 )
@@ -778,13 +778,13 @@ The original Ino Shika Cho Trio reunites!,"猪鹿蝶トリオの再結集だな
  
 all
  
-To protect the village",0.36363636363636365
+To protect the village",0.3636363636363637,0.5217545
 The poison in my body is...,"(
 シノ
 )
 《体の毒気が…》
 
-","""Poison of body ...""",0.3
+","""Poison of body ...""",0.3,0.6888731
 They are removing the poison.,"(
 シビ
 )
@@ -800,7 +800,7 @@ They are removing the poison.,"(
 Sino
 I put the dictionary
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.08968541
 "I believe I taught this
 to you too, in the past...","(
 猿飛
@@ -813,33 +813,33 @@ to you too, in the past...","(
 ","Once
 I should have taught you
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.65161467
 "It is when one protects
 someone important...","大切なものを守るとき➡
 
-",When we protect important things,0.18181818181818182
+",When we protect important things,0.18181818181818185,0.55172247
 "that the true strength of
 the Shinobi will emerge!","真の忍の力は表れるのだと
 ｡
 
 ","The power of true Shinobu will appear
-.",0.3076923076923077
+.",0.3076923076923077,0.77129585
 <i>I will protect everyone!</i>,"《みんなは
  
 俺が守る！》
 
 ","""Everyone
  
-I will protect!""",0.5
+I will protect!""",0.5,0.7743254
 Die...!,"死ね～！
 
-",Death ~!,0.2
+",Death ~!,0.2,0.67323256
 Darn...,"こん…➡
 
-",Hello ... ➡,0.25
+",Hello ... ➡,0.25,0.29715466
 D-Did he win?,"勝ったのか？
 
-",Was it won?,0.14285714285714285
+",Was it won?,0.14285714285714285,0.5629964
 <i>A simple head blow...</i>,"(ｶﾞﾏﾌﾞﾝ
 太
 )
@@ -849,7 +849,7 @@ D-Did he win?,"勝ったのか？
 
 ","""Just the head of the head ...
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.48161328
 "<i>I've never seen a knucklehead Ninja</i>
 <i>like him before, but...</i>","こがぁな
  
@@ -859,7 +859,7 @@ D-Did he win?,"勝ったのか？
 ","Mastery
  
 The ninja who did not
-What I saw",0.08695652173913043
+What I saw",0.08695652173913042,0.5380649
 "<i>he sure is the first phenomenal kid</i>
 <i>I've seen in a long time.</i>","わしも
  
@@ -867,7 +867,7 @@ What I saw",0.08695652173913043
 
 ","Others
  
-It is already the limit",0.09523809523809523
+It is already the limit",0.09523809523809523,-0.004906048
 <i>but I've reached my limit.</i>,"ガマ吉
  
 そろそろ帰るで
@@ -876,12 +876,12 @@ It is already the limit",0.09523809523809523
 ","Guy
  
 I'm going back soon
-.",0.06666666666666667
+.",0.06666666666666668,0.15573381
 "Gamakichi, let's head home!","久しぶりに
 ぶっ飛んだガキじゃ！➡
 
 ","after a long time
-It's a crazy girl!➡",0.13333333333333333
+It's a crazy girl!➡",0.13333333333333333,0.15189077
 Okay! Pop!,"(
 我愛羅
 )
@@ -889,7 +889,7 @@ Okay! Pop!,"(
 うわっ！
 
 ","Wow!
-Wow!",0.25
+Wow!",0.25,0.22578053
 "As might be expected, even I...
 am empty now...","さすがに
  
@@ -901,24 +901,24 @@ am empty now...","さすがに
  
 I will already
 It's empty
-.",0.375
+.",0.375,0.71062934
 "We're much alike...
 let's make this time the last!","これで最後にしようぜ
 ｡
 
 ","Let's finally let it go
-.",0.11764705882352941
+.",0.1176470588235294,0.34904355
 It appears that...,"残っていないようじゃ…
 ｡
 
 ","It is not because it is not remaining ...
-.",0.2222222222222222
+.",0.2222222222222222,0.27893484
 "I don't have the strength left
 to yank out your entire soul.","お前の魂を
 すべて引きずり出すだけの力は➡
 
 ","Your soul
-The power just drilling out is ➡",0.21052631578947367
+The power just drilling out is ➡",0.21052631578947367,0.56520545
 "However, your ambition ends here!","しかし
  
 お前の野望も
@@ -927,12 +927,12 @@ The power just drilling out is ➡",0.21052631578947367
 ","However
  
 Your ambitions
-So far!",0.3
+So far!",0.3,0.70892704
 There's no stopping my ambition!,"まだだ！
 まだ私の野望は止まらぬ！
 
 ","Still!
-My ambition is still stopped!",0.3
+My ambition is still stopped!",0.3,0.83784264
 I have a suitable punishment for you,"術に溺れ
 術におごった
  
@@ -941,7 +941,7 @@ I have a suitable punishment for you,"術に溺れ
 ","Drowning
 I was scolded
  
-You are ➡",0.16666666666666666
+You are ➡",0.16666666666666666,0.26507297
 "who have become addicted to the Jutsu
 and who have overindulged in the Jutsu!","それに
  
@@ -949,7 +949,7 @@ and who have overindulged in the Jutsu!","それに
 
 ","in addition
  
-Make the appropriate punishment!➡",0.1875
+Make the appropriate punishment!➡",0.1875,0.30183807
 I will take all your Jutsu away with me!,"お前の術を
 すべて
  
@@ -958,24 +958,24 @@ I will take all your Jutsu away with me!,"お前の術を
 ","Your technique
 all
  
-I'll get it!",0.2857142857142857
+I'll get it!",0.2857142857142857,0.31409785
 What did you say?!,"何だと!?
 
-",What did you say!?,1.0
+",What did you say!?,1.0,0.8681588
 Don't tell me that?,"まさか!?
 
-",Is it?,0.125
+",Is it?,0.125,0.24562182
 Stop that!,"やめろ～！
 
-",Stop ~!,0.5
+",Stop ~!,0.5,0.7382358
 Seal!,"封印‼
 
-",sealed!,0.3333333333333333
+",sealed!,0.3333333333333333,0.6957106
 My... My arms...,"腕が…
 ｡
 
 ","Arm ...
-.",0.2
+.",0.2,0.7196376
 "And since you can't use your arms,
 you can't weave Signs.","これで
  
@@ -985,14 +985,14 @@ you can't weave Signs.","これで
 ","with this
  
 Do not use both arms
-.",0.17647058823529413
+.",0.17647058823529413,0.52071035
 You no longer possess Ninjutsu!,"お前に
  
 もはや忍術はない！
 
 ","Over
  
-No longer Ninjutsu!",0.5714285714285714
+No longer Ninjutsu!",0.5714285714285714,0.81823844
 "Your ambition of crushing
 the Hidden Leaf... dies right here!","(
 猿飛
@@ -1003,7 +1003,7 @@ the Hidden Leaf... dies right here!","(
 
 ","Criminal collapse
  
-Torn here!",0.13333333333333333
+Torn here!",0.13333333333333333,0.29665866
 "You old dotard!
 Give me back my arms!","この老いぼれが！
  
@@ -1011,11 +1011,11 @@ Give me back my arms!","この老いぼれが！
 
 ","This old age is!
  
-Return my arms!",0.3076923076923077
+Return my arms!",0.3076923076923077,0.66951853
 "It's unfortunate that
 we can't leave together,","共に逝けぬのは残念じゃが➡
 
-",It is a pity that I can not make it together,0.17647058823529413
+",It is a pity that I can not make it together,0.17647058823529413,0.54020506
 "but, my disciple...","♬
  
 何度も
@@ -1030,7 +1030,7 @@ Many times
  
 Dreamy
  
-Many times ...",0.1111111111111111
+Many times ...",0.1111111111111111,0.16622837
 let's meet in the other world one day.,"愚かなるかな
  
 大蛇丸
@@ -1039,7 +1039,7 @@ let's meet in the other world one day.,"愚かなるかな
 ","I wonder if it will be stupid
  
 Large snake circle
-.",0.05
+.",0.05,0.23695399
 "<i>The shadow of the fire</i>
 <i>will illuminate the Village...</i>","(
 猿飛
@@ -1048,7 +1048,7 @@ Large snake circle
 ｡
 
 ","The shadow of the fire is illuminated by the village ...
-.",0.375
+.",0.375,0.837172
 <i>And once more the Leaf will sprout...</i>,"(
 猿飛
 )
@@ -1056,4 +1056,4 @@ Large snake circle
 ｡
 
 ","The wooden leaves will sprout ...
-.",0.26666666666666666
+.",0.26666666666666666,0.7156465

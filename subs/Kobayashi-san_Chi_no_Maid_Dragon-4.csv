@@ -1,425 +1,425 @@
-en_text,jp_text,google_translated,score
-but do you think she might want to go?,もしかして行きたいのかな？,Do you want to go?,0.6
-"Who, Kanna? I think so.",そうだと思いますよ,I think so,0.375
-"How young, how young.",若い 若い,Young young,0.25
-Huh? What are you talking about?,え？ 何の話？,picture?What are you talking about?,0.75
-"A journey to eliminate humanity, right?",人類根絶の旅ですよね？,"It is a trip to humanity, right?",0.5454545454545454
+en_text,jp_text,google_translated,score,semantic_score
+but do you think she might want to go?,もしかして行きたいのかな？,Do you want to go?,0.6,0.60872763
+"Who, Kanna? I think so.",そうだと思いますよ,I think so,0.375,0.23804103
+"How young, how young.",若い 若い,Young young,0.25,0.6254511
+Huh? What are you talking about?,え？ 何の話？,picture?What are you talking about?,0.75,0.6719615
+"A journey to eliminate humanity, right?",人類根絶の旅ですよね？,"It is a trip to humanity, right?",0.5454545454545454,0.66207635
 "No, I'm talking about school.","（小林）違う
-私が言ってるのは 学校のこと",What I say is the school,0.16666666666666666
-"Oh, school.",（トール）ああ 学校ですか,"Oh, is it a school?",0.375
+私が言ってるのは 学校のこと",What I say is the school,0.16666666666666666,0.5822647
+"Oh, school.",（トール）ああ 学校ですか,"Oh, is it a school?",0.375,0.56421804
 I see that come up on the Internet often.,"ドラゴンは誰しも １度は
 そんなことを考えるんですよね～","Everyone is one of the dragons
-I think about that",0.17647058823529413
-Kanna-chan.,カンナちゃん,Kanna,0.0
-"What, Kobayashi?",（カンナカムイ）何？,What?,0.5
-"Oh, well...",あー そのー 何だ,"Oh, what is",0.3333333333333333
-Want to go to school?,学校 行く？,Do you go to school?,0.5714285714285714
-Kobayashi!,（カンナ）コバヤシ,Kobayashi,0.5
-I sense some collusion between\Nschools and the manufacturers.,ネットで言ってました,I was talking on the net,0.15384615384615385
-It's a conspiracy.,陰謀ですね,It is a plot,0.2857142857142857
-I don't think that's true.,そんなことは ないと思うけど,I think there is no such thing,0.15384615384615385
+I think about that",0.17647058823529413,0.20193876
+Kanna-chan.,カンナちゃん,Kanna,0.0,0.7627521
+"What, Kobayashi?",（カンナカムイ）何？,What?,0.5,0.15559587
+"Oh, well...",あー そのー 何だ,"Oh, what is",0.3333333333333333,0.45204642
+Want to go to school?,学校 行く？,Do you go to school?,0.5714285714285714,0.6714348
+Kobayashi!,（カンナ）コバヤシ,Kobayashi,0.5,0.90672207
+I sense some collusion between\Nschools and the manufacturers.,ネットで言ってました,I was talking on the net,0.15384615384615385,0.11005535
+It's a conspiracy.,陰謀ですね,It is a plot,0.2857142857142857,0.32504886
+I don't think that's true.,そんなことは ないと思うけど,I think there is no such thing,0.15384615384615385,0.2747807
 The Internet said it is!,"（トール）
-まったくですね～",It is totally,0.2857142857142857
-"Well, let's pick up all the stationery first.",じゃあまず 文房具をそろえるか,"Well, do you align the stationery?",0.26666666666666666
+まったくですね～",It is totally,0.2857142857142857,0.4971444
+"Well, let's pick up all the stationery first.",じゃあまず 文房具をそろえるか,"Well, do you align the stationery?",0.26666666666666666,0.5895973
 Welcome!,"（文房具屋のおばあちゃん）
-いらっしゃい",welcome,0.5
+いらっしゃい",welcome,0.5,0.8540113
 I see stationery stores haven't\Nchanged at all since long ago.,"文房具屋なんて 今も昔も
 変わらないもんだなー","Stationery stores are still in old days
-It does not change",0.1
+It does not change",0.1,0.8907105
 What's that look for?!,"（カンナ）ず～ん
-（小林）何？ その顔",What?That face,0.375
+（小林）何？ その顔",What?That face,0.375,0.3532285
 "Jeez, you don't get it, Miss Kobayashi.","も～ 分かってないですね
 小林さん","I do not know ~
-Mr. Kobayashi",0.13333333333333333
-Leave it to me!,私に任せてください！,Please leave it to me!,0.8333333333333334
-What's this place?,（小林）何？ ここ,What?here,0.3333333333333333
+Mr. Kobayashi",0.13333333333333333,0.6819206
+Leave it to me!,私に任せてください！,Please leave it to me!,0.8333333333333334,0.80404836
+What's this place?,（小林）何？ ここ,What?here,0.3333333333333333,0.23246045
 The feathers plucked from live birds\Naround this season make good pens!,"この時期 生きた鳥から
 むしった羽根は","From the bird that was living this time
-Mushi feathers",0.2222222222222222
-Scary! Scary!,怖い 怖い,scary scary,0.5
-"Seems like this is wrong, too.",（小林）これも違うっぽい,This is also different,0.2
-That's strange.,かわいいのが いい,It's pretty good,0.14285714285714285
+Mushi feathers",0.2222222222222222,0.47708917
+Scary! Scary!,怖い 怖い,scary scary,0.5,0.78431785
+"Seems like this is wrong, too.",（小林）これも違うっぽい,This is also different,0.2,0.36786902
+That's strange.,かわいいのが いい,It's pretty good,0.14285714285714285,0.089180835
 When I was in the other world everyone used quill pens.,"あちらにいた時は みんな
 羽根ペンを使っていたのですが","Everyone when you were there
-She used a feather pen",0.15789473684210525
-I want a cute one. A cute one.,キュートなの,Cute,0.16666666666666666
+She used a feather pen",0.15789473684210525,0.50092417
+I want a cute one. A cute one.,キュートなの,Cute,0.16666666666666666,0.45592123
 "Oh, I heard a new store opened\Noutside the shopping district recently.","あッ 最近 商店街の外に
 新しいお店ができたと聞きました","Recently outside the shopping street
-I heard that a new shop was made",0.3684210526315789
+I heard that a new shop was made",0.3684210526315789,0.72135645
 What's this?,"何これ
 目がチカチカする…","What's this
-My eyes are ticking ...",0.3333333333333333
-How do you use it?,これは？ どうやって使う？,this is?How do you use it?,0.75
-"You'll be using a pencil though, Kanna-chan.",カンナちゃんには 鉛筆だけどね,Cancona is a pencil,0.16666666666666666
+My eyes are ticking ...",0.3333333333333333,0.32410467
+How do you use it?,これは？ どうやって使う？,this is?How do you use it?,0.75,0.8126082
+"You'll be using a pencil though, Kanna-chan.",カンナちゃんには 鉛筆だけどね,Cancona is a pencil,0.16666666666666666,0.5002439
 Miss Kobayashi!,"（トール）小林さん！
 （小林）ん？","Mr. Kobayashi!
-?",0.4
-Scary!,（小林）怖ッ,scary,0.5
+?",0.4,0.7658715
+Scary!,（小林）怖ッ,scary,0.5,0.81712526
 "Hey, Kobayashi,","（カンナ）ね～ コバヤシ
 （小林）ん？","~ Kobayashi
-?",0.2
+?",0.2,0.79460496
 what's this thing that looks like a dragon's mouth?,"この ドラゴンの口
 みたいなやつは？","Mouth of this dragon
-What is your guy?",0.3333333333333333
-What a torture device.,拷問器具ですね,It is a torture instrument,0.25
-How did you jump to that?,どうして そうなる？,Why are you doing so?,0.18181818181818182
-Then what about this?,（カンナ）じゃあ これは？,Well then this?,0.5
+What is your guy?",0.3333333333333333,0.753957
+What a torture device.,拷問器具ですね,It is a torture instrument,0.25,0.6720535
+How did you jump to that?,どうして そうなる？,Why are you doing so?,0.18181818181818185,0.19522761
+Then what about this?,（カンナ）じゃあ これは？,Well then this?,0.5,0.70215935
 That's a tool for branding slaves.,"それは 奴隷に刻印するための
 道具ですね","It is for engraving slaves
-It is a tool",0.36363636363636365
+It is a tool",0.3636363636363637,0.6068632
 "Come on, Miss Kobayashi! Brand me as yours!","さあ 小林さん
 私に所有者の証しを！","Mr. Kobayashi
-Provision of the owner to me!",0.1875
+Provision of the owner to me!",0.1875,0.6289993
 No.,"やだよ
 （トール）はうッ","no way
- Hauwa",0.25
-Popular! Unicorn Pencil Box,見て トール様　ユニコーン,Tall-like Unicorn,0.16666666666666666
+ Hauwa",0.25,0.2630537
+Popular! Unicorn Pencil Box,見て トール様　ユニコーン,Tall-like Unicorn,0.16666666666666666,0.445794
 "Look, Lady Tohru, a unicorn.","（トール）あれなら
 ユニコーンも本望でしょうね","if
-Unicorn will also be a good idea",0.15384615384615385
+Unicorn will also be a good idea",0.15384615384615385,0.44789287
 Thank you very much!,"（男性店員）
-ありがとうございました～",Thank you ~,0.3333333333333333
-Now we've got most of it.,大体 そろったな,It is roughly,0.1
+ありがとうございました～",Thank you ~,0.3333333333333333,0.49969697
+Now we've got most of it.,大体 そろったな,It is roughly,0.1,0.2008577
 Does it really have to be this place?,"（トール）どうしても
 ここじゃないとダメですか？","Why
-Is it useless if it is not here?",0.13333333333333333
+Is it useless if it is not here?",0.13333333333333333,0.39499003
 This is the only place in the area that sells backpacks.,"（小林）
 この辺じゃランドセルなんて
 ここしか売ってないの","This area island
-I only sell here",0.2
+I only sell here",0.2,0.48016253
 "I understand that, but I still don't like it.","分かっていても
 どうにも気が進みません","Even if you understand
-I do not care about it",0.23529411764705882
-I can't help but remember...,どうしても思い出してしまって…,I really remember ...,0.375
-"Well, let's go.",（小林）じゃ行こっか ２人で,Let's go by two people,0.3333333333333333
-Please wait!,待ってください！,please wait!,1.0
-"Kanna-chan, which one do you like?",カンナちゃん どれがいい？,Which is Kanna?,0.2
-This.,これ,this,0.5
+I do not care about it",0.2352941176470588,0.49142957
+I can't help but remember...,どうしても思い出してしまって…,I really remember ...,0.375,0.58856416
+"Well, let's go.",（小林）じゃ行こっか ２人で,Let's go by two people,0.3333333333333333,0.41206336
+Please wait!,待ってください！,please wait!,1.0,1.0000001
+"Kanna-chan, which one do you like?",カンナちゃん どれがいい？,Which is Kanna?,0.2,0.62285244
+This.,これ,this,0.5,0.80710405
 I can see why you'd choose a cursed\Nitem that's absorbed human blood.,"人の血を吸い込んだ
 呪いのアイテムを選ぶとは","I sucked the blood of people
-To choose an item of curse",0.13043478260869565
-That's your reason?!,（小林）そういうことか,That's what,0.2857142857142857
+To choose an item of curse",0.13043478260869565,0.6740251
+That's your reason?!,（小林）そういうことか,That's what,0.2857142857142857,0.29661065
 "That'll be 38,000 yen.","（女性店員）
-３万８千円になりま～す","It will be 38,000 yen",0.375
-Is this all right?,こんなにするのか,Do you want to do this?,0.2222222222222222
-"Oh, yeah. It's fine.",おお～,Oh ~,0.125
+３万８千円になりま～す","It will be 38,000 yen",0.375,0.9458852
+Is this all right?,こんなにするのか,Do you want to do this?,0.2222222222222222,0.38148957
+"Oh, yeah. It's fine.",おお～,Oh ~,0.125,0.34345025
 Sure. Thank you very much.,"（女性店員）
-はい ありがとうございます","Yes, thank you",0.25
+はい ありがとうございます","Yes, thank you",0.25,0.48257518
 "This is the store designated by the school,","（小林）ここは学校指定の店なの
 だから しょうがない","This is a school designated store
-So not to help",0.38461538461538464
+So not to help",0.38461538461538464,0.8213768
 Everyone should be wearing the same thing.,"こういうのは
 みんな同じにしておかないと","Such a
-I have to make everyone the same",0.21428571428571427
-Why's that?,どうしてですか？,Why?,0.5
+I have to make everyone the same",0.21428571428571427,0.4014024
+Why's that?,どうしてですか？,Why?,0.5,0.68391067
 "Men, women, Japanese, and foreigners are all the same.","男子も女子も
 日本人も外国人も―","Men's girls and girls
-Japanese and foreigners-",0.21428571428571427
+Japanese and foreigners-",0.21428571428571427,0.7810699
 What happens when you're\Ndifferent from everyone else?,"（トール）みんなと違うと
 どうなるんですか？","If everyone is different
-What happens?",0.36363636363636365
+What happens?",0.3636363636363637,0.60524595
 "It might not be like that for dragons,","ドラゴンには そういうの
 ないかもしれないけどね","That's right for dragons
-It may not be",0.5
-but humans don't like things different from themselves.,人間は異物を好まないんだ,Humans do not like foreign matter,0.23076923076923078
-"Yeah, I agree it is.",うん　愚かだと思う,I think it's stupid,0.2
-But everyone's afraid...,でも みんな怖いんだよ,But everyone is scary,0.2857142857142857
-I kind of understand.,（トール）なんか 分かります,I understand something,0.3333333333333333
-Sorry.,ごめん,sorry,0.5
-Thanks for your concern.,気を使わせた,Spent,0.0
-"Kanna-chan, are you looking forward to school?",カンナちゃん 学校 楽しみ？,Kanna-chan Fun?,0.2
-Yeah.,（カンナ）うん,Yeah,0.5
-"All right then. Once we get\Nhome, we prepare for tomorrow!",よし 帰って明日の準備するか,Good luck and prepare tomorrow,0.13333333333333333
+It may not be",0.5,0.82608414
+but humans don't like things different from themselves.,人間は異物を好まないんだ,Humans do not like foreign matter,0.2307692307692308,0.5882551
+"Yeah, I agree it is.",うん　愚かだと思う,I think it's stupid,0.2,0.37953174
+But everyone's afraid...,でも みんな怖いんだよ,But everyone is scary,0.2857142857142857,0.70113444
+I kind of understand.,（トール）なんか 分かります,I understand something,0.3333333333333333,0.6481884
+Sorry.,ごめん,sorry,0.5,0.8435785
+Thanks for your concern.,気を使わせた,Spent,0.0,0.1600677
+"Kanna-chan, are you looking forward to school?",カンナちゃん 学校 楽しみ？,Kanna-chan Fun?,0.2,0.6809685
+Yeah.,（カンナ）うん,Yeah,0.5,0.8708079
+"All right then. Once we get\Nhome, we prepare for tomorrow!",よし 帰って明日の準備するか,Good luck and prepare tomorrow,0.13333333333333333,0.51775396
 "Miss Kobayashi, that's not fair!","（トール）あ～！
 小林さん ずるいです","Oh!
-Mr. Kobayashi",0.2
-"Please hold my hand, too!",私の手も握ってください,Please hold my hand,0.5714285714285714
-"Yes, yes.",（小林）はいはい,Yes yes,0.3333333333333333
-"Look, look!",見て 見て,Look look,0.3333333333333333
-You look good!,（小林）おー！ いいじゃんか,!Good,0.5
+Mr. Kobayashi",0.2,0.66314447
+"Please hold my hand, too!",私の手も握ってください,Please hold my hand,0.5714285714285714,0.86541784
+"Yes, yes.",（小林）はいはい,Yes yes,0.3333333333333333,0.78821546
+"Look, look!",見て 見て,Look look,0.3333333333333333,0.7482919
+You look good!,（小林）おー！ いいじゃんか,!Good,0.5,0.43089643
 "Yeah, cute.","うん　かわいい
-（トール）はッ",Yeah,0.25
-Lady Tohru.,（カンナ）トール様,Tall,0.0
-Kanna.,（トール）カンナ,Kanna,0.5
+（トール）はッ",Yeah,0.25,0.41498217
+Lady Tohru.,（カンナ）トール様,Tall,0.0,0.18772808
+Kanna.,（トール）カンナ,Kanna,0.5,0.9734205
 Please lend that to me.,"それ 私にも貸してください
 （カンナ）ん？","Please lend me to me
-?",0.5714285714285714
+?",0.5714285714285714,0.57483613
 Please look! What do you think?,"見てくださ～い
 どうですか？","Please look
-how is it?",0.2727272727272727
+how is it?",0.2727272727272727,0.57478225
 "Even though she's a dragon, she's still a child.","ドラゴンっていっても
 子供なんだなー","Even if it is dragon
-I'm a child",0.26666666666666666
-What's Kanna-chan doing?,何してんの？ カンナちゃん,what are you doing?Kanna,0.375
-She's practicing her writing.,字を書く練習です,Practice writing a letter,0.1111111111111111
-"How to score a boyfriend! \NRecommended for friends, family, \Nand coworkers!",へー,To,0.07692307692307693
-Let's forget all this for now.,いったん全部 忘れよっか,Once all forgotten,0.1
+I'm a child",0.26666666666666666,0.7556243
+What's Kanna-chan doing?,何してんの？ カンナちゃん,what are you doing?Kanna,0.375,0.6650315
+She's practicing her writing.,字を書く練習です,Practice writing a letter,0.1111111111111111,0.4749077
+"How to score a boyfriend! \NRecommended for friends, family, \Nand coworkers!",へー,To,0.07692307692307693,0.1118826
+Let's forget all this for now.,いったん全部 忘れよっか,Once all forgotten,0.1,0.533172
 Good morning!,"（３年２組の生徒たち）
-おはようございます",good morning,0.6666666666666666
-"Yes, good morning.",（先生）はい おはようございます,Yes Good morning,0.6
+おはようございます",good morning,0.6666666666666666,0.90830517
+"Yes, good morning.",（先生）はい おはようございます,Yes Good morning,0.6,0.9421341
 Today we have a new friend\Nto introduce to everyone here.,"今日は皆さんに
 新しいお友達を紹介します","Today is everyone
-Introduce new friends",0.3076923076923077
+Introduce new friends",0.3076923076923077,0.7839249
 Kobayashi Kanna. It's a pleasure to meet you.,"小林カンナです
 よろしくお願いします","Kobayashi Kanna
-thank you",0.2727272727272727
-Cute!,（填島(まきしま)）かわいい！,cute!,1.0
-Where'd you come from?,（藤堂(とうどう)）どこから来たの？,Where did you come from?,0.7142857142857143
-Ushishir Island.,ウシシル島,Uchisyl island,0.25
-From abroad?! Wow!,（大谷(おおたに)）外国!? すげ～！,) Foreign country!?,0.25
+thank you",0.2727272727272727,0.78584784
+Cute!,（填島(まきしま)）かわいい！,cute!,1.0,0.99999994
+Where'd you come from?,（藤堂(とうどう)）どこから来たの？,Where did you come from?,0.7142857142857143,0.8685351
+Ushishir Island.,ウシシル島,Uchisyl island,0.25,0.7043109
+From abroad?! Wow!,（大谷(おおたに)）外国!? すげ～！,) Foreign country!?,0.25,0.6064828
 It looks like her introduction went well.,"どうやら挨拶は
 うまくいっているようですね～","Apparently greetings
-It seems to be well",0.15384615384615385
-"Leave it to me, Miss Kobayashi!",任せてください 小林さん！,Please leave Mr. Kobayashi!,0.3
-"Yes. Now, for this problem,",じゃあ この問題 小林さん,Well then this problem Kobayashi,0.2
-"can you solve it, Kobayashi-san?",できるかな？,Can you do it?,0.5
-What a boring problem.,退屈な問題ですね～,It is a boring problem,0.42857142857142855
+It seems to be well",0.15384615384615385,0.29942918
+"Leave it to me, Miss Kobayashi!",任せてください 小林さん！,Please leave Mr. Kobayashi!,0.3,0.81696177
+"Yes. Now, for this problem,",じゃあ この問題 小林さん,Well then this problem Kobayashi,0.2,0.31817704
+"can you solve it, Kobayashi-san?",できるかな？,Can you do it?,0.5,0.22506903
+What a boring problem.,退屈な問題ですね～,It is a boring problem,0.42857142857142855,0.8743005
 Kanna wanted to do things like that?,"カンナは あんなこと
 したかったんですかね","Kanna is such a thing
-I wanted to",0.23076923076923078
-"Yes, that's correct.",はい 正解です,Yes correct answer,0.2857142857142857
+I wanted to",0.2307692307692308,0.84981424
+"Yes, that's correct.",はい 正解です,Yes correct answer,0.2857142857142857,0.5762175
 It seems to be some game of\Nhitting each other with a ball.,"どうやら ボールを
 ぶつけ合う競技のようですね","Apparently the ball
-It looks like a competition to hit",0.21052631578947367
+It looks like a competition to hit",0.21052631578947367,0.60506254
 A fitting game for barbaric humans.,"能力に合わせて
 クラスを替えていった方が―","For your ability
-If you have replaced a class-",0.14285714285714285
-"Yes, that's it!",（藤堂）ぎゃ！,!,0.16666666666666666
-"Kobayashi-san, you're incredible!",（遠藤）小林さん すご～い,Kobayashi-san,0.16666666666666666
-"You can do anything, can't you?",（室井(むろい)）何でも できるんだね！,) I can do anything!,0.2727272727272727
+If you have replaced a class-",0.14285714285714285,0.032967295
+"Yes, that's it!",（藤堂）ぎゃ！,!,0.16666666666666666,0.18795599
+"Kobayashi-san, you're incredible!",（遠藤）小林さん すご～い,Kobayashi-san,0.16666666666666666,0.8082624
+"You can do anything, can't you?",（室井(むろい)）何でも できるんだね！,) I can do anything!,0.2727272727272727,0.66336715
 Can I call you Kanna-chan?,"（浜田(はまだ)）“カンナちゃん”って
 呼んでもいい？",") ""Kanna""
-May I call it?",0.25
+May I call it?",0.25,0.66769344
 "Oh, can I call you that, too?","（宗本(そうもと)）あッ 私も そう呼んでいい？
 （才川(さいかわ)リコ）ふんッ",") I like that too?
- Rico)",0.3333333333333333
-"Even young, they're still human, huh?",やはり 幼かろうと人間ですね,After all it is human beings,0.07142857142857142
-"Yes, farewell!",（先生）はい さようなら,Yes goodbye,0.2
+ Rico)",0.3333333333333333,0.27650306
+"Even young, they're still human, huh?",やはり 幼かろうと人間ですね,After all it is human beings,0.07142857142857142,0.4403835
+"Yes, farewell!",（先生）はい さようなら,Yes goodbye,0.2,0.79891294
 "Hey, Kobayashi Kanna-san!","（才川）
-ちょっと！ 小林カンナさん",a little bit!Kenna Kobayashi,0.2222222222222222
+ちょっと！ 小林カンナさん",a little bit!Kenna Kobayashi,0.2222222222222222,0.67468464
 Don't you think you've been standing out too much?,"あなた ちょっと
 目立ちすぎじゃない？","You
-Isn't it too noticeable?",0.2857142857142857
-"It's Saikawa, the one who acts like a queen!",目立ってるわ！,It's noticeable!,0.23076923076923078
+Isn't it too noticeable?",0.2857142857142857,0.40874726
+"It's Saikawa, the one who acts like a queen!",目立ってるわ！,It's noticeable!,0.2307692307692308,0.18760589
 Thanks for the clear explanation.,"分かりやすい説明
 ありがとう","Easy-to-understand explanation
-Thank you",0.1111111111111111
+Thank you",0.1111111111111111,0.4877149
 But no! Shut up!,"じゃないわよ！
 黙りなさい！","It's not!
-Shut up!",0.375
+Shut up!",0.375,0.6212285
 "You did! You're so cute, it ticks\Nme off and I want to hug you!","もう かわいすぎるから
 腹が立って抱きしめたくなる","Because it's too cute
-I'm getting angry and I want to hug",0.3333333333333333
-"I challenge you, Kobayashi Kanna-san!",勝負よ 小林カンナさん！,Kobayashi Kanna!,0.25
+I'm getting angry and I want to hug",0.3333333333333333,0.64055854
+"I challenge you, Kobayashi Kanna-san!",勝負よ 小林カンナさん！,Kobayashi Kanna!,0.25,0.829846
 I'll prove I'm better than you!,"私が上だって
 分からせてあげる！","I'm above
-I will do it!",0.25
+I will do it!",0.25,0.37433407
 and she's a hopeless person who won't admit defeat!,"負けを認めない
 どうしようもない人なんだから","Do not admit
-Because it is a person who can not help",0.21052631578947367
-"Hey, you, be quiet!",ちょっと そこもうるさい！,Somewhat noisy!,0.125
+Because it is a person who can not help",0.21052631578947367,0.3933272
+"Hey, you, be quiet!",ちょっと そこもうるさい！,Somewhat noisy!,0.125,0.44047448
 "Despite how I look, I've won at karate tournaments...","私 こう見えても 空手大会で
 優… 勝…","Even if I see this, at the karate tournament
-win…",0.2222222222222222
-I'd like to be friends.,私… 仲よく したい…,I want ... I want to get along ...,0.18181818181818182
+win…",0.2222222222222222,0.69063276
+I'd like to be friends.,私… 仲よく したい…,I want ... I want to get along ...,0.18181818181818185,0.47277322
 "I-I'm sorry, I didn't mean to!","はわわ～！ ご ごめんなさい
 私 そんなつもりじゃ…","Wow!Sorry
-I'm going to say so ...",0.3333333333333333
+I'm going to say so ...",0.3333333333333333,0.27705523
 "I-I, um, I wanted to be friends with you, too!","私 その…
 私も あなたと仲よくなりたくて","I ...
-I also wanted to get along with you",0.3125
+I also wanted to get along with you",0.3125,0.61322695
 "Oh, shoot, what do I do?!","あ～ ちょっと どうしよう
 （大谷たち）不器用すぎんだろ","Oh, what to do
- It is too bad",0.3076923076923077
+ It is too bad",0.3076923076923077,0.46410125
 Don't cry.,"泣かないで
 ほら アメ玉あげるから","do not Cry
-Because it gives you",0.2222222222222222
+Because it gives you",0.2222222222222222,0.67178005
 Ah! You can't bring that to school.,"あ～！ 学校に そんなもの
 持ってくんなよ","Oh!Such things to school
-I will bring it",0.25
-Be quiet!,お黙んなさい！,Scrupt!,0.25
-I would've just blasted them away.,（トール）しかし ウソ泣きなんて,But I'm crying,0.09090909090909091
+I will bring it",0.25,0.6659529
+Be quiet!,お黙んなさい！,Scrupt!,0.25,0.21055514
+I would've just blasted them away.,（トール）しかし ウソ泣きなんて,But I'm crying,0.09090909090909093,0.14801611
 Why did you decide you wanted to go to school?,"（トール）
 どうして学校に行きたいと
 思ったんですか？","I want to go to school why
-Did you think?",0.5833333333333334
+Did you think?",0.5833333333333334,0.8139492
 Because it was fun watching them.,"（カンナ）見てて
-楽しそうだったから",Because it looked fun,0.375
+楽しそうだったから",Because it looked fun,0.375,0.7678261
 Was it fun?,"楽しかったですか？
 （カンナ）うん","Is It was fun?
- Yeah",0.6666666666666666
+ Yeah",0.6666666666666666,0.9162631
 "I think there will be some aspects that aren't fun, as well.","楽しくないことも
 あると思いますよ","It is not fun
-I think there is",0.2222222222222222
+I think there is",0.2222222222222222,0.5627229
 There's no real need for us to be the same as humans.,"（トール）私たちは別に
 人間と同じである必要はないんです","We are separately
-It does not have to be the same as human beings",0.21739130434782608
-"But they're close by, and we share time together, so...",一緒にいる,Together,0.07692307692307693
-Maybe that's why I want to be with them.,一緒にいたいって 思えるのかも,Maybe it seems to be together,0.21428571428571427
+It does not have to be the same as human beings",0.21739130434782608,0.68475646
+"But they're close by, and we share time together, so...",一緒にいる,Together,0.07692307692307693,0.545764
+Maybe that's why I want to be with them.,一緒にいたいって 思えるのかも,Maybe it seems to be together,0.21428571428571427,0.282193
 I've seen plenty of my comrades,"共に骨を埋(うず)める同胞も
 たくさん見てきましたが","Both bones are buried together
-I saw a lot",0.06666666666666667
+I saw a lot",0.06666666666666668,0.19342719
 "For now, I'll affirm that choice, too.","そういう選択も
 今では肯定できます","Such a selection
-Now you can affirm",0.13333333333333333
-How was school?,学校は どうだった？,How was the school?,0.8
-Fun.,楽しかった,was fun,0.3333333333333333
-Good to hear.,そりゃ よかった,It was good,0.16666666666666666
-"I fulfilled my mission, too.",小林さん 私も任務遂行しました！,Mr. Kobayashi also worked on mission!,0.07692307692307693
-Please praise me.,褒めてください！,Please give up!,0.14285714285714285
-"Yeah, thanks.",うん　ありがと,Yeah,0.25
-This is...,あ そうだ,It is likely,0.2
+Now you can affirm",0.13333333333333333,0.6741607
+How was school?,学校は どうだった？,How was the school?,0.8,0.89819527
+Fun.,楽しかった,was fun,0.3333333333333333,0.6762557
+Good to hear.,そりゃ よかった,It was good,0.16666666666666666,0.28912422
+"I fulfilled my mission, too.",小林さん 私も任務遂行しました！,Mr. Kobayashi also worked on mission!,0.07692307692307693,0.4269905
+Please praise me.,褒めてください！,Please give up!,0.14285714285714285,0.33071578
+"Yeah, thanks.",うん　ありがと,Yeah,0.25,0.48917502
+This is...,あ そうだ,It is likely,0.2,0.32601658
 You can hang it on your backpack.,"ランドセルに
 つけておくといいよ","Landcell
-It is good to put it on",0.15384615384615385
+It is good to put it on",0.15384615384615385,0.32850623
 What about me?,"私には？
 ねえ 小林さん 私には？","To me?
-Hayashi-san?",0.3333333333333333
-Yay!,やった～！,I did!,0.25
-What are you doing?,何やってるんですか？,What are you doing?,1.0
+Hayashi-san?",0.3333333333333333,0.21831973
+Yay!,やった～！,I did!,0.25,0.42130986
+What are you doing?,何やってるんですか？,What are you doing?,1.0,0.9999999
 They said to put them on my things.,"自分の物に
 貼っておくんだって","In their own
-I put it on",0.14285714285714285
+I put it on",0.14285714285714285,0.58779097
 This is today's special product!,"（ＴＶの声）
-本日の目玉商品は これ",Today's highlight product,0.375
+本日の目玉商品は これ",Today's highlight product,0.375,0.62020814
 A drill perfect for woodwork!,"木材の加工に最適な
 ドリルです","Ideal for wood processing
-It is a drill",0.2727272727272727
-Why?,（小林）なぜ,Why,0.5
+It is a drill",0.2727272727272727,0.82348114
+Why?,（小林）なぜ,Why,0.5,0.80139303
 did things get like this?,"こんなことに
 なってしまったのか？","To this
-Did you have?",0.3333333333333333
-The story starts one day ago.,時は１日前に さかのぼる,Sometimes it goes down a day before,0.07692307692307693
-Thanks.,ありがとね,Thanks dear,0.3333333333333333
-You're welcome.,（トール）どういたしまして,Thank you,0.2
+Did you have?",0.3333333333333333,0.34053493
+The story starts one day ago.,時は１日前に さかのぼる,Sometimes it goes down a day before,0.07692307692307693,0.27221298
+Thanks.,ありがとね,Thanks dear,0.3333333333333333,0.5582765
+You're welcome.,（トール）どういたしまして,Thank you,0.2,0.556523
 Sorry I keep dropping by all the time.,"ちょくちょく
 お邪魔しちゃって ごめんね","often
-Sorry for disturbing",0.08333333333333333
-"Oh, you knew?",あ 分かる？,Do you understand?,0.2857142857142857
+Sorry for disturbing",0.08333333333333333,0.33910728
+"Oh, you knew?",あ 分かる？,Do you understand?,0.2857142857142857,0.40153217
 I'm bored with this already.,"（ファフニール）む？
 これは もう飽きた","?
-This is already tired",0.2
+This is already tired",0.2,0.37306058
 I'm going to play some other game.,"トールの様子
 見に来てるんでしょ","Tall's state
-I'm coming to see",0.21428571428571427
-What's happened?,どうしたの？,What's wrong?,0.6
-A duel.,決闘,duel,0.3333333333333333
-I'll kill them.,殺す,kill,0.2
+I'm coming to see",0.21428571428571427,0.2271422
+What's happened?,どうしたの？,What's wrong?,0.6,0.6108611
+A duel.,決闘,duel,0.3333333333333333,0.8462764
+I'll kill them.,殺す,kill,0.2,0.55007565
 "Wait, wait, you delinquents!","（小林）待って 待って
 いつの不良だ","Wait and wait
-When",0.14285714285714285
-"Today, on the way home...",今日の帰り道…,Today's way back ...,0.3333333333333333
-"Yeah. You're kind, Saikawa.",うん　才川 優しい,Yeah talented,0.125
-I like you.,好き,like,0.25
-Today I'll show you a good place to play!,今日は遊ぶ所 教えてあげる！,Teach the place to play today!,0.38461538461538464
+When",0.14285714285714285,0.18855877
+"Today, on the way home...",今日の帰り道…,Today's way back ...,0.3333333333333333,0.7160401
+"Yeah. You're kind, Saikawa.",うん　才川 優しい,Yeah talented,0.125,0.1867639
+I like you.,好き,like,0.25,0.19755812
+Today I'll show you a good place to play!,今日は遊ぶ所 教えてあげる！,Teach the place to play today!,0.38461538461538464,0.74586505
 "Despite how big this place is, it's a\Nhidden spot people rarely come to.","どう？ ここは大きさの割に
 あまり人が来ない 穴場なのよ","copper?Here is a size of size
-It's a well-equipped door",0.125
+It's a well-equipped door",0.125,0.14918725
 That's the thing you fly with!,"そ それじゃあ
 りんごブランコを一緒に…","That's why
-Apple Blanco together ...",0.15384615384615385
+Apple Blanco together ...",0.15384615384615385,0.080455996
 F-Fly?,"（カンナ）あッ
-（才川）ん？",?,0.5
-"Yeah, in the clouds.",うん 雲まで,Yeah,0.16666666666666666
+（才川）ん？",?,0.5,0.1899352
+"Yeah, in the clouds.",うん 雲まで,Yeah,0.16666666666666666,0.32749182
 "Sorry, sorry.","（中学生男子Ｂ）
-ああ ごめん ごめん",Oh sorry Sorry,0.25
-"Hey, watch it, you guys!",ちょっと 危ないじゃない！,It's a bit dangerous!,0.18181818181818182
+ああ ごめん ごめん",Oh sorry Sorry,0.25,0.6022612
+"Hey, watch it, you guys!",ちょっと 危ないじゃない！,It's a bit dangerous!,0.18181818181818185,0.21920912
 What? You're frightened by a ball coming your way?,"（中学生男子Ｃ）何だぁ？
 玉飛んできてビビってんのか？","What is it?
-Is the ball fly and Bib?",0.17647058823529413
-Stop that.,（中学生男子Ｂ）やめろよ,Stop,0.3333333333333333
+Is the ball fly and Bib?",0.17647058823529413,0.31025168
+Stop that.,（中学生男子Ｂ）やめろよ,Stop,0.3333333333333333,0.6671343
 "L-Little children come here often,\Ntoo, so you should stop that.","こ… ここは小さい子も
 よく来るから やめた方がいいわよ","This ... Here too small children
-She stopped because she comes well",0.09090909090909091
-There's nowhere else.,場所がないんだ,There is no place,0.125
-"Go on home, squirts.",チビ さっさと帰れよ,I will go home,0.25
+She stopped because she comes well",0.09090909090909093,0.5247361
+There's nowhere else.,場所がないんだ,There is no place,0.125,0.59143317
+"Go on home, squirts.",チビ さっさと帰れよ,I will go home,0.25,0.43113333
 What?,"勝負よ
 （中学生男子Ｂ）何？","Let's play
- What?",0.4
+ What?",0.4,0.13737057
 I challenge you to dodgeball tomorrow!,"そのドッジボールで
 明日 勝負してあげるわ！","With that dodge ball
-I will play tomorrow!",0.23076923076923078
-"If you lose, then give up on using this place!",負けたら ここは諦めなさい！,"If you lose, give up here!",0.5384615384615384
+I will play tomorrow!",0.2307692307692308,0.79578984
+"If you lose, then give up on using this place!",負けたら ここは諦めなさい！,"If you lose, give up here!",0.5384615384615384,0.67697066
 You hear that?,"（中学生男子Ｃ）聞いたか？
 “勝負してあげる”だってよ","Did you hear?
-""I will play""",0.3
-You American gorilla!,このアメリカンゴリラ！,This American Gorilla!,0.6
+""I will play""",0.3,0.43771556
+You American gorilla!,このアメリカンゴリラ！,This American Gorilla!,0.6,0.87775224
 Huh?,"なッ… 何だと？
-（中学生男子Ｂ）相手にすんなって",What?,0.3333333333333333
+（中学生男子Ｂ）相手にすんなって",What?,0.3333333333333333,0.39448127
 "You're actually scared without your\Nbeloved mama around, aren't you?","あなた 本当は大好きなママが
 いなくて 怖いんでしょ？","You really love moms
-Don't be scary?",0.16666666666666666
+Don't be scary?",0.16666666666666666,0.702879
 You should say so.,"言えばいいのよ
 “ママ たちゅけて～”って","I should say
-""Mom spots ~""",0.2
-You brat!,このガキ…！,This Gaki ...!,0.16666666666666666
-Oh?,あ～れ～？,"Oh,?",0.6666666666666666
-Children.,子供ね～,Children ~,0.3333333333333333
-"So you picked a fight and they bought it, huh?",（小林）売り言葉に買い言葉だな,It is a word for sale,0.125
-"So, did you gather enough people?",それで人数は そろったの？,So what is the number of people?,0.23076923076923078
-"Well, what to do, then?",どうしよう～,What to do ~,0.375
-"No, I assure you, they should fight!",いいえ！ 断固 戦うべきです！,No!You should fight off!,0.5
+""Mom spots ~""",0.2,0.19589634
+You brat!,このガキ…！,This Gaki ...!,0.16666666666666666,0.151225
+Oh?,あ～れ～？,"Oh,?",0.6666666666666666,0.9095081
+Children.,子供ね～,Children ~,0.3333333333333333,0.75058806
+"So you picked a fight and they bought it, huh?",（小林）売り言葉に買い言葉だな,It is a word for sale,0.125,0.28038
+"So, did you gather enough people?",それで人数は そろったの？,So what is the number of people?,0.2307692307692308,0.52338755
+"Well, what to do, then?",どうしよう～,What to do ~,0.375,0.44884884
+"No, I assure you, they should fight!",いいえ！ 断固 戦うべきです！,No!You should fight off!,0.5,0.7076144
 "We can't have them taking us\Nnoble, proud dragons lightly!","我ら高潔で誇り高きドラゴンが
 なめられたわけですよ","We are innocent and proud dragons
-I was licked",0.16666666666666666
-Do you know the rules?,ルール 分かってる？,Do you know the rule?,0.7142857142857143
-Yes!,はい！,Yes!,1.0
-"I know them, too.",俺も知っている,I also know,0.2857142857142857
+I was licked",0.16666666666666666,0.59082586
+Do you know the rules?,ルール 分かってる？,Do you know the rule?,0.7142857142857143,0.83636683
+Yes!,はい！,Yes!,1.0,0.99999994
+"I know them, too.",俺も知っている,I also know,0.2857142857142857,0.5075754
 Dodgeball,"「爆心(ばくしん)ドッジボール」を
 やり込んだ","""Bakushin Dodgeball""
-I did",0.16666666666666666
+I did",0.16666666666666666,0.5057944
 This isn't that kind of game.,"（小林）そういう
 ゲームじゃないから","That's right
-Because it is not a game",0.21428571428571427
-"All right, let's do this!",大丈夫　何とかなるって,All right,0.25
-Hmm...,（小林）うーん,Hmm,0.5
+Because it is not a game",0.21428571428571427,0.53476536
+"All right, let's do this!",大丈夫　何とかなるって,All right,0.25,0.5662839
+Hmm...,（小林）うーん,Hmm,0.5,0.6864646
 You called in friends?,"何だぁ？ チビ
 仲間 呼んだのか","What?Chibi
-Are you calling a friend",0.18181818181818182
-Don't kill them.,殺すな,Not killed,0.0
+Are you calling a friend",0.18181818181818185,0.49248922
+Don't kill them.,殺すな,Not killed,0.0,0.5109262
 Sorry!,"（ルコア）ごめんね～
 （中学生男子Ａ）わわ…","Sorry ~
- Wow ...",0.2
+ Wow ...",0.2,0.50162107
 The game was beyond one-sided.,"それは一方的を
 通り越していた","It is one-sided
-It was passing through",0.2
+It was passing through",0.2,0.4941777
 Damn it!,"カンナさんの知り合い
 すごいのね！","Kansna's acquaintance
-It's amazing!",0.2857142857142857
-He's beat up...,（中学生男子Ｂ）ぐッ… クッソ～,... Kusso-,0.16666666666666666
+It's amazing!",0.2857142857142857,0.106900685
+He's beat up...,（中学生男子Ｂ）ぐッ… クッソ～,... Kusso-,0.16666666666666666,0.2979641
 "Yeah, they're the worst scum ever.","（カンナ）うん
 最低最悪なやつら","Yeah
-Minimum worst guy",0.18181818181818182
-"That phrasing may be accurate, but it's cruel.",あ～ 不完全燃焼ですね,"Oh, it is incomplete combustion",0.13333333333333333
+Minimum worst guy",0.18181818181818185,0.33338836
+"That phrasing may be accurate, but it's cruel.",あ～ 不完全燃焼ですね,"Oh, it is incomplete combustion",0.13333333333333333,0.14777367
 I still haven't had enough.,"（トール）私はまだ あなた方に
 勝ったことないんですよね～","I still
-I have never won",0.3333333333333333
-That reminds me...,あれ… なんかマズくない？,That's ... something is not margful?,0.2
+I have never won",0.3333333333333333,0.39382893
+That reminds me...,あれ… なんかマズくない？,That's ... something is not margful?,0.2,0.16308548
 "I've yet to win against you two, haven't I?","私も～
 （才川）ん？","I also ~
-?",0.14285714285714285
-Bring it on.,やってみろ～,Let's do it,0.14285714285714285
-Huh? Isn't this turning bad?,今日 超えるか？,Is it over today?,0.2
+?",0.14285714285714285,0.15392075
+Bring it on.,やってみろ～,Let's do it,0.14285714285714285,0.44118372
+Huh? Isn't this turning bad?,今日 超えるか？,Is it over today?,0.2,0.35188708
 "Where did my peaceful, daily life run off to?","どこに行ったか
 私の平和な日常…","Where did you go
-My peaceful everyday ...",0.26666666666666666
-"Well, whatever.",まあ いいけどさ,Well good,0.2
-And that brings us to now.,（小林）そして今に至る,and now,0.2857142857142857
-"Oh, I'll restore the playground to normal.",あ 公園は僕が戻しておくね,"Oh, I'm going back to return",0.2857142857142857
+My peaceful everyday ...",0.26666666666666666,0.7982291
+"Well, whatever.",まあ いいけどさ,Well good,0.2,0.35119867
+And that brings us to now.,（小林）そして今に至る,and now,0.2857142857142857,0.563428
+"Oh, I'll restore the playground to normal.",あ 公園は僕が戻しておくね,"Oh, I'm going back to return",0.2857142857142857,0.28351218
 "After that, they took to playing dodgeball regularly.","その後 定期的にドッジボールを
 するようになったのだった","Dodgeball regularly
-I came to",0.25
+I came to",0.25,0.7345516
 More like you're an old lady about to be abandoned!,"もっと
 うば捨てされる直前のような","more
-Like just before being thrown away",0.11764705882352941
-That's at my standards.,（小林）私 基準で,On my standard,0.125
+Like just before being thrown away",0.1176470588235294,0.39291766
+That's at my standards.,（小林）私 基準で,On my standard,0.125,0.5627269
 Isn't this cute?,"（填島）カンナちゃん 見て 見て
 これ かわいくない？","Channa-chan
-Isn't this cute?",0.8333333333333334
-"Hey, Kanna-san.",ねえ カンナさん,Hey Kanna,0.2
-"Okay, time to start class.",は～い 授業 始めますよ,I will start teaching,0.1
+Isn't this cute?",0.8333333333333334,0.52406293
+"Hey, Kanna-san.",ねえ カンナさん,Hey Kanna,0.2,0.7285009
+"Okay, time to start class.",は～い 授業 始めますよ,I will start teaching,0.1,0.4829972
 We nearly lost our ability to play at the playground.,"（才川）
-公園で遊べなくなるところだったわ",It was where I could not play in the park,0.10526315789473684
+公園で遊べなくなるところだったわ",It was where I could not play in the park,0.10526315789473684,0.5377175
 "I'll be happy anywhere if I'm with you, Saikawa.","（カンナ）才川と一緒だったら
 どこでもいい","If it is with the talented river
-Anywhere",0.17647058823529413
+Anywhere",0.17647058823529413,0.12932369

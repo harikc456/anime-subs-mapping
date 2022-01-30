@@ -1,260 +1,260 @@
-en_text,jp_text,google_translated,score
-Where am I?,あぁ… ほ？ ふっ んっ,Oh ... Where?Flounder,0.2857142857142857
-The tea's ready.,紅茶が入ってるわよ,Tea is coming,0.14285714285714285
-Saeko!,はっ 冴子！,Hayako!,0.3333333333333333
-But how...,あ は… うがっ,Oh ...,0.25
-You don't remember?,覚えてないのぉ？,Do not remember?,0.5
+en_text,jp_text,google_translated,score,semantic_score
+Where am I?,あぁ… ほ？ ふっ んっ,Oh ... Where?Flounder,0.2857142857142857,0.31800374
+The tea's ready.,紅茶が入ってるわよ,Tea is coming,0.14285714285714285,0.7944474
+Saeko!,はっ 冴子！,Hayako!,0.3333333333333333,0.46286103
+But how...,あ は… うがっ,Oh ...,0.25,0.45134178
+You don't remember?,覚えてないのぉ？,Do not remember?,0.5,0.81157935
 We came straight to my place after we\Nhad drinks at the Bengal last night.,"昨夜 “ベンガル”で飲んで
 そのままあたしのマンションに","Drink with ""Bengal"" last night
-As it is, to my apartment",0.20833333333333334
+As it is, to my apartment",0.20833333333333331,0.71597344
 "First we went drinking at that place,\Nthe second place was that one...","えー１軒目はあそこで飲んで
 ２軒目はあそこ","The first one drinks it over there
-The second place is over there",0.21052631578947367
-Right! From there we did\Ngo to Bengal.,そうだよ 確かにそこから“ベンガル”に…,"Yes, surely from there ""Bengal"" ...",0.2
-Just keep your promise.,約束は守ってね,Protect your promise,0.3333333333333333
-Promise?,約束？,promise?,1.0
-I don't remember a thing.,覚えてないなんて言わないわよねぇー,I do not say that I do not remember,0.3
-A bodyguard?,ボディーガード？,bodyguard?,0.6666666666666666
-This is Jerry Smith.\NHe's an American.,ジェリー・スミスさん アメリカの方よ,Jerry Smith America,0.1
+The second place is over there",0.21052631578947367,0.68131495
+Right! From there we did\Ngo to Bengal.,そうだよ 確かにそこから“ベンガル”に…,"Yes, surely from there ""Bengal"" ...",0.2,0.74785906
+Just keep your promise.,約束は守ってね,Protect your promise,0.3333333333333333,0.6991767
+Promise?,約束？,promise?,1.0,1.0000005
+I don't remember a thing.,覚えてないなんて言わないわよねぇー,I do not say that I do not remember,0.3,0.59828264
+A bodyguard?,ボディーガード？,bodyguard?,0.6666666666666666,0.9159201
+This is Jerry Smith.\NHe's an American.,ジェリー・スミスさん アメリカの方よ,Jerry Smith America,0.1,0.82500845
 "Compared to when I was living\Nin Japan a long time ago,","昔 私が日本に住んでいた頃からみると
 随分変わってしまいました","I used to look at it when I lived in Japan
-It has changed a lot",0.23809523809523808
-Something of old Japan\Nstill survives here.,下宿していたここも今は立派な旅館,Here is a good ryokan here too,0.08333333333333333
+It has changed a lot",0.2380952380952381,0.71122605
+Something of old Japan\Nstill survives here.,下宿していたここも今は立派な旅館,Here is a good ryokan here too,0.08333333333333333,0.3121187
 does it involve me doing bodyguard\Nwork for this old coot?,"朝言ってた約束って…
 この変なおっさんのボディーガードを俺が？","Thank you for your promise ...
-I wonder if this strange old man bodyguard?",0.18181818181818182
+I wonder if this strange old man bodyguard?",0.18181818181818185,0.5579378
 "Well, I never! That's no way for a man\Nto act. Once a man gives his word...","あらぁ 今更男らしくないわ
 男が一旦OKしたら…","Oh, I'm not an more man now
-If a man is OK ...",0.1724137931034483
+If a man is OK ...",0.1724137931034483,0.3245512
 "Mr. Saeba, Ms. Saeko has informed\Nme of your prowess.","冴羽さん あなたの腕の事は
 冴子さんから聞きました","Mr. Suiting Your Arm
-I heard from Reiko",0.11764705882352941
-"I'm looking forward to having you,",そうよ 気持ちよくOKしてくれたでしょ,"Yes, I felt well OK",0.16666666666666666
+I heard from Reiko",0.1176470588235294,0.38586146
+"I'm looking forward to having you,",そうよ 気持ちよくOKしてくれたでしょ,"Yes, I felt well OK",0.16666666666666666,0.23043597
 I can now rest assured that my holiday\Nin Japan will be a pleasant one.,"これで私も安心して
 日本での休暇を楽しめます","Now I feel relieved
-You can enjoy vacation in Japan",0.19047619047619047
-Just what is your relationship\Nto this old guy?,このおっさんとどういう関係なんだよ？,What is the relationship with this old man?,0.38461538461538464
-"When I was a rookie,",あたしがまだ駆け出しの頃,When I was still rushing,0.375
-that means I must have\Ndone something like...,分かったよ 約束したんなら守る,I understand that I promised,0.2
-"You're not the kind of person\Nto not do ""something"".",あなたが何もしないわけないでしょ,You can not do anything,0.21428571428571427
-"To act so in public, how shameful!",ごっ！,Sorry!,0.1
-"Man, this is awful. I don't want to...",じゃあ こんな事も？,"Well then, is this?",0.2
-Welcome home.,おかえりなさい,welcome home,0.6666666666666666
-"Oh, Kaori, I'm home.",たわけっ！,I'm sorry!,0.2222222222222222
-Where did you stay last night?,昨夜はどこに泊まったの？,Where did you stay last night?,1.0
+You can enjoy vacation in Japan",0.19047619047619047,0.70510185
+Just what is your relationship\Nto this old guy?,このおっさんとどういう関係なんだよ？,What is the relationship with this old man?,0.38461538461538464,0.7327329
+"When I was a rookie,",あたしがまだ駆け出しの頃,When I was still rushing,0.375,0.5392933
+that means I must have\Ndone something like...,分かったよ 約束したんなら守る,I understand that I promised,0.2,0.30093342
+"You're not the kind of person\Nto not do ""something"".",あなたが何もしないわけないでしょ,You can not do anything,0.21428571428571427,0.4129483
+"To act so in public, how shameful!",ごっ！,Sorry!,0.1,0.080869764
+"Man, this is awful. I don't want to...",じゃあ こんな事も？,"Well then, is this?",0.2,0.23902868
+Welcome home.,おかえりなさい,welcome home,0.6666666666666666,0.922865
+"Oh, Kaori, I'm home.",たわけっ！,I'm sorry!,0.2222222222222222,0.24114217
+Where did you stay last night?,昨夜はどこに泊まったの？,Where did you stay last night?,1.0,0.99999976
 "Well, that part's right at least.\NI know I stayed there.","そうなんだよね
 泊まった事は間違いないんだけど","That's right
-There is no doubt that I stayed",0.375
-But I have no idea what happened\Nafter we left the bar.,店を出てからの記憶がまったくない,There is no memory after leaving the store,0.1111111111111111
-"Geez, my head is pounding.",うあ～頭がズキズキするー,Uh ~ Head is Zuki,0.2
-What's this?,ん？ 何だこりゃあ？,Yeah?What is it?,0.2857142857142857
-You pervert!,この変態！,This transformation!,0.2
-I love Japan.,私は日本が大好きです,I love Japan,0.75
+There is no doubt that I stayed",0.375,0.6199671
+But I have no idea what happened\Nafter we left the bar.,店を出てからの記憶がまったくない,There is no memory after leaving the store,0.1111111111111111,0.29040116
+"Geez, my head is pounding.",うあ～頭がズキズキするー,Uh ~ Head is Zuki,0.2,0.3628099
+What's this?,ん？ 何だこりゃあ？,Yeah?What is it?,0.2857142857142857,0.5450835
+You pervert!,この変態！,This transformation!,0.2,0.37558195
+I love Japan.,私は日本が大好きです,I love Japan,0.75,0.9860612
 "Ms. Saeko, you may well be correct","私の求めている日本は
 確かにもうないのかもしれません","Japan is looking for Japan
-Certainly there may be no more",0.125
+Certainly there may be no more",0.125,0.11846438
 "But I still love it. If I am to die\Nin Japan, I will be satisfied.","でも私は好きです
 ここが死に場所になるのなら本望","But I like it
-It would be appreciated if this will be a place",0.2857142857142857
+It would be appreciated if this will be a place",0.2857142857142857,0.3595293
 "Mr. Smith, do you remember what you\Nsaid to me when you helped me?","私に何と言ったか
 覚えてらっしゃいます？","What did you say to me
-Do you remember?",0.4666666666666667
+Do you remember?",0.4666666666666667,0.5755124
 That I should have faith in\NGod and myself.,"相手はプロの殺し屋
 随分と自信がおありですな","The opponent is a professional killer
-I have a lot of confidence",0.1111111111111111
-Did I say that?,はて 何か言いましたか？ 私,Did you say something?Me,0.375
-This is one bet I'm going to win.,この賭けは私の勝ちですわ,This bet is my win,0.36363636363636365
-My partner is Ryo Saeba after all.,パートナーが冴羽リョウならね,If the partner is Loosuke Ryo,0.2727272727272727
-Do you love that man?,あの男を好きですか？,Do you like that man?,0.7142857142857143
-"If you love him, marry him.",好きだったら結婚しなさい,"If you like, get married",0.3
-Marry Ryo?,へっ？,?,0.3333333333333333
-Life is short. Leave no regrets.,人生は短いもの 後悔を残さない事です,Life is not a short regret,0.3
-"Regrets?\NWell, a little alcohol won't hurt.",後悔ね… お酒の事なら 少々,"After regret ... If you have alcohol, a little bit",0.2222222222222222
-"Good morning, Mr. Saeba!",おはよう 冴羽さん,Good morning,0.3333333333333333
-What are those clothes\Nsupposed to be?,えっ？ 何だよその格好,eh?What is it.,0.18181818181818182
+I have a lot of confidence",0.1111111111111111,0.19803868
+Did I say that?,はて 何か言いましたか？ 私,Did you say something?Me,0.375,0.5493768
+This is one bet I'm going to win.,この賭けは私の勝ちですわ,This bet is my win,0.3636363636363637,0.7631195
+My partner is Ryo Saeba after all.,パートナーが冴羽リョウならね,If the partner is Loosuke Ryo,0.2727272727272727,0.65007645
+Do you love that man?,あの男を好きですか？,Do you like that man?,0.7142857142857143,0.8593465
+"If you love him, marry him.",好きだったら結婚しなさい,"If you like, get married",0.3,0.5630153
+Marry Ryo?,へっ？,?,0.3333333333333333,0.11613112
+Life is short. Leave no regrets.,人生は短いもの 後悔を残さない事です,Life is not a short regret,0.3,0.7875841
+"Regrets?\NWell, a little alcohol won't hurt.",後悔ね… お酒の事なら 少々,"After regret ... If you have alcohol, a little bit",0.2222222222222222,0.7802053
+"Good morning, Mr. Saeba!",おはよう 冴羽さん,Good morning,0.3333333333333333,0.5320753
+What are those clothes\Nsupposed to be?,えっ？ 何だよその格好,eh?What is it.,0.18181818181818185,0.15893815
 Horse racing started out as a game\Ndeveloped by the English aristocracy.,"競馬はそもそもが
 イギリスの貴族の生んだゲーム","Horse racing is in the first place
-British noble birth game",0.15
-So of course the tradition is\Ndifferent from Japan's.,所詮日本とは伝統が違う,"After all, the tradition is different from Japan",0.26666666666666666
-It would be the height of folly,今どき競馬場にそんな格好はやんないぜ,Such a look at the racetrack now does not do it,0.125
+British noble birth game",0.15,0.7343761
+So of course the tradition is\Ndifferent from Japan's.,所詮日本とは伝統が違う,"After all, the tradition is different from Japan",0.26666666666666666,0.9084334
+It would be the height of folly,今どき競馬場にそんな格好はやんないぜ,Such a look at the racetrack now does not do it,0.125,0.16493793
 "When I lived here, there were cows\Nwandering up and down the street.","私の住んでた頃は
 この道を牛がのんびり歩いてたもんだ","When I lived
-Cow was walking leisurely with this road",0.14285714285714285
+Cow was walking leisurely with this road",0.14285714285714285,0.71399534
 you're the president of one of the two\Ntop newspaper companies in America.,"何でもあんたアメリカで１～２を争う
 新聞社の社長なんだってな","Compete 1-2 in an American
-It is the president of the newspaper company",0.2631578947368421
+It is the president of the newspaper company",0.2631578947368421,0.75181955
 "I was until half a year ago,\Nto be more accurate.","正確には半年前まで
 今は現役を退いて会長の身だ","Accurately up to half a year ago
-Now I'm going to leave the active service",0.21739130434782608
+Now I'm going to leave the active service",0.21739130434782608,0.3974717
 so why do you need a bodyguard?,"別にやばい仕事じゃないのに
 何でボディーガードを？","I'm not a separate job
-Why do you have a bodyguard?",0.42857142857142855
-"Years ago, when the Mafia and Japanese\Ngangs joined forces to invade America,",数年前マフィアと手を組んで,A few years ago with Mafia,0.1875
+Why do you have a bodyguard?",0.42857142857142855,0.82912415
+"Years ago, when the Mafia and Japanese\Ngangs joined forces to invade America,",数年前マフィアと手を組んで,A few years ago with Mafia,0.1875,0.6145866
 "I mounted a big campaign to clean house,\Nand sweep them out of the country.","一大キャンペーンを張って
 アメリカからの叩き出しをした事がある","Take a large campaign
-I have been hitting out of the United States",0.25
-"I tried to keep my visit\Nto Japan a secret,",お忍びで日本に遊びに来たものの,Although I came to Japan in Japan,0.23076923076923078
+I have been hitting out of the United States",0.25,0.4889747
+"I tried to keep my visit\Nto Japan a secret,",お忍びで日本に遊びに来たものの,Although I came to Japan in Japan,0.2307692307692308,0.7459923
 "but the media sniffed me out, and my name\Nand face appeared all over Japan.","マスコミに嗅ぎ付けられ
 顔と名前が全国に流れてしまった","Soft-up to the media
-My face and name have flowed throughout the country",0.21739130434782608
-"Which horse are you\Nbetting on, Saeba?",冴羽さんはどの馬をお買いになりました？,Which horse buys the Horse?,0.3
+My face and name have flowed throughout the country",0.21739130434782608,0.61927646
+"Which horse are you\Nbetting on, Saeba?",冴羽さんはどの馬をお買いになりました？,Which horse buys the Horse?,0.3,0.6457484
 "Two horses, Kaori Lady\Nand Super Saeko.","アニーゴ あいや カオリレディと
 スーパーサエコ","Annigo Aiya Kaori Lady
-Super Saeco",0.16666666666666666
-"Neither one popular,\Nand both long shots.",ほぉー 両者とも人気薄の穴馬ですな,It is a popular thin hole with both,0.13333333333333333
-Their names are similar to names of\Nwomen I know. What about you?,あんたは？,What is it?,0.13333333333333333
+Super Saeco",0.16666666666666666,0.661662
+"Neither one popular,\Nand both long shots.",ほぉー 両者とも人気薄の穴馬ですな,It is a popular thin hole with both,0.13333333333333333,0.3400677
+Their names are similar to names of\Nwomen I know. What about you?,あんたは？,What is it?,0.13333333333333333,0.012624343
 You'd have to bet at least\Na hundred bucks.,"来たって配当付かないよ
 ま 最低一万は買わないとな","I will not be dividy for coming
-You have to buy a minimum of 10,000",0.13636363636363635
-And I thought ten bucks\Nwas a little much.,イチハチを少々,A little bit,0.2
-It's not the amount of money\Nthat's important.,金額の大小は問題ではありません,The size of the amount is not a problem,0.3076923076923077
-"Go, Super Saeko!",走れよ スーパーサエコ！,I'm going to run Super Sao!,0.18181818181818182
-"Oh, there is hope!",おおっ脈ありだ いいヒップだ,There is a hoping hip,0.2222222222222222
-What was that?,な 何だよぉー？,What is it?,0.3333333333333333
-"Number two, Kaori Lady.\NShe's very agitated.",プリンプリンで頑張れよ 愛してるぞ,Let's do our best with pruster,0.06666666666666667
-"The gates open, and they're off!",さあゲートが開いて各馬一斉にスタート,"Well, the gate is open and each horse starts at the same time",0.2222222222222222
-"Go, Saeko! Kaori!",行けー サエコ カオリ！,Go-saeco Kaori!,0.3333333333333333
-I didn't know Ryo went for this kind of\Nthing. I'm a little worried about him.,リョウにこんな趣味があったなんて…,I have such a hobby in Ryo ...,0.13636363636363635
+You have to buy a minimum of 10,000",0.13636363636363635,0.32975346
+And I thought ten bucks\Nwas a little much.,イチハチを少々,A little bit,0.2,0.2932111
+It's not the amount of money\Nthat's important.,金額の大小は問題ではありません,The size of the amount is not a problem,0.3076923076923077,0.5051252
+"Go, Super Saeko!",走れよ スーパーサエコ！,I'm going to run Super Sao!,0.18181818181818185,0.42571563
+"Oh, there is hope!",おおっ脈ありだ いいヒップだ,There is a hoping hip,0.2222222222222222,0.3665245
+What was that?,な 何だよぉー？,What is it?,0.3333333333333333,0.5095912
+"Number two, Kaori Lady.\NShe's very agitated.",プリンプリンで頑張れよ 愛してるぞ,Let's do our best with pruster,0.06666666666666668,0.092294335
+"The gates open, and they're off!",さあゲートが開いて各馬一斉にスタート,"Well, the gate is open and each horse starts at the same time",0.2222222222222222,0.46864262
+"Go, Saeko! Kaori!",行けー サエコ カオリ！,Go-saeco Kaori!,0.3333333333333333,0.86903924
+I didn't know Ryo went for this kind of\Nthing. I'm a little worried about him.,リョウにこんな趣味があったなんて…,I have such a hobby in Ryo ...,0.13636363636363635,0.5362086
 "As they round the far turn,\Nit's Suwano-green in the lead,","更に１馬身程離れて内にプリマドンナ
 外スーパーサエコ","Furthermore, one horsepower is apart in Plimadonna
-Outside Super Saeco",0.09523809523809523
-Go! What are you doing Kaori Lady?,いけー 何やってんだよ カオリレディ,I'm sorry I'm doing Kaori Lady,0.25
-Kaori Lady and Super Saeko have\Ncome charging up from the rear.,先頭までのその差約８馬身,Up to the top of the,0.13333333333333333
-Go! Looking good!,ゴールまで残り400,400 to goal 400,0.0
-Get down!,伏せろ！,Hide it!,0.2
+Outside Super Saeco",0.09523809523809523,0.268565
+Go! What are you doing Kaori Lady?,いけー 何やってんだよ カオリレディ,I'm sorry I'm doing Kaori Lady,0.25,0.7877813
+Kaori Lady and Super Saeko have\Ncome charging up from the rear.,先頭までのその差約８馬身,Up to the top of the,0.13333333333333333,0.15694104
+Go! Looking good!,ゴールまで残り400,400 to goal 400,0.0,0.1596806
+Get down!,伏せろ！,Hide it!,0.2,0.35302934
 What's happening?\NSomething's upset the lead horses!,"-ん？ あっ！
 -だがその外から一気に来た","-Hmm?Ah!
--Had it came at once from outside",0.10526315789473684
+-Had it came at once from outside",0.10526315789473684,0.03635625
 "If they had only held off a little longer,\NI would have won big!","もうちょっと待ってくれれば
 大穴取ったのに…","If you wait a little more
-Even though I got a big hole ...",0.16
-Just where did that Ryo\Nspend the night?,騎手を振り落としました,I shakes the jockey,0.09090909090909091
-No! Chocolate Parfait!,だめっ！ チョコレートパフェ,I'm sorry!chocolate parfait,0.42857142857142855
-You are not finished?,ま まだ食べるんですか？,Do you still eat?,0.25
+Even though I got a big hole ...",0.16,0.2282533
+Just where did that Ryo\Nspend the night?,騎手を振り落としました,I shakes the jockey,0.09090909090909093,0.14359976
+No! Chocolate Parfait!,だめっ！ チョコレートパフェ,I'm sorry!chocolate parfait,0.42857142857142855,0.8287986
+You are not finished?,ま まだ食べるんですか？,Do you still eat?,0.25,0.25270936
 That this is what Japanese men\Nhave come to these days!,"スミスさんが嘆くのも無理ないわ
 これが今の日本の男","Smith is not impossible to lament
-This is a Japanese man now",0.2222222222222222
-"Yes, but what am I...",んな事言ったって ん…,I said something ...,0.2222222222222222
-Don't stand behind me.,俺の後ろに立つんじゃねえ,You're going to be back behind me,0.16666666666666666
-Don't push!,のっ！,!,0.25
+This is a Japanese man now",0.2222222222222222,0.511194
+"Yes, but what am I...",んな事言ったって ん…,I said something ...,0.2222222222222222,0.3428229
+Don't stand behind me.,俺の後ろに立つんじゃねえ,You're going to be back behind me,0.16666666666666666,0.5307026
+Don't push!,のっ！,!,0.25,0.25172386
 What could be worse than getting\Non a train right at rush hour?,"よりによってラッシュの時間に
 電車に乗るなんてー","More rush time
-Ride a train",0.1875
+Ride a train",0.1875,0.7137812
 is born of the very jostling one\Nexperiences on this crowded train.,"日本経済の原動力 そのパワーは
 この満員電車にもまれる事からきている","Power of Japanese economy The power is
-It is coming from this crowded train",0.3333333333333333
+It is coming from this crowded train",0.3333333333333333,0.36577022
 "Without this knowledge,\None cannot understand Japan.","-これを知らずして日本は理解出来ません
 -どぉ～っ","-It can not understand Japan without knowing this
--Sho ~",0.42857142857142855
-"Oh, excuse me!",んっ お おおおお～っ,Oh oh oh,0.2
-I'm in sweet mokkori hell!,やはははっ モッコリ地獄,Ha Mokkori Hell,0.25
+-Sho ~",0.42857142857142855,0.81115955
+"Oh, excuse me!",んっ お おおおお～っ,Oh oh oh,0.2,0.43079123
+I'm in sweet mokkori hell!,やはははっ モッコリ地獄,Ha Mokkori Hell,0.25,0.72633886
 "You're doing this to make a target\Nof yourself on purpose, aren't you?","あんた わざと狙われるように
 歩き回ってんじゃない？","As aiming for
-Aren't you walking around?",0.2
-If you will excuse me...,あん… 失礼,An ... rude,0.125
-"Hey, Saeko?",えっ？,eh?,0.2
+Aren't you walking around?",0.2,0.5253987
+If you will excuse me...,あん… 失礼,An ... rude,0.125,0.2578242
+"Hey, Saeko?",えっ？,eh?,0.2,0.28502843
 Look...,"あっちこっち引っ張り回されて
 もうクタクタ…","It is turned around here
-Another cocktap ...",0.1111111111111111
-"Yes, it's me.",ま それだけ守り甲斐があるけれどもね,"Well, there is only a protection worth of it",0.14285714285714285
-I'm returning to America on\Nthe day after tomorrow.,ああ 私です 明後日アメリカに帰ります,Oh I'm tomorrow I will return to America,0.38461538461538464
-You have two more chances left.,チャーンスはあと２回,Changes are two more times,0.2
-"If you're successful, you'll get the rest\Nof the money I promised.",成功したら お約束の残りの金はその時,"If successful, the remaining money of the promise is that time",0.2631578947368421
+Another cocktap ...",0.1111111111111111,0.19513248
+"Yes, it's me.",ま それだけ守り甲斐があるけれどもね,"Well, there is only a protection worth of it",0.14285714285714285,0.05270545
+I'm returning to America on\Nthe day after tomorrow.,ああ 私です 明後日アメリカに帰ります,Oh I'm tomorrow I will return to America,0.38461538461538464,0.83564407
+You have two more chances left.,チャーンスはあと２回,Changes are two more times,0.2,0.2847673
+"If you're successful, you'll get the rest\Nof the money I promised.",成功したら お約束の残りの金はその時,"If successful, the remaining money of the promise is that time",0.2631578947368421,0.6906931
 "Come on, okay, Saeko?\NLet's go drinking again.","ねっ もっかい飲み行こ
 そして記憶に残る素敵な一夜を","Necklace drinking go
-And the wonderful night that remains in memory",0.09523809523809523
-I just can't believe this is the face of the\Nsame man who protected me today.,私を守った同じ人間の顔とは思えん,I think with the same human face that protected me,0.22727272727272727
-"Okay, see you tonight!",じゃあ今夜ねー,Well then tonight,0.125
-Tonight?\NBut what about guarding Mr. Smith?,今夜？ でもスミスさんのガードが,tonight?But Smith's guard,0.2727272727272727
-What did you do that for?,なーにがやりたいの あなたは,What you want to do,0.3333333333333333
-I just wanted to borrow some\Nhandcuffs and a rope!,手錠とロープ借りようと思っただけなのに,I just wanted to borrow handcuffs and rope,0.6363636363636364
-What is it?,何だね？,What is it?,1.0
+And the wonderful night that remains in memory",0.09523809523809523,0.33514515
+I just can't believe this is the face of the\Nsame man who protected me today.,私を守った同じ人間の顔とは思えん,I think with the same human face that protected me,0.2272727272727273,0.7050248
+"Okay, see you tonight!",じゃあ今夜ねー,Well then tonight,0.125,0.34414077
+Tonight?\NBut what about guarding Mr. Smith?,今夜？ でもスミスさんのガードが,tonight?But Smith's guard,0.2727272727272727,0.8686926
+What did you do that for?,なーにがやりたいの あなたは,What you want to do,0.3333333333333333,0.31664592
+I just wanted to borrow some\Nhandcuffs and a rope!,手錠とロープ借りようと思っただけなのに,I just wanted to borrow handcuffs and rope,0.6363636363636364,0.7643463
+What is it?,何だね？,What is it?,1.0,0.99999994
 The tape I stuck on the door when\Nwe left the car has come off.,"車を降りる時に貼っといたテープが
 外れてるんだ","The tape that was attached when getting off the car
-I'm off",0.2631578947368421
-Please.,ほい 下がってー,Hoi down,0.0
-One more chance remains.,あと１回か,Or more,0.16666666666666666
-My car!,あ… あ 俺の車が…,Oh ... Oh my car ...,0.4
-Ryo...,んん… リョウ？,... Ryo?,0.6666666666666666
-"I know you're going to take me\Nhome with you later, right?",あはー ほんと？ じゃ どんどんいこ,"Oh, right?Well",0.2
-"What should I do, I wonder?",どうしようかなー,What should I do?,0.7142857142857143
+I'm off",0.2631578947368421,0.8480395
+Please.,ほい 下がってー,Hoi down,0.0,0.20397873
+One more chance remains.,あと１回か,Or more,0.16666666666666666,0.36168393
+My car!,あ… あ 俺の車が…,Oh ... Oh my car ...,0.4,0.57209176
+Ryo...,んん… リョウ？,... Ryo?,0.6666666666666666,0.9044811
+"I know you're going to take me\Nhome with you later, right?",あはー ほんと？ じゃ どんどんいこ,"Oh, right?Well",0.2,0.21387862
+"What should I do, I wonder?",どうしようかなー,What should I do?,0.7142857142857143,0.69678897
 Of course! Now it's my turn.,"ふっはっはっ わからいでか
 今度は俺の番だ","Won't you go
-This time my turn",0.13333333333333333
-"Well, I'll be!",一気いくぞー！,I'm getting worse!,0.2222222222222222
-What did that guy in there do?\NThat foreign guy?,何やったんだ？ 中の外人,What did you do?Foreigner,0.3333333333333333
-No doubt this is the safest place\Nfor me to be all right.,確かにここなら１番安全だ…,"Certainly, here is the No. 1 safe ...",0.21052631578947367
+This time my turn",0.13333333333333333,0.53111166
+"Well, I'll be!",一気いくぞー！,I'm getting worse!,0.2222222222222222,0.34542993
+What did that guy in there do?\NThat foreign guy?,何やったんだ？ 中の外人,What did you do?Foreigner,0.3333333333333333,0.5153653
+No doubt this is the safest place\Nfor me to be all right.,確かにここなら１番安全だ…,"Certainly, here is the No. 1 safe ...",0.21052631578947367,0.5822383
 I feel strange. I'm really sleepy.,"はぁっ 何か変よ…
 眠くなってきちゃった…","Ha n't
-I'm getting sleepy ...",0.2727272727272727
+I'm getting sleepy ...",0.2727272727272727,0.56270105
 I have to agree with you that\Npowder is much better.,"確かに 粉薬の方がいいみたいね
 入れた自分も気が付かないんだから","Certainly the pollination drug is better
-Because I can not notice myself",0.15
+Because I can not notice myself",0.15,0.3023474
 Little Ryo doesn't fall for\Nthe same trick twice.,"リョウちゃん２度も同じ手には
 引っかかんないのー","Ryo-chan 2 times in the same hand
-I can't get caught",0.1
-What can I say? I lost this round.,仕方ないわね 今回はあたしの負け,I can not help it this time my losing,0.2
-You only want to talk?,話だけでいいの？,Is it only good talk?,0.3333333333333333
+I can't get caught",0.1,0.57431185
+What can I say? I lost this round.,仕方ないわね 今回はあたしの負け,I can not help it this time my losing,0.2,0.4100804
+You only want to talk?,話だけでいいの？,Is it only good talk?,0.3333333333333333,0.6353155
 "As for my compensation, I'll take full\Npayment after the job is finished.","報酬はね 仕事が終わった後で
 たっぷりいただくさ","Remuneration After the work is over
-Goodness",0.15789473684210525
+Goodness",0.15789473684210525,0.47770035
 "Today's is the last round,\Nand the most dangerous.","３度目の仕事は俺に任せな
 今日は危険な最後の賭けだからな","The third job is left to me
-Today is a dangerous last bet",0.2777777777777778
-I like shoji. They have the feeling\Nof Japan to them.,私 障子好きです 日本情緒あります,I like myself,0.16666666666666666
-But you haven't caught any\Nfish the whole time.,でも さっきから全然引っかかんないねえ,But I can't get caught in at all,0.1875
+Today is a dangerous last bet",0.2777777777777778,0.46951053
+I like shoji. They have the feeling\Nof Japan to them.,私 障子好きです 日本情緒あります,I like myself,0.16666666666666666,0.1807209
+But you haven't caught any\Nfish the whole time.,でも さっきから全然引っかかんないねえ,But I can't get caught in at all,0.1875,0.48008412
 "Well, who knows, if it's a stupid fish\Nyou might catch one.","あはらぁー しかし 馬鹿な魚が
 引っかかるかも知れないぜ","Ahhaha, but stupid fish
-It may be wondering",0.15
-I highly doubt it.\NI'm not using a hook either.,無理でしょう 針も付いてませんから,Because it is not impossible to have a needle,0.1111111111111111
-That Ryo...,リョウの奴…,Ryo's guy ...,0.4
-He's trying too hard.,かっこつけ過ぎだわ,It's too cool,0.25
-"Tomorrow you go home, right?",帰るのは明日かー,It is tomorrow to go home,0.3
-I'd probably feel the same way you do.,俺も多分 あんたと同じ気になるかもな,Maybe you may be the same as you,0.21428571428571427
-You hire killers.\NYou hire bodyguards.,生きていればね,If you live,0.14285714285714285
-And you place the last bet of your life.,人生最後の賭けに出た,Life last bet,0.3
-That's correct.,そうです,that's right,0.4
-Do you really want to do this?,ほんとにそんな事をなさるつもり？,Are you really going to do such things?,0.45454545454545453
-I've already hired the killers.,もう 殺し屋は雇ってしまった,I already hired a killer,0.3333333333333333
+It may be wondering",0.15,0.7226461
+I highly doubt it.\NI'm not using a hook either.,無理でしょう 針も付いてませんから,Because it is not impossible to have a needle,0.1111111111111111,0.25418466
+That Ryo...,リョウの奴…,Ryo's guy ...,0.4,0.8111686
+He's trying too hard.,かっこつけ過ぎだわ,It's too cool,0.25,0.2785193
+"Tomorrow you go home, right?",帰るのは明日かー,It is tomorrow to go home,0.3,0.73628193
+I'd probably feel the same way you do.,俺も多分 あんたと同じ気になるかもな,Maybe you may be the same as you,0.21428571428571427,0.39221284
+You hire killers.\NYou hire bodyguards.,生きていればね,If you live,0.14285714285714285,0.15236835
+And you place the last bet of your life.,人生最後の賭けに出た,Life last bet,0.3,0.68003845
+That's correct.,そうです,that's right,0.4,0.748026
+Do you really want to do this?,ほんとにそんな事をなさるつもり？,Are you really going to do such things?,0.4545454545454545,0.70182705
+I've already hired the killers.,もう 殺し屋は雇ってしまった,I already hired a killer,0.3333333333333333,0.78500414
 And if the bodyguard of my choice\Nis able to protect you and I win?,"いいわ その代わり私の選んだ
 ボディーガードがあなたを守り切ったら","Like that instead I chose
-If the bodyguard protects you",0.2631578947368421
-I'll furnish you with some\Nvaluable information.,あなたに役立つ情報を差し上げよう,Let's give useful information to you,0.15384615384615385
+If the bodyguard protects you",0.2631578947368421,0.8086158
+I'll furnish you with some\Nvaluable information.,あなたに役立つ情報を差し上げよう,Let's give useful information to you,0.15384615384615385,0.5767113
 "If I win, I want you to live as long\Nas life remains in you","あなたを守り切ったら
 命ある限り生きて欲しいわ…","If you protect you
-I want you to live as long as it lives ...",0.3888888888888889
-without ever giving up hope.,最後まで望みを捨てないで,Do not throw away hope until the end,0.07692307692307693
-"Very well, it's a promise.",いいだろう 約束しよう,Let's promise it,0.3333333333333333
+I want you to live as long as it lives ...",0.3888888888888889,0.56552637
+without ever giving up hope.,最後まで望みを捨てないで,Do not throw away hope until the end,0.07692307692307693,0.55672663
+"Very well, it's a promise.",いいだろう 約束しよう,Let's promise it,0.3333333333333333,0.5389586
 So Saeko tricked me into getting\Ninvolved just to get information.,"じゃあ 冴子は情報を
 手に入れるためだけに俺をはめたんじゃ","Well then Mr. Reiko information
-She just fucked me to get it",0.2777777777777778
-Is that what she said?,彼女がそう言ったんですか？,She said so?,0.42857142857142855
-But it's strange.,でも 変なもんだ…,But even strange ...,0.2857142857142857
+She just fucked me to get it",0.2777777777777778,0.40470004
+Is that what she said?,彼女がそう言ったんですか？,She said so?,0.42857142857142855,0.6901074
+But it's strange.,でも 変なもんだ…,But even strange ...,0.2857142857142857,0.7603407
 "After seeing you and Saeko,","君と冴子さんを見ていたら
 命がとてつもなく大事に思えてきた","If you are looking at you and Reiko
-I thought that my life was very important",0.10526315789473684
-"Then, this is it.",これが最後か,This is the end,0.25
+I thought that my life was very important",0.10526315789473684,0.3887839
+"Then, this is it.",これが最後か,This is the end,0.25,0.4921654
 Hold on!,"-うっ！
 -あ しっかりしろー","-Uo!
--Ahsori",0.2
-Saeko wins this bet.,賭けは冴子の勝ちだ,Bet is a won,0.125
-Mr. Smith has a strong\Nsense of loyalty.,義理堅いのよ スミスさん,"Your-rigid, Mr. Smith",0.2
+-Ahsori",0.2,0.21098398
+Saeko wins this bet.,賭けは冴子の勝ちだ,Bet is a won,0.125,0.49344498
+Mr. Smith has a strong\Nsense of loyalty.,義理堅いのよ スミスさん,"Your-rigid, Mr. Smith",0.2,0.50440776
 "In thanks, he told me the locations of\Nmany hideouts for smuggling operations.","お礼に密輸組織のアジトを
 山ほど教えてくれたわ","Thank you for the agitate of the smuggling organization
-I told me a mountain",0.22727272727272727
-"Thanks to you, Ryo.",リョウのおかげね,Thanks to Ryo,0.5
-Leaving my fate in the hands of God\Nas it was intended,表が出たらハッピー 裏が出たら…,"If the table appears, if it comes out of Happy ...",0.15789473684210525
-"Saeko, you promised! Now give me\Nthat hot mokkori compensation!",冴子！ 約束だ モッコリ報酬くれぇ,Sakiko!Promise Mokkori reward,0.14285714285714285
-Let's see. Why not talk about it with\Nthe person standing behind you?,そうね 後ろの方に相談してみて,Let's talk about the person behind,0.375
-You're fibbing!\NI don't believe it for a second.,あっそ 後でベソかいても知ぃらないっと,"Even if there is a beso, I know it doesn't know",0.13636363636363635
+I told me a mountain",0.2272727272727273,0.56258833
+"Thanks to you, Ryo.",リョウのおかげね,Thanks to Ryo,0.5,0.899386
+Leaving my fate in the hands of God\Nas it was intended,表が出たらハッピー 裏が出たら…,"If the table appears, if it comes out of Happy ...",0.15789473684210525,0.14054428
+"Saeko, you promised! Now give me\Nthat hot mokkori compensation!",冴子！ 約束だ モッコリ報酬くれぇ,Sakiko!Promise Mokkori reward,0.14285714285714285,0.73952526
+Let's see. Why not talk about it with\Nthe person standing behind you?,そうね 後ろの方に相談してみて,Let's talk about the person behind,0.375,0.6188906
+You're fibbing!\NI don't believe it for a second.,あっそ 後でベソかいても知ぃらないっと,"Even if there is a beso, I know it doesn't know",0.13636363636363635,0.12434139
 It's true.\NAnd Arisa is one determined girl.,"ほんとだも～ん アリサちゃんって
 とっても積極的なの","It's really Ariza-chan
-Very aggressive",0.15384615384615385
+Very aggressive",0.15384615384615385,0.44069597
 Watch out! Women who go after you\Nalways have something going on.,"リョウに接近してくる女性って
 必ず何かあるんだよね","Women who come close to Ryo
-She always has something",0.15
-"Being used, aren't you?",利用されてんじゃないの？,Aren't you used?,0.7142857142857143
-Is that right?\NJust don't come crying to me later.,うんにゃ あの目は完全に俺にいかれてる,That's all right to me,0.26666666666666666
+She always has something",0.15,0.24591479
+"Being used, aren't you?",利用されてんじゃないの？,Aren't you used?,0.7142857142857143,0.8614034
+Is that right?\NJust don't come crying to me later.,うんにゃ あの目は完全に俺にいかれてる,That's all right to me,0.26666666666666666,0.401913
 "City Hunter: ""Ryo Plays Cupid -\NHere's to Diamonds!""","「愛のキューピット
 ダイヤモンドに乾杯！！」","""Love cue pit
-Toast to Diamond!!""",0.2222222222222222
+Toast to Diamond!!""",0.2222222222222222,0.5582526

@@ -1,409 +1,409 @@
-en_text,jp_text,google_translated,score
-nakushita yakusoku wa hoshi ni,♪～,♪ ~,0.0
-To our own separate ways,～♪,~ ♪,0.0
-It's dawn...,（真山 巧(まやまたくみ)）夜明けだ,) Dawn,0.2
-What nice weather...,いい天気だな,Good weather,0.2
-Although this light is already torturous...,…ていうか この光,... or this light,0.375
+en_text,jp_text,google_translated,score,semantic_score
+nakushita yakusoku wa hoshi ni,♪～,♪ ~,0.0,0.19094338
+To our own separate ways,～♪,~ ♪,0.0,0.12205867
+It's dawn...,（真山 巧(まやまたくみ)）夜明けだ,) Dawn,0.2,0.6629349
+What nice weather...,いい天気だな,Good weather,0.2,0.754302
+Although this light is already torturous...,…ていうか この光,... or this light,0.375,0.54765767
 "Mayama, please close the curtain! I'm going to turn into sand!","（山崎(やまざき)）
 真山 閉めてカーテン
 砂になる",")
 Miyama Closed Curtain
-Become sand",0.1111111111111111
+Become sand",0.1111111111111111,0.6368037
 I can't see the screen...,"（野宮(のみや)）うわ…
 画面が見えねえ",") Wow ...
-Screen can not be seen",0.15384615384615385
+Screen can not be seen",0.15384615384615385,0.74569184
 I'm back!,"なあに みんな
 ヨボっとしちゃって","Now everyone
-I'm doing it",0.25
-"Oh, man! That totally woke me up.",ああ 目 覚めた,Oh I woke up,0.2727272727272727
-What's with all the tired faces?,やっぱ いいわ マッサージって,After all the massage,0.2
+I'm doing it",0.25,0.22937292
+"Oh, man! That totally woke me up.",ああ 目 覚めた,Oh I woke up,0.2727272727272727,0.56193286
+What's with all the tired faces?,やっぱ いいわ マッサージって,After all the massage,0.2,0.1351736
 You should go get a massage.,"マッサージ行ってくれば？
 回数券 あるわよ","If you go to massage?
-There is a ticket",0.3076923076923077
+There is a ticket",0.3076923076923077,0.5093977
 AND a Monkel drink...,"（山崎の声）
-アンド モンケルドリンク",And monkeys link,0.14285714285714285
-That feels good!,モンケルロイヤル！,Monkel Royal!,0.16666666666666666
+アンド モンケルドリンク",And monkeys link,0.14285714285714285,0.33158973
+That feels good!,モンケルロイヤル！,Monkel Royal!,0.16666666666666666,0.16541041
 "My goodness, what's the matter, Leader?","どうしたんですか
 リーダー","What happened
-leader",0.2
+leader",0.2,0.5949686
 "Oh, so these are what you made the other day?","この前 作ってきたやつね？
 ステキじゃない","What did you make this?
-It is not wonderful",0.15789473684210525
+It is not wonderful",0.15789473684210525,0.35473868
 I just wasn't in the groove that day...,"あの日は
 ちょっと調子が出なかっただけで","That day
-Just because I did not feel like",0.26666666666666666
+Just because I did not feel like",0.26666666666666666,0.5667634
 I wanted to talk with Yamada-san more.,"そうだよ　もっと山田(やまだ)さんと
 お話ししたかったのに","That's right and more Yamada 
-I wanted to talk",0.38461538461538464
-Yamada is...,山田は…,Yamada ...,0.6666666666666666
+I wanted to talk",0.38461538461538464,0.83447665
+Yamada is...,山田は…,Yamada ...,0.6666666666666666,0.925613
 Please don't make any moves on her unless you're serious.,"遊び半分で ちょっかいとか
 出さないでくださいよ","A little bit of play
-Please do not leave",0.1
+Please do not leave",0.1,0.3445308
 "If you're going to say that much, then why\Ndon't you make an attack on her?","（美和子）そこまで言うんなら
 自分がアタックすればいいじゃない","Say there
-I should not attack",0.09090909090909091
-"Ah, well, that's...",えっ？ いや それは…,"eh?No, it's ...",0.3
+I should not attack",0.09090909090909093,0.45613465
+"Ah, well, that's...",えっ？ いや それは…,"eh?No, it's ...",0.3,0.44070134
 Then why are you getting in our way?,"（野宮）
-じゃあ なんで邪魔すんだよ",Well then why I get in the way,0.3076923076923077
-That's not a valid reason.,理由に なってないわ,It is not a reason,0.3333333333333333
+じゃあ なんで邪魔すんだよ",Well then why I get in the way,0.3076923076923077,0.7785597
+That's not a valid reason.,理由に なってないわ,It is not a reason,0.3333333333333333,0.7373404
 "Oh, I'll make us some coffee.","（真山）
-あっ 俺 コーヒー入れます",I love coffee,0.2
-Yamada is like a precious friend to me...,山田は大事な友人というか,Yamada is an important friend,0.2727272727272727
+あっ 俺 コーヒー入れます",I love coffee,0.2,0.5956568
+Yamada is like a precious friend to me...,山田は大事な友人というか,Yamada is an important friend,0.2727272727272727,0.8973951
 Why don't you forget about that and just date her?,"あんたも彼女が
 好きなんじゃないの？","Another she
-Aren't you like?",0.1875
+Aren't you like?",0.1875,0.37519965
 "Anyway, I'm...!","（美和子）ええっ？
 （真山）ち… 違いますよ","yeah?
- ... I'm different",0.3333333333333333
-Aiming for Rika-san?,（山崎・美和子）ええ？,yeah?,0.2
+ ... I'm different",0.3333333333333333,0.34070474
+Aiming for Rika-san?,（山崎・美和子）ええ？,yeah?,0.2,0.11832463
 "First of all, if I was, I would've just stayed there.","第一 もし そうなら
 あのまま あそこに残ってますよ","With the first
-I still remain over there",0.16666666666666666
-Even if it was just part-time or something...,バイトでも何でもして,Any byte or anything,0.08333333333333333
-T-That's true...,うっ… そうよね,Well ... that's right,0.2857142857142857
-Could it be that an issue arose relating to that?,もしかして それ系のトラブル？,Maybe the trouble?,0.07692307692307693
-Ridiculous!,まさか,Masadish,0.0
+I still remain over there",0.16666666666666666,0.5523611
+Even if it was just part-time or something...,バイトでも何でもして,Any byte or anything,0.08333333333333333,0.050297137
+T-That's true...,うっ… そうよね,Well ... that's right,0.2857142857142857,0.4768654
+Could it be that an issue arose relating to that?,もしかして それ系のトラブル？,Maybe the trouble?,0.07692307692307693,0.43297058
+Ridiculous!,まさか,Masadish,0.0,0.14271678
 "W-What are you trying to say, Yamazaki-san...?","や… 山崎さんまで
 何を言いだすんですか","Yes ... up to Yamazaki
-What do you say",0.26666666666666666
-"So, please...",や… やめてくださいよ,And ... Please stop,0.3333333333333333
-P-Please quit already...,は… うう,...,0.25
-Bingo.,ビンゴ,bingo,0.5
+What do you say",0.26666666666666666,0.7592984
+"So, please...",や… やめてくださいよ,And ... Please stop,0.3333333333333333,0.47792143
+P-Please quit already...,は… うう,...,0.25,0.22211374
+Bingo.,ビンゴ,bingo,0.5,0.88752395
 Mayama!,"（割れた音）
-（真山）はっ！",!,0.5
+（真山）はっ！",!,0.5,0.25641048
 Rika-san is my idol!,"真山！ あんた 何 考えてんの
 理花さんは私のアイドルなのよ","Miyama!What is your thoughts
-Raw flower is my idol",0.36363636363636365
+Raw flower is my idol",0.3636363636363637,0.44434714
 "Moreover, how dare you... when she's\Nbeen depressed about her husband...!","しかも旦那さんのことがあって
 弱ってる時に それを それを！","Moreover, there is a husband
-When he was weak he is he!",0.2631578947368421
-G-Give up! I give up!,（真山）ギブ ギブギブ,Give Give Give,0.2
-But I don't get it.,けど 分かんないな,But I can not understand,0.2
-Why are you interfering with us when\Nyou're interested in somebody else?,なんで俺たちをブロックすんだ？,Why do you block our?,0.1875
+When he was weak he is he!",0.2631578947368421,0.29894355
+G-Give up! I give up!,（真山）ギブ ギブギブ,Give Give Give,0.2,0.44712275
+But I don't get it.,けど 分かんないな,But I can not understand,0.2,0.5706598
+Why are you interfering with us when\Nyou're interested in somebody else?,なんで俺たちをブロックすんだ？,Why do you block our?,0.1875,0.37902355
 "Even we could figure out Yamada-san's feelings,\Nso there's no way you haven't noticed, right?","お前が気づいてないわけ
 ないよな","I have not noticed you
-Not",0.14285714285714285
+Not",0.14285714285714285,0.31263596
 "Maybe it's that you want to keep her ""on the bench"",\Nin case your first choice doesn't work out?","ホントはさ 彼女のこと
 そうやってキープしておいて—","Honda Her
-Let's keep it so",0.14285714285714285
-Thinking something like that?,言ったね？ ないって言ったね？,Did you say?Didn't you say that?,0.2222222222222222
-I'm not.,いません,not here,0.2
+Let's keep it so",0.14285714285714285,0.31886327
+Thinking something like that?,言ったね？ ないって言ったね？,Did you say?Didn't you say that?,0.2222222222222222,0.11694935
+I'm not.,いません,not here,0.2,0.28629977
 Really?,"（野宮）ホントに？
 （真山）ないです","really?
- is not",0.5
-You said it.,…とか考えてない？,Aren't you thinking ...,0.125
-I'm going out.,外出します,go out,0.16666666666666666
+ is not",0.5,0.60270345
+You said it.,…とか考えてない？,Aren't you thinking ...,0.125,0.11372287
+I'm going out.,外出します,go out,0.16666666666666666,0.60557765
 "Nomiya-san, where are you going?","（真山）
-野宮さん？ どこ行くんすか？",Mr. Nomiya?Where are you?,0.4444444444444444
+野宮さん？ どこ行くんすか？",Mr. Nomiya?Where are you?,0.4444444444444444,0.7880288
 "Dear me, you should know already without me having to tell you.","いやいや
 君には言わずとも分かるだろ","Unwillingly
-You can see from you without saying",0.11764705882352941
+You can see from you without saying",0.1176470588235294,0.38923267
 I know. Of course I know.,"（美和子）できてる
 （山崎）あ？","I can
- Oh?",0.125
+ Oh?",0.125,0.25599155
 But I'll ask anyway!,"分かる 分かるとも
 …が しかし あえて問う！","Even if you understand
-... but ask me!",0.25
-Hey! You two! What about your assignments?,…って おい　君ら仕事は？,... What is your job?,0.25
+... but ask me!",0.25,0.50161004
+Hey! You two! What about your assignments?,…って おい　君ら仕事は？,... What is your job?,0.25,0.2994813
 "Oh, Mayama. And Nomiya-san...","（美和子）しかも きちんと
 （山崎）早(はや)っ","and often
- early",0.1111111111111111
-What's the matter?,どうしたんですか？,What happened?,0.3333333333333333
-The photo shoot suddenly got bumped up.,急に撮影が早まっちゃって,Suddenly shooting is early,0.09090909090909091
+ early",0.1111111111111111,0.09701478
+What's the matter?,どうしたんですか？,What happened?,0.3333333333333333,0.29229006
+The photo shoot suddenly got bumped up.,急に撮影が早まっちゃって,Suddenly shooting is early,0.09090909090909093,0.4810748
 "It's kind of soon, but are the potteries from the other day finished?","１日 早いけど
 こないだの できてるかな？","It is early one day
-Isn't he doing?",0.14285714285714285
+Isn't he doing?",0.14285714285714285,0.26335633
 I'm sorry that we came up without warning.,"（山田）別に
-あっ あっちにあるわ",I'm in there,0.16666666666666666
-It's okay.,悪いね いきなり来ちゃって,It's bad I'm coming suddenly,0.2222222222222222
-They're everyone's presentations for the school festival.,みんなの学祭用の作品なんです,It is a work for everyone's school festival,0.35714285714285715
-"School festival, huh?",（野宮）学祭か,school festival,0.4
-I'm sorry for coming when you're so busy.,（真山）ごめんな 忙しい時に,When I'm busy,0.36363636363636365
+あっ あっちにあるわ",I'm in there,0.16666666666666666,0.13671082
+It's okay.,悪いね いきなり来ちゃって,It's bad I'm coming suddenly,0.2222222222222222,0.36923015
+They're everyone's presentations for the school festival.,みんなの学祭用の作品なんです,It is a work for everyone's school festival,0.35714285714285715,0.70617473
+"School festival, huh?",（野宮）学祭か,school festival,0.4,0.9051083
+I'm sorry for coming when you're so busy.,（真山）ごめんな 忙しい時に,When I'm busy,0.3636363636363637,0.45517084
 "Oh, no, I'm just helping everyone out.","（山田）ううん 私は みんなの
 お手伝いをしてるだけだから","Ummmo I am everyone
-Because I'm just helping you",0.35714285714285715
-All right.,…しょっと,...,0.0
+Because I'm just helping you",0.35714285714285715,0.6291567
+All right.,…しょっと,...,0.0,0.25440553
 I haven't been going back to the apartment lately.,"竹本は どうしてる？
 俺 最近 アパートに帰ってなくてさ","How do you do Takemoto?
-I recently not come back to the apartment",0.2631578947368421
-He's been running around looking for jobs.,就職活動で走り回ってるわ,I'm running around with job hunting,0.14285714285714285
+I recently not come back to the apartment",0.2631578947368421,0.505838
+He's been running around looking for jobs.,就職活動で走り回ってるわ,I'm running around with job hunting,0.14285714285714285,0.57769907
 And every evening he comes back looking depressed.,"…で 夕方になると
 沈んだ表情で戻ってきて","When it comes to evening with ...
-I came back with a sunk look",0.15789473684210525
-"Oh, yeah! And how's Hagu-chan?",そうだ　はぐちゃんは？,That's right?,0.18181818181818182
-Hagu-chan...,はぐちゃんは…,Hagu-chan ...,1.0
+I came back with a sunk look",0.15789473684210525,0.35133475
+"Oh, yeah! And how's Hagu-chan?",そうだ　はぐちゃんは？,That's right?,0.18181818181818185,0.109117255
+Hagu-chan...,はぐちゃんは…,Hagu-chan ...,1.0,1.0000001
 All sorts of people are observing her everyday.,"（山田）…で それを毎日
 いろんな人が見学してるの","... every day
-Various people are visiting",0.14285714285714285
-But she's still Hagu-chan on the inside.,でも 中身は はぐちゃんだし,But the contents are Hagu-chan,0.2727272727272727
+Various people are visiting",0.14285714285714285,0.40411332
+But she's still Hagu-chan on the inside.,でも 中身は はぐちゃんだし,But the contents are Hagu-chan,0.2727272727272727,0.64277434
 We bring the ingredients and cook them here.,"（山田）ここに材料 持ち寄って
 炊き出ししてるの","Here we bring in the material
-I'm cooking",0.2857142857142857
-I'm so glad I've graduated already...,よかった もう卒業してて,I'm glad I'm graduating already,0.4444444444444444
-That's right! I cooked curry today! Have some with me!,（真山）そ… そうなんだ,... That's right,0.23076923076923078
-"Well, I...",いや 俺は…,"No, I ...",0.6
-"How about you, Nomiya-san?",野宮さんも いかがですか？,How about Noga-san?,0.42857142857142855
+I'm cooking",0.2857142857142857,0.69320667
+I'm so glad I've graduated already...,よかった もう卒業してて,I'm glad I'm graduating already,0.4444444444444444,0.8887888
+That's right! I cooked curry today! Have some with me!,（真山）そ… そうなんだ,... That's right,0.2307692307692308,0.15289405
+"Well, I...",いや 俺は…,"No, I ...",0.6,0.62826025
+"How about you, Nomiya-san?",野宮さんも いかがですか？,How about Noga-san?,0.42857142857142855,0.64188206
 "Oh, can I?","（野宮）えっ いいの？
 （真山）ああっ","Yes?
- Oh",0.3333333333333333
+ Oh",0.3333333333333333,0.5332796
 Boy... this is...,"（真山）うお…
 （野宮）ほほう これは これは…","...
- Hoho This is this ...",0.6
+ Hoho This is this ...",0.6,0.48494083
 But why is the scent of chocolate wafting out of the curry...?,"（２人の声）
 しかし なんでカレーから
 チョコレートの香りが","But why is it from curry
-The scent of chocolate",0.5714285714285714
+The scent of chocolate",0.5714285714285714,0.9174146
 This special curry has a certain hidden ingredient\Nin it to give it more presence!,"この特製カレーはコクを出すために
 ある物を隠し味で入れています","This special curry is to put on a rich
-I'm adding some things to hide",0.20833333333333334
-I wonder what it could be?,それは何でしょうか？,What is that?,0.2222222222222222
+I'm adding some things to hide",0.20833333333333331,0.6432083
+I wonder what it could be?,それは何でしょうか？,What is that?,0.2222222222222222,0.27390254
 "Rather, it's actually manifesting itself all over the place...","…つうか むしろ
 前面に出まくってるんですけど","... か も も
-I'm going to go to the front",0.1
+I'm going to go to the front",0.1,-0.008121711
 "The answer is: ""chocolate""!","ジャーン！ 答えはチョコレート
 意外でしょ？","Jaan!The answer is chocolate
-Unexpectedly?",0.45454545454545453
-Surprised?,さっ いかが？,Who?,0.3333333333333333
+Unexpectedly?",0.4545454545454545,0.7233467
+Surprised?,さっ いかが？,Who?,0.3333333333333333,0.28057614
 No...,"（野宮）い… いえ
-（真山）お構いなく",...,0.5
+（真山）お構いなく",...,0.5,0.660704
 We'll have some!,"（学生）
-僕たちが いただきます！",We will come!,0.2857142857142857
+僕たちが いただきます！",We will come!,0.2857142857142857,0.65113425
 I'd like to eat it even if it kills me!,"（学生）
-マジ死んでも食いたいっす",I really want to eat seriously,0.21428571428571427
-How does it taste?,どうかな お味は？,What is the taste?,0.25
-"Now then, let's wrap it up.",（真山）さてと 包むか,Wrap,0.1111111111111111
-"Yamada, can you hold it up at that end?",しみる？ 湧き上がる？,Do you want?Do you get up?,0.21428571428571427
-You're really wrapping it up carefully.,随分 厳重に包むのね,It will be carefully wrapped carefully,0.18181818181818182
-"Well, these things have no replacements.",山田　ちょっと そっち持って,Yamada Have a little,0.09090909090909091
+マジ死んでも食いたいっす",I really want to eat seriously,0.21428571428571427,0.5130354
+How does it taste?,どうかな お味は？,What is the taste?,0.25,0.8781123
+"Now then, let's wrap it up.",（真山）さてと 包むか,Wrap,0.1111111111111111,0.5658784
+"Yamada, can you hold it up at that end?",しみる？ 湧き上がる？,Do you want?Do you get up?,0.21428571428571427,0.31704384
+You're really wrapping it up carefully.,随分 厳重に包むのね,It will be carefully wrapped carefully,0.18181818181818185,0.61986107
+"Well, these things have no replacements.",山田　ちょっと そっち持って,Yamada Have a little,0.09090909090909093,0.1365853
 "No, Mayama. That goes in B.","いや こればっかりは
 物(ぶつ)撮りに替えがないからな","No this
-Because there is no change in shooting",0.14285714285714285
+Because there is no change in shooting",0.14285714285714285,0.14861934
 "Oh, I see. Thanks.","（山田）
-しょうがないんだから 真山は","Because I can not help, Miyama",0.18181818181818182
-"Sheesh, you're so much trouble.",おう そうか サンキュー,Thank you very much,0.2
-That's the last of them.,まったく もう 世話が焼ける,Take care of yourself at all,0.08333333333333333
-The model?,ええ？ 模型が？,Yes?What model?,0.4
+しょうがないんだから 真山は","Because I can not help, Miyama",0.18181818181818185,0.12649758
+"Sheesh, you're so much trouble.",おう そうか サンキュー,Thank you very much,0.2,0.069974326
+That's the last of them.,まったく もう 世話が焼ける,Take care of yourself at all,0.08333333333333333,0.088090196
+The model?,ええ？ 模型が？,Yes?What model?,0.4,0.76324123
 "I'm sorry, Mayama. The leg on the desk\Nin the meeting room buckled...","ごめん 真山　会議室の机の脚が
 こう ガクーンって","I'm sorry Mayama Meeting Room Desk Leg
-This gakoon",0.4117647058823529
-So please come right away!,だからね 今すぐ来て！,So come right now!,0.5714285714285714
+This gakoon",0.4117647058823529,0.75030947
+So please come right away!,だからね 今すぐ来て！,So come right now!,0.5714285714285714,0.7743439
 "Nomiya-san, there's an emergency\Nsituation for the meeting at nine.","（真山）
 野宮さん ９時からの打ち合わせで
 緊急事態です","Mr. Nomiya-san at 9 o'clock
-Emergency",0.125
+Emergency",0.125,0.749378
 The train would be quicker.,"場所は四谷(よつや)だっけか
 電車のほうが早いぞ","Where is Yotsuya 
-The train is earlier",0.2
-I understand. I'm off.,分かりました　行ってきます,I understand,0.4
-"All right, I'm counting on you.",おう 頼むぞ,I'll ask you,0.18181818181818182
+The train is earlier",0.2,0.43103224
+I understand. I'm off.,分かりました　行ってきます,I understand,0.4,0.5226201
+"All right, I'm counting on you.",おう 頼むぞ,I'll ask you,0.18181818181818185,0.14468518
 What the hell? I get it already!,"…って なに 仲良く
 手なんて振ってるんですか！","... I get along well
-What is your hand?",0.26666666666666666
+What is your hand?",0.26666666666666666,0.15897466
 "Huh? Uh oh, Mayama forgot his coat.","やだ 真山
 コート忘れていっちゃった","Nayama
-I forgot my coat",0.15384615384615385
-Will he be okay?,（山田）あら？,?,0.2
-"Sorry, I forgot my lighter.",ごめん ライター忘れちゃって,I'm sorry I forgot my writer,0.4444444444444444
+I forgot my coat",0.15384615384615385,0.6151177
+Will he be okay?,（山田）あら？,?,0.2,0.10963342
+"Sorry, I forgot my lighter.",ごめん ライター忘れちゃって,I'm sorry I forgot my writer,0.4444444444444444,0.29326144
 "He's from Mayama's company, he'll figure\Nout that this is Mayama's coat!","これ 真山のコートだって
 きっと分かっちゃう","This is a coat of Miyama
-I will surely understand",0.15
-"Oh, here it is.",どうしよう　カッコ悪いよ 私,How is it cool.,0.375
-What should I do? I'm so uncool!,（山田の声）見られた！,I was seen!,0.18181818181818182
+I will surely understand",0.15,0.43295673
+"Oh, here it is.",どうしよう　カッコ悪いよ 私,How is it cool.,0.375,0.18873075
+What should I do? I'm so uncool!,（山田の声）見られた！,I was seen!,0.18181818181818185,0.09961288
 I'm getting hungry.,"（野宮）俺 腹 減ってきてさ
 よかったら つきあってくんない？","I'm getting hungry
-Isn't it good if you like?",0.3076923076923077
-B-But...,で… でも,... but,0.3333333333333333
-"I also want to talk to you about payments, okay?",ギャラの話もしたいし　ね？,"You want to talk about the gala, right?",0.5
-"Right then, let's go.",よし 行こう,Let go,0.2857142857142857
-You're already wearing it.,もう着てんじゃん,Wear already,0.14285714285714285
+Isn't it good if you like?",0.3076923076923077,0.72407573
+B-But...,で… でも,... but,0.3333333333333333,0.59703404
+"I also want to talk to you about payments, okay?",ギャラの話もしたいし　ね？,"You want to talk about the gala, right?",0.5,0.27695233
+"Right then, let's go.",よし 行こう,Let go,0.2857142857142857,0.5437685
+You're already wearing it.,もう着てんじゃん,Wear already,0.14285714285714285,0.66785556
 "Soba, is it?","（山田）
-え？ あっ じゃあ 蕎麦を",picture?Well then soba,0.25
+え？ あっ じゃあ 蕎麦を",picture?Well then soba,0.25,0.65752536
 "It's a little far, so I'll go by highway.","蕎麦だね？
 だったら おいしいとこ知ってるよ","It's a buckwheat noodle?
-If so, I know delicious",0.3157894736842105
-The scent of other people is mysterious.,人の匂いって不思議,My smell of people wondering,0.18181818181818182
+If so, I know delicious",0.3157894736842105,0.15786928
+The scent of other people is mysterious.,人の匂いって不思議,My smell of people wondering,0.18181818181818185,0.6072084
 "It's not like he wears anything special, like cologne...","特別に何かつけてるってわけでは
 なさそうなのに—","It's a special thing
-Not likely-",0.2857142857142857
-But I know straight away.,すぐに分かる,I understand soon,0.125
+Not likely-",0.2857142857142857,0.26716974
+But I know straight away.,すぐに分かる,I understand soon,0.125,0.41019756
 "The scent of his shampoo, laundry detergent...","シャンプーと
 お洗濯の匂いと—","With shampoo
-Smell of washing-",0.16666666666666666
+Smell of washing-",0.16666666666666666,0.66070926
 This must be tobacco...,"それから少し
 これは タバコの…","Then a little
-This is a tobacco ...",0.3333333333333333
-U-Um...,あっ… あの,Oh ... that,0.25
+This is a tobacco ...",0.3333333333333333,0.7541062
+U-Um...,あっ… あの,Oh ... that,0.25,0.28053036
 B-But where is this place?,"こ… ここは
 どこなんでしょうか？","... here
-Where are you?",0.2
-We're in Tateshina.,（山田）た… 蓼科,Tateshina,0.2
-"Yeah, I guess it's in the Nagano prefecture.",（野宮）そっ 長野県になるのかな,I wonder if it will be Nagano Prefecture,0.26666666666666666
+Where are you?",0.2,0.51402885
+We're in Tateshina.,（山田）た… 蓼科,Tateshina,0.2,0.76543134
+"Yeah, I guess it's in the Nagano prefecture.",（野宮）そっ 長野県になるのかな,I wonder if it will be Nagano Prefecture,0.26666666666666666,0.7886959
 I came here once for work.,"前に仕事で来たんだ
 さっ 食べて食べて","I came before work before
-Eat and eat",0.3
-The soba here is really good.,うまいんだ ここの蕎麦,"Uma, soba here",0.2222222222222222
-Er...,（山田）あっ あの えっと…,That's right ...,0.2
-Here's a souvenir.,（野宮）はい お土産,Yes souvenir,0.16666666666666666
+Eat and eat",0.3,0.5162782
+The soba here is really good.,うまいんだ ここの蕎麦,"Uma, soba here",0.2222222222222222,0.68557215
+Er...,（山田）あっ あの えっと…,That's right ...,0.2,0.33453932
+Here's a souvenir.,（野宮）はい お土産,Yes souvenir,0.16666666666666666,0.78959775
 "Oh, soba? That's nice.","（美和子）
-あら お蕎麦？ いいわね",Oh soba?Good,0.3333333333333333
+あら お蕎麦？ いいわね",Oh soba?Good,0.3333333333333333,0.8891947
 """Miwako-san,\N\h\hwhat is that? Is it meat?""","“たてしな”って
 書いてありますけど？","""I'm sorry""
-It is written, though?",0.4
+It is written, though?",0.4,0.25146836
 But why a souvenir?,"でも どうして
 お土産なの？","But why
-Is it souvenir?",0.5714285714285714
+Is it souvenir?",0.5714285714285714,0.94723153
 "I thought you went with Mayama to go get the\Npotteries at Hamabi yesterday, Nomiya...?","野宮 昨日 真山と浜美に
 焼き物 取りに行ったんじゃ？","Nogumi yesterday Miyama and Hamami
-Did you go to the baker?",0.20833333333333334
-That's right. I went there.,そっ 行ってきたんだ,I went there,0.42857142857142855
-Yamada!,山田！,Yamada!,1.0
-"What's wrong, Mayama?",（花本修司(はなもとしゅうじ)）真山 どうしたんだ？,) What happened to Miyama?,0.2
+Did you go to the baker?",0.20833333333333331,0.57115954
+That's right. I went there.,そっ 行ってきたんだ,I went there,0.42857142857142855,0.68047357
+Yamada!,山田！,Yamada!,1.0,0.99999994
+"What's wrong, Mayama?",（花本修司(はなもとしゅうじ)）真山 どうしたんだ？,) What happened to Miyama?,0.2,0.2648008
 I hear that you went to Nagano with Nomiya-san last night?,"（真山）お前 昨日 野宮さんと
 長野に行ったんだって？","Yesterday Nogumiya
-Did you go to Nagano?",0.25
-Y-Yeah...,だ… だって,...,0.5
+Did you go to Nagano?",0.25,0.8058515
+Y-Yeah...,だ… だって,...,0.5,0.43808934
 Why would you do such a thing out of the blue?!,"“蕎麦 食わない？”って
 言うから—","""Don't eat soba?""
-Because of",0.15789473684210525
+Because of",0.15789473684210525,0.16344623
 I thought that it would be a soba restaurant nearby...,"私 てっきり
 近くの蕎麦屋だとばっかり","I am
-It is just a buckwheat noodle shop",0.17647058823529413
-But then I got into his car...,そしたら 車に乗せられて,Then put it on the car,0.16666666666666666
-Y-Y-You fell asleep?!,ね ね ね… 眠った！？,Ney ... I slept!?,0.2222222222222222
+It is just a buckwheat noodle shop",0.17647058823529413,0.2830329
+But then I got into his car...,そしたら 車に乗せられて,Then put it on the car,0.16666666666666666,0.47642803
+Y-Y-You fell asleep?!,ね ね ね… 眠った！？,Ney ... I slept!?,0.2222222222222222,0.61956096
 In that dangerous man's car?!,"よく知らない男の車の助手席で？
 あんな危険な男の車で？","A man's passenger seat of a well-known man?
-Is it a car of such dangerous man?",0.3125
+Is it a car of such dangerous man?",0.3125,0.62120694
 "So what? It's none of your business what I do, Mayama!","何よ 私がどうしようと
 真山には関係ないでしょ！","What I can do
-It does not matter to Miyama!",0.25
-A-Ayu...!,（花本はぐみ）あ あゆ…,Aoi ...,0.25
-Yamada-san!,（山田）やだ もう！,Yada!,0.3333333333333333
+It does not matter to Miyama!",0.25,0.30029783
+A-Ayu...!,（花本はぐみ）あ あゆ…,Aoi ...,0.25,0.4408835
+Yamada-san!,（山田）やだ もう！,Yada!,0.3333333333333333,0.6004201
 The heels on western boots are dangerous!,"ウエスタンブーツの かかとは
 マズいよ","With the heel of Western boots
-Mazu",0.25
-I don't care about you anymore!,もう知らない！,I do not know anymore!,0.4
+Mazu",0.25,0.66014564
+I don't care about you anymore!,もう知らない！,I do not know anymore!,0.4,0.35032907
 Youngsters these days give up on things\Nat the most inconvenient times...,"最近の若者は
 すぐ途中で ほっぽらかすから","Recent young people
-Because it is smooth on the way",0.1
+Because it is smooth on the way",0.1,0.4106076
 I did it again...,"（山田）
-ハア… また やってしまった",Haa ... also did she did,0.25
-Was it good?,（野宮）そう　よかった,It was good,0.75
+ハア… また やってしまった",Haa ... also did she did,0.25,0.2962071
+Was it good?,（野宮）そう　よかった,It was good,0.75,0.7542878
 "I see, so your family runs a liquor store, Yamada-san.","そっか 酒屋さんなんだな
 山田さんち","It is a liquor store
-Mr. Yamada",0.1875
-I'll come buy something later.,今度 買いに来るね,I will come to buy this time,0.2727272727272727
-I'll return it to Mayama for you.,返しておくよ 真山に,Let's return to Miyama,0.16666666666666666
-"Yamada-kun, the tea! The tea!",（庄田(しょうだ)）あああ 山田くん,"Oh, Yamada-kun",0.3333333333333333
+Mr. Yamada",0.1875,0.729685
+I'll come buy something later.,今度 買いに来るね,I will come to buy this time,0.2727272727272727,0.6787056
+I'll return it to Mayama for you.,返しておくよ 真山に,Let's return to Miyama,0.16666666666666666,0.3071234
+"Yamada-kun, the tea! The tea!",（庄田(しょうだ)）あああ 山田くん,"Oh, Yamada-kun",0.3333333333333333,0.8120164
 I hate Mayama and that guy... I hate everyone!,"真山も あの人も
 みんな みんな 大嫌い！","Miyama and that person
-Everyone hates everyone!",0.3333333333333333
-You're too protective.,お前 過保護すぎだぞ,You're too much,0.5
-Yes...,はい,Yes,0.5
-Give her a little more space...,少しは ほっといてやれよ,Let's be a little bit,0.18181818181818182
+Everyone hates everyone!",0.3333333333333333,0.5208687
+You're too protective.,お前 過保護すぎだぞ,You're too much,0.5,0.5434702
+Yes...,はい,Yes,0.5,0.6261136
+Give her a little more space...,少しは ほっといてやれよ,Let's be a little bit,0.18181818181818185,0.2032868
 Yamada-san is a grown adult now.,"山田さんだって
 もう立派な大人なんだから","Mr. Yamada
-Because it is a good adult",0.25
-"Senpai, please do your best!",（学生）先輩 頑張ってください,Please do your best senior,0.5
-Please have some of this.,（学生）これ 食べてください,Please eat this,0.2857142857142857
+Because it is a good adult",0.25,0.6495763
+"Senpai, please do your best!",（学生）先輩 頑張ってください,Please do your best senior,0.5,0.43209258
+Please have some of this.,（学生）これ 食べてください,Please eat this,0.2857142857142857,0.4152022
 "Hey, you freshmen! Return to your stations!","（花本）
-コラァ １年！ 持ち場に戻れい！",Cora 1 year!Return to the hand!,0.21428571428571427
-Don't bring gifts without my permission!,勝手に餌付けしない,Do not feed without permission,0.3
+コラァ １年！ 持ち場に戻れい！",Cora 1 year!Return to the hand!,0.21428571428571427,0.2431789
+Don't bring gifts without my permission!,勝手に餌付けしない,Do not feed without permission,0.3,0.3342319
 She's in the middle of her work right now!,"今 制作中なんだぞ
 用があるなら私を通しなさい！","I'm in production now
-Thread me if there is for!",0.15
-Sensei...,シッ シッ …ったく,Shit ...,0.3333333333333333
+Thread me if there is for!",0.15,0.19943812
+Sensei...,シッ シッ …ったく,Shit ...,0.3333333333333333,0.16493516
 "Oh, yeah, Rika mentioned that she saw you a little while ago.","そういえば 理花が お前のこと
 ちょっと前に見かけたってさ","Speaking of which, there is a raw flower
-I saw a little before",0.17391304347826086
-W-Where? When?,（真山）ど… どこで？ いつ？,... Where?when?,0.4
-I think she said during the summer.,ええと 夏って言ってたな,I said in summer,0.3333333333333333
+I saw a little before",0.17391304347826084,0.21518733
+W-Where? When?,（真山）ど… どこで？ いつ？,... Where?when?,0.4,0.63953865
+I think she said during the summer.,ええと 夏って言ってたな,I said in summer,0.3333333333333333,0.6728691
 Could it have been at Hibiya Park?,"（真山）
-ひょっとして 日比谷(ひびや)公園？",Hibiya  Park?,0.375
+ひょっとして 日比谷(ひびや)公園？",Hibiya  Park?,0.375,0.7985569
 "What, you knew?","（花本）バイト辞めてから
 会ってないんだろ？","After quitting byte
-Didn't you meet?",0.18181818181818182
-"So it was her, after all!",やっぱり そうだったんだ,After all it was,0.5
-How long has it been now?,どれぐらいになるんだ？,How much is it?,0.3333333333333333
-"But Rika noticed you as well, huh?",お… 襲う？,Oh ... Do you attack?,0.15384615384615385
-"No, it's okay.",（真山）いや いいんです,No good,0.14285714285714285
+Didn't you meet?",0.18181818181818185,0.16697684
+"So it was her, after all!",やっぱり そうだったんだ,After all it was,0.5,0.5929865
+How long has it been now?,どれぐらいになるんだ？,How much is it?,0.3333333333333333,0.23917103
+"But Rika noticed you as well, huh?",お… 襲う？,Oh ... Do you attack?,0.15384615384615385,0.24105446
+"No, it's okay.",（真山）いや いいんです,No good,0.14285714285714285,0.33028343
 I haven't seen her face in over a year.,"もう １年以上も
 顔 見てないんです","More than a year
-I do not see my face",0.23529411764705882
+I do not see my face",0.2352941176470588,0.61876875
 If I was to meet her suddenly...,"いきなり会ったら
 俺 きっと襲いかかりますよ","If you suddenly meet
-I'm sure I will attack",0.3076923076923077
-F-Force yourself?!,真山くん　君 ケダモノ！？,Miyama-kun-kun Kedamono!?,0.3333333333333333
-Say what you want.,（真山）何とでも言ってください,Please say anything,0.14285714285714285
+I'm sure I will attack",0.3076923076923077,0.45170793
+F-Force yourself?!,真山くん　君 ケダモノ！？,Miyama-kun-kun Kedamono!?,0.3333333333333333,0.067227826
+Say what you want.,（真山）何とでも言ってください,Please say anything,0.14285714285714285,0.5132027
 "Well, but maybe that's okay?","でも ま… まあ
 いいんじゃないのか？","But Ma ... Well
-Isn't it good?",0.21428571428571427
+Isn't it good?",0.21428571428571427,0.34456167
 "Rather than having this standstill continue,","このまま
 こうちゃく状態が続くより","like this
-Rather than this condition continues",0.3
-"Sensei, I'm going home!",（真山）先生　俺 帰ります,teacher I will return,0.1
-I'll cool my head as I go home.,（真山）頭 冷やしながら帰ります,I will return back with my head,0.23076923076923078
-"One moonlit night, in the summer of two years ago...",（真山の声）２年前の夏　月の夜,2 years ago summer month night,0.2857142857142857
-And just spent several hours looking up at the sky.,ただ 何時間も空を見ていた,I just saw the sky for hours,0.2857142857142857
-"Rika-san, are you all right?",理花さん 大丈夫ですか？,Raw flower is all right?,0.3
-R-Rika-san?,り… 理花さん？,... Mr. Rya?,0.2
-"I was having a scary dream, Harada-kun...",怖い夢 見てたの　原田くん,I saw a scary dream Harada-kun,0.5
+Rather than this condition continues",0.3,0.52906716
+"Sensei, I'm going home!",（真山）先生　俺 帰ります,teacher I will return,0.1,0.25025445
+I'll cool my head as I go home.,（真山）頭 冷やしながら帰ります,I will return back with my head,0.2307692307692308,0.59095913
+"One moonlit night, in the summer of two years ago...",（真山の声）２年前の夏　月の夜,2 years ago summer month night,0.2857142857142857,0.69511795
+And just spent several hours looking up at the sky.,ただ 何時間も空を見ていた,I just saw the sky for hours,0.2857142857142857,0.7762655
+"Rika-san, are you all right?",理花さん 大丈夫ですか？,Raw flower is all right?,0.3,0.22649741
+R-Rika-san?,り… 理花さん？,... Mr. Rya?,0.2,0.35298502
+"I was having a scary dream, Harada-kun...",怖い夢 見てたの　原田くん,I saw a scary dream Harada-kun,0.5,0.89485013
 "As she awoke from her dream, her eyes\Nbecame more and more transparent...","（真山の声）そうして
 夢から覚める彼女の目が","Let's do it
-Her eyes to wake up from her dream",0.15
-For the first time in my life...,僕は生まれて初めて—,I am born for the first time-,0.25
-I heard the sound of someone's heart being crushed.,人の心が潰れる音を聞いたんだ,I heard a sound that the mind of the person collapses,0.3125
-Asai-san?,え？ 浅井(あさい)さんが？,picture?Asai ?,0.25
-But it really surprised me to hear that\Nyou've been admitted to a hospital.,入院なんて,Hospital,0.07142857142857142
+Her eyes to wake up from her dream",0.15,0.60316586
+For the first time in my life...,僕は生まれて初めて—,I am born for the first time-,0.25,0.5415248
+I heard the sound of someone's heart being crushed.,人の心が潰れる音を聞いたんだ,I heard a sound that the mind of the person collapses,0.3125,0.580062
+Asai-san?,え？ 浅井(あさい)さんが？,picture?Asai ?,0.25,0.6011398
+But it really surprised me to hear that\Nyou've been admitted to a hospital.,入院なんて,Hospital,0.07142857142857142,0.43743923
 "She's taken care of all the preparations,\Nregistrations, and my treatment.","身の回りの世話まで
 みんな彼女がしてくれた","Until the care of yourself
-Everyone she gave me",0.21052631578947367
-"I'm very thankful, since I don't have any family.",今日も来てくれているよ,I'm coming today,0.14285714285714285
+Everyone she gave me",0.21052631578947367,0.49713203
+"I'm very thankful, since I don't have any family.",今日も来てくれているよ,I'm coming today,0.14285714285714285,0.17628333
 I asked her to run an errand for me.,"今 お使いを頼んだんだ
 下にいると思うよ","I asked for you now
-I think it is under",0.1875
-Mayama-kun...,くっ う…,Let's go ...,0.2
+I think it is under",0.1875,0.1675671
+Mayama-kun...,くっ う…,Let's go ...,0.2,0.19548617
 Will his hospitalization last a while?,"（真山）
-長引きそうなんですか？ 入院",Do you have a long deal?hospitalization,0.25
+長引きそうなんですか？ 入院",Do you have a long deal?hospitalization,0.25,0.50668955
 "Rika-san, will you let me work for Harada Design again?","理花さん 俺をまた原田デザインで
 使ってもらえますか？","Raw flower I will also be at the Harada Design
-Can you use it?",0.22727272727272727
+Can you use it?",0.2272727272727273,0.5506734
 I think I can be of more use now.,"今なら前よりは
 役に立てるようになったと思います","Now than before
-I think that it became useful",0.2
+I think that it became useful",0.2,0.541754
 I think that Fujiwara Design is a good company.,"藤原(ふじわら)デザインは
 いい会社だと思うわ","Fujiwara  Design
-I think it is a good company",0.7272727272727273
+I think it is a good company",0.7272727272727273,0.9680307
 It's full of young people and works swiftly.,"若い人も育っていて
 フットワークも軽い","Young people are growing
-Footwork is also light",0.125
+Footwork is also light",0.125,0.48685613
 So now I want to have the opportunity to take care of Asai-san.,"浅井さんの
 お世話をさせてもらいたいの","Mr. Asai
-I want you to take care",0.3125
-I'm going to his room.,病室に行くわ,I'm going to the room,0.625
-Stay well.,元気でね,Take care,0.0
-I knew this.,（真山の声）分かっていたのに,I knew it was understood,0.2857142857142857
-"Again, from the beginning.",また始めから,From the beginning,0.5
-How much longer do I have to...?,いったい いつまで？,How long?,0.2
-Where did you get this car?,（理花）借りたの？ バイクは？,Did you borrow?What is a bike?,0.25
-It's a rental car.,（真山）レンタカーです,car rental,0.3333333333333333
-Your motorcycle?,（理花）車 どうしたの？,What happened?,0.2
+I want you to take care",0.3125,0.66586155
+I'm going to his room.,病室に行くわ,I'm going to the room,0.625,0.8408853
+Stay well.,元気でね,Take care,0.0,0.5166588
+I knew this.,（真山の声）分かっていたのに,I knew it was understood,0.2857142857142857,0.52534795
+"Again, from the beginning.",また始めから,From the beginning,0.5,0.7009221
+How much longer do I have to...?,いったい いつまで？,How long?,0.2,0.47838792
+Where did you get this car?,（理花）借りたの？ バイクは？,Did you borrow?What is a bike?,0.25,0.3595585
+It's a rental car.,（真山）レンタカーです,car rental,0.3333333333333333,0.7545606
+Your motorcycle?,（理花）車 どうしたの？,What happened?,0.2,0.103834465
 I can't ride it in this rain.,"（真山）この雨じゃ無理です
 あした 取りに来ます","It is impossible in this rain
-I will come to tomorrow",0.3333333333333333
-Please get in.,乗ってください,Please ride,0.2
+I will come to tomorrow",0.3333333333333333,0.6233861
+Please get in.,乗ってください,Please ride,0.2,0.3707358
 Mayama-kun... you're going the wrong way.,"（真山の声）こうやって足を奪って
 ひきょうな僕は走り出す","Take a feet this way
-I'm going to run",0.11764705882352941
-Please let me drive for a little bit.,少し走らせてください,Please run a little,0.3
+I'm going to run",0.1176470588235294,0.16570297
+Please let me drive for a little bit.,少し走らせてください,Please run a little,0.3,0.47440195
 The wiper stirs up my heart...,"ワイパーが胸の中をかき混ぜて
 鈍い音を繰り返す","The wiper stirs the inside of the chest
-Repeat dull sound",0.23076923076923078
-And so...,そして 僕は—,And I-,0.25
+Repeat dull sound",0.2307692307692308,0.60907114
+And so...,そして 僕は—,And I-,0.25,0.5669125
 "Amidst the orange lights, I was slowly sliding\Ndown the large spiral of Daikoku Pier.","オレンジ色のライトの中
 大黒(だいこく)ふ頭(とう)の大きな らせんを—","In orange light
-Large Black  Major Head",0.1
+Large Black  Major Head",0.1,0.35718557
 Next episode: The moon is calling for her.,"（竹本祐太(ゆうた)の声）
 次回 月が彼女を
 呼んでいる",")
 The next month is her
-Call",0.3076923076923077
+Call",0.3076923076923077,0.49638498

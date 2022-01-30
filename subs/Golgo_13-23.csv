@@ -1,282 +1,282 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 How long until we reach Heathrow?,"ヒースローへは
 あとどのくらいだ？","To Heathrow
-How long?",0.5
+How long?",0.5,0.89206946
 We're right on schedule.\NWe can be drinking scotch in two hours.,"予定通りです　２時間後には
 スコッチが飲めますよ","It is scheduled 2 hours later
-You can drink a scotch",0.14285714285714285
+You can drink a scotch",0.14285714285714285,0.85704637
 "Hey, I've had to work late the past\Ntwo nights for this vacation.","おいおい このバカンスのために
 ２日徹夜したんだ","Hey for this vacation
-Two days all night",0.21052631578947367
+Two days all night",0.21052631578947367,0.63760567
 Our precinct has the highest\Ncrime rate in New York.,"うちの分署はニューヨークで一番
 犯罪発生率が高いんだからな","My district is the best in New York
-Because crime occurrence rate is high",0.2777777777777778
+Because crime occurrence rate is high",0.2777777777777778,0.72304624
 "Yes, I thought you were a policeman.","もう せっかく夫婦そろっての
 旅行なんだから","I'm already a husband and wife
-Because it is a trip",0.1111111111111111
-No worries. I'm George Kimble.\NThis is my wife Alice.,（ダイアン）失礼いたします,I'm sorry,0.16666666666666666
+Because it is a trip",0.1111111111111111,0.13074787
+No worries. I'm George Kimble.\NThis is my wife Alice.,（ダイアン）失礼いたします,I'm sorry,0.16666666666666666,0.3229395
 Nice to meet you.,"エドマンド･スタークと申します
 はじめまして","My name is Edmand Stark
-nice to meet you",0.4
-What is the weather like in London?,ロンドンの天気はどうだね,How is the weather in London,0.5555555555555556
-"Cloudy, apparently.",曇りだそうです,It seems cloudy,0.16666666666666666
+nice to meet you",0.4,0.4511539
+What is the weather like in London?,ロンドンの天気はどうだね,How is the weather in London,0.5555555555555556,0.874032
+"Cloudy, apparently.",曇りだそうです,It seems cloudy,0.16666666666666666,0.8569702
 It would be nice if that cleared up.,"（バーナード）晴れるといいね
 （ダイアン）そうですね","It is good to be sunny
- That's right",0.2
-Have a nice flight.,良い旅を,have a nice trip,0.5
-Aren't there any other toilets?,他にトイレはないのか？,Is there any other toilet?,0.4444444444444444
-"Please, this way.",おねがいします,please,0.2
-What's the matter?,どうしたの？,What's wrong?,0.5
+ That's right",0.2,0.20124705
+Have a nice flight.,良い旅を,have a nice trip,0.5,0.728997
+Aren't there any other toilets?,他にトイレはないのか？,Is there any other toilet?,0.4444444444444444,0.8985674
+"Please, this way.",おねがいします,please,0.2,0.47879344
+What's the matter?,どうしたの？,What's wrong?,0.5,0.4457781
 The toilets in the lower cabin are blocked up.,"（ダイアン）下のキャビンの
 トイレがふさがってて","cabin under
-The toilet is blessed",0.15384615384615385
-"Right this way, sir.",どうぞ お客様,Customer,0.0
-Throw your gun down.,銃を捨てろ,Discard the gun,0.14285714285714285
-"I continued to wait, secretly holding my breath",悪いわね　私の仲間なの,"Bad, my friend",0.18181818181818182
+The toilet is blessed",0.15384615384615385,0.58601403
+"Right this way, sir.",どうぞ お客様,Customer,0.0,0.1631542
+Throw your gun down.,銃を捨てろ,Discard the gun,0.14285714285714285,0.6594638
+"I continued to wait, secretly holding my breath",悪いわね　私の仲間なの,"Bad, my friend",0.18181818181818185,0.112036444
 Don't move! We've hijacked this plane!,"我々は この飛行機を
 ハイジャックした！","We have this plane
-Hijacked!",0.5
-Raise both arms and clasp your\Nhands behind your head!,両手を挙げて 頭の後ろで組め！,Cite and assemble it behind your head!,0.38461538461538464
-Is there some VIP on board?,誰かＶＩＰが乗っているか？,Is someone playing VIP?,0.3333333333333333
+Hijacked!",0.5,0.85485196
+Raise both arms and clasp your\Nhands behind your head!,両手を挙げて 頭の後ろで組め！,Cite and assemble it behind your head!,0.38461538461538464,0.27963012
+Is there some VIP on board?,誰かＶＩＰが乗っているか？,Is someone playing VIP?,0.3333333333333333,0.7789437
 But...,"（バートン）ただ…
 （ウイルソン）ただ 何だ？","Just ...
- Just?",0.25
+ Just?",0.25,0.31953365
 Duke Togo. Does that ring a bell with you?,"{\an8}何か
-心当たりがあるのか？",Do you have a heartfelt?,0.21428571428571427
-"Duke Togo, eh?",デューク･東郷か,Duke Togo,0.4
-Sir! Incoming transmission\Nfrom the hijacked plane!,主任 ハイジャック機から無線です,It is wireless from the chief hijacker,0.07692307692307693
-"Once we set down at Heathrow,\Nwe'll refuel and head to our next destination.",次の目的地に向かう,Go to the next destination,0.15789473684210525
-"Here are our demands, so get them ready.",要求を言うから手配しろ,Please arrange for request,0.0
+心当たりがあるのか？",Do you have a heartfelt?,0.21428571428571427,0.16165626
+"Duke Togo, eh?",デューク･東郷か,Duke Togo,0.4,0.9002404
+Sir! Incoming transmission\Nfrom the hijacked plane!,主任 ハイジャック機から無線です,It is wireless from the chief hijacker,0.07692307692307693,0.42733195
+"Once we set down at Heathrow,\Nwe'll refuel and head to our next destination.",次の目的地に向かう,Go to the next destination,0.15789473684210525,0.44596514
+"Here are our demands, so get them ready.",要求を言うから手配しろ,Please arrange for request,0.0,0.28170273
 "One, $10 million in an IP-coded Pelican case.","１ ペリカン製ＩＰ規格の
 ケースに入れた１千万ドル","1 Pelican IP standard
-$ 10 million in case",0.42857142857142855
+$ 10 million in case",0.42857142857142855,0.8088057
 "Two, five parachutes.","（バーナード）２
 パラシュート５個","2
-5 parachute",0.0
+5 parachute",0.0,0.91426855
 "Three, 20 kilos of C4 explosive\Nand 20 detonators.","３ 20キロのＣ４と
 20個の起爆装置","3 20 kg C4
-20 outbreaks",0.16666666666666666
-You will bring us these items\Nwhile the plane is refueling.,以上の物を給油中に持ってこい,Bring the above thing during refueling,0.21428571428571427
+20 outbreaks",0.16666666666666666,0.4084881
+You will bring us these items\Nwhile the plane is refueling.,以上の物を給油中に持ってこい,Bring the above thing during refueling,0.21428571428571427,0.705171
 "This is Raymond Burton, chief of Scotland Yard\NCounter Terrorism Command.","スコットランドヤード外事課主任の
 レイモンド･バートンだ","Scottish Yard Explore Division
-Raymond Burton",0.125
+Raymond Burton",0.125,0.5807664
 We'll contact you later regarding\Nhow to conduct our trade.,"（バーナード）取引方法は
 後で伝える","How to deal with
-Later",0.14285714285714285
-So you'll let the hostages go?,それで人質は解放してくれるのか？,So why is the personnel released?,0.25
-Hurry.,急げ,hurry up,0.3333333333333333
-We'll be touching down in Heathrow in one hour.,あと１時間でヒースローに到着する,I will arrive in Heathrow in one hour,0.3076923076923077
+Later",0.14285714285714285,0.1808462
+So you'll let the hostages go?,それで人質は解放してくれるのか？,So why is the personnel released?,0.25,0.27699873
+Hurry.,急げ,hurry up,0.3333333333333333,0.73754054
+We'll be touching down in Heathrow in one hour.,あと１時間でヒースローに到着する,I will arrive in Heathrow in one hour,0.3076923076923077,0.78294134
 "The ""IP code"" the terrorist mentioned\Nis a U.S. system of intrusion prevention.","犯人が指定してきた
 ＩＰ規格というのは","The criminal has been specified
-IP standard",0.10526315789473684
-They could attach the money to a\Nparachute and land it on the ocean.,海面に落とすということでしょう,It will be possible to drop it on the sea surface,0.21052631578947367
-"He requested five parachutes. If they attach\None to the case with the money, that leaves four.",要求してきたパラシュートは５個,5 parachutes requested,0.1111111111111111
+IP standard",0.10526315789473684,0.5218294
+They could attach the money to a\Nparachute and land it on the ocean.,海面に落とすということでしょう,It will be possible to drop it on the sea surface,0.21052631578947367,0.5158683
+"He requested five parachutes. If they attach\None to the case with the money, that leaves four.",要求してきたパラシュートは５個,5 parachutes requested,0.1111111111111111,0.70950747
 is it to detonate the plane or do they want to\Nprevent intrusion by a special tactical unit?,"それと20キロのＣ４と起爆装置は
 飛行機を爆破させるか","And 20 kg C4 and the detonator
-Do you want to blast plane",0.2
+Do you want to blast plane",0.2,0.58369756
 I'll contact the Bank of England\Nabout coming up with the $10 million.,"（ウィルソン）１千万ドルの現金を
 集めるよう","$ 10,000 of dollars
-Collect",0.11764705882352941
-Thank you.,どちらかに使うでしょうね,You will use it either,0.14285714285714285
+Collect",0.1176470588235294,0.5365403
+Thank you.,どちらかに使うでしょうね,You will use it either,0.14285714285714285,0.052723847
 Tell them to take their time refueling the plane.,"給油に時間をかけるよう
 指示してくれ","Let's take time for refueling
-Instruct me",0.2
+Instruct me",0.2,0.6019151
 "It's been a while, Senator Wilson.","お久しぶりです
 ウィルソン上院議員","Long time no see
-Wilson Senator",0.15384615384615385
+Wilson Senator",0.15384615384615385,0.83849895
 "Mr. Hume, head of the British\NSecret Intelligence Service.","イギリス秘密情報部
 ヒューム部長だ","British Secret Information Department
-It is the head of the fume",0.17647058823529413
+It is the head of the fume",0.17647058823529413,0.39702722
 I'm Burton from Scotland Yard.,"スコットランドヤードの
 バートンです","Scottish yard
-It is Burton",0.2
+It is Burton",0.2,0.75288415
 We've compared the passenger manifest\Nto our own list and come up with something.,"乗客リストと我々の補完リストを
 照合して割り出しました","Passenger list and our complementary list
-I collated and all",0.21052631578947367
-"All four are career criminals,\Nwith no political agenda.",政治的背景はありません,No political background,0.16666666666666666
-This is bad...,なんてことだ,What is,0.2
+I collated and all",0.21052631578947367,0.68751204
+"All four are career criminals,\Nwith no political agenda.",政治的背景はありません,No political background,0.16666666666666666,0.45132816
+This is bad...,なんてことだ,What is,0.2,0.08078454
 There's one more man I found troubling.,"もう一人 気になる男が
 いるんですが","A man who is another person
-I have",0.13333333333333333
-Who would that be?,誰だね,Who is it?,0.2857142857142857
-Duke Togo.,デューク･東郷です,Duke Togo,0.6666666666666666
+I have",0.13333333333333333,0.42189267
+Who would that be?,誰だね,Who is it?,0.2857142857142857,0.44889757
+Duke Togo.,デューク･東郷です,Duke Togo,0.6666666666666666,0.9792432
 The man's a commercial trader in\NHong Kong with no criminal record.,"その男は香港の貿易商で
 犯罪歴はない","The man is in Hong Kong trading
-There is no criminal history",0.2631578947368421
-Oh...,（バートン）そうですか,Yes,0.0
+There is no criminal history",0.2631578947368421,0.81211126
+Oh...,（バートン）そうですか,Yes,0.0,0.20141208
 "The chances are slight, but it's a possibility.","ほんのわずかだが
 可能性がないことはない","It is only a few
-There is no possibility",0.1875
-Golgo... We will ask Golgo 13 to take on a job.,ゴルゴ13に仕事を依頼するんだ,I ask for a job to Golgo 13,0.42857142857142855
+There is no possibility",0.1875,0.5264501
+Golgo... We will ask Golgo 13 to take on a job.,ゴルゴ13に仕事を依頼するんだ,I ask for a job to Golgo 13,0.42857142857142855,0.84686375
 Please be careful.,"（ＣＡの女性）気をつけてください
 気をつけて…","Please be careful
-Be careful…",0.6
-Darling...,（アリス）あなた…,you ...,0.3333333333333333
+Be careful…",0.6,0.86913514
+Darling...,（アリス）あなた…,you ...,0.3333333333333333,0.3754944
 The women and children have been released.,"あっ…　女性と子供が
 解放されました","There is a woman and a child
-It was released",0.13333333333333333
-"That leaves 157 passengers.\NI'm counting on you, Burton.",残り157名　頼むぞ バートン,I'm asking for 157 remaining Barton,0.125
+It was released",0.13333333333333333,0.717825
+"That leaves 157 passengers.\NI'm counting on you, Burton.",残り157名　頼むぞ バートン,I'm asking for 157 remaining Barton,0.125,0.43543392
 Why are you so calm?,"どうして そんなに
 落ち着いているの？","Why so so
-Are you calm?",1.0
-I'm asking you a question! Answer me!,答えなさいよ！　聞いてるんだから,Please answer!Because I'm listening,0.3333333333333333
-What's going on?,（バーナード）どうした,What happened,0.16666666666666666
-This is strange. He's too calm.,妙に落ち着いてるのよ こいつ,It's strangely calm,0.2
-Sit down!,座ってろ！,Sitting!,0.25
+Are you calm?",1.0,0.9032006
+I'm asking you a question! Answer me!,答えなさいよ！　聞いてるんだから,Please answer!Because I'm listening,0.3333333333333333,0.4555529
+What's going on?,（バーナード）どうした,What happened,0.16666666666666666,0.33400285
+This is strange. He's too calm.,妙に落ち着いてるのよ こいつ,It's strangely calm,0.2,0.6859971
+Sit down!,座ってろ！,Sitting!,0.25,0.7913378
 "Now then, Mr. Burton, we will be departing.\NWould you kindly leave?","それじゃあ バートンさん
 我々は出発する","Well then Barton
-We leave",0.2
+We leave",0.2,0.571466
 "Wait a moment! I boarded this plane intending to\Nbe a hostage, to see this through to the end!","私は人質として最後まで
 残るつもりで乗り込んできたんだ","I am to the end as a hostage
-I got in the remaining",0.2727272727272727
+I got in the remaining",0.2727272727272727,0.6096309
 Won't you keep me and let the\Nother hostages go instead?,"私を残して 他の乗客は
 解放してもらえないか","Other passengers left me
-Can you release it?",0.16666666666666666
+Can you release it?",0.16666666666666666,0.4056927
 Having more hostages isn't always a good thing.,"人質は多ければいいと
 いうものではない","If there is a lot of hostages
-It is not",0.1875
+It is not",0.1875,0.78122663
 "In fact, there are times when it can be a burden.","（バートン）
-逆に足かせになる場合だってある","On the contrary, it is a case",0.16666666666666666
-He may be right.,彼の言う通りかもしれない,It may be as he says,0.375
+逆に足かせになる場合だってある","On the contrary, it is a case",0.16666666666666666,0.28960752
+He may be right.,彼の言う通りかもしれない,It may be as he says,0.375,0.589822
 One of them will be this brave\NScotland Yard guy.,"一人は ここの勇敢な
 スコットランドヤードだ","One is brave here
-Scottish Yard",0.14285714285714285
-The remaining nine hostages will volunteer!,残りの９人は名乗り出ろ！,The remaining nine people will give you a name!,0.4166666666666667
-I'll stay.,オレが残ろう,I will leave,0.16666666666666666
-"I'll stay, too.",僕も残ろう,I will leave too,0.25
+Scottish Yard",0.14285714285714285,0.7029561
+The remaining nine hostages will volunteer!,残りの９人は名乗り出ろ！,The remaining nine people will give you a name!,0.4166666666666667,0.47669503
+I'll stay.,オレが残ろう,I will leave,0.16666666666666666,0.7085645
+"I'll stay, too.",僕も残ろう,I will leave too,0.25,0.74847025
 "Mr. Stark! At your age,\Nyou're better off sitting this out.","スタークさん　あんたは歳だ
 よしたほうがいい","Stark Annota is the age
-It is better to",0.15
-"I'm a doctor, and may actually be of use.",ハハハ…　私は医者だし,Hahaha ... I'm a doctor,0.2857142857142857
+It is better to",0.15,0.56337976
+"I'm a doctor, and may actually be of use.",ハハハ…　私は医者だし,Hahaha ... I'm a doctor,0.2857142857142857,0.5911247
 I volunteer myself as a hostage.,"（乗客１）自分も人質になろう
 （乗客２）私も","You will also be a hostage
- I too",0.25
+ I too",0.25,0.6400845
 "All I have to go back to\Nis the wife yelling at me, so...","帰っても女房に怒鳴られる
 だけだからな","Even if you go home, you can yell it to the wife
-Because it is only",0.2
+Because it is only",0.2,0.6422244
 "One more! What, is no one willing\Nto volunteer themselves?!","あと一人だ　どうした！
 名乗り出る者はいないのか？","Any one of them!
-Are there any people who will lose a name?",0.13636363636363635
-Uh...,（ジョージ）あ… あの…,Oh ... that ...,0.25
-"This is hard to say, but... You're young\Nand you look in good health.",オレからは言いにくいことなんだが,It is hard to say from me,0.21052631578947367
-What do you say? Will you make the sacrifice\Nto help out another passenger?,犠牲になってくれないか？,Can't you sacrifice?,0.125
-Fine.,（怒りに震える息づかい）,(Breathing to anger.,0.16666666666666666
+Are there any people who will lose a name?",0.13636363636363635,0.25480983
+Uh...,（ジョージ）あ… あの…,Oh ... that ...,0.25,0.4096789
+"This is hard to say, but... You're young\Nand you look in good health.",オレからは言いにくいことなんだが,It is hard to say from me,0.21052631578947367,0.26197368
+What do you say? Will you make the sacrifice\Nto help out another passenger?,犠牲になってくれないか？,Can't you sacrifice?,0.125,0.54518837
+Fine.,（怒りに震える息づかい）,(Breathing to anger.,0.16666666666666666,0.24445324
 "If we simply let the hijackers go like this,\NEngland's reputation will be ruined.","（マクラグレン）このまま
 ハイジャッカーを逃したら","This is
-If you miss the hijacker",0.14285714285714285
+If you miss the hijacker",0.14285714285714285,0.4627589
 "And yet, if we send in a special forces unit,\Nthe C4 will probably go off.","（ヒューム）かといって
-特殊部隊を突入させれば",If you rush in the special unit,0.19047619047619047
-That's right.,そうだ,That's it,0.4
+特殊部隊を突入させれば",If you rush in the special unit,0.19047619047619047,0.3933739
+That's right.,そうだ,That's it,0.4,0.5404934
 But how are you going to ask him?,"しかし どうやってゴルゴに
 依頼するんです？","But how do you go to Golgo
-Do you ask?",0.5
+Do you ask?",0.5,0.44975683
 Please call Senator Wilson.,"（ヒューム）ウィルソン上院議員に
 電話してくれ","Wilson Senator
-Call me",0.5
+Call me",0.5,0.83259743
 """Pledge everything on Mother's life. Hume.""","“母の命にかけて全てを誓いつつ
 ヒューム”","""While swearing everything on your mother's life
-Fumes",0.42857142857142855
-What on Earth is this?,一体何なんだね これは？,What is it? Is this?,0.5714285714285714
-"Please give that message to Bernard Kelly,\Nthe head criminal.",このメッセージを渡してください,Please pass this message,0.14285714285714285
+Fumes",0.42857142857142855,0.47627047
+What on Earth is this?,一体何なんだね これは？,What is it? Is this?,0.5714285714285714,0.49797276
+"Please give that message to Bernard Kelly,\Nthe head criminal.",このメッセージを渡してください,Please pass this message,0.14285714285714285,0.30066395
 "If this fails, those hostages'\Nlives are as good as lost.","最後の切り札ですよ 上院議員
 これが失敗すれば","It is the last cutting card.
-If this fails",0.23529411764705882
-Senator!,上院議員,Senator,0.5
-I don't see any sign of Mr. Burton...,バートン主任の姿も見えません,I can not see the Burton chief figure,0.2
+If this fails",0.2352941176470588,0.07775539
+Senator!,上院議員,Senator,0.5,0.8571346
+I don't see any sign of Mr. Burton...,バートン主任の姿も見えません,I can not see the Burton chief figure,0.2,0.623576
 The boarding ramp has moved away!\NPlease give us the order to storm the aircraft!,"（無線）タラップが外れました
 突入命令をお願いします！","Tallap has been removed
-Please give me a rush order!",0.19047619047619047
+Please give me a rush order!",0.19047619047619047,0.25396407
 This jumbo jet is going to fly away!,"（管制塔）ジャンボ機が
 飛び立ってしまいます","Jumbo machine
-I will fly",0.16666666666666666
+I will fly",0.16666666666666666,0.6879542
 "Once we're over the Dover Strait,","ドーバー海峡へ出たところで
 ぎりぎりまで高度を下げ","Where to go to the Dover Strait
-Lower the altitude to",0.23076923076923078
+Lower the altitude to",0.2307692307692308,0.61849636
 Then what?,"カネを落として 我々も降下する
 その後はどうなる？","Drop the money and we also drop
-What happens after that?",0.16666666666666666
+What happens after that?",0.16666666666666666,0.18776384
 "We blow this plane up, correct?","爆破させるのよね？
 このジェット機を","You will blast it?
-This jet machine",0.14285714285714285
+This jet machine",0.14285714285714285,0.46753204
 So that's why you left him on board.,"はっ…
 それで あの男を残したのね","Haze ...
-So he left that man",0.21428571428571427
+So he left that man",0.21428571428571427,0.34314305
 "Yes, that's right. To sink him and this\Nplane to the bottom of the Atlantic.","ジェット機と一緒に
 大西洋に沈んでもらうためさ","Together with the jet
-To get sinked in the Atlantic",0.14285714285714285
-"What do you mean, a transmission?",通信っていうのは何だ？,What is communicating?,0.2
+To get sinked in the Atlantic",0.14285714285714285,0.562957
+"What do you mean, a transmission?",通信っていうのは何だ？,What is communicating?,0.2,0.30944893
 "I don't know. It arrived at the\Ncontrol tower, addressed to you.","いや わからない　管制塔に
 あなた宛てにと届いたらしい","In the control tower that does not know
-It seems that it would be delivered to you",0.20833333333333334
-"""That is the only wish. Pledge everything\Non Mother's life. Hume.""",“同志に告ぐ　賛美歌13番を斉唱し”,"""We will sing the praise No. 13""",0.2
+It seems that it would be delivered to you",0.20833333333333331,0.65521914
+"""That is the only wish. Pledge everything\Non Mother's life. Hume.""",“同志に告ぐ　賛美歌13番を斉唱し”,"""We will sing the praise No. 13""",0.2,0.34529656
 Don't screw with me!,"（荒々しい鼻息）
-（バーナード）ふざけるな！",Do not play!,0.25
+（バーナード）ふざけるな！",Do not play!,0.25,0.43526325
 "Wait, Kelly. This might be a coded\Nmessage to someone on board.","待って ケリー
 これは ひょっとすると","Wait and Kelly
-This is a while",0.25
+This is a while",0.25,0.45534748
 A coded message?,"（バーナード）暗号文？
 （ダイアン）ええ","? Cryptography?
- yeah",0.16666666666666666
-We have to check it out.,調べる必要があるわね,You need to check,0.2222222222222222
+ yeah",0.16666666666666666,0.3105326
+We have to check it out.,調べる必要があるわね,You need to check,0.2222222222222222,0.40595785
 I wonder if Golgo 13\Nreceived the coded message.,"（マクラグレン）暗号文は
 ゴルゴ13の耳に届きましたかね","ciphertext
-I arrived at the ear of Golgo 13",0.2
+I arrived at the ear of Golgo 13",0.2,0.65877116
 The few requests that Golgo receives\Nfor work are via that code.,"（ヒューム）数少ないゴルゴへの
 仕事の依頼の仕方が あの暗号だ","Number of Golgo
-The way of request of work is that cipher",0.23529411764705882
-Hymn No. 13!,賛美歌13番,Hymns 13,0.16666666666666666
+The way of request of work is that cipher",0.2352941176470588,0.7190744
+Hymn No. 13!,賛美歌13番,Hymns 13,0.16666666666666666,0.79616207
 Just what on Earth is that?,"一体どうしたんだ
 何だ？　そのメモは","What did you do?
-What?The note is",0.25
+What?The note is",0.25,0.22471805
 Yes. I know. But I have no idea\Nwhat you just said means.,"人質全員の命は保証できないわよ
 わかってるわね？","I can not guarantee the life of all of the hostages
-You know?",0.14285714285714285
+You know?",0.14285714285714285,0.079903714
 """That is the only wish.\NPledge everything on Mother's life. Hume.""","“これをただひたすら願う
 母の命にかけて”","""I just hope this
-Mother's life """,0.2222222222222222
+Mother's life """,0.2222222222222222,0.68752885
 You know him?,"（バートン）ヒューム？
 （ダイアン）知ってるの？","Hummy?
- do you know?",0.5
+ do you know?",0.5,0.2400301
 "Well, whatever. In an hour's time,\Nthey'll all be blown to pieces.","まあいい　あと１時間ぐらいで
 あいつらは爆死するんだ","Well it's about 1 hour
-A guy will blame",0.13043478260869565
+A guy will blame",0.13043478260869565,0.43160337
 Let me go to the toilet.,"（アンドレ）何だ！
 （ゴルゴ13）トイレに行かせてくれ","What!
- Let me go to the bathroom",0.5
-Do it with the door open.,ドアを開けたまま やるんだ,I'm going to open the door,0.2727272727272727
-Hurry it up.,早く済ませろよ,Let's get rid of it soon,0.1
-"What's going on, Andre?",どうした アンドレ,What kind of Andre,0.2222222222222222
+ Let me go to the bathroom",0.5,0.80433947
+Do it with the door open.,ドアを開けたまま やるんだ,I'm going to open the door,0.2727272727272727,0.55175585
+Hurry it up.,早く済ませろよ,Let's get rid of it soon,0.1,0.25347018
+"What's going on, Andre?",どうした アンドレ,What kind of Andre,0.2222222222222222,0.6878375
 Sit back down!,"（スリリングな音楽）
-席に戻れ！",Return to the seat!,0.125
+席に戻れ！",Return to the seat!,0.125,0.6629352
 He did it!,"（人々のざわめき）
-（ジョージ）や…やった！",and ... I did it!,0.42857142857142855
+（ジョージ）や…やった！",and ... I did it!,0.42857142857142855,0.59273726
 Don't move.,"（ゴルゴ13）動くな
-（息を飲む声）",Do not move,0.4
-Don't. Let's do as he says.,彼の言葉に従おう,Let's follow his words,0.18181818181818182
+（息を飲む声）",Do not move,0.4,0.80453426
+Don't. Let's do as he says.,彼の言葉に従おう,Let's follow his words,0.18181818181818185,0.5002197
 Bastard...,"（ジョージ）しかし…
-（バートン）よせ",But ...,0.3333333333333333
-"No, thank all of you.",いや 君たちこそ　アハハ…,"No, you are Ahaha ...",0.3
-Mr.,（バートン）ミスター東郷,Mister Togo,0.0
+（バートン）よせ",But ...,0.3333333333333333,0.43071237
+"No, thank all of you.",いや 君たちこそ　アハハ…,"No, you are Ahaha ...",0.3,0.23577441
+Mr.,（バートン）ミスター東郷,Mister Togo,0.0,0.39852265
 Your bravery saved all of the passengers.\NThank you very much.,"あなたの勇気ある行動で
 乗客が救われた　本当にありがとう","With your courageous action
-Thank you very much for which passengers were saved",0.2631578947368421
-It was a job.,（ゴルゴ13）仕事だ,It is a job,0.5
+Thank you very much for which passengers were saved",0.2631578947368421,0.88886905
+It was a job.,（ゴルゴ13）仕事だ,It is a job,0.5,0.69961995
 "I see. So he said it was a job, eh?","（ヒューム）そうか
 彼は“仕事”と言ったのか","so
-Was he said ""work""",0.25
-What shall we do about Golgo's payment?,どうするんです？,What do you do?,0.3
+Was he said ""work""",0.25,0.6660252
+What shall we do about Golgo's payment?,どうするんです？,What do you do?,0.3,0.1140619
 It's too much to take from the SIS's budget.\NWe'll have the country pay.,"ＳＩＳの予算から出すには
 多額すぎる","To put out from the SIS budget
-Be too large",0.25
-"We've decided to part, having loved becoming a thing of the past",国に出してもらうさ,Get out of the country,0.11764705882352941
+Be too large",0.25,0.6994873
+"We've decided to part, having loved becoming a thing of the past",国に出してもらうさ,Get out of the country,0.1176470588235294,0.18375564
 "A woman has set her sights on Golgo:\NBrigitta, the blood-stained sniper.","（ナレーター）ゴルゴを狙(ねら)う
 女狙撃(そげき)者 血まみれブリギッタ","Say Golgo
-Woman sniper  bloody brilligitter",0.16666666666666666
+Woman sniper  bloody brilligitter",0.16666666666666666,0.6200194
 "Using the allure of her body,\Nshe will attempt to lure Golgo into a trap.","妖艶(ようえん)な肉体の魅力でゴルゴを
 罠(わな)にはめようと画策する","Golgo with the attractiveness of a bewitching body
-Plan to put on a trap",0.30434782608695654
-"When the wind blows over Santa Ana,\Nthe battle between two snipers will begin.",サンタ･アナに風が吹いた時,When the wind blows in Santa Ana,0.35294117647058826
-"Next time on\NGolgo 13, ""Santa Ana""",次回 「ゴルゴ13」,"Next time ""Golgo 13""",0.5
+Plan to put on a trap",0.3043478260869565,0.6269162
+"When the wind blows over Santa Ana,\Nthe battle between two snipers will begin.",サンタ･アナに風が吹いた時,When the wind blows in Santa Ana,0.35294117647058826,0.7569842
+"Next time on\NGolgo 13, ""Santa Ana""",次回 「ゴルゴ13」,"Next time ""Golgo 13""",0.5,0.61804307
 Do not stand behind him if you value your life!,"ヤツの後ろに立つな
 命が惜しければ","Do not stand behind the guy
-If you are lonely",0.4
+If you are lonely",0.4,0.63286006

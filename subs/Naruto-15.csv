@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,56 +9,56 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825215
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490627
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818439
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120198
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.534477
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.76468647
 Darn it!,"(ﾅﾙﾄ)
 うわ！
 
-",Wow!,0.25
+",Wow!,0.25,0.28036362
 Where's the real body?!,"どこだ？
  
 本体は!?
 
 ","Where's?
  
-What is the main unit?",0.36363636363636365
+What is the main unit?",0.3636363636363637,0.24132873
 "It's useless for you to even attempt
 following with your eyes.","(
 白
@@ -71,7 +71,7 @@ following with your eyes.","(
 ","Even if you try to
 It's not
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.29476073
 I absolutely will not be caught.,"僕は絶対
  
 捕まらない
@@ -80,18 +80,18 @@ I absolutely will not be caught.,"僕は絶対
 ","I absolutely
  
 Not caught
-.",0.7142857142857143
+.",0.7142857142857143,0.7310115
 Humph. Shadow Clone Jutsu!,"うぅ…
  
 影分身の術！
 
 ","Uh ...
  
-Shadow Subordination!",0.2222222222222222
+Shadow Subordination!",0.2222222222222222,0.47245857
 Don't!,"(ﾅﾙﾄ･ｻｽｹ)
 うわ！
 
-",Wow!,0.25
+",Wow!,0.25,0.22112435
 "it almost seems as if
 you aren't moving at all...","君たちは
 まるで止まっているかのよう
@@ -99,7 +99,7 @@ you aren't moving at all...","君たちは
 
 ","you guys
 As if it is stopped
-.",0.25
+.",0.25,0.19929232
 "Is that Jutsu...
 the Kekkei Genkai?!","(ｶｶｼ)
 あの術
@@ -108,18 +108,18 @@ the Kekkei Genkai?!","(ｶｶｼ)
 
 ","That technique
  
-Is the hematonal limit?",0.3333333333333333
+Is the hematonal limit?",0.3333333333333333,0.10424573
 Kekkei... Genkai?,"(ｻｸﾗ)
 血継…限界？
 
-",Hygena ... limit?,0.3333333333333333
+",Hygena ... limit?,0.3333333333333333,0.11180743
 "It's the same type as
 my Sharingan...","(ｶｶｼ)
 俺の写輪眼と同種のものだ
 ｡
 
 ","It is the same kind of male ring eye
-.",0.1875
+.",0.1875,0.40820295
 Then...!,"(
 再不斬
 )
@@ -127,24 +127,24 @@ Then...!,"(
 ｡
 
 ","Fuhufu ...
-.",0.2
+.",0.2,0.26098245
 "And there's no way to destroy
 that Jutsu, either!","破る方法も皆無
 ｡
 
 ","There is no way to break
-.",0.26666666666666666
+.",0.26666666666666666,0.43864316
 I can't die here yet.,"それじゃあ…
 ｡
 
 ","Well then…
-.",0.1111111111111111
+.",0.1111111111111111,0.20941271
 "The dream to have my strength
 recognized by everyone in the village...","里のみんなに
 俺の力を認めさせて➡
 
 ","To everyone in the village
-Let me recognize my power ➡",0.35294117647058826
+Let me recognize my power ➡",0.35294117647058826,0.60329324
 "I, for the sake of my dream.
 And you, for the sake of your dream.","(
 白
@@ -155,14 +155,14 @@ And you, for the sake of your dream.","(
 
 ","I
  
-For my dreams",0.23076923076923078
+For my dreams",0.2307692307692308,0.585502
 Please don't hold it against me.,"恨まないでください
 ｡
 ➡
 
 ","Please do not hate
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.38511065
 "I want to protect someone
 special to me...","僕は大切な人を守りたい
 ｡
@@ -170,11 +170,11 @@ special to me...","僕は大切な人を守りたい
 
 ","I want to protect important people
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6538329
 "I work for the sake of that person,
 I fight for that person,","その人のために働き➡
 
-",Work for that person,0.4
+",Work for that person,0.4,0.6070614
 "and I want to make that
 person's dream a reality...","その人の夢をかなえたい
 ｡
@@ -182,21 +182,21 @@ person's dream a reality...","その人の夢をかなえたい
 
 ","I want to make a dream of that person
 .
-➡",0.5333333333333333
+➡",0.5333333333333333,0.7974626
 That's my dream.,"それが僕の夢
 ｡
 ➡
 
 ","That is my dream
 .
-➡",0.5714285714285714
+➡",0.5714285714285714,0.83401096
 and kill you guys!,"あなたたちを殺します！
 
-",I will kill you!,0.42857142857142855
+",I will kill you!,0.42857142857142855,0.5537629
 "Sasuke! Naruto!
 Don't lose to a guy like that!","そんなヤツに負けないで～！
 
-",Don't lose to such a guy!,0.5833333333333334
+",Don't lose to such a guy!,0.5833333333333334,0.39291534
 "Stop it, Sakura. Don't goad him!","(ｶｶｼ)
 やめろ
  
@@ -208,10 +208,10 @@ Don't lose to a guy like that!","そんなヤツに負けないで～！
  
 Sakura!
 Mesh
-.",0.36363636363636365
+.",0.3636363636363637,0.71661884
 What?,"えっ？
 
-",eh?,0.3333333333333333
+",eh?,0.3333333333333333,0.32428223
 "Even if there was a chance that
 we could break that technique,","(ｶｶｼ)
 万に一つ
@@ -222,7 +222,7 @@ we could break that technique,","(ｶｶｼ)
 ","One by one
  
 That technique
-Even if there is a way to break",0.4117647058823529
+Even if there is a way to break",0.4117647058823529,0.4980314
 they won't be able to defeat that boy.,"あいつらに
  
 あの少年は倒せない
@@ -231,14 +231,14 @@ they won't be able to defeat that boy.,"あいつらに
 ","Guys
  
 I can not beat that boy
-.",0.2
+.",0.2,0.62051135
 W-What do you mean?,"えっ
  
 どういうことよ？
 
 ","eh
  
-What does that mean?",0.2222222222222222
+What does that mean?",0.2222222222222222,0.23247418
 "That boy really knows
 the agony of being a Shinobi.","あの少年は
  
@@ -252,12 +252,12 @@ the agony of being a Shinobi.","あの少年は
 Shinobu's real distress
 He knows well
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.8144116
 He's different from Naruto and Sasuke.,"ナルトたちとは違う
 ｡
 
 ","Different to Naruto
-.",0.3333333333333333
+.",0.3333333333333333,0.8359263
 Exactly...,"(
 再不斬
 )
@@ -265,23 +265,23 @@ Exactly...,"(
 ｡
 
 ","Huhofu ...
-.",0.25
+.",0.25,0.50542486
 "No real Shinobi will come out of
 a peace-addicted village like yours.","お前らみたいな
 平和ボケした里では➡
 
 ","I like you
-It is a village that has been a peaceful bokeh",0.13636363636363635
+It is a village that has been a peaceful bokeh",0.13636363636363635,0.40365067
 "the most important ""experience of killing""!","殺しの経験を積むことが
 できないからな
 ｡
 
 ","Holding experience of killing
 I can not do it
-.",0.1875
+.",0.1875,0.60011077
 Then...,"じゃあ…➡
 
-",Well then ... ➡,0.5
+",Well then ... ➡,0.5,0.6693026
 "What are we going to do, Sensei?!","じゃあ
  
 一体
@@ -294,40 +294,40 @@ Then...,"じゃあ…➡
 Integral
 What are you gonna do?
  
-teacher!",0.3125
+teacher!",0.3125,0.2169813
 "<i>If I go over to</i>
 <i>Naruto and Sasuke,</i>","(ｶｶｼ)
 《ナルトとサスケのほうへ
 行けば➡
 
 ","""To Naruto and Sasuke
-If you go",0.42857142857142855
+If you go",0.42857142857142855,0.82965434
 <i>Even if I try the Shadow Clones.</i>,"影分身をやってみても…》
 
-","Even if you try the shadow element ... """,0.35714285714285715
+","Even if you try the shadow element ... """,0.35714285714285715,0.61944073
 I'll just be wasting Chakra.,"余分なチャクラを使うだけだ
 ｡
 ➡
 
 ","I just use extra chakras
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.76592046
 I'm sorry but...,"(ｶｶｼ)
 悪いが➡
 
-",Bad but,0.16666666666666666
+",Bad but,0.16666666666666666,0.27047765
 "I'm going to have to finish
 this in an instant.","一瞬で終わらせてもらうぞ
 ｡
 
 ","I will end up in a moment
-.",0.1875
+.",0.1875,0.51535404
 Sensei!,"先生！
 
-",teacher!,0.3333333333333333
+",teacher!,0.3333333333333333,0.28442386
 "You might call me ""an unimaginative guy,""","《写輪眼》
 
-","""Machine eye""",0.16666666666666666
+","""Machine eye""",0.16666666666666666,0.14767516
 Be appreciative.,"(
 再不斬
 )
@@ -337,7 +337,7 @@ Be appreciative.,"(
 
 ","Fuhufu ...
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.16158338
 "You're the only who has had
 the chance to see it twice...","(ｶｶｼ)
 感謝しろ
@@ -348,7 +348,7 @@ the chance to see it twice...","(ｶｶｼ)
 ","Thank you
 Again
  
-It is ➡ to worship this eye",0.15
+It is ➡ to worship this eye",0.15,0.15767415
 And there will be no third time...,"そして
  
 ３度目はない
@@ -357,7 +357,7 @@ And there will be no third time...,"そして
 ","and
  
 There is no third
-.",0.4
+.",0.4,0.66115
 "Even if you were able to defeat me,
 you can't defeat Haku...","(
 再不斬
@@ -366,15 +366,15 @@ you can't defeat Haku...","(
 仮に俺を倒せたとしても➡
 
 ","Fuhufu ...
-Even if I have defeated me",0.23529411764705882
+Even if I have defeated me",0.2352941176470588,0.5684796
 <i>Kakashi Sensei can't win?</i>,"《カカシ先生が勝てないって➡
 
-","""The teacher Kakashi can not win",0.13333333333333333
+","""The teacher Kakashi can not win",0.13333333333333333,0.6985074
 <i>That boy in the mask is that strong?</i>,"あのお面の子って
 そんなに強いの？》
 
 ","That season's child
-Is it so strong?""",0.2222222222222222
+Is it so strong?""",0.2222222222222222,0.44255304
 All of my techniques.,"(
 再不斬
 )
@@ -382,13 +382,13 @@ All of my techniques.,"(
 ｡
 
 ","All of my technology
-.",0.6666666666666666
+.",0.6666666666666666,0.52016413
 On top of that...,"(
 再不斬
 )
 あいつがガキの頃から➡
 
-",That guy from the time of Gaki,0.2
+",That guy from the time of Gaki,0.2,0.14573704
 As a result...,"(
 再不斬
 )
@@ -398,7 +398,7 @@ As a result...,"(
 
 ","as a result
  
-That guy",0.5
+That guy",0.5,0.5921774
 "He has no ""heart"" and has
 abandoned the notion of ""life.""","(
 再不斬
@@ -407,13 +407,13 @@ abandoned the notion of ""life.""","(
 命という概念すら捨てた➡
 
 ","Without a heart
-The concept of life was thrown away ➡",0.2
+The concept of life was thrown away ➡",0.2,0.65772575
 "He is a fighting machine
 known as a Shinobi.","忍という名の戦闘機械だ
 ｡
 
 ","It is a battle machine named Shinobu
-.",0.3076923076923077
+.",0.3076923076923077,0.80486745
 "The terrifying ability of
 the Kekkei Genkai.","血継限界という名の
 恐るべき機能
@@ -423,13 +423,13 @@ the Kekkei Genkai.","血継限界という名の
 ","Of the hypogensore limit
 Feature function
 .
-➡",0.25
+➡",0.25,0.08700216
 "In other words,
 I have acquired a sophisticated tool.","常に成果を挙げてきた
 ｡
 
 ","I always have achieved results
-.",0.21428571428571427
+.",0.21428571428571427,0.36655158
 "I'm not one to be afraid just
 because I failed once!","一度
  
@@ -441,22 +441,22 @@ because I failed once!","一度
  
 Because it failed
 I'm sorry I'm sorry
-.",0.3125
+.",0.3125,0.60758126
 I'll do it as many times as it takes!,"何度でもやってやる！
 
-",I will do it again and again!,0.3333333333333333
+",I will do it again and again!,0.3333333333333333,0.64744544
 The Shadow Clone Jutsu!,"影分身の術！
 
-",Shadow Subordination!,0.3333333333333333
+",Shadow Subordination!,0.3333333333333333,0.54061574
 Stop!,"やめろ！
 
-",Stop!,1.0
+",Stop!,1.0,1.0000008
 W-What the hell is it...?!,"何なんだってばよ！
 
-",What is it!,0.3333333333333333
+",What is it!,0.3333333333333333,0.414767
 <i>I could see the trails of his movements...</i>,"《ヤツの動きの痕跡が見えた》
 
-","""I saw a trace of the movement of the guy.""",0.15
+","""I saw a trace of the movement of the guy.""",0.15,0.56746095
 Don't you understand that it's useless?,"(
 白
 )
@@ -464,7 +464,7 @@ Don't you understand that it's useless?,"(
 分からないのですか？
 
 ","It is difficult to say
-Do you not know?",0.26666666666666666
+Do you not know?",0.26666666666666666,0.245409
 "<i>The water...</i>
 <i>is being repelled.</i>","《水が
  
@@ -472,7 +472,7 @@ Do you not know?",0.26666666666666666
 
 ","""Water is
  
-Is it prepended?""",0.13333333333333333
+Is it prepended?""",0.13333333333333333,0.48452702
 "<i>But, what if that wasn't water...?</i>","《だが
  
 あれが水じゃなかったら
@@ -481,7 +481,7 @@ Is it prepended?""",0.13333333333333333
 ","""But
  
 If that is not water
-How is it?➡",0.25
+How is it?➡",0.25,0.5854406
 "<i>The next one is going</i>
 <i>to be my one shot!</i>","よし
  
@@ -489,7 +489,7 @@ How is it?➡",0.25
 
 ","Good
  
-Next is a match",0.11764705882352941
+Next is a match",0.1176470588235294,0.3383254
 "Just because a bunch of scrap
 got together","(
 再不斬
@@ -502,7 +502,7 @@ got together","(
 ","Fuhufu ...
  
 Scrap
-Where I became a bundle",0.14285714285714285
+Where I became a bundle",0.14285714285714285,0.32405335
 "doesn't mean that
 they can defeat Haku.","白には勝てねえよ
 ｡
@@ -510,13 +510,13 @@ they can defeat Haku.","白には勝てねえよ
 
 ","You can win on white
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.29755208
 "He is...
 He is the best tool!","あいつは最高の道具だ
 ｡
 
 ","He is the best tool
-.",0.625
+.",0.625,0.84676903
 "There's nothing boring than
 a stranger bragging...","(ｶｶｼ)
 他人の自慢話ほど
@@ -527,7 +527,7 @@ a stranger bragging...","(ｶｶｼ)
 ","Other people's pride
 There is no boring
 .
-➡",0.1875
+➡",0.1875,0.61804867
 "It's about time...
 I make my move.","もう一つ
  
@@ -537,11 +537,11 @@ I make my move.","もう一つ
 ","one more
  
 Let's talk about
-.",0.21428571428571427
+.",0.21428571428571427,0.23365773
 Hmm?,"(ｶｶｼ)
 ん？
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.60453105
 "In the battle before,","(
 再不斬
 )
@@ -551,7 +551,7 @@ Hmm?,"(ｶｶｼ)
 
 ","Fight before this
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.3884689
 "I didn't just let you defeat me
 like a fool.","そろそろ
  
@@ -561,11 +561,11 @@ like a fool.","そろそろ
 ","gradually
  
 Let me go
-.",0.21428571428571427
+.",0.21428571428571427,0.3220703
 <i>It's over...</i>,"(ｶｶｼ)
 ＜終わりだ＞
 
-",<End>,0.2222222222222222
+",<End>,0.2222222222222222,0.5103128
 was observing part of the battle.,"戦いの一部始終を
 観察させていたわけだ
 ｡
@@ -574,7 +574,7 @@ was observing part of the battle.,"戦いの一部始終を
 ","On the beginning of the battle
 I was observed
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.7179132
 I've been anxious to copy your line.,"俺は
  
 お前のセリフを
@@ -583,12 +583,12 @@ I've been anxious to copy your line.,"俺は
 ","I am
  
 Your line
-I want to be a monkey",0.2857142857142857
+I want to be a monkey",0.2857142857142857,0.4547882
 Was that it...?,"ウズウズしてたんだぜ
 ｡
 
 ","I was doing it
-.",0.25
+.",0.25,0.32311985
 "Ninja Art, Hidden Mist Jutsu!","(
 再不斬
 )
@@ -600,7 +600,7 @@ Was that it...?,"ウズウズしてたんだぜ
 ","Ninja method
  
 Foggy Truck
-.",0.09090909090909091
+.",0.09090909090909093,0.47936314
 "<i>What is this...?</i>
 <i>This really thick fog?</i>","(ﾀｽﾞﾅ)
 《何じゃ
@@ -613,7 +613,7 @@ Foggy Truck
  
 This super dark mist is
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.4930831
 "<i>I have to trust Sasuke,</i>
 <i>Naruto and Kakashi Sensei right now...</i>","《そうよね
  
@@ -623,7 +623,7 @@ This super dark mist is
 ","""That's right
  
 Now Sasuke and Naruto
-Believe in Kakashi Teacher ...",0.3181818181818182
+Believe in Kakashi Teacher ...",0.3181818181818182,0.67986834
 And I should do what I can do!,"私は
  
 私のやるべきことを
@@ -632,14 +632,14 @@ And I should do what I can do!,"私は
 ","I
  
 What I want to do
-.",0.3
+.",0.3,0.5921431
 Huh?,"視界
  
 ほぼゼロじゃないか》
 
 ","Vision
  
-It's almost zero?",0.14285714285714285
+It's almost zero?",0.14285714285714285,0.14309478
 "Mr. Tazuna, no matter what,
 don't move away from me!","タズナさん
  
@@ -651,7 +651,7 @@ don't move away from me!","タズナさん
  
 absolutely
 I'm sorry I'm away from me
-.",0.21052631578947367
+.",0.21052631578947367,0.71042544
 "<i>I know...</i>
 <i>Zabuza...</i>","(
 白
@@ -664,13 +664,13 @@ I'm sorry I'm away from me
 ","""I know
 Resincent
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.17871538
 "You just don't learn, do you?!","(
 白
 )
 ん!?
 
-",Hmm!?,0.2222222222222222
+",Hmm!?,0.2222222222222222,0.093575925
 <i>What? The Fire Style Jutsu!</i>,"(
 白
 )
@@ -680,7 +680,7 @@ Resincent
 
 ","""what!?
  
-""Outside: 99C09079206BA433E50523B592C8055A]",0.1875
+""Outside: 99C09079206BA433E50523B592C8055A]",0.1875,0.18436961
 <i>It takes...too long!</i>,"(
 白
 )
@@ -690,7 +690,7 @@ Resincent
 
 ","""The time
  
-It's too much!""",0.1875
+It's too much!""",0.1875,0.2730672
 "<i>Bit by bit, I'm figuring out</i>
 <i>the timing...</i>","《いいぞ
  
@@ -704,7 +704,7 @@ It's too much!""",0.1875
 A little bit
 Timing
  
-I've got it",0.14285714285714285
+I've got it",0.14285714285714285,0.46405596
 "<i>Even Zabuza himself shouldn't</i>
 <i>be able to see anything...</i>","これじゃ
  
@@ -714,12 +714,12 @@ I've got it",0.14285714285714285
 ","In this case
  
 Re-denious
-I can not see anything",0.14285714285714285
+I can not see anything",0.14285714285714285,0.30424556
 Good job on dodging it...,"くっ…
 ｡
 
 ","...
-.",0.14285714285714285
+.",0.14285714285714285,0.15793094
 "But... the next time you see me,","(
 再不斬
 )
@@ -729,7 +729,7 @@ Good job on dodging it...,"くっ…
 
 ","But
  
-Next when you saw me",0.36363636363636365
+Next when you saw me",0.3636363636363637,0.7779149
 that'll be the end of it all...,"それが
  
 すべての終わりだ
@@ -740,40 +740,40 @@ that'll be the end of it all...,"それが
  
 It is all the end
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.63231635
 You overrate the Sharingan too much.,"お前は写輪眼を
 過大評価し過ぎた
 ｡
 
 ","You are the eyes of the eyes
 Overrated evaluation
-.",0.25
+.",0.25,0.30664146
 <i>Why?</i>,"(
 再不斬
 )
 ＜なぜだ？➡
 
-",<Why?➡,0.42857142857142855
+",<Why?➡,0.42857142857142855,0.65040827
 "<i>Could it be possible that</i>
 <i>you can see the future...?!</i>","お前には未来が見えるのか？＞
 
-",Do you see the future?>,0.3333333333333333
+",Do you see the future?>,0.3333333333333333,0.7090721
 <i>You are going to die.</i>,"(ｶｶｼ)
 ＜お前は死ぬ＞
 
-",<You will die>,0.2727272727272727
+",<You will die>,0.2727272727272727,0.8466247
 "Your foresight was wrong, after all.","ほざいていたが…
 ｡
 
 ","I was talking ...
-.",0.18181818181818182
+.",0.18181818181818185,0.21024589
 Those who have the Sharingan...,"写輪眼を持つ者は➡
 
-",Those who have the eyes are ➡,0.4444444444444444
+",Those who have the eyes are ➡,0.4444444444444444,0.2860619
 "possess both
 perceptive eyes and hypnotic eyes...","洞察眼と催眠眼➡
 
-",Insight and hypnosis eyes ➡ ➡,0.2
+",Insight and hypnosis eyes ➡ ➡,0.2,0.6500154
 "Using these two powers and
 bringing out Jutsus one after the other...","(
 再不斬
@@ -782,7 +782,7 @@ bringing out Jutsus one after the other...","(
 次々と連続して術を出し➡
 
 ","With these two abilities
-Taking out the technique continuously one after another",0.3157894736842105
+Taking out the technique continuously one after another",0.3157894736842105,0.5519828
 "you were just acting as if
 you can read the future!","自分には
  
@@ -792,7 +792,7 @@ you can read the future!","自分には
 ","For yourself
  
 As if
-As if the future is visible",0.26666666666666666
+As if the future is visible",0.26666666666666666,0.50551695
 "First with the perceptive eyes,
 you copied my movement right away.","(
 再不斬
@@ -809,7 +809,7 @@ you copied my movement right away.","(
 With the insight eye
 Imitate my movement instantly
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.6769656
 "And this is the Image
 Replication Method.","これが
  
@@ -819,7 +819,7 @@ Replication Method.","これが
 ","This is
  
 Photographic method
-.",0.4444444444444444
+.",0.4444444444444444,0.58013755
 "you nail the ""heart's voice.""","さらに俺になりきることで
 心の声を決めつける
 ｡
@@ -828,7 +828,7 @@ Photographic method
 ","Furthermore, by being able to be me
 Decide the voice of the heart
 .
-➡",0.2
+➡",0.2,0.56236
 "- <i>You can't defeat me! You monkey!</i>
 - <i>You can't defeat me! You monkey!</i>","(ｶｶｼ･
 再不斬
@@ -839,19 +839,19 @@ Decide the voice of the heart
 
 ","<You can win me
 .
-➡",0.1875
+➡",0.1875,0.46993393
 <i>That imitating monkey mouth...</i>,"(
 再不斬
 )
 ＜ん？＞
 
-",<Did?>,0.18181818181818182
+",<Did?>,0.18181818181818185,0.27417734
 "<i>I'll make sure that you won't be</i>
 <i>able to open it any more!</i>","二度と開かねえように
 してやる！＞
 
 ","Let's open it again
-Do it!>",0.17391304347826086
+Do it!>",0.17391304347826084,0.57494164
 <i>W-What is that?</i>,"(
 再不斬
 )
@@ -861,7 +861,7 @@ Do it!>",0.17391304347826086
 
 ","<Oh ...
  
-That is ...>",0.4
+That is ...>",0.4,0.46288618
 You set a clever trap.,"(
 再不斬
 )
@@ -869,13 +869,13 @@ You set a clever trap.,"(
 ｡
 
 ","You will be clever
-.",0.375
+.",0.375,0.5157318
 <i>Me...?</i>,"(
 再不斬
 )
 ＜俺？＞
 
-",<I?>,0.5714285714285714
+",<I?>,0.5714285714285714,0.76111543
 "You used the Genjutsu with
 your hypnotic eye and","(
 再不斬
@@ -890,10 +890,10 @@ your hypnotic eye and","(
  
 My upset
 Look at the time you reached the peak ...
-.",0.16666666666666666
+.",0.16666666666666666,0.089382425
 made me weave the signs first...,"俺に印の結びを先出しさせて➡
 
-",Let me first cut out the mark,0.2727272727272727
+",Let me first cut out the mark,0.2727272727272727,0.38442466
 This is the Jutsu Imitation Method...,"これが
  
 術写しの法
@@ -902,21 +902,21 @@ This is the Jutsu Imitation Method...,"これが
 ","This is
  
 Method of photography
-.",0.3
+.",0.3,0.31423166
 Then that makes it easier.,"それをまねする
 ｡
 ➡
 
 ","Mine it
 .
-➡",0.25
+➡",0.25,0.03439507
 "First vanish into the thick fog,","まず
  
 この濃霧で姿を消し➡
 
 ","first
  
-Erase the figure with this dip fog",0.25
+Erase the figure with this dip fog",0.25,0.603137
 <i>Darn! The guard is falling behind!</i>,"(ｶｶｼ)
 《クソ
  
@@ -924,7 +924,7 @@ Erase the figure with this dip fog",0.25
 
 ","""Fucking
  
-The guard is delayed. """,0.21428571428571427
+The guard is delayed. """,0.21428571428571427,0.51054496
 I will close my eyes as well!,"(
 再不斬
 )
@@ -934,13 +934,13 @@ I will close my eyes as well!,"(
 
 ","Fuhufu ...
  
-I will close my eyes from me",0.4166666666666667
+I will close my eyes from me",0.4166666666666667,0.5994732
 in a close distance battle.,"(ｶｶｼ)
 うおっ
 ｡
 
 ","Ue
-.",0.14285714285714285
+.",0.14285714285714285,0.18875727
 "That also means that
 you will lose your ability to see.","(ｶｶｼ)
 なぜだ
@@ -957,24 +957,24 @@ that is
  
 Your vision
 It should also be taken to take away
-.",0.25
+.",0.25,0.54090786
 Did you forget?,"(
 再不斬
 )
 忘れたのか？➡
 
-",Have you forgotten?➡,0.2857142857142857
+",Have you forgotten?➡,0.2857142857142857,0.636492
 "That I am a genius in Silent Killing,","無音殺人術の天才だということを
 ｡
 
 ","That it is a genius of non-sound killing art
-.",0.26666666666666666
+.",0.26666666666666666,0.6526673
 "a technique to find
 the target just by sound.","俺が音だけで
 ターゲットをつかむ➡
 
 ","I only sound
-Grab the target ➡",0.21428571428571427
+Grab the target ➡",0.21428571428571427,0.60871136
 "<i>He read my movement...</i>
 <i>No way could he do that.</i>","(
 白
@@ -985,14 +985,14 @@ Grab the target ➡",0.21428571428571427
 
 ","""My movement ...
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.5309931
 "Naruto, can you still move?","ナルト
  
 まだ動けるか？
 
 ","Naruto
  
-Can you still move?",0.8571428571428571
+Can you still move?",0.8571428571428571,0.9893397
 "<i>But thanks to him,</i>
 <i>I found our way out.</i>","だが
  
@@ -1004,7 +1004,7 @@ Can you still move?",0.8571428571428571
  
 I found it thanks
 .
-➡",0.25
+➡",0.25,0.34794983
 <i>Hah! Impossible!</i>,"(
 白
 )
@@ -1014,14 +1014,14 @@ I found it thanks
 
 ","""Hu
  
-Impossible""",0.1
+Impossible""",0.1,0.4075746
 <i>That was just a coincidence.</i>,"クッソ～
  
 もう少しだったのに！
 
 ","Kusso-
  
-It was a little more!",0.14285714285714285
+It was a little more!",0.14285714285714285,0.18908735
 Naruto! Run!,"ナルト！
  
 走れ！
@@ -1030,22 +1030,22 @@ Naruto! Run!,"ナルト！
 ","Naruto!
  
 Run!
-picture?",0.6
+picture?",0.6,0.8431549
 "Run out of here and
 attack from the outside!","ここから飛び出して
 外から攻撃するんだ！
 
 ","I jumped out of here
-I'm attacking from outside!",0.42857142857142855
+I'm attacking from outside!",0.42857142857142855,0.75528514
 You won't be able to.!,"(
 白
 )
 できるものか！
 
-",Can you do it!,0.18181818181818182
+",Can you do it!,0.18181818181818185,0.53675145
 There!,"負けねえ～！
 
-",Lose!,0.3333333333333333
+",Lose!,0.3333333333333333,0.32969442
 Fire Style: Fire Ball Jutsu!,"そこだ！
  
 火[外:99C09079206BA433E50523B592C8055A]
@@ -1056,14 +1056,14 @@ Fire Style: Fire Ball Jutsu!,"そこだ！
  
 Fire [Out of: 99C09079206BA433E50523B592C8055A]
  
-Top of the sphere!",0.17647058823529413
+Top of the sphere!",0.17647058823529413,0.476911
 T-That was good just now!,"今のでいい
 ｡
 え？
 
 ","Now it is good
 .
-picture?",0.18181818181818182
+picture?",0.18181818181818185,0.46345672
 "<i>It's likely that there's a limit</i>
 <i>to that guy's Chakra, too!</i>","《恐らく
  
@@ -1077,7 +1077,7 @@ picture?",0.18181818181818182
 Even in the chakra of that
 There is a limit
 .
-➡",0.19230769230769232
+➡",0.19230769230769232,0.7354044
 "<i>To prove that,</i>
 <i>he's little by little...</i>","現に
  
@@ -1085,7 +1085,7 @@ There is a limit
 
 ","Present
  
-little by little…""",0.125
+little by little…""",0.125,0.49567086
 This won't go as you've planned.,"(
 白
 )
@@ -1097,21 +1097,21 @@ This won't go as you've planned.,"(
 ","As for your thoughts
 I will not go
 .
-➡",0.1875
+➡",0.1875,0.43019417
 "First, I'll get you!","まずは君のほうから…
 ｡
 
 ","First of all, from you ...
-.",0.25
+.",0.25,0.45114264
 Sasuke!,"サスケ～！
 
-",Sasuke ~!,0.6666666666666666
+",Sasuke ~!,0.6666666666666666,0.94530714
 "<i>And I'm worried about</i>
 <i>Sasuke and Naruto, too...</i>","サスケとナルトも
 心配だってのに…》
 
 ","Sasuke and Naruto
-I'm worried ... """,0.5
+I'm worried ... """,0.5,0.9100924
 "<i>Be calm... Think...</i>
 <i>What will he come after?</i>","(ｶｶｼ)
 《冷静になれ
@@ -1124,32 +1124,32 @@ I'm worried ... """,0.5
  
 I think
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.21645203
 What?!,"はっ！
 ん!?
 
 ","Hey!
-Hmm!?",0.4
+Hmm!?",0.4,0.24780868
 Why? Why is it?,"♬
  Waiting is wasting
 
 ","♬
- Waiting is Wasting",0.14285714285714285
+ Waiting is Wasting",0.14285714285714285,0.15617278
 "I never asked for your help!
 I hated you!","♬
  Never falling down
 
 ","♬
- NEVER FALLING DOWN",0.08333333333333333
+ NEVER FALLING DOWN",0.08333333333333333,0.08688952
 But you...,"♬
  you're so right.
 
 ","♬
- You'Re So Right.",0.125
+ You'Re So Right.",0.125,0.24333487
 Darn! I won't forgive you!,"♬
  Don't cry
 coz you're so right.
 
 ","♬
  Don't Cry
-COZ YOU'RE SO RIGHT.",0.13333333333333333
+COZ YOU'RE SO RIGHT.",0.13333333333333333,0.27939212

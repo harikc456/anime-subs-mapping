@@ -1,33 +1,33 @@
-en_text,jp_text,google_translated,score
-Not for another thirty minutes.,あと３０分はかかるわ｡➡,It takes 30 minutes.,0.2222222222222222
-Roger that.,≪フレディ≫,«Freddie»,0.0
-"Well, I know it probably isn't related...",いや 関係ないとは思いつつ…｡,I think it doesn't matter.,0.21428571428571427
-There is no connection.,関係ないだろうな それは｡,It doesn't matter.,0.1111111111111111
-"Given our limited information,",通信不可で状況が分からない今➡,Now that there is no communication and the situation is not known,0.0
-"What's that, Azuma?",なんだ？アズマ｡,what?Azuma.,0.42857142857142855
-"we should send every available unmanned rover to the site, via remote control.",今すぐ動かせる無人ローバーを➡,Unmanned Rover to Move Now,0.17647058823529413
-All Brian units are ready to go.,ブライアンは全機 走行可能です｡,Brian can run all machines.,0.2727272727272727
-"What's wrong, Damian?",なんだよ ダミアン｡,What is Damian.,0.25
-Your main oxygen tank,酸素のメインタンクが…➡,Oxygen's main tank ... ➡,0.42857142857142855
-has been punctured!,破損してる‼,It is damaged!,0.14285714285714285
-This might be the end for me.,俺は…助からないかもしれない…｡,I may not help ....,0.07692307692307693
-"You should leave me here, Hibito.",やっぱり俺を置いていけ ヒビト｡,After all I put me hibit.,0.15384615384615385
-"If you're alone, you can make it up there.",お前１人なら…なんとか上まで…｡,If you are one person ... up to the top ....,0.2222222222222222
-We're going to make it home!,《帰るぞ！》,"""I'll come back!""",0.07142857142857142
-That's all that we can do.,俺たちに出来るのはそれくらいだ｡,It is about it to be able to do.,0.15384615384615385
-"When my little brother, Brian, crashed,",弟 ブライアンの事故の時は➡,When the brother Brian accident is,0.3
-Awesome... It's working!,やった…いける！➡,I did ... I can!➡,0.2
-I think I can get it running.,なんとか動かせそうだ｡,It seems to move somehow.,0.18181818181818182
-"It's all up to Gibson. we're going to make it, damian.",必ず上に戻れるよ ダミアン》,"You can always return to the top damian """,0.1
-"The ride will be rough, so bear with me.",《雑なやり方だけど許せよ》,"""It's a different way but you can forgive you""",0.0
-Forty minutes of oxygen left.,《酸素残量 あと４０分！》,"""Oxygen remaining 40 minutes!""",0.18181818181818182
-It's finished?,できたか｡,Was it possible?,0.3333333333333333
-they fell a long way down.,かなり深くまで落ちてるようだな｡,It seems to fall pretty deep.,0.07692307692307693
-and there's been no word from them since.,いまだに通信は途絶えたままだ｡➡,Now the communication remains interrupted.,0.06666666666666667
-"At the moment, Captain Freddy and Buddy are on their way in the Beetle.",今 フレディ船長とバディが➡,Now Freddy Captain and Buddy,0.25
-"What is it, Mutta?",どうした？六太くん｡,What happened?Rokata-kun.,0.2222222222222222
-Twenty kilometers away?,２０キロ 離れた所に？,20 km away?,0.3333333333333333
-"Next time, on",＜酸素残量 あと２０分＞,<Oxygen remaining 20 minutes>,0.0
-#42 Hibito's Choice,＜酸素残量 あと２０分＞,<Oxygen remaining 20 minutes>,0.0
-Twenty minutes of oxygen left.,＜酸素残量 あと２０分＞,<Oxygen remaining 20 minutes>,0.2
-I-It's over...,＜ダ… ダメだ｡寒い＞,<Da ... It's not good. Cold>,0.16666666666666666
+en_text,jp_text,google_translated,score,semantic_score
+Not for another thirty minutes.,あと３０分はかかるわ｡➡,It takes 30 minutes.,0.2222222222222222,0.48950404
+Roger that.,≪フレディ≫,«Freddie»,0.0,0.14463037
+"Well, I know it probably isn't related...",いや 関係ないとは思いつつ…｡,I think it doesn't matter.,0.21428571428571427,0.20895816
+There is no connection.,関係ないだろうな それは｡,It doesn't matter.,0.1111111111111111,0.22144896
+"Given our limited information,",通信不可で状況が分からない今➡,Now that there is no communication and the situation is not known,0.0,0.42910624
+"What's that, Azuma?",なんだ？アズマ｡,what?Azuma.,0.42857142857142855,0.8528997
+"we should send every available unmanned rover to the site, via remote control.",今すぐ動かせる無人ローバーを➡,Unmanned Rover to Move Now,0.17647058823529413,0.6282923
+All Brian units are ready to go.,ブライアンは全機 走行可能です｡,Brian can run all machines.,0.2727272727272727,0.5447649
+"What's wrong, Damian?",なんだよ ダミアン｡,What is Damian.,0.25,0.7707317
+Your main oxygen tank,酸素のメインタンクが…➡,Oxygen's main tank ... ➡,0.42857142857142855,0.85934526
+has been punctured!,破損してる‼,It is damaged!,0.14285714285714285,0.5380386
+This might be the end for me.,俺は…助からないかもしれない…｡,I may not help ....,0.07692307692307693,0.30183914
+"You should leave me here, Hibito.",やっぱり俺を置いていけ ヒビト｡,After all I put me hibit.,0.15384615384615385,0.637429
+"If you're alone, you can make it up there.",お前１人なら…なんとか上まで…｡,If you are one person ... up to the top ....,0.2222222222222222,0.38953212
+We're going to make it home!,《帰るぞ！》,"""I'll come back!""",0.07142857142857142,0.25041682
+That's all that we can do.,俺たちに出来るのはそれくらいだ｡,It is about it to be able to do.,0.15384615384615385,0.36312807
+"When my little brother, Brian, crashed,",弟 ブライアンの事故の時は➡,When the brother Brian accident is,0.3,0.7676173
+Awesome... It's working!,やった…いける！➡,I did ... I can!➡,0.2,0.34413388
+I think I can get it running.,なんとか動かせそうだ｡,It seems to move somehow.,0.18181818181818185,0.2905767
+"It's all up to Gibson. we're going to make it, damian.",必ず上に戻れるよ ダミアン》,"You can always return to the top damian """,0.1,0.34930736
+"The ride will be rough, so bear with me.",《雑なやり方だけど許せよ》,"""It's a different way but you can forgive you""",0.0,0.09383153
+Forty minutes of oxygen left.,《酸素残量 あと４０分！》,"""Oxygen remaining 40 minutes!""",0.18181818181818185,0.7976352
+It's finished?,できたか｡,Was it possible?,0.3333333333333333,0.22257894
+they fell a long way down.,かなり深くまで落ちてるようだな｡,It seems to fall pretty deep.,0.07692307692307693,0.45644388
+and there's been no word from them since.,いまだに通信は途絶えたままだ｡➡,Now the communication remains interrupted.,0.06666666666666668,0.17417301
+"At the moment, Captain Freddy and Buddy are on their way in the Beetle.",今 フレディ船長とバディが➡,Now Freddy Captain and Buddy,0.25,0.7353183
+"What is it, Mutta?",どうした？六太くん｡,What happened?Rokata-kun.,0.2222222222222222,0.21963656
+Twenty kilometers away?,２０キロ 離れた所に？,20 km away?,0.3333333333333333,0.8902801
+"Next time, on",＜酸素残量 あと２０分＞,<Oxygen remaining 20 minutes>,0.0,0.14820105
+#42 Hibito's Choice,＜酸素残量 あと２０分＞,<Oxygen remaining 20 minutes>,0.0,0.25808972
+Twenty minutes of oxygen left.,＜酸素残量 あと２０分＞,<Oxygen remaining 20 minutes>,0.2,0.8616459
+I-It's over...,＜ダ… ダメだ｡寒い＞,<Da ... It's not good. Cold>,0.16666666666666666,0.17950901

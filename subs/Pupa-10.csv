@@ -1,16 +1,16 @@
-en_text,jp_text,google_translated,score
-dame da yo koko kara saki wa,别再靠近 那前方,Retail reconnaissant,0.0
-ugomeku yami wo kizami sagasu no hikari no sora,蠢动的黑暗如此刻骨 在昏暗的天空下彷徨,蠢 下 下 下 下 下 下,0.0
-"I want to fly, I want to beat my wings",我无力改变,I'm sorry,0.1
-A red butterfly flutters around me,摇摇欲坠之红蝶,摇摇 摇摇 butterfly,0.14285714285714285
-Wh-What the hell happened here?,了解 発見次第捕獲する,Capture as soon as the understanding discovery,0.09090909090909091
-"Onii-chan, where are you?",お兄ちゃん どこ,Brother,0.0
-Please save me!,た 助けてくれ,Help me,0.2
-That monster...,化け物,monster,0.3333333333333333
-Onii-chan...,お兄ちゃん,brother,0.0
-Target sighted.,目標発見,Target discovery,0.25
-Onii-chan needs my help...,お兄ちゃん 誰かに苛められて,My brother is annoyed by someone,0.1
-But I'm just... so hungry.,なのに なのに私,I'm sorry but I,0.3333333333333333
-"Amputate and secure her limbs as well, just in case.",念のため 四肢切断の後 切断面を金属で保護しろ,"In case of the case, protect the cut surface after the limb cutting with metal",0.13636363636363635
-Yamamoto...,山本,Yamamoto,0.5
-"and when you're cold to me, I want to cry,",ほら 起きて お寝坊さん,I got up and my slegee,0.13333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+dame da yo koko kara saki wa,别再靠近 那前方,Retail reconnaissant,0.0,0.12947695
+ugomeku yami wo kizami sagasu no hikari no sora,蠢动的黑暗如此刻骨 在昏暗的天空下彷徨,蠢 下 下 下 下 下 下,0.0,0.24007109
+"I want to fly, I want to beat my wings",我无力改变,I'm sorry,0.1,0.17883101
+A red butterfly flutters around me,摇摇欲坠之红蝶,摇摇 摇摇 butterfly,0.14285714285714285,0.47633904
+Wh-What the hell happened here?,了解 発見次第捕獲する,Capture as soon as the understanding discovery,0.09090909090909093,0.067598954
+"Onii-chan, where are you?",お兄ちゃん どこ,Brother,0.0,0.19715437
+Please save me!,た 助けてくれ,Help me,0.2,0.36334205
+That monster...,化け物,monster,0.3333333333333333,0.58731675
+Onii-chan...,お兄ちゃん,brother,0.0,0.20448428
+Target sighted.,目標発見,Target discovery,0.25,0.54307663
+Onii-chan needs my help...,お兄ちゃん 誰かに苛められて,My brother is annoyed by someone,0.1,0.14270142
+But I'm just... so hungry.,なのに なのに私,I'm sorry but I,0.3333333333333333,0.2966174
+"Amputate and secure her limbs as well, just in case.",念のため 四肢切断の後 切断面を金属で保護しろ,"In case of the case, protect the cut surface after the limb cutting with metal",0.13636363636363635,0.43527067
+Yamamoto...,山本,Yamamoto,0.5,0.93193614
+"and when you're cold to me, I want to cry,",ほら 起きて お寝坊さん,I got up and my slegee,0.13333333333333333,0.17763937

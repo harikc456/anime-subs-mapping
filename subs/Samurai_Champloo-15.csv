@@ -1,245 +1,245 @@
-en_text,jp_text,google_translated,score
-"Our three travelers, Mugen, Jin, and Fuu,",ムゲンとジンと—,Mugen and Gin-,0.2222222222222222
-continue their long journey to distant Nagasaki.,はるかな旅を続ける,Continue a long trip,0.2
-"After they set out from Edo,",どうにか江戸を旅立った後,Afternoon after leaving Edo,0.2222222222222222
-they passed through the Hakone Checkpoint.,箱根の関所を越え,Beyond Hakone,0.125
-"they passed Suruga, they passed Hamamatsu,",駿河(するが)を越え 浜松を越え,Behamatsu over the Suruga,0.125
-"they passed Ise,",伊勢(いせ)を越え,Beyond Ise,0.2
-"And now, overcoming many trials and tribulations,",幾多の苦難も乗り越えて—,Many harndrome hardships-,0.1111111111111111
-they arrived at long last at the Kamigata area.,たどり着いたのでありました,I arrived,0.1
-"In other words, Samurai Champloo has now begun its Kansai chapter.",サムライチャンプルー,Samurai Chanpuru,0.07142857142857142
-We hope you enjoy it!,乞う ご期待！,stay tuned!,0.125
+en_text,jp_text,google_translated,score,semantic_score
+"Our three travelers, Mugen, Jin, and Fuu,",ムゲンとジンと—,Mugen and Gin-,0.2222222222222222,0.44255438
+continue their long journey to distant Nagasaki.,はるかな旅を続ける,Continue a long trip,0.2,0.36401606
+"After they set out from Edo,",どうにか江戸を旅立った後,Afternoon after leaving Edo,0.2222222222222222,0.7483113
+they passed through the Hakone Checkpoint.,箱根の関所を越え,Beyond Hakone,0.125,0.503563
+"they passed Suruga, they passed Hamamatsu,",駿河(するが)を越え 浜松を越え,Behamatsu over the Suruga,0.125,0.5731321
+"they passed Ise,",伊勢(いせ)を越え,Beyond Ise,0.2,0.5821314
+"And now, overcoming many trials and tribulations,",幾多の苦難も乗り越えて—,Many harndrome hardships-,0.1111111111111111,0.32283592
+they arrived at long last at the Kamigata area.,たどり着いたのでありました,I arrived,0.1,0.31758192
+"In other words, Samurai Champloo has now begun its Kansai chapter.",サムライチャンプルー,Samurai Chanpuru,0.07142857142857142,0.4938655
+We hope you enjoy it!,乞う ご期待！,stay tuned!,0.125,0.41845068
 "There's a book called Master of the River that says they taste bad, though.","（フウ）
 でも 「川のヌシブリ」って本だと
 まずいって書いてあるんだよ","But it is a book ""River Nushiburi""
-I'm writing at first",0.10714285714285714
+I'm writing at first",0.10714285714285714,0.42641085
 "Jin! Just give up, already!","（フウ）
-ジン　もう あきらめてさあ",I'm giving up,0.1
-C'mon over here and join us for lunch!,こっちに来て一緒に食べようよ,Let's come here and eat together,0.14285714285714285
+ジン　もう あきらめてさあ",I'm giving up,0.1,0.45797995
+C'mon over here and join us for lunch!,こっちに来て一緒に食べようよ,Let's come here and eat together,0.14285714285714285,0.5223704
 I'll share my catch with you!,"“ナメてかかると
 痛い目に遭うぞ”","""If it takes
-I'm hurting my eyes",0.13333333333333333
-"C'mon, before we started fishing, he said,",大体よう 釣り始める前に,Before you begin fishing,0.2
-"""Fishing is a life-and-death struggle between man and fish.",“釣りは魚と人の真剣勝負だ”,"""Fishing is a serious game of fish and person""",0.375
-"He actually said that,",…とか言ってたやつがさあ,... I said that I said,0.2857142857142857
-- Like I care.\N- But he's...,わ… 笑っちゃ悪いわよ 笑っちゃ,Wow ... I'm not laughing,0.16666666666666666
-They were lying at the bottom of the pond.,（ジン）池の底に落ちていた,It was falling at the bottom of the pond,0.4166666666666667
+I'm hurting my eyes",0.13333333333333333,0.06034609
+"C'mon, before we started fishing, he said,",大体よう 釣り始める前に,Before you begin fishing,0.2,0.6924629
+"""Fishing is a life-and-death struggle between man and fish.",“釣りは魚と人の真剣勝負だ”,"""Fishing is a serious game of fish and person""",0.375,0.8096929
+"He actually said that,",…とか言ってたやつがさあ,... I said that I said,0.2857142857142857,0.44888318
+- Like I care.\N- But he's...,わ… 笑っちゃ悪いわよ 笑っちゃ,Wow ... I'm not laughing,0.16666666666666666,0.26917285
+They were lying at the bottom of the pond.,（ジン）池の底に落ちていた,It was falling at the bottom of the pond,0.4166666666666667,0.7425231
 I hope you're doing that deliberately.,"（ジン）
-わざと言ってるだろ お前",You're saying it,0.2
-Banzai!,（３人）バンザーイ！,Banza!,0.3333333333333333
+わざと言ってるだろ お前",You're saying it,0.2,0.14828236
+Banzai!,（３人）バンザーイ！,Banza!,0.3333333333333333,0.63475263
 A city! Proper food!,"（フウ）町だあ！
 まともな食い物だあ！","Town!
-It is a decent eating thing!",0.18181818181818182
-"Boy, I'm stuffed...",（フウ）ああ 食べた 食べた,Oh I ate I ate,0.125
-"For the first time in ages, I'm actually full.",久々におなかいっぱーい,A lot of time for a long time,0.125
-"I'm so full, I'm so full, I'm so full and it's no bull",まっ 軽い化け物だな,It's a light,0.16666666666666666
+It is a decent eating thing!",0.18181818181818185,0.6404561
+"Boy, I'm stuffed...",（フウ）ああ 食べた 食べた,Oh I ate I ate,0.125,0.29806763
+"For the first time in ages, I'm actually full.",久々におなかいっぱーい,A lot of time for a long time,0.125,0.33166483
+"I'm so full, I'm so full, I'm so full and it's no bull",まっ 軽い化け物だな,It's a light,0.16666666666666666,0.16328087
 "It's no bull, it's no bull, it's no bull that I'm so full!","♪ くるしゅうなーい
 　　　　　ウォンチュー！","♪ I'm sorry
-Won Chew!",0.2
+Won Chew!",0.2,0.25640154
 Hey!,"（門番１）おい！
-（フウ）うわっ",!,0.5
-What? How come?,♪ くるしゅうないない,♪ not come,0.16666666666666666
+（フウ）うわっ",!,0.5,0.5805879
+What? How come?,♪ くるしゅうないない,♪ not come,0.16666666666666666,0.19747394
 This is the red light district!,"（門番１）ここは遊郭だ
 （フウ）ウソ！","This is the Yu
- Uso!",0.4444444444444444
+ Uso!",0.4444444444444444,0.3434477
 "Welcome, my good sirs!","（赤目(あかめ)）
 ようこそいらっしゃいまし",")
-Welcome",0.14285714285714285
-"Please, right this way!",（フウ）放してよ この裏切り者！,Release this betrayer!,0.25
+Welcome",0.14285714285714285,0.49502435
+"Please, right this way!",（フウ）放してよ この裏切り者！,Release this betrayer!,0.25,0.27702335
 Word on the street is that this is the best place in town.,"この店が一番だって
 聞いたんだけどな","This store is the best
-I heard it",0.25
+I heard it",0.25,0.39363432
 "Well, I must say that our girl's looks and skills are the equal of any Edo geisha.","（赤目）
 そりゃあ もう　器量も技術も
 江戸の芸者に負けておりません","Well, the body's technology is also good.
-I do not lose to Edo geisha",0.27586206896551724
-We like to think of ourselves as the finest establishment in the West.,西で随一と自負しておりますよ,We are proud of at the same time in the west,0.2777777777777778
+I do not lose to Edo geisha",0.27586206896551724,0.6935415
+We like to think of ourselves as the finest establishment in the West.,西で随一と自負しておりますよ,We are proud of at the same time in the west,0.2777777777777778,0.59811074
 "Now, sirs, please make yourselves at home in this room for a few moments.","こちらの部屋で
 おくつろぎくださいませ","In this room
-Please relax",0.23529411764705882
+Please relax",0.2352941176470588,0.54153425
 I will go make arrangements for food and courtesans,"お値段に見合う料理と
 太夫をご用意させていただきます","Cooking that match the price
-I will prepare Taio",0.125
-"Hey, are you a boy, Momo? Or a girl?",あれ？ モモさんって男？ 女？,that?Momo is a man?woman?,0.21428571428571427
-I'm so hungry...,（フウ）おなかすいた…,I'm sorry ...,0.5
+I will prepare Taio",0.125,0.29110727
+"Hey, are you a boy, Momo? Or a girl?",あれ？ モモさんって男？ 女？,that?Momo is a man?woman?,0.21428571428571427,0.61771965
+I'm so hungry...,（フウ）おなかすいた…,I'm sorry ...,0.5,0.3943034
 My name is Yatsuha.,"（ムゲン）ふんっ ほい
 ふんっ ほい  ふんっ ほい！","Hope
-Hope is delicious!",0.125
-"Sweet! Okay, I'm gonna take this girl here.",よっしゃ！,Yo!,0.07142857142857142
+Hope is delicious!",0.125,0.10411596
+"Sweet! Okay, I'm gonna take this girl here.",よっしゃ！,Yo!,0.07142857142857142,0.24057734
 "The rest of you ladies, have fun with four-eyes here.","さっ この女はもらっとくぜ
 残りのは そのメガネに","Well this woman is
-The rest is her glasses",0.1111111111111111
-Who are they?,何者だ？,Who are you?,0.6
-"We are unsure of their identities, but they seem to be a pair of ronin.",加賀に出す予定の代物だな,It is a substitute to put out to Kaga,0.09090909090909091
-And they entered the city today?,（銀左）町に入ったのは今日か？,Today was entered in town?,0.3
-"Did you fail in your duties, Kakizou?",しくじったか？ 柿蔵(かきぞう),Did you do it?Kizoho,0.25
+The rest is her glasses",0.1111111111111111,0.5280582
+Who are they?,何者だ？,Who are you?,0.6,0.5597872
+"We are unsure of their identities, but they seem to be a pair of ronin.",加賀に出す予定の代物だな,It is a substitute to put out to Kaga,0.09090909090909093,0.13976328
+And they entered the city today?,（銀左）町に入ったのは今日か？,Today was entered in town?,0.3,0.7197599
+"Did you fail in your duties, Kakizou?",しくじったか？ 柿蔵(かきぞう),Did you do it?Kizoho,0.25,0.6044946
 I am putting together a report as quickly as possible.,"おとがめは後ほど
 取り急ぎご報告を　おい！","The closing is later
-Shop for a sudden report!",0.1111111111111111
-Who is this?,（銀左）こやつは？,What is it?,0.3333333333333333
+Shop for a sudden report!",0.1111111111111111,0.18389519
+Who is this?,（銀左）こやつは？,What is it?,0.3333333333333333,0.36237484
 A man by the name of Hankichi Otowa who tried to escape,"（柿蔵）
 先日 地下より抜けようとした
 音羽(おとは)の半吉と申す者","I tried to get out of the basement the other day
-Hasichi of Otowa",0.2631578947368421
+Hasichi of Otowa",0.2631578947368421,0.5286191
 "We captured him near Ryugakubo, but he had nothing on him at the time.","竜ヶ窪(りゅうがくぼ)付近で
 取り押さえましたが—","Near Ryugakubo
-I was pushed up-",0.10526315789473684
-However...,（柿蔵）しかし…,But ...,0.3333333333333333
-However?,しかし？,However?,1.0
+I was pushed up-",0.10526315789473684,0.5407819
+However...,（柿蔵）しかし…,But ...,0.3333333333333333,0.8750093
+However?,しかし？,However?,1.0,1.0
 It's possible that he's been trained to withstand torture.,"こやつ 拷問の訓練を
 受けていた可能性が","Training of torture
-May have been received",0.125
+May have been received",0.125,0.7199866
 "At the same period, sir?","（赤目）
-同時期… でございますか？",Is it at the same time ...?,0.36363636363636365
+同時期… でございますか？",Is it at the same time ...?,0.3636363636363637,0.51783526
 This man started working at the foundry about a year ago.,"こやつが鋳造所に入ったのが
 １年ほど前","The moth has entered the casting place
-About a year ago",0.29411764705882354
+About a year ago",0.29411764705882354,0.21594179
 Yatsuha is the only one I can think of.,"上では１年前となると
 八葉くらいしか…","On the one year ago
-Only Yakoi ...",0.2
+Only Yakoi ...",0.2,0.5552843
 "Doubts are like flies, they must all be crushed.","疑わしきは
 小バエなりとて すべて潰す","Suspected
-He crushes all",0.07142857142857142
-"- That is our inviolable rule.\N- Yes, sir...",それが鉄則だ,That is the iron,0.16666666666666666
+He crushes all",0.07142857142857142,0.35664874
+"- That is our inviolable rule.\N- Yes, sir...",それが鉄則だ,That is the iron,0.16666666666666666,0.08791794
 "For the sake of our great cause, we must be thorough in all things.","我ら大義のためには
 何事も徹頭徹尾せねばならぬ","For our majority
-There is nothing to do with all things",0.17391304347826086
-There can be no exceptions.,例外はない,There is no exception,0.25
+There is nothing to do with all things",0.17391304347826084,0.45926613
+There can be no exceptions.,例外はない,There is no exception,0.25,0.80297583
 Turn them into fish food so as not to raise any suspicions.,"大事にならぬよう
 手際よくフカのエサにしておけ","I can not take care
-Please use the fuma food",0.09523809523809523
+Please use the fuma food",0.09523809523809523,0.30247533
 There was apparently a fat girl who was accompanying the two men.,"（柿蔵）
 ２人と行動を共にしていた
 太った娘もいたようですが","Two people were working together
-She seems to have had a fat daughter",0.13636363636363635
+She seems to have had a fat daughter",0.13636363636363635,0.62734556
 "Her, too. Track her down and eliminate her.","（銀左）
-同じだ 捜し出して始末しろ",Same look and started,0.09090909090909091
-"Yes, sir!",（ムゲン）うん？,yes?,0.2
+同じだ 捜し出して始末しろ",Same look and started,0.09090909090909093,-0.016461914
+"Yes, sir!",（ムゲン）うん？,yes?,0.2,0.5555103
 Don't leave any traces whatsoever. I'm counting on you.,"（銀左）
-ちり一つの痕跡も残すなよ 頼むぞ",Don't leave a lot of traces,0.26666666666666666
+ちり一つの痕跡も残すなよ 頼むぞ",Don't leave a lot of traces,0.26666666666666666,0.856938
 This isn't good...,"（八葉）えっ？
 あっ いや… べつに何も","?
-There is no one ... nothing",0.2
+There is no one ... nothing",0.2,0.24281734
 I don't like being teased.,"（ムゲン）
-じらされんのは好きじゃねえんだよ",I don't like it,0.5
-"So, what say we let the good times roll, huh?",何やってんだよ？,What are you doing?,0.13333333333333333
-"I'm paying good money for you, after all.",高い金払ってんだしなあ,I'm paying high money,0.3333333333333333
-You have a point...,そ… そうね,So ...,0.16666666666666666
+じらされんのは好きじゃねえんだよ",I don't like it,0.5,0.31825033
+"So, what say we let the good times roll, huh?",何やってんだよ？,What are you doing?,0.13333333333333333,0.097930945
+"I'm paying good money for you, after all.",高い金払ってんだしなあ,I'm paying high money,0.3333333333333333,0.5558565
+You have a point...,そ… そうね,So ...,0.16666666666666666,0.3734935
 It looks like my partner has been captured.,"いろいろ事情が
 変わってきたみたいなの","There are various circumstances
-It looks like it has changed",0.2857142857142857
-"I think I'm in danger, too.",あーあ 悔しいな,"Oh, I'm sorry",0.3
+It looks like it has changed",0.2857142857142857,0.25476953
+"I think I'm in danger, too.",あーあ 悔しいな,"Oh, I'm sorry",0.3,0.22266698
 "I've been working an undercover investigation here for a whole year, and now this.","１年も頑張って
 調査してきたのになあ","Good luck for a year
-I have surveyed",0.19047619047619047
-"See you around, lover boy. If it's in the cards, maybe we'll meet again.",縁があったら また会いましょう,Let's meet again if there is an edge,0.17391304347826086
+I have surveyed",0.19047619047619047,0.31372
+"See you around, lover boy. If it's in the cards, maybe we'll meet again.",縁があったら また会いましょう,Let's meet again if there is an edge,0.17391304347826084,0.40107095
 "Damn, that hurt...","（ムゲン）
-うん んぎゃ… うん… んぎゃ…",Yupo ... yeah ... ...,0.14285714285714285
+うん んぎゃ… うん… んぎゃ…",Yupo ... yeah ... ...,0.14285714285714285,0.23964643
 I'm not lettin' you get away again.,"（ムゲン）
-おっと もう逃がさねえぜ？",Oops I miss it anymore?,0.06666666666666667
-"Oh, good grief...",たあっ はっ はっ,Oh yes,0.16666666666666666
-"Now, then... Let's get down to business.",さあて 始めようぜ,Let's start saying,0.15384615384615385
-Oh! Look over there! It's a naked woman!,あっ あんなところに裸の女が！,A naked woman in such a place!,0.3076923076923077
-This guy is incredibly tough...,（八葉）こいつ…,This guy ...,0.5
-But still...,ぐははは…,Haha ...,0.25
+おっと もう逃がさねえぜ？",Oops I miss it anymore?,0.06666666666666668,0.23840131
+"Oh, good grief...",たあっ はっ はっ,Oh yes,0.16666666666666666,0.10092693
+"Now, then... Let's get down to business.",さあて 始めようぜ,Let's start saying,0.15384615384615385,0.36868972
+Oh! Look over there! It's a naked woman!,あっ あんなところに裸の女が！,A naked woman in such a place!,0.3076923076923077,0.6974039
+This guy is incredibly tough...,（八葉）こいつ…,This guy ...,0.5,0.41876924
+But still...,ぐははは…,Haha ...,0.25,0.4442586
 "Hey, would you like to do something really fun with me?","（八葉）
-ねえ 私とすっごいことしたい？",Hey I want to be so wonderful?,0.16666666666666666
-Then let's go to the room next door.,じゃあ 隣の部屋で,Well then in the next room,0.3333333333333333
-"No, who the hell are you?",何者だ,Who are you,0.375
-"Oh, gosh! There are people here already!",あっちゃあ 先客いたんだ,"Oh, I was a teacher",0.15384615384615385
-Beat it!,てめえら！,Temple!,0.25
-"Hankichi, are you all right? Are you alive?",半吉 大丈夫？ 生きてる？,Haichi Yoshida?alive?,0.2
-"Yatsuha, is that you...?",何者？,Who?,0.125
+ねえ 私とすっごいことしたい？",Hey I want to be so wonderful?,0.16666666666666666,0.4273314
+Then let's go to the room next door.,じゃあ 隣の部屋で,Well then in the next room,0.3333333333333333,0.69282895
+"No, who the hell are you?",何者だ,Who are you,0.375,0.38391697
+"Oh, gosh! There are people here already!",あっちゃあ 先客いたんだ,"Oh, I was a teacher",0.15384615384615385,0.13648082
+Beat it!,てめえら！,Temple!,0.25,0.34922087
+"Hankichi, are you all right? Are you alive?",半吉 大丈夫？ 生きてる？,Haichi Yoshida?alive?,0.2,0.41736764
+"Yatsuha, is that you...?",何者？,Who?,0.125,0.14711957
 I can't believe that someone as fast as you couldn't get away...,"あんたの足でも
 逃げきれなかったなんて","Even the foot
-I couldn't run away",0.23529411764705882
-Probably remnants of the Negoro...,（半吉）恐らく 根来(ねごろ)の残党,probably the club of root,0.375
-The Negoro militant monks? The mercenaries from the Warring States period?,まさか　戦国の傭兵(ようへい)集団の？,Mercenaries in Sengoku Mercenaries?,0.16666666666666666
-You're telling me that they're still around?,まだ生き残ってたってこと？,What should I still survive?,0.15384615384615385
-"Yatsuha, go to our master for reinforcements...",八葉 親方様に援軍を,Believers reinforcements,0.1
+I couldn't run away",0.2352941176470588,0.41080064
+Probably remnants of the Negoro...,（半吉）恐らく 根来(ねごろ)の残党,probably the club of root,0.375,0.24607347
+The Negoro militant monks? The mercenaries from the Warring States period?,まさか　戦国の傭兵(ようへい)集団の？,Mercenaries in Sengoku Mercenaries?,0.16666666666666666,0.5488463
+You're telling me that they're still around?,まだ生き残ってたってこと？,What should I still survive?,0.15384615384615385,0.12369523
+"Yatsuha, go to our master for reinforcements...",八葉 親方様に援軍を,Believers reinforcements,0.1,0.4551428
 It'll be all right. I'll take it from here.,"大丈夫 あとは任せて
 何とかしてみせる","Let's leave it after all right
-Somehow",0.2
+Somehow",0.2,0.45688552
 "Oh, we can't do anything really fun in a room like this!","あら こんな部屋じゃ
 すごいことできないわ","Such a room
-I can not do it",0.15
+I can not do it",0.15,0.60987556
 "Hey, I know! As I recall, there's another great spot right below this room!","確かね この下も
 いい場所があるのよ","Certainly below this
-There is a good place",0.14285714285714285
-Is this all of them?,これで すべてか？,Is this all all?,0.6666666666666666
+There is a good place",0.14285714285714285,0.53911716
+Is this all of them?,これで すべてか？,Is this all all?,0.6666666666666666,0.6544052
 "Yes, sir. The other one bit off his own tongue and killed himself.","はっ もう１人は
 先ほど舌を噛(か)んで自決いたしました","Another one
-The tongue was biting earlier",0.15789473684210525
+The tongue was biting earlier",0.15789473684210525,0.5545302
 I'll have you sing a little for me. About who sent you.,"（銀左）少し うたってもらうぞ
 うぬらの素性についてな","Let's get a little bit
-About the nature of the wolf",0.14285714285714285
-What's going on?!,（ムゲン）おい どうなってんだよ,What's wrong?,0.42857142857142855
-Looks like our timing was a little too good.,ちょっとタイミングよすぎたみたい,It looks like it was too timing,0.45454545454545453
-Who are you?,（銀左）何者だ,Who is,0.2
+About the nature of the wolf",0.14285714285714285,0.15838604
+What's going on?!,（ムゲン）おい どうなってんだよ,What's wrong?,0.42857142857142855,0.56408006
+Looks like our timing was a little too good.,ちょっとタイミングよすぎたみたい,It looks like it was too timing,0.4545454545454545,0.78435856
+Who are you?,（銀左）何者だ,Who is,0.2,0.49969566
 I've finally seen your face.,"あんたが ここの親玉ね
 やっと顔が見れたわ","Annot is the parent ball here
-I finally saw my face",0.2
+I finally saw my face",0.2,0.32062033
 Ginsa Momochi! All of your misdeeds have been exposed!,"（八葉）百地銀左！
 貴様の悪事はすべて露見した","Hundred Low!
-All bad things were exposed",0.2
+All bad things were exposed",0.2,0.27560845
 Counterfeiting the koban coins of the realm is the most serious of all serious crimes!,"天下の小判を偽造せしこと
 重罪の上にも重罪なり！","Forging the Tenka's oval
-It is also a crime on top of the crime!",0.18181818181818182
+It is also a crime on top of the crime!",0.18181818181818185,0.47315025
 This counterfeiting foundry is irrefutable proof!,"（八葉）
-この偽造工場が 何よりの証拠",This fake factory is more than anything else,0.15384615384615385
-What's so funny?!,何がおかしい！,What's wrong!,0.42857142857142855
+この偽造工場が 何よりの証拠",This fake factory is more than anything else,0.15384615384615385,0.43140438
+What's so funny?!,何がおかしい！,What's wrong!,0.42857142857142855,0.37825477
 And just who have my crimes been exposed to? Only you two?,"いったい誰に露見したというのだ？
 うぬら２人にか？","It is said that anyone was exposed to anyone?
-Won't it?",0.14285714285714285
+Won't it?",0.14285714285714285,0.52353334
 We are the 20-odd descendants of the Tsuda clan of Negoro.,"我らは根来津田(つだ)一族の末裔(まつえい)
 二十数名","We are nurtches  Fore of the family 
-Twenty people",0.26666666666666666
-The clan's mighty warriors are gathered here.,そりゃあ もっともだ,That's the most,0.18181818181818182
+Twenty people",0.26666666666666666,0.38012585
+The clan's mighty warriors are gathered here.,そりゃあ もっともだ,That's the most,0.18181818181818185,0.07027383
 "Outnumbered here by the likes of us,","ここには一騎当千の手だれが
 そろうておる","Here is the hand of Ikki Tousen
-I'm sorry",0.2
+I'm sorry",0.2,0.10832453
 what can mere secret policemen who serve in a country at peace hope to accomplish?,"今 この状況で
 何をできるというのか","In this situation now
-What you can do",0.14285714285714285
+What you can do",0.14285714285714285,0.19254133
 "You have us outnumbered, all right...","（ムゲン）
-何だと？ もうだまされねえ…",What did you say?It's already mackerel ...,0.125
-...but don't count us out!,…が しかし！,... but!,0.375
+何だと？ もうだまされねえ…",What did you say?It's already mackerel ...,0.125,0.20756309
+...but don't count us out!,…が しかし！,... but!,0.375,0.3616816
 "Hey, if you take out all of these guys for me, I'll do something really amazing with you.","（八葉）
 こいつら全員ぶっ倒してくれたら
 すっごいことしてあげるわよ","If all these people beat me
-I will give you a lot",0.23076923076923078
+I will give you a lot",0.2307692307692308,0.33697373
 "Excuse me, miss. Have you seen a really fat girl who's about your age around here?","あんたくらいの年頃で
 こんなに太った若い女見なかった？","Annual year
-Didn't you have such a fat young woman?",0.18518518518518517
-Who's out there?,（ジン）何者だ,Who is,0.16666666666666666
+Didn't you have such a fat young woman?",0.1851851851851852,0.6386129
+Who's out there?,（ジン）何者だ,Who is,0.16666666666666666,0.3275585
 "As I suspected, that money has a history...","（ジン）
-やはり いわくつきの金か",After all the money of I,0.14285714285714285
-I'm under no obligation to answer you.,（ジン）答える義理はない,No prosperity to answer,0.3
-My back...,腰が…,Waist ...,0.25
+やはり いわくつきの金か",After all the money of I,0.14285714285714285,0.38758457
+I'm under no obligation to answer you.,（ジン）答える義理はない,No prosperity to answer,0.3,0.28347662
+My back...,腰が…,Waist ...,0.25,0.48831347
 "The daughter of Shogunate secret service officer, Jinpachi of Iga!","公儀御庭番
 伊賀(いが)の陣八(じんぱち)が娘 八葉！","Plethod
-Iga  Jinge  is a daughter Yako!",0.1875
-Now I see... You're Jinpachi's daughter.,そうか 陣八の娘,Soka Hakuhiro's daughter,0.16666666666666666
+Iga  Jinge  is a daughter Yako!",0.1875,0.59138197
+Now I see... You're Jinpachi's daughter.,そうか 陣八の娘,Soka Hakuhiro's daughter,0.16666666666666666,0.48972756
 by a blood relative of the same clan of ninja mercenaries that brought us down...,"同じ傭兵衆の血族に
 津田一族復興を阻まれるとはなあ","To the blood of the same merchant
-It is no longer blocked by Tsudan family reconstruction",0.2
-and we were finally able to arrest them.,ようやく１年前から潜伏して—,Finally recoil from one year ago-,0.07142857142857142
+It is no longer blocked by Tsudan family reconstruction",0.2,0.35661972
+and we were finally able to arrest them.,ようやく１年前から潜伏して—,Finally recoil from one year ago-,0.07142857142857142,0.1597997
 We owe it all to you.,"これもみんな
 あなたのおかげだわ","This is also everyone
-Thanks to you",0.16666666666666666
+Thanks to you",0.16666666666666666,0.36017472
 Look! A naked woman!,"（八葉）あっ 裸の女！
 （ムゲン）え？","A naked woman!
-?",0.6666666666666666
+?",0.6666666666666666,0.7289737
 "Yatsuha, are you sure he's gonna be okay if we leave him here like this?","…んなことより
 約束さえ守ってもらえばなあ","... more than anything
-If you are promised, you will",0.16
+If you are promised, you will",0.16,0.11387736
 "Come on, let's get moving. It's a long way to Edo.","（八葉）さっ 急ぎましょ
 江戸まで長いわよ","Surely
-It is long to Edo",0.25
-I just hope the crows don't eat him first.,カラスに食われないといいけどな,I hope I can't eat it,0.3076923076923077
-He'll be fine. He's not that delicate.,大丈夫 そんなにヤワじゃないわ,Okay It's not so good,0.15384615384615385
-"After all, that's the man who's gonna be my husband.",私の旦那になる男だから,Because of the man who will be my husband,0.35294117647058826
+It is long to Edo",0.25,0.7361127
+I just hope the crows don't eat him first.,カラスに食われないといいけどな,I hope I can't eat it,0.3076923076923077,0.41540483
+He'll be fine. He's not that delicate.,大丈夫 そんなにヤワじゃないわ,Okay It's not so good,0.15384615384615385,0.0990889
+"After all, that's the man who's gonna be my husband.",私の旦那になる男だから,Because of the man who will be my husband,0.35294117647058826,0.6391086
 I'm in love!,"（フウ）腹減った！
 （ジン）腰が…","I was hungry!
- waist ...",0.2222222222222222
-A-Are you serious?,（半吉）へ？,?,0.25
+ waist ...",0.2222222222222222,0.2418387
+A-Are you serious?,（半吉）へ？,?,0.25,0.17469898

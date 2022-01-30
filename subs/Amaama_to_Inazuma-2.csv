@@ -1,282 +1,282 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 Will you eat dinner with me?,"（飯田(いいだ)小鳥(ことり)）
 私とごはんを食べませんか？","small birds)
-Would you like to eat rice with me?",0.35714285714285715
-Why?,何でですか？,why?,1.0
+Would you like to eat rice with me?",0.35714285714285715,0.62408936
+Why?,何でですか？,why?,1.0,0.9999995
 Is that... a no?,"（犬塚(いぬづか)つむぎ）ん？
 （公平）あ…","Tsumugi)?
- ...",0.25
-"No, it's not that...",そんなことないです,That's not it,0.5714285714285714
+ ...",0.25,0.13107525
+"No, it's not that...",そんなことないです,That's not it,0.5714285714285714,0.5181217
 I'll talk to my mother!,"（小鳥）母には
 ちゃんと言いますから","Mother
-Because I say properly",0.2
-What? What? What?,何 何 何〜？,What?,1.0
-I'm inviting you both to come back \Nand make a meal with me here.,…っていう お誘いです,... I'm an invalid,0.10526315789473684
-"Tsumugi, wait!",（公平）つむぎ 待ちなさい,Wait,0.25
+Because I say properly",0.2,0.3430457
+What? What? What?,何 何 何〜？,What?,1.0,0.6784873
+I'm inviting you both to come back \Nand make a meal with me here.,…っていう お誘いです,... I'm an invalid,0.10526315789473684,0.13017897
+"Tsumugi, wait!",（公平）つむぎ 待ちなさい,Wait,0.25,0.28838947
 Making a cute face doesn't make it okay.,"（公平）
-かわいい顔をしても ダメです",She is no good even if you have a cute face,0.16666666666666666
-Fine! Fine! ... one surprise after another!,（公平）あっ ああ…,Oh Oh ...,0.125
-This parade march sounds out toward the forest:,〜♪,~ ♪,0.0
-I'd really like to add some vegetables.,ん〜 やっぱり 野菜欲しいなぁ,I am ready to be a vegetable,0.14285714285714285
-Morning!,おはよう,good morning,0.3333333333333333
-Is it good?,あっ そうか…,Is it so?,0.6
-I can taste the ingredients.,素材の味がしゅる,The taste of the material,0.25
-Tsumugi!,つむぎ,Tiege,0.0
-Which of these do you like?,この中で 好きなのはどれ？,Which one do you like in this?,0.5
-For lunch?,おべんとのやちゅ？,Obento's Yachyu?,0.16666666666666666
-Yup.,そう,Yes,0.0
+かわいい顔をしても ダメです",She is no good even if you have a cute face,0.16666666666666666,0.6828264
+Fine! Fine! ... one surprise after another!,（公平）あっ ああ…,Oh Oh ...,0.125,0.19570649
+This parade march sounds out toward the forest:,〜♪,~ ♪,0.0,0.013549509
+I'd really like to add some vegetables.,ん〜 やっぱり 野菜欲しいなぁ,I am ready to be a vegetable,0.14285714285714285,0.70358914
+Morning!,おはよう,good morning,0.3333333333333333,0.73110497
+Is it good?,あっ そうか…,Is it so?,0.6,0.5240783
+I can taste the ingredients.,素材の味がしゅる,The taste of the material,0.25,0.5638164
+Tsumugi!,つむぎ,Tiege,0.0,0.23491107
+Which of these do you like?,この中で 好きなのはどれ？,Which one do you like in this?,0.5,0.73097587
+For lunch?,おべんとのやちゅ？,Obento's Yachyu?,0.16666666666666666,0.18163079
+Yup.,そう,Yes,0.0,0.5160737
 "This one's yummy, and after you eat it,","食べたら 入れ物のとこ
 どうぶちゅ描いてあっておいしいし","If you eat it
-I'm drawn and delicious",0.26666666666666666
-Wieners!,あっ ウインナー,Awinner,0.0
+I'm drawn and delicious",0.26666666666666666,0.54258907
+Wieners!,あっ ウインナー,Awinner,0.0,0.24790566
 "I told you yesterday that I'd do \Nmy best to cook a meal, right?","昨日 おとさん
 ごはん作るの頑張るって言ったろ","Yesterday
-I told you that I will do my best to make rice",0.4
-A meal...,わぁ…,Wow ...,0.25
-No... That's...,いや… それは,No ...,0.5
-My mother won't mind.,母なら 大丈夫です,Mother is fine,0.125
+I told you that I will do my best to make rice",0.4,0.5605056
+A meal...,わぁ…,Wow ...,0.25,0.20910281
+No... That's...,いや… それは,No ...,0.5,0.624246
+My mother won't mind.,母なら 大丈夫です,Mother is fine,0.125,0.50653315
 "She's busy with other work lately,","今 ちょっと
 他の仕事で忙しいので—","A little
-Because I am busy with other work-",0.21428571428571427
+Because I am busy with other work-",0.21428571428571427,0.4642354
 I like this restaurant and the food!,"（つむぎ）つむぎ
 このお店屋さんのごはん 好き","Tsumugi
-I like this shop shop",0.3
-"Daddy said it was good, too!",おとさんも“おいしい”って言った,"""Good"" said ""delicious""",0.18181818181818182
-"I did, but...",（公平）う〜ん　言った… けど,I said ...,0.3333333333333333
-It kind of feels...,（公平）あっ…,...,0.2
-My mom's away a lot.,（小鳥）母 いないことが多くて,Mother is often,0.0
-It doesn't have to be every day.,毎日じゃなくて いいんです,It doesn't have to be every day,0.8888888888888888
-We could just turn on \Nthe lights in the restaurant,時々 お店に明かりをつけて,Sometimes with the lights,0.16666666666666666
+I like this shop shop",0.3,0.34290805
+"Daddy said it was good, too!",おとさんも“おいしい”って言った,"""Good"" said ""delicious""",0.18181818181818185,0.4239389
+"I did, but...",（公平）う〜ん　言った… けど,I said ...,0.3333333333333333,0.5057262
+It kind of feels...,（公平）あっ…,...,0.2,0.29656473
+My mom's away a lot.,（小鳥）母 いないことが多くて,Mother is often,0.0,0.5223295
+It doesn't have to be every day.,毎日じゃなくて いいんです,It doesn't have to be every day,0.8888888888888888,0.9855254
+We could just turn on \Nthe lights in the restaurant,時々 お店に明かりをつけて,Sometimes with the lights,0.16666666666666666,0.41100907
 and make something to eat \Ntogether once in a while.,"私と ごはんを作って
 食べてくれれば…","Make rice and rice
-If you eat ...",0.2
+If you eat ...",0.2,0.5285413
 I want to eat at Kotori-chan's place again!,"つむぎ また小鳥ちゃんのおうちで
 ごはん食べたいなぁ","Tsumugi and Tobird-chan's house
-I want to eat rice",0.3333333333333333
+I want to eat rice",0.3333333333333333,0.65030676
 "Okay, let's use that formula \Nto solve a problem.","さっきの数式を使った問題を
 解いてみようか","Problems using the previous formula
-Let's solve it",0.23529411764705882
-"Okay. Now, who...",（公平）う〜ん…,...,0.16666666666666666
-"Iida Kotori, huh?",（保坂(ほさか)先生）飯田小鳥ね,teacher) Iida Kobird,0.125
+Let's solve it",0.2352941176470588,0.61692786
+"Okay. Now, who...",（公平）う〜ん…,...,0.16666666666666666,0.26456013
+"Iida Kotori, huh?",（保坂(ほさか)先生）飯田小鳥ね,teacher) Iida Kobird,0.125,0.58720833
 I heard her parents divorced \Nwhen she was in third grade.,"ご両親は 彼女が小学３年生の時に
 離婚しているそうだよ","My parents are when she is a third grader
-She is divorced",0.2222222222222222
+She is divorced",0.2222222222222222,0.58219635
 "It would be a bad idea for me to visit \Nthe home of a specific student, wouldn't it?","特定の生徒の
 家庭に立ち入るのって","Specific student
-To enter the home",0.2
+To enter the home",0.2,0.62211007
 "Well, not many teachers these days interact \Nwith their students outside school.","生徒と絡むような教師は
 減ったけどね","Teachers who are involved with students
-I decreased",0.1
+I decreased",0.1,0.5068548
 "that means you're not sure what to do, right?","僕に相談するってことは
 迷ってるってことでしょ？","What to consult with me
-Do you have lost?",0.29411764705882354
-Yeah...,（保坂）ふふふふふっ…,Fufufu Fufu ...,0.25
+Do you have lost?",0.29411764705882354,0.14649768
+Yeah...,（保坂）ふふふふふっ…,Fufufu Fufu ...,0.25,0.21744876
 Part of you wants to do it. Am I wrong?,"やりたいって気持ちが
 どこかにあるんじゃないの？","I feel like I want to do it
-Isn't it somewhere?",0.2777777777777778
-"Whether it's for her, or for you.",君自身のためか,For yourself,0.1
-"You're so good, Tsumugi-chan!",（ゆうか）つむぎちゃん 上手,Tsumugi-chan good,0.2857142857142857
-You're so good!,（ハナ）上手,good,0.2
-What's that? Poop?,（ミキオ）何だこれ？ うんこか？,What is this?Hmmm?,0.25
+Isn't it somewhere?",0.2777777777777778,0.43817046
+"Whether it's for her, or for you.",君自身のためか,For yourself,0.1,0.5186113
+"You're so good, Tsumugi-chan!",（ゆうか）つむぎちゃん 上手,Tsumugi-chan good,0.2857142857142857,0.819985
+You're so good!,（ハナ）上手,good,0.2,0.3115554
+What's that? Poop?,（ミキオ）何だこれ？ うんこか？,What is this?Hmmm?,0.25,0.36287686
 No!,"（つむぎ）違う！
-（ミキオ）うっ",is different!,0.25
-"Look, Daddy!",（つむぎ）見て！ おとさん,look!father,0.4
-Um...,えっと…,Well ...,0.3333333333333333
-Is that a park?,公園… かな？,Park ... is it?,0.42857142857142855
+（ミキオ）うっ",is different!,0.25,0.35242668
+"Look, Daddy!",（つむぎ）見て！ おとさん,look!father,0.4,0.8247508
+Um...,えっと…,Well ...,0.3333333333333333,0.56966674
+Is that a park?,公園… かな？,Park ... is it?,0.42857142857142855,0.8013382
 "It's a Hamburg steak with egg on top \Nthat Daddy worked really hard to make,","おとさんが 必死で作った
 目玉焼きのせハンバーグを—","Oto made desperately
-Hamburg with fried eggs-",0.09090909090909091
-So...,すると…,Then ...,0.3333333333333333
-"This is you,",これが つむぎで,This is Tsumugi,0.4
-and this is Daddy?,これは？,this is?,0.6
-Kotori-chan!,（つむぎ）小鳥ちゃん,Tobird-chan,0.0
-"It's cool,",ここ 小鳥ちゃんちだよ,It's a little bird-chan,0.2857142857142857
-"I looked good, huh?",いい感じでしたか,Was it good?,0.25
-"The food was good, too!",おとさんも いい感じでしたしね,It was good feeling too,0.3333333333333333
-"I see. You like it, huh?",そうか 好きなんだ,I like it,0.3333333333333333
-Yup!,つむぎ あそこ好き！,Tsumugi likes!,0.25
+Hamburg with fried eggs-",0.09090909090909093,0.5766231
+So...,すると…,Then ...,0.3333333333333333,0.5634391
+"This is you,",これが つむぎで,This is Tsumugi,0.4,0.24561396
+and this is Daddy?,これは？,this is?,0.6,0.36318392
+Kotori-chan!,（つむぎ）小鳥ちゃん,Tobird-chan,0.0,0.55973274
+"It's cool,",ここ 小鳥ちゃんちだよ,It's a little bird-chan,0.2857142857142857,0.20897326
+"I looked good, huh?",いい感じでしたか,Was it good?,0.25,0.41654858
+"The food was good, too!",おとさんも いい感じでしたしね,It was good feeling too,0.3333333333333333,0.5281375
+"I see. You like it, huh?",そうか 好きなんだ,I like it,0.3333333333333333,0.5133565
+Yup!,つむぎ あそこ好き！,Tsumugi likes!,0.25,0.1688374
 "You drew a picture of something you like,","せっかく 好きなところの
 絵を描いたんだから—","I love you
-Because I drew a picture-",0.25
-so you should write your name on it.,ちゃんと 名前 書いておこうか,Let's write a name properly,0.15384615384615385
-Do you come here often?,（公平）ここ よく来るんですか？,Do you come here well?,0.7142857142857143
-Almost every day.,（小鳥）ほぼ 毎日です,Almost every day,0.75
-Not many people come here.,（小鳥）人があんまり来ないんで,people don't come so much,0.2
+Because I drew a picture-",0.25,0.6101866
+so you should write your name on it.,ちゃんと 名前 書いておこうか,Let's write a name properly,0.15384615384615385,0.5056
+Do you come here often?,（公平）ここ よく来るんですか？,Do you come here well?,0.7142857142857143,0.72606325
+Almost every day.,（小鳥）ほぼ 毎日です,Almost every day,0.75,0.96666384
+Not many people come here.,（小鳥）人があんまり来ないんで,people don't come so much,0.2,0.69554853
 Um... Am I not allowed to?,"ああ すみません
 驚かすつもりは…","Oh sorry
-I am surprised ...",0.2727272727272727
-"Oh, no.",（公平）ああ いや　構いませんよ,"Oh, I don't think",0.25
-About what we discussed before...,この前の話ですが…,It is a story before this ...,0.18181818181818182
-About making food to eat at your restaurant.,（公平）ごはんを作って食べる話,Talk to make rice and eat,0.15384615384615385
-Yes?,あっ… はい,Oh ... yes,0.25
+I am surprised ...",0.2727272727272727,0.31969473
+"Oh, no.",（公平）ああ いや　構いませんよ,"Oh, I don't think",0.25,0.4123228
+About what we discussed before...,この前の話ですが…,It is a story before this ...,0.18181818181818185,0.47682637
+About making food to eat at your restaurant.,（公平）ごはんを作って食べる話,Talk to make rice and eat,0.15384615384615385,0.2957941
+Yes?,あっ… はい,Oh ... yes,0.25,0.5579005
 I'd like to meet with your mother and discuss it.,"（公平）一度 お母様にお会いして
 話したいのですが","I met my mother once
-I want to talk",0.17647058823529413
+I want to talk",0.17647058823529413,0.6888297
 Tell me a day when she's free.,"お母様のご都合のいい日を
 教えてください","Mother's convenient day
-teach me please",0.23076923076923078
-There's no hurry...,えっ？ あっ いや…,eh?No ...,0.2857142857142857
-My mom will be home tonight!,（小鳥）今夜なら 母はいます,Mother is tonight tonight,0.1111111111111111
-"No, I just want to talk.",いえ　私はお話を,"No, I talk",0.5
-"Feel free to bring Tsumugi-chan, too!",つむぎちゃんと一緒に 是非！,Come together with Tsumugi-chan!,0.18181818181818182
+teach me please",0.2307692307692308,0.40760192
+There's no hurry...,えっ？ あっ いや…,eh?No ...,0.2857142857142857,0.16296238
+My mom will be home tonight!,（小鳥）今夜なら 母はいます,Mother is tonight tonight,0.1111111111111111,0.70728177
+"No, I just want to talk.",いえ　私はお話を,"No, I talk",0.5,0.7635412
+"Feel free to bring Tsumugi-chan, too!",つむぎちゃんと一緒に 是非！,Come together with Tsumugi-chan!,0.18181818181818185,0.8322846
 What does Tsumugi-chan like to eat?,"つむぎちゃんの好きな料理は
 何ですか？","Tsumugi-chan's favorite food
-What is it?",0.25
+What is it?",0.25,0.91609657
 Things like Hamburg steak and spaghetti...,"あっ ハンバーグとか
 スパゲティですが","Hamburg or
-Spaghetti",0.25
-My mom's Hamburg steak is delicious!,母のハンバーグは おいしいです！,Mother's hamburger is delicious!,0.4
-"Tsumugi,",（公平）つむぎ,Tsumugi,0.5
-The light of hope...,（公平）確か… こっちの,Certain ...,0.16666666666666666
-Leaving?,（つむぎ）お出かけ？,?,0.5
-We're here!,（つむぎ）ハッ！ ハァ ヒッ！,Ha!Hi Hi!,0.16666666666666666
-Excuse me.,失礼します,Excuse me,0.6666666666666666
-"Kotori-chan, are you the person \Nwho says, ""Welcome""?",“いらっしゃいませ”してる人？,"""I'm sorry""?",0.2
-She got a sudden work call.,（小鳥）それが… 急な仕事で,That's ... in a steep work,0.16666666666666666
-I have a letter from her here.,ここに 母の手紙が,Mother's letter here,0.2
+Spaghetti",0.25,0.7644478
+My mom's Hamburg steak is delicious!,母のハンバーグは おいしいです！,Mother's hamburger is delicious!,0.4,0.7600067
+"Tsumugi,",（公平）つむぎ,Tsumugi,0.5,0.96911263
+The light of hope...,（公平）確か… こっちの,Certain ...,0.16666666666666666,0.2522825
+Leaving?,（つむぎ）お出かけ？,?,0.5,0.32643643
+We're here!,（つむぎ）ハッ！ ハァ ヒッ！,Ha!Hi Hi!,0.16666666666666666,0.32430413
+Excuse me.,失礼します,Excuse me,0.6666666666666666,0.8863532
+"Kotori-chan, are you the person \Nwho says, ""Welcome""?",“いらっしゃいませ”してる人？,"""I'm sorry""?",0.2,0.20587575
+She got a sudden work call.,（小鳥）それが… 急な仕事で,That's ... in a steep work,0.16666666666666666,0.24728207
+I have a letter from her here.,ここに 母の手紙が,Mother's letter here,0.2,0.67191535
 Should I have had her \Nseal it with blood instead?,"（小鳥）
-血判の方がよかったですか？",Is it good with a bloody?,0.2
-Blood?,ぼいん？,?,0.5
-That's not the problem.,そういう問題ではありません,It is not such a problem,0.2
+血判の方がよかったですか？",Is it good with a bloody?,0.2,0.48267102
+Blood?,ぼいん？,?,0.5,0.23693596
+That's not the problem.,そういう問題ではありません,It is not such a problem,0.2,0.6713395
 Will you at least eat dinner before you go?,"ごはんだけでも
 食べていきませんか？","Even rice
-Would you like to eat?",0.21428571428571427
-Dinner!,（つむぎ）ごはん！,rice!,0.3333333333333333
+Would you like to eat?",0.21428571428571427,0.497925
+Dinner!,（つむぎ）ごはん！,rice!,0.3333333333333333,0.5470636
 What is it?,"（つむぎ）何 何？
 （公平）ああ！","What?
- Oh!",0.3333333333333333
-"No, no.",あー いやいや,Oh yeah,0.0
-"Tsumugi, you can't...",（公平）あぁ…,Oh ...,0.14285714285714285
-Daddy!,（つむぎ）おとさん,Oto,0.0
-Look at me!,（つむぎ）見て見て〜,look at it,0.4
-What are we making for dinner?,（つむぎ）ごはん 何作るの？,What do you make?,0.2
-Pork soup and Hamburg steak.,豚汁とハンバーグです,It is pork juice and hamburger,0.2
-Hamburg! Hamburg! Hamburg!,ハンバーグ ハンバーグ…,Hamburg hamburger ...,0.25
-Won't you eat before you go?,食べていきませんか？,Would you like to eat?,0.3
-Pork soup! Pork soup! Pork soup!,（つむぎ）豚汁 豚汁　豚汁！,pork soup pork soup!,1.0
+ Oh!",0.3333333333333333,0.2764495
+"No, no.",あー いやいや,Oh yeah,0.0,0.31069782
+"Tsumugi, you can't...",（公平）あぁ…,Oh ...,0.14285714285714285,0.14830618
+Daddy!,（つむぎ）おとさん,Oto,0.0,0.30147773
+Look at me!,（つむぎ）見て見て〜,look at it,0.4,0.62943614
+What are we making for dinner?,（つむぎ）ごはん 何作るの？,What do you make?,0.2,0.47778213
+Pork soup and Hamburg steak.,豚汁とハンバーグです,It is pork juice and hamburger,0.2,0.6586299
+Hamburg! Hamburg! Hamburg!,ハンバーグ ハンバーグ…,Hamburg hamburger ...,0.25,0.8039094
+Won't you eat before you go?,食べていきませんか？,Would you like to eat?,0.3,0.57796097
+Pork soup! Pork soup! Pork soup!,（つむぎ）豚汁 豚汁　豚汁！,pork soup pork soup!,1.0,0.93675274
 So what do we do?,"（公平）で…
 どうしたら いいんでしょうか？","...
-What should he do?",0.375
-I had my mom write out the recipe.,母に レシピを書いてもらいました,I wrote a recipe to my mother,0.23076923076923078
-It looks like a picture book...,絵本… みたいですね,It looks like a picture book ...,1.0
+What should he do?",0.375,0.28859198
+I had my mom write out the recipe.,母に レシピを書いてもらいました,I wrote a recipe to my mother,0.2307692307692308,0.8866195
+It looks like a picture book...,絵本… みたいですね,It looks like a picture book ...,1.0,1.0000001
 I told her there'd be a young child.,"（小鳥）
-小さい子がいると伝えたので",Because she said that there was a small child,0.1875
-A picture book? Let me see!,（つむぎ）絵本？ 見せて見せて〜,picture book?Show me and show me ~,0.36363636363636365
+小さい子がいると伝えたので",Because she said that there was a small child,0.1875,0.5883313
+A picture book? Let me see!,（つむぎ）絵本？ 見せて見せて〜,picture book?Show me and show me ~,0.3636363636363637,0.7615137
 "Rice, pork soup,","（公平）
-ごはん 豚汁 ハンバーグ",Rice pork juice hamburger,0.3333333333333333
-Onions?,（つむぎ）ん？,?,0.5
+ごはん 豚汁 ハンバーグ",Rice pork juice hamburger,0.3333333333333333,0.5761977
+Onions?,（つむぎ）ん？,?,0.5,0.28503463
 Could we even eat all this?,"こんなに作っても
 食べきれますかね？","Even if you make this kind
-Can you eat it?",0.3076923076923077
-Frying pan?,フライパン？,Fry pan?,0.5
-"Oh, the rice is ready to cook.",あっ ごはんの準備は出来てます,Ready for rice is ready,0.3
-Let's start with the pork soup.,まず 豚汁からいきましょう,"First of all, let's go from pork juice",0.2
+Can you eat it?",0.3076923076923077,0.5854686
+Frying pan?,フライパン？,Fry pan?,0.5,0.94706017
+"Oh, the rice is ready to cook.",あっ ごはんの準備は出来てます,Ready for rice is ready,0.3,0.86286575
+Let's start with the pork soup.,まず 豚汁からいきましょう,"First of all, let's go from pork juice",0.2,0.688371
 Cutting the vegetables and making \Nthe preparations will take time.,"野菜切ったり 下ごしらえに
 手間がかかりますし","Vegetable breakage or lower
-It takes time and effort",0.1111111111111111
-So many veggies!,野菜が たくさ〜ん！,Vegetables are tough!,0.14285714285714285
-You're putting all this in?,そんなに 入れるんですか？,Will you get so much?,0.18181818181818182
-It's... a present.,（公平）プレゼント… だよ,present ...,0.3333333333333333
-"If you don't help,",一緒に やってもらわないと—,If you do not do it together-,0.3333333333333333
-Taste-tester?,味見？,Taste?,0.3333333333333333
-Then please cut them with me.,なら 一緒にお願いしますよ,Then please contact me,0.375
+It takes time and effort",0.1111111111111111,0.6096445
+So many veggies!,野菜が たくさ〜ん！,Vegetables are tough!,0.14285714285714285,0.6206356
+You're putting all this in?,そんなに 入れるんですか？,Will you get so much?,0.18181818181818185,0.29903358
+It's... a present.,（公平）プレゼント… だよ,present ...,0.3333333333333333,0.7478373
+"If you don't help,",一緒に やってもらわないと—,If you do not do it together-,0.3333333333333333,0.34268522
+Taste-tester?,味見？,Taste?,0.3333333333333333,0.5706303
+Then please cut them with me.,なら 一緒にお願いしますよ,Then please contact me,0.375,0.47125003
 "I'm not very good either, but that's \Nnothing to be embarrassed about.","できないことは
 恥ずかしいことじゃないですよ","What can not be done
-It's not embarrassing",0.14285714285714285
-I'm scared of knives.,刃物 怖いんです,I'm scared of the blade,0.5
-"There was a knife monster in Magi-Girl, \Nand he was scary, wasn't he?",私… 包丁って怖いんです,I ... a knife is scary,0.1875
+It's not embarrassing",0.14285714285714285,0.46834573
+I'm scared of knives.,刃物 怖いんです,I'm scared of the blade,0.5,0.7437003
+"There was a knife monster in Magi-Girl, \Nand he was scary, wasn't he?",私… 包丁って怖いんです,I ... a knife is scary,0.1875,0.5201455
 Did you want someone who could \Ncut the vegetables for you?,"包丁で 材料を切ってくれる人が
 欲しかったんですか？","People who cut materials with a knife
-Did you want?",0.29411764705882354
-I know that if I could do it myself...,私が自分でできれば—,If I can do myself-,0.2727272727272727
-"You looked like you were \Nhaving trouble yourself,",先生も 困ってたみたいだし,It looks like the teacher also had trouble,0.14285714285714285
+Did you want?",0.29411764705882354,0.2999872
+I know that if I could do it myself...,私が自分でできれば—,If I can do myself-,0.2727272727272727,0.7202302
+"You looked like you were \Nhaving trouble yourself,",先生も 困ってたみたいだし,It looks like the teacher also had trouble,0.14285714285714285,0.41144866
 It feels like I'm using you.,"利用しようとしたみたいで
 ごめんなさい","It looks like you tried to use
-sorry",0.23076923076923078
-"Oh, no...",ああ いえ,Oat,0.0
+sorry",0.2307692307692308,0.35058597
+"Oh, no...",ああ いえ,Oat,0.0,0.09542927
 """Tear the konnyaku apart with \Nyour hands and parboil it.""","こんにゃくは
 手で ちぎって下ゆで","Konnyaku
-It is a child with a hand",0.17647058823529413
-That's right.,（小鳥）あっ はい,Yes,0.0
-"I'll do it, too!",つむぎも やるぅ！,Tsumugi also do!,0.2222222222222222
+It is a child with a hand",0.17647058823529413,0.62201357
+That's right.,（小鳥）あっ はい,Yes,0.0,0.22204632
+"I'll do it, too!",つむぎも やるぅ！,Tsumugi also do!,0.2222222222222222,0.20101176
 You've got an apron on.,"そうだな
 せっかくエプロンしてるし","Yes
-I'm an apron",0.2
-Maybe I'll have you help.,手伝ってもらおうかな,I wonder if I can help,0.2
-"How about you help, too?",君もどうですか？,How about you?,0.5714285714285714
-Sticky!,（つむぎ）むちむち〜 むにむに〜,Muchimuchi ~,0.0
+I'm an apron",0.2,0.72071195
+Maybe I'll have you help.,手伝ってもらおうかな,I wonder if I can help,0.2,0.58843434
+"How about you help, too?",君もどうですか？,How about you?,0.5714285714285714,0.553508
+Sticky!,（つむぎ）むちむち〜 むにむに〜,Muchimuchi ~,0.0,0.25542337
 Squishy...,"（公平）あの…
 むしろ すっきりしました","That ...
-Rather clean",0.2
-I wasn't sure,（公平）確かに 困ってたんです,I'm sure I was troubled,0.5
+Rather clean",0.2,0.27674246
+I wasn't sure,（公平）確かに 困ってたんです,I'm sure I was troubled,0.5,0.32954565
 if I could make good food for \NTsumugi to eat on my own.,"食べさせて
 あげられるんだろうかって","Let to eat
-You can give it up",0.1
+You can give it up",0.1,0.32721606
 "So, um...","だから ある程度
 利害の一致… というか","So some extent
-Match of interest ...",0.2222222222222222
-"When I saw them, I felt really relieved.",見つけた時 とても安心したんです,I was very relieved when I found it,0.23076923076923078
-Help each other?,利害？,Interests?,0.2
+Match of interest ...",0.2222222222222222,0.32311815
+"When I saw them, I felt really relieved.",見つけた時 とても安心したんです,I was very relieved when I found it,0.2307692307692308,0.5443882
+Help each other?,利害？,Interests?,0.2,0.17689458
 I like this one! Can I? Can I?!,"これこれ！
 いいの？ いいの？","This is this!
-okay?okay?",0.3333333333333333
-I can't...,（つむぎ）う〜ん…,...,0.25
-Maybe it's still a little hard.,（小鳥）まだ ちょっと硬いかな,Still a little hard,0.5
+okay?okay?",0.3333333333333333,0.41258106
+I can't...,（つむぎ）う〜ん…,...,0.25,0.41672385
+Maybe it's still a little hard.,（小鳥）まだ ちょっと硬いかな,Still a little hard,0.5,0.7470954
 Daddy! Make it thinner!,"（つむぎ）
-おとさん もっと薄くして",Make it thinner,0.6
-"It brings out more flavor, apparently.",うまみが出るらしいです,It seems that Umami will come out,0.15384615384615385
-What about the meat?,（公平）お肉は？,What is meat?,0.5
-Cooking is...,お肉は 湯通ししましょう,Meat is hot spring,0.16666666666666666
-I know what you mean!,ああ 分かります,Oh I understand,0.125
-Daddy cuts!,（つむぎ）おとさん 切る人,People who cut off,0.0
-Kotori-chan tastes!,小鳥ちゃん 味の人,Little bird-chan,0.0
-And Tsumugi makes the menu!,つむぎ メニューの人ね,People of Tsumugi Menu,0.25
-The menu?,（小鳥）メニュー？,menu?,0.6666666666666666
-Squid?,イカ？,squid?,1.0
-Bring me a table!,ちょちょ テープ持ってきて,Come on tape,0.0
+おとさん もっと薄くして",Make it thinner,0.6,0.77204305
+"It brings out more flavor, apparently.",うまみが出るらしいです,It seems that Umami will come out,0.15384615384615385,0.2514269
+What about the meat?,（公平）お肉は？,What is meat?,0.5,0.70867646
+Cooking is...,お肉は 湯通ししましょう,Meat is hot spring,0.16666666666666666,0.47079346
+I know what you mean!,ああ 分かります,Oh I understand,0.125,0.36937037
+Daddy cuts!,（つむぎ）おとさん 切る人,People who cut off,0.0,0.3553726
+Kotori-chan tastes!,小鳥ちゃん 味の人,Little bird-chan,0.0,0.4497315
+And Tsumugi makes the menu!,つむぎ メニューの人ね,People of Tsumugi Menu,0.25,0.753401
+The menu?,（小鳥）メニュー？,menu?,0.6666666666666666,0.9322165
+Squid?,イカ？,squid?,1.0,1.0000004
+Bring me a table!,ちょちょ テープ持ってきて,Come on tape,0.0,0.29195938
 "Tsumugi, you can't put that \Nup without permission.","（小鳥）どうぞ
 （つむぎ）ありがとう","please
-Thank you",0.07692307692307693
+Thank you",0.07692307692307693,0.110079356
 I'll take it down when we leave.,"（公平）
-つむぎ 勝手に貼っちゃダメだよ",I'm sorry I put it on my own,0.13333333333333333
-We cut the ingredients and put up the menu.,材料切って メニューも貼れました,I cut the material and paste the menu,0.3333333333333333
-Now it's your turn.,あとは 君の番ですね,After that is your turn,0.2222222222222222
-"You're the taster, right?",え？,picture?,0.125
+つむぎ 勝手に貼っちゃダメだよ",I'm sorry I put it on my own,0.13333333333333333,0.32325807
+We cut the ingredients and put up the menu.,材料切って メニューも貼れました,I cut the material and paste the menu,0.3333333333333333,0.595713
+Now it's your turn.,あとは 君の番ですね,After that is your turn,0.2222222222222222,0.6324969
+"You're the taster, right?",え？,picture?,0.125,0.23368755
 Adding flavor is the part I'm worst at.,"僕は 味付けが
 いちばん下手なんです","I have seasoned
-I'm the best",0.23076923076923078
-Yes...,ええ,Yes,0.5
-So the recipe is just a guideline.,分量は あくまで目安としてで,The amount is just a guide,0.4
+I'm the best",0.2307692307692308,0.29276457
+Yes...,ええ,Yes,0.5,0.62611324
+So the recipe is just a guideline.,分量は あくまで目安としてで,The amount is just a guide,0.4,0.50561297
 "You flavor it little by little, like this.","こうやって
 ちょっとずつ 味を調えましょう","like this
-Let's adjust the taste a little",0.2
-I like about this much.,私 これくらいが好きです,I like this,0.5
-It's good.,ごはんにしましょうか,Let's do it,0.3333333333333333
-Shall we eat?,（小鳥･公平）ん？,?,0.25
-'Kay!,あい！,love!,0.3333333333333333
-Yummy!,おいひぃ〜,Hey,0.0
+Let's adjust the taste a little",0.2,0.66865754
+I like about this much.,私 これくらいが好きです,I like this,0.5,0.5566897
+It's good.,ごはんにしましょうか,Let's do it,0.3333333333333333,0.30392945
+Shall we eat?,（小鳥･公平）ん？,?,0.25,0.15321535
+'Kay!,あい！,love!,0.3333333333333333,0.31502438
+Yummy!,おいひぃ〜,Hey,0.0,0.22290337
 Sensei!,"（つむぎ）おとさん
 （小鳥）先生","Oto
- teacher",0.0
-Make sure you blow on it first.,おいしい だよ,It is delicious,0.1
-"They're so warm and delicious, right?",じゃがいも おいしいですね,Potato is delicious,0.09090909090909091
-Rice and pork soup are fantastic together!,米と豚汁のすばらしさよ〜,Rice and pork juice,0.3333333333333333
-Fantastic together!,あ〜あっ！,Oh!,0.25
+ teacher",0.0,0.2575195
+Make sure you blow on it first.,おいしい だよ,It is delicious,0.1,0.1414081
+"They're so warm and delicious, right?",じゃがいも おいしいですね,Potato is delicious,0.09090909090909093,0.42597932
+Rice and pork soup are fantastic together!,米と豚汁のすばらしさよ〜,Rice and pork juice,0.3333333333333333,0.6787339
+Fantastic together!,あ〜あっ！,Oh!,0.25,0.25383955
 We'll leave at 8:00.,"（公平）
-あっ 僕らは８時には帰ります",Oh we will return at 8 o'clock,0.18181818181818182
-I need to get Tsumugi to bed.,（公平）つむぎを寝かせないと,I have to go to bed,0.3333333333333333
+あっ 僕らは８時には帰ります",Oh we will return at 8 o'clock,0.18181818181818185,0.74991465
+I need to get Tsumugi to bed.,（公平）つむぎを寝かせないと,I have to go to bed,0.3333333333333333,0.40570506
 "Hamburg steak, and omelet rice,","ハンバーグとオムライスと
 ミートボールのやつとかもいいね","Hamburg and omelet
-Meatball guy is also good",0.2727272727272727
-"With Kotori-chan, too!",ね〜っ！,Hey!,0.16666666666666666
-I...,私は…,I am…,0.3333333333333333
-Next time?,次？,Next?,0.6666666666666666
+Meatball guy is also good",0.2727272727272727,0.62133366
+"With Kotori-chan, too!",ね〜っ！,Hey!,0.16666666666666666,0.10690935
+I...,私は…,I am…,0.3333333333333333,0.3277475
+Next time?,次？,Next?,0.6666666666666666,0.7355949
 "I want to decide on some rules, \Nas well as times,","（公平）時間の他に いろいろと
 決まり事を決めたいですけど—","Other than time
-I want to decide the rule-",0.23529411764705882
+I want to decide the rule-",0.2352941176470588,0.7896899
 It's fun to scramble around \Nand make things here.,"ここで バタバタしながら作るのは
 楽しいですし","Here is how to make it while playing
-It is fun",0.3333333333333333
-"And more than anything, \Nit makes Tsumugi happy.",何より つむぎが喜びます,Meeting more than anything is delighted,0.23076923076923078
+It is fun",0.3333333333333333,0.4044748
+"And more than anything, \Nit makes Tsumugi happy.",何より つむぎが喜びます,Meeting more than anything is delighted,0.2307692307692308,0.27920252
 Thank you very much!,"（つむぎ）
-よろしくお願いしますぅ〜",Thank you very much,0.8
+よろしくお願いしますぅ〜",Thank you very much,0.8,0.8636084

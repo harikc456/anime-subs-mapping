@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.7113179
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.86280525
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207105
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.65410954
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.38045898
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851642
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.40009782
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.5800125
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.3699327
 "I've done it!
 The water is turning!","(ﾅﾙﾄ)
 やった！
@@ -106,7 +106,7 @@ The water is turning!","(ﾅﾙﾄ)
 
 ","Hooray!
  
-Water is around!",0.2727272727272727
+Water is around!",0.2727272727272727,0.610979
 "It seems it's going to be easier
 than I thought to break it.","こりゃ
  
@@ -116,7 +116,7 @@ than I thought to break it.","こりゃ
 ","In case
  
 more than I thought
-It's easy to break!",0.4117647058823529
+It's easy to break!",0.4117647058823529,0.647934
 "Then I'll go take a little rest
 until it's done... with this.","(
 自来也
@@ -141,7 +141,7 @@ A little
  
 Do you go with a break
 .
-➡",0.2608695652173913
+➡",0.2608695652173913,0.30055586
 Hey! What is that?!,"あ～！
  
 何だよ？
@@ -152,13 +152,13 @@ Hey! What is that?!,"あ～！
  
 What?
  
-That!",0.5714285714285714
+That!",0.5714285714285714,0.40189412
 "I need it to kill the time.
 And also to get some sleep.","暇つぶしには必要なんでのう
 ｡
 
 ","It is necessary to kill time
-.",0.3333333333333333
+.",0.3333333333333333,0.54821897
 "Is that so...?
 Call me when it is broken.","そうかの？
  
@@ -168,17 +168,17 @@ Call me when it is broken.","そうかの？
 ","Is it so?
  
 If broken
-Shall we ask me?",0.4
+Shall we ask me?",0.4,0.66427726
 Just wait!,"待ってろ～！
  
 ヘン！
 
 ","Wait!
  
-Weird!",0.5
+Weird!",0.5,0.44328907
 Oh man! Why doesn't it break!,"何で割れないんだってばよ！
 
-",What can not break!,0.18181818181818182
+",What can not break!,0.18181818181818185,0.67834866
 Huh? Are you done with it?,"(
 自来也
 )
@@ -194,7 +194,7 @@ Huh? Are you done with it?,"(
 Ah…
 Oh
  
-Did you do it?",0.25
+Did you do it?",0.25,0.4773276
 Oh boy...,"ハァ
  
 ハァ
@@ -207,13 +207,13 @@ Oh boy...,"ハァ
 Han
  
 Hua ...
-.",0.16666666666666666
+.",0.16666666666666666,0.116663136
 "It seems like I went beyond
 an afternoon nap and had a deep sleep.","熟睡しちまったようだのう
 ｡
 
 ","It seems that it seems to be a deep sleep
-.",0.3333333333333333
+.",0.3333333333333333,0.6589505
 "Hey, hey... how do I break it?","あのさ…
  
 あのさ！
@@ -222,7 +222,7 @@ an afternoon nap and had a deep sleep.","熟睡しちまったようだのう
 ","That's ...
  
 Ah!
-How do you break it?",0.42857142857142855
+How do you break it?",0.42857142857142855,0.7700109
 "All right, I understand...","ヘッ
  
 分かったわい
@@ -233,13 +233,13 @@ How do you break it?",0.42857142857142855
  
 I understand
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.36075222
 "Naturally, you're supposed to realize it
 through trial and error","本来なら試行錯誤しながら
 自分で気付き➡
 
 ","In principle, while trial and error
-I will notice myself",0.21052631578947367
+I will notice myself",0.21052631578947367,0.71296936
 "You, try rotating the water!","お前
  
 ちょっと
@@ -250,7 +250,7 @@ I will notice myself",0.21052631578947367
  
 A little
 Rotate the water
-.",0.2727272727272727
+.",0.2727272727272727,0.86426634
 "Right or left... which direction did you
 imagine when you rotate it?","右と左
  
@@ -260,7 +260,7 @@ imagine when you rotate it?","右と左
 ","Right and left
  
 Which one rotation
-Did you turn it?",0.4117647058823529
+Did you turn it?",0.4117647058823529,0.79852074
 "Hmm... well, to the left...","ん？
  
 んっと…
@@ -271,7 +271,7 @@ Did you turn it?",0.4117647058823529
  
 ...
  
-Left, though?",0.3
+Left, though?",0.3,0.65936047
 "Hey, come over here.","ちょい
  
 こっち来てみ
@@ -284,7 +284,7 @@ Left, though?",0.3
 Let's come here
 .
 Yes
-.",0.3
+.",0.3,0.42524666
 You are in fact a right rotation type.,"やっぱり
  
 お前は
@@ -295,27 +295,27 @@ You are in fact a right rotation type.,"やっぱり
  
 You are
 It was a right rotation type
-.",0.5
+.",0.5,0.8147954
 Right?,"右？
 チャクラを練るには➡
 
 ","right?
-To knead chakra",0.4
+To knead chakra",0.4,0.17226334
 it is necessary to blend the energy...,"エネルギーを
 混ぜ合わせる必要があるから➡
 
 ","Energy
-Because it is necessary to mix",0.5
+Because it is necessary to mix",0.5,0.7434193
 "Right Left
 Whether the rotation at that point
 is to the right or to the left","回転の向きが
 右なのか左なのかは➡
 
 ","The direction of rotation is
-The right or left is it?",0.4
+The right or left is it?",0.4,0.9039118
 differs in the individual.,"誰でも無意識に体内で回転させ➡
 
-",Anyone rotates in the body unconsciously,0.2222222222222222
+",Anyone rotates in the body unconsciously,0.2222222222222222,0.1518661
 "opposite to that of your rotation type
 in this training,","この修業では
  
@@ -323,7 +323,7 @@ in this training,","この修業では
 
 ","In this study
  
-My rotary type and ➡",0.1875
+My rotary type and ➡",0.1875,0.44301975
 your Chakra flow divides and resists,"チャクラの流れが
 分断
  
@@ -332,7 +332,7 @@ your Chakra flow divides and resists,"チャクラの流れが
 ","Chakra flow
 Division
  
-Reproduction ➡➡",0.2222222222222222
+Reproduction ➡➡",0.2222222222222222,0.7325523
 "and the momentum of
 the rotation does not get on track.","回転が
  
@@ -342,7 +342,7 @@ the rotation does not get on track.","回転が
 ","Rotation
  
 Do not get rid of it
-.",0.35714285714285715
+.",0.35714285714285715,0.6796679
 "But how did you figure out that
 I'm a right type so fast?","でもさ
  
@@ -360,19 +360,19 @@ But!
 why
  
 straight away
-Did I understand the right type?",0.2727272727272727
+Did I understand the right type?",0.2727272727272727,0.30976352
 "It's pretty much determined that you're
 a right type if a whorl rolls to the right","つむじの巻き方が
 右巻きなら右タイプ➡
 
 ","How to wind up
-Right type if right winding",0.21052631578947367
+Right type if right winding",0.21052631578947367,0.43818203
 "and you're a left type
 if it rolls to the left.","左巻きなら左タイプに分かれる
 ｡
 
 ","Divide into the left type if left winding
-.",0.3333333333333333
+.",0.3333333333333333,0.50408715
 It's simple.,"簡単だのう
 ｡
 ふ～ん
@@ -381,7 +381,7 @@ It's simple.,"簡単だのう
 ","It's easy
 .
 Fur
-.",0.5
+.",0.5,0.43114975
 "Yes, so if you want to rotate it,
 you have to imagine a right rotation.","(
 自来也
@@ -396,7 +396,7 @@ you have to imagine a right rotation.","(
  
 So if you go
 I have to imagine the right rotation
-.",0.47368421052631576
+.",0.4736842105263158,0.41655606
 But this Jutsu is just the one for you.,"だが
  
 この術は
@@ -407,7 +407,7 @@ But this Jutsu is just the one for you.,"だが
  
 This technique
 It is the art of coming to you
-.",0.375
+.",0.375,0.28894415
 "Hand sign is completely unnecessary.
 All you need is Chakra.","チャクラだけあれば
 いいんだからのう
@@ -415,13 +415,13 @@ All you need is Chakra.","チャクラだけあれば
 
 ","If you have only Chakra
 Because it is good
-.",0.25
+.",0.25,0.6348747
 "There is no need to learn
 a finicky hand sign!","小難しい印を覚える必要がない
 ｡
 
 ","There is no need to remember a small mark
-.",0.4
+.",0.4,0.47462592
 It's okay to be stupid!,"ばかでＯＫ
 ｡
 俺は
@@ -432,7 +432,7 @@ It's okay to be stupid!,"ばかでＯＫ
 .
 I am
  
-It's stupid!",0.3333333333333333
+It's stupid!",0.3333333333333333,0.650891
 "I'm the man who's eventually going
 to become a Hokage!","俺はな
  
@@ -442,7 +442,7 @@ to become a Hokage!","俺はな
 ","I
  
 It is a man who will be fire shadow!
-Easy to notice!",0.2857142857142857
+Easy to notice!",0.2857142857142857,0.42958796
 "This Jutsu, I'll completely master it
 if I got three days!","こんな術
  
@@ -452,7 +452,7 @@ if I got three days!","こんな術
 ","This technique
  
 Three days, perfectly
-You're going to master!",0.3157894736842105
+You're going to master!",0.3157894736842105,0.5609192
 "This Jutsu is a Ninjutsu
 that the Fourth Hokage passed on to us.","この術は
  
@@ -464,10 +464,10 @@ that the Fourth Hokage passed on to us.","この術は
  
 That quartz eyebrow shadow
 It is ninjutsu left
-.",0.25
+.",0.25,0.5049416
 Huh?,"え？
 
-",picture?,0.3333333333333333
+",picture?,0.3333333333333333,0.39235988
 This Jutsu is second from the top,"この術の会得難易度は
 ６段階で上から２つ目
 ｡
@@ -476,14 +476,14 @@ This Jutsu is second from the top,"この術の会得難易度は
 ","The degree of difficulty of this technique
 The second step from the top
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.27858874
 "It's an A rank, super high level Ninjutsu.","Ａランク
 超高等忍術レベルだからのう
 ｡
 
 ","A rank
 Because it is an ultra-high ninjutsu level
-.",0.5
+.",0.5,0.8838479
 "In order to learn this move,
 there are three steps in the training.","四代目が
  
@@ -499,13 +499,13 @@ This technique
 To complete
  
 Three years
-.",0.3157894736842105
+.",0.3157894736842105,0.4097674
 "This ""Water Balloon Breaking""
 is the first step.","この水風船割りは第１段階だ
 ｡
 
 ","This water wind ship split is the first stage
-.",0.4
+.",0.4,0.45112476
 "<i>It took the genius Ninja,</i>
 <i>the Fourth Hokage...</i>","《あの天才忍者
  
@@ -513,10 +513,10 @@ is the first step.","この水風船割りは第１段階だ
 
 ","""That genius ninja
  
-The fourth generation ...",0.3125
+The fourth generation ...",0.3125,0.67043513
 <i>Three years...</i>,"《３年…》
 
-","""3 years ...""",0.2
+","""3 years ...""",0.2,0.6686434
 "Take care!
 I'm going to return to the town.","じゃあ
  
@@ -532,14 +532,14 @@ I already
  
 Go back to the city
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.47594702
 What will you do?,"お前は
  
 どうする？
 
 ","You are 
  
- what will you do?",0.8333333333333334
+ what will you do?",0.8333333333333334,0.80018884
 "<i>A rank in degree of difficulty</i>
 <i>in mastering...</i>","《会得難易度Ａランク
 ｡
@@ -547,11 +547,11 @@ What will you do?,"お前は
 
 ","""Measurement difficulty A rank
 .
-➡",0.1875
+➡",0.1875,0.627485
 "<i>The Ninjutsu left behind</i>
 <i>by the Fourth Hokage...</i>","四代目火影が残した忍術…》
 
-",Ninjutsu that the tertiary ignition left is left ...,0.25
+",Ninjutsu that the tertiary ignition left is left ...,0.25,0.5214373
 I'm not gonna go back yet!,"俺ってば
  
 まだ帰んない
@@ -560,7 +560,7 @@ I'm not gonna go back yet!,"俺ってば
 ","In case
  
 I do not come back yet
-.",0.2857142857142857
+.",0.2857142857142857,0.6363119
 So long... Don't go overboard with it.,"あとは
  
 自分でやってみろ
@@ -569,7 +569,7 @@ So long... Don't go overboard with it.,"あとは
 ","later
  
 Let's do it yourself
-.",0.21428571428571427
+.",0.21428571428571427,0.25912777
 "Now, what will happen?","さ～て
  
 どうなるかのう
@@ -578,19 +578,19 @@ Let's do it yourself
 ","Well
  
 What will happen
-.",0.375
+.",0.375,0.6549972
 It's something to be concerned about...,"気になるところだが…
 ｡
 
 ","I'm worried about ...
-.",0.16666666666666666
+.",0.16666666666666666,0.64659
 Mister!,"お～！
  
 サービス月間とな！
 
 ","Oh!
  
-Service monthly!",0.2
+Service monthly!",0.2,0.32555014
 This month is our special service month.,"どう？
  
 寄ってかない？
@@ -601,7 +601,7 @@ This month is our special service month.,"どう？
  
 Can't get lost?
 This month is a service month
-.",0.35714285714285715
+.",0.35714285714285715,0.5051395
 "Here you go, a stamp card!","来れば来るだけ
  
 お得よ！
@@ -618,14 +618,14 @@ Yes
  
 Stamp card
 .
-➡",0.25
+➡",0.25,0.7294124
 "I'll come, I'll come!","いっぱい
  
 サービスしちゃうわよ！
 
 ","full
  
-I'm sorry!",0.25
+I'm sorry!",0.25,0.3173198
 "Hey! Come on down, Shu!","(
 女性
 )
@@ -644,14 +644,14 @@ I'm sorry!",0.25
 Shu
  
 Get down
-.",0.3333333333333333
+.",0.3333333333333333,0.7552047
 "Hey, hey, where is the toilet?","ねぇねぇ
  
 トイレどこ？
 
 ","Hey
  
-Where is the toilet?",0.8571428571428571
+Where is the toilet?",0.8571428571428571,0.9806972
 <i>I don't have time to spend three years.</i>,"《俺ってば
  
 ３年もかけてる暇は
@@ -660,14 +660,14 @@ Where is the toilet?",0.8571428571428571
 ","""If I do
  
 Take time for three years
-Hey!""",0.2
+Hey!""",0.2,0.6249984
 Break! Break! Break!,"割れろ！
  
 割れろ割れろ！
 
 ","Break!
  
-Cracked broken!",0.5
+Cracked broken!",0.5,0.7946687
 Men are all naughty!,"アハハハ…！
 男は
  
@@ -676,20 +676,20 @@ Men are all naughty!,"アハハハ…！
 ","Ahahaha ...!
 men are
  
-Everyone is etched!",0.3
+Everyone is etched!",0.3,0.4718707
 What the?,"何だ？
 
-",What?,0.6666666666666666
+",What?,0.6666666666666666,0.663028
 I'm gonna eat now!,"いっただっきます！
 
-",I will come!,0.2222222222222222
+",I will come!,0.2222222222222222,0.45772842
 Oh dang it!,"あ～
  
 も～う！
 
 ","Oh ~
  
-Also!",0.3333333333333333
+Also!",0.3333333333333333,0.41684368
 "<i>He said that there's no need to form</i>
 <i>a hand signal, but...</i>","＜小難しい印を
 覚える必要がない
@@ -699,13 +699,13 @@ Also!",0.3333333333333333
 ","<Small sinks
 There is no need to remember
 .
-➡",0.2
+➡",0.2,0.18226546
 Hey! That's not your toy...,"…ったってなぁ》
 
-",... that's ...,0.375
+",... that's ...,0.375,0.31654516
 This is it!,"これだ！
 
-",This is it!,1.0
+",This is it!,1.0,0.9999998
 Uh... G-Good timing.,"う～…
  
 ちょ…
@@ -718,7 +718,7 @@ Uh... G-Good timing.,"う～…
 Cho ...
  
 Just right
-.",0.2222222222222222
+.",0.2222222222222222,0.15823932
 Water?,"水？
  
 フン
@@ -727,7 +727,7 @@ Water?,"水？
 ","water?
  
 Hung
-.",0.5
+.",0.5,0.6851375
 "Well, let's have you show it to me.","(
 自来也
 )
@@ -741,30 +741,30 @@ Hung
 Surely
  
 Let's show me
-.",0.35714285714285715
+.",0.35714285714285715,0.38381597
 All right! Watch it carefully!,"第１段階
  
 クリアだってばよ！
 
 ","First stage
  
-It's clear!",0.2
+It's clear!",0.2,0.39341444
 <i>Left hand?</i>,"(
 自来也
 )
 《左手？》
 
-","""left hand?""",0.3333333333333333
+","""left hand?""",0.3333333333333333,0.62679946
 Go!,"行け～！
 
-",Go!,1.0
+",Go!,1.0,0.99999994
 You're sleeping!,"あっ…
  
 寝てるし～！
 
 ","Ah…
  
-I'm sleeping!",0.2857142857142857
+I'm sleeping!",0.2857142857142857,0.7333794
 "Sorry, sorry.","(
 自来也
 )
@@ -786,7 +786,7 @@ sorry
  
 sorry
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.41790718
 "I'm tired from the days and nights
 of gathering information.","連日連夜の情報収集で
 疲れててのう
@@ -794,10 +794,10 @@ of gathering information.","連日連夜の情報収集で
 
 ","In the same day of information collection
 I'm tired
-.",0.4375
+.",0.4375,0.75693756
 <i>You still stink of alcohol too!</i>,"まだ酒臭ぇし》
 
-",I still sake sour,0.15384615384615385
+",I still sake sour,0.15384615384615385,0.4261701
 "<i>You rotate the water inside the water balloon</i>
 <i>that you hold in your left hand</i>","右手を何度も
  
@@ -811,12 +811,12 @@ I'm tired
 By the way
 It does not rotate the water inside
 .
-➡",0.18518518518518517
+➡",0.1851851851851852,0.6817122
 It's thanks to this guy!,"ふ～ん…
 こいつのおかげだってばよ！
 
 ","Fu ...
-It's thanks to this guy!",0.7777777777777778
+It's thanks to this guy!",0.7777777777777778,0.6086396
 "I realized after I saw this cat playing
 with the water balloon.","うんうん
  
@@ -826,27 +826,27 @@ with the water balloon.","うんうん
 ","Yes Yes
  
 I understand the tips well
-.",0.1875
+.",0.1875,0.008205343
 "Then it came to me like ""bingo!""","それで
  
 ピ～ンと来た！
 
 ","Like that
  
-I came with pa n!",0.2
+I came with pa n!",0.2,0.32265934
 How did it come like bingo?,"どう
  
 ピ～ンと来た？
 
 ","copper
  
-Have you come with pa?",0.16666666666666666
+Have you come with pa?",0.16666666666666666,0.13331313
 "The time when the Pervy Sage
 first showed me breaking it...","エロ仙人が最初に
 割って見せてくれた時➡
 
 ","Erotic Sennin first
-When you show me",0.2
+When you show me",0.2,0.2591873
 in the one same direction...,"俺ってば
  
 それまで
@@ -855,7 +855,7 @@ in the one same direction...,"俺ってば
 ","In case
  
 Until then
-In the same direction",0.4444444444444444
+In the same direction",0.4444444444444444,0.4774522
 "because the water inside was rotating
 in different directions.","中の水を
  
@@ -865,7 +865,7 @@ in different directions.","中の水を
 ","Water in
  
 In various directions
-Because it was turning",0.38461538461538464
+Because it was turning",0.38461538461538464,0.73819476
 "<i>to rotate it violently with one hand, but...</i>","(
 自来也
 )
@@ -877,7 +877,7 @@ Because it was turning",0.38461538461538464
 ","""not yet
  
 With one hand
-It is ➡ to rotate the chakra",0.2857142857142857
+It is ➡ to rotate the chakra",0.2857142857142857,0.5831514
 "<i>I suppose you thought it out</i>
 <i>in your own way.</i>","んで
  
@@ -893,7 +893,7 @@ I devised me
 If you try
  
 cracked
-.",0.15789473684210525
+.",0.15789473684210525,0.23811583
 "Anyhow...
 The first step is complete for now.","とりあえず
 第１段階は終了だのう
@@ -901,7 +901,7 @@ The first step is complete for now.","とりあえず
 
 ","for now
 The first stage is the end
-.",0.5
+.",0.5,0.51202035
 "Do you want to see it one more time?
 One more time!","んじゃあ
  
@@ -915,7 +915,7 @@ One more time!","んじゃあ
 one more time
 Do you show me?
  
-one more time!",0.5
+one more time!",0.5,0.51408184
 <i>But the next one won't be like this!</i>,"だが
  
 次は
@@ -924,7 +924,7 @@ one more time!",0.5
 ","But
  
 next
-I'm not like this",0.3125
+I'm not like this",0.3125,0.49697116
 "Okay. Now, we will proceed
 to the second step.","(
 自来也
@@ -939,10 +939,10 @@ to the second step.","(
  
 In
 From now on to the second stage
-.",0.29411764705882354
+.",0.29411764705882354,0.3939469
 Yeah!,"あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.5586661
 "Rubber ball?
 Something like this again?!","ゴムボール？
  
@@ -956,7 +956,7 @@ Something like this again?!","ゴムボール？
 Eh ~ ...
 also
  
-Is it such?",0.2
+Is it such?",0.2,0.8007676
 "Now, you'll break this one!","今度は
  
 これを割る
@@ -965,7 +965,7 @@ Is it such?",0.2
 ","Next time
  
 Do this
-.",0.08333333333333333
+.",0.08333333333333333,0.26625636
 "It's one hundred times harder
 than the water balloon!","イエ～イ！
  
@@ -979,13 +979,13 @@ than the water balloon!","イエ～イ！
 at last
  
 Decent
-It's right to put in training!",0.15
+It's right to put in training!",0.15,0.14840151
 "The first step is rotation,
 the second step is force.","第２段階は威力
 ｡
 
 ","The second stage is power
-.",0.36363636363636365
+.",0.3636363636363637,0.2814137
 "it's more difficult to imagine
 the rotation of Chakra,","水が入ってない分
  
@@ -995,7 +995,7 @@ the rotation of Chakra,","水が入ってない分
 ","Separate water
  
 Chakra
-Because it is hard to image the rotation",0.29411764705882354
+Because it is hard to image the rotation",0.29411764705882354,0.735357
 "so it becomes more difficult
 to rotate the Chakra as well.","チャクラを回すのも難しい
 ｡
@@ -1005,33 +1005,33 @@ to rotate the Chakra as well.","チャクラを回すのも難しい
 ","It is also difficult to turn chakras
 .
 surely
-.",0.23529411764705882
+.",0.2352941176470588,0.833747
 "Hey! Wait, wait!","あっ！
  
 待って待って待って！
 
 ","Ah!
  
-Wait and wait!",0.3333333333333333
+Wait and wait!",0.3333333333333333,0.7365912
 "Let's train together for
 the first time in a while!","久しぶりに
 一緒に修業しようってばよ！
 
 ","after a long time
-I will try to study together!",0.21052631578947367
+I will try to study together!",0.21052631578947367,0.49829876
 I don't mind if you take a nap.,"昼寝してても
  
 いいからさ！
 
 ","Even if you take a nap
  
-Good!",0.38461538461538464
+Good!",0.38461538461538464,0.73396003
 Don't depend on me!,"(
 自来也
 )
 甘えるな！
 
-",Sweet!,0.14285714285714285
+",Sweet!,0.14285714285714285,0.11303716
 "You must have some kind
 of misunderstanding!","お前
  
@@ -1039,11 +1039,11 @@ of misunderstanding!","お前
 
 ","you
  
-Have you misunderstood something?",0.18181818181818182
+Have you misunderstood something?",0.18181818181818185,0.4568029
 "but I don't have the obligation
 to teach you every step of the way.","術を教えるとは言ったが➡
 
-",I told you to teach technologies,0.23529411764705882
+",I told you to teach technologies,0.2352941176470588,0.53775895
 "If you can't do it by yourself,
 then that's it.","１人でできなきゃ
  
@@ -1053,12 +1053,12 @@ then that's it.","１人でできなきゃ
 ","I can not do it alone
  
 It is until then
-.",0.21052631578947367
+.",0.21052631578947367,0.6178025
 "Well, well then.","えっ…
 ｡
 
 ","eh…
-.",0.2
+.",0.2,0.42188084
 "If you can at least teach me...
 the trick again...","せめて
  
@@ -1074,39 +1074,39 @@ I will not go too to me ...
 the
  
 After taught me ...
-.",0.25
+.",0.25,0.52290297
 Money... money... money...,"金
 ｡
 
 ","Money
-.",0.3333333333333333
+.",0.3333333333333333,0.591218
 You're not a respectable Shinobi at all!,"全然
  
 立派な忍じゃねえってばよ！
 
 ","at all
  
-It's a good jealousy!",0.3076923076923077
+It's a good jealousy!",0.3076923076923077,0.22873174
 "<i>It's way more difficult than</i>
 <i>the time with the water balloon...</i>","《水風船の時より
 桁違いに難しいってばよ》
 
 ","""From the time of water winder
-It is difficult to be a big digge. """,0.19230769230769232
+It is difficult to be a big digge. """,0.19230769230769232,0.29944798
 <i>A-And...</i>,"《そ…
  
 それに…➡
 
 ","""ancestor…
  
-And ... ➡",0.1
+And ... ➡",0.1,0.32773873
 <i>my hands and arms hurt.</i>,"手と腕が…
  
 痛ぇ！》
 
 ","Hands and arms ...
  
-Pain!""",0.23076923076923078
+Pain!""",0.2307692307692308,0.6866332
 "Dang it! How many days am I
 going to be doing the same thing!","チクショ～…
  
@@ -1116,7 +1116,7 @@ going to be doing the same thing!","チクショ～…
 ","Chikusho ~ ...
  
 What day
-You're doing the same thing!",0.22727272727272727
+You're doing the same thing!",0.2272727272727273,0.41623604
 "<i>Second from the top in</i>
 <i>the difficulty of mastering...</i>","＜会得難易度は
  
@@ -1128,7 +1128,7 @@ You're doing the same thing!",0.22727272727272727
  
 The second from the top
 .
-➡",0.4117647058823529
+➡",0.4117647058823529,0.549204
 <i>Don't depend on me!</i>,"ハッ！
  
 ハッ！
@@ -1139,7 +1139,7 @@ The second from the top
  
 Ha!
  
-Hua!",0.08333333333333333
+Hua!",0.08333333333333333,0.22894788
 "<i>You must have some kind</i>
 <i>of misunderstanding!</i>","甘えるな
  
@@ -1149,7 +1149,7 @@ Hua!",0.08333333333333333
 ","Sweet
  
 you
-Have you misunderstood something?>",0.1875
+Have you misunderstood something?>",0.1875,0.60082805
 "Hey, Naruto.","(
 自来也
 )
@@ -1161,10 +1161,10 @@ Have you misunderstood something?>",0.1875
 ","Oi
  
 Naruto
-.",0.4
+.",0.4,0.79687726
 What did you come here for?,"何しに来たんだってばよ？
 
-",What did you come to?,0.625
+",What did you come to?,0.625,0.67733395
 Go buy some food from the town below.,"食い物
  
 下の街で買ってきてくれ
@@ -1173,23 +1173,23 @@ Go buy some food from the town below.,"食い物
 ","Food
  
 Buy in the city below
-.",0.45454545454545453
+.",0.4545454545454545,0.70891744
 What?! Why me?,"えぇ？
  
 何で俺が？
 
 ","Eh?
  
-What is me?",0.42857142857142855
+What is me?",0.42857142857142855,0.43239513
 "<i>How dare he put on a master's face</i>
 <i>only at a time like this</i>","こんなときだけ
 師匠面しやがって…》
 
 ","Only such time
-Masterpiece and face ...",0.13636363636363635
+Masterpiece and face ...",0.13636363636363635,0.40911028
 <i>when he doesn't teach me anything...</i>,"《何も教えてくんないくせして➡
 
-","""Don't let anything tell you",0.11764705882352941
+","""Don't let anything tell you",0.1176470588235294,0.3050866
 "Dad, buy me some ice cream.","(
 男の子
 )
@@ -1201,7 +1201,7 @@ Masterpiece and face ...",0.13636363636363635
 ","Father
  
 Father
-Buy Ice!➡",0.18181818181818182
+Buy Ice!➡",0.18181818181818185,0.7191297
 Here.,"あんがと
  
 おっちゃん
@@ -1210,7 +1210,7 @@ Here.,"あんがと
 ","Anaga
  
 Occhan
-.",0.25
+.",0.25,0.15190764
 Why? I can eat all of it by myself.,"全部１人で食べられるよ～
 ｡
 (
@@ -1223,7 +1223,7 @@ Why? I can eat all of it by myself.,"全部１人で食べられるよ～
 .
 
 Da ~
-.",0.17647058823529413
+.",0.17647058823529413,0.5021546
 "Nope, when you get home,
 your mother will have supper ready.","帰ったら
  
@@ -1235,46 +1235,46 @@ your mother will have supper ready.","帰ったら
  
 Her mother
 I'm making rice
-.",0.21052631578947367
+.",0.21052631578947367,0.49832785
 I have to immediately go to town.,"いつまでたったって
 うまく行きゃしねえのう
 ｡
 
 ","Forever
 I'm going to go well
-.",0.36363636363636365
+.",0.3636363636363637,0.2686072
 "Unless you think for yourself and
 get a grip of the trick for yourself,","自分で考え
 自分でコツをつかまなけりゃあ➡
 
 ","I think by myself
-If you don't get the tips yourself",0.25
+If you don't get the tips yourself",0.25,0.52191925
 I thought I told you three weeks ago!,"３週間前にも言ったはずだ
 ｡
 ➡
 
 ","It should be said three weeks ago
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.73239434
 "Don't be spoiled like a kid.
 You are a Ninja.","お前は忍者だぞ
 ｡
 
 ","You are a ninja
-.",0.45454545454545453
+.",0.4545454545454545,0.6682865
 Just thought I'd ask.,"ちょっと
 言ってみただけだってぇの
 ｡
 
 ","A little
 It's just because I tried to say
-.",0.21428571428571427
+.",0.21428571428571427,0.2887014
 "Dang it! It doesn't break
 no matter how much I try...","チクショ～！
 いくらやっても割れねえ！
 
 ","Chikusho ~!
-No matter how much you do!",0.29411764705882354
+No matter how much you do!",0.29411764705882354,0.25790533
 "I'm just dripping away
 my Chakra this way.","これじゃ
  
@@ -1286,7 +1286,7 @@ my Chakra this way.","これじゃ
  
 Just chakra
 It is only if it's just dripping
-.",0.29411764705882354
+.",0.29411764705882354,0.7485222
 <i>Also...</i>,"あっ
  
 ぐっ…
@@ -1295,7 +1295,7 @@ It is only if it's just dripping
 ","Ah
  
 ...
-.",0.125
+.",0.125,0.19296288
 "<i>The more I increase the amount of flow,</i>
 <i>the worse the pain gets.</i>","《それに
  
@@ -1305,30 +1305,30 @@ It is only if it's just dripping
 ","""in addition
  
 The amount of flow
-It only increases if you increase",0.22727272727272727
+It only increases if you increase",0.2272727272727273,0.57199395
 <i>it's not going to break!</i>,"一気に行かねえと
 割れっこないってば！》
 
 ","I can not go at once
-If you don't break it!""",0.25
+If you don't break it!""",0.25,0.6103712
 "<i>If I understand the amount of Chakra</i>
 <i>that flows from the pain I feel...</i>","痛みで流れている
 チャクラの量が分かる！➡
 
 ","It flows in pain
-You can see the amount of chakra!➡",0.2608695652173913
+You can see the amount of chakra!➡",0.2608695652173913,0.83302087
 "<i>Then I can bear the pain to the limit</i>
 <i>and all at once...</i>","だったら
 痛みの限界まで我慢して➡
 
 ","If
-Painting up to the limit of pain",0.2
+Painting up to the limit of pain",0.2,0.35856405
 <i>Not yet!</i>,"まだ！》
 
-","not yet!""",0.375
+","not yet!""",0.375,0.6348099
 <i>Now!</i>,"《今だ！》
 
-","""now!""",0.25
+","""now!""",0.25,0.46704048
 "Hmm... There seems to have been
 a little progress.","(
 自来也
@@ -1343,14 +1343,14 @@ a little progress.","(
  
 Slightly
 It seems that there was progress
-.",0.25
+.",0.25,0.57891977
 Humph!,"ぐっ！
  
 ぐ～…！
 
 ","!
  
-...!",0.3333333333333333
+...!",0.3333333333333333,0.289108
 "Hey, don't pretend to be so tough. Here!","自力で
  
 よく
@@ -1363,7 +1363,7 @@ Humph!,"ぐっ！
 Often
  
 I came here
-.",0.11764705882352941
+.",0.1176470588235294,0.2585236
 It's so good!,"そうだ
  
 ちょいと
@@ -1374,7 +1374,7 @@ It's so good!,"そうだ
  
 With a little
 Let's try it
-.",0.16666666666666666
+.",0.16666666666666666,0.25349575
 Yes...,"ハ…
  
 ハハハ…
@@ -1383,7 +1383,7 @@ Yes...,"ハ…
 ","Ha ...
  
 Hahaha ...
-.",0.2
+.",0.2,0.39582935
 "What, what?","ん？
  
 何？
@@ -1394,7 +1394,7 @@ Hahaha ...
  
 what?
  
-what?",0.5
+what?",0.5,0.6169815
 Give me your right hand.,"(
 自来也
 )
@@ -1406,7 +1406,7 @@ Give me your right hand.,"(
 ","right hand
  
 Lend
-.",0.42857142857142855
+.",0.42857142857142855,0.68075734
 What's this?,"何だ？
  
 これ
@@ -1415,14 +1415,14 @@ What's this?,"何だ？
 ","What?
  
 this
-.",0.6
+.",0.6,0.42230326
 <i>a role in the shadows</i>,"♬
  
 自分で決めたその夢だけは
 
 ","♬
  
-Only the dream I decided by myself",0.13333333333333333
+Only the dream I decided by myself",0.13333333333333333,0.2832085
 "<i>Over and over,</i>
 <i>we believed and dreamed</i>","♬
  
@@ -1430,7 +1430,7 @@ Only the dream I decided by myself",0.13333333333333333
 
 ","♬
  
-I'm a person",0.07142857142857142
+I'm a person",0.07142857142857142,0.19558457
 "<i>Over and over,</i>
 <i>we've stood in the shadows of others</i>","♬
  
@@ -1438,7 +1438,7 @@ I'm a person",0.07142857142857142
 
 ","♬
  
-It is a side of the side",0.1
+It is a side of the side",0.1,0.25221443
 "<i>Now, it's our turn...</i>
 <i>Let us bask in our dreams</i>","♬
  
@@ -1448,7 +1448,7 @@ It is a side of the side",0.1
 ","♬
  
 Many times until now
-I wonder if it has come up",0.12
+I wonder if it has come up",0.12,0.20848708
 "Iruka Sensei used to scold me often
 at the Ninja Academy","♬
  
@@ -1458,11 +1458,11 @@ at the Ninja Academy","♬
 ","♬
  
 Let me be in the middle
-Let me be honest",0.11764705882352941
+Let me be honest",0.1176470588235294,0.11195935
 for my lack of concentration.,"♬
  
 自分の夢くらい
 
 ","♬
  
-My dream",0.125
+My dream",0.125,0.14427333

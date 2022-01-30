@@ -1,225 +1,225 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "Sir, a message has come\Nfrom the forces in Tusukuru.","は トゥスクル遠征軍より
 戦況報告が来ております","Is from Tuskle Expedition Forces
-A warning report is coming",0.1111111111111111
-Three armies are not enough?,どうした ウォシス,Why?,0.14285714285714285
+A warning report is coming",0.1111111111111111,0.50936055
+Three armies are not enough?,どうした ウォシス,Why?,0.14285714285714285,0.10126858
 "I would ask you for a little \Nmore time, Your Highness.","聖上におかれましては
 今しばらくご猶予を賜りたく存じます","For the Saint
-I would like to ask for a while now",0.2631578947368421
+I would like to ask for a while now",0.2631578947368421,0.43770677
 Raikou-dono and the others \Nwill certainly bring us victory.,"必ずや ライコウ殿らが
 勝利をもたらしてくれましょう","Be sure to have a rich
-Let's bring victory",0.1111111111111111
+Let's bring victory",0.1111111111111111,0.3396852
 "Woshisu, I shall wait a \Nlittle longer for your sake.","ウォシス そなたに免じて
 しばらくは待つとしよう","Wasis
-Let's wait for a while",0.1875
-Thank you.,ありがとうございます,Thank you,0.6666666666666666
+Let's wait for a while",0.1875,0.28838792
+Thank you.,ありがとうございます,Thank you,0.6666666666666666,0.7717479
 "We must think of our next move, \Nshould it become necessary.","いよいよとなれば
 次の手も考えねばならぬな","If it is finally
-I have to think about the next hand",0.13636363636363635
-The False Faces,天かける星よ　いにしえの光,A star of the star of the star,0.16666666666666666
-So I really can't use it...,永久に瞬きて,I bloom forever,0.1
+I have to think about the next hand",0.13636363636363635,0.32799295
+The False Faces,天かける星よ　いにしえの光,A star of the star of the star,0.16666666666666666,0.18976289
+So I really can't use it...,永久に瞬きて,I bloom forever,0.1,0.11279042
 Don't fight the cavalry on their terms.,"騎兵の戦に付き合うな
 隊列を崩さず 塊で当たれ！","Do not associate cavalry
-Do not break the format and hit it!",0.17647058823529413
-And they're up against a nasty opponent.,突き崩します 付いてきなさい,Stick up,0.1
-"He's on a whole other level,\Nas both a warrior and a commander.",しかも 相手が悪いじゃない,And the other party is not bad,0.10526315789473684
+Do not break the format and hit it!",0.17647058823529413,0.6988867
+And they're up against a nasty opponent.,突き崩します 付いてきなさい,Stick up,0.1,0.21286598
+"He's on a whole other level,\Nas both a warrior and a commander.",しかも 相手が悪いじゃない,And the other party is not bad,0.10526315789473684,0.17622839
 This is an important stop on \Nthe route to Onkamiyamukai.,"この地はオンカミヤムカイへ向かう
 交通の要所","This place goes to Onkamiyamkai
-Transportation key",0.125
+Transportation key",0.125,0.6808296
 "I knew he'd be here, I think.","当然 トゥスクルは
 ここへ最大の戦力を持ってくる","Naturally Tuskle
-He brings the biggest strength here",0.13333333333333333
-Let's go.,行こう,let's go,0.75
-"Well, not off the top of my head...",トゥスクルの砦についてだが,About the Fort of Tuskle,0.15384615384615385
-We've little time to spare.,あまり時間をかけられぬのだ,I can not take too much time,0.07692307692307693
-Why?,どうしてだ？,Why?,1.0
-"If he knows we're struggling, he will act soon.",そう言われてもすぐには んっ,"Even if you say so,",0.13333333333333333
-Tusukuru is strong.,トゥスクルは強い,Tuskle is strong,0.4
+He brings the biggest strength here",0.13333333333333333,0.21820727
+Let's go.,行こう,let's go,0.75,0.8877488
+"Well, not off the top of my head...",トゥスクルの砦についてだが,About the Fort of Tuskle,0.15384615384615385,0.0881062
+We've little time to spare.,あまり時間をかけられぬのだ,I can not take too much time,0.07692307692307693,0.42135492
+Why?,どうしてだ？,Why?,1.0,0.99999934
+"If he knows we're struggling, he will act soon.",そう言われてもすぐには んっ,"Even if you say so,",0.13333333333333333,0.14885658
+Tusukuru is strong.,トゥスクルは強い,Tuskle is strong,0.4,0.6487669
 "But in the face of the man who was given \Nthe strongest power by the emperor,","帝よりもっとも強き力を賜った
 あの男には無意味だ","I was the most strong power from the emperor
-That man is meaningless",0.22727272727272727
-Only soldiers should die on the battlefield.,戦場で散るのは武人だけでよい,It is only the warrior who scatters on the battlefield,0.3076923076923077
-Let's end this war fast.,こんな戦 さっさと終わらせよう,Let's finish this kind of battle,0.2727272727272727
-"I'm amazed you knew about \Nthis path, Kuon-han.",やるじゃない,I'm not doing,0.15384615384615385
-This place is my home.,クオンはん よくこんな道知ってたえ,"Kuon Han Well, this way",0.09090909090909091
+That man is meaningless",0.2272727272727273,0.7486958
+Only soldiers should die on the battlefield.,戦場で散るのは武人だけでよい,It is only the warrior who scatters on the battlefield,0.3076923076923077,0.44800067
+Let's end this war fast.,こんな戦 さっさと終わらせよう,Let's finish this kind of battle,0.2727272727272727,0.64352787
+"I'm amazed you knew about \Nthis path, Kuon-han.",やるじゃない,I'm not doing,0.15384615384615385,0.047860503
+This place is my home.,クオンはん よくこんな道知ってたえ,"Kuon Han Well, this way",0.09090909090909093,0.060740277
 So what do we do now?,"地元だからね
 それで これからどうするの？","Because it is the local
-So what do he do now?",0.4166666666666667
-"Even the strongest soldier has to \Neat before he can fight, right?",おお えらい近くまで来れたえ,You can come to the nearby,0.17647058823529413
-Which means...,ということは,Means,0.3333333333333333
-We aim for their provisions.,狙いは食料庫か,Aim is a food store,0.1
+So what do he do now?",0.4166666666666667,0.34582543
+"Even the strongest soldier has to \Neat before he can fight, right?",おお えらい近くまで来れたえ,You can come to the nearby,0.17647058823529413,0.013502957
+Which means...,ということは,Means,0.3333333333333333,0.46170208
+We aim for their provisions.,狙いは食料庫か,Aim is a food store,0.1,0.23018047
 We sneak in while Munechika is drawing \Ntheir main force's attention.,"ムネチカが敵の主力を
 引きつけている間に忍び込むぞ","Muneka is the enemy's mainstay
-I'm sneaking while attracting",0.14285714285714285
-How do we sneak in?,どうやって忍び込むの？,How do you get into?,0.3333333333333333
-'Kay?,へ？,fart?,0.3333333333333333
-Can you not do it when everyone's watching?,ぱーって道を作ってくれ な？,Do you make a way?,0.23076923076923078
-"Wait, can you only use that path \Nyourselves or something?",あの道って自分だけしか通れないとか？,I can only go to that way and I can only go,0.17647058823529413
-A caster in that fortress has put up a barrier.,あの砦には術者が結界を張っています,The operator has a bond,0.15384615384615385
-We cannot interfere from the outside.,外部から干渉することはできません,It can not interfere with the outside,0.5
-Really?,そうなの？,Is that so?,0.2
-I think.,そうかな,I do not think so,0.3333333333333333
-What do we do?,どうするの？,What to do?,0.6
-What will you do?,どうするえ？,What do you do?,0.8
-We'll break down the wall.,壁を壊そう,Break the wall,0.42857142857142855
-That's impossible.,そういうことですか,Is that that kind,0.16666666666666666
-Then we'll dig a hole to the inside.,じゃあ 地面を掘って侵入しよう,Then dig and get into the ground,0.21428571428571427
-With just four of us?,４人だけでかえ？,Only four people?,0.25
-Then we flood the place!,ならば水攻めだ！,Then it is water attack!,0.2
-Where do we get the water?,その水はどこから持ってくるの？,Where does that water brought?,0.3
-"Yeah, you're right.",一度帰った方が良さそうやえ,It will be better if you returned once,0.07692307692307693
-Let's go home for now.,ほら ハク,Hook,0.0
-Haku?,ハ～ク～？,Ha ~?,0.25
-I'm not.,そらしてないよ,I'm not,0.75
-"You are, aren't you?",どうして顔をそらすの？,Why don't you give me your face?,0.2727272727272727
-"I see, I see!",なんてごまかされるわけないかな！,I wonder if it will be given!,0.2
-"Tell me, I think!",何も思い付いてない！,I do not think anything!,0.3333333333333333
-I wonder what his idea is.,絶対に吐かせるかな,I wonder if I will spit,0.2
-"I'm going to make you talk, I think.",吐いてたまるかー　うぐっ,I'm going to spit,0.36363636363636365
-"You're the one who said you wanted\Nto end this war fast, right?",そう言ってくれたよね,You said that so,0.125
-Fine!,分かったよ！,OK!,0.3333333333333333
-Open your gates immediately!,直ちに門を開けろ！,Let's open the gate immediately!,0.3333333333333333
-We have a hostage!,我々には人質がいる,We have a hostage,0.8
-You're a horrible person.,人として最低やえ,Lowest as a person,0.25
-That's why I didn't want to say it.,だから言いたくなかったんだ,So I did not want to say,0.38461538461538464
+I'm sneaking while attracting",0.14285714285714285,0.7000251
+How do we sneak in?,どうやって忍び込むの？,How do you get into?,0.3333333333333333,0.50403255
+'Kay?,へ？,fart?,0.3333333333333333,0.28675804
+Can you not do it when everyone's watching?,ぱーって道を作ってくれ な？,Do you make a way?,0.2307692307692308,0.28174195
+"Wait, can you only use that path \Nyourselves or something?",あの道って自分だけしか通れないとか？,I can only go to that way and I can only go,0.17647058823529413,0.40068412
+A caster in that fortress has put up a barrier.,あの砦には術者が結界を張っています,The operator has a bond,0.15384615384615385,0.15335982
+We cannot interfere from the outside.,外部から干渉することはできません,It can not interfere with the outside,0.5,0.7872957
+Really?,そうなの？,Is that so?,0.2,0.4528147
+I think.,そうかな,I do not think so,0.3333333333333333,0.4557925
+What do we do?,どうするの？,What to do?,0.6,0.63469344
+What will you do?,どうするえ？,What do you do?,0.8,0.6901629
+We'll break down the wall.,壁を壊そう,Break the wall,0.42857142857142855,0.75106686
+That's impossible.,そういうことですか,Is that that kind,0.16666666666666666,0.103007846
+Then we'll dig a hole to the inside.,じゃあ 地面を掘って侵入しよう,Then dig and get into the ground,0.21428571428571427,0.5510012
+With just four of us?,４人だけでかえ？,Only four people?,0.25,0.64596236
+Then we flood the place!,ならば水攻めだ！,Then it is water attack!,0.2,0.5395799
+Where do we get the water?,その水はどこから持ってくるの？,Where does that water brought?,0.3,0.7677136
+"Yeah, you're right.",一度帰った方が良さそうやえ,It will be better if you returned once,0.07692307692307693,-0.0035648374
+Let's go home for now.,ほら ハク,Hook,0.0,0.11336242
+Haku?,ハ～ク～？,Ha ~?,0.25,0.38667527
+I'm not.,そらしてないよ,I'm not,0.75,0.90292794
+"You are, aren't you?",どうして顔をそらすの？,Why don't you give me your face?,0.2727272727272727,0.2850019
+"I see, I see!",なんてごまかされるわけないかな！,I wonder if it will be given!,0.2,0.29114708
+"Tell me, I think!",何も思い付いてない！,I do not think anything!,0.3333333333333333,0.522275
+I wonder what his idea is.,絶対に吐かせるかな,I wonder if I will spit,0.2,0.21921328
+"I'm going to make you talk, I think.",吐いてたまるかー　うぐっ,I'm going to spit,0.3636363636363637,0.35966045
+"You're the one who said you wanted\Nto end this war fast, right?",そう言ってくれたよね,You said that so,0.125,0.23351687
+Fine!,分かったよ！,OK!,0.3333333333333333,0.70260173
+Open your gates immediately!,直ちに門を開けろ！,Let's open the gate immediately!,0.3333333333333333,0.811721
+We have a hostage!,我々には人質がいる,We have a hostage,0.8,0.9405047
+You're a horrible person.,人として最低やえ,Lowest as a person,0.25,0.17624716
+That's why I didn't want to say it.,だから言いたくなかったんだ,So I did not want to say,0.38461538461538464,0.6578882
 "I know it's kinda late now, but there's \None problem with this method.","今さらだが 実はこの方法には
 １つだけ問題がある","Now it's already in this way
-There is only one problem",0.2727272727272727
-What's that?,何やえ？,What?,0.5
-It won't work if they don't\Nknow Kuon's from Tusukuru.,それなら大丈夫かな,"If so, it's okay",0.2
+There is only one problem",0.2727272727272727,0.35680178
+What's that?,何やえ？,What?,0.5,0.504813
+It won't work if they don't\Nknow Kuon's from Tusukuru.,それなら大丈夫かな,"If so, it's okay",0.2,0.1510338
 You should have said that sooner!,"言わせたのはわたくしだけど
 よく思いつくよね","I'm sorry that I said
-I will come up well",0.14285714285714285
-"If this fails, we'll be shot full of holes!",失敗したら うちら蜂の巣やえ,If it fails,0.15384615384615385
-"That shouldn't be a problem, I think.",え そういうことは早く言うじゃない,"Well, I do not say that",0.21428571428571427
-Forget that. Hurry.,そうだったな,That was right,0.16666666666666666
-Or don't you care what happens to the hostage?,おい 食料庫に案内しろ,Let's guide you to the good food,0.1875
-This way.,こっちだ,It's this way,0.4
-There's so much here!,ここだ,here,0.16666666666666666
-Are they eating better than we do in Yamato?,ヤマトよりもいい物食ってないか？,Aren't you eating better than Yamato?,0.5
-Just hurry up.,いいから急いで,It's nice to hurry,0.125
-"It's a waste, but I guess \NI don't have a choice.",はあ もったいないけど 仕方ないか,Isn't there any but it can not be helped,0.14285714285714285
-Mister!,お兄さん！,brother!,0.3333333333333333
-So very close...,でっ,In,0.0
+I will come up well",0.14285714285714285,0.19994019
+"If this fails, we'll be shot full of holes!",失敗したら うちら蜂の巣やえ,If it fails,0.15384615384615385,0.4814652
+"That shouldn't be a problem, I think.",え そういうことは早く言うじゃない,"Well, I do not say that",0.21428571428571427,0.16141845
+Forget that. Hurry.,そうだったな,That was right,0.16666666666666666,0.1667801
+Or don't you care what happens to the hostage?,おい 食料庫に案内しろ,Let's guide you to the good food,0.1875,0.036700416
+This way.,こっちだ,It's this way,0.4,0.64623135
+There's so much here!,ここだ,here,0.16666666666666666,0.46477056
+Are they eating better than we do in Yamato?,ヤマトよりもいい物食ってないか？,Aren't you eating better than Yamato?,0.5,0.79974514
+Just hurry up.,いいから急いで,It's nice to hurry,0.125,0.63733655
+"It's a waste, but I guess \NI don't have a choice.",はあ もったいないけど 仕方ないか,Isn't there any but it can not be helped,0.14285714285714285,0.046378046
+Mister!,お兄さん！,brother!,0.3333333333333333,0.53775054
+So very close...,でっ,In,0.0,0.17427188
 My general said you were probably \Ngoing to try something soon.,"そろそろ何か仕掛けてくると
 うちの大将が言っていたが","It will be about something
-General of my general said",0.23529411764705882
-You were trying to set fire to our food.,人様の飯に火を付けようとしたんだ,I tried to fire a person's rice,0.13333333333333333
-Not bad.,いっ やはっ,Yay,0.0
-"Hey, you done already?",おいおい もう終わりか？,Hey already over?,0.42857142857142855
-Entertain me a little more!,もうちっと楽しませてくれよ！,Please let me have fun!,0.2
-Whoops!,きゃあ！,Yo!,0.3333333333333333
-Atui! Yakutowaruto!,アトゥイ！ ヤクトワルト！,Atui!Yaku Wald!,0.4
-"You must not be too scared, \Nif you're worried about them.",人の心配たあ 余裕じゃねえか,I'm worried about people,0.125
-Crap!,おら！,Oh!,0.3333333333333333
-"Whether you're a friend,",仲間であろうと,If you are a friend,0.375
-"a parent, or a child...",親であろうと子であろうと,If it is a parent or a child,0.4444444444444444
-"If you're my enemy, I'll kill you!",敵であれば切り捨てる！,Truncate if it is an enemy!,0.21428571428571427
+General of my general said",0.2352941176470588,0.39204514
+You were trying to set fire to our food.,人様の飯に火を付けようとしたんだ,I tried to fire a person's rice,0.13333333333333333,0.63967484
+Not bad.,いっ やはっ,Yay,0.0,0.3010666
+"Hey, you done already?",おいおい もう終わりか？,Hey already over?,0.42857142857142855,0.6709143
+Entertain me a little more!,もうちっと楽しませてくれよ！,Please let me have fun!,0.2,0.404863
+Whoops!,きゃあ！,Yo!,0.3333333333333333,0.33320954
+Atui! Yakutowaruto!,アトゥイ！ ヤクトワルト！,Atui!Yaku Wald!,0.4,0.7762029
+"You must not be too scared, \Nif you're worried about them.",人の心配たあ 余裕じゃねえか,I'm worried about people,0.125,0.6154572
+Crap!,おら！,Oh!,0.3333333333333333,0.4477282
+"Whether you're a friend,",仲間であろうと,If you are a friend,0.375,0.80524796
+"a parent, or a child...",親であろうと子であろうと,If it is a parent or a child,0.4444444444444444,0.7789673
+"If you're my enemy, I'll kill you!",敵であれば切り捨てる！,Truncate if it is an enemy!,0.21428571428571427,0.58547
 "Even you, who are the beloved child \Nof the man I swore my soul to...","我が魂魄を捧げたお方の
 愛しき忘れ形見であろうと","Of the person who dedicated my soul
-If you are a forgotten love",0.2608695652173913
-That is the way of the battlefield.,それが戦場のならいですぜ,That's the battlefield,0.375
-That's what it means to be on their side!,そういうことだ！,That's how it is!,0.3076923076923077
-"Am I wrong, little lady?",違いやすかい？　お嬢,Is it different?Lady,0.2
-Over 10%.,１割を超えました,I exceeded 10%,0.3333333333333333
-Everyone is holding up well \Nagainst the Rakusharai.,損害は？,What is the damage?,0.16666666666666666
-We must buy a little more time...,今しばらく時を稼がねばならぬ,I have to earn time for a while,0.14285714285714285
+If you are a forgotten love",0.2608695652173913,0.57640177
+That is the way of the battlefield.,それが戦場のならいですぜ,That's the battlefield,0.375,0.71455
+That's what it means to be on their side!,そういうことだ！,That's how it is!,0.3076923076923077,0.30143356
+"Am I wrong, little lady?",違いやすかい？　お嬢,Is it different?Lady,0.2,0.36226627
+Over 10%.,１割を超えました,I exceeded 10%,0.3333333333333333,0.5508134
+Everyone is holding up well \Nagainst the Rakusharai.,損害は？,What is the damage?,0.16666666666666666,0.14064154
+We must buy a little more time...,今しばらく時を稼がねばならぬ,I have to earn time for a while,0.14285714285714285,0.3605568
 "No matter how strong the enemy, or how \Nfierce the battle, we will not withdraw.","如何な敵 如何な苛烈な戦でも
 退くことはありません","Any enemy of the enemy
-There is no way to retire",0.13636363636363635
+There is no way to retire",0.13636363636363635,0.50913405
 "That is who we are,","それがムネチカ旗下
 我らの武と心得ております","It is under the flag of the Muneka
-We are gender with our war",0.1875
-We'll turn them back!,弾き返すぞ！,I'll play back!,0.375
-That's strange.,そうであったな,That's right,0.4
+We are gender with our war",0.1875,0.26402175
+We'll turn them back!,弾き返すぞ！,I'll play back!,0.375,0.45499358
+That's strange.,そうであったな,That's right,0.4,0.3136129
 "I expected more from you, little lady.","お嬢はもうちょっと
 やると思ったんですが","My lady is a little more
-I thought I would do it",0.25
-Do you really intend to kill me?,本気でわたくしを斬るつもり？,Are you really going to kill me?,0.6
-You're begging for your life now?,今さら命乞いですかい？,Is it my favorite now?,0.16666666666666666
-I'm just asking.,聞きたいだけ,I just want to hear,0.25
+I thought I would do it",0.25,0.5197208
+Do you really intend to kill me?,本気でわたくしを斬るつもり？,Are you really going to kill me?,0.6,0.87968165
+You're begging for your life now?,今さら命乞いですかい？,Is it my favorite now?,0.16666666666666666,0.23469622
+I'm just asking.,聞きたいだけ,I just want to hear,0.25,0.49614498
 Can you forgive me for betraying \Nmy country... For betraying all of you?,"国を あなたたちを裏切った
 わたくしを許せない？","I betrayed the country
-Can't forgive me?",0.23529411764705882
+Can't forgive me?",0.2352941176470588,0.80753946
 A little shrimp like you mixing in \Nwith the soldiers and fighting us,"お嬢みてえなひよっこが
 兵に混じって暴れたところで","A foolish chick
-When I was rampant mixed with soldiers",0.09523809523809523
+When I was rampant mixed with soldiers",0.09523809523809523,0.48450378
 "If you were serious,\Nyou could tear this country in half.","この国を真っ二つにすることだって
 できたはずだ","It is to make this country
-It should have been",0.1
+It should have been",0.1,0.3270008
 "If you're not doing that,\Nit means you're just here to play.","それをしねえってことは
 せいぜい遊びに来たってところでしょうが","I'm not doing that
-It will come to play at a time",0.22727272727272727
-Do you know how much I \Nagonized over coming here?,わたくしがどれほど悩んでここに来たと,I came here how much I was worried about,0.26666666666666666
-And you say I'm playing?,それを遊びだなんて,I'm playing it,0.375
-What?,何です？,What is?,0.6666666666666666
-"Sure, I guess.",そりゃ元気ですけど,"Well, I'm fine",0.25
+It will come to play at a time",0.2272727272727273,0.5692521
+Do you know how much I \Nagonized over coming here?,わたくしがどれほど悩んでここに来たと,I came here how much I was worried about,0.26666666666666666,0.54075354
+And you say I'm playing?,それを遊びだなんて,I'm playing it,0.375,0.6714014
+What?,何です？,What is?,0.6666666666666666,0.43601826
+"Sure, I guess.",そりゃ元気ですけど,"Well, I'm fine",0.25,0.30680224
 Does she still go to hunt for honey?,"やっぱり まだハチミツ採りに
 行ってたりするの？","After all honey to pick up
-Do you go?",0.26666666666666666
+Do you go?",0.26666666666666666,0.5381171
 Speaking of Sister Aruruu...,"アルルゥ姉様といえば
 カミュ姉様も元気？","Speaking of Alru sister
-Camus My sister is also a princess?",0.23076923076923078
-"Is Sister Kamyu doing well, too?",そりゃあそうですが あ？,"Well, that's right?",0.2727272727272727
-I was so close...,て 何やってんだよ,I'm doing anything,0.125
-I'll set fire to it now!,させるかよー！,Do you want to do it!,0.2727272727272727
-"So you were holding back before, huh?",さっきまでは手抜いてやしたか,Did you get rid of it before?,0.21428571428571427
-"Who was it that taught me to hold your \Ntrump card until the very end, I think?",そう教えてくれたのは誰だったかな,Who was telling me so?,0.19047619047619047
-I'm glad you remembered.,覚えててくれて嬉しいですぜ,I'm glad to remember,0.375
-"Little lady, you...",お嬢 あんた…,Your love ...,0.14285714285714285
-"If he's here, then I knew \Nyou would be too, Kurou.",それじゃあ こっちも,Well then here,0.13333333333333333
-And that it would be too\Ndangerous to fight you head-on.,正面から戦うのは危険すぎることも,It is too dangerous to fight from the front,0.17647058823529413
-So I used trickery.,だから 小細工を弄させてもらったの,So I got a small work,0.2222222222222222
+Camus My sister is also a princess?",0.2307692307692308,0.50575256
+"Is Sister Kamyu doing well, too?",そりゃあそうですが あ？,"Well, that's right?",0.2727272727272727,0.09615558
+I was so close...,て 何やってんだよ,I'm doing anything,0.125,0.102963425
+I'll set fire to it now!,させるかよー！,Do you want to do it!,0.2727272727272727,0.36839983
+"So you were holding back before, huh?",さっきまでは手抜いてやしたか,Did you get rid of it before?,0.21428571428571427,0.2349399
+"Who was it that taught me to hold your \Ntrump card until the very end, I think?",そう教えてくれたのは誰だったかな,Who was telling me so?,0.19047619047619047,0.22617614
+I'm glad you remembered.,覚えててくれて嬉しいですぜ,I'm glad to remember,0.375,0.7619826
+"Little lady, you...",お嬢 あんた…,Your love ...,0.14285714285714285,0.3460185
+"If he's here, then I knew \Nyou would be too, Kurou.",それじゃあ こっちも,Well then here,0.13333333333333333,0.27557355
+And that it would be too\Ndangerous to fight you head-on.,正面から戦うのは危険すぎることも,It is too dangerous to fight from the front,0.17647058823529413,0.42547238
+So I used trickery.,だから 小細工を弄させてもらったの,So I got a small work,0.2222222222222222,0.33650234
 "I'm ending this war no matter what, I think!","この戦 どうあっても
 終わらせてみせるかな！","Even though this war is
-I can finish it!",0.23529411764705882
-Interesting!,面白えじゃねえか,It's not interesting,0.2
-"Um, Kuon-han?",何？,what?,0.2
-I've been serious this whole time.,うち さっきから本気やえ,I'm really serious,0.2
-Um...,アハハ アハハハ…,Ahaha Hahaha ...,0.25
-You won't leave here alive.,生きて帰れると思うなよ,Don't think that you can live and go home,0.13333333333333333
-You okay?,クオン 大丈夫か？,Is it okay?,0.4
-"Yeah, but he really is strong, I think.",うん けど やっぱり強いかな,"Yeah, but after all it is strong",0.38461538461538464
-You ready?,よう 覚悟はいいか？,Is it ready?,0.4
-What else?,何の覚悟だ？,What is it?,0.4
-Ready to die!,死ぬ覚悟だよ！,It is prepared to die!,0.42857142857142855
-Die!,たあー！,Oh!,0.3333333333333333
-You... That's...,な おめえ そいつは…,Nice to meet you ...,0.2857142857142857
-"Kuon, get out of here!",クオン すぐにここから出ろ！,Get out of here quickly!,0.625
-That was...,あれは…,That is…,0.25
-He did it!,やってくれたか,Did you do it,0.3333333333333333
-Hurry to the fortress!,砦へ急ぎます,Reep to the fort,0.2857142857142857
-We attack!,ぐわあー！,!,0.3333333333333333
-You're staying with us a little longer.,余程の方のようですね,It looks like a longer,0.16666666666666666
-Until our ally who attacked\Nyour fortress escapes.,貴公らの砦を攻めた仲間が退くまで,Until the fellow who attacked the fort by,0.15384615384615385
+I can finish it!",0.2352941176470588,0.73510593
+Interesting!,面白えじゃねえか,It's not interesting,0.2,0.34862298
+"Um, Kuon-han?",何？,what?,0.2,0.016175617
+I've been serious this whole time.,うち さっきから本気やえ,I'm really serious,0.2,0.6024518
+Um...,アハハ アハハハ…,Ahaha Hahaha ...,0.25,0.46210587
+You won't leave here alive.,生きて帰れると思うなよ,Don't think that you can live and go home,0.13333333333333333,0.40681818
+You okay?,クオン 大丈夫か？,Is it okay?,0.4,0.5299823
+"Yeah, but he really is strong, I think.",うん けど やっぱり強いかな,"Yeah, but after all it is strong",0.38461538461538464,0.5983945
+You ready?,よう 覚悟はいいか？,Is it ready?,0.4,0.5497503
+What else?,何の覚悟だ？,What is it?,0.4,0.2973206
+Ready to die!,死ぬ覚悟だよ！,It is prepared to die!,0.42857142857142855,0.6117053
+Die!,たあー！,Oh!,0.3333333333333333,0.36430338
+You... That's...,な おめえ そいつは…,Nice to meet you ...,0.2857142857142857,0.32525048
+"Kuon, get out of here!",クオン すぐにここから出ろ！,Get out of here quickly!,0.625,0.4743376
+That was...,あれは…,That is…,0.25,0.5247505
+He did it!,やってくれたか,Did you do it,0.3333333333333333,0.50138545
+Hurry to the fortress!,砦へ急ぎます,Reep to the fort,0.2857142857142857,0.45046365
+We attack!,ぐわあー！,!,0.3333333333333333,0.39798427
+You're staying with us a little longer.,余程の方のようですね,It looks like a longer,0.16666666666666666,0.45327938
+Until our ally who attacked\Nyour fortress escapes.,貴公らの砦を攻めた仲間が退くまで,Until the fellow who attacked the fort by,0.15384615384615385,0.6302764
 "He must be quite a man, \Nif he's worth doing all this.","今しばらく
 小生らに付き合っていただこう","For a while
-Let's get along",0.10526315789473684
-He gives me the feeling that he's about\Nto somehow accomplish something.,不思議と何かを成してくれる,Wonders and something,0.07142857142857142
-I'll only say this once.,１度だけ言います 道を開けなさい,Open the way only once,0.2
-You must take my head first.,ならば 小生の首を取るがよい,Then you should take a neck,0.18181818181818182
-"I am the Tusukuru Samurai General, Benawi.",トゥスクル侍大将 ベナウィ,Tuskuru General General Benawi,0.2
-Here I come!,参る！,Come!,0.5
-That really hurt...,あの頃の記憶が役に立つとはな,My memory is useful for that time,0.1
-I thought I was done for.,死ぬかと思った,I thought I would die,0.25
-He's a monster!,化け物じゃない,Not a monster,0.3333333333333333
-"Shall we get back to it, then?",あれで生きとるえ,Live to live,0.1
-Master...,さて,Now,0.0
-We have come for you.,お迎えにあがりました,We picked up,0.125
-I'm saved!,助かった,Was saved,0.2
-Hey!,おい！,Oi!,0.3333333333333333
-Was it your idea to use \Nthe little lady as a hostage?,お嬢を人質に取るって策,Measures to take the lady to the hostage,0.1875
-"What's your name, young man?",わけーの 名は？,What is your name?,0.4444444444444444
-It's Haku.,そうだ,That's it,0.4
-Haku...,ハク その名 その鉄扇,Haku Iron Fan,0.25
-"So that's him, little lady?",そいつですかい お嬢,That's why,0.2222222222222222
-"Your strength exceeds mine, too.",はあ はあ,Ha Ha,0.0
-But I will not be killed easily!,だが ただでは死なぬ！,But I just die!,0.3
-This sound...,この音,This sound,0.6666666666666666
-It's the signal to withdraw!,撤退の合図です,It is a signal of withdrawal,0.18181818181818182
-I know... But...,だが…,But ...,0.5
-"All forces, retreat!",全軍 転進！,All army moving!,0.2857142857142857
-We've received an urgent\Nmessage from Yamato.,ヤマトから,From Yamato,0.25
-What happened?,何があった？,What happened?,1.0
-The emperor is dead.,帝が,Emperor,0.2
-My brother's dead?,死んだ,Dead,0.2
+Let's get along",0.10526315789473684,0.12712923
+He gives me the feeling that he's about\Nto somehow accomplish something.,不思議と何かを成してくれる,Wonders and something,0.07142857142857142,0.2933063
+I'll only say this once.,１度だけ言います 道を開けなさい,Open the way only once,0.2,0.36303684
+You must take my head first.,ならば 小生の首を取るがよい,Then you should take a neck,0.18181818181818185,0.4044772
+"I am the Tusukuru Samurai General, Benawi.",トゥスクル侍大将 ベナウィ,Tuskuru General General Benawi,0.2,0.6922196
+Here I come!,参る！,Come!,0.5,0.69549304
+That really hurt...,あの頃の記憶が役に立つとはな,My memory is useful for that time,0.1,0.16146135
+I thought I was done for.,死ぬかと思った,I thought I would die,0.25,0.46021193
+He's a monster!,化け物じゃない,Not a monster,0.3333333333333333,0.67059845
+"Shall we get back to it, then?",あれで生きとるえ,Live to live,0.1,0.21666141
+Master...,さて,Now,0.0,0.22254829
+We have come for you.,お迎えにあがりました,We picked up,0.125,0.3180445
+I'm saved!,助かった,Was saved,0.2,0.65274745
+Hey!,おい！,Oi!,0.3333333333333333,0.46669304
+Was it your idea to use \Nthe little lady as a hostage?,お嬢を人質に取るって策,Measures to take the lady to the hostage,0.1875,0.614971
+"What's your name, young man?",わけーの 名は？,What is your name?,0.4444444444444444,0.690977
+It's Haku.,そうだ,That's it,0.4,0.2796167
+Haku...,ハク その名 その鉄扇,Haku Iron Fan,0.25,0.6132188
+"So that's him, little lady?",そいつですかい お嬢,That's why,0.2222222222222222,0.1035055
+"Your strength exceeds mine, too.",はあ はあ,Ha Ha,0.0,0.1984975
+But I will not be killed easily!,だが ただでは死なぬ！,But I just die!,0.3,0.6153982
+This sound...,この音,This sound,0.6666666666666666,0.7036385
+It's the signal to withdraw!,撤退の合図です,It is a signal of withdrawal,0.18181818181818185,0.77891374
+I know... But...,だが…,But ...,0.5,0.532556
+"All forces, retreat!",全軍 転進！,All army moving!,0.2857142857142857,0.56010795
+We've received an urgent\Nmessage from Yamato.,ヤマトから,From Yamato,0.25,0.62976164
+What happened?,何があった？,What happened?,1.0,1.0000001
+The emperor is dead.,帝が,Emperor,0.2,0.6993676
+My brother's dead?,死んだ,Dead,0.2,0.40810826

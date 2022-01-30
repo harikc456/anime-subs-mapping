@@ -1,43 +1,43 @@
-en_text,jp_text,google_translated,score
-I believe I can make it to the moon.,月に行くような気がしたよ⦆,I felt like I went to the moon,0.3333333333333333
-It's been twenty years since we made that promise on the hill.,＜あれから…＞,<From that ...>,0.05555555555555555
-Hibito has finally,＜日々人がついに…➡,<Everybody last ... ➡,0.0
-returned from the moon!,月から帰ってきた＞,I came back from the moon>,0.3333333333333333
-"Hey, what's that?",ねぇ 何それ？ねぇ 何それ？,Hey?Hey?,0.3333333333333333
-"Hibito, is this...",日々人 これって…｡,Daily people ....,0.125
-Aren't you going to the moon?,ムッちゃんも行くんだろ 月｡,Much-chan also goes monthly.,0.0
-Argh!,《チクショー!!》,"""Chikusho !!""",0.2
-Hey! We should get going!,３人とも！そろそろ出発だぞ～｡,3 people!It will be left soon.,0.07142857142857142
-"During your rehab, you'll work for three hours a day.",リハビリ期間中の仕事は,Work during rehabilitation period,0.13333333333333333
-That will be your cycle.,そういうサイクルが この先…｡,That cycle is ahead of this ....,0.2727272727272727
-"Indeed, you will be extremely fatigued.",ひどい眠気におそわれるからね｡,It's awful sleepiness.,0.08333333333333333
-Huh? Remember what?,⦅は？何を？⦆,⦅teeth?what?⦆,0.3333333333333333
-Mutta will give you a push from behind.,あなたの背中を押してくれる｡➡,Push your back.,0.18181818181818182
-"For some reason, I don't feel tired at all.",《なぜだろう…全然疲れない》,"""Why is it ... not tired at all""",0.15789473684210525
-My premonition is growing stronger...,《前よりも…強く感じる…｡➡,"""More than before ... I feel strong ... ➡",0.07142857142857142
-"Anyway, could you move Apo?",それより アポのけてくんない？,Isn't it more appointed?,0.08333333333333333
-You know...,あのね…➡,That ... ➡,0.2
-but to someone you know very well...,ムッタのよく知る誰か…➡,Someone who knows Mutta well ... ➡,0.25
-Someone will soon be stricken by serious illness.,誰かが近いうちに重い病気になる｡,Someone gets heavy in the near future.,0.13333333333333333
-It takes time to get through customs.,厳しいもんですね～ 入国って｡,It is tough ~ I entered.,0.15384615384615385
-One of the questions is how the radio telescope would be constructed.,気になることの１つは➡,One thing to worry about,0.0625
-Who would do it?,そりゃ ロボットでしょ｡,"Well, it is a robot.",0.09090909090909091
-I'm not confident about the project's size.,恐ろしくて 手が出せませんよ｡,I can not get a horrible and hand.,0.1875
-This chart shows the...,このチャートには,In this chart,0.3333333333333333
-"Aerodynamics, engine system mechanics,",＜航空力学に始まり➡,<Starting with air dynamics,0.0
-by breaking the sound barrier...,マッハを…体験…できるのだ｡➡,Mach ... Experience ... I can do it.,0.07692307692307693
-"No, no... Of course not.",まさかっ｡,It is too.,0.1
-Who did she mean?,《誰のことだ…》,"""Who is ...""",0.1111111111111111
-It's supersonic!,まだ乗ってないけど｡,I'm not riding yet.,0.0
-I'll put her on.,ちょっと かわるね｡,It's a little bit.,0.09090909090909091
-I didn't realize she was this big a fan.,《そこまで ファンとは…》,"""What is the fan ...""",0.058823529411764705
-"Yes, I've read it so many times!",はい それ以来ずっと読んでます｡,Yes I have read it since then.,0.2857142857142857
-Mutta's told me so much about you.,ムッタから色々きいててね｡,Various from Mutta.,0.18181818181818182
-Oh? Are you serious?!,え～ そうなんですか～!?,Eh ~ That's right ~!?,0.18181818181818182
-C-Could it be Sharon who...,《まさか シャロンが…!?》,"""The Sharon is ...!?""",0.16666666666666666
-Don't worry about it...,あ いやいや｡あ もしもし｡,Oh yeah. Amano.,0.0
-"Ah, hello?",[ｹｲﾀｲ],[Keitai],0.0
-"Oh, really...",あ…そう｡,Oh so.,0.16666666666666666
-"Man, that really scared me.",《ふ～ なんだビビッたぜ》,"""Fu- what is Bibit""",0.0
-"Yes, I'll see you then.",ええ またね｡,Yeah again.,0.1
-"I dropped my phone again. these days, i keep dropping things...",最近よくモノを落とすなぁ｡,Recently I will drop things well.,0.17647058823529413
+en_text,jp_text,google_translated,score,semantic_score
+I believe I can make it to the moon.,月に行くような気がしたよ⦆,I felt like I went to the moon,0.3333333333333333,0.4933149
+It's been twenty years since we made that promise on the hill.,＜あれから…＞,<From that ...>,0.05555555555555555,0.066246435
+Hibito has finally,＜日々人がついに…➡,<Everybody last ... ➡,0.0,0.21838313
+returned from the moon!,月から帰ってきた＞,I came back from the moon>,0.3333333333333333,0.7955903
+"Hey, what's that?",ねぇ 何それ？ねぇ 何それ？,Hey?Hey?,0.3333333333333333,0.48511016
+"Hibito, is this...",日々人 これって…｡,Daily people ....,0.125,0.1622569
+Aren't you going to the moon?,ムッちゃんも行くんだろ 月｡,Much-chan also goes monthly.,0.0,0.05299736
+Argh!,《チクショー!!》,"""Chikusho !!""",0.2,0.2978124
+Hey! We should get going!,３人とも！そろそろ出発だぞ～｡,3 people!It will be left soon.,0.07142857142857142,0.2457816
+"During your rehab, you'll work for three hours a day.",リハビリ期間中の仕事は,Work during rehabilitation period,0.13333333333333333,0.68824434
+That will be your cycle.,そういうサイクルが この先…｡,That cycle is ahead of this ....,0.2727272727272727,0.53465474
+"Indeed, you will be extremely fatigued.",ひどい眠気におそわれるからね｡,It's awful sleepiness.,0.08333333333333333,0.34979945
+Huh? Remember what?,⦅は？何を？⦆,⦅teeth?what?⦆,0.3333333333333333,0.19110817
+Mutta will give you a push from behind.,あなたの背中を押してくれる｡➡,Push your back.,0.18181818181818185,0.4319542
+"For some reason, I don't feel tired at all.",《なぜだろう…全然疲れない》,"""Why is it ... not tired at all""",0.15789473684210525,0.6196115
+My premonition is growing stronger...,《前よりも…強く感じる…｡➡,"""More than before ... I feel strong ... ➡",0.07142857142857142,0.31245068
+"Anyway, could you move Apo?",それより アポのけてくんない？,Isn't it more appointed?,0.08333333333333333,0.06305957
+You know...,あのね…➡,That ... ➡,0.2,0.3224187
+but to someone you know very well...,ムッタのよく知る誰か…➡,Someone who knows Mutta well ... ➡,0.25,0.3394853
+Someone will soon be stricken by serious illness.,誰かが近いうちに重い病気になる｡,Someone gets heavy in the near future.,0.13333333333333333,0.4134581
+It takes time to get through customs.,厳しいもんですね～ 入国って｡,It is tough ~ I entered.,0.15384615384615385,0.22326289
+One of the questions is how the radio telescope would be constructed.,気になることの１つは➡,One thing to worry about,0.0625,0.015202329
+Who would do it?,そりゃ ロボットでしょ｡,"Well, it is a robot.",0.09090909090909093,0.059352588
+I'm not confident about the project's size.,恐ろしくて 手が出せませんよ｡,I can not get a horrible and hand.,0.1875,0.08309251
+This chart shows the...,このチャートには,In this chart,0.3333333333333333,0.65954554
+"Aerodynamics, engine system mechanics,",＜航空力学に始まり➡,<Starting with air dynamics,0.0,0.4280043
+by breaking the sound barrier...,マッハを…体験…できるのだ｡➡,Mach ... Experience ... I can do it.,0.07692307692307693,0.19873397
+"No, no... Of course not.",まさかっ｡,It is too.,0.1,0.16516837
+Who did she mean?,《誰のことだ…》,"""Who is ...""",0.1111111111111111,0.36902273
+It's supersonic!,まだ乗ってないけど｡,I'm not riding yet.,0.0,0.2010742
+I'll put her on.,ちょっと かわるね｡,It's a little bit.,0.09090909090909093,0.15782438
+I didn't realize she was this big a fan.,《そこまで ファンとは…》,"""What is the fan ...""",0.05882352941176471,0.40666577
+"Yes, I've read it so many times!",はい それ以来ずっと読んでます｡,Yes I have read it since then.,0.2857142857142857,0.73638356
+Mutta's told me so much about you.,ムッタから色々きいててね｡,Various from Mutta.,0.18181818181818185,0.57651144
+Oh? Are you serious?!,え～ そうなんですか～!?,Eh ~ That's right ~!?,0.18181818181818185,0.1739752
+C-Could it be Sharon who...,《まさか シャロンが…!?》,"""The Sharon is ...!?""",0.16666666666666666,0.6761999
+Don't worry about it...,あ いやいや｡あ もしもし｡,Oh yeah. Amano.,0.0,0.16900785
+"Ah, hello?",[ｹｲﾀｲ],[Keitai],0.0,0.20868129
+"Oh, really...",あ…そう｡,Oh so.,0.16666666666666666,0.4837865
+"Man, that really scared me.",《ふ～ なんだビビッたぜ》,"""Fu- what is Bibit""",0.0,0.04168051
+"Yes, I'll see you then.",ええ またね｡,Yeah again.,0.1,0.32046348
+"I dropped my phone again. these days, i keep dropping things...",最近よくモノを落とすなぁ｡,Recently I will drop things well.,0.17647058823529413,0.6801561

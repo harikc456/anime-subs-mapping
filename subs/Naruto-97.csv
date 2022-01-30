@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.71131814
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.862805
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207117
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.6541099
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.3804589
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851646
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.4000978
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.58001244
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.36993268
 "That's her, no mistake.","(ﾅﾙﾄ･
 自来也
 )
@@ -105,13 +105,13 @@ I'm sorry
 ｡
 
 ","No
-.",0.2857142857142857
+.",0.2857142857142857,0.18054906
 "<i>Kidnapped!</i>
 <i>Naruto's Hot Spring Adventure!</i>","いい温泉街があってねぇ
 ｡
 
 ","There is a good hot spring area
-.",0.11764705882352941
+.",0.1176470588235294,0.24639046
 "We have the pleasure of
 a visit from four people and one piglet.","今は里の非常時
 グズグズしとる暇はないぞ
@@ -119,7 +119,7 @@ a visit from four people and one piglet.","今は里の非常時
 
 ","Now the village of the village
 There is no time to go
-.",0.13636363636363635
+.",0.13636363636363635,0.18145996
 Even though this has mixed bathing...,"混浴
 ｡
 (
@@ -130,33 +130,33 @@ Even though this has mixed bathing...,"混浴
 ","mixed bathing
 .
 
-Hmm!",0.2
+Hmm!",0.2,0.8639826
 You're not going to the hot spring?,"おい
  
 エロ仙人？
 
 ","Oi
  
-Ero Sennin?",0.08333333333333333
+Ero Sennin?",0.08333333333333333,0.08743754
 "So, let's go, let's go.","(ﾄﾝﾄﾝ)
 ブ～
 ｡
 
 ","~
-.",0.14285714285714285
+.",0.14285714285714285,0.13562971
 I'm going to get out already.,"さっきと言ってることが
 違うってばよ
 ｡
 
 ","What I'm saying
 It is different
-.",0.23076923076923078
+.",0.2307692307692308,0.09128482
 Welcome!,"(
 店員たち
 )
 いらっしゃいませ！
 
-",Welcome!,1.0
+",Welcome!,1.0,1.0
 "The necklace I got from
 Old Lady Tsunade is gone!","ついとらんのう
 ｡
@@ -164,24 +164,24 @@ Old Lady Tsunade is gone!","ついとらんのう
 
 ","I will
 .
-Basa Basabasha ...!",0.125
+Basa Basabasha ...!",0.125,0.12067135
 Where! Where is it?!,"せっかくの混浴だってのに➡
 
-",Even if it is a mixed bath,0.2
+",Even if it is a mixed bath,0.2,0.20133641
 "Signed, the Akagi Family.","さ～てと
 パチンコにでも行こうかねぇ
 ｡
 
 ","Well,
 Let's go to pachinko
-.",0.16666666666666666
+.",0.16666666666666666,0.26872486
 Money?,"温泉には
  
 入らないのですか？
 
 ","In the hot spring
  
-Do not enter?",0.1111111111111111
+Do not enter?",0.1111111111111111,0.07617528
 "Hey, here I am!","(
 戸が開く音
 )
@@ -191,24 +191,24 @@ Do not enter?",0.1111111111111111
 
 ","Yeah?
  
-I'm sorry!",0.2
+I'm sorry!",0.2,0.22856359
 Come out! Akagi Family!,"はぁ～
  
 さっぱりしたっと！
 
 ","Hae ~
  
-Fresh!",0.125
+Fresh!",0.125,0.23860985
 "What do you want, kid?!","ん？
  
 あ～！
 
 ","Yeah?
  
-Oh!",0.2
+Oh!",0.2,0.17902848
 """My"" necklace?","ん？
 
-",Yeah?,0.16666666666666666
+",Yeah?,0.16666666666666666,0.1296314
 "Ah, that's it!
 Give it back!","だ…
  
@@ -216,32 +216,32 @@ Give it back!","だ…
 
 ","is…
  
-It's a thief!",0.2727272727272727
+It's a thief!",0.2727272727272727,0.35099638
 Go!,"(
 猿
 )
 ウッキ～！
 
-",Ukki ~!,0.25
+",Ukki ~!,0.25,0.28326875
 H-Help...,"だが…
 ｡
 
 ","But ...
-.",0.25
+.",0.25,0.26693362
 "- Bring it on!
 - Cheers!","雌猿ばっかりじゃねえか～！
 (
 猿の鳴き声
 )
 
-",It's just a female monkey!,0.18181818181818182
+",It's just a female monkey!,0.18181818181818185,0.13197856
 I want to bathe with women...,"あ～あ…
 人間と一緒に入りたい…
 ｡
 
 ","Oh ...
 I want to enter with humans ...
-.",0.45454545454545453
+.",0.4545454545454545,0.3287453
 We loaned her what she lost.,"(
 男２
 )
@@ -253,23 +253,23 @@ We loaned her what she lost.,"(
 ","What is it?
  
 Gook
-.",0.18181818181818182
+.",0.18181818181818185,0.056284897
 "That's right, and there's an I.O.U.","だから
  
 俺の首飾りを返せ！
 
 ","that's why
  
-Return my necklace!",0.14285714285714285
+Return my necklace!",0.14285714285714285,0.08915727
 Wha?! There are so many zeros!,"行っけ！
 ひぃ!?
 
 ","Go!
-Hi!?",0.2
+Hi!?",0.2,0.1876516
 "We set out on a journey
 from Akagi Mountain","男ばっかりじゃねえか！
 
-",It's not a man!,0.07142857142857142
+",It's not a man!,0.07142857142857142,0.0016215108
 She was elusive and quite hard to find.,"負け分を
  
 お貸ししやした
@@ -278,7 +278,7 @@ She was elusive and quite hard to find.,"負け分を
 ","Losing
  
 I was lending
-.",0.16666666666666666
+.",0.16666666666666666,0.055939615
 "We were waiting on
 the side of the road...","えぇ!?
  
@@ -290,7 +290,7 @@ the side of the road...","えぇ!?
  
 Z ...
  
-There are a lot of zeros!",0.1111111111111111
+There are a lot of zeros!",0.1111111111111111,0.06874539
 "That's when we came along
 with Old Lady Tsunade.","あっしら
  
@@ -306,7 +306,7 @@ Akagi's family
 Play with a bet
  
 Scantine
-.",0.16666666666666666
+.",0.16666666666666666,0.16608092
 "But why did you raid the room
 so stealthily?","あ？
  
@@ -316,7 +316,7 @@ so stealthily?","あ？
 ","Ah?
  
 I borrowed money
-Tsuggu no grandma?",0.058823529411764705
+Tsuggu no grandma?",0.05882352941176471,0.12317448
 "that ordinary means don't work
 against the Legendary Sitting Duck.","はい
  
@@ -330,7 +330,7 @@ against the Legendary Sitting Duck.","はい
 Known as
  
 Legendary duck
-.",0.2
+.",0.2,0.57980776
 "so we thought she'd pay
 in exchange for it.","親分に借金の取り立てを
 命じられたのが３年前
@@ -338,13 +338,13 @@ in exchange for it.","親分に借金の取り立てを
 
 ","Take a debt to a parent
 It was ordered three years ago
-.",0.09523809523809523
+.",0.09523809523809523,0.21781796
 "We never even dreamed that the owner
 of the necklace would have changed...","赤城の山を旅立ちやした
 ｡
 
 ","I left the mountain of Akagi
-.",0.1111111111111111
+.",0.1111111111111111,0.08964603
 "- Please... I'm begging you!
 - Please... I'm begging you!","(ﾌﾞﾝｿﾞｳ)
 街道沿いで
@@ -353,13 +353,13 @@ of the necklace would have changed...","赤城の山を旅立ちやした
 
 ","Along the highway
 I was waiting for you ...
-.",0.2
+.",0.2,0.16848621
 "Bad luck...
 Darn it. I'm stone broke.","払ってくれると思ったんですが…
 ｡
 
 ","I thought it would be paid ...
-.",0.2857142857142857
+.",0.2857142857142857,0.19070181
 "Well, let's call it quits with pachinko.","綱手のばあちゃんが俺たちと
 一緒に
  
@@ -370,7 +370,7 @@ Darn it. I'm stone broke.","払ってくれると思ったんですが…
 together
  
 I wonder if I came
-.",0.16666666666666666
+.",0.16666666666666666,0.14105698
 My bag is at the front desk of the inn.,"(ｾﾝﾀ)
 まさか
  
@@ -380,7 +380,7 @@ My bag is at the front desk of the inn.,"(ｾﾝﾀ)
 ","Masadish
  
 The owner of the necklace
-It is changing",0.2
+It is changing",0.2,0.12603699
 Just bring it without complaint.,"確かに
  
 ケチだし
@@ -389,19 +389,19 @@ Just bring it without complaint.,"確かに
 ","surely
  
 It is a mess
-.",0.2
+.",0.2,0.27124822
 Huh? Could you be...,"頼んでもらえませんか？
 はぁ!?
 
 ","Could you ask me?
-Ha!?",0.3
+Ha!?",0.3,0.40751165
 Y-You are...!,"女房
  
 子どもが待ってるんです！
 
 ","wife
  
-Children are waiting!",0.2857142857142857
+Children are waiting!",0.2857142857142857,0.20639858
 Yes.,"(
 綱手
 )
@@ -413,20 +413,20 @@ Yes.,"(
 ","Shizune
 .
 
-Yes?",0.5
+Yes?",0.5,0.36008203
 Lady Tsunade!,"(ｼｽﾞﾈ)
 あひぃ～！
 
-",Ahi!,0.25
+",Ahi!,0.25,0.28082123
 Where are you!,"えぇ!?
 
-",Eh!?,0.16666666666666666
+",Eh!?,0.16666666666666666,0.12868561
 We have a problem!,"(
 店員２
 )
 綱手様のお連れ様ですか？
 
-",Do you have a rope?,0.2222222222222222
+",Do you have a rope?,0.2222222222222222,0.18516189
 "talk of her installment as
 the Fifth Hokage will probably end.","温泉の硫黄のにおいが
 邪魔をして…
@@ -434,7 +434,7 @@ the Fifth Hokage will probably end.","温泉の硫黄のにおいが
 
 ","The smell of sulfur in the hot spring
 I'm disturbing ...
-.",0.14285714285714285
+.",0.14285714285714285,0.07708395
 "Right, Tonton?","えっ
  
 無理？
@@ -445,7 +445,7 @@ I'm disturbing ...
  
 unreasonableness?
  
-Why?",0.14285714285714285
+Why?",0.14285714285714285,0.04968866
 No problem.,"ハァ
  
 ハァ
@@ -468,14 +468,14 @@ Hua ...
 B. ...
  
 B. ...
-.",0.14285714285714285
+.",0.14285714285714285,0.014136599
 Then I'll make it brief.,"どうしよう…
 ナルト君を助けなきゃ
 ｡
 
 ","What should I do…
 I have to help Naruto
-.",0.14285714285714285
+.",0.14285714285714285,0.18416907
 "Pay back your debt
 in one lump sum.","それに
  
@@ -485,7 +485,7 @@ in one lump sum.","それに
 ","in addition
  
 Big debt in Tsuggu-sama
-If there is a certain thing",0.1111111111111111
+If there is a certain thing",0.1111111111111111,0.3702767
 Or else...,"ブ～
  
 ブ～…
@@ -494,7 +494,7 @@ Or else...,"ブ～
 ","~
  
 B. ...
-.",0.16666666666666666
+.",0.16666666666666666,0.32230705
 "- Huh!
 - What did you just say?!","いいわね？
  
@@ -508,14 +508,14 @@ B. ...
 Tonton
 .
 
-B.!",0.15384615384615385
+B.!",0.15384615384615385,0.11767165
 Didn't you hear me?,"俺たちが誰だか
  
 分かるな？
 
 ","Who are we?
  
-Do you know?",0.18181818181818182
+Do you know?",0.18181818181818185,0.13356519
 "It doesn't matter to me
 what happens with his life.","大丈夫だってばよ
 ｡
@@ -525,14 +525,14 @@ what happens with his life.","大丈夫だってばよ
 ","It's okay
 .
 I came
-.",0.125
+.",0.125,0.13478307
 You... darn old hag!,"あ～！
  
 助けてくれってばよ！
 
 ","Oh!
  
-Help me!",0.1111111111111111
+Help me!",0.1111111111111111,0.15061207
 I can't leave him in the mess.,"(ﾌﾞﾝｿﾞｳ)
 だったら
  
@@ -544,7 +544,7 @@ I can't leave him in the mess.,"(ﾌﾞﾝｿﾞｳ)
  
 The story is early
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.098980024
 Let me make sure of this.,"どうして
  
 こうなるかの
@@ -553,7 +553,7 @@ Let me make sure of this.,"どうして
 ","why
  
 Whether this happens
-.",0.2
+.",0.2,0.31025225
 Fake!,"(
 男性たち
 )
@@ -562,14 +562,14 @@ Fake!,"(
 猿の鳴き声
 )
 
-",Sumo exclamation!,0.25
+",Sumo exclamation!,0.25,0.21232678
 Shoot!,"こんの…
  
 くそばばあ！
 
 ","Hello ...
  
-Kasaga!",0.2
+Kasaga!",0.2,0.2115592
 It's that suitcase.,"(
 綱手
 )
@@ -583,13 +583,13 @@ It's that suitcase.,"(
  
 Slightly forward
 It may have said that
-.",0.2727272727272727
+.",0.2727272727272727,0.12173985
 How do we get it out?,"(
 綱手
 )
 聞こえなかったのかい？➡
 
-",Did not you hear?➡,0.08333333333333333
+",Did not you hear?➡,0.08333333333333333,0.01356926
 Leave it to me.,"そいつの命なんか
  
 あたしに
@@ -604,12 +604,12 @@ To me
 Tact
  
 It doesn't matter
-.",0.3076923076923077
+.",0.3076923076923077,0.23203745
 "Ah, here's the suitcase.","持ってきな
 ｡
 
 ","Brought
-.",0.125
+.",0.125,0.29544464
 "It's dangerous,
 so let's leave it at the front desk.","今んとこ
  
@@ -621,14 +621,14 @@ so let's leave it at the front desk.","今んとこ
  
 What is at hand
 It is only Hello
-.",0.16666666666666666
+.",0.16666666666666666,0.1469375
 "- You did it!
 - You did it!","(ｾﾝﾀ)
 あっ！
 偽物だ！
 
 ","Ah!
-It's a fake!",0.2222222222222222
+It's a fake!",0.2222222222222222,0.2560586
 Why don't you do something?!,"この人たち
  
 国に帰れねえんだぞ？
@@ -641,12 +641,12 @@ Why don't you do something?!,"この人たち
 You can go home?
 such a thing
  
-It looks cute!",0.16666666666666666
+It looks cute!",0.16666666666666666,0.26812148
 Naruto...,"ナルトの影分身…
 ｡
 
 ","Naruto shadow size ...
-.",0.4
+.",0.4,0.6334846
 "Or do people from other countries
 not matter to you?","金
  
@@ -658,7 +658,7 @@ not matter to you?","金
  
 Is it returned?
 It will not be related to you
-.",0.21052631578947367
+.",0.21052631578947367,0.15313867
 Now!,"(ﾌﾞﾝｿﾞｳ)
 うわっ！
 (ｾﾝﾀ)
@@ -666,7 +666,7 @@ Now!,"(ﾌﾞﾝｿﾞｳ)
 
 ","Wow!
 
-Wow!",0.3333333333333333
+Wow!",0.3333333333333333,0.3248819
 Huh?,"そうすると
 ナルト君たちは
  
@@ -675,7 +675,7 @@ Huh?,"そうすると
 ","So
 Naruto-kun
  
-where?""",0.16666666666666666
+where?""",0.16666666666666666,0.17788103
 Tonton?!,"あそこまで
  
 ひきょうとは！
@@ -686,17 +686,17 @@ Tonton?!,"あそこまで
  
 What is!
 
-What do you do?",0.2222222222222222
+What do you do?",0.2222222222222222,0.14897598
 Naruto!,"のんきに酒飲んでやがる～！
 
-",I will drink albouts!,0.16666666666666666
+",I will drink albouts!,0.16666666666666666,0.2246347
 then it's over!,"それでは～！
 
-",Then ~!,0.3333333333333333
+",Then ~!,0.3333333333333333,0.48567733
 Purse snatchers?,"(ｾﾝﾀ)
 あのカバンですね？
 
-",That bag is it?,0.14285714285714285
+",That bag is it?,0.14285714285714285,0.31399179
 It's because you're following us!,"ヘヘッ
  
 ほ～ら
@@ -705,14 +705,14 @@ It's because you're following us!,"ヘヘッ
 ","Hehe
  
 In addition
-It's getting tired!",0.23076923076923078
+It's getting tired!",0.2307692307692308,0.23671436
 What's going on...?,"あ～！
  
 綱手のばあちゃん!?
 
 ","Oh!
  
-Tsuggu's grandma!?",0.2
+Tsuggu's grandma!?",0.2,0.20362926
 And I was young then too.,"こいつら
  
 自分の国に帰れなくて
@@ -723,12 +723,12 @@ And I was young then too.,"こいつら
  
 I can not return to my country
 I'm troubled
-.",0.11764705882352941
+.",0.1176470588235294,0.12755051
 Gulp it down.,"火影なら…
 ｡
 
 ","If it fires ...
-.",0.2857142857142857
+.",0.2857142857142857,0.22697397
 What is it? You're in front of a guest.,"それとも
  
 よその国の人間は
@@ -737,7 +737,7 @@ What is it? You're in front of a guest.,"それとも
 ","Or
  
 Humans in the country
-What's wrong?",0.16666666666666666
+What's wrong?",0.16666666666666666,0.09195186
 "- Where are the rest?!
 - Where are the rest?!","あら？
 (ﾌﾞﾝｿﾞｳ･ｾﾝﾀ)
@@ -745,7 +745,7 @@ What's wrong?",0.16666666666666666
 
 ","fault?
 
-I did!",0.2
+I did!",0.2,0.106457785
 Over there!,"(ﾌﾞﾝｿﾞｳ)
 へい！
 あ…
@@ -759,7 +759,7 @@ Ah…
  
 Ah…
  
-Ahh!",0.16666666666666666
+Ahh!",0.16666666666666666,0.25596732
 "- Hold it!
 - Hold it!","おしまいだってばよ！
 (ｾﾝﾀ･ﾌﾞﾝｿﾞｳ)
@@ -767,15 +767,15 @@ Ahh!",0.16666666666666666
 
 ","It's fun!
 
-Hey!",0.2857142857142857
+Hey!",0.2857142857142857,0.19203398
 Prepare yourself!,"(ｾﾝﾀ･ﾌﾞﾝｿﾞｳ)
 ひぃ！
 
-",Hey!,0.25
+",Hey!,0.25,0.2949745
 Settle down!,"(ｾﾝﾀ)
 うお～！
 
-",Uo!,0.25
+",Uo!,0.25,0.33743852
 "What are you doing?!
 This is in the middle of town!","(
 男性
@@ -794,10 +794,10 @@ This is in the middle of town!","(
 boss
 .
 
-What is it?",0.16666666666666666
+What is it?",0.16666666666666666,0.2422189
 Huh!,"あ～！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.69606507
 Hello... Lady Tsunade...,"ハァ
  
 ハァ
@@ -810,21 +810,21 @@ Hello... Lady Tsunade...,"ハァ
 Han
  
 Hua ...
-.",0.14285714285714285
+.",0.14285714285714285,0.22913086
 "As luck would have it,
 we met by accident on the street.","残りは…
 ｡
 
 ","The rest…
-.",0.13333333333333333
+.",0.13333333333333333,-0.023947451
 You've gotta be kidding.,"覚悟しな！
 
-",Be prepared!,0.1111111111111111
+",Be prepared!,0.1111111111111111,0.12620784
 "- You too, Naruto. Take care!
 - You too, Naruto. Take care!","(ｾﾝﾀ･ﾌﾞﾝｿﾞｳ)
 ナルトさん！
 
-",Naruto!,0.2222222222222222
+",Naruto!,0.2222222222222222,0.6323595
 "Hey, if the suitcase
 doesn't have money in it,","や…
  
@@ -836,7 +836,7 @@ doesn't have money in it,","や…
  
 Hooray!
 
-It is money!",0.13333333333333333
+It is money!",0.13333333333333333,0.41587466
 "why were you so serious
 about getting it back?","借用書？
 (ﾌﾞﾝｿﾞｳ)
@@ -844,7 +844,7 @@ about getting it back?","借用書？
 
 ","Borrowing book?
 
-Isn't it gold?",0.13333333333333333
+Isn't it gold?",0.13333333333333333,0.14539388
 "The Hokage and the debt
 are unrelated.","≪
 (
@@ -860,7 +860,7 @@ are unrelated.","≪
 What are you doing?
  
 This is in the city
-.",0.1875
+.",0.1875,0.022753105
 so there's nothing to worry about.,"(ｾﾝﾀ･ﾌﾞﾝｿﾞｳ)
 そんな
  
@@ -870,7 +870,7 @@ so there's nothing to worry about.,"(ｾﾝﾀ･ﾌﾞﾝｿﾞｳ)
 ","Such
  
 It's so much ...
-.",0.25
+.",0.25,0.2532451
 What?,"ん？
  
 ん？
@@ -881,7 +881,7 @@ What?,"ん？
  
 Yeah?
  
-picture?",0.25
+picture?",0.25,0.20410529
 "Finally, the time has come.","訳を聞かせてもらうよ
  
 シズネ
@@ -890,7 +890,7 @@ picture?",0.25
 ","Let me know the translation
  
 Shizune
-.",0.16666666666666666
+.",0.16666666666666666,0.05011767
 "<i>Always I feel it</i>
 <i>the precious time with you</i>","知らねえのか？
 (ﾌﾞﾝｿﾞｳ)
@@ -898,17 +898,17 @@ Shizune
 
 ","Do you know?
 
-The Great Luck of the Highway",0.10526315789473684
+The Great Luck of the Highway",0.10526315789473684,0.073687054
 "<i>""Each one of us glows differently,""</i>","１年前に返したよ
 ｡
 
 ","I returned one year ago
-.",0.125
+.",0.125,0.0007691672
 <i>you say laughingly</i>,"お前たち宛てのところだけ読むぞ
 ｡
 
 ","I will read only for you
-.",0.16666666666666666
+.",0.16666666666666666,0.11285718
 <i>Being lost can be the answer</i>,"これで
  
 安心して国に帰れます
@@ -917,23 +917,23 @@ The Great Luck of the Highway",0.10526315789473684
 ","with this
  
 You can return to the country with peace of mind
-.",0.1
+.",0.1,0.2307323
 <i>Let's promise we won't cheat</i>,"綱手様の火影就任を➡
 
-",Tsutsu-sama's fire launch,0.07142857142857142
+",Tsutsu-sama's fire launch,0.07142857142857142,0.065999985
 You can't rejoice yet.,"それに借金は返したって
 言ってたじゃねえか
 ｡
 
 ","Borrowed debt returned
 You said that
-.",0.18181818181818182
+.",0.18181818181818185,0.22021982
 "The current situation
 in the village is serious.","もう気にすることはねえってばよ
 ｡
 
 ","It is not good to worry about
-.",0.14285714285714285
+.",0.14285714285714285,0.16227415
 "You're right.
 I have to do my best,","気にしない
  
@@ -951,13 +951,13 @@ Do not worry
 
 ~
  
-B.!",0.125
+B.!",0.125,0.17587465
 "And work hard for
 the village as well.","火影と借金は関係ないって
 ｡
 
 ","The fire shadow and the debt are not related
-.",0.2
+.",0.2,0.09780572
 I have to fill my stomach first!,"イヤ～！
 
-",Ear!,0.1111111111111111
+",Ear!,0.1111111111111111,0.26574934

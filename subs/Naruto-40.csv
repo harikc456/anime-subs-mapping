@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774587
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.30175316
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048285
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.21940824
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387683
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586984
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41970003
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,15 +68,15 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.55187774
 Curse Sealing!,"あ～！
 
-",Oh!,0.25
+",Oh!,0.25,0.16818544
 Out of character.,"あぁ…
 ｡
 
 ","Ahh…
-.",0.2
+.",0.2,0.15626253
 "To think you've become able to
 handle Sealing Jutsu...","≪
 (
@@ -90,7 +90,7 @@ handle Sealing Jutsu...","≪
 
 Until sealing
 It became possible to handle ...
-.",0.25
+.",0.25,0.52873063
 "Long time no see, Kakashi.","(
 大蛇丸
 )
@@ -102,7 +102,7 @@ It became possible to handle ...
 ","Long time no see
  
 Kakashi
-.",0.8571428571428571
+.",0.8571428571428571,0.96358466
 "I have no business with you, Kakashi.","(
 大蛇丸
 )
@@ -114,35 +114,35 @@ Kakashi
 ","I grew up
  
 Kakashi
-.",0.2727272727272727
+.",0.2727272727272727,0.60714453
 Why are you after Sasuke?!,"(ｶｶｼ)
 なぜサスケを付け狙う？
 
-",Why do you aim at Sasuke?,0.4
+",Why do you aim at Sasuke?,0.4,0.7528977
 "It's good for you.
 You already got it, right?","もう手に入れたんだからね
 ｡
 
 ","I got it already
-.",0.3333333333333333
+.",0.3333333333333333,0.50826997
 That.,"それ
 ｡
 
 ","That
-.",1.0
+.",1.0,0.99999994
 That...,"その…➡
 
-",That ... ➡,0.6666666666666666
+",That ... ➡,0.6666666666666666,0.69784546
 left eye Sharingan!,"左目の写輪眼
 ｡
 
 ","Left eye moss eyes
-.",0.2857142857142857
+.",0.2857142857142857,0.63236916
 "I want it, too...","私も欲しいのよ
 ｡
 
 ","I also want
-.",0.25
+.",0.25,0.6350131
 The Uchiha power.,"(
 大蛇丸
 )
@@ -150,10 +150,10 @@ The Uchiha power.,"(
 ｡
 
 ","My power is
-.",0.3333333333333333
+.",0.3333333333333333,0.46322256
 W-What?!,"ん!?
 
-",Hmm!?,0.5
+",Hmm!?,0.5,0.1956644
 "<i>They burst through the skin...</i>
 <i>from inside his body?!</i>","体の中から皮膚を突き破って…
 ｡
@@ -161,10 +161,10 @@ W-What?!,"ん!?
 
 ","I push my skin from the body ...
 .
-➡",0.3
+➡",0.3,0.47280192
 <i>What a creepy guy!</i>,"気持ち悪ぃ野郎だぜ》
 
-",I'm a bad guy,0.2727272727272727
+",I'm a bad guy,0.2727272727272727,0.28124297
 "Heh! What kind of bluff
 are you trying to pull?","ヘッ
  
@@ -178,13 +178,13 @@ are you trying to pull?","ヘッ
 what kind
  
 bluff
-Are you going?",0.42857142857142855
+Are you going?",0.42857142857142855,0.70830053
 These things are called Parasitic Insects.,"(
 シノ
 )
 こいつらは寄壊蟲といって➡
 
-",These guys are naughty,0.2222222222222222
+",These guys are naughty,0.2222222222222222,0.19902411
 "They attack their pray in groups
 and eat Chakra...","集団で獲物を襲い
 チャクラを食らう
@@ -194,14 +194,14 @@ and eat Chakra...","集団で獲物を襲い
 ","Strike prey in a population
 Eat chakra
 .
-➡",0.1875
+➡",0.1875,0.69226295
 "you're finished, no mistake.","お前は間違いなく
 再起不能になる
 ｡
 
 ","You are definitely
 It becomes unreliable
-.",0.16666666666666666
+.",0.16666666666666666,0.22097251
 "If you don't like that, give up.","(
 シノ
 )
@@ -213,11 +213,11 @@ It becomes unreliable
 ","If you don't like Give up
 That's good
 .
-➡",0.6923076923076923
+➡",0.6923076923076923,0.66089237
 "If you use your left arm
 technique on me,","もし左手の技を俺に使えば➡
 
-",If you can use the technique of the left hand for me,0.4
+",If you can use the technique of the left hand for me,0.4,0.7807421
 "I'll simultaneously have the bugs exploit
 the opening from behind.","それと同時に
 背後から蟲に隙を突かせる
@@ -227,7 +227,7 @@ the opening from behind.","それと同時に
 ","At the same time
 Put the gap from behind
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.34631306
 "An ace in the hole is something
 you set aside.","(
 シノ
@@ -236,42 +236,42 @@ you set aside.","(
 ｡
 
 ","The hand is to be taken
-.",0.2
+.",0.2,0.23354185
 You little thief!,"(
 男性１
 )
 ＜この泥棒野郎が！＞
 
-",<This thief bastard!>,0.25
+",<This thief bastard!>,0.25,0.7305864
 Someone! Grab him!,"＜誰か
  
 そいつ捕まえてくれ！＞
 
 ","<Someone
  
-Get caught up!>",0.2222222222222222
+Get caught up!>",0.2222222222222222,0.46462205
 I liked your eyes earlier...,"＜さっきの君の目
  
 気に入ったわ＞
 
 ","<Your eye of your eyes
  
-I liked it>",0.36363636363636365
+I liked it>",0.3636363636363637,0.66541225
 "<i>If you come with me,</i>
 <i>you can become strong.</i>","＜私の所に来れば➡
 
-",<If you come to me,0.35714285714285715
+",<If you come to me,0.35714285714285715,0.5359001
 <i>You can become strong.</i>,"(
 大蛇丸
 )
 ＜強くなれるわよ＞
 
-",<I can get stronger>,0.4
+",<I can get stronger>,0.4,0.8491447
 <i>Fight for me. If you do that...</i>,"＜私のために戦いなさい
 そうすれば➡
 
 ","<Fight for me
-If so,",0.3333333333333333
+If so,",0.3333333333333333,0.71002746
 "<i>Now, please live up to my expectations...</i>","(
 大蛇丸
 )
@@ -281,7 +281,7 @@ If so,",0.3333333333333333
 
 ","<<
  
-Take care to meet expectations>",0.25
+Take care to meet expectations>",0.25,0.69032115
 "<i>It seems like you're proud</i>
 <i>of your arms. You!</i>","＜フフ…
 両腕が自慢らしいな
@@ -291,13 +291,13 @@ Take care to meet expectations>",0.25
 ","<Hufu ...
 Both arms are proud
  
-You>",0.2631578947368421
+You>",0.2631578947368421,0.76732296
 <i>Stop!</i>,"＜うわ！＞
 
-",<Wow!>,0.42857142857142855
+",<Wow!>,0.42857142857142855,0.48147175
 Don't... underestimate me!,"俺をナメるなよ！
 
-",Don't play me!,0.5714285714285714
+",Don't play me!,0.5714285714285714,0.46191174
 "An ace in the hole is something
 you set aside, right?!","奥の手は
 取っておくものだよな？
@@ -307,7 +307,7 @@ you set aside, right?!","奥の手は
 ","The back hand
 It's something to take?
  
-Ahh!?",0.19047619047619047
+Ahh!?",0.19047619047619047,0.32706463
 "What?! He could already
 use his right arm?!","(
 キバ
@@ -320,7 +320,7 @@ use his right arm?!","(
 ","what?
  
 Did you use the right arm?
-.",0.35714285714285715
+.",0.35714285714285715,0.5939785
 "<i>So the first half of the battle was</i>
 <i>a strategic move</i>","(
 ドス
@@ -331,20 +331,20 @@ Did you use the right arm?
 
 ","""Fuhufu ...
  
-The first half battle is ➡",0.21052631578947367
+The first half battle is ➡",0.21052631578947367,0.50369716
 What's your purpose?,"(ｶｶｼ)
 目的は何だ？
 
-",What is the purpose?,0.42857142857142855
+",What is the purpose?,0.42857142857142855,0.6671201
 "The recently built Sound Village.
 That's my village, you see...","あれは私の里でね
 ｡
 
 ","That is my village
-.",0.2857142857142857
+.",0.2857142857142857,0.66331923
 "You already understand, don't you?","これだけ言えば分かるわよね？
 
-","You can only understand this, right?",0.36363636363636365
+","You can only understand this, right?",0.3636363636363637,0.5786413
 Humph! Ridiculous ambition.,"(ｶｶｼ)
 フッ
  
@@ -354,20 +354,20 @@ Humph! Ridiculous ambition.,"(ｶｶｼ)
 ","Hook
  
 It is a silly ambition
-.",0.2
+.",0.2,0.42822117
 "But, for that I need various pieces
 who will obey my every whim.","いろいろなコマが必要なの
 ｡
 
 ","I need various frames
-.",0.25
+.",0.25,0.29832023
 Take this!,"ハァ～
  
 食らえ～！
 
 ","Hua ~
  
-Eat!",0.16666666666666666
+Eat!",0.16666666666666666,0.3181233
 So Sasuke is one of those pieces?,"(ｶｶｼ)
 サスケも
 そのコマの一人ってわけか
@@ -375,7 +375,7 @@ So Sasuke is one of those pieces?,"(ｶｶｼ)
 
 ","Sasuke
 One of the frames
-.",0.2727272727272727
+.",0.2727272727272727,0.7716892
 No. Sasuke is an exceptional piece.,"違うわ
  
 サスケ君は優秀な手ゴマ
@@ -384,7 +384,7 @@ No. Sasuke is an exceptional piece.,"違うわ
 ","Differently
  
 Sasuke-kun is an excellent helicopter
-.",0.2727272727272727
+.",0.2727272727272727,0.66179454
 "And the ones who are taking
 the exams now...","そして今
 試験を受けてる彼らは…
@@ -392,15 +392,15 @@ the exams now...","そして今
 
 ","And now
 They are taking the exam ...
-.",0.5
+.",0.5,0.7212629
 are mere throw away pieces.,"ただの捨てゴマよ
 ｡
 
 ","Just throwing away
-.",0.25
+.",0.25,0.5437167
 My arms!,"腕が～！
 
-",My arms ~!,0.75
+",My arms ~!,0.75,0.919474
 What's this?!,"(
 ザク
 )
@@ -410,7 +410,7 @@ What's this?!,"(
 
 ","Ah…
  
-What did you say!?",0.3333333333333333
+What did you say!?",0.3333333333333333,0.25583437
 "Earlier when I recommended
 that you give up...","(
 シノ
@@ -423,7 +423,7 @@ that you give up...","(
 ","some time ago
  
 Over
-When you recommend Give up",0.2857142857142857
+When you recommend Give up",0.2857142857142857,0.78516006
 This is what a real ace in the hole is.,"真の奥の手とは
  
 こういうものだ
@@ -432,13 +432,13 @@ This is what a real ace in the hole is.,"真の奥の手とは
 ","What is the hand of the true back
  
 It's like this
-.",0.29411764705882354
+.",0.29411764705882354,0.28384137
 Punk!,"(
 ザク
 )
 ん～！➡
 
-",!➡,0.3333333333333333
+",!➡,0.3333333333333333,0.2700021
 Don't... come any closer... to Sasuke!,"(ｶｶｼ)
 サスケに
  
@@ -450,7 +450,7 @@ Don't... come any closer... to Sasuke!,"(ｶｶｼ)
  
 More
  
-Do not approach!",0.23076923076923078
+Do not approach!",0.2307692307692308,0.78419185
 "Even if you're one of
 the legendary three Ninja,","(ｶｶｼ)
 いくら
@@ -461,11 +461,11 @@ the legendary three Ninja,","(ｶｶｼ)
 ","How much
  
 Aunt
-Even if it is one of that legendary Sanbu",0.2777777777777778
+Even if it is one of that legendary Sanbu",0.2777777777777778,0.37444896
 What's funny?,"(ｶｶｼ)
 何がおかしい？
 
-",What's wrong?,0.6
+",What's wrong?,0.6,0.3591482
 "What you say and what you do,
 are all off.","今の俺なら
  
@@ -477,17 +477,17 @@ are all off.","今の俺なら
  
 I'm pierced with you
 I can do so much
-.",0.15789473684210525
+.",0.15789473684210525,0.18608904
 "You understand, don't you?","分かるでしょ？➡
 
-",Do you understand?➡,0.5714285714285714
+",Do you understand?➡,0.5714285714285714,0.6023111
 "The heart to seek out
 in pursuit of the goal,","(
 大蛇丸
 )
 すること言うこと➡
 
-",To say,0.09090909090909091
+",To say,0.09090909090909093,0.25010076
 He is the possessor of that quality.,"彼は
  
 その資質の持ち主
@@ -498,7 +498,7 @@ He is the possessor of that quality.,"彼は
  
 The owner of the qualification
 .
-➡",0.36363636363636365
+➡",0.3636363636363637,0.4053028
 "However, Sasuke is...","(ｶｶｼ)
 そこに
  
@@ -514,55 +514,55 @@ Was it?
 But
  
 Sasuke ...
-.",0.18181818181818182
+.",0.18181818181818185,0.7734628
 in search of power.,"力を求めてね
 ｡
 
 ","In search of power
-.",1.0
+.",1.0,0.99999994
 "Oh, and, you're going to kill me?","(
 大蛇丸
 )
 それに君が私を殺すんだって？➡
 
-",And you kill me?➡,0.45454545454545453
+",And you kill me?➡,0.4545454545454545,0.62963295
 Why don't you try?,"やってみれば？➡
 
-",Would you like to do it?➡,0.2727272727272727
+",Would you like to do it?➡,0.2727272727272727,0.34244156
 "That is, if you can...","できればだけど
 ｡
 
 ","If possible,
-.",0.2222222222222222
+.",0.2222222222222222,0.43651855
 <i>Am I an idiot?</i>,"ばかか
  
 俺は》
 
 ","Are you stupid 
  
- I am""",0.16666666666666666
+ I am""",0.16666666666666666,0.5351115
 It seems... it's over.,"(ｶｶｼ)
 ハァ…
 ｡
 
 ","Hua ...
-.",0.2857142857142857
+.",0.2857142857142857,0.17914149
 Byakugan!,"うっ！
 
-",Uh!,0.3333333333333333
+",Uh!,0.3333333333333333,0.2684995
 "I can understand him calling bugs
 with a Summoning Jutsu...","口寄せの術で蟲を呼び出すなら
 ともかく➡
 
 ","If you call a wolf with your mouth
-Anyway",0.1111111111111111
+Anyway",0.1111111111111111,0.16781165
 S-Say what?!,"な…
  
 何ですと!?
 
 ","...
  
-What is it?",0.2857142857142857
+What is it?",0.2857142857142857,0.21039519
 "He's of the bug tamer race that
 is passed down in the Leaf Village.","(
 ガイ
@@ -573,20 +573,20 @@ is passed down in the Leaf Village.","(
 
 ","That guy is transmitted to the wooden leaves
 It is a family of slaughter
-.",0.20833333333333334
+.",0.20833333333333331,0.49911693
 "Speaking of which,
 I've heard of it...","そういえば聞いたことがある
 ｡
 
 ","Speaking of which I have heard
-.",0.45454545454545453
+.",0.4545454545454545,0.7415794
 "The story of a race that as
 they come into this world,","この世に生を受けると同時に➡
 
-",At the same time as you get rid of this world,0.2631578947368421
+",At the same time as you get rid of this world,0.2631578947368421,0.24021411
 as a nest and fight using these bugs.,"その蟲を使って戦うという➡
 
-",Take a fight using that,0.2727272727272727
+",Take a fight using that,0.2727272727272727,0.34193566
 "They fully control the bugs and
 entrust most of the battle to the bugs...","その戦闘のほとんどを
 蟲に委ねる
@@ -596,15 +596,15 @@ entrust most of the battle to the bugs...","その戦闘のほとんどを
 ","Most of the battle
 Entrust
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.33986324
 as food for compensation.,"その代償として
 みずからのチャクラを➡
 
 ","As a compensation
-Mizuhira's chakra",0.2222222222222222
+Mizuhira's chakra",0.2222222222222222,0.38350412
 So he's... the successor?,"その継承者が➡
 
-",The successor is ➡,0.2222222222222222
+",The successor is ➡,0.2222222222222222,0.70811296
 "That was unfortunate, Zaku.","(
 ドス
 )
@@ -616,7 +616,7 @@ So he's... the successor?,"その継承者が➡
 ","It was a pity
  
 Zaku
-.",0.3333333333333333
+.",0.3333333333333333,0.8515078
 Why'd that happen to Zaku's arms?,"(
 キン
 )
@@ -628,7 +628,7 @@ Why'd that happen to Zaku's arms?,"(
 ","why
  
 Zak's arm
-Is that something like that?",0.2857142857142857
+Is that something like that?",0.2857142857142857,0.789534
 "exploited the opening and
 stuck those bugs","(
 ドス
@@ -637,7 +637,7 @@ stuck those bugs","(
 あのシノとかいうヤツ➡
 
 ","perhaps
-That Sino and the guy",0.18181818181818182
+That Sino and the guy",0.18181818181818185,0.14238322
 into the exhaust opening in Zaku's hands.,"ザクの手の排空口に
 詰めたのでしょう
 ｡
@@ -646,29 +646,29 @@ into the exhaust opening in Zaku's hands.,"ザクの手の排空口に
 ","In the exhaust mouth of Zaku's hand
 It was packed
 .
-➡",0.375
+➡",0.375,0.7136723
 "If he were to fire the Slicing Sonic Wave
 in that condition,","その状態で斬空波を撃てば➡
 
-",If you shoot a slash wave in that state ➡,0.21052631578947367
+",If you shoot a slash wave in that state ➡,0.21052631578947367,0.5196182
 "the energy with no way out
 would expand in search of an exit...","腕の中で出口を求めて拡大
 ｡
 
 ","In search of exit in my arms
-.",0.23529411764705882
+.",0.2352941176470588,0.38757682
 "His arms that are
 gun barrels blow up...","(
 ドス
 )
 砲身であるザクの腕は暴発し➡
 
-",The arms of the armor who are cannon,0.14285714285714285
+",The arms of the armor who are cannon,0.14285714285714285,0.50413114
 and become useless.,"使いものにならなくなる
 ｡
 
 ","It will not be used
-.",0.1111111111111111
+.",0.1111111111111111,0.31200427
 "<i>Our relationship was only that</i>
 <i>of having been given the same mission...</i>","(
 ドス
@@ -677,7 +677,7 @@ and become useless.,"使いものにならなくなる
 同じ任務を与えられただけの➡
 
 ","""With you
-Just given the same mission",0.19047619047619047
+Just given the same mission",0.19047619047619047,0.66931343
 <i>but... l'll even the score for you.</i>,"(
 紅
 )
@@ -689,7 +689,7 @@ Just given the same mission",0.19047619047619047
 ","""Hua ...
 I'll do it
  
-not at all""",0.14285714285714285
+not at all""",0.14285714285714285,0.11074947
 What?! What?!,"(ﾅﾙﾄ)
 何だ
  
@@ -701,7 +701,7 @@ What?! What?!,"(ﾅﾙﾄ)
  
 What
  
-Shino's guy!",0.3333333333333333
+Shino's guy!",0.3333333333333333,0.1580455
 "So Shino, you were that strong,
 weren't you?! Dang it!","お前ってば
  
@@ -715,7 +715,7 @@ weren't you?! Dang it!","お前ってば
 so much
 Were you strong?
  
-Chikusho ~!",0.375
+Chikusho ~!",0.375,0.6148922
 "I thought he was
 a creepy person from long before, but...","(ｻｸﾗ)
 前々から不気味な人だとは
@@ -724,7 +724,7 @@ a creepy person from long before, but...","(ｻｸﾗ)
 
 ","What is a spooky person before
 I thought
-.",0.29411764705882354
+.",0.29411764705882354,0.52225447
 Oh...,"(
 ドス
 )
@@ -732,7 +732,7 @@ Oh...,"(
 ｡
 
 ","Fufu ...
-.",0.25
+.",0.25,0.38639724
 "Hey, you did it!","(
 キバ
 )
@@ -752,12 +752,12 @@ Oi!
 
 Yes
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.5641633
 "Yes... I'm counting on you guys, too.","お前たちにも期待してるぞ
 ｡
 
 ","I'm looking forward to you
-.",0.2857142857142857
+.",0.2857142857142857,0.30455914
 "<i>He comes back like he's</i>
 <i>the team leader or something! Dang it!</i>","こいつ
  
@@ -771,21 +771,21 @@ Yes
 It looks like a team leader
 I'm back at Nori
  
-Fuck!""",0.2692307692307692
+Fuck!""",0.2692307692307692,0.5237384
 "Umm, now then, I would like to
 get right to the next match.","次の試合に行きたいと思います
 ｡
 
 ","I would like to go to the next game
-.",0.4375
+.",0.4375,0.5292993
 Kakashi Sensei!,"カカシ先生！
 
-",teacher Kakashi!,0.5
+",teacher Kakashi!,0.5,0.7215713
 What about Sasuke? Is he okay?,"サスケ君は？
 サスケ君は大丈夫なの？
 
 ","Sasuke?
-Sasuke is all right?",0.3333333333333333
+Sasuke is all right?",0.3333333333333333,0.8539904
 "Well, he's fine.","(ｶｶｼ)
 まっ
  
@@ -805,16 +805,16 @@ now
 At the hospital
  
 Graceful
-.",0.14285714285714285
+.",0.14285714285714285,0.25659138
 Oh.,"あっ
 ｡
 
 ","Ah
-.",0.3333333333333333
+.",0.3333333333333333,0.80466735
 <i>It's finally my turn.</i>,"(ｶﾝｸﾛｳ)
 《やっと俺の番じゃん》
 
-","""Finally my best""",0.16666666666666666
+","""Finally my best""",0.16666666666666666,0.3655153
 "Unlike Yoroi, I don't get
 careless with kids at all.","(ﾐｽﾐ)
 俺はヨロイと違って
@@ -823,7 +823,7 @@ careless with kids at all.","(ﾐｽﾐ)
 
 ","Unlike Yoroy
 I do not have any oil breaking with oysters
-.",0.25
+.",0.25,0.21109606
 give up no matter what...,"(
 我愛羅
 )
@@ -833,32 +833,32 @@ give up no matter what...,"(
 
 ","""Hu
  
-A fool ... """,0.1
+A fool ... """,0.1,0.17512408
 "If so, I'll also...","俺が技をかけたら最後
 ｡
 ➡
 
 ","If I make a skill, the last
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.12869564
 bring it to an end swiftly!,"(ｶﾝｸﾛｳ)
 速攻で
 けりつけてやるじゃん！
 
 ","Faster
-I will do it!",0.18181818181818182
+I will do it!",0.18181818181818185,0.3078434
 "Now then, please begin...","始めてください
 ｡
 
 ","Please start
-.",0.125
+.",0.125,0.59501255
 the third battle!,"それでは
  
 第３回戦➡
 
 ","Then
  
-3rd battle ➡",0.14285714285714285
+3rd battle ➡",0.14285714285714285,0.7172452
 "<i>when you want to cry,</i>
 <i>and you want to run away</i>","♬
  
@@ -870,28 +870,28 @@ the third battle!,"それでは
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.3938252
 I believed in your words the whole time.,"♬
  
 この手の中には
 
 ","♬
  
-In this hand",0.08333333333333333
+In this hand",0.08333333333333333,0.15289024
 "So Ino, I want to fight the full tilt you.","♬
  
 泣きたくなって
 
 ","♬
  
-I want to cry",0.21428571428571427
+I want to cry",0.21428571428571427,0.2746876
 I'm no longer like I was before.,"♬
  
 闇が生まれた
 
 ","♬
  
-Darkness was born",0.09090909090909091
+Darkness was born",0.09090909090909093,0.20660898
 "There's no point if I don't
 exceed the serious you.","♬
  
@@ -899,11 +899,11 @@ exceed the serious you.","♬
 
 ","♬
  
-If you forgot happiness",0.13333333333333333
+If you forgot happiness",0.13333333333333333,0.16051307
 Let's have a fair fight.,"♬
  
 みな歌え
 
 ","♬
  
-A singing",0.1111111111111111
+A singing",0.1111111111111111,0.042419344

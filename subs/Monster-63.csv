@@ -1,364 +1,364 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 Do we have a guest list for the reception?,"（警部）
-レセプションの招待客リストは？",What is the list of invitations for the reception?,0.35714285714285715
-"Yes, I have it.",（刑事）はい 手に入りました,I got it,0.2857142857142857
+レセプションの招待客リストは？",What is the list of invitations for the reception?,0.35714285714285715,0.7075847
+"Yes, I have it.",（刑事）はい 手に入りました,I got it,0.2857142857142857,0.36497912
 We have an idea of who was there at the time.,"あの時点での参加者
 それぞれの位置も","Participant at that time
-Each position",0.125
+Each position",0.125,0.29406714
 "He was after the governor, wasn't he?","（刑事）やはり 犯人の狙いは
 州知事でしょうか？","After all the commitment aim is
-Will it be governor?",0.26666666666666666
-All the attendees were important people.,（警部）参加者は要人ばかりだ,participants are only one of the people,0.16666666666666666
-Most of them probably have enemies.,ほとんどに敵がいるだろう,Most of them will be enemies,0.4444444444444444
+Will it be governor?",0.26666666666666666,0.4557636
+All the attendees were important people.,（警部）参加者は要人ばかりだ,participants are only one of the people,0.16666666666666666,0.47560138
+Most of them probably have enemies.,ほとんどに敵がいるだろう,Most of them will be enemies,0.4444444444444444,0.79430515
 "Well, see if you can find any connections to the culprit.","とにかく
 犯人との接点の洗い出しは続けろ","Anyways
-Continue to detect contact with the criminal",0.10526315789473684
+Continue to detect contact with the criminal",0.10526315789473684,0.10664833
 The Frankfurt police station sure is in a large\Nuproar over this convention center shooting.,"例のコンベンションセンター
 発砲事件で大騒ぎだな","Example Convention Center
-It is a fuss in the shooting case",0.3684210526315789
+It is a fuss in the shooting case",0.3684210526315789,0.54589117
 "They sure are. Even though they know the identity\Nof the culprit, they don't know who he was after.","誰を狙ったのかが
 分からないんですよ","Who was aiming for
-I do not know",0.19047619047619047
+I do not know",0.19047619047619047,0.12261665
 They know his identity?,"（ヴァイスバッハ）
-おお 犯人の身元 分かったのか",Did you understand the identity of the offender?,0.18181818181818182
+おお 犯人の身元 分かったのか",Did you understand the identity of the offender?,0.18181818181818185,0.48954386
 Yes. He's a dentist in the redevelopment area.,"（刑事）
-ええ 再開発地区の歯科医ですって",Yeah is a dentist of redevelopment district,0.21428571428571427
-What's wrong?,（刑事）どうかしました？,How did you do?,0.125
+ええ 再開発地区の歯科医ですって",Yeah is a dentist of redevelopment district,0.21428571428571427,0.84309876
+What's wrong?,（刑事）どうかしました？,How did you do?,0.125,0.08769554
 The first place I planned on going\Nto after I retire was a dentist.,"まず 行こうと思ってたのが
 歯医者なんだ","I was thinking of going
-I'm a dentist",0.23529411764705882
+I'm a dentist",0.2352941176470588,0.8040121
 I've been so busy every day that I haven't been able to go.,"毎日 毎日 忙しくて
 今まで行けなくてね","I am busy every day every day
-I have to go until now",0.4117647058823529
-"I'm Inspector Weissbach, Northrhein-Westphalia Police.",物騒な歯医者は ごめんだな,I'm sorry I'm sorry,0.2222222222222222
+I have to go until now",0.4117647058823529,0.79004705
+"I'm Inspector Weissbach, Northrhein-Westphalia Police.",物騒な歯医者は ごめんだな,I'm sorry I'm sorry,0.2222222222222222,0.09163657
 Reinhard Dinger.,"（ヴァイスバッハ）
-ラインハルト･ディンガー 42歳",Linehard Dinger 42 years old,0.14285714285714285
-Occupation: Taxi driver.,職業 タクシー運転手,Vocational taxi driver,0.3333333333333333
+ラインハルト･ディンガー 42歳",Linehard Dinger 42 years old,0.14285714285714285,0.65862674
+Occupation: Taxi driver.,職業 タクシー運転手,Vocational taxi driver,0.3333333333333333,0.8340659
 Suspected of killing a passenger in Gunter Forest Park.,"ギュンター森林公園における
 乗客殺害容疑 および","Gunter in Forest Park
-Passenger killing and",0.5454545454545454
+Passenger killing and",0.5454545454545454,0.8698281
 "He was also suspected in the Bilker Investment Bank employee murder case in '97,","97年 ビルカー投資銀行
 行員殺人事件","Virker Investment Bank in 1997
-Mastered murder case",0.29411764705882354
+Mastered murder case",0.29411764705882354,0.68811977
 "the Hofgarten murder in '96,","いずれも デュッセルドルフ近辺で
 起きた殺人事件で","Both in the vicinity of Düsseldorf
-In the murder case that happened",0.23076923076923078
+In the murder case that happened",0.2307692307692308,0.47019053
 He is wanted as a suspect for all these\Nmurders in the Dusseldorf area.,"容疑者として手配中
 よって 同容疑者を","Arranged as a suspect
-Therefore, the same suspect",0.2222222222222222
-"By signing here, I request that the suspect\Nbe transferred to Northrhein-Westphalia.",移送することをここに申請する,Apply here to transport,0.13333333333333333
-Are the arrangements ready?,おい 準備はいいか？,Are you ready?,0.5
-Yes.,はい,Yes,0.5
-All right. Let's go.,（ヴァイスバッハ）よし 行こうか,Let's go well,0.42857142857142855
-Do you want anything to drink?,（ヴァイスバッハ）何か飲むか？,Do you drink something?,0.5
-No.,（ディンガー）いや,No,0.5
-The passenger cars are all non-smoking.,この車両は禁煙だって言ってるんだ,This vehicle is saying that it is non-smoking,0.07692307692307693
-How many people have you killed with those hands?,お前 その手で何人やった？,How many people did you do with that hand?,0.42857142857142855
+Therefore, the same suspect",0.2222222222222222,0.46006504
+"By signing here, I request that the suspect\Nbe transferred to Northrhein-Westphalia.",移送することをここに申請する,Apply here to transport,0.13333333333333333,0.31161845
+Are the arrangements ready?,おい 準備はいいか？,Are you ready?,0.5,0.5082631
+Yes.,はい,Yes,0.5,0.83685565
+All right. Let's go.,（ヴァイスバッハ）よし 行こうか,Let's go well,0.42857142857142855,0.6296876
+Do you want anything to drink?,（ヴァイスバッハ）何か飲むか？,Do you drink something?,0.5,0.75821364
+No.,（ディンガー）いや,No,0.5,0.8128344
+The passenger cars are all non-smoking.,この車両は禁煙だって言ってるんだ,This vehicle is saying that it is non-smoking,0.07692307692307693,0.74475336
+How many people have you killed with those hands?,お前 その手で何人やった？,How many people did you do with that hand?,0.42857142857142855,0.7696175
 would even make the stomach of one of your murder victims turn.,"その道徳心でもって
 まっとうに生きてりゃなあ","That's the way of the road
-I'm alive",0.10526315789473684
+I'm alive",0.10526315789473684,0.24342656
 I retire tomorrow.,"（ヴァイスバッハ）
-俺は これが最後の仕事なんだ",I'm his last job,0.125
+俺は これが最後の仕事なんだ",I'm his last job,0.125,0.392126
 "I had a rather simple career as a\Npolice officer, but it wasn't bad.","まあ 地味な刑事人生だったが
 悪くはなかった","Well it was a sober detective life
-It was not bad",0.19047619047619047
+It was not bad",0.19047619047619047,0.5102568
 "From now on, all I have to do is live happily\Nwith my wife, tend my garden and such.","これからは女房と庭いじりでもして
 のんびり暮らすさ","From now on, the wife and the garden are relaxed
-Living in lives",0.28
+Living in lives",0.28,0.6372456
 That's what life is about.,"お前が そういう
 ささやかな他人の人生を","That's right
-Sasaya others' life",0.2727272727272727
+Sasaya others' life",0.2727272727272727,0.38604274
 I want you to regret the fact that you've\Ndestroyed other people's modest lives.,"壊しちまったことを
 悔いてほしいよ","It has been destroyed
-I want you to regret",0.2631578947368421
-Even a man who spat at me?,俺につばを吐くような人間でもか？,Are you a person who spites to me?,0.3076923076923077
+I want you to regret",0.2631578947368421,0.41526967
+Even a man who spat at me?,俺につばを吐くような人間でもか？,Are you a person who spites to me?,0.3076923076923077,0.37251085
 "A customer, who I picked up on Addler Street, spat at me as he was getting out.","アードラー通りで乗せた客は
 降りる時 つばを吐きかけたんだ","Customers who put on Ardler street
-When I got off, I was spit",0.23076923076923078
-Don't tell me that's why you killed him...,人生ってのは そんなもんだ,That's why,0.2727272727272727
+When I got off, I was spit",0.2307692307692308,0.63126856
+Don't tell me that's why you killed him...,人生ってのは そんなもんだ,That's why,0.2727272727272727,0.27699393
 They started having sex in the back seat of my car.,"俺の車の後部座席で
 本番 始めやがった","At the rear seat of my car
-Beginning started",0.4
-That's why I killed them.,だから ２人とも殺した,So I killed 2 people,0.2
+Beginning started",0.4,0.61255443
+That's why I killed them.,だから ２人とも殺した,So I killed 2 people,0.2,0.6047253
 A prostitute that tried to pay her fare with her body.,"料金を自分の体で
 払おうとした売春婦","Price with your own body
-Prostitute who tried to pay",0.4
-Then I'll ask you one thing.,それじゃあ １つ聞くがな,Well then I hear one,0.3
+Prostitute who tried to pay",0.4,0.74967283
+Then I'll ask you one thing.,それじゃあ １つ聞くがな,Well then I hear one,0.3,0.38194475
 What about the Bilker Investment Bank employee?,"ビルカー投資銀行の銀行員殺しは
 どうなんだ？","Bilker Investment Bank's banknote killing
-What about that?",0.5
-He was hard-working and sincere.,勤勉な仕事ぶり 誠実な人間関係,Working hard work and sincere human relationship,0.18181818181818182
-"Because you killed him,",お前が彼を殺したおかげで⸺,Thanks to you who killed him,0.375
+What about that?",0.5,0.70126563
+He was hard-working and sincere.,勤勉な仕事ぶり 誠実な人間関係,Working hard work and sincere human relationship,0.18181818181818185,0.5622349
+"Because you killed him,",お前が彼を殺したおかげで⸺,Thanks to you who killed him,0.375,0.5630893
 a financial corruption scandal that he was going to blow the whistle on remains a mystery.,"彼が告発しようとしていた
 ある財閥の収賄スキャンダルが","He was trying to accuse
-Career scandal of a certain crowd",0.22727272727272727
-The aftertaste from that one was pretty bad.,後味 悪かったな うん…,It was bad bitter ...,0.16666666666666666
+Career scandal of a certain crowd",0.2272727272727273,0.54466194
+The aftertaste from that one was pretty bad.,後味 悪かったな うん…,It was bad bitter ...,0.16666666666666666,0.41698992
 Look.,"見ろ 偉そうに
 天誅(てんちゅう)みたいなことを言ってるが","To look great
-I'm saying something like Tengu",0.1
-Did someone ask you to kill him?,誰かに頼まれたのか？,Did you ask someone?,0.625
+I'm saying something like Tengu",0.1,0.22916728
+Did someone ask you to kill him?,誰かに頼まれたのか？,Did you ask someone?,0.625,0.5166917
 I told you there was no smoking.,"（ディンガー）
-禁煙だって言ってるだろ",You're saying that it is no smoking,0.23076923076923078
+禁煙だって言ってるだろ",You're saying that it is no smoking,0.2307692307692308,0.7232105
 "If you try to smoke in front of me again, I'll kill you.","二度と俺の前で
 たばこをくわえるな","Two times and in front of me
-Don't get rid of it",0.17391304347826086
+Don't get rid of it",0.17391304347826084,0.36533356
 What made you this way?,"何が お前を
 そうさせちまったんだろうな","What you are
-It would have been so much",0.15384615384615385
+It would have been so much",0.15384615384615385,0.36361128
 I just got that extra push on the back that day.,"ただ それをちょっと
 後押ししてもらっただけさ","Just a bit
-I just got back",0.3076923076923077
+I just got back",0.3076923076923077,0.23677371
 "That day, there was a man walking his dog in the park.","あの日
 男が公園で犬を散歩させてた","That day
-A man was trying to take a dog in the park",0.5294117647058824
+A man was trying to take a dog in the park",0.5294117647058824,0.8338157
 The man kicked it just because it pooped.,"犬がくそをしただけで
 その男は犬を蹴りつけた","Just a dog
-The man kicked the dog",0.4
-All it did was poop.,くそをしただけなのに…,Even though I just did it ...,0.18181818181818182
-I stopped him.,俺は男を止めた,I stopped a man,0.3333333333333333
+The man kicked the dog",0.4,0.60298824
+All it did was poop.,くそをしただけなのに…,Even though I just did it ...,0.18181818181818185,0.2572805
+I stopped him.,俺は男を止めた,I stopped a man,0.3333333333333333,0.7430884
 "When I came to, I was being taken away by the police.","（ディンガー）気が付くと
-俺は警察に取り押さえられていた",I was caught up by the police,0.3333333333333333
+俺は警察に取り押さえられていた",I was caught up by the police,0.3333333333333333,0.70532787
 There was a boy there.,"（ディンガー）
-そこへ１人の男の子が現れた",One boy appeared there,0.2857142857142857
-The boy said this to the police officer.,で その子は警官に こう言った,So the child said to the police officer,0.5
-"""It's not that man's fault.""",“その人は悪くない”,"""That person is not bad""",0.3333333333333333
-They were twins.,２人ともパジャマ姿だった,Two people were pajamas,0.14285714285714285
+そこへ１人の男の子が現れた",One boy appeared there,0.2857142857142857,0.7966816
+The boy said this to the police officer.,で その子は警官に こう言った,So the child said to the police officer,0.5,0.7603635
+"""It's not that man's fault.""",“その人は悪くない”,"""That person is not bad""",0.3333333333333333,0.3815196
+They were twins.,２人ともパジャマ姿だった,Two people were pajamas,0.14285714285714285,0.36371604
 "I didn't know what to do, so I brought\Nthem to my apartment.","２人を俺のアパートまで
 連れていってね","Two people up to my apartment
-Take me",0.16666666666666666
+Take me",0.16666666666666666,0.48561543
 It was like they ran away from a hospital.,"まるで 病院から
 抜け出したみたいだったよ","From the hospital
-It was like I got out",0.35714285714285715
+It was like I got out",0.35714285714285715,0.64932007
 Now that I think of it the boy had\Na bandage around his head.,"そういや 男の子は
 頭に包帯 巻いてたっけ","Well, a boy is
-Bandage around his head",0.2777777777777778
+Bandage around his head",0.2777777777777778,0.7690894
 "After we ate that night, I watched the news.","あの夜 飯を食った後
 ニュースを見てた","After eating that night rice
-I saw the news",0.42857142857142855
+I saw the news",0.42857142857142855,0.75221795
 I started to talk to myself like always. I began to curse.,"いつもの独り言のように
 俺は悪態をついた","As always
-I got caught",0.15384615384615385
-"""This stupid world,""",“クズは死ね”ってな,"""Kuz is dead""",0.2222222222222222
+I got caught",0.15384615384615385,0.24122585
+"""This stupid world,""",“クズは死ね”ってな,"""Kuz is dead""",0.2222222222222222,0.24733521
 What do you think the boy said?,"そしたら
 男の子は何と言ったと思う？","If
-Do you think boys said what?",0.6
-"He said, ""You re right.""",“あなたは正しい”って,"""You are right""",0.4
-And then he said this...,そして こんなこと言うんだよ,And I say this kind,0.2222222222222222
+Do you think boys said what?",0.6,0.75397074
+"He said, ""You re right.""",“あなたは正しい”って,"""You are right""",0.4,0.8126821
+And then he said this...,そして こんなこと言うんだよ,And I say this kind,0.2222222222222222,0.39890054
 People like that are worthless.,"（男の子）
-そんな人たち 要らないよ",Such people are not necessary,0.2222222222222222
-Get serious!,いいかげんにしろ！,That's enough!,0.16666666666666666
+そんな人たち 要らないよ",Such people are not necessary,0.2222222222222222,0.43564212
+Get serious!,いいかげんにしろ！,That's enough!,0.16666666666666666,0.14814916
 Are you saying that is when you started killing people?,"それで その時から お前は
 殺しを開始したっていうのか","So you from that time
-Did you start killing?",0.26666666666666666
+Did you start killing?",0.26666666666666666,0.7356217
 "Thank you for your hard work, Inspector.","（刑事）お疲れさまです 警部
-（ヴァイスバッハ）おう",Thank you very much,0.18181818181818182
-I'm kind of disappointed.,何か 気が抜けるよ,I feel like something,0.1111111111111111
-"What's wrong, Inspector?",どうしたんです？　警部,What happened?Police department,0.2222222222222222
-All they were wearing was pajamas.,２人とも パジャマ姿でさ,2 people are also pajamas,0.09090909090909091
+（ヴァイスバッハ）おう",Thank you very much,0.18181818181818185,0.30122498
+I'm kind of disappointed.,何か 気が抜けるよ,I feel like something,0.1111111111111111,0.20483392
+"What's wrong, Inspector?",どうしたんです？　警部,What happened?Police department,0.2222222222222222,0.36441454
+All they were wearing was pajamas.,２人とも パジャマ姿でさ,2 people are also pajamas,0.09090909090909093,0.60783935
 Do you remember anything from that night?,"（ヴァイスバッハ）
-あの晩のこと 思い出さないかな？",Do you not remember that night?,0.6666666666666666
+あの晩のこと 思い出さないかな？",Do you not remember that night?,0.6666666666666666,0.86355203
 Anything that you can remember is fine.,"何でもいいんだ
 君が覚えてることなら何でも","Anything is fine
-Anything if you remember",0.5555555555555556
+Anything if you remember",0.5555555555555556,0.71838695
 Your name is Anna. Anna Liebert. Isn't that right?,"君の名前はアンナ
 アンナ･リーベルト そうだね？","Your name is Anna
-Anna Lie Belt That's right?",0.5384615384615384
+Anna Lie Belt That's right?",0.5384615384615384,0.7461115
 "Now that I think of it, the boy had\Na bandage around his head.","（ディンガー）そういや
 男の子は頭に包帯 巻いてたっけ","looks like
-The boy was dressed around his head",0.2631578947368421
-Inspector!,んっ！,!,0.5
+The boy was dressed around his head",0.2631578947368421,0.63504857
+Inspector!,んっ！,!,0.5,0.39039215
 Huh? When did I meet them?,"え？　その子供たちに
 いつ会ったかって？","picture?To their children
-When did you meet?",0.3333333333333333
+When did you meet?",0.3333333333333333,0.5309214
 Let me think. Maybe 11 years ago.,"（ディンガー）
-そうだな… 11年ぐらい前かな",That's right ... about 11 years ago,0.23076923076923078
+そうだな… 11年ぐらい前かな",That's right ... about 11 years ago,0.2307692307692308,0.7096747
 What did they look like?,"ど… どんな… 見た感じは
 どんな子供たちだった？","... What ... What I saw
-What kind of children were?",0.15384615384615385
-The twins that disappeared back then.,あの時 失踪した双子のきょうだい,At that time the dice of the lost twins,0.25
+What kind of children were?",0.15384615384615385,0.45039886
+The twins that disappeared back then.,あの時 失踪した双子のきょうだい,At that time the dice of the lost twins,0.25,0.63244283
 The twins that were the key to Dr. Tenma's case.,"Dr.(ドクター)テンマ事件の
 重要な鍵を握る双子","Dr.  Temma Case
-Twins that hold important key",0.35714285714285715
+Twins that hold important key",0.35714285714285715,0.5875726
 Only 30 hours until I retire.,"{\an8}定年まで
 あと30時間か…","Up to the last year
-30 hours or more ...",0.13333333333333333
-I see.,（ルーディ）なるほど,I see,0.6666666666666666
+30 hours or more ...",0.13333333333333333,0.521645
+I see.,（ルーディ）なるほど,I see,0.6666666666666666,0.89092076
 They have to be virgins.,"{\an8}君は血を吸わなければ
 生きていけない","You have to suck blood
-I can not live",0.15384615384615385
-"The incident 3 months ago... The daughter\Nof the general store owner in Frankfurt,",３カ月前の件,3 months ago,0.23076923076923078
-Did you drink her blood?,彼女の血も吸ったのかい？,Do you smoke her blood?,0.5
+I can not live",0.15384615384615385,0.22640389
+"The incident 3 months ago... The daughter\Nof the general store owner in Frankfurt,",３カ月前の件,3 months ago,0.2307692307692308,0.28319025
+Did you drink her blood?,彼女の血も吸ったのかい？,Do you smoke her blood?,0.5,0.71157014
 "As you said, all your victims until\Nrecently have been young girls.","君の言うとおり
 これまでの君の相手は少女ばかりだ","As you say
-Your opponent so far is only a girl",0.14285714285714285
+Your opponent so far is only a girl",0.14285714285714285,0.2869988
 I understand that you need virgin blood.,"君がいかに処女の血を必要と
 していたのかが よーく分かるよ","You need a bloody blood
-She knows well if she was doing",0.1875
+She knows well if she was doing",0.1875,0.60602134
 But this Frieder Schelling...,"ところが
 このフリーダ･シェリング","However
-This freua shell",0.125
-"She's 21 years old,",年齢は 21歳,Age is 21 years old,0.375
+This freua shell",0.125,0.41255018
+"She's 21 years old,",年齢は 21歳,Age is 21 years old,0.375,0.6421221
 although she looks like she's in her teens.,"見た目じゃ
 まだまだ10代に見えるがね","I saw eyes
-It looks still teens",0.14285714285714285
+It looks still teens",0.14285714285714285,0.59455395
 But that's not the problem.,"しかし 問題は
 そんなことじゃない","But the problem is
-It is not such a thing",0.3333333333333333
+It is not such a thing",0.3333333333333333,0.59892976
 She has worked at a cafe on Seiler Street in Frankfurt since she was 16.,"彼女 フランクフルトの
 ザイラー通りのカフェで","Her Frankfurt
-At the cafe of Zarler street",0.21052631578947367
+At the cafe of Zarler street",0.21052631578947367,0.73814625
 The boys there treated her like the Madonna.,"そこは
 名門 ギムナジウムのすぐそばでね","There
-Nearly near the prestigious Gymnadium",0.16666666666666666
-"But, she had a baby when she was 17.",17の時 子供を産んでるんだ,"At 17, I will give birth to a child",0.17647058823529413
+Nearly near the prestigious Gymnadium",0.16666666666666666,0.15198982
+"But, she had a baby when she was 17.",17の時 子供を産んでるんだ,"At 17, I will give birth to a child",0.17647058823529413,0.48558068
 The rumor was that the father was one of the students from the gymnasium.,"うわさでは ギムナジウムの生徒の
 誰かが相手らしいということだ","In the rumor of gymnadium
-It means that someone seems to be the other",0.2
+It means that someone seems to be the other",0.2,0.4598226
 Her parents opened a general store after the baby was born.,"出産後
 彼女の親は雑貨店を開店した","After delivery
-Her parents opened a general store",0.5384615384615384
-"The parents of the student who impregnated her were rich,",はらませた生徒の親が金持ちで,The parent of the student who has put it is rich,0.3333333333333333
-Did you know that?,知ってたんだろ？,Did you know?,0.8
+Her parents opened a general store",0.5384615384615384,0.87776095
+"The parents of the student who impregnated her were rich,",はらませた生徒の親が金持ちで,The parent of the student who has put it is rich,0.3333333333333333,0.6988785
+Did you know that?,知ってたんだろ？,Did you know?,0.8,0.8671976
 You knew so much about the other girls.,"その他の件では あれほど
 少女たちの調査をしていた君だ","Other matters
-You were investigating girls",0.25
-Do you drink the blood of non-virgins?,処女の血でなくても吸うのかい？,Do you smoke even if it is not a virgin blood?,0.25
-Why did you target her?,なぜ彼女を狙った？,Why did you aim?,0.5714285714285714
-I met the real thing.,本物に会ったんだ,I met a real thing,0.5714285714285714
-I knew it when I met him.,彼に出会って分かったよ,I met him to meet him,0.3333333333333333
+You were investigating girls",0.25,0.48006794
+Do you drink the blood of non-virgins?,処女の血でなくても吸うのかい？,Do you smoke even if it is not a virgin blood?,0.25,0.74237025
+Why did you target her?,なぜ彼女を狙った？,Why did you aim?,0.5714285714285714,0.6364736
+I met the real thing.,本物に会ったんだ,I met a real thing,0.5714285714285714,0.93274766
+I knew it when I met him.,彼に出会って分かったよ,I met him to meet him,0.3333333333333333,0.6008178
 I was still just a bat pretending to be a vampire.,"自分など まだ吸血鬼を取り巻く
 コウモリ程度でしかないと","I still surround the vampire
-If it is only a cummy",0.2222222222222222
-He was the real thing.,彼こそ 本当の本物だよ,He is really real genuine,0.2222222222222222
-Where did you meet him?,誰なんだ？　どこで出会った？,Who are you?Where did you meet?,0.625
-In a suburb of Frankfurt.,その公園の砂場に,In the sandbox of the park,0.2222222222222222
+If it is only a cummy",0.2222222222222222,0.4936998
+He was the real thing.,彼こそ 本当の本物だよ,He is really real genuine,0.2222222222222222,0.4891962
+Where did you meet him?,誰なんだ？　どこで出会った？,Who are you?Where did you meet?,0.625,0.7911253
+In a suburb of Frankfurt.,その公園の砂場に,In the sandbox of the park,0.2222222222222222,0.4197271
 There's a park there just like any other park.,"そこに
 どこにでもあるような公園がある","there
-There is a park that is anywhere",0.25
-He wrote a girl's name in the sand\Nin the sandbox with a stick.,彼は木の枝で女の名前を書いた,He wrote a woman's name with a tree branch,0.375
-I just carried it out.,で 俺は 実行に移した,So I moved to run,0.1
-I told you. A real vampire.,だから 本物の吸血鬼だよ,So it is a real vampire,0.3
+There is a park that is anywhere",0.25,0.85717005
+He wrote a girl's name in the sand\Nin the sandbox with a stick.,彼は木の枝で女の名前を書いた,He wrote a woman's name with a tree branch,0.375,0.433013
+I just carried it out.,で 俺は 実行に移した,So I moved to run,0.1,0.32115093
+I told you. A real vampire.,だから 本物の吸血鬼だよ,So it is a real vampire,0.3,0.7973939
 "Your murder of Erich Klemperer, 4 months ago.","４カ月前の
 エーリヒ･クレンペラー氏殺害","4 months ago
-Aerich Kremepeller killed",0.23076923076923078
-Was this another message from the aliens?,これも 宇宙人からの交信かい？,Is this a friend from an alien?,0.23076923076923078
+Aerich Kremepeller killed",0.2307692307692308,0.523431
+Was this another message from the aliens?,これも 宇宙人からの交信かい？,Is this a friend from an alien?,0.2307692307692308,0.5766198
 Or did you have a different reason?,"フランクフルトまで
 出向いたんだい？","To Frankfurt
-Did you go out?",0.25
-He escaped from East Berlin during the Cold War.,東西冷戦時に東ベルリンから亡命,East Berlin from East West Cold War,0.45454545454545453
-"In other words, he sold children from the East to rich people without children in the West.",ただし 彼には東から西へ,"However, he is from the east to west",0.3888888888888889
+Did you go out?",0.25,0.36977482
+He escaped from East Berlin during the Cold War.,東西冷戦時に東ベルリンから亡命,East Berlin from East West Cold War,0.4545454545454545,0.72685796
+"In other words, he sold children from the East to rich people without children in the West.",ただし 彼には東から西へ,"However, he is from the east to west",0.3888888888888889,0.47408774
 It wasn't a message. I had a face-to-face meeting with them.,"養子の斡旋(あっせん)をしていたという
 うわさがある","It is said that adoption was held 
-There is a rumor",0.15789473684210525
-I was ecstatic.,感激だったよ,I was excited,0.4
+There is a rumor",0.15789473684210525,0.16960137
+I was ecstatic.,感激だったよ,I was excited,0.4,0.6524953
 There really was an alien standing in front of me.,"本当に宇宙人が
 目の前に立っていたんだ","Really an alien
-I was standing in front of his eyes",0.5714285714285714
+I was standing in front of his eyes",0.5714285714285714,0.87862086
 Where did the UFO land?,"（ルーディ）ＵＦＯは
 どこに着陸したんだい？","UFO
-Where did you land?",0.7142857142857143
-A park in Griesheim.,グリースハイムの公園だよ,It is a park of Greaseheim,0.2222222222222222
-So he made it easy for me and wrote\Nthe words in the sandbox.,だから 僕に分かりやすいように,So it is easy to understand,0.17647058823529413
+Where did you land?",0.7142857142857143,0.8933011
+A park in Griesheim.,グリースハイムの公園だよ,It is a park of Greaseheim,0.2222222222222222,0.7577478
+So he made it easy for me and wrote\Nthe words in the sandbox.,だから 僕に分かりやすいように,So it is easy to understand,0.17647058823529413,0.29288524
 I was so ecstatic. I wish I could let you taste it as well.,"あんな感激
 あなたにも味わわせてあげたいよ","Such
-I want to taste you",0.1875
+I want to taste you",0.1875,0.5026385
 Dusseldorf Police Station,"（刑事）お疲れさまです
 ヴァイスバッハ警部","Thank you very much
-Vice Bach Police Department",0.1
+Vice Bach Police Department",0.1,0.4459915
 We're counting the seconds until your retirement.,"（刑事）いよいよ定年まで
 秒読みになっちゃいましたね","Finally until the last year
-You've read a second",0.11764705882352941
-That doesn't sound like a good drink to me.,何だか 悪い酒になりそうだな,It seems to be a bad liquor,0.125
-Who's that man?,あの男は？,What is that man?,0.42857142857142855
-I hear he's a criminal psychologist.,ぱーっと飲み会やりますよ,I will do a drinking party,0.16666666666666666
+You've read a second",0.1176470588235294,0.30538917
+That doesn't sound like a good drink to me.,何だか 悪い酒になりそうだな,It seems to be a bad liquor,0.125,0.6056868
+Who's that man?,あの男は？,What is that man?,0.42857142857142855,0.85784876
+I hear he's a criminal psychologist.,ぱーっと飲み会やりますよ,I will do a drinking party,0.16666666666666666,0.101282954
 "He's here to interview the taxi driver serial killer, Dinger.","例の連続殺人の
 タクシードライバー","For example consecutive murder
-Taxi driver",0.11764705882352941
-Did someone ask for him?,誰かの依頼か？,Is someone request?,0.25
+Taxi driver",0.1176470588235294,0.51550776
+Did someone ask for him?,誰かの依頼か？,Is someone request?,0.25,0.52051663
 No. He said he's here for a research paper.,"いえ 論文のためとか
 言ってましたよ","No matter for paper
-I was saying",0.21428571428571427
+I was saying",0.21428571428571427,0.37112495
 "I hear he's an authority in that field, so he was\Nable to get permission from the big shots.","その道の権威とかで
 お偉方に顔が利くらしくてね","In the authority of the road
-I think my face is advantageous",0.14814814814814814
+I think my face is advantageous",0.14814814814814814,0.24091989
 So you ran over the man who spat at you as he was leaving your cab.,"自分のタクシーから降りる時
 つばを吐いた客を","When getting off from your taxi
-Customers who spoved",0.08695652173913043
+Customers who spoved",0.08695652173913042,0.4904688
 I've said this in interviews over and over again. The people I've killed were worthless people.,"俺が殺した連中は
 要らない連中なんだよ","In the series that I killed
-It is a series that is not necessary",0.18181818181818182
+It is a series that is not necessary",0.18181818181818185,0.2509125
 Truth?,"正しさか…
 じゃあ １つ聞いてもいいかな？","Correct ...
-Well then he can listen to one?",0.09090909090909091
+Well then he can listen to one?",0.09090909090909093,0.17712988
 Do you mind if I ask you a question?,"俺の正しさが
 あんた方には分からないだけさ","My correctness
-I only know if I do not know",0.21428571428571427
+I only know if I do not know",0.21428571428571427,0.23927622
 "But, you have never given a clear reason\Nwhy you murdered Mr. Overt.","明確な理由を
 ひと言も述べていないんだよ","Clear reason
-I have not mentioned a word",0.16666666666666666
-I don't want to talk to you anymore.,あんたとは もう話したくない,I do not want to talk anymore,0.6
+I have not mentioned a word",0.16666666666666666,0.35069355
+I don't want to talk to you anymore.,あんたとは もう話したくない,I do not want to talk anymore,0.6,0.73103684
 "How did it go, Dr. Gillen?","（ヴァイスバッハ）
-どうでした？　Dr.ギーレン",How was?Dr. Guyren,0.16666666666666666
-Was there anything academically interesting\Nthat you heard from Dinger?,ディンガーの口から,From the mouth of dinger,0.15384615384615385
-I'll see you.,（ヴァイスバッハ）実は私も,Actually I,0.16666666666666666
+どうでした？　Dr.ギーレン",How was?Dr. Guyren,0.16666666666666666,0.57414716
+Was there anything academically interesting\Nthat you heard from Dinger?,ディンガーの口から,From the mouth of dinger,0.15384615384615385,0.48918307
+I'll see you.,（ヴァイスバッハ）実は私も,Actually I,0.16666666666666666,0.15749761
 The truth is I have something I\Ndesperately wanted to ask him.,"あの男から どうしても
 聞き出したいことがあるんですよ","From that guy
-I have something I want to hear",0.23529411764705882
+I have something I want to hear",0.2352941176470588,0.510147
 I'm facing retirement today.,"私は今日
 定年を迎える身なんだが","I am today
-It is a person who welcomes the retirement year",0.2
-What do you think of this academically?,学術的に見て どう思います？,What do you think academically?,0.75
+It is a person who welcomes the retirement year",0.2,0.6808911
+What do you think of this academically?,学術的に見て どう思います？,What do you think academically?,0.75,0.68894935
 There was a child who was like a monster.,"怪物のような子供がいて
 それが成長して","There is a kid like a monster
-It is growing",0.3333333333333333
+It is growing",0.3333333333333333,0.78925395
 "After he had grown up, he came to visit a man\Nwho took care of him when he was a child.","子供の頃 世話になった
 男のもとへやってきて…","I was taken care of when I was a child
-Come to the man's original ...",0.25925925925925924
-A child who was like a monster?,怪物のような子供？,Kid like a monster?,0.5
+Come to the man's original ...",0.25925925925925924,0.5585652
+A child who was like a monster?,怪物のような子供？,Kid like a monster?,0.5,0.8227489
 This is such an absurd story.,"いやあ まあ
 荒唐無稽な話なんだが","Hey
-It is a wilderness story",0.18181818181818182
-Please tell me everything you know about it!,詳しく聞かせてください その話,Please let me know in detail that story,0.21428571428571427
+It is a wilderness story",0.18181818181818185,0.43401548
+Please tell me everything you know about it!,詳しく聞かせてください その話,Please let me know in detail that story,0.21428571428571427,0.44947648
 "I'm still a detective, at least for today.","私は まだ刑事だ
 今日いっぱいはね","I'm still criminal
-Today is full",0.2857142857142857
-This is an interrogation.,これは取り調べだ,This is an eye on,0.42857142857142855
+Today is full",0.2857142857142857,0.5868993
+This is an interrogation.,これは取り調べだ,This is an eye on,0.42857142857142855,0.35344312
 "If he came back to visit you after he'd\Ngrown up and asked you for a favor,","もし その子が成長して
 お前のもとに戻ってきて","If the child grows
-I came back to you",0.25
-would you listen to him?,お前は その頼み事を聞くか？,Do you listen to that request?,0.4444444444444444
-A hard-working man. A sincere man.,勤勉な男 誠実な男,Hardworking man sincere man,0.3333333333333333
-That's the kind of man Mr. Overt was.,君の犯罪の正当性は崩壊するぞ,The legitimacy of your crime will collapse,0.13333333333333333
+I came back to you",0.25,0.3611741
+would you listen to him?,お前は その頼み事を聞くか？,Do you listen to that request?,0.4444444444444444,0.4453622
+A hard-working man. A sincere man.,勤勉な男 誠実な男,Hardworking man sincere man,0.3333333333333333,0.8089226
+That's the kind of man Mr. Overt was.,君の犯罪の正当性は崩壊するぞ,The legitimacy of your crime will collapse,0.13333333333333333,-0.042119123
 He was going to expose a financial corruption scandal.,"彼は ある財閥の
 収賄スキャンダルを","He is a fellowship
-Hearing scandal",0.23076923076923078
-There's no need for words between him and I.,彼と俺の間に言葉なんか要らない,I do not need words between him and me,0.42857142857142855
-Him?,彼？,he?,0.3333333333333333
+Hearing scandal",0.2307692307692308,0.49317676
+There's no need for words between him and I.,彼と俺の間に言葉なんか要らない,I do not need words between him and me,0.42857142857142855,0.7793474
+Him?,彼？,he?,0.3333333333333333,0.90221906
 That bank employee was scum to him.,"きっと あの銀行員は
 彼にとってはクズだったんだ","Surely that banker
-For him, it was Kudz",0.21428571428571427
-That's what I believe.,俺は そう信じるね,I believe so,0.2857142857142857
+For him, it was Kudz",0.21428571428571427,0.5522646
+That's what I believe.,俺は そう信じるね,I believe so,0.2857142857142857,0.56731683
 Because he is correct!,"（ヴァイスバッハ）なぜ？
 （ディンガー）彼は正しいからさ","Why?
- He is correct",0.42857142857142855
-Is it that twin?,その彼とは例の双子の子供か？,Is it an example twin child with that?,0.5555555555555556
-When did you meet him?,その彼とは いつどこで会った？,When did you meet him?,1.0
-He wrote a name in the sand in the sandbox.,彼は砂場の砂に名前を書いた,He wrote a name in the sand soup sand,0.7
+ He is correct",0.42857142857142855,0.5909244
+Is it that twin?,その彼とは例の双子の子供か？,Is it an example twin child with that?,0.5555555555555556,0.6741669
+When did you meet him?,その彼とは いつどこで会った？,When did you meet him?,1.0,0.9999999
+He wrote a name in the sand in the sandbox.,彼は砂場の砂に名前を書いた,He wrote a name in the sand soup sand,0.7,0.7705726
 He didn't say anything.,"彼は何も言わなかった
 だが 俺には分かった","He did not say anything
-But I knew it",0.36363636363636365
-I must kill the man with this name.,この名前の男を殺せってことだな,It's about killing a man with this name,0.2857142857142857
+But I knew it",0.3636363636363637,0.71217364
+I must kill the man with this name.,この名前の男を殺せってことだな,It's about killing a man with this name,0.2857142857142857,0.6655825
 There's no need for words.,"言葉なんか要らないんだ
 分かるんだよ 俺たちは","Words I need
-I know I understand",0.2
+I know I understand",0.2,0.3560083
 What do you mean?,"（ヴァイスバッハ）
-どういうことだ？",What does it mean?,0.42857142857142855
+どういうことだ？",What does it mean?,0.42857142857142855,0.4998861
 Are you saying that the three people that you interviewed\Nwere all ordered by the same person to kill their targets?,"同じ依頼者によって
 殺人を犯してるって","By the same client
-I'm committed to murder",0.17391304347826086
-The meaning of the three murders?,３件の殺人の意味？,What is the meaning of 3 murders?,0.5555555555555556
+I'm committed to murder",0.17391304347826084,0.28074867
+The meaning of the three murders?,３件の殺人の意味？,What is the meaning of 3 murders?,0.5555555555555556,0.9208631
 Tenma and Nina are coming to Frankfurt.,"テンマも ニナも
 フランクフルトへ向かった","Temma and Nina
-I went to Frankfurt",0.36363636363636365
-Johan!,ヨハン…,Johan ...,0.3333333333333333
-They're trying to start something in Frankfurt.,やつが何かを始めようとしている,A guy is about to start something,0.23076923076923078
+I went to Frankfurt",0.3636363636363637,0.6629589
+Johan!,ヨハン…,Johan ...,0.3333333333333333,0.857903
+They're trying to start something in Frankfurt.,やつが何かを始めようとしている,A guy is about to start something,0.2307692307692308,0.24218251

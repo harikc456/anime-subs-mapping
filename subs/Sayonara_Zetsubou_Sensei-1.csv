@@ -1,328 +1,328 @@
-en_text,jp_text,google_translated,score
-Spring.,春… 卯月,Spring ... Satsuki,0.25
-My Heart was filled with hope.,私の心は希望に満ち溢れていました,My heart was full of hope,0.4444444444444444
-You,でもきっと君がいたら変わる？,But will you change if you change?,0.16666666666666666
-Don't...,はぁっ あっ…,Hey ...,0.25
-Don't do it!,いけません！,Do not do it!,0.6
-Don't throw your life away!,命を粗末にしてはいけません！,Don't be a poor life!,0.4
-Um...,うっ あ痛ててぇ…,Heavy pain ...,0.25
-"Once again, I didn't die.",ふっ また死ねなかった…,I did not die again ...,0.4
-Why did you stop me?,なぜ 止めたりしたのですか？,Why did you stop?,0.8333333333333334
+en_text,jp_text,google_translated,score,semantic_score
+Spring.,春… 卯月,Spring ... Satsuki,0.25,0.6608245
+My Heart was filled with hope.,私の心は希望に満ち溢れていました,My heart was full of hope,0.4444444444444444,0.93252003
+You,でもきっと君がいたら変わる？,But will you change if you change?,0.16666666666666666,0.1980589
+Don't...,はぁっ あっ…,Hey ...,0.25,0.34271193
+Don't do it!,いけません！,Do not do it!,0.6,0.8947355
+Don't throw your life away!,命を粗末にしてはいけません！,Don't be a poor life!,0.4,0.592786
+Um...,うっ あ痛ててぇ…,Heavy pain ...,0.25,0.23396334
+"Once again, I didn't die.",ふっ また死ねなかった…,I did not die again ...,0.4,0.7680412
+Why did you stop me?,なぜ 止めたりしたのですか？,Why did you stop?,0.8333333333333334,0.7906357
 I am a person...,"自分なんて生きていても
 何の価値もない人間なんです","Even if I live myself
-It is a non-worthless person",0.25
-"You didn't intend to die, right?",死ぬ気なかったんですよね？,"You didn't die, right?",0.7777777777777778
-What are you talking about!?,何を言うんですか,What do you say,0.2222222222222222
-I was fully prepared to die,死ぬ気満々でしたよ,It was an intermittent to die,0.3333333333333333
-Of course not!,ですよねえ！,That's why!,0.14285714285714285
+It is a non-worthless person",0.25,0.34273013
+"You didn't intend to die, right?",死ぬ気なかったんですよね？,"You didn't die, right?",0.7777777777777778,0.77838117
+What are you talking about!?,何を言うんですか,What do you say,0.2222222222222222,0.19665559
+I was fully prepared to die,死ぬ気満々でしたよ,It was an intermittent to die,0.3333333333333333,0.36104333
+Of course not!,ですよねえ！,That's why!,0.14285714285714285,0.29635924
 ...on such a beautiful spring day!,"こんな素晴らしい春の日に
 自ら命を絶とうなんて人","Such a wonderful spring day
-Somewhat lives themselves",0.3333333333333333
+Somewhat lives themselves",0.3333333333333333,0.66904074
 Love is born!,"恋が生まれ 夢が生まれ
 喜びが生まれる…","Love was born and dreamed
-Joy is born ...",0.3333333333333333
+Joy is born ...",0.3333333333333333,0.7140356
 ...and leads us into the future!,"何事も春から始まり 私達を未来へと
 誘ってくれる…","Everything starts from spring and we to the future
-I will invite me ...",0.2222222222222222
-If you took your own life on such a beautiful day...,こんな素敵な日に 自ら命を絶つなんて,Such a wonderful day,0.23076923076923078
-Pink Gabriel...?,桃色ガブリエル？,Pink Gabriel?,0.75
-The biggest cherry blossom tree here.,この一番立派な桜の木のことですよ,This is the best cherry tree,0.3
-Gabriel...,ガブリエル…,Gabriel ...,1.0
-I'm the one who named it.,私が名付けたんですけど,I named it,0.375
+I will invite me ...",0.2222222222222222,0.41494936
+If you took your own life on such a beautiful day...,こんな素敵な日に 自ら命を絶つなんて,Such a wonderful day,0.2307692307692308,0.48859793
+Pink Gabriel...?,桃色ガブリエル？,Pink Gabriel?,0.75,0.8909624
+The biggest cherry blossom tree here.,この一番立派な桜の木のことですよ,This is the best cherry tree,0.3,0.75778705
+Gabriel...,ガブリエル…,Gabriel ...,1.0,0.99999994
+I'm the one who named it.,私が名付けたんですけど,I named it,0.375,0.72172385
 The countless petals which spring from its considerable branches...,"大きく伸びた枝から拡がる
 無数の花びら…","Spread from a large growing branch
-Numerous petals ...",0.1875
-Like an angel spreading its wings.,そう まるで両翼を広げた天使のよう！,That's why like an angel spreading the wings!,0.4166666666666667
+Numerous petals ...",0.1875,0.72357124
+Like an angel spreading its wings.,そう まるで両翼を広げた天使のよう！,That's why like an angel spreading the wings!,0.4166666666666667,0.87442136
 That's why I named it Pink Gabriel.,"だから桃色ガブリエルって
 名付けたんです","So pink Gabriel
-I was named",0.36363636363636365
-Just now!?,今？,now?,0.5
-And that tree is Pink Minister.,ちなみに あの木が 桃色右大臣,"By the way, that tree is the pink right minister",0.4166666666666667
-That tree is Pink Devil.,あの木は桃色大魔王,That tree is a pink Great Demon King,0.4
-That tree is Pink Young CEO.,あの木は桃色若社長！,That tree is a pink young President!,0.5
-This is a treasure chest for the homeless!,これは 自由人たちの宝箱です,This is a treasure chest of free people,0.4166666666666667
+I was named",0.3636363636363637,0.8957492
+Just now!?,今？,now?,0.5,0.59982467
+And that tree is Pink Minister.,ちなみに あの木が 桃色右大臣,"By the way, that tree is the pink right minister",0.4166666666666667,0.90328103
+That tree is Pink Devil.,あの木は桃色大魔王,That tree is a pink Great Demon King,0.4,0.84927875
+That tree is Pink Young CEO.,あの木は桃色若社長！,That tree is a pink young President!,0.5,0.7587883
+This is a treasure chest for the homeless!,これは 自由人たちの宝箱です,This is a treasure chest of free people,0.4166666666666667,0.71318156
 That's right.,"そうだ あなたのこと
 なんて呼びましょう？","That's right
-How do you call?",0.3333333333333333
-Since you were hanging from Pink Young CEO...,桃色若社長にぶら下がっていたからあ…,It was hanging to a pink young president ...,0.2857142857142857
-Let's see...,う～ん そうねえ…,"Well, let's say ...",0.42857142857142855
-Pink Supervisor.,桃色係長！,Pink Chronicles!,0.2
+How do you call?",0.3333333333333333,0.35186648
+Since you were hanging from Pink Young CEO...,桃色若社長にぶら下がっていたからあ…,It was hanging to a pink young president ...,0.2857142857142857,0.6528945
+Let's see...,う～ん そうねえ…,"Well, let's say ...",0.42857142857142855,0.62371194
+Pink Supervisor.,桃色係長！,Pink Chronicles!,0.2,0.51138204
 ...I'll call you Pink Supervisor.,"私 これからあなたのこと
 桃色係長って呼びます","I'm from now on you
-I call the pink coercion",0.2857142857142857
-Don't make up a name for me!,か… 勝手に呼ばないで下さい！,... Please do not call me yourself!,0.21428571428571427
-Especially not one that sounds like a name from some glamorous comedy!,そんなグラマー喜劇みたいな名前ぇ！,It looks like such a glamor comedy!,0.23529411764705882
-Glamor?,グラマー？,Glamour?,0.3333333333333333
-Thanks to naming rights...,ネーミングライツといって,Naming rights,0.4
+I call the pink coercion",0.2857142857142857,0.51967233
+Don't make up a name for me!,か… 勝手に呼ばないで下さい！,... Please do not call me yourself!,0.21428571428571427,0.5445934
+Especially not one that sounds like a name from some glamorous comedy!,そんなグラマー喜劇みたいな名前ぇ！,It looks like such a glamor comedy!,0.2352941176470588,0.50090677
+Glamor?,グラマー？,Glamour?,0.3333333333333333,0.40100533
+Thanks to naming rights...,ネーミングライツといって,Naming rights,0.4,0.74509823
 "...fields, and concert halls...","球場や競技場 コンサートホールなどに
 名前をつけるのにも お金がいるんです","For stadium and stadium concert halls
-He also has money to give a name",0.1875
+He also has money to give a name",0.1875,0.5180845
 ...mountains and rivers will be named after corporations and products.,"いずれ 山や川にも企業や商品の
 名前がついたりするんです","Both in the mountains and rivers, companies and products
-Name is attached",0.21052631578947367
+Name is attached",0.21052631578947367,0.79156345
 Mt. Fuji,"富士山だってそのうちに
 少年マガジン山とかになりかねない！","It is Mt. Fuji and among them
-Shonen Magazine Mountains Maybe!",0.23076923076923078
-We live in a sad world.,哀しいかな そんな世の中なのです,It is a daughter of such a world,0.16666666666666666
+Shonen Magazine Mountains Maybe!",0.2307692307692308,0.73078585
+We live in a sad world.,哀しいかな そんな世の中なのです,It is a daughter of such a world,0.16666666666666666,0.3283805
 ...I'll pay 50 yen.,"私 桃色係長と呼ぶためなら
 50円くらい払います","If I call it a pink chrominant manager
-I pay about 50 yen",0.26666666666666666
+I pay about 50 yen",0.26666666666666666,0.51432276
 Even girls in high school try to solve everything with money.,"女学生まで金で物事を
 解決しようとする…","Things to school students
-Try to solve ...",0.26666666666666666
-Only 50 yen though.,50円ですけどね,It is 50 yen,0.2857142857142857
-What a horrible world.,嫌な世の中だ… 本当に嫌な世の中だあ…,It's a bad world ... It's a really disgusting world ...,0.18181818181818182
-I'm in despair!,金ぎたない世の中に絶望した！,I was despaired in the world without gold!,0.2727272727272727
-What are you saying?,何言ってるんですかぁ,What are you saying?,1.0
-The world is filled with hope.,世の中は希望に満ち溢れています,The world is full of hope,0.4444444444444444
-Like I just said...,やっぱり死のう…,After all dying ...,0.125
+Try to solve ...",0.26666666666666666,0.5628892
+Only 50 yen though.,50円ですけどね,It is 50 yen,0.2857142857142857,0.82414556
+What a horrible world.,嫌な世の中だ… 本当に嫌な世の中だあ…,It's a bad world ... It's a really disgusting world ...,0.18181818181818185,0.65789014
+I'm in despair!,金ぎたない世の中に絶望した！,I was despaired in the world without gold!,0.2727272727272727,0.63133526
+What are you saying?,何言ってるんですかぁ,What are you saying?,1.0,1.0000006
+The world is filled with hope.,世の中は希望に満ち溢れています,The world is full of hope,0.4444444444444444,0.92852885
+Like I just said...,やっぱり死のう…,After all dying ...,0.125,0.2016121
 Nobody would ever try to die on such a beautiful day.,"こんな素敵な日に死のうなんて人
 いるわけないじゃないですかあ","People who die on such a wonderful day
-You're not there",0.2631578947368421
-Right here.,いますよ ここに,Here,0.3333333333333333
+You're not there",0.2631578947368421,0.6037007
+Right here.,いますよ ここに,Here,0.3333333333333333,0.6700315
 Then what was I doing a moment ago?,"じゃあ さっき私は
 何をしていたというんですか","Well then I
-What was what I was doing",0.5
-"Oh, that was...",ああ あれは…,Oh yeah ...,0.3333333333333333
-What?,はい？,Yes?,0.3333333333333333
-I just remembered.,思い出しました,I remembered,0.5
+What was what I was doing",0.5,0.5263791
+"Oh, that was...",ああ あれは…,Oh yeah ...,0.3333333333333333,0.58482176
+What?,はい？,Yes?,0.3333333333333333,0.3180241
+I just remembered.,思い出しました,I remembered,0.5,0.7415199
 ...my father would try to make himself taller.,"辛いことがあると お父さんはいつも
 身長を伸ばそうとしていました","My father is always painful
-I was about to stretch my height",0.16666666666666666
+I was about to stretch my height",0.16666666666666666,0.45982754
 "When he was restructured,","リストラされた時も 借金で首が
 回らなくなった時も 会社が潰れた時も","Even if it is restructured, the neck is
-Even when the company is collapsed when it is no longer",0.2
+Even when the company is collapsed when it is no longer",0.2,0.30886322
 I believe you're slightly mistaken...,"あの それはちょっと違うと
 思うんですけど…","That's a bit different
-I think ...",0.15384615384615385
-...tried to make herself taller that one time.,あの時というのは…,That time is ...,0.2727272727272727
-You wouldn't know.,あ 分からないですよね,I do not know that,0.1111111111111111
-Enough already!,もういいです！,It's enough!,0.4
-So what?,じゃあ なんですか？,So what is it?,0.6
+I think ...",0.15384615384615385,0.5209222
+...tried to make herself taller that one time.,あの時というのは…,That time is ...,0.2727272727272727,0.22956514
+You wouldn't know.,あ 分からないですよね,I do not know that,0.1111111111111111,0.27996168
+Enough already!,もういいです！,It's enough!,0.4,0.71673185
+So what?,じゃあ なんですか？,So what is it?,0.6,0.63796926
 ...the forest of Fuji are a hot spot for making yourself taller?,"君の見解では 富士の樹海は
 身長伸ばしスポットですか","In your view, Fuji's Jukai is
-Is it a height extension spot?",0.16666666666666666
-Prologue...,むぅ…,...,0.5
-What is it?,なんです？,What is it?,1.0
-Right?,あ？,Ah?,0.3333333333333333
+Is it a height extension spot?",0.16666666666666666,0.64962876
+Prologue...,むぅ…,...,0.5,0.31574535
+What is it?,なんです？,What is it?,1.0,0.99999994
+Right?,あ？,Ah?,0.3333333333333333,0.5377396
 I wasn't trying to make myself taller.,"だから 身長を伸ばしていたのでは
 ないんですよ","So I was stretching height
-It is not",0.13333333333333333
-I know!,ね！,Hey!,0.25
+It is not",0.13333333333333333,0.5595134
+I know!,ね！,Hey!,0.25,0.34378737
 "You want to be a basketball player, right?","あ 分かった バスケット選手に
 なりたいんですね","To the basket player that has been
-I want to be",0.25
-No.,違います,wrong,0.0
-But you'll be fine.,でも大丈夫ですよ,But it is all right,0.1
+I want to be",0.25,0.6532845
+No.,違います,wrong,0.0,0.26430032
+But you'll be fine.,でも大丈夫ですよ,But it is all right,0.1,0.35662717
 If you work on your jumping...,"跳躍力をつければ 今の身長でも
 十分イケると思います","Even if the jumping power is attached
-I think it's enough",0.11764705882352941
+I think it's enough",0.1176470588235294,0.6575902
 I'm not trying to be a basketball player.,"だから バスケット選手に
 なりたいわけじゃありません","So to basket players
-I do not want to be",0.26666666666666666
-You just need to build your leg muscles.,要は足腰ですから,The point is the leg back,0.07692307692307693
-Listen to what I'm saying.,話を聞いて下さい！,Please listen to the story!,0.18181818181818182
-Now what?,今度は何ですか,What is this time,0.16666666666666666
-Yes...,はい,Yes,0.5
-...really trying to die!,私は 本当に死のうとしていたんです！,I was trying to die really!,0.625
+I do not want to be",0.26666666666666666,0.649765
+You just need to build your leg muscles.,要は足腰ですから,The point is the leg back,0.07692307692307693,0.42798367
+Listen to what I'm saying.,話を聞いて下さい！,Please listen to the story!,0.18181818181818185,0.32282797
+Now what?,今度は何ですか,What is this time,0.16666666666666666,0.287639
+Yes...,はい,Yes,0.5,0.62611324
+...really trying to die!,私は 本当に死のうとしていたんです！,I was trying to die really!,0.625,0.7250509
 ...I won't accept the name Pink Supervisor!,"そして 桃色係長なんて
 呼び名は 認めません！","And the pink chief
-Her call name does not recognize!",0.23529411764705882
-Good morning.,おはようございます,good morning,0.6666666666666666
-Pink Supervisor!,あ！,Ah!,0.25
-The girl from this morning.,今朝の娘… 生徒だったのか…,This morning's daughter ... was the student ...,0.2727272727272727
-Pink Supervisor?,桃色係長？,Pink coercion?,0.5
-What an unusual name.,珍しい名前…,Unusual name ...,0.3333333333333333
-Quiet!,静かに！ 静かにして下さい！,be quiet! please be quiet!,0.5
-My name isn't Pink Supervisor!,私は 桃色係長ではありませんっ！,I am not a pink support!,0.16666666666666666
-"Now it's okay, right?",値上げですか…,Is it raised?,0.2222222222222222
-Money isn't the issue here.,お金の問題ではありません,It is not a matter of money,0.16666666666666666
-"Either way, 50 yen is far too cheap.",何にせよ 50円は安すぎます,Anyway 50 yen is too cheap,0.45454545454545453
-I'm saying that you've got it totally wrong.,根本的に違うと言っているのです,I say that it is fundamentally different,0.2
+Her call name does not recognize!",0.2352941176470588,0.6066217
+Good morning.,おはようございます,good morning,0.6666666666666666,0.9375631
+Pink Supervisor!,あ！,Ah!,0.25,0.2655035
+The girl from this morning.,今朝の娘… 生徒だったのか…,This morning's daughter ... was the student ...,0.2727272727272727,0.5820931
+Pink Supervisor?,桃色係長？,Pink coercion?,0.5,0.50789255
+What an unusual name.,珍しい名前…,Unusual name ...,0.3333333333333333,0.8592559
+Quiet!,静かに！ 静かにして下さい！,be quiet! please be quiet!,0.5,0.7004758
+My name isn't Pink Supervisor!,私は 桃色係長ではありませんっ！,I am not a pink support!,0.16666666666666666,0.5916276
+"Now it's okay, right?",値上げですか…,Is it raised?,0.2222222222222222,0.15797591
+Money isn't the issue here.,お金の問題ではありません,It is not a matter of money,0.16666666666666666,0.64662945
+"Either way, 50 yen is far too cheap.",何にせよ 50円は安すぎます,Anyway 50 yen is too cheap,0.4545454545454545,0.9232095
+I'm saying that you've got it totally wrong.,根本的に違うと言っているのです,I say that it is fundamentally different,0.2,0.29240167
 I am your homeroom teacher.,"私は 皆さんのクラスを
 担当することになった…","I am your class
-I was in charge ...",0.2727272727272727
-Bo Itoiro?,何人？,How many people?,0.16666666666666666
-So you're not Japanese.,日本人じゃないんだあ,I'm not Japanese,0.25
-What are you?,いと いろ ぼう？,Did you do it?,0.2857142857142857
-No!,違う！ いとしき のぞむ！,different!Ichigoi no Tomo!,0.4
-A bona fide Japanese person.,れっきとした日本人です！,It is a Japanese and Japanese!,0.2
-Itoshiki Nozomu...,糸色 望…,Thread color hope ...,0.16666666666666666
-Huh?,あれ？,that?,0.3333333333333333
-But the number of strokes in my name...,字画が最悪なんだよ…,The letter is the worst ...,0.16666666666666666
-Horrible luck with money.,金銭運に恵まれず 家庭的に縁薄く,Blessed without money and it is thin,0.09090909090909091
+I was in charge ...",0.2727272727272727,0.4843435
+Bo Itoiro?,何人？,How many people?,0.16666666666666666,0.12675664
+So you're not Japanese.,日本人じゃないんだあ,I'm not Japanese,0.25,0.87590927
+What are you?,いと いろ ぼう？,Did you do it?,0.2857142857142857,0.17767066
+No!,違う！ いとしき のぞむ！,different!Ichigoi no Tomo!,0.4,0.25245872
+A bona fide Japanese person.,れっきとした日本人です！,It is a Japanese and Japanese!,0.2,0.6267375
+Itoshiki Nozomu...,糸色 望…,Thread color hope ...,0.16666666666666666,0.12634219
+Huh?,あれ？,that?,0.3333333333333333,0.6348127
+But the number of strokes in my name...,字画が最悪なんだよ…,The letter is the worst ...,0.16666666666666666,0.24160008
+Horrible luck with money.,金銭運に恵まれず 家庭的に縁薄く,Blessed without money and it is thin,0.09090909090909093,0.40408808
 Everything I try to do in my twilight years will backfire.,"出世しがたく 晩年やることなすこと
 裏目 裏目…","I have to do a late life
-Back eyes back eyes ...",0.15789473684210525
-Die?,死ぬ？,die?,1.0
-I have a good idea...,私にいい考えがあります 桃色係長,I have a good idea for me,0.625
-This will change the number of strokes in your name...,じゃあ いっそ現代風に,Then in the contemporary style,0.14285714285714285
-That just looks lame!,あ そうだ！,Yes!,0.16666666666666666
-"Ah, that's it!",痛いでしょ どう見たってぇ！,It's painful and I saw it!,0.3
+Back eyes back eyes ...",0.15789473684210525,0.42661417
+Die?,死ぬ？,die?,1.0,0.9999996
+I have a good idea...,私にいい考えがあります 桃色係長,I have a good idea for me,0.625,0.793696
+This will change the number of strokes in your name...,じゃあ いっそ現代風に,Then in the contemporary style,0.14285714285714285,0.1289291
+That just looks lame!,あ そうだ！,Yes!,0.16666666666666666,0.24408086
+"Ah, that's it!",痛いでしょ どう見たってぇ！,It's painful and I saw it!,0.3,0.23340656
 Since stroke number is a Japanese thing...,"字画なんて日本のものだから
 いっそ横書きにしちゃえば関係ないですよ","Because it is Japanese
-It does not matter whether it is a horizontal writing",0.1875
-W-Wait a second!,横書き！,Write a side!,0.3333333333333333
-Despair Sensei!,絶望先生！,Despair teacher!,0.5
-Don't squeeze them together!,くっつけて書くなぁ！,Do not write up!,0.2222222222222222
-Good morning!,おはよう！,good morning!,1.0
+It does not matter whether it is a horizontal writing",0.1875,0.47206917
+W-Wait a second!,横書き！,Write a side!,0.3333333333333333,0.3180686
+Despair Sensei!,絶望先生！,Despair teacher!,0.5,0.58722377
+Don't squeeze them together!,くっつけて書くなぁ！,Do not write up!,0.2222222222222222,0.21243061
+Good morning!,おはよう！,good morning!,1.0,0.99999976
 Are you talking to me?,"ほ ホントに僕に聞いてるんですかあ
 風浦さん","I really want to ask me
-Mr. Kamoura",0.16666666666666666
+Mr. Kamoura",0.16666666666666666,0.15254484
 Don't you agree?,"そんなことになったら
 素敵だと思わない？","If this is done
-Don't you think it's nice?",0.3076923076923077
-"Are you talking to me, Fuura-san!?",思うよねぇ？,"I think, right?",0.16666666666666666
+Don't you think it's nice?",0.3076923076923077,0.31286004
+"Are you talking to me, Fuura-san!?",思うよねぇ？,"I think, right?",0.16666666666666666,0.14723928
 A hot spring in the school would be quite novel...,"ええ～とぉ… そうですね
 学校が温泉というのは奇抜ですが うん","Yeah ~ and ぉ ... yes
-The school is strange that the hot spring is strange, but she is yes",0.22727272727272727
-I-It doesn't sound like a bad idea...,わ 悪くはないかとぉ…,I'm not bad ...,0.16666666666666666
-Guess not.,素敵なわけないじゃない,It is not wonderful,0.16666666666666666
-Then...,やっぱり 違ったか…,After all it was different ...,0.14285714285714285
-"A hot spring is it, Chiri-chan!",温泉だよ 千里ちゃん？,It is a hot spring. Chisato-chan?,0.45454545454545453
-Hot spring's it?,温泉まよ 千里ちゃん？,Hot Spring Miyo Chisato?,0.42857142857142855
-Honestly!,あー もう 意味わかんない！,Oh no meaning anymore!,0.16666666666666666
-If we turn the school into a hot spring...,だいたいね 学校が温泉だったら,If the school is a hot spring,0.5454545454545454
+The school is strange that the hot spring is strange, but she is yes",0.2272727272727273,0.5584765
+I-It doesn't sound like a bad idea...,わ 悪くはないかとぉ…,I'm not bad ...,0.16666666666666666,0.2629183
+Guess not.,素敵なわけないじゃない,It is not wonderful,0.16666666666666666,0.124088146
+Then...,やっぱり 違ったか…,After all it was different ...,0.14285714285714285,0.32596782
+"A hot spring is it, Chiri-chan!",温泉だよ 千里ちゃん？,It is a hot spring. Chisato-chan?,0.4545454545454545,0.86744016
+Hot spring's it?,温泉まよ 千里ちゃん？,Hot Spring Miyo Chisato?,0.42857142857142855,0.6641302
+Honestly!,あー もう 意味わかんない！,Oh no meaning anymore!,0.16666666666666666,0.18069044
+If we turn the school into a hot spring...,だいたいね 学校が温泉だったら,If the school is a hot spring,0.5454545454545454,0.85448724
 ...the humidity will ruin our textbooks.,"湿気で教科書が萎れちゃうし
 眼鏡は曇るし","The textbook will wither with moisture
-Glasses are cloudy",0.13333333333333333
+Glasses are cloudy",0.13333333333333333,0.59881103
 And many other things would be ruined.,"他にもいろんなことが
 グズグズになってえ…","There are many other things
-Become a Goodz ...",0.21428571428571427
+Become a Goodz ...",0.21428571428571427,0.2451584
 Just the thought is irritating me!,"あーダメ 考えただけで
 イライラしてきたあー！","I just thought about it
-I'm frustrated!",0.25
+I'm frustrated!",0.25,0.5874598
 You don't have to be perfect about everything.,"千里ちゃん そんななんでも
 キッチリしなくてもいんだってばあ","Senri-chan Such
-If you don't have to be kitchen",0.42857142857142855
-S'okay! S'okay!,あ！ は！,Ah!teeth!,0.25
-It's not okay.,大丈夫じゃないの！,It's not all right!,0.375
+If you don't have to be kitchen",0.42857142857142855,0.17709614
+S'okay! S'okay!,あ！ は！,Ah!teeth!,0.25,0.33013967
+It's not okay.,大丈夫じゃないの！,It's not all right!,0.375,0.5066291
 I am a person who has no reason to live.,"私なんて 生きていても
 しょうがない人間なんです","Even if I live
-It is a human being",0.17647058823529413
-I have spent majority of my life in shame.,恥の多い生涯を送ってきました…,I have been sending a lot of shame life ...,0.3333333333333333
-This office is supposed to be for counseling students...,ここは 基本的に生徒達の相談室なので…,This is basically the consultation room of the students ...,0.26666666666666666
-And this is a little heavy for me so early in the morning...,しかも朝っぱらから なんて重たい…,"Moreover, how heavy it is from the morning ...",0.2631578947368421
-Forgive me...,はあぁ…,Haa ...,0.25
-I'll listen to your story.,まあ 話は聞きますが…,"Well, I hear a story ...",0.16666666666666666
-Why did you want to die today?,で 今日は何で死にたくなったんですか？,So what did you want to die today?,0.7
+It is a human being",0.17647058823529413,0.45972013
+I have spent majority of my life in shame.,恥の多い生涯を送ってきました…,I have been sending a lot of shame life ...,0.3333333333333333,0.7292885
+This office is supposed to be for counseling students...,ここは 基本的に生徒達の相談室なので…,This is basically the consultation room of the students ...,0.26666666666666666,0.6387769
+And this is a little heavy for me so early in the morning...,しかも朝っぱらから なんて重たい…,"Moreover, how heavy it is from the morning ...",0.2631578947368421,0.7455934
+Forgive me...,はあぁ…,Haa ...,0.25,0.31106326
+I'll listen to your story.,まあ 話は聞きますが…,"Well, I hear a story ...",0.16666666666666666,0.5263578
+Why did you want to die today?,で 今日は何で死にたくなったんですか？,So what did you want to die today?,0.7,0.88988644
 I am no longer able to watch sacred sporting events.,"神聖なるスポーツも
 まっすぐ見られないんです…","Sacred sports
-I can not see it straight ...",0.1111111111111111
-I developed an interest in corporate baseball this year.,今年は 職業野球に興じてみることにして,I'm going to try to get in vocational baseball this year,0.3125
+I can not see it straight ...",0.1111111111111111,0.60519356
+I developed an interest in corporate baseball this year.,今年は 職業野球に興じてみることにして,I'm going to try to get in vocational baseball this year,0.3125,0.60984784
 I spontaneously decided to cheer for a team in the northeast...,"たまたま目についた東北の球団を
 応援することに決めたのですが","The baseball team of Tohoku
-I decided to support it",0.29411764705882354
+I decided to support it",0.29411764705882354,0.39952528
 All I can see is hair!,"“毛”にしか見えないんです
 あの帽子のマーク！","I can only see ""hair""
-Mark of that hat!",0.35714285714285715
+Mark of that hat!",0.35714285714285715,0.5851402
 I believe that the design represents an E with wings...,"あれはＥに羽根が生えた
 デザインだと思いますが","That was E of E
-I think it is a design",0.23529411764705882
-My eyes have been corrupted...,私の心が 私の目が汚れているから,Because my heart is dirty my eyes,0.2
+I think it is a design",0.2352941176470588,0.70659536
+My eyes have been corrupted...,私の心が 私の目が汚れているから,Because my heart is dirty my eyes,0.2,0.39123076
 So even the wings of an angel look like filthy hair to me!,"天使の羽根さえも薄汚い毛に
 見えてしまうんです！","Even the angel's feathers are also dirty hair
-It looks like it looks!",0.2857142857142857
-When head coach Yamashita...,浜下ヘッドコーチが,Hamako Head Coach,0.3333333333333333
+It looks like it looks!",0.2857142857142857,0.8133991
+When head coach Yamashita...,浜下ヘッドコーチが,Hamako Head Coach,0.3333333333333333,0.49405122
 "...wears that cap, it's so sad...","あの帽子を被っていると
 切なくて切なくてぇ…","When I wear that hat
-I'm sorry, I'm sorry ...",0.2
-Because it's like he's wearing hair?,毛を被っているから？,Because it is wearing hair?,0.5555555555555556
-"However, when your only hair is a logo on a baseball cap...",しかし 毛とは名ばかりの野球帽では…,"However, with a baseball cap of just named hair ...",0.4117647058823529
-Going to die now?,死ぬんですか？,Do you die?,0.2857142857142857
-Perhaps you just wanted to say that out loud?,それが言いたかっただけなのでは？,Is that just wanted to say?,0.5454545454545454
-"Well, I have class.",では 授業があるので失礼します,So I'm sorry because I have classes,0.18181818181818182
-What if he comes everyday,毎日来たらどうしよう…,What should I do if you come every day ...,0.15384615384615385
-They had to stop the central line again this morning.,今朝も中央線が止まりましたね,The Chuo Line also stopped this morning,0.2857142857142857
-There was no hidden message there.,別に深い意味はありません,There is no deep meaning separately,0.2
-Thank you for the raise.,値上げ ありがとうございます,Thank you for the price increase,0.5
-It includes the consumption tax...,消費税つきです 桃色係長,Consumption tax with pink support,0.2222222222222222
-Achieve a rice ball \Nshape that won't \Nmake people laugh.,それはどうも,That's why,0.07142857142857142
-Sensei.,先生,teacher,0.0
-You're going to accept it?,受け止めるつもりですか？,Are you going to accept?,0.625
-You're okay with it?,はあ？,Is it?,0.2857142857142857
-Really great!,いいよ すごくいい！,Good Good!,0.25
-"You keep quiet, Kafuka-san!",あなたは黙っていて 可符香さん！,You are silent and maybe!,0.2
-Giving up is part of life.,諦めるのも人生です,It is also life to give up,0.2727272727272727
-I can't believe that a teacher would say that.,とても教師の言う言葉とは思えない,I do not think that it is a word of teacher,0.23529411764705882
-Couldn't you pretend that he's not a teacher?,教師だと思わなければいいんじゃない？,Isn't it good if you don't think it's a teacher?,0.35294117647058826
-I'll do that from now on.,今に分かります,I understand now,0.2222222222222222
-"Sensei, the corner on mine is bent...",先生… 端っこが折れてるんです,Teacher ... The end is broken,0.25
-Bushido is insanity unto Death.,足りてま～す,It is enough,0.125
-Okay then.,分かりました,I understand,0.0
-He didn't see me...,あ… 見えてないか,Oh ... I can't see it,0.3
-Second Hope,進路希望調査…,Course hope survey ...,0.2
-There's nothing to explain!,では 説明をします,Let's explain,0.2857142857142857
+I'm sorry, I'm sorry ...",0.2,0.5823147
+Because it's like he's wearing hair?,毛を被っているから？,Because it is wearing hair?,0.5555555555555556,0.8428228
+"However, when your only hair is a logo on a baseball cap...",しかし 毛とは名ばかりの野球帽では…,"However, with a baseball cap of just named hair ...",0.4117647058823529,0.7566286
+Going to die now?,死ぬんですか？,Do you die?,0.2857142857142857,0.567278
+Perhaps you just wanted to say that out loud?,それが言いたかっただけなのでは？,Is that just wanted to say?,0.5454545454545454,0.5997024
+"Well, I have class.",では 授業があるので失礼します,So I'm sorry because I have classes,0.18181818181818185,0.6229273
+What if he comes everyday,毎日来たらどうしよう…,What should I do if you come every day ...,0.15384615384615385,0.62483627
+They had to stop the central line again this morning.,今朝も中央線が止まりましたね,The Chuo Line also stopped this morning,0.2857142857142857,0.66549313
+There was no hidden message there.,別に深い意味はありません,There is no deep meaning separately,0.2,0.19394225
+Thank you for the raise.,値上げ ありがとうございます,Thank you for the price increase,0.5,0.61736995
+It includes the consumption tax...,消費税つきです 桃色係長,Consumption tax with pink support,0.2222222222222222,0.6017305
+Achieve a rice ball \Nshape that won't \Nmake people laugh.,それはどうも,That's why,0.07142857142857142,0.0904174
+Sensei.,先生,teacher,0.0,0.18823591
+You're going to accept it?,受け止めるつもりですか？,Are you going to accept?,0.625,0.8637469
+You're okay with it?,はあ？,Is it?,0.2857142857142857,0.24049954
+Really great!,いいよ すごくいい！,Good Good!,0.25,0.58707
+"You keep quiet, Kafuka-san!",あなたは黙っていて 可符香さん！,You are silent and maybe!,0.2,0.3614631
+Giving up is part of life.,諦めるのも人生です,It is also life to give up,0.2727272727272727,0.85164696
+I can't believe that a teacher would say that.,とても教師の言う言葉とは思えない,I do not think that it is a word of teacher,0.2352941176470588,0.563368
+Couldn't you pretend that he's not a teacher?,教師だと思わなければいいんじゃない？,Isn't it good if you don't think it's a teacher?,0.35294117647058826,0.7175272
+I'll do that from now on.,今に分かります,I understand now,0.2222222222222222,0.32456046
+"Sensei, the corner on mine is bent...",先生… 端っこが折れてるんです,Teacher ... The end is broken,0.25,0.20380846
+Bushido is insanity unto Death.,足りてま～す,It is enough,0.125,0.023502551
+Okay then.,分かりました,I understand,0.0,0.43869182
+He didn't see me...,あ… 見えてないか,Oh ... I can't see it,0.3,0.41368032
+Second Hope,進路希望調査…,Course hope survey ...,0.2,0.44055578
+There's nothing to explain!,では 説明をします,Let's explain,0.2857142857142857,0.42486444
 "We just have to list first three hopes, right...","第１希望から第３希望まで
 書けばいいんでしょ 桃色係長？","From the first choice to the third choice
-You should write?",0.10526315789473684
-Hope...,希望…,Hope ...,1.0
-There is no hope in this world!,世の中に希望なんてない！,There is no hope in the world!,0.7777777777777778
-There is only despair!,あるのは絶望だけです！,There is only despair!,1.0
-Not again...,またそんなことを…,See you again ...,0.4
-...we will conduct a survey of your despairs for the future!,進路絶望調査を行います！,We will conduct the course desperation!,0.3333333333333333
-Survey of...,進路希望の代わりに…,Instead of course hope ...,0.3333333333333333
-What exactly are we supposed to write?,あの どうやって書けばいいんですかぁ？,How should I write it?,0.16666666666666666
-It won't be difficult at all.,それって難しいかも…,It may be difficult ...,0.3
-Start writing!,はい 書いて下さい！,Please write!,0.2
-I could get addicted to this...,う～ん…,Hmm ...,0.125
-"Thank you, Kudou-kun.",ありがとう 久藤君,Thank you Hisa,0.3333333333333333
-Is there a point to this survey?,こんな調査 意味あるのお？,Is there a meaningful sense of survey?,0.45454545454545453
-This world is actually Second Life.,はい 先生 これで全部です,Yes Teacher This is all,0.2
-It's fun.,投稿ハガキじゃないの！,It's not postcard!,0.2857142857142857
-...for you to understand what i meant.,分かりました いいでしょう,I understand,0.2222222222222222
+You should write?",0.10526315789473684,0.27996927
+Hope...,希望…,Hope ...,1.0,0.9999999
+There is no hope in this world!,世の中に希望なんてない！,There is no hope in the world!,0.7777777777777778,0.98887926
+There is only despair!,あるのは絶望だけです！,There is only despair!,1.0,1.0000005
+Not again...,またそんなことを…,See you again ...,0.4,0.63443977
+...we will conduct a survey of your despairs for the future!,進路絶望調査を行います！,We will conduct the course desperation!,0.3333333333333333,0.45187843
+Survey of...,進路希望の代わりに…,Instead of course hope ...,0.3333333333333333,0.078704044
+What exactly are we supposed to write?,あの どうやって書けばいいんですかぁ？,How should I write it?,0.16666666666666666,0.6453839
+It won't be difficult at all.,それって難しいかも…,It may be difficult ...,0.3,0.64281523
+Start writing!,はい 書いて下さい！,Please write!,0.2,0.5346554
+I could get addicted to this...,う～ん…,Hmm ...,0.125,0.1979131
+"Thank you, Kudou-kun.",ありがとう 久藤君,Thank you Hisa,0.3333333333333333,0.37953973
+Is there a point to this survey?,こんな調査 意味あるのお？,Is there a meaningful sense of survey?,0.4545454545454545,0.7584534
+This world is actually Second Life.,はい 先生 これで全部です,Yes Teacher This is all,0.2,0.08132649
+It's fun.,投稿ハガキじゃないの！,It's not postcard!,0.2857142857142857,0.02453723
+...for you to understand what i meant.,分かりました いいでしょう,I understand,0.2222222222222222,0.4676449
 ...and how real despair is.,"希望がどれほどアナクロで
 絶望がどれほどリアルか 知って下さい","How is your hope
-Do you know how real is despair",0.3333333333333333
-Then first...,ではまず…,First of all ...,0.4
-You.,君！,you!,0.3333333333333333
+Do you know how real is despair",0.3333333333333333,0.7461353
+Then first...,ではまず…,First of all ...,0.4,0.54349273
+You.,君！,you!,0.3333333333333333,0.731143
 Your appearance suggests that you're the best student in this class...,"見た目 このクラスでは
 一番勉強できそうですが…","Famous Class in this class
-I can study the most ...",0.2777777777777778
-Hopeless...,絶望的だ！,Hopeless!,0.3333333333333333
-So you believe you can get into Tokyo U?,じゃあ 君は東大に行けるんですか？,"Well then, can you go to Tokyo University?",0.26666666666666666
-I guess it's pretty hopeless...,いや それは… 確かに 絶望的ですけど…,"No, it is ... Certainly desperate but ...",0.15384615384615385
-Serie A.,セリエＡ 日本代表 Ｊリーグ,Serie A Japan Representative J League,0.2857142857142857
-Hopeless!,絶望的だ,Hopeless,0.5
-Shogakukan Mang,絶望的だあ！,Desperate!,0.0
-Hopele-,絶… あ…,I'm sorry ... Oh ...,0.0
+I can study the most ...",0.2777777777777778,0.47277498
+Hopeless...,絶望的だ！,Hopeless!,0.3333333333333333,0.7859291
+So you believe you can get into Tokyo U?,じゃあ 君は東大に行けるんですか？,"Well then, can you go to Tokyo University?",0.26666666666666666,0.7586079
+I guess it's pretty hopeless...,いや それは… 確かに 絶望的ですけど…,"No, it is ... Certainly desperate but ...",0.15384615384615385,0.36232552
+Serie A.,セリエＡ 日本代表 Ｊリーグ,Serie A Japan Representative J League,0.2857142857142857,0.4539757
+Hopeless!,絶望的だ,Hopeless,0.5,0.8500469
+Shogakukan Mang,絶望的だあ！,Desperate!,0.0,0.12064667
+Hopele-,絶… あ…,I'm sorry ... Oh ...,0.0,0.17168081
 You can get into all of these places if you have the money...,"お金さえあれば
 入れるところばかりだが…","If you have money
-It is only where you put it ...",0.2777777777777778
-As time has shown...,が～ん…,...,0.2
-Its actual meaning is despair.,その実体は絶望なのです,The entity is despair,0.25
+It is only where you put it ...",0.2777777777777778,0.43597552
+As time has shown...,が～ん…,...,0.2,0.25377634
+Its actual meaning is despair.,その実体は絶望なのです,The entity is despair,0.25,0.69909704
 And that is...,"そしてそれこそが
 世の中というものなんです！","And that is
-It is a thing of the world!",0.2727272727272727
-What is it...,はい なんでしょう 風浦さん,Yes What is it?,0.5
-...Fuura-san?,ああ？,Ah?,0.25
+It is a thing of the world!",0.2727272727272727,0.39959526
+What is it...,はい なんでしょう 風浦さん,Yes What is it?,0.5,0.53871584
+...Fuura-san?,ああ？,Ah?,0.25,0.17608391
 nothing in this world is hopeless!,"世の中に絶望的なことなんて
 ありません！","What is desperate in the world
-There is none!",0.3333333333333333
-...your hopes will surely come true!,努力すれば 希望は必ず叶います！,"If you make an effort, hope will always come true!",0.25
-I see.,なるほど それでは伺いましょう,I see that I will ask you,0.2857142857142857
+There is none!",0.3333333333333333,0.6018714
+...your hopes will surely come true!,努力すれば 希望は必ず叶います！,"If you make an effort, hope will always come true!",0.25,0.68340296
+I see.,なるほど それでは伺いましょう,I see that I will ask you,0.2857142857142857,0.35104755
 Do you believe you can get into Tokyo U if you work hard?,"ならば君も 努力すれば
 東大へ入れるとゆうんですか？","If you try to work
-Do you want to put in Tokyo University?",0.3333333333333333
-The possibility exist!,可能性はあります！,There is a possibility!,0.2857142857142857
-You can play in Serie A if you work hard?,努力すれば セリエＡに入れると？,If you make an effort to enter Serie A?,0.3333333333333333
-Even become the prime minister?,じゃあ 総理大臣にも？,"Well then, is also the Prime Minister?",0.36363636363636365
-In that case...,んん…,...,0.25
+Do you want to put in Tokyo University?",0.3333333333333333,0.7885878
+The possibility exist!,可能性はあります！,There is a possibility!,0.2857142857142857,0.8241949
+You can play in Serie A if you work hard?,努力すれば セリエＡに入れると？,If you make an effort to enter Serie A?,0.3333333333333333,0.7987176
+Even become the prime minister?,じゃあ 総理大臣にも？,"Well then, is also the Prime Minister?",0.3636363636363637,0.7010443
+In that case...,んん…,...,0.25,0.3807012
 There're still a few things...,"さすがに 私にも
 なるの絶望的なもの ありますよ","As expected to me
-There is a hopeless thing",0.14285714285714285
+There is a hopeless thing",0.14285714285714285,0.1968171
 The student in you class are strong of heart.,"見せていただきました
 先生のクラスの進路希望調査","I showed you
-Course of the teacher's class",0.26666666666666666
-Soccer player.,サッカー選手 アイドル 作曲家,Soccer player Idol Composer,0.4
+Course of the teacher's class",0.26666666666666666,0.45075527
+Soccer player.,サッカー選手 アイドル 作曲家,Soccer player Idol Composer,0.4,0.6065271
 ...but young people are better off this way.,"少々非現実的だが
 若者はこのくらいの方がいい","A little unrealistic
-Young people are better than this",0.35714285714285715
-It's nothing.,ああ それはどうも…,"Oh, it's not ...",0.25
-I can't wait to see how your class fares.,いや～ 将来が楽しみですなあ,No ~ I'm looking forward to the future,0.1111111111111111
-Is she okay?,その子は 大丈夫なんですか？,Is that child okay?,0.5
-I also believe that she requires special attention.,ええ 私も要注意だと思っています,Yeah I also think that it is necessary,0.21428571428571427
-It would be a good idea to keep an eye on her...,注意して見守ってあげた方が いいですね,It is better to watch over carefully,0.1111111111111111
-God!,神 未来人 ポロロッカ星人！,God Leader Pororocca Alien!,0.4
-Pororocoian!,ハッ クシュン！ ヒュ！,Hackshun!Hyu!,0.25
-"Subs ripped from Fuktlogil's DVD release, need translated script for the Extra 02",影は女たちをきれいにしてゆくの,The shadow cleans the women,0.05555555555555555
+Young people are better than this",0.35714285714285715,0.7590702
+It's nothing.,ああ それはどうも…,"Oh, it's not ...",0.25,0.41226673
+I can't wait to see how your class fares.,いや～ 将来が楽しみですなあ,No ~ I'm looking forward to the future,0.1111111111111111,0.25971425
+Is she okay?,その子は 大丈夫なんですか？,Is that child okay?,0.5,0.65046364
+I also believe that she requires special attention.,ええ 私も要注意だと思っています,Yeah I also think that it is necessary,0.21428571428571427,0.34965762
+It would be a good idea to keep an eye on her...,注意して見守ってあげた方が いいですね,It is better to watch over carefully,0.1111111111111111,0.40542892
+God!,神 未来人 ポロロッカ星人！,God Leader Pororocca Alien!,0.4,0.38932636
+Pororocoian!,ハッ クシュン！ ヒュ！,Hackshun!Hyu!,0.25,0.21178047
+"Subs ripped from Fuktlogil's DVD release, need translated script for the Extra 02",影は女たちをきれいにしてゆくの,The shadow cleans the women,0.05555555555555555,0.01908299

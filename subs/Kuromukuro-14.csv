@@ -1,350 +1,350 @@
-en_text,jp_text,google_translated,score
-Who are you?,（美夏(みか)）え？ 誰？,)?Who?,0.4
-Yukina!,（剣之介(けんのすけ)）由希奈！,Yukina Yuka!,0.6666666666666666
-Yuki?,（由希奈(ゆきな)）え？,)?,0.3333333333333333
-Die!,（ムエッタ）とどめ！,!,0.5
-What?,何？,what?,1.0
-This is karma.,しかし因果だな,But it is a causal,0.125
-Are they okay?,（茅原(かやはら)）大丈夫なのかよ,) Is it okay?,0.2857142857142857
-Kennosuke!,剣之介… 剣之介！,Kennosuke ... Kenyu!,0.5
+en_text,jp_text,google_translated,score,semantic_score
+Who are you?,（美夏(みか)）え？ 誰？,)?Who?,0.4,0.4732877
+Yukina!,（剣之介(けんのすけ)）由希奈！,Yukina Yuka!,0.6666666666666666,0.8887235
+Yuki?,（由希奈(ゆきな)）え？,)?,0.3333333333333333,0.17794606
+Die!,（ムエッタ）とどめ！,!,0.5,0.47821802
+What?,何？,what?,1.0,1.0000002
+This is karma.,しかし因果だな,But it is a causal,0.125,0.23121375
+Are they okay?,（茅原(かやはら)）大丈夫なのかよ,) Is it okay?,0.2857142857142857,0.5711971
+Kennosuke!,剣之介… 剣之介！,Kennosuke ... Kenyu!,0.5,0.9347784
 "Akagi, Carlos! Carry Kennosuke.","赤城(あかぎ) カルロス
 剣之介を運んで！","Akagi  Carlos
-Carry Kennosuke!",0.7142857142857143
+Carry Kennosuke!",0.7142857142857143,0.9612036
 "-Okay...
--Y-Yes.",（カルロス･赤城）おお…,...,0.25
-Prepare for face off.,お前の相手は私だ,Your opponent is me,0.0
-<i>Princess...,姫… 何ゆえ…,Princess ...,0.4
-You...,くくっ…,Kuwaku ...,0.3333333333333333
-I don't think that ogre's cosplaying.,あの鬼 コスプレじゃなくね？,"Isn't that demon cosplay, right?",0.13333333333333333
-She's coming!,ヒャッ！,Hya!,0.2
-Out of my way!,邪魔立ていたすな！,I'm in the way!,0.2222222222222222
+-Y-Yes.",（カルロス･赤城）おお…,...,0.25,0.2581368
+Prepare for face off.,お前の相手は私だ,Your opponent is me,0.0,0.2181832
+<i>Princess...,姫… 何ゆえ…,Princess ...,0.4,0.7787052
+You...,くくっ…,Kuwaku ...,0.3333333333333333,0.2352608
+I don't think that ogre's cosplaying.,あの鬼 コスプレじゃなくね？,"Isn't that demon cosplay, right?",0.13333333333333333,0.5543257
+She's coming!,ヒャッ！,Hya!,0.2,0.35517445
+Out of my way!,邪魔立ていたすな！,I'm in the way!,0.2222222222222222,0.68757915
 I forgot you're an alien.,"油断しました
 そういえば宇宙人でしたね","Over oil
-Speaking of which, it was an alien",0.13333333333333333
+Speaking of which, it was an alien",0.13333333333333333,0.4370942
 "-We have to stop the bleeding.
--Kennosuke!",あ… 早く止血しないと,Oh ... I have to hemostacaneously,0.15384615384615385
-"Marina, can you treat Kennosuke?",剣之介！,Kennosuke!,0.125
-Um...,（美夏）ハァ ハァ…,Hua ...,0.3333333333333333
+-Kennosuke!",あ… 早く止血しないと,Oh ... I have to hemostacaneously,0.15384615384615385,0.3206501
+"Marina, can you treat Kennosuke?",剣之介！,Kennosuke!,0.125,0.58887655
+Um...,（美夏）ハァ ハァ…,Hua ...,0.3333333333333333,0.22458987
 "You're the school nurse, don't tell me
 you can't stand the sight of blood.","保健の先生のくせに
 血に弱いとか勘弁してよ","In the health of health teachers
-Don't worry about blood",0.23809523809523808
+Don't worry about blood",0.2380952380952381,0.65533537
 Let's remove his clothes first.,"（武隈(たけくま)）
 まずは 服を脱がせよう",")
-First of all, let's take off your clothes",0.2857142857142857
+First of all, let's take off your clothes",0.2857142857142857,0.7239555
 It's like a bullet that made a clean exit.,"貫通銃創のようなものだ
 運がよければ助かる","It is like a penetration gun
-If you are lucky",0.17647058823529413
+If you are lucky",0.17647058823529413,0.47833964
 "We can't do much for him here.
 Shirahane.","（武隈）ここでは
 大したことはできない","here
-I can not do a big deal",0.125
+I can not do a big deal",0.125,0.27947995
 "Contact the UN and get them
 to send a helicopter.","白羽(しらはね) すぐに国連に連絡して
 ヘリを呼ぶんだ","Shirahaha  Immediately contact the UN
-I call a helicopter",0.3333333333333333
-Right away!,あ… はい！,"Oh, yes!",0.16666666666666666
+I call a helicopter",0.3333333333333333,0.7223594
+Right away!,あ… はい！,"Oh, yes!",0.16666666666666666,0.3676752
 "Something terrible happened!
 There's so much blood!","えっと あの 大変なの
 すごい血が出てて…","It's a big deal
-Very bloody blood comes out ...",0.1111111111111111
-<i>Are you alright?!,あんたは無事なんでしょうね!?,You should be safe?,0.18181818181818182
-I'm fine...,うん 私は大丈夫,Yeah I'm fine,0.6
-because Kennosuke protected me.,剣之介が守ってくれたから,Because Kennosuke protected,0.6
-I heard.,聞こえていたよ,I heard,0.6666666666666666
+Very bloody blood comes out ...",0.1111111111111111,0.6395558
+<i>Are you alright?!,あんたは無事なんでしょうね!?,You should be safe?,0.18181818181818185,0.30518505
+I'm fine...,うん 私は大丈夫,Yeah I'm fine,0.6,0.7135211
+because Kennosuke protected me.,剣之介が守ってくれたから,Because Kennosuke protected,0.6,0.9025004
+I heard.,聞こえていたよ,I heard,0.6666666666666666,0.8735218
 "All right, let's carry Oma outside.","とにかく 青馬(おうま)を
 グラウンドまで運ぼう","Anyway, Aoima 
-Let's make it to ground",0.2
+Let's make it to ground",0.2,0.3993266
 Where'd you learn all that?,"タケプー すげ～な
 どこで習った？","Takepoo ~
-Where did you learn?",0.4
+Where did you learn?",0.4,0.49903688
 Better for you not to know.,"（武隈）君たちは
 知らないほうがいい","You are
-You should not know",0.3333333333333333
+You should not know",0.3333333333333333,0.6551847
 "The emergency helicopter should be there
 in three minutes.","（リタ）救護のヘリは
 あと３分で到着します","Relief helicopter
-I will arrive in 3 minutes",0.2
+I will arrive in 3 minutes",0.2,0.7113629
 "Incoming transmission
-from our special team.",（ベス）展開中の特殊班から通信,Communication from special group during  expansion,0.18181818181818182
+from our special team.",（ベス）展開中の特殊班から通信,Communication from special group during  expansion,0.18181818181818185,0.3435392
 "Capture her if possible.
 If not, shoot to kill!","（グラハム）可能なら拘束
 無理なら射殺だ","if possible
-If it is impossible",0.14285714285714285
-Don't let her escape!,とにかく逃がすな！,"Anyway, don't miss it!",0.3
-This oversight is my responsibility.,完全に私の落ち度です,Completely my fall,0.125
+If it is impossible",0.14285714285714285,0.117834345
+Don't let her escape!,とにかく逃がすな！,"Anyway, don't miss it!",0.3,0.33057955
+This oversight is my responsibility.,完全に私の落ち度です,Completely my fall,0.125,0.070376076
 "We increased security to deter terrorism,
 but...","テロ対策に監視と警備を
 強化していたんですが","Monitor and security for measures against terrorism
-I was strengthening",0.11764705882352941
+I was strengthening",0.1176470588235294,0.6212441
 Nobody could have predicted this.,"（洋海）誰にも
 予想できませんでしたから","Everyone
-Because I could not expect",0.09090909090909091
+Because I could not expect",0.09090909090909093,0.4039407
 "Tom, get ready to deploy.","（洋海）まさか 生身で
-乗り込んでくるなんて",I'm going to get in,0.18181818181818182
+乗り込んでくるなんて",I'm going to get in,0.18181818181818185,0.20121051
 "The Efidolg geoframe
 that disappeared concerns me.","消えたエフィドルグの
 ジオフレームが気になる","Effidorg that disappeared
-Geoframe is anxious",0.2727272727272727
-<i>Copy that.,了解,Roger that,0.14285714285714285
+Geoframe is anxious",0.2727272727272727,0.81509763
+<i>Copy that.,了解,Roger that,0.14285714285714285,0.27015138
 "Damn it, I should've gone to school too.","（トム）クソ！ 俺も
 学校 行っときゃよかったな","fucking!me too
-It would have been nice to go to school",0.21052631578947367
+It would have been nice to go to school",0.21052631578947367,0.6737833
 "It's the battle of the century!
 Ogre vs. alien!","（茅原）ハァ ハァ…
 世紀の瞬間！","Ha ...
-The moment of the century!",0.3076923076923077
+The moment of the century!",0.3076923076923077,0.34893766
 This is unprecedented!,"鬼対宇宙人
 こいつは前代未聞ですよ！","Demon pair alien
-This guy is an unprecedented person!",0.4
+This guy is an unprecedented person!",0.4,0.38948536
 Will our war photographer die here?!,"戦場カメラマン
 ここに死す!?","Battlefield Cameraman
-Death here!?",0.2727272727272727
+Death here!?",0.2727272727272727,0.56692815
 "Whoa, she looks exactly like Shirahane.","ていうか
 白羽そっくりじゃん","I mean
-Hakuha Sugiro",0.0
-Are you okay?,え？ うん,picture?Yes,0.16666666666666666
-Kaya!,カヤ！,Kaya!,1.0
+Hakuha Sugiro",0.0,0.23555757
+Are you okay?,え？ うん,picture?Yes,0.16666666666666666,0.36820668
+Kaya!,カヤ！,Kaya!,1.0,0.99999964
 Are you insane?!,"お前 無茶やりすぎだろ
 死ぬとこだったんだぞ！","You're too stupid
-I died!",0.2
+I died!",0.2,0.24230361
 Oh. He's a person too.,"そっか
 あの人も人間だったんだな","I see
-That person was a human being",0.15384615384615385
-"Come, Manata!",来い マナタ！,Come to come!,0.4
+That person was a human being",0.15384615384615385,0.5413171
+"Come, Manata!",来い マナタ！,Come to come!,0.4,0.47713822
 "Incoming emergency transmission
 from NORAD!","（アラーム音）
-（リタ）ノーラッドより緊急通信",Emergency communication from Norad,0.42857142857142855
+（リタ）ノーラッドより緊急通信",Emergency communication from Norad,0.42857142857142855,0.8789357
 "A large-scale geoframe has been launched
 from the Efidolg mother ship.","エフィドルグの母艦から
 大型ジオフレームが投下されました！","From the mother ship of Efidorg
-Large Geoframe was dropped!",0.2777777777777778
+Large Geoframe was dropped!",0.2777777777777778,0.79970306
 What?! What's the update on Ken?,"（グラハム）何だと？
 ケンは どうなった？","What?
-What happened to Ken?",0.3
-"GAUS 1, prepare for emergency deployment!",ガウス１(ワン) 緊急出撃！,Gauss 1  Emergency Shoot!,0.3
+What happened to Ken?",0.3,0.7894591
+"GAUS 1, prepare for emergency deployment!",ガウス１(ワン) 緊急出撃！,Gauss 1  Emergency Shoot!,0.3,0.58958316
 Deploy GAUS 2 as soon as it's ready!,"ガウス２(ツー)も準備ができ次第
 出撃させろ！","Gauss 2  is also ready
-Let's do it!",0.35714285714285715
-Currently in pursuit!,追跡中です！,I'm tracking!,0.14285714285714285
-Of course...,うう… クソ,Umm ... fucking,0.2
-They lost him.,ロストしたそうです,It seems to be lost,0.125
+Let's do it!",0.35714285714285715,0.5800235
+Currently in pursuit!,追跡中です！,I'm tracking!,0.14285714285714285,0.461239
+Of course...,うう… クソ,Umm ... fucking,0.2,0.38477644
+They lost him.,ロストしたそうです,It seems to be lost,0.125,0.4812646
 "Damn it. Perhaps we should have
 prioritized capturing him.","むしろ そっちを
 拘束すべきだったか","Rather,
-Should I constrained",0.07142857142857142
+Should I constrained",0.07142857142857142,0.1437506
 What is he?,"エフィドルグと
 敵対している鬼？","Effidence
-A demon who is hostile?",0.2222222222222222
-He looked like... an ogre to me.,私には,To me,0.2222222222222222
+A demon who is hostile?",0.2222222222222222,0.25514135
+He looked like... an ogre to me.,私には,To me,0.2222222222222222,0.11333711
 It did resemble Ken's terrible drawing.,"確かに ケンが描いた
 下手クソな絵に似てなくはないが","Certainly Ken drew
-It is not similar to a bad fucking picture",0.1111111111111111
+It is not similar to a bad fucking picture",0.1111111111111111,0.7708666
 Takehito did say the ogres would come.,"そう 鬼というのは
 あくまで","So the demon is
-Only",0.08333333333333333
+Only",0.08333333333333333,0.17869009
 they were visitors from outer space.,"宇宙からの来訪者という
 意味かと思ったが","It is called visitors from space
-I thought it means",0.23076923076923078
-But now a real ogre has appeared.,今度は 本当に鬼が出てきた,This time a demon came out,0.07692307692307693
+I thought it means",0.2307692307692308,0.6247488
+But now a real ogre has appeared.,今度は 本当に鬼が出てきた,This time a demon came out,0.07692307692307693,0.31093776
 Exactly how much of what he said is true?,"あの人が言ってたことって
 どこまでが本当なの？","That person said
-How far is it?",0.2857142857142857
-She called in Manata?,（ミラーサ）マナタを降ろしたのか？,Did you get down Manata?,0.2222222222222222
+How far is it?",0.2857142857142857,0.36596987
+She called in Manata?,（ミラーサ）マナタを降ろしたのか？,Did you get down Manata?,0.2222222222222222,0.5951958
 "The major blood vessels
 appear to have healed.","（ハウゼン）主要な血管の傷が
 塞がっている？","Major blood vessel scratches
-Are you blocked?",0.13333333333333333
-In such a short amount of time?,こんな短時間で？,In such a short time?,0.75
+Are you blocked?",0.13333333333333333,0.5575901
+In such a short amount of time?,こんな短時間で？,In such a short time?,0.75,0.8965223
 He must have returned to his stronghold.,"彼奴(きゃつ)めは
 根城に戻ったに違いない","The guy 
-I must have returned to Right Castle",0.3076923076923077
-They're not interested in fighting?,戦う気がないのか？,Do you feel like fighting?,0.18181818181818182
+I must have returned to Right Castle",0.3076923076923077,0.44623977
+They're not interested in fighting?,戦う気がないのか？,Do you feel like fighting?,0.18181818181818185,0.51726747
 I see how it is.,"邪魔立ていたすな
 グロングルもどきめ！","I'm in the way
-Glongul is also dull!",0.14285714285714285
+Glongul is also dull!",0.14285714285714285,0.21821524
 Time to ram that bitch's ass up!,"ビッチ野郎のケツに
 特大のクソを ねじ込んでやれ！","Bitch bastard
-Overhead fucking he is screwed!",0.13333333333333333
-Miss Sophie?,お嬢様？,Lady?,0.25
-You jackass!,シット！,Sit!,0.25
+Overhead fucking he is screwed!",0.13333333333333333,0.43911102
+Miss Sophie?,お嬢様？,Lady?,0.25,0.44198307
+You jackass!,シット！,Sit!,0.25,0.26031575
 "The enemy geoframe is heading straight
-for this facility!",（トム）このタコ野郎が！,This octopus bastard is!,0.25
+for this facility!",（トム）このタコ野郎が！,This octopus bastard is!,0.25,0.17950444
 I was afraid of this.,"（ベス）潜んでいた
 もう１機も現れました","I was hidden
-Another one appeared",0.2
+Another one appeared",0.2,0.30665493
 "-How is Ken?
--He's awake now, but...",ケンは？,What is Ken?,0.25
+-He's awake now, but...",ケンは？,What is Ken?,0.25,0.64038634
 Don't move!,"ちょっと動かないで
 あんた 大ケガしてんだから！","Don't move a little
-Because I'm addicted!",0.4
+Because I'm addicted!",0.4,0.5613651
 "-Quiet!
--You can stand?",（ハウゼン）立てるのか？,Do you stand?,0.25
-I must save Princess Yuki.,雪(ゆき)姫様を お救いせねば,Snow  Princess Save,0.2857142857142857
-That was Princess Yuki for sure.,あれは まごうことなき雪姫様,That is a true snow princess,0.18181818181818182
-"Ken, this Princess Yuki you mention,",ケン 雪姫というのは,Ken Snow Princess,0.25
+-You can stand?",（ハウゼン）立てるのか？,Do you stand?,0.25,0.55264074
+I must save Princess Yuki.,雪(ゆき)姫様を お救いせねば,Snow  Princess Save,0.2857142857142857,0.63850373
+That was Princess Yuki for sure.,あれは まごうことなき雪姫様,That is a true snow princess,0.18181818181818185,0.48567688
+"Ken, this Princess Yuki you mention,",ケン 雪姫というのは,Ken Snow Princess,0.25,0.61346054
 "is she the Efidolg spy
 who stabbed you?","君を刺したエフィドルグの
 工作員のことか？","Effiddlegu stabbed
-What is the worker?",0.3333333333333333
-She's no spy! The princess...,姫は…,Princess ...,0.25
-She must be under some ogre spell!,姫は 何としてもお救いする！,Princess will be saved as anything!,0.15384615384615385
+What is the worker?",0.3333333333333333,0.5588042
+She's no spy! The princess...,姫は…,Princess ...,0.25,0.5669677
+She must be under some ogre spell!,姫は 何としてもお救いする！,Princess will be saved as anything!,0.15384615384615385,0.22748561
 and is heading here now.,"大型ジオフレームを降下させ
 こちらに向かっている","Lower large geoframes
-I'm heading here",0.18181818181818182
+I'm heading here",0.18181818181818185,0.038644552
 What? The princess is in a mukuro?,"（剣之介）何？
 （由希奈）え？","What?
-?",0.25
-"The enemy's target is you, Ken.",敵の狙いはケン 君だ,The enemy aim is Ken-kun,0.2727272727272727
+?",0.25,0.115300685
+"The enemy's target is you, Ken.",敵の狙いはケン 君だ,The enemy aim is Ken-kun,0.2727272727272727,0.724088
 "We can safely assume
 that the enemy knows you are here.","君が ここにいることは
 把握されていると見て間違いない","What you are here
-It is definitely no doubt that it is grasped",0.21052631578947367
+It is definitely no doubt that it is grasped",0.21052631578947367,0.3063778
 "Are you asking me to go out
 in the Kuromukuro?","俺にクロムクロで出ろと
 言うのか？","I went to me in Chromukuro
-Do you say?",0.3125
+Do you say?",0.3125,0.70204616
 I know I'm asking the impossible.,"や… やめてください
 こんな体で出撃しろだなんて！","And ... Please stop
-I'm going to dispatch this kind of body!",0.10526315789473684
+I'm going to dispatch this kind of body!",0.10526315789473684,0.17286442
 "If things go well,
 you might be able to save the princess.","うまく撃破できれば
 姫を助け出せるかもしれん","If you can destroy it well
-May help you help the princess",0.2631578947368421
-I will save the princess.,姫を救い出す,Save the princess,0.5
+May help you help the princess",0.2631578947368421,0.7170899
+I will save the princess.,姫を救い出す,Save the princess,0.5,0.88257337
 "I will go, with or without the mukuro!","たとえ ムクロが動かずとも
 俺は行く！","Even if Mukuko moves
-I go!",0.21428571428571427
-That you wouldn't go off and die.,死ぬものか,Do you die,0.2
-I won't die!,勝手に死なないって,I do not die myself,0.25
+I go!",0.21428571428571427,0.6005021
+That you wouldn't go off and die.,死ぬものか,Do you die,0.2,0.39063138
+I won't die!,勝手に死なないって,I do not die myself,0.25,0.62074417
 "It's hard to sound convincing
 when you're coughing up blood.","血 吐きながら言われても
 説得力ないんですけど","Even if it is said while blood
-I'm not convincing",0.14285714285714285
+I'm not convincing",0.14285714285714285,0.6223241
 "Being able to stand in your condition
 is baffling enough.","（ハウゼン）この状態で
 動けているというのが","In this state
-It is moving",0.13333333333333333
+It is moving",0.13333333333333333,0.059660707
 "-Let's go.
--I told you not to...",行くなって言っても…,Even if you go ...,0.25
-Save your breath.,（剣之介）無駄だ,Waste,0.0
-Let's get the show on the road already!,行くぞ,let's go,0.2
-I'm gonna miss the war!,戦争が終わっちまうぞ！,War is over!,0.2
+-I told you not to...",行くなって言っても…,Even if you go ...,0.25,0.3155697
+Save your breath.,（剣之介）無駄だ,Waste,0.0,0.31637788
+Let's get the show on the road already!,行くぞ,let's go,0.2,0.27101856
+I'm gonna miss the war!,戦争が終わっちまうぞ！,War is over!,0.2,0.6536934
 Damage is nonexistent.,"ダメージは皆無
 すぐに出られる","There is no damage
-Get out soon",0.2222222222222222
+Get out soon",0.2222222222222222,0.70312876
 "I don't know why,
 but I have a bad feeling about this.","何でか分かんないけど
 すっごいモヤモヤする","I do not know anything
-Wanted Moyamiya",0.16666666666666666
+Wanted Moyamiya",0.16666666666666666,0.097009175
 "-Are you okay?
--You should be worrying about yourself.",大丈夫か？,Are you okay?,0.25
-"More importantly, can you move?",それより動ける？,Can you move than it?,0.4444444444444444
-Of course!,無論だ,Of course,0.6666666666666666
+-You should be worrying about yourself.",大丈夫か？,Are you okay?,0.25,0.60845226
+"More importantly, can you move?",それより動ける？,Can you move than it?,0.4444444444444444,0.86996216
+Of course!,無論だ,Of course,0.6666666666666666,0.8416644
 Not convincing at all whatsoever.,"説得力ないこと
 この上ないでござる","Persuasive
-Not over this",0.1111111111111111
-Princess...,姫,princess,0.5
+Not over this",0.1111111111111111,0.28125232
+Princess...,姫,princess,0.5,0.74913836
 "you will not have
 to endure this much longer.","このムクロに
 姫が乗っておるのだな？","To this muko
-Princesses are riding?",0.13333333333333333
+Princesses are riding?",0.13333333333333333,0.094370686
 <i>Hold out until they arrive!,"ミラーサ 推参
 尋常に討ち取られい！","Mirasa
-I'm crazy!",0.16666666666666666
-"Top right, another unit!",右上 もう１機！,One more better than the upper right!,0.16666666666666666
+I'm crazy!",0.16666666666666666,0.20876083
+"Top right, another unit!",右上 もう１機！,One more better than the upper right!,0.16666666666666666,0.5144376
 Be careful.,"気をつけて
 そのジオフレーム","Be careful
-Its geoframe",0.4
+Its geoframe",0.4,0.34320056
 "Apparently that geoframe's
 hanging swords extend.","ぶら下がってる刀が
 全部 伸びるらしいから","A sword that hangs down
-Because it seems to grow everything",0.058823529411764705
-Understood!,承知！,know!,0.3333333333333333
-"Mirasa, what's the meaning of this?",ミラーサ 何をするか,What do Mirasa do?,0.3
+Because it seems to grow everything",0.05882352941176471,0.57453173
+Understood!,承知！,know!,0.3333333333333333,0.4796729
+"Mirasa, what's the meaning of this?",ミラーサ 何をするか,What do Mirasa do?,0.3,0.8341842
 "Show some respect, Muetta.","無粋なことをいたすな
 ムエッタ","I have not been ridiculous
-Muetta",0.09090909090909091
+Muetta",0.09090909090909093,0.7160545
 "Cutting in when two warriors
 are engaged in battle...","武士(もののふ)が斬り結んでいる時に
 横から斬りかかるなど","When a samurai  is cut
-It takes sideways",0.0625
-Have you no shame?!,恥を知れ,shame on you,0.2857142857142857
+It takes sideways",0.0625,0.44485644
+Have you no shame?!,恥を知れ,shame on you,0.2857142857142857,0.571178
 "<i>Of course, don't be silly.","（ミラーサ）たわけたことを
-当然であろう",It will be natural,0.07142857142857142
-Very well.,よかろう,Guess,0.0
-They're acting strange.,何か変だよ この人たち,Something strange is this person,0.1111111111111111
+当然であろう",It will be natural,0.07142857142857142,0.22050244
+Very well.,よかろう,Guess,0.0,0.14935935
+They're acting strange.,何か変だよ この人たち,Something strange is this person,0.1111111111111111,0.40699264
 In that case!,"そびえ立つクソどもの
 カーニバルだ！","Sounding fucking
-Carnival!",0.14285714285714285
+Carnival!",0.14285714285714285,0.25308648
 "There's no point
 unless I am the last one standing.","最後に立っているのが
 私でなければ意味がないのでな","Lastly standing
-There is no meaning if it is not me",0.15789473684210525
+There is no meaning if it is not me",0.15789473684210525,0.5255226
 Why? Why didn't it attack?,"なぜだ
 なぜ打ち込んでこなかった？","Why
-Why didn't you drive?",0.5
-Leave this spider bitch to me.,こっちのクモ野郎は任せとけ,I will leave this quio guy,0.18181818181818182
-Damn it!,死んじゃえ バカ！,Dead stupid!,0.2
-"Hey, let's stop.",ねえ もうやめよう,Let's stop it,0.42857142857142855
-No! I'm going to save the princess!,ならぬ 必ず姫は取り戻す！,There is no need to get back the princess!,0.35714285714285715
-I am! I'm going to save the princess!,本気だ 姫は必ずお助けする！,Be sure to help the princess!,0.3333333333333333
+Why didn't you drive?",0.5,0.40541452
+Leave this spider bitch to me.,こっちのクモ野郎は任せとけ,I will leave this quio guy,0.18181818181818185,0.30912986
+Damn it!,死んじゃえ バカ！,Dead stupid!,0.2,0.24547999
+"Hey, let's stop.",ねえ もうやめよう,Let's stop it,0.42857142857142855,0.713161
+No! I'm going to save the princess!,ならぬ 必ず姫は取り戻す！,There is no need to get back the princess!,0.35714285714285715,0.7261949
+I am! I'm going to save the princess!,本気だ 姫は必ずお助けする！,Be sure to help the princess!,0.3333333333333333,0.64801383
 That's not what I meant.,"そうじゃなくて もう…
 ちょっと下がって！","That's not so ...
-A little down!",0.23076923076923078
+A little down!",0.2307692307692308,0.18268812
 "-What?
--Just do it!",いいから！,Because it is good!,0.2222222222222222
-"Um, about the two enemy geoframes...",フゥ…,Hu ...,0.1111111111111111
+-Just do it!",いいから！,Because it is good!,0.2222222222222222,0.23962669
+"Um, about the two enemy geoframes...",フゥ…,Hu ...,0.1111111111111111,0.062330548
 "What the hell are you saying?
-We're in the middle of--",何だと？,What did you say?,0.2
+We're in the middle of--",何だと？,What did you say?,0.2,0.26082605
 "Yukina has more experience
 fighting the Efidolgs.","エフィドルグと戦った経験は
 由希奈のほうが上だ","The experience of fighting Efidorg
-Yukina is above",0.3333333333333333
-Just listen.,聞いてやれ,Leaning,0.0
+Yukina is above",0.3333333333333333,0.876668
+Just listen.,聞いてやれ,Leaning,0.0,0.14534609
 "In that case, we can try isolating one
 in a three-on-one situation.","それなら １対３の状況を想定した
 プランを試してみましょう","Then we assumed a one-to-three situation
-Let's try the plan",0.2
-<i>Say what?,（トム）あ？ 何だそりゃ,?Anywhere,0.14285714285714285
+Let's try the plan",0.2,0.58162767
+<i>Say what?,（トム）あ？ 何だそりゃ,?Anywhere,0.14285714285714285,0.14148122
 "The tactical plans have
 already been installed.","すでに行動プランは
 インストールしてあります","Already action plan
-It is installed",0.16666666666666666
-Sophie is going to try something.,ソフィーが何かやるって,Sophie does something,0.25
-"First, get into formation J.",まずは フォーメーションＪです,"First of all, formation j",0.4444444444444444
+It is installed",0.16666666666666666,0.54604614
+Sophie is going to try something.,ソフィーが何かやるって,Sophie does something,0.25,0.83967793
+"First, get into formation J.",まずは フォーメーションＪです,"First of all, formation j",0.4444444444444444,0.7731017
 "<i>Team Kuromukuro,
 <i>just follow my instructions.","（ソフィー）クロムクロは
 私の指示に従ってください","Chrome Curm
-Please follow my instructions",0.21428571428571427
-How dare you!,おのれ！,Annoying!,0.2
-"Mirasa, can you move?",ミラーサ 動けるか？,Can you move mirrora?,0.5714285714285714
-I can still fight!,まだだ まだやれる！,I can still do it!,0.5714285714285714
+Please follow my instructions",0.21428571428571427,0.31090418
+How dare you!,おのれ！,Annoying!,0.2,0.34871423
+"Mirasa, can you move?",ミラーサ 動けるか？,Can you move mirrora?,0.5714285714285714,0.64936686
+I can still fight!,まだだ まだやれる！,I can still do it!,0.5714285714285714,0.5466524
 "I see that they don't have
 warrior's honor.","武士の心は
 持ち合わせておらぬと見える","Samurai's heart
-I see it",0.21428571428571427
-Princess!,姫！,princess!,1.0
+I see it",0.21428571428571427,0.35254017
+Princess!,姫！,princess!,1.0,1.0
 Bringing more shame upon us?,"おのれ ムエッタ
 さらに恥をかかせようというのか","Muetta
-Is it more shame?",0.3333333333333333
+Is it more shame?",0.3333333333333333,0.3960353
 Shame me all you want.,"恥など いくらでも
 そそげよう","Anything shame
-Hesitate",0.125
-After them! Don't let them get away!,追撃だ やれる時にやるぞ！,I will do it when I can see!,0.14285714285714285
-Way to call it.,ここで死なせるがよい,It is good to die here,0.2222222222222222
+Hesitate",0.125,0.3125361
+After them! Don't let them get away!,追撃だ やれる時にやるぞ！,I will do it when I can see!,0.14285714285714285,0.249744
+Way to call it.,ここで死なせるがよい,It is good to die here,0.2222222222222222,0.22943884
 I think the other pilot is also female.,"多分 もう１機のパイロットも
 女子だと思います","There are many more pilots
-I think she is a girl",0.17647058823529413
+I think she is a girl",0.17647058823529413,0.76406157
 "We can't follow them
 if they enter that beam!","あのクソビームに入られたら
 追撃はできねえぞ","If you get into that fucking beam
-I can not chase",0.15789473684210525
+I can not chase",0.15789473684210525,0.6956305
 "You'll be captured
 if you go in there alone!","お前１人で乗り込んでも
 フクロにされるのがオチだ！","Even if you get in with one person
-It is Ochi to be done!",0.25
+It is Ochi to be done!",0.25,0.46385956
 "<i>This is Medusa since its swords
 <i>look like hair.","（由希奈）髪の毛みたいに
 刀がいっぱいの","I want to hairy hair
-There is a lot of swords",0.2
+There is a lot of swords",0.2,0.54259896

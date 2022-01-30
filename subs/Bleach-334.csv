@@ -1,113 +1,113 @@
-en_text,jp_text,google_translated,score
-Why is my gigai here?!,時はきた！　これで終わりだ！,Sometimes it came! This is the end!,0.15384615384615385
-Y-Yeah!,望実！！,Okay!!,0.3333333333333333
-Could it be…,やめろ！　無理だ！,Stop!  It impossible!,0.16666666666666666
-No way!,逃げろ　望実！,Running!,0.25
-Shut up!,うお～っ！,Uo!,0.25
-It's a trick! It's got to be!,そこをのけい！　フン！,There is a problem!Hun!,0.16666666666666666
-She's…definitely not normal.,望実…。,Omility ....,0.16666666666666666
-Disappear--?!,の　望実！,Your wish!,0.16666666666666666
-It means that they'll vanish and\Nyou'll never meet them again…,無視かよ…。,Ignore ....,0.0
+en_text,jp_text,google_translated,score,semantic_score
+Why is my gigai here?!,時はきた！　これで終わりだ！,Sometimes it came! This is the end!,0.15384615384615385,0.19781224
+Y-Yeah!,望実！！,Okay!!,0.3333333333333333,0.38873982
+Could it be…,やめろ！　無理だ！,Stop!  It impossible!,0.16666666666666666,0.19491214
+No way!,逃げろ　望実！,Running!,0.25,0.2742175
+Shut up!,うお～っ！,Uo!,0.25,0.3028591
+It's a trick! It's got to be!,そこをのけい！　フン！,There is a problem!Hun!,0.16666666666666666,0.40545738
+She's…definitely not normal.,望実…。,Omility ....,0.16666666666666666,-0.01547693
+Disappear--?!,の　望実！,Your wish!,0.16666666666666666,0.21918464
+It means that they'll vanish and\Nyou'll never meet them again…,無視かよ…。,Ignore ....,0.0,0.15462032
 Let me know when\Nyou've decided!,"チッ　少しは素直になれよ！
 じじい！","Let's be honest!
-Great!",0.18181818181818182
+Great!",0.18181818181818185,0.24780855
 But this is a much larger\Nnumber of people!,"それに　モッド・ソウルといえども
 ただの小娘じゃ。","Besides Mod Seoul
-She is just a little girl.",0.11764705882352941
-Do you remember what happened,おい　じじい！　大丈夫か！,Otoi! Are you okay!,0.1111111111111111
-I can't!,あぁ！,Ahh!,0.2
+She is just a little girl.",0.1176470588235294,0.14688668
+Do you remember what happened,おい　じじい！　大丈夫か！,Otoi! Are you okay!,0.1111111111111111,0.15287466
+I can't!,あぁ！,Ahh!,0.2,0.319999
 It's a world beyond\Nour comprehension.,"（一護）影狼佐は？
 一護…　あそこだ。","Yoshihiso Sa?
-Self-protection ... it's over.",0.23076923076923078
-Who is it?!,望実　無事だな…　よかった…。,It is good so good ... it was good ....,0.2
-You look as if\Nyou were out all night.,フッ。,Hu.,0.1
+Self-protection ... it's over.",0.2307692307692308,0.13744676
+Who is it?!,望実　無事だな…　よかった…。,It is good so good ... it was good ....,0.2,0.17881083
+You look as if\Nyou were out all night.,フッ。,Hu.,0.1,0.1832627
 Don't you have school?,"なぜ　お前は　私の行く手を
 阻もうとするのです？","Why do you go to me
-Are you going to be inhibited?",0.21428571428571427
-What was that for?\NWhat did I do?!,なんだと！？,what!?,0.3
-"Orihime, let's go too!",そんなことは　させはしねえ！,Let's do such things!,0.3
-We have to find the impostor\Namong us in order to save everyone.,いわば　望実の親。,"So to speak, the desirable parent.",0.17647058823529413
-It'll be difficult to move if\Npeople are suspicious of us.,ならば　望実だって嬉しいはず。,Then it should be nice because it is good luck.,0.15789473684210525
+Are you going to be inhibited?",0.21428571428571427,0.21631709
+What was that for?\NWhat did I do?!,なんだと！？,what!?,0.3,0.2746256
+"Orihime, let's go too!",そんなことは　させはしねえ！,Let's do such things!,0.3,0.40913728
+We have to find the impostor\Namong us in order to save everyone.,いわば　望実の親。,"So to speak, the desirable parent.",0.17647058823529413,0.12681878
+It'll be difficult to move if\Npeople are suspicious of us.,ならば　望実だって嬉しいはず。,Then it should be nice because it is good luck.,0.15789473684210525,0.13206202
 I'm concerned about why your body\Nwas left on the school grounds.,"ま…　まるで　望実のことを
 理解しているようなことを言う。","Ma ... Maru and the best thing
-I say something like understanding.",0.13043478260869565
-"This question points to the fact\Nthat two contradicting factors,",誰より　この私だ。,Anyone this me.,0.07692307692307693
-Is it Ishida?,どういうことだ！？,What does it mean!?,0.25
-Inoue?,はぁ～っ！？,Ha!?,0.25
-Don't be so uptight.,わけ　わかんねえよな～？　おい。,Don't you know? Oi.,0.3
-Damn!,ハハハハハ！,Hahahahaha!,0.3333333333333333
+I say something like understanding.",0.13043478260869565,0.02694872
+"This question points to the fact\Nthat two contradicting factors,",誰より　この私だ。,Anyone this me.,0.07692307692307693,-0.047892667
+Is it Ishida?,どういうことだ！？,What does it mean!?,0.25,0.0658748
+Inoue?,はぁ～っ！？,Ha!?,0.25,0.20835243
+Don't be so uptight.,わけ　わかんねえよな～？　おい。,Don't you know? Oi.,0.3,0.2601628
+Damn!,ハハハハハ！,Hahahahaha!,0.3333333333333333,0.3140791
 Is he acting a bit…strange?,"捕らえられたら
 私たちは　１つになると…。","If you can get caught
-When he is one ....",0.13333333333333333
-I'll rip it off you!,突き放そうとしてきた。,I was trying to hit it.,0.16666666666666666
-Stop!,うるさい！　スケベ！,noisy!Skebe!,0.25
-"That's not it!\NHis gigai, his gigai!",触るな！　スケベ！,Do not touch!Skebe!,0.16666666666666666
-I thought I would be able to tell,安心しろ　望実。,Safe to be relieved.,0.2
+When he is one ....",0.13333333333333333,0.09669641
+I'll rip it off you!,突き放そうとしてきた。,I was trying to hit it.,0.16666666666666666,0.16551434
+Stop!,うるさい！　スケベ！,noisy!Skebe!,0.25,0.34140843
+"That's not it!\NHis gigai, his gigai!",触るな！　スケベ！,Do not touch!Skebe!,0.16666666666666666,0.2100015
+I thought I would be able to tell,安心しろ　望実。,Safe to be relieved.,0.2,0.1857062
 if it was actually him if\Nhe could take off his gigai!,"お前　それが
 本当に望みなのかよ！","You
-I wonder if it is really good!",0.16666666666666666
-We still don't know how powerful\Nhis copying ability is.,俺たちが　必ずお前を護る。,We always protect you.,0.14285714285714285
-but abilities as well.,こんなのと一緒にすんな。,Such as such.,0.3333333333333333
-Now then…\NMaybe I'll push them a little more.,私は　お荷物だ。,I am a luggage.,0.25
+I wonder if it is really good!",0.16666666666666666,0.08396707
+We still don't know how powerful\Nhis copying ability is.,俺たちが　必ずお前を護る。,We always protect you.,0.14285714285714285,0.14301722
+but abilities as well.,こんなのと一緒にすんな。,Such as such.,0.3333333333333333,0.350099
+Now then…\NMaybe I'll push them a little more.,私は　お荷物だ。,I am a luggage.,0.25,0.05361569
 Aw man!,"だからこそ
 何も言えなかったのだよ！","Because
-I couldn't say anything!",0.1111111111111111
+I couldn't say anything!",0.1111111111111111,0.3007249
 They've got to make\Nmore girls' bathrooms!,"この　うらなり野郎！
 知ったふうな口を利くんじゃねえ。","This Uranari Bast!
-You're not good enough to know.",0.10526315789473684
-Is someone…there?,その答えは望実に聞け。,The answer is desirable.,0.14285714285714285
-Yes! Understood!,うお～っ！！,Uo!!,0.25
-I asked Ukitaki to close\Nthe Senkaimon.,一護…。,Ichigo….,0.125
-"Sorry, but could you come here\Nbefore they close the gate?",その体で戦うつもりか？,Are you going to fight with that body?,0.10526315789473684
-It's urgent!,今のお前では　無駄だ！,It is useless in you now!,0.2222222222222222
-Be quiet!,やぁ～っ！,Ya!,0.25
-What? What do you mean?,あるべき姿へ。,To what to do.,0.2857142857142857
-I don't know either.,嫌だ…　行きたくない。,I don't want to go.,0.4444444444444444
-No!,（コン）てめえ…　食らえ！,Temple ... Eat!,0.2
+You're not good enough to know.",0.10526315789473684,0.15232052
+Is someone…there?,その答えは望実に聞け。,The answer is desirable.,0.14285714285714285,0.2556436
+Yes! Understood!,うお～っ！！,Uo!!,0.25,0.30128145
+I asked Ukitaki to close\Nthe Senkaimon.,一護…。,Ichigo….,0.125,0.41915053
+"Sorry, but could you come here\Nbefore they close the gate?",その体で戦うつもりか？,Are you going to fight with that body?,0.10526315789473684,0.14621863
+It's urgent!,今のお前では　無駄だ！,It is useless in you now!,0.2222222222222222,0.31508332
+Be quiet!,やぁ～っ！,Ya!,0.25,0.2965445
+What? What do you mean?,あるべき姿へ。,To what to do.,0.2857142857142857,0.20837146
+I don't know either.,嫌だ…　行きたくない。,I don't want to go.,0.4444444444444444,0.17970373
+No!,（コン）てめえ…　食らえ！,Temple ... Eat!,0.2,0.22209454
 I can't take it anymore!,"来い！
 嫌だ！","come!
-I hate it!",0.3333333333333333
+I hate it!",0.3333333333333333,0.40396917
 Why did this happen?!,"（コン）望実！
 なにっ！？","Yo!
-What!?",0.25
-Tatsuki… Give Tatsuki back!,ええい！,Yes!,0.16666666666666666
-Tatsuki is all right! Leave it to me!,何やってんだ　走れ！,Something is running!,0.18181818181818182
-See you later.,うわっ…。,Wow….,0.2
-Damn…!,ぐわっ！,Hey!,0.3333333333333333
-"I'll answer it!\NI just have to answer, right?!",悪いが…　その余裕はない！,Bad ... I can not afford it!,0.17647058823529413
-Huh?! Yoruichi?!,なに！？,what!?,0.4
-Yoruichi and Urahara have\Ngone off somewhere.,ハァ　ハァ　ハァ…。,Ha ha ha ....,0.1111111111111111
-I can't get any information…,怖かったよ～！,I was scared!,0.1111111111111111
-"Put simply, intuition.",こんなときでも　隙がねえ…。,"Even in such a case, there is no gap ....",0.13333333333333333
+What!?",0.25,0.2061891
+Tatsuki… Give Tatsuki back!,ええい！,Yes!,0.16666666666666666,0.2030857
+Tatsuki is all right! Leave it to me!,何やってんだ　走れ！,Something is running!,0.18181818181818185,0.089052394
+See you later.,うわっ…。,Wow….,0.2,0.20348293
+Damn…!,ぐわっ！,Hey!,0.3333333333333333,0.2815094
+"I'll answer it!\NI just have to answer, right?!",悪いが…　その余裕はない！,Bad ... I can not afford it!,0.17647058823529413,0.19541234
+Huh?! Yoruichi?!,なに！？,what!?,0.4,0.23838007
+Yoruichi and Urahara have\Ngone off somewhere.,ハァ　ハァ　ハァ…。,Ha ha ha ....,0.1111111111111111,0.14732102
+I can't get any information…,怖かったよ～！,I was scared!,0.1111111111111111,0.22875242
+"Put simply, intuition.",こんなときでも　隙がねえ…。,"Even in such a case, there is no gap ....",0.13333333333333333,0.20916753
 Intuition?,"どうした？
 お前は…。","What happened? 
- You are….",0.14285714285714285
+ You are….",0.14285714285714285,0.03450757
 "You, Ishida!","おめえを置いて
 行けるわけねえだろ！","Put a message
-You can not go!",0.2
-Him!,ほら　早く！　立てってば！,Hey quickly!Standing!,0.2
-That's the way it always is!,駄目だ！　一緒に行くんだ！,It is useless!I'm going together!,0.23076923076923078
+You can not go!",0.2,0.23692992
+Him!,ほら　早く！　立てってば！,Hey quickly!Standing!,0.2,0.3152303
+That's the way it always is!,駄目だ！　一緒に行くんだ！,It is useless!I'm going together!,0.2307692307692308,0.19191977
 N-No… If that's the case…,"ならば
 今度は私が言う番だ…。","If
-This time I say ....",0.08333333333333333
-Damn it!,いや　駄目だ　そんなの！,It's not good!,0.3333333333333333
-What's going on?!,えっ　なんで？,What is it?,0.25
-How could you?!,おい　望実　なんでなんだよ！？,Thank you very much!?,0.375
-I can't change the game's rules.,望実　捕まえた。,I caught it.,0.18181818181818182
-"Well, you have a one in five\Nchance to get it correct.",頼む　一発だけでいい。,It is good only to ask.,0.17647058823529413
-You've got no choice\Nbut to leave it to luck!,ない！,No!,0.2
-Why are they in a rush?,そんな…　どうして？,Such ... why?,0.2222222222222222
+This time I say ....",0.08333333333333333,0.20970133
+Damn it!,いや　駄目だ　そんなの！,It's not good!,0.3333333333333333,0.30536312
+What's going on?!,えっ　なんで？,What is it?,0.25,0.24208044
+How could you?!,おい　望実　なんでなんだよ！？,Thank you very much!?,0.375,0.08821195
+I can't change the game's rules.,望実　捕まえた。,I caught it.,0.18181818181818185,0.14732158
+"Well, you have a one in five\Nchance to get it correct.",頼む　一発だけでいい。,It is good only to ask.,0.17647058823529413,0.18534364
+You've got no choice\Nbut to leave it to luck!,ない！,No!,0.2,0.21582186
+Why are they in a rush?,そんな…　どうして？,Such ... why?,0.2222222222222222,0.20333242
 You're the impostor!,"なに！？
 お前が倒した私は→","what!?
-I defeated you →",0.2
-Very good.,さようなら。,good bye.,0.5
+I defeated you →",0.2,0.2826984
+Very good.,さようなら。,good bye.,0.5,0.3506902
 And head toward\Nthe direction of my goal.,"死神図鑑。
 （テッサイ）店長！","Doggami picture book.
- manager manager!",0.07692307692307693
-"I told you, it's cat food.",そりゃ大変だ！　そちらを先に…。,"Well, it's hard!First ....",0.2857142857142857
+ manager manager!",0.07692307692307693,0.21503918
+"I told you, it's cat food.",そりゃ大変だ！　そちらを先に…。,"Well, it's hard!First ....",0.2857142857142857,0.1417836
 The Golden Illustrated Guide\Nto Soul Reapers after these messages!,"更木　斑目殿の霊圧で
 空間に亀裂が！","At the repass of the Temporary Temple
-Crack in space!",0.1111111111111111
+Crack in space!",0.1111111111111111,0.31248698
 – Illustrated Guide to Soul Reapers\N– Golden!,"空間に大穴が！
 ぐわ～！","Hold to space!
-!",0.2
+!",0.2,0.17212927

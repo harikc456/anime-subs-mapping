@@ -1,322 +1,322 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 This case is becoming complicated!,"{\an8}（記者）まったく
-えらい事件に⸺",In the case of,0.1111111111111111
-"So, anything new?",（記者）それで 新しい情報は？,What is new information?,0.25
-The police say they'll hold a press conference at 3.,（記者）はい 警察は一応⸺,Yes Police is for a while,0.125
-I'm heading to the Prague police station right now.,（記者）俺が直接 プラハ署に行く,I go directly to Prague Station,0.3076923076923077
+えらい事件に⸺",In the case of,0.1111111111111111,0.37444854
+"So, anything new?",（記者）それで 新しい情報は？,What is new information?,0.25,0.51491016
+The police say they'll hold a press conference at 3.,（記者）はい 警察は一応⸺,Yes Police is for a while,0.125,0.42410362
+I'm heading to the Prague police station right now.,（記者）俺が直接 プラハ署に行く,I go directly to Prague Station,0.3076923076923077,0.7118948
 "Thanks to you, I found the article I was looking for.","おかげで 探していた記事が
 見つかりました","The article you were looking for
-Found",0.46153846153846156
-"Ok, that's good.",ああ そりゃよかったな,Oh yeah it was good,0.1
+Found",0.4615384615384616,0.8087775
+"Ok, that's good.",ああ そりゃよかったな,Oh yeah it was good,0.1,0.3303617
 Umm... please wait a minute!,"（テンマ）
-あっ ちょっと待ってください",Please wait for a while,0.3333333333333333
-I'm kind of busy right now.,俺は今 忙しいんだよ,I'm busy now,0.5
+あっ ちょっと待ってください",Please wait for a while,0.3333333333333333,0.5207099
+I'm kind of busy right now.,俺は今 忙しいんだよ,I'm busy now,0.5,0.7456789
 About the Mr. X in this article...,"あの この記事の
 Ｘ氏なんですけど…","That article
-Mr. X ...",0.4444444444444444
-Mr. X?,Ｘ氏？,Mr. X?,1.0
-This article from three years ago...,はい この３年前の⸺,Yes this three years ago,0.5
+Mr. X ...",0.4444444444444444,0.8498594
+Mr. X?,Ｘ氏？,Mr. X?,1.0,0.99999976
+This article from three years ago...,はい この３年前の⸺,Yes this three years ago,0.5,0.5755844
 "After the Wall came down... the German right\Nwing's influence suddenly increased, and...","壁崩壊後 急激に勢力を伸ばした
 ドイツ右翼と","Suddenly stretched the power after the destruction of the wall
-With Germany right wing",0.18181818181818182
-I wrote that article.,それ 俺が書いたんだ,That I wrote,0.6
-Really?,ホントですか？,is that true?,0.2
-Would it be possible to meet this member\Nof the former secret police...,元チェコスロバキア秘密警察が,Former Czechoslovakia Secret Police,0.21428571428571427
+With Germany right wing",0.18181818181818185,0.7040812
+I wrote that article.,それ 俺が書いたんだ,That I wrote,0.6,0.6342927
+Really?,ホントですか？,is that true?,0.2,0.46117556
+Would it be possible to meet this member\Nof the former secret police...,元チェコスロバキア秘密警察が,Former Czechoslovakia Secret Police,0.21428571428571427,0.44713706
 "Mr. X, who was interviewed in this article?","この記事で
 インタビューに答えている⸺","In this article
-Answering an interview",0.23076923076923078
+Answering an interview",0.2307692307692308,0.5461401
 You said you're a special correspondent from Japan?,"あんた 日本から来た
 特派員って言ってたな","I came from Aunto Japan
-I said that the correspondent",0.2857142857142857
+I said that the correspondent",0.2857142857142857,0.7527681
 What are you trying to learn by meeting Mr. X?,"何 調べようとしてるんだ？
 そのＸ氏に会って","What are you going to check?
-Meet Mr. X",0.5
-Umm... well...,い… いや それは…,"Yes ... No, it ...",0.14285714285714285
+Meet Mr. X",0.5,0.6351359
+Umm... well...,い… いや それは…,"Yes ... No, it ...",0.14285714285714285,0.3641404
 I was thinking of investigating... the circumstances\Nsurrounding the abductions and confinements...,"拉致 監禁等の実態を
 調べようと思いまして","The actual condition of abduction and confinement
-I think I'm going to check",0.2
+I think I'm going to check",0.2,0.74560004
 that happened in this country during the Cold War.,"彼らが この国で
 冷戦時代に行っていた⸺","They are in this country
-I went to the cold war era",0.375
-"They're scary people, you know?",おかげで 世間は大騒ぎだ,"Thanks to you, the world is a fuss",0.13333333333333333
-"Even now, they're still scary.",今だって おっかねえ,It is now,0.1
+I went to the cold war era",0.375,0.5481369
+"They're scary people, you know?",おかげで 世間は大騒ぎだ,"Thanks to you, the world is a fuss",0.13333333333333333,0.15568066
+"Even now, they're still scary.",今だって おっかねえ,It is now,0.1,0.15659072
 Don't you know about Detective Suk's case?,"何だ スーク刑事の事件
 知らねえのか","What is the case of the Saku Detective
-Do not know",0.25
-You said you can't speak Czech...,チェコ語はダメだって言ってたが,Czech said that it was no good,0.16666666666666666
+Do not know",0.25,0.68611276
+You said you can't speak Czech...,チェコ語はダメだって言ってたが,Czech said that it was no good,0.16666666666666666,0.6470599
 but if you're investigating the\Nremnants of the secret police...,"秘密警察の残党のことを
 調べてるんなら","The remnant of the secret police
-If you look at it",0.4
+If you look at it",0.4,0.6461403
 "You can read German, right?","ほら うちの新聞だ
 ドイツ語は読めるんだろ？","It's a newspaper
-You can read German?",0.45454545454545453
-"Suk, a young detective from the Prague police...",プラハ署のスークって若い刑事が,Young detective for Prague stations,0.25
+You can read German?",0.4545454545454545,0.71126187
+"Suk, a young detective from the Prague police...",プラハ署のスークって若い刑事が,Young detective for Prague stations,0.25,0.75425243
 shot and killed two detectives of a special investigative\Nteam dispatched from police headquarters...,"本庁から派遣された特別捜査班の
 刑事２名を射殺して逃げた","Of the special investigation group dispatched from the main office
-I flew away by shooting over 2 criminals",0.14814814814814814
-the former secret police and the current Czech police.,旧秘密警察と現チェコ警察の⸺,Old secret police and current Czech police ⸺,0.5
+I flew away by shooting over 2 criminals",0.14814814814814814,0.66061753
+the former secret police and the current Czech police.,旧秘密警察と現チェコ警察の⸺,Old secret police and current Czech police ⸺,0.5,0.93623626
 "The three of them were conveniently poisoned,\Nand Suk distinguished himself in the matter.","都合よく署長ら３名は
 何者かに毒殺され","Each of the chiefs and three people
-Someone to be poisoned",0.18181818181818182
+Someone to be poisoned",0.18181818181818185,0.5595476
 "However, the special investigative team was marking Suk.","ところが 特別捜査班は
 スークをマークしていた","However, the special investigation team
-I was marking Souk",0.5384615384615384
+I was marking Souk",0.5384615384615384,0.6685906
 Detective Suk killed the two policemen\Nwho were marking him.,"そのマークしていた刑事２名を
 殺してしまった","Two criminals who were marking that
-I killed",0.2857142857142857
-The promising elite detective...,前途有望なエリート刑事,Premonable elite detective,0.3333333333333333
-What are you muttering about?,何 ぶつぶつ言ってんだ？,What are you saying?,0.5714285714285714
-He killed three of his superiors with poison.,（テンマ）上司３名毒殺,3 people of poison,0.18181818181818182
-A muscle relaxant...,筋肉弛緩(しかん)剤…,Muscle relaxation  ...,0.4
-Johan!,ヨハン,Johan,0.5
+I killed",0.2857142857142857,0.5503684
+The promising elite detective...,前途有望なエリート刑事,Premonable elite detective,0.3333333333333333,0.87231606
+What are you muttering about?,何 ぶつぶつ言ってんだ？,What are you saying?,0.5714285714285714,0.34263274
+He killed three of his superiors with poison.,（テンマ）上司３名毒殺,3 people of poison,0.18181818181818185,0.5805798
+A muscle relaxant...,筋肉弛緩(しかん)剤…,Muscle relaxation  ...,0.4,0.6482824
+Johan!,ヨハン,Johan,0.5,0.8950148
 Is Jan Suk's mother here?,"ヤン･スークさんの
 お母さんは こちらに？","Yan Souk's
-Mom is here?",0.3
-Are you with the police?,（看護師）警察の方？,Police?,0.3333333333333333
-No.,いえ…,home…,0.0
-She's in room 409.,（看護師）409号室です,It is a room 409,0.2222222222222222
-Thank you.,どうも,Thanks,0.0
-Umm...,（看護師）あの…,That ...,0.3333333333333333
-I think you're wasting your time.,会っても無駄だと思いますけど,I think it is useless to meet,0.15384615384615385
-Jan?,（スークの母）ヤン？,Yan?,0.3333333333333333
-"Jan, you came.",ヤン 来てくれたのね,Yan came,0.16666666666666666
-No... I'm...,いえ 私は…,"No, I ...",0.6
-"Come closer and let me see your face, Jan.",もっと近くに来て顔を見せて ヤン,Come close to the face and show your face Yan,0.25
-Jan...,（スークの母）ああ ヤン…,ah Yan ...,0.25
+Mom is here?",0.3,0.5695895
+Are you with the police?,（看護師）警察の方？,Police?,0.3333333333333333,0.6498553
+No.,いえ…,home…,0.0,0.21384461
+She's in room 409.,（看護師）409号室です,It is a room 409,0.2222222222222222,0.76910245
+Thank you.,どうも,Thanks,0.0,0.601237
+Umm...,（看護師）あの…,That ...,0.3333333333333333,0.46092612
+I think you're wasting your time.,会っても無駄だと思いますけど,I think it is useless to meet,0.15384615384615385,0.3390194
+Jan?,（スークの母）ヤン？,Yan?,0.3333333333333333,0.36439535
+"Jan, you came.",ヤン 来てくれたのね,Yan came,0.16666666666666666,0.4245706
+No... I'm...,いえ 私は…,"No, I ...",0.6,0.5979386
+"Come closer and let me see your face, Jan.",もっと近くに来て顔を見せて ヤン,Come close to the face and show your face Yan,0.25,0.50762457
+Jan...,（スークの母）ああ ヤン…,ah Yan ...,0.25,0.3234405
 Did your son call or write you?,"息子さんから電話か手紙
 ありませんでしたか？","Phone or letter from my son
-Was it not?",0.2
+Was it not?",0.2,0.6667211
 "Listen. My neighbor, katherina, hasn't\Ngiven me back my stuffed animal.","聞いて お隣のカテリーナが
 私のぬいぐるみ 返してくれないの","Listen to the caterina next to you
-I can not return my stuffed toy",0.14285714285714285
+I can not return my stuffed toy",0.14285714285714285,0.6367837
 Maria gave me that precious stuffed animal.,"マーリおばさんにもらった
 大事なぬいぐるみなのに","I got Marri's Aunt
-An important stuffed toy",0.0625
-Your son...,あなたの息子さんは…,Your son is ...,0.75
-Your son is innocent.,あなたの息子さんは 無実ですよ,Your son is innocent,0.8
-"Well, I'll be leaving now.",じゃあ 僕はこれで,Well then I am this,0.18181818181818182
-You...,（スークの母）あなた,You,0.5
+An important stuffed toy",0.0625,0.6501466
+Your son...,あなたの息子さんは…,Your son is ...,0.75,0.78542304
+Your son is innocent.,あなたの息子さんは 無実ですよ,Your son is innocent,0.8,0.9865053
+"Well, I'll be leaving now.",じゃあ 僕はこれで,Well then I am this,0.18181818181818185,0.2578268
+You...,（スークの母）あなた,You,0.5,0.68786657
 Were you playing there again?,"ヤン あなた また
 あそこで遊んでたの？","Yang or again
-Did you play there?",0.4
-Where would that be?,どこでしたっけ？,Where was it?,0.2857142857142857
-"You may think it's your secret place, but I know.",私は知ってるんだから,I know because I know,0.14285714285714285
-The deserted building on Brno Street.,ブルノ通りの廃屋,Brno street abandoned house,0.2222222222222222
-So you knew.,そう ばれてたわ,It was so far,0.14285714285714285
-See you.,（テンマ）それじゃ,Well then,0.0
+Did you play there?",0.4,0.6056144
+Where would that be?,どこでしたっけ？,Where was it?,0.2857142857142857,0.52931386
+"You may think it's your secret place, but I know.",私は知ってるんだから,I know because I know,0.14285714285714285,0.3145036
+The deserted building on Brno Street.,ブルノ通りの廃屋,Brno street abandoned house,0.2222222222222222,0.769813
+So you knew.,そう ばれてたわ,It was so far,0.14285714285714285,0.35972527
+See you.,（テンマ）それじゃ,Well then,0.0,0.2598225
 "Be back in time for dinner, okay?","（スークの母）ケガしないようにね
 夕ごはんには戻るのよ","Don't get injured
-I'm going back to the dinner",0.1111111111111111
-there was a monster without a name.,なまえのない かいぶつがいました,There was no name tight,0.3333333333333333
+I'm going back to the dinner",0.1111111111111111,0.57252544
+there was a monster without a name.,なまえのない かいぶつがいました,There was no name tight,0.3333333333333333,0.453823
 I brought you some food and a newspaper.,"（グリマー）飯買ってきた
 それに新聞もな","I bought a meal
-And the newspaper",0.3333333333333333
+And the newspaper",0.3333333333333333,0.7888832
 You became a star overnight.,"しかし こうして一連の記事を
 まとめて読んでみると","But in this way a series of articles
-If you read it together",0.11764705882352941
+If you read it together",0.1176470588235294,0.12369665
 Do you think anybody noticed\Nthat I sent my mom the tape...,"母に送った
 貸金庫のカセットテープと研究論文","I sent to my mother
-Resource cassette tape and research paper",0.21052631578947367
+Resource cassette tape and research paper",0.21052631578947367,0.45570612
 It should be safer with her than with us.,"まあ 我々が持っているよりは
 安全だろう","Well, rather than we have
-It will be safe",0.1875
+It will be safe",0.1875,0.5434644
 But the events of your case are\Nvery similar to the other case...,"あんたの事件と あの事件
 つくづく似てるな","Annual incident and that case
-Similar to",0.2
+Similar to",0.2,0.5299675
 "Ten years ago, in Düsseldorf, Germany...","ドイツのデュッセルドルフで
 10年前にあったんだ","Düsseldorf in Germany
-10 years ago",0.5555555555555556
+10 years ago",0.5555555555555556,0.8882171
 a hospital's director and two other doctors\Nall died from poisoned candy.,"ある病院の院長と医師２名が
 毒入りキャンディーで殺され","The director of a hospital and 2 doctors
-Poisoned Candy killed",0.3333333333333333
-The suspect was a promising young surgeon.,犯人は 将来有望な若き外科医,The criminal is a promising young surgeon in the future,0.4166666666666667
-What happened to that guy?,その男は？,What is that man?,0.375
-At least you have me for a witness.,私という目撃者がいる,There is a witness of me,0.25
+Poisoned Candy killed",0.3333333333333333,0.91497946
+The suspect was a promising young surgeon.,犯人は 将来有望な若き外科医,The criminal is a promising young surgeon in the future,0.4166666666666667,0.76677376
+What happened to that guy?,その男は？,What is that man?,0.375,0.54196614
+At least you have me for a witness.,私という目撃者がいる,There is a witness of me,0.25,0.7815093
 "On the stairs up to my flat, you saw...","あなたが 僕のフラットの階段で
 すれ違った…","You are the stairs of my flat
-Passing ...",0.42857142857142855
-"If that girl's the real murderer, we have to find her!",見つけられなきゃ それまでだ！,"If you have to find it, it's so far!",0.3888888888888889
+Passing ...",0.42857142857142855,0.7493843
+"If that girl's the real murderer, we have to find her!",見つけられなきゃ それまでだ！,"If you have to find it, it's so far!",0.3888888888888889,0.23968215
 Why did this have to happen to me?!,"なぜ 僕ばっかり
 こんな目に遭うんだ！","Why me
-I'm encouraging this!",0.3333333333333333
-What have I done?!,僕が何をしたっていうんだ！,What I did!,0.42857142857142855
+I'm encouraging this!",0.3333333333333333,0.3249905
+What have I done?!,僕が何をしたっていうんだ！,What I did!,0.42857142857142855,0.580603
 Calm down!,"（グリマー）落ち着け！
 （スーク）うう…","calm!
- Uu ...",0.4
-Didn't I tell you to have faith in yourself?,自分を信じろって言ったろ,I told you to believe in myself,0.2857142857142857
+ Uu ...",0.4,0.6268254
+Didn't I tell you to have faith in yourself?,自分を信じろって言ったろ,I told you to believe in myself,0.2857142857142857,0.6624545
 "Okay, let's eat.","よ～し いい子だ
 さあ 食おう","Yo ~ I'm a good girl
-Let's eat",0.23076923076923078
-In this room...,（スーク）この部屋…,This room ...,0.75
-That's the inspector's desk.,あれが警部補の机,A police officer desk,0.1111111111111111
+Let's eat",0.2307692307692308,0.52948564
+In this room...,（スーク）この部屋…,This room ...,0.75,0.8399881
+That's the inspector's desk.,あれが警部補の机,A police officer desk,0.1111111111111111,0.5779881
 I'm surprised it's still here.,"そのまま残っているなんて
 驚きましたよ","It is left as it is
-I was surprised",0.25
+I was surprised",0.25,0.56909114
 I'd sit here and give orders...,"ここで僕が
 みんなに指示を出すんです","Here I
-Everyone issues an instruction",0.16666666666666666
-just like on the TV drama I watched.,テレビドラマみたいに,Television drama like,0.2
+Everyone issues an instruction",0.16666666666666666,0.28682438
+just like on the TV drama I watched.,テレビドラマみたいに,Television drama like,0.2,0.677315
 it's going to be a tough case this time.,"諸君 今回も難事件だが
 全力を挙げて捜査に当たってほしい","Thank you very much for this time
-I want you to hit the investigation with all my strength",0.12
-We must not let evil prevail.,悪を はびこらせてはいけない,Don't let evil,0.2222222222222222
-In the name of justice.,正義の名において,In the name of justice,0.8333333333333334
-Suk!,スーク！,Souk!,0.3333333333333333
-We're surrounded!,{\an8}囲まれてる,surrounded,0.25
-"It's dangerous by the window, so\Nlet's get you behind the desk.",窓の外は危ない この机の陰に,Outside the window is dangerous to the shade of this desk,0.21052631578947367
-I'm a goner...,（スーク）うっ うう…,Ue ...,0.16666666666666666
+I want you to hit the investigation with all my strength",0.12,0.2888928
+We must not let evil prevail.,悪を はびこらせてはいけない,Don't let evil,0.2222222222222222,0.71729255
+In the name of justice.,正義の名において,In the name of justice,0.8333333333333334,0.96989137
+Suk!,スーク！,Souk!,0.3333333333333333,0.488406
+We're surrounded!,{\an8}囲まれてる,surrounded,0.25,0.7109074
+"It's dangerous by the window, so\Nlet's get you behind the desk.",窓の外は危ない この机の陰に,Outside the window is dangerous to the shade of this desk,0.21052631578947367,0.77088064
+I'm a goner...,（スーク）うっ うう…,Ue ...,0.16666666666666666,0.30231118
 Who fired that shot?,"誰が撃ったんだ？
 チェコスロバキア秘密警察か？","Who shot?
-Czechoslovakia Secret Police?",0.375
+Czechoslovakia Secret Police?",0.375,0.55173683
 Where are they shooting from?,"（グリマー）
-どこから狙ってるんだ？",Where are you aiming from?,0.5
-I'm going to borrow your gun.,（グリマー）お前の銃 借りるぞ,You will borrow your gun,0.3
-Tape!,（男性）テープ,tape,0.5
-The tape isn't here!,テープは ここにはない！,The tape is not here!,0.7142857142857143
+どこから狙ってるんだ？",Where are you aiming from?,0.5,0.5841715
+I'm going to borrow your gun.,（グリマー）お前の銃 借りるぞ,You will borrow your gun,0.3,0.84253883
+Tape!,（男性）テープ,tape,0.5,0.8821298
+The tape isn't here!,テープは ここにはない！,The tape is not here!,0.7142857142857143,0.9832529
 Mr. Grimmer!,"（スーク）
-あっ ああ… グリマーさん！",Oh Oh ... Grimer!,0.16666666666666666
+あっ ああ… グリマーさん！",Oh Oh ... Grimer!,0.16666666666666666,0.4323761
 I'm here!,"（グリマー）
-ここだ ここにいるよ スーク",I'm here here Souk,0.6
-I'm coming to help you now.,今 助けてやる,I will help you,0.3333333333333333
-It's okay...,もう おしまいだよ,It's already done,0.3333333333333333
-I'm done for...,うっ 痛い 痛いよ…,I hurt my pain ...,0.25
-Be quiet!,静かにしろ,be quiet,0.6666666666666666
-Mr. Grimmer...,グリマーさん,Grimmer,0.3333333333333333
-Don't talk!,しゃべるな,do not talk,0.4
+ここだ ここにいるよ スーク",I'm here here Souk,0.6,0.55677956
+I'm coming to help you now.,今 助けてやる,I will help you,0.3333333333333333,0.63067514
+It's okay...,もう おしまいだよ,It's already done,0.3333333333333333,0.1810931
+I'm done for...,うっ 痛い 痛いよ…,I hurt my pain ...,0.25,0.391832
+Be quiet!,静かにしろ,be quiet,0.6666666666666666,0.8653873
+Mr. Grimmer...,グリマーさん,Grimmer,0.3333333333333333,0.83667576
+Don't talk!,しゃべるな,do not talk,0.4,0.75370246
 You should save yourself...,"あ… あなただけでも
 あなただけでも 逃げて","Oh ... too
-Run away by you alone",0.18181818181818182
-Don't be stupid!,バカ言うな,Don't speak stupid,0.5
-From upstairs?,上から…,From above…,0.25
-Czech...,チェコ語か,Czech Republic,0.3333333333333333
-What are they saying?,何を言ってるんだ,What are you saying,0.5
-Right!,ふっ！,Fuck!,0.3333333333333333
-I'm getting hungry.,うわあっ うっ… ああ…,I'm sorry ... ah ...,0.25
-I don't wanna die...,死にたく… ないよ,I want to die ...,0.3333333333333333
+Run away by you alone",0.18181818181818185,0.36119854
+Don't be stupid!,バカ言うな,Don't speak stupid,0.5,0.6348311
+From upstairs?,上から…,From above…,0.25,0.42452565
+Czech...,チェコ語か,Czech Republic,0.3333333333333333,0.7968633
+What are they saying?,何を言ってるんだ,What are you saying,0.5,0.4581069
+Right!,ふっ！,Fuck!,0.3333333333333333,0.48676214
+I'm getting hungry.,うわあっ うっ… ああ…,I'm sorry ... ah ...,0.25,0.17412055
+I don't wanna die...,死にたく… ないよ,I want to die ...,0.3333333333333333,0.8403944
 Can you speak German?,"（テンマ）
-ドイツ語 しゃべれるか？",Do you talk about German?,0.375
-Only a little...,（男性）少しだけ,only a little,0.75
-What are you doing here?,（テンマ）ここで何をやっている？,What are you doing here?,1.0
-I-It's already over.,（男性）ああ… もう終わったよ,Oh ... it's over,0.25
-Everyone's already entered the building...,全員 あの建物に突入した,Everyone rushed into that building,0.2
+ドイツ語 しゃべれるか？",Do you talk about German?,0.375,0.7956153
+Only a little...,（男性）少しだけ,only a little,0.75,0.90472406
+What are you doing here?,（テンマ）ここで何をやっている？,What are you doing here?,1.0,1.0000005
+I-It's already over.,（男性）ああ… もう終わったよ,Oh ... it's over,0.25,0.6853038
+Everyone's already entered the building...,全員 あの建物に突入した,Everyone rushed into that building,0.2,0.7145046
 to kill that young cop and the skinny guy.,"あの若い刑事とノッポは
 もう しとめたよ","That young detective and Noppo
-He's already",0.2
-Am I too late?!,遅かったか,Was it late?,0.25
+He's already",0.2,0.38226083
+Am I too late?!,遅かったか,Was it late?,0.25,0.43306535
 """Monster...""","（男性）んん…
-（テンマ）はっ",...,0.25
-The Magnificent Steiner...,超人シュタイナーが…,Superman Steiner ...,0.4
-has done it again.,また やっちゃった,Have you done it again,0.42857142857142855
+（テンマ）はっ",...,0.25,0.23830928
+The Magnificent Steiner...,超人シュタイナーが…,Superman Steiner ...,0.4,0.76689595
+has done it again.,また やっちゃった,Have you done it again,0.42857142857142855,0.8135802
 "Hey, Doctor, you finally made it.","やあ ドクター
 やっと来てくれたねえ","Ya doctor
-I finally came",0.18181818181818182
-Please save him.,お願いだ 助けてやってくれ,Please help me,0.16666666666666666
-He's a good boy.,あいつは いいやつだ,That guy is a good guy,0.2222222222222222
-"There are a lot of other patients, too.",他にも 患者がいっぱいいるよ,There are many other patients,0.36363636363636365
-What on earth is this?!,一体 これは…,This is ...,0.25
-The other me...,多分 俺だ,Maybe me,0.2
+I finally came",0.18181818181818185,0.7135592
+Please save him.,お願いだ 助けてやってくれ,Please help me,0.16666666666666666,0.1985834
+He's a good boy.,あいつは いいやつだ,That guy is a good guy,0.2222222222222222,0.59794617
+"There are a lot of other patients, too.",他にも 患者がいっぱいいるよ,There are many other patients,0.3636363636363637,0.9123949
+What on earth is this?!,一体 これは…,This is ...,0.25,0.37763643
+The other me...,多分 俺だ,Maybe me,0.2,0.39936957
 I came from 511 kinderheim.,"俺は 511キンダーハイムの
 出身なんだ","I am 511 Kinderheim
-I'm from",0.5
+I'm from",0.5,0.81769586
 "Hey kids, are you sitting in front of the TV?!","やあ 諸君
 テレビの前に集まったかい？","Yo-kun
-Did you gather in front of the TV?",0.4375
+Did you gather in front of the TV?",0.4375,0.35978544
 I wonder what adventure awaits us today?,"今日は どんな冒険が
 待ち受けているだろう","What adventure is today
-It will be waiting",0.23076923076923078
+It will be waiting",0.2307692307692308,0.7828906
 "When you're in trouble, just call my name!","君もピンチに陥ったら
 私の名前を呼んでくれ","If you also fall into a pinch
-Call me my name",0.2222222222222222
+Call me my name",0.2222222222222222,0.52852845
 "No matter when or where, I'll be there to save you!","いつでも どこでも
 私が助けに行く","Anytime, anywhere
-I go to help",0.16666666666666666
-I'm the Invincible Steiner!,無敵の超人 シュタイナー！,Invincible superman Steiner!,0.42857142857142855
+I go to help",0.16666666666666666,0.40195408
+I'm the Invincible Steiner!,無敵の超人 シュタイナー！,Invincible superman Steiner!,0.42857142857142855,0.8104635
 I was always glued to the TV...,"（グリマー）俺は テレビに
 かじりついて見ていた","I am on TV
-I was looking at it",0.23076923076923078
-The main character was a cowardly young man.,主人公の青年は ひ弱な男でね,The young man of the protagonist is a wisdom man,0.3076923076923077
-"Without realizing it, he had become\Nthe Magnificent Steiner...",ピンチに陥ると 彼が現れて,He appeared when it falls into a pinch,0.125
+I was looking at it",0.2307692307692308,0.35970083
+The main character was a cowardly young man.,主人公の青年は ひ弱な男でね,The young man of the protagonist is a wisdom man,0.3076923076923077,0.50393176
+"Without realizing it, he had become\Nthe Magnificent Steiner...",ピンチに陥ると 彼が現れて,He appeared when it falls into a pinch,0.125,0.28258115
 and beat up all the bad guys.,"悪者は 超人シュタイナーに
 のされてる","The bad guys are superman Steiner
-Be",0.25
+Be",0.25,0.2653798
 "is that cartoon on TV, ""The Magnificent Steiner.""","小さい頃のことで覚えてるのは
 テレビの“超人シュタイナー”","I remember that it is a small time
-TV ""superman Steiner""",0.3157894736842105
-All my other memories were completely erased...,他の記憶は全て奪われた,All other memories were taken away,0.4
+TV ""superman Steiner""",0.3157894736842105,0.7127591
+All my other memories were completely erased...,他の記憶は全て奪われた,All other memories were taken away,0.4,0.7848223
 by 511 kinderheim.,"511キンダーハイムに
 何もかもね","511 to Kinderheim
-Anything",0.3333333333333333
-What about Suk?,（グリマー）スークは？,What is Souk?,0.3333333333333333
-All the bullets passed through his body...,弾丸は全て貫通してますが,All bullets are penetrated,0.2
+Anything",0.3333333333333333,0.7150185
+What about Suk?,（グリマー）スークは？,What is Souk?,0.3333333333333333,0.22484715
+All the bullets passed through his body...,弾丸は全て貫通してますが,All bullets are penetrated,0.2,0.65676403
 but the arteries from under his armpit\Nto his upper arm are critically wounded.,"腋窩(えきか)動脈から上腕動脈にかけての
 損傷がひどい","An axillary artery to the upper arm artery
-Damaged",0.16666666666666666
+Damaged",0.16666666666666666,0.55121905
 "Anyway, I've stopped the bleeding for now.","とりあえず 十分
 手で圧迫して止血はしました","For the time being enough
-I pressed by hand and hemostasis",0.16666666666666666
-This is all I can do.,今 私にできるのは ここまでです,It is so far I can do it now,0.36363636363636365
+I pressed by hand and hemostasis",0.16666666666666666,0.39737794
+This is all I can do.,今 私にできるのは ここまでです,It is so far I can do it now,0.3636363636363637,0.41689298
 511 kinderheim does.,"私も関係があるんです
 511キンダーハイムに","I also have a relationship
-511 to Kinderheim",0.2
-"Now, let's call an ambulance!",さあ 救急車を呼びましょう,Let's call an ambulance,0.625
-There are three over here.,（救急隊員）こちら ３名収容,Click here for 3 people,0.1
-What's the status of the wounded?,（救急隊員）ケガ人の状態は？,What is the condition of the injury?,0.4
+511 to Kinderheim",0.2,0.4754336
+"Now, let's call an ambulance!",さあ 救急車を呼びましょう,Let's call an ambulance,0.625,0.89001083
+There are three over here.,（救急隊員）こちら ３名収容,Click here for 3 people,0.1,0.44942755
+What's the status of the wounded?,（救急隊員）ケガ人の状態は？,What is the condition of the injury?,0.4,0.5099935
 "They need to be looked at soon, but...","（救急隊員）もう１台必要だ
 至急 手配してくれ","I need one more
-Please arrange as soon as possible",0.11764705882352941
-But what?!,（救急隊員）ただ どうした？,What happened?,0.4
-And it was very precisely done.,しかも 適切な…,And it is appropriate ...,0.2
-Precise emergency care?,（救急隊員）適切な応急処置？,A suitable emergency treatment?,0.2857142857142857
-It's on the news.,（テンマ）ニュースでやってます,I'm doing with the news,0.2
-It's all in Czech.,チェコ語だから さっぱりですが,It is refreshing because it is Czech,0.2222222222222222
-Jakub Zima Memorial Hospital.,ヤコブ･ジーマ記念病院です,Jacob Jima Memorial Hospital,0.2857142857142857
+Please arrange as soon as possible",0.1176470588235294,0.10389998
+But what?!,（救急隊員）ただ どうした？,What happened?,0.4,0.37430477
+And it was very precisely done.,しかも 適切な…,And it is appropriate ...,0.2,0.30656207
+Precise emergency care?,（救急隊員）適切な応急処置？,A suitable emergency treatment?,0.2857142857142857,0.71065295
+It's on the news.,（テンマ）ニュースでやってます,I'm doing with the news,0.2,0.59549266
+It's all in Czech.,チェコ語だから さっぱりですが,It is refreshing because it is Czech,0.2222222222222222,0.6314378
+Jakub Zima Memorial Hospital.,ヤコブ･ジーマ記念病院です,Jacob Jima Memorial Hospital,0.2857142857142857,0.64153785
 I think the cops will probably arrest Suk...,"（グリマー）やっぱり 警察は
 スークを逮捕するんだろうなあ","After all police
-I will arrest Suke",0.23076923076923078
-But he's...,だが あいつは…,But that guy ...,0.3333333333333333
-Yeah.,ああ,Ah,0.0
-If I go and testify...,俺が行って証言してやれば…,If I go and testify ...,1.0
-"Dr. Tenma, why did you...",Dr.(ドクター)テンマ あんた 何で…,Dr.  Tenma What is your ...,0.3
+I will arrest Suke",0.2307692307692308,0.723167
+But he's...,だが あいつは…,But that guy ...,0.3333333333333333,0.6600131
+Yeah.,ああ,Ah,0.0,0.51003623
+If I go and testify...,俺が行って証言してやれば…,If I go and testify ...,1.0,0.99999976
+"Dr. Tenma, why did you...",Dr.(ドクター)テンマ あんた 何で…,Dr.  Tenma What is your ...,0.3,0.8811699
 Would you mind telling me about 511 kinderheim?,"511キンダーハイムのこと
 聞かせてくれませんか？","511 Kinderheim
-Could you tell me?",0.45454545454545453
-"The truth is, I don't really remember anything.",実は よく覚えてないんだ,I really do not remember well,0.3076923076923077
-I just can't remember...,思い出せないんだ,I can not remember,0.25
-The dark hallway...,暗い通路,Dark passage,0.2
-The cracks in the ceiling...,天井のシミ,Ceiling stain,0.16666666666666666
-The sound of a door creaking...,ドアのきしむ音,Door's silent sound,0.2222222222222222
-A musty bed...,カビ臭いベッド,Kabi smell bed,0.16666666666666666
+Could you tell me?",0.4545454545454545,0.8754687
+"The truth is, I don't really remember anything.",実は よく覚えてないんだ,I really do not remember well,0.3076923076923077,0.5394946
+I just can't remember...,思い出せないんだ,I can not remember,0.25,0.81747514
+The dark hallway...,暗い通路,Dark passage,0.2,0.6645484
+The cracks in the ceiling...,天井のシミ,Ceiling stain,0.16666666666666666,0.5218157
+The sound of a door creaking...,ドアのきしむ音,Door's silent sound,0.2222222222222222,0.75110024
+A musty bed...,カビ臭いベッド,Kabi smell bed,0.16666666666666666,0.45141545
 My memories only became clear some\Ntime after I had left the place.,"記憶が鮮明になるのは
 あそこから出されて 少ししてから","The memory is clear
-After a little after there",0.16666666666666666
-Someone said it was when I was fourteen...,誰かが 俺が14歳だって言った,Someone said I was 14 years old,0.36363636363636365
+After a little after there",0.16666666666666666,0.48475307
+Someone said it was when I was fourteen...,誰かが 俺が14歳だって言った,Someone said I was 14 years old,0.3636363636363637,0.7362555
 "Now that I think back on it, I was put in a weird school...","今思えば 奇妙な学校に入れられて
 名前を与えられた","If you think now, put it in a strange school
-Given the name",0.38095238095238093
-Wolfgang Grimmer.,ヴォルフガング･グリマー,Wolfgang Grimmer,0.6666666666666666
+Given the name",0.3809523809523809,0.70172924
+Wolfgang Grimmer.,ヴォルフガング･グリマー,Wolfgang Grimmer,0.6666666666666666,0.9848015
 My house was in an artificial neighborhood.,"家は 何とも人工的な
 町の中にあった","House is artificial
-It was in the town",0.3333333333333333
+It was in the town",0.3333333333333333,0.72822267
 We were not allowed to leave the area.,"そのエリアからは
 外に出られなかった","From that area
-I could not go out",0.13333333333333333
-Someone pretended to be my father...,父親役がいて 母親役がいて,My father role is my mother,0.2
-I was made to study many different languages...,何カ国語も勉強させられたよ,I was studied for several languages,0.25
+I could not go out",0.13333333333333333,0.57553744
+Someone pretended to be my father...,父親役がいて 母親役がいて,My father role is my mother,0.2,0.54189324
+I was made to study many different languages...,何カ国語も勉強させられたよ,I was studied for several languages,0.25,0.8831014
 "Russian, English, Spanish, French...","ロシア語 英語
 スペイン語 フランス語","Russian English
-Spanish French",0.6666666666666666
-Spy training?,スパイ教育？,Spy education?,0.5
+Spanish French",0.6666666666666666,0.714551
+Spy training?,スパイ教育？,Spy education?,0.5,0.8349587
 what do you think was the toughest?,"その中でも 一番難しかったの
 何だと思う？","Among them, it was difficult
-guess what?",0.21428571428571427
+guess what?",0.21428571428571427,0.4920593
 "All right, we need to get to Suk's hospital.","（グリマー）さてと
-スークの病院 行かなくっちゃ",Suke's hospital,0.16666666666666666
+スークの病院 行かなくっちゃ",Suke's hospital,0.16666666666666666,0.7387231
 "Mr. Grimmer, I saw it on the news...","グリマーさん
 新聞記事で見ました","Grimmer
-I saw it in the newspaper article",0.38461538461538464
+I saw it in the newspaper article",0.38461538461538464,0.85646516
 You're wanted as a prime suspect.,"あなたも
 重要参考人として追われて…","you too
-I am chased as an important reference ...",0.125
+I am chased as an important reference ...",0.125,0.29462504
 I'm the only one who can prove Suk's innocence.,"（グリマー）スークの無実を
 証明できるのは 俺だけだ","Souk's innocent
-I can only prove",0.35714285714285715
+I can only prove",0.35714285714285715,0.53368676

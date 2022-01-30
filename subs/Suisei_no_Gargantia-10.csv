@@ -1,284 +1,284 @@
-en_text,jp_text,google_translated,score
-How's it going?,（ピニオン）どうだ？,How is it?,0.5
-What's that?!,ブリキ野郎！ レド！,Burichiro!Red!,0.14285714285714285
-How did it go?,守備はどうだ？,How is the defensive?,0.25
-Get those Yunboros out!,おい ユンボロ 全部出せ！,Omboro all out!,0.2857142857142857
-The legendary treasure's all ours now!,伝説のお宝は俺達のもんだ！,The legendary treasure is the mono!,0.4
-Island of Ambition,〜♪,~ ♪,0.0
-The shaft's over there!,よ〜し！ そっちはオッケー,Yo!That's ok,0.2222222222222222
-Okay!,（マイタ）ピニオン 来てみな！,Pinions come!,0.25
-"Bro, I wanted to\N.drink this with you.",一緒に飲みたかったぜ,I wanted to drink together,0.16666666666666666
+en_text,jp_text,google_translated,score,semantic_score
+How's it going?,（ピニオン）どうだ？,How is it?,0.5,0.6622023
+What's that?!,ブリキ野郎！ レド！,Burichiro!Red!,0.14285714285714285,0.22121023
+How did it go?,守備はどうだ？,How is the defensive?,0.25,0.178252
+Get those Yunboros out!,おい ユンボロ 全部出せ！,Omboro all out!,0.2857142857142857,0.54988945
+The legendary treasure's all ours now!,伝説のお宝は俺達のもんだ！,The legendary treasure is the mono!,0.4,0.7201273
+Island of Ambition,〜♪,~ ♪,0.0,0.083556905
+The shaft's over there!,よ〜し！ そっちはオッケー,Yo!That's ok,0.2222222222222222,0.15801765
+Okay!,（マイタ）ピニオン 来てみな！,Pinions come!,0.25,0.29195818
+"Bro, I wanted to\N.drink this with you.",一緒に飲みたかったぜ,I wanted to drink together,0.16666666666666666,0.6563836
 Pinion.,"（フランジ）ピニオン
-（ピニオン）んっ",Pinion,0.5
+（ピニオン）んっ",Pinion,0.5,0.9672707
 So this is the heritage our great\N...ancestors have left behind...,"（フランジ）
-これが 偉大なる先人の遺産か",Is this a great destination heritage?,0.1875
-Just like my brother said.,兄貴が言ってた通りさ,The street that my brother said,0.3333333333333333
-Restore the world?,世界の復興だあ？,Is it reconstruction of the world?,0.375
-It's our treasure!,俺達のお宝だろうが！,It would be a treasure of ours!,0.3
+これが 偉大なる先人の遺産か",Is this a great destination heritage?,0.1875,0.5690526
+Just like my brother said.,兄貴が言ってた通りさ,The street that my brother said,0.3333333333333333,0.4338338
+Restore the world?,世界の復興だあ？,Is it reconstruction of the world?,0.375,0.6827491
+It's our treasure!,俺達のお宝だろうが！,It would be a treasure of ours!,0.3,0.71483797
 What are you saying?,"俺達が 真っ先に豊かにならねえで
 どうするよ！","We are richer and faster
-What should I do!",0.15384615384615385
+What should I do!",0.15384615384615385,0.14886913
 Others are just going to try to take it\N.from us if we keep it all to ourselves.,"（ヘリック）
 独占すれば
 奪おうとするものが現れるぞ","If monopoly
-Those who want to take it will appear",0.18181818181818182
-That's not the problem!,近づくヤツはぶっ潰す！,The guy who approaches me is crushed!,0.16666666666666666
-"Hey, you!",おい　無電を打つ！,Hey I hit no more!,0.25
+Those who want to take it will appear",0.18181818181818185,0.30464903
+That's not the problem!,近づくヤツはぶっ潰す！,The guy who approaches me is crushed!,0.16666666666666666,0.15669778
+"Hey, you!",おい　無電を打つ！,Hey I hit no more!,0.25,0.42872596
 Send out a message that we annihilated\Nthe whalesquids and got the treasure!,"クジライカを全滅させて
 お宝を手にしたと知らせるんだ！","Annihilate
-I will notify you that I got a treasure!",0.2777777777777778
-I'm just warning them so they don't\N.poke their noses in our stuff.,怖がることはねえ,I'm scared,0.13333333333333333
-Maximum range! Get it ready!,近づくなって警告だよ,It is a warning to get close,0.18181818181818182
-Sure...,あっ…,Ah…,0.0
+I will notify you that I got a treasure!",0.2777777777777778,0.65058166
+I'm just warning them so they don't\N.poke their noses in our stuff.,怖がることはねえ,I'm scared,0.13333333333333333,0.15793908
+Maximum range! Get it ready!,近づくなって警告だよ,It is a warning to get close,0.18181818181818185,0.1635339
+Sure...,あっ…,Ah…,0.0,0.1455838
 Attention to all ships\Nreceiving this message!,"（無線:ピニオン）
-この通信の届く全ての船に告ぐ！",Tell all ships arrived for this communication!,0.25
+この通信の届く全ての船に告ぐ！",Tell all ships arrived for this communication!,0.25,0.74817663
 We've annihilated all the whalesquids\Nnesting in the Sea of Fog!,"俺達は 霧の海に巣くっていた
 クジライカを全滅させた！","We were nested in the sea of the mist
-I was annihilated the kugeika!",0.4117647058823529
+I was annihilated the kugeika!",0.4117647058823529,0.5572235
 Remember me as\NPinion of the Sea of Fog!,"“霧の海のピニオン”と
 覚えておけ！","""Fog Sea Pinion""
-Remember!",0.36363636363636365
-You're too late!,もう手遅れだ！,It is too late!,0.42857142857142855
-The treasure's all ours!,お宝は全部 俺達のもんだ！,All the treasures are all ours!,0.5
-This is a warning to all ships!,全ての船に警告する！,Warn all ships!,0.3333333333333333
-We will sink any approaching\Nvessel without mercy!,近づいた船は 容赦なく沈める！,The approached ship sinks without mercy!,0.25
-Not you too!,（フランジ）君までなんだ,You are up to you,0.14285714285714285
-"Mr. Flange,",（メルティ）フランジさん,Flange,0.3333333333333333
-you have a delivery.,お届け物です,It is a delivery,0.2857142857142857
-Thank you.,ありがとうございます,Thank you,0.6666666666666666
-Is there anything else?,他に何か？,anything else?,0.6
+Remember!",0.3636363636363637,0.72990155
+You're too late!,もう手遅れだ！,It is too late!,0.42857142857142855,0.8539666
+The treasure's all ours!,お宝は全部 俺達のもんだ！,All the treasures are all ours!,0.5,0.86123
+This is a warning to all ships!,全ての船に警告する！,Warn all ships!,0.3333333333333333,0.8916256
+We will sink any approaching\Nvessel without mercy!,近づいた船は 容赦なく沈める！,The approached ship sinks without mercy!,0.25,0.6372709
+Not you too!,（フランジ）君までなんだ,You are up to you,0.14285714285714285,0.31992853
+"Mr. Flange,",（メルティ）フランジさん,Flange,0.3333333333333333,0.8103129
+you have a delivery.,お届け物です,It is a delivery,0.2857142857142857,0.81608534
+Thank you.,ありがとうございます,Thank you,0.6666666666666666,0.7717476
+Is there anything else?,他に何か？,anything else?,0.6,0.7880647
 I heard Ledo killed all the whalesquids.,"レドがクジライカを
 全部 殺したって 聞いて…","Reded
-I heard that all killed ...",0.36363636363636365
-I'm not sure myself.,分からんよ 私にも,I do not know,0.25
-Are you sure this is okay?,大丈夫なんですか？,Are you okay?,0.5714285714285714
+I heard that all killed ...",0.3636363636363637,0.5305246
+I'm not sure myself.,分からんよ 私にも,I do not know,0.25,0.5303896
+Are you sure this is okay?,大丈夫なんですか？,Are you okay?,0.5714285714285714,0.4639864
 Of course it's not!,"（ヘリック）君！
 （フランジ）思うわけはあるまい！","you!
- I think!",0.1111111111111111
+ I think!",0.1111111111111111,0.22075821
 "With Ledo and Chamber on our side, we are\N.able to delve into the whalesquids' nest.","（フランジ）
 レドとチェインバーがいれば
 クジライカの巣の奥を探れる","If there is red and a chain bar
-Looking for the back of the nest of the kugaika",0.1
+Looking for the back of the nest of the kugaika",0.1,0.35856736
 "But instead of trading our new-found\N.treasures with other ships,","だが 引き上げたものを
 他の船と取引するでもなく","But what I pulled up
-Not trading with other ships",0.3333333333333333
-It's ludicrous.,そこまではいい,It is good to it,0.14285714285714285
-Can't you stop him?,やめさせられないんですか？,Can't you stop it?,0.7142857142857143
-"He wouldn't give up,\Neven if I tried stopping him.",止めようにも 止まらん,I stop stopping,0.14285714285714285
-But...,そんな…,Such ...,0.3333333333333333
+Not trading with other ships",0.3333333333333333,0.62158906
+It's ludicrous.,そこまではいい,It is good to it,0.14285714285714285,0.20513365
+Can't you stop him?,やめさせられないんですか？,Can't you stop it?,0.7142857142857143,0.75860363
+"He wouldn't give up,\Neven if I tried stopping him.",止めようにも 止まらん,I stop stopping,0.14285714285714285,0.47288403
+But...,そんな…,Such ...,0.3333333333333333,0.525316
 Lieutenant.,"（チェインバー）
-少尉",Lieutenant,0.5
+少尉",Lieutenant,0.5,0.9613843
 Why aren't you helping us out here?,"（ピニオン）
-なんで手貸してくんねえんだよ！",Why are you looking for your help!,0.21428571428571427
+なんで手貸してくんねえんだよ！",Why are you looking for your help!,0.21428571428571427,0.5281024
 You should be able to handle salvaging without me.,"（レド）
 サルベージは
 もう そちらで出来るはずだ","Salvage
-She should be able to do she anymore",0.2857142857142857
+She should be able to do she anymore",0.2857142857142857,0.30778447
 The shaft's blocked!,"（ピニオン）
-シャフトの途中が埋まってんだ",The middle of the shaft is filled,0.2222222222222222
-Have you lost your nerve?,どうしちまったんだよ レド,How did you go,0.1111111111111111
-Lost my nerve? Me?,怖気づく… 俺が？,I'm scared ... me?,0.2222222222222222
-I annihilated the Hideauze!,（レド）嫌だ！,I hate!,0.3333333333333333
+シャフトの途中が埋まってんだ",The middle of the shaft is filled,0.2222222222222222,0.6440588
+Have you lost your nerve?,どうしちまったんだよ レド,How did you go,0.1111111111111111,0.17447533
+Lost my nerve? Me?,怖気づく… 俺が？,I'm scared ... me?,0.2222222222222222,0.41654605
+I annihilated the Hideauze!,（レド）嫌だ！,I hate!,0.3333333333333333,0.24752298
 There's nothing to fear!,"ヒディアーズは殲滅した
 恐れることなど無い！","Hiddyers destroyed
-There is no fear!",0.3
-Nothing to fear...,恐れなど…,Fear ...,0.5
+There is no fear!",0.3,0.57132196
+Nothing to fear...,恐れなど…,Fear ...,0.5,0.7845048
 Joe! That's enough for today!,"（船員）
 ジョー そろそろ
 あがりにしようぜ〜","Joe soon
-Let's go up-",0.18181818181818182
+Let's go up-",0.18181818181818185,0.62340724
 Yes. The ship owners\N.were all very cooperative.,"（リジット）
-ええ 船主たち 協力的だったわ",Yeah owner was cooperative,0.09090909090909091
+ええ 船主たち 協力的だったわ",Yeah owner was cooperative,0.09090909090909093,0.69001704
 "Commodore, did you\Nhear Pinion's broadcast?","ピニオンの無電は
 お聞きになりましたか？","Painage of pinion
-Were you asked?",0.15384615384615385
-Of course I did.,ええ もちろん,"Yes, of course",0.2857142857142857
+Were you asked?",0.15384615384615385,0.30589467
+Of course I did.,ええ もちろん,"Yes, of course",0.2857142857142857,0.4093809
 What is your honest\Nopinion about it?,"（ウォーム）
-率直に どう思われますか？",Capitally what do you think?,0.18181818181818182
+率直に どう思われますか？",Capitally what do you think?,0.18181818181818185,0.062416445
 "Until there's evidence that he's telling\N.the truth, there's no need to act.","（リジット）
 事実だという根拠が無い以上
 対応すべきことは ありません","More than no basis for the fact
-There is nothing to cope",0.13043478260869565
-However...,（リジット）そう…,so ...,0.3333333333333333
-Has the news spread\Namong the fleet?,船団には もう広まってる？,Are you widespread in the fleet?,0.3
+There is nothing to cope",0.13043478260869565,0.1941626
+However...,（リジット）そう…,so ...,0.3333333333333333,0.5908015
+Has the news spread\Namong the fleet?,船団には もう広まってる？,Are you widespread in the fleet?,0.3,0.6061245
 Some ship owners might become\N.jealous and decide to leave.,"羨んで離脱しようとする者も
 出るかもしれない","People who are trying to get released
-May be out",0.05263157894736842
-And if they do?,そうなったら？,What if you do?,0.42857142857142855
-I will respect their decision.,彼らの意思を尊重します,Respect their intentions,0.2857142857142857
+May be out",0.05263157894736842,0.27800438
+And if they do?,そうなったら？,What if you do?,0.42857142857142855,0.39437535
+I will respect their decision.,彼らの意思を尊重します,Respect their intentions,0.2857142857142857,0.45810673
 Yes. I heard Pinion's\N.broadcast myself.,"（オルダム）
 ああ ピニオンからの無電を
 直接 聞いた","Oh, electroless from the pinion
-I heard it directly",0.14285714285714285
-Oh no...,んっ…,...,0.3333333333333333
+I heard it directly",0.14285714285714285,0.41278192
+Oh no...,んっ…,...,0.3333333333333333,0.441551
 What if I said I wanted to\Navenge my brother?,"（ピニオン）
 兄貴の…
 仇とるんだっつってもか？","My brother ...
-Is it a muddy?",0.21428571428571427
+Is it a muddy?",0.21428571428571427,0.22498767
 I told you that was\N.nothing but a dream.,"（ベローズ）
-ただの夢だって 言ったじゃないか",I said that just a dream,0.36363636363636365
+ただの夢だって 言ったじゃないか",I said that just a dream,0.3636363636363637,0.6209046
 "Hey, Amy.","（サーヤ）エイミー
-（エイミー）あっ",Amy,0.25
-How should I know?!,分かんないよ！ そんなの…,I can't understand!such a thing…,0.16666666666666666
-Ledo...,レド…,Red ...,0.3333333333333333
-Why?,（サーヤ）メルティ 大丈夫かな？,Melty okay?,0.25
-Aren't they just out of ammo?,弾切れなんじゃねえのか？,Aren't you?,0.3333333333333333
-What?!,（ピニオン）降伏してくる様子は？,What does it come to surrender?,0.25
-Are we gonna sink them?!,マジかよ！,Are you serious!,0.2
-The treasure's repairs\N.should be done by now.,お宝の修理が終わってるはずだ,The repair of the treasure should end,0.15384615384615385
-Let's give them a taste of that.,そうだ,That's it,0.2
-Okay! Fire!,撃て〜！,Shoot!,0.25
-Is this it? Or that?,これか？ あっ こいつか？,Is this?Where is it?,0.5714285714285714
-That's what you get for\N.picking a fight with us.,（海賊たち）うぅ…,...,0.0
+（エイミー）あっ",Amy,0.25,0.7161759
+How should I know?!,分かんないよ！ そんなの…,I can't understand!such a thing…,0.16666666666666666,0.23213786
+Ledo...,レド…,Red ...,0.3333333333333333,0.4391885
+Why?,（サーヤ）メルティ 大丈夫かな？,Melty okay?,0.25,0.15320396
+Aren't they just out of ammo?,弾切れなんじゃねえのか？,Aren't you?,0.3333333333333333,0.20030399
+What?!,（ピニオン）降伏してくる様子は？,What does it come to surrender?,0.25,0.01966578
+Are we gonna sink them?!,マジかよ！,Are you serious!,0.2,0.23581693
+The treasure's repairs\N.should be done by now.,お宝の修理が終わってるはずだ,The repair of the treasure should end,0.15384615384615385,0.8290208
+Let's give them a taste of that.,そうだ,That's it,0.2,0.2123308
+Okay! Fire!,撃て〜！,Shoot!,0.25,0.5569488
+Is this it? Or that?,これか？ あっ こいつか？,Is this?Where is it?,0.5714285714285714,0.39948916
+That's what you get for\N.picking a fight with us.,（海賊たち）うぅ…,...,0.0,0.20655341
 We'll hand over all the culprits!,"（子分Ｂ）
 積荷は全部差し出すから
 そっちに置いてくれよ","Because all the loading out
-Please put it there",0.13333333333333333
+Please put it there",0.13333333333333333,0.07076394
 Let us join you!,"んなもん
 いちいち受け入れてたらなあ","Namemon
-If you receive one by one",0.1
-the platoon would just\Nget bigger and—,所帯がどんどん大きく… おっ！,The hole is bigger and big ... Oh!,0.15384615384615385
+If you receive one by one",0.1,0.18292212
+the platoon would just\Nget bigger and—,所帯がどんどん大きく… おっ！,The hole is bigger and big ... Oh!,0.15384615384615385,0.17308623
 And there's still a bunch of stuff\Nthat needs to be hauled up!,"よし！ その気のあるヤツ
 まとめて つれて来い！","OK!That's a guy
-Come together!",0.15789473684210525
+Come together!",0.15789473684210525,0.18677968
 Lock this one up somewhere!,"おい こいつをどっかに
 ぶちこんどけ！","Somewhere in this guy
-Buchin!",0.3333333333333333
-We'd like to check the\N...stuff we pulled up...,引き上げたブツをよ〜 その…,I pulled up the boots ~ ...,0.21428571428571427
-What d'you say?,だってよ　いいよな？,Is it good?,0.14285714285714285
+Buchin!",0.3333333333333333,0.31668577
+We'd like to check the\N...stuff we pulled up...,引き上げたブツをよ〜 その…,I pulled up the boots ~ ...,0.21428571428571427,0.3357494
+What d'you say?,だってよ　いいよな？,Is it good?,0.14285714285714285,0.07344593
 Use of equipment outside of missions\N.requires the Lieutenant's authorization.,"（チェインバー）
 装備を軍務外で
 使用するに当たっては","Equipment outside military service
-In use",0.23076923076923078
-I don't care.,ブリキ野郎で調べてえんだ,I checked on the Burichiro,0.1111111111111111
-Then it's settled!,ブリキの大将も ほら なっ,Briko's general,0.14285714285714285
-Come on!,さっ 来てくれよ,Please come,0.25
-"Good job, everyone!",みんな よくやってくれた！,Everyone did it well!,0.25
+In use",0.2307692307692308,0.6463114
+I don't care.,ブリキ野郎で調べてえんだ,I checked on the Burichiro,0.1111111111111111,0.11440604
+Then it's settled!,ブリキの大将も ほら なっ,Briko's general,0.14285714285714285,0.05455513
+Come on!,さっ 来てくれよ,Please come,0.25,0.53795505
+"Good job, everyone!",みんな よくやってくれた！,Everyone did it well!,0.25,0.45641086
 "Now, you all better kiss\Nthat metalhead's ass!","みんな このブリキのケツに
 感謝のキスをしてやんな！","Everyone is in the ass of this tin
-Thank you for your gratitude!",0.14285714285714285
+Thank you for your gratitude!",0.14285714285714285,0.27672967
 What am I doing?,"（レド）
-俺は… 何をやってるんだ",I'm doing ... what I'm doing,0.42857142857142855
-For what purpose?,何のために？,For what?,0.75
-For whose sake?,誰のために？,for whom?,0.4
-When did it begin?,いつからだ？,When is it?,0.5
-Well?,どうだ？,How is it?,0.2
+俺は… 何をやってるんだ",I'm doing ... what I'm doing,0.42857142857142855,0.64240485
+For what purpose?,何のために？,For what?,0.75,0.6081794
+For whose sake?,誰のために？,for whom?,0.4,0.6344266
+When did it begin?,いつからだ？,When is it?,0.5,0.37310138
+Well?,どうだ？,How is it?,0.2,0.33371243
 It's a primitive EMP weapon.,"（チェインバー）
-初歩的な電磁兵器である",It is a rudimentary electromagnetic weapon,0.3
-EMP? What's that?,電磁？ なんだそりゃ？,electromagnetic?what's that?,0.6666666666666666
+初歩的な電磁兵器である",It is a rudimentary electromagnetic weapon,0.3,0.7586775
+EMP? What's that?,電磁？ なんだそりゃ？,electromagnetic?what's that?,0.6666666666666666,0.48648128
 Its basic construction is similar\N.to my beam weapons.,"（チェインバー）
 当機に装備されたビーム兵装と
 基本構造において 違いは無い","Beam military equipment equipped on our machine
-There is no difference in the basic structure",0.14285714285714285
+There is no difference in the basic structure",0.14285714285714285,0.7045554
 "However, its output is estimated\N.to be 1/50th that of mine.","（チェインバー）
 ただし 総出力は
 当機の50分の１程度と推測される","However, the total output is
-It is estimated to be about 50 minutes of our equipment",0.2727272727272727
+It is estimated to be about 50 minutes of our equipment",0.2727272727272727,0.6773763
 It is approximately 76 times the current\N.combined firepower of this fleet.,"（チェインバー）
 本船団における総火力との比較では
 約76倍に相当する","In comparison with total thermal power in the main beam
-Approximately 76 times",0.2
-Very nice indeed!,（ピニオン）マジかよ！,Seriously!,0.2
+Approximately 76 times",0.2,0.4042382
+Very nice indeed!,（ピニオン）マジかよ！,Seriously!,0.2,0.12455866
 Can we make it work?,"それ ヒカリムシで
 何とかできるレベルか？","It is hikarimushi
-Some level level?",0.2
+Some level level?",0.2,-0.026873816
 "However, firing it requires\N.tremendous amounts of electricity.","ただし 使用には
 膨大な電力を必要とする","However, for use
-Need a huge power",0.13333333333333333
-"Electricity, huh?",電気か…,Electricity ...,0.2
-I'll tell Ledo!,レドには 俺から言っとくからよ！,I will tell you from me to Red!,0.2727272727272727
+Need a huge power",0.13333333333333333,0.61175376
+"Electricity, huh?",電気か…,Electricity ...,0.2,0.7897572
+I'll tell Ledo!,レドには 俺から言っとくからよ！,I will tell you from me to Red!,0.2727272727272727,0.4103392
 I have found evidence corroborating the\N.footage of the Hideauze's background.,"（チェインバー）
 ヒディアーズの記録映像の
 裏づけとなる事実を発見した","Hiddyers' record video
-I found the fact that it becomes supported",0.14285714285714285
+I found the fact that it becomes supported",0.14285714285714285,0.28787288
 They absorb electromagnetic waves and\N.convert them to energy very efficiently.,"電磁波を吸収し 高効率で
 エネルギーに変換する","Absorbs electromagnetic waves and high efficiency
-Convert to energy",0.25
+Convert to energy",0.25,0.7296465
 "At the same time, they self-replicate\N.and form pseudo-carbon bonds,","同時に 自己を複製し
 擬似炭素結合することで","At the same time replicating itself
-Pseudo-carbon coupling",0.38461538461538464
-which allows them to\N.form a solid exoskeleton.,堅牢な外骨格としても機能する,It also functions as a robust exoskeleton,0.15384615384615385
+Pseudo-carbon coupling",0.38461538461538464,0.6653761
+which allows them to\N.form a solid exoskeleton.,堅牢な外骨格としても機能する,It also functions as a robust exoskeleton,0.15384615384615385,0.72845674
 This proves that the Hideauze are a result\N.of mankind's augmented evolution.,"これは ヒディアーズが人類の
 恣意的進化の帰結である証明であり","This is the Hiddyers'
-Proof that is a consequence of arbitrary evolution",0.2631578947368421
-You...,（レド）お前は…,You are ...,0.6666666666666666
-Why?!,いっ… なぜ そうなんだ！,... why yes!,0.4
+Proof that is a consequence of arbitrary evolution",0.2631578947368421,0.6229607
+You...,（レド）お前は…,You are ...,0.6666666666666666,0.576644
+Why?!,いっ… なぜ そうなんだ！,... why yes!,0.4,0.57451934
 It makes my and the whole Galactic\N.Alliance's war completely meaningless.,"俺の戦いの意味が
 根こそぎ否定されたってのに！","The meaning of my battle
-It is because it was negrated with root!",0.13636363636363635
-Is there any meaning in doing so?,戦って そこに意味はあるのか？,Is there a meaning to fight there?,0.36363636363636365
-"If there isn't, I can't fight...",無いなら 俺は戦えない,"If there is no, I can not fight",0.5
-I can't kill those living beings!,俺は… 殺せない,I can not kill ...,0.18181818181818182
+It is because it was negrated with root!",0.13636363636363635,0.3479394
+Is there any meaning in doing so?,戦って そこに意味はあるのか？,Is there a meaning to fight there?,0.3636363636363637,0.34328508
+"If there isn't, I can't fight...",無いなら 俺は戦えない,"If there is no, I can not fight",0.5,0.8715703
+I can't kill those living beings!,俺は… 殺せない,I can not kill ...,0.18181818181818185,0.6477804
 Unacceptable.,"（チェインバー）
-容認できない",Unacceptable,0.5
+容認できない",Unacceptable,0.5,0.8903971
 Your understanding denies both\N.your existence and mine.,"貴官と当機の存在意義を
 否定するものである","Significance of the existence of our equipment and our equipment
-It is to be denied",0.1111111111111111
-The newborn whalesquids...,あの生き物を…,That creature ...,0.16666666666666666
-That's the truth behind our war!,それが 俺達の戦争の正体なんだ！,That's the true character of our war!,0.5454545454545454
-Not for you!,（レド）お前に無いだけだ！,is not only!,0.3333333333333333
-But for me...,俺には…,To me ...,0.4
+It is to be denied",0.1111111111111111,0.3355767
+The newborn whalesquids...,あの生き物を…,That creature ...,0.16666666666666666,0.35092247
+That's the truth behind our war!,それが 俺達の戦争の正体なんだ！,That's the true character of our war!,0.5454545454545454,0.7556988
+Not for you!,（レド）お前に無いだけだ！,is not only!,0.3333333333333333,0.5026311
+But for me...,俺には…,To me ...,0.4,0.6656006
 I've had enough of the\NAlliance's propaganda!,"同盟のお題目は
 もう たくさんだ！","The subject of the alliance is
-He's a lot!",0.1875
+He's a lot!",0.1875,0.21393156
 What I have said was the conclusion drawn\N.from my own analysis of the available data.,"これは 当機が独自に行った
 情報解析による結論である","This was done uniquely
-It is a conclusion by information analysis",0.13043478260869565
-What?,なに？,what?,1.0
+It is a conclusion by information analysis",0.13043478260869565,0.62045467
+What?,なに？,what?,1.0,1.0000001
 That is because they have\N.rejected civilization itself.,"彼らは 文明そのものを
 否定した存在だからである","They are civilized itself
-It is because it is denied",0.3333333333333333
-What do you mean?,どういう… ことだ？,What does it mean?,0.42857142857142855
+It is because it is denied",0.3333333333333333,0.5608998
+What do you mean?,どういう… ことだ？,What does it mean?,0.42857142857142855,0.4998864
 there would have been no need\N.to develop Machine Calibers.,"マシンキャリバーを開発する
 必要性など無かった","Develop machine caliber
-No need",0.25
+No need",0.25,0.654404
 My system is the product\N.of mankind's knowledge.,"当機のシステムは
 人類の英知の結晶である","The system of our machine
-It is a crystal of human beings",0.17647058823529413
+It is a crystal of human beings",0.17647058823529413,0.6169377
 "However, we are necessary to mankind\N.in order to augment their weak bodies.","人間が その脆弱な肉体を
 補うべく必要とされたもの","Human beings are vulnerable
-What was needed to compensate",0.1
-It can be surmised that mankind advanced\Ntheir intellect and founded civilization,文明を築いたものだと推察する,Infer that you have built civilization,0.13333333333333333
+What was needed to compensate",0.1,0.47534132
+It can be surmised that mankind advanced\Ntheir intellect and founded civilization,文明を築いたものだと推察する,Infer that you have built civilization,0.13333333333333333,0.540206
 Civilization itself is proof that mankind\N.stands at the apex of all creation.,"文明の存在こそ 人類が
 万物の霊長たるゆえんである","Humanity is the existence of civilization
-It is the spirit of all things",0.2777777777777778
+It is the spirit of all things",0.2777777777777778,0.7299732
 a higher level of intelligence\N.is not necessarily required.,"必ずしも その知性が
 高等である必要は無い","The intelligence is not necessarily
-There is no need to be a higher",0.23529411764705882
+There is no need to be a higher",0.2352941176470588,0.82117367
 We are the result of pure knowledge\N.given birth by civilization.,"文明によって生み出された
 純粋知性の結晶","It was produced by civilization
-Pure intoleric crystals",0.1875
+Pure intoleric crystals",0.1875,0.29962528
 and thus became the culmination\N.of biological beings.,"そして ヒディアーズは
 その知性すら克服することで","And Hiddyers
-By overcoming that intelligence",0.07692307692307693
+By overcoming that intelligence",0.07692307692307693,0.25396237
 So you're saying the Hideauze\Nare ultimate lifeforms?,"究極の生物だというのか？
 ヒディアーズが…","Is it the ultimate organism?
-Hiddyers ...",0.21428571428571427
+Hiddyers ...",0.21428571428571427,0.4889408
 You must therefore fight with me\N.for the dignity of mankind.,"人類の尊厳をかけて
 戦わねばならない","Take the dignity of humanity
-I have to fight",0.25
+I have to fight",0.25,0.7802254
 "In a conflict between creatures that\N.are fundamentally the same,","根幹を同じくするものとの
 争いにおいて","With the same factor
-In a dispute",0.3076923076923077
-defeat is equivalent to annihilation.,敗北は 即 滅亡を意味する,Defeat means immediate destruction,0.1111111111111111
+In a dispute",0.3076923076923077,0.46509323
+defeat is equivalent to annihilation.,敗北は 即 滅亡を意味する,Defeat means immediate destruction,0.1111111111111111,0.8023096
 "One pursues civilization,\Nand the other abandons it.","文明を追求することと
 それを放棄すること","Pursuing civilization
-To abandon it",0.15384615384615385
-is a conflict between two\Nirreconcilable survival strategies.,２つの異なる生存戦略の相克であり,Collection of two different survival strategies,0.16666666666666666
-The vanquished will fall prey\Nto natural selection.,敗者は 淘汰を待つのみである,The loser only waits for the selection,0.16666666666666666
-Selection...,（レド）戦えと… 強いるのか,fight and ... strong,0.2
+To abandon it",0.15384615384615385,0.64549875
+is a conflict between two\Nirreconcilable survival strategies.,２つの異なる生存戦略の相克であり,Collection of two different survival strategies,0.16666666666666666,0.6699876
+The vanquished will fall prey\Nto natural selection.,敗者は 淘汰を待つのみである,The loser only waits for the selection,0.16666666666666666,0.39751926
+Selection...,（レド）戦えと… 強いるのか,fight and ... strong,0.2,0.24587807
 "As long as you wish to survive,\Nyou have no choice.","（チェインバー）
 貴官が生存を欲する限り
 選択の余地は無い","As long as you want survival
-There is no room for selection",0.21052631578947367
-"You, a machine, are telling me,\Na human, what to do?",機械のお前が… 人間の俺に,You are your machine ...,0.2
+There is no room for selection",0.21052631578947367,0.5962013
+"You, a machine, are telling me,\Na human, what to do?",機械のお前が… 人間の俺に,You are your machine ...,0.2,0.54758966
 I am but an interface system that supports\N.and oversees the development of pilots.,"（チェインバー）
 私は パイロット支援啓発
 インターフェースシステム","I have his pilot support enlightenment
-Interface system",0.15789473684210525
+Interface system",0.15789473684210525,0.52006966
 Polarized photon sequence received.,"（チェインバー）
-偏極光子シークエンスを受信",Receive polarized photon sequence,0.5
+偏極光子シークエンスを受信",Receive polarized photon sequence,0.5,0.9398366
 Identified as an allied unit.,"（チェインバー）
-友軍機と識別する",Identify as a friendly aircraft,0.1
-An allied unit?!,なんだと！,what!,0.16666666666666666
-Colonel Kugel...,クーゲル… 中佐,Kugel ...,0.6666666666666666
+友軍機と識別する",Identify as a friendly aircraft,0.1,0.41983378
+An allied unit?!,なんだと！,what!,0.16666666666666666,0.15665726
+Colonel Kugel...,クーゲル… 中佐,Kugel ...,0.6666666666666666,0.70690435

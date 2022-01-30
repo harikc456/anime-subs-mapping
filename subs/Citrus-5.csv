@@ -1,47 +1,47 @@
-en_text,jp_text,google_translated,score
-ku,♪～,♪ ~,0.0
-Where are you headed?,くっ… どちらに行くんですの？,... How are you going?,0.375
+en_text,jp_text,google_translated,score,semantic_score
+ku,♪～,♪ ~,0.0,0.18471994
+Where are you headed?,くっ… どちらに行くんですの？,... How are you going?,0.375,0.55930084
 "I'm bringing Mei her lunch, since she forgot it.","（柚子）芽衣(めい)が
 お弁当 忘れていったから―","Sowing 
-Because I forgot my lunch-",0.125
-I thought I told you to stay away from her!,届けに行くだけだっつうの,I'm just going to deliver,0.14285714285714285
+Because I forgot my lunch-",0.125,0.53661317
+I thought I told you to stay away from her!,届けに行くだけだっつうの,I'm just going to deliver,0.14285714285714285,0.19359654
 Then why do you have an extra lunch box?,"まあ！
 だったら そのお弁当は何ですの？","Oh dear!
-What is the lunch box?",0.1875
+What is the lunch box?",0.1875,0.6724713
 "If you're just delivering hers, \N you don't need to bring your own.","渡すだけなら 自分の分は
 いらないのでは？","If you only pass, your own
-Isn't it?",0.2857142857142857
+Isn't it?",0.2857142857142857,0.38727874
 going to the student council room to eat and all.,"（柚子）桃木野さんこそ
 生徒会室でお弁当 食べるとか―","Momokino-san
-I eat lunch box in the student council room-",0.25
+I eat lunch box in the student council room-",0.25,0.60236955
 The president and I have crossed the line!,"私と会長は
 一線を越えた仲なんですのよ！","President and president
-It's a close relationship with a line!",0.2857142857142857
-Th-Then...,（柚子）んっ…,...,0.5
-Mei!,なっ！,Come!,0.3333333333333333
+It's a close relationship with a line!",0.2857142857142857,0.66594017
+Th-Then...,（柚子）んっ…,...,0.5,0.33626908
+Mei!,なっ！,Come!,0.3333333333333333,0.34333026
 Would you care to discuss next week's baseball tournament,"（柚子）お弁当
 忘れていったでしょ？
 （姫子）来月の球技大会
 について考えながら―","Bento
 Did you forget it?
  Visit's ball game next month
-While thinking about",0.13636363636363635
+While thinking about",0.13636363636363635,0.3526909
 Let's eat together!,"一緒に食べようよ！
 ご一緒にランチでも！","Let's eat together!
-Agate together with lunch!",0.625
+Agate together with lunch!",0.625,0.7929223
 Not that you would have any experience with that.,"まあ あなたとじゃ
 できないことですわね","Well then with you
-It is something that can not be done",0.23529411764705882
+It is something that can not be done",0.2352941176470588,0.4133671
 You wanna say that again?!,"何だと！
 （姫子）くっ…","What did you say!
- ...",0.2727272727272727
+ ...",0.2727272727272727,0.3622621
 Silence.,"（芽衣）うるさい
-（姫子･柚子）あっ",noisy,0.0
-You two can eat without me.,（芽衣）お弁当は２人で食べなさい,eat two lunch boxes,0.2222222222222222
-I still have work to do.,私は まだ仕事が残ってるから,Because I still have a job,0.3
+（姫子･柚子）あっ",noisy,0.0,0.51418465
+You two can eat without me.,（芽衣）お弁当は２人で食べなさい,eat two lunch boxes,0.2222222222222222,0.38857877
+I still have work to do.,私は まだ仕事が残ってるから,Because I still have a job,0.3,0.5405783
 You were even louder than I was!,"あなたのほうが
 うるさかったですわ！","You are
-It was ugly!",0.2727272727272727
+It was ugly!",0.2727272727272727,0.46071547
 "Who do you think you are, \N getting between me and the president?!","（姫子）
 それに私と会長の
 大切な ひとときを―
@@ -49,322 +49,322 @@ It was ugly!",0.2727272727272727
 一緒に怒られてんだろ？","And the president
 Important Her time-
 What is Momo Kino
-Are you angry together?",0.25
+Are you angry together?",0.25,0.37472427
 This is unforgivable!,"邪魔するなんて
 絶対に許されませんわ！","How to disturb
-It is absolutely not permitted!",0.18181818181818182
+It is absolutely not permitted!",0.18181818181818185,0.20279068
 Are you even listening to me?!,"ちょっと
 聞いてますの？","a little bit
-Are you listening?",0.36363636363636365
+Are you listening?",0.3636363636363637,0.58652884
 When did you two become friends?,"（はるみ）珍しい組み合わせじゃん
 いつの間に仲良くなったん？","Unusual combination
-When did you get along?",0.36363636363636365
-Do we look like friends to you?,どこが仲良く見えるんですの？,Where do you look closely?,0.4
-"Oh yeah,",（はるみ）あっ そうそう,Oh yeah,0.6666666666666666
+When did you get along?",0.3636363636363637,0.5592784
+Do we look like friends to you?,どこが仲良く見えるんですの？,Where do you look closely?,0.4,0.3332497
+"Oh yeah,",（はるみ）あっ そうそう,Oh yeah,0.6666666666666666,0.8648034
 "Yuzucchi, wanna go to an amusement park?","柚子っち
 今度 遊園地 行かね？","Dumplings
-This time, go out of amusement park?",0.3333333333333333
-An amusement park?,（柚子）遊園地？,Amusement park?,0.75
-Maybe next Saturday?,（はるみ）来週の土曜とかさ,Next week Saturday,0.4
+This time, go out of amusement park?",0.3333333333333333,0.6288899
+An amusement park?,（柚子）遊園地？,Amusement park?,0.75,0.94089526
+Maybe next Saturday?,（はるみ）来週の土曜とかさ,Next week Saturday,0.4,0.81127435
 It must be nice to be so carefree.,"テストが近いのに あなた方は
 のんきでいいですわね","If you are close to the test
-It is good with the night",0.1111111111111111
+It is good with the night",0.1111111111111111,-0.0038138006
 "You wanna come too, Vice President?","（はるみ）副会長も行く？
-（姫子）んっ",Do you also go vice chairman?,0.23076923076923078
-Why would I?,なぜ私が…,Why I ...,0.4
+（姫子）んっ",Do you also go vice chairman?,0.2307692307692308,0.5991659
+Why would I?,なぜ私が…,Why I ...,0.4,0.5831197
 "And while we're at it, \Nwe can invite the president, too.","（はるみ）
-あっ ついでだから 会長も誘って…","She is a while, so I invited the chairman ...",0.13636363636363635
-Mei?!,（はるみ）ん？,?,0.3333333333333333
+あっ ついでだから 会長も誘って…","She is a while, so I invited the chairman ...",0.13636363636363635,0.39288735
+Mei?!,（はるみ）ん？,?,0.3333333333333333,0.1881088
 The president?!,"（姫子）ハッ 会長？
 （柚子）芽衣？","Hatsu President?
- Sieve?",0.3333333333333333
+ Sieve?",0.3333333333333333,0.35431474
 "Geez, where did that come from?","はあ？
 何？ そのコンビネーション","Is it?
-what?That combination",0.16666666666666666
-but it's an interesting idea...,（柚子･姫子）あっ… んん…,... ...,0.14285714285714285
-The president might not be able to make it.,生徒会だけではなく―,Not only the student council-,0.15384615384615385
+what?That combination",0.16666666666666666,0.11125684
+but it's an interesting idea...,（柚子･姫子）あっ… んん…,... ...,0.14285714285714285,0.25138453
+The president might not be able to make it.,生徒会だけではなく―,Not only the student council-,0.15384615384615385,0.11602889
 Huh?,"（姫子）って…
 （はるみ･柚子）ん？","...
-?",0.3333333333333333
-You and the president—,あなた 会長は… むぐっ！,You are ... Mungle!,0.125
-"I've never really thought about it, but if it was with Mei...",芽衣とだったら…,If it is a toughness ...,0.17647058823529413
+?",0.3333333333333333,0.47294527
+You and the president—,あなた 会長は… むぐっ！,You are ... Mungle!,0.125,0.1798866
+"I've never really thought about it, but if it was with Mei...",芽衣とだったら…,If it is a toughness ...,0.17647058823529413,0.10309208
 First I have to start spending more time with her.,"まずは芽衣との時間を
 増やさないと… だよね","First of all time with toughness
-If you do not increase ...",0.15
+If you do not increase ...",0.15,0.2030467
 Lemme see if I can get her to come.,"（柚子）
-私 駄目元で誘ってみるよ",I will try to invite me,0.21428571428571427
+私 駄目元で誘ってみるよ",I will try to invite me,0.21428571428571427,0.3546491
 "I was gonna go by myself,","本当は
 １人で行くつもりだったけど―","Actually
-I was going to go with one person-",0.21428571428571427
+I was going to go with one person-",0.21428571428571427,0.41988844
 "I did want to introduce her to my dad,","（柚子）パパに 芽衣を
 紹介したいって思ってたし…","Daddy
-I thought I wanted to introduce ...",0.23076923076923078
-"so it's okay to invite her, right?",誘っても いいよね？,May I invite you?,0.15384615384615385
+I thought I wanted to introduce ...",0.2307692307692308,0.66144633
+"so it's okay to invite her, right?",誘っても いいよね？,May I invite you?,0.15384615384615385,0.40058535
 Welcome home.,"（梅(うめ)）おかえり
-（ドアが開く音）",) Welcome,0.25
-Is Mei back yet?,芽衣 帰ってる？,Are you back home?,0.25
-Your dad sent you a letter.,芽衣のパパから手紙 届いてたよ,I received a letter from my daddy dad,0.25
+（ドアが開く音）",) Welcome,0.25,0.45858353
+Is Mei back yet?,芽衣 帰ってる？,Are you back home?,0.25,0.40801328
+Your dad sent you a letter.,芽衣のパパから手紙 届いてたよ,I received a letter from my daddy dad,0.25,0.85469776
 Can I open it for you?,"これ どこからだろ？
 ちょっと開けてみてもいい？","Where are you from?
-May I open a little?",0.3076923076923077
-S-Sorry!,あっ ごっ ごめん！,Sorry!,0.3333333333333333
+May I open a little?",0.3076923076923077,0.47857204
+S-Sorry!,あっ ごっ ごめん！,Sorry!,0.3333333333333333,0.56974995
 I seriously wouldn't open someone else's mail!,"人の手紙 開けるなんて
 マジでしたりしないから！","People's letters open
-Because it does not be serious!",0.16666666666666666
-I'll leave it on your desk!,机の上に置いとくね！,Put on the desk!,0.3
+Because it does not be serious!",0.16666666666666666,0.47024453
+I'll leave it on your desk!,机の上に置いとくね！,Put on the desk!,0.3,0.68229556
 Wow. I've never seen her get that angry.,"（柚子）びっくりした
 芽衣が あんなに怒るなんて","I was surprised
-I'm getting angry that she gets angry",0.1875
-"Hey, Mei?",（柚子）ねえ 芽衣,Hey hail,0.2
-What?,（芽衣）何？,What?,1.0
-You gonna read your letter?,（柚子）手紙 読まないの？,Do not read the letter?,0.3
-I want you to meet my dad.,私のパパに会ってほしくて,I want you to meet my dad,0.875
-Why should I?,（芽衣）なぜ 私が？,Why? Why?,0.5
-All right.,私 全然 余裕ないわ,I can not afford at all,0.125
+I'm getting angry that she gets angry",0.1875,0.7460983
+"Hey, Mei?",（柚子）ねえ 芽衣,Hey hail,0.2,0.37038302
+What?,（芽衣）何？,What?,1.0,1.0000001
+You gonna read your letter?,（柚子）手紙 読まないの？,Do not read the letter?,0.3,0.6910371
+I want you to meet my dad.,私のパパに会ってほしくて,I want you to meet my dad,0.875,0.98219556
+Why should I?,（芽衣）なぜ 私が？,Why? Why?,0.5,0.4832712
+All right.,私 全然 余裕ないわ,I can not afford at all,0.125,0.08302965
 If Mother insists...,"（芽衣）
-お母さんが… 言ったのなら…",Mom is ... if I said ...,0.25
+お母さんが… 言ったのなら…",Mom is ... if I said ...,0.25,0.6586574
 "Sorry, Momokino-san.","（柚子）ごめん 桃木野さん
 これって抜け駆けだよね","I'm sorry Momokino-san
-This is rushing out",0.2
-Guess I'm taking the lead.,（柚子）うわっ うそついちゃった,I'm sorry,0.25
+This is rushing out",0.2,0.8267509
+Guess I'm taking the lead.,（柚子）うわっ うそついちゃった,I'm sorry,0.25,0.25093728
 "I was planning on inviting the president,","（姫子）“会長を誘う”と
 大見得 切ってましたけど―","""Inviting President""
-I'm out of view",0.21428571428571427
+I'm out of view",0.21428571428571427,0.7912567
 "Hello, my name is Momokino. I'm a friend of Mei-san's.","桃木野と申しますが
 芽衣さんは…","My name is Momokino
-Mr. Joatsu ...",0.23529411764705882
+Mr. Joatsu ...",0.2352941176470588,0.5877833
 "Oh, she's out somewhere with Yuzu today.","あっ 私
 芽衣さんの友人で―","Oh
-Job-san's friend-",0.16666666666666666
-Aihara Yuzu...,（姫子）くっ… 藍原柚子…,... 藍 原 ...,0.2
-This will not go unpunished!,絶対に許しませんわ！,Absolutely not forgive!,0.25
+Job-san's friend-",0.16666666666666666,0.30593225
+Aihara Yuzu...,（姫子）くっ… 藍原柚子…,... 藍 原 ...,0.2,0.2740242
+This will not go unpunished!,絶対に許しませんわ！,Absolutely not forgive!,0.25,0.4810549
 What's wrong?,"（芽衣）どうしたの？
 （柚子）何か 寒気が…","What happened to ?
- Something cold ...",0.2222222222222222
+ Something cold ...",0.2222222222222222,0.37172523
 This is my first date with Mei.,"（柚子）芽衣との初デートだもん
 誰にも邪魔されたく…","It is the first date with watings
-Everyone wants to be disturbed ...",0.23529411764705882
-You okay?,くっ… 大丈夫？,... Are you all right?,0.2857142857142857
+Everyone wants to be disturbed ...",0.2352941176470588,0.4487456
+You okay?,くっ… 大丈夫？,... Are you all right?,0.2857142857142857,0.36255497
 I have to protect her!,"（柚子）私が
 守ってやらなくちゃ！","I
-Protect and do it!",0.3333333333333333
-Huh? What was that?,えっ？ 何？ 今の声,eh?what?Current voice,0.25
-Her body's so hot.,（柚子）体が すごく熱い,Body is very hot,0.25
-"You okay, Mei?",芽衣 大丈夫？,Is it okay?,0.2857142857142857
+Protect and do it!",0.3333333333333333,0.6395977
+Huh? What was that?,えっ？ 何？ 今の声,eh?what?Current voice,0.25,0.27118134
+Her body's so hot.,（柚子）体が すごく熱い,Body is very hot,0.25,0.7048866
+"You okay, Mei?",芽衣 大丈夫？,Is it okay?,0.2857142857142857,0.312333
 This is my chance to cross the line!,"（柚子）これって
 一線 越えるチャンスなのでは？","This is
-Is it a chance to be exceeded?",0.2857142857142857
+Is it a chance to be exceeded?",0.2857142857142857,0.3121483
 "O-Okay, what now?","（柚子）
-つ… 次 どうしたらいいんだろう？",Tsu ... what should I do next?,0.18181818181818182
+つ… 次 どうしたらいいんだろう？",Tsu ... what should I do next?,0.18181818181818185,0.2722757
 S-Stop it! Why are you doing this?,"どうして こんなことするの？
 ふざけないで！","Why do you do this?
-Don't play!",0.4166666666666667
-Quit fooling around!,（芽衣）やっ やめなさい！,!,0.25
+Don't play!",0.4166666666666667,0.45682618
+Quit fooling around!,（芽衣）やっ やめなさい！,!,0.25,0.22352073
 I'm not! I'm serious about how I...,"ふざけてない！
 私は本気で芽衣と…","Not played!
-I'm serious and whaled ...",0.5454545454545454
-Wh-What are you talking about?,な… 何を言ってるの？,... What are you saying?,0.3333333333333333
-Momokino-san said that she and you...,その あの… だから…,That ... because ...,0.25
+I'm serious and whaled ...",0.5454545454545454,0.41438714
+Wh-What are you talking about?,な… 何を言ってるの？,... What are you saying?,0.3333333333333333,0.37777367
+Momokino-san said that she and you...,その あの… だから…,That ... because ...,0.25,0.20820612
 "Sorry. Seriously, I'm sorry!","（柚子）ごめん ごめんってば！
 クレープおごるから許して","I'm sorry!
-Forgive you because it is crepe",0.3076923076923077
+Forgive you because it is crepe",0.3076923076923077,0.4071842
 "I'll buy you a crêpe, okay?","人間なんだから 少しは
 理性ってものを保ってほしいわね","Because it is a human being, a little bit
-I want you to keep the reason",0.19047619047619047
-I'm not angry.,（芽衣）別に怒ってないわ,I'm not angry separately,0.6666666666666666
+I want you to keep the reason",0.19047619047619047,0.11109842
+I'm not angry.,（芽衣）別に怒ってないわ,I'm not angry separately,0.6666666666666666,0.76079535
 "Also, I don't know what you've tricked yourself into believing,","（芽衣）あと あなたが
 何を想像してるか知らないけど―","After you
-I do not know what I am imagining-",0.29411764705882354
+I do not know what I am imagining-",0.29411764705882354,0.37798396
 but there's nothing between me and Himeko.,"姫子とは何もないわ
 （柚子）え？","There is nothing with Himeko
-?",0.25
+?",0.25,0.7604937
 But she said you two crossed the line...,"だまされる あなたも
 あなただけど…","You are also fooled
-You are ...",0.16666666666666666
+You are ...",0.16666666666666666,0.21591279
 Though the blame is partly on you for falling for it.,"（柚子）何だよ～！ フフッ
 （芽衣）あっ…","What is it!Fuf
-...",0.13333333333333333
-"Oh, come on!",（柚子）あっ えっ あああ…,Oh yeah ...,0.14285714285714285
+...",0.13333333333333333,0.10878383
+"Oh, come on!",（柚子）あっ えっ あああ…,Oh yeah ...,0.14285714285714285,0.337502
 That means I still have a chance!,"（柚子）ってことは 私にも まだ
 チャンスはあるってことじゃん！","is still for me
-There is a chance!",0.3333333333333333
+There is a chance!",0.3333333333333333,0.6789802
 It must be nice to be as happy as you are.,"（芽衣）
-あなたは幸せそうでいいわね",You are good and good,0.16666666666666666
-"You seem pretty happy, too.",（柚子）芽衣だって幸せじゃん,I'm happy because I'm happy,0.1
-Oops.,（柚子）ヤバ…,Yaba ...,0.0
+あなたは幸せそうでいいわね",You are good and good,0.16666666666666666,0.28130257
+"You seem pretty happy, too.",（柚子）芽衣だって幸せじゃん,I'm happy because I'm happy,0.1,0.6248956
+Oops.,（柚子）ヤバ…,Yaba ...,0.0,0.14219521
 "W-Well, don't worry about it too much.","（柚子）
-んっ めっちゃ愛されてんじゃん",It is really loved,0.07692307692307693
-"Come on, have something sweet!",ほら 甘い物でも食べてさ,I'm eating even sweet things,0.08333333333333333
+んっ めっちゃ愛されてんじゃん",It is really loved,0.07692307692307693,0.058112234
+"Come on, have something sweet!",ほら 甘い物でも食べてさ,I'm eating even sweet things,0.08333333333333333,0.47302526
 "Wait, this is my chance for an indirect kiss!","これは間接キスの
 チャンスじゃ…","This is an indirect kiss
-It is a chance ...",0.42857142857142855
-"Then, you can have a bite of mine...",じゃあ 私の 一口だけでも…,Well then my bite only ...,0.23076923076923078
-Huh?!,（柚子）って 食べ終わってるし！,is over!,0.2
-I'll just take this.,これだけ もらっておくわ,I'll get this,0.42857142857142855
+It is a chance ...",0.42857142857142855,0.86143523
+"Then, you can have a bite of mine...",じゃあ 私の 一口だけでも…,Well then my bite only ...,0.2307692307692308,0.7199191
+Huh?!,（柚子）って 食べ終わってるし！,is over!,0.2,0.20342767
+I'll just take this.,これだけ もらっておくわ,I'll get this,0.42857142857142855,0.5069963
 Crap.,"（柚子）
-ヤバい どんどん芽衣にハマってる",Hammed in the wore,0.0
-I love her.,芽衣が好きだ,I like shooting,0.16666666666666666
-I wanna kiss her.,キスしたい,I want to kiss you,0.2222222222222222
-M-Momokino-san?!,（柚子）も… 桃木野さん！,... Momokino-san!,0.2
-I've found you at last!,（姫子）やっと見つけましたわ！,I finally found it!,0.3333333333333333
+ヤバい どんどん芽衣にハマってる",Hammed in the wore,0.0,0.09653225
+I love her.,芽衣が好きだ,I like shooting,0.16666666666666666,0.29484177
+I wanna kiss her.,キスしたい,I want to kiss you,0.2222222222222222,0.7082549
+M-Momokino-san?!,（柚子）も… 桃木野さん！,... Momokino-san!,0.2,0.8868352
+I've found you at last!,（姫子）やっと見つけましたわ！,I finally found it!,0.3333333333333333,0.50766706
 Himeko.,"無理やり連れま… んっ
 （芽衣）姫子","I will try to overdo it ...
-Himeko Himeko",0.1111111111111111
+Himeko Himeko",0.1111111111111111,0.6200858
 Don't bother me like this.,"私の邪魔をしないで
 （姫子）ハッ！","Do not disturb me
- Ha!",0.18181818181818182
+ Ha!",0.18181818181818185,0.3208314
 Mei-Mei...,"（柚子）あっ
-（姫子）あっ えっ あの…",Yes ...,0.3333333333333333
-Let's go.,（芽衣）行くわよ,I will go,0.16666666666666666
+（姫子）あっ えっ あの…",Yes ...,0.3333333333333333,0.1781157
+Let's go.,（芽衣）行くわよ,I will go,0.16666666666666666,0.4198726
 Your father passed away?,"（芽衣）あなたのお父さん
 亡くなっていたの？","your dad
-Did you died?",0.2222222222222222
+Did you died?",0.2222222222222222,0.83013964
 Huh? Yeah. Back when I was three.,"（柚子）
-え？ うん 私が３歳のときにね",picture?Yeah I'm 3 years old,0.21428571428571427
+え？ うん 私が３歳のときにね",picture?Yeah I'm 3 years old,0.21428571428571427,0.51232845
 "Oh, it's not that big a deal.","（柚子）ああ… でも
 そんな重い話じゃないから","Oh ...
-Because it is not such a heavy story",0.25
+Because it is not such a heavy story",0.25,0.3138618
 "If I wanna see him, all I have to do is come here.","ヘヘッ
 ここに来れば いつでも会えるし","Hehe
-If you come here, you can see you at any time",0.23809523809523808
-"Dad, I want you to meet my little sister, Mei.",パパ 紹介するね 妹の芽衣です,I will introduce my daddy sister's sister,0.1875
+If you come here, you can see you at any time",0.2380952380952381,0.6074713
+"Dad, I want you to meet my little sister, Mei.",パパ 紹介するね 妹の芽衣です,I will introduce my daddy sister's sister,0.1875,0.63863903
 "but she's awkward, a bit rough, and lonely, too.","不器用で ちょっと乱暴で
 寂しがりな感じ？","It is a little rough
-Will you feel lonely?",0.15789473684210525
+Will you feel lonely?",0.15789473684210525,0.5281238
 "I just wanted to tell you I have \Nsomething I wanna protect, too.","“私にも守るものができました”
 っていう報告でした","""I was able to protect me""
-It was a report called",0.13043478260869565
+It was a report called",0.13043478260869565,0.4657391
 "All right, mission complete!","よし 本日の任務 完了！
 フフッ","Good Today's mission is complete!
-Fuf",0.2727272727272727
-"Dad, give me some courage!",（柚子）パパ 私に勇気を下さい！,daddy Please give me courage to me!,0.4
+Fuf",0.2727272727272727,0.62123466
+"Dad, give me some courage!",（柚子）パパ 私に勇気を下さい！,daddy Please give me courage to me!,0.4,0.8191122
 "Mei! Um, I...","（芽衣）あっ
-（柚子）芽衣！ あの 私…",Sieve!That me ...,0.2222222222222222
+（柚子）芽衣！ あの 私…",Sieve!That me ...,0.2222222222222222,0.32023683
 My father's letters...,"父からの手紙…
 （柚子）えっ？","A letter from my father ...
-?",0.3333333333333333
+?",0.3333333333333333,0.6878709
 I'm scared to know what he's thinking.,"（芽衣）一度も開封してないの
 父の考えを知ることが怖くて","I have not opened it once
-I am scared to know her father's thoughts",0.2631578947368421
+I am scared to know her father's thoughts",0.2631578947368421,0.33251628
 If he never intends to come back to the academy...,"もし 父に学院へ戻る意思が
 なかったら…","If my father returns to the Academy
-If not ...",0.35714285714285715
-"Hey, Yuzu?",ねえ 柚子,Hey dumplings,0.2
-Do you think I can repair my relationship with him?,私 父と元どおりになれるかしら,I wonder if my father can go,0.2
-When you...,キスなんかできるか！ ううっ…,Can you kiss?Uh ...,0.2857142857142857
-When you smile at me like that...,（柚子）あんな…,like that ...,0.375
-She needs family.,きっと家族だ,Surely family,0.2
+If not ...",0.35714285714285715,0.774531
+"Hey, Yuzu?",ねえ 柚子,Hey dumplings,0.2,0.3411962
+Do you think I can repair my relationship with him?,私 父と元どおりになれるかしら,I wonder if my father can go,0.2,0.09975414
+When you...,キスなんかできるか！ ううっ…,Can you kiss?Uh ...,0.2857142857142857,0.318269
+When you smile at me like that...,（柚子）あんな…,like that ...,0.375,0.34743756
+She needs family.,きっと家族だ,Surely family,0.2,0.5241117
 I've decided to give up on my love and be her sister.,"（柚子）私は 恋を諦めて
 姉になると決めました","I give up love
-I decided to be my sister",0.6428571428571429
-Are you all right?!,（姫子）大丈夫ですか？,Are you okay?,0.42857142857142855
+I decided to be my sister",0.6428571428571429,0.8548984
+Are you all right?!,（姫子）大丈夫ですか？,Are you okay?,0.42857142857142855,0.35787296
 Don't shout like that.,"（芽衣）そんなに大声 出さないで
 つまずいただけよ","Do not go out so much
-Only Tsumatsu",0.07692307692307693
+Only Tsumatsu",0.07692307692307693,0.059953257
 Maybe you should sit out the next meeting.,"あとの会議は
 お休みになられたほうが…","The other meeting is
-It is better to have a rest ...",0.1111111111111111
-I said I'm fine.,（芽衣）うっ いいかげんにして！,I'm sorry!,0.2857142857142857
-You think you have what it takes to take my place?,あなたに私の代わりができるの？,Can you alternative to me?,0.21428571428571427
+It is better to have a rest ...",0.1111111111111111,0.6375421
+I said I'm fine.,（芽衣）うっ いいかげんにして！,I'm sorry!,0.2857142857142857,0.32178053
+You think you have what it takes to take my place?,あなたに私の代わりができるの？,Can you alternative to me?,0.21428571428571427,0.2882842
 I'll get help!,"うっ… 分かって…
 （柚子･姫子）あっ！","Uh ... I understand ...
-!",0.25
+!",0.25,0.1758733
 Wait!,"（柚子）待って！
 （姫子）えっ？","Wait for !
-?",0.5
-You go to the student council.,桃木野さんは生徒会に行って,Momokino went to the student council,0.4444444444444444
-What are you talking about?!,な… 何を言ってますの！？,... What are you saying!?,0.5555555555555556
+?",0.5,0.63405275
+You go to the student council.,桃木野さんは生徒会に行って,Momokino went to the student council,0.4444444444444444,0.53408164
+What are you talking about?!,な… 何を言ってますの！？,... What are you saying!?,0.5555555555555556,0.46535766
 "Please, Momokino-san. Do it for Mei.","（柚子）桃木野さん
 芽衣のために お願い！","Momokino-san
-Request for toughening!",0.18181818181818182
-Where am I?,分かりましたわ,I understand,0.2
-"Sit still and rest, young lady!",駄目だって 休んでなきゃ！,It is useless and it will be rest!,0.23076923076923078
+Request for toughening!",0.18181818181818185,0.60744953
+Where am I?,分かりましたわ,I understand,0.2,0.11708981
+"Sit still and rest, young lady!",駄目だって 休んでなきゃ！,It is useless and it will be rest!,0.2307692307692308,0.44505855
 But there's a student council meeting and a school board meeting today!,"今日は生徒会の会議と
 学院の役員会が…","Today is the student council meeting
-Gakuin board meeting ...",0.3125
-I have to be there!,私が行かないと,I have to go,0.42857142857142855
+Gakuin board meeting ...",0.3125,0.6061236
+I have to be there!,私が行かないと,I have to go,0.42857142857142855,0.6604466
 You're not going anywhere!,"邪魔しないで！
-（芽衣と柚子の力み声）",Do not bother!,0.25
+（芽衣と柚子の力み声）",Do not bother!,0.25,0.26909617
 I'm sorry I dragged you out to my dad's grave.,"（柚子）ごめん パパのこと
 無理に つきあわせて…","I'm sorry for dad
-Forcibly get together ...",0.23529411764705882
-Some big sister I am.,（芽衣）急に姉ぶるのね,suddenly sister to sister,0.125
-"Oh, now you act like my sister.",お姉ちゃん失格だ,My sister is disqualified,0.18181818181818182
+Forcibly get together ...",0.2352941176470588,0.60196036
+Some big sister I am.,（芽衣）急に姉ぶるのね,suddenly sister to sister,0.125,0.4845053
+"Oh, now you act like my sister.",お姉ちゃん失格だ,My sister is disqualified,0.18181818181818185,0.31825504
 Why do you work yourself to the bone like this?,"（柚子）何で こんなになるまで
 仕事するんだ？","What is this to be done
-Do you work?",0.4
+Do you work?",0.4,0.2880561
 Legacy?,"（芽衣）フフフ
 （柚子）えっ？","Fuhufu
-?",0.3333333333333333
+?",0.3333333333333333,0.18992594
 he should be the one to inherit it!,"お父さんが継げばいいんじゃん
 芽衣が こんなに頑張ること…","The father should be inherited
-She is doing so hard ...",0.17647058823529413
-You shouldn't have to work this hard.,（芽衣）この家を継ぐためよ,To eject this house,0.18181818181818182
-"I think so, too.",私も そう思うわ,I also think so,0.42857142857142855
+She is doing so hard ...",0.17647058823529413,0.6306165
+You shouldn't have to work this hard.,（芽衣）この家を継ぐためよ,To eject this house,0.18181818181818185,0.2200825
+"I think so, too.",私も そう思うわ,I also think so,0.42857142857142855,0.7285476
 sometimes you really hit the nail on the head.,"いつもは デタラメなことを言う
 あなたも たまには正論を言うのね","Always say that it is a decorative thing
-You also say that she sometimes says the right",0.14285714285714285
+You also say that she sometimes says the right",0.14285714285714285,0.25089204
 "If I could support her as her sister,","私も姉として
 芽衣の支えになれたら―","I am also an older sister
-Once you have to support you",0.1875
+Once you have to support you",0.1875,0.6335881
 "Okay, first we gotta get rid of your fever and get you back to normal.","よし！ まずは熱を下げて
 元気にならなきゃだな","OK!First of all, lower the heat
-I'm fine",0.11538461538461539
-I'll go get your bag.,芽衣のカバン 取ってくるから,Because I will take a bag of wow,0.15384615384615385
-"Oh, and about Momokino-san.",そうだ！ 桃木野さん！,That's it!Momokino-san!,0.1
-Himeko?,姫子？,Himeko?,1.0
+I'm fine",0.1153846153846154,0.51836234
+I'll go get your bag.,芽衣のカバン 取ってくるから,Because I will take a bag of wow,0.15384615384615385,0.42608845
+"Oh, and about Momokino-san.",そうだ！ 桃木野さん！,That's it!Momokino-san!,0.1,0.77075255
+Himeko?,姫子？,Himeko?,1.0,1.0000001
 "And after it's all said and done, we're all going to the amusement park together.","仲直りしたら みんなで
 遊園地 行くんだから！","Everyone if you make up
-I'm going to go out of the amusement park!",0.17857142857142858
-The amusement park?,（芽衣）“遊園地”？,"""Amusement park""?",0.5
+I'm going to go out of the amusement park!",0.17857142857142858,0.6051116
+The amusement park?,（芽衣）“遊園地”？,"""Amusement park""?",0.5,0.9122815
 "If Mei needs her dad so badly,","ヘヘッ
 良くなったら ちゃんと謝れよ","Hehe
-If it gets better, apologize",0.15384615384615385
-then where is he and what is he doing?,芽衣パパは どこで何やってんだ？,Where are you doing dad?,0.2727272727272727
-but I never...,私は…,I am…,0.2
+If it gets better, apologize",0.15384615384615385,0.106351495
+then where is he and what is he doing?,芽衣パパは どこで何やってんだ？,Where are you doing dad?,0.2727272727272727,0.49196595
+but I never...,私は…,I am…,0.2,0.27939403
 You should be more honest with yourself.,"（姫子）ん…
 （柚子）もっと素直になれば？","...
- If you become more honest?",0.25
+ If you become more honest?",0.25,0.5633778
 "what is it like, living without a care in the world?","何でも背負い過ぎなのは
 桃木野さんもじゃね？","What is overwhelmed by anything
-Mr. Momo Kino too, isn't it?",0.23809523809523808
-Good day to you.,ごきげんよう,how do you do,0.14285714285714285
-"Without a care in the world, huh? Yeah, I wish.",のんきでいられたら どれだけ楽か,How easy if you are in a pussy,0.10526315789473684
-Mei-Mei!,（姫子）うわ～ん！ メイメイ！,Wow!Mayme!,0.25
+Mr. Momo Kino too, isn't it?",0.2380952380952381,0.18502931
+Good day to you.,ごきげんよう,how do you do,0.14285714285714285,0.07262324
+"Without a care in the world, huh? Yeah, I wish.",のんきでいられたら どれだけ楽か,How easy if you are in a pussy,0.10526315789473684,0.17212412
+Mei-Mei!,（姫子）うわ～ん！ メイメイ！,Wow!Mayme!,0.25,0.30504993
 Giving up on loving someone for their sake?,"（柚子）好きな人のために
 好きな気持ちを諦めるとか…","For those who like
-I would like to give up my favorite feeling ...",0.1
+I would like to give up my favorite feeling ...",0.1,0.35047594
 Caring about people sure is confusing.,"（柚子）
-人を思うって めちゃくちゃだな",She thinks that she thinks,0.0
+人を思うって めちゃくちゃだな",She thinks that she thinks,0.0,0.21446566
 Maybe I should join the student council.,"（柚子）
-っと… 私も生徒会 入ろっかな",... I also enter the student council,0.36363636363636365
+っと… 私も生徒会 入ろっかな",... I also enter the student council,0.3636363636363637,0.7443524
 You'd just make more work for us.,"あなたが来ても
 私たちの仕事が増えるだけよ","Even if you come
-Only our work will increase",0.125
+Only our work will increase",0.125,0.5994004
 You should start by following the school rules.,"まずは 校則を守ることから
 始めたら どう？","First of all, from protecting school rules
-What if you start?",0.2222222222222222
+What if you start?",0.2222222222222222,0.7091734
 Mom?,"ママ？
 （芽衣）あっ…","Mom?
-...",0.6666666666666666
-Welcome home...,（柚子）おかえりなさい… え？,Welcome back ... eh?,0.3333333333333333
-Um...,（柚子）むっ…,...,0.5
-I'm home!,（翔(しょう)）よう！ ただいま！,)!I'm back!,0.5
-Who are you?,誰？,Who?,0.5
+...",0.6666666666666666,0.8069512
+Welcome home...,（柚子）おかえりなさい… え？,Welcome back ... eh?,0.3333333333333333,0.5528398
+Um...,（柚子）むっ…,...,0.5,0.67079604
+I'm home!,（翔(しょう)）よう！ ただいま！,)!I'm back!,0.5,0.69053316
+Who are you?,誰？,Who?,0.5,0.53723174
 I've been looking forward to meeting you so much!,"（翔）会いたかった！
 （柚子）ううう～","I wanted to meet!
- U u u",0.21428571428571427
+ U u u",0.21428571428571427,0.6183473
 "Finally, the day's come!","（翔）やっと会えたね フフッ
 （柚子）ぷはっ 変態！ やめろ！","I finally met
- Putchoku!Stop!",0.18181818181818182
-Se...,（芽衣）せ…,...,0.5
-Sensei?,んっ？,?,0.5
-"Meaning you're my dad, too?",私のパパ？,My dad?,0.375
-It's all over now.,（芽衣）もう全部 終わりだわ,It is all over,0.42857142857142855
-Stop trying to do everything on your own!,１人で頑張ろうとするなよ,Don't try to work hard alone,0.14285714285714285
+ Putchoku!Stop!",0.18181818181818185,0.27597296
+Se...,（芽衣）せ…,...,0.5,0.23458615
+Sensei?,んっ？,?,0.5,0.2233058
+"Meaning you're my dad, too?",私のパパ？,My dad?,0.375,0.674356
+It's all over now.,（芽衣）もう全部 終わりだわ,It is all over,0.42857142857142855,0.7762697
+Stop trying to do everything on your own!,１人で頑張ろうとするなよ,Don't try to work hard alone,0.14285714285714285,0.5091764
 Will you cherish me?,"（芽衣）あなたは
 私を必要としてくれる？","You are
-Do you need me?",0.375
+Do you need me?",0.375,0.42806357
 What can I do for Mei?,"（柚子）芽衣のために
 私ができること…","For toughening
-What I can ...",0.4444444444444444
+What I can ...",0.4444444444444444,0.19420871

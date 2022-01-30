@@ -1,216 +1,216 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "After you finish loading the stuff,
-stand by on the boats.",（トクサ）荷を積み終えたら,If you finish loading,0.23076923076923078
+stand by on the boats.",（トクサ）荷を積み終えたら,If you finish loading,0.2307692307692308,0.35388815
 "-I'm going with you.
 -Nibi, you weren't chosen for this.","（オウニ）
-ニビ お前は選ばれてない",Nibi you are not chosen,0.125
+ニビ お前は選ばれてない",Nibi you are not chosen,0.125,0.7333584
 "-Stay. Protect Kicha and the gang.
--No way. I refuse to be left behind.",残って キチャたちを守れ,Remain and protect the keys,0.17647058823529413
+-No way. I refuse to be left behind.",残って キチャたちを守れ,Remain and protect the keys,0.17647058823529413,0.42776063
 "Nibi, I'm glad for your offer, but--","（ニビ）
 うっせえ！
 クソ自警団は黙ってろ！","I'm sorry!
-Shut up your fucking man!",0.1875
-Calm down.,（トクサ）落ち着いて,calm,0.3333333333333333
+Shut up your fucking man!",0.1875,0.048580647
+Calm down.,（トクサ）落ち着いて,calm,0.3333333333333333,0.6869241
 "Hey, do you hear something?","（チャクロ）
-…ねえ 何か聞こえません？",... hey you can't hear something?,0.5
+…ねえ 何か聞こえません？",... hey you can't hear something?,0.5,0.7200296
 "They're coming.
-The enemy is right in front of us.",敵は すぐそこにいる！,The enemy is right there!,0.2857142857142857
-It's Skyros.,スキロスだ!!,It's Skiros !!,0.3333333333333333
+The enemy is right in front of us.",敵は すぐそこにいる！,The enemy is right there!,0.2857142857142857,0.6805594
+It's Skyros.,スキロスだ!!,It's Skiros !!,0.3333333333333333,0.5890947
 Is this storm going to blow over?,"（アラフニ）
-これは収まらぬものなのか？",Is this a bad thing?,0.2727272727272727
+これは収まらぬものなのか？",Is this a bad thing?,0.2727272727272727,0.13963954
 "We don't know. It's a weather phenomenon
 unique to this section of sea.","この海域独特の
 気象現象らしいのですが","Unique to this sea area
-It seems to be a meteorological election",0.2857142857142857
+It seems to be a meteorological election",0.2857142857142857,0.6948365
 "Prehistoric remains in the depths
 of the sea are said to cause it.","深海に眠る前史の遺物が原因と
 言われてます","The cause of the previous history of sleeping in the deep sea
-It is said",0.3888888888888889
-No.,（アラフニ）いや…,No ...,0.3333333333333333
-Keep going. Get closer to Fálaina.,“ファレナ”へ接岸せよ,"Count to ""Ferena""",0.09090909090909091
-"God of the sky,",宙(そら)の神よ,The god of the sora,0.5
+It is said",0.3888888888888889,0.63769215
+No.,（アラフニ）いや…,No ...,0.3333333333333333,0.7783607
+Keep going. Get closer to Fálaina.,“ファレナ”へ接岸せよ,"Count to ""Ferena""",0.09090909090909093,0.27065474
+"God of the sky,",宙(そら)の神よ,The god of the sora,0.5,0.5550028
 "I thank you
 for giving me such a wonderful friend.","このオレに素晴らしい友人を
 お与えくださること","This girl is a wonderful friend
-Giving me",0.35714285714285715
-"Get angry, be afraid.",怒り… 恐れてくれ…,Anger ... Fear ...,0.0
-And show me your best dying face!,最高の死に顔を見せてくれぇ!!,Show me the best death!!,0.4
-"Everyone, start sailing!",（トクサ）各員 航行開始！,Each member sailing is started!,0.2222222222222222
+Giving me",0.35714285714285715,0.5944764
+"Get angry, be afraid.",怒り… 恐れてくれ…,Anger ... Fear ...,0.0,0.615136
+And show me your best dying face!,最高の死に顔を見せてくれぇ!!,Show me the best death!!,0.4,0.75387895
+"Everyone, start sailing!",（トクサ）各員 航行開始！,Each member sailing is started!,0.2222222222222222,0.7845863
 "<i>Look at the sand
-<i>In the palm of your hand",♪ 掌(てのひら)の砂を見よ,♪ Let's see the sand of the palm,0.25
-<i>In the deep ancient sea,♪ 古(いにしえ)の深海の中,♪ in the deep sea of old,0.36363636363636365
-<i>You will have a rich afterlife,♪ あなたが干涸(ひから)び,♪ You're a given time,0.15384615384615385
-<i>In the forbidden garden,♪ 毀(こぼ)れども禁忌の園に,♪  to the garden of contraindication,0.18181818181818182
-Attack!,（クチバ）攻撃開始!!,attack start!!,0.6666666666666666
-Fire!,くっ!!,!!,0.5
-Get back inside. Hurry.,（自警団）戻って 早く,back soon,0.16666666666666666
-Hurry. Hurry.,早く 早く,"hurry, hurry",0.3333333333333333
-I found you!,（自警団）武器を奪うのよ!!,I will take a weapon!!,0.25
+<i>In the palm of your hand",♪ 掌(てのひら)の砂を見よ,♪ Let's see the sand of the palm,0.25,0.7351059
+<i>In the deep ancient sea,♪ 古(いにしえ)の深海の中,♪ in the deep sea of old,0.3636363636363637,0.6915407
+<i>You will have a rich afterlife,♪ あなたが干涸(ひから)び,♪ You're a given time,0.15384615384615385,0.27926642
+<i>In the forbidden garden,♪ 毀(こぼ)れども禁忌の園に,♪  to the garden of contraindication,0.18181818181818185,0.45622438
+Attack!,（クチバ）攻撃開始!!,attack start!!,0.6666666666666666,0.7592796
+Fire!,くっ!!,!!,0.5,0.31363624
+Get back inside. Hurry.,（自警団）戻って 早く,back soon,0.16666666666666666,0.32536444
+Hurry. Hurry.,早く 早く,"hurry, hurry",0.3333333333333333,0.86968446
+I found you!,（自警団）武器を奪うのよ!!,I will take a weapon!!,0.25,0.34773263
 Come out and play with me!,"出てきて
 一緒に遊んでくれよぉ〜!!","please come out
-Play with me!!",0.75
-Mr. Suou.,（男の子）スオウさまぁ,S Owa,0.0
-What's wrong?,（スオウ）どうしたのですか？,What happened?,0.4
+Play with me!!",0.75,0.7686638
+Mr. Suou.,（男の子）スオウさまぁ,S Owa,0.0,0.18372047
+What's wrong?,（スオウ）どうしたのですか？,What happened?,0.4,0.38352162
 "-We found this.
--Is this...?",（スオウ）これは…？,This is ...?,0.375
-"Please, use it for self-defense.",ごしん用に つかってください,Please use it for protection,0.5
-Wait.,（スオウ）あ、 待って…,"Oh, wait ...",0.2
-This is the entrance.,（リコス）ここが入り口よ,Here is the entrance,0.5
-It's made of mud.,…泥で出来ている…？,... Is it mud ...?,0.2222222222222222
-<i>They all have the same smell.,みんな同じ“におい”がする…,"Everyone is the same ""smell"" ...",0.2
+-Is this...?",（スオウ）これは…？,This is ...?,0.375,0.5669649
+"Please, use it for self-defense.",ごしん用に つかってください,Please use it for protection,0.5,0.7105937
+Wait.,（スオウ）あ、 待って…,"Oh, wait ...",0.2,0.6626271
+This is the entrance.,（リコス）ここが入り口よ,Here is the entrance,0.5,0.9100081
+It's made of mud.,…泥で出来ている…？,... Is it mud ...?,0.2222222222222222,0.7750713
+<i>They all have the same smell.,みんな同じ“におい”がする…,"Everyone is the same ""smell"" ...",0.2,0.71825886
 "<i>That's right. The hearts of the people
 <i>from the empire that I saw on the ship","そうだ リコスの船で見た
 帝国の人たちの心","Yes I saw it on Ricos ship
-The heart of the imperial people",0.3333333333333333
-<i>And yet... why do we...?,それなのに なぜ俺たちは…,Why is we ...,0.2727272727272727
-Chakuro!,チャクロ 伏せて!!,Chakuro!!,1.0
+The heart of the imperial people",0.3333333333333333,0.6159103
+<i>And yet... why do we...?,それなのに なぜ俺たちは…,Why is we ...,0.2727272727272727,0.4978456
+Chakuro!,チャクロ 伏せて!!,Chakuro!!,1.0,0.9739474
 "I'd like to report
 that the guards encountered intruders","（兵士）
-報告します",I will report,0.18181818181818182
+報告します",I will report,0.18181818181818185,0.35077697
 "in the underground passage.
-They're probably the citizens of Fálaina.",おそらく奴らの目的は…,Perhaps the purpose of the guys ...,0.13333333333333333
+They're probably the citizens of Fálaina.",おそらく奴らの目的は…,Perhaps the purpose of the guys ...,0.13333333333333333,0.18497986
 "So, they came after all.
-Their target is probably...",（パゴニ）やはり 来ましたね,After all came,0.25
-Yes. What about Commander Orca's sister?,オルカ総司令の妹君は？,Olka General Sister's sister?,0.2727272727272727
+Their target is probably...",（パゴニ）やはり 来ましたね,After all came,0.25,0.38375247
+Yes. What about Commander Orca's sister?,オルカ総司令の妹君は？,Olka General Sister's sister?,0.2727272727272727,0.57241225
 "She seems to be leading them
 to the Nous' room.","“ヌースの間”へと
 先導しているようです","To ""between nouns""
-It seems to be leading",0.25
+It seems to be leading",0.25,0.11595814
 "Let's capture them,
-as Commander Orca has ordered.",（パゴニ）捕らえましょう,Let's catch,0.16666666666666666
+as Commander Orca has ordered.",（パゴニ）捕らえましょう,Let's catch,0.16666666666666666,0.32876122
 "You should be able
 to kill them right away.","（アラフニ）
-すぐ仕留められるであろう？",Will you be able to stand out soon?,0.26666666666666666
-"Eliminate Orca's sister, as well.",オルカの妹も抹殺せよ,Orca's sister also kills,0.3
-The-- The thing is...,（パゴニ）あ…,A ...,0.16666666666666666
-This isn't the Mud Whale.,ここは泥クジラじゃない,This is not a mud teira,0.3
-"Intruder, answer my question.",（兵士）侵入者 質問に答えよ,Answer the intruder question,0.42857142857142855
-That was amazing.,（ギンシュ）すっげ〜な!!,~ Na !!,0.0
+すぐ仕留められるであろう？",Will you be able to stand out soon?,0.26666666666666666,0.19192734
+"Eliminate Orca's sister, as well.",オルカの妹も抹殺せよ,Orca's sister also kills,0.3,0.8032992
+The-- The thing is...,（パゴニ）あ…,A ...,0.16666666666666666,0.35704303
+This isn't the Mud Whale.,ここは泥クジラじゃない,This is not a mud teira,0.3,0.5585849
+"Intruder, answer my question.",（兵士）侵入者 質問に答えよ,Answer the intruder question,0.42857142857142855,0.8785223
+That was amazing.,（ギンシュ）すっげ〜な!!,~ Na !!,0.0,0.21268502
 "But you'll get exhausted if you overdo it,
 Mr. Ponytail.","でも 頑張りすぎると バテるぞ！
 しっぽ君!!","But if you do too hard!
-Tail!!",0.17647058823529413
-Vigilantes... let's go.,（リコス）私たちも行こう,Let us go,0.2857142857142857
-"We should go, too.",あまりにも つらい,Too hard,0.14285714285714285
+Tail!!",0.17647058823529413,0.5152862
+Vigilantes... let's go.,（リコス）私たちも行こう,Let us go,0.2857142857142857,0.2983541
+"We should go, too.",あまりにも つらい,Too hard,0.14285714285714285,0.14200544
 <i>You have to hurt people in order to live.,"（チャクロＭ）
 人を傷つけなければ
 生きていけない…","If you do not hurt people
-I can not live ...",0.29411764705882354
+I can not live ...",0.29411764705882354,0.8443324
 "<i>I didn't want to lose any of my friends
 <i>from the Mud Whale...","（チャクロＮ）
 それでも 泥クジラの仲間を
 誰も失いたくなかった…","Nevertheless
-No one wanted to lose ...",0.14285714285714285
-Chakki!,（一同）おう!!,!,0.5
-Good job stopping them.,（トクサ）よく防いだな,Well prevention,0.0
+No one wanted to lose ...",0.14285714285714285,0.4382174
+Chakki!,（一同）おう!!,!,0.5,0.37208515
+Good job stopping them.,（トクサ）よく防いだな,Well prevention,0.0,0.23255625
 <i>I wasn't mistaken.,"（リコス）
-やはり 勘違いじゃなかった",After all it was misunderstood,0.09090909090909091
-<i>The people from the Mud Whale,泥クジラの民たちは…,The people of the mud teira are ...,0.25
+やはり 勘違いじゃなかった",After all it was misunderstood,0.09090909090909093,0.18208817
+<i>The people from the Mud Whale,泥クジラの民たちは…,The people of the mud teira are ...,0.25,0.54096484
 "<i>have stronger thymia
-<i>than the people from the empire.",帝国の人間より 情念動(サイミア)の力が強い,The power of the emperor  is stronger than the humanity of the empire,0.23529411764705882
-What happened?,（スオウ）何事ですか!?,What is it?,0.4
+<i>than the people from the empire.",帝国の人間より 情念動(サイミア)の力が強い,The power of the emperor  is stronger than the humanity of the empire,0.2352941176470588,0.5993676
+What happened?,（スオウ）何事ですか!?,What is it?,0.4,0.3762161
 "They tore a hole through it
-and the enemy got in.",敵が中に入っちゃったあ,The enemy has entered inside,0.13333333333333333
-I'll go.,…私が行きます,…I will go,0.16666666666666666
+and the enemy got in.",敵が中に入っちゃったあ,The enemy has entered inside,0.13333333333333333,0.6086563
+I'll go.,…私が行きます,…I will go,0.16666666666666666,0.6373371
 "-Don't be ridiculous.
--But...",（スオウ･カナエ）あっ…,...,0.14285714285714285
+-But...",（スオウ･カナエ）あっ…,...,0.14285714285714285,0.29314935
 The mayor should be at the safest place.,"首長は
 一番安全な所にいなきゃダメ！","Arm length
-It is not good if it is the most safe place!",0.1111111111111111
-You're everyone's emotional support.,あなたは皆の心の支えなのよ,You're all supporting everyone's mind,0.4
+It is not good if it is the most safe place!",0.1111111111111111,0.28923097
+You're everyone's emotional support.,あなたは皆の心の支えなのよ,You're all supporting everyone's mind,0.4,0.6230266
 "If I'm the emotional support,
-I should take action in a time like this.",私が心の支えなら…,If I support my heart ...,0.15789473684210525
+I should take action in a time like this.",私が心の支えなら…,If I support my heart ...,0.15789473684210525,0.42576158
 The rescue forces will be here soon.,"もうすぐ
 下から援軍が来る","very soon
-The reinforcement comes from below",0.15384615384615385
+The reinforcement comes from below",0.15384615384615385,0.27087548
 I won't let you hurt the children!,"子供たちを傷つけることは
 許さん!!","To hurt the children
-Thank you!!",0.45454545454545453
-Mr. Hakuji!,（子供たち）ハクジさまぁ!!,Hakuji!!,0.6666666666666666
-Mr. Hakuji.,ハクジ様,Hakuji,0.3333333333333333
-Suou...,ハア ハア…,Haa Haa ...,0.3333333333333333
+Thank you!!",0.4545454545454545,0.6162314
+Mr. Hakuji!,（子供たち）ハクジさまぁ!!,Hakuji!!,0.6666666666666666,0.8397683
+Mr. Hakuji.,ハクジ様,Hakuji,0.3333333333333333,0.84238577
+Suou...,ハア ハア…,Haa Haa ...,0.3333333333333333,0.38329732
 "Don't speak.
 We should go to the infirmary now.","（スオウ）
-話さないで　すぐ救護所へ",To the relief station immediately without talking,0.125
+話さないで　すぐ救護所へ",To the relief station immediately without talking,0.125,0.362135
 to sink this island...,"この… 島を
 沈め… ようとしたこと…","This ... island
-Sushing ...",0.5
-I... want to...,お前たちの… 未来が見たい…,You're ... I want to see the future ...,0.4444444444444444
+Sushing ...",0.5,0.69040346
+I... want to...,お前たちの… 未来が見たい…,You're ... I want to see the future ...,0.4444444444444444,0.52162147
 Even if... the world...,"世界が
 お… お前たちを… 憎んでも…","The world is
-Oh ... you're ... hate ...",0.3
-hates you...,かっ…,...,0.3333333333333333
-I really... treasure--,本当に愛おし…,Really love ...,0.3333333333333333
-Sorry.,お黙りなさい…,Sorry ...,0.3333333333333333
-Was he still talking?,まだ お話し中だった？,Did you still talk?,0.25
-Why are you angry?,何 怒っちゃってんの？,What's angry?,0.2857142857142857
+Oh ... you're ... hate ...",0.3,0.48787117
+hates you...,かっ…,...,0.3333333333333333,0.35165656
+I really... treasure--,本当に愛おし…,Really love ...,0.3333333333333333,0.42975536
+Sorry.,お黙りなさい…,Sorry ...,0.3333333333333333,0.7363751
+Was he still talking?,まだ お話し中だった？,Did you still talk?,0.25,0.7113967
+Why are you angry?,何 怒っちゃってんの？,What's angry?,0.2857142857142857,0.66194546
 "Are you going to avenge that old man?
-Hurry up and take it out.",えらっそうな物言いだなあ！,It's a good thing that looks like it!,0.08695652173913043
-Come on.,ほらっ,Hoping,0.0
-I won't allow you to...,うっ…,Uey ...,0.125
-insult Mr. Hakuji.,ハクジ様を侮辱することは,To insult Hakuji,0.4
-Nice. I love that look in your eyes.,いいねぇ,Nice,0.1111111111111111
-I'm so fed up with dolls.,おい どうしたんだよ〜!!,I'm sorry!!,0.2
+Hurry up and take it out.",えらっそうな物言いだなあ！,It's a good thing that looks like it!,0.08695652173913042,0.17667443
+Come on.,ほらっ,Hoping,0.0,0.16876991
+I won't allow you to...,うっ…,Uey ...,0.125,0.22025515
+insult Mr. Hakuji.,ハクジ様を侮辱することは,To insult Hakuji,0.4,0.88123226
+Nice. I love that look in your eyes.,いいねぇ,Nice,0.1111111111111111,0.42501277
+I'm so fed up with dolls.,おい どうしたんだよ〜!!,I'm sorry!!,0.2,0.22562385
 Can't you cry and scream more?,"もっと
 泣いたり叫んだりしてくれよ〜","more
-Create and scream",0.3333333333333333
+Create and scream",0.3333333333333333,0.5627353
 "It's so boring.
 It's like everyone's already dead. Hey.","どいつもこいつも
 死んでるみたいで","I am always
-It looks like you're dead",0.1875
-That's right. The world is messed up.,世界が狂ってんだよおおお!!,The world is crazy !!,0.2727272727272727
+It looks like you're dead",0.1875,0.41964066
+That's right. The world is messed up.,世界が狂ってんだよおおお!!,The world is crazy !!,0.2727272727272727,0.44904587
 "But that guy is my boss, after all,
 so, could you stop?","（シュアン）
 でも その子
 一応 ウチのボスだから","But that child
-Because it is a boss of Uchi",0.2
+Because it is a boss of Uchi",0.2,0.23434032
 "It's here.
 The Nous, Skyros, is beyond this point.","でも ファレナと同じで
 この先は サイミアが使えない","But it is the same as Falena
-This point can not be used",0.25
-You guys are all excellent.,みんな 優秀!!,Everyone is excellent!!,0.1111111111111111
+This point can not be used",0.25,0.19310802
+You guys are all excellent.,みんな 優秀!!,Everyone is excellent!!,0.1111111111111111,0.542427
 We can carry out our mission as planned.,"これで打ち合わせ通りに
 作戦を遂行できる","Now along the meeting
-Can carry out strategy",0.21428571428571427
+Can carry out strategy",0.21428571428571427,0.5031847
 "Ouni, you guys protect the entrance
 with thymia.","オウニ君たちは
 サイミアで入り口を守る","Ouni-kun
-Protect the entrance in Simea",0.23076923076923078
+Protect the entrance in Simea",0.2307692307692308,0.49413183
 "We'll have Lykos lead the way
-and kill the Nous. Got it?",いいね？,How nice?,0.0625
-Lykos. Be careful.,リコス… 気を付けて,Licos ... Be careful,0.3333333333333333
-"Come on, let's go.",（トクサ）さ、 行こう,", let's go",0.5714285714285714
-It's a picture made of glass.,（ウルミ）ガラスの絵だよ,It is a picture of glass,0.5555555555555556
-"Nope. For me, this is definitely...",（トクサ）いや 僕には断然,"No, I'm definitely",0.16666666666666666
-more beautiful.,（ナツム）キレイ…,beautiful ...,0.25
-"All right, let's hurry.",（ネギシ）そうだな…,That's right ...,0.2222222222222222
+and kill the Nous. Got it?",いいね？,How nice?,0.0625,0.11422041
+Lykos. Be careful.,リコス… 気を付けて,Licos ... Be careful,0.3333333333333333,0.42264262
+"Come on, let's go.",（トクサ）さ、 行こう,", let's go",0.5714285714285714,0.7449324
+It's a picture made of glass.,（ウルミ）ガラスの絵だよ,It is a picture of glass,0.5555555555555556,0.89691794
+"Nope. For me, this is definitely...",（トクサ）いや 僕には断然,"No, I'm definitely",0.16666666666666666,0.4485991
+more beautiful.,（ナツム）キレイ…,beautiful ...,0.25,0.42853084
+"All right, let's hurry.",（ネギシ）そうだな…,That's right ...,0.2222222222222222,0.2868514
 "<i>How could it be this easy
 <i>to get into the Nous' room?","ヌースの間へ
 こんなに簡単に侵入できるなんて…","During nouns
-It's so easy to get invaded ...",0.17391304347826086
-"Tokusa, everyone...",トクサさん!! みんな!!,Toka !! Everyone!!,0.16666666666666666
+It's so easy to get invaded ...",0.17391304347826084,0.2578257
+"Tokusa, everyone...",トクサさん!! みんな!!,Toka !! Everyone!!,0.16666666666666666,0.600473
 "-Wait, Urumi.
--What?",どうして…？,why…?,0.14285714285714285
-Why didn't you say?,なぜ言わなかった？,Why didn't you say?,1.0
+-What?",どうして…？,why…?,0.14285714285714285,0.173099
+Why didn't you say?,なぜ言わなかった？,Why didn't you say?,1.0,1.0
 I demanded to come.,"（ニビ）
 俺だけヘマしたなんて
 言えるかよ…","I just wanted to hema
-Can you say ...",0.16666666666666666
+Can you say ...",0.16666666666666666,0.1968045
 "-It's from the back of the room.
--Ouni.",（チャクロ）部屋の奥からだ！,From the back of the room!,0.5
+-Ouni.",（チャクロ）部屋の奥からだ！,From the back of the room!,0.5,0.66792095
 "You should stay here since you're injured.
 Chakki.","（ギンシュ）
 お前はケガしてんだから
 ここにいろ！","Because you can't get injured
-Here!",0.21428571428571427
-"""Miss Ginshu.""",“姉さん”だ!!,"""My sister"" !!",0.25
+Here!",0.21428571428571427,0.46528432
+"""Miss Ginshu.""",“姉さん”だ!!,"""My sister"" !!",0.25,0.28776926
 "We can't leave this place defenseless,
 right?","ここを
 ガラ空きにはできないだろ？","Here
-You can't get it in Gala space?",0.17647058823529413
+You can't get it in Gala space?",0.17647058823529413,0.035338342
 <i>The things I can record...,"（チャクロＮ）
-私が書き残すことができるのは…",I can not leave me ...,0.2727272727272727
-<i>are only small parts of it.,ほんのわずかなことだ,It's a very small thing,0.14285714285714285
+私が書き残すことができるのは…",I can not leave me ...,0.2727272727272727,0.2246822
+<i>are only small parts of it.,ほんのわずかなことだ,It's a very small thing,0.14285714285714285,0.592811
 "<i>The world people saw
-<i>with their own eyes...",人々が最期に見た世界を…,People looked at the end of the world ...,0.25
-<i>How should I...,どうやって伝えればいいのだろう,How should I tell you,0.375
+<i>with their own eyes...",人々が最期に見た世界を…,People looked at the end of the world ...,0.25,0.5977384
+<i>How should I...,どうやって伝えればいいのだろう,How should I tell you,0.375,0.31368947

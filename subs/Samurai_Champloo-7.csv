@@ -1,260 +1,260 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "This is the last of our savings, got it? Be careful with it!","（フウ）
 最後のヘソクリなんだからね
 慎重にね","Because it is the last hesokuri
-Carefully",0.2222222222222222
-Bet on three!,（ムゲン）三,Three,0.25
-Don't be stupid. Five.,（ジン）バカな 五だ,stupid five,0.3333333333333333
+Carefully",0.2222222222222222,0.08889875
+Bet on three!,（ムゲン）三,Three,0.25,0.4944791
+Don't be stupid. Five.,（ジン）バカな 五だ,stupid five,0.3333333333333333,0.7494345
 "You do everything you can to get on my nerves, don't you?","ギャフンなどと
 本当に言うやつがいるか","With gaffe
-Do you really say something",0.11764705882352941
+Do you really say something",0.1176470588235294,0.3406939
 That's my line.,"（ムゲン）
-いちいちカンに障る野郎だな",It's a guy who hurts one by one,0.08333333333333333
+いちいちカンに障る野郎だな",It's a guy who hurts one by one,0.08333333333333333,0.16182324
 "You bastard... One of these days, I'm gonna make you cry uncle.","そのうちギャフンと
 言わせてやるからな","And with Gafun
-I will tell you",0.09523809523809523
-I've never heard that expression.,聞いたことがないが,I have never heard,0.375
-No way! We actually won!,ウソ… 勝っちゃった！,Uso ... I won!,0.2222222222222222
-Welcome!,（店主）らっしゃい！,!,0.5
-Hasamaki noodles for me. With a double order of shrimp tempura.,花巻き エビ天ダブルで,Flower winding shrimp in Heavenly Double,0.125
-Our first food in three days...,ああ… ３日ぶりのごはん,Oh ... 3 days for the first time,0.25
+I will tell you",0.09523809523809523,0.17605357
+I've never heard that expression.,聞いたことがないが,I have never heard,0.375,0.571179
+No way! We actually won!,ウソ… 勝っちゃった！,Uso ... I won!,0.2222222222222222,0.53154117
+Welcome!,（店主）らっしゃい！,!,0.5,0.36603725
+Hasamaki noodles for me. With a double order of shrimp tempura.,花巻き エビ天ダブルで,Flower winding shrimp in Heavenly Double,0.125,0.39160398
+Our first food in three days...,ああ… ３日ぶりのごはん,Oh ... 3 days for the first time,0.25,0.5472072
 "We'll be doing more than smelling it this time! We're gonna be able to eat it, too...!","今日は嗅ぐだけじゃない
 食べられるのね","I'm not just smelling today
-I can eat it",0.11538461538461539
-What a jerk!,ちょっと,A little,0.2
-Thanks for waiting! Three bowls comes to 50 mon!,（店主）へい お待ち,Waiting for,0.2
-"Hey, now, pay up front.",（店主）おっと 前払いだよ,Oops Prepaid,0.0
-"Sure, sure, not a problem.",はいはい 大丈夫,Yes yes okay,0.0
-Say what?!,なに？,what?,0.5
-My apologies.,失礼した,Rude,0.0
-Bastard!,（若者２）てめえ うお！,!,0.5
-Ouch...,（若者３）貴様…,Your ...,0.3333333333333333
-Piece of cake.,（新輔）ヘッ チョロいもんだ,Hephe choro,0.0
-"I-I'm sorry, big guy...",（大吉）す… すいやせん兄貴,... I'm sorry I'm sorry,0.375
+I can eat it",0.1153846153846154,0.7156282
+What a jerk!,ちょっと,A little,0.2,0.24653646
+Thanks for waiting! Three bowls comes to 50 mon!,（店主）へい お待ち,Waiting for,0.2,0.29291257
+"Hey, now, pay up front.",（店主）おっと 前払いだよ,Oops Prepaid,0.0,0.3401516
+"Sure, sure, not a problem.",はいはい 大丈夫,Yes yes okay,0.0,0.38800272
+Say what?!,なに？,what?,0.5,0.37645727
+My apologies.,失礼した,Rude,0.0,0.2534767
+Bastard!,（若者２）てめえ うお！,!,0.5,0.51552314
+Ouch...,（若者３）貴様…,Your ...,0.3333333333333333,0.34713525
+Piece of cake.,（新輔）ヘッ チョロいもんだ,Hephe choro,0.0,0.19920307
+"I-I'm sorry, big guy...",（大吉）す… すいやせん兄貴,... I'm sorry I'm sorry,0.375,0.62978363
 "I swear, I've never seen anybody as stupid as you.","…ったく
 こんなバーカ見たことねえよ","…Geez
-I have seen such a bara",0.125
+I have seen such a bara",0.125,0.194649
 "Listen, it's times when you're carrying something this valuable","いかにも大事(でえじ)なもん持ってますって
 感じじゃねえか","How to have an important thing 
-It's not a feeling",0.09523809523809523
-"- Hey, watch it!\N- Sorry, buddy!",ねえよ！,Hey!,0.2222222222222222
-Watch where you're going!,気いつけろ …ったく,Watch ...,0.14285714285714285
+It's not a feeling",0.09523809523809523,0.32335952
+"- Hey, watch it!\N- Sorry, buddy!",ねえよ！,Hey!,0.2222222222222222,0.38763937
+Watch where you're going!,気いつけろ …ったく,Watch ...,0.14285714285714285,0.39940143
 - It's gone!\N- Huh? What's gone?,"（大吉）は…
 （中吉(ちゅうきち)）何すか？","...
-) What is it?",0.25
+) What is it?",0.25,0.32960445
 "C'mon, let's give up already. It was money we won by gambling, anyway.","もう あきらめようよ
 どうせバクチで もうけたお金だし","Let's give up anymore
-Anyway, it is money that has already been made with Bakuchi",0.375
-No way in hell.,絶対(ぜってえ)あきらめねえ,Absolutely (え え あ め ね ね,0.0
-A man can't fight on an empty stomach.,腹が減っては戦にならん,I'm hungry and I'm going to fight,0.0625
+Anyway, it is money that has already been made with Bakuchi",0.375,0.4043685
+No way in hell.,絶対(ぜってえ)あきらめねえ,Absolutely (え え あ め ね ね,0.0,0.16381395
+A man can't fight on an empty stomach.,腹が減っては戦にならん,I'm hungry and I'm going to fight,0.0625,0.36209643
 "Big guy! He's not over here, either!","（大吉）兄貴
 こっちもいないっすよ","big brother
-I'm not here",0.23076923076923078
+I'm not here",0.2307692307692308,0.42617914
 You morons! Are you trying to ruin my reputation?!,"てめえら
 俺の顔に泥塗るつもりか？","Fancy
-Are you going to combine my face?",0.35714285714285715
+Are you going to combine my face?",0.35714285714285715,0.12670283
 "If the boss finds out about this,","このことが
 親分に知れた日にゃあな—","This thing
-It is a day that was known to the parents-",0.1111111111111111
+It is a day that was known to the parents-",0.1111111111111111,0.15366705
 cutting off all the fingers on both my hands won't be enough to make up for it!,"両手の指詰めたって
 足りねえんだよ！","I'm going to go to my hands
-I'm not enough!",0.20833333333333334
-I don't believe it...,（新輔）まさか…,Masaka ...,0.14285714285714285
-"Hey! Where the hell are you, you little punk?!",オラァ！ どこだ このガキャァ,Ola!Where is this Gakya,0.13333333333333333
-Get your ass out here!,出てこいや！,Get out!,0.5
-"Have you ever heard of the word "" manners""?",礼儀ってものを知らないのかい？,Do you not know about what you do not know?,0.125
-- Any luck?\N- He isn't here.,（ジン）ここにはいない,is not here,0.18181818181818182
-- Must've been a bogus tip.\N- Oh...,（フウ）そう…,so ...,0.1
+I'm not enough!",0.20833333333333331,0.5179996
+I don't believe it...,（新輔）まさか…,Masaka ...,0.14285714285714285,0.18008855
+"Hey! Where the hell are you, you little punk?!",オラァ！ どこだ このガキャァ,Ola!Where is this Gakya,0.13333333333333333,0.2063145
+Get your ass out here!,出てこいや！,Get out!,0.5,0.5801554
+"Have you ever heard of the word "" manners""?",礼儀ってものを知らないのかい？,Do you not know about what you do not know?,0.125,0.15307297
+- Any luck?\N- He isn't here.,（ジン）ここにはいない,is not here,0.18181818181818185,0.34032345
+- Must've been a bogus tip.\N- Oh...,（フウ）そう…,so ...,0.1,0.27751115
 We'll go give the area another once-over.,"この辺りを
 もっと探してくっからよ","About this area
-Looking more and more",0.07142857142857142
-"Hey, this is the real deal!",おい こりゃ本物だぜ,It's a real thing,0.08333333333333333
+Looking more and more",0.07142857142857142,0.5120845
+"Hey, this is the real deal!",おい こりゃ本物だぜ,It's a real thing,0.08333333333333333,0.40639162
 "Shinsuke, what are you doing with something this dangerous?","新輔 おめえ
 こんなヤベえもん どうしたんだよ","New Year's Eve
-I'm doing this",0.11764705882352941
-I need the money.,金が要るんだ,I need money,0.6
+I'm doing this",0.1176470588235294,0.15320174
+I need the money.,金が要るんだ,I need money,0.6,0.8346104
 Let me think... My broker fee will be 70%. I'll fence it for you for that much.,"仲介料７割だ
 それで手を打ってやる","70% of the maker
-So I will hit my hand",0.19230769230769232
-Seventy percent?! You're kidding!,あ？,Ah?,0.125
+So I will hit my hand",0.19230769230769232,0.36941633
+Seventy percent?! You're kidding!,あ？,Ah?,0.125,0.041088957
 Come back tomorrow. I'll have the deal set up by then.,"あした また来い
 それまでに話をつめとく","I will come again
-To talk about",0.1111111111111111
-"What, you're still up?",（新輔）なんだ 起きてんのか,what happened?,0.25
-Have you been out working until this hour?,こんな時間まで仕事かい？,Is it work until such a time?,0.13333333333333333
+To talk about",0.1111111111111111,0.23916547
+"What, you're still up?",（新輔）なんだ 起きてんのか,what happened?,0.25,0.34230188
+Have you been out working until this hour?,こんな時間まで仕事かい？,Is it work until such a time?,0.13333333333333333,0.39962953
 "If this latest job works out, it'll make me a lot of money.","今度の仕事がうまくいけば
 まとまった金が入るよ","If this work is good
-I'm getting a lot of money",0.2727272727272727
+I'm getting a lot of money",0.2727272727272727,0.6149202
 Then I'll be able to buy you better medicine.,"そしたら
 もっといい薬を買えるぜ","If
-I can buy a better medicine",0.2857142857142857
+I can buy a better medicine",0.2857142857142857,0.8217444
 "A while ago, some strange men came here to see you.","さっき妙な男たちが
 お前に会いに来たよ","A long man
-I came to see you",0.3125
-Who were those people?,あの人たちは誰なんだい？,Who is that person?,0.25
-Beats me.,（新輔）知らねえよ,knowing,0.0
-Aren't what?,何だよ,What,0.25
+I came to see you",0.3125,0.45281047
+Who were those people?,あの人たちは誰なんだい？,Who is that person?,0.25,0.5540466
+Beats me.,（新輔）知らねえよ,knowing,0.0,0.13572155
+Aren't what?,何だよ,What,0.25,0.28687432
 "You aren't doing things that would make you too ashamed to look people in the eye, are you?","人様に顔向けできないようなこと
 してるんじゃないだろうね","Things that can not face people
-I'm not doing it",0.16666666666666666
+I'm not doing it",0.16666666666666666,0.39003626
 What're you saying? I'd never do anything like that.,"何 言ってんだよ
 そんなはずねえだろ","What are you saying
-That's right",0.25
-See him?,（ムゲン）あいつは？,What is it?,0.16666666666666666
+That's right",0.25,0.3275646
+See him?,（ムゲン）あいつは？,What is it?,0.16666666666666666,0.11894431
 "No, no one came.","う… ううん
 誰も来なかったよ","Uh,
-No one came",0.6666666666666666
+No one came",0.6666666666666666,0.8624278
 "There was a stable up the road, remember?","しゃあね
 この先に馬小屋があったろ","Wher
-There was a horse mit one first",0.2
-Sure...,（フウ）あ…,...,0.5
-Who are you?,あなた 新輔の彼女さん？,You're a newcomer?,0.2857142857142857
+There was a horse mit one first",0.2,0.26566005
+Sure...,（フウ）あ…,...,0.5,0.5678079
+Who are you?,あなた 新輔の彼女さん？,You're a newcomer?,0.2857142857142857,0.23931868
 Are you... Shinsuke's girlfriend?,"（お初）どなた？
 （フウ）えっ…","?
- Eh ...",0.25
-That's so good!,んんっ！,!,0.2
+ Eh ...",0.25,0.22638103
+That's so good!,んんっ！,!,0.2,0.33173952
 I've never seen anyone look so happy over eating dried sweet potatoes.,"干し芋を
 こんなにおいしそうに食べる人—","Hay
-Such delicious people eating delicious",0.05555555555555555
+Such delicious people eating delicious",0.05555555555555555,0.37348008
 "- If you don't mind eating these, eat all you like.\N- Yes, ma'am!","（お初）こんなものでよかったら
 どんどん食べてね","if you like this
-Eat more and more",0.15789473684210525
-About that...,あっ あの…,That's ...,0.5
+Eat more and more",0.15789473684210525,0.5114746
+About that...,あっ あの…,That's ...,0.5,0.4998492
 "He doesn't have a father, and I have this frail body...","あの子 父親がいないし
 私はこんな体でしょ？","There is no father of that child
-I am such a body?",0.18181818181818182
+I am such a body?",0.18181818181818185,0.6369521
 Has he talked to you about anything lately?,"最近 あの子から
 何か聞いてないかい？","Recently from that child
-Do you not listen to something?",0.17647058823529413
-A-About what?,な… 何かって？,... What is it?,0.3333333333333333
+Do you not listen to something?",0.17647058823529413,0.34538963
+A-About what?,な… 何かって？,... What is it?,0.3333333333333333,0.25123566
 "No, never mind. I'm sorry.","（お初）いや いいのよ
 ごめんなさいね","No good
-Sorry",0.2222222222222222
+Sorry",0.2222222222222222,0.43465498
 "I've been giving her this medicine every day,","（新輔）先生の言いつけどおり
 この薬を毎日 飲ませてます","teachers' words
-I am drinking this medicine every day",0.3333333333333333
-I never said that this would cure her.,でも なかなか治らなくて,But I can not cure,0.16666666666666666
+I am drinking this medicine every day",0.3333333333333333,0.5624762
+I never said that this would cure her.,でも なかなか治らなくて,But I can not cure,0.16666666666666666,0.5543847
 There's nothing I can do. That's all you can buy with the money you have.,"君が持ってくる金じゃ
 そのくらいしか買えない","It is gold that you bring
-I can only buy that much",0.23809523809523808
+I can only buy that much",0.2380952380952381,0.3585998
 "For instance, there's Korean ginseng, which is said to be a cure-all.","万病薬と言われる
 高麗人参(にんじん)だってね","Be said to be
-Ginseng",0.26666666666666666
+Ginseng",0.26666666666666666,0.6082758
 "It costs a hundred times as much as this medicine here, though.","この薬じゃあ 少しは
 精がつくかもしれんってとこだ","This medicine is a little bit
-It may be fine",0.21052631578947367
-Can you afford something like that?,それが君に払えるか？,Can that pay to you?,0.4444444444444444
-"I'm sorry, but I am running a business here.",悪いが こっちも商売なんでね,It's bad but this is also a business,0.17647058823529413
-What do you want?,ああ？ 何だよ,Ah? What,0.3333333333333333
-I'm looking for something.,ある物を探してんだ,I'm looking for something,0.8333333333333334
+It may be fine",0.21052631578947367,0.49741736
+Can you afford something like that?,それが君に払えるか？,Can that pay to you?,0.4444444444444444,0.6291776
+"I'm sorry, but I am running a business here.",悪いが こっちも商売なんでね,It's bad but this is also a business,0.17647058823529413,0.5136042
+What do you want?,ああ？ 何だよ,Ah? What,0.3333333333333333,0.1445316
+I'm looking for something.,ある物を探してんだ,I'm looking for something,0.8333333333333334,0.9305049
 It's something that's way too much for a small-time fence like you to handle.,"小物のおめえなんかじゃ
 とても扱えねえようなシロモンだ","Small things
-It is a silomon that can be handled very much",0.16666666666666666
+It is a silomon that can be handled very much",0.16666666666666666,0.3571899
 I know that pickpocket punk came to see you yesterday!,"昨日 スリのガキが
 お前んところへ来たろうが！","Yesterday Sri's Gaki
-You will come to you!",0.25
-"I told you I don't know who he is, didn't I?!",ほーら 教えたくなったろ？,Did you want to teach you?,0.1875
-Stop it! Put it out!,やめろ やめてくれえ！,Stop stop!,0.4
-Do you remember who I am?,私のこと 覚えてない？,Do not remember me?,0.3333333333333333
-- Who are you?\N- The girl whose wallet you stole!,あんたに財布をスラれた被害者よ,Audians who sled a wallet,0.13333333333333333
-You can't get away from me.,もう逃げられないんだからね,I can't run away anymore,0.2727272727272727
-- You bitch!\N- Hey there.,こいつ,this guy,0.0
-"You've been a bad boy. You oughta return what doesn't belong to you, got it?",（フウ）何なのよ あんたたち！,What is it?,0.15789473684210525
+You will come to you!",0.25,0.10510917
+"I told you I don't know who he is, didn't I?!",ほーら 教えたくなったろ？,Did you want to teach you?,0.1875,0.24867545
+Stop it! Put it out!,やめろ やめてくれえ！,Stop stop!,0.4,0.56782544
+Do you remember who I am?,私のこと 覚えてない？,Do not remember me?,0.3333333333333333,0.7206828
+- Who are you?\N- The girl whose wallet you stole!,あんたに財布をスラれた被害者よ,Audians who sled a wallet,0.13333333333333333,0.45767513
+You can't get away from me.,もう逃げられないんだからね,I can't run away anymore,0.2727272727272727,0.56902236
+- You bitch!\N- Hey there.,こいつ,this guy,0.0,0.10207676
+"You've been a bad boy. You oughta return what doesn't belong to you, got it?",（フウ）何なのよ あんたたち！,What is it?,0.15789473684210525,0.09655662
 "Careful, miss. I think you know what I'll do if you shout-","デカい声 出すとどうなるか
 分かって…","What happens if you come out
-I understand ...",0.2222222222222222
+I understand ...",0.2222222222222222,0.1064036
 - Help me! Somebody!\N- You crazy bitch!,"（小五郎）うわっ てめえ！
 （フウ）助けて 誰か！","Wow!
- Help Someone!",0.18181818181818182
-Big guy!,兄貴！,Big brother!,0.5
-What's going on here?!,（岡っ引き）どうしたあ！,What happened!,0.25
-Hey! What are you doing?!,おい 何してる！,Hey!,0.2857142857142857
-Damn it...,クソ…,Fucking ...,0.25
-Give yourself up peacefully!,うるせえ！,shut up!,0.3333333333333333
-Kiss my ass! Don't come any closer! Got it?!,来るなよ,Don't come,0.25
+ Help Someone!",0.18181818181818185,0.44154802
+Big guy!,兄貴！,Big brother!,0.5,0.5528521
+What's going on here?!,（岡っ引き）どうしたあ！,What happened!,0.25,0.37405086
+Hey! What are you doing?!,おい 何してる！,Hey!,0.2857142857142857,0.61573285
+Damn it...,クソ…,Fucking ...,0.25,0.60922635
+Give yourself up peacefully!,うるせえ！,shut up!,0.3333333333333333,0.33192256
+Kiss my ass! Don't come any closer! Got it?!,来るなよ,Don't come,0.25,0.32873446
 "Do you hear me?! If you come near me, I'm really gonna kill this girl!","近づいたら この女
 マジで殺すからな！","This woman gets approaching
-I'm seriously killing!",0.17391304347826086
-But...,でも,but,0.5
-It's no big deal!,どうってことねえよ！,How is it!,0.25
-"What do you want us to do, big guy?",どうします？ 兄貴,What do you do?Big brother,0.45454545454545453
-Should we storm the place?,役人どもに見つからねえように—,Look for the officials-,0.1111111111111111
-Are you in pain?,痛むの？,Do you hurt?,0.2857142857142857
+I'm seriously killing!",0.17391304347826084,0.55091757
+But...,でも,but,0.5,0.72232294
+It's no big deal!,どうってことねえよ！,How is it!,0.25,0.25472593
+"What do you want us to do, big guy?",どうします？ 兄貴,What do you do?Big brother,0.4545454545454545,0.36475316
+Should we storm the place?,役人どもに見つからねえように—,Look for the officials-,0.1111111111111111,6.1067214e-05
+Are you in pain?,痛むの？,Do you hurt?,0.2857142857142857,0.75906837
 It's nothing.,"あれを
 取り返さなきゃなんねえだろうが","That
-I wonder if it will be back",0.09090909090909091
+I wonder if it will be back",0.09090909090909093,0.18261528
 "Don't you get it? If I have to, I'm gonna kill you.","分かってんのか？
 いざとなったら お前を殺すぜ","Do you understand?
-I will kill you if you",0.3333333333333333
-I met your mother.,あんたのお母さんに会ったよ,I met my mother,0.5
-Did... Did you tell her that I'm a pickpocket?!,お前 スリのこと言ったのか？,Did you tell you about Sri?,0.2857142857142857
+I will kill you if you",0.3333333333333333,0.6249028
+I met your mother.,あんたのお母さんに会ったよ,I met my mother,0.5,0.92075497
+Did... Did you tell her that I'm a pickpocket?!,お前 スリのこと言ったのか？,Did you tell you about Sri?,0.2857142857142857,0.24179195
 I don't want to make a good mother like her worry.,"あんな いいお母さんに
 心配かけたくないじゃない","To such a good mother
-I do not want to worry",0.5333333333333333
+I do not want to worry",0.5333333333333333,0.8603898
 Don't talk like you know what I'm going through.,"分かったようなこと
 言ってんじゃねえよ","What I understood
-Don't say",0.2857142857142857
-Where are your parents?,（新輔）お前の親は？,Your parent?,0.3333333333333333
+Don't say",0.2857142857142857,0.3351737
+Where are your parents?,（新輔）お前の親は？,Your parent?,0.3333333333333333,0.6668431
 My father hasn't been around for a long time.,"（フウ）
-父さんは ずっと前からいないの",My father has never been ahead,0.3076923076923077
-And my mother died a year ago.,母さんも１年前に死んじゃった,My mother also died one year ago,0.5
+父さんは ずっと前からいないの",My father has never been ahead,0.3076923076923077,0.6654258
+And my mother died a year ago.,母さんも１年前に死んじゃった,My mother also died one year ago,0.5,0.85432696
 I disobeyed my mother all the time. I made her worry about me all the time.,"私ね 母さんに
 いつも逆らってばっかで","To my mother
-I always go against it",0.16666666666666666
+I always go against it",0.16666666666666666,0.5301183
 All those things that I really wanted to tell her... That I wanted to ask her...,"ホントに言いたかったことも
 聞きたかったことも—","I also wanted to say
-I also wanted to hear-",0.2
-I need money.,俺みたいなガキを—,I like I like me-,0.16666666666666666
+I also wanted to hear-",0.2,0.32623458
+I need money.,俺みたいなガキを—,I like I like me-,0.16666666666666666,0.15448108
 are the ones with lots of it.,"世の中 金じゃないなんて
 金の余ってるやつらの言うセリフさ","It's not a middle money
-Siligs of the exterior of gold",0.1875
-"Attention, criminal!",（同心）犯人に告ぐ！,to the criminal!,0.3333333333333333
-This is your final warning!,最終宣告だ,It is the final declaration,0.2222222222222222
+Siligs of the exterior of gold",0.1875,0.23728718
+"Attention, criminal!",（同心）犯人に告ぐ！,to the criminal!,0.3333333333333333,0.6628009
+This is your final warning!,最終宣告だ,It is the final declaration,0.2222222222222222,0.44130927
 "If you haven't surrendered within a minute of sundown, we will storm the place!","金がなきゃ
 まともな薬だって買えねえ","If you have money
-It is a decent medicine because",0.17391304347826086
+It is a decent medicine because",0.17391304347826084,-0.06041836
 Got that?,"（ジン）おい
-（ムゲン）あ？",Oh?,0.25
-"- What's the deal?\N- Well, you see, a girl was taken hostage.",（ムゲン）何だ こら,What's wrong,0.1111111111111111
-Hey!,近寄るなよ いいな！,Don't get close!,0.16666666666666666
+（ムゲン）あ？",Oh?,0.25,0.4470385
+"- What's the deal?\N- Well, you see, a girl was taken hostage.",（ムゲン）何だ こら,What's wrong,0.1111111111111111,0.19233361
+Hey!,近寄るなよ いいな！,Don't get close!,0.16666666666666666,0.27072665
 "Hey, hold it! Where are you going?!","（ムゲン）あいつ！
 朝から見かけねえと思ったら","Aya!
-If you think that it is seen from morning",0.16666666666666666
+If you think that it is seen from morning",0.16666666666666666,0.18573023
 I got unfinished business with that guy!,"（ムゲン）あっ！
 見つけたぞ あのスリ野郎","!
-I found that Sri Bast",0.2727272727272727
+I found that Sri Bast",0.2727272727272727,0.20470388
 "Forget it. I can't get arrested by those guys, not now.","今やつらに
 捕まるわけにはいかねえんだ","Now
-I can't get caught",0.3333333333333333
-Then I'll be a decoy!,じゃあ 私がおとりになる,Well then I will be tired,0.3
+I can't get caught",0.3333333333333333,0.52717966
+Then I'll be a decoy!,じゃあ 私がおとりになる,Well then I will be tired,0.3,0.40792954
 You run away while I have everybody's attention.,"私がみんなの注意を引いてるうちに
 逃げて","While I draw everyone's attention
-Escape to",0.2857142857142857
-Why would you-,お前…,you…,0.0
-Who is that guy?,何者だ やつは,Who is the guy,0.5
-An idiot.,バカ者だ,It is an idiot,0.4
-Found ya!,（ムゲン）おりゃああ！,Oh!,0.25
+Escape to",0.2857142857142857,0.6296511
+Why would you-,お前…,you…,0.0,0.35803443
+Who is that guy?,何者だ やつは,Who is the guy,0.5,0.7595935
+An idiot.,バカ者だ,It is an idiot,0.4,0.66133237
+Found ya!,（ムゲン）おりゃああ！,Oh!,0.25,0.35041955
 Wait! Let the boy go!,"もういい
 片っ端から ぶっ殺せ！","enough
-Kill from the end!",0.2
-Wha- ?,はあ？,Is it?,0.25
-You can have it back!,（役人）御用だ 御用だ！,It is a useful use!,0.2
-Ow!,ああっ！,Oh!,0.3333333333333333
-"If I ever see you again, I'll repay you for what you did today.",また どっかで会ったらさ,If you meet again someday,0.1875
-So...,だからさ…,That's right ...,0.2
-Same to you! Remember me!,俺のこと 忘れんなよ！,I forgot to me!,0.375
-You can't get away!,来るなー！,Don't come!,0.25
-Stay away!,（役人）逃げたぞ 追えー！,I flew away!,0.4
-"No, I...",いえ あの…,No ...,0.5
+Kill from the end!",0.2,0.274575
+Wha- ?,はあ？,Is it?,0.25,0.25449386
+You can have it back!,（役人）御用だ 御用だ！,It is a useful use!,0.2,0.15079798
+Ow!,ああっ！,Oh!,0.3333333333333333,0.59641284
+"If I ever see you again, I'll repay you for what you did today.",また どっかで会ったらさ,If you meet again someday,0.1875,0.42636836
+So...,だからさ…,That's right ...,0.2,0.4191507
+Same to you! Remember me!,俺のこと 忘れんなよ！,I forgot to me!,0.375,0.48998603
+You can't get away!,来るなー！,Don't come!,0.25,0.47976586
+Stay away!,（役人）逃げたぞ 追えー！,I flew away!,0.4,0.4301487
+"No, I...",いえ あの…,No ...,0.5,0.7863722
 It's no big deal. I just came by to say hello.,"何でもないんです
 ちょっと顔 見にきただけ","It is not anything
-I just came to see a face",0.2631578947368421
-"Well, see you. I'll come back later.",じゃあ また来ます,Then I will come again,0.15384615384615385
-"He isn't coming back, is he?",（お初）もう帰ってこないの？,Do not come back anymore?,0.18181818181818182
+I just came to see a face",0.2631578947368421,0.25456867
+"Well, see you. I'll come back later.",じゃあ また来ます,Then I will come again,0.15384615384615385,0.4655604
+"He isn't coming back, is he?",（お初）もう帰ってこないの？,Do not come back anymore?,0.18181818181818185,0.53795755
 "It's all right. Deep down, I've always expected it.","どこかでこうなるんじゃないかって
 思ってたのよ","It's somewhere
-I thought",0.21428571428571427
+I thought",0.21428571428571427,0.27010083
 I had a feeling that something like this would happen someday.,"（お初）いいのよ
 なんか そんな気がしてたの","good
-Somehow she felt like that",0.125
-"And he paid the price for it, right? That's why he-",そうなのね？,that's it?,0.2857142857142857
+Somehow she felt like that",0.125,0.27239645
+"And he paid the price for it, right? That's why he-",そうなのね？,that's it?,0.2857142857142857,0.20985074

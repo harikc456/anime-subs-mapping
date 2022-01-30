@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,49 +9,49 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.3182521
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490634
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818449
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.381202
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.5344769
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.76468647
 <i>We should be too!</i>,"(ｲﾅﾘ)
 《僕たちだって！》
 
-","""We are us!""",0.15384615384615385
+","""We are us!""",0.15384615384615385,0.39867952
 "<i>The Weapon Known</i>
 <i>as Shinobi</i>","♬
  
@@ -61,13 +61,13 @@ ROCKS
 ","♬
  
 In the chest
-Rocks",0.07692307692307693
+Rocks",0.07692307692307693,0.17373767
 Please open up!,"ここを開けてよ！➡
 
-",Open here!➡,0.3333333333333333
+",Open here!➡,0.3333333333333333,0.63047725
 Let's go to the bridge!,"一緒に橋に行ってよ！
 
-",Go to the bridge together!,0.625
+",Go to the bridge together!,0.625,0.7856306
 "we can beat Gatô and
 his men this time!","今度こそ
  
@@ -81,7 +81,7 @@ his men this time!","今度こそ
 If everyone is
 Gateau
  
-You can do it!",0.23529411764705882
+You can do it!",0.2352941176470588,0.26115656
 Inari...,"(ｷﾞｲﾁ)
 イナリ
 ｡
@@ -89,7 +89,7 @@ Inari...,"(ｷﾞｲﾁ)
 
 ","Inari
 .
-➡",0.25
+➡",0.25,0.81559414
 "I made up my mind not
 to fight anymore.","わしは
  
@@ -103,18 +103,18 @@ to fight anymore.","わしは
 Already
 I stopped fighting
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.6190961
 Even your father...,"お前のオヤジだって…➡
 
-",It's your father ... ➡,0.42857142857142855
+",It's your father ... ➡,0.42857142857142855,0.6382849
 The man we called a hero...,"英雄と呼ばれた男だって➡
 
-",A man called hero ➡,0.5
+",A man called hero ➡,0.5,0.7758755
 "If we were to fight,
 many lives would be lost.","(ｷﾞｲﾁ)
 戦おうとすれば➡
 
-",If you try to fight,0.21428571428571427
+",If you try to fight,0.21428571428571427,0.46837205
 "I don't want lose something that's
 special to me anymore.","大切なものは
 もう失いたくない
@@ -124,12 +124,12 @@ special to me anymore.","大切なものは
 ","An important thing
 I do not want to lose anymore
 .
-➡",0.4117647058823529
+➡",0.4117647058823529,0.6321523
 No one wants to regret again.,"もう誰も後悔したくないんじゃ
 ｡
 
 ","No one doesn't want to regret
-.",0.5
+.",0.5,0.8964313
 "I don't want to regret again, either.","ぼ…
  
 僕だって後悔したくないよ
@@ -138,27 +138,27 @@ No one wants to regret again.,"もう誰も後悔したくないんじゃ
 ","...
  
 I do not want to regret
-.",0.5
+.",0.5,0.8093484
 "<i>A man should live</i>
 <i>his life without regrets.</i>","(ｶｲｻﾞ)
 ＜男なら
 後悔しない生き方を選べ＞
 
 ","<Man
-Choose how to regret less regret>",0.17647058823529413
+Choose how to regret less regret>",0.17647058823529413,0.6800699
 I love Mommy and Grampa.,"ギイチのおじちゃんも大好きだ
 ｡
 ➡
 
 ","I love Gei's uncle
 .
-➡",0.3
+➡",0.3,0.38699156
 I love all the people here!,"町のみんなが大好きなんだ！
 
-",I love everyone in the town!,0.4
+",I love everyone in the town!,0.4,0.69487035
 I finally got it!,"だから戦わなきゃ！
 
-",So I have to fight!,0.2222222222222222
+",So I have to fight!,0.2222222222222222,0.2740299
 "Inari... has grown into
 a fine man.","(ｱｶﾞﾘ)
 イナリは
@@ -169,13 +169,13 @@ a fine man.","(ｱｶﾞﾘ)
 ","Inari
  
 It became a good man
-.",0.3333333333333333
+.",0.3333333333333333,0.6158607
 "Will you just let Inari go
 there by himself?","イナリをこのまま一人で行かせて
 ｡
 
 ","Let's go one person alone
-.",0.13333333333333333
+.",0.13333333333333333,0.4539819
 Hey!,"(ｲﾅﾘ)
 開けてよ！
  
@@ -184,7 +184,7 @@ Hey!,"(ｲﾅﾘ)
 
 ","Open!
  
-Hey!",0.6666666666666666
+Hey!",0.6666666666666666,0.5498258
 I'm asking you to fight with me!,"(ｲﾅﾘ)
 お願いだよ
  
@@ -195,7 +195,7 @@ I'm asking you to fight with me!,"(ｲﾅﾘ)
 ","I hope
  
 Fight together
-.",0.16666666666666666
+.",0.16666666666666666,0.5098041
 Old man! Please listen to me!,"(ｲﾅﾘ)
 おじさん
  
@@ -204,29 +204,29 @@ Old man! Please listen to me!,"(ｲﾅﾘ)
 
 ","Uncle or Mister
  
-Listen to my story!",0.25
+Listen to my story!",0.25,0.3384046
 Why...,"どうして…➡
 
-",Why ... ➡,0.6666666666666666
+",Why ... ➡,0.6666666666666666,0.69875497
 "Why won't anyone open
 the door to me?","どうして誰も
 扉を開けてくれないんだ？
 
 ","Why everyone
-Can you open the door?",0.38461538461538464
+Can you open the door?",0.38461538461538464,0.7087247
 <i>You are strong!</i>,"(ﾅﾙﾄ)
 ＜お前は強ぇよ＞
 
-",<You are strong>,0.625
+",<You are strong>,0.625,0.90406066
 You're too ambitious for your own good.,"お前の野望は大きすぎた
 ｡
 
 ","Your ambition was too big
-.",0.25
+.",0.25,0.60106313
 "You left the service with
 few men under you,","数人の部下と共に野に下り➡
 
-",Lower down to the field with several subordinates,0.13333333333333333
+",Lower down to the field with several subordinates,0.13333333333333333,0.34625465
 and became a Rogue Ninja.,"そして
  
 クーデター失敗
@@ -237,7 +237,7 @@ and became a Rogue Ninja.,"そして
  
 Coup deaf
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.34534854
 "Soon after, your name reached
 our Hidden Leaf Village.","お前の名前は
  
@@ -251,7 +251,7 @@ our Hidden Leaf Village.","お前の名前は
 straight away
 It was also conveyed to the village of Kinoha
 .
-➡",0.17391304347826086
+➡",0.17391304347826084,0.50866055
 "from the Tracking Unit's
 pursuit and retaliation.","そして
  
@@ -265,27 +265,27 @@ pursuit and retaliation.","そして
 Withdrawal of draft
 To escape from retaliation
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.3399432
 "Do you really believe I've managed
 to survive with just Sharingan?","写輪眼だけで
 生きてきたと思うか？➡
 
 ","Only the eyeball eye
-Do you think you have lived?➡",0.14285714285714285
+Do you think you have lived?➡",0.14285714285714285,0.31542853
 "Here's something I didn't copy,
 a technique of my own...","俺自身の術を…➡
 
-",My own surgery ... ➡,0.1875
+",My own surgery ... ➡,0.1875,0.24673879
 to enlighten you!,"再不斬
  
 お前はこの俺が➡
 
 ","Re-denious
  
-You are this one",0.125
+You are this one",0.125,0.19658667
 Lightning Blade!,"雷切！
 
-",Lightning!,0.6666666666666666
+",Lightning!,0.6666666666666666,0.7954924
 What the...?!,"(
 再不斬
 )
@@ -299,7 +299,7 @@ What the...?!,"(
  
 What?
  
-Chakra is ➡",0.3333333333333333
+Chakra is ➡",0.3333333333333333,0.22595035
 You are too dangerous.,"(ｶｶｼ)
 お前は危険すぎる
 ｡
@@ -307,13 +307,13 @@ You are too dangerous.,"(ｶｶｼ)
 
 ","You are too dangerous
 .
-➡",0.8333333333333334
+➡",0.8333333333333334,0.88766015
 "Tazuna, the man you are trying
 to assassinate,","お前が殺そうとしている
 タズナさんは➡
 
 ","You are about to kill
-Tazna is ➡",0.21428571428571427
+Tazna is ➡",0.21428571428571427,0.6409981
 "is the symbol of courage
 in this land!","この国の勇気だ
 ｡
@@ -321,7 +321,7 @@ in this land!","この国の勇気だ
 
 ","It is the courage of this country
 .
-➡",0.38461538461538464
+➡",0.38461538461538464,0.70199615
 "The bridge he is building
 is the hope of this land!","この国の希望だ
 ｡
@@ -329,7 +329,7 @@ is the hope of this land!","この国の希望だ
 
 ","It is the hope of this country
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.41395327
 "And your ambitions will
 sacrifice countless lives.","お前の野望は
 多くの人を犠牲にする
@@ -339,7 +339,7 @@ sacrifice countless lives.","お前の野望は
 ","Your ambition is
 Sacrifice many people
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.7203777
 "I have always fought for
 my own ideals.","俺は
  
@@ -353,21 +353,21 @@ my own ideals.","俺は
 For my ideal
 I fought
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.7165481
 And that will never ever change!,"そういうのは➡
 
-",That's why,0.1111111111111111
+",That's why,0.1111111111111111,0.1584714
 I'll say it again.,"忍のやることじゃないんだよ
 ｡
 
 ","It's not something to do
-.",0.18181818181818182
+.",0.18181818181818185,0.21358146
 Give up.,"(ｶｶｼ)
 諦めろ
 ｡
 
 ","Giving up
-.",0.5
+.",0.5,0.8084313
 Your future is... death!,"(ｶｶｼ)
 お前の未来は
  
@@ -377,7 +377,7 @@ Your future is... death!,"(ｶｶｼ)
 ","Your future
  
 Dead
-.",0.25
+.",0.25,0.79743826
 I want you to kill me.,"(
 白
 )
@@ -387,17 +387,17 @@ I want you to kill me.,"(
 
 ","Naruto
 Please kill me
-.",0.3333333333333333
+.",0.3333333333333333,0.48752177
 What are you hesitating for?,"何を
  
 ちゅうちょしているんです？
 
 ","what
  
-Are you doing?",0.5714285714285714
+Are you doing?",0.5714285714285714,0.527942
 I just don't get it!,"納得いかねえ！
 
-",I'm convinced!,0.2222222222222222
+",I'm convinced!,0.2222222222222222,0.25193983
 "The only reason you are allowed
 to live is because you stay strong?","お前が
  
@@ -407,33 +407,33 @@ to live is because you stay strong?","お前が
 ","you
  
 It is good to be in this world
-Is it a reason?",0.25
+Is it a reason?",0.25,0.4815917
 "There must be something other
 than just fighting...","戦う以外でだってよ
 ほかの何かで➡
 
 ","It is not another than fighting
-Other than anything else",0.2
+Other than anything else",0.2,0.74881524
 "Remember when we met at the forest?
 Do you know what I thought?","君と森で会った日➡
 
-",The day I met in the forest,0.25
+",The day I met in the forest,0.25,0.7001622
 I'm sure you can relate to me.,"君は僕と似ていると➡
 
-",If you are similar to me,0.25
+",If you are similar to me,0.25,0.49689138
 Is that it?,"それしか方法はねえのか？
 
-",Is it how to do it?,0.42857142857142855
+",Is it how to do it?,0.42857142857142855,0.3226611
 No.,"はい
 ｡
 
 ","Yes
-.",0.3333333333333333
+.",0.3333333333333333,0.73030436
 we could've been friends.,"友達になれたかもな
 ｡
 
 ","Maybe I could be a friend
-.",0.18181818181818182
+.",0.18181818181818185,0.65741146
 "<i>Please...promise you will</i>
 <i>grasp your dream.</i>","(
 白
@@ -442,7 +442,7 @@ we could've been friends.,"友達になれたかもな
 夢をつかみ取ってください》
 
 ","""You are
-Please get a dream",0.11764705882352941
+Please get a dream",0.1176470588235294,0.5668089
 "<i>Thank you...</i>
 <i>You will become stronger.</i>","(
 白
@@ -453,17 +453,17 @@ Please get a dream",0.11764705882352941
 
 ","""Thank you
  
-You get stronger """,0.15384615384615385
+You get stronger """,0.15384615384615385,0.7364875
 Hmm...,"はあー！
 
-",Hmm!,0.3333333333333333
+",Hmm!,0.3333333333333333,0.7206716
 There are two over there!,"サスケにも
  
 夢があったんだ！》
 
 ","In Sasuke
  
-There was a dream!""",0.18181818181818182
+There was a dream!""",0.18181818181818185,0.20825627
 They are facing off each other.,"(ﾀｽﾞﾅ)
 あ？
  
@@ -473,21 +473,21 @@ They are facing off each other.,"(ﾀｽﾞﾅ)
 ","Ah?
  
 It looks good
-.",0.08333333333333333
+.",0.08333333333333333,0.08273414
 Which one is Kakashi Sensei...,"どっちが
  
 カカシ先生？
 
 ","which 
  
- teacher Kakashi?",0.25
+ teacher Kakashi?",0.25,0.67354244
 One moved!,"あっ
  
 動いた！
 
 ","Ah 
  
- moved!",0.5
+ moved!",0.5,0.7158549
 "Forgive me, Naruto...","ごめんなさい
  
 ナルト君
@@ -496,7 +496,7 @@ One moved!,"あっ
 ","sorry
  
 Naruto
-.",0.14285714285714285
+.",0.14285714285714285,0.8432085
 I cannot die yet!,"(
 白
 )
@@ -508,21 +508,21 @@ I cannot die yet!,"(
 ","I
  
 I will not die yet
-.",0.5
+.",0.5,0.7844754
 What was that?,"あっ！
 (ﾀｽﾞﾅ)
 何じゃ？
 
 ","Ah!
 
-What is it?",0.25
+What is it?",0.25,0.43792266
 "Did you say my future
 was death?","(
 再不斬
 )
 俺様の未来が死だと？➡
 
-",When my future is dead?➡,0.25
+",When my future is dead?➡,0.25,0.69026995
 No...,"(
 白
 )
@@ -530,7 +530,7 @@ No...,"(
 ｡
 
 ","Re-denomination ...
-.",0.25
+.",0.25,0.17540705
 "I went all over the town,
 but no one wants to come.","町じゅう回ったけど
 誰も一緒に来てくれないんだ
@@ -538,13 +538,13 @@ but no one wants to come.","町じゅう回ったけど
 
 ","I went around the town
 No one comes together
-.",0.4117647058823529
+.",0.4117647058823529,0.7636023
 But...,"(ﾂﾅﾐ)
 だからって…
 ｡
 
 ","So ...
-.",0.25
+.",0.25,0.6241293
 "Wait!
 You're just a child!","(ﾂﾅﾐ)
 待って！
@@ -555,7 +555,7 @@ You're just a child!","(ﾂﾅﾐ)
 ","hang on!
 you
  
-Is it still a child?",0.3076923076923077
+Is it still a child?",0.3076923076923077,0.5540426
 "I may be a child, but I already
 know what it means to fight.","(ｲﾅﾘ)
 僕は
@@ -564,12 +564,12 @@ know what it means to fight.","(ｲﾅﾘ)
 
 ","I
  
-It is still a child but",0.29411764705882354
+It is still a child but",0.29411764705882354,0.3848964
 Because I'm my father's son!,"僕は父ちゃんの息子だから
 ｡
 
 ","Because I am a father's son
-.",0.45454545454545453
+.",0.4545454545454545,0.9207187
 "Wait a moment, Inari!","(ﾂﾅﾐ)
 待ちなさい
  
@@ -577,28 +577,28 @@ Because I'm my father's son!,"僕は父ちゃんの息子だから
 
 ","Wait
  
-Inari!",0.5
+Inari!",0.5,0.8382566
 Where did he go...?,"あいつ
  
 どこへ？
 
 ","that person 
  
- where?",0.25
+ where?",0.25,0.3452976
 Huh?!,"ん？
  
 あそこか！》
 
 ","Yeah?
  
-I wonder!""",0.2857142857142857
+I wonder!""",0.2857142857142857,0.38245174
 What the heck is going on here?!,"《よく見たら
  
 いつの間にか➡
 
 ","""If you look closely
  
-What time is it?",0.1875
+What time is it?",0.1875,0.07777097
 Isn't that the masked boy?,"(ﾀｽﾞﾅ)
 あれは
  
@@ -608,7 +608,7 @@ Isn't that the masked boy?,"(ﾀｽﾞﾅ)
 ","That is
  
 Boy's boy
-.",0.3333333333333333
+.",0.3333333333333333,0.6135454
 "You did great, Haku.","(
 再不斬
 )
@@ -624,17 +624,17 @@ Boy's boy
 Stunning
  
 White
-.",0.1
+.",0.1,0.23362026
 Kakashi Sensei!,"カカシ先生！
 
-",teacher Kakashi!,0.5
+",teacher Kakashi!,0.5,0.72157145
 "<i>He intends to slash me</i>
 <i>along with the boy?!</i>","(ｶｶｼ)
 《この子ごと
 俺を斬るつもりか!?》
 
 ","""Each child
-Are you going to kill me?",0.13636363636363635
+Are you going to kill me?",0.13636363636363635,0.31286716
 That was really a great find I made!,"(
 再不斬
 )
@@ -650,7 +650,7 @@ That was really a great find I made!,"(
 Well
 I made a good pick
 .
-➡",0.1875
+➡",0.1875,0.3249473
 "<i>I have to leave</i>
 <i>Land of Water as of tonight.</i>","こよいかぎり
 俺は水の国を捨てる
@@ -660,7 +660,7 @@ I made a good pick
 ","Crisp
 I throw away the water country
 .
-➡",0.10526315789473684
+➡",0.10526315789473684,0.49009776
 "<i>However, I'll return</i>
 <i>to this land someday.</i>","しかし
  
@@ -678,7 +678,7 @@ I am
  
 I will come back to this country
 .
-➡",0.2
+➡",0.2,0.5563417
 <i>What I really need is...</i>,"本当に必要なのは…＞
 (
 白
@@ -691,25 +691,25 @@ I will come back to this country
 
 <I know
 .
-➡",0.5833333333333334
+➡",0.5833333333333334,0.75578004
 "<i>Keep me by you as a mere tool</i>
 <i>that heeds your every word.</i>","言いつけを守る
 ただの道具として➡
 
 ","Protect
-As a tool",0.16666666666666666
+As a tool",0.16666666666666666,0.41968217
 <i>You're a good boy!</i>,"(
 再不斬
 )
 ＜いい子だ＞
 
-",<It is a good child>,0.3076923076923077
+",<It is a good child>,0.3076923076923077,0.5617459
 "Haku died and you were
 able to move, huh?","白が死んで動けたのか
 ｡
 
 ","White died and moved
-.",0.14285714285714285
+.",0.14285714285714285,0.3423913
 Naruto!,"許せねえ
 ｡
 (ｶｶｼ)
@@ -718,16 +718,16 @@ Naruto!,"許せねえ
 ","Forgive
 .
 
-Naruto!➡",0.4
+Naruto!➡",0.4,0.7338735
 This is...,"(ｶｶｼ)
 こいつは…➡
 
-",This guy ... ➡,0.4
+",This guy ... ➡,0.4,0.39069903
 my battle!,"俺の戦いだ
 ｡
 
 ","My fight
-.",0.2
+.",0.2,0.73031485
 "Naruto!
 It's good to see you!","ナルト！
  
@@ -735,10 +735,10 @@ It's good to see you!","ナルト！
 
 ","Naruto!
  
-It was safe!",0.3
+It was safe!",0.3,0.69381535
 Where's Sasuke?,"サスケ君は？
 
-",Sasuke?,0.5
+",Sasuke?,0.5,0.86972785
 "Naruto!
 Where is Sasuke?","ナルト…
  
@@ -750,16 +750,16 @@ Where is Sasuke?","ナルト…
  
 Sasuke is
  
-Where?",0.5714285714285714
+Where?",0.5714285714285714,0.9665278
 Sakura...,"(ｶｶｼ)
 サクラ…
 ｡
 
 ","Sakura ...
-.",0.6666666666666666
+.",0.6666666666666666,0.99699247
 Kakashi!,"おっ！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.2037139
 "That way, you won't be going
 against your Sensei's word.","わしも一緒に行こう
  
@@ -767,17 +767,17 @@ against your Sensei's word.","わしも一緒に行こう
 
 ","Let's go together
  
-If so,",0.10526315789473684
+If so,",0.10526315789473684,0.103976116
 Sasuke...,"はぁ…
 ｡
 
 ","...
-.",0.3333333333333333
+.",0.3333333333333333,0.19592997
 "This isn't Genjutsu, is it?","これはもう幻術じゃないのね
 ｡
 
 ","This is not an illusion
-.",0.18181818181818182
+.",0.18181818181818185,0.17942195
 "I-I always got perfect scores
 at the Ninja Academy...","私
  
@@ -785,20 +785,20 @@ at the Ninja Academy...","私
 
 ","Me
  
-Always in the test of ninja school",0.2
+Always in the test of ninja school",0.2,0.7609298
 All the tests were a breeze.,"100
 以上もある忍の心得を
 全部覚えてて➡
 
 ","100
 Above the above
-Remember all ➡ ➡",0.18181818181818182
+Remember all ➡ ➡",0.18181818181818185,0.09503247
 "As always, I simply wrote down
 the answer without batting an eye.","いつも得意げに答えを書いてた
 ｡
 
 ","I always wrote the answer to the guarantee
-.",0.375
+.",0.375,0.3500691
 "under any circumstances,
 no matter what...","｢
 忍は
@@ -806,7 +806,7 @@ no matter what...","｢
 
 ","""
 Shinobu
-In what circumstances",0.18181818181818182
+In what circumstances",0.18181818181818185,0.24369799
 "A Ninja must have the strength
 of character never to shed any tears...""","何事にも
 涙を見せぬ心を持つべし
@@ -818,7 +818,7 @@ of character never to shed any tears...""","何事にも
 I have a heartbreaking heart
 ""
 In
-.",0.14285714285714285
+.",0.14285714285714285,0.22681968
 <i>Is this...how it must be for a Shinobi?</i>,"(ﾀｽﾞﾅ)
 《これが…
 これが忍というものか
@@ -828,7 +828,7 @@ In
 ","""This is…
 Is this a lone
 .
-➡",0.15
+➡",0.15,0.22139639
 "<i>Why...?</i>
 <i>Why can't I keep up?</i>","なぜ
  
@@ -836,13 +836,13 @@ Is this a lone
 
 ","why
  
-Can't follow me?",0.3076923076923077
+Can't follow me?",0.3076923076923077,0.41739243
 Darn you!,"(
 再不斬
 )
 くっそ～！
 
-",Clues ~!,0.2
+",Clues ~!,0.2,0.29479915
 "You can't possibly defeat me
 the way you are now.","(ｶｶｼ)
 今のお前では
@@ -851,14 +851,14 @@ the way you are now.","(ｶｶｼ)
 
 ","Now in you
 I can not beat me
-.",0.25
+.",0.25,0.6530083
 "You still don't know...
 What true strength means!","(
 再不斬
 )
 何だと？
 
-",What did you say?,0.14285714285714285
+",What did you say?,0.14285714285714285,0.15416688
 "Goodbye, Demon!","(ｶｶｼ)
 さよならだ
  
@@ -868,7 +868,7 @@ What true strength means!","(
 ","Goodbye
  
 Demon
-.",0.4
+.",0.4,0.90911305
 "Both your arms have
 now been disabled.","(ｶｶｼ)
 これで両腕が使えなくなったな
@@ -877,23 +877,23 @@ now been disabled.","(ｶｶｼ)
 
 ","Now both arms can not be used
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.7547517
 "Oh!
 You really got it this time.","本当の強さってやつを
 ｡
 
 ","Really strong guy
-.",0.18181818181818182
+.",0.18181818181818185,0.14592806
 "Don't you have anything
 to say, Zabuza?!","♬
  Don't try to live so wise.
 
 ","♬
- Don't Try To Live So Wise.",0.17647058823529413
+ Don't Try To Live So Wise.",0.17647058823529413,0.1873281
 You really don't feel anything?!,"♬
  Don't cry
 coz you're so right.
 
 ","♬
  Don't Cry
-COZ YOU'RE SO RIGHT.",0.2
+COZ YOU'RE SO RIGHT.",0.2,0.4007987

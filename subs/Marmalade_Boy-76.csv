@@ -1,257 +1,257 @@
-en_text,jp_text,google_translated,score
-MARMALADE BOY,♪～,♪ ~,0.0
-ima ichiban aitsu no egao wo mitai,～♪,~ ♪,0.0
-Let's stay together.,（遊(ゆう)）一緒に生きていこう,) Let's live together,0.42857142857142855
-Yuu...,（光希(みき)）遊…,) Yu ...,0.25
-I can't lie to myself anymore!,もう 自分の心を偽りたくないんだ,I do not want to fake my heart anymore,0.21428571428571427
-I was thinking the same thing!,私も！ 私も 遊と同じこと考えてた,Me too!I also thought about the same thing as,0.38461538461538464
+en_text,jp_text,google_translated,score,semantic_score
+MARMALADE BOY,♪～,♪ ~,0.0,0.119944766
+ima ichiban aitsu no egao wo mitai,～♪,~ ♪,0.0,0.16933626
+Let's stay together.,（遊(ゆう)）一緒に生きていこう,) Let's live together,0.42857142857142855,0.7199857
+Yuu...,（光希(みき)）遊…,) Yu ...,0.25,0.70532477
+I can't lie to myself anymore!,もう 自分の心を偽りたくないんだ,I do not want to fake my heart anymore,0.21428571428571427,0.40438944
+I was thinking the same thing!,私も！ 私も 遊と同じこと考えてた,Me too!I also thought about the same thing as,0.38461538461538464,0.58257234
 - Aren't you worried?\N- What?,"不安じゃないか？
 （光希）えっ？","Aren't you anxious?
- Eh?",0.4
-About our future.,これからの俺たちのこと,From now on our,0.14285714285714285
+ Eh?",0.4,0.6190236
+About our future.,これからの俺たちのこと,From now on our,0.14285714285714285,0.44147706
 I'd be lying if I said I wasn't.,"う～ん… 全然ないって言ったら
 ウソになるけど","Hmm ... If you say that there is no at all
-I will be a lie",0.13636363636363635
-Even if we can't get married?,結婚できなくてもか？,May I get married?,0.3
+I will be a lie",0.13636363636363635,0.39913878
+Even if we can't get married?,結婚できなくてもか？,May I get married?,0.3,0.66293657
 "We can't have kids, either.","もう どんなことがあったって
 一緒にいる","Whatever you have anymore
-Together",0.08333333333333333
-...without kids.,あっ… うん,Oh ... yeah,0.16666666666666666
+Together",0.08333333333333333,0.16726053
+...without kids.,あっ… うん,Oh ... yeah,0.16666666666666666,0.20837374
 ...is for us to live happily together.,"ず～っと一緒に仲良く暮らせたら
 それでいい","If you can live along well together
-That's fine",0.11764705882352941
-Yuu!,（ウィル）ユウ！,Yuu!,1.0
-"Yes, we'll stay together.",ああ　これからも ずっと一緒だ,"Oh, from now on",0.09090909090909091
+That's fine",0.1176470588235294,0.6054073
+Yuu!,（ウィル）ユウ！,Yuu!,1.0,1.0000002
+"Yes, we'll stay together.",ああ　これからも ずっと一緒だ,"Oh, from now on",0.09090909090909093,0.20072904
 Do you really know what you're doing?,"（ドリス）自分たちが 何を
 しようとしてるか分かってるの？","What are you doing
-Do you know if you are trying to do?",0.5
+Do you know if you are trying to do?",0.5,0.6110612
 It'll be hard.,"俺たち 結婚もできない
 子供だって持てない","We can not marry
-I can not hold it",0.09090909090909091
+I can not hold it",0.09090909090909093,0.18604626
 Are you sure? What about your parents?,"けど お前らの両親は？
 ショック受けるぜ","But what is your parents?
-Shock receives",0.3333333333333333
+Shock receives",0.3333333333333333,0.46190488
 And there are people...,"差別するヤツだって
 いっぱい いるしね","It is a guy who discriminates
-There are a lot",0.16666666666666666
+There are a lot",0.16666666666666666,0.19556536
 And there are lots of persecuted\Npeople in this country...,"この国にも 大勢いるじゃないか
 （ドリス）それはそうだけど…","It is not a lot in this country
- That's right ...",0.2222222222222222
+ That's right ...",0.2222222222222222,0.35683662
 ...who live strong despite it.,"それに 差別されても
 頑張ってる人間は―","Even if it is discriminated
-Human who work hard-",0.14285714285714285
-"I know, but...",アッ…,...,0.2
+Human who work hard-",0.14285714285714285,0.1978963
+"I know, but...",アッ…,...,0.2,0.3415432
 "Anyway, we need each other.","とにかく
 俺たちは お互いが必要なんだ","anyway
-We need each other",0.7142857142857143
+We need each other",0.7142857142857143,0.952154
 I'm not afraid to do anything...,"私も 遊と一緒にいるためなら
 どんなことだって怖くない","If I'm also playing with play
-I'm not scared",0.21428571428571427
+I'm not scared",0.21428571428571427,0.50595593
 You win!,"（ブライアン）負けたよ
 お前たちにゃ！","lost
-You are!",0.4
+You are!",0.4,0.43710122
 I have stuff to take care of...,"俺は いろいろ後始末があるから
 一緒に帰れないけど…","Because I have a lot of start
-I can not go back together ...",0.23529411764705882
-I hope there's a seat available.,空席があればいいけどな,I wish I had a vacant seat,0.2727272727272727
-Miki!,（留美(るみ)）光希！,Miki!,1.0
-Satoshi-san!,悟史(さとし)さん！,Goshiya !,0.3333333333333333
+I can not go back together ...",0.2352941176470588,0.26307398
+I hope there's a seat available.,空席があればいいけどな,I wish I had a vacant seat,0.2727272727272727,0.68181646
+Miki!,（留美(るみ)）光希！,Miki!,1.0,1.0000001
+Satoshi-san!,悟史(さとし)さん！,Goshiya !,0.3333333333333333,0.51327944
 When we heard that you were missing...,"あなたが
 行方不明になったって聞いて","you
-I heard that it was missing",0.36363636363636365
+I heard that it was missing",0.3636363636363637,0.67400175
 ...we felt so hopeless.,"（留美）アア…
 （遊）父さんたちまで…","Aoa ...
- Father to father ...",0.1111111111111111
-"I'm so sorry, but how did you know?",ごめんなさい　でも どうして？,I'm sorry if I do?,0.3076923076923077
-I only called Satoshi-san.,悟史さんには連絡入れたけど…,I contacted Mr. Gosho ...,0.1111111111111111
-But I didn't think everyone would show up.,みんな もうダメかと思って…,I think everyone is no good ...,0.21428571428571427
-"Thank you, Meiko!",（光希）ありがとう 茗子,Thank you very much,0.2857142857142857
+ Father to father ...",0.1111111111111111,0.17149004
+"I'm so sorry, but how did you know?",ごめんなさい　でも どうして？,I'm sorry if I do?,0.3076923076923077,0.39623517
+I only called Satoshi-san.,悟史さんには連絡入れたけど…,I contacted Mr. Gosho ...,0.1111111111111111,0.25207156
+But I didn't think everyone would show up.,みんな もうダメかと思って…,I think everyone is no good ...,0.21428571428571427,0.3012018
+"Thank you, Meiko!",（光希）ありがとう 茗子,Thank you very much,0.2857142857142857,0.34734473
 Despite what happened...,"お前らが兄妹だって分かって
 あんなことに なったってのはね…","I understand that you are my brother and sister
-That's what happened ...",0.21428571428571427
-I'm so relieved!,言ってないよ,I'm not saying,0.2857142857142857
-...it's kind of silly to just go back.,（光希）それがね…,That's it ...,0.25
+That's what happened ...",0.21428571428571427,0.30373722
+I'm so relieved!,言ってないよ,I'm not saying,0.2857142857142857,0.024747696
+...it's kind of silly to just go back.,（光希）それがね…,That's it ...,0.25,0.18745878
 We got lots of vacation time because\Nour daughter was missing.,"“娘が行方不明だ”って
 しっかり 休暇もらったんだしね","""Daughter is missing""
-I got a vacation firmly",0.23529411764705882
-Way to take advantage\Nof your daughter's misfortune!,もう 娘の不幸を利用して！,Using the daughter's misery!,0.25
+I got a vacation firmly",0.2352941176470588,0.7448381
+Way to take advantage\Nof your daughter's misfortune!,もう 娘の不幸を利用して！,Using the daughter's misery!,0.25,0.70111215
 "So, what happened between you two?","（茗子）それで
-松浦(まつうら)君とのことは どうなったの？",Matsuura  What happened to you with you?,0.36363636363636365
+松浦(まつうら)君とのことは どうなったの？",Matsuura  What happened to you with you?,0.3636363636363637,0.5500751
 How should I explain this?,"アア… どうやって
 説明したらいいんだろう？","Oh ... how to do
-Should I explain?",0.5
+Should I explain?",0.5,0.67532146
 I bet you'll be very surprised.,"きっと
 すっごく驚くと思うんだけど…","surely
-I'm very surprised but ...",0.25
-Actually...,実は そのことについて―,Actually about that-,0.25
+I'm very surprised but ...",0.25,0.728596
+Actually...,実は そのことについて―,Actually about that-,0.25,0.3813803
 ...I'd like to talk to everyone about it later.,"あとで みんなに
 話しておきたいことがあるんだ","Everybody
-I have something I want to talk",0.2
-Let's check out Yuu-kun's school first!,まずは 遊君の学校を見たいわ！,"First of all, I would like to see Your school!",0.17647058823529413
+I have something I want to talk",0.2,0.41231006
+Let's check out Yuu-kun's school first!,まずは 遊君の学校を見たいわ！,"First of all, I would like to see Your school!",0.17647058823529413,0.39245793
 Please form a line so you won't get lost!,"（遊）
 はいはい！ 迷子にならないように
 並んで並んで","Yes!Don't get lost
-A side by side",0.3333333333333333
+A side by side",0.3333333333333333,0.275591
 And this is my dorm.,"（遊）そして これが寮
 （留美）学校といい 寮といい―","and this is dormitory
- School and good dormitories-",0.3
+ School and good dormitories-",0.3,0.7197483
 ...are much nicer than I expected!,"思ってた以上に
 すばらしい環境ね！","More than I thought
-A wonderful environment!",0.23076923076923078
+A wonderful environment!",0.2307692307692308,0.33104846
 "Hi, everyone!","ハ～イ みんな！
 （千弥子）マイケル！","Hi ~ everyone!
- Michael!",0.5
-Long time no see!,（千弥子）久しぶりね！,a long time!,0.5
-Are you doing okay?,（千弥子）あら？,?,0.2
+ Michael!",0.5,0.6528188
+Long time no see!,（千弥子）久しぶりね！,a long time!,0.5,0.639346
+Are you doing okay?,（千弥子）あら？,?,0.2,0.15632008
 "This is Brian, Doris...","ブライアン　ドリス　ジニー
 そしてウィル　みんな俺の友達だ","Brian Doris Ginny
-And Every Everyone My Friend",0.16666666666666666
-Thank you for taking good care of Yuu and Miki.,どうも ありがとう,Thank you very much,0.15384615384615385
+And Every Everyone My Friend",0.16666666666666666,0.6000813
+Thank you for taking good care of Yuu and Miki.,どうも ありがとう,Thank you very much,0.15384615384615385,0.32252014
 Such a strange mood.,"な… なんか妙なムード
 （千弥子）ねえ？","What a strange mood
- Hey?",0.375
-This is important...,（遊）これは大切な話だから―,Because this is an important story-,0.42857142857142855
+ Hey?",0.375,0.77913165
+This is important...,（遊）これは大切な話だから―,Because this is an important story-,0.42857142857142855,0.42597586
 "...so we want Satoshi-san\Nand Akizuki to hear it, too.","悟史さんや秋月(あきづき)にも
 聞いてもらいたいと思って","Gosho and Akizuki 
-I want to ask",0.1875
-"So, what is it about?!",話って 一体 何なんだい？,What is the one?,0.3
+I want to ask",0.1875,0.42112476
+"So, what is it about?!",話って 一体 何なんだい？,What is the one?,0.3,0.19080518
 Dad and Rumi-san.,"（遊）
-仁さんと母さん 留美さんと父さん",Hito and Mother Rumi and Father,0.125
-I know you dated in college.,俺たち 知ってるんだ,I know us,0.25
-I saw...,（両親たち）ハッ…,Ha ...,0.25
-So you know!,アハハッ… 知ってたのか！,Ahaha ... Did you know!,0.42857142857142855
-It's an old story...,いや 昔の話だし,It's a story old,0.5714285714285714
+仁さんと母さん 留美さんと父さん",Hito and Mother Rumi and Father,0.125,0.682356
+I know you dated in college.,俺たち 知ってるんだ,I know us,0.25,0.3143741
+I saw...,（両親たち）ハッ…,Ha ...,0.25,0.361537
+So you know!,アハハッ… 知ってたのか！,Ahaha ... Did you know!,0.42857142857142855,0.42826265
+It's an old story...,いや 昔の話だし,It's a story old,0.5714285714285714,0.7899483
 ...and we didn't think it'd be\Na problem if we didn't tell you.,"お前たちには 言わなくても
 問題ないと思ったしさ…","Even if you don't say it
-I thought there was no problem ...",0.2727272727272727
-You switched partners...,（両親たち）アア…,Aoa ...,0.2
+I thought there was no problem ...",0.2727272727272727,0.59411544
+You switched partners...,（両親たち）アア…,Aoa ...,0.2,0.23356578
 ...to go back to the original couples.,"パートナー交換は
 実は 元のカップルに戻っただけ","Partner replacement
-Actually I just returned to the original couple",0.2
+Actually I just returned to the original couple",0.2,0.46795502
 We didn't have to know about that.,"（遊）そのために 俺と光希が
 どれほど苦しい思いをしたか","To do that, I and Miki
-How painful?",0.11764705882352941
-...that we were blood brother and sister?!,“お前たちは兄妹だ”って！,"""You are my brother and sister""!",0.26666666666666666
+How painful?",0.1176470588235294,0.12544787
+...that we were blood brother and sister?!,“お前たちは兄妹だ”って！,"""You are my brother and sister""!",0.26666666666666666,0.6092131
 ...we wouldn't have fallen in love.,"それが分かってたら
 俺と光希は 恋したりしなかった","If you understand it
-I did not fall in love with me",0.10526315789473684
+I did not fall in love with me",0.10526315789473684,0.5772426
 Hey...,"（遊）でも もう遅い
 （要士）あの…","too late
- That ...",0.2
+ That ...",0.2,0.3836566
 We both need each other.,"（遊）俺たちは お互いが必要で
 誰が何と言おうと もう離れない","We need each other
-I can not leave anyone",0.36363636363636365
+I can not leave anyone",0.3636363636363637,0.6851525
 Who's brother and sister?,"誰と誰が 兄妹ですって？
 （遊）俺と光希だよ！","Who and who are my brother and sister?
- I and Mitsu!",0.45454545454545453
+ I and Mitsu!",0.4545454545454545,0.72343594
 Miki and I!,"（笑い声）
-（千弥子）イヤね もう！",I guy!,0.4
+（千弥子）イヤね もう！",I guy!,0.4,0.32866973
 Are you crazy?,"（笑い声）
-（千弥子）何言ってるの！",What are you saying!,0.2857142857142857
-No can do.,つきあおうと 何しようと ご自由に,Let's do what to do with it,0.1
+（千弥子）何言ってるの！",What are you saying!,0.2857142857142857,0.26809192
+No can do.,つきあおうと 何しようと ご自由に,Let's do what to do with it,0.1,0.27062476
 Yuu is my and Chiyako's son.,"大体ね 私たちが
 あんたたちが つきあってるの―","Most of us
-Antata is having her.",0.14285714285714285
-Really?,ホント,really,0.5
+Antata is having her.",0.14285714285714285,0.27462155
+Really?,ホント,really,0.5,0.7202656
 What about the baby you and my dad had?,"じゃ
 千弥子さんとパパの赤ちゃんは？","well
-What is a baby of Chihoko and dad?",0.3333333333333333
-Unfortunately...,（遊）アア…,Aa ...,0.3333333333333333
+What is a baby of Chihoko and dad?",0.3333333333333333,0.45510107
+Unfortunately...,（遊）アア…,Aa ...,0.3333333333333333,0.12936893
 Did you really think that we didn't know...,"知らなかったとでも思ってたの？
 （光希）ええっ？","Didn't you know that I did not know?
- yeah?",0.38461538461538464
+ yeah?",0.38461538461538464,0.61139166
 We pretended not to notice your little affair.,"あっ…
 （要士）お前の優秀な頭脳は―","Ah…
- Your talented brain-",0.08333333333333333
-...our family situation more complicated.,もともと型破りな家族なんだもの,Originally torrent family,0.1111111111111111
+ Your talented brain-",0.08333333333333333,0.034849286
+...our family situation more complicated.,もともと型破りな家族なんだもの,Originally torrent family,0.1111111111111111,0.24621418
 I'm quite upset...,"俺譲りなんだぞ！
 （遊）ごめん","I'm giving me!
-Sorry",0.2222222222222222
+Sorry",0.2222222222222222,0.120770864
 ...that you thought I wasn't your real father.,"遊が俺を ずっと実の
 父親じゃないなんて思ってたとは…","Yu has always been real
-I thought it was not my father ...",0.3333333333333333
-Because...,アア…,Oh ...,0.3333333333333333
-I love you!,大好き！ 大好き 遊！,really like!I love you!,0.6666666666666666
+I thought it was not my father ...",0.3333333333333333,0.63962436
+Because...,アア…,Oh ...,0.3333333333333333,0.45150563
+I love you!,大好き！ 大好き 遊！,really like!I love you!,0.6666666666666666,0.6570908
 "...this time, okay?","私たち
 今度こそ ホントに幸せになろうね","we
-This time I will be happy with her really",0.14285714285714285
+This time I will be happy with her really",0.14285714285714285,0.16015477
 We'll be late!,"（要士）
-遅れるわけには いきませんよ",I will not go out to be late,0.18181818181818182
-Sorry!,助かっちゃった！,I helped!,0.25
-I was looking for lower heels.,（務(つとむ)）よ～し できた！,) I was able to do it!,0.15384615384615385
+遅れるわけには いきませんよ",I will not go out to be late,0.18181818181818185,0.5479293
+Sorry!,助かっちゃった！,I helped!,0.25,0.33662996
+I was looking for lower heels.,（務(つとむ)）よ～し できた！,) I was able to do it!,0.15384615384615385,0.09849076
 It's an important party.,"（仁）今日は
 大切なパーティーなんだから","Today
-Because it is an important party",0.4444444444444444
-Shall we bring out the cake now?,亜梨実さんの手作りなんだって？,What is the handmade of Asia Far?,0.14285714285714285
+Because it is an important party",0.4444444444444444,0.6998886
+Shall we bring out the cake now?,亜梨実さんの手作りなんだって？,What is the handmade of Asia Far?,0.14285714285714285,0.08990401
 What the heck are you doing?!,"な… 何しやがんでえ！
 （マイケル）ナイス 務！","... What do you do?
- Nice work!",0.3333333333333333
-"Nice, Tsutomu!",アアッ！,Ah!,0.2
+ Nice work!",0.3333333333333333,0.40819812
+"Nice, Tsutomu!",アアッ！,Ah!,0.2,0.21213484
 It's not nice! Help me!,"（務）“ナイス”じゃねえよ！
 早く助けろよ…","""Nice"" isn't it!
-Let's help quickly ...",0.35714285714285715
-Congratulations!,（来賓たち）おめでとう！,Congratulations!,1.0
+Let's help quickly ...",0.35714285714285715,0.61715394
+Congratulations!,（来賓たち）おめでとう！,Congratulations!,1.0,1.0
 "What?! So, you've already registered?","（銀太）
 えっ？ じゃ 茗子となっちゃん
 もう入籍したんだ？","eh?Well then
-Have you already registered?",0.3076923076923077
+Have you already registered?",0.3076923076923077,0.87632823
 "My parents still aren't talking to us, though.","ご両親にも なっちゃんの誠実さが
 少しずつ 分かり始めてるんだよ","My parents are also sincerity
-She has started to understand little by little",0.21052631578947367
+She has started to understand little by little",0.21052631578947367,0.4434198
 A married couple.,"“夫婦”か！
 なんか いい響きだよなぁ","""Married couple""!
-Something she is a good sound",0.25
-That sounds good.,（光希）良かったね 茗子,It was good,0.16666666666666666
+Something she is a good sound",0.25,0.5653607
+That sounds good.,（光希）良かったね 茗子,It was good,0.16666666666666666,0.2063201
 "I'm so happy for you, Meiko.","きっと いつか
 分かってもらえる時が来るよ","Someday
-When you know it will come",0.06666666666666667
+When you know it will come",0.06666666666666668,0.22013086
 "No making out on campus, okay?","お前ら
 キャンパスでイチャつくなよ","You guys
-Don't get rid of your campus",0.0625
-Ginta and Arimi-san...,（光希）銀太と亜梨実さんも―,Silver and Akira-san also-,0.14285714285714285
+Don't get rid of your campus",0.0625,0.5235332
+Ginta and Arimi-san...,（光希）銀太と亜梨実さんも―,Silver and Akira-san also-,0.14285714285714285,0.4057083
 ...look happy about going\Nto Toryo University together.,"一緒に桐稜(とうりょう)大学に
 進むことになって うれしそう","Together to the University of Toyo
-It seems to be going to advance",0.1111111111111111
+It seems to be going to advance",0.1111111111111111,0.55012965
 Michael will be staying\Nwith us for another year.,"杏樹さんは
 １年遅れだけど 音大を目指すって","Mr. Yuki
-One year late but aiming for the noise",0.11764705882352941
-He seems much more mature than before.,前より随分 大人になったみたい,It seems that it became an adult for a long time than before,0.17647058823529413
-It's wonderful.,ステキだな,It is a wonderful,0.3333333333333333
+One year late but aiming for the noise",0.1176470588235294,0.16519293
+He seems much more mature than before.,前より随分 大人になったみたい,It seems that it became an adult for a long time than before,0.17647058823529413,0.5135862
+It's wonderful.,ステキだな,It is a wonderful,0.3333333333333333,0.79419374
 "So, your name means ""firefly,"" huh?","（すず）蛍(けい)君の“けい”って
 “蛍(ほたる)”って字だったんだ？","Fulf  Your ""Kei""
-""Fireflies"" was a letter?",0.25
-How pretty!,フン！,Hun!,0.25
+""Fireflies"" was a letter?",0.25,0.56347805
+How pretty!,フン！,Hun!,0.25,0.35973096
 "Can I call you ""Kei"" from now on?","ンッ…
 これから“蛍(けい)”って呼んでもいい？","...
-Can I call ""Fireflies"" from now on?",0.6923076923076923
+Can I call ""Fireflies"" from now on?",0.6923076923076923,0.41355792
 I wonder what will happen with those two.,"（光希）
-あの２人も どうなるのやら…",Those of that two are their best ...,0.13333333333333333
+あの２人も どうなるのやら…",Those of that two are their best ...,0.13333333333333333,0.4545592
 Yuu is starting college\Nin America this September.,"遊は ９月になったら
 アメリカの大学に入る","If you are in September
-Enter university in America",0.14285714285714285
+Enter university in America",0.14285714285714285,0.6275495
 But we're not the way we used to be.,"けど
 私たちは もう 昔の私たちとは違う","but
-We are already different from us",0.13333333333333333
+We are already different from us",0.13333333333333333,0.5567924
 "Hey, Miki?","（遊）おい 光希
 （光希）うん？","Omitsu
- yes?",0.16666666666666666
+ yes?",0.16666666666666666,0.18957135
 Want some punch?,"パンチ要るか？
 （光希）うん 要る要る！","Do you need punch?
- Yeah yeah!",0.2222222222222222
-Sure!,（遊）クラッシュパンチ！,crash punch!,0.25
+ Yeah yeah!",0.2222222222222222,0.6919337
+Sure!,（遊）クラッシュパンチ！,crash punch!,0.25,0.13162178
 "Was that the wrong ""punch""?","パンチ違いで ごめん
 （光希）遊…","Sorry for the punch difference
- Yu ...",0.15384615384615385
+ Yu ...",0.15384615384615385,0.61198056
 I'm also considering studying abroad...,"インテリアの勉強するために
 短期留学も考えてるんだ","To study interior
-I also think of a short-term study abroad",0.21428571428571427
+I also think of a short-term study abroad",0.21428571428571427,0.69639206
 You sure don't!,"（木島）それは
-買いかぶりじゃないですか？",Aren't you buying?,0.25
+買いかぶりじゃないですか？",Aren't you buying?,0.25,0.122554004
 I disagree!,"（突き飛ばす音）
-（光希･遊）ウワッ！",Uwa!,0.25
-Ta-dah!,うれしい！,glad!,0.3333333333333333
+（光希･遊）ウワッ！",Uwa!,0.25,0.17244577
+Ta-dah!,うれしい！,glad!,0.3333333333333333,0.1941807
 We do!,"わあ！ じゃ
 私たちに 妹か弟ができるんだ？","Wow!well
-Can we do my sister and brother?",0.2727272727272727
+Can we do my sister and brother?",0.2727272727272727,0.30065528
 Yes!,"（おなかをたたく音）
-（仁･要士）ああっ！",Oh!,0.3333333333333333
+（仁･要士）ああっ！",Oh!,0.3333333333333333,0.51027465

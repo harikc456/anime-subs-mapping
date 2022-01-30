@@ -1,338 +1,338 @@
-en_text,jp_text,google_translated,score
-Where's the crime scene?,（スーク）現場(げんじょう)はどこだ？,Where is the scene?,0.5714285714285714
-Under our feet.,（警官）ここの地下です,This underground is here,0.0
-Three men.,（警官）男性３名です,3 men,0.25
-I want the perimeter around the\Nscene thoroughly inspected.,（スーク）現場周辺を徹底的に洗え,Thoroughly wash around the site,0.2727272727272727
+en_text,jp_text,google_translated,score,semantic_score
+Where's the crime scene?,（スーク）現場(げんじょう)はどこだ？,Where is the scene?,0.5714285714285714,0.7391708
+Under our feet.,（警官）ここの地下です,This underground is here,0.0,0.40356532
+Three men.,（警官）男性３名です,3 men,0.25,0.95345354
+I want the perimeter around the\Nscene thoroughly inspected.,（スーク）現場周辺を徹底的に洗え,Thoroughly wash around the site,0.2727272727272727,0.25046507
 I'll take responsibility.,"（警官）クラートキ刑事が
 到着しだい指示を仰ごうかと","crest criminal
-I'm going to arrive",0.09090909090909091
-Find suspects immediately. Move it!,（スーク）怪しいやつ全員だ！,It is all the suspicious guy!,0.16666666666666666
-But...,（警官）しかし…,But ...,1.0
+I'm going to arrive",0.09090909090909093,0.15813635
+Find suspects immediately. Move it!,（スーク）怪しいやつ全員だ！,It is all the suspicious guy!,0.16666666666666666,0.46815747
+But...,（警官）しかし…,But ...,1.0,1.0000001
 Can't you take a new detective's order?,"（スーク）新人刑事の指示じゃ
 動けないってのか？","Instruction of newcomer detective
-Do you not move?",0.1875
-Get going!,さっさと行け！,Go to me quickly!,0.14285714285714285
-I'm Detective Suk from the Prague police.,プラハ警察のスーク刑事だ,Prague police Souk detective,0.3
-Inspector Zeman.,ゼマン警部…,Zeman Police Department ...,0.16666666666666666
+Do you not move?",0.1875,0.6098311
+Get going!,さっさと行け！,Go to me quickly!,0.14285714285714285,0.47770664
+I'm Detective Suk from the Prague police.,プラハ警察のスーク刑事だ,Prague police Souk detective,0.3,0.7891361
+Inspector Zeman.,ゼマン警部…,Zeman Police Department ...,0.16666666666666666,0.6937969
 He was violently beaten to death.,"（警官）
-めちゃくちゃに殴り殺されています",It is crispy and killed,0.0
+めちゃくちゃに殴り殺されています",It is crispy and killed,0.0,0.28591323
 "If his police badge hadn't fallen nearby, we probably\Nwouldn't have been able to identify him.","この警察手帳が落ちていなかったら
 誰だか分からなかったでしょう","If this police notebook has not fallen
-I did not know who",0.11538461538461539
-The bodies of two men are over there.,顔の造作も何もあったもんじゃない,There is nothing like the figures of face,0.21428571428571427
+I did not know who",0.1153846153846154,0.53489876
+The bodies of two men are over there.,顔の造作も何もあったもんじゃない,There is nothing like the figures of face,0.21428571428571427,0.07373371
 We don't know who they are yet.,"（警官）
-誰だか まだ分かっていません",Who is not him yet,0.16666666666666666
-One was shot in the head.,１人は 銃で頭部を撃たれています,One is shooting a head with a gun,0.16666666666666666
-Preserve the scene.,げ… 現場を保全しとけ！,... Maintain the site!,0.125
-Detective Suk.,ん？　スーク刑事！,Yeah?Souk detective!,0.14285714285714285
+誰だか まだ分かっていません",Who is not him yet,0.16666666666666666,0.5751229
+One was shot in the head.,１人は 銃で頭部を撃たれています,One is shooting a head with a gun,0.16666666666666666,0.71417654
+Preserve the scene.,げ… 現場を保全しとけ！,... Maintain the site!,0.125,0.33815622
+Detective Suk.,ん？　スーク刑事！,Yeah?Souk detective!,0.14285714285714285,0.5416375
 You've got to be kidding me!,"{\an8}（スーク）
-冗談じゃないよ！",no kidding!,0.2222222222222222
-They think I'm a novice and make fun of me.,新米だと思ってバカにしやがって,I think it's a new rice and she was stupid,0.21052631578947367
+冗談じゃないよ！",no kidding!,0.2222222222222222,0.57311225
+They think I'm a novice and make fun of me.,新米だと思ってバカにしやがって,I think it's a new rice and she was stupid,0.21052631578947367,0.012785362
 The guys in uniform won't listen to my orders.,"制服巡査たち
 俺の言うことじゃ動きゃしない","Uniform police
-Don't move in",0.21428571428571427
-"You puked at the crime scene, didn't you?",現場(げんば)で ゲロ吐いたんだろ？,Did you spit yourself in the field ?,0.2857142857142857
+Don't move in",0.21428571428571427,0.56078154
+"You puked at the crime scene, didn't you?",現場(げんば)で ゲロ吐いたんだろ？,Did you spit yourself in the field ?,0.2857142857142857,0.45165053
 Who'd want to take orders from such a lousy detective?,"そんなヘボ刑事の命令なんかで
 動くかってえの","Such a dog detective order
-Motion",0.2
+Motion",0.2,0.6011855
 What do you know?,"俺のこと
 どれだけよくしてくれたか","About me
-How much did you do?",0.3
-"He taught me, a novice who didn't know\Nleft from right, how to be a detective.",刑事の在り方を教えてくれたんだ,I taught me how to get the detective,0.25
+How much did you do?",0.3,0.13081573
+"He taught me, a novice who didn't know\Nleft from right, how to be a detective.",刑事の在り方を教えてくれたんだ,I taught me how to get the detective,0.25,0.81249934
 I respected him from the bottom of my heart.,"俺は ゼマン警部を
 心から尊敬してたんだ","I am Zeman police department
-I respected from the bottom of my heart",0.5714285714285714
+I respected from the bottom of my heart",0.5714285714285714,0.39446467
 I promise!,"んっ！
 俺は絶対 ゼマン警部の敵(かたき)を取る！","!
-I will take the enemy of the Zeman police department !",0.18181818181818182
+I will take the enemy of the Zeman police department !",0.18181818181818185,0.3717456
 "If I have to find the killer by myself, I'll do it!","（スーク）新人で 右も左も
 分からない俺に ゼマン警部は","Rookie, right, left
-I do not know the zeman police department",0.18181818181818182
-"We have to get up for work early\Ntomorrow, so if you'll excuse us.",お前たちが安心して仕事できるのも,You can work with peace of mind,0.09523809523809523
-"While you're working in your safe\Nlittle jobs, I'm fighting for justice!",俺が正義のために戦ってるからだぞ,It's because I'm fighting for justice,0.2777777777777778
-C'mon! Drink up!,ほら もっと飲めよ,Let's drink more,0.14285714285714285
-He worked every day for the sake of justice\Nand he ended up getting killed.,毎日毎日 正義のために働いて,Work for daily justice every day,0.17647058823529413
-I can't take it.,たまんないよ,I'm sorry,0.125
-Huh?,ん？,Yeah?,0.3333333333333333
-What is it?,（友人）お？　どうしたんだよ,? what happened,0.4
+I do not know the zeman police department",0.18181818181818185,0.16964968
+"We have to get up for work early\Ntomorrow, so if you'll excuse us.",お前たちが安心して仕事できるのも,You can work with peace of mind,0.09523809523809523,0.15903963
+"While you're working in your safe\Nlittle jobs, I'm fighting for justice!",俺が正義のために戦ってるからだぞ,It's because I'm fighting for justice,0.2777777777777778,0.54712725
+C'mon! Drink up!,ほら もっと飲めよ,Let's drink more,0.14285714285714285,0.5605944
+He worked every day for the sake of justice\Nand he ended up getting killed.,毎日毎日 正義のために働いて,Work for daily justice every day,0.17647058823529413,0.5811688
+I can't take it.,たまんないよ,I'm sorry,0.125,0.34617633
+Huh?,ん？,Yeah?,0.3333333333333333,0.77901304
+What is it?,（友人）お？　どうしたんだよ,? what happened,0.4,0.29610574
 That girl was at the supermarket.,"夜勤明けで
 スーパーマーケットに寄った時","At night shift
-When I stopped in the supermarket",0.23076923076923078
+When I stopped in the supermarket",0.2307692307692308,0.4832898
 "I wanted to talk to her, but I couldn't...","声かけたかったけど できなくて
 それが こんなところで…","I wanted to speak but I can not do it
-That's why she is like this ...",0.22727272727272727
-Umm...,そ… そうか,So ...,0.3333333333333333
-Do you remember me?,や… やあ 僕のこと見覚えない？,Yes ... Don't let me know me?,0.3
-But I recognize you.,でも 僕は 君のこと知ってるんだ,But I know you,0.5
+That's why she is like this ...",0.2272727272727273,0.67245775
+Umm...,そ… そうか,So ...,0.3333333333333333,0.5463322
+Do you remember me?,や… やあ 僕のこと見覚えない？,Yes ... Don't let me know me?,0.3,0.37474364
+But I recognize you.,でも 僕は 君のこと知ってるんだ,But I know you,0.5,0.7158296
 I might not look like it but I'm a detective.,"こう見えても
 れっきとした刑事なんだ","Even if you look like this
-It's a crisp detective",0.29411764705882354
+It's a crisp detective",0.29411764705882354,0.7034832
 Don't get scared because I'm a detective.,"あっ いや 刑事だからって
 怖がらないで","Because there is a detective
-Do not be afraid",0.26666666666666666
+Do not be afraid",0.26666666666666666,0.5931466
 "This is my free time, my private life.","今は非番
 まったくのプライベートなんだから","Now is not
-Because it is totally private",0.14285714285714285
-"I think this is a waste of time, but...",無駄なあがきとは思うけど,I think it is a waste,0.4166666666666667
+Because it is totally private",0.14285714285714285,0.49945396
+"I think this is a waste of time, but...",無駄なあがきとは思うけど,I think it is a waste,0.4166666666666667,0.5773017
 "He's a bit depressed today, so could you talk to him a bit?","ちょっとだけ
 相手してやってくれる？","Just a bit
-Can you do the other party?",0.2
+Can you do the other party?",0.2,0.20062079
 "His boss, whom he respected, had an incident.","尊敬する上司が
 事件に巻き込まれてね","Respected boss
-It is caught in the case",0.125
-I-I wasn't crying!,（スーク）あんないい人いなかった,There was nothing wrong,0.125
+It is caught in the case",0.125,0.67104703
+I-I wasn't crying!,（スーク）あんないい人いなかった,There was nothing wrong,0.125,0.23708107
 I wanted to be like Inspector Zeman.,"僕も ゼマン警部みたいに
 なろうと思ってた","I also like Zeman police department
-I thought I was",0.23076923076923078
-That's why I won't let the killer get away.,だから 絶対 犯人を許さない,So I will not forgive the criminal,0.11764705882352941
-I'll catch him for sure!,絶対 僕が捕まえて…,Absolutely I caught ...,0.1
+I thought I was",0.2307692307692308,0.5951736
+That's why I won't let the killer get away.,だから 絶対 犯人を許さない,So I will not forgive the criminal,0.1176470588235294,0.5117272
+I'll catch him for sure!,絶対 僕が捕まえて…,Absolutely I caught ...,0.1,0.4083562
 "Sorry, I've just been talking about myself.","あっ ごめん
 僕ばっかり しゃべっちゃって","Rash
-I'm just talking",0.25
-"Don't worry about it. You have to do your best and\Ncatch that criminal for the inspector's sake, too.",頑張って犯人を捕まえなくちゃ,Good luck and can't catch the criminal,0.11538461538461539
+I'm just talking",0.25,0.32046905
+"Don't worry about it. You have to do your best and\Ncatch that criminal for the inspector's sake, too.",頑張って犯人を捕まえなくちゃ,Good luck and can't catch the criminal,0.1153846153846154,0.57112855
 "I've talked about myself a lot, but I\Nhaven I heard anything about you.","あ… 僕のことは
 たくさん話したけど","Oh ... me
-I talked a lot",0.23529411764705882
-What's your name?,君 名前は？,What is your name?,0.6666666666666666
-I don't know my...,本当の名前は… 分からない,The real name is ... I do not know,0.36363636363636365
+I talked a lot",0.2352941176470588,0.57067186
+What's your name?,君 名前は？,What is your name?,0.6666666666666666,0.9292818
+I don't know my...,本当の名前は… 分からない,The real name is ... I do not know,0.3636363636363637,0.38786092
 "I am a detective, so you can leave this to me.","刑事だからね
 そのくらいのことは任せといて","Because it is a detective
-Leave that much",0.16666666666666666
-Your name is...,えっと 名前は…,The name is ...,0.6
+Leave that much",0.16666666666666666,0.51952755
+Your name is...,えっと 名前は…,The name is ...,0.6,0.76212126
 "I don't know myself, so there's no way you could know.","私自身が分からないのに
 あなたに分かるわけないわ","I do not know myself
-I can not understand you",0.29411764705882354
-What I know about myself is...,私のことで 私が分かっているのは,I know me about me,0.375
-...Cedok bridge and three frogs.,チェドック橋 ３匹のカエル,Cheddock Bridge 3 frogs,0.2222222222222222
-Wait a sec.,（友人）ひとときの夢と諦めろ,A dream and giving up,0.125
+I can not understand you",0.29411764705882354,0.4703918
+What I know about myself is...,私のことで 私が分かっているのは,I know me about me,0.375,0.69176704
+...Cedok bridge and three frogs.,チェドック橋 ３匹のカエル,Cheddock Bridge 3 frogs,0.2222222222222222,0.7643739
+Wait a sec.,（友人）ひとときの夢と諦めろ,A dream and giving up,0.125,0.08566613
 I knew it wouldn't work out,"{\an8}２人の男の身元が
 判明しました","Two men's identity
-It turned out",0.16666666666666666
-Just give up on that daydream.,ただそれだけ,Just that,0.2857142857142857
+It turned out",0.16666666666666666,0.21536134
+Just give up on that daydream.,ただそれだけ,Just that,0.2857142857142857,0.1913097
 Prauge Police,"{\an8}（刑事）ゼマン警部と
 一緒に殺されていた⸺","Zeman Police Department
-A fool who was killed together",0.1
-The other one is Yakov Sughachek.,もう１人は ヤコフ･スハチェク,Another one is Yakov Suhachek,0.3333333333333333
+A fool who was killed together",0.1,0.360196
+The other one is Yakov Sughachek.,もう１人は ヤコフ･スハチェク,Another one is Yakov Suhachek,0.3333333333333333,0.90978646
 They were part of the former Czechoslovakian secret police.,"２人とも 元チェコスロバキア
 秘密警察の軍曹","Both of them are former Czechoslovakia
-Secret police sergeant",0.26666666666666666
-"After communism collapsed, they were involved\Nin illegal underground activities.",社会主義崩壊後は,After socialism collapse,0.07692307692307693
-The analysis of the blood at the crime\Nscene detected blood from,血液の量から,From the amount of blood,0.4444444444444444
+Secret police sergeant",0.26666666666666666,0.81044996
+"After communism collapsed, they were involved\Nin illegal underground activities.",社会主義崩壊後は,After socialism collapse,0.07692307692307693,0.4842795
+The analysis of the blood at the crime\Nscene detected blood from,血液の量から,From the amount of blood,0.4444444444444444,0.5617757
 We need a description of him as soon as possible.,"ゼマンという優秀な仲間を失って
 我々が必死になっている時に","Lost excellent friends of Zeman
-When we are desperate",0.11764705882352941
-Detective Suk!,（ハムリク）スーク刑事,Saku detective,0.25
+When we are desperate",0.1176470588235294,0.1388879
+Detective Suk!,（ハムリク）スーク刑事,Saku detective,0.25,0.6180892
 Suk!,"（ハムリク）スーク！
 （スーク）うわっ","Souk!
- Wow",0.25
-Yes!,は… はい！,... Yes!,0.6666666666666666
+ Wow",0.25,0.41607982
+Yes!,は… はい！,... Yes!,0.6666666666666666,0.7903333
 Why are you spacing out like that?,"その人間も かなりの傷を
 負っているものと思われ","That human beings are also quite scratched
-He seems to be",0.11764705882352941
-What's with your attitude?,何だ その態度は！,What is the attitude!,0.2222222222222222
+He seems to be",0.1176470588235294,0.09379238
+What's with your attitude?,何だ その態度は！,What is the attitude!,0.2222222222222222,0.7240343
 I-I'm sorry.,"（ハムリク）
-何 ぼーっとしてるんだ",I'm sorry,0.4
+何 ぼーっとしてるんだ",I'm sorry,0.4,0.7279333
 "Anyways, as I was saying,","最初にも言ったように
 目撃者の話にあった事件直後","As I said first
-Immediately after the case that was in the talk of the witness",0.17647058823529413
-the witnesses say that there was a man walking around the vicinity at the time of the crime.,現場付近を歩いていた男,A man who was walking near the site,0.2631578947368421
+Immediately after the case that was in the talk of the witness",0.17647058823529413,0.21655472
+the witnesses say that there was a man walking around the vicinity at the time of the crime.,現場付近を歩いていた男,A man who was walking near the site,0.2631578947368421,0.52585465
 He carried around a large bag which\Nmade him look like a traveler.,"長身で痩せ形 大きな荷物を
 背負った旅行者ふうの男","Large loud luggage
-Traveler who carried back",0.1875
+Traveler who carried back",0.1875,0.578432
 We have to use all our manpower\Nto determine who this man is.,"この人物の割り出しに
 全力を尽くすように","For this person's index
-To do our best",0.15789473684210525
-That girl...,あの子…,That girl…,0.25
-I guess she'll never come back.,また来るわけないか,I wonder if it will come again,0.15384615384615385
+To do our best",0.15789473684210525,0.33837622
+That girl...,あの子…,That girl…,0.25,0.8538142
+I guess she'll never come back.,また来るわけないか,I wonder if it will come again,0.15384615384615385,0.36414936
 Mr. Detective.,"（アンナ）名刑事さん
-（スーク）あっ",familiarity,0.0
-Did you find the criminal you told me about?,例の事件の犯人 見つかった？,Did you find a criminal of an example incident?,0.35714285714285715
+（スーク）あっ",familiarity,0.0,0.21626033
+Did you find the criminal you told me about?,例の事件の犯人 見つかった？,Did you find a criminal of an example incident?,0.35714285714285715,0.7496505
 "While I'm doing this, the criminal is wandering the streets.","情けないよ こうしてる間も
 犯人は のうのうと…","I'm sorry I'm sorry
-The criminal is that he",0.3333333333333333
+The criminal is that he",0.3333333333333333,0.5052286
 "Just the other day, Inspector Zeman was burning\Nthe midnight oil on a murder case of his own.","ゼマン警部 前の日も
 徹夜で殺人事件を捜査してたんだ","The day of the Zeman police
-I was investigating the murder case all night",0.2916666666666667
-What kind of case was it?,どんな事件？,What kind of case?,0.7142857142857143
+I was investigating the murder case all night",0.2916666666666667,0.58869654
+What kind of case was it?,どんな事件？,What kind of case?,0.7142857142857143,0.9029539
 It's a case where an old man who ran an unlicensed nursery home,"無免許で養護施設を
 運営していた老人と","Nursing home with no license
-With old man who was operated",0.21052631578947367
+With old man who was operated",0.21052631578947367,0.5788696
 He was interviewing the first person at\Nthe crime scene the very next morning.,"翌朝も その事件の第一発見者の
 事情聴取をしてたんだ","The first finder of the case the next morning
-I was listening to the situation",0.25
-Let's see. It was a kind-looking young man.,気のよさそうな男性だったよ,It was a good man who looks good,0.3076923076923077
+I was listening to the situation",0.25,0.5180398
+Let's see. It was a kind-looking young man.,気のよさそうな男性だったよ,It was a good man who looks good,0.3076923076923077,0.5729473
 "He was tall, thin and carried a large sack.","背が高くて 痩せてるのに
 大きなリュックを重そうに…","I'm tall and I'm thin
-To repeat a big backpack ...",0.2222222222222222
-tall...,もしもし… あっ,Maybe ...,0.3333333333333333
-with a large bag!,もしかして！,Maybe!,0.16666666666666666
-Do you know where that man is?,その男性の居場所は分かるの？,Do you know the place of the man?,0.45454545454545453
-Maybe if I check at the station...,わ… 分かると思う 署で調べれば,Wow ... If I think I think I can understand,0.25
-"Good luck, Mr. Detective.",頑張ってね 名刑事さん,Good luck Good luck Nembit,0.2857142857142857
-Hello.,あっ もしもし,Habit,0.0
-"Hey, wait!",ああっ ちょっと待って！,"Oh, wait a minute!",0.42857142857142855
-Cedok Bridge...,ハァ…,Hua ...,0.25
+To repeat a big backpack ...",0.2222222222222222,0.501482
+tall...,もしもし… あっ,Maybe ...,0.3333333333333333,0.19815087
+with a large bag!,もしかして！,Maybe!,0.16666666666666666,0.15592389
+Do you know where that man is?,その男性の居場所は分かるの？,Do you know the place of the man?,0.4545454545454545,0.8887394
+Maybe if I check at the station...,わ… 分かると思う 署で調べれば,Wow ... If I think I think I can understand,0.25,0.12677607
+"Good luck, Mr. Detective.",頑張ってね 名刑事さん,Good luck Good luck Nembit,0.2857142857142857,0.37847325
+Hello.,あっ もしもし,Habit,0.0,0.23231418
+"Hey, wait!",ああっ ちょっと待って！,"Oh, wait a minute!",0.42857142857142855,0.6414192
+Cedok Bridge...,ハァ…,Hua ...,0.25,0.2976261
 The Cedok Bridge is in the former town of Michalska.,"チェドック橋といったら
 旧市街のミカルスカ地区","With the Cheddock Bridge
-Mikarska district in the old town",0.26666666666666666
-Three frogs?,３匹のカエル,3 frogs,0.25
-"If I come here, I can meet that girl.",ここに来れば あの子に会える,I can meet that girl if you come here,0.7272727272727273
-He checked out?,（スーク）チェックアウトした？,Did you check out?,0.2857142857142857
-When?!,いつ？,When?,0.6666666666666666
-"Let's see. Mr. Grimmer, Grimmer...",んっ…,...,0.125
+Mikarska district in the old town",0.26666666666666666,0.5652283
+Three frogs?,３匹のカエル,3 frogs,0.25,0.9402953
+"If I come here, I can meet that girl.",ここに来れば あの子に会える,I can meet that girl if you come here,0.7272727272727273,0.9476129
+He checked out?,（スーク）チェックアウトした？,Did you check out?,0.2857142857142857,0.65838283
+When?!,いつ？,When?,0.6666666666666666,0.8371406
+"Let's see. Mr. Grimmer, Grimmer...",んっ…,...,0.125,0.14210153
 He checked out two days ago in the morning.,"グリマー様は おとといの朝
 チェックアウトなさっています","Glimer is the morning of the morning
-I'm checking out",0.1875
-"The person who killed Inspector Zeman was the\Nperson who was in this room, Mr. Grimmer.",この部屋に宿泊していたグリマーだ,It is a grimmer who stayed in this room,0.2631578947368421
+I'm checking out",0.1875,0.3851348
+"The person who killed Inspector Zeman was the\Nperson who was in this room, Mr. Grimmer.",この部屋に宿泊していたグリマーだ,It is a grimmer who stayed in this room,0.2631578947368421,0.59522814
 Damn it! Why didn't I realize it sooner?,"くそっ 何で もう少し早く
 気が付かなかったんだ","What a little more quickly
-I did not notice",0.11764705882352941
-"Inspector Zeman, I'll catch him!",ゼマン警部 僕が捕まえてみせます,Zeman police department I will catch,0.2727272727272727
+I did not notice",0.1176470588235294,0.40631807
+"Inspector Zeman, I'll catch him!",ゼマン警部 僕が捕まえてみせます,Zeman police department I will catch,0.2727272727272727,0.7239966
 "S-Suk, why are you here?","（スーク）パテラ部長刑事こそ
 なぜ ここに…","Pathella Denko Denko
-Why here ...",0.2
+Why here ...",0.2,0.3279737
 I see. I'm amazed you made it this far by yourself.,"お前１人で ここまで
 たどり着いたとは大したもんだ","One person and so far
-It is a big deal that I arrived",0.13636363636363635
+It is a big deal that I arrived",0.13636363636363635,0.18429734
 "I thought I was going to be able to take the credit for\Nthe Inspector Zeman case, but you were here first.","ゼマン警部の事件で 僕が一番に
 手柄を立てられると思っていたのに","In the case of Zeman police department I
-I thought I could get a hand",0.1724137931034483
-"Well, it's still quite an achievement. You did well.",まあ 手柄は手柄だ よくやった,"Well, I did a hand of hand",0.2
+I thought I could get a hand",0.1724137931034483,0.59075445
+"Well, it's still quite an achievement. You did well.",まあ 手柄は手柄だ よくやった,"Well, I did a hand of hand",0.2,0.24943379
 Or that's what I'd like to say.\NI'd like you to keep this a secret.,"と言いたいところだが
 この件に関しては内密にな","I want to say that
-Consolidation for this matter is",0.19047619047619047
-Why?,なぜですか？,why?,1.0
+Consolidation for this matter is",0.19047619047619047,0.053648558
+Why?,なぜですか？,why?,1.0,0.9999997
 It's our duty to arrest Grimmer as soon as possible-,"グリマーを一刻も早く
 逮捕することが我々の…","Grimmer quickly
-Arrested to be ...",0.14285714285714285
+Arrested to be ...",0.14285714285714285,0.74977577
 There's more to this case than you think.,"（パテラ）お前が思っているより
 この件は ちょっとやっかいなんだ","rather than you think
-This case is a little bit off",0.3125
-Inspector Zeman was on a secret investigation?,ゼマン警部が極秘調査を？,Zeman Police Department is a secret investigation?,0.45454545454545453
+This case is a little bit off",0.3125,0.7012932
+Inspector Zeman was on a secret investigation?,ゼマン警部が極秘調査を？,Zeman Police Department is a secret investigation?,0.4545454545454545,0.84040534
 He was to root out the former Czechoslovakian secret\Npolice who were hiding in the Prague police station.,"プラハ警察署内に
 経歴を詐称して潜んでいる⸺","In the Prague Police Station
-A holiday that spoofs the career",0.22727272727272727
-Former Czechoslovakian secret police?,元チェコスロバキア秘密警察？,Former Czechoslovakia Secret Police?,0.6666666666666666
+A holiday that spoofs the career",0.2272727272727273,0.6089684
+Former Czechoslovakian secret police?,元チェコスロバキア秘密警察？,Former Czechoslovakia Secret Police?,0.6666666666666666,0.9919504
 "The two men that were killed with him were with\Nthe former Czechoslovakian secret police, right?","殺されていた２人の男も
 元秘密警察の人間だったろ？","Two men who were killed
-Were you a human who is a secret police?",0.3333333333333333
+Were you a human who is a secret police?",0.3333333333333333,0.63729805
 Very few people besides me and the\NChief of Police know about this.,"このことは 署長と俺
 その他 数名しか知らない","This is the chief and I
-I only know the other number",0.15
+I only know the other number",0.15,0.12254381
 "If you get too involved in this, you might be killed, too.","深入りすれば
 お前も殺されかねない","If you deposit
-You can not be killed",0.26666666666666666
+You can not be killed",0.26666666666666666,0.36486852
 Keep quiet about this one. Got it?,"この件に関しては黙っていろ
 いいな？","It is silent about this matter
-Is it all right?",0.2857142857142857
+Is it all right?",0.2857142857142857,0.46684435
 "By the way Suk, do you have a girlfriend now?","ところで スーク
 お前 彼女でもできたのか？","By the way
-Did you do her?",0.42857142857142855
+Did you do her?",0.42857142857142855,0.44781062
 You were spacing out while sitting\Nat your desk during the meeting.,"会議中や自分の机に座っている時
 ぼーっとしてるだろうが","When you are sitting at your desk during a meeting
-It will be boring",0.23809523809523808
-She just shows up at a bar I go to from time to time.,行きつけのバーに たまに来る子で,A child who occasionally comes to the bar,0.16666666666666666
-She's totally hot isn't she?,だって 別に彼女じゃないんだろ？,Even if she is not her?,0.2727272727272727
-"W-Well, kind of...",紹介なんて そんな…,Introduction ...,0.16666666666666666
-"Th-That's true, but...",そ… そうなんですけど,That's right ...,0.25
-Who are you?,あなたは？,you?,0.5
+It will be boring",0.2380952380952381,0.5862993
+She just shows up at a bar I go to from time to time.,行きつけのバーに たまに来る子で,A child who occasionally comes to the bar,0.16666666666666666,0.5244142
+She's totally hot isn't she?,だって 別に彼女じゃないんだろ？,Even if she is not her?,0.2727272727272727,0.5285385
+"W-Well, kind of...",紹介なんて そんな…,Introduction ...,0.16666666666666666,0.148323
+"Th-That's true, but...",そ… そうなんですけど,That's right ...,0.25,0.42451698
+Who are you?,あなたは？,you?,0.5,0.46151575
 I'm Suk's senior at work. My name's Patera.,"ああ 俺 スークの先輩でね
 パテラっていうんだ","Oh my souk senior
-Putella says",0.13333333333333333
+Putella says",0.13333333333333333,0.282864
 He said there was an incredibly\Nbeautiful woman at this bar.,"あいつが この店に ものすごい
 美人がいるっていうんでね","That guy is great at this store
-It means that there is a beautiful woman",0.2
+It means that there is a beautiful woman",0.2,0.55317634
 "He's on a stake-out tonight, so he can't come.","あいつは 今夜は張り込みで
 来られないんだ","That's tonight tonight
-I can not come",0.1875
-Want to have a drink with me?,俺と飲まないか？,Do you not drink with me?,0.36363636363636365
-"Hey, wait.",ああ ねえ ちょっと,Oh yeah hey,0.16666666666666666
-Spending a little time with me won't hurt.,ほんの少し いいじゃないか,It's not a little good,0.14285714285714285
+I can not come",0.1875,0.5319551
+Want to have a drink with me?,俺と飲まないか？,Do you not drink with me?,0.3636363636363637,0.72081274
+"Hey, wait.",ああ ねえ ちょっと,Oh yeah hey,0.16666666666666666,0.5274925
+Spending a little time with me won't hurt.,ほんの少し いいじゃないか,It's not a little good,0.14285714285714285,0.33772463
 "Hey there, Detective Janacek. Good morning.","ああ ヤナチェク刑事
 おはようございます","Oh Yana Ceck Detective
-good morning",0.2727272727272727
+good morning",0.2727272727272727,0.5356508
 I heard from Mr. Patera that the\Ngirl you found is a total babe.,"（ヤナチェク）
-パテラさんから聞いたぞ",I heard from Pautera,0.2
+パテラさんから聞いたぞ",I heard from Pautera,0.2,0.34556127
 "Mr. Patera, did you go to that bar?","あっ パテラさん
 あのバーに行ったんですか？","Apatella
-Did you go to that bar?",0.6363636363636364
+Did you go to that bar?",0.6363636363636364,0.67327034
 D-Don't tell me you put the moves on her?,"ま… まさか 彼女に
 手を出したりしてないでしょうね？","Ma ...
-You don't have her hand out?",0.23529411764705882
+You don't have her hand out?",0.2352941176470588,0.36643314
 But the rumors are that Detective\NPatera has his way with women.,"で… でも パテラ部長刑事
 女に手が早いので有名で","So ... But Pathella Denka Detective
-It is famous because the woman is early",0.08695652173913043
-Th-That's not it.,パテラさんが落とせないとなると,When Pathella can not drop,0.1111111111111111
+It is famous because the woman is early",0.08695652173913042,0.59132564
+Th-That's not it.,パテラさんが落とせないとなると,When Pathella can not drop,0.1111111111111111,0.09440252
 I-I was just talking to her. Just that much was fun.,"ぼ… 僕は ただ彼女と
 話をしてるだけで…","... I'm just with her
-She just talking ...",0.2
+She just talking ...",0.2,0.57029086
 Section Chief Farobek wants you\Nto go to Inspector Zeman's room.,"ファロベック課長が ゼマン警部の
 部屋へ来てくれって言ってたぞ","Farobeck Coubler is Zeman Police Department
-I said that to come to the room",0.13636363636363635
-O-Okay.,（スーク）あっ はい！,Yes!,0.0
-I don't need one.,（ヤナチェク）俺は要らん,I need it,0.2857142857142857
-"How about you, Suk?",スーク どうだ？,How about Souk?,0.42857142857142855
-"No, I'm fine.",ああ 僕も結構です,"Oh, I'm fine",0.5714285714285714
-Yes?,はい,Yes,0.5
+I said that to come to the room",0.13636363636363635,0.71789324
+O-Okay.,（スーク）あっ はい！,Yes!,0.0,0.17692392
+I don't need one.,（ヤナチェク）俺は要らん,I need it,0.2857142857142857,0.3769145
+"How about you, Suk?",スーク どうだ？,How about Souk?,0.42857142857142855,0.3465031
+"No, I'm fine.",ああ 僕も結構です,"Oh, I'm fine",0.5714285714285714,0.7512878
+Yes?,はい,Yes,0.5,0.7687326
 "You have to keep things about the tall, thin man a secret.","（ファロベック）
-この辺のものをまとめて",Summarize the things around this area,0.1111111111111111
+この辺のものをまとめて",Summarize the things around this area,0.1111111111111111,0.13292721
 We've pretty much cleaned out Inspector Zeman's desk.,"（ファロベック）
-ゼマン警部の机は 大体片付けた",The desk of the zeman police department was roughly cleaned,0.17647058823529413
-All that's left are his personal belongings.,残りは全部私物だ,The rest is all private,0.07692307692307693
-Organize it and take it to his wife.,警部の奥さんのところへ届けてくれ,Deliver to the wife of the police department,0.15384615384615385
-A gym locker key.,ジムのロッカーのキーだ,Gym locker key,0.6
+ゼマン警部の机は 大体片付けた",The desk of the zeman police department was roughly cleaned,0.17647058823529413,0.79513633
+All that's left are his personal belongings.,残りは全部私物だ,The rest is all private,0.07692307692307693,0.3987705
+Organize it and take it to his wife.,警部の奥さんのところへ届けてくれ,Deliver to the wife of the police department,0.15384615384615385,0.36492395
+A gym locker key.,ジムのロッカーのキーだ,Gym locker key,0.6,0.91185653
 There's a bunch of sweaty shirts and towels.,"汗かいたままのシャツや
 タオルが何枚も…","Sweaty shirt and
-There are many towels ...",0.2857142857142857
-Documents?,書類？,document?,0.3333333333333333
-What's this?,どういうことだ？,What does it mean?,0.2857142857142857
+There are many towels ...",0.2857142857142857,0.9163673
+Documents?,書類？,document?,0.3333333333333333,0.86053526
+What's this?,どういうことだ？,What does it mean?,0.2857142857142857,0.40393957
 Even my profile is in here.,"フフッ 僕のプロファイルまで
 入ってるぞ","To my profile
-I'm in",0.3
+I'm in",0.3,0.6086855
 This is not a normal amount of money.,"（ハムリク）確かに これは
 尋常ではない金額だな","Certainly this is
-It is an unusual amount",0.23076923076923078
-"Y-Yes, Chief.",（スーク）は… はい 署長,is ... Yes chief,0.14285714285714285
+It is an unusual amount",0.2307692307692308,0.61445534
+"Y-Yes, Chief.",（スーク）は… はい 署長,is ... Yes chief,0.14285714285714285,0.7456324
 "So Suk, what can you deduce from this?","君は これらのことから
 何を推察するかね？","From these things
-What do you guess?",0.2857142857142857
+What do you guess?",0.2857142857142857,0.3675427
 Yes. Inspector Zeman was conducting an\Ninvestigation of the people at the station.,"はい ゼマン警部は
 署の内部調査を行っていました","Yes Zeman Police Department
-I was conducting an internal investigation of the station",0.3888888888888889
-Th-The results showed that Head Detective\NPatera and Detective Janacek...,パテラ部長刑事とヤナチェク刑事が,Pautera Denka Detective and Yana Ceck Detective,0.14285714285714285
+I was conducting an internal investigation of the station",0.3888888888888889,0.76301455
+Th-The results showed that Head Detective\NPatera and Detective Janacek...,パテラ部長刑事とヤナチェク刑事が,Pautera Denka Detective and Yana Ceck Detective,0.14285714285714285,0.5666938
 were members of the former Czechoslovakian secret police.,"元チェコスロバキア秘密警察の
 人間であることを探り出し","Former Czechoslovakia Secret Police
-Excluding to be humans",0.21428571428571427
-Then I'm...,ざ… 残念であります,I'm sorry I'm sorry,0.4
-That is a big problem.,ああ それは ゆゆしき問題だな,Oh it is a problem of Yuyuki,0.3
-It makes me sad to say it.,金を受け取ったものと思われます,It seems to be receiving money,0.18181818181818182
+Excluding to be humans",0.21428571428571427,0.8914229
+Then I'm...,ざ… 残念であります,I'm sorry I'm sorry,0.4,0.36447218
+That is a big problem.,ああ それは ゆゆしき問題だな,Oh it is a problem of Yuyuki,0.3,0.26615766
+It makes me sad to say it.,金を受け取ったものと思われます,It seems to be receiving money,0.18181818181818185,0.06870845
 You must keep this a secret for the time being.,"（ハムリク）この件は当分の間
 口外しないように","This matter is for the time
-Don't go out",0.23529411764705882
-I will contact you later.,（ヤナチェク）参ったなあ,I went,0.14285714285714285
+Don't go out",0.2352941176470588,0.34128258
+I will contact you later.,（ヤナチェク）参ったなあ,I went,0.14285714285714285,0.1780282
 "Oh, man.","（パテラ）
-ああ 面倒なことになった","Oh, it became troublesome",0.2857142857142857
+ああ 面倒なことになった","Oh, it became troublesome",0.2857142857142857,0.30418202
 It was a mistake to underestimate a greenhorn like Suk.,"スーク程度の若造ならと
 高をくくっていたのがまずかった","If it is a quadrature of
-It was bad that he was tight",0.16666666666666666
+It was bad that he was tight",0.16666666666666666,0.3008181
 "At this point, should we go for money just like Zeman?","ここは ゼマンと同じに
 金でいくか？","Here is the same as Seman
-Do you go money?",0.14285714285714285
-"If that doesn't work out, we only have one option left.",それでダメなら 手は１つ… だろ？,So if it is no good ... it's one ...?,0.09090909090909091
+Do you go money?",0.14285714285714285,0.5667308
+"If that doesn't work out, we only have one option left.",それでダメなら 手は１つ… だろ？,So if it is no good ... it's one ...?,0.09090909090909093,0.15660094
 "At any rate, I want to avoid any problems that may\Ncome from me knowing your past work's history.","君らの経歴を知っていながら
 入署させた私が","While knowing your career
-I got up",0.125
-"Man, I want a drink.",あー 酒でも一杯やりたい気分だ,Ayu I feel like I want to do my best,0.14285714285714285
+I got up",0.125,0.31369507
+"Man, I want a drink.",あー 酒でも一杯やりたい気分だ,Ayu I feel like I want to do my best,0.14285714285714285,0.19906335
 I have some whiskey bon-bons if you'd like.,"（パテラ）うまく もみ消せれば
 いいんですがねえ","If you get well
-I'm fine",0.21428571428571427
-Don't say that.,まあ そう言うな,Well that say so,0.2857142857142857
+I'm fine",0.21428571428571427,0.23489603
+Don't say that.,まあ そう言うな,Well that say so,0.2857142857142857,0.4507012
 What's wrong? You look really depressed.,"（アンナ）
-どうしたの？　浮かない顔ね",What's wrong?Face that does not float,0.2857142857142857
-I believed in him.,信じてたんだ,I believed,0.4
+どうしたの？　浮かない顔ね",What's wrong?Face that does not float,0.2857142857142857,0.3486831
+I believed in him.,信じてたんだ,I believed,0.4,0.652102
 I never thought Inspector Zeman would do such a thing.,"ゼマン警部にかぎって
 そんなことはないって","Spread to Zeman police department
-There is no such thing",0.16666666666666666
-What happened?,何があったの？,What happened?,1.0
-The only thing that brings peace to my heart right now...,今 僕の心の安らぎは,Now my heart's peace of mind,0.26666666666666666
-is you.,君だけだよ,You're alone,0.2
+There is no such thing",0.16666666666666666,0.51997113
+What happened?,何があったの？,What happened?,1.0,1.0000001
+The only thing that brings peace to my heart right now...,今 僕の心の安らぎは,Now my heart's peace of mind,0.26666666666666666,0.62180316
+is you.,君だけだよ,You're alone,0.2,0.40350017

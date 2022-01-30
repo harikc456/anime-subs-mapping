@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.71131814
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.862805
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207117
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.6541099
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.3804589
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851646
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.4000978
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.58001244
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.36993268
 "This man Jiraiya does not fall victim
 to any woman's allurement,","この男
  
@@ -111,7 +111,7 @@ to any woman's allurement,","この男
 Jiraiya
 To the girl's smell
  
-Hoi Hoi and ➡",0.2631578947368421
+Hoi Hoi and ➡",0.2631578947368421,0.44789594
 "but rather his forte is
 winning women's affections!","己の色香で女が
  
@@ -119,7 +119,7 @@ winning women's affections!","己の色香で女が
 
 ","Woman with his own color
  
-Hey ~!",0.125
+Hey ~!",0.125,0.32456225
 "Like I said, don't call me
 that in front of people...","いやぁ
  
@@ -139,12 +139,12 @@ In public
 How to call
  
 Girly
-.",0.13636363636363635
+.",0.13636363636363635,0.49161896
 "Didja hear me, Pervy Sage!?!","興奮してたくせに！
 カッコつけてるばやいか！
 
 ","I'm excited!
-Is it pretty?",0.14285714285714285
+Is it pretty?",0.14285714285714285,0.16681822
 "Like I said, don't call me ""Pervy Sage""!","だから
  ｢
 エロ仙人
@@ -155,7 +155,7 @@ Is it pretty?",0.14285714285714285
  ""
 Erotic Sennin
 ""
-Don't say!",0.2631578947368421
+Don't say!",0.2631578947368421,0.2255562
 "despite the fact that you are
 a huge womanizer.","伝説の三忍と
  
@@ -167,16 +167,16 @@ a huge womanizer.","伝説の三忍と
  
 Lively
 It's a good friend
-.",0.16666666666666666
+.",0.16666666666666666,0.024127332
 What?!,"えぇ～!?
 
-",Eh!?,0.5
+",Eh!?,0.5,0.40882286
 "You know the true identity
 of Pervy Sage?!","エロ仙人の正体まで
 知ってんのか!?
 
 ","Until the correct body of erotic
-Do you know?",0.3333333333333333
+Do you know?",0.3333333333333333,0.13525769
 "Well no, that's not necessarily
 who I really am...","そういうわけじゃ
 ないんだがのう…
@@ -184,16 +184,16 @@ who I really am...","そういうわけじゃ
 
 ","That's why
 There is no ...
-.",0.25
+.",0.25,0.20940726
 "like casting a Genjutsu on the woman
 with your hypnotic eyes","女に催眠眼で幻術をかけるたぁ➡
 
-",Woman put a phantom with hypnosis eyes,0.2857142857142857
+",Woman put a phantom with hypnosis eyes,0.2857142857142857,0.47516218
 to separate me and Naruto.,"ナルトから
 わしを引き離すために➡
 
 ","From Naruto
-To pull it off",0.2
+To pull it off",0.2,0.6617478
 "Your target is Naruto, after all.","目当ては
  
 やはり
@@ -206,7 +206,7 @@ To pull it off",0.2
 also
  
 Naruto
-.",0.3333333333333333
+.",0.3333333333333333,0.72118944
 "I see clearly now.
 The information source was you.","わが組織
  
@@ -214,7 +214,7 @@ The information source was you.","わが組織
 
 ","My organization
  
-I was dropped from the ➡",0.2
+I was dropped from the ➡",0.2,0.13093793
 I wonder about that.,"ナルトは
  
 やれんのう
@@ -223,7 +223,7 @@ I wonder about that.,"ナルトは
 ","Naruto
  
 Mild
-.",0.14285714285714285
+.",0.14285714285714285,0.092077136
 "This is perfect...
 I'll get rid of you two right here!","(
 自来也
@@ -234,7 +234,7 @@ I'll get rid of you two right here!","(
 
 ","Just right
  
-Two people are ➡",0.1111111111111111
+Two people are ➡",0.1111111111111111,0.40039712
 Don't butt in...,"(ｻｽｹ)
 手
  
@@ -248,21 +248,21 @@ Don't butt in...,"(ｻｽｹ)
 Do not put out
 .
 Ah
-.",0.09090909090909091
+.",0.09090909090909093,0.30585188
 The one that's going to kill him is...,"こいつを殺すのは…
 ｡
 
 ","To kill this ...
-.",0.25
+.",0.25,0.36465555
 Me!,"俺だ！
 
-",I'm me!,0.5
+",I'm me!,0.5,0.69841754
 Don't mess with me!,"ふざけるな～！
 
-",Don't play!,0.42857142857142855
+",Don't play!,0.42857142857142855,0.47193885
 Sasuke!,"サスケ！
 
-",Sasuke!,1.0
+",Sasuke!,1.0,1.0000001
 Naruto! I told you not to butt in!,"(ｲﾀﾁ)
 今
  
@@ -272,11 +272,11 @@ Naruto! I told you not to butt in!,"(ｲﾀﾁ)
 ","now
  
 I'm not interested in you
-.",0.3076923076923077
+.",0.3076923076923077,0.20261872
 "I've lived only for this very day...
 for this very day!","この日のために！
 
-",For this day!,0.4
+",For this day!,0.4,0.5173253
 Sasuke...,"あ…
  
 サスケ
@@ -285,31 +285,31 @@ Sasuke...,"あ…
 ","Ah…
  
 Sasuke
-.",0.25
+.",0.25,0.88918173
 This is... my battle!,"これは…➡
 
-",This is ... ➡,0.42857142857142855
+",This is ... ➡,0.42857142857142855,0.49026915
 Fine.,"まだだ…
 ｡
 
 ","Still…
-.",0.3333333333333333
+.",0.3333333333333333,0.4330094
 You heard that didn't you?,"聞いたでしょ？
 
-",Were you heard?,0.42857142857142855
+",Were you heard?,0.42857142857142855,0.5883019
 "This is their battle.
 Let's not bother with it.","(ｲﾀﾁ)
 いいだろう
 ｡
 
 ","It's okay
-.",0.25
+.",0.25,0.28567734
 Fine then!,"(
 殴る音
 )
 うあっ！
 
-",!,0.3333333333333333
+",!,0.3333333333333333,0.4505575
 "<i>Our power difference hasn't changed</i>
 <i>at all since that time...</i>","《あの時から
 少しも縮まらない
@@ -319,20 +319,20 @@ Fine then!,"(
 ","""From that time
 I can not shrink a little
 .
-➡",0.12
+➡",0.12,0.20310166
 "<i>What have I...</i>
 <i>been doing all this time?</i>","《今まで俺は…
 何をしてきたんだ？➡
 
 ","""Until now I ...
-What did you do?➡",0.2
+What did you do?➡",0.2,0.49940312
 <i>Whatever have I...</i>,"一体…
  
 俺は…》
 
 ","...
  
-I am…""",0.2222222222222222
+I am…""",0.2222222222222222,0.3080415
 You are weak.,"(ｲﾀﾁ)
 お前は弱い
 ｡
@@ -340,41 +340,41 @@ You are weak.,"(ｲﾀﾁ)
 
 ","You are weak
 .
-➡",0.8
+➡",0.8,0.8828774
 because you don't have enough hate.,"足りないからだ
 ｡
 ➡
 
 ","It is because it is not enough
 .
-➡",0.25
+➡",0.25,0.47374263
 That's right.,"(ｲﾀﾁ)
 そうだ
 ｡
 
 ","That's it
-.",0.6
+.",0.6,0.6438017
 This is our house.,"(ｲﾀﾁ)
 ここは俺たちの家
 ｡
 
 ","This is our house
-.",1.0
+.",1.0,1.0
 Relive that day.,"あの日をさまよえ
 ｡
 
 ","That day
-.",0.75
+.",0.75,0.6780235
 Stop it!,"やめて～‼
 
-",Stop ~!,0.5
+",Stop ~!,0.5,0.7483734
 Uncle! Auntie!,"＜おじさん！
  
 おばさん！＞
 
 ","<Uncle!
  
-Aunt!>",0.3333333333333333
+Aunt!>",0.3333333333333333,0.8644296
 "You're not even worth killing.
 Foolish younger brother...","(ｲﾀﾁ)
 ＜貴様など殺す価値もない
@@ -383,24 +383,24 @@ Foolish younger brother...","(ｲﾀﾁ)
 
 ","<Not worth killing etc.
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.5060282
 "If you want to kill me, begrudge me!
 Hate me!","この俺を殺したくば➡
 
-",Kuhito kill this,0.08333333333333333
+",Kuhito kill this,0.08333333333333333,0.2863465
 Stop it already! You!,"いいかげんにしやがれ！
  
 てめぇ！
 
 ","Good snail!
  
-You!",0.2857142857142857
+You!",0.2857142857142857,0.36392394
 Wha?!,"(
 鬼鮫
 )
 ん？
 
-",Yeah?,0.25
+",Yeah?,0.25,0.34626907
 Th-This...,"あっ
 ｡
 (
@@ -413,7 +413,7 @@ Th-This...,"あっ
 .
 
 ...
-.",0.25
+.",0.25,0.4186157
 "How unfortunate, Itachi, Kisame.","残念だのう
  
 イタチ
@@ -426,7 +426,7 @@ Th-This...,"あっ
 Itachi
  
 Demons
-.",0.25
+.",0.25,0.5808948
 of the Mt. Myomoku rock cave.,"妙木山
  
 岩宿の
@@ -437,7 +437,7 @@ of the Mt. Myomoku rock cave.,"妙木山
  
 Rock
 I gave a fragile esophagus
-.",0.25
+.",0.25,0.4756892
 You guys are wanted criminals anyway.,"お前らは
  
 どうせ
@@ -450,7 +450,7 @@ You guys are wanted criminals anyway.,"お前らは
 Anyway
  
 I'm a letter
-.",0.36363636363636365
+.",0.3636363636363637,0.37908047
 Wh-What is this?,"え？
 心配いらん
  
@@ -461,7 +461,7 @@ Wh-What is this?,"え？
 Worries
  
 It is the technique of
-.",0.18181818181818182
+.",0.18181818181818185,0.17444794
 "Naruto, you stay still!","(
 自来也
 )
@@ -477,29 +477,29 @@ It is the technique of
 You are
  
 Feigned
-.",0.2222222222222222
+.",0.2222222222222222,0.614298
 Oh!,"(
 鬼鮫
 )
 ん～！
 
-",!,0.5
+",!,0.5,0.63324493
 A wall of flesh is charging at us!,"(
 鬼鮫
 )
 《肉の壁が迫ってくる！》
 
-","""The wall of the meat comes approaching!""",0.2
+","""The wall of the meat comes approaching!""",0.2,0.50908506
 The wall is faster.,"壁のほうが速いですね
 このままじゃ…
 ｡
 
 ","The wall is faster
 This way ...
-.",0.625
+.",0.625,0.94124013
 What's the matter?!,"どうしたんだってばよ！
 
-",What happened!,0.2857142857142857
+",What happened!,0.2857142857142857,0.3630013
 "Why must we retreat?
 You would be...","なぜ
  
@@ -507,7 +507,7 @@ You would be...","なぜ
 
 ","why
  
-Need to retire?",0.16666666666666666
+Need to retire?",0.16666666666666666,0.29817256
 "We have no reason to rush to
 get Naruto in the current condition.","今のナルトなら
  
@@ -517,7 +517,7 @@ get Naruto in the current condition.","今のナルトなら
 ","Now Naruto
  
 There is no need to be impatient
-.",0.21052631578947367
+.",0.21052631578947367,0.70617056
 "Besides, I have to rest
 my body somewhere for a while.","一ところで
 体を休めなくてはならない
@@ -525,12 +525,12 @@ my body somewhere for a while.","一ところで
 
 ","At all
 I have to rest my body
-.",0.4666666666666667
+.",0.4666666666666667,0.7992236
 "<i>Not just Tsukuyomi,</i>","いないってばよ
 ｡
 
 ","If not
-.",0.1
+.",0.1,0.14090782
 What is this fire?,"何だ～？
  
 この火
@@ -543,12 +543,12 @@ What is this fire?,"何だ～？
 This fire
  
 Black
-.",0.625
+.",0.625,0.7923409
 It's black...,"あなたなら…
 ｡
 
 ","if it's you…
-.",0.2857142857142857
+.",0.2857142857142857,0.33482695
 Don't get so close!,"(
 自来也
 )
@@ -556,7 +556,7 @@ Don't get so close!,"(
 えっ!?
 
 ","Don't get close to me!
-eh!?",0.5
+eh!?",0.5,0.65980196
 <i>How did those guys manage to get out?</i>,"(
 自来也
 )
@@ -568,23 +568,23 @@ eh!?",0.5
 ","""Yatsu
 Integral
  
-How did you get out?➡",0.2777777777777778
+How did you get out?➡",0.2777777777777778,0.39110756
 Huh?,"ん？
 
-",Yeah?,0.3333333333333333
+",Yeah?,0.3333333333333333,0.779013
 All right!,"(
 自来也
 )
 よし！
 
-",OK!,0.25
+",OK!,0.25,0.5649407
 Sealing Jutsu: Fire Seal!,"封印術
  
 封火法印！
 
 ","Sealing
  
-Fire collector!",0.42857142857142855
+Fire collector!",0.42857142857142855,0.665031
 All right! It'll be okay for now.,"これで
  
 まずは大丈夫だのう
@@ -593,7 +593,7 @@ All right! It'll be okay for now.,"これで
 ","with this
  
 First of all, it's okay
-.",0.25
+.",0.25,0.44936007
 Guy?!,"(
 ガイ
 )
@@ -609,7 +609,7 @@ Guy?!,"(
 ·
 entry!
 
-Guy!?",0.5
+Guy!?",0.5,0.38810748
 Well... Eh...,"(
 ガイ
 )
@@ -619,7 +619,7 @@ Well... Eh...,"(
 
 ","Fuhufu ...
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.25363895
 I'm sorry to have kicked you so directly.,"ダイレクトに
 決めてしまって
  
@@ -630,7 +630,7 @@ I'm sorry to have kicked you so directly.,"ダイレクトに
 I decide
  
 Excuse me
-.",0.23076923076923078
+.",0.2307692307692308,0.29451847
 I was in a rush and I forgot my mirror...,"あの…
  
 急いでいたもので
@@ -645,7 +645,7 @@ It was a hurry
 unintentionally
  
 Forget the mirror
-.",0.17647058823529413
+.",0.17647058823529413,0.73112285
 "I used this headband instead,
 but it was hard to see.","額当てを代用したのですが
 これが見えづらくって
@@ -655,7 +655,7 @@ but it was hard to see.","額当てを代用したのですが
 ","I substituted the amount
 This is easy to see
 .
-➡",0.2631578947368421
+➡",0.2631578947368421,0.19554015
 "And I assumed this rough hewn face
 was the enemy...","そのイカツい
  
@@ -665,7 +665,7 @@ was the enemy...","そのイカツい
 ","That squid
  
 Face
-I wonder if it is the enemy",0.23529411764705882
+I wonder if it is the enemy",0.2352941176470588,0.5501186
 "I just let the flames of
 the burning juvenescence take over me...","燃えてくる青春の炎に身を任せ
 つい…
@@ -679,7 +679,7 @@ unintentionally…
  
 Ah!
  
-Excuse me!",0.14285714285714285
+Excuse me!",0.14285714285714285,0.4410319
 Is that... supposed to be an apology?,"お前
  
 それで
@@ -690,7 +690,7 @@ Is that... supposed to be an apology?,"お前
  
 Like that
  
-Are you going to apologize?",0.21428571428571427
+Are you going to apologize?",0.21428571428571427,0.64037716
 "More importantly, we have to get Sasuke
 to the Medical Team!","とにかく
  
@@ -702,13 +702,13 @@ to the Medical Team!","とにかく
  
 Sasuke
 To the place of medical care early
-.",0.2222222222222222
+.",0.2222222222222222,0.8191025
 Yes!,"(
 ガイ
 )
 はい！
 
-",Yes!,1.0
+",Yes!,1.0,1.0
 "Not only that, he's lost consciousness","(
 自来也
 )
@@ -722,7 +722,7 @@ Yes!,"(
  
 That's good
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.09419581
 "from some kind of mental blow
 he received from the Visual Jutsu!","(
 自来也
@@ -737,7 +737,7 @@ he received from the Visual Jutsu!","(
  
 Framed bone fracture
 .
-➡",0.10526315789473684
+➡",0.10526315789473684,0.1670717
 <i>This boy also experienced that Jutsu...</i>,"(
 ガイ
 )
@@ -747,7 +747,7 @@ Framed bone fracture
 
 ","""This child
  
-That technologies ... """,0.21428571428571427
+That technologies ... """,0.21428571428571427,0.2118669
 "Seems like he's received
 a significant amount of mental damage.","相当な精神的ダメージを
 受けとるようだのう
@@ -755,24 +755,24 @@ a significant amount of mental damage.","相当な精神的ダメージを
 
 ","Corresponding mental damage
 It seems to be receiving
-.",0.23529411764705882
+.",0.2352941176470588,0.7656597
 <i>I'm going to kill you!</i>,"＜あんたを殺す‼➡
 
-",<Kill your love!➡,0.23076923076923078
+",<Kill your love!➡,0.2307692307692308,0.6522932
 <i>Die!</i>,"うあ～！
  
 死ね～！＞
 
 ","Uh!
  
-Death ~!>",0.2222222222222222
+Death ~!>",0.2222222222222222,0.67320806
 <i>You jerk!</i>,"＜この！＞
 (ｲﾀﾁ)
 ＜邪魔だ＞
 
 ","<This!>
 
-<Mind>",0.3333333333333333
+<Mind>",0.3333333333333333,0.3234076
 <i>What did that guy do to Sasuke?!</i>,"サスケに…
  
 あいつ
@@ -781,10 +781,10 @@ Death ~!>",0.2222222222222222
 ","Sasuke ...
  
 that person
-What did you do?",0.375
+What did you do?",0.375,0.82541525
 "Hey, Pervy Sage!","エロ仙人ってばよ！
 
-",Erotic Senju!,0.14285714285714285
+",Erotic Senju!,0.14285714285714285,0.202119
 "but this time I'm going to chase
 those black capes and get them!","さっきは
  
@@ -794,7 +794,7 @@ those black capes and get them!","さっきは
 ","Just before
  
 I'm Bib
-This time",0.2222222222222222
+This time",0.2222222222222222,0.15860564
 "Humph, you're only going to be killed
 if you go now.","フン
  
@@ -802,7 +802,7 @@ if you go now.","フン
 
 ","Hun
  
-Even if you go now",0.26666666666666666
+Even if you go now",0.26666666666666666,0.4046753
 "They're at a totally different level
 from you.","レベルが違い過ぎる
 ｡
@@ -810,7 +810,7 @@ from you.","レベルが違い過ぎる
 
 ","Level is too different
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.53334
 "I just managed to get you
 away from them...","お前から
  
@@ -822,7 +822,7 @@ away from them...","お前から
  
 Aya
 I'm just away
-.",0.38461538461538464
+.",0.38461538461538464,0.44748557
 Are we supposed to keep living in fear?!,"毎日
  
 ビクビクおびえて
@@ -831,10 +831,10 @@ Are we supposed to keep living in fear?!,"毎日
 ","every day
  
 Bikbik
-Is it possible to live?",0.11764705882352941
+Is it possible to live?",0.1176470588235294,0.2572087
 Shut your mouth for a second!,"少し黙れ！
 
-",A little silent!,0.2222222222222222
+",A little silent!,0.2222222222222222,0.38521832
 I should have saved him much sooner.,"やはり
  
 もっと早くに
@@ -845,7 +845,7 @@ I should have saved him much sooner.,"やはり
  
 Earlier
 I should have helped
-.",0.36363636363636365
+.",0.3636363636363637,0.43718296
 "Kakashi has also come down
 with the same Jutsu...","今
  
@@ -857,7 +857,7 @@ with the same Jutsu...","今
  
 Kakashi also eats the same technique
 I'm going to sleep
-.",0.21052631578947367
+.",0.21052631578947367,0.63110363
 "We don't know when
 he will regain consciousness.","いつ
  
@@ -867,10 +867,10 @@ he will regain consciousness.","いつ
 ","when
  
 Do you return awareness ...
-.",0.21428571428571427
+.",0.21428571428571427,0.48421937
 Kakashi Sensei?!,"カカシ先生が!?
 
-",Mr. Kakashi!?,0.5
+",Mr. Kakashi!?,0.5,0.77668446
 "I always wish,
 from the bottom of my heart...","こんなとき
  
@@ -880,7 +880,7 @@ from the bottom of my heart...","こんなとき
 ","at a time like this
  
 I think from the bottom of my heart
-.",0.3888888888888889
+.",0.3888888888888889,0.56478757
 "If that person,
 who is a medical specialist, were here...","医療スペシャリストの
  
@@ -888,7 +888,7 @@ who is a medical specialist, were here...","医療スペシャリストの
 
 ","Medical specialist
  
-That person",0.3333333333333333
+That person",0.3333333333333333,0.7838507
 "That's why we're going to
 go find her now.","だから
  
@@ -900,10 +900,10 @@ go find her now.","だから
  
 from now
 I'm going to search for that
-.",0.4117647058823529
+.",0.4117647058823529,0.4095161
 W-Wait...!,"まさか！
 
-",Masao!,0.25
+",Masao!,0.25,0.1638254
 "Yup, that's right...","そう
  
 そのまさかよ
@@ -912,13 +912,13 @@ W-Wait...!,"まさか！
 ","Yes
  
 That's right
-.",0.375
+.",0.375,0.793218
 "and who is also
 one of the Sannin like me...","病払いのナメクジ使い…
 ｡
 
 ","Named Names of Payment ...
-.",0.13333333333333333
+.",0.13333333333333333,0.009603495
 "Princess Tsunade with
 the letter Gamble on her back!","(
 自来也
@@ -933,12 +933,12 @@ the letter Gamble on her back!","(
 ""
 Gamble
 ""
-I carryed the back",0.2857142857142857
+I carryed the back",0.2857142857142857,0.47069246
 "<i>It's a secondary role,</i>","これで負け分どころか
 ひっくり返すわよ～！
 
 ","This is a loss
-I'll turn it over!",0.17647058823529413
+I'll turn it over!",0.17647058823529413,0.14505345
 "<i>Over and over,</i>
 <i>we've stood in the shadows of others</i>","♬
  
@@ -946,7 +946,7 @@ I'll turn it over!",0.17647058823529413
 
 ","♬
  
-It is a side of the side",0.1
+It is a side of the side",0.1,0.25221446
 "<i>Now, it's our turn...</i>
 <i>Let us bask in our dreams</i>","♬
  
@@ -956,7 +956,7 @@ It is a side of the side",0.1
 ","♬
  
 Many times until now
-I wonder if it has come up",0.12
+I wonder if it has come up",0.12,0.20848706
 "I'm going to spend like
 there's no tomorrow!","♬
  
@@ -964,7 +964,7 @@ there's no tomorrow!","♬
 
 ","♬
  
-I'm a person",0.14285714285714285
+I'm a person",0.14285714285714285,0.13926466
 "I am not like you, Pervy Sage!","♬
  
 何度も
@@ -977,4 +977,4 @@ I'm a person",0.14285714285714285
 Many times
  
 In a person
-I'm not standing",0.11764705882352941
+I'm not standing",0.1176470588235294,0.19465755

@@ -1,254 +1,254 @@
-en_text,jp_text,google_translated,score
-I guess I had too much to drink last night.,さすがに夕べは飲みすぎたなー,"As expected, I was drinking too much",0.2
-I'm sorry.,はっ 申し訳ありません,Sorry,0.25
-Y-Yes...,はっ…,Haze ...,0.3333333333333333
-"I see. So this is what comes next, huh?",なるほど 今度はそうきたか,What happened so far?,0.21428571428571427
-Pardon?,はい？,Yes?,0.3333333333333333
+en_text,jp_text,google_translated,score,semantic_score
+I guess I had too much to drink last night.,さすがに夕べは飲みすぎたなー,"As expected, I was drinking too much",0.2,0.6873924
+I'm sorry.,はっ 申し訳ありません,Sorry,0.25,0.54203194
+Y-Yes...,はっ…,Haze ...,0.3333333333333333,0.24823067
+"I see. So this is what comes next, huh?",なるほど 今度はそうきたか,What happened so far?,0.21428571428571427,0.1844044
+Pardon?,はい？,Yes?,0.3333333333333333,0.34477603
 I should've expected a talking bird.,"ま 人に獣みたいな耳や尻尾が生えてんだからな
 しゃべる鳥くらい いるだろう","Because the person who wants to be a beast is growing
-There will be a bird that talks",0.09090909090909091
+There will be a bird that talks",0.09090909090909093,0.5045484
 U-Um...,"-あ あの…
 -うんうん","-A that ...
--Yes Yes",0.16666666666666666
+-Yes Yes",0.16666666666666666,0.34313497
 "No, I'm sorry I got so startled.","うん なかなか綺麗な声を
 してるじゃないか","I'm pretty beautiful
-I'm not doing it",0.14285714285714285
-Ukon-sama!,えっ！ あ あ,eh! Ah,0.25
+I'm not doing it",0.14285714285714285,0.11513065
+Ukon-sama!,えっ！ あ あ,eh! Ah,0.25,0.20482184
 "What, you two have already met?","おう あんちゃん
 なんだ もう挨拶は済ませたのか？","Oh Anchan
-What a greeting already?",0.25
-I'm not a bird...,私は この子では…,I am at this child ...,0.2
+What a greeting already?",0.25,0.339938
+I'm not a bird...,私は この子では…,I am at this child ...,0.2,0.34339476
 "I'll introduce you. This is the \Nyoungest princess of Kujuuri,","紹介するぜ
 この方はクジュウリの末姫 ルルティエ様だ","Introduce
-This person is the Suehime Lourtier of Kuyuuri",0.29411764705882354
-She just got here early this morning.,今朝 早く村に到着したところだ,I arrived in the village early this morning,0.23076923076923078
-N-Nice to meet you.,よ よろしくお願いします,Thank you,0.16666666666666666
+This person is the Suehime Lourtier of Kuyuuri",0.29411764705882354,0.5462675
+She just got here early this morning.,今朝 早く村に到着したところだ,I arrived in the village early this morning,0.2307692307692308,0.47686893
+N-Nice to meet you.,よ よろしくお願いします,Thank you,0.16666666666666666,0.23027082
 Our job this time is to \Nescort her to the capital.,"この方を帝都まで護衛するのが
 今回の仕事って訳よ","This person is escorted to the imperial tip
-It is translated this time",0.29411764705882354
-Where the emperor who \Nrules our land of Yamato lives.,このヤマトを統治する帝のいる都,The city where the emperor is to govern this Yamato,0.25
+It is translated this time",0.29411764705882354,0.30783275
+Where the emperor who \Nrules our land of Yamato lives.,このヤマトを統治する帝のいる都,The city where the emperor is to govern this Yamato,0.25,0.7372931
 So I was thinking.\NWhy don't you guys come with me?,"ヘっ あんちゃん達と一緒だと
 何かと退屈しそうにねえからな","With Hen-chan
-I'm bored with something",0.125
-What?,は？,teeth?,0.3333333333333333
-"Yeah. We'll do that, I think.",そうさせてもらおうかな,I wonder if I will let you do it,0.13333333333333333
-"The capital is the nation's center, right?",帝都はこの国の中心でしょ？,Taito is the center of this country?,0.3076923076923077
+I'm bored with something",0.125,0.15320705
+What?,は？,teeth?,0.3333333333333333,0.1897561
+"Yeah. We'll do that, I think.",そうさせてもらおうかな,I wonder if I will let you do it,0.13333333333333333,0.30175072
+"The capital is the nation's center, right?",帝都はこの国の中心でしょ？,Taito is the center of this country?,0.3076923076923077,0.58351696
 I think we could find a\Ngood job for you there.,"そこならハクにも
 いい働き口が見つかると思うんだ","If there is a hak
-I think I can find a good work",0.2222222222222222
+I think I can find a good work",0.2222222222222222,0.31925774
 "I, um... I'll be depending on you.","そんなすぐに働かなくっても
 もう少しゆとりのある生活を…","Even if you do not work immediately
-A little more life with a little more ...",0.09523809523809523
-"Huh? Uh, right... Sure thing.",お？,Oh?,0.1
-Yup! So I think it's decided.,うん！ 決まりかな,Yes!I wonder if it's decided,0.4166666666666667
+A little more life with a little more ...",0.09523809523809523,0.15212029
+"Huh? Uh, right... Sure thing.",お？,Oh?,0.1,0.19900295
+Yup! So I think it's decided.,うん！ 決まりかな,Yes!I wonder if it's decided,0.4166666666666667,0.83890146
 "Whoa, Kuon, wait a sec—","-おい クオン ちょっと待… うああっ！
 -はあ…","-Oquee Kuwe wait for a while ... yeah!
--Ha ...",0.14285714285714285
+-Ha ...",0.14285714285714285,0.45674372
 "Okay, we need to get ready to go, \Nand say goodbye to the innkeeper.","さあ 私達もすぐに支度して
 女将さんに挨拶してこなきゃね","Come on, we also prepare soon
-I'm going to say hello to a female general",0.15384615384615385
-I'm sorry...,う ごめんなさい,I'm sorry,0.75
-It's all right.,あ そうなんですか？,That's right?,0.2857142857142857
-"Oh, I'm sorry. Was I being too informal?",あ ごめんね ちょっと気安すぎだった？,"Sorry for a while, was it a bit too cool?",0.29411764705882354
-"No, not at all.",うん よろしくね ルルティエ,"Yeah, Leutier",0.125
+I'm going to say hello to a female general",0.15384615384615385,0.3790251
+I'm sorry...,う ごめんなさい,I'm sorry,0.75,0.7683711
+It's all right.,あ そうなんですか？,That's right?,0.2857142857142857,0.40237436
+"Oh, I'm sorry. Was I being too informal?",あ ごめんね ちょっと気安すぎだった？,"Sorry for a while, was it a bit too cool?",0.29411764705882354,0.39781058
+"No, not at all.",うん よろしくね ルルティエ,"Yeah, Leutier",0.125,0.18012738
 Please call me Rurutie.,"あ あ いえ そんな…
 どうか私のことはルルティエとお呼びください","Oh, that's ...
-Please call me Lourtier",0.2727272727272727
-Anyway...,はあ…,...,0.5
-There are a lot of different people here.,いろんな奴がいるもんだなぁ,There are many people there,0.3
+Please call me Lourtier",0.2727272727272727,0.33235568
+Anyway...,はあ…,...,0.5,0.5693342
+There are a lot of different people here.,いろんな奴がいるもんだなぁ,There are many people there,0.3,0.51853347
 Ow... My back...,"-あ あの…
 -あ","-A that ...
--Ah",0.14285714285714285
+-Ah",0.14285714285714285,0.26643363
 Ukon made me walk the whole day!,"いっつつ！ 腰が…
 ウコンの奴 一日中歩かせやがって","While putting!Waist ...
-Torukon's guy doing every day",0.11764705882352941
-"Please, try this.",どうぞ これを,Please do this,0.3333333333333333
-"Oh, thanks.",あ ああ ありがとう,"Oh, thank you",0.3333333333333333
-This is nice.,こいつはいい　何ていうか 優しい味だ,This guy is good or kind taste,0.2222222222222222
-I'm so glad you like it!,元々お料理は好きですから,Because I like cooking originally,0.18181818181818182
-"You made this, Rurutie?",え？ これ ルルティエが作ったのか？,picture?Is he made a Lourtier?,0.18181818181818182
-Yes! I've always loved to cook.,あ はい！,"Oh, yes!",0.18181818181818182
-Yeah? Even though you're \Na princess? That's great.,へえ 姫さんなのに偉いもんだな,"Even though it is a hime princess, it is great",0.23529411764705882
-"O-Oh, no...",ん そんな…,Such ...,0.2
-Kuon?,ん クオン？,Kuon?,1.0
-What are you doing with those buckets?,桶なんか担いで どうしたんだ？,What did you do with your cracks?,0.3333333333333333
+Torukon's guy doing every day",0.1176470588235294,0.3427748
+"Please, try this.",どうぞ これを,Please do this,0.3333333333333333,0.46574733
+"Oh, thanks.",あ ああ ありがとう,"Oh, thank you",0.3333333333333333,0.8204504
+This is nice.,こいつはいい　何ていうか 優しい味だ,This guy is good or kind taste,0.2222222222222222,0.21818422
+I'm so glad you like it!,元々お料理は好きですから,Because I like cooking originally,0.18181818181818185,0.105732076
+"You made this, Rurutie?",え？ これ ルルティエが作ったのか？,picture?Is he made a Lourtier?,0.18181818181818185,0.28926617
+Yes! I've always loved to cook.,あ はい！,"Oh, yes!",0.18181818181818185,0.18939963
+Yeah? Even though you're \Na princess? That's great.,へえ 姫さんなのに偉いもんだな,"Even though it is a hime princess, it is great",0.2352941176470588,0.53145176
+"O-Oh, no...",ん そんな…,Such ...,0.2,0.39365822
+Kuon?,ん クオン？,Kuon?,1.0,0.9999999
+What are you doing with those buckets?,桶なんか担いで どうしたんだ？,What did you do with your cracks?,0.3333333333333333,0.31648293
 "Oh, I was going to get some water \Nfrom the river so I can take a bath.","うん 小川で水を汲んできて
 湯浴みをしようかと思って","Yupo I can get water in Ogawa
-I would like to do a bath bath",0.2916666666666667
+I would like to do a bath bath",0.2916666666666667,0.49697122
 A bath in the middle of the mountains?,"ルルティエもどう？
 ずっと火の前にいたから煤まみれだよ","How about Lurtier?
-It was soot because it was in front of the fire",0.23529411764705882
+It was soot because it was in front of the fire",0.2352941176470588,0.22559637
 I like to feel clean and refreshed \Nat the end of the day.,"やっぱり １日の終わりには
 さっぱりしたいもの","After all at the end of the day
-What I want to refresh",0.3157894736842105
-Wait.,待て,wait,0.5
-I owe you for making me this delicious dinner.,うまい飯を作ってくれたお礼だ,Thank you for making delicious rice,0.3333333333333333
+What I want to refresh",0.3157894736842105,0.49954772
+Wait.,待て,wait,0.5,0.87185955
+I owe you for making me this delicious dinner.,うまい飯を作ってくれたお礼だ,Thank you for making delicious rice,0.3333333333333333,0.49097815
 A-Anybody there? I need help!,"いかん 限界だ
 だ 誰か！ 救助を求むー！","It is a limit
-Someone!I'm looking for rescue!",0.125
-You called?,お呼びでおじゃるか～？,Are you calling?,0.4
-"No, not for you.",いや お前は呼んでない,"No, you are not calling",0.5
+Someone!I'm looking for rescue!",0.125,0.25001034
+You called?,お呼びでおじゃるか～？,Are you calling?,0.4,0.686971
+"No, not for you.",いや お前は呼んでない,"No, you are not calling",0.5,0.22438201
 and I owe you for saving \Nmy life from the boro-gigiri.,"ボロギギリから命を救ってもらった恩
 今こそ返す時でおじゃるよ～","The favor that saved life from Borogi
-I'm sorry when I return now",0.19047619047619047
+I'm sorry when I return now",0.19047619047619047,0.6421758
 "Hey! Hey, now!","-おぼぼぼぼ
 -ああ おおっおいっ！","-Obobobobo
-Oh oh!",0.16666666666666666
-I worked so hard to get that water...,あ はあ せっかく汲んだ水が…,"Oh, water that I hate it ...",0.3076923076923077
-Now what do I do?,どーするかなー？,How do you do?,0.2857142857142857
-Are you offering to help me?,もしかして手伝ってくれるのか？,May I help you?,0.3333333333333333
+Oh oh!",0.16666666666666666,0.28458235
+I worked so hard to get that water...,あ はあ せっかく汲んだ水が…,"Oh, water that I hate it ...",0.3076923076923077,0.67672455
+Now what do I do?,どーするかなー？,How do you do?,0.2857142857142857,0.3251016
+Are you offering to help me?,もしかして手伝ってくれるのか？,May I help you?,0.3333333333333333,0.5901806
 You lowly Hororon bird!,"ぬぎぎぎぎぎ
 こやつ ホロロン鳥の分際で！","Nulletting
-At the interlexiveness of the komota Hororon bird!",0.2727272727272727
-Unforgivable!,きいーっ！,Key!,0.3333333333333333
+At the interlexiveness of the komota Hororon bird!",0.2727272727272727,0.5802003
+Unforgivable!,きいーっ！,Key!,0.3333333333333333,0.28255764
 This is the life...,"はあーあ これこれぇ
 やっぱりお風呂って最高かなぁ","Oh, this is this
-After all bathing is the best",0.2727272727272727
-It's warm and feels so good.,そうですね あったかくて気持ちいいです,That's right I feel good,0.16666666666666666
-"I'm sure you know this,",許すまじでおじゃるーっ！,I'm really sorry!,0.2
-Who's there?,あっ！ 誰？,Ah! Who?,0.3333333333333333
-"Is that you, Haku?",ふえ？ あ あ ハク様,Hmm?Ah Haku,0.25
-I'm not ready for this...,逃がさないっ！,I'm not missing!,0.3333333333333333
-You won't get away!,んっ！,!,0.16666666666666666
-What's going on?,なんだ？,what?,0.4
-"Haku, did you see something just now?",ハク 今 何か見た？,Haku did you see something now?,0.7777777777777778
-I see it now.,いや 見たというか,I wondered if I saw it,0.25
-Huh?,あら？,fault?,0.3333333333333333
-What's wrong?,何かあったのでしょうか？,What happened?,0.4
-My cart got stuck in a rut.,何か昨日より人数減ってないか？,Is there a decrease in number more than yesterday?,0.125
-"Come on, let's help her.",なるほど おい 手伝うぞ！,I will help you come!,0.16666666666666666
+After all bathing is the best",0.2727272727272727,0.24386765
+It's warm and feels so good.,そうですね あったかくて気持ちいいです,That's right I feel good,0.16666666666666666,0.375158
+"I'm sure you know this,",許すまじでおじゃるーっ！,I'm really sorry!,0.2,0.31083947
+Who's there?,あっ！ 誰？,Ah! Who?,0.3333333333333333,0.43181786
+"Is that you, Haku?",ふえ？ あ あ ハク様,Hmm?Ah Haku,0.25,0.66294694
+I'm not ready for this...,逃がさないっ！,I'm not missing!,0.3333333333333333,0.20357232
+You won't get away!,んっ！,!,0.16666666666666666,0.32259068
+What's going on?,なんだ？,what?,0.4,0.22315544
+"Haku, did you see something just now?",ハク 今 何か見た？,Haku did you see something now?,0.7777777777777778,0.95816284
+I see it now.,いや 見たというか,I wondered if I saw it,0.25,0.42773828
+Huh?,あら？,fault?,0.3333333333333333,0.29577872
+What's wrong?,何かあったのでしょうか？,What happened?,0.4,0.38352183
+My cart got stuck in a rut.,何か昨日より人数減ってないか？,Is there a decrease in number more than yesterday?,0.125,0.07201981
+"Come on, let's help her.",なるほど おい 手伝うぞ！,I will help you come!,0.16666666666666666,0.27780017
 Thank you for doing this for a stranger.,"見ず知らずの者のために
 ありがとうございます","For those who do not know
-Thank you",0.23076923076923078
-"One, two...",気にするな,dont 'worry,0.0
-Too easy.,容易いものだな,It is easy,0.2
+Thank you",0.2307692307692308,0.30603835
+"One, two...",気にするな,dont 'worry,0.0,0.1315813
+Too easy.,容易いものだな,It is easy,0.2,0.58324796
 "Sorry, but we'll be taking this cargo.","申し訳ありませんが
 こちらの積み荷は いただいていきます","I'm sorry but
-I will give this load",0.2
-No...,そんな…,Such ...,0.3333333333333333
-"Hey, boss, let us have a turn with her, too!",お頭 俺らにも回してくださいよ,Please turn on your head,0.0625
-I'll take the first taste—,慌てんなって まずは俺がしっかり,"First of all, I'm firm",0.18181818181818182
-"What, are you jealous?",おいおい 妬いてんのか？,Are you hoped?,0.42857142857142855
-Don't worry.,手を出すなと言ってるんだ,I'm saying that I don't get out,0.2
+I will give this load",0.2,0.35514402
+No...,そんな…,Such ...,0.3333333333333333,0.4223154
+"Hey, boss, let us have a turn with her, too!",お頭 俺らにも回してくださいよ,Please turn on your head,0.0625,0.34642252
+I'll take the first taste—,慌てんなって まずは俺がしっかり,"First of all, I'm firm",0.18181818181818185,0.31693378
+"What, are you jealous?",おいおい 妬いてんのか？,Are you hoped?,0.42857142857142855,0.29563132
+Don't worry.,手を出すなと言ってるんだ,I'm saying that I don't get out,0.2,0.19994897
 "If you break our deal, \NI'll be calling off our alliance.","約束を違えるようなら
 同盟の話は無かった事にさせてもらう","If you make a mistake
-I have a story of alliance",0.15
-"We'll be on our way, then.",それでは我々は失礼させていただきます,Then we will be rude,0.2727272727272727
+I have a story of alliance",0.15,0.5141104
+"We'll be on our way, then.",それでは我々は失礼させていただきます,Then we will be rude,0.2727272727272727,0.42421168
 That cargo was offerings to the emperor!,"あの品は帝への献上品
 むざむざ奪われてしまう訳には…","That item is the emperor to the emperor
-To begging ...",0.3333333333333333
-"What are you planning, Ukon?",どういうつもりだ？ ウコン,What are you going?Turmeric,0.4444444444444444
-Don't try to fool me.,本当にわたくし達には手を出さないんだ,I really do not take a hand to the things,0.13333333333333333
-What? Wh-What?!,おじゃ！ おぐ おじゃ？,Oji!Oh yeah?,0.2857142857142857
-A dead end?,行き止まり？,dead end?,0.75
-This way.,こっちじゃん,This moth,0.25
-This is the hideout of the Mozunu Gang!,ここが俺達 モズヌ団の根城じゃん！,Here we are the Nejo Castle of the Mozunu!,0.3076923076923077
+To begging ...",0.3333333333333333,0.6955924
+"What are you planning, Ukon?",どういうつもりだ？ ウコン,What are you going?Turmeric,0.4444444444444444,0.29595712
+Don't try to fool me.,本当にわたくし達には手を出さないんだ,I really do not take a hand to the things,0.13333333333333333,0.22416842
+What? Wh-What?!,おじゃ！ おぐ おじゃ？,Oji!Oh yeah?,0.2857142857142857,0.18222673
+A dead end?,行き止まり？,dead end?,0.75,0.9254399
+This way.,こっちじゃん,This moth,0.25,0.2049897
+This is the hideout of the Mozunu Gang!,ここが俺達 モズヌ団の根城じゃん！,Here we are the Nejo Castle of the Mozunu!,0.3076923076923077,0.5960091
 The men from the capital \Nwill never find us here!,"ここなら 帝都の連中にも
 絶対に見つからねえっす","Here is also a series of imperial capital
-Never find it",0.23529411764705882
-"I'm happy, though.",にしても嬉しいぜ,I'm glad I,0.2857142857142857
+Never find it",0.2352941176470588,0.40331727
+"I'm happy, though.",にしても嬉しいぜ,I'm glad I,0.2857142857142857,0.46131033
 "We can forget about the problems \Nwe've had in the past,","これからは過去のいざこざは忘れてよ
 ここで仲良く一緒に","From now on, I forgot the past
-Good friends here",0.15
+Good friends here",0.15,0.37163967
 "No, I changed my mind.","女 子どもをさらおうが
 何でもやり放題ってわけじゃん！","I will expect my girls
-Anything is unlimited!",0.14285714285714285
-She means our alliance is over.,同盟はここまでって事ですよ,Alliance is about here,0.2222222222222222
+Anything is unlimited!",0.14285714285714285,0.065553196
+She means our alliance is over.,同盟はここまでって事ですよ,Alliance is about here,0.2222222222222222,0.59429973
 Do you think everything's okay \Nwith Ukon-dono and his men?,"ウコン殿達
 首尾良くやっておるでおじゃろうか？","Turmeric
-Are you doing successfully?",0.125
+Are you doing successfully?",0.125,0.057697333
 I can't see Ukon losing to a bunch of thieves.,"心配無いだろ あのウコンが
 盗人連中に遅れをとるとは思えん","There is no worries that turmeric
-I think that it takes a delay to the thief",0.125
+I think that it takes a delay to the thief",0.125,0.1691335
 The men hiding in the cargo should be \Nstarting to raise a ruckus right about now.,"そろそろ積み荷に隠れてた奴らが
 大暴れしている頃合いだ","Those who were hidden in the loading
-It is time to go wild",0.11538461538461539
-We're gonna head off to join them.,なーにいー？,Na?,0.09090909090909091
+It is time to go wild",0.1153846153846154,0.3520572
+We're gonna head off to join them.,なーにいー？,Na?,0.09090909090909093,0.17001703
 "You just laughed at me, didn't you?","あ それなのに あんなに
 信頼していらっしゃるのですね","Oh, that's why
-You are trustworthy",0.13333333333333333
+You are trustworthy",0.13333333333333333,0.10876656
 I'm told you just met Ukon-sama recently.,"ハク様は ウコン様とは最近お知り合いに
 なったばかりと伺いましたが","Haku-sama has recently been informed with turmeric
-I just came to see",0.16666666666666666
+I just came to see",0.16666666666666666,0.33885655
 But you already trust him so much?,"信頼っていうか
 あいつの強さは良く知っているからな","Do you trust
-Because he knows the strength of that guy well",0.1111111111111111
-Yeah?,そーお？,"Oh,?",0.25
+Because he knows the strength of that guy well",0.1111111111111111,0.72903204
+Yeah?,そーお？,"Oh,?",0.25,0.63316876
 I think friendship between \Nmen is a wonderful thing.,"あ あ はい！ 男の方同士の友情って
 素敵…だと思います","Oh yes!Friendship between men
-I think it is nice ...",0.29411764705882354
-"No, it's not.",や それはない,And it is not,0.25
-Damn it! What's going on?,くそお 何がどうなってるじゃんよっ！,What's what happened!,0.3333333333333333
-Boss!,にょほーんっ！,Nyoho!,0.3333333333333333
+I think it is nice ...",0.29411764705882354,0.7040378
+"No, it's not.",や それはない,And it is not,0.25,0.41916668
+Damn it! What's going on?,くそお 何がどうなってるじゃんよっ！,What's what happened!,0.3333333333333333,0.47376972
+Boss!,にょほーんっ！,Nyoho!,0.3333333333333333,0.45783997
 A force is approaching from the capital!,"見張り台からの報告です！
 帝都の方からも討伐隊が来てるって！","It is a report from the lookout!
-The street coming from the imperial capital is coming!",0.42857142857142855
-He's so cold.,にいっ,In,0.0
+The street coming from the imperial capital is coming!",0.42857142857142855,0.46429643
+He's so cold.,にいっ,In,0.0,0.09456646
 We were only able to beat the boro-gigiri \Nlast time because we worked together.,"慌てんな こういう時のために
 いつでも逃げる用意はできてるじゃん","Because of this kind of time
-I'm ready to escape anytime",0.13636363636363635
-Where'd you get that?,どうしたんだ？ それ,What happened? That,0.25
-I made it for lunch.,お弁当に作ってきたんだ,I made it in a lunch box,0.4444444444444444
-Would you guys like some?,みんなも食べる？,Are you eating everyone?,0.2222222222222222
-It's delicious!,美味しいです！,Is delicious!,0.4
-This stuff even tastes good cold.,冷めてもいけるなぁ これ,I can get cold,0.1
-Um...,むっ ん… んん はあっ！,Mumen ...,0.3333333333333333
+I'm ready to escape anytime",0.13636363636363635,0.18544352
+Where'd you get that?,どうしたんだ？ それ,What happened? That,0.25,0.3026172
+I made it for lunch.,お弁当に作ってきたんだ,I made it in a lunch box,0.4444444444444444,0.80892044
+Would you guys like some?,みんなも食べる？,Are you eating everyone?,0.2222222222222222,0.14497517
+It's delicious!,美味しいです！,Is delicious!,0.4,0.84521115
+This stuff even tastes good cold.,冷めてもいけるなぁ これ,I can get cold,0.1,0.49262747
+Um...,むっ ん… んん はあっ！,Mumen ...,0.3333333333333333,0.3287446
 Is it really okay for us to not do anything?,"あ あの 本当に私達
 何もしなくて良いんでしょうか？","That's really us
-Do you want to do anything?",0.4
-"May I have one, as wel—",マロにも一つ,One in Malo,0.1111111111111111
+Do you want to do anything?",0.4,0.4637319
+"May I have one, as wel—",マロにも一つ,One in Malo,0.1111111111111111,0.25722933
 "I made a secret passage,","ヘっヘっヘっへっ こんな事もあろうかと
 秘密の隠し通路を作っておいたじゃんよ","Healing Heah Hehe
-I made a secret hidden passage",0.5
-"Still, that damn Nosuri...",んにょ…,...,0.16666666666666666
+I made a secret hidden passage",0.5,0.6710082
+"Still, that damn Nosuri...",んにょ…,...,0.16666666666666666,0.15956475
 I was wrong to let my guard down \Njust because her boobs were so big.,"ちょっとおっぱいデカイと思って
 気を許したのが間違いだったぜ","I think a little tits deck
-It was a mistake that I was careful",0.08
-I'll get her later!,あとで覚えてろじゃん,I will remember later,0.25
-Wh-What are you guys doing here?!,お お前ら何でここにっ！,What do you do here!,0.3
+It was a mistake that I was careful",0.08,0.427968
+I'll get her later!,あとで覚えてろじゃん,I will remember later,0.25,0.36949497
+Wh-What are you guys doing here?!,お お前ら何でここにっ！,What do you do here!,0.3,0.5359425
 You guys are going to be our \Nhostages so we can escape.,"ま まあいい てめえら 俺達が
 安全に逃げるための人質になってもらうじゃん","Maho I feel good and we
-It will be a hostage to escape safely",0.17391304347826086
-Taste my magic!,うおおおーっ！,Oh oh!,0.2
-I knew it.,そ そうはいかないでおじゃるよ,I'm sorry I can't do it,0.2222222222222222
-"Yeah, kinda saw that coming.",あふ～ん,Afu,0.0
-Rurutie!,きゃあ！,Yo!,0.3333333333333333
-Don't move.,ヘっヘっヘっへっ 動くなっす,Heal to move,0.16666666666666666
-You should really stop...,やめた方が,If you stop,0.3333333333333333
+It will be a hostage to escape safely",0.17391304347826084,0.5402236
+Taste my magic!,うおおおーっ！,Oh oh!,0.2,0.18566197
+I knew it.,そ そうはいかないでおじゃるよ,I'm sorry I can't do it,0.2222222222222222,0.17221512
+"Yeah, kinda saw that coming.",あふ～ん,Afu,0.0,0.14207457
+Rurutie!,きゃあ！,Yo!,0.3333333333333333,0.2494847
+Don't move.,ヘっヘっヘっへっ 動くなっす,Heal to move,0.16666666666666666,0.4509487
+You should really stop...,やめた方が,If you stop,0.3333333333333333,0.49848217
 I get two beautiful girls!,"そっちの姉ちゃんも
 こっちに来てもらおうか！","Such an older sister
-Let's get here!",0.15384615384615385
-Damn it.,仕方ないかな？,Can not help it?,0.14285714285714285
+Let's get here!",0.15384615384615385,0.28125766
+Damn it.,仕方ないかな？,Can not help it?,0.14285714285714285,0.26299465
 for trusting a loser like this.,"姉ちゃん達も こんなダメな野郎を信じた
 我が身を恨むんだな","My sister also believed in such a bad guy
-I'm sorry for myself",0.10526315789473684
-"No, run!",フッ！,Hu!,0.2
+I'm sorry for myself",0.10526315789473684,0.34175405
+"No, run!",フッ！,Hu!,0.2,0.30583888
 What are you saying?,"何言ってる！
 ルルティエを置いて逃げられる訳がっ！","What are you saying!
-A translation that can escape by putting Lurtier!",0.2857142857142857
-"Everyone, please run!",皆さん 逃げてくださーいっ！,Please run away!,0.5
-"Rurutie, are you okay?",ルルティエ 大丈夫か？,Lourtier okay?,0.2857142857142857
-Yes.,はい,Yes,0.5
+A translation that can escape by putting Lurtier!",0.2857142857142857,0.17643626
+"Everyone, please run!",皆さん 逃げてくださーいっ！,Please run away!,0.5,0.6573496
+"Rurutie, are you okay?",ルルティエ 大丈夫か？,Lourtier okay?,0.2857142857142857,0.28750914
+Yes.,はい,Yes,0.5,0.83685577
 "Stop! Wait... Okay, I'm sorry!","ごめんなさい そうなっちゃうと
 もう止められないんです","I'm sorry
-I can not stop anymore",0.3333333333333333
-I warned you.,だから言ったのに,So I said,0.16666666666666666
-"Boss, wait for us!",待ってくだせえっすー！,Wait!,0.3333333333333333
-What is...,これは？,this is?,0.2
-I thank you.,礼を言わせてもらう,Get a thank you,0.3333333333333333
-"I am the Royal General \Nof the Right, Oshutoru.",あ いや 自分達は 別に…,"Oh, I am separately ...",0.23076923076923078
-"Oshutoru, the Royal General of the Right?",某は 帝都の右近衛大将 オシュトル,某 is the right corner of the imperial capital Ottol,0.21428571428571427
+I can not stop anymore",0.3333333333333333,0.6238788
+I warned you.,だから言ったのに,So I said,0.16666666666666666,0.35081407
+"Boss, wait for us!",待ってくだせえっすー！,Wait!,0.3333333333333333,0.40805054
+What is...,これは？,this is?,0.2,0.20985782
+I thank you.,礼を言わせてもらう,Get a thank you,0.3333333333333333,0.37264395
+"I am the Royal General \Nof the Right, Oshutoru.",あ いや 自分達は 別に…,"Oh, I am separately ...",0.2307692307692308,0.27664953
+"Oshutoru, the Royal General of the Right?",某は 帝都の右近衛大将 オシュトル,某 is the right corner of the imperial capital Ottol,0.21428571428571427,0.27068484
 "You're heading to the capital, right?","そなた達は
 帝都に向かっているのであったな？","Somehow
-Did you go to the imperial capital?",0.38461538461538464
-"Then we'll meet again, I'm sure.",ならば また会う事もあろう,"If so, you will meet again",0.21428571428571427
-I look forward to that day.,その日を楽しみにしている,I am looking forward to that day,0.5555555555555556
-That's the capital.,あれが帝都だ,That is the imperial capital,0.42857142857142855
-It really is impressive.,形変えては繰り返される 夢か現か,A dream or present if it is repeated,0.18181818181818182
+Did you go to the imperial capital?",0.38461538461538464,0.46178317
+"Then we'll meet again, I'm sure.",ならば また会う事もあろう,"If so, you will meet again",0.21428571428571427,0.67134225
+I look forward to that day.,その日を楽しみにしている,I am looking forward to that day,0.5555555555555556,0.88682306
+That's the capital.,あれが帝都だ,That is the imperial capital,0.42857142857142855,0.68709236
+It really is impressive.,形変えては繰り返される 夢か現か,A dream or present if it is repeated,0.18181818181818185,0.10276114
 "Well, it may be a little bigger \Nthan the capital of my homeland.","まあ わたくしの国の都より
 ちょっとだけ大きいかな？","Well from the city of the country of our country
-Is it a little bigger?",0.3333333333333333
-Just a little.,ちょっとだけだけど,I'm just a little,0.5
+Is it a little bigger?",0.3333333333333333,0.67506033
+Just a little.,ちょっとだけだけど,I'm just a little,0.5,0.6603284
 Would you like to look around \Nthe capital together?,"よろしければ一緒に
 帝都を回っていただけますか？","If it is good
-Can you go around the imperial capital?",0.2222222222222222
+Can you go around the imperial capital?",0.2222222222222222,0.5053786

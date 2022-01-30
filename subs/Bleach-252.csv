@@ -1,152 +1,152 @@
-en_text,jp_text,google_translated,score
-Sadness you feel,♪〜,♪ ~,0.0
-"so just stay, please stay with me…\NWhoa!",（イヅル）雛森くん！,く!,0.1111111111111111
-That answer will find you someday,〜♪,~ ♪,0.0
-He got me…,（乱菊(らんぎく)）はっ 藍染(あいぜん)隊長,) Hagigohai  Captain,0.0
-Damn…,あっ… あ…,Oh ... Oh ...,0.0
-It hurts.,藍染隊長 嫌です 嫌…,I hate to disgust,0.0
-won't move.,藍染隊長！,Anti-stained captain!,0.0
-Rukia…,（イヅルたち）あ…,...,0.0
+en_text,jp_text,google_translated,score,semantic_score
+Sadness you feel,♪〜,♪ ~,0.0,0.18476385
+"so just stay, please stay with me…\NWhoa!",（イヅル）雛森くん！,く!,0.1111111111111111,0.068796605
+That answer will find you someday,〜♪,~ ♪,0.0,0.14183825
+He got me…,（乱菊(らんぎく)）はっ 藍染(あいぜん)隊長,) Hagigohai  Captain,0.0,0.27396262
+Damn…,あっ… あ…,Oh ... Oh ...,0.0,0.26211318
+It hurts.,藍染隊長 嫌です 嫌…,I hate to disgust,0.0,0.19215262
+won't move.,藍染隊長！,Anti-stained captain!,0.0,0.0492483
+Rukia…,（イヅルたち）あ…,...,0.0,0.1520671
 "When she left, I was the one\Nwho didn't go after her.","藍染のヤツが
 １人で出歩くときにはな","Anti-dyed guy
-When walking alone",0.05555555555555555
-"District One has the\Nhighest standard of living,",あっ…,Ah…,0.0
-and a district like 78\Nwas the lowest of the low.,（イヅル）僕は三番隊副隊長だ,I am a third party banker,0.06666666666666667
-Get away!,はあっ！,What!,0.25
-Quit staring like that!,それはできない,that can not be done,0.1111111111111111
-Okay!,あっ うっ ううっ…,I'm sorry ...,0.0
-Let's do it!,ダメだ！,It is no good!,0.25
-Run!,どいて！　どいてよ！,Hide!Hide!,0.3333333333333333
+When walking alone",0.05555555555555555,0.15533364
+"District One has the\Nhighest standard of living,",あっ…,Ah…,0.0,0.08306159
+and a district like 78\Nwas the lowest of the low.,（イヅル）僕は三番隊副隊長だ,I am a third party banker,0.06666666666666668,0.110176355
+Get away!,はあっ！,What!,0.25,0.33828092
+Quit staring like that!,それはできない,that can not be done,0.1111111111111111,0.050274014
+Okay!,あっ うっ ううっ…,I'm sorry ...,0.0,0.27792013
+Let's do it!,ダメだ！,It is no good!,0.25,0.23952134
+Run!,どいて！　どいてよ！,Hide!Hide!,0.3333333333333333,0.43337446
 Shut up and keep running!,"公事と私事を混同するな！
 雛森副隊長！","Do not confuse public and private!
-Hiromori Deputy Director!",0.14285714285714285
+Hiromori Deputy Director!",0.14285714285714285,0.19246154
 Wha--?!,"（イヅル）自分が何をしているか
 分かっているのか！","What are you doing?
-Do you know!",0.2
-Huh? What's that?,（イヅル）なっ…,...,0.0
-Oh!,日番谷くん！,Hitani-kun!,0.3333333333333333
-What's with you? You don't need it.,先なんじゃねえのか,Do you not go ahead?,0.23076923076923078
-What did you say?!\NYou're just a newbie!,てめえ 雛森を殺そうとしたな？,Did you try to kill Hiramori?,0.2
-Got that?,（ギン）はて？　何のことやら,?What,0.25
-"Don't cry anymore.\NHere, you can have this.",俺が お前を殺すぜ,I kill you,0.08333333333333333
-What? What is it?,（隊員）何事です？　ハァハァ…,What is it?Huhaha ...,0.6666666666666666
-N-Nothing!,藍染隊長が！　なんという…,An indigo ax dirty!How ...,0.125
-What's the matter?!,ああ？　どおっ！,Ah?!,0.2857142857142857
-Nothing. I'm fine!,気色悪い… って,I'm sorry ...,0.25
-Wow! Look at this rickshaw!,もう この野郎！　ちきしょう…,This bastard already!Chiki ...,0.2
-Isn't it amazing?,も… もう大丈夫なのか？,... Is it all right?,0.375
-"I want to be one, too.",（岩鷲）い… 一護,I ...,0.1111111111111111
-In your dreams!,（一護）お前の傷も朝方—,Your scratches or morning,0.14285714285714285
+Do you know!",0.2,0.22986454
+Huh? What's that?,（イヅル）なっ…,...,0.0,0.24937883
+Oh!,日番谷くん！,Hitani-kun!,0.3333333333333333,0.1777563
+What's with you? You don't need it.,先なんじゃねえのか,Do you not go ahead?,0.2307692307692308,0.1996062
+What did you say?!\NYou're just a newbie!,てめえ 雛森を殺そうとしたな？,Did you try to kill Hiramori?,0.2,0.10129845
+Got that?,（ギン）はて？　何のことやら,?What,0.25,0.25629318
+"Don't cry anymore.\NHere, you can have this.",俺が お前を殺すぜ,I kill you,0.08333333333333333,0.2525429
+What? What is it?,（隊員）何事です？　ハァハァ…,What is it?Huhaha ...,0.6666666666666666,0.5655935
+N-Nothing!,藍染隊長が！　なんという…,An indigo ax dirty!How ...,0.125,0.303451
+What's the matter?!,ああ？　どおっ！,Ah?!,0.2857142857142857,0.26017636
+Nothing. I'm fine!,気色悪い… って,I'm sorry ...,0.25,0.3040138
+Wow! Look at this rickshaw!,もう この野郎！　ちきしょう…,This bastard already!Chiki ...,0.2,0.10810785
+Isn't it amazing?,も… もう大丈夫なのか？,... Is it all right?,0.375,0.17419153
+"I want to be one, too.",（岩鷲）い… 一護,I ...,0.1111111111111111,0.15752366
+In your dreams!,（一護）お前の傷も朝方—,Your scratches or morning,0.14285714285714285,0.237647
 "In order to become a Soul Reaper,\Nyou've gotta have a ton of spiritual energy.","知らねえうちに
 世話になってたんだな","In no longer
-I was taken care of",0.08333333333333333
-Hey! What's the matter?,（一護）ん？　何だよ？,? What?,0.2857142857142857
-Are you all right?,本気で行くんだろうな？,Do you really go?,0.25
+I was taken care of",0.08333333333333333,0.064499184
+Hey! What's the matter?,（一護）ん？　何だよ？,? What?,0.2857142857142857,0.22468513
+Are you all right?,本気で行くんだろうな？,Do you really go?,0.25,0.32674307
 "Err…no, we're not hungry…","下水の見物に
 来たわけじゃねえからな","For sewage views
-I'm not sure",0.08333333333333333
+I'm not sure",0.08333333333333333,0.105206706
 I was confused about it at first.,"そ… そんなに迫られても
 ぼ… 僕は… ご勘弁を！","So ... Even if it is so press
-... I'm addicting ...",0.125
-Oh…,あ…,Ah…,0.0
+... I'm addicting ...",0.125,0.13152105
+Oh…,あ…,Ah…,0.0,0.77995294
 Wow!,"あっ やめてください！
 やめてください！","Please stop!
-stop it!",0.2
-That makes me so happy!,見ない顔だな,It is a face that does not look,0.07692307692307693
-"Right, Renji?",（一護）チャド？,Chad?,0.2
-Y-Yeah…,（チャド）違う 茶渡(さど)だ,Different tea,0.0
+stop it!",0.2,0.23509617
+That makes me so happy!,見ない顔だな,It is a face that does not look,0.07692307692307693,0.037869163
+"Right, Renji?",（一護）チャド？,Chad?,0.2,0.24686469
+Y-Yeah…,（チャド）違う 茶渡(さど)だ,Different tea,0.0,0.14264113
 We'll be together forever!,"（チャド）今日 馬芝(ましば)中に
 転入することになっている ２-Ｆだ","During the horse
-It is 2-f that is supposed to be transferred",0.0625
+It is 2-f that is supposed to be transferred",0.0625,-0.0029414352
 she always shined.,"タメかよ
 ってか うちのクラスじゃねえか","Tame
-She is not a class of my class",0.09090909090909091
-"Renji, it's coming your way!",お前 何で殴り返さねえんだ？,What's wrong with you?,0.07692307692307693
+She is not a class of my class",0.09090909090909093,0.34631804
+"Renji, it's coming your way!",お前 何で殴り返さねえんだ？,What's wrong with you?,0.07692307692307693,0.040724564
 Hold it!,"（チャド）本当か？
 かなりボコボコにされてたろ","Is it true?
-It was quite buckled",0.1111111111111111
+It was quite buckled",0.1111111111111111,0.12517181
 "Hey, if you keep running around\Nlike that…","まあ いいや 何にしても
 手伝ってくれてサンキューな","Well, no matter what
-Thank you for helping me",0.125
-the other fish will get away!,血ぃ出てるぞ,I'm out of blood,0.0
+Thank you for helping me",0.125,0.17083646
+the other fish will get away!,血ぃ出てるぞ,I'm out of blood,0.0,0.16652921
 What're you standing around for?!,"（一護）知らねえのかよ
 じゃあ チャド･スミスは？","know knowing
-Well then, what is Chad Smith?",0.125
-We were a family.,（チャド）あっ…,...,0.0
-But…this was still a dirty town\Nwith dirty people living dirty lives.,（チャド）夢か,Dream,0.0
-The kids were all delinquents.,（隊員）いたぞ！,I'm!,0.0
-Everyone around us.,（隊員）三班は裏へ回れ！,Sansho is turned back!,0.0
-I hear it's a nice place\Nto live inside there.,こんなノックで起こされたら—,If it happens with such a knock-,0.125
-Ten years had passed since….\NRukia had become our friend.,（一護）本当か？,true?,0.0
-"Yeah, let's become Soul Reapers.",さあ 行きましょうか,Let's go,0.2222222222222222
-"Please let me solve it, Sensei!",何ですかじゃねえよ！,What is it!,0.2
-I like your spirit!,変わんねえよ さっきと,I'm sorry I'm sorry,0.14285714285714285
-"But in order for you to write\Non this blackboard,",よし 誰もいねえな,Good for everyone,0.08333333333333333
+Well then, what is Chad Smith?",0.125,0.15115057
+We were a family.,（チャド）あっ…,...,0.0,0.2151114
+But…this was still a dirty town\Nwith dirty people living dirty lives.,（チャド）夢か,Dream,0.0,0.07289587
+The kids were all delinquents.,（隊員）いたぞ！,I'm!,0.0,0.03639577
+Everyone around us.,（隊員）三班は裏へ回れ！,Sansho is turned back!,0.0,0.107665576
+I hear it's a nice place\Nto live inside there.,こんなノックで起こされたら—,If it happens with such a knock-,0.125,0.022540536
+Ten years had passed since….\NRukia had become our friend.,（一護）本当か？,true?,0.0,0.12938666
+"Yeah, let's become Soul Reapers.",さあ 行きましょうか,Let's go,0.2222222222222222,0.23071407
+"Please let me solve it, Sensei!",何ですかじゃねえよ！,What is it!,0.2,0.21069372
+I like your spirit!,変わんねえよ さっきと,I'm sorry I'm sorry,0.14285714285714285,0.14300956
+"But in order for you to write\Non this blackboard,",よし 誰もいねえな,Good for everyone,0.08333333333333333,0.1184963
 So I'll do it today.,"うろうろしてるとは
 思わねえだろうよ","It is a waroo
-I think I'm sorry",0.15384615384615385
+I think I'm sorry",0.15384615384615385,0.12128104
 He has no common sense.,"まさか 敵さんも
 一晩たって また同じ場所を—","Mr. Masaka also
-He has the same place again after overnight-",0.13333333333333333
+He has the same place again after overnight-",0.13333333333333333,0.12093133
 "Well, he's from District 78 of Rukongai,\Nafter all.","なあ そういや
 他の連中は大丈夫かな","Well
-Other people are okay",0.0625
-He really is vulgar.,それもそうか,Is it too?,0.125
+Other people are okay",0.0625,0.11754683
+He really is vulgar.,それもそうか,Is it too?,0.125,0.12601481
 "Now, let's move on to\Nthe next problem.","白マントの眼鏡と
 クルミ色の髪のかわい子ちゃんとか","With white man's glasses
-Kurumi colored hair cute child",0.05263157894736842
+Kurumi colored hair cute child",0.05263157894736842,0.11492093
 I'm really busy.,"いてて…
 ごめんなさい ごめんなさい","...
-I'm sorry, I'm sorry",0.25
-I like it when you raise\Nyour hands eagerly.,だから そうは見えねえっつうの,So it looks like it looks like,0.18181818181818182
-So…so keep showing\Nthat enthusiasm. Okay?,大丈夫さ きっと,Okay,0.14285714285714285
+I'm sorry, I'm sorry",0.25,0.21593685
+I like it when you raise\Nyour hands eagerly.,だから そうは見えねえっつうの,So it looks like it looks like,0.18181818181818185,0.08354273
+So…so keep showing\Nthat enthusiasm. Okay?,大丈夫さ きっと,Okay,0.14285714285714285,0.27617094
 W-What was that for?,"もう１人のは？
 あのチャドとかいう","What is another one?
-That chad",0.2
+That chad",0.2,0.16841674
 Most of the students here\Ncome from nobility.,"ってことは お前は あいつらより
 100倍 頭が悪(わり)いってことか","What is the only one
-100 times head is evil",0.0625
+100 times head is evil",0.0625,-0.0268403
 It can't be helped.,"無理にケンカを売るようなことは
 しねえはずだ","It is not possible to sell a fight forcibly
-It should be done",0.125
-Yeah…,（花太郎）ん…,...,0.0
+It should be done",0.125,0.13807856
+Yeah…,（花太郎）ん…,...,0.0,0.45692262
 there was a huge gap\Nbetween them and us.,"（一護）それに…
 （花太郎･岩鷲）お？","and ...
-?",0.09090909090909091
-Sorry!,クソ！　ば… 化け物め,Fucking!Mamora,0.25
-Rukia! You've gotta hear this!\NI passed the Second Exam!,朽木(くちき)ルキアの居所を聞いたら—,Hall  If you hear the place of Lucia-,0.16666666666666666
+?",0.09090909090909093,0.14271346
+Sorry!,クソ！　ば… 化け物め,Fucking!Mamora,0.25,0.13027634
+Rukia! You've gotta hear this!\NI passed the Second Exam!,朽木(くちき)ルキアの居所を聞いたら—,Hall  If you hear the place of Lucia-,0.16666666666666666,0.32897496
 Nobles?,"（チャド）ん？
 （隊員）あれが懺罪宮です","?
- That's a snail",0.16666666666666666
+ That's a snail",0.16666666666666666,0.16929564
 Hmm… it seems we've been interrupted.,"あのずっと向こうに見える
 白い塔みたいなの","It looks like that much back
-It looks like a white tower",0.0625
-This…amazing Spiritual Pressure!,いやあ！,No!,0.2
-What?,はい？,Yes?,0.3333333333333333
-and make arrangements to put me\Ninto one of the 13 Court Guard Squads.,行くぜ 懺罪宮へ,Go to the snail palace,0.11764705882352941
-That's great!,（岩鷲）うむ！,Um!,0.2
-That's great! It's awesome!,詰所の門を突破されたもようです,It seems that the gate of the sour is overwhelmed,0.15384615384615385
-You think so?,（京楽）何だ もう来ちゃったのか,What did you come already?,0.25
-That's what I kept telling myself.,あの人は これ以上—,That person more-,0.1
+It looks like a white tower",0.0625,0.09151654
+This…amazing Spiritual Pressure!,いやあ！,No!,0.2,0.13803107
+What?,はい？,Yes?,0.3333333333333333,0.318024
+and make arrangements to put me\Ninto one of the 13 Court Guard Squads.,行くぜ 懺罪宮へ,Go to the snail palace,0.1176470588235294,0.23150809
+That's great!,（岩鷲）うむ！,Um!,0.2,0.2655028
+That's great! It's awesome!,詰所の門を突破されたもようです,It seems that the gate of the sour is overwhelmed,0.15384615384615385,0.092095956
+You think so?,（京楽）何だ もう来ちゃったのか,What did you come already?,0.25,0.09219069
+That's what I kept telling myself.,あの人は これ以上—,That person more-,0.1,0.03581394
 I'm sick of it…,"フゥ…
 まあ そう 心配そうな顔しなさんな","Hu ...
-Well I'm afraid I'm afraid",0.2222222222222222
-It's your fault that Rukia was imprisoned!,そんなところが すてき！,That's why!,0.3
-It's because I didn't stop Rukia…,すぐ終わるよ,It ends soon,0.1
+Well I'm afraid I'm afraid",0.2222222222222222,0.2688905
+It's your fault that Rukia was imprisoned!,そんなところが すてき！,That's why!,0.3,0.19880383
+It's because I didn't stop Rukia…,すぐ終わるよ,It ends soon,0.1,0.14209981
 I truly believed that…!,"（花太郎）お先に行きますよ
 （一護･岩鷲）おおっ!?","I will go to the first time
- Oh!?",0.15384615384615385
-He's too strong!,（一護･岩鷲）ありえねえ！,There is no!,0.125
-Getting Rukia back with strength…,よし このまま一気に奥まで行くぜ,Good to go to the back at once,0.09090909090909091
-Save…Rukia!,（岩鷲）おっ？,?,0.0
-I will.,うあっ ああっ,I'm sorry,0.2
+ Oh!?",0.15384615384615385,0.08176938
+He's too strong!,（一護･岩鷲）ありえねえ！,There is no!,0.125,0.24472359
+Getting Rukia back with strength…,よし このまま一気に奥まで行くぜ,Good to go to the back at once,0.09090909090909093,0.18866879
+Save…Rukia!,（岩鷲）おっ？,?,0.0,0.112637
+I will.,うあっ ああっ,I'm sorry,0.2,0.24340072
 So that this throat will not be torn apart.,"な… 何だ？
 このデタラメな霊圧は","... What?
-This decorative repire is",0.0625
-I would fly across the sky… I'm sure,（岩鷲）腹減ったよな,I was hungry,0.1
+This decorative repire is",0.0625,0.15609258
+I would fly across the sky… I'm sure,（岩鷲）腹減ったよな,I was hungry,0.1,0.22553344
 Now and forever,"（剣八(けんぱち)）おかしい
 いつまで待っても ヤツらが来ねえ",") funny
-She is waiting for me to wait forever",0.08333333333333333
-This positively reeks of bad things!,（岩鷲）おお！　ここだ ここだ,!Here is here,0.1111111111111111
+She is waiting for me to wait forever",0.08333333333333333,0.26231077
+This positively reeks of bad things!,（岩鷲）おお！　ここだ ここだ,!Here is here,0.1111111111111111,0.07592146
 "– And my injury?\N– Good kids nationwide, you just wait!","（一護）
-そういや 最近 メシ食ったか？","Well, did you eat Mei recently?",0.15789473684210525
+そういや 最近 メシ食ったか？","Well, did you eat Mei recently?",0.15789473684210525,0.14425942

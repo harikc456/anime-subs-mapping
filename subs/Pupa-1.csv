@@ -1,13 +1,13 @@
-en_text,jp_text,google_translated,score
-tobidachitai no habatakitai,{\blur5}日听：郝郝    听校：口罩面    翻译：有明の月    时间轴：葛蔓    压制：娜夏,Sun : 郝郝 听 译: 罩 译 译: 有: 蔓: 娜,0.0
-I'm sooo tired.,疲れた 宿題どうしよう,How can I do tired homework,0.2222222222222222
-"Okay. I'll be done soon, so go wait for me at the park.",分かった すぐ行くから 公園で待ってな,I understand that I'm going to wait in the park,0.18181818181818182
-'Kay.,うん,Yes,0.0
-Hurry home.,帰りなさい,Go home,0.25
-Such big butterflies.,大きな蝶,Big butterfly,0.2
-They're so beautiful!,すごくきれい,really beautiful,0.16666666666666666
-"Hasegawa Yume,",長谷川夢,Dream of Hasegawa,0.2
-who do you think you are?,お前は何者だ,Who is you,0.2857142857142857
-Yume!,夢 夢,Dream dream,0.0
-Your stuffing's spilling out!,中身 飛び出しちゃった,I flew out,0.125
-What is this?,何これ,What's this,0.4
+en_text,jp_text,google_translated,score,semantic_score
+tobidachitai no habatakitai,{\blur5}日听：郝郝    听校：口罩面    翻译：有明の月    时间轴：葛蔓    压制：娜夏,Sun : 郝郝 听 译: 罩 译 译: 有: 蔓: 娜,0.0,0.24490543
+I'm sooo tired.,疲れた 宿題どうしよう,How can I do tired homework,0.2222222222222222,0.48915845
+"Okay. I'll be done soon, so go wait for me at the park.",分かった すぐ行くから 公園で待ってな,I understand that I'm going to wait in the park,0.18181818181818185,0.6474854
+'Kay.,うん,Yes,0.0,0.1728108
+Hurry home.,帰りなさい,Go home,0.25,0.57149166
+Such big butterflies.,大きな蝶,Big butterfly,0.2,0.7233509
+They're so beautiful!,すごくきれい,really beautiful,0.16666666666666666,0.49822238
+"Hasegawa Yume,",長谷川夢,Dream of Hasegawa,0.2,0.67186576
+who do you think you are?,お前は何者だ,Who is you,0.2857142857142857,0.5873338
+Yume!,夢 夢,Dream dream,0.0,0.15878704
+Your stuffing's spilling out!,中身 飛び出しちゃった,I flew out,0.125,0.1917104
+What is this?,何これ,What's this,0.4,0.6614397

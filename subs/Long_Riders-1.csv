@@ -1,234 +1,234 @@
-en_text,jp_text,google_translated,score
-"Say, have you picked a club?",ねえねえ もうサークル決めた？,"Hey, did you set a circle anymore?",0.3076923076923077
-Want to try tennis?,テニスやってみない？,Don't you do tennis?,0.25
-"No thank you, I'm...",ごめんごめん 待たせちゃって,I'm sorry I'm waiting for you,0.3
-It's okay.,ん,Hmm,0.0
-"Well, it is club enrollment season after all.",サークル勧誘の季節だからな,Because it is a season of circle solicitation,0.2
-"Ami, are you thinking of joining any?",亜美はサークルとか考えてるのか？,Ami is thinking about a circle?,0.23076923076923078
+en_text,jp_text,google_translated,score,semantic_score
+"Say, have you picked a club?",ねえねえ もうサークル決めた？,"Hey, did you set a circle anymore?",0.3076923076923077,0.27614623
+Want to try tennis?,テニスやってみない？,Don't you do tennis?,0.25,0.71807927
+"No thank you, I'm...",ごめんごめん 待たせちゃって,I'm sorry I'm waiting for you,0.3,0.38903365
+It's okay.,ん,Hmm,0.0,0.2723892
+"Well, it is club enrollment season after all.",サークル勧誘の季節だからな,Because it is a season of circle solicitation,0.2,0.3547819
+"Ami, are you thinking of joining any?",亜美はサークルとか考えてるのか？,Ami is thinking about a circle?,0.2307692307692308,0.3619303
 "I made it into college,\Nso I'd like to try something, but...","なんかやってみたいなーって
 いう気はしてるんだけど　ふわ","I want to do something
-I feel like I'm wondering",0.21052631578947367
-"Ami, are you okay?!",亜美 大丈夫か？,Ami okay?,0.42857142857142855
-I'm okay.,あたた 大丈夫,Okay,0.25
-Aoi-chan is always so cool...,やっぱりかっこいいなあ,After all it is cool,0.2222222222222222
+I feel like I'm wondering",0.21052631578947367,0.5057579
+"Ami, are you okay?!",亜美 大丈夫か？,Ami okay?,0.42857142857142855,0.7724594
+I'm okay.,あたた 大丈夫,Okay,0.25,0.52610505
+Aoi-chan is always so cool...,やっぱりかっこいいなあ,After all it is cool,0.2222222222222222,0.25638393
 We still have time until the bus gets here.,"-葵ちゃん
 -バスが来るまで時間あるけど","-
--The time to come until the bus comes",0.26666666666666666
-Anywhere you want to drop by?,ほら 立てるか？,Do you want to stand?,0.4444444444444444
-That girl...,あの子,That girl,0.6666666666666666
-You know her?,知り合いか？,Do you know?,0.6
-Is there something about that folding bike?,あの折り畳み自転車がどうかしたか？,That folding bike did you do?,0.36363636363636365
-Ami?,亜美？,Ami?,1.0
-So cute...,はああ,Haho,0.0
+-The time to come until the bus comes",0.26666666666666666,0.76166445
+Anywhere you want to drop by?,ほら 立てるか？,Do you want to stand?,0.4444444444444444,0.17697592
+That girl...,あの子,That girl,0.6666666666666666,0.81063247
+You know her?,知り合いか？,Do you know?,0.6,0.46107304
+Is there something about that folding bike?,あの折り畳み自転車がどうかしたか？,That folding bike did you do?,0.3636363636363637,0.735525
+Ami?,亜美？,Ami?,1.0,1.0000002
+So cute...,はああ,Haho,0.0,0.15806048
 But maybe I could manage that folding bike we just saw...,"葵ちゃんの
 その自転車とかは無理だけど","Octopus
-That bike is impossible",0.13333333333333333
+That bike is impossible",0.13333333333333333,0.49526322
 "Ami riding a bike, huh?\N  I'm getting anxious just thinking of you falling.","さっきの折り畳み自転車なら
 私も乗れそうかなーって","If it is a folded bike earlier
-I'm going to get rid of me",0.17857142857142858
-But... But you know...!,でも でもね,But,0.2
-Really?,そうなのか？,Is that so?,0.2
+I'm going to get rid of me",0.17857142857142858,0.55971694
+But... But you know...!,でも でもね,But,0.2,0.5102017
+Really?,そうなのか？,Is that so?,0.2,0.45281473
 "Oh, I was afraid of falling, like you said.","まあ 葵ちゃんの言う通り
 すぐ転びそうで怖かったから","Well, as you say
-Because I was scared soon",0.23529411764705882
-But I think I can give it a go on a cute bicycle like that!,でも あんな可愛い自転車なら,But if it is a cute bike,0.23529411764705882
-But...,でも,but,0.5
-I know a shop that might carry one.,売ってそうな店 知ってるから,I know the store that is likely to sell,0.2
-I want to go! Take me there!,行きたい！　連れてって！,want to go! take me!,0.75
-"Thank you, Aoi-chan!",ありがとう 葵ちゃん,Thank you,0.4
-I'm sure they sell them here.,ここならきっと売ってるぞ,I'm already selling here,0.3
-There it is!,他にも色々あるんだね,There are many other things,0.125
-"Yes! It's small and cute, and so cool!",やっぱりちっちゃくて可愛くてかっこいい,"After all, it's pretty cute and cool",0.46153846153846156
-Aoi-chan?,あ え あ 葵ちゃん？,Aoi Aoi-chan?,0.6666666666666666
-What's the matter?,どうした？,What happened?,0.3333333333333333
+Because I was scared soon",0.2352941176470588,0.6157873
+But I think I can give it a go on a cute bicycle like that!,でも あんな可愛い自転車なら,But if it is a cute bike,0.2352941176470588,0.7802195
+But...,でも,but,0.5,0.7223228
+I know a shop that might carry one.,売ってそうな店 知ってるから,I know the store that is likely to sell,0.2,0.65158594
+I want to go! Take me there!,行きたい！　連れてって！,want to go! take me!,0.75,0.89888346
+"Thank you, Aoi-chan!",ありがとう 葵ちゃん,Thank you,0.4,0.34917736
+I'm sure they sell them here.,ここならきっと売ってるぞ,I'm already selling here,0.3,0.44849554
+There it is!,他にも色々あるんだね,There are many other things,0.125,0.34361598
+"Yes! It's small and cute, and so cool!",やっぱりちっちゃくて可愛くてかっこいい,"After all, it's pretty cute and cool",0.4615384615384616,0.50328535
+Aoi-chan?,あ え あ 葵ちゃん？,Aoi Aoi-chan?,0.6666666666666666,0.9624796
+What's the matter?,どうした？,What happened?,0.3333333333333333,0.2922902
 "W-Well... there's a ridiculous number\N on the price tag, but...","値札にあり得ない
 値段が書いてあるんだけど","It can not be in a price tag
-The price is written",0.2
-The prices aren't wrong.,１けた間違ってるよね これ,I'm wrong with it,0.1
-"That one's over 600,000 yen.",60万円超えてるし,"I'm over 600,000 yen",0.3333333333333333
-Six?,６？,6?,0.3333333333333333
-I withdrew all my money.,通帳のお金 全部下ろして来たのに,I came down all of the passbook money,0.2727272727272727
-"My entire savings of 62,052 yen.",所持金総額６万2000飛んで52円,"Total money total of 62,000 flying 52 yen",0.16666666666666666
-Who knew bicycles were so expensive?!,自転車がまさかあんなに高いなんて,Bicycle is so high,0.09090909090909091
-Ami...,亜美,Ami,0.5
-There are other stores.,他にも店あるけど,There are other stores,0.8
-Want to take a look?,見てみるか？,Do you look at it?,0.2
-I think this shop isn't as expensive.,ここならそんなには高くないと思うぞ,I think this is not so high here,0.3076923076923077
-But as for the performance...,まあでも性能的には,"Well, performance",0.125
-Huh? Ami?,て 亜美？,Ami?,0.6666666666666666
-To think there was such a cute...,こんな可愛いのがあるなんて,I have such a cute,0.3
-It's cheap!,ちっちゃくてずんぐりっとしてて,It's a little bit,0.2857142857142857
-"No, it's not cheap...\Nbut cheaper than the others!",いやあ 安くはないんだけど,"No, it is not cheap",0.35714285714285715
-What's the difference from the last one?,何がそんなに違うの？　さっきのと,What is different from?After a while ago,0.21428571428571427
-I see...,そうなんだ,I see,0.6666666666666666
-But it's cute!,でもな　確かに可愛いが,But certainly cute,0.3333333333333333
-I think you should take a look at some of the other...,もう少し他のも見てみた方が,If you look at another more else,0.17647058823529413
-I want this one!,私 この子に決めたよ,I decided to be this child,0.2222222222222222
-That was a quick decision.,即決だったな,It was a prompt decision,0.375
-I see.,そっか,I see,0.6666666666666666
-"By the way, Ami...",ところで亜美,By the way,0.5
-Are you going to ride it to school?,その自転車で通学とかか？,Is it going to go to school by the bicycle?,0.38461538461538464
+The price is written",0.2,0.52746
+The prices aren't wrong.,１けた間違ってるよね これ,I'm wrong with it,0.1,0.28188062
+"That one's over 600,000 yen.",60万円超えてるし,"I'm over 600,000 yen",0.3333333333333333,0.795001
+Six?,６？,6?,0.3333333333333333,0.93662316
+I withdrew all my money.,通帳のお金 全部下ろして来たのに,I came down all of the passbook money,0.2727272727272727,0.55653286
+"My entire savings of 62,052 yen.",所持金総額６万2000飛んで52円,"Total money total of 62,000 flying 52 yen",0.16666666666666666,0.6493356
+Who knew bicycles were so expensive?!,自転車がまさかあんなに高いなんて,Bicycle is so high,0.09090909090909093,0.50750613
+Ami...,亜美,Ami,0.5,0.8563044
+There are other stores.,他にも店あるけど,There are other stores,0.8,0.98007506
+Want to take a look?,見てみるか？,Do you look at it?,0.2,0.3667087
+I think this shop isn't as expensive.,ここならそんなには高くないと思うぞ,I think this is not so high here,0.3076923076923077,0.3685458
+But as for the performance...,まあでも性能的には,"Well, performance",0.125,0.6916457
+Huh? Ami?,て 亜美？,Ami?,0.6666666666666666,0.8657303
+To think there was such a cute...,こんな可愛いのがあるなんて,I have such a cute,0.3,0.46580172
+It's cheap!,ちっちゃくてずんぐりっとしてて,It's a little bit,0.2857142857142857,0.2524343
+"No, it's not cheap...\Nbut cheaper than the others!",いやあ 安くはないんだけど,"No, it is not cheap",0.35714285714285715,0.9022799
+What's the difference from the last one?,何がそんなに違うの？　さっきのと,What is different from?After a while ago,0.21428571428571427,0.408783
+I see...,そうなんだ,I see,0.6666666666666666,0.8542532
+But it's cute!,でもな　確かに可愛いが,But certainly cute,0.3333333333333333,0.59116703
+I think you should take a look at some of the other...,もう少し他のも見てみた方が,If you look at another more else,0.17647058823529413,0.36738262
+I want this one!,私 この子に決めたよ,I decided to be this child,0.2222222222222222,0.17020325
+That was a quick decision.,即決だったな,It was a prompt decision,0.375,0.56451446
+I see.,そっか,I see,0.6666666666666666,0.8909205
+"By the way, Ami...",ところで亜美,By the way,0.5,0.5479297
+Are you going to ride it to school?,その自転車で通学とかか？,Is it going to go to school by the bicycle?,0.38461538461538464,0.73833615
 "Actually, I haven't given it much thought.","だって なんかもう
 居ても立ってもいられなくて","I'm sorry
-I can not stand it",0.13333333333333333
+I can not stand it",0.13333333333333333,0.19356452
 So I think I want this to be a long-term commitment.,"自転車は長く続けたい
 っていうのはあるかな","Bicycles want to continue for a long time
-Is there any",0.15789473684210525
+Is there any",0.15789473684210525,0.2704525
 Riding on this bike and moving my body seems like fun.,"この子に乗って
 体動かすのって楽しそうだし","Riding this child
-It looks fun for the body movement",0.2222222222222222
-Then I might... be able to change a little!,少しは変わることが出来るのかな,I wonder if it can change a little,0.26666666666666666
+It looks fun for the body movement",0.2222222222222222,0.66901433
+Then I might... be able to change a little!,少しは変わることが出来るのかな,I wonder if it can change a little,0.26666666666666666,0.5689261
 Then how about we go cycling during our next break?,"それなら今度の休み
 サイクリングにでも行くか？","That's the rest of this day
-Do you go for cycling?",0.14285714285714285
-That...,それって,that's,0.3333333333333333
-"Ah... um, you don't have to force\N yourself if you don't want to.",嫌なら無理しなくても,Even if you don't overdo it,0.23529411764705882
+Do you go for cycling?",0.14285714285714285,0.7029202
+That...,それって,that's,0.3333333333333333,0.47830948
+"Ah... um, you don't have to force\N yourself if you don't want to.",嫌なら無理しなくても,Even if you don't overdo it,0.2352941176470588,0.23353957
 Definitely! Definitely! De-fi-nitely!,"-行く　絶対行く！
 -ん","- Go to go!
--Hmm",0.14285714285714285
-"It's a promise, okay, Aoi-chan?!",約束だからね　葵ちゃん,Because it is a promise,0.2727272727272727
+-Hmm",0.14285714285714285,0.26526064
+"It's a promise, okay, Aoi-chan?!",約束だからね　葵ちゃん,Because it is a promise,0.2727272727272727,0.49962124
 What kind of wonderful things\N are in store for you and me?,"この子と一緒に
 どんな素敵なことが待ってるんだろう","Together with this child
-What kind of wonderful thing will be waiting",0.19047619047619047
-I'm so excited!,ンヒ　楽しみだなあ,I'm looking forward to it,0.2222222222222222
-You're sooo cute!,よろしくねー エヘ,Thank you,0.16666666666666666
+What kind of wonderful thing will be waiting",0.19047619047619047,0.5264507
+I'm so excited!,ンヒ　楽しみだなあ,I'm looking forward to it,0.2222222222222222,0.47191
+You're sooo cute!,よろしくねー エヘ,Thank you,0.16666666666666666,0.35329
 "Onee-chan, what are you doing?","-何やってるの？
 -フフン フフ","-What are you doing?
--Fhuhunfufu",0.4444444444444444
-Huh?!,お姉ちゃん？,older sister?,0.2
-It's a perfect day for cycling!,絶好の自転車日和だね,It is a great bike weather,0.16666666666666666
-But I've gotta say...,ん　ああ,Ah,0.0
-Ponta-kun!,ポンタくん ああもう,Ponta-kun Oh,0.3333333333333333
+-Fhuhunfufu",0.4444444444444444,0.46914634
+Huh?!,お姉ちゃん？,older sister?,0.2,0.20046079
+It's a perfect day for cycling!,絶好の自転車日和だね,It is a great bike weather,0.16666666666666666,0.6034378
+But I've gotta say...,ん　ああ,Ah,0.0,0.105975196
+Ponta-kun!,ポンタくん ああもう,Ponta-kun Oh,0.3333333333333333,0.89244884
 The sun is really making you sparkle!,"本当可愛いよー
 お日さまに照らされてきらきらだねー","Really cute good
-It is illuminated by the day",0.21428571428571427
-I can't stay still!,もうじっとしてられないよー,I can not be a longer,0.09090909090909091
-"What're you doing, Ami?",何やってるんだ？ 亜美,What are you doing?Ami,0.625
-Oh yeah?,ああー,Oh,0.3333333333333333
-"Oh, but your bike is as cool cool as ever.",あ アハ　ちょっとね,"Oh, Aha a little",0.15384615384615385
-Ponta-kun?,ポンタくん？,Ponta-kun?,1.0
-That's his name.,やっぱり葵ちゃんの自転車かっこいいね,After all ん 's bicycle cool,0.1
-Look!,見て見て,Look look,0.5
-Pontac?,PONTAC？,Pontac?,1.0
-So that's it...,なるほど,So that's it,0.8
+It is illuminated by the day",0.21428571428571427,0.43724948
+I can't stay still!,もうじっとしてられないよー,I can not be a longer,0.09090909090909093,0.43340358
+"What're you doing, Ami?",何やってるんだ？ 亜美,What are you doing?Ami,0.625,0.9350852
+Oh yeah?,ああー,Oh,0.3333333333333333,0.6764084
+"Oh, but your bike is as cool cool as ever.",あ アハ　ちょっとね,"Oh, Aha a little",0.15384615384615385,0.19670597
+Ponta-kun?,ポンタくん？,Ponta-kun?,1.0,0.9999998
+That's his name.,やっぱり葵ちゃんの自転車かっこいいね,After all ん 's bicycle cool,0.1,0.14052826
+Look!,見て見て,Look look,0.5,0.69255793
+Pontac?,PONTAC？,Pontac?,1.0,0.9999995
+So that's it...,なるほど,So that's it,0.8,0.826314
 "Small, cute, and stout!\NIsn't it the perfect name for this bike?","ずんぐりとしたフォルムの
 この子にぴったりな名前だよね","Of the form
-It is a perfect name for this girl",0.2857142857142857
-"But you have to calm down,\Nit can be dangerous.",でも少しは落ち着かないと危ないぞ,But I'm dangerous if I don't calm down a little,0.21052631578947367
-So anyway...,だからポンタくんだよ,So ponta kun,0.2
-Where are we going today?,今日ってどこ行くの？,Where are you going today?,0.7142857142857143
+It is a perfect name for this girl",0.2857142857142857,0.42702615
+"But you have to calm down,\Nit can be dangerous.",でも少しは落ち着かないと危ないぞ,But I'm dangerous if I don't calm down a little,0.21052631578947367,0.8627415
+So anyway...,だからポンタくんだよ,So ponta kun,0.2,0.19177619
+Where are we going today?,今日ってどこ行くの？,Where are you going today?,0.7142857142857143,0.8856058
 I'm thinking we should ride down this cycling road.,"今日はこの
 サイクリングロードを走ろうと思う","Today is this
-I'm going to run Cycling Road",0.3125
-"There's almost no danger of cars on this road,",この道なら車の危険もほとんど無いし,There is almost no danger of car if this road,0.5
-"and it's a flat, easy path,\Nabout 40 kilometers round trip.",往復しても40kmくらいの平坦な道だ,It is a flat road of about 40 km even if it reciprocates,0.18181818181818182
+I'm going to run Cycling Road",0.3125,0.657159
+"There's almost no danger of cars on this road,",この道なら車の危険もほとんど無いし,There is almost no danger of car if this road,0.5,0.9248373
+"and it's a flat, easy path,\Nabout 40 kilometers round trip.",往復しても40kmくらいの平坦な道だ,It is a flat road of about 40 km even if it reciprocates,0.18181818181818185,0.7676557
 "It's just right for\Na beginner like you, Ami.","サイクリングが初めての亜美には
 ちょうどいいだろう","Ami for the first time cycling
-It will be good",0.10526315789473684
+It will be good",0.10526315789473684,0.38874897
 "If you get tired,\Nwe don't have to go all the way.","まあ体力的に厳しかったら
 途中まででもいいし","If it is even more difficult
-It may be on the way",0.13043478260869565
-"Okay, shall we go, Ponta-kun?",行こうか ポンタくん,Let's go or Ponta-kun,0.2
-Here we go!,気楽に行こう,Let's go comfortable,0.14285714285714285
-This is amazing. \NThe scenery is changing around me so quickly...,すごい　景色がどんどん流れていく,A great scenery flows more and more,0.058823529411764705
-"I'm seeing the world from higher up than usual,",いつもより世界が高くて,The world is higher than usual,0.4166666666666667
+It may be on the way",0.13043478260869565,0.3030355
+"Okay, shall we go, Ponta-kun?",行こうか ポンタくん,Let's go or Ponta-kun,0.2,0.80338615
+Here we go!,気楽に行こう,Let's go comfortable,0.14285714285714285,0.31073242
+This is amazing. \NThe scenery is changing around me so quickly...,すごい　景色がどんどん流れていく,A great scenery flows more and more,0.05882352941176471,0.64625084
+"I'm seeing the world from higher up than usual,",いつもより世界が高くて,The world is higher than usual,0.4166666666666667,0.8022199
 Kanagawa Prefecture,"-ウフ フフフ　フンフン
 -フフ","-U hhuhofu hung hun
--Fhh",0.0
-The breeze feels so good.,風が気持ちいい,The wind is comfortable,0.1111111111111111
+-Fhh",0.0,0.19457851
+The breeze feels so good.,風が気持ちいい,The wind is comfortable,0.1111111111111111,0.6641271
 It's okay! I'm fine!,"あんまり調子に乗って
 スピード出してると 疲れるぞ","Riding a lot
-I'm tired when I'm drawing",0.15384615384615385
-I feel like I could go on forever!,すっごく遠くまで来た気がする,I feel that I came far far,0.18181818181818182
-I can feel how my own strength is pushing me forward.,自分の力で前に進んでるのが分かる,You can see that you are going forward with your own power,0.15
+I'm tired when I'm drawing",0.15384615384615385,0.14854197
+I feel like I could go on forever!,すっごく遠くまで来た気がする,I feel that I came far far,0.18181818181818185,0.27170727
+I can feel how my own strength is pushing me forward.,自分の力で前に進んでるのが分かる,You can see that you are going forward with your own power,0.15,0.62448925
 "Now that I know how it feels, I can't stop!","こんな感覚知っちゃったら
 もう止まれないよー","If you know such a sense
-I will not stop anymore",0.15
-Huh? What's this...?,はあ　あれ？　ん ん あれれ？,Is it?What is it?,0.25
-Hey...,なんか体が,Something,0.0
+I will not stop anymore",0.15,0.47570336
+Huh? What's this...?,はあ　あれ？　ん ん あれれ？,Is it?What is it?,0.25,0.34380618
+Hey...,なんか体が,Something,0.0,0.12660606
 "Are you okay, Ami?","-大丈夫か？ 亜美
 -うう","-Are you okay?Ami
--UU",0.5
-I wonder what's wrong?,何でだろう　手も足も震えてきちゃって,What's wrong with your feet too shaking,0.2727272727272727
-It felt so weird.,変な感じなんだよね,It looks strange,0.14285714285714285
+-UU",0.5,0.75870603
+I wonder what's wrong?,何でだろう　手も足も震えてきちゃって,What's wrong with your feet too shaking,0.2727272727272727,0.31476006
+It felt so weird.,変な感じなんだよね,It looks strange,0.14285714285714285,0.4666857
 I felt like I could go anywhere if I had this bike with me.,"この子とだったら
 どこまでも行けると思ったのに","If it is this child
-I thought she could go anywhere",0.3333333333333333
-But maybe it's impossible for me.,私には無理だったかも,Maybe I was impossible,0.2
-"Ami, did you eat a proper breakfast?",今朝はちゃんとご飯食べて来たか？,Did you eat rice properly this morning?,0.3076923076923077
-I didn't... eat.,食べてない　よ？,Don't eat it?,0.2222222222222222
-I figured I'd feel nauseous if I ate before exercising.,運動前に食べたら気持ち悪くなるから,Because I feel sick if I ate before exercise,0.38461538461538464
-That's it!,それだ！,That's it!,1.0
+I thought she could go anywhere",0.3333333333333333,0.35044226
+But maybe it's impossible for me.,私には無理だったかも,Maybe I was impossible,0.2,0.6891394
+"Ami, did you eat a proper breakfast?",今朝はちゃんとご飯食べて来たか？,Did you eat rice properly this morning?,0.3076923076923077,0.6772898
+I didn't... eat.,食べてない　よ？,Don't eat it?,0.2222222222222222,0.5274911
+I figured I'd feel nauseous if I ate before exercising.,運動前に食べたら気持ち悪くなるから,Because I feel sick if I ate before exercise,0.38461538461538464,0.7724814
+That's it!,それだ！,That's it!,1.0,0.9999998
 You have to eat properly!\NNo wonder you collapsed.,"ちゃんと食べなきゃ
 倒れて当たり前だろう","I have to eat properly
-It will be natural to fall",0.25
+It will be natural to fall",0.25,0.55014807
 Ami.,"今の亜美は 寝不足の上に
 朝食も食べずに運動したから","Ami now is upside down
-Because she exercised without eating breakfast",0.08333333333333333
-Hunger knock?,ハンガーノック？,Hungar knock?,0.5
-You need to replenish your energy to go on.,要するにエネルギー切れだ,Energy cuts,0.1
+Because she exercised without eating breakfast",0.08333333333333333,0.41213462
+Hunger knock?,ハンガーノック？,Hungar knock?,0.5,0.46756008
+You need to replenish your energy to go on.,要するにエネルギー切れだ,Energy cuts,0.1,0.42684126
 "Still, I didn't expect to need\N replenishments at this distance.","とはいえ この距離で
 補給食が要るとは思わなかったしな","However, at this distance
-I did not think that the replenishment food would take",0.2727272727272727
-Excuse me!,すみませーん,Excuse me,0.6666666666666666
-What? Is she a beginner?,何だ？　その子 初心者か？,What?Is that child beginner?,0.5
-"Yes, today's my first time cycling.",今日が初めてのサイクリングで,Today is the first cycling,0.2727272727272727
+I did not think that the replenishment food would take",0.2727272727272727,0.6932722
+Excuse me!,すみませーん,Excuse me,0.6666666666666666,0.8765357
+What? Is she a beginner?,何だ？　その子 初心者か？,What?Is that child beginner?,0.5,0.77720535
+"Yes, today's my first time cycling.",今日が初めてのサイクリングで,Today is the first cycling,0.2727272727272727,0.8234778
 "Eat this and rest a bit,\Nthen you'll be able to pedal.","これ食って少し休めば
 動けるようになるから","If you eat this little
-Because it will move",0.14285714285714285
-That's...,それは,that is,0.25
-Too sweet!,甘っ！,Sweet!,0.6666666666666666
-How is it?,どうだ？,How is it?,1.0
-Thank you very much.,ありがとうございました,thank you very much,0.8
+Because it will move",0.14285714285714285,0.404534
+That's...,それは,that is,0.25,0.55214965
+Too sweet!,甘っ！,Sweet!,0.6666666666666666,0.66141456
+How is it?,どうだ？,How is it?,1.0,1.0000002
+Thank you very much.,ありがとうございました,thank you very much,0.8,0.89597684
 "But I think you should get\N a little more nourishment, right?","出来ればもうちょっと
 しっかりした補給をした方がいいわよね","If possible, a little more
-It is better to make a solid supply",0.18181818181818182
-"In that case, there's a good place for that nearby.",近くにいい所があるぞ,There is a good place nearby,0.38461538461538464
-I feel revitalized!,なんか生き返る気分だよー,I feel like I'm going to live,0.2222222222222222
-Is this a dairy farm?,ここ 牧場ですか？,Is this a ranch?,0.5714285714285714
-I didn't know there was a place like this around here.,近くにこんな所があったなんて,I had such a place nearby,0.1875
-It's the smallest dairy farm in Japan.\NSome people probably never notice it.,気付かない人もいるだろうな,Some people do not notice,0.125
-Be careful from now on.,今度からは気を付けてね,Please be careful from this time,0.3333333333333333
-Yes! I'm so sorry.,ああ はい　ごめんなさい,Oh yes sorry,0.25
+It is better to make a solid supply",0.18181818181818185,0.21750222
+"In that case, there's a good place for that nearby.",近くにいい所があるぞ,There is a good place nearby,0.38461538461538464,0.7719092
+I feel revitalized!,なんか生き返る気分だよー,I feel like I'm going to live,0.2222222222222222,0.38515747
+Is this a dairy farm?,ここ 牧場ですか？,Is this a ranch?,0.5714285714285714,0.6845891
+I didn't know there was a place like this around here.,近くにこんな所があったなんて,I had such a place nearby,0.1875,0.56923187
+It's the smallest dairy farm in Japan.\NSome people probably never notice it.,気付かない人もいるだろうな,Some people do not notice,0.125,0.34560972
+Be careful from now on.,今度からは気を付けてね,Please be careful from this time,0.3333333333333333,0.74993896
+Yes! I'm so sorry.,ああ はい　ごめんなさい,Oh yes sorry,0.25,0.34256655
 Though you were fortunate it happened near this place.,"でもまあ
 この近くだったのが幸いだったよな","Bean
-It was fortunate that it was near this",0.3076923076923077
-"Absolutely, this is really delicious.",確かにとても美味しいですね,Certainly it is very delicious,0.2
-I could eat this every day!,こんなに美味しいなら毎日食べたい,I want to eat every day if it is so delicious,0.2857142857142857
-"Want to come every day, then?",それなら毎日通うか？,Then go every day?,0.4444444444444444
-Huh? Can we?,え いいの？,Yeah?,0.2
-Oh... That's right.,ああ　そうだった,Oh yeah,0.14285714285714285
+It was fortunate that it was near this",0.3076923076923077,0.6292864
+"Absolutely, this is really delicious.",確かにとても美味しいですね,Certainly it is very delicious,0.2,0.7967408
+I could eat this every day!,こんなに美味しいなら毎日食べたい,I want to eat every day if it is so delicious,0.2857142857142857,0.67958736
+"Want to come every day, then?",それなら毎日通うか？,Then go every day?,0.4444444444444444,0.681765
+Huh? Can we?,え いいの？,Yeah?,0.2,0.41733548
+Oh... That's right.,ああ　そうだった,Oh yeah,0.14285714285714285,0.42752412
 "For a start, you have to be careful not to run out of steam along the way.","そのためには
 ここまで走らないといけないわけだが","for that purpose
-I have to run so far",0.17391304347826086
-Can we put this on hold for the time being?,保留でお願いします,I hope on hold,0.15384615384615385
-Thank you for everything.,お世話になりました,thank you for helping me,0.42857142857142855
-Thank you very much!,ありがとうございましたー,Thank you,0.4
-I forgot to ask their names.\NThey took such good care of me.,名前聞き忘れちゃった,I forgot to hear,0.21428571428571427
+I have to run so far",0.17391304347826084,0.30862355
+Can we put this on hold for the time being?,保留でお願いします,I hope on hold,0.15384615384615385,0.57840484
+Thank you for everything.,お世話になりました,thank you for helping me,0.42857142857142855,0.38896725
+Thank you very much!,ありがとうございましたー,Thank you,0.4,0.51744354
+I forgot to ask their names.\NThey took such good care of me.,名前聞き忘れちゃった,I forgot to hear,0.21428571428571427,0.24597245
 That's right!,"-じゃあねー
 -じゃあなー","- That's right
--You",0.5
-I wonder if we'll see them again.,また会えるかな,I can see you again,0.2727272727272727
-I realized after cycling today...,今日 走ってみて分かったけど,I tried to run today,0.2222222222222222
-"Riding a bike isn't that easy, is it?",そうだった,It was,0.09090909090909091
-"Wait, I don't mind at all, but...",いや 私は別に,"No, I",0.18181818181818182
-But... But you know...,でもね,But you know,0.75
-"Let's go cycling again, okay?",また一緒にサイクリングしようね,Let's cycle again together,0.3
+-You",0.5,0.5669569
+I wonder if we'll see them again.,また会えるかな,I can see you again,0.2727272727272727,0.4012183
+I realized after cycling today...,今日 走ってみて分かったけど,I tried to run today,0.2222222222222222,0.2671088
+"Riding a bike isn't that easy, is it?",そうだった,It was,0.09090909090909093,0.15910244
+"Wait, I don't mind at all, but...",いや 私は別に,"No, I",0.18181818181818185,0.18564957
+But... But you know...,でもね,But you know,0.75,0.7604013
+"Let's go cycling again, okay?",また一緒にサイクリングしようね,Let's cycle again together,0.3,0.563023
 "Sure. But be careful not to get\Nhunger knock next time, okay?","でも今度は
 ハンガーノックには気を付けるようにな","But this time
-Be careful with the hanger knock",0.2777777777777778
-Okay! I'll get lots of rest\N and eat properly next time around.,次はちゃんと寝て ちゃんと食べて来るね,Next is sleeping properly and eats properly,0.16666666666666666
-"Okay, shall we head home?",じゃ 帰るか,Do you go home?,0.2
-That's right! We have to go back on this same path!,そうだった　またこの道戻るんだった,That's right again this way back,0.3333333333333333
-"I'm so tired, Aoi-chan!",へへへへ　疲れたよう 葵ちゃん,Sakai I'm tired to,0.3333333333333333
-Take it slow and hang in there.,ゆっくりでいいから頑張れ,Good luck because it is good,0.08333333333333333
-You really strained your muscles.,お おおわあー　お,Oh oh,0.0
-I can barely move.,はあ　もう駄目　動けない,I can not move,0.5
-"Hey, are you okay?",お おおい　大丈夫か？,Is it okay?,0.25
-"If you can't move because you're hungry, want this?",腹減って動けないなら これでも食うか？,If you can't move up and get hungry?,0.4666666666666667
-Huh?,あれ？,that?,0.3333333333333333
-with a little miracle like this...,かくして こんな小さな奇跡と共に,Thus with such a small miracle,0.3
-my cycling life began!,私の自転車ライフは始まったのです,My bicycle life has begun,0.25
-My first experience with cycling was so much fun!,初めてのサイクリング 楽しかった,The first cycling was fun,0.36363636363636365
-I can't wait to go again!,はあー また走りたーい,I'm running again,0.2
-"Next time on Long Riders:\N""Cycling Along the Coastline!""",次回 ろんぐらいだぁす！,Next time I'm going!,0.1875
+Be careful with the hanger knock",0.2777777777777778,0.58440554
+Okay! I'll get lots of rest\N and eat properly next time around.,次はちゃんと寝て ちゃんと食べて来るね,Next is sleeping properly and eats properly,0.16666666666666666,0.43265927
+"Okay, shall we head home?",じゃ 帰るか,Do you go home?,0.2,0.58899623
+That's right! We have to go back on this same path!,そうだった　またこの道戻るんだった,That's right again this way back,0.3333333333333333,0.4342285
+"I'm so tired, Aoi-chan!",へへへへ　疲れたよう 葵ちゃん,Sakai I'm tired to,0.3333333333333333,0.55913514
+Take it slow and hang in there.,ゆっくりでいいから頑張れ,Good luck because it is good,0.08333333333333333,0.18780158
+You really strained your muscles.,お おおわあー　お,Oh oh,0.0,0.114066064
+I can barely move.,はあ　もう駄目　動けない,I can not move,0.5,0.7493765
+"Hey, are you okay?",お おおい　大丈夫か？,Is it okay?,0.25,0.46749404
+"If you can't move because you're hungry, want this?",腹減って動けないなら これでも食うか？,If you can't move up and get hungry?,0.4666666666666667,0.8415322
+Huh?,あれ？,that?,0.3333333333333333,0.6348126
+with a little miracle like this...,かくして こんな小さな奇跡と共に,Thus with such a small miracle,0.3,0.7577362
+my cycling life began!,私の自転車ライフは始まったのです,My bicycle life has begun,0.25,0.8037601
+My first experience with cycling was so much fun!,初めてのサイクリング 楽しかった,The first cycling was fun,0.3636363636363637,0.8625919
+I can't wait to go again!,はあー また走りたーい,I'm running again,0.2,0.4127863
+"Next time on Long Riders:\N""Cycling Along the Coastline!""",次回 ろんぐらいだぁす！,Next time I'm going!,0.1875,0.31759217

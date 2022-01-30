@@ -1,381 +1,381 @@
-en_text,jp_text,google_translated,score
-nakushita yakusoku wa hoshi ni,♪～,♪ ~,0.0
-To our own separate ways,～♪,~ ♪,0.0
+en_text,jp_text,google_translated,score,semantic_score
+nakushita yakusoku wa hoshi ni,♪～,♪ ~,0.0,0.19094351
+To our own separate ways,～♪,~ ♪,0.0,0.122058615
 The cicadas and the crickets are crying together...,"（森田 忍(もりたしのぶ)）
 セミとスズムシが
 一緒に鳴いている","Semi and Susumushi
-I'm ringing together",0.15384615384615385
-"At ten o'clock at night, too.",しかも夜の10時に,"Moreover, at 10 o'clock in the night",0.36363636363636365
+I'm ringing together",0.15384615384615385,0.12757935
+"At ten o'clock at night, too.",しかも夜の10時に,"Moreover, at 10 o'clock in the night",0.3636363636363637,0.786757
 Which is it?,"今は夏なのか秋なのか
 どっちなんだ","Is it summer or autumn now?
-Which one",0.4444444444444444
+Which one",0.4444444444444444,0.24138106
 Do cicadas usually cry this late at night?,"（竹本祐太(たけもとゆうた)）
 セミって こんなに夜遅くまで
 鳴いてましたっけ？",")
 Semi is so late at night
-Are you ringing?",0.25
+Are you ringing?",0.25,0.25391394
 "Hold up, summer's over already?","（真山 巧(まやまたくみ)）…ていうか
 夏って もう終わりなの？",") ...
-Is she already over in summer?",0.3076923076923077
+Is she already over in summer?",0.3076923076923077,0.56729597
 I didn't get to go anywhere yet...,"俺 まだ どこにも
 行ってないんだけど","I'm still anywhere
-I have not done it",0.13333333333333333
+I have not done it",0.13333333333333333,0.49774796
 "It's almost been a month, hasn't it?","（竹本）
-もう１か月近く なりますね",It will be near another month,0.14285714285714285
-Since what?,何が？,what?,0.6666666666666666
-Since Hagu-chan went back home.,はぐちゃんが実家に戻ってから,After Hagu-chan goes back to my home,0.3
-Or maybe some soba...,（竹本）蕎麦(そば)とか,Soba,0.2
-Area code 0263?,局番が 0263？,Station number is 0263?,0.2857142857142857
-Hello?,うん？,Yes?,0.3333333333333333
-Yeah.,（竹本）うん,Yeah,0.5
+もう１か月近く なりますね",It will be near another month,0.14285714285714285,0.57882476
+Since what?,何が？,what?,0.6666666666666666,0.46334463
+Since Hagu-chan went back home.,はぐちゃんが実家に戻ってから,After Hagu-chan goes back to my home,0.3,0.86456794
+Or maybe some soba...,（竹本）蕎麦(そば)とか,Soba,0.2,0.6841845
+Area code 0263?,局番が 0263？,Station number is 0263?,0.2857142857142857,0.67214924
+Hello?,うん？,Yes?,0.3333333333333333,0.39751402
+Yeah.,（竹本）うん,Yeah,0.5,0.87080777
 "That's sweet and sour at the same time, Takemoto.","（竹本）うん そう
 （真山）甘い 甘酸っぱいよ 竹本","Yeah
- Sweet sweet and sour good Takeimoto",0.2
-Oh?,え？ お土産？,picture?souvenir?,0.25
-Meat!,（真山・森田）肉！,Meat!,1.0
-Then soba it is!,（花本修司(しゅうじ)）蕎麦 決定！,Soba is decided!,0.5
+ Sweet sweet and sour good Takeimoto",0.2,0.65715
+Oh?,え？ お土産？,picture?souvenir?,0.25,0.15775144
+Meat!,（真山・森田）肉！,Meat!,1.0,0.9999999
+Then soba it is!,（花本修司(しゅうじ)）蕎麦 決定！,Soba is decided!,0.5,0.70241606
 "She wants us to come have soba for dinner,\Nsince they're coming back tomorrow.","あした 帰るから
 夜 みんなで蕎麦 食いに来いって","Because I return home
-Come to eat soba with everyone at night",0.11538461538461539
-Soba?,（真山・森田）ええっ 蕎麦～？,Yeah soba?,0.6666666666666666
-But I guess...,でも そっか,But,0.25
+Come to eat soba with everyone at night",0.1153846153846154,0.5305512
+Soba?,（真山・森田）ええっ 蕎麦～？,Yeah soba?,0.6666666666666666,0.930257
+But I guess...,でも そっか,But,0.25,0.533922
 I've never heard her voice over the phone before.,"（竹本の声）
-電話の声を聞いたのは初めてだった",It was the first time I heard the voice of the phone,0.3125
-If feels like my ears keep tingling...,（竹本の声）確か映画の…,Certainly movies ...,0.1
+電話の声を聞いたのは初めてだった",It was the first time I heard the voice of the phone,0.3125,0.5930878
+If feels like my ears keep tingling...,（竹本の声）確か映画の…,Certainly movies ...,0.1,0.15644155
 Huh?,"（真山）竹本　悪い
 （竹本）え？","Takemoto Bad
-?",0.25
-"Oh yeah, it's ""Moon River.""",そうだ“ムーン・リバー”だ,"That's right ""Moon River""",0.4166666666666667
-Later.,じゃ,well,0.0
-I wonder what's up with Mayama-san.,どうしたんだろう 真山さん,What's wrong Miyama,0.2
-It's a woman.,（森田）女だよ,Woman,0.2
-Mayama-senpai!,げえ！？,!?,0.3333333333333333
-About tonight's soba party...,あの 今夜の蕎麦パ…,That tonight soba ...,0.42857142857142855
-"What are you doing, Morita-san?",森田さん 何やってんすか！,Mr. Morita What do you do!,0.18181818181818182
-I thought I'd try to cut down on my electricity bill...,電気代 節約しようと思って,I'm thinking of saving electricity,0.125
+?",0.25,0.1685984
+"Oh yeah, it's ""Moon River.""",そうだ“ムーン・リバー”だ,"That's right ""Moon River""",0.4166666666666667,0.9351916
+Later.,じゃ,well,0.0,0.24041422
+I wonder what's up with Mayama-san.,どうしたんだろう 真山さん,What's wrong Miyama,0.2,0.33783537
+It's a woman.,（森田）女だよ,Woman,0.2,0.7848621
+Mayama-senpai!,げえ！？,!?,0.3333333333333333,0.100509234
+About tonight's soba party...,あの 今夜の蕎麦パ…,That tonight soba ...,0.42857142857142855,0.7117802
+"What are you doing, Morita-san?",森田さん 何やってんすか！,Mr. Morita What do you do!,0.18181818181818185,0.62988955
+I thought I'd try to cut down on my electricity bill...,電気代 節約しようと思って,I'm thinking of saving electricity,0.125,0.62340415
 "Actually, you'll die if you sleep with the\Nair conditioner and the fan running.","…ていうか死にますよ
 クーラーと扇風機つけたまま寝ちゃ","... I will die
-Cooler and fan",0.15789473684210525
-"You'll freeze to death, you know.",凍死ですよ 凍死,It is freezing death freezing,0.09090909090909091
-"Ah, such warm air.",ああ　暖かい空気,Oh warm air,0.2857142857142857
+Cooler and fan",0.15789473684210525,0.6201079
+"You'll freeze to death, you know.",凍死ですよ 凍死,It is freezing death freezing,0.09090909090909093,0.6045538
+"Ah, such warm air.",ああ　暖かい空気,Oh warm air,0.2857142857142857,0.824946
 Did you catch a cold?,"大丈夫ですか？
 風邪ひいたんじゃないですか？","OK?
-Isn't it a cold?",0.3
+Isn't it a cold?",0.3,0.6585049
 Can you make it to tonight's soba party?,"今夜の蕎麦パーティー
 行けますか？","Soba party tonight
-Can you go?",0.5454545454545454
-I'll go.,（森田）行く,go,0.25
-"I want to see her face, since it's been a while.",久しぶりに あいつの顔が見たい,I want to see the face of that season after a long time,0.2857142857142857
+Can you go?",0.5454545454545454,0.89815664
+I'll go.,（森田）行く,go,0.25,0.5262588
+"I want to see her face, since it's been a while.",久しぶりに あいつの顔が見たい,I want to see the face of that season after a long time,0.2857142857142857,0.62551045
 "Besides, if I don't take new pictures, I can't update my site...","（森田）
 それと 新しい写真を撮らないと
 ホームページの更新が","If you do not take a new picture
-Update website",0.2631578947368421
-You're worried about that?!,ホームページの心配かい！,Worried about homepage!,0.375
-"Geez, that Morita-san...",…ったく 森田さんは,... Mr. Morita,0.14285714285714285
-What should I do about the soba party...,蕎麦パーティー どうしよう,Soba party what to do,0.4
-"Oh, it's over here.",こっちだ,It's this way,0.2222222222222222
+Update website",0.2631578947368421,0.8386293
+You're worried about that?!,ホームページの心配かい！,Worried about homepage!,0.375,0.41066673
+"Geez, that Morita-san...",…ったく 森田さんは,... Mr. Morita,0.14285714285714285,0.63085175
+What should I do about the soba party...,蕎麦パーティー どうしよう,Soba party what to do,0.4,0.89224344
+"Oh, it's over here.",こっちだ,It's this way,0.2222222222222222,0.23810454
 Shinobu.,"（馨(かおる)）忍
 （森田）え？","Shinobu Shinobu
-?",0.3333333333333333
-But I have a soba party to go to...,でも 俺は 蕎麦パーティーが,But I'm a buckwheat party,0.36363636363636365
-I'll be glad to accept!,やらせていただきます！,I will do it!,0.2
-You caught a cold?,（馨）ん？ 何だ 風邪か？,?What kind of cold?,0.25
-The 246 seems to be backed up due to construction...,（馨）２４６は工事で渋滞… と,246 is a congestion in construction ...,0.21428571428571427
+?",0.3333333333333333,0.9199702
+But I have a soba party to go to...,でも 俺は 蕎麦パーティーが,But I'm a buckwheat party,0.3636363636363637,0.48798752
+I'll be glad to accept!,やらせていただきます！,I will do it!,0.2,0.31216052
+You caught a cold?,（馨）ん？ 何だ 風邪か？,?What kind of cold?,0.25,0.68134516
+The 246 seems to be backed up due to construction...,（馨）２４６は工事で渋滞… と,246 is a congestion in construction ...,0.21428571428571427,0.71149826
 It'll be pretty rough until the day after tomorrow.,"今のうちに眠っとけ
 あさってまで かなりキツいから","Sleeping now
-Until she is pretty good",0.125
-"So... it's just you, Takemoto?",（花本）…で 竹本１人だけ？,... Only 1 person Takemoto at?,0.23076923076923078
-"No, it's completely okay.",いや 全然オーケー,"No, orchy",0.25
-Then we'll just split the treasure...,じゃ お宝は…,The treasure is ...,0.3333333333333333
-...between the three of us!,３人で山分けっちゅうことで！,Three people in the mountains!,0.3
-That smells so great!,（竹本）ああ すばらしい香り,ah great scent,0.14285714285714285
-It's delicious!,ああっ うまい！,Oh yeah!,0.16666666666666666
-What did I tell you about vegetables and meat?,野菜と肉は？,What is vegetables and meat?,0.45454545454545453
-Ratio two to one.,２対１,2 to 1,0.14285714285714285
-That's right. Eat your veggies.,そっ 野菜も食べる,Eat vegetables,0.125
-"Well, I've been looking after her since she was born...",まあ 生まれた時から見てるし,I'm looking at it when I was born,0.23529411764705882
+Until she is pretty good",0.125,0.2503904
+"So... it's just you, Takemoto?",（花本）…で 竹本１人だけ？,... Only 1 person Takemoto at?,0.2307692307692308,0.63939375
+"No, it's completely okay.",いや 全然オーケー,"No, orchy",0.25,0.1367497
+Then we'll just split the treasure...,じゃ お宝は…,The treasure is ...,0.3333333333333333,0.6623469
+...between the three of us!,３人で山分けっちゅうことで！,Three people in the mountains!,0.3,0.35301587
+That smells so great!,（竹本）ああ すばらしい香り,ah great scent,0.14285714285714285,0.6549531
+It's delicious!,ああっ うまい！,Oh yeah!,0.16666666666666666,0.28043053
+What did I tell you about vegetables and meat?,野菜と肉は？,What is vegetables and meat?,0.4545454545454545,0.8190601
+Ratio two to one.,２対１,2 to 1,0.14285714285714285,0.55535525
+That's right. Eat your veggies.,そっ 野菜も食べる,Eat vegetables,0.125,0.6939622
+"Well, I've been looking after her since she was born...",まあ 生まれた時から見てるし,I'm looking at it when I was born,0.2352941176470588,0.37654293
 "And I attended her field days in place of her dad, after all.","父親の代わりに運動会とかにも
 出てたからな","Instead of the father, also
-Because it came out",0.09090909090909091
-...or should I say that she's like a daughter to me?,娘みたいなもんっつうか,Daughter like a daughter,0.21428571428571427
+Because it came out",0.09090909090909093,0.27844173
+...or should I say that she's like a daughter to me?,娘みたいなもんっつうか,Daughter like a daughter,0.21428571428571427,0.64292234
 "Oh, so this is your room?","この椅子は？
 なんで くっついてるの？","What is this chair?
-Why is he sticking?",0.23076923076923078
-Yup.,そう,Yes,0.0
-You're not listening at all!,…って 全然 聞いてねえ！,... I hear it at all!,0.2727272727272727
-The walls are all covered with books.,うわあ… 壁が全部 本,Wow ... All walls book,0.18181818181818182
-This is where I sleep.,修ちゃん 本 大好き,I love this book,0.25
+Why is he sticking?",0.2307692307692308,0.031925518
+Yup.,そう,Yes,0.0,0.5160737
+You're not listening at all!,…って 全然 聞いてねえ！,... I hear it at all!,0.2727272727272727,0.4493643
+The walls are all covered with books.,うわあ… 壁が全部 本,Wow ... All walls book,0.18181818181818185,0.7444367
+This is where I sleep.,修ちゃん 本 大好き,I love this book,0.25,0.26593506
 So it's a bed...,"（竹本）
-ベッドだったんだ これ…",It was a bed he ...,0.5
-That's Jenny-chan.,そうなんだ　器用だな,That's right,0.4
+ベッドだったんだ これ…",It was a bed he ...,0.5,0.7817021
+That's Jenny-chan.,そうなんだ　器用だな,That's right,0.4,0.19630219
 Daddy and Shuu-chan bought them for me when I was little.,"子供のころ 修ちゃんと
 お父さんが買ってくれた","Childhood
-Dad bought me",0.14285714285714285
-I made the clothes.,服は はぐが作った,I made clothes,0.6
-But how did you make this design...?,でも このデザインは いったい…,But this design is like ...,0.36363636363636365
-For me?,えっ 俺？,Well?,0.25
-I think I'm really having fun right now.,なんか俺 今 すごい楽しいかも,Something is so fun now,0.16666666666666666
-It's one thing for a grown-up man to be playing dolls with a girl...,女の子らしいところ あるんだ,There seems to be a girl,0.23529411764705882
+Dad bought me",0.14285714285714285,0.4909667
+I made the clothes.,服は はぐが作った,I made clothes,0.6,0.9230092
+But how did you make this design...?,でも このデザインは いったい…,But this design is like ...,0.3636363636363637,0.6354456
+For me?,えっ 俺？,Well?,0.25,0.3981529
+I think I'm really having fun right now.,なんか俺 今 すごい楽しいかも,Something is so fun now,0.16666666666666666,0.57764786
+It's one thing for a grown-up man to be playing dolls with a girl...,女の子らしいところ あるんだ,There seems to be a girl,0.2352941176470588,0.3810837
 But when I think about how she can make such splendid\Nclay statues that even men can't make...,"こんな小さな人形の服
 作ったりするなんて","Such a small doll clothes
-How to make",0.13043478260869565
-It amazes me that she makes such small\Ndoll clothes with those same hands...,同じ その手で—,With the same hand-,0.125
+How to make",0.13043478260869565,0.2596383
+It amazes me that she makes such small\Ndoll clothes with those same hands...,同じ その手で—,With the same hand-,0.125,0.3462094
 It's just a piece of cloth...,"そ… それ
 布 切っただけじゃ？","So ... it
-Just clothed?",0.2727272727272727
-A Paleolithic woman!,（竹本）げえ！,!,0.25
-I take back what I just said!,前言撤回,I take it back,0.375
+Just clothed?",0.2727272727272727,0.62146974
+A Paleolithic woman!,（竹本）げえ！,!,0.25,0.15179133
+I take back what I just said!,前言撤回,I take it back,0.375,0.55319005
 What's that?,"（竹本）それは？
-（はぐみ）タンス",Is that?,0.4
+（はぐみ）タンス",Is that?,0.4,0.6672706
 Isn't it just a tissue box?,"タンスって
 ティッシュの箱じゃない","It is a task
-It is not a tissue box",0.5
-Can it be that you're just not very good with tools?,道具を使って物 作るの苦手？,Are you not good at making things using tools?,0.2777777777777778
-Can you make one?,ホント？ 作れる？,really?Can you make it?,0.5714285714285714
-"Well, I am an architecture major...",まあ 一応 建築科だし,"Well, it is a building department",0.15384615384615385
-And I guess I'm quite used to making models...,模型 作るの慣れてるし,I'm used to making a model,0.4166666666666667
-What kind do you want?,どんなのが いい？,What is it?,0.25
-This one!,これ！,this!,0.6666666666666666
-R-Rococo style?!,ロ… ロココ調！？,Rococo tone!?,0.3333333333333333
+It is not a tissue box",0.5,0.7163171
+Can it be that you're just not very good with tools?,道具を使って物 作るの苦手？,Are you not good at making things using tools?,0.2777777777777778,0.78096896
+Can you make one?,ホント？ 作れる？,really?Can you make it?,0.5714285714285714,0.6227853
+"Well, I am an architecture major...",まあ 一応 建築科だし,"Well, it is a building department",0.15384615384615385,0.41490746
+And I guess I'm quite used to making models...,模型 作るの慣れてるし,I'm used to making a model,0.4166666666666667,0.8509368
+What kind do you want?,どんなのが いい？,What is it?,0.25,0.19222438
+This one!,これ！,this!,0.6666666666666666,0.72477067
+R-Rococo style?!,ロ… ロココ調！？,Rococo tone!?,0.3333333333333333,0.724952
 How long does Takemoto intend to stay?,"（花本）竹本のやつ
 いつまで いるつもりだ？","Takemoto's guy
-How long are you going?",0.3076923076923077
+How long are you going?",0.3076923076923077,0.6938181
 "But then again, they're pretty quiet now, even though\Nthey were a bit noisy until a while ago...","しかし さっきまで
 騒がしかったのに—","But until now
-Even though it was noisy-",0.17391304347826086
+Even though it was noisy-",0.17391304347826084,0.69386864
 "I'm gonna slice you up, Takemoto!","すまん 竹本
 お前を一瞬でも疑ったりして","Summan Takemoto
-I doubt you in an instant",0.2
-Rococo...,ロココ…,Rococo ...,1.0
-Versailles...,ベルサイユ,Versailles,0.5
-I'm really sorry.,（花本）そういうことか,Is that.,0.14285714285714285
+I doubt you in an instant",0.2,0.53479826
+Rococo...,ロココ…,Rococo ...,1.0,0.99999994
+Versailles...,ベルサイユ,Versailles,0.5,0.9088266
+I'm really sorry.,（花本）そういうことか,Is that.,0.14285714285714285,0.20548427
 ...I'll pay for the materials at least...,"（竹本）ああ…
 た… 太陽がまぶしい","Oh ...
-... The sun is broken",0.15384615384615385
+... The sun is broken",0.15384615384615385,0.18429199
 Why am I even trying so hard?,"ありえない なんで俺
 こんなに頑張ってるんだろ","I can not say it
-I'm doing so hard",0.21428571428571427
+I'm doing so hard",0.21428571428571427,0.46666712
 "...was on Natsume Souseki's ""Kokoro""...","（学生）
-夏目漱石(なつめそうせき)の「こころ」で…",Natsume Soseki  's heart' ...,0.25
+夏目漱石(なつめそうせき)の「こころ」で…",Natsume Soseki  's heart' ...,0.25,0.5499616
 Rococo?!,"（竹本）
-いい！？ “ロココーッ”？","good!?""Rocoko""?",0.2857142857142857
-W-What is it?,ああっ ダメだ,It is no good,0.3333333333333333
-Sorry!,すいません！,Excuse me!,0.25
-I can't take this!,離れなーい！,I'm away!,0.25
+いい！？ “ロココーッ”？","good!?""Rocoko""?",0.2857142857142857,0.64748025
+W-What is it?,ああっ ダメだ,It is no good,0.3333333333333333,0.15130833
+Sorry!,すいません！,Excuse me!,0.25,0.40953642
+I can't take this!,離れなーい！,I'm away!,0.25,0.3745043
 I can't get the successive Rococo attacks of the Hanamoto family...,"ああっ 花本親子の
 ロココ波状攻撃が—","Oh, Hanamoto parent and child
-Rococo wave attacks-",0.10526315789473684
-...out of my head!,頭から—,From my head-,0.125
+Rococo wave attacks-",0.10526315789473684,0.76553637
+...out of my head!,頭から—,From my head-,0.125,0.5848164
 I'll be waiting then. Call me if you need anything...,"じゃあ 様子見て
 何かあったら携帯に","Well then look
-If there is something, mobile",0.1
-Yes.,あれ？ 真山さん？,that?Mr. Miyama?,0.16666666666666666
+If there is something, mobile",0.1,0.20744817
+Yes.,あれ？ 真山さん？,that?Mr. Miyama?,0.16666666666666666,0.20523289
 If I end up borrowing the chair...,"（原田理花(はらだりか)）ええ もし椅子を
 借りなきゃいけなくなったら—",") Yeah Yes Chair
-If you have to borrow-",0.13333333333333333
-I'll come back here in the afternoon.,私 午後また ここに来るわ,I will come here again,0.2727272727272727
+If you have to borrow-",0.13333333333333333,0.7480654
+I'll come back here in the afternoon.,私 午後また ここに来るわ,I will come here again,0.2727272727272727,0.49387506
 I'll call you then since I'll need your help.,"その時は手伝ってもらいたいから
 電話します","Because I want to help at that time
-Call",0.1875
-I understand.,分かりました,understand,0.3333333333333333
-A woman?,（竹本の声）女の人,Woman,0.3333333333333333
+Call",0.1875,0.4496978
+I understand.,分かりました,understand,0.3333333333333333,0.56078684
+A woman?,（竹本の声）女の人,Woman,0.3333333333333333,0.8120305
 "Hey, isn't that Mayama?","（学生）
-ねえ あれ 真山じゃん？",Hey Ayama?,0.25
-"With an older woman this time, eh?",（学生）あーあ 今度は年上かよ,"Oh, this time is over the year",0.21428571428571427
+ねえ あれ 真山じゃん？",Hey Ayama?,0.25,0.33426347
+"With an older woman this time, eh?",（学生）あーあ 今度は年上かよ,"Oh, this time is over the year",0.21428571428571427,0.19019693
 She even gave him a lift to school?,"（学生）しかも女に送られて
 学校にタクシー横付け","and sent to woman
-Taxi horizontal at school",0.13333333333333333
-Yo.,よお,Oblivious,0.0
-Mayama!,（山田(やまだ)あゆみ）真山ー！,Ayumi) Miyama!,0.2
+Taxi horizontal at school",0.13333333333333333,0.5396969
+Yo.,よお,Oblivious,0.0,0.19544613
+Mayama!,（山田(やまだ)あゆみ）真山ー！,Ayumi) Miyama!,0.2,0.37355998
 You still haven't broken up with her?,"まだ あの人と
 切れてなかったってわけ？","Still with that person
-Didn't you break it?",0.35714285714285715
-Yamada...,山田,Yamada,0.5
+Didn't you break it?",0.35714285714285715,0.5958926
+Yamada...,山田,Yamada,0.5,0.94589466
 "Actually, how many more girls will\Nhave to cry for you to be satisfied?","何人の女の子
 泣かせりゃ 気が済むの","How many girls
-I feel that I can cry",0.2222222222222222
-Yamada! Yamada! Yamada!,（学生たち）山田！,Yamada!,1.0
-It's none of your business!,あんたの勝手だろうけどね,It will be your own selfishness,0.18181818181818182
-It sure is!,あんたって男は！,A man is!,0.3333333333333333
+I feel that I can cry",0.2222222222222222,0.7637245
+Yamada! Yamada! Yamada!,（学生たち）山田！,Yamada!,1.0,0.92206436
+It's none of your business!,あんたの勝手だろうけどね,It will be your own selfishness,0.18181818181818185,0.26355585
+It sure is!,あんたって男は！,A man is!,0.3333333333333333,0.33681977
 "But stop showing up to socials and taking girls back\Nhome like they're take-out delivery, will you?","そりゃ不毛の恋を
 貫こうが何だろうが—","Surriena love
-What will penetrate?",0.08695652173913043
+What will penetrate?",0.08695652173913042,0.16565228
 A friend of mine from another school has been\Nflooding me with questions about you!,"別の大学に行った私の友達から
 ガンガン問い合わせが来てんの","From my friend who went to another university
-Gangan inquiry comes",0.13043478260869565
-Ouch...,（真山）あ痛(いた)たた…,Acheata  ...,0.3333333333333333
+Gangan inquiry comes",0.13043478260869565,0.2910982
+Ouch...,（真山）あ痛(いた)たた…,Acheata  ...,0.3333333333333333,0.2687872
 Ouch is right!,"（真山）何 撮ってんすか！
 （山田）何 撮ってんのよ！","How many shots!
- What to take!",0.1
-I finally bought my 4.32 megapixel camera!,買っちゃった 432万画素,43.2 million pixels I bought,0.18181818181818182
+ What to take!",0.1,0.15066272
+I finally bought my 4.32 megapixel camera!,買っちゃった 432万画素,43.2 million pixels I bought,0.18181818181818185,0.5905424
 How's Taro doing?,"山田 久しぶりだな
 タロウ 元気か？","It's been a long time Yamada
-Taro How is it?",0.3333333333333333
+Taro How is it?",0.3333333333333333,0.51931024
 She ran the six kilometers to school every morning\Nin order to help her dog Taro on its diet...,"毎朝 学校までの６キロの道のりを
 ランニングして通い—","Six km of the way to school every morning
-Running and passing-",0.2
+Running and passing-",0.2,0.4632657
 "...and has earned the nickname ""Iron Lady"" from her friends.","愛称“鉄人”として
 みんなに親しまれておりました","As a nickname ""Ironman""
-Everyone was familiar",0.15
-Don't change the subject!,話をそらすな！,Do not talk!,0.25
+Everyone was familiar",0.15,0.6312012
+Don't change the subject!,話をそらすな！,Do not talk!,0.25,0.3531375
 Mama my ass!,"お母さん そんな子に育てた覚えは
 ありません！","My mother was raised by such a child
-is not!",0.15384615384615385
-Morita-san's... Morita-san's...!,真山のバカ,Miyama's stupid,0.16666666666666666
+is not!",0.15384615384615385,0.29721385
+Morita-san's... Morita-san's...!,真山のバカ,Miyama's stupid,0.16666666666666666,0.18880391
 "Damn, he got away!","（山田）はっ しまった 逃げられた
 （竹本）森田さんが 森田さんが！","Harunly Run away
-Mr. Morita Mr. Morita is!",0.18181818181818182
-A crutch?,（竹本の声）杖(つえ)？,Cane?,0.25
-"It's been a while, Rika.",理花 久しぶりだな,It's been a long time,0.4
+Mr. Morita Mr. Morita is!",0.18181818181818185,0.37517375
+A crutch?,（竹本の声）杖(つえ)？,Cane?,0.25,0.3268406
+"It's been a while, Rika.",理花 久しぶりだな,It's been a long time,0.4,0.50611436
 I am sorry for calling so suddenly.,"（理花）
-ごめんなさい 急に電話して",I'm sorry Suddenly call,0.3
-How are you?,どうして ここに？,Why are you here?,0.5
+ごめんなさい 急に電話して",I'm sorry Suddenly call,0.3,0.84302425
+How are you?,どうして ここに？,Why are you here?,0.5,0.5572935
 What about you?,"（理花）
-ぼちぼちよ　花本くんは？",What is Hanamoto?,0.3333333333333333
+ぼちぼちよ　花本くんは？",What is Hanamoto?,0.3333333333333333,0.13495697
 How's work?,"（花本）仕事のほうは どう？
 体 大丈夫？","How about work?
-Body okay?",0.42857142857142855
+Body okay?",0.42857142857142855,0.45980698
 "...to only be able to use my right arm standing\Nup, especially when I'm so busy right now.","この忙しいのに 立っていると
 右手しか使えないのが不便だわ","If you are standing at this busy
-It is inconvenient that only the right hand can only be used",0.12121212121212122
-I can't even take notes by myself. It's really annoying.,メモ１つ取れないのよ イヤね,I can't get one note I guy,0.17647058823529413
+It is inconvenient that only the right hand can only be used",0.12121212121212123,0.60254973
+I can't even take notes by myself. It's really annoying.,メモ１つ取れないのよ イヤね,I can't get one note I guy,0.17647058823529413,0.48954213
 "Well, just take it easy.","ああ でも真山くんがいてくれて
 かなり助かってるのよ","Oh, Miyama-kun
-It's pretty helpful",0.16666666666666666
-But I'm getting along really great since Mayama-kun's around.,（花本）まあ あまり無理すんなよ,Well I'm too unreasonable,0.13333333333333333
+It's pretty helpful",0.16666666666666666,0.18947577
+But I'm getting along really great since Mayama-kun's around.,（花本）まあ あまり無理すんなよ,Well I'm too unreasonable,0.13333333333333333,0.14387904
 Is he being helpful?,"（花本）役に立ってる？
 （理花）ええ とても","helpful?
- yeah",0.3333333333333333
+ yeah",0.3333333333333333,0.46591026
 That's good.,"人のあしらい方の うまいところも
 助かってるわ","Good place for people's skill
-I'm helpful",0.18181818181818182
+I'm helpful",0.18181818181818185,0.18692277
 "I was getting worried about it, since I was the\None who introduced him to you, after all.","気になってたんだ
 紹介したのは俺だから","I was worried
-Because I was introduced",0.2222222222222222
+Because I was introduced",0.2222222222222222,0.7319545
 It goes without saying that he's very dedicated to his work...,"一緒に仕事するには
 本当に頼りになるタイプだわ","To work together
-It is a type that is really reliable",0.21052631578947367
-Are you praising him?,それは褒めてるのか？,Are you giving up?,0.42857142857142855
-I am.,そっか,I see,0.25
+It is a type that is really reliable",0.21052631578947367,0.16824436
+Are you praising him?,それは褒めてるのか？,Are you giving up?,0.42857142857142855,0.3325043
+I am.,そっか,I see,0.25,0.29784855
 So what was it again? You say you\Nneed a chair for your photo shoot?,"…で 何だっけ
 撮影に使う椅子が要るんだっけ？","What is ...
-Is there a chair to use for shooting?",0.23809523809523808
+Is there a chair to use for shooting?",0.2380952380952381,0.5153802
 I wonder who that person was.,"（竹本の声）あの人 誰なんだろう
 先生とも仲よさげだったし","That person would you
-The teacher also got along well",0.13333333333333333
-"What are you looking at, Hagu-chan?",何 見てんの？ はぐちゃん,What do you see?Hagu-chan,0.4
+The teacher also got along well",0.13333333333333333,0.36926413
+"What are you looking at, Hagu-chan?",何 見てんの？ はぐちゃん,What do you see?Hagu-chan,0.4,0.9184125
 "I don't think he can eat those right now\Nbecause he has a guest over, though.","今すぐは
 食べられないんじゃないかな","Now
-I can not eat it",0.15
-A guest?,お客さん？,customer?,0.25
+I can not eat it",0.15,0.41808337
+A guest?,お客さん？,customer?,0.25,0.33283255
 "Hagu-chan, are you famished by any chance?","はぐちゃん もしかして
 すごく おなか減ってる？","Hagu-chan
-Are you so much down?",0.3333333333333333
-First she drew eyebrows on the dog...,まず 犬に眉毛 描いてね,"First of all, draw eyebrows on dogs",0.23076923076923078
-Eyebrows?,眉毛？ 柴犬に？,eyebrows?To Shiba Inu?,0.4
+Are you so much down?",0.3333333333333333,0.65745044
+First she drew eyebrows on the dog...,まず 犬に眉毛 描いてね,"First of all, draw eyebrows on dogs",0.2307692307692308,0.7136494
+Eyebrows?,眉毛？ 柴犬に？,eyebrows?To Shiba Inu?,0.4,0.6100257
 "I've never seen Hagu-chan hang out\Nwith friends or anything, have I?","（竹本の声）
 そういえば はぐちゃんが
 友達といるとこ 見たことないな","Speaking of which she is Hagu-chan
-I have never seen my friend",0.25
+I have never seen my friend",0.25,0.7700024
 "Say, why don't we go to Shimokita today?","（女子学生）ねえねえ
 今日これから 下北(しもきた)まで行かない？","Hey hey
-Today I will not go to Uchina from now on?",0.21052631578947367
-There's a shop I want to visit there.,行ってみたい店があるんだ,There is a store that you want to go,0.2857142857142857
+Today I will not go to Uchina from now on?",0.21052631578947367,0.45357648
+There's a shop I want to visit there.,行ってみたい店があるんだ,There is a store that you want to go,0.2857142857142857,0.6977853
 "And then, Asami's ex-boyfriend showed up there...","（女子学生）でさ そこに
-アサミの元カレが偶然 現れてね",Asami's former boyfriend comes up by chance,0.2
+アサミの元カレが偶然 現れてね",Asami's former boyfriend comes up by chance,0.2,0.81008244
 "I wonder why all CDs cost 3,000 yen a piece...","（女子学生）ＣＤってさ
 なんで３千円もすんのかな","CD
-Why is it 3,000 yen?",0.2
-I'm broke here.,お金 ないよ,I have no money,0.125
+Why is it 3,000 yen?",0.2,0.8715788
+I'm broke here.,お金 ないよ,I have no money,0.125,0.42089257
 I want some sweet chestnuts.,"（女子学生）ああ おなか減った
 （女子学生）甘栗 食べたいよ","Oh, I decreased
- I want to eat sweet chestnut",0.25
-Hagu-chan?,はぐちゃん？,Hagu-chan?,1.0
-I think my... stomach hurts!,うう おなかが…,Urina stomach ...,0.25
-Wait a second...,ちょっと待って はぐちゃん！,Wait a minute and go-chan!,0.25
+ I want to eat sweet chestnut",0.25,0.64805454
+Hagu-chan?,はぐちゃん？,Hagu-chan?,1.0,1.0000005
+I think my... stomach hurts!,うう おなかが…,Urina stomach ...,0.25,0.59507984
+Wait a second...,ちょっと待って はぐちゃん！,Wait a minute and go-chan!,0.25,0.3290968
 "You'll feel better soon, so lie down a little.","（花本）すぐに よくなるから
 ちょっと寝てろ なっ？","Because it gets better soon
-Do you sleep a little?",0.2777777777777778
-"Sensei, she left this...",先生　これ,This teacher,0.14285714285714285
-Is she all right?,安静にしてれば大丈夫だよ,It is all right if it is rest,0.375
-"Sensei, who was that woman here just now?",先生 さっき ここにいた女の人…,A woman who was here just here ...,0.4166666666666667
-You mean Rika?,（花本）ん？ 理花のことか,?Reasonable flower,0.16666666666666666
+Do you sleep a little?",0.2777777777777778,0.41996908
+"Sensei, she left this...",先生　これ,This teacher,0.14285714285714285,0.20604344
+Is she all right?,安静にしてれば大丈夫だよ,It is all right if it is rest,0.375,0.44395858
+"Sensei, who was that woman here just now?",先生 さっき ここにいた女の人…,A woman who was here just here ...,0.4166666666666667,0.5528615
+You mean Rika?,（花本）ん？ 理花のことか,?Reasonable flower,0.16666666666666666,0.17620201
 Is she Mayama-san's girlfriend?,"（竹本）
-真山さんの彼女なんですか？",Mr. Miyama's girlfriend?,0.375
+真山さんの彼女なんですか？",Mr. Miyama's girlfriend?,0.375,0.5476869
 "And then this morning he came to school in a taxi with her, and...","そしたら朝 さっきの女の人と
 タクシーで学校まで来て","Then with the woman of the morning
-Come to school by taxi",0.3
+Come to school by taxi",0.3,0.7738615
 Their relationship isn't like that.,"（花本）お前が思ってるような
 関係じゃないよ","I think you think
-It is not a relationship",0.15384615384615385
-More importantly...,それは そうと…,Anyway…,0.0
-I've bought you the materials and tools\Nyou need to build Hagu's wardrobe.,思いつくかぎり買っといたから,Because I was bought as much as I thought,0.1
-"A semicircle saw, a pen-shaped router...",ああ あと いい接着剤があってね,"Oh, there is a good adhesive",0.16666666666666666
+It is not a relationship",0.15384615384615385,0.57510924
+More importantly...,それは そうと…,Anyway…,0.0,0.24492158
+I've bought you the materials and tools\Nyou need to build Hagu's wardrobe.,思いつくかぎり買っといたから,Because I was bought as much as I thought,0.1,0.20459755
+"A semicircle saw, a pen-shaped router...",ああ あと いい接着剤があってね,"Oh, there is a good adhesive",0.16666666666666666,0.13547455
 A 45 degree cutting board and other miscellaneous materials!,"はい！ はぐの お人形の
 家具を作る材料と道具","Yes!Hague doll
-Materials and tools making furniture",0.1875
+Materials and tools making furniture",0.1875,0.36463767
 Why do you always run away when the going gets tough?,"（山田）どうして いつも
 都合悪くなると逃げるの？","Why are you always
-Do you run away when it gets worse convenience?",0.5625
-That's because you keep running away.,お前が追っかけてくるからだ,It's because you chase,0.3
-What about your job?,就職 どうすんの？,What is Employment?,0.2857142857142857
+Do you run away when it gets worse convenience?",0.5625,0.68467414
+That's because you keep running away.,お前が追っかけてくるからだ,It's because you chase,0.3,0.64435333
+What about your job?,就職 どうすんの？,What is Employment?,0.2857142857142857,0.49125683
 Are you just going to keep working at her office?,"このまま あの人の事務所に
 いつくの？","To this person's office
-How long?",0.1875
+How long?",0.1875,0.49381936
 Why can't you just tell her that you like her?,"どうして あの人に
 ちゃんと 好きだって伝えないの？","Why to that person
-Don't you tell me properly?",0.4
+Don't you tell me properly?",0.4,0.4048595
 Say...,"（真山）あのさ…
-（山田）あっ",That's ...,0.25
-Why is it me?,（真山）なんで俺なんだ？,Why is me?,0.8
+（山田）あっ",That's ...,0.25,0.44957715
+Why is it me?,（真山）なんで俺なんだ？,Why is me?,0.8,0.87284124
 No matter how much you blow steam at me...,"お前が いくら俺に腹を立てても
 俺は多分 変わんないよ","No matter how much you are hungry
-I can not change",0.3125
-You should stop looking at me.,もう俺を見んの やめろ,Stop giving me anymore,0.2222222222222222
+I can not change",0.3125,0.29978725
+You should stop looking at me.,もう俺を見んの やめろ,Stop giving me anymore,0.2222222222222222,0.39617378
 "Well, I've got work to do.","（真山）
-じゃあ俺 仕事 入ったから",Well then because I worked,0.16666666666666666
+じゃあ俺 仕事 入ったから",Well then because I worked,0.16666666666666666,0.39806646
 I've packed the chair.,"（真山）
-椅子の こん包 終わりました",Her horn end of the chair ended,0.18181818181818182
-Thank you.,（理花）ありがと,Thank you,0.6666666666666666
-"No, it's okay.",（理花）いいえ いいわ,No,0.16666666666666666
-"But there's the chair, and...",真山の… バカ,Miyama's ... stupid,0.2
+椅子の こん包 終わりました",Her horn end of the chair ended,0.18181818181818185,0.34339982
+Thank you.,（理花）ありがと,Thank you,0.6666666666666666,0.7717476
+"No, it's okay.",（理花）いいえ いいわ,No,0.16666666666666666,0.30414712
+"But there's the chair, and...",真山の… バカ,Miyama's ... stupid,0.2,0.15503044
 Sorry that I held you back for three days.,"３日も拘束して ごめんなさい
 でも助かったわ","I'm sorry I was restrained for 3 days
-But it was saved",0.23529411764705882
-I'll call you again. Bye.,また連絡します じゃ,I will contact you again,0.3333333333333333
+But it was saved",0.2352941176470588,0.599975
+I'll call you again. Bye.,また連絡します じゃ,I will contact you again,0.3333333333333333,0.53137
 But he already knew how I felt about him.,"あの人も すでに気づいていて
 答えられずにいるのだとしたら","That person is already noticed
-If he is not answered",0.11764705882352941
-While already knowing his feelings...,彼の恋も また…,His love is also ...,0.2222222222222222
+If he is not answered",0.1176470588235294,0.1748483
+While already knowing his feelings...,彼の恋も また…,His love is also ...,0.2222222222222222,0.5202979
 And my tears just won't stop flowing when I think about it.,"そんなことを思ったら
 また涙が止まらなくなった","If you think that such a thing
-I also stop tears",0.19047619047619047
-Just as long as I can remain forever in your memories.,早く水分 とらなきゃ,I have to eat early,0.06666666666666667
-What?,何よ,What,0.5
+I also stop tears",0.19047619047619047,0.77943987
+Just as long as I can remain forever in your memories.,早く水分 とらなきゃ,I have to eat early,0.06666666666666668,0.03966905
+What?,何よ,What,0.5,0.70340085
 You'll shrivel up if you lose too much water.,"そんなに体から水 出したら
 干からびちまうぞ","If you sake from the body so much
-It will be won from the dried",0.15
-Mayama's an idiot.,真山は バカよ,Miyama is stupid,0.0
+It will be won from the dried",0.15,0.457828
+Mayama's an idiot.,真山は バカよ,Miyama is stupid,0.0,0.42193535
 He's all smiles to other people because\Nhe wants to show them his good side...,"外面(そとづら)ばっか よくって
 他人に いいとこばっか見せたくて","Exterior 
-I want to show me another person",0.09523809523809523
-A big idiot!,大バカよ！,A big stupid!,0.6
-I don't get it.,好きなのに,I like it,0.2857142857142857
+I want to show me another person",0.09523809523809523,0.1409589
+A big idiot!,大バカよ！,A big stupid!,0.6,0.78699213
+I don't get it.,好きなのに,I like it,0.2857142857142857,0.1946712
 Why do you like him so much if you know that he's such an idiot?,"そこまでバカと分かっていて
 なんで真山が好きなんだ？","I understand that to there
-Why do you like Miyama?",0.2857142857142857
-That's what I want to know!,そんなの私が聞きたいくらいよ！,Such I want to hear!,0.4
+Why do you like Miyama?",0.2857142857142857,0.26913813
+That's what I want to know!,そんなの私が聞きたいくらいよ！,Such I want to hear!,0.4,0.5000463
 "I like him, but I can only think of his bad side...","でも真山の悪いとこしか
 浮かんでこなくて","But the bad thing of Miyama
-In",0.17647058823529413
-You're really amazing.,そっか すげえな お前,Sacrifice,0.0
-In love.,恋してんだな 恋,Love in love,0.6666666666666666
+In",0.17647058823529413,0.3701845
+You're really amazing.,そっか すげえな お前,Sacrifice,0.0,0.06549058
+In love.,恋してんだな 恋,Love in love,0.6666666666666666,0.813709
 What are you so calmly observing me for?,"（山田）うわーん
 何 冷静に観察してんのよ！","Wow
-What calmly observes!",0.16666666666666666
-Love!,（森田）恋だー！ 恋！,love!love!,1.0
-"It's like a waltz, isn't it? It's quite marveling",（理花）それじゃ,That's right,0.07692307692307693
+What calmly observes!",0.16666666666666666,0.6592336
+Love!,（森田）恋だー！ 恋！,love!love!,1.0,0.9368721
+"It's like a waltz, isn't it? It's quite marveling",（理花）それじゃ,That's right,0.07692307692307693,0.11316276
 Next episode: He and she sway.,"（竹本の声）
 次回 彼と彼女が
 揺れ動く","Next time and her
-Swing",0.18181818181818182
+Swing",0.18181818181818185,0.40046725

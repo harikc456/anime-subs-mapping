@@ -1,534 +1,534 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>This is Rolf 03, We've arrived at</i>
 <i>the rendezvous point, A-557. Over.</i>","（通信士）こちらロルフ03
 集結空域“ア 557”に到着 送れ","Lolf 03
-We arrive at the gathering airspace ""A 557""",0.14814814814814814
+We arrive at the gathering airspace ""A 557""",0.14814814814814814,0.6126524
 <i>This is Teos 01. Confirmed.</i>,"（通信士）こちらテオス01
 確認した","here Teos 01
-confirmed",0.08333333333333333
+confirmed",0.08333333333333333,0.831374
 "Interesting, isn't it?","（レントン）
-ヘヘヘ～ おもしろいだろう？",Hyehehe ~ Is it funny?,0.3333333333333333
-Never!,（リンク）ない！,not!,0.3333333333333333
-Hurry! Hurry!,（リンク）早く 早く！,early!,0.3333333333333333
-Wh-What?,えっ？,eh?,0.3333333333333333
-What is love?,（エウレカ）恋って 何だろう？,What is your love?,0.8
+ヘヘヘ～ おもしろいだろう？",Hyehehe ~ Is it funny?,0.3333333333333333,0.2934637
+Never!,（リンク）ない！,not!,0.3333333333333333,0.5421731
+Hurry! Hurry!,（リンク）早く 早く！,early!,0.3333333333333333,0.39737096
+Wh-What?,えっ？,eh?,0.3333333333333333,0.16660672
+What is love?,（エウレカ）恋って 何だろう？,What is your love?,0.8,0.71445286
 "Well, you know, it's...","ん～…
 そりゃあ あれよ あれ…","...
-Well, that's it ...",0.625
+Well, that's it ...",0.625,0.7235685
 "That's right! It means that
-you ""like"" someone, right?",そう！ 好きってことでしょ？,Yes!Do you like it?,0.3333333333333333
-Like?,あ… 好き？,Oh ... I like it?,0.3333333333333333
+you ""like"" someone, right?",そう！ 好きってことでしょ？,Yes!Do you like it?,0.3333333333333333,0.15833057
+Like?,あ… 好き？,Oh ... I like it?,0.3333333333333333,0.3577293
 Why? We were always together before!,"どうして？ 私たち
 ずっと一緒だったじゃない","Why?we
-It was not good together",0.3333333333333333
+It was not good together",0.3333333333333333,0.5796647
 "Nirvash, even you want Renton
 to be in the cockpit, right?","ニルヴァーシュだって
 レントンに乗ってほしいんでしょ？","In Nirvacha
-I want you to get on Renton?",0.35294117647058826
-Then please!,お願い！,please!,0.6666666666666666
+I want you to get on Renton?",0.35294117647058826,0.5644225
+Then please!,お願い！,please!,0.6666666666666666,0.6546942
 "Hey, are you all right?","（ムーンドギー）おい 大丈夫か？
 （エウレカ）あ…","Is it all right?
- ...",0.3
+ ...",0.3,0.42977285
 "Don't push yourself so hard!
-You should be patient and wait!",おとなしく待ってたほうがいい,You should wait for yourself,0.2857142857142857
+You should be patient and wait!",おとなしく待ってたほうがいい,You should wait for yourself,0.2857142857142857,0.6690805
 "Holland said that he'd
 bring him back, right?","ホランドが連れ戻すって
 言ってたんだろ？","Holland brings back
-Did you say?",0.21428571428571427
-Yeah...,（ムーンドギー）あっ… ん…,...,0.5
+Did you say?",0.21428571428571427,0.760602
+Yeah...,（ムーンドギー）あっ… ん…,...,0.5,0.68880326
 "Even if he went to Gearnus,
 the nearest city, it'll still take some time.","一番近いギアナスシティまで
 行ったとしても―","The closest Geuis City City
-Even if I went",0.25
+Even if I went",0.25,0.4632809
 Gearnus?,"（エウレカ）ギアナス？
 （ムーンドギー）ああ","Gianas?
- Oh",0.25
-"Either to work, or to live in.",働くにしても 暮らすにしても,Even if you work to work,0.18181818181818182
+ Oh",0.25,0.29511553
+"Either to work, or to live in.",働くにしても 暮らすにしても,Even if you work to work,0.18181818181818185,0.49850473
 "Mama, where have you been?","（メーテル）
-ママ どこ行ってたの？",Mommy Where did you go?,0.3
+ママ どこ行ってたの？",Mommy Where did you go?,0.3,0.7012993
 "Hey, Mama?
-When is Renton coming back?",いつ戻ってくるの？ レントン,When will it come back?Renton,0.3333333333333333
-"Well, you see...",えっと それはね…,Well it is ...,0.2857142857142857
+When is Renton coming back?",いつ戻ってくるの？ レントン,When will it come back?Renton,0.3333333333333333,0.7861933
+"Well, you see...",えっと それはね…,Well it is ...,0.2857142857142857,0.55439293
 "He's not coming back, is he?","（モーリス）
-戻ってこないんじゃないの？",Aren't you going back?,0.16666666666666666
-Maurice...,モーリス…,Maurice ...,1.0
+戻ってこないんじゃないの？",Aren't you going back?,0.16666666666666666,0.5731162
+Maurice...,モーリス…,Maurice ...,1.0,1.0000001
 He's gonna come back!,"（メーテル）うそ…
 （リンク）戻ってくるよ！","そ ...
- will come back!",0.3
-"How about it, Mama?",（モーリス）どうなの？ ママ…,What is it?Mom ...,0.2
+ will come back!",0.3,0.5263214
+"How about it, Mama?",（モーリス）どうなの？ ママ…,What is it?Mom ...,0.2,0.43101606
 "Holland said that he
 would bring him back.","（エウレカ）大丈夫 ホランドが
 連れて帰るって言ってたもの","okay Holland
-What I said that I went back",0.3076923076923077
+What I said that I went back",0.3076923076923077,0.6230086
 Really?,"ホント？
 （エウレカ）うん","really?
- Yeah",0.6666666666666666
+ Yeah",0.6666666666666666,0.8794768
 "Yup. Has Holland ever
 broken a promise?","ホランド
 約束 破ったことある？","Holland
-Have you had a promise break?",0.3076923076923077
+Have you had a promise break?",0.3076923076923077,0.82251954
 "He said the other day that he'd
 buy me lots of new clothes!","こないだも 洋服 たっくさん
 買ってくれるって言ってたのに！","Even though it does not come
-I said that I could buy it!",0.18181818181818182
+I said that I could buy it!",0.18181818181818185,0.34471253
 "It's okay. Holland has never
 broken a promise to your mama.","ホランド ママとの約束は
 破ったことないよ","The promise with Holland Mom
-I have never beat it",0.21052631578947367
+I have never beat it",0.21052631578947367,0.73462516
 "<i>Hold course and stand by</i>
-<i>for orders from the flagship.</i>",旗艦から命令があるまで待機,Wait until there is an instruction from the flagship,0.09523809523809523
-The 606?!,（ケンゴー）おっ？ 606？,?606?,0.5
+<i>for orders from the flagship.</i>",旗艦から命令があるまで待機,Wait until there is an instruction from the flagship,0.09523809523809523,0.6108967
+The 606?!,（ケンゴー）おっ？ 606？,?606?,0.5,0.76590973
 Holland? What's that all about?,"（マシュー）ホランドが？
 どういうことよ","Holland?
-What kind of thing",0.3
+What kind of thing",0.3,0.86199707
 "He suddenly turns up
 without any contact?","（マシュー）
-連絡もなしに いきなりか？",Do you suddenly go without contact?,0.36363636363636365
+連絡もなしに いきなりか？",Do you suddenly go without contact?,0.3636363636363637,0.59441745
 Talho! Open the hatch!,"タルホ！
 ハッチを展開してくれ","Taro!
-Expand the hatch",0.42857142857142855
-We're changing course.,（ホランド）針路変更だ,Changel Road Change,0.0
+Expand the hatch",0.42857142857142855,0.67038864
+We're changing course.,（ホランド）針路変更だ,Changel Road Change,0.0,0.4092044
 Is it the military?,"幸い まだ包囲網は
 完成しきっていない","Fortunately the surrounding network is
-Not completed",0.2
+Not completed",0.2,0.10016976
 No.,"（ホランド）いや
 （ハップ）ん？","No
-?",0.3333333333333333
+?",0.3333333333333333,0.7923744
 "It looks like they're working
 with the State Army.","チャールズとレイが来る
 州軍と連携しているようだ","Charles and Ray come
-It seems to work in cooperation with the state",0.2
+It seems to work in cooperation with the state",0.2,0.47165796
 "Right now, I think we can barely
 squeeze through Jackson 286.","今なら ジャクソンの286から
 ギリギリ抜けられるはずだ","Now from Jackson's 286
-It should be removed from the last minute",0.13636363636363635
-Got it.,分かった,Do you get it,0.16666666666666666
-Hurry.,（ホランド）急ぐぞ,hurry,0.5
-Dammit.,くそ～！,く!,0.0
+It should be removed from the last minute",0.13636363636363635,0.6856575
+Got it.,分かった,Do you get it,0.16666666666666666,0.3789735
+Hurry.,（ホランド）急ぐぞ,hurry,0.5,0.87656474
+Dammit.,くそ～！,く!,0.0,0.28858462
 Wait.,"（タルホ）待って！
 （ハップ･マシュー）ん？","Wait!
-?",0.25
+?",0.25,0.70803124
 What about Renton?,"（タルホ）
-レントンは どうしたのよ",Renton is what he did,0.2857142857142857
+レントンは どうしたのよ",Renton is what he did,0.2857142857142857,0.7561848
 Even a kid can see that.,"どっちを優先するかなんて
 ガキでも分かる","Which one is given to
-You can see it with the oyster",0.11764705882352941
+You can see it with the oyster",0.1176470588235294,0.244815
 "So, that makes you
-dumber than a kid, huh?",あんたはガキ以下ね,You're more than Gaki,0.14285714285714285
-Matthieu... Where's Eureka?,マシュー エウレカは？,Matthew Eureka?,0.2857142857142857
+dumber than a kid, huh?",あんたはガキ以下ね,You're more than Gaki,0.14285714285714285,0.26651227
+Matthieu... Where's Eureka?,マシュー エウレカは？,Matthew Eureka?,0.2857142857142857,0.6689049
 I... I think she's in her room.,"（マシュー）
-た… たぶん 部屋だと思う",... I think it's probably a room,0.4166666666666667
-"Not here, huh?",ん？,Yeah?,0.16666666666666666
+た… たぶん 部屋だと思う",... I think it's probably a room,0.4166666666666667,0.7057821
+"Not here, huh?",ん？,Yeah?,0.16666666666666666,0.39094368
 Eureka.,"エウレカ…
 （エウレカ）あ！","Eureka ...
- Oh!",0.2
-Where have you been?,（ホランド）どこ行ってたんだ？,Where did you go?,0.42857142857142855
-Is that Renton's?,レントンのか？ それ…,Is it Renton?that…,0.42857142857142855
-Have you found him?,（エウレカ）見つかった？,was found?,0.3333333333333333
+ Oh!",0.2,0.87392104
+Where have you been?,（ホランド）どこ行ってたんだ？,Where did you go?,0.42857142857142855,0.6996518
+Is that Renton's?,レントンのか？ それ…,Is it Renton?that…,0.42857142857142855,0.83987826
+Have you found him?,（エウレカ）見つかった？,was found?,0.3333333333333333,0.51829416
 "I'm sorry, but we're
 changing course to I-709.","（ホランド）どうやら
 州軍と連携してるみてえなんだ","Apparently
-I'm looking forward to working with State",0.17647058823529413
-What about Gearnus City?,（エウレカ）ギアナスシティは？,What is Gianas City?,0.42857142857142855
+I'm looking forward to working with State",0.17647058823529413,0.28200406
+What about Gearnus City?,（エウレカ）ギアナスシティは？,What is Gianas City?,0.42857142857142855,0.4356821
 "We're facing Charles
 right now. Those guys...","相手はチャールズだ
 あいつら…","The other party is Charles
-A guy ...",0.125
-Why?,（エウレカ）どうして？,Why?,1.0
+A guy ...",0.125,0.50912875
+Why?,（エウレカ）どうして？,Why?,1.0,0.99999976
 "That's not what I mean!
-You said you were going to Gearnus!",（エウレカ）そうじゃないよ！,That's not!,0.3076923076923077
+You said you were going to Gearnus!",（エウレカ）そうじゃないよ！,That's not!,0.3076923076923077,0.32833484
 "It couldn't be helped!
 The Gekko's in danger!","しょうがねえだろ！
 月光号が危ないんだよ","It's a ginger!
-The moonlight is dangerous",0.25
+The moonlight is dangerous",0.25,0.228316
 You know what he can do!,"相手は あのチャールズだぞ
 お前だって知ってるはずだ！","The other party is that charles
-You should know it!",0.2
-"Do you hate Renton, Holland?",ホランドは レントンが嫌いなの？,Holland dislikes Renton?,0.375
-I...,（ホランド）違う ただ 俺は…,"No, I'm just ...",0.3333333333333333
-"Hey, he'll hear!",おい 聞こえるぞ,I can hear,0.125
+You should know it!",0.2,0.20927244
+"Do you hate Renton, Holland?",ホランドは レントンが嫌いなの？,Holland dislikes Renton?,0.375,0.86576843
+I...,（ホランド）違う ただ 俺は…,"No, I'm just ...",0.3333333333333333,0.3624033
+"Hey, he'll hear!",おい 聞こえるぞ,I can hear,0.125,0.3340744
 "It's been a while, sir.","（モアルトダール）
-まったく災難なことだ",It's a wonderful thing,0.3
+まったく災難なことだ",It's a wonderful thing,0.3,0.26501557
 "Charles Beams, attached to the
 Federation Forces reserve units.","連邦軍遊撃部隊所属
 チャールズ･ビームスです","Federal Army Masterpiece Affiliation
-Charles Beams",0.13333333333333333
+Charles Beams",0.13333333333333333,0.7061571
 "<i>If only it was 20</i>
-<i>more kilometers south,</i>",あと20キロ南なら―,If it is 20 km later-,0.1875
-<i>Is he really going to show up? That is...</i>,本当に現れるのか？ その…,Do you really appear?That…,0.1111111111111111
+<i>more kilometers south,</i>",あと20キロ南なら―,If it is 20 km later-,0.1875,0.5338522
+<i>Is he really going to show up? That is...</i>,本当に現れるのか？ その…,Do you really appear?That…,0.1111111111111111,0.4493641
 "The blockade I asked you to
 make has a slight opening.","お願いした包囲網には
 わずかに隙があります","For the surrounding network
-There is a slight chance",0.16666666666666666
-"Jackson map, page 286.",ジャクソンのマップページ286,Jackson Map Page 286,0.6666666666666666
+There is a slight chance",0.16666666666666666,0.15852492
+"Jackson map, page 286.",ジャクソンのマップページ286,Jackson Map Page 286,0.6666666666666666,0.9610962
 "<i>What happens if he takes</i>
 <i>advantage of that hole?</i>","（モアルトダール）
-その隙をつかれたら どうする？",What do you do if you have the chance?,0.15789473684210525
+その隙をつかれたら どうする？",What do you do if you have the chance?,0.15789473684210525,0.17277436
 He wouldn't miss this chance.,"あいつなら
 この隙を見逃すはずはない","If you
-I can't miss this chance",0.36363636363636365
+I can't miss this chance",0.3636363636363637,0.6842018
 "I'm sure...
-I'm sure he'll show up there.",必ず… 必ず現れる,Be sure to ... always appear,0.14285714285714285
+I'm sure he'll show up there.",必ず… 必ず現れる,Be sure to ... always appear,0.14285714285714285,0.47246823
 I-709. We're getting out of this airspace.,"“イ 709”だ
 この空域から脱出する","""I 709""
-Get out of this airspace",0.2857142857142857
+Get out of this airspace",0.2857142857142857,0.8500777
 "It's only a momentary escape.
 Don't worry about it.","いったん脱出するだけだ
 心配すんな","Only to escape
-Worry",0.25
-Yeah. Really.,本当にいいの？,Is it really good?,0.14285714285714285
+Worry",0.25,0.58735776
+Yeah. Really.,本当にいいの？,Is it really good?,0.14285714285714285,0.25035873
 <i>Nirvash won't move for me.</i>,"（エウレカ）ニルヴァーシュは
 動いてくれない","Nirvac
-Do not move",0.07692307692307693
+Do not move",0.07692307692307693,0.7884385
 "<i>That means...</i>
 <i>I have to go myself!</i>","私が…
 私が行くしかないじゃない！","I…
-I have no choice but to go!",0.3125
+I have no choice but to go!",0.3125,0.50884193
 "<i>Renton was the one who</i>
-<i>always started things off.</i>",いつもはレントンからだったね,Usually was from Renton,0.13333333333333333
-<i>But this time...</i>,でも 今度は…,But this time ...,0.5
-Care for some tea?,（ゴンジイ）お茶 飲むかね？,Tea drink?,0.3333333333333333
+<i>always started things off.</i>",いつもはレントンからだったね,Usually was from Renton,0.13333333333333333,0.63040125
+<i>But this time...</i>,でも 今度は…,But this time ...,0.5,0.57496345
+Care for some tea?,（ゴンジイ）お茶 飲むかね？,Tea drink?,0.3333333333333333,0.7892616
 "Wait for me, Renton!
 Wait for me!","（エウレカ）
-待っててね レントン",Wait for Renton,0.5
+待っててね レントン",Wait for Renton,0.5,0.86505806
 Jackson 286.,"（レントン）ジャクソンの286
 チャールズさんの言ってたとおりだ","Jackson 286
-As I said Mr. Charles",0.25
+As I said Mr. Charles",0.25,0.8461123
 "Wait for me, Eureka!
 I'm coming!","待ってて エウレカ
 今 行くから！","Wait and Eureka
-I'm going now!",0.4166666666666667
+I'm going now!",0.4166666666666667,0.8714901
 "Hey, hold on a sec, kids.","（ギジェット）ねえ ちょっと
 チビッ子たち","Hey a little
-Chibikko",0.2
+Chibikko",0.2,0.3632278
 "You know what happened
 to my board I left here?","ここに置いといた
 私のボード 知らない？","I was here
-Don't you know my board?",0.5
-I don't know anything.,僕 知らないよ,I do not know,0.42857142857142855
+Don't you know my board?",0.5,0.7419335
+I don't know anything.,僕 知らないよ,I do not know,0.42857142857142855,0.5360691
 I dunno!,"（メーテル･リンク）あっ！
 （ギジェット）はっ！","!
-!",0.3333333333333333
-What's that?,（モーリス）あっ あれ何だ？,What is it?,0.3333333333333333
-It's Renton!,（リンク）レントンだ！,Renton!,0.5
+!",0.3333333333333333,0.24191512
+What's that?,（モーリス）あっ あれ何だ？,What is it?,0.3333333333333333,0.5554866
+It's Renton!,（リンク）レントンだ！,Renton!,0.5,0.9022969
 "Maintain it till we're
-clear of this airspace!",このまま空域を突破する！,Take a break through the airspace as it is!,0.1875
-Roger.,了解,Roger that,0.3333333333333333
+clear of this airspace!",このまま空域を突破する！,Take a break through the airspace as it is!,0.1875,0.7121971
+Roger.,了解,Roger that,0.3333333333333333,0.7945501
 "I know. Holland, what about
 launch preparations for the LFOs?","ホランド ＬＦＯの出撃準備は
 どうする？","Preparation for the Holland LFO
-what will you do?",0.2777777777777778
+what will you do?",0.2777777777777778,0.69556755
 "Just think about getting the
 Gekko out of here at full speed!","月光号が全力で
 脱出することだけを考えろ","The moonlight is all power
-Consider just escape",0.10526315789473684
+Consider just escape",0.10526315789473684,0.13870513
 This is good timing.,"（ストナー）
-ちょうどよかったじゃねえか",It was just good,0.125
+ちょうどよかったじゃねえか",It was just good,0.125,0.251093
 "Look who wandered back here, Holland!","（ストナー）ひょっこり
 帰ってきたぜ ホランド","Hykew
-I'm back Holland",0.18181818181818182
+I'm back Holland",0.18181818181818185,0.60065514
 Renton!,"おお！
 （タルホ）レントン！","Oh!
- Renton!",0.6666666666666666
+ Renton!",0.6666666666666666,0.9353577
 "Now, go on and apologize.
-You caused him a lot of worry!",一体 どこ行ってやがったんだか,Where did you go?,0.1111111111111111
-Who the hell is that?,そいつは一体 誰だ？,Who is that one?,0.5714285714285714
+You caused him a lot of worry!",一体 どこ行ってやがったんだか,Where did you go?,0.1111111111111111,0.074494936
+Who the hell is that?,そいつは一体 誰だ？,Who is that one?,0.5714285714285714,0.6765181
 "What in the world are
 we all seeking, Adroc?","一体 俺たちは
 何を求めてるんだろうなあ","Only we
-What I'm asking for",0.125
+What I'm asking for",0.125,0.45479506
 "<i>This fleet has entered the</i>
 <i>Sea of Rainbow Clouds.</i>","本艦隊は七色雲海内に進入
 作戦空域まで あと50キロだ","This fleet enters the Seven-color clouds in the sea
-It is 50 km to the operation space area",0.16
+It is 50 km to the operation space area",0.16,0.49196827
 "Holland, I heard that the Gekko...","（レントン）ホランド
 俺 聞いちゃったんだ 月光号は…","Holland
-I heard that the moonlight is ...",0.6
+I heard that the moonlight is ...",0.6,0.53785074
 "Who said you could come back
 on this ship is what I'm asking!","いつ 誰が この船に
 戻ってきていいって言ったんだ？","When to this ship
-Did you say that you should come back?",0.22727272727272727
+Did you say that you should come back?",0.2272727272727273,0.7420006
 Well?!,"（レントン）ん！
 （マシュー･ストナー）ん？","!
-?",0.6666666666666666
+?",0.6666666666666666,0.6062294
 "Holland, drop the act!
 Even you wanted Renton back...","ホランド 素直になろうぜ
 お前だってレントンを…","Holland will be honest
-You're your renton ...",0.23529411764705882
-Shut up! Just drop it!,うるせえ！ 黙ってろ！,shut up! Shut up!,0.5
+You're your renton ...",0.2352941176470588,0.73166
+Shut up! Just drop it!,うるせえ！ 黙ってろ！,shut up! Shut up!,0.5,0.63579124
 "I'm not thinking of
 anything so self-serving.","（レントン）戻ったんじゃないよ
 （ハップ）えっ？","I'm not back
-?",0.2727272727272727
-I just...,俺は ただ…,I'm just ...,0.75
-Eureka...,エウレカに…,Eureka ...,1.0
+?",0.2727272727272727,0.13103557
+I just...,俺は ただ…,I'm just ...,0.75,0.77395153
+Eureka...,エウレカに…,Eureka ...,1.0,1.0000001
 I just came here to see Eureka!,"エウレカに
 会いに来ただけなんだ！","In Eureka
-I just came to see you!",0.7
+I just came to see you!",0.7,0.8838074
 Gearnus City... 30 more kilometers.,"（エウレカ）
-ギアナスシティ あと30キロ",Gianas City 30 km,0.2222222222222222
+ギアナスシティ あと30キロ",Gianas City 30 km,0.2222222222222222,0.60902274
 "If I ride the waves well, I'll probably
 make it in less than two hours.","うまく波に乗れば
 ２時間は かからないかもしれない","If you get on a waves
-Two hours may not be",0.16666666666666666
-A swarm of sky fish...,スカイフィッシュの群れ…,Herd of Skyfish ...,0.25
-The State Army!,はっ… 州軍だわ！,Hey ... It is the state forehead!,0.3333333333333333
-"Charles, can you hear me?",チャールズ 聞こえる？,Can you hear Charles?,0.7142857142857143
-<i>Charles!</i>,チャールズ！,Charles!,0.3333333333333333
-Don't be in such a rush!,そう焦るなよ,Don't get so,0.2
-<i>But Eureka has come here by herself!</i>,エウレカがね！,Eureka!,0.16666666666666666
+Two hours may not be",0.16666666666666666,0.6950135
+A swarm of sky fish...,スカイフィッシュの群れ…,Herd of Skyfish ...,0.25,0.7455105
+The State Army!,はっ… 州軍だわ！,Hey ... It is the state forehead!,0.3333333333333333,0.43185547
+"Charles, can you hear me?",チャールズ 聞こえる？,Can you hear Charles?,0.7142857142857143,0.87100047
+<i>Charles!</i>,チャールズ！,Charles!,0.3333333333333333,0.8144574
+Don't be in such a rush!,そう焦るなよ,Don't get so,0.2,0.2468855
+<i>But Eureka has come here by herself!</i>,エウレカがね！,Eureka!,0.16666666666666666,0.7079881
 "<i>Gekko!</i>
 <i>Can you hear me, Gekko?!</i>","（エウレカ）月光号！
 聞こえますか？ 月光号！","Monthlight!
-Can you hear it?Moonlight!",0.3333333333333333
+Can you hear it?Moonlight!",0.3333333333333333,0.35096508
 Huh? What's this signal?,"ええ？
 あ… 何？ この通信","Yes?
-Oh ... what?This communication",0.3
-Hello?,もしもし？,Hello?,1.0
+Oh ... what?This communication",0.3,0.32450074
+Hello?,もしもし？,Hello?,1.0,1.0
 "<i>A large State Army fleet is</i>
-<i>approaching at location A-307. Hurry!</i>",州軍の大艦隊が来てるわ 早く…,Province of the state army is coming soon ...,0.13043478260869565
-Who was it?,誰だ？,Who?,0.5
+<i>approaching at location A-307. Hurry!</i>",州軍の大艦隊が来てるわ 早く…,Province of the state army is coming soon ...,0.13043478260869565,0.5015488
+Who was it?,誰だ？,Who?,0.5,0.5914359
 "I don't know.
 The static was really bad.","分かりません
 ノイズがひどくって…","I do not understand
-Noise is awful ...",0.125
+Noise is awful ...",0.125,0.2471062
 "But, where do I know that voice from?","ん！ でも どっかで
 聞いたことあるような…","Hmm!But somewhere
-I have heard ...",0.125
-I think it was probably Eureka.,たぶん エウレカの声だと思います,Maybe I think it's a voice of Eureka,0.3333333333333333
+I have heard ...",0.125,0.36452246
+I think it was probably Eureka.,たぶん エウレカの声だと思います,Maybe I think it's a voice of Eureka,0.3333333333333333,0.6752839
 Eureka?!,"（レントン･ホランド）
-エウレカ！？",Eureka!?,1.0
-The communicator!,あっ！,Ah!,0.25
-The State Army?!,（ホランド）州軍だと？,?,0.2
+エウレカ！？",Eureka!?,1.0,0.937868
+The communicator!,あっ！,Ah!,0.25,0.16550988
+The State Army?!,（ホランド）州軍だと？,?,0.2,0.13010597
 "Yes! That's what she said
 in that communication!","（ギジェット）はい
 確かに通信では そう言ってました","Yes
-Certainly he said so in communication",0.3333333333333333
+Certainly he said so in communication",0.3333333333333333,0.57296187
 "What's going on? There's no
 sign of them on the radar!","レーダーには
 何の反応もなかったぞ","Radar
-There was no reaction",0.2
-The Sea of Rainbow Clouds!,座標は雲海内中央を示しとる,Coordinates show the center of the clouds in the clouds,0.3
+There was no reaction",0.2,0.47927478
+The Sea of Rainbow Clouds!,座標は雲海内中央を示しとる,Coordinates show the center of the clouds in the clouds,0.3,0.42540193
 "Because of the trapar turbulence
 effect specific to that area,","あの七色雲海特有の現象
 トラパー乱流のせいで―","Seven colored sea area specific phenomena
-Because of the trap turbulence-",0.29411764705882354
-our radar beams are being diffused!,レーダーが乱反射しとるんだ,Radar is disturbed,0.1111111111111111
-An external communication?!,（ハップ･レントン）外部通信！？,External communication!?,0.8
-Eureka!,はっ… エウレカ！,Ha ... Eureka!,0.5
+Because of the trap turbulence-",0.29411764705882354,0.5850095
+our radar beams are being diffused!,レーダーが乱反射しとるんだ,Radar is disturbed,0.1111111111111111,0.6524352
+An external communication?!,（ハップ･レントン）外部通信！？,External communication!?,0.8,0.8693565
+Eureka!,はっ… エウレカ！,Ha ... Eureka!,0.5,0.8449144
 "It's from within the sea of clouds.
 She's using a pocket communicator.","雲海内からだ
 小型の通信機を使ってる","It is from the clouds in the clouds
-I use a small communication machine",0.23809523809523808
+I use a small communication machine",0.2380952380952381,0.5384855
 The ref-board I left in the dining hall!,"（ギジェット）食堂に置いといた
 私のリフボード―","I was placed in the cafeteria
-My Refboard-",0.23076923076923078
+My Refboard-",0.2307692307692308,0.7127619
 "Eureka was probably
 the one who took it.","たぶんエウレカが
 持ってったんだ…","Maybe Eureka
-I brought it ...",0.15384615384615385
+I brought it ...",0.15384615384615385,0.7629599
 And you only figure that out <i>now?!</i>,"（ホランド）
-何で 今 気づくんだよ！",What do you notice now!,0.1875
-Hey! Where are you going?!,おい！ どこ行くんだ！,Oi!Where are you going!,0.625
+何で 今 気づくんだよ！",What do you notice now!,0.1875,0.3496963
+Hey! Where are you going?!,おい！ どこ行くんだ！,Oi!Where are you going!,0.625,0.7871265
 "<i>I was just intimidating her.</i>
 <i>I wasn't trying to hit her.</i>","（レイ）ちょっと威嚇しただけよ
 当てるつもりはないわ","I just intimidated
-I'm not going to hit",0.25
+I'm not going to hit",0.25,0.59579426
 "<i>Then how about the</i>
 <i>usual good number?</i>","（チャールズ）ほいじゃあ
-いつもの景気のいいやつを",The usual economy guy,0.14285714285714285
+いつもの景気のいいやつを",The usual economy guy,0.14285714285714285,0.11390064
 "I love you, Charles!","フフッ…
 愛してるわ チャールズ","Fufu ...
-I love you Charles",0.5
-<i>Eureka! Eureka! Eureka! Eureka!</i>,エウレカ！,Eureka!,0.3333333333333333
-Nirvash...,ニルヴァーシュ…,Nirvarsh ...,0.3333333333333333
-Where?!,んっ… どこ？,... Where?,0.5
+I love you Charles",0.5,0.806884
+<i>Eureka! Eureka! Eureka! Eureka!</i>,エウレカ！,Eureka!,0.3333333333333333,0.7230609
+Nirvash...,ニルヴァーシュ…,Nirvarsh ...,0.3333333333333333,0.889319
+Where?!,んっ… どこ？,... Where?,0.5,0.77921957
 What the?!,"（チャールズ）
-うっ！ な… 何だ？",Uh!... What?,0.5
+うっ！ な… 何だ？",Uh!... What?,0.5,0.55048233
 "<i>Hey, Ray! The mermaid</i>
 <i>jumped into the bucket!</i>","人魚が おけに
 飛び込んできやがったぜ","Human fish
-I jumped into",0.2
+I jumped into",0.2,0.42177686
 <i>I'll land as is. Open the hatch!</i>,"このまま着艦する
 ハッチを開けといてくれ","Let's wear it
-Please open a hatch",0.10526315789473684
-"Oh, no!",あ～っ！！,Oh!!,0.5
-Shit!,くそ～っ！,く!,0.3333333333333333
+Please open a hatch",0.10526315789473684,0.4545198
+"Oh, no!",あ～っ！！,Oh!!,0.5,0.6675829
+Shit!,くそ～っ！,く!,0.3333333333333333,0.34101817
 "<i>I... In the end, I couldn't</i>
 <i>keep even one promise.</i>","（エウレカ）私 結局
 １つも約束を守れなかった","I will eventually
-I did not keep my promise",0.09523809523809523
-"<i>I'm sorry, Renton!</i>",ごめんね レントン…,Sorry Renton ...,0.2
+I did not keep my promise",0.09523809523809523,0.6624917
+"<i>I'm sorry, Renton!</i>",ごめんね レントン…,Sorry Renton ...,0.2,0.8367711
 Teos 01 has been shot down!,"（通信士）テオス01
 爆撃されました！","Teos 01
-I was bombed!",0.3
+I was bombed!",0.3,0.6954899
 "Who is it?! Where are
-they shooting from?!",予定と違うではないか…,Isn't it different from scheduled ...,0.21428571428571427
+they shooting from?!",予定と違うではないか…,Isn't it different from scheduled ...,0.21428571428571427,-0.007369902
 "Jackson 103!
 I think it's the Gekko!","ジャクソン103！
 月光号と思われます","Jackson 103!
-It seems to be a moonlight",0.2857142857142857
+It seems to be a moonlight",0.2857142857142857,0.6936811
 "We'll use the sea of clouds as a
 shield to gradually approach them!","（ホランド）雲海を盾に
 徐々に接近するぞ","On the sea shield
-Gradually approach",0.3125
+Gradually approach",0.3125,0.60276735
 Hap! Continue with launch preparations!,"ブースターは
 始動したままにしとけ！","Booster
-Leave it with started!",0.2
+Leave it with started!",0.2,0.3383612
 "Tell Matthieu and Hilda
-to pick Eureka up!",マシューとヒルダに伝えろ！,Transform the Matthew and Hilda!,0.25
-Roger!,了解！,Roger that!,0.6666666666666666
-<i>Mission change!</i>,（通信士）作戦変更！,Strategy change!,0.25
+to pick Eureka up!",マシューとヒルダに伝えろ！,Transform the Matthew and Hilda!,0.25,0.50288916
+Roger!,了解！,Roger that!,0.6666666666666666,0.8614299
+<i>Mission change!</i>,（通信士）作戦変更！,Strategy change!,0.25,0.47969612
 "<i>The Gekko has appeared</i>
 <i>in Jackson 103!</i>","ジャクソン103より
 月光号が現れた","Jackson 103
-Moonlight appeared",0.23076923076923078
-Wait... Just a little bit longer!,待て… あと少しだ,Wait ... A little more,0.4444444444444444
-What's that?!,くっ！ あれは！？,Come!That is!?,0.42857142857142855
-A white LFO!,白いＬＦＯ！,White LFO!,0.75
-EUREKA!,（レントン）エウレカ！,Eureka!,1.0
-RENTON!,レントン！,Renton!,1.0
+Moonlight appeared",0.2307692307692308,0.40134844
+Wait... Just a little bit longer!,待て… あと少しだ,Wait ... A little more,0.4444444444444444,0.5815719
+What's that?!,くっ！ あれは！？,Come!That is!?,0.42857142857142855,0.41331008
+A white LFO!,白いＬＦＯ！,White LFO!,0.75,0.9295076
+EUREKA!,（レントン）エウレカ！,Eureka!,1.0,0.9999999
+RENTON!,レントン！,Renton!,1.0,1.0
 "<i>Beams! The Gekko is attacking</i>
-<i>us! Do you hear me?!</i>",聞いてるのか？,Do you hear?,0.25
-Renton...,レントン…,Renton ...,1.0
-"Yeah, I know.",（チャールズ）ああ 分かってるさ,Oh I know,0.3333333333333333
+<i>us! Do you hear me?!</i>",聞いてるのか？,Do you hear?,0.25,0.31684574
+Renton...,レントン…,Renton ...,1.0,0.99999976
+"Yeah, I know.",（チャールズ）ああ 分かってるさ,Oh I know,0.3333333333333333,0.76036376
 "Renton! I was able to do it
 because of you, Renton.","（エウレカ）レントン
 私 レントンだからできたの","Renton
-I was able to",0.38461538461538464
-"It can't be anyone but you, Renton.",でも よかった,But it was good,0.16666666666666666
-"Renton, I...",私は… 私はレントンが…,I ... I am Renton ...,0.6
+I was able to",0.38461538461538464,0.79083586
+"It can't be anyone but you, Renton.",でも よかった,But it was good,0.16666666666666666,0.06252019
+"Renton, I...",私は… 私はレントンが…,I ... I am Renton ...,0.6,0.88502324
 "You went this far,
-doing this all by yourself...",たった１人で こんな…,This is something like this ...,0.15384615384615385
+doing this all by yourself...",たった１人で こんな…,This is something like this ...,0.15384615384615385,0.37897304
 "I... I've been wanting to
 talk to you all this time.","（エウレカ）私…
 ずっと話がしたかったの","me ...
-I wanted to talk for a long time",0.29411764705882354
+I wanted to talk for a long time",0.29411764705882354,0.6019352
 "There are so many things I'd
 like to ask you about, Eureka.","エウレカに聞いてほしいことが
 たくさんあるんだ","I want you to ask Eureka
-There are a lot",0.3333333333333333
-Why?!,なぜだ！？,Why!?,1.0
+There are a lot",0.3333333333333333,0.76865935
+Why?!,なぜだ！？,Why!?,1.0,0.8983107
 "The specs of this unit
 should be much better!","スペック的には
 圧倒してるはずだ！","Specifically
-You should have overwhelmed!",0.14285714285714285
+You should have overwhelmed!",0.14285714285714285,0.15178913
 "It's just one ship!
 There's no way we can lose!","相手は たったの１隻
 負けるはずはない！","The opponent was only one
-I can not lose!",0.2222222222222222
+I can not lose!",0.2222222222222222,0.4591642
 Communications! What's Beams doing?!,"通信士！
 ビームスは何をやっとるんだ！","Correspondent!
-What is the beams doing!",0.4
+What is the beams doing!",0.4,0.7779356
 "Dammit, where did they go?!
 I'm through playing hide-and-seek!","くそっ どこ行った？
 かくれんぼは終わりだ！","Where did you go?
-Hideakor is over!",0.29411764705882354
-"Renton, that's...",あっ レントン あれ…,A Rentona ...,0.14285714285714285
+Hideakor is over!",0.29411764705882354,0.526096
+"Renton, that's...",あっ レントン あれ…,A Rentona ...,0.14285714285714285,0.5418767
 "It's all right.
-Leave it to me.",大丈夫 俺に任せて,Always leave it to me,0.4444444444444444
+Leave it to me.",大丈夫 俺に任せて,Always leave it to me,0.4444444444444444,0.5726809
 "I won't kill anyone!
 I'll just make them unable to fight.","人は絶対に殺さない
 ただ戦えないようにするだけ","People will never kill
-Just make it possible to fight",0.2631578947368421
+Just make it possible to fight",0.2631578947368421,0.7432145
 <i>Rolf 01's right arm has been destroyed!</i>,"（通信士）
-ロルフ01 右腕破損！",Rolf 01 right-hand broken!,0.2
-"<i>03, as well!</i>",続いて03！,Next 03!,0.2
+ロルフ01 右腕破損！",Rolf 01 right-hand broken!,0.2,0.83297765
+"<i>03, as well!</i>",続いて03！,Next 03!,0.2,0.58200073
 "<i>And now 02!</i>
-<i>They're all disabled!</i>",同じく02 行動不能です！,Similarly 02 is not working!,0.125
+<i>They're all disabled!</i>",同じく02 行動不能です！,Similarly 02 is not working!,0.125,0.46126425
 Why just the weapons?,"（パイロット）
-なぜ 武器だけを…",Why only weapons are ...,0.25
+なぜ 武器だけを…",Why only weapons are ...,0.25,0.78881633
 "Flying all around the battlefield
 and showing mercy...","（チャールズ）戦場を飛び回り
 情けをかけるなんてな…","Flying around the battlefield
-I'm sorry ...",0.4166666666666667
+I'm sorry ...",0.4166666666666667,0.67957544
 "Renton, you'll die keeping that up.
 You're being too kind.","死ぬぞ レントン…
 優しすぎる","I will die Renton ...
-Be kind",0.17647058823529413
+Be kind",0.17647058823529413,0.8307187
 Welcome back.,"（エウレカ）おかえりって…
 （レントン）え？","Welcome back ...
-?",0.4
+?",0.4,0.67116016
 "Heh, I'm back.","（エウレカ）ニルヴァーシュが
 そう言ってるの","Nirvacu
-I'm saying that",0.2222222222222222
+I'm saying that",0.2222222222222222,0.083794504
 "Renton, you just said ""alone.""","あ… レントン
 今“１人”って…","Oh ... Renton
-Now ""1"" ...",0.23076923076923078
+Now ""1"" ...",0.2307692307692308,0.6583785
 "Come on, Renton.
 Let's go together!","（エウレカ）ねえ レントン
 一緒に行こう！","Hey Renton
-Let's go together!",0.5454545454545454
-Sure!,うん！,Yes!,0.3333333333333333
+Let's go together!",0.5454545454545454,0.90540946
+Sure!,うん！,Yes!,0.3333333333333333,0.6309256
 "The reflection films are
 peeling off one after another!","リフレクションフィルムが
 次々と剥がれていきます","Reflection film
-I will peel off one after another",0.35714285714285715
+I will peel off one after another",0.35714285714285715,0.7930631
 "The Type Zero...
 What has it done?!","（モアルトダール）
-タイプ･ゼロ… 一体 何をした？",Type · Zero ... What did you do?,0.35714285714285715
-What's the meaning of this?,どういうことなんだ？,What does that mean?,0.2
-It's just like a rainbow...,まるで虹のようじゃないか…,It's like a rainbow ...,0.8571428571428571
-Retreat! Hurry!,撤退だ！ 急げ！,Withdraw!hurry up!,0.4
+タイプ･ゼロ… 一体 何をした？",Type · Zero ... What did you do?,0.35714285714285715,0.6419241
+What's the meaning of this?,どういうことなんだ？,What does that mean?,0.2,0.46199417
+It's just like a rainbow...,まるで虹のようじゃないか…,It's like a rainbow ...,0.8571428571428571,0.9718476
+Retreat! Hurry!,撤退だ！ 急げ！,Withdraw!hurry up!,0.4,0.6179228
 "Holland, can this be...","（タルホ）ホランド
 これって もしかして…","Holland
-This is she maybe ...",0.3333333333333333
-I can't believe that little twerp...,まさか あのチビッ子がな…,I'm sorry that Chibiko ...,0.2727272727272727
-What is this feeling that I have?!,何だ？ この気持ちは一体…,What?This feeling is one ...,0.45454545454545453
+This is she maybe ...",0.3333333333333333,0.77525705
+I can't believe that little twerp...,まさか あのチビッ子がな…,I'm sorry that Chibiko ...,0.2727272727272727,0.25098673
+What is this feeling that I have?!,何だ？ この気持ちは一体…,What?This feeling is one ...,0.4545454545454545,0.5247865
 "<i>Charles!</i>
 Come on! We're pulling back for today.","いいから！
 今日は引いとくんだ","Because it is good!
-Today is pulling",0.15789473684210525
+Today is pulling",0.15789473684210525,0.34085235
 The Son of the King...,"（チャールズ）
-王の息子…",King's son ...,0.5
+王の息子…",King's son ...,0.5,0.8703728
 "Dewey, is that what this all means?","デューイ
 そういうことなのか？","Dewey
-Is that such a thing?",0.3333333333333333
+Is that such a thing?",0.3333333333333333,0.8897899
 "Hey, Renton.","（エウレカ）
-ねえ レントン",Hey Renton,0.5
+ねえ レントン",Hey Renton,0.5,0.9497755
 "I was thinking about lots of
 things while you were gone.","私ね 君がいない間に
 いろんなこと考えたの","While I have no
-I thought about various things",0.25
+I thought about various things",0.25,0.57992446
 "I met all sorts of people, too.","（レントン）俺も
 いろんな人に会ったよ","I also
-I met various people",0.2727272727272727
+I met various people",0.2727272727272727,0.85790056
 And I finally realized something.,"それで
 やっと分かったんだ","Like that
-I finally understood",0.2222222222222222
-What was important to me.,何が大切なのかって,What is important,0.2857142857142857
+I finally understood",0.2222222222222222,0.46133688
+What was important to me.,何が大切なのかって,What is important,0.2857142857142857,0.6223913
 Sky fish!,"あっ
 スカイフィッシュ！","Ah
-Skyfish!",0.2
+Skyfish!",0.2,0.8176109
 You really came back...,"（エウレカ）
-戻ってきてくれたんだ",I came back,0.3333333333333333
-"Hey, Renton?",ねえ レントン…,Hey Renton ...,0.4
+戻ってきてくれたんだ",I came back,0.3333333333333333,0.6598761
+"Hey, Renton?",ねえ レントン…,Hey Renton ...,0.4,0.89273226
 <i>People say I've changed!</i>,"（ケンゴー）うん うん…
 私 変わったんだって！","Yeah ...
-I changed!",0.2727272727272727
+I changed!",0.2727272727272727,0.6139361
 "<i>I've changed so much</i>
-<i>from who I was, too.</i>",そう言ってくれた,I said so,0.14285714285714285
+<i>from who I was, too.</i>",そう言ってくれた,I said so,0.14285714285714285,0.20391756
 "<i>From that day when you</i>
 <i>fell down into my home.</i>","君が俺ん家に落ちてきた
 あの日から…","You have fallen to your home
-From that day…",0.15
+From that day…",0.15,0.7504063
 "I want to hear how
 you've changed, Eureka.","聞きたいな
 エウレカが変わったこと","I want to hear
-Eureka has changed",0.5
+Eureka has changed",0.5,0.804884
 "I see. So, that's what it was all about.","（ホランド）そうか
 そうだったんだな…","so
-That's right ...",0.21428571428571427
+That's right ...",0.21428571428571427,0.31323925
 "I understand now, Diane.","分かったよ ダイアン
 俺のやるべきことがさ…","I understand Diane
-I should do my best ...",0.2727272727272727
+I should do my best ...",0.2727272727272727,0.7246862
 I know what I should be doing now!,"（チャールズ）
-諦めるわけじゃない",I do not know,0.2
+諦めるわけじゃない",I do not know,0.2,0.10240632
 TO BE CONTINUED,"（ナレーション）
-守るべきもののため―",For those to protect-,0.16666666666666666
+守るべきもののため―",For those to protect-,0.16666666666666666,0.17399491
 "TO BE CONTINUED
-To be continued!",（レントン･エウレカ）つづく！,continuing!,0.2
-"Those who risk their lives,",自由を手にした者は―,Those who got freedom-,0.25
+To be continued!",（レントン･エウレカ）つづく！,continuing!,0.2,0.5906982
+"Those who risk their lives,",自由を手にした者は―,Those who got freedom-,0.25,0.48771626
 show the boy in that battle?,"その戦いで
 少年に何を見せるのか？","In the battle
-What do you show to the boy?",0.5454545454545454
+What do you show to the boy?",0.5454545454545454,0.8658665

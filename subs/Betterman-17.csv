@@ -1,272 +1,272 @@
-en_text,jp_text,google_translated,score
-"Lamia, can you hear <i>me?</i>",ラミア 聞こえるか,Can you hear Lamia,0.36363636363636365
-Yakusugi has appeared.,ヤクスギが現れた,Yaksi appeared,0.2
-Latnasanva!,ラトナサンバヴァ,Ratna San Bava,0.0
-What has happened to <i>Turba?</i>,トゥルバはどうした,What happened to Tulba,0.2727272727272727
-"Seeme, I will sleep.",セーメ 私は眠る,Seme I sleep,0.2857142857142857
-Open your channel.,チャンネルを開け ラミア,Open the channel and lamia,0.2857142857142857
-Lamia.,ラミア そこはどこだ,Lamia is where,0.25
+en_text,jp_text,google_translated,score,semantic_score
+"Lamia, can you hear <i>me?</i>",ラミア 聞こえるか,Can you hear Lamia,0.3636363636363637,0.8298248
+Yakusugi has appeared.,ヤクスギが現れた,Yaksi appeared,0.2,0.7513898
+Latnasanva!,ラトナサンバヴァ,Ratna San Bava,0.0,0.4740689
+What has happened to <i>Turba?</i>,トゥルバはどうした,What happened to Tulba,0.2727272727272727,0.5648592
+"Seeme, I will sleep.",セーメ 私は眠る,Seme I sleep,0.2857142857142857,0.6286843
+Open your channel.,チャンネルを開け ラミア,Open the channel and lamia,0.2857142857142857,0.653875
+Lamia.,ラミア そこはどこだ,Lamia is where,0.25,0.85688245
 "Aoku uneru shijima
-A calm, blue silence",ゆらりゆられて何処(いずこ)へ,Looking for a long time,0.08333333333333333
+A calm, blue silence",ゆらりゆられて何処(いずこ)へ,Looking for a long time,0.08333333333333333,0.020710666
 "Gin no kobune ukabeshi
-Floating the silvery boat",銀の小船浮かべし,Silver small boat,0.1
+Floating the silvery boat",銀の小船浮かべし,Silver small boat,0.1,0.45451257
 "Namae shirenu tami yo
 Those people with
-names unknown",名前知れぬ民よ,Nameless people,0.1
+names unknown",名前知れぬ民よ,Nameless people,0.1,0.43963808
 "Kokoro michibiki tamou
-Guides the way for my soul",魂(こころ)導き給(たも)う,Soul  guidance,0.1
-<i>Hinoki?</i>,火乃紀？,Knoh Corporation?,0.125
+Guides the way for my soul",魂(こころ)導き給(たも)う,Soul  guidance,0.1,0.5359493
+<i>Hinoki?</i>,火乃紀？,Knoh Corporation?,0.125,0.21153782
 "Thanks for coming out
-with me today.",今日は付き合ってくれてありがとう,Thank you for getting along today,0.16666666666666666
-<i>Huh?</i>,え,Huh,0.16666666666666666
+with me today.",今日は付き合ってくれてありがとう,Thank you for getting along today,0.16666666666666666,0.65479714
+<i>Huh?</i>,え,Huh,0.16666666666666666,0.4357095
 To the place where I grew up.,"私の育った街 ケーちゃんに
 見て欲しかったんだ","To the town Ke-chan who grew up
-I wanted to see",0.38461538461538464
-Does that mean...,そ それって,That,0.25
-Just a minute!,おお,Oh,0.0
-<i>... it's all right?!</i>,OKってこと？,Is it OK?,0.15384615384615385
+I wanted to see",0.38461538461538464,0.39740613
+Does that mean...,そ それって,That,0.25,0.22928907
+Just a minute!,おお,Oh,0.0,0.20417503
+<i>... it's all right?!</i>,OKってこと？,Is it OK?,0.15384615384615385,0.2467922
 "<i>... and I brushed my teeth</i>
-<i>three times.</i>",今朝はちゃんと３回歯磨きしたし,I brushed three times this morning,0.21428571428571427
+<i>three times.</i>",今朝はちゃんと３回歯磨きしたし,I brushed three times this morning,0.21428571428571427,0.6964292
 "<i>And I've read ""How to Kiss</i>
 <i>for First Timers, ""just in case.</i>","念のために「初心者のためのハウツー・キス」
 も読んどいたし","In order not to be a ""House Kiss for Beginners""
-I read it",0.2692307692307692
-"<i>Now, wait a minute.</i>",いや でも待てよ,I will wait,0.2
+I read it",0.2692307692307692,0.6100134
+"<i>Now, wait a minute.</i>",いや でも待てよ,I will wait,0.2,0.36539343
 "<i>It's the first time for me,</i>
 <i>but what if it isn't for Hinoki?</i>","俺は初心者なのに火乃紀は
 そうじゃなかったらどうしよう","I am a beginner but the Kinoki is
-What should I do if so",0.23076923076923078
+What should I do if so",0.2307692307692308,0.21435629
 "<i>I'd rather regret it after doing it</i>
 <i>than regret not doing it at all!</i>","ええい やらずに後悔するよりは
 やって後悔だ","Rather than regretting to
-I regret",0.23529411764705882
-Why do you <i>stop?</i>,うん 何でやめちゃうのよ,"Well, I'll stop",0.16666666666666666
-I want more!,もっとちゅーして,More,0.25
-That was the worst dream.,最悪な夢,Worst dream,0.3333333333333333
-That sure was a horrible dream.,しかしとんでもない夢だったよな,But it was a dream,0.3333333333333333
+I regret",0.2352941176470588,0.74269
+Why do you <i>stop?</i>,うん 何でやめちゃうのよ,"Well, I'll stop",0.16666666666666666,0.51286775
+I want more!,もっとちゅーして,More,0.25,0.54724133
+That was the worst dream.,最悪な夢,Worst dream,0.3333333333333333,0.80696666
+That sure was a horrible dream.,しかしとんでもない夢だったよな,But it was a dream,0.3333333333333333,0.6044576
 "One look at Usshii's face
-and I'll want to throw up.",ウッシーの顔見たら吐いちまいそうだぜ,"If you look at the face of the wossy, it looks like it is vomiting",0.12
-It's not my fault!,俺のせいじゃないよ,It's not my fault,0.8333333333333334
-I made it on time!,だは ふ ふう 間に合った,It was faded,0.125
-What's with <i>you?</i>,何だよお前 朝っぱらからその反応はよ,What is it? The reaction is from the morning,0.13333333333333333
-I had a weird dream...,ん ちょっと夢見が悪くってさ,A little dreaming is bad,0.1
-"Crashman, Model <i>11?!</i>",か かかか クラッシュマン モデル イレブン…,Kanaka Crashman Model Eleven ...,0.15384615384615385
+and I'll want to throw up.",ウッシーの顔見たら吐いちまいそうだぜ,"If you look at the face of the wossy, it looks like it is vomiting",0.12,0.4622022
+It's not my fault!,俺のせいじゃないよ,It's not my fault,0.8333333333333334,0.9102811
+I made it on time!,だは ふ ふう 間に合った,It was faded,0.125,0.17273226
+What's with <i>you?</i>,何だよお前 朝っぱらからその反応はよ,What is it? The reaction is from the morning,0.13333333333333333,0.11814551
+I had a weird dream...,ん ちょっと夢見が悪くってさ,A little dreaming is bad,0.1,0.44731757
+"Crashman, Model <i>11?!</i>",か かかか クラッシュマン モデル イレブン…,Kanaka Crashman Model Eleven ...,0.15384615384615385,0.78510714
 "An iris, hydrangea.
-Why will he not <i>come?</i>",あやめ あじさい あの人は来ない,Ayame Ajisa That person does not come,0.1
-A <i>dream?</i>,夢？,dream?,0.2857142857142857
-Curry noodles!,おほ きちょる きちょる,Rome Choi Cho,0.0
-That's so good!,おいおいおいおい な 何だこりゃ,Hey Ooi Oita What's wrong,0.1
-Wh-What <i>the?!</i>,んめえ お？,Hmmm?,0.1111111111111111
-Maybe I'm working too much.,ああ ちっと働きすぎたかな,"Oh, I worked too much",0.3
+Why will he not <i>come?</i>",あやめ あじさい あの人は来ない,Ayame Ajisa That person does not come,0.1,0.30092832
+A <i>dream?</i>,夢？,dream?,0.2857142857142857,0.6005502
+Curry noodles!,おほ きちょる きちょる,Rome Choi Cho,0.0,0.29290453
+That's so good!,おいおいおいおい な 何だこりゃ,Hey Ooi Oita What's wrong,0.1,0.07984898
+Wh-What <i>the?!</i>,んめえ お？,Hmmm?,0.1111111111111111,0.14761597
+Maybe I'm working too much.,ああ ちっと働きすぎたかな,"Oh, I worked too much",0.3,0.67092836
 "And so, did we ever find out who
 was piloting those three <i>Tyrans?</i>","んで ３体のティランを操縦してた
 奴らの正体は分かったのかい？","I maneuated 3 tyran
-Did you understand the true identity of those?",0.14285714285714285
-"...Premier, Deux, and Trois.",プルミエ ドゥジ トロワ,Purmier Ded Trois,0.1111111111111111
+Did you understand the true identity of those?",0.14285714285714285,0.59533954
+"...Premier, Deux, and Trois.",プルミエ ドゥジ トロワ,Purmier Ded Trois,0.1111111111111111,0.5063261
 "You think they just
-took off <i>somewhere?</i>",全員どこかに とんずらしたってのかい？,Everyone did you go somewhere?,0.2
+took off <i>somewhere?</i>",全員どこかに とんずらしたってのかい？,Everyone did you go somewhere?,0.2,0.28056
 "There was nobody
-on the Tyrans...",操縦者は不在でした,The pilot was absent,0.2222222222222222
+on the Tyrans...",操縦者は不在でした,The pilot was absent,0.2222222222222222,0.23149797
 "I received a report from
 the France office yesterday.","昨日 フランス支部からも
 レポートが届きました","Yesterday from the French branch
-Report has arrived",0.2857142857142857
+Report has arrived",0.2857142857142857,0.72462267
 "...of the Tyrans establishing their
 own independent judgment.","ティランの制御中枢が独自に
 自立判断を確立したためとのことで","Control of Tyran's control
-With the establishment of independence judgment",0.1875
-It's difficult to imagine.,信じ難い事ですが,It is difficult to believe,0.375
-Hey! Wait a minute!,あ ちょ ちょっと待てぇ,A little waiting for a while,0.1111111111111111
+With the establishment of independence judgment",0.1875,0.80124015
+It's difficult to imagine.,信じ難い事ですが,It is difficult to believe,0.375,0.57841283
+Hey! Wait a minute!,あ ちょ ちょっと待てぇ,A little waiting for a while,0.1111111111111111,0.36667657
 "The Tyran we have is the fourth,
-the Quatrieme, <i>right?</i>",俺達が使ってるティランは４号機,The tyran used by us,0.11764705882352941
+the Quatrieme, <i>right?</i>",俺達が使ってるティランは４号機,The tyran used by us,0.1176470588235294,0.64080036
 "Are you telling me it might
 start operating on its <i>own?!</i>","いずれあいつも自分の意思で
 動き出すかもしれねえってことか","Anyway, with their own intention
-I wonder if it may move",0.11538461538461539
+I wonder if it may move",0.1153846153846154,0.293999
 "...used special organic units
 in their control systems.","制御中枢に特殊な生体ユニットを
 用いています","Special biomedic unit in control center
-Used",0.3076923076923077
-A special organic <i>unit?</i>,特殊な生体ユニット？,Special Biomyunit?,0.2
-Human cerebral cortex material.,人間の大脳皮質です,Human cerebral cortex,0.6
+Used",0.3076923076923077,0.4782494
+A special organic <i>unit?</i>,特殊な生体ユニット？,Special Biomyunit?,0.2,0.42198312
+Human cerebral cortex material.,人間の大脳皮質です,Human cerebral cortex,0.6,0.8466785
 Of course...,"無論 事故などで死亡した検体から
 提供されたものです","Of course, from a sample that died in an accident
-It is provided",0.13333333333333333
+It is provided",0.13333333333333333,0.20132427
 "I've got to say a lot about that,
-but not now.",ああ まあ いろいろと感想はあるが まあいい,"Oh, there is a lot of impressions, but it is good",0.19047619047619047
-"As such, after the initial tests...",そのために ３体は稼働テスト終了後に,"To that end, 3 bodies after the operation test",0.2
+but not now.",ああ まあ いろいろと感想はあるが まあいい,"Oh, there is a lot of impressions, but it is good",0.19047619047619047,0.266953
+"As such, after the initial tests...",そのために ３体は稼働テスト終了後に,"To that end, 3 bodies after the operation test",0.2,0.48928666
 "So, you're saying modifications
 were made on the fourth one.","じゃあ ４体目には
 何か手を打ったわけだな？","Then the fourth body
-Did you hit something?",0.15789473684210525
+Did you hit something?",0.15789473684210525,0.3421945
 "...is made from the Bonobo ape,
 from Zaire.","カトリエの生体ユニットには
 ザイールに棲息するボノボ","In the case of the living body unit of Katries
-Bonobo inhabiting Zaire",0.16666666666666666
+Bonobo inhabiting Zaire",0.16666666666666666,0.5211077
 "They used the cerebral material
-from that animal.",その大脳皮質を使用しています,I use that cerebral cortex,0.16666666666666666
+from that animal.",その大脳皮質を使用しています,I use that cerebral cortex,0.16666666666666666,0.4586294
 ...so they used a monkey's <i>instead?</i>,"人間でトラブルが発生したから
 猿で代用したってかい","Because there was a problem with humans
-I'm replacing it with a monkey",0.13636363636363635
+I'm replacing it with a monkey",0.13636363636363635,0.54104173
 "...Yanagi was chosen as the
 Head Diver for the Quatrieme...","八七木君がカトリエの
 専属ヘッドダイバーに選ばれたのも","Yagi-ki-kun is a Katries
-It was also selected as a dedicated head diver",0.2222222222222222
+It was also selected as a dedicated head diver",0.2222222222222222,0.538529
 "He said something about the
-precognition ability.",八七木の能力？,How old is the ability of Yachimachi?,0.14285714285714285
+precognition ability.",八七木の能力？,How old is the ability of Yachimachi?,0.14285714285714285,0.23444219
 "Actually, the Kakuseijin's
-control system uses...",覚醒人の制御中枢にも実は,"In the control of the awakening person,",0.25
-<i>Yes?</i>,実は？,actually?,0.14285714285714285
+control system uses...",覚醒人の制御中枢にも実は,"In the control of the awakening person,",0.25,0.2574755
+<i>Yes?</i>,実は？,actually?,0.14285714285714285,0.2323415
 "So, that's why the Kakuseijin
-was able to swim freely...",そういや 確か擬示能力がどうのとか,"Well, sure that the pseudo capability is",0.16666666666666666
+was able to swim freely...",そういや 確か擬示能力がどうのとか,"Well, sure that the pseudo capability is",0.16666666666666666,0.17021854
 "...even without special
-underwater equipment.",水中活動用の装備もソフトも無い覚醒人が,There is no software for underwater activities,0.07692307692307693
-The Kakuseijin's organic unit...,覚醒人の生体ユニットは,Awakening person's biometric unit,0.2222222222222222
+underwater equipment.",水中活動用の装備もソフトも無い覚醒人が,There is no software for underwater activities,0.07692307692307693,0.5614665
+The Kakuseijin's organic unit...,覚醒人の生体ユニットは,Awakening person's biometric unit,0.2222222222222222,0.15213978
 "...was developed to avoid
 the problems of the prototypes.","初期型ティランの欠点を補うように
 開発されました","To compensate for the disadvantages of the initial type Tyran
-Developed",0.25
-Since the neural network...,ニューロンネットワークは,Neuron network,0.16666666666666666
+Developed",0.25,0.36501017
+Since the neural network...,ニューロンネットワークは,Neuron network,0.16666666666666666,0.5968971
 "...acts only as secondary support
 based on dual impulse control...","デュアルインパルスによる制御の
 副次的支援システムに限定していますし","Dual-impulse control
-Limited to a secondary support system",0.1875
+Limited to a secondary support system",0.1875,0.7848257
 "Because a safety circuit
-would kick in.",セーフティー回路がリカバーすると,When the safety circuit is recovered,0.16666666666666666
+would kick in.",セーフティー回路がリカバーすると,When the safety circuit is recovered,0.16666666666666666,0.4428401
 "Who's <i>that?</i>
-There's a meeting going on here.",誰だ 今会議中だぞ,Who is the meeting now,0.1111111111111111
-I'm going there to get some food.,おい 火乃紀 購買に行くんだろ,I'm going to buy a healing Knobe,0.3076923076923077
+There's a meeting going on here.",誰だ 今会議中だぞ,Who is the meeting now,0.1111111111111111,0.62364614
+I'm going there to get some food.,おい 火乃紀 購買に行くんだろ,I'm going to buy a healing Knobe,0.3076923076923077,0.20896795
 "I just had a weird dream
-with you in it...",嫌な夢って おい 火乃紀,I'm a bad dream,0.23076923076923078
+with you in it...",嫌な夢って おい 火乃紀,I'm a bad dream,0.2307692307692308,0.5265431
 "...so I don't want to
-talk to you now.",口をききたくないだけ,I just don't want to hear my mouth,0.3333333333333333
-Chika-chan is delighted!,チカちゃん 感激,Chika-chan excitement,0.2
-<i>What?</i> Uh...,何って,What,0.125
-3... 2... 1... Too late!,３ ２ １ ０　ブー,3 2 1 0 boo,0.3333333333333333
+talk to you now.",口をききたくないだけ,I just don't want to hear my mouth,0.3333333333333333,0.40668696
+Chika-chan is delighted!,チカちゃん 感激,Chika-chan excitement,0.2,0.80149215
+<i>What?</i> Uh...,何って,What,0.125,0.3357206
+3... 2... 1... Too late!,３ ２ １ ０　ブー,3 2 1 0 boo,0.3333333333333333,0.32339472
 "The answer is ""humans"".
-You're going to hell!",君達は地獄行き,You go to hell,0.21428571428571427
-For us Somniums...,我らソムニウムにとって,For our sommunium,0.16666666666666666
-...sleep is our biggest weakness.,眠りこそ最大の弱点,Sleeping is the biggest weakness,0.3333333333333333
-"You let your guard down, Lamia.",ラミア,Lamia,0.125
+You're going to hell!",君達は地獄行き,You go to hell,0.21428571428571427,0.3566883
+For us Somniums...,我らソムニウムにとって,For our sommunium,0.16666666666666666,0.6930932
+...sleep is our biggest weakness.,眠りこそ最大の弱点,Sleeping is the biggest weakness,0.3333333333333333,0.86141276
+"You let your guard down, Lamia.",ラミア,Lamia,0.125,0.65619457
 "Strange creatures,
-why are you here <i>now?</i>",なぜ今ここに,Why here,0.15384615384615385
-Double Synapse Attack!,ツインシナプス弾撃,Twin cinplet blash,0.0
-Kei...,うわあ う,Wow,0.0
-I've killed Kei twice now.,僕は２度もケイを殺した,I killed Kay twice,0.375
-"It's not your fault, Shou.",翔 あなたのせいじゃない,Sho is not your fault,0.3
+why are you here <i>now?</i>",なぜ今ここに,Why here,0.15384615384615385,0.42099422
+Double Synapse Attack!,ツインシナプス弾撃,Twin cinplet blash,0.0,0.24146643
+Kei...,うわあ う,Wow,0.0,0.16611037
+I've killed Kei twice now.,僕は２度もケイを殺した,I killed Kay twice,0.375,0.5202831
+"It's not your fault, Shou.",翔 あなたのせいじゃない,Sho is not your fault,0.3,0.85017395
 "<i>It's no good!</i>
-<i>The water's coming in!</i>",兄さん駄目だよ 水が入ってきた,"My brother is not good, water came in",0.15789473684210525
-"<i>Stay calm, Kei!</i>",落ち着くんだケイ,I'm calm,0.2
+<i>The water's coming in!</i>",兄さん駄目だよ 水が入ってきた,"My brother is not good, water came in",0.15789473684210525,0.50772226
+"<i>Stay calm, Kei!</i>",落ち着くんだケイ,I'm calm,0.2,0.62105083
 "<i>It's no good! Help me, Shou!</i>
-<i>Shou!</i>",駄目だよ 兄さん助けて 兄さん,It is useless I helped my brother and my brother,0.10526315789473684
+<i>Shou!</i>",駄目だよ 兄さん助けて 兄さん,It is useless I helped my brother and my brother,0.10526315789473684,0.26442063
 "<i>Put your hands back in the</i>
-<i>Link Capsule!</i>",ケイ リングカプセルに手を戻すんだ,I will return my hand to the Cay Ring Capsule,0.15
-<i>Help me! Shou!</i>,助けて,help,0.125
+<i>Link Capsule!</i>",ケイ リングカプセルに手を戻すんだ,I will return my hand to the Cay Ring Capsule,0.15,0.4691175
+<i>Help me! Shou!</i>,助けて,help,0.125,0.4662519
 "Your brother possessed
 superior dual impulse abilities.","君の弟は非常な優秀な
 デュアルインパルスの持ち主だった","Your brother is very excellent
-It was the owner of dual impulse",0.25
+It was the owner of dual impulse",0.25,0.667406
 "The accident with the Premier
-was unfortunate...",プルミエの事故は残念だったが,Purmier's accident was disappointing,0.2
+was unfortunate...",プルミエの事故は残念だったが,Purmier's accident was disappointing,0.2,0.46572372
 "...but we will not let your
-brother's death go to waste.",彼の死も無駄にはしたくない,His death does not want to waste,0.23529411764705882
+brother's death go to waste.",彼の死も無駄にはしたくない,His death does not want to waste,0.2352941176470588,0.6457059
 "...he will continue to live as
-an organic unit in the Deux...",ドゥジの中で生き続けるのだ,I will continue living in Duji,0.1875
+an organic unit in the Deux...",ドゥジの中で生き続けるのだ,I will continue living in Duji,0.1875,0.34065667
 "But why was it able to
-call me as <i>well?</i>",でも どうして私まで呼んだのかな,But why did you call me?,0.29411764705882354
-It was all a really bad dream.,何もかも悪い夢だったんだ,It was a bad dream,0.625
-That's right. You could be right.,そうね そうかもね,That's right,0.42857142857142855
-<i>What?</i> Are you still <i>dreaming?</i>,翔 どうしたの？,What happened to Sho?,0.15384615384615385
-"Boss, Shou is exhausted.",社長さん 翔は疲れてる,President's Sho is tired,0.1
-<i>Cactus?!</i>,カクタス,Cactus,0.14285714285714285
+call me as <i>well?</i>",でも どうして私まで呼んだのかな,But why did you call me?,0.29411764705882354,0.5958905
+It was all a really bad dream.,何もかも悪い夢だったんだ,It was a bad dream,0.625,0.8866011
+That's right. You could be right.,そうね そうかもね,That's right,0.42857142857142855,0.57572144
+<i>What?</i> Are you still <i>dreaming?</i>,翔 どうしたの？,What happened to Sho?,0.15384615384615385,0.17416254
+"Boss, Shou is exhausted.",社長さん 翔は疲れてる,President's Sho is tired,0.1,0.6843907
+<i>Cactus?!</i>,カクタス,Cactus,0.14285714285714285,0.7898145
 "But didn't you die
-in the Bottom <i>World?</i>",君はボトム・ザ・ワールドで死んだはずじゃ,You should die at Bottom The World,0.3125
+in the Bottom <i>World?</i>",君はボトム・ザ・ワールドで死んだはずじゃ,You should die at Bottom The World,0.3125,0.7194424
 "You don't have to kill me to keep
-me from taking Kaede from you.",ユーから楓を取ったりしないね,You won't take a wolf from you,0.1875
+me from taking Kaede from you.",ユーから楓を取ったりしないね,You won't take a wolf from you,0.1875,0.31473255
 "You're just exhausted.
-Just exhausted.",あなたは疲れているだけ,You are just tired,0.2857142857142857
-"What's going on, <i>Turba?</i>",あ 一体 どうなってるんだ,What is it?,0.15384615384615385
+Just exhausted.",あなたは疲れているだけ,You are just tired,0.2857142857142857,0.72049534
+"What's going on, <i>Turba?</i>",あ 一体 どうなってるんだ,What is it?,0.15384615384615385,0.11255172
 "Underground Theme Park
-Bottom World",ガオオーン,Gao Oon,0.0
-<i>Something's wrong.</i>,何かが違ってる,Something is different,0.1111111111111111
-<i>Let me out of here!</i>,ここから出して,Out of this,0.18181818181818182
-<i>Why is Cactus...?!</i>,カクタスはなぜ,Why is cactus,0.3
+Bottom World",ガオオーン,Gao Oon,0.0,0.077475205
+<i>Something's wrong.</i>,何かが違ってる,Something is different,0.1111111111111111,0.18736102
+<i>Let me out of here!</i>,ここから出して,Out of this,0.18181818181818185,0.4194757
+<i>Why is Cactus...?!</i>,カクタスはなぜ,Why is cactus,0.3,0.86507475
 "You cannot awaken,
-even if you want to.",目覚めたくても 出来ないの,I can not wake up,0.15384615384615385
-You are not alone.,一人じゃないよ,I'm not alone,0.2857142857142857
-<i>Cactus?</i>,カクタス？,Cactus?,0.3333333333333333
+even if you want to.",目覚めたくても 出来ないの,I can not wake up,0.15384615384615385,0.6010219
+You are not alone.,一人じゃないよ,I'm not alone,0.2857142857142857,0.8406398
+<i>Cactus?</i>,カクタス？,Cactus?,0.3333333333333333,0.77639675
 If you come with me...,"我らのもとに来たれば
 お前の孤独と悲しみを","If you come to us
-Your loneliness and sadness",0.25
-Gather... Gather...,はあ…,...,0.5
-Gather...,集え,Gathering,0.0
-Who is <i>it?!</i>,誰だ,Who,0.1111111111111111
+Your loneliness and sadness",0.25,0.40488204
+Gather... Gather...,はあ…,...,0.5,0.16614547
+Gather...,集え,Gathering,0.0,0.7111612
+Who is <i>it?!</i>,誰だ,Who,0.1111111111111111,0.4360713
 "Dream and reality.
-Reality and dream.",夢と現 現と夢,Dream and present and dream,0.4
+Reality and dream.",夢と現 現と夢,Dream and present and dream,0.4,0.7036548
 "The Omchakra will seize
 all of the space.","このチャクラは空間事象を
 ことごとく把握する","This chakra is a space event
-Understanding",0.07142857142857142
+Understanding",0.07142857142857142,0.53724056
 "No one is able to escape
 from the spell of sleep.","人は誰しも眠りの呪縛からは
 逃れられぬはず","Everyone is from sleep curse
-It should be released",0.16666666666666666
+It should be released",0.16666666666666666,0.5438345
 "I follow that path set forth
-by the Chakra.",我 チャクラの導きにより推参せり,I'm driven by the guidance of the chakra,0.2857142857142857
-"Boy, do I ever feel tired.",う ああ 何だか疲れたな,"Oh, I'm tired",0.3
-I don't remember it too well...,あ よく覚えてないんだけど,I do not remember well,0.4444444444444444
+by the Chakra.",我 チャクラの導きにより推参せり,I'm driven by the guidance of the chakra,0.2857142857142857,0.8002219
+"Boy, do I ever feel tired.",う ああ 何だか疲れたな,"Oh, I'm tired",0.3,0.51282924
+I don't remember it too well...,あ よく覚えてないんだけど,I do not remember well,0.4444444444444444,0.80926687
 "...but it seemed like
-a really bad dream.",すごく嫌な夢見たような気が,I feel like I had a very bad dream,0.2857142857142857
+a really bad dream.",すごく嫌な夢見たような気が,I feel like I had a very bad dream,0.2857142857142857,0.77787864
 "It was while we were having
 a meeting about Tyran...","ああ ティランの事で
 ミーティングしている最中","Oh, with a tyran
-Meeting",0.21428571428571427
+Meeting",0.21428571428571427,0.7566401
 "...that I got sleepy and
-fell into some dream.",何だか眠くなって うとうと夢の中に,I'm getting sleepy and in a dream,0.26666666666666666
-It's said that dream states...,ああ 吐きそう,"Oh, let's spit",0.09090909090909091
+fell into some dream.",何だか眠くなって うとうと夢の中に,I'm getting sleepy and in a dream,0.26666666666666666,0.6530834
+It's said that dream states...,ああ 吐きそう,"Oh, let's spit",0.09090909090909093,0.124870375
 "...are created by acetylcholine
-neurons in the brain...",脳内のアセチルコリンニューロンが,Acetylcholine Newron in the brain,0.4
+neurons in the brain...",脳内のアセチルコリンニューロンが,Acetylcholine Newron in the brain,0.4,0.5790465
 "...sorting out memory patterns
-during sleep.",睡眠時に記憶の整理をすることで,By organizing memory when sleeping,0.08333333333333333
+during sleep.",睡眠時に記憶の整理をすることで,By organizing memory when sleeping,0.08333333333333333,0.7293532
 It is not impossible...,"リミピッドチャンネルのように外部から
 操作することも不可能ではありません","From the outside like a limepid channel
-It is not impossible to operate",0.2857142857142857
+It is not impossible to operate",0.2857142857142857,0.41506076
 "...for these neural signals
-to be controlled externally...",これらの脳波信号は,These electroencephalographic signals,0.2
+to be controlled externally...",これらの脳波信号は,These electroencephalographic signals,0.2,0.57098013
 "And not the same as hallucinations
 caused by the call of Behemoth.","眠りから覚めないように常に
 メラトニンの分泌が続いているようでした","Always not awake from sleep
-It seemed that the secretion of melatonin continued",0.13636363636363635
+It seemed that the secretion of melatonin continued",0.13636363636363635,0.3415983
 It was like...,"ベヘモットの呼び声のような
 幻覚症状とは違いますね","Like Vehicles of Behagot
-It is different from hallucination symptoms",0.16666666666666666
-"So, is it some evil dream <i>force?</i>",んで 集団悪夢か？,Is it a group nightmare?,0.1875
+It is different from hallucination symptoms",0.16666666666666666,0.101617776
+"So, is it some evil dream <i>force?</i>",んで 集団悪夢か？,Is it a group nightmare?,0.1875,0.42450294
 "Whatever. I just don't want to
-sleep for a while anymore.",俺はもうしばらく眠りたくないわい,I do not want to sleep for a while,0.5714285714285714
-<i>BetterMan?</i>,助けてくれたの,I helped me,0.125
-I heard the sound of the bell.,鈴の音が聞こえていた,I heard the sound of the bell,0.8571428571428571
-That man was... That man was...!,あの人は あの人は,That person is that person,0.14285714285714285
-"Lamia, Bodaiju...",ラミア ボダイジュ,Lamia Body Juju,0.16666666666666666
-...if Yakusugi hadn't appeared...,もしヤクスギが現れなければ,If Yaksi does not appear,0.1
-...despite being saved by people.,人などに苦しめられ 人などに救われるとは,It is saved by people and people,0.3
+sleep for a while anymore.",俺はもうしばらく眠りたくないわい,I do not want to sleep for a while,0.5714285714285714,0.73982346
+<i>BetterMan?</i>,助けてくれたの,I helped me,0.125,0.25439546
+I heard the sound of the bell.,鈴の音が聞こえていた,I heard the sound of the bell,0.8571428571428571,0.98640454
+That man was... That man was...!,あの人は あの人は,That person is that person,0.14285714285714285,0.44939518
+"Lamia, Bodaiju...",ラミア ボダイジュ,Lamia Body Juju,0.16666666666666666,0.65214896
+...if Yakusugi hadn't appeared...,もしヤクスギが現れなければ,If Yaksi does not appear,0.1,0.65076613
+...despite being saved by people.,人などに苦しめられ 人などに救われるとは,It is saved by people and people,0.3,0.5235779
 "What appears ahead will
-have the power of a leader.",この先にあるものこそ 元凶なりし力,What is the one ahead,0.23076923076923078
-This is not a time for us to quarrel.,我らはいさかいし時ではない,We are not a bit,0.15384615384615385
+have the power of a leader.",この先にあるものこそ 元凶なりし力,What is the one ahead,0.2307692307692308,0.46875197
+This is not a time for us to quarrel.,我らはいさかいし時ではない,We are not a bit,0.15384615384615385,0.3383418
 "Also for the purpose
-of saving our hope.",我らの希望を絶やさぬためにも,Even to make our hope,0.16666666666666666
+of saving our hope.",我らの希望を絶やさぬためにも,Even to make our hope,0.16666666666666666,0.6837909
 "Honoo ni dakarenagara
-Enveloped in flames",炎に抱かれながら,While being held in flames,0.2222222222222222
+Enveloped in flames",炎に抱かれながら,While being held in flames,0.2222222222222222,0.4868466
 "Mezame no bohyou mezasu
-Waiting for the awakening",醒(めざめ)の墓標 目指す,Aim for the grave of awake,0.16666666666666666
+Waiting for the awakening",醒(めざめ)の墓標 目指す,Aim for the grave of awake,0.16666666666666666,0.38170972
 "Mogaki Wakare Yamiyo no yume
 The life, the death,
-the dream of darkness",生(もがき) 死(わかれ) 闇夜の夢,Raw  Death  Darkness of the dark night,0.26666666666666666
+the dream of darkness",生(もがき) 死(わかれ) 闇夜の夢,Raw  Death  Darkness of the dark night,0.26666666666666666,0.5293593
 "Wakiagaru kibou utae
 Sing for the hope
-that gushes forth",湧きあがる希望 歌え！,Singing hope!,0.08333333333333333
-Dripping with juices...,汁がいっぱい滴るの,The juice is dripping a lot,0.1111111111111111
-...it looks so delicious.,とっても とっても おいしそう,Very delicious,0.14285714285714285
-Let me chew you...,お願い私に食べられて,Care to me,0.14285714285714285
+that gushes forth",湧きあがる希望 歌え！,Singing hope!,0.08333333333333333,0.53044426
+Dripping with juices...,汁がいっぱい滴るの,The juice is dripping a lot,0.1111111111111111,0.7975411
+...it looks so delicious.,とっても とっても おいしそう,Very delicious,0.14285714285714285,0.5497878
+Let me chew you...,お願い私に食べられて,Care to me,0.14285714285714285,0.27573535
 "Next Episode... Hunger
-...right down to your bones.",あなたを骨まで,To bones,0.2
-Next Episode... Hunger,喰わずに飢は癒やされない,Hunger is not healed,0.14285714285714285
+...right down to your bones.",あなたを骨まで,To bones,0.2,0.47467133
+Next Episode... Hunger,喰わずに飢は癒やされない,Hunger is not healed,0.14285714285714285,0.57254773

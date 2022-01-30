@@ -1,43 +1,43 @@
-en_text,jp_text,google_translated,score
-I believe I can make it to the moon.,月に行くような気がしたよ｡,I felt like I went to the moon.,0.4166666666666667
-"What about you, Mu?",ムッちゃんは どうすんだ？,What is Mucchan?,0.25
-"If you're going to the moon, then I'll stay one step ahead.",お前が月に行くんなら➡,If you go to the moon,0.29411764705882354
-going to Mars.,火星に行くよ｡,I will go to Mars.,0.42857142857142855
-"I was hoping you would notice your mistake,",今 君の心に乱れがあろうとも➡,You will be disturbed now?,0.07142857142857142
-"Yes, it was poor judgment on my part.",はい…判断を誤りました｡,Yes ... I made a mistake.,0.13333333333333333
-"I hope you realize that if you continue to underperform, you will be considered unqualified as my backup.",今後も君がこんな調子なら➡,If you are such a condition in the future,0.08
-Then that's all for this meeting.,それでは ﾐｰﾃｨﾝｸﾞを終了する｡,Then end the meeting.,0.3
-This will be my first time on the moon.,私にとっては初の月面着陸｡➡,The first month landing for me.,0.21428571428571427
-Being on the same wavelength is impossible.,ブッ ブハハハハ！共通点？,Bubblahahaha!Common point?,0.0
-Nothing in common?,ガハハ また鼻汁が出るぜ｡,Gahaha and nasal discharge will come out.,0.0
-"What's so funny, Pico?",何がおかしいんだ？ピコ｡,What's wrong?Pico.,0.4444444444444444
-You might hit it off.,案外 かみ合うかもよ？,Maybe you will be outdated?,0.09090909090909091
-"What are you so upset about, Nanba?",何うなだれてんだよ？南波｡,What is it?Southwood.,0.15384615384615385
-I met Hibito for the first time here.,この店だったなぁ｡,It was this store.,0.07692307692307693
-"Yeah, that's right...",ああ～ そうだったな｡,Oh ~ That was right.,0.2
-It's very familiar. bet you haven't heard it in a while.,フフーン 懐かしいだろ？,Fuhoon is nostalgic?,0.0
-it's the sound effect when the Avant-garde enters a wormhole.,ワームホールに突入した時の,When it rushes into the worm hole,0.2
-"Sure, Kazuya, right?",ああ カズヤ君な｡,Oh Kazuya.,0.14285714285714285
-"Then, how's Kazuya doing?",それで…カズヤ君は？,So ... What is Kazuya?,0.18181818181818182
-Oh... That's really great.,そうか そりゃあいい！,That's right!,0.2222222222222222
-Drive safely. right.,おう｡,King.,0.2
-"A big brother waiting for his little brother to contact him, huh?",《弟からの連絡を待つ兄…か｡➡,"""My brother to wait for contact from my brother ...?",0.2777777777777778
-He's going through what I did back then...,あの時の 俺みたいだ…》,That time I'm like ...,0.14285714285714285
-"I got a message from Hibito. y-yeah, glad to hear it.",ああ よかったな｡,Oh yeah.,0.06666666666666667
-"""It's been a while, Mu.",｢久しぶり ムッちゃん｡➡,"""Much-chan.",0.2
-"I was dead for a while,",しばらくずっと死んでたけど➡,I died for a long time,0.3
-"He's that confident, huh?",ここまではっきり言いきるか｡,Do you say clearly here?,0.08333333333333333
-Just stop... Don't think about it.,い いや…考えるのよそう｡,No ... I think I think.,0.2727272727272727
-Understood...,なるほど…｡➡,I see ....,0.2
-I had my doubts...,まさかとは思いますが…｡,I think it is good ....,0.2
-"Oh, I sure was...",あっ そうです そうです｡,It seems to be like.,0.0
-"Uh, Vince...",あ あの ビンスさん｡,Any of that Bins.,0.0
-"While Apo was on a walk,",＜散歩中のアポの高速回転に➡,<For high speed rotation of Apo while walking,0.14285714285714285
-This is it...,待ってたぜ！フゥ～！,Wait!Hu ~!,0.0
-We're ready. It's a go.,準備ＯＫ！ゴーです｡,Preparation OK!It is a go.,0.3333333333333333
-Everything's okay here.,こっちもＯＫ！,Here too OK!,0.125
-It's a go!,ゴーです！,Go!,0.4
-while everyone,《みんな それぞれの想いを胸に➡,"""Everyone's thoughts are in my chest",0.1111111111111111
-I was remembering the message Hibito had sent me.,《私の心には あの日届いた➡,"""I received that day in my heart",0.058823529411764705
-"See you on the moon.""",｢月面で会おう｣｡,"""Let's meet at the moon.""",0.3333333333333333
-See you on the moon!,《月面で会おう！》,"""Let's meet at the moon!""",0.25
+en_text,jp_text,google_translated,score,semantic_score
+I believe I can make it to the moon.,月に行くような気がしたよ｡,I felt like I went to the moon.,0.4166666666666667,0.50887436
+"What about you, Mu?",ムッちゃんは どうすんだ？,What is Mucchan?,0.25,0.47043818
+"If you're going to the moon, then I'll stay one step ahead.",お前が月に行くんなら➡,If you go to the moon,0.29411764705882354,0.7455447
+going to Mars.,火星に行くよ｡,I will go to Mars.,0.42857142857142855,0.8621174
+"I was hoping you would notice your mistake,",今 君の心に乱れがあろうとも➡,You will be disturbed now?,0.07142857142857142,0.24259031
+"Yes, it was poor judgment on my part.",はい…判断を誤りました｡,Yes ... I made a mistake.,0.13333333333333333,0.44440365
+"I hope you realize that if you continue to underperform, you will be considered unqualified as my backup.",今後も君がこんな調子なら➡,If you are such a condition in the future,0.08,0.23864806
+Then that's all for this meeting.,それでは ﾐｰﾃｨﾝｸﾞを終了する｡,Then end the meeting.,0.3,0.6598342
+This will be my first time on the moon.,私にとっては初の月面着陸｡➡,The first month landing for me.,0.21428571428571427,0.48200542
+Being on the same wavelength is impossible.,ブッ ブハハハハ！共通点？,Bubblahahaha!Common point?,0.0,0.056690287
+Nothing in common?,ガハハ また鼻汁が出るぜ｡,Gahaha and nasal discharge will come out.,0.0,0.13535224
+"What's so funny, Pico?",何がおかしいんだ？ピコ｡,What's wrong?Pico.,0.4444444444444444,0.59468335
+You might hit it off.,案外 かみ合うかもよ？,Maybe you will be outdated?,0.09090909090909093,0.23529692
+"What are you so upset about, Nanba?",何うなだれてんだよ？南波｡,What is it?Southwood.,0.15384615384615385,0.023891363
+I met Hibito for the first time here.,この店だったなぁ｡,It was this store.,0.07692307692307693,0.18838222
+"Yeah, that's right...",ああ～ そうだったな｡,Oh ~ That was right.,0.2,0.4880023
+It's very familiar. bet you haven't heard it in a while.,フフーン 懐かしいだろ？,Fuhoon is nostalgic?,0.0,0.24801852
+it's the sound effect when the Avant-garde enters a wormhole.,ワームホールに突入した時の,When it rushes into the worm hole,0.2,0.4374653
+"Sure, Kazuya, right?",ああ カズヤ君な｡,Oh Kazuya.,0.14285714285714285,0.7054381
+"Then, how's Kazuya doing?",それで…カズヤ君は？,So ... What is Kazuya?,0.18181818181818185,0.7252116
+Oh... That's really great.,そうか そりゃあいい！,That's right!,0.2222222222222222,0.25391367
+Drive safely. right.,おう｡,King.,0.2,0.12973937
+"A big brother waiting for his little brother to contact him, huh?",《弟からの連絡を待つ兄…か｡➡,"""My brother to wait for contact from my brother ...?",0.2777777777777778,0.75055087
+He's going through what I did back then...,あの時の 俺みたいだ…》,That time I'm like ...,0.14285714285714285,0.2864464
+"I got a message from Hibito. y-yeah, glad to hear it.",ああ よかったな｡,Oh yeah.,0.06666666666666668,0.17436028
+"""It's been a while, Mu.",｢久しぶり ムッちゃん｡➡,"""Much-chan.",0.2,0.41261864
+"I was dead for a while,",しばらくずっと死んでたけど➡,I died for a long time,0.3,0.79535013
+"He's that confident, huh?",ここまではっきり言いきるか｡,Do you say clearly here?,0.08333333333333333,0.2358589
+Just stop... Don't think about it.,い いや…考えるのよそう｡,No ... I think I think.,0.2727272727272727,0.10196483
+Understood...,なるほど…｡➡,I see ....,0.2,0.40544906
+I had my doubts...,まさかとは思いますが…｡,I think it is good ....,0.2,0.20006843
+"Oh, I sure was...",あっ そうです そうです｡,It seems to be like.,0.0,0.17772016
+"Uh, Vince...",あ あの ビンスさん｡,Any of that Bins.,0.0,0.08597177
+"While Apo was on a walk,",＜散歩中のアポの高速回転に➡,<For high speed rotation of Apo while walking,0.14285714285714285,0.5665175
+This is it...,待ってたぜ！フゥ～！,Wait!Hu ~!,0.0,0.17690271
+We're ready. It's a go.,準備ＯＫ！ゴーです｡,Preparation OK!It is a go.,0.3333333333333333,0.50333995
+Everything's okay here.,こっちもＯＫ！,Here too OK!,0.125,0.54120046
+It's a go!,ゴーです！,Go!,0.4,0.60616064
+while everyone,《みんな それぞれの想いを胸に➡,"""Everyone's thoughts are in my chest",0.1111111111111111,0.28863567
+I was remembering the message Hibito had sent me.,《私の心には あの日届いた➡,"""I received that day in my heart",0.05882352941176471,0.29825032
+"See you on the moon.""",｢月面で会おう｣｡,"""Let's meet at the moon.""",0.3333333333333333,0.79012924
+See you on the moon!,《月面で会おう！》,"""Let's meet at the moon!""",0.25,0.68230236

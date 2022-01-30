@@ -1,357 +1,357 @@
-en_text,jp_text,google_translated,score
-Where... am I?,（キリト）ここは どこだ？,Where is this?,0.2857142857142857
-I remember being at Agil's bar.,その先が思い出せない,I can not remember that ahead,0.16666666666666666
-Then leaving with Asuna.,アスナと一緒に帰って,Return with Asuna,0.3333333333333333
-Command.,（キリト）コマンド,command,0.5
-Log out.,ログアウト,Logout,0.0
-Way too realistic to be a 3D object.,リアルすぎる,Be too real,0.2
-So this isn't a game?,ゲームじゃないのか？,Isn't it a game?,0.625
-"Am I dreaming, or—\NWait, a dream?",俺は夢でも…　夢？,I'm a dream ... dream?,0.4
+en_text,jp_text,google_translated,score,semantic_score
+Where... am I?,（キリト）ここは どこだ？,Where is this?,0.2857142857142857,0.5538058
+I remember being at Agil's bar.,その先が思い出せない,I can not remember that ahead,0.16666666666666666,0.29730105
+Then leaving with Asuna.,アスナと一緒に帰って,Return with Asuna,0.3333333333333333,0.7545965
+Command.,（キリト）コマンド,command,0.5,0.8808523
+Log out.,ログアウト,Logout,0.0,0.706643
+Way too realistic to be a 3D object.,リアルすぎる,Be too real,0.2,0.41958737
+So this isn't a game?,ゲームじゃないのか？,Isn't it a game?,0.625,0.8292219
+"Am I dreaming, or—\NWait, a dream?",俺は夢でも…　夢？,I'm a dream ... dream?,0.4,0.71678436
 "This is the virtual world created by the STL, the Underworld!","ここは《ＳＴＬ》が作る仮想世界
 《アンダーワールド》","This is the virtual world making ""STL""
-""underworld""",0.5
+""underworld""",0.5,0.91521037
 But I remember meeting up with Asuna and Sinon.,"なのに俺はアスナやシノンと
 会ったことを覚えている","But I am Asuna and Shinon
-I remember I met",0.38461538461538464
-Kikuoka-san! Higa-san!,菊岡(きくおか)さん　比嘉(ひが)さん,Mr. Kikuoka,0.0
-Stop the dive!,ダイブをいったん中止してくれ,Turn off the dive,0.3333333333333333
-There seems to be a problem!,問題が発生してるみたいだ,It seems that there is a problem,0.4
-Is this really a virtual world?,（キリト）本当に仮想世界なのか？,Is it really a virtual world?,0.75
+I remember I met",0.38461538461538464,0.70017177
+Kikuoka-san! Higa-san!,菊岡(きくおか)さん　比嘉(ひが)さん,Mr. Kikuoka,0.0,0.5357003
+Stop the dive!,ダイブをいったん中止してくれ,Turn off the dive,0.3333333333333333,0.8034178
+There seems to be a problem!,問題が発生してるみたいだ,It seems that there is a problem,0.4,0.86995524
+Is this really a virtual world?,（キリト）本当に仮想世界なのか？,Is it really a virtual world?,0.75,0.96885896
 What was that?,"（木を打つ音）
-（キリト）ん？",?,0.25
-and terribly sad.,とても懐かしくて 悔しくて,Very nostalgic and regret,0.14285714285714285
-Who are you?,（ユージオ）君は誰？,Who is you?,0.6
-Where did you come from?,（ユージオ）どこから来たの？,Where did you come from?,1.0
+（キリト）ん？",?,0.25,0.26266634
+and terribly sad.,とても懐かしくて 悔しくて,Very nostalgic and regret,0.14285714285714285,0.314582
+Who are you?,（ユージオ）君は誰？,Who is you?,0.6,0.9664984
+Where did you come from?,（ユージオ）どこから来たの？,Where did you come from?,1.0,0.9999998
 "A test player, like me?","（キリト）俺と同じ
 テストプレイヤー？","the same as me
-Test player?",0.4
-Or maybe an NPC?,それともＮＰＣか？,Or NPC?,0.6
-What's wrong?,どうしたの？,What's wrong?,1.0
-Um... My name is...,ええと…　俺の名前は,Yeah ... my name is,0.6666666666666666
-Kirito?,キリト,Kirito,0.5
+Test player?",0.4,0.79470533
+Or maybe an NPC?,それともＮＰＣか？,Or NPC?,0.6,0.8512771
+What's wrong?,どうしたの？,What's wrong?,1.0,1.0000002
+Um... My name is...,ええと…　俺の名前は,Yeah ... my name is,0.6666666666666666,0.839567
+Kirito?,キリト,Kirito,0.5,0.93725216
 I came from over there and got a little lost.,"あっちのほうから来たんだけど
 ちょっと道に迷ってしまって","I came from there
-I got lost a while",0.5833333333333334
-Over there? South of the forest?,あっちって森の南？,Originally south of the forest?,0.625
-Did you come from Zakkaria?,ザッカリアの街から来たのかい？,Do you come from the city of Zaccaria?,0.36363636363636365
-"Well, to tell the truth...",そ… そうじゃないんだ,Well ... that's not,0.2
+I got lost a while",0.5833333333333334,0.7522525
+Over there? South of the forest?,あっちって森の南？,Originally south of the forest?,0.625,0.82885474
+Did you come from Zakkaria?,ザッカリアの街から来たのかい？,Do you come from the city of Zaccaria?,0.3636363636363637,0.54304385
+"Well, to tell the truth...",そ… そうじゃないんだ,Well ... that's not,0.2,0.28578693
 I don't actually know where I came from.,"それが俺も自分がどこから来たか
 よく分からないんだ","Which came from to me too
-I do not understand well",0.25
-"N-No, I don't remember.",あ… ああ　覚えてない,Oh ... Oh I do not remember,0.3
-"When I came to, I was in the forest.",気づいたら森で倒れてて,"If you notice it, fall in the forest",0.26666666666666666
+I do not understand well",0.25,0.49409178
+"N-No, I don't remember.",あ… ああ　覚えてない,Oh ... Oh I do not remember,0.3,0.62484777
+"When I came to, I was in the forest.",気づいたら森で倒れてて,"If you notice it, fall in the forest",0.26666666666666666,0.57394135
 "I can't believe it. I've heard the stories, but I've never seen one before.","話には聞いていたけど
 見るのは初めてだよ","I heard about the story
-It is the first time to see",0.17391304347826086
-A lost child of Vecta.,《ベクタの迷子》,"""Vecta's lost child""",0.3333333333333333
-V-Vecta?,ベ… ベクタの？,Vecta ...?,0.25
+It is the first time to see",0.17391304347826084,0.50766504
+A lost child of Vecta.,《ベクタの迷子》,"""Vecta's lost child""",0.3333333333333333,0.8747343
+V-Vecta?,ベ… ベクタの？,Vecta ...?,0.25,0.7628863
 Huh? Do they call them something else in your homeland?,"あれ？　君の故郷じゃ
 そう言わない？","that?Your hometown
-Can't say so?",0.11764705882352941
-"In my village, that's what they're called.",僕の村じゃ そう呼ぶんだよ,My village is called so,0.23076923076923078
+Can't say so?",0.1176470588235294,0.26634
+"In my village, that's what they're called.",僕の村じゃ そう呼ぶんだよ,My village is called so,0.2307692307692308,0.6805682
 "People who suddenly vanish without a trace,\Nor who suddenly show up in the forest or in a field.","逆に森や野原に
 突然 現れる人を","On the contrary, in the forest and field
-People who suddenly appear",0.38095238095238093
+People who suddenly appear",0.3809523809523809,0.6966395
 "The dark god, Vecta, likes to prank humans by spiriting them away,","闇の神ベクタが
 いたずらで人間をさらって―","Dark God Vectors
-A mischief and human beings-",0.10526315789473684
+A mischief and human beings-",0.10526315789473684,0.68127
 His facial expressions and responses are way too natural for an NPC.,"（キリト）ＮＰＣにしては
 表情も受け答えも自然すぎる","for NPC
-The expression is also too natural",0.23529411764705882
+The expression is also too natural",0.2352941176470588,0.58720595
 "Anyway, I'm in a bit of a bind. So what I want...","（キリト）でさ
-さっきから困ってるんだ",I'm troubled from a while ago,0.16666666666666666
-...is to get out of here.,ここを出たいんだ,I want to leave here,0.18181818181818182
-Is that so?,うーん　そうだったのか,Was it so?,0.3333333333333333
+さっきから困ってるんだ",I'm troubled from a while ago,0.16666666666666666,0.21675785
+...is to get out of here.,ここを出たいんだ,I want to leave here,0.18181818181818185,0.5651009
+Is that so?,うーん　そうだったのか,Was it so?,0.3333333333333333,0.6292214
 "This forest is pretty deep, I guess.","この森は深いからね
 道を知らなきゃ迷って当然だよ","Because this forest is deep
-I'm fine I'm knowing that I know the way",0.29411764705882354
-But don't worry.,でも大丈夫,but it's okay,0.125
+I'm fine I'm knowing that I know the way",0.29411764705882354,0.7680861
+But don't worry.,でも大丈夫,but it's okay,0.125,0.545704
 There's a path that leads to the north.,"ここからは
 北に抜ける道があるから","From here
-Because there is a way to go through the north",0.29411764705882354
-I want to log out!,ログアウトしたいんだ,I want to log out,0.8333333333333334
-Log... What now?,ログ…　何だって？,Log ... what?,0.8
-"No good, huh?",（キリト）ダメか,no good,0.4
-Sorry. Um...,ごめん　えっと…,Sorry ...,0.5
+Because there is a way to go through the north",0.29411764705882354,0.7299786
+I want to log out!,ログアウトしたいんだ,I want to log out,0.8333333333333334,0.9395861
+Log... What now?,ログ…　何だって？,Log ... what?,0.8,0.91023916
+"No good, huh?",（キリト）ダメか,no good,0.4,0.8046129
+Sorry. Um...,ごめん　えっと…,Sorry ...,0.5,0.7399197
 It means that I'd like to find a place to sleep in town.,"どこか街で泊まれる場所を
 見つけたいっていう意味なんだ","Where to stay in the city
-It means that I want to find",0.3684210526315789
+It means that I want to find",0.3684210526315789,0.61927205
 Really? That's the first time I've heard that phrase.,"（ユージオ）へえ
-初めて聞くよ　そんな言葉",I will listen for the first time such words,0.23529411764705882
-So now what?,記憶を制限されているのか？,Is memory limited?,0.14285714285714285
+初めて聞くよ　そんな言葉",I will listen for the first time such words,0.2352941176470588,0.3652083
+So now what?,記憶を制限されているのか？,Is memory limited?,0.14285714285714285,0.18432513
 "If he is a test player, than his memories are restricted.","テストプレイヤーなのかも
 しれないけど","It may be a test player
-I can not do it",0.15
-"My village is just to the north,",僕の村は このすぐ北だけど,My village is north of this,0.4
+I can not do it",0.15,0.44439322
+"My village is just to the north,",僕の村は このすぐ北だけど,My village is north of this,0.4,0.9152032
 "But if you explain the situation, maybe Sister Azalia at the church will help you.","でも 事情を話せば
 もしかしたら―","But if you talk about the circumstances
-Sometimes",0.21052631578947367
+Sometimes",0.21052631578947367,0.20857681
 Our men-at-arms might not let you into the village if you show up alone.,"君が１人で行っても
 入れてくれないかもしれない","Even if you go alone
-May not put in",0.21052631578947367
+May not put in",0.21052631578947367,0.4904958
 I'll go with you and explain the situation.,"僕が一緒に行って
 事情を説明してあげるよ","I went together
-I will explain the circumstances",0.21428571428571427
-That would be a big help. Thanks.,あっ　ちょっと待って,A little waiting,0.1
+I will explain the circumstances",0.21428571428571427,0.6256247
+That would be a big help. Thanks.,あっ　ちょっと待って,A little waiting,0.1,0.036377355
 "But I can't go with you at the moment, since I still have work.","でも すぐには無理かな
 まだ仕事があるから","But soon it is impossible
-Because there is still work",0.13636363636363635
+Because there is still work",0.13636363636363635,0.35416043
 It's going to take another four hours or so.,"あと４時間くらいは
 かかるんだけど","About 4 hours
-It takes",0.14285714285714285
+It takes",0.14285714285714285,0.59676033
 "I haven't told you my name yet, have I?","あっ　僕の名前
 まだ言ってなかったね","Oh my name
-I did not say yet",0.2857142857142857
-I'm Eugeo. Nice to meet you!,すまないけど よろしく頼む,I'm sorry but I ask for a long time,0.125
-Eugeo. Where have I...,（キリト）ああ…,Oh ...,0.14285714285714285
-"What's wrong, Kirito-kun?",どうしたの？　キリト君,What's wrong?Kirito,0.5714285714285714
+I did not say yet",0.2857142857142857,0.5548733
+I'm Eugeo. Nice to meet you!,すまないけど よろしく頼む,I'm sorry but I ask for a long time,0.125,0.101016395
+Eugeo. Where have I...,（キリト）ああ…,Oh ...,0.14285714285714285,0.17383225
+"What's wrong, Kirito-kun?",どうしたの？　キリト君,What's wrong?Kirito,0.5714285714285714,0.8173656
 Yeah? Then you can call me Eugeo.,"そう？　じゃあ 僕も
 “ユージオ”って呼んで","Yes?Well then I
-Call ""Eugoio""",0.2
-You must be hungry.,あ… ありがとう,Oh ... Thank you,0.125
-Th-Thanks.,おなかすいてるでしょ,I'm sorry,0.0
+Call ""Eugoio""",0.2,0.70424485
+You must be hungry.,あ… ありがとう,Oh ... Thank you,0.125,0.17397279
+Th-Thanks.,おなかすいてるでしょ,I'm sorry,0.0,0.16986704
 "At the very least, he's not an NPC.","（キリト）少なくとも
 ＮＰＣじゃない","at least
-Not NPC",0.36363636363636365
+Not NPC",0.3636363636363637,0.8222354
 But it's still not clear to me if he's a test player or not.,"だからといって
 テストプレイヤーなのかどうか","Because
-Whether it is a test player",0.2222222222222222
+Whether it is a test player",0.2222222222222222,0.7480092
 "Maybe this isn't a virtual world, but reality?","やはり ここは
 仮想世界じゃなく現実なのか？","After all
-Is it not virtual world, not a reality?",0.4666666666666667
-But just to be safe...,それとも…,Or ...,0.14285714285714285
+Is it not virtual world, not a reality?",0.4666666666666667,0.87734944
+But just to be safe...,それとも…,Or ...,0.14285714285714285,0.33422518
 I think he went like this.,"（キリト）
-確か こうやって…",Certainly he is doing this ...,0.18181818181818182
+確か こうやって…",Certainly he is doing this ...,0.18181818181818185,0.42550927
 That settles it.,"（ユージオ）長持ちするしか
 取りえのないパンなんだけど","Long-lasting
-It is a bread that can not be taken",0.16666666666666666
+It is a bread that can not be taken",0.16666666666666666,0.112661295
 This is neither reality nor a parallel universe.,"ここは現実でも
 本当の異世界でもなく","This is true
-Not a real world world",0.23076923076923078
-It's a virtual world.,仮想世界だ,Virtual world,0.3333333333333333
-"Hey, Kirito.",（ユージオ）ねえ キリト,Hey Kirito,0.5
+Not a real world world",0.2307692307692308,0.46553895
+It's a virtual world.,仮想世界だ,Virtual world,0.3333333333333333,0.7930119
+"Hey, Kirito.",（ユージオ）ねえ キリト,Hey Kirito,0.5,0.9357646
 "You're at least familiar with the Stacia Window, right?","さすがに《ステイシアの窓》は
 分かるよね？","As expected ""Steasia window"" is
-You know, right?",0.2631578947368421
-O-Of course!,も… もちろん,... of course,0.2
-"It's still got plenty of life left,\Nso you don't have to scarf it down.",急いで食べなくてもいいよ,You don't have to eat in a hurry,0.22727272727272727
+You know, right?",0.2631578947368421,0.54708
+O-Of course!,も… もちろん,... of course,0.2,0.45481128
+"It's still got plenty of life left,\Nso you don't have to scarf it down.",急いで食べなくてもいいよ,You don't have to eat in a hurry,0.2272727272727273,0.112532526
 "If it were summer, no way it would keep this long.","これが夏だと
 とても こんなに残ってないけどね","If this is summer
-Very she does not remain so much",0.15
-Rock solid!,うっ！　硬っ,Uh!Hard,0.2
-"Pretty awful, isn't it?",おいしくないでしょ　これ,It is not delicious,0.2222222222222222
+Very she does not remain so much",0.15,0.5700029
+Rock solid!,うっ！　硬っ,Uh!Hard,0.2,0.26610032
+"Pretty awful, isn't it?",おいしくないでしょ　これ,It is not delicious,0.2222222222222222,0.20461236
 "I buy this bread at the bakery on my way here,","出がけに村のパン屋で
 買ってくるんだけど","In the village bakery to go out
-I will buy it",0.21052631578947367
+I will buy it",0.21052631578947367,0.6856273
 "but since it's so early, there's only leftovers from the day before.","朝早いから
 前の日の残りしかないし","Because it is early in the morning
-There is only the rest of the previous day",0.2727272727272727
-And there isn't enough time to go back to the village at noon.,昼に村まで戻る時間もなくてね,There is no time to return to the village at noon,0.5
+There is only the rest of the previous day",0.2727272727272727,0.57618225
+And there isn't enough time to go back to the village at noon.,昼に村まで戻る時間もなくてね,There is no time to return to the village at noon,0.5,0.8715014
 Then why don't you bring lunch from home?,"へえ　じゃあ 家から
 弁当を持ってくればいいんじゃ？","Hey, from home
-Should I bring a lunch box?",0.3125
-But now...,今は…,nowadays…,0.0
-What happened?,どうしたんだ？,What happened?,1.0
-"A girl, same age as me.",同い年の女の子で,At the same age girl,0.3
+Should I bring a lunch box?",0.3125,0.7289864
+But now...,今は…,nowadays…,0.0,0.45413524
+What happened?,どうしたんだ？,What happened?,1.0,1.0000001
+"A girl, same age as me.",同い年の女の子で,At the same age girl,0.3,0.6178379
 "Even after I received my Calling,\Nshe'd bring me lunch every day.","《天職》を与えられてからも
 毎日 お弁当を持ってきてくれて","Even after being given ""Teno""
-Bring me a lunch every day",0.3333333333333333
-Because of me...,僕のせいで,I am because of my,0.2857142857142857
+Bring me a lunch every day",0.3333333333333333,0.56968284
+Because of me...,僕のせいで,I am because of my,0.2857142857142857,0.559658
 "One day, the two of us went to a cave up north, and she accidentally entered the Dark Territory.","２人で北の洞窟に出かけた時
 間違えて彼女は","When two people went out to the north cave
-I made a mistake she",0.3076923076923077
-A place that the Taboo Index forbids us from ever setting foot in.,禁忌目録に書いてある場所だよ,It is a place where it is written in the forbidden inventory,0.2
-Taboo Index?,（キリト）禁忌目録？,contraindications?,0.25
-"The next day, an Integrity Knight arrived in the village,",次の日 整合騎士が村にやって来て,The next day consistent knight comes to the village,0.38461538461538464
+I made a mistake she",0.3076923076923077,0.7224942
+A place that the Taboo Index forbids us from ever setting foot in.,禁忌目録に書いてある場所だよ,It is a place where it is written in the forbidden inventory,0.2,0.5207041
+Taboo Index?,（キリト）禁忌目録？,contraindications?,0.25,0.14914338
+"The next day, an Integrity Knight arrived in the village,",次の日 整合騎士が村にやって来て,The next day consistent knight comes to the village,0.38461538461538464,0.77235144
 "But you know, Kirito, I still believe.","でもね　キリト
 僕は信じてるよ","But Kirito
-I believe",0.4444444444444444
+I believe",0.4444444444444444,0.84230053
 I just know Alice is alive somewhere in the central city.,"アリスは央都のどこかで
 必ず生きてる","Alice is somewhere in the center
-She always lives",0.3125
-Alice...,アリス,Alice,0.5
+She always lives",0.3125,0.8063871
+Alice...,アリス,Alice,0.5,0.88735723
 Sorry about that.,"（ユージオ）ごめんね
-（キリト）あっ",Sorry for the,0.16666666666666666
+（キリト）あっ",Sorry for the,0.16666666666666666,0.6319162
 "I didn't mean to get all weird on you.\NIt doesn't feel like I just met you, is all.","何だか キリトとは
 初めて会った気がしなくて","What is Kirito
-I did not feel like I met for the first time",0.23076923076923078
-"Oh, no, I don't mind.",ああ…　いや 構わないよ,Oh ... I do not mind,0.4
+I did not feel like I met for the first time",0.2307692307692308,0.33301517
+"Oh, no, I don't mind.",ああ…　いや 構わないよ,Oh ... I do not mind,0.4,0.7070898
 "But if you really want to find out, why don't you go look for her in this central city?","捜しに行ってみたら どうなんだ？
 その央都に","What if I went to search for?
-In the central capital",0.2222222222222222
-"Even with a fast horse, it would take a week to get to the central city from my village.",（ユージオ）村から央都に行くには,To go from the village,0.2
-"Well, if you prepared for the journey...",だったら旅の用意をしていけば…,If you're preparing a journey ...,0.3333333333333333
-I would if I could.,僕だって そうしたいさ,I'm sorry,0.14285714285714285
-Um...,えっと…,Well ...,0.3333333333333333
+In the central capital",0.2222222222222222,0.56052035
+"Even with a fast horse, it would take a week to get to the central city from my village.",（ユージオ）村から央都に行くには,To go from the village,0.2,0.40394855
+"Well, if you prepared for the journey...",だったら旅の用意をしていけば…,If you're preparing a journey ...,0.3333333333333333,0.84043944
+I would if I could.,僕だって そうしたいさ,I'm sorry,0.14285714285714285,0.122989066
+Um...,えっと…,Well ...,0.3333333333333333,0.5696664
 So when was Alice-san taken away to the central city?,"アリスさんが
 央都に連れていかれたのは―","Alice
-It was taken in central city-",0.2
-"The summer I was eleven, so six years ago.",６年前だよ,It is six years ago,0.23076923076923078
-Thanks.,ありがとう,Thank you,0.0
+It was taken in central city-",0.2,0.75536925
+"The summer I was eleven, so six years ago.",６年前だよ,It is six years ago,0.2307692307692308,0.4478913
+Thanks.,ありがとう,Thank you,0.0,0.5838826
 "Okay, well, try to hang tight for a bit, okay?","じゃあ 悪いけど
 しばらく待っててね","Well, but it's bad
-Wait for a while",0.23529411764705882
-I'll get my work over and done with.,午後の仕事を済ませちゃうから,Because I will do my afternoon work,0.21428571428571427
+Wait for a while",0.2352941176470588,0.32176098
+I'll get my work over and done with.,午後の仕事を済ませちゃうから,Because I will do my afternoon work,0.21428571428571427,0.37803537
 "By the way, Eugeo, your work... your Calling. What is it?","そういえば ユージオの仕事
 《天職》っていうのは何なの？","Speaking of which, Jujio's work
-What is ""Teno""?",0.22727272727272727
-"Oh, had I not mentioned it?",ああ 言ってなかったっけ,"Oh, I did not say",0.4
+What is ""Teno""?",0.2272727272727273,0.3575036
+"Oh, had I not mentioned it?",ああ 言ってなかったっけ,"Oh, I did not say",0.4,0.56108654
 So your Calling is to be a woodcutter?,"うーん　まあ
 そう言っていいかもしれないね","Hmmm
-It may be good to say so",0.21428571428571427
+It may be good to say so",0.21428571428571427,0.21106853
 Not that I've cut down a single tree in the seven years since I received my Calling.,"でも《天職》に就いてからの
 ７年間で","But after ""Teno""
-In seven years",0.13043478260869565
+In seven years",0.13043478260869565,0.1524929
 This huge tree is called the Gigas Cedar.,"このデカい木の名前は
 《ギガスシダー》っていうんだ","The name of this big tree is
-""Gigas Cider"" is called",0.42857142857142855
-"But to most of the villagers,",でも村の人は大抵―,But people in the village most-,0.18181818181818182
-it's known as the demon tree.,“悪魔の樹”って呼んでる,"Call ""Devil's Tree""",0.16666666666666666
+""Gigas Cider"" is called",0.42857142857142855,0.6729473
+"But to most of the villagers,",でも村の人は大抵―,But people in the village most-,0.18181818181818185,0.7932166
+it's known as the demon tree.,“悪魔の樹”って呼んでる,"Call ""Devil's Tree""",0.16666666666666666,0.76488996
 "So as long as this tree is standing, we'll never be able to expand our wheat fields.","だから この樹が
 立っているかぎり―","So this tree
-As long as you are",0.23809523809523808
+As long as you are",0.2380952380952381,0.42899546
 "And so the village sent for this Dragonbone Axe from the central city,","そこで あの《竜骨のオノ》を
 央都から取り寄せて―","So that ""Ono of the Dragon Bone""
-Call from central capital-",0.18181818181818182
+Call from central capital-",0.18181818181818185,0.51178527
 You mean you've been chopping away at this tree every day for seven years?,"じゃあ ユージオは７年間
 毎日ずっと この樹を？","Well then the eugo is 7 years
-Have you ever seen this tree every day?",0.2916666666666667
-I'm the seventh-generation woodcutter.,僕は７代目の刻み手なんだ,I am the chopstick of the seventhen,0.2
-Th-Three hundred years?,さ… 300年!?,... 300 years!?,0.2857142857142857
-"Hey, Eugeo.",なあ ユージオ,Nana Eugo,0.0
+Have you ever seen this tree every day?",0.2916666666666667,0.67064667
+I'm the seventh-generation woodcutter.,僕は７代目の刻み手なんだ,I am the chopstick of the seventhen,0.2,0.5677064
+Th-Three hundred years?,さ… 300年!?,... 300 years!?,0.2857142857142857,0.6472887
+"Hey, Eugeo.",なあ ユージオ,Nana Eugo,0.0,0.41117987
 Would you mind letting me try?,"ちょっと俺にも
 やらせてくれない？","A little bit
-Can't let me do it?",0.13333333333333333
+Can't let me do it?",0.13333333333333333,0.5769442
 "So I should do half of your work, right?","（キリト）ほら 弁当
-半分もらっちゃったからさ",Because I got half,0.15384615384615385
+半分もらっちゃったからさ",Because I got half,0.15384615384615385,0.35039842
 "Well, I guess it doesn't say in the Taboo Index that you can't have someone help with your Calling...","《天職》を誰かに
 手伝ってもらっちゃいけないなんて","Someone ""Ten Teaching""
-I can not help you",0.14285714285714285
-But I think you'll see that it's harder than it looks.,でも案外 難しいんだよ これ,But it is difficult to expand it,0.11764705882352941
+I can not help you",0.14285714285714285,0.173699
+But I think you'll see that it's harder than it looks.,でも案外 難しいんだよ これ,But it is difficult to expand it,0.1176470588235294,0.42887852
 Ouch!,"いってえー！
-（ユージオの笑い声）",Well!,0.3333333333333333
-You don't have to laugh that hard...,そんなに笑わなくても,Even if you don't laugh,0.36363636363636365
-"Sorry, sorry.",いやあ ごめんごめん,I'm sorry,0.2
-Try to relax your whole body.,肩にも腰にも力が入りすぎだよ,The shoulder is too powerful to the lower back,0.07142857142857142
-"That's right, this is a virtual world.",（キリト）そうだ　ここは仮想世界,Yes This is the virtual world,0.3333333333333333
+（ユージオの笑い声）",Well!,0.3333333333333333,0.4304381
+You don't have to laugh that hard...,そんなに笑わなくても,Even if you don't laugh,0.3636363636363637,0.5952587
+"Sorry, sorry.",いやあ ごめんごめん,I'm sorry,0.2,0.5763287
+Try to relax your whole body.,肩にも腰にも力が入りすぎだよ,The shoulder is too powerful to the lower back,0.07142857142857142,0.26341787
+"That's right, this is a virtual world.",（キリト）そうだ　ここは仮想世界,Yes This is the virtual world,0.3333333333333333,0.8561064
 "Think in terms of your avatar, not your physical body.","生身の体じゃなく
 アバターだと思って…","Not lively body
-I think I'm Avatar ...",0.26666666666666666
+I think I'm Avatar ...",0.26666666666666666,0.62445116
 Sword skill... Smash!,"（キリト）ソードスキル
 《スマッシュ》","Sword Skill
-""smash""",0.5
+""smash""",0.5,0.9255323
 Fifty!,"（キリト）50！
-（木を打つ音）",50!,0.3333333333333333
+（木を打つ音）",50!,0.3333333333333333,0.91401166
 "What, we've already done that many?","あれ？
 もう そんなにやったのか？","that?
-Was she done so much?",0.23076923076923078
+Was she done so much?",0.2307692307692308,0.22418036
 "Yeah. I did 500, you did 500.","うん　僕が500回
 キリトが500回","Yeah I am 500 times
-Kirito is 500 times",0.2727272727272727
+Kirito is 500 times",0.2727272727272727,0.46466509
 "Strike the Gigas Cedar 2,000 times over the morning and afternoon.","午前と合わせて１日2,000回
 《ギガスシダー》をたたく","2,000 times a day together with the morning
-""Gigas Cider""",0.29411764705882354
-That's my Calling.,それが僕の《天職》なんだ,"That's my ""Teno""",0.375
-Two thousand times...,"（キリト）2,000回…","2,000 times ...",0.4
-"You're a natural, Kirito.",キリトは筋がいいよ,Kirito is good,0.1111111111111111
-"Thanks to you, today was a whole lot easier.",おかげで今日は随分 楽だった,"Thanks to it, today was quite easy",0.35714285714285715
-I know! Let me show you something interesting.,そうだ　いいものを見せてあげるよ,I will show you something good,0.3333333333333333
+""Gigas Cider""",0.29411764705882354,0.5557721
+That's my Calling.,それが僕の《天職》なんだ,"That's my ""Teno""",0.375,0.26879343
+Two thousand times...,"（キリト）2,000回…","2,000 times ...",0.4,0.8921142
+"You're a natural, Kirito.",キリトは筋がいいよ,Kirito is good,0.1111111111111111,0.6109796
+"Thanks to you, today was a whole lot easier.",おかげで今日は随分 楽だった,"Thanks to it, today was quite easy",0.35714285714285715,0.8570198
+I know! Let me show you something interesting.,そうだ　いいものを見せてあげるよ,I will show you something good,0.3333333333333333,0.511268
 It's only gone down by about 50 since last month.,"（ユージオ）先月から
 50くらいしか減ってないな","From last month
-Only 50 has only been reduced",0.25
+Only 50 has only been reduced",0.25,0.71041065
 Do you get it now?,"ユージオが１人でやれば
 もっと早く終わっただろうな","If you do one eujio with one person
-It will end earlier",0.21428571428571427
+It will end earlier",0.21428571428571427,0.21818845
 "Even if we didn't get a lot done in half a day,\Nit doesn't make much of a difference.","たった半日 仕事が少しばかり
 はかどらなくても","A little half day work
-Even if you do not",0.2
+Even if you do not",0.2,0.5551512
 Shouldn't you lock that?,"（キリト）鍵かけなくていいのか？
 （ユージオ）なんで？","Want to lock it?
- Why?",0.2
+ Why?",0.2,0.7505244
 "No need to worry! The Taboo Index tells us not to steal, remember?","“盗みをしちゃいけない”って
 禁忌目録に書いてあるじゃないか","""I can not steal it""
-It is not written in the forbidden inventory",0.12
-"O-Oh, right...",そ… そうだったな,That's right ...,0.3333333333333333
-"All right, let's head to the village.",さあ 村に帰るよ,I will return to the village,0.23076923076923078
-H-Hey...,ああ ちょっ…,Oh ...,0.3333333333333333
-"Hey, wait up!",ちょっと待って,Wait a minute,0.14285714285714285
-Who the hell is that?,（ジンク）そいつは誰だ？,Who is it?,0.42857142857142855
-This is Kirito.,彼はキリト,He is Kirito,0.4
+It is not written in the forbidden inventory",0.12,0.51273185
+"O-Oh, right...",そ… そうだったな,That's right ...,0.3333333333333333,0.51971936
+"All right, let's head to the village.",さあ 村に帰るよ,I will return to the village,0.2307692307692308,0.6257731
+H-Hey...,ああ ちょっ…,Oh ...,0.3333333333333333,0.34600812
+"Hey, wait up!",ちょっと待って,Wait a minute,0.14285714285714285,0.47326973
+Who the hell is that?,（ジンク）そいつは誰だ？,Who is it?,0.42857142857142855,0.56380993
+This is Kirito.,彼はキリト,He is Kirito,0.4,0.8325454
 "A lost child of Vecta, it seems.","どうやら
 《ベクタの迷子》みたいで","Apparently
-It looks like ""vector's lost child""",0.1875
-"Hey, you really can't remember anything?",お前 本当に記憶がないのか？,Do you really have memory?,0.25
-That's right.,そうなんだ,is that so,0.16666666666666666
-Just like Eugeo's.,そこのユージオと同じで,Same as the eugen there,0.0
+It looks like ""vector's lost child""",0.1875,0.53560627
+"Hey, you really can't remember anything?",お前 本当に記憶がないのか？,Do you really have memory?,0.25,0.6478328
+That's right.,そうなんだ,is that so,0.16666666666666666,0.386349
+Just like Eugeo's.,そこのユージオと同じで,Same as the eugen there,0.0,0.29191157
 Swordsman.,"（キリト）剣士
 （ジンク）あ？","Swordsman
- Oh?",0.25
-"My Calling was a swordsman, I'm guessing.",俺の《天職》は剣士かな,"My ""Tenju"" is a swordsman",0.21428571428571427
-"Swordsman? A scrawny, weak-looking guy like you can wield a sword?",剣が扱えるのか？,Can the sword handled?,0.21428571428571427
-Then why don't you show me?,だったら見せてもらおうか,"If so, let's show you",0.15384615384615385
-Was that a...,（ジンク･ユージオ）あっ…,A ...,0.5
-...light effect?,ライトエフェクト,Light effect,0.5
-I can use sword skills in this world?,この世界にソードスキルが？,What is Sword Skill in this world?,0.4166666666666667
-"That was amazing, Kirito!",（ユージオ）すごいよ　キリト,is amazing Kirito,0.2857142857142857
+ Oh?",0.25,0.87207615
+"My Calling was a swordsman, I'm guessing.",俺の《天職》は剣士かな,"My ""Tenju"" is a swordsman",0.21428571428571427,0.5542123
+"Swordsman? A scrawny, weak-looking guy like you can wield a sword?",剣が扱えるのか？,Can the sword handled?,0.21428571428571427,0.53457147
+Then why don't you show me?,だったら見せてもらおうか,"If so, let's show you",0.15384615384615385,0.36071455
+Was that a...,（ジンク･ユージオ）あっ…,A ...,0.5,0.61104053
+...light effect?,ライトエフェクト,Light effect,0.5,0.9091536
+I can use sword skills in this world?,この世界にソードスキルが？,What is Sword Skill in this world?,0.4166666666666667,0.82106763
+"That was amazing, Kirito!",（ユージオ）すごいよ　キリト,is amazing Kirito,0.2857142857142857,0.7113242
 Maybe you were a sentinel in some big city?,"もしかして大きな街の
 衛兵だったんじゃないか？","Maybe a big city
-Isn't it guard?",0.35714285714285715
+Isn't it guard?",0.35714285714285715,0.4196317
 Zink?,"（ユージオ）
-ジンク　もういいだろ？",Jink already?,0.25
-"You're satisfied, right? I'm going to let Kirito into the village.",キリトを村に入れるよ,I put Kirito in the village,0.2222222222222222
-I'm beat.,（キリト）疲れた,I was tired,0.16666666666666666
+ジンク　もういいだろ？",Jink already?,0.25,0.28396893
+"You're satisfied, right? I'm going to let Kirito into the village.",キリトを村に入れるよ,I put Kirito in the village,0.2222222222222222,0.7407811
+I'm beat.,（キリト）疲れた,I was tired,0.16666666666666666,0.2953071
 "Yeah, but...","（ユージオ）フフ…
 やっと着いたね","Huff ...
-I finally arrived",0.125
-"Well, you are, right?",だって そうなんでしょ？,That's right?,0.25
-How can I help you?,（アザリヤ）何かご用？,How to do it?,0.2222222222222222
-U-Uh...,あ… あの…　ん？,Oh ... that ...?,0.2
+I finally arrived",0.125,0.07424486
+"Well, you are, right?",だって そうなんでしょ？,That's right?,0.25,0.43907025
+How can I help you?,（アザリヤ）何かご用？,How to do it?,0.2222222222222222,0.3501549
+U-Uh...,あ… あの…　ん？,Oh ... that ...?,0.2,0.21832928
 Here you go. A pillow and blanket.,"（セルカ）はい これ
 枕と毛布","Yes this
-Pillow and blanket",0.3
+Pillow and blanket",0.3,0.6416098
 Prayers start at six in the morning. Breakfast is at seven.,"朝のお祈りが６時で
 食事は７時よ","Morning prayer is 6 o'clock
-The meal is 7 o'clock",0.1875
+The meal is 7 o'clock",0.1875,0.8176496
 "I'll come check on you, but try to get up on your own.","一応 見に来るけど
 なるべく自分で起きてね","I will come to see it
-Get up by yourself as much as possible",0.21739130434782608
+Get up by yourself as much as possible",0.21739130434782608,0.56097573
 "If you oversleep and miss prayers,","消灯したら外出は禁止だから
 気をつけて","If you go out, go out will be prohibited
-Be careful",0.23076923076923078
+Be careful",0.2307692307692308,0.100069195
 Sister Azalia can be really scary!,"（セルカ）お祈りに寝坊すると
 シスター･アザリヤは怖いわよ","When I overslept for prayer
-Sister Azariya is scary",0.14285714285714285
+Sister Azariya is scary",0.14285714285714285,0.70348257
 Run!,"（子供）見つかった
 （子供）逃げろ","found
- Run away",0.25
-Um... do you have any other questions?,ええと 他に分からないことある？,Have you ever been able to understand especies?,0.2
-"Good night, then.",じゃあ おやすみなさい,Well then good night,0.5
-"You know how to put out the lamp, right?",ランプの消し方は分かるわね？,"You can see how to erase the lamp, right?",0.5714285714285714
-This isn't the real world.,（キリト）ここは現実世界じゃない,This is not the real world,0.625
+ Run away",0.25,0.46295342
+Um... do you have any other questions?,ええと 他に分からないことある？,Have you ever been able to understand especies?,0.2,0.23916765
+"Good night, then.",じゃあ おやすみなさい,Well then good night,0.5,0.7388646
+"You know how to put out the lamp, right?",ランプの消し方は分かるわね？,"You can see how to erase the lamp, right?",0.5714285714285714,0.7061563
+This isn't the real world.,（キリト）ここは現実世界じゃない,This is not the real world,0.625,0.94327575
 And there isn't a single NPC in this village.,"そして この村には
 いわゆるＮＰＣは１人もいない","And in this village
-There are no so-called NPCs",0.3333333333333333
+There are no so-called NPCs",0.3333333333333333,0.88841254
 "Even so, there can't be enough STLs to allow every villager to log in as a tester.","テストプレイヤーとして
 ログインできるほど―","As a test player
-Login to Login-",0.13043478260869565
+Login to Login-",0.13043478260869565,0.43222085
 more than 300 years have passed in this universe.,"この世界は もう内部時間にして
 300年以上は経っている","This world is already at the end time
-More than 300 years have passed",0.4117647058823529
-And Eugeo has spent at least six years here.,そして ユージオは少なくとも―,And at least the eugeio-,0.25
-"If that's true, then Eugeo and the others...",となると ユージオたちは…,If the eugen is ...,0.23076923076923078
+More than 300 years have passed",0.4117647058823529,0.81986386
+And Eugeo has spent at least six years here.,そして ユージオは少なくとも―,And at least the eugeio-,0.25,0.5721784
+"If that's true, then Eugeo and the others...",となると ユージオたちは…,If the eugen is ...,0.2307692307692308,0.2583736
 So they must be copies of the souls of newborns who were then raised in this virtual world.,"仮想世界内で成長させた
 いわば《人工フラクトライト》","Growed in the virtual world
-So to speak ""artificial fructolite""",0.2
-But why would they do such a thing?,でも何の目的で そんなことを？,But what do you do for what purpose?,0.23076923076923078
+So to speak ""artificial fructolite""",0.2,0.3935442
+But why would they do such a thing?,でも何の目的で そんなことを？,But what do you do for what purpose?,0.2307692307692308,0.32373828
 And just how fast has time been accelerated in this world?,"（キリト）ユージオたちは
 この世界で いちから育った存在","Eugoos
-In this world he grew up from one",0.16666666666666666
+In this world he grew up from one",0.16666666666666666,0.15639989
 What would happen if I lived out my life here before getting back to reality?,"現実に戻る前に
 ここで一生を終えたら―","Before returning to reality
-If you finished the lifetime here-",0.18181818181818182
+If you finished the lifetime here-",0.18181818181818185,0.61722255
 I might be able to contact Kikuoka in a bigger city.,"ここより大きな街なら
 菊岡と連絡がつくかもしれない","If it is a larger city
-You may contact Kikuoka",0.2222222222222222
+You may contact Kikuoka",0.2222222222222222,0.9396275
 "Right now, I don't have the money to go on a journey,","今の俺には
 旅に必要なカネはないし","For me now
-There is no necessary money for a journey",0.2
+There is no necessary money for a journey",0.2,0.8266344

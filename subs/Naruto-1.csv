@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>A long time ago, a powerful demon fox</i>
 <i>appeared with nine tails.</i>","〈昔
  
@@ -10,11 +10,11 @@ en_text,jp_text,google_translated,score
  
 There is a musty
 .
-➡",0.19047619047619047
+➡",0.19047619047619047,0.2529567
 "<i>A band of Ninjas rose to</i>
 <i>defend their village from attack.</i>","忍のやからを集めけり〉
 
-",Collect from Shinobu>,0.11764705882352941
+",Collect from Shinobu>,0.1176470588235294,0.29890537
 "We have to wait until
 the Fourth Hokage gets here!","(
 忍１
@@ -23,7 +23,7 @@ the Fourth Hokage gets here!","(
 足止めをかけろ！
 
 ","Until the fourth generation comes
-Poor!",0.2857142857142857
+Poor!",0.2857142857142857,0.35669318
 "We can't let it get any closer
 to our village!","(
 忍２
@@ -32,11 +32,11 @@ to our village!","(
 一歩も里に近づけるな！
 
 ","more than this
-Don't get close to the village!",0.2777777777777778
+Don't get close to the village!",0.2777777777777778,0.74052274
 "<i>One great Ninja was able to</i>
 <i>imprison the monster,</i>","〈僅か１人が忍の者➡
 
-",<One person is ninja ➡,0.17647058823529413
+",<One person is ninja ➡,0.17647058823529413,0.611608
 Naruto!,"ヘッヘッヘ～！
 (
 忍１
@@ -49,12 +49,12 @@ Naruto!,"ヘッヘッヘ～！
 
 Hey
  
-Naruto!➡",0.3333333333333333
+Naruto!➡",0.3333333333333333,0.7875473
 Why did you do such a thing?!,"何ちゅう
 罰当たりなことをしたんだ！
 
 ","Where
-I did a penalty!",0.25
+I did a penalty!",0.25,0.33747777
 Only I can do this!,"だけど俺にはできる
 俺は
  
@@ -63,7 +63,7 @@ Only I can do this!,"だけど俺にはできる
 ","But I can do it
 I am
  
-It's great!",0.36363636363636365
+It's great!",0.3636363636363637,0.5590377
 What is it?,"(
 猿飛
 )
@@ -73,14 +73,14 @@ What is it?,"(
 
 ","What is it?
  
-Naruto's guy",0.5714285714285714
+Naruto's guy",0.5714285714285714,0.2657175
 Did that Naruto do something again?,"何か
  
 しでかしでもしたか？
 
 ","something
  
-Did you do it?",0.4444444444444444
+Did you do it?",0.4444444444444444,0.28565443
 "Yes. He climbed onto
 the Mountainside Images...","(
 忍４
@@ -93,13 +93,13 @@ the Mountainside Images...","(
 ","Yes
  
 Successive fire ladies of the face rock ...
-.",0.26666666666666666
+.",0.26666666666666666,0.27687842
 Wait!,"(
 忍１
 )
 待て！
 
-",wait!,1.0
+",wait!,1.0,1.0
 Why should I?,"突然
  
 何すんだってばよ
@@ -108,7 +108,7 @@ Why should I?,"突然
 ","suddenly
  
 What should I do?
-Dolphin teacher!",0.3
+Dolphin teacher!",0.3,0.25487486
 "Hey, Naruto!","(ｲﾙｶ)
 こら
  
@@ -116,16 +116,16 @@ Dolphin teacher!",0.3
 
 ","Hey
  
-Naruto!",0.75
+Naruto!",0.75,0.9826204
 "The question is what are you doing here
 when you should be in class now?","お前こそ授業中に何やってんだ？
 
-",What are you doing during class?,0.375
+",What are you doing during class?,0.375,0.79007185
 "Now listen, Naruto.","フン
 ｡
 
 ","Hun
-.",0.16666666666666666
+.",0.16666666666666666,0.19360606
 "We will have a re-test on
 the Transformation Jutsu!","いたずらしてる場合じゃ
 ないだろう
@@ -135,7 +135,7 @@ the Transformation Jutsu!","いたずらしてる場合じゃ
 ","In the case of mischief
 I will not
  
-A fool!",0.23529411764705882
+A fool!",0.2352941176470588,0.16895671
 "Even those who already passed
 will take it!","すでに合格している者も並べ～！
 (
@@ -145,7 +145,7 @@ will take it!","すでに合格している者も並べ～！
 
 ","Persons who have already passed are also arranged!
 
-Eh!",0.26666666666666666
+Eh!",0.26666666666666666,0.5474095
 Sakura Haruno. Here I go...,"春野サクラ
  
 行きま～す
@@ -156,20 +156,20 @@ Sakura Haruno. Here I go...,"春野サクラ
  
 Bother
  
-change!",0.2
+change!",0.2,0.7595375
 OK!,"よ～し！
 
-",Yo!,0.3333333333333333
+",Yo!,0.3333333333333333,0.4402401
 I did it!,"やった～！
 
-",I did!,0.75
+",I did!,0.75,0.7675696
 "Did you see that, Sasuke?","サスケ君
  
 見てくれた？
 
 ","Sasuke
  
-Did you see?",0.7142857142857143
+Did you see?",0.7142857142857143,0.9170826
 "Next, Sasuke Uchiha.","(ｲﾙｶ)
 次
  
@@ -185,12 +185,12 @@ My house is Sasuke
 .
 
 Yes
-.",0.3333333333333333
+.",0.3333333333333333,0.7552792
 O-OK.,"よし
 ｡
 
 ","Good
-.",0.3333333333333333
+.",0.3333333333333333,0.4223731
 "Next, Naruto Uzumaki.","(ｲﾙｶ)
 次
  
@@ -200,10 +200,10 @@ O-OK.,"よし
 ","Next
  
 Uzumaki Naruto
-.",0.8
+.",0.8,0.9820841
 Like I care!!,"変化！
 
-",change!,0.2
+",change!,0.2,0.25095975
 How was it?,"ダ～ッハッハッハッ！
 どうだ？
  
@@ -218,20 +218,20 @@ How is it?
 Named
  
 Otomo
-.",0.3
+.",0.3,0.2732815
 "I call it the ""Sexy Jutsu""!","《よ～し》
 
-","""Yo ~""",0.18181818181818182
+","""Yo ~""",0.18181818181818185,0.14169587
 Damn...,"ぐっ…
 ｡
 
 ","...
-.",0.3333333333333333
+.",0.3333333333333333,0.4317079
 I don't care...,"この大ばか者！
 くだらん術を作るな！
 
 ","This big fool!
-Don't make an effort!",0.16666666666666666
+Don't make an effort!",0.16666666666666666,0.1668375
 There's nobody home anyway.,"別にいいよ！
  
 うちに帰ったって
@@ -246,10 +246,10 @@ I came home
 It's too good
  
 Hun
-.",0.2
+.",0.2,0.31046447
 What is it this time?,"今度は何？
 
-",What is this time?,0.8333333333333334
+",What is this time?,0.8333333333333334,0.95925486
 "If you clean up all that mess,
 I'll buy you ramen tonight.","今晩
  
@@ -263,10 +263,10 @@ I'll buy you ramen tonight.","今晩
 ramen
  
 Go
-.",0.2
+.",0.2,0.7102601
 Huh?!,"えっ!?
 
-",eh!?,0.5
+",eh!?,0.5,0.6840107
 Naruto.,"(ｲﾙｶ)
 ナルト
 ｡
@@ -274,14 +274,14 @@ Naruto.,"(ｲﾙｶ)
 
 ","Naruto
 .
-Yeah?",0.5
+Yeah?",0.5,0.87120634
 Why did you vandalize those faces?,"何で
  
 あんな所に落書きした？
 
 ","why
  
-Did you doodle it?",0.4444444444444444
+Did you doodle it?",0.4444444444444444,0.29524013
 "Of course, I do!","よ～し！
 俺さ
  
@@ -294,15 +294,15 @@ I am
  
 I am
  
-Good luck!",0.2
+Good luck!",0.2,0.35994717
 "Especially the Fourth Hokage
 was a hero","特に四代目って➡
 
-",Especially in the fourth generation,0.3333333333333333
+",Especially in the fourth generation,0.3333333333333333,0.4148587
 "who saved the village from
 the nine-tail demon fox.","里を化けぎつねから守った➡
 
-",I protected from the village of the village,0.25
+",I protected from the village of the village,0.25,0.45534402
 Then why did you do that?,"英雄らしいし
 ｡
 (ｲﾙｶ)
@@ -315,7 +315,7 @@ Then why did you do that?,"英雄らしいし
 
 Surely
  
-why?",0.14285714285714285
+why?",0.14285714285714285,0.22021297
 "By the way, Sensei,
 I have a favor to ask.","ところでさ
  
@@ -323,14 +323,14 @@ I have a favor to ask.","ところでさ
 
 ","By the way
  
-Teacher ➡",0.21428571428571427
+Teacher ➡",0.21428571428571427,0.16263132
 You want another bowl?,"お代わりか？
 ん～にゃ
 ｡
 
 ","Are you a car?
 Nya
-.",0.2
+.",0.2,0.09456341
 This?,"あ～
  
 これか
@@ -339,7 +339,7 @@ This?,"あ～
 ","Oh ~
  
 This
-.",0.2
+.",0.2,0.48963156
 "This is worn only by those who
 have graduated from Ninja Academy.","ダメダメ
  
@@ -347,7 +347,7 @@ have graduated from Ninja Academy.","ダメダメ
 
 ","Dummy
  
-This graduated from school",0.2
+This graduated from school",0.2,0.28425002
 You're so mean!,"お前は
  
 あした
@@ -358,7 +358,7 @@ You're so mean!,"お前は
  
 tomorrow
 .
-Kechi!",0.2222222222222222
+Kechi!",0.2222222222222222,0.27880526
 "So that's why you took off
 your goggles...","(ｲﾙｶ)
 あ…
@@ -373,7 +373,7 @@ your goggles...","(ｲﾙｶ)
 Ahaha
 that's why
  
-Did you remove the goggle?",0.23529411764705882
+Did you remove the goggle?",0.2352941176470588,0.59689647
 "We are now about to begin
 the graduation test.","(ｲﾙｶ)
 では
@@ -388,7 +388,7 @@ the graduation test.","(ｲﾙｶ)
 Than this
 Start a graduation test
 .
-➡",0.1875
+➡",0.1875,0.75665706
 "When your name is called,
 proceed to the next classroom.","呼ばれた者は
 隣の教室に来るように
@@ -398,7 +398,7 @@ proceed to the next classroom.","呼ばれた者は
 ","Person who was called
 To come to the next classroom
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.71891725
 The test is on the Clone Jutsu.,"なお
  
 課題は分身の術とする
@@ -407,7 +407,7 @@ The test is on the Clone Jutsu.,"なお
 ","note that
  
 Problem is a subject
-.",0.16666666666666666
+.",0.16666666666666666,0.105305254
 <i>Of all the...! That is my weakest Jutsu!</i>,"よりによって
  
 俺の
@@ -416,7 +416,7 @@ Problem is a subject
 ","More
  
 my
-I'm not good at work ... """,0.14285714285714285
+I'm not good at work ... """,0.14285714285714285,0.22212619
 "<i>But still...</i>
 <i>I will do it no matter what!</i>","《でもさ
  
@@ -426,11 +426,11 @@ I'm not good at work ... """,0.14285714285714285
 ","""But
  
 も
-You're going to do it!""",0.19047619047619047
+You're going to do it!""",0.19047619047619047,0.3824044
 Disqualified!,"(ｲﾙｶ)
 失格！
 
-",Disqualification!,0.3333333333333333
+",Disqualification!,0.3333333333333333,0.7043006
 Iruka Sensei.,"(ﾐｽﾞｷ)
 イルカ先生
 ｡
@@ -438,13 +438,13 @@ Iruka Sensei.,"(ﾐｽﾞｷ)
 
 ","Dolphin teacher
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.22505896
 "His physical coordination
 and stamina are excellent.","彼は身のこなしや
 スタミナは優秀ですし➡
 
 ","He is not like
-Stamina is excellent ➡",0.15384615384615385
+Stamina is excellent ➡",0.15384615384615385,0.7374037
 "And he managed to come up
 with something.","これでも
  
@@ -458,7 +458,7 @@ with something.","これでも
 First
 I can work from
 .
-➡",0.125
+➡",0.125,0.10435033
 Naruto created just one.,"でも
  
 ナルトは
@@ -473,13 +473,13 @@ Naruto
  
 One person
 .
-➡",0.375
+➡",0.375,0.7181011
 "And it's practically useless.
 I can't give him a passing mark.","合格とは認められません
 ｡
 
 ","It is not recognized as a pass
-.",0.15789473684210525
+.",0.15789473684210525,0.4297575
 You did well. That's my son.,"(ﾄﾋﾞｵ
 の父
 )
@@ -491,7 +491,7 @@ You did well. That's my son.,"(ﾄﾋﾞｵ
 ","well done
  
 It is my child
-.",0.25
+.",0.25,0.5602124
 Congratulations for your graduation.,"(ﾄﾋﾞｵ
 の母
 )
@@ -505,7 +505,7 @@ Congratulations for your graduation.,"(ﾄﾋﾞｵ
 Mom tonight
  
 I will make a feast
-.",0.3076923076923077
+.",0.3076923076923077,0.6976045
 "It's that boy.
 I hear he's the only one who failed.","(
 女性１
@@ -514,7 +514,7 @@ I hear he's the only one who failed.","(
 ｡
 
 ","It seems that only one person dropped
-.",0.3125
+.",0.3125,0.33564964
 "Imagine what would happen
 if he became a Ninja.","(
 女性１
@@ -525,19 +525,19 @@ if he became a Ninja.","(
 
 ","It would be difficult if something is Shinobu
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.33165848
 "Iruka.
 We need to talk later.","後で話がある
 ｡
 
 ","There is a talk later
-.",0.3
+.",0.3,0.473317
 "Yes, sir.","(ｲﾙｶ)
 はい
 ｡
 
 ","Yes
-.",0.5
+.",0.5,0.6941847
 But I really wanted to graduate.,"でも…
  
 卒業したかったんだ
@@ -546,7 +546,7 @@ But I really wanted to graduate.,"でも…
 ","but…
  
 I wanted to graduate
-.",0.625
+.",0.625,0.93854946
 I'll let you in on a big secret.,"君に
  
 とっておきの
@@ -557,13 +557,13 @@ I'll let you in on a big secret.,"君に
  
 Gentle
 Let's teach the secret
-.",0.26666666666666666
+.",0.26666666666666666,0.5056191
 <i>Secret?</i>,"(
 猿飛
 )
 ＜イルカよ＞
 
-",<Dolphin>,0.2857142857142857
+",<Dolphin>,0.2857142857142857,0.27494964
 Iruka.,"フッ
  
 しかたがないな
@@ -572,7 +572,7 @@ Iruka.,"フッ
 ","Hook
  
 There is no way
-.",0.14285714285714285
+.",0.14285714285714285,0.09713168
 I know how you feel. But...,"(
 猿飛
 )
@@ -584,19 +584,19 @@ I know how you feel. But...,"(
 ","<Also your feelings
 I do not know
 .
-➡",0.2
+➡",0.2,0.48008242
 "Naruto also grew up without knowing
 the love of his parents... like you.","親の愛情を知らずに
 育ってきたんじゃ＞
 
 ","Do not know the love of parents
-I'm growing>",0.18181818181818182
+I'm growing>",0.18181818181818185,0.5275614
 Let me go!,"(
 忍
 )
 ＜うわっ！＞
 
-",<Wow!>,0.14285714285714285
+",<Wow!>,0.14285714285714285,0.11001009
 "My mom and dad are
 still out there fighting!","(ｲﾙｶ)
 ＜放せ！
@@ -611,7 +611,7 @@ still out there fighting!","(ｲﾙｶ)
 Father and father
 Mother
  
-I'm still fighting!>",0.23529411764705882
+I'm still fighting!>",0.2352941176470588,0.60873544
 "Wake up, Iruka Sensei!","(ﾐｽﾞｷ)
 イルカ先生
  
@@ -619,16 +619,16 @@ I'm still fighting!>",0.23529411764705882
 
 ","Dolphin teacher
  
-Please get up!",0.2
+Please get up!",0.2,0.22942781
 What's the matter?,"どうしたんです？
 
-",What happened?,0.3333333333333333
+",What happened?,0.3333333333333333,0.29228994
 "I heard that Naruto...
 stole the Scroll of Sealing.","封印の書を持ち出したらしく
 ｡
 
 ","It seems that you have brought out a note of the seal
-.",0.2
+.",0.2,0.32279065
 "The first Jutsu is...
 Multi Shadow Clone Jutsu?","な…
  
@@ -636,7 +636,7 @@ Multi Shadow Clone Jutsu?","な…
 
 ","...
  
-Is it a note of the seal?",0.2857142857142857
+Is it a note of the seal?",0.2857142857142857,0.10772145
 What?! Already a Jutsu I'm no good at?,"何だよ
  
 いきなり苦手な術かよ
@@ -645,7 +645,7 @@ What?! Already a Jutsu I'm no good at?,"何だよ
 ","What
  
 Do you are not good at suddenly
-.",0.17647058823529413
+.",0.17647058823529413,0.35130164
 "The Scroll is a dangerous item
 that the First Hokage sealed!","(ｲﾜﾅ)
 封印の書は
@@ -654,12 +654,12 @@ that the First Hokage sealed!","(ｲﾜﾅ)
 
 ","Book of seal
 Dangerous things that the first fire shadow sealed
-.",0.2777777777777778
+.",0.2777777777777778,0.3451378
 Depending on its use...,"使い方によっては…
 ｡
 
 ","Depending on how to use it ...
-.",0.4444444444444444
+.",0.4444444444444444,0.83493626
 "It will be a major disaster if
 it is taken out of the village!","(ﾔｼﾞﾛﾍﾞｴ)
 もし
@@ -676,7 +676,7 @@ Outside the village
 If it is taken out
  
 It is one big thing
-.",0.3684210526315789
+.",0.3684210526315789,0.74716544
 Yes. Bring Naruto here at once!,"うむ
  
 ナルトを連れ戻すのじゃ
@@ -685,13 +685,13 @@ Yes. Bring Naruto here at once!,"うむ
 ","Mum
  
 It is not easy to bring Naruto
-.",0.21428571428571427
+.",0.21428571428571427,0.7152374
 "Yes, sir!","(
 忍たち
 )
 はっ！
 
-",Hey!,0.2
+",Hey!,0.2,0.35728568
 <i>Where did you go...Naruto?</i>,"(ｲﾙｶ)
 《どこへ行った？
  
@@ -699,7 +699,7 @@ It is not easy to bring Naruto
 
 ","""Where did you go?
  
-Naruto""",0.46153846153846156
+Naruto""",0.4615384615384616,0.89008164
 "<i>I will tell everyone in the village</i>
 <i>about this and eliminate Naruto...</i>","(ﾐｽﾞｷ)
 《このことを里に言い広め
@@ -714,24 +714,24 @@ afterwards
  
 Start Naruto
 .
-➡",0.08695652173913043
+➡",0.08695652173913042,0.6834101
 "<i>Then the Scroll of Sealing</i>
 <i>will be mine!</i>","そうすれば
 封印の書は俺のものだ！》
 
 ","that way
-The note of the seal is me!""",0.15
+The note of the seal is me!""",0.15,0.45481306
 You found me...,"(ﾐｽﾞｷ)
 フフフ…
 ｡
 
 ","Fuhufu ...
-.",0.16666666666666666
+.",0.16666666666666666,0.3386939
 And I've only learned one Jutsu.,"まだ術１個しか覚えてねえのに
 ｡
 
 ","I still remember only one technique
-.",0.36363636363636365
+.",0.3636363636363637,0.44709355
 "<i>until he's become</i>
 <i>this exhausted and dirty...?</i>","こんなになるまで…》
 あのさ
@@ -741,27 +741,27 @@ And I've only learned one Jutsu.,"まだ術１個しか覚えてねえのに
 ","Until this is ... ""
 That
  
-Ah!",0.15789473684210525
+Ah!",0.15789473684210525,0.39085457
 "You're gonna let me graduate
 if I can do it!","それできたら卒業させてくれよな
 ｡
 
 ","If you can do it, let me graduate
-.",0.5333333333333333
+.",0.5333333333333333,0.9090907
 Who told you that?,"(ｲﾙｶ)
 《ここで術の練習を？➡
 
-","""How do you practice here?➡",0.18181818181818182
+","""How do you practice here?➡",0.18181818181818185,0.0100275185
 Mizuki did?!,"ミズキ先生だってばよ
 ｡
 
 ","Mr. Mizuki
-.",0.16666666666666666
+.",0.16666666666666666,0.74403656
 I see now... how it is.,"ミズキ先生が…
 ｡
 
 ","Mr. Mizuki is ...
-.",0.3
+.",0.3,0.25279108
 "Naruto, give me that scroll.","(ﾐｽﾞｷ)
 ナルト
  
@@ -771,7 +771,7 @@ I see now... how it is.,"ミズキ先生が…
 ","Naruto
  
 Pass the scroll
-.",0.3333333333333333
+.",0.3333333333333333,0.89934975
 "Wait, wait...
 What's going on here?","あのさ…
  
@@ -787,20 +787,20 @@ That
 What's going on?
  
 this
-.",0.5
+.",0.5,0.54229045
 Naruto! Never give him that scroll!,"ナルト
  
 巻物は死んでも渡すな！
 
 ","Naruto
  
-Do not give scrolls to death!",0.25
+Do not give scrolls to death!",0.25,0.77712876
 "It is a dangerous object that contains
 forbidden Ninja Jutsu. It was sealed.","それは禁じ手の忍術を記して
 封印した危険なものだ！➡
 
 ","It is forbidden to write the ninjuts of the hand
-It is a sealed dangerous thing!➡",0.2727272727272727
+It is a sealed dangerous thing!➡",0.2727272727272727,0.46019158
 "Mizuki used you in order to
 get it for himself!","ミズキは
  
@@ -808,7 +808,7 @@ get it for himself!","ミズキは
 
 ","Mizuki
  
-To get it",0.36363636363636365
+To get it",0.3636363636363637,0.785324
 "What are you saying, Mizuki!
 Don't let him fool you, Naruto!","何を言っている!?
  
@@ -816,17 +816,17 @@ Don't let him fool you, Naruto!","何を言っている!?
 
 ","What are you saying!?
  
-Mizuki!",0.42857142857142855
+Mizuki!",0.42857142857142855,0.7706538
 I will tell you the truth.,"ハハハ…
 本当のことを教えてやるよ
 ｡
 
 ","Hahaha ...
 I will tell you the real thing
-.",0.5454545454545454
+.",0.5454545454545454,0.40032232
 A rule?,"あるおきて？
 
-",Is there a lot?,0.3333333333333333
+",Is there a lot?,0.3333333333333333,0.20073931
 "That is, Naruto, a rule everybody
 but you knows.","だまされるな
  
@@ -836,7 +836,7 @@ but you knows.","だまされるな
 ","Be fooled
  
 Naruto
-.",0.15384615384615385
+.",0.15384615384615385,0.6860521
 "You are actually the Demon,
 Nine Tailed Fox Spirit,","(ﾐｽﾞｷ)
 つまり
@@ -845,16 +845,16 @@ Nine Tailed Fox Spirit,","(ﾐｽﾞｷ)
 
 ","in short
  
-You are ➡",0.15384615384615385
+You are ➡",0.15384615384615385,0.22995105
 "who killed Iruka's parents and
 destroyed our village!","イルカの両親を殺し
 里を壊滅させた➡
 
 ","Kill dolphin parents
-I destroyed a village ➡",0.2
+I destroyed a village ➡",0.2,0.4639103
 Didn't you find it strange?,"おかしいとは思わなかったか？➡
 
-",Didn't you think it's funny?➡,0.45454545454545453
+",Didn't you think it's funny?➡,0.4545454545454545,0.48107028
 <i>That's why he keeps misbehaving.</i>,"(
 猿飛
 )
@@ -864,7 +864,7 @@ Didn't you find it strange?,"おかしいとは思わなかったか？➡
 
 ","<Ilka
 .
-➡",0.07692307692307693
+➡",0.07692307692307693,0.24160033
 "Naruto!
 Get down!","(ﾐｽﾞｷ)
 死ね
@@ -873,21 +873,21 @@ Get down!","(ﾐｽﾞｷ)
 
 ","Death
  
-Naruto!",0.4
+Naruto!",0.4,0.7915632
 Why...?,"な…
  
 何で？
 
 ","...
  
-why?",1.0
+why?",1.0,0.8403975
 Because you and I are the same.,"同じだからさ
 ｡
 ➡
 
 ","It is the same
 .
-➡",0.2727272727272727
+➡",0.2727272727272727,0.32326254
 I wasn't a good student in school.,"クラスで
  
 よくばかをやった
@@ -898,7 +898,7 @@ I wasn't a good student in school.,"クラスで
  
 I did something well
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.51119846
 "I was the class clown...
 because I wanted people to notice me.","人の気を引き付けたかったから
 ｡
@@ -906,7 +906,7 @@ because I wanted people to notice me.","人の気を引き付けたかったか�
 
 ","Because I wanted to attract a person
 .
-➡",0.29411764705882354
+➡",0.29411764705882354,0.41738737
 It was so hard.,"認めてくれる人が
 いなくなっちまった
 ｡
@@ -915,7 +915,7 @@ It was so hard.,"認めてくれる人が
 ","The person who recognizes
 It was not over
 .
-➡",0.25
+➡",0.25,0.18744057
 "Isn't that right, Naruto?","そうだよなぁ
  
 ナルト
@@ -924,7 +924,7 @@ It was not over
 ","you're right
  
 Naruto
-.",0.2
+.",0.2,0.9066856
 "I'm sorry, Naruto...","ごめんなぁ
  
 ナルト
@@ -935,7 +935,7 @@ Naruto
  
 Naruto
 .
-➡",0.5
+➡",0.5,0.93765014
 "If I had been more responsible,
 maybe you wouldn't have suffered so much.","俺が
  
@@ -943,14 +943,14 @@ maybe you wouldn't have suffered so much.","俺が
 
 ","I
  
-If you are more secure",0.2222222222222222
+If you are more secure",0.2222222222222222,0.19088396
 Don't make me laugh!,"フッフフフ…
  
 笑わせるぜ！➡
 
 ","Fuchfufu ...
  
-Let me laugh!➡",0.3
+Let me laugh!➡",0.3,0.47733033
 "Iruka has always hated you,
 ever since you killed his parents!","イルカは自分の両親を殺した
 お前をずっと憎んでいたんだ
@@ -960,21 +960,21 @@ ever since you killed his parents!","イルカは自分の両親を殺した
 ","Dolphins killed their parents
 He has been hated a long time
 .
-➡",0.19047619047619047
+➡",0.19047619047619047,0.36475337
 "He's just saying all that
 to get the Scroll of Sealing back!","何だかんだいって➡
 
-",What's wrong,0.0625
+",What's wrong,0.0625,0.087826826
 Narutoooooo!,"(ｲﾙｶ)
 ナルト！
 
-",Naruto!,0.3333333333333333
+",Naruto!,0.3333333333333333,0.9232467
 "He is not the type of kid
 who will change his mind.","こんな思いさせずに済んだのに
 ｡
 
 ","I did not think like this
-.",0.1111111111111111
+.",0.1111111111111111,0.20098604
 "He will take revenge against
 our village using that scroll!","あの巻物で
 この里に復しゅうするぞ
@@ -982,7 +982,7 @@ our village using that scroll!","あの巻物で
 
 ","That scroll
 I will restore this village
-.",0.26666666666666666
+.",0.26666666666666666,0.71158224
 "Didn't you see his eyes?
 Those are the eyes of a Demon Fox.","さっきの
  
@@ -990,7 +990,7 @@ Those are the eyes of a Demon Fox.","さっきの
 
 ","earlier
  
-Did you see that guy?",0.2222222222222222
+Did you see that guy?",0.2222222222222222,0.37257642
 "All I want is to kill Naruto
 and get the scroll.","ナルトは心変わりするような
 ヤツじゃねえ
@@ -1000,22 +1000,22 @@ and get the scroll.","ナルトは心変わりするような
 ","Naruto seems to change
 It is not a guy
 .
-➡",0.21052631578947367
+➡",0.21052631578947367,0.4877746
 I'll take care of you later!,"お前は後回しだ
 ｡
 
 ","You are later
-.",0.2
+.",0.2,0.47346354
 "Well, well.","フッ
 ｡
 ➡
 
 ","Hook
 .
-➡",0.2
+➡",0.2,0.16707762
 Mizuki has a big mouth!,"そんなヤツじゃない！
 
-",It's not such a guy!,0.18181818181818182
+",It's not such a guy!,0.18181818181818185,0.24145633
 The Scroll of Sealing is now with him.,"術で抑えられていた力を
 解放するやもしれん
 ｡
@@ -1024,18 +1024,18 @@ The Scroll of Sealing is now with him.,"術で抑えられていた力を
 ","The force that was suppressed by
 It is safe to release
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.25412518
 "the Nine Tailed Fox Spirit
 sealed inside him!","九尾のきつねが現れる可能性も➡
 
-",The possibility of the nine tail of the nine tail appears ➡,0.14285714285714285
+",The possibility of the nine tail of the nine tail appears ➡,0.14285714285714285,0.42674616
 If that happens...,"そのときは…》
 
-","That time…""",0.16666666666666666
+","That time…""",0.16666666666666666,0.18268155
 <i>I've found him!</i>,"(ｲﾙｶ)
 《見つけた！》
 
-","""I found it!""",0.2727272727272727
+","""I found it!""",0.2727272727272727,0.46104753
 "Why is it, Naruto?","どうしてだ？
  
 ナルト
@@ -1044,13 +1044,13 @@ If that happens...,"そのときは…》
 ","Why?
  
 Naruto
-.",0.42857142857142855
+.",0.42857142857142855,0.8912486
 How...,"どうして…➡
 
-",Why ... ➡,0.25
+",Why ... ➡,0.25,0.38954458
 did you know I wasn't Iruka...?,"イルカじゃないと分かった？
 
-",Did not you find it is not a dolphin?,0.2
+",Did not you find it is not a dolphin?,0.2,0.13207157
 I see.,"(ｲﾙｶ)
 そ…
  
@@ -1060,7 +1060,7 @@ I see.,"(ｲﾙｶ)
 ","ancestor…
  
 Such
-.",0.2
+.",0.2,0.1041933
 "What's in it for you to protect
 the one who killed your family?","(ﾐｽﾞｷ)
 親の敵に化けてまで
@@ -1071,10 +1071,10 @@ the one who killed your family?","(ﾐｽﾞｷ)
 ","Until the parent enemies
 Atsushi
  
-What is it?",0.2
+What is it?",0.2,0.32662025
 Same?,"同じ？
 
-",same?,1.0
+",same?,1.0,1.0
 "that Fox Spirit, won't take advantage
 of the power of that scroll!","あの巻物の術を使えば
 何だって思いのままだ
@@ -1084,10 +1084,10 @@ of the power of that scroll!","あの巻物の術を使えば
 ","If you use the technique of that scroll
 It remains what I think
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.51278526
 You're right...,"ナルトが…➡
 
-",Naruto ... ➡,0.16666666666666666
+",Naruto ... ➡,0.16666666666666666,0.056885548
 But Naruto is different!,"けど
  
 ナルトは違う
@@ -1096,13 +1096,13 @@ But Naruto is different!,"けど
 ","but
  
 Naruto is different
-.",0.6666666666666666
+.",0.6666666666666666,0.9694833
 He is not the Demon Fox Spirit.,"(ｲﾙｶ)
 化けぎつねならな
 ｡
 
 ","It is not good
-.",0.3
+.",0.3,0.16724612
 "I was gonna take you down later,
 but I have changed my mind.","イルカ
  
@@ -1120,10 +1120,10 @@ I was sticky
  
 gave up
 .
-➡",0.23809523809523808
+➡",0.2380952380952381,0.28347188
 Die!,"さっさと死ね～！
 
-",Death quickly ~!,0.2
+",Death quickly ~!,0.2,0.6204195
 <i>I guess this is the end for me...</i>,"そのくせ不器用で
 誰からも認めてもらえなくて…
 ｡
@@ -1132,17 +1132,17 @@ Die!,"さっさと死ね～！
 ","It is for a loss
 I have not received it from anyone ...
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.1374603
 <i>Naruto?!</i>,"(ｲﾙｶ)
 《ナルト!?》
 
-","""Naruto!?""",0.3333333333333333
+","""Naruto!?""",0.3333333333333333,0.76669675
 "You surprised me there, freak.","(ﾐｽﾞｷ)
 やってくれるじゃねえか
 ｡
 
 ","You're not doing it
-.",0.18181818181818182
+.",0.18181818181818185,0.16528168
 "Why don't you try then?
 I'll strike you back a thousand fold!","ほざくな！
  
@@ -1158,7 +1158,7 @@ I want to do it
 In one shot
  
 I will do it
-.",0.12
+.",0.12,0.3037492
 "Let's see you try!
 Show me what you can do, Demon Fox!","やってみろよ
  
@@ -1166,14 +1166,14 @@ Show me what you can do, Demon Fox!","やってみろよ
 
 ","Let's do it
  
-Cas!",0.25
+Cas!",0.25,0.27239347
 Shadow Clone Jutsu!,"影分身の術！
 
-",Shadow Subordination!,0.4
+",Shadow Subordination!,0.4,0.5519525
 What's this...?,"(ﾐｽﾞｷ)
 何だと？
 
-",What did you say?,0.25
+",What did you say?,0.25,0.07274596
 "In that case...
 I'll come to you.","≪
  
@@ -1187,7 +1187,7 @@ I'll come to you.","≪
 Barobeba!
 «
  
-If you come!",0.14285714285714285
+If you come!",0.14285714285714285,0.25025916
 "I kinda got carried away.
 Iruka Sensei, are you okay?","イルカ先生
  
@@ -1195,12 +1195,12 @@ Iruka Sensei, are you okay?","イルカ先生
 
 ","Dolphin teacher
  
-Are you okay?",0.26666666666666666
+Are you okay?",0.26666666666666666,0.30931953
 Yeah.,"あ…
 ｡
 
 ","Ah…
-.",0.3333333333333333
+.",0.3333333333333333,0.51960844
 "Naruto, come over here.
 I'd like to give you something.","ナルト
  
@@ -1214,19 +1214,19 @@ I'd like to give you something.","ナルト
 A little
  
 Come here
-.",0.26666666666666666
+.",0.26666666666666666,0.7358711
 Has anyone found Naruto yet?,"ナルトのヤツ
  
 見つかったか？
 
 ","Naruto guy
  
-Did you find it?",0.18181818181818182
+Did you find it?",0.18181818181818185,0.8118155
 There's no need to worry anymore.,"お前に渡したいもんがある
 ｡
 
 ","There is a donation to pass in you
-.",0.21428571428571427
+.",0.21428571428571427,0.027932556
 Congratulations... on your graduation.,"卒業
  
 おめでとう
@@ -1235,14 +1235,14 @@ Congratulations... on your graduation.,"卒業
 ","graduation
  
 congratulation
-.",0.2857142857142857
+.",0.2857142857142857,0.8566399
 "In celebration, we'll have ramen tonight!","よし
  
 卒業祝いだ！
 
 ","Good
  
-Graduation celebration!",0.18181818181818182
+Graduation celebration!",0.18181818181818185,0.46253884
 That hurts!,"イルカ先生～！
 (ｲﾙｶ)
 あ～！
@@ -1257,7 +1257,7 @@ Oh!
  
 It hurts
  
-Oi!",0.2222222222222222
+Oi!",0.2222222222222222,0.4069465
 <i>Naruto...</i>,"ラーメン
  
 おごってやるぞ
@@ -1266,12 +1266,12 @@ Oi!",0.2222222222222222
 ","ramen
  
 I will do it
-.",0.09090909090909091
+.",0.09090909090909093,0.13720344
 <i>I was going to lecture to you...</i>,"これからだって
 説教するつもりだったが➡
 
 ","It is from now on
-I intended to preach",0.11764705882352941
+I intended to preach",0.1176470588235294,0.3465375
 "<i>But I guess I'll just wait to tell you</i>
 <i>that until we get to the ramen stand...</i>","まっ
  
@@ -1281,12 +1281,12 @@ I intended to preach",0.11764705882352941
 ","Mine
  
 It to the ramen shop
-Do you have to endure?",0.14814814814814814
+Do you have to endure?",0.14814814814814814,0.59989035
 You're smaller than me and,"♬
  coz you're so right.
 
 ","♬
- COZ YOU'RE SO RIGHT.",0.18181818181818182
+ COZ YOU'RE SO RIGHT.",0.18181818181818185,0.22747229
 "I don't care if you are the 3rd Hokage's
 grandson or not.","♬
  Don't dry with
@@ -1294,10 +1294,10 @@ fakes or fears.
 
 ","♬
  Don't Dry With With
-Fakes or Fears.",0.21052631578947367
+Fakes or Fears.",0.21052631578947367,0.1540107
 "Next episode:
 ""My Name Is Konohamaru!""","♬
  Waiting is wasting
 
 ","♬
- Waiting is Wasting",0.08333333333333333
+ Waiting is Wasting",0.08333333333333333,0.12609845

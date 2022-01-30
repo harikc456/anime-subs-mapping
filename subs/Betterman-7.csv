@@ -1,292 +1,292 @@
-en_text,jp_text,google_translated,score
-The Psychovoice...!,名前知らぬ民よ,Name of the name,0.16666666666666666
-Better Man!,ガオオオオ,Gao Oo,0.0
-Aoku uneru shijima,ガアー,Garage,0.0
-Gin no kobune ukabeshi,銀の小舟浮かべし,Silver smiling,0.0
-Yurari yurare izuko e,ゆらりゆられて何処(いずこ)へ,Looking for a long time,0.0
-lma ichido mezameshi chikara,いま一度目覚めし精気(ちから),I waker and see it now,0.0
-Kokoro michibiki tamou,魂(こころ)導き給(たも)う,Soul  guidance,0.0
-Arigatou yume no kakera,アリガトヲ ユメノカケラ,Arigato Yumenokkera,0.0
-Seventh Night: Forte,メンテキャリア 応答願います,Maintainer Career Response,0.0
-It's no good.,駄目っすわ,Good luck,0.16666666666666666
-No signals...,夜明けを待つより他ないっすわ,There is no other than waiting for dawn,0.1
+en_text,jp_text,google_translated,score,semantic_score
+The Psychovoice...!,名前知らぬ民よ,Name of the name,0.16666666666666666,0.16757219
+Better Man!,ガオオオオ,Gao Oo,0.0,0.060440794
+Aoku uneru shijima,ガアー,Garage,0.0,0.1323383
+Gin no kobune ukabeshi,銀の小舟浮かべし,Silver smiling,0.0,0.049150646
+Yurari yurare izuko e,ゆらりゆられて何処(いずこ)へ,Looking for a long time,0.0,0.032325506
+lma ichido mezameshi chikara,いま一度目覚めし精気(ちから),I waker and see it now,0.0,0.17505132
+Kokoro michibiki tamou,魂(こころ)導き給(たも)う,Soul  guidance,0.0,0.097685665
+Arigatou yume no kakera,アリガトヲ ユメノカケラ,Arigato Yumenokkera,0.0,0.8110533
+Seventh Night: Forte,メンテキャリア 応答願います,Maintainer Career Response,0.0,0.03799164
+It's no good.,駄目っすわ,Good luck,0.16666666666666666,0.1211877
+No signals...,夜明けを待つより他ないっすわ,There is no other than waiting for dawn,0.1,0.18868575
 "...and the road's blocked,
 we'll just have to wait until dawn.","とはいえ 無線もいかれて
 道も塞がっちまってる以上","However, wireless
-More than the road is closed",0.13636363636363635
-Here.,ほい,Holy,0.0
-Bug Repeller #1?,虫避け君１号,Avoid Mostly Month 1st,0.0
+More than the road is closed",0.13636363636363635,0.39255744
+Here.,ほい,Holy,0.0,0.20485829
+Bug Repeller #1?,虫避け君１号,Avoid Mostly Month 1st,0.0,0.13416691
 "Boss sure came up with some
-crazy inventions like this.",んん　ああ もう うるさいなあ この虫,Another noisy this worm,0.07142857142857142
+crazy inventions like this.",んん　ああ もう うるさいなあ この虫,Another noisy this worm,0.07142857142857142,0.12369917
 "The missing people are
 Boss and Keita...","行方不明なのは社長と蛍汰
 火乃紀ちゃんに紗孔羅ちゃん","President and Liferation of missing
-Horimoni-chan",0.16666666666666666
+Horimoni-chan",0.16666666666666666,0.33002847
 "How ironic that they all get buried
 together with the Neuronoids.","ニューロノイドごと埋まっちまうとは
 皮肉なことだ","Neuronoid and buried
-It is an ironic thing",0.1111111111111111
+It is an ironic thing",0.1111111111111111,0.7946811
 "We'll be back home, once we get
 a breakthrough in the survey.","調査の目途がついたら
 母さん一度帰ってくるから","If you have a survey
-Mother comes back once",0.21052631578947367
+Mother comes back once",0.21052631578947367,0.57466716
 You two don't have to worry.,"二人とも心配しないで
 私もう中学生なんだから","Don't worry with the two
-Because it is a junior high school student",0.2222222222222222
+Because it is a junior high school student",0.2222222222222222,0.35734636
 "I'm in high school now.
-I can manage on my own.",バカだなあ 火乃紀は,I'm stupid.,0.23076923076923078
-Huh?,ええ？,Yes?,0.3333333333333333
+I can manage on my own.",バカだなあ 火乃紀は,I'm stupid.,0.2307692307692308,0.18386509
+Huh?,ええ？,Yes?,0.3333333333333333,0.5965155
 "When you're in trouble,
-blow this whistle.",困ったことがあったら 口笛を吹きな,"If you have trouble, blow your whistle",0.38461538461538464
-Her brother Mario...,真理緒兄ちゃん,Sober brother,0.2
+blow this whistle.",困ったことがあったら 口笛を吹きな,"If you have trouble, blow your whistle",0.38461538461538464,0.90612894
+Her brother Mario...,真理緒兄ちゃん,Sober brother,0.2,0.3198765
 "My father, mother,
 and my brother...","お父さんも お母さんもお兄ちゃんも
 死んでなんかいない","My father and my mother too
-There is no dying",0.3333333333333333
-I'm sure of it. I'm sure of it.,うっ はあっ ううっ うっ,I'm sorry,0.2857142857142857
-"Don't cry anymore, Hinoki.",火乃紀 もう泣くなよ 火乃紀,Don't crying Knobu Kenjo,0.2
-"I'll stay by your side, all right?",俺が 側にいてやるからさ,Because I will be on the side,0.13333333333333333
-Why are you here?,どうしてここにいるの？,Why are you here?,1.0
+There is no dying",0.3333333333333333,0.54249316
+I'm sure of it. I'm sure of it.,うっ はあっ ううっ うっ,I'm sorry,0.2857142857142857,0.27440587
+"Don't cry anymore, Hinoki.",火乃紀 もう泣くなよ 火乃紀,Don't crying Knobu Kenjo,0.2,0.5139332
+"I'll stay by your side, all right?",俺が 側にいてやるからさ,Because I will be on the side,0.13333333333333333,0.4981587
+Why are you here?,どうしてここにいるの？,Why are you here?,1.0,0.9999996
 "This is nothing but my dream,
-after all.",だって これは私の夢なの,Because this is my dream,0.36363636363636365
+after all.",だって これは私の夢なの,Because this is my dream,0.3636363636363637,0.6260797
 "We're at the bottom
-of the Ajanta caves...",アジャンター石窟の 地下かあ,Ajanta Caves Underground,0.2
-"Hey, Hinoki!",はっ 火乃紀　火乃紀　おい 火乃紀い,Haruno Kinokuro Hey Kojin Hikari,0.125
-Hinoki...,火乃紀い,Circulating,0.0
+of the Ajanta caves...",アジャンター石窟の 地下かあ,Ajanta Caves Underground,0.2,0.7856314
+"Hey, Hinoki!",はっ 火乃紀　火乃紀　おい 火乃紀い,Haruno Kinokuro Hey Kojin Hikari,0.125,0.5334485
+Hinoki...,火乃紀い,Circulating,0.0,0.074341275
 I said it's dangerous here.,"-危ないって言ってるのに
 -えっ？","-I said to be dangerous
--eh?",0.16666666666666666
-Wh-Who are you?,君は,You are,0.5
-Are you Indian?,インド人？,Indian?,0.5
-The Behemoth will come out.,ベヘモットが出るよ,Behemot comes out,0.125
+-eh?",0.16666666666666666,0.7497105
+Wh-Who are you?,君は,You are,0.5,0.32733205
+Are you Indian?,インド人？,Indian?,0.5,0.7854873
+The Behemoth will come out.,ベヘモットが出るよ,Behemot comes out,0.125,0.83920455
 "By Behemoth,
-you mean that monster?",あ ベヘモットって あの怪獣のこと？,A Behomot is that monster?,0.2727272727272727
+you mean that monster?",あ ベヘモットって あの怪獣のこと？,A Behomot is that monster?,0.2727272727272727,0.71257216
 "That girl was talking
-without moving her mouth.",あの子 口動かさないで喋ってた,I was singing without saying that,0.25
+without moving her mouth.",あの子 口動かさないで喋ってた,I was singing without saying that,0.25,0.28914344
 "But, considering this is
 a famous tourist spot...","でも こんな観光地にも
 なってるような所なのに","But also to such a tourist area
-Even though it is a place",0.2222222222222222
+Even though it is a place",0.2222222222222222,0.7978641
 "...I can't believe there's a huge
-monster living in unknown ruins.",地下には未知の遺跡に住む大怪獣かあ,"In the basement, it is a large monster who lives in unknown ruins",0.21739130434782608
-"Hinoki, you're awake!",あ 火乃紀っ 気が付いたのかあ？,"Oh, did you notice a circle?",0.16666666666666666
+monster living in unknown ruins.",地下には未知の遺跡に住む大怪獣かあ,"In the basement, it is a large monster who lives in unknown ruins",0.21739130434782608,0.77979565
+"Hinoki, you're awake!",あ 火乃紀っ 気が付いたのかあ？,"Oh, did you notice a circle?",0.16666666666666666,0.2047073
 "They say this is a sacred place
 where pilgrims used to...","悟りを開くための聖地だったとも
 言われてるの","It was also a holy place to open enlightenment
-It is said",0.21052631578947367
+It is said",0.21052631578947367,0.46888688
 "...a chemical in the brain is released
-that turns pain into pleasure.",脳内の化学物質が苦痛を快楽に変える,Chemical substances in the brain change painful to pleasure,0.2777777777777778
+that turns pain into pleasure.",脳内の化学物質が苦痛を快楽に変える,Chemical substances in the brain change painful to pleasure,0.2777777777777778,0.7857656
 "There's even a rumor that says
 this is a secret place...","幻覚という快楽を得るための
 秘密の場所だったっていう説もあるの","To get the pleasure of hallucinations
-There is also the theory that it was a secret place",0.2727272727272727
+There is also the theory that it was a secret place",0.2727272727272727,0.48141494
 "In other words, they were
-my father and mother.",つまり 私のお父さんと お母さん,In other words my dad and mom,0.38461538461538464
-...my brother was with them.,それに お兄ちゃんも一緒だったの,"Besides, my brother was also with me",0.36363636363636365
+my father and mother.",つまり 私のお父さんと お母さん,In other words my dad and mom,0.38461538461538464,0.66070276
+...my brother was with them.,それに お兄ちゃんも一緒だったの,"Besides, my brother was also with me",0.3636363636363637,0.6951272
 "So, they were all
-taken by that monster?",何もかも人間が勝手に作り出した幻よ,Anything that human beings were created by the human being,0.1875
-There is no such monster.,えっ　じゃあ 皆あの怪獣に,"Eh, everyone is to the monster",0.18181818181818182
-Everything is a hallucination.,何もかも幻覚なのよ,It's a hallucination,0.2857142857142857
-That is the form of Algernon.,これがアルジャーノンの正体,This is the true character of Arjanon,0.2727272727272727
-Everyone dies here.,皆ここで死ぬんだわ,Everyone dies,0.5
-...I don't believe that.,俺は そうは思えない,I do not think so,0.2
-"We're Dual Kinds, right?",んああ？,"Oh,?",0.25
+taken by that monster?",何もかも人間が勝手に作り出した幻よ,Anything that human beings were created by the human being,0.1875,0.22301626
+There is no such monster.,えっ　じゃあ 皆あの怪獣に,"Eh, everyone is to the monster",0.18181818181818185,0.6288541
+Everything is a hallucination.,何もかも幻覚なのよ,It's a hallucination,0.2857142857142857,0.83299166
+That is the form of Algernon.,これがアルジャーノンの正体,This is the true character of Arjanon,0.2727272727272727,0.28786254
+Everyone dies here.,皆ここで死ぬんだわ,Everyone dies,0.5,0.8398924
+...I don't believe that.,俺は そうは思えない,I do not think so,0.2,0.4340682
+"We're Dual Kinds, right?",んああ？,"Oh,?",0.25,0.11750201
 ...I'm sure we can get out of here.,"力を合わせれば きっとここから
 抜け出せる筈だよ","I will surely get the power
-It is a habit that can be removed",0.13636363636363635
+It is a habit that can be removed",0.13636363636363635,0.24077457
 "Being a Dual Kind isn't as
 convenient as you think.","デュアルカインドなんて
 そんなに便利なものじゃない","Dual Kind
-It is not so convenient",0.2857142857142857
+It is not so convenient",0.2857142857142857,0.795342
 "But we've managed to somehow
 get this far, haven't we?","あんん でも 今までだって
 何とかやってこれたじゃないか","Anyway, so far
-Somehow I'm not doing this",0.21052631578947367
+Somehow I'm not doing this",0.21052631578947367,0.35680646
 "If you give up now, I'm sure
 your family wouldn't appreciate it!","はあっ こんな所で諦めたら
 火乃紀の家族だって喜ばないぜ","If you give up in such a place
-I'm not happy because it is a Kurono family",0.32
-I don't know...,分かんない,I do not know,0.5
-"I'm an idiot, after all.",私 バカだから,Because I'm an idiot,0.4444444444444444
-Boss!,社長ーっ,President,0.0
-Mother...,ママ…,Mom ...,0.3333333333333333
-Father...,パパ…,Papa ...,0.3333333333333333
-Officer...!,オフィサー,Officer,0.3333333333333333
-Kei!,ケイ,Clay,0.0
-Kaede!,楓っ,Octrine,0.0
+I'm not happy because it is a Kurono family",0.32,0.53795767
+I don't know...,分かんない,I do not know,0.5,0.7918631
+"I'm an idiot, after all.",私 バカだから,Because I'm an idiot,0.4444444444444444,0.60258764
+Boss!,社長ーっ,President,0.0,0.3384117
+Mother...,ママ…,Mom ...,0.3333333333333333,0.9413687
+Father...,パパ…,Papa ...,0.3333333333333333,0.6227821
+Officer...!,オフィサー,Officer,0.3333333333333333,0.81361264
+Kei!,ケイ,Clay,0.0,0.15689605
+Kaede!,楓っ,Octrine,0.0,0.11532903
 "Miss Asami, Sakura,
-and even Mr. Akamatsu!",麻御さん　紗孔羅ちゃん 阿嘉松さんも,Mr. Masao Masao-san,0.09090909090909091
-It felt like a hallucination.,幻覚のようでした,It was like a hallucination,0.5714285714285714
-I think she's just asleep.,眠ってるだけみたい,I just want to sleep,0.2
-"So, we're under Ajanta.",アジャンターの地下か,Ajanta underground,0.125
+and even Mr. Akamatsu!",麻御さん　紗孔羅ちゃん 阿嘉松さんも,Mr. Masao Masao-san,0.09090909090909093,0.18821356
+It felt like a hallucination.,幻覚のようでした,It was like a hallucination,0.5714285714285714,0.88892066
+I think she's just asleep.,眠ってるだけみたい,I just want to sleep,0.2,0.4619578
+"So, we're under Ajanta.",アジャンターの地下か,Ajanta underground,0.125,0.58376414
 "For ancient ruins, it sure
-looks awfully geometrical.",しかし 遺跡にしては妙に幾何学的だが,"But in ruins, it is strangely geometrical",0.2857142857142857
-P-Please don't kill me!,うわあーっ　ああっ あっ こ こ 殺さないでえっ,"Wow, don't kill this",0.3333333333333333
-Aono! And Hinoki too!,お 蒼斧君っ　それに 火乃紀ちゃんも,Aoi Haru-Chan also,0.0
-Oh!,おお,Oh,0.5
-You two were safe!,ああ　二人共 無事だったんですね,"Oh, two people were unconventional",0.2222222222222222
-Mr. Yanagi! And everybody!,八七木さん それに皆も,Mr. Yagami Mita everyone,0.125
+looks awfully geometrical.",しかし 遺跡にしては妙に幾何学的だが,"But in ruins, it is strangely geometrical",0.2857142857142857,0.81977826
+P-Please don't kill me!,うわあーっ　ああっ あっ こ こ 殺さないでえっ,"Wow, don't kill this",0.3333333333333333,0.43114686
+Aono! And Hinoki too!,お 蒼斧君っ　それに 火乃紀ちゃんも,Aoi Haru-Chan also,0.0,0.53671575
+Oh!,おお,Oh,0.5,0.87060004
+You two were safe!,ああ　二人共 無事だったんですね,"Oh, two people were unconventional",0.2222222222222222,0.2950907
+Mr. Yanagi! And everybody!,八七木さん それに皆も,Mr. Yagami Mita everyone,0.125,0.46575296
 "So, you're saying that this
-Behemoth monster exists?",これやっばーっ とか思ってたら,If you think so much,0.14285714285714285
-If it is in fact true...,もしそれが事実だとすれば,If that is a fact,0.3333333333333333
+Behemoth monster exists?",これやっばーっ とか思ってたら,If you think so much,0.14285714285714285,0.17312814
+If it is in fact true...,もしそれが事実だとすれば,If that is a fact,0.3333333333333333,0.642594
 "We somehow made it as I carried
 the heavy Hinoki on my back!","重い火乃紀を背負って
 何とか逃げ延びたんですからあっ","Caring the heavy Kinoki
-I'm going to run away somehow",0.19047619047619047
+I'm going to run away somehow",0.19047619047619047,0.28858057
 "A bee relates to others
-within its colony by...",あれは人を酔わせる音の幻覚剤だったのか,Was that a sound healing agent to get intoxicated,0.11764705882352941
+within its colony by...",あれは人を酔わせる音の幻覚剤だったのか,Was that a sound healing agent to get intoxicated,0.1176470588235294,0.09661869
 "...performing a sort of dance
-in the air.",空中でダンスを踊るような仕草をします,I will dancing dance in the air,0.3076923076923077
+in the air.",空中でダンスを踊るような仕草をします,I will dancing dance in the air,0.3076923076923077,0.6524383
 "...it emits a sound frequency
 of around 250 Hz from its rear...","そのダンスとともに 尾から
 250Hz前後の音の信号を出し","From the tail with the dance
-Outlook the sound of sounds around 250 Hz",0.3157894736842105
+Outlook the sound of sounds around 250 Hz",0.3157894736842105,0.6218081
 "...and is able to communicate
-to other bees how far...",ハチは 仲間と交信するために,Hachi to communicate with friends,0.15384615384615385
+to other bees how far...",ハチは 仲間と交信するために,Hachi to communicate with friends,0.15384615384615385,0.18779826
 "...flowers are from the hive,
 and other information like direction.","巣から花までの方角 距離を
 仲間に教えるのです","The distance from the nest to flowers
-I teach my friends",0.15
+I teach my friends",0.15,0.4657197
 "But what does that have to do
 with the cry of the Behemoth?","それと ベヘモットの呼び声と
 どういう関係が？","And the call voice of Behagot
-What is the relationship?",0.21052631578947367
+What is the relationship?",0.21052631578947367,0.36369368
 "...use that sound to
-control the other bees.",音によって他の仲間をコントロールするのです,Control other friends by sound,0.25
+control the other bees.",音によって他の仲間をコントロールするのです,Control other friends by sound,0.25,0.41757193
 "So, we've been controlled
 by the sound...","じゃあ 私たちも音でコントロールされて
 ここまで来たのねえ","Well then we are also controlled by sound
-I came here too",0.2222222222222222
+I came here too",0.2222222222222222,0.8422424
 "I knew my legs were
-sore for a reason.",どうりで足が疲れてると思ったあ,I thought I was tired of my feet,0.13333333333333333
+sore for a reason.",どうりで足が疲れてると思ったあ,I thought I was tired of my feet,0.13333333333333333,0.47887996
 "If we hear that sound again,
-we will surely succumb.",次にあの音を聞いたら 間違いなくアウトだな,Next I will definitely be out when I hear that sound,0.23529411764705882
+we will surely succumb.",次にあの音を聞いたら 間違いなくアウトだな,Next I will definitely be out when I hear that sound,0.2352941176470588,0.49539638
 "And even my Barrier-kun
-can't take it.",俺のバリアー君もなあ,My barrier is also,0.08333333333333333
+can't take it.",俺のバリアー君もなあ,My barrier is also,0.08333333333333333,0.66111815
 Could this be the form of Algernon?,"まさか これがアルジャーノンの
 正体なんすかあ？","This is an algernon
-Is it true?",0.25
-I don't know yet.,まだ 分かりません,I do not know yet,0.5714285714285714
-"Anyway, let's get out of here.",え とにかく ここを出ようぜ,Let's go here anyway,0.4
-"Can you read it, Kaede?",読めるか？　楓,Can you read?Maple,0.5
+Is it true?",0.25,0.77990603
+I don't know yet.,まだ 分かりません,I do not know yet,0.5714285714285714,0.8928868
+"Anyway, let's get out of here.",え とにかく ここを出ようぜ,Let's go here anyway,0.4,0.6336608
+"Can you read it, Kaede?",読めるか？　楓,Can you read?Maple,0.5,0.45361325
 "...to read the design
 of this cave complex.","そうかあっ 楓さんのダウジングで
 この宮殿の構造を読み取れば","Oh yes at the douging of Mr.
-If you read the structure of this palace",0.21052631578947367
+If you read the structure of this palace",0.21052631578947367,0.41377273
 "And we can find the
-way out to the surface.",地上への出口を見つけられる,You can find exit to the ground,0.3076923076923077
+way out to the surface.",地上への出口を見つけられる,You can find exit to the ground,0.3076923076923077,0.44445997
 "We can go home!
-We're saved, Hinoki!",帰れるっ　助かるぞお 火乃紀,You can go home,0.3
-Not yet. We don't know yet.,まだ 分からないよ,I do not know yet,0.5
-It's here...,いるよ,There,0.0
-Sakura.,紗孔羅,孔,0.0
-It's here?!,いるって？,Is there?,0.14285714285714285
-It's still here.,まだ いる,Still there,0.16666666666666666
-It's blocking us.,通せんぼしてるよ,I'm sorry,0.0
-You're still alive.,まだ生きてるの？,Are you still living?,0.25
-Pectofolex Lubrum.,ギャアーッ,Gail,0.0
-It killed all of my siblings.,私の兄弟も皆 殺しちゃった,My brother also killed,0.2222222222222222
-You'll die if you stay here.,ここにいると死んじゃうよ,"If you are here, you will die",0.4
-This place looks just like a beehive.,こいつはまるで蜂の巣だなあ,This guy is a bee's nest,0.15384615384615385
-"Which way, Kaede?",楓 どっちだ？,Which one?,0.3333333333333333
-Wh-What's that sound?!,ななななな 何だ？　この音,What is it?This sound,0.2
-It seems there's no way.,はあっ へっ はあっ はあっ,There is no way,0.375
-Let's retreat!,後退しましょう,Let's go back,0.3333333333333333
+We're saved, Hinoki!",帰れるっ　助かるぞお 火乃紀,You can go home,0.3,0.54111916
+Not yet. We don't know yet.,まだ 分からないよ,I do not know yet,0.5,0.6202214
+It's here...,いるよ,There,0.0,0.3429085
+Sakura.,紗孔羅,孔,0.0,0.26014715
+It's here?!,いるって？,Is there?,0.14285714285714285,0.47302184
+It's still here.,まだ いる,Still there,0.16666666666666666,0.6050981
+It's blocking us.,通せんぼしてるよ,I'm sorry,0.0,0.19990161
+You're still alive.,まだ生きてるの？,Are you still living?,0.25,0.5307829
+Pectofolex Lubrum.,ギャアーッ,Gail,0.0,0.17805904
+It killed all of my siblings.,私の兄弟も皆 殺しちゃった,My brother also killed,0.2222222222222222,0.6343065
+You'll die if you stay here.,ここにいると死んじゃうよ,"If you are here, you will die",0.4,0.7851657
+This place looks just like a beehive.,こいつはまるで蜂の巣だなあ,This guy is a bee's nest,0.15384615384615385,0.6343787
+"Which way, Kaede?",楓 どっちだ？,Which one?,0.3333333333333333,0.18485305
+Wh-What's that sound?!,ななななな 何だ？　この音,What is it?This sound,0.2,0.6671447
+It seems there's no way.,はあっ へっ はあっ はあっ,There is no way,0.375,0.82523346
+Let's retreat!,後退しましょう,Let's go back,0.3333333333333333,0.569441
 "It's that giant lizard from
-back at the dam site.",ダムの工事現場で見たオオトカゲ？,Dam Wow Lizard I saw at the construction site of the dam?,0.2777777777777778
-I told you to leave right away!,早く逃げてって言ってんのに,I said that I'm running away early,0.15384615384615385
-Cool?,かっこいい？　フフ,cool?Fuff,0.6666666666666666
-Well! Check that out!,じゃあティランも,Well then,0.16666666666666666
-What is that?!,何？,what?,0.4
-Lamia.,ラミア,Lamia,0.5
-"Is that you, Seeme?",その意思が残っているのなら立て,If that intention is left,0.2222222222222222
-I've been defeated.,私は 敗れた,I lost,0.16666666666666666
+back at the dam site.",ダムの工事現場で見たオオトカゲ？,Dam Wow Lizard I saw at the construction site of the dam?,0.2777777777777778,0.8572806
+I told you to leave right away!,早く逃げてって言ってんのに,I said that I'm running away early,0.15384615384615385,0.538426
+Cool?,かっこいい？　フフ,cool?Fuff,0.6666666666666666,0.66043526
+Well! Check that out!,じゃあティランも,Well then,0.16666666666666666,0.3182972
+What is that?!,何？,what?,0.4,0.38821915
+Lamia.,ラミア,Lamia,0.5,0.9804658
+"Is that you, Seeme?",その意思が残っているのなら立て,If that intention is left,0.2222222222222222,0.23380762
+I've been defeated.,私は 敗れた,I lost,0.16666666666666666,0.46536443
 "...that you could not
-defeat it as Nebula.",ネブラでは勝てないということ,That you can not win in Nebra,0.21428571428571427
+defeat it as Nebula.",ネブラでは勝てないということ,That you can not win in Nebra,0.21428571428571427,0.33003488
 "In order to protect them,
-I had to fight.",守るためには 戦うしかなかった,I had to fight to protect,0.5
+I had to fight.",守るためには 戦うしかなかった,I had to fight to protect,0.5,0.8744431
 "Even if only to keep
-the light from going out.",灯火を消さぬために,To erase the light,0.25
-It's impossible.,無理だ,It impossible,0.5
-"Extend your arm, Lamia.",手を伸ばせラミア,Stretch your hand Lamia,0.25
-What you seek is before you.,求めるものはすぐそこにある,What you seek is soon,0.5714285714285714
-It was waiting for us.,それは我らを待っていた,It was waiting for us,0.8333333333333334
-...born out of our hope.,我らの希望が生み出した,Our hope created,0.25
-Forte...,フォルテ,Forte,0.5
+the light from going out.",灯火を消さぬために,To erase the light,0.25,0.54775083
+It's impossible.,無理だ,It impossible,0.5,0.83777505
+"Extend your arm, Lamia.",手を伸ばせラミア,Stretch your hand Lamia,0.25,0.7344019
+What you seek is before you.,求めるものはすぐそこにある,What you seek is soon,0.5714285714285714,0.730343
+It was waiting for us.,それは我らを待っていた,It was waiting for us,0.8333333333333334,0.97178143
+...born out of our hope.,我らの希望が生み出した,Our hope created,0.25,0.5903341
+Forte...,フォルテ,Forte,0.5,0.9284984
 We're doomed!,"-くっ
 -ギャアア","-
--Gayaa",0.0
+-Gayaa",0.0,0.13269548
 Going back wouldn't be any better!,"-キーッ
 -おおお　ああ","-Keep
--Oh oh oh",0.0
+-Oh oh oh",0.0,0.14193419
 "It's at least three times the size
-of an Indian elephant.",すごい インド象の３倍以上あるわ,There are more than three times that of a great indian elephant,0.25
+of an Indian elephant.",すごい インド象の３倍以上あるわ,There are more than three times that of a great indian elephant,0.25,0.8602301
 This sound is in fact...!,"-この音は やはり
 -ああっ","-This sound is still
--A",0.2
-What?!,カリ カリッカリッカリッ,Calicard,0.0
-It's a different form from before.,いや 前とは違う姿だ,"No, it is different from before",0.36363636363636365
-Forte?,フォルテ？,Forte?,1.0
-That's...,そう それこそがベターマン,Yes that's why Betterman,0.3333333333333333
+-A",0.2,0.6322432
+What?!,カリ カリッカリッカリッ,Calicard,0.0,0.15108152
+It's a different form from before.,いや 前とは違う姿だ,"No, it is different from before",0.3636363636363637,0.6617053
+Forte?,フォルテ？,Forte?,1.0,1.0000002
+That's...,そう それこそがベターマン,Yes that's why Betterman,0.3333333333333333,0.19892855
 "That's the name of
-this Better Man form?",それが あのベターマンの名前,That's the name of that Betterman,0.45454545454545453
+this Better Man form?",それが あのベターマンの名前,That's the name of that Betterman,0.4545454545454545,0.5355075
 "Is he able to change his form
 to suit the opponent he's fighting?","相対する敵に合わせて
 己の形態を変えたのか？","Together with the opposite enemies
-Did you change your form?",0.2
+Did you change your form?",0.2,0.41753748
 "Now's our chance to get
-to the Main Tech Carriers!",よおし 今のうちにメンテキャリアまで行くんだ,Yo I'm going to Mente Carrias now,0.11764705882352941
+to the Main Tech Carriers!",よおし 今のうちにメンテキャリアまで行くんだ,Yo I'm going to Mente Carrias now,0.1176470588235294,0.18921857
 "A structure that cancels
-out vibrations!",振動を相殺する物質構造,Substance structure that offsets vibration,0.2
-That's...!,あれはっ,That,0.25
-Awake!,ううう 急がねえと 俺たちも生き埋めだ,U U U U U U U U U U U U U U U,0.0
+out vibrations!",振動を相殺する物質構造,Substance structure that offsets vibration,0.2,0.65945834
+That's...!,あれはっ,That,0.25,0.4240047
+Awake!,ううう 急がねえと 俺たちも生き埋めだ,U U U U U U U U U U U U U U U,0.0,0.06579955
 "Yes.
 It won't hold up much longer.","んん どうでもいいですけど
 何で皆して俺の所にー？","It doesn't matter
-Everybody all my place?",0.125
-All right.,オオオ,Io,0.0
+Everybody all my place?",0.125,0.06647018
+All right.,オオオ,Io,0.0,0.17049994
 "Shall we just go
-with the synapse attack?",シナプス弾撃で一気に行くかっ？,Do you go at a stretch with a synaptic bullet?,0.1875
+with the synapse attack?",シナプス弾撃で一気に行くかっ？,Do you go at a stretch with a synaptic bullet?,0.1875,0.51223075
 "As soon as we open a hole,
 it'll collapse around us.","駄目みたい　それでも
 穴開けた途端に崩れてくるよ","I like it
-It will break down as soon as I opened",0.15789473684210525
-The dam site!,ダム工事だ,Dam construction,0.2
-What are you talking about?,何言ってんの？,What are you talking about?,1.0
+It will break down as soon as I opened",0.15789473684210525,0.3702102
+The dam site!,ダム工事だ,Dam construction,0.2,0.67359
+What are you talking about?,何言ってんの？,What are you talking about?,1.0,0.9999997
 "Come on, a dam is used
-to hold back water, right?",来る途中見たでしょう？　ダム工事,Was it on the way to come?Dam work,0.2777777777777778
+to hold back water, right?",来る途中見たでしょう？　ダム工事,Was it on the way to come?Dam work,0.2777777777777778,0.16866472
 "If the rock is going to collapse,
 then we just have to dam it up!","岩盤が崩れてくるんなら
 それを食い止めればいいんっすよ","If the bedrock is broken
-I should stop it",0.19047619047619047
-I get it!,読めたぜ 蒼斧君,I read it,0.4
-"Good thinking, Aono!",よし ジーセット,Good jeath,0.16666666666666666
-Psychoglory!,シナプス弾撃,Synaptic bullout,0.0
-Synapse attack!,シナプス弾撃いっ,Synaptic bullets,0.0
-"Great idea, boys!",アイデア賞だな,Idea award,0.16666666666666666
-I know!,分かってますよ,I understand,0.25
-We can't take anymore!,もう駄目に決まてる,It is decided anymore,0.1111111111111111
-Brother...,お兄ちゃん,brother,0.5
+I should stop it",0.19047619047619047,0.43062052
+I get it!,読めたぜ 蒼斧君,I read it,0.4,0.38596696
+"Good thinking, Aono!",よし ジーセット,Good jeath,0.16666666666666666,0.19787599
+Psychoglory!,シナプス弾撃,Synaptic bullout,0.0,0.24959618
+Synapse attack!,シナプス弾撃いっ,Synaptic bullets,0.0,0.577931
+"Great idea, boys!",アイデア賞だな,Idea award,0.16666666666666666,0.2532578
+I know!,分かってますよ,I understand,0.25,0.5073594
+We can't take anymore!,もう駄目に決まてる,It is decided anymore,0.1111111111111111,0.33768278
+Brother...,お兄ちゃん,brother,0.5,0.6888979
 Of course it's too late!,"ええーっ 死者の魂
 死の底から這い出てきたよおーっ","Eye's soul
-It came out from the bottom of death",0.2
+It came out from the bottom of death",0.2,0.10114329
 "I'm sure everyone was
-eaten by the Behemoth!",皆ベヘモットに食われてしまたあー,Everyone was eaten by Behomot,0.36363636363636365
+eaten by the Behemoth!",皆ベヘモットに食われてしまたあー,Everyone was eaten by Behomot,0.3636363636363637,0.7473442
 "Nobody can ride that thing unless
-they're sitting in the MP seat.",MPシート以外は 人の乗る所じゃねえなあ,It is not the place where people ride except MP sheet,0.13636363636363635
+they're sitting in the MP seat.",MPシート以外は 人の乗る所じゃねえなあ,It is not the place where people ride except MP sheet,0.13636363636363635,0.6948702
 "Nevertheless, let's be thankful
-that everyone made it safely.",ああ あちこち痣だらけだぜー,"Oh, it's full",0.21428571428571427
-They're alive! Hey!,社長ー,President,0.0
-I never lost faith!,信じてたよおーっ,I believed,0.16666666666666666
-kizanda kami no tsumi,炎に抱かれながら,While being held in flames,0.0
-Honoo ni dakarenagara,醒(めざめ)の墓標 目指す,Aim for the grave of awake,0.0
-mezame no bohyou mezasu,魂(こころ) 霊(こだま) 孤独の声,Soul  spirit  loneliness,0.0
-Kokoro Kodama Kodoku no koe,飢(かわき) 亡(ほろび) 運命(さだめ)の時,Hunting  dead  destiny,0.0
-Unare! Sakebe! Inochi kudake!,湧きあがる希望 歌え！,Singing hope!,0.14285714285714285
-Haruka hi no hikari sagase,その胸の戒律(ちかい) 放て！,Learning the chest of the chest,0.0
+that everyone made it safely.",ああ あちこち痣だらけだぜー,"Oh, it's full",0.21428571428571427,0.101326905
+They're alive! Hey!,社長ー,President,0.0,0.06482861
+I never lost faith!,信じてたよおーっ,I believed,0.16666666666666666,0.30758205
+kizanda kami no tsumi,炎に抱かれながら,While being held in flames,0.0,0.11340105
+Honoo ni dakarenagara,醒(めざめ)の墓標 目指す,Aim for the grave of awake,0.0,0.25145423
+mezame no bohyou mezasu,魂(こころ) 霊(こだま) 孤独の声,Soul  spirit  loneliness,0.0,0.08329764
+Kokoro Kodama Kodoku no koe,飢(かわき) 亡(ほろび) 運命(さだめ)の時,Hunting  dead  destiny,0.0,0.113732554
+Unare! Sakebe! Inochi kudake!,湧きあがる希望 歌え！,Singing hope!,0.14285714285714285,0.19238976
+Haruka hi no hikari sagase,その胸の戒律(ちかい) 放て！,Learning the chest of the chest,0.0,0.09637504
 "I cannot see anything.
-I cannot hear anything.",何も聞けない,I can not hear anything,0.7142857142857143
-My key is broken...,私の鍵が 壊れちゃった,My key has broken,0.5
-Salamander?,サラマンダー？,Salamander?,1.0
-The poison is destroying my body.,毒が体を壊してく,Poison destroys the body,0.375
-It will gnaw at you from the inside.,あなたを中から,You are from inside,0.3
+I cannot hear anything.",何も聞けない,I can not hear anything,0.7142857142857143,0.83317727
+My key is broken...,私の鍵が 壊れちゃった,My key has broken,0.5,0.9086558
+Salamander?,サラマンダー？,Salamander?,1.0,1.0
+The poison is destroying my body.,毒が体を壊してく,Poison destroys the body,0.375,0.8571775
+It will gnaw at you from the inside.,あなたを中から,You are from inside,0.3,0.46643353

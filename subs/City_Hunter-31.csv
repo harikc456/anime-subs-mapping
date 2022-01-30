@@ -1,223 +1,223 @@
-en_text,jp_text,google_translated,score
-"If we crush that punk group,\Nthe Madonna's,",奴らのグループ マドンナを潰せば,If you crush the group Madonna,0.3333333333333333
-"Don't go getting killed, Shogo.",死ぬなよ 翔吾,Don't die Shogo,0.3333333333333333
-"Same goes for you, Jingi Makoto.",お前こそな 仁義誠,You are a good job,0.08333333333333333
-Rumble!,おーっ！ やーっ！,Oh!Yeah!,0.25
-"Please, God, protect him.",神様 お守りください,God protect,0.3333333333333333
-"But, Miss...",う… しかしお嬢様…,Wow ... but the lady ...,0.2857142857142857
+en_text,jp_text,google_translated,score,semantic_score
+"If we crush that punk group,\Nthe Madonna's,",奴らのグループ マドンナを潰せば,If you crush the group Madonna,0.3333333333333333,0.7577973
+"Don't go getting killed, Shogo.",死ぬなよ 翔吾,Don't die Shogo,0.3333333333333333,0.86908287
+"Same goes for you, Jingi Makoto.",お前こそな 仁義誠,You are a good job,0.08333333333333333,0.16687629
+Rumble!,おーっ！ やーっ！,Oh!Yeah!,0.25,0.26433855
+"Please, God, protect him.",神様 お守りください,God protect,0.3333333333333333,0.6967221
+"But, Miss...",う… しかしお嬢様…,Wow ... but the lady ...,0.2857142857142857,0.42173606
 "If something should happen to Shogo,\NI'd bite my own tongue and die.","翔吾様に もしものことがあったら
 わたくしは舌をかんで死にます！","If you have something to do with Shoji
-I will die with my tongue!",0.25
-Very well...,お お嬢様…,Oh girl ...,0.2
-You!,うわあーっ！,Wow!,0.3333333333333333
-What?,なんだあ？,What is it?,0.5
-"Hey, this is the real thing!",おい！ これは本物だぜえ！,Oi!This is true!,0.3
-"Shogo, please flee while you can!",翔吾様ー！ 今のうちに お逃げください！,Sho Sho!Please run now!,0.18181818181818182
-Ayako?,綾子…,Ayako ...,0.3333333333333333
+I will die with my tongue!",0.25,0.66003704
+Very well...,お お嬢様…,Oh girl ...,0.2,0.390385
+You!,うわあーっ！,Wow!,0.3333333333333333,0.36008665
+What?,なんだあ？,What is it?,0.5,0.4310603
+"Hey, this is the real thing!",おい！ これは本物だぜえ！,Oi!This is true!,0.3,0.35880625
+"Shogo, please flee while you can!",翔吾様ー！ 今のうちに お逃げください！,Sho Sho!Please run now!,0.18181818181818185,0.5667377
+Ayako?,綾子…,Ayako ...,0.3333333333333333,0.91345257
 """I'll be waiting at Garakuta Coffee\NHouse at two P.M. Shogo.""","ふんふん… “喫茶「我楽多」にて待つ
 PM２時 翔吾”と…","Fufun ... Wait at ""Cafe"" Easy Many ""
-PM 2 o'clock ""and ...""",0.13043478260869565
-"Great, great!\NOur first job in six months!",やった やったあ！ 半月ぶりの仕事！,I did it!Menju month's first job!,0.2
+PM 2 o'clock ""and ...""",0.13043478260869565,0.40275067
+"Great, great!\NOur first job in six months!",やった やったあ！ 半月ぶりの仕事！,I did it!Menju month's first job!,0.2,0.5163322
 I'm going to be needing that\Nwinter coat pretty soon.,"そろそろ冬物のコートも
 買わなくちゃなんないしねえ","It is also a winter coat soon
-I have to buy it",0.2222222222222222
+I have to buy it",0.2222222222222222,0.73885715
 Wow! Great! We've got two jobs!,"ひゃー やったねえ！
 ２つも仕事が入っちゃったあ！","Hey you did!
-Two works have come in!",0.13333333333333333
+Two works have come in!",0.13333333333333333,0.59454155
 Some really small characters there\Nthough. I almost missed it.,"それにしても 控えめな字だこと
 見逃すとこだったあ","Even if it is a modest letter
-I missed it",0.1875
-"An XYZ cocktail, right?",カクテルXYZ… あなたね,Cocktail XYZ ... You,0.25
-You must be really rich to reserve\Na whole restaurant like this.,ほんとリッチだねえ～,Really rich ~,0.15384615384615385
-This is one of the restaurants\Nmanaged by my father.,ここは 父が経営している店の１つです,This is one of the stores that my father runs,0.5384615384615384
-"I'm his daughter, Ayako.",へっ… かぅっ… ちゃっ ちゃっ… ん…,Hey ... I'm sorry ... I'm ...,0.2
+I missed it",0.1875,0.31791234
+"An XYZ cocktail, right?",カクテルXYZ… あなたね,Cocktail XYZ ... You,0.25,0.76973027
+You must be really rich to reserve\Na whole restaurant like this.,ほんとリッチだねえ～,Really rich ~,0.15384615384615385,0.37815982
+This is one of the restaurants\Nmanaged by my father.,ここは 父が経営している店の１つです,This is one of the stores that my father runs,0.5384615384615384,0.64202017
+"I'm his daughter, Ayako.",へっ… かぅっ… ちゃっ ちゃっ… ん…,Hey ... I'm sorry ... I'm ...,0.2,0.184185
 What could a leading young lady\Nsuch as yourself want with me?,"ほお～… で 天下のお嬢様が
 俺にどんなご用件？","Lodge of Tenka ...
-What kind of use to me?",0.15789473684210525
-"Well, it's just that...",そ それはその… あの…,That's that ... that ...,0.42857142857142855
+What kind of use to me?",0.15789473684210525,0.16976562
+"Well, it's just that...",そ それはその… あの…,That's that ... that ...,0.42857142857142855,0.4935541
 I want you to get Shogo\Nto quit his bosozoku!,"翔吾様に 暴走族を
 やめさせてほしいんです！","Running tribe in Shoji
-I want you to stop it!",0.3125
-Shogo?,しょっ 翔吾様？,Sho Sho Sho?,0.3333333333333333
-He saved my life.,わたくしの命の恩人なんです,I'm a lifetime of my life,0.2
+I want you to stop it!",0.3125,0.50163555
+Shogo?,しょっ 翔吾様？,Sho Sho Sho?,0.3333333333333333,0.6820203
+He saved my life.,わたくしの命の恩人なんです,I'm a lifetime of my life,0.2,0.25796378
 It would be terrible if he wrecked\Nand got a bump on his head!,"転んで頭にタンコブでも作ったら
 それこそ大変！","If you make it with Tankob with a tankob
-That's almost strange!",0.18181818181818182
+That's almost strange!",0.18181818181818185,0.15079863
 "I don't know the whole story here,","ね！ まっ あしからずと…
 じゃあねーん！","Hey!I do not know ...
-Well then!",0.2
+Well then!",0.2,0.24728224
 but I don't have time to waste on the\Nlove woes of some society girl.,"お嬢様の恋愛ごっこに
 つきあっていられるほど暇じゃないの","In the love of lady
-I'm not free to wear",0.125
-"Okay? No offense meant, but see you!",どうも ごっそさん！,Thank you very much!,0.15384615384615385
-I'll die!,うう… うっ… わたくし 死にます！,Uh ... Uh ... I will die!,0.42857142857142855
+I'm not free to wear",0.125,0.39160654
+"Okay? No offense meant, but see you!",どうも ごっそさん！,Thank you very much!,0.15384615384615385,0.11675967
+I'll die!,うう… うっ… わたくし 死にます！,Uh ... Uh ... I will die!,0.42857142857142855,0.7414896
 "Forget about that Shogo or\Nwhatever his name is,","あ あのねえ １つだけ
 すばらしい解決法があるんだ！","A that noone alone
-There is a wonderful solution!",0.125
+There is a wonderful solution!",0.125,0.08392492
 "wait three years, and I'll be\Nyour boyfriend for you!","翔吾とかいう奴のことは忘れて
 ３年待ったら 俺の恋人にしてあげるよ","Forget the guy who says Shoji
-If you wait for three years, I will make my lover",0.30434782608695654
-I'll die!\NI'll bite my own tongue and die!,死にます！ 舌をかんで死にます！,I will die!I will die with my tongue!,0.4166666666666667
-"Man, that's exactly why\NI don't like her type.",あら… だからこのタイプは嫌いよん…,Oh ... So this type is hate ...,0.05555555555555555
-What did you say?,なっ なんですってえ？,What is it?,0.2857142857142857
-Please! Become my girlfriend!,頼む！ 俺の恋人になってくれ！,ask!Become my lover!,0.42857142857142855
-"No, all you have to do is pretend\Nto be my girlfriend.",ん いや 恋人のふりをしてくれればいい,I should pretend to be a lover,0.1111111111111111
+If you wait for three years, I will make my lover",0.3043478260869565,0.50464714
+I'll die!\NI'll bite my own tongue and die!,死にます！ 舌をかんで死にます！,I will die!I will die with my tongue!,0.4166666666666667,0.8750604
+"Man, that's exactly why\NI don't like her type.",あら… だからこのタイプは嫌いよん…,Oh ... So this type is hate ...,0.05555555555555555,0.48780853
+What did you say?,なっ なんですってえ？,What is it?,0.2857142857142857,0.23370078
+Please! Become my girlfriend!,頼む！ 俺の恋人になってくれ！,ask!Become my lover!,0.42857142857142855,0.56822836
+"No, all you have to do is pretend\Nto be my girlfriend.",ん いや 恋人のふりをしてくれればいい,I should pretend to be a lover,0.1111111111111111,0.6018207
 End your love affairs yourself\Nif you're a man.,"ったくぅ… 恋の後始末くらい
 自分でつけなさいよ 男でしょ！","...
-Please put yourself a man!",0.13333333333333333
+Please put yourself a man!",0.13333333333333333,0.3351699
 It's not that! It's not like that!,"うちは恋人紹介センターしてんじゃ
 ないんだかんね！","My lover introduction center
-It's not!",0.4
+It's not!",0.4,0.29848063
 "About two months ago,","２ヶ月ほど前 チンピラにからまれている
 女を助けたんだ","Two months have been caught in the preceding chimpira
-I helped a woman",0.125
-"But ever since then,",ところがその女,But the woman,0.14285714285714285
+I helped a woman",0.125,0.26283535
+"But ever since then,",ところがその女,But the woman,0.14285714285714285,0.30357784
 Under the forgotten call of\Nthis creed we ride.,"仁・ 義・ 信 失われた美徳の名の下に
 俺たちは走る！","Under the name of the virtue that was lost,
-We run!",0.16666666666666666
-Do you belong to a bosozoku\Nby any chance?,あんた もしかして… 族？,Anyway ... Tribe?,0.08333333333333333
-Only the toughest.,第一 俺の恋人はバイクだけだ！,The first my lover is only a bike!,0.18181818181818182
-Mokkori!,なあ～ははは… モッコリ！,Ha ~ ... Mokkori!,0.4
+We run!",0.16666666666666666,0.402844
+Do you belong to a bosozoku\Nby any chance?,あんた もしかして… 族？,Anyway ... Tribe?,0.08333333333333333,0.32533854
+Only the toughest.,第一 俺の恋人はバイクだけだ！,The first my lover is only a bike!,0.18181818181818185,0.22773117
+Mokkori!,なあ～ははは… モッコリ！,Ha ~ ... Mokkori!,0.4,0.8993414
 Please! Just one day!,"頼む！ １日だけでいい
 恋人になってくれ！","ask!Only one day
-Become a lover!",0.3
+Become a lover!",0.3,0.33054638
 Is it okay with you if a young man\Nfull of promise commits suicide?,"いいのかあ？
 前途有望な若者が自殺してもお！","Is it okay?
-A promising young man commits suicide!",0.47058823529411764
-"Well, Mr. Saeba, please excuse me.",では 冴羽様 失礼いたします,"Well, I'm sorry",0.18181818181818182
-"One exceptionally fine, young lady.",究極のお嬢様… か…,Ultimate lady ... ...,0.1111111111111111
-Right! I really owe you for this!,どうか よろしくお願いいたします,Thank you for your consideration,0.18181818181818182
+A promising young man commits suicide!",0.4705882352941176,0.7666701
+"Well, Mr. Saeba, please excuse me.",では 冴羽様 失礼いたします,"Well, I'm sorry",0.18181818181818185,0.23239483
+"One exceptionally fine, young lady.",究極のお嬢様… か…,Ultimate lady ... ...,0.1111111111111111,0.41828552
+Right! I really owe you for this!,どうか よろしくお願いいたします,Thank you for your consideration,0.18181818181818185,0.2334562
 "Chief, I found out! I found out!","ヘッドオォーッ！
 分かった 分かりやしたよ！","Head Ow!
-I understand that I understand!",0.2
+I understand that I understand!",0.2,0.32795662
 I found out the identity of that girl\Nwho's been chasing after Shogo!,"翔吾を付け回していた
 女の正体が分かりやした！","I was turning to Shoji
-I understand the true body of the woman!",0.18181818181818182
+I understand the true body of the woman!",0.18181818181818185,0.5932439
 "That girl, she's the only daughter\Nof Genzo Rokumeikan,","そうかあ…
 こいつは面白いことに なりそうだあ","I see…
-This is funny that she is going to be funny",0.1111111111111111
+This is funny that she is going to be funny",0.1111111111111111,0.2710172
 "What could this dummy be thinking,\Nturning down a nice girl like this?","こんにゃろ 何考えてんだあ？
 こんな娘 ふろうなんて！","What are you thinking about?
-Such a daughter wow!",0.19047619047619047
-Fiancée?!,げえ！ かわいい！,!Tiny!,0.25
+Such a daughter wow!",0.19047619047619047,0.37629575
+Fiancée?!,げえ！ かわいい！,!Tiny!,0.25,0.2704132
 "If Shogo is happy,\Nthen I'm satisfied.","じ 実はよう 今日は俺のフィアンセの
 香を紹介しようと思ってなあ","In fact, today is my fiansse
-I'm thinking of introducing incense",0.21052631578947367
-That's nice!,いいんです…,it's okay…,0.16666666666666666
-Ayako...,ううっ… う… うう…,Uh ... u ...,0.25
+I'm thinking of introducing incense",0.21052631578947367,0.095881745
+That's nice!,いいんです…,it's okay…,0.16666666666666666,0.35331416
+Ayako...,ううっ… う… うう…,Uh ... u ...,0.25,0.22557881
 "Hey, that's not what I signed on for!\NShe's a nice girl!","ねえっ！ だいぶ話が違うじゃない！
 いいお嬢さんじゃないのお！","Hey!The story is not different!
-It's not good!",0.19047619047619047
-You're still my girlfriend\Nfor the whole day!,あんたは まだ今日１日俺の恋人だ！,Anya is still my lover today!,0.23076923076923078
-I'll show you how a Kariosutoro rides!,狩押忍党狼の走りを見せてやるぜえっ！,Show how to run the trail of the hilling party!,0.1875
-Stop!,きゃあー！ やめてえーっ！,Oh!Stop it!,0.5
-"Shogo, I wish you the best.\NI will become a nun.",翔吾様 お幸せに… 綾子は尼になります,Sho Sao ... Happy ... Ayako will be a niece,0.10526315789473684
+It's not good!",0.19047619047619047,0.25971076
+You're still my girlfriend\Nfor the whole day!,あんたは まだ今日１日俺の恋人だ！,Anya is still my lover today!,0.2307692307692308,0.37445268
+I'll show you how a Kariosutoro rides!,狩押忍党狼の走りを見せてやるぜえっ！,Show how to run the trail of the hilling party!,0.1875,0.29048342
+Stop!,きゃあー！ やめてえーっ！,Oh!Stop it!,0.5,0.7542001
+"Shogo, I wish you the best.\NI will become a nun.",翔吾様 お幸せに… 綾子は尼になります,Sho Sao ... Happy ... Ayako will be a niece,0.10526315789473684,0.44707406
 Shogo sent us. He wants to meet you.,"俺たちは翔吾の使いだあ
 奴があんたに会いたがってる","We are using Shoji
-The guy wants to meet you",0.26666666666666666
-Have some oil!,オイルでもくらいな！ へっ！,Oil too!Hey!,0.3333333333333333
-Who are you?,何者だ？ 貴様！,Who are you?you!,0.8
-It's as good a name as any.,暴走族 一匹狼！ とでも言っておこう,A runaway family!Let's say,0.15384615384615385
-What do you want?,ええ！ ど どうしてリョウがあ？,Yes!How do you do?,0.375
+The guy wants to meet you",0.26666666666666666,0.71381855
+Have some oil!,オイルでもくらいな！ へっ！,Oil too!Hey!,0.3333333333333333,0.5881051
+Who are you?,何者だ？ 貴様！,Who are you?you!,0.8,0.821332
+It's as good a name as any.,暴走族 一匹狼！ とでも言っておこう,A runaway family!Let's say,0.15384615384615385,0.12530833
+What do you want?,ええ！ ど どうしてリョウがあ？,Yes!How do you do?,0.375,0.20841143
 "I want a duel. If I win, Kariosutoro\Ndisbands as of tonight.","俺が勝ったら 今夜限りで
 狩押忍党狼は解散する！","If I win, it is only tonight tonight
-Hunting party will break up!",0.23809523809523808
-And if we win?,へっ！ こっちが勝ったら？,Hey!What if this won?,0.2
-My life and my machine are yours.,俺の命 バイクごとくれてやる！,I will give me my life bike!,0.15384615384615385
-Leave him to me.,任せろ,Leave,0.2
-Him!,翔吾 相手をしてやれ！,Shoji and do it!,0.16666666666666666
+Hunting party will break up!",0.2380952380952381,0.41059896
+And if we win?,へっ！ こっちが勝ったら？,Hey!What if this won?,0.2,0.4671559
+My life and my machine are yours.,俺の命 バイクごとくれてやる！,I will give me my life bike!,0.15384615384615385,0.4404093
+Leave him to me.,任せろ,Leave,0.2,0.4727776
+Him!,翔吾 相手をしてやれ！,Shoji and do it!,0.16666666666666666,0.26221275
 "Okay, whoever makes it to the\Nend of this road first wins.","いいか この道路の先端に
 先にたどりついた方が勝ちだ","Good or at the tip of this road
-The one who came first won",0.18181818181818182
+The one who came first won",0.18181818181818185,0.6232829
 by this guy who burned rubber all the\Nway without using his brakes.,"ブレーキをかけずに突っ込んで
 俺に勝った奴が１人いる","Plush without braking
-There is one person who won me",0.09523809523809523
+There is one person who won me",0.09523809523809523,0.3252154
 and is lying in some hospital bed now.,"もっとも そいつは 地面とキスして
 今は病院のベッドの上だがな","The most likely is kissing with the ground
-Now it's on the hospital bed",0.2222222222222222
+Now it's on the hospital bed",0.2222222222222222,0.5600797
 "If you lose, no more running\Nfrom that young lady.","おたくが負けたら
 お嬢様は引き取ってもらうぜ","If you lose
-Lady gets over",0.3076923076923077
-You! Did Ayako put you up to this?,うっ！ きっ 貴様！ 綾子に頼まれて？,Uh!Come!Are you asked by Aiko?,0.2
-Ryo!,リョウ…,Ryo ...,0.3333333333333333
+Lady gets over",0.3076923076923077,0.51085186
+You! Did Ayako put you up to this?,うっ！ きっ 貴様！ 綾子に頼まれて？,Uh!Come!Are you asked by Aiko?,0.2,0.5979916
+Ryo!,リョウ…,Ryo ...,0.3333333333333333,0.80024576
 "Chief, we did it!","-はん？
 -やりましたぜえ！","-stamp?
-- I did it!",0.3
-Ayako!,綾子！,Ayako!,1.0
-This duel's postponed!,ほっとけ！ あんなもの！,Hallow!That's something like that!,0.2222222222222222
-What the heck's going on?,あれえ？ どうなってんのお？,What?What's wrong?,0.375
-How should I know?!,どーすんのよお！,How is it!,0.25
-What am I going to do?,あ どうしよう…,What to do ...,0.375
+- I did it!",0.3,0.41153467
+Ayako!,綾子！,Ayako!,1.0,1.0000002
+This duel's postponed!,ほっとけ！ あんなもの！,Hallow!That's something like that!,0.2222222222222222,0.3083936
+What the heck's going on?,あれえ？ どうなってんのお？,What?What's wrong?,0.375,0.36604592
+How should I know?!,どーすんのよお！,How is it!,0.25,0.22636212
+What am I going to do?,あ どうしよう…,What to do ...,0.375,0.32881007
 "Aren't we supposed to be riding\Nfor Virtue, Honor and Truth?","俺たちは 仁・ 義・ 信の名の下に
 走るんじゃなかったのかぁ！","We are under the name of Nito, Imprint and Credit
-I did not run!",0.16
-but with Rokumeikan it's\Na whole other story!,だが 相手が鹿鳴館となれば 話は別だ,But the story is different if the other party is a deer kan,0.1875
-What?! What do you mean?,どういうことだ？ 仁義！,What does it mean? Justice!,0.4444444444444444
-We need us a war chest.,俺たちには軍資金が必要だ,We need military funds,0.2222222222222222
+I did not run!",0.16,0.14823754
+but with Rokumeikan it's\Na whole other story!,だが 相手が鹿鳴館となれば 話は別だ,But the story is different if the other party is a deer kan,0.1875,0.37134895
+What?! What do you mean?,どういうことだ？ 仁義！,What does it mean? Justice!,0.4444444444444444,0.18503582
+We need us a war chest.,俺たちには軍資金が必要だ,We need military funds,0.2222222222222222,0.50427794
 Some creed alone ain't enough to\Nget ya through in the real world.,"理想だけじゃ 今の世の中
 生きていけねえんだよ！","Ideal only in the world
-I can not live!",0.14285714285714285
+I can not live!",0.14285714285714285,0.27040127
 I'm sorry about what's happened.,"-ぬぅ… ほらよっ！
 -あっ… うっ…","-Nuhu ... I'm sorry!
--A ... Uh ...",0.23076923076923078
-I don't mind. I'm happy to just\Nbe close to you like this.,済まない… こんなことになってぇ…,I can not finish ... I'm going to do this ...,0.2777777777777778
-"Look, we can see the moon from here.",ほら ここからは お月様が見えましてよ,You can see the moon from here,0.5454545454545454
-Being able to see the moon with you\Nmakes it more beautiful.,翔吾様と見るお月様って とってもきれい,It is very beautiful to see the moon,0.42857142857142855
+-A ... Uh ...",0.2307692307692308,0.36478695
+I don't mind. I'm happy to just\Nbe close to you like this.,済まない… こんなことになってぇ…,I can not finish ... I'm going to do this ...,0.2777777777777778,0.31786522
+"Look, we can see the moon from here.",ほら ここからは お月様が見えましてよ,You can see the moon from here,0.5454545454545454,0.9284141
+Being able to see the moon with you\Nmakes it more beautiful.,翔吾様と見るお月様って とってもきれい,It is very beautiful to see the moon,0.42857142857142855,0.6145337
 "Whoa, man! Is this all the real thing?","うっひょ～！ すご～いっ！
 これみんな本物？","Ho ~!I'm going!
-This is the real thing?",0.4375
-"A modern-day mystery of\Nfrightening proportions,",香に恋人役を頼むとは なんて奴だあ,It is a guy when asking for a lover to incense,0.06666666666666667
-a fin-de-siecle example of bad taste.,もちろんでございます,Of course,0.125
-"Oh, really?",あ～～っ！,Oh ~ ~!,0.16666666666666666
+This is the real thing?",0.4375,0.58031595
+"A modern-day mystery of\Nfrightening proportions,",香に恋人役を頼むとは なんて奴だあ,It is a guy when asking for a lover to incense,0.06666666666666668,0.13458641
+a fin-de-siecle example of bad taste.,もちろんでございます,Of course,0.125,0.052355625
+"Oh, really?",あ～～っ！,Oh ~ ~!,0.16666666666666666,0.3355032
 "Sorry for not being some sweet,\Nyoung society girl!","どうせ あたしゃ お嬢様じゃないわよ！
 一生そこで埋まってろっ！ ふんっ！","Anyway, it's not a lady!
-Life is filled with it!Fun!",0.14285714285714285
-That sound?!,ん！ あの音は？,Hmm!What is that sound?,0.5714285714285714
-"Yo, Miss Ayako, are you okay?",は… お任せして大丈夫なんだろうか？,Is it okay to leave it?,0.16666666666666666
-You?!,冴羽様！,Song-sama!,0.25
-"Yeah, right here.",ああ ここにある,Oh here is here,0.14285714285714285
+Life is filled with it!Fun!",0.14285714285714285,0.3773763
+That sound?!,ん！ あの音は？,Hmm!What is that sound?,0.5714285714285714,0.720721
+"Yo, Miss Ayako, are you okay?",は… お任せして大丈夫なんだろうか？,Is it okay to leave it?,0.16666666666666666,0.22471386
+You?!,冴羽様！,Song-sama!,0.25,0.19855116
+"Yeah, right here.",ああ ここにある,Oh here is here,0.14285714285714285,0.43725657
 "Hey, where did Shogo go? Hey!","い いない！ おいおい
 翔吾 どこ行ったんだ？","Not!little by little
-Where did Shoji went?",0.3076923076923077
-"Wow, look at that!",おい！,Oi!,0.14285714285714285
-Is all that really ours?!,ほんとに これが俺たちのもんかよ！,This is really us!,0.3333333333333333
-I can't believe it!,たーまんねえなあ！,It's a nice!,0.2222222222222222
-"Hate to tell ya, but it ain't\Ngonna be that easy.",へっへっへ… 残念だが そうはいかねえ,"Hehehe ... Sorry, but so much",0.11764705882352941
-Really? What are you saying?,お嬢様を返していただこうか,Will you return a lady?,0.2
-"Man, not bad at all, Shogo.",まわ 翔吾ちゃん やるじゃない,I'm not going to Shogo,0.16666666666666666
-"Go, Shogo!",うわぁっ！,Wow!,0.2
-How do you make this thing go?,う… これ どうすれば動くの？,Uh ... How do this moves?,0.36363636363636365
-"Ayako, are you okay?",綾子 大丈夫か？,Is Ayako okay?,0.42857142857142855
-I wonder if you'll let me join\Nthese folks here?,俺も仲間に入れてくんないかなあ,I wonder if I will get a friend,0.2
-Bastard!,天ちゅーーっ！,Henau!,0.3333333333333333
-Here!,うりゃ！,Urimi!,0.3333333333333333
-Money! Money!,うっ ああーっ！,Um!,0.3333333333333333
-The fun and games are over.,ガキのお遊びは おしまいだ,The play of the oyster is over,0.18181818181818182
+Where did Shoji went?",0.3076923076923077,0.5950871
+"Wow, look at that!",おい！,Oi!,0.14285714285714285,0.22645065
+Is all that really ours?!,ほんとに これが俺たちのもんかよ！,This is really us!,0.3333333333333333,0.5030861
+I can't believe it!,たーまんねえなあ！,It's a nice!,0.2222222222222222,0.1989349
+"Hate to tell ya, but it ain't\Ngonna be that easy.",へっへっへ… 残念だが そうはいかねえ,"Hehehe ... Sorry, but so much",0.1176470588235294,0.17821199
+Really? What are you saying?,お嬢様を返していただこうか,Will you return a lady?,0.2,0.07217167
+"Man, not bad at all, Shogo.",まわ 翔吾ちゃん やるじゃない,I'm not going to Shogo,0.16666666666666666,0.69869655
+"Go, Shogo!",うわぁっ！,Wow!,0.2,0.21286593
+How do you make this thing go?,う… これ どうすれば動くの？,Uh ... How do this moves?,0.3636363636363637,0.5263599
+"Ayako, are you okay?",綾子 大丈夫か？,Is Ayako okay?,0.42857142857142855,0.8802229
+I wonder if you'll let me join\Nthese folks here?,俺も仲間に入れてくんないかなあ,I wonder if I will get a friend,0.2,0.42993566
+Bastard!,天ちゅーーっ！,Henau!,0.3333333333333333,0.32987055
+Here!,うりゃ！,Urimi!,0.3333333333333333,0.3783643
+Money! Money!,うっ ああーっ！,Um!,0.3333333333333333,0.28415766
+The fun and games are over.,ガキのお遊びは おしまいだ,The play of the oyster is over,0.18181818181818185,0.46998912
 "Unless you want to ride that bike\Nacross the River Styx, that is.","長生きしたければ ２度とその面を
 俺の前に現さないこった","If you want to live long,
-I did not appear in front of me",0.16666666666666666
-Mama!,ママァ～ッ！,Mama ~!,0.6666666666666666
+I did not appear in front of me",0.16666666666666666,0.15971987
+Mama!,ママァ～ッ！,Mama ~!,0.6666666666666666,0.8899484
 Great! We took care of two jobs\Nat one stroke!,"ふふ やったね！ いっぺんに
 依頼が２つも片づいちゃったあ","It was fun!At once
-Two requests have come out",0.10526315789473684
+Two requests have come out",0.10526315789473684,0.32831278
 "Look, Shogo, there's a really\Npretty star over there too.","ほら 翔吾様 あそこにも
 あんなに きれいなお星様が…","Ho Sho Sao As there
-So she is a beautiful star ...",0.15
+So she is a beautiful star ...",0.15,0.47343442
 It looks like my role in this drama\Nwas minor from start to finish.,"なーんか今回 最初から最後まで
 脇役だったみたい","Nauma this time from the beginning to the end
-It seems that it was a side of a side",0.16
-"No whining, no whining.",あ～あ…,Oh ...,0.0
-"Ryo, look! Look!",リョウ ちょっと！ あれあれ！,Ryo a little!That!,0.2857142857142857
-"Shogo, can't we go a little faster?",翔吾様ぁ もう少し飛ばしませんこと？,"Shozu-sama, do you not fly a little more?",0.25
+It seems that it was a side of a side",0.16,0.20519817
+"No whining, no whining.",あ～あ…,Oh ...,0.0,0.0868528
+"Ryo, look! Look!",リョウ ちょっと！ あれあれ！,Ryo a little!That!,0.2857142857142857,0.6729719
+"Shogo, can't we go a little faster?",翔吾様ぁ もう少し飛ばしませんこと？,"Shozu-sama, do you not fly a little more?",0.25,0.4309918
 What?! A duel to see who's\Nthe best sweeper?!,"ええ？ スイーパーの
 ナンバー１を懸けて勝負？","Yes?Sweeper
-A game with the number 1?",0.1875
-"I was helping Saeko who was playing\Nthe decoy in an assassination plot,",見初められちゃったんだよ 奴に,I was watching it,0.14285714285714285
-"Michael Gallant, the best\Nin the business.",マイケル・ガーラント その道のトップ,Top of Michael Garland That Road,0.08333333333333333
-What?! Can you handle him?!,ええ！ 自信あんの？,Yes!Are you confident?,0.3
+A game with the number 1?",0.1875,0.49127343
+"I was helping Saeko who was playing\Nthe decoy in an assassination plot,",見初められちゃったんだよ 奴に,I was watching it,0.14285714285714285,0.33279252
+"Michael Gallant, the best\Nin the business.",マイケル・ガーラント その道のトップ,Top of Michael Garland That Road,0.08333333333333333,0.4602867
+What?! Can you handle him?!,ええ！ 自信あんの？,Yes!Are you confident?,0.3,0.13202196
 "So Saeko, I'm collecting on all\Nthose past debts right now!","だから 冴子ー！
 今までの貸し 全部返せよお！","So something!
-I'll return all the lending so far!",0.15
+I'll return all the lending so far!",0.15,0.5280809
 "City Hunter: ""Don't Die, Ryo!\NHard Boiled Magnum""","「リョウ死なないで！！
 ハードボイルドマグナム」","""Don't die!!
-Hard Boyd Magnum",0.375
+Hard Boyd Magnum",0.375,0.52227855

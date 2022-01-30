@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.24774589
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.60482836
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,7 +68,7 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.5518779
 Tenten vs. Temari,"テンテン
  
 テマリ
@@ -81,11 +81,11 @@ Tenten vs. Temari,"テンテン
 Temari
  
 Forward
-.",0.4
+.",0.4,0.7039298
 The fifth battle...,"(ﾊﾔﾃ)
 第５回戦➡
 
-",5th battle ➡,0.16666666666666666
+",5th battle ➡,0.16666666666666666,0.7520289
 "Now... The second one from
 the Land of Sand, huh...","(
 ネジ
@@ -100,7 +100,7 @@ the Land of Sand, huh...","(
  
 The second person of the sand country
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.68603086
 "- Tenten!
 - It looks like it's going to be interesting.","おもしろい試合になりそうだな
 ｡
@@ -116,7 +116,7 @@ The second person of the sand country
 
 It is Gamba!
  
-Tenten!",0.4117647058823529
+Tenten!",0.4117647058823529,0.48660445
 "Go for it, Tenten!","(
 リー
 )
@@ -126,7 +126,7 @@ Tenten!",0.4117647058823529
 
 ","It is a fight
  
-Tente-N!",0.2
+Tente-N!",0.2,0.41635555
 "Believe in your own strength, Tenten!","(
 ガイ
 )
@@ -136,14 +136,14 @@ Tente-N!",0.2
 
 ","Believe the power of
  
-Tenten!",0.2727272727272727
+Tenten!",0.2727272727272727,0.7661769
 Knock her with all your strength!,"全力で
  
 ぶつかってくださ～い！
 
 ","With full force
  
-Please hit me!",0.16666666666666666
+Please hit me!",0.16666666666666666,0.4317571
 "Cheer her on more, more,
 more with passion, Lee!","(
 ガイ
@@ -160,13 +160,13 @@ more with passion, Lee!","(
 More
 More hot and more
  
-Lee!",0.23076923076923078
+Lee!",0.2307692307692308,0.5388079
 Yeah!,"(
 ガイ
 )
 行け行け～！
 
-",Go!,0.3333333333333333
+",Go!,0.3333333333333333,0.36859846
 These guys are noisy!,"(ﾅﾙﾄ)
 ん～
  
@@ -176,7 +176,7 @@ These guys are noisy!,"(ﾅﾙﾄ)
 ","~
  
 These guys
-If you're going to go!",0.25
+If you're going to go!",0.25,0.3690273
 "That spacing is just what I'd expect
 from Tenten,","(
 猿飛
@@ -187,7 +187,7 @@ from Tenten,","(
 
 ","The relationship between that tenten is
 That's right
-.",0.17647058823529413
+.",0.17647058823529413,0.64368397
 "not too close, not too far.","近すぎず
  
 遠すぎず
@@ -198,7 +198,7 @@ That's right
  
 Too far
 .
-➡",0.375
+➡",0.375,0.6946005
 Please begin.,"(ﾊﾔﾃ)
 どうしました？
 始めてください
@@ -206,7 +206,7 @@ Please begin.,"(ﾊﾔﾃ)
 
 ","What's wrong?
 Please start
-.",0.25
+.",0.25,0.6046952
 "Are you planning to wait out and
 see how I make my move?","(ﾃﾏﾘ)
 フン
@@ -217,13 +217,13 @@ see how I make my move?","(ﾃﾏﾘ)
 ","Hung
  
 we will see
-How is it?",0.15789473684210525
+How is it?",0.15789473684210525,0.22270148
 "once I start my attack
 you'll be over in a second.","あんたは一瞬で終わる
 ｡
 
 ","It ends in a moment
-.",0.1875
+.",0.1875,0.37167412
 "It doesn't matter to me, come first.","100
 年
  
@@ -240,7 +240,7 @@ Quickly
 Because it does not matter
  
 Come ahead
-.",0.3125
+.",0.3125,0.28021365
 "What happened?
 Is that a warm up?","どうした？
  
@@ -248,7 +248,7 @@ Is that a warm up?","どうした？
 
 ","What happened?
  
-Is this a small hand?",0.45454545454545453
+Is this a small hand?",0.4545454545454545,0.3379406
 "I thought I would enjoy it
 a little bit more,","もう少し
  
@@ -256,23 +256,23 @@ a little bit more,","もう少し
 
 ","A little more
  
-I thought I could enjoy it",0.6363636363636364
+I thought I could enjoy it",0.6363636363636364,0.8727219
 but evidently it's not promising.,"(ﾃﾝﾃﾝ)
 言ってくれるじゃない
 ｡
 
 ","I'm not saying
-.",0.2
+.",0.2,0.18682073
 No way!,"ハッ！
 
-",Ha!,0.25
+",Ha!,0.25,0.37546647
 I can't believe Tenten's attack missed!,"そんな！
 テンテンの攻撃が外れるなんて
 ｡
 
 ","Such!
 Tenten's attack is out of attack
-.",0.2857142857142857
+.",0.2857142857142857,0.83452314
 "That's right...
 She didn't miss.","外れるわけがない
 ｡
@@ -286,7 +286,7 @@ She didn't miss.","外れるわけがない
 .
 
 That's how it is
-.",0.2
+.",0.2,0.1258294
 She was made to miss.,"外れたんじゃない
  
 外されたんだ
@@ -295,10 +295,10 @@ She was made to miss.,"外れたんじゃない
 ","I'm not going out
  
 It was removed
-.",0.15384615384615385
+.",0.15384615384615385,0.032033127
 Huh?,"えっ!?
 
-",eh!?,0.25
+",eh!?,0.25,0.66473716
 Sand wins again.,"また
  
 砂の勝ちだ
@@ -307,7 +307,7 @@ Sand wins again.,"また
 ","also
  
 Sand wins
-.",0.6
+.",0.6,0.82577753
 We know.,"分かんだよ
 ｡
 何でだよ？
@@ -318,10 +318,10 @@ We know.,"分かんだよ
 .
 What is it?
  
-What can we know?",0.2727272727272727
+What can we know?",0.2727272727272727,0.30175608
 Explain it so I understand!,"俺に分かるように説明しろよ！
 
-",Please explain it to be understood!,0.3
+",Please explain it to be understood!,0.3,0.76118904
 "Stupid... As if I'd do
 such a bothersome thing.","(ｶﾝｸﾛｳ)
 あいつ
@@ -334,7 +334,7 @@ such a bothersome thing.","(ｶﾝｸﾛｳ)
  
 As usual
 I have a good character
-.",0.2222222222222222
+.",0.2222222222222222,0.10827909
 "Shikamaru said it so,
 surely that's how it is.","(ﾁｮｳｼﾞ)
 シカマルが
@@ -351,7 +351,7 @@ If you say so
 surely
  
 Is it so
-.",0.42857142857142855
+.",0.42857142857142855,0.7477498
 <i>Calm down...</i>,"(ﾃﾝﾃﾝ)
 《落ち着くのよ
 ｡
@@ -359,7 +359,7 @@ Is it so
 
 ","""I'm calm
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.6241081
 <i>Don't let her get to you...</i>,"ば～か
 んな
  
@@ -370,14 +370,14 @@ Is it so
 In
  
 Can you do anything?
-.",0.1111111111111111
+.",0.1111111111111111,0.14891881
 <i>Three...</i>,"３つ…
 ｡
 ➡
 
 ","Three ...
 .
-➡",0.25
+➡",0.25,0.7509539
 "<i>So, that fan is the secret.</i>","(ﾃﾝﾃﾝ)
 《そうか
 あの扇子がタネってわけね
@@ -387,10 +387,10 @@ Can you do anything?
 ","""Really
 That fan is taned
 .
-➡",0.1875
+➡",0.1875,0.4393477
 <i>If so...</i>,"だったら…》
 
-","If so ... """,0.375
+","If so ... """,0.375,0.46360743
 How about... this?!,"(ﾃﾝﾃﾝ)
 これで
  
@@ -398,20 +398,20 @@ How about... this?!,"(ﾃﾝﾃﾝ)
 
 ","with this
  
-copper?",0.25
+copper?",0.25,0.14605851
 My flying weapons!,"そんな！
  
 私の飛び道具が！➡
 
 ","Such!
  
-My flying tool is!➡",0.375
+My flying tool is!➡",0.375,0.657855
 "<i>Is there a secret mechanism</i>
 <i>in the fan?</i>","あの扇子にカラクリが…
 ｡
 
 ","I have a karakuri to that fan ...
-.",0.15789473684210525
+.",0.15789473684210525,0.32159713
 This is...,"フフ…
  
 これが一の星
@@ -424,29 +424,29 @@ This is...,"フフ…
 This is one star
  
 Two more
-.",0.3333333333333333
+.",0.3333333333333333,0.25538677
 "When the third star appears,","３つの星が見えたとき➡
 
-",When three stars were seen ➡,0.09090909090909091
+",When three stars were seen ➡,0.09090909090909093,0.7346068
 you will lose.,"お前は負ける
 ｡
 
 ","You lose
-.",0.75
+.",0.75,0.75083077
 Tenten!,"テンテン！
 相手にのまれてはダメです！
 
 ","Tenten!
-It is no good for the other party!",0.2
+It is no good for the other party!",0.2,0.61664027
 "<i>Lee, I really intended to use</i>
 <i>this in the main battle,</i>","本選で使うつもり
 だったんだけど➡
 
 ","I intend to use in a main election
-It was, but ➡",0.2727272727272727
+It was, but ➡",0.2727272727272727,0.38585848
 <i>but it looks like I can't do it that way.</i>,"そうも言ってられないみたい》
 
-",It seems that I can not say that,0.17647058823529413
+",It seems that I can not say that,0.17647058823529413,0.1094577
 What does she intend to do?,"巻物
  
 ２本出して
@@ -455,7 +455,7 @@ What does she intend to do?,"巻物
 ","Scroll
  
 In two
-What's going to do?",0.3333333333333333
+What's going to do?",0.3333333333333333,0.1869032
 "Hah! No matter what you do,
 it won't work.","あっ
 ｡
@@ -473,35 +473,35 @@ it won't work.","あっ
 Already
  
 Do you use that
-.",0.17647058823529413
+.",0.17647058823529413,0.3368203
 "Even if you increase the amount,
 it's still the same!","同じことだ！
 
-",It is the same!,0.3076923076923077
+",It is the same!,0.3076923076923077,0.43447852
 Second star!,"(ﾃﾝﾃﾝ)
 ハッ！
 
-",Ha!,0.25
+",Ha!,0.25,0.19824567
 I'm not done yet!,"まだまだ！
  
 ハッ！
 
 ","not yet!
  
-Ha!",0.42857142857142855
+Ha!",0.42857142857142855,0.5139644
 <i>Did I do it?</i>,"(ﾃﾝﾃﾝ)
 《やったか？》
 
-","""Do you do it?""",0.2727272727272727
+","""Do you do it?""",0.2727272727272727,0.33898914
 Third star.,"三の星
 ｡
 
 ","Three stars
-.",0.2
+.",0.2,0.8502681
 Where is she?,"(ﾃﾝﾃﾝ)
 どこだ？
 
-",Where's?,0.4
+",Where's?,0.4,0.41776532
 I'm over here!,"(ﾃﾏﾘ)
 ここだよ！
 (ﾃﾝﾃﾝ)
@@ -509,20 +509,20 @@ I'm over here!,"(ﾃﾏﾘ)
 
 ","here!
 
-""Oops!""",0.25
+""Oops!""",0.25,0.4186279
 Chakra is enfolded in that wind.,"あの風には
 チャクラが練り込まれている
 ｡
 
 ","That wind
 Chakra is kneaded
-.",0.625
+.",0.625,0.8275703
 Huh?!,"(
 リー
 )
 え!?
 
-",Huh!?,1.0
+",Huh!?,1.0,0.9247391
 <i>Tenten fought well...</i>,"(
 ネジ
 )
@@ -536,7 +536,7 @@ Huh?!,"(
  
 I fought well
 .
-➡",0.4
+➡",0.4,0.81270224
 T-That's awful.,"ひ…
  
 ひでぇってばよ
@@ -545,7 +545,7 @@ T-That's awful.,"ひ…
 ","fire…
  
 Hidey
-.",0.16666666666666666
+.",0.16666666666666666,0.13693526
 How boring... really.,"つまらないな
  
 ホントに
@@ -554,7 +554,7 @@ How boring... really.,"つまらないな
 ","Boring
  
 Really
-.",0.6
+.",0.6,0.8501487
 "To think she completely intercepted
 Tenten's weapon attacks.","テンテンの武器攻撃を
 完全に封じるとは
@@ -562,7 +562,7 @@ Tenten's weapon attacks.","テンテンの武器攻撃を
 
 ","Tenten weapon attack
 It is completely sealed
-.",0.2857142857142857
+.",0.2857142857142857,0.51448303
 That's why I said it.,"やっぱ
  
 シカマルが言ったとおり
@@ -573,7 +573,7 @@ That's why I said it.,"やっぱ
  
 As I said that Shikamaru said
 It wins sand
-.",0.38461538461538464
+.",0.38461538461538464,0.24502943
 There's no reason for us to lose here.,"俺らが
  
 こんなとこで
@@ -584,7 +584,7 @@ There's no reason for us to lose here.,"俺らが
  
 In this
 I can not lose
-.",0.2
+.",0.2,0.60514253
 Temari wins the fifth battle.,"(ﾊﾔﾃ)
 第５回戦
  
@@ -598,13 +598,13 @@ Temari wins the fifth battle.,"(ﾊﾔﾃ)
 winner
  
 Temari
-.",0.7142857142857143
+.",0.7142857142857143,0.9273248
 "Is that something you do to
 an opponent who fought to the utmost?!","それが死力を尽くして戦った
 相手にすることですか!?
 
 ","It fought for the dead
-Is it the other party?",0.21052631578947367
+Is it the other party?",0.21052631578947367,0.31337482
 Take that trash away already!,"(ﾃﾏﾘ)
 うるせぇな
  
@@ -614,14 +614,14 @@ Take that trash away already!,"(ﾃﾏﾘ)
 ","Unhappy
  
 Poster
-Take the heppoko!",0.2
+Take the heppoko!",0.2,0.22665212
 Stop! Lee!,"よせ！
  
 リー！
 
 ","Yes!
  
-Lee!",0.5
+Lee!",0.5,0.7630474
 Leaf Hurricane!,"(
 リー
 )
@@ -629,7 +629,7 @@ Leaf Hurricane!,"(
 あっ！
 
 ","Taiwan leaf play!
-Ah!",0.3333333333333333
+Ah!",0.3333333333333333,0.4999507
 What?!,"(
 リー
 )
@@ -639,7 +639,7 @@ What?!,"(
 
 ","what!?
 
-Visiting ➡",0.6
+Visiting ➡",0.6,0.34425783
 What did you say?!,"やっぱり
  
 あんたも鈍いんだな
@@ -654,13 +654,13 @@ What did you say?!,"やっぱり
 I'm dull
 .
 
-What did you say!?",0.46153846153846156
+What did you say!?",0.4615384615384616,0.33461517
 Temari.,"(ﾃﾏﾘ)
 チッ
 ｡
 
 ","Chick
-.",0.3333333333333333
+.",0.3333333333333333,0.170056
 "Don't keep company with that awful-looking
 guy and his chaperone forever.","いつまでも
  
@@ -672,7 +672,7 @@ guy and his chaperone forever.","いつまでも
  
 So much
 Don't do the partner of the guardian companion
-.",0.23809523809523808
+.",0.2380952380952381,0.33796746
 "That's enough, Lee.","もういいだろう
  
 リー
@@ -681,25 +681,25 @@ Don't do the partner of the guardian companion
 ","It will be good
  
 Lee
-.",0.2
+.",0.2,0.5964914
 Gentlemen of Sand...,"砂の諸君
 ｡
 
 ","Sand
-.",0.2
+.",0.2,0.6516748
 "I wonder if I may give you
 a word of warning.","勝ち名乗りは受けたんだ
 ｡
 
 ","I received a winning name
-.",0.21428571428571427
+.",0.21428571428571427,0.19582266
 This kid is strong.,"この子は強いよ
 覚悟しといたほうがいい
 ｡
 
 ","This child is strong
 It is better to be prepared
-.",0.36363636363636365
+.",0.3636363636363637,0.7268586
 "I absolutely wouldn't want to
 do it with those guys.","俺だったら
  
@@ -715,7 +715,7 @@ absolutely
 With guy
  
 I'm sorry
-.",0.23529411764705882
+.",0.2352941176470588,0.4084045
 Naruto!,"≪
 (ｻｸﾗ)
 あんなヤツらに
@@ -728,7 +728,7 @@ Naruto!,"≪
 In such guys
 I'm not losing
  
-Naruto!",0.2
+Naruto!",0.2,0.715981
 "Never mind that,
 you should worry about yourself!","そんなことより
 あんた
@@ -740,7 +740,7 @@ you should worry about yourself!","そんなことより
 Aunt
  
 Don't worry about yourself
-.",0.16666666666666666
+.",0.16666666666666666,0.5064857
 That's not what I mean.,"別に
  
 どこも
@@ -753,7 +753,7 @@ That's not what I mean.,"別に
 everywhere
  
 I have not caught it
-.",0.25
+.",0.25,0.12189313
 "If you lose here, it's a point of dishonor.","違うわよ！
  
 こんなとこで
@@ -768,7 +768,7 @@ In this
 When lost
  
 A man gets abolished
-.",0.19047619047619047
+.",0.19047619047619047,0.23391289
 Y-Yeah.,"あっ
  
 サクラちゃん
@@ -777,23 +777,23 @@ Y-Yeah.,"あっ
 ","Ah
  
 Sakura-chan
-.",0.25
+.",0.25,0.2890733
 And...,"それと…➡
 
-",And ... ➡,0.6666666666666666
+",And ... ➡,0.6666666666666666,0.770925
 <i>Sakura!</i>,"＜ダメだ～！
  
 サクラちゃ～ん！➡
 
 ","<It is useless!
  
-Sakura!➡",0.3
+Sakura!➡",0.3,0.75805306
 "<i>You'll disgrace women if</i>
 <i>you lose to that Sasuke obsessed girl!</i>","サスケばか女なんかに負けたら
 女が廃るぞ！＞
 
 ","If it loses to Sasuke ore woman
-Women will get lost!>",0.2608695652173913
+Women will get lost!>",0.2608695652173913,0.7692366
 "If it weren't for your stupid cheering
 at that time...","あの時
  
@@ -803,7 +803,7 @@ at that time...","あの時
 ","That time
  
 I like it
-If there is no cheering",0.29411764705882354
+If there is no cheering",0.29411764705882354,0.66422254
 "Next!
 Next is my turn!","次
  
@@ -817,10 +817,10 @@ Next is my turn!","次
 me!
 next…
  
-Next me!",0.2857142857142857
+Next me!",0.2857142857142857,0.74358374
 Damn!,"こいつ！
 
-",this guy!,0.25
+",this guy!,0.25,0.31674823
 It's me.,"私
  
 いのに
@@ -831,7 +831,7 @@ It's me.,"私
  
 In
 Maybe it loses
-.",0.42857142857142855
+.",0.42857142857142855,0.3001385
 "- Show us that you're a real man!
 - All right, all right.","男を見せろ～！
 (ｼｶﾏﾙ)
@@ -841,7 +841,7 @@ Maybe it loses
 ","Show me a man!
 
 Hood
-.",0.3125
+.",0.3125,0.5158316
 "Get her with the 16 combo, go!","(
 いの
 )16
@@ -852,7 +852,7 @@ Hood
 For
 16
 At a series of combo
-Bokkoboko!",0.1875
+Bokkoboko!",0.1875,0.46392876
 That guy manipulates shadows.,"(
 ドス
 )
@@ -862,27 +862,27 @@ That guy manipulates shadows.,"(
 
 ","The guy manipulates the shadow
 It is to be careful about the shadow
-.",0.23076923076923078
+.",0.2307692307692308,0.8710906
 "I won't be beaten by
 a stupid technique like that.","俺ね
 ｡
 
 ","I'm sorry
-.",0.14285714285714285
+.",0.14285714285714285,0.0877114
 Shikamaru!,"勝ってこ～い！
 
-",Win!,0.3333333333333333
+",Win!,0.3333333333333333,0.36819538
 <i>from that incident from the second test...</i>,"第２の試験の一件で
 知っているとはいえ…》
 
 ","In one of the second test
-""I know ...""",0.3125
+""I know ...""",0.3125,0.5818396
 <i>I don't know anything about this one's Jutsu.</i>,"(ｼｶﾏﾙ)
 《こいつの術に関しては
 全く分からねえ》
 
 ","""About this guy
-I know at all """,0.23529411764705882
+I know at all """,0.2352941176470588,0.15238146
 "- The sixth battle.
 - <i>That being said, for me...</i>","とはいえ
  
@@ -896,12 +896,12 @@ I know at all """,0.23529411764705882
 To me ... ""
 
 Shikamar vs Kin
-.",0.13636363636363635
+.",0.13636363636363635,0.27851522
 I can only do this.,"これしかねえ
 ｡
 
 ","This possibilities
-.",0.2857142857142857
+.",0.2857142857142857,0.29907358
 Shut up!,"(
 キン
 )
@@ -911,37 +911,37 @@ Shut up!,"(
 
 ","Remember one of the fools?
 
-shut up!",0.3333333333333333
+shut up!",0.3333333333333333,0.33655488
 That Jutsu!,"怖くないんだよ！
 (
 鈴の音
 )
 
-",I'm not scared!,0.14285714285714285
+",I'm not scared!,0.14285714285714285,0.2230833
 "It's nothing if I just pay attention
 to the movement of your shadow!","そんな術
 お前の影の動きさえ見てれば➡
 
 ","Such techniques
-If you look at your shadow movement",0.2
+If you look at your shadow movement",0.2,0.6710992
 Bells?,"鈴？
 
-",bell?,0.3333333333333333
+",bell?,0.3333333333333333,0.7973248
 "Next, you'll throw Senbons with bells","お次は鈴を付けた千本と
 付けてない千本を➡
 
 ","Next is Senbon with a bell
-Thousands with not attached",0.13333333333333333
+Thousands with not attached",0.13333333333333333,0.70424014
 "and Senbons without bells
 at the same time, right?","同時に投げんだろ？
 
-",Will you throw it at the same time?,0.3333333333333333
+",Will you throw it at the same time?,0.3333333333333333,0.26613408
 "I'll respond to the sound of the bells,
 intending to dodge them.","鈴の音に反応して
 かわしたつもりでいたら➡
 
 ","Responding to the sound of the bell
-If you are going to spend",0.2
+If you are going to spend",0.2,0.61417794
 Is that right?,"ヘッ
  
 そうだろ？
@@ -954,17 +954,17 @@ Is that right?,"ヘッ
  
 That's right?
 
-It's a chatting guy!",0.2727272727272727
+It's a chatting guy!",0.2727272727272727,0.26461577
 Behind?!,"(
 鈴の音
 )
 (ｼｶﾏﾙ)
 何!?➡
 
-",What!?,0.5
+",What!?,0.5,0.27430475
 Too late!,"後ろ！
 
-",back!,0.25
+",back!,0.25,0.39201653
 F-For the moment I dodged a fatal hit.,"ネタが分かって
  
 よく見りゃ…
@@ -973,14 +973,14 @@ F-For the moment I dodged a fatal hit.,"ネタが分かって
 ","I understand the material
  
 I often see ...
-.",0.21428571428571427
+.",0.21428571428571427,0.06606788
 Now it's my turn!,"今度は
  
 こっちの番だ！
 
 ","Next time
  
-It's here!",0.3333333333333333
+It's here!",0.3333333333333333,0.45871893
 That's not going to happen.,"もろ食らったってばよ
 ｡
 もろじゃないわよ
@@ -989,14 +989,14 @@ That's not going to happen.,"もろ食らったってばよ
 ","If you eat it
 .
 It's not good
-.",0.25
+.",0.25,0.09142213
 "The sound vibration of
 this special bell","(
 キン
 )
 この特殊な鈴の音の振動が➡
 
-",The vibration of the sound of this special bell is ➡,0.7777777777777778
+",The vibration of the sound of this special bell is ➡,0.7777777777777778,0.96469504
 "reaches the brain directly
 from the ear drum.","鼓膜から脳へと
 直接
@@ -1010,7 +1010,7 @@ Direct
  
 Work
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.5403745
 And then it will make you hallucinate.,"みんな
  
 そうなるのさ
@@ -1022,7 +1022,7 @@ And then it will make you hallucinate.,"みんな
 ","Everyone
  
 It will be
-.",0.3
+.",0.3,0.19326699
 "You can't avoid the sound of
 my bell by doing...","ヘヘ…
  
@@ -1032,7 +1032,7 @@ my bell by doing...","ヘヘ…
 ","Hehe ...
  
 I heard the sound of my bell
-The guy",0.375
+The guy",0.375,0.74300706
 that... that... that... that... that...,"な…
  
 何だ？
@@ -1042,7 +1042,7 @@ that... that... that... that... that...,"な…
 
 ","...
  
-What?",0.25
+What?",0.25,0.23214611
 "Shoot! Which one?
 Which is the real one?","くそ～！
  
@@ -1052,7 +1052,7 @@ Which is the real one?","くそ～！
 ","く!
  
 Which?
-Which one is genuine?",0.5
+Which one is genuine?",0.5,0.28510374
 "You can't do anything, can you?","(
 鈴の音
 )
@@ -1061,7 +1061,7 @@ Which one is genuine?",0.5
 )
 手も足も出ないだろ？➡
 
-",You no hands and feet too?➡,0.14285714285714285
+",You no hands and feet too?➡,0.14285714285714285,0.27080667
 "Your shadow, which was your faint hope,
 doesn't even know where to stretch to...","いちるの望みだった
  
@@ -1071,7 +1071,7 @@ doesn't even know where to stretch to...","いちるの望みだった
 ","It was the hope of one
  
 Your shadow
-Where should I stretch?",0.2727272727272727
+Where should I stretch?",0.2727272727272727,0.8532444
 Well... I'll cook you slowly.,"(
 キン
 )
@@ -1083,7 +1083,7 @@ Well... I'll cook you slowly.,"(
 ","In
  
 I will cook slowly
-.",0.4
+.",0.4,0.74345374
 "This time it's five,
 next time seven...","今度は５本
  
@@ -1093,7 +1093,7 @@ next time seven...","今度は５本
 ","This time five
  
 Next 7
-.",0.36363636363636365
+.",0.3636363636363637,0.86202544
 "I'll continue until you become
 a hedgehog.","お前がハリネズミになるまで
 続けてやるよ
@@ -1101,7 +1101,7 @@ a hedgehog.","お前がハリネズミになるまで
 
 ","Until you become a hedgehog
 I will continue
-.",0.8
+.",0.8,0.9791012
 You'd end it soon...,"最初に
  
 すぐ終わらせるって
@@ -1112,7 +1112,7 @@ You'd end it soon...,"最初に
  
 It will end soon
 I said that
-.",0.23076923076923078
+.",0.2307692307692308,0.58467984
 "I see, you can't endure the pain
 and want to be eased.","そうかい
  
@@ -1124,7 +1124,7 @@ and want to be eased.","そうかい
  
 I can't stand my pain
 I wanted to be easier
-.",0.35
+.",0.35,0.6221697
 "Well, I'll finish it here.","じゃあ
 これで終わりにしてやるよ
 ｡
@@ -1133,11 +1133,11 @@ I wanted to be easier
 ","Surely
 I will finish with this
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.50371134
 W-What?!,"(ｼｶﾏﾙ)
 うわ！
 
-",Wow!,0.25
+",Wow!,0.25,0.28397283
 M-My body...,"か…
  
 体が…
@@ -1154,7 +1154,7 @@ Body is…
 .
 
 Ah
-.",0.14285714285714285
+.",0.14285714285714285,0.3834053
 "At last, Shadow Possession Jutsu
 is a success.","(ｼｶﾏﾙ)
 ハァ…
@@ -1167,14 +1167,14 @@ is a success.","(ｼｶﾏﾙ)
 Finally shadow imitation
  
 success
-.",0.21428571428571427
+.",0.21428571428571427,0.31605524
 W-What are you saying?,"な…
  
 何を言ってるの？
 
 ","...
  
-What are you saying?",0.5714285714285714
+What are you saying?",0.5714285714285714,0.53921163
 "A thread at this height
 can't have a shadow.","こんな高さにある糸に
 影が出来るわけねえだろ
@@ -1182,7 +1182,7 @@ can't have a shadow.","こんな高さにある糸に
 
 ","In such a height
 It is not possible to shadow
-.",0.23529411764705882
+.",0.2352941176470588,0.7196585
 "I can stretch and shrink
 my own shadow.","俺は自分の影を伸ばしたり
 縮めたりできんだよ
@@ -1190,12 +1190,12 @@ my own shadow.","俺は自分の影を伸ばしたり
 
 ","I stretch my shadow
 I can not shrink
-.",0.7
+.",0.7,0.9210985
 The shadow is gradually getting thicker.,"これは糸の影じゃなかったのか
 ｡
 
 ","Is this not the shadow of the yarn?
-.",0.3333333333333333
+.",0.3333333333333333,0.4685886
 But... How do you win with that?,"だが
  
 それで
@@ -1204,13 +1204,13 @@ But... How do you win with that?,"だが
 ","But
  
 Like that
-How do you win?",0.7
+How do you win?",0.7,0.7887595
 "I'm just gonna move
 the same way as you.","同じ動きをするだけなのに
 ｡
 
 ","I just want to move
-.",0.2857142857142857
+.",0.2857142857142857,0.63177013
 If you continue like this and attack...,"ばかか？
 お前
  
@@ -1219,17 +1219,17 @@ If you continue like this and attack...,"ばかか？
 ","Are you stupid?
 you
  
-If you attack it as it is ➡",0.2
+If you attack it as it is ➡",0.2,0.5382044
 I know that.,"んなことは分かってるよ
 ｡
 
 ","I know that
-.",1.0
+.",1.0,1.0000004
 No way! You're!,"お前も傷つくんだぞ
 ｡
 
 ","You're hurt
-.",0.2857142857142857
+.",0.2857142857142857,0.22517826
 "Fool, stop it!","(
 キン
 )
@@ -1239,7 +1239,7 @@ No way! You're!,"お前も傷つくんだぞ
 
 ","fool
  
-Yes!",0.3333333333333333
+Yes!",0.3333333333333333,0.6965929
 "you have to grasp the situation
 and the layout when you battle.","忍ならな
  
@@ -1251,7 +1251,7 @@ and the layout when you battle.","忍ならな
  
 Status and terrain
 Grasp and fight
-.",0.2
+.",0.2,0.37026644
 "Even though we made
 the same movements...","お互い
  
@@ -1259,13 +1259,13 @@ the same movements...","お互い
 
 ","each other
  
-Even if you move the same",0.23076923076923078
+Even if you move the same",0.2307692307692308,0.5094147
 "called attention away
 from the wall behind us.","手裏剣は
 後ろの壁に注意が行かないよう➡
 
 ","Shuriken
-Don't get attention to the back wall",0.2
+Don't get attention to the back wall",0.2,0.44563735
 Winner! Shikamaru Nara.,"(ﾊﾔﾃ)
 勝者
  
@@ -1275,7 +1275,7 @@ Winner! Shikamaru Nara.,"(ﾊﾔﾃ)
 ","winner
  
 Nara Shikamaru
-.",0.8
+.",0.8,0.94944155
 Good job Shikamaru!,"(
 いの
 )
@@ -1289,7 +1289,7 @@ Good job Shikamaru!,"(
  
 Shikamaru!
 
-that's cool!",0.375
+that's cool!",0.375,0.8245689
 Me next... Me next!,"次は僕…
  
 次は僕…
@@ -1300,7 +1300,7 @@ Me next... Me next!,"次は僕…
  
 Next me ...
  
-Next me!",1.0
+Next me!",1.0,0.89332294
 And the next match.,"(ﾊﾔﾃ)
 では
  
@@ -1310,33 +1310,33 @@ And the next match.,"(ﾊﾔﾃ)
 ","In
  
 It is the next game
-.",0.3333333333333333
+.",0.3333333333333333,0.525956
 "me, Hinata, Naruto, Choji, Neji and Lee.","あと残るは音忍１人に
 俺とヒナタとナルト
 ｡
 
 ","Afternobu alone
 I and Hinata and Naruto
-.",0.3333333333333333
+.",0.3333333333333333,0.71296245
 Just please spare me from that guy.,"頼むから
 あいつとだけは勘弁してくれよ
 ｡
 
 ","Because I ask
 Just forgive me
-.",0.25
+.",0.25,0.37080905
 It's finally my turn!,"お待たせしました！
 やっと俺の出番だってばよ！
 
 ","Sorry I made you wait!
-Finally my turn!",0.36363636363636365
+Finally my turn!",0.3636363636363637,0.594599
 Yeah! Lucky us!,"うっひょ～！
  
 ラッキー！
 
 ","Ho ~!
  
-lucky!",0.3333333333333333
+lucky!",0.3333333333333333,0.6020757
 "If it's this guy
 we'll absolutely win, Akamaru!","あいつになら確実に勝てるぞ！
 赤丸
@@ -1344,7 +1344,7 @@ we'll absolutely win, Akamaru!","あいつになら確実に勝てるぞ！
 
 ","If you are, you will definitely win!
 Red circle
-.",0.21052631578947367
+.",0.21052631578947367,0.4380124
 Yahoo!,"来た～！
  
 来た～
@@ -1359,7 +1359,7 @@ Came ~
  
 Came ~
  
-I came!",0.2
+I came!",0.2,0.09687725
 "- If I'm not next, Sakura will despise me...
 - I'm gonna do it!","次
  
@@ -1367,7 +1367,7 @@ I came!",0.2
 
 ","Next
  
-If not,",0.23529411764705882
+If not,",0.2352941176470588,0.3208464
 "- If I'm not next. Sakura will...
 - Just watch me! Yay!","もし次
  
@@ -1379,7 +1379,7 @@ If not,",0.23529411764705882
  
 If not
 To Sakura ...
-.",0.29411764705882354
+.",0.29411764705882354,0.7697606
 "<i>This Lee kid, he's just like</i>
 <i>Guy was in the past...</i>","(ｶｶｼ)
 《このリーって子
@@ -1390,7 +1390,7 @@ To Sakura ...
 ","""This Lee is a child
 To old guy
  
-It's just like",0.24
+It's just like",0.24,0.7750809
 "Do your best, Naruto.","フフ～！
 頑張ってよ！
  
@@ -1401,14 +1401,14 @@ It's just like",0.24
 Good luck!
  
 Naruto
-.",0.18181818181818182
+.",0.18181818181818185,0.77139443
 Leave it to me.,"サクラさんに
 ゲジマユって嫌われる
 ｡
 
 ","To Sakura
 I hate it
-.",0.375
+.",0.375,0.32607353
 "<i>Well Naruto, show us...</i>","(ｶｶｼ)
 《さぁ
  
@@ -1422,10 +1422,10 @@ I hate it
 Naruto
 May I show you
 .
-➡",0.26666666666666666
+➡",0.26666666666666666,0.7978541
 I'm going to do it!,"やるってばよ！
 
-",I will do it!,0.5
+",I will do it!,0.5,0.7930139
 "<i>when you want to cry,</i>
 <i>and you want to run away</i>","♬
  
@@ -1437,21 +1437,21 @@ I'm going to do it!,"やるってばよ！
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.3938254
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.28646752
 Damn that Kiba!,"♬
  
 この手の中には
 
 ","♬
  
-In this hand",0.0
+In this hand",0.0,0.26740405
 "I hold back a little bit and
 he rides my brain.","♬
  
@@ -1459,7 +1459,7 @@ he rides my brain.","♬
 
 ","♬
  
-A singing",0.07142857142857142
+A singing",0.07142857142857142,0.1428779
 "Yap, yap, yap, yap,
 it's annoying! Believe it!","♬
  
@@ -1471,7 +1471,7 @@ it's annoying! Believe it!","♬
  
 Already
  
-it's fine",0.2
+it's fine",0.2,0.18453866
 "but I'm the man who's going
 to become Hokage.","♬
  
@@ -1479,7 +1479,7 @@ to become Hokage.","♬
 
 ","♬
  
-I want to cry",0.13333333333333333
+I want to cry",0.13333333333333333,0.19893368
 "You're the one who's going
 to get his butt kicked.","♬
  
@@ -1487,11 +1487,11 @@ to get his butt kicked.","♬
 
 ","♬
  
-Two are one",0.0625
+Two are one",0.0625,0.17075823
 Don't take me lightly!,"♬
  
 光が生まれ
 
 ","♬
  
-Light is born",0.0
+Light is born",0.0,0.14386043

@@ -1,16 +1,16 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>Until we wipe away the days</i>,"ヤツらの精神は狩り終えた
 ｡
 ➡
 
 ","The spirit of the guy finished hunting
 .
-➡",0.058823529411764705
+➡",0.05882352941176471,0.18275556
 <i>Gently open your heart</i>,"まだまだ…
 ｡
 
 ","not yet…
-.",0.0
+.",0.0,0.11744284
 "<i>It will reach you, without a doubt</i>","(
 朧
 )
@@ -22,14 +22,14 @@ en_text,jp_text,google_translated,score
 ","you
  
 My left shoulder
-It's a guy who did it?➡",0.14285714285714285
+It's a guy who did it?➡",0.14285714285714285,0.122934036
 "<i>It will come, closer</i>","やっと見つけたぜ
 ｡
 ➡
 
 ","I finally found it
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.28337872
 <i>If you're not the one</i>,"ラッキー
  
 やっと借りを返せるぜ
@@ -38,7 +38,7 @@ It's a guy who did it?➡",0.14285714285714285
 ","lucky
  
 I finally return the borrow
-.",0.13333333333333333
+.",0.13333333333333333,0.10134906
 I've... had it...,"フフフ…
 うまく行ったわね
  
@@ -49,13 +49,13 @@ I've... had it...,"フフフ…
 I went well
  
 Naruto
-.",0.2
+.",0.2,0.18533067
 "Here we can see it
 right in front of our eyes.","袋のネズミだな
 ｡
 
 ","It's a bag of bags
-.",0.1875
+.",0.1875,0.116686955
 Strange...,"(
 朧
 )
@@ -73,7 +73,7 @@ These guys
  
 ...
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.16983317
 Huh?,"ヘッ
 ｡
 (
@@ -84,14 +84,14 @@ Huh?,"ヘッ
 ","Hem
 .
 
-Ah?",0.2
+Ah?",0.2,0.3235193
 No way!,"バカな
  
 いつの間に!?
 
 ","stupid
  
-When!",0.2
+When!",0.2,0.23266059
 "So it seems.
 We were lured in perfectly.","影分身は
 ただのネタ仕込みだってばよ
@@ -99,7 +99,7 @@ We were lured in perfectly.","影分身は
 
 ","Shadow body
 It's just a newsletter
-.",0.13333333333333333
+.",0.13333333333333333,-0.014364649
 "and were made to walk
 around the same place in a circle.","俺一人で
 チーム全員を演じるためのな
@@ -107,12 +107,12 @@ around the same place in a circle.","俺一人で
 
 ","I alone
 To play all the teams
-.",0.16666666666666666
+.",0.16666666666666666,-0.023477504
 Probably.,"あっ
 ｡
 
 ","Ah
-.",0.3333333333333333
+.",0.3333333333333333,0.3344749
 "This is the perfect handicap.
 Believe it!","(
 夢火
@@ -123,14 +123,14 @@ Believe it!","(
 
 ","""What is the oysters
  
-It is still possible to move ... """,0.17647058823529413
+It is still possible to move ... """,0.17647058823529413,0.12039378
 W-What is this?,"《これが本当に
  
 あのナルトか…》
 
 ","""This is really
  
-That Naruto ...",0.2222222222222222
+That Naruto ...",0.2222222222222222,0.047122687
 It's quite a number.,"あれだけやって
 まだ動けるとは
 ｡
@@ -139,25 +139,25 @@ It's quite a number.,"あれだけやって
 ","That's only
 It is still possible to move
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.14740032
 Cornered rats.,"ナルト
 ｡
 
 ","Naruto
-.",0.25
+.",0.25,0.19618733
 <i>W-What are these guys?</i>,"化けるぞ》
 
-",I will,0.1
+",I will,0.1,0.07729809
 <i>I'll assess this!</i>,"ナルト
  
 むちゃよ！
 
 ","Naruto
  
-I'm sorry!",0.18181818181818182
+I'm sorry!",0.18181818181818185,0.15358555
 Sasuke!,"タァ～！
 
-",Da ~!,0.25
+",Da ~!,0.25,0.40303507
 Are you okay?,"すべて偽者？
 もしかして
  
@@ -166,7 +166,7 @@ Are you okay?,"すべて偽者？
 ","All fakes?
 As well
  
-Another illusion?",0.1
+Another illusion?",0.1,0.0179422
 "- Scroll please.
 - Scroll please.","《これが
  
@@ -182,7 +182,7 @@ Last…
  
 It is chakra
 .
-➡",0.09090909090909091
+➡",0.09090909090909093,0.17312475
 Which is it?!,"(
 朧
 )
@@ -192,20 +192,20 @@ Which is it?!,"(
 
 ","Cuddling
  
-It is not good!",0.375
+It is not good!",0.375,0.16036564
 Stop!,"(ｶﾌﾞﾄ)
 あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.27850014
 Probably the enemy is hiding somewhere...,"これが敵の策だ
 ｡
 
 ","This is an enemy policy
-.",0.18181818181818182
+.",0.18181818181818185,0.41185683
 "and coordinating their attack with
 movements of the ""Genjutsu Shinobis""","《もう影分身は無理だってばよ》
 
-","""The shadow is impossible.""",0.1875
+","""The shadow is impossible.""",0.1875,0.07792171
 "Hold it, Naruto.","(
 朧
 )
@@ -215,18 +215,18 @@ movements of the ""Genjutsu Shinobis""","《もう影分身は無理だってば
 
 ","It's almost time to go
 lucky
-.",0.18181818181818182
+.",0.18181818181818185,0.10289068
 "Listen, everyone!","(ｶﾌﾞﾄ)
 うっ！
 カブトさん！
 
 ","Uh!
-Mr. Kabuto!",0.14285714285714285
+Mr. Kabuto!",0.14285714285714285,0.31608912
 The night is long.,"ひどいアザだ
 ｡
 
 ","It is a terrible aza
-.",0.2222222222222222
+.",0.2222222222222222,0.11438112
 "Man!
 This is endless!","ほら
  
@@ -234,7 +234,7 @@ This is endless!","ほら
 
 ","Seeing
  
-It is a man of heaven!",0.3
+It is a man of heaven!",0.3,0.39484513
 Since it's come to this...!,"ＯＫよ
  
 ナルト！
@@ -249,14 +249,14 @@ Naruto!
 ...
  
 Ha ha ha ha
-.",0.16666666666666666
+.",0.16666666666666666,0.18034816
 Shadow Clones?!,"ん～…
  
 ん？
 
 ","...
  
-Yeah?",0.16666666666666666
+Yeah?",0.16666666666666666,0.207637
 "Man, that loser.
 All there is to do is go for it!","(ｶﾌﾞﾄ)
 ちょっと
@@ -273,12 +273,12 @@ To Gotagota
 It is caught up
  
 sorry
-.",0.2
+.",0.2,0.13669667
 Indeed...,"ヘヘヘヘ…
 ｡
 
 ","Hehehehe ...
-.",0.25
+.",0.25,0.40007263
 "It's not a situation that
 he can get through by himself.","いやぁ
 君らが頑張ったからだよ
@@ -288,7 +288,7 @@ he can get through by himself.","いやぁ
 ","Hey
 It's because you worked hard
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.08510843
 "Let's go, Sakura!","じゃあ
  
 お互い頑張ろう
@@ -297,36 +297,36 @@ It's because you worked hard
 ","Surely
  
 Let's both do our best
-.",0.16666666666666666
+.",0.16666666666666666,0.17434731
 Y-Yeah!,"うん！
 うん
 ｡
 
 ","Yes!
 Yes
-.",0.25
+.",0.25,0.39440727
 Dawn is breaking,"すべてをお決めになるのは➡
 
-",It is ➡ to dendrite everything,0.125
+",It is ➡ to dendrite everything,0.125,0.07752573
 It's finally time for the hunt.,"それは必要ないでしょう
 ｡
 
 ","It will not be necessary
-.",0.16666666666666666
+.",0.16666666666666666,0.09457877
 Lucky.,"ご苦労
 ｡
 
 ","Hard work
-.",0.25
+.",0.25,0.3116712
 "You're... the one who...
 did my left shoulder.","私の気に入り…｡➡
 
-",My name ....,0.25
+",My name ....,0.25,0.25660127
 I finally found you.,"あなたなのですから
 ｡
 
 ","Because you are
-.",0.2857142857142857
+.",0.2857142857142857,0.17844863
 You... really hung me up.,"｢“
 天
 ""
@@ -337,14 +337,14 @@ You... really hung me up.,"｢“
 Heaven
 ""
 No choice but to ...
-"".",0.14285714285714285
+"".",0.14285714285714285,0.2059995
 Heh!,"これ則ち
  
 何々の極意➡
 
 ","This way
  
-Some qualities",0.0
+Some qualities",0.0,0.13698636
 "It went well, Naruto!","たぶん
  
 巻物のことよ
@@ -353,7 +353,7 @@ Some qualities",0.0
 ","maybe
  
 It is a scroll
-.",0.09090909090909091
+.",0.09090909090909093,0.11087245
 T-This can't be!,"それじゃ
  
 開くってばよ
@@ -362,7 +362,7 @@ T-This can't be!,"それじゃ
 ","Well then
  
 It will be open
-.",0.09090909090909091
+.",0.09090909090909093,0.1518123
 Since when...?!,"何だ？
  
 そりゃ
@@ -371,7 +371,7 @@ Since when...?!,"何だ？
 ","What?
  
 For
-.",0.125
+.",0.125,0.24615929
 "The Shadow Clone is just
 the preparation for the trick...","これって
  
@@ -383,7 +383,7 @@ the preparation for the trick...","これって
  
 Open the scroll of the heavens
 I think it is
-.",0.1111111111111111
+.",0.1111111111111111,0.10697989
 "Naruto, you've used too much Chakra.","♬
  
 君は
@@ -394,7 +394,7 @@ I think it is
  
 You are
  
-forever and ever",0.07142857142857142
+forever and ever",0.07142857142857142,0.1030633
 "No way! I'm not always going to have
 the good parts taken away!","♬
  
@@ -402,14 +402,14 @@ the good parts taken away!","♬
 
 ","♬
  
-Because I'm crying",0.1111111111111111
+Because I'm crying",0.1111111111111111,0.12947762
 <i>Is this really that Naruto...?</i>,"♬
  
 この手の中には
 
 ","♬
  
-In this hand",0.07142857142857142
+In this hand",0.07142857142857142,0.1337885
 "<i>Right after</i>
 <i>a Multiple Shadow Clone Jutsu...</i>","♬
  
@@ -417,7 +417,7 @@ In this hand",0.07142857142857142
 
 ","♬
  
-A singing",0.07142857142857142
+A singing",0.07142857142857142,0.12501079
 "<i>To think he can still move</i>
 <i>even after doing all that.</i>","♬
  
@@ -425,7 +425,7 @@ A singing",0.07142857142857142
 
 ","♬
  
-I want to cry",0.1111111111111111
+I want to cry",0.1111111111111111,0.20449063
 "<i>if he can just master</i>
 <i>the use of his Chakra.</i>","♬
  
@@ -433,7 +433,7 @@ I want to cry",0.1111111111111111
 
 ","♬
  
-If you forgot happiness",0.05555555555555555
+If you forgot happiness",0.05555555555555555,0.20209256
 There's no time.,"それに
 あのリーってヤツのチームも
 ｡
@@ -442,13 +442,13 @@ There's no time.,"それに
 ","in addition
 That Lee is also a guy's team
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.11569808
 "This time around,
 we'll show you our Ninjutsu!","木ノ葉のルーキー
 全員いるじゃねえか！➡
 
 ","Rookie of wooden no leaves
-You're not all!➡",0.1
+You're not all!➡",0.1,0.26723325
 Shadow clones?,"〈何だ
  
 何だ？
@@ -457,14 +457,14 @@ Shadow clones?,"〈何だ
 ","<What
  
 What?
-I'm sorry I'm sorry.",0.1111111111111111
+I'm sorry I'm sorry.",0.1111111111111111,0.08058171
 "However, he's up to something.","何か拍子抜けだってばよ
 ｡
 ➡
 
 ","Something is missing
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.18872085
 You idiot.,"まっ
  
 俺ってば火影になる男
@@ -475,7 +475,7 @@ You idiot.,"まっ
  
 A man who will blow up if you
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.16753042
 I'm saying don't stick your nose in!,"この辺で
  
 一発ビシっと
@@ -484,12 +484,12 @@ I'm saying don't stick your nose in!,"この辺で
 ","In this area
  
 One shot
-I have to show it!>",0.15789473684210525
+I have to show it!>",0.15789473684210525,0.22954349
 Cripes!,"(観客2)速え！
 
-",Fast!,0.3333333333333333
+",Fast!,0.3333333333333333,0.45762396
 Dang it. A clone?!,"(花宮)あ～あ
 (日向)え？
 
 ","A ~
-?",0.25
+?",0.25,0.27678025

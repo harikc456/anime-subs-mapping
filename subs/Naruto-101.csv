@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.7113179
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.86280525
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207105
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.6541094
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.38045898
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851642
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.40009782
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.5800125
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.3699327
 Hey... don't you want to see it?,"(ﾅﾙﾄ)
 ねぇ
  
@@ -105,7 +105,7 @@ Hey... don't you want to see it?,"(ﾅﾙﾄ)
 
 ","Hey
  
-do not want to see?",0.5454545454545454
+do not want to see?",0.5454545454545454,0.778489
 It's about time.,"(ｶﾗｽ)
 アホ～
  
@@ -115,7 +115,7 @@ It's about time.,"(ｶﾗｽ)
 ","Fool
  
 Fool
-.",0.16666666666666666
+.",0.16666666666666666,0.12390516
 What?,"いいかげん
 ｡
 (ｻｽｹ)
@@ -124,10 +124,10 @@ What?,"いいかげん
 ","Good
 .
 
-what?",0.5
+what?",0.5,0.64741695
 Kakashi Sensei's... real face!,"カカシティーチャーの素顔！
 
-",Canca Saturday's face!,0.3333333333333333
+",Canca Saturday's face!,0.3333333333333333,0.399176
 I'm not interested.,"フン
  
 くだらねえ
@@ -140,7 +140,7 @@ I'm not interested.,"フン
 Petty
  
 I'm not interested
-.",0.7142857142857143
+.",0.7142857142857143,0.50674945
 "Today's mission is over,
 so I'm going home...","きょうの任務も終わったし
 帰るぞ
@@ -148,26 +148,26 @@ so I'm going home...","きょうの任務も終わったし
 
 ","Today's mission is also over
 I will go back
-.",0.35294117647058826
+.",0.35294117647058826,0.76353437
 <i>Aw geez... It sounds like fun.</i>,"《え～…
  
 楽しそうなのにな》
 
 ","""E ...
  
-It looks fun",0.13333333333333333
+It looks fun",0.13333333333333333,0.34658787
 Maybe he has...,"…かなぁ
 ｡
 
 ","...
-.",0.2
+.",0.2,0.28586757
 Or maybe a buckteeth?!,"それとも出っ歯？
 
-",Another teeth?,0.125
+",Another teeth?,0.125,0.29839748
 "<i>Buckteeth?! Buckteeth?!</i>
 <i>Buckteeth?!</i>","＜出っ歯？＞
 
-",<Teeth exit?>,0.3333333333333333
+",<Teeth exit?>,0.3333333333333333,0.3022075
 But this is rare...,"(ｶｶｼ)
 しかし珍しいな
 ｡
@@ -183,12 +183,12 @@ But this is rare...,"(ｶｶｼ)
 Wall
  
 Waiting
-.",0.25
+.",0.25,0.5728414
 "- Great success!
 - Great success!","(ﾅﾙﾄ･ｻｸﾗ･ｻｽｹ)
 大成功！
 
-",Great success!,0.75
+",Great success!,0.75,0.78918785
 You know what I mean?,"(ｶｶｼ)
 お前らが
  
@@ -198,10 +198,10 @@ You know what I mean?,"(ｶｶｼ)
 ","You guys
  
 Three people
-I will come back",0.16666666666666666
+I will come back",0.16666666666666666,0.19389504
 Maybe it's that...,"雪でも降るんじゃ…➡
 
-",It's snowing ... ➡,0.42857142857142855
+",It's snowing ... ➡,0.42857142857142855,0.13104372
 "are you guys up to something...
 or not?","何か
  
@@ -209,13 +209,13 @@ or not?","何か
 
 ","something
  
-I'm sorry ...?",0.23076923076923078
+I'm sorry ...?",0.2307692307692308,0.26924485
 ...like that.,"(ｶｶｼ)
 あ～…
 ｡
 
 ","Oh ... ...
-.",0.4
+.",0.4,0.33084893
 "Or if it's not that,
 are you guys up to something?","(ｶｶｼ)
 それとも
@@ -228,7 +228,7 @@ are you guys up to something?","(ｶｶｼ)
  
 something
  
-What is it?",0.25
+What is it?",0.25,0.37200913
 "N-Now! P-P-P-lease eat, eat!","さぁ
  
 さささ
@@ -249,7 +249,7 @@ rice field…
  
 eat
  
-eat!",0.2222222222222222
+eat!",0.2222222222222222,0.28153458
 Thank you for waiting.,"(ﾃｳﾁ)
 お待ち
 ｡
@@ -265,7 +265,7 @@ Thank you for waiting.,"(ﾃｳﾁ)
 teeth
  
 It is a service
-.",0.18181818181818182
+.",0.18181818181818185,0.3529625
 Get away! Ino Pig!,"離れい！
  
 いのブタ！
@@ -278,21 +278,21 @@ Get away! Ino Pig!,"離れい！
  
 Pig!
 
-what!?",0.5714285714285714
+what!?",0.5714285714285714,0.8078936
 Wha?!,"(ｶｶｼ)
 ん～！
 (
 鼓動
 )
 
-",!,0.3333333333333333
+",!,0.3333333333333333,0.4571075
 Aw man! I can't see at all!,"っつうか
  
 見えねえってばよ！
 
 ","Hut
  
-You can see it!",0.15384615384615385
+You can see it!",0.15384615384615385,0.48022205
 I'm finished! That was good...,"(ｶｶｼ)
 ふぅ～
  
@@ -302,15 +302,15 @@ I'm finished! That was good...,"(ｶｶｼ)
 ","~
  
 Sorry
-It was delicious!",0.16666666666666666
+It was delicious!",0.16666666666666666,0.36360052
 Hey!,"あ～‼
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.58878213
 "- Huh?
 - Huh?","(ｶｶｼ)
 ん？
 
-",Yeah?,0.25
+",Yeah?,0.25,0.5380567
 "- Wow! I'm really curious!
 - Wow! I'm really curious!","うわ
  
@@ -330,7 +330,7 @@ Become sully
 Wow
  
 I'm worried about
-.",0.25
+.",0.25,0.24954586
 "But how are you
 going to see it?","でも
  
@@ -338,19 +338,19 @@ going to see it?","でも
 
 ","but
  
-How are you going to worship?",0.7
+How are you going to worship?",0.7,0.49947184
 That's...,"それは…➡
 
-",That's ... ➡,0.75
+",That's ... ➡,0.75,0.74165595
 I'm asking you how! You idiot!,"その何とかを聞いてるんでしょ！
 バカ！
 
 ","I'm listening to that something!
-fool!",0.25
+fool!",0.25,0.25059414
 "Then, then, do you have
 a good plan, Sakura?","意地でも拝んでやるってばよ！
 
-","If you do it in the meantime, you will be welcome!",0.15789473684210525
+","If you do it in the meantime, you will be welcome!",0.15789473684210525,0.09312207
 "If we do that, he'll eventually
 take his mask off.","そうすりゃ
  
@@ -360,7 +360,7 @@ take his mask off.","そうすりゃ
 ","So
  
 Take a mask someday
-.",0.1875
+.",0.1875,0.6830073
 "What's that big deal?
 That was so average!","何だよ
  
@@ -370,7 +370,7 @@ That was so average!","何だよ
 ","What
  
 That!
-It's really normal!",0.3076923076923077
+It's really normal!",0.3076923076923077,0.31657436
 Did you say something?,"サクラちゃんは
 何か
  
@@ -379,21 +379,21 @@ Did you say something?,"サクラちゃんは
 ","Sakura-chan
 something
  
-Good operation?",0.25
+Good operation?",0.25,0.08745372
 I'm disappointed in him.,"見損なったわ
 ｡
 
 ","I was lost
-.",0.25
+.",0.25,0.32649514
 I tell you it's not my fault!,"バカナルト！
 あんたのせいでバレたじゃない！
 
 ","Bakanato!
-It's not a barre because of your time!",0.25
+It's not a barre because of your time!",0.25,0.251016
 What?!,"(ｶｶｼ)
 ん～!?➡
 
-",Hmm!?,0.5
+",Hmm!?,0.5,0.37924394
 "I'm going to go buy
 an advance ticket.","(ｶｶｼ)
 前売券
@@ -402,10 +402,10 @@ an advance ticket.","(ｶｶｼ)
 
 ","Advance ticket
  
-I'm going to buy!",0.6363636363636364
+I'm going to buy!",0.6363636363636364,0.90697765
 Yeah!,"おう！
 
-",King!,0.3333333333333333
+",King!,0.3333333333333333,0.3678121
 "Darn it, where did he go?","ん～
  
 くっそ～
@@ -414,7 +414,7 @@ Yeah!,"おう！
 ","~
  
 Clues ~
-Where did you go?",0.36363636363636365
+Where did you go?",0.3636363636363637,0.46975788
 What are you guys doing?,"(ｶｶｼ)
 お前たち
  
@@ -422,20 +422,20 @@ What are you guys doing?,"(ｶｶｼ)
 
 ","you
  
-What are you doing?➡",0.7142857142857143
+What are you doing?➡",0.7142857142857143,0.67039615
 "- N-Not really...
 - N-Not really...","(ｶｶｼ)
 ふ～ん…
 ｡
 
 ","Fu ...
-.",0.16666666666666666
+.",0.16666666666666666,0.13876666
 "Isn't it because there
 are too many of us?","人数が多いからでしょ
 ｡
 
 ","Because there are many people
-.",0.3076923076923077
+.",0.3076923076923077,0.58876413
 "Or... have you forgotten the Jutsu?
 Sakura...","それとも
  
@@ -445,19 +445,19 @@ Sakura...","それとも
 ","Or
  
 Did you forgotten the art?
-Sakura ...!",0.5833333333333334
+Sakura ...!",0.5833333333333334,0.7240509
 That's you!,"それは
  
 あんたでしょ！
 
 ","that is
  
-Anyway!",0.3333333333333333
+Anyway!",0.3333333333333333,0.3728797
 It will be good training to shadow him.,"あいつを尾行するのは修業になる
 ｡
 
 ","It will be studied to go to the tail
-.",0.38461538461538464
+.",0.38461538461538464,0.3442808
 "Y-Yeah, let's just leave Naruto here!","そ…
  
 そうね
@@ -470,7 +470,7 @@ It will be good training to shadow him.,"あいつを尾行するのは修業に
 It looks like
  
 Naruto
-Let's relax!",0.2857142857142857
+Let's relax!",0.2857142857142857,0.5579512
 "And Junko then says...
 ""Oh, I am losing you.""","『
 あぁ
@@ -484,14 +484,14 @@ Ahh
  
 I
 Looking down to you
-"""".",0.2222222222222222
+"""".",0.2222222222222222,0.35921356
 What? What?,"あれ？
  
 あれ？
 
 ","that? 
  
- that?",0.3333333333333333
+ that?",0.3333333333333333,0.29303065
 Clumsy as usual...,"逃げられちった
 ｡
 相変わらずドジね
@@ -500,7 +500,7 @@ Clumsy as usual...,"逃げられちった
 ","Rushed away
 .
 Duge as usual
-.",0.25
+.",0.25,0.27914175
 Sorry.,"(ｻｽｹ･ｻｸﾗ)
 はぁ～
 ｡
@@ -508,7 +508,7 @@ Sorry.,"(ｻｽｹ･ｻｸﾗ)
 
 ","Hae ~
 .
-➡",0.2
+➡",0.2,0.20886932
 "Gosh, what is Kakashi Sensei doing?","も～う
  
 何してんのよ？
@@ -519,7 +519,7 @@ Sorry.,"(ｻｽｹ･ｻｸﾗ)
  
 What do you do?
 teacher Kakashi
-.",0.23076923076923078
+.",0.2307692307692308,0.5472865
 "He hasn't moved for
 such a long time...","さっきから
  
@@ -529,10 +529,10 @@ such a long time...","さっきから
 ","After a while ago
  
 Don't move
-.",0.125
+.",0.125,0.6026154
 No way!,"まさか！
 
-",Masao!,0.25
+",Masao!,0.25,0.24868913
 Sasuke! How did it go?!,"ん？
 サスケ君
  
@@ -541,28 +541,28 @@ Sasuke! How did it go?!,"ん？
 ","Yeah?
 Sasuke
  
-how was it?",0.4444444444444444
+how was it?",0.4444444444444444,0.8157735
 Off we go!,"エッヘヘン！
  
 しゅっぱ～つ！
 
 ","Eggen!
  
-Tsuchi ~!",0.14285714285714285
+Tsuchi ~!",0.14285714285714285,0.33657503
 <i>Today's mission is to help at a farm.</i>,"《きょうの任務は牧場の手伝い》
 
-","""Today's mission is helping on ranch""",0.2222222222222222
+","""Today's mission is helping on ranch""",0.2222222222222222,0.656072
 <i>The mission itself is not a big deal.</i>,"《任務自体は大したことないわ》
 
-","""The task itself is not a big deal""",0.375
+","""The task itself is not a big deal""",0.375,0.52737224
 <i>We're definitely going to look at it...</i>,"《絶対に拝んでやるってばよ》
 
-","""I will definitely worship""",0.11764705882352941
+","""I will definitely worship""",0.1176470588235294,0.24481834
 "- <i>Kakashi Sensei's real face!</i>
 - <i>Kakashi Sensei's real face!</i>","(ｻｽｹ･ﾅﾙﾄ･ｻｸﾗ)
 《カカシ先生の素顔！》
 
-","""Kakashi-sensei's Beetle!""",0.13333333333333333
+","""Kakashi-sensei's Beetle!""",0.13333333333333333,0.6733805
 "You guys seem to have
 lots of energy today.","(ｶｶｼ)
 な～んだ
@@ -579,7 +579,7 @@ you
 today
  
 I'm going to do it
-.",0.25
+.",0.25,0.26003906
 "- I have lots of energy!
 - I'm ready to go!","もう
  
@@ -589,22 +589,22 @@ I'm going to do it
 ","Already
  
 It's an effort to do it!
-I'm getting tired!",0.21052631578947367
+I'm getting tired!",0.21052631578947367,0.35834995
 "Oh, that's excellent.","フン
 ｡
 
 ","Hung
-.",0.14285714285714285
+.",0.14285714285714285,0.13293643
 I've finally found you...,"(ｱﾆｷ)
 とうとう見つけたぞ
 ｡
 
 ","I finally found it
-.",0.375
+.",0.375,0.59394026
 Kakashi Hatake!,"(ｱﾆｷ)
 はたけカカシ！
 
-",Hatoken Kakashi!,0.5
+",Hatoken Kakashi!,0.5,0.86727667
 "Boss, what is your grudge?","(
 手下１
 )
@@ -614,7 +614,7 @@ Kakashi Hatake!,"(ｱﾆｷ)
 
 ","Big Bro
  
-What is it?",0.3
+What is it?",0.3,0.13411564
 Fool! Have you forgotten?!,"(ｱﾆｷ)
 バカ！
 てめぇ
@@ -624,7 +624,7 @@ Fool! Have you forgotten?!,"(ｱﾆｷ)
 ","fool!
 You
  
-I forgot!? ➡",0.4444444444444444
+I forgot!? ➡",0.4444444444444444,0.76345885
 "It happened in the spring
 of three years ago...","忘れもしねえ
 あれは３年前の春のことだった
@@ -632,11 +632,11 @@ of three years ago...","忘れもしねえ
 
 ","Forgetting
 That was spring three years ago
-.",0.2857142857142857
+.",0.2857142857142857,0.5886721
 "Our boss says he has something
 to talk to you about...","あんたに話があるんだってさ＞
 
-",You're talking about you>,0.14285714285714285
+",You're talking about you>,0.14285714285714285,0.20300336
 I love you... Please marry me!,"(ｱﾆｷ)
 ＜愛してる
  
@@ -644,7 +644,7 @@ I love you... Please marry me!,"(ｱﾆｷ)
 
 ","<I love you
  
-Get married to me>",0.3076923076923077
+Get married to me>",0.3076923076923077,0.7023011
 "- Boss is so cool!
 - Boss is so cool!","(
 女性
@@ -657,7 +657,7 @@ Get married to me>",0.3076923076923077
 
 ","<Disgusting!>
 
-<Our Aniki is ➡➡",0.16666666666666666
+<Our Aniki is ➡➡",0.16666666666666666,0.22074187
 "You can be honest and
 fly into my arms.","素直に俺の胸に
 飛び込んでくればいいんだ
@@ -667,7 +667,7 @@ fly into my arms.","素直に俺の胸に
 ","Follow my chest
 I wish I jumped into
 .
-➡",0.1875
+➡",0.1875,0.36055458
 "Don't worry.
 Even though I look like this,","(ｱﾆｷ)
 ＜大丈夫
@@ -676,14 +676,14 @@ Even though I look like this,","(ｱﾆｷ)
 
 ","<Okay
  
-Even if you look like this",0.26666666666666666
+Even if you look like this",0.26666666666666666,0.5549464
 I have a tidy sum of money!,"小金持ってるぞ
  
 俺！＞
 
 ","I have a small sum
  
-me!>",0.45454545454545453
+me!>",0.4545454545454545,0.62391996
 "What? You're turning me down
 in these surroundings?","(ｱﾆｷ)
 ＜何？
@@ -692,10 +692,10 @@ in these surroundings?","(ｱﾆｷ)
 
 ","<What?
  
-It will be refused in this situation ... ➡",0.15789473684210525
+It will be refused in this situation ... ➡",0.15789473684210525,0.1653442
 I don't like what I don't like!,"＜嫌だって言ってるでしょ！＞
 
-",<I don't like it!>,0.5555555555555556
+",<I don't like it!>,0.5555555555555556,0.51907617
 Why don't you stop it around there?,"≪
 (ｶｶｼ)
 ＜もう
@@ -704,7 +704,7 @@ Why don't you stop it around there?,"≪
 ","«
 
 <Another
-If you are going around there?>",0.25
+If you are going around there?>",0.25,0.3088197
 "Hey, the girl doesn't like it
 and no matter how you look at it,","ほら
  
@@ -718,7 +718,7 @@ and no matter how you look at it,","ほら
 The child also hates
 in addition
  
-No matter how you look",0.2857142857142857
+No matter how you look",0.2857142857142857,0.44054946
 "Yeah, yeah.","(ｶｶｼ)
 ＜ジャ～ン
 ｡
@@ -726,7 +726,7 @@ No matter how you look",0.2857142857142857
 
 ","<J-N
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.16662651
 You don't know Moya Ninja?!,"(ｶｶｼ)
 ＜モヤ忍？
  
@@ -734,7 +734,7 @@ You don't know Moya Ninja?!,"(ｶｶｼ)
 
 ","<Moya Shinobu?
  
-I do not know>",0.3076923076923077
+I do not know>",0.3076923076923077,0.6844696
 You're going to regret it.,"(
 手下１
 )
@@ -750,7 +750,7 @@ You're going to regret it.,"(
  
 You!>
 
-<I regret it!>",0.25
+<I regret it!>",0.25,0.51292384
 "For getting in the way of
 someone's romance!","(
 手下１
@@ -759,17 +759,17 @@ someone's romance!","(
 この野郎！＞
 
 ","<I'm sorry for the fool
-This guy!>",0.16666666666666666
+This guy!>",0.16666666666666666,0.27245378
 "Isn't it just an annoying,
 one sided love?","(ｶｶｼ)
 ＜恋路？
 迷惑の片思いでしょ？＞
 
 ","<Love Road?
-Is it an annoying unrequited?>",0.4
+Is it an annoying unrequited?>",0.4,0.5225676
 Enough!,"(ｱﾆｷ)＜ん～ うるへ～！➡
 
-",<Now ~!➡,0.16666666666666666
+",<Now ~!➡,0.16666666666666666,0.25235975
 4... 3... 2... 1...,"＜４
 ･
 ３
@@ -784,7 +784,7 @@ Enough!,"(ｱﾆｷ)＜ん～ うるへ～！➡
 ·
 2
 ·
-1 ...>",0.625
+1 ...>",0.625,0.4509656
 "- Hustle! Hustle!
 - Hustle! Hustle!","(
 手下１
@@ -805,7 +805,7 @@ Hustle
  Hustle
 !
  
-Dora ~!>",0.2857142857142857
+Dora ~!>",0.2857142857142857,0.7056269
 "- You lost!
 - You lost!","(ｱﾆｷ)
 ＜
@@ -824,7 +824,7 @@ Uhufu
 Not
 Oi!
  
-Do you want me!>",0.15384615384615385
+Do you want me!>",0.15384615384615385,0.23324966
 "So it means revenge from
 three years ago","(
 手下２
@@ -837,7 +837,7 @@ three years ago","(
 ","Surely
  
 For the first time in three years
-Is it a revenge?",0.23529411764705882
+Is it a revenge?",0.2352941176470588,0.75467753
 "and he's going to beat him up
 in a face to face match!","(ｱﾆｷ)
 ＜お願い！
@@ -848,7 +848,7 @@ in a face to face match!","(ｱﾆｷ)
 ","<Request!
 A little…
  
-Someone!➡",0.1111111111111111
+Someone!➡",0.1111111111111111,0.10367474
 Fool! Who would take such risk?!,"誰が
  
 そんな危ないまねすっかよ
@@ -857,7 +857,7 @@ Fool! Who would take such risk?!,"誰が
 ","Who
  
 Such dangerous mine
-you!",0.2727272727272727
+you!",0.2727272727272727,0.4718509
 Huh?,"(
 手下１
 ･
@@ -865,7 +865,7 @@ Huh?,"(
 )
 え？
 
-",picture?,0.3333333333333333
+",picture?,0.3333333333333333,0.3923599
 "we'll do it stealthily from
 the shadows! Stealthily.","(ｱﾆｷ)
 やるなら
@@ -880,7 +880,7 @@ From shade
  
 Sneeze
 .
-➡",0.2
+➡",0.2,0.3147638
 Welcome!,"うげっ！
 (ｱﾆｷ)
 バカ！
@@ -891,7 +891,7 @@ Welcome!,"うげっ！
 
 fool!
  
-You",0.2
+You",0.2,0.1729022
 Welcome! Welcome! Welcome!,"いらっしゃい
  
 いらっしゃい
@@ -904,7 +904,7 @@ Welcome! Welcome! Welcome!,"いらっしゃい
  welcome 
  welcome 
  
- welcome!",1.0
+ welcome!",1.0,0.871671
 How extravagant.,"(ｱﾆｷ
 たち
 )
@@ -912,7 +912,7 @@ How extravagant.,"(ｱﾆｷ
 ｡
 
 ","Fuhufu ...
-.",0.2
+.",0.2,0.1581969
 Please take your time...,"(
 店員
 )
@@ -920,7 +920,7 @@ Please take your time...,"(
 ｡
 
 ","take your time
-.",0.5
+.",0.5,0.7246477
 "<i>That meal contains</i>
 <i>a tasteless and odorless medicine</i>","しゃっくりが止まらない薬が
 混ぜ込んである
@@ -930,14 +930,14 @@ Please take your time...,"(
 ","There is a medicine that can not stop
 Mixing
 .
-➡",0.15
+➡",0.15,0.3928937
 <i>It's a fitting end for you!</i>,"うまそう！
 (ｶｶｼ)
 豪勢だね！
 
 ","Good!
 
-It's a great deal!",0.26666666666666666
+It's a great deal!",0.26666666666666666,0.1468609
 "Not one of you has
 even laid chopsticks on the food.","(ｱﾆｷ)
 《カカシ
@@ -956,7 +956,7 @@ In
 Eating
 You're the last late
 .
-➡",0.15
+➡",0.15,0.30621585
 "Not really, but why don't you,
 Kakashi Sensei, hurry up and eat?","それより
  
@@ -966,7 +966,7 @@ Kakashi Sensei, hurry up and eat?","それより
 ","Same
  
 Kakashi teacher
-If you eat quickly?",0.21052631578947367
+If you eat quickly?",0.21052631578947367,0.64812964
 "Well, I'm on a diet.","(ｶｶｼ)
 いやぁ
  
@@ -978,7 +978,7 @@ If you eat quickly?",0.21052631578947367
  
 I am now
 Because it is a diet
-.",0.2857142857142857
+.",0.2857142857142857,0.67576224
 "<i>Then I'll strip off that mask</i>
 <i>if it kills me!</i>","だったら
  
@@ -988,7 +988,7 @@ Because it is a diet
 ","If
  
 It can be done by peeling even in the mean
-That mask!""",0.2
+That mask!""",0.2,0.59804344
 "Oh, sorry, sorry, I unintentionally...","(
 手下
 )
@@ -1000,20 +1000,20 @@ That mask!""",0.2
 ","Oh ~
  
 Sekishi food ...
-.",0.2
+.",0.2,0.1428791
 "- What do you mean ""unintentionally""?!
 - What do you mean ""unintentionally""?!","ぐあ～～！
 何てことを！
 
 ","Via ~!
-What do you do!",0.3333333333333333
+What do you do!",0.3333333333333333,0.13441706
 What a pity! The meal...,"あ～！
  
 手が滑った！
 
 ","Oh!
  
-The hand slipped!",0.2
+The hand slipped!",0.2,0.2896379
 "Hey, what's the next move?","ねぇ
  
 次は
@@ -1024,7 +1024,7 @@ The hand slipped!",0.2
  
 next
  
-What to do?",0.4
+What to do?",0.4,0.62203103
 Don't worry. I have an idea.,"安心しろ
  
 俺に考えがある
@@ -1033,7 +1033,7 @@ Don't worry. I have an idea.,"安心しろ
 ","do not worry
  
 I think about me
-.",0.3333333333333333
+.",0.3333333333333333,0.4902154
 "- An idea?
 - An idea?","考え？
 フン
@@ -1041,7 +1041,7 @@ I think about me
 
 ","idea?
 Hung
-.",0.3333333333333333
+.",0.3333333333333333,0.49912438
 "I see, this is pretty good thinking
 for Sasuke.","これならマスクも脱ぐよな
  
@@ -1051,7 +1051,7 @@ for Sasuke.","これならマスクも脱ぐよな
 ","If this is done too
  
 usually
-.",0.2
+.",0.2,0.21897422
 "Kakashi, you will die here!","(ｱﾆｷ)
 フフフフ…
 カカシ
@@ -1067,10 +1067,10 @@ Kakashi
 You are
  
 Do not die here
-.",0.3076923076923077
+.",0.3076923076923077,0.8659331
 Darn...,"エ～ヘ…》
 
-","ヘ ... """,0.25
+","ヘ ... """,0.25,0.1827249
 "I wanted to see it too,
 but this is a hot spring...","でも
  
@@ -1080,14 +1080,14 @@ but this is a hot spring...","でも
 ","but
  
 It is a hot spring ...
-.",0.4666666666666667
+.",0.4666666666666667,0.65062815
 But I want to see!,"でも見たい！
  
 あ～！
 
 ","But I want to see!
  
-Oh!",0.8571428571428571
+Oh!",0.8571428571428571,0.95410067
 "All right, I'm coming in now.","それがお前には
  
 お似合いだ
@@ -1096,20 +1096,20 @@ Oh!",0.8571428571428571
 ","That's right
  
 お
-.",0.16666666666666666
+.",0.16666666666666666,0.16433585
 "Oh, I can't see at all!","もう！
  
 全然見えない！
 
 ","Already!
  
-I can not see at all!",0.4166666666666667
+I can not see at all!",0.4166666666666667,0.7414298
 "Thanks for waiting.
 I'll just soak for a little while.","ちょっとだけよ
 ｡
 
 ","A little bit
-.",0.25
+.",0.25,0.09248795
 "- Why is it like this?!
 - Why is it like this?!","(ﾅﾙﾄ･ｻｽｹ)
 《何で
@@ -1118,21 +1118,21 @@ I'll just soak for a little while.","ちょっとだけよ
 
 ","""why
  
-This is ... """,0.3
+This is ... """,0.3,0.38732323
 <i>Now!</i>,"(ｱﾆｷ)
 《今だ！》
 
-","""now!""",0.25
+","""now!""",0.25,0.4670405
 "What happened?
 I want to know!","どうなったのかしら？
 気になる～！
 
 ","What happened?
-I'm worried!",0.5
+I'm worried!",0.5,0.60271853
 "- Our clothes are gone!
 - Our clothes are gone!","服がな～い！
 
-",Clothes!,0.3333333333333333
+",Clothes!,0.3333333333333333,0.5176137
 "Crap... I'm going to
 definitely defeat you, Kakashi Hatake.","(ｱﾆｷ)
 くそ～！
@@ -1147,7 +1147,7 @@ definitely defeat you, Kakashi Hatake.","(ｱﾆｷ)
 surely
 I will try to defeat
  
-Hatoken Kakashi!",0.21052631578947367
+Hatoken Kakashi!",0.21052631578947367,0.65626943
 "But it was great that
 we brought spare clothes.","(
 手下１
@@ -1166,12 +1166,12 @@ Spare clothes
 I have brought it
  
 It was good
-.",0.4
+.",0.4,0.7606684
 "Now, break up.","はぁ…
 ｡
 
 ","...
-.",0.16666666666666666
+.",0.16666666666666666,0.1801286
 "I'm almost at the end of
 my patience as well...","俺も
  
@@ -1181,7 +1181,7 @@ my patience as well...","俺も
 ","me too
  
 It is the limit of patience soon
-.",0.15789473684210525
+.",0.15789473684210525,0.7543323
 "Sasuke... actually, me too...","サスケ君
  
 実は私も…
@@ -1190,25 +1190,25 @@ It is the limit of patience soon
 ","Sasuke
  
 Actually me ...
-.",0.5714285714285714
+.",0.5714285714285714,0.9466472
 "Then, it's the last resort!","だったら
  
 最後の手段だってばよ！
 
 ","If
  
-It is the last way!",0.36363636363636365
+It is the last way!",0.3636363636363637,0.63626957
 "- Last resort?
 - Last resort?","最後の手段？
 
-",Last means?,0.4
+",Last means?,0.4,0.50034237
 What do you do with this?,"これで
  
 どうする？
 
 ","with this 
  
- what will you do?",0.8571428571428571
+ what will you do?",0.8571428571428571,0.55528337
 "Hey, what are you guys up to?","あれ？
 どうしちゃったの？
  
@@ -1219,7 +1219,7 @@ What do you do with this?,"これで
 what happened?
  
 you guys
-.",0.3333333333333333
+.",0.3333333333333333,0.26976094
 "It is not that we want to see
 what is behind your mask!","お前の
  
@@ -1235,12 +1235,12 @@ I want to see under the mask
 It is not good
  
 the…
-.",0.42105263157894735
+.",0.42105263157894735,0.7729079
 Fool! Don't say unnecessary things!,"あたっ！
 バカ！
 
 ","Hit!
-fool!",0.25
+fool!",0.25,0.6199231
 That's...!,"カカシめ～！
 (
 手下１
@@ -1253,7 +1253,7 @@ That's...!,"カカシめ～！
 
 Big Bro
  
-that!",0.2857142857142857
+that!",0.2857142857142857,0.17086966
 "Boss! There's somebody else besides you
 who holds a grudge on Kakashi!","アニキのほかにも
  
@@ -1263,7 +1263,7 @@ who holds a grudge on Kakashi!","アニキのほかにも
 ","Besides aniki
  
 To grudge Kakashi
-There was a guy who thought!",0.3684210526315789
+There was a guy who thought!",0.3684210526315789,0.70471585
 Now is the chance!,"(
 手下１
 )
@@ -1277,7 +1277,7 @@ Now is the chance!,"(
 
 ~
  
-I'll go ~!",0.2727272727272727
+I'll go ~!",0.2727272727272727,0.5002138
 "- Right!
 - Right!","(
 手下２
@@ -1286,7 +1286,7 @@ I'll go ~!",0.2727272727272727
 )
 へい！
 
-",Wall!,0.25
+",Wall!,0.25,0.2771771
 "With this medicine I prepared
 that will make you cry... What?!","死ぬがいい！
  
@@ -1300,10 +1300,10 @@ that will make you cry... What?!","死ぬがいい！
 My formulation
 Tears will not stop
  
-This medicine!➡",0.22727272727272727
+This medicine!➡",0.2272727272727273,0.7032081
 you finally come out.,"やっと出てきたってわけ？
 
-",Did you finally come out?,0.5714285714285714
+",Did you finally come out?,0.5714285714285714,0.7042755
 "But before that,
 Sasuke, Sakura, Naruto!","(ｶｶｼ)
 と
@@ -1326,7 +1326,7 @@ Cherry blossoms
  
 Naruto
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.71237606
 Why are you guys dressed like that?,"お前ら
  
 何で
@@ -1335,7 +1335,7 @@ Why are you guys dressed like that?,"お前ら
 ","You guys
  
 why
-Is it such a good looking?",0.2857142857142857
+Is it such a good looking?",0.2857142857142857,0.6292022
 "<i>We have to make up an explanation,</i>
 <i>whatever it is!</i>","《マズい！
  
@@ -1345,10 +1345,10 @@ Is it such a good looking?",0.2857142857142857
 ","""Maz!
  
 Because it is fine
-I have to excuse me",0.2727272727272727
+I have to excuse me",0.2727272727272727,0.17139857
 Caught you!,"引っ掛かったわね！
 
-",I caught it!,0.4
+",I caught it!,0.4,0.7893286
 "What?! Then our plot was exposed
 from the beginning!","何だと～!?
  
@@ -1362,7 +1362,7 @@ from the beginning!","何だと～!?
 Well then
 Our
  
-Talk",0.26666666666666666
+Talk",0.26666666666666666,0.27133036
 "Of course!
 This was a trap to lure you guys out!","当然！
  
@@ -1376,14 +1376,14 @@ This was a trap to lure you guys out!","当然！
 this is
  
 You
-Was it to be able to",0.4375
+Was it to be able to",0.4375,0.3992408
 "<i>Nice, Sakura!</i>","《ナイスだ
  
 サクラ！》
 
 ","""Nice
  
-Sakura!""",0.3
+Sakura!""",0.3,0.77409387
 "I don't quite get what's happening,
 but oh well...","(ｶｶｼ)
 ん～
@@ -1396,7 +1396,7 @@ but oh well...","(ｶｶｼ)
  
 somehow
  
-I do not understand well",0.17647058823529413
+I do not understand well",0.17647058823529413,0.39226267
 "- Please forgive us!
 - Please forgive us!","お許しを！
  
@@ -1404,20 +1404,20 @@ I do not understand well",0.17647058823529413
 
 ","Forgive me!
  
-Forgive me!",0.3333333333333333
+Forgive me!",0.3333333333333333,0.6877852
 "- O-Oh no!
 - S-Stop!","(ｱﾆｷ
 たち
 )
 あ～！
 
-",Oh!,0.16666666666666666
+",Oh!,0.16666666666666666,0.31030196
 It's the same as three years ago!,"(ｱﾆｷ)
 もう３年前と
 同じじゃねえかよ！➡
 
 ","Another three years ago
-It's not the same!➡",0.6666666666666666
+It's not the same!➡",0.6666666666666666,0.851977
 "This time, we're hung by just one rope,
 combined with the same movement.","今度は
 ﾛｰﾌﾟ
@@ -1437,7 +1437,7 @@ It is crazy
 Morely
  
 I'm doing the same move ...
-.",0.2222222222222222
+.",0.2222222222222222,0.6427498
 "By the way, who are you guys?","(ｶｶｼ)
 ところで
  
@@ -1449,7 +1449,7 @@ I'm doing the same move ...
  
 Integral
  
-What do you do?",0.4166666666666667
+What do you do?",0.4166666666666667,0.1779718
 "Hey, Kakashi Sensei.","ねぇ
  
 カカシ先生
@@ -1458,11 +1458,11 @@ What do you do?",0.4166666666666667
 ","Hey
  
 teacher Kakashi
-.",0.5
+.",0.5,0.7271026
 Yeah?,"(ｶｶｼ)
 あ？
 
-",Ah?,0.3333333333333333
+",Ah?,0.3333333333333333,0.64455175
 "What? You wanted to see
 what's behind this mask?","(ｶｶｼ)
 何？
@@ -1473,7 +1473,7 @@ what's behind this mask?","(ｶｶｼ)
 ","what?
  
 Under this mask
-Did you want to see?",0.5384615384615384
+Did you want to see?",0.5384615384615384,0.89659745
 "Then you should have said
 that from the beginning...","うん！
 (ｶｶｼ)
@@ -1485,7 +1485,7 @@ that from the beginning...","うん！
 
 If
  
-From the beginning",0.23076923076923078
+From the beginning",0.2307692307692308,0.3017061
 "Well, can you show us?","言えばいいのに
 ｡
 え？
@@ -1500,13 +1500,13 @@ picture?
  
 Surely
  
-Do you show me?",0.1875
+Do you show me?",0.1875,0.54194427
 Sure thing.,"(ｶｶｼ)
 それじゃ…
 ｡
 
 ","Well then…
-.",0.2
+.",0.2,0.094016545
 <i>Buckteeth?</i>,"(ｶｶｼ)
 何だ
  
@@ -1514,13 +1514,13 @@ Sure thing.,"(ｶｶｼ)
 
 ","What
  
-What?",0.14285714285714285
+What?",0.14285714285714285,0.08747376
 Behind this mask...,"(ｶｶｼ)
 このマスクの下は…
 ｡
 
 ","Under this mask ...
-.",0.5
+.",0.5,0.8962953
 There happens to be another mask!,"(ｶｶｼ)
 またマスクがあったり
 するんだな
@@ -1530,25 +1530,25 @@ There happens to be another mask!,"(ｶｶｼ)
 ","There is a mask again
 I do
  
-This is ~!",0.21428571428571427
+This is ~!",0.21428571428571427,0.805081
 "- What?!
 - What?!","だぁ～！
 
-",Oh yeah!,0.16666666666666666
+",Oh yeah!,0.16666666666666666,0.19483872
 What in the world is that?!,"何なんだってばよ!?
  
 それ～！
 
 ","What is it?
  
-That ~!",0.5
+That ~!",0.5,0.52358204
 <i>like the rainbow after the storm</i>,"♬
  
 明日へ向かう風を感じてた
 
 ","♬
  
-I felt the wind towards tomorrow",0.14285714285714285
+I felt the wind towards tomorrow",0.14285714285714285,0.4043785
 "<i>Uh...like a shooting star,</i>
 <i>we do go ahead.</i>","♬
  
@@ -1556,7 +1556,7 @@ I felt the wind towards tomorrow",0.14285714285714285
 
 ","♬
  
-Dreams like meteor",0.05555555555555555
+Dreams like meteor",0.05555555555555555,0.37620026
 """The No. 1 Hyperactive
 Knucklehead Ninja ""!","♬
  
@@ -1566,7 +1566,7 @@ Knucklehead Ninja ""!","♬
 ","♬
  
 After the rain
-Like rainbow",0.07142857142857142
+Like rainbow",0.07142857142857142,0.070979886
 "I'm not ""the No. 1 Hyperactive
 Knucklehead Ninja""!","♬
  
@@ -1578,7 +1578,7 @@ Knucklehead Ninja""!","♬
  
 Glow
 ""
-When",0.0625
+When",0.0625,0.13035706
 "What's this
 you've been practicing?","♬
  
@@ -1586,4 +1586,4 @@ you've been practicing?","♬
 
 ","♬
  
-Laughing you",0.1
+Laughing you",0.1,0.11366861

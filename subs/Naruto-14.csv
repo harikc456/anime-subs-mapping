@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Unraveling our hearts,</i>","♬
  
 俺たちの
@@ -9,45 +9,45 @@ en_text,jp_text,google_translated,score
  
 Our
  
-Now",0.1
+Now",0.1,0.31825215
 <i>Unraveling shadows</i>,"♬
  
 かりたてるのさ
 
 ","♬
  
-I'm sorry",0.1111111111111111
+I'm sorry",0.1111111111111111,0.20490633
 "<i>Reaching for beyond,</i>","♬
  
 誰のためでなく
 
 ","♬
  
-Not for anyone",0.09090909090909091
+Not for anyone",0.09090909090909093,0.22818439
 <i>Tearing through the dark</i>,"♬
  
 闇を裂いて
 
 ","♬
  
-Crack the darkness",0.09090909090909091
+Crack the darkness",0.09090909090909093,0.5458265
 <i>In fighting and in love</i>,"♬
  
 愛しあうことも
 
 ","♬
  
-I love you",0.2
+I love you",0.2,0.38120192
 "<i>Yes, we are on the way</i>","♬
  On The Way
 
 ","♬
- ON THE WAY",0.25
+ ON THE WAY",0.25,0.53447694
 <i>I wanna rock...</i>,"♬
  I Wanna ROCKS
 
 ","♬
- I Wanna Rocks",0.3
+ I Wanna Rocks",0.3,0.76468647
 <i>The Village Hidden in the Leaves.</i>,"♬
  
 胸に
@@ -56,13 +56,13 @@ ROCKS
 ","♬
  
 In the chest
-Rocks",0.16666666666666666
+Rocks",0.16666666666666666,0.2357173
 "<i>This is a Hidden Village that has produced</i>
 <i>many superb Ninjas.</i>","ここは数多くの優れた忍者を
 生んできた隠れ里だ〉
 
 ","Here is a number of excellent ninjas
-It is a hidden village that has been produced>",0.36363636363636365
+It is a hidden village that has been produced>",0.3636363636363637,0.88400924
 "<i>The number one prankster of the village,</i>
 <i>Naruto Uzumaki,</i>","〈里一番の
  
@@ -72,18 +72,18 @@ It is a hidden village that has been produced>",0.36363636363636365
 ","<Village's best
  
 Mischievous person
-Uzumaki Naruto",0.23529411764705882
+Uzumaki Naruto",0.2352941176470588,0.80842626
 "<i>is a boy who is also</i>
 <i>striving to become a first rate Ninja.</i>","一流の忍者を目指す少年だ〉
 
-",A boy aiming for a leading ninja>,0.15789473684210525
+",A boy aiming for a leading ninja>,0.15789473684210525,0.6690548
 I don't care!,"(ﾅﾙﾄ)
 うっせぇんだってばよ！
 
-",I'm sorry!,0.2857142857142857
+",I'm sorry!,0.2857142857142857,0.4589275
 Transform!,"変化！
 
-",change!,0.3333333333333333
+",change!,0.3333333333333333,0.5633595
 "- You fool!
 - <i>However, Naruto had a secret inside him.</i>","だが
  
@@ -93,7 +93,7 @@ Transform!,"変化！
 ","But
  
 Naruto
-There was a secret that I did not know the person>",0.2
+There was a secret that I did not know the person>",0.2,0.80104285
 "<i>At one time, the nine tailed fox drove</i>
 <i>the Village Hidden in the Leaves</i>","〈かつて
  
@@ -101,18 +101,18 @@ There was a secret that I did not know the person>",0.2
 
 ","<Once
  
-Kuno Leaves Hidden Village",0.21052631578947367
+Kuno Leaves Hidden Village",0.21052631578947367,0.48733017
 <i>to the brink of destruction...</i>,"壊滅寸前まで追い込んだ
 九尾のきつね〉
 
 ","I driven it to the end of the destruction
-Kuzo's Kitsuzen>",0.375
+Kuzo's Kitsuzen>",0.375,0.38593844
 "<i>That nine tailed monster fox is</i>
 <i>sealed within Naruto's body.</i>","ナルトの体内に
 封印されているのだ〉
 
 ","In Naruto's body
-It is sealed>",0.2777777777777778
+It is sealed>",0.2777777777777778,0.67007667
 "Imagine what would happen
 if he becomes a Ninja.","(
 女性２
@@ -121,7 +121,7 @@ if he becomes a Ninja.","(
 ｡
 
 ","It would be difficult if something is Shinobu
-.",0.1875
+.",0.1875,0.3517546
 "Okay, you may open your eyes now.","(ｲﾙｶ)
 よし！
  
@@ -133,7 +133,7 @@ if he becomes a Ninja.","(
  
 You can see it already
 .
-➡",0.125
+➡",0.125,0.3966495
 Congratulations on your graduation.,"卒業
  
 おめでとう
@@ -142,7 +142,7 @@ Congratulations on your graduation.,"卒業
 ","graduation
  
 congratulation
-.",0.3333333333333333
+.",0.3333333333333333,0.89298993
 "<i>However, that Naruto,</i>","〈しかし
  
 そんなナルトも
@@ -151,7 +151,7 @@ congratulation
 ","<However
  
 Such Naruto
-This is my affair",0.23076923076923078
+This is my affair",0.2307692307692308,0.7642122
 "- That hurts!
 - <i>graduates from the Ninja Academy.</i>","〈そのため
  
@@ -159,7 +159,7 @@ This is my affair",0.23076923076923078
 
 ","<for that reason
  
-From the adults of the village",0.2222222222222222
+From the adults of the village",0.2222222222222222,0.18067127
 Say cheese!,"(ｹﾞﾝｿﾞｳ)
 はい
  
@@ -169,12 +169,12 @@ Say cheese!,"(ｹﾞﾝｿﾞｳ)
 ","Yes
  
 cheese
-.",0.2
+.",0.2,0.64846563
 <i>He starts off on his first step as a Ninja.</i>,"〈忍者としての第一歩を
 歩み始める〉
 
 ","<First step as a ninja
-Start walking>",0.35294117647058826
+Start walking>",0.35294117647058826,0.7634229
 "<i>Sakura Haruno is a Kunoichi who</i>
 <i>Naruto has the hots for.</i>","〈春野サクラは
  
@@ -188,7 +188,7 @@ Start walking>",0.35294117647058826
 Naruto
 He is loving
  
-It is no one>",0.3
+It is no one>",0.3,0.7593637
 "<i>One day, Naruto's group takes on</i>
 <i>the mission to guard Tazuna,</i>","〈ある日
  
@@ -198,7 +198,7 @@ It is no one>",0.3
 ","<one day
  
 Naruto
-Wave country Bridge Masterpiece",0.19047619047619047
+Wave country Bridge Masterpiece",0.19047619047619047,0.5193981
 "<i>who attempts to control</i>
 <i>the Land of the Waves.</i>","〈ところが
  
@@ -208,10 +208,10 @@ Wave country Bridge Masterpiece",0.19047619047619047
 ","<However
  
 Tazna
-Mark the domination of the country of waves",0.16666666666666666
+Mark the domination of the country of waves",0.16666666666666666,0.60433036
 Stop your darned grumbling!!,"出発！
 
-",departure!,0.16666666666666666
+",departure!,0.16666666666666666,0.26214638
 "- Next time I'll kill him with...
 - <i>And Gato had hired a terrifying man</i>","恐ろしい男を雇っていた
 ｡
@@ -219,13 +219,13 @@ Stop your darned grumbling!!,"出発！
 
 ","I hired a horrible man
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.4717041
 "<i>He was a man who had excelled at</i>
 <i>Silent Killing and</i>","ガトーという男に
 命を狙われていたのだった〉
 
 ","To a man called Gateau
-I was aiming for life>",0.23809523809523808
+I was aiming for life>",0.2380952380952381,0.30266526
 "Record in your Bingo Book
 about the man","お前の手配書に
  
@@ -235,7 +235,7 @@ about the man","お前の手配書に
 ","In your arrangement
  
 Newly loaded
-.",0.16666666666666666
+.",0.16666666666666666,0.18310718
 "who'll one day become
 the Leaf Village's Hokage.","いずれ
 木ノ葉隠れの火影になる男…
@@ -243,16 +243,16 @@ the Leaf Village's Hokage.","いずれ
 
 ","Either
 A man who becomes a fire shadow of the wooden no leaf hiding ...
-.",0.18181818181818182
+.",0.18181818181818185,0.48303986
 Naruto Uzumaki!!,"うずまきナルトってな！
 
-",Naruto Uzumaki!,1.0
+",Naruto Uzumaki!,1.0,0.9901042
 <i>A Shuriken in the Shuriken's shadow!</i>,"(
 再不斬
 )
 《手裏剣の影に手裏剣が！》
 
-","""Shuriken with the shadow of the shuriken!""",0.26666666666666666
+","""Shuriken with the shadow of the shuriken!""",0.26666666666666666,0.7968056
 "<i>thanks to Naruto and Sasuke's</i>
 <i>close team work.</i>","〈しかし
  
@@ -262,7 +262,7 @@ Naruto Uzumaki!!,"うずまきナルトってな！
 ","<However
  
 Naruto and Sasuke
-Cooperation play by ➡",0.2222222222222222
+Cooperation play by ➡",0.2222222222222222,0.7358867
 <i>Me...?</i>,"(
 再不斬
 )
@@ -276,20 +276,20 @@ Cooperation play by ➡",0.2222222222222222
  
 Such a fool
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.43390185
 <i>R-Ridiculous!</i>,"形勢は逆転〉
 
-",Changes reverse>,0.125
+",Changes reverse>,0.125,0.14619316
 <i>Is that his Genjutsu ?</i>,"ヤツの幻術か？》
 
-","Is it a guy of the guy?""",0.13333333333333333
+","Is it a guy of the guy?""",0.13333333333333333,0.27068254
 The Water Style! Giant Vortex Jutsu!!,"(ｶｶｼ)
 水[外:99C09079206BA433E50523B592C8055A]大瀑布の術！
 
-",Water [Outside: 99C09079206BA433E50523B592C8055A] Large District Technology!,0.13333333333333333
+",Water [Outside: 99C09079206BA433E50523B592C8055A] Large District Technology!,0.13333333333333333,0.3626733
 No way!,"あ～！
 
-",Oh!,0.25
+",Oh!,0.25,0.33164808
 "I must get rid this corpse
 because it contains many secrets.","(
 白
@@ -306,7 +306,7 @@ because it contains many secrets.","(
 This corpse
 I have to start
 .
-➡",0.25
+➡",0.25,0.5353907
 "Now then, please excuse me.","それじゃ
  
 失礼します
@@ -315,7 +315,7 @@ I have to start
 ","Well then
  
 Excuse me
-.",0.5
+.",0.5,0.71333796
 "<i>However, this boy, Haku...</i>","〈だが
  
 この少年
@@ -326,12 +326,12 @@ Excuse me
  
 This boy
  
-White is ➡",0.21428571428571427
+White is ➡",0.21428571428571427,0.44653642
 <i>was Zabuza's comrade.</i>,"〈とどめを刺したのは
 霧隠れの追い忍の少年〉
 
 ","<I stabbed it
-Foggy True Boys>",0.23076923076923078
+Foggy True Boys>",0.2307692307692308,0.1661991
 Will you be all right the next time?,"(
 白
 )
@@ -341,23 +341,23 @@ Will you be all right the next time?,"(
 
 ","Next
  
-is it OK?",0.16666666666666666
+is it OK?",0.16666666666666666,0.44725564
 The next time...,"(
 再不斬
 )
 次なら…➡
 
-",Next ... ➡,0.4
+",Next ... ➡,0.4,0.6228916
 "<i>Kakashi who has inferred</i>
 <i>that Zabuza is still alive,</i>","〈再不斬が生きていることを
 察したカカシは➡
 
 ","<Relaxing is alive
-Kakashi who inspected",0.3125
+Kakashi who inspected",0.3125,0.61821604
 "- Ready!!
 - <i>new training in preparation...</i>","新たな修業をさせるのだった〉
 
-",I made new training>,0.3076923076923077
+",I made new training>,0.3076923076923077,0.6863067
 "<i>And then,</i>
 <i>One week later...</i>","〈そして
  
@@ -365,7 +365,7 @@ Kakashi who inspected",0.3125
 
 ","<and
  
-One week later ...>",0.6363636363636364
+One week later ...>",0.6363636363636364,0.7907269
 Sasuke! Sakura! They are coming!,"(ｶｶｼ)
 この霧…
 サスケ
@@ -379,7 +379,7 @@ Sasuke
  
 Cherry blossoms
  
-It's coming!",0.23076923076923078
+It's coming!",0.2307692307692308,0.61218065
 "This means a rival has emerged, Haku.","(
 再不斬
 )
@@ -391,7 +391,7 @@ It's coming!",0.23076923076923078
 ","Rival appearances
  
 White
-.",0.18181818181818182
+.",0.18181818181818185,0.338358
 So it seems.,"(
 白
 )
@@ -399,13 +399,13 @@ So it seems.,"(
 ｡
 
 ","It looks like so
-.",0.5
+.",0.5,0.7414876
 Crystal Ice Mirrors!,"(
 白
 ) 
 魔鏡氷晶！
 
-",Magician ice crystals!,0.3333333333333333
+",Magician ice crystals!,0.3333333333333333,0.772825
 Now then... I'll start.,"(
 白
 )
@@ -413,25 +413,25 @@ Now then... I'll start.,"(
 ｡
 
 ","Secretary ...
-.",0.25
+.",0.25,0.18629438
 Take <i>this!</i>,"〈時は訪れた〉
 
-",<When I visited>,0.3333333333333333
+",<When I visited>,0.3333333333333333,0.43086457
 Naruto!,"(ﾀｽﾞﾅ)
 おぉ！
 ナルト！
 
 ","Oh!
-Naruto!",0.6666666666666666
+Naruto!",0.6666666666666666,0.9324759
 "The hero of a story generally appears
 in this kind of situation","物語の主人公ってのは➡
 
-",The protagonist of the story is ➡,0.21428571428571427
+",The protagonist of the story is ➡,0.21428571428571427,0.5708986
 and takes out the enemy in no time!,"あっちゅう間に
 敵をやっつけるのだ！
 
 ","In a while
-I will do an enemy!",0.2
+I will do an enemy!",0.2,0.58945835
 "Heh... That brat, eh...","(
 再不斬
 )
@@ -441,12 +441,12 @@ I will do an enemy!",0.2
 
 ","""Hun
  
-That oyster ... """,0.2222222222222222
+That oyster ... """,0.2222222222222222,0.15094122
 <i>Making such a conspicuous entrance...</i>,"大体
 こういうパターンで出てきて➡
 
 ","generally speaking
-I came out with such a pattern",0.1875
+I came out with such a pattern",0.1875,0.25865367
 "<i>What're you doing in a place</i>
 <i>like this from morning?</i>","(
 白
@@ -455,10 +455,10 @@ I came out with such a pattern",0.1875
 朝から何をやってたんです？＞
 
 ","<In such a place
-What did you do from the morning?>",0.5
+What did you do from the morning?>",0.5,0.7628123
 <i>Training!!</i>,"＜修業！＞
 
-",<Study!>,0.42857142857142855
+",<Study!>,0.42857142857142855,0.48889416
 <i>Why are you training?</i>,"(
 白
 )
@@ -466,7 +466,7 @@ What did you do from the morning?>",0.5
 修業なんかしてるんですか？＞
 
 ","<What
-Are you studying something?>",0.4166666666666667
+Are you studying something?>",0.4166666666666667,0.41546932
 "All right, here I go!
 Shadow Clone Jutsu...","お～し
  
@@ -480,10 +480,10 @@ Shadow Clone Jutsu...","お～し
 let's go!
  
 Shadow element ...
-.",0.25
+.",0.25,0.41957992
 Whoa!,"しまった！
 
-",Oops!,0.3333333333333333
+",Oops!,0.3333333333333333,0.45601854
 What?!,"(
 一同
 )
@@ -495,24 +495,24 @@ What?!,"(
 
 ","Ah!
 
-what!?",0.75
+what!?",0.75,0.64097553
 "To think the enemy attacks
 would cancel each other out...","(ﾀｽﾞﾅ)
 敵の攻撃が同士討ちになるとは➡
 
-",When the enemy's attacks will be discussed,0.1875
+",When the enemy's attacks will be discussed,0.1875,0.62385374
 That was super lucky...,"超ラッキーじゃったのう
 ｡
 
 ","Super lucky
-.",0.3333333333333333
+.",0.3333333333333333,0.7016451
 "Hey! What're you doing, Naruto?!","ちょっと何やってんの!?
  
 ナルト！
 
 ","What do you do for a while?
  
-Naruto!",0.38461538461538464
+Naruto!",0.38461538461538464,0.8115667
 "to cast a Jutsu directly
 in front of an opponent?!","(ｶｶｼ)
 おい！
@@ -521,7 +521,7 @@ in front of an opponent?!","(ｶｶｼ)
 
 ","Oi!
  
-From the front of the other party",0.17647058823529413
+From the front of the other party",0.17647058823529413,0.30284697
 "The essence of a Ninja is deception.
 How you deceive your opponent.","(ｶｶｼ)
 忍の本質は
@@ -536,23 +536,23 @@ How you deceive your opponent.","(ｶｶｼ)
 Male
 How do you do the other party
 .
-➡",0.3684210526315789
+➡",0.3684210526315789,0.39700896
 "Even casting one Jutsu,
 you avoid the eyes of your opponents,","術一つをかけるにしても
 相手の目を盗み➡
 
 ","Even if you apply one technique
-Steal the other party's eyes",0.2631578947368421
+Steal the other party's eyes",0.2631578947368421,0.5626809
 "But I went to the trouble
 of coming to the rescue.","せっかく助けに来たのに
 ｡
 
 ","Even though I came to help
-.",0.21428571428571427
+.",0.21428571428571427,0.6054769
 <i>That guy...</i>,"(ｶｶｼ)
 《それよりも気になるのが…》
 
-","""I'm worried about it ...""",0.15384615384615385
+","""I'm worried about it ...""",0.15384615384615385,0.16827117
 Haku... What's the idea?,"んが!?
  
 そ…
@@ -563,7 +563,7 @@ Haku... What's the idea?,"んが!?
  
 ancestor…
  
-That's right!",0.18181818181818182
+That's right!",0.18181818181818185,0.1726198
 "Zabuza, leave this kid to me...","(
 白
 )
@@ -575,17 +575,17 @@ That's right!",0.18181818181818182
 ","Resincent
 This child is me ...
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.3486274
 Please let me fight this battle my way.,"この戦いは
 僕の流儀でやらせてください
 ｡
 
 ","This battle is
 Please let me do it in my way
-.",0.6153846153846154
+.",0.6153846153846154,0.8040408
 What did you say?,"何だと？
 
-",What did you say?,1.0
+",What did you say?,1.0,1.0
 You're naive... as usual...,"(
 再不斬
 )
@@ -597,7 +597,7 @@ You're naive... as usual...,"(
 ","It is a sweet bastard as usual
  
 You are
-.",0.23076923076923078
+.",0.2307692307692308,0.26665062
 "<i>there's no mistaking that</i>
 <i>I was attacked with a Senbon.</i>","この傷から見て
  
@@ -607,14 +607,14 @@ You are
 ","Looking at this scratch
  
 In a thousand books
-It is certain that it is attacked",0.125
+It is certain that it is attacked",0.125,0.35165322
 If so!,"だったらよ！
  
 俺だって➡
 
 ","If it is!
  
-I'm me",0.25
+I'm me",0.25,0.45994952
 "As for me, I'll take you out first, so!","お前を
 先に
  
@@ -623,7 +623,7 @@ I'm me",0.25
 ","You
 First
  
-I'm sorry!",0.2857142857142857
+I'm sorry!",0.2857142857142857,0.41970092
 Hey. Don't get any ideas...,"(
 再不斬
 )
@@ -637,10 +637,10 @@ Hey. Don't get any ideas...,"(
  
 Don't think about strange things
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.09385887
 "If you move,","お前が動けば➡
 
-",If you move,0.75
+",If you move,0.75,0.95436615
 "you know what'll happen
 to that old man, right?","あのじじいが
  
@@ -650,14 +650,14 @@ to that old man, right?","あのじじいが
 ","Ajiku
  
 what will happen
-Do you know?",0.3333333333333333
+Do you know?",0.3333333333333333,0.48212138
 <i>True...</i>,"やはり
  
 ここは俺が…》
 
 ","also
  
-Here is me ... """,0.09090909090909091
+Here is me ... """,0.09090909090909093,0.17328067
 "<i>If I move away from here and</i>
 <i>head towards Naruto,</i>","俺が
  
@@ -667,7 +667,7 @@ Here is me ... """,0.09090909090909091
 ","I
  
 Away
-If it goes to Naruto",0.23529411764705882
+If it goes to Naruto",0.2352941176470588,0.80470824
 How about it?,"サクラ一人では
 到底
  
@@ -676,7 +676,7 @@ How about it?,"サクラ一人では
 ","One cherry blossoms
 Uniform
  
-How to prevent it",0.2
+How to prevent it",0.2,0.022207644
 That mask...,"そのお面…
  
 やっぱり
@@ -687,30 +687,30 @@ That mask...,"そのお面…
  
 on second thoughts
  
-You",0.25
+You",0.25,0.49688628
 I'm sorry.,"よっくも
  
 だましやがったな！
 
 ","Too
  
-I'm sorry!",0.5
+I'm sorry!",0.5,0.5516978
 "But, your teacher also said it,
 didn't he?","けれど
 君の先生も言ってたでしょ？➡
 
 ","But
-You said your teacher?➡",0.38461538461538464
+You said your teacher?➡",0.38461538461538464,0.6900722
 Please don't take it personally.,"どんな戦いをするか
 見物してやろうじゃねえか
 ｡
 
 ","What fights
 Do you want to see it?
-.",0.21428571428571427
+.",0.21428571428571427,0.13307457
 Sasuke?,"《サスケ？》
 
-","""Sasuke?""",0.5
+","""Sasuke?""",0.5,0.77053016
 I haven't... forgotten about you.,"(
 白
 )
@@ -720,7 +720,7 @@ I haven't... forgotten about you.,"(
 
 ","Of you
 I'm not forgotten
-.",0.36363636363636365
+.",0.3636363636363637,0.6930999
 "But it looks like it won't work
 that way.","そうもいかないみたいですね
 ｡
@@ -728,21 +728,21 @@ that way.","そうもいかないみたいですね
 
 ","It seems that it does not go
 .
-➡",0.2
+➡",0.2,0.25165844
 Fine. I'll put an end to it first.,"いいでしょう
 先に決着つけましょう
 ｡
 
 ","It is good
 Let's make a decision first
-.",0.17647058823529413
+.",0.17647058823529413,0.43743414
 H-Hey!,"お…
  
 おいってば！
 
 ","Oh…
  
-Hey!",0.25
+Hey!",0.25,0.582781
 Naruto. I'll get to you later.,"(
 白
 )
@@ -758,17 +758,17 @@ Naruto. I'll get to you later.,"(
 With you
  
 Again later
-.",0.4
+.",0.4,0.84825563
 "<i>So the real body is over there, eh...</i>","《あそこが本体か…
  
 よし》
 
 ","""There is a body or something ...
  
-""",0.21052631578947367
+""",0.21052631578947367,0.45480067
 <i>Okay!</i>,"《来た！》
 
-","""I came!""",0.2222222222222222
+","""I came!""",0.2222222222222222,0.27214894
 I'm over here.,"(
 白
 )
@@ -776,20 +776,20 @@ I'm over here.,"(
 ｡
 
 ","It's here
-.",0.2857142857142857
+.",0.2857142857142857,0.5241724
 He moved? How?!,"《移動した!?
  
 どうやって？》
 
 ","""moved!?
  
-how?""",0.5714285714285714
+how?""",0.5714285714285714,0.73259556
 "- Sasuke!
 - Sasuke!","サスケ君！
 サスケ！
 
 ","Sasuke-kun!
-Sasuke!",0.5
+Sasuke!",0.5,0.888335
 <i>What was that just now?!</i>,"《何なんだよ？
  
 今のは
@@ -800,7 +800,7 @@ Sasuke!",0.5
  
 Now
 .
-➡",0.1875
+➡",0.1875,0.39515197
 <i>Sasuke's body suddenly got battered...</i>,"いきなり
  
 サスケの体が
@@ -813,12 +813,12 @@ Now
 Sasuke's body
 Become Boroboro ...
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.77625066
 <i>What kind of Jutsu is he using?</i>,"どんな手を
 使ってるんだってばよ》
 
 ","What kind of hand
-You're using it",0.25
+You're using it",0.25,0.37550816
 "<i>gets them all to throw</i>
 <i>the Senbons simultaneously...</i>","分身を鏡に潜ませ
 全員で同時に千本を投げつけ…
@@ -828,7 +828,7 @@ You're using it",0.25
 ","Live the mirror
 Throw thousand bottles at the same time ...
 .
-➡",0.13636363636363635
+➡",0.13636363636363635,0.29315147
 "<i>No, they're too fast considering...</i>","いや
  
 それにしちゃ速すぎる
@@ -839,18 +839,18 @@ Throw thousand bottles at the same time ...
  
 It's too fast
 .
-➡",0.11764705882352941
+➡",0.1176470588235294,0.4679857
 "<i>not being able to see even</i>
 <i>the trajectory of the weapons?</i>","武器の軌道すら見切れないのは
 どういうことだ？》
 
 ","Even the trajectories of the weapon can not be seen
-What does it mean?""",0.2
+What does it mean?""",0.2,0.7491865
 "<i>Also, if it's a mere Clone Jutsu...</i>","《それに
 単なる分身の術だとすれば➡
 
 ","""in addition
-If it is just a method of leverage",0.13636363636363635
+If it is just a method of leverage",0.13636363636363635,0.05408311
 <i>What I can do is to launch attacks...</i>,"(ｶｶｼ)
 《今
  
@@ -858,7 +858,7 @@ If it is just a method of leverage",0.13636363636363635
 
 ","""now
  
-Speaking of what you can do",0.17647058823529413
+Speaking of what you can do",0.17647058823529413,0.26774183
 "<i>The thing to do is to figure out</i>
 <i>the meaning of the mirror!</i>","とにかく
  
@@ -868,10 +868,10 @@ Speaking of what you can do",0.17647058823529413
 ","Anyways
  
 This mirror
-It is necessary to be a guidance of the guy",0.21739130434782608
+It is necessary to be a guidance of the guy",0.21739130434782608,0.56128556
 <i>I'll take care of here!</i>,"《ここは俺が！》
 
-","""Here is me!""",0.14285714285714285
+","""Here is me!""",0.14285714285714285,0.27071315
 "<i>for me to attack the inside and have Naruto</i>
 <i>try attacking the mirrors from the outside.</i>","そして
  
@@ -879,7 +879,7 @@ It is necessary to be a guidance of the guy",0.21739130434782608
 
 ","and
  
-Naruto from the outside of the mirror",0.19047619047619047
+Naruto from the outside of the mirror",0.19047619047619047,0.6829075
 "You okay, Sasuke?","大丈夫か？
  
 サスケ
@@ -892,14 +892,14 @@ Naruto from the outside of the mirror",0.19047619047619047
 Sasuke
 .
 Uey ...
-.",0.4444444444444444
+.",0.4444444444444444,0.8993114
 Y-You idiot!,"うわ！
 
-",Wow!,0.25
+",Wow!,0.25,0.20655954
 What's with you?!,"(ｶｶｼ)
 味方の意表をついてどうする？
 
-",What do you do with allies?,0.5
+",What do you do with allies?,0.5,0.15472458
 "I came to the rescue, you know!","何だ!?
  
 お前！
@@ -910,38 +910,38 @@ What's with you?!,"(ｶｶｼ)
  
 you!
 Even though I came to help
-.",0.3333333333333333
+.",0.3333333333333333,0.55150014
 If you also come inside the mirrors...,"お前まで鏡の中に来たら…
 ｡
 
 ","If you come to the mirror until you ...
-.",0.4166666666666667
+.",0.4166666666666667,0.77779764
 "Since it's come to this,
 all that is left is to smash the mirrors!","こうなったら
 鏡をぶっ壊すまでだ！
 
 ","When it comes to this
-It is until you broke the mirror!",0.2857142857142857
+It is until you broke the mirror!",0.2857142857142857,0.70886374
 "These are mirrors made
 with freezing water...","こいつは水を凍らせて作った鏡
 なら…➡
 
 ","This mirror that makes water freezing water
-Then ... ➡",0.21428571428571427
+Then ... ➡",0.21428571428571427,0.80077744
 It's not working at all!,"全然
  
 効いてねえじゃん！
 
 ","at all
  
-It is effective!",0.4444444444444444
+It is effective!",0.4444444444444444,0.40250677
 Where's the real body?!,"どこだ？
  
 本体は!?
 
 ","Where's?
  
-What is the main unit?",0.36363636363636365
+What is the main unit?",0.3636363636363637,0.24132873
 "It's useless for you to even
 attempt following with your eyes.","(
 白
@@ -954,7 +954,7 @@ attempt following with your eyes.","(
 ","Even if you try to
 It's not
 .
-➡",0.35294117647058826
+➡",0.35294117647058826,0.29476073
 I absolutely will not be caught.,"僕は絶対
  
 捕まらない
@@ -963,18 +963,18 @@ I absolutely will not be caught.,"僕は絶対
 ","I absolutely
  
 Not caught
-.",0.7142857142857143
+.",0.7142857142857143,0.7310115
 Humph. Shadow Clone Jutsu!,"うぅ…
  
 影分身の術！
 
 ","Uh ...
  
-Shadow Subordination!",0.2222222222222222
+Shadow Subordination!",0.2222222222222222,0.47245857
 Don't!,"(ﾅﾙﾄ･ｻｽｹ)
 うわ！
 
-",Wow!,0.25
+",Wow!,0.25,0.22112428
 "If so, I'll find out which is
 the real body by hitting them all!","なら
  
@@ -982,7 +982,7 @@ the real body by hitting them all!","なら
 
 ","If
  
-Which part is the main unit",0.2
+Which part is the main unit",0.2,0.028796673
 "This is a teleportation Jutsu that uses
 mirrors that can reflect only my image.","(
 白
@@ -993,7 +993,7 @@ mirrors that can reflect only my image.","(
 
 ","This technique
  
-I only reflect only",0.1875
+I only reflect only",0.1875,0.53960776
 "it almost seems as if
 you aren't moving at all...","君たちは
 まるで止まっているかのよう
@@ -1001,7 +1001,7 @@ you aren't moving at all...","君たちは
 
 ","you guys
 As if it is stopped
-.",0.25
+.",0.25,0.19929232
 Is that Jutsu... the Kekkei Genkai?!,"(ｶｶｼ)
 あの術
  
@@ -1009,10 +1009,10 @@ Is that Jutsu... the Kekkei Genkai?!,"(ｶｶｼ)
 
 ","That technique
  
-Is the hematonal limit?",0.3333333333333333
+Is the hematonal limit?",0.3333333333333333,0.10424573
 Kekkei... Genkai?,"血継…限界？
 
-",Hygena ... limit?,0.3333333333333333
+",Hygena ... limit?,0.3333333333333333,0.11180743
 It's the same type as my Sharingan...,"(ｶｶｼ)
 俺の写輪眼と同種のものだ
 ｡
@@ -1020,11 +1020,11 @@ It's the same type as my Sharingan...,"(ｶｶｼ)
 
 ","It is the same kind of male ring eye
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.4334359
 "Deep blood ties...
 Lineage of paranormal individuals...","深き血のつながり…➡
 
-",Deep blood connection ... ➡,0.3
+",Deep blood connection ... ➡,0.3,0.46192482
 "A type of Jutsu that is passed on
 only through those traits...","それのみによって
 伝えられるたぐいの術だ
@@ -1032,7 +1032,7 @@ only through those traits...","それのみによって
 
 ","It's only
 It is a technique of conveyed
-.",0.2222222222222222
+.",0.2222222222222222,0.31274256
 That's right...,"(
 再不斬
 )
@@ -1040,24 +1040,24 @@ That's right...,"(
 ｡
 
 ","Fuhufu ...
-.",0.16666666666666666
+.",0.16666666666666666,0.2821899
 "And there's no way to destroy
 that Jutsu, either!","破る方法も皆無
 ｡
 
 ","There is no way to break
-.",0.26666666666666666
+.",0.26666666666666666,0.43864316
 Darn it...,"チクショ～…
 ｡
 
 ","Chikusho ~ ...
-.",0.16666666666666666
+.",0.16666666666666666,0.23938325
 "The dream to have my strength recognized
 by everyone in the village...","里のみんなに
 俺の力を認めさせて➡
 
 ","To everyone in the village
-Let me recognize my power ➡",0.35294117647058826
+Let me recognize my power ➡",0.35294117647058826,0.60329324
 "<i>Brats like you aren't needed</i>
 <i>by anyone</i>","(
 再不斬
@@ -1066,7 +1066,7 @@ Let me recognize my power ➡",0.35294117647058826
 誰にも必要とされず➡
 
 ","<Gaki like you
-Not needed for anyone",0.3333333333333333
+Not needed for anyone",0.3333333333333333,0.34386474
 "<i>and die without ever knowing</i>
 <i>any freedom or dreams...</i>","この先
  
@@ -1080,12 +1080,12 @@ Not needed for anyone",0.3333333333333333
 Freedom or dreams
 Wound and die
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.66307414
 <i>You have the same eyes as I do...</i>,"＜お兄ちゃんも
 僕と同じ目をしてる＞
 
 ","<Also brother
-I have the same eyes as me>",0.5333333333333333
+I have the same eyes as me>",0.5333333333333333,0.81202096
 "For me, becoming a Shinobi completely
 is difficult.","(
 白
@@ -1098,18 +1098,18 @@ is difficult.","(
 ","For me
 It is difficult to become Shinobu
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.88615763
 "If I can, I don't want to kill you guys...","できるなら
 君たちを殺したくないし➡
 
 ","if possible
-I do not want to kill you ➡",0.4666666666666667
+I do not want to kill you ➡",0.4666666666666667,0.71551687
 "But if you guys are
 going to come at me...","けれど
 君たちが向かってくるなら➡
 
 ","But
-If you get headed",0.23076923076923078
+If you get headed",0.2307692307692308,0.40014434
 "I'll kill my feelings with a sword and
 completely become a Shinobi.","僕は
  
@@ -1123,7 +1123,7 @@ completely become a Shinobi.","僕は
 I will kill my mind
 Ninemate
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.36388743
 "This bridge is the battleground
 that connects each of us to our dreams.","この橋は
  
@@ -1137,14 +1137,14 @@ that connects each of us to our dreams.","この橋は
 each
 Location of battle leading to dreams
 .
-➡",0.4444444444444444
+➡",0.4444444444444444,0.82560307
 "I, for the sake of my dream.","僕は
  
 僕の夢のために➡
 
 ","I
  
-For my dreams",0.3
+For my dreams",0.3,0.684296
 "And you, for the sake of your dreams.","君たちは
  
 君たちの夢のために
@@ -1155,27 +1155,27 @@ For my dreams",0.3
  
 For your dreams
 .
-➡",0.4166666666666667
+➡",0.4166666666666667,0.5098843
 Please don't hold it against me...,"恨まないでください
 ｡
 ➡
 
 ","Please do not hate
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.3550601
 I want to protect the person dear to me...,"僕は大切な人を守りたい
 ｡
 ➡
 
 ","I want to protect important people
 .
-➡",0.3076923076923077
+➡",0.3076923076923077,0.6833671
 "I work for the sake of that person,
 I fight for that person,","その人のために働き
 その人のために戦い➡
 
 ","Work for that person
-Battle for that person",0.36363636363636365
+Battle for that person",0.3636363636363637,0.7485889
 "and I want to make that
 person's dream a reality...","その人の夢をかなえたい
 それが僕の夢
@@ -1185,17 +1185,17 @@ person's dream a reality...","その人の夢をかなえたい
 ","I want to make a dream of that person
 That is my dream
 .
-➡",0.47058823529411764
+➡",0.4705882352941176,0.78901774
 and kill you guys!,"あなたたちを殺します！
 
-",I will kill you!,0.42857142857142855
+",I will kill you!,0.42857142857142855,0.5537629
 "Heh-heh. Okay, Sasuke.","♬
  Don't dry with
 fakes or fears.
 
 ","♬
  Don't Dry With With
-Fakes or Fears.",0.07692307692307693
+Fakes or Fears.",0.07692307692307693,0.21140791
 "I've had this bad feeling from
 a while ago.","♬
  A man railed at me twice
@@ -1203,7 +1203,7 @@ but I didn't care
 
 ","♬
  A man railed at me tweed
-BUT I DIDN'T CARE",0.09523809523809523
+BUT I DIDN'T CARE",0.09523809523809523,0.12751587
 "Next episode:
 ""Zero Visibility: The Sharingan Shatters.""","♬
  Coz you will hate yourself
@@ -1211,9 +1211,9 @@ in the end.
 
 ","♬
  COZ YOU WILL HATE YOURSELF
-in the end.",0.1111111111111111
+in the end.",0.1111111111111111,0.14070511
 "As for me, I'll kick butt once again!","♬
  for people like me
 
 ","♬
- for PEOPLE LIKE ME",0.14285714285714285
+ for PEOPLE LIKE ME",0.14285714285714285,0.19098555

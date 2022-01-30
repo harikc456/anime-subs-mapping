@@ -1,47 +1,47 @@
-en_text,jp_text,google_translated,score
-Don't tell me they still haven't decided...,《まさか まだ決まってなくて…》,"""I'm not yet decided yet ...""",0.13333333333333333
-"No, they aren't that silly...",いや さすがに それはねぇか…｡,No matter what it is ....,0.15384615384615385
-"Why won't they call me, already?",あ～早く電話してくれ～｡,"Oh, let me call you soon.",0.21428571428571427
-#36 Dancing Astronaut,おめでとう｡それでは…｡,Congratulations. Then ....,0.0
-Congratulations.,おめでとう｡それでは…｡,Congratulations. Then ....,0.5
-"Goodbye, then.",おめでとう｡それでは…｡,Congratulations. Then ....,0.3333333333333333
-Let me take that for you!,あ 私 持ちます｡,"Oh, I have.",0.0
-How was your dance lesson?,ん～ 発表会まで秘密｡,~ Secret until the presentation.,0.0
-You'll eat both if I don't say I want one.,両方 食べる気だな｡,I feel like eating both.,0.2
-I already opened both.,ふふふ もう両方かじっちゃった｡,"Fufu, both were already spent.",0.3333333333333333
-"This is Volvox, a type of algae.",ボルボックスっていう藻の一種だ｡,It is a kind of algae called Volvox.,0.5
-It's pretty.,ふご～い！キエイだね～｡,Fugu ~!It's Keii ~.,0.375
-Cold!,冷たっ｡,Cold.,0.3333333333333333
-"It's too cold, though.",パピコ食～べよ 寒いけど～｡,Papico food ~ It is cold but ~.,0.25
-"W-Wait, are you okay?",ちょっと大丈夫？あなた！,Is it a bit okay?you!,0.2727272727272727
-Dear?,ああ…アハハ｡➡,Oh ... Ahaha.,0.0
-Can you stand?,立てる？,Start?,0.2
-I don't want that to happen...,そんなの…やだ…｡,Such ... Yada ....,0.09090909090909091
-When can you leave the hospital?,退院って いつくらい？,When is it discharged?,0.2
-Will it be before my next dance recital?,次のダンスの発表会 間に合う？,Shall I meet the next dance presentation?,0.21428571428571427
-It's just for while I'm stuck here.,退院するまでの間でいいからさ｡,Because it is good until it is discharged.,0.13333333333333333
-"Bacon, eggs, and broccoli...",ベーコンエッグとブロッコリー…｡,Bacon Egg and Broccoli ....,0.5
-But the last part wasn't as good...,うまく踊れたんだけどね｡,I danced well.,0.0
-We have to make a decision.,いつか決めないといけないの｡➡,I have to decide someday.,0.3
-Should we put him on a respirator?,人工呼吸器を付けるかどうか…➡,Whether to attach a ventilator ... ➡,0.07142857142857142
-We have to consider our options.,だって考えておかないと｡➡,Even if I do not think. ➡,0.07142857142857142
-It is that serious!,そういう病気なんだから！,Because it is such illness!,0.375
-but we don't know what's causing this.,原因がわからない…,I do not know the cause…,0.14285714285714285
-"So, have you been writing in your diary, Serika?",どうだ 日記書いてるか せりか？,How about writing a diary?,0.21428571428571427
-I'm going to cure you.,私が お父さんの病気 治す｡,I cure my dad's disease.,0.2727272727272727
-You're going to become a doctor?,え？じゃあ 医者になるのか？,"picture?Well, will it be a doctor?",0.21428571428571427
-Didn't you want to be an astronaut?,なりたいんじゃなかったのか？,Didn't you want to be?,0.7777777777777778
-You're going to become an astronaut doctor.,せりかが医者の宇宙飛行士かぁ｡➡,Saragi is a doctor's astronaut.,0.23076923076923078
-I can't wait to see that...,早くみてみたいなぁ｡,I want to see it quickly.,0.25
-I'll have to hang on until then...,それまで生きないとな…｡,I have to live until then ....,0.5454545454545454
-I wish he could have...,《生きてて…ほしかった…》,"""Live ... I wanted it ...""",0.18181818181818182
-I wanted,《私が 宇宙に飛び出す瞬間を…,"""The moment I jump to the universe ...",0.1111111111111111
-on my way to outer space!,宇宙に行けるんだよ！》,"I can go to the universe!""",0.15384615384615385
-It's too early to cry...,《泣くのはまだ早い｡➡,"""Crying is still early.",0.08333333333333333
-Time to eat.,いただきます！,I'll enjoy having this!,0.0
-It tastes exactly the same!,あん時の味だ！,It's the taste of the time!,0.3
-"Next time, on",＜あの… ＪＡＸＡの皆さん➡,<That ... JAXA's everyone,0.0
-#37 Two Men in the Park,＜あの… ＪＡＸＡの皆さん➡,<That ... JAXA's everyone,0.0
-"Uh, JAXA?",＜あの… ＪＡＸＡの皆さん➡,<That ... JAXA's everyone,0.1111111111111111
-Have you forgotten about me?,忘れてらっしゃいませんか？＞,Could you forget?>,0.2222222222222222
-I'm probably running on empty!,もう 多分 すっからかんだ＞,Maybe more seeds>,0.0
+en_text,jp_text,google_translated,score,semantic_score
+Don't tell me they still haven't decided...,《まさか まだ決まってなくて…》,"""I'm not yet decided yet ...""",0.13333333333333333,0.517794
+"No, they aren't that silly...",いや さすがに それはねぇか…｡,No matter what it is ....,0.15384615384615385,0.1541213
+"Why won't they call me, already?",あ～早く電話してくれ～｡,"Oh, let me call you soon.",0.21428571428571427,0.455832
+#36 Dancing Astronaut,おめでとう｡それでは…｡,Congratulations. Then ....,0.0,0.13253187
+Congratulations.,おめでとう｡それでは…｡,Congratulations. Then ....,0.5,0.5529032
+"Goodbye, then.",おめでとう｡それでは…｡,Congratulations. Then ....,0.3333333333333333,0.45806727
+Let me take that for you!,あ 私 持ちます｡,"Oh, I have.",0.0,0.2623394
+How was your dance lesson?,ん～ 発表会まで秘密｡,~ Secret until the presentation.,0.0,0.18667376
+You'll eat both if I don't say I want one.,両方 食べる気だな｡,I feel like eating both.,0.2,0.72168463
+I already opened both.,ふふふ もう両方かじっちゃった｡,"Fufu, both were already spent.",0.3333333333333333,0.3462867
+"This is Volvox, a type of algae.",ボルボックスっていう藻の一種だ｡,It is a kind of algae called Volvox.,0.5,0.97370666
+It's pretty.,ふご～い！キエイだね～｡,Fugu ~!It's Keii ~.,0.375,0.07453509
+Cold!,冷たっ｡,Cold.,0.3333333333333333,0.86439455
+"It's too cold, though.",パピコ食～べよ 寒いけど～｡,Papico food ~ It is cold but ~.,0.25,0.43127
+"W-Wait, are you okay?",ちょっと大丈夫？あなた！,Is it a bit okay?you!,0.2727272727272727,0.5058365
+Dear?,ああ…アハハ｡➡,Oh ... Ahaha.,0.0,0.18364416
+Can you stand?,立てる？,Start?,0.2,0.2989511
+I don't want that to happen...,そんなの…やだ…｡,Such ... Yada ....,0.09090909090909093,0.17087471
+When can you leave the hospital?,退院って いつくらい？,When is it discharged?,0.2,0.40134752
+Will it be before my next dance recital?,次のダンスの発表会 間に合う？,Shall I meet the next dance presentation?,0.21428571428571427,0.69895947
+It's just for while I'm stuck here.,退院するまでの間でいいからさ｡,Because it is good until it is discharged.,0.13333333333333333,0.11879075
+"Bacon, eggs, and broccoli...",ベーコンエッグとブロッコリー…｡,Bacon Egg and Broccoli ....,0.5,0.94724023
+But the last part wasn't as good...,うまく踊れたんだけどね｡,I danced well.,0.0,0.26067674
+We have to make a decision.,いつか決めないといけないの｡➡,I have to decide someday.,0.3,0.4899308
+Should we put him on a respirator?,人工呼吸器を付けるかどうか…➡,Whether to attach a ventilator ... ➡,0.07142857142857142,0.4545762
+We have to consider our options.,だって考えておかないと｡➡,Even if I do not think. ➡,0.07142857142857142,0.18966478
+It is that serious!,そういう病気なんだから！,Because it is such illness!,0.375,0.35741013
+but we don't know what's causing this.,原因がわからない…,I do not know the cause…,0.14285714285714285,0.5518249
+"So, have you been writing in your diary, Serika?",どうだ 日記書いてるか せりか？,How about writing a diary?,0.21428571428571427,0.48937678
+I'm going to cure you.,私が お父さんの病気 治す｡,I cure my dad's disease.,0.2727272727272727,0.53676295
+You're going to become a doctor?,え？じゃあ 医者になるのか？,"picture?Well, will it be a doctor?",0.21428571428571427,0.6539507
+Didn't you want to be an astronaut?,なりたいんじゃなかったのか？,Didn't you want to be?,0.7777777777777778,0.60605
+You're going to become an astronaut doctor.,せりかが医者の宇宙飛行士かぁ｡➡,Saragi is a doctor's astronaut.,0.2307692307692308,0.4972391
+I can't wait to see that...,早くみてみたいなぁ｡,I want to see it quickly.,0.25,0.3116415
+I'll have to hang on until then...,それまで生きないとな…｡,I have to live until then ....,0.5454545454545454,0.5072097
+I wish he could have...,《生きてて…ほしかった…》,"""Live ... I wanted it ...""",0.18181818181818185,0.22502708
+I wanted,《私が 宇宙に飛び出す瞬間を…,"""The moment I jump to the universe ...",0.1111111111111111,0.147143
+on my way to outer space!,宇宙に行けるんだよ！》,"I can go to the universe!""",0.15384615384615385,0.61875963
+It's too early to cry...,《泣くのはまだ早い｡➡,"""Crying is still early.",0.08333333333333333,0.6857945
+Time to eat.,いただきます！,I'll enjoy having this!,0.0,0.19811475
+It tastes exactly the same!,あん時の味だ！,It's the taste of the time!,0.3,0.5051999
+"Next time, on",＜あの… ＪＡＸＡの皆さん➡,<That ... JAXA's everyone,0.0,0.09159183
+#37 Two Men in the Park,＜あの… ＪＡＸＡの皆さん➡,<That ... JAXA's everyone,0.0,-0.032155953
+"Uh, JAXA?",＜あの… ＪＡＸＡの皆さん➡,<That ... JAXA's everyone,0.1111111111111111,0.80627745
+Have you forgotten about me?,忘れてらっしゃいませんか？＞,Could you forget?>,0.2222222222222222,0.6009147
+I'm probably running on empty!,もう 多分 すっからかんだ＞,Maybe more seeds>,0.0,0.297034

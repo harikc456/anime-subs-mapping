@@ -1,175 +1,175 @@
-en_text,jp_text,google_translated,score
-So for this problem—,だからこの問題は…,So this problem is ...,0.2857142857142857
-What? I still don't get it.,あ？分かんねぇよ,Ah?I'm sorry,0.16666666666666666
-"Akagi, why did you decide to go out with me?",お前なんで私と付き合ったんだよ,I was associated with me,0.13333333333333333
-Ma-kun.,まーくん,Male,0.0
-I couldn't hear you.,ちゃんと呼んでくれなきゃ　質問には答えない,I can't answer questions if you call me properly,0.23076923076923078
-Say it up close.,それマジでやんのかよ,It's really good,0.125
+en_text,jp_text,google_translated,score,semantic_score
+So for this problem—,だからこの問題は…,So this problem is ...,0.2857142857142857,0.62853825
+What? I still don't get it.,あ？分かんねぇよ,Ah?I'm sorry,0.16666666666666666,0.22414367
+"Akagi, why did you decide to go out with me?",お前なんで私と付き合ったんだよ,I was associated with me,0.13333333333333333,0.27816692
+Ma-kun.,まーくん,Male,0.0,0.26719227
+I couldn't hear you.,ちゃんと呼んでくれなきゃ　質問には答えない,I can't answer questions if you call me properly,0.2307692307692308,0.31258076
+Say it up close.,それマジでやんのかよ,It's really good,0.125,0.112124026
 "Seriously, we were talking
-about something important!",もう　今真面目な話してんだろ,I'm already talking about now,0.15384615384615385
-You knew I was going to do that.,するって分かってたくせに,I understand that I understand,0.2
-"You have a cute face, though.",でも亮子ちゃんの顔かわいいよ,But Yuko's face is cute,0.16666666666666666
+about something important!",もう　今真面目な話してんだろ,I'm already talking about now,0.15384615384615385,0.30789593
+You knew I was going to do that.,するって分かってたくせに,I understand that I understand,0.2,0.30508897
+"You have a cute face, though.",でも亮子ちゃんの顔かわいいよ,But Yuko's face is cute,0.16666666666666666,0.48775193
 "You don't care about
-what's on the inside at all?",じゃあ性格とかどうでもいいんじゃん,Well then I don't care,0.1875
-"Well, you're cute.",じゃあ　私よりかわいい女がいたらそっちをとんのかよ,"Well then, if a girl is more cute than me,",0.21428571428571427
-"Dammit, shut up!",ああもう　うるせぇなぁ,"Oh, I'm sorry",0.1111111111111111
-It's possible.,いやだからそういう問題じゃ…,It's a problem because it's a problem ...,0.25
-Die!,死ね,Death,0.0
-"Face, boobs... That's all you care about!",顔とか胸とか　そんなんばっかり,Face and chest or something like that,0.125
-I think I do care about what's on the inside.,亮子ちゃんのこと　ちゃんと内面まで見てるつもりだよ,I'm going to see Koji's Chan and the inner surface,0.15
-"What's so good about me, then?",じゃあ私のいいところは,Well then my good place,0.16666666666666666
+what's on the inside at all?",じゃあ性格とかどうでもいいんじゃん,Well then I don't care,0.1875,0.43723378
+"Well, you're cute.",じゃあ　私よりかわいい女がいたらそっちをとんのかよ,"Well then, if a girl is more cute than me,",0.21428571428571427,0.5106038
+"Dammit, shut up!",ああもう　うるせぇなぁ,"Oh, I'm sorry",0.1111111111111111,0.26052696
+It's possible.,いやだからそういう問題じゃ…,It's a problem because it's a problem ...,0.25,0.25107607
+Die!,死ね,Death,0.0,0.57386523
+"Face, boobs... That's all you care about!",顔とか胸とか　そんなんばっかり,Face and chest or something like that,0.125,0.52444345
+I think I do care about what's on the inside.,亮子ちゃんのこと　ちゃんと内面まで見てるつもりだよ,I'm going to see Koji's Chan and the inner surface,0.15,0.1580268
+"What's so good about me, then?",じゃあ私のいいところは,Well then my good place,0.16666666666666666,0.33263722
 "Nothing?
-Not at all?",ないって　一つも？,Do not do it one?,0.25
-Nope.,ないね,Especially,0.0
-You said it yourself.,自分でも言ってるように　短気で粗暴だし,It is shorty and crude as you say,0.18181818181818182
-"Well, sorry.",そうやってすぐ拗ねるところも面倒くさいよね,"That's right too, it's too toubound",0.1
-Guess I'm not...,悪かったな　どうせ私は…,I was bad anywhere I ...,0.25
-Then why don't we break up already?!,もう　じゃあもう別れればいいだろ,"If you're already happy, you should break up",0.1875
-There you go again.,またそういうことを言う,See you again,0.3333333333333333
-I don't want to hear it!,うるせぇ　もう何も聞きたくない,I do not want to hear anything anymore,0.45454545454545453
-But I still like you.,でも好きだよ,But I like it,0.42857142857142855
-I'm obsessed with you.,嬉しかったら喜んでいいんだよ,I'm glad I'm happy,0.25
-"Shut up, jeez!",うっせーな,Hesitate,0.0
-"It's true, though.",でも本当だよ,But it is true,0.25
-You don't want me to tell you I love you?,大好きじゃなくていいのかい,I do not love you,0.36363636363636365
-"Tell me, please.",言ってください,please tell me,0.6
-Call me Ma-kun.,まーくんは,Ma-kun,0.25
-Just hurry up and say it.,もう　さっさと言えよ,I can say it soon,0.2
-"Ryoko, I love you.",愛してる,I love you,0.5
+Not at all?",ないって　一つも？,Do not do it one?,0.25,0.1957937
+Nope.,ないね,Especially,0.0,0.07666502
+You said it yourself.,自分でも言ってるように　短気で粗暴だし,It is shorty and crude as you say,0.18181818181818185,0.23871765
+"Well, sorry.",そうやってすぐ拗ねるところも面倒くさいよね,"That's right too, it's too toubound",0.1,0.12789729
+Guess I'm not...,悪かったな　どうせ私は…,I was bad anywhere I ...,0.25,0.1925067
+Then why don't we break up already?!,もう　じゃあもう別れればいいだろ,"If you're already happy, you should break up",0.1875,0.5922558
+There you go again.,またそういうことを言う,See you again,0.3333333333333333,0.46058467
+I don't want to hear it!,うるせぇ　もう何も聞きたくない,I do not want to hear anything anymore,0.4545454545454545,0.6484567
+But I still like you.,でも好きだよ,But I like it,0.42857142857142855,0.5113964
+I'm obsessed with you.,嬉しかったら喜んでいいんだよ,I'm glad I'm happy,0.25,0.27057114
+"Shut up, jeez!",うっせーな,Hesitate,0.0,0.079551525
+"It's true, though.",でも本当だよ,But it is true,0.25,0.65423936
+You don't want me to tell you I love you?,大好きじゃなくていいのかい,I do not love you,0.3636363636363637,0.69407886
+"Tell me, please.",言ってください,please tell me,0.6,0.7885808
+Call me Ma-kun.,まーくんは,Ma-kun,0.25,0.8312209
+Just hurry up and say it.,もう　さっさと言えよ,I can say it soon,0.2,0.5833444
+"Ryoko, I love you.",愛してる,I love you,0.5,0.48475066
 "Things got good with my boyfriend
-the other day.",こないだ彼といい雰囲気になった,I got a good atmosphere with him,0.21428571428571427
-But we ended up not doing anything.,でも未遂に終わった,But ended,0.25
-Even dramas get special effects these days.,最近はドラマでも特撮とか使うのなぁ,Recently I use special effects or special effects in drama,0.14285714285714285
-I wonder why.,なんで,why,0.25
+the other day.",こないだ彼といい雰囲気になった,I got a good atmosphere with him,0.21428571428571427,0.3769637
+But we ended up not doing anything.,でも未遂に終わった,But ended,0.25,0.48516843
+Even dramas get special effects these days.,最近はドラマでも特撮とか使うのなぁ,Recently I use special effects or special effects in drama,0.14285714285714285,0.77123296
+I wonder why.,なんで,why,0.25,0.54125756
 "X-File
 I wonder if he's embarrassed
-that he got cockblocked.",こないだ未遂で終わったこと　カッコ悪いとか思ってるのかな,I wonder if it's qualce that I'm finished,0.3333333333333333
+that he got cockblocked.",こないだ未遂で終わったこと　カッコ悪いとか思ってるのかな,I wonder if it's qualce that I'm finished,0.3333333333333333,0.23970857
 "I wouldn't mind him
-being a bit more aggressive.",でも私は全然気にしてないし　もっとぐいぐい来てもらっても…,But I have not been in mind and even if I get more addicted ...,0.13636363636363635
-"So have you seen it, Kana?",で　香奈は観たことある？,Have you seen Kana?,0.625
-The drama.,ドラマの話,Drama story,0.25
+being a bit more aggressive.",でも私は全然気にしてないし　もっとぐいぐい来てもらっても…,But I have not been in mind and even if I get more addicted ...,0.13636363636363635,-0.042719554
+"So have you seen it, Kana?",で　香奈は観たことある？,Have you seen Kana?,0.625,0.9279337
+The drama.,ドラマの話,Drama story,0.25,0.7007115
 "We said we'd get our comedy ideas from dramas
-because ""bang"" was getting old, remember?",最近「ばーん」もマンネリだから,"Recently, ""Buran"" is also manneli",0.125
-"Wait, I've never seen that show.",待って　それ私観たことない,Wait and I have never seen me,0.3333333333333333
+because ""bang"" was getting old, remember?",最近「ばーん」もマンネリだから,"Recently, ""Buran"" is also manneli",0.125,0.10233527
+"Wait, I've never seen that show.",待って　それ私観たことない,Wait and I have never seen me,0.3333333333333333,0.45147178
 "Honestly, I don't care about
-comedy ideas right now.",大丈夫　俺もノリでやるから　香奈もノリでついてきて,"Okay I also do Nori, and I came with Kana",0.15789473684210525
-FBI! Hands behind your head!,FBIだ　両手を頭の後ろに,FBI Back Back Holding,0.125
-W-Wait.,ま…待ってくれ,Ma ... Wait me,0.0
-Don't resist arrest.,目を閉じろ　抵抗するな,Do not resist eyes,0.2857142857142857
-D-Despicable.,フフ　お主も悪よのぅ,Fuf Lord is also bad ぅ,0.0
-"Wait, we've broken character.",バカめ　油断したなー,I was broken off,0.1
-"Oh, yeah.",お…お代官様こそ…,Oh ... a profit from the service,0.1
-Did he try to kiss me just now?,もしかして　こいつキスしようとした？,Have you tried to kiss this guy?,0.21428571428571427
-Glance.,チラッ,Tir,0.0
-"No, no, no, you can't be serious.",いやいやいやいや　まっさかー,No no Yai no Masaka,0.1
-"All right, I'll be an alien next!",じゃあ次　俺エイリアンやるから,"Well then, I will do alien",0.21428571428571427
-A-Assuming...,か…仮にだよ,Maybe ...,0.3333333333333333
+comedy ideas right now.",大丈夫　俺もノリでやるから　香奈もノリでついてきて,"Okay I also do Nori, and I came with Kana",0.15789473684210525,0.020626407
+FBI! Hands behind your head!,FBIだ　両手を頭の後ろに,FBI Back Back Holding,0.125,0.6073546
+W-Wait.,ま…待ってくれ,Ma ... Wait me,0.0,0.38153464
+Don't resist arrest.,目を閉じろ　抵抗するな,Do not resist eyes,0.2857142857142857,0.47092047
+D-Despicable.,フフ　お主も悪よのぅ,Fuf Lord is also bad ぅ,0.0,0.11134233
+"Wait, we've broken character.",バカめ　油断したなー,I was broken off,0.1,0.4170288
+"Oh, yeah.",お…お代官様こそ…,Oh ... a profit from the service,0.1,0.27594253
+Did he try to kiss me just now?,もしかして　こいつキスしようとした？,Have you tried to kiss this guy?,0.21428571428571427,0.6440067
+Glance.,チラッ,Tir,0.0,0.2672419
+"No, no, no, you can't be serious.",いやいやいやいや　まっさかー,No no Yai no Masaka,0.1,0.06825365
+"All right, I'll be an alien next!",じゃあ次　俺エイリアンやるから,"Well then, I will do alien",0.21428571428571427,0.7135513
+A-Assuming...,か…仮にだよ,Maybe ...,0.3333333333333333,0.24131152
 "Assuming he was trying to kiss me,
-this set up can only mean...",仮にキスしようとしたとして　この流れじゃもう…,If you try to kiss this flow ...,0.21052631578947367
-"Stay back, or I'll shoot!",近づくな　近づくと撃つぞ,Do not approach and shoot,0.08333333333333333
-Something like that.,あのさ,That,0.25
-We need to come up with something.,帰ろっか,Come back,0.1111111111111111
-The End,っていう感じで,In the feeling of,0.2
+this set up can only mean...",仮にキスしようとしたとして　この流れじゃもう…,If you try to kiss this flow ...,0.21052631578947367,0.37559044
+"Stay back, or I'll shoot!",近づくな　近づくと撃つぞ,Do not approach and shoot,0.08333333333333333,0.49468604
+Something like that.,あのさ,That,0.25,0.39729866
+We need to come up with something.,帰ろっか,Come back,0.1111111111111111,0.19427164
+The End,っていう感じで,In the feeling of,0.2,0.39991543
 "I heard you like movies,
-so if you're up for it...",映画が好きって聞いたから　もしよかったら…,If you asked the movie you like it ...,0.3125
-"Okay, see you tomorrow at the theater!",じゃあ明日　映画館で,Well then at the cinema tomorrow,0.25
-Yamane-dono!,山根殿,Mountain ruins,0.0
-How did the exam go?,テストどうでありましたか,How was the test?,0.375
+so if you're up for it...",映画が好きって聞いたから　もしよかったら…,If you asked the movie you like it ...,0.3125,0.56336635
+"Okay, see you tomorrow at the theater!",じゃあ明日　映画館で,Well then at the cinema tomorrow,0.25,0.6371041
+Yamane-dono!,山根殿,Mountain ruins,0.0,0.0673208
+How did the exam go?,テストどうでありましたか,How was the test?,0.375,0.75545543
 "Let me guess, you were
-thinking about tomorrow.",さては明日のこと考えてたでありますな,"Well, I was thinking about tomorrow",0.3076923076923077
-Tomorrow?!,あ…明日？,Oh ... tomorrow?,0.4
-Dunno what you're talking about...,何のことだかさっぱり…,What's wrong ...,0.2222222222222222
+thinking about tomorrow.",さては明日のこと考えてたでありますな,"Well, I was thinking about tomorrow",0.3076923076923077,0.8311996
+Tomorrow?!,あ…明日？,Oh ... tomorrow?,0.4,0.7520463
+Dunno what you're talking about...,何のことだかさっぱり…,What's wrong ...,0.2222222222222222,0.33944848
 "We have plans to see
-a movie tomorrow, remember?",明日は吾輩と映画を観に行く約束でしょう,Tomorrow will be a promise to go to seeking Movie,0.25
-Was that tomorrow?,その約束明日だったっけ,That promised it was tomorrow,0.5
-We're supposed to watch Magic Shin-chan.,マジックしんちゃんを観る約束でしょう,It will be a promise to watch Magic Shin-chan,0.3076923076923077
-I never miss a movie in that series.,実は吾輩も楽しみで　テストどころではなかったでありますよ,"In fact, I was not able to test my wife and I was not a test",0.15789473684210525
-I actually have—,もしや…怨那（おんな）じゃありますまいな,Maybe ... I'm sorry I'm sorry,0.14285714285714285
-No.,ううん,No,0.5
-That was a joke.,冗談でありますよ　山根殿が怨那（おんな）などと…,It is a joke. Yamane Rest,0.3333333333333333
+a movie tomorrow, remember?",明日は吾輩と映画を観に行く約束でしょう,Tomorrow will be a promise to go to seeking Movie,0.25,0.7410261
+Was that tomorrow?,その約束明日だったっけ,That promised it was tomorrow,0.5,0.5285823
+We're supposed to watch Magic Shin-chan.,マジックしんちゃんを観る約束でしょう,It will be a promise to watch Magic Shin-chan,0.3076923076923077,0.78490937
+I never miss a movie in that series.,実は吾輩も楽しみで　テストどころではなかったでありますよ,"In fact, I was not able to test my wife and I was not a test",0.15789473684210525,0.05042435
+I actually have—,もしや…怨那（おんな）じゃありますまいな,Maybe ... I'm sorry I'm sorry,0.14285714285714285,0.17437556
+No.,ううん,No,0.5,0.8128341
+That was a joke.,冗談でありますよ　山根殿が怨那（おんな）などと…,It is a joke. Yamane Rest,0.3333333333333333,0.3366645
 "Such vile pigs deserve not to bask
-in the youth of we whom they deem gross!",そんな奴らに貴重な青春を費やす価値なし,Such guys are valuable to spend valuable youth,0.14285714285714285
-"I hate girls, too.",もちろん僕も女子なんて嫌いだよ,Of course I hate girls and girls,0.3333333333333333
-"I was invited by a guy friend, actually.",今回も男友達に誘われて…,This time I was invited to my friends ...,0.1875
-M-My friend from middle school.,ちゅ…中学の時の友達がね　たまには会おうってメールが来て…,Chu ... A friend at the time of junior high school occasionally comes to meet you ...,0.1
-"Oh, is that the case?",おや　我輩のほかに友達がいたのでありますか,Is there a friend in addition to your daughter?,0.13333333333333333
-We are nothing if not repulsive.,映画は一人で観に行くであります,Movies are going to see alone,0.08333333333333333
+in the youth of we whom they deem gross!",そんな奴らに貴重な青春を費やす価値なし,Such guys are valuable to spend valuable youth,0.14285714285714285,0.2760166
+"I hate girls, too.",もちろん僕も女子なんて嫌いだよ,Of course I hate girls and girls,0.3333333333333333,0.81536174
+"I was invited by a guy friend, actually.",今回も男友達に誘われて…,This time I was invited to my friends ...,0.1875,0.6749921
+M-My friend from middle school.,ちゅ…中学の時の友達がね　たまには会おうってメールが来て…,Chu ... A friend at the time of junior high school occasionally comes to meet you ...,0.1,0.47563782
+"Oh, is that the case?",おや　我輩のほかに友達がいたのでありますか,Is there a friend in addition to your daughter?,0.13333333333333333,0.14766246
+We are nothing if not repulsive.,映画は一人で観に行くであります,Movies are going to see alone,0.08333333333333333,0.10876859
 "Do kindly introduce me
-to your friend someday.",今度我輩にも紹介してくれであります,This time I will introduce me to the phone,0.2
+to your friend someday.",今度我輩にも紹介してくれであります,This time I will introduce me to the phone,0.2,0.44363078
 "I shall watch the movie by myself.
-You're such a good man, Motoyama-kun.",なんていいやつなんだ　本山くん,What a good guy,0.1111111111111111
-"And yet, I...",それなのに　僕は…,That's why I ...,0.25
-And yet I lie just to spend time with a girl.,それなのに僕はウソをついてまで女の子と…,That's why I am a girl with a lie ...,0.29411764705882354
-I'm worthless. I don't need a woman!,こんなクズに　女はいらない,I do not need a woman,0.45454545454545453
+You're such a good man, Motoyama-kun.",なんていいやつなんだ　本山くん,What a good guy,0.1111111111111111,0.23700511
+"And yet, I...",それなのに　僕は…,That's why I ...,0.25,0.43916515
+And yet I lie just to spend time with a girl.,それなのに僕はウソをついてまで女の子と…,That's why I am a girl with a lie ...,0.29411764705882354,0.6932592
+I'm worthless. I don't need a woman!,こんなクズに　女はいらない,I do not need a woman,0.4545454545454545,0.6808427
 "My phonebook is only your number
-and my parents', and in fact—",電話帳も君と親の番号だけだし本当は,The phonebook is also only the number of you and the parent's number and it is true,0.25
+and my parents', and in fact—",電話帳も君と親の番号だけだし本当は,The phonebook is also only the number of you and the parent's number and it is true,0.25,0.77882403
 "I have never had the pleasure 
-of having a soulmate.",ごめん本山くん　僕はウソをついている,Sorry Mountain-kun I have a lie,0.21428571428571427
-"Do what you must do tomorrow, Yamane-dono.",明日は山根殿は用事をこなすでありますよ,Tomorrow is the Yamanone's business,0.07692307692307693
+of having a soulmate.",ごめん本山くん　僕はウソをついている,Sorry Mountain-kun I have a lie,0.21428571428571427,0.010023805
+"Do what you must do tomorrow, Yamane-dono.",明日は山根殿は用事をこなすでありますよ,Tomorrow is the Yamanone's business,0.07692307692307693,0.6156932
 "I shall not pry further,
-if you are inclined to hide it so.",我輩にわざわざ隠すほどのこと　ならば深くは聞かないでありますよ,I do not hear it deep enough to hide the student,0.23809523809523808
+if you are inclined to hide it so.",我輩にわざわざ隠すほどのこと　ならば深くは聞かないでありますよ,I do not hear it deep enough to hide the student,0.2380952380952381,0.30118412
 "Although, it's just that a girl I know
-asked me to watch a movie with her.",と言っても　ただの知り合いの女の子に映画に誘われただけなんだけどね,"However, I just invited a movie to a girl of just acquaintance",0.3181818181818182
-"We actually had lunch together before,",実は前に一緒にご飯を食べたことがある人なんだけど,Actually I have eaten rice together before,0.2727272727272727
+asked me to watch a movie with her.",と言っても　ただの知り合いの女の子に映画に誘われただけなんだけどね,"However, I just invited a movie to a girl of just acquaintance",0.3181818181818182,0.75102335
+"We actually had lunch together before,",実は前に一緒にご飯を食べたことがある人なんだけど,Actually I have eaten rice together before,0.2727272727272727,0.57578254
 "but we didn't really hit it off, so I don't
-know why she's inviting me again.",その時は全然話も盛り上がらなかったし　なんでまた誘われたのか,"At that time, I didn't talk at all, but I wondered why I was invited again",0.25
-"S-Sorry, Motoyama-kun!",ご…ごめんよ本山くん　でも明日は君と…,... I'm sorry I'm Motoyama-kun tomorrow ...,0.1111111111111111
-I implore you to choose her!,そこは彼女を取るべきでありましょうがぁーー,You should take her there,0.2
+know why she's inviting me again.",その時は全然話も盛り上がらなかったし　なんでまた誘われたのか,"At that time, I didn't talk at all, but I wondered why I was invited again",0.25,0.56995434
+"S-Sorry, Motoyama-kun!",ご…ごめんよ本山くん　でも明日は君と…,... I'm sorry I'm Motoyama-kun tomorrow ...,0.1111111111111111,0.72886664
+I implore you to choose her!,そこは彼女を取るべきでありましょうがぁーー,You should take her there,0.2,0.42240274
 "It warrants no mention
-that I despise women.",汚物を見るようなあの目を右から左へ目潰ししたいくらいであります,It is enough to see that eyes to see the dirt,0.125
-I... I...,我輩は…我輩は…,As a student ... I am a student ...,0.3333333333333333
-It's nothing like that!,まさか　全然そんなんじゃないよ,It's not like that,0.5714285714285714
-We're really just friends.,本当にただの友達,It is really just a friend,0.2
+that I despise women.",汚物を見るようなあの目を右から左へ目潰ししたいくらいであります,It is enough to see that eyes to see the dirt,0.125,0.080540754
+I... I...,我輩は…我輩は…,As a student ... I am a student ...,0.3333333333333333,0.28295875
+It's nothing like that!,まさか　全然そんなんじゃないよ,It's not like that,0.5714285714285714,0.6970126
+We're really just friends.,本当にただの友達,It is really just a friend,0.2,0.67333734
 "I don't even know
-what she's thinking, really.",彼女が何を考えているのかすらよく分かってない状況だから,Because she is not knowing about what she is thinking,0.17647058823529413
-"I see, that is a platonic relationship.",なるほど　清い交際でありますな,"I see, I'm a clean relationship",0.45454545454545453
-If you don't mind hanging out with girls.,女子が嫌じゃなければ…,If you don't hatrree girls ...,0.4166666666666667
+what she's thinking, really.",彼女が何を考えているのかすらよく分かってない状況だから,Because she is not knowing about what she is thinking,0.17647058823529413,0.63548446
+"I see, that is a platonic relationship.",なるほど　清い交際でありますな,"I see, I'm a clean relationship",0.4545454545454545,0.5409064
+If you don't mind hanging out with girls.,女子が嫌じゃなければ…,If you don't hatrree girls ...,0.4166666666666667,0.5364125
 "Any friend of yours
-is perfectly acceptable to me.",山根殿の友人なら大丈夫であります,It is okay if it is a friend of the mountain ruins,0.17647058823529413
-But I've never been in a relationship.,でも　私はまだ付き合ったことがない,But I have never been associated,0.36363636363636365
-Why do people ask me?,なんで私に相談するのかしら　私だって誰かと…,Why do you consult with me?,0.4444444444444444
-I wish I—,私はよく恋愛相談をされる,I often make love consultation,0.14285714285714285
-Who are you?!,誰？,Who?,0.4
+is perfectly acceptable to me.",山根殿の友人なら大丈夫であります,It is okay if it is a friend of the mountain ruins,0.17647058823529413,0.4345217
+But I've never been in a relationship.,でも　私はまだ付き合ったことがない,But I have never been associated,0.3636363636363637,0.5353371
+Why do people ask me?,なんで私に相談するのかしら　私だって誰かと…,Why do you consult with me?,0.4444444444444444,0.38296697
+I wish I—,私はよく恋愛相談をされる,I often make love consultation,0.14285714285714285,0.20250024
+Who are you?!,誰？,Who?,0.4,0.411549
 "Sorry, but I don't care
-to talk to girls from above.",悪いけど　女の子を見下しながら話す趣味ないんだよね,"It's bad, but I can not talk while looking at the girl",0.17391304347826086
-"Come out, little kitten.",出ておいで　子猫ちゃん,Kitten in out,0.2857142857142857
-"Nah, I just felt like climbing the tree.",なぁに　ちょっと木に登りたかっただけさ,I just wanted to climb a tree for a while,0.1875
-Nah.,いや,Disagreeable,0.0
+to talk to girls from above.",悪いけど　女の子を見下しながら話す趣味ないんだよね,"It's bad, but I can not talk while looking at the girl",0.17391304347826084,0.46226037
+"Come out, little kitten.",出ておいで　子猫ちゃん,Kitten in out,0.2857142857142857,0.73313886
+"Nah, I just felt like climbing the tree.",なぁに　ちょっと木に登りたかっただけさ,I just wanted to climb a tree for a while,0.1875,0.6736516
+Nah.,いや,Disagreeable,0.0,0.13174541
 "You just had the same troubled look
-on your face as that kitty.",ただ君があの猫と同じ困った目をしていたからサ☆,Since I was in the same trouble as that cat ☆,0.19047619047619047
+on your face as that kitty.",ただ君があの猫と同じ困った目をしていたからサ☆,Since I was in the same trouble as that cat ☆,0.19047619047619047,0.5751989
 "What's up with this guy,
-calling me a cute little kitty?",人のことかわいい子猫ちゃんだなんて…,It's a cute kitten ...,0.17647058823529413
-"You don't think I'm a dating master, do you?",もしかして俺のこと　恋愛マスターだって思ってる？,I wonder if I'm a love master?,0.35714285714285715
-Bingo.,正解☆,Correct answer ☆,0.0
-Do you think you're cool or something?,れ…恋愛マスター？カッコいいと思ってるんですか,... Love Master?Do you think it's cool?,0.38461538461538464
+calling me a cute little kitty?",人のことかわいい子猫ちゃんだなんて…,It's a cute kitten ...,0.17647058823529413,0.4819213
+"You don't think I'm a dating master, do you?",もしかして俺のこと　恋愛マスターだって思ってる？,I wonder if I'm a love master?,0.35714285714285715,0.59491885
+Bingo.,正解☆,Correct answer ☆,0.0,0.15542631
+Do you think you're cool or something?,れ…恋愛マスター？カッコいいと思ってるんですか,... Love Master?Do you think it's cool?,0.38461538461538464,0.36576083
 "There's nothing cool about a man
-who's made more girls cry than smile.",泣かせた数のほうが多い男なんてサ☆,A man who made a crying number ☆,0.2222222222222222
+who's made more girls cry than smile.",泣かせた数のほうが多い男なんてサ☆,A man who made a crying number ☆,0.2222222222222222,0.46442574
 "Oh dear, I'd better stop
-calling myself the dating master,",俺なんかが恋愛マスターを名乗ったら　恋愛の神様に怒られちまう,"If I say love Master, I get angry in the god of love",0.2
-He's so cool!,カッコいい,that's cool,0.3333333333333333
-What is this feeling?,何この気持ち,What kind of feeling,0.2857142857142857
-I'm falling...,私　この人のこと…,I am about this person ...,0.25
-If I'm good enough for you.,俺でよければサ☆,"If you're good, please stay ☆",0.23076923076923078
-Are you my prince?,あなたは　私の王子様ですか,Are you my prince,0.8
-Oui.,ウィ☆,Wee ☆,0.0
-Then will you—,じゃあ私と…,Well then ...,0.2
-I'm everyone's prince.,俺はみんなの王子様だからさ,Because everyone is the prince of everyone,0.2
-"Fall for me, and you'll get burnt.",俺に惚れたら　YAKEDOするぜ,If you fall in love with me Yakedo,0.2
-That's just my afterimage.,それなら…,in that case…,0.125
-"Give it up, my kitten.",諦めな　子猫ちゃん,Give up kitten,0.42857142857142855
-No one can hold me down.,誰も俺を縛れない,No one ties me,0.375
-"Come on, help me like you helped that kitty!",さあ　さっきの子猫みたいに私を助けてください,Please help me like a new cat,0.2
-Meow!,にゃーん,Nyan,0.0
-"Help me, meow!",助けてにゃん,Help me,0.4
-Whoosh!,スー,Super,0.0
-Y-You're bleeding!,ち…血が…,Chi ... Blood ...,0.0
-I'm sorry.,ごめんなさい　私がバカなことしたから,I'm sorry because I was stupid,0.42857142857142855
-Being stupid?,バカなこと？何のことかな,What is stupid?What,0.4
+calling myself the dating master,",俺なんかが恋愛マスターを名乗ったら　恋愛の神様に怒られちまう,"If I say love Master, I get angry in the god of love",0.2,0.3767319
+He's so cool!,カッコいい,that's cool,0.3333333333333333,0.3426532
+What is this feeling?,何この気持ち,What kind of feeling,0.2857142857142857,0.67583436
+I'm falling...,私　この人のこと…,I am about this person ...,0.25,0.28214514
+If I'm good enough for you.,俺でよければサ☆,"If you're good, please stay ☆",0.2307692307692308,0.47289243
+Are you my prince?,あなたは　私の王子様ですか,Are you my prince,0.8,0.9475406
+Oui.,ウィ☆,Wee ☆,0.0,0.2301559
+Then will you—,じゃあ私と…,Well then ...,0.2,0.42493337
+I'm everyone's prince.,俺はみんなの王子様だからさ,Because everyone is the prince of everyone,0.2,0.711888
+"Fall for me, and you'll get burnt.",俺に惚れたら　YAKEDOするぜ,If you fall in love with me Yakedo,0.2,0.4253598
+That's just my afterimage.,それなら…,in that case…,0.125,0.23573469
+"Give it up, my kitten.",諦めな　子猫ちゃん,Give up kitten,0.42857142857142855,0.83758336
+No one can hold me down.,誰も俺を縛れない,No one ties me,0.375,0.582595
+"Come on, help me like you helped that kitty!",さあ　さっきの子猫みたいに私を助けてください,Please help me like a new cat,0.2,0.5755904
+Meow!,にゃーん,Nyan,0.0,0.242262
+"Help me, meow!",助けてにゃん,Help me,0.4,0.46333402
+Whoosh!,スー,Super,0.0,0.18225005
+Y-You're bleeding!,ち…血が…,Chi ... Blood ...,0.0,0.37295344
+I'm sorry.,ごめんなさい　私がバカなことしたから,I'm sorry because I was stupid,0.42857142857142855,0.49542254
+Being stupid?,バカなこと？何のことかな,What is stupid?What,0.4,0.54603076
 "It's a prince's job to save
-a kitten in distress.",困った子猫を助けるのが王子様の仕事サ☆,Prince of the Prince of Helping Subjective Kitten ☆,0.125
-I love you!,もう危ないことはやめるんだよ,I'm already dangerous,0.14285714285714285
-"Farewell, my kitten.",じゃあね　子猫ちゃん,Well then kitten,0.14285714285714285
-"Wait, what's your name?",最後に　最後にお名前を,Finally the name last,0.1
-Katori Shin'ichi.,香取先ぱーい,Katori Pa,0.25
+a kitten in distress.",困った子猫を助けるのが王子様の仕事サ☆,Prince of the Prince of Helping Subjective Kitten ☆,0.125,0.73732245
+I love you!,もう危ないことはやめるんだよ,I'm already dangerous,0.14285714285714285,0.16049868
+"Farewell, my kitten.",じゃあね　子猫ちゃん,Well then kitten,0.14285714285714285,0.55529743
+"Wait, what's your name?",最後に　最後にお名前を,Finally the name last,0.1,0.3410108
+Katori Shin'ichi.,香取先ぱーい,Katori Pa,0.25,0.55191505
 "Next time: It's All the Fever's Fault.
-It's All the Fever's Fault",次回　「全部熱のせい」,"Next time ""All heat""",0.23076923076923078
+It's All the Fever's Fault",次回　「全部熱のせい」,"Next time ""All heat""",0.2307692307692308,0.484067

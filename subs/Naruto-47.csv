@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>That's right, there's no compromise</i>","♬
  
 駆け引きは無いさ
@@ -9,14 +9,14 @@ en_text,jp_text,google_translated,score
  
 There is no rush
 ,
-that's right",0.42857142857142855
+that's right",0.42857142857142855,0.2477459
 <i>At the final moment push hard</i>,"♬
  
 夜をぬける
 
 ","♬
  
-Louder at night",0.07692307692307693
+Louder at night",0.07692307692307693,0.3017532
 "<i>That's right, all the way to zero,</i>","♬
  
 差し引きゼロさ
@@ -27,14 +27,14 @@ Louder at night",0.07692307692307693
  
 Zero
 ,
-that's right",0.35714285714285715
+that's right",0.35714285714285715,0.6048283
 <i>Until we wipe away the days</i>,"♬
  
 ねじ込むさ最後に
 
 ","♬
  
-Screwing end",0.0
+Screwing end",0.0,0.2194082
 <i>Gently open your heart</i>,"♬
  
 開いて
@@ -45,21 +45,21 @@ Screwing end",0.0
  
 Open
  
-Ghost",0.1
+Ghost",0.1,0.29387695
 "<i>It will reach you, without a doubt</i>","♬
  
 届くよきっと
 
 ","♬
  
-I will surely reach",0.21428571428571427
+I will surely reach",0.21428571428571427,0.65586966
 "<i>Even if I take it back, and grasp it</i>","♬
  
 奪い取って
 
 ","♬
  
-Take away",0.07142857142857142
+Take away",0.07142857142857142,0.41969988
 <i>There will be no meaning</i>,"♬
  
 君じゃないなら
@@ -68,7 +68,7 @@ Take away",0.07142857142857142
 ","♬
  
 If you are not
-There is no meaning",0.2
+There is no meaning",0.2,0.55187774
 "Withdraw! You're not suited
 to being a Shinobi.","(
 ネジ
@@ -79,7 +79,7 @@ to being a Shinobi.","(
 
 ","Abstained
 Don't go to you
-.",0.2
+.",0.2,0.34023094
 "Hinata, give it to him!","んなヤツ
  
 やってやれ！
@@ -90,7 +90,7 @@ Don't go to you
  
 Do it!
  
-Hinata!",0.3
+Hinata!",0.3,0.5620545
 <i>Naruto...</i>,"(ﾋﾅﾀ)
 《ナルト君…
 ｡
@@ -98,20 +98,20 @@ Hinata!",0.3
 
 ","""Naruto ...
 .
-➡",0.2222222222222222
+➡",0.2222222222222222,0.8446687
 I'm getting irritated watching this!,"見てるこっちが腹立つぞ！
 
-",I'm looking at this place!,0.4
+",I'm looking at this place!,0.4,0.31721938
 <i>Thank you!</i>,"ありがとう》
 
-","Thank you""",0.25
+","Thank you""",0.25,0.4714359
 "<i>The expression of her eyes</i>
 <i>has changed...</i>","(
 ネジ
 )
 《目つきが変わった》
 
-","""I changed my eyes.""",0.1875
+","""I changed my eyes.""",0.1875,0.6613963
 "I'm not taking responsibility
 for what happens...","棄権しないんだな？
 どうなっても知らんぞ
@@ -119,26 +119,26 @@ for what happens...","棄権しないんだな？
 
 ","Aren't you abandoned?
 I know what happens
-.",0.1875
+.",0.1875,0.31093076
 <i>I don't want to run away!</i>,"(ﾋﾅﾀ)
 《逃げたくない！》
 
-","""I do not want to run away!""",0.5
+","""I do not want to run away!""",0.5,0.7087008
 Byakugan!,"(ﾋﾅﾀ)
 白眼！
 
-",White eyes!,0.25
+",White eyes!,0.25,0.23288177
 Brother Neji! I challenge you!,"ネジ兄さん
  
 勝負です！
 
 ","Screw brother
  
-It is a match!",0.18181818181818182
+It is a match!",0.18181818181818185,0.45111385
 <i>Here!</i>,"(ﾋﾅﾀ)
 《ここ！》
 
-","""here!""",0.25
+","""here!""",0.25,0.44967374
 "As I thought, this is the extent of it...","(
 ネジ
 )
@@ -152,7 +152,7 @@ It is a match!",0.18181818181818182
  
 This degree
 The power of the sect
-.",0.1875
+.",0.1875,0.20350571
 What the?!,"(ｻｸﾗ)
 あっ
 ｡
@@ -160,14 +160,14 @@ What the?!,"(ｻｸﾗ)
 
 ","Ah
 .
-What's wrong!",0.25
+What's wrong!",0.25,0.32490405
 But Hinata laid a perfect strike!,"ヒナタの攻撃だって
 完璧に入ったのに
 ｡
 
 ","It's a Hinata attack
 Even though it was perfect
-.",0.21428571428571427
+.",0.21428571428571427,0.69714475
 <i>N-Not yet...</i>,"ハァ
  
 ハァ
@@ -180,7 +180,7 @@ Even though it was perfect
 Han
  
 Hua ...
-.",0.1
+.",0.1,0.15545915
 "That's right! I can see
 the Chakra Points.","それじゃ最初から…
 ｡
@@ -194,14 +194,14 @@ the Chakra Points.","それじゃ最初から…
 .
 
 That's it
-.",0.23529411764705882
+.",0.2352941176470588,0.11983311
 W-What is he talking about?!,"どういうことだってばよ？
 
-",What does that mean?,0.09090909090909091
+",What does that mean?,0.09090909090909093,0.21401152
 On the Chakra Network...,"(ｶｶｼ)
 経絡系上には➡
 
-",On the support system,0.2857142857142857
+",On the support system,0.2857142857142857,0.2842969
 "there are 361 energy centers
 or Chakra opening,","チャクラ穴といわれる
 361
@@ -213,7 +213,7 @@ or Chakra opening,","チャクラ穴といわれる
 361
 There is a point
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.58133346
 "each about the size
 of the head of a pin.","俺の眼は
  
@@ -223,7 +223,7 @@ of the head of a pin.","俺の眼は
 ","My eyes are my eyes
  
 No longer stops the point hole
-.",0.11764705882352941
+.",0.1176470588235294,0.13817975
 "enabling one to gain complete control over
 an opponent's flow of Chakra.","相手のチャクラの流れを
 止めたり
@@ -233,14 +233,14 @@ an opponent's flow of Chakra.","相手のチャクラの流れを
 ","The flow of the opponent's chakra
 Stop or
  
-Amplify or",0.2777777777777778
+Amplify or",0.2777777777777778,0.7387725
 "Just so you know,","理論上
  
 そのツボを正確に突くと➡
 
 ","In theory
  
-If you put the point correctly",0.08333333333333333
+If you put the point correctly",0.08333333333333333,0.16433871
 "not even my Sharingan
 can see Chakra Points!","はっきり言って
 俺の写輪眼でも見切れない
@@ -250,12 +250,12 @@ can see Chakra Points!","はっきり言って
 ","Clearly speaking
 I can not stop even my mochi eyes
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.2133377
 "well, that's just...","説明ついでに教えといてやる
 点穴はな➡
 
 ","Explain and let's teach
-Point holes",0.08333333333333333
+Point holes",0.08333333333333333,0.14284375
 "What we have here is an unchangeable
 difference in abilities.","戦闘中に
  
@@ -265,14 +265,14 @@ difference in abilities.","戦闘中に
 ","In battle
  
 What is the right
-.",0.2857142857142857
+.",0.2857142857142857,0.13937964
 "It is brute, unalterable fact.","エリートと落ちこぼれを
 分ける差だ
 ｡
 
 ","Elite and fallen
 It is a difference division
-.",0.23076923076923078
+.",0.2307692307692308,0.08646056
 You were destined to regret having said,"あなたは後悔することに
 なっていたんだ
 ｡
@@ -281,7 +281,7 @@ You were destined to regret having said,"あなたは後悔することに
 ","To regret
 It was
 .
-➡",0.18181818181818182
+➡",0.18181818181818185,0.66319245
 "that you don't want to run anymore,
 the instant you said it.","｢
 逃げたくない
@@ -291,7 +291,7 @@ the instant you said it.","｢
 ","""
 I do not want to escape
 ""
-When I said",0.2
+When I said",0.2,0.40257055
 "And now, you must have
 abandoned yourself to despair!","今
  
@@ -301,18 +301,18 @@ abandoned yourself to despair!","今
 ","now
  
 You should be despair
-.",0.21428571428571427
+.",0.21428571428571427,0.78860134
 This is your ultimatum...,"これが最後通告だ
 ｡
 
 ","This is the last notice
-.",0.2222222222222222
+.",0.2222222222222222,0.18392433
 <i>Hinata...</i>,"＜俺は逃げねえぞ！＞
 
-",<I can escape!>,0.3333333333333333
+",<I can escape!>,0.3333333333333333,0.32530937
 I had no idea... Hinata was this tough...,"《ヒナタ…》
 
-","""Hinata ...""",0.18181818181818182
+","""Hinata ...""",0.18181818181818185,0.61211026
 She's a lot like you.,"いつも
  
 あんたを見てたもんね
@@ -323,7 +323,7 @@ She's a lot like you.,"いつも
  
 I saw you
 .
-picture?",0.16666666666666666
+picture?",0.16666666666666666,0.30568764
 "Come to think of it...
 She's always watching you.","(
 リー
@@ -342,10 +342,10 @@ Yes
  
 by the way
  
-That girl",0.19047619047619047
+That girl",0.19047619047619047,0.38352212
 Bring it on!,"来い！
 
-",come!,0.2
+",come!,0.2,0.50659204
 <i>One more blow and...</i>,"もし
  
 これ以上
@@ -354,7 +354,7 @@ Bring it on!,"来い！
 ","if
  
 more than this
-If you get attacked ... """,0.125
+If you get attacked ... """,0.125,0.23560452
 <i>Neji's hits to Hinata's Chakra Points</i>,"ヒナタのチャクラの流れを
 完全に止めてしまった
 ｡
@@ -363,7 +363,7 @@ If you get attacked ... """,0.125
 ","Hinata's chakra flow
 It has completely stopped
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.5195611
 "<i>That means she can no longer</i>
 <i>send Chakra</i>","(
 紅
@@ -378,7 +378,7 @@ It has completely stopped
  
 Limit
 .
-➡",0.058823529411764705
+➡",0.05882352941176471,0.31684002
 "<i>into her opponent's body</i>
 <i>to fight in the Gentle Fist.</i>","つまり
  
@@ -388,13 +388,13 @@ Limit
 ","in short
  
 To the other party's body
-Pour chakra",0.25
+Pour chakra",0.25,0.2934717
 "<i>I'm afraid even our Sasuke</i>
 <i>is no match for him.</i>","はっきり言って
 うちのサスケでも➡
 
 ","Clearly speaking
-Our Sasuke",0.125
+Our Sasuke",0.125,0.70732397
 "<i>It looks as if Neji may very well</i>
 <i>take this Exam.</i>","この勝負
  
@@ -404,10 +404,10 @@ Our Sasuke",0.125
 ","This game
  
 I saw it
-.",0.16666666666666666
+.",0.16666666666666666,0.08041666
 Doesn't it seem that...,"あの子程度では無理か》
 
-",Is it impossible at that child?,0.18181818181818182
+",Is it impossible at that child?,0.18181818181818185,0.09666662
 He's just too powerful...,"強すぎ
  
 マジで
@@ -416,14 +416,14 @@ He's just too powerful...,"強すぎ
 ","Too strong
  
 seriously
-.",0.1111111111111111
+.",0.1111111111111111,0.49613562
 "Go, Hinata!","ヒナタ～！
  
 頑張れ～！
 
 ","Hinata ~!
  
-Good luck!",0.2857142857142857
+Good luck!",0.2857142857142857,0.7245798
 "<i>I've been watching you closely</i>
 <i>for many years now!</i>","(ﾋﾅﾀ)
 《何年間も
@@ -434,7 +434,7 @@ Good luck!",0.2857142857142857
 ","""A few years
 all the time
  
-I saw you",0.14285714285714285
+I saw you",0.14285714285714285,0.4608753
 <i>Next up is Naruto Uzumaki!</i>,"(ｲﾙｶ)
 ＜次
  
@@ -442,7 +442,7 @@ I saw you",0.14285714285714285
 
 ","<Next
  
-Uzumaki Naruto>",0.5
+Uzumaki Naruto>",0.5,0.9031789
 Naruto... d-do your best.,"(ﾋﾅﾀ)
 《ナルト君
  
@@ -454,14 +454,14 @@ Naruto... d-do your best.,"(ﾋﾅﾀ)
  
 But…
  
-do one's best""",0.16666666666666666
+do one's best""",0.16666666666666666,0.80497193
 <i>Transformation!</i>,"＜変化！＞
 
-",<Change!>,0.42857142857142855
+",<Change!>,0.42857142857142855,0.5783116
 "<i>I don't know why, but...</i>","(ﾋﾅﾀ)
 《何でか分からないけど…》
 
-","""I don't know anything ...""",0.35714285714285715
+","""I don't know anything ...""",0.35714285714285715,0.1822335
 "<i>I'm not about to lose to</i>
 <i>the likes of any of you!</i>","(
 キバ
@@ -482,22 +482,22 @@ I can not lose
 ""
 How
  
-I say>",0.3333333333333333
+I say>",0.3333333333333333,0.41534328
 <i>When I watch Naruto...</i>,"(ﾋﾅﾀ)
 《ナルト君を見てると…》
 
-","""When I look at Naruto ...""",0.3333333333333333
+","""When I look at Naruto ...""",0.3333333333333333,0.765998
 "<i>Naruto, stand up!</i>","＜立て
  
 ナルト！＞
 
 ","<Stand
  
-Naruto!>",0.5555555555555556
+Naruto!>",0.5555555555555556,0.9359732
 "<i>If you compete with me</i>
 <i>for the name of Hokage...</i>","＜俺と火影の名を取り合ったら➡
 
-",<If you keep the name of the fire shadow,0.3333333333333333
+",<If you keep the name of the fire shadow,0.3333333333333333,0.22810479
 "<i>I feel that I can hang on,</i>
 <i>that I can do it...</i>","私でも
  
@@ -511,17 +511,17 @@ Naruto!>",0.5555555555555556
 If you do your best
 I feel like I can do it
 .
-➡",0.25
+➡",0.25,0.47937194
 Oh!,"(ﾋﾅﾀ)
 ハァ～！➡
 
-",Hua!➡,0.25
+",Hua!➡,0.25,0.26843905
 "- No!
 - Hinata!","あっ！
 ヒナタ！
 
 ","Ah!
-Hinata!",0.4
+Hinata!",0.4,0.7250631
 "<i>Hey, Hinata. It's time to go home.</i>","(
 キバ
 )
@@ -533,7 +533,7 @@ Hinata!",0.4
 ","<Hey
  
 Hinata
-Let's go back!>",0.35294117647058826
+Let's go back!>",0.35294117647058826,0.7923292
 <i>But today's Hinata is different.</i>,"(
 紅
 )
@@ -547,7 +547,7 @@ Let's go back!>",0.35294117647058826
  
 Today's Hinata is different
 .
-➡",0.35714285714285715
+➡",0.35714285714285715,0.81071323
 <i>seen...that look in her eyes before.</i>,"あの子の
  
 あんな…
@@ -558,7 +558,7 @@ Today's Hinata is different
  
 That's ...
  
-Such eyes are ➡",0.17647058823529413
+Such eyes are ➡",0.17647058823529413,0.55491054
 <i>Naruto.</i>,"ハッ！
  
 ハッ！
@@ -573,17 +573,17 @@ Ha!
  
 Ha!
  
-Ha!>",0.14285714285714285
+Ha!>",0.14285714285714285,0.14604488
 "<i>but, now, finally...</i>","でも
  
 今やっと➡
 
 ","but
  
-Fast now",0.2
+Fast now",0.2,0.28443253
 <i>Naruto!</i>,"ナルト君！》
 
-","Naruto!""",0.2857142857142857
+","Naruto!""",0.2857142857142857,0.8543644
 "Your strikes were ineffective
 from the very first.","最初から
 あなたの攻撃など効いていない
@@ -591,12 +591,12 @@ from the very first.","最初から
 
 ","From the beginning
 Do not work with your attack
-.",0.26666666666666666
+.",0.26666666666666666,0.5297837
 It's the end.,"終わりだ
 ｡
 
 ","Is the end
-.",0.5
+.",0.5,0.84821343
 "<i>You lost the match,</i>","試合は負けたけど
 あなたは昔とは違う
 ｡
@@ -605,15 +605,15 @@ It's the end.,"終わりだ
 ","I lost the game
 You are different from the old days
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.39750993
 <i>You did well.</i>,"よくやったよ》
 
-",I did well.,0.2222222222222222
+",I did well.,0.2222222222222222,0.7393583
 <i>I want to change that about myself...</i>,"＜そんな自分を変えたくて
 自分から…＞
 
 ","<I want to change myself
-From yourself ...>",0.6153846153846154
+From yourself ...>",0.6153846153846154,0.8238875
 "Neji's final blow went
 straight for the heart.","(
 ガイ
@@ -622,7 +622,7 @@ straight for the heart.","(
 ｡
 
 ","It is a decision on the screw aimed at the heart
-.",0.16666666666666666
+.",0.16666666666666666,0.2349351
 "but she won't be standing
 again now.","かわいそうだが
  
@@ -632,19 +632,19 @@ again now.","かわいそうだが
 ","It looks cute
  
 It will be
-.",0.15384615384615385
+.",0.15384615384615385,0.24568449
 Don't stop it!,"止めるな！
 
-",Don't stop!,0.8
+",Don't stop!,0.8,0.89274806
 "She's had it. You can see
 she's unconscious...","くっ…
 ｡
 
 ","...
-.",0.2
+.",0.2,0.19718932
 Why do you stand up?,"なぜ立ってくる？➡
 
-",Why do you stand?➡,0.7142857142857143
+",Why do you stand?➡,0.7142857142857143,0.80272704
 "If you continue like this,
 you'll really die!","無理をすれば
  
@@ -654,7 +654,7 @@ you'll really die!","無理をすれば
 ","If you do not overdo it
  
 I really die
-.",0.25
+.",0.25,0.48785952
 <i>Why?!</i>,"(
 ネジ
 )
@@ -664,14 +664,14 @@ I really die
 
 ","""C ...
  
-why!?""",0.2727272727272727
+why!?""",0.2727272727272727,0.2961695
 <i>In front of...</i>,"憧れの人の目の前で…》
 
-",In front of a longing person ...,0.36363636363636365
+",In front of a longing person ...,0.3636363636363637,0.40935892
 Give up the bravado...,"(ﾋﾅﾀ)
 《カッコ悪いところは➡
 
-","""The bad part is the case",0.1
+","""The bad part is the case",0.1,0.11658105
 "You've shouldered the lot
 of having been born","あなたは生まれながらに
 日向宗家という宿命を背負った
@@ -679,7 +679,7 @@ of having been born","あなたは生まれながらに
 
 ","While you are born
 I was carrying the destiny called Hinata
-.",0.16666666666666666
+.",0.16666666666666666,0.4152691
 to the head family line of the Hyugan.,"力のない自分を呪い
  
 責め続けた
@@ -688,14 +688,14 @@ to the head family line of the Hyugan.,"力のない自分を呪い
 ","Curse yourself
  
 Continued to blame
-.",0.16666666666666666
+.",0.16666666666666666,0.11035733
 "But, people cannot change.","けれど
 人は変わることなどできない
 ｡
 
 ","But
 People can not change
-.",0.8571428571428571
+.",0.8571428571428571,0.95188034
 "There is no need for you
 to suffer any more!","もう苦しむ必要はない
  
@@ -703,7 +703,7 @@ to suffer any more!","もう苦しむ必要はない
 
 ","There is no need to suffer
  
-Become easy!",0.5384615384615384
+Become easy!",0.5384615384615384,0.7703283
 You're wrong... Brother Neji.,"それは違うわ
  
 ネジ兄さん
@@ -714,7 +714,7 @@ You're wrong... Brother Neji.,"それは違うわ
  
 Screw brother
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.33903435
 What?!,"あなたは苦しんでいる
 ｡
 (
@@ -725,14 +725,14 @@ What?!,"あなたは苦しんでいる
 ","You are suffering
 .
 
-what!?",0.42857142857142855
+what!?",0.42857142857142855,0.18114293
 "over the fate of head
 and branch family.","(ﾋﾅﾀ)
 宗家と分家という
 運命の中で➡
 
 ","Sonator and house
-In fate",0.16666666666666666
+In fate",0.16666666666666666,0.36027128
 You promised me,"宗家とのことで
  
 もめるなと
@@ -743,7 +743,7 @@ You promised me,"宗家とのことで
  
 If not
 You should have a hot promise with me
-.",0.14285714285714285
+.",0.14285714285714285,0.37630355
 "Why are all the other Jonin
 butting in?!","何で
  
@@ -753,11 +753,11 @@ butting in?!","何で
 ","why
  
 Until other shots
-Is it out?",0.2
+Is it out?",0.2,0.20978728
 "The head family gets
 special treatment, eh?","宗家は特別扱いか？
 
-",Is the Sonator special handling?,0.25
+",Is the Sonator special handling?,0.25,0.3134909
 Hinata?!,"(
 紅
 )
@@ -767,12 +767,12 @@ Hinata?!,"(
 
 ","Hinata?
  
-Hinata!",1.0
+Hinata!",1.0,0.95019907
 Hinata!,"ヒナタ！
 ヒナタさん！
 
 ","Hinata!
-Hinata!",1.0
+Hinata!",1.0,0.95316696
 Hinata! Are you okay?!,"ヒナタ
  
 大丈夫か？
@@ -783,14 +783,14 @@ Hinata! Are you okay?!,"ヒナタ
  
 Are you okay?
  
-Oi!",0.8571428571428571
+Oi!",0.8571428571428571,0.94243354
 Hey!,"(ﾋﾅﾀ)
 うっ！
 (ﾋﾅﾀ
 のせきこみ
 )
 
-",Uh!,0.3333333333333333
+",Uh!,0.3333333333333333,0.60286045
 Yeah.,"あ…
  
 ナルト君
@@ -799,14 +799,14 @@ Yeah.,"あ…
 ","Ah…
  
 Naruto
-.",0.25
+.",0.25,0.17452359
 I...,"(ﾋﾅﾀ)
 《私…➡
 
-","""I ... ➡",0.5
+","""I ... ➡",0.5,0.50906014
 <i>I...changed maybe a little bit?</i>,"少しは…➡
 
-",A little bit ... ➡,0.3333333333333333
+",A little bit ... ➡,0.3333333333333333,0.44682866
 "I have two pieces
 of advice for you.","お前に２つほど忠告しておく
 ｡
@@ -814,7 +814,7 @@ of advice for you.","お前に２つほど忠告しておく
 
 ","I advise about two about you
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.63506323
 stop that revolting cheering of yours.,"忍なら
 見苦しい他人の応援などやめろ
 ｡
@@ -823,7 +823,7 @@ stop that revolting cheering of yours.,"忍なら
 ","Ninhen
 Stop the support of others who are unsightly
 .
-➡",0.2
+➡",0.2,0.27409565
 a failure will always be a failure.,"(
 ネジ
 )
@@ -835,13 +835,13 @@ a failure will always be a failure.,"(
 ","Oi
  
 Falling there
-.",0.1111111111111111
+.",0.1111111111111111,0.13600796
 Do you want to see about that?,"試してみるか？
 
-",Do you try it?,0.3
+",Do you try it?,0.3,0.28357697
 You!,"あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.36250582
 "Naruto, I get where you're
 coming from, believe me.","お前…
 ｡
@@ -853,7 +853,7 @@ coming from, believe me.","お前…
 ","you…
 .
 
-Naruto's feelings",0.14285714285714285
+Naruto's feelings",0.14285714285714285,0.6455563
 "But all fighting must be
 done officially in a match!","しかし
  
@@ -865,7 +865,7 @@ done officially in a match!","しかし
  
 In the game
 It should be done in a proper game
-.",0.2222222222222222
+.",0.2222222222222222,0.42423084
 "The failure beats the gifted genius
 through sheer effort...","(
 リー
@@ -878,7 +878,7 @@ through sheer effort...","(
 ","Falling is a genius
 Cause with the power of the effort
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.55613446
 "Wouldn't that make for
 an exciting main battle?","本選が楽しみじゃないですか
 ｡
@@ -886,7 +886,7 @@ an exciting main battle?","本選が楽しみじゃないですか
 
 ","Aren't you looking forward to this?
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.1733674
 "but it would be okay with me
 if you ended up fighting him, Naruto.","もっとも
  
@@ -898,12 +898,12 @@ if you ended up fighting him, Naruto.","もっとも
  
 His opponent
 It may be me
-.",0.2
+.",0.2,0.32423824
 All right already.,"分かったってばよ
 ｡
 
 ","I understand
-.",0.16666666666666666
+.",0.16666666666666666,0.26572278
 "<i>So this is okay then,</i>
 <i>right, Guy Sensei?</i>","(
 リー
@@ -912,7 +912,7 @@ All right already.,"分かったってばよ
 ガイ先生》
 
 ","""Is this good?
-Guy teacher",0.23529411764705882
+Guy teacher",0.2352941176470588,0.28072682
 <i>Lee! You...</i>,"(
 ガイ
 )
@@ -926,22 +926,22 @@ Guy teacher",0.23529411764705882
  
 You guys ...
 .
-➡",0.25
+➡",0.25,0.7691562
 <i>Nice going!</i>,"ナイスだぞ！》
 
-","It's nice!""",0.2
+","It's nice!""",0.2,0.442104
 <i>Was he trying to kill her then?!</i>,"殺すつもりだったのか？》
 
-","Were you going to kill?""",0.17647058823529413
+","Were you going to kill?""",0.17647058823529413,0.54917866
 "The precious little time you have
 would be better spent","俺をにらむ暇があったら➡
 
-",If you have time to go to me,0.21428571428571427
+",If you have time to go to me,0.21428571428571427,0.45083
 seeing to her than glaring at me.,"彼女を見たほうがいいですよ
 ｡
 
 ","It would be nice to see her
-.",0.23076923076923078
+.",0.2307692307692308,0.4911781
 Medics!,"(
 男性１
 )
@@ -951,7 +951,7 @@ Medics!,"(
 
 ","vinegar…
  
-Excuse me!➡",0.16666666666666666
+Excuse me!➡",0.16666666666666666,0.2821479
 S-Sorry.,"(
 紅
 )
@@ -963,7 +963,7 @@ S-Sorry.,"(
 ","""Mazu
 Ventricular fibrillation is occurring
 .
-➡",0.1111111111111111
+➡",0.1111111111111111,0.13449399
 "Get her on the stretcher.
 One, two, three.","担架に乗せて
  
@@ -977,26 +977,26 @@ One, two, three.","担架に乗せて
 Good
  
 Sei ...
-.",0.2857142857142857
+.",0.2857142857142857,0.6385587
 Hinata...,"ヒナタ…
 ｡
 
 ","Hinata ...
-.",0.6666666666666666
+.",0.6666666666666666,0.9948467
 <i>Because that's my Way of Ninja.</i>,"＜私も…
  
 それが忍道だから＞
 
 ","<I too ...
  
-Because it is a noblisal>",0.23529411764705882
+Because it is a noblisal>",0.2352941176470588,0.48222816
 I will win no matter what!,"絶対
  
 勝つ！
 
 ","absolutely
  
-win!",0.25
+win!",0.25,0.63253576
 "<i>when you want to cry,</i>
 <i>and you want to run away</i>","♬
  
@@ -1008,14 +1008,14 @@ win!",0.25
  
 You are
  
-forever and ever",0.11764705882352941
+forever and ever",0.1176470588235294,0.39382538
 <i>Just sing.</i>,"♬
  
 泣いちゃうから
 
 ","♬
  
-Because I'm crying",0.1
+Because I'm crying",0.1,0.28646743
 "But wait, he's not losing","♬
  
 もう
@@ -1026,18 +1026,18 @@ Because I'm crying",0.1
  
 Already
  
-it's fine",0.09090909090909091
+it's fine",0.09090909090909093,0.17078783
 He seems a lot faster than before.,"♬
  
 みな歌え
 
 ","♬
  
-A singing",0.1
+A singing",0.1,0.024801329
 Is this due to his training?,"♬
  
 光が生まれ
 
 ","♬
  
-Light is born",0.1
+Light is born",0.1,0.07140601

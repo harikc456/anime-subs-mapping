@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.69996905
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -18,14 +18,14 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852413
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.75999033
 "<i>Dreaming of only""the beginning,""</i>
 <i>I wake up</i>","♬
  
@@ -33,14 +33,14 @@ Is it always nice to smile",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.11764705882352941
+Meet the expectations of someone",0.1176470588235294,0.23997359
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372733
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.3079108
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522565
 "Sasuke's movements have stopped!
 There's still quite a bit of distance, though...","まだ
  
@@ -77,14 +77,14 @@ There's still quite a bit of distance, though...","まだ
 ","not yet
  
 There is a lot of distance
-.",0.19047619047619047
+.",0.19047619047619047,0.4628178
 <i>Okay!</i>,"♬
  
 気付かぬまま
 
 ","♬
  
-I noticed",0.125
+I noticed",0.125,0.31715912
 Huh? This smell is?!,"(ﾊﾟｯｸﾝ)
 おっ
  
@@ -94,28 +94,28 @@ Huh? This smell is?!,"(ﾊﾟｯｸﾝ)
 ","Oh
  
 This smell ...
-.",0.2222222222222222
+.",0.2222222222222222,0.7306012
 W-What's wrong?!,"どうしたんだってばよ？
 
-",What happened?,0.14285714285714285
+",What happened?,0.14285714285714285,0.17913635
 Did something happen to Sasuke?!,"(ｻｸﾗ)
 サスケ君に何かあったの？
 
-",What happened to Sasuke?,0.3333333333333333
+",What happened to Sasuke?,0.3333333333333333,0.90838856
 I didn't notice until now.,"今まで気付かなかったが…
 ｡
 
 ","I did not notice until now ...
-.",0.6666666666666666
+.",0.6666666666666666,0.88764113
 use the same shampoo as me.,"拙者と同じシャンプーを
 使っておるな？
 
 ","The same shampoo as the prisoner
-Do you use it?",0.4166666666666667
+Do you use it?",0.4166666666666667,0.66999465
 "This floral green fragrance...
 No doubt!","間違いない！
 
-",no doubt!,0.375
+",no doubt!,0.375,0.3214014
 Same as a dog...,"犬と同じ…
  
 犬と同じ…
@@ -124,18 +124,18 @@ Same as a dog...,"犬と同じ…
 ","Same as a dog ...
  
 Same as a dog ...
-.",0.8333333333333334
+.",0.8333333333333334,0.84518325
 Dang it!,"つまんねえこと
 言ってんじゃねえってばよ！
 
 ","Male
-Don't say it!",0.2857142857142857
+Don't say it!",0.2857142857142857,0.22118476
 Sasuke Uchiha!,"(ﾃﾏﾘ)
 うちはサスケ
 ｡
 
 ","My house is Sasuke
-.",0.14285714285714285
+.",0.14285714285714285,0.6886739
 "<i>Jeez, this kid of all people...</i>
 <i>at a time when Gaara is like this.</i>","(ｶﾝｸﾛｳ)
 《チッ
@@ -146,7 +146,7 @@ Sasuke Uchiha!,"(ﾃﾏﾘ)
 ","""Chig
 Sow
  
-Such a time",0.08333333333333333
+Such a time",0.08333333333333333,0.25505504
 "<i>Man, this is bad.</i>","よりによって
  
 このガキとはな
@@ -157,7 +157,7 @@ Such a time",0.08333333333333333
  
 What is this oyster
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.16318572
 Heh! That's fine.,"(ｶﾝｸﾛｳ)
 フッ
  
@@ -171,7 +171,7 @@ Heh! That's fine.,"(ｶﾝｸﾛｳ)
 Above, etc.!
  
 Ah
-.",0.18181818181818182
+.",0.18181818181818185,0.17011423
 Kankuro! Take Gaara and go quickly!,"カンクロウ
  
 我愛羅を連れて
@@ -180,7 +180,7 @@ Kankuro! Take Gaara and go quickly!,"カンクロウ
 ","Crown
  
 In the emira
-Go quickly!",0.2727272727272727
+Go quickly!",0.2727272727272727,0.3267863
 Leave him to me!,"こいつは
  
 あたしに任せろ
@@ -189,7 +189,7 @@ Leave him to me!,"こいつは
 ","This guy
  
 Leave it to me
-.",0.3333333333333333
+.",0.3333333333333333,0.58877623
 But Temari...!,"(ｶﾝｸﾛｳ)
 えっ
  
@@ -203,7 +203,7 @@ But Temari...!,"(ｶﾝｸﾛｳ)
 However
  
 Temari ...
-.",0.2857142857142857
+.",0.2857142857142857,0.9444249
 "This is an important mission for
 the Village Hidden in the Sand!","構うな！
 これは砂の国の重要任務だ
@@ -211,7 +211,7 @@ the Village Hidden in the Sand!","構うな！
 
 ","Don't be!
 This is an important task of sand country
-.",0.3157894736842105
+.",0.3157894736842105,0.5637464
 Go! Kankuro!,"行け！
  
 カンクロウ
@@ -220,13 +220,13 @@ Go! Kankuro!,"行け！
 ","go!
  
 Crown
-.",0.4
+.",0.4,0.4600708
 I don't think so!,"逃がすか！
 
-",I miss it!,0.25
+",I miss it!,0.25,0.15305361
 Eat this!,"食らえ！
 
-",Eat!,0.6666666666666666
+",Eat!,0.6666666666666666,0.7436092
 <i>My opponent is that Uchiha kid...</i>,"(ﾃﾏﾘ)
 《相手は
  
@@ -238,7 +238,7 @@ Eat this!,"食らえ！
  
 Of that
 .
-➡",0.13333333333333333
+➡",0.13333333333333333,0.4566789
 "<i>This is not good. I only have</i>
 <i>a bit of Chakra left.</i>","まずいな
  
@@ -248,7 +248,7 @@ Of that
 ","Unexpectedly
  
 This chakra is
-There is no other remaining",0.14285714285714285
+There is no other remaining",0.14285714285714285,0.68032694
 "<i>But I need to get him to use</i>
 <i>a large amount of Chakra at any cost.</i>","ここは何としても
  
@@ -258,7 +258,7 @@ There is no other remaining",0.14285714285714285
 ","What is here
  
 Atsushi
-Let me use a large amount of chakra ...",0.24
+Let me use a large amount of chakra ...",0.24,0.6747902
 "<i>Shall I take care of her in</i>
 <i>one hit with Chidori? Or...</i>","それとも…
  
@@ -270,10 +270,10 @@ Let me use a large amount of chakra ...",0.24
  
 also
  
-here…""",0.1
+here…""",0.1,0.23789941
 Don't underestimate me!,"オ～ラッ！
 
-",Oh!,0.16666666666666666
+",Oh!,0.16666666666666666,0.27009127
 Ninja Art: Sand Storm!,"ナメるな！
  
 忍法
@@ -284,7 +284,7 @@ Ninja Art: Sand Storm!,"ナメるな！
  
 Ninja method
  
-Wind sand dust!",0.3
+Wind sand dust!",0.3,0.73900634
 "<i>Darn! I have to do something about</i>
 <i>that bothersome fan...</i>","《チッ
  
@@ -294,42 +294,42 @@ Wind sand dust!",0.3
 ","""Chig
  
 That kind fan
-What doesn't matter ... """,0.13636363636363635
+What doesn't matter ... """,0.13636363636363635,0.41243717
 <i>It can't be helped...</i>,"《しょうがねえ》
 
-","""It can not be helped""",0.21428571428571427
+","""It can not be helped""",0.21428571428571427,0.569456
 "<i>It looks like you've finally</i>
 <i>gotten serious, eh?</i>","(ﾃﾏﾘ)
 《やっと
 やる気になったみたいだね》
 
 ","""at last
-It looks like I'm motivated",0.2
+It looks like I'm motivated",0.2,0.18769464
 <i>That's the stuff!</i>,"(ﾃﾏﾘ)
 《そうこなくっちゃね！》
 
-","""That's right!""",0.25
+","""That's right!""",0.25,0.22541644
 <i>Aim with precision!</i>,"《ピンポイントで狙う！➡
 
-","""Aim at pinpoint!➡",0.16666666666666666
+","""Aim at pinpoint!➡",0.16666666666666666,0.62679076
 Fire Style: Fireball Jutsu!,"《火[外:99C09079206BA433E50523B592C8055A]
  
 鳳仙火の術！》
 
 ","""Fire: 99C09079206BA433E50523B592C8055A]
  
-Technology of the Senka!""",0.21428571428571427
+Technology of the Senka!""",0.21428571428571427,0.4438176
 Did I get her?,"やったか？
 
-",Did you do it?,0.25
+",Did you do it?,0.25,0.34879494
 Now!,"《しまった！》
 今だ！
 
 ","""Oops!""
-now!",0.4
+now!",0.4,0.50161564
 Good!,"うわ～！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.33621517
 "Sorry, but I don't have the time
 to be dealing with you forever!","悪いが
  
@@ -341,20 +341,20 @@ to be dealing with you forever!","悪いが
  
 forever and ever
 There is no time to do the other party
-.",0.2
+.",0.2,0.41061166
 "D-Dang it...
 G-Gaara, at any cost...","(ﾃﾏﾘ)
 うっ…
 ｡
 
 ","Uey ...
-.",0.1
+.",0.1,0.14244495
 What's that?!,"(
 猿飛
 )
 ん!?
 
-",Hmm!?,0.3333333333333333
+",Hmm!?,0.3333333333333333,0.30245957
 What the heck is going on?,"(
 暗部１
 )
@@ -370,7 +370,7 @@ What the heck is going on?,"(
 That is…
 Integral
  
-how is it going?",0.3333333333333333
+how is it going?",0.3333333333333333,0.097463
 Who on earth are you?!,"(
 猿飛
 )
@@ -384,7 +384,7 @@ Who on earth are you?!,"(
  
 Integral
  
-Who are you!?",0.625
+Who are you!?",0.625,0.31037837
 It's me. Orochimaru.,"私です
  
 大蛇丸ですよ
@@ -393,11 +393,11 @@ It's me. Orochimaru.,"私です
 ","Is me
  
 It is a great snake
-.",0.3333333333333333
+.",0.3333333333333333,0.32547006
 "It can't be... Have you completed
 that Forbidden Jutsu?","あの禁術を完成させていたのか!?
 
-",Did you finish that innocence?,0.2
+",Did you finish that innocence?,0.2,0.25747463
 "I struggled for decades...
 after leaving the village.","(
 大蛇丸
@@ -412,13 +412,13 @@ after leaving the village.","(
  
 Fuhufu ...
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.11422195
 "The reason I couldn't select you
 to be the Fourth Hokage...","わしが貴様を
 四代目に選べなかったのも➡
 
 ","I'm sorry
-It was not possible to choose the fourth generation",0.2
+It was not possible to choose the fourth generation",0.2,0.43392277
 "I've finally been found out, eh...?","(
 大蛇丸
 )
@@ -430,7 +430,7 @@ It was not possible to choose the fourth generation",0.2
 ","<Huhofu ...
  
 finally
-It has been found>",0.26666666666666666
+It has been found>",0.26666666666666666,0.45638028
 "Orochimaru...
 What's the meaning of this?!","＜大蛇丸
  
@@ -444,13 +444,13 @@ What's the meaning of this?!","＜大蛇丸
 you
 this is
  
-What does it mean?>",0.15789473684210525
+What does it mean?>",0.15789473684210525,0.32218358
 "Here I'd set that
 many booby traps...","＜あれだけのブービートラップを
 仕掛けておいたのに➡
 
 ","<That's only booby trap
-Even though I was set up",0.23529411764705882
+Even though I was set up",0.2352941176470588,0.75355166
 But I see... So it was you.,"…と驚いたのですが
  
 なるほど
@@ -461,7 +461,7 @@ But I see... So it was you.,"…と驚いたのですが
  
 So that's it
 .
-➡",0.46153846153846156
+➡",0.4615384615384616,0.3419833
 "Recently, there has been a steady stream
 of people going missing from the village,","(
 暗部１
@@ -472,26 +472,26 @@ of people going missing from the village,","(
 
 ","<Cour
  
-Nakajima from the Shimono of the village",0.21052631578947367
+Nakajima from the Shimono of the village",0.21052631578947367,0.26770443
 "Shall I kill you, too?","＜フフフフ…
 あなたも殺してあげましょうか＞
 
 ","<Huhofu ...
-Shall I kill you?",0.5
+Shall I kill you?",0.5,0.79321265
 Say it! What were you doing here?!,"言え！
  
 ここで何をやっていた？＞
 
 ","say!
  
-What did you do here?>",0.5
+What did you do here?>",0.5,0.7864372
 Alas! I've been found out.,"＜あ～あ
  
 バレちゃったんじゃ➡
 
 ","<Oh ~
  
-I'm sorry.",0.15384615384615385
+I'm sorry.",0.15384615384615385,0.18465777
 "For that purpose, you did this
 to fellow Shinobi?!","(
 暗部１
@@ -504,7 +504,7 @@ to fellow Shinobi?!","(
 ","<Major snake ...
  
 you
-For that purpose, the jealousy Shinobu ...>",0.25
+For that purpose, the jealousy Shinobu ...>",0.25,0.5784894
 What is it that you want?,"(
 猿飛
 )
@@ -518,7 +518,7 @@ What is it that you want?,"(
  
 Integral
  
-What do you want?>",0.36363636363636365
+What do you want?>",0.3636363636363637,0.32803494
 "Get every Jutsu and understand
 all of the truths of this world!","この世の真理をすべて理解する
 ｡
@@ -526,11 +526,11 @@ all of the truths of this world!","この世の真理をすべて理解する
 
 ","Understand all the truth of this world
 .
-➡",0.4
+➡",0.4,0.4500272
 "The one who first mixed
 blue and yellow","青と黄色を始めて混ぜた者は➡
 
-",The person who started with blue and yellow is,0.4166666666666667
+",The person who started with blue and yellow is,0.4166666666666667,0.83602506
 "named the new color made
 in that way, green.","そうして出来た新しい色に
 緑と名付けた
@@ -540,7 +540,7 @@ in that way, green.","そうして出来た新しい色に
 ","In the new color that was done so
 I named Green
 .
-➡",0.5
+➡",0.5,0.8700058
 I just want to do the same thing.,"私も
  
 それと同じことを
@@ -553,10 +553,10 @@ I just want to do the same thing.,"私も
 The same thing as that
 I just want to
 .
-➡",0.5714285714285714
+➡",0.5714285714285714,0.6652464
 "If blue is Chakra, yellow is a Sign...","青がチャクラなら黄色が印➡
 
-","If blue is chakra, yellow is marked",0.6
+","If blue is chakra, yellow is marked",0.6,0.90211546
 and green is a Jutsu.,"そして
  
 緑が術
@@ -567,7 +567,7 @@ and green is a Jutsu.,"そして
  
 Green
 .
-➡",0.42857142857142855
+➡",0.42857142857142855,0.56558305
 "there are probably also tens
 of thousands of Jutsu in this world...","術も数千
  
@@ -581,13 +581,13 @@ of thousands of Jutsu in this world...","術も数千
 Tens of thousands
 In this world
 .
-➡",0.4
+➡",0.4,0.43847147
 "But in order to get any
 and all of the Jutsu...","そして真理を
 この手に入れるためには➡
 
 ","And the truth
-To get this to this",0.2857142857142857
+To get this to this",0.2857142857142857,0.20351253
 "as well as the truths,
 a long time is necessary.","長い時間が必要
 ｡
@@ -595,11 +595,11 @@ a long time is necessary.","長い時間が必要
 
 ","Long time
 .
-➡",0.25
+➡",0.25,0.45651773
 "It's the one who takes those
 long years to know everything,","すべてを知り尽くした者こそ➡
 
-",Those who knew everything,0.21428571428571427
+",Those who knew everything,0.21428571428571427,0.514268
 "who can suitably be called
 the ultimate individual.","究極の個体と呼ぶに
 ふさわしい
@@ -609,7 +609,7 @@ the ultimate individual.","究極の個体と呼ぶに
 ","To call it the ultimate individual
 Grievous
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.5643814
 "For me, the life span of
 the body is too short.","肉体の寿命は短すぎる
 ｡
@@ -617,17 +617,17 @@ the body is too short.","肉体の寿命は短すぎる
 
 ","The life of the body is too short
 .
-➡",0.6153846153846154
+➡",0.6153846153846154,0.7795632
 Too fleeting.,"はかなすぎる
 ｡
 ➡
 
 ","It is too much
 .
-➡",0.2857142857142857
+➡",0.2857142857142857,0.42054254
 Immortality Jutsu is a technique of,"＜不老不死の術ですよ＞
 
-",<It is the case of immortal immortality>,0.25
+",<It is the case of immortal immortality>,0.25,0.5862125
 "eternally pooling one's own
 spirits into this earth...","みずからの精神を
 この地に永ごう
@@ -639,7 +639,7 @@ spirits into this earth...","みずからの精神を
 Perhaps this place
  
 Law to stay
-.",0.1111111111111111
+.",0.1111111111111111,0.34604222
 "you find a new body, put your own spirit
 into that body and take it over.","つまり
  
@@ -647,7 +647,7 @@ into that body and take it over.","つまり
 
 ","in short
  
-Find new body",0.15789473684210525
+Find new body",0.15789473684210525,0.63655275
 "Aging is an empty thing, isn't it?","老いとは
 むなしいものですねぇ
 ｡
@@ -656,7 +656,7 @@ Find new body",0.15789473684210525
 ","With old
 It is unusual
 .
-➡",0.14285714285714285
+➡",0.14285714285714285,0.35898453
 I feel that keenly when I look at you.,"あなたを見ていると
 ひしひしと
  
@@ -667,14 +667,14 @@ I feel that keenly when I look at you.,"あなたを見ていると
 With
  
 I feel so
-.",0.6363636363636364
+.",0.6363636363636364,0.7379901
 You'll die here...,"あなたは
  
 ここで死に➡
 
 ","you
  
-Death here",0.3333333333333333
+Death here",0.3333333333333333,0.6109473
 "and I'll get a younger,
 more beautiful and stronger body...","私は
  
@@ -682,21 +682,21 @@ more beautiful and stronger body...","私は
 
 ","I
  
-Furthermore, young beautiful ➡",0.2
+Furthermore, young beautiful ➡",0.2,0.4951377
 Right... Exactly... Sasuke.,"フフ…
 ｡
 
 ","Fufu ...
-.",0.3333333333333333
+.",0.3333333333333333,0.078837834
 "and the spirit is immortalized, huh?","精神を不死化させる転生術か
 ｡
 
 ","Transhants to immortalize the spirit
-.",0.16666666666666666
+.",0.16666666666666666,0.58498263
 "How many faces and bodies
 have you gone through?!","何人目じゃ!?
 
-",How many people!?,0.3333333333333333
+",How many people!?,0.3333333333333333,0.5102043
 "Two, I think...","乗っ取るつもりですが
 フフフ…
 ｡
@@ -705,7 +705,7 @@ have you gone through?!","何人目じゃ!?
 ","I'm going to get on
 Fuhufu ...
 .
-➡",0.15384615384615385
+➡",0.15384615384615385,0.06864876
 "I plan to take Sasuke over after
 raising him a little more to my liking.","サスケ君は
 もう少し
@@ -715,7 +715,7 @@ raising him a little more to my liking.","サスケ君は
 ","Sasuke is
 A little more
  
-After growing my favorite",0.3333333333333333
+After growing my favorite",0.3333333333333333,0.7610285
 "But after all, in order to make you regret
 your very own life...","でも
  
@@ -725,14 +725,14 @@ your very own life...","でも
 ","but
  
 for you
-I regret my life ➡",0.21052631578947367
+I regret my life ➡",0.21052631578947367,0.66708297
 ...perhaps this face is better?,"やはり
  
 この顔がいいですかね？
 
 ","also
  
-Is this face good?",0.4444444444444444
+Is this face good?",0.4444444444444444,0.6255377
 You monster!,"(
 暗部
 )
@@ -740,13 +740,13 @@ You monster!,"(
 ｡
 
 ","Monster
-.",0.25
+.",0.25,0.5733089
 Lord Hokage!,"(
 暗部
 )
 火影様！
 
-",Surface!,0.25
+",Surface!,0.25,0.26761633
 "Don't lower your guard, Sensei!
 You're always too soft...","あなたは
 いつも甘すぎるんですよ
@@ -754,7 +754,7 @@ You're always too soft...","あなたは
 
 ","you
 It is always too sweet
-.",0.16666666666666666
+.",0.16666666666666666,0.26148114
 "What's been wrong with you?
 This isn't like you!","(
 猿魔
@@ -769,7 +769,7 @@ This isn't like you!","(
  
 What happened?
 It looks like you
-.",0.2
+.",0.2,0.43514392
 I'm sorry...,"(
 猿飛
 )
@@ -785,7 +785,7 @@ I'm sorry...,"(
 Han
  
 Hua ...
-.",0.14285714285714285
+.",0.14285714285714285,0.15984797
 "<i>Eyes with malice and ambition</i>
 <i>concealed in them...</i>","悪意と野望を秘めた瞳
 ｡
@@ -793,7 +793,7 @@ Hua ...
 
 ","Hitomi who himself with evil and ambition
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.3649519
 "<i>I had noticed that</i>
 <i>you had such tendencies.</i>","そういう素養があったことは
 気付いておった
@@ -803,18 +803,18 @@ Hua ...
 ","That there was such a nourishment
 I noticed
 .
-➡",0.25
+➡",0.25,0.3661766
 "<i>A genius who brimmed</i>
 <i>over strongly with ability...</i>","強く才能に満ちあふれた天才➡
 
-",Strongly talented genius ➡ ➡,0.13333333333333333
+",Strongly talented genius ➡ ➡,0.13333333333333333,0.55782783
 <i>So I wanted to think that</i>,"そう思いたかった
 ｡
 ➡
 
 ","I wanted to think so
 .
-➡",0.45454545454545453
+➡",0.4545454545454545,0.5191755
 "<i>you would carry on</i>
 <i>my own will and power.</i>","だから
  
@@ -824,7 +824,7 @@ I noticed
 ","that's why
  
 My will and power
-Inherited existence ➡",0.15
+Inherited existence ➡",0.15,0.63662887
 "<i>created the conditions of that time</i>
 <i>as well as now!</i>","あの時
  
@@ -834,7 +834,7 @@ Inherited existence ➡",0.15
 ","That time
  
 and
-I made a situation of now",0.2777777777777778
+I made a situation of now",0.2777777777777778,0.4966208
 Are you going to... kill me?,"＜殺すんですか？
 この
  
@@ -843,7 +843,7 @@ Are you going to... kill me?,"＜殺すんですか？
 ","<Are you killing?
 this
  
-I want me to>",0.35714285714285715
+I want me to>",0.35714285714285715,0.6964834
 "Kill him, Sarutobi!
 Now's your only chance!","(
 猿魔
@@ -856,7 +856,7 @@ Now's your only chance!","(
 ","<Kill!
  
 Sarutobi
-I only have to do it now!>",0.29411764705882354
+I only have to do it now!>",0.29411764705882354,0.82051754
 Sarutobi... You...,"(
 猿魔
 )
@@ -866,25 +866,25 @@ Sarutobi... You...,"(
 
 ","<Saruhi
  
-You ...>",0.3333333333333333
+You ...>",0.3333333333333333,0.6331076
 Here I go!,"(
 猿飛
 )
 行くぞ！
 
-",let's go!,0.3333333333333333
+",let's go!,0.3333333333333333,0.37177417
 It's too late!,"(
 大蛇丸
 )
 もう遅すぎるのですよ！
 
-",It's too late!,1.0
+",It's too late!,1.0,0.99999976
 Shadow Clone Jutsu!,"(
 猿飛
 )
 影分身の術！
 
-",Shadow Subordination!,0.4
+",Shadow Subordination!,0.4,0.5519525
 "To disperse the little Chakra
 he has left...!","焦りで
 みずからの寿命を縮めようとは
@@ -892,7 +892,7 @@ he has left...!","焦りで
 
 ","Frank
 Trying to reduce the lifetime of
-.",0.125
+.",0.125,0.20918344
 "You've gotten old, after all...","フッ
  
 やはり
@@ -905,7 +905,7 @@ Trying to reduce the lifetime of
 also
  
 You were old
-.",0.16666666666666666
+.",0.16666666666666666,0.47675413
 <i>This order of Signs...</i>,"(
 猿魔
 )
@@ -917,20 +917,20 @@ You were old
 ","In order of this mark
 After all monkeys
  
-That technique!",0.17647058823529413
+That technique!",0.17647058823529413,0.31196818
 "<i>So this is the Grim Reaper</i>
 <i>the Fourth Hokage was talking about,</i>","(
 猿飛
 )
 《これが四代目の言っていた➡
 
-","""This was the story of the fourth generation",0.2
+","""This was the story of the fourth generation",0.2,0.32871723
 "<i>which only the one who has signed</i>
 <i>a contract with this Jutsu can see, eh?!</i>","この術と契約した者のみが
 見られるという➡
 
 ","Only those who have contracted this technique
-It can be seen",0.13793103448275862
+It can be seen",0.13793103448275862,0.34982753
 "Whatever you do now, it's too late...
 I've won.","もう何をやっても遅い
 私の勝ちです
@@ -938,10 +938,10 @@ I've won.","もう何をやっても遅い
 
 ","It is slow to do anything
 My win
-.",0.15
+.",0.15,0.4018763
 The Leaf Village will crumble!,"木ノ葉は滅びるのよ！
 
-",The tree is destroyed!,0.2222222222222222
+",The tree is destroyed!,0.2222222222222222,0.49264833
 "The Village Hidden in the Leaves
 is the home where I live.","木ノ葉の里は
  
@@ -949,7 +949,7 @@ is the home where I live.","木ノ葉の里は
 
 ","The village of Kinoha
  
-It's a house where I live!",0.2777777777777778
+It's a house where I live!",0.2777777777777778,0.5584765
 "The Hokage is the one who inherits
 and is entrusted the will of the Leaf.","それは
 木ノ葉の意志を受け継ぎ託す者
@@ -957,19 +957,19 @@ and is entrusted the will of the Leaf.","それは
 
 ","that is
 Those who are engaged in the will of the tree
-.",0.3333333333333333
+.",0.3333333333333333,0.504748
 Genjutsu! Infinite Darkness Jutsu!,"死に神か！》
 
-","God die!""",0.125
+","God die!""",0.125,0.25368884
 You're merely a temporal head,"歴史の中の一時の頭にすぎない
 ｡
 
 ","It is only a temporary head in history
-.",0.15384615384615385
+.",0.15384615384615385,0.5995999
 "in the history of the organization
 called the Leaf Village...","あなたは木ノ葉という組織に➡
 
-",You are the organization called wood,0.25
+",You are the organization called wood,0.25,0.43186352
 "Even the face rock that is left
 will eventually weather and decay.","やがて風化し
  
@@ -979,19 +979,19 @@ will eventually weather and decay.","やがて風化し
 ","Evally weather
  
 Decay
-.",0.21428571428571427
+.",0.21428571428571427,0.5492089
 "Humph... Leaf Village is
 not just an organization to me!","ただの組織ではない
 ｡
 
 ","Not just an organization
-.",0.3076923076923077
+.",0.3076923076923077,0.48327667
 "In the Leaf Village,","(
 猿飛
 )
 木ノ葉の里には➡
 
-",In the village of the tree,0.42857142857142855
+",In the village of the tree,0.42857142857142855,0.8379375
 "every year many Shinobi
 are born and raised...","毎年
  
@@ -1003,7 +1003,7 @@ are born and raised...","毎年
  
 Many Shinobu Born
  
-Grew up",0.3333333333333333
+Grew up",0.3333333333333333,0.9009414
 "and live and fight...
 and die to protect the village.","生き
  
@@ -1015,20 +1015,20 @@ and die to protect the village.","生き
  
 Fight
 Dead to protect the village
-.",0.5
+.",0.5,0.6745418
 even if they don't have blood ties...,"たとえ血のつながりがなくとも➡
 
-",Even if there is no blood connection,0.23076923076923078
+",Even if there is no blood connection,0.2307692307692308,0.5847322
 precious...,"大切な…➡
 
-",Important ... ➡,0.25
+",Important ... ➡,0.25,0.4003444
 family!,"家族じゃ！
 
-",Family!,1.0
+",Family!,1.0,1.0000004
 "Then I shall smash you, the pillar,
 and destroy the Leaf home.","あなたをたたき折り➡
 
-",Fold you and fold,0.14285714285714285
+",Fold you and fold,0.14285714285714285,0.24341092
 "Humph! Even if you kill me,
 that pillar will not break!","(
 大蛇丸
@@ -1043,14 +1043,14 @@ that pillar will not break!","(
  
 If
  
-That pillar",0.2
+That pillar",0.2,0.5555649
 "I am the man who carried on the Leaf Will
 of the First and Second Hokages...","木ノ葉の意志を受け継いだ男➡
 
-",A man who has inherited the will of the tree,0.2631578947368421
+",A man who has inherited the will of the tree,0.2631578947368421,0.5126739
 The Third Hokage!,"その柱は折れはせぬ！
 
-",The pillar is not broken!,0.25
+",The pillar is not broken!,0.25,0.18133985
 "No matter how much you target
 this Village Hidden in the Leaves...","お前が
  
@@ -1060,13 +1060,13 @@ this Village Hidden in the Leaves...","お前が
 ","you
  
 This tree no village
-How much to aim",0.375
+How much to aim",0.375,0.6758638
 "A new Hokage will carry on my will,
 shall become a pillar and defend the Leaf!","わしの意志を受け継ぐ
 新たな火影が柱となり➡
 
 ","Inherit the will of
-New fire shadow is a pillar",0.23809523809523808
+New fire shadow is a pillar",0.2380952380952381,0.50846976
 "Orochimaru! Now I will perform
 an ace Jutsu that even you don't know!","これから
  
@@ -1078,7 +1078,7 @@ an ace Jutsu that even you don't know!","これから
  
 I do not know before
 I will show off the art
-.",0.21739130434782608
+.",0.21739130434782608,0.1941927
 "Behold! Sealing jutsu!
 Reaper Death Seal!","食らえ！
  
@@ -1090,7 +1090,7 @@ Reaper Death Seal!","食らえ！
  
 Sealing
  
-Enamel!",0.2222222222222222
+Enamel!",0.2222222222222222,0.46160516
 "<i>If it rains, take a break</i>
 <i>Go where the wind takes you</i>","♬
  
@@ -1100,7 +1100,7 @@ Enamel!",0.2222222222222222
 ","♬
  
 In a large sky
-Flying in the face",0.08695652173913043
+Flying in the face",0.08695652173913042,0.27311453
 "<i>So many regrets</i>
 <i>Don't let this scar be for naught</i>","♬
  
@@ -1108,7 +1108,7 @@ Flying in the face",0.08695652173913043
 
 ","♬
  
-Don't waste this scratch",0.16666666666666666
+Don't waste this scratch",0.16666666666666666,0.35812044
 "<i>Transform sadness into the wind</i>
 <i>and continue to forge on</i>","♬
  
@@ -1118,7 +1118,7 @@ Don't waste this scratch",0.16666666666666666
 ","♬
  
 Then the destination
-Near the wind blows",0.10526315789473684
+Near the wind blows",0.10526315789473684,0.42773604
 <i>Forge on strong</i>,"♬
  
 誰だって
@@ -1127,7 +1127,7 @@ Near the wind blows",0.10526315789473684
 ","♬
  
 Anyone
-I will fail",0.09090909090909091
+I will fail",0.09090909090909093,0.28891283
 "Shinobi are born, nurtured,
 and fight for the sake of the village.","♬
  
@@ -1137,4 +1137,4 @@ and fight for the sake of the village.","♬
 ","♬
  
 lots of
-Regret",0.0625
+Regret",0.0625,0.096878275

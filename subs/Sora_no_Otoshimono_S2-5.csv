@@ -1,280 +1,280 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "Oh, Tomoki. It's a good thing you came.","（守形(すがた)）
 ああ 智樹 いいところに来た",")
-Oh, I came to Tomi Tomoki",0.26666666666666666
-What are you doing?,何してるんすか 先輩,What do you do?,0.5
-I'm so hungry...,（ニンフ）ちょ…,Cho ...,0.16666666666666666
-Delta!,（ニンフ）ん… デルタ？,... Delta?,0.25
-"She got stuck on the fishing\Nline when she tried to fish,",そろそろ限界らしいのでな,It seems to be the limit soon,0.125
+Oh, I came to Tomi Tomoki",0.26666666666666666,0.7760409
+What are you doing?,何してるんすか 先輩,What do you do?,0.5,0.57853603
+I'm so hungry...,（ニンフ）ちょ…,Cho ...,0.16666666666666666,0.3647525
+Delta!,（ニンフ）ん… デルタ？,... Delta?,0.25,0.82478476
+"She got stuck on the fishing\Nline when she tried to fish,",そろそろ限界らしいのでな,It seems to be the limit soon,0.125,-0.035412244
 "So, she hasn't eaten a thing in three days?!","（そはら）
-３日間 何も食べてないの？",Can't eat anything for 3 days?,0.16666666666666666
+３日間 何も食べてないの？",Can't eat anything for 3 days?,0.16666666666666666,0.6076636
 I haven't had anything to eat\Nor drink for a week now!,"フッ まさか…
 １週間飲まず食わずよっ！","It is hooked ...
-It doesn't drink for a week!",0.3333333333333333
+It doesn't drink for a week!",0.3333333333333333,0.52048117
 I have to head out for a bit.,"（守形）
-俺はちょっと行く所があってな",I have a little place,0.2727272727272727
-No way! Why do I have to do it?!,どうしてもイヤか？,Why don't you do it?,0.3333333333333333
-Nope!,ぎゃあああっ！,Oh yeah!,0.25
-"What is it, Sugata?",うん 別にいいけど,"Yeah, but it is good",0.3333333333333333
-I have a favor to ask of you.,ちょっと頼みがあってな,I have a little request,0.2727272727272727
-Hold on to this for me.,ひとまずこれを持っておいてくれ,Hold this first,0.25
-A watch?,（ニンフ）時計…？,watch ...?,0.5
-And...,（守形）それと…,and ...,1.0
-Um...,（そはら）あの…,That ...,0.3333333333333333
+俺はちょっと行く所があってな",I have a little place,0.2727272727272727,0.30550882
+No way! Why do I have to do it?!,どうしてもイヤか？,Why don't you do it?,0.3333333333333333,0.6008802
+Nope!,ぎゃあああっ！,Oh yeah!,0.25,0.519935
+"What is it, Sugata?",うん 別にいいけど,"Yeah, but it is good",0.3333333333333333,0.07984678
+I have a favor to ask of you.,ちょっと頼みがあってな,I have a little request,0.2727272727272727,0.367445
+Hold on to this for me.,ひとまずこれを持っておいてくれ,Hold this first,0.25,0.45470542
+A watch?,（ニンフ）時計…？,watch ...?,0.5,0.5677056
+And...,（守形）それと…,and ...,1.0,0.9999993
+Um...,（そはら）あの…,That ...,0.3333333333333333,0.48211333
 "Yeah. This is Tomo's dream, isn't it?","ここは俺の夢じゃないって
 言ってたけど","This is not my dream
-I said",0.2
-Why did you come here?,何だ ついてきたのか？,What did you follow?,0.375
-I came to investigate.,（守形）調査しに来たんだ,I came to investigate,0.8
-Investigate? But there's nothing here.,何もありませんよ,There is nothing,0.2222222222222222
-"There's just that weird stone\Nmonument, those trees,",あとはず～っと空が続いてるだけで,"After that, just the sky continues",0.23076923076923078
+I said",0.2,0.3786645
+Why did you come here?,何だ ついてきたのか？,What did you follow?,0.375,0.35012203
+I came to investigate.,（守形）調査しに来たんだ,I came to investigate,0.8,0.9510879
+Investigate? But there's nothing here.,何もありませんよ,There is nothing,0.2222222222222222,0.435776
+"There's just that weird stone\Nmonument, those trees,",あとはず～っと空が続いてるだけで,"After that, just the sky continues",0.2307692307692308,0.22643767
 Mitsuki. Look down.,"見月(みつき)
 （そはら）あ…","Mitsuki 
- ...",0.2
-"It'll be fine, so don't move\Naround too much.",怖くないからおとなしくしててくれ,Don't be scared because you are not scared,0.17647058823529413
+ ...",0.2,0.8385361
+"It'll be fine, so don't move\Naround too much.",怖くないからおとなしくしててくれ,Don't be scared because you are not scared,0.17647058823529413,0.3201327
 "Do you remember hearing about\Nthe Synapse, Mituski?","確かイカロスさんたちを
 作ったとこですよね？","Certainly Ikaros
-You made it?",0.15384615384615385
-The Synapse?,（そはら）シナプス？,Synaps?,0.25
-"From what Astrea has told\Nme, it seems that...",あれがどうもシナプスらしい,That seems to be synapses,0.15384615384615385
-the disturbance in the Earth's magnetic\Nfield above Sorami City...,空美町(そらみちょう)の上空にある地磁気の乱れ…,Disturbance of geomagnetism above the sky Michicho  ...,0.2857142857142857
-I see...,（そはら）ハア…,Haa ...,0.25
+You made it?",0.15384615384615385,0.2976833
+The Synapse?,（そはら）シナプス？,Synaps?,0.25,0.90878093
+"From what Astrea has told\Nme, it seems that...",あれがどうもシナプスらしい,That seems to be synapses,0.15384615384615385,0.12588134
+the disturbance in the Earth's magnetic\Nfield above Sorami City...,空美町(そらみちょう)の上空にある地磁気の乱れ…,Disturbance of geomagnetism above the sky Michicho  ...,0.2857142857142857,0.6926934
+I see...,（そはら）ハア…,Haa ...,0.25,0.40522334
 "I don't think we should tell Tomoki yet,","（守形）それから まだ智樹には
 言わないほうがいいと思うが―","Then from Tomoki
-I think it is better not to say-",0.16666666666666666
+I think it is better not to say-",0.16666666666666666,0.67376494
 "In other words, the world we're seeing\Nright now is the Synapse.","（守形）つまり 俺たちの見ている
 この世界がシナプスということだ",", that is, we are watching
-This world is synaps",0.2222222222222222
-W-Wait. Why does Tomo\Nhave that in his dreams?,（そはら）ええっ!?,yeah!?,0.08333333333333333
+This world is synaps",0.2222222222222222,0.7978384
+W-Wait. Why does Tomo\Nhave that in his dreams?,（そはら）ええっ!?,yeah!?,0.08333333333333333,0.10839168
 It's best you don't touch\Nanything unnecessarily.,"（守形）
-むやみに触れないほうがいい",You should not touch it,0.16666666666666666
-I can see Sorami City from here.,ああっ 空美町が見えますね…,"Oh, I can see the sky town ...",0.21428571428571427
-Yeah.,ぎゃああああっ！,Oh yeah!,0.25
+むやみに触れないほうがいい",You should not touch it,0.16666666666666666,0.643679
+I can see Sorami City from here.,ああっ 空美町が見えますね…,"Oh, I can see the sky town ...",0.21428571428571427,0.44947362
+Yeah.,ぎゃああああっ！,Oh yeah!,0.25,0.55411845
 Let's go. I want to check out\Nsome of the other areas.,"行こう 他の場所も見てみたい
 （そはら）はい","I want to see other places to go
- Yes",0.3125
-I can't catch a damn thing.,全然釣れねえじゃねえか ハア…,You can't fish at all or Haa ...,0.13333333333333333
-It's still kinda chilly.,まだ肌寒いわね～,It is still chilly ~,0.375
-She's not cold?,あいつは寒くないのか？,Is it not cold?,0.42857142857142855
-What is this?,何だ これは…,what is this…,0.4
-Why?,あ… どうして…,Oh ... why ...,0.25
-"I don't really know what this thing is,",（智樹）ん～？ よく分からんが…,?I do not know well ...,0.21428571428571427
-It's pretty warm here.,（そはら）暖かいですね ここ,It is warm here,0.42857142857142855
-I thought it'd be more...,もっと何ていうか…,What do you say more ...,0.18181818181818182
+ Yes",0.3125,0.5238781
+I can't catch a damn thing.,全然釣れねえじゃねえか ハア…,You can't fish at all or Haa ...,0.13333333333333333,0.40696582
+It's still kinda chilly.,まだ肌寒いわね～,It is still chilly ~,0.375,0.865714
+She's not cold?,あいつは寒くないのか？,Is it not cold?,0.42857142857142855,0.75531775
+What is this?,何だ これは…,what is this…,0.4,0.7599682
+Why?,あ… どうして…,Oh ... why ...,0.25,0.5643785
+"I don't really know what this thing is,",（智樹）ん～？ よく分からんが…,?I do not know well ...,0.21428571428571427,0.21935654
+It's pretty warm here.,（そはら）暖かいですね ここ,It is warm here,0.42857142857142855,0.9155202
+I thought it'd be more...,もっと何ていうか…,What do you say more ...,0.18181818181818185,0.4418118
 "Yeah. I mean, this is the place...","あんな不思議なカードを
 作った所なんでしょ？","Such mysterious card
-What is the place you made?",0.17647058823529413
-It's been bugging me that we\Nhaven't seen any people yet.,そちらのほうがたまらんわけだが…,That's why it's terrible ...,0.1875
+What is the place you made?",0.17647058823529413,0.14597176
+It's been bugging me that we\Nhaven't seen any people yet.,そちらのほうがたまらんわけだが…,That's why it's terrible ...,0.1875,0.14258257
 "Well, if someone does spot us,","（守形）
-まあ 誰かに見つかって―",Well found in someone-,0.1
+まあ 誰かに見つかって―",Well found in someone-,0.1,0.24274477
 "and we become surrounded by\NAngeloids, it'll all be over.","（守形）いや ここはあくまでも
 一部なんだろう","No, here is
-It will be some",0.17647058823529413
+It will be some",0.17647058823529413,0.27171493
 Sugata!,"（そはら）ハッ
-（守形）ん!?",!?,0.3333333333333333
-Huh?,（守形･そはら）ん？,?,0.5
+（守形）ん!?",!?,0.3333333333333333,0.23671672
+Huh?,（守形･そはら）ん？,?,0.5,0.6635472
 Everyone here is an Angeloid...,"ここにいるのってみんな
 エンジェロイド… ですよね？","Everyone is here
-Angeloid ... is it?",0.625
-"So, where are the people?",じゃあ 人間はどこに？,Then where is human beings?,0.18181818181818182
-Let's go take a look.,（守形）行ってみよう,Let's go,0.42857142857142855
+Angeloid ... is it?",0.625,0.8281805
+"So, where are the people?",じゃあ 人間はどこに？,Then where is human beings?,0.18181818181818185,0.58449984
+Let's go take a look.,（守形）行ってみよう,Let's go,0.42857142857142855,0.37621778
 Now this looks like something you'd\Nfind in a science fiction novel.,"（そはら）
-なんかＳＦ的なとこですね",It is something SF,0.06666666666666667
-They don't realize I'm here?,何も分からんだろう,I will do anything,0.2
-What the hell...,（守形）あ…,...,0.25
+なんかＳＦ的なとこですね",It is something SF,0.06666666666666668,0.24821128
+They don't realize I'm here?,何も分からんだろう,I will do anything,0.2,0.042999104
+What the hell...,（守形）あ…,...,0.25,0.36727783
 Dammit! Where the hell did he go?!,"（智樹）ああっ もうっ
 先輩どこ行ったんだよ！","Oh
-Where did the senior went!",0.3333333333333333
-"Master, I have some food here.",マスター 食材です,Master food,0.25
+Where did the senior went!",0.3333333333333333,0.44441208
+"Master, I have some food here.",マスター 食材です,Master food,0.25,0.7643849
 Is this not right?,"（イカロス）
-ダメですか…？",Is it not okay…?,0.42857142857142855
+ダメですか…？",Is it not okay…?,0.42857142857142855,0.5719436
 We can't eat that! Get rid of it!,"（智樹）
 んなもん食えるか！
 捨ててこいっ","Can you eat anything!
-Dump",0.14285714285714285
+Dump",0.14285714285714285,0.47632632
 Now I'm gonna get eaten!,"ぎゃあ お 俺が食われる～！
 イヤ～っ！","I'm eating!
-I'm sorry!",0.3
-No!,ん？ ぎゃああっ！,Yeah?Aya!,0.2
-"It's that scum from Class C, Sakurai.",（女子）Ｃ組のゴキブリ桜井(さくらい)だよ,C group's cockroach Sakurai,0.25
-I like that... I like that about him.,好き… だよ 私,I like ...,0.42857142857142855
+I'm sorry!",0.3,0.65703946
+No!,ん？ ぎゃああっ！,Yeah?Aya!,0.2,0.37597233
+"It's that scum from Class C, Sakurai.",（女子）Ｃ組のゴキブリ桜井(さくらい)だよ,C group's cockroach Sakurai,0.25,0.5492229
+I like that... I like that about him.,好き… だよ 私,I like ...,0.42857142857142855,0.45765224
 "I see. So this dome is the real world, huh?","そうか ここが元の現実の
 ドームの中か？","Yes here is the original reality
-Is it inside the dome?",0.21052631578947367
+Is it inside the dome?",0.21052631578947367,0.76339275
 What was all of that?,"ふう… さっきまでのは
 一体 何だったんだ？","Wow ...
-What did you mean?",0.18181818181818182
-Why did I see things from the surface?,なぜ地上の映像が？,Why is the video on the ground?,0.23076923076923078
-No... That's not it.,（守形）そんな…,That's ...,0.42857142857142855
-If...,桜井君…,Sakurai ...,0.3333333333333333
+What did you mean?",0.18181818181818185,0.24414125
+Why did I see things from the surface?,なぜ地上の映像が？,Why is the video on the ground?,0.2307692307692308,0.41060847
+No... That's not it.,（守形）そんな…,That's ...,0.42857142857142855,0.3972942
+If...,桜井君…,Sakurai ...,0.3333333333333333,0.19634584
 If the hypothesis I just\Nhit upon is correct....,"もしも… 今 俺が考えている仮説が
 正しいとしたら…","Even then ... The hypotheses I think
-If it is correct ...",0.4
+If it is correct ...",0.4,0.7324059
 What do you mean?,"（ハーピー１）み～んな
-カプセルの中で何してると思う？",What do you do in the capsule?,0.5
+カプセルの中で何してると思う？",What do you do in the capsule?,0.5,0.068608314
 "I'm itching to tell you everything,","全部詳しく
 教えてあげたいとこだけど…","All in detail
-I would like to tell you ...",0.2857142857142857
+I would like to tell you ...",0.2857142857142857,0.30960724
 What?! It's a Dive Game teleport!,"（ハーピー）
 何っ！ ダイブ･ゲームの転送!?
 ど どういうことだ？","What!Transfer of dive games!?
-What does he mean?",0.26666666666666666
-"Oh, it's quite simple.",なに 簡単なことだ,It's easy,0.25
+What does he mean?",0.26666666666666666,0.4921437
+"Oh, it's quite simple.",なに 簡単なことだ,It's easy,0.25,0.576392
 and told her to teleport us\Nout when the time came.,"時間が来たら転送するように
 言っておいた","When time comes
-I said",0.14285714285714285
+I said",0.14285714285714285,0.29345554
 "to investigate the Synapse and for you to capture\Nus, plus a few extra minutes on top.","（守形）十二分に
 このシナプスを調査し―","10 minutes
-Investigate this synapse-",0.1
+Investigate this synapse-",0.1,0.69162923
 "I was worried how capable the citizens\Nof the New World would be,","どれほどの能力かと
 警戒していたが―","How many abilities
-I was alert-",0.2
+I was alert-",0.2,0.27905908
 Damn... Damn...,"どうやら生物としての程度は…
 （ハーピー２）クソッ クソッ あっ","Apparently as an organism ...
- fucking",0.14285714285714285
-but it seems that there's really\Nnot much difference...,（守形）人間と大差ないようだ,It seems that there is no big difference with human beings,0.3125
-Damn!,クソ～ッ！,Fucking!,0.3333333333333333
-...between us humans and you.,シナプスのマスターとやら,Synaptic master and,0.1111111111111111
-"You're listening, aren't you,\NMaster of the Synapse?",（守形）新大陸の住人とは―,What is the residents of the new continent-,0.125
+ fucking",0.14285714285714285,0.15430543
+but it seems that there's really\Nnot much difference...,（守形）人間と大差ないようだ,It seems that there is no big difference with human beings,0.3125,0.5956391
+Damn!,クソ～ッ！,Fucking!,0.3333333333333333,0.5963204
+...between us humans and you.,シナプスのマスターとやら,Synaptic master and,0.1111111111111111,0.119916305
+"You're listening, aren't you,\NMaster of the Synapse?",（守形）新大陸の住人とは―,What is the residents of the new continent-,0.125,-0.0057354523
 "You understand English, don't you?","“I shall return”
 英語 分かるか？","""I shall return""
-Do you understand English?",0.4166666666666667
+Do you understand English?",0.4166666666666667,0.403707
 Interesting.,"（空のマスター）おもしろい…
 フッフフフッ アッハハハ","funny ...
-Hofhuhuhahahahaha",0.0
-You'd better show me a good time.,少しは楽しませてくれよ～,Let me enjoy it a little,0.15384615384615385
-Welcome back.,た… だいま,I'm back,0.2
-H-Hey.,（ニンフ）お帰り,Return,0.0
-Of course.,ピッタリだったな,It was perfect,0.0
+Hofhuhuhahahahaha",0.0,0.19202726
+You'd better show me a good time.,少しは楽しませてくれよ～,Let me enjoy it a little,0.15384615384615385,0.33904725
+Welcome back.,た… だいま,I'm back,0.2,0.5146227
+H-Hey.,（ニンフ）お帰り,Return,0.0,0.19709577
+Of course.,ピッタリだったな,It was perfect,0.0,0.15634657
 What are you doing in here?!,"人に食材調達させといて
 こんな所で何やってるんすか!?","To procure food by people
-What do you do in such a place?",0.23529411764705882
-Tomo...,智ちゃん…,Chi-chan ...,0.3333333333333333
-Sorry. I'll help you now.,ごめんね 私 手伝うから,I'm sorry I help me,0.3333333333333333
-Really?,（智樹）そ そうか？,Well?,0.3333333333333333
+What do you do in such a place?",0.2352941176470588,0.2674307
+Tomo...,智ちゃん…,Chi-chan ...,0.3333333333333333,0.214516
+Sorry. I'll help you now.,ごめんね 私 手伝うから,I'm sorry I help me,0.3333333333333333,0.6073275
+Really?,（智樹）そ そうか？,Well?,0.3333333333333333,0.5667964
 Did you catch anything?,"（そはら）
-ねえ 智ちゃん 何か釣れた？",Hi-chan did something caught?,0.25
-Nymph.,ニンフ,nymph,0.5
-What is it?,俺は現実か？,Is it real?,0.6
-I want to ask you something.,１つ聞きたい,I want to hear one,0.3333333333333333
-I suppose that means you saw it.,ああ あれを見てしまったのね,"Oh, I saw that",0.3
-"Don't worry. You're real. You are, at least.",心配しないで 現実よ,Don't worry and reality,0.23076923076923078
-I couldn't help it!,しょうがないじゃないですか,Isn't it good?,0.2222222222222222
+ねえ 智ちゃん 何か釣れた？",Hi-chan did something caught?,0.25,0.41643628
+Nymph.,ニンフ,nymph,0.5,0.9499839
+What is it?,俺は現実か？,Is it real?,0.6,0.38875946
+I want to ask you something.,１つ聞きたい,I want to hear one,0.3333333333333333,0.45163622
+I suppose that means you saw it.,ああ あれを見てしまったのね,"Oh, I saw that",0.3,0.4433552
+"Don't worry. You're real. You are, at least.",心配しないで 現実よ,Don't worry and reality,0.2307692307692308,0.57167447
+I couldn't help it!,しょうがないじゃないですか,Isn't it good?,0.2222222222222222,0.164231
 "Well, with this wild grass that Mitsuki\Nand Mikako fetched for us,","とりあえず見月と美香子が
 採ってきた野草で―","For the time being
-In the wild grass taken-",0.17647058823529413
-"we can only really make\Na vegetable stew, but...",山菜鍋くらいしかできないが…,I can only do a mountain pot ...,0.2
-"Here you go, Astrea.",んっ はい アストレアさん,Yes Astrea,0.14285714285714285
+In the wild grass taken-",0.17647058823529413,0.41873574
+"we can only really make\Na vegetable stew, but...",山菜鍋くらいしかできないが…,I can only do a mountain pot ...,0.2,0.4098822
+"Here you go, Astrea.",んっ はい アストレアさん,Yes Astrea,0.14285714285714285,0.82412815
 Eat heartily and regain your strength!,"たっぷり食べて元気出してね ウフ
 （アストレア）ん？","Eat plenty and get rid of it
-?",0.15384615384615385
+?",0.15384615384615385,0.42144313
 What a kind person!,"（アストレア）なんて親切なの～
 この人 絶対いい人～っ！","is kind to
-This person absolute good person ~!",0.2727272727272727
+This person absolute good person ~!",0.2727272727272727,0.66716146
 Seconds please!,"（アストレア）
-おかわり くださいっ！",Please come!,0.5
-I'm full!,おかわり まだあるよ,I'm still sorry,0.3333333333333333
+おかわり くださいっ！",Please come!,0.5,0.4507356
+I'm full!,おかわり まだあるよ,I'm still sorry,0.3333333333333333,0.18533975
 Sorry for making you wait so long.,"（智樹）
-ずいぶん待たせて悪かったな",It was bad to wait for a long time,0.21428571428571427
-This is bad!,（イカロス）これも よかったら…,If this is good ...,0.2857142857142857
+ずいぶん待たせて悪かったな",It was bad to wait for a long time,0.21428571428571427,0.4642219
+This is bad!,（イカロス）これも よかったら…,If this is good ...,0.2857142857142857,0.39906216
 Master would kill me if he found out...,"う… マスターに知られたら
 殺される…","Wow ... if known to the master
-be killed…",0.2
+be killed…",0.2,0.7442055
 that I was getting along so\Nwell with the enemy!,"私が感謝すると思ったら
 大間違いよっ！","If I think I will appreciate
-Due to the difference!",0.17647058823529413
-Hmph!,キャアアアアッ ひゃあっ！,Caaaaaa!,0.3333333333333333
-but what is it?,こうか？ それともこうか？,effect?Is it like that?,0.375
-How do I use it?,だが どうやって使うんだ？,But how do you use it?,0.625
+Due to the difference!",0.17647058823529413,0.116691485
+Hmph!,キャアアアアッ ひゃあっ！,Caaaaaa!,0.3333333333333333,0.3858271
+but what is it?,こうか？ それともこうか？,effect?Is it like that?,0.375,0.119319335
+How do I use it?,だが どうやって使うんだ？,But how do you use it?,0.625,0.9006148
 "No, maybe... it's a new form of art?","もしかしてお前…
 やっぱりエロい物なのか？","Maybe you ...
-After all, is it erotic?",0.29411764705882354
-Or maybe...,（智樹）それとも…,or ...,0.6666666666666666
-"Okay, just relax.",はい リラックスして～,Yes Relax,0.16666666666666666
+After all, is it erotic?",0.29411764705882354,0.34485385
+Or maybe...,（智樹）それとも…,or ...,0.6666666666666666,0.78961617
+"Okay, just relax.",はい リラックスして～,Yes Relax,0.16666666666666666,0.663618
 "I don't know what this is, but I like it!","こいつはなんだか
 たまらんやつだ おおっ","What is this guy
-Obara",0.21428571428571427
-It's moving!,動くぞ こいつ,I'm moving,0.16666666666666666
-"Oh, I know!",できたっ！,I can!,0.3333333333333333
-"Good morning, Master.",おはようございます マスター,Good morning Master,0.6
-"Ikaros, give me a card!",イカロス カードだ,Ikaros card,0.2857142857142857
-My dream has manifested itself right here!,今ここに俺の夢が完成したのだ,My dream is now completed now,0.18181818181818182
-Change Machine: New Panty Robo!,ニューパンツロボ！,New Pants Robo!,0.375
-You can't tell?!,おおっ 乗れと言うのか？,Do you say it?,0.2222222222222222
+Obara",0.21428571428571427,0.20792605
+It's moving!,動くぞ こいつ,I'm moving,0.16666666666666666,0.5754224
+"Oh, I know!",できたっ！,I can!,0.3333333333333333,0.22496358
+"Good morning, Master.",おはようございます マスター,Good morning Master,0.6,0.8932706
+"Ikaros, give me a card!",イカロス カードだ,Ikaros card,0.2857142857142857,0.8640992
+My dream has manifested itself right here!,今ここに俺の夢が完成したのだ,My dream is now completed now,0.18181818181818185,0.58111423
+Change Machine: New Panty Robo!,ニューパンツロボ！,New Pants Robo!,0.375,0.6719778
+You can't tell?!,おおっ 乗れと言うのか？,Do you say it?,0.2222222222222222,0.25812957
 It's the vehicle of heroes that\NI dreamed about as a kid!,"俺が子供の頃から憧れていた
 ヒーローの乗り物だっ！","I was drowning since I was a child
-Hero's vehicle!",0.21052631578947367
-Alpha?,（ニンフ）ハア… アルファ？,Haa ... Alfa?,0.2
-day after day...,（智樹）来る日も来る日も…,The day when the coming day comes ...,0.2857142857142857
-"Reconnaissance device, activate!",（智樹）偵察機 始動！,Reconnaissance machine started!,0.2857142857142857
-I always hung out with him.,（智樹）俺はそいつと遊び続けた,I continued to play with that,0.18181818181818182
+Hero's vehicle!",0.21052631578947367,0.51080364
+Alpha?,（ニンフ）ハア… アルファ？,Haa ... Alfa?,0.2,0.404055
+day after day...,（智樹）来る日も来る日も…,The day when the coming day comes ...,0.2857142857142857,0.70851654
+"Reconnaissance device, activate!",（智樹）偵察機 始動！,Reconnaissance machine started!,0.2857142857142857,0.68564224
+I always hung out with him.,（智樹）俺はそいつと遊び続けた,I continued to play with that,0.18181818181818185,0.26060328
 in what I was doing and\Nalways helped me out.,"そいつは俺のやることに
 いつも―","That's what I do
-everytime-",0.14285714285714285
+everytime-",0.14285714285714285,0.3317392
 "and eventually, it was like\Nwe were really brothers.","いつしか 俺とそいつは
 本物の兄弟のようになっていった","When is I and I
-It became like a real brother",0.1111111111111111
+It became like a real brother",0.1111111111111111,0.5229169
 "Now that Ikaros isn't around,\NI can get you good!","イカロス先輩のいない今こそ
 やっつけるチャンス","Ikaros senior is not now
-Chance to do",0.16666666666666666
-"Sakurai Tomoki, prepare yourself!",桜井智樹 覚悟しなさい！,Sakura Sakurai prepared!,0.25
+Chance to do",0.16666666666666666,0.55243206
+"Sakurai Tomoki, prepare yourself!",桜井智樹 覚悟しなさい！,Sakura Sakurai prepared!,0.25,0.80218244
 "Oh, it's you.","ああ お前か
 （アストレア）う… う… うく…","Oh,
- ... U ...",0.25
+ ... U ...",0.25,0.49779895
 Why is that here?!,"な 何でそんな物がここに!?
 あっ…！","What kind of thing is here!?
-Ah…!",0.36363636363636365
+Ah…!",0.3636363636363637,0.3179654
 I'm hungry...,"（アストレア）
-くう… おなかすいた～",Here ... I'm sorry,0.5
-This is all his fault!,全部 こいつのせい…,All this guy ...,0.25
+くう… おなかすいた～",Here ... I'm sorry,0.5,0.289595
+This is all his fault!,全部 こいつのせい…,All this guy ...,0.25,0.37008888
 I'm going to relieve you of your life today!,"今日こそ あんたの命
 いただくわよ～ やあ～っ！","Today is the life of your life
-I'll come ~ Ya ~!",0.35294117647058826
-It's an enemy!,敵だ！ パンツロボ 戦え！,It's an enemy!Pants Robo fight!,0.625
-Wait a second!,ぐぬぬぬぬ… 待ってろ！,Push ... Wait!,0.3333333333333333
+I'll come ~ Ya ~!",0.35294117647058826,0.58144057
+It's an enemy!,敵だ！ パンツロボ 戦え！,It's an enemy!Pants Robo fight!,0.625,0.5236424
+Wait a second!,ぐぬぬぬぬ… 待ってろ！,Push ... Wait!,0.3333333333333333,0.31541702
 Finish her!\NChange Battle: New Panty Robo!,"とどめを刺せ チェンジバトル！
 ニューパンツロボ～ッ！","Change Battle Change Battle!
-New Pants Robo ~!",0.3333333333333333
-Take that!,今だロボ 敵の胸をやれ！,Take a robe enemy chest now!,0.25
-And that is how we defeated the\Nenemy and protected the world!,世界の平和を守ったのだ,I protected the peace of the world,0.21428571428571427
-"Hey, I'm back.",（智樹）お～い 今帰ったぞ～,Oh ~ I'm back now ~,0.3333333333333333
-Sohara!,いやああああああっ！,Oh yeah yeah!,0.25
+New Pants Robo ~!",0.3333333333333333,0.6047911
+Take that!,今だロボ 敵の胸をやれ！,Take a robe enemy chest now!,0.25,0.23549567
+And that is how we defeated the\Nenemy and protected the world!,世界の平和を守ったのだ,I protected the peace of the world,0.21428571428571427,0.57015455
+"Hey, I'm back.",（智樹）お～い 今帰ったぞ～,Oh ~ I'm back now ~,0.3333333333333333,0.5749889
+Sohara!,いやああああああっ！,Oh yeah yeah!,0.25,0.29927343
 Tomo... what is this?,"（そはら）
-智ちゃん… これなあに？",Chi-chan ... this is it?,0.5
+智ちゃん… これなあに？",Chi-chan ... this is it?,0.5,0.24640636
 It's... um...,"（智樹）
-そ それは… あれだよ え え～と…",That's ... that's it!,0.5
-You don't need to say another word.,（智樹）ダメだ やられるう～,Don't do it ~,0.18181818181818182
+そ それは… あれだよ え え～と…",That's ... that's it!,0.5,0.5601275
+You don't need to say another word.,（智樹）ダメだ やられるう～,Don't do it ~,0.18181818181818185,0.111371875
 You told me you threw out all my panties.,"私のパンツ… 全部捨てたって
 言ってたよね？","My pants ... all abandoned
-Did you say?",0.2
+Did you say?",0.2,0.50534046
 "You've prepared yourself for\Nthe consequences, right?","（そはら）
-覚悟はできてるんだよね？","You're ready, right?",0.36363636363636365
-Tomoki...,（パンツロボ）智樹君…,Tomoyuki-kun ...,0.3333333333333333
-I can hear his voice!,あ… 声が聞こえる！,Oh ... I can hear the voice!,0.5555555555555556
+覚悟はできてるんだよね？","You're ready, right?",0.3636363636363637,0.33256522
+Tomoki...,（パンツロボ）智樹君…,Tomoyuki-kun ...,0.3333333333333333,0.5471587
+I can hear his voice!,あ… 声が聞こえる！,Oh ... I can hear the voice!,0.5555555555555556,0.77631086
 Thank you...,"（パンツロボ）
 ありがとう… こんな僕と
 友達になってくれて…","Thank you ... with such me
-Become a friend ...",0.3333333333333333
-Hurry and run!,あっ！,Ah!,0.2
-Before my life ends...,僕の命が消えてしまう前に！,Before my life disappears!,0.42857142857142855
-Stop...,や… めろ,Stop,0.5
-but I was happy to have known you.,君に出会えて幸せだったよ,I was happy to meet you,0.5
-We're brothers.,ううっ うわあっ,Awa,0.0
-Stop!,（智樹）やめろ～っ！,Stop!,1.0
+Become a friend ...",0.3333333333333333,0.3741162
+Hurry and run!,あっ！,Ah!,0.2,0.20992889
+Before my life ends...,僕の命が消えてしまう前に！,Before my life disappears!,0.42857142857142855,0.8038009
+Stop...,や… めろ,Stop,0.5,0.6902242
+but I was happy to have known you.,君に出会えて幸せだったよ,I was happy to meet you,0.5,0.6035196
+We're brothers.,ううっ うわあっ,Awa,0.0,0.20850639
+Stop!,（智樹）やめろ～っ！,Stop!,1.0,1.0000008
 "Master, are you okay?","（イカロス）
-マスター 大丈夫ですか？",Master Are you okay?,0.8333333333333334
-Parting is a natural occurrence in life.,人生に別れはつきものだ,It is a goodbye to life,0.2727272727272727
-"I wonder what that was, anyway...",あれは一体 何だったんだろうなあ,That's what I'm alone,0.2727272727272727
+マスター 大丈夫ですか？",Master Are you okay?,0.8333333333333334,0.9558761
+Parting is a natural occurrence in life.,人生に別れはつきものだ,It is a goodbye to life,0.2727272727272727,0.4288335
+"I wonder what that was, anyway...",あれは一体 何だったんだろうなあ,That's what I'm alone,0.2727272727272727,0.22545221
 It fell from the sky...,"あんなもんが
 空から落ちてくるなんて","Such
-It will fall from the sky",0.4444444444444444
+It will fall from the sky",0.4444444444444444,0.6673993
 Huh? I don't really understand\Nwhat you're saying.,"ハア？ 言ってることが
 よく分からん","Haa?What you say
-I do not understand well",0.23529411764705882
-"It's the world in your dreams, Tomoki.",お前の夢の世界だ 智樹,Tomishi of your dream world,0.15384615384615385
-It doesn't look like he'll get it anytime soon.,すぐには理解できないみたいね～,It looks like I can not understand soon ~,0.17647058823529413
+I do not understand well",0.2352941176470588,0.5773131
+"It's the world in your dreams, Tomoki.",お前の夢の世界だ 智樹,Tomishi of your dream world,0.15384615384615385,0.6711269
+It doesn't look like he'll get it anytime soon.,すぐには理解できないみたいね～,It looks like I can not understand soon ~,0.17647058823529413,0.1922877
 "Whatever happens, I'll always\Nbe with you, Master.","何があっても 私はずっと
 マスターのおそばにいます","Whatever you have, I have been
-I am in the master of the master",0.3125
+I am in the master of the master",0.3125,0.51726127
 Can we do something fun?,"（カオス）
-楽しいこと… してもいい？",Can I have fun ...,0.2222222222222222
+楽しいこと… してもいい？",Can I have fun ...,0.2222222222222222,0.69436353

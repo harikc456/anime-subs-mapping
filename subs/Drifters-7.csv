@@ -1,236 +1,236 @@
-en_text,jp_text,google_translated,score
-Huh?,（オルミーヌ）え？,?,0.5
-Something is coming near.,（豊久(とよひさ)）何かが来よる,) Something comes,0.14285714285714285
-It's the nauseating smell of a bloody battle.,（黒王(こくおう)）捜せ　捜し出せ,Search for a search,0.08333333333333333
-"Let's go, Gilles de Rais.",におうぞ,Let's go to,0.3333333333333333
-I can smell them.,（ジャンヌ）行くぞ ジルドレ,I will go,0.14285714285714285
+en_text,jp_text,google_translated,score,semantic_score
+Huh?,（オルミーヌ）え？,?,0.5,0.6635475
+Something is coming near.,（豊久(とよひさ)）何かが来よる,) Something comes,0.14285714285714285,0.4282325
+It's the nauseating smell of a bloody battle.,（黒王(こくおう)）捜せ　捜し出せ,Search for a search,0.08333333333333333,0.019999769
+"Let's go, Gilles de Rais.",におうぞ,Let's go to,0.3333333333333333,0.35720983
+I can smell them.,（ジャンヌ）行くぞ ジルドレ,I will go,0.14285714285714285,0.14673637
 "It's them, the Drifters!","イチジクが実る前に
 立ち枯れにせよ","Before figs
-Let's turn it",0.18181818181818182
+Let's turn it",0.18181818181818185,0.1909897
 Kill them.,"（黒王）殺せ
 漂流者たちを殺せ","killing
-Kill drifts",0.2
-What is that sound?,（エルフ）何だ　何の音だ？,What is what sound?,0.8
-I found them... I found them...,（ジャンヌ）見つけたぞ,I found,0.5
-Drifters!,（エルフたち）うわー！,Wow!,0.3333333333333333
-Was that ghost sorcery or something?,あやかしの術(すべ)か何かかのう,Ayakashi's art  or something,0.2
-Do all of you use the same trick?,おまんらは皆そうか　ああ？,Omanara is all right?,0.16666666666666666
-"""Act 7\NChaos Diver""",～♪,~ ♪,0.0
+Kill drifts",0.2,0.4001395
+What is that sound?,（エルフ）何だ　何の音だ？,What is what sound?,0.8,0.74502337
+I found them... I found them...,（ジャンヌ）見つけたぞ,I found,0.5,0.41179797
+Drifters!,（エルフたち）うわー！,Wow!,0.3333333333333333,0.14823124
+Was that ghost sorcery or something?,あやかしの術(すべ)か何かかのう,Ayakashi's art  or something,0.2,0.18467389
+Do all of you use the same trick?,おまんらは皆そうか　ああ？,Omanara is all right?,0.16666666666666666,0.03498765
+"""Act 7\NChaos Diver""",～♪,~ ♪,0.0,0.06879885
 "Shara, gather all the men.","（信長(のぶなが)）シャラ
 お前らは男どもを集めろ",") Shara
-You guys collect men",0.18181818181818182
-"Yes, sir.",（シャラ）はい,Yes,0.25
-We're going to crush the cavalry.,騎兵を潰すぞ,Crush cavalry,0.25
-Are you sure?,大丈夫ですか？,OK?,0.2
-"You probably don't know about this,",お前は知らんだろうが,You will not know,0.2
-but I am the best in the whole world\Nwhen it comes to destroying cavalry.,弓を忘れんなよ,I forgot to the bow,0.1875
-"I will leave it to you, then.",お任せしますよ,I will leave it,0.4444444444444444
-My enemy seems to be...,僕の相手はどうやら…,My opponent looks ...,0.25
-I'll take care of this Drifter.,私は こっちの漂流者を焼く,I bake this drift,0.2
-"Joan, walk your path well.",（ジルドレ）ジャンヌ よき途(たび)を,Janne Yoyoki,0.0
-He cut the ramparts...,ジルドレ その女男を殺(や)れ,Gildre Kill the woman man,0.1111111111111111
-What swordsmanship!,（ジャンヌ）ドリフターズ！,Drif Thages!,0.2
-He's just like Musashibo Benkei.,まるで武蔵坊(むさしぼう)だよ,It's a fool,0.1
-you are the only obstruction to the\NBlack Lord's eradication of this world!,黒王様の世界廃滅の道に塞がる障壁,Barrier to climb the world of black king,0.2222222222222222
-We will burn all of you Drifters!,（ジャンヌ）ふっ！,Fu!,0.1111111111111111
-She said you were insane and irrational.,廃棄物とやらか？,Waste and shame?,0.09090909090909091
+You guys collect men",0.18181818181818185,0.7645194
+"Yes, sir.",（シャラ）はい,Yes,0.25,0.6087672
+We're going to crush the cavalry.,騎兵を潰すぞ,Crush cavalry,0.25,0.72922546
+Are you sure?,大丈夫ですか？,OK?,0.2,0.34958678
+"You probably don't know about this,",お前は知らんだろうが,You will not know,0.2,0.50696766
+but I am the best in the whole world\Nwhen it comes to destroying cavalry.,弓を忘れんなよ,I forgot to the bow,0.1875,0.1612276
+"I will leave it to you, then.",お任せしますよ,I will leave it,0.4444444444444444,0.6770201
+My enemy seems to be...,僕の相手はどうやら…,My opponent looks ...,0.25,0.46345657
+I'll take care of this Drifter.,私は こっちの漂流者を焼く,I bake this drift,0.2,0.48815852
+"Joan, walk your path well.",（ジルドレ）ジャンヌ よき途(たび)を,Janne Yoyoki,0.0,0.21545753
+He cut the ramparts...,ジルドレ その女男を殺(や)れ,Gildre Kill the woman man,0.1111111111111111,0.20433077
+What swordsmanship!,（ジャンヌ）ドリフターズ！,Drif Thages!,0.2,0.24043784
+He's just like Musashibo Benkei.,まるで武蔵坊(むさしぼう)だよ,It's a fool,0.1,0.14516222
+you are the only obstruction to the\NBlack Lord's eradication of this world!,黒王様の世界廃滅の道に塞がる障壁,Barrier to climb the world of black king,0.2222222222222222,0.26738182
+We will burn all of you Drifters!,（ジャンヌ）ふっ！,Fu!,0.1111111111111111,0.25208822
+She said you were insane and irrational.,廃棄物とやらか？,Waste and shame?,0.09090909090909093,0.057840474
 "By the way, are you a man or a woman?","ところで おまあは
 男か？　女か？","By the way
-Is it a man?Woman?",0.5384615384615384
+Is it a man?Woman?",0.5384615384615384,0.8097964
 He is a quick yellow monkey.,"すばしこい黄色の猿め
 もう逃げ場なぞないぞ","Supplicated yellow monkey
-I can not escape anymore",0.15384615384615385
-Huh? What are you going to do?,ええ？　どうする？,Yes? what will you do?,0.4
-"This time, you idiots will be cast down.",貴様らこそ廃棄物にしてやる！,You will be wastefully wastes!,0.23076923076923078
-Wh... What the hell...?,なっ 何だと…,What is it ...,0.25
+I can not escape anymore",0.15384615384615385,0.56631994
+Huh? What are you going to do?,ええ？　どうする？,Yes? what will you do?,0.4,0.65898585
+"This time, you idiots will be cast down.",貴様らこそ廃棄物にしてやる！,You will be wastefully wastes!,0.2307692307692308,0.21800819
+Wh... What the hell...?,なっ 何だと…,What is it ...,0.25,0.21347675
 Our mission is to protect the Drifters!,"魔導結社 十月機関
 漂流者を守るのが我らが使命","Magical Association October Organization
-Our mission to protect drifts",0.3076923076923077
+Our mission to protect drifts",0.3076923076923077,0.45348617
 Well... umm... the only thing I can do\Nis make the stone wall appear.,"いや あの…
 石壁しか出せないんです","No ...
-I can only put on the stone wall",0.4117647058823529
-I'm an amateur... so... I'm sorry.,その… ごめんなさい,That ... sorry,0.2222222222222222
-You have my gratitude.,ありがとうごわぁた,Thank you very much,0.125
+I can only put on the stone wall",0.4117647058823529,0.70139295
+I'm an amateur... so... I'm sorry.,その… ごめんなさい,That ... sorry,0.2222222222222222,0.3664627
+You have my gratitude.,ありがとうごわぁた,Thank you very much,0.125,0.3375918
 P-Please stop. Raise your head!,"やっ… やめてくださいよ
 頭上げて","Please do ... Please stop
-Overhead",0.09090909090909091
+Overhead",0.09090909090909093,0.48874968
 Now is not the time for thanking me.,"ほら 火もバンバン燃えてるし
 敵もいるし","The fire is also burring
-Some enemies",0.14285714285714285
+Some enemies",0.14285714285714285,0.048452966
 "Yeah... but when a man doesn't\Nexpress gratitude right away,","なあんの
 命ば救われたがは おいじゃ","Naon
-She was saved, but she is good",0.11764705882352941
+She was saved, but she is good",0.1176470588235294,0.021737566
 ...it seems like he is boasting of his abilities.,"どこかの誰かに
 見せつけているようじゃ","Someone somewhere
-It looks like it is showing",0.2
+It looks like it is showing",0.2,0.040254973
 "It's almost like he is saying...\N""I possess such power.","じゃが きゃつのあれは
 己が手に入れた力をば誇るというか","That's why
-It is said that the power obtained by yourself",0.18181818181818182
-"Behold. Behold my power.""",“我 かような力をば得たり”,"""I get my own power",0.2222222222222222
-"His green head stands out, which means...",素人じゃ　突出する初陣首じゃ,Amateur Just Collection Hatsuya,0.0
-...it will be easy for me to take.,かき取るのは たやすか,Do you want to take it?,0.21428571428571427
-This is what makes these\NJapanese feudal lords so terrifying.,（オルミーヌ）これが怖いのよ,This is scary,0.18181818181818182
+It is said that the power obtained by yourself",0.18181818181818185,0.66048473
+"Behold. Behold my power.""",“我 かような力をば得たり”,"""I get my own power",0.2222222222222222,0.6778298
+"His green head stands out, which means...",素人じゃ　突出する初陣首じゃ,Amateur Just Collection Hatsuya,0.0,0.13760348
+...it will be easy for me to take.,かき取るのは たやすか,Do you want to take it?,0.21428571428571427,0.6374593
+This is what makes these\NJapanese feudal lords so terrifying.,（オルミーヌ）これが怖いのよ,This is scary,0.18181818181818185,0.3206738
 The same smile indicates\Nboth death and gratitude.,"同じ笑みで感謝と死が
 同居してるから","Thank you and dying with the same smile
-Because I live together",0.25
-Eh? Umm... yes.,（オルミーヌ）えっ ああ はい,yes yes,0.16666666666666666
-"In that case, please do as I tell you.",したらば おまあは森ば逃げい,"If you do it, I'm running away",0.25
-Mon... Monster...,フッ…,Hook ...,0.25
+Because I live together",0.25,0.6313202
+Eh? Umm... yes.,（オルミーヌ）えっ ああ はい,yes yes,0.16666666666666666,0.38278508
+"In that case, please do as I tell you.",したらば おまあは森ば逃げい,"If you do it, I'm running away",0.25,0.3534968
+Mon... Monster...,フッ…,Hook ...,0.25,0.3148895
 "That huge knight is a monster, but...","（エルフ）あのでかい騎士も
 化け物だが―","That talented knight
-It is a monster-",0.3333333333333333
+It is a monster-",0.3333333333333333,0.8026707
 He... is laughing...,"（エルフ）ハッ…
 笑ってるぞ あの人","Ha ...
-I'm laughing",0.2857142857142857
+I'm laughing",0.2857142857142857,0.5875003
 That's it. That's how you do it.,"（義経(よしつね)）そうそう
 それでいいんだよ",")
-That's fine",0.2222222222222222
-"It's fun to fight, isn't it, Yoichi?",戦いは楽しかろう 与一,The battle is fun to enjoy,0.23076923076923078
+That's fine",0.2222222222222222,0.2296662
+"It's fun to fight, isn't it, Yoichi?",戦いは楽しかろう 与一,The battle is fun to enjoy,0.2307692307692308,0.511877
 We humans are born to display our skills.,"己の業(わざ)を振るうために
 人は生まれる","To shake my work 
-People are born",0.23076923076923078
-Your technique is lethal.,お前の業は死の業じゃないか,Your business is not a death,0.2222222222222222
-"Whoa, well played, Gilles de Rais.\NHe can't afford to laugh any more, can he?",笑ってもいられなくなったかな,I wonder if I couldn't laugh,0.09523809523809523
-I shot him so many times...,急所を何発も射ぬいたはず,Somewhat shot was,0.1111111111111111
-Why? Why is his still alive?!,ふっ！,Fuck!,0.125
-"Thus, I am not finished.",我が途 いまだ終わらず,I'm not finished,0.375
-"Oh, yeah? You sound...",なぜ なぜ生きてる…,Why are you living ...,0.2
-...just like Benkei.,そうかい まるで…,It is like that ...,0.25
-"Hi, everyone. Listen up.",はい 皆の衆 よくお聞き,Yes everyone listen,0.2857142857142857
-"I, Demon King of the Sixth Heaven,",第六天魔王様による―,By the sixth Tenma King-,0.18181818181818182
-"Listen very carefully, otherwise you could die.",ヘヘッ よく聞かないと死にます,I will die if I do not listen to Hehe,0.125
+People are born",0.2307692307692308,0.44967878
+Your technique is lethal.,お前の業は死の業じゃないか,Your business is not a death,0.2222222222222222,0.39105147
+"Whoa, well played, Gilles de Rais.\NHe can't afford to laugh any more, can he?",笑ってもいられなくなったかな,I wonder if I couldn't laugh,0.09523809523809523,0.40898728
+I shot him so many times...,急所を何発も射ぬいたはず,Somewhat shot was,0.1111111111111111,0.38031974
+Why? Why is his still alive?!,ふっ！,Fuck!,0.125,0.18812196
+"Thus, I am not finished.",我が途 いまだ終わらず,I'm not finished,0.375,0.85426223
+"Oh, yeah? You sound...",なぜ なぜ生きてる…,Why are you living ...,0.2,0.22355631
+...just like Benkei.,そうかい まるで…,It is like that ...,0.25,0.27127767
+"Hi, everyone. Listen up.",はい 皆の衆 よくお聞き,Yes everyone listen,0.2857142857142857,0.62086725
+"I, Demon King of the Sixth Heaven,",第六天魔王様による―,By the sixth Tenma King-,0.18181818181818185,0.38216358
+"Listen very carefully, otherwise you could die.",ヘヘッ よく聞かないと死にます,I will die if I do not listen to Hehe,0.125,0.6496074
 "Cavalry can be utterly terrifying,\Nbut there's no need to be afraid of them at all.","騎馬は超絶 怖いですが
 全然 怖くありません","Horse is very scared
-Not scared at all",0.08695652173913043
+Not scared at all",0.08695652173913042,0.60692084
 You may not understand what I mean here.,"何を言ってるか
 分からねえとは思うが―","What are you saying
-I think that I can not know-",0.26666666666666666
+I think that I can not know-",0.26666666666666666,0.3338583
 "unaccompanied by foot soldiers,","足軽も随伴してないとか
 もう超怖くない","Foot lights are not accompanied by
-I'm not very scared",0.15384615384615385
+I'm not very scared",0.15384615384615385,0.38201776
 I had a bad experience with Ise.,"俺も伊勢(いせ)とかで
 えらい目に遭いました","I'm also Ise
-I was encapacified",0.16666666666666666
-"Release, now.",はい 射てい,Yes,0.0
+I was encapacified",0.16666666666666666,0.41110098
+"Release, now.",はい 射てい,Yes,0.0,0.21450095
 "If you secure a higher spot, the victory is yours.","（信長）高所を取れば
 もう勝ちです","If you take a high place
-It is already won",0.2222222222222222
-W-Wow...,す… すげえ,...,0.5
+It is already won",0.2222222222222222,0.5871386
+W-Wow...,す… すげえ,...,0.5,0.36828893
 "Perhaps, the development of firearms will put\Nan end to knights and warlords in feudalism.","恐らく進化した鉄砲によって
 騎士の世も武士の世も終わるだろう","Variously evolved by guns
-The world of Knights will also end",0.22727272727272727
-"Thus, no matter what...",あ… あっという間に,Oh ... in no time,0.2222222222222222
+The world of Knights will also end",0.2272727272727273,0.72078717
+"Thus, no matter what...",あ… あっという間に,Oh ... in no time,0.2222222222222222,0.33468285
 ...we must make a large quantity of firearms.,"ここでも鉄砲を
 大量に作らにゃならん","Here too, the gun
-If you make a lot of",0.16666666666666666
-"Otherwise, the castle will burn down.",廃城が燃えちまうぞ,Waste Castle will burn,0.3333333333333333
+If you make a lot of",0.16666666666666666,0.49732792
+"Otherwise, the castle will burn down.",廃城が燃えちまうぞ,Waste Castle will burn,0.3333333333333333,0.69873494
 Where are you! Where did you go?!,"（ジャンヌ）どこだ
 どこに行った！","Where is it
-Where did you go!",0.5555555555555556
-"Get out here now, Drifter!",出てこいよ 漂流物！,Get out! Drift!,0.375
-"Or else, or else...",でないと でないと…,If not ...,0.16666666666666666
-"Even though it's run-down,",荒れて果てても おいらの城じゃ,"Even if it gets rough, it is a castle",0.25
-There you are.,応 おるとも,Even if you respond,0.14285714285714285
-Agreed. I'm not going to escape.,うっ ううっ…,I'm sorry ...,0.2
-His escape route...,（ジャンヌ）退路を…,Resetual ...,0.2
+Where did you go!",0.5555555555555556,0.8832985
+"Get out here now, Drifter!",出てこいよ 漂流物！,Get out! Drift!,0.375,0.77757883
+"Or else, or else...",でないと でないと…,If not ...,0.16666666666666666,0.36445096
+"Even though it's run-down,",荒れて果てても おいらの城じゃ,"Even if it gets rough, it is a castle",0.25,0.3212608
+There you are.,応 おるとも,Even if you respond,0.14285714285714285,0.16796441
+Agreed. I'm not going to escape.,うっ ううっ…,I'm sorry ...,0.2,0.15949927
+His escape route...,（ジャンヌ）退路を…,Resetual ...,0.2,0.21554534
 Indeed. You won't find a single warrior\Nfrom Satsuma who hasn't lost it.,"応　薩摩(さつま)ん兵子(へご)で
 血迷うとらん者は１人もおらんど","In response to Satsuma 
-There are one person who can get blood",0.08333333333333333
-I don't get him! Why?! Why?! Why?!,首 置いてってもらうぞ,I'll get my neck,0.18181818181818182
-Why?! Why?! Why?! Why?!,うおー！,Uo!,0.25
+There are one person who can get blood",0.08333333333333333,0.3868188
+I don't get him! Why?! Why?! Why?!,首 置いてってもらうぞ,I'll get my neck,0.18181818181818185,0.107390694
+Why?! Why?! Why?! Why?!,うおー！,Uo!,0.25,0.16791187
 "I can't believe he used the ""Stone Wall""\Nspell to launch his attack...","防御じゃなくて
 突撃の発射台にするなんて…","Not defensive
-What to do the launch stand of the assault ...",0.16666666666666666
+What to do the launch stand of the assault ...",0.16666666666666666,0.38914928
 I meant to use it for his defense.,"（オルミーヌ）防御のための
 石壁の呪文を―","for defense
-Stone wall spell-",0.16666666666666666
-What is he?!,何だ　何だ！,What is it!,0.5
-is the feat of taking the enemy's head.,“功名 敵の首を取る”という―,"""Take the neck of the enemy enemy ""-",0.23076923076923078
-"Every castle has at least a few of these,",（豊久）城んには必ずある,There is always a castle,0.15384615384615385
-The well!,（ジャンヌ）井戸…,well ...,0.25
-Wa... Water...,み… 水　水だ,Mizu ...,0.25
-What I yearned for...,あれほど求めた,I asked for about it,0.25
-Water!,（ジャンヌ）水ー！,water!,1.0
-Behold. The witch is burning!,見よ　魔女が燃え落ちる,Seeing the witch burns,0.2222222222222222
+Stone wall spell-",0.16666666666666666,0.37665063
+What is he?!,何だ　何だ！,What is it!,0.5,0.5087491
+is the feat of taking the enemy's head.,“功名 敵の首を取る”という―,"""Take the neck of the enemy enemy ""-",0.2307692307692308,0.64394087
+"Every castle has at least a few of these,",（豊久）城んには必ずある,There is always a castle,0.15384615384615385,0.70348424
+The well!,（ジャンヌ）井戸…,well ...,0.25,0.20379236
+Wa... Water...,み… 水　水だ,Mizu ...,0.25,0.20271222
+What I yearned for...,あれほど求めた,I asked for about it,0.25,0.34324303
+Water!,（ジャンヌ）水ー！,water!,1.0,0.99999994
+Behold. The witch is burning!,見よ　魔女が燃え落ちる,Seeing the witch burns,0.2222222222222222,0.79938227
 Here it goes. Your crotch will burn through.,"（兵士）そーれ
-股ぐらが焼け落ちるぞ",Crotch falls fall,0.09090909090909091
-Is the bitch a man or woman?,今の貴様は男か？　女か？,Is your now?Woman?,0.3
+股ぐらが焼け落ちるぞ",Crotch falls fall,0.09090909090909093,0.50290054
+Is the bitch a man or woman?,今の貴様は男か？　女か？,Is your now?Woman?,0.3,0.4356297
 The witch of Orleans! Show us more!,"（男性）オルレアンの魔女！
 もっとよく見せろ","Olrean's witch!
-Show me better",0.25
+Show me better",0.25,0.53206414
 Is it the same down there as a human?!,"（男性）“あそこ”は
 人と同じか？　ハハッ…","""Aossok""
-Is it the same as a person?Haha ...",0.4117647058823529
-For France...,民のため フランスのために…,For France for the people ...,0.6
-For God!,神のために戦ったのに！,I fought for God!,0.6
+Is it the same as a person?Haha ...",0.4117647058823529,0.31068403
+For France...,民のため フランスのために…,For France for the people ...,0.6,0.90784675
+For God!,神のために戦ったのに！,I fought for God!,0.6,0.50109464
 What the hell?!,"何じゃ おまあ
 おなごじゃなかか","What's wrong
-Isn't it?",0.2
+Isn't it?",0.2,0.20937693
 Why the hell is a woman wearing\Narmor and fighting in battle?!,"おなごが何故 鎧ば着込んで
 戦場(いくさば)んおる","Why is the stomach and wear
-Battlefield",0.25
-Get out of here. Go home and act like a woman!,去(い)ね　帰って紅でんつけい,Get over,0.07142857142857142
-You...,お前に…,Hey ...,0.3333333333333333
-What do you people know?,お前らなどに何が分かる,What you know about you,0.42857142857142855
+Battlefield",0.25,0.45510888
+Get out of here. Go home and act like a woman!,去(い)ね　帰って紅でんつけい,Get over,0.07142857142857142,0.28264856
+You...,お前に…,Hey ...,0.3333333333333333,0.47210488
+What do you people know?,お前らなどに何が分かる,What you know about you,0.42857142857142855,0.5672631
 We fought for the people of France!,"フランスの民を救うため
 キリストのために 信仰のために","To save the people of France
-For faith for Christ",0.4166666666666667
-We fought for our faith!,（豊久）ふんっ！,!,0.16666666666666666
+For faith for Christ",0.4166666666666667,0.5441205
+We fought for our faith!,（豊久）ふんっ！,!,0.16666666666666666,0.23977757
 "I never heard of a country called ""France""!","フランスなんぞという国
 聞いたこともなか！","Country of France
-I heard about it!",0.46153846153846156
-"And what on earth is this ""Christ""?!",大体キリストって何じゃ？,What kind of Christ is it?,0.2857142857142857
-"If I can't even take one good head,",こうなれば はよ行って,"If this happens, go",0.15384615384615385
+I heard about it!",0.4615384615384616,0.7748485
+"And what on earth is this ""Christ""?!",大体キリストって何じゃ？,What kind of Christ is it?,0.2857142857142857,0.76620454
+"If I can't even take one good head,",こうなれば はよ行って,"If this happens, go",0.15384615384615385,0.20741442
 how can I show my face to my father?,"首 手柄ん取れんでは
 おやっどんに顔向けできん","I get neckped
-I can not face my face",0.3333333333333333
-Why won't he die?!,なぜ死なない？,Why don't die?,0.5
-Good. Got him.,（与一）よし やった,I did good,0.16666666666666666
-N-No!,ひいっ！,Hi!,0.3333333333333333
+I can not face my face",0.3333333333333333,0.36445397
+Why won't he die?!,なぜ死なない？,Why don't die?,0.5,0.6613535
+Good. Got him.,（与一）よし やった,I did good,0.16666666666666666,0.44418985
+N-No!,ひいっ！,Hi!,0.3333333333333333,0.30940196
 Don't let Yoichi die!,"い… いかん
 与一を死なせるな","Yes ...
-Do not die",0.2222222222222222
+Do not die",0.2222222222222222,0.32241702
 H-He must be an immortal or a monster...,"（シャラ）
-ふ… 不死身か　化け物だ",Fu ... I'm an immortalized body,0.14285714285714285
+ふ… 不死身か　化け物だ",Fu ... I'm an immortalized body,0.14285714285714285,0.35692006
 Unkillable monsters don't exist in this world.,"否！　不死身の化け物など
 この世におらん","no!Immortal animals etc.
-In this world",0.2857142857142857
-Every life has its end! Everything can be killed!,万象は必ず滅びる　殺せる,Most of them can be killed,0.23076923076923078
-Shoot! Shoot!,射て　射てー！,Eruption!,0.3333333333333333
-The hell is this?!,（晴明(はるあきら)）世界が憎いか？　廃棄物,) Is the world hate? waste,0.3
+In this world",0.2857142857142857,0.46624637
+Every life has its end! Everything can be killed!,万象は必ず滅びる　殺せる,Most of them can be killed,0.2307692307692308,0.45968658
+Shoot! Shoot!,射て　射てー！,Eruption!,0.3333333333333333,0.3634988
+The hell is this?!,（晴明(はるあきら)）世界が憎いか？　廃棄物,) Is the world hate? waste,0.3,0.20181444
 Hell if I know.,"（ブッチ）な… 何だこりゃ おい
 （キッド）分からん","... What is it?
- I do not know",0.16666666666666666
+ I do not know",0.16666666666666666,0.24304996
 ...abandoned by the world!,"世界から捨てられた
 さまよう怨嗟(えんさ)","Discarded from the world
-Samashima",0.2222222222222222
-This is it!,こいつでカンバンだ！,This guy is Campan!,0.5
+Samashima",0.2222222222222222,0.44769618
+This is it!,こいつでカンバンだ！,This guy is Campan!,0.5,0.31447655
 This has to be a joke!,"（竜騎兵：オルテ語）
 〈気をつけろよ　急げ
 長くはもたんぞ〉","<Be careful!
-For a long time>",0.23076923076923078
+For a long time>",0.2307692307692308,0.21661943
 The Maiden couldn't go to heaven.,"（ジルドレ）ラピュセルは
 天国へ行かず","Lapucell
-Do not go to heaven",0.2727272727272727
+Do not go to heaven",0.2727272727272727,0.4173863
 "She was burned at the stake,\Nas a heretic and as a witch,","異端として魔女として
 火刑にされ 地獄に落ちた","As a witch as a heretic
-She was felected and she fell into hell",0.4117647058823529
+She was felected and she fell into hell",0.4117647058823529,0.827543
 "Wait for me in hell, Joan.","ならば今度は俺が先に行って
 向こうで待つ","If so, I went ahead
-Wait for other ways",0.2
+Wait for other ways",0.2,0.14205435
 "Yet, the Maiden didn't go to hell after all...","だが乙女は地獄へ行かず
 ここにいた","However, the maiden does not go to hell
-She was here",0.3333333333333333
-...but she was no longer the Maiden.,だが もはや乙女ではない,But no longer a maiden,0.4
-She will certainly go to hell.,きっと地獄に行く,Surely go to hell,0.375
-he turned into his body's weight in salt...,やはり同質量の塩に,After all in the same volume salt,0.13333333333333333
-What is that? What is going on?,何だ　何だ これは…,What is what this is ...,0.25
-Grand Master!,お師匠様！,Master!,0.6666666666666666
-Th-Thank you!,あっ ありがとうございます！,Thank you!,0.5
-Who are you? I mean... who are all of you?,（信長）誰だ？　お前は,Who is it? You are,0.36363636363636365
-I am the man tasked\Nwith supporting the Drifters,魔導結社 オクトの長をしています,I am in the longer of the magic,0.2727272727272727
+She was here",0.3333333333333333,0.89120984
+...but she was no longer the Maiden.,だが もはや乙女ではない,But no longer a maiden,0.4,0.87252474
+She will certainly go to hell.,きっと地獄に行く,Surely go to hell,0.375,0.6239579
+he turned into his body's weight in salt...,やはり同質量の塩に,After all in the same volume salt,0.13333333333333333,0.48282787
+What is that? What is going on?,何だ　何だ これは…,What is what this is ...,0.25,0.22522096
+Grand Master!,お師匠様！,Master!,0.6666666666666666,0.6838817
+Th-Thank you!,あっ ありがとうございます！,Thank you!,0.5,0.5222801
+Who are you? I mean... who are all of you?,（信長）誰だ？　お前は,Who is it? You are,0.3636363636363637,0.5296159
+I am the man tasked\Nwith supporting the Drifters,魔導結社 オクトの長をしています,I am in the longer of the magic,0.2727272727272727,0.1927901
 and wiping out the Ends who\Nshould not exist in this world.,"この世界にいてはいけない廃棄物
 彼らを滅ぼす使命を受けた者","Waste that should not be in this world
-Person who received mission to destroy them",0.17391304347826086
-Your name?,名は？,name is?,0.5
-Abe no Haruakira.,安倍(あべの)晴明,Abe  fine,0.2
+Person who received mission to destroy them",0.17391304347826084,0.4946921
+Your name?,名は？,name is?,0.5,0.62313634
+Abe no Haruakira.,安倍(あべの)晴明,Abe  fine,0.2,0.5776201

@@ -1,129 +1,129 @@
-en_text,jp_text,google_translated,score
-"Rumor has it that this ""Ellen"" lady who was killed...",殺されたエレンって女,Woman who was killed,0.21428571428571427
-"...had been going around, saying strange things.",あ ああ,Oh,0.0
-She told the other dancers...,そう仲間のダンサー達に話したそうだ,So I talked to the dancers of friends,0.16666666666666666
-...that she remembered Memories from before forty years ago.,40年以上前のメモリーを思い出したと,I remembered the memory in more than 40 years ago,0.16666666666666666
-"It's strange, don't you think?",妙な話だとは思わないかね,I do not think it's a strange story,0.38461538461538464
-"Why did you want to see me, Major Dastun?",まずは要件を伺おう ダストン少佐,"First of all, Major Duston who wants to see the requirements",0.21052631578947367
-"Hey, calm down.",もう１週間だ　いい加減気が滅入る,"Another week, good additive",0.1111111111111111
-"From the look on your face, I can imagine...",私が呼ばれた理由が,The reason I was called,0.14285714285714285
-...that you didn't call me here for a pleasant chat.,決して愉快な内容ではない位想像はつく,It is decided that it is not a pleasant content,0.16666666666666666
-Do you know these people?,この連中を知っているか,Do you know this series,0.375
-Ellen Weight. She was a client.,エレン・ウェイト　彼女は私のクライアントだ,Ellen Weight She is my client,0.4444444444444444
-"I hate to say it, but I never met with her face-to-face.",生憎直接会ったことは無い,I have never met,0.21428571428571427
-She called and asked me to negotiate for her.,エレンは私に交渉依頼の電話をかけてきた,Ellen has called for a negotiation request to me,0.26666666666666666
-"That night, she was killed.",その夜に殺されてしまった,It was killed at that night,0.4444444444444444
-The three victims had nothing in common.,殺された３人には何の共通点も無い,There are no common points for three people killed,0.13333333333333333
-Then why do you think the killer is the same?,ではなぜ犯人が同じだと？,So why is the culprit?,0.3333333333333333
-"If you were the killer, I'd ask you to tell me what the hell this means.",もしお前さんが犯人なら教えてくれ,"If you are a criminal, please tell me",0.23809523809523808
-"""Cast in the name of God, ye not guilty.""",神の名においてこれを鋳造す 汝ら罪無し,Casting this in God's name,0.1875
-Norman!,ノーマン,Norman,0.5
-I can't find Dorothy anywhere.,ドロシーの姿が見えないようだが,I can't see the figure of Dorothy,0.36363636363636365
-"I'm terribly sorry, sir.",は？　申し訳ございません,teeth? I'm sorry,0.3333333333333333
-"No, that's all right.",いや いいんだ 仕事を続けてくれ,No good job,0.1111111111111111
+en_text,jp_text,google_translated,score,semantic_score
+"Rumor has it that this ""Ellen"" lady who was killed...",殺されたエレンって女,Woman who was killed,0.21428571428571427,0.63656175
+"...had been going around, saying strange things.",あ ああ,Oh,0.0,0.23029414
+She told the other dancers...,そう仲間のダンサー達に話したそうだ,So I talked to the dancers of friends,0.16666666666666666,0.6316027
+...that she remembered Memories from before forty years ago.,40年以上前のメモリーを思い出したと,I remembered the memory in more than 40 years ago,0.16666666666666666,0.7014225
+"It's strange, don't you think?",妙な話だとは思わないかね,I do not think it's a strange story,0.38461538461538464,0.5382757
+"Why did you want to see me, Major Dastun?",まずは要件を伺おう ダストン少佐,"First of all, Major Duston who wants to see the requirements",0.21052631578947367,0.2605492
+"Hey, calm down.",もう１週間だ　いい加減気が滅入る,"Another week, good additive",0.1111111111111111,0.09148558
+"From the look on your face, I can imagine...",私が呼ばれた理由が,The reason I was called,0.14285714285714285,0.18308753
+...that you didn't call me here for a pleasant chat.,決して愉快な内容ではない位想像はつく,It is decided that it is not a pleasant content,0.16666666666666666,0.28179896
+Do you know these people?,この連中を知っているか,Do you know this series,0.375,0.28818083
+Ellen Weight. She was a client.,エレン・ウェイト　彼女は私のクライアントだ,Ellen Weight She is my client,0.4444444444444444,0.84429604
+"I hate to say it, but I never met with her face-to-face.",生憎直接会ったことは無い,I have never met,0.21428571428571427,0.59714603
+She called and asked me to negotiate for her.,エレンは私に交渉依頼の電話をかけてきた,Ellen has called for a negotiation request to me,0.26666666666666666,0.66080666
+"That night, she was killed.",その夜に殺されてしまった,It was killed at that night,0.4444444444444444,0.72647786
+The three victims had nothing in common.,殺された３人には何の共通点も無い,There are no common points for three people killed,0.13333333333333333,0.6794621
+Then why do you think the killer is the same?,ではなぜ犯人が同じだと？,So why is the culprit?,0.3333333333333333,0.31849796
+"If you were the killer, I'd ask you to tell me what the hell this means.",もしお前さんが犯人なら教えてくれ,"If you are a criminal, please tell me",0.2380952380952381,0.352745
+"""Cast in the name of God, ye not guilty.""",神の名においてこれを鋳造す 汝ら罪無し,Casting this in God's name,0.1875,0.6025412
+Norman!,ノーマン,Norman,0.5,0.8835465
+I can't find Dorothy anywhere.,ドロシーの姿が見えないようだが,I can't see the figure of Dorothy,0.3636363636363637,0.80268943
+"I'm terribly sorry, sir.",は？　申し訳ございません,teeth? I'm sorry,0.3333333333333333,0.34887668
+"No, that's all right.",いや いいんだ 仕事を続けてくれ,No good job,0.1111111111111111,0.22174326
 Have you ever thought about the Memories you have?,"君は自分の持つメモリーについて
 考えた事はあるか","About your own memory
-Do you have thought?",0.4166666666666667
-"Well, about the fact that you're able to keep...",その事実についてだ,About that fact,0.25
-Do you have any doubts about the fact that you can pilot the Megadeus so well?,その事実に疑問がおありですか？,Are you questions about that fact?,0.29411764705882354
-"That's right. You should know, too.",そうだ お前は知るべきだ,Yes you should know,0.3
-Who's there?,誰だ,Who,0.25
-You want to know.,お前は それを知りたがっている,You want to know that,0.6666666666666666
-"Larry Flannis, age 23. He was a porter at this hotel.",ラリー・フラニス 23歳 このホテルのポーターです,Larry Flanis 23 years old This hotel is a porter,0.2777777777777778
-Where was Roger Smith?,ロジャー・スミスは,Roger Smith,0.4
-Canvass the area again. Find a witness.,もう一度徹底的に目撃者を探せ,Find a witness thoroughly again,0.4444444444444444
-The pride of the Military Police is on the line.,軍警察の誇りに懸けてだ,I'm proud of the military police,0.3333333333333333
-"This is just a rumor, but I hear that the victims all claimed one other thing.",これも噂だがね,This is also a rumor,0.21052631578947367
+Do you have thought?",0.4166666666666667,0.82686913
+"Well, about the fact that you're able to keep...",その事実についてだ,About that fact,0.25,0.41921803
+Do you have any doubts about the fact that you can pilot the Megadeus so well?,その事実に疑問がおありですか？,Are you questions about that fact?,0.29411764705882354,0.16506076
+"That's right. You should know, too.",そうだ お前は知るべきだ,Yes you should know,0.3,0.605151
+Who's there?,誰だ,Who,0.25,0.46585417
+You want to know.,お前は それを知りたがっている,You want to know that,0.6666666666666666,0.8746102
+"Larry Flannis, age 23. He was a porter at this hotel.",ラリー・フラニス 23歳 このホテルのポーターです,Larry Flanis 23 years old This hotel is a porter,0.2777777777777778,0.86366147
+Where was Roger Smith?,ロジャー・スミスは,Roger Smith,0.4,0.82061523
+Canvass the area again. Find a witness.,もう一度徹底的に目撃者を探せ,Find a witness thoroughly again,0.4444444444444444,0.73883045
+The pride of the Military Police is on the line.,軍警察の誇りに懸けてだ,I'm proud of the military police,0.3333333333333333,0.7205535
+"This is just a rumor, but I hear that the victims all claimed one other thing.",これも噂だがね,This is also a rumor,0.21052631578947367,0.47518432
 They said they were sure that they weren't born in this city.,"自分はきっとこの街で
 生まれたんじゃないんだってね","I will surely in this city
-I'm not born",0.25
-I've been here before.,私は以前にもここへ来ている,I have also come here,0.2222222222222222
-"A library with no books, huh?",本の無い図書館か,Library without books,0.2222222222222222
-"She died before we could finalize a contract, unfortunately.",残念なことに契約前に死んだ,Unfortunately I died before the contract,0.3076923076923077
-"What are you doing, then?",この仕事に依頼人はいるの？,Are there any requests for this job?,0.15384615384615385
-Trying to find out what she wanted to hire me for.,私は彼女が依頼しようとしていた事を探している,I'm looking for she was trying to ask,0.25
-You must have a lot of free time.,暇なのね,I'm free,0.09090909090909091
-Not at all.,でもない,not,0.25
-It's for your own good.,それが身の為だわ,That's my own,0.2222222222222222
-Is that a warning from you? Or from your boss?,それとも君の雇い主からのか？,Or from your employer?,0.36363636363636365
-"Oh, Alex Rosewater thinks that, does he?",ほう アレックス・ローズウォーターが,Alex Rose Water,0.09090909090909091
-Schwarzwald piloted his because he wanted to destroy the city.,この街を破壊する目的であれに乗ったわ,I got on the purpose of destroying this city,0.1111111111111111
-"Roger, what do you pilot your Megadeus for?",ロジャー あなたがメガデウスに乗る理由は何？,Roger What is the reason for you to get on Mega deus?,0.2777777777777778
-Are you using that power with a specific goal in mind?,あなたはあの力を使っているの？,Are you using that power?,0.5
-What are you trying to say?,つまり何が言いたい,In other words what you want to say,0.36363636363636365
-I just thought I'd ask.,ただ聞いてみただけよ,I just asked,0.2857142857142857
-This is...,確かな目的があって,There is certain purpose,0.16666666666666666
-That's right. You already knew.,そう お前は既に知っていたのだ,Yes you already knew,0.375
-Who's calling me? Schwarzwald?,私を呼ぶのは誰だ シュバルツか,Who calls me Shubaru,0.25
-I'm...,私は,I,0.3333333333333333
-What's happening to me?,い 一体何が,What,0.16666666666666666
-This wasn't here a minute ago.,さっきは無かった筈だが,It is a habit that was not a while ago,0.21428571428571427
-Norman?,は？　で お夕食のご用意は,teeth?Dinner with dinner,0.2
-I'll be out for a while.,しばらく留守にする,I will leave for a while,0.4
-"He went to meet the author of that book, I assume.",あの本の著者に会いに行ったんだね,I went to see the author of that book,0.5714285714285714
-I suppose it won't.,でしょうね,I suppose,0.3333333333333333
-The awakening has already begun.,目覚めは既に始まっているんだ,The awakening has already begun,0.8333333333333334
-Pleased to meet you. You were destined to come here eventually.,初めまして　君はいずれここに来る運命だった,"Nice to meet you, you were fate that came here",0.3333333333333333
-"This probably isn't our first meeting, Mr. Gordon Rosewater.",ミスター ゴードン・ローズウォーター,Mr. Gordon Rose Water,0.14285714285714285
-The tomatoes here are pretty well-made.,ここのトマトはなかなか出来が良い,The tomato here is pretty good,0.3
-"Ten or twenty years ago,",今から十数年前,10 years ago from now,0.2222222222222222
-you inserted Memories of the past into several children.,あなたは過去のメモリーを,You have past memory,0.16666666666666666
-Four of those who have remembered have already been killed.,それを思い出した人間が既に４人殺されました,The person who remembered that was already killed,0.2857142857142857
+I'm not born",0.25,0.61109275
+I've been here before.,私は以前にもここへ来ている,I have also come here,0.2222222222222222,0.5310254
+"A library with no books, huh?",本の無い図書館か,Library without books,0.2222222222222222,0.8641771
+"She died before we could finalize a contract, unfortunately.",残念なことに契約前に死んだ,Unfortunately I died before the contract,0.3076923076923077,0.6541407
+"What are you doing, then?",この仕事に依頼人はいるの？,Are there any requests for this job?,0.15384615384615385,0.16573226
+Trying to find out what she wanted to hire me for.,私は彼女が依頼しようとしていた事を探している,I'm looking for she was trying to ask,0.25,0.55230063
+You must have a lot of free time.,暇なのね,I'm free,0.09090909090909093,0.3262226
+Not at all.,でもない,not,0.25,0.39562422
+It's for your own good.,それが身の為だわ,That's my own,0.2222222222222222,0.51806426
+Is that a warning from you? Or from your boss?,それとも君の雇い主からのか？,Or from your employer?,0.3636363636363637,0.5689615
+"Oh, Alex Rosewater thinks that, does he?",ほう アレックス・ローズウォーターが,Alex Rose Water,0.09090909090909093,0.65272784
+Schwarzwald piloted his because he wanted to destroy the city.,この街を破壊する目的であれに乗ったわ,I got on the purpose of destroying this city,0.1111111111111111,0.38266677
+"Roger, what do you pilot your Megadeus for?",ロジャー あなたがメガデウスに乗る理由は何？,Roger What is the reason for you to get on Mega deus?,0.2777777777777778,0.64805114
+Are you using that power with a specific goal in mind?,あなたはあの力を使っているの？,Are you using that power?,0.5,0.7475301
+What are you trying to say?,つまり何が言いたい,In other words what you want to say,0.3636363636363637,0.51801145
+I just thought I'd ask.,ただ聞いてみただけよ,I just asked,0.2857142857142857,0.7043755
+This is...,確かな目的があって,There is certain purpose,0.16666666666666666,0.22860543
+That's right. You already knew.,そう お前は既に知っていたのだ,Yes you already knew,0.375,0.69972634
+Who's calling me? Schwarzwald?,私を呼ぶのは誰だ シュバルツか,Who calls me Shubaru,0.25,0.335839
+I'm...,私は,I,0.3333333333333333,0.39088678
+What's happening to me?,い 一体何が,What,0.16666666666666666,0.08310595
+This wasn't here a minute ago.,さっきは無かった筈だが,It is a habit that was not a while ago,0.21428571428571427,0.2662335
+Norman?,は？　で お夕食のご用意は,teeth?Dinner with dinner,0.2,0.053712837
+I'll be out for a while.,しばらく留守にする,I will leave for a while,0.4,0.63409007
+"He went to meet the author of that book, I assume.",あの本の著者に会いに行ったんだね,I went to see the author of that book,0.5714285714285714,0.7223999
+I suppose it won't.,でしょうね,I suppose,0.3333333333333333,0.23711878
+The awakening has already begun.,目覚めは既に始まっているんだ,The awakening has already begun,0.8333333333333334,0.9851831
+Pleased to meet you. You were destined to come here eventually.,初めまして　君はいずれここに来る運命だった,"Nice to meet you, you were fate that came here",0.3333333333333333,0.7160003
+"This probably isn't our first meeting, Mr. Gordon Rosewater.",ミスター ゴードン・ローズウォーター,Mr. Gordon Rose Water,0.14285714285714285,0.64762115
+The tomatoes here are pretty well-made.,ここのトマトはなかなか出来が良い,The tomato here is pretty good,0.3,0.78203124
+"Ten or twenty years ago,",今から十数年前,10 years ago from now,0.2222222222222222,0.8085407
+you inserted Memories of the past into several children.,あなたは過去のメモリーを,You have past memory,0.16666666666666666,0.61934096
+Four of those who have remembered have already been killed.,それを思い出した人間が既に４人殺されました,The person who remembered that was already killed,0.2857142857142857,0.69484687
 Why is this necessary?,"だがそれを繰り返せば
 いつかこのトマトが本物となる","But if you repeat it
-Someday this tomato is genuine",0.15384615384615385
-"These are synthetic, reproduced with only the delicious Memories of the original.",これは本物の美味しいメモリーだけを集め,This collects only genuine delicious memories,0.1875
-You read that book?,君はあの本を読んだかね,You read that book,0.8
-The world destroyed by a cataclysm.,天変地異により滅びた世界,A world destroyed by a natural area,0.4444444444444444
-The giant robots that ran rampant.,そこに跋扈する巨大なロボットたち,Huge robots that are ridiculously,0.2
-The power of God wielded by man.,人が操る神の力,The power of God manipulates,0.4444444444444444
-But the book isn't finished! Half the pages are blank!,途中からページは白紙になる,The page is blank from the middle,0.21428571428571427
-"Son, you have to harvest at the proper time.",君 収穫の時期を間違えてはいかん,Do not mistake the time of harvest,0.2
-"After waiting for the tomatoes to ripen, it'd be a shame if you let them rot.",せっかく熟したトマトを腐らせたら一大事だ,It is a big thing if you let the ripe tomatoes rot,0.34782608695652173
-You should find that answer for yourself.,君は自分でその答えを探すべきだ,You should look for the answer by yourself,0.45454545454545453
-"You can do it. No, you should be able to do it.",君にはそれが出来る,You can do it for you,0.3333333333333333
-"This is the right address, all right.",確かに番地に間違いはないが,Certainly there is no mistake in the address,0.23076923076923078
-R...,R,R,0.5
-Red!,レッド,Red,0.5
-The memories that were lost forty years ago...,40年前に失われた記憶,40 years ago memory memory,0.18181818181818182
-"If they're sleeping here in the darkness, then...",それがこの闇の底に眠っているのなら,If it is sleeping at the bottom of this darkness,0.23529411764705882
-Roger Smith...,ロジャー・スミス,Roger Smith,0.6666666666666666
-Androids aren't supposed to be able to kill people.,アンドロイドに人は殺せない筈だが お前は特別か,"People can not kill at Android, but you are special",0.16666666666666666
-Are you different?,お前は目覚めたのか,Are you wake up,0.3333333333333333
-I've been ordered to.,私は命ぜられた,I was ordered,0.2857142857142857
-I've heard those orders from the instant I came into existence.,私は存在した瞬間から その命令が聞こえていた,I heard that command from the moment I existed,0.25
-So I killed them.,だから殺した,So I killed,0.6
-It was as natural a thing to do as opening an umbrella in the rain.,それは雨の中 傘を差す位に当たり前の行動だ,It is a natural action to the place where the umbrella in the rain,0.42105263157894735
-"""R"" is ""Red""...What's ""D""?",Rはレッド Dは,R is Red D,0.4
-That's what it means to be commanded.,命ぜられるとは そういう事だ,That's what you want to order,0.3333333333333333
-Dark?,デス デビル　ダークか,Death Devir Dark,0.25
-Only those who are commanded are allowed to pilot them.,あれに乗る者は命ぜられる筈だ,Those who ride are the way to order,0.2857142857142857
-...then you have to die!,もしお前が違うというのなら 死なねばならない,"Even if it is different, you have to die",0.3076923076923077
-Big O!,ビッグオー,Big o,0.6666666666666666
-It's not responding?,ぐ,ingredient,0.0
-This darkness jams radio signals?,この闇が電波を,This darkness is radio waves,0.375
-Roger!,ロジャー,Roger,0.5
-"No way out, huh?",ぐ 応答が無い,There is no response,0.1111111111111111
-R... D!,R・D,R · D,0.4
-Dorothy!,R・ドロシー,R · Dorothy,0.25
-You did that?,最近顔を見かけなかったが？,Did not see the face recently?,0.2222222222222222
-I haven't seen you around lately.,勝手に動いたの,I moved myself,0.1
-You've been too busy.,あなたが忙し過ぎるのよ,You are too busy,0.42857142857142855
-"I'm terribly sorry, Master Roger.",申し訳ございません ロジャー様,"Sorry, like Roger",0.3333333333333333
-I was repairing the Big O when its control circuits suddenly linked up...,整備中に突然ビッグオーの制御回路が,"During maintenance, the control circuit of the big o",0.21052631578947367
-...with the Prairiedog's power systems and they went haywire.,プレーリードッグの動力部と連動しまして暴走を,Consolidated with the power part of the prayer dog,0.17647058823529413
-Big O acted on its own?,ビッグオー自身の意思が働いた,Big O's own intention worked,0.3
-"What was that, sir?",今何と？,What is it now?,0.2222222222222222
-"By the way, Master Roger,",ところでロジャー様,"By the way, Roger",0.8333333333333334
-the Military Police's mechanized platoon was just mobilized.,先ほど軍警察の機動部隊が出動いたしました,The military police's mobile unit has been dispatched earlier,0.25
+Someday this tomato is genuine",0.15384615384615385,0.09132041
+"These are synthetic, reproduced with only the delicious Memories of the original.",これは本物の美味しいメモリーだけを集め,This collects only genuine delicious memories,0.1875,0.49359137
+You read that book?,君はあの本を読んだかね,You read that book,0.8,0.8503634
+The world destroyed by a cataclysm.,天変地異により滅びた世界,A world destroyed by a natural area,0.4444444444444444,0.54618365
+The giant robots that ran rampant.,そこに跋扈する巨大なロボットたち,Huge robots that are ridiculously,0.2,0.77682066
+The power of God wielded by man.,人が操る神の力,The power of God manipulates,0.4444444444444444,0.8102441
+But the book isn't finished! Half the pages are blank!,途中からページは白紙になる,The page is blank from the middle,0.21428571428571427,0.5479315
+"Son, you have to harvest at the proper time.",君 収穫の時期を間違えてはいかん,Do not mistake the time of harvest,0.2,0.7712507
+"After waiting for the tomatoes to ripen, it'd be a shame if you let them rot.",せっかく熟したトマトを腐らせたら一大事だ,It is a big thing if you let the ripe tomatoes rot,0.3478260869565217,0.88092566
+You should find that answer for yourself.,君は自分でその答えを探すべきだ,You should look for the answer by yourself,0.4545454545454545,0.8019252
+"You can do it. No, you should be able to do it.",君にはそれが出来る,You can do it for you,0.3333333333333333,0.4889707
+"This is the right address, all right.",確かに番地に間違いはないが,Certainly there is no mistake in the address,0.2307692307692308,0.5717325
+R...,R,R,0.5,0.7553301
+Red!,レッド,Red,0.5,0.8526292
+The memories that were lost forty years ago...,40年前に失われた記憶,40 years ago memory memory,0.18181818181818185,0.715665
+"If they're sleeping here in the darkness, then...",それがこの闇の底に眠っているのなら,If it is sleeping at the bottom of this darkness,0.2352941176470588,0.7298416
+Roger Smith...,ロジャー・スミス,Roger Smith,0.6666666666666666,0.91455984
+Androids aren't supposed to be able to kill people.,アンドロイドに人は殺せない筈だが お前は特別か,"People can not kill at Android, but you are special",0.16666666666666666,0.7954526
+Are you different?,お前は目覚めたのか,Are you wake up,0.3333333333333333,0.28141168
+I've been ordered to.,私は命ぜられた,I was ordered,0.2857142857142857,0.66263855
+I've heard those orders from the instant I came into existence.,私は存在した瞬間から その命令が聞こえていた,I heard that command from the moment I existed,0.25,0.51223147
+So I killed them.,だから殺した,So I killed,0.6,0.74304664
+It was as natural a thing to do as opening an umbrella in the rain.,それは雨の中 傘を差す位に当たり前の行動だ,It is a natural action to the place where the umbrella in the rain,0.42105263157894735,0.7725713
+"""R"" is ""Red""...What's ""D""?",Rはレッド Dは,R is Red D,0.4,0.905999
+That's what it means to be commanded.,命ぜられるとは そういう事だ,That's what you want to order,0.3333333333333333,0.14106603
+Dark?,デス デビル　ダークか,Death Devir Dark,0.25,0.5671851
+Only those who are commanded are allowed to pilot them.,あれに乗る者は命ぜられる筈だ,Those who ride are the way to order,0.2857142857142857,0.26193476
+...then you have to die!,もしお前が違うというのなら 死なねばならない,"Even if it is different, you have to die",0.3076923076923077,0.4084254
+Big O!,ビッグオー,Big o,0.6666666666666666,0.8730223
+It's not responding?,ぐ,ingredient,0.0,0.10831542
+This darkness jams radio signals?,この闇が電波を,This darkness is radio waves,0.375,0.793418
+Roger!,ロジャー,Roger,0.5,0.86801624
+"No way out, huh?",ぐ 応答が無い,There is no response,0.1111111111111111,0.24498722
+R... D!,R・D,R · D,0.4,0.675672
+Dorothy!,R・ドロシー,R · Dorothy,0.25,0.7644427
+You did that?,最近顔を見かけなかったが？,Did not see the face recently?,0.2222222222222222,0.16939141
+I haven't seen you around lately.,勝手に動いたの,I moved myself,0.1,0.32383668
+You've been too busy.,あなたが忙し過ぎるのよ,You are too busy,0.42857142857142855,0.80302036
+"I'm terribly sorry, Master Roger.",申し訳ございません ロジャー様,"Sorry, like Roger",0.3333333333333333,0.7433791
+I was repairing the Big O when its control circuits suddenly linked up...,整備中に突然ビッグオーの制御回路が,"During maintenance, the control circuit of the big o",0.21052631578947367,0.7218518
+...with the Prairiedog's power systems and they went haywire.,プレーリードッグの動力部と連動しまして暴走を,Consolidated with the power part of the prayer dog,0.17647058823529413,0.30867776
+Big O acted on its own?,ビッグオー自身の意思が働いた,Big O's own intention worked,0.3,0.7553559
+"What was that, sir?",今何と？,What is it now?,0.2222222222222222,0.32402578
+"By the way, Master Roger,",ところでロジャー様,"By the way, Roger",0.8333333333333334,0.8767451
+the Military Police's mechanized platoon was just mobilized.,先ほど軍警察の機動部隊が出動いたしました,The military police's mobile unit has been dispatched earlier,0.25,0.59265286
 It would seem that something is headed towards the city from the sea.,"海の彼方より 何かが
 この街に向かっているようです","Something from the sea of the sea
-It seems to be heading for this city",0.3
-Dorothy?,ドロシー,Dorothy,0.5
-"Master Roger, what about the cause of the runaway?",ロジャー様 暴走の原因を,The cause of Roger-like runaway,0.36363636363636365
-We're heading out for a bit.,出掛けてくる,Come out,0.1111111111111111
-"Very good, sir. Shall I prepare dinner?",いや いいんだ,I'm sorry,0.08333333333333333
-"See to it, of course.",もちろん頼む,Of course I ask,0.2222222222222222
-"It's too soon. If the power is released now, it'll...",今力を解放したら　全て台無しにするつもりなの？,"If you release the power now, do you intend to ruin all?",0.22727272727272727
-It's okay if some people like to dance in the rain without an umbrella.,雨の中 傘を差さずに踊る人間がいてもいい,It may be a person who dances without getting an umbrella in the rain,0.30434782608695654
-Showtime!,ショータイム,show time,0.0
+It seems to be heading for this city",0.3,0.8250091
+Dorothy?,ドロシー,Dorothy,0.5,0.9295662
+"Master Roger, what about the cause of the runaway?",ロジャー様 暴走の原因を,The cause of Roger-like runaway,0.3636363636363637,0.8709875
+We're heading out for a bit.,出掛けてくる,Come out,0.1111111111111111,0.3723982
+"Very good, sir. Shall I prepare dinner?",いや いいんだ,I'm sorry,0.08333333333333333,0.1745141
+"See to it, of course.",もちろん頼む,Of course I ask,0.2222222222222222,0.30546105
+"It's too soon. If the power is released now, it'll...",今力を解放したら　全て台無しにするつもりなの？,"If you release the power now, do you intend to ruin all?",0.2272727272727273,0.5813321
+It's okay if some people like to dance in the rain without an umbrella.,雨の中 傘を差さずに踊る人間がいてもいい,It may be a person who dances without getting an umbrella in the rain,0.3043478260869565,0.7397144
+Showtime!,ショータイム,show time,0.0,0.28981134

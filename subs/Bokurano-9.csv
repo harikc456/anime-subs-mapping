@@ -1,268 +1,268 @@
-en_text,jp_text,google_translated,score
-Uninstall.,♪～,♪ ~,0.0
-"Well, I'll be off then.",（配達員）じゃ いってきます,I'm coming,0.1
-"Ah, yes, sir!",（ダイチ）あっ はい,Yes yes,0.2
-"Three years ago, my dad disappeared.",（ダイチ）３年前 親父(おやじ)が失踪した,3 years ago My parent  disappeared,0.4
-I was ten years old at the time.,僕が10歳のときだった,I was 10 years old,0.4
+en_text,jp_text,google_translated,score,semantic_score
+Uninstall.,♪～,♪ ~,0.0,0.13157277
+"Well, I'll be off then.",（配達員）じゃ いってきます,I'm coming,0.1,0.3368848
+"Ah, yes, sir!",（ダイチ）あっ はい,Yes yes,0.2,0.3641855
+"Three years ago, my dad disappeared.",（ダイチ）３年前 親父(おやじ)が失踪した,3 years ago My parent  disappeared,0.4,0.8136877
+I was ten years old at the time.,僕が10歳のときだった,I was 10 years old,0.4,0.8886574
 "Since then, I've lived alone with my siblings while working\Nfor my uncle, my father's younger brother, Kengo-san...","それ以来 叔父さん…
 親父の弟の健吾さんの店で―","Since then my uncle ...
-At the store of Chengdu of the father's brother-",0.28
+At the store of Chengdu of the father's brother-",0.28,0.4583206
 Welcome back!,"（フタバ）おかえり
 （サンタ）おかえり","Welcome
- Welcome",0.3333333333333333
+ Welcome",0.3333333333333333,0.5366458
 Breakfast's ready.,"（フタバ）朝ご飯の支度できてるよ
 （サンタ）できてるよ","I can prepare the breakfast
- I can",0.125
+ I can",0.125,0.6879938
 Stop that!,"（フタバ）こら！
-（殴る音）",Cho!,0.25
+（殴る音）",Cho!,0.25,0.33223912
 "Yoshi, get up!","（ふすまの開く音）
-（サンタ）ヨシ 起きろ！",Yoshi wake up!,0.5
+（サンタ）ヨシ 起きろ！",Yoshi wake up!,0.5,0.86052465
 "Due to the appearance of the giant robot,\Nmany fish at the Suzugamori Aquarium were lost, but...","ここ スズガモリ水族館では
 たくさんの魚が犠牲になりましたが","Here in the Suzugamori Aquarium
-Many fish were sacrificed",0.23809523809523808
+Many fish were sacrificed",0.2380952380952381,0.64598614
 "it is believed that the dolphins escaped to the ocean,\Nbringing a great deal of relief to everyone.","幸い
 イルカたちは海に逃げたと思われ","Fortunately
-Dolphins seem to escape the sea",0.13636363636363635
+Dolphins seem to escape the sea",0.13636363636363635,0.78464174
 What's the matter?,"どうしたの？
 （ダイチ）あっ… いや","What's wrong?
- ... No",0.375
+ ... No",0.375,0.28778157
 It's nothing.,"（フタバ）
-サンタだって するでしょう",It will be Santa,0.14285714285714285
+サンタだって するでしょう",It will be Santa,0.14285714285714285,0.11982977
 "Oh, my, my, my!","（サンタ）ああっ！
 姉ちゃん ヨシ おねしょ！","Oh!
-My sister Yoshi!",0.5
-Do not!,（サンタ）しねえよ！,!,0.3333333333333333
+My sister Yoshi!",0.5,0.35546762
+Do not!,（サンタ）しねえよ！,!,0.3333333333333333,0.31229284
 Want me to help out?,"手伝おうか？
-（フタバ）やるから",Shall I help?,0.25
-"Ah, it's cold over here!",（サンタ）あっ 冷てえ ここ！,There is cold here!,0.3
-So my time's...,（ダイチ）大丈夫… 大丈夫だ,okay ... it's okay,0.2857142857142857
-"finally come, huh?",（ダイチ）とうとう来たか,finally came,0.16666666666666666
-Are you all right?,（ナカマ）大丈夫？,okay?,0.16666666666666666
-I'm fine...,（ダイチ）とうとう…,Finally ...,0.2
+（フタバ）やるから",Shall I help?,0.25,0.67717797
+"Ah, it's cold over here!",（サンタ）あっ 冷てえ ここ！,There is cold here!,0.3,0.8256517
+So my time's...,（ダイチ）大丈夫… 大丈夫だ,okay ... it's okay,0.2857142857142857,0.3734083
+"finally come, huh?",（ダイチ）とうとう来たか,finally came,0.16666666666666666,0.5693542
+Are you all right?,（ナカマ）大丈夫？,okay?,0.16666666666666666,0.4375793
+I'm fine...,（ダイチ）とうとう…,Finally ...,0.2,0.33381742
 I'm fine.,"妹たちは どうなるかと
 今更 思っちまって","What happens to the sister
-I'm sorry now",0.18181818181818182
-But after I'm gone...,でも 俺がいなくなったあと,But after me,0.2857142857142857
-What?!,なに？,what?,0.6666666666666666
+I'm sorry now",0.18181818181818185,0.2584087
+But after I'm gone...,でも 俺がいなくなったあと,But after me,0.2857142857142857,0.5835971
+What?!,なに？,what?,0.6666666666666666,0.8485058
 "After you went on about justice and the right\Nthing to do, in the end, you're scared to die?","あれだけ正義漢ぶっといて
 いざとなったら 死ぬのが怖いか？","That's only justice Hanabu
-Is it afraid to die if it comes to you?",0.18518518518518517
+Is it afraid to die if it comes to you?",0.1851851851851852,0.50688463
 I never said anything like that!,"そんなことは言ってないだろう
 （ナカマ）ちょっと　今は やめて","I will not say that
- A little now she stops",0.13333333333333333
+ A little now she stops",0.13333333333333333,0.20682457
 Hey! Don't do this now.,"（ウシロ）
-ここで やめるなんて言うなよ",Don't say that you want to stop here,0.14285714285714285
+ここで やめるなんて言うなよ",Don't say that you want to stop here,0.14285714285714285,0.20232163
 "You were just using your family as an excuse, weren't you?","お前は
 家族を言い訳にしてるだけだろう","You are
-I will only make a family",0.1111111111111111
+I will only make a family",0.1111111111111111,0.39192942
 There's one thing I want to ask you.,"（ダイチ）コエムシ
 ひとつ 聞きたいことがある","Komushi
-I have something I want to hear",0.21428571428571427
-What is it?,何だ？,What?,0.5
+I have something I want to hear",0.21428571428571427,0.2605992
+What is it?,何だ？,What?,0.5,0.43106025
 What do you mean?,"（コエムシ）どうにでもできるぜ
 （モジ）どういうこと？","I can do it anywhere
- What does it mean?",0.4
+ What does it mean?",0.4,0.15396012
 "I can also completely erase them\Nfrom existence, or hide them.","さっぱり消すこともできるし
 隠すことだってできる","It is also possible to erase
-You can hide it",0.23529411764705882
-"Then, please do that with mine.",だったら そうしてくれ,"If so, do it",0.18181818181818182
+You can hide it",0.2352941176470588,0.69801295
+"Then, please do that with mine.",だったら そうしてくれ,"If so, do it",0.18181818181818185,0.45747715
 "Whether in Zearth or somewhere\Nelse, please hide my corpse.","ジアースの中でも
 どこでもいいから隠してくれ","Even in the dice
-Hide it anywhere",0.125
+Hide it anywhere",0.125,0.35401925
 And... one more thing.,"（コエムシ）はいよ
-（ダイチ）それと もうひとつ",and one more one,0.5
-"I'll definitely be back, I won't run away.",俺は 必ず逃げずに戻ってくる,I always come back without running away,0.2
+（ダイチ）それと もうひとつ",and one more one,0.5,0.6105983
+"I'll definitely be back, I won't run away.",俺は 必ず逃げずに戻ってくる,I always come back without running away,0.2,0.60352725
 I don't want the time I have left to spend\Nwith my siblings to be interrupted.,"（ダイチ）妹たちとの最後の
 暮らしをジャマしないでほしい","The last of the sister
-I want you to jama",0.2
-Hey!,（健吾）おい！,!,0.5
+I want you to jama",0.2,0.2676275
+Hey!,（健吾）おい！,!,0.5,0.5805878
 A map of places to evacuate to.,"（健吾）避難場所の地図だ
 もしものときってな","Map of evacuation site
-If it is something",0.15384615384615385
-Ah... you mean from that behemoth?,（配達員）何スか？ それ,How do you?that,0.3
+If it is something",0.15384615384615385,0.81780106
+Ah... you mean from that behemoth?,（配達員）何スか？ それ,How do you?that,0.3,0.04274694
 Honestly... who would've thought that something that feels\Nlike its right out of a comic book would really appear?,"まったく あんな漫画みてえな物(もん)が
 ホントに出てきやがるとはな","A lot of such manga miso 
-It's really going out",0.15384615384615385
+It's really going out",0.15384615384615385,0.31923923
 "Oh, Daichi, come in for a sec.","ちょっと こっち来い
 （ダイチ）はい","I will come a little
- Yes",0.15384615384615385
-"Yes, sir!",うん？ 何ですか？,Yes?What is it?,0.125
+ Yes",0.15384615384615385,0.3415336
+"Yes, sir!",うん？ 何ですか？,Yes?What is it?,0.125,0.34551683
 You should probably check it out.,"避難場所だってさ
 見といたほうがいいぞ","Evacuation site
-You should see",0.2
-I see... thanks.,（ダイチ）ああ… どうも,Oh ...,0.16666666666666666
+You should see",0.2,0.20724186
+I see... thanks.,（ダイチ）ああ… どうも,Oh ...,0.16666666666666666,0.23916772
 Take these.,"これ 持ってけ
 （ダイチ）えっ？","Take this
-?",0.2
+?",0.2,0.6433481
 "These are for business use, aren't they?!","あっ これ 営業用でしょう？
 こんなの もらえないですよ","Oh, is it available?
-Such girlfriend can not get",0.10526315789473684
+Such girlfriend can not get",0.10526315789473684,0.07995238
 "Santa and Yoshi want to play with you\Nevery now and then too, you know.","（健吾）サンタもヨシも
 たまには お前と遊びたいんだぞ","Santa and Yoshi
-Sometimes I want to play with her",0.3888888888888889
-Uncle Kengo...,叔父さん…,Uncle ...,0.6666666666666666
-"Tomorrow's a Sunday, anyway.",フゥ… あしたは ちょうど日曜だ,Oh ... tomorrow is just Sunday,0.18181818181818182
-"We don't release an evening edition on Sunday,\Nso you can take the morning off as well.",夕刊もねえから 朝も休んでいい,I can rest from the morning from the evening,0.17391304347826086
-"Even if you come to work, there'll be nothing for you to do.",いいか？ 来ても 仕事はねえぞ,"Is it okay?Even if you come, work",0.3333333333333333
-Thank you very much!,ありがとうございます,thank you,0.4
-You're different from my older brother.,お前は 兄貴とは違うんだ,You are different from your brother,0.4
+Sometimes I want to play with her",0.3888888888888889,0.8045426
+Uncle Kengo...,叔父さん…,Uncle ...,0.6666666666666666,0.6622145
+"Tomorrow's a Sunday, anyway.",フゥ… あしたは ちょうど日曜だ,Oh ... tomorrow is just Sunday,0.18181818181818185,0.7550729
+"We don't release an evening edition on Sunday,\Nso you can take the morning off as well.",夕刊もねえから 朝も休んでいい,I can rest from the morning from the evening,0.17391304347826084,0.4765965
+"Even if you come to work, there'll be nothing for you to do.",いいか？ 来ても 仕事はねえぞ,"Is it okay?Even if you come, work",0.3333333333333333,0.5879452
+Thank you very much!,ありがとうございます,thank you,0.4,0.5174437
+You're different from my older brother.,お前は 兄貴とは違うんだ,You are different from your brother,0.4,0.8467038
 About what you mentioned a little while\Nback... about living together with you...,"前から言ってくれてた
 一緒に住む話なんだけど","I told me before
-It's a story that I live together",0.1
+It's a story that I live together",0.1,0.47708103
 Y-Yeah?,"叔父さん
 （健吾）うん？","Uncle
- Yeah?",0.25
-Would it still be all right... even now?,今からでも いいですか？,Is it all right now?,0.45454545454545453
+ Yeah?",0.25,0.35958153
+Would it still be all right... even now?,今からでも いいですか？,Is it all right now?,0.4545454545454545,0.53586704
 Of course!,"もちろんだとも！
 よく決心してくれたな ハハハッ…","Of course!
-Haha ha ...",0.5
-You bet! It'll be fine.,よろしくお願いします,thank you,0.1111111111111111
+Haha ha ...",0.5,0.67993015
+You bet! It'll be fine.,よろしくお願いします,thank you,0.1111111111111111,0.18113075
 "After all, you're already pretty much my son as it is!","お前は
 俺の息子も同然なんだからな","You are
-Because my son is also true",0.2222222222222222
+Because my son is also true",0.2222222222222222,0.47045317
 Come get a bite to eat at my place on\Nyour way back tomorrow. Okay?,"（健吾）あした
 帰りに うちにメシ食いに来い","tomorrow
-She comes to eat mesi at home",0.2
+She comes to eat mesi at home",0.2,0.43674946
 "After my dad vanished, my uncle asked us to live with him.","叔父さんから
 “一緒に住まないか”と言われた","From my uncle
-""I wonder if I did not live together""",0.14285714285714285
+""I wonder if I did not live together""",0.14285714285714285,0.6432603
 "He kept asking after that, but...","そのあとも
 ずっと言ってくれていたけど","After that
-I told me for a long time",0.13333333333333333
-I couldn't.,一緒には住めなかった,I could not live together,0.2857142857142857
-And it wasn't just about not wanting to impose.,それは 遠慮だけが理由じゃない,It is not a reason only,0.13333333333333333
+I told me for a long time",0.13333333333333333,0.41197628
+I couldn't.,一緒には住めなかった,I could not live together,0.2857142857142857,0.4035144
+And it wasn't just about not wanting to impose.,それは 遠慮だけが理由じゃない,It is not a reason only,0.13333333333333333,0.24244532
 "When my older brother left, did he say anything?","（健吾）それで いなくなるとき
 兄貴は何か言ってなかったか？","When it is not
-Did my brother did not say something?",0.4
+Did my brother did not say something?",0.4,0.6592765
 """I'll... be back in a little bit.""","（ダイチ）
-“ちょっと行ってくる”って","""I will go for a moment""",0.25
+“ちょっと行ってくる”って","""I will go for a moment""",0.25,0.52156615
 "Even after all he did, I still wanted there\Nto be a place my father could return to.","親父の帰ってこれる場所だけは
 残しておきたかった","Only where the father is back
-I wanted to leave",0.16
-But...,う～ん… あしただ,Hmm ... I'm sorry,0.16666666666666666
+I wanted to leave",0.16,0.69741666
+But...,う～ん… あしただ,Hmm ... I'm sorry,0.16666666666666666,0.28729653
 All right! A theme park!,"（サンタ・ヨシ）
-やったー！ 遊園地！",Yay!amusement park!,0.25
+やったー！ 遊園地！",Yay!amusement park!,0.25,0.6847571
 When?! When?!,"いつ？ いつ？
 （ヨシ）ねえ いつ？","when?when?
- Hey?",0.5
+ Hey?",0.5,0.688682
 Tomorrow!,"あしただ あした！
 （ヨシ）あした あした！","I'm sorry!
- tomorrow!",0.4
+ tomorrow!",0.4,0.6419215
 "Nii-chan, is it really okay?","（サンタ）ヨシは乗せてやんねえ
 （ヨシ）え～っ？ 乗るもん","Yoshi is putting on
- Eh?Ride",0.16666666666666666
+ Eh?Ride",0.16666666666666666,0.3023349
 You don't have to rush it.,"兄ちゃん 大丈夫？
 そんなに慌てなくてもいいよ","My brother is all right?
-You don't have to go so much",0.29411764705882354
-"Just what does it make us,\Nputting all our hopes into children like them?",一体 何なんでしょうね,What is it?,0.17647058823529413
-"That jackass, Seki...",（コエムシ）あの関って野郎…,That of the guy ...,0.25
+You don't have to go so much",0.29411764705882354,0.30010685
+"Just what does it make us,\Nputting all our hopes into children like them?",一体 何なんでしょうね,What is it?,0.17647058823529413,0.068759955
+"That jackass, Seki...",（コエムシ）あの関って野郎…,That of the guy ...,0.25,0.33503896
 Your chairs will appear sooner or later.,"（コエムシ）お前らのイスは
 そのうち 出てくるからよ","You guys' chairs
-Because it comes out there",0.0625
-"Until then, just wait obediently, would you?",それまで お利口に待ってな,"Until then, wait for",0.4
-"Huh, Ushiro?",うん？,Yes?,0.2
-"Now that you mention it, he did pick a fight for no reason.",まあ コマには使えるけどな,"Well, it can be used for a piece",0.2
+Because it comes out there",0.0625,0.4582076
+"Until then, just wait obediently, would you?",それまで お利口に待ってな,"Until then, wait for",0.4,0.5762863
+"Huh, Ushiro?",うん？,Yes?,0.2,0.29891482
+"Now that you mention it, he did pick a fight for no reason.",まあ コマには使えるけどな,"Well, it can be used for a piece",0.2,0.11849246
 Not that it really matters anymore.,"見込みはあるかもな
 あれこそ まともな神経ってもんだ","It may be prospect
-That's a decent god",0.14285714285714285
-Really?,（フタバ）何か困ったこと？,What trouble?,0.25
-Is something bothering you?,あっ… そうか？,Oh ... that is it?,0.2222222222222222
-I talked to Uncle Kengo yesterday.,昨日 叔父さんと話したんだけどな,I talked with my uncle yesterday,0.4444444444444444
+That's a decent god",0.14285714285714285,0.08800831
+Really?,（フタバ）何か困ったこと？,What trouble?,0.25,0.24820079
+Is something bothering you?,あっ… そうか？,Oh ... that is it?,0.2222222222222222,0.2107174
+I talked to Uncle Kengo yesterday.,昨日 叔父さんと話したんだけどな,I talked with my uncle yesterday,0.4444444444444444,0.7269613
 "Even if we keep waiting for Dad,\Nthere's no helping it, right?","そう　お父さん待ってても
 しょうがないもんね","Even if you wait for your father
-I can not help",0.13043478260869565
-Even now... I still believe in him.,俺は 親父のことは 今でも信じてる,I still believe my father,0.2727272727272727
+I can not help",0.13043478260869565,0.6477803
+Even now... I still believe in him.,俺は 親父のことは 今でも信じてる,I still believe my father,0.2727272727272727,0.634643
 "That's why, Futaba, I want you to believe in me, too.","だから
 フタバも 兄ちゃんを信じてくれ","that's why
-Futaba also believes in my brother",0.2777777777777778
-Yeah...,何か きっと…,Some things ...,0.25
-Why did it have to be today?,（ダイチ）なんで今日なんだ…,Why is it today ...,0.3
-"Santa, Yoshi, get up!",（フタバ）サンタ ヨシ 起きて！,Santa Yoshi gets up!,0.5714285714285714
-Is it time to go to the theme park already?,もう遊園地 行くの？,Are you going to go amazed place?,0.2
+Futaba also believes in my brother",0.2777777777777778,0.7772921
+Yeah...,何か きっと…,Some things ...,0.25,0.37351152
+Why did it have to be today?,（ダイチ）なんで今日なんだ…,Why is it today ...,0.3,0.7013154
+"Santa, Yoshi, get up!",（フタバ）サンタ ヨシ 起きて！,Santa Yoshi gets up!,0.5714285714285714,0.9312361
+Is it time to go to the theme park already?,もう遊園地 行くの？,Are you going to go amazed place?,0.2,0.4934565
 The next evacuation route goes from Yokoshima to Sakuma.,"（アナウンス）次の避難ルートは
 ヨコシマ町より サカミ町方面へ","Next evacuation route is
-From Yokoshima Town to Sakami-cho",0.46153846153846156
+From Yokoshima Town to Sakami-cho",0.4615384615384616,0.89458066
 "Please follow the instructions of the military officials,\Nand board the buses designated for evacuation.","軍の指示に従い
 避難用バスに乗ってください","Follow the army instructions
-Please take a bus for evacuation",0.3157894736842105
-Daichi!,（健吾）ダイチ！,Dichi!,0.3333333333333333
+Please take a bus for evacuation",0.3157894736842105,0.8957589
+Daichi!,（健吾）ダイチ！,Dichi!,0.3333333333333333,0.7410539
 Over here! Right here!,"（健吾）こっちだ こっち！
 （ダイチ）叔父さん！","This is here!
- Uncle!",0.2857142857142857
-Up you go.,妹たちをよろしくお願いします,Thank you for your sister,0.125
-W-What?,な… なんだって？,What?,0.3333333333333333
-Where are you going?,兄ちゃん なんで？ どこ行くの？,My brother?Where are you going?,0.7142857142857143
-I...,なっ…,...,0.5
-I'll be back in a little bit.,だから ちょっと行ってくる,So I will go for a while,0.14285714285714285
+ Uncle!",0.2857142857142857,0.44522646
+Up you go.,妹たちをよろしくお願いします,Thank you for your sister,0.125,0.23895797
+W-What?,な… なんだって？,What?,0.3333333333333333,0.2591471
+Where are you going?,兄ちゃん なんで？ どこ行くの？,My brother?Where are you going?,0.7142857142857143,0.7184662
+I...,なっ…,...,0.5,0.77596045
+I'll be back in a little bit.,だから ちょっと行ってくる,So I will go for a while,0.14285714285714285,0.38291657
 "Take care of those two, you hear me?","２人を頼むな
 （フタバ）えっ？","Don't ask for two people
-?",0.13333333333333333
-Nii-chan!,兄ちゃん！,Brother!,0.3333333333333333
+?",0.13333333333333333,0.36976546
+Nii-chan!,兄ちゃん！,Brother!,0.3333333333333333,0.31859013
 I believe in you.,"何があったか知らねえが
 俺は お前を信じてるぞ","I know what happened
-I believe in her you",0.4444444444444444
-"This is for the best, right?",これでいいんだよな？,Is this good?,0.3333333333333333
+I believe in her you",0.4444444444444444,0.5475593
+"This is for the best, right?",これでいいんだよな？,Is this good?,0.3333333333333333,0.45840022
 "That was unexpectedly fast, huh?","（コエムシ）
-意外と早かったじゃねえか",It was surprisingly fast,0.2222222222222222
+意外と早かったじゃねえか",It was surprisingly fast,0.2222222222222222,0.7331319
 "Tanaka-san, how long will it take for everyone\Nin the city to evacuate safely?","田中(たなか)さん　町の人の避難には
 どれくらいかかるんですか？","For evacuation of people in Tanaka-cho
-How long does it take?",0.2857142857142857
-Let's see...,ハァハァハァ…,Huhahaha ...,0.2
-"At the very least, twenty minutes.",そうね… 最低20分,Yes ... at least 20 minutes,0.2727272727272727
-"Then for the next twenty minutes, I won't move an inch.",なら 20分間は動きません,If it does not move for 20 minutes,0.15789473684210525
+How long does it take?",0.2857142857142857,0.7965956
+Let's see...,ハァハァハァ…,Huhahaha ...,0.2,0.42117682
+"At the very least, twenty minutes.",そうね… 最低20分,Yes ... at least 20 minutes,0.2727272727272727,0.584266
+"Then for the next twenty minutes, I won't move an inch.",なら 20分間は動きません,If it does not move for 20 minutes,0.15789473684210525,0.6215438
 "After that, I'll try to finish things as soon as possible,\Nand prevent as much damage to the city as I can.","（ダイチ）そのあと なるべく
 早く片づけて 町の被害を抑えます","After that
-Clean up early and reduce the damage of the town",0.14814814814814814
+Clean up early and reduce the damage of the town",0.14814814814814814,0.57908106
 The National Defense Force will use all of the strength\Nat its command to secure the evacuation route.,"分かった　国防軍も
 全力で避難ルートを確保するわ","Defense army who understands
-We secure evacuation route with all power",0.22727272727272727
-"So, do your best!",だから 頑張って,So do my best,0.42857142857142855
+We secure evacuation route with all power",0.2272727272727273,0.8105678
+"So, do your best!",だから 頑張って,So do my best,0.42857142857142855,0.7501283
 I-It moved!,"（モジ）う… 動いた
 （ダイチ）くそ！","... I moved
- く!",0.3333333333333333
-I'll stop it!,止めてやる！,Stop and do!,0.2857142857142857
-Hurry!,（ナカマ）あっ！,!,0.5
+ く!",0.3333333333333333,0.49167964
+I'll stop it!,止めてやる！,Stop and do!,0.2857142857142857,0.55326676
+Hurry!,（ナカマ）あっ！,!,0.5,0.4282167
 It's no good!,"（カンジ）ダメだ
 （ダイチ）あっ…","no good
- ...",0.3333333333333333
+ ...",0.3333333333333333,0.6486946
 "Hey now, the armor's being shaven off.","（コエムシ）
-おいおい　装甲が削られてんぞ",Hey armor is scraped,0.16666666666666666
-In that case...!,（一同）あっ…,...,0.2
+おいおい　装甲が削られてんぞ",Hey armor is scraped,0.16666666666666666,0.6608009
+In that case...!,（一同）あっ…,...,0.2,0.35234907
 "Daichi-kun, there's a district confirmed to be\Ncompletely evacuated to the southeast!","全域 避難完了した地域があるわ
 （ダイチ）分かりました","There is a region where all region evacuation has been completed
- I understand",0.08695652173913043
-Just a little further!,あともう少し,A little more,0.3333333333333333
-Right here!,（美純）ここよ,here,0.3333333333333333
-A theme park...,（アンコ）遊園地…,Amusement park ...,0.4
-This is...,ここはダメだ,This is no good,0.4
-It started spinning!,（カンジ）うわ 回り始めた！,I started to go around!,0.25
-As if I'll let you!,そうはいくか！,Let's go so!,0.2
-I could never believe it...,信じられないよな,I can not believe,0.25
-That the lives of all humankind...,お前たちの未来が…,The future of you ...,0.3333333333333333
-"Your future... right now, in this instant...",今 この瞬間…,Now this moment ...,0.3
-If it's in my hands...,そんな大きなことを言われても…,Even if it is said such a big thing ...,0.21428571428571427
+ I understand",0.08695652173913042,0.4989355
+Just a little further!,あともう少し,A little more,0.3333333333333333,0.6327037
+Right here!,（美純）ここよ,here,0.3333333333333333,0.6596934
+A theme park...,（アンコ）遊園地…,Amusement park ...,0.4,0.7509028
+This is...,ここはダメだ,This is no good,0.4,0.34202316
+It started spinning!,（カンジ）うわ 回り始めた！,I started to go around!,0.25,0.49207768
+As if I'll let you!,そうはいくか！,Let's go so!,0.2,0.49827585
+I could never believe it...,信じられないよな,I can not believe,0.25,0.64014596
+That the lives of all humankind...,お前たちの未来が…,The future of you ...,0.3333333333333333,0.5154842
+"Your future... right now, in this instant...",今 この瞬間…,Now this moment ...,0.3,0.47831196
+If it's in my hands...,そんな大きなことを言われても…,Even if it is said such a big thing ...,0.21428571428571427,0.31595966
 "Dung Beetle, I'm counting on you\Nto keep that promise we made.","コエムシ　約束 頼むな
-（コエムシ）はいよ",I'm asking for a promise,0.17647058823529413
+（コエムシ）はいよ",I'm asking for a promise,0.17647058823529413,0.34137118
 What?,"ウシロ
 （ウシロ）何だよ？","Urilow
- What is it?",0.4
+ What is it?",0.4,0.10863421
 "Treat Kana-chan dearly, at least.","カナちゃんくらいは
 大事にしてやれ","Kana-chan
-It is important",0.1
-Time to do this!,いくぞ！,let's go!,0.125
-I can't believe it.,やってる… 信じられない,I'm doing ... I can not believe,0.18181818181818182
+It is important",0.1,0.6662758
+Time to do this!,いくぞ！,let's go!,0.125,0.39158413
+I can't believe it.,やってる… 信じられない,I'm doing ... I can not believe,0.18181818181818185,0.5443733
 "Because miraculously enough,\Nthis park made it through safely.","奇跡的に ここは無事だから
 さあ どうぞ どうぞ","Because it is miraculously here safely
-Please do not",0.25
-"Please, come in.",ダイチ兄ちゃんは来ないの？,Daichi brother does not come?,0.1
-Yoshi...,ヨシ…,Yoshi ...,1.0
+Please do not",0.25,0.44855595
+"Please, come in.",ダイチ兄ちゃんは来ないの？,Daichi brother does not come?,0.1,0.18676785
+Yoshi...,ヨシ…,Yoshi ...,1.0,0.9999999
 "Hey, when's Daichi-nii-chan coming?","（ヨシ）
-ねえ　ダイチ兄ちゃん いつ来る？",Hey Dichi brother coming to come?,0.2727272727272727
+ねえ　ダイチ兄ちゃん いつ来る？",Hey Dichi brother coming to come?,0.2727272727272727,0.5624227
 "Hurry, hurry!","（サンタ）
-早く早く！ 早く兄ちゃん呼べ！","hurry, hurry!Call your brother early!",0.42857142857142855
+早く早く！ 早く兄ちゃん呼べ！","hurry, hurry!Call your brother early!",0.42857142857142855,0.61094683
 "So no one would ever say anything bad about me, I thought I should always do things properly.","（ナカマ）
-誰にも悪く言われないように",Don't say bad to everyone,0.13636363636363635
+誰にも悪く言われないように",Don't say bad to everyone,0.13636363636363635,0.498926
 But something is not right.,"何かが違う
 何を間違えているんだろう","Something is different
-What is wrong",0.2222222222222222
-Next time on Bokurano: Friends.,次回 「ぼくらの」 “仲間”,"Next time ""Bokura no"" """,0.18181818181818182
+What is wrong",0.2222222222222222,0.52460885
+Next time on Bokurano: Friends.,次回 「ぼくらの」 “仲間”,"Next time ""Bokura no"" """,0.18181818181818185,0.7341409

@@ -1,488 +1,488 @@
-en_text,jp_text,google_translated,score
-"Welcome home, Father!",おかえりなさい お父さん,Welcome home dad,0.3333333333333333
-You can go ahead and open it.,開けてみるといい,It is good to open,0.18181818181818182
-Okay!,はい！,Yes!,0.3333333333333333
-Thank you very much!,ありがとうございます,thank you,0.4
-"Happy tenth birthday, Selim.",10歳の誕生日おめでとう セリム,10-year-old Birthday Congratulations Serim,0.1111111111111111
-Where are we?,ここは どこなんですか？,Where is this?,0.3333333333333333
-We're at You-know-who's place.,あの人の所さ,That person's place,0.2222222222222222
+en_text,jp_text,google_translated,score,semantic_score
+"Welcome home, Father!",おかえりなさい お父さん,Welcome home dad,0.3333333333333333,0.86861026
+You can go ahead and open it.,開けてみるといい,It is good to open,0.18181818181818185,0.66954714
+Okay!,はい！,Yes!,0.3333333333333333,0.5089255
+Thank you very much!,ありがとうございます,thank you,0.4,0.5174438
+"Happy tenth birthday, Selim.",10歳の誕生日おめでとう セリム,10-year-old Birthday Congratulations Serim,0.1111111111111111,0.6871542
+Where are we?,ここは どこなんですか？,Where is this?,0.3333333333333333,0.58811826
+We're at You-know-who's place.,あの人の所さ,That person's place,0.2222222222222222,0.3994957
 "The one who is making you Homunculi
 search for the Philosopher's Stone?","ホムンクルスに
 賢者の石探しをさせている？","To Homculus
-Are you looking for a sage stone?",0.21052631578947367
+Are you looking for a sage stone?",0.21052631578947367,0.5593749
 "That's not all. The one who found us,
-brought us together, and nurtured us.",それだけじゃない,Not only that,0.125
+brought us together, and nurtured us.",それだけじゃない,Not only that,0.125,0.17741476
 "You're being tricked-- all you
 Homunculi who want to become human.","だましてるんだ…
 人間になりたいホムンクルスたちを","I'm sorry ...
-I want to be human beings",0.15789473684210525
-What about you?,それがどうした,What about it,0.4
+I want to be human beings",0.15789473684210525,0.503416
+What about you?,それがどうした,What about it,0.4,0.53847915
 "Yeah, I know. That person just wants the
 Philosopher's Stone to use personally.","あの人は
 自分のために賢者の石が欲しいんだ","That person
-He wants a sage stone for myself",0.19047619047619047
-"Hey, now, your body is precious.",おいおい 大切な体だろ,It is an important body,0.18181818181818182
-Don't do anything reckless.,むちゃするなよ,Don't go,0.3333333333333333
-Shoot!,うわっ！,Wow!,0.3333333333333333
+He wants a sage stone for myself",0.19047619047619047,0.5657166
+"Hey, now, your body is precious.",おいおい 大切な体だろ,It is an important body,0.18181818181818185,0.44636425
+Don't do anything reckless.,むちゃするなよ,Don't go,0.3333333333333333,0.47064328
+Shoot!,うわっ！,Wow!,0.3333333333333333,0.46240672
 "How many people do you think Scar killed
 to make you the Philosopher's Stone?","お前が賢者の石になるために
 スカーは何人 殺したと思ってる？","To become a sage stone
-Do you think that there was a scar killed?",0.38095238095238093
-"Of the soldiers that charged into Liore,",リオールに突入した兵のうち…,Of the soldiers who rushed into Riol ...,0.3333333333333333
-7000 of them disappeared in an instant.,７千人が一瞬で消えた,7 thousand disappeared in an instant,0.4
-They're not dead.,死んじゃいない,I'm not dead,0.2857142857142857
-They're all right here.,みんな ここにいる,Everyone is here,0.125
+Do you think that there was a scar killed?",0.3809523809523809,0.71977687
+"Of the soldiers that charged into Liore,",リオールに突入した兵のうち…,Of the soldiers who rushed into Riol ...,0.3333333333333333,0.50332713
+7000 of them disappeared in an instant.,７千人が一瞬で消えた,7 thousand disappeared in an instant,0.4,0.7773897
+They're not dead.,死んじゃいない,I'm not dead,0.2857142857142857,0.6708699
+They're all right here.,みんな ここにいる,Everyone is here,0.125,0.49586585
 "Oh yeah, and the guys
 that died long ago in Ishbal","昔 イシュヴァールで死んだ連中も
 封じられていたんだってね","In the long-ago, Ishwar
-It was sealed",0.17647058823529413
-"Awesome, awesome!",スゲえ スゲえ！,Sugen scgment!,0.2
+It was sealed",0.17647058823529413,0.25895184
+"Awesome, awesome!",スゲえ スゲえ！,Sugen scgment!,0.2,0.11990299
 "You've got thousands-- tens of thousands--
 of lives there inside you.","何千 何万という命が
 お前の中にあるんだ","Thousands of thousands of thousands of life
-I'm in you",0.2
-"We should put them to good use, huh!?",有効に使わないとな！,I have to use it effectively!,0.2
-I should have died...,僕は死ぬはずだった…,I was supposed to die ...,0.2222222222222222
-"and back then, too.",あのときも,At that time,0.0
-"So then, why am I still alive?",それでも なんで 生きてる？,Still what is you living?,0.15384615384615385
-Brother?,兄さん…,Brother ...,0.3333333333333333
-The Philosopher's Stone.,賢者の石,philosopher's Stone,0.6
+I'm in you",0.2,0.5850673
+"We should put them to good use, huh!?",有効に使わないとな！,I have to use it effectively!,0.2,0.38180456
+I should have died...,僕は死ぬはずだった…,I was supposed to die ...,0.2222222222222222,0.71939963
+"and back then, too.",あのときも,At that time,0.0,0.35907444
+"So then, why am I still alive?",それでも なんで 生きてる？,Still what is you living?,0.15384615384615385,0.44647145
+Brother?,兄さん…,Brother ...,0.3333333333333333,0.72295505
+The Philosopher's Stone.,賢者の石,philosopher's Stone,0.6,0.96155053
 "Those who obtain it are set free
 from the Law of Equivalent Exchange.","それを手にした者は
 等価交換の原則から解放され","Those who got it
-Released from the principle of equivalence exchange",0.3888888888888889
+Released from the principle of equivalence exchange",0.3888888888888889,0.5807181
 "There is no need to pay a price
 in order to obtain something, either.","何かを得るために
 代価を必要とすることもない","To get something
-Do not need prices",0.15789473684210525
-"We sought it, and found it.",僕らは それを求め…,We seek it ...,0.2222222222222222
-Edward-san!,エドワードさん！,Edward!,0.3333333333333333
-What were you doing?,何をしていたんだ？,What did you do?,0.42857142857142855
-Sorry. Is this the place?,ここ… なのか？,... Is it ...?,0.2222222222222222
-Yes. This is definitely the place.,ええ 確かに ここです,Yes Certainly here,0.1111111111111111
-Show me one more time.,もう一度 見せてくれ,Show me again,0.2857142857142857
+Do not need prices",0.15789473684210525,0.745193
+"We sought it, and found it.",僕らは それを求め…,We seek it ...,0.2222222222222222,0.6975562
+Edward-san!,エドワードさん！,Edward!,0.3333333333333333,0.7818537
+What were you doing?,何をしていたんだ？,What did you do?,0.42857142857142855,0.7485578
+Sorry. Is this the place?,ここ… なのか？,... Is it ...?,0.2222222222222222,0.30893698
+Yes. This is definitely the place.,ええ 確かに ここです,Yes Certainly here,0.1111111111111111,0.51907784
+Show me one more time.,もう一度 見せてくれ,Show me again,0.2857142857142857,0.70085835
 "Dad once came here to Central,
 looking for a way to refine the red water.","父さんは かつて
 赤い水を精製する方法を探して","Father once
-Looking for a method of purifying red water",0.3
+Looking for a method of purifying red water",0.3,0.74897736
 "He wound up going to a place
 called the 5th Laboratory,","そして 第五研究所という所に
 出入りすることになり","And at the fifth laboratory
-Becoming in and out",0.1111111111111111
+Becoming in and out",0.1111111111111111,0.72106117
 "and there, he met up
-with a certain alchemist.",そこで１人の錬金術師に出会った,So I met one alchemist,0.14285714285714285
+with a certain alchemist.",そこで１人の錬金術師に出会った,So I met one alchemist,0.14285714285714285,0.8140443
 "That person told him that there
 was some indispensable element","どうしても
 不可欠な要素があるとして","no matter what
-If there is an essential element",0.125
+If there is an essential element",0.125,0.49812984
 "...to transmute the red water
 all the way into a Philosopher's Stone,","赤い水を
 賢者の石にまで錬成するには","Red water
-To smash to the sage's stone",0.375
+To smash to the sage's stone",0.375,0.63290286
 "He also showed him where
-the real laboratory was.",そして 本当の研究所の在りかも…,And it may be the real research institute ...,0.11764705882352941
+the real laboratory was.",そして 本当の研究所の在りかも…,And it may be the real research institute ...,0.1176470588235294,0.33582315
 "The 5th Laboratory was nothing more
 than a secret entrance.","第五研究所は
 秘密への入り口にすぎない","The fifth laboratory is
-It is only the entrance to the secret",0.25
+It is only the entrance to the secret",0.25,0.83251446
 "This does indeed appear to be the place
 that we have been searching for.","確かに ここは
 俺たちが探していた場所らしい","Certainly here
-It seems that we were looking for",0.14285714285714285
+It seems that we were looking for",0.14285714285714285,0.6088369
 I'm going alone.,"あいつは
 ちょっと迷子になってるだけだ","Aya
-I'm just getting lost",0.2222222222222222
+I'm just getting lost",0.2222222222222222,0.15762936
 "But Al-kun is in danger,
 though we don't know what kind, right?","でも 何だか分からないけど
 アル君が危ないんでしょ？","But I do not know anything
-Al, you are dangerous?",0.22727272727272727
-Ed...,エド,Ed,0.5
+Al, you are dangerous?",0.2272727272727273,0.48921406
+Ed...,エド,Ed,0.5,0.8663144
 "The reason why we showed you
-what was in this journal...",俺たちが この日記を見せたのは,We showed this diary,0.23076923076923078
+what was in this journal...",俺たちが この日記を見せたのは,We showed this diary,0.2307692307692308,0.633054
 "I know. I'm not going there to create
 a Philosopher's Stone. Believe me.","賢者の石を作るために
 行くんじゃない","To make a sage stone
-I'm not going",0.4117647058823529
+I'm not going",0.4117647058823529,0.61880136
 "Come back to us, now!
-Come back to us alive!",生きて帰ってこいよ！,Live and come home!,0.18181818181818182
+Come back to us alive!",生きて帰ってこいよ！,Live and come home!,0.18181818181818185,0.5964679
 "According to Dad's journal, you descend
 from the temple of the ancient religion,","その古い宗教の神殿から
 地下へ地下へと下りていくと","From the temple of the old religion
-When going down to underground basement",0.3
+When going down to underground basement",0.3,0.6058804
 "it looked like the city
 was nearly 400 years old.","父さんは その建築様式から
 それが400年近く昔の都市だとみた","Father is from its architectural style
-It seemed that it was an old city near 400 years",0.2857142857142857
+It seemed that it was an old city near 400 years",0.2857142857142857,0.76257616
 "There's a legend that says
 that the city that was there,","そのころ
 セントラルの位置にあった街が","That time
-The city that was in the position of Central",0.26666666666666666
+The city that was in the position of Central",0.26666666666666666,0.5412262
 "and may have closed up
 the whole city underground.","都市を丸ごと一つ 地下に
 閉じ込めてしまったのではないか…","Everyone in the city
-I have not confined ...",0.1875
+I have not confined ...",0.1875,0.25595382
 "The people of the city
 were all sacrificed","１つの街の人間 全てを
 賢者の石のいけにえとして使う…","All people in one city
-Used as a sage stone ...",0.2
+Used as a sage stone ...",0.2,0.5182901
 "And then, to hide the fact
 that there weren't any people left,","人が一人もいなくなったことを
 ごまかすために","That one person has no longer
-To meet",0.1
-they made the city itself disappear.,街そのものを消してしまう,I will erase the city itself,0.3
-Is anyone there!?,いるんだろ！,There is only!,0.5
+To meet",0.1,0.37858456
+they made the city itself disappear.,街そのものを消してしまう,I will erase the city itself,0.3,0.570671
+Is anyone there!?,いるんだろ！,There is only!,0.5,0.42951006
 "I know you're here! You knew
 about everything, didn't you,","あんたは
 全部 知っていたんじゃないのか？","Ah!
-Didn't you know all?",0.3333333333333333
-Pop!?,親父〜！,father~!,0.25
-"No, Gluttony.",ダメよ グラトニー,Glatoni,0.0
-Be patient.,我慢なさい,Patient,0.3333333333333333
+Didn't you know all?",0.3333333333333333,0.538817
+Pop!?,親父〜！,father~!,0.25,0.33586323
+"No, Gluttony.",ダメよ グラトニー,Glatoni,0.0,0.2801163
+Be patient.,我慢なさい,Patient,0.3333333333333333,0.5441611
 "This girl's body is very important,
-after all.",この人は大事な体なんだから,Because this person is an important body,0.2857142857142857
+after all.",この人は大事な体なんだから,Because this person is an important body,0.2857142857142857,0.5722557
 "So pretty. It's no wonder
 why Ed and Al would like you.","エドやアルが好きになるのも
 無理ないわ","I like Ed and Al
-I can not help",0.2222222222222222
-They are his children...,あの人の子供たちが…,That person's children ...,0.25
-"Hey, what happened to Lust!?",ねえ ラストは どうしたの？,Hey What happened to the last?,0.5
+I can not help",0.2222222222222222,0.6015318
+They are his children...,あの人の子供たちが…,That person's children ...,0.25,0.68550104
+"Hey, what happened to Lust!?",ねえ ラストは どうしたの？,Hey What happened to the last?,0.5,0.37481928
 "That's right, I need
-to get my dress ready.",そうだ！ ドレスを用意しなきゃ,That's it!I have to prepare a dress,0.29411764705882354
-We have to be pretty when we greet him.,きれいな姿でお出迎えしなくちゃね,I have to pick you up in a beautiful appearance,0.11764705882352941
-"My, that was quick.",あら 早かったわね,"Oh, it was fast",0.2222222222222222
-Where is he?,あいつは？,What is it?,0.3333333333333333
+to get my dress ready.",そうだ！ ドレスを用意しなきゃ,That's it!I have to prepare a dress,0.29411764705882354,0.7720512
+We have to be pretty when we greet him.,きれいな姿でお出迎えしなくちゃね,I have to pick you up in a beautiful appearance,0.1176470588235294,0.4058813
+"My, that was quick.",あら 早かったわね,"Oh, it was fast",0.2222222222222222,0.54359597
+Where is he?,あいつは？,What is it?,0.3333333333333333,0.3430794
 "--Wrath...
 --Where is he!?","あいつは どこ…
 しつこいなあ","Where is that ...
-I'm sorry",0.25
-That's what I thought I told him to do.,どういうこと？,What do you mean?,0.15384615384615385
+I'm sorry",0.25,0.24631524
+That's what I thought I told him to do.,どういうこと？,What do you mean?,0.15384615384615385,0.17080638
 "Please! Give me the
-Philosopher's Stone, quick!",お願い！ 賢者の石を早く！,please!Fasten the sage stone!,0.3333333333333333
+Philosopher's Stone, quick!",お願い！ 賢者の石を早く！,please!Fasten the sage stone!,0.3333333333333333,0.5766652
 "Wrath, you have to be a good boy,
 or I won't make you human.","いい子にしていないと
 人間にしてあげないわよ","If you do not have a good child
-I will not give it a human being",0.25
-There's no time for that!,そんな時間ないんだ！,There is no such time!,0.4444444444444444
-Mama... Mama is going to be all gone!,ママが… ママが消えちゃう！,Mom ... Mom disappears!,0.18181818181818182
-Mama?,ママ？,Mom?,0.3333333333333333
+I will not give it a human being",0.25,0.5149972
+There's no time for that!,そんな時間ないんだ！,There is no such time!,0.4444444444444444,0.78992146
+Mama... Mama is going to be all gone!,ママが… ママが消えちゃう！,Mom ... Mom disappears!,0.18181818181818185,0.68234485
+Mama?,ママ？,Mom?,0.3333333333333333,0.7682501
 "Sloth is not your mama.
 Homunculi do not have mothers.","スロウスは
 あなたのママじゃないわ","Slous
-I'm not your mom",0.14285714285714285
-"Bring Mama back to life, please!",ママを生き返らせて　お願い！,Please let me live back mom!,0.25
-Don't talk like you're human.,人間みたいなことを言わないで,Don't say something like a human,0.36363636363636365
-Mama... Mama!,ママを… ママを…,Mom ... Mom ...,0.25
-Mama!,ママを！,Mom!,0.3333333333333333
-Envy!,うわあ！,Wow!,0.3333333333333333
-Please!,お願いだ！,Please!,1.0
+I'm not your mom",0.14285714285714285,0.3714601
+"Bring Mama back to life, please!",ママを生き返らせて　お願い！,Please let me live back mom!,0.25,0.69939893
+Don't talk like you're human.,人間みたいなことを言わないで,Don't say something like a human,0.3636363636363637,0.759645
+Mama... Mama!,ママを… ママを…,Mom ... Mom ...,0.25,0.6812518
+Mama!,ママを！,Mom!,0.3333333333333333,0.8370161
+Envy!,うわあ！,Wow!,0.3333333333333333,0.3045982
+Please!,お願いだ！,Please!,1.0,0.99999994
 "What do you think you
-can you do in your shape?",そんな体で何ができる？,What can you do with such a body?,0.38461538461538464
-What power!,なんという力だ,What is the power,0.4
+can you do in your shape?",そんな体で何ができる？,What can you do with such a body?,0.38461538461538464,0.47662988
+What power!,なんという力だ,What is the power,0.4,0.7594567
 "It's only natural that Edward Elric
-would use Automail. This is fun!",これは楽しい,This is fun,0.2
-Someone like you is a soldier?,お前のようなヤツが軍人か,Is your guy like a military person?,0.36363636363636365
+would use Automail. This is fun!",これは楽しい,This is fun,0.2,0.17735381
+Someone like you is a soldier?,お前のようなヤツが軍人か,Is your guy like a military person?,0.3636363636363637,0.726705
 "That explains why no one has
 realized who the Fuhrer is!","だから
 大総統の正体にも気付かないのだ！","that's why
-I do not notice the true identity of the scientist!",0.19047619047619047
+I do not notice the true identity of the scientist!",0.19047619047619047,0.4629473
 "It's still not too late
-for you. Become one of my men.",今からでも遅くはない,It is not late from now,0.17647058823529413
+for you. Become one of my men.",今からでも遅くはない,It is not late from now,0.17647058823529413,0.46719816
 "We are ready to wage war on the north,
 and on the west, and on the south.","北とも 西とも 南とも
 戦争の準備はできている","North and west are both southern
-Preparation of war is ready",0.3157894736842105
-Not interested.,興味はないね,I'm not interested,0.4
-"In that case, die!",ならば… 死ね！,If so ... die!,0.2222222222222222
+Preparation of war is ready",0.3157894736842105,0.7569119
+Not interested.,興味はないね,I'm not interested,0.4,0.8280491
+"In that case, die!",ならば… 死ね！,If so ... die!,0.2222222222222222,0.49777517
 "What are you doing!?
-I am your superior officer!",何をしている？ 上官に向かって！,What are you doing?Toward a prominent officer!,0.5
-Izumi-san!,イズミさん！,Izumi!,0.3333333333333333
-Where's... Ed?,エドは…,Ed ...,0.4
-You all believed... in those boys?,みんな 信じてくれたのか,Was everyone believed?,0.2
+I am your superior officer!",何をしている？ 上官に向かって！,What are you doing?Toward a prominent officer!,0.5,0.77910274
+Izumi-san!,イズミさん！,Izumi!,0.3333333333333333,0.8812287
+Where's... Ed?,エドは…,Ed ...,0.4,0.7605717
+You all believed... in those boys?,みんな 信じてくれたのか,Was everyone believed?,0.2,0.59081537
 "Believing in and protecting children
-is the job of an adult.",“それが大人の仕事だ”,"""It's an adult work.""",0.17647058823529413
-That's what someone once told me.,ある人に そう言われました,I was told to someone,0.18181818181818182
-Rose?,ロゼ？,Lose?,0.3333333333333333
-You finally came.,やっと来てくれた,I finally came,0.4
+is the job of an adult.",“それが大人の仕事だ”,"""It's an adult work.""",0.17647058823529413,0.4131521
+That's what someone once told me.,ある人に そう言われました,I was told to someone,0.18181818181818185,0.4409587
+Rose?,ロゼ？,Lose?,0.3333333333333333,0.24984235
+You finally came.,やっと来てくれた,I finally came,0.4,0.8454101
 "Now, that should teach you a lesson.
 Don't start any fights with these guys.","ホント 痛い目に遭わないと
 覚えないんだから","If you do not have a hot pain
-Because I do not remember",0.12
-I think I just figured something out...,何か分かったような気が…,I feel like I understand something ...,0.3
-What?,何が？,what?,1.0
+Because I do not remember",0.12,0.065808535
+I think I just figured something out...,何か分かったような気が…,I feel like I understand something ...,0.3,0.3790612
+What?,何が？,what?,1.0,1.0000002
 "Before Hughes-san died, he said something.
 ''What if everything was backwards?''","ヒューズさんが亡くなる前
 おっしゃってたんです","Before Hughes dies
-I was talking about",0.1
-And you figured it out?,それが分かったの？,Did you understand it?,0.375
-But what if it was the other way around?,だけど それが逆だったら…,But if that is the opposite ...,0.21428571428571427
+I was talking about",0.1,0.59685785
+And you figured it out?,それが分かったの？,Did you understand it?,0.375,0.5114496
+But what if it was the other way around?,だけど それが逆だったら…,But if that is the opposite ...,0.21428571428571427,0.4843302
 "They wait until it is just
 barely completed, and then take it away.","完成ぎりぎりまできて
 それを取り上げる","Completed
-Pick up",0.0625
+Pick up",0.0625,0.1904593
 "What's left is a rumor that says that
 if you come near the Philosopher's Stone,","うわさが残る…
 “賢者の石に近づけば滅びる”と","A rumor remains ...
-""If you get close to the sage's stone""",0.30434782608695654
-you'll be destroyed.,近づかないように… なる？,Do you want to get close ...?,0.08333333333333333
+""If you get close to the sage's stone""",0.3043478260869565,0.7041318
+you'll be destroyed.,近づかないように… なる？,Do you want to get close ...?,0.08333333333333333,0.14675683
 "In time, people become afraid
 of the Philosopher's Stone...","やがて
 人々は賢者の石におびえて…","After all
-People are scared to the sage's stone ...",0.2777777777777778
+People are scared to the sage's stone ...",0.2777777777777778,0.6389716
 "But that would almost make
 them good people, wouldn't it?","でも それじゃ
 まるで いい人ですよね","But that
-It is a good person",0.26666666666666666
+It is a good person",0.26666666666666666,0.47078678
 "What's more, no matter
-how dangerous it is,",どんなに危険だからって,No matter how dangerous,0.4
+how dangerous it is,",どんなに危険だからって,No matter how dangerous,0.4,0.7578701
 "I'll bet that people will
 still go on looking for it.","危険に近づかないように
 してくれるんだから","Do not approach danger
-Because I will",0.1111111111111111
+Because I will",0.1111111111111111,0.064844675
 "I wonder how Edward-san
 and his brother are doing.","エドワードさんたち
 どうしているんでしょう？","Edwards
-What are you doing?",0.14285714285714285
-I'm sure they're getting along fine.,きっと仲良くやってるわよ,I'm sure to get along well,0.3333333333333333
+What are you doing?",0.14285714285714285,0.44857413
+I'm sure they're getting along fine.,きっと仲良くやってるわよ,I'm sure to get along well,0.3333333333333333,0.6719422
 "But God is the only one
 who can teach that kind of lesson.","でも そんな教訓を
 与えることができるのは神様だけよ","But that lesson
-It is only God that can be given",0.4117647058823529
+It is only God that can be given",0.4117647058823529,0.8865009
 "I've been waiting for you,
-a long, long time.",待ってたの　ずっと ずっと…,Waiting for a long time ...,0.4166666666666667
-Rose...,ロゼ…,Rose ...,1.0
-What on earth is this place?,ここは 一体…,This is one ...,0.2222222222222222
+a long, long time.",待ってたの　ずっと ずっと…,Waiting for a long time ...,0.4166666666666667,0.62439036
+Rose...,ロゼ…,Rose ...,1.0,0.99999994
+What on earth is this place?,ここは 一体…,This is one ...,0.2222222222222222,0.1855765
 "She's been waiting for you
 ever since we fled here.","ここに逃げ込んでから
 ずっと あなたを待っていたのよ","After running here
-I have been waiting for you forever",0.29411764705882354
-"Lyra, you brought Rose here?",ライラ… お前が ロゼを ここへ？,Lyala ... You're here to here?,0.2727272727272727
+I have been waiting for you forever",0.29411764705882354,0.61544603
+"Lyra, you brought Rose here?",ライラ… お前が ロゼを ここへ？,Lyala ... You're here to here?,0.2727272727272727,0.31859392
 "There's an old city that
 only alchemists know of.","古い錬金術師しか
 知らない街ですって","Old alchemist only
-It is a city that you do not know",0.2777777777777778
+It is a city that you do not know",0.2777777777777778,0.91885346
 "Speaking of Dante-san, I still
-haven't heard how she was killed.",ダンテ先生から聞いてたの,I heard from Dante teacher,0.11764705882352941
+haven't heard how she was killed.",ダンテ先生から聞いてたの,I heard from Dante teacher,0.1176470588235294,0.56847
 "She was killed by that Homunculus Greed.
 I thought I told you.","どうして殺されたのか
 まだ聞いてなかったな","Why did you get killed?
-I did not listen yet",0.15789473684210525
-That is a lie.,それは うそだ,It is a lie,0.5
-A lie?,うそ？,lie?,0.6666666666666666
+I did not listen yet",0.15789473684210525,0.31170756
+That is a lie.,それは うそだ,It is a lie,0.5,0.81429315
+A lie?,うそ？,lie?,0.6666666666666666,0.784543
 "The transmutation circle that
 was left in Dante-san's house...","ダンテさんの屋敷に残されていた
 錬成陣は","It was left in Dante's house
-The smelter",0.42857142857142855
+The smelter",0.42857142857142855,0.54615456
 "Greed should not have been able
 to take action against Dante-san.","グリードはダンテさんに
 手出しできなかったはずだ","Greed is Dante
-It should not be possible to get out",0.21052631578947367
+It should not be possible to get out",0.21052631578947367,0.6965728
 "But supposing that what was there
 was nothing more than a shell","魂の抜け殻にすぎなかった
 としたら…","It was only a shell of the soul
-If so ...",0.15789473684210525
-What are you saying?,何を言うの？,What do you say?,0.42857142857142855
+If so ...",0.15789473684210525,0.6555662
+What are you saying?,何を言うの？,What do you say?,0.42857142857142855,0.74082977
 "Suppose there were people who used
 the power of the Philosopher's Stone...","賢者の石の力で
 肉体から肉体に乗り移り","With the power of the sage
-Transfer the body from the body",0.16666666666666666
+Transfer the body from the body",0.16666666666666666,0.25107536
 "...to move from one body to another,
 and who have lived for hundreds of years.","何百年も生きている人間が
 いるとしたら…","Hundreds of years have lived people
-If you say ...",0.2857142857142857
+If you say ...",0.2857142857142857,0.46835202
 "Back there, you made it
 look like you were dead,","あのとき
 あんたは死んだように見せかけて","at that time
-I will show you like it's dead",0.23529411764705882
+I will show you like it's dead",0.2352941176470588,0.4513058
 "and then took over Lyra's body.
-Isn't that right!?",そうじゃないのか？,Isn't it so?,0.1875
-"Ed, stop! I am--",エド！ やめて　私は…,Ed!Stop me ...,0.3333333333333333
-"When did you see the gate, Lyra?",いつ門を見た？ ライラ,When did you see the gate?Irie,0.7
+Isn't that right!?",そうじゃないのか？,Isn't it so?,0.1875,0.22565506
+"Ed, stop! I am--",エド！ やめて　私は…,Ed!Stop me ...,0.3333333333333333,0.78704846
+"When did you see the gate, Lyra?",いつ門を見た？ ライラ,When did you see the gate?Irie,0.7,0.6699103
 "You transmuted without
-a transmutation circle.",錬成陣なしで錬成した…,I was smelted without a smelting team ...,0.15384615384615385
-"That's my answer, Dante!",それが答えだ！ ダンテ,That's the answer!Dante,0.625
+a transmutation circle.",錬成陣なしで錬成した…,I was smelted without a smelting team ...,0.15384615384615385,0.18692666
+"That's my answer, Dante!",それが答えだ！ ダンテ,That's the answer!Dante,0.625,0.94377506
 "When did you figure it out, Edward Elric?","いつ分かったの？
 エドワード･エルリック","When did you understand?
-Edward Erlick",0.4166666666666667
-Then it's true?,本当なんだな…,It's true ...,0.5
-I've really come to like this body.,なかなか気に入ってるわ この体,I like this body,0.4444444444444444
+Edward Erlick",0.4166666666666667,0.6138171
+Then it's true?,本当なんだな…,It's true ...,0.5,0.46248895
+I've really come to like this body.,なかなか気に入ってるわ この体,I like this body,0.4444444444444444,0.721471
 "After all, I have to use
 the Philosopher's Stone each time.","だって その度に賢者の石を
 使わなくちゃいけないのよ","Because of the sage stones each time
-I have to use it",0.3684210526315789
+I have to use it",0.3684210526315789,0.58867615
 "Did you wipe out the residents of this
 city to make your Philosopher's Stone?","この街の住民を消し去って
 賢者の石を作った？","Erasing the residents of this city
-Did you make a sage stone?",0.5263157894736842
+Did you make a sage stone?",0.5263157894736842,0.803272
 "Yes, the same as with the nation to
 the east, which was destroyed overnight.","かつて
 一晩で消滅した東の国もそう","Once
-East countries that disappeared overnight",0.1111111111111111
+East countries that disappeared overnight",0.1111111111111111,0.5976704
 "I should mention, though,
 that I was not the one who made them.","言っておくけど
 作ったのは私じゃないわ","I will say
-I'm not me who made it",0.21052631578947367
-Hohenheim of Light...,光のホーエンハイム…,Light Hohenheim ...,0.75
+I'm not me who made it",0.21052631578947367,0.56066704
+Hohenheim of Light...,光のホーエンハイム…,Light Hohenheim ...,0.75,0.9404663
 "You shouldn't address
 your own father like that.","自分の父親のことを
 そんなふうに呼んではいけないわ","Those father
-Don't call it like that",0.2857142857142857
+Don't call it like that",0.2857142857142857,0.5890963
 "So he has prolonged his life
 the same way? For what reason?","あいつも
 同じように生き長らえてきたのか","Always
-Did you live in the same way?",0.2222222222222222
-Because we deserve to.,我々には その価値があるから,Because we have that value,0.25
+Did you live in the same way?",0.2222222222222222,0.23623575
+Because we deserve to.,我々には その価値があるから,Because we have that value,0.25,0.5832629
 "You covertly create
-the Philosopher's Stone",コソコソと賢者の石を作り,Create a stone of Kosokoso and a wise man,0.15384615384615385
+the Philosopher's Stone",コソコソと賢者の石を作り,Create a stone of Kosokoso and a wise man,0.15384615384615385,0.52583766
 "Humans cannot use
-the Philosopher's Stone.",人間が賢者の石に近づかないように,Do not approach the sage's stone,0.3333333333333333
+the Philosopher's Stone.",人間が賢者の石に近づかないように,Do not approach the sage's stone,0.3333333333333333,0.4586926
 "...that you will be destroyed if you get
 too close to the Philosopher's Stone?","近づくと滅びるという伝説を
 残すのか？","The legend that gets destroyed
-Do you leave?",0.25
+Do you leave?",0.25,0.36821303
 "we take it from them at the last minute,
 and use it carefully.","それでも近づいた者からは
 ぎりぎりで取り上げて 大切に使う","From the person who is still approaching
-Take up and use it carefully",0.35
+Take up and use it carefully",0.35,0.5849742
 "if they were given a
 Philosopher's Stone, right?","だって 人間に
 賢者の石なんか与えておいたら","Because it is human
-If you give a wise man's stone",0.21052631578947367
+If you give a wise man's stone",0.21052631578947367,0.48801655
 "I do it to keep foolish people
 from destroying the world.","私は この世界を愚かな人間が
 壊さないためにしているのよ","I am stupid people
-I'm not destroying",0.1875
+I'm not destroying",0.1875,0.41875535
 "You could say that I have extended
 my life to protect the world.","生き長らえて
 世界を守っていると言ってもいいわ","Lively
-It may be said that you are protecting the world",0.19047619047619047
-"Cut the crap! You're human, too!",ふざけるな！ お前も人間だ！,Do not be silly!You are also a human being!,0.17647058823529413
-Lust!,ラスト〜！,last~!,0.3333333333333333
+It may be said that you are protecting the world",0.19047619047619047,0.61442477
+"Cut the crap! You're human, too!",ふざけるな！ お前も人間だ！,Do not be silly!You are also a human being!,0.17647058823529413,0.54889953
+Lust!,ラスト〜！,last~!,0.3333333333333333,0.25996223
 "I was looking forward to
 entering this girl's body,","ホーエンハイムの息子と
 恋をしてみるのが楽しみだったのに","Hohenheim's son
-I was looking forward to seeing in love",0.375
-"Rose's body is next, is it!?",今度は ロゼの体か！,Now the body of Rose!,0.25
+I was looking forward to seeing in love",0.375,0.30554372
+"Rose's body is next, is it!?",今度は ロゼの体か！,Now the body of Rose!,0.25,0.816326
 "Yes. I have obtained a
-Philosopher's Stone again, and all...",賢者の石も また手に入ったし,Sorcerer's stone was also obtained again,0.23529411764705882
-Al!? Where is Al!?,アル… アルはどこだ？,Al ... Where is Al?,0.6666666666666666
-Where's Lust!? What happened to Lust!?,ラストは？ ラストは どうしたの？,What is the last?What happened to the last?,0.36363636363636365
+Philosopher's Stone again, and all...",賢者の石も また手に入ったし,Sorcerer's stone was also obtained again,0.2352941176470588,0.6070073
+Al!? Where is Al!?,アル… アルはどこだ？,Al ... Where is Al?,0.6666666666666666,0.9358369
+Where's Lust!? What happened to Lust!?,ラストは？ ラストは どうしたの？,What is the last?What happened to the last?,0.3636363636363637,0.18947124
 "Try asking him, Gluttony.","そいつに聞いてみなさい
 グラトニー","Ask me
-Gratony",0.0
-She's dead. And it was my fault.,俺のせいだ,My fault,0.2222222222222222
-Lust... is dead?,死んだ…,Dead ...,0.4
+Gratony",0.0,0.27399504
+She's dead. And it was my fault.,俺のせいだ,My fault,0.2222222222222222,0.4809907
+Lust... is dead?,死んだ…,Dead ...,0.4,0.39011103
 Yeah. Your pal Wrath sealed her up.,"お前らの仲間のラースが
 封印しちまった","Your fellow rath
-Sealed",0.2
-Gluttony?,グラトニー？,Gratony?,0.3333333333333333
-Gluttony!,グラトニー！,Gratony!,0.3333333333333333
-I knew it.,やっぱりな…,I knew it…,0.4
+Sealed",0.2,0.35371152
+Gluttony?,グラトニー？,Gratony?,0.3333333333333333,0.43751773
+Gluttony!,グラトニー！,Gratony!,0.3333333333333333,0.50438285
+I knew it.,やっぱりな…,I knew it…,0.4,0.86749476
 "Repeatedly bonding just your soul is not
 something you can continue doing forever.","魂だけを定着し続けるなんて
 いつまでも続くもんじゃない","It will continue to establish only the soul
-It does not last forever",0.18181818181818182
+It does not last forever",0.18181818181818185,0.5941455
 "Equivalent exchange? Do you still
 believe in that childish theory?","まだ そんな子供の理屈を
 信じてるの？","Still such child's behavior
-Do you believe?",0.3333333333333333
+Do you believe?",0.3333333333333333,0.34443972
 "It's no theory! It's the law of alchemy--
-no, of the whole world!",いや この世界の原則だ,"No, the principle of this world",0.3333333333333333
+no, of the whole world!",いや この世界の原則だ,"No, the principle of this world",0.3333333333333333,0.46475837
 "You're the one who said so, aren't you?","あんただって
 そう言ってたじゃないか","Any
-You said that so",0.23076923076923078
+You said that so",0.2307692307692308,0.4203484
 "That in order to obtain anything,
 it requires something of equal value?","何かを得るためには
 同等の代価が必要になる","To get something
-Equivalent of equivalent",0.1875
+Equivalent of equivalent",0.1875,0.45968652
 "That's something that
-only a child would say.",子供に限って言うものよ,I say only children,0.18181818181818182
+only a child would say.",子供に限って言うものよ,I say only children,0.18181818181818185,0.5359739
 "However, there's no such thing
-as equivalent exchange.",でもね 等価交換なんてないわ,But there is no equivalence exchange,0.21428571428571427
-That's absurd!,バカな！,stupid!,0.2
+as equivalent exchange.",でもね 等価交換なんてないわ,But there is no equivalence exchange,0.21428571428571427,0.77143687
+That's absurd!,バカな！,stupid!,0.2,0.45189855
 "There is a cost required in order
-for you to obtain something...",何かを得るためには代価が必要…,Pretend to get something to get something ...,0.2
+for you to obtain something...",何かを得るためには代価が必要…,Pretend to get something to get something ...,0.2,0.26847246
 "In that case, if you reverse it--
 if you pay a price--","だったら 逆に 代価を払えば
 必ず何かを得られるのね？","If it was, pay the price reverse
-Are you sure you get something?",0.3684210526315789
+Are you sure you get something?",0.3684210526315789,0.6558882
 "That's right. That's why people
 put forth an effort to pay the price.","だから 人は
 その代価を払うために努力する","So people are
-Strive to pay for the price",0.2777777777777778
+Strive to pay for the price",0.2777777777777778,0.7389103
 "But there's something
-strange about that.",でも 変ね…,But strange ...,0.2222222222222222
+strange about that.",でも 変ね…,But strange ...,0.2222222222222222,0.62642133
 "After all, even if you
-pay the same price,",だって 同じ代価を払っても,Even if you pay the same price,0.7
+pay the same price,",だって 同じ代価を払っても,Even if you pay the same price,0.7,0.8641746
 "you can't always necessarily
-obtain the same thing.",同じものが得られるとは限らないわ,It does not always get the same thing,0.2857142857142857
-"Well, that's...",それは…,that is…,0.16666666666666666
-"There's the State Alchemist Exam, right?",国家錬金術師試験ってあったわね,There was a national alchemist test,0.15384615384615385
+obtain the same thing.",同じものが得られるとは限らないわ,It does not always get the same thing,0.2857142857142857,0.6133654
+"Well, that's...",それは…,that is…,0.16666666666666666,0.41298762
+"There's the State Alchemist Exam, right?",国家錬金術師試験ってあったわね,There was a national alchemist test,0.15384615384615385,0.7397109
 "In order to pass it, many people
 spend time studying. That's a cost.","それに通るために
 何人もが勉強に時間を費やす","To pass it
-Some people spend time to study",0.3333333333333333
+Some people spend time to study",0.3333333333333333,0.8310448
 "Everyone may start out the same
 when they learn alchemy,","そもそも
 錬金術は同じように学んでも","in the first place
-Alchemy learn the same way",0.26666666666666666
+Alchemy learn the same way",0.26666666666666666,0.8226831
 "And people's lives are
-not all equal, either.",そして 人の命も平等ではない,And people's lives are not equal,0.6363636363636364
-Stop!,やめろ！,Stop!,1.0
+not all equal, either.",そして 人の命も平等ではない,And people's lives are not equal,0.6363636363636364,0.95989263
+Stop!,やめろ！,Stop!,1.0,1.0000007
 "It really would be easy
-for me to kill it.",本当に簡単に殺すことができる,I can really easily kill,0.15384615384615385
+for me to kill it.",本当に簡単に殺すことができる,I can really easily kill,0.15384615384615385,0.6427603
 "If I do, was the baby born
 only in order to die?","なら その子は
 ただ死ぬために産まれてきたの？","Then the child
-Just have been born to die?",0.2631578947368421
+Just have been born to die?",0.2631578947368421,0.6912135
 "The baby is paying the price
-of desperately trying to survive.",そのままじゃ 赤ん坊は死ぬわね,The baby will die as it is,0.2
+of desperately trying to survive.",そのままじゃ 赤ん坊は死ぬわね,The baby will die as it is,0.2,0.6671211
 "Yet, is death the only thing
-it is going to get for that?",でも それで得られるのは死だけ？,But only the death can be obtained?,0.2222222222222222
+it is going to get for that?",でも それで得られるのは死だけ？,But only the death can be obtained?,0.2222222222222222,0.63831735
 "there are people that kill others,
 and continue to go on living.","一方で 人を殺しても
 生き延びている者はいるわ","On the other hand killing people
-There are people who survive",0.2
+There are people who survive",0.2,0.7602576
 "No matter how hard you may try to live,
 when it's time for you to die, you die.","どんなに生きるための努力をしても
 人は死ぬときには死ぬ","No matter how much you live
-People die when they die",0.35
+People die when they die",0.35,0.6241311
 "yet are afforded riches and power,
 and live lives of happiness,","何の努力もせず
 富や権力に恵まれて","Any effort
-Blessed with wealth and power",0.125
+Blessed with wealth and power",0.125,0.56574017
 "it's quite unfair, isn't it?
-The world is quite cruel.",随分と不公平ね,It is quite unfair,0.3333333333333333
+The world is quite cruel.",随分と不公平ね,It is quite unfair,0.3333333333333333,0.71769965
 "Which is why you might
-say it's so beautiful.",それ故に美しいとも言えるけれど,Therefore it can be said that it is beautiful,0.1875
-Cut the sophistry!,詭弁はやめろ！,Stop the 詭!,0.3333333333333333
+say it's so beautiful.",それ故に美しいとも言えるけれど,Therefore it can be said that it is beautiful,0.1875,0.74789995
+Cut the sophistry!,詭弁はやめろ！,Stop the 詭!,0.3333333333333333,0.33298886
 "Equivalent exchange is an excuse that
 the weak use to comfort themselves.","等価交換というのは
 弱者が自分を慰める言い訳なのよ","Equivalence exchange
-The weak is an excusation that comforts me",0.35294117647058826
+The weak is an excusation that comforts me",0.35294117647058826,0.6854298
 "This baby doesn't have
 to make any excuses!","この子は
 言い訳する必要なんてない！","This child
-I do not need to say!",0.1875
+I do not need to say!",0.1875,0.5476395
 "You're his son, all right.","代価を支払えば 自分は
 もっと幸せになれるはずなのにと…","If you pay the fee,
-I should be more happy ...",0.1111111111111111
-Yowch...,うっ… 痛え,Uh ... hurts,0.25
-What is this? What's going on here?,何がどうなってるんだ？,What is it?,0.3333333333333333
-Who is this?,誰だ？ これ…,Who?this…,0.4
-Edward-kun!,待てよ！,Wait!,0.3333333333333333
-What are you doing!? It's an air raid!,何をしている？ 空襲だ！,What are you doing?It is an air raid!,0.8333333333333334
-Hurry up!,早くしろ！,hurry up!,1.0
+I should be more happy ...",0.1111111111111111,0.1317629
+Yowch...,うっ… 痛え,Uh ... hurts,0.25,0.289512
+What is this? What's going on here?,何がどうなってるんだ？,What is it?,0.3333333333333333,0.2582407
+Who is this?,誰だ？ これ…,Who?this…,0.4,0.50563073
+Edward-kun!,待てよ！,Wait!,0.3333333333333333,0.24263407
+What are you doing!? It's an air raid!,何をしている？ 空襲だ！,What are you doing?It is an air raid!,0.8333333333333334,0.98578227
+Hurry up!,早くしろ！,hurry up!,1.0,0.9999999
 "''Pop''? Edward-kun,
-what are you talking about?",エドワード君 何を言ってるんだ？,Edwards What are you saying?,0.3333333333333333
+what are you talking about?",エドワード君 何を言ってるんだ？,Edwards What are you saying?,0.3333333333333333,0.23870137
 "What is this place!?
-What's happened to me!?",何なんだ？ ここは…,what's that? here…,0.25
-My face... my hand?,この顔は… 手は！,This face is ... hand!,0.375
+What's happened to me!?",何なんだ？ ここは…,what's that? here…,0.25,0.20491804
+My face... my hand?,この顔は… 手は！,This face is ... hand!,0.375,0.73094535
 "Are you Edward, my son?","お前… 私の息子の
 エドワードか？","You're ... of my son
-Edward?",0.5
-Of course I am!,当たり前だろ！,of course!,0.6
-What are you doing here?,どうして ここにいる？,Why are you here?,0.5714285714285714
-Let's go! They're coming!,行くぞ！ ヤツらが来る,let's go!The guy will come,0.36363636363636365
-"Who do you mean, ''they''!?",ヤツらって？,Do you get rid of it?,0.21428571428571427
-Zeppelins?,ツェッペリン？,Zeppelin?,0.3333333333333333
-Episode 50; ''Death'',第50話「死」,"Episode 50 ""Death""",0.8333333333333334
+Edward?",0.5,0.9239044
+Of course I am!,当たり前だろ！,of course!,0.6,0.5873436
+What are you doing here?,どうして ここにいる？,Why are you here?,0.5714285714285714,0.60762745
+Let's go! They're coming!,行くぞ！ ヤツらが来る,let's go!The guy will come,0.3636363636363637,0.6096425
+"Who do you mean, ''they''!?",ヤツらって？,Do you get rid of it?,0.21428571428571427,0.0577212
+Zeppelins?,ツェッペリン？,Zeppelin?,0.3333333333333333,0.9326183
+Episode 50; ''Death'',第50話「死」,"Episode 50 ""Death""",0.8333333333333334,0.9689444

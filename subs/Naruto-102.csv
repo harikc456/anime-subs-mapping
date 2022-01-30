@@ -1,11 +1,11 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 <i>We are Fighting Dreamers aiming high</i>,"♬
  We are Fighting Dreamers
 高みを目指して
 
 ","♬
  We ARE Fighing Dreamers
-Aiming for heights",0.2857142857142857
+Aiming for heights",0.2857142857142857,0.7311154
 "<i>Fighting Dreamers</i>
 <i>follow what they believe</i>","♬
  Fighting Dreamers
@@ -13,7 +13,7 @@ Aiming for heights",0.2857142857142857
 
 ","♬
  Fighting Dreamers
-Indeed",0.16666666666666666
+Indeed",0.16666666666666666,0.7113181
 <i>Oli Oli Oli Oh! Just go my way</i>,"♬
  Oli Oli Oli Oh-
 ！
@@ -24,7 +24,7 @@ Just go my way
  OLI OLI OLI OH-
 !
 Just Go My Way
-!",0.46153846153846156
+!",0.4615384615384616,0.86280525
 "<i>Right here right now </i>
 <i>Hit it straight like a line drive!</i>","♬
  Right here Right now(Bang
@@ -38,14 +38,14 @@ Just Go My Way
  RIGHT HERE RIGHT NOW 
 Leaning
  Like A
-Bullet Liner!",0.3157894736842105
+Bullet Liner!",0.3157894736842105,0.44207105
 <i>Right here right now </i>,"♬
  Right here Right now(Burn
 ！
 )
 
 ","♬
- RIGHT HERE RIGHT NOW",0.375
+ RIGHT HERE RIGHT NOW",0.375,0.6541096
 "<i>Down a difficult road</i>
 <i>filled with endless struggles</i>","♬
  
@@ -53,7 +53,7 @@ Bullet Liner!",0.3157894736842105
 
 ","♬
  
-In the road of steep shura",0.05555555555555555
+In the road of steep shura",0.05555555555555555,0.3804589
 "<i>Where do you think you are going</i>
 <i>following someone else's map?</i>","♬
  
@@ -63,7 +63,7 @@ In the road of steep shura",0.05555555555555555
 ","♬
  
 Spread the map of others
-Where do you go?",0.22727272727272727
+Where do you go?",0.2272727272727273,0.6851642
 "<i>Now open your eyes and</i>
 <i>take a look at the truth </i>","♬
  
@@ -75,7 +75,7 @@ Where do you go?",0.22727272727272727
  
 Saya no eyes
  
-Open",0.1111111111111111
+Open",0.1111111111111111,0.40009788
 "<i>There's nothing to lose,</i>
 <i>so let's GO!!!</i>","♬
  
@@ -83,7 +83,7 @@ Open",0.1111111111111111
 
 ","♬
  
-I do not have to lose anything",0.15789473684210525
+I do not have to lose anything",0.15789473684210525,0.5800125
 "<i>Right here right now </i>
 <i>We're gonna do it and do our best!</i>","♬
  Right here Right now(Burn
@@ -97,7 +97,7 @@ I do not have to lose anything",0.15789473684210525
  RIGHT HERE RIGHT NOW 
 I'm sorry
  Get the fire
-!",0.21739130434782608
+!",0.21739130434782608,0.3699327
 "We're almost at
 the Village Hidden in the Leaves.","(
 大政
@@ -108,7 +108,7 @@ the Village Hidden in the Leaves.","(
 
 ","It's already a village of Hidden Wood
 .
-➡",0.17647058823529413
+➡",0.17647058823529413,0.5924323
 "Big Brother Omasa,
 we're missing one!","(
 男性１
@@ -121,7 +121,7 @@ we're missing one!","(
 ","Great wife's brother
  
 One person
-.",0.14285714285714285
+.",0.14285714285714285,0.3584224
 It's Idate! Morino Idate!,"(
 男性２
 )
@@ -133,7 +133,7 @@ It's Idate! Morino Idate!,"(
 ","Idate ...
  
 It is Morino Idate
-.",0.375
+.",0.375,0.9276839
 "What should we do?
 Shall we wait?","どうします？
  
@@ -141,7 +141,7 @@ Shall we wait?","どうします？
 
 ","What do you do?
  
-Would you like to wait?",0.36363636363636365
+Would you like to wait?",0.3636363636363637,0.6039195
 What the?!,"(
 大政
 )
@@ -151,13 +151,13 @@ What the?!,"(
 
 ","what?
  
-What?",0.5
+What?",0.5,0.5918613
 "You people are from the Wasabi Family
 of the Land of Tea, correct?","(ｱｵｲ)茶ノ国
 ワサビ一家の皆さんですね？
 
 ","Tea country
-Is it everyone of the Wasabi family?",0.35294117647058826
+Is it everyone of the Wasabi family?",0.35294117647058826,0.90636927
 Who are you!,"(
 大政
 )
@@ -167,7 +167,7 @@ Who are you!,"(
 
 ","You
  
-Who are you!?",0.8
+Who are you!?",0.8,0.6872631
 You should know your place.,"(
 大政
 )
@@ -177,7 +177,7 @@ You should know your place.,"(
 
 ","Nervous
 .
-➡",0.125
+➡",0.125,0.06082721
 "Please don't worry.
 I won't take your lives.","ご安心ください
 命までは取りません
@@ -187,21 +187,21 @@ I won't take your lives.","ご安心ください
 ","Please rest assured
 It does not take to life
 .
-➡",0.16666666666666666
+➡",0.16666666666666666,0.5483965
 "If you've learned from this,","これに懲りたら
 轟大社のレースは➡
 
 ","If this is scolded
-The race of the company",0.15384615384615385
+The race of the company",0.15384615384615385,0.1905052
 "you should give up the race
 at Todoroki Great Shrine.","諦めることですね
 ｡
 
 ","It is to give up
-.",0.21428571428571427
+.",0.21428571428571427,0.25032347
 Blast it!,"あっ！
 
-",Ah!,0.25
+",Ah!,0.25,0.17905574
 "I have to at least deliver this letter
 to the Hidden Leaf Village.","この手紙だけでも
 木ノ葉の里に届けなくては
@@ -209,7 +209,7 @@ to the Hidden Leaf Village.","この手紙だけでも
 
 ","Even this letter
 Without delivering to the village of the tree
-.",0.3333333333333333
+.",0.3333333333333333,0.7716233
 "OK! Mission! Mission!
 I'm so eager to do it!","(ﾅﾙﾄ)
 ンフフフ！
@@ -224,7 +224,7 @@ Oh!
  
 mission
  
-mission!",0.16666666666666666
+mission!",0.16666666666666666,0.59916216
 But Kakashi Sensei is not here.,"(ｻｸﾗ)
 でも
  
@@ -234,36 +234,36 @@ But Kakashi Sensei is not here.,"(ｻｸﾗ)
 ","but
  
 There is no Kakashi teacher
-.",0.4
+.",0.4,0.6054141
 Is he late as usual?,"もう
  
 またいつもの遅刻か？
 
 ","Already
  
-Is it still late?",0.3333333333333333
+Is it still late?",0.3333333333333333,0.5124264
 It's Old Lady Tsunade!,"おっ！
  
 綱手のばあちゃん！
 
 ","Oh!
  
-Tsuggu's grandma!",0.2222222222222222
+Tsuggu's grandma!",0.2222222222222222,0.63102955
 Don't call me an old lady!,"(
 綱手
 )
 ばあちゃん言うな！
 
-",Don't say it!,0.3
+",Don't say it!,0.3,0.29140133
 "What do you mean by
 Kakashi Sensei will not be coming?","カカシ先生が来ないって
 どういうことですか？
 
 ","Mr. Kakashi does not come
-what do you mean?",0.4666666666666667
+what do you mean?",0.4666666666666667,0.7495434
 "As you three already know,","お前たちも知ってのとおり➡
 
-",As you also know you,0.42857142857142855
+",As you also know you,0.42857142857142855,0.6035239
 "most of the Jonin including Kakashi
 are on different missions.","カカシを含む上忍のほとんどは
 別の任務に就いている
@@ -273,7 +273,7 @@ are on different missions.","カカシを含む上忍のほとんどは
 ","Most of Kakashi Kakashi
 I'm getting another task
 .
-➡",0.23529411764705882
+➡",0.2352941176470588,0.5052897
 "This time, the three of you will have
 to execute the mission by yourselves.","今回は
  
@@ -285,7 +285,7 @@ to execute the mission by yourselves.","今回は
  
 Only three people
 Get the task
-.",0.2631578947368421
+.",0.2631578947368421,0.56533307
 "This is a B rank mission,
 escorting an important figure!","内容はＢランク任務
  
@@ -295,7 +295,7 @@ escorting an important figure!","内容はＢランク任務
 ","Content is B rank mission
  
 It is a human guard
-.",0.29411764705882354
+.",0.29411764705882354,0.64981997
 "Of course,
 depending on the situation,","(
 綱手
@@ -314,14 +314,14 @@ Depending on the situation
 A rank
  
 It is a task that can be
-.",0.375
+.",0.375,0.45616534
 "And, who are we protecting?","で
  
 誰を守るんだ？
 
 ","and
  
-Who keeps it?",0.3333333333333333
+Who keeps it?",0.3333333333333333,0.44610095
 "In the neighboring nation
 of the Land of Tea,","どういうことだってばよ？
 隣国
@@ -331,7 +331,7 @@ of the Land of Tea,","どういうことだってばよ？
 ","What does that mean?
 Neighboring country
  
-In the tea country",0.2857142857142857
+In the tea country",0.2857142857142857,0.8323004
 once every four years.,"４年に一度
  
 轟大社の
@@ -344,7 +344,7 @@ once every four years.,"４年に一度
 Motoya
 There is a votive ceremony
 .
-➡",0.21428571428571427
+➡",0.21428571428571427,0.418547
 "We've received a request
 to escort the runner","護衛する依頼を受けた
 ｡
@@ -352,20 +352,20 @@ to escort the runner","護衛する依頼を受けた
 
 ","Received a request to escort
 .
-➡",0.45454545454545453
+➡",0.4545454545454545,0.6474309
 "who will be participating in
 the race that will be held there.","そこで行われるレースに
 出場する走者を➡
 
 ","In the race that takes place there
-Runner who participates",0.4
+Runner who participates",0.4,0.66144276
 But an assailant from the opponent's side,"対戦相手の刺客に
 やられてしまったんだ
 ｡
 
 ","For the opponent's holiday
 I was killed
-.",0.21428571428571427
+.",0.21428571428571427,0.29931483
 "attacked the messengers
 before they arrived here.","だが
  
@@ -375,10 +375,10 @@ before they arrived here.","だが
 ","But
  
 The ingredients are
-Before coming here",0.25
+Before coming here",0.25,0.25552508
 Assailant?,"刺客？
 
-",Thistal?,0.3333333333333333
+",Thistal?,0.3333333333333333,0.25648823
 That's it.,"(
 綱手
 )
@@ -394,7 +394,7 @@ If you understand
  
 Departure immediately
 .
-➡",0.3333333333333333
+➡",0.3333333333333333,0.16128746
 "Get to the Land of Tea by today.
 Snap to it!","茶ノ国の次郎長親分に
 直接
@@ -406,7 +406,7 @@ Snap to it!","茶ノ国の次郎長親分に
 Direct
  
 Hearing
-.",0.1875
+.",0.1875,0.4291166
 "- Yes!
 - All right.","はい！
 お…
@@ -416,10 +416,10 @@ Hearing
 ","Yes!
 Oh…
  
-King!",0.25
+King!",0.25,0.4235399
 Roger that!,"了解したってばよ！
 
-",I understand that I understand!,0.4
+",I understand that I understand!,0.4,0.363578
 "<i>Mission! Help an Old Friend</i>
 <i>in the Land of Tea</i>","きょう中に
 茶ノ国まで着くんだよ
@@ -429,7 +429,7 @@ Roger that!,"了解したってばよ！
 ","In today
 I will arrive at Tenan
  
-hurry up!",0.13636363636363635
+hurry up!",0.13636363636363635,0.24572201
 "Hey Sakura, aren't you hungry?","ねぇ
  
 サクラちゃん
@@ -438,7 +438,7 @@ hurry up!",0.13636363636363635
 ","Hey
  
 Sakura-chan
-Is there not to be hungry?",0.21428571428571427
+Is there not to be hungry?",0.21428571428571427,0.8549415
 "Well, a little bit...","まぁ
  
 ちょっとはね
@@ -453,7 +453,7 @@ A little
 .
 Nominal
  
-Decision!",0.18181818181818182
+Decision!",0.18181818181818185,0.2605502
 "And perfect timing!
 There's a teahouse right over there!","あそこで
  
@@ -469,7 +469,7 @@ If you take a break
 .
 Oh ~
  
-Naruto!",0.2222222222222222
+Naruto!",0.2222222222222222,0.29676464
 Aoi Rokusho has now arrived.,"(ｱｵｲ)
 緑青アオイ
 ただいま参上いたしました
@@ -477,7 +477,7 @@ Aoi Rokusho has now arrived.,"(ｱｵｲ)
 
 ","Green blue Aoi
 I went out now
-.",0.2727272727272727
+.",0.2727272727272727,0.25757834
 "Is he still trying to take part
 in the race at Todoroki Great Shrine?","(ｱｵｲ)
 まだ
@@ -488,7 +488,7 @@ in the race at Todoroki Great Shrine?","(ｱｵｲ)
 ","not yet
  
 To the race of the company
-Are you trying to go out?",0.21739130434782608
+Are you trying to go out?",0.21739130434782608,0.2792529
 That's right.,"(
 九六
 )
@@ -498,7 +498,7 @@ That's right.,"(
 
 ","That's it
  
-And the guy",0.25
+And the guy",0.25,0.37745637
 "Then next time, let's beat them
 to a pulp at the race...","では
  
@@ -506,7 +506,7 @@ to a pulp at the race...","では
 
 ","In
  
-This time in the race",0.17647058823529413
+This time in the race",0.17647058823529413,0.5572891
 Then I'll have dumplings.,"(ｱｵｲ)
 分かりました
 ｡
@@ -514,7 +514,7 @@ Then I'll have dumplings.,"(ｱｵｲ)
 
 ","I understand
 .
-➡",0.25
+➡",0.25,0.17372075
 "How about you, Sasuke?","じゃあ
  
 あたし
@@ -527,7 +527,7 @@ Then I'll have dumplings.,"(ｱｵｲ)
 I
  
 Dango
-Sasuke?",0.2222222222222222
+Sasuke?",0.2222222222222222,0.74810964
 Jelly...,"(
 九六
 )
@@ -535,7 +535,7 @@ Jelly...,"(
 ｡
 
 ","Fuhufu ...
-.",0.25
+.",0.25,0.3433027
 "All right, please wait for a moment.","ところてん
 ｡
 はい
@@ -548,7 +548,7 @@ Jelly...,"(
 Yes
  
 please wait a little bit
-.",0.3076923076923077
+.",0.3076923076923077,0.35984918
 "Naruto, don't take unnecessary action
 by yourself.","ナルト
 勝手に１人で行動しないこと
@@ -556,7 +556,7 @@ by yourself.","ナルト
 
 ","Naruto
 Do not act alone
-.",0.23076923076923078
+.",0.2307692307692308,0.77917355
 "Having sweet bean soup
 when it's so nice outside.","(
 男性
@@ -569,7 +569,7 @@ when it's so nice outside.","(
 ","Such
  
 Nice weather
-Leisurely soup flour",0.13333333333333333
+Leisurely soup flour",0.13333333333333333,0.61660904
 "The Ninja profession sure
 is carefree!","(
 男性
@@ -580,7 +580,7 @@ is carefree!","(
 
 ","""Ke!
  
-Kino Leaves Ninja",0.18181818181818182
+Kino Leaves Ninja",0.18181818181818185,0.45428053
 "Things must really be peaceful
 for the Leaf Village.","(
 男性
@@ -593,10 +593,10 @@ for the Leaf Village.","(
 ","Yoji Kano leaves
 It will be peaceful
 .
-➡",0.1875
+➡",0.1875,0.45499372
 What?!,"何だ？
 
-",What?,0.6666666666666666
+",What?,0.6666666666666666,0.84850585
 "Hey! I didn't know there was
 such a cutie here.","何だ
  
@@ -608,7 +608,7 @@ such a cutie here.","何だ
  
 Such
 With Kawaiko-chan
-.",0.125
+.",0.125,0.08661988
 Ah... pardon me.,"うっ…
  
 はい…
@@ -617,7 +617,7 @@ Ah... pardon me.,"うっ…
 ","Uey ...
  
 Yes…
-.",0.2857142857142857
+.",0.2857142857142857,0.16291077
 I'm Idate Morino.,"俺は
  
 森乃イダテってんだ
@@ -626,14 +626,14 @@ I'm Idate Morino.,"俺は
 ","I am
  
 Morino Idata
-.",0.42857142857142855
+.",0.42857142857142855,0.88182795
 "What's your name, young lady?","お嬢さん
  
 あんたの名は？
 
 ","Grandmother
  
-What is your name?",0.4
+What is your name?",0.4,0.6602107
 "Don't you talk to Sakura
 in such a familiar tone!","てめぇ
  
@@ -643,7 +643,7 @@ in such a familiar tone!","てめぇ
 ","You
  
 To Sakura-chan
-It's not good!",0.17647058823529413
+It's not good!",0.17647058823529413,0.6821707
 Sakura... That's a good name.,"サクラかぁ
  
 いやぁ
@@ -656,23 +656,23 @@ Sakura... That's a good name.,"サクラかぁ
 Hey
  
 Good name
-.",0.4444444444444444
+.",0.4444444444444444,0.86232495
 "Hey, even a chance meeting is due
 to karma from a previous life.","ボケた面した野郎ばっかりだ
 ｡
 
 ","It is only a fan of bokeh
-.",0.15789473684210525
+.",0.15789473684210525,0.071457475
 Why don't we talk about our future?,"俺と将来の話でもしないか？
 
-",Aren't you a future story?,0.23076923076923078
+",Aren't you a future story?,0.2307692307692308,0.53431565
 Huh? Talk about... the future?,"えっ…
  
 将来の話？
 
 ","eh…
  
-Future story?",0.2222222222222222
+Future story?",0.2222222222222222,0.70308125
 Don't be silly!,"ふざけんな
  
 このボケ！
@@ -685,12 +685,12 @@ Don't be silly!,"ふざけんな
 This bokeh!
 That's why
  
-As a joke",0.2857142857142857
+As a joke",0.2857142857142857,0.55535525
 Idate here hates Ninja!,"このイダテ様はな
 忍者が大っ嫌ぇなんだよ！
 
 ","This Idate is
-The ninja is very hazard!",0.3
+The ninja is very hazard!",0.3,0.6651762
 "If you wander around
 the Land of Tea anymore,","これ以上
  
@@ -700,7 +700,7 @@ the Land of Tea anymore,","これ以上
 ","more than this
  
 In tea
-If you go out, if you go out",0.25
+If you go out, if you go out",0.25,0.56239533
 That's amusing! Bring it on!,"だから
  
 忍者なんぞ
@@ -711,7 +711,7 @@ That's amusing! Bring it on!,"だから
  
 Ninja
  
-Stop",0.2
+Stop",0.2,0.11096334
 "Hey, Naruto!","ちょっと
  
 ナルト！
@@ -722,7 +722,7 @@ Stop",0.2
  
 Naruto!
 Bullshit
-.",0.25
+.",0.25,0.7490755
 "Be quiet, Sasuke!","サスケは黙ってろ！
  
 忍を
@@ -731,20 +731,20 @@ Bullshit
 ","Sasuke shut up!
  
 Ninhen
-The guy who is stupid is noticed!",0.14285714285714285
+The guy who is stupid is noticed!",0.14285714285714285,0.6706837
 "I'm not going to forgive a guy
 who makes fun of Shinobi!","タダじゃ済まねえぞ！
 おもしれぇ！
 
 ","I'm sorry!
-I'm sorry!",0.2
+I'm sorry!",0.2,0.25705516
 I'm going to punish this guy...,"俺は
  
 こいつを懲らしめて…って➡
 
 ","I am
  
-Prompted this guy ...",0.4
+Prompted this guy ...",0.4,0.43560836
 Where did that guy run away to?!,"ん～…！
  
 どこに
@@ -757,7 +757,7 @@ Where did that guy run away to?!,"ん～…！
 where
 I went there!?
  
-that person!",0.2857142857142857
+that person!",0.2857142857142857,0.477767
 "Here, thank you for waiting.","はい
  
 お待ちどおさま
@@ -766,10 +766,10 @@ that person!",0.2857142857142857
 ","Yes
  
 I am waiting for you
-.",0.4
+.",0.4,0.54790694
 Dang it!,"くっそ～！
 
-",Clues ~!,0.2
+",Clues ~!,0.2,0.3014359
 Thank you for your patronage.,"(
 店員
 )
@@ -781,14 +781,14 @@ Thank you for your patronage.,"(
 ","Yes
  
 Thank you for every time
-.",0.4444444444444444
+.",0.4444444444444444,0.41685227
 What? Two bills?,"えっ
  
 ２枚？
 
 ","eh
  
-Two sheets?",0.3333333333333333
+Two sheets?",0.3333333333333333,0.41239032
 This is...?,"これって？
 あら
  
@@ -797,19 +797,19 @@ This is...?,"これって？
 ","is this?
 fault
  
-The child earlier",0.375
+The child earlier",0.375,0.20838372
 "Oh, that kid who was here left,
 saying that you guys would pay.","あんたらが払うって出てったよ
 ｡
 
 ","Anna was going to pay
-.",0.17647058823529413
+.",0.17647058823529413,0.39561507
 "<i>The sound of footsteps is far off...</i>
 <i>He has considerable speed!</i>","《足音が遠い…
 かなりのスピードだ》
 
 ","""Footsteps are far ...
-It's quite a speed",0.17391304347826086
+It's quite a speed",0.17391304347826084,0.7112697
 "I can't stay quiet.
 We have to chase him!","ここまでコケにされちゃあ
 黙ってらんねえ
@@ -817,7 +817,7 @@ We have to chase him!","ここまでコケにされちゃあ
 
 ","I'm here to here
 Shut up
-.",0.1875
+.",0.1875,0.28507683
 "Missus, thank you very much.
 I'll leave the money here.","ここに
  
@@ -831,7 +831,7 @@ I'll leave the money here.","ここに
 money
  
 Placing
-.",0.21428571428571427
+.",0.21428571428571427,0.37904903
 Thanks!,"だっ！
  
 あんにゃろう
@@ -844,7 +844,7 @@ Thanks!,"だっ！
 Lean
 Name
  
-Immediately!",0.2
+Immediately!",0.2,0.264211
 "He has incredible speed.
 He must have trained very hard.","大したスピードだ
 相当な訓練を積んでいるな
@@ -852,19 +852,19 @@ He must have trained very hard.","大したスピードだ
 
 ","It is a big speed
 Do not load considerable training
-.",0.10526315789473684
+.",0.10526315789473684,0.5635019
 Who is he?,"何者かしら？
 何だっていい！
 
 ","Anyone?
-What is it!",0.25
+What is it!",0.25,0.34612748
 "There's no way
 they can catch up to me!","俺に追いつけるもんか！
 
-",Come catch up with me!,0.3076923076923077
+",Come catch up with me!,0.3076923076923077,0.46658638
 Owww!,"うわ～！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.33611932
 "Darn it... Swift Runner Idate
 makes a mistake of a lifetime!","チックショ～！
 韋駄天のイダテ
@@ -876,28 +876,28 @@ makes a mistake of a lifetime!","チックショ～！
 Idate of Heavenly Heaven
  
 Lifetime
-.",0.23529411764705882
+.",0.2352941176470588,0.2670037
 Serves you right!,"絶対
  
 追いついてやるってばよ！
 
 ","absolutely
  
-If you get caught up!",0.2222222222222222
+If you get caught up!",0.2222222222222222,0.1697138
 I'm sorry...,"俺たちを出し抜こうなんて
 いい度胸してるな
 ｡
 
 ","Let us go out
 I'm not good
-.",0.18181818181818182
+.",0.18181818181818185,0.2889679
 Ow! Huh...?,"痛っ！
  
 ん？
 
 ","ow!
  
-Yeah?",0.5
+Yeah?",0.5,0.78419656
 What's this?,"何だ？
  
 これ
@@ -908,17 +908,17 @@ What's this?,"何だ？
  
 this
 .
-Do not touch!",0.3333333333333333
+Do not touch!",0.3333333333333333,0.22822382
 This is mine!,"これは俺のもんだ！
 
-",This is my deed!,0.5
+",This is my deed!,0.5,0.49775934
 Wh-What the...?!,"な…
  
 何だ？
 
 ","...
  
-What?",0.3333333333333333
+What?",0.3333333333333333,0.34434882
 On your mark.,"だったら
  
 はなから
@@ -929,7 +929,7 @@ On your mark.,"だったら
  
 Whine
 If you say so
-.",0.1111111111111111
+.",0.1111111111111111,0.22414503
 Go!,"(ｲﾀﾞﾃ)
 よ～い
  
@@ -937,10 +937,10 @@ Go!,"(ｲﾀﾞﾃ)
 
 ","~
  
-Don!",0.25
+Don!",0.25,0.44822505
 Weights?,"おもり？
 
-",Women?,0.3333333333333333
+",Women?,0.3333333333333333,0.2604159
 Hey! He escaped again!,"あっ！
  
 また逃げた！
@@ -949,13 +949,13 @@ Hey! He escaped again!,"あっ！
 ","Ah!
  
 I flew again!
-Annoya!",0.2222222222222222
+Annoya!",0.2222222222222222,0.4583944
 "That's it. We don't have a chance
 of catching up.","凝りないヤツだ
 ｡
 
 ","It's a tight guy
-.",0.26666666666666666
+.",0.26666666666666666,0.16353743
 "All of you, thanks for coming.","くっそ～
  
 今度会ったら
@@ -966,7 +966,7 @@ of catching up.","凝りないヤツだ
  
 If you meet this time
 I'm sorry I'm sorry
-.",0.11764705882352941
+.",0.1176470588235294,0.14594598
 "I was born and raised
 in the Leaf Village in the Land of Fire.","手前
  
@@ -982,7 +982,7 @@ I will issue a living country
 Country of fire
  
 Village of Kino Hagakure
-.",0.2857142857142857
+.",0.2857142857142857,0.41195765
 "I was bathed in birth water
 at ""Ichiraku Ramen.""","(
 次郎長
@@ -995,7 +995,7 @@ at ""Ichiraku Ramen.""","(
 ","Everyone
  
 I came well
-.",0.13333333333333333
+.",0.13333333333333333,0.2550919
 "My given name is Naruto
 and the surname is Uzumaki.","姓は
  
@@ -1009,7 +1009,7 @@ and the surname is Uzumaki.","姓は
 Dumpling
  
 Name is Naruto
-.",0.45454545454545453
+.",0.4545454545454545,0.71776676
 People call me...,"あ
  
 人呼んで…
@@ -1022,10 +1022,10 @@ People call me...,"あ
 Call me ...
 .
 Passuratonka
-.",0.42857142857142855
+.",0.42857142857142855,0.4425688
 Loser!,"ウスラトンカチ…って違う～！
 
-",Busla Tonka ... It's different ~!,0.1111111111111111
+",Busla Tonka ... It's different ~!,0.1111111111111111,0.1666859
 You're funny as usual.,"(
 次郎長
 )
@@ -1037,7 +1037,7 @@ You're funny as usual.,"(
 ","Hahaha ...!
  
 It is pleasant as usual
-.",0.25
+.",0.25,0.40360948
 "Boss Jirocho,
 you're looking good yourself.","お控ぇなすって
  
@@ -1047,7 +1047,7 @@ you're looking good yourself.","お控ぇなすって
 ","It is not good
  
 It is not good
-.",0.16666666666666666
+.",0.16666666666666666,0.1734833
 "The greetings seem to be done,
 so I'll get to the main topic.","あいさつは済んだようだから
 本題に入らせてもらう
@@ -1055,7 +1055,7 @@ so I'll get to the main topic.","あいさつは済んだようだから
 
 ","Because greeting seems to have been
 Get into the main subject
-.",0.23809523809523808
+.",0.2380952380952381,0.60189116
 "The Fifth Hokage told us to get
 the details of this mission from you.","五代目から任務の詳細は
 あんたに聞けと言われた
@@ -1063,7 +1063,7 @@ the details of this mission from you.","五代目から任務の詳細は
 
 ","Details of the fifth generation
 I was told that I could ask you
-.",0.35
+.",0.35,0.40769416
 "Yes, in fact...","うん
  
 実はな…
@@ -1074,7 +1074,7 @@ I was told that I could ask you
 
 ","Yes
 Actually ...
-.",0.2857142857142857
+.",0.2857142857142857,0.68511385
 "Do you know of the Dedication Ceremony
 at the Todoroki Great Shrine?","お前さんたちは
  
@@ -1084,7 +1084,7 @@ at the Todoroki Great Shrine?","お前さんたちは
 ","Yofu
  
 Motoya
-Do you know the princess of dedication?",0.4666666666666667
+Do you know the princess of dedication?",0.4666666666666667,0.4587909
 To... Todo... what?,"と…
  
 とど？
@@ -1095,7 +1095,7 @@ To... Todo... what?,"と…
  
 What is it?
  
-What?",0.25
+What?",0.25,0.18847515
 "A long time ago,
 in order to subdue a storm,","(
 次郎長
@@ -1106,7 +1106,7 @@ in order to subdue a storm,","(
 
 ","Long ago
  
-To put a storm",0.45454545454545453
+To put a storm",0.4545454545454545,0.8582306
 "Ryuko's Jewels were dedicated
 to the Todoroki Great Shrine","轟大社に
  
@@ -1116,7 +1116,7 @@ to the Todoroki Great Shrine","轟大社に
 ","To Mitsuno
  
 Ryuko's treasure ball
-Where to dedicate",0.2
+Where to dedicate",0.2,0.46566218
 and the storm subsided.,"嵐が収まったという伝説から
 始まったものなんだが
 ｡
@@ -1125,7 +1125,7 @@ and the storm subsided.,"嵐が収まったという伝説から
 ","From the legend that the storm has come
 It has begun
 .
-➡",0.23076923076923078
+➡",0.2307692307692308,0.47494075
 "It became a customary event
 that happens once every four years.","今では
  
@@ -1139,20 +1139,20 @@ that happens once every four years.","今では
 One time in 4 years
 It became a customary event
 .
-➡",0.3888888888888889
+➡",0.3888888888888889,0.8586257
 "At first, it was just to dedicate the jewels,
 but several decades ago,","最初は宝玉を
 奉納するだけだったが➡
 
 ","At first there is a treasure
-I just used to dedicate",0.25
+I just used to dedicate",0.25,0.37352675
 became the man of the year.,"それは一番手の者が
 年男となる祭りとなった
 ｡
 
 ","It is the best person
 It became a feast that became a year man
-.",0.38461538461538464
+.",0.38461538461538464,0.6067052
 "In recent years, the festival has
 taken on another face.","もう一つ
 別の顔を持つようになった
@@ -1162,7 +1162,7 @@ taken on another face.","もう一つ
 ","one more
 I came to have another face
 .
-➡",0.15789473684210525
+➡",0.15789473684210525,0.32502025
 "For ages now,
 in this port town of Degarashi,","ここ
  
@@ -1170,7 +1170,7 @@ in this port town of Degarashi,","ここ
 
 ","here
  
-In the Haruocho of the prefury",0.14285714285714285
+In the Haruocho of the prefury",0.14285714285714285,0.11094836
 "two families,
 the Wasabi and the Wagarashi,","古くから
  
@@ -1178,23 +1178,23 @@ the Wasabi and the Wagarashi,","古くから
 
 ","Since ancient times
  
-Wasabi family and ➡",0.16666666666666666
+Wasabi family and ➡",0.16666666666666666,0.7409001
 "It's embarrassing,","恥ずかしいことだが
 この２つの一家は争いが絶えず➡
 
 ","It's embarrassing
-These two families are constantly confusing ➡",0.2727272727272727
+These two families are constantly confusing ➡",0.2727272727272727,0.40485412
 "As the struggle intensified,","抗争が激化するにつれ
 街の住人が巻き込まれ➡
 
 ","As the anti-defense intensifies
-The residents of the city are caught up",0.15384615384615385
+The residents of the city are caught up",0.15384615384615385,0.15835947
 "In order to put a stop to the conflict,
 for the first time,","激化する抗争に
 終止符を打つため➡
 
 ","For the protection of intensifying
-To hit the end",0.17647058823529413
+To hit the end",0.17647058823529413,0.41624036
 "there was talk of some kind of mediation
 in the presence of the lord.","大名立ち会いの下
  
@@ -1206,7 +1206,7 @@ in the presence of the lord.","大名立ち会いの下
  
 first time
 The story of the hand was lifted
-.",0.21052631578947367
+.",0.21052631578947367,0.17858122
 So that contest is...,"つまり
  
 その競技というのが…
@@ -1215,14 +1215,14 @@ So that contest is...,"つまり
 ","in short
  
 That competition is ...
-.",0.3333333333333333
+.",0.3333333333333333,0.6662728
 that is held every four years.,"４年ごとに行われる
 轟大社の奉納の儀というわけだ
 ｡
 
 ","It takes place every four years
 It is said that the votive principal of the company
-.",0.375
+.",0.375,0.561938
 "Four years ago, the Wagarashi
 easily won by hiring a Shinobi,","(
 次郎長
@@ -1235,7 +1235,7 @@ easily won by hiring a Shinobi,","(
 ","Four years ago
  
 Hire Shinobu
-Wagarashi who woned",0.25
+Wagarashi who woned",0.25,0.88532406
 "and we have learned that
 they've hired a Shinobi again this year.","ことし
  
@@ -1249,7 +1249,7 @@ they've hired a Shinobi again this year.","ことし
 I hired Shinobu again
 Information
 .
-➡",0.2777777777777778
+➡",0.2777777777777778,0.726479
 "we sent messengers to
 the Hidden Leaf Village with a request,","そこで
  
@@ -1259,19 +1259,19 @@ the Hidden Leaf Village with a request,","そこで
 ","Therefore
  
 As a means of countermeasure
-Let's request the tree",0.15
+Let's request the tree",0.15,0.32797018
 but they were ambushed and attacked.,"待ち伏せをされ
 襲われてしまった
 ｡
 
 ","I'm waiting
 It was attacked
-.",0.16666666666666666
+.",0.16666666666666666,0.44329476
 Please lend us your power.,"わしらに力を貸してくれ
 このレース➡
 
 ","Please lend me power to others
-This race ➡",0.25
+This race ➡",0.25,0.6008655
 "We cannot afford to lose this race
 to the Wagarashi Family!","ワガラシ一家に
 負けるわけにはいかんのだ
@@ -1279,12 +1279,12 @@ to the Wagarashi Family!","ワガラシ一家に
 
 ","Wagarashi family
 I can not lose
-.",0.35714285714285715
+.",0.35714285714285715,0.7810188
 Leave it to me!,"この俺に任せろってばよ
 ｡
 
 ","If you leave this to me
-.",0.3333333333333333
+.",0.3333333333333333,0.6549721
 "And, who do you want us
 to escort?","で
  
@@ -1292,7 +1292,7 @@ to escort?","で
 
 ","and
  
-How do you escort?",0.45454545454545453
+How do you escort?",0.4545454545454545,0.68452156
 "Did you call for me, Boss?","(
 男性
 )
@@ -1304,7 +1304,7 @@ How do you escort?",0.45454545454545453
 ","did you call
  
 boss
-.",0.4444444444444444
+.",0.4444444444444444,0.80605894
 "Oh, you guys know each other?
 Then that makes the story fast.","何だ
  
@@ -1318,19 +1318,19 @@ Then that makes the story fast.","何だ
 Is it acquainted?
  
 If so, the story is early
-.",0.22727272727272727
+.",0.2272727272727273,0.44064742
 "That might not actually
 be the case...","そうでもないです…
 ｡
 
 ","Nothing ...
-.",0.1
+.",0.1,0.10380708
 Boss Jirocho is an important person!,"(ｲﾀﾞﾃ)
 次郎長親分は偉い人だぞ
 ｡
 
 ","Jiro-Nago parent is a great person
-.",0.16666666666666666
+.",0.16666666666666666,0.65297955
 "Even if he did bow his head,
 I'd flatly refuse to escort a guy like you.","ホントなら
  
@@ -1342,17 +1342,17 @@ I'd flatly refuse to escort a guy like you.","ホントなら
  
 You guys ninja
 I'm sorry to head down
-.",0.25
+.",0.25,0.19254902
 Oh yeah?!,"(ｲﾀﾞﾃ･ﾅﾙﾄ)
 あ～！
 
-",Oh!,0.5
+",Oh!,0.5,0.70106095
 "As if I'd go with some guy who came
 from who knows where!","どこの馬の骨とも分からねえ
 ようなヤツと一緒に走るなんざ➡
 
 ","Who knows the bones of the horse
-It runs with a guy",0.19047619047619047
+It runs with a guy",0.19047619047619047,0.24197336
 "I am the brilliant Ninja,
 Naruto Uzumaki,","この俺はな
  
@@ -1362,16 +1362,16 @@ Naruto Uzumaki,","この俺はな
 ","I am this
  
 Either
-Genius Ninja who inherits the name of fire shadow",0.23529411764705882
+Genius Ninja who inherits the name of fire shadow",0.2352941176470588,0.62258345
 Hah! Hokage is no big deal!,"火影なんか大したことねえよ！
 
-",It's a big deal!,0.3
+",It's a big deal!,0.3,0.378613
 "who puts his life on the line
 to protect the village!","火影っつうのはよ
 里を守るために命を張ってる➡
 
 ","It's a fire shadow
-Life is put in order to protect the village",0.25
+Life is put in order to protect the village",0.25,0.48903096
 "who always puts his life
 on the line to protect the town!","次郎長親分はな
  
@@ -1381,7 +1381,7 @@ on the line to protect the town!","次郎長親分はな
 ","Jiro-Naga's parent
  
 To protect the city
-I always have a life at any time",0.22727272727272727
+I always have a life at any time",0.2272727272727273,0.35745236
 "Hokage is more, more,
 more incredible!","立派な
  
@@ -1395,7 +1395,7 @@ more incredible!","立派な
 Admirable
 Admirable
  
-Thank you!",0.1111111111111111
+Thank you!",0.1111111111111111,0.22486953
 "<i>Even though it's a tourist resort,</i>
 <i>everything seems so expensive.</i>","すっげぇ
  
@@ -1405,7 +1405,7 @@ Thank you!",0.1111111111111111
 ","Souvenir
  
 Souvenir
-It's a shady!",0.15789473684210525
+It's a shady!",0.15789473684210525,0.2847071
 "Sorry about that.
 It sure is expensive, isn't it?","(
 店員
@@ -1430,7 +1430,7 @@ Ah
 home
  
 Such ...
-.",0.16666666666666666
+.",0.16666666666666666,0.20063074
 "We actually don't want to sell
 at this kind of price,","ホントは
  
@@ -1440,7 +1440,7 @@ at this kind of price,","ホントは
 ","Hont
  
 In such a price
-I do not want to sell it",0.25
+I do not want to sell it",0.25,0.6765785
 "but after the Wagarashi family
 came into power...","顔役が
 ワガラシ一家になってから…
@@ -1448,7 +1448,7 @@ came into power...","顔役が
 
 ","Face
 After becoming a wagarashi family ...
-.",0.3076923076923077
+.",0.3076923076923077,0.65133053
 P-Please forgive me!,"(
 男性１
 )
@@ -1470,13 +1470,13 @@ Forgive me
 
 Tiyan
 .
-➡",0.25
+➡",0.25,0.30769575
 "Do you know who you have
 to thank to do business?","誰のおかげで
 商売してられると思ってんだ？➡
 
 ","Who is thanks to
-Do you think it will be a business?➡",0.35294117647058826
+Do you think it will be a business?➡",0.35294117647058826,0.68739545
 "Are you actually thinking about turning
 against the Wagarashi Family?","まさか
  
@@ -1486,7 +1486,7 @@ against the Wagarashi Family?","まさか
 ","Masadish
  
 Wagarashi family
-Is it going to go to the other?",0.2222222222222222
+Is it going to go to the other?",0.2222222222222222,0.6229892
 "N-Not at all.
 But I have to get paid...","しかし
  
@@ -1496,7 +1496,7 @@ But I have to get paid...","しかし
 ","However
  
 If you do not have your age ...
-.",0.16666666666666666
+.",0.16666666666666666,0.23238108
 "Huh! First of all, we'll destroy you...","まずは
  
 お前から
@@ -1505,7 +1505,7 @@ If you do not have your age ...
 ","First
  
 From you
-I will beat it!",0.1875
+I will beat it!",0.1875,0.47476578
 "- What?!
 - What?!","な…
  
@@ -1519,7 +1519,7 @@ I will beat it!",0.1875
 What?
  
 you
-.",0.2857142857142857
+.",0.2857142857142857,0.58016366
 "These people are from
 the Wagarashi...","この人たちはワガラシ一家の…
 ｡
@@ -1529,7 +1529,7 @@ the Wagarashi...","この人たちはワガラシ一家の…
 ","This person is a wagarashi family ...
 .
 No problem
-.",0.13333333333333333
+.",0.13333333333333333,0.705663
 It'll be fine.,"ケガする前に
  
 とっとと消えろ
@@ -1538,15 +1538,15 @@ It'll be fine.,"ケガする前に
 ","Before injury
  
 It disappears
-.",0.25
+.",0.25,0.20104963
 Thank you very much.,"ありがとうござんした
 ｡
 
 ","Thank you very much
-.",1.0
+.",1.0,1.0000002
 What a refreshing feeling!,"覚えてやがれ～！
 
-",Remember!,0.16666666666666666
+",Remember!,0.16666666666666666,0.2911378
 Sasuke...,"サスケ君
 ｡
 ああ
@@ -1555,12 +1555,12 @@ Sasuke...,"サスケ君
 ","Sasuke
 .
 Ah
-.",0.25
+.",0.25,0.9429062
 I'm not sulking.,"ふてちゃいません
 ｡
 
 ","I do not want
-.",0.42857142857142855
+.",0.42857142857142855,0.21180117
 Idate...,"そう
  
 ふてるな
@@ -1573,7 +1573,7 @@ Idate...,"そう
 Fully
  
 Idate
-.",0.2
+.",0.2,0.5142646
 "I believe in you more
 than anybody else.","イダテ
  
@@ -1585,7 +1585,7 @@ than anybody else.","イダテ
  
 I am more than anyone
 I believe in you
-.",0.5833333333333334
+.",0.5833333333333334,0.76437944
 "Why don't you believe
 in people a little?","少し
  
@@ -1597,7 +1597,7 @@ in people a little?","少し
  
 If you believe in people
  
-How is it?",0.4
+How is it?",0.4,0.69914705
 please run for this town.,"この街のために走ってくれ
  
 頼む
@@ -1606,12 +1606,12 @@ please run for this town.,"この街のために走ってくれ
 ","Run for this city
  
 ask
-.",0.5
+.",0.5,0.6781312
 Okay.,"イダテ
 ｡
 
 ","Idate
-.",0.3333333333333333
+.",0.3333333333333333,0.1704817
 "Wow, I didn't think it was going
 to be this big","うひゃ～！
  
@@ -1627,14 +1627,14 @@ Such
  
 ぇ
 I did not think that it was a race
-.",0.22727272727272727
+.",0.2272727272727273,0.17824966
 But what kind of race is it?,"一体
  
 どんなレースなんだ？
 
 ","Integral
  
-What kind of race is it?",0.7777777777777778
+What kind of race is it?",0.7777777777777778,0.58009493
 "I'll explain the course so
 a dummy like you can understand.","おバカな
  
@@ -1646,7 +1646,7 @@ a dummy like you can understand.","おバカな
  
 As you can see
 I will explain the course
-.",0.4117647058823529
+.",0.4117647058823529,0.70818067
 The starting point is Degarashi Port.,"スタート地点は
  
 ここ出芥港
@@ -1655,11 +1655,11 @@ The starting point is Degarashi Port.,"スタート地点は
 ","Start point is
  
 Kokuriku Port
-.",0.4444444444444444
+.",0.4444444444444444,0.69441307
 "Yes... It seems the fastest way
 to get to Modoroki Shrine","藻土呂木神社までは➡
 
-",To the bargain ground shrine,0.23076923076923078
+",To the bargain ground shrine,0.2307692307692308,0.37357605
 is to use a boat from here.,"ここが
  
 藻土呂木神社か？
@@ -1670,19 +1670,19 @@ is to use a boat from here.,"ここが
  
 Is it a bargain ground shrine?
 Yes
-.",0.2857142857142857
+.",0.2857142857142857,0.20370273
 "Then you take one of two Ryuko's jewels
 from Modoroki Shrine and","藻土呂木神社でリュウコの宝玉
 どちらか１つを取り➡
 
 ","Ryuko's treasure at the bargain earthwood shrine
-Take one either",0.2631578947368421
+Take one either",0.2631578947368421,0.6708601
 "dedicate that jewel at the
 Todoroki Great Shrine on Ouzu Island.","オオウズ島の轟大社に
 奉納するまでの競走よ｡
 
 ","To Major Corporation of Own Island
-Race to dedicate.",0.16666666666666666
+Race to dedicate.",0.16666666666666666,0.24701321
 "That's the only rule
 for the race.","ただ
  
@@ -1692,7 +1692,7 @@ for the race.","ただ
 ","just
  
 Rules
-That's why",0.18181818181818182
+That's why",0.18181818181818185,0.44668263
 "So hiring a Ninja is not
 a violation of the rule either.","忍者を雇うのも
 ルール違反じゃないってわけか
@@ -1700,13 +1700,13 @@ a violation of the rule either.","忍者を雇うのも
 
 ","Even hiring ninjas
 Isn't it a rule violation?
-.",0.35294117647058826
+.",0.35294117647058826,0.9312475
 "Who are the Ninja that
 the other side hired?","向こうが雇った忍者って
 どんなヤツらなんだ？
 
 ","The ninja who hired
-What do you do?",0.4166666666666667
+What do you do?",0.4166666666666667,0.79958165
 "You guys can just relax and watch.
 Don't follow me around!","俺に
  
@@ -1718,7 +1718,7 @@ Don't follow me around!","俺に
  
 Palm
 .
-what!?",0.16666666666666666
+what!?",0.16666666666666666,0.006311916
 "I'm saying I don't want
 an impediment.","どこかに隠れて
 様子をうかがってるのよ
@@ -1726,12 +1726,12 @@ an impediment.","どこかに隠れて
 
 ","Hiding somewhere
 I'm looking forward to it
-.",0.2
+.",0.2,0.119389996
 You!,"足手まといは御免だと
 言ってんだよ！
 
 ","I'm anxious
-I'm telling you!",0.3333333333333333
+I'm telling you!",0.3333333333333333,0.3495013
 "Calm down.
 Let's join forces here.","この～！
 まぁまぁ
@@ -1743,7 +1743,7 @@ Let's join forces here.","この～！
 Maaaa
  
 Let's all together
-.",0.21428571428571427
+.",0.21428571428571427,0.2637988
 "- Not with a guy like this!
 - Not with a guy like this!","(ｲﾀﾞﾃ･ﾅﾙﾄ)
 誰が
@@ -1756,19 +1756,19 @@ Let's all together
  
 Such a guy!
  
-Hun!",0.2727272727272727
+Hun!",0.2727272727272727,0.36383557
 "<i>They seem to strangely be</i>
 <i>in harmony, these two.</i>","《何か変に息が合ってるみたい
 この２人…》
 
 ","""I want to breathe something strange
-These two people ... """,0.13636363636363635
+These two people ... """,0.13636363636363635,0.24636783
 "<i>The Todoroki Great Shrine Race</i>
 <i>will start soon!</i>","[ｽﾋﾟｰｶ](男性)では 皆様  轟大社
 大競走 まもなくｽﾀｰﾄです｡➡
 
 ","[Speaker]  everyone
-It is a start race soon.",0.14285714285714285
+It is a start race soon.",0.14285714285714285,0.46147305
 "<i>Wasabi Family's runner,</i>
 <i>Idate Morino!</i>","ワサビ一家ランナー
  
@@ -1778,10 +1778,10 @@ It is a start race soon.",0.14285714285714285
 ","Wasabi family runner
  
 Morino Idate
-.",0.38461538461538464
+.",0.38461538461538464,0.86847943
 <i>Idate...Morino?</i>,"《森乃…イダテ？》
 
-","""Morino ... Idate?""",0.4
+","""Morino ... Idate?""",0.4,0.7764467
 "<i>Wagarashi Family's runner,</i>
 <i>Fukusuke Hikyakuya!</i>","[ｽﾋﾟｰｶ]
 (
@@ -1795,7 +1795,7 @@ Morino Idate
 
 Wagarashi family runner
 Faishiya Fukusuke
-.",0.23529411764705882
+.",0.2352941176470588,0.8154167
 <i>Start!</i>,"[ｽﾋﾟｰｶ]
 (
 男性
@@ -1807,14 +1807,14 @@ Faishiya Fukusuke
 
 ","[Speaker]
 
-start!",0.2222222222222222
+start!",0.2222222222222222,0.5535767
 Wh-What the?!,"…って
  
 何～!?
 
 ","...
  
-What!?",0.3333333333333333
+What!?",0.3333333333333333,0.39537433
 "Where are you going, Idate?!","逃げたのか？
 どこ行くのよ？
  
@@ -1823,7 +1823,7 @@ What!?",0.3333333333333333
 ","Were you ran away?
 Where are you going?
  
-Idate!",0.6363636363636364
+Idate!",0.6363636363636364,0.5997635
 "Hey, wait!","おい
  
 こら
@@ -1834,21 +1834,21 @@ Idate!",0.6363636363636364
  
 Hey
  
-Wait!",0.6
+Wait!",0.6,0.7256853
 "<i>Like a comet,</i>","♬
  
 二人包むけど
 
 ","♬
  
-I wrap two people",0.08333333333333333
+I wrap two people",0.08333333333333333,0.2208856
 <i>like the rainbow after the storm</i>,"♬
  
 明日へ向かう風を感じてた
 
 ","♬
  
-I felt the wind towards tomorrow",0.14285714285714285
+I felt the wind towards tomorrow",0.14285714285714285,0.4043785
 "<i>Uh...like a shooting star,</i>
 <i>we do go ahead.</i>","♬
  
@@ -1856,7 +1856,7 @@ I felt the wind towards tomorrow",0.14285714285714285
 
 ","♬
  
-Dreams like meteor",0.05555555555555555
+Dreams like meteor",0.05555555555555555,0.37620026
 "What the heck is he thinking?!
 That idiot!","♬
  
@@ -1866,14 +1866,14 @@ That idiot!","♬
 ","♬
  
 After the rain
-Like rainbow",0.06666666666666667
+Like rainbow",0.06666666666666668,0.0734664
 This is bad!,"♬
  
 この心に光を連れて来る
 
 ","♬
  
-Bring light to this heart",0.1111111111111111
+Bring light to this heart",0.1111111111111111,0.16874488
 "- Kick it up a notch, Sakura!
 - Right!","♬
  
@@ -1883,4 +1883,4 @@ Bring light to this heart",0.1111111111111111
 ","♬
  
 Dazzling
-I see it",0.07142857142857142
+I see it",0.07142857142857142,0.21457487

@@ -1,283 +1,283 @@
-en_text,jp_text,google_translated,score
-No way! Do a job for a man?!,嫌だ！ 男の依頼なんて,I hate it!What is a request for a man,0.26666666666666666
-I only accept jobs from\Nbeautiful women!,俺は美人の依頼しか受けない！,I only receive a request for beauty!,0.25
-But I already promised!,だって もう約束しちゃったもん,I'm already promised,0.5
-You! What does that have\Nto do with anything?,ばーろー！ 関係あるか そんなもん！,Bur!Is there such a thing?,0.125
+en_text,jp_text,google_translated,score,semantic_score
+No way! Do a job for a man?!,嫌だ！ 男の依頼なんて,I hate it!What is a request for a man,0.26666666666666666,0.46651268
+I only accept jobs from\Nbeautiful women!,俺は美人の依頼しか受けない！,I only receive a request for beauty!,0.25,0.39627954
+But I already promised!,だって もう約束しちゃったもん,I'm already promised,0.5,0.81367636
+You! What does that have\Nto do with anything?,ばーろー！ 関係あるか そんなもん！,Bur!Is there such a thing?,0.125,0.3507162
 Stop it! Stop it!,"-あーはーはっ！ やめろおっ あはは！
 -うりうり これでどーだあ！","-Ah Ha-Ho!Stop o'clock!
--Oriri This is it!",0.3333333333333333
+-Oriri This is it!",0.3333333333333333,0.34965608
 """A Gunshot to Set the Heart Aflutter!\NSad, Lonely Girl""","クセになりそうだ…
 あーはーはー！ ああっ！","It seems to be a habit ...
-Oh, Ha-Ha!Oh!",0.19047619047619047
-I only work for women.,俺は女の依頼しか受けないの！,I only receive a request for a woman!,0.2727272727272727
+Oh, Ha-Ha!Oh!",0.19047619047619047,0.09237067
+I only work for women.,俺は女の依頼しか受けないの！,I only receive a request for a woman!,0.2727272727272727,0.5412925
 "So, you're saying you never\Naccept a job from a man?","あら じゃ どういう時に
 男の依頼でも受けるわけ？","Anyway
-Do you also receive a man's request?",0.23529411764705882
-When my heart flutters.,心が震えた時… さ,When the heart shakes ...,0.25
-What's that?,え？ 何 それ？,picture?What that?,0.6
-And with such a serious\Nlook on your face.,マジな顔しちゃって！,I'm a serious face!,0.15384615384615385
-Bye-bye!,あは！ あはははは…！,AHA!Ahaha ...!,0.2
-Papa!,ああ！ パパー！,Ah!Papa!,0.6666666666666666
+Do you also receive a man's request?",0.2352941176470588,0.33884403
+When my heart flutters.,心が震えた時… さ,When the heart shakes ...,0.25,0.803941
+What's that?,え？ 何 それ？,picture?What that?,0.6,0.5085532
+And with such a serious\Nlook on your face.,マジな顔しちゃって！,I'm a serious face!,0.15384615384615385,0.62205917
+Bye-bye!,あは！ あはははは…！,AHA!Ahaha ...!,0.2,0.20161562
+Papa!,ああ！ パパー！,Ah!Papa!,0.6666666666666666,0.86389166
 "Give her ten years, and\NI'll pick her up myself.","あと10年経ったら
 俺が迎えに行ってやるよ","After 10 years
-I will go to pick me up",0.16666666666666666
+I will go to pick me up",0.16666666666666666,0.5845333
 She looks like she's going\Nto be a mokkori vision.,"ま なかなかの モッコリ美人に
 なりそうだし なははーな だははっ","Maca Mokkori beautiful woman
-It is likely that she is",0.11764705882352941
-I'm going.,おっせえなあ もう30分過ぎたぜぇ,I'm sorry I'm over 30 minutes,0.25
-Let's wait just ten more minutes!,あと10分待ってみようよ,Let's wait 10 minutes,0.4444444444444444
-I hate gloomy guys!,俺は暗い男は嫌いだ！,I hate a dark man!,0.375
-"Mr. Saeba, right?",ああ？,Ah?,0.16666666666666666
-"Yes, I'm sorry for being late.",はい 遅れてすみません,Sorry for being late,0.4444444444444444
+It is likely that she is",0.1176470588235294,0.6524425
+I'm going.,おっせえなあ もう30分過ぎたぜぇ,I'm sorry I'm over 30 minutes,0.25,0.18694346
+Let's wait just ten more minutes!,あと10分待ってみようよ,Let's wait 10 minutes,0.4444444444444444,0.84104556
+I hate gloomy guys!,俺は暗い男は嫌いだ！,I hate a dark man!,0.375,0.49696046
+"Mr. Saeba, right?",ああ？,Ah?,0.16666666666666666,0.18505804
+"Yes, I'm sorry for being late.",はい 遅れてすみません,Sorry for being late,0.4444444444444444,0.72971696
 I want to fake my own death.,"あの… 私が死んだと
 見せかけてほしいのです","That ... I died
-I want you to see",0.23076923076923078
-What do you mean?,どういうこと？,What do you mean?,1.0
-"You know Sozo Amachi, don't you?",天地宗造という男はご存じですね？,Do you know a man named Tenchi?,0.3333333333333333
+I want you to see",0.2307692307692308,0.39312974
+What do you mean?,どういうこと？,What do you mean?,1.0,1.0000001
+"You know Sozo Amachi, don't you?",天地宗造という男はご存じですね？,Do you know a man named Tenchi?,0.3333333333333333,0.5480082
 "Yeah, a big-time politician who they\Nsay will be the next prime minister.","ああ 次の総理大臣と
 噂されている大物政治家だ","Oh, with the following Prime Minister
-It is a big governmentist who is rumored",0.2727272727272727
+It is a big governmentist who is rumored",0.2727272727272727,0.70274824
 "One year ago, Amachi's chauffeur\Nleft a note behind","１年前 彼の運転手を
 していた男が遺書を残し","One year ago his driver
-A man who had left his leison",0.23529411764705882
+A man who had left his leison",0.2352941176470588,0.2463681
 What?!,"-何ですってえ？
 -ええ？","- What is it?
--Yes?",0.2857142857142857
+-Yes?",0.2857142857142857,0.2534246
 "The truth is, it was Sozo Amachi who\Nwas driving drunk and hit the kid, right?","酔っ払い運転で子供をはねたのは
 天地宗造ってわけだな","I was a child in drunk driving
-It is not possible to build a heaven",0.2
-Yes.,はい,Yes,0.5
-I haven't been home since then.,それからというもの私は家に帰れず,Then I can not go home,0.2727272727272727
-I haven't been able to hug or even\Nsee my one and only daughter.,たった１人の娘に会うことも,Meet only one daughter,0.1875
+It is not possible to build a heaven",0.2,0.29602113
+Yes.,はい,Yes,0.5,0.8368554
+I haven't been home since then.,それからというもの私は家に帰れず,Then I can not go home,0.2727272727272727,0.53048235
+I haven't been able to hug or even\Nsee my one and only daughter.,たった１人の娘に会うことも,Meet only one daughter,0.1875,0.4011359
 That child on the swing\Nis my daughter.,"あのブランコに乗っている子が
 私の娘なんです","The child who is on that swing
-My daughter is my daughter",0.5454545454545454
+My daughter is my daughter",0.5454545454545454,0.8598696
 I promised her I'd be back and\Ntook her to some relatives.,"私は必ず帰ってくるからと
 あの子に言って","Because I will always come back
-To say that child",0.16666666666666666
-I can't take it anymore!\NSo I had an idea.,ふう ふっ… もう耐えられません,Fu Fu ... I can not endure anymore,0.11764705882352941
+To say that child",0.16666666666666666,0.25979605
+I can't take it anymore!\NSo I had an idea.,ふう ふっ… もう耐えられません,Fu Fu ... I can not endure anymore,0.1176470588235294,0.28328004
 "If Amachi and company\Nthought I was really dead,","それで考えたんです
 私が本当に死んだと天地達が知れば","So I thought
-If the heaven and the earth know really dead",0.3333333333333333
-Ryo?,リョウ！,Ryo!,0.3333333333333333
-"I guess you're waiting for\Nyour papa, aren't you?",ひょっとしてパパを待ってるのかな？,Are you waiting for dad?,0.3076923076923077
-I know he'll be back.,きっと帰ってくるよ,I'm sure I'll come back,0.3
-"Old man, do you know my papa?",おじさん パパを知ってるの？,Do you know the uncle dad?,0.3333333333333333
+If the heaven and the earth know really dead",0.3333333333333333,0.3697256
+Ryo?,リョウ！,Ryo!,0.3333333333333333,0.8303859
+"I guess you're waiting for\Nyour papa, aren't you?",ひょっとしてパパを待ってるのかな？,Are you waiting for dad?,0.3076923076923077,0.5634554
+I know he'll be back.,きっと帰ってくるよ,I'm sure I'll come back,0.3,0.56926876
+"Old man, do you know my papa?",おじさん パパを知ってるの？,Do you know the uncle dad?,0.3333333333333333,0.60954756
 Big brother here will find him for you.,"おじ… へへっ
 お兄さんが見つけてあげる","Know ...
-I will find my brother",0.23076923076923078
-Really? Will you give me your promise?,げんまんしてくれる？,Can you give me a lot?,0.36363636363636365
-I believe!,うん！,Yes!,0.25
-Pretty cool for someone who\Nwas all complaints.,やっぱロリコンだったんだ,After all it was lolicon,0.08333333333333333
-The wheel! The wheel!,ああっ！ 着せ替え人形が好きいいー！,Oh!I like the dressing doll!,0.25
-"It's been a long time, Mr. Matsui.",久しぶりですなあ 松井さん,It's been a long time Matsui-san,0.5454545454545454
-I thought we told you not to\Ncome back to Tokyo.,東京には戻ってくるなと言ったろ,I said that I will come back to Tokyo,0.26666666666666666
+I will find my brother",0.2307692307692308,0.52939457
+Really? Will you give me your promise?,げんまんしてくれる？,Can you give me a lot?,0.3636363636363637,0.28328818
+I believe!,うん！,Yes!,0.25,0.4953692
+Pretty cool for someone who\Nwas all complaints.,やっぱロリコンだったんだ,After all it was lolicon,0.08333333333333333,0.0478881
+The wheel! The wheel!,ああっ！ 着せ替え人形が好きいいー！,Oh!I like the dressing doll!,0.25,0.290062
+"It's been a long time, Mr. Matsui.",久しぶりですなあ 松井さん,It's been a long time Matsui-san,0.5454545454545454,0.7734093
+I thought we told you not to\Ncome back to Tokyo.,東京には戻ってくるなと言ったろ,I said that I will come back to Tokyo,0.26666666666666666,0.76413286
 "I asked to meet him, you know.","先生がわざわざ お前などに会われるか
 総裁選挙を前にして忙しいんだ","Will the teacher will meet you, etc.
-I'm busy with the Presidential Election",0.2777777777777778
+I'm busy with the Presidential Election",0.2777777777777778,0.33332205
 "You should be grateful just to be\Nmeeting me, his principal secretary.","第一秘書の私が来ただけでも
 ありがたいと思え","Even though I came to the first secretary
-Thank you",0.15
+Thank you",0.15,0.6905509
 "If he's so busy, it would have\Nbeen fine with me","そんなに忙しいんだったら
 なにも あんたでなくって","If you are so busy
-Anything she is not",0.16666666666666666
-Enough of that! What do you want?\NAnd be quick about it.,ふざけるな 用件は何だ 早く言え,What is the case of a funny way,0.09523809523809523
-One million dollars?!,１億円っ！ お…,100 million yen!Oh…,0.25
-seeing as how I'm a\Nliving witness and all.,なんせ私は生き証人ですからねえ,What I am a living witness,0.14285714285714285
-And you were so weak.,気の弱かった貴様が,Very weak,0.14285714285714285
-"Even a baby can walk\Nafter a year, you know?",１… １億円出して頂けますか？,1 ... Can you get 100 million yen?,0.1875
-"In any event, I'll talk with him about it.",とにかく先生と相談してみる,"Anyway, let me consult with the teacher",0.1111111111111111
-Was that good enough?,よかったんでしょうか あんなもんで,I wonder if it was good.,0.2
-Going to call a killer?,殺し屋に電話を？,Call me a killer?,0.5714285714285714
+Anything she is not",0.16666666666666666,0.49439135
+Enough of that! What do you want?\NAnd be quick about it.,ふざけるな 用件は何だ 早く言え,What is the case of a funny way,0.09523809523809523,-0.03507341
+One million dollars?!,１億円っ！ お…,100 million yen!Oh…,0.25,0.60979676
+seeing as how I'm a\Nliving witness and all.,なんせ私は生き証人ですからねえ,What I am a living witness,0.14285714285714285,0.71182656
+And you were so weak.,気の弱かった貴様が,Very weak,0.14285714285714285,0.47712174
+"Even a baby can walk\Nafter a year, you know?",１… １億円出して頂けますか？,1 ... Can you get 100 million yen?,0.1875,0.13141786
+"In any event, I'll talk with him about it.",とにかく先生と相談してみる,"Anyway, let me consult with the teacher",0.1111111111111111,0.1535886
+Was that good enough?,よかったんでしょうか あんなもんで,I wonder if it was good.,0.2,0.51417124
+Going to call a killer?,殺し屋に電話を？,Call me a killer?,0.5714285714285714,0.84056216
 No doubt about it. It's much safer to\Nmake the call from some place in town.,"必ずかける
 街ん中でかけた方が安全だからな","Necessitate
-It is safe because it is safe to put in the city",0.13043478260869565
+It is safe because it is safe to put in the city",0.13043478260869565,0.45623717
 "Using the sound the dial makes,\NI can figure out the number.","俺はダイヤルの戻る音で
 番号を解読できるんだ","I'm a dial back
-I can decrypt the number",0.23529411764705882
-Alley-oop!,ガビイイーン！,Gavi Wyeen!,0.25
+I can decrypt the number",0.2352941176470588,0.57404125
+Alley-oop!,ガビイイーン！,Gavi Wyeen!,0.25,0.27498516
 There's a chick who's always naked\Nin this building. I'll show you!,"このビルに いつも裸んなってる
 女の子がいるんだあ 教えてやろうか","I'm always naked in this building
-I have a girl who will teach you",0.3181818181818182
-5... 1... 3...,５ １ ３,5 1 3,0.75
+I have a girl who will teach you",0.3181818181818182,0.7547738
+5... 1... 3...,５ １ ３,5 1 3,0.75,0.70029336
 Hold it! Stop! We're too high!\NI can't see!,"んーとぉ… はあっ おい だめだ
 止めろ！ 上がりすぎたら見えねえ！","Hmm ... is not good
-Stop!If you go too far, you can see it!",0.21739130434782608
-The fourth floor?,えっ ４階？,E.4 floor?,0.4
-Where? C'mon!,どこ どこ？,Where where?,0.5
-Sit-up!,４！,4!,0.3333333333333333
-Understood. All I have to do\Nis be there at that time.,そうだ 私の身分はその時に明かす,Yes my status will be revealed at that time,0.23529411764705882
-Shinjuku Park.\NThe sign will be a red rose.,目印は赤いバラだって ワクワクしちゃう,The mark is a red rose and will be excited,0.35714285714285715
-This is exciting! What'll we do?,どうするの？,What to do?,0.3
-It's me. You want to change the place?,場所を変更する？,Change the place?,0.36363636363636365
+Stop!If you go too far, you can see it!",0.21739130434782608,0.5130192
+The fourth floor?,えっ ４階？,E.4 floor?,0.4,0.78291214
+Where? C'mon!,どこ どこ？,Where where?,0.5,0.423222
+Sit-up!,４！,4!,0.3333333333333333,0.23073043
+Understood. All I have to do\Nis be there at that time.,そうだ 私の身分はその時に明かす,Yes my status will be revealed at that time,0.2352941176470588,0.36411288
+Shinjuku Park.\NThe sign will be a red rose.,目印は赤いバラだって ワクワクしちゃう,The mark is a red rose and will be excited,0.35714285714285715,0.55427814
+This is exciting! What'll we do?,どうするの？,What to do?,0.3,0.39013103
+It's me. You want to change the place?,場所を変更する？,Change the place?,0.3636363636363637,0.7137861
 Shinjuku won't do after all.\NLet's change the place and the sign.,"新宿公園というのは やはりまずい
 場所と目印を変えよう","Shinjuku Park is still bad
-Let's change the location and the mark",0.25
-I think it's a little bit\Nconspicuous though.,ちょっと目立ちすぎるとは思うがなあ,I think it's a bit too noticeable,0.4166666666666667
-and wearing a bib!,だ 誰だ 俺をハメやがった奴は！,Who is the person who got a horny!,0.18181818181818182
+Let's change the location and the mark",0.25,0.7046665
+I think it's a little bit\Nconspicuous though.,ちょっと目立ちすぎるとは思うがなあ,I think it's a bit too noticeable,0.4166666666666667,0.5905315
+and wearing a bib!,だ 誰だ 俺をハメやがった奴は！,Who is the person who got a horny!,0.18181818181818185,0.23611654
 You are...,"いーひっ いひ いひ いひ…
 はっ はっ あっ あ…","Neihihito ...
-Hoh ...",0.2
-"No. When I think that, at this\Nmoment, he's holding...",あ あんたが…,"Oh, that's ...",0.2857142857142857
-What are you talking about?,え？ 何の話だ,picture?What is the story,0.2
-Are you okay? Are you competent to...,だ 大丈夫なのか 腕は確か…,It's okay or my arms are sure ...,0.23076923076923078
-What are you trying to do?,なっ 何をする気なんだ！,What do you do to do?,0.7142857142857143
-Spread your fingers open.,指を開いて,Open a finger,0.14285714285714285
-Stop!,うおー！ やめろおっ！,Uo!Stop!,0.6666666666666666
-"Look, you, are you a\Nmagician or a killer?",貴様 手品師か殺し屋かどっちだあ！,You're a crop or killer!,0.3333333333333333
-What is it this time? Going to make\Na dragonfly appear or something?,今度は何だ トンボでも出すのか？,What is this time?,0.38461538461538464
+Hoh ...",0.2,0.12764125
+"No. When I think that, at this\Nmoment, he's holding...",あ あんたが…,"Oh, that's ...",0.2857142857142857,0.12651436
+What are you talking about?,え？ 何の話だ,picture?What is the story,0.2,0.2682736
+Are you okay? Are you competent to...,だ 大丈夫なのか 腕は確か…,It's okay or my arms are sure ...,0.2307692307692308,0.3432195
+What are you trying to do?,なっ 何をする気なんだ！,What do you do to do?,0.7142857142857143,0.43708822
+Spread your fingers open.,指を開いて,Open a finger,0.14285714285714285,0.7667727
+Stop!,うおー！ やめろおっ！,Uo!Stop!,0.6666666666666666,0.7697229
+"Look, you, are you a\Nmagician or a killer?",貴様 手品師か殺し屋かどっちだあ！,You're a crop or killer!,0.3333333333333333,0.4951529
+What is it this time? Going to make\Na dragonfly appear or something?,今度は何だ トンボでも出すのか？,What is this time?,0.38461538461538464,0.5455748
 I get it. I trust your skill.\NThe job is yours.,"わ 分かった 君の腕は信用する
 仕事は任せた","I understand that your arms trust
-I left my work",0.1875
+I left my work",0.1875,0.52126044
 I promise to take out my target.,"許してくれ 道子
 父さんに勇気がないばっかりに","Forgive me
-I have no courage to my father",0.21428571428571427
-Who is it?,どなた？,who is it?,1.0
+I have no courage to my father",0.21428571428571427,0.30911368
+Who is it?,どなた？,who is it?,1.0,1.0
 Things are going smoothly.\NLet's talk a bit and proceed to the next stage.,"順調にいってる
 打ち合わせといた次の手にいこう","I'm going well
-Let's go to the next hand who was a meeting",0.25
-Sorry to make you wait.\NThis is Matsui speaking.,お待たせしました 秘書の松井ですが,It is Matsuishi of secretary who kept you waiting,0.125
-You want another million dollars?!,ううっ！ もう１億円だと！ うっ…,Uh!It is already 100 million yen!Uey ...,0.13333333333333333
+Let's go to the next hand who was a meeting",0.25,0.41805604
+Sorry to make you wait.\NThis is Matsui speaking.,お待たせしました 秘書の松井ですが,It is Matsuishi of secretary who kept you waiting,0.125,0.56236726
+You want another million dollars?!,ううっ！ もう１億円だと！ うっ…,Uh!It is already 100 million yen!Uey ...,0.13333333333333333,0.5394016
 "The office of your rival, Mr. Okita,\Nis still in the same place, I believe?","ライバル候補の沖田さんの事務所は
 前のままで いいんでしたよね？","Mr. Okita's office of Rival candidate
-He was good for me, right?",0.2916666666666667
-Hold on!,待て！ んっ,wait!N',0.16666666666666666
-Where do I go to give it to you?,それで どこで渡せばいい？,So where should I pass?,0.25
-The time will be midnight tonight.\NThe place is the wharf.,天地宗造本人が１人で来ること いいな,It is good that the Tenchi Muneori will come alone,0.17647058823529413
-Amazing...,なんつか このぉ…,What kind of thing ...,0.16666666666666666
-Is it you? This is Umibozu.,ふふふ… はあーあ うう…,Fufufu ... is Uh.,0.2
-Tonight at midnight. Got it.,今夜12時 分かった,12 o'clock tonight,0.125
+He was good for me, right?",0.2916666666666667,0.7068382
+Hold on!,待て！ んっ,wait!N',0.16666666666666666,0.42336375
+Where do I go to give it to you?,それで どこで渡せばいい？,So where should I pass?,0.25,0.24337047
+The time will be midnight tonight.\NThe place is the wharf.,天地宗造本人が１人で来ること いいな,It is good that the Tenchi Muneori will come alone,0.17647058823529413,0.16865402
+Amazing...,なんつか このぉ…,What kind of thing ...,0.16666666666666666,0.2882856
+Is it you? This is Umibozu.,ふふふ… はあーあ うう…,Fufufu ... is Uh.,0.2,0.26119488
+Tonight at midnight. Got it.,今夜12時 分かった,12 o'clock tonight,0.125,0.54522324
 I want to make certain for myself\Nthat he's dead. I'll be there.,"奴が確実に死んだというところを
 確認しておきたい 私もそこへ行く","Where people died surely
-I also want to check there",0.2
-It's not that I don't trust your skill.\NI just want my boss to rest easy.,君の腕を信用してないわけじゃない,I'm not not trusting your arms,0.14285714285714285
-"Okay, at midnight then.",じゃ 12時に,Then at 12 o'clock,0.25
+I also want to check there",0.2,0.39603743
+It's not that I don't trust your skill.\NI just want my boss to rest easy.,君の腕を信用してないわけじゃない,I'm not not trusting your arms,0.14285714285714285,0.3885344
+"Okay, at midnight then.",じゃ 12時に,Then at 12 o'clock,0.25,0.56926507
 "I thought of a number of ways to\Nconvince them he was dead,","死んだと思わせる手は
 いくつも考えていたが","Hands who think they are dead
-I was thinking about several",0.15
-If you give up now...,ここで手を引いたら…,If you pull your hand here ...,0.3
+I was thinking about several",0.15,0.4243133
+If you give up now...,ここで手を引いたら…,If you pull your hand here ...,0.3,0.47610334
 I know. They'll just hire another killer.,"ああ 分かってる
 他の殺し屋を雇うだけだ","Oh I know
-Just hire another killer",0.6
-I believe it.,確認したいというのは計算外だったな,I wanted to confirm it outside the calculation,0.2
-"He could wear a bullet-proof vest,",防弾チョッキを使うという手はある,There is a hand to use a bulletproof vest,0.15384615384615385
+Just hire another killer",0.6,0.81943583
+I believe it.,確認したいというのは計算外だったな,I wanted to confirm it outside the calculation,0.2,0.19463448
+"He could wear a bullet-proof vest,",防弾チョッキを使うという手はある,There is a hand to use a bulletproof vest,0.15384615384615385,0.7167208
 "but if something looks fishy\Nright after I shoot him,","だが俺に撃たれた時
 不自然さが出れば全ては水の泡","But when I was shot to me
-If it comes out of unnaturalness, it is water bubbles",0.17391304347826086
+If it comes out of unnaturalness, it is water bubbles",0.17391304347826084,0.43206915
 "You can handle it, right?","-できるわよね？
 -あっ あ…","-Do you can do it?
--Aua ...",0.36363636363636365
-It's a completely different thing from\Njust using words to pull something off.,口でごまかすのとは わけが違う,It is different from the mouth,0.1111111111111111
+-Aua ...",0.3636363636363637,0.37629455
+It's a completely different thing from\Njust using words to pull something off.,口でごまかすのとは わけが違う,It is different from the mouth,0.1111111111111111,0.26399767
 What if I didn't wear a vest?,"-防弾チョッキをつけなかったら
 -ええ？","-Froduction-if not a bulletproof vest
--Yes?",0.23076923076923078
-That has potential.,そのくらいの演技,That acts,0.2
-"Come on, Ryo!",リョウ ちょっと！,Ryo a little!,0.2857142857142857
-"One small mistake,\Nand you've had it.",一歩間違えば本当にあの世行きだ,"If you make a mistake, it's really the world",0.23529411764705882
-I'm placing my bet on you!,あなたに賭けてみます,I will bet on you,0.4444444444444444
-Bet?,賭ける？,bet?,1.0
+-Yes?",0.2307692307692308,0.6033175
+That has potential.,そのくらいの演技,That acts,0.2,0.40370086
+"Come on, Ryo!",リョウ ちょっと！,Ryo a little!,0.2857142857142857,0.77599406
+"One small mistake,\Nand you've had it.",一歩間違えば本当にあの世行きだ,"If you make a mistake, it's really the world",0.2352941176470588,0.46460527
+I'm placing my bet on you!,あなたに賭けてみます,I will bet on you,0.4444444444444444,0.72803825
+Bet?,賭ける？,bet?,1.0,1.0000002
 I'll do whatever it takes to have the\Nchance to live with my daughter.,"娘と一緒に暮らせるようになるんだったら
 何だって どんなことだって","If you can live with your daughter
-What is it?",0.19047619047619047
-"Kaori, we need your help too.",香 お前も手伝ってくれ,Help me too,0.2222222222222222
-"Yes, it's do or die.",分かった,Do you get it,0.2
+What is it?",0.19047619047619047,0.6759628
+"Kaori, we need your help too.",香 お前も手伝ってくれ,Help me too,0.2222222222222222,0.37534758
+"Yes, it's do or die.",分かった,Do you get it,0.2,0.31338206
 Bastard! I asked for\NAmachi to come here!,"貴様ー！ 私は天地に
 来いと言ったんだぞ！","Your!I am a Tenchi
-I said that I came!",0.13333333333333333
+I said that I came!",0.13333333333333333,0.50932837
 Did you really think the man who\Nwill be our next prime minister,"たかが お前ごときに
 お会いになるとでも思っていたのか","Taka is for yourself
-Did you think that you meet",0.16666666666666666
-The money! Did you bring the money?,金 金は用意したか！,Did you prepare money!,0.5
-Because I'll just be taking it\Nback with me anyway.,どうせ また私が持って帰るからだ,It is because I will bring back again,0.11764705882352941
+Did you think that you meet",0.16666666666666666,0.12733066
+The money! Did you bring the money?,金 金は用意したか！,Did you prepare money!,0.5,0.6588125
+Because I'll just be taking it\Nback with me anyway.,どうせ また私が持って帰るからだ,It is because I will bring back again,0.1176470588235294,0.40363488
 Who the hell are you?,"のぼせ上がるな！
 次は総理にもなろう人が","Don't go up!
-The next thing is a person who can",0.11764705882352941
+The next thing is a person who can",0.1176470588235294,0.20904092
 "You are what they call, ""Someone\Nwho doesn't know his place"".","身のほど知らずとは
 お前のような奴のことを言うのだ","Without knowing
-I say what you like",0.1
+I say what you like",0.1,0.2238855
 "I'm going to put one through your gut,\Navoiding the vital spots of course.","俺は あんたの腹をぶち抜く
 もちろん急所を外して","I'm going through your belly
-Of course, remove the sudden",0.45
-Playing the dirty part for sure.\NGot to hurry!,っと 急がなきゃ！,I have to hurry!,0.2727272727272727
-Good!,ひいっ！,Hi!,0.3333333333333333
-What are you doing?\NFinish him off now!,何をする気だ 早くとどめを刺せ！,What do you want to do?,0.23076923076923078
+Of course, remove the sudden",0.45,0.5066973
+Playing the dirty part for sure.\NGot to hurry!,っと 急がなきゃ！,I have to hurry!,0.2727272727272727,0.45277554
+Good!,ひいっ！,Hi!,0.3333333333333333,0.4564906
+What are you doing?\NFinish him off now!,何をする気だ 早くとどめを刺せ！,What do you want to do?,0.2307692307692308,0.2680627
 Igniting this gasoline can will take\Ncare of the situation nicely.,"このガソリンタンクに引火させれば
 綺麗に片がつく","If you ignite this gasoline tank
-Clean up beautifully",0.1111111111111111
+Clean up beautifully",0.1111111111111111,0.7056262
 "Burning to death extends the suffering,","どうせ死ぬんだ 撃たれて死ぬのも
 焼け死ぬのも大差ねえ","Anyway, it's a death that you die and die
-It is also a big difference to die",0.15789473684210525
+It is also a big difference to die",0.15789473684210525,0.4293593
 How cruel.\NA professional killer all right.,"なっ なんて冷酷な…
 さすがプロの殺し屋","It's cruel ...
-Susually the professional killer",0.15384615384615385
-Are you okay? Haven't fainted?,大丈夫か 気絶してねえか？,Are you fainting?,0.375
-"Ryo, hold it!",リョウ 待って！,Wait for Ryo!,0.2857142857142857
-What's wrong?,んん？,?,0.25
-Nothing!,ええっ！,Yeah!,0.3333333333333333
+Susually the professional killer",0.15384615384615385,0.8862092
+Are you okay? Haven't fainted?,大丈夫か 気絶してねえか？,Are you fainting?,0.375,0.83889216
+"Ryo, hold it!",リョウ 待って！,Wait for Ryo!,0.2857142857142857,0.78988725
+What's wrong?,んん？,?,0.25,0.26264873
+Nothing!,ええっ！,Yeah!,0.3333333333333333,0.21160172
 I'll position the car to hide the\Nmanhole cover you'll find under it.,"その真下に下水道の
 マンホールが来るようにセットしておく","Underwater
-Set the manhole to come",0.1111111111111111
-What?! No manhole!,マンホールがない！,There is no manhole!,0.42857142857142855
-Hagio!,はっ 萩尾さん！,Mr. Hoji Hoji!,0.25
-What are they waiting for?,何をグズグズしているんだ,What are you doing?,0.375
-Is it off?,んん？ 位置がずれているのか…,?Is the position shifted ...,0.25
-What if he escapes?,奴が逃げたら どうするんだ！,What if he runs away!,0.375
-I'd like to see that.,それが見たいのさ,I want to see it,0.3333333333333333
-You're something else.,ふっ ありがとよ,Thank you very much,0.125
-I'm losing...,うう… ふっ 意識が… はは…,Umm ... I'm sorry ... ...,0.5
-"Hagio, can you hear me?",萩尾さん 聞いてる？,"Mr. Kao-san, is you listening?",0.2727272727272727
+Set the manhole to come",0.1111111111111111,0.29791752
+What?! No manhole!,マンホールがない！,There is no manhole!,0.42857142857142855,0.9314836
+Hagio!,はっ 萩尾さん！,Mr. Hoji Hoji!,0.25,0.44297203
+What are they waiting for?,何をグズグズしているんだ,What are you doing?,0.375,0.30692533
+Is it off?,んん？ 位置がずれているのか…,?Is the position shifted ...,0.25,0.3225743
+What if he escapes?,奴が逃げたら どうするんだ！,What if he runs away!,0.375,0.68583167
+I'd like to see that.,それが見たいのさ,I want to see it,0.3333333333333333,0.5442756
+You're something else.,ふっ ありがとよ,Thank you very much,0.125,0.00078416744
+I'm losing...,うう… ふっ 意識が… はは…,Umm ... I'm sorry ... ...,0.5,0.2569399
+"Hagio, can you hear me?",萩尾さん 聞いてる？,"Mr. Kao-san, is you listening?",0.2727272727272727,0.50999016
 "Hagio, lower the parking brake! Hurry!","早く！ 諦めちゃだめ
 サイドブレーキを！","quickly!Greedy
-Side brake!",0.18181818181818182
-That's it! I'll do it!\NGive me the gun!,もういい 私が撃つ 銃を貸せ！,I'm already lending a gun shoot!,0.1875
-Are you trying to kill me?,貴様 私を殺す気か！,You want to kill me!,0.4444444444444444
+Side brake!",0.18181818181818185,0.5661271
+That's it! I'll do it!\NGive me the gun!,もういい 私が撃つ 銃を貸せ！,I'm already lending a gun shoot!,0.1875,0.5570931
+Are you trying to kill me?,貴様 私を殺す気か！,You want to kill me!,0.4444444444444444,0.7244962
 "If you die, I'll burn you along with him.","死んじまったら
 奴と一緒に燃やしてやるよ","If you die
-I will burn with the guy",0.42857142857142855
-C'mon! Hurry!,んーん！ うう！,Hmm!UU!,0.2
+I will burn with the guy",0.42857142857142855,0.85777754
+C'mon! Hurry!,んーん！ うう！,Hmm!UU!,0.2,0.39173177
 C'mon! Don't you want\Nto see Michiko?!,"頑張って！
 道子ちゃんに会いたくないの？","Good luck!
-Do you not want to see Myo-chan?",0.3333333333333333
-Michiko...,道子… あっ うっ…,Tomo ... yes ...,0.25
-"Hey, the car is moving!\NHe'll get away!",逃げるぞお！,I'll run away!,0.23076923076923078
-Take it easy. I told you I was\Nwaiting for this moment.,慌てるな この時を待っていたと言ったろ,I said that I was waiting for this time,0.1875
-One second longer and...,ああ はあ… 間一髪…,Oh yeah ... 1 hair ...,0.1111111111111111
-The money we promised.,鞄が空っぽなんてことはないだろうなあ,The bag will not be empty,0.1
+Do you not want to see Myo-chan?",0.3333333333333333,0.45692664
+Michiko...,道子… あっ うっ…,Tomo ... yes ...,0.25,0.31687903
+"Hey, the car is moving!\NHe'll get away!",逃げるぞお！,I'll run away!,0.2307692307692308,0.4767243
+Take it easy. I told you I was\Nwaiting for this moment.,慌てるな この時を待っていたと言ったろ,I said that I was waiting for this time,0.1875,0.4642954
+One second longer and...,ああ はあ… 間一髪…,Oh yeah ... 1 hair ...,0.1111111111111111,0.35103425
+The money we promised.,鞄が空っぽなんてことはないだろうなあ,The bag will not be empty,0.1,0.075453155
 Don't you want to see a\Nhuman barbecue?,"人間バーベキューは
 見なくていいのかい？","Human barbecue
-Do you not have to look?",0.38461538461538464
+Do you not have to look?",0.38461538461538464,0.73058337
 "Look, if we meet again on the street,\NI don't know you.","いいか この先
 道であっても君とは他人だ","Good if it is good
-Even in the way, you are others",0.17391304347826086
-BANG!,ふん！,Hmm!,0.3333333333333333
-Mr. Saeba!,ああ！,Ah!,0.25
+Even in the way, you are others",0.17391304347826084,0.1562508
+BANG!,ふん！,Hmm!,0.3333333333333333,0.3559347
+Mr. Saeba!,ああ！,Ah!,0.25,0.22780217
 "Isn't that nice? From now on,\Nyou'll be with your papa.","よかったわね これからは
 ずっとパパと一緒よ","It was good, from now on
-Together with dad",0.23809523809523808
+Together with dad",0.2380952380952381,0.3379272
 "We're going to find some place quiet,\Nand we're going to live there together.","どこか静かな所を探して
 ２人で暮らすつもりです","Looking for a quiet place somewhere
-I will live with two people",0.13043478260869565
-Take care.,元気でね,Take care,0.6666666666666666
-"Sure, I'll tell it ten times over for you.",ああ 十遍ぐらい言っといてやるよ,"Oh, I'll say it",0.2857142857142857
-"But, don't I owe you...",しかし私はむしろ あなたに,But I rather to you,0.3
-Here!,ああっ うっ！,Oh yeah!,0.25
-What?,何だよ,What,0.5
-Not likely.,するわけないでしょ,I can not,0.2
-When your heart flutters?,心が震えた時… か,When the heart shakes ...,0.25
-You say something?,あ？ なんか言ったか？,a?Did you say something?,0.6666666666666666
-"No, it was nothing.",ふひひひひー,Hihihihi,0.0
-Wow! What a beauty!,うわあー すっげえ美人！,"Wow, a beautiful woman!",0.375
-"So, I take it this isn't the first time?",ってことは初めての依頼じゃないんだ,It is not the first request for the first time,0.3333333333333333
+I will live with two people",0.13043478260869565,0.60843956
+Take care.,元気でね,Take care,0.6666666666666666,0.88881534
+"Sure, I'll tell it ten times over for you.",ああ 十遍ぐらい言っといてやるよ,"Oh, I'll say it",0.2857142857142857,0.35630628
+"But, don't I owe you...",しかし私はむしろ あなたに,But I rather to you,0.3,0.3204045
+Here!,ああっ うっ！,Oh yeah!,0.25,0.31636932
+What?,何だよ,What,0.5,0.7034003
+Not likely.,するわけないでしょ,I can not,0.2,0.10835075
+When your heart flutters?,心が震えた時… か,When the heart shakes ...,0.25,0.71787137
+You say something?,あ？ なんか言ったか？,a?Did you say something?,0.6666666666666666,0.6304176
+"No, it was nothing.",ふひひひひー,Hihihihi,0.0,0.03076651
+Wow! What a beauty!,うわあー すっげえ美人！,"Wow, a beautiful woman!",0.375,0.66944474
+"So, I take it this isn't the first time?",ってことは初めての依頼じゃないんだ,It is not the first request for the first time,0.3333333333333333,0.55364746
 But she's asking you to steal a crown\Nwith a crucial microchip hidden in it.,"重要なマイクロチップを
 盗み出してほしいなんて","Important microchip
-I want you to steal",0.2222222222222222
+I want you to steal",0.2222222222222222,0.61261964
 Why would she ask you to do\Nsuch a dangerous job?,"どうして そんな
 やばいこと頼んでくんの？","However
-Do you want to ask for a good thing?",0.29411764705882354
+Do you want to ask for a good thing?",0.29411764705882354,0.21594274
 Can you believe it? She's actually a\Ndetective with the Metropolitan Police!,"ああ見えてもな 彼女
 警視庁の刑事さんなんだぜ","Oh she can see her
-It's a mortgage agency criminal",0.19047619047619047
-You're kidding!,うっそおー！,Uh!,0.2
+It's a mortgage agency criminal",0.19047619047619047,0.49217743
+You're kidding!,うっそおー！,Uh!,0.2,0.3584635
 "Next: ""A One-Hole-Shot to a Lovely?!\NHands Off My Lady Detective""","次回 「美人に百発百中？！
 女刑事には手を出すな」","Next time ""Beautiful one hundred hundred?!
-Do not put hand in female detective """,0.2
+Do not put hand in female detective """,0.2,0.59699863

@@ -1,4 +1,4 @@
-en_text,jp_text,google_translated,score
+en_text,jp_text,google_translated,score,semantic_score
 "<i>Yeah, turn your sadness into kindness,</i>
 <i>your uniqueness into strength</i>","♬
  
@@ -10,7 +10,7 @@ en_text,jp_text,google_translated,score
  
 So
  
-Sadness to the kindness",0.11764705882352941
+Sadness to the kindness",0.1176470588235294,0.69996923
 "<i>when you're always meeting</i>
 <i>to someone's expectations?</i>","♬
  
@@ -18,7 +18,7 @@ Sadness to the kindness",0.11764705882352941
 
 ","♬
  
-Meet the expectations of someone",0.1111111111111111
+Meet the expectations of someone",0.1111111111111111,0.623353
 "<i>Even if you change to</i>
 <i>who you really wanna be</i>","♬
  
@@ -26,21 +26,21 @@ Meet the expectations of someone",0.1111111111111111
 
 ","♬
  
-Even if you rerun yourself",0.17647058823529413
+Even if you rerun yourself",0.17647058823529413,0.2852413
 <i>Will you always have a great smile?</i>,"♬
  
 笑顔はいつでも素敵ですか
 
 ","♬
  
-Is it always nice to smile",0.11764705882352941
+Is it always nice to smile",0.1176470588235294,0.7599903
 "<i>and someday, I'll live on my own.</i>","♬
  
 いつか自分の腕で
 
 ","♬
  
-Someday with your own arms",0.058823529411764705
+Someday with your own arms",0.05882352941176471,0.5372732
 "<i>Yes, precious things are never in shape</i>","♬
  
 そうだ
@@ -55,7 +55,7 @@ That's it
  
 Important things
  
-everytime",0.05555555555555555
+everytime",0.05555555555555555,0.3079108
 "<i>Even if you get lost,</i>
 <i>let's start walking</i>","♬
  
@@ -67,7 +67,7 @@ everytime",0.05555555555555555
  
 Even if you get it
  
-Even if it is lost",0.29411764705882354
+Even if it is lost",0.29411764705882354,0.45522565
 What's up? It's been a while.,"(ﾃｳﾁ)
 どうした？
  
@@ -77,7 +77,7 @@ What's up? It's been a while.,"(ﾃｳﾁ)
 ","What happened?
  
 It's not for a while
-.",0.5833333333333334
+.",0.5833333333333334,0.6430422
 The hospital?,"ハハハ…
  
 ちょっと病院にね
@@ -90,13 +90,13 @@ The hospital?,"ハハハ…
 A little hospital
 .
 
-hospital?",0.25
+hospital?",0.25,0.7784259
 I see.,"(ﾃｳﾁ)
 そうか
 ｡
 
 ","Really
-.",0.25
+.",0.25,0.4358302
 Yes!,"はい
  
 どうぞ
@@ -105,18 +105,18 @@ Yes!,"はい
 ","Yes
  
 please
-.",0.25
+.",0.25,0.37197876
 "The final round is tomorrow, right?","本選
  
 あしただろ？
 
 ","This election
  
-Is it tomorrow?",0.2727272727272727
+Is it tomorrow?",0.2727272727272727,0.49107277
 Thanks!,"(ﾁｮｳｻﾞ)
 ハハハ…！➡
 
-",Hahaha ...!➡,0.2
+",Hahaha ...!➡,0.2,0.16293016
 "You've got a daughter at home,
 so it's not so bad, right?","お前んところは
 まだ娘だから
@@ -128,7 +128,7 @@ so it's not so bad, right?","お前んところは
 Because it is still a daughter
  
 It's not good
-.",0.2857142857142857
+.",0.2857142857142857,0.6035823
 "Most of my money vanishes
 with the food expenses.","うちなんか
  
@@ -140,7 +140,7 @@ with the food expenses.","うちなんか
  
 Most is a food expense
 It will disappear
-.",0.17647058823529413
+.",0.17647058823529413,0.7030567
 "Moron. Your home is special, right?","(ｼｶｸ)
 バ～カ
  
@@ -154,13 +154,13 @@ It will disappear
 You are special
 .
 
-Yeah?",0.23076923076923078
+Yeah?",0.2307692307692308,0.52483183
 "Yeah. There are times when I really
 don't get how to act with her.","よく分からないときがあってな
 ｡
 
 ","There is a time when I do not understand well
-.",0.22727272727272727
+.",0.2272727272727273,0.33136854
 "Hah, am I the only bad guy?","フン
  
 俺だけ悪者かよ
@@ -169,7 +169,7 @@ don't get how to act with her.","よく分からないときがあってな
 ","Hung
  
 I'm just a bad guy
-.",0.21428571428571427
+.",0.21428571428571427,0.47207206
 "Hey, master.","女の子は
  
 めんどくせぇよなぁ
@@ -178,19 +178,19 @@ I'm just a bad guy
 ","Girl
  
 I'm sorry I'm sorry
-.",0.125
+.",0.125,0.25273383
 Welcome!,"全部！
 (
 戸が開く音
 )
 
-",All!,0.3333333333333333
+",All!,0.3333333333333333,0.43864435
 Hey... Dad.,"(ｼｶﾏﾙ)
 はぁ～…
 ｡
 
 ","Ha ...
-.",0.4
+.",0.4,0.25997323
 Hmm?,"(
 店員
 )
@@ -200,7 +200,7 @@ Hmm?,"(
 
 ","Every time!
 
-Yeah?",0.16666666666666666
+Yeah?",0.16666666666666666,0.24098392
 "Shut up. You're supposed to
 live it up at a festival!","祭りっていうのは
 騒ぐもんだろうが
@@ -208,7 +208,7 @@ live it up at a festival!","祭りっていうのは
 
 ","The festival is
 It will be a noise
-.",0.2222222222222222
+.",0.2222222222222222,0.6384349
 What a drag.,"んだと？
  
 ったく
@@ -221,7 +221,7 @@ What a drag.,"んだと？
 Geez
  
 Unhappy
-.",0.2222222222222222
+.",0.2222222222222222,0.17264464
 I'm in that final round tomorrow.,"ほら
  
 もういいかげん帰るぜ
@@ -230,14 +230,14 @@ I'm in that final round tomorrow.,"ほら
 ","Seeing
  
 I'm going back soon
-.",0.25
+.",0.25,0.2576081
 You're... in it?,"お前…
  
 出んのか？
 
 ","you…
  
-Do you go out?",0.2
+Do you go out?",0.2,0.36630732
 "Please, Dad...","バ～カが
  
 昔っから…
@@ -246,13 +246,13 @@ Do you go out?",0.2
 ","Ba-ka
  
 Old-fashioned ...
-.",0.14285714285714285
+.",0.14285714285714285,0.26563433
 Yeah.,"(ｶﾝｸﾛｳ)
 ああ
 ｡
 
 ","Ah
-.",0.3333333333333333
+.",0.3333333333333333,0.60672116
 Tomorrow... is a full moon...,"(
 我愛羅
 )
@@ -264,11 +264,11 @@ Tomorrow... is a full moon...,"(
 ","Tomorrow
  
 Full moon
-.",0.42857142857142855
+.",0.42857142857142855,0.8875354
 "To think you didn't even
 get a scratch...","かすり傷一つ付かないなんて➡
 
-",I can't get a scratch,0.3333333333333333
+",I can't get a scratch,0.3333333333333333,0.74192
 "Perfect, eh, Neji?","完璧ね
  
 ネジ
@@ -277,7 +277,7 @@ get a scratch...","かすり傷一つ付かないなんて➡
 ","Perfect
  
 screw
-.",0.14285714285714285
+.",0.14285714285714285,0.21625662
 "<i>First...it's him...</i>
 <i>in the first match.</i>","《まず
  
@@ -285,21 +285,21 @@ screw
 
 ","""first
  
-A part of the first round ... """,0.17647058823529413
+A part of the first round ... """,0.17647058823529413,0.3139407
 "<i>The strongest man in the</i>
 <i>Leaf is on my team.</i>","(
 リー
 )
 ＜木ノ葉の下忍で最も強い男は➡
 
-",<The strongest man in Kino Leaves is the strongest man,0.4
+",<The strongest man in Kino Leaves is the strongest man,0.4,0.58629453
 <i>It is that...Neji Hyuga!</i>,"それが
  
 あの日向ネジです＞
 
 ","that is
  
-That sunrise screw>",0.23076923076923078
+That sunrise screw>",0.2307692307692308,0.24043325
 <i>Neji...Neji...Neji...</i>,"(ｶｶｼ)
 ＜点穴はな
  
@@ -309,13 +309,13 @@ That sunrise screw>",0.23076923076923078
 ","<Point hole
  
 Clearly speaking
-I can not stop with my mochi eyes>",0.17647058823529413
+I can not stop with my mochi eyes>",0.17647058823529413,0.24946554
 "The first match is Neji Hyuga, right?!","(
 男性１
 )
 第１試合は日向ネジからだろ？
 
-",The first game is from Hinata screw?,0.2857142857142857
+",The first game is from Hinata screw?,0.2857142857142857,0.47428998
 "Yeah. He's the number one rookie
 from last year, right?!","(
 男性２
@@ -328,7 +328,7 @@ from last year, right?!","(
 ","Ah
  
 last year
-Is it Number One Rookie?",0.3333333333333333
+Is it Number One Rookie?",0.3333333333333333,0.8297313
 "Now I can summon a frog...
 It'll be okay.","大丈夫だってばよ！
 ハハ…
@@ -340,7 +340,7 @@ It'll be okay.","大丈夫だってばよ！
 Haha ...
  
 Hahaha ...
-.",0.25
+.",0.25,0.26361895
 Hinata!,"ヒナタ？
 (ﾋﾅﾀ)
 あっ！
@@ -355,7 +355,7 @@ Ah!
  
 vegetable…
  
-Naruto!➡",0.2857142857142857
+Naruto!➡",0.2857142857142857,0.7246674
 W-What are you doing here?,"ど…
  
 どうして
@@ -366,12 +366,12 @@ W-What are you doing here?,"ど…
  
 why
  
-Here?",0.25
+Here?",0.25,0.26157323
 "Today is the final round, isn't it?","きょうは本選じゃ…
 ｡
 
 ","Today is a main election ...
-.",0.14285714285714285
+.",0.14285714285714285,0.41660756
 I... Just something...,"俺は
  
 ちょっとな…
@@ -380,12 +380,12 @@ I... Just something...,"俺は
 ","I am
  
 A little ...
-.",0.25
+.",0.25,0.3901965
 I came to check out this training field.,"この演習場を見に来たんだ
 ｡
 
 ","I came to see this show
-.",0.45454545454545453
+.",0.4545454545454545,0.30920905
 "This is the place where
 I became Genin, so...","ここは俺が
 下忍になった場所だからな
@@ -393,10 +393,10 @@ I became Genin, so...","ここは俺が
 
 ","Here is me
 Because it is a place that became Shimono
-.",0.15789473684210525
+.",0.15789473684210525,0.3924041
 Really? W-Why?,"ん？
 
-",Yeah?,0.25
+",Yeah?,0.25,0.19861035
 Y-You're right. I'm sorry.,"そ…
  
 そうだね
@@ -409,14 +409,14 @@ Y-You're right. I'm sorry.,"そ…
 I agree
  
 sorry
-.",0.3333333333333333
+.",0.3333333333333333,0.30806786
 "Say, Hinata...","なぁ
  
 ヒナタ➡
 
 ","Hoped
  
-Hinata ➡",0.16666666666666666
+Hinata ➡",0.16666666666666666,0.65264
 Is he really strong...?,"やっぱ
  
 あいつ
@@ -427,7 +427,7 @@ Is he really strong...?,"やっぱ
  
 that person
  
-Is it strong?",0.2727272727272727
+Is it strong?",0.2727272727272727,0.718667
 Yes...,"う…
  
 うん
@@ -436,7 +436,7 @@ Yes...,"う…
 ","Cormorant…
  
 Yes
-.",0.25
+.",0.25,0.23450035
 "I bet you can win, Naruto.","きっと勝てるよ
  
 ナルト君
@@ -445,7 +445,7 @@ Yes
 ","I will win
  
 Naruto
-.",0.4444444444444444
+.",0.4444444444444444,0.9017005
 What?,"ん？
 あのね
  
@@ -454,7 +454,7 @@ What?,"ん？
 ","Yeah?
 you know what
  
-I",0.3333333333333333
+I",0.3333333333333333,0.23664245
 "I felt like I was able to become
 stronger than before.","前より自分が
 強くなれた気がしたの
@@ -462,14 +462,14 @@ stronger than before.","前より自分が
 
 ","Previous
 I felt strong
-.",0.23076923076923078
+.",0.2307692307692308,0.6641975
 <i>Hinata! Hang tough!</i>,"＜ヒナタ～！
  
 頑張れ～！＞
 
 ","<Hinata ~!
  
-Good luck!>",0.36363636363636365
+Good luck!>",0.3636363636363637,0.77215797
 "I became able to like
 myself just a little.","予選が終わった時
  
@@ -481,11 +481,11 @@ myself just a little.","予選が終わった時
  
 I am
 I felt a little bit
-.",0.2222222222222222
+.",0.2222222222222222,0.23077722
 <i>stand...</i>,"(ﾋﾅﾀ)
 ＜まっすぐ…➡
 
-",<Straight ... ➡,0.25
+",<Straight ... ➡,0.25,0.38064286
 "From someone else's standpoint,
 it might not look like anything's changed...","他人から見れば
  
@@ -495,7 +495,7 @@ it might not look like anything's changed...","他人から見れば
 ","From others
  
 Nothing changes
-It may not be visible but",0.14285714285714285
+It may not be visible but",0.14285714285714285,0.583336
 but I feel like I was able to change.,"わ…
  
 私は
@@ -506,25 +506,25 @@ but I feel like I was able to change.,"わ…
  
 I
 I feel that I was changing
-.",0.3333333333333333
+.",0.3333333333333333,0.5346582
 Did you really think so?,"ホントに
  
 そう思ったのか？
 
 ","Really
  
-Did you think so?",1.0
+Did you think so?",1.0,0.90054363
 "I may look strong to you,","そりゃ強く見えるかも
 しんねえけど➡
 
 ","You may look strongly
-I'm sorry",0.4
+I'm sorry",0.4,0.6462025
 "And I act tough because
 I'm frustrated.","…なんて思ってたりしてるわけで
 ｡
 
 ","... I think I'm thinking
-.",0.2727272727272727
+.",0.2727272727272727,0.15208142
 It's not like that!,"そんで
  
 悔しいから
@@ -535,7 +535,7 @@ It's not like that!,"そんで
  
 Regret
 It's just getting stronger
-.",0.16666666666666666
+.",0.16666666666666666,0.27237543
 "in my view... you were always
 a proud failure.","でも俺ってば
 いつも失敗ばっかで
@@ -543,13 +543,13 @@ a proud failure.","でも俺ってば
 
 ","But if you
 Always mistake
-.",0.21428571428571427
+.",0.21428571428571427,0.34333506
 So...,"だから…➡
 
-",So ... ➡,0.6666666666666666
+",So ... ➡,0.6666666666666666,0.76106036
 It's because you mess up...,"完璧じゃないから…➡
 
-",Because it is not perfect ... ➡,0.2727272727272727
+",Because it is not perfect ... ➡,0.2727272727272727,0.40226185
 "that you have the strength
 to rise up from that.","そこから
 立ち向かっていく強さがあって
@@ -557,7 +557,7 @@ to rise up from that.","そこから
 
 ","From there
 There is a strength to stand up
-.",0.35714285714285715
+.",0.35714285714285715,0.62028855
 "I think such strength is
 true strength.","本当の強さだと私は思うから
 ｡
@@ -565,7 +565,7 @@ true strength.","本当の強さだと私は思うから
 
 ","Because I think it's true strength
 .
-➡",0.45454545454545453
+➡",0.4545454545454545,0.71929383
 "I... I think you're an
 incredibly strong person.","ナルト君は
 すごく強い人だと思う
@@ -573,7 +573,7 @@ incredibly strong person.","ナルト君は
 
 ","Naruto-kun
 I think he is a very strong person
-.",0.3333333333333333
+.",0.3333333333333333,0.33008784
 "I was depressed,
 which was totally not my character.","俺ってば
 ず～っとドベだったのにな
@@ -581,17 +581,17 @@ which was totally not my character.","俺ってば
 
 ","In case
 It was not a dube
-.",0.2
+.",0.2,0.21115819
 But I feel better now!,"ちっと柄にもなく
 落ち込んでたけど➡
 
 ","There is no pattern
-I depressed but",0.18181818181818182
+I depressed but",0.18181818181818185,0.21558154
 Naruto...,"ナルト君…
 ｡
 
 ","Naruto ...
-.",0.6666666666666666
+.",0.6666666666666666,0.99723655
 Okay! I'm off to the match!,"じゃ
  
 俺ってば
@@ -600,7 +600,7 @@ Okay! I'm off to the match!,"じゃ
 ","well
  
 In case
-I will go to the game!",0.2857142857142857
+I will go to the game!",0.2857142857142857,0.40109995
 But I quite like... people...,"けど
  
 お前みたいなヤツって…
@@ -609,17 +609,17 @@ But I quite like... people...,"けど
 ","but
  
 A guy like you ...
-.",0.3
+.",0.3,0.4054034
 like you!,"結構
  
 好きだってばよ！
 
 ","very well
  
-I like it!",0.2857142857142857
+I like it!",0.2857142857142857,0.33128637
 <i>...like you!</i>,"＜好きだってばよ！＞
 
-",<I like it!>,0.5555555555555556
+",<I like it!>,0.5555555555555556,0.58175653
 "Sorry I'm late, Hinata.","遅刻だ
  
 遅刻！
@@ -636,7 +636,7 @@ well
  
 Later
  
-Hinata!",0.3333333333333333
+Hinata!",0.3333333333333333,0.7785861
 Hm? Hey? Hinata?,"あ？
  
 おい
@@ -647,7 +647,7 @@ Hm? Hey? Hinata?,"あ？
  
 Oi
  
-Hinata?",0.3333333333333333
+Hinata?",0.3333333333333333,0.8233712
 Hmm? W-What?,"≪
 (
 花火の破裂音
@@ -656,7 +656,7 @@ Hmm? W-What?,"≪
 
 ","«
 
-Oh?",0.2
+Oh?",0.2,0.2766005
 Dang it! There's quite a distance!,"まぁ
  
 シノの試合も
@@ -667,7 +667,7 @@ Dang it! There's quite a distance!,"まぁ
  
 Sino game
 It's a long time ...
-.",0.2
+.",0.2,0.03204165
 Brother Naruto!,"≪
 (
 木ノ葉丸
@@ -678,13 +678,13 @@ Brother Naruto!,"≪
 ","«
 
 Naruto brother!
-Yeah?",0.5
+Yeah?",0.5,0.86864305
 "I've come to aid in brother's crisis, here!","(
 木ノ葉丸
 )
 兄ちゃんの危機に参上だコレ！
 
-",I'm going to visit my brother's crisis!,0.375
+",I'm going to visit my brother's crisis!,0.375,0.8144262
 "Konohamaru...
 What're you doing here?!","あ？
  
@@ -696,7 +696,7 @@ What're you doing here?!","あ？
  
 ...
  
-What?",0.3
+What?",0.3,0.093864754
 "There's an ace shortcut where
 you can get straight to the arena, here!","直線で会場まで行ける
 取って置きの近道があるんだコレ
@@ -704,7 +704,7 @@ you can get straight to the arena, here!","直線で会場まで行ける
 
 ","Go to the venue by straight line
 There is a shortcut with
-.",0.20833333333333334
+.",0.20833333333333331,0.60543066
 What?!,"何!?
  
 よっしゃ～！
@@ -717,7 +717,7 @@ What?!,"何!?
 Yes!
 Good job
  
-Kuno Leaf round!",0.3333333333333333
+Kuno Leaf round!",0.3333333333333333,0.17553383
 "Those who control the
 secret path control time.","(
 木ノ葉丸
@@ -728,7 +728,7 @@ secret path control time.","(
 
 ","Those who control the road
 I will control the time
-.",0.5454545454545454
+.",0.5454545454545454,0.69875443
 "As I recall, there's a hole
 in the wall around here...","確か
  
@@ -740,7 +740,7 @@ in the wall around here...","確か
  
 Hole of the wall of this side ...
 .
-➡",0.2
+➡",0.2,0.72104394
 Here it is!,"(
 木ノ葉丸
 )
@@ -750,7 +750,7 @@ Here it is!,"(
 
 ","The story is later
  
-Here's the chore!",0.3333333333333333
+Here's the chore!",0.3333333333333333,0.37994888
 "What's the matter, Konohamaru?","ん？
  
 どうした？
@@ -763,7 +763,7 @@ Here's the chore!",0.3333333333333333
 What happened?
  
 Noodles
-.",0.18181818181818182
+.",0.18181818181818185,0.18430573
 "The secret path has been repaired, here!","抜け道
  
 修理されちゃったコレ…
@@ -772,7 +772,7 @@ Noodles
 ","loophole
  
 Core who has been repaired ...
-.",0.21428571428571427
+.",0.21428571428571427,0.44330555
 Oh! There's no time!,"何～!?
 って
  
@@ -783,13 +783,13 @@ Oh! There's no time!,"何～!?
 In
  
 It's already time to go
-.",0.21428571428571427
+.",0.21428571428571427,0.50706077
 Brother!,"あっ！
 
-",Ah!,0.3333333333333333
+",Ah!,0.3333333333333333,0.41568348
 This hole is a shortcut?,"この穴が近道か？
 
-",Is this hole shortcut?,0.8333333333333334
+",Is this hole shortcut?,0.8333333333333334,0.9767177
 "It's a straight shot to
 the final round arena!","(
 木ノ葉丸
@@ -798,7 +798,7 @@ the final round arena!","(
 間違いなしだコレ！
 
 ","A straight line to the main election site!
-There is no mistake!",0.2631578947368421
+There is no mistake!",0.2631578947368421,0.23960587
 Let's hurry!,"よ～し
  
 急ぐってばよ！
@@ -811,10 +811,10 @@ Let's hurry!,"よ～し
  
 If you hurry!
 
-King!",0.25
+King!",0.25,0.68449616
 Yeah!,"お～お～お～お～～！
 
-",Oh ~ ~ ~ ~ ~ ~!,0.25
+",Oh ~ ~ ~ ~ ~ ~!,0.25,0.40699515
 "Konohamaru!
 What's happening here?!","何!?
  
@@ -828,7 +828,7 @@ What's happening here?!","何!?
 ~
 Good job
  
-Kuno Leaf round!",0.23076923076923078
+Kuno Leaf round!",0.2307692307692308,0.36287594
 "It's okay, here!","大丈夫だコレ！
 本選会場は
  
@@ -837,24 +837,24 @@ Kuno Leaf round!",0.23076923076923078
 ","Okay Kore!
 The main election hall is
  
-Soon Core!➡",0.13333333333333333
+Soon Core!➡",0.13333333333333333,0.29701853
 "See? There's the exit, here!","ほら
  
 出口が見えてきたぞコレ！
 
 ","Seeing
  
-The exit has been seen Kore!",0.21428571428571427
+The exit has been seen Kore!",0.21428571428571427,0.64653665
 Hot-hot-hot-hot-hot-hot!,"あ？
  
 あっ！
 
 ","Ah? 
  
- Ah!",0.25
+ Ah!",0.25,0.18797989
 Kooonooohaaamaaaruuu!,"熱ちちち…！
 
-",Hotten ...!,0.25
+",Hotten ...!,0.25,0.21766233
 "We've gotten further
 and further away!","しかも
  
@@ -864,7 +864,7 @@ and further away!","しかも
 ","Morely
  
 More and more
-You're far away!",0.25
+You're far away!",0.25,0.6559345
 "it was connected to the
 final round arena, here.","いや
  
@@ -876,17 +876,17 @@ final round arena, here.","いや
  
 To this time
 It was connected to the main election site
-.",0.35294117647058826
+.",0.35294117647058826,0.36307824
 "Next approach, right away...","今すぐ次の手を…
 ｡
 
 ","Now the next hand ...
-.",0.2
+.",0.2,0.48439908
 This is it!,"これだ！
 え？
 
 ","This is it!
-picture?",0.6666666666666666
+picture?",0.6666666666666666,0.5603434
 "Think again, brother.","はぁ…
  
 牛かよ
@@ -895,7 +895,7 @@ picture?",0.6666666666666666
 ","...
  
 Cow
-.",0.14285714285714285
+.",0.14285714285714285,0.15453655
 "A feudal lord Bull is not at all in
 the same league as ordinary cows, here.","そこらの牛とは
 全然
@@ -909,7 +909,7 @@ at all
  
 The case is different Kore
 .
-➡",0.24
+➡",0.24,0.49235842
 "Once they start running,
 even race horses grow deathly pale.","一度
  
@@ -919,14 +919,14 @@ even race horses grow deathly pale.","一度
 ","one time
  
 If it runs
-Race horses are also blue",0.1
+Race horses are also blue",0.1,0.5954965
 "Anyway, it's an awesome cow!","とにかく
  
 すっげぇ牛なんだコレ！
 
 ","Anyways
  
-It's a honeybed baby!",0.25
+It's a honeybed baby!",0.25,0.44067335
 "Brother, if you leave the rest to this cow,","兄ちゃん
 後は
  
@@ -935,7 +935,7 @@ It's a honeybed baby!",0.25
 ","Older brother
 Later
  
-If you leave it to this cow ➡",0.5
+If you leave it to this cow ➡",0.5,0.7936487
 "it's just a short run to
 the final round arena, here!","本選会場まで
  
@@ -943,7 +943,7 @@ the final round arena, here!","本選会場まで
 
 ","From the main election site
  
-It's just running!",0.2631578947368421
+It's just running!",0.2631578947368421,0.3390818
 "Okay, let's go!","んじゃ
  
 頼んだぞ
@@ -956,7 +956,7 @@ It's just running!",0.2631578947368421
 I asked
 ~
  
-go!",0.2
+go!",0.2,0.3490551
 Huh? Wha...?!,"は？
  
 あっ
@@ -971,7 +971,7 @@ Ah
  
 Ah…
  
-Wow!",0.2222222222222222
+Wow!",0.2222222222222222,0.3548669
 Ouch!,"(
 鳴き声
 )
@@ -980,14 +980,14 @@ Ouch!,"(
 )
 うわぁ！
 
-",Wow!,0.3333333333333333
+",Wow!,0.3333333333333333,0.27467373
 "Brother, go for it, here!","兄ちゃん
  
 ファイトだコレ！
 
 ","Older brother
  
-Fight Core!",0.2
+Fight Core!",0.2,0.3563101
 "What's going on?
 It's going to start.","(ｻｸﾗ)
 《どういうこと？
@@ -1000,25 +1000,25 @@ It's going to start.","(ｻｸﾗ)
  
 Sasuke
 .
-➡",0.2
+➡",0.2,0.0911237
 <i>And even Naruto...</i>,"それにナルトまで…》
 
-",And to Naruto ...,0.3333333333333333
+",And to Naruto ...,0.3333333333333333,0.70607275
 <i>This is bad!</i>,"《このままじゃヤバいってばよ》
 
-","""If this is a big deal""",0.14285714285714285
+","""If this is a big deal""",0.14285714285714285,0.17562428
 That's it!,"そうだ！
  
 影分身の術！
 
 ","That's it!
  
-Shadow Subordination!",0.6666666666666666
+Shadow Subordination!",0.6666666666666666,0.4635085
 It won't do any good to multiply!,"増やしてどうすんだよ！
 増やして！
 
 ","How to increase it!
-Increase!",0.2727272727272727
+Increase!",0.2727272727272727,0.39635187
 Hmm? What the...?!,"(
 忍１
 )
@@ -1028,23 +1028,23 @@ Hmm? What the...?!,"(
 
 ","Yeah?
  
-What?",0.2857142857142857
+What?",0.2857142857142857,0.39226583
 Naruto Uzumaki?,"(
 忍２
 )
 うずまきナルト？
 
-",Uzumaki Naruto?,1.0
+",Uzumaki Naruto?,1.0,0.99290276
 We leave the rest to you!,"後は
  
 よろしく頼むってばよ！
 
 ","Later
  
-I hope to ask you!",0.2727272727272727
+I hope to ask you!",0.2727272727272727,0.2164467
 Hey!,"あ～！
 
-",Oh!,0.3333333333333333
+",Oh!,0.3333333333333333,0.5887816
 Entry has already!,"(
 忍１
 )
@@ -1062,14 +1062,14 @@ Entry has already!,"(
 Is
  
 It has already begun ...
-.",0.3
+.",0.3,0.43202934
 "<i>What kind...of entrance is</i>
 <i>this kid making...?</i>","(ｼｶﾏﾙ)
 《こいつ
 どういう登場してんだよ…》
 
 ","""this guy
-What kind of appearance ... """,0.29411764705882354
+What kind of appearance ... """,0.29411764705882354,0.30191827
 Naruto.,"(ｻｸﾗ･
 いの
 )
@@ -1077,7 +1077,7 @@ Naruto.,"(ｻｸﾗ･
 ｡
 
 ","Ah
-.",0.3333333333333333
+.",0.3333333333333333,0.16602856
 "Guys, run! A large herd of
 stampeding bulls is coming.","みんな
  
@@ -1089,7 +1089,7 @@ stampeding bulls is coming.","みんな
  
 Run away!
  
-A villain cow is ➡",0.2222222222222222
+A villain cow is ➡",0.2222222222222222,0.46541134
 Huh? What are you talking about?,"あ？
  
 何言ってんだ？
@@ -1102,7 +1102,7 @@ Huh? What are you talking about?,"あ？
 What are you saying?
  
 you
-.",0.4
+.",0.4,0.6048632
 "Jeez! I'm serious.
 So many of them...!","めんどくせぇなぁ
 ｡
@@ -1112,7 +1112,7 @@ So many of them...!","めんどくせぇなぁ
 ","I'm sorry
 .
 Oh ... ...
-.",0.3076923076923077
+.",0.3076923076923077,0.23884724
 "Huh? Hey...
 Where's Sasuke?","あ？
  
@@ -1124,13 +1124,13 @@ Where's Sasuke?","あ？
  
 that?
  
-What is Sasuke?",0.18181818181818182
+What is Sasuke?",0.18181818181818185,0.84179103
 "The Dosu guy I'm supposed
 to fight isn't here, either.","俺とやるドスってヤツもいねえぜ
 ｡
 
 ","The guy who is doing me is also a guy too
-.",0.2
+.",0.2,0.24070987
 Don't be restless.,"(ｹﾞﾝﾏ)
 お～ら
  
@@ -1142,7 +1142,7 @@ Don't be restless.,"(ｹﾞﾝﾏ)
  
 Your point there
 Do Oolo
-.",0.2
+.",0.2,0.18555604
 "Throw out your chests and
 show your faces to the spectators!","しゃんと胸張って
 しっかり客に顔見せしとけ
@@ -1150,7 +1150,7 @@ show your faces to the spectators!","しゃんと胸張って
 
 ","San and chest
 Customer to the customer
-.",0.2
+.",0.2,0.20394376
 "You guys are the stars of
 this final round.","(ｹﾞﾝﾏ)
 この本選
@@ -1161,7 +1161,7 @@ this final round.","(ｹﾞﾝﾏ)
 ","This this selection
  
 You guys are the leading role
-.",0.46153846153846156
+.",0.4615384615384616,0.43927354
 Hey Hinata!,"♬
  
 へたれ闘牛士
@@ -1174,7 +1174,7 @@ Hey Hinata!,"♬
 Battle beef
 Santez
  
-Orire!",0.125
+Orire!",0.125,0.2420139
 People definitely can change!,"♬
  
 世界中ほら
@@ -1185,4 +1185,4 @@ People definitely can change!,"♬
  
 Chinese world
  
-Change",0.125
+Change",0.125,0.31857935

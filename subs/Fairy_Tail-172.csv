@@ -1,177 +1,177 @@
-en_text,jp_text,google_translated,score
-Things are destroyed all over!,大丈夫か？ しっかりしろ！,Are you okay? come on!,0.18181818181818182
-"Well, now...",ンンッ…,Network ...,0.2
-"Anyway, now we have to \Nrebuild the city, right?",今すぐ 星霊魔導士を医務室へ！,Now Go to the medical office,0.21428571428571427
-I've brought him.,手伝うよ！,I will help!,0.125
-"Hey, hey, hey! Hold it a sec!",ひどい傷だけど ２人でやれば！,"It's a terrible scratch, but if you do it alone!",0.26666666666666666
-But what the hell is this?!,その目は何か？,What is that eye?,0.3
-You want us to pull it ourselves?,おかげで盛り上がったではないか,"Thanks to it, isn't it exciting?",0.23076923076923078
-"Oh, I know!",アア…,Oh ...,0.16666666666666666
-Check out the horsepower on my ride...,フフフッ…,Huffy ...,0.1111111111111111
-What was that?,なに？,what?,0.5
-A magic four-wheeler without any magic \Npower is less useful than a push cart.,そんな使えぬクズの娘を,Such a useless daughter,0.0625
+en_text,jp_text,google_translated,score,semantic_score
+Things are destroyed all over!,大丈夫か？ しっかりしろ！,Are you okay? come on!,0.18181818181818185,0.26545596
+"Well, now...",ンンッ…,Network ...,0.2,0.252224
+"Anyway, now we have to \Nrebuild the city, right?",今すぐ 星霊魔導士を医務室へ！,Now Go to the medical office,0.21428571428571427,0.09597696
+I've brought him.,手伝うよ！,I will help!,0.125,0.087613985
+"Hey, hey, hey! Hold it a sec!",ひどい傷だけど ２人でやれば！,"It's a terrible scratch, but if you do it alone!",0.26666666666666666,0.16775396
+But what the hell is this?!,その目は何か？,What is that eye?,0.3,0.34059757
+You want us to pull it ourselves?,おかげで盛り上がったではないか,"Thanks to it, isn't it exciting?",0.2307692307692308,0.21347447
+"Oh, I know!",アア…,Oh ...,0.16666666666666666,0.45207
+Check out the horsepower on my ride...,フフフッ…,Huffy ...,0.1111111111111111,0.23388061
+What was that?,なに？,what?,0.5,0.54910004
+A magic four-wheeler without any magic \Npower is less useful than a push cart.,そんな使えぬクズの娘を,Such a useless daughter,0.0625,0.20013407
 It's still more useful than you.,"でも 盛り上がっております
 ありがとうございます","But it is exciting
-Thank you",0.16666666666666666
-Ouch...,う～ん… ここは冷静にいかんと,Hmm ... here is calm,0.16666666666666666
+Thank you",0.16666666666666666,0.23640463
+Ouch...,う～ん… ここは冷静にいかんと,Hmm ... here is calm,0.16666666666666666,0.25859994
 Listen up! We're dragging this \Nthing to the Royal City at least!,"これは正式な試合ではない
 いざとなれば 我々も行くぞ！","This is not a formal match
-If it is the one, we will go!",0.16
+If it is the one, we will go!",0.16,0.25938854
 "Um, what are you doing?","どうする？
 ルーシィ…","what will you do?
-Lucy ...",0.2727272727272727
-D-Delicate?!,あいさ！,Aise!,0.25
-I understand.,ひとつだけ言っておく,I just say one,0.16666666666666666
+Lucy ...",0.2727272727272727,0.34791085
+D-Delicate?!,あいさ！,Aise!,0.25,0.23160627
+I understand.,ひとつだけ言っておく,I just say one,0.16666666666666666,0.22438386
 "Faust, I order you banished \Nfrom the Royal City.","最強だか
 フィオーレ１だか知らんが","Is it the strongest?
-I do not know Fiore 1",0.1
-But...,ンッ…,...,0.5
+I do not know Fiore 1",0.1,0.10389647
+But...,ンッ…,...,0.5,0.6556244
 "Without my permission, you are not \Nallowed to leave the Royal City.","いちばん怒らせては
 いけないギルドを敵に回した","If you let go
-Turned the guild who should not be",0.13636363636363635
-What is the meaning behind this?,…で どうなんだ？,What is ... with ...,0.2222222222222222
-In that case I'd rather be executed!,ラクサス！,Laxus!,0.1
+Turned the guild who should not be",0.13636363636363635,0.35227847
+What is the meaning behind this?,…で どうなんだ？,What is ... with ...,0.2222222222222222,0.31763357
+In that case I'd rather be executed!,ラクサス！,Laxus!,0.1,0.11454628
 I refuse to live a life of humiliation!,"ウェンディのおかげで
 命に別状はないよ","Thanks to Wendy
-There is no difference in life",0.125
+There is no difference in life",0.125,0.2909283
 That's right. Got it?,"傷なども残らんようで
 安心している","It seems that wounds and so on
-Relieved",0.15384615384615385
-In that case...,あいつら…,A guy ...,0.16666666666666666
-Your actions were noble.,あっ…,Ah…,0.0
-"Furthermore, you have \Nknowledge and experience.",また やっちゃった…,Have you done it again…,0.18181818181818182
+Relieved",0.15384615384615385,0.08091053
+In that case...,あいつら…,A guy ...,0.16666666666666666,0.31268495
+Your actions were noble.,あっ…,Ah…,0.0,0.19223449
+"Furthermore, you have \Nknowledge and experience.",また やっちゃった…,Have you done it again…,0.18181818181818185,0.29239523
 "If you think that to be difficult,","何言ってんだ
 ルーシィのおかげで２位だぞ","What are you saying
-Thanks to Lucy, it is the second place",0.16666666666666666
-"I mean, Faust... Wouldn't he be the same?",剣咬の虎…,Tiger of the swordbite ...,0.13333333333333333
+Thanks to Lucy, it is the second place",0.16666666666666666,0.16803463
+"I mean, Faust... Wouldn't he be the same?",剣咬の虎…,Tiger of the swordbite ...,0.13333333333333333,0.13753322
 "Yes, I noticed.","うん？
 マスター","Yes?
-Master",0.14285714285714285
-Huh?,どうしてですか？,Why?,0.3333333333333333
+Master",0.14285714285714285,0.26838285
+Huh?,どうしてですか？,Why?,0.3333333333333333,0.39515316
 Is being in a guild fun?,"なに？
 ＡＢチーム 統合だと？","what?
-Is it AB team integration?",0.16666666666666666
+Is it AB team integration?",0.16666666666666666,0.18384884
 Yeah!,"点数は どうなるの？
 うん！","What happens to the score?
-Yes!",0.1111111111111111
-I will!,俺は絶対にルーシィの敵を取る,I absolutely take the enemy of Lucy,0.1111111111111111
+Yes!",0.1111111111111111,0.19574058
+I will!,俺は絶対にルーシィの敵を取る,I absolutely take the enemy of Lucy,0.1111111111111111,0.14748749
 Don't ride on the inside!,"４日目のバトルパートは
 タッグマッチなんだね","The battle part on the fourth day is
-It's a tag match",0.11764705882352941
-"And don't have tea, damn it!",そして 特別ゲストは―,And special guests-,0.09090909090909091
+It's a tag match",0.1176470588235294,-0.030077513
+"And don't have tea, damn it!",そして 特別ゲストは―,And special guests-,0.09090909090909093,0.14374833
 "Hey, everyone in the Royal City!","皆さん
 魔水晶映像に ご注目ください","everyone
-Please pay attention to the magic crystal image",0.13333333333333333
-We'll solve any problem you might have!,ありがとうございます,Thank you,0.1
+Please pay attention to the magic crystal image",0.13333333333333333,0.17927586
+We'll solve any problem you might have!,ありがとうございます,Thank you,0.1,0.089203775
 Our fee is fully negotiable!,"第２試合
 人魚の踵 バーサス 蛇姫の鱗","Second game
-Mermaid's Heel Barsus Snake",0.0
+Mermaid's Heel Barsus Snake",0.0,-0.020516014
 Someone help out!,"応援してます！
 頑張ってね！","I support you!
-good luck!",0.1111111111111111
-We'd be happy to!,さあ―,here we go-,0.125
-Witches...,頑張ってね みんな,Good luck everyone,0.0
-Lisanna!,会場が震える！,The venue shakes!,0.2
-"Oh, my...",今 ここに…,Now here ...,0.16666666666666666
-I believed...,さっきは どうなるかと思ったよ,I thought what happened before,0.14285714285714285
-And what parent is there that \Ndoesn't believe in their child?,星霊魔導士がいない,There is no star spirit,0.125
+good luck!",0.1111111111111111,0.3006796
+We'd be happy to!,さあ―,here we go-,0.125,0.33899087
+Witches...,頑張ってね みんな,Good luck everyone,0.0,-0.02522786
+Lisanna!,会場が震える！,The venue shakes!,0.2,0.19922605
+"Oh, my...",今 ここに…,Now here ...,0.16666666666666666,0.36617827
+I believed...,さっきは どうなるかと思ったよ,I thought what happened before,0.14285714285714285,0.3705733
+And what parent is there that \Ndoesn't believe in their child?,星霊魔導士がいない,There is no star spirit,0.125,0.20482914
 "You two, Natsu...","貴様
 また前回のように手荒なマネを…","you
-Also as the last time, the rough man ...",0.25
-Master...,エクリプス…,Eclipse ...,0.3333333333333333
-That's right. This will always be your home.,計画は３日後に発動します,The plan will be activated 3 days later,0.125
-Cry all you'd like... \NBefore the party that is.,フッ…,Hook ...,0.07692307692307693
-"The guild's changed, too...",祭りか…,Festival ...,0.125
-Do I?,燃えてきたぞ,I'm burning,0.2
-The Raijinshuu! It's rare \Nto see you in the guild.,かつては別の呼ばれ方をしていた,It was once called another call,0.058823529411764705
-*gloom*,竜と 人と 魔の宴,Dragon and people and magic feast,0.0
-So loud!,フォー！,Four!,0.25
+Also as the last time, the rough man ...",0.25,0.22212788
+Master...,エクリプス…,Eclipse ...,0.3333333333333333,0.27402684
+That's right. This will always be your home.,計画は３日後に発動します,The plan will be activated 3 days later,0.125,0.17559783
+Cry all you'd like... \NBefore the party that is.,フッ…,Hook ...,0.07692307692307693,0.14365079
+"The guild's changed, too...",祭りか…,Festival ...,0.125,0.23198435
+Do I?,燃えてきたぞ,I'm burning,0.2,0.29772973
+The Raijinshuu! It's rare \Nto see you in the guild.,かつては別の呼ばれ方をしていた,It was once called another call,0.05882352941176471,-0.058898006
+*gloom*,竜と 人と 魔の宴,Dragon and people and magic feast,0.0,0.17674708
+So loud!,フォー！,Four!,0.25,0.33769745
 He's like that.,"バッカスさん
 ワイルドに やっちゃいましょう","Mr. Bakkas
-Let's do it in wild",0.08333333333333333
-I ain't some freak-show!,ウサギと俺は…,Rabbit and I ...,0.1111111111111111
-Aye!,お… お～っと！ これは美しい！,Oh ... Oh!This is beautiful!,0.14285714285714285
+Let's do it in wild",0.08333333333333333,0.13562022
+I ain't some freak-show!,ウサギと俺は…,Rabbit and I ...,0.1111111111111111,0.21209067
+Aye!,お… お～っと！ これは美しい！,Oh ... Oh!This is beautiful!,0.14285714285714285,0.23543833
 "So then, can you please pulverize the Dragon \NSlayers that are overly excited and running amok?","ウサギが…
 いよいよ正体が分かるぞ","Rabbit ...
-You can finally understand the correctness",0.13043478260869565
+You can finally understand the correctness",0.13043478260869565,0.15153581
 Let's fight right now!,"さて
 ついに君を解放する時が来たよ","Now
-Finally when you release you",0.1
-Everyone seems to get the \Nsame first impression.,一夜さんの試合に集中してください,Please concentrate on the game of the night,0.06666666666666667
+Finally when you release you",0.1,0.2733404
+Everyone seems to get the \Nsame first impression.,一夜さんの試合に集中してください,Please concentrate on the game of the night,0.06666666666666668,-0.020937372
 That's what makes it fun!,"見せてやるがいい
 そのイケメンフェースを！","Show me to show
-That handsome face!",0.16666666666666666
-Incredible...,一体…,...,0.5
-Erza!,あっ！,Ah!,0.3333333333333333
-"Oh yeah... In Edolas, you \Nworked with Erza, yes?",…て 何してんだ？ てめえら,... What are you doing?Fancy,0.1875
-"Looks like you've got the \Neye of a bigshot, there...",ぶ…,...,0.07692307692307693
-S-She's expecting something from me?!,香りだぜ,It's scent,0.1
-"Enough. I may not look like it now, but \NI was a Regiment Commander in Edolas.",全然 ワイルドじゃねえ！,It is not a wild!,0.14285714285714285
-True...,オッ… しっかりしねえか,O't ... firmly,0.25
-So? Why are the main people fighting?,でも なんでニチヤが青い天馬に？,But why Nichiya is blue tie horse?,0.14285714285714285
-The fierce clash of naked \Nbody against naked body!,森の奥へ入っていった,I entered the back of the forest,0.15384615384615385
-"That's how it is! Let in the fray, Natsu!",うん　あれは ある晴れた昼下がり,"Yeah, there is a sunny afternoon",0.11764705882352941
-I knew it'd turn out like this.,そして 森から出ようとしたのだが,And I tried to get out of the forest,0.125
-Fairy Tail's gotta be like this.,これは もしかして―,This is also,0.09090909090909091
+That handsome face!",0.16666666666666666,0.06957657
+Incredible...,一体…,...,0.5,0.43326956
+Erza!,あっ！,Ah!,0.3333333333333333,0.3770932
+"Oh yeah... In Edolas, you \Nworked with Erza, yes?",…て 何してんだ？ てめえら,... What are you doing?Fancy,0.1875,0.07061827
+"Looks like you've got the \Neye of a bigshot, there...",ぶ…,...,0.07692307692307693,0.15359779
+S-She's expecting something from me?!,香りだぜ,It's scent,0.1,0.21285915
+"Enough. I may not look like it now, but \NI was a Regiment Commander in Edolas.",全然 ワイルドじゃねえ！,It is not a wild!,0.14285714285714285,0.0868235
+True...,オッ… しっかりしねえか,O't ... firmly,0.25,0.22108723
+So? Why are the main people fighting?,でも なんでニチヤが青い天馬に？,But why Nichiya is blue tie horse?,0.14285714285714285,0.24044666
+The fierce clash of naked \Nbody against naked body!,森の奥へ入っていった,I entered the back of the forest,0.15384615384615385,0.08137276
+"That's how it is! Let in the fray, Natsu!",うん　あれは ある晴れた昼下がり,"Yeah, there is a sunny afternoon",0.1176470588235294,0.14011651
+I knew it'd turn out like this.,そして 森から出ようとしたのだが,And I tried to get out of the forest,0.125,0.21770278
+Fairy Tail's gotta be like this.,これは もしかして―,This is also,0.09090909090909093,0.21139923
 "The Edolas you, Gramps?","行けば行くほど深みに はまり
 やがて 飢えと喉の渇きに力尽き","If you go, the more you go to depth
-Big tight and thirsty thirst",0.1875
-"He was backwards, right? I'm curious...",迷ってしまった香り メェ～ン…,Aroma Me ... I got lost ...,0.14285714285714285
+Big tight and thirsty thirst",0.1875,0.085341096
+"He was backwards, right? I'm curious...",迷ってしまった香り メェ～ン…,Aroma Me ... I got lost ...,0.14285714285714285,0.15133008
 What is it?,"だが 幸運なことに その場所は
 アースランドに やって来た―","But it is lucky that the place is
-She came to Earthland-",0.15384615384615385
-Well...,ウウッ…,Uh ...,0.3333333333333333
-He might've been a frog or a fish...,こういうときは やはり…,Such a time is still ...,0.15384615384615385
-That's mean!,それは良かった メェン,That was good Moen,0.14285714285714285
-what is the point of fight in the first...,往年の恋愛ドラマの香り…,The scent of the old love drama ...,0.23076923076923078
-For goodness sake...,メェ～ン…,Me ...,0.2
-He is.,一夜さん そいつ 戦えるのかよ？,Is it possible to fight one night?,0.1
+She came to Earthland-",0.15384615384615385,0.060368013
+Well...,ウウッ…,Uh ...,0.3333333333333333,0.62653804
+He might've been a frog or a fish...,こういうときは やはり…,Such a time is still ...,0.15384615384615385,0.11382281
+That's mean!,それは良かった メェン,That was good Moen,0.14285714285714285,0.17829704
+what is the point of fight in the first...,往年の恋愛ドラマの香り…,The scent of the old love drama ...,0.2307692307692308,0.19124432
+For goodness sake...,メェ～ン…,Me ...,0.2,0.2975797
+He is.,一夜さん そいつ 戦えるのかよ？,Is it possible to fight one night?,0.1,0.110281356
 He was raised in this guild.,"体が回復するまで
 この森で英気を養っていきたまえ","Until the body recovers
-After feeding the spirit in this forest",0.13333333333333333
-"Will you be staying in town \Nfor a little while, Gildarts?",何をするか！,what will you do!,0.125
+After feeding the spirit in this forest",0.13333333333333333,0.103381366
+"Will you be staying in town \Nfor a little while, Gildarts?",何をするか！,what will you do!,0.125,0.38490212
 "Hmm, I'm not sure.","更なる友情が
 芽生えていったのだよ","Further friendship
-I felt sprouted",0.09090909090909091
+I felt sprouted",0.09090909090909093,0.16752227
 I have a little something to discuss...,"当たり前だ
 私と同じ顔をしている！","No wonder
-I have the same face as me!",0.125
-Unacceptable!,ウソ～ン！,Uso ~!,0.25
+I have the same face as me!",0.125,0.1505073
+Unacceptable!,ウソ～ン！,Uso ~!,0.25,0.3303278
 "Work, you say?","勝負ありですかね
 ありがとうございます","Is there a match?
-Thank you",0.2
-"Strictly speaking, even \Nif they are a dark guild,",これで２対１,This is a two-to-one,0.07692307692307693
+Thank you",0.2,0.06057119
+"Strictly speaking, even \Nif they are a dark guild,",これで２対１,This is a two-to-one,0.07692307692307693,0.03700967
 that was still a violation of the \Nprohibition between warring guilds!,"これで終わりだ！
 食らいやがれ！","This is the end!
-Eat!",0.125
-"No, I do not think so.",全く戦えない紳士とも知らず,I do not know the gentleman who can not fight at all,0.1875
-"And what's worse, I hear they \Nare allies of this Jellel!",そして なんてイケメンなんだ,And what is handsome,0.125
+Eat!",0.125,0.060188547
+"No, I do not think so.",全く戦えない紳士とも知らず,I do not know the gentleman who can not fight at all,0.1875,0.0929607
+"And what's worse, I hear they \Nare allies of this Jellel!",そして なんてイケメンなんだ,And what is handsome,0.125,0.039581083
 "In order to take back the \Ntrust people once had in us,","それなのに
 君は私たちと共に戦う道を選んだ","That
-You chose the way to fight with us",0.16666666666666666
-Fairy Tail has no future!,いや まだです！,No!,0.3333333333333333
+You chose the way to fight with us",0.16666666666666666,0.36650497
+Fairy Tail has no future!,いや まだです！,No!,0.3333333333333333,0.23618592
 "Next, we'll force the guild to breakup!","ウサギの正体に続き 青い天馬の
 一夜も ついに倒れました！","Continued to the right of rabbit
-He fell overnight!",0.17647058823529413
-No...,ンンッ… アア…,... Aa ...,0.3333333333333333
-trick you into using the \NR-system to cause a disaster.,ムキメン,Mukimen,0.0
-Call the two!,イケメンこそが正義！,Ikemen is justice!,0.14285714285714285
-The Holy Order of the Magic Council!,勝利という名の香りを,The scent of the name of victory,0.2
-"I hope Natsu can  meeting Igneel soon, ton.",食らうがいい,I can eat,0.18181818181818182
-Iron Fist of the Fire Dragon!,ウウッ！,Uh!,0.125
+He fell overnight!",0.17647058823529413,0.26484126
+No...,ンンッ… アア…,... Aa ...,0.3333333333333333,0.1754834
+trick you into using the \NR-system to cause a disaster.,ムキメン,Mukimen,0.0,0.045316197
+Call the two!,イケメンこそが正義！,Ikemen is justice!,0.14285714285714285,0.27444756
+The Holy Order of the Magic Council!,勝利という名の香りを,The scent of the name of victory,0.2,0.24427992
+"I hope Natsu can  meeting Igneel soon, ton.",食らうがいい,I can eat,0.18181818181818185,0.07279738
+Iron Fist of the Fire Dragon!,ウウッ！,Uh!,0.125,0.21505958
 Is that how it is?,"どんだけイケメンなんだよ？
 あんた","Is it only handsome?
-Aunt",0.375
-Is it no use?,いやぁ いい試合でしたね,"No, it was a good match",0.2
-Close to me...,メェ～ンぼくない…,Me-no ...,0.2
+Aunt",0.375,0.17069486
+Is it no use?,いやぁ いい試合でしたね,"No, it was a good match",0.2,0.15128997
+Close to me...,メェ～ンぼくない…,Me-no ...,0.2,0.42604914
 I'm sorry.,"人魚の踵 カグラ
 アンド ミリアーナ！","Ma grass of mermaids
-And Miliona!",0.0
-It's drying outside.,さて 続く第２試合ですが―,It is the second game that lasts-,0.09090909090909091
+And Miliona!",0.0,0.08008933
+It's drying outside.,さて 続く第２試合ですが―,It is the second game that lasts-,0.09090909090909093,0.13642253
 My underwear?,"解説のナツさん
 この対戦 いかがでしょうか？","Commentary Natsu
-How about this match?",0.1111111111111111
+How about this match?",0.1111111111111111,0.049706236
 You know what this is...,"ミリアーナは猫になって
 ウルウルってやってれば楽勝だな","Millina is a cat
-If you do Uluru, it is easy victory",0.125
-I'm more your protector than your partner...,さすが ナツさん,I'm sorry,0.2222222222222222
+If you do Uluru, it is easy victory",0.125,0.17954153
+I'm more your protector than your partner...,さすが ナツさん,I'm sorry,0.2222222222222222,0.18167026

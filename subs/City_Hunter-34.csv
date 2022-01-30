@@ -1,234 +1,234 @@
-en_text,jp_text,google_translated,score
-Ryo!,リョウ～！,Ryo ~!,0.6666666666666666
-Right!,はい～！,Yes!,0.3333333333333333
-What?,なんだあ？,What is it?,0.5
-Papa! Papa!,パパ～ッ！,Papa ~!,0.6666666666666666
-Pa... Papa?!,パッ… パッ… パパァ？,Pack ... Pa ... Papa?,0.6666666666666666
-"What about it, Ryo? Sure you\Nhave no idea about this?",どうなの？ リョウ,What about?Rhyo,0.25
-You're sure?,本当は 心当たりがあるんじゃなぁい？,Aren't you really heard?,0.25
-But you think she's been abandoned?,しかし… まさか捨て子じゃあ…,But ... Masaka abandoned ...,0.2
+en_text,jp_text,google_translated,score,semantic_score
+Ryo!,リョウ～！,Ryo ~!,0.6666666666666666,0.9189594
+Right!,はい～！,Yes!,0.3333333333333333,0.55785453
+What?,なんだあ？,What is it?,0.5,0.43106046
+Papa! Papa!,パパ～ッ！,Papa ~!,0.6666666666666666,0.88886994
+Pa... Papa?!,パッ… パッ… パパァ？,Pack ... Pa ... Papa?,0.6666666666666666,0.8204454
+"What about it, Ryo? Sure you\Nhave no idea about this?",どうなの？ リョウ,What about?Rhyo,0.25,0.58112895
+You're sure?,本当は 心当たりがあるんじゃなぁい？,Aren't you really heard?,0.25,0.2745466
+But you think she's been abandoned?,しかし… まさか捨て子じゃあ…,But ... Masaka abandoned ...,0.2,0.4724103
 I don't believe it!\NA child that cute?,"ええ～！ そ～んな…
 こんなかわいい子を？","Yeah ~!Well ...
-Do you have such a cute girl?",0.2
-This child is in danger. Please keep\NNana with you for a while.,しばらくの間 奈々を預かって下さい,Please leave Nana for a while,0.26666666666666666
-Can the way a letter smells\Ntell you something?,なんか分かんの？ 手紙のにおいで…,Did you know something?Smell of letters ...,0.2
+Do you have such a cute girl?",0.2,0.451186
+This child is in danger. Please keep\NNana with you for a while.,しばらくの間 奈々を預かって下さい,Please leave Nana for a while,0.26666666666666666,0.4220794
+Can the way a letter smells\Ntell you something?,なんか分かんの？ 手紙のにおいで…,Did you know something?Smell of letters ...,0.2,0.72557837
 "This sweet fragrance,\Nno doubt this is...","こっ この甘～いにおい はぁっ…
 これはまさしく…！","This sweet ~ smell is ...
-This is exactly ...!",0.3333333333333333
-The smell of a married woman!,人妻のを～っ！ においだああ～っ！,A married woman!Oh yeah!,0.4444444444444444
+This is exactly ...!",0.3333333333333333,0.692227
+The smell of a married woman!,人妻のを～っ！ においだああ～っ！,A married woman!Oh yeah!,0.4444444444444444,0.5765454
 Don't display your perverted self\Nin front of a child!,"子供の前で変態モッコリは
 しまっときなさいっ！","Hentai mockori in front of children
-I'm sorry!",0.16666666666666666
-And that was Mama punishing\Nmokkori-maniac Papa!,と ママに叱られたモッコリパパでした,It was a moccoli papa who was scolded by mom,0.14285714285714285
+I'm sorry!",0.16666666666666666,0.47391534
+And that was Mama punishing\Nmokkori-maniac Papa!,と ママに叱られたモッコリパパでした,It was a moccoli papa who was scolded by mom,0.14285714285714285,0.5252402
 "Ryo, can't you walk faster than that?","リョウ！ しっかり歩けないの？
 まるでグータラパパよ","Ryo!Can't walk well?
-Gota La Papa",0.3333333333333333
-But why do I have to come along?,俺まで引っ張ってこなくったって…,I went back to me ...,0.15384615384615385
-What did you say?,なんか言った？,Say something?,0.3333333333333333
-"Oh, nothing at all.",いえ？ あはっ 別に…,"House?Oh, apart ...",0.2
+Gota La Papa",0.3333333333333333,0.6056572
+But why do I have to come along?,俺まで引っ張ってこなくったって…,I went back to me ...,0.15384615384615385,0.27882203
+What did you say?,なんか言った？,Say something?,0.3333333333333333,0.4191436
+"Oh, nothing at all.",いえ？ あはっ 別に…,"House?Oh, apart ...",0.2,0.1918094
 "So true, and she's got\Nsome beautiful legs.","-ほ～んと きれいな脚線美ね～
 -ギクッ…","-Ho-N and beautiful legs
-- Giku ...",0.21428571428571427
-"Ryo, not in front of a child!",リョウ～！ 子供の前で！,Ryo ~!In front of the child!,0.5454545454545454
+- Giku ...",0.21428571428571427,0.35560295
+"Ryo, not in front of a child!",リョウ～！ 子供の前で！,Ryo ~!In front of the child!,0.5454545454545454,0.91709733
 "Really?! Well, we better hurry!","えっ ほんと～？
 そ～りゃ急がなくっちゃあ！","Ehen really?
-Well, there is no Reap!",0.38461538461538464
-"Hey, Ryo!",こら！ リョウ！,Hey!Ryo!,0.75
-That was a close one.,な～んかうまく逃げられたなあ…,I was relieved well.,0.2222222222222222
-What are you waiting on?\NThe bathroom is over there.,ああ？ どうした？ トイレはそこだぞ,Ah?What happened?The toilet is there,0.25
-Thank you.,サンキュー！,thank you!,0.5
-"Man, that's cold!",うう～ん ちべたぁ！,"Umm, Chibuta!",0.25
-Just like you! It's almost like you are\Na real father and daughter.,ほんっとの親子みたいよ,It looks like a really parent and child,0.16666666666666666
-Real father and daughter...,はっ… ほんとの親子か…,Ha ... really parent and child ...,0.2222222222222222
-"Nana, where do you want to go next?",奈々ちゃん！ 次はどこへ行こうかな？,Nana!Where are you going next?,0.38461538461538464
+Well, there is no Reap!",0.38461538461538464,0.22415128
+"Hey, Ryo!",こら！ リョウ！,Hey!Ryo!,0.75,0.9552955
+That was a close one.,な～んかうまく逃げられたなあ…,I was relieved well.,0.2222222222222222,0.27810138
+What are you waiting on?\NThe bathroom is over there.,ああ？ どうした？ トイレはそこだぞ,Ah?What happened?The toilet is there,0.25,0.5283146
+Thank you.,サンキュー！,thank you!,0.5,0.7146738
+"Man, that's cold!",うう～ん ちべたぁ！,"Umm, Chibuta!",0.25,0.25562537
+Just like you! It's almost like you are\Na real father and daughter.,ほんっとの親子みたいよ,It looks like a really parent and child,0.16666666666666666,0.5053971
+Real father and daughter...,はっ… ほんとの親子か…,Ha ... really parent and child ...,0.2222222222222222,0.6697515
+"Nana, where do you want to go next?",奈々ちゃん！ 次はどこへ行こうかな？,Nana!Where are you going next?,0.38461538461538464,0.9269607
 "I'm not asking you.\NI'm asking Nana, right?","あんたはいいの 奈～々ちゃんに
 聞いてるんだからね～","Yes Yasu Nana-Chan
-I'm listening ~",0.14285714285714285
-Panda!,パンダ！,Panda!,1.0
-"Okay, next stop is Ueno Zoo!",よ～し 上野動物園に決定～！,I decided to Ueno Zoo!,0.2727272727272727
-Who do you think you're\Nsaying bye to?,誰を見送ってんの？,Who is watching through?,0.18181818181818182
-I mean...,いってらっしゃ～い…,I'm looking forward to ...,0.2857142857142857
-Very good.,んっ よろし…,Good luck ...,0.2
-Say cheese!,はいっ チ～ズ！,Has cheese!,0.5
-"Nana, can you see?",奈々ちゃん！ よく見える？,Nana!Watch well?,0.2222222222222222
-Have you seen enough?,ああ…？,Ah…?,0.16666666666666666
-Not yet.,まだ,yet,0.3333333333333333
-I'm tired.,疲れちゃったよお…,I'm tired ...,0.6
-Mama...,ママ…,Mom ...,0.3333333333333333
-I've finally found her.\NThat little girl's my granddaughter.,やっと見つけた…,Finally I found it ...,0.23076923076923078
-Go!,行け！,go!,1.0
-I'm gonna eat you up!,食べちゃうぞ～ うえぇ～！,I'm eating ~ ~ ~ ~!,0.3
-Or maybe you just operate on\Nthe same level as a kid.,それとも レベルが一緒なのかな？,Or is the level together?,0.125
-"Papa, what's keeping you?\NI'm over here!",パパ～ どうしたの 奈々はこっちよ～！,Daddy ~ What's Nana Nana is here!,0.25
-"Kaori, go ahead and take\NNana to the car.",香 奈々ちゃんと先に車に乗るんだ,I'm going to the car earlier,0.21428571428571427
-"Nana, ready, bang!",奈々ちゃ～ん！,Nana!,0.4
+I'm listening ~",0.14285714285714285,0.4083397
+Panda!,パンダ！,Panda!,1.0,1.0000001
+"Okay, next stop is Ueno Zoo!",よ～し 上野動物園に決定～！,I decided to Ueno Zoo!,0.2727272727272727,0.82812494
+Who do you think you're\Nsaying bye to?,誰を見送ってんの？,Who is watching through?,0.18181818181818185,0.40084666
+I mean...,いってらっしゃ～い…,I'm looking forward to ...,0.2857142857142857,0.32957324
+Very good.,んっ よろし…,Good luck ...,0.2,0.32960367
+Say cheese!,はいっ チ～ズ！,Has cheese!,0.5,0.73933816
+"Nana, can you see?",奈々ちゃん！ よく見える？,Nana!Watch well?,0.2222222222222222,0.67700994
+Have you seen enough?,ああ…？,Ah…?,0.16666666666666666,0.1364347
+Not yet.,まだ,yet,0.3333333333333333,0.39491397
+I'm tired.,疲れちゃったよお…,I'm tired ...,0.6,0.8511728
+Mama...,ママ…,Mom ...,0.3333333333333333,0.80614096
+I've finally found her.\NThat little girl's my granddaughter.,やっと見つけた…,Finally I found it ...,0.2307692307692308,0.32376304
+Go!,行け！,go!,1.0,0.99999994
+I'm gonna eat you up!,食べちゃうぞ～ うえぇ～！,I'm eating ~ ~ ~ ~!,0.3,0.56944305
+Or maybe you just operate on\Nthe same level as a kid.,それとも レベルが一緒なのかな？,Or is the level together?,0.125,0.36529773
+"Papa, what's keeping you?\NI'm over here!",パパ～ どうしたの 奈々はこっちよ～！,Daddy ~ What's Nana Nana is here!,0.25,0.39085463
+"Kaori, go ahead and take\NNana to the car.",香 奈々ちゃんと先に車に乗るんだ,I'm going to the car earlier,0.21428571428571427,0.4311516
+"Nana, ready, bang!",奈々ちゃ～ん！,Nana!,0.4,0.6911829
 Be careful! You have to watch\Nwhere you're walking.,"危ないね～ 足元には
 十分注意した方がいいよ～","Dangerous ~ At the foot
-You should be careful enough ~",0.17647058823529413
-Bastard!,この野郎～！,This bastard ~!,0.5
-"Wow, look at Papa!",わあ～っ パパかっこいい～！ あ…,Wow ~ Papa cool!a…,0.3333333333333333
-"Hey, you're hurting my poor car.",おいおい 俺の愛車がかわいそうだぜ,Hey my favorite car is pretty,0.25
-You bastard!,ほざけ この野郎！ ああ…,This bastard!Ah…,0.4
+You should be careful enough ~",0.17647058823529413,0.53795755
+Bastard!,この野郎～！,This bastard ~!,0.5,0.7295962
+"Wow, look at Papa!",わあ～っ パパかっこいい～！ あ…,Wow ~ Papa cool!a…,0.3333333333333333,0.6972851
+"Hey, you're hurting my poor car.",おいおい 俺の愛車がかわいそうだぜ,Hey my favorite car is pretty,0.25,0.4868306
+You bastard!,ほざけ この野郎！ ああ…,This bastard!Ah…,0.4,0.6310012
 "I may not be her real father,","黙って子供を渡すほど
 薄情な親になれなくってなあ","Scrassing and passing a child
-I can not become a thin parent",0.11764705882352941
-but that doesn't mean I'm going to just\Nstand by and let you take her.,おいててててて…,I'm looking forward to ...,0.15
-Damn!,ちきしょ～！,Chikishi!,0.3333333333333333
-Nana...,はぁっ… ママ！,Haa ... Mom!,0.2
-Nana!,ママ～！ ママ！ ママ～！,Mom ~!Mom!Mom ~!,0.25
+I can not become a thin parent",0.1176470588235294,0.29511777
+but that doesn't mean I'm going to just\Nstand by and let you take her.,おいててててて…,I'm looking forward to ...,0.15,0.1932705
+Damn!,ちきしょ～！,Chikishi!,0.3333333333333333,0.19792964
+Nana...,はぁっ… ママ！,Haa ... Mom!,0.2,0.3989379
+Nana!,ママ～！ ママ！ ママ～！,Mom ~!Mom!Mom ~!,0.25,0.42442632
 I'm sorry. It's... it's all Mama's fault.,"ごめんなさい ママが…
 ママが悪かったわ…","I'm sorry Mom ...
-My mom was bad ...",0.2857142857142857
-Mama! Mama!,ママ～！,Mom ~!,0.25
-"After all, you can't beat\Nthe real thing.",やっぱり 本物のママにはかなわないわね,After all it doesn't matter to real mom,0.26666666666666666
-How horrible!,ひど～い！,Herout!,0.25
+My mom was bad ...",0.2857142857142857,0.68788815
+Mama! Mama!,ママ～！,Mom ~!,0.25,0.6613035
+"After all, you can't beat\Nthe real thing.",やっぱり 本物のママにはかなわないわね,After all it doesn't matter to real mom,0.26666666666666666,0.37101987
+How horrible!,ひど～い！,Herout!,0.25,0.22425847
 "He refuses to recognize the marriage\Nof Nana's mother and father,","奈々ちゃんのパパとママの結婚を
 認めないのに","Nana's dad and mom marriage
-I do not admit",0.15789473684210525
+I do not admit",0.15789473684210525,0.769665
 That old man is so selfish!,"奈々ちゃんを取り上げようだなんて
 ムシがよすぎるわ！ そのじいさん","It seems that Nana is taken up
-Mushi is too good!That grand",0.1875
+Mushi is too good!That grand",0.1875,0.14840563
 It's only natural that the old man\Nwould want his granddaughter.,"まあ じいさんが奈々ちゃんを
 欲しがるのも 当然のことかもね","Well, Mr. Nana
-It may be natural to want",0.15789473684210525
-"Ryo, just whose side are you on?!",リョウ！,Ryo!,0.2
-I wonder...,さあ ねぇ…,Well ... ...,0.25
-I think I'll have another glass.,もう１杯 もらおっかな,Another cup,0.125
-"Sir, do you really plan\Nto use the gun?!",社長 ほんとに銃を使うんですか？,Do you use a gun really a gun?,0.5
+It may be natural to want",0.15789473684210525,0.44075277
+"Ryo, just whose side are you on?!",リョウ！,Ryo!,0.2,0.6334195
+I wonder...,さあ ねぇ…,Well ... ...,0.25,0.4596058
+I think I'll have another glass.,もう１杯 もらおっかな,Another cup,0.125,0.42526802
+"Sir, do you really plan\Nto use the gun?!",社長 ほんとに銃を使うんですか？,Do you use a gun really a gun?,0.5,0.5913082
 "Since my son is dead, the only one\Nleft to succeed me is that child.","息子が死んでしまった今
 跡を継ぐのはあの子しかいない","My son died now
-There is only a few that to succeed the trace",0.38095238095238093
+There is only a few that to succeed the trace",0.3809523809523809,0.4845762
 "I had thought that if... if Nana had\Nreally been abandoned,","奈々ちゃんが捨て子だったら
 引き取って育てもいいなあ～って…","If Nana is a dot
-She picks up and raising it ...",0.15
-I'm mad!,んっ… た はあっ…,... I'm sorry ...,0.3333333333333333
+She picks up and raising it ...",0.15,0.6479527
+I'm mad!,んっ… た はあっ…,... I'm sorry ...,0.3333333333333333,0.28402707
 I'm going to go pay a visit\Nto that grandfather!,"許せないわ！ あたしこれから
 そのじいさんのとこ行ってくる！","I can not forgive!From now on
-I'm going to go ahead!",0.3333333333333333
-"Hey, hold it a second!",お おい！ ちょっと待てよ！,Oop!Wait a minute!,0.2
-Do you know his address?,じいさんち 知ってんのかあ？,Do you know your grandma?,0.5
-"My, my, that's not a nice way\Nto pay a visit.",おやおや 随分物騒な訪問の仕方だこと,It is a way of visiting a wonderful visit,0.11764705882352941
-"Ryo, what are you doing?!",リョウ！ どういうつもり？,Ryo!What do you mean?,0.5
+I'm going to go ahead!",0.3333333333333333,0.2073805
+"Hey, hold it a second!",お おい！ ちょっと待てよ！,Oop!Wait a minute!,0.2,0.47250637
+Do you know his address?,じいさんち 知ってんのかあ？,Do you know your grandma?,0.5,0.38869074
+"My, my, that's not a nice way\Nto pay a visit.",おやおや 随分物騒な訪問の仕方だこと,It is a way of visiting a wonderful visit,0.1176470588235294,0.41554317
+"Ryo, what are you doing?!",リョウ！ どういうつもり？,Ryo!What do you mean?,0.5,0.76845914
 That's a real gun he's got there.\NI'd rather not get myself hurt.,"だあってその銃本物だぜ～？
 僕ちゃん怪我したくないもん","That's the gun genuine?
-I do not want to get injured",0.21739130434782608
+I do not want to get injured",0.21739130434782608,0.4915575
 And you call yourself\NNana's grandfather?!,"あんたそれでも
 奈々ちゃんのおじいちゃんなの！","I still
-Nana's grandfather!",0.2727272727272727
+Nana's grandfather!",0.2727272727272727,0.5672424
 but do you think Nana will be happy?!,"奈々ちゃんを取り上げれば
 あんたは満足だろうけど…","If you take up Nana
-You will be satisfied but ...",0.3333333333333333
-Father!,最低！,Minimum!,0.3333333333333333
-Father?,ううっ… お父様？ ふんっ！,Uh ... my father?Fun!,0.2857142857142857
-Please leave us alone!,私達に構わないで下さい！,Please do not mind!,0.25
-I don't think so!,わしは真剣じゃ！,I'm serious!,0.25
-"No, Nana is my child!",いやですっ！ 奈々は私の子供です！,No!Nana is my child!,0.8571428571428571
+You will be satisfied but ...",0.3333333333333333,0.70842355
+Father!,最低！,Minimum!,0.3333333333333333,0.34353715
+Father?,ううっ… お父様？ ふんっ！,Uh ... my father?Fun!,0.2857142857142857,0.612483
+Please leave us alone!,私達に構わないで下さい！,Please do not mind!,0.25,0.4479757
+I don't think so!,わしは真剣じゃ！,I'm serious!,0.25,0.3910865
+"No, Nana is my child!",いやですっ！ 奈々は私の子供です！,No!Nana is my child!,0.8571428571428571,0.99103904
 You're wrong! She's my granddaughter.,"そうはいかん！
 今度はお前が思い知るがよい！","That's right!
-This time you know you!",0.21428571428571427
-Silence!,うるさい！,Noisy!,0.3333333333333333
-Go fetch Nana.,お願いです 奈々だけは…,Please request only Nana ...,0.125
-"Yes, Sir.",はい,Yes,0.25
+This time you know you!",0.21428571428571427,0.29276976
+Silence!,うるさい！,Noisy!,0.3333333333333333,0.62524754
+Go fetch Nana.,お願いです 奈々だけは…,Please request only Nana ...,0.125,0.6977631
+"Yes, Sir.",はい,Yes,0.25,0.60876745
 "Ryo, are you really going to\Nlet them take Nana?!","リョウ！ 本当に奈々ちゃんを
 渡してしまう気？","Ryo!Really Nana
-Should I pass?",0.3333333333333333
-"This old man means business, right?",じいさんは本気だ… だろ？,The grande is serious ... is it?,0.07142857142857142
+Should I pass?",0.3333333333333333,0.7483864
+"This old man means business, right?",じいさんは本気だ… だろ？,The grande is serious ... is it?,0.07142857142857142,0.24036013
 "How about a glass of\Nbrandy, old man?","そんな怖い顔してちゃあ
 奈々ちゃんに嫌われちまうぜえ","It's a scary face
-Nana-chan hated",0.06666666666666667
-"No, thank you!",ふん 余計なお世話じゃ！,Fumo no support!,0.2857142857142857
-Maybe Nana is having a\Ndream about pandas.,あっ… う ふっ… 奈々… うっ うっ…,Oh ... I'm sorry ... Nana ...,0.07692307692307693
+Nana-chan hated",0.06666666666666668,0.06960055
+"No, thank you!",ふん 余計なお世話じゃ！,Fumo no support!,0.2857142857142857,0.15297219
+Maybe Nana is having a\Ndream about pandas.,あっ… う ふっ… 奈々… うっ うっ…,Oh ... I'm sorry ... Nana ...,0.07692307692307693,0.51994663
 Nothing we could do.,"あんたや俺達が何を言っても
 今のじいさんには 分からないさ","Any and we say anything
-I do not know the right now",0.13333333333333333
+I do not know the right now",0.13333333333333333,0.37169993
 Looks like he's not the monster\Nwe thought he was.,"あのじいさん 思ったほどの
 悪人じゃあなさそうだから…","As I thought, I thought
-Because it looks like a bad person ...",0.15789473684210525
-Drive slowly! And drive more quietly!,ゆっくりでいい もっと静かに運転しろ！,Slowly driving more quietly!,0.5714285714285714
-"Yes, Sir!",はっ はいっ！,Ha!,0.2
-For Nana I could.,奈々ちゃんの為にも…,Nana for Nana ...,0.3333333333333333
+Because it looks like a bad person ...",0.15789473684210525,0.40902463
+Drive slowly! And drive more quietly!,ゆっくりでいい もっと静かに運転しろ！,Slowly driving more quietly!,0.5714285714285714,0.8998603
+"Yes, Sir!",はっ はいっ！,Ha!,0.2,0.3035601
+For Nana I could.,奈々ちゃんの為にも…,Nana for Nana ...,0.3333333333333333,0.7753748
 In the morning we're going to pay him\Na visit with Mr. Rabbit there.,"明日の朝 そのうさちゃんと一緒に
 様子を見に行こう","Tomorrow morning with the same
-Let's go see the situation",0.13636363636363635
-"Well, good night.",じゃっ… おやすみ,Well ... Good night,0.5
-Papa...,すぅ… は… ひゅぅ… は…,... ... Hyu ...,0.3333333333333333
-"Well, are you up?",おお～ 起きたか,"Oh, did you get up?",0.4444444444444444
-Who are you?,誰？,Who?,0.5
-I don't know you.,へえっ？ 知らない！,Hey?I do not know!,0.3
-I suppose not.\NWe've never met before.,ああ 無理もない 初めて会ったんだから,Oh no impossible I met for the first time,0.13333333333333333
-Mama? Where did Mama go?,ママは ママはどこ行ったの？,Where did Mom gon?,0.42857142857142855
-Your mama went far away.,マ… ママは遠い所だ,Mom is a far place,0.1
-That's not true! That's a lie!,うそ！ うそだもん そんなの～！,lie!Um も も!,0.2222222222222222
-It's not a lie. Take a look.\NLook over there.,ぜ～んぶ 奈々のものだ,It is a thing of,0.15384615384615385
+Let's go see the situation",0.13636363636363635,0.2428236
+"Well, good night.",じゃっ… おやすみ,Well ... Good night,0.5,0.84793746
+Papa...,すぅ… は… ひゅぅ… は…,... ... Hyu ...,0.3333333333333333,0.34183905
+"Well, are you up?",おお～ 起きたか,"Oh, did you get up?",0.4444444444444444,0.6571248
+Who are you?,誰？,Who?,0.5,0.53723156
+I don't know you.,へえっ？ 知らない！,Hey?I do not know!,0.3,0.44297633
+I suppose not.\NWe've never met before.,ああ 無理もない 初めて会ったんだから,Oh no impossible I met for the first time,0.13333333333333333,0.5319204
+Mama? Where did Mama go?,ママは ママはどこ行ったの？,Where did Mom gon?,0.42857142857142855,0.62074924
+Your mama went far away.,マ… ママは遠い所だ,Mom is a far place,0.1,0.6223281
+That's not true! That's a lie!,うそ！ うそだもん そんなの～！,lie!Um も も!,0.2222222222222222,0.32759646
+It's not a lie. Take a look.\NLook over there.,ぜ～んぶ 奈々のものだ,It is a thing of,0.15384615384615385,0.21031171
 There's even a dress-up doll\Nover there for you.,"着せ替えができる
 お人形さんもあるんだぞ","I can change clothes
-There is also a doll",0.125
-"Man, just look at that fancy mansion.",はあ～ こりゃまた立派なお屋敷だこと,Ha ~ It is a good mansion that is a good house,0.125
+There is also a doll",0.125,0.6820956
+"Man, just look at that fancy mansion.",はあ～ こりゃまた立派なお屋敷だこと,Ha ~ It is a good mansion that is a good house,0.125,0.67675424
 "Okay, I think I'm going to go give\NNana her good morning kiss.","さてと… 奈々ちゃんに
 おはようのキスでもしに行こうかなあ","Well ... Nana-chan
-Let's go with good morning kiss",0.2
+Let's go with good morning kiss",0.2,0.5668968
 We're gonna get some\Npayback for yesterday!,"昨日のお礼は
 たっぷりさせてもらうぜ～！","Thank you for yesterday
-Get plenty!",0.3333333333333333
-Take this!,でぇ～い！,Well!,0.25
-I'm a monster!,がお～！ 怪獣だぞ～,Oh!It is a monster ~,0.3333333333333333
-"What is it? What's wrong, Nana?",奈々 どうしたのかな？,What happened to Nana?,0.3
-I want to go home.,おうちへ 帰る…,I will go home ...,0.375
-"No, no! I wanna go to Mama's house.",いや！ いや！ ママのおうちへ帰る…,no!no!Return to Mom's house ...,0.3333333333333333
-"Like I said, Mama is far...",いやあ だ だ だから ママは遠くへ…,"I'm sorry, so my mom is far ...",0.38461538461538464
+Get plenty!",0.3333333333333333,0.43790308
+Take this!,でぇ～い！,Well!,0.25,0.4397278
+I'm a monster!,がお～！ 怪獣だぞ～,Oh!It is a monster ~,0.3333333333333333,0.65040034
+"What is it? What's wrong, Nana?",奈々 どうしたのかな？,What happened to Nana?,0.3,0.6732508
+I want to go home.,おうちへ 帰る…,I will go home ...,0.375,0.67146814
+"No, no! I wanna go to Mama's house.",いや！ いや！ ママのおうちへ帰る…,no!no!Return to Mom's house ...,0.3333333333333333,0.62158877
+"Like I said, Mama is far...",いやあ だ だ だから ママは遠くへ…,"I'm sorry, so my mom is far ...",0.38461538461538464,0.65270025
 "That's a lie! I just hate you, Grandpa!","うそだもん！ おじいちゃんなんか
 だ～いっきら～い！","う そ!Grandpa
-~ ~ I'm sorry!",0.1875
-No!,いやああ～っ！,No ah!,0.6666666666666666
+~ ~ I'm sorry!",0.1875,0.4273384
+No!,いやああ～っ！,No ah!,0.6666666666666666,0.65379685
 Mama! I want to go to Mama!,"はっ… 奈々 ママの所へ
 帰るうう～うう！ あ ああっ…","Ha ... To the place of Nana Mom
-Let's go back!Oh ...",0.17647058823529413
-What are you saying?\NYour papa is...,そっ そんなバカな… 奈々の父親は…,Such stupid ... Nana's father is ...,0.14285714285714285
+Let's go back!Oh ...",0.17647058823529413,0.46480113
+What are you saying?\NYour papa is...,そっ そんなバカな… 奈々の父親は…,Such stupid ... Nana's father is ...,0.14285714285714285,0.4532752
 "See, I was hired on as\NNana's instant papa.","俺は 奈々ちゃんの幸せの為に雇われた
 インスタントパパさ","I was hired for Nana's happiness
-Instant dapers",0.3333333333333333
-What happened to my men?,わしの部下達はどうした？,What happened to the subordinates of,0.3333333333333333
+Instant dapers",0.3333333333333333,0.66785127
+What happened to my men?,わしの部下達はどうした？,What happened to the subordinates of,0.3333333333333333,0.35101077
 "Now that you mention it, I think\Nthey are all taking a nap.","ああ そういえばねえ
 みんな昼寝してたみたいよ～","Oh, I'm sorry
-Everyone seems to have nap",0.14285714285714285
-That's it.,そっ あんたの息子さんだ,It's a son of,0.2857142857142857
-I'm not letting go of Nana!,ふ… 連れ戻しに来たわけじゃないさ,Fu ... I'm not sure to come back,0.21428571428571427
-What? What do you mean?,な 何？ どういうことだ,What is it?What does it mean,0.375
-Reiko...,うん？ れ 玲子…,Yes?Reiko ...,0.5
-"Nana, I'm sorry.",奈々 ごめんなさい,Sorry for Nana,0.2857142857142857
-"Thanks, Kaori-mama!",ママ～ッ！,Mommy!,0.2
+Everyone seems to have nap",0.14285714285714285,0.69566363
+That's it.,そっ あんたの息子さんだ,It's a son of,0.2857142857142857,0.29771772
+I'm not letting go of Nana!,ふ… 連れ戻しに来たわけじゃないさ,Fu ... I'm not sure to come back,0.21428571428571427,0.2739251
+What? What do you mean?,な 何？ どういうことだ,What is it?What does it mean,0.375,0.38524008
+Reiko...,うん？ れ 玲子…,Yes?Reiko ...,0.5,0.8761304
+"Nana, I'm sorry.",奈々 ごめんなさい,Sorry for Nana,0.2857142857142857,0.8514878
+"Thanks, Kaori-mama!",ママ～ッ！,Mommy!,0.2,0.38915014
 Reiko says she's willing to let\Nbygones be bygones.,"玲子さんは 今までの全てのことを
 忘れてもいいと言っている","Mr. Reiko has all the things ever
-She says she can forget she",0.16666666666666666
+She says she can forget she",0.16666666666666666,0.61258864
 Do you have it in you to deprive\NNana of that happiness?,"奈々ちゃんからこの笑顔を奪うことが
 あんたにできるかな？","To take this smile from Nana-chan
-Can you do it?",0.29411764705882354
-"Nana, do you like that man over there?",奈々ちゃん あのおじいちゃん好きかい？,Nana-chan Dusta-Chan Did you like?,0.23076923076923078
-Hi...,は あい…,...,0.5
+Can you do it?",0.29411764705882354,0.28587165
+"Nana, do you like that man over there?",奈々ちゃん あのおじいちゃん好きかい？,Nana-chan Dusta-Chan Did you like?,0.2307692307692308,0.4410044
+Hi...,は あい…,...,0.5,0.51032966
 I hate him! He's an awful man.\NI know it!,"嫌いだもん！ あのおじいちゃん
 悪い人よ きっと！","I hate it!That Grandpa
-Bad people surely!",0.25
+Bad people surely!",0.25,0.3986193
 That's a lie!\NPapa's face isn't like that bad man's!,"うそ！ パパの顔
 こんな悪い人じゃないもん！","lie!Daddy face
-It is not a bad person!",0.375
-"Well, let's go home, Nana.",それじゃ帰りましょう 奈々,Then let's go home Nana,0.5555555555555556
-Yeah!,わは～い ひひっ！,Wow!,0.3333333333333333
+It is not a bad person!",0.375,0.48641163
+"Well, let's go home, Nana.",それじゃ帰りましょう 奈々,Then let's go home Nana,0.5555555555555556,0.8828995
+Yeah!,わは～い ひひっ！,Wow!,0.3333333333333333,0.38460177
 "Wait! Please, won't you let me\Nhug Nana one last time?","た 頼む… もう一度 最後にもう一度
 奈々を抱かせてくれんか？","I ask ... again again again
-Do you hold Nana?",0.15
-Please!,待ってくれ,Wait please,0.3333333333333333
-"Papa is crying, this man who\Nlooks like an old papa.",パパが… 泣いてる…,Daddy ... Crying ...,0.07692307692307693
-Papa's papa!,パパの パパだ！,Daddy's dad!,0.4
-The heart of a child doesn't lie.,子供の心は正直なものだな,The heart of the child is honest,0.36363636363636365
-They never show a smile for\Nsomething that's bad.,醜いものには笑顔を見せない,I can not show a smile for ugly things,0.1875
+Do you hold Nana?",0.15,0.719494
+Please!,待ってくれ,Wait please,0.3333333333333333,0.48213413
+"Papa is crying, this man who\Nlooks like an old papa.",パパが… 泣いてる…,Daddy ... Crying ...,0.07692307692307693,0.51132125
+Papa's papa!,パパの パパだ！,Daddy's dad!,0.4,0.5479256
+The heart of a child doesn't lie.,子供の心は正直なものだな,The heart of the child is honest,0.3636363636363637,0.8010285
+They never show a smile for\Nsomething that's bad.,醜いものには笑顔を見せない,I can not show a smile for ugly things,0.1875,0.6122802
 What's with the camera?\NSome kind of part-time job?,"カメラなんか回して
 なんかのアルバイト？","Camera turning
-Some part-time job?",0.3076923076923077
-Not at all.,やっぱし…,After all ...,0.16666666666666666
+Some part-time job?",0.3076923076923077,0.789643
+Not at all.,やっぱし…,After all ...,0.16666666666666666,0.37240502
 "I'm bodyguard-cum-cameraman for the\Npopular newscaster, Reiko Yuuki.","いえいえ 礼子ちゃんとご一緒するには
 これが一番なんで！","No, I'm sorry for the relationship with Riko
-This is the best!",0.2
-I was starting to think you gave up\Nbeing a sweeper.,スイーパーやめたのかと思った,I thought it was a sweeper,0.3076923076923077
+This is the best!",0.2,0.39856192
+I was starting to think you gave up\Nbeing a sweeper.,スイーパーやめたのかと思った,I thought it was a sweeper,0.3076923076923077,0.6644345
 "City Hunter: ""A Vision Newscaster -\NRyo's Mokkori Scandal Report""","「突撃美人キャスター
 リョウのマル秘モッコリ取材」","""Assault Beauty Caster
-Lyoum's Mark Mokkori Interview",0.15789473684210525
+Lyoum's Mark Mokkori Interview",0.15789473684210525,0.48631695

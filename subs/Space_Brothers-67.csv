@@ -1,53 +1,53 @@
-en_text,jp_text,google_translated,score
-I plan to be the first one chosen to go to the moon and build your telescope.,俺が誰より先に選ばれて➡,I am selected earlier than anyone,0.05
-"If you can keep up with me,",ワシに ついてこられるなら➡,If you can follow you,0.3333333333333333
-"Time for some Q&A, yeah!",Ｑ＆Ａのコーナー イエ～イ！,Q & A corner Yei!,0.36363636363636365
-It was a breeze.,フッフッフッフ 余裕でな｡,Hofufufoff can not afford.,0.1111111111111111
-"Oh, right... next month, i'm returning to japan for a while.",俺 来月から日本に一時帰国だよ｡,I will return to Japan from next month.,0.3333333333333333
-"Y-Yeah, I appreciate it.",お…おう 頼んだ｡,Oh ... I asked.,0.2222222222222222
-I'm off...,あ…そう｡あっ｡,Oh ... yes.,0.14285714285714285
-No thanks necessary.,礼なんか いいんだよ～｡,Thank you very much.,0.125
-It's so shiny!,ピッカピカァ～！,Picka Pica ~!,0.125
-This is Air Traffic Control. you've left your flight path.,飛行ルートが ずれてるぞ｡,The flight route is off.,0.2
-R-Roger that!,りょ…了解！,OK ... OK!,0.2
-I'm hitting the override.,オーバーライドする｡,Override.,0.3333333333333333
-Wait... S-Stop!,ちょっと…や やめて！,A little ... and stop!,0.25
-And this guy won't stop talking.,《そして この男 喋りまくる》,"""And this man is coming",0.16666666666666666
-"""When Lincoln was your age, he read by the light from a stove.""",リンカーンは お前と同じ年の頃➡,Lincoln is the same year as you,0.09090909090909091
-Can you guess what it was?,さて…何と言った？,Well ... what did you say?,0.2727272727272727
-"Is my speed okay, Mr. Young?",この速度でＯＫだよな ヤンじい？,It's OK at this speed?,0.15384615384615385
-You're out of time!,はい 時間切れ｡,Yes out.,0.125
-Here's what the son had to say...,息子は父親に,My son is a father,0.07692307692307693
-Stop moping around.,そう落ち込むなよ｡,Don't drop it so.,0.1111111111111111
-But it's so hard.,こんなに難しいのに…》,"Even though it is so difficult ... """,0.16666666666666666
-There we go.,よっこいせ｡ふう～｡,Good luck.,0.16666666666666666
-"Yeah, I love hammocks.",いや～最高だな ハンモックは｡,No ~ Best Hammock.,0.1
-It's almost touching the ground.,《ちっ 地面スレスレじゃね～か》,"""Chi-ground Sulllessness ~?",0.0
-"Yeah, that's good...",おお いいぞ｡,Good morning.,0.125
-Or draw hearts in the sky.,空にハート描いたりとか｡,Heart drawing in the sky.,0.4444444444444444
-I know that.,んなことは わかってるぜ！,I know what it is!,0.25
-you stand a good chance of getting your girl.,かなりの確率でイチコロだぞ｡,It is a pretty probability.,0.14285714285714285
-Oh... Really?,な なるほど｡,.,0.0
-"Let's flip her upside-down, Mutta.",背面飛行で行くぞ ムッタ！,I will go in the back of the flight Mutta!,0.058823529411764705
-Keep your nose straight.,ノーズを下げるな！,Do not lower the nose!,0.1
-and I become an official astronaut...,認定された後も➡,After being certified,0.0
-"For some reason, that was the moment",＜なぜだか この瞬間から私は➡,<< Why I'm from this moment I,0.07142857142857142
-My job is to deliver one last home run.,俺の仕事はラストの一発勝負｡➡,My work is a single shot of the last.,0.25
-Welcome home!,おかえり 諸君｡,Welcome you.,0.2
-Good to be back!,ただいま～！,It's now!,0.125
-Delicious!,あ～うめえな～｡,"Oh, ume.",0.0
-It was the same way for me.,俺も そうだったけど｡,I was also so.,0.18181818181818182
-Turn to the left 30 degrees.,せんかい,Sorcery,0.0
-Roger that.,お～い ムッタ➡,Mutta ➡,0.0
-"Do you know why?""",なぜだか わかりますか？,Do you know why?,0.8333333333333334
-"Attitude, altitude, and speed are all good.",そうだな～｡,That's right.,0.08333333333333333
-This is what the student said...,生徒は こう答えた｡➡,Students answered this.,0.1
-"Hey, what's going on?",おい！なんだ こりゃ｡,Oi!What is it?,0.18181818181818182
-That was great! too easy.,ハッハッハッ！こんなもんよ｡,Hahaha!Such a thing.,0.18181818181818182
-Then I check my altitude...,んで 高度チェックと…｡,And high check and ....,0.2222222222222222
-What do NASA and Michael Jackson have in common?,『ＮＡＳＡ』と『ﾏｲｹﾙ･ｼﾞｬｸｿﾝ』の,"""NASA"" and ""Michael Jackson""",0.3333333333333333
-They're both aliens?,実は どっちも宇宙人？｣｡,"Actually any alien?"".",0.1
-You rule... That's a good boy.,よしよし⦆,Yoshiyoshi,0.0
-Sounds fun...,フハハハ！そりゃいい！,Fuhahaha!That's right!,0.0
-Some of those are pictures of astronauts who never got to go to space.,宇宙飛行士になれたのに宇宙に➡,"Even though I became a astronaut, in space",0.047619047619047616
-But I guess he must have known.,きっと わかってたんだろう＞,I guess I'm sure>,0.18181818181818182
+en_text,jp_text,google_translated,score,semantic_score
+I plan to be the first one chosen to go to the moon and build your telescope.,俺が誰より先に選ばれて➡,I am selected earlier than anyone,0.05,0.25921637
+"If you can keep up with me,",ワシに ついてこられるなら➡,If you can follow you,0.3333333333333333,0.5498207
+"Time for some Q&A, yeah!",Ｑ＆Ａのコーナー イエ～イ！,Q & A corner Yei!,0.3636363636363637,0.52375793
+It was a breeze.,フッフッフッフ 余裕でな｡,Hofufufoff can not afford.,0.1111111111111111,0.08770347
+"Oh, right... next month, i'm returning to japan for a while.",俺 来月から日本に一時帰国だよ｡,I will return to Japan from next month.,0.3333333333333333,0.8262925
+"Y-Yeah, I appreciate it.",お…おう 頼んだ｡,Oh ... I asked.,0.2222222222222222,0.16782187
+I'm off...,あ…そう｡あっ｡,Oh ... yes.,0.14285714285714285,0.30653536
+No thanks necessary.,礼なんか いいんだよ～｡,Thank you very much.,0.125,0.31885433
+It's so shiny!,ピッカピカァ～！,Picka Pica ~!,0.125,0.2344344
+This is Air Traffic Control. you've left your flight path.,飛行ルートが ずれてるぞ｡,The flight route is off.,0.2,0.6191375
+R-Roger that!,りょ…了解！,OK ... OK!,0.2,0.25166517
+I'm hitting the override.,オーバーライドする｡,Override.,0.3333333333333333,0.7963668
+Wait... S-Stop!,ちょっと…や やめて！,A little ... and stop!,0.25,0.48767516
+And this guy won't stop talking.,《そして この男 喋りまくる》,"""And this man is coming",0.16666666666666666,0.33437538
+"""When Lincoln was your age, he read by the light from a stove.""",リンカーンは お前と同じ年の頃➡,Lincoln is the same year as you,0.09090909090909093,0.48379287
+Can you guess what it was?,さて…何と言った？,Well ... what did you say?,0.2727272727272727,0.25958854
+"Is my speed okay, Mr. Young?",この速度でＯＫだよな ヤンじい？,It's OK at this speed?,0.15384615384615385,0.7106118
+You're out of time!,はい 時間切れ｡,Yes out.,0.125,0.35482657
+Here's what the son had to say...,息子は父親に,My son is a father,0.07692307692307693,0.45887086
+Stop moping around.,そう落ち込むなよ｡,Don't drop it so.,0.1111111111111111,0.24939963
+But it's so hard.,こんなに難しいのに…》,"Even though it is so difficult ... """,0.16666666666666666,0.66947615
+There we go.,よっこいせ｡ふう～｡,Good luck.,0.16666666666666666,0.28122237
+"Yeah, I love hammocks.",いや～最高だな ハンモックは｡,No ~ Best Hammock.,0.1,0.76228905
+It's almost touching the ground.,《ちっ 地面スレスレじゃね～か》,"""Chi-ground Sulllessness ~?",0.0,0.20136374
+"Yeah, that's good...",おお いいぞ｡,Good morning.,0.125,0.36791307
+Or draw hearts in the sky.,空にハート描いたりとか｡,Heart drawing in the sky.,0.4444444444444444,0.78263545
+I know that.,んなことは わかってるぜ！,I know what it is!,0.25,0.36180884
+you stand a good chance of getting your girl.,かなりの確率でイチコロだぞ｡,It is a pretty probability.,0.14285714285714285,0.2265667
+Oh... Really?,な なるほど｡,.,0.0,0.15521944
+"Let's flip her upside-down, Mutta.",背面飛行で行くぞ ムッタ！,I will go in the back of the flight Mutta!,0.05882352941176471,0.49776354
+Keep your nose straight.,ノーズを下げるな！,Do not lower the nose!,0.1,0.7241452
+and I become an official astronaut...,認定された後も➡,After being certified,0.0,0.30758485
+"For some reason, that was the moment",＜なぜだか この瞬間から私は➡,<< Why I'm from this moment I,0.07142857142857142,0.5469837
+My job is to deliver one last home run.,俺の仕事はラストの一発勝負｡➡,My work is a single shot of the last.,0.25,0.46627378
+Welcome home!,おかえり 諸君｡,Welcome you.,0.2,0.5104794
+Good to be back!,ただいま～！,It's now!,0.125,0.30586487
+Delicious!,あ～うめえな～｡,"Oh, ume.",0.0,0.14221144
+It was the same way for me.,俺も そうだったけど｡,I was also so.,0.18181818181818185,0.43482423
+Turn to the left 30 degrees.,せんかい,Sorcery,0.0,0.07805005
+Roger that.,お～い ムッタ➡,Mutta ➡,0.0,0.015349859
+"Do you know why?""",なぜだか わかりますか？,Do you know why?,0.8333333333333334,0.7793813
+"Attitude, altitude, and speed are all good.",そうだな～｡,That's right.,0.08333333333333333,0.076235846
+This is what the student said...,生徒は こう答えた｡➡,Students answered this.,0.1,0.5983629
+"Hey, what's going on?",おい！なんだ こりゃ｡,Oi!What is it?,0.18181818181818185,0.25897834
+That was great! too easy.,ハッハッハッ！こんなもんよ｡,Hahaha!Such a thing.,0.18181818181818185,0.19931774
+Then I check my altitude...,んで 高度チェックと…｡,And high check and ....,0.2222222222222222,0.36069217
+What do NASA and Michael Jackson have in common?,『ＮＡＳＡ』と『ﾏｲｹﾙ･ｼﾞｬｸｿﾝ』の,"""NASA"" and ""Michael Jackson""",0.3333333333333333,0.8634346
+They're both aliens?,実は どっちも宇宙人？｣｡,"Actually any alien?"".",0.1,0.5836973
+You rule... That's a good boy.,よしよし⦆,Yoshiyoshi,0.0,0.1860514
+Sounds fun...,フハハハ！そりゃいい！,Fuhahaha!That's right!,0.0,0.107380375
+Some of those are pictures of astronauts who never got to go to space.,宇宙飛行士になれたのに宇宙に➡,"Even though I became a astronaut, in space",0.047619047619047616,0.5107703
+But I guess he must have known.,きっと わかってたんだろう＞,I guess I'm sure>,0.18181818181818185,0.30861142
