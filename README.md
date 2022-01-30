@@ -16,6 +16,8 @@
  python simul_subs.py --anime_name ANIME_NAME --dir DIRECTORY
  ```
  
+ <strong> The file clean_jp-en_dataset.csv contains JP-EN mapped dataset with 475k samples </strong>
+ 
  The requirement is that the subtitles in the both the directories should be sorted in the ascending or descending order of the episode number. 
  
  <strong> Right now only .ass and .srt files are supported </strong>
@@ -351,7 +353,6 @@
 <li> -[ ] Saint Seiya</li> 
 <li> -[ ] Saiunkoku Monogatari</li> 
 <li> -[ ] Sakasama no Patema</li> 
-<li> -[ ] Saki</li> - X  
 <li> -[ ] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru</li> 
 <li> -[x] Sakurasou no Pet na Kanojo</li>
 <li> -[x] Samurai 7</li> 
@@ -428,12 +429,9 @@
 <li> -[x] Tanaka-kun wa Itsumo Kedaruge</li> 
 <li> -[x] Tari Tari</li> 
 <li> -[x] Tate no Yuusha no Nariagari</li> 
-<li> -[ ] Telepathy Shoujo Ran</li> - X
 <li> -[x] Tensei Shitara Slime Datta Ken</li> 
 <li> -[x] The Big O</li>
 <li> -[x] The_Book of Bantorra</li> 
-<li> -[ ] The Five Star Stories</li> - X
-<li> -[ ] The Rolling Girls</li> - X
 <li> -[ ] The Sky Crawlers</li> 
 <li> -[ ] Thermae Romae</li> 
 <li> -[ ] Tiger & Bunny</li> 
@@ -451,7 +449,6 @@
 <li> -[ ] Tonari no Seki-kun</li> 
 <li> -[x] Tonari no Totoro</li> 
 <li> -[x] Trigun</li>
-<li> -[ ] Trinity Blood</li> - X 
 <li> -[x] Trinity Seven</li> 
 <li> -[ ] Tsubasa Shunraiki</li> 
 <li> -[ ] Tsubasa Tokyo Revelations</li> 
@@ -480,9 +477,7 @@
 <li> -[ ] Wonder Egg Priority</li> 
 <li> -[x] World Trigger</li> 
 <li> -[x] Yakusoku no Neverland</li> 
-<li> -[ ] Yamada-kun to 7-nin no Majo</li> - X
 <li> -[ ] Yojouhan Shinwa Taikei</li> 
-<li> -[ ] Yokohama Kaidashi Kikou</li>  - X
 <li> -[x] Youjou Senki</li> 
 <li> -[ ] Youkai Watch</li> 
 <li> -[x] Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</li> 
@@ -491,7 +486,6 @@
 <li> -[ ] Yu-Gi-Oh! 5D's</li> 
 <li> -[ ] Yu-Gi-Oh! ARC-V</li> 
 <li> -[x] Yumekui Merry</li> 
-<li> -[ ] Yurikuma Arashi</li> - X
 <li> -[ ] Yuru Camp</li> 
 <li> -[ ] Yuru Yuri S2</li> 
 <li> -[ ] Yuru Yuri San Hai!</li> 
